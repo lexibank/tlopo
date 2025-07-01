@@ -22,16 +22,22 @@ cover photograph, featuring two Great Barrier Reef diagonal banded sweetlips
 Majnep & Bulmer (2007), to Dick Watling and M.F. Charters for permission to copy
 drawings of birds from Watling (1982), to Jutta Koestner for drawing these copies and to Ian
 Faulkner for doing several of the drawings of fish.
+
      Other published sources of figures are as follows:
+
 Chapter 2: Pawley & Sayaba (2003): 2.1, 2.2, 2.4, 2.5, 2.6, 2.7, 2.9, 2.11, 2.13, 2.14, 2.15,
      2.16, 2.18, 2.21, 2.22, 2.24, 2.29, 2.30, 2.32, 2.33, 2.34, 2.35; Carcasson (1977): 2.20,
      2.26, 2.31; Tinker (1978): 2.3; FishBase website (Froese & Pauly 2010): 2.8, 2.10,
      2.12, 2.17, 2.23, 2.25, 2.27, 2.28.
+
 Chapter 4: King (1991): 4.1, 4.2, 4.3; Wagner & Abbott (1964): 4.4, 4.5, 4.6 (turban, cone
      and murex); De Luca & Deluca (1976): 4.7, 4.8, 4.9, 4.10.
+
 Chapter 5: Beehler (1991): 5.1, 5.3; Majnep & Bulmer (2007): 5.2, 5.4, 5.5; Pawley & Bul     mer (f.c.): 5.6, 5.13.
+
 Chapter 6: Watling (1982): 6.1, 6.3, 6.4, 6.7, 6.9, 6.10, 6.11, 6.12, 6.15; Beehler (1991): 6.18;
      Beehler et al. (1986): 6.2, 6.21; Mayr (1945): 6.13, 6.14, 6.16.
+
 Chapter 7: Curran (1946): 7.4, 7.5, 7.7, 7.8.
 
 Meredith Osmond and Andrew Pawley
@@ -41,15 +47,15 @@ Canberra, January 2011
                                              xiv
                                                                xxv
 
-Map 1   The Austronesian language family and major subgroups
 
 xxvi
 
-       Map 2   Geographic limits of historically known Oceanic speakers and of presently documented Lapita sites (after Kirch 1997:17, 54)
 
 
 
 1 Introduction
+
+Map 1:   The Austronesian language family and major subgroups
 
 1.1 Aims
 
@@ -67,8 +73,8 @@ a truly remarkable chapter in human prehistory—the colonisation by Austronesia
 of the Indo-Pacific region in the period after about 2000 BC. The outcome was the largest
 of the world’s well-established language families and (until the expansion of Indo-European
 after Columbus) the most widespread. The Austronesian family comprises more than 1,000
-distinct languages. Its eastern and western outliers, Madagascar and Easter Island, are two-
-thirds of a world apart, and its northernmost extensions, Hawai‘i and Taiwan, are separated
+distinct languages. Its eastern and western outliers, Madagascar and Easter Island, are two-thirds
+of a world apart, and its northernmost extensions, Hawai‘i and Taiwan, are separated
 by 70 degrees of latitude from its southernmost outpost, Stewart Island in New Zealand. It is
 likely that the divergence of Oceanic from its nearest relatives, which are the Austronesian
 languages spoken around Cenderawasih Bay and in South Halmahera (Blust 1978a), began
@@ -78,9 +84,10 @@ opinion that associates the subsequent break-up of POc with the rapid colonisati
 Melanesia and the central Pacific by bearers of the Lapita culture between about 1200 and
  900 BC (see Map 2 and volume 2, chapter 2).
 
+Map 2:   Geographic limits of historically known Oceanic speakers and of presently documented Lapita sites (after Kirch_1997:17, 54)
 
 [1] The project has been jointly directed by Andrew Pawley and Malcolm Ross, with research assistance from
- Meredith Osmond, in the Department of Linguistics, Research School of Pacific and Asian Studies at the Aus tralian National University. Originally, five volumes were planned, but the large amount of material has required
+ Meredith Osmond, in the Department of Linguistics, Research School of Pacific and Asian Studies at the Australian National University. Originally, five volumes were planned, but the large amount of material has required
  this to be increased to seven (see p2).
 
 [2] The listing in Tryon (1995) contains 466 Oceanic languages, many of which are subdivisible into dialects.
@@ -108,7 +115,7 @@ classes of lexical roots, not dealt with in earlier volumes. It will review the 
 of the project concerning the culture and environment of Proto Oceanic speakers and will
 compare these findings with what archaeology tells us about the way of life and environment
 of the bearers of the Lapita culture. Volume 7 will also provide an index to the POc and other
-reconstructions presented in the whole work, as well as an English-to-POc fmderlist and a
+reconstructions presented in the whole work, as well as an English-to-POc finderlist and a
 list of all languages cited, together with their subgroups.[3]
 
      The major headings under which animals are divided in this volume, e.g. Fish, Birds,
@@ -175,11 +182,11 @@ Caledonia by Ozanne-Rivierre (1992), Haudricourt & Ozanne-Rivierre (1982) and Ge
 (1989); for Proto Southeast Solomonic by Levy (1980) and Lichtenberk (1988); for Proto Central
 Pacific by Hockett (1976), Geraghty (1983, 1986, 1996 together with a number of unpublished papers);
 for Proto Eastern Oceanic by Biggs (1965), Cashmore (1969), Levy & Smith
-(1970), and Geraghty (1990); and for Proto Central Papuan by Pawley (1975), Lynch (1978,
-1980), and Ross (1994a).
+(1970), and Geraghty (1990); and for Proto Central Papuan by Pawley (1975), Lynch (1978, 1980),
+and Ross (1994a).
 
-    Robert Blust of the University of Hawai‘i has, in a series of papers (1970, 1980, 1983-84,
-1986, 1989) published extensive, alphabetically ordered, lexical reconstructions
+    Robert Blust of the University of Hawai‘i has, in a series of papers (1970, 1980, 1983-84, 1986, 1989)
+published extensive, alphabetically ordered, lexical reconstructions
 (with supporting cognate sets) for interstages earlier than POc, especially for Proto Austronesian, Proto
 Malayo-Polynesian and Proto Eastern Malayo-Polynesian. He has also written several papers
 investigating specific semantic fields (Blust 1980b, 1982, 1987, 1994). Blust has a major
@@ -206,8 +213,8 @@ in Appendix 1.
 
     Several compilations of reconstructions have provided valuable points of reference, both
 inside and outside the Oceanic group. We are indebted particularly to Bender et al. (2003),
-two editions of pollex (Biggs & Clark 1993 and Clark & Biggs 2006), Blust (ACD), Clark
-(2009) and Lynch (2001c).
+two editions of pollex (Biggs & Clark 1993 and Clark & Biggs 2006), Blust (ACD), Clark (2009)
+and Lynch (2001c).
 
     In the course of planning the several volumes for the present project, we came to realise
 that the form in which preliminary publications were presented—namely as essays, each
@@ -289,8 +296,8 @@ For example, it proved possible to reconstruct the following POc terms for tying
 
 __block__
 - POc _*buku_ ‘tie (a knot); fasten’
-- POc *p‘ita ‘tie by encircling’
-- POc *paqu(s), *pciqus-i- ‘bind, lash; construct (canoe +) by lashing together’
+- POc _*pʷita_ ‘tie by encircling’
+- POc *paqu(s), _*paqus-i-_ ‘bind, lash; construct (canoe +) by lashing together’
 - POc _*pisi_ ‘bind up, tie up, wind round, wrap’
 - POc _*kiti_ ‘tie, bind’
 
@@ -303,11 +310,11 @@ about the specific denotation of the item, and in the case of _*kiti_ this preve
 of a more specific meaning. The verb _*buku_ can be identified as the generic term for tying
 a knot because of its derivational relationship (by zero derivation) with a noun whose denotation
 is clearly generic, _*buku_ ‘node (as in bamboo or sugarcane); joint; knuckle; knot in
-wood, string or rope’ (vol.1, ch.4, §3.2). Reconstruction of the meaning of *p wita as ‘tie by
+wood, string or rope’ (vol.1, ch.4, §3.2). Reconstruction of the meaning of _*pʷita_ as ‘tie by
 encircling’ is supported by the meanings of the Lukep, Takia and Longgu reflexes, respectively
 ‘tie by encircling’, ‘tie on (as grass-skirt)’, and ‘trap an animal’s leg; tie s.t. around
 ankle or wrist’: Lukep and Takia are North New Guinea languages, whilst Longgu is SE
-Solomonic. Reconstruction of the meaning of *paqu(s), _*paqus-i-_ as ‘bind, lash; construct
+Solomonic. Reconstruction of the meaning of _*paqu(s)_, _*paqus-i-_ as ‘bind, lash; construct
 (canoe +) by tying together’ is supported by the meanings of the Takia, Kiribati and Samoan
 reflexes, respectively ‘tie, bind; construct (a canoe)’, ‘construct (canoe, house)’, and ‘make,
 construct (wooden objects, canoes +)’: Takia is a North New Guinea language, Kiribati is
@@ -353,14 +360,12 @@ explain how we handle the rake-like structure in making reconstructions.
 
                                                                                         Introduction     7
 
-
-     Figure 1.1       Schematic diagram showing higher-order subgroups of Austronesian
-                                          languages.
+Figure 1.1: Schematic diagram showing higher-order subgroups of Austronesian languages.
 
 
 1.3.2.2 Kinds of subgroup
 
-In Figures 1.1 and 1.2 each node is either a single language,3 usually a reconstructed
+In Figures 1.1 and 1.2 each node is either a single language,[5] usually a reconstructed
 protolanguage, or, in italics, a group of languages.
 
 
@@ -373,7 +378,7 @@ protolanguage, or, in italics, a group of languages.
 
                                                                                                        Proto Oceanic
 
-      Figure 1.2     Schematic diagram showing the subgrouping of Oceanic Austronesian languages.
+Figure 1.2: Schematic diagram showing the subgrouping of Oceanic Austronesian languages.
 
                                                                                               Introduction       9
 
@@ -413,7 +418,7 @@ any innovations of its own.[10]
 
     Second, a linkage may consist of some but not all of the languages descended from a
 single parent. The Western Oceanic linkage reflects the innovations of POc, but no innovation
-is common to the whole of Western Oceanic (although the merger of POc _*r_ and *R comes
+is common to the whole of Western Oceanic (although the merger of POc _*r_ and _*R_ comes
 close). However, the languages of its three component linkages—North New Guinea, Papuan
 Tip and Meso-Melanesian—display complex patterns of overlapping innovations. The Western Oceanic
 linkage appears to be descended from the dialects of POc that were left behind
@@ -462,7 +467,7 @@ of at least two dialect networks, North Vanuatu and Central Vanuatu, that probab
 diverged greatly from each other, but the details of this history are difficult to elucidate (Lynch
 2000c).[12]
 
-    The languages of a linkage have no identifiable exclusively shared parent.Yet we have
+    The languages of a linkage have no identifiable exclusively shared parent. Yet we have
 found many instances in which a cognate set is limited to one of the linkages in Figures 1.1
 and 1.2: CEMP, Western Oceanic, New Guinea Oceanic, Southern Oceanic or the reintegrated
 North and Central Vanuatu linkage. As with PEOc and Proto Remote Oceanic (§3.2.4), we think it is preferable
@@ -473,6 +478,7 @@ they are attributed. In addition to the explanations of the kinds offered for PE
 etyma in §3.2.4 it is possible, for example, that an innovatory ‘PWOc’ etymon arose when the
 Western Oceanic dialect network was still close-knit, and spread from dialect to dialect before
 the network broke into the two networks ancestral to its present-day first-order subgroups.
+
 
 1.3.2.3 Further notes on subgroups
 
@@ -496,7 +502,7 @@ only in NNG and PT languages are attributed to a putative Proto New Guinea Ocean
 
                                                            Introduction
 
-Map 3   Groups of Oceanic languages used in cognate sets
+Map 3: Groups of Oceanic languages used in cognate sets
 
 12 Malcolm Ross, Andrew Pawley and Meredith Osmond
 
@@ -506,12 +512,11 @@ support was provided by Levy (1979, 1980, n. d,), Tryon & Hackman (1983) and Lic
 
      Temotu comprises the languages of the Reef Islands, Santa Cruz, Utupua and Vanikoro,
 located 400 km east of the main Solomons archipelago and to the north of Vanuatu (Map 3).
-It was established as a proper subgroup by (Ross & Nasss 2007).
+It was established as a proper subgroup by (Ross & Nᴂss 2007).
 
     The Southern Oceanic linkage as proposed by Lynch (1999, 2000, 2001, 2004) is characterised
 by complex overlapping innovations, but by none that are reflected in all its member languages
-and would qualify it as a proper subgroup (see discussion in Lynch et al.
-2002: 112-114).[13]
+and would qualify it as a proper subgroup (see discussion in Lynch et al. 2002: 112-114).[13]
 
     Micronesian is a proper subgroup (Jackson 1983, 1986, Bender et al. 2003).
 
@@ -534,7 +539,7 @@ The PMP term _*apij_ ‘twins’ is reflected in several western Malayo-Polynesi
 namely Roviana avisi ‘twins of the same sex’. Because Roviana belongs to a different first-
 order branch of Malayo-Polynesian from the western Malayo-Polynesian witnesses and because
 there is virtually no chance that the agreement is due to borrowing or chance similarity,
-this distribution is enough to justify the reconstruction of PMP *apij, POc _*apic_ ‘twins’.
+this distribution is enough to justify the reconstruction of PMP _*apij_, POc _*apic_ ‘twins’.
 
     The rake-like form of Figure 1.2 almost certainly reflects the very rapid settlement of
 Oceania out of the Bismarcks,[14] but it confronts us with a methodological question. If we
@@ -547,19 +552,18 @@ spread of Oceanic speakers, this is too loose a criterion. Instead, we assume tw
 nodes not shown in the tree in Figure 1.2.[15] These are
 
 __ul__
-    • Remote Oceanic, comprising Southern Oceanic, Micronesian and Central Pacific;
-    • Eastern Oceanic, comprising SE Solomonic and Remote Oceanic.[16]
+- Remote Oceanic, comprising Southern Oceanic, Micronesian and Central Pacific;
+- Eastern Oceanic, comprising SE Solomonic and Remote Oceanic.[16]
 
 
 [13] Because they have only been recently proposed, Temotu and Southern Oceanic do not appear in Figure 1 of
 volumes 1 and 2.
 
 [14] Bearers of the Lapita culture had settled various parts of the Bismarck Archipelago by around 1400 BC
- (Specht 2007) and colonised the Reefs and Santa Cruz Is. in the Temotu Archipelago by 1200-1100 BC (Green
-2003, Green et al. 2008). There were Lapita settlements in New Caledonia by 1100-1000 BC (Sand 2001), in
-Fiji by about 1000 BC (Clark & Anderson 2009, Nunn et al. 2004), in Tonga by 900 BC (Burley & Connaughton
-2007), and in Samoa and the smaller islands between Tonga and Samoa by 800-700 BC (Clark & Anderson
-2009).
+ (Specht 2007) and colonised the Reefs and Santa Cruz Is. in the Temotu Archipelago by 1200-1100 BC
+(Green 2003, Green et al. 2008). There were Lapita settlements in New Caledonia by 1100-1000 BC (Sand 2001), in
+Fiji by about 1000 BC (Clark & Anderson 2009, Nunn et al. 2004), in Tonga by 900 BC (Burley & Connaughton 2007),
+and in Samoa and the smaller islands between Tonga and Samoa by 800-700 BC (Clark & Anderson 2009).
 
 [15] We included these nodes in the corresponding tree in Figure 1 of volumes 1 and 2, but this was too easily
 interpreted as a statement of our views on subgrouping, so we abandon it here and in Appendix 2.
@@ -567,10 +571,10 @@ interpreted as a statement of our views on subgrouping, so we abandon it here an
 [16] The term ‘Eastern Oceanic’ and the search for evidence of an Eastern Oceanic subgroup has a relatively
 long pedigree in Oceanic linguistics (Biggs 1965, Pawley 1972, Pawley 1977, Lynch & Tryon 1985, Geraghty
  1990). However, by the time volume 1 of the present work was published in 1998 it was already evident that
-innovations supporting the existence of an Eastern Oceanic subgroup were not forthcoming, as Pawley & Ross
- (1995:79) had mentioned in a footnote. Our use of the term here is more inclusive than most, resembling more
-closely the ‘Central/Eastern Oceanic’ of Lynch & Tryon (1983) (the published version of which, Lynch & Tryon
- 1985, presents a less inclusive version of Central/Eastern Oceanic) and of Lynch et al. (2002:94-96). who also
+innovations supporting the existence of an Eastern Oceanic subgroup were not forthcoming, as
+Pawley & Ross (1995:79) had mentioned in a footnote. Our use of the term here is more inclusive than most, resembling more
+closely the ‘Central/Eastern Oceanic’ of Lynch & Tryon (1983) (the published version of which, Lynch & Tryon 1985,
+presents a less inclusive version of Central/Eastern Oceanic) and of Lynch et al. (2002:94-96). who also
 express reservations about its status.
 
                                                                                          Introduction       13
@@ -659,35 +663,38 @@ correspondences we have used are those given by Ross (1988) for Western Oceanic 
 by Levy (1979, 1980) and Lichtenberk (1988) for Cristobal-Malaitan, by Pawley
 (1972) and Tryon & Hackman (1983) for SE Solomonic; by Ross & Nasss (2007) for Temotu;
 by Tryon (1976) and Clark (2009) for North and Central Vanuatu; by Lynch (1978, 2001)
-for Southern Vanuatu; by Geraghty (1989), Haudricourt & Ozanne-Rivierre (1982), Ozanne-
-Rivierre (1992) and Ozanne-Rivierre (1995) for New Caledonia; by Jackson (1986) and Ross
-(1996a) for Nuclear Micronesian; by Geraghty (1986) for Central Pacific; by Biggs (1978)
+for Southern Vanuatu; by Geraghty (1989), Haudricourt & Ozanne-Rivierre (1982), Ozanne-Rivierre (1992)
+and Ozanne-Rivierre (1995) for New Caledonia; by Jackson (1986) and Ross (1996a) for Nuclear
+Micronesian; by Geraghty (1986) for Central Pacific; by Biggs (1978)
 for Polynesian; by Ross (1996a) for Yapese; and by Ross (1996b) for Oceanic languages of
 Irian Jaya.
 
 [18] On the positions of Yapese and Mussau. see respectively Ross (1996a) and Ross (1988:315-316, 331).
 
 
-Map 4      Oceanic language groups in northwest Melanesia: the Admiralties and St Matthias groups and the
-                                      subgroups of Western Oceanic
+Map 4: Oceanic language groups in northwest Melanesia: the Admiralties and St Matthias groups and the subgroups of Western Oceanic
 
 16 Malcolm Ross, Andrew Pawley and Meredith Osmond
 
-__pre__
-                   Table 1.1         Reconstructed paradigm of POc phonemes
-                            'I' pw     *p         *c             *q
-                                            *t
-                            *b'v       *b   *d    *J   *g
-                                            *s
-                            *mw        *m   *n    *n
-                                                                 *R
-                                            *dr
-                                            *1
-                            *w                    *y
-                                            *a
+: Table 1.1         Reconstructed paradigm of POc phonemes
 
-    For non-Oceanic languages we have referred to sound correspondences given by Tsuchida
-(1976) for Formosan languages; by Zorc (1977, 1986) and Reid (1982) for the Philippines;
+__tablenh__
+                                   _*pʷ_    |  _*p_   |  _*t_     |    _*c_   |    _*k_  |  _*q_
+                                   _*bʷ_    |  _*b_   |  _*d_     |    _*j_   |    _*g_  |
+                                           |        |    _*s_     |          |          |
+                                   _*mʷ_    |  _*m_   |  _*n_     |    _*ñ_  |     _*ŋ_ |
+                                          |       |      _*r_     |         |        |  _*R_
+                                          |       |      _*dr_    |         |        |
+                                          |       |      _*l_     |         |        |
+                                   _*w_     |       |           |    _*y_   |        |
+
+__tablenh__
+                                            _*i_   |           |    _*u_
+                                            _*e_   |           |    _*o_
+                                                 |    _*a_     |
+
+    For non-Oceanic languages we have referred to sound correspondences given by Tsuchida (1976)
+for Formosan languages; by Zorc (1977, 1986) and Reid (1982) for the Philippines;
 by Adelaar (1992b) and Nothofer (1975) for Malay and Javanese; by Sneddon (1984) for
 Sulawesi; by Collins (1983) for Central Maluku; and by Blust (1978a) for South Halmahera
 and Irian Jaya.
@@ -704,12 +711,12 @@ to account for, irregularities in cognate sets.
 Work based on the sound correspondences of both Oceanic and non-Oceanic languages has
 resulted in the reconstructed paradigm of POc phonemes shown in Table 1.1. The orthography
 used here and in the POc reconstructions in this work is from Ross (1988), with the
-addition of *p w and *k w. POc phonology and its relationship to PMP are discussed in greater
+addition of _*pʷ_ and _*kʷ_. POc phonology and its relationship to PMP are discussed in greater
 detail in Chapter 2 (§2) of volume 1. Since the publication of volume 1, articles by John
 Lynch have appeared on POc stress (2000) and POc labiovelar phonemes (2002). The putative
-protophoneme *k w is added in this volume for the first time as a result of taking stock
+protophoneme _*kʷ_ is added in this volume for the first time as a result of taking stock
 of reconstructions in volumes 1-3 and the current volume. It must have had a very low
-functional load, as it occurs only word-initially before *a and then only rarely (Ross 2010).
+functional load, as it occurs only word-initially before _*a_ and then only rarely (Ross 2010).
 
                                                                                         Introduction   17
 
@@ -730,77 +737,61 @@ Generally, each contribution begins with an introduction to the issues raised by
 its particular terminology, and the bulk of each contribution consists of reconstructed etyma
 with supporting data and a commentary on matters of meaning and form.
 
-     The reconstruction of POc *taRaqan ‘Holocentrus spp., squirrelfish’ below, adapted from
+     The reconstruction of POc _*taRaqan_ ‘Holocentrus spp., squirrelfish’ below, adapted from
 Chapter 2, §14, shows how reconstructions and supporting cognate sets are presented. Above
 it is a superordinate (PMP) reconstruction drawn from Blust’s Austronesian Comparative
 Dictionary (ACD; see §2). Below it are supporting reflexes. Contributors vary in the degree to
-which they insert lower-order reconstructions like PMic _*tard_ and PPn *taʔa below. Lower-
-order reconstructions are sometimes given to clarify the relationship of reflexes to the higher-
-order reconstruction: Southern Vanuatu languages, for example, have undergone so much
+which they insert lower-order reconstructions like PMic _*tard_ and PPn _*taʔa_ below. Lower-order
+reconstructions are sometimes given to clarify the relationship of reflexes to the higher-order
+reconstruction: Southern Vanuatu languages, for example, have undergone so much
 phonological change that a Proto Southern Vanuatu reconstruction helps explicate the relationship
-between Southern Vanuatu reflexes and the POc reconstruction. Sometimes a lower-
-order reconstruction displays an extension of meaning or some other semantic change.
+between Southern Vanuatu reflexes and the POc reconstruction. Sometimes a lower-order
+reconstruction displays an extension of meaning or some other semantic change.
 
-__pre__
-PMP *taRaqan ‘Holocentrus spp., squirrelfish’ (ACD)
-POc *taRaqan ‘Scirgocentron spp., squirrelfish, including A spiniferunf (Geraghty 1990:
-  PEOc *taRciʔa)
-  Adm: Loniu          taʔay          ‘squirrelfish or silver biddy’ (metathesis: expected form ^1aya(?))
-  NNG: Yabem          talaŋ          ‘a red sea fish’
-  PT:    Gumasi       tayawana       ‘squirrel fish’
-     PT:   Misima       talayan       ‘Sargocentron spp., spiny and blue-striped
-                                      squirrelfish’
-  PT:    Motu           tara          ‘S. violaceum, violet squirrelfish’
-  MM: Nakanai           talaha        ‘k.o. fish’
-  MM: Lihir             taran         ‘S. spiniferum, spinecheek squirrelfish’
-  MM: Roviana           ta-tara       ‘small reddish fish, easily hooked’
-  SES: Gela             tala          ‘S. spiniferum, spinecheek squirrelfish’
-  NCV: S Efate          tra(kap)      ‘squirrelfish’
-  NCal: Pije           jald           ‘Holocentrus spinifef [S. spiniferum]
-  NCal: Jawe           jarak          ‘H. spinifef [S. spiniferum]
-PMic *tara ‘squirrelfish’ (Bender et al. 2003)
-  Mic: Kiribati         td            ‘_Sargocentron spp._’
-  Mic: Marshallese cera               ‘Sargocentron, _Myripristis spp._, squirrelfish’
-  Mic: Ponapean         sara          ‘S. spiniferum, spinecheek squirrelfish’
-  Mic: Chuukese         sard          ‘Sargocentron sp., yellow-lined squirrel fish’
-  Mic: Woleaian         sezd          ‘Adioryx spinifer, spiny squirrel fish’ [S. spiniferum]
-  Mic: Puluwatese hara                ‘k.o. red fish’
-PPn *taʔa ‘Sargocentron spiniferum, armoured soldierfish’ (Hooper 1994)
-  Pn:    Tongan         taʔa          ‘S. spiniferum, red, edible’
-  Pn:    Niuean         td            ‘Myripristis violacea, lattice soldierfish’
-  Pn:    Pukapukan td                 ‘S. spiniferum’
-  Pn:    Samoan         td (malau)    ‘name given to certain fishes of genus Sargocentron
-                                      when about 30 cm in length’. (See also under
-                                      *malau below.)
-  Pn:    K’marangi td                 ‘S. ruber, red squirrelfish’ [S. rubrum]
-  Pn:    Tokelauan td                 ‘S. spiniferum’
-  Pn:    Tuvaluan       td (malau)    ‘_Adioryx spp._’ [Sargocentron]
-  Pn:    Tikopia        ta            ‘sea fish, app. related to large squirrelfish’
+__tablenh__
+PMP | _*taRaqan_ | ‘_Holocentrus_ spp., squirrelfish’ (ACD)
+POc | _*taRaqan_ | ‘_Scirgocentron_ spp., squirrelfish, including _A spiniferum_’ (Geraghty 1990: PEOc _*taRciʔa_)
+  Adm: Loniu        |  _taʔay_       |   ‘squirrelfish or silver biddy’ (metathesis: expected form †_taya(ʔ)_)
+  NNG: Yabem        |  _talaŋ_       |   ‘a red sea fish’
+  PT:    Gumasi     |  _tayawana_    |   ‘squirrel fish’
+     PT:   Misima   |    _talayan_   |    ‘Sargocentron spp., spiny and blue-striped squirrelfish’
+  PT:    Motu       |    _tara_      |    ‘S. violaceum, violet squirrelfish’
+  MM: Nakanai       |    _talaha_    |    ‘k.o. fish’
+  MM: Lihir         |    _taran_     |    ‘S. spiniferum, spinecheek squirrelfish’
+  MM: Roviana       |    _ta-tara_   |    ‘small reddish fish, easily hooked’
+  SES: Gela         |    _talā_      |    ‘S. spiniferum, spinecheek squirrelfish’
+  NCV: S Efate      |    _tra(kap)_  |    ‘squirrelfish’
+  NCal: Pije        |   _jalā_       |    ‘Holocentrus spinifer’ [S. spiniferum]
+  NCal: Jawe        |   _jarak_      |    ‘H. spinifer’ [S. spiniferum]
+PMic | _*tarā_ | ‘squirrelfish’ (Bender et al. 2003)
+  Mic: Kiribati     |    _tā_      |      ‘_Sargocentron spp._’
+  Mic: Marshallese  | _cera_       |        ‘Sargocentron, _Myripristis spp._, squirrelfish’
+  Mic: Ponapean     |    _sara_    |      ‘S. spiniferum, spinecheek squirrelfish’
+  Mic: Chuukese     |    _sarā_    |      ‘Sargocentron sp., yellow-lined squirrel fish’
+  Mic: Woleaian     |    _sezā_    |      ‘Adioryx spinifer, spiny squirrel fish’ [S. spiniferum]
+  Mic: Puluwatese   | _hara_       |         ‘k.o. red fish’
+PPn | _*taʔa_ | ‘Sargocentron spiniferum, armoured soldierfish’ (Hooper 1994)
+  Pn:    Tongan    |     _taʔa_        |  ‘S. spiniferum, red, edible’
+  Pn:    Niuean    |     _tā_          |  ‘Myripristis violacea, lattice soldierfish’
+  Pn:    Pukapukan |_tā_               |  ‘S. spiniferum’
+  Pn:    Samoan    |     _tā (malau)_  |  ‘name given to certain fishes of genus Sargocentron when about 30 cm in length’. (See also under _*malau_ below.)
+  Pn:    K’marangi |_tā_               |  ‘S. ruber, red squirrelfish’ [S. rubrum]
+  Pn:    Tokelauan |_tā_               |  ‘S. spiniferum’
+  Pn:    Tuvaluan  |     _tā (malau)_  |  ‘_Adioryx spp._’ [Sargocentron]
+  Pn:    Tikopia   |     _ta_          |  ‘sea fish, app. related to large squirrelfish’
 
+: Table 1.2    POc orthographies after Grace (1969) and Ross (1988)
 
-__pre__
-             Table 1.2    POc orthographies after Grace (1969) and Ross (1988)
-    Grace   oral grade     *p          —         *t     *d/
-                                                        r
-                                                        **s          *j   *k    —
-    Ross                   *p                    *t              *s          *
-                                                                             c    *k    *kw
-    Grace   nasal grade   *mp    *qp/
-                                 *
-                                 mpw             *nt   *
-                                                       n r
-                                                       *nd/            *nj        *pk
-    Ross                   *b                    *d        *dr         *j         *g
-    Grace                 *m     mw
-                                 *qm/
-                                 **n       *n     *ij        w
-                                                                            **y     *1   *q   *
-                                                                                                   R
-    Ross                  *m          •fc jɪɪw   *n       *n     *ij        w
-                                                                            **y     *1   *q   *
-                                                                                                   R
-    Grace                  *i          *0        *e       *a     *u
-    Ross                   *i          *0        *e       *a     *u
+__tablenh__
+     Grace    oral grade      *p           *pw            *t          *d/ *r   *s          *j   *k
+     Ross                     *p           *pw            *t            *r     *s          *c   *k
+     Grace    nasal grade    *mp        *l)pl *mpw        *nt    *ndl *nr            *nj        *l)k
+     Ross                     *b             *bw          *d       *dr                *j         *g
+     Grace                    *m        *l)ml *mw         *n           *fi     *I)     *w       *y     *l   *q   *R
+     Ross                     *m           *mw            *n           *fi     *I)     *w       *y     *l   *q   *R
+     Grace                    *i           *o             *e           *a      *u
+     Ross                     *i           *o             *e           *a      *u
+
 
 18     Malcolm Ross, Andrew Pawley and Meredith Osmond
 
@@ -862,20 +853,20 @@ collectively as a work of reference.
 : Table 1.3     Abbreviations for the genealogical or geographic groups
 
 __tablenh__
-    Yap:     Yapese(one language)
-    Adm:    Admiralty and Mussau/Tench
-    SJ:      Sarmi/Jayapura
-    NNG:    North New Guinea
-    PT:     Papuan Tip
-    MM:      Meso-Melanesian
-    SES:     Southeast Solomonic
-    TM:      Temotu
-    NCV:    North/Central Vanuatu, i.e. the reintegrated network formed by the North and Central Vanuatu linkages
-    SV:      Southern Vanuatu
-    NCal:    Loyalty and New Caledonia
-    Mic:     Micronesian
-    Fij:     Fijian, i.e. the reintegrated network formed by Western and Eastern Fijian dialects
-    Pn:      Polynesian
+    Yap:  |   Yapese(one language)
+    Adm:  |  Admiralty and Mussau/Tench
+    SJ:   |   Sarmi/Jayapura
+    NNG:  |  North New Guinea
+    PT:   |  Papuan Tip
+    MM:   |   Meso-Melanesian
+    SES:  |   Southeast Solomonic
+    TM:   |   Temotu
+    NCV:  |  North/Central Vanuatu, i.e. the reintegrated network formed by the North and Central Vanuatu linkages
+    SV:   |   Southern Vanuatu
+    NCal: |   Loyalty and New Caledonia
+    Mic:  |   Micronesian
+    Fij:  |   Fijian, i.e. the reintegrated network formed by Western and Eastern Fijian dialects
+    Pn:   |   Polynesian
 
 20    Malcolm Ross, Andrew Pawley and Meredith Osmond
 
@@ -891,41 +882,45 @@ Where only a few reflexes are known to us, this is usually noted.
 
      Although there are accepted or standard orthographies for a number of the languages from
 which data are cited here, all data are transcribed as far as possible into a standard phonemic
-orthography based on that used by Ross (1988: 3^4) in order to facilitate comparison.[19] This
-means, for example, that the j of the German-based orthographies of Yabem and Gedaged
-becomes ʃ, Yabem c becomes 2, Gedaged z becomes I and so on; the ng of English-based
-orthographies becomes ŋ`, and Fijian g, q and c become ŋ, g and ð respectively.
+orthography based on that used by Ross (1988: 3--4) in order to facilitate comparison.[19] This
+means, for example, that the _j_ of the German-based orthographies of Yabem and Gedaged
+becomes _ʃ_, Yabem _c_ becomes _ʔ_, Gedaged _z_ becomes _ɬ_ and so on; the _ng_ of English-based
+orthographies becomes _ŋ_, and Fijian _g_, _q_ and _c_ become _ŋ_, _g_ and _ð_ respectively.
 
-     The following symbols have more or less their usual IPA values: ð, g, y, h, k, I, l, I, T, m, n,
-ŋ, h, p, q, /, r, /; s, t, w, x, z, ?, a, æ, e, s, ə, i, i, o, æ, o, .t, u, ui. As far as possible, however, our
+     The following symbols have more or less their usual IPA values:
+_ð_, _g_,
+_ɢ_, _ɣ_, _h_, _k_, _l_, _ɬ_, _ʎ_, _m_, _n_, _ŋ_, _ñ_, _p_, _q_, _χ_, _ɾ_, _r_, _s_, _t_, _w_, _x_,
+_z_, _ʔ_, _a_, _ᴂ_, _e_, _ɛ_, _ə_, _i_, _ɨ_, _o_, _œ_, _ɔ_, _ʌ_, _u_, _ɯ_.
+As far as possible, however, our
 orthography is phonemic and does not show allophonic variation, so that there are instances
-where a symbol does not have its usual phonetic value. For example, Wayan Fijian k is a
+where a symbol does not have its usual phonetic value. For example, Wayan Fijian _k_ is a
 voiceless stop word-initially but [k] is in free or stylistic variation with [y] word-medially.
-The voiced stops b, d, g and the voiced bilabial trill b are prenasalised in some languages,
-but prenasalisation is not written unless it is phonemically distinctive. Where a language has
-just one rhotic, we usually write r, despite the fact that that rhotic is sometimes a flap. Other
-orthographic symbols (with values in IPA) are:
+The voiced stops
+_b_, _d_, _g_ and the voiced bilabial trill _ʙ_ are prenasalised in some languages, but prenasalisation
+is not written unless it is phonemically distinctive. Where a language has
+just one rhotic, we usually write r, despite the fact that that rhotic is sometimes a flap.
+Other orthographic symbols (with values in IPA) are:
 
-__pre__
-             f      [$, fɪ       voiceless bilabial or (less often) labio-dental fricative
-             v      [P, v]       voiced bilabial or (less often) labio-dental fricative
-             c      [ts], [tn    voiceless alveolar or palatal affricate
-             j      [cfe], [ʤ]   voiced alveolar or palatal affricate
-             y      D]           palatal glide
-             dr     fɪr]         prenasalised voiced alveolar trill (as in Fijian)
-             o      [0]          rounded mid front vowel
-             u      [y]          rounded high front vowel
+__tablenh__
+           _f_  |  [ɸ, f]     |  voiceless bilabial or (less often) labio-dental fricative
+           _v_  |  [β, v]     |  voiced bilabial or (less often) labio-dental fricative
+           _c_  |  [ts], [tʃ] |  voiceless alveolar or palatal affricate
+           _j_  |  [dz], [dʒ] |  voiced alveolar or palatal affricate
+           _y_  |  [j]        |  palatal glide
+           _dr_ |  [ⁿr]       |  prenasalised voiced alveolar trill (as in Fijian)
+           _ö_  |  [ø]        |  rounded mid front vowel
+           _ü_  |  [y]        |  rounded high front vowel
 
  Other superscripts and diacritics are as follows:
 
-__ul__
-     • contrastive long vowels are represented by a macron, e.g. d;
-     • contrastive vowel nasalisation in New Caledonian languages is represented by a circumflex, e.g. a;
-     • labialisation is marked by a superscript w, e.g. p‘;
-     • velarisation is marked by a superscript ui, e.g.
-     • contrastive aspiration is marked by a superscript h, e.g. ph',
-     • apicolabials are represented by the corresponding apical symbol and the linguolabial diacritic (the ‘seagull’), e.g./;
-     • retroflexes are represented by the corresponding apical symbol with a dot beneath, e.g. r.
+__block__
+- contrastive long vowels are represented by a macron, e.g. _ā_;
+- contrastive vowel nasalisation in New Caledonian languages is represented by a circumflex, e.g. _â_;
+- labialisation is marked by a superscript _w_, e.g. _pʷ_;
+- velarisation is marked by a superscript _ɯ_, e.g. _pᵚ_;
+- contrastive aspiration is marked by a superscript _h_, e.g. _pʰ_;
+- apicolabials are represented by the corresponding apical symbol and the linguolabial diacritic (the 'seagull' ), e.g. _tᫀ_;
+- retroflexes are represented by the corresponding apical symbol with a dot beneath, e.g. _ṛ_.
 
 [19] The main reason for retaining Ross' orthography was that the electronic files initially used in this project
 were drawn in large part from those used in the research reported in Ross (1988).
@@ -940,8 +935,8 @@ by a hyphen at the beginning or end of the base. This applies particularly to po
 suffixes on directly possessed nouns (vol. 1, ch.2, §3.2). Where an inflexional morpheme cannot
 readily be omitted, then it is separated from its base by a hyphen. This may happen because
 of complicated morphophonemics or because the morpheme is always present, like the adjectival
--n in some NNG and Admiralties languages and prefixed reflexes of the POc article
- *na in scattered languages. When a reflex is itself polymorphemic (i.e. the morphemes reflect
+_-n_ in some NNG and Admiralties languages and prefixed reflexes of the POc article
+ _*na_ in scattered languages. When a reflex is itself polymorphemic (i.e. the morphemes reflect
 morphemes present in the reconstructed etymon) or contains a reduplication, the morphemes
 or reduplicates are also separated by a hyphen.
 
@@ -958,15 +953,15 @@ whilst others are represented simply by the dialect name, e.g. Iduna, noted in A
 
 1.4.3 Conventions used in representing reconstructions
 
-Reconstructions are marked with an asterisk, e.g. *tciRaqcin ‘squirrelfish’, in keeping with
+Reconstructions are marked with an asterisk, e.g. _*taRaqan_ ‘squirrelfish’, in keeping with
 the standard convention in historical linguistics. POc reconstructions, and also PWOc and
-PNGOc reconstructions, are given in the orthography of §3.4. For reconstructions at higher-
-order interstages the orthographies are those used by Blust in his various publications and the
+PNGOc reconstructions, are given in the orthography of §3.4. For reconstructions at higher-order
+interstages the orthographies are those used by Blust in his various publications and the
 ACD. Reconstructions at lower-order interstages are given in the standard orthography adopted
 for data (§4.2). Geraghty’s (1986) PCP orthography, for example, is based on Standard Fijian
 spelling, and is converted into our standard orthography in the same way as Fijian spelling is.
 In practice, this means that the orthographies for PEOc, Proto Remote Oceanic and PCP are the same as for
-POc, except that a distinction between *p and *v is recognised and *R is absent from PCP.
+POc, except that a distinction between _*p_ and _*v_ is recognised and _*R_ is absent from PCP.
 Biggs and Clark’s PPn reconstructions are in any case written in an orthography identical
 to our standard. Bracketing and segmentation conventions in protoforms are shown in Table
  1.4.
@@ -975,46 +970,46 @@ to our standard. Bracketing and segmentation conventions in protoforms are shown
 cases decisive evidence for retention or loss can be found in those Oceanic languages that
 usually retain final consonants. However, there are some cases where it is uncertain whether
 POc kept the PMP finals. This is so when a PMP etymon is not attested in an Oceanic language that
-consistently retains POc final consonants. An example is *-R in PMP *kamaliR
+consistently retains POc final consonants. An example is _*-R_ in PMP _*kamaliR_
 ‘men’s house’, a term reflected in Oceanic only in certain languages that regularly lose POc
-final consonants. In such cases the consonant is reconstructed in parentheses (e.g. POc *ka-
-mali(R)').
+final consonants. In such cases the consonant is reconstructed in parentheses (e.g. POc
+_*kamali(R)_).
 
       In presenting words that display anomalies of form, it is often necessary to posit
-an expected form. For example, in the cognate set supporting POc *tciRaqan ‘squirrelfish’ in §4.1,
-the Loniu form taʔay is presented in support of PEOc *taRaqan. Given the reconstruction,
-however, we would expect the Loniu form to be taya(?). In this volume we use a less widely
-employed convention and mark expected forms with a dagger, e.g. ~\taya(?), to distinguish
+an expected form. For example, in the cognate set supporting POc _*taRaqan_ ‘squirrelfish’ in §4.1,
+the Loniu form _taʔay_ is presented in support of PEOc _*taRaqan_. Given the reconstruction,
+however, we would expect the Loniu form to be _taya(ʔ)_. In this volume we use a less widely
+employed convention and mark expected forms with a dagger, e.g. †_taya(ʔ)_, to distinguish
 them both from reconstructions and real data.[20]
 
-[20] Another convention sometimes used for this purpose is a double asterisk, e.g. **taya(?)'. we prefer the dagger
+[20] Another convention sometimes used for this purpose is a double asterisk, e.g. _**taya(ʔ)_. we prefer the dagger
  on aesthetic grounds.
 
 22 Malcolm Ross, Andrew Pciwley and Meredith Osmond
 
-__pre__
-              Table 1.4      Bracketing and segmentation conventions in protoforms
-             (x)      it cannot be determined whether x was present
-              (x,y)   either x or y was present
-              [x]   the item is reconstructable in two forms, one with and one without x
-              [x,y] the item is reconstructable in two forms, one with x and one with y
-              x-y     x and y are separate morphemes
-              x-      x takes an enclitic or a suffix
-              <x>     x is an infix
+: Table 1.4      Bracketing and segmentation conventions in protoforms
+
+             (x)    |  it cannot be determined whether x was present
+              (x,y) |  either x or y was present
+              [x]   | the item is reconstructable in two forms, one with and one without x
+              [x,y] | the item is reconstructable in two forms, one with x and one with y
+              x-y   |  x and y are separate morphemes
+              x-    |  x takes an enclitic or a suffix
+              <x>   |  x is an infix
 
      Sometimes we need to refer to a reconstructed form that one would expect as the regular
 reflex of an established POc etymon, but which does not occur because an irregular sound
 change has occurred. In such cases the dagger and asterisk conventions are used together. For
-example, in ch.7, §4, we reconstruct POc *simuk ‘mosquito, small biting fly’. Its Proto SE
-Solomonic reflex is reconstructed as *simi (this is the form reflected by the SE Solomonic
+example, in ch.7, §4, we reconstruct POc _*simuk_ ‘mosquito, small biting fly’. Its Proto SE
+Solomonic reflex is reconstructed as _*simi_ (this is the form reflected by the SE Solomonic
 data), but the expected (regular) Proto Southeast Solomonic form, referred to in our discussion, is
-f*simu, the regular reflex of POc *simuk. The dagger marks it as expected but not attested
+†_*simu_, the regular reflex of POc _*simuk_. The dagger marks it as expected but not attested
 to.
 
-     Sometimes a hypothetical POc form is marked in this way. In ch.7, §5, we cite PMP *nik-
-nik, *hik-hik ‘tiny biting insect: gnat, sandfly, fruitfly’. The expected POc form is 'Oninik,
+     Sometimes a hypothetical POc form is marked in this way. In ch.7, §5, we cite PMP
+_*nik-nik_, _*ñik-ñik_ ‘tiny biting insect: gnat, sandfly, fruitfly’. The expected POc form is †_*ninik_,
 marked with a dagger because it does not actually occur. Instead, the Oceanic data require us
-to reconstruct the irregular form POc *niku-niku ‘small biting fly’.
+to reconstruct the irregular form POc _*niku-niku_ ‘small biting fly’.
 
      When historical linguists compile cognate sets they commonly retain word for word the
 glosses given in the sources from which the items are taken. However, again in the interests
@@ -1131,8 +1126,8 @@ Andra, McEldowney (1995); Chuukese. Davis (1999); Dobu, Lithgow (1975); Gela, Fo
 Kikusawa (1995); Kapingamarangi. Lieber (1994); Kiribatese, Thaman & Tebano (n.d.); Lau (of Malaita),
 Akimichi (1978); Lau Fijian, Paul Geraghty (pers. comm.); Motu, Oram (n.d.); Marovo, Hviding (1990, 1996, 2005);
  Marquesan, Lavondes (1977); Mbunai Titan, Akimichi & Sakiyama (1991); Misima, Kinch (1999b); Mutu.
- Pomponio (n.d.); Nadroga Fijian, Paul Geraghty (pers. comm.); Nduke, Ian Scales (pers. comm.); Niuatop-
- utapu. Dye 1983; Ponam. Carrier (1982); Pukapuka, Kevin Salisbury (pers. comm.); Raga, David Walsh (pers.
+ Pomponio (n.d.); Nadroga Fijian, Paul Geraghty (pers. comm.); Nduke, Ian Scales (pers. comm.);
+ Niuatoputapu. Dye 1983; Ponam. Carrier (1982); Pukapuka, Kevin Salisbury (pers. comm.); Raga, David Walsh (pers.
  comm.); Satawalese. Akimichi & Sauchomal (1982); Teop, Shoffner (1976); Uvean (Wallisian), Rensch (1983).
 
 [3] Other totals recorded are 67 for Gela (SES), 66 for Wayan Fijian, 64 for Titan (Adm) and 62 for Satawalese
@@ -1157,7 +1152,7 @@ habits, while a scorpionfish whose poisonous spines can inflict severe pain is c
 _taŋitaŋi ga ua_, lit. ‘cry until high tide’. Niuean calls a species of parrotfish _mohe-aho_ lit. ‘sleep by
 day’. Valued fish and fish whose appearance changes with age will often have names for
 particular growth stages. In Tonga, for instance, a species of mullet (_Valamugil cunnesius_)
-has six named stages, ranging from smallest to largest, _teʔevela_, _teʔekona_, _teʔefo_, _ʔunomoa_,
+has six named stages, ranging from smallest to largest, _teʔevela_, _teʔekona_, _teʔefō_, _ʔunomoa_,
 _kanahe_, and _kanahe fau_.
 
     A common difficulty in reconstructing the semantic range of a term is that although apparent
@@ -1192,7 +1187,7 @@ chapter 5.
 
 2.3 Fish (generic)
 
-It is likely that the POc term *ikan had both a narrow and a broad sense. The narrow sense
+It is likely that the POc term _*ikan_ had both a narrow and a broad sense. The narrow sense
 applied to ‘typical’ fish, while the broad sense included some or all of the following: whales,
 dolphins, dugongs, eels, turtles, cephalopods and rays. Shellfish are generally excluded in
 daughter languages. See chapter 8 for a fuller discussion.
@@ -1224,7 +1219,7 @@ POc *ikan ‘fish (generic)’
   SES:  Lau          iʔa        ‘fish; any sea creature’ (Akimichi 1978:307 includes e.g. dugong, porpoise and whale)
   SES:  Kwaio        iʔa        ‘fish, porpoises, whales’
   NCV:  Mota         iɣa        ‘fish’
-  NCV:  Raga         iɣe        ‘fish, including whales and porpoises but not eels, seasnakes, octopus, squid, cuttlefishjellyfish or balolo worms’
+  NCV:  Raga         iɣe        ‘fish, including whales and porpoises but not eels, seasnakes, octopus, squid, cuttlefish jellyfish or balolo worms’
   NCV:  NE Ambae     ige        ‘typical fishes, rays and dolphins but not sharks and whales (which are grouped together), eels or cephalopods’ (Hyslop, pers. comm.)
   NCV:  Nguna        na-ika     ‘fish’
   NCal: Nemi         nuk        ‘fish’
@@ -1290,7 +1285,7 @@ POc *bakewa ‘shark (generic)’
   NNG: Yabem          yakʷa        ‘shark’
   NNG: Kove           vaɣewa       ‘shark’
   NNG: Bariai         bakewa       ‘shark’
-  NNG: Wogeo          bagewa       ‘shark’ (g for ^k)
+  NNG: Wogeo          bagewa       ‘shark’ (_g_ for †_k_)
   PT:  Wedau          vaɣewa       ‘shark’
   PT:  Duau           baewa        ‘shark’
   PT:  Misima         baewa        ‘shark (generic)’
@@ -1440,7 +1435,7 @@ Pacific languages to refer to the hammerhead shark, although the term has been l
 Polynesian. In Molima (PT), this shark is referred to as _mala balabala_, literally ‘eyes
 crosswise’, while in Gela (SES) it is _baɣea papala vohe_ ‘paddle-handle shark’.
 
-[4] Geraghty (1994) has *gio.
+[4] Geraghty (1994) has _*gio_.
 
 34    Meredith Osmond
 
@@ -1454,7 +1449,7 @@ fishes. They are specialised in having largely abandoned the bottom-living habit
 the surface, often leaping from the water. Manta rays inhabit open ocean, and are seldom seen near
 shore.
 
-Figure 2.2    _Aetobatus narinari_, spotted eagle ray
+Figure 2.2: _Aetobatus narinari_, spotted eagle ray
 
      Reflexes of POc _*paRi_ are numerous and widespread. It seems
 that the POc term had both a generic and a specific sense. Although most of the reflexes
@@ -1570,14 +1565,14 @@ bonefishes and tarpons are similar in colour and habitat, and both are marked by
 of many fine bones.
 
 <
-PMP *kuRaw ‘edible marine fish’ (ACD: PWMP *kuRaw)
+PMP *kuRaw ‘edible marine fish’ (ACD: PWMP _*kuRaw_)
 POc *kuRo ‘bony fish, probably _Albula_’
   MM:   Tolai         kura           ‘k.o. fish’
   SES:  Gela          gulo           ‘k.o. fish’
   NCal: Nyelayu       yhu            ‘_Albula vulpes_’
   Mic:  Puluwatese    kuwɔ           ‘k.o. small fish’
   Fij:  Rotuman       ʔuo            ‘_Albula_’
-  Fij:  Bauan         (yawa)kio      ‘_Albula_’ (yawa ‘_Chanos chanos_’)
+  Fij:  Bauan         (yawa)kio      ‘_Albula_’ (_yawa_ ‘_Chanos chanos_’)
   Fij:  Lau           kikio          ‘_Albula_’
 PPn *kiokio ‘_Albula vulpes_, bonefish’ (Hooper 1994)[5]
   Pn:   Tongan        kio-kio        ‘_Albula vulpes_, bonefish’
@@ -1599,7 +1594,7 @@ POc *pu-pulan ‘bony fish, _Megalops_, _Albula spp._’ [6]
   NNG:  Gitua      vu-vula           ‘spotted herring’
   NNG:  Mutu       ublan             ‘herring’ (metathesis)
   PT:   Motu       hu-hula           ‘fish sp.’
-  MM:   Marovo     vulu              ‘_Albula vulpes_, bonefish, found in mangrove pools’ (-w unexplained)
+  MM:   Marovo     vulu              ‘_Albula vulpes_, bonefish, found in mangrove pools’ (_-w_ unexplained)
   NCal: Nemi       pulōn             ‘_Megalops cyprinoides_’
   NCal: Iaai       hu                ‘_Albula vulpes_, large’
 PCP *vula ‘Megalops ’ (Geraghty 1994)
@@ -1616,7 +1611,7 @@ cf. also:
 
 2.7 Sardines and herrings (_Clupeidae_) and anchovies (_Engraulidae_)
 
-Figure 2.3:_Spratelloides delicatulus_, small round herring
+Figure 2.3: _Spratelloides delicatulus_, small round herring
 
 Sardines and herrings are small migratory fishes which congregate in enormous shoals
 in shallow coastal waters. Flesh is oily but tasty (Munro 1967: p.50). They are taken in nets
@@ -1652,7 +1647,7 @@ POc *paya ‘k.o. small fish, sardine or anchovy’
   NCal: Nemi         bac         ‘sardine’
   NCal: Nelemwa      ba          ‘sardine’
 PCP *vaya ‘k.o. small school fish’ (Geraghty: ‘k.o. anchovy’)
-  Fij:  Bauan        vaya        ‘small fish like the daniva (similar to a sardine), but with a red tail’
+  Fij:  Bauan        vaya        ‘small fish like the _daniva_ (similar to a sardine), but with a red tail’
   Fij:  Lau          vaya        ‘_Thrissina baelama_’
   Fij:  Kadavu       vaya        ‘k.o. school fish’
   Pn:   Samoan       fā          ‘Megalops (tarpon), found in marshes and river mouths’
@@ -1660,7 +1655,7 @@ PCP *vaya ‘k.o. small school fish’ (Geraghty: ‘k.o. anchovy’)
 
 <
 POc *jaja ‘small fish, herring or anchovy’
-  NNG: Bing         (yiy)zaz      ‘k.o. fish, _Clupeidae_’ (yiy ‘fish’)
+  NNG: Bing         (yiy)zaz      ‘k.o. fish, _Clupeidae_’ (_yiy_ ‘fish’)
 PCP *ðaðā ‘_Spratelloides sp._’ (Geraghty 1994)
   Fij: Verata       ðaða          ‘_Spratelloides_’
 PPn *sasā ‘anchovy’ (Hooper: ‘_Spratelloides sp._’ [herring])
@@ -1730,7 +1725,7 @@ POc *kʷaru ‘_Sardinella_, sardine’
 
 <
 POc *kepʷa ‘_Clupeidae_, probably sardine sp.’
-     Adm:    Titan         kepai            ‘sardine-like fish’ (-z unexplained)
+     Adm:    Titan         kepai            ‘sardine-like fish’ (_-i_ unexplained)
      MM:     Halia         keho-keho        ‘dark blue sardine’
      MM:     Marovo        kevo             ‘_Stolephorus sp._, anchovy’
      MM:     Maringe       kʰefo            ‘sardine’
@@ -1743,7 +1738,7 @@ POc *kepʷa ‘_Clupeidae_, probably sardine sp.’
 POc *s(a,i)waRa ‘_Clupeidae_, sardine or herring’
      Adm: Loniu            caway           ‘k.o. sardine or anchovy’
      PT:  Dobu             siwala          ‘gold-spot herring’
-     PT:  Molima           siwala          ‘sardine, fish which comes in bolimana (SW wind = May-June) time’
+     PT:  Molima           siwala          ‘sardine, fish which comes in _bolimana_ (SW wind = May-June) time’
      PT:     Kilivila      lawiya          ‘k.o. fish’ (vowel metathesis)
 >
 
@@ -1825,7 +1820,7 @@ a lizard. The flesh is not very bony but insipid (Munro 1967: p.70).
 42 Meredith Osmond
 
 
-Figure 2.4    _Plotosus lineatus_, striped eel catfish
+Figure 2.4: _Plotosus lineatus_, striped eel catfish
 
 
 2.10 Catfish (_Plotosidae_)
@@ -1871,9 +1866,6 @@ PPn *kapoa ‘fish sp., probably _Plotosus sp._, catfish’ (Hooper 1994)
                                                                                       Fish     43
 
 
-
-
-
 2.11 Eels
 
 Eels are classified in a number of families within the Order _Anguilliformes_. The best known
@@ -1908,11 +1900,11 @@ POc *tuna ‘_Anguillidae_, freshwater eel (generic)’
   Mic:  Kosraean      ton            ‘freshwater eel’
 PCP *tuna ‘_Anguillidae_, freshwater eel’ (Geraghty 1994)
   Fij:  Rotuman       funa           (1) ‘freshwater eel’; (2) ‘similar saltwater eel’
-  Fij:  Wayan         tuna           (1) ‘freshwater eel’; (2) ‘generic for eels includin; morays and congers’
+  Fij:  Wayan         tuna           (1) ‘freshwater eel’; (2) ‘generic for eels including morays and congers’
   Fij:  Bauan         duna           ‘freshwater eel’
   Fij:  Kadavu        tuna           ‘generic term for freshwater eels’
 PPn *tuna ‘_Anguilla spp._, freshwater eel’ (Hooper 1994)
-  Pn:   Tongan        tuna           ‘k.o. eel’ (including tuna tahi, tuna vai)
+  Pn:   Tongan        tuna           ‘k.o. eel’ (including _tuna tahi_, _tuna vai_)
   Pn:   Niuean        tuna           ‘freshwater eel’
   Pn:   E Uvean       tuna           ‘freshwater eel’
   Pn:   Rennellese    tuna           ‘k.o. lake eel’
@@ -1945,7 +1937,7 @@ POc *[la]bʷa(s,j)i ‘moray eel’
   Mic:   Mokilese     lapʷet        ‘k.o. eel’
   Mic:   Ponapean     lapʷet        ‘saltwater eel (generic)’
   Mic:   Chuukese     lopʷut        ‘general name for moray eels’
-  Mic:   Woleaian     rabʷuto       ‘generic for snake, worm, eel’ (-o unexpected)
+  Mic:   Woleaian     rabʷuto       ‘generic for snake, worm, eel’ (_-o_ unexpected)
   Fij:   Lau          pusi          ‘Echidna nebulosa, starry or clouded moray’
 >
 
@@ -1972,9 +1964,7 @@ POc *bʷalup ‘k.o. eel, moray eel ?’
 
                                                                                   Fish   45
 
-
-
-                        Figure 2.5   [_Gynmothorax sp._, barred moray eel
+Figure 2.5: _Gynmothorax sp._, barred moray eel
 
 
    The Micronesian evidence below points to a reconstruction with a single final vowel,
@@ -2060,7 +2050,8 @@ POc *malayo ‘sea eel, possibly generic’
     Mota has two similar terms, _maleo_ and _marea_, and it is possible that the former is a
 borrowing from a Western Oceanic language. The next set is in complementary distribution
 to the one above, and it may be that we are dealing with a single cognate set, although we
-would expect Proto Remote Oceanic †_*malaya_ if directly inherited. It is possible that Proto Remote Oceanic _*maraya_ was
+would expect Proto Remote Oceanic †_*malaya_ if directly inherited. It is possible that
+Proto Remote Oceanic _*maraya_ was
 borrowed from an unrecorded language’s reflex of POc _*malayo_. Arosi (SES) _marea_ ‘k.o.
 eel’ also appears to reflect _*maraya_, but it is reasonably likely that this is a Mota borrowing
 introduced by missionaries, as Mota was a missionary lingua franca which was also used in
@@ -2083,10 +2074,10 @@ cf. also:
 
                                                                                      Fish   47
 
-Figure 2.6:_Myrichthys colubrinus_, harlequin snake eel
+Figure 2.6: _Myrichthys colubrinus_, harlequin snake eel
 
 <
-PMP *kasuli ‘_Anguillidae_, freshwater eel’ (ACD: PWMP *kasuli)
+PMP *kasuli ‘_Anguillidae_, freshwater eel’ (ACD: PWMP _*kasuli_)
 POc *(k,q)asuli ‘k.o. sea eel’
 PCP *qasuli ‘k.o. sea eel’ (Geraghty 1994)
    Fij: Bauan        suli         ‘conger’
@@ -2142,9 +2133,10 @@ cf. also:
 
 2.12 Flying fishes (_Exocoetidae_)
 
-Figure 2.7:_Exocoetus volitans_, blue flying fish
+Figure 2.7: _Exocoetus volitans_, blue flying fish
 
-These fish are pelagic, swimming near the surface and gliding above the water for considerable distances. They inhabit open coastal and oceanic waters, are attracted to light at night
+These fish are pelagic, swimming near the surface and gliding above the water for considerable
+distances. They inhabit open coastal and oceanic waters, are attracted to light at night
 and often leap aboard vessels. Their flesh is of good quality (Munro 1967: p. 115). In Sa’a (Malaita),
 flying fish, like the bonito, require a certain supernatural power to be caught. Certain
 formalities must be followed and particular sacrifices made before a canoe can set out to catch flying
@@ -2172,7 +2164,8 @@ PMic *maŋar ‘flying fish’ (_*-ŋ-_ for †_*-g-_)
                                                                                       Fish   49
 
 
-    Lower-level reconstructions include PPn _*mālolo_ ‘flying fish spp.’ and PPn _*sasawe_ ‘_Exocoetidae spp._, flying fish’ (Hooper 1994 p.201).
+    Lower-level reconstructions include PPn _*mālolo_ ‘flying fish spp.’ and PPn _*sasawe_
+‘_Exocoetidae spp._, flying fish’ (Hooper 1994 p.201).
 PPn _*sipa_ ‘small or immature flying fish’ is considered to be a reflex of POc _*sipa_ ‘_Hemiramphidae_’, proposed in §13.
 
 
@@ -2198,9 +2191,9 @@ presumably reflecting similarities in shape and habitat.
 <
 POc *Rije ‘_Hemiramphus_, halfbeak’ (Geraghty 1990)
   MM:  Nakanai        lise          ‘small fish which flies, has a sharp bill’
-  Fij: Rotuman        jija          ‘_Hemiramphus_, garfish’ (j- for †∅)
-  Fij: Bauan          sise          ‘_Hemiramphus_, garfish’ (s- for †∅)
-  Fij: Lau            sise          ‘_Hemiramphus_, garfish’ (s- for †∅)
+  Fij: Rotuman        jija          ‘_Hemiramphus_, garfish’ (_j-_ for †_∅_)
+  Fij: Bauan          sise          ‘_Hemiramphus_, garfish’ (_s-_ for †_∅_)
+  Fij: Lau            sise          ‘_Hemiramphus_, garfish’ (_s-_ for †_∅_)
 PPn *ise ‘halfbeak spp.’ (Hooper 1994)
   Pn:  Tongan         ihe           ‘_Hemiramphus_’
   Pn:  Niuatoputapu   ihe-ihe       ‘growth stage of halfbeak’
@@ -2213,13 +2206,13 @@ PPn *ise ‘halfbeak spp.’ (Hooper 1994)
 
     The change in gloss in PPn below can be explained because of close resemblance between
 garfishes and some flying fish, with the latter, such as the beaked flying fish,
-_Oxyporhamphus micropterus micropterus_, classified as _Exocoetidae_ by Munro (p l 18) and more recently as
+_Oxyporhamphus micropterus micropterus_, classified as _Exocoetidae_ by Munro (p. 118) and more recently as
 _Hemiramphidae_ (Kailola 1987:153, FishBase). Half beaks, garfish and flying fish all belong
 to the same suborder.
 
 50   Meredith Osmond
 
-Figure 2.8:_Hemiramphus lutkei_, Lutke's halfbeak
+Figure 2.8: _Hemiramphus lutkei_, Lutke's halfbeak
 
 <
 POc *sipa ‘_Hemiramphus_ spp.’
@@ -2252,8 +2245,7 @@ cf. also:
 >
 
     The following reconstruction is echoed in the transparent compound, PMP/POc _*saku-layaR_
-‘sailfish, swordfish’, which contains as its second element _*layaR_ ‘sail’ (§58 and vol.1,
-pp.194-195).
+‘sailfish, swordfish’, which contains as its second element _*layaR_ ‘sail’ (§58 and vol.1, pp.194-195).
 
                                                                                  Fish      51
 
@@ -2300,7 +2292,7 @@ POc *panapa ‘garfish and needlefish taxon’ (ACD: ‘needlefish sp.’)
   MM:  Nehan        pon(pou)      ‘large barred garfish’ (smaller is kohkoh)
   MM:  Halia        pon-pon       ‘halfbeak’
   MM:  Teop         pon-pon       ‘long-billed garfish, Quoy’s short-billed garfish, barred garfish’
-  Mic: Kiribati     anā           ‘a fish, small slender species, needlefish, garfish, halfbeak’ (loss of initial p- unexpected)
+  Mic: Kiribati     anā           ‘a fish, small slender species, needlefish, garfish, halfbeak’ (loss of initial _p-_ unexpected)
   Mic: Chuukese     fanā          ‘small needlefish’
   Mic: Mokilese     pana          ‘k.o. needlefish’
   Mic: Woleaian     ferā          ‘k.o. needlefish’
@@ -2324,7 +2316,7 @@ POc *sao ‘k.o. long tom’
   Adm:   Nali           so             ‘needlefish, ae’
   Adm:   Loniu          co             ‘k.o. long tom’
   NNG:   Gedaged        sao            ‘_Strongylura incisa_, long tom’
-  NNG:   Lukep (Pono) sau              ‘needlenose fish’
+  NNG:   Lukep (Pono)   sau            ‘needlenose fish’
   NNG:   Takia          sao            ‘k.o. long tom’ (Mueller)
   NNG:   Tami           (i)-sa         ‘k.o. long tom’ (Mueller)
   MM:    Halia          soa-soa        ‘garfish, needlefish’ (vowel metathesis)
@@ -2359,8 +2351,8 @@ this form was trisyllabic, as an original disyllable would be reflected without 
 
 <
 PMP *taRaqan ‘_Holocentrus spp._, squirrelfish’ (ACD)
-POc *taRaqan ‘_Sargocentron spp._, squirrelfish, including _S. spiniferum_’ (Geraghty 1990: PEOc *taRaʔa)
-  Adm:  Loniu         taʔay           ‘squirrelfish or silver biddy’ (metathesis: for †_taya_(?))
+POc *taRaqan ‘_Sargocentron spp._, squirrelfish, including _S. spiniferum_’ (Geraghty 1990: PEOc _*taRaʔa_)
+  Adm:  Loniu         taʔay           ‘squirrelfish or silver biddy’ (metathesis: for †_taya_(ʔ))
   NNG:  Yabem         talaŋ           ‘a red sea fish’
   PT:   Gumawana      tayawana        ‘squirrel fish’
   PT:   Misima        talayan         ‘_Sargocentron_ spp., spiny and blue-striped squirrelfish’
@@ -2394,7 +2386,7 @@ cf. also:
 
 54     Meredith Osmond
 
-Figure 2.10:Left _Myripristis murdjan_, crimson squirrelfish. Right _Sargocentron spiniferum_, armoured soldierfish.
+Figure 2.10: __Left__ _Myripristis murdjan_, crimson squirrelfish. __Right__ _Sargocentron spiniferum_, armoured soldierfish.
 
 <
 POc *kuru[ru] ‘_Myripristis spp._, squirrelfish’
@@ -2457,15 +2449,15 @@ PPn *malau ‘general term for a number of fishes of the genera _Holocentrus_, _
   Pn:  Marquesan     maʔau         ‘_Myripristis spp._’
 >
 
-   Other reconstructions at PPn level include *malau taqa or *taqa malau ‘_Adioryx sp._ ’ (_taʔa_
+   Other reconstructions at PPn level include _*malau taqa_ or _*taqa malau_ ‘_Adioryx sp._ ’ (_taʔa_
 from POc *_taRaqan_ above) and _*tala-kisi_ ‘soldier or squirrelfish spp.’ (Hooper 1994 pp.201-202).
 
 
 2.15 Trumpetfishes (_Aulostomidae_), cometfishes and flutemouths (_Fistulariidae_)
 
 Trumpetfishes (_Aulostomidae_) have a long compressed body, long head and small mouth
-at the end of a long compressed snout. Colours change from green through orange to reddish-
-brown in harmony with surroundings. They are rather small, shallow-water fishes, frequently
+at the end of a long compressed snout. Colours change from green through orange to reddish-brown
+in harmony with surroundings. They are rather small, shallow-water fishes, frequently
 observed resting motionless on the bottom (Munro 1967: p.149). The family is widely distributed
 (Fowler 1928:6).
 
@@ -2477,7 +2469,6 @@ snouts and whiplash-like filamentous prolongation of middle caudal (tail) fin ra
     A lower-level reconstruction is PCP _*baba_ ‘Fistularia, flutemouth’ (Geraghty 1994: p.148).
 Hooper 1994 (p.200) offers PPn _*tao-tao_ ‘Fistularia sp., flutefish’, which no doubt reflects the
 fish’s spearlike form (PPn _*tao_ ‘spear’).
-
 
 
 2.16 Pipefishes, seahorses (_Syngnathidae_)
@@ -2510,7 +2501,7 @@ cf. also:
 
                                                                                                  Fish   57
 
-Figure 2.12:Mugil cephalus, flathead grey mullet
+Figure 2.12: Mugil cephalus, flathead grey mullet
 
 
     Kove (NNG) uses the same comparison, albeit with a non-cognate term for ‘crocodile’,
@@ -2543,7 +2534,7 @@ or two other more questionable POc reconstructions, I have very few cognates fro
 Oceanic. POc _*kanase_ is widely supported, and evidently refers to the best-known species,
 
 
-[11] The word _ato_ is not glossed by Chowning. but means ‘message, messenger’ in closely related Bariai.
+[11] The word _ato_ is not glossed by Chowning, but means ‘message, messenger’ in closely related Bariai.
 
 58   Meredith Osmond
 
@@ -2555,11 +2546,11 @@ POc _*(k,q)aRua(s)_ refer to a range of mullet species, with size/growth stage p
     Named growth stages of _Valamugil cunnesius_ are listed from Dobu (PT) and three Polynesian
 languages. They run from from smallest to largest.
 
-__pre__
-      Dobu:            gwala, lonamua. iyakayo.
-      Niuatoputapu:    teʔefō, ʔaua, ʔauapuna, ʔualele, kanahe.
-      Tongan:          teʔevela, teʔekona, teʔefō, ʔunomoa, kanahe, kanahe fan.
-      Hawaiian:        pua [child] ʔama, puaʔamaʔama, pua po ʔolā, ʔoʔolā kahaha, ʔamaʔama, ʔanae
+__tablenh__
+      Dobu:           | _gwala_, _tonamua_, _iyakayo_.
+      Niuatoputapu:   | _teʔefō_, _ʔaua_, _ʔauapuna_, _ʔualele_, _kanahe_.
+      Tongan:         | _teʔevela_, _teʔekona_, _teʔefō_, _ʔunomoa_, _kanahe_, _kanahe fan_.
+      Hawaiian:       | _pua_ [child] _ʔama_, _puaʔamaʔama_, _pua po ʔolā_, _ʔoʔolā kahaha_, _ʔamaʔama, ʔanae_.
 
 <
 PMP *kanasay ‘mullet’ (ACD)
@@ -2591,7 +2582,7 @@ PCP *kanaðe ‘_Liza spp._’ (Geraghty 1994)
   Fij:  Wayan       kanaðe        ‘certain grey and blue-tailed mullet species including _Valamugil sp._’
 PPn *kanahe ‘_Liza cephalus_, _Crenimugil crenilabis_ and other mullet spp.’ (Hooper 1994)
   Pn:   Tongan      kanahe        ‘mullet’
-  Pn:   Niuean      kanahe        ‘several species of mullet. Usually refers to full-grown fish (cf. fua-fua)’
+  Pn:   Niuean      kanahe        ‘several species of mullet. Usually refers to full-grown fish (cf. _fua-fua_)’
   Pn:   E Uvean     kanahe        ‘_Liza macrolepis_’ [Chelon macrolepis]
   Pn:   E Futunan   kanae         ‘_Crenimugil crenilabis_’
   Pn:   Pukapukan   kanae         ‘_C. crenilabis_’
@@ -2630,7 +2621,7 @@ PPn *qaua ‘mullet sp.’ (Hooper 1994)
   Pn:  W Uvean        aua          ‘small mullet’
   Pn:  Maori          aua          ‘_Aldrichetta forsteri_, yellow-eye mullet’
 cf. also:
-   MM: Halia          karua          ‘small mullet, silversides’ (for fkalua)
+   MM: Halia          karua          ‘small mullet, silversides’ (for †_kalua_)
 >
 
      Blust (2002:128) reconstructs both PMP _*qaRuas_ and PMP _*qawas_, but the reflexes of
@@ -2669,7 +2660,7 @@ PPn *kafa ‘_Liza vaigiensis_’ (Hooper 1994)
 
     Geraghty 1994 (p.157) reconstructs PCP _*jeqevo(o,u)_, PPn _*teqefō_ ‘juvenile mullet’. John
 Lynch (pers. comm.) suggests that a number of New Caledonian reflexes, Fwai, Nemi, Jawe
-thiāp ‘mangrove mullet’, may be related, thus indicating Proto Remote Oceanic _*jeqevo(o,u)_.
+_thiāp_ ‘mangrove mullet’, may be related, thus indicating Proto Remote Oceanic _*jeqevo(o,u)_.
 
     Hooper 1994 (p.204) reconstructs PPn _*fua-fua_ ‘juvenile mullet’. With the addition of Wayan
 Fijian _vua-vua_ ‘small reef fish, 2-3 cm’ this reconstruction can be raised to PCP _*vua-vua_
@@ -2718,7 +2709,7 @@ by Nehan and the two Te Motu reflexes. Other reconstructions refer either to a p
 species or to particular growth stages.
 
 <
-POc *qonos ‘mature Sphyraena spp., possibly generic for all barracuda’ (ACD: POc *qono)
+POc *qonos ‘mature Sphyraena spp., possibly generic for all barracuda’ (ACD: POc _*qono_)
   NNG: Mangseng      ono           ‘k.o. fish’
   PT:  Motu          ono           ‘Sphyraenella chrysotaenia. When young, these fish are _tubiara_, when adult they are _ono_’ (Oram)
   PT:  Lala          ono           ‘k.o. fish’
@@ -2748,7 +2739,7 @@ _Sphyraena picuda_ or _Agrioposphyraena barracuda_.
 
 62    Meredith Osmond
 
-Figure 2.13:Sphyraena jello, slender sea pike
+Figure 2.13: Sphyraena jello, slender sea pike
 
 <
 PMP *qalu ‘barracuda’ (ACD)
@@ -2814,7 +2805,7 @@ POc *bʷara-wa(r,d,dr,R)a(q) ‘Sphyraena sp., possibly S. jello, the slender or
 dissimilar fish, the jobfish, the latter reconstructable to PMP level (see §30). A competing
 gloss, ‘_Sphyraena_ sp., barracuda’, is based on cognates from PT, NCV and Pn. These two
 etyma appear to be homonyms rather than cognates. Niuean retains a reflex of both etyma.
-PPT _*qudur_, rather than †*qutur, is reconstructable for both jobfish and barracuda.
+PPT _*qudur_, rather than †_*qutur_, is reconstructable for both jobfish and barracuda.
 
 <
 POc *qutur ‘Sphyraena sp., barracuda’
@@ -2850,7 +2841,7 @@ PPn *moto-moto ‘_Sphyraena sp._, probably juvenile growth stage’
 PMic *tarawa ‘barracuda’ (Bender et al. 2003)
   Mic:    Kiribati      tāwa          ‘barracuda’
   Mic:    Chuukese      saraw         ‘barracuda’
-  Mic:    Puluwatese    haṛaw         ‘great barracuda, _S. picuda_’’  [S. barracuda]
+  Mic:    Puluwatese    haṛaw         ‘great barracuda, _S. picuda_’  [S. barracuda]
   Mic:    Carolinian    saraw         ‘barracuda’
   Mic:    Woleaian      saẓawa        ‘barracuda’
   Mic:    Ponapean      saraw         ‘barracuda’
@@ -2897,7 +2888,7 @@ POc *kuRapu ‘rock-cod, _Epiphenelus sp._ or spp. including _E. lanceolatus_, Q
   SES:  Lau           ʔulafu       ‘large fish, up to 2 metres long, brown or blue spots; grouper’
   SES:  Kwaio         ulafu        ‘_Epinephelus sp._, giant grouper’
   SES:  ’Are’are      urahu        ‘a fish, taboo for women and children’
-  SES:  Sa’a          ulehu        ‘Oligorus gigas. Six kinds of ulehu are named’  [E. lanceolatus]
+  SES:  Sa’a          ulehu        ‘Oligorus gigas. Six kinds of _ulehu_ are named’  [E. lanceolatus]
   SES:  Arosi         ʔurahu       ‘Oligorus gigas, famous in tales’[14]
   NCV:  Namakir       kuav         ‘grouper (generic)’
   SV:   Sye           uwop         ‘grouper’
@@ -2951,13 +2942,13 @@ PCP *donu ‘adult Plectropomus’ (Geraghty 1994)
   Fij: Bauan         donu      ‘Epinephelus maculatus, brown-spotted rock cod’
   Fij: Wayan         donu      ‘generic for several _Plectropomus spp._’
   Fij: Kadavu        donu      ‘Erilepis zonifer’
-PPn *tonu ‘rock cod, when large’ (Hooper: ‘Plectropomus leopardus, P. macu/atus, coral trout’)
-  Pn:  Tongan        tonu      ‘k.o. fish, similar to ŋatala (rock cod)’ (tonupuku, tonu kuli, tonu Puno, tonu Puli, tonu faŋamed)
-  Pn:  Niuatoputapu  tonu      ‘growth stage of rock cod, bit larger than ŋatala, not as big as mala’
+PPn *tonu ‘rock cod, when large’ (Hooper: ‘Plectropomus leopardus, P. maculatus, coral trout’)
+  Pn:  Tongan        tonu      ‘k.o. fish, similar to _ŋatala_ (rock cod)’ (_tonu puku_, _tonu kulī_, _tonu ʔuno_, _tonu ʔuli_, _tonu faŋamea_)
+  Pn:  Niuatoputapu  tonu      ‘growth stage of rock cod, bit larger than _ŋatala_, not as big as _mala_’
   Pn:  E Uvean       tonu      ‘_Plectropomus spp._’
   Pn:  Samoan        tonu      ‘Epinephelus sp., a metre or more long’
   Pn:  Tokelauan     tonu      ‘_P. leopardus_, red-spotted rock cod’
-  Pn:  Tikopia       tonu      ‘_P. leopardus_, ŋatara when very large’
+  Pn:  Tikopia       tonu      ‘_P. leopardus_, _ŋatara_ when very large’
   Pn:  Tahitian      tonu      ‘_P. leopardus_’
 >
 
@@ -2970,13 +2961,13 @@ may be coincidental.
 <
 POc *kawa-kawa ‘rock cod, grouper’
   PT:   Dobu          kawa(tabuya)  ‘rock cod, coral cod, reef cod, coral trout’
-  Fij:  Bauan         kawa-kawa     ‘_Serranidae_, yellow-finned grouper’ (syn. gawa-gawa)
+  Fij:  Bauan         kawa-kawa     ‘_Serranidae_, yellow-finned grouper’ (syn. _gawa-gawa_)
   Fij:  Wayan         kawa-kawa     ‘k.o. rock cod, poisonous’
 cf. also:
   NNG:  Gitua         kawa-kawa     ‘golden trevally’
   SES:  Arosi         ʔaʔawa        ‘blenny’
   Mic:  Woleaian      xawe-xaw      ‘_Chlorurus spp._’ (parrotfish)
-  Pn:   Tongan        kava-kava     ‘k.o. fish with small scales and longitudinal stripes, the scavenger fish’ (_Lethrinus sp._? See *oka, §36)
+  Pn:   Tongan        kava-kava     ‘k.o. fish with small scales and longitudinal stripes, the scavenger fish’ (_Lethrinus sp._? See _*oka_, §36)
   Pn:   Niuatoputapu  kava-kava     ‘_T. jarbua_’
   Pn:   E Uvean       kava-kava     ‘_T. jarbua_’’
   Pn:   Samoan        ʔava-ʔava     ‘_Terapon sp._’
@@ -3002,7 +2993,7 @@ POc *kalika ‘_Epinephelidae_, rock cod’
    Distinctive markings are often reflected in compound terms such as the following:
 
 __formgroup__
-  MM:  Patpatar   |mata girit       |  ‘k.o. fish’ (mata ‘face’, girit ‘to sketch, draw’)
+  MM:  Patpatar   |mata girit       |  ‘k.o. fish’ (_mata_ ‘face’, _girit_ ‘to sketch, draw’)
   MM:  Halia      |mata goumana     |  ‘giant chanda perch, freshwater fish’ (_goum_ ‘marking, scar’)
   SES: Gela       |aŋora gere       |  ‘Cephalopholis sexmaculata, six spotted rock cod’ (_gere_ ‘to sketch, make lines’)
   SES: Gela       |kusele gere-gerea|  ‘Epinephelus quoyanus, longfin rock cod’ (_gere-gere_ ‘to sketch, make lines’)
@@ -3033,7 +3024,7 @@ spending daylight in caves or under ledges (Munro 1967: p.284).
 
 68   Meredith Osmond
 
-Figure 2.14:_Epinephelus lanceolatus_, Queensland grouper
+Figure 2.14: _Epinephelus lanceolatus_, Queensland grouper
 
 
    The PPn term, _*mata-pula_ ‘_Priacanthus cruentatus_, red globe-eye’ is a descriptive compound
@@ -3075,7 +3066,7 @@ caranx, (not necessarily the largest).
                                                                                         Fish    69
 
 
-Figure 2.15: Left Gnathanodon speciosus, golden trevally. Right Alectis indica, plumed trevally.
+Figure 2.15: __Left__ Gnathanodon speciosus, golden trevally. __Right__ Alectis indica, plumed trevally.
 
 <
 PMP *qatulay ‘Trachurops crumenophthalmus, the big-eyed scad’ (ACD)
@@ -3100,7 +3091,7 @@ PPn *qatule ‘Selar crumenopthalmus, silver scad’ (Hooper 1994)
 >
 
 <
-PMP *bilu[bilu] ‘_Caranx spp._, trevally’ (ACD; Blust 2002: *pilu ‘_Gnathanodon sp._’)
+PMP *bilu[bilu] ‘_Caranx spp._, trevally’ (ACD; Blust 2002: _*pilu_ ‘_Gnathanodon sp._’)
 POc *pilu ‘_Caranx sp._ or spp., trevally’
   NNG:  Gitua        pilu           ‘k.o. trevally’
   NNG:  Gitua        pilu-pilu      ‘small trevally varieties’
@@ -3129,7 +3120,7 @@ POc *qulua ‘carangid’ (ACD: ‘_Caranx spp._’)
   NNG: Gedaged       ulua         ‘white marine fish about 20 cm long’
   PT:  Dobu          ʔuliya       ‘Decapterus macarellus, mackerel scad’
 PPn *qulua ‘_Caranx sp._, probably mature phase of _C. ignobilis_’ (Hooper 1994)
-  Pn:  Tongan        ʔulua        ‘very large fish: a full-sized lupo (trevally)’
+  Pn:  Tongan        ʔulua        ‘very large fish: a full-sized _lupo_ (trevally)’
   Pn:  Niuatoputapu  ʔulua        ‘largest growth stage of trevally’
   Pn:  Niuean        ulua         ‘_C. ignobilis_, _C. sexfasciatus_’
   Pn:  Samoan        ulua         ‘name given to two species of fish of genus Caranx when about a metre long, and considered to be a present fit for a chief’
@@ -3145,7 +3136,7 @@ cf. also:
 POc *mamula ‘carangid’
   NNG: Tami          mamul         ‘Gnathanodon speciosus, golden trevally’
   PT:  Kilivila      mamila        ‘Chorinemus tolooparah, queenfish’ [Scomberoides lysan]
-  MM:  Lihir         mamul         ‘_Carangoides spp._, small trevallies’ (mamul is generic for trevally in Solomons Pidgin)
+  MM:  Lihir         mamul         ‘_Carangoides spp._, small trevallies’ (_mamul_ is generic for trevally in Solomons Pidgin)
   SES: Gela          mamula        ‘k.o. small fish’
   SES: To’aba’ita    mamula        ‘Caranx melampygus, bluefin trevally’
   SES: Kwaio         mamula        ‘k.o. fish’
@@ -3270,7 +3261,7 @@ PPn _*tafaquli_ ‘_Caranx sp._, possibly _C. lugubris_’ and PPn _*soke(lau)_ 
 
 2.27 Dolphinfishes (_Coryphaenidae_)
 
-Figure 2.16:_Coryphaena hippurus_, common dolphinfish
+Figure 2.16: _Coryphaena hippurus_, common dolphinfish
 
 Dolphinfish are large swift-swimming powerful fish, pelagic and mostly oceanic,
 but sometimes found around reefs. They are spectacular fighters which leap from
@@ -3348,7 +3339,7 @@ others may be names of particular species at a certain stage of growth.
 
                                                                                               Fish     75
 
-Figure 2.17:    _Lutjanus fulviflamma_, Dory snapper
+Figure 2.17: _Lutjanus fulviflamma_, Dory snapper
 
 
    The proposed gloss of POc _*qutur_ is based on the agreement of non-Oceanic cognates
@@ -3357,7 +3348,7 @@ vary from 0-180 metres (FishBase). See §20 regarding the homophony of this etym
 POc _*qutur_ ‘k.o. fish, possibly Sphyraena sp., barracuda’ .
 
 <
-PMP *qutur ‘green job fish’ (Blust 2002: *qutun)
+PMP *qutur ‘green job fish’ (Blust 2002: _*qutun_)
 POc *qutur ‘Aprion virescens, green job fish’
   PT:  Misima       utul            ‘Aprion virescens, green jobfish’
   MM:  Tolai        ut              ‘k.o. fish’
@@ -3411,7 +3402,7 @@ that the next reconstruction included members of both families.
 POc *sabutu ‘snapper (Lutjanus) or emperor (Lethrinus) sp. or spp.’
    Adm: Loniu       saput      ‘Lethrinus kallopterus, yellow-spotted emperor’ [Z. erythracanthus]
    PT:  Sinaugoro   rabutu     ‘a reef fish’
-   PT:  Motu        dabutu     ‘Acanlhopagrus berda, black bream’
+   PT:  Motu        dabutu     ‘Acanthopagrus berda, black bream’
 PCP *(ð,s)abutu ‘Lutjanus and _Lethrinus spp._’ (Geraghty 1994)
    Fij: Rotuman     saputu     ‘k.o. fish’
    Fij: Wayan       ðābutu     ‘generic for several species of _Lutjanidae_ and _Lethrinidae_, including Lutjanus sehae, red emperor, and Lethrinus nebulosus, spangled emperor’
@@ -3436,7 +3427,7 @@ POc *ta(Ra)qea ‘Lutjanus spp., snapper, sea perch’
   NNG: Yabem         (i)tɛʔ       ‘k.o. snapper’
   NNG: Bukawa        (i)taʔ       ‘k.o. snapper’
   NCV: Lakon         tā-tā        ‘_L. kasmira_’
-PPn *tāqea ‘Lutjanus sp., probably _L. gibbus_’ (Hooper reconstructs *taeqa)
+PPn *tāqea ‘Lutjanus sp., probably _L. gibbus_’ (Hooper reconstructs _*tāeqa_)
   Pn:  E Uvean       tāeʔa        ‘L.fulviflamma, blackspot seaperch’ (metathesis)
   Pn:  Pukapukan     tāea         ‘_L. gibbus_, paddle-tail snapper’
   Pn:  Tokelauan     tāea         ‘_L. gibbus_’
@@ -3452,7 +3443,7 @@ POc *tasiwa ‘_Lutjanus spp._’
   SES: Lau           |akʷasi (mai)|  ‘generic for four _Lutjanus spp._’ (Akimichi) (reflects metathesised form _*tawasi_)
 PCP *tasiwa ‘_Lutjanus sp._’ (Geraghty 1994)
   Fij: Rotuman       sasiva          ‘_L. fulviflamma_, black spot seaperch’
-PPn *tahiwa ‘_L. monostigma_, one spot seaperch’ (Hooper: *taqiwa)
+PPn *tahiwa ‘_L. monostigma_, one spot seaperch’ (Hooper: _*taqiwa_)
   Pn:  Niuatoputapu  tāiva           ‘_Lutjanus sp._’
   Pn:  Pukapukan     tāiva           ‘_L. monostigma_’
   Pn:  Samoan        tāiva           ‘_Lutjanus sp._ when about 60 cm long’
@@ -3486,7 +3477,7 @@ cf. also:
    Pn:      E Uvean      kivi         ‘_L. bohar_ ’ (for †_kifi_)
 >
 
-    Also reconstructed are PCP _*batisai_ ‘Lutjanus monostigma’, PCP *kʷak(a,e) ‘_Lutjanus monostigma_’
+    Also reconstructed are PCP _*batisai_ ‘Lutjanus monostigma’, PCP _*kʷak(a,e)_ ‘_Lutjanus monostigma_’
 (Geraghty 1994: pp. 152-153), PPn _*sawane_ ‘_Lutjanus kasmira_, blue-lined sea perch’
 and PPn _*taŋaqu_  ‘_Lutjanus_ spp. including _L. vaigiensis_ [L.fulvus] and probably other yellow
 or yellow-red species’ (Hooper 1994: pp.210-211 and A. Hooper & Huntsman (1991:120).
@@ -3625,7 +3616,7 @@ a higher order interstage. POc _*kawa-kawa_ ‘rock cod, grouper’ (§22) is co
 
 2.36 Emperors and large-eyed breams (_Lethrinidae_)
 
-Figure 2.18:_Lethrinus variegatus_, variegated emperor
+Figure 2.18: _Lethrinus variegatus_, variegated emperor
 
 Emperors inhabit shallow coastal waters around rocky outcrops and coral reefs, moving
 in schools. Most are fairly brightly coloured
@@ -3645,7 +3636,7 @@ POc *kulabo ‘_Lethrinidae_’
   Adm: Lou           kulom           ‘Monotaxis grandoculis, hump-nose sea bream’
   Adm: Titan         kulap           ‘_Lethrinidae_, sea bream’
   Fij: Lau           kulabo          ‘_Lethrinidae sp._’
-PPn *kulapo ‘fish sp. ’ (Hooper 1994)
+PPn *kulapo ‘fish sp.’ (Hooper 1994)
   Pn:  Tongan        kulapō          ‘k.o. fish’
   Pn:  Niuean        kulapu          ‘_Paracaesio sp._, k.o. snapper’
   Pn:  E Uvean       kulapo          ‘Lethrinus nematacanthus, threadfin emperor’ [L. genivittatus]
@@ -3686,7 +3677,7 @@ POc *surup ‘_Lethrinus spp._’
   SES: Lau            suru             ‘small sp. of reef fish (_Lethrinidae_); generic for _Lethrinidae_? (Akimichi)’
   SES: Kwaio          sulu             ‘k.o. fish used in ritual’
   SES: Longgu         suru             ‘_Z. elongatus_, long-nosed emperor’ [L. olivaceus]
-  SES: To’aba’ita     |suru (kʷatoa)|  ‘_L. elongatus_’ (sum generic; kʷatoa ‘digging stick’ The shape of _L. elongatus_ is distinctive and the specific names often refer to the pointed snout.)
+  SES: To’aba’ita     |suru (kʷatoa)|  ‘_L. elongatus_’ (_suru_ generic; _kʷatoa_ ‘digging stick’ The shape of _L. elongatus_ is distinctive and the specific names often refer to the pointed snout.)
   SES: ’Are’are       |suru (horau)|   ‘_Z. elongatus_’[L. olivaceus]
   SES: Ulawa          |suru (wotola)|  ‘_L. elongatus_’ [L. olivaceus]
 >
@@ -3754,7 +3745,7 @@ PEOc *n(u,o)sa ‘_Lethrinus sp._’
   NCV: NE Ambae noha                          ‘_Lethrinus spp._’
 >
 
-    Also reconstructed are PCP *ŋujula ‘_Lethrinus elongates_’, PCP _*kabatiko_ ‘_Lethrinus
+    Also reconstructed are PCP _*ŋujula_ ‘_Lethrinus elongates_’, PCP _*kabatiko_ ‘_Lethrinus
 sp._’, and PCP _*(m,b)ū_, PPn _*mū_ ‘_Monotaxisg randoculis_, large-eyed sea bream’
 (Geraghty 1994: p. 153, Hooper p.212).
 POc _*sabutu_ ‘Lutjanus ox_Lethrinus sp._’ has also been reconstructed (see cognate set in §30)
@@ -3792,7 +3783,7 @@ POc *tiqo ‘goatfish sp. or spp.’
   MM:  Nehan         tio         ‘k.o. goatfish’
   MM:  Teop          sio         ‘_Parupeneus spp._’
   SES: Gela          tio         ‘_Parupeneus spp._’
-  SES: Arosi         siʔo        ‘k.o. fish with barbels’ (for f,sz`o)
+  SES: Arosi         siʔo        ‘k.o. fish with barbels’ (for †_sio_)
   NCV: Mota          tio         ‘k.o. fish with barbels’
   NCV: Mwotlap       tɪ          ‘Mulloidichthys flavolineatus, yellowstripe goatfish’
   NCV: Raga          sio         ‘_M. flavolineatus_ ’
@@ -3869,7 +3860,7 @@ POc *kalo ‘growth stage of goatfish’
 PPn *kaloama ‘growth stage of goatfish’ (Hooper 1994)
   Pn:  Tongan        kaloama      ‘young goatfish’
   Pn:  Niuean        kaloama      ‘yellowstripe goatfish’
-  Pn:  Niuatoputapu  kaloama      ‘middle growth stage of goatfish’ (tusia ?)
+  Pn:  Niuatoputapu  kaloama      ‘middle growth stage of goatfish’ (_tusia_ ?)
   Pn:  Pukapukan     kalōma       ‘young goatfish’
   Pn:  Samoan        ʔaloama      ‘k.o. fish’
   Pn:  Tikopia       karoama      ‘small stage of goatfish’
@@ -3902,7 +3893,7 @@ PWOc *pʷi(r,R)itu(r,R,s) ‘k.o. goatfish’
   MM:  Patpatar      birite        ‘Parupeneus jansenii. rosy goatfish’
 >
 
-    Also reconstructed are PNCV *taŋitaŋi ‘goatfish’ (François 2005:500),
+    Also reconstructed are PNCV _*taŋitaŋi_ ‘goatfish’ (François 2005:500),
 PCP _*oje_ ‘_Mullidae_’ and PCP _*matu-xurau_ ‘_Parupeneus sp._’ (Geraghty p. 154). Hooper
 (1994: p.214) lists PPn _*memea_ ‘_Mulloides sp._, goatfish’ (_mea_ ‘reddish’), _*malili_ ‘goatfish taxon’
 and PNPn _*moaŋa_ ‘_Parupeneus spp._’.
@@ -3924,7 +3915,7 @@ POc _*manipis_ ‘thin’- vol.2, p.202).
 
 2.39 Drummers, rudderfishes (_Kyphosidae_)
 
-Figure 2.20:_Kyphosus cinerascens_, ashen drummer
+Figure 2.20: _Kyphosus cinerascens_, ashen drummer
 
 Drummers or rudderfishes are a small family. Fishes are typically small, finely and closely scaled, and dull
 in colour. Most species are pelagic, often found under floating medusae. They are herbivorous fish, feeding
@@ -4015,7 +4006,7 @@ black, red, orange, yellow and white. The fishes are diurnal and some species ar
 territorial, inhabiting one or more heads of plate coral. At dusk they retreat to reef crevices
 where they remain motionless until dawn (Allen & Swainston 1993:60).
 
-Figure 2.21:_Chaetodon sp._, coralfish
+Figure 2.21: _Chaetodon sp._, coralfish
 
      Both Hooper (1994: p. 188) and Hviding (1996:192) have commented on the fact that in Oceanic
 languages butterflyfish, coralfish and angelfish are sometimes lumped together under one generic
@@ -4032,7 +4023,7 @@ to both ‘butterfly’ and ‘butterflyfish’.
 POc *bebek ‘generic for _Chaetodontidae_, coralfish and butterflyfish’ (also ‘butterfly’; ch.7, §3)
   Adm: Penchal      pʷep         ‘_Chaetodontidae_, coralfish’
   Adm: Nali         pep          ‘_Chaetodontidae_, coralfish’
-  PT:  Motu         bebe         ‘_Chaetodon spp._’ (Oramn.d.) (_kau-bebe_ ‘butterfly’)
+  PT:  Motu         bebe         ‘_Chaetodon spp._’ (Oram n.d.) (_kau-bebe_ ‘butterfly’)
   MM:  Bola         bebe         ‘butterflyfish’
   MM:  Nakanai      bebe(o)      ‘k.o. fish’ (_bebe_ ‘butterfly’)
   SES: Kwaio        bebe         ‘tropical reef fish, including several species such as Moorish idol’
@@ -4079,7 +4070,7 @@ POc *buRi-buRi ‘k.o. fish, possibly angelfish’
 
 2.44 Damselfishes or demoiselles, anemonefishes, sergeant-majors, pullers (_Pomacentridae_)
 
-Figure 2.22: _Adudefduf sp._, sergeant-major
+Figure 2.22: _Adudefduf_ sp., sergeant-major
 
 These are very active brilliant little fishes of the coral reefs, seeking shelter among branches of
 coral and in crevices. They are often left in tide pools. They are trim and shapely, greatly
@@ -4112,8 +4103,8 @@ PPn *mutu[mutu] ‘_Pomacentridae_’ (Hooper 1994)
 
 
     Reflexes of POc _*taku-takuŋ_, reconstructed below, have been reduplicated in various
-ways. Gumawana and PPn both reflect _*t(o,u)kukuŋ_, where the first syllable, _*t(o,u)_- is per
-haps itself a reduction of _*taku-_. Bing and Takia both reflect full reduplication after loss of
+ways. Gumawana and PPn both reflect _*t(o,u)kukuŋ_, where the first syllable, _*t(o,u)_- is perhaps
+itself a reduction of _*taku-_. Bing and Takia both reflect full reduplication after loss of
 _*-k-_ Only Teop reflects the more usual Oceanic reduplication in _*taku-takuŋ_. Central Pacific
 terms show assimilation of the first vowel _*a_ > _u_.
 
@@ -4123,7 +4114,7 @@ POc *taku-takuŋ ‘small coral fish, damselfish or similar’
   NNG: Takia         doŋa-doŋ           ‘_Pomacentrus littoralis_, brown demoiselle’
   PT:  Gumawana      tokuku             ‘angelfish’
   MM:  Teop          tagu-tagun         ‘angelfish (generic)’
-PCP *dukuku ‘_Pomacentridae_’ (Geraghty: *duku)
+PCP *dukuku ‘_Pomacentridae_’ (Geraghty: _*duku_)
   Fij: Rotuman       tu-tuʔu            ‘small black fish’
   Fij: Kadavu        duxi-duxi          ‘_Abudefduf_’
 PPn *tukuku ‘_Pomacentridae_’
@@ -4169,7 +4160,7 @@ evidence alone.
 
 <
 PMP *mamin ‘wrasse, _Cheilinus spp._’ (ACD)
-POc *mamin ‘_Cheilinus undulatus_, double-headed Maori wrasse and possibly other wrasse SPP-’
+POc *mamin ‘_Cheilinus undulatus_, double-headed Maori wrasse and possibly other wrasse spp.’
   Adm:  Nali          mam           ‘_C. undulatus_’
   Adm:  Titan         mam           ‘_C. undulatus_’
   Adm:  Loniu         mam           ‘wrasse’
@@ -4178,7 +4169,7 @@ POc *mamin ‘_Cheilinus undulatus_, double-headed Maori wrasse and possibly oth
   PT:   Kilivila      mamila        ‘k.o. fish’
   PT:   Motu          mami          ‘various k.o. wrasse’
   MM:   Lihir         mamil         ‘_Cheilinus undulatus_, Maori wrasse’ (_-l-_ for †_-n-_)
-  MM:   Tolai         mamin         ‘Anampses pterophthalmus, ocellated chi sei-tooth wrasse’ [A. geographicus]
+  MM:   Tolai         mamin         ‘Anampses pterophthalmus, ocellated chisel-tooth wrasse’ [A. geographicus]
   MM:   Maringe       mamini        ‘salt-water fish, incl. various wrasse, esp. _Cheilinus sp._’
   MM:   Marovo        mimina        ‘wrasse, prob. _C. undulatus_’
   NCal: Iaai          mem           ‘large _C. undulatus_’
@@ -4216,15 +4207,15 @@ PPn *taŋafa ‘_Cheilinus sp._’ (Hooper 1994)
 <
 POc *babu ‘Cheilinus spp., Maori wrasse’
   Adm: Titan        papu(niu)     ‘_C. trilobatus_, tripletail Maori wrasse, medium’
-PPn *papu ‘_Cheilinus sp._’ (Hooper: PNPn *pap(o,u)')
+PPn *papu ‘_Cheilinus sp._’ (Hooper: PNPn _*pap(o,u)_)
   Pn:  Rennellese   papu          ‘several kinds of dark brown wrasse’
-  Pn:  Pukapukan    papo          ‘_C. fasctalus_’
+  Pn:  Pukapukan    papo          ‘_C. fasciatus_’
   Pn:  Pukapukan    papo-papo     ‘_C. fasciatus_, juvenile’
   Pn:  Tuvalu       papo          ‘_C. trilobatus_’
   Pn:  Tokelauan    papo          ‘_C. fasciatus_’
   Pn:  Luangiua     papu          ‘Maori wrasse’
 cf. also:
-  NCV: S Efate      (a)fam        ‘_C. tiitdii_ talus’
+  NCV: S Efate      (a)fam        ‘_C. undulatus’
 >
 
 94     Meredith Osmond
@@ -4233,13 +4224,13 @@ cf. also:
 <
 POc *merari ‘wrasse or parrotfish’
   NNG: Kove          lali              ‘parrotfish, bright blue-green fins and tail’ (irregular loss of first syllable)
-  NCV: Ambae         |mʷera (mavute)|  ‘checkerboard wrasse?’  [Halichoeres hortulanus] (mavute ‘white’) (loss of final _*-ri_ unexpected)
+  NCV: Ambae         |mʷera (mavute)|  ‘checkerboard wrasse?’  [Halichoeres hortulanus] (_mavute_ ‘white’) (loss of final _*-ri_ unexpected)
   NCV: Mota          mera              ‘k.o. fish’ (loss of final _*-ri_ unexpected)
   Mic: Marshallese   meṛœ              ‘parrotfish;  wrasse’
   Mic: Ponapean      merer             ‘wrasse’
 PCP *m[e,a]rari ‘Novaculichthys, wrasse’ (Geraghty 1994)
   Fij: Rotuman       marari            ‘smooth-bodied fish with thin soft scales, grey-brown with whitish spots’
-PPn *m[e,a]rari ‘wrasse or parrotfish’ (Hooper: *m(a,o)lali)
+PPn *m[e,a]rari ‘wrasse or parrotfish’ (Hooper: _*m(a,o)lali_)
   Pn:  Tongan        meai              ‘k.o. fish like parrotfish’
   Pn:  Pukapukan     malali            ‘_Cheilinus trilobatus_, trilobed Maori wrasse’
   Pn:  Luangiua      mālali            ‘rainbow fish, k.o. _Labridae_’
@@ -4289,7 +4280,7 @@ wrasse’ (_ŋutu-loa_ lit. ‘long nose’) (Geraghty p.159, Hooper pp.217-218)
 
 2.47 Parrotfishes (_Scaridae_)
 
-Figure 2.24:Bolbometopon muricatum, double-headed parrotfish
+Figure 2.24: Bolbometopon muricatum, double-headed parrotfish
 
 Parrotfish are closely related to the wrasses, although the latter are carnivorous. Parrotfish are
 herbivorous, typically large, the jaws with a bony beak. They are reef dwellers, feeding chiefly

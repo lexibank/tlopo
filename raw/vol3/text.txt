@@ -927,7 +927,8 @@ that the _j_ of the German-based orthographies of Yabem and Gedaged becomes _y_,
 becomes _ʔ_; Gedaged _z_ becomes _ɬ_ and so on; the _ng_ of English-based orthographies becomes
 _ŋ_ and Fijian _g_, _q_ and _c_ become _ŋ_, _g_ and _ð_ respectively.
 
-     Unless otherwise indicated, the following symbols have their usual phonetic values: _ð_, _g_,
+     Unless otherwise indicated, the following symbols have their usual phonetic values:
+_ð_, _g_,
 _ɢ_, _ɣ_, _h_, _k_, _l_, _ɬ_, _ʎ_, _m_, _n_, _ŋ_, _ñ_, _p_, _q_, _χ_, _ɾ_, _r_, _s_, _t_, _w_, _x_,
 _z_, _ʔ_, _a_, _ᴂ_, _e_, _ɛ_, _ə_, _i_, _ɨ_, _o_, _œ_, _ɔ_, _ʌ_, _u_, _ɯ_. The voiced stops
 _b_, _d_, _g_ and the voiced bilabial trill _ʙ_ are prenasalised in some languages, but prenasalisation
