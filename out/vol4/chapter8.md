@@ -16,7 +16,7 @@
 ### 1.1. Aims
 
 
-This chapter investigates the semantic histories of five Proto Oceanic terms, _&ast;ikan_, _&ast;pinaŋoda_, _&ast;sisiq_, _&ast;manuk_ and _&ast;manu-manuk_, each of which is a candidate for the status of a high-level generic or ‘life form’ in the POc taxonomy of animals.[^1] In certain contemporary Oceanic languages reflexes of _&ast;ikan_ have a range of reference that encompasses fish and other large water-dwelling animals (cetaceans, dugongs, turtles and crocodiles), reflexes of &ast;pinaŋoda encompass reef invertebrates, or sea animals other than fish and large water-dwelling animals, reflexes of _&ast;sisiq_ refer to gastropod (snail-like) shellfish, reflexes of _&ast;manuk_ refer to birds and bats, and reflexes of _&ast;manu-manuk_ to insects and other creepy-crawlies (spiders, centipedes, worms, etc.). However, in other Oceanic languages these etyma have reflexes with quite different ranges of reference. For example, in some cases the _&ast;manuk_ reflex includes not just birds and bats but all flying creatures, in others it includes all land-dwelling creatures or all creatures other than humans, in still others it includes humans, and there are some where it includes all objects. In many languages the _sisiq_ reflex refers just to a small class of small gastropods (nerites and similar) while in others it includes all gastropods or all shellfish.
+This chapter investigates the semantic histories of five Proto Oceanic terms, _&ast;ikan_, _&ast;pinaŋoda_, _&ast;sisiq_, _&ast;manuk_ and _&ast;manu-manuk_, each of which is a candidate for the status of a high-level generic or ‘life form’ in the POc taxonomy of animals.[^1] In certain contemporary Oceanic languages reflexes of _&ast;ikan_ have a range of reference that encompasses fish and other large water-dwelling animals (cetaceans, dugongs, turtles and crocodiles), reflexes of _&ast;pinaŋoda_ encompass reef invertebrates, or sea animals other than fish and large water-dwelling animals, reflexes of _&ast;sisiq_ refer to gastropod (snail-like) shellfish, reflexes of _&ast;manuk_ refer to birds and bats, and reflexes of _&ast;manu-manuk_ to insects and other creepy-crawlies (spiders, centipedes, worms, etc.). However, in other Oceanic languages these etyma have reflexes with quite different ranges of reference. For example, in some cases the _&ast;manuk_ reflex includes not just birds and bats but all flying creatures, in others it includes all land-dwelling creatures or all creatures other than humans, in still others it includes humans, and there are some where it includes all objects. In many languages the _sisiq_ reflex refers just to a small class of small gastropods (nerites and similar) while in others it includes all gastropods or all shellfish.
 
 
 <a id="p-422"></a>
@@ -227,32 +227,32 @@ Relatively detailed definitions of reflexes of _&ast;ikan_ are available for man
 
 <a id="p-430"></a>
 
-|                      |                     |                                                                                                                                                                                                |
-|:---------------------|:--------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| _Fijian and Rotuman_ |                     |                                                                                                                                                                                                |
-| Rotuman              | iʔa                 | ‘fish, turtles, whales, alligators, etc but not crabs or shell fish, etc’                                                                                                                      |
-| Wayan (W. Fijian)    | ika                 | (1) ‘typical fish, true fish. This category includes sharks, rays and eels. syn. _ika dū_ “true fish’”, (2) ‘fish, including cetaceans, turtles and, for many speakers, octopus and squid’     |
-|                      | ika-bula            | ‘turtle (generic)’                                                                                                                                                                             |
-|                      | ika dū              | ‘the green turtle, Chelonia mydas’ (lit. ‘true fish’)                                                                                                                                          |
-| Bauan                | ika                 | ‘fish, including eels, plus turtles, cetaceans, cephalopods’ (P. Geraghty pers. comm.)                                                                                                         |
-| _Polynesian_         |                     |                                                                                                                                                                                                |
-| Tongan               | ika                 | ‘fish, turtles, whales but not eels, cuttlefish or jellyfish’                                                                                                                                  |
-|                      | ika mui             | ‘male turtle’                                                                                                                                                                                  |
-|                      | ika matu            | ‘tender part of turtle near front paddles’                                                                                                                                                     |
-| Niuean               | ika                 | ‘fish, whales and dolphins’                                                                                                                                                                    |
-| Niutoputapu          | ika                 | ‘fish (including eels), turtles, cetaceans, and cephalopods’                                                                                                                                   |
-| Tahitian             | iʔa                 | ‘fish, porpoise, whale, turtle, octopus’                                                                                                                                                       |
-| Hawaiian             | iʔa                 | ‘fish or any marine animal, e.g. eel, oyster, crab, whale’                                                                                                                                     |
-| Ifira-Mele           | ika                 | ‘fish, whale, porpoise but not turtles, eels or octopus’                                                                                                                                       |
-| Tikopia              | ika                 | ‘general category with primary reference to fish but including allied creatures, e.g. turtle, cetaceans’, [turtles are classified both as ika and as paka ‘crabs and other shelled creatures’] |
-| Rennellese           | ika                 | ‘fish, turtle’                                                                                                                                                                                 |
-| Samoan               | iʔa                 | ‘fish plus turtles and whales (and perhaps others)’ (Milner),  ‘the general name for fishes (except the bonito), molluscs and crustaceans’ (Pratt)                                             |
-|                      | iʔa-mānu            | ‘whale’ (lit. ‘floating fish’) (Milner)                                                                                                                                                        |
-|                      | iʔa-sā              | ‘turtle’ (lit. ‘sacred fish’) (Milner, Pratt)                                                                                                                                                  |
-|                      | iʔa-vai             | (1) ‘eel’; (2) ‘fresh-water fish’ (Pratt)                                                                                                                                                      |
-| Tokelauan            | ika                 | ‘fish, turtle’                                                                                                                                                                                 |
-|                      | ika-fafine, ika-fua | ‘female turtle’                                                                                                                                                                                |
-|                      | ika-tagā            | ‘male turtle’                                                                                                                                                                                  |
+|                      |                         |                                                                                                                                                                                                |
+|:---------------------|:------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| _Fijian and Rotuman_ |                         |                                                                                                                                                                                                |
+| Rotuman              | _iʔa_                   | ‘fish, turtles, whales, alligators, etc but not crabs or shell fish, etc’                                                                                                                      |
+| Wayan (W. Fijian)    | _ika_                   | (1) ‘typical fish, true fish. This category includes sharks, rays and eels. syn. _ika dū_ “true fish’”, (2) ‘fish, including cetaceans, turtles and, for many speakers, octopus and squid’     |
+|                      | _ika-bula_              | ‘turtle (generic)’                                                                                                                                                                             |
+|                      | _ika dū_                | ‘the green turtle, Chelonia mydas’ (lit. ‘true fish’)                                                                                                                                          |
+| Bauan                | _ika_                   | ‘fish, including eels, plus turtles, cetaceans, cephalopods’ (P. Geraghty pers. comm.)                                                                                                         |
+| _Polynesian_         |                         |                                                                                                                                                                                                |
+| Tongan               | _ika_                   | ‘fish, turtles, whales but not eels, cuttlefish or jellyfish’                                                                                                                                  |
+|                      | _ika mui_               | ‘male turtle’                                                                                                                                                                                  |
+|                      | _ika matu_              | ‘tender part of turtle near front paddles’                                                                                                                                                     |
+| Niuean               | _ika_                   | ‘fish, whales and dolphins’                                                                                                                                                                    |
+| Niutoputapu          | _ika_                   | ‘fish (including eels), turtles, cetaceans, and cephalopods’                                                                                                                                   |
+| Tahitian             | _iʔa_                   | ‘fish, porpoise, whale, turtle, octopus’                                                                                                                                                       |
+| Hawaiian             | _iʔa_                   | ‘fish or any marine animal, e.g. eel, oyster, crab, whale’                                                                                                                                     |
+| Ifira-Mele           | _ika_                   | ‘fish, whale, porpoise but not turtles, eels or octopus’                                                                                                                                       |
+| Tikopia              | _ika_                   | ‘general category with primary reference to fish but including allied creatures, e.g. turtle, cetaceans’, [turtles are classified both as ika and as paka ‘crabs and other shelled creatures’] |
+| Rennellese           | _ika_                   | ‘fish, turtle’                                                                                                                                                                                 |
+| Samoan               | _iʔa_                   | ‘fish plus turtles and whales (and perhaps others)’ (Milner),  ‘the general name for fishes (except the bonito), molluscs and crustaceans’ (Pratt)                                             |
+|                      | _iʔa-mānu_              | ‘whale’ (lit. ‘floating fish’) (Milner)                                                                                                                                                        |
+|                      | -iʔa-sā_                | ‘turtle’ (lit. ‘sacred fish’) (Milner, Pratt)                                                                                                                                                  |
+|                      | _iʔa-vai_               | (1) ‘eel’; (2) ‘fresh-water fish’ (Pratt)                                                                                                                                                      |
+| Tokelauan            | _ika_                   | ‘fish, turtle’                                                                                                                                                                                 |
+|                      | _ika-fafine_, _ika-fua_ | ‘female turtle’                                                                                                                                                                                |
+|                      | _ika-tagā_              | ‘male turtle’                                                                                                                                                                                  |
 
 The only Central Pacific dictionary that distinguishes between a narrow sense of the _&ast;ikan_ reflex, including only ‘true fish’ and a broader sense, including other large marine creatures, is Wayan Fijian. The Wayan dictionary contains these example sentences: _Na siihiana ika ni qwara, ei tarn tia ika dū_. ‘The octopus is a fish living in holes; it is not a true fish. _Na ika dū ei vakalaulau_. ‘True fish have tails.’
 
@@ -306,13 +306,13 @@ Rotuman and the Fijian languages agree in including eels and cephalopods, as wel
 
 Details follow of reflexes of _&ast;ikan_ in five Micronesian languages for which quite informative definitions are available. The semantic range exhibited by these definitions is summarised in Table 8.4.
 
-|             |            |                                                                                                                                                                                                                                                                               |
-|:------------|:-----------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Kiribati    | ika        | ‘fish: all swimming marine creatures including turtles, dugong, whales and porpoises, but not squid or octopus’                                                                                                                                                               |
-| Marshallese | ek         | ‘fish’ ([Abo et al. 1976](../sources/Aboetal1976)) However, in the English-Marshallese finder list, under ‘fish’, the authors list terms for ‘dolphin’, ‘giant octopus’, and ‘jellyfish’ as well as ‘shark’, ‘eel’, but not ‘whale’ or ‘turtle’                                                         |
-| Carolinian  | ix         | ‘generic term for fish’ ([Jackson and Marck 1991](../sources/JacksonandMarck1991)). However, in the English-Carolinian finder list, under ‘fish’, the authors list terms for ‘porpoise’, ‘whale’, ‘octopus’, ‘sea urchin’, ‘starfish’, ‘sea cucumber’, as well as ‘eel’, ‘shark’ and ‘ray’, though not ‘turtle’ |
-| Woleaian    | ixar       | ‘fish’ ([Sohn and Tawerilmang 1976](../sources/SohnandTawerilmang1976)). However, in the English-Woleaian finder list, under ‘fish’, the authors list terms for ‘dolphin’, whale’ as well as ‘eel’, ‘shark’ and ‘ray’, though not ‘turtle’, ‘octopus’ or ‘squid’.                                                  |
-| Puluwatese  | yik, yikan | ‘fish, porpoises and whales but not squid’                                                                                                                                                                                                                                    |
+|             |                |                                                                                                                                                                                                                                                                               |
+|:------------|:---------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Kiribati    | _ika_          | ‘fish: all swimming marine creatures including turtles, dugong, whales and porpoises, but not squid or octopus’                                                                                                                                                               |
+| Marshallese | _ek_           | ‘fish’ ([Abo et al. 1976](../sources/Aboetal1976)) However, in the English-Marshallese finder list, under ‘fish’, the authors list terms for ‘dolphin’, ‘giant octopus’, and ‘jellyfish’ as well as ‘shark’, ‘eel’, but not ‘whale’ or ‘turtle’                                                         |
+| Carolinian  | _īx_           | ‘generic term for fish’ ([Jackson and Marck 1991](../sources/JacksonandMarck1991)). However, in the English-Carolinian finder list, under ‘fish’, the authors list terms for ‘porpoise’, ‘whale’, ‘octopus’, ‘sea urchin’, ‘starfish’, ‘sea cucumber’, as well as ‘eel’, ‘shark’ and ‘ray’, though not ‘turtle’ |
+| Woleaian    | _ixar_         | ‘fish’ ([Sohn and Tawerilmang 1976](../sources/SohnandTawerilmang1976)). However, in the English-Woleaian finder list, under ‘fish’, the authors list terms for ‘dolphin’, whale’ as well as ‘eel’, ‘shark’ and ‘ray’, though not ‘turtle’, ‘octopus’ or ‘squid’.                                                  |
+| Puluwatese  | _yīk_, _yikan_ | ‘fish, porpoises and whales but not squid’                                                                                                                                                                                                                                    |
 
 : Table 8.4       Semantic range of _&ast;ikan_ in Micronesian languages
 
@@ -337,15 +337,15 @@ All the languages sampled typically exclude turtles, molluscs and crustaceans. S
 
 Informative definitions are available for a few Oceanic languages of the Solomon Islands. Among the following, all belong to the SE Solomonic group except Marovo, which is NW Solomonic. For each of Lau and Gela, two definitions are given, from different sources.
 
-|            |       |                                                                                                                                   |
-|:-----------|:------|:----------------------------------------------------------------------------------------------------------------------------------|
-| Arosi      | iʔa   | ‘fish, including sharks, rays; also porpoises, and possibly other marine animals’                                                 |
-| Lau        | iʔa   | ‘fish, any sea creature’ ([Fox 1955](../sources/Fox1955))                                                                                               |
-| Lau        | iʔa   | (1) ‘typical fish, sharks and rays’; (2) ‘extended to include large marine animals such as porpoises, whales, dugongs’ (Akimichi) |
-| To’aba’ita | iʔa   | ‘fish, sharks, rays, dolphins, whales, dugongs, turtles’ (F. Lichtenberk pers. comm.)                                             |
-| Gela       | iɣa   | ‘sea creature: fish, mollusc, crayfish, whale, squid, sea anemone, etc.’ (Fox)                                                    |
-| Gela       | iɣa   | (1) ‘bony and cartiligenous fish’; (2) ‘all fish, whales, dolphins, dugongs, turtles, crocodiles’ (Foale)                         |
-| Marovo     | iɣana | ‘generic for all free-swimming creatures, e.g. fish, eels, stingrays, dolphins, whales, squid, jellyfish’                         |
+|            |         |                                                                                                                                   |
+|:-----------|:--------|:----------------------------------------------------------------------------------------------------------------------------------|
+| Arosi      | _iʔa_   | ‘fish, including sharks, rays; also porpoises, and possibly other marine animals’                                                 |
+| Lau        | _iʔa_   | ‘fish, any sea creature’ ([Fox 1955](../sources/Fox1955))                                                                                               |
+| Lau        | _iʔa_   | (1) ‘typical fish, sharks and rays’; (2) ‘extended to include large marine animals such as porpoises, whales, dugongs’ (Akimichi) |
+| To’aba’ita | _iʔa_   | ‘fish, sharks, rays, dolphins, whales, dugongs, turtles’ (F. Lichtenberk pers. comm.)                                             |
+| Gela       | _iɣa_   | ‘sea creature: fish, mollusc, crayfish, whale, squid, sea anemone, etc.’ (Fox)                                                    |
+| Gela       | _iɣa_   | (1) ‘bony and cartiligenous fish’; (2) ‘all fish, whales, dolphins, dugongs, turtles, crocodiles’ (Foale)                         |
+| Marovo     | _iɣana_ | ‘generic for all free-swimming creatures, e.g. fish, eels, stingrays, dolphins, whales, squid, jellyfish’                         |
 
 It can be seen that the witnesses largely agree in including sharks, rays, eels, turtles, cephalopods and crocodiles, virtually all free swimming aquatic creatures. Fox’s definitions for Lau and Gela are extreme in including all marine organisms.
 
@@ -369,15 +369,15 @@ It can be seen that the witnesses largely agree in including sharks, rays, eels,
 
 There are few informative definitions for reflexes of _&ast;ikan_ in Vanuatu languages.
 
-|           |              |                                                                                                                                           |
-|:----------|:-------------|:------------------------------------------------------------------------------------------------------------------------------------------|
-| Mota      | iya          | ‘fish’                                                                                                                                    |
-| NE Ambae  | iya          | ‘typical fishes, rays and dolphins, but not sharks and whales (which are grouped together), eels or cephalopods’ (C. Hyslop, pers. comm.) |
-| Raga      | ixe          | ‘fish, including whales and porpoises but not eels, seasnakes, octopus, squid, cuttlefish, jellyfish or balolo worms’                     |
-| cf. also: |              |                                                                                                                                           |
-| Anejom    | namu         | ‘fish, including sharks, eels, cetaceans, turtle, octopus and squid, and crustaceans but not molluscs with shells’ (J. Lynch pers. comm.) |
-| Paamese   | mesau        | (1) ‘fish (syn. ai)\ (2) ‘any sea dweller incl. turtles, dolphins, shellfish’                                                             |
-| Tamambo   | manji tarusa | ‘fish and shellfish’ (manji ‘animal, including fish and birds’, tarusa ‘sea’)                                                             |
+|           |                |                                                                                                                                           |
+|:----------|:---------------|:------------------------------------------------------------------------------------------------------------------------------------------|
+| Mota      | _iya_          | ‘fish’                                                                                                                                    |
+| NE Ambae  | _iya_          | ‘typical fishes, rays and dolphins, but not sharks and whales (which are grouped together), eels or cephalopods’ (C. Hyslop, pers. comm.) |
+| Raga      | _ixe_          | ‘fish, including whales and porpoises but not eels, seasnakes, octopus, squid, cuttlefish, jellyfish or balolo worms’                     |
+| cf. also: |                |                                                                                                                                           |
+| Anejom    | _namu_         | ‘fish, including sharks, eels, cetaceans, turtle, octopus and squid, and crustaceans but not molluscs with shells’ (J. Lynch pers. comm.) |
+| Paamese   | _mesau_        | (1) ‘fish (syn. ai)’ (2) ‘any sea dweller incl. turtles, dolphins, shellfish’                                                             |
+| Tamambo   | _manji tarusa_ | ‘fish and shellfish’ (_manji_ ‘animal, including fish and birds’, _tarusa_ ‘sea’)                                                         |
 
 Leaving aside the under-informative Mota and Tamambo definitions, we get Table 8.6.
 
@@ -401,12 +401,12 @@ Leaving aside the under-informative Mota and Tamambo definitions, we get Table 8
 
 Definitions are given for _&ast;ikan_ reflexes in four Admiralties languages. The initial _n-_ they show is a reduced form of the POc article _&ast;na_ which has fused with the following noun.
 
-|         |     |                                                             |
-|:--------|:----|:------------------------------------------------------------|
-| Titan   | nii | (1) ‘fish’, (2) ‘fish, porpoise, dugong, turtle, crocodile’ |
-| Lenkau  | nik | ‘fish, excluding porpoise, whale, turtle, crocodile’        |
-| Penchal | nii | (1) ‘fish’, (2) ‘fish, turtle, porpoise, whale, octopus’    |
-| Loniu   | ni  | ‘general term for fish’                                     |
+|         |       |                                                             |
+|:--------|:------|:------------------------------------------------------------|
+| Titan   | _nii_ | (1) ‘fish’, (2) ‘fish, porpoise, dugong, turtle, crocodile’ |
+| Lenkau  | _nik_ | ‘fish, excluding porpoise, whale, turtle, crocodile’        |
+| Penchal | _nii_ | (1) ‘fish’, (2) ‘fish, turtle, porpoise, whale, octopus’    |
+| Loniu   | _ni_  | ‘general term for fish’                                     |
 
 Discarding the Loniu definition as under-informative, we get the comparative breakdown in Table 8.7. It can be seen that the definitions for Titan and Penchal agree in including sharks, rays, cetaceans and turtles, but disagree over cephalopods.
 
@@ -429,22 +429,22 @@ Discarding the Loniu definition as under-informative, we get the comparative bre
 
 Of the Western Oceanic reflexes that follow, only the definitions for Kilivila, Muyuw and Motu are reasonably informative. The latter are all Papuan Tip languages. It can be seen from Table 8.8 that two of the three Papuan Tip witnesses agree in including sharks, rays, eels and crocodiles but disagree over cetaceans and turtles.
 
-|                    |         |                                                                                                |
-|:-------------------|:--------|:-----------------------------------------------------------------------------------------------|
-| _North New Guinea_ |         |                                                                                                |
-| Manam              | ika     | ‘fish’                                                                                         |
-| Yabem              | i       | ‘fish’                                                                                         |
-| _Papuan Tip_       |         |                                                                                                |
-| Dobuan             | iyana   | ‘fish, including alligators’                                                                   |
-| Kilivila           | yena    | ‘fish, including sharks, rays and eels, but excluding aquatic mammals, turtles or cephalopods’ |
-| Molima             | iyana   | ‘fish’                                                                                         |
-| Muyuw              | yin     | ‘fish, turtles, crocodiles, but not shellfish’                                                 |
-| cf. also:          |         |                                                                                                |
-| Motu               | gʷarume | ‘fish, excluding sharks, rays, eels and also cephalopods’ (N. Oram field notes)                |
-| _Meso-Melanesian_  |         |                                                                                                |
-| Tolai              | en      | ‘fish’                                                                                         |
-| Nakanai            | ia      | ‘fish’                                                                                         |
-| Roviana            | iɣana   | ‘generic name for                                                                              |
+|                    |           |                                                                                                |
+|:-------------------|:----------|:-----------------------------------------------------------------------------------------------|
+| _North New Guinea_ |           |                                                                                                |
+| Manam              | _ika_     | ‘fish’                                                                                         |
+| Yabem              | _i_       | ‘fish’                                                                                         |
+| _Papuan Tip_       |           |                                                                                                |
+| Dobuan             | _iyana_   | ‘fish, including alligators’                                                                   |
+| Kilivila           | _yena_    | ‘fish, including sharks, rays and eels, but excluding aquatic mammals, turtles or cephalopods’ |
+| Molima             | _iyana_   | ‘fish’                                                                                         |
+| Muyuw              | _yin_     | ‘fish, turtles, crocodiles, but not shellfish’                                                 |
+| cf. also:          |           |                                                                                                |
+| Motu               | _gʷarume_ | ‘fish, excluding sharks, rays, eels and also cephalopods’ (N. Oram field notes)                |
+| _Meso-Melanesian_  |           |                                                                                                |
+| Tolai              | _en_      | ‘fish’                                                                                         |
+| Nakanai            | _ia_      | ‘fish’                                                                                         |
+| Roviana            | _iɣana_   | ‘generic name for                                                                              |
 
 : Table 8.8         Semantic range of _&ast;ikan_ in Papuan Tip languages
 
@@ -486,25 +486,25 @@ More light might be shed on the scope of POc _&ast;ikan_ if it could be shown to
 
 Dictionaries of some Polynesian languages explicitly mention a two-way contrast between a reflex of PPn _&ast;ika_, denoting fish and other large aquatic vertebrates such as dolphins and turtles and a term, reflecting PPn _&ast;fiŋota_, that denotes forms of sea life other than &ast;ika, but especially molluscs and other invertebrates found on the reef. Compare, for example, the Tongan and Samoan entries in the following comparison:
 
-| _Polynesian_   |         |                                                                                                                                                                            |
-|:---------------|:--------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Tongan         | fiŋota  | ‘sea creature other than ika (fish, turtles, etc.) especially shellfish, but also crustaceans, cephalopods, jellyfish, eels, sea-snakes, sea cucumbers, starfish, seaweed’ |
-| Samoan         | fiiŋota | ‘general term for sea animals except fish, cetaceans and turtles, especially molluscs, crustaceans, echinoderms and sea cucumbers’                                         |
-| Niuatoputapu   | finjota | ‘shelled marine animals that creep or crawl: Crustacea, molluscs and echinoderms’                                                                                          |
-| East Futuna    | finjota | ‘coquillage’ [molluscs with external shells]                                                                                                                               |
-| Tokelauan      | fiiŋota | ‘general term for shellfish’                                                                                                                                               |
-| Ifira-Mele     | finjota | ‘shellfish’ [molluscs with external shells]                                                                                                                                |
-| Takuu          | fiinota | ‘various types of shellfish and seafoods gathered by women’                                                                                                                |
+| _Polynesian_   |           |                                                                                                                                                                            |
+|:---------------|:----------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Tongan         | _fiŋota_  | ‘sea creature other than ika (fish, turtles, etc.) especially shellfish, but also crustaceans, cephalopods, jellyfish, eels, sea-snakes, sea cucumbers, starfish, seaweed’ |
+| Samoan         | _fiiŋota_ | ‘general term for sea animals except fish, cetaceans and turtles, especially molluscs, crustaceans, echinoderms and sea cucumbers’                                         |
+| Niuatoputapu   | _finjota_ | ‘shelled marine animals that creep or crawl: Crustacea, molluscs and echinoderms’                                                                                          |
+| East Futuna    | _finjota_ | ‘coquillage’ [molluscs with external shells]                                                                                                                               |
+| Tokelauan      | _fiiŋota_ | ‘general term for shellfish’                                                                                                                                               |
+| Ifira-Mele     | _finjota_ | ‘shellfish’ [molluscs with external shells]                                                                                                                                |
+| Takuu          | _fiinota_ | ‘various types of shellfish and seafoods gathered by women’                                                                                                                |
 
 Cognates outside Polynesian are scarce, except in Papuan Tip languages. In the following, _g_ for POc _&ast;ŋ_  in Dobuan and Molima is unexpected (but regular in Kilivila).
 
-| _Papuan Tip_   |           |                                   |
-|:---------------|:----------|:----------------------------------|
-| Dobuan         | igoda     | ‘shellfish’                       |
-|                | igo-igoda | ‘any inedible shellfish’          |
-|                | lo-igoda  | ‘to gather shellfish’             |
-| Molima         | igoda     | ‘to collect shellfish’            |
-| Kilivila       | vigoda    | ‘shellfish (live, or shell only)’ |
+| _Papuan Tip_   |             |                                   |
+|:---------------|:------------|:----------------------------------|
+| Dobuan         | _igoda_     | ‘shellfish’                       |
+|                | _igo-igoda_ | ‘any inedible shellfish’          |
+|                | _lo-igoda_  | ‘to gather shellfish’             |
+| Molima         | _igoda_     | ‘to collect shellfish’            |
+| Kilivila       | _vigoda_    | ‘shellfish (live, or shell only)’ |
 
 
 <a id="p-438"></a>
@@ -513,42 +513,42 @@ A problem with many of these definitions is that for some English speakers the t
 
 Clark argues convincingly that PPn _&ast;fiŋota_ and Papuan Tip _vigoda_, _igoda_ are reductions of POc _&ast;p-in-aŋoda_, the nominalization of a verb, _&ast;paŋoda_, by means of a well-attested nominalising infix _&ast;-in-_[^6] The primary sense of _&ast;paŋoda_ was ‘to gather seafood (other than fish) on the reef’ with the additional sense ‘to fish, catch fish’. This verb is widely attested in Oceanic. Selected examples are given below. In some witnesses, especially in Western Oceanic, POc _&ast;ŋ_ is unexpectedly reflected as a stop, _g_.
 
-|                             |           |                                                                                                                                                                         |
-|:----------------------------|:----------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| _Meso-Melanesian_           |           |                                                                                                                                                                         |
-| Teop                        | yagana    | ‘to fish, (N) fishing’                                                                                                                                                  |
-| _SE Solomonic_              |           |                                                                                                                                                                         |
-| Bugotu                      | vaŋoda    | ‘hunt for shellfish on the reef’                                                                                                                                        |
-| Gela                        | vaŋoda    | (1) ‘collect food on the reef’; (2) ‘anything of the reef: starfish, crab, octopus, sea egg’, (3) ‘shell of mollusk or crab’, (4) ‘gatherer of reef food’, (5) ‘fisher’ |
-| _Micronesian_               |           |                                                                                                                                                                         |
-| Marshallese                 | yaged     | ‘go fishing’                                                                                                                                                            |
-| _North and Central Vanuatu_ |           |                                                                                                                                                                         |
-| Mota                        | vaŋona    | (v) ‘catch fish with a line, get shellfish’, (v) ‘things got to eat on the reef or by fishing, things for a relish to go with vegetable food’                           |
-| Namakir                     | ba-vaŋot  | ‘to fish’                                                                                                                                                               |
-| Nguna                       | pa-vaŋoda | ‘to fish, to gather shells’                                                                                                                                             |
-| Paamese                     | vaŋor     | ‘gather shellfish on reef’                                                                                                                                              |
-| Anejom                      | (a)haŋej  | ‘forage on the reef’                                                                                                                                                    |
-| _Central Pacific_           |           |                                                                                                                                                                         |
-| Rotuman                     | haŋota    | ‘to fish, fishing excursion, shoal of certain fish’                                                                                                                     |
-| _Polynesian_                |           |                                                                                                                                                                         |
-| Tongan                      | faaŋota   | ‘to fish or search for any kind oifiŋotd’                                                                                                                               |
-| Niuean                      | faŋota    | ‘gather shellfish on the reef’                                                                                                                                          |
-| Samoan                      | faaŋota   | ‘to fish; fishing’                                                                                                                                                      |
-| Rennellese                  | haŋota    | ‘to fish or gather shells, especially by women on the reef’                                                                                                             |
+|                             |             |                                                                                                                                                                         |
+|:----------------------------|:------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| _Meso-Melanesian_           |             |                                                                                                                                                                         |
+| Teop                        | _yagana_    | ‘to fish, (N) fishing’                                                                                                                                                  |
+| _SE Solomonic_              |             |                                                                                                                                                                         |
+| Bugotu                      | _vaŋoda_    | ‘hunt for shellfish on the reef’                                                                                                                                        |
+| Gela                        | _vaŋoda_    | (1) ‘collect food on the reef’; (2) ‘anything of the reef: starfish, crab, octopus, sea egg’, (3) ‘shell of mollusk or crab’, (4) ‘gatherer of reef food’, (5) ‘fisher’ |
+| _Micronesian_               |             |                                                                                                                                                                         |
+| Marshallese                 | _yaged_     | ‘go fishing’                                                                                                                                                            |
+| _North and Central Vanuatu_ |             |                                                                                                                                                                         |
+| Mota                        | _vaŋona_    | (v) ‘catch fish with a line, get shellfish’, (v) ‘things got to eat on the reef or by fishing, things for a relish to go with vegetable food’                           |
+| Namakir                     | _ba-vaŋot_  | ‘to fish’                                                                                                                                                               |
+| Nguna                       | _pa-vaŋoda_ | ‘to fish, to gather shells’                                                                                                                                             |
+| Paamese                     | _vaŋor_     | ‘gather shellfish on reef’                                                                                                                                              |
+| Anejom                      | _(a)haŋej_  | ‘forage on the reef’                                                                                                                                                    |
+| _Central Pacific_           |             |                                                                                                                                                                         |
+| Rotuman                     | _haŋota_    | ‘to fish, fishing excursion, shoal of certain fish’                                                                                                                     |
+| _Polynesian_                |             |                                                                                                                                                                         |
+| Tongan                      | _faaŋota_   | ‘to fish or search for any kind oifiŋotd’                                                                                                                               |
+| Niuean                      | _faŋota_    | ‘gather shellfish on the reef’                                                                                                                                          |
+| Samoan                      | _faaŋota_   | ‘to fish; fishing’                                                                                                                                                      |
+| Rennellese                  | _haŋota_    | ‘to fish or gather shells, especially by women on the reef’                                                                                                             |
 
 
 <a id="p-439"></a>
 
 A few languages retain a reflex of _&ast;pinaŋoda_ in which the infix is transparently preserved.
 
-|                             |           |                               |
-|:----------------------------|:----------|:------------------------------|
-| _Meso-Melanesian_           |           |                               |
-| Tolai                       | winagonoi | ‘generic name for sea-shells’ |
-| _North and Central Vanuatu_ |           |                               |
-| Nguna                       | vinagoda  | ‘shell, shellfish’            |
+|                             |             |                               |
+|:----------------------------|:------------|:------------------------------|
+| _Meso-Melanesian_           |             |                               |
+| Tolai                       | _winagonoi_ | ‘generic name for sea-shells’ |
+| _North and Central Vanuatu_ |             |                               |
+| Nguna                       | _vinagoda_  | ‘shell, shellfish’            |
 
-Can we conclude that POc _&ast;piniaŋoda_ was a major generic, a life-form of the same rank as _&ast;ikan_? Almost certainly not. Clark concludes that _&ast;pinaŋoda_ was probably not a biological taxon in the strict sense but a collective, a term for a diverse category of things, namely ‘seafood gathered on the reef’ in which shellfish, i.e. molluscs, were the focal members. Unfortunately, sources for contemporary Oceanic languages seldom provide discourse examples to show how speakers talk about reflexes of _&ast;pinaŋoda_. Whenever examples are given they show the noun being used to refer to a non-specific entity, an undifferentiated collectivity. Given the heterogeneity of the types of edibles subsumed under this term it would be surprising if it behaves, grammatically, as anything other than a collective.
+Can we conclude that POc _&ast;pinaŋoda_ was a major generic, a life-form of the same rank as _&ast;ikan_? Almost certainly not. Clark concludes that _&ast;pinaŋoda_ was probably not a biological taxon in the strict sense but a collective, a term for a diverse category of things, namely ‘seafood gathered on the reef’ in which shellfish, i.e. molluscs, were the focal members. Unfortunately, sources for contemporary Oceanic languages seldom provide discourse examples to show how speakers talk about reflexes of _&ast;pinaŋoda_. Whenever examples are given they show the noun being used to refer to a non-specific entity, an undifferentiated collectivity. Given the heterogeneity of the types of edibles subsumed under this term it would be surprising if it behaves, grammatically, as anything other than a collective.
 
 Clark remarks that in some contemporary Oceanic languages _&ast;pinaŋoda_ reflexes appear to have become a biotaxon, specifically a generic for shellfish. This has happened in at least two Polynesian languages (East Futunan and Tokelauan), one Vanuatu language (Nguna), and two Papuan Tip languages (Dobuan and Kilivila). However, as sources do not give examples showing how speakers of these languages use the shellfish generic we cannot be sure whether is a genuine life-form taxon or a collective.
 
@@ -569,73 +569,60 @@ However, no widespread cognate set has been found that consistently serves as a 
 
 Perhaps the strongest candidate for a POc generic in this domain is _&ast;sisiq_, which may have had variants _&ast;siseq_ and/or _&ast;sisuq_[^7] Reflexes of _&ast;sisiq_ vary greatly in range of reference across Oceanic languages.
 
-```
-_North New Guinea_ |       |
- Takia       | sisei       |   ‘generic term for all varieties of sea shells’
-_Papuan Tip_ |             |
- Dobuan      | sisi-yara   |   ‘a bivalve, Asaphis diehloma’
-             | sisi-we     |   ‘common whelk’
- Molima      | sisi-ʔalo   |   ‘a brown bivalve, small and edible, found in tidal flats
- Motu        | dudu        |   ‘name of a shellfish’ (&ast;z > u unexpected)
- Sinaugoro   | dudu        |   ‘cone shell’ (&ast;z > u unexpected)
-_Meso-Melanesian_ |        |
- Nakanai     | e-sisi      |    ‘a shellfish’
- Roviana     | sise        |    ‘general name for a number of small shells’
-_Southeast Solomonic_ |    |
- ’Are’are    | sisi        |   ‘a shellfish’
-             | sisi-       |   ‘first element in compound names for certain molluscs, e.g. sisi-nanara, sisi-nikau’
- Arosi       | sisi-       |   ‘first element in compound names for certain molluscs, e.g. sisi-apir ‘limpet’, sisi-nahu ‘small gastropod sp. in streams’
- To’aba’ita  | sisi-       |   ‘first element in compound names for a few mollusk species, e.g. sisi-afufu, sisi-ʔeiria
- Lau         | sisi-afufu  |   ‘mollusc sp.’
- Gela        | hihi-vuhi   |   ‘freshwater snail sp., Nerita brevispina’
-_North and Central Vanuatu_ | |
- Tolomako    | sise, sisi   |  ‘shellfish’ (scope uncertain)
- Mota        | sese         |  ‘a smooth shell, turris; in which the gatou ‘hermit crab lives
- NE Ambae    | hihe         |  ‘_Nerita sp._’
- Raga        | hiha         |  ‘sea snail, winkle’
- Uripiv      | (na)ses      |  ‘periwinkle (?)’
- SE Ambrym   | ses          |  ‘shellfish of family _Neritidae_’
- Nakanamanga | siisa        |  ‘snail, incl. nerites (sisa karo)’
-             | sususa       |  ‘maculated moon snail, periwinkles, mitres’
- S Efate     | ses          |  ‘nerite’
-_New Caledonia_ |           |
- Cemuhi      | ti           |      ‘generic term for gastropods’
- Fwai        | thik        |      ‘trochus, but used generically for gastropods’
- Nemi        | thik        |      ‘trochus, but used generically for gastropods’
-```
+|                             |                |                                                                                                                                                                                                                                                                                                                                                            |
+|:----------------------------|:---------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| _North New Guinea_          |                |                                                                                                                                                                                                                                                                                                                                                            |
+| Takia                       | _sisei_        | ‘generic term for all varieties of sea shells’                                                                                                                                                                                                                                                                                                             |
+| _Papuan Tip_                |                |                                                                                                                                                                                                                                                                                                                                                            |
+| Dobuan                      | _sisi-yara_    | ‘a bivalve, Asaphis diehloma’                                                                                                                                                                                                                                                                                                                              |
+|                             | _sisi-we_      | ‘common whelk’                                                                                                                                                                                                                                                                                                                                             |
+| Molima                      | _sisi-ʔalo_    | ‘a brown bivalve, small and edible, found in tidal flats                                                                                                                                                                                                                                                                                                   |
+| Motu                        | _dudu_         | ‘name of a shellfish’ (_&ast;z_ > _u_ unexpected)                                                                                                                                                                                                                                                                                                              |
+| Sinaugoro                   | _dudu_         | ‘cone shell’ (_&ast;z_ > _u_ unexpected)                                                                                                                                                                                                                                                                                                                       |
+| _Meso-Melanesian_           |                |                                                                                                                                                                                                                                                                                                                                                            |
+| Nakanai                     | _e-sisi_       | ‘a shellfish’                                                                                                                                                                                                                                                                                                                                              |
+| Roviana                     | _sise_         | ‘general name for a number of small shells’                                                                                                                                                                                                                                                                                                                |
+| _Southeast Solomonic_       |                |                                                                                                                                                                                                                                                                                                                                                            |
+| ’Are’are                    | _sisi_         | ‘a shellfish’                                                                                                                                                                                                                                                                                                                                              |
+|                             | _sisi-_        | ‘first element in compound names for certain molluscs, e.g. _sisi-nanara_, _sisi-nikau_’                                                                                                                                                                                                                                                                   |
+| Arosi                       | _sisi-_        | ‘first element in compound names for certain molluscs, e.g. _sisi-apir_ ‘limpet’, _sisi-nahu_ ‘small gastropod sp. in streams’                                                                                                                                                                                                                             |
+| To’aba’ita                  | _sisi-_        | ‘first element in compound names for a few mollusk species, e.g. _sisi-afufu_, _sisi-ʔeiria_                                                                                                                                                                                                                                                               |
+| Lau                         | _sisi-afufu_   | ‘mollusc sp.’                                                                                                                                                                                                                                                                                                                                              |
+| Gela                        | _hihi-vuhi_    | ‘freshwater snail sp., Nerita brevispina’                                                                                                                                                                                                                                                                                                                  |
+| _North and Central Vanuatu_ |                |                                                                                                                                                                                                                                                                                                                                                            |
+| Tolomako                    | _sise_, _sisi_ | ‘shellfish’ (scope uncertain)                                                                                                                                                                                                                                                                                                                              |
+| Mota                        | _sese_         | ‘a smooth shell, turris; in which the gatou ‘hermit crab lives                                                                                                                                                                                                                                                                                             |
+| NE Ambae                    | _hihe_         | ‘_Nerita_ sp.’                                                                                                                                                                                                                                                                                                                                             |
+| Raga                        | _hiha_         | ‘sea snail, winkle’                                                                                                                                                                                                                                                                                                                                        |
+| Uripiv                      | _(na)ses_      | ‘periwinkle (?)’                                                                                                                                                                                                                                                                                                                                           |
+| SE Ambrym                   | _ses_          | ‘shellfish of family Neritidae’                                                                                                                                                                                                                                                                                                                            |
+| Nakanamanga                 | _siisa_        | ‘snail, incl. nerites (_sisa karo_)’                                                                                                                                                                                                                                                                                                                       |
+|                             | _sususa_       | ‘maculated moon snail, periwinkles, mitres’                                                                                                                                                                                                                                                                                                                |
+| S Efate                     | _ses_          | ‘nerite’                                                                                                                                                                                                                                                                                                                                                   |
+| _New Caledonia_             |                |                                                                                                                                                                                                                                                                                                                                                            |
+| Cemuhi                      | _ti_           | ‘generic term for gastropods’                                                                                                                                                                                                                                                                                                                              |
+| Fwai                        | _thik_         | ‘trochus, but used generically for gastropods’                                                                                                                                                                                                                                                                                                             |
+| Nemi                        | _thik_         | ‘trochus, but used generically for gastropods’                                                                                                                                                                                                                                                                                                             |
+| _Fijian and Rotuman_        |                |                                                                                                                                                                                                                                                                                                                                                            |
+| Bauan                       | _siði_         | (1) ‘_Trochus_ spp.,’ (2) ‘first element in various compounds naming kinds of gastropods and a few bivalves’                                                                                                                                                                                                                                               |
+| Wayan                       | _ðiði_         | (1) ‘Generic for (i) gastropod molluscs (Gastropoda) with external shells, i.e. univalve or snail-like shellfish and (ii) chitons (Amphineura) and rock oysters, which resemble typical gastropods in that they stick to rocks and/or that the shell is not hinged.’ (2) ‘In a limited range of contexts, a generic for all molluscs with external shells’ |
+| Rotuman                     | _sisi_         | ‘edible shell-fish, the periwinkle’                                                                                                                                                                                                                                                                                                                        |
+| _Polynesian_                |                |                                                                                                                                                                                                                                                                                                                                                            |
+| Niuean                      | _hihi_         | ‘snail (generic), usu. first element in compound names for certain gastropods’, e.g. _hihi Afelika_, ‘African snail’, _hihi tea_ ‘a seasnail’                                                                                                                                                                                                              |
+| Hawaiian                    | _hiihii_/_wai_ | ‘grainy snail, Neritina, in both fresh and brackish water, eaten’                                                                                                                                                                                                                                                                                          |
+| Samoan                      | _sisi_         | ‘name given to small snails in general’ (Milner); ‘fresh water molluscs’ (Pratt)[^8][^9]                                                                                                                                                                                                                                                                     |
+|                             | _sisi-tai_     | ‘saltwater winkles’ (Pratt)                                                                                                                                                                                                                                                                                                                                |
+|                             | _sisi-vai_     | ‘freshwater molluscs’ (Pratt)                                                                                                                                                                                                                                                                                                                              |
+|                             | _sisi-vao_     | ‘landsnails’                                                                                                                                                                                                                                                                                                                                               |
+| Futunan                     | _sisi_         | ‘small shellfish spp., Neritidae and Naticidae’                                                                                                                                                                                                                                                                                                            |
+| Uvean                       | _hihi_         | ‘kind of shellfish, Janthinidae and Neritidae’                                                                                                                                                                                                                                                                                                             |
+| Tikopia                     | _sisi_         | ‘marine and land snails incl. Melampus and _Nerita_ spp.’                                                                                                                                                                                                                                                                                                  |
+| Mere-Ifira                  | _sisi_         | ‘small snail (nerites and others of similar shape)’                                                                                                                                                                                                                                                                                                        |
+| Rennellese                  | _sisi_         | ‘edible nerite shells’                                                                                                                                                                                                                                                                                                                                     |
+| Nukuoro                     | _sisi_         | ‘mollusc, _Neritidae_ spp.’                                                                                                                                                                                                                                                                                                                                |
 
 
 <a id="p-441"></a>
-
-```
- Fijian and Rotuman
-     Bauan          siði                 (1) ‘_Trochus spp._,’
-                                         (2) ‘first element in various compounds naming kinds of
-                                         gastropods and a few bivalves’
-     Wayan                ðiði           (1) ‘Generic for (i) gastropod molluscs (Gastropoda) with
-                                         external shells, i.e. univalve or snail-like shellfish and (ii)
-                                         chitons (Amphineura) and rock oysters, which resemble
-                                         typical gastropods in that they stick to rocks and/or that
-                                         the shell is not hinged.’
-                                         (2) ‘In a limited range of contexts, a generic for all molluscs with external shells’
-     Rotuman              sisi           ‘edible shell-fish, the periwinkle’
- Polynesian
-    Niuean                hihi           ‘snail (generic), usu. first element in compound names for
-                                         certain gastropods’, e.g. hihi Afelika, ‘African snail’, hihi
-                                         tea ‘a seasnail’
-     Hawaiian             hiihii/wai     ‘grainy snail, Neritina, in both fresh and brackish water,
-                                         eaten’
-     Samoan               sisi           ‘name given to small snails in general’ (Milner); ‘fresh water molluscs’ (Pratt)[^8][^9]
-                          sisi-tai       ‘saltwater winkles’ (Pratt)
-                          sisi-vai       ‘freshwater molluscs’ (Pratt)
-                          sisi-vao       ‘landsnails’
-     Futunan              sisi           ‘small shellfish spp., _Neritidae_ and _Naticidae_’
-     Uvean                hihi           ‘kind of shellfish, _Janthinidae_ and _Neritidae_’
-     Tikopia              sisi           ‘marine and land snails incl. Melampus and _Nerita spp._’
-     Mere-Ifira           sisi           ‘small snail (nerites and others of similar shape)’
-     Rennellese           sisi           ‘edible nerite shells’
-     Nukuoro              sisi           ‘mollusc, _Neritidae spp._’
-```
 
 The semantic range of these terms may be arranged in a scale as shown in Table 8.9. The semantic ranges of reflexes of _&ast;sisiq_ in better documented Oceanic languages are shown in Table 8.10.
 
@@ -646,45 +633,37 @@ About 50 families of gastropods or snail-like molluscs, comprising hundreds of g
 
 <a id="p-442"></a>
 
-```
-       Table 8.9    Implicational scale of types that may be included in reflexes of &ast;sisiq
-      (1)   one or two species of edible molluscs, sometimes a gastropod, sometimes a
-            bivalve, sometimes unidentified
-      (2)   Nerites (_Neritidae_), small snail-like shells, with large body whorls)
-      (3)   two or more of several several groups of edible small globular gastropods (_Neritidae_ and also _Naticidae_ or moon shells (small, globular and smooth), Lit-
-            torinidae or periwinkles (small, heavy shells, with only a few whorls, globular,
-            spiral or turbinate in shape)
-      (4)   all edible gastropods
-      (5)   all molluscs with shells
-```
+: __Table 8.9__ Implicational scale of types that may be included in reflexes of _&ast;sisiq_
 
-```
-            Table 8.10       Semantic range of reflexes of &ast;sisiq in Oceanic languages
-                                               small globular
-                                                                       all        all
-                    a few spp.                  gastropods:
-                                  nerites                             edible    edible    Grade
-                    of molluscs             nerites, moon shells,
-                                                                    gastropods molluscs
-                                              periwinkles, etc.
-      Takia              +           +               +                  +         +        5
-      Wayan              +           +               +                  +        (+)      4-5
-      Cemuhi             +           +               +                  +         -        4
-      Samoan             +           +               +                  +         -        4
-      ’Are’are           +           +               +                  +         -        4
-      Fwai               +           +               +                  +         -        4
-      Futuna             +           +               +                  -         -        3
-      E Uvean            +           +               +                  -         -        3
-      Tikopia            +           +               +                  -         -        3
-      Niuean             +           +                ?                 -         -       3 ?
-      Rennellese         +           +               -                  -         -        2
-      Nukuoro            +           +               -                  -         -        2
-      NE Ambae           +           +               -                  -         -        2
-      S Efate            +           +               -                  -         -        2
-      SE Ambrym          +           -               -                  -         -        1
-      Gela               +           -               -                  -         -        1
-      Hawaiian           +           -               -                  -         -        1
-```
+|     |                                                                                                                                                                                                                                                                        |
+|:----|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| (1) | one or two species of edible molluscs, sometimes a gastropod, sometimes a bivalve, sometimes unidentified                                                                                                                                                              |
+| (2) | Nerites (Neritidae), small snail-like shells, with large body whorls)                                                                                                                                                                                                  |
+| (3) | two or more of several several groups of edible small globular gastropods (Neritidae and also Naticidae or moon shells (small, globular and smooth), Littorinidae or periwinkles (small, heavy shells, with only a few whorls, globular, spiral or turbinate in shape) |
+| (4) | all edible gastropods                                                                                                                                                                                                                                                  |
+| (5) | all molluscs with shells                                                                                                                                                                                                                                               |
+
+: __Table 8.10__ Semantic range of reflexes of _&ast;sisiq_ in Oceanic languages small globular
+
+|            | a few spp. of molluscs   | nerites   | small globular gastropods: nerites, moon shells, periwinkles, etc.   | all edible gastropods   | all edible molluscs   | Grade   |
+|:-----------|:-------------------------|:----------|:---------------------------------------------------------------------|:------------------------|:----------------------|:--------|
+| Takia      | +                        | +         | +                                                                    | +                       | +                     | 5       |
+| Wayan      | +                        | +         | +                                                                    | +                       | (+)                   | 4-5     |
+| Cemuhi     | +                        | +         | +                                                                    | +                       | -                     | 4       |
+| Samoan     | +                        | +         | +                                                                    | +                       | -                     | 4       |
+| ’Are’are   | +                        | +         | +                                                                    | +                       | -                     | 4       |
+| Fwai       | +                        | +         | +                                                                    | +                       | -                     | 4       |
+| Futuna     | +                        | +         | +                                                                    | -                       | -                     | 3       |
+| E Uvean    | +                        | +         | +                                                                    | -                       | -                     | 3       |
+| Tikopia    | +                        | +         | +                                                                    | -                       | -                     | 3       |
+| Niuean     | +                        | +         | ?                                                                    | -                       | -                     | 3 ?     |
+| Rennellese | +                        | +         | -                                                                    | -                       | -                     | 2       |
+| Nukuoro    | +                        | +         | -                                                                    | -                       | -                     | 2       |
+| NE Ambae   | +                        | +         | -                                                                    | -                       | -                     | 2       |
+| S Efate    | +                        | +         | -                                                                    | -                       | -                     | 2       |
+| SE Ambrym  | +                        | -         | -                                                                    | -                       | -                     | 1       |
+| Gela       | +                        | -         | -                                                                    | -                       | -                     | 1       |
+| Hawaiian   | +                        | -         | -                                                                    | -                       | -                     | 1       |
 
 
 <a id="p-443"></a>
@@ -707,15 +686,16 @@ There is some evidence that _&ast;sisiq_ also served as a high-order generic, pe
 
 POc _&ast;manuk_ is a well attested form whose semantic range certainly included birds in general, but whose reflexes often have a broader scope. The implicational scale in Table 8.11, going from the most restricted domain to the most inclusive, predicts fairly well the kinds of variations in range seen among _&ast;manuk_ reflexes.
 
-```
-   Table 8.11      Implicational scale of types that may be included in reflexes of &ast;manuk
-                               (1)   birds and bats
-                               (2)   birds, bats and flying insects
-                               (3)   all land animals
-                               (4)   all animals except humans
-                               (5)   all beings
-                               (6)   all objects
-```
+: __Table 8.11__ Implicational scale of types that may be included in reflexes of _&ast;manuk_
+
+|     |                                |
+|:----|:-------------------------------|
+| (1) | birds and bats                 |
+| (2) | birds, bats and flying insects |
+| (3) | all land animals               |
+| (4) | all animals except humans      |
+| (5) | all beings                     |
+| (6) | all objects                    |
 
 
 <a id="p-444"></a>
@@ -732,34 +712,23 @@ POc _&ast;manuk_ is a well attested form whose semantic range certainly included
 #### 5.2.1. Polynesian
 
 
-```
- Tongan            manu        ‘animal, esp. bird but applied also to quadrupeds, reptiles,
-                               insects, and other land creatures but not to fish, shell-fish,
-                               and other sea creatures’. (Also manu-puna ‘bird or bat’; lit.
-                               ‘flying manti’)
- Niuean            manu        ‘any living creature except humans and fish’ (Also manu-
-                               lele ‘bird and bat but not insects; lit. ‘flying manu’)
- Maori             manu        ‘bird’
- Tahitian          manu        (1) ‘bird + flying insects’
-                               (2) ‘land animal as opposed to iʔa’
-                   manu-manu   ‘insects’ [probably in vernacular sense, including arthropods]
- Hawaiian          manu        ‘bird, any winged creature’
- Rarotongan        manu        ‘creature, living thing, usually but not always bird; often used figuratively for a human being’ (also manu-rere.
-                               manu-reva ‘bird’, manu vaevae'Pa. lit. ‘four legged animal’)
-                               and manumanu ‘insects, small flies’)
- Samoan            manu        (1) ‘bird’ (also manu-lele ‘bird’) (Milner)
-                               (2) ‘animal, beast’ (Milner)
-                               (3) ‘any living thing’ (Utugagana)
- Tokelauan         manu        (1) ‘animal, beast’
-                               (2) ‘bird’
- Futunan           manu        ‘animal in general’; manu-lele ‘bird’ (lit. ‘flying animal’)
- Uvea              manu        ‘animals in general’; manu-lele ‘bird’
- Ifira-Mele        manu        ‘bird, bat (and possibly butterflies)’
- Tikopia           manu        ‘terrestrial creatures: mammals, birds, arthropods, but ex                               cluding marine creatures’
- Rennellese        manu        ‘land fauna except human beings, turtles and fish (incl. birds
-                               and flying insects)’ (also manu-gege ‘birds and flying in                               sects’)
- Nukuoro           manu        ‘living things in general’
-```
+|            |             |                                                                                                                                                                                                                           |
+|:-----------|:------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Tongan     | _manu_      | ‘animal, esp. bird but applied also to quadrupeds, reptiles, insects, and other land creatures but not to fish, shell-fish, and other sea creatures’. (Also manu-puna ‘bird or bat’; lit. ‘flying manti’)                 |
+| Niuean     | _manu_      | ‘any living creature except humans and fish’ (Also _manu-lele_ ‘bird and bat but not insects; lit. ‘flying _manu_’)                                                                                                       |
+| Maori      | _manu_      | ‘bird’                                                                                                                                                                                                                    |
+| Tahitian   | _manu_      | (1) ‘bird + flying insects’ (2) ‘land animal as opposed to iʔa’                                                                                                                                                           |
+|            | _manu-manu_ | ‘insects’ [probably in vernacular sense, including arthropods]                                                                                                                                                            |
+| Hawaiian   | _manu_      | ‘bird, any winged creature’                                                                                                                                                                                               |
+| Rarotongan | _manu_      | ‘creature, living thing, usually but not always bird; often used figuratively for a human being’ (also _manu-rere_, _manu-reva_ ‘bird’, _manu vaevaeʔā_ lit. ‘four legged animal’) and _manumanu_ ‘insects, small flies’) |
+| Samoan     | _manu_      | (1) ‘bird’ (also manu-lele ‘bird’) (Milner) (2) ‘animal, beast’ (Milner) (3) ‘any living thing’ (Utugagana)                                                                                                               |
+| Tokelauan  | _manu_      | (1) ‘animal, beast’ (2) ‘bird’                                                                                                                                                                                            |
+| Futunan    | _manu_      | ‘animal in general’; _manu-lele_ ‘bird’ (lit. ‘flying animal’)                                                                                                                                                            |
+| Uvea       | _manu_      | ‘animals in general’; _manu-lele_ ‘bird’                                                                                                                                                                                  |
+| Ifira-Mele | _manu_      | ‘bird, bat (and possibly butterflies)’                                                                                                                                                                                    |
+| Tikopia    | _manu_      | ‘terrestrial creatures: mammals, birds, arthropods, but ex                               cluding marine creatures’                                                                                                        |
+| Rennellese | _manu_      | ‘land fauna except human beings, turtles and fish (incl. birds and flying insects)’ (also manu-gege ‘birds and flying insects’)                                                                                           |
+| Nukuoro    | _manu_      | ‘living things in general’                                                                                                                                                                                                |
 
 The semantic range of these terms may be arranged in a scale as shown in Table 8.12. This distribution of meanings suggests that PPn _&ast;manu_ had a narrow sense ‘birds and bats’ (with synonym _&ast;manu-lele_), and an extended sense, roughly ‘all land animals other than humans’. Among the languages cited above, Niuean and Tongan (Tongic), Rarotongan and Tahitian (Eastern Polynesian), Rennellese, Samoan, Tokelauan and Tikopian (non-Eastern Nuclear Polynesian) have an extended sense.
 
@@ -768,36 +737,26 @@ In Futunan, Uvean, (and occasionally) Rarotongan, _manu_ can be extended to all 
 
 <a id="p-445"></a>
 
-```
-  Table 8.12    Semantic range of reflexes of POc &ast;manuk in some Polynesian languages
-                            1       2       3         4         5       6
-                                                      all      all
-                          birds   birds,    all
-                                                    animals   beings    all
-                           and     flying  land                                Grade
-                                                     except including things
-                           bats   insects animals
-                                                    humans humans
-         Nukuoro            +       +       +         +         +       -        5
-         Rarotongan         +       +       +         +         +       -        5
-         Tikopia            +       +       +         +         -       -       4
-                                                                                 o
-         Tongan             +       +       +         -         -       -        J
-                                                                                 o
-         Niuean             +       +       +         -         -       -        J
-         Samoan     1.      +       -       -         -         -       -        1
-                    2.      +       ?       +         ?         -       -        o
-                                                                                 J
-         Tokelauan 1.       +       -       -         -         -       -        1
-                                                                                 o
-                    2.      +       ?       +         ?         -       -        J
-         Tahitian   1.      +       +       -         -         -       -        2
-                    2.      +       +       +         —         —       -        3
-         Rennellese         +       +       +         -         -       -        3
-         Ifira-Mele         +       +       (+)       -         -       -       3 ?
-         Tahitian           +       +        +        -         -       -        3
-         Maori              +       -        -        -         -       -        1
-```
+: __Table 8.12__ Semantic range of reflexes of POc &ast;manuk in some Polynesian languages
+
+|            |     |                | 1                     | 2                | 3                         | 4                        | 5                           | 6          |       |
+|:-----------|:----|:---------------|:----------------------|:-----------------|:--------------------------|:-------------------------|:----------------------------|:-----------|:------|
+|            |     | birds and bats | birds, flying insects | all land animals | all animals except humans | all beings except humans | all beings including humans | all things | Grade |
+| Nukuoro    |     | +              | +                     | +                | +                         | +                        | -                           | 5          |       |
+| Rarotongan |     | +              | +                     | +                | +                         | +                        | -                           | 5          |       |
+| Tikopia    |     | +              | +                     | +                | +                         | -                        | -                           | 4          |       |
+| Tongan     |     | +              | +                     | +                | -                         | -                        | -                           | 3          |       |
+| Niuean     |     | +              | +                     | +                | -                         | -                        | -                           | 3          |       |
+| Samoan     | 1.  | +              | -                     | -                | -                         | -                        | -                           | 1          |       |
+|            | 2.  | +              | ?                     | +                | ?                         | -                        | -                           | 3          |       |
+| Tokelauan  | 1.  | +              | -                     | -                | -                         | -                        | -                           | 1          |       |
+|            | 2.  | +              | ?                     | +                | ?                         | -                        | -                           | 3          |       |
+| Tahitian   | 1.  | +              | +                     | -                | -                         | -                        | -                           | 2          |       |
+|            | 2.  | +              | +                     | +                | -                         | -                        | -                           | 3          |       |
+| Rennellese |     | +              | +                     | +                | -                         | -                        | -                           | 3          |       |
+| Ifira-Mele |     | +              | +                     | (+)              | -                         | -                        | -                           | 3 ?        |       |
+| Tahitian   |     | +              | +                     | +                | -                         | -                        | -                           | 3          |       |
+| Maori      |     | +              | -                     | -                | -                         | -                        | -                           | 1          |       |
 
 Cecil Brown, in a paper on the development of life form taxa in Polynesian languages, expresses doubts about the two-sense reconstruction. He concludes ([Brown 1981](../sources/Brown1981):94) that ‘bird’ probably ‘constituted the primary, if not the only zoological reference’ of PPn _&ast;manu_. If I understand him correctly, Brown prefers to interpret the fact that Tongan, Niuean, Samoan, Tikopia, Rennellese, Rarotongan, etc. agree in having a second, wider sense of _&ast;manu_, as the result of semantic extensions made independently several times in the history of the Polynesian languages. He points out the importance of ecological factors. While birds must have been very prominent creatures in all the islands of the Pacific, most of the islands settled by Polynesians would have had very few land animals other than birds and small invertebrates. All had lizards, a very few had snakes, otherwise there were only those animals brought by humans: rats, dogs and (sometimes) pigs. When, in the post-European contact era, new quadrupeds (such as cattle, horses and goats) arrived it would have been natural to extend the reflex of _&ast;manu_ to these.
 
@@ -806,23 +765,16 @@ However, it seems to me more likely that _&ast;manu_ was already polysemous in P
 
 <a id="p-446"></a>
 
-```
-    Table 8.13       Semantic range of reflexes of PCP &ast;manu-manu in Rotuman and Fijian
-                                            languages
-                                 1         2       3         4         5        6
-                                                            all        all
-                               birds     birds,    all
-                                                          animals     beings     all
-                               and       flying  land                                 Grade
-                                                          except    including tilings
-                               bats     insects animals
-                                                          humans    humans
-            Rotuman             +          +       +         +         —        —      4
-            Bauan   1.          +          +       +         ?         -        -       3
-                          2.    +          -       -         -         -        -       1
-            Wayan         1.    +          +       +         +         -        -      4
-                          2.    +          +       +         -         -        -       3
-```
+: __Table 8.13__ Semantic range of reflexes of PCP &ast;manu-manu in Rotuman and Fijian languages
+
+|         |     |                | 1                     | 2                | 3                         | 4                        | 5                           | 6          |       |
+|:--------|:----|:---------------|:----------------------|:-----------------|:--------------------------|:-------------------------|:----------------------------|:-----------|:------|
+|         |     | birds and bats | birds, flying insects | all land animals | all animals except humans | all beings except humans | all beings including humans | all things | Grade |
+| Rotuman |     | +              | +                     | +                | +                         | -                        | -                           | 4          |       |
+| Bauan   | 1.  | +              | +                     | +                | ?                         | -                        | -                           | 3          |       |
+|         | 2.  | +              | -                     | -                | -                         | -                        | -                           | 1          |       |
+| Wayan   | 1.  | +              | +                     | +                | +                         | -                        | -                           | 4          |       |
+|         | 2.  | +              | +                     | +                | -                         | -                        | -                           | 3          |       |
 
 
 <a id="s-5-2-2"></a>
@@ -832,15 +784,11 @@ However, it seems to me more likely that _&ast;manu_ was already polysemous in P
 
 Rotuman and the Fijian languages reflect only a reduplicated form _&ast;manu-manu_. In Rotuman this term denotes land animals other than humans. In Wayan it denotes all creatures. In Bauan its narrower sense refers to birds and its wider sense includes all creatures. In all three languages a compound consisting of a reflex of _&ast;manu-manu_ plus a verb/adjective meaning ‘to fly, flying’ is used to distinguish birds and other flying animals from terrestrial animals.
 
-```
- Rotuman      mon-monu               ‘bird, insect, animal, including all land and air creatures but
-                                     no sea creature’ (also mənmənu ferfere ‘bird, flying insect’)
- Bauan        manu-manu              (1) ‘bird’
-                                     (2) ‘sometimes also animal, insect’ (also manumanu vuka
-                                     ‘bird’ (lit. ‘flying animal)’
- Wayan        manu-manu              (1) ‘animal, creature, being, normally excluding human be                                     ings’ (also manumanu ðavu ‘bird’, lit. ‘flying animal’)
-                                     (2) ‘sometimes used to denote land animals in contrast to ma                                     rine animals, such as ika. fish and fish-like creatures’
-```
+|         |             |                                                                                                                                                                                                                                                                              |
+|:--------|:------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Rotuman | _mɔn-mɔnu_  | ‘bird, insect, animal, including all land and air creatures but no sea creature’ (also _mɔnmɔnu ferfere_ ‘bird, flying insect’)                                                                                                                                              |
+| Bauan   | _manu-manu_ | (1) ‘bird’ (2) ‘sometimes also animal, insect’ (also _manumanu vuka_ ‘bird’ (lit. ‘flying animal)’                                                                                                                                                                           |
+| Wayan   | _manu-manu_ | (1) ‘animal, creature, being, normally excluding human beings’ (also _manumanu ðavu_ ‘bird’, lit. ‘flying animal’) (2) ‘sometimes used to denote land animals in contrast to ma                                     rine animals, such as ika. fish and fish-like creatures’ |
 
 
 <a id="s-5-2-3"></a>
@@ -848,44 +796,32 @@ Rotuman and the Fijian languages reflect only a reduplicated form _&ast;manu-man
 #### 5.2.3. Micronesian
 
 
-```
- Kiribati           man                  ‘animal (including fish), beast, insect, etc.’; ‘numeral
-                                         classifier for people and animals’
- Puluwatese         maan                 ‘creature, being, animal, insect’
- Carolinian         maal, maan           ‘generic term for any living creature except humans’,
-                    -mal                 ‘counting classifier for people and animals’
- Chuukese           maan                 ‘living creature of land or air, other than human’
- Woleaian           mal                  (1) ‘animal, bird, animate object’; (2) ‘thing, inanimate
-                                         object’
-                                     (these are listed as homonyms by [Sohn and Tawerilmang
-                                     1976](../sources/SohnandTawerilmang1976); note also mal ‘numeral classifier for animate beings
-                                     including humans’)
- Mokilese         mahn               ‘mammal, fruit bat, lizard, monitor, worm, bug, bird’
- Marshallese      men                ‘thing’
-                  men-in-mour        ‘animal, living thing’ (from men ‘thing’, -in- ‘of’, mour
-                                     ‘life’)
-```
+|             |                |                                                                                                                                                                                                       |
+|:------------|:---------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Kiribati    | _man_          | ‘animal (including fish), beast, insect, etc.’; ‘numeral classifier for people and animals’                                                                                                           |
+| Puluwatese  | _maan_         | ‘creature, being, animal, insect’                                                                                                                                                                     |
+| Carolinian  | _maal_, _maan_ | ‘generic term for any living creature except humans’,                                                                                                                                                 |
+|             | _-mal_         | ‘counting classifier for people and animals’                                                                                                                                                          |
+| Chuukese    | _maan_         | ‘living creature of land or air, other than human’                                                                                                                                                    |
+| Woleaian    | _mal_          | (1) ‘animal, bird, animate object’; (2) ‘thing, inanimate object’ (these are listed as homonyms by [Sohn and Tawerilmang 1976](../sources/SohnandTawerilmang1976); note also mal ‘numeral classifier for animate beings including humans’) |
+| Mokilese    | _mahn_         | ‘mammal, fruit bat, lizard, monitor, worm, bug, bird’                                                                                                                                                 |
+| Marshallese | _men_          | ‘thing’                                                                                                                                                                                               |
+|             | _men-in-mour_  | ‘animal, living thing’ (from _men_ ‘thing’, _-in-_ ‘of’, _mour_ ‘life’)                                                                                                                               |
 
 
 <a id="p-447"></a>
 
-```
- Table 8.14      Semantic range of reflexes of POc &ast;manuk in some Micronesian languages
-                               1       2        3        4           5        6
-                                                         all        all
-                             birds   birds,    all
-                                                       animals    beings     all
-                             and      flying  land                                   Grade
-                                                       except    including tilings
-                             bats    insects animals
-                                                       humans    humans
-            Marshallese       +        +        +        +          +         +        6
-            Woleiai           +        +        +        +          +         +        6
-            Kiribati          +        +        +        +          +         -        5
-            Puluwatese        +        +        +        +          +         -        5
-            Chuukese          +        +        +        +          -         -       4
-            Mokilese          +        +        +        +          -         -       4
-```
+: __Table 8.14__ Semantic range of reflexes of POc &ast;manuk in some Micronesian languages
+
+|             |                | 1                     | 2                | 3                         | 4                        | 5                           | 6          |       |
+|:------------|:---------------|:----------------------|:-----------------|:--------------------------|:-------------------------|:----------------------------|:-----------|:------|
+|             | birds and bats | birds, flying insects | all land animals | all animals except humans | all beings except humans | all beings including humans | all things | Grade |
+| Marshallese | +              | +                     | +                | +                         | +                        | +                           | 6          |       |
+| Woleiai     | +              | +                     | +                | +                         | +                        | +                           | 6          |       |
+| Kiribati    | +              | +                     | +                | +                         | +                        | -                           | 5          |       |
+| Puluwatese  | +              | +                     | +                | +                         | +                        | -                           | 5          |       |
+| Chuukese    | +              | +                     | +                | +                         | -                        | -                           | 4          |       |
+| Mokilese    | +              | +                     | +                | +                         | -                        | -                           | 4          |       |
 
 It can be seen that in this sample of Nuclear Micronesian languages most reflect POc _&ast;manuk_ with range of reference much broader than ‘bird’. In Kiribati and Mokilese the meaning is approximately ‘land animals other than humans’. In Carolinian and Woleaian the reflex refers to all animals other than humans (domains 1-4 on the implicational scale) but in Woleaian it can also denote any object (domains 1-6). In Puluwatese the nominal reflex of _&ast;manuk_ refers to living things in general, as is also the case for the numeral classifier reflex in most Nuclear Micronesian languages. In Marshallese and Woleaian the reflex of _&ast;manuk_ has become the term for ‘thing’.
 
@@ -902,83 +838,70 @@ Outside of the Nuclear Micronesian and Central Pacific groups, reflexes of _&ast
 
 <a id="p-448"></a>
 
-```
- Vanuatu
-   NE Ambae            manu      ‘birds and flying foxes’
-   Mota                manu      ‘flying creature: bird, bat, beetle’
-   Paamese             a-man     ‘bird’
-    Sye                menoy     ‘bird’
-   Lenakel             menuk     ‘bird’
-   Anejom              in-man    ‘bird (includes flying-foxes but not insects)’
-New Caledonia
-  Cemuhi               meni      ‘birds (generic) and bats’
-  Fwai                 manik     ‘bird’
-  Nelemwa              malic     ‘bird (generic)’
-Southeast Solomonic
-   Arosi               manu      ‘bird’
-   ‘Are’are            manu      ‘bird, insect, anything that flies’
-   Kwaio               manu      ‘bird’
-   Lau                 manu      ‘any creature that flies’
-   Sa’a                menu      ‘bird, insect’
-   Gela                manu      ‘flying creature, bird, insect’
-Meso-Melanesian
-  Nakanai              malu      ‘bird, insect (general term)’
-  Tangga               man       ‘generic term for all species of bird’
-   Simbo               maunuyu   (1) ‘creature, being, including humans, birds, marine
-                                 mammals, and possibly fish’
-                                 (2) ‘thing’
- cf. also
-     Marovo            oloko     (1) ‘all flying creatures including large and small bats’
-                                 (2) ‘animal, including all mobile land animals’ ([Hviding
-                                 2005](../sources/Hviding2005):175)
-North New Guinea
-  Kairiru              myan      ‘bird’
-  Manam                maŋ       ‘bird, fowl’
-  Mumeng (Patep)       mena?     ‘bird, including cassowary’
-   Yabem               mo?       ‘birds (generic) and flying insects’
-Papuan Tip
-   Motu                manu      ‘birds and all things that fly including flying foxes’ (also
-                                 manu-manu ‘flying insects’ (N. Oram field notes)
-      Molima           manu      ‘bird’ (also manu-manuwa ‘insects’)
-      Dobuan           manua     ‘birds (generic)’ (also manu-manua ‘insects and small
-                                 creatures’)
-      Kilivila         mauna     ‘animal, bird, insect’
-      Muyuw            man       ‘land creature, bird, animal, insect’
-Admiralties
-  Lou                  mon-mon   ‘bird’
-  Mussau               menua     ‘hawk, eagle’
-```
+|                       |           |                                                                                                                              |
+|:----------------------|:----------|:-----------------------------------------------------------------------------------------------------------------------------|
+| _Vanuatu_             |           |                                                                                                                              |
+| NE Ambae              | _manu_    | ‘birds and flying foxes’                                                                                                     |
+| Mota                  | _manu_    | ‘flying creature: bird, bat, beetle’                                                                                         |
+| Paamese               | _a-man_   | ‘bird’                                                                                                                       |
+| Sye                   | _menoɣ_   | ‘bird’                                                                                                                       |
+| Lenakel               | _menuk_   | ‘bird’                                                                                                                       |
+| Anejom                | _in-man_  | ‘bird (includes flying-foxes but not insects)’                                                                               |
+| _New Caledonia_       |           |                                                                                                                              |
+| Cemuhi                | _meni_    | ‘birds (generic) and bats’                                                                                                   |
+| Fwai                  | _manik_   | ‘bird’                                                                                                                       |
+| Nelemwa               | _mālîc_   | ‘bird (generic)’                                                                                                             |
+| _Southeast Solomonic_ |           |                                                                                                                              |
+| Arosi                 | _manu_    | ‘bird’                                                                                                                       |
+| ‘Are’are              | _mānu_    | ‘bird, insect, anything that flies’                                                                                          |
+| Kwaio                 | _manu_    | ‘bird’                                                                                                                       |
+| Lau                   | _manu_    | ‘any creature that flies’                                                                                                    |
+| Sa’a                  | _menu_    | ‘bird, insect’                                                                                                               |
+| Gela                  | _manu_    | ‘flying creature, bird, insect’                                                                                              |
+| _Meso-Melanesian_     |           |                                                                                                                              |
+| Nakanai               | _malu_    | ‘bird, insect (general term)’                                                                                                |
+| Tangga                | _man_     | ‘generic term for all species of bird’                                                                                       |
+| Simbo                 | _maunuɣu_ | (1) ‘creature, being, including humans, birds, marine mammals, and possibly fish’ (2) ‘thing’                                |
+| cf. also              |           |                                                                                                                              |
+| Marovo                | _oloko_   | (1) ‘all flying creatures including large and small bats’ (2) ‘animal, including all mobile land animals’ ([Hviding 2005](../sources/Hviding2005):175) |
+| _North New Guinea_    |           |                                                                                                                              |
+| Kairiru               | _mʸan_    | ‘bird’                                                                                                                       |
+| Manam                 | _maŋ_     | ‘bird, fowl’                                                                                                                 |
+| Mumeng (Patep)        | _menaʔ_   | ‘bird, including cassowary’                                                                                                  |
+| Yabem                 | _mɔʔ_     | ‘birds (generic) and flying insects’                                                                                         |
+| _Papuan Tip_          |           |                                                                                                                              |
+| Motu                  | _manu_    | ‘birds and all things that fly including flying foxes’ (also _manu-manu_ ‘flying insects’ (N. Oram field notes)              |
+| Molima                | _manu_    | ‘bird’ (also _manu-manuwa_ ‘insects’)                                                                                        |
+| Dobuan                | _manua_   | ‘birds (generic)’ (also _manu-manua_ ‘insects and small creatures’)                                                          |
+| Kilivila              | _mauna_   | ‘animal, bird, insect’                                                                                                       |
+| Muyuw                 | _man_     | ‘land creature, bird, animal, insect’                                                                                        |
+| _Admiralties_         |           |                                                                                                                              |
+| Lou                   | _mɔn-mɔn_ | ‘bird’                                                                                                                       |
+| Mussau                | _menua_   | ‘hawk, eagle’                                                                                                                |
 
 
 <a id="p-449"></a>
 
-```
- Table 8.15    Semantic range of reflexes of POc &ast;manuk in some Oceanic languages other
-                       than Nuclear Micronesian and Central Pacific
-                           1       2       Jo        4          5        6
-                                                     all        all
-                         birds   birds,    all
-                                                   animals    beings     all
-                          and     flying   land                                 Grade
-                                                   except    including things
-                         bats    insects animals
-                                                   humans    humans
-          Simbo           +        +       +         +          +        +        6
-          Muyuw           +        +       +         -          -        -        3
-          Cemuhi          +        +       -         -          -        -       2
-          Gela            +        +       -         -          -        -       2
-          Lau             +        +       -         -          -        -       2
-          Mota            +        +       -         -          -        -       2
-          Motu            +        +       -         -          -        -       2
-          Nakanai         +        +       -         -          -        -       2
-          Manam           +        -       -         -          -        -        1
-          Yabem           +        +       -         -          -        -       2
-          Dobuan          +        -       -         -          -        -        1
-          NE Ambae        +        -       -         -          -        -        1
-          Arosi           +        -       -         -          -        -        1
-          Nelemwa         +        -       -         -          -        -        1
-          Lou             +        -       -         -          -        -        1
-```
+: __Table 8.15__ Semantic range of reflexes of POc &ast;manuk in some Oceanic languages other than Nuclear Micronesian and Central Pacific
+
+|          |                | 1                     | 2                | 3                         | 4                        | 5                           | 6          |       |
+|:---------|:---------------|:----------------------|:-----------------|:--------------------------|:-------------------------|:----------------------------|:-----------|:------|
+|          | birds and bats | birds, flying insects | all land animals | all animals except humans | all beings except humans | all beings including humans | all things | Grade |
+| Simbo    | +              | +                     | +                | +                         | +                        | +                           | 6          |       |
+| Muyuw    | +              | +                     | +                | -                         | -                        | -                           | 3          |       |
+| Cemuhi   | +              | +                     | -                | -                         | -                        | -                           | 2          |       |
+| Gela     | +              | +                     | -                | -                         | -                        | -                           | 2          |       |
+| Lau      | +              | +                     | -                | -                         | -                        | -                           | 2          |       |
+| Mota     | +              | +                     | -                | -                         | -                        | -                           | 2          |       |
+| Motu     | +              | +                     | -                | -                         | -                        | -                           | 2          |       |
+| Nakanai  | +              | +                     | -                | -                         | -                        | -                           | 2          |       |
+| Manam    | +              | -                     | -                | -                         | -                        | -                           | 1          |       |
+| Yabem    | +              | +                     | -                | -                         | -                        | -                           | 2          |       |
+| Dobuan   | +              | -                     | -                | -                         | -                        | -                           | 1          |       |
+| NE Ambae | +              | -                     | -                | -                         | -                        | -                           | 1          |       |
+| Arosi    | +              | -                     | -                | -                         | -                        | -                           | 1          |       |
+| Nelemwa  | +              | -                     | -                | -                         | -                        | -                           | 1          |       |
+| Lou      | +              | -                     | -                | -                         | -                        | -                           | 1          |       |
 
 
 <a id="s-5-3"></a>
@@ -1013,39 +936,35 @@ Osmond (this volume, ch.7) observes that reflexes of a form _&ast;manu-manuk_, m
 
 In the definitions cited below from dictionary sources it is likely that the English gloss ‘insect’ is generally used in its vernacular sense.[^10]
 
-```
- Papuan Tip
-    Dobuan              manu-manua                ‘insects and small creatures’
-    Motu                manu-manu                 ‘beetles, insects’
-    Sinaugoro           manu-manu                 ‘insects’
- SE Solomonic
-    Bugotu              mau-manu                  ‘insect’
-    Gela                mau-manu                  1. ‘insect’
-                                                  2. ‘all living creatures: pigs, fish, birds, etc.’
- Polynesian
-    Tahitian            manu-manu                 ‘insects’
-    Rarotongan          manu-manu                 ‘insects, small flies’
-    Marquesan           manu-manu                 ‘an insect’(pollex)
-    Mangarevan          manu-manu                 ‘insect seen clinging to branches and fermentin:
-                                                  substances’ (pollex)
-      Pukapukan         manu-manu                 Tittle insects’
-```
+|                |                   |                                                                       |
+|:---------------|:------------------|:----------------------------------------------------------------------|
+| _Papuan Tip_   |                   |                                                                       |
+| Dobuan         | _manu-manua_      | ‘insects and small creatures’                                         |
+| Motu           | _manu-manu_       | ‘beetles, insects’                                                    |
+| Sinaugoro      | _manu-manu_       | ‘insects’                                                             |
+| _SE Solomonic_ |                   |                                                                       |
+| Bugotu         | _mau-manu_        | ‘insect’                                                              |
+| Gela           | _mau-manu_        | 1. ‘insect’ 2. ‘all living creatures: pigs, fish, birds, etc.’        |
+| _Polynesian_   |                   |                                                                       |
+| Tahitian       | _manu-manu_       | ‘insects’                                                             |
+| Rarotongan     | _manu-manu_       | ‘insects, small flies’                                                |
+| Marquesan      | _manu-manu_       | ‘an insect’(pollex)                                                   |
+| Mangarevan     | _manu-manu_       | ‘insect seen clinging to branches and fermentin: substances’ (pollex) |
+| Pukapukan      | _manu-manu_       | ‘little insects’                                                      |
+| Tuamotuan      | _manu-manu_       | ‘bug, insect’ (pollex)                                                |
+| Nukuoro        | _manu-manu_       | ‘insectsp.’                                                           |
+| Rennellese     | _manu-manu hogau_ | ‘dragonfly’                                                           |
 
 
 <a id="p-451"></a>
 
-```
-Table 8.16     Implicational scale of types that may be included in reflexes of _&ast;manu-manuk_
-                                    (1)   one or a few insect taxa
-                                    (2)   insects in general
-                                    (3)   all living creatures
-```
+: Table 8.16  Implicational scale of types that may be included in reflexes of _&ast;manu-manuk_
 
-```
-     Tuamotuan        manu-manu                ‘bug, insect’ (pollex)
-     Nukuoro          manu-manu                ‘insectsp.’
-     Rennellese       manu-manu hogau          ‘dragonfly’
-```
+|     |                          |
+|:----|:-------------------------|
+| (1) | one or a few insect taxa |
+| (2) | insects in general       |
+| (3) | all living creatures     |
 
 These data yield the rather simple implicational scale in Table 8.16. It can be seen that definitions of type (2) dominate. Just one language in the sample (Gela) has a greatly extended sense: ‘all living creatures’. Unfortunately, the sources give no evidence that would tell us whether forms with meanings of types (2) and (3) behave like true taxonomic generics or whether they are used only as collectives.
 
@@ -1089,7 +1008,7 @@ Finally, why have such marked differences arisen in the semantic scope of these 
 
 ## Notes
 
-[^1]: I am indebted to Frank Lichtenberk. John Lynch, Meredith Osmond. Malcolm Ross and Anna Wierzbicka for valuable comments on a draft of this paper, to John Lynch for pointing to additional Vanuatu and New Caledonian comparisons, and to Paul Geraghty, Frank Lichtenberk and the late Nigel Oram, for providing information about the generic terms for ‘fish’ in Standard Fijian, To’aba’ita and Motu, respectively.
+[^1]: I am indebted to Frank Lichtenberk, John Lynch, Meredith Osmond, Malcolm Ross and Anna Wierzbicka for valuable comments on a draft of this paper, to John Lynch for pointing to additional Vanuatu and New Caledonian comparisons, and to Paul Geraghty, Frank Lichtenberk and the late Nigel Oram, for providing information about the generic terms for ‘fish’ in Standard Fijian, To’aba’ita and Motu, respectively.
 
 [^2]: The discussion that follows draws heavily on [Cruse](../sources/Cruse1986) ([1986](../sources/Cruse1986)) and [Wierzbicka](../sources/Wierzbicka1984) ([1984](../sources/Wierzbicka1984), [1996](../sources/Wierzbicka1996)).
 
@@ -1099,7 +1018,7 @@ Finally, why have such marked differences arisen in the semantic scope of these 
 
 [^5]: One reason is that the authors of the dictionaries concerned are from Australia and NZ, where most people understand shellfish to refer just to molluscs with shells ([Pawley 2004](../sources/Pawley2004)).
 
-[^6]: _&ast;paŋoda_. in turn, was probably diachronically a morphologically complex verb, reflecting the PMP prefix _&ast;paN-_ ‘actor focus verb derivative’ plus a root, where &ast;V represents a nasal consonant whose point of articula tion was homorganic with and replaced the initial consonant of the root. Compare POc _&ast;kan-i_ ‘to eat sth.’ and _&ast;paŋ-an_ 'to eat (intr)’ and other examples in [Ross](../sources/Ross1998c) ([1998c](../sources/Ross1998c): 29-30). This suggests that _&ast;paŋoda_ was an intransitive verb, one that referred to the general act of gathering seafood on the reef but could not be used to single out particular things gathered. The root in this verb was most likely POc _&ast;koda_ or _&ast;qoda_ ‘(v) eat raw seafood (flesh of fish or molluscs)’, '(n) raw seafood’ ([Geraghty 1983](../sources/Geraghty1983). [Lichtenberk 1994](../sources/Lichtenberk1994)). with PMP antecedent _&ast;qe(n)taq_ (Blust 1972).
+[^6]: _&ast;paŋoda_. in turn, was probably diachronically a morphologically complex verb, reflecting the PMP prefix _&ast;paN-_ ‘actor focus verb derivative’ plus a root, where _&ast;V_ represents a nasal consonant whose point of articulation was homorganic with and replaced the initial consonant of the root. Compare POc _&ast;kan-i_ ‘to eat sth.’ and _&ast;paŋ-an_ 'to eat (intr)’ and other examples in [Ross](../sources/Ross1998c) ([1998c](../sources/Ross1998c): 29-30). This suggests that _&ast;paŋoda_ was an intransitive verb, one that referred to the general act of gathering seafood on the reef but could not be used to single out particular things gathered. The root in this verb was most likely POc _&ast;koda_ or _&ast;qoda_ ‘(v) eat raw seafood (flesh of fish or molluscs)’, '(n) raw seafood’ ([Geraghty 1983](../sources/Geraghty1983). [Lichtenberk 1994](../sources/Lichtenberk1994)). with PMP antecedent _&ast;qe(n)taq_ (Blust 1972).
 
 [^7]: The sole internal Oceanic evidence for reconstructing final _&ast;q_ resides in New Caledonian reflexes. North and Central Vanuatu languages often reflect _&ast;siseq_ and a few point to _&ast;sisaq_.
 
