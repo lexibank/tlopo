@@ -8412,14 +8412,13 @@ PSV *na-mʷ(i,la)- ‘track (of s.t.), footprint’
 >
 
      In a number of WOc languages the term for footprint is ‘back of leg’, or more logically
+‘after foot’, with a reflex of _*muri-_ or _*buri-_ ‘back, be after’ (vol.2:311-312). Note that this
+compound means ‘heel’ in some Oceanic languages (§3.6.5).
 
 [38] X represents the human possessor of the heel.
 
                                                                              The human body 173
 
-
-‘after foot’, with a reflex of *muri- or *buri- ‘back, be after’ (vol.2:311-312). Note that this
-compound means ‘heel’ in some Oceanic languages (§3.6.5).
 
 __formgroup__
   NNG: Mutu                  |axe muri|            ‘footprint’ (axe ‘leg’)
@@ -8441,7 +8440,7 @@ __formgroup__
 
 3.6.7 Groin, crotch
 
-The POc term for the crotch was *saŋa-, which was also used for a forked stick or branch.
+The POc term for the crotch was _*saŋa-_, which was also used for a forked stick or branch.
 
 <
 PMP *saŋa ‘bifurcation, to branch’ (ACD) (vol.3:96)
@@ -8475,22 +8474,22 @@ similar pairs of terms in §3.4.2 and §3.6.8.1.1.
 174 Meredith Osmond and Malcolm Ross
 
 
-3.6.8.1.1 POc *pwatu[ka]- ‘elbow, knee; joint, node’ and PSOc *bwau- ‘knee, joint’
+3.6.8.1.1 POc _*pʷatu[ka]-_ ‘elbow, knee; joint, node’ and PSOc _*bʷau-_ ‘knee, joint’
 
 The formal aspects of the two terms reconstructed here are discussed at length in §3.4.2.
 
-   POc *pwatu[ka]- was evidently the general term for a knee or elbow joint, but not hip or
-shoulder. The seemingly optional *-ka- that is reflected in some members of the cognate set
-remains unexplained,39 unless, as mentioned in §3.4.2, *pwatu[ka]- originally meant ‘kneecap’
-and is identical with putative *p(w)atu(k) ‘outer shell, skull’.
+   POc _*pʷatu[ka]-_ was evidently the general term for a knee or elbow joint, but not hip or
+shoulder. The seemingly optional _*-ka-_ that is reflected in some members of the cognate set
+remains unexplained,[39] unless, as mentioned in §3.4.2, _*pʷatu[ka]-_ originally meant ‘kneecap’
+and is identical with putative _*(p,pʷ)atu(k)_ ‘outer shell, skull’.
 
 <
-POc *pwatu[ka]- ‘elbow, knee; joint, node’
+POc *pʷatu[ka]- ‘elbow, knee; joint, node’
  Adm: Mussau              patu-                      ‘joint (of elbow, knee); node (of sugarcane, etc)’
- Adm: Mussau              |patu (keke)|                ‘knee’ (keke ‘leg’)
- Adm: Mussau              |patu (nima)|                ‘elbow’ (nima ‘arm, hand’)
+ Adm: Mussau              |patu (keke)|                ‘knee’ (_keke_ ‘leg’)
+ Adm: Mussau              |patu (nima)|                ‘elbow’ (_nima_ ‘arm, hand’)
  Adm: Tenis               patu-                      ‘elbow’
- Adm: Tenis               pato(keke)                 ‘knee’ (keke ‘leg’)
+ Adm: Tenis               pato(keke)                 ‘knee’ (_keke_ ‘leg’)
  Adm: Tenis               patu-ka-                   ‘shoulder’
  NNG: Gitua               patu-                      ‘elbow, knee’
  MM: Bulu                 potu-ka-                   ‘elbow’
@@ -8499,15 +8498,15 @@ POc *pwatu[ka]- ‘elbow, knee; joint, node’
  MM: Taiof                patu-k                     ‘elbow; knee’
  MM: Teop                 pasu-ka-                   ‘elbow; knee’
  SES: Gela                patu                       ‘joint in bamboo, knot’
- SES: Arosi               pʷa(ruru-)                 ‘elbow, knee’ (ruru- ‘elbow, knee’)[40]
+ SES: Arosi               pʷa(ruru-)                 ‘elbow, knee’ (_ruru-_ ‘elbow, knee’)[40]
 >
 
-   Whether and how PSOc *bwau- ‘knee, joint’ is related to POc *pwatu[ka]- ‘elbow, knee;
+   Whether and how PSOc _*bʷau-_ ‘knee, joint’ is related to POc _*pʷatu[ka]-_ ‘elbow, knee;
 joint, node’ is not known. See the discussion in §3.4.2.
 
 <
-PSOc *bwau- ‘knee, joint’ (Lynch 2004d)
-  NCV: Mota                pwau-i            ‘knee’
+PSOc *bʷau- ‘knee, joint’ (Lynch 2004d)
+  NCV: Mota                pʷau-i            ‘knee’
   NCV: Mwotlap             nu-bʷu-k, nʊ-bʷʊ-n ‘my knee’; ‘his knee’
   NCV: Nokuku              pou               ‘knee’
   NCV: Tamambo             bau-              ‘knee’
@@ -8517,20 +8516,20 @@ PSOc *bwau- ‘knee, joint’ (Lynch 2004d)
   NCV: Avava               bau-              ‘elbow, knee’
   NCV: Uripiv              bau-              ‘knee’
   NCV: Lonwolwol           bu-               ‘knot, lump, joint’
-  NCV: Lonwolwol           bu(la-)           ‘knee’ (lit. ‘joint of leg’; lā ‘leg’)
+  NCV: Lonwolwol           bu(la-)           ‘knee’ (lit. ‘joint of leg’; _lā_ ‘leg’)
   NCV: Nakanamanga         pʷa(tua)              ‘elbow’
-  NCV: Namakir             bu(tua)           ‘knee’ (tua ‘leg’)
-  NCV: Nguna               na-pʷa(tua)       ‘knee’ (tua ‘leg’)
-  NCV: S Efate             pwu(t)            ‘knee’
-  SV: Sye                  no-mpu(noru)      ‘shoulder’ (lit. ‘head of arm’)
+  NCV: Namakir             bu(tua)           ‘knee’ (_tua_ ‘leg’)
+  NCV: Nguna               na-pʷa(tua)       ‘knee’ (_tua_ ‘leg’)
+  NCV: S Efate             pʷu(t)            ‘knee’
+  SV: Sye                  no-ᵐpu(noru)      ‘shoulder’ (lit. ‘head of arm’)
   NCal: Nyelâyu            bu-               ‘joint’
-  NCal: Xârâcùù            bwā(xẽ)           ‘knee’ (xẽ ‘hand, foot’)
+  NCal: Xârâcùù            bʷā(xẽ)           ‘knee’ (_xẽ_ ‘hand, foot’)
   NCal: Iaai               bo(xulu)          ‘joint’
 >
 
-[39] Fijian examples include levu-ka- ‘middle’, tolo-ka- ‘trunk’, vatu-ka- ‘shape’ (P. Geraghty, pers. comm.)
+[39] Fijian examples include _levu-ka-_ ‘middle’, _tolo-ka-_ ‘trunk’, _vatu-ka-_ ‘shape’ (P. Geraghty, pers. comm.)
 
-[40] Glosses in Fox (1978) show no semantic difference between pʷa-ruru- ‘elbow, knee’ and ruru- ‘elbow,
+[40] Glosses in Fox (1978) show no semantic difference between _pʷa-ruru-_ ‘elbow, knee’ and _ruru-_ ‘elbow,
      knee’.
 
                                                                                    The human body 175
@@ -8538,12 +8537,12 @@ PSOc *bwau- ‘knee, joint’ (Lynch 2004d)
 
 3.6.8.1.2 Other terms for joint, elbow and knee
 
-Reflexes of POc *buku ‘mound, knob, joint’ are also used in a number of Oceanic languages to
-refer to the elbow and/or knee. However, it is clear that *buku focussed on the shape of the
-referent,41 whereas the central meaning of the terms reconstructed in §3.6.8.1.1 was the knee or
+Reflexes of POc _*buku_ ‘mound, knob, joint’ are also used in a number of Oceanic languages to
+refer to the elbow and/or knee. However, it is clear that _*buku_ focussed on the shape of the
+referent,[41] whereas the central meaning of the terms reconstructed in §3.6.8.1.1 was the knee or
 elbow joint itself.
 
-   As elbows are more corner-like than knees, POc *s[i,u]ku, reflecting a PMP term that also
+   As elbows are more corner-like than knees, POc _*s[i,u]ku_, reflecting a PMP term that also
 meant ‘corner’, may have referred specifically to ‘elbow’.
 
 <
@@ -8594,7 +8593,7 @@ PPn *siku ‘extremity, end; tail (esp. of fish)’ (POLLEX)
   Pn:    E Futunan          siku                  ‘tail; end’
 >
 
-[41] Thus POc *buku is glossed ‘node (as in bamboo or sugarcane); joint; knuckle; knot in wood, string or rope’
+[41] Thus POc _*buku_ is glossed ‘node (as in bamboo or sugarcane); joint; knuckle; knot in wood, string or rope’
      in vol.1:85; ‘mound, knob, joint’, possibly also ‘hill’ in vol.2:51; and its PCP reflex denotes ‘female
      genitals’ in §3.5.13.3.
 
@@ -8609,7 +8608,7 @@ typically used in Oceanic languages for ‘fingernail’, ‘toenail’ and ‘c
 and this was presumably the case in POc too. However, wordlist sources tend to show a term
 only for ‘fingernail’.
 
-    POc *kuku- apparently also denoted ‘finger’. Both non-Oceanic (ACD) and Oceanic
+    POc _*kuku-_ apparently also denoted ‘finger’. Both non-Oceanic (ACD) and Oceanic
 reflexes attest to this.
 
 <
@@ -8689,13 +8688,13 @@ cf. also:
 
 
     The index finger (forefinger) in many Oceanic languages is denoted by a form that is
-identical with or includes the verb ‘point’. Indeed, *tusu- ‘forefinger’ is derived from a PMP
+identical with or includes the verb ‘point’. Indeed, _*tusu-_ ‘forefinger’ is derived from a PMP
 term meaning ‘point’. In the Papuan Tip area forefinger terms sometimes allude to the fact that
-one dips the forefinger into food in order to taste it: Dawawa buta-remo (buta ‘salt’, remo
-‘taste’), Tawala habaya-lemu (habaya ‘cooking pot’, lemu ‘taste’). Terms for the other digits
-are not reconstructable, but the thumb is ‘big digit’ in a number of languages: Misima gig-
-bwaya (gigi ‘finger, toe’, bwaya ‘big’), PNCV *bisu-laba (*bisu ‘finger’, *laba ‘big’; Clark
-2009), Wayan kuku-levu (levu ‘big’).
+one dips the forefinger into food in order to taste it: Dawawa _buta-remo_ (_buta_ ‘salt’, _remo_
+‘taste’), Tawala _habaya-lemu_ (_habaya_ ‘cooking pot’, _lemu_ ‘taste’). Terms for the other digits
+are not reconstructable, but the thumb is ‘big digit’ in a number of languages: Misima
+_gig-bʷaya_ (_gigi_ ‘finger, toe’, _bʷaya_ ‘big’), PNCV _*bisu-laba_ (_*bisu_ ‘finger’, _*laba_ ‘big’; Clark
+2009), Wayan _kuku-levu_ (_levu_ ‘big’).
 
 <
 PMP *tuzuq ‘point at, point out, give directions’ (ACD)
@@ -8731,29 +8730,29 @@ PPn *|mata a lima| ‘finger’ (mata ‘point, tip’, lima ‘hand’)
 
 3.6.8.3 Palm of hand and sole of foot
 
-PMP *palaj ‘palm of hand, sole of foot’ is widely reflected in western Malayo-Polynesian
+PMP _*palaj_ ‘palm of hand, sole of foot’ is widely reflected in western Malayo-Polynesian
 languages, but only a single Oceanic reflex occurs in the data. Most Oceanic languages support
-POc *lapwar.
+POc _*lapʷar_.
 
 <
 PMP *palaj ‘palm of hand, sole of foot’ (ACD)
 POc *pala(j) ‘palm of hand, sole of foot’ (ACD)
- PT:    Motu              |(ima) pala-pala-|    ‘palm’ (ima ‘hand’)
- PT:    Motu              |(ae) pala-pala-|     ‘sole’ (ae ‘leg’)
+ PT:    Motu              |(ima) pala-pala-|    ‘palm’ (_ima_ ‘hand’)
+ PT:    Motu              |(ae) pala-pala-|     ‘sole’ (_ae_ ‘leg’)
 >
 
                                                                                The human body 179
 
 
-   POc *lapwar ‘palm of hand, sole of foot’ appears superficially to reflect PAn *da(m)paN
-‘palm of hand, sole of foot’,42 but the latter would give rise to POc †*ra(p,b)an, so this is
+   POc _*lapʷar_ ‘palm of hand, sole of foot’ appears superficially to reflect PAn _*da(m)paN_
+‘palm of hand, sole of foot’,[42] but the latter would give rise to POc †_*ra(p,b)an_, so this is
 probably a chance resemblance.
 
 <
-POc *lapwar ‘palm of hand, sole of foot’
- Adm: Mussau          lapa-lapa           ‘(hand) palm; (foot) sole’ (lapalapa nima ‘palm’, lapalapa keke ‘sole’)
- PT:  Molima          |(ae) yapa-yapa(na)|  ‘sole of foot’ (y- for †l-)
- PT:  Kukuya          |(nima) yapa-yapa  |  ‘palm of hand’ (y- for †l-)
+POc *lapʷar ‘palm of hand, sole of foot’
+ Adm: Mussau          lapa-lapa           ‘(hand) palm; (foot) sole’ (_lapalapa nima_ ‘palm’, _lapalapa keke_ ‘sole’)
+ PT:  Molima          |(ae) yapa-yapa(na)|  ‘sole of foot’ (_y-_ for †_l-_)
+ PT:  Kukuya          |(nima) yapa-yapa  |  ‘palm of hand’ (_y-_ for †_l-_)
  PT:  Kukuya          |(ae) yapa-yapa    |  ‘sole of foot’
  PT:  Wedau           |(ae) lapa-lapa(na)|  ‘sole of foot’
  MM:  Tolai           lapara              ‘main part of hand, incl. back and palm but not fingers; instep’
@@ -8763,7 +8762,7 @@ POc *lapwar ‘palm of hand, sole of foot’
 
    Neither of these reconstructions has reflexes in Eastern Oceanic. The most common term
 in Eastern Oceanic, found also in the Admiralties, is a compound meaning ‘face of hand/foot’,
-containing a reflex of POc *qarop ‘front, face’ (vol.2:247) plus the term for hand or foot,
+containing a reflex of POc _*qarop_ ‘front, face’ (vol.2:247) plus the term for hand or foot,
 contrasting with ‘back of hand/foot’ for the back of the hand and top of the foot (§3.6.8.4).
 
 <
@@ -8777,7 +8776,7 @@ POc *|qarop qi [n,l]ima| ‘palm of hand’
 >
 
 <
-POc *|qarop qi qaqe| ‘sole of foot’ (lit. ‘front of foot’) (qi LINKER)
+POc *|qarop qi qaqe| ‘sole of foot’ (lit. ‘front of foot’) (_qi_ LINKER)
   Adm: Lou                kar-kɛ-               ‘sole’
 PPn *qarof-i-waqe ‘sole of foot’ (POLLEX)
   Pn:    Tongan           ʔaof-i-vaʔe           ‘sole of foot’ (lit. ‘front/face of foot’)
@@ -8793,8 +8792,8 @@ modern languages. This seems odd in European thinking, until it is recognised th
 speakers view feet and hands analogously: the palm of the hand and sole of the foot are
 perceived as ‘face, front’ (§3.6.8.3), the back of the hand and top of the foot as ‘back’.
 
-[42] PAn *dapaN is reconstructed on the basis of (Formosan) Tsou caphə ‘foot’, Saaroa sapale ‘foot’, Thao
-     sapað ‘sole, footprint’, Pazih sa-sapal ‘sole’ and (Philippine) Ilokano, Bikol, Pangasinan dapan
+[42] PAn _*dapaN_ is reconstructed on the basis of (Formosan) Tsou _caphə_ ‘foot’, Saaroa _sapale_ ‘foot’,
+Thao _sapað_ ‘sole, footprint’, Pazih _sa-sapal_ ‘sole’ and (Philippine) Ilokano, Bikol, Pangasinan _dapan_
      ‘sole’ (among other reflexes).
 
 180 Meredith Osmond and Malcolm Ross
@@ -8820,36 +8819,35 @@ the terms for ‘back’ in ‘top of foot’ phrases denote a person’s back.
 3.7.1 Internal organs in general
 
 The internal organs are listed here roughly in order from the top of the trunk to the bottom.
-There is a certain amount of evidence that POc *qate- ‘liver’, regarded as the seat of the
+There is a certain amount of evidence that POc _*qate-_ ‘liver’, regarded as the seat of the
 emotions and the centre of one’s being (§3.7.6), also served as a collective term for the internal
 organs. This is clear in terms from Nakanai (MM), where the liver itself is specified by adding
-a modifier (kuru) to the more general term hate-, reflecting POc *qate-.
+a modifier (_kuru_) to the more general term _hate-_, reflecting POc _*qate-_.
 
 __formgroup__
  MM: Nakanai  hate-              ‘liver or solar plexus (seat of emotion); internal organs in general; sometimes spleen’
- MM: Nakanai  |la hate kuru|     ‘liver’ (kuru ‘dark-coloured’)
+ MM: Nakanai  |la hate kuru|     ‘liver’ (_kuru_ ‘dark-coloured’)
 
-The terms below reveal a similar pattern: the reflex of *qate- denotes the internal organs, and
+The terms below reveal a similar pattern: the reflex of _*qate-_ denotes the internal organs, and
 various modifiers indicate the specific organ (see also the terms for ‘lungs’ in §3.7.3).
 
 __tablenh__
-Kwaio          lae-, lae-fou         ‘liver’
-               lae-fula, lae-fulo    ‘lungs and heart (conceived of as a single unit)’
-Sa’a           sae-                  ‘heart, mind, liver, lungs, chest’
-               sae huto-huto         ‘lungs’ ( = ‘frothy liver’)
-’Are’are       rae-                  ‘stomach, heart, liver, lungs, womb, mind, seat of affections,
-                                     intention, will’
-               rae nisu-na           ‘lung’ (nisu- ‘opening, outlet’)
-               rae ʔohoʔohu-na       ‘lung’ (ʔoʔoho- ‘chest’ ??)
-Bauan          yate-                 ‘the liver, considered as the seat of cowardice and courage’
-               yate balavu           ‘spleen’ (balavu ‘long’)
-               yate vuso             ‘lungs’ (vuso ‘to froth’)
-Niuean         ate                   ‘liver’
-                ate-fua                   ‘liver’ (fua ‘fruit’)
-                ate-loa                   ‘spleen’ (loa ‘long’)
-                ate-pili                  ‘spleen’ (pili ‘sticky’)
-                ate-pala                  ‘lungs’ (pala ‘wet’)
-                ate-vili                  ‘heart’ (vili ‘spin’)
+Kwaio    | _lae-_, _lae-fou_       | ‘liver’
+         | _lae-fula_, _lae-fulo_  | ‘lungs and heart (conceived of as a single unit)’
+Sa’a     | _sae-_                  | ‘heart, mind, liver, lungs, chest’
+         | _sae huto-huto_         | ‘lungs’ ( = ‘frothy liver’)
+’Are’are | _rae-_                  | ‘stomach, heart, liver, lungs, womb, mind, seat of affections, intention, will’
+         | _rae nisu-na_           | ‘lung’ (_nisu-_ ‘opening, outlet’)
+         | _rae ʔohoʔohu-na_       | ‘lung’ (_ʔoʔoho-_ ‘chest’ ??)
+Bauan    | _yate-_                 | ‘the liver, considered as the seat of cowardice and courage’
+         | _yate balavu_           | ‘spleen’ (_balavu_ ‘long’)
+         | _yate vuso_             | ‘lungs’ (_vuso_ ‘to froth’)
+Niuean   | _ate_                   | ‘liver’
+         | _ate-fua_               | ‘liver’ (_fua_ ‘fruit’)
+         | _ate-loa_               | ‘spleen’ (_loa_ ‘long’)
+         | _ate-pili_              | ‘spleen’ (_pili_ ‘sticky’)
+         | _ate-pala_              | ‘lungs’ (_pala_ ‘wet’)
+         | _ate-vili_              | ‘heart’ (_vili_ ‘spin’)
 
                                                                                           The human body 181
 
@@ -8857,10 +8855,10 @@ Niuean         ate                   ‘liver’
 
 3.7.2 Heart
 
-Blust (ACD) reconstructs POc *buaq ‘areca nut and palm; heart’. The only reflex listed in the
-ACD with the meaning ‘heart’ is Tolai buai-, which is in fact a reflex of PWOc *busa(q) ‘heart’,
-as -s- is lost in Tolai. However, Vitu, Bola and Nakanai have bua- ‘heart’, and these are regular
-reflexes of POc *buaq, not of *busa(q).
+Blust (ACD) reconstructs POc _*buaq_ ‘areca nut and palm; heart’. The only reflex listed in the
+ACD with the meaning ‘heart’ is Tolai _buai-_, which is in fact a reflex of PWOc _*busa(q)_ ‘heart’,
+as _-s-_ is lost in Tolai. However, Vitu, Bola and Nakanai have _bua-_ ‘heart’, and these are regular
+reflexes of POc _*buaq_, not of _*busa(q)_.
 
 <
 PMP *buaq ‘fruit; areca nut and palm; heart’ (ACD)[43]
@@ -8870,17 +8868,17 @@ POc *buaq ‘areca nut and palm; heart’ (ACD)
  MM: Nakanai              bua-               ‘heart’
 >
 
-   The two reconstructions below, POc *pu(s,c)o ‘heart’ and PWOc *busa(q) ‘heart’ are
-similar in form (and *busa(q) is similar to *buaq above), and there is no semantic difference
+   The two reconstructions below, POc _*pu(s,c)o_ ‘heart’ and PWOc _*busa(q)_ ‘heart’ are
+similar in form (and _*busa(q)_ is similar to _*buaq_ above), and there is no semantic difference
 between them. The reflexes of both mean ‘heart’ with an occasional instance of ‘liver’. This is
 presumably an outcome of the fact that both the heart and the liver are regarded as seats of the
 emotions by speakers of various Oceanic languages. Where similar forms occur with similar
-meanings, there may be contamination of one by the other, and Wogeo buso- and Malai pus-
-pusa- both seem to illustrate this.
+meanings, there may be contamination of one by the other, and Wogeo _buso-_ and Malai
+_pus-pusa-_ both seem to illustrate this.
 
    No convincing explanation can be offered for the fact that there are two terms, but note (i)
-that POc *puso- is also one of the forms reconstructed for ‘navel’ (§3.5.10) and (ii) that POc
-*puco(q)44 and POc *busa are both terms for ‘foam’ (vol.2:96–97) and that each has a PMP
+that POc _*puso-_ is also one of the forms reconstructed for ‘navel’ (§3.5.10) and (ii) that POc
+_*puco(q)_[44] and POc _*busa_ are both terms for ‘foam’ (vol.2:96–97) and that each has a PMP
 antecedent. Whilst it is easier to explain (i) as a semantic shift, it is more difficult to explain
 away (ii), the fact that the same two forms occur for both ‘foam’ and ‘heart’. One of the
 reconstructed terms for ‘lungs’ (§3.7.3) includes a word meaning ‘foam’ and, as the heart and
@@ -8901,7 +8899,8 @@ POc *pu(s,c)o- ‘heart’
      bear fruit; words, speech, or songs; meaning, contents of discussion; numeral classifier for roundish objects;
      buttock; Adam’s apple; nipple of the breast; button; marble; tattooing’
 
-[44] The reconstruction in vol.2 (p97) is *puso. but the external evidence suggests *puco(q).
+[44] The reconstruction in vol.2 (p97) is _*puso_. but the external evidence suggests _*puco(q)_.
+# FIXME: correct in vol 2?
 
 182 Meredith Osmond and Malcolm Ross
 
@@ -8928,18 +8927,18 @@ cf. also:
 3.7.3 Lungs
 
 Three reconstructions for ‘lungs’ are offered below. The first of these is technically unusual in
-that two possible pre-Oceanic source etyma can be posited, PAn *baRaq ‘lung’ and PMP *para
-‘coconut embryo’, and therefore two alternative POc forms, *paRa(q) ‘lung’ and *paraq
-‘spongy mass…’. At first sight it seems obvious to propose that PAn *baRaq ‘lung’ is ancestral
+that two possible pre-Oceanic source etyma can be posited, PAn _*baRaq_ ‘lung’ and PMP _*para_
+‘coconut embryo’, and therefore two alternative POc forms, _*paRa(q)_ ‘lung’ and _*paraq_
+‘spongy mass…’. At first sight it seems obvious to propose that PAn _*baRaq_ ‘lung’ is ancestral
 to this cognate set below. However, the Micronesian reflexes listed below are interpreted by
-Bender et al. (2003) as containing a reflex PMic *fara ‘core (of breadfruit, coconut,
-pandanus)’, which reflects POc *paraq ‘spongy mass inside sprouting coconut;
+Bender et al. (2003) as containing a reflex PMic _*fara_ ‘core (of breadfruit, coconut,
+pandanus)’, which reflects POc _*paraq_ ‘spongy mass inside sprouting coconut;
 brain’ (vol.3:373). The Micronesian reflexes other than Marshallese have an additional element,
-and it is reasonable to infer that this reflects POc *uRat/PMic *ua ‘veins, arteries, tendons’,
-reflecting a possible (but not firmly reconstructable) POc *paraq qi uRat, meaning
-approximately ‘spongy mass of innards’, i.e. ‘lungs’. This does not mean that PAn *baRaq
+and it is reasonable to infer that this reflects POc _*uRat_/PMic _*ua_ ‘veins, arteries, tendons’,
+reflecting a possible (but not firmly reconstructable) POc _*paraq qi uRat_, meaning
+approximately ‘spongy mass of innards’, i.e. ‘lungs’. This does not mean that PAn _*baRaq_
 ‘lung’ has played no role in the derivation of Oceanic forms, but that at least in a number of
-early Oceanic languages POc *paRa(q) and *paraq were conflated.45
+early Oceanic languages POc _*paRa(q)_ and _*paraq_ were conflated.[45]
 
 <
 PAn *baRaq ‘lung’ (ACD)
@@ -8960,19 +8959,19 @@ cf. also:
   NNG: Bariai            boroio              ‘lungs’
 >
 
-[45] There is no non-Oceanic evidence for the final *-q of POc *paraq ‘spongy mass…’, and its apparent
-     presence may be the result of conflations with *paRa(q) ‘lung’.
+[45] There is no non-Oceanic evidence for the final _*-q_ of POc _*paraq_ ‘spongy mass…’, and its apparent
+     presence may be the result of conflations with _*paRa(q)_ ‘lung’.
 
                                                                         The human body 183
 
 
 
-    Reflexes of PAn *baRaq/PMP *para are found only in languages of Vanuatu and
+    Reflexes of PAn _*baRaq_/PMP _*para_ are found only in languages of Vanuatu and
 Micronesia. Its place has often been taken elsewhere in Oceanic by compound expressions.
-Two of these can be reconstructed to POc, both compounds including reflexes of *qate-
+Two of these can be reconstructed to POc, both compounds including reflexes of _*qate-_
 ‘liver’ (§3.7.6), which was apparently also used collectively to denote the major organs. The
 literal meaning of the first compound was ‘frothy liver’. Its second element was a reduplicated
-version of *busaq or *puco(q) ‘froth, foam’ (cf §3.7.2, and see footnote 44, p181). The
+version of _*busaq_ or _*puco(q)_ ‘froth, foam’ (cf §3.7.2, and see footnote 44, p181). The
 reduplication formed an adjective (vol.2:206) ‘frothy’, referring to the appearance of the lungs
 when an animal is butchered. In several of the languages in the next set, the second element on
 its own has come to refer to ‘lungs’.
@@ -8997,11 +8996,11 @@ __formgroup__
  PT:  Dobu            |nua buso-buso|   ‘lungs’ (_nua_ ‘mind, thought, will, wish’, _buso-buso_ ‘froth, foam’)
  Fij: Bauan           yate-mawa         ‘lungs’ (_yate-_ ‘liver’, _mawa_ ‘steam’)
 
-   The second element of the second compound reflects *maRaqa(n) ‘light of weight’,
+   The second element of the second compound reflects _*maRaqa(n)_ ‘light of weight’,
 referring to the apparent lightness of the sponge-like material which makes up the lungs.
 
 <
-POc *|[qate] maRaqa(n)| ‘lungs’ (*qate ‘liver’; *maRaqa(n) ‘light in weight’ ) (vol.2:214)
+POc *|[qate] maRaqa(n)| ‘lungs’ (*qate ‘liver’; _*maRaqa(n)_ ‘light in weight’ ) (vol.2:214)
  PT:  Sudest           ya-maiya-          ‘lungs’ (_maiya_ ‘lightweight’)
  MM:  Patpatar         |kāt ma-maka-n|    ‘lungs’ (_ma-maka-_ ‘lightweight’)
  SES: Gela             mala-mala-         ‘lungs’
@@ -9020,8 +9019,7 @@ cf. also:
 184 Meredith Osmond and Malcolm Ross
 
 
-
-Araki (NCV) uses a similar, albeit non-cognate, metaphor, mavusa salesale, literally ‘innards/
+Araki (NCV) uses a similar, albeit non-cognate, metaphor, _mavusa salesale_, literally ‘innards/
 heart light in weight’ to refer to lungs.
 
 3.7.4 Stomach
@@ -9030,36 +9028,36 @@ POc speakers probably made a terminological distinction between the stomach, i.e
 organ that they found when they butchered a pig, and the belly, i.e. a part of the body as viewed
 from outside. Terms for stomach are presented here, and terms for belly in §3.5.9.
 
-    POc *tobwa has reflexes meaning ‘stomach’ across all major subgroups other than NNG,
+    POc _*tobʷa_ has reflexes meaning ‘stomach’ across all major subgroups other than NNG,
 MM and Pn. In some languages it also refers to a bag or basket, and this appears to have been
-its primary meaning,46 allowing derivation of the senses ‘bay’ and ‘area of sea enclosed by
+its primary meaning,[46] allowing derivation of the senses ‘bay’ and ‘area of sea enclosed by
 barrier reef’ (landscape features that depend on some other feature of the ‘bag’ metaphor;
 vol.2:46) and ‘stomach’, which appears bag-like when an animal is butchered. Reflexes with
 all these meanings are listed below. The Malakula reflexes under ‘cf. also’ point to a form
-*tobwa(k,q)a-, but we do not yet understand whether such reflexes are conservative or innovatory.
+_*tobʷa(k,q)a-_, but we do not yet understand whether such reflexes are conservative or innovatory.
 
-    PCP *kete ‘abdomen’ evidently reflects the same metaphor applied to a different form, as it
-reflects Proto Remote Oceanic *kete ‘basket’ (vol.1:78).
+    PCP _*kete_ ‘abdomen’ evidently reflects the same metaphor applied to a different form, as it
+reflects Proto Remote Oceanic _*kete_ ‘basket’ (vol.1:78).
 
 <
-POc *tobwa- ‘stomach (internal organ)’ (cf *tobwa ‘bag; bay, harbour’)
+POc *tobʷa- ‘stomach (internal organ)’ (cf _*tobʷa_ ‘bag; bay, harbour’)
   Adm: Tenis        tova-             ‘belly’
   Adm: Loniu        top               ‘basket, string bag’
-  PT:  Molima       tobwa             ‘cloth bag’
-  PT:  Muyuw        toub              ‘stomach’ (tobw)
+  PT:  Molima       tobʷa             ‘cloth bag’
+  PT:  Muyuw        toub              ‘stomach’ (_tobʷ_)
   SES: Gela         toba-             ‘belly, stomach’ (within)
   SES: Tolo         toba-             ‘abdomen, belly’
-  SES: Longgu       obwa-             ‘stomach, belly’
+  SES: Longgu       obʷa-             ‘stomach, belly’
   SES: Lau          oga-              ‘small intestines’
   SES: Kwaio        oga-              ‘belly; pith; mind’
   SES: ’Are’are     opa-              ‘stomach, belly’
   SES: Sa’a         opʷa-             ‘belly, bowels, stomach’
-  SES: Kahua        obwa-             ‘belly’
+  SES: Kahua        obʷa-             ‘belly’
   TM: Tanibili      tobe-             ‘belly’
-PNCV *tobʷa ‘stomach, belly’ (Clark 2009: tabwa)
-  NCV: Mota         tobwa-            ‘belly, seat of the affections; condition of pregnancy; basket, pottle’
-  NCV: Raga         tobwai-           ‘stomach’
-  NCV: NE Ambae     tabwa(ŋine)       ‘belly, stomach’
+PNCV *tobʷa ‘stomach, belly’ (Clark 2009: _tabʷa_)
+  NCV: Mota         tobʷa-            ‘belly, seat of the affections; condition of pregnancy; basket, pottle’
+  NCV: Raga         tobʷai-           ‘stomach’
+  NCV: NE Ambae     tabʷa(ŋine)       ‘belly, stomach’
 PSV *na-təpu- ‘stomach, belly’
   SV: Sye           ne-tpo(lu)        ‘stomach, gizzard’
   SV: SW Tanna      təpu-             ‘stomach, belly’
@@ -9072,13 +9070,13 @@ cf. also:
   NCV: Tirax        təbax             ‘stomach’
 >
 
-[46]  POc *tobʷa ‘bag’ should have been included in vol.1, ch. 4, §2.3, but it was omitted there.
+[46]  POc _*tobʷa_ ‘bag’ should have been included in vol.1, ch. 4, §2.3, but it was omitted there.
 
                                                                           The human body 185
 
 
 <
-PCP *kete ‘abdomen; basket’ (from Proto Remote Oceanic *kete ‘basket’)
+PCP *kete ‘abdomen; basket’ (from Proto Remote Oceanic _*kete_ ‘basket’)
   Fij: Rotuman        ʔefe              ‘abdomen, belly; womb’
   Fij: Bauan          kete              ‘belly, stomach’
   Pn:  Tongan         kete              ‘stomach, abdomen’
@@ -9086,7 +9084,7 @@ PCP *kete ‘abdomen; basket’ (from Proto Remote Oceanic *kete ‘basket’)
   Pn:  Maori          kete              ‘basket’
 >
 
-    POc *bwal(o,a)- is the most widely reflected term for ‘belly’ in MM and NCV, but in many
+    POc _*bʷal(o,a)-_ is the most widely reflected term for ‘belly’ in MM and NCV, but in many
 languages its reflex is used as a relational local noun, ‘inside’ (§3.1.2 and vol.2:239), implying
 that its main referent was the internal organ. This interpretation is supported by the fact that it
 sometimes appeared as the first element in compounds referring to ‘intestines’. In South New
@@ -9094,7 +9092,7 @@ Ireland languages it is also used in what was perhaps originally a colloquial te
 stomach’ for ‘be pregnant, carry a child’.
 
 <
-POc *bwal(o,a)- ‘stomach; hollow space’; (N LOC) ‘inside’
+POc *bʷal(o,a)- ‘stomach; hollow space’; (N LOC) ‘inside’
  NNG: Lamogai             bele-              ‘belly’
  MM: Notsi                bale-              ‘belly’
  MM: Sursurunga           bələ-              ‘belly’
@@ -9116,21 +9114,21 @@ POc *bwal(o,a)- ‘stomach; hollow space’; (N LOC) ‘inside’
  MM: Ramoaaina            bala               ‘belly’
  MM: Siar                 bala               ‘belly’
  MM: Nehan                bala               ‘belly, intestines’
- NCV: Namakir             bwele(n)           ‘belly’
- NCV: Nguna               na-pwele           ‘stomach, belly, abdomen, waist, genital region’
+ NCV: Namakir             bʷele(n)           ‘belly’
+ NCV: Nguna               na-pʷele           ‘stomach, belly, abdomen, waist, genital region’
 >
 
 186 Meredith Osmond and Malcolm Ross
 
 
-    The principal PPn term for the stomach was *manawa ‘belly, stomach’, reflecting POc
-*[ma]ñawa (V) ‘breathe, rest, be alive’; (N) ‘breath, life, fontanelle’. The history of terms
-descended from POc *[ma]ñawa is complex and is discussed with a fuller set of reflexes in
+    The principal PPn term for the stomach was _*manawa_ ‘belly, stomach’, reflecting POc
+_*[ma]ñawa_ (V) ‘breathe, rest, be alive’; (N) ‘breath, life, fontanelle’. The history of terms
+descended from POc _*[ma]ñawa_ is complex and is discussed with a fuller set of reflexes in
 §4.5.1. We speculate that the semantic shift that gave rise to the meaning ‘belly, stomach’ may
 have first followed a path suggested by Blust (ACD): ‘…from the notion “breath; to breathe”
 there is a link to the “breath soul”, and from this to “soul; inner self, mind, feelings”…’. As the
 stomach is regarded as the seat of the emotions in some Oceanic cultures, it is only a short step
-from here to ‘stomach’. Nonetheless, the evidence amassed in ch.9 indicates that *[ma]ñawa
+from here to ‘stomach’. Nonetheless, the evidence amassed in ch.9 indicates that _*[ma]ñawa_
 did not occur in POc body-part metaphors denoting emotions, and that the changes that led to
 the meaning ‘belly, stomach’ occurred long after the break-up of POc. Three non-Polynesian
 reflexes with a meaning relating to the stomach are listed under ‘cf. also’. We take the Kiribati
@@ -9172,19 +9170,19 @@ cf. also:
   Mic: Kiribati        te-manawa-      ‘pit of the stomach’
 >
 
-[47] Cf. PPn *mānawa ‘breathe; breath’ (§3.4.6, §4.5.1).
+[47] Cf. PPn _*mānawa_ ‘breathe; breath’ (§3.4.6, §4.5.1).
 
                                                                                        The human body 187
 
 
-   A similar semantic shift apparently derived PPn *qalo ‘belly’ from PCP *qalo ‘soul’. Note
-that this etymon is distinct from POc *qarop ‘face, front’ (§3.4.7).
+   A similar semantic shift apparently derived PPn _*qalo_ ‘belly’ from PCP _*qalo_ ‘soul’. Note
+that this etymon is distinct from POc _*qarop_ ‘face, front’ (§3.4.7).
 
 <
 PCP *qalo ‘spirit, soul, insides’
   Fij: Bauan               yalo               ‘spirit, soul’
   Fij: Wayan               alo                ‘insides, inner part of body; heart, soul’
-PPn *qalo ‘belly, bowels; front, soft side of a thing’ (cf. tuqa ‘back, outer side’)
+PPn *qalo ‘belly, bowels; front, soft side of a thing’ (cf. _tuqa_ ‘back, outer side’)
   Pn:  Niuean              alo-alo            ‘belly, bowels’
   Pn:  Tongan              ʔalo               ‘belly (of fish)’
   Pn:  E Uvean             ʔalo               ‘stomach (of chief)’
@@ -9203,8 +9201,8 @@ includes a word for belly or stomach, but others may be the result of inadequate
 The same is true of terms in this section. It is not easy to identify the internal organs unless one
 has a butchered animal to refer to.
 
-    The most widely reflected POc etymon for intestines is *tinaqe, derived from a PAn
-nominalisation formed by infixing *<in> into PAn *Caqi ‘faeces’.48 Its reflexes have become
+    The most widely reflected POc etymon for intestines is _*tinaqe_, derived from a PAn
+nominalisation formed by infixing _*<in>_ into PAn _*Caqi_ ‘faeces’.[48] Its reflexes have become
 relational local nouns in a few languages (§3.1.2 and vol.2:239).
 
 <
@@ -9239,18 +9237,18 @@ POc *tinaqe ‘intestines’ (vol.2:239)
   SV: Kwamera              (nan)inha-         ‘intestines’
 >
 
-[48] If *<in> was a nominaliser, then *Caqi would also be expected to have served as a verb (‘defecate’), but there
+[48] If _*<in>_ was a nominaliser, then _*Caqi_ would also be expected to have served as a verb (‘defecate’), but there
       is no evidence of this.
 
 
 188 Meredith Osmond and Malcolm Ross
 
 
-   Blust (ACD) reconstructs PWMP *isaw and suggests that it may have referred exclusively
+   Blust (ACD) reconstructs PWMP _*isaw_ and suggests that it may have referred exclusively
 to animal intestines. The Oceanic evidence suggests a more general gloss ‘innards, guts’ for
-POc *iso-. Some of its Polynesian reflexes include the senses ‘umbilical cord’ and ‘pith’,
-suggesting semantic contamination by the formally somewhat similar *puso- ‘navel, umbilical
-cord’ (§3.5.10.1) and/or POc *quto- ‘brain, pith, marrow’ (vol.3:374–375).
+POc _*iso-_. Some of its Polynesian reflexes include the senses ‘umbilical cord’ and ‘pith’,
+suggesting semantic contamination by the formally somewhat similar _*puso-_ ‘navel, umbilical
+cord’ (§3.5.10.1) and/or POc _*quto-_ ‘brain, pith, marrow’ (vol.3:374–375).
 
 <
 PMP *isaw ‘intestines’ (ACD: PWMP)
@@ -9273,7 +9271,6 @@ PPn *[i,u]so ‘pith, core; umbilical cord’ (POLLEX)
 >
 
                                                                           The human body 189
-
 
 
 3.7.6 Liver
@@ -9365,8 +9362,8 @@ POc *qate ‘liver; seat of the emotions’ (ACD)
 
 3.7.7 Gall bladder
 
- Blust (ACD) reconstructs POc *qasu ‘gall bladder’, but notes that it almost certainly does not
-reflect PAn *qapeju ‘gall, gall bladder’.49 Its reconstruction here as *qasun with final *-n
+ Blust (ACD) reconstructs POc _*qasu_ ‘gall bladder’, but notes that it almost certainly does not
+reflect PAn _*qapeju_ ‘gall, gall bladder’.[49] Its reconstruction here as _*qasun_ with final _*-n_
 (reflected in Lukep and Nehan) confirms that he is correct.
 
 <
@@ -9403,14 +9400,13 @@ POc *qasun ‘gall, gall bladder, octopus sepia’ (ACD)
   Pn:     Hawaiian          au                 ‘gall, bile; gall bladder’
 >
 
-[49] He writes, ‘Since PMP *qalejaw ‘day’ apparently has become POc *qajo …, it is conceivable that a parallel
-  change in PAn *qapeju ‘gall, gall bladder’ could have given rise to the forms cited here. … [T]his hypothesis
+[49] He writes, ‘Since PMP _*qalejaw_ ‘day’ apparently has become POc _*qajo_ …, it is conceivable that a parallel
+  change in PAn _*qapeju_ ‘gall, gall bladder’ could have given rise to the forms cited here. … [T]his hypothesis
   fails to explain why languages such as Bipi, Lindrou, Likum, Papitalai, Pak, Penchal, and Nauna, which
-  distinguish PAn/POc *s from *j, point to POc *s as the medial consonant in this form. PAn *qapeju and POc
-  *qasu thus appear to have no historical connection.’
+  distinguish PAn/POc _*s_ from _*j_, point to POc _*s_ as the medial consonant in this form. PAn _*qapeju_ and POc
+  _*qasu_ thus appear to have no historical connection.’
 
 192 Meredith Osmond and Malcolm Ross
-
 
 
 3.7.8 Spleen
@@ -9418,10 +9414,10 @@ POc *qasun ‘gall, gall bladder, octopus sepia’ (ACD)
 The spleen is a significant organ in many Oceanic communities because malaria may lead to its
 enlargement, leading on occasion to its fatal rupture. Some languages have a word with a
 meaning relating to an enlarged spleen, e.g. Titan (Adm) map ‘condition of having an enlarged
-spleen’ (N), Iduna (PT) kʷada ‘enlarged spleen’, Gela (SES) bila ‘enlarged spleen’.
+spleen’ (N), Iduna (PT) _kʷada_ ‘enlarged spleen’, Gela (SES) _bila_ ‘enlarged spleen’.
 
     Although not widely attested in the data, there is sufficient representation across subgroups
-to attribute *bila- ‘spleen’ to POc.
+to attribute _*bila-_ ‘spleen’ to POc.
 
 <
 POc *bila- ‘spleen’
@@ -9430,16 +9426,16 @@ POc *bila- ‘spleen’
  SES: Gela                  bila-              ‘big belly, enlarged spleen’
 >
 
-    Two metaphoric expressions for ‘spleen’ have been reconstructed for PPn: *qate-loa (‘long
-liver’) and *qate-pili (‘sticky liver’). Bauan Fijian yate balavu echoes the former, with a non-
-cognate term for ‘long’.
+    Two metaphoric expressions for ‘spleen’ have been reconstructed for PPn: _*qate-loa_ (‘long
+liver’) and _*qate-pili_ (‘sticky liver’). Bauan Fijian _yate balavu_ echoes the former, with a
+non-cognate term for ‘long’.
 
 <
 PPn *qate-loa ‘spleen’ (PPn _*qate_ ‘liver’, _*loa_ ‘long’) (POLLEX)
   Pn:    Niuean            ate-loa             ‘spleen’
   Pn:    Tahitian          ate-roa             ‘milt or spleen’
   Pn:    Hawaiian          ake-loa             ‘spleen’
-PPn *qate-pili ‘spleen’ (PPn *qate ‘liver’, *pili ‘sticky, adhere to’) (POLLEX)
+PPn *qate-pili ‘spleen’ (PPn _*qate_ ‘liver’, _*pili_ ‘sticky, adhere to’) (POLLEX)
   Pn:    Tongan            ʔate-pili           ‘spleen’
   Pn:    Niuean            ate-pili            ‘spleen’
   Pn:    E Uvean           ate-pili            ‘kidney’
@@ -9452,11 +9448,11 @@ PPn *qate-pili ‘spleen’ (PPn *qate ‘liver’, *pili ‘sticky, adhere to�
 A term for ‘kidney’ cannot be reconstructed with any certainty. In many Oceanic languages the
 term for kidney is a metaphor that makes reference to an object that is perceived as kidney-
 shaped, typically a fruit or nut, or is preceded by a classifier for such objects. For instance,
-reflexes of POc *puaq ‘fruit’ occur in Adm, SES, NCV and Pn terms.
+reflexes of POc _*puaq_ ‘fruit’ occur in Adm, SES, NCV and Pn terms.
 
     The most frequent metaphor equates a kidney with a Tahitian chestnut (Inocarpus fagifer),
-and this points to a possible reconstruction. One POc term for the Tahitian chestnut was *ipi
-(vol.3:318) and a very few languages reflect this or a reduplicated form *ip(i)-ipi in the sense
+and this points to a possible reconstruction. One POc term for the Tahitian chestnut was _*ipi_
+(vol.3:318) and a very few languages reflect this or a reduplicated form _*ip(i)-ipi_ in the sense
 of kidney.
 
                                                                                       The human body 193
@@ -9471,20 +9467,20 @@ POc *ip(i)-ipi ‘kidney’ (?)
   Pn:  E Futunan         ifi-ifi         ‘kidney’
 >
 
-There are also several other terms arising from the same metaphor, reflecting POc *mabʷe
-‘Tahitian chestnut’ (vol.3:319).50
+There are also several other terms arising from the same metaphor, reflecting POc _*mabʷe_
+‘Tahitian chestnut’ (vol.3:319).[50]
 
 __formgroup__
- SES: Arosi        |kora i mabwe|   ‘kidneys’ (‘fruit of Tahitian chestnut’)
+ SES: Arosi        |kora i mabʷe|   ‘kidneys’ (‘fruit of Tahitian chestnut’)
  NCV: Mota         |wo mʷake-mʷake| ‘kidney’ (_woai_ ‘globular object, fruit, nut’, _mʷake_ ‘Tahitian chestnut’)
- NCV: Raga         mwabwe         ‘kidney’
+ NCV: Raga         mʷabʷe         ‘kidney’
  Pn:  Rapanui      mape           ‘kidney’
  Pn:  Tahitian     māpē           ‘Tahitian chestnut; kidney’
 
-A Tolai (MM) term is ela ‘chestnut tree; the kidneys’. In this instance it is not clear which was
+A Tolai (MM) term is _ela_ ‘chestnut tree; the kidneys’. In this instance it is not clear which was
 the original meaning.
 
-   Reflexes of POc *giri-giri ‘coral, coral rubble’ (vol.2:64) have in places varied their
+   Reflexes of POc _*giri-giri_ ‘coral, coral rubble’ (vol.2:64) have in places varied their
 meaning to ‘pebble’ and thence to pebble-shaped objects like kidneys (Paul Geraghty, pers.
 comm.). Thus we find:
 
@@ -9519,9 +9515,9 @@ reconstruction of PNCV _*mʷabʷe_ ‘liver’ (Clark 2009) and PSV _*mabʷV-_ �
 3.7.10 Bladder
 
 There is ample evidence for a POc compound meaning ‘bladder’ consisting of a first element
-that meant something like ‘bag’, ‘basket’ (in several languages a reflex of *taŋa ‘small bag’,
-vol.1:79) or similar round container and a second element mimi[q,s] ‘urine’ (§4.4.7),
-sometimes joined by a linker POc *qi or *ni.
+that meant something like ‘bag’, ‘basket’ (in several languages a reflex of _*taŋa_ ‘small bag’,
+vol.1:79) or similar round container and a second element _mimi[q,s]_ ‘urine’ (§4.4.7),
+sometimes joined by a linker POc _*qi_ or _*ni_.
 
 __formgroup__
   Adm:   Titan             ñamwanu-mim       ‘bladder’ (_ñamwanun_ ‘container’)
@@ -9534,7 +9530,7 @@ __formgroup__
   Pn:  Samoan              taŋa-a-mimi       ‘bladder’
   Pn:  Hawaiian            ʔōpū-mimi         ‘bladder’ (_ʔōpū_ ‘belly’)
 
-   POc *p(i,u)pu- is reflected in Meso-Melanesian and Southern Oceanic.
+   POc _*p(i,u)pu-_ is reflected in Meso-Melanesian and Southern Oceanic.
 
 <
 POc *p(i,u)pu- ‘bladder’
@@ -9548,7 +9544,7 @@ POc *p(i,u)pu- ‘bladder’
  NCal: Jawe                phūp              ‘bladder’
 >
 
-   Reflexes of PWOc *pw(a,o)ti- ‘bladder’ are well distributed across Western Oceanic
+   Reflexes of PWOc _*pʷ(a,o)ti-_ ‘bladder’ are well distributed across Western Oceanic
 languages.
 
 <
@@ -9643,8 +9639,8 @@ trunk to the bottom. Verbs associated with bodily emissions are presented in §4
 health and sickness. A multiplicity of terms for the action of spitting and for spittle are
 included in §4.4.3. They are there rather than here because the terms for saliva/spittle appear
 to be derived from verbs of spitting. However, a possible compound for ‘saliva’ is mentioned
-in §3.8.4. Similarly the POc term for ‘sweat’ (both verb and noun) was originally a verb (*ma-
-qono) and is also to be found in §4.4.6. Terms for ‘urine’ and ‘urinate’ also employ the same
+in §3.8.4. Similarly the POc term for ‘sweat’ (both verb and noun) was originally a verb
+(_*ma-qono_) and is also to be found in §4.4.6. Terms for ‘urine’ and ‘urinate’ also employ the same
 roots and are located in §4.4.7.
 
 3.8.1 Tears
@@ -9675,7 +9671,7 @@ POc _*waiR_ ‘water’ (vol.2:57).
 
 
 <
-Proto Remote Oceanic *|wai(R) ni mata| ‘tears’ (POc *waiR ‘water’)
+Proto Remote Oceanic *|wai(R) ni mata| ‘tears’ (POc _*waiR_ ‘water’)
   NCV: NE Ambae          |wai ni mata|      ‘tears’
   Fij: Wayan             |wai ni mata|      ‘tears’
   Fij: Bauan             |wai ni mata|      ‘tears’
@@ -9684,7 +9680,7 @@ Proto Remote Oceanic *|wai(R) ni mata| ‘tears’ (POc *waiR ‘water’)
 >
 
 <
-PPn *lo-qi-mata ‘tears’ (POLLEX) (lo- perhaps from PPn *lolo ‘coconut oil’ or from *lolo (V) ‘flood, submerge’)
+PPn *lo-qi-mata ‘tears’ (POLLEX) (_lo-_ perhaps from PPn _*lolo_ ‘coconut oil’ or from _*lolo_ (V) ‘flood, submerge’)
   Pn:     Tongan           lo-ʔ-i--mata      ‘tear(s)’
   Pn:     Samoan           lo-i-mata         ‘a tear’
   Pn:     E Futunan        lo-ʔ-i--mata      ‘tears’
@@ -9710,9 +9706,9 @@ Bileki _ma-sali_ apparently reflects a stative form of POc _*saliR_ ‘to flow�
 _ma-_ is the stative prefix (_ma-_ does not reflect _*mata-_ ‘eye’).
 
 __formgroup__
-     PT: Motu                    iruru-mata           ‘tears’ (iruru ‘track left by movement of s.t.’)
+     PT: Motu                    iruru-mata           ‘tears’ (_iruru_ ‘track left by movement of s.t.’)
      MM: Bileki                  ma-sali              ‘tear drops’
-     MM: Babatana                sosopoe-mate         ‘tears’ (sosopoe ‘to drip, a drop’)
+     MM: Babatana                sosopoe-mate         ‘tears’ (_sosopoe_ ‘to drip, a drop’)
 
 3.8.2 Earwax and deafness
 
@@ -9754,7 +9750,7 @@ POc *tul(i,e) ‘earwax; be deaf’ (ACD: _*tule_ ‘earwax’, _*tuli_ ‘deaf�
   Fij: Wayan              tule              ‘earwax’
   Fij: Rotuman            fuli              ‘be deaf’
 PPn *tuli ‘deaf’
-PPn *taqe-tuli ‘earwax’ (POLLEX) (*taqe- ‘excrement’; §3.8.6)
+PPn *taqe-tuli ‘earwax’ (POLLEX) (_*taqe-_ ‘excrement’; §3.8.6)
   Pn:  Tongan             tuli              ‘deaf’
   Pn:  Tongan             teʔe-tuli         ‘wax in the ear’
   Pn:  Samoan             tuli              ‘deaf’
@@ -9842,8 +9838,6 @@ POc *(dr,d)ap(e,i) ‘snot, nasal mucus’
 
 200 Meredith Osmond and Malcolm Ross
 
-
-
     Other NCV languages refer to ‘nasal mucus’ with reflexes of POc _*suRuq_ ‘juice,
 fluid’ (Lolovoli _suru_, NE Ambae _suru_).
 
@@ -9891,8 +9885,8 @@ __formgroup__
 
 3.8.5 Semen, smegma
 
-Blust (ACD) reconstructs PMP *biRas or *biRaq ‘semen, smegma’, both resulting in POc
-*biRa, but each rests on a single non-Oceanic reflex[55] plus the Oceanic reflexes below whose
+Blust (ACD) reconstructs PMP _*biRas_ or _*biRaq_ ‘semen, smegma’, both resulting in POc
+_*biRa_, but each rests on a single non-Oceanic reflex[55] plus the Oceanic reflexes below whose
 meanings most consistently denote stale or unwanted material such as sediment left after
 processing. No Oceanic reflex denotes ‘semen’, but Polynesian reflexes include reference to
 smegma (penile mucus) and vaginal mucus, suggesting that these were among its POc
@@ -10404,29 +10398,22 @@ Lichtenberk 2008, Pawley & Sayaba 2003).
                                                              Bodily conditions and activities 213
 
 __table__
-                 Mangap -mēte         Gela mate              To’aba’ita mae   Wayan Fijian mate
-person, animal die, be dead           dead                   die, be dead     die, be dead
-person           be[come] uncon-      be unconscious, faint- —                —
-                 scious               ed
-                 be starving          —                      —                —
-                 desire strongly      —                      —                —
-animal           —                    —                      —                be caught, captured (alive
-                                                                              or dead)
-cricketer        —                    be out                 —                be out
-body part        be[come] paralysed   be paralysed           be paralysed     be paralysed
-                 be[come] numb        be numb                —                —
-plant, tree      dry up               withered, dry          —                —
-storm,wind       die down             —                      —                stop, die down
-sea              become calm          without movement       be calm          be calm
-                                      (referent
-                                      unspecified)
-fire             go out               extinguished, gone out go out           —
-plan, project,   cease                —                      —                fail to work properly, not
-work                                                                          function, break down, go
-                                                                              badly
-engine           —                    —                      —                cut out, fail, die, be dead
-pudding          —                    —                      be thoroughly    —
-                                                             mashed
+                | Mangap _-mēte_     |  Gela _mate_         |   To’aba’ita _mae_ | Wayan Fijian _mate_
+person, animal  | die, be dead       |  dead                |   die, be dead    | die, be dead
+person          | be[come] unconscious | be unconscious, fainted | —           |     —
+                | be starving         | —                    |  —              |  —
+                | desire strongly     | —                    |  —              |  —
+animal          | —                   | —                    |  —              |  be caught, captured (alive or dead)
+cricketer       | —                   | be out               |  —              |  be out
+body part       | be[come] paralysed  | be paralysed         |  be paralysed   |  be paralysed
+                | be[come] numb       | be numb              |  —              |  —
+plant, tree     | dry up              | withered, dry        |  —              |  —
+storm,wind      | die down            | —                    |  —              |  stop, die down
+sea             | become calm         | without movement (referent unspecified) | be calm |  be calm
+fire           |  go out              | extinguished, gone out | go out         |  —
+plan, project, work |  cease   |    —  |   —  | fail to work properly, not function, break down, go badly
+engine         |  —         |           —            |          —               | cut out, fail, die, be dead
+pudding        |  —         |           —            |          be thoroughly mashed |  —
 
 The extensions of meaning shown above vary somewhat across the four languages, but we
 suspect that the differences are not as great as they appear from the tabulation, i.e. that some
@@ -10441,7 +10428,7 @@ aspect marker(s) that accompany a verb denoting a property indicate(s) whether i
 statively or inchoatively.
 
     Omitted from the table are a nominal sense of To’aba’ita _mae_, namely ‘k.o. evil spirit in the
-bush, used by its possessor to kill people’ and nominal senses of Wayan Fijian mate: ‘death’,
+bush, used by its possessor to kill people’ and nominal senses of Wayan Fijian _mate_: ‘death’,
 ‘paralysis’, ‘failure to work, malfunction’ and ‘sickness, disease, ailment’. The latter simply
 reflect a zero nominalisation strategy. Their correspondents in Mangap and To’aba’ita are
 formed with nominalising suffixes.
@@ -10723,7 +10710,7 @@ POc *tian-an ‘belly, (be) pregnant’
  MM: Madak                  tenan               ‘pregnant’
  MM: Patpatar               tianan              ‘pregnant’
  MM: Siar                   tinan               ‘pregnant’
- MM: Tolai (Matupit)        tianan              (VI) ‘to be in an advanced state of pregnancy’ (tia- ‘belly’)
+ MM: Tolai (Matupit)        tianan              (VI) ‘to be in an advanced state of pregnancy’ (_tia-_ ‘belly’)
   SES: Lau                  īana                ‘pregnant, of a woman; enlarged stomach, of a man’
   SES: To’aba’ita           iana                (VI) ‘be pregnant’
   NCV: Mota                 tiana               ‘be pregnant’
@@ -11009,20 +10996,20 @@ became the POc transitive suffix _*-i_.
 
     The data are tabulated below.
 
-__table__
-                        PMP             *paŋan      *kaen-i
-                        POc             *paŋan      *kani
-    Meso-Melanesian     Ramoaaina       wəŋan       an
-    SE Solomonic        Gela            vaŋa        ɣani
-                        Lau             faŋa        ʔani-
-                        To’aba’ita      faŋa        ʔani-
-                        Kwara’ae        hoŋ         ʔɛn
-    Temotu              Asumboa         veveŋe      ka
-                        Buma            voŋo        e
-    S Vanuatu           Sye             vaŋ         eni
-                        Ura             eveŋ        eni
-                        Lenakel         a-uŋən      kən
-                        Anejom          haŋ         ɣiɲ
+__tablenh__
+                     |   PMP          |   _*paŋan_   |   _*kaen-i_
+                     |   POc          |   _*paŋan_   |   _*kani_
+    Meso-Melanesian  |   Ramoaaina    |   _wəŋan_    |   _an_
+    SE Solomonic     |   Gela         |   _vaŋa_     |   _ɣani_
+                     |   Lau          |   _faŋa_     |   _ʔani-_
+                     |   To’aba’ita   |   _faŋa_     |   _ʔani-_
+                     |   Kwara’ae     |   _hoŋ_      |   _ʔɛn_
+    Temotu           |   Asumboa      |   _veveŋe_   |   _ka_
+                     |   Buma         |   _voŋo_     |   _e_
+    S Vanuatu        |   Sye          |   _vaŋ_      |   _eni_
+                     |   Ura          |   _eveŋ_     |   _eni_
+                     |   Lenakel      |   _a-uŋən_   |   _kən_
+                     |   Anejom       |   _haŋ_      |   _ɣiɲ_
 
 As the data above are from primary subgroups of Oceanic, this intransitive/transitive pair
 evidently occurred in Proto Oceanic. The fact that this appears to be the only intransitive/
@@ -11043,10 +11030,10 @@ sometimes some meat or fish (vol.3:36). The lexicons of Oceanic languages thus u
 distinguish two main categories of ingredient, and POc evidently did so too. The relevant
 terms are:
 
-•    POc _*kanaŋ_: starchy staples, including yams, taro, sweet potatoes and other root crops,
+__block__
+-    POc _*kanaŋ_: starchy staples, including yams, taro, sweet potatoes and other root crops,
      cooking bananas and breadfruit (vol.3:40–41);
-
-•    POc _*tamaji_: the additional ingredients: coconut milk, leafy vegetables and protein foods
+-    POc _*tamaji_: the additional ingredients: coconut milk, leafy vegetables and protein foods
      (meat, fish, shellfish) (vol.3:43).
 
 The general meaning of _*paŋan_ and _*kani_ was ‘eat’, but Ross (vol.3:36–40) concludes that
@@ -11487,7 +11474,7 @@ POc *ŋau ‘chew and eat’
   Pn:     Samoan           ŋau                ‘chew’
   Pn:     Tikopia          ŋau                ‘bite, chew’
 cf. also:
-   MM: Tolai               ŋo(ŋe)             ‘betel chew’ (where -ŋe may reflect a nominaliser)
+   MM: Tolai               ŋo(ŋe)             ‘betel chew’ (where _-ŋe_ may reflect a nominaliser)
 >
 
 [5] Neither source recognised the presence of POc _*kʷ_. On this, see Ross (2011).
@@ -11498,7 +11485,7 @@ cf. also:
 <
 POc *ŋari(s), *ŋaris-i- ‘gnaw, nibble, (perhaps of animals)’
   PT:    Motu              ɣari-a             (VT) ‘gnaw s.t.’
-  MM: Nakanai              gari               ‘bite’ (for †gali)
+  MM: Nakanai              gari               ‘bite’ (for †_gali_)
   MM: Meramera             gali               ‘bite’
 PMic *ŋari, *ŋari-ti ‘nibble, gnaw, crunch’ (Bender et al., 2003)
   Mic: Kosraean            ŋar-ŋar            ‘crushing, crunching, cracking sound’
@@ -11528,13 +11515,13 @@ cf. also:
 Seven terms are reconstructed for chewing without swallowing:
 
 __block__
- 1.   POc *ŋas (VI), *ŋas-i- (VT) ‘chew (betelnut), suck and chew (sugarcane), bite into’
- 2.   PNNG *ŋuru ‘suck and chew (sugarcane)’
- 3.   POc *qusi- ‘suck and chew (sugarcane)’
- 4.   POc *mamaq (VI), *mamaq-i- (VT) ‘chew, masticate but not swallow’
- 5.   POc *meme (VI), *[me]me-i- (VT) ‘premasticate food for baby’
- 6.   POc *jamu (VI), *jamʷ-i- (VT) ‘chew (betelnut)’ (Ross 1988:78)
- 7.   ?? PEOc *dramu (VI), *dramʷ-i- (VT) ‘chew’
+ 1.   POc _*ŋas_ (VI), _*ŋas-i-_ (VT) ‘chew (betelnut), suck and chew (sugarcane), bite into’
+ 2.   PNNG _*ŋuru_ ‘suck and chew (sugarcane)’
+ 3.   POc _*qusi-_ ‘suck and chew (sugarcane)’
+ 4.   POc _*mamaq_ (VI), _*mamaq-i-_ (VT) ‘chew, masticate but not swallow’
+ 5.   POc _*meme_ (VI), _*[me]me-i-_ (VT) ‘premasticate food for baby’
+ 6.   POc _*jamu_ (VI), _*jamʷ-i-_ (VT) ‘chew (betelnut)’ (Ross 1988:78)
+ 7.   ?? PEOc _*dramu_ (VI), _*dramʷ-i-_ (VT) ‘chew’
 
    With so many POc terms for the same or similar activities, one would expect them to have
 had different uses. Among the glosses of their reflexes one can distinguish general terms that
@@ -11565,7 +11552,7 @@ but also the assertion of social solidarity associated with chewing.
 function is performed by kava-drinking (kava is made from Piper methysticum).
 
    Another common activity in NW Melanesian villages is chewing a piece of sugarcane,
-Saccharum officinarum, POc *topu (vol.3:389–391).
+Saccharum officinarum, POc _*topu_ (vol.3:389–391).
 
 __blockquote__
       The jointed, fibrous stalks contain sucrose, obtained by cutting off a stem and chopping it
@@ -11577,30 +11564,30 @@ It has proven easier to identify POc terms for chewing sugarcane than for chewin
 236 Malcolm Ross and Meredith Osmond
 
 
-    Reflexes of *ŋas/*ŋas-i- and *mamaq/*mamaq-i- are geographically interlaced in the
-North New Guinea and Meso-Melanesian clusters of Western Oceanic,6 whilst the former
+    Reflexes of _*ŋas_/_*ŋas-i-_ and _*mamaq_/_*mamaq-i-_ are geographically interlaced in the
+North New Guinea and Meso-Melanesian clusters of Western Oceanic,[6] whilst the former
 prevails in Southeast Solomonic, the latter in Vanuatu and the Central Pacific. It is difficult to
 infer a difference in meaning between them from the glosses of their reflexes. Glosses of the
-reflexes of *ŋas/*ŋas-i- refer to both betelnut and sugarcane, but the term has reflexes only in
+reflexes of _*ŋas_/_*ŋas-i-_ refer to both betelnut and sugarcane, but the term has reflexes only in
 the betelnut-chewing region, suggesting that it was used mainly of chewing betelnut. Glosses
-of Western Oceanic reflexes of *mamaq/*mamaq-i- refer only to betelnut-chewing, but there
+of Western Oceanic reflexes of _*mamaq_/_*mamaq-i-_ refer only to betelnut-chewing, but there
 are also reflexes outside the betelnut-chewing region, which tend to denote chewing without
 swallowing and in NCV and Polynesian sometimes refer specifically to premasticating food to
 be fed to a baby.
 
     If the canonic derivation of POc verbs from PMP reduplicated monosyllables is applied
-(Blust 1977b; see also vol.2:25) to *ŋas/*ŋas-i-, the expected intransitive form is †*ŋa-ŋas,
+(Blust 1977b; see also vol.2:25) to _*ŋas_/_*ŋas-i-_, the expected intransitive form is †_*ŋa-ŋas_,
 but this is nowhere reflected, perhaps because the verb’s general meaning typically required an
 object specifying what was chewed. However, Banoni and Maringe ŋasa both reflect the
-Proto NW Solomonic final echo vowel *-a, pointing to an earlier intransitive *ŋas.
+Proto NW Solomonic final echo vowel _*-a_, pointing to an earlier intransitive _*ŋas_.
 
-    It is tempting to attribute Hoava ŋahu and Vangunu ŋasu, both ‘sharp’ (under ‘cf. also’
+    It is tempting to attribute Hoava _ŋahu_ and Vangunu _ŋasu_, both ‘sharp’ (under ‘cf. also’
 below), to this set, extending the observation that words for ‘sharp’ are sometimes derived
-from eating verbs (§4.3.1.1). However, two features speak against this. First, *ŋasi- is not
-semantically a verb of eating. Second, final -u is non-etymological. From this perspective,
-Mono-Alu asu ‘chew (betelnut)’ is also not a regular reflex of POc *ŋas or *ŋasi-. Loss of
-initial *ŋ- is regular, but final -u appears to reflect blending of regular pre-Mono-Alu †*ŋasa
-(the expected reflex of POc *ŋas) with a reflex of putative *ŋasu ‘sharp’ (of unknown
+from eating verbs (§4.3.1.1). However, two features speak against this. First, _*ŋasi-_ is not
+semantically a verb of eating. Second, final _-u_ is non-etymological. From this perspective,
+Mono-Alu _asu_ ‘chew (betelnut)’ is also not a regular reflex of POc _*ŋas_ or _*ŋasi-_. Loss of
+initial _*ŋ-_ is regular, but final _-u_ appears to reflect blending of regular pre-Mono-Alu †_*ŋasa_
+(the expected reflex of POc _*ŋas_) with a reflex of putative _*ŋasu_ ‘sharp’ (of unknown
 antiquity).
 
 <
@@ -11653,7 +11640,7 @@ cf. also:
                                                                   Bodily conditions and activities 237
 
 
-   PNNG *ŋuru is listed here because it manifests the phonaesthetic pattern mentioned in
+   PNNG _*ŋuru_ is listed here because it manifests the phonaesthetic pattern mentioned in
 §4.3.1.2.
 
 <
@@ -11678,15 +11665,15 @@ POc *qusi- (VT) ‘suck and chew (sugarcane)’[7]
   NCV: Mota               us                ‘chew sugarcane’
 >
 
-[7] *qusi is reconstructed here rather than *qusu because *-i was added to verb roots in POc to form transitive
-    verbs. Nehan uhu is assumed to reflect loss of *-i followed by echo-vowel addition.
+[7] _*qusi_ is reconstructed here rather than _*qusu_ because _*-i_ was added to verb roots in POc to form transitive
+    verbs. Nehan _uhu_ is assumed to reflect loss of _*-i_ followed by echo-vowel addition.
 
 238 Malcolm Ross and Meredith Osmond
 
 
 
-  POc *mamaq (VI), *mamaq-i- (VT) is reconstructed with final *-q on the basis of Tolai,
-Minigir, Label and Siar -i and Namakir -ʔ.
+  POc _*mamaq_ (VI), _*mamaq-i-_ (VT) is reconstructed with final _*-q_ on the basis of Tolai,
+Minigir, Label and Siar _-i_ and Namakir _-ʔ_.
 
 <
 PMP *mamaq ‘chew’ (Dempwolff 1938)
@@ -11706,11 +11693,11 @@ POc *mamaq-i- (VT) ‘chew, masticate but not swallow’
   MM: Nakanai           mama              ‘chew (betelnut)’
   MM: Meramera          mama              ‘chew (betelnut)’
   MM: Sursurunga        ma                ‘chew (betelnut)’
-  MM: Minigir           mamai             ‘chew (betelnut)’ (-i < *-q)
-  MM: Tolai             mamai             (VI) ‘chew (betelnut)’ (-i < *-q)
-  MM: Label             mai               ‘chew (betelnut)’ (-i < *-q)
+  MM: Minigir           mamai             ‘chew (betelnut)’ (_-i_ < _*-q_)
+  MM: Tolai             mamai             (VI) ‘chew (betelnut)’ (_-i_ < _*-q_)
+  MM: Label             mai               ‘chew (betelnut)’ (_-i_ < _*-q_)
   MM: Ramoaaina         mama              ‘chew (betelnut)’
-  MM: Siar              mamai             ‘betel chew’ (-i < *-q)
+  MM: Siar              mamai             ‘betel chew’ (_-i_ < _*-q_)
   MM: Torau             mama              ‘chew (betelnut)’
   SES: Gela             mama              (VT) ‘chew fine; feed a baby with pap’
   SES: Arosi            ma-i-ma-i         ‘chew (sugarcane)’
@@ -11736,7 +11723,7 @@ cf. also:
                                                          Bodily conditions and activities 239
 
 
-   Vanuatu reflexes of POc *meme (VI), *[me]me-i- (VT) have the very specific meaning
+   Vanuatu reflexes of POc _*meme_ (VI), _*[me]me-i-_ (VT) have the very specific meaning
 ‘premasticate food for baby’, where the baby is the object of the transitive form. However,
 inspection of the glosses below and the glosses of reflexes of POc *mamaq ‘chew betelnut’
 above suggests that there has been some blending of the two terms, whereby one of the two
@@ -11760,21 +11747,21 @@ POc *[me]me-i- (VT) ‘chew; (?) premasticate food for baby’
  Mic: Marshallese       meme                ‘eat (child speech); chew’
 >
 
-    POc *jamu perhaps meant ‘chew (betelnut)’, as this is its meaning throughout the betelnut-
-chewing area. Beyond this area it retains senses related to the fibrous residue remaining after a
-plant has been chewed or wrung out. PNCV *zamʷan ‘chew, fibrous residue’ appears to have
-been a noun reflecting the POc nominalisation *jamu-an, suggesting that the meaning of the
+    POc _*jamu_ perhaps meant ‘chew (betelnut)’, as this is its meaning throughout the
+betelnut-chewing area. Beyond this area it retains senses related to the fibrous residue remaining after a
+plant has been chewed or wrung out. PNCV _*zamʷan_ ‘chew, fibrous residue’ appears to have
+been a noun reflecting the POc nominalisation _*jamu-an_, suggesting that the meaning of the
 verb at an immediately pre-PNCV stage was something like ‘spit out residue’, a meaning
 which is, however, not directly attested. In fact even the verbs in some, if not all, Vanuatu
-languages listed appear to be back-formations from the nominalisation. Mota samʷan, Kiai
-zama-i-, Uripiv o-jəm-jəmʷe, Ninde samʷe, Rerep jamue, Nguna samʷa-e all appear to reflect
-the suffix *-an (*-n is mostly lost in NCV languages).
+languages listed appear to be back-formations from the nominalisation. Mota _samʷan_, Kiai
+_zama-i-_, Uripiv _o-jəm-jəmʷe_, Ninde _samʷe_, Rerep _jamue_, Nguna _samʷa-e_ all appear to reflect
+the suffix _*-an_ (_*-n_ is mostly lost in NCV languages).
 
-    It is tempting to try to associate POc *jamu with *d(r)amut ‘lime spatula’ (vol.1:77), as the
+    It is tempting to try to associate POc _*jamu_ with _*d(r)amut_ ‘lime spatula’ (vol.1:77), as the
 latter belongs to the paraphernalia of betel-chewing, but the resemblance seems to be a chance
 one.
 
-    PPn *samu ‘eat scraps’ has the same form as PPn *samu ‘eat one food only’ (§4.3.1.1), but
+    PPn _*samu_ ‘eat scraps’ has the same form as PPn _*samu_ ‘eat one food only’ (§4.3.1.1), but
 this is also apparently a chance resemblance.
 
 <
@@ -11786,7 +11773,7 @@ POc *jamʷ-i- (VT) ‘chew (betelnut)’ (Ross 1988:78)
   NNG: Wogeo            (e)jimu          ‘chew (betelnut)’
   NNG: Kis              (a)jem           ‘chew (betelnut)’
   NNG: Kairiru          jem              ‘chew (betelnut)’
-  PT:   Motu            ramu             ‘chew (betelnut)’ (r- for †d-)
+  PT:   Motu            ramu             ‘chew (betelnut)’ (_r-_ for †_d-_)
   MM: Tiang             səm              ‘chew (betelnut)’
 PNCV *zamʷan ‘chew; fibrous residue’ (Clark 2009)
   NCV: Mota             samʷan           ‘eat what is soft and juicy and has fibres in it’
@@ -11819,16 +11806,16 @@ PPn *samu ‘eat scraps’ (POLLEX)
   Pn:  Maori            hamu-hamu        ‘eat scraps’
   Pn:  Rapanui          hamu-hamu        ‘eat leftovers’
 cf. also:
-  MM:  Roviana          hamu-a             ‘chew’ (h for †z)
+  MM:  Roviana          hamu-a             ‘chew’ (_h_ for †_z_)
 >
 
 
 240 Malcolm Ross and Meredith Osmond
 
 
-   The set below appears to reflect an earlier intransitive, POc *ñamu, corresponding to POc
-*jamu in the same way as POc *paŋan (VI) ‘eat’ corresponds to *kani (VT) ‘eat’. Blust (ACD)
-notes a corresponding Javanese pair, ñamuk-ñamuk (VI)/camuk-camuk (VT) ‘chew on
+   The set below appears to reflect an earlier intransitive, POc _*ñamu_, corresponding to POc
+_*jamu_ in the same way as POc _*paŋan_ (VI) ‘eat’ corresponds to _*kani_ (VT) ‘eat’. Blust (ACD)
+notes a corresponding Javanese pair, _ñamuk-ñamuk_ (VI)/_camuk-camuk_ (VT) ‘chew on
 something with the mouth full’.
 
 <
