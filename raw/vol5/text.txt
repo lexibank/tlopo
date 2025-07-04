@@ -5300,7 +5300,7 @@ PNGOc *g(i,e)ju- ‘back of head, base of skull, occiput, nape’
 
 3.4.6 Top of head, fontanelle
 
-In a number of languages the term for the fontanelle is a reflex of POc *[ma]ñawa, which was
+In a number of languages the term for the fontanelle is a reflex of POc _*[ma]ñawa_, which was
 evidently a verb meaning ‘breathe, rest, be alive’, but also occurred as a noun with the senses
 ‘breath’, ‘life’ and ‘fontanelle’. The full cognate set for this term is presented in §4.5.1, where it
 is discussed in some detail. Here just those reflexes that include the sense ‘fontanelle’ are given.
@@ -5314,7 +5314,7 @@ PAn *LiSawa ‘breathe, breath’ (ACD)
 PMP *[ma]nihawa ‘breathe; breath’ (Ross 1988, ACD)
 POc *[ma]ñawa (V) ‘breathe, rest, be alive’; (N) ‘breath, life, fontanelle’
   Adm: Lou               mein                 ‘fontanelle’
-  PT:   Kiriwina         mola-                ‘fontanelle’ (-o- for †-a-)
+  PT:   Kiriwina         mola-                ‘fontanelle’ (_-o-_ for †_-a-_)
   MM: Tolai              mana-manaug          ‘fontanelle’
   SES: Arosi              manawa              ‘breathe, rest, pant; breath, lungs, fontanelle’
 PPn *mānawa ‘breathe; breath’ (POLLEX)
@@ -5334,8 +5334,8 @@ cf. also:
 114 Meredith Osmond and Malcolm Ross
 
 
-   POc *maŋawa- ‘fontanelle, forehead’ is apparently a doublet of POc *mañawa, related to it
-by an irregular sound change *ñ > *ŋ. Some reflexes of *maŋawa- denote the forehead rather
+   POc _*maŋawa-_ ‘fontanelle, forehead’ is apparently a doublet of POc _*mañawa_, related to it
+by an irregular sound change _*ñ_ > _*ŋ_. Some reflexes of _*maŋawa-_ denote the forehead rather
 than the fontanelle, presumably as a result of a metonymic usage extending reference to the
 whole of the front part of the top of the head.
 
@@ -5353,7 +5353,7 @@ PMic *maŋo- ‘top of head, fontanelle’ (Bender et al., 2003)
  Fij:   Bauan            mana-manā          ‘fontanelle’
 >
 
-   It is possible that *tubuŋa ‘crown of head’ is a nominalisation (with -ŋa) of POc *tubuq
+   It is possible that _*tubuŋa_ ‘crown of head’ is a nominalisation (with _-ŋa_) of POc _*tubuq_
 ‘grow, swell’ (vol.1:134; vol.3:366), where the hair on the crown is compared to the first
 appearance of plants above ground.
 
@@ -5366,10 +5366,10 @@ POc *tubuŋa ‘crown of head’
 
 3.4.7 Face
 
-Although two POc terms, *nako- and *qarop-, are listed here, *qarop- was principally a spatial
+Although two POc terms, _*nako-_ and _*qarop-_, are listed here, *qarop- was principally a spatial
 term (a relational local noun; §3.1.2) referring to ‘front, face, the side usually seen’ (vol.2:247)
-whereas *nako- denoted the body part containing facial features and was only secondarily a
-spatial term. A third term POc *mata- (§3.4.9.1 and vol.2:249) was apparently also commonly
+whereas _*nako-_ denoted the body part containing facial features and was only secondarily a
+spatial term. A third term POc _*mata-_ (§3.4.9.1 and vol.2:249) was apparently also commonly
 used to refer to ‘face’ as well as ‘eyes’.
 
 <
@@ -5393,7 +5393,7 @@ POc *nako- ‘face’; (N LOC) ‘front’ (vol.2:250)
  NCV: Tamambo           naɣo-              ‘face’
  NCV: Paamese           nā-                ‘face, front’
 cf. also:
- MM:  Nakanai           lagu-              ‘face; forward, in front’ (g for †k)
+ MM:  Nakanai           lagu-              ‘face; forward, in front’ (_g_ for †_k_)
 >
 
 
@@ -5401,16 +5401,16 @@ cf. also:
 
 
     Reflexes of POc *qarop consistently refer to ‘front, face, the side usually seen’ and are
-sometimes contrasted with reflexes of POc *muri- ‘back’ (§3.1.2, vol.2:251). In this sense
-they are often used to refer to parts of the body other than the face. Evidence for final *-p lies
-in phrases such as Tongan ʔaofi-vaʔe and Samoan alofi-vae, both ‘sole of foot’, where -i-
-reflects the PPn linker *qi (Hooper 1985).
+sometimes contrasted with reflexes of POc _*muri-_ ‘back’ (§3.1.2, vol.2:251). In this sense
+they are often used to refer to parts of the body other than the face. Evidence for final _*-p_ lies
+in phrases such as Tongan _ʔaofi-vaʔe_ and Samoan _alofi-vae_, both ‘sole of foot’, where _-i-_
+reflects the PPn linker _*qi_ (Hooper 1985).
 
 <
 PAn *qadəp ‘front, face’ (Blust 1997)
 POc *qarop ‘face’; (N LOC) ‘front, the side usually seen’ (vol.2:247)
   Adm:  Mussau           alo-             ‘(front of?) neck’
-  Adm:  Lou              kar              ‘palm, sole’ (kar-mɛna ‘of hand’, kar-kɛ ‘of foot’)
+  Adm:  Lou              kar              ‘palm, sole’ (_kar-mɛna_ ‘of hand’, _kar-kɛ_ ‘of foot’)
   NNG:  Manam            aro              ‘space in front’
   NNG:  Kairiru          aro              ‘in front of (s.t.)’
   PT:   Dawawa           karo             ‘in front’
@@ -5435,19 +5435,19 @@ POc *qarop ‘face’; (N LOC) ‘front, the side usually seen’ (vol.2:247)
 
 3.4.8 Side of face, cheek, temple
 
-Two POc etyma, *[pwa]pwaRa- ‘cheek, side of face’ and *baba[R,l]i- ‘cheek’ appear to reflect
-Blust’s PCEMP *papaR ‘cheek’ (ACD). However, two comments are in order. First, PCEMP
-*papaR is supported by only one non-Oceanic reflex (Buru papa-n ‘cheek’), with the
-consequence that there is no independent attestation of PCEMP *-R- or of the vowel following
+Two POc etyma, _*[pʷa]pʷaRa-_ ‘cheek, side of face’ and _*baba[R,l]i-_ ‘cheek’ appear to reflect
+Blust’s PCEMP _*papaR_ ‘cheek’ (ACD). However, two comments are in order. First, PCEMP
+_*papaR_ is supported by only one non-Oceanic reflex (Buru _papa-n_ ‘cheek’), with the
+consequence that there is no independent attestation of PCEMP _*-R-_ or of the vowel following
 it. Second, POc doublets are rare, and it is possible that the two etyma have different origins.
 Both have reflexes that simply mean ‘side’, but it is common for POc relational local nouns to
-be derived from human body part terms (cf. POc *bwal(o,a)- ‘belly, inside’, vol.2:239; *qaro-
+be derived from human body part terms (cf. POc _*bʷal(o,a)-_ ‘belly, inside’, vol.2:239; _*qaro-_
 ‘face, front’, vol.2:247; *mata- ‘eye, front’, vol.2:249). A stronger possibility is that POc
-*baba[R,l]i- is indeed a doublet, created through contamination by POc *baban ‘flat, board,
+_*baba[R,l]i-_ is indeed a doublet, created through contamination by POc _*baban_ ‘flat, board,
 plank of boat’ (vol.1:185–186) because of its reference to a bone with a flat surface. Reflexes of
-POc *baban are sometimes used in this sense (cf. To’aba’ita baba-leqo, Maori papa-āhuahua,
-both ‘shoulder blade’), and it is possible that Proto Eastern Polynesian *papa-ariŋa ‘cheek’ reflects such a
-compound.[20]
+POc _*baban_ are sometimes used in this sense (cf. To’aba’ita _baba-leqo_, Maori _papa-āhuahua_,
+both ‘shoulder blade’), and it is possible that Proto Eastern Polynesian _*papa-ariŋa_ ‘cheek’
+reflects such a compound.[20]
 
 <
 PCEMP *papaR ‘cheek’ (ACD)
@@ -5476,7 +5476,7 @@ POc *baba[R,l]i- ‘cheek’
   NNG: Maenge            vava           ‘side’
   NNG: Poeng             vava           ‘side’
   SES: Lau               babali-        ‘cheek’
-  SES: To’aba’ita        babali-        ‘cheek’ (cf. baba-leqo ‘shoulder blade’)
+  SES: To’aba’ita        babali-        ‘cheek’ (cf. _baba-leqo_ ‘shoulder blade’)
   SES: Kwaio             baba-          ‘side, cheek’ (for †_babali-_)
   SES: Sa’a              papali-        ‘cheek’
   SES: ’Are’are          papari-        ‘cheek’
@@ -5485,30 +5485,30 @@ POc *baba[R,l]i- ‘cheek’
   Fij: Bauan             baba-          ‘side of s.t.; cheekbone; side of canoe’
 cf. also:
    NNG: Manam            papaki-          ‘temple’
-Proto Central/Eastern Polynesian *papa-ariŋa ‘cheek’ (POLLEX) (PPn *papa ‘flat hard surface’)
+Proto Central/Eastern Polynesian *papa-ariŋa ‘cheek’ (POLLEX) (PPn _*papa_ ‘flat hard surface’)
    Pn:  Maori            pāpāriŋa         ‘cheek’ (cf. _papa-āhuahua_ ‘shoulder blade’)
    Pn:  Tahitian         pāpāriʔa         ‘cheek’
    Pn:  Tuamotuan        pāpāriŋa         ‘cheek’
-   Pn:  Hawaiian         papālina         ‘cheek’ (lina ‘soft’?)
+   Pn:  Hawaiian         papālina         ‘cheek’ (_lina_ ‘soft’?)
 >
 
-[20] The meaning of Proto Eastern Polynesian *-ariŋa is unknown, but note NNG: Bukawa aliŋ ando ‘cheek’.
+[20] The meaning of Proto Eastern Polynesian _*-ariŋa_ is unknown, but note NNG: Bukawa _aliŋ ando_ ‘cheek’.
 
                                                                        The human body 117
 
 
-   The following may be from PMP *balaŋ/POc *pwala(ŋ) ‘side, part’ (vol.2:245) + POc
-*qase ‘chin, jaw’ (§3.4.13).
+   The following may be from PMP _*balaŋ_/POc _*pʷala(ŋ)_ ‘side, part’ (vol.2:245) + POc
+_*qase_ ‘chin, jaw’ (§3.4.13).
 
 <
-PNCV *balase ‘jawbone (of pig), chin, cheek’ (*ase ‘chin, jaw’)
- NCV: Mota              palasa-i           ‘cheek’ (palasa ‘jawbone of a pig’)
+PNCV *balase ‘jawbone (of pig), chin, cheek’ (_*ase_ ‘chin, jaw’)
+ NCV: Mota              palasa-i           ‘cheek’ (_palasa_ ‘jawbone of a pig’)
  NCV: NE Ambae          balahe-            ‘cheek’
 >
 
 <
 POc *tabal ‘side of head’
- MM: Bulu                 tabala-            ‘side of head’ (for †taba. Borrowed from Bali?)
+ MM: Bulu                 tabala-            ‘side of head’ (for †_taba_. Borrowed from Bali?)
  MM: Bola                 tabala-            ‘side of head’
  SES: Arosi               aba-               ‘half, part, side’
 PMic *tapa- ‘cheek’ (Bender et al., 2003)
@@ -5520,7 +5520,7 @@ PMic *tapa- ‘cheek’ (Bender et al., 2003)
 
 3.4.9.1   Eye
 
-POc *mata- ‘eye, face’ appears to have served both as a noun denoting the eye (as a body part)
+POc _*mata-_ ‘eye, face’ appears to have served both as a noun denoting the eye (as a body part)
 and as a relational local noun denoting the ‘front’ side of a person or object (vol.2:249).
 
 <
@@ -5573,12 +5573,12 @@ POc *mata- ‘eye, face’
 3.4.9.2 Eyelash, eyebrow hair
 
 The glosses below suggest that ‘eyelash’ and ‘eyebrow hair’ were denoted by a single POc
-term, *pulu qi mata- literally ‘hair of eye’. POc *pulu- was the term for body hair (§3.3.8) as
-opposed to head hair. On *qi, see Hooper (1985), Ross (1998a) and §3.1.1.
+term, _*pulu qi mata-_ literally ‘hair of eye’. POc _*pulu-_ was the term for body hair (§3.3.8) as
+opposed to head hair. On _*qi_, see Hooper (1985), Ross (1998a) and §3.1.1.
 
 <
 PMP *|bulu ni mata| ‘eyelash’
-POc *|pulu qi mata-| ‘eyelash, eyebrow hair’ (ACD:*pulu ni mata-)
+POc *|pulu qi mata-| ‘eyelash, eyebrow hair’ (ACD: _*pulu ni mata-_)
  NCV: Tamambo          |vulu-vulu-i mata |     ‘eye lashes’
  NCV: NE Ambae         |vul-vulu-si mata-|     ‘eyebrow, eyelash’
  Fij: Wayan            vulu-vulu-ni-mata       ‘eyelash’
@@ -5593,13 +5593,13 @@ POc *|pulu qi mata-| ‘eyelash, eyebrow hair’ (ACD:*pulu ni mata-)
                                                                         The human body 119
 
 
-Kukuya mata-ivu ‘eyelash’ is a conceptually similar term, but ivu reflects *ipu ‘hair’ (§3.3.7).
+Kukuya _mata-ivu_ ‘eyelash’ is a conceptually similar term, but _ivu_ reflects _*ipu_ ‘hair’ (§3.3.7).
 
-   Numbami (NNG) has mata-lami ‘eyelash’ and Nyindrou (Adm) has lami mada- ‘eyelash,
-eyebrow’, each containing an apparent reflex of POc *Ramut ‘fine, hair-like roots’ (vol.3:101).
+   Numbami (NNG) has _mata-lami_ ‘eyelash’ and Nyindrou (Adm) has _lami mada-_ ‘eyelash,
+eyebrow’, each containing an apparent reflex of POc _*Ramut_ ‘fine, hair-like roots’ (vol.3:101).
 
    The next set probably shows metaphoric use of a term also used to describe the fringe-like
-leaflets of a coconut branch (see Arosi, Sa’a, ’Are’are hisi, Lau fisi). Note that in MM and SES
+leaflets of a coconut branch (see Arosi, Sa’a, ’Are’are _hisi_, Lau _fisi_). Note that in MM and SES
 languages the possessor follows the possessed whilst in PT languages the order is reversed.
 
 <
@@ -5611,10 +5611,10 @@ POc *pisi(n)-mata ‘eyelash’
 
 3.4.9.3 Eyebrow ridge
 
-Widely distributed reflexes of POc *pasu- denote ‘eyebrow’, but scattered among them are
+Widely distributed reflexes of POc _*pasu-_ denote ‘eyebrow’, but scattered among them are
 reflexes meaning ‘forehead’ and, in Vanuatu, also ‘cheek’. Ancestral to the POc term is PMP
-*pasu(ŋ), which Blust (ACD) glosses ‘cheek bone’. However, in addition to ‘cheek’ the non-
-Oceanic reflexes have meanings as varied as ‘prominent cheek bones’, ‘upper jawbone’,
+_*pasu(ŋ)_, which Blust (ACD) glosses ‘cheek bone’. However, in addition to ‘cheek’ the non-Oceanic
+reflexes have meanings as varied as ‘prominent cheek bones’, ‘upper jawbone’,
 ‘bridge of the nose’. The common denominator across both Malayo-Polynesian and Oceanic
 glosses seems to be ‘facial bony ridge’ and this may well have been its extended sense at both
 interstages. However, its narrower PMP meaning does indeed seem to have been ‘cheek bone’.
@@ -5624,13 +5624,13 @@ below which include a reflex of POc *mata- ‘eye’ (§3.4.9.1) apparently mean
 i.e. ‘eyebrow ridge’, as opposed to other facial ridges, particularly the cheek bone.
 
     The compound forms in Loniu, Port Sandwich, Nguna, Iaai and Rotuman all point to POc
-*pasu-mata-, but Nokuku pus-pusa-n meta- contains a suffix -n which reflects either POc
-*-ña ‘his, her, its’ or *ni, a morpheme that marked the following noun phrase as the
-nonspecific possessor of an indirectly possessed noun, e.g. POc ?*pasu ni mata- ‘ridge of
-eye’. This reconstruction is odd, however, as POc *pasu- was directly possessed, and the
-nonspecific possessor of a directly possessed noun was introduced by *qi (Ross 1998c; also
-§3.1.1), i.e. the expected form is POc *pasu qi mata-. In a number of languages the reflex of
-*ni has displaced *qi, and Nokuku may be one of these.
+_*pasu-mata-_, but Nokuku _pus-pusa-n meta-_ contains a suffix _-n_ which reflects either POc
+_*-ña_ ‘his, her, its’ or _*ni_, a morpheme that marked the following noun phrase as the
+nonspecific possessor of an indirectly possessed noun, e.g. POc ? _*pasu ni mata-_ ‘ridge of
+eye’. This reconstruction is odd, however, as POc _*pasu-_ was directly possessed, and the
+nonspecific possessor of a directly possessed noun was introduced by _*qi_ (Ross 1998c; also
+§3.1.1), i.e. the expected form is POc _*pasu qi mata-_. In a number of languages the reflex of
+_*ni_ has displaced _*qi_, and Nokuku may be one of these.
 
     The eyebrows perhaps had a particular cultural significance for Proto Oceanic speakers.
 The Sinaugoro and Nguna terms below refer to raising the eyebrows to say ‘yes’, and it seems
@@ -5650,16 +5650,16 @@ POc *pasu-mata- or *|pasu qi mata-| ‘eyebrow ridge’
  SES:  Bugotu          vahu-             ‘forehead, temple’
  SES:  Gela            vau-vahu-         ‘eyebrow’
  SES:  Arosi           hasu-hasu--       ‘eyebrow’
-PSOc *vasu ‘eyebrow’ (Lynch 2004d: Clark 2009: PNCV *vazu)
- NCV:  Nokuku          |pus-pusa-n meta-| ‘eyebrow’(meta- ‘eye’)
+PSOc *vasu ‘eyebrow’ (Lynch 2004d: Clark 2009: PNCV _*vazu_)
+ NCV:  Nokuku          |pus-pusa-n meta-| ‘eyebrow’(_meta-_ ‘eye’)
  NCV:  Tamambo         vasu-             ‘eyebrow’
  NCV:  NE Ambae        vahu-             ‘forehead above the eye, incl. eyebrow’
  NCV:  Raga            vahu-             ‘cheek’
  NCV:  Uripiv          vasu-             ‘cheek’
- NCV:  Port Sandwich   vos-mara-             ‘eyebrow’ (mara- ‘eye’)
+ NCV:  Port Sandwich   vos-mara-             ‘eyebrow’ (_mara-_ ‘eye’)
  NCV:  Nguna           na-vasu-mata      ‘eyebrow’
  NCV:  Nguna           liŋi-vasu         ‘lift eyebrows in agreement’
- NCal: Iaai            bade-mɛka-        ‘eyebrow’ (mɛka- ‘eye’)
+ NCal: Iaai            bade-mɛka-        ‘eyebrow’ (_mɛka-_ ‘eye’)
 PMic *fasu ‘eyebrow’ (Bender et al., 2003)
  Mic:  Marshallese     yāt               ‘eyebrow’
  Mic:  Woleaian        fāt               ‘eyebrow’
@@ -5678,34 +5678,34 @@ PMic *fasu ‘eyebrow’ (Bender et al., 2003)
 Although a possible PEOc compound can be reconstructed from SES and NE Ambae terms
 which translate literally as ‘eye skin’, there is little consistency of form across the Oceanic
 region, with a range of terms being used in place of ‘skin’ including ‘cover’, ‘husk’, and ‘leaf’.
-PEOc *pinu-pinu is a reduplicated reflex of POc *pinut ‘skin, bark’ (§3.3.5).
+PEOc _*pinu-pinu_ is a reduplicated reflex of POc _*pinut_ ‘skin, bark’ (§3.3.5).
 
 <
 PEOc *|pinu-pinu ni mata| ‘eyelid’
-  SES: Sa’a             |hinu-hinu i mā-|    ‘eyelid’ (hinu ‘bark/skin’)
+  SES: Sa’a             |hinu-hinu i mā-|    ‘eyelid’ (_hinu_ ‘bark/skin’)
   SES: Arosi            hinu-hinu-         ‘eyelid’
-  NCV: NE Ambae         |vinu-i mata-|       ‘eyelid’ (vinu ‘skin, bark’)
+  NCV: NE Ambae         |vinu-i mata-|       ‘eyelid’ (_vinu_ ‘skin, bark’)
 cf. also
-  PT:  Motu             |mata kopi-|         ‘eyelid’ (kopi ‘skin’)
+  PT:  Motu             |mata kopi-|         ‘eyelid’ (_kopi_ ‘skin’)
   PT:  Wedau            |mata opi- |         ‘eyelid’
-  PT:  Dobu             |mata ʔapʷaʔapʷara|  ‘eyelids’ (ʔapwaʔapwara ‘sugarcane with dried leaves’)
-  MM:  Tolai            |pil-pil na mata- |  ‘eyelid’ (pil ‘to peel, shell, remove rind’)
-  MM:  Roviana          poko-poko-mata-    ‘eyelids’ (poko-poko- ‘husk of certain grains, ear of corn’)
+  PT:  Dobu             |mata ʔapʷaʔapʷara|  ‘eyelids’ (_ʔapʷaʔapʷara_ ‘sugarcane with dried leaves’)
+  MM:  Tolai            |pil-pil na mata- |  ‘eyelid’ (_pil_ ‘to peel, shell, remove rind’)
+  MM:  Roviana          poko-poko-mata-    ‘eyelids’ (_poko-poko-_ ‘husk of certain grains, ear of corn’)
   SES: Kwaio            |fe-felu i mā-|      ‘eyelid’ (_*(p,pʷ)ilit_ ‘peel by hand’)
-  NCV: Tamambo          |buroɣi mata- |      ‘eyelids’ (burohi ‘to cover over with s.t. hard’)
-  Pn:  Tongan           lau-mata           ‘eyelid’ (lau ‘flat surface’)
-  Pn:  Niuean           lau-mata           ‘eyelid’ (lau ‘flat surface’)
+  NCV: Tamambo          |buroɣi mata- |      ‘eyelids’ (_burohi_ ‘to cover over with s.t. hard’)
+  Pn:  Tongan           lau-mata           ‘eyelid’ (_lau_ ‘flat surface’)
+  Pn:  Niuean           lau-mata           ‘eyelid’ (_lau_ ‘flat surface’)
 >
 
 Separate terms for upper and lower lids are found in Bauan Fijian, Samoan and Tikopia, but
 they appear to be independently created descriptions.
 
 __formgroup__
-  Fij:    Bauan             |dakudaku ni mata| ‘upper eyelid’ (daku ‘back of a person or thing’)
-  Pn:     Samoan            |laumata aluŋa   | ‘upper eyelid’ (luŋa ‘top, upper surface’)
-  Pn:     Samoan            |laumata alalo   | ‘lower eyelid’ (lalo ‘down, below’)
-  Pn:     Tikopia           |tua mata        | ‘upper eyelid’ (tua ‘back, outer side’)
-  Pn:     Tikopia           |raro mata       | ‘lower eyelid’ (raro ‘down, below’)
+  Fij:    Bauan             |dakudaku ni mata| ‘upper eyelid’ (_daku_ ‘back of a person or thing’)
+  Pn:     Samoan            |laumata aluŋa   | ‘upper eyelid’ (_luŋa_ ‘top, upper surface’)
+  Pn:     Samoan            |laumata alalo   | ‘lower eyelid’ (_lalo_ ‘down, below’)
+  Pn:     Tikopia           |tua mata        | ‘upper eyelid’ (_tua_ ‘back, outer side’)
+  Pn:     Tikopia           |raro mata       | ‘lower eyelid’ (_raro_ ‘down, below’)
 
                                                                           The human body 121
 
@@ -5714,9 +5714,9 @@ __formgroup__
 3.4.9.5 Eyeball
 
 The eyeball is sometimes referred to by compounds which include a term meaning something
-like the kernel or flesh or substance of the eye. Reflexes of POc *kanoŋ ‘flesh, meat, coconut
-flesh’ (vol.3:370) combined with reflexes of *mata ‘eye’ are used to refer to ‘eyeball’ in a
-number of languages, pointing to POc *kanoŋ qi mata ‘eyeball’.
+like the kernel or flesh or substance of the eye. Reflexes of POc _*kanoŋ_ ‘flesh, meat, coconut
+flesh’ (vol.3:370) combined with reflexes of _*mata_ ‘eye’ are used to refer to ‘eyeball’ in a
+number of languages, pointing to POc _*kanoŋ qi mata_ ‘eyeball’.
 
 <
 POc *|kanoŋ qi mata| ‘eyeball’
@@ -5731,24 +5731,24 @@ POc *|kanoŋ qi mata| ‘eyeball’
 Other compounds, similar in meaning but varying in form, include:
 
 __formgroup__
-  Adm: Loniu                cili-mata          ‘eyeball’ (cili ‘sprout’)
-  NNG: Kove                 |mata kaliro|        ‘eyeball’ (kaliro ‘breadfruit seed’)
-  SES: Kwaio                |lodona mā- |        ‘eyeball’ (lodo ‘fruit’)
-  NCV: Tamambo              |tolui mata-   |     ‘eyeball’ (tolu ‘testicles, toltoa ‘egg’)
-  Fij: Bauan                |yaloka ni mata|     ‘eyeball’ (yaloka ‘egg’)
-  Pn:  Niuean               tega-mata          ‘eyeball’ (tega ‘seed’)
-  Pn:  Samoan               ʔiʔo-i-mata        ‘eyeball’ (ʔiʔo ‘tuber, corm’)
-  Pn:  Tikopia              |kafi mata|          ‘eyeball’ (kafi ‘lump of flesh’; cf. kanofi)
+  Adm: Loniu                cili-mata          ‘eyeball’ (_cili_ ‘sprout’)
+  NNG: Kove                 |mata kaliro|        ‘eyeball’ (_kaliro_ ‘breadfruit seed’)
+  SES: Kwaio                |lodona mā- |        ‘eyeball’ (_lodo_ ‘fruit’)
+  NCV: Tamambo              |tolui mata-   |     ‘eyeball’ (_tolu_ ‘testicles, toltoa ‘egg’)
+  Fij: Bauan                |yaloka ni mata|     ‘eyeball’ (_yaloka_ ‘egg’)
+  Pn:  Niuean               tega-mata          ‘eyeball’ (_tega_ ‘seed’)
+  Pn:  Samoan               ʔiʔo-i-mata        ‘eyeball’ (_ʔiʔo_ ‘tuber, corm’)
+  Pn:  Tikopia              |kafi mata|          ‘eyeball’ (_kafi_ ‘lump of flesh’; cf. _kanofi_)
 
 
 3.4.10 Ear
 
-POc *taliŋa- was not only the term for ‘ear’ but also the generic term for mushrooms and
+POc _*taliŋa-_ was not only the term for ‘ear’ but also the generic term for mushrooms and
 fleshy fungi (vol.3:78). The association between the two was presumably based either on visual
 similarity or on the fact that fungi often grow on trees in the rain forest just as ears appear to
 grow on the side of the human head. That the association had a conceptual basis is attested by
 the fact that in certain Oceanic languages where the term for ‘ear’ is not a reflex of POc
-*taliŋa-, the ‘ear’ term is still the generic term for fungi.
+_*taliŋa-_, the ‘ear’ term is still the generic term for fungi.
 
 122 Meredith Osmond and Malcolm Ross
 
@@ -5805,7 +5805,7 @@ POc *taliŋa ‘generic term for mushrooms and fleshy fungi’
 
 3.4.11.1 Nose
 
-POc *icuŋ ‘nose’ probably also had the senses ‘cape of land’ (vol.2:47) and ‘canoe
+POc _*icuŋ_ ‘nose’ probably also had the senses ‘cape of land’ (vol.2:47) and ‘canoe
 prow’ (vol.1:189).
 
 <
@@ -5828,7 +5828,7 @@ POc *icuŋ ‘nose’ (vol.1:189)
  MM:  Sursurunga       (ŋ)isu-        ‘nose’
  MM:  Teop             ihu-           ‘nose’
  MM:  Nduke            isu-           ‘nose’
- MM:  Roviana          isu-           ‘face’ (for †isuŋu); ‘nose’
+ MM:  Roviana          isu-           ‘face’ (for †_isuŋu_); ‘nose’
  SES: Gela             ihu-           ‘nose; beak; cape of land’
  SES: Lau              isu-           ‘prow and stern erections of a canoe’
  SES: Arosi            isu-isu-       ‘nose ornament, made of clam shell’
@@ -5848,46 +5848,46 @@ POc *icuŋ ‘nose’ (vol.1:189)
 124 Meredith Osmond and Malcolm Ross
 
 
-    There is also evidence for POc *bwa(l,R)usu- ‘nose’. Its SE Solomonic and Micronesian
-reflexes form part of the evidence on which Blust (1984b, 2010) bases his Malaitan-
-Micronesian subgroup. In the context of the additional cognates listed here, his Proto
-Malaitan-Micronesian *pwaRusu- is less convincing as a uniquely shared innovation. Blust
-dismisses Lou pursu- as a ‘chance resemblance’ on the grounds that Lou -r- does not reflect
-*-R- (it reflects *-r-). The -l- of the MM reflexes here also fails to agree with the Micronesian
-reflexes as the former reflect POc *-l-, the latter POc *-R- (the SES cognates reflect either *-l-
-or *-R-). Whatever the reason for these discrepancies, it is difficult to attribute the
+    There is also evidence for POc _*bʷa(l,R)usu-_ ‘nose’. Its SE Solomonic and Micronesian
+reflexes form part of the evidence on which Blust (1984b, 2010) bases his Malaitan-Micronesian
+subgroup. In the context of the additional cognates listed here, his Proto
+Malaitan-Micronesian _*pʷaRusu-_ is less convincing as a uniquely shared innovation. Blust
+dismisses Lou _pursu-_ as a ‘chance resemblance’ on the grounds that Lou _-r-_ does not reflect
+_*-R-_ (it reflects _*-r-_). The _-l-_ of the MM reflexes here also fails to agree with the Micronesian
+reflexes as the former reflect POc _*-l-_, the latter POc _*-R-_ (the SES cognates reflect either _*-l-_
+or _*-R-_). Whatever the reason for these discrepancies, it is difficult to attribute the
 resemblances across the set to chance.
 
     This set is rendered more difficult by the presence of a number of look-alikes in NCV
 languages (a sample is given under ‘cf. also’). Of these, the most attention grabbing is Sowa
-(Pentecost) bʷa-ŋsu- (Tryon 1976), where nearby Apma has ŋusu-, presumably reflecting POc
-*ŋuju- ‘external mouth, lips, snout, beak’ (§3.4.12.1) and suggesting that Sowa bʷa-ŋsu-
-reflects *bʷa- + *ŋuju-. This in turn raises the question whether the same *bʷa- occurs in the
-reconstruction below, but the evidence does not allow a clear answer. Araki ŋalsu-, Aore
-kalsu-, Lendamboi na-gars- and Nisvai na-gursu- are typical of the Santo and Malakula forms
-which complicate the picture yet more. None of them reflects *bʷa-, but Araki and Aore
-include the sequence lsu-, perhaps cognate with lisu-, the term for ‘nose’ in Maewo languages.
+(Pentecost) _bʷa-ŋsu-_ (Tryon 1976), where nearby Apma has _ŋusu-_, presumably reflecting POc
+_*ŋuju-_ ‘external mouth, lips, snout, beak’ (§3.4.12.1) and suggesting that Sowa _bʷa-ŋsu-_
+reflects _*bʷa-_ + _*ŋuju-_. This in turn raises the question whether the same _*bʷa-_ occurs in the
+reconstruction below, but the evidence does not allow a clear answer. Araki _ŋalsu-_, Aore
+_kalsu-_, Lendamboi _na-gars-_ and Nisvai _na-gursu-_ are typical of the Santo and Malakula forms
+which complicate the picture yet more. None of them reflects _*bʷa-_, but Araki and Aore
+include the sequence _lsu-_, perhaps cognate with _lisu-_, the term for ‘nose’ in Maewo languages.
 Is it also cognate with the MM and SES forms? One cannot be sure.
 
 <
-POc *bwa(l,R)usu- ‘nose’ (PEOc *bwaRucu: Geraghty 1990)
+POc *bʷa(l,R)usu- ‘nose’ (PEOc _*bʷaRucu_: Geraghty 1990)
   MM: Konomala             bulsu-          ‘nose’
   MM: Minigir              bilausu-        ‘nose’
   MM: Tolai                bilau-          ‘nose’
   MM: Label                bulsu-          ‘nose’
 Proto Southeast Solomonic *bʷa(l,R)usu- ‘nose’
-  SES: Longgu              bwalasu-        ‘nose’
-  SES: Lau                 gwalusu-        ‘nose’
+  SES: Longgu              bʷalasu-        ‘nose’
+  SES: Lau                 gʷalusu-        ‘nose’
   SES: Sa’a                pʷalusu-        ‘nose, nostril, beak of bird, snout of pig’
-  SES: Arosi               bwarisu-        ‘nose, beak of bird’
-  NCV: Sakao               e-ðelhö-        ‘nose’ (< *balisu; Clark 2009)
+  SES: Arosi               bʷarisu-        ‘nose, beak of bird’
+  NCV: Sakao               e-ðelhö-        ‘nose’ (< _*balisu_; Clark 2009)
 PMic *pʷauSu- ‘nose’ (Bender et al., 2003)
-  Mic: Kiribati            pwairi-         ‘nose’
+  Mic: Kiribati            pʷairi-         ‘nose’
   Mic: Chuukese            pʷə̄tɨ-          ‘nose’
-  Mic: Carolinian          bwɔtɨ-          ‘nose’
+  Mic: Carolinian          bʷɔtɨ-          ‘nose’
   Mic: Puluwatese          pʷɔtɨ-          ‘nose’
 cf. also:
-  Adm: Lou                 pursu-             ‘nose, snout, beak’ (-r- for expected -l-)
+  Adm: Lou                 pursu-             ‘nose, snout, beak’ (_-r-_ for expected _-l-_)
   NCV: Sowa                bʷa-ŋsu-           ‘nose’ (Tryon 1976)
   NCV: Araki               ŋalsu-             ‘nose’
   NCV: Aore                kalsu-             ‘nose’ (Tryon 1976)
@@ -5900,15 +5900,15 @@ cf. also:
 
 3.4.11.2   Channel above the upper lip
 
-Although a number of reflexes of POc *ŋoro-ŋorok are glossed ‘nose’ (and by extension ‘cape’;
+Although a number of reflexes of POc _*ŋoro-ŋorok_ are glossed ‘nose’ (and by extension ‘cape’;
 vol 2:48), the term apparently referred in POc times to ‘channel above upper lip’, its meaning
 transferred independently in daughter-languages. Given their formal and semantic similarity it
-is reasonable to infer that PNCV *ŋori reflects POc *ŋoro-ŋorok, despite the irregular final
-vowel. We take *ŋoro-ŋorok to be a reduplicated form of the noun *ŋorok ‘snot’ (§3.8.3) and/or
-the verb *ŋorok ‘grunt, growl, snore’ (§4.5.3).
+is reasonable to infer that PNCV _*ŋori_ reflects POc *ŋoro-ŋorok, despite the irregular final
+vowel. We take _*ŋoro-ŋorok_ to be a reduplicated form of the noun _*ŋorok_ ‘snot’ (§3.8.3) and/or
+the verb _*ŋorok_ ‘grunt, growl, snore’ (§4.5.3).
 
 <
-POc *ŋoro-ŋorok ‘channel above upper lip’ (cf. *ŋorok ‘snore’; vol.2:48)
+POc *ŋoro-ŋorok ‘channel above upper lip’ (cf. _*ŋorok_ ‘snore’; vol.2:48)
  Adm: Loniu              ŋo-                ‘nose, beak’
  NNG: Sio                i-ŋo-ŋoro-         ‘nose’
  NNG: Notsi              ŋul-ŋul            ‘nose’
@@ -5940,7 +5940,7 @@ __formgroup__
   PT:  Tawala                  |niu domo-na |     ‘nostril’ (lit. ‘nose hole-its’)
   NCV: Lonwolwol               |bʊlʊ-n gʊhu-|     ‘nostril’ (lit. ‘hole-its nose’)
 
-   PNPn used the phrase *poŋa qi isu, literally ‘orifice of nose’:
+   PNPn used the phrase _*poŋa qi isu_, literally ‘orifice of nose’:
 
 <
 PNPn *|poŋa qi isu| ‘nostril’
@@ -5957,16 +5957,16 @@ PNPn *|poŋa qi isu| ‘nostril’
 
 3.4.12 The mouth and its parts
 
-Four POc terms referring to the mouth have been reconstructed: *ŋuju-, *[pʷa]pʷa(q), *qawa
-and *maŋa. POc *ŋuju- probably referred to the external mouth and lips, its reflexes sometimes
-extending to bird’s beak or nose, while POc *[pʷa]pʷa(q) referred to the inner mouth or
-opening and *qawa perhaps had the broader meaning ‘opening into a passage or channel’. POc
-*maŋa may have referred more broadly to an opening. Other extensions of its meaning are to a
+Four POc terms referring to the mouth have been reconstructed: _*ŋuju-_, _*[pʷa]pʷa(q)_, _*qawa_
+and _*maŋa_. POc _*ŋuju-_ probably referred to the external mouth and lips, its reflexes sometimes
+extending to bird’s beak or nose, while POc _*[pʷa]pʷa(q)_ referred to the inner mouth or
+opening and _*qawa_ perhaps had the broader meaning ‘opening into a passage or channel’. POc
+_*maŋa_ may have referred more broadly to an opening. Other extensions of its meaning are to a
 particularly shaped opening such as a slit or vagina, or opening as in a passage through a reef.
 
 3.4.12.1 External mouth
 
-Blust (ACD) glosses PAn *ŋusuq ‘nasal area, snout’. We add ‘mouth’ here, as glosses referring
+Blust (ACD) glosses PAn _*ŋusuq_ ‘nasal area, snout’. We add ‘mouth’ here, as glosses referring
 to ‘mouth’ are found across Austronesian subgroups.
 
 <
@@ -5975,7 +5975,7 @@ POc *ŋuju- ‘external mouth, lips, snout, beak’ (PWOc _*ŋuju_ ‘carved pro
   Adm: Lou              ŋusu-               ‘lip’
   Adm: Mussau           ŋusu-               ‘nose’ ; (VT) ‘to smell’
   Adm: Tenis            ŋuso(ŋo)            ‘nose’
-  Adm: Loniu            (pɔʔɔ)ŋusu          ‘lip’ (pɔʔɔ ‘within’)
+  Adm: Loniu            (pɔʔɔ)ŋusu          ‘lip’ (_pɔʔɔ_ ‘within’)
   NNG: Gitua            ŋuzu                ‘smell’
   NNG: Takia            ŋudu(n)             ‘nose’
   MM: W Kara            ŋusu-               ‘mouth’
@@ -5991,9 +5991,9 @@ POc *ŋuju- ‘external mouth, lips, snout, beak’ (PWOc _*ŋuju_ ‘carved pro
   NCV: Neve’ei          ŋus-ŋus             ‘breathe’
   NCV: Uripiv           o-ŋus               ‘sniff’
   Fij: Bauan            ŋusu                ‘mouth’
-  Fij: Bauan            |bele ni ŋusu-|       ‘lips’ (bele ‘border, edge of some soft things’)
+  Fij: Bauan            |bele ni ŋusu-|       ‘lips’ (_bele_ ‘border, edge of some soft things’)
   Fij: Wayan            ŋusu                ‘external mouth of a person or animal’
-  Fij: Rotuman          nucu                ‘mouth’ (n- for †ŋ-)
+  Fij: Rotuman          nucu                ‘mouth’ (_n-_ for †_ŋ-_)
 PPn *ŋutu ‘mouth, beak’ (POLLEX)
   Pn:  Tongan           ŋutu                ‘mouth, beak, orifice’
   Pn:  Rennellese       ŋutu                ‘mouth’
@@ -6016,20 +6016,20 @@ PPn *lau-ŋutu ‘lips’ (lau ‘particle found before a number of bases, most 
 
 3.4.12.2 Lips
 
-The data support two POc reconstructions for ‘lips’, *[pi]piRi- and *[bi]biRi-, both reflecting
-PAn *biRbiR, PMP *bibiR. As noted in vol.2 (p18), PMP *b became either POc *p or POc *b,
-in initial position more commonly *p-. In almost every instance Oceanic cognates reflect either
-POc *p- or POc *b-, but not both. In this instance, however, PMP *bibiR has given rise to two
-etyma, POc *[pi]piRi- and POc *[bi]biRi-. We have no explanation for PWOc *b- in this
+The data support two POc reconstructions for ‘lips’, _*[pi]piRi-_ and _*[bi]biRi-_, both reflecting
+PAn _*biRbiR_, PMP _*bibiR_. As noted in vol.2 (p18), PMP _*b_ became either POc _*p_ or POc _*b_,
+in initial position more commonly _*p-_. In almost every instance Oceanic cognates reflect either
+POc _*p-_ or POc _*b-_, but not both. In this instance, however, PMP _*bibiR_ has given rise to two
+etyma, POc _*[pi]piRi-_ and POc _*[bi]biRi-_. We have no explanation for PWOc _*b-_ in this
 instance.
 
 <
 PAn *biRbiR ‘lip’ (ACD)
 PMP *bibiR ‘lip; labia of the vulva; eyelid’ (ACD)
 POc *[pi]piRi- ‘lip’ (ACD)
-  NNG: Biliau             fari-              ‘lips’ (-a- for †-i- unexplained)
-  NNG: Mindiri            fari-              ‘lips’ (-a- for †-i- unexplained)
-  NNG: Takia              fari(n)            ‘lips’ (-a- for †-i- unexplained)
+  NNG: Biliau             fari-              ‘lips’ (_-a-_ for †_-i-_ unexplained)
+  NNG: Mindiri            fari-              ‘lips’ (_-a-_ for †_-i-_ unexplained)
+  NNG: Takia              fari(n)            ‘lips’ (_-a-_ for †_-i-_ unexplained)
   NNG: Gedaged            filị(ŋa)-          ‘lips, snout’
   PT:  Mekeo              fifi-              ‘lips’
   PT:  W Mekeo            pipi-              ‘lips’
@@ -6038,8 +6038,8 @@ POc *[pi]piRi- ‘lip’ (ACD)
   SES: Kwaio              |fe-felu (ŋidu-)|    ‘lip’
   SES: Kwaio              |fe-felu (i māna)|   ‘eyelid’
   SES: ’Are’are           hihi-                ‘labia’
-  NCV: NE Ambae           |viviri (siŋona)|    ‘lips’ (siŋona ‘lips incl. skin above and below’)
-  NCV: Araki              |(huri) vivi|        ‘lips’ (huri ‘skin’)
+  NCV: NE Ambae           |viviri (siŋona)|    ‘lips’ (_siŋona_ ‘lips incl. skin above and below’)
+  NCV: Araki              |(huri) vivi|        ‘lips’ (_huri_ ‘skin’)
 >
 
 <
@@ -6098,8 +6098,8 @@ cf. also:
    MM: Nakanai            (si)vava             ‘chin, jaw’
 >
 
-[21] Blust (ACD) reconstructs *bahaq, but his discussion implies that reduplication occurred in
-early Malayo-Polynesian as a result of reduction to *baq.
+[21] Blust (ACD) reconstructs _*bahaq_, but his discussion implies that reduplication occurred in
+early Malayo-Polynesian as a result of reduction to _*baq_.
 
                                                                               The human body 129
 
@@ -6136,34 +6136,34 @@ PPn *awa ‘channel, passage through reef’[22]
  Pn:  Rapanui       aba           ‘channel, crack, crevice, ditch’
 >
 
-   Finally, some Oceanic languages have a term for ‘mouth’ that reflects POc *maŋa(p)
+   Finally, some Oceanic languages have a term for ‘mouth’ that reflects POc _*maŋa(p)_
 (V) ‘to open wide, gape’, (N) ‘open mouth; gap, space’. The supporting cognate set is
-given in §4.5.5. POc *maŋa(p) in its turn reflected PMP *q<um>aŋa[p,b] ‘gape, open
-the mouth wide’ (where *<um> was the PMP actor voice infix; §1.3.5.5). Blust (ACD)
-attributes two of these reflexes, Arosi maŋa ‘an opening, mouth’ and Bauan Fijian
-maŋa ‘vagina’, to PMP *maŋaq ‘slit, crevice’ (ACD). However, the glosses of the set
-of Oceanic reflexes in §4.5.5 include a range of meanings centring on ‘opening, aper-
-ture’ (‘mouth’, ‘vagina’, ‘space between earth and sky’), pointing to a more probable
-origin in PMP *q<um>aŋa[p,b] rather than PMP *maŋaq. But, since the two PMP
+given in §4.5.5. POc _*maŋa(p)_ in its turn reflected PMP _*q<um>aŋa[p,b]_ ‘gape, open
+the mouth wide’ (where _*<um>_ was the PMP actor voice infix; §1.3.5.5). Blust (ACD)
+attributes two of these reflexes, Arosi _maŋa_ ‘an opening, mouth’ and Bauan Fijian
+_maŋa_ ‘vagina’, to PMP _*maŋaq_ ‘slit, crevice’ (ACD). However, the glosses of the set
+of Oceanic reflexes in §4.5.5 include a range of meanings centring on ‘opening, aperture’
+(‘mouth’, ‘vagina’, ‘space between earth and sky’), pointing to a more probable
+origin in PMP _*q<um>aŋa[p,b]_ rather than PMP _*maŋaq_. But, since the two PMP
 terms would have had near-identical POc reflexes, one could argue that the cognate
-set supporting POc *maŋa(p) reflects a conflation of the two terms.
+set supporting POc _*maŋa(p)_ reflects a conflation of the two terms.
 
 -- FIXME: erratum vol2 --
 
-[22] In vol.2:.111 PPn *awa was incorrectly listed as a reflex of POc *sawa(n,ŋ)
-‘channel, passage’ with unexplained loss of *s-.
+[22] In vol.2:.111 PPn _*awa_ was incorrectly listed as a reflex of POc _*sawa(n,ŋ)_
+‘channel, passage’ with unexplained loss of _*s-_.
 
 130 Meredith Osmond and Malcolm Ross
 
 
 3.4.12.4 Tongue
 
-There are two related POc reconstructions for ‘tongue’, *maya- and a compound that includes
-it, *kara-maya-. The origin of *kara- in the latter is unknown.
+There are two related POc reconstructions for ‘tongue’, _*maya-_ and a compound that includes
+it, _*kara-maya-_. The origin of _*kara-_ in the latter is unknown.
 
-     Most reflexes of *maya- entail a reduction of *-ay- or *-ya- to -e-, but the Bariai, Kilivila
-and Roro reflexes point to *maya-. The compound is reconstructed as *kara-maya- rather than
-*kara-mea-, on the model of *maya-.
+     Most reflexes of _*maya-_ entail a reduction of _*-ay-_ or _*-ya-_ to _-e-_, but the Bariai, Kilivila
+and Roro reflexes point to _*maya-_. The compound is reconstructed as _*kara-maya-_ rather than
+_*kara-mea-_, on the model of _*maya-_.
 
 <
 PCEMP *maya ‘tongue’ (Blust 1993)
@@ -6188,14 +6188,14 @@ POc *maya- ‘tongue’
   NCV: Raga            mea-                    ‘tongue’
   NCV: Tamambo         me-me-                  ‘tongue’
   SV: Lenakel          na-mə-                  ‘tongue’
-  Fij:  Bauan          (ya)me-                 ‘tongue’ (ya- prefix added to some body part terms)
+  Fij:  Bauan          (ya)me-                 ‘tongue’ (_ya-_ prefix added to some body part terms)
   Fij:    Wayan             -mē                ‘tongue’
 >
 
 <
 POc *kara-maya- ‘tongue’
  Adm: Lou                kar-mɛ-            ‘tongue’
- Adm: Loniu              (pala)keʔi-me-     ‘tongue’ (pala ‘head’)
+ Adm: Loniu              (pala)keʔi-me-     ‘tongue’ (_pala_ ‘head’)
  MM: Nakanai             kala-mea-          ‘tongue’
  MM: Notsi               kali-mə-           ‘tongue’
  MM: Tabar               kara-me-           ‘tongue’
@@ -6232,12 +6232,12 @@ Proto Meso-Melanesian *lap(e,i)- ‘tongue’
 
 3.4.12.5 Teeth
 
-POc *nipo- and POc *lipo- ‘tooth’ coexisted. Both *n- and *l- forms are reconstructable at least
+POc _*nipo-_ and POc _*lipo-_ ‘tooth’ coexisted. Both _*n-_ and _*l-_ forms are reconstructable at least
 as far back as PAn, and both must be attributed to POc. The fact that the two forms have existed
 side by side for such a long time is intriguing, as there is no difference in meaning. Kwaio is the
 only language among the data sources that reflects both.
 
-    In a number of languages the term for teeth is a reflex of POc *ŋisi or *[ŋi]ŋisa, both
+    In a number of languages the term for teeth is a reflex of POc _*ŋisi_ or _*[ŋi]ŋisa_, both
 glossed ‘bare one’s teeth, grin’. Since these forms were evidently verbs, they are discussed in
 §4.7.2.
 
@@ -6254,15 +6254,14 @@ POc *nipo- ‘tooth’
   Pn:  Tongan           nifo                ‘tooth’
   Pn:  Rennellese       niho                ‘tooth’
   Pn:  Samoan           nifo                ‘tooth’
-  Pn:  Samoan           (ʔau)nifo           ‘gums’ (ʔau- ‘classifying prefix used esp. with bases referring to long and often narrow things; also to sets or clusters of things’)
+  Pn:  Samoan           (ʔau)nifo           ‘gums’ (_ʔau-_ ‘classifying prefix used esp. with bases referring to long and often narrow things; also to sets or clusters of things’)
   Pn:  Tikopia          nifo               ‘tooth, of man or animal’
   Pn:  Hawaiian         niho               ‘tooth, crab claw, insect nipper’
 cf. also:
-  PT:  Kukuya           niho-              ‘tooth’ (h for †p)
+  PT:  Kukuya           niho-              ‘tooth’ (_h_ for †_p_)
 >
 
 132 Meredith Osmond and Malcolm Ross
-
 
 
 <
@@ -6317,41 +6316,41 @@ POc *paRa(ŋ) ‘molar tooth’
 cf. also:
  Adm: Lou                areŋa-              ‘molar tooth’
  MM: Minigir             pala-               ‘tooth’
- MM: Tolai               pala(ŋie)-          ‘teeth’ (ŋie-‘mouth’)
+ MM: Tolai               pala(ŋie)-          ‘teeth’ (_ŋie-_ ‘mouth’)
 >
 
-With regard to the relationship between PMP *baReqaŋ and POc *paRa(ŋ) Blust (ACD) notes
+With regard to the relationship between PMP _*baReqaŋ_ and POc _*paRa(ŋ)_ Blust (ACD) notes
 that
 
 __blockquote__
-       medial *-e- in a trisyllable is retained in PAn *baqeRu > POc *paqoRu ‘new’. The
-       suggested loss of PMP *e and reduction of the resulting consonant cluster in POc *paRaŋ
-       ‘molar tooth’ may indicate very specific conditions for deletion of *e between PMP and
+       medial _*-e-_ in a trisyllable is retained in PAn _*baqeRu_ > POc _*paqoRu_ ‘new’. The
+       suggested loss of PMP _*e_ and reduction of the resulting consonant cluster in POc _*paRaŋ_
+       ‘molar tooth’ may indicate very specific conditions for deletion of _*e_ between PMP and
        POc. Alternatively, the resemblance of Arosi hara to phonetically and semantically similar
        forms in non-Oceanic languages may be due to chance.
 
-However, the occurrence of the Lukep and Tuam forms alongside Arosi hara- indicates that the
+However, the occurrence of the Lukep and Tuam forms alongside Arosi _hara-_ indicates that the
 resemblance is not fortuitous.
 
     Two further vaguely similar reconstructions for ‘molar tooth’ can be reconstructed. In the
-set reflecting *ŋaRo- the gloss of Misima nalu- ‘gums’ suggests that it reflects POc *ŋado-
+set reflecting _*ŋaRo-_ the gloss of Misima _nalu-_ ‘gums’ suggests that it reflects POc _*ŋado-_
 ‘gums’ (§3.4.12.6), but this is probably a case of contamination of one form by the other. Note
-in any case that two reflexes of PWOc *mwao- ‘molar tooth’ below instead denote the gums,
+in any case that two reflexes of PWOc _*mʷao-_ ‘molar tooth’ below instead denote the gums,
 i.e. this is perhaps a fairly common extension of meaning.
 
 <
 POc *ŋaRo- ‘molar tooth’
  Adm: Mussau             ŋalu-ŋalu-                   ‘tooth’
- Adm: Mussau             |ŋalu-ŋalu (katu)|          ‘molar tooth’ (katu ‘seed’)
+ Adm: Mussau             |ŋalu-ŋalu (katu)|          ‘molar tooth’ (_katu_ ‘seed’)
  NNG: Kairiru            ŋar̃o-                       ‘tooth’
- NNG: Kove               ŋaro-                        ‘molars’ (r for †h)
+ NNG: Kove               ŋaro-                        ‘molars’ (_r_ for †_h_)
  PT:    Misima           nalu-                        ‘gums’
  Pn:    Tongan           ŋao                          ‘molars’
  Pn:    Samoan           ŋao                          ‘molar tooth’
 >
 
 <
-PWOc *mwao- ‘molar tooth’
+PWOc *mʷao- ‘molar tooth’
  NNG: Gedaged           (ga)mau-                      ‘molars’
  NNG: Takia             (ga)ma-                       ‘molar tooth’
  PT:   Kukuya           moa-                          ‘gums’ (metathesis)
@@ -6360,7 +6359,7 @@ PWOc *mwao- ‘molar tooth’
  MM: Nakanai            (bigo)mu-                     ‘molar teeth’
 >
 
-     The POc term for ‘canine tooth’, *bati, is also used for a boar’s tusks (vol.4:266).
+     The POc term for ‘canine tooth’, _*bati_, is also used for a boar’s tusks (vol.4:266).
 
 [23] It is not clear exactly what this gloss means.
 
@@ -6383,14 +6382,14 @@ PSOc *bati- ‘tusk, upper canine tooth’ (Lynch 2004d)
   NCal: Nemi         paye(hwa-)        ‘tooth’
   Fij:  Bauan        bati-             ‘tooth; any sharp edge’
 cf. also:
-  PT:   Lala         asi-ʔasi          ‘molar’ (ʔ for †b-)
+  PT:   Lala         asi-ʔasi          ‘molar’ (_ʔ_ for †_b-_)
 >
 
-   Some reflexes of PNGOc *joŋa ‘(boar’s) tusk’ (vol.4:267) refer also to teeth.
+   Some reflexes of PNGOc _*joŋa_ ‘(boar’s) tusk’ (vol.4:267) refer also to teeth.
 
 3.4.12.6 Gums
 
-POc *ŋado- ‘gums’ bears an obvious resemblance to *ŋaRo- ‘molar tooth’ above, but the
+POc _*ŋado-_ ‘gums’ bears an obvious resemblance to _*ŋaRo-_ ‘molar tooth’ above, but the
 difference in medial consonant and in gloss indicate that they are distinct.
 
 <
@@ -6413,17 +6412,16 @@ PMic *ŋaco- ‘palate, gums’ (Bender et al., 2003)
 
 Austronesian languages usually lack separate words for ‘chin’, i.e. the outward shape of the
 lowest and frontmost part of the lower jaw, and the lower ‘jaw’ itself. They are typically
-denoted in Oceanic languages by a reflex of POc *qase- or by a compound that apparently
-contains a reflex of POc *qase-. PPn *kau-qahe ‘cheek, chin, jawbone’ is evidently such a
-compound. PPn *kau meant ‘edge, side’, and *kau-qahe presumably once meant ‘edge of jaw’,
-i.e. ‘chin’, but with the loss of PPn *qahe ‘jaw’, *kau-qahe came to subsume ‘chin’ and ‘jaw’.
-Another possible compound, POc *(k,g)abase- ‘chin; jawbone’, is discussed below.
+denoted in Oceanic languages by a reflex of POc _*qase-_ or by a compound that apparently
+contains a reflex of POc _*qase-_. PPn _*kau-qahe_ ‘cheek, chin, jawbone’ is evidently such a
+compound. PPn _*kau_ meant ‘edge, side’, and _*kau-qahe_ presumably once meant ‘edge of jaw’,
+i.e. ‘chin’, but with the loss of PPn _*qahe_ ‘jaw’, _*kau-qahe_ came to subsume ‘chin’ and ‘jaw’.
+Another possible compound, POc _*(k,g)abase-_ ‘chin; jawbone’, is discussed below.
 
                                                                         The human body 135
 
 
-
-    The term for ‘beard’, POc *kumi-, was clearly distinct from the term for ‘chin, jaw’, but its
+    The term for ‘beard’, POc _*kumi-_, was clearly distinct from the term for ‘chin, jaw’, but its
 meaning has been extended to include the latter in a number of languages.
 
 <
@@ -6431,7 +6429,7 @@ PMP *qazay ‘chin, jaw’ (ACD)
 POc *[qase]qase- ‘chin, jaw’ (Ross 1988, ACD)
  Adm: Seimat              axe-              ‘chin, jaw’
  NNG: Manam               are-              ‘chin’
- NNG: Manam               |are patu|          ‘jawbone’ (patu ‘stone’?)
+ NNG: Manam               |are patu|          ‘jawbone’ (_patu_ ‘stone’?)
  NNG: Kove                aze-ze            ‘chin’
  NNG: Bukawa              (ŋ)ase            ‘jaw, chin’
  PT:    Tawala            ah-ahe-           ‘jawbone, chin’
@@ -6466,7 +6464,7 @@ POc *[qase]qase- ‘chin, jaw’ (Ross 1988, ACD)
  Mic: Carolinian          æte-              ‘chin’
  Mic: Puluwatese          yǣt               ‘chin, especially its bottom’
   Mic: Woleaian          yat(e)            ‘chin, jaw’
-PPn *kau-qahe ‘cheek, chin, jawbone’ (POLLEX) (*kau ‘edge, side’)
+PPn *kau-qahe ‘cheek, chin, jawbone’ (POLLEX) (_*kau_ ‘edge, side’)
   Pn:    Tongan          kou-ʔahe          ‘cheek, side of face’
   Pn:    Samoan          ʔau-vae           ‘jaw, chin’
   Pn:    Tikopia         kau-ae            ‘jaw, chin’
@@ -6477,12 +6475,12 @@ PPn *kau-qahe ‘cheek, chin, jawbone’ (POLLEX) (*kau ‘edge, side’)
 136 Meredith Osmond and Malcolm Ross
 
 
-    POc *(k,g)abase- ‘chin; jawbone’ at first sight appears to have been a compound of
-*(k,g)abV (meaning unknown) and *qase- ‘chin, jaw’, but only the Lou and Baluan reflexes
+    POc _*(k,g)abase-_ ‘chin; jawbone’ at first sight appears to have been a compound of
+_*(k,g)abV_ (meaning unknown) and _*qase-_ ‘chin, jaw’, but only the Lou and Baluan reflexes
 straightfowardly reflect the reconstructed vowels (and disagree on the initial consonant). Bipi
-and the Meso-Melanesian reflexes instead reflect a possible POc *(k,g)abesi- or *(k,g)abise-,
+and the Meso-Melanesian reflexes instead reflect a possible POc _*(k,g)abesi-_ or _*(k,g)abise-_,
 suggesting that the POc form was a trisyllable with perhaps three different vowels (apparently
-*a, *i and *e) which underwent various metatheses and/or assimilations.
+_*a_, _*i_ and _*e_) which underwent various metatheses and/or assimilations.
 
 <
 POc *(k,g)abase-~*(k,g)abesi-~*(k,g)abise- ‘chin, jawbone’
@@ -6540,34 +6538,33 @@ three terms are given below. Some languages also have monomorphemic terms for th
 apple and the gullet, but sources typically omit these meanings.
 
 __table__
-                                      ‘neck’         ‘voice’         ‘throat’
-               Mutu (NNG)             lua-           aliŋa-          ŋ
-                                                                      garusa-
-               Dobu (PT)              ʔoto-          ʔena-           maga-
-               Nakanai (MM)           holo-          vigia-          golu-
-               To’aba’ita (SES)       lua-           liŋa-           lua-
-               Wayan (Fij)            -domo          -lio            -ŋodro-ŋodro
-               Tongan (Pn)            kia            leʔo            moŋa
+                                  |    ‘neck’    |     ‘voice’    |     ‘throat’
+               Mutu (NNG)         |    _lua-_     |     _aliŋa-_     |     _ᵑgarusa-_
+               Dobu (PT)          |    _ʔoto-_     |     _ʔena-_     |     _maga-_
+               Nakanai (MM)       |    _holo-_     |     _vigia-_     |     _golu-_
+               To’aba’ita (SES)   |    _lua-_     |     _liŋa-_     |     _lua-_
+               Wayan (Fij)        |    _-domo_     |     _-lio_     |     _-ŋodro-ŋodro_
+               Tongan (Pn)        |    _kia_     |     _leʔo_     |     _moŋa_
 
 The most detailed source available to us is Pawley & Sayaba’s (2003) dictionary of Wayan
-Fijian, according to which -domo ‘neck’ is also used for voice, overlapping semantically with -
-lio (both terms are also used of animal vocalisations). Doubtless overlaps of the kind indicated
+Fijian, according to which _-domo_ ‘neck’ is also used for voice, overlapping semantically with
+_-lio_ (both terms are also used of animal vocalisations). Doubtless overlaps of the kind indicated
 by the definitions of the Wayan terms also occur in other Oceanic languages but are not
 recorded by our sources. The only language here to collapse two of these terms is To’aba’ita,
-where the meaning of lua-, originally ‘neck’ (from POc *Ruqa-), has been extended to ‘throat’,
+where the meaning of _lua-_, originally ‘neck’ (from POc _*Ruqa-_), has been extended to ‘throat’,
 presumably after a period of overlap.
 
     Evidently POc also had a three-way distinction among ‘neck’, ‘voice’ and ‘throat’, but four
 terms are reconstructed. The assignment of the first three is straightforward, but the meaning
-of *kadro- is problematic (see below).
+of _*kadro-_ is problematic (see below).
 
 __block__
-   *Ruqa- ‘neck’
-   *[qa]liŋa- ‘voice’
-   *[qa]liqoR ‘throat’
-   *kadro- ‘neck ?’
+-   _*Ruqa-_ ‘neck’
+-   _*[qa]liŋa-_ ‘voice’
+-   _*[qa]liqoR_ ‘throat’
+-   _*kadro-_ ‘neck ?’
 
-   *Ruqa-‘neck’ has largely retained its meaning throughout all subgroups, although isolated
+   _*Ruqa-_ ‘neck’ has largely retained its meaning throughout all subgroups, although isolated
 terms have extended or relocated reference to nearby body parts.
 
 <
@@ -6578,7 +6575,7 @@ POc *Ruqa- ‘neck’
  NNG: Biliau           rua-             ‘neck’
  NNG: Dami             (u)lua-          ‘neck’
  NNG: Sengseng         huwa-            ‘shoulder’
- PT:  Wedau            ua-              ‘neck’ (for †rua-)
+ PT:  Wedau            ua-              ‘neck’ (for †_rua-_)
  MM:  Lihir            lua-             ‘neck’
  MM:  Bilur            a-rua-           ‘neck’
  MM:  Roviana          rua-             ‘neck’
@@ -6609,11 +6606,11 @@ PSV *n(a)-ua- ‘neck’ (Lynch pers. comm.)
 138 Meredith Osmond and Malcolm Ross
 
 
-    POc *[qa]liŋa- ‘voice’ is reflected in languages as far east as the southeast Solomons, but
+    POc _*[qa]liŋa-_ ‘voice’ is reflected in languages as far east as the southeast Solomons, but
 its reflexes are not found further east. East and south of the Solomons, the term for voice is a
-reflex of POc *[qa]liqoR ‘throat’.
+reflex of POc _*[qa]liqoR_ ‘throat’.
 
-     Even closely related languages vary as to whether *qa- is included.24
+     Even closely related languages vary as to whether _*qa-_ is included.[24]
 
 <
 POc *[qa]liŋa- ‘voice’
@@ -6634,17 +6631,16 @@ POc *[qa]liŋa- ‘voice’
  SES: Arosi               riŋe-              ‘voice’
 >
 
-[24]
-     For a brief discussion of *qa-, see §3.5.3.
+[24] For a brief discussion of _*qa-_, see §3.5.3.
+
                                                                         The human body 139
 
 
-
-    Reflexes of *[qa]liqoR mean ‘neck’ or ‘throat’ in languages as far east as the southeast
-Solomons, but in languages further east refer consistently to ‘voice’. Initial *qa- in *[qa]liqoR
-is reflected only in NNG and PT (i.e. NGOc) languages. PNCV *le(q)o ‘word, speech, voice’
-and PPn *leqo ‘voice’ are reflexes of POc *[qa]liqoR ‘neck, throat’. PNCV *daleqo ‘neck,
-throat; voice’ remains unaccounted for, other than to note its similarity to POc *[qa]liqoR
+    Reflexes of _*[qa]liqoR_ mean ‘neck’ or ‘throat’ in languages as far east as the southeast
+Solomons, but in languages further east refer consistently to ‘voice’. Initial _*qa-_ in _*[qa]liqoR_
+is reflected only in NNG and PT (i.e. NGOc) languages. PNCV _*le(q)o_ ‘word, speech, voice’
+and PPn _*leqo_ ‘voice’ are reflexes of POc _*[qa]liqoR_ ‘neck, throat’. PNCV _*daleqo_ ‘neck,
+throat; voice’ remains unaccounted for, other than to note its similarity to POc _*[qa]liqoR_
 ‘neck, throat’.
 
 <
@@ -6658,7 +6654,7 @@ POc *[qa]liqoR ‘throat’
   MM: Bulu                loɣo-            ‘neck; shoulder’
   MM: Bola-Harua          loɣo-            ‘neck; voice’
   MM: Nakanai             loho-            ‘projecting bones of neck; Adam’s apple’
-  MM: Nakanai             loɣol(a)         ‘throat’ (-l- unexpected; probably borrowed)
+  MM: Nakanai             loɣol(a)         ‘throat’ (_-l-_ unexpected; probably borrowed)
   MM: Petats              lio-             ‘throat, neck’
   MM: Roviana             leo-             ‘throat’
   SES: W G’canal          lio-             ‘neck’
@@ -6668,7 +6664,7 @@ POc *[qa]liqoR ‘throat’
   SES: Lengo              lio-             ‘neck’
   SES: Bauro              rio-             ‘neck’
   SES: Kahua              rio-             ‘neck’
-PNCV *le(q)o ‘word, speech, voice’ (Clark 2009) (cf. *daleqo ‘neck, throat; voice’)
+PNCV *le(q)o ‘word, speech, voice’ (Clark 2009) (cf. _*daleqo_ ‘neck, throat; voice’)
   NCV: Mota               leo              ‘word, report, law’
   NCV: Raga               leo              ‘rule, law’
   NCV: Uripiv             na-le            ‘word, language, statement’
@@ -6688,8 +6684,7 @@ PPn *leqo ‘voice’
 140 Meredith Osmond and Malcolm Ross
 
 
-
-The relationship, if any, between POc *[qa]liqoR ‘neck, throat’ and PNCV *daleqo- ‘neck,
+The relationship, if any, between POc _*[qa]liqoR_ ‘neck, throat’ and PNCV _*daleqo-_ ‘neck,
 throat; voice’ is not understood.
 
 <
@@ -6699,15 +6694,15 @@ PNCV *daleqo- ‘neck, throat; voice’ (Clark 2009)
  NCV: Nokuku             ʔalo-              ‘neck’
  NCV: Ninde              ne-dele-           ‘neck’
  NCV: Uripiv             drrela-            ‘voice, noise’
- NCV: Paamese            ree-               ‘voice’ (hi-ree ‘neck, throat’)
- NCV: Port Sandwich      drö-drö-           ‘throat’ (drae- ‘voice, noise’)
+ NCV: Paamese            ree-               ‘voice’ (_hi-ree_ ‘neck, throat’)
+ NCV: Port Sandwich      drö-drö-           ‘throat’ (_drae-_ ‘voice, noise’)
  NCV: Namakir            doloʔo-            ‘voice, language, sound’
  NCV: Nguna              (na-kau)daleo      ‘neck’ (_kau_ ‘handle’, _na-daleo_ ‘voice’)
 >
 
-   POc *kadro- ‘neck’ has reflexes only in Mussau and Western Oceanic, and seems to have
+   POc _*kadro-_ ‘neck’ has reflexes only in Mussau and Western Oceanic, and seems to have
 referred to the neck region generally, to judge from the compound terms for its parts in
-Mussau and Motu. Thus it appears to have been a (near-)synonym of POc *Ruqa-.
+Mussau and Motu. Thus it appears to have been a (near-)synonym of POc _*Ruqa-_.
 
 <
 POc *kadro- ‘neck ?’
@@ -6716,8 +6711,8 @@ POc *kadro- ‘neck ?’
   NNG: Roinji             aro(tua-)          ‘neck’
   NNG: Bam                aro(buku-)         ‘neck’
   PT:  Motu               ɣado-              ‘throat, voice, speech’
-  PT:  Motu               |ɣado baubau|        ‘windpipe’ (baubau ‘bamboo pipe’)
-  PT:  Motu               |ɣado rourou|        ‘Adam’s apple’ (rourou ‘noise’?)
+  PT:  Motu               |ɣado baubau|        ‘windpipe’ (_baubau_ ‘bamboo pipe’)
+  PT:  Motu               |ɣado rourou|        ‘Adam’s apple’ (_rourou_ ‘noise’?)
   PT:    Lala             ato-               ‘neck, throat’
   PT:    Roro             ako-               ‘throat, neck’
   MM:    Patpatar         kado-              ‘neck’
@@ -6751,19 +6746,19 @@ for parts of the trunk moving from the top (shoulder) to the bottom (buttocks an
 
 3.5.1 Back
 
-POc *takuRu- ‘back’ clearly denoted a location, i.e. the posterior surface of an object, and
+POc _*takuRu-_ ‘back’ clearly denoted a location, i.e. the posterior surface of an object, and
 specifically the posterior surface of the human body. But did it also denote the spine as a body
 part? The answer appears to be ‘no’, in that very few glosses of its reflexes include ‘spine’ or
 ‘backbone’ (often encoded with a compound involving the term for ‘bone’), and Oceanic
 languages typically have separate terms for back and backbone.
 
    Another reconstruction sometimes used to refer to the back as a body part is the relational
-local noun POc *muri[-] ‘back part, rear, behind, space to the rear of, time after; (canoe) stern;
+local noun POc _*muri[-]_ ‘back part, rear, behind, space to the rear of, time after; (canoe) stern;
 space outside’ (§3.1.2 and vol.2:251).
 
 <
 POc *takuRu- (N, N LOC) ‘back’ (vol.2:253)
- Adm: Titan               lákulo-           ‘(s.o.’s) back’ (l- for expected †t-)
+ Adm: Titan               lákulo-           ‘(s.o.’s) back’ (_l-_ for expected †_t-_)
  NNG: Sio                 taulo-            ‘behind’
  PT:     Gumasi           tolu-             ‘(s.o.’s) back’
  PT:     Molima           tulu-             ‘(s.o.’s) back’
@@ -6789,7 +6784,7 @@ POc *takuRu- (N, N LOC) ‘back’ (vol.2:253)
  Fij:  Wayan              -takū              ‘back of s.t.; s.o.’s back’
  Fij:  Bauan              daku-              ‘back of s.t.; s.o.’s back’
 cf. also:
- Adm: Wuvulu              uku-               ‘(s.o.’s) back’ (reflects *takuru with loss of first syllable)
+ Adm: Wuvulu              uku-               ‘(s.o.’s) back’ (reflects _*takuru_ with loss of first syllable)
 >
 
 142 Meredith Osmond and Malcolm Ross
@@ -6797,11 +6792,11 @@ cf. also:
 
 3.5.2 Flat of back
 
-No POc term is reconstructable for ‘flat of back’. PPn *papa in *papa-a-tuqa below reflects
-POc *baban ‘flat object or surface; board, plank, canoe strake’ (vol.1:58, 185).[25]
+No POc term is reconstructable for ‘flat of back’. PPn _*papa_ in _*papa-a-tuqa_ below reflects
+POc _*baban_ ‘flat object or surface; board, plank, canoe strake’ (vol.1:58, 185).[25]
 
 <
-PPn *papa-a-tuqa ‘small/flat of back’ (*papa ‘flat surface’, *-a- ‘linker’, *tuqa ‘back’) (POLLEX)
+PPn *papa-a-tuqa ‘small/flat of back’ (_*papa_ ‘flat surface’, _*-a-_ ‘linker’, _*tuqa_ ‘back’) (POLLEX)
   Pn:    Tongan         papa-tuʔa         ‘flat of back’
   Pn:    Samoan         papa-a-tua        ‘small of back’
   Pn:    Pukapukan      papa-a-tua        ‘lower back’
@@ -6811,13 +6806,13 @@ PPn *papa-a-tuqa ‘small/flat of back’ (*papa ‘flat surface’, *-a- ‘lin
 
 3.5.3 Shoulder
 
-POc *[qa]paRa- ‘shoulder’ has usually been reconstructed as a straightforward trisyllable (i.e.
-*qapara), but well distributed reflexes (Gitua, Nakanai, Halia, Selau, Torau, Mono-Alu,
-Nduke, Lungga, Gela, Big Nambas) lack initial *qa-. The same is true of a number of non-
-Oceanic reflexes listed in the ACD. POc *[qa]paRa- is thus one of a small number of trisyllabic
+POc _*[qa]paRa-_ ‘shoulder’ has usually been reconstructed as a straightforward trisyllable (i.e.
+_*qapara_), but well distributed reflexes (Gitua, Nakanai, Halia, Selau, Torau, Mono-Alu,
+Nduke, Lungga, Gela, Big Nambas) lack initial _*qa-_. The same is true of a number of non-Oceanic
+reflexes listed in the ACD. POc _*[qa]paRa-_ is thus one of a small number of trisyllabic
 body part nouns which consist of a disyllabic root (the most common form of POc roots) and
-apparently had forms with and without POc *qa-. Other forms of this kind are POc *[qa]liŋa-
-‘voice’, POc *[qa]liqoR ‘neck, throat’ (both §3.4.14) and POc *[qa]nunu ‘shadow of person,
+apparently had forms with and without POc _*qa-_. Other forms of this kind are POc _*[qa]liŋa-_
+‘voice’, POc _*[qa]liqoR_ ‘neck, throat’ (both §3.4.14) and POc _*[qa]nunu_ ‘shadow of person,
 likeness, reflection’ (§3.9.1). Whilst we can describe this pattern, we do not know its function
 or why alternants apparently survived side by side over a long period.[26]
 
@@ -6826,12 +6821,12 @@ but we cannot say how old this expression is.
 
 [25] The gloss ‘flat object or surface’ was omitted in volume 1.
 
-[26] A few nouns which label plants or animals display the same pattern: PWOc *[qa]pwasu ‘taro leaves’ (?)
-     (vol.3:269), PEOc *[qa]ŋaRi ‘canarium almond’ (vol.3:315), POc *[qa]paliR ‘surgeonfish’ (vol 4:103),
-     POc *[qa]nupe ‘caterpillar or k.o. sea cucumber’ (vol.4:206), POc [qa]yawan ‘strangler fig’ (vol.3:303),
-     POc *[qa]pator ‘sago grub, edible’ (vol.4:404), POc *[qa]liliŋ ‘tapestry turban shell’ (vol.4:182), POc
-     *[qa]lipan ‘centipede’ (vol.4:406). Some of these are reconstructed without the *qa-less alternant, but
-     reflexes reflect absence of *qa-. The only discernible regularity regarding the presence or absence of *qa- in
+[26] A few nouns which label plants or animals display the same pattern: PWOc _*[qa]pwasu_ ‘taro leaves’ (?)
+     (vol.3:269), PEOc _*[qa]ŋaRi_ ‘canarium almond’ (vol.3:315), POc _*[qa]paliR_ ‘surgeonfish’ (vol 4:103),
+     POc _*[qa]nupe_ ‘caterpillar or k.o. sea cucumber’ (vol.4:206), POc _[qa]yawan_ ‘strangler fig’ (vol.3:303),
+     POc _*[qa]pator_ ‘sago grub, edible’ (vol.4:404), POc _*[qa]liliŋ_ ‘tapestry turban shell’ (vol.4:182), POc
+     _*[qa]lipan_ ‘centipede’ (vol.4:406). Some of these are reconstructed without the _*qa_-less alternant, but
+     reflexes reflect absence of _*qa-_. The only discernible regularity regarding the presence or absence of _*qa-_ in
      reflexes is that it is apparently always absent in Gela, with a tendency towards absence in other Guadalcanal
      languages and in New Ireland languages—but absences also occur elsewhere.
 
@@ -6849,9 +6844,9 @@ POc *[qa]paRa- ‘shoulder’
   PT:   Bwaidoga         avala-              ‘his shoulder; carry something on the shoulder’
   PT:   Molima           ʔavala-             ‘shoulder’
   PT:   Molima           avala-              ‘carry, esp. on the shoulder’
-  PT:   Bunama           ahara-              ‘shoulder’ (-r- for †-l-)
+  PT:   Bunama           ahara-              ‘shoulder’ (_-r-_ for †_-l-_)
   MM: Nakanai            pala-               ‘shoulder’
-  MM: Minigir            (ul)avara-          ‘shoulder’ (ul ‘head’)
+  MM: Minigir            (ul)avara-          ‘shoulder’ (_ul_ ‘head’)
   MM: Kandas             kabara              ‘shoulder’
   MM: Halia (Haku)       hala-hala-          ‘shoulder’
   MM: Torau              ara                 ‘shoulder’
@@ -6875,8 +6870,8 @@ cf. also:
    NNG: Kove               wala-             ‘shoulder’
 >
 
-    A second term is reconstructable for PWOc. Initial y- or l- in some reflexes is epenthetic
-following loss of *k-.
+    A second term is reconstructable for PWOc. Initial _y-_ or _l-_ in some reflexes is epenthetic
+following loss of _*k-_.
 
 <
 PWOc *kaRo ‘shoulder’
@@ -6884,8 +6879,8 @@ PWOc *kaRo ‘shoulder’
   NNG: Matukar         yaro-            ‘shoulder’
   NNG: Megiar          yaro-            ‘shoulder’
   PT:  Paiwa           yaro(bebana)     ‘shoulder’
-  PT:  Kukuya          yano-yano-       ‘shoulder’ (-n- is regular reflex of *-R-)
-  PT:  Motu            laro-laro-       ‘shoulder blade’ (*yaro)
+  PT:  Kukuya          yano-yano-       ‘shoulder’ (_-n-_ is regular reflex of _*-R-_)
+  PT:  Motu            laro-laro-       ‘shoulder blade’ (_*yaro_)
   PT: Roro             aro-             ‘shoulder’
   MM: Tabar            kara-kara-       ‘shoulder’
   MM: Lihir            kola-            ‘shoulder’
@@ -6913,19 +6908,19 @@ POc *bʷae- ‘armpit’
  SES: Arosi                       bʷae-bʷae-             ‘armpit’
 >
 
-   POc *qapi-ŋa ‘armpit’ was a nominalisation (*-ŋa) of POc *qapi(n), *qapin-i- ‘hold or
+   POc _*qapi-ŋa_ ‘armpit’ was a nominalisation (_*-ŋa_) of POc _*qapi(n)_, _*qapin-i-_ ‘hold or
 carry under the arm’ (§6.6.2.10).
 
 <
 PMP *qabin ‘hold or carry under the arm’ (ACD)
-POc *qapi-ŋa ‘armpit’ (Geraghty 1983: PEOc *qaviŋa)
+POc *qapi-ŋa ‘armpit’ (Geraghty 1983: PEOc _*qaviŋa_)
   MM: Halia               apia(pits)        ‘armpit, carry under the arm’
 PSOc *qaviŋa ‘armpit; carry under the arm’ (Lynch 2004d)
   NCV: Mota               viŋa-i            ‘armpit’
   NCV: Raga               (mal)aviŋa-       ‘armpit’
   NCV: Paamese            hiŋo-             ‘armpit’
-  Pn:   Niuean            afine             ‘armpit’ (n for †ŋ)
-  Pn:   Tongan            fāʔefine          ‘armpit’ (initial f- irregular)
+  Pn:   Niuean            afine             ‘armpit’ (_n_ for †_ŋ_)
+  Pn:   Tongan            fāʔefine          ‘armpit’ (initial _f-_ irregular)
   Pn:   Rennellese        ʔahiŋa            ‘armpit’
   Pn:   E Futunan         ʔafiŋa            ‘armpit’
   Pn:   Tikopia           afiŋa             ‘armpit’
@@ -6933,14 +6928,14 @@ PSOc *qaviŋa ‘armpit; carry under the arm’ (Lynch 2004d)
 
 3.5.5 Chest
 
-POc *[Ruma]Ruma- ‘chest’ is perhaps derived from POc *Rumaq ‘house’ (vol.1:48). If a
+POc _*[Ruma]Ruma-_ ‘chest’ is perhaps derived from POc _*Rumaq_ ‘house’ (vol.1:48). If a
 Lapita house is viewed as underlyingly a rough-hewn wooden framework (see the illustration
 on p53 of vol.1), then the metaphorical extension of ‘house’ to the chest cavity as a whole,
 bounded by the rib cage and the spine, is visually quite obvious. The same metaphor led to the
-extension of a reflex of POc *kaso ‘rafters’ to the upper rib cage reflected in PPn *kaso-kaso
+extension of a reflex of POc _*kaso_ ‘rafters’ to the upper rib cage reflected in PPn _*kaso-kaso_
 (§3.5.6).
 
-[27] Final *-k- probably the Vitu reflex of POc *-ki ‘not possessed’. See footnote 12.
+[27] Final _*-k-_ probably the Vitu reflex of POc _*-ki_ ‘not possessed’. See footnote 12.
 
                                                                                     The human body 145
 
@@ -6960,7 +6955,7 @@ POc *[Ruma]Ruma- ‘chest’
  Pn:    Maori          uma                            ‘breast, chest’
 >
 
-   The term below appears to be a reduplication of the PPn *fata ‘shelf’, but the semantic
+   The term below appears to be a reduplication of the PPn _*fata_ ‘shelf’, but the semantic
 connection, if any, is not obvious.
 
 <
@@ -6999,9 +6994,9 @@ __formgroup__
 
 
     As the glosses of some of the terms above imply, at least some Oceanic speakers evidently
-perceive the rib cage as two ‘sides’ of ribs (such that a rib is a ‘bone of side’). Thus Dami siri-
-above reflects POc *siriŋ ‘side’ (vol.2:246). The best candidate for reconstruction with the
-meaning ‘side of ribs’ is POc *kabe- ‘(lower?) rib cage, side’. Whether this also meant ‘side’
+perceive the rib cage as two ‘sides’ of ribs (such that a rib is a ‘bone of side’). Thus Dami _siri-_
+above reflects POc _*siriŋ_ ‘side’ (vol.2:246). The best candidate for reconstruction with the
+meaning ‘side of ribs’ is POc _*kabe-_ ‘(lower?) rib cage, side’. Whether this also meant ‘side’
 in a generalised locative sense is not clear.
 
 <
@@ -7013,9 +7008,9 @@ POc *kabe- ‘one side of rib cage’
  MM: Nehan                 kap-kapa-           ‘side of body, ribs’
 >
 
-However, POc *kabe- is apparently not reflected in Eastern Oceanic languages. Here, certain
-more localised reconstructions are possible. If Bola karo- ‘ribs, side’ is cognate with PSES
-*[garo]garo- ‘ribs, side’ below, then POc *garo- can be reconstructed, but the available
+However, POc _*kabe-_ is apparently not reflected in Eastern Oceanic languages. Here, certain
+more localised reconstructions are possible. If Bola _karo-_ ‘ribs, side’ is cognate with PSES
+_*[garo]garo-_ ‘ribs, side’ below, then POc _*garo-_ can be reconstructed, but the available
 evidence is not strong. The Maringe term is probably borrowed from a SES source.
 
 <
@@ -7041,12 +7036,12 @@ __formgroup__
   NNG: Manam                garaŋa             ‘rib cage’
   PT:  Dawawa               giri-giri          ‘ribs’
 
-   Some languages distinguish between the (upper, shorter) ribs of the chest (Arosi rakerake-
-toʔo, Wayan Fijian -saro) and the (lower, longer) ribs at the side and bottom of the rib cage
-(Arosi garogaro-, Wayan Fijian -sakesake), and this distinction may have been present in POc.
-In the Arosi term rakerake-toʔo ‘upper rib cage’, toʔo means ‘true’. That is, one side of the
-upper rib cage is the ‘true rakerake’, whilst rakerake- alone is the whole side of ribs. The
-implication here is that *[rage]rage- denoted a side of the upper rib cage, but was also used to
+   Some languages distinguish between the (upper, shorter) ribs of the chest (Arosi
+_rakerake-toʔo_, Wayan Fijian _-saro_) and the (lower, longer) ribs at the side and bottom of the rib cage
+(Arosi _garogaro-_, Wayan Fijian _-sakesake_), and this distinction may have been present in POc.
+In the Arosi term _rakerake-toʔo_ ‘upper rib cage’, _toʔo_ means ‘true’. That is, one side of the
+upper rib cage is the ‘true _rakerake_’, whilst _rakerake-_ alone is the whole side of ribs. The
+implication here is that _*[rage]rage-_ denoted a side of the upper rib cage, but was also used to
 mean a whole side of the rib cage. However, this supposition requires confirmation with more
 data.
 
@@ -7059,7 +7054,7 @@ POc *[rage]rage- ‘one side of the upper rib cage’; ‘one side of the rib ca
   MM: Ramoaaina             rei-                    ‘rib’
   MM: Roviana               raga-raga               ‘rib cage’
   SES: Arosi                rake-rake-              ‘side’
-  SES: Arosi                rake-rake(toʔo)         ‘short ribs’ (toʔo ‘true’)
+  SES: Arosi                rake-rake(toʔo)         ‘short ribs’ (_toʔo_ ‘true’)
   Mic:    Woleaian          ẓaxe-ẓax, ẓaxe-ẓexa-    ‘ribs’
 cf. also:
    MM: Halia                liki-liki               ‘side of body, ribs’
@@ -7067,10 +7062,10 @@ cf. also:
    MM: Banoni               ri-riki-                ‘ribs’
 >
 
-    Two PPn terms are reconstructable, namely *kaso-kaso ‘ribs, upper side’ and *kao-kao
+    Two PPn terms are reconstructable, namely _*kaso-kaso_ ‘ribs, upper side’ and _*kao-kao_
 ‘ribs, flank, side (of a canoe), upper side of person’. Despite their formal similarity, the
-evidence indicates two unrelated terms with very similar meanings. PPn *kaso-kaso is almost
-certainly derived from POc *kaso ‘rafter’ (vol.1:53). If Mwotlap (NCV) na-ɣaɣah ‘ribs’ is
+evidence indicates two unrelated terms with very similar meanings. PPn _*kaso-kaso_ is almost
+certainly derived from POc _*kaso_ ‘rafter’ (vol.1:53). If Mwotlap (NCV) _na-ɣaɣah_ ‘ribs’ is
 cognate, then the term is of Proto Remote Oceanic antiquity.
 
 <
@@ -7116,8 +7111,8 @@ PPn *kao-kao ‘ribs, flank, side (of a canoe), upper side of person’ (POLLEX)
 
 3.5.7 Breast
 
-POc *susu- was polysemous, its meaning commonly extending to ‘milk’. The root *susu
-evidently also formed a verb ‘suck (at the breast)’ (see §4.3.2.3), but *susu- ‘breast’ was
+POc _*susu-_ was polysemous, its meaning commonly extending to ‘milk’. The root _*susu_
+evidently also formed a verb ‘suck (at the breast)’ (see §4.3.2.3), but _*susu-_ ‘breast’ was
 formally distinct from it as it was a directly possessed noun, i.e. it took a possessor suffix.
 
 <
@@ -7174,10 +7169,10 @@ POc *susu ‘suckle’
 
 ‘Nipple’ was denoted by a phrase that combined the terms for ‘eye’ and ‘breast’ with a linking
 particle. Daughter languages display a variety of linkers, but in POc the linker was probably
-*qi, as this was used with a directly possessed possessum (§3.1.1).
+_*qi_, as this was used with a directly possessed possessum (§3.1.1).
 
 <
-PMP *|mata ni susu| ‘nipple’ (eye + breast) (ACD in a note on PWMP *qulu ni susu)
+PMP *|mata ni susu| ‘nipple’ (eye + breast) (ACD in a note on PWMP _*qulu ni susu_)
 POc *|mata qi susu| ‘nipple’
  Adm: Seimat              |mata susu     |     ‘nipple’
  PT:    Dobu              |susu mata(na) |     ‘nipple’
@@ -7192,12 +7187,12 @@ POc *|mata qi susu| ‘nipple’
 
 3.5.9 Belly
 
-PAn *tiaN, ancestral to POc *tia- ‘belly’, also provided the base for POc *tian-an ‘pregnant’,
-discussed in §4.2.2.3. This suggests that POc *tia- referred principally to the external shape of
+PAn _*tiaN_, ancestral to POc _*tia-_ ‘belly’, also provided the base for POc _*tian-an_ ‘pregnant’,
+discussed in §4.2.2.3. This suggests that POc _*tia-_ referred principally to the external shape of
 the belly. Terms for the corresponding internal organ, the stomach, are presented in §3.7.4.
 
-   In the comparative literature reflexes of POc *tia- are sometimes confused with those of
-POc *taqe- ‘faeces’ or POc *tinaqe- ‘intestines’, but slight formal resemblance between *tia-
+   In the comparative literature reflexes of POc _*tia-_ are sometimes confused with those of
+POc _*taqe-_ ‘faeces’ or POc _*tinaqe-_ ‘intestines’, but slight formal resemblance between _*tia-_
 and the two latter terms is due to chance.
 
 <
@@ -7207,8 +7202,8 @@ POc *tia- ‘belly’
  Adm: Seimat            tīa-           ‘abdomen’
  NNG: Kairiru           tie-           ‘belly’
  NNG: Poeng             tia-           ‘belly’
- PT:  Tubetube          dia-           ‘belly’ (d- for †t-)
- PT:  Molima            dia-           ‘intestines’ (d- for †t-)
+ PT:  Tubetube          dia-           ‘belly’ (_d-_ for †_t-_)
+ PT:  Molima            dia-           ‘intestines’ (_d-_ for †_t-_)
  MM:  Nakanai           tia-           ‘belly’
  MM:  Meramera          tia-           ‘belly’
  MM:  Tolai             tia-           ‘belly, skin of the stomach; part of the body from ribs to thighs’
@@ -7231,27 +7226,27 @@ PMic *tia- ‘stomach, belly, abdomen’
 150 Meredith Osmond and Malcolm Ross
 
 
-   Reflexes of POc *kapwa are the most widespread terms for ‘belly’ in NNG, but there is
+   Reflexes of POc _*kapʷa_ are the most widespread terms for ‘belly’ in NNG, but there is
 evidence from one SE Solomonic language that the term is of POc antiquity.
 
 <
-POc *kapwa ‘belly’ (ACD)
+POc *kapʷa ‘belly’ (ACD)
  NNG: Mamusi                kapa-          ‘belly’
  NNG: Atui                  kopo-          ‘belly’
  NNG: Kove                 apo-           ‘belly’
  NNG: Bariai               (i)apa-        ‘belly’
  NNG: Tuam                 apo-           ‘belly’
- NNG: Gitua                apwa-          ‘belly; pregnant’
+ NNG: Gitua                apʷa-          ‘belly; pregnant’
  NNG: Malalamai            apo(m)         ‘belly; intestines’
- NNG: Maleu                apwa-          ‘belly’
- NNG: Sio                  kapwa-         ‘belly’
+ NNG: Maleu                apʷa-          ‘belly’
+ NNG: Sio                  kapʷa-         ‘belly’
  NNG: Mangap Mb.           kopo(no)       ‘belly’
  NNG: Barim                kau(n)         ‘belly’
  NNG: Lukep                kapo(no)       ‘belly’
  NNG: Malasanga            kapo-          ‘belly’
  NNG: Hote                 kapo           ‘belly’
  PT:    Dawawa             kapo-          ‘belly’
- SES: Sa’a                 apwa-          ‘belly’
+ SES: Sa’a                 apʷa-          ‘belly’
 cf. also:
    Adm: Lou                kopu(ŋ)        ‘satiated’
    Mic: Ponapean           kapet          ‘belly, guts’
@@ -7263,29 +7258,30 @@ cf. also:
 3.5.10 Navel, umbilical cord
 
 Four reconstructions for ‘navel, umbilical cord’, apparently formally related, are candidates for
-POc status: *puso-, *piso-, *bwito-, *buto-. Although reasons for this proliferation of forms are
-far from clear, we suggest that there were two POc forms, *puso- (from PMP *pusej)
-(§3.5.10.1) and *bwito- (§3.5.10.2), and that forms reflecting apparent **piso- and **buto-[29] are
-descended from *puso- and *bwito- respectively. They are accounted for as follows:
+POc status: _*puso-_, _*piso-_, _*bʷito-_, _*buto-_. Although reasons for this proliferation of forms are
+far from clear, we suggest that there were two POc forms, _*puso-_ (from PMP _*pusej_)
+(§3.5.10.1) and _*bʷito-_ (§3.5.10.2), and that forms reflecting apparent _**piso-_ and _**buto-_[29] are
+descended from _*puso-_ and _*bʷito-_ respectively. They are accounted for as follows:
 
-A Because POc *puso- and POc *bwito- were similar in form and meaning, contamina-
-  tion affected the vowel of the first syllable, so items reflecting apparent **piso-
-  actually reflect *puso- but with the vowel from *bwito-.30
-B The direct evidence for *bw- of POc *bwito- is Drehet pwitie, Tamambo bʷito-.
-  However, bw was an unstable phoneme. In some languages rounding was lost and
-  *bwito- became *bito-; in others rounding spread to the following vowel, giving
-  forms that seem to reflect **buto-.
+__block__
+A Because POc _*puso-_ and POc _*bʷito-_ were similar in form and meaning, contamination
+  affected the vowel of the first syllable, so items reflecting apparent _**piso-_
+  actually reflect _*puso-_ but with the vowel from _*bʷito-_.[30]
+B The direct evidence for _*bʷ-_ of POc _*bʷito-_ is Drehet _pʷitie_, Tamambo _bʷito-_.
+  However, _bʷ_ was an unstable phoneme. In some languages rounding was lost and
+  _*bʷito-_ became _*bito-_; in others rounding spread to the following vowel, giving
+  forms that seem to reflect _**buto-_.
 
 To maintain clarity in the face of the complications here, each of the two reconstructions is
-assigned its own subsection, and have listed forms that appear to reflect **piso- and **buto-
-separately from *puso- and *bwito-. A third subsection handles **b(w)iso- and **buso-,
+assigned its own subsection, and have listed forms that appear to reflect _**piso-_ and _**buto-_
+separately from _*puso-_ and _*bʷito-_. A third subsection handles _**(b,bʷ)iso-_ and _**buso-_,
 displaying a conflation that cannot be assigned unambiguously to either of the reconstructed
 POc forms.
 
-3.5.10.1 POc *puso- ‘navel, umbilical cord’
+3.5.10.1 POc _*puso-_ ‘navel, umbilical cord’
 
 <
-PMP *pusej ‘navel’ (ACD: PWMP *talih pusej ‘umbilicus, navel cord’)
+PMP *pusej ‘navel’ (ACD: PWMP _*talih pusej_ ‘umbilicus, navel cord’)
 POc *puso- ‘navel, umbilical cord’
  NNG: Kilenge       puso-       ‘navel’
  NNG: Uvol          uto-        ‘navel’
@@ -7293,14 +7289,14 @@ POc *puso- ‘navel, umbilical cord’
  PT:  Sinaugoro     uro-        ‘cord of navel’
  PT:  Kilivila      puso-       ‘navel, umbilical cord’
  PT:  Suau (Daui)   huso-       ‘navel’
- PT:  Roro          poto-       ‘navel’ (also reflects *buso-)
+ PT:  Roro          poto-       ‘navel’ (also reflects _*buso-_)
  PT:  Mekeo         fuko-       ‘navel’
  MM:  Bali          puzo-       ‘navel’
  MM:  Vitu          puðo        ‘navel’
 >
 
 __formgroup__
-**piso- ‘navel, umbilical cord’ < POc *puso- via contamination by *bʷito-
+**piso- ‘navel, umbilical cord’ (< POc *puso- via contamination by _*bʷito-_)
   NNG: Bariai              piso-          ‘navel’
   NNG: Kove                piso-          ‘navel, umbilical cord’
   NNG: Malai               piso-          ‘navel’
@@ -7313,17 +7309,16 @@ __formgroup__
   NNG: Akolet              pse-           ‘navel’
   Fij: Bauan               viðo-viðo-     ‘navel’
 
-[29]
-     A double asterisk (**) is used here for forms that appear to be reconstructable but which we explain here as
+[29] A double asterisk (**) is used here for forms that appear to be reconstructable but which we explain here as
      due to post-POc changes.
-[30]
-     A more complicated explanation involving vowel dissimilation is also possible, but there is no other
+
+[30] A more complicated explanation involving vowel dissimilation is also possible, but there is no other
      evidence for this in POc.
 
 152 Meredith Osmond and Malcolm Ross
 
 
-The following, all from the southern Huon Gulf, reflect either *puso- or **piso-.
+The following, all from the southern Huon Gulf, reflect either _*puso-_ or _**piso-_.
 
 __formgroup__
   NNG: Vehes         vro(o)-                   ‘navel’
@@ -7334,14 +7329,14 @@ __formgroup__
   NNG: Piu           pru-                      ‘navel’
 
 
-3.5.10.2 POc *bwito- ‘navel, umbilical cord’
+3.5.10.2 POc _*bʷito-_ ‘navel, umbilical cord’
 
-Lenakel nəprəŋə ‘navel’, under *buto- below, implies that POc *bwito- should be reconstructed
-with final *-ŋ. In the absence of corroboratory evidence, we have not reconstructed the final
+Lenakel _nəprəŋə_ ‘navel’, under _*buto-_ below, implies that POc _*bʷito-_ should be reconstructed
+with final _*-ŋ_. In the absence of corroboratory evidence, we have not reconstructed the final
 consonant, but note the possibility of doing so.
 
 <
-POc *bʷito- ‘navel, umbilical cord’ (Blust 1984b: *bito)
+POc *bʷito- ‘navel, umbilical cord’ (Blust 1984b: _*bito_)
  Adm: Mussau              bito-              ‘navel’
  Adm: Drehet               pʷitie             ‘his/her navel’
  MM: Tigak                 vito-              ‘navel’
@@ -7392,7 +7387,7 @@ __formgroup__
 PSV *na-butoŋi- ‘navel’ (Lynch 2001c)
   SV: Ura                 yobut             ‘navel’
   SV: Anejom              nopʷo-            ‘umbilical cord’
-  SV: Lenakel             nəprəŋə           ‘navel’ (< *butoŋ)
+  SV: Lenakel             nəprəŋə           ‘navel’ (< _*butoŋ_)
   SV: Kwamera             nə-preŋi, nə-pureŋi- ‘navel’
   NCal: Iaai              bi-bikV-          ‘navel’
 PMic *pʷuto ‘navel’ (Bender et al., 2003)
@@ -7400,18 +7395,18 @@ PMic *pʷuto ‘navel’ (Bender et al., 2003)
   Mic: Ponapean           pwūs              ‘navel’
   Mic: Woleaian           pwūse             ‘navel’
   Fij:    Rotuman         pufa              ‘navel, umbilical cord’
-  Fij:    Wayan           buto              ‘navel’ (wāwā ni buto ‘umbilical cord’)
+  Fij:    Wayan           buto              ‘navel’ (_wāwā ni buto_ ‘umbilical cord’)
 cf. also:
-   MM: Banoni           pocu-            ‘navel’ (reflects *potu-)
+   MM: Banoni           pocu-            ‘navel’ (reflects _*potu-_)
 
 154 Meredith Osmond and Malcolm Ross
 
 
 3.5.10.3 Conflated forms
 
-Here are presented forms that appear to reflect a conflation of *puso- and *bwito- and cannot be
-readily assigned to either. Thus **b(w)iso- and **buso-, the former with WOc reflexes only, take
-*b(w)- from *bwito- and *-s- from *puso-.[31]
+Here are presented forms that appear to reflect a conflation of _*puso-_ and _*bʷito-_ and cannot be
+readily assigned to either. Thus _**(b,bʷ)iso-_ and _**buso-_, the former with WOc reflexes only, take
+_*(b,bʷ)-_ from _*bʷito-_ and _*-s-_ from _*puso-_.[31]
 
 __formgroup__
 PWOc **b(w)iso- ‘navel, umbilical cord’
@@ -7450,12 +7445,13 @@ this part of the body have not been found further west.
 
 <
 Proto Remote Oceanic *kona- ‘lower abdomen’
-  NCV: NE Ambae        (taku)hona-                     ‘gall bladder’ (taku ‘behind’)
+  NCV: NE Ambae        (taku)hona-                     ‘gall bladder’ (_taku_ ‘behind’)
   Fij:  Rotuman        ʔona-                           ‘lower part of abdomen’
 >
 
-[31] Note that the converse conflation, taking *p- from *puso- and *-t- from *bwito-, i.e. †**puto/pito, is not
-     attested.
+[31] Note that the converse conflation, taking _*p-_ from _*puso-_ and _*-t-_ from _*bʷito-_,
+i.e. †_**puto_/_pito_, is not attested.
+
                                                                            The human body 155
 
 <
@@ -7479,20 +7475,20 @@ PPn *paka- ‘lower part of trunk’ (POLLEX)
 
 The reconstruction of a POc term for ‘buttocks’ encounters difficulties similar to those
 discussed in association with the reconstruction of terms for ‘navel’ (§3.5.10). Three POc forms
-are supported: *bwisi-, *b(w)oto- and *buru ‘buttocks’. The reconstructed forms begin with a
-labial or labiovelar and have medial *-s-, *-t- or *-r-. Unfortunately the data are insufficient to
+are supported: _*bʷisi-_, _*(b,bʷ)oto-_ and *buru ‘buttocks’. The reconstructed forms begin with a
+labial or labiovelar and have medial _*-s-_, _*-t-_ or _*-r-_. Unfortunately the data are insufficient to
 tell a story that would unite any of the cognate sets below, but it is perhaps no coincidence that
-POc *bwisi- ‘buttocks, anus’ was identical in form to POc *bwisi ‘fart’ (§4.3.7.3).
+POc _*bʷisi-_ ‘buttocks, anus’ was identical in form to POc _*bʷisi_ ‘fart’ (§4.3.7.3).
 
 <
-POc *bwisi- ‘buttocks, anus’
+POc *bʷisi- ‘buttocks, anus’
  PT:     Tawala            pie-                ‘buttocks. base of plant’
  MM: Petats                pus                 ‘buttocks’
  MM: Teop                  pisi-               ‘buttocks’
 PNCV *bʷisi- ‘buttocks, anus’ (Clark 2009)
  NCV: Nguna                na-pisi-            ‘buttocks, anus’
- NCV: SW Bay               ni-mbis             ‘buttocks’
- NCV: Nāti                 ne-mpis             ‘anus’
+ NCV: SW Bay               ni-ᵐbis             ‘buttocks’
+ NCV: Nāti                 ne-ᵐpis             ‘anus’
  NCV: S Efate              pis-                ‘bottom, rear end of a person’
 cf. also:
    MM: Barok                biti-              ‘buttocks’
@@ -7501,10 +7497,10 @@ cf. also:
 >
 
 <
-POc *b(w)oto- ‘buttocks’
+POc *(b,bʷ)oto- ‘buttocks’
   MM: Lavongai           voto-            ‘buttocks’
 PSOc *(b,bʷ)oto- ‘buttocks, bottom’ (Lynch 2004d)
-  NCV: Mota              pwote-           ‘buttock’
+  NCV: Mota              pʷote-           ‘buttock’
   NCV: Raga              boro-            ‘buttocks, bottom’
   NCV: Paamese           voto-            ‘buttocks, bottom’
   NCV: Lewo              pʷere-           ‘buttocks’
@@ -7532,10 +7528,10 @@ POc *buru ‘buttocks’
 
 3.5.13 Genitalia
 
-POc *kʷala- denoted the male genitals.
+POc _*kʷala-_ denoted the male genitals.
 
 <
-POc *kʷala- ‘male genitals’ (Ozanne-Rivierre 1995:65: Proto Remote Oceanic *kala- ‘male genitals’; (V) ‘beget’)[32]
+POc *kʷala- ‘male genitals’ (Ozanne-Rivierre 1995:65: Proto Remote Oceanic _*kala-_ ‘male genitals’; (V) ‘beget’)[32]
  MM: Nehan              kolo              ‘testicles’
  MM: Halia              kol               ‘testicles’
  Fij:    Bauan          gala              ‘scrotum’
@@ -7546,9 +7542,9 @@ POc *kʷala- ‘male genitals’ (Ozanne-Rivierre 1995:65: Proto Remote Oceanic 
 
 3.5.13.1 Penis
 
-POc *quti- ‘penis’ continues a PAn etymon, and is widely reflected in Oceanic. However, it is
+POc _*quti-_ ‘penis’ continues a PAn etymon, and is widely reflected in Oceanic. However, it is
 not reflected in Micronesian or Polynesian languages and has been replaced throughout
-Polynesia and parts of Micronesia by reflexes of Proto Remote Oceanic *ule- ‘penis’.
+Polynesia and parts of Micronesia by reflexes of Proto Remote Oceanic _*ule-_ ‘penis’.
 
 <
 PAn *qutiL ‘penis’ (ACD)
@@ -7598,7 +7594,7 @@ PMic *wule ‘penis’
   Mic: Chuukese         wuɾu-          ‘penis’
 PPn *ule ‘penis’ (POLLEX)
   Pn:  Tongan           ule            ‘penis’
-  Pn:  Niuean           ule            ‘male genitals’ (vulgar. Respectful term is euphemistic: fū-uho)
+  Pn:  Niuean           ule            ‘male genitals’ (vulgar. Respectful term is euphemistic: _fū-uho_)
   Pn:  Samoan           ule            ‘penis’ (not in decent use)
   Pn:  Rennellese       uge            ‘penis’
   Pn:  Anutan           ure            ‘penis’
@@ -7611,7 +7607,7 @@ PPn *ule ‘penis’ (POLLEX)
 
 3.5.13.2 Scrotum and testicles
 
-There are two reconstructions for scrotum and/or testicles. POc *lasoR is widely reflected.
+There are two reconstructions for scrotum and/or testicles. POc _*lasoR_ is widely reflected.
 
 158 Meredith Osmond and Malcolm Ross
 
@@ -7632,21 +7628,21 @@ POc *lasoR ‘scrotum and/or testicles’
  Pn:     Maori           raho                ‘testicles’; ‘labia majora’
 >
 
-   Reflexes of POc *kwawa- are much more restricted, but their distribution nonetheless
+   Reflexes of POc _*kʷawa-_ are much more restricted, but their distribution nonetheless
 supports the reconstruction.
 
 <
-POc *kwawa- ‘scrotum, testicles’
+POc *kʷawa- ‘scrotum, testicles’
  NNG: Poeng               kava-              ‘scrotum’
  PT:    Molima            kowa-              ‘scrotum’
- PT:    Dobu              kwawa-             ‘testicles’
+ PT:    Dobu              kʷawa-             ‘testicles’
  SES: Gela                koa-               ‘testicles’
 >
 
 3.5.13.3 Female genitalia
 
-POc *puki- ‘vagina’ and PPn *tole- ‘female genitalia’ can each be derived from a PMP term,
-but in the case of *tole- only if some phonological deformation is allowed in the derivation,
+POc _*puki-_ ‘vagina’ and PPn _*tole-_ ‘female genitalia’ can each be derived from a PMP term,
+but in the case of _*tole-_ only if some phonological deformation is allowed in the derivation,
 perhaps as a result of euphemism.
 
 <
@@ -7669,8 +7665,8 @@ POc *puki- ‘vagina’
 
 
    Such deformation seems to underlie the three PMP forms reconstructed by Blust (ACD). If
-PPn *tole is indeed cognate with one of these, then it reflects yet another variant, PMP
-†*telay.
+PPn _*tole_ is indeed cognate with one of these, then it reflects yet another variant, PMP
+†_*telay_.
 
 <
 PMP *teli, *tila, *tilay ‘female genitalia’ (ACD)
@@ -7690,7 +7686,7 @@ cf. also:
    Fij:   Bauan            tele-              ‘female genitals’
 >
 
-   POc (?) *keRe- is not well attested, and may be due to chance resemblance.
+   POc (?) _*keRe-_ is not well attested, and may be due to chance resemblance.
 
 <
 POc (?) *keRe- ‘female genitals’
@@ -7699,7 +7695,7 @@ POc (?) *keRe- ‘female genitals’
  SES: Ghari               kele-               ‘vagina’
 >
 
-   In Central Pacific languages a reflex of POc *buku- ‘mound, knob, joint’ (§3.6.8.1.2;
+   In Central Pacific languages a reflex of POc _*buku-_ ‘mound, knob, joint’ (§3.6.8.1.2;
 vol.1:85, vol.2:50) is used to refer to the genital area (probably a metonym based on the mons
 veneris).
 
@@ -7725,17 +7721,17 @@ pairs of limbs (finger/toe, finger-/toenail, elbow/knee and palm/sole).
 
 The monomorphemic POc terms listed below evidently referred to the hand and arm as one
 unit, although some languages limit their reflex to the hand and lower arm (e.g. Iduna (PT)
-fowa-na nima- [scrotum-its arm-] ‘muscle of lower arm’), and POc *[l,n]ima- may well have
+_fowa-na nima-_ [scrotum-its arm-] ‘muscle of lower arm’), and POc _*[l,n]ima-_ may well have
 had the more specific POc sense ‘forearm and hand’ as well as the larger sense ‘arm and hand’.
 Monomorphemic terms for parts of the arm are much harder to find, but terms for ‘upper arm’
 and ‘hand’ are reconstructed in §3.6.2.
 
-   Reflexes of POc *lima and *nima ‘hand’ are numerous throughout the Austronesian world,
+   Reflexes of POc _*lima_ and _*nima_ ‘hand’ are numerous throughout the Austronesian world,
 most referring at the same time to ‘five’.
 
-   Reflexes of the Meso-Melanesian and Eastern Oceanic subgroups largely support *l-,
-while those from the Admiralties support *n-. The NNG and PT subgroups show no clear
-pattern. Either *l- was sometimes nasalised to n- before a nasal-initial syllable, or both forms
+   Reflexes of the Meso-Melanesian and Eastern Oceanic subgroups largely support _*l-_,
+while those from the Admiralties support _*n-_. The NNG and PT subgroups show no clear
+pattern. Either _*l-_ was sometimes nasalised to _n-_ before a nasal-initial syllable, or both forms
 existed as doublets in POc.
 
 <
@@ -7759,7 +7755,7 @@ POc *lima-, *nima- ‘forearm and hand, arm and hand; five’
   PT:   Kukuya            nima-            ‘arm, handle, hand’
   PT:   Muyuw             nim              ‘hand, arm’
   PT:   Motu              ima-             ‘arm, hand; five’
-  PT:   Lala              ima-             ‘lower arm’ (vou ‘upper arm’)
+  PT:   Lala              ima-             ‘lower arm’ (_vou_ ‘upper arm’)
   MM: Vitu                lima-            ‘hand, arm’
   MM: Bali                lima-            ‘hand, arm’
   MM: Bulu                lima-            ‘hand, arm’
@@ -7800,18 +7796,18 @@ POc *lima-, *nima- ‘forearm and hand, arm and hand; five’
                                                                         The human body 161
 
 
-   A second form, POc *paRa ‘hand, arm’ is reconstructable, based on non-Oceanic cognates
+   A second form, POc _*paRa_ ‘hand, arm’ is reconstructable, based on non-Oceanic cognates
 together with cognates from Central Vanuatu. Blust (ACD) writes that it is possible that these
-forms should be assigned to PMP *[qa]baRa ‘shoulder’ with parallel semantic shifts that
+forms should be assigned to PMP _*[qa]baRa_ ‘shoulder’ with parallel semantic shifts that
 create the illusion of an independent comparison, but he regards this hypothesis as unlikely.
-We agree with him, as there are a number of reflexes of POc *[qa]paRa ‘shoulder’ which lack
+We agree with him, as there are a number of reflexes of POc _*[qa]paRa_ ‘shoulder’ which lack
 the first syllable, and all consistently denote ‘shoulder’. The gloss ‘arm, hand’ here suggests
-that PMP *baRa/POc *paRa was a distinct if nearly homophonous etymon.
+that PMP _*baRa_/POc _*paRa_ was a distinct if nearly homophonous etymon.
 
-   It is possible that PMP *paRada/POc *paRara ‘handle of an axe or adze’ has played some
+   It is possible that PMP _*paRada_/POc _*paRara_ ‘handle of an axe or adze’ has played some
 role in the history of this form. Western Oceanic and SE Solomonic reflexes are trisyllabic, but
-Clark (2009) reconstructs PNCV *vara ‘handle’. The disyllabic form may be the result of
-contamination by *vara ‘hand, arm’, and may in turn have led to the preservation of the latter.
+Clark (2009) reconstructs PNCV _*vara_ ‘handle’. The disyllabic form may be the result of
+contamination by _*vara_ ‘hand, arm’, and may in turn have led to the preservation of the latter.
 But this is a speculation.
 
 <
@@ -7829,8 +7825,7 @@ PNCV *vara- ‘hand, arm’ (Clark 2009)
 162 Meredith Osmond and Malcolm Ross
 
 
-
-   The use of reflexes of POc *banic and *kaba- for ‘arm’ in some daughter languages is an
+   The use of reflexes of POc _*banic_ and _*kaba-_ for ‘arm’ in some daughter languages is an
 extension of their core meaning ‘wing’ (vol.4:132–133, 275). We add ‘arm, hand’ to the
 glosses of ‘wing’ reconstructions with a question mark, as it is possible that extensions of
 meaning to ‘arm’ have occurred independently in daughter languages.
@@ -7908,27 +7903,27 @@ POc *minV- ‘hand’
 
 3.6.3 Left hand and right hand
 
-The three POc terms for ‘left-hand’, *kauRi, *mawiRi and *mauRi, reflect a single PAn/PMP
-root *wiRi ‘left’. POc *kauRi reflects PMP *ka-wiRi, where *ka- formed a stative verb (‘be on
-the left’). PMP *ma-wiRi was the actor voice form of this verb, and is reflected in POc
-*mawiRi and its variant *mauRi. The POc forms *mawiRi and *mauRi are reconstructed
-separately below, but it is quite likely that at least some of the forms listed under *mauRi are
-descended from *mawiRi, the sound change *-wi- to *-u- having occurred independently in
+The three POc terms for ‘left-hand’, _*kauRi_, _*mawiRi_ and _*mauRi_, reflect a single PAn/PMP
+root _*wiRi_ ‘left’. POc _*kauRi_ reflects PMP _*ka-wiRi_, where _*ka-_ formed a stative verb (‘be on
+the left’). PMP _*ma-wiRi_ was the actor voice form of this verb, and is reflected in POc
+_*mawiRi_ and its variant _*mauRi_. The POc forms _*mawiRi_ and _*mauRi_ are reconstructed
+separately below, but it is quite likely that at least some of the forms listed under _*mauRi_ are
+descended from _*mawiRi_, the sound change _*-wi-_ to _*-u-_ having occurred independently in
 various languages.
 
-   The pairs *kawanan/*mawanan ‘right’ and *kataqu/*mataqu, also ‘right’, below, have
-similar origins, but here the unaffixed roots *wanan and *taqu evidently also survived into
+   The pairs _*kawanan_/_*mawanan_ ‘right’ and _*kataqu_/_*mataqu_, also ‘right’, below, have
+similar origins, but here the unaffixed roots _*wanan_ and _*taqu_ evidently also survived into
 POc (Evans 2001:343).
 
-   It is probable that at least the terms in *ma- were also used as verbs in POc. Grammatical
+   It is probable that at least the terms in _*ma-_ were also used as verbs in POc. Grammatical
 information about their reflexes is hard to find, but Lichtenberk (2008) glosses To’aba’ita
-(SES) mauli as an intransitive verb ‘be on the left’, which is also used attributively (e.g. maa
-mauli nau [eye be.on.left I] ‘my left eye’). The attributive use of stative verbs is normal in
+(SES) _mauli_ as an intransitive verb ‘be on the left’, which is also used attributively (e.g.
+_maa mauli nau_ [eye be.on.left I] ‘my left eye’). The attributive use of stative verbs is normal in
 Oceanic languages (Ross 1998c). However, there is evidence that these terms also functioned
-as nouns in phrasal constructions, as in Kwaio (SES) gula i mooli [side LINKER left] ‘lefthand
-side’ and Wayan Fijian lima i matau [hand LINKER right] ‘right hand’. Both phrasal
-expressions reflect the POc nonspecific possessor construction where the item after *qi was a
-noun (§3.1.1). For example, the Wayan example reflects POc *lima qi mataqu, lit. ‘hand on/
+as nouns in phrasal constructions, as in Kwaio (SES) _gula i mooli_ [side LINKER left] ‘lefthand
+side’ and Wayan Fijian _lima i matau_ [hand LINKER right] ‘right hand’. Both phrasal
+expressions reflect the POc nonspecific possessor construction where the item after _*qi_ was a
+noun (§3.1.1). For example, the Wayan example reflects POc _*lima qi mataqu_, lit. ‘hand on/
 of/at right’.
 
    Note that in the glosses below, hyphenated ‘left-hand’ and ‘right-hand’ indicate that the
@@ -7996,12 +7991,12 @@ POc *mauRi- ‘left hand; left side or direction’
  Mic: Ponapean          mɛy(ŋ)             ‘left hand’
  Pn:  Rennellese        maui               ‘right, right hand’
 cf. also:
- MM:  Nakanai           meru-              ‘on the left, left-handed’ (r for †l)
+ MM:  Nakanai           meru-              ‘on the left, left-handed’ (_r_ for †_l_)
  SV:  Lenakel           mu                 ‘left-handed’
 >
 
-  PAn *wanaN ‘right (side, hand, direction)’ likewise is reflected in three POc forms
-*wanan, *kawanan and *mawanan, all ‘right side’.
+  PAn _*wanaN_ ‘right (side, hand, direction)’ likewise is reflected in three POc forms
+_*wanan_, _*kawanan_ and _*mawanan_, all ‘right side’.
 
                                                                            The human body 165
 
@@ -8025,13 +8020,13 @@ PAn *ka-wanaL ‘be to the right’ (ACD)
 POc *kawanan ‘right side’ (Evans 2001)
   NNG: Bebeli             kiana                ‘right hand’
   PT:   Misima            awon                 ‘right side’
-  MM: Tami                kanoŋ                ‘right hand’ (metathesised < *kanawan)
+  MM: Tami                kanoŋ                ‘right hand’ (metathesised < _*kanawan_)
 >
 
 <
 PAn *ma-wanaL ‘be to the right’
 POc *mawanan ‘right side’ (Evans 2001)
-  Adm: Seimat            manau                 ‘right side’ (metathesised < *manawan)
+  Adm: Seimat            manau                 ‘right side’ (metathesised < _*manawan_)
   Adm: Mussau            muena                 ‘right side’
   NNG: Ali               mawaŋ                 ‘right side’
   NNG: Kairiru           mouwon                ‘right side’
@@ -8046,8 +8041,8 @@ POc *mawanan ‘right side’ (Evans 2001)
 
 
 
-    Evolved in the same threefold way are POc *taqu, POc *ka-taqu and POc *ma-taqu, all
-‘right hand’, with the added twist that *ma-taqu metathesised to PSOc *ma-tuqa.
+    Evolved in the same threefold way are POc _*taqu_, POc _*ka-taqu_ and POc _*ma-taqu_, all
+‘right hand’, with the added twist that *ma-taqu metathesised to PSOc _*ma-tuqa_.
 
 <
 PAn *taqu ‘right side’ (ACD)
@@ -8088,7 +8083,7 @@ POc *mataqu ‘right-hand’
 >
 
 <
-PSOc *matuqa ‘right hand, right side’ (vowel metathesis, for †*mataqu; Clark 2009: PNCV)[33]
+PSOc *matuqa ‘right hand, right side’ (vowel metathesis, for †_*mataqu_; Clark 2009: PNCV)[33]
   NCV: Mota              matua-              ‘right hand, belonging to the right hand’
   NCV: Araki             marua-              ‘right hand’
   NCV: NE Ambae          matue               ‘right’
@@ -8108,8 +8103,8 @@ PSOc *matuqa ‘right hand, right side’ (vowel metathesis, for †*mataqu; Cla
 
 Proto Oceanic speakers evidently used a single term for the leg and foot.
 
-   Blust (ACD) reconstructs both PAn *qaqay and PAn *waqay, and the two forms are both
-continued in Oceanic. POc *waqe- is reflected in Fijian and Polynesian and *qaqe- in
+   Blust (ACD) reconstructs both PAn _*qaqay_ and PAn _*waqay_, and the two forms are both
+continued in Oceanic. POc _*waqe-_ is reflected in Fijian and Polynesian and _*qaqe-_ in
 Admiralties, Western Oceanic and SE Solomonic languages. There are no reflexes in
 Micronesia or Vanuatu. No language has reflexes of both forms.
 
@@ -8156,8 +8151,8 @@ PPn *waqe ‘leg, foot’ (POLLEX)
   Pn:   Hawaiian           wae                ‘leg’
 >
 
-[34] Bam ve- and Wogeo vai- are regular reflexes of POc *qaqe. Cf. Wogeo vawa- ‘mouth’ < POc *qawa-,
-     valiŋa- ‘voice’ < POc *qaliŋa-, vato ‘thatch’ < POc *qatop.
+[34] Bam _ve-_ and Wogeo _vai-_ are regular reflexes of POc _*qaqe_. Cf. Wogeo _vawa-_ ‘mouth’ < POc _*qawa-_,
+     _valiŋa-_ ‘voice’ < POc _*qaliŋa-_, _vato_ ‘thatch’ < POc _*qatop_.
 
 168 Meredith Osmond and Malcolm Ross
 
@@ -8171,7 +8166,7 @@ with the corresponding parts of the arm. A set of terms denoting the knee is dis
 
 3.6.5.1 Thigh
 
-The Proto Oceanic term for thigh was POc *paqa(l).
+The Proto Oceanic term for thigh was POc _*paqa(l)_.
 
 <
 POc *paqa(l) ‘thigh’ (Ross 1988)
@@ -8202,7 +8197,7 @@ POc *paqa(l) ‘thigh’ (Ross 1988)
  NCal: Nemi               pā-                 ‘thigh’
  NCal: Kumak              pā-                 ‘thigh’
  NCal: Iaai               (je)vǣ-              ‘thigh’
- Fij:  Bauan              yava                 ‘foot, leg’ (ya- prefix added to some body part terms)
+ Fij:  Bauan              yava                 ‘foot, leg’ (_ya-_ prefix added to some body part terms)
 cf. also:
  SES: Arosi                 pʷā                  (V) ‘slap the thigh’
 >
@@ -8215,25 +8210,25 @@ cf. also:
 Terms meaning both ‘knee’ and ‘elbow’ are presented in §3.6.8.1. Other terms, presented here,
 appear originally to have meant ‘knee’, but are in some languages also applied to ‘elbow’.
 
-   More than one POc term beginning with *tu- is reconstructable with the meaning ‘knee’.
-Blust (ACD) reconstructs POc *tur. POc *turu- is also attested. PWOc *tuku- is reasonably
-well attested. A number of NW Solomonic languages reflect *tuŋu- (Banoni, Piva cuŋu-
-‘knee’, Lungga, Nduke tu-tuŋu ‘knee, elbow’, Vangunu, Roviana tuŋu-tuŋu ‘knee, elbow’).
+   More than one POc term beginning with _*tu-_ is reconstructable with the meaning ‘knee’.
+Blust (ACD) reconstructs POc _*tur_. POc _*turu-_ is also attested. PWOc _*tuku-_ is reasonably
+well attested. A number of NW Solomonic languages reflect _*tuŋu-_ (Banoni, Piva _cuŋu-_
+‘knee’, Lungga, Nduke _tu-tuŋu_ ‘knee, elbow’, Vangunu, Roviana _tuŋu-tuŋu_ ‘knee, elbow’).
 
    The relationships among these forms are only partially understood. The histories of PWOc
-*tuku- and NW Solomonic *tuŋu- are not known, but we can show how POc *tur and *turu-
+_*tuku-_ and NW Solomonic _*tuŋu-_ are not known, but we can show how POc _*tur_ and _*turu-_
 are related.
 
-   The PAn form for ‘knee’ was *tuduS (ACD). PAn *S became PMP *h, and a regular
-metathesis whereby PAn *-CVS became PMP *-hVC gave rise to PMP *tuhud ‘knee’. By
-regular sound change this became POc *tur (ACD), reflexes of which are shown below. Some
+   The PAn form for ‘knee’ was _*tuduS_ (ACD). PAn _*S_ became PMP _*h_, and a regular
+metathesis whereby PAn *-CV_S_ became PMP *-_h_VC gave rise to PMP _*tuhud_ ‘knee’. By
+regular sound change this became POc _*tur_ (ACD), reflexes of which are shown below. Some
 of these reflexes are reduplicated as a means of creating the preferred canonic form, a
-disyllable, from monosyllabic *tur. The preferred strategy for creating a (suffixed) directly
+disyllable, from monosyllabic _*tur_. The preferred strategy for creating a (suffixed) directly
 possessed noun (§3.1.1) from a root with a final consonant was to replace the final consonant
 with the suffix, as many reconstructions in this chapter illustrate, but in the case of
-monosyllabic *tur, a supporting vowel was added instead, giving disyllabic *turu-, a change
+monosyllabic _*tur_, a supporting vowel was added instead, giving disyllabic _*turu-_, a change
 which seems to have occurred at an earlier interstage than POc as Blust (ACD) reconstructs
-*turu- to PCEMP.35
+_*turu-_ to PCEMP.[35]
 
 <
 PAn *tuduS ‘knee’ (ACD)
@@ -8255,12 +8250,12 @@ POc *tur ‘knee’
 
 [35] There were very few monosyllabic POc nouns, so we do not know whether this was a general POc
      strategy for creating disyllabic directly possessed nouns from monosyllabic roots. Blust (ACD) rejects
-     (rightly, in our view) an alternative analysis whereby POc *turu- continues PAn *tuduS via PMP
-     †*tuduh. His grounds are (i) that -CVS metathesis was regular and (ii) that PMP †*tuduh is not reflected
+     (rightly, in our view) an alternative analysis whereby POc _*turu-_ continues PAn _*tuduS_ via PMP
+     †_*tuduh_. His grounds are (i) that -CVS metathesis was regular and (ii) that PMP †_*tuduh_ is not reflected
      in western MP languages.
 
-[36] Final -t reflects Proto Huon Gulf *-c, a formative added to directly possessed nouns lacking a possessor
-     (Ross 1988:144) which was apparently an irregular reflex of POc *-ki (Ross 2001b).
+[36] Final _-t_ reflects Proto Huon Gulf _*-c_, a formative added to directly possessed nouns lacking a possessor
+     (Ross 1988:144) which was apparently an irregular reflex of POc _*-ki_ (Ross 2001b).
 
 170 Meredith Osmond and Malcolm Ross
 
@@ -8283,7 +8278,7 @@ POc *turu- ‘knee, joint’
   MM: Meramera           (pa)tulu-          ‘knee’
   SES: Bugotu            tu-turu-           ‘knee, joint’
   SES: Lau               uru-uru-           ‘knee’
-  SES: Sa’a              uru-uru-           ‘knee’ (uru ‘to bend the knee’)
+  SES: Sa’a              uru-uru-           ‘knee’ (_uru_ ‘to bend the knee’)
   NCV: Pt. Sandwich      (ciki)ndür         ‘kneel down’
   Mic: Woleaian          suẓu-              ‘kneel, knee’
   Fij:   Bauan           duru               ‘knee’
@@ -8299,9 +8294,9 @@ POc *turu- ‘knee, joint’
 <
 PWOc *tuku- ‘knee, elbow’
  NNG: Sio               tuku-               ‘knee’
- NNG: Nenaya            tugu-               ‘knee’ (g for †k)
+ NNG: Nenaya            tugu-               ‘knee’ (_g_ for †_k_)
  NNG: Medebur           tuku-               ‘knee’
- NNG: Manam             tuku-               ‘knee’ (k for †ʔ)
+ NNG: Manam             tuku-               ‘knee’ (_k_ for †_ʔ_)
  MM: Petats             tuk-tuk(rako)       ‘knee’
  MM: Halia              tuku(nu)            ‘elbow’
  MM: Halia              tuku(numu)          ‘knee’
@@ -8330,7 +8325,7 @@ PPn *|qate qi waqe| ‘calf muscles of lower leg’
 Western Oceanic languages have a set of semantically related compounds for the calf. In some
 languages the calf is ‘scrotum of leg’ or ‘testicle of leg’. In others ‘nut of leg’ is found, noting
 that ‘nut’, ‘seed’ and ‘testicle’ are often glosses of the same term in Oceanic languages. In a
-number of Papuan Tip languages it is ‘roe of leg’, where the term for ‘roe’ reflects POc *biRa-
+number of Papuan Tip languages it is ‘roe of leg’, where the term for ‘roe’ reflects POc _*biRa-_
 (vol.4:129).
 
 __formgroup__
@@ -8353,15 +8348,15 @@ __formgroup__
 
 3.6.5.4 Heel
 
-Blust reconstructs PMP *tiked ‘heel’ (ACD), but no Oceanic reflexes have been found. Instead
+Blust reconstructs PMP _*tiked_ ‘heel’ (ACD), but no Oceanic reflexes have been found. Instead
 there are compounds. In NW Melanesia, the usual expression appears to be ‘occiput of foot’,
-using a reflex of POc *k(i,e)ju-/PNGOc *g(i,e)ju- ‘back of head, occiput’ (§3.4.5). Of the
-reflexes below, only Nakanai kisu and Ubir etu- are independently attested in the data with the
+using a reflex of POc _*k(i,e)ju-_/PNGOc _*g(i,e)ju-_ ‘back of head, occiput’ (§3.4.5). Of the
+reflexes below, only Nakanai _kisu_ and Ubir _etu-_ are independently attested in the data with the
 back of the head as denotatum, but there is little doubt that all the items listed are reflexes
-thereof. In Tawala the reduplicated form, encoding ‘little occiput’, lacks a reflex of *g(i,e)ju-,
+thereof. In Tawala the reduplicated form, encoding ‘little occiput’, lacks a reflex of _*g(i,e)ju-_,
 probably once present as it is in closely related Gumawana.
 
-[37] Ramoaaina talia ‘nut of Terminalia catappa’, reflecting POc *talise (vol.3:324).
+[37] Ramoaaina _talia_ ‘nut of Terminalia catappa’, reflecting POc _*talise_ (vol.3:324).
 
 172 Meredith Osmond and Malcolm Ross
 
@@ -8374,11 +8369,11 @@ POc *|k(i,e)ju (qi) qaqe| ‘heel’ (lit. ‘occiput/nape of foot’)
  MM: Nakanai               vaha-kisu-      [foot-occiput-X]              ‘heel’
 >
 
-Takia speakers use the semantically corresponding expression ŋie- buro-n [leg-X occiput-its].
+Takia speakers use the semantically corresponding expression _ŋie- buro-n_ [leg-X occiput-its].
 
    In at least some Oceanic languages the corresponding expression is ‘back of foot’, using
-the relational local noun POc *muri[-] ‘back part, rear, behind, space to the rear of, time after;
-(canoe) stern; space outside’ (vol.2:251) or its variant *buri- (vol.2:253).
+the relational local noun POc _*muri[-]_ ‘back part, rear, behind, space to the rear of, time after;
+(canoe) stern; space outside’ (vol.2:251) or its variant _*buri-_ (vol.2:253).
 
 <
 POc *|[m,b]uri (qi) (w,q)aqe| ‘heel’ (ACD) (lit. ‘back of foot’)
@@ -8391,9 +8386,9 @@ POc *|[m,b]uri (qi) (w,q)aqe| ‘heel’ (ACD) (lit. ‘back of foot’)
 
 3.6.6 Footprint
 
-The addition of *-kV to the Nyindrou, Manam and Mota reflexes of POc *mʷale- ‘footprint’ is
-unexplained, but the addition of -ŋ(V) in the Neve’ei and Tape reflexes implies that *mʷale-
-was at some point a verb, to which nominalising *-ŋa was then added.
+The addition of _*-kV_ to the Nyindrou, Manam and Mota reflexes of POc _*mʷale-_ ‘footprint’ is
+unexplained, but the addition of _-ŋ(V)_ in the Neve’ei and Tape reflexes implies that _*mʷale-_
+was at some point a verb, to which nominalising _*-ŋa_ was then added.
 
 <
 POc *mʷale- ‘footprint’
