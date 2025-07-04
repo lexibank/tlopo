@@ -1919,22 +1919,22 @@ Guinea, Fijian, Polynesian – reflexes of _*ta-mʷataq_ are the general term fo
 
 
     There has been some debate about the form of this reconstruction. Almost all its reflexes
-point to POc *tamʷataq (or *tamataq, as the labial feature of *mʷ has been unstable
-throughout the history of Oceanic),[2] but scholars have pointed to Mussau taumata as reflecting
-POc *tau-mataq, the regular reflex of PMP *tau-mataq ‘person’. Either both forms occurred
-in POc dialects or, as Blust (1981a: 235) implies, the change from *tau-mataq to *tamʷataq had
+point to POc _*tamʷataq_ (or _*tamataq_, as the labial feature of _*mʷ_ has been unstable
+throughout the history of Oceanic),[2] but scholars have pointed to Mussau _taumata_ as reflecting
+POc _*tau-mataq_, the regular reflex of PMP _*tau-mataq_ ‘person’. Either both forms occurred
+in POc dialects or, as Blust (1981a: 235) implies, the change from _*tau-mataq_ to _*tamʷataq_ had
 not occurred by the time Mussau (one of two members of a putative small first-order subgroup
 of Oceanic) separated from the rest of Oceanic. The discussion is in fact perhaps without
-foundation. The change entailed the coarticulation of the rounding gesture of *u in *tau-mataq
-with the following *m, giving rise to *mʷ. No one suggests that the change was a regular one:
-it isn’t reflected in known reflexes of *tau-mate. Rather, it was a lexically specific change in
+foundation. The change entailed the coarticulation of the rounding gesture of _*u_ in _*tau-mataq_
+with the following _*m_, giving rise to _*mʷ_. No one suggests that the change was a regular one:
+it isn’t reflected in known reflexes of _*tau-mate_. Rather, it was a lexically specific change in
 an oft used word. According to the data available to us, the Mussau term for ‘person’ is
-taumatu, not taumata, and taumatu is not a reflex of POc †*tau-mataq, so the reconstruction
-of the POc form *tamwataq is uncontested.
+_taumatu_, not _taumata_, and _taumatu_ is not a reflex of POc †_*tau-mataq_, so the reconstruction
+of the POc form _*tamʷataq_ is uncontested.
 
 <
 PMP *tau-mataq ‘person’ (Dempwolff, Blust 1993)
-POc *tamʷataq ‘human being, especially in ordinary living form’ (Pawley 1985) (*mataq ‘raw, new, green’, vol.1:155)
+POc *tamʷataq ‘human being, especially in ordinary living form’ (Pawley 1985) (_*mataq_ ‘raw, new, green’, vol.1:155)
   Adm: Loniu          amat          ‘human being, person, often used to refer only to males’
   Adm: Bipi           xamak         ‘person’
   Adm: Nyindrou       dramak        ‘person’
@@ -1969,16 +1969,16 @@ cf. also:
                                                                                       People 45
 
 
-2.2.2.2 POc *tau-mate ‘dead person’
+2.2.2.2 POc _*tau-mate_ ‘dead person’
 
-POc *tau-mate ‘corpse’, from tau ‘person’ (§2.2.1.2) and mate ‘die’ (§4.2.1.2) is reconstructed
+POc _*tau-mate_ ‘corpse’, from _tau_ ‘person’ (§2.2.1.2) and _mate_ ‘die’ (§4.2.1.2) is reconstructed
 on the basis of WOc and Micronesian reflexes. However, given the ubiquity of compounds
-with *tau (§2.2.1.2), it is possible that the term was innovated independently in each of the two
-areas. The NCV terms are not fully cognate, as they appear to reflect *qata rather than *tau as
+with _*tau_ (§2.2.1.2), it is possible that the term was innovated independently in each of the two
+areas. The NCV terms are not fully cognate, as they appear to reflect _*qata_ rather than _*tau_ as
 their first element (§2.2.3.2).
 
 <
-POc *tau-mate ‘dead person’ (tau ‘person’ + mate ‘die, dead’)
+POc *tau-mate ‘dead person’ (_tau_ ‘person’ + _mate_ ‘die, dead’)
  PT:  Muyuw           toumat             ‘dead person’
  PT:  Kilivila        tomata             ‘corpse, dead person’
  PT:  Molima          tomate             ‘dead person’
@@ -1997,13 +1997,13 @@ cf. also
 
 2.2.3 POc *qata ‘person’
 
-There is another reconstruction, POc *qata, whose reflexes mean ‘human being’. Like *tau
+There is another reconstruction, POc _*qata_, whose reflexes mean ‘human being’. Like _*tau_
 (§2.2.1) it is reflected both as an independent noun and as the first part of a number of
 compounds.
 
-2.2.3.1 Unbound reflexes of POc * qata ‘person’
+2.2.3.1 Unbound reflexes of POc _*qata_ ‘person’
 
-In a 1972b note, repeated in the ACD, Blust reconstructs PMP *qaRta with the meaning
+In a 1972b note, repeated in the ACD, Blust reconstructs PMP _*qaRta_ with the meaning
 ‘outsiders, alien people’. He lists reflexes that include terms of self-designation from Negrito
 people in Northern Luzon, terms meaning ‘slave’ in a geographically restricted area from the
 southern Philippines to the Lesser Sundas, and a wide but discontinuous set of terms from
@@ -2011,22 +2011,22 @@ Sumatra to Maluku that simply denote ‘man, person’. He includes no Oceanic c
 concludes that ‘outsiders, alien people’ is the prior PMP meaning with ‘person’ as a semantic
 neutralisation in scattered areas.
 
-   Putative reflexes of POc *qata meaning ‘person’ occur in Vanuatu and New Caledonia. No
+   Putative reflexes of POc _*qata_ meaning ‘person’ occur in Vanuatu and New Caledonia. No
 Oceanic reflexes carry the Malayo-Polynesian meaning ‘outsider’ except the possible New
-Caledonian reflexes listed under ‘cf. also’, because they reflect *qataC rather than *qata. A
-reasonable inference is that they reflect a compound consisting originally of *qata and another
-morpheme. If so, then their meaning does not necessarily attest to the meaning of POc *qata.
+Caledonian reflexes listed under ‘cf. also’, because they reflect *qataC rather than _*qata_. A
+reasonable inference is that they reflect a compound consisting originally of _*qata_ and another
+morpheme. If so, then their meaning does not necessarily attest to the meaning of POc _*qata_.
 
 46 Malcolm Ross and Meredith Osmond
 
 
-   There are also apparent reflexes of POc *qata which mean ‘soul, spirit’, but François
+   There are also apparent reflexes of POc _*qata_ which mean ‘soul, spirit’, but François
 (2013) points out that in NCV languages these reflexes are inalienably possessed and have
-remained separate from reflexes of *qata ‘person’. The homophony is accidental. POc *qata
-‘person’ reflects PMP *qaRta ‘outsiders, alien people’, and POc *qata(r) ‘image, reflection,
-soul, spirit’ reflects PMP *qatad ‘appearance, mark’ (§3.9.1).
+remained separate from reflexes of _*qata_ ‘person’. The homophony is accidental. POc _*qata_
+‘person’ reflects PMP _*qaRta_ ‘outsiders, alien people’, and POc _*qata(r)_ ‘image, reflection,
+soul, spirit’ reflects PMP _*qatad_ ‘appearance, mark’ (§3.9.1).
 
-   The North New Guinea reflexes of *qata ‘person’ below function as an emphatic (‘he did it
+   The North New Guinea reflexes of _*qata_ ‘person’ below function as an emphatic (‘he did it
 himself’; cf. §2.2.1.3).
 
 <
@@ -2057,32 +2057,32 @@ cf. also:
  NCal: Xârâcùù            ka                 ‘stranger, foreigner’ (Grace 1972)
 >
 
-2.2.3.2 Compounds formed with POc *qata- ‘person’
+2.2.3.2 Compounds formed with POc _*qata-_ ‘person’
 
-   A number of POc compounds had *qata- ‘person’ as their first element. They differ from
-those that had *tau- as their first element. Whereas *tau- is roughly translated ‘person who
-…’ (§2.2.1.2), compounds with *qata- simply denote a person (as *tamʷataq ‘living person’
+   A number of POc compounds had _*qata-_ ‘person’ as their first element. They differ from
+those that had _*tau-_ as their first element. Whereas _*tau-_ is roughly translated ‘person who
+…’ (§2.2.1.2), compounds with _*qata-_ simply denote a person (as _*tamʷataq_ ‘living person’
 does; §2.2.2.1) and gender- and age-based categories of human beings. In this section those
 compounds that denote people in general are presented. Compounds denoting gender-based
-categories are POc *qata-mʷaqane ‘man, male’ (§2.3.1) and POc *qata-pine ‘woman,
+categories are POc _*qata-mʷaqane_ ‘man, male’ (§2.3.1) and POc _*qata-pine_ ‘woman,
 female’ (§2.3.2). Those denoting age-based categories—they are not widely reflected—are
-Proto SE Solomonic *qata-natu ‘child’ and Proto North–Central Vanuatu *ta-maraɣai ‘old
-man’ (§2.4.6). The sense of POc *qata-mate ‘malevolent spirit of a dead person’ suggests that
-it almost certainly reflects POc *qata(r) ‘image, reflection, soul, spirit’, not POc *qata
+Proto SE Solomonic _*qata-natu_ ‘child’ and Proto North–Central Vanuatu _*ta-maraɣai_ ‘old
+man’ (§2.4.6). The sense of POc _*qata-mate_ ‘malevolent spirit of a dead person’ suggests that
+it almost certainly reflects POc _*qata(r)_ ‘image, reflection, soul, spirit’, not POc _*qata_
 ‘person’.
 
                                                                                        People 47
 
-    François (2013) points out that where a term for a category or people begins with *ta-, this
-is potentially ambiguous between an origin in *qata- and one in *tau-. However, as just noted,
-there seems to be a systematic difference in meaning between *tau- and *qata-. There is also a
-phonological difference, as *tau- is usually reflected as tau- or to-, and the diphthong *-au- is
+    François (2013) points out that where a term for a category or people begins with _*ta-_, this
+is potentially ambiguous between an origin in _*qata-_ and one in _*tau-_. However, as just noted,
+there seems to be a systematic difference in meaning between _*tau-_ and _*qata-_. There is also a
+phonological difference, as _*tau-_ is usually reflected as _tau-_ or _to-_, and the diphthong _*-au-_ is
 reflected even in Micronesian languages where there has been substantial phonological
-change. Prefixed *qata-, on the other hand, is reflected as ta- when it loses its first syllable, as
+change. Prefixed _*qata-_, on the other hand, is reflected as _ta-_ when it loses its first syllable, as
 it often does.
 
-    Most of the following are restricted to a local group of languages. Only Proto Remote Oceanic *[qa]ta-
-maquri ‘living person’ (*maqurip ‘be alive’; §4.2.1.1) spans a large piece of Oceania, but it
+    Most of the following are restricted to a local group of languages. Only Proto Remote Oceanic
+_*[qa]ta-maquri_ ‘living person’ (_*maqurip_ ‘be alive’; §4.2.1.1) spans a large piece of Oceania, but it
 has few reflexes and may reflect parallel innovations.
 
 <
@@ -2093,8 +2093,8 @@ Proto Remote Oceanic *[qa]ta-maquri ‘living person’
   Fij: Rotuman          famori                 ‘human being’
 >
 
-The second element of Proto Torres-Banks *(qa)ta-dunu ‘individual, person’ reflects PNCV
-*dunu ‘true, real’ (Clark 2009).
+The second element of Proto Torres-Banks _*(qa)ta-dunu_ ‘individual, person’ reflects PNCV
+_*dunu_ ‘true, real’ (Clark 2009).
 
 <
 PNCV *(qa)ta-dunu ‘individual, person’ (François 2013)
@@ -2125,14 +2125,14 @@ PSV *n-ata-mimi(q), *i-ata-mimi(q) ‘person’
 48 Malcolm Ross and Meredith Osmond
 
 
-2.2.4 POc *tinoni ‘person, people’
+2.2.4 POc _*tinoni_ ‘person, people’
 
-    Reflexes of POc *tinoni are limited to two subgroups. Apart from Vitu off the north coast
+    Reflexes of POc _*tinoni_ are limited to two subgroups. Apart from Vitu off the north coast
 of New Britain, all languages listed here are from the Northwest Solomons or the Southeast
 Solomons where the term apparently has now become the general term for a human being. Its
 limited range makes it difficult to establish its POc meaning.
 
-    As with English ‘man’, reflexes of both *ta-mwataq and *tinoni may sometimes be used as
+    As with English ‘man’, reflexes of both _*ta-mʷataq_ and _*tinoni_ may sometimes be used as
 a term for people in general and sometimes for males only.
 
 <
@@ -2152,70 +2152,70 @@ POc *tinoni ‘person, people’
 >
 
 
-2.2.5 POc *k(w)a(i) ‘person’
+2.2.5 POc _*(k,kʷ)a(i)_ ‘person’
 
-The reconstruction of POc *k(w)a(i) ‘person’ is somewhat speculative. This morpheme appears
+The reconstruction of POc _*(k,kʷ)a(i)_ ‘person’ is somewhat speculative. This morpheme appears
 to have meant ‘a person belonging to a certain group’, and was followed by a modifier
 indicating the identity of that group. It is reflected in this function or something close to it in
 the Iduna, To’aba’ita, Arosi, Nguna, Bauan and Wayan Fijian terms and perhaps in the plural
-form PPn *ka-kai. The reconstruction is speculative in two respects. First, in Western Oceanic
-languages in particular, there are numerous forms beginning with ka- which denote a category
-of person, and we have taken these to be reflexes of *ka. Some of them may well have other
-origins. Where possible the modifier that follows the reflex of *ka- is identified. Second, the
-form of the reconstruction is uncertain. POc *kʷa- is reflected as far east as Bugotu (with
-exceptions in Medebur and Bola), switching to *kʷai- from Malaita and Makira eastward.[4]
-Reconstruction of initial *kʷ-, rather than *k-, is also uncertain. POc *kʷ was an unstable
-phoneme that is reflected as kʷ only in Papuan Tip languages and Western Fijian (Ross 2011).
-In these and some other languages *kʷa sometimes becomes *ko. Among the reflexes
-below ,Iduna kʷa-na and Wayan koi are thus consistent with the reconstruction of POc kʷa(i).
+form PPn _*ka-kai_. The reconstruction is speculative in two respects. First, in Western Oceanic
+languages in particular, there are numerous forms beginning with _ka-_ which denote a category
+of person, and we have taken these to be reflexes of _*ka_. Some of them may well have other
+origins. Where possible the modifier that follows the reflex of _*ka-_ is identified. Second, the
+form of the reconstruction is uncertain. POc _*kʷa-_ is reflected as far east as Bugotu (with
+exceptions in Medebur and Bola), switching to _*kʷai-_ from Malaita and Makira eastward.[4]
+Reconstruction of initial _*kʷ-_, rather than _*k-_, is also uncertain. POc _*kʷ_ was an unstable
+phoneme that is reflected as _kʷ_ only in Papuan Tip languages and Western Fijian (Ross 2011).
+In these and some other languages *kʷa sometimes becomes _*ko_. Among the reflexes
+below, Iduna _kʷa-na_ and Wayan _koi_ are thus consistent with the reconstruction of POc _kʷa(i)_.
 Indeed, we have no other explanation for them (other than the possibility that the set below
 includes some non-cognate forms). Proto Malaita-Makira, however, normally reflects POc
-*kʷ- as *k-, but the forms below instead reflect *ɣ-, casting doubt on the reconstruction of POc
-*kʷ-.
+_*kʷ-_ as _*k-_, but the forms below instead reflect _*ɣ-_, casting doubt on the reconstruction of POc
+_*kʷ-_.
 
-[3] PEMP *tinoni is reconstructed on the basis of the Oceanic reflexes here and two West New Guinea reflexes,
-    Biak snon 'man', Dusner snon 'male'.
+[3] PEMP _*tinoni_ is reconstructed on the basis of the Oceanic reflexes here and two West New Guinea reflexes,
+    Biak _snon_ 'man', Dusner _snon_ 'male'.
 
-[4] We have asked ourselves whether *kʷai- reflects *kʷa qi, where *qi is the marker of nonspecific
-    possession that follows a directly possessed noun. This would mean that *kʷa was directly possessed, as
-    it appears to be in Iduna. But the expected form would then be *kʷaqi, not *kʷai.
+[4] We have asked ourselves whether _*kʷai-_ reflects _*kʷa qi_, where _*qi_ is the marker of nonspecific
+    possession that follows a directly possessed noun. This would mean that _*kʷa_ was directly possessed, as
+    it appears to be in Iduna. But the expected form would then be _*kʷaqi_, not _*kʷai_.
 
                                                                                    People 49
 
 
 <
-POc *k(w)a(i) ‘person belonging to a category’ (Pawley 1985: PEOc *kai ‘person’)
-PWOc *k(w)a[i] ‘person belonging to a category’
+POc *(k,kʷ)a(i) ‘person belonging to a category’ (Pawley 1985: PEOc _*kai_ ‘person’)
+PWOc *(k,kʷ)a[i] ‘person belonging to a category’
  NNG: Bariai           ka-kau-iriria      ‘young man’
- NNG: Medebur          kai-dik-waun       ‘young man’ (waun ‘new, young’; cf. wai-dik ‘woman’)
+ NNG: Medebur          kai-dik-waun       ‘young man’ (_waun_ ‘new, young’; cf. _wai-dik_ ‘woman’)
  NNG: Medebur          kai-n              ‘boy’
  NNG: Manam            ka-leti            ‘foreigner, white man’
  SJ:  Tobati           ha-r               ‘person’
  SJ:  Ormu             ka-ru              ‘person’
- PT:  Iduna            kʷa-na             ‘person of group’ (e.g. kʷana-ʔoyaʔoya ‘man of the mountains’, kʷana-koyokoyo ‘poor/bad man’)
+ PT:  Iduna            kʷa-na             ‘person of group’ (e.g. _kʷana-ʔoyaʔoya_ ‘man of the mountains’, _kʷana-koyokoyo_ ‘poor/bad man’)
  PT:  Iduna            ka-liva            ‘man, male, person’
  MM:  Vitu             kaka               ‘person’
- MM:  Bulu             kaka-tara          ‘person’ (tara ‘mature’)
+ MM:  Bulu             kaka-tara          ‘person’ (_tara_ ‘mature’)
  MM:  Bola             kakai              ‘boss’
  MM:  Tabar            ka                 ‘man’
  MM:  Madak            ka-dioŋ            ‘stranger, foreign -person’
  MM:  Madak            ka-vus             ‘white person’
- MM:  Sursurunga       ka-lik             ‘child’ (-lik endearment particle)
+ MM:  Sursurunga       ka-lik             ‘child’ (_-lik_ endearment particle)
  MM:  Sursurunga       kə-ləmul           ‘person’
  MM:  Sursurunga       kə-ləu             ‘man, boy’
  MM:  Tangga           ka-ltu             ‘man’
  MM:  Ramoaaina        ka-ulung           ‘ignorant person; bush dweller’
  MM:  Ramoaaina        kə-puana           ‘pitied person’
- MM:  Solos            ka-tun             ‘person’ (tun < Proto NW Solomonic *tuna ‘correct, proper’)
- MM:  Petats           ka-tun             ‘person’ (see Solos ka-tun)
- MM:  Halia (Haku)     ka-tun             ‘person’ (see Solos ka-tun)
+ MM:  Solos            ka-tun             ‘person’ (_tun_ < Proto NW Solomonic _*tuna_ ‘correct, proper’)
+ MM:  Petats           ka-tun             ‘person’ (see Solos _ka-tun_)
+ MM:  Halia (Haku)     ka-tun             ‘person’ (see Solos _ka-tun_)
  MM:  Mono-Alu         ka-nega            ‘man, husband; big’
 Proto Malaita-Makira *ɣai ‘person, person belonging to …’
- SES: To’aba’ita       ʔai            ‘collectivity’ (e.g. kai ni bulisi ‘police unit’)
+ SES: To’aba’ita       ʔai            ‘collectivity’ (e.g. _kai ni bulisi_ ‘police unit’)
  SES: Kwaio            ai             ‘person’
  SES: Lau              ʔai            ‘person, individual, woman’
- SES: Arosi            ai             ‘native of place’ (e.g. ai [ni] Waŋo ‘native of Wango’)
-PNCV *kai-masi ‘sorcerer’ (Clark 2009) (*masi-ŋa ‘love magic’)
+ SES: Arosi            ai             ‘native of place’ (e.g. _ai [ni] Waŋo_ ‘native of Wango’)
+PNCV *kai-masi ‘sorcerer’ (Clark 2009) (_*masi-ŋa_ ‘love magic’)
  NCV: Paamese          eimasi           ‘evil spirit’
  NCV: Nguna            na-kaimasi       ‘sorcerer’
  NCV: Nguna            na-kā            ‘people (of a particular chief or place)’
@@ -2224,21 +2224,21 @@ PNCV *kai-masi ‘sorcerer’ (Clark 2009) (*masi-ŋa ‘love magic’)
 50 Malcolm Ross and Meredith Osmond
 
 <
-PFij *k(w)ai ‘person of a place or category specified by the modifier’
+PFij *(k,kʷ)ai ‘person of a place or category specified by the modifier’
   Fij: Bauan       kai           ‘person of group’ (e.g. _kai Viti_ ‘Fijian’, _kai ðolo_ ‘person of the interior)
   Fij: Wayan       koi           ‘person of a place or category specified by the modifier’ (e.g. _koi Niusiladi_ ‘New Zealander’, _koi ata_ ‘inhabitant of the interior of Viti Levu and other large islands; inlander’)
-PPn *kai ‘person of one place or kind’ (plural: *ka-kai) (POLLEX)
-  Pn: Tongan       kai-fonua     ‘commoner’ (fonua ‘land, territory, place)
+PPn *kai ‘person of one place or kind’ (plural: _*ka-kai_) (POLLEX)
+  Pn: Tongan       kai-fonua     ‘commoner’ (_fonua_ ‘land, territory, place)
   Pn: Tongan       ka-kai        ‘people’
-  Pn: Tongan       kai-na        ‘occupied by strangers’ (-na stative formative)
+  Pn: Tongan       kai-na        ‘occupied by strangers’ (_-na_ stative formative)
   Pn: Samoan       ʔa-ʔai        ‘village, town’
   Pn: Samoan       ʔai-nā        ‘be inhabited’
   Pn: E Futunan    ka-kai        ‘people, nation’
-  Pn: E Uvean      kai-fenua     ‘commoner, peasant’ (fenua ‘land’)
+  Pn: E Uvean      kai-fenua     ‘commoner, peasant’ (_fenua_ ‘land’)
   Pn: E Uvean      kai-amaki     ‘bad person who seeks to do ill to others’
   Pn: Tokelauan    ka-kai        ‘village, city, town’
   Pn: Pukapukan    ka-kai        ‘all the people of a place’
-  Pn: Tahitian     ai-ani        ‘a shameless beggar’ (ani ‘hungry’)
+  Pn: Tahitian     ai-ani        ‘a shameless beggar’ (_ani_ ‘hungry’)
   Pn: Tuamotuan    kai           ‘body, group of blood relatives’
   Pn: Māori        kai-          (agentive nominalising prefix)
 >
@@ -2248,32 +2248,32 @@ PPn *kai ‘person of one place or kind’ (plural: *ka-kai) (POLLEX)
 
 2.3.1 Man, male
 
-Two POc terms are reconstructable reflecting PMP *ma-Ruqanay ‘male, man’. They perhaps
+Two POc terms are reconstructable reflecting PMP _*ma-Ruqanay_ ‘male, man’. They perhaps
 occurred in different POc dialects, as no language reflects both. The expected form, POc
-*maRuqane, is reflected in just a few languages, in the Papuan Tip and Meso-Melanesian
-linkages of Western Oceanic. Much more widespread is POc *mwaqane, a curiously truncated
-variant of *maRuqane.
+_*maRuqane_, is reflected in just a few languages, in the Papuan Tip and Meso-Melanesian
+linkages of Western Oceanic. Much more widespread is POc _*mʷaqane_, a curiously truncated
+variant of _*maRuqane_.
 
     Blust (1982b) comments that the origin of the truncated form is problematic. Lynch (2002e)
-suggests two possible origins. Both assume that *-R- had been irregularly lost (it is
+suggests two possible origins. Both assume that _*-R-_ had been irregularly lost (it is
 sporadically lost in non-Oceanic languages too, perhaps because tetrasyllabic roots were
-dispreferred). The first hypothesis says that the *m- of *maRuqane became *mʷ- under the
-influence of *-u-. For this to be true, *-u- must have been adjacent to *m-, as the two fused as
-*mʷ- (cf. the discussion of the history of *tamʷata in §2.2.2.1). Lynch suggests that
-*maRuqane metathesised to †*muRaqane, This would have been followed by loss of *-R-,
-giving †*muaqane, leading to *mʷaqane.
+dispreferred). The first hypothesis says that the _*m-_ of _*maRuqane_ became _*mʷ-_ under the
+influence of _*-u-_. For this to be true, _*-u-_ must have been adjacent to _*m-_, as the two fused as
+_*mʷ-_ (cf. the discussion of the history of _*tamʷata_ in §2.2.2.1). Lynch suggests that
+_*maRuqane_ metathesised to †_*muRaqane_, This would have been followed by loss of _*-R-_,
+giving †_*muaqane_, leading to _*mʷaqane_.
 
-    Lynch also offers an alternative explanation whereby *maRuqane formed a compound
-*tau-maRuqane, giving rise to *tamʷaRuqane (cf. §2.2.2.1), which was then reanalysed,
-leaving mʷaRuqane as a separate morpheme with initial *mʷ-. Of the two explanations, the
-first is more explanatory, as the second fails to explain loss of *-u-. There is in any case
-evidence that forms that might be taken to reflect *tau-maRuqane actually reflect *qata-
-mʷaqane.
+    Lynch also offers an alternative explanation whereby _*maRuqane_ formed a compound
+_*tau-maRuqane_, giving rise to _*tamʷaRuqane_ (cf. §2.2.2.1), which was then reanalysed,
+leaving _mʷaRuqane_ as a separate morpheme with initial _*mʷ-_. Of the two explanations, the
+first is more explanatory, as the second fails to explain loss of _*-u-_. There is in any case
+evidence that forms that might be taken to reflect _*tau-maRuqane_ actually reflect
+_*qata-mʷaqane_.
 
                                                                                          People 51
 
-   The few forms that reflect *maRuqane all mean ‘male, man’. There is good evidence that
-POc *mwaqane had two uses. As an independent noun, it meant ‘male, man’, but as a directly
+   The few forms that reflect _*maRuqane_ all mean ‘male, man’. There is good evidence that
+POc _*mʷaqane_ had two uses. As an independent noun, it meant ‘male, man’, but as a directly
 possessed noun (§3.1.1) it meant ‘brother of a woman’. It appears with this sense in the
 Admiralties and across Remote Oceanic, establishing its POc origin.
 
@@ -2290,9 +2290,9 @@ POc *maRuqane ‘man, male’ (Blust 1993)
 <
 PAn *ma-RuqaLay ‘male, man’ (ACD)
 PMP *ma-Ruqanay ‘male, man’
-POc *mwaqane ‘man, male; brother (of woman)’ (Milke 1958: *mwane ‘brother (of woman)’)
+POc *mʷaqane ‘man, male; brother (of woman)’ (Milke 1958: _*mʷane_ ‘brother (of woman)’)
   Adm:  Seimat         wawan             ‘man as opposed to woman’
-  Adm:  Lou            mwanɛ-            ‘brother (woman speaking)’
+  Adm:  Lou            mʷanɛ-            ‘brother (woman speaking)’
   NNG:  Manam          mʷane             ‘male’
   NNG:  Terebu         maken             ‘man’
   PT:   Molima         moane             ‘spouse’
@@ -2305,7 +2305,7 @@ POc *mwaqane ‘man, male; brother (of woman)’ (Milke 1958: *mwane ‘brother 
   SES:  Longgu         mʷanei            ‘man, male’
   SES:  Lau            ŋʷane             ‘male’
   SES:  Kwaio          wane              ‘man, male, human being’
-  SES:  Sa’a           mwane             ‘male, man, boy’
+  SES:  Sa’a           mʷane             ‘male, man, boy’
   SES:  To’aba’ita     wane              ‘man, husband; person of unspecified sex’[5]
   NCV:  Nokuku         mane-             ‘brother’
   NCV:  Kiai           mane-             ‘(elder) brother (of woman)’
@@ -2315,7 +2315,7 @@ POc *mwaqane ‘man, male; brother (of woman)’ (Milke 1958: *mwane ‘brother 
   NCV:  Lewo           mʷene-            ‘brother (of woman)’
   SV:   Sye            mano-             ‘brother (of woman)’
   SV:   N Tanna        mʷanə-            ‘brother (of woman)’
-  SV:   Whitesands     nəmwanə-           ‘brother (of woman)’
+  SV:   Whitesands     nəmʷanə-           ‘brother (of woman)’
   SV:   Lenakel        nə-mʷanə-          ‘brother (of woman)’
   NCal: Nixumwak       mʷala-             ‘brother of woman’ (Lynch 2002e)
   NCal: Iaai           mañi-              ‘opposite sex sibling’
@@ -2339,15 +2339,15 @@ POc *mwaqane ‘man, male; brother (of woman)’ (Milke 1958: *mwane ‘brother 
 52 Malcolm Ross and Meredith Osmond
 
 
-    The following POc reconstruction is a compound of *qata ‘person’ and POc *mwaqane
+    The following POc reconstruction is a compound of _*qata_ ‘person’ and POc _*mʷaqane_
 ‘man, male’ (cf. §2.2.3.2), based on numerous reflexes, many of which show reduction of
-form in various ways, commonly by deleting *qa-. Polynesian languages have deleted *-mwa-.
+form in various ways, commonly by deleting _*qa-_. Polynesian languages have deleted _*-mʷa-_.
 Only two widely separated reflexes, Nakanai (MM) and Anejom (SV) share the meaning
-‘brother of woman’, but, given that POc * mwaqane had this sense, it is reasonable to attribute
-it also to POc *qata-mwaqane.
+‘brother of woman’, but, given that POc _*mʷaqane_ had this sense, it is reasonable to attribute
+it also to POc _*qata-mʷaqane_.
 
 <
-POc *qata-mwaqane ‘man, male; brother (of woman)’
+POc *qata-mʷaqane ‘man, male; brother (of woman)’
   NNG: Kove             tamone             ‘man’
   NNG: Sio              tamɔne             ‘man, male’
   NNG: Mangseng         to-tomone          ‘male (human)’
@@ -2365,18 +2365,18 @@ PSOc *qata-mʷaqane ‘man, male’ (Lynch 2004e)
   NCV: Mwotlap          na-tŋmʷan          ‘male, man, husband’ (François 2013)
   NCV: Vurës            atŋmʷɪn            ‘male, man, husband’ (François 2013)
   NCV: Mwesen           atŋmʷɪn            ‘male, man, husband’ (François 2013)
-  NCV: Raga             atamwani           ‘man, male’
+  NCV: Raga             atamʷani           ‘man, male’
   NCV: Paamese          tomane             ‘male, masculine’
   NCV: Uripiv           n-orman            ‘man, male’
   NCV: Port Sandwich    roman                   ‘cock’
-  NCV: Namakir           tamwaʔan            ‘man, male’
+  NCV: Namakir           tamʷaʔan            ‘man, male’
 PSV *n-atamʷaqane, *i-atamʷaqane ‘man, male’
   SV: Sye                n-atman             ‘man, male’
   SV: Ura                y-armon             ‘man, male’
   SV: N Tanna            i-etemān            ‘man, male’
-  SV: Lenakel            i-eramwān           ‘man, male’
+  SV: Lenakel            i-eramʷān           ‘man, male’
   SV: SW Tanna           i-elmān             ‘man, male’
-  SV: Anejom             n-atamwañ           ‘man, woman’s brother’
+  SV: Anejom             n-atamʷañ           ‘man, woman’s brother’
   Fij:   Wayan           taŋʷane            ‘man, male’
   Fij:   Bauan           taŋane              ‘male’
 PPn *taqane ‘male’ (POLLEX) (with loss of *-mʷa-)
@@ -2390,11 +2390,11 @@ PPn *taqane ‘male’ (POLLEX) (with loss of *-mʷa-)
                                                                                  People 53
 
 
-   There is also reasonable evidence for a shortened form of POc *qata-mwaqane ‘man, male’
-in New Guinea Oceanic, namely PNGOc *qata-mwaq(a) ‘man, male’.
+   There is also reasonable evidence for a shortened form of POc _*qata-mʷaqane_ ‘man, male’
+in New Guinea Oceanic, namely PNGOc _*qata-mʷaq(a)_ ‘man, male’.
 
 <
-PNGOc *qata-mwaq(a) ‘man, male’
+PNGOc *qata-mʷaq(a) ‘man, male’
   NNG: Tami            tamu                  ‘man’
   NNG: Mutu            tamoɣ                 ‘man’
   NNG: Mangap          tom-tom               ‘person’
@@ -2417,19 +2417,18 @@ Proto Markham *ɣaram ‘man’
 2.3.2 Woman
 
 The terms for ‘woman, female’ present one of the most challenging reconstructive tasks in
-Austronesian historical linguistics, with a number of terms derived from PAn *bahi ‘woman,
+Austronesian historical linguistics, with a number of terms derived from PAn _*bahi_ ‘woman,
 female’. (Blust 1982b, ACD).[6] Although POc reflects only two of the many variants reflected in
-non-Oceanic languages, namely *pine and *papine, it has generated variants of its own. With
-some exceptions, most in Vanuatu, *pine occurs only in the compounds presented below.
+non-Oceanic languages, namely _*pine_ and _*papine_, it has generated variants of its own. With
+some exceptions, most in Vanuatu, _*pine_ occurs only in the compounds presented below.
 
 54 Malcolm Ross and Meredith Osmond
 
 
-
-   In Bugotu and Gela (both SES) the regular reflex of *papine means ‘opposite-sex sibling’,
-and across SE Solomonic the term for ‘woman’ reflects POc *paipine, a variant that remains
-unexplained. In a number of Papuan Tip reflexes of *papine and *paipine initial *p- is
-replaced by *w-, again an unexplained change.
+   In Bugotu and Gela (both SES) the regular reflex of _*papine_ means ‘opposite-sex sibling’,
+and across SE Solomonic the term for ‘woman’ reflects POc _*paipine_, a variant that remains
+unexplained. In a number of Papuan Tip reflexes of _*papine_ and _*paipine_ initial _*p-_ is
+replaced by _*w-_, again an unexplained change.
 
 <
 PAn *b<in>ahi ‘woman, female’ (Blust 1982b, ACD)
@@ -2438,7 +2437,7 @@ POc *pine ‘woman, female; sister of man’
   PT:  Iduna          vine-             ‘woman of (PLACENAME)’
   PT:  Iduna          vine(sikʷa)       ‘widow, widowed woman’
   PT:  Iduna          vine(ulatana)     ‘young unmarried girl, teenager’
-  MM:  Vitu           vine              ‘young girl’ (cf. tavine ‘woman’)
+  MM:  Vitu           vine              ‘young girl’ (cf. _tavine_ ‘woman’)
   MM:  Roviana        vine(ki)          ‘female’
   NCV: Lo Toga        (ləkʷɛ)vinə       ‘woman’
   NCV: Lehali         (n-lɔk)vɛn        ‘woman’
@@ -2472,8 +2471,8 @@ POc *papine ‘woman, female; sister of man’ (Milke 1958)
  NNG: Gedaged          pain             ‘woman’
  NNG: Manam            aine             ‘woman, female, girl’
  NNG: Wogeo            vaine            ‘woman’
- PT:  Dobu             waine            ‘woman’ (w- for †0̷-)
- PT:  Gapapaiwa        wavine           ‘woman’ (w- for †v-)
+ PT:  Dobu             waine            ‘woman’ (_w-_ for †_0̷-_)
+ PT:  Gapapaiwa        wavine           ‘woman’ (_w-_ for †_v-_)
  PT:  Sinaugoro        vavine           ‘woman’
  PT:  Motu             hahine           ‘woman, female’
  MM:  Lavongai         aina             ‘woman’
@@ -2483,7 +2482,7 @@ POc *papine ‘woman, female; sister of man’ (Milke 1958)
  MM:  Tolai            vavina           ‘woman’
  MM:  Siar             fain             ‘woman’
  MM:  Petats           hihin            ‘woman’
- MM:  Torau            baina            ‘woman’ (b- for †0̷-)
+ MM:  Torau            baina            ‘woman’ (_b-_ for †_0̷-_)
  SES: Bugotu           vavine           ‘opposite-sex sibling’
  SES: Gela             vavine           ‘opposite-sex sibling’
  NCV: Mota             vavine           ‘woman, female (used also of animals and birds)’
@@ -2503,18 +2502,18 @@ POc *papine ‘woman, female; sister of man’ (Milke 1958)
  Pn:  Tikopia          fafine           ‘woman’
 >
 
-[6] Oceanic forms are derived from PMP *b<in>ahi, a form of the root *bahi infixed with *<in> PERFECTIVE.
+[6] Oceanic forms are derived from PMP _*b<in>ahi_, a form of the root _*bahi_ infixed with _*<in>_ PERFECTIVE.
 
                                                                             People 55
 
 
 <
 POc *paipine ‘woman, female; sister (of man)’
- PT:  Suau (Daui)     waihin             ‘woman’ (w- for †h-)
- PT:  Nimoa           waiine             ‘woman’ (w- for †0̷-)
+ PT:  Suau (Daui)     waihin             ‘woman’ (_w-_ for †_h-_)
+ PT:  Nimoa           waiine             ‘woman’ (_w-_ for †_0̷-_)
  SES: Bugotu          vaivine            ‘woman, female’
  SES: Gela            vaivine            ‘woman’
- SES: Bauro           hehene             ‘woman’ (assimilation of *ai > e)
+ SES: Bauro           hehene             ‘woman’ (assimilation of _*ai_ > _e_)
  SES: Fagani          hehene             ‘woman’
  SES: Kahua           hehene             ‘woman’
  SES: Arosi           haihine            ‘woman’
@@ -2527,10 +2526,10 @@ POc *paipine ‘woman, female; sister (of man)’
 56 Malcolm Ross and Meredith Osmond
 
 
-   Corresponding to *qata-mwaqane ‘man’ (§2.3.1) is POc *qata-pine, a compound of *qata
-‘person’ and POc *pine ‘woman, female’ (cf. §2.2.3.2). No five-syllable reflexes of POc
-†*qata-papine ‘woman, female’ have been found. Like other compounds in *qata-, the first
-element is often reduced to ta-.
+   Corresponding to _*qata-mʷaqane_ ‘man’ (§2.3.1) is POc _*qata-pine_, a compound of _*qata_
+‘person’ and POc _*pine_ ‘woman, female’ (cf. §2.2.3.2). No five-syllable reflexes of POc
+†_*qata-papine_ ‘woman, female’ have been found. Like other compounds in _*qata-_, the first
+element is often reduced to _ta-_.
 
 <
 POc *qata-pine ‘woman, female’
@@ -2563,8 +2562,8 @@ cf. also:
   Pn:  Samoan         te-ine         ‘girl’
 >
 
-   Data from the westerly part of the north coast of New Guinea point to a variant *mapine
-for *papine:
+   Data from the westerly part of the north coast of New Guinea point to a variant _*mapine_
+for _*papine_:
 
 __formgroup__
   NNG: Kaiep             main              ‘woman’
@@ -2576,7 +2575,7 @@ __formgroup__
                                                                                                   People 57
 
 
-This in turn also seems to have formed a compound *(qa)ta-mapine:
+This in turn also seems to have formed a compound _*(qa)ta-mapine_:
 
 __formgroup__
      NNG: Kove                   tamine                ‘woman’
@@ -2607,7 +2606,7 @@ an eight-language sample are laid out in Table 13.[8]
 
     Several observations are in order. The empty cells in Table 13 marked with ‘…’ might be
 filled if the data were more complete, but the empty cells marked with ‘—’ are probably
-artefacts of our representation of gender-related terms. For example, Mutu has kōŋ ‘mature
+artefacts of our representation of gender-related terms. For example, Mutu has _kōŋ_ ‘mature
 person’, but apparently no dedicated terms for ‘mature man’ or ’mature woman’. To’aba’ita
 has gender-specific terms for (marriageable) young adults, but apparently no genderless term
 for ‘young adult’. Numbami and Mwotlap stand out from the other languages in the table in
@@ -2623,13 +2622,13 @@ single-word terms. These are shown in Table 14. The exception here is Mwotlap, w
 fewer terms are formed with modifiers.
 
     The basic divisions in Table 14 are (1a) baby, (1b) prepubescent child and (1c) adolescent.
-This tabulation is not exhaustive. Wayan also has the terms driadria tabatūtū ‘infant learning
-to stand’ and driadria kakarebareba ‘toddler’. To’aba’ita has wela kōkosa or wela ʔāʔabu
-‘newborn baby’, wela kā ‘baby that can crawl’ and wela ʔāʔaru ‘toddler’. Paamese has titali
+This tabulation is not exhaustive. Wayan also has the terms _driadria tabatūtū_ ‘infant learning
+to stand’ and _driadria kakarebareba_ ‘toddler’. To’aba’ita has _wela kōkosa_ or _wela ʔāʔabu_
+‘newborn baby’, _wela kā_ ‘baby that can crawl’ and _wela ʔāʔaru_ ‘toddler’. Paamese has titali
 ‘infant sitting up’. Mutu apparently singles out children aged around four or five as
-kukua. Since the ‘young girl/young boy’ terms in Mwotlap designate young people from
-around six years of age upward, a separate term nɪ-nɪtmʷəy denotes children under six.
-Mwotlap also has a term n-ɛt su [ART-person little] ‘children’ contrasting with n-ɛt liwɔ
+_kukua_. Since the ‘young girl/young boy’ terms in Mwotlap designate young people from
+around six years of age upward, a separate term _nɪ-nɪtmʷəy_ denotes children under six.
+Mwotlap also has a term _n-ɛt su_ [ART-person little] ‘children’ contrasting with _n-ɛt liwɔ_
 [ART-person big] ‘adults’.
 
 [7] Exceptions are François (2012) and Pawley & Sayaba (2003).
@@ -2642,44 +2641,32 @@ Mwotlap also has a term n-ɛt su [ART-person little] ‘children’ contrasting 
 : Table 13         Age cohort terms in eight Oceanic languages
 
 __table__
-                              Adm              NNG              NNG      MM              SES                  NCV                  NCV     Fij
-                              Khehek           Numbami          Mutu     Nehan           To’aba’ita           Mwotlap              Paamese Wayan
- 1 young person               nah              ekapa/kolapa     pain     keketiki        wela                 na-mʷalmʷal/nυ-lυmɣɛp ēhon    driadria
- 2 young adult                —                kolapa asasa     ŋēr pāɣu mamahoho-liki   —                    —                    —        —
-     marriageable young woman lupup pihiŋ/pecih ekapa wowe      nabiu    komadia         θāriʔi               —                    atouli   vulau
-     marriageable young man   lupup kemeŋ      kolapa dewala …           mamanai-liki    ʔalakʷa, darā (v)    —                    meakoi   saravou
-                                                                                         kʷaiagaŋaʔi,                              ahin,
- 3 fully grown adult          kxikxiŋ          ewesika/tamota olman      tamat                                n-ɛt liwɔ                     tūdonu
-                                                                                         ila ai/ila wane                           atau/ame
- 4 mature person              pete luɔp        …                kōŋ      mahoho          araʔi                —                    …        uabula
-     mature woman             pete pecih       …                —        pipigogo-liki   gʷauliʔi-ai-ʔa (v)   na-maɣtʊ             …        —
-     mature man               pete kemeŋ       …                —        mahohontiehe    gʷauliʔi-wane-ʔa (v) na-tmayɣɛ            ulmatu   —
- 5
-                                               e-ᵐbamoto/                                                     na-maɣtʊ yəyəy/
-     very old person          …                                 kuᵐbut   mahohon siounu …                                          avi mavul tūgʷāgʷā
-                                               ko-ᵐbamoto                                                     na-tmayɣɛ yəyəy
+   |          | Adm       |     NNG      |      NNG    |  MM      |    SES      |       NCV       |     NCV  |   Fij
+   |          | Khehek    |     Numbami  |      Mutu   |  Nehan   | To’aba’ita  |   Mwotlap       | Paamese  | Wayan
+ 1 | young person | _nah_ | _ekapa_/_kolapa_ | _pain_ | _keketiki_ | _wela_ | _na-mʷalmʷal_/_nυ-lυmɣɛp_ | _ēhon_ | _driadria_
+ 2 | young adult | — | _kolapa asasa_ | _ŋēr pāɣu_ | _mamahoho-liki_ | —  | —         |  —       | —
+   | marriageable young woman | _lupup pihiŋ_/_pecih_ | _ekapa wowe_ | _nabiu_ | _komadia_ | _θāriʔi_ | — | _atouli_ | _vulau_
+   | marriageable young man | _lupup kemeŋ_ | _kolapa dewala_ | … | _mamanai-liki_ | _ʔalakʷa_, _darā_ (v) | — | _meakoi_ | _saravou_
+ 3 | fully grown adult | _kxikxiŋ_ | _ewesika_/_tamota olman_ | _tamat_ | _kʷaiagaŋaʔi_, _ila ai_/_ila wane_ | _n-ɛt liwɔ_ | _ahin_, _atau_/_ame_ | _tūdonu_
+ 4 | mature person | _pete luɔp_  | … | _kōŋ_   | _mahoho_    |    _araʔi_     |     —         |    …    | _uabula_
+   | mature woman  | _pete pecih_ | … |   —     | _pipigogo-liki_ | _gʷauliʔi-ai-ʔa_ (v) | _na-maɣtʊ_  | …   |   —
+   | mature man    | _pete kemeŋ_ | … |   —     | _mahohontiehe_  | _gʷauliʔi-wane-ʔa_ (v) | _na-tmayɣɛ_ | _ulmatu_ | —
+ 5 | very old person | … | _e-ᵐbamoto_/_ko-ᵐbamoto_ | _kuᵐbut_ | _mahohon siounu_ | … | _na-maɣtʊ yəyəy_/_na-tmayɣɛ yəyəy_ | _avi mavul_ | _tūgʷāgʷā_
+
                                                                                                                                       People 59
 
 
 : Table 14        Age cohort terms in eight Oceanic languages from birth to the onset of adulthood
 
 __table__
-                    Adm               NNG                 NNG               MM           SES               NCV            NCV       Fij
-                    Khehek            Numbami             Mutu              Nehan        To’aba’ita        Mwotlap        Paamese   Wayan
-                                                                                                           na-mʷalmʷal/nʊ-
-1    young person nah                 ekapa/kolapa        pain              keketiki     wela                              ēhon     driadria
-                                                                                                           lʊmɣɛp
-     infant, new-                                         p. pāɣu, kaduk-
-1a                  n. kepeh nakxiŋ   k. palele                             guama        sikafi/kurafia    mʷɛy, nɪtɪtɪ   tīvava    d. dramedrame
-     born                                                 sa
-                                      e. kakapi/k. kae,
-1b   small child    n. kepeh                              akeake, kukua     k. buloutu   —                 nɪ-nɪtmʷəy     …         d. sewa
-                                      ko-kae
-     young girl     n. pecih          e. kakapi           —                 k. kuah      θāri              —              …         d. alewa
-     young boy      n. kemeŋ          …                   —                 …            wēwelaniwane      —              –         d. taŋʷane
-     adolescent,
-1c   not yet mar-   n. lupup          k. dewala           ŋēr marani        …            θāri, ulufāluʔi   —              litetai   d. saravou
-     riageable
+   |          | Adm       |     NNG      |      NNG    |  MM      |    SES      |       NCV       |     NCV  |   Fij
+   |          | Khehek    |     Numbami  |      Mutu   |  Nehan   | To’aba’ita  |   Mwotlap       | Paamese  | Wayan
+1  | young person | nah | ekapa/kolapa | pain | keketiki | wela | na-mʷalmʷal/nʊ-lʊmɣɛp      | ēhon    | driadria
+1a | infant, newborn | n. kepeh nakxiŋ | k. palele | p. pāɣu, kaduk-sa | guama | sikafi/kurafia | mʷɛy, nɪtɪtɪ | tīvava | d. dramedrame
+1b | small child | n. kepeh | e. kakapi/k. kae, ko-kae | akeake, kukua | k. buloutu | — | nɪ-nɪtmʷəy | …  | d. sewa
+   | young girl | n. pecih  | e. kakapi   |   —               |  k. kuah  |    θāri     |     —    |    … | d. alewa
+   | young boy  | n. kemeŋ  |     …       |     —             |    …   | wēwelaniwane  |  —    |     — | d. taŋʷane
+1c | adolescent, not yet marriageable | n. lupup | k. dewala | ŋēr marani | … | θāri, ulufāluʔi  | — | litetai | d. saravou
 
 60 Malcolm Ross and Meredith Osmond
 
@@ -2687,15 +2674,15 @@ __table__
     With one exception, there is little cognacy across the eight languages in the tables above,
 yet the categories appear similar, and it is a reasonable inference that POc had such categories.
 The exception is that ‘fully grown adult’ is often designated by the term that means ‘person’.
-The POc term denoting a fully grown adult was thus probably *tamʷata ‘person’ (§2.2.2.1),
+The POc term denoting a fully grown adult was thus probably _*tamʷata_ ‘person’ (§2.2.2.1),
 reflected above in Numbami, Nehan and Wayan. We also hypothesise that where POc age
-cohort terms distinguished gender, they did so using *papine ‘female’ (§2.3.2) and *mʷaqane
+cohort terms distinguished gender, they did so using *papine ‘female’ (§2.3.2) and _*mʷaqane_
 ‘male’ (§2.3.1) as modifiers. The evidence for this is somewhat circumstantial, but see
-To’aba’ita ila wane ‘married man’, wēwelani-wane ‘young boy’, Paamese ahin ‘adult woman’,
-and Wayan driadria taŋʷane ‘young boy’.
+To’aba’ita _ila wane_ ‘married man’, _wēwelani-wane_ ‘young boy’, Paamese _ahin_ ‘adult woman’,
+and Wayan _driadria taŋʷane_ ‘young boy’.
 
     The lack of cognacy among age cohort terms partly reflects shifts in meaning over time.
-Thus Khehek (Adm) kxikxiŋ ‘fully grown adult’ and Wayan (Fij) driadria ‘young person’
+Thus Khehek (Adm) _kxikxiŋ_ ‘fully grown adult’ and Wayan (Fij) _driadria_ ‘young person’
 appear to be cognate.
 
     Below, reconstructions for age cohorts are discussed under the headings used in Tables 13
@@ -2707,7 +2694,7 @@ subgroups
 2.4.2 Young person from birth to onset of adulthood
 
 The English word ‘child’ has two meanings: (1) offspring and (2) young boy or girl. Thus (1)
-denotes a kin relationship, (2) an age group. The POc term for sense (1), ‘offspring’, is *natu-, a
+denotes a kin relationship, (2) an age group. The POc term for sense (1), ‘offspring’, is _*natu-_, a
 kin term (see vol.6).
 
    Oceanic languages typically have no single-word term corresponding to English ‘childʼ in
@@ -2715,16 +2702,16 @@ sense (2) but instead have a term for human beings from birth to the onset of ad
 *meRa appears to have been the term denoting this age group. A number of its reflexes are
 glossed simply ‘child’, but we suspect that this is a product of wordlist collecting, where the
 informant is simply asked for the term corresponding to English ‘child’. Evidence that POc
-*meRa did mean ‘person from birth to adulthood’ is found in the To’aba’ita and ’Are’are
+_*meRa_ did mean ‘person from birth to adulthood’ is found in the To’aba’ita and ’Are’are
 dictionary entries below and in the generalisation of some of its NCV reflexes to mean
 something like English ‘fellow, guy’, i.e. a colloquial way of referring to men in particular.
 
-   The origin of POc *meRa was pointed out to us by Charles Grimes (pers. comm.). In a
+   The origin of POc _*meRa_ was pointed out to us by Charles Grimes (pers. comm.). In a
 number of CMP languages the term for a newborn is ‘red child’, and in some of these the term
-‘red’ reflects PMP *ma-iRaq ‘red’ (ACD). In PCEMP and POc this became *meRaq
+‘red’ reflects PMP _*ma-iRaq_ ‘red’ (ACD). In PCEMP and POc this became _*meRaq_
 ‘red’ (vol.2:206; ACD). The terms below are drawn from a geographically well distributed
 range of CMP languages.[9] The association between ‘red’ and ‘newborn’ seems to have been
-lost in early Oceanic, but POc *meRa seems to have had the specific meaning ‘newborn’ (see
+lost in early Oceanic, but POc _*meRa_ seems to have had the specific meaning ‘newborn’ (see
 Misima and Arosi glosses) and the metonomic usage ‘young person from birth to onset of
 adulthood’.
 
@@ -2733,32 +2720,32 @@ adulthood’.
                                                                                             People 61
 
 <
-PCEMP *|anak meRaq| ‘newborn baby’ (*anak ‘child’, *meRaq ‘red’)
+PCEMP *|anak meRaq| ‘newborn baby’ (_*anak_ ‘child’, _*meRaq_ ‘red’)
   CMP: Hawu           |ana mea|         ‘newborn, infant’
   CMP: Helong         |ana mea|         ‘newborn, infant, baby (pre-toddler)’
-  CMP: Tetun          |kau mea|         ‘newborn, infant’ (kau-k oan ‘very young child’; mea-k/-n ‘gold, rust, reddish’)
-  CMP: Buru           an-miha-n         ‘newborn, infant’ (regular truncation of ana-t/-n ‘child, offspring’, miha-t/-n ‘reddish-brown’)
+  CMP: Tetun          |kau mea|         ‘newborn, infant’ (_kau-k oan_ ‘very young child’; _mea-k_/_-n_ ‘gold, rust, reddish’)
+  CMP: Buru           an-miha-n         ‘newborn, infant’ (regular truncation of _ana-t_/_-n_ ‘child, offspring’, _miha-t_/_-n_ ‘reddish-brown’)
 POc *meRa ‘newborn; young person from birth to onset of adulthood’
-  PT:  Misima         me-melo-na        ‘infant; newborn’ (-o for †-a)
-  PT:  Motu           mero              ‘child’ (-o for †-a)
-  PT:  Sinaugoro      mero              ‘child’ (-o for †-a)
-PEOc *mʷeRa ‘newborn; young person from birth to onset of adulthood’ (Cashmore 1969: *mʷela ‘child’)
+  PT:  Misima         me-melo-na        ‘infant; newborn’ (_-o_ for †_-a_)
+  PT:  Motu           mero              ‘child’ (_-o_ for †_-a_)
+  PT:  Sinaugoro      mero              ‘child’ (_-o_ for †_-a_)
+PEOc *mʷeRa ‘newborn; young person from birth to onset of adulthood’ (Cashmore 1969: _*mʷela_ ‘child’)
   SES: Longgu         mwela             ‘child, young person’
-  SES: Longgu         mʷela-kiki        ‘child’ (kiki ‘small’)
+  SES: Longgu         mʷela-kiki        ‘child’ (_kiki_ ‘small’)
   SES: Arosi          mʷera             ‘very small child’
   SES: Lau            wela              ‘child, person’
-  SES: Lau            |wela ābu|        ‘very young infant’ (ābu ‘taboo’)
+  SES: Lau            |wela ābu|        ‘very young infant’ (_ābu_ ‘taboo’)
   SES: Kwaio          wela              ‘child’
   SES: Sa’a           mwela             ‘child’
   SES: To’aba’ita     wela              ‘child of any age up to young unmarried adult’
   SES: Kwaio          wela              ‘child’
   SES: ’Are’are       mera              ‘child of any age up to young unmarried adult’
-  SES: ’Are’are       |mera masike|     ‘child 3–8 years old’ (masike ‘small’)
+  SES: ’Are’are       |mera masike|     ‘child 3–8 years old’ (_masike_ ‘small’)
   SES: ’Are’are       |iʔi ni mera|     ‘child 8 –12 years old’
-  SES: ’Are’are       |reoreo ni mera|  ‘child 8 –15 years old’ (reoreo ‘wild yam’)
+  SES: ’Are’are       |reoreo ni mera|  ‘child 8 –15 years old’ (_reoreo_ ‘wild yam’)
   SES: ’Are’are       |sisiri ni mera|  ‘child 8 –15 years old’
-  SES: ’Are’are       |mera haoru|      ‘child 12–16 years old’ (haoru ‘new, young’)
-  SES: ’Are’are       |mera nanau|      ‘male 16–20 years old’ (nanau ‘unmarried male’)
+  SES: ’Are’are       |mera haoru|      ‘child 12–16 years old’ (_haoru_ ‘new, young’)
+  SES: ’Are’are       |mera nanau|      ‘male 16–20 years old’ (_nanau_ ‘unmarried male’)
   SES: Arosi          mʷera             ‘very small child’[10]
 PNCV *mwera, *mʷara ‘child’ (Clark 2009)
   NCV: Lo Toga        werə              ‘baby’
@@ -2767,48 +2754,48 @@ PNCV *mwera, *mʷara ‘child’ (Clark 2009)
   NCV: Mwotlap        (n-ɪt)mʷɛj        ‘child’
   NCV: Mota           mwera             ‘child’
   NCV: Nokuku         mʷer              ‘child (of)’
-  NCV: Nokuku         |mʷer (kekara)|   ‘baby’ (kekara ‘red’)
+  NCV: Nokuku         |mʷer (kekara)|   ‘baby’ (_kekara_ ‘red’)
   NCV: Kiai           mera              ‘man, person, human being’
   NCV: NE Ambae       mʷera             ‘man’
   NCV: W Ambrym       mere              ‘small, a little bit, young, thin...’
   NCV: W Ambrym       (tesi)mre         ‘child, young one’
   NCV: Uripiv         mweri             ‘man, fellow, people’
-  NCV: Port Sandwich  mʷera(ur)         ‘bush man’ (la-ur ‘interior forest’)
+  NCV: Port Sandwich  mʷera(ur)         ‘bush man’ (_la-ur_ ‘interior forest’)
   NCV: Paamese        a-mē              ‘adult married man in village; larrikin, young man who acts tough’
   NCV: Lewo           mwē               ‘young’
   NCV: S Efate        na-mʷer           ‘people’
   Pn:  Emae           mea               ‘baby’
 >
 
-[10] Given that Fox (1978) also glosses reduplicated mʷera mʷera as ‘very small child’, we wonder whether
-     his gloss of mʷera is erroneous.
+[10] Given that Fox (1978) also glosses reduplicated _mʷera mʷera_ as ‘very small child’, we wonder whether
+     his gloss of _mʷera_ is erroneous.
 
 62 Malcolm Ross and Meredith Osmond
 
-   It is possible that the apparent PNCV doublet *mʷara above is the product of reflexes of
-*mʷera that have undergone contamination by reflexes of POc *mʷala ‘young unmarried
+   It is possible that the apparent PNCV doublet _*mʷara_ above is the product of reflexes of
+_*mʷera_ that have undergone contamination by reflexes of POc _*mʷala_ ‘young unmarried
 woman’ (§2.4.3).
 
    A few languages have distinct single-word terms for ‘boy’ and ‘girl’, but they are few and
 far between. POc seems simply to have used the terms for ‘male’ (§2.3.1) and
-‘female’ (§2.3.2) alone or as modifiers to a ‘young person’ term, as in ’Are’are (SES) mera
-māne ‘boy’ and mera keni ‘girl’.
+‘female’ (§2.3.2) alone or as modifiers to a ‘young person’ term, as in ’Are’are (SES)
+_mera māne_ ‘boy’ and _mera keni_ ‘girl’.
 
 
 2.4.2.1 Baby, infant, newborn
 
-POc apparently had two terms for ‘baby’, *meRa-meRa and *kʷawaq. No language has been
+POc apparently had two terms for ‘baby’, _*meRa-meRa_ and _*kʷawaq_. No language has been
 found in which they contrast. The use of reduplication in POc for a diminutive or a small
-version of the denotatum of the root was noted in vol.3:50–51. POc *meRa-meRa thus meant
-‘baby, very young child’, a small version of *mʷeRa ‘young person from birth to onset of
-adulthood’ (§2.4.2). Polynesian reflexes are often modifiers of a reflex of PPn *tama ‘child’.[11]
+version of the denotatum of the root was noted in vol.3:50–51. POc _*meRa-meRa_ thus meant
+‘baby, very young child’, a small version of _*mʷeRa_ ‘young person from birth to onset of
+adulthood’ (§2.4.2). Polynesian reflexes are often modifiers of a reflex of PPn _*tama_ ‘child’.[11]
 
 <
 POc *meRa-meRa ‘baby, very young child’
  NNG: Maleu         (la)mela-mela    ‘child’
  PT:  Gumawana      me-meya          ‘a baby’
- PT:  Tawala        meya-meya        ‘tiny baby, up to a few months old’ (for †mela- mela)
- PT:  Dobu          |(gʷama) meya-meya-na|  ‘baby, suckling’ (gʷama ‘child’) (for †mela-mela)
+ PT:  Tawala        meya-meya        ‘tiny baby, up to a few months old’ (for †_mela-mela_)
+ PT:  Dobu          |(gʷama) meya-meya-na|  ‘baby, suckling’ (_gʷama_ ‘child’) (for †_mela-mela_)
  SES: Arosi         mʷera-mʷera      ‘very small child’
  NCV: Veraa         mʷɛr-mʷɛrɛ       ‘child’
  NCV: Vurës         mʷir-mʷiar       ‘child’
@@ -2828,21 +2815,21 @@ cf. also:
  PT:  Misima        me-melóna        ‘infant; newborn’
 >
 
-[11] PPn *tama ‘child’ is derived from POc *tama- ‘father’, enshrining a development whereby *tama came
-     to denote the reciprocal relationship between father and child. Note Gela tama ‘prefix of reciprocal
-     relation’, e.g. tama-dale ‘father and children’, tama-kukua ‘a man and his grandparents’, tama-vavineni
-     ‘sister and brother’; Bauan vei-tama-ni (V) ‘be related as father and child’, (N) ‘father and child’.
+[11] PPn _*tama_ ‘child’ is derived from POc _*tama-_ ‘father’, enshrining a development whereby _*tama_ came
+     to denote the reciprocal relationship between father and child. Note Gela _tama_ ‘prefix of reciprocal
+     relation’, e.g. _tama-dale_ ‘father and children’, _tama-kukua_ ‘a man and his grandparents’, _tama-vavineni_
+     ‘sister and brother’; Bauan _vei-tama-ni_ (V) ‘be related as father and child’, (N) ‘father and child’.
 
                                                                                         People 63
 
 
-    POc *kʷawaq seems also to have meant ‘baby, small child’. Initial *kʷa- is reconstructed to
-account for Dawawa and Misima wa-. In several languages the *-a- of the first syllable is
-reflected as a rounded vowel. This can be attributed either to *kʷa- or to the *-w- that follows
+    POc _*kʷawaq_ seems also to have meant ‘baby, small child’. Initial _*kʷa-_ is reconstructed to
+account for Dawawa and Misima _wa-_. In several languages the _*-a-_ of the first syllable is
+reflected as a rounded vowel. This can be attributed either to _*kʷa-_ or to the _*-w-_ that follows
 it.
 
 <
-POc *kʷawaq ‘baby, small child’ (Lynch 2004e: Proto Southern Melanesian *kawaq)
+POc *kʷawaq ‘baby, small child’ (Lynch 2004e: Proto Southern Melanesian _*kawaq_)
   PT:   Dawawa           wawai             ‘infant’
   PT:   Misima           wawaya            ‘baby, child’
   MM:   Tinputz          koaʔ              ‘child (before puberty), offspring’
@@ -2876,16 +2863,16 @@ were reconstructed in vol.2:193–195:
 64 Malcolm Ross and Meredith Osmond
 
 __block__
-•    POc *liki ‘small’, perhaps only in compounds
-•    POc *qitik, *qitek ‘small’
-•    POc *kiki ‘small’
-•    POc *rikit
-•    PWOc *siki ‘small’
+•    POc _*liki_ ‘small’, perhaps only in compounds
+•    POc _*qitik_, _*qitek_ ‘small’
+•    POc _*kiki_ ‘small’
+•    POc _*rikit_
+•    PWOc _*siki_ ‘small’
 
-    POc *liki ‘small’ occurs perhaps only in compounds, and is present in the items listed
-below. The Madak, Sursurunga and Bilur forms apparently reflect PWOc *kʷa[i] (§2.2.5) as
+    POc _*liki_ ‘small’ occurs perhaps only in compounds, and is present in the items listed
+below. The Madak, Sursurunga and Bilur forms apparently reflect PWOc _*kʷa[i]_ (§2.2.5) as
 their first element, whilst the first element in Patpatar and Proto Polynesian reflects POc
-*tama- ‘father’, where the child is construed as the small member in the father–child
+_*tama-_ ‘father’, where the child is construed as the small member in the father–child
 relationship.
 
 <
@@ -2899,13 +2886,13 @@ POc *-liki ‘small’ (vol.2:194)
  MM: Patpatar        tama-lik          ‘baby boy (the small member of the father–child pairing)’
 >
 
-There is good evidence that Proto Polynesian distinguished between singular *tama-qiti
-‘child’ (< POc *qitik) and plural *tama-riki ‘children’ (< POc *rikit).
+There is good evidence that Proto Polynesian distinguished between singular _*tama-qiti_
+‘child’ (< POc _*qitik_) and plural _*tama-riki_ ‘children’ (< POc _*rikit_).
 
 <
 POc *qitik ‘small’ (vol.2:193–194)
 PPn *tama-qiti ‘child’ (* qiti ‘small’) (POLLEX)
-  Pn:    Tongan             tama-siʔi          ‘child’ (metathesis: PPn *-qiti > Pre-Tongan *-ʔisi > -siʔi)
+  Pn:    Tongan             tama-siʔi          ‘child’ (metathesis: PPn _*-qiti_ > Pre-Tongan _*-ʔisi_ > _-siʔi_)
   Pn:    Samoan             tama-iti           ‘children’
   Pn:    Samoan             tama-iti-iti       ‘small child’
   Pn:    Tokelauan          tama-iti           ‘child; offspring; childhood, youth; immature, young’
@@ -2922,14 +2909,14 @@ cf. also:
    MM: Nehan                keke-tiki         ‘child’
 >
 
-The Nehan item immediately above appears to reflect *tiki, which may in turn reflect a
-metathesis of *qitik.
+The Nehan item immediately above appears to reflect _*tiki_, which may in turn reflect a
+metathesis of _*qitik_.
 
                                                                                       People 65
 
 <
 POc *rikit ‘small’ (vol.2:194)
-  MM: Bilur                 ka-lkit            ‘child’ (-l- for †-r-)
+  MM: Bilur                 ka-lkit            ‘child’ (_-l-_ for †_-r-_)
   MM: Tangga                keka-ik            ‘child’
 PPn *tama-riki ‘children’ (POLLEX)
   Pn:    Tongan             tama-iki           ‘children’
@@ -2951,58 +2938,58 @@ PPn *tama-riki ‘children’ (POLLEX)
 
 __formgroup__
   PT: Tawala                kiki-              ‘little, young rather than short of height’
-  MM: Notsi                 ci                 ‘child’ (< PWOc *siki)
-  MM: Lihir                 cik                ‘child’ (< PWOc *siki)
+  MM: Notsi                 ci                 ‘child’ (< PWOc _*siki_)
+  MM: Lihir                 cik                ‘child’ (< PWOc _*siki_)
 
 2.4.3 Young (unmarried) person
 
 Although Table 14 shows category (1c) ‘adolescent, not yet marriageable’, there is no evidence
 that POc speakers treated this as a category separate from ‘young unmarried person’. The lower
 bound of this category was puberty, the upper bound marriage. Note that in Wayan Fijian, for
-example, the term for (1c) is compound, dridria saravou i.e. ‘young person’ + ‘marriageable
+example, the term for (1c) is compound, _dridria saravou_ i.e. ‘young person’ + ‘marriageable
 young man’, i.e. (1c) represents an overlap between ‘young person’ and ‘marriageable young
 man’, post-puberty but not quite old enough for marriage.
 
    The most widely reflected expression for a young (unmarried) person consists of a word
-for ‘person’ (perhaps POc *tau; §2.2.1.1), sometimes omitted, and a reflex of POc *paqoRu
-‘new, young, recent’). The ‘young, unmarried’ sense was already present in PAn *baqeRuh
+for ‘person’ (perhaps POc _*tau_; §2.2.1.1), sometimes omitted, and a reflex of POc _*paqoRu_
+‘new, young, recent’). The ‘young, unmarried’ sense was already present in PAn _*baqeRuh_
 (ACD).
 
 <
 PAn *baqeRuh ‘new; bachelor’ (ACD)
 POc *paqoRu ‘new, young, recent’ (vol.2:203)
 POc *|tau paqoRu| ‘young person of marriageable age’ (Pawley 1982a:270)
-  PT:  Motu           tauhau            ‘youth, young man’ (for †tauharu)
+  PT:  Motu           tauhau            ‘youth, young man’ (for †_tauharu_)
   Pn:  Tongan         tāupoʔou          ‘virgin, maiden, an esp. attractive young woman’
   Pn:  Samoan         |tāu pōu|         ‘title of village maiden’
   Pn:  E Futunan      taupoʔou          ‘virgin’
   Pn:  Rennellese     taupoʔou          ‘unmarried person’
 cf. also
-  NNG: Medebur        kaidik-waun       ‘young man’ (kaidik ‘man’, waun ‘new, young’)
-  NNG: Mutu           |ŋēr pāɣu|        ‘young adult’ (ŋēr ‘person’, pāɣu ‘new’)
-  NNG: Atui           ul-po             ‘young man’ (po ‘new’)
-  PT:  Gumawana       tubu-wau          ‘young man, normally 15–30 years of age’ (tubu ‘grandchild, grandparent’, vau ‘new’)
-  PT:  Misima         he-val            ‘young man’ (valu- ‘new)
-  PT:  Sinaugoro      |fou variɣu|      ‘teenage virgin’ (variɣu ‘new’)
-  MM:  Torau          podo-auru         ‘young man’ (podo ‘be born’, auru ‘new’)
-  MM:  Mono-Alu       poro-haulu        ‘young man’ (poro ‘be born’, haulu ‘new’)
+  NNG: Medebur        kaidik-waun       ‘young man’ (_kaidik_ ‘man’, _waun_ ‘new, young’)
+  NNG: Mutu           |ŋēr pāɣu|        ‘young adult’ (_ŋēr_ ‘person’, _pāɣu_ ‘new’)
+  NNG: Atui           ul-po             ‘young man’ (_po_ ‘new’)
+  PT:  Gumawana       tubu-wau          ‘young man, normally 15–30 years of age’ (_tubu_ ‘grandchild, grandparent’, _vau_ ‘new’)
+  PT:  Misima         he-val            ‘young man’ (_valu-_ ‘new)
+  PT:  Sinaugoro      |fou variɣu|      ‘teenage virgin’ (_variɣu_ ‘new’)
+  MM:  Torau          podo-auru         ‘young man’ (_podo_ ‘be born’, _auru_ ‘new’)
+  MM:  Mono-Alu       poro-haulu        ‘young man’ (_poro_ ‘be born’, _haulu_ ‘new’)
   SES: Bugotu         (lu)vaolu         ‘youth’
   SES: Gela           vaolu             ‘new; young, fresh, in one’s prime’
-  SES: ’Are’are       |(māne) haoru|    ‘a young unmarried man; a newcomer’ (māne ‘male’. haoru ‘new’)
-  SES: ’Are’are       |(keni) haoru|    ‘a marriageable girl’ (keni 'female’, haoru ‘new’)
-  SES: Ulawa          |(keni) haʔolu|   ‘maiden’ (keni 'female’)
-  NCV: Lewo           |yaru viu lala|   ‘the young guys’ (yaru ‘people’, viu ‘new’, lala PLURAL)
-  Fij: Bauan          ðaura-vou         ‘youth, young man of marriageable age’ (vou new’)
-  Fij: Wayan          sara-vou          ‘young man of marriageable age’ (vou new’)
+  SES: ’Are’are       |(māne) haoru|    ‘a young unmarried man; a newcomer’ (_māne_ ‘male’, _haoru_ ‘new’)
+  SES: ’Are’are       |(keni) haoru|    ‘a marriageable girl’ (_keni_ 'female’, _haoru_ ‘new’)
+  SES: Ulawa          |(keni) haʔolu|   ‘maiden’ (_keni_ 'female’)
+  NCV: Lewo           |yaru viu lala|   ‘the young guys’ (_yaru_ ‘people’, _viu_ ‘new’, _lala_ PLURAL)
+  Fij: Bauan          ðaura-vou         ‘youth, young man of marriageable age’ (_vou_ ‘new’)
+  Fij: Wayan          sara-vou          ‘young man of marriageable age’ (_vou_ ‘new’)
 >
 
 66 Malcolm Ross and Meredith Osmond
 
 
-A second term for an unmarried young person, apparently a young woman, is POc *mʷala. The
+A second term for an unmarried young person, apparently a young woman, is POc _*mʷala_. The
 gloss is based on the agreement of the North New Guinea and North–Central Vanuatu glosses
-below. PNCV *mʷala-gelo also has a modifier of unknown meaning as its second element, and
-Clark (2009) concludes that *mʷala-gelo probably denoted a young male. The glosses of his
+below. PNCV _*mʷala-gelo_ also has a modifier of unknown meaning as its second element, and
+Clark (2009) concludes that _*mʷala-gelo_ probably denoted a young male. The glosses of his
 supporting data (below) would equally well support the gloss ‘young adult’, however.
 
 <
@@ -3037,30 +3024,30 @@ PNCV *mʷala-gelo ‘young person, probably young unmarried man’ (Clark 2009)
 
 2.4.4 Fully grown adult
 
-   As mentioned in §2.4.1 the POc term denoting a full-grown adult was probably *tamʷata
+   As mentioned in §2.4.1 the POc term denoting a full-grown adult was probably _*tamʷata_
 ‘person’ (§2.2.2.1).
 
    Wayan Fijian, at least, distinguishes life-stage terms from marriage-related terms (Andrew
-Pawley, pers. comm. ). It is uncertain whether this is true of many Oceanic languages, but the
+Pawley, pers. comm.). It is uncertain whether this is true of many Oceanic languages, but the
 weight of the evidence points in that direction, as languages tend not to have a lifestage (as
 opposed to kin) term denoting ‘married man’ or ‘married woman’. As most adult men and
 women in Oceanic communities are married, they are referred to by the unmarked terms for
 ‘man’ or ‘woman’. These are typically reflexes of *mwaqane/*qatamwaqane (§2.3.1) and
-*papine/*qatapine (§2.3.2).
+_*papine_/_*qatapine_ (§2.3.2).
 
 
 2.4.5 Mature person
 
 Most Oceanic languages seem to distinguish at least two stages of mature adulthood, one for
 people of perhaps 30–50, i.e. vigorous adults with unmarried children, and another for people
-older than perhaps 50 or 60 and no longer so vigorous. 12 Vigour is probably more important
-than age here. In Wayan Fijian a still active 60-year-old is uabula, i.e. ‘mature’ rather than ‘old’.
+older than perhaps 50 or 60 and no longer so vigorous.[12] Vigour is probably more important
+than age here. In Wayan Fijian a still active 60-year-old is _uabula_, i.e. ‘mature’ rather than ‘old’.
 A difficulty in the data is that ‘old’ tends to be used indiscriminately in definitions of both
 categories. Sometimes one category is labelled ‘old’, the other ‘very old’. Sometimes ‘mature’
 is used, and this is taken to be an indicator of the younger category.
 
-    The most widespread cognate set for a ‘mature person’ reflects POc *matuqa ‘mature, full-
-grown, ripe, old (person)’. Only reflexes that denote a person are listed here. POc *matuqa
+    The most widespread cognate set for a ‘mature person’ reflects POc _*matuqa_ ‘mature, full-grown,
+ripe, old (person)’. Only reflexes that denote a person are listed here. POc _*matuqa_
 was evidently originally a stative verb, and in some languages it occurs as modifier of (the
 reflex of) a term meaning ‘person’. In the Huon Gulf languages of Western Oceanic, it has
 become the usual term for ‘man’.
@@ -3088,18 +3075,18 @@ Proto Hote-Buang *maluɣ ‘man’
   NNG: Mumeng (Patep)  vuɣ                ‘man’
   NNG: Kapin           muɣ                ‘man’
   SES: Bauro           (ɣai)maua          ‘old woman’
-  NCV: Hiw             (ta)məso           ‘old person’ (ta- < *qata ‘person’, §2.2.3)
-  NCV: Lo Toga         (te)məto           ‘old person’ (te- < *qata ‘person’, §2.2.3)
-  NCV: Mota            (ta)matua          ‘old person’ (ta- < *qata ‘person’, §2.2.3; matua ‘full-grown, ripe’)
-  NCV: Raga            (bʷat)metua        ‘old man’ (bwatu ‘head, base, beginning’, metue ‘mature, ready to gather, of fruits, nuts, yams, etc. )
-  NCV: Paamese         matū               ‘(s. o. ) old’
+  NCV: Hiw             (ta)məso           ‘old person’ (_ta-_ < _*qata_ ‘person’, §2.2.3)
+  NCV: Lo Toga         (te)məto           ‘old person’ (_te-_ < _*qata_ ‘person’, §2.2.3)
+  NCV: Mota            (ta)matua          ‘old person’ (_ta-_ < _*qata_ ‘person’, §2.2.3; _matua_ ‘full-grown, ripe’)
+  NCV: Raga            (bʷat)metua        ‘old man’ (_bʷatu_ ‘head, base, beginning’, _metue_ ‘mature, ready to gather, of fruits, nuts, yams, etc. )
+  NCV: Paamese         matū               ‘(s. o.) old’
   NCV: Lewo            (yer)marua         ‘old person; respectful term for talking about someone’s including one's own husband’ (yaru ‘man, person’, marua ‘old, mature’)
   Fij: Rotuman         mafua              (ADJ, VI) ‘fullgrown, adult; old as opposed to young’
   Fij: Wayan           mātua              ‘mature, full-grown, adult, ripe’
   Pn:  Tongan          motuʔa             ‘old, of people; mature, fully developed; parent’
   Pn:  Niuean          motua              (V) ‘be mature, adult’; (N) ‘old age’
   Pn:  Samoan          matua              ‘be adult, grown up; be old (person); parent’
-  Pn:  Samoan          ʔolo-matua         ‘old woman’ (also loʔo-matua)
+  Pn:  Samoan          ʔolo-matua         ‘old woman’ (also _loʔo-matua_)
   Pn:  E Futunan       matuʔa             ‘old, of people’
   Pn:  Tikopia         (faka)mātua        ‘mature, grow old; old person; ancestors’
 >
@@ -3107,23 +3094,23 @@ Proto Hote-Buang *maluɣ ‘man’
 
 2.4.6 Old person
 
-For ‘old person’ POc *mʷarap (V) ‘grow old’, (N) ‘old person’ and *tobʷan ‘old person’ are
+For ‘old person’ POc _*mʷarap_ (V) ‘grow old’, (N) ‘old person’ and _*tobʷan_ ‘old person’ are
 tentatively reconstructed.
 
-    On evidence from Papuan Tip languages POc *mʷarap was originally a verb. It retains a
+    On evidence from Papuan Tip languages POc _*mʷarap_ was originally a verb. It retains a
 verbal use in Gapapaiwa. In Muyuw, Kilivila and Budibud it is prefixed with a classifier,
-ta-/to- for human males (< POc *tau- ‘person who…; §2.2.1.2) or na- for human females
+_ta-_/_to-_ for human males (< POc _*tau-_ ‘person who…; §2.2.1.2) or _na-_ for human females
 (Lawton 1993:184–185). Prefixal classifiers are generally affixed to modifiers in noun phrases
 in this group of languages, indicating that the root is a verb ‘be(come) old’.
 
                                                                                  People 69
 
 
-   Final *-p of *mʷarap is regularly reflected in Gapapaiwa and is perhaps also responsible
+   Final _*-p_ of _*mʷarap_ is regularly reflected in Gapapaiwa and is perhaps also responsible
 for the rounding of the final vowel in SE Solomonic languages.
 
    The NCV items are listed under ‘cf. also’ because it is uncertain whether they are cognate.
-François (2013) takes them to reflect *maraɣai ‘to tremble’ with prefixed *ta- (< *qata
+François (2013) takes them to reflect _*maraɣai_ ‘to tremble’ with prefixed _*ta-_ (< _*qata_
 ‘person’). If his etymology is correct, then the resemblance of the PNCV reconstruction to the
 POc reconstruction must be attributed to chance.
 
@@ -3148,15 +3135,15 @@ POc *mʷarap (V) ‘grow old’; (N) ‘old person’
 cf. also:
 PNCV *ta-maraɣai ‘old man’ (lit. ‘quivering person’) (François 2013)
  NCV: Lehali           tamajɣæ              ‘old man’
- NCV: Mota             tamaraɣai            ‘an old man who shakes’ (maraɣai ‘to tremble’)
+ NCV: Mota             tamaraɣai            ‘an old man who shakes’ (_maraɣai_ ‘to tremble’)
  NCV: Mwotlap          tamayɣɛ              ‘old man’
  NCV: Lakon            tamāɣæ               ‘old man’
  NCV: NE Ambae         tamaraɣai            ‘old man’
  Mic: Marshallese      mʷor                 ‘old (of things)’
 >
 
-   POc *tobʷan ‘old woman (? ), old person’ was probably a noun, and its first syllable
-probably reflects POc *tau- ‘person who… (§2.2.1.2).
+   POc _*tobʷan_ ‘old woman (?), old person’ was probably a noun, and its first syllable
+probably reflects POc _*tau-_ ‘person who… (§2.2.1.2).
 
 <
 POc *tobʷan ‘old woman (? ), old person’
@@ -3179,14 +3166,14 @@ POc *tobʷan ‘old woman (? ), old person’
 Kinship relationships will be discussed in vol.6. The terms below denote a person who lacks a
 particular relationship. English has such terms: ‘orphan’, ‘widow[er]’, ‘spinster’, ‘bachelor’.
 Oceanic languages have terms with these meanings and more. For example, in Mutu (NNG)
-we find kakam ‘woman whose child has died’, māⁿduat ‘man whose child has died’, kulīŋ ‘man
-whose sibling has died’ and silūn ‘woman whose sibling has died’.
+we find _kakam_ ‘woman whose child has died’, _māⁿduat_ ‘man whose child has died’, _kulīŋ_ ‘man
+whose sibling has died’ and _silūn_ ‘woman whose sibling has died’.
 
 2.5.1 Orphan
 
-Despite the glosses of the data below, we take POc *mad(r)awa to be a stative (adjectival) verb,
-as suggested by the prefix *ma- (§1.3.5.4). The 3SG agreement marker of Arop-Lukep
-madu(nu) also suggests that it is an adjective rather than a noun.
+Despite the glosses of the data below, we take POc _*mad(r)awa_ to be a stative (adjectival) verb,
+as suggested by the prefix _*ma-_ (§1.3.5.4). The 3SG agreement marker of Arop-Lukep
+_madu(nu)_ also suggests that it is an adjective rather than a noun.
 
 <
 POc *mad(r)awa ‘orphaned, separate’
@@ -3206,9 +3193,9 @@ PNCV *madua ‘orphan; separate’ (Lynch 2004e, Clark 2009)
 
 2.5.2 Unmarried person
 
-POc *jamu ‘person without spouse’ evidently denoted spinsters, bachelors, widows and
-widowers. Regular reflexes are confined to SES and one MM language. Manam amuna
-appears to be a cognate, but is missing a reflex of initial *j-.
+POc _*jamu_ ‘person without spouse’ evidently denoted spinsters, bachelors, widows and
+widowers. Regular reflexes are confined to SES and one MM language. Manam _amuna_
+appears to be a cognate, but is missing a reflex of initial _*j-_.
 
 <
 POc *jamu ‘person without spouse’
@@ -3233,13 +3220,13 @@ cf. also
 Blust (ACD) reconstructs two distinct but similar forms for POc, labelling them both
 ‘widow(er)’. Either they were alternant forms of the same lexeme, or they contrasted with
 regard to the sex of the denotatum. The one piece of evidence that helps us out here is the
-contrast between Sori ñaw ‘widow’ and ñah ‘widower’. If this contrast is a retention, then we
+contrast between Sori _ñaw_ ‘widow’ and _ñah_ ‘widower’. If this contrast is a retention, then we
 can gloss the reconstructions accordingly. However, Blust is rightly cautious, as pairs that
 distinguish gender by a change in the wordform are otherwise unheard of in Oceanic
 languages.
 
 <
-POc *ñao ‘widow (? )’ (ACD)
+POc *ñao ‘widow (?)’ (ACD)
  Adm: Nyindrou           ñaw                 ‘widow, widower’
  Adm: Sori               ñaw                 ‘widow’
  Adm: Bipi               ñaw, ña-ñaw         ‘widow, widower’
@@ -3264,7 +3251,7 @@ POc *ñao ‘widow (? )’ (ACD)
 >
 
 <
-POc *ñaro ‘widower (? )’ (ACD: *ñaRo)
+POc *ñaro ‘widower (?)’ (ACD: *ñaRo)
  Adm: Sori                ñah                ‘widower’
  NNG: Mbula               nora               ‘widow’ (metathesis)
  NCV: Mota                naro               ‘widow, widower’
@@ -3274,21 +3261,21 @@ POc *ñaro ‘widower (? )’ (ACD: *ñaRo)
 72 Malcolm Ross and Meredith Osmond
 
 
-    Also reconstructable is PWOc *kwabu(r, R) ‘widow or widower’. One wonders how it
+    Also reconstructable is PWOc _*kʷabu(r,R)_ ‘widow or widower’. One wonders how it
 differed in meaning from the term above. Fox (1978) gives us a possible clue. After the death
 of one’s spouse, in Arosi one is nao. Only after a lengthy fast from certain foods does one
-become eligible for remarriage and acquire a new status, Arosi oʔoura (which does not reflect
-*kwabu(r, R), however).
+become eligible for remarriage and acquire a new status, Arosi _oʔoura_ (which does not reflect
+_*kʷabu(r,R)_, however).
 
 <
-PWOc *kwabu(r,R) ‘widow or widower’
+PWOc *kʷabu(r,R) ‘widow or widower’
  NNG: Dami          wāb           ‘widow’
- NNG: Takia         buab          ‘unmarried (male or female, never married or widowed)’ (initial b- unexplained)
+ NNG: Takia         buab          ‘unmarried (male or female, never married or widowed)’ (initial _b-_ unexplained)
  PT:  Kiriwina      kwabuya       ‘widow’
  PT:  Gumawana      kobuya        ‘widow; be a widow’
  PT:  Gumawana      kobui-na      ‘widow of …’
  PT:  Gapapaiwa     kwapura       ‘widow’
- PT:  Dobu          kwabura       ‘widow’ (-r- for †-l-)
+ PT:  Dobu          kwabura       ‘widow’ (_-r-_ for †_-l-_)
  PT:  Motu          vabu          ‘widow or widower, esp. during time of mourning’
  PT:  Sinaugoro     vabu          ‘widow; become a widow’
  MM:  Vitu          ɣabu          ‘widow or widower’
@@ -3297,14 +3284,14 @@ PWOc *kwabu(r,R) ‘widow or widower’
 
 2.6     Twins
 
-Three POc terms for ‘twins’ are reconstructed. The first is POc *bʷege or *boge. The form is
+Three POc terms for ‘twins’ are reconstructed. The first is POc _*bʷege_ or _*boge_. The form is
 ambiguous, as it takes only a simple sound change to get from one to the other. A second term
-was based on the POc root *saŋa ‘be branching or forked; branch (of tree, river, path), fork,
-crotch)’ (vol.3:96). It occurs in two variants: (a) a reduplicated form, probably *saŋa-saŋa, and
-a stative verb form derived with *ka-/*ma- (variants of the same prefix: see §1.3.5.4). These
+was based on the POc root _*saŋa_ ‘be branching or forked; branch (of tree, river, path), fork,
+crotch)’ (vol.3:96). It occurs in two variants: (a) a reduplicated form, probably _*saŋa-saŋa_, and
+a stative verb form derived with _*ka-_/_*ma-_ (variants of the same prefix: see §1.3.5.4). These
 terms can be used to identify various objects that carry the meaning ‘two parts of one whole’.
 Thus they may refer to a double nut or double banana as well as twins. Also reconstructed is
-POc *apic ‘twins of the same sex’.
+POc _*apic_ ‘twins of the same sex’.
 
 <
 POc *bʷege ‘twins’
@@ -3313,7 +3300,7 @@ POc *boge ‘twins’
  NNG: Mangap         bōgo                ‘divided, twins’
  NNG: Numbami        boboka              ‘twins’
  MM: Bola            boge                ‘twins’
- MM: Nakanai         (vi)boge            ‘(a) twin’ (vi- RECIP)
+ MM: Nakanai         (vi)boge            ‘(a) twin’ (_vi-_ RECIP)
 PMic *pʷexe, *pʷe-pʷexe ‘twins’ (Bender et al. 2003)
  Mic: Kiribati       pwepwē              ‘twins’
  Mic: Mortlockese    (li)pwpwe           ‘twins’
@@ -3343,7 +3330,7 @@ PPn *mā-saŋa ‘set of twins’ (POLLEX)
   Pn:  Hawaiian         mahana           ‘twin’
 >
 
-    Finally, Blust (ACD) reconstructs POc *apic ‘twins of the same sex’. Only one Oceanic
+    Finally, Blust (ACD) reconstructs POc _*apic_ ‘twins of the same sex’. Only one Oceanic
 reflex is known. This is perhaps because the sense is so specialised that other cognates have
 not been collected.
 
@@ -3376,7 +3363,7 @@ different denotation from English terms for a similar area of the body. For exam
 *qase- evidently denoted both the lower jaw (the hinged bone and its covering of skin) and the
 chin (the external shape of the lowest and frontmost part of the lower jaw) (§3.4.13).
 Interacting with this is the fact that the English glosses of Oceanic terms are often imprecise,
-or give a false appearance of precision as when a reflex of *qase- is glossed ‘chin’. This is
+or give a false appearance of precision as when a reflex of _*qase-_ is glossed ‘chin’. This is
 especially true of words found in wordlists, but it is also true of several of the dictionaries
 used. Sometimes it is solely the English glosses that are at fault. This is the case with the four
 POc terms for the region of the neck, the throat and the voice, where glosses remain a little
@@ -3390,18 +3377,17 @@ many Oceanic languages as if they were body parts (they are directly possessed).
 
 3.1.1 Direct possession
 
-Most Oceanic languages outside Polynesia make a grammatical distinction between directly
-and indirectly possessed nouns, and this distinction is reconstructable for Proto Oceanic
 
 [1] We are grateful to Paul Geraghty who has commented on an earlier version of this chapter and made a
     number of additions to the data.
 
 76 Meredith Osmond and Malcolm Ross
 
-
+Most Oceanic languages outside Polynesia make a grammatical distinction between directly
+and indirectly possessed nouns, and this distinction is reconstructable for Proto Oceanic
 (Lichtenberk 1985a). As discussed briefly in vol.1:32, a directly possessed (= monovalent) noun
-takes a suffix indicating its possessor (e.g. POc *qaqe- ‘leg’: *qaqe-gu ‘my leg’, *qaqe-mu
-‘your (singular) leg’, *qaqe-ña ‘his/her leg’ etc), whereas an indirectly possessed
+takes a suffix indicating its possessor (e.g. POc _*qaqe-_ ‘leg’: _*qaqe-gu_ ‘my leg’, _*qaqe-mu_
+‘your (singular) leg’, _*qaqe-ña_ ‘his/her leg’ etc), whereas an indirectly possessed
 (zero-valency) noun requires no suffix. Directly possessed nouns are said to be inalienably
 possessed, that is, they are items that usually do not exist without a possessor. They include
 body parts of human beings and animals (‘hand’, ‘nose’, ‘tail’, ‘wing/fin’ etc), parts of plants
@@ -3409,13 +3395,13 @@ body parts of human beings and animals (‘hand’, ‘nose’, ‘tail’, ‘w
 sibling’ etc).[2] However, the converse is not true: not all kin and body part terms are directly
 possessed. In many Oceanic languages, a monovalent noun must have a possessor suffix or, if
 the possessor is nonspecific, be linked in some way to that possessor. This linkage may reflect
-the POc linker *qi (e.g. POc *pasu qi mata- ‘ridge of eye’ = ‘eyebrow ridge’; §3.4.9.3), but in
-many languages the linker is lost and a compound occurs (e.g. Nguna vasu-mata ‘eyebrow’). In
-other languages *qi has been replaced by a reflex of *ni, which occurred with a zero-valency
+the POc linker _*qi_ (e.g. POc _*pasu qi mata-_ ‘ridge of eye’ = ‘eyebrow ridge’; §3.4.9.3), but in
+many languages the linker is lost and a compound occurs (e.g. Nguna _vasu-mata_ ‘eyebrow’). In
+other languages _*qi_ has been replaced by a reflex of _*ni_, which occurred with a zero-valency
 possessor noun. It is not clear whether the possessor suffix or the linker was obligatory in Proto
-Oceanic (Ross 1998c reconstructs the construction with *qi).
+Oceanic (Ross 1998c reconstructs the construction with _*qi_).
 
-    Directly possessed nouns are here marked with a following hyphen, e.g. *qaqe- ‘leg’, in
+    Directly possessed nouns are here marked with a following hyphen, e.g. _*qaqe-_ ‘leg’, in
 order to indicate that a possessor suffix was/is usually present.
 
 
@@ -3426,38 +3412,37 @@ locations. Some body part terms have undergone varying degrees of grammaticisati
 Oceanic languages, a process that had started in Proto Oceanic. Certain terms were used not
 only to denote a body part but also as local nouns that denoted a spatial relationship to a person
 or object. Local nouns were a grammatical category in Proto Oceanic (and remain so in many
-Oceanic languages). They were introduced by the POc preposition *i. For example, *Rumaq
-‘house’ also functioned as a local noun, and *i Rumaq meant ‘at home’ (on the grammar of
+Oceanic languages). They were introduced by the POc preposition _*i_. For example, _*Rumaq_
+‘house’ also functioned as a local noun, and _*i Rumaq_ meant ‘at home’ (on the grammar of
 local nouns see vol.2:224–229).
 
     Relational local nouns were directly possessed and their possessor was the person or object
-in relation to which a location was being established. Thus POc *mata- ‘eye, face’ also served
-as a relational local noun meaning ‘front’, so that *i mata-gu (*-gu ‘my’) meant ‘in front of
-me’ and *i mata-ña Rumaq meant ‘in front of the house’ (*-ña ‘his/her/its’). The grammar of
+in relation to which a location was being established. Thus POc _*mata-_ ‘eye, face’ also served
+as a relational local noun meaning ‘front’, so that _*i mata-gu_ (_*-gu_ ‘my’) meant ‘in front of
+me’ and _*i mata-ña_ Rumaq meant ‘in front of the house’ (_*-ña_ ‘his/her/its’). The grammar of
 relational local nouns is discussed in more detail in vol.2:235–236. Lexical items that served
 as relational local nouns, many but not all of which also denoted body parts, are reconstructed
 in vol.2:237–257.
 
     Body part nouns which almost certainly also functioned as relational local nouns were POc
-*qulu- ‘head, head hair’, (N LOC) ‘top part’ (§3.4.1), *nako- ‘face’, (N (LOC)) ‘front’ (§3.4.7),
-*[pʷa]pʷaRa- ‘cheek, side of head’, (N LOC) ‘side’ (§3.4.8), *mata- ‘eye, face’, (N LOC)
-‘front’ (§3.4.9.1), *bʷal(o,a)- ‘belly, hollow space’, (N LOC) ‘inside’ (§3.7.4).
+_*qulu-_ ‘head, head hair’, (N LOC) ‘top part’ (§3.4.1), _*nako-_ ‘face’, (N (LOC)) ‘front’ (§3.4.7),
+_*[pʷa]pʷaRa-_ ‘cheek, side of head’, (N LOC) ‘side’ (§3.4.8), _*mata-_ ‘eye, face’, (N LOC)
+‘front’ (§3.4.9.1), _*bʷal(o,a)-_ ‘belly, hollow space’, (N LOC) ‘inside’ (§3.7.4).
 
     Occasionally the reverse process seems to have taken place, so that a relational local noun
-has extended its meaning to denote a body part. Thus a reflex of POc *siriŋ ‘side’ (vol.2:246)
-also denotes ‘rib cage’ in Dami (NNG) (§3.5.6). POc *qaro- seems primarily to have been a
+has extended its meaning to denote a body part. Thus a reflex of POc _*siriŋ_ ‘side’ (vol.2:246)
+also denotes ‘rib cage’ in Dami (NNG) (§3.5.6). POc _*qaro-_ seems primarily to have been a
 relational local noun meaning ‘front’ (vol.2:247) but some of its reflexes now also denote the
-face of a person (§3.4.7). Similarly POc *muri[-] ‘back part, rear, behind, space to the rear of,
+face of a person (§3.4.7). Similarly POc _*muri[-]_ ‘back part, rear, behind, space to the rear of,
+time after; (canoe) stern; space outside’ (vol.2:251) was clearly a relational local noun, some
+reflexes of which now denote a person’s back (§3.5.1). Whether _*takuRu-_ ‘back’, (N LOC)
+‘back’ (§3.5.1 and vol.2:253) was originally a local noun or denoted a body part is difficult to
+determine.
 
 [2] Terms for parts of animals are reconstructed in volume 4 (ch.2, §66; ch.5, §7; ch.6, §2); terms for parts
     of plants in chapter 5 of volume 3; and relational local nouns in volume 2 (ch.8, §2.3).
 
                                                                                 The human body 77
-
-time after; (canoe) stern; space outside’ (vol.2:251) was clearly a relational local noun, some
-reflexes of which now denote a person’s back (§3.5.1). Whether *takuRu- ‘back’, (N LOC)
-‘back’ (§3.5.1 and vol.2:253) was originally a local noun or denoted a body part is difficult to
-determine.
 
 
 3.2     The body
@@ -3465,64 +3450,69 @@ determine.
 Modern Oceanic languages typically have separate monomorphemic lexical items with the
 following semantic ranges:
 
+__block__
 1) the whole body, seen as the complete skin and its contents, and also used of the skin as a
    whole (§3.2.1);
 2) the trunk or torso—the body without the head and with or without the legs; the main part
    of something, e.g. the hull of a canoe (§3.2.2);
 3) a dead body, corpse (§2.2.2.2).
+
 Meaning 1 also contrasts on a whole/part parameter with meaning 4:
+
+__block__
 4) the skin of a human being or animal, as well as the bark of a tree, the rind of a fruit or the
    peeled skin of a fruit or tuber, i.e. a surface covering that can be lifted off piecemeal
    (§3.3.5);
 
 And on an exterior/interior parameter with meaning 5:
 
+__block__
 5) (in some languages) the interior of the body, the inner spiritual part of the person (§9.2.2).
-   Below are examples of terms for the five listed categories.
-                      (1)              (2)        (3)            (4)              (5)
-                      ‘exterior,                                 ‘skin, bark,     ‘interior, spiritual
-                                       ‘trunk’    ‘corpse’
-                      body, skin’                                rind’            part’
-  Mutu (NNG)          tini-            anoŋa-     pata-          uli-             lolo-
-  Dobu (PT)           oo-              tolobʷa-   kokowa-        bʷala-           nua-
-  Nakanai (MM)        vovo-            kabili-    vata-          kuli-kuli-       ilo-
-  To’aba’ita (SES)    seʔe--           ʔinafu-    …              ʔuŋa             —
-  Mota (NCV)          (tarapei)        turiai     tamate         vinitiu          lolo-, ape-
-  Wayan (Fij)         -taba-taba       -aŋo       aŋo ni mate    -taba            aloŋa
 
-Mota tarapei is parenthesised because it is not clear that its definition (‘body, shape,
+   Below are examples of terms for the five listed categories.
+
+__table__
+                   | (1)        |      (2)     |   (3)          |        (4)     |        (5)
+                   | ‘exterior, body, skin’ | ‘trunk’ | ‘corpse’ | ‘skin, bark, rind’  | ‘interior, spiritual part’
+  Mutu (NNG)       | _tini-_      | _anoŋa-_   |  _pata-_       |  _uli-_        |     _lolo-_
+  Dobu (PT)        | _oo-_        | _tolobʷa-_ |  _kokowa-_     |  _bʷala-_      |     _nua-_
+  Nakanai (MM)     | _vovo-_      | _kabili-_  |  _vata-_       |  _kuli-kuli-_  |     _ilo-_
+  To’aba’ita (SES) | _seʔe-_      | _ʔinafu-_  |  …             |  _ʔuŋa_        |     —
+  Mota (NCV)       | _(tarapei)_  | _turiai_   |  _tamate_      |  _vinitiu_     |     _lolo-_, _ape-_
+  Wayan (Fij)      | _-taba-taba_ | _-aŋo_     |  _aŋo ni mate_ |  _-taba_       |     _aloŋa_
+
+Mota _tarapei_ is parenthesised because it is not clear that its definition (‘body, shape,
 appearance’) is close to meaning 1. To’aba’ita has a gap under ‘corpse’, as Lichtenberk (2008)
 lists only terms for the corpse wrapped in a mat ready for burial. Wayan Fijian is slightly
 exceptional, in that it clearly retains the four semantic categories but apparently renders ‘corpse’
-phrasally, and uses the same morpheme -taba in both ‘skin’ terms, distinguishing them by
+phrasally, and uses the same morpheme _-taba_ in both ‘skin’ terms, distinguishing them by
 reduplication.
 
     To’aba’ita has a gap under meaning 5, ‘interior, spiritual part’. Terms with this meaning are
-often reflexes of POc *lalo- ‘inside; seat of thoughts and emotions’ or its short variant POc
-*lo- ‘inside’ (vol.2:237–238, §9.2.2). To’aba’ita has a reflex of this term, namely lalo-, but it
-is limited to spatial uses. The reflex of *lalo-/lo- with meaning 5 is used in a number of
+often reflexes of POc _*lalo-_ ‘inside; seat of thoughts and emotions’ or its short variant POc
+_*lo-_ ‘inside’ (vol.2:237–238, §9.2.2). To’aba’ita has a reflex of this term, namely _lalo-_, but it
+is limited to spatial uses. The reflex of _*lalo-_/_lo-_ with meaning 5 is used in a number of
+languages in body-part expressions that label emotional and cognitive states, but in some
+languages it is replaced partly or entirely by other body-part terms, and this is true of
+To’aba’ita. Meaning 5 is further discussed in ch.9, where _*lalo-_ is reconstructed.
 
 78 Meredith Osmond and Malcolm Ross
 
-
-languages in body-part expressions that label emotional and cognitive states, but in some
-languages it is replaced partly or entirely by other body-part terms, and this is true of
-To’aba’ita. Meaning 5 is further discussed in ch.9, where *lalo- is reconstructed.
 
    Terms for these categories presumably also occurred in POc, but POc terms for meanings 1
 and 2 have proven somewhat elusive.
 
    The story with regard to meanings 1, 2 and 5 appears to be one of reassignment of forms
-from one meaning to another, especially in PEOc, where (i) *popo-, *tini- and *pata- no
-longer appeared in these meanings; (ii) *tubuq-a(ŋ) reflexes shifted from meaning 2 to ‘spirit
-being’; and (iii) *[q]abe- took over meaning 2. Further discussion is provided in the relevant
+from one meaning to another, especially in PEOc, where (i) _*popo-_, _*tini-_ and _*pata-_ no
+longer appeared in these meanings; (ii) _*tubuq-a(ŋ)_ reflexes shifted from meaning 2 to ‘spirit
+being’; and (iii) _*[q]abe-_ took over meaning 2. Further discussion is provided in the relevant
 sections below.
 
 3.2.1 The ‘complete skin’, metonymically the body
 
 Two PWOc terms are reconstructable for meaning 1, the whole body, viewed as the complete
 skin, often with its contents. The glosses of their reflexes do not allow a semantic distinction
-between PWOc *popo- and *tini-. The latter is better distributed, but Eastern Oceanic cognates
+between PWOc _*popo-_ and _*tini-_. The latter is better distributed, but Eastern Oceanic cognates
 have been found for neither, and a POc term is not reconstructable.
 
    Discussing what is clearly the same concept in Lelek, a dialect of Madak of New Ireland,
@@ -3530,7 +3520,7 @@ Richard Eves (1998:26) writes,
 
 __blockquote__
      As in some parts of Melanesia, where there is no generic term for the body as such, when
-     the Lelek speak of the body they speak of the skin, labantuxu. ... This is not to say that
+     the Lelek speak of the body they speak of the skin, _labantuxu_. ... This is not to say that
      there is no conceptualisation of the body but merely that the skin comes to stand for the body
      as a whole.
 
@@ -3564,9 +3554,9 @@ PWOc *tini- ‘the complete skin, often used metonymically of the whole body’
                                                                               The human body 79
 
 
-The formal relationship, if any, between PWOc *tini- above and PPn *tino ‘body, trunk of tree,
+The formal relationship, if any, between PWOc _*tini-_ above and PPn _*tino_ ‘body, trunk of tree,
 hull of canoe’ below (approximating to sense 2) is unclear, and the resemblance may be due to
-chance. The same is true of the relationship between PPn *tino and POc *tinoni ‘man,
+chance. The same is true of the relationship between PPn _*tino_ and POc _*tinoni_ ‘man,
 person’ (§2.2.4).
 
 <
@@ -3590,7 +3580,7 @@ whether they originally denoted the human trunk and were applied analogously to 
 like the trunk of a tree or the main part of a canoe or the tubers of a yam plant. However, the
 two terms reconstructed below imply the former.
 
-    POc *pata-, *pataŋ ‘trunk of human body; tree trunk’ is more widely reflected as ‘tree
+    POc _*pata-_, _*pataŋ_ ‘trunk of human body; tree trunk’ is more widely reflected as ‘tree
 trunk’ than ‘human trunk’ (vol.3:89), implying that an extension of meaning to include the
 human torso may have occurred independently in the Admiralties and Micronesia.
 
@@ -3606,17 +3596,17 @@ PMic *fata, *fata-ŋa ‘tree trunk’ (Bender et al. 2003)
  Mic: Chuukese              (ɾē)fasaŋ           ‘torso, trunk’
 >
 
-   POc *tubuq-a(ŋ) reflects a nominalisation of the POc verb *tubuq ‘grow, thrive,
+   POc _*tubuq-a(ŋ)_ reflects a nominalisation of the POc verb _*tubuq_ ‘grow, thrive,
 swell’ (vol.1:134), an origin that implies a wider original sense closer to the Iduna gloss ‘body,
-growth, fullness’ than simply to ‘body’. Indeed, it may be that POc *pata-, *pataŋ above and
+growth, fullness’ than simply to ‘body’. Indeed, it may be that POc _*pata-_, _*pataŋ_ above and
+POc _*tubuq-a(ŋ)_ differed subtly in meaning. Getting at the meaning of _*tubuq-a(ŋ)_ is difficult,
+partly because of inadequate glosses in sources, and partly because in PEOc the meaning had
+shifted to ‘spirit being’, where meaning 2 was perhaps assumed by PEOc _*[q]abe-_ below.
+This in its turn had shifted in PNCV to meaning 5, the inner spiritual part of a person.
 
 80 Meredith Osmond and Malcolm Ross
 
 
-POc *tubuq-a(ŋ) differed subtly in meaning. Getting at the meaning of *tubuq-a(ŋ is difficult,
-partly because of inadequate glosses in sources, and partly because in PEOc the meaning had
-shifted to ‘spirit being’, where meaning 2 was perhaps assumed by PEOc *[q]abe- below.
-This in its turn had shifted in PNCV to meaning 5, the inner spiritual part of a person.
 
 <
 PMP *tubuq ‘grow, thrive, swell’
@@ -3688,12 +3678,12 @@ emitted by the body.
 
 3.3.1 Flesh
 
-POc *pisiko denoted human and animal flesh and muscle, as well as cooked meat.
+POc _*pisiko_ denoted human and animal flesh and muscle, as well as cooked meat.
 
 <
 POc *pisiko ‘flesh, muscle, meat’
- Adm: Seimat            xixio               ‘flesh’ (fricative assimilation, for †fixio)
- NNG: Labu              apisi               ‘flesh’ (-p- for †-h-)
+ Adm: Seimat            xixio               ‘flesh’ (fricative assimilation, for †_fixio_)
+ NNG: Labu              apisi               ‘flesh’ (_-p-_ for †_-h-_)
  NNG: Numbami           wiso                ‘flesh, meat, muscle’
  PT:  Dawawa            visiɣo              ‘flesh, meat’
  PT:  Dobu              esio                ‘flesh, muscle’
@@ -3726,17 +3716,17 @@ PSV *na-vVsaɣo- ‘meat, flesh’ (Lynch 2001c)
 
 3.3.2 Fat
 
-POc *jiji ‘meat, fat, grease’ is reconstructed. The frequent mentions of ‘meat’ in the data below
+POc _*jiji_ ‘meat, fat, grease’ is reconstructed. The frequent mentions of ‘meat’ in the data below
 may be read as references to the edible parts of an animal.
 
-    Another term applied to ‘fat, grease’ is POc *moñak ‘fat, oil, cream, coconut cream;
+    Another term applied to ‘fat, grease’ is POc _*moñak_ ‘fat, oil, cream, coconut cream;
 tasty’ (vol.3:372).
 
 <
 PAn *Sesi ‘flesh, meat’ (ACD)
 PMP *hesi ‘flesh, meat’ (ACD)
 POc *jiji ‘meat, fat, grease’
-  Adm: Seimat        xixi              ‘flesh’ (jujue, xuxue ‘fat, grease’)
+  Adm: Seimat        xixi              ‘flesh’ (_jujue_, _xuxue_ ‘fat, grease’)
   Adm: Titan         cic               ‘slip, slide’
   NNG: Numbami       didi              ‘pig fat’
   NNG: Kaiwa         sisi              ‘meat’
@@ -3744,7 +3734,7 @@ POc *jiji ‘meat, fat, grease’
   NNG: Mapos Buang   zzi               ‘grease, fat’
   NNG: Wampur        zi                ‘meat’
   PT:  Kuni          sisi              ‘meat, fish’
-  PT:  Mekeo         titi              ‘meat’ (t for †s)
+  PT:  Mekeo         titi              ‘meat’ (_t_ for †_s_)
   MM:  Konomala      sis               ‘meat’
   MM:  Label         sis               ‘fish’
   MM:  Siar          sisi              ‘meat’
@@ -3753,7 +3743,7 @@ POc *jiji ‘meat, fat, grease’
 
 3.3.3 Blood
 
-The POc term for blood was *draRa(q). Reflexes are found in all major subgroups except SE
+The POc term for blood was _*draRa(q)_. Reflexes are found in all major subgroups except SE
 Solomonic and Polynesian. In a number of languages the term for ‘red’ is based on the term for
 ‘blood’ (vol.2:209).
 
@@ -3767,8 +3757,8 @@ POc *draRa(q) ‘blood’
   Adm:  Aua           rara-            ‘blood’
   Adm:  Andra         draye-           ‘blood’
   Adm:  Nyindrou      draye-           ‘blood’
-  NNG:  Malasanga     rara-            ‘blood’ (assimilation: r- for †d-)
-  NNG:  Singorakai    lala-            ‘blood’ (assimilation: l- for †r-)
+  NNG:  Malasanga     rara-            ‘blood’ (assimilation: _r-_ for †_d-_)
+  NNG:  Singorakai    lala-            ‘blood’ (assimilation: _l-_ for †_r-_)
   NNG:  Lukep         dara-            ‘blood’
   NNG:  Bilibil       dar              ‘blood’
   NNG:  Bilibil       dara(n)          ‘red’
@@ -3794,7 +3784,7 @@ POc *draRa(q) ‘blood’
   MM:   Meramera      dal-dala-        ‘blood’
   MM:   Notsi         del              ‘blood’
   MM:   Tabar         dara-            ‘blood’
-  MM:   Lihir         dala-            ‘blood’ (dal ‘red’)
+  MM:   Lihir         dala-            ‘blood’ (_dal_ ‘red’)
   MM:   Konomala      (d)dai-          ‘blood’
   MM:   Lamasong      da-              ‘blood’
   MM:   Patpatar      dar-darā-n       ‘red’
@@ -3832,22 +3822,22 @@ cf. also:
 
 3.3.4 Bone
 
-Two POc forms are reconstructed for ‘bone’, *tuqan/tuqa- and *suRi-. The former appears to
-be the formally irregular continuation of PMP *tuqelan. The expected POc form is †*tuqolan,
-but we are inferring that the medial *-e- of *tuqelan, phonetically schwa, was first lost, and the
-resulting *-ql- sequence was then simplified to *-q-.4 POc *suRi- on the other hand is evidently
-a POc innovation.5 Certain SE Solomonic and Polynesian languages reflect both, with a
-difference in meaning. In SE Solomonic languages apparent reflexes of *tuqa- mean
-‘leg’ (listed under ‘cf. also’) and reflexes of *suRi- mean ‘bone’. Lau (SES) has suli- ‘bone’ and
-what looks like a reflex of *tuqa- in ua-sifo ‘bone marrow’, but forms with ua- are not listed
-elsewhere in Fox (1974). PPn *tuqa meant ‘back’, whilst POc *suRi- is continued as ‘bone’ in
+Two POc forms are reconstructed for ‘bone’, _*tuqan_/_tuqa-_ and _*suRi-_. The former appears to
+be the formally irregular continuation of PMP _*tuqelan_. The expected POc form is †_*tuqolan_,
+but we are inferring that the medial _*-e-_ of _*tuqelan_, phonetically schwa, was first lost, and the
+resulting _*-ql-_ sequence was then simplified to _*-q-_.[4] POc _*suRi-_ on the other hand is evidently
+a POc innovation.[5] Certain SE Solomonic and Polynesian languages reflect both, with a
+difference in meaning. In SE Solomonic languages apparent reflexes of _*tuqa-_ mean
+‘leg’ (listed under ‘cf. also’) and reflexes of _*suRi-_ mean ‘bone’. Lau (SES) has _suli-_ ‘bone’ and
+what looks like a reflex of _*tuqa-_ in _ua-sifo_ ‘bone marrow’, but forms with _ua-_ are not listed
+elsewhere in Fox (1974). PPn _*tuqa_ meant ‘back’, whilst POc _*suRi-_ is continued as ‘bone’ in
 Poynesian languages.
 
     The areas in which reflexes of each term occur (in the meaning ‘bone’) are interlaced
 across the Pacific, as follows:
 
 __table
-*tuqa-                      |                *suRi-
+_*tuqa-_                      |                _*suRi-_
   NGOc (= NNG, PT)          |                  Adm
   Parts of MM               |                  Parts of MM
   Mic                       |                  SES, TM, SOc (= NCV, SV, NCal)
@@ -3859,21 +3849,26 @@ shown, these are in italics. The languages constituting the Bali-Vitu, Willaumez
 and Madak groups are listed in Appendix B. Reflexes of the two terms are split across the tiny
 Tabar group. They are also split across the St George linkage, but this is less surprising, as ‘St
 George’ is a large group, of which southern New Ireland microgroups and languages, as well
+as NW Solomonic, are probably first-order subgroups.[6] Reflexes are also split within NW
+Solomonic, in particular cutting across the Nehan/N Bougainville (NNB) subgroup.[7]
 
-[4] Blust (ACD) takes *tuqelan ‘bone’ to have no Oceanic reflexes but reconstructs POc *tuqa with the sense
+[4] Blust (ACD) takes _*tuqelan_ ‘bone’ to have no Oceanic reflexes but reconstructs POc _*tuqa_ with the sense
     ‘back’. Our data do not support this as the primary gloss.
 
-[5] Blust (1993, 2009) reconstructed PCEMP *zuRi ‘bone’ as parent of POc *suRi, but the ACD now attributes
-    its CMP reflexes to PMP *duRi ‘thorn, splinter, fishbone’, continued as POc *(dr,r)uRi ‘thorn’ (vol.1:125).
+[5] Blust (1993, 2009) reconstructed PCEMP _*zuRi_ ‘bone’ as parent of POc _*suRi_, but the ACD now attributes
+    its CMP reflexes to PMP _*duRi_ ‘thorn, splinter, fishbone’, continued as POc _*(dr,r)uRi_ ‘thorn’ (vol.1:125).
+
+[6] The Patpatar microgroup includes the Patpatar, Minigir and Tolai languages, the Label microgroup Label
+    and Bilur, the Kandas microgroup Kandas and Ramoaaina, the Buka microgroup Solos, Halia and Selau.
+
+[7] A significant part of NW Solomonic is missing from the list because Torau, Mono-Alu, Nduke, and the
+    Santa Isabel languages reflect *suma ‘bone’.
 
                                                                                  The human body 85
 
 
-as NW Solomonic, are probably first-order subgroups.[6] Reflexes are also split within NW
-Solomonic, in particular cutting across the Nehan/N Bougainville (NNB) subgroup.[7]
-
 __table__
-*tuqa-                                  |   *suRi-
+_*tuqa_                                  |   _*suRi-_
     Bali-Vitu, Willaumez                |
     Tungag/Nalik                        |      Madak
     Tabar: Notsi, Lihir                 |      Tabar: Tabar
@@ -3885,9 +3880,9 @@ __table__
 
     Why did POc have two different words for ‘bone’? There are two clues to a difference in
 meaning. The first is, as noted above, that *tuqa- reflexes in SE Solomonic and in some E
-Fijian languages mean ‘leg’. The second is that in a few languages reflexes of *suRi also
-denote a bone needle (vol.1:87). Do these facts perhaps mean that *suRi referred principally to
-finer bones, *tuqan to larger bones or to all bones? The evidence is hardly compelling, as
+Fijian languages mean ‘leg’. The second is that in a few languages reflexes of _*suRi_ also
+denote a bone needle (vol.1:87). Do these facts perhaps mean that _*suRi_ referred principally to
+finer bones, _*tuqan_ to larger bones or to all bones? The evidence is hardly compelling, as
 reflexes of both terms are used of the spine in a few languages. An answer of a different kind
 is that the two terms were used in different POc dialects. This would entail the inference that
 the Meso-Melanesian and Fijian linkages each emerged from at least two different dialects.
@@ -3896,13 +3891,13 @@ shown by Geraghty’s (1983) work on Fijian dialects. In the case of the Meso-Me
 groups located on New Ireland (those other than Bali-Vitu, Willaumez and NW Solomonic)
 there is some independent evidence of such a history (Ross 1988:306–307).
 
-    Some Polynesian reflexes of POc *tuqan refer rather to the rough or outer side of a body
+    Some Polynesian reflexes of POc _*tuqan_ refer rather to the rough or outer side of a body
 part, although some compounds refer to backbone or to other prominent bony ridges such as
-the shin. Lihir (MM) displays two reflexes of *tuqan, meaning ‘bone’ and ‘back’ respectively,
-and the Tangga reflex has both senses. It is of interest that the unrelated Lau (SES) term ʔogi-
+the shin. Lihir (MM) displays two reflexes of _*tuqan_, meaning ‘bone’ and ‘back’ respectively,
+and the Tangga reflex has both senses. It is of interest that the unrelated Lau (SES) term _ʔogi-_
 also means ‘a bone, the back, the outside of a thing’.
 
-    The final *-n of *tuqan is reflected among the reflexes below as final -n or pre-final -n- in
+    The final _*-n_ of _*tuqan_ is reflected among the reflexes below as final _-n_ or pre-final _-n-_ in
 the PT languages Muyuw and Kilivila and the MM languages Lavongai, Tigak, Kara, Tiang,
 Nalik and Taiof.
 
@@ -3948,7 +3943,7 @@ POc *tuqan, *tuqa- ‘bone’
   MM:  Hahon           coa-         ‘bone’
   MM:  Tinputz         soa-         ‘bone’
   MM:  Uruava          tua-         ‘bone’
-  SES: Lau             ua(sifo)     ‘bone marrow’ (sifo ?‘descend’)
+  SES: Lau             ua(sifo)     ‘bone marrow’ (_sifo_ ?‘descend’)
   Mic: Woleaian        sū-          ‘bone, body’
   Fij: Wayan           -tua         ‘bone’
   Fij: Vanua Levu      dua          ‘leg’
@@ -3975,61 +3970,55 @@ cf. also:
   SES: Fagani          a-uwa-       ‘leg’
 >
 
-[6] The Patpatar microgroup includes the Patpatar, Minigir and Tolai languages, the Label microgroup Label
-    and Bilur, the Kandas microgroup Kandas and Ramoaaina, the Buka microgroup Solos, Halia and Selau.
-
-[7] A significant part of NW Solomonic is missing from the list because Torau, Mono-Alu, Nduke, and the
-    Santa Isabel languages reflect *suma ‘bone’.
-
 86 Meredith Osmond and Malcolm Ross
 
                                                                           The human body 87
 
 
-   Reflexes of PPn *tuqa ‘back, outer side’ can be used in compounds to identify a part of the
+   Reflexes of PPn _*tuqa_ ‘back, outer side’ can be used in compounds to identify a part of the
 body that is seen as the outer or upper side of a limb or other body part, (cf. alo ‘smooth, soft
-side of a thing < POc *qarop, §3.4.7). The emphasis here has almost entirely moved from
+side of a thing < POc _*qarop_, §3.4.7). The emphasis here has almost entirely moved from
 bone or bony parts, apart from single examples from Samoa (shin), Tikopia (shoulder blade)
 and Hawaiian (shin).
 
 __tablenh__
-Tongan         tuʔa kia             ‘nape of neck’
-               tuʔa mata            ‘eyelid’
-               tuʔa nima            ‘back of hand’
-Niuean         tua ulu              ‘back of neck, nape’
-               tua mata             ‘eyelid’
-               tua lima             ‘back of hand’
-               tua hui              ‘instep’
-               tua pale             ‘lower abdomen, pubic area’
-Samoan         tuā ua               ‘back of neck’
-               tuā ulu              ‘back of head’
-               tuā mata             ‘eyebrow’
-               tuā lima             ‘outer surface of upper limb from hand to shoulder’
-               tua sivi-vae         ‘shin’
-Rennellese tuʔā uʔa                 ‘nape of neck’
-           tuʔā mata                ‘eyebrow, eyelid’
-           tuʔā gima                ‘back of hand’
-           tuʔā baʔe                ‘top of foot’
-           tuʔā teŋa                ‘top of thigh’
-           tuʔā soni                ‘female pubic area’
-           tuʔā uge                 ‘male pubic area’
-Tikopia        tua rima             ‘back of the hand’
-               tua kapakau          ‘shoulder blade’
-               tua vae              ‘top of foot’
-Hawaiian       kua-poʔi-maka         ‘eyelid’
-               kua maha              ‘back of the temple of the head’
-               kuu-ʔau-lima          ‘arm below the elbow’
-               kuu-ʔau-wā-wae        ‘leg, shinbone’
+Tongan      |   tuʔa kia       |      ‘nape of neck’
+            |   tuʔa mata      |      ‘eyelid’
+            |   tuʔa nima      |      ‘back of hand’
+Niuean      |   tua ulu        |      ‘back of neck, nape’
+            |   tua mata       |      ‘eyelid’
+            |   tua lima       |      ‘back of hand’
+            |   tua hui        |      ‘instep’
+            |   tua pale       |      ‘lower abdomen, pubic area’
+Samoan      |   tuā ua         |      ‘back of neck’
+            |   tuā ulu        |      ‘back of head’
+            |   tuā mata       |      ‘eyebrow’
+            |   tuā lima       |      ‘outer surface of upper limb from hand to shoulder’
+            |   tua sivi-vae   |      ‘shin’
+Rennellese  |   tuʔā uʔa       |          ‘nape of neck’
+            |   tuʔā mata      |          ‘eyebrow, eyelid’
+            |   tuʔā gima      |          ‘back of hand’
+            |   tuʔā baʔe      |          ‘top of foot’
+            |   tuʔā teŋa      |          ‘top of thigh’
+            |   tuʔā soni      |          ‘female pubic area’
+            |   tuʔā uge       |          ‘male pubic area’
+Tikopia     |   tua rima       |      ‘back of the hand’
+            |   tua kapakau    |      ‘shoulder blade’
+            |   tua vae        |      ‘top of foot’
+Hawaiian    |   kua-poʔi-maka  |       ‘eyelid’
+            |   kua maha       |       ‘back of the temple of the head’
+            |   kuu-ʔau-lima   |       ‘arm below the elbow’
+            |   kuu-ʔau-wā-wae |       ‘leg, shinbone’
 
 88 Meredith Osmond and Malcolm Ross
 
-    Three sets of seemingly irregular reflexes of POc *suRi ‘bone’ are listed under ‘cf. also’
-below. One consists of Vitiaz Strait (NNG) reflexes of Proto Korap and pre-Mangap *tura-,8 a
-second of Papuan Tip reflexes of Proto PT *turiɣa ‘bone’. These may be irregular reflexes of
-*suRi- reflecting replacement of the initial consonant through contamination by *tuqan. The
-third set consists of the Nyindrou and Micronesian terms, which reflect POc *(dr,r)uRi
-‘thorn’ (vol.3:125). It seems that this may reflect a transfer of meaning from *suRi- to the
-formally similar *(dr,r)uRi.
+    Three sets of seemingly irregular reflexes of POc _*suRi_ ‘bone’ are listed under ‘cf. also’
+below. One consists of Vitiaz Strait (NNG) reflexes of Proto Korap and pre-Mangap _*tura-_,[8] a
+second of Papuan Tip reflexes of Proto PT _*turiɣa_ ‘bone’. These may be irregular reflexes of
+_*suRi-_ reflecting replacement of the initial consonant through contamination by _*tuqan_. The
+third set consists of the Nyindrou and Micronesian terms, which reflect POc _*(dr,r)uRi_
+‘thorn’ (vol.3:125). It seems that this may reflect a transfer of meaning from _*suRi-_ to the
+formally similar _*(dr,r)uRi_.
 
 <
 POc *suRi- ‘bone’ (Milke 1965)
@@ -4091,7 +4080,7 @@ cf. also:
  PT:   Paiwa             tuira              ‘bone’
  PT:   Sinaugoro         turia              ‘bone’
  PT:   Motu              turia              ‘bone’
- PT:   Doura             kuria              ‘bone’ (k < *t)
+ PT:   Doura             kuria              ‘bone’ (_k_ < _*t_)
  Mic:  Carolinian        ṣɨ̄                 ‘bone’
  Mic:  Woleaian          ṣʉ̄                 ‘bone’
 >
@@ -4103,10 +4092,10 @@ cf. also:
 
 3.3.5 Skin
 
-There is a semantic difference between PWOc *tini- ‘body, skin’ above, which denoted the
+There is a semantic difference between PWOc _*tini-_ ‘body, skin’ above, which denoted the
 whole skin and metonymically the body, and the reconstructions in this section, which refer
 only to skin itself, including the skins of animals and fruit as well as tree bark (vol.3:120). A
-number of languages (Mota, Micronesian and Polynesian) show -i- for expected -u- in the first
+number of languages (Mota, Micronesian and Polynesian) show _-i-_ for expected _-u-_ in the first
 syllable.
 
 <
@@ -4121,7 +4110,7 @@ POc *kulit ‘skin (of people, animals, fruit), bark (of trees)’ (vol.3:120)
  NNG:  Bariai             (i)ku-kul         ‘bark’
  NNG:  Kilenge            kul-kuli(a)       ‘skin’
  NNG:  Mangap             kuli-             ‘body (whole), surface of body, skin’
- NNG:  Lukep              kuli-             ‘skin, bark’ (kulina ‘clothing’)
+ NNG:  Lukep              kuli-             ‘skin, bark’ (_kulina_ ‘clothing’)
  NNG:  Malasanga          kuli-             ‘skin’
  NNG:  Mindiri            ku-kuli(n)        ‘bark’
  NNG:  Kaiep              kuli(n)           ‘skin’
@@ -4158,14 +4147,14 @@ POc *kulit ‘skin (of people, animals, fruit), bark (of trees)’ (vol.3:120)
 90 Meredith Osmond and Malcolm Ross
 
 
-   The next reconstruction, POc *pinut ‘skin, bark’ closely resembles two POc terms that
-have been reconstructed for ‘coconut husk’, doublets *punut and *pwenu(t) (vol.3:376–377).
+   The next reconstruction, POc _*pinut_ ‘skin, bark’ closely resembles two POc terms that
+have been reconstructed for ‘coconut husk’, doublets _*punut_ and _*pʷenu(t)_ (vol.3:376–377).
 However, most languages have separate terms for ‘skin’ and ‘coconut husk’. Only in some
 NCV languages and in Misima and Lihir in the set above is an inclusive term found. It seems
-that the resemblance of POc *pinut ‘skin bark’ to the terms for coconut husk is fortuitous, as
-with the exception of the Manam term the cognate set below agrees on *-i- as the nucleus of
-the first syllable, whilst almost all reflexes of *punut and *pwenu(t) agree on *-u- and *-e-
-respectively. A less likely possibility is that POc *pinut was a doublet of *punut and meant
+that the resemblance of POc _*pinut_ ‘skin bark’ to the terms for coconut husk is fortuitous, as
+with the exception of the Manam term the cognate set below agrees on _*-i-_ as the nucleus of
+the first syllable, whilst almost all reflexes of *punut and _*pʷenu(t)_ agree on _*-u-_ and _*-e-_
+respectively. A less likely possibility is that POc _*pinut_ was a doublet of _*punut_ and meant
 ‘skin, rind’.
 
                                                                          The human body 91
@@ -4186,7 +4175,7 @@ PNCV *vinuti ‘skin, husk, rind’ (Clark 2009)
 
 3.3.6 Scar
 
-Reflexes of POc *kira(s) ‘scar’, which continues PMP *kiras, have been noted in only a
+Reflexes of POc _*kira(s)_ ‘scar’, which continues PMP _*kiras_, have been noted in only a
 handful of languages, but they are distributed across three subgroups.
 
 <
@@ -4200,7 +4189,7 @@ cf. also:
  SES: Lau               kida-              ‘scar of wound or sore’
 >
 
-   A second term for ‘scar’, continuing PMP *bilat, is reflected in the data only in the Papuan
+   A second term for ‘scar’, continuing PMP _*bilat_, is reflected in the data only in the Papuan
 Tip and SE Solomonic subgroups.
 
 <
@@ -4216,22 +4205,22 @@ POc *pila(t) ‘scar’
 3.3.7 Head hair
 
 As noted in §3.3.8 Oceanic languages typically distinguish terms for head hair and body hair.
-However, the two POc forms *puRu ‘head hair’ (below) and *pulu ‘body hair’ (§3.3.8) are
+However, the two POc forms _*puRu_ ‘head hair’ (below) and _*pulu_ ‘body hair’ (§3.3.8) are
 similar, and some contemporary forms could reflect either. In a number of languages of
-Melanesia bird feathers are denoted by a reflex of POc *puRu or POc *ipu- ‘head hair,
+Melanesia bird feathers are denoted by a reflex of POc _*puRu_ or POc _*ipu-_ ‘head hair,
 feather’ (both below).
 
 92 Meredith Osmond and Malcolm Ross
 
-   Although there are many reflexes of *puRu, they are with one exception limited to two
-major subgroups, Admiralties and Meso-Melanesian. The exception is Gela (SES) vuvulu-.
-Since POc *-R- and *-l- have merged in Gela, this form almost certainly reflects a conflation
-of POc *pulu- ‘body hair’ (§3.3.8) and POc *puRu- ‘head hair’, an inference supported by its
+   Although there are many reflexes of _*puRu_, they are with one exception limited to two
+major subgroups, Admiralties and Meso-Melanesian. The exception is Gela (SES) _vuvulu-_.
+Since POc _*-R-_ and _*-l-_ have merged in Gela, this form almost certainly reflects a conflation
+of POc _*pulu-_ ‘body hair’ (§3.3.8) and POc _*puRu-_ ‘head hair’, an inference supported by its
 gloss, which includes ‘head hair’, ‘feathers’ and ‘body hair’.
 
 <
 POc *puRu- ‘head hair; feather’
- Adm: Mussau              ū(ŋ-uru-)                  ‘(head) hair’ (ū- ‘hair’, -ŋ- LIGATURE, uru ‘head’)
+ Adm: Mussau              ū(ŋ-uru-)                  ‘(head) hair’ (_ū-_ ‘hair’, _-ŋ-_ LIGATURE, _uru_ ‘head’)
  Adm: Mussau              ū(gila)                    ‘feather’
  Adm: Tenis               ui(gira)                   ‘feather’
  MM: Vitu                 puru-puru                  ‘beard’
@@ -4271,7 +4260,7 @@ POc *ipu- ‘head hair, feather’ (ACD)
  MM:  Patpatar         hī-                ‘(head) hair; feather’
  MM:  Tolai            ivu-               ‘feather’
  MM:  Raluana          ivu-               ‘hair of the human body or of animals; fur, feathers, plumage, bristle’
- MM:  Label            ih                 ‘(head) hair’ (ih-a-mani ‘feather of a bird’)
+ MM:  Label            ih                 ‘(head) hair’ (_ih-a-mani_ ‘feather of a bird’)
  MM:  Bilur            eu-                ‘head’
  MM:  Kandas           iū-                ‘(head) hair’
  MM:  Siar             (i)ufu-            ‘(head) hair’
@@ -4287,14 +4276,14 @@ POc *ipu- ‘head hair, feather’ (ACD)
  SES: Arosi            (war)ihu-          ‘hair; feathers’
 >
 
-[9] This form could also reflect POc *pulu- ‘body hair’ (§3.3.8), but the gloss suggests that it reflects POc
-    *puRu-.
+[9] This form could also reflect POc _*pulu-_ ‘body hair’ (§3.3.8), but the gloss suggests that it reflects POc
+    _*puRu-_.
 
                                                                            The human body 93
 
 
-     POc *raun ‘leaf, head hair’ (vol.3:103) is used to refer also to ‘head hair’, typically in
-subgroups where reflexes of *puRu are not found. This sense was evidently present in POc, as
+     POc _*raun_ ‘leaf, head hair’ (vol.3:103) is used to refer also to ‘head hair’, typically in
+subgroups where reflexes of _*puRu_ are not found. This sense was evidently present in POc, as
 it is also reflected in non-Oceanic CEMP witnesses.
 
 <
@@ -4316,7 +4305,7 @@ POc *raun ‘leaf, head hair’
   Fij:  Wayan              -rō                ‘leaf of a tree, hair of the head’
 >
 
-   POc *qulu- with primary meaning ‘head’ also includes ‘hair of the head’ as part of its
+   POc _*qulu-_ with primary meaning ‘head’ also includes ‘hair of the head’ as part of its
 extended meaning (§3.4.1).
 
 94 Meredith Osmond and Malcolm Ross
@@ -4324,7 +4313,7 @@ extended meaning (§3.4.1).
 
 3.3.7.1 Grey hair
 
-A separate term, POc *qupan, denoted grey hair. Although it is not widely reflected in the
+A separate term, POc _*qupan_, denoted grey hair. Although it is not widely reflected in the
 Oceanic data, it continues a PAn etymon.
 
 <
@@ -4332,7 +4321,7 @@ PAn *qubaL ‘grey hair’ (ACD)
 PMP *quban ‘grey hair’ (ACD)
 POc *qupan ‘grey hair’
   Adm: Lou                kup-kup           ‘white hair, as of the elderly’
-  Adm: Seimat             kūh               ‘greyhaired’ (k- for †0̷)
+  Adm: Seimat             kūh               ‘greyhaired’ (_k-_ for †_0̷_)
   MM: Maringe             ufa               ‘greying (hair), have grey hair, become grey’
   SES: Gela               uva-              ‘grey hair’
 PMic *wua- ‘grey hair’ (Bender et al., 2003)
@@ -4340,17 +4329,17 @@ PMic *wua- ‘grey hair’ (Bender et al., 2003)
   Mic: Chuukese           wəu-wa-ɾ          ‘grey hair, white hair’
 >
 
-   PPn *sina, reflecting POc *sinaR ‘to shine’ (vol.2:299), denoted grey or white hair, and
-PPn *sinā (etymologically *sina-a) meant ‘be white- or grey-haired’, a distinction lost in
+   PPn *sina, reflecting POc _*sinaR_ ‘to shine’ (vol.2:299), denoted grey or white hair, and
+PPn _*sinā_ (etymologically _*sina-a_) meant ‘be white- or grey-haired’, a distinction lost in
 languages that have neutralised short and long vowels.
 
 <
 PPn *sina ‘white or grey hair’
 PPn *sinā ‘be white- or grey-haired’
-  Pn:    Tongan           hinā                ‘grey or white, of hair’ (< PPn sinā)
+  Pn:    Tongan           hinā                ‘grey or white, of hair’ (< PPn _sinā_)
   Pn:    Niuean           hina                ‘grey-haired, white-haired’
   Pn:    Samoan           sina                ‘white or grey hair’
-  Pn:    Samoan           sinā                ‘be white- or grey-haired’ (< PPn sinā)
+  Pn:    Samoan           sinā                ‘be white- or grey-haired’ (< PPn _sinā_)
   Pn:    Rennellese       sina                ‘grey hair’
   Pn:    Tikopia          sina                ‘grey-haired’
   Pn:    Maori            hina                ‘grey-haired’
@@ -4360,83 +4349,83 @@ PPn *sinā ‘be white- or grey-haired’
 
 3.3.7.2 Bald
 
-Of the reconstructions below only *pwalala is certainly attributable to POc. POc *(pʷa)pwata is
-reconstructed tentatively, as explained below. The other reconstructions are apparently post-
-POc innovations.
+Of the reconstructions below only _*pʷalala_ is certainly attributable to POc. POc _*(pʷa)pʷata_ is
+reconstructed tentatively, as explained below. The other reconstructions are apparently post-POc
+innovations.
 
 <
-POc *pwalala ‘bald’[10]
+POc *pʷalala ‘bald’[10]
  Adm: Mussau              vāla               ‘bald’
  Adm: Loniu               pala-              ‘head’
  NNG: Manam               palala             ‘bald head’
  MM:  Nakanai             lela               ‘bald’
  MM:  Tangga              palal              ‘bald’
  SES: Bugotu              palala             ‘be bald; ridge, crest, top of hill’
- SES: Lau                 falai              ‘bald’ (-i unexpected)
- SES: Sa’a                halai              (VI) ‘be bald’; (N) ‘a bald person’ (-i unexpected)
+ SES: Lau                 falai              ‘bald’ (_-i_ unexpected)
+ SES: Sa’a                halai              (VI) ‘be bald’; (N) ‘a bald person’ (_-i_ unexpected)
  NCV: Nahavaq             pal                ‘bald’ (John Lynch, pers. comm.)
  NCV: Nisvai              parpal             ‘bald’ (John Lynch, pers. comm.)
  Mic: Puluwatese          pal                ‘be bald’
 >
 
-[10] This form may reflect PMP *palpal ‘bald’ (Dempwolff 1938). If it does, however, it is irregular, as the
-     expected POc form would be †*papal.
+[10] This form may reflect PMP _*palpal_ ‘bald’ (Dempwolff 1938). If it does, however, it is irregular, as the
+     expected POc form would be †_*papal_.
 
                                                                           The human body 95
 
 
-   The reconstruction of POc *(pʷa)pwata ‘bald’ is tentative. Pije hwata reflects a reduplicated
-form *pʷa-pwata. Otherwise the correspondence with Sudest vwata is regular. The forms listed
-under ‘cf. also’, however, do not reflect *-t- regularly.
+   The reconstruction of POc _*(pʷa)pʷata_ ‘bald’ is tentative. Pije _hʷata_ reflects a reduplicated
+form _*pʷa-pʷata_. Otherwise the correspondence with Sudest vwata is regular. The forms listed
+under ‘cf. also’, however, do not reflect _*-t-_ regularly.
 
 <
-POc *(pʷa)pwata ‘bald’ (?)
-  PT:   Sudest            vwata              ‘bald’
-  NCal: Pije              hwata              ‘bald’
+POc *(pʷa)pʷata ‘bald’ (?)
+  PT:   Sudest            vʷata              ‘bald’
+  NCal: Pije              hʷata              ‘bald’
 cf. also:
   NCV:  Mwotlap           pʷas               ‘bald’
   NCV:  Mota              pʷasa-             ‘bald, a bald person’
-  SV:   Lenakel           a-pwa              ‘bald’
-  SV:   Kwamera           a-pwa              ‘bald’
+  SV:   Lenakel           a-pʷa              ‘bald’
+  SV:   Kwamera           a-pʷa              ‘bald’
 >
 
 <
-PWOc *bw(a,e)ka ‘bald’
+PWOc *bʷ(a,e)ka ‘bald’
  PT: Muyuw               bak                ‘bald’
  PT: Kilivila            baka-              ‘bald’
- MM: Tabar               piaka-             ‘bald head’ (-ia- unexpected)
- MM: Tolai               peaka              ‘bald-headed’ (-ea- unexpected)
+ MM: Tabar               piaka-             ‘bald head’ (_-ia-_ unexpected)
+ MM: Tolai               peaka              ‘bald-headed’ (_-ea-_ unexpected)
  MM: Nehan               peke               ‘bald’
  MM: Teop                peka               ‘bald’
  MM: Tinputz             peka               ‘bald’
- MM: Roviana             paka-              ‘crown of head’ (paka batu ‘bald’)
+ MM: Roviana             paka-              ‘crown of head’ (_paka batu_ ‘bald’)
 >
 
 <
-PNCV *mwasu ‘bald’ (Clark 2009)
+PNCV *mʷasu ‘bald’ (Clark 2009)
  NCV: Raga              mahu                  ‘hairless’
- NCV: NE Ambae          mwaho                 ‘hairless’
- NCV: Lewo              mwu                   ‘bald’
- NCV: Namakir           mweh                  ‘bald’
+ NCV: NE Ambae          mʷaho                 ‘hairless’
+ NCV: Lewo              mʷu                   ‘bald’
+ NCV: Namakir           mʷeh                  ‘bald’
 >
 
 3.3.8 Body hair
 
 Many Oceanic languages have distinct terms for body hair and head hair, although the two
-reconstructions, POc *pulu- ‘body hair’ (below) and POc *puRu- ‘head hair’ (§3.3.7), are
-similar, with some cognates that could reflect either. Reflexes of *pulu- also denote animal fur.
+reconstructions, POc _*pulu-_ ‘body hair’ (below) and POc _*puRu-_ ‘head hair’ (§3.3.7), are
+similar, with some cognates that could reflect either. Reflexes of _*pulu-_ also denote animal fur.
 
 96 Meredith Osmond and Malcolm Ross
 
 
-Reflexes of both *pulu- and *puRu- denote bird feathers.[11] In a number of languages of
-Melanesia, however, bird feathers are denoted by a reflex of POc *ipu- ‘head hair,
+Reflexes of both _*pulu-_ and _*puRu-_ denote bird feathers.[11] In a number of languages of
+Melanesia, however, bird feathers are denoted by a reflex of POc _*ipu-_ ‘head hair,
 feather’ (§3.3.7; for feathers, see vol.4:273–274).
 
    POc evidently also had a separate term for pubic hair (see below).
 
 <
-PMP *bulu- ‘body hair; fur; feather; down; floss on plant stems; color; type, kind’ (ACD); ‘hair, plumage’ (Dahl 1981) (Ross 1988 has PAn/PMP *bulu ‘body hair’)
+PMP *bulu- ‘body hair; fur; feather; down; floss on plant stems; color; type, kind’ (ACD); ‘hair, plumage’ (Dahl 1981) (Ross 1988 has PAn/PMP _*bulu_ ‘body hair’)
 POc *pulu- ‘body hair, fur, feathers’ (ACD)
   NNG:  Hote              vulu(k)            ‘hair; feathers’
   NNG:  Kove              ulu-               ‘taboo marker made of decorative fringe’ (Goulden 1982)
@@ -4482,25 +4471,25 @@ PEOc *pulu- ‘body hair, fur, feathers’ (Biggs 1965)
   Pn:   Hawaiian          hulu               ‘feather, quill; fur, wool, fleece, human body hair’
 >
 
-[11] A number of modern languages have a compound that implies the presence of the POc phrase *pulu qi
-     manuk ‘*pulu of bird’, i.e. ‘feathers’ (Motu (PT) manu hui(na) and the Polynesian languages Nukuoro hulu
-     manu, Anuta puru o manu, Hawaiian hulu manu).
+[11] A number of modern languages have a compound that implies the presence of the POc phrase
+_*pulu qi manuk_ ‘_*pulu_ of bird’, i.e. ‘feathers’ (Motu (PT) _manu hui(na)_ and the Polynesian
+languages Nukuoro _hulu manu_, Anuta _puru o manu_, Hawaiian _hulu manu_).
 
-[12] In Vitu -k has been added to certain inalienables (van den Berg & Bachet 2006), perhaps reflecting the
-      POc free noun suffix *-ki, added to inalienables that were not possessed (Ross 2001b:273–274).
+[12] In Vitu _-k_ has been added to certain inalienables (van den Berg & Bachet 2006), perhaps reflecting the
+      POc free noun suffix _*-ki_, added to inalienables that were not possessed (Ross 2001b:273–274).
 
-[13] The gloss suggests that this form reflects a conflation of POc *pulu- ‘body hair’ and POc *puRu- ‘head
-     hair’ (§3.3.7) resulting from a merger of the reflexes of POc *-l- and *-R-.
+[13] The gloss suggests that this form reflects a conflation of POc _*pulu-_ ‘body hair’ and POc _*puRu-_ ‘head
+     hair’ (§3.3.7) resulting from a merger of the reflexes of POc _*-l-_ and _*-R-_.
 
-[14] Laghu pulu- could also reflect POc *puRu ‘head hair’, but the sense ‘pubic hair’ suggests that it reflects
-     *pulu.
+[14] Laghu _pulu-_ could also reflect POc _*puRu_ ‘head hair’, but the sense ‘pubic hair’ suggests that it reflects
+     _*pulu_.
 
                                                                            The human body 97
 
 
     The cognate set below arguably reflects two functions of POc reduplication. The first
 derived a noun that denotes a multiplicity of an object, in this case many hairs. The second,
-sometimes with the addition of *-ka or *-a, forms an adjectival noun that denotes a property
+sometimes with the addition of _*-ka_ or _*-a_, forms an adjectival noun that denotes a property
 (this process formed various colour terms: vol.2:206, 210). It is possible that some or all of
 these terms are not direct reflexes of POc etyma, but reflect later derivations by these
 processes.
@@ -4534,16 +4523,16 @@ POc *pulu-pulu[-ka] ‘hairy’
 
 
    Many Oceanic languages have no dedicated term for pubic hair and use a reflex of POc
-*pulu ‘body hair’ (§3.3.8), sometimes with a modifier. However, POc *koRo ‘pubic hair’ is
+_*pulu_ ‘body hair’ (§3.3.8), sometimes with a modifier. However, POc _*koRo_ ‘pubic hair’ is
 evidenced by widely distributed reflexes.
 
 <
 POc *koRo ‘pubic hair’ (Geraghty 1990: PEOc)
  NNG: Lukep (Pono)    koro-               ‘pubic hair’
- PT:  Iduna           (mata)ʔolo-ʔolo-    ‘eyelash’ (mata- ‘eye’)
- PT:  Gapapaiwa       (igi)koro-          ‘male pubic hair’ (igi- ‘male genitals)
- PT:  Gapapaiwa       (kio)koro-          ‘female pubic hair’ (kio- ‘female genitals)
- PT:  Gapapaiwa       (mata)koro-         ‘eyelash’ (mata- ‘eye’)
+ PT:  Iduna           (mata)ʔolo-ʔolo-    ‘eyelash’ (_mata-_ ‘eye’)
+ PT:  Gapapaiwa       (igi)koro-          ‘male pubic hair’ (_igi-_ ‘male genitals)
+ PT:  Gapapaiwa       (kio)koro-          ‘female pubic hair’ (_kio-_ ‘female genitals)
+ PT:  Gapapaiwa       (mata)koro-         ‘eyelash’ (_mata-_ ‘eye’)
  MM:  Bola            koro                ‘pubic; pubic hair’
  MM:  Nakanai         koro(ma)            ‘pubic hair’
  MM:  Roviana         ɣoro-               ‘pubic hair’
@@ -4559,9 +4548,9 @@ PMic *koro ‘pubic hair’ (Bender et al., 2003)
 
 3.3.9 Veins, arteries, sinews and tendons
 
-The gloss of POc *uRat, which includes blood vessels, sinews and tendons, reflects their
+The gloss of POc _*uRat_, which includes blood vessels, sinews and tendons, reflects their
 common cord-like structure rather than their bodily function. This is even more true of the
-following term, POc *waRo(c) ‘generic term for vines and creepers; vein, string, rope’, which
+following term, POc _*waRo(c)_ ‘generic term for vines and creepers; vein, string, rope’, which
 applies to animal and human anatomy by extension.
 
 <
@@ -4610,20 +4599,20 @@ cf. also:
                                                                          The human body 99
 
 
-    It appears that *uRat was the usual POc term for cord-like parts of the internal anatomy. It
-can be inferred that *waRo(c) primarily denoted vines and creepers, as this is its most
+    It appears that _*uRat_ was the usual POc term for cord-like parts of the internal anatomy. It
+can be inferred that _*waRo(c)_ primarily denoted vines and creepers, as this is its most
 widespread sense (vol.3:74), but was used colloquially of cord-like parts of anatomical items.
-Below are listed only reflexes of POc *waRo(c) that are glossed with an anatomical term.
+Below are listed only reflexes of POc _*waRo(c)_ that are glossed with an anatomical term.
 Given its wide distribution, the extension from ‘vine, creeper’ to veins and tendons was
 evidently already present in POc. NCV reflexes (under ‘cf. also’) indicate an idiosyncratic
-change whereby POc *waRo(c) became PNCV *kaRo instead of expected †*waRo.
+change whereby POc _*waRo(c)_ became PNCV _*kaRo_ instead of expected †_*waRo_.
 Micronesian languages apparently reflect contamination of POc *waRo(c) ‘vein,
-string’ (vol.3:74) by POc *wakaR ‘root’ (vol.3:99) with the result that the data point to the
-reconstruction of PMic *waka (Bender et al. 2003) rather than expected †*wa(r)o. Outright
-conflation has occurred only in Pulo Annian, however, where wāxa/waxa- means both ‘vein,
-sinew, artery’ and ‘root’. Other Micronesian languages keep reflexes of PMic *waka ‘vein,
-artery, sinew’ separate from those of PMic *waka/wakara ‘root’ because *-r- is usually
-reflected as -r- in the latter (vol.3:99).
+string’ (vol.3:74) by POc _*wakaR_ ‘root’ (vol.3:99) with the result that the data point to the
+reconstruction of PMic _*waka_ (Bender et al. 2003) rather than expected †_*wa(r)o_. Outright
+conflation has occurred only in Pulo Annian, however, where _wāxa_/_waxa-_ means both ‘vein,
+sinew, artery’ and ‘root’. Other Micronesian languages keep reflexes of PMic _*waka_ ‘vein,
+artery, sinew’ separate from those of PMic _*waka_/_wakara_ ‘root’ because _*-r-_ is usually
+reflected as _-r-_ in the latter (vol.3:99).
 
 100 Meredith Osmond and Malcolm Ross
 
@@ -4634,7 +4623,7 @@ POc *waRo(c) ‘generic term for vines and creepers; string, rope; vein, tendon�
  Adm:  Seimat             wau-              ‘blood vessel, nerve, tendon, etc’
  Adm:  Wuvulu             wao-              ‘vein, tendon; rope’
  NNG:  Tami               (aka)wal          ‘vein’
- NNG:  Kove               waho-waho         ‘vein’ (waho ‘rope’)
+ NNG:  Kove               waho-waho         ‘vein’ (_waho_ ‘rope’)
  NNG:  Bariai             oaro-             ‘vein’
  NNG:  Tuam               waro-             ‘vein’
  NNG:  Malalamai          waro-             ‘vein’
@@ -4647,7 +4636,7 @@ POc *waRo(c) ‘generic term for vines and creepers; string, rope; vein, tendon�
  SJ:   Tarpia             (sini)waro-       ‘vein’
  SJ:   Bongo              (berno)waro-      ‘neck’
  PT:   Molima             walo-             ‘veins and tendons’
- PT:   Dobu               waro-             ‘artery’ (waro-waro ‘vein’) (-r- for †-l-)
+ PT:   Dobu               waro-             ‘artery’ (_waro-waro_ ‘vein’) (_-r-_ for †_-l-_)
  PT:   Motu               varo-varo-        ‘veins, arteries, tendons’
  SV:   Anejom             in-wau-           ‘sinew, tendon, vein’
  NCal: Nêlêmwa            wara-             ‘vein, tendon, rope, string’
@@ -4663,7 +4652,7 @@ PMic *waka ‘vein, artery, sinew’ (Bender et al. 2003)
 cf. also:
 PNCV *kaRo ‘vine, rope; vein’ (Clark 2009)
  NCV:  Maewo              ɣao-              ‘vein’
- NCV:  NE Ambae           karo(huwe)        ‘vein’ (karo ‘rope, vine’, huwe ‘?’)
+ NCV:  NE Ambae           karo(huwe)        ‘vein’ (_karo_ ‘rope, vine’, _huwe_ ‘?’)
 >
 
 
@@ -4679,24 +4668,24 @@ mouth (outer and inner), lips, tongue, teeth (in general, molar and canine), gum
 beard, neck, throat and voice.
 
     There are several terms for the head itself, their cognate sets and glosses suggesting
-differences in their semantic range. The fact that POc *qulu- (§3.4.1) also had a number of
+differences in their semantic range. The fact that POc _*qulu-_ (§3.4.1) also had a number of
 metaphorical senses (‘chief’, ‘headwaters’, ‘prow of a boat’, ‘first-born’), as well as the more
 specialised sense of ‘hair of the head’ and a use as a relational local noun meaning ‘top’
 suggests that part of its meaning was the position of the head as the highest point of the body.
-The glosses of *bʷatu(k), on the other hand, appear to focus on its shape (§3.4.2).
+The glosses of _*bʷatu(k)_, on the other hand, appear to focus on its shape (§3.4.2).
 
 
 3.4.1 *qulu ‘head’
 
-The most widespread term for the head is *qulu. Blust (ACD) comments
+The most widespread term for the head is _*qulu_. Blust (ACD) comments
 
 __blockquote__
-      Although only the meaning ‘head’ can be assigned to PAn *quluh, PMP *quluh clearly had a
+      Although only the meaning ‘head’ can be assigned to PAn _*quluh_, PMP _*quluh_ clearly had a
       number of meanings in addition to its primary use as a body-part label. Physical extensions
       of this primary sense include applications to the tops of trees, mountains and the like, and to
       the handles of bladed implements such as knives and axes. Somewhat more striking are
       widespread reflexes of *quluh in the meaning ‘headwaters of a river’, probably in the
-      construction *qulu ni wahiR. ... Reflexes of *quluh apply not only to the upper part of
+      construction _*qulu ni wahiR_. … Reflexes of _*quluh_ apply not only to the upper part of
       objects, but also to the front part of objects (‘prow of a boat’) and to priority in time (‘first’,
       ‘first-born’).
 
@@ -4732,9 +4721,9 @@ POc *qulu- ‘head; leader; hair of the head’; (N LOC) ‘top part’
   MM:  Maringe           n-ulu            ‘leader, leading person or thing, in the first position’
   SES: Gela              ulu-             ‘head, except of a chief; eastern end, upper end’
   SES: Bugotu            ulu-             ‘head, top end’
-  SES: Lau               ulu(nao)         ‘first-born, elder, senior’ (nao ‘first’)
+  SES: Lau               ulu(nao)         ‘first-born, elder, senior’ (_nao_ ‘first’)
   SES: ’Are’are          uru              ‘cloud, heaven, sky, top’
-  SES: Sa’a              ulu(one)         ‘the sandy tract immediately above the beach’ (one ‘sand’)
+  SES: Sa’a              ulu(one)         ‘the sandy tract immediately above the beach’ (_one_ ‘sand’)
   NCV: Mota              ulu(i)            ‘hair; feathers’
   NCV: NE Ambae          ulu               ‘above, top of, height (of person)’
   NCV: Raga              ilu-              ‘hair’
@@ -4752,7 +4741,7 @@ PPn *qulu ‘head, hair of head’
   Pn:  Tongan            ʔulu              ‘head (lit. or fig.), upper end’
   Pn:  Tongan            |ʔulu (ʔi ʔufi)|    ‘yam-top’
   Pn:  Niuean            ulu               ‘head, hair’
-  Pn:  Niuean            ulu(aki)          ‘first-born’ (aki ordinalising particle)
+  Pn:  Niuean            ulu(aki)          ‘first-born’ (_aki_ ordinalising particle)
   Pn:  Rennellese        ʔugu              ‘head, hair of head; head person’
   Pn:  Samoan            ulu               ‘head; hair’
   Pn:  Samoan            |ulu (matua)|       ‘first-born, eldest child’
@@ -4777,21 +4766,21 @@ POc *qulu-qulu ‘upper part of s.t.’
                                                                                      The human body 103
 
 
-3.4.2 *p(w)atu(k) ‘outer shell, skull’, *bwatu(k) ‘head, top of’ and *pwau- ‘head’
+3.4.2 _*(p,pʷ)atu(k)_ ‘outer shell, skull’, _*bʷatu(k)_ ‘head, top of’ and _*pʷau-_ ‘head’
 
-The three POc terms reconstructed below, *p(w)atu(k) ‘outer shell, skull’, *bwatu(k) ‘head, top of’,
-and *pwau- ‘head’, represent a solution to a reconstructive conundrum. We are confronted by two
-overlapping pairs of reconstructions. The first pair, *p(w)atu(k) and *bwatu(k), are very similar in
-form. They are also close enough in meaning that some reflexes of *p(w)atu(k) mean ‘head’ rather
-than ‘skull’. The second pair, *bwatu(k) and *pwau-, both mean ‘head’, and form a puzzling
-parallel to POc *pʷatu[ka]- ‘elbow, knee; joint, node’ and PSOc *bʷau- ‘knee’ (§3.6.8.1.1).
+The three POc terms reconstructed below, _*(p,pʷ)atu(k)_ ‘outer shell, skull’, _*bʷatu(k)_ ‘head, top of’,
+and _*pʷau-_ ‘head’, represent a solution to a reconstructive conundrum. We are confronted by two
+overlapping pairs of reconstructions. The first pair, _*(p,pʷ)atu(k)_ and _*bʷatu(k)_, are very similar in
+form. They are also close enough in meaning that some reflexes of _*(p,pʷ)atu(k)_ mean ‘head’ rather
+than ‘skull’. The second pair, _*bʷatu(k)_ and _*pʷau-_, both mean ‘head’, and form a puzzling
+parallel to POc _*pʷatu[ka]-_ ‘elbow, knee; joint, node’ and PSOc _*bʷau-_ ‘knee’ (§3.6.8.1.1).
 
-   We turn first to *p(w)atu(k) and *bwatu(k).
+   We turn first to _*(p,pʷ)atu(k)_ and _*bʷatu(k)_.
 
 
-3.4.2.1 *p(w)atu(k) (vs *bwatu(k))
+3.4.2.1 _*(p,pʷ)atu(k)_ (vs _*bʷatu(k)_)
 
-Dempwolff (1938) reconstructed PMP *batuk and glossed it as ‘skull’. Blust (ACD) retains this
+Dempwolff (1938) reconstructed PMP _*batuk_ and glossed it as ‘skull’. Blust (ACD) retains this
 gloss, but with a comment that it is problematic, as the only non-Oceanic reflexes are:
 
 __formgroup__
@@ -4800,78 +4789,78 @@ __formgroup__
      CMP : Tetun                  |ulu-n fatu(-k)|        ‘skull, bones of the head’
      CMP : Kisar                  |ulu waku-n|            ‘head’
 
-The glosses above suggest the possibility that PMP *batuk meant ‘outer shell’, whether of the
-skull or of, say, a nut. The CMP terms, in which ulu- reflects PMP *quluh ‘head’ (§3.4.1), thus
+The glosses above suggest the possibility that PMP _*batuk_ meant ‘outer shell’, whether of the
+skull or of, say, a nut. The CMP terms, in which _ulu-_ reflects PMP _*quluh_ ‘head’ (§3.4.1), thus
 had the literal sense ‘shell of head’, i.e. ‘skull’, leading to the likelihood that the directly
-inherited POc reflex of PMP *batuk was not POc *bwatu(k) ‘head’ but POc *p(w)atu(k) ‘outer
-shell, skull’ below.[15] It is also possible that this *p(w)atu shares history with POc *pʷatu[ka]-
-‘elbow, knee; joint, node’ (§3.6.8.1.1), particularly if the latter referred specifically to the knee-
-cap, itself an outer shell—but we have no direct evidence of this at the moment.
+inherited POc reflex of PMP _*batuk_ was not POc _*bʷatu(k)_ ‘head’ but POc _*(p,pʷ)atu(k)_ ‘outer
+shell, skull’ below.[15] It is also possible that this _*(p,pʷ)atu_ shares history with POc _*pʷatu[ka]-_
+‘elbow, knee; joint, node’ (§3.6.8.1.1), particularly if the latter referred specifically to the knee-cap,
+itself an outer shell—but we have no direct evidence of this at the moment.
 
-   It seems unlikely, however, that the formal and semantic similarity of *p(w)atu(k) and
-*bwatu(k) is due to chance, and more probable that both ultimately reflect PMP *batuk ‘outer
-shell’, with *bwatu(k) an indirect reflex—perhaps a loan from a language that retained PMP
-*b-, perhaps the outcome of a piece of word-play or of some process that the data do not
+   It seems unlikely, however, that the formal and semantic similarity of _*(p,pʷ)atu(k)_ and
+_*bʷatu(k)_ is due to chance, and more probable that both ultimately reflect PMP _*batuk_ ‘outer
+shell’, with _*bʷatu(k)_ an indirect reflex—perhaps a loan from a language that retained PMP
+_*b-_, perhaps the outcome of a piece of word-play or of some process that the data do not
 reveal. Such splits in pre-Oceanic etyma did occur occasionally, as attested by the split of PMP
-*buaq ‘fruit’ into POc *puaq ‘fruit’ (vol.3:115) and POc *buaq ‘betelnut, areca
+_*buaq_ ‘fruit’ into POc _*puaq_ ‘fruit’ (vol.3:115) and POc _*buaq_ ‘betelnut, areca
 palm’ (vol.3:393; see the summary of Blust’s ACD discussion there). However, there is no
-non-Oceanic evidence of such a split. The cognate set supporting *p(w)atu(k) is given below,
-and that supporting *bwatu(k) in §3.4.2.2.
+non-Oceanic evidence of such a split. The cognate set supporting _*(p,pʷ)atu(k)_ is given below,
+and that supporting _*bʷatu(k)_ in §3.4.2.2.
 
    In the New Ireland languages Tigak, Kara and Lihir and Bougainville languages from Taiof
-to Uruava below, the reflex of *p(w)atu means ‘head’. This may reflect contamination by
-*bwatu(k) or simple semantic shift.[16] Under ‘cf. also’ below are reflexes of Proto Central
-Micronesian *fatuku ‘head’, where *f- is the regular reflex of POc *p-, not *pʷ-, but these
-forms are also odd in reflecting final POc *-k with a following echo vowel. These are thus not
+to Uruava below, the reflex of _*(p,pʷ)atu_ means ‘head’. This may reflect contamination by
+_*bʷatu(k)_ or simple semantic shift.[16] Under ‘cf. also’ below are reflexes of Proto Central
+Micronesian _*fatuku_ ‘head’, where _*f-_ is the regular reflex of POc _*p-_, not _*pʷ-_, but these
+forms are also odd in reflecting final POc _*-k_ with a following echo vowel. These are thus not
 regular reflexes and may reflect borrowing from an unknown source that retained POc final
 consonants.
 
-[15] This inference seems more plausible than Blust’s (ACD) that the CMP items reflect PMP *batu ‘stone’
-     rather than PMP *batuk.
+[15] This inference seems more plausible than Blust’s (ACD) that the CMP items reflect PMP _*batu_ ‘stone’
+     rather than PMP _*batuk_.
 
 [16] An alternative is that we have misread the sound correspondence, as there are very few Bougainville reflexes
-     of terms that include *bʷ.
+     of terms that include _*bʷ_.
 
 104 Meredith Osmond and Malcolm Ross
 
-    Also below is a cognate set reflecting POc *[p(w)atu]p(w)atu(k) ‘hard, strong, firm’. We take
-this to be a reduplication of *p(w)atu(k) ‘outer shell, skull’, an inference supported by both form
+    Also below is a cognate set reflecting POc _*[(p,pʷ)atu](p,pʷ)atu(k)_ ‘hard, strong, firm’. We take
+this to be a reduplication of _*(p,pʷ)atu(k)_ ‘outer shell, skull’, an inference supported by both form
 (POc attributes were commonly formed by reduplication; vol.2:206–220) and meaning.
 
-    In two instances below, Bariai (eau) pat ‘coconut shell container for water’ and Takia pat-
-pat ‘strong, hard’, there is homophony with the term for ‘stone’, pat in both cases, reflecting
-POc *patu ‘stone, rock’ (vol.2:62–63). We take this to be the result of chance. In languages
-where *pʷ- and *p- are differently reflected, reflexes of *p(w)atu and *patu are not homophonous,
+    In two instances below, Bariai _(eau) pat_ ‘coconut shell container for water’ and Takia _pat-pat_
+‘strong, hard’, there is homophony with the term for ‘stone’, _pat_ in both cases, reflecting
+POc _*patu_ ‘stone, rock’ (vol.2:62–63). We take this to be the result of chance. In languages
+where _*pʷ-_ and _*p-_ are differently reflected, reflexes of _*(p,pʷ)atu_ and _*patu_ are not homophonous,
 as indicated in parentheses below.
 
 <
 PMP *batuk ‘outer shell, skull’ (Dempwolff 1938: ‘skull’; ACD)
 POc *p(w)atu(k) ‘outer shell, skull’
- Adm: Mussau            pati(nao)       ‘skull’ (nao ?< POc *nako- ‘face’; cf. atu ‘stone’)
- NNG: Bariai            |(eau) pat|     ‘coconut shell container for water’ (eau ‘water’; cf. pat ‘stone’)
+ Adm: Mussau            pati(nao)       ‘skull’ (nao ?< POc _*nako-_ ‘face’; cf. _atu_ ‘stone’)
+ NNG: Bariai            |(eau) pat|     ‘coconut shell container for water’ (_eau_ ‘water’; cf. _pat_ ‘stone’)
  NNG: Poeng             pat-pato        ‘shell’
  NNG: Gitua             patu            ‘coconut shell, eggshell’
  NNG: Bilibil           patu-           ‘head’
- NNG: Kaiwa             na-vatu         ‘skull’ (cf. vat ‘stone’)
- NNG: Yalu              (nupiap)arʊ-ʔ   ‘skull’ (nupiap ‘head’)
+ NNG: Kaiwa             na-vatu         ‘skull’ (cf. _vat_ ‘stone’)
+ NNG: Yalu              (nupiap)arʊ-ʔ   ‘skull’ (_nupiap_ ‘head’)
  MM:  Tigak             patu-           ‘head’
- MM:  E Kara            putu-           ‘head’ (cf. fat ‘stone’)
- MM:  Lihir             pat-pat         ‘brain’ (cf. ot ‘stone’)
- MM:  Lamasong          pat(lak)        ‘skull’ (lak ‘brain’; cf. vatu-at ‘stone’)
- MM:  Sursurunga        patu-           ‘skull’ (cf. hat ‘stone’)
+ MM:  E Kara            putu-           ‘head’ (cf. _fat_ ‘stone’)
+ MM:  Lihir             pat-pat         ‘brain’ (cf. _ot_ ‘stone’)
+ MM:  Lamasong          pat(lak)        ‘skull’ (_lak_ ‘brain’; cf. _vatu-at_ ‘stone’)
+ MM:  Sursurunga        patu-           ‘skull’ (cf. _hat_ ‘stone’)
  MM:  Sursurunga        pat-pat         ‘shell type’
- MM:  Siar              pat-pat         ‘shell type’ (cf. fat ‘stone’)
- MM:  Taiof             patu            ‘head; forehead’ (cf. fat ‘stone’)
- MM:  Hahon             pac             ‘head’ (cf. vac ‘stone’)
- MM:  Tinputz           pasu            ‘head’ (cf. vɔs ‘stone’)
- MM:  Teop              pasu            ‘head’ (cf. vasu ‘stone’)
- MM:  Papapana          patu            ‘head’ (cf. vatu ‘stone’)
- MM:  Uruava            patu            ‘head’ (cf. patu ‘stone’)
- MM:  Mono-Alu          (ola)patu-      ‘skull’ (cf. patu ‘stone’)
+ MM:  Siar              pat-pat         ‘shell type’ (cf. _fat_ ‘stone’)
+ MM:  Taiof             patu            ‘head; forehead’ (cf. _fat_ ‘stone’)
+ MM:  Hahon             pac             ‘head’ (cf. _vac_ ‘stone’)
+ MM:  Tinputz           pasu            ‘head’ (cf. _vɔs_ ‘stone’)
+ MM:  Teop              pasu            ‘head’ (cf. _vasu_ ‘stone’)
+ MM:  Papapana          patu            ‘head’ (cf. _vatu_ ‘stone’)
+ MM:  Uruava            patu            ‘head’ (cf. _patu_ ‘stone’)
+ MM:  Mono-Alu          (ola)patu-      ‘skull’ (cf. _patu_ ‘stone’)
  NCV: Lewo              (pia)pari-      ‘skull’
 cf. also:
- NNG: Numbami           watu-             ‘shell, hard outer covering’ (cf. wati ‘stone’)
- SES: Gela              vatula            ‘skull’ (cf. vatu ‘stone’)
+ NNG: Numbami           watu-             ‘shell, hard outer covering’ (cf. _wati_ ‘stone’)
+ SES: Gela              vatula            ‘skull’ (cf. _vatu_ ‘stone’)
 Proto Central Micronesian *fatuku ‘head’ (Bender et al. 2003)
  Mic: Kiribati          te-atū            ‘head’
  Mic: Pulo Annian       θaθɨxɨ            ‘head’
@@ -4882,29 +4871,29 @@ Proto Central Micronesian *fatuku ‘head’ (Bender et al. 2003)
 
 <
 POc *[(p,pʷ)atu](p,pʷ)atu ‘hard, strong, firm’
- NNG: Takia              pat-pat         ‘strong, hard’ (cf. pat ‘stone’)
+ NNG: Takia              pat-pat         ‘strong, hard’ (cf. _pat_ ‘stone’)
  PT:  Dobu               patu-patu       ‘hard, of fat, sago’
  PT:  Kukuya             vatu-           ‘strong, hard ??’[17]
  SES: Bugotu             patu            ‘hard, firm, taut’
- SES: Gela               patu            ‘hard, to make firm’ (cf. vatu ‘stone’, vatula ‘skull’)
- SES: ’Are’are           pau-pau         ‘hard’ (cf. hau ‘stone’, pau- ‘skull’)
+ SES: Gela               patu            ‘hard, to make firm’ (cf. _vatu_ ‘stone’, _vatula_ ‘skull’)
+ SES: ’Are’are           pau-pau         ‘hard’ (cf. _hau_ ‘stone’, _pau-_ ‘skull’)
 >
 
-3.4.2.2 *bwatu(k) and *pwau-
+3.4.2.2 _*bʷatu(k)_ and _*pʷau-_
 
-As noted in §3.4.2, *bwatu(k) and *pwau- both mean ‘head’, and form a puzzling parallel to POc
-*pʷatu[ka]- ‘elbow, knee; joint, node’ and PSOc *bʷau- ‘knee’ (§3.6.8.1.1). The two pairs
+As noted in §3.4.2, _*bʷatu(k)_ and _*pʷau-_ both mean ‘head’, and form a puzzling parallel to POc
+_*pʷatu[ka]-_ ‘elbow, knee; joint, node’ and PSOc _*bʷau-_ ‘knee’ (§3.6.8.1.1). The two pairs
 overlap conceptually, as reflexes of both entail the sense ‘knob, node, joint’. Formally, all four
-reconstructions begin with a labiovelar consonant *bw or *pw, and have the same vowels, but
-the first member of each pair has a medial *-t- where the second member doesn’t. Moreover,
+reconstructions begin with a labiovelar consonant _*bʷ_ or _*pʷ_, and have the same vowels, but
+the first member of each pair has a medial _*-t-_ where the second member doesn’t. Moreover,
 the members of each pair disagree in the voicing of the initial labiovelar. The first pair displays
-*bʷ-/*pʷ-, the second pair the reverse.
+_*bʷ-_/_*pʷ-_, the second pair the reverse.
 
     Are any of the four reconstructions related to each other? Near-homophony between terms
 for head/skull and knee/elbow occurs across subgroups and echoes a polysemy between terms
 for ‘head’ and ‘knee’ in Tarascan (a Mexican isolate), in several Mayan languages where the
-term for knee, nah ch’ehk, is literally ‘head (nah) of lower leg’, and in Finnish where the term
-for elbow, kynärpää, is literally ‘head (paa) of cubit’ (Anderson 1978:354-355). Anderson
+term for knee, _nah ch’ehk_, is literally ‘head (_nah_) of lower leg’, and in Finnish where the term
+for elbow, _kynärpää_, is literally ‘head (_paa_) of cubit’ (Anderson 1978:354-355). Anderson
 suggests the polysemy is based on structural similarity (rounded boniness?).
 
     A fairly exhaustive listing of known reflexes is given here and in §3.6.8.1.1 as a basis for
@@ -4917,29 +4906,29 @@ reflect contamination of one form by another formally and semantically similar f
 tions, as there is sufficient semantic and formal consistency within each set to justify this.
 There are several other reasons for this choice.
 
-    Lynch (2002e) merges POc *bwatu(k) ‘head, top of’ and POc *pʷatu[ka]- ‘elbow, knee;
+    Lynch (2002e) merges POc _*bʷatu(k)_ ‘head, top of’ and POc _*pʷatu[ka]-_ ‘elbow, knee;
 joint, node’ into a single set, but the initial labiovelar correspondences do not justify the
-merger. All reflexes of POc *pʷatu[ka]- in §3.6.8.1.1 reflect *pʷ-. All the reflexes of POc
-*bwatu(k) below reflect *bʷ-. Lynch also merges POc *pʷau- ‘head’ and PSOc *bʷau- ‘knee’,
-and for this there is formal support. The non-Southern Oceanic reflexes of POc *pʷau- are
-regular, but the Southern Oceanic (NCV, SV and NCal) reflexes point to PSOc *bʷau- ‘head’,
+merger. All reflexes of POc _*pʷatu[ka]-_ in §3.6.8.1.1 reflect _*pʷ-_. All the reflexes of POc
+_*bʷatu(k)_ below reflect _*bʷ-_. Lynch also merges POc _*pʷau-_ ‘head’ and PSOc _*bʷau-_ ‘knee’,
+and for this there is formal support. The non-Southern Oceanic reflexes of POc _*pʷau-_ are
+regular, but the Southern Oceanic (NCV, SV and NCal) reflexes point to PSOc _*bʷau-_ ‘head’,
 i.e. the same form as PSOc *bwau- ‘knee, joint’. If these two sets reflected a single etymon,
 however, one would expect some of its reflexes to mean both ‘head’ and ‘joint’. In fact this
-happens only in Sye (SV), where no-mpu occurs in both sets. It thus seems safer to infer that in
+happens only in Sye (SV), where _no-mpu_ occurs in both sets. It thus seems safer to infer that in
 Sye the reflexes of the two etyma have merged, whilst other languages have kept them
-separate. It could also be inferred, however, that PSOc *bʷau- ‘head’ is a reflex of POc *pʷau-
-‘head’ whose initial *bʷ- reflects contamination from PSOc *bwau- ‘knee, joint’.
+separate. It could also be inferred, however, that PSOc _*bʷau-_ ‘head’ is a reflex of POc _*pʷau-_
+‘head’ whose initial _*bʷ-_ reflects contamination from PSOc _*bʷau-_ ‘knee, joint’.
 
 [17] Only found in BPMs in our data.
 
 106 Meredith Osmond and Malcolm Ross
 
 
-    This leaves the question, Did POc *pʷau- ‘head’ and PSOc *bʷau- ‘knee’ arise respectively
-from POc *bʷatu(k) ‘head, top of’ and POc *pʷatu[ka]- ‘elbow, knee; joint, node’ through loss
-of *-t-? Perhaps, but it seems unlikely, first because loss of *-t- has not otherwise been
+    This leaves the question, Did POc _*pʷau-_ ‘head’ and PSOc _*bʷau-_ ‘knee’ arise respectively
+from POc _*bʷatu(k)_ ‘head, top of’ and POc _*pʷatu[ka]-_ ‘elbow, knee; joint, node’ through loss
+of _*-t-_? Perhaps, but it seems unlikely, first because loss of _*-t-_ has not otherwise been
 observed in POc etyma, and second because the seemingly shortened forms reflect initial
-consonants with the opposite voicing value from the forms with *-t-. This gives us four
+consonants with the opposite voicing value from the forms with _*-t-_. This gives us four
 different etyma that display intriguing semantic and formal relationships that remain
 unexplained.
 
@@ -4969,7 +4958,7 @@ POc *bʷatu(k) ‘head; top (of s.t.)’
   SES: To’aba’ita          gū(ʔi)           ‘head of, top of’
   SES: Kwaio               gou-             ‘head, top, important part’
   SES: ’Are’are            pau-             ‘head’
-  SES: Arosi               bwau-            ‘head; chief, leader; knob; headland’
+  SES: Arosi               bʷau-            ‘head; chief, leader; knob; headland’
   SES: Sa’a                pʷau(-)          ‘head, top, chief’
   TM: Nembao               baro             ‘head’
   TM: Vano                 basa             ‘head’
@@ -5013,39 +5002,39 @@ PPn *patu ‘callus, lump, tumour’
                                                                          The human body 107
 
 
-Reflexes of POc *bʷatu(k) ‘head’ are also used metaphorically to refer to the upper part of
-things, e.g. Mota pwat panei ‘shoulder’ (‘head of arm’). From the SE Solomons eastward there
+Reflexes of POc _*bʷatu(k)_ ‘head’ are also used metaphorically to refer to the upper part of
+things, e.g. Mota _pʷat panei_ ‘shoulder’ (‘head of arm’). From the SE Solomons eastward there
 are reflexes with extended senses such as ‘lump’ and ‘knob’, and what appears to be a further
 extension to denote a weapon with a large knob on the end (‘knobstick’, ‘club’). Polynesian
 reflexes have either the latter meaning or denote a lump on the human body or a tree.
 
-    Note that Malaita-Makira (SES) languages lose POc *-t- regularly. Hence Lau gwau- etc
-are taken above to reflect *bwatu-. The items in the set below are from languages where *-t- is
-retained: its absence, along with reflexes of initial *pw- indicates that these items reflect POc
-*pwau-, not *bwatu-.
+    Note that Malaita-Makira (SES) languages lose POc _*-t-_ regularly. Hence Lau _gʷau-_ etc
+are taken above to reflect _*bʷatu-_. The items in the set below are from languages where _*-t-_ is
+retained: its absence, along with reflexes of initial _*pʷ-_ indicates that these items reflect POc
+_*pʷau-_, not _*bʷatu-_.
 
-    The items listed under ‘cf. also’ below do not reflect *pwau- regularly and have unexpected
+    The items listed under ‘cf. also’ below do not reflect _*pʷau-_ regularly and have unexpected
 senses.
 
 <
-POc *pwau- ‘head’
+POc *pʷau- ‘head’
  Adm:  Mussau           pou(ŋ-alo)          ‘back of head’ (alo ‘neck’)
  NNG:  Bebeli           pawa-               ‘back of head, skull’
  NNG:  Mangseng         pou(ŋa)             ‘head’
  NNG:  Mouk             a-po-               ‘head’
  NNG:  Sio              pau-                ‘head hair’
- NNG:  Kairiru          (i)pwo-             ‘head’
+ NNG:  Kairiru          (i)pʷo-             ‘head’
  MM:   Torau            pau-                ‘head’
  MM:   Kia              pau-                ‘head’
  MM:   Kokota           pau-                ‘head’
- MM:   Maringe          phaʔu-              ‘head’
+ MM:   Maringe          pʰaʔu-              ‘head’
  SES:  Bugotu           pau-                ‘head’[18]
 PSOc *bʷau- ‘head’ (Lynch 2004d)
  NCV:  Nakanamanga      pʷau-               ‘head’
  NCV:  Nguna            na-pʷau-            ‘head’
  NCV:  S Efate          pʷa-               ‘head’
- SV:   Sye              no-mpu-             ‘head’
- SV:   Ura              no-mpu-             ‘head’
+ SV:   Sye              no-ᵐpu-             ‘head’
+ SV:   Ura              no-ᵐpu-             ‘head’
  NCal: Caaàc            bʷa-                ‘head’
  NCal: Nyelâyu          bʷā-                ‘head’
  NCal: Pwapwâ           gʷa-                ‘head’
@@ -5065,8 +5054,8 @@ cf. also:
 3.4.3 Forehead
 
 Three POc terms for ‘forehead’ are reconstructed, only one of which, *raqe-, has a PAn
-antecedent. POc *dramwa-, reflected in Adm, NNG, MM and Mic, was evidently an Oceanic
-innovation. POc *p(u,o)le- has a more limited basis, with reflexes from the Admiralties and a
+antecedent. POc _*dramʷa-_, reflected in Adm, NNG, MM and Mic, was evidently an Oceanic
+innovation. POc _*p(u,o)le-_ has a more limited basis, with reflexes from the Admiralties and a
 cluster of north Bougainville languages. Its medial vowel is uncertain. To our knowledge no
 contemporary language has two of these terms side by side, suggesting that they reflect
 dialectal variation in very early Oceanic.
@@ -5087,17 +5076,17 @@ POc *raqe- ‘forehead’
   MM: Roviana             rae-          ‘forehead’
   SES: Gela               rae-          ‘forehead’
   SES: Arosi              rae-          (VT) ‘move head forward, look forward, peering’
-  SES: Arosi              rae(hau-)     ‘forehead’ (hau ‘stone’)
+  SES: Arosi              rae(hau-)     ‘forehead’ (_hau_ ‘stone’)
   NCV: Raga               rae-          ‘forehead’
   NCV: NE Ambae           rae-          ‘forehead’
   NCV: Tamambo            rae-          ‘forehead’
   NCV: Nguna              na-rae-       ‘forehead, face; in front of a person)’
   Fij: Wayan              -rā           ‘forehead’
-  Fij: Bauan              (ya)dre-      ‘forehead’ (ya- prefix added to some body part terms)
+  Fij: Bauan              (ya)dre-      ‘forehead’ (_ya-_ prefix added to some body part terms)
 PPn *laqe ‘forehead’ (POLLEX)
   Pn:    Tongan           laʔe          ‘forehead’
   Pn:    E Uvean          laʔe          ‘forehead’
-  Pn:    Tikopia          rae           ‘forehead’ (also muŋa-rae)
+  Pn:    Tikopia          rae           ‘forehead’ (also _muŋa-rae_)
   Pn:    Maori            rae           ‘forehead’
   Pn:    Hawaiian         lae           ‘forehead’
 cf. also:
@@ -5113,21 +5102,21 @@ cf. also:
 
 
 <
-POc *dramwa- ‘forehead’
+POc *dramʷa- ‘forehead’
  Adm: Seimat            kawa-         ‘forehead (includes all front of head)’
  Adm: Wuvulu            xawa-         ‘forehead’
  NNG: Poeng             rama-         ‘forehead’
  NNG: Tuam              damo-         ‘forehead’
  NNG: Gitua             damo-         ‘forehead’
- NNG: Sio               damwa-        ‘forehead’
+ NNG: Sio               damʷa-        ‘forehead’
  NNG: Malasanga         damo-         ‘forehead’
- NNG: Mindiri           demwa-        ‘forehead’
+ NNG: Mindiri           demʷa-        ‘forehead’
  NNG: Ham               dama-         ‘forehead’
  NNG: Gedaged           damo-         ‘cape, forehead’
- NNG: Manam             damwa-        ‘forehead’
+ NNG: Manam             damʷa-        ‘forehead’
  NNG: Bam               damo-         ‘forehead’
- NNG: Wogeo             damwa-        ‘mountain’
- NNG: Kaiep             damwa-        ‘forehead’
+ NNG: Wogeo             damʷa-        ‘mountain’
+ NNG: Kaiep             damʷa-        ‘forehead’
  NNG: Sissano           rama-         ‘forehead’
  NNG: Sera              rama(tal)     ‘forehead’
  PT:  Misima            lamʷa-        ‘forehead’
@@ -5136,7 +5125,7 @@ POc *dramwa- ‘forehead’
  MM:  Bulu              dama-         ‘forehead’
  MM:  Nakanai           gama-         ‘head’
  Mic: Woleaian          simʷe         ‘head, forehead’
- Mic: Puluwatese        rāmw          ‘forehead’
+ Mic: Puluwatese        rāmʷ          ‘forehead’
 cf. also:
  NNG: Mapos Buang       daba-         ‘forehead’
  PT:  Kilivila          daba-         ‘head, forehead, brain’
@@ -5148,7 +5137,7 @@ cf. also:
 
 
 <
-POc * p(u,o)le- ‘forehead’
+POc *p(u,o)le- ‘forehead’
  Adm: Lou                  pulɛ-                        ‘forehead’
  Adm: Drehet               pʷili-                       ‘forehead’
  Adm: Loniu                (taha)pule-                  ‘forehead’
@@ -5161,24 +5150,24 @@ POc * p(u,o)le- ‘forehead’
 3.4.4 Brain
 
 Two distinct meanings, ‘brain’ and ‘pith’, are carried by the same term in sporadic reflexes of
-both POc *qutok (vol.3:374) and POc *paraq (vol.3:373). Non-Oceanic evidence indicates that
-*qutok was the inherited term for the brain, whilst the use of *paraq for brain represents an
+both POc _*qutok_ (vol.3:374) and POc _*paraq_ (vol.3:373). Non-Oceanic evidence indicates that
+_*qutok_ was the inherited term for the brain, whilst the use of _*paraq_ for brain represents an
 extension of its earlier meaning, ‘coconut embryo’. The link between brain and coconut
-embryo is further supported by the Mussau terms laŋasi ‘brain’, laŋasi niu ‘pith of young
-coconut’ and Niuean uho-niu, originally referring to ‘the spongy heart of sprouting coconut’,
+embryo is further supported by the Mussau terms _laŋasi_ ‘brain’, _laŋasi niu_ ‘pith of young
+coconut’ and Niuean _uho-niu_, originally referring to ‘the spongy heart of sprouting coconut’,
 but by extension also to ‘brain’. It is also noteworthy that brain and bone marrow are referred to
-by one term, hara, in Motu, and oso- in ’Are’are.
+by one term, _hara_, in Motu, and _oso-_ in ’Are’are.
 
-    A comparison of Blust’s (ACD) non-Oceanic reflexes of PMP *hutek with those of POc
-*qutok shows that the latter certainly denoted the brain and probably also bone marrow, and
+    A comparison of Blust’s (ACD) non-Oceanic reflexes of PMP _*hutek_ with those of POc
+_*qutok_ shows that the latter certainly denoted the brain and probably also bone marrow, and
 (non-Oceanic) Ambonese reflexes are consistent with the hypothesis that it was also used for
-the pith of plants. The sporadic occurrence of reflexes of POc *paraq that denote the brain
+the pith of plants. The sporadic occurrence of reflexes of POc _*paraq_ that denote the brain
 (vol.3:373), however, may be the result of independent parallel innovation. That is, the ‘brain’
-sense of *paraq may not have been present in POc.
+sense of _*paraq_ may not have been present in POc.
 
     The forms listed under ‘cf. also’ display phonological irregularities. The SES forms have a
-medial consonant where none is expected, as POc *t is lost in these languages. Tikopia has
-initial k- where no consonant is expected.
+medial consonant where none is expected, as POc _*t_ is lost in these languages. Tikopia has
+initial _k-_ where no consonant is expected.
 
 <
 PMP *hutek ‘brain, marrow’ (ACD)[19]
@@ -5205,7 +5194,7 @@ PSV *nə-vutoɣ ‘brain’ (Lynch 2001c)
 PPn *quto ‘brain, pith of a tree, spongy mass in sprouting coconut’ (vol.3:375)
  Pn:   Tongan         ʔuto               ‘brain; spongy heart of sprouting coconut’
  Pn:   Rennellese     ʔuto               ‘sponge, as of coconut’
- Pn:   Rennellese     ʔuto(ʔugu)         ‘brain’ (ʔugu ‘head’)
+ Pn:   Rennellese     ʔuto(ʔugu)         ‘brain’ (_ʔugu_ ‘head’)
  Pn:   Samoan         uto                ‘spongy substance in old coconut’
  Pn:   Rarotongan     uto                ‘coconut that has germinated; kernel or white spongy substance found inside a spongy coconut’
 cf. also:
@@ -5215,9 +5204,9 @@ cf. also:
  Pn:   Tikopia        kuto              ‘brain’
 >
 
-[19] Blust (ACD) treats PMP *hutek and POc *qutok as ‘a remarkable chance similarity’, but the fact that final
-     *-k is reflected in Lenakel speaks against this interpretation and in favour of an idiosyncratic acquisition of
-     POc initial *q.
+[19] Blust (ACD) treats PMP _*hutek_ and POc _*qutok_ as ‘a remarkable chance similarity’, but the fact that final
+     _*-k_ is reflected in Lenakel speaks against this interpretation and in favour of an idiosyncratic acquisition of
+     POc initial _*q_.
 
                                                                        The human body 111
 
@@ -5228,7 +5217,7 @@ POc *paraq ‘spongy mass inside sprouting coconut’ (possibly also ‘brain’
  Adm: Titan             pare-              ‘brain, sprout’
  Adm: Wuvulu            faxa-              ‘coconut pith; brain’
  NNG: Bariai            para               ‘sprout (V)’
- NNG: Bariai            para-ŋa            ‘brain’ (-ŋa NOM)
+ NNG: Bariai            para-ŋa            ‘brain’ (_-ŋa_ NOM)
  PT:    Sinaugoro       vara-              ‘brain; inner part of coconut’
 >
 
@@ -5251,7 +5240,7 @@ PWOc *s(i,e)ma- ‘brain’
 
 The change of meaning in reflexes in Santa Isabel languages below (from Kia to Maringe) may
 be due to similarity of shape, i.e. from ‘back of head’ to ‘headland’ to ‘island’. PNGOc
-*g(i,e)ju- is evidently an irregular reflex of POc *k(i,e)ju-.
+_*g(i,e)ju-_ is evidently an irregular reflex of POc _*k(i,e)ju-_.
 
 <
 POc *k(i,e)ju- ‘back of head, base of skull, occiput, nape’ (Ross 1988: ‘nape’)
@@ -5293,8 +5282,8 @@ PCP *keju- ‘back of head’ (Geraghty 1986)
                                                                             The human body 113
 
 
-The following forms appear to reflect a PNGOc innovation whereby *k- was irregularly
-replaced by *g-.
+The following forms appear to reflect a PNGOc innovation whereby _*k-_ was irregularly
+replaced by _*g-_.
 
 <
 PNGOc *g(i,e)ju- ‘back of head, base of skull, occiput, nape’

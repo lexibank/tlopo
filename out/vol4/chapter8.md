@@ -188,7 +188,7 @@ POc _&ast;ikan_, roughly glossable as ‘fish’, is an extremely well-supported
 
 <a id="p-429"></a>
 
-: Table 8.1         Implicational scale of types that may be included in reflexes of _&ast;ikan_
+: __Table 8.1__         Implicational scale of types that may be included in reflexes of _&ast;ikan_
 
 |     |                                                                                                                                          |
 |:----|:-----------------------------------------------------------------------------------------------------------------------------------------|
@@ -261,7 +261,7 @@ The semantic range exhibited by these definitions is summarised in Table 8.2. He
 
 <a id="p-431"></a>
 
-: Table 8.2       Semantic range of reflexes of _&ast;ikan_ in Central Pacific languages
+: __Table 8.2__       Semantic range of reflexes of _&ast;ikan_ in Central Pacific languages
 
 |                | typical fish   | shark, ray   | whale, dolphin   | eel   | turtle   | octopus, squid   | crustacean   | shelled mollusc   | Grade   |
 |:---------------|:---------------|:-------------|:-----------------|:------|:---------|:-----------------|:-------------|:------------------|:--------|
@@ -284,7 +284,7 @@ The semantic range exhibited by these definitions is summarised in Table 8.2. He
 
 Note: Crocodiles or dugongs are not present in Triangle Polynesian or Fijian waters, although they are known to some Polynesian Outlier communities in Melanesia.
 
-: Table 8.3          Semantic range of _&ast;ikan_ in PPn and PCP
+: __Table 8.3__          Semantic range of _&ast;ikan_ in PPn and PCP
 
 |     | typical fish   | shark, ray   | whale, dolphin   | eel   | turtle   | octopus, squid   | crustacean   | shelled mollusc   | Grade   |
 |:----|:---------------|:-------------|:-----------------|:------|:---------|:-----------------|:-------------|:------------------|:--------|
@@ -314,7 +314,7 @@ Details follow of reflexes of _&ast;ikan_ in five Micronesian languages for whic
 | Woleaian    | _ixar_         | ‘fish’ ([Sohn and Tawerilmang 1976](../sources/SohnandTawerilmang1976)). However, in the English-Woleaian finder list, under ‘fish’, the authors list terms for ‘dolphin’, whale’ as well as ‘eel’, ‘shark’ and ‘ray’, though not ‘turtle’, ‘octopus’ or ‘squid’.                                                  |
 | Puluwatese  | _yīk_, _yikan_ | ‘fish, porpoises and whales but not squid’                                                                                                                                                                                                                                    |
 
-: Table 8.4       Semantic range of _&ast;ikan_ in Micronesian languages
+: __Table 8.4__       Semantic range of _&ast;ikan_ in Micronesian languages
 
 |             | typical fish   | shark, ray   | whale, dolphin   | eel   | turtle   | octopus, squid   | crustacean   | shelled mollusc   | Grade   |
 |:------------|:---------------|:-------------|:-----------------|:------|:---------|:-----------------|:-------------|:------------------|:--------|
@@ -349,7 +349,7 @@ Informative definitions are available for a few Oceanic languages of the Solomon
 
 It can be seen that the witnesses largely agree in including sharks, rays, eels, turtles, cephalopods and crocodiles, virtually all free swimming aquatic creatures. Fox’s definitions for Lau and Gela are extreme in including all marine organisms.
 
-: Table 8.5      Semantic range of _&ast;ikan_ in Solomon Islands languages
+: __Table 8.5__      Semantic range of _&ast;ikan_ in Solomon Islands languages
 
 |             | typical fish   | shark, ray   | whale, dolphin   | eel   | turtle   | crocodile   | octopus, squid   | crustacean   | shelled mollusc   | Grade   |
 |:------------|:---------------|:-------------|:-----------------|:------|:---------|:------------|:-----------------|:-------------|:------------------|:--------|
@@ -384,7 +384,7 @@ Leaving aside the under-informative Mota and Tamambo definitions, we get Table 8
 
 <a id="p-434"></a>
 
-: Table 8.6        Semantic range of ‘fish’ terms in Vanuatu languages
+: __Table 8.6__        Semantic range of ‘fish’ terms in Vanuatu languages
 
 |          | typical fish   | shark, ray   | whale, dolphin   | eel   | turtle   | octopus, squid   | crustacean   | shelled mollusc   |   Grade |
 |:---------|:---------------|:-------------|:-----------------|:------|:---------|:-----------------|:-------------|:------------------|--------:|
@@ -413,7 +413,7 @@ Discarding the Loniu definition as under-informative, we get the comparative bre
 
 <a id="p-435"></a>
 
-: Table 8.7       Semantic range of _&ast;ikan_ in Admiralties languages
+: __Table 8.7__       Semantic range of _&ast;ikan_ in Admiralties languages
 
 |         | typical fish   | shark, ray   | whale, dolphin   | eel   | turtle   | crocodile   | octopus, squid   | crustacean   | shelled mollusc   | Grade   |
 |:--------|:---------------|:-------------|:-----------------|:------|:---------|:------------|:-----------------|:-------------|:------------------|:--------|
@@ -446,7 +446,7 @@ Of the Western Oceanic reflexes that follow, only the definitions for Kilivila, 
 | Nakanai            | _ia_      | ‘fish’                                                                                         |
 | Roviana            | _iɣana_   | ‘generic name for                                                                              |
 
-: Table 8.8         Semantic range of _&ast;ikan_ in Papuan Tip languages
+: __Table 8.8__         Semantic range of _&ast;ikan_ in Papuan Tip languages
 
 |          | typical fish   | shark, ray   | whale, dolphin   | eel   | turtle   | crocodile   | octopus, squid   | crustacean   | shelled mollusc   | Grade   |
 |:---------|:---------------|:-------------|:-----------------|:------|:---------|:------------|:-----------------|:-------------|:------------------|:--------|
@@ -958,7 +958,7 @@ In the definitions cited below from dictionary sources it is likely that the Eng
 
 <a id="p-451"></a>
 
-: Table 8.16  Implicational scale of types that may be included in reflexes of _&ast;manu-manuk_
+: __Table 8.16__  Implicational scale of types that may be included in reflexes of _&ast;manu-manuk_
 
 |     |                          |
 |:----|:-------------------------|
