@@ -14702,25 +14702,25 @@ POc *[m]ase (?) ‘breathe’
 4.5.2 Gasping and panting
 
 There are no well populated cognate sets for ‘gasp’ or ‘pant’, but there are enough data to allow
-two reconstructions. Only the first, POc *oŋap ‘pant, be out of breath’, has known non-Oceanic
+two reconstructions. Only the first, POc _*oŋap_ ‘pant, be out of breath’, has known non-Oceanic
 cognates, and only its Gela reflex is problem-free. Other reflexes display the irregularities
-indicated in parentheses, and the first three lack a reflex of initial POc *o-.
+indicated in parentheses, and the first three lack a reflex of initial POc _*o-_.
 
 <
 PMP *eŋap ‘gasp for breath’ (ACD)
 POc *oŋap ‘pant, be out of breath’
- NNG: Kove                ŋave                 ‘pant, as a dog’ (-e unexplained)
- NNG: Kaulong             ŋep                  ‘pant’ (-e- for †-a-)
- MM: Sursurunga           ŋeh-ŋeh              ‘be out of breath’ (-e- for †-a-)
+ NNG: Kove                ŋave                 ‘pant, as a dog’ (_-e_ unexplained)
+ NNG: Kaulong             ŋep                  ‘pant’ (_-e-_ for †_-a-_)
+ MM: Sursurunga           ŋeh-ŋeh              ‘be out of breath’ (_-e-_ for †_-a-_)
  MM: Tolai                ŋua                  ‘asthma’ (metathesis)
- MM: Roviana              uŋa                  ‘asthma, bronchitis’ (u- for †o-)
+ MM: Roviana              uŋa                  ‘asthma, bronchitis’ (_u-_ for †_o-_)
  SES: Gela                oŋa                  ‘be out of breath with running, as in bringing news’
 >
 
 296 Malcolm Ross and Meredith Osmond
 
 
-    The other reconstruction is POc *ŋaRa, which, despite various meaning extensions in its
+    The other reconstruction is POc _*ŋaRa_, which, despite various meaning extensions in its
 reflexes, appears to have meant ‘be breathless, pant’ and to have included asthmatic panting.
 
 <
@@ -14748,8 +14748,8 @@ cf. also:
 
 4.5.3 Snoring
 
-Probably POc *ŋorok ‘grunt, growl, snore’ reflects the same root as *ŋorok ‘snot’ (§3.8.3). A
-reduplicated form *ŋoro-ŋorok means ‘channel above upper lip’ (§3.4.12).
+Probably POc _*ŋorok_ ‘grunt, growl, snore’ reflects the same root as _*ŋorok_ ‘snot’ (§3.8.3). A
+reduplicated form _*ŋoro-ŋorok_ means ‘channel above upper lip’ (§3.4.12).
 
 <
 PMP *ŋorok ‘snore’
@@ -14764,7 +14764,7 @@ POc *ŋorok ‘grunt, growl, snore’
  NNG: Manam               ŋoro               ‘snore’
  NNG: Ali                 (ka)ŋor            ‘snore’
   MM: Vitu                 ŋoro               ‘sleep’
-  MM: Nakanai              goro               ‘snore’ (for †golo)
+  MM: Nakanai              goro               ‘snore’ (for †_golo_)
   MM: Meramera             ŋolo               ‘sleep’
   MM: Ramoaaina            ŋoro-ŋoro          ‘pant, be out of breath’
   MM: Babatana             ŋor(apa)           ‘snore’
@@ -14794,8 +14794,8 @@ cf. also:
 
 Several POc verbs of blowing are reconstructable, but most of these refer to the blowing of the
 wind, and are presented in vol.2:125–127. The only POc verbs which we can say with some
-confidence denoted a person blowing air from the mouth are the pair *ipu and *upi, which
-probably have a common origin in PMP *ibut ‘breeze, draught of wind’. We can be reasonably
+confidence denoted a person blowing air from the mouth are the pair _*ipu_ and _*upi_, which
+probably have a common origin in PMP _*ibut_ ‘breeze, draught of wind’. We can be reasonably
 confident about their meaning because their reflexes are used of playing traditional flutes and
 by extension for the flutes themselves (vol.1:107–108).
 
@@ -14839,8 +14839,8 @@ POc *upi ‘(wind, person) blow’ (vol.1:107-108, vol.2:125)
   Fij:   Wayan            uvi               (VI) ‘blow s.t. with the mouth’
 >
 
-   The following Eastern Oceanic forms appear to reflect a conflation of PEOc *bwisi ‘spurt
-out, fart’ (§4.3.7.3) and *p(w)usi ‘(wind) blow’ (vol.2:126).
+   The following Eastern Oceanic forms appear to reflect a conflation of PEOc _*bʷisi_ ‘spurt
+out, fart’ (§4.3.7.3) and *(p,pʷ)usi ‘(wind) blow’ (vol.2:126).
 
 <
 PEOc *pus(u)-i- ‘blow s.t. forcefully from the mouth’
@@ -14862,24 +14862,24 @@ PPn *pus-i ‘blow air from the mouth’ (POLLEX)
 
 4.5.5 Gaping
 
-Three reconstructions with the same root, POc *(q)aŋap, denote the notion of gaping or having
+Three reconstructions with the same root, POc _*(q)aŋap_, denote the notion of gaping or having
 one’s mouth wide open. In the first set below the root occurs by itself. The other two reflect the
-affixes *<um> (§1.3.5.5) and *paN- (§1.3.5.6), both forming dynamic intransitive verbs.
+affixes _*<um>_ (§1.3.5.5) and _*paN-_ (§1.3.5.6), both forming dynamic intransitive verbs.
 
 <
 PMP *qaŋa[p,b] ‘gape, open the mouth wide’ (ACD)
 POc *(q)aŋap ‘gape’
  Adm: Mussau            aŋa               ‘gape’
  SES: Lau               āŋa               ‘open mouth wide’
- SES: Lau               |āŋa fafa|          ‘gape’ (fafā ‘wide open’)
+ SES: Lau               |āŋa fafa|          ‘gape’ (_fafā_ ‘wide open’)
  SES: Sa’a              aŋa               ‘to open’
- SES: Sa’a              |aŋa wawa|          ‘open the mouth to speak’ (wawa ‘mouth’)
+ SES: Sa’a              |aŋa wawa|          ‘open the mouth to speak’ (_wawa_ ‘mouth’)
  NCV: Mota              waŋa              ‘open the mouth, gape, gasp’
  Fij:    Wayan          ðaŋa              ‘vagina’
 >
 
 <
-PMP *q<um>aŋa[p,b] ‘gape, open the mouth wide’ (*<um> actor voice)
+PMP *q<um>aŋa[p,b] ‘gape, open the mouth wide’ (_*<um>_ actor voice)
 POc *maŋa(p) (V) ‘to open wide, gape’; (N) ‘open mouth; gap, space’
  MM: Banoni            maŋo                ‘mouth’
  MM: Lungga            maŋa                ‘mouth’
@@ -14910,7 +14910,7 @@ POc *maŋa(p) (V) ‘to open wide, gape’; (N) ‘open mouth; gap, space’
 300 Malcolm Ross and Meredith Osmond
 
 <
-PMP *paŋaŋa[p,b] ‘gape, open the mouth wide’ (*paN- actor voice + *qaŋa[p,b])
+PMP *paŋaŋa[p,b] ‘gape, open the mouth wide’ (_*paN-_ actor voice + _*qaŋa[p,b]_)
 POc *paŋaŋap ‘open mouth wide, gape’
  NNG: Poeng             paŋa             ‘open mouth’
  MM: Patpatar           paŋaŋa           ‘open-mouthed in wonder, yawn’
@@ -14926,18 +14926,17 @@ A single cognate set embraces all of Oceanic and indeed all the Austronesian fam
 (ACD) writes:
 
 __blockquote__
-    Irregular reflexes of PAn *Suab are quite common, particularly in the Oceanic languages.
+    Irregular reflexes of PAn _*Suab_ are quite common, particularly in the Oceanic languages.
     The cognation of such Oceanic forms as Seimat maw (where only -/w/ remains from the
-    original stem) with Western Malayo-Polynesian forms such as Kelabit uab is clear from the
-    fairly abundant intermediate forms that reflect PAn *ma-Suab ( > ma-huab > ma-uab >
-    mawab).
+    original stem) with Western Malayo-Polynesian forms such as Kelabit _uab_ is clear from the
+    fairly abundant intermediate forms that reflect PAn _*ma-Suab_ ( > _ma-huab_ > _ma-uab_ > _mawab_).
 
 __blockquote__
-    A perfect parallel is seen in PAn *ma-Seyaq, POc *mayaq ‘shy, ashamed’. In both cases the
-    boundary between the stative prefix *ma- and the stem has been lost in all CEMP witnesses.
+    A perfect parallel is seen in PAn _*ma-Seyaq_, POc _*mayaq_ ‘shy, ashamed’. In both cases the
+    boundary between the stative prefix _*ma-_ and the stem has been lost in all CEMP witnesses.
     The only non-CEMP language in which a similar loss of morpheme boundary has taken
-    place is Chamorro (with magap, for expected **magwap ‘yawn’). Following the reanalysis
-    of *ma-uab as *mawab a number of CEMP languages have either introduced a new stative
+    place is Chamorro (with _magap_, for expected _**magwap_ ‘yawn’). Following the reanalysis
+    of _*ma-uab_ as _*mawab_ a number of CEMP languages have either introduced a new stative
     marker, or have reduplicated the first syllable of the new stem. It remains unclear how many
     of these added syllables (if any) are the result of convergent developments (ACD).
 
@@ -15010,14 +15009,13 @@ PPn *ma-mawa ‘to yawn’ (POLLEX)
 
 4.5.7 Coughing
 
-It is difficult to detect any difference in meaning between POc *koso, POc *pukuR/PROc
-*puRuk and PWOc *kuk(a,u). Rather, POc *pukuR appears to be synonymous with *koso and
+It is difficult to detect any difference in meaning between POc _*koso_, POc _*pukuR_/PROc
+_*puRuk_ and PWOc _*kuk(a,u)_. Rather, POc _*pukuR_ appears to be synonymous with _*koso_ and
+to have won out in the Bel group (part of North New Guinea) and in much of SE Solomonic.
+POc *kuk(a,u) is intriguing: few reflexes are found, but their distribution indicates a POc origin.
 
 302 Malcolm Ross and Meredith Osmond
 
-
-to have won out in the Bel group (part of North New Guinea) and in much of SE Solomonic.
-POc *kuk(a,u) is intriguing: few reflexes are found, but their distribution indicates a POc origin.
 
 <
 POc *koso (VI) ‘cough’
@@ -15025,11 +15023,11 @@ POc *koso-ŋa (N) ‘cough’
  Adm: Drehet              ohuŋ                 (N) ‘cough’
  NNG: Poeng               koso                 ‘cough’
  NNG: Medebur             koso                 ‘cough’
- NNG: Mapos Buang         krɔq                 ‘cough’ (final -q irregular)
- NNG: Mumeng (Patep)      kəlɔʔ                ‘cough, cold, mucus’ (final -ʔ irregular)
+ NNG: Mapos Buang         krɔq                 ‘cough’ (final _-q_ irregular)
+ NNG: Mumeng (Patep)      kəlɔʔ                ‘cough, cold, mucus’ (final _-ʔ_ irregular)
  PT:    Gapapaiwa         koso-koso            ‘cough’
  MM: Patpatar             kasoŋa               (VI) ‘cough’
- MM: Patpatar             k<in>asoŋa           (N) ‘cough’ (<in> NOMINALISER)
+ MM: Patpatar             k<in>asoŋa           (N) ‘cough’ (_<in>_ NOMINALISER)
  MM: Tolai                kaoŋo                (N,VI) ‘cough’
  MM: Kandas               kosoŋo               ‘cough’
  MM: Sursurunga           kosoŋ                ‘cough’
@@ -15041,14 +15039,14 @@ POc *koso-ŋa (N) ‘cough’
  NCV: Tamambo             ɣaso(ri)             ‘cough out’
 >
 
-   Proto Remote Oceanic *puRuk ‘cough’ is evidently a metathesised form of POc *pukuR.
+   Proto Remote Oceanic *puRuk ‘cough’ is evidently a metathesised form of POc _*pukuR_.
 
 <
 POc *pukuR ‘cough’
  NNG: Biliau                fu                 ‘cough’
  NNG: Mindiri               fo-fu              ‘cough’
  NNG: Gedaged               fa-fu              (VI) ‘to cough’
- NNG: Gedaged               fa-fu-k            (N) ‘a cough’ (-k NOMINALISER)
+ NNG: Gedaged               fa-fu-k            (N) ‘a cough’ (_-k_ NOMINALISER)
   NNG: Takia                fu-fu              ‘cough’
   SES: Gela                 vuɣu               (VI) ‘cough’; (N) ‘a cough, a cold’
   SES: Longgu               vuʔu               (VI) ‘cough’
@@ -15114,9 +15112,9 @@ PPn *male (VI) ‘cough, clear the throat’ (POLLEX)
 
 4.5.8 Sniffing and blowing one’s nose
 
-Two terms are reconstructed, POc *s(i,u)r(i,u)(t) ‘sniff, blow nose’ and POc *paŋus, *paŋus-i-
-‘blow one’s nose’. The latter almost certainly bears a historical relationship to PAn *Siŋus/PMP
-*hiŋus ‘sniff, sniffle (as with a runny nose)’ (ACD) and to the terms for ‘snot’ listed at the end of
+Two terms are reconstructed, POc _*s(i,u)r(i,u)(t)_ ‘sniff, blow nose’ and POc _*paŋus_, _*paŋus-i-_
+‘blow one’s nose’. The latter almost certainly bears a historical relationship to PAn _*Siŋus_/PMP
+_*hiŋus_ ‘sniff, sniffle (as with a runny nose)’ (ACD) and to the terms for ‘snot’ listed at the end of
 §3.8.3, but it is not clear what the (morphological) relationship is.
 
 <
@@ -15158,13 +15156,13 @@ cf. also:
  Pn:  Samoan           foŋi               ‘blow the nose’
 >
 
-The set below also appears to reflect POc *paŋus but with an idiosyncratic replacement of POc
-*-a- by PCP *-e- and of POc *-o by PCP *-u.
+The set below also appears to reflect POc _*paŋus_ but with an idiosyncratic replacement of POc
+_*-a-_ by PCP _*-e-_ and of POc _*-o_ by PCP _*-u_.
 
 <
 PCP *veŋu ‘blow one’s nose’
   Fij:   Rotuman          heŋu                ‘blow one’s nose’
-  Fij:   Bauan            venu                ‘pick one’s nose’ (-n- for †-ŋ-)
+  Fij:   Bauan            venu                ‘pick one’s nose’ (_-n-_ for †_-ŋ-_)
 PPn *feŋu ‘blow nose, snort’ (POLLEX)
   Pn:    E Futunan        feŋu                ‘blow nose’
   Pn:    Tuamotuan        heŋu-heŋu           ‘sniffle as from sobbing’
@@ -15180,10 +15178,10 @@ PPn *feŋu ‘blow nose, snort’ (POLLEX)
 
 Forms for ‘sneeze’ can be divided into two main groups:
 
+__block__
 •    a western group embracing the Admiralties, Western Oceanic and SE Solomonic, reflecting
-     putative onomatopoeic POc forms such as ?*(k)asipeŋ, POc ?*(k)asiŋe(k) or ?*(k)asio;
-
-•    an eastern group embracing Vanuatu and Micronesia, reflecting Proto Remote Oceanic *mwat(i,u)a
+     putative onomatopoeic POc forms such as ?_*(k)asipeŋ_, POc ?_*(k)asiŋe(k)_ or ?_*(k)asio_;
+•    an eastern group embracing Vanuatu and Micronesia, reflecting Proto Remote Oceanic _*mʷat(i,u)a_
      ‘sneeze’.
 
 In addition there are numerous cognate sets too local in extent to be included here.
@@ -15193,10 +15191,10 @@ because (i) the data support several formally similar but distinct reconstructio
 data contain a good many irregularities (shown in parentheses below) in relation to normal
 sound correspondences. Both phenomena suggest that onomatopoeia (sound symbolism) has
 been at work, sometimes resisting the effects of regular sound change, sometimes making
-otherwise arbitrary changes in forms. For example, the MM reflexes below of POc ?*(k)asipeŋ
-point to *(k)atipeŋ, i.e. *-s- was at some point replaced by *-t-. The Gela, Lengo and Longgu
-reflexes below reflect unpredicted loss of *(k)a- and Gela and Lengo reflect apparent resistance
-to the sound change that lenited *-s- to -h- or -ð-. In each case the innovation (or lack of one) is
+otherwise arbitrary changes in forms. For example, the MM reflexes below of POc ?_*(k)asipeŋ_
+point to _*(k)atipeŋ_, i.e. _*-s-_ was at some point replaced by _*-t-_. The Gela, Lengo and Longgu
+reflexes below reflect unpredicted loss of _*(k)a-_ and Gela and Lengo reflect apparent resistance
+to the sound change that lenited _*-s-_ to _-h-_ or _-ð-_. In each case the innovation (or lack of one) is
 restricted to a small area.
 
 <
@@ -15204,76 +15202,76 @@ POc ?*(k)asipeŋ ‘sneeze’
  Adm: Nyindrou        asihen              ‘sneeze’
  NNG: Kove            -kapuse             (V) ‘sneeze’ (consonant metathesis)
  NNG: Labu            asepɛ               ‘sneeze’
- MM:  Solos           hatineh             ‘sneeze’ (h- for †0̷-; -t- for †-s-; consonant metathesis)
- MM:  Taiof           acufiŋ              ‘sneeze’ (-c- for -†-s-)
- MM:  Tinputz         esven               ‘sneeze’ (-s- for †-h-)
- MM:  Teop            asiveŋ              ‘sneeze’ (-s- for †-h-)
- SES: Gela            sipe                ‘sneeze’ (loss of *(k)a-; -s- for †-h-)
- SES: Lengo           sipe                ‘sneeze’ (loss of *(k)a-; -s- for †-ð-)
- SES: Longgu          sipe(a)             (V) ‘sneeze’ (loss of *(k)a-)
+ MM:  Solos           hatineh             ‘sneeze’ (_h-_ for †0̷-; _-t-_ for †_-s-_; consonant metathesis)
+ MM:  Taiof           acufiŋ              ‘sneeze’ (_-c-_ for †_-s-_)
+ MM:  Tinputz         esven               ‘sneeze’ (_-s-_ for †_-h-_)
+ MM:  Teop            asiveŋ              ‘sneeze’ (_-s-_ for †_-h-_)
+ SES: Gela            sipe                ‘sneeze’ (loss of _*(k)a-_; _-s-_ for †_-h-_)
+ SES: Lengo           sipe                ‘sneeze’ (loss of _*(k)a-_; _-s-_ for †_-ð-_)
+ SES: Longgu          sipe(a)             (V) ‘sneeze’ (loss of _*(k)a-_)
  SES: Kwaio           ʔasi                ‘sneeze’ (loss of final syllable)
  SES: ’Are’are        ʔasihe              ‘sneeze’
  SES: Sa’a            ʔasihe              ‘sneeze’
  SES: Arosi           ʔasihe              (VI) ‘sneeze’
 cf. also:
  MM:  Nehan           siŋir               ‘sneeze’
- MM:  Petats          ha-hacilue          ‘sneeze’ (-c- for †-s-)
- MM:  Halia (Haku)    haciŋele            ‘sneeze’ (-c- for †-s-)
- MM:  Selau           acir                ‘sneeze’ (-c- for †-s-)
+ MM:  Petats          ha-hacilue          ‘sneeze’ (_-c-_ for †_-s-_)
+ MM:  Halia (Haku)    haciŋele            ‘sneeze’ (_-c-_ for †_-s-_)
+ MM:  Selau           acir                ‘sneeze’ (_-c-_ for †_-s-_)
 >
 
    If the Mussau and Titan forms below are indeed cognate with the NNG forms (the
-correspondences are regular), then POc ?*(k)asiŋe(k) can be tentatively reconstructed. All the
-NNG forms reflect -s-, the fortis reflex of POc *-s-, where a lenis reflex (in languages from
+correspondences are regular), then POc ?_*(k)asiŋe(k)_ can be tentatively reconstructed. All the
+NNG forms reflect _-s-_, the fortis reflex of POc _*-s-_, where a lenis reflex (in languages from
+Lukep to Ham either _-y-_ or -0̷-) is expected. This seems to be an instance of resistance to
+sound change for the sake of onomatopoeia.
 
 306 Malcolm Ross and Meredith Osmond
 
 
-Lukep to Ham either -y- or -0̷-) is expected. This seems to be an instance of resistance to
-sound change for the sake of onomatopoeia.
 
 <
 POc ?*(k)asiŋe(k) ‘sneeze’
  Adm: Mussau           asiŋe             ‘sneeze’
  Adm: Titan            ásiŋ              ‘sneeze’
- Adm: Lou              amsi              ‘sneeze’ (metathesis of *-s- and *-ŋ-; -m- for †-ŋ-)
- NNG: Lukep (Pono)     asina, aksina     (said when someone else sneezes to keep evil spirits at bay) (metathesis of *ka-)
+ Adm: Lou              amsi              ‘sneeze’ (metathesis of _*-s-_ and _*-ŋ-_; _-m-_ for †_-ŋ-_)
+ NNG: Lukep (Pono)     asina, aksina     (said when someone else sneezes to keep evil spirits at bay) (metathesis of _*ka-_)
  NNG: Kilenge          -kasine           ‘sneeze’
  NNG: Amara            kasŋi             ‘sneeze’
  NNG: Rauto            kisŋi             ‘sneeze’
- NNG: Aria             ginsi             ‘sneeze’ (metathesis of *-s- and *-ŋ-)
- NNG: Apalik           yaŋsi             ‘sneeze’ (metathesis of *-s- and *-ŋ-)
+ NNG: Aria             ginsi             ‘sneeze’ (metathesis of _*-s-_ and _*-ŋ-_)
+ NNG: Apalik           yaŋsi             ‘sneeze’ (metathesis of _*-s-_ and _*-ŋ-_)
  NNG: Tuam             -asinek           ‘sneeze’
  NNG: Malai            -esnik            ‘sneeze’
- NNG: Ham              -eskiŋ            ‘sneeze’ (metathesis of *k- and *-s-)
- NNG: Manam            -kinso            ‘sneeze’ (metathesis of *-s- and *-ŋ-)
+ NNG: Ham              -eskiŋ            ‘sneeze’ (metathesis of _*k-_ and _*-s-_)
+ NNG: Manam            -kinso            ‘sneeze’ (metathesis of _*-s-_ and _*-ŋ-_)
  NNG: Bam              (i)aksieŋ         ‘sneeze’
- NNG: Hote             |-ik kasiŋe|        ‘sneeze’ (-s- for †-l-)
+ NNG: Hote             |-ik kasiŋe|        ‘sneeze’ (_-s-_ for †_-l-_)
 cf. also:
  NNG: Akolet           kicim             ‘sneeze’
  NNG: Mangseng         (ia)ksiem         ‘sneeze’
  NNG: Mumeng (Patep)   kəseb             ‘sneeze’
 >
 
-    What kind of historical relationship exists between POc ?*(k)asio below and
-POc ?*(k)asipeŋ and POc ?*(k)asiŋe(k) above is a matter for speculation. POc ?*(k)asio is
-self-evidently onomatopoeic. Again -s-, the fortis reflex of POc *-s-, is found where a lenis
+    What kind of historical relationship exists between POc ?_*(k)asio_ below and
+POc ?_*(k)asipeŋ_ and POc ?_*(k)asiŋe(k)_ above is a matter for speculation. POc ?_*(k)asio_ is
+self-evidently onomatopoeic. Again _-s-_, the fortis reflex of POc _*-s-_, is found where a lenis
 reflex is expected. Precisely because of its sound symbolism, it is uncertain whether the form
 existed in POc.
 
 <
-POc ?*(k)asio ‘sneeze’ (ACD: *asio)
+POc ?*(k)asio ‘sneeze’ (ACD: _*asio_)
  Adm: Wuvulu           atio               ‘sneeze’
  NNG: Kis              asio               ‘sneeze’
  NNG: Psohoh           kisiu              ‘sneeze’
- NNG: Uvol             -hsi               ‘sneeze’ (-h- reflects *k-)
+ NNG: Uvol             -hsi               ‘sneeze’ (_-h-_ reflects _*k-_)
  PT:  Gumawana         -asi               ‘sneeze’
  PT:  Molima           kasia              ‘sneeze’
  PT:  Bwaidoga         asio               ‘sneeze’
- PT:  Gapapaiwa        asio, gasio        ‘sneeze’ (alternant forms, g- unexpected)
- PT:  Tawala           hadiyo             ‘sneeze’ (h- for †0̷-; -d- for †-h-)
- PT:  Sinaugoro        asio               (said when someone else sneezes) (-s- for †-r-)
- PT:  Motu             asi(mana)          ‘sneeze’ (mana ‘wind’?) (-s- for †-d-)
+ PT:  Gapapaiwa        asio, gasio        ‘sneeze’ (alternant forms, _g-_ unexpected)
+ PT:  Tawala           hadiyo             ‘sneeze’ (_h-_ for †0̷-; _-d-_ for †_-h-_)
+ PT:  Sinaugoro        asio               (said when someone else sneezes) (_-s-_ for †_-r-_)
+ PT:  Motu             asi(mana)          ‘sneeze’ (_mana_ ‘wind’?) (_-s-_ for †_-d-_)
  MM:  Meramera         asie               ‘sneeze’
  MM:  Lavongai         asio(i)            ‘sneeze’
  MM:  Torau            asi(getu)          ‘sneeze’
@@ -15288,8 +15286,8 @@ POc ?*(k)asio ‘sneeze’ (ACD: *asio)
 The set below is also onomatopoeic, and it is open to debate whether the Meso-Melanesian and
 Polynesian forms reflect a single POc form or are the result of parallel independent innovations.
 The Nakanai forms are added because they illustrate effects of onomatopoeia. Superficially
-they appear to belong to this set, but Nakanai -h- reflects POc *-q-, found in none of the forms
-reconstructed above. Whatever their origins, the Nakanai forms must have acquired -h- through
+they appear to belong to this set, but Nakanai _-h-_ reflects POc _*-q-_, found in none of the forms
+reconstructed above. Whatever their origins, the Nakanai forms must have acquired _-h-_ through
 sound symbolism, not by cognacy with forms in any of the western sets presented here.
 
 <
@@ -15308,9 +15306,9 @@ cf. also:
    MM: Nakanai             [ha]tiho, atihe    ‘sneeze’
 >
 
-   The eastern group of ‘sneeze’ forms, reflecting Proto Remote Oceanic *mwat(i,u)a ‘sneeze’, is perhaps
-historically related to an onomatopoeic form like those above via an earlier *mu-atia, where
-*mu- reflects the PMP actor-voice (intransitive) affix *<um>/*(u)m- (§1.3.5.5).
+   The eastern group of ‘sneeze’ forms, reflecting Proto Remote Oceanic _*mʷat(i,u)a_ ‘sneeze’, is perhaps
+historically related to an onomatopoeic form like those above via an earlier _*mu-atia_, where
+_*mu-_ reflects the PMP actor-voice (intransitive) affix _*<um>_/_*(u)m-_ (§1.3.5.5).
 
 <
 Proto Remote Oceanic *mʷat(i,u)a ‘sneeze’ (PSOc: Lynch 2001c)
@@ -15338,25 +15336,25 @@ cf. also:
 
 4.6.1 Sleeping
 
-One POc term for sleeping is reconstructed, *[ma]turu(R) ‘sleep, be asleep’, alongside two
-PWOc terms,*[ma]puta ‘sleep’ and PWOc *mataip ‘be fast asleep’. PEOc *mo(q)e ‘be fast
+One POc term for sleeping is reconstructed, _*[ma]turu(R)_ ‘sleep, be asleep’, alongside two
+PWOc terms, _*[ma]puta_ ‘sleep’ and PWOc _*mataip_ ‘be fast asleep’. PEOc _*mo(q)e_ ‘be fast
 asleep’and PCP *moze ‘sleep’ are also discussed below.
 
-    POc *[ma]turu(R) (VI) ‘sleep, to be asleep’ contains the *ma- stative prefix that indicates
+    POc _*[ma]turu(R)_ (VI) ‘sleep, to be asleep’ contains the _*ma-_ stative prefix that indicates
 that the subject is a human experiencer (Evans 2003:276). Only Bali and Blablanga (MM)
-reflect the root *tuduR alone, whilst Bola, Nakanai and Meramera (all Willaumez languages)
+reflect the root _*tuduR_ alone, whilst Bola, Nakanai and Meramera (all Willaumez languages)
 add mata ‘eye’ to the root to form ‘sleepy’ (§4.6.2.1).
 
-    No reflexes of POc *[ma]turu(R) are found in New Guinea Oceanic (NNG, PT)
-languages. In these it is fairly consistently replaced by reflexes of *qenop ‘lie’ (§6.2.3), its
+    No reflexes of POc _*[ma]turu(R)_ are found in New Guinea Oceanic (NNG, PT)
+languages. In these it is fairly consistently replaced by reflexes of _*qenop_ ‘lie’ (§6.2.3), its
 meaning extended to include both ‘lie’ and ‘sleep. The converse meaning extension whereby a
-reflex of *[ma]turu(R) comes also to mean ‘lie’ is much rarer but is reflected in three New
+reflex of _*[ma]turu(R)_ comes also to mean ‘lie’ is much rarer but is reflected in three New
 Ireland languages below: Lavongai, Tigak and Tabar.
 
 <
 PAn *tuduR ‘sleep’ (Blust 1999)
 PMP *[ma]tuduR, *[ma]tiduR ‘sleep’ (Blust 1993)
-POc *[ma]turu(R) (VI) ‘sleep, to be asleep’ (Blust 1998b: *matiruR)
+POc *[ma]turu(R) (VI) ‘sleep, to be asleep’ (Blust 1998b: _*matiruR_)
   Adm: Seimat             matihu              (VI) ‘sleep’
   Adm: Kaniet             matu                ‘sleep’
   Adm: Wuvulu             maʔiku              ‘sleep’
@@ -15364,9 +15362,9 @@ POc *[ma]turu(R) (VI) ‘sleep, to be asleep’ (Blust 1998b: *matiruR)
   Adm: Lou                metir               ‘sleep’
   MM: Bali                turu-turu-ni        ‘sleepy’
   MM: Bola                (mata)tulu          ‘sleepy’
-  MM: Bola Harua          (makenetu)tulu ‘sleepy’
+  MM: Bola Harua          (makenetu)tulu      ‘sleepy’
   MM: Nakanai             (mata)tu-tulu       ‘sleepy’
-  MM: Meramera            (mata)tulu-tulu ‘sleepy’
+  MM: Meramera            (mata)tulu-tulu    ‘sleepy’
   MM: Lavongai            matuŋ               ‘lie’
   MM: Tigak               matuk               ‘lie’
   MM: Tabar               mutur               ‘lie’
@@ -15414,7 +15412,7 @@ PWOc *mataip ‘be fast asleep’
  MM: Nalik               milaif               ‘sleep’
 >
 
-   How PWOc *[ma]puta differed in meaning from POc *[ma]turu(R) is not clear.
+   How PWOc _*[ma]puta_ differed in meaning from POc _*[ma]turu(R)_ is not clear.
 Curiously, the seemingly cognate PPn verb *ma-futa meant ‘start up, arise, awake from sleep’.
 Whether the apparent cognacy is real—with an odd reversal of meaning—or simply a chance
 resemblance remains unclear.
@@ -15432,9 +15430,9 @@ PWOc *[ma]puta ‘sleep’
  NCal: Iaai            möök                   ‘sleep’
 >
 
-   The two reconstructions below, PEOc *mo(q)e ‘be fast asleep’ and PCP *moze ‘sleep’, are
-similar in form, but cannot be united. If the reflexes of PEOc *mo(q)e are cognate with those
-of PCP *moze, then the former have undergone unexpected loss of PEOc *-s-.
+   The two reconstructions below, PEOc _*mo(q)e_ ‘be fast asleep’ and PCP _*moze_ ‘sleep’, are
+similar in form, but cannot be united. If the reflexes of PEOc _*mo(q)e_ are cognate with those
+of PCP _*moze_, then the former have undergone unexpected loss of PEOc _*-s-_.
 
 310 Malcolm Ross and Meredith Osmond
 
@@ -15445,7 +15443,7 @@ PMic *mʷoe (VI) ‘sleep soundly’ (Bender et al., 2003: ‘sleep’)
   Mic: Kiribati           mʷē                ‘sleep’
   Mic: Mortlockese        (kina)mʷmʷe        ‘sleep’
   Mic: Puluwatese         (kəna)mʷmʷe        ‘be at peace, comfortable’
-  Mic: Carolinian         (xɨla)mʷmʷey       ‘be sleeping deeply’ (xɨla ‘reach, attain’)
+  Mic: Carolinian         (xɨla)mʷmʷey       ‘be sleeping deeply’ (_xɨla_ ‘reach, attain’)
   Mic: Woleaian           mʷmʷe              ‘sleep well, sleep soundly’
 >
 
@@ -15481,9 +15479,9 @@ __formgroup__
 4.6.2.1 Being sleepy
 
 In widely distributed Oceanic languages the idiomatic way of saying ‘I am sleepy’ is a phrase
-meaning ‘my eyes are sleeping’. In the examples below, the reflex of POc *mata- ‘eye’ is
-shown with a following hyphen because it takes a possessor suffix (reflecting *-gu ‘my’, *-mu
-‘your.S’, *-ña ‘her/his’ etc). The verb in each case is glossed ‘sleep’.
+meaning ‘my eyes are sleeping’. In the examples below, the reflex of POc _*mata-_ ‘eye’ is
+shown with a following hyphen because it takes a possessor suffix (reflecting _*-gu_ ‘my’, _*-mu_
+‘your.S’, _*-ña_ ‘her/his’ etc). The verb in each case is glossed ‘sleep’.
 
 __formgroup__
   NNG: Mangap              |mata- pot     |     ‘be sleepy, slacken, abate, wane’
@@ -15534,7 +15532,7 @@ __formgroup__
    A number of languages use a phrase meaning ‘wants to sleep’ for ‘sleepy’. Arosi has a
 desiderative prefix gasi that can be used before any verb, hence gasi mauru ‘sleepy’ [want
 sleep]. Some Central Pacific languages do the same thing with a reflex of the desiderative
-particle *via (§11.5) and a term for ‘sleep’ (cf. ‘wants to eat’ for ‘hungry’ and ‘wants to drink’
+particle _*via_ (§11.5) and a term for ‘sleep’ (cf. ‘wants to eat’ for ‘hungry’ and ‘wants to drink’
 for ‘thirsty’; §§4.3.3.1–2).
 
 <
@@ -15543,7 +15541,7 @@ PCP *|via moze| ‘sleepy’ (lit. ‘want sleep’)
   Pn:    Tongan            |fie mohe-a|          (VI) ‘be sleepy’
   Pn:    Marquesan         |hia moe   |          ‘sleepy’
 cf. also:
-   Fij:   Wayan            |mata-moðe |         ‘be sleepy’ (mata- ‘want’)
+   Fij:   Wayan            |mata-moðe |         ‘be sleepy’ (_mata-_ ‘want’)
 >
 
 312 Malcolm Ross and Meredith Osmond
@@ -15581,7 +15579,7 @@ cf. also:
  NCV: Namakir        molo-mal            ‘lazy’
 >
 
-   PCP *wai-wai ‘weak, tired’ is apparently a reduplicated reflex of POc *waiR ‘river, fresh
+   PCP _*wai-wai_ ‘weak, tired’ is apparently a reduplicated reflex of POc _*waiR_ ‘river, fresh
 water, stream’ (§1.3.5.4). The gloss of Wayan wai-ðala ‘be weak (of kava etc), diluted, melt,
 dissolve’ points to the connection between water and weakness.
 
@@ -15594,12 +15592,12 @@ PPn *wai-wai ‘weak, lacking strength’ (POLLEX)
   Pn:  Tokelauan     vāivai      ‘tiredness, weariness, exhaustion’
 >
 
-   PPn *fītaqa ‘be tired, fatigued’ evidently reflects POc *pita ‘heavy, difficult’, reconstructed
-below, with the addition of an apparent suffix *-qa (which may reflect the POc adjectivaliser
-*-ka; Ross 2000).
+   PPn _*fītaqa_ ‘be tired, fatigued’ evidently reflects POc *pita ‘heavy, difficult’, reconstructed
+below, with the addition of an apparent suffix _*-qa_ (which may reflect the POc adjectivaliser
+_*-ka_; Ross 2000).
 
-[41] Clark (2009) reconstructs PNCV *malo ~*male ‘lazy, tired, weak’. The relationship between this and POc
-     *malu[-malumu] is not clear.
+[41] Clark (2009) reconstructs PNCV _*malo~*male_ ‘lazy, tired, weak’. The relationship between this and POc
+     _*malu[-malumu]_ is not clear.
 
                                                          Bodily conditions and activities 313
 
@@ -15615,14 +15613,14 @@ POc *pita ‘heavy, difficult’
  PT:     Iduna              vita-             ‘heavy, hard to do’
  PT:     Dawawa             vita              ‘heavy’
  PT:     Tawala             wita(i)           ‘heavy, difficult’
- SES: Ulawa                 hiʔa              ‘be heavy’(for †*hia)
- Pn:     Maori              hia               ‘difficulty’ (for †*hita)
+ SES: Ulawa                 hiʔa              ‘be heavy’(for †_*hia_)
+ Pn:     Maori              hia               ‘difficulty’ (for †_*hita_)
 >
 
 4.6.3 Dreaming
 
-The two POc forms *nipi and *mipi, both ‘dream’, reflect fossilised combinations of a reflex of
-the PMP root *hipi ‘dream’ and the PMP voice affixes *<in> and *<um> (§1.3.5.5). The fact that
+The two POc forms _*nipi_ and _*mipi_, both ‘dream’, reflect fossilised combinations of a reflex of
+the PMP root _*hipi_ ‘dream’ and the PMP voice affixes _*<in>_ and _*<um>_ (§1.3.5.5). The fact that
 both forms are reflected, interspersed with one another across a substantial part of Oceania,
 indicates that the two forms co-existed in POc.
 
@@ -15674,10 +15672,10 @@ cf. also:
 314 Malcolm Ross and Meredith Osmond
 
 
-The next set is almost in complementary geographic distribution to the *nipi/*mipi sets.
+The next set is almost in complementary geographic distribution to the _*nipi_/_*mipi_ sets.
 
 <
-POc *(b,bʷ)o(l,R)e ‘to dream’ (Geraghty 1990: *boRe; Lynch 2002e: PEOc *bwoRe)
+POc *(b,bʷ)o(l,R)e ‘to dream’ (Geraghty 1990: _*boRe_; Lynch 2002e: PEOc _*bʷoRe_)
  MM: Tabar          (para)bore          ‘have a dream’
  SES: Lengo         bole                ‘dream’
  SES: Lau           (teo)bole           ‘to dream’ (teo ‘sleep’)
@@ -15692,11 +15690,11 @@ PNCV *bore (N,V) ‘dream’ (Clark 2009)
  NCV: Mota          bʷore               ‘to dream, dream of person or thing’
  NCV: Paamese       poi                 ‘dream’
  NCV: Namakir       bor                 ‘dream’
- NCal: Iaai         bwi                 ‘dream’
+ NCal: Iaai         bʷi                 ‘dream’
  Fij:  Wayan        bū-bui              ‘dream’
 >
 
-   The next reconstruction is an apparent homonym of POc *tadra(q) ‘look, look up’ (§8.2).
+   The next reconstruction is an apparent homonym of POc _*tadra(q)_ ‘look, look up’ (§8.2).
 
 <
 POc *tadra(q) ‘have a dream’
@@ -15715,7 +15713,7 @@ POc *tadra(q) ‘have a dream’
 
 4.6.4 Waking up and opening the eyes
 
-The POc transitive verb *paŋun ‘wake (s.o.) up’ is of PAn antiquity and has reflexes throughout
+The POc transitive verb _*paŋun_ ‘wake (s.o.) up’ is of PAn antiquity and has reflexes throughout
 Oceanic.
 
 <
@@ -15767,7 +15765,7 @@ PPn *fafaŋu ‘awaken s.o.’ (POLLEX)
 
 
 
-   A Proto Central Pacific intransitive verb, *qadra ‘awaken, be awake’, is reconstructable,
+   A Proto Central Pacific intransitive verb, _*qadra_ ‘awaken, be awake’, is reconstructable,
 but no POc intransitive verb with this sense has been identified. The reason seems to be that an
 expression meaning ‘open the eyes’ is used in many languages for ‘wake up’.
 
@@ -15792,12 +15790,12 @@ cf. also:
    Pn:    Niuean          ala                (VI) ‘to wake, be awake’ (loan from a Nuclear Polynesian language)
 >
 
-If Lau ada ‘open the eyes, use the eyes’ belonged to this set, *(q)adra could be reconstructed to
-PEOc. However, the regular Lau reflex of *(q)adra would be sada with prothetic s- following
-loss of *q-, and Lau ada appears instead to be a regular reflex of POc *tadraq ‘look up,
+If Lau ada ‘open the eyes, use the eyes’ belonged to this set, _*(q)adra_ could be reconstructed to
+PEOc. However, the regular Lau reflex of _*(q)adra_ would be _sada_ with prothetic _s-_ following
+loss of _*q-_, and Lau _ada_ appears instead to be a regular reflex of POc _*tadraq_ ‘look up,
 see’ (§8.2)).
 
-    Polynesian languages use reflexes of POc *Ropok ‘fly’ (§6.3.2.1; vol.4:281) to describe the
+    Polynesian languages use reflexes of POc _*Ropok_ ‘fly’ (§6.3.2.1; vol.4:281) to describe the
 event that occurs when one is suddenly surprised or woken.
 
 <
@@ -15815,11 +15813,11 @@ PPn *ofo ‘be startled, surprised; wake up’ (POLLEX)
                                                         Bodily conditions and activities 317
 
 
-   PMP *bilat ‘open the eyes’ has only one known reflex in Oceanic.
+   PMP _*bilat_ ‘open the eyes’ has only one known reflex in Oceanic.
 
 <
 PMP *bilat ‘open the eyes’ (ACD)
-POc *bilat ‘open the eyes’ (ACD has *pilat)
+POc *bilat ‘open the eyes’ (ACD has _*pilat_)
  SES: ’Are’are             pira               ‘open one’s eyes wide’
 >
 
@@ -15827,7 +15825,7 @@ POc *bilat ‘open the eyes’ (ACD has *pilat)
 
 This section is concerned with the momentary action of closing and then opening the eye(s) as
 in winking or blinking, rather than the initial stage of going to sleep. There is a PMP etymon
-*kimet, whose Oceanic reflexes are evidently restricted to Central Pacific languages.
+_*kimet_, whose Oceanic reflexes are evidently restricted to Central Pacific languages.
 
 <
 PMP *kimet ‘blink, flash’ (Blust 1986)
@@ -15866,7 +15864,7 @@ PSOc *bʷil(i,u) ‘close eyes’ (Lynch 2004)
 
 4.7.1 Laughing
 
-POc *malip ‘laugh’ has reflexes spread across several major Oceanic subgroups.
+POc _*malip_ ‘laugh’ has reflexes spread across several major Oceanic subgroups.
 
 <
 PCEMP *malip ‘laugh’ (Blust 1993, ACD)
@@ -15881,7 +15879,7 @@ POc *malip ‘laugh’ (ACD)
   NNG: Medebur             (ma)mal(to)        ‘laugh’
   NNG: Kis                 (a)mal             ‘laugh’
   NNG: Kaiep               (i-ma)mal          ‘laugh’
-  NNG: Hote                malik              ‘laugh’ (-k from POc *-p is regular)
+  NNG: Hote                malik              ‘laugh’ (_-k_ from POc _*-p_ is regular)
   NNG: Yalu                mʷaip              ‘laugh’
   PT:   Tawala             maliwa             ‘laugh’
   MM: Label                malih              ‘laugh’
@@ -15896,7 +15894,7 @@ PCP *mali-mali ‘keep laughing’
   Pn:   E Futuna           mali-mali          ‘smile, laugh quietly’
 >
 
-   PEOc *mana below is evidently not a reflex of POc *malip.
+   PEOc _*mana_ below is evidently not a reflex of POc _*malip_.
 
 <
 PEOc *mana ‘laugh’ (Clark 2009: PNCV)
@@ -15917,8 +15915,8 @@ PEOc *mana ‘laugh’ (Clark 2009: PNCV)
 4.7.2 Grinning
 
 Grinning is closely associated in Oceanic languages with baring the teeth, and in a number of
-languages the term for ‘tooth’ is derived from the term for ‘grin’. POc *sisi, *ŋiŋi and *ŋisi
-each have a PMP antecedent. The history of POc *[ŋi]ŋisa is discussed below.
+languages the term for ‘tooth’ is derived from the term for ‘grin’. POc _*sisi_, _*ŋiŋi_ and _*ŋisi_
+each have a PMP antecedent. The history of POc _*[ŋi]ŋisa_ is discussed below.
 
    Oceanic languages often appear to lack a dedicated verb for smiling. Instead, verbs for
 ‘laugh’ or ‘grin’ are sometimes additionally glossed ‘smile’.
@@ -15927,20 +15925,20 @@ each have a PMP antecedent. The history of POc *[ŋi]ŋisa is discussed below.
 PMP *ziziq or *zizir ‘grin, show the teeth’ (ACD)
 POc *sisi ‘smile, show one’s teeth, bare one’s teeth’
  NNG: Gedaged        sisi               ‘draw up (the lips, as when smiling)’
- NNG: Manam          (ao)sisi           ‘to smile, of long duration’ (ao ‘smile, laugh’, sisi ‘skin the bark off a tree’)
+ NNG: Manam          (ao)sisi           ‘to smile, of long duration’ (_ao_ ‘smile, laugh’, _sisi_ ‘skin the bark off a tree’)
  NNG: Nenaya         (ma)sisi           ‘laugh’
  SES: Tolo           sisi(la)           ‘smile; show one’s teeth’
  SES: Sa’a           sisi               ‘roll back, grin like a dog, lay bare the teeth’
  SES: Arosi          sisi               ‘lay bare the teeth, as a dog, grinning’
  NCV: Mota           sis                ‘remove rind or bark; strip off outer part’
- Fij: Bauan          (vaka)sisi(bati)   ‘smile, show the teeth’ (bati ‘tooth’)
+ Fij: Bauan          (vaka)sisi(bati)   ‘smile, show the teeth’ (_bati_ ‘tooth’)
 >
 
-Blust (ACD) reconstructs both PWMP *ŋiŋi ‘grin, show the teeth’ and PMP *ŋisi ‘grin, show the
-teeth’. PMP *ŋiŋi and *ŋisi are evidently the antecedents of POc *ŋiŋi and *ŋisi below. The
-data also require the reconstruction of POc *[ŋi]ŋisa. Any attempt to combine any two of the
+Blust (ACD) reconstructs both PWMP _*ŋiŋi_ ‘grin, show the teeth’ and PMP _*ŋisi_ ‘grin, show the
+teeth’. PMP _*ŋiŋi_ and _*ŋisi_ are evidently the antecedents of POc _*ŋiŋi_ and _*ŋisi_ below. The
+data also require the reconstruction of POc _*[ŋi]ŋisa_. Any attempt to combine any two of the
 three sets fails, as we are compelled to posit irregular developments, and the existence of non-
-Oceanic cognates of both POc *ŋiŋi and POc *ŋisi confirms that both should be reconstructed.
+Oceanic cognates of both POc _*ŋiŋi_ and POc _*ŋisi_ confirms that both should be reconstructed.
 The presence of three formally similar POc terms with the same meaning may appear suspect,
 but the evidence requires their reconstruction, even though their reflexes have perhaps been
 conflated in some languages. Some reflexes could be attributed to more than one set, and we
@@ -15979,7 +15977,7 @@ POc *ŋisi ‘bare one’s teeth, grin’
  MM: Sursurunga             ŋis               ‘show teeth’
  MM: Roviana                ŋi-ŋisi           ‘grin’
  MM: Kia                    ŋi-ñihi-          ‘show teeth’
- Mic: Kosraean              [ŋis]ŋis          ‘laugh, guffaw’ (Bender et al. 2003: < PMic *ŋiTi)
+ Mic: Kosraean              [ŋis]ŋis          ‘laugh, guffaw’ (Bender et al. 2003: < PMic _*ŋiTi_)
 >
 
 <
@@ -16006,7 +16004,7 @@ POc *[ŋi]ŋisa ‘bare one’s teeth, grin’
  Pn:  Tikopia           ŋisa                 (N) ‘smile’
  Pn:  Tikopia           ŋisa-ŋisa            (V) ‘smile’
 cf. also:
- PT:  Motu              ise-                 ‘tooth’ (s for †d)
+ PT:  Motu              ise-                 ‘tooth’ (_s_ for †_d_)
  PT:  Mekeo             nie-                 ‘tooth’
 >
 
@@ -16015,16 +16013,16 @@ cf. also:
 Two sets of POc terms are reconstructed for ‘cry, weep’:
 
 __block__
-•   *taŋis (VI) ‘cry, lament etc.’, *tanis-i- (VT) ‘to cry for (s.t.’), *tanis-aki[ni]- ‘cry because of s.t.’
-•   *ŋara(s) (VI) ‘cry’, (VT) *ŋaras-i- ‘cry for (s.t.)’
+•   _*taŋis_ (VI) ‘cry, lament etc.’, _*tanis-i-_ (VT) ‘to cry for (s.t.’), _*tanis-aki[ni]-_ ‘cry because of s.t.’
+•   _*ŋara(s)_ (VI) ‘cry’, (VT) _*ŋaras-i-_ ‘cry for (s.t.)’
 
 
                                                            Bodily conditions and activities 321
 
 
-POc *taŋis appears to have been the default term. The glosses of both cognate sets suggest that
+POc _*taŋis_ appears to have been the default term. The glosses of both cognate sets suggest that
 their primary meaning had to do with the sound of crying rather than the shedding of tears, and
-the glosses of reflexes of POc *ŋara(s) suggest that it denoted weeping accompanied by very
+the glosses of reflexes of POc _*ŋara(s)_ suggest that it denoted weeping accompanied by very
 loud crying.
 
 <
@@ -16145,7 +16143,7 @@ POc *ŋaras-i- ‘cry loudly for’ (ACD: *ŋara ‘complain loudly’)
 Verbs of grunting, groaning, moaning and the like appear often to be local onomatopoeic
 innovations, so that cognate sets barely exist and, even where we find putative cognates, there
 is a possibility of independent parallel innovation. It is possible that some members of the set
-below do not reflect POc *[ŋuk]ŋuk ‘grunt, moan’ but are independent coinages.
+below do not reflect POc _*[ŋuk]ŋuk_ ‘grunt, moan’ but are independent coinages.
 
 <
 PMP *ŋuk, *ŋuk-ŋuk ‘grunt, moan’ (ACD)
@@ -16175,15 +16173,15 @@ fish. The Wayan Fijian and Niuean terms support reconstruction of a Proto Centra
 term.
 
 __formgroup__
-     NNG: Gedaged     duduɬu-n, didiɬu-n  ‘pricks, short protuberance, gooseflesh’ (POc *(dr,r)uRi ‘thorn’; vol.3:125)
+     NNG: Gedaged     duduɬu-n, didiɬu-n  ‘pricks, short protuberance, gooseflesh’ (POc _*(dr,r)uRi_ ‘thorn’; vol.3:125)
      NNG: Dami        didi               ‘small bumps, goose pimples’
-     PT:  Dobu        losaka-sakalulu    ‘gooseflesh’ (sakalulu ‘porcupinefish’)
-     PT:  Sudest      viⁿde              ‘goosebumps’ (viⁿde-viⁿde ‘thorns’)
-     Pn:  Niuean      ta-tala            ‘have goosebumps, raise prickles’ (POc *tara ‘fish spear’, PPn *tala ‘barb’) (vol.2:224)
+     PT:  Dobu        losaka-sakalulu    ‘gooseflesh’ (_sakalulu_ ‘porcupinefish’)
+     PT:  Sudest      viⁿde              ‘goosebumps’ (_viⁿde-viⁿde_ ‘thorns’)
+     Pn:  Niuean      ta-tala            ‘have goosebumps, raise prickles’ (POc _*tara_ ‘fish spear’, PPn _*tala_ ‘barb’) (vol.2:224)
 
 FIXME - must recognize grammatical glosses "PRO" <
 PCP *voto-voto (V) ‘have goosebumps’
-  Fij: Wayan    voto, voto-voto       ‘thorn, prickle; gooseflesh’ (POc *poto(k)); ‘thorn’ (vol.3:125)
+  Fij: Wayan    voto, voto-voto       ‘thorn, prickle; gooseflesh’ (POc _*poto(k)_); ‘thorn’ (vol.3:125)
   Fij: Wayan    |sē PRO votovoto|     (V) ‘have goosebumps’ (sē ‘blossom, bloom’)
   Pn:  Niuean   foto-foto             ‘feel prickly, have goosebumps’
 FIXME >
@@ -16192,20 +16190,20 @@ FIXME >
 4.7.6 Trembling and shivering
 
 There were a number of POc terms for ‘tremble, shiver’. Six of these fall into three pairs. One
-member of each pair has the skeleton *rVrV, the other *drVdrV. The pairs are *riri (with variant
-*ridriŋ) and *dridri, *rere and *dredre (with variant *drere), and *ruru and *drudru.42
+member of each pair has the skeleton _*rVrV_, the other _*drVdrV_. The pairs are _*riri_ (with variant
+_*ridriŋ_) and _*dridri_, _*rere_ and _*dredre_ (with variant _*drere_), and _*ruru_ and _*drudru_.[42]
 
-    The fact that there are three pairs of forms is intriguing, and the *rere/*dredre and *ruru/
-*drudru pairs appear to have arisen in POc, perhaps through onomatopoeic wordplay.
+    The fact that there are three pairs of forms is intriguing, and the _*rere_/_*dredre_ and
+_*ruru_/_*drudru_ pairs appear to have arisen in POc, perhaps through onomatopoeic wordplay.
 
-    Of these roots, only *riri/*ridriŋ has possible non-Oceanic cognates, and its history and
+    Of these roots, only _*riri_/_*ridriŋ_ has possible non-Oceanic cognates, and its history and
 variation in form are discussed in §4.8.1, as it also occurs in terms for ‘be cold’. Suffice it to
-say here that the original form of the root was probably POc *ridriŋ, but this is reflected in
+say here that the original form of the root was probably POc _*ridriŋ_, but this is reflected in
 ‘tremble’ forms only in Mangap and Sio. Elsewhere, assimilation has occurred and
-widespread reflexes of *riri are found, suggesting that this was already an alternant in POc.
-Only Sio and Marshallese reflect *dridri.
+widespread reflexes of _*riri_ are found, suggesting that this was already an alternant in POc.
+Only Sio and Marshallese reflect _*dridri_.
 
-    The most widely reflected POc term for ‘tremble, shiver’ is *riri/*ridriŋ. Since this root
+    The most widely reflected POc term for ‘tremble, shiver’ is _*riri_/_*ridriŋ_. Since this root
 also occurred in terms for ‘be cold’, one might infer that its earliest meaning was perhaps
 ‘shiver’, but the glosses of reflexes below suggest that it was used both for trembling with fear
 and for shivering with cold or a fever.
@@ -16214,13 +16212,13 @@ and for shivering with cold or a fever.
 POc *riri, *ridriŋ ‘tremble, shiver’
  NNG: Mangap             riŋriŋ             ‘tremor, shaking’
  NNG: Sio                rindi              (ADJ) ‘standing on end (as a frightened cat’s fur)’
- NNG: Wab                rir                ‘afraid’ (for †lil)
+ NNG: Wab                rir                ‘afraid’ (for †_lil_)
  NNG: Ulau-Suain         rara-rir           ‘tremble’
  NNG: Ali                ri-rir             ‘tremble’
  MM:  Bola (Harua)       pa-riri            ‘tremble’
- MM:  Nakanai            pa-ri-riri         ‘tremble’ (-r- three times for †-l-)
+ MM:  Nakanai            pa-ri-riri         ‘tremble’ (_-r-_ three times for †_-l-_)
  SES: Bugotu             ariri              ‘shake, tremble, of persons, shiver as with ague’
- SES: Longgu             ʔari-ʔariri        ‘be excited, shake from excitement or cold’ (ʔ- for 0̷-)
+ SES: Longgu             ʔari-ʔariri        ‘be excited, shake from excitement or cold’ (_ʔ-_ for _0̷-_)
  SES: Lau                a-riri             ‘be shaken, tremble with ague’
  SES: Kwaio              a-lili             ‘tremble’
  SES: ’Are’are           a-riri             ‘tremble, shiver’
@@ -16240,7 +16238,7 @@ cf. also:
  NNG: Mangap             -mo-riri           ‘be timid, afraid (to do s.t.)’
 >
 
-[42] Of the six forms, only *ridriŋ has a reflex (Mangap riŋriŋ) with a final consonant.
+[42] Of the six forms, only _*ridriŋ_ has a reflex (Mangap _riŋriŋ_) with a final consonant.
 
                                                           Bodily conditions and activities 325
 
@@ -16254,13 +16252,13 @@ cf. also:
  Fij: Wayan            driwa-driwa         (VI, N) ‘cold’
 >
 
-   The POc pair *rere and *dredre ‘tremble, shiver’ appear to be an alternant version of the
-pair *riri and *dridri. This is plausible formally, as POc *e only reflects PMP *-ay, i.e. in
-inherited items it occurs only morpheme-finally. Medial POc *-e- is either the outcome of
+   The POc pair _*rere_ and _*dredre_ ‘tremble, shiver’ appear to be an alternant version of the
+pair _*riri_ and _*dridri_. This is plausible formally, as POc _*e_ only reflects PMP _*-ay_, i.e. in
+inherited items it occurs only morpheme-finally. Medial POc _*-e-_ is either the outcome of
 borrowing from a non-Oceanic language or of idiosyncratic innovation. We suggest that it is
-due to the latter here. Nowhere are both *rere and *riri reflected in a single language, and
-there is no evident contrast in meaning, beyond the fact that reflexes of *rere have acquired
-the meaning ‘fear’ in Bel languages (Bilibil etc.) and in Fijian. The Takia phrase tini-g i-rer
+due to the latter here. Nowhere are both _*rere_ and _*riri_ reflected in a single language, and
+there is no evident contrast in meaning, beyond the fact that reflexes of _*rere_ have acquired
+the meaning ‘fear’ in Bel languages (Bilibil etc.) and in Fijian. The Takia phrase _tini-g i-rer_
 ‘my skin trembles’ [skin-my it-tremble] shows how the extension of meaning occurred.
 
 <
@@ -16277,7 +16275,7 @@ POc *rere ‘tremble, shiver, shake with fear, be fearful’
  NNG: Bam              -rier               ‘tremble’
  NNG: Wogeo            -re-rere            ‘tremble’
  NNG: Kaulong          reh                 ‘(?) shake’ (sic)
- SES: Arosi            rere(bʷeru)         ‘run away’ (bʷeru ‘run’)
+ SES: Arosi            rere(bʷeru)         ‘run away’ (_bʷeru_ ‘run’)
  NCV: Mota             rere                ‘tremble, shake with fear’
  NCV: Mwotlap          yeyey               ‘tremble, quiver with cold, fever or age’
  Fij: Bauan            rere                ‘fear’
@@ -16291,12 +16289,12 @@ PMic *rere ‘tremble (with fear)’
 326 Malcolm Ross and Meredith Osmond
 
 
-   The second member of this pair was apparently POc *dredre (with variant *drere), but PPn
-*tete raises a question of form. Was its POc ancestor *dredre or *dede? By regular sound
-change it was *dede, but the likely history of the root *ridriŋ, reflecting PMP *diŋdiŋ (§4.8.1),
-points to POc *dr, not *d. We cannot resolve this conflict, but note that the POc consonant *d
-was rare medially and almost non-existent initially, suggesting that *dredre was modified to
-*dede in an early Oceanic dialect ancestral to PPn.
+   The second member of this pair was apparently POc _*dredre_ (with variant _*drere_), but PPn
+_*tete_ raises a question of form. Was its POc ancestor _*dredre_ or _*dede_? By regular sound
+change it was _*dede_, but the likely history of the root _*ridriŋ_, reflecting PMP _*diŋdiŋ_ (§4.8.1),
+points to POc _*dr_, not _*d_. We cannot resolve this conflict, but note that the POc consonant _*d_
+was rare medially and almost non-existent initially, suggesting that _*dredre_ was modified to
+_*dede_ in an early Oceanic dialect ancestral to PPn.
 
 <
 POc *dre(r,dr)e ‘tremble, shake’
@@ -16306,7 +16304,7 @@ POc *dre(r,dr)e ‘tremble, shake’
   MM: Lamasong          de            ‘tremble’
   MM: Madak             dede          ‘tremble in fear’
   MM: Ramoaaina         dada-der      ‘shake, shiver, tremble (from fright)’
-  MM: Siar              te-ter        ‘tremble’ (t- for †d-)
+  MM: Siar              te-ter        ‘tremble’ (_t-_ for †_d-_)
   SES: Gela             dede          ‘shake (of something unstable)’
 PMic *cece ‘shake, tremble’ (Bender et al. 2003)
   Mic: Kiribati         rere          ‘dart quickly’
@@ -16329,11 +16327,11 @@ PPn *tete ‘shiver, tremble’
                                                         Bodily conditions and activities 327
 
 
-    The PNCV reflex of POc *ruru (VI) ‘shake’ had acquired the additional sense of
-‘earthquake’ (vol.2:82), but there is no evidence of this elsewhere, and the POc pair *ruru and
-*drudru do not seem to have differed in meaning from the two pairs above. The form *drudru
-is reflected only in Remote Oceanic languages. The Polynesian forms may reflect either *ruru
-or *drudru.
+    The PNCV reflex of POc _*ruru_ (VI) ‘shake’ had acquired the additional sense of
+‘earthquake’ (vol.2:82), but there is no evidence of this elsewhere, and the POc pair _*ruru_ and
+_*drudru_ do not seem to have differed in meaning from the two pairs above. The form _*drudru_
+is reflected only in Remote Oceanic languages. The Polynesian forms may reflect either _*ruru_
+or _*drudru_.
 
 <
 POc *ruru ‘shake, tremble’
@@ -16381,10 +16379,10 @@ cf. also:
 328 Malcolm Ross and Meredith Osmond
 
 
-   In vol.2:80, POc *ninir ‘earthquake’ was reconstructed. Like PNCV *ruru above, this
-seems to have reflected a verb meaning ‘tremble, shake’. The final *-r is not reflected in the
+   In vol.2:80, POc _*ninir_ ‘earthquake’ was reconstructed. Like PNCV _*ruru_ above, this
+seems to have reflected a verb meaning ‘tremble, shake’. The final _*-r_ is not reflected in the
 non-Oceanic cognates from which PMP *ninih is reconstructed, and the sets supporting PMP
-*ninih and POc *ninir may resemble each other by chance.
+*ninih and POc _*ninir_ may resemble each other by chance.
 
 <
 PMP *ninih ‘shake, tremble, rock’ (ACD)
@@ -16394,7 +16392,7 @@ POc *ninir ‘tremble, shake; earthquake’
  NNG: Mumeng (Zenag)    nɛr                ‘earthquake’
  MM:  Bulu              nunu               ‘tremble’
  MM:  Patpatar          ninir              ‘quake, shake, be agitated’
- MM:  Babatana          nene(dere)         ‘shake,tremble, chiefly with fright’ (dere ‘stand’)
+ MM:  Babatana          nene(dere)         ‘shake,tremble, chiefly with fright’ (_dere_ ‘stand’)
  MM:  Roviana           nene(gara)         ‘tremble, shaking with cold; palsy’
  SES: Sa’a              nini(koʔa)         ‘trembling, shivering from fright or cold’
  Fij: Bauan             nini               ‘tremble, quake with fear or anger’
@@ -16412,10 +16410,10 @@ a.         a person feeling cold (the sense §4.8.1 is concerned with),
 b.         a substance being cold to the touch, and
 c.         the air, wind or weather being cold.
 
-   Thus in To’aba’ita the terms are (a) tega or aqai, (b) gʷari, and (c) ʔoleʔoleʔa. However,
-there is a twist: (a) may also be gʷa-gʷari, a reduplicated form of (b) (Lichtenberk 2008).
+   Thus in To’aba’ita the terms are (a) _tega_ or _aqai_, (b) _gʷari_, and (c) _ʔoleʔoleʔa_. However,
+there is a twist: (a) may also be _gʷa-gʷari_, a reduplicated form of (b) (Lichtenberk 2008).
 
-   In Dobu (a) and (c) are both gogai, and (b) is gonituna, or goyuyuwana if the cold
+   In Dobu (a) and (c) are both _gogai_, and (b) is _gonituna_, or _goyuyuwana_ if the cold
 substance is water (Lithgow & Lithgow 2006).
 
    Very few of the available dictionaries differentiate the senses of ‘cold’ as carefully as these
@@ -16425,57 +16423,58 @@ the fact that a term may span two of the three senses. Much the same is true of 
 
                                                            Bodily conditions and activities 329
 
+# FIXME: How to deal with these "revisions" below?
 
-   A consequence of this is that §§4.8.1–2 are revisions of the section on temperature in vol.
-2:217–218—this despite the fact that those terms were concerned with (b), whereas we are
+   A consequence of this is that §§4.8.1–2 are revisions of the section on temperature in
+vol. 2:217–218—this despite the fact that those terms were concerned with (b), whereas we are
 here concerned with (a). Although it may be assumed that POc made distinctions of the kind
 listed above, it is not possible to determine accurately how reconstructed terms for ‘hot’ and
 ‘cold’ related to (a), (b) and (c).
 
 4.8.1 Feeling cold
 
-There are several POc forms for ‘cold’ which are derived ultimately from PMP *diŋin ‘cold’.
-However, Chamorro maniŋhiŋ ‘cold’ reflects PMP *maN-diŋdiŋ (Blust 1970:133), and it can
-be assumed that the POc forms reflect the PMP reduplicated root *diŋdiŋ. The expected POc
-form of the root is *ridriŋ, which is plentifully reflected, but this has been subject to
+There are several POc forms for ‘cold’ which are derived ultimately from PMP _*diŋin_ ‘cold’.
+However, Chamorro _maniŋhiŋ_ ‘cold’ reflects PMP _*maN-diŋdiŋ_ (Blust 1970:133), and it can
+be assumed that the POc forms reflect the PMP reduplicated root _*diŋdiŋ_. The expected POc
+form of the root is _*ridriŋ_, which is plentifully reflected, but this has been subject to
 assimilations and perhaps metathesis at various post-POc interstages. The root alone is reflected
-as POc *ridri(ŋ), or *riri(ŋ) ‘shiver’ (with assimilation of medial *-dr- to initial *r-), discussed
+as POc _*ridri(ŋ)_, or _*riri(ŋ)_ ‘shiver’ (with assimilation of medial _*-dr-_ to initial _*r-_), discussed
 in §7.6.
 
-    Forms for ‘cold’ consist of one of the prefixes *ma-, *maN- and *maka- + *ridriŋ, giving
-expected POc forms *ma-ridriŋ, *madridriŋ (from *maN-ridriŋ) and *maka-ridriŋ, all of
+    Forms for ‘cold’ consist of one of the prefixes _*ma-_, _*maN-_ and _*maka-_ + *ridriŋ, giving
+expected POc forms _*ma-ridriŋ_, _*madridriŋ_ (from _*maN-ridriŋ_) and _*maka-ridriŋ_, all of
 which are reflected in present-day Oceanic languages. Matters are complicated by the fact that
-forms are also found which appear to reflect *ma-ririŋ, *madririŋ, i.e. with medial *-dr-
-replaced by *-r-. There are several possible explanations of these forms, including
+forms are also found which appear to reflect _*ma-ririŋ_, _*madririŋ_, i.e. with medial _*-dr-_
+replaced by _*-r-_. There are several possible explanations of these forms, including
 assimilation, dissimilation and metathesis, but these are ignored here as their distribution in the
 data suggests that they are local innovations. This means that in a few cases forms reflecting
-*ma-ridriŋ may have been attributed to *madridriŋ, and vice versa.
+_*ma-ridriŋ_ may have been attributed to _*madridriŋ_, and vice versa.
 
-    It is possible that the forms here attributed to POc *madridriŋ are actually all reflexes of
-*ma-ridriŋ that have undergone assimilation of root-initial *-r- to medial *dr-. However, their
-wide distribution speaks against this. As *madridriŋ reflects *maN-ridriŋ, and *maN- has an
+    It is possible that the forms here attributed to POc _*madridriŋ_ are actually all reflexes of
+_*ma-ridriŋ_ that have undergone assimilation of root-initial _*-r-_ to medial _*dr-_. However, their
+wide distribution speaks against this. As _*madridriŋ_ reflects _*maN-ridriŋ_, and _*maN-_ has an
 agentive implication, the question arises, How could a term for ‘cold’ be agentive? The answer
 is perhaps that it denoted coldness of weather, and there is a sense in which weather can be
 regarded as agentive (‘causing shivering’): ‘cold (of weather)’ is the gloss assigned to PMP
-*maN-diŋdiŋ by Zorc (2007).
+_*maN-diŋdiŋ_ by Zorc (2007).
 
-    We take *ma-ridriŋ and *maka-ridriŋ both to have meant ‘feel cold’, but their meanings
+    We take _*ma-ridriŋ_ and _*maka-ridriŋ_ both to have meant ‘feel cold’, but their meanings
 may have been wider than this. No semantic difference between them is discernible.
 
 <
 PMP *ma-diŋdiŋ ‘cold’ (Blust 1970)
 POc *ma-ridri(ŋ) ‘(s.o.) be cold’
- NNG: Mutu               marir                ‘(s.o.) cold’ (final -r for †-d)
- NNG: Apalik             miri-n               ‘(s.o.) cold’ (or < POc *madridriŋ)
- NNG: Bebeli             merir                ‘(s.o.) cold’ (or < POc *madridriŋ)
- NNG: Kaiep              marir                ‘(s.o.) cold’ (or < POc *madridriŋ)
- NNG: Kairiru            -merir               ‘(s.o.) cold’ (or < POc *madridriŋ)
- SJ:  Kayupulau          mariri-e             ‘(s.o.) cold’ (or < POc *madridriŋ)
- NCV: Mota               ma-marir             ‘cold’ (final -r for †-n)
- NCV: Merlav             marir                ‘cold’ (final -r for †-n)
+ NNG: Mutu               marir                ‘(s.o.) cold’ (final _-r_ for †_-d_)
+ NNG: Apalik             miri-n               ‘(s.o.) cold’ (or < POc _*madridriŋ_)
+ NNG: Bebeli             merir                ‘(s.o.) cold’ (or < POc _*madridriŋ_)
+ NNG: Kaiep              marir                ‘(s.o.) cold’ (or < POc _*madridriŋ_)
+ NNG: Kairiru            -merir               ‘(s.o.) cold’ (or < POc _*madridriŋ_)
+ SJ:  Kayupulau          mariri-e             ‘(s.o.) cold’ (or < POc _*madridriŋ_)
+ NCV: Mota               ma-marir             ‘cold’ (final _-r_ for †_-n_)
+ NCV: Merlav             marir                ‘cold’ (final _-r_ for †_-n_)
  NCV: Kiai               (sarsara)mariri      ‘tremble (as in malaria)’
- NCV: Namakir            miladi-n             ‘cold’ (-l- for †-r-)
- NCV: Nguna              malādi               ‘cold’ (-l- for †-r-)
+ NCV: Namakir            miladi-n             ‘cold’ (_-l-_ for †_-r-_)
+ NCV: Nguna              malādi               ‘cold’ (_-l-_ for †_-r-_)
 >
 
 330 Malcolm Ross and Meredith Osmond
@@ -16490,13 +16489,13 @@ POc *madridriŋ ‘be cold’
  NNG: Ulau-Suain         madid               ‘(s.o.) cold’
  NNG: Poeng              ma-mariri           ‘(s.o.) cold’
  MM: Nakanai             magigi              ‘to shake (as in epilepsy)’
- MM: Tolai               madiriŋ             ‘cold (water, food)’ (-r- for †-d-)
+ MM: Tolai               madiriŋ             ‘cold (water, food)’ (_-r-_ for †_-d-_)
  MM: Haku                maririŋ             ‘(s.o.) cold’
  NCV: Raga               masisi              ‘cold’
  NCV: Kiai               makiki              ‘cold’
  NCV: W Ambrym           marid               ‘cold’
- NCV: Uripiv             -me-mr̃ali          ‘cold, cool’ (-l- for †-r̃-)
- NCV: Paamese            madil               ‘cold’ (-l for †-r)
+ NCV: Uripiv             -me-mr̃ali          ‘cold, cool’ (_-l-_ for †_-r̃-_)
+ NCV: Paamese            madil               ‘cold’ (_-l_ for †_-r_)
 PMic *maci, *macici ‘be cold’ (Bender et al. 2003)
  Mic: Kiribati           mariri              ‘feel cold’
  Mic: Kosraean           miṣiṣ               ‘cold, chilly, cool, goosebumps’
@@ -16510,7 +16509,7 @@ POc *maka-ridriŋ ‘(s.o.) be cold’
   MM: Nakanai               maka-rigi              ‘cold, be cold’
   MM: Notsi                 maka-dil               ‘(s.o.) cold’
   SES: Bauro                maɣā-risi              ‘cold’
-  NCV: Tamambo              maɣa-riri              ‘cold’ (second -r- for †-d-)
+  NCV: Tamambo              maɣa-riri              ‘cold’ (second _-r-_ for †_-d-_)
 PPn *maka-lili ‘cold, chilly’ (POLLEX)
   Pn:   Niuean              maka-lili              ‘cold, chilly’
   Pn:   Samoan              maʔa-lili              (VI) ‘feel cold, shiver’; (N) ‘cold (weather)’
@@ -16529,14 +16528,14 @@ PPn *maka-lili ‘cold, chilly’ (POLLEX)
   Pn:     Maori              maka-riri        (VI) ‘feel cold, cold (of weather)’; (N) ‘cold’
 >
 
-[43] The only non-Oceanic cognate listed by Blust (1970) is (CMP) Roti makalini ‘cold’, so the etymon is
+[43] The only non-Oceanic cognate listed by Blust (1970) is (CMP) Roti _makalini_ ‘cold’, so the etymon is
      perhaps only of PCEMP antiquity.
 
                                                          Bodily conditions and activities 331
 
 
-  Another cognate set meaning ‘cold’ appears to reflect both *malaso ‘cold (verb)’ and
-*malaso-ŋ ‘cold (noun)’.
+  Another cognate set meaning ‘cold’ appears to reflect both _*malaso_ ‘cold (verb)’ and
+_*malaso-ŋ_ ‘cold (noun)’.
 
 <
 POc *malaso (VI) ‘be cold’
@@ -16566,7 +16565,7 @@ PMic *fou ‘feel cold’
  Mic: Mokilese           (ko)pow          ‘feel cold (of people)’
  Mic: Chuukese           fə̄w              ‘cold, be cold’
  Mic: Chuukese           əffə̄w            ‘chills’
- Mic: Chuukese           a-ffə̄w           ‘be cold to 3the touch’
+ Mic: Chuukese           a-ffə̄w           ‘be cold to the touch’
  Mic: Woleaian           fø̄ʉ              ‘be cold, cool, shiver’
  Mic: Woleaian           (xaẓi)fø̄ʉ        ‘be cold, chilly’
  Mic: Carolinian         ffōy, ffə̄y       ‘feel cold’
@@ -16574,10 +16573,10 @@ PMic *fou ‘feel cold’
 
 4.8.2 Feeling hot
 
-Three terms are reconstructable for ‘hot, warm’, POc *[ma]panas, POc *maŋini(t) and POc
-*tunu-tunu. The first was probably the general term, to judge from its distribution and its
-glosses, whilst *maŋini(t) probably had some specialised sense. The third was apparently
-derived from the verb POc *tunu ‘roast on embers or in fire’ (vol.1:293).
+Three terms are reconstructable for ‘hot, warm’, POc _*[ma]panas_, POc _*maŋini(t)_ and POc
+_*tunu-tunu_. The first was probably the general term, to judge from its distribution and its
+glosses, whilst _*maŋini(t)_ probably had some specialised sense. The third was apparently
+derived from the verb POc _*tunu_ ‘roast on embers or in fire’ (vol.1:293).
 
 <
 PMP *[ma]panas ‘be/become warm, hot (of fire, sun, fever, water)’ (ACD)
@@ -16633,8 +16632,8 @@ POc *maŋini(t) ‘become hot, warm (?)’
 >
 
    The reflexes of the term below suggest the form †*tun-tunu, but the phonotactics and
-reduplication patterns of POc require *tunu-tunu, even though the second of the four instances
-of *-u- happens not to be reflected in the cognate set below.
+reduplication patterns of POc require _*tunu-tunu_, even though the second of the four instances
+of _*-u-_ happens not to be reflected in the cognate set below.
 
                                                       Bodily conditions and activities 333
 
@@ -16689,17 +16688,15 @@ indicates that in addition to dental caries, three quarters of the sample suffer
 degenerative joint disease (p.97). ‘Because populations were probably small, chronic
 infectious diseases such as tuberculosis and yaws are unlikely to have been present’ (p.91).
 Nonetheless, the authors add that ‘the types of rib lesions observed in the Teouma samples are
-frequently observed in pulmonary tuberculosis sufferers ... but can also be caused by other
+frequently observed in pulmonary tuberculosis sufferers … but can also be caused by other
 respiratory conditions such as pneumonia and bronchitis’ (p.109). In a separate article Hallie
+Buckley (2007:747) argues that erosive arthritis noted in six of these individuals may be
+evidence of gout.
 
 [1] Thanks are due to Malcolm Ross who has made numerous additions to the data, and to Matthew
     Spriggs for advice on current findings on skeletal remains in Vanuatu.
 
                                                                                 Health and disease 335
-
-
-Buckley (2007:747) argues that erosive arthritis noted in six of these individuals may be
-evidence of gout.
 
 
 5.2     Concept of illness
@@ -16732,8 +16729,8 @@ deaths of adults after protracted illness are put down to breaches of religious 
 
 __blockquote__
       Minor illnesses which are more or less endemic and from which the patient easily recovers,
-      such as colds, coughs and mild attacks of fever, are often lightly dismissed as natural, imore
-      baia (“he is just ill”) they will say, or their attitude might be more accurately represented by
+      such as colds, coughs and mild attacks of fever, are often lightly dismissed as natural,
+      _imore baia_ (“he is just ill”) they will say, or their attitude might be more accurately represented by
       saying that, because such ailments are common, of brief duration and show none of the signs
       which are regarded as serious, the natives do not trouble about their cause. But if a person is
       seriously ill or is suffering from some abnormality such as lunacy, physical deformity or bad
@@ -16789,18 +16786,18 @@ Comparative Dictionary (ACD).
 
 5.3.1 General terms
 
-Of the three general terms reconstructed, POc *masaki(t) (V) ‘be in pain, sick’; (N) ‘sickness’ is
+Of the three general terms reconstructed, POc _*masaki(t)_ (V) ‘be in pain, sick’; (N) ‘sickness’ is
 the most inclusive in meaning, applicable both to illnesses and other afflictions. In southeast
 Solomonic languages its reflexes have come to have specific reference to feverish illness,
 particularly malaria.
 
 <
-PMP *masakit ‘be in pain, be sick’ (ACD; Dempwolff: *sakit ‘injury, pain, illness, disease’)
+PMP *masakit ‘be in pain, be sick’ (ACD; Dempwolff: _*sakit_ ‘injury, pain, illness, disease’)
 POc *[ma]saki(t) (V) ‘be in pain, sick’; (N) ‘sickness’
  NNG: Gitua         mazai             ‘sick’
  NNG: Kaulong       sahi              ‘sick, sickness’
  NNG: Mapos Buang   rak               ‘sick’
- NNG: Sengseng      sahi              ‘sick’ (h reflects *g)
+ NNG: Sengseng      sahi              ‘sick’ (_h_ reflects _*g_)
  MM:  Vitu          maðaɣi            ‘sick’
  MM:  Tigak         masak             ‘be in pain’
  MM:  Tolai         maki              (N) ‘pain, ache’; (VI) ‘to ache, be sore’
@@ -16834,22 +16831,22 @@ cf. also:
  Fij: Bauan         mosit-a           (VT) ‘cause pain to s.o.’
 >
 
-[2] e.g. mahaki-kili ‘skin disease’, mahaki-mata ‘eye disease’, mahaki hela ‘asthma’, mahaki moa
+[2] e.g. _mahaki-kili_ ‘skin disease’, _mahaki-mata_ ‘eye disease’, _mahaki hela_ ‘asthma’, _mahaki moa_
     ‘epilepsy, be epileptic’.
 
-[3] e.g. masaki tinaʔe ‘stomach ache, masaki tuʔa ‘backache’, masaki niho ‘toothache’, masaki ɣotoi
+[3] e.g. _masaki tinaʔe_ ‘stomach ache, _masaki tuʔa_ ‘backache’, _masaki niho_ ‘toothache’, _masaki ɣotoi_
     ‘epilepsy; flinching sickness’.
 
-[4] e.g. maʔi-lili ‘shivering; convulsions’, maʔi-māliu ‘epilepsy’, maʔi-sua ‘boil’.
+[4] e.g. _maʔi-lili_ ‘shivering; convulsions’, _maʔi-māliu_ ‘epilepsy’, _maʔi-sua_ ‘boil’.
 
 
                                                                                   Health and disease 337
 
 
-The following set is an apparent PWOc variant of POc *masa(k,q)i(t) with the vowel sequence
-moving from a-a-i to a-i-i, and -s- replaced with -j-. Both contain the stative prefix *ma-.
-Lukep, W Kara and Nalik terms below could reflect either POc root *jiki or *siki, while the
-Bali (without prefix) and Bola terms reflect only *jiqi.
+The following set is an apparent PWOc variant of POc _*masa(k,q)i(t)_ with the vowel sequence
+moving from _a-a-i_ to _a-i-i_, and _-s-_ replaced with _-j-_. Both contain the stative prefix _*ma-_.
+Lukep, W Kara and Nalik terms below could reflect either POc root _*jiki_ or _*siki_, while the
+Bali (without prefix) and Bola terms reflect only _*jiqi_.
 
 <
 PWOc *[ma]ji(k,q)i ‘be in pain, be sore’
@@ -16864,13 +16861,13 @@ PWOc *[ma]ji(k,q)i ‘be in pain, be sore’
 
 
   A different term with two variants refers more specifically to aching or throbbing pain.
-Both *pitik and *p(w)idik are reconstructable.
+Both _*pitik_ and _*(p,pʷ)idik_ are reconstructable.
 
 <
 PMP *pi(n)tik ‘throb, beat’ (ACD)
 POc *pitik ‘to feel pain, throb’
  Adm: Drehet              (kanro)pwisip   ‘horsefly’
- NNG: Buang               vtī(gwib)       ‘small stinging fly’ (gwib ‘cassowary’?)
+ NNG: Buang               vtī(gʷib)       ‘small stinging fly’ (gʷib ‘cassowary’?)
  NNG: Nenaya              vusi            ‘sick’
  NNG: Numbami             witi            ‘be in pain’
  NNG: Wogeo               -vir            ‘be in pain’
@@ -16893,7 +16890,7 @@ POc *pitik ‘to feel pain, throb’
 To’aba’ita retain reflexes of both forms, albeit with no apparent difference in meaning.
 
 <
-POc *p(w)idik ‘throb’
+POc *(p,pʷ)idik ‘throb’
  MM: Bulu                   vidi             ‘be in pain’
  MM: Tolai                  pidik            (VI, VT) ‘to sting, of insects, nettles etc., tap with the fingers’
  MM: Tolai                  pi-pidi(l)       (VI) ‘to throb; knock at a door’
@@ -16909,16 +16906,16 @@ POc *p(w)idik ‘throb’
   Fij:    Wayan             |vidi ni uto|      (N) ‘heartbeat’ (uto ‘heart’)
 >
 
-  Reflexes of PAn *maCay, PMP *matay ‘die, dead’ (§4.2.1.2) carry a number of extended
-meanings. POc *mate, sometimes reduplicated, evidently included among its meanings ‘be
+  Reflexes of PAn _*maCay_, PMP _*matay_ ‘die, dead’ (§4.2.1.2) carry a number of extended
+meanings. POc _*mate_, sometimes reduplicated, evidently included among its meanings ‘be
 weak or ill’, ‘be motionless, be unconscious’, ‘be paralysed’. As a result, if the meaning ‘dead’
-is intended, some qualification is usually required, e.g. Sa’a mae ʔoto ‘quite dead’, Manam
-imate tina ‘dead + intensifier’.
+is intended, some qualification is usually required, e.g. Sa’a _mae ʔoto_ ‘quite dead’, Manam
+_imate tina_ ‘dead + intensifier’.
 
                                                                        Health and disease 339
 
 
-    The antonym of both POc *[ma]sakit and stative POc *mate was evidently POc *maqurip
+    The antonym of both POc _*[ma]sakit_ and stative POc _*mate_ was evidently POc _*maqurip_
 ‘be in good health, be alive’ (§4.2.1.1).
 
 5.3.2 Painful skin conditions
@@ -16929,13 +16926,13 @@ reflects the commonplace nature of these conditions, and indicates that a more s
 vocabulary existed for them. However, dictionary definitions do not provide enough
 information for us to distinguish between, for instance, terms for boil or infected scratch or
 wound or tropical ulcer, or perhaps terms that might indicate the severity of the infection. All
-reconstructions are nouns bar POc *makini(t) ‘to be stung, have a stinging pain’, which may
+reconstructions are nouns bar POc _*makini(t)_ ‘to be stung, have a stinging pain’, which may
 have been the verb used to describe an insect sting
 
 5.3.2.1 Boil, ulcer, wound
 
-POc *manuka below reflects PAn *ma-Luka/PMP *ma-nuka, meaning ‘wounded’. In POc it
-has become a general term for a sore. However, unprefixed PAn *Luka/PMP *luka became the
+POc _*manuka_ below reflects PAn _*ma-Luka_/PMP _*ma-nuka_, meaning ‘wounded’. In POc it
+has become a general term for a sore. However, unprefixed PAn _*Luka_/PMP _*luka_ became the
 POc term for yaws (§5.3.4).
 
 <
@@ -16981,22 +16978,22 @@ POc *loto ‘boil, abscess’
   MM: Nehan               loto               ‘sore (on skin)’
   SES: Bugotu             ðoto               ‘pus’
   SES: Lau                lō                 ‘boil, abscess’
-  Pn:  Samoan             (ʔati)loto         ‘skin disease, erysipelas’ (ʔati ‘bite’)
+  Pn:  Samoan             (ʔati)loto         ‘skin disease, erysipelas’ (_ʔati_ ‘bite’)
 >
 
-   POc *paR(a,o)(q) ‘boil’ is attested in EOc languages and by non-Oceanic cognates, but
+   POc _*paR(a,o)(q)_ ‘boil’ is attested in EOc languages and by non-Oceanic cognates, but
 appears to have been lost in WOc.
 
 <
 PAn *baReq ‘abscess, boil, swelling on the body’ (ACD)
-POc *paR(a,o)(q) ‘boil’ (ACD: POc *paRoq)
+POc *paR(a,o)(q) ‘boil’ (ACD: POc _*paRoq_)
   SES: Arosi              hara               ‘to swell, of the body; become hard and round, of a swelling’
   SES: Bauro              hara               ‘a boil’
   Fij:  Bauan             bō                 ‘a boil’
   Fij:  Wayan             bō                 ‘a boil’
   Pn:   Tongan            fā                 ‘blister’
 cf. also:
-   PT:    Dobu            para               ‘yaws on anus’ (for †pala)
+   PT:    Dobu            para               ‘yaws on anus’ (for †_pala_)
 >
 
 <
@@ -17041,12 +17038,12 @@ POc *bisu(l) ‘sore on skin’
  MM: W Kara                 bis                ‘sore (on skin)’
 >
 
-   The following reconstruction appears to be the same term as POc *buku, glossed in vol.1
+   The following reconstruction appears to be the same term as POc _*buku_, glossed in vol.1
 (p85) as ‘node (as in bamboo or sugarcane); joint; knuckle; knot in wood, string or rope’, in
 vol.2 (p51) as ‘hill’, and in §3.6.8.1.2 as ‘mound, knob, joint’, where it was noted that the term
 focussed on the shape of the referent rather than on what it was. In the present instance it
 denotes a swollen lump on the skin, and a number of reflexes are also used as a verb ‘swell’.
-However, the alternation between b- and p- across reflexes remains unexplained.
+However, the alternation between _b-_ and _p-_ across reflexes remains unexplained.
 
 <
 POc *buku ‘mound, knob; boil, skin sore’
@@ -17069,7 +17066,7 @@ POc *buku ‘mound, knob; boil, skin sore’
 342 Meredith Osmond
 
 
-   POc *boto[-] probably denoted swellings in general, but its meaning has evidently
+   POc _*boto[-]_ probably denoted swellings in general, but its meaning has evidently
 narrowed to ‘sore, boil’ in NNG languages, to elephantiasis in Arosi, and to chicken pox rash
 in Mokilese.
 
@@ -17097,7 +17094,7 @@ PMic *pʷoto ‘swelling’ (Bender et al. 2003)
 
 5.3.2.2 Pus
 
-POc *nanaq ‘pus’ is notable for the fact that it is retained in languages right across the Pacific,
+POc _*nanaq_ ‘pus’ is notable for the fact that it is retained in languages right across the Pacific,
 except in Polynesia.
 
 <
@@ -17150,7 +17147,7 @@ POc *nanaq ‘pus’
 
 5.3.2.3 Stinging
 
-POc *makini(t) ‘to be stung, have a stinging pain’ is the stative form of POc *kinit, *kinit-i- ‘to
+POc _*makini(t)_ ‘to be stung, have a stinging pain’ is the stative form of POc _*kinit_, _*kinit-i-_ ‘to
 pinch, nip’ (vol.1:280).
 
 <
@@ -17164,13 +17161,13 @@ POc *makini(t) ‘to be stung, have a stinging pain’
 
 5.3.2.4 Itching
 
-Two formally similar but unrelated reconstructions found elsewhere, POc *kaRat-i ‘to
-bite’ (§4.3.5.1) and POc *karak ‘ringworm, itch’ (§5.3.3.2 below) each have scattered reflexes
+Two formally similar but unrelated reconstructions found elsewhere, POc _*kaRat-i_ ‘to
+bite’ (§4.3.5.1) and POc _*karak_ ‘ringworm, itch’ (§5.3.3.2 below) each have scattered reflexes
 meaning ‘itch’. Their cognate sets listed below have been limited here to those reflexes with
 ‘itch’ meanings. It is possible that the loss of POc final consonants in many languages and the
 close association between (insect) ‘bite’ and ‘itch’ resulted in some conflation of reflexes so
-that the Kaiwa, Numbami and the EOc reflexes of POc *kaRat added to their meaning the
-‘itch’ sense of *karak.
+that the Kaiwa, Numbami and the EOc reflexes of POc _*kaRat_ added to their meaning the
+‘itch’ sense of _*karak_.
 
 344 Meredith Osmond
 
@@ -17223,7 +17220,7 @@ cf. also:
                                                                          Health and disease 345
 
 <
-PPn *maŋe(s,h)o ‘itch(y), sexually titillated’ (POLLEX: *maŋeho)
+PPn *maŋe(s,h)o ‘itch(y), sexually titillated’ (POLLEX: _*maŋeho_)
   Pn:   Niuean             maŋiho               ‘to itch; scabies, a tree whose leaves cause a painful sting; to be hot (of spices)’ (_-h_ < _*-s-_ or _*-h-_)
   Pn:   Samoan             maŋeso               (V) ‘itch’ (_-s_ < _*-s-_)
   Pn:   E Futunan          maŋeo                ‘itchy’
@@ -17235,7 +17232,7 @@ cf. also:
    Adm: Lou                  ŋaɛs               ‘scratch an itch’
 >
 
-    Although PMic *kāSu is glossed ‘to scratch’ by Bender et al. (2003), most reflexes support
+    Although PMic _*kāSu_ is glossed ‘to scratch’ by Bender et al. (2003), most reflexes support
 ‘to itch’.
 
 <
@@ -17248,9 +17245,9 @@ PMic *kāSu ‘to itch’ (Bender et al., 2003:‘to scratch’)
 
 5.3.2.5 Wart, cyst
 
-Certain PMP trisyllabic roots with *-e- (*[ə]) as the nucleus of their second syllable, like PMP
-*buteliR ‘wart’ below, had in POc lost PMP *-e- along with the second consonant of the
-resulting consonant cluster (§1.3.4.2), giving in this instance POc * putiR.
+Certain PMP trisyllabic roots with _*-e-_ (*[ə]) as the nucleus of their second syllable, like PMP
+_*buteliR_ ‘wart’ below, had in POc lost PMP _*-e-_ along with the second consonant of the
+resulting consonant cluster (§1.3.4.2), giving in this instance POc _*putiR_.
 
 <
 PMP *buteliR ‘wart, cyst, non-purulent skin eruption’ (ACD)
