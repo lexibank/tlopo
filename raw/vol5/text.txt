@@ -22840,8 +22840,8 @@ certain people.
 458 Malcolm Ross
 
     Most of the verbs in this section are verbs that defy neat assignment. Verbs of working
-(§7.2.2) arguably belong with the verbs associated with horticultural practices (vol.1:129–
-134), as POc speakers—unsurprisingly—had no concept corresponding to ‘work’ in its
+(§7.2.2) arguably belong with the verbs associated with horticultural practices (vol.1:129–134),
+as POc speakers—unsurprisingly—had no concept corresponding to ‘work’ in its
 western sense. The closest equivalent was ‘work in the food garden’. The pair of verbs
 meaning ‘clap hands’ and ‘slap with open hand’ in §7.4.1 properly belongs with verbs of
 hitting in vol.1:267–274, and is a corrigendum in the light of more data to a reconstruction
@@ -22866,14 +22866,14 @@ nominal object denoting an activity, especially in phrases meaning ‘do work’
 languages it also occurs in the question ‘What are you doing?’ but this usage is somewhat less
 widespread, as a number of Oceanic languages have an interrogative verb ‘do what?’.
 
-   It is clear that POc *pai(t)/*pait-i- can be reconstructed, but it is striking that there are large
+   It is clear that POc _*pai(t)_/_*pait-i-_ can be reconstructed, but it is striking that there are large
 geographic gaps in the distribution of its reflexes, pointing to widespread lexical replacement
 leading to numerous local cognate sets but none that unambiguously reconstructs to PROc,
 PEOc or PWOc, let alone POc. This is probably a result of the fact that in ‘do’ + nominal
 syntagms, ‘do’ is frequent and typically unstressed. It is therefore subject to phonological
 reduction which encourages replacement. There is, for example, a scattering of forms with the
-template *gV: Takia (NNG) -ga[ne], Iduna (PPT) -ga, Nakanai (MM) igo, all meaning ‘do,
-make’, and Tolo (SES) ago ‘work’, but their monosyllabicity and the mismatches among their
+template _*gV_: Takia (NNG) _-ga[ne]_, Iduna (PPT) _-ga_, Nakanai (MM) _igo_, all meaning ‘do,
+make’, and Tolo (SES) _ago_ ‘work’, but their monosyllabicity and the mismatches among their
 vowels suggest that they could readily be due to independent parallel development.
 
 <
@@ -22883,7 +22883,7 @@ POc *pai(t), *pait-i- ‘do, make’ (ACD: *pai)
   Adm: Lou             pe             ‘do, make’
   NNG: Sio             vet-           ‘make, do’
   NNG: Numbami         pai            ‘do, make’
-  NNG: Mengen          bai            ‘do’ (ba-vai durative)
+  NNG: Mengen          bai            ‘do’ (_ba-vai_ durative)
   PT:  Molima          vei, ve-       ‘become, to turn into s.t. else’
   PT:  Iamalele        vai, vai-      ‘do’
   MM: Lihir            pec            ‘do work’
@@ -22927,7 +22927,7 @@ which has in some languages been extended to include gainful employment, is that
 in the garden to grow food crops, and especially working to clear land for a garden.
 
     The POc verb for ‘work in the food garden’ was identical in form to the noun for ‘food
-garden’ (vol.1:117–118), *quma.
+garden’ (vol.1:117–118), _*quma_.
 
 <
 PAn *qumah ‘swidden; work a swidden’ (ACD)
@@ -22968,12 +22968,12 @@ PNCV *qumʷa ‘work, clear land’
 
 
 The terms for ‘food garden’ in three MM languages are nominalisations formed with the
-nominalising infix *<in> and *quma, indicating that in the early MM linkage, *quma was a verb
-meaning ‘make a garden’. The three forms that reflect *q<in>uma ‘garden’ are Bulu ɣ<in>uma,
-Kia (n-un)uma and Roviana (in)uma, all ‘food garden’.
+nominalising infix _*<in>_ and _*quma_, indicating that in the early MM linkage, _*quma_ was a verb
+meaning ‘make a garden’. The three forms that reflect _*q<in>uma_ ‘garden’ are Bulu _ɣ<in>uma_,
+Kia _(n-un)uma_ and Roviana _(in)uma_, all ‘food garden’.
 
    A second term for working in the garden is found in a number of PT languages and MM
-languages of northern New Ireland which appears to reflect WOc *pai-sok, *pai-sok-i ‘plant
+languages of northern New Ireland which appears to reflect WOc _*pai-sok_, _*pai-sok-i_ ‘plant
 (tuber +)’.
 
 <
@@ -22993,14 +22993,14 @@ PWOc *pai-sok, *pai-sok-i ‘plant (tuber +)’
 
 
 The etymology of these terms is complex and not entirely clear. Their shape suggests that they
-reflect a compound, as morpheme-internal *-ai- is not a usual part of the POc phonological
-template. An obvious candidate for the first morpheme is POc *pai(t) ‘do, make’, reconstructed
+reflect a compound, as morpheme-internal _*-ai-_ is not a usual part of the POc phonological
+template. An obvious candidate for the first morpheme is POc _*pai(t)_ ‘do, make’, reconstructed
 above in §7.2.1. However, the MM forms bear an obvious resemblance to the set reflecting
-POc *paso(k), *pasok-i below, an expanded version of the set in vol.1:132. POc *paso(k) has
-a history as a unitary morpheme, and to account for PWOc *pai-sok, folk etymologising must
-be assumed, whereby *paso(k) was reanalysed as *pa-(a)so(k), consisting of *pa-, the POc
-causativiser, and the root POc *asok ‘plant in holes in the ground’ (ACD).1 The prefix *pa- was
-then replaced by *pai-.
+POc _*paso(k)_, _*pasok-i_ below, an expanded version of the set in vol.1:132. POc _*paso(k)_ has
+a history as a unitary morpheme, and to account for PWOc _*pai-sok_, folk etymologising must
+be assumed, whereby _*paso(k)_ was reanalysed as _*pa-(a)so(k)_, consisting of _*pa-_, the POc
+causativiser, and the root POc _*asok_ ‘plant in holes in the ground’ (ACD).[1] The prefix _*pa-_ was
+then replaced by _*pai-_.
 
 <
 PAn/PMP *pasek ‘wooden nail, dowel; drive in, as a wooden nail, dowel, or fencepost’ (ACD)
@@ -23029,18 +23029,16 @@ PMic *faSo, *faSok-i ‘plant; planted; a planted thing’ (Bender et al. 2003)
   Mic: Ponapean           pɔtok               ‘plant (s.t.)’
 >
 
-There remains the question of the origin of the apparent PT reflexes of PWOc *pai-sok listed
-above. First, a majority of PT languages reflects an innovation whereby *-a is added after a
-PWOc final consonant, i.e. PWOc *paisok > *paisoka. There is also a tendency for *k to
-become *kʷ next to a rounded vowel, hence *paisokʷa. Medial *-k- was deleted through
+There remains the question of the origin of the apparent PT reflexes of PWOc _*pai-sok_ listed
+above. First, a majority of PT languages reflects an innovation whereby _*-a_ is added after a
+PWOc final consonant, i.e. PWOc _*paisok_ > _*paisoka_. There is also a tendency for _*k_ to
+become _*kʷ_ next to a rounded vowel, hence _*paisokʷa_. Medial _*-k-_ was deleted through
+lenition, giving _*paisowa_, the form reflected by Bunama _paihowa_. Finally, vowel unrounding
+adjacent to a rounded consonant (_*w_, _*kʷ_ etc) is widespread in PT, giving _*paisewa_.
 
-[1] From PMP *hasek ‘dibble, plant seeds with a dibble stick’ (ACD).
+[1] From PMP _*hasek_ ‘dibble, plant seeds with a dibble stick’ (ACD).
 
 462 Malcolm Ross
-
-
-lenition, giving *paisowa, the form reflected by Bunama paihowa. Finally, vowel unrounding
-adjacent to a rounded consonant (*w, *kʷ etc) is widespread in PT, giving *paisewa.
 
 
 7.3       Hand and arm actions
@@ -23048,7 +23046,7 @@ adjacent to a rounded consonant (*w, *kʷ etc) is widespread in PT, giving *pais
 Hand and arm actions for which reconstructions are given in this section include beckoning and
 waving (often the same verb), fanning, taking hold of, seizing by force, and holding something
 in one’s hand. Verbs meaning ‘point (at)’ are not given here but are listed as part of the cognate
-set supporting POc *tusu- (N) ‘forefinger’; *tusuq-i- (VT) ‘point at’ in §3.6.8.2.
+set supporting POc _*tusu-_ (N) ‘forefinger’; _*tusuq-i-_ (VT) ‘point at’ in §3.6.8.2.
 
 7.3.1 Beckoning and waving
 
@@ -23056,12 +23054,12 @@ POc speakers perhaps had two beckoning gestures. In one, the hand was extended p
 in the other, hand up. In traditional Oceanic societies (and in SE Asia), the beckoning palm
 down is the polite gesture, whilst beckoning palm up, European-style, particularly with an
 extended forefinger, is considered rude. There are a few indications among the glosses of
-reflexes (Babatana, Longgu, Marshallese) that POc *qalo(p), *qalop-i- denoted beckoning with
+reflexes (Babatana, Longgu, Marshallese) that POc _*qalo(p)_, _*qalop-i-_ denoted beckoning with
 the palm down. However, it seems possible that it also had the generic meaning of waving or
 making hand gestures.
 
-    Alongside POc *qalo(p) we also find *ta(Ra)-qalo(p) (VI) ‘beckon, wave’. The function of
-the prefixed element is not understood,2 and it is not clear how the prefixed and intransitive
+    Alongside POc _*qalo(p)_ we also find _*ta(Ra)-qalo(p)_ (VI) ‘beckon, wave’. The function of
+the prefixed element is not understood,[2] and it is not clear how the prefixed and intransitive
 unprefixed forms differ in meaning.
 
 <
@@ -23103,7 +23101,7 @@ PMic *[alo]alo, *alo[f]-i ‘wave, beckon’ (Bender et al. 2003)
  Pn:     Maori             aro-arof-aki        ‘a motion of hands in dance’
 >
 
-[2] POc *ta- formed undergoer-subject verbs, but this is not the function of the prefix here.
+[2] POc _*ta-_ formed undergoer-subject verbs, but this is not the function of the prefix here.
 
                                                                             Physical acts 463
 
@@ -23123,7 +23121,7 @@ PPn *ta-qalo, *ta-qalof-i- ‘beckon, signal with the hand’ (POLLEX)
   Pn:    Pukapukan          ta-alo              ‘beckon, indicate to come’
 >
 
-   POc *kamo(t), *kamot-i- may have denoted the impolite beckoning style, with the palm
+   POc _*kamo(t)_, _*kamot-i-_ may have denoted the impolite beckoning style, with the palm
 turned up and forefinger extended, but this is attested only by the Kove gloss. In Polynesian
 languages reflexes of this term denote both hand and eye signals. The Rennellese reflex
 denotes the polite beckoning style, but this may be the result of an extension in meaning from
@@ -23139,7 +23137,7 @@ POc *kamo(t), *kamot-i- ‘signal with the hand, beckon (with the palm upward ?)
 464 Malcolm Ross
 
 <
-PPn *kamo, *kamo-t-ia ‘beckon; make sign with hand or eye’ (POLLEX: *kamo)
+PPn *kamo, *kamo-t-ia ‘beckon; make sign with hand or eye’ (POLLEX: _*kamo_)
   Pn:   Tongan           kamo             (VI) ‘beckon or make signs with eyes or hands’
   Pn:   Tuvalu           kamo-kamo        ‘brief, sly wave’
   Pn:   E Futunan        [kamo]kamo       ‘beckon’
@@ -23153,11 +23151,11 @@ PPn *kamo, *kamo-t-ia ‘beckon; make sign with hand or eye’ (POLLEX: *kamo)
   Pn:   Māori            kamo             ‘wink’
 >
 
-   Blust (ACD) reconstructs PMP *away ‘beckon with the hand’ and PMP *kaway ‘wave the
+   Blust (ACD) reconstructs PMP _*away_ ‘beckon with the hand’ and PMP _*kaway_ ‘wave the
 hand or arms; call by waving’. The morphological relationship between the two is uncertain:
-they may reflect the same Austronesian root (Blust 1988). A few Oceanic reflexes of *kaway
-are found, allowing reconstruction of POc *kawe ‘wave the hand’. There are also reflexes of
-an apparent POc *dawe, perhaps descended from a PMP form reflecting the same
+they may reflect the same Austronesian root (Blust 1988). A few Oceanic reflexes of _*kaway_
+are found, allowing reconstruction of POc _*kawe_ ‘wave the hand’. There are also reflexes of
+an apparent POc _*dawe_, perhaps descended from a PMP form reflecting the same
 Austronesian root, but in the absence of non-Oceanic reflexes this can be reconstructed only to
 PNGOc.
 
@@ -23181,26 +23179,26 @@ PNGOc *dawe ‘wave the hand’
 The commonest fan in Oceanic speaking communities is probably one made from the coconut
 frond.
 
-     Reflexes of POc *iri(p), *irip-i- (V) ‘fan’ and its nominalisations are common in EOc
-languages. If the analysis of Lou tɛrip and Nyindrou taleh as reflexes of the root *irip,
-prefixed with *ta- SPONTANEOUS (§1.3.5.4), are correct, then the form *ta-irip-i- ‘fan oneself’
-is reconstructable to POc. However, this analysis presupposes an early Oceanic form *ta-iripV
-in order to account for the retention of Lou and Nyindrou -p, and it is not clear why there
+     Reflexes of POc _*iri(p)_, _*irip-i-_ (V) ‘fan’ and its nominalisations are common in EOc
+languages. If the analysis of Lou _tɛrip_ and Nyindrou _taleh_ as reflexes of the root _*irip_,
+prefixed with _*ta-_ SPONTANEOUS (§1.3.5.4), are correct, then the form _*ta-irip-i-_ ‘fan oneself’
+is reconstructable to POc. However, this analysis presupposes an early Oceanic form _*ta-iripV_
+in order to account for the retention of Lou and Nyindrou _-p_, and it is not clear why there
 should have been a final vowel here.
 
                                                                                         Physical acts 465
 
-   The final consonants of PMP *irid and POc *irip do not match, but the Oceanic evidence
-supports only *irip.[3]
+   The final consonants of PMP _*irid_ and POc _*irip_ do not match, but the Oceanic evidence
+supports only _*irip_.[3]
 
-   There are no known WOc reflexes of *irip, which seems to have been replaced by PWOc
-*tapi (V) ‘fan’, reconstructed below.
+   There are no known WOc reflexes of _*irip_, which seems to have been replaced by PWOc
+_*tapi_ (V) ‘fan’, reconstructed below.
 
 <
 PMP *irid (V, N) ‘fan’ (ACD)
 POc *irip, *irip-i- (V) ‘fan’
-  Adm: Lou             tɛrip                ‘fan oneself’ (< *ta-irip-i-)
-  Adm: Nyindrou        taleh                (V) ‘fan’ (< *ta-irip-i-)
+  Adm: Lou             tɛrip                ‘fan oneself’ (< _*ta-irip-i-_)
+  Adm: Nyindrou        taleh                (V) ‘fan’ (< _*ta-irip-i-_)
   SES: Kwaio           iluf-i-              (VT) ‘blow, fan’
   SES: ’Are’are        ereh-i-              ‘fan the fire’
 PNCV *iri, *iriv-i- (V) ‘fan’
@@ -23214,7 +23212,7 @@ PNCV *iriv-irivi (N) ‘fan’
   NCV: Nokuku          iri                  (N) ‘fan’
   NCV: Uripiv          -riv-riv-i           (V) ‘fan’
   NCV: Uripiv          ne-riv-riv           (N) ‘fan’
-  NCV: Pt Sandwich     ri-rvi-si            (V) ‘fan’ (-s- unexplained)
+  NCV: Pt Sandwich     ri-rvi-si            (V) ‘fan’ (_-s-_ unexplained)
   NCV: Pt Sandwich     rivi-riv             (N) ‘fan’
   NCV: Neve’ei         riv-riv              (V) ‘fan’
   NCV: Neve’ei         n-iriv               (N) ‘fan’
@@ -23223,11 +23221,11 @@ PNCV *iriv-irivi (N) ‘fan’
   NCV: Paamese         ei-lihi-lihi         (N) ‘fan’
   NCV: Baki            rivi-riv             (N) ‘fan’
 PSV *a-iri-iri (V, N) ‘fan’
-  SV:  N Tanna         k-el-el              (N) ‘fan’ (k- INSTRUMENT)
-  SV:  Whitesands      k-ei-eil             (N) ‘fan’ (k- INSTRUMENT)
+  SV:  N Tanna         k-el-el              (N) ‘fan’ (_k-_ INSTRUMENT)
+  SV:  Whitesands      k-ei-eil             (N) ‘fan’ (_k-_ INSTRUMENT)
   SV:  Lenakel         il-il                (V) ‘fan’
-  SV:  Lenakel         k-il-il              (N) ‘fan’ (k- INSTRUMENT)
-  SV:  SW Tanna        k-il-il              (N) ‘fan’ (k- INSTRUMENT)
+  SV:  Lenakel         k-il-il              (N) ‘fan’ (_k-_ INSTRUMENT)
+  SV:  SW Tanna        k-il-il              (N) ‘fan’ (_k-_ INSTRUMENT)
   SV:  Kwamera         eri-eri              (V) ‘fan’
   SV:  Anejom          er-ere-i             (V) ‘fan’
 PMic *irip, *irip-i (V) ‘fan’
@@ -23250,8 +23248,8 @@ PMic *irip, *irip-i (V) ‘fan’
   Pn:  Rennellese      igi                (V) ‘fan’; (N) ‘coconut leaf fan’
 >
 
-[3] Final PMP *-d is not reflected in all wMP languages. Blust (ACD) cites Balinese ilih ‘kind of fan; to fan’,
-    where -h reflects *-q, not *-d or *-p.
+[3] Final PMP _*-d_ is not reflected in all wMP languages. Blust (ACD) cites Balinese _ilih_ ‘kind of fan; to fan’,
+    where _-h_ reflects _*-q_, not _*-d_ or _*-p_.
 
 466 Malcolm Ross
 
@@ -23261,7 +23259,7 @@ PWOc *tapi (V) ‘fan’
  NNG: Takia                ti-tawi            ‘move or impel air with a fan’
  NNG: Mangseng             tep                ‘wave’
  PT:    Gapapaiwa          tapi               ‘fan, wave, flap’
- MM: Nakanai               t<il>ave           (N) ‘fan’ (<il> < *<in> NOMINALISER)
+ MM: Nakanai               t<il>ave           (N) ‘fan’ (_<il>_ < _*<in>_ NOMINALISER)
  MM: Patpatar              tah                (VT) ‘fan, beckon, wave hand to stop s.o.’
  MM: Ramoaaina             tap                (VT) ‘fan’
  MM: Ramoaaina             tap-tap            (N) ‘fan’
@@ -23272,8 +23270,8 @@ PWOc *tapi (V) ‘fan’
 7.3.3 Seizing, grabbing, snatching, taking hold of
 
 A good many Oceanic languages make a distinction between a verb meaning ‘take hold of’ and
-one meaning ‘hold’. POc verbs that evidently meant ‘hold’ are found in §7.3.4. POc *lawe
-meant ‘take hold of’, whilst POc *paRo appears to have denoted seizing something violently.
+one meaning ‘hold’. POc verbs that evidently meant ‘hold’ are found in §7.3.4. POc _*lawe_
+meant ‘take hold of’, whilst POc _*paRo_ appears to have denoted seizing something violently.
 
 <
 POc *lawe ‘take hold of’
@@ -23294,7 +23292,7 @@ PPn *lawe ‘take hold of, lay hold of’ (POLLEX)
                                                                                   Physical acts 467
 
 <
-POc *paqaRo(k), *paqaRok-i- ‘snatch, seize, rob’ (ACD: *paRo)
+POc *paqaRo(k), *paqaRok-i- ‘snatch, seize, rob’ (ACD: _*paRo_)
   MM: Tabar                 paro               ‘hold’
   SES: Gela                 valo               ‘rob openly, take and keep, refuse to return’
 PMic *faro, *farok-i ‘hold tightly’ (Bender et al. 2003: Proto Central Micronesian)
@@ -23318,16 +23316,16 @@ PPn *paqao ‘seize, take by force, rob’ (POLLEX)
 7.3.4 Grasping, gripping, holding with hand
 
 Four verbs in the semantic domain ‘hold in the hand’ are reconstructed below. They are POc
-*qabi ‘take hold of, grasp’, POc *tau(r)/*taur-i- ‘hold (in hand)’, POc *poso ‘hold’, POc
-*gogo(m)/*gom-i ‘hold in the fist’. It is difficult to assign more precise meanings to them, but
-the meaning ‘hold in the fist’ for POc *gogo(m) is strengthened by that of non-Oceanic
+_*qabi_ ‘take hold of, grasp’, POc _*tau(r)_/_*taur-i-_ ‘hold (in hand)’, POc _*poso_ ‘hold’, POc
+_*gogo(m)_/_*gom-i_ ‘hold in the fist’. It is difficult to assign more precise meanings to them, but
+the meaning ‘hold in the fist’ for POc _*gogo(m)_ is strengthened by that of non-Oceanic
 cognates.
 
-   Blust (ACD) reconstructs POc *qabi and POc *abi, both ‘take hold of, grasp’, and POc
-*abit ‘hold, get, take’, reflecting PMP *ambit ‘seize with the hands’. On the assumption that
-the cognate set below reflects a single POc form, the data attest POc *qabi(t), *qabit-i-. Root-
-final *-t is attested in the Lenakel forms.4 This suggests that the PMP reconstruction should be
-*qambit.
+   Blust (ACD) reconstructs POc _*qabi_ and POc _*abi_, both ‘take hold of, grasp’, and POc
+_*abit_ ‘hold, get, take’, reflecting PMP _*ambit_ ‘seize with the hands’. On the assumption that
+the cognate set below reflects a single POc form, the data attest POc _*qabi(t)_, _*qabit-i-_.
+Root-final _*-t_ is attested in the Lenakel forms.[4] This suggests that the PMP reconstruction should be
+_*qambit_.
 
 <
 PMP *(q)ambit ‘seize with the hands’ (ACD)
@@ -23339,7 +23337,7 @@ POc *qabi(t), *qabit-i- ‘take hold of, grasp’ (ACD)
  NNG: Megiar           -abi             ‘hold (in hand)’
  NNG: Matukar          -abi             ‘hold (in hand)’
  NNG: Numbami          -abi             ‘hold, get, take’
- NNG: Yabem            kam              ‘hold (in hand)’ (k- for †0̷-)
+ NNG: Yabem            kam              ‘hold (in hand)’ (_k-_ for †0̷-)
  NNG: Kaiwa            -eb              ‘hold (in hand)’
  NNG: Sissano          -ɛp              ‘hold’
  PT:  Kilivila         kabi             ‘hold, take hold of’
@@ -23356,7 +23354,7 @@ POc *qabi(t), *qabit-i- ‘take hold of, grasp’ (ACD)
  PT:  Gabadi           -abi-            ‘hold’
  PT:  Kuni             -afi             ‘hold’
  PT:  Mekeo            -afi-            ‘hold’
- MM:  Nakanai          abi              ‘take, catch, get, hold’ (0̷- for †h-)
+ MM:  Nakanai          abi              ‘take, catch, get, hold’ (0̷- for †_h-_)
  MM:  Nakanai          ab-abi           ‘carry in hand’
  MM:  Nakanai          abi(gabuto)      ‘take or hold tentatively’
  MM:  Bola             ɣabi-            ‘give’
@@ -23369,7 +23367,7 @@ POc *qabi(t), *qabit-i- ‘take hold of, grasp’ (ACD)
 468 Malcolm Ross
 
 
-   PMP *cekep ‘seize, grasp’ has just one known Oceanic reflex:
+   PMP _*cekep_ ‘seize, grasp’ has just one known Oceanic reflex:
 
 <
 PMP *cekep ‘seize, grasp’ (ACD)
@@ -23377,7 +23375,7 @@ POc *soko(p) ‘seize, grasp’
  PT:    Motu               doɣo-            ‘seize, take hold of, restrain’
 >
 
-   POc *tau(r), *taur-i- has well distributed reflexes and was perhaps the default POc term
+   POc _*tau(r)_, _*taur-i-_ has well distributed reflexes and was perhaps the default POc term
 for ‘hold in the hand’.
 
 <
@@ -23391,7 +23389,7 @@ POc *tau(r), *taur-i- ‘hold in the hand’
  MM: E Kara                 təu-e           ‘hold (animate being)’
  MM: Barok                  ton(sik)        ‘hold (in hand)’
  NCV: Mota                  taur            ‘hold’
- NCV: Mwotlap               tɪy             ‘hold’ (< PNCV *tauri)
+ NCV: Mwotlap               tɪy             ‘hold’ (< PNCV _*tauri_)
   NCV: Merlav               tor                ‘hold’
   NCV: Dorig                tœr                ‘hold’
   NCV: Mafea                taur-i-            ‘hold’
@@ -23409,7 +23407,7 @@ POc *tau(r), *taur-i- ‘hold in the hand’
                                                                                 Physical acts 469
 
 
-   POc *poso ‘hold’ has only two known reflexes, but given their exact correspondence and
+   POc _*poso_ ‘hold’ has only two known reflexes, but given their exact correspondence and
 geographic distance from one another the term can be reconstructed to POc.
 
 <
@@ -23418,8 +23416,8 @@ POc *poso ‘hold’
  MM: Babatana               poso               ‘hold in hand, hold onto’
 >
 
-   It is important to distinguish between POc *gogo(m)/*gom-i ‘hold in the fist’ below and
-*gomu ‘hold in the mouth’, reconstructed in §4.3.5.3.
+   It is important to distinguish between POc _*gogo(m)_/_*gom-i_ ‘hold in the fist’ below and
+_*gomu_ ‘hold in the mouth’, reconstructed in §4.3.5.3.
 
 <
 PAn *gemgem ‘fist; hold in the fist’
@@ -23444,7 +23442,7 @@ Verbs of hitting are reconstructed in vol.1:271–274. Not all of these are typi
 a fellow human being, but one that is is reconstructed afresh in §7.4.1 in the light of a much
 expanded data base. A term that might have found its way into this section is ‘stroke’ (in the
 sense of running one’s hand over part of another’s body), but the only relevant POc
-reconstruction is *samo(s), *samos-i- ‘massage, stroke’, reconstructed in §5.4.2.2.
+reconstruction is _*samo(s)_, _*samos-i-_ ‘massage, stroke’, reconstructed in §5.4.2.2.
 Reconstructing a verb for ‘tickle’ raises a formal challenge that is discussed in §7.4.2.
 
 470 Malcolm Ross
@@ -23452,16 +23450,18 @@ Reconstructing a verb for ‘tickle’ raises a formal challenge that is discuss
 
 7.4.1 Slapping and clapping
 
-A verb for slapping, POc *pʷasa(r,R), *pʷasa(r,R)-i- ‘slap, hit’, was reconstructed in
+A verb for slapping, POc _*pʷasa(r,R)_, _*pʷasa(r,R)-i-_ ‘slap, hit’, was reconstructed in
 vol.1:273. With considerably more data the form and gloss of the reconstruction can be edited
 as shown below.
+
+# FIXME: Correct vol1?
 
 <
 POc *pʷaja(R) (VI) ‘clap hands’
 POc *pʷajaR-i- (VT) ‘slap with open hand’
  Adm: Mussau               posala             (VT) ‘slap with an open hand’
  Adm: Mussau               posalā             (VI) ‘clap’
- Adm: Baluan               |(yek) pʊt|          ‘slap, hit with open hand’ (yek ‘hit’)
+ Adm: Baluan               |(yek) pʊt|          ‘slap, hit with open hand’ (_yek_ ‘hit’)
  Adm: Baluan               |(yek) potpot|       ‘clap the hands’
  NNG: Sissano              -pot               ‘clap , beat’
  NNG: Sio                  poⁿza              ‘slap; clap one’s hands’
@@ -23476,7 +23476,7 @@ POc *pʷajaR-i- (VT) ‘slap with open hand’
  MM: Patpatar              pasar              ‘slap; beat drum’
  MM: Ramoaaina             par                ‘clap ; slap, hit ; play (hourglass drum)’
  MM: Minigir               pasari             ‘hit’
- MM: Nehan                 posala             ‘slap, especially on the back of the head’ (-l- for †-r-)
+ MM: Nehan                 posala             ‘slap, especially on the back of the head’ (_-l-_ for †_-r-_)
  MM: Solos                 pasan              ‘hit’
  MM: Teop                  panana             ‘slap, hit’
  MM: Babatana              po-posara          ‘clap hands’
@@ -23492,7 +23492,7 @@ PNCV *voza ‘clap, slap, strike’
  NCV: Raga                 voha-i             ‘strike, throw, shoot’
  NCV: Raga                 vosa               ‘slap (with one hand) once, clap hands together once’
  NCV: Tamambo              voja-i             ‘strike, slap’
- NCV: Tamambo             |voja-voja-i (lima)| ‘clap, pat’ (lima ‘hand’)
+ NCV: Tamambo             |voja-voja-i (lima)| ‘clap, pat’ (_lima_ ‘hand’)
  NCV: Uripiv               -wuj-e             ‘smack, slap, pat’
  NCV: Big Nambas           -usa               ‘slap’
  NCV: Port Sandwich      voc-i                     ‘strike with the hand, slap’
@@ -23512,11 +23512,11 @@ as a cognate set, as it includes instances where regular sound changes have simp
 place and perhaps also instances where idiosyncratic changes have occurred. This appears to
 be the result of onomatopoeia, such that the overall shape of a word is retained but some
 phonological contrasts are unimportant. Clearly this was already the case in PMP, as Blust
-(ACD) reconstructs *kilik, *kirik, *kidi, *gidik and *giri, all ‘tickle’. The onomatopoeic
-template is clear: *KiRi(k), where *K is a velar stop, voiced or unvoiced, and *R is a voiced
-apical (PMP *l, *r or *d). These shapes survive remarkably well into Oceanic, despite the
-fact that PMP *k- and *g- regularly merge then split into POc *k- and *g- with a strong
-preference for POc *k-, whilst PMP *-d- and *-r- normally merge as POc *-r-. This implies
+(ACD) reconstructs _*kilik_, _*kirik_, _*kidi_, _*gidik_ and _*giri_, all ‘tickle’. The onomatopoeic
+template is clear: _*KiRi(k)_, where _*K_ is a velar stop, voiced or unvoiced, and _*R_ is a voiced
+apical (PMP _*l_, _*r_ or _*d_). These shapes survive remarkably well into Oceanic, despite the
+fact that PMP _*k-_ and _*g-_ regularly merge then split into POc _*k-_ and _*g-_ with a strong
+preference for POc _*k-_, whilst PMP _*-d-_ and _*-r-_ normally merge as POc _*-r-_. This implies
 that onomatopoeic terms for ‘tickle’ have not been affected by regular sound changes.
 
     Partly as a means of simplifying presentation, I reconstruct POc forms below, but because
@@ -23562,48 +23562,48 @@ cf. also:
 472 Malcolm Ross
 
 
-The items listed under ‘cf. also’ immediately above may reflect either *kili(k) or *kiri(s).
+The items listed under ‘cf. also’ immediately above may reflect either _*kili(k)_ or _*kiri(s)_.
 
     The three putative POc forms above have reasonable support both from reflexes and from
-non-Oceanic cognates. But their root-final consonants are perhaps also significant. If the root-
-medial liquid is *-l-, then the root-final consonant is *-k, but if the root-medial liquid is *-r-,
-then the root-final consonant is *-s. This suggests two distinct early Oceanic templates, *Kilik
-and *Kiris.
+non-Oceanic cognates. But their root-final consonants are perhaps also significant. If the
+root-medial liquid is _*-l-_, then the root-final consonant is _*-k_, but if the root-medial liquid is _*-r-_,
+then the root-final consonant is _*-s_. This suggests two distinct early Oceanic templates, _*Kilik_
+and _*Kiris_.
 
     There is a variety of other Oceanic forms that conform to one of these templates but
 reflect the ‘wrong’ protoform. The items below are shown with in the fifth column the POc
-forms they reflect if regular sound changes are applied. All the latter display medial *-d(r)-,
+forms they reflect if regular sound changes are applied. All the latter display medial _*-d(r)-_,
 but it seems somewhat unlikely that such protoforms ever occurred, as they would reflect
-PMP *Kindis, for which there is no evidence. The hypothetical forms in the sixth column are
-the forms expected if regular sound changes had applied to the template *Kiris. It is fairly
-obvious that Mussau kiri, Halia giri- and Paamese kir-kiris-i reflect the failure of a sound
-change to apply to the medial *-r-. Dawawa gidi perhaps reflects the formation of a new
-template *Kidi, which was also the antecedent of Mwotlap ɣin-ɣin. Voiced stops normally
-occur in Gapapaiwa only in loans from nearby PT languages, but gidi may reflect the presence
+PMP _*Kindis_, for which there is no evidence. The hypothetical forms in the sixth column are
+the forms expected if regular sound changes had applied to the template _*Kiris_. It is fairly
+obvious that Mussau _kiri_, Halia _giri-_ and Paamese _kir-kiris-i_ reflect the failure of a sound
+change to apply to the medial _*-r-_. Dawawa _gidi_ perhaps reflects the formation of a new
+template _*Kidi_, which was also the antecedent of Mwotlap _ɣin-ɣin_. Voiced stops normally
+occur in Gapapaiwa only in loans from nearby PT languages, but _gidi_ may reflect the presence
 of unusual sounds in an onomatopoeic item.
 
 __tablenh__
-  Adm: Mussau               kiri               ‘tickle’            *kid(r)i     †kili
-  MM: Halia                 giri-              (VT) ‘tickle’       *gid(r)i     †gili
-  NCV: Paamese              kir-kiris-i        (VT) ‘tickle’       *gid(r)is-i- †kilis-i
-  PT:  Dawawa               gidi               ‘tickle’            *gid(r)i     †giri
-  PT:  Gapapaiwa            gidi               ‘tickle’            *gid(r)i     †kiri
-  NCV: Mwotlap              ɣin-ɣin            ‘tickle’            *kid(r)i     †ɣiy
+  Adm: | Mussau      |         _kiri_          |     ‘tickle’       |     _*kid(r)i_    | †_kili_
+  MM:  | Halia       |         _giri-_         |     (VT) ‘tickle’  |     _*gid(r)i_    | †_gili_
+  NCV: | Paamese     |         _kir-kiris-i_   |     (VT) ‘tickle’  |     _*gid(r)is-i-_ | †_kilis-i_
+  PT:  | Dawawa      |         _gidi_          |     ‘tickle’       |     _*gid(r)i_    | †_giri_
+  PT:  | Gapapaiwa   |         _gidi_          |     ‘tickle’       |     _*gid(r)i_    | †_kiri_
+  NCV: | Mwotlap     |         _ɣin-ɣin_       |     ‘tickle’       |     _*kid(r)i_    | †_ɣiy_
 
-The two items below both reflect failure of a sound change to apply: POc *r > Nakanai *l, and
-POc *g > To’aba’ita *k.
+The two items below both reflect failure of a sound change to apply: POc _*r_ > Nakanai _*l_, and
+POc _*g_ > To’aba’ita _*k_.
 
 __tablenh__
-  MM: Nakanai               giri               ‘tickle’            *gisi        †gili
-  SES: To’aba’ita           gili-              (VT) ‘tickle’       *dili        †kiri
+  MM:  | Nakanai         |     _giri_     |         ‘tickle’      |      _*gisi_  |      †_gili_
+  SES: | To’aba’ita      |     _gili-_      |        (VT) ‘tickle’  |     _*dili_   |     †_kiri_
 
 The items listed below are less easily explained, but they perhaps reflect the emergence of yet
 another templatic variant, *Kisi.
 
 __tablenh__
-  MM: Nehan                 (uel)kis-kisi      ‘tickle’            *kiti        †kiri
-  MM: Teop                  gisi-gisi          ‘tickle’            *giti        †giri
-  SV: Anejom                i-ɣiθi(luk)        (VI, VT) ‘tickle’   *kisi        †ɣiri
+  MM: | Nehan          |       _(uel)kis-kisi_  |    ‘tickle’          |  *_kiti_    |    †_kiri_
+  MM: | Teop           |       _gisi-gisi_      |    ‘tickle’          |  *_giti_    |    †_giri_
+  SV: | Anejom         |       _i-ɣiθi(luk)_    |    (VI, VT) ‘tickle’ |  *_kisi_    |    †_ɣiri_
 
                                                                                  Physical acts 473
 
@@ -23618,15 +23618,15 @@ kicking, stamping and treading on. However, no cognate sets with the narrow mean
 have been found. When someone deliberately kicks something or someone, this is often
 expressed with ‘hit with the foot’, and some reflexes of verbs for stamping and treading on
 sometimes have as one of their senses ‘kick with the sole of the foot’. Hence the
-reconstructions in this section both relate to stamping and treading on: POc *paRas (VI) ‘step,
-tread’, *paRas-i- (VT) ‘step on, tread on’ and PEOc *butu (VI) ‘stamp foot, tread, kick’, *butuR-
-i- ‘stamp on, tread on, trample’.
+reconstructions in this section both relate to stamping and treading on: POc _*paRas_ (VI) ‘step,
+tread’, _*paRas-i-_ (VT) ‘step on, tread on’ and PEOc _*butu_ (VI) ‘stamp foot, tread, kick’,
+_*butuR-i-_ ‘stamp on, tread on, trample’.
 
 7.5.1 Stamping and treading on
 
 <
 POc *paRas (VI) ‘step, tread’
-POc *paRas-i- (VT) ‘step on, tread on’ (Geraghty 1990:66: PEOc *(p,v)aRa(c,z) ‘tread on, step on’)
+POc *paRas-i- (VT) ‘step on, tread on’ (Geraghty 1990:66: PEOc _*(p,v)aRa(c,z)_ ‘tread on, step on’)
  NNG: Mangap               -para(ama)           ‘hold by stepping on, stamp on’
  NNG: Mangap               -para(mut)           ‘stamp on, tread on, hurt by stepping on’
  NNG: Takia                -par                 ‘step, pace, tread on’
@@ -23714,8 +23714,8 @@ PMic *pʷutu ‘step, tread, apply one’s foot’
 
 Like §7.5, the present section presents reconstructions for verbs encoding concepts other than
 locomotion. Hence reconstructions for verbs of swimming, moving about under water, and
-floating are given in §6.3.3. They include POc *tuRu(p) ‘wade’ and POc *kaRu, POc *qasa
-and PEOc *olo, all ‘swim’. The reconstructions in this section are actions involving water but
+floating are given in §6.3.3. They include POc _*tuRu(p)_ ‘wade’ and POc _*kaRu_, POc _*qasa_
+and PEOc _*olo_, all ‘swim’. The reconstructions in this section are actions involving water but
 not locomotion, and fall into two semantic sets: verbs denoting bathing, i.e. washing one’s body
 by immersion in water (§7.6.1), and verbs denoting the washing of either part of the body or an
 object (§7.6.2).
@@ -23725,20 +23725,20 @@ object (§7.6.2).
 In traditional Oceanic societies the characteristic method of washing oneself all over is to
 immerse oneself in a river or, failing that, in the sea. On the basis of the glosses of their reflexes
 two reconstructions seem to have been terms primarily for washing oneself or someone else,
-typically a child, in this way. They are POc *siu-siu ‘wash oneself’/*siuw-i-) ‘wash s.o’ and
-POc *ri-riu(s) ‘wash, bathe’/rius-i- ‘wash s.o., bathe s.o.’ There is a note in Hutchisson’s
-Sursurunga dictionary file that siwi, the reflex of *siuw-i-, is a generic term for washing, and
+typically a child, in this way. They are POc _*siu-siu_ ‘wash oneself’/_*siuw-i-_ ‘wash s.o’ and
+POc _*ri-riu(s)_ ‘wash, bathe’/_*rius-i-_ ‘wash s.o., bathe s.o.’ There is a note in Hutchisson’s
+Sursurunga dictionary file that _siwi_, the reflex of _*siuw-i-_, is a generic term for washing, and
 this was evidently true of the POc form too.
 
-    The transitional consonant *-w- in *siuw-i- reflects a minor reconstructive challenge. PMP
-*ziuq shows final *-q, but there is no reflex thereof in Oceanic reflexes. Instead, Oceanic
-reflexes point to *-p. However, I infer that pre-POc *siu-i acquired a transitional [w] which
-was strengthened to Tolai and PEOc bilabial fricative *-v-.
+    The transitional consonant _*-w-_ in _*siuw-i-_ reflects a minor reconstructive challenge. PMP
+_*ziuq_ shows final _*-q_, but there is no reflex thereof in Oceanic reflexes. Instead, Oceanic
+reflexes point to _*-p_. However, I infer that pre-POc _*siu-i_ acquired a transitional [w] which
+was strengthened to Tolai and PEOc bilabial fricative _*-v-_.
 
 <
 PMP *ziuq ‘bathe’ (ACD)
 POc *siu-siu (VI) ‘wash oneself’
-POc *siuw-i- (VT) ‘wash s.o’ (Geraghty 1983: PEOc *si(q,0̷)u-v- ‘wash’)
+POc *siuw-i- (VT) ‘wash s.o’ (Geraghty 1983: PEOc _*si(q,0̷)u-v-_ ‘wash’)
   NNG: Kairiru            -si                ‘wash (child +)’
   PT:     Gumawana        -siwo              (VI) ‘bathe oneself, wash oneself’
   PT:     Dobu            (e)siwe            (VI) ‘wash oneself, bathe’
@@ -23764,13 +23764,13 @@ PEOc *siuv-i- ‘wash s.o’
 476 Malcolm Ross
 
 
-   POc *ri-riu(s)/rius-i- apparently reflects PAn/PMP *diRus ‘bathe’, but with irregular loss
-of medial *-R-. Only in Wayan Fijian would this loss be irregular.
+   POc _*ri-riu(s)_/_*rius-i-_ apparently reflects PAn/PMP _*diRus_ ‘bathe’, but with irregular loss
+of medial _*-R-_. Only in Wayan Fijian would this loss be irregular.
 
 <
 PAn/PMP *diRus ‘bathe’ (ACD)
 POc *ri-riu(s) (VI) ‘wash, bathe’
-POc *rius-i- (VT) ‘wash s.o., bathe s.o.’ (ACD: riRus)
+POc *rius-i- (VT) ‘wash s.o., bathe s.o.’ (ACD: _*diRus_)
   NNG: Arop-Lukep           -riu                 ‘bathe’
   NNG: Mangap               -ri                  ‘wash, bathe s.o. by pouring water on them’
   NNG: Sio                  lili                 ‘bathe, swim’
@@ -23785,14 +23785,14 @@ POc *rius-i- (VT) ‘wash s.o., bathe s.o.’ (ACD: riRus)
   Fij:   Wayan              riu-vi-              ‘dive for s.t., dive and get s.t.’
 >
 
-   POc *su-su(p), *sup-i- below is phonologically very similar to *siu-siu, *siuw-i- above,
-and it is tempting to assume that the disyllabic root *siu [*siju] has been reduced from
-disyllable to monosyllabic *[sju], then, because the latter conflicts with Oceanic phonotactics,
+   POc _*su-su(p)_, _*sup-i-_ below is phonologically very similar to _*siu-siu_, _*siuw-i-_ above,
+and it is tempting to assume that the disyllabic root _*siu_ [*siju] has been reduced from
+disyllable to monosyllabic _*[sju]_, then, because the latter conflicts with Oceanic phonotactics,
 to *[suː]. This might have resulted in alternant forms in POc or have happened on various
 occasions post-POC. However, there is reason to think that this inference is wrong. Reflexes
-of *siu-siu, *siuw-i- all have to do with washing. Reflexes of *su-su(p), *sup-i- point to a
+of _*siu-siu_, _*siuw-i-_ all have to do with washing. Reflexes of _*su-su(p)_, _*sup-i-_ point to a
 semantic element of submersion and diving as well as of washing. Moreover, Gela has
-contrasting reflexes of *siuv-i- and *sup-i-.
+contrasting reflexes of _*siuv-i-_ and _*sup-i-_.
 
 <
 POc *su-su(p) ‘wash by immersing oneself, dive’
@@ -23853,20 +23853,20 @@ cf. also:
                                                                            Physical acts 477
 
 
-   POc *sugu(p), *sugup-i- below appears to have been identical in meaning with POc *su-
-su(p), *sup-i- immediately above. If there is a historical connection between them, however, it
+   POc _*sugu(p)_, _*sugup-i-_ below appears to have been identical in meaning with POc
+_*su-su(p)_, _*sup-i-_ immediately above. If there is a historical connection between them, however, it
 is difficult to see what it is. Neither has known non-Oceanic cognates, and one can only
 speculate that two POc dialects perhaps borrowed cognate terms from neighbouring Papuan
-languages. The Tongan and Niuean reflexes below reflect PPn *uku rather than expected
-*huku (which Tongan and Niuean would reflect as huku).
+languages. The Tongan and Niuean reflexes below reflect PPn _*uku_ rather than expected
+_*huku_ (which Tongan and Niuean would reflect as _huku_).
 
 478 Malcolm Ross
 
 <
 POc *sugu(p) (VI) ‘wash by immersing oneself, dive’
-POc *sugup-i- (VT) ‘wash s.o. by immersing them; dive for s.t.’ (Blust 1984b: *suku)
-  NNG: Manam                 -ruku-           (VI, VT) ‘bathe, wash’ (-k- for †-g-)
-  NNG: Bam                   -ruk-i-          ‘wash (child +)’ (-k- for †-g-)
+POc *sugup-i- (VT) ‘wash s.o. by immersing them; dive for s.t.’ (Blust 1984b: _*suku_)
+  NNG: Manam                 -ruku-           (VI, VT) ‘bathe, wash’ (_-k-_ for †_-g-_)
+  NNG: Bam                   -ruk-i-          ‘wash (child +)’ (_-k-_ for †_-g-_)
   NNG: Yabem                 -sagu            ‘wash (child +)’
   NNG: Roinji                sugu             ‘bathe, swim’
   NNG: Roinji                sug-i-           ‘wash (child +)’
@@ -23890,9 +23890,9 @@ POc *sugup-i- (VT) ‘wash s.o. by immersing them; dive for s.t.’ (Blust 1984b
   MM: Bulu                   ru-rugu          ‘wash (self)’
   MM: Bulu                   (va)rugu         ‘wash (child +)’
   MM: Patpatar               suguh            ‘immerse, dive’
-  NCV: Mota                  suɣ-suɣ          ‘bathe’ (-ɣ- for †-k-)
+  NCV: Mota                  suɣ-suɣ          ‘bathe’ (_-ɣ-_ for †_-k-_)
 PPn *uku ‘dive, submerge’
-PPn *ukuf-i- ‘dive for s.t.’ (POLLEX:*huku)
+PPn *ukuf-i- ‘dive for s.t.’ (POLLEX: _*huku_)
   Pn:    Tongan              uku              ‘dive’
   Pn:    Tongan              ukuf-i           ‘dive for s.t.’
   Pn:    Niuean              uku              ‘dive’
@@ -23911,34 +23911,34 @@ PPn *ukuf-i- ‘dive for s.t.’ (POLLEX:*huku)
 
                                                                                   Physical acts 479
 
-   The forms in initial ñ- and n- listed below under POc *ñu-ñu(p)/*ñup-i-, *ñugu-i- and
-*ñulu-i- presented a reconstructive problem, as the non-initial consonants do not correspond.
+   The forms in initial _ñ-_ and _n-_ listed below under POc _*ñu-ñu(p)_/_*ñup-i-_, _*ñugu-i-_ and
+_*ñulu-i-_ presented a reconstructive problem, as the non-initial consonants do not correspond.
 The transitive verbs below are each followed by a parenthesised protoform from which they
 could be descended. At first sight, these appear chaotic, but two sets of facts conspire to
-provide a solution. The first is that an initial *ñ- on a verb sometimes reflects the application
-of the PMP actor-voice formative *[pa]N- (vol.1:29–30) to a root with initial *s-. The second
-is that the non-initial consonants are identical to those found in *s-initial forms with the same
-meanings, including *sup-i- and *sugu-i- reconstructed above. The hypothesis that emerges is
-that the transitive forms in *ñ- reflect application of *[pa]N- to *s-initial roots. It is difficult to
+provide a solution. The first is that an initial _*ñ-_ on a verb sometimes reflects the application
+of the PMP actor-voice formative _*[pa]N-_ (vol.1:29–30) to a root with initial _*s-_. The second
+is that the non-initial consonants are identical to those found in _*s_-initial forms with the same
+meanings, including _*sup-i-_ and _*sugu-i-_ reconstructed above. The hypothesis that emerges is
+that the transitive forms in _*ñ-_ reflect application of _*[pa]N-_ to _*s_-initial roots. It is difficult to
 be certain how the fragmentary survivals from the PMP system worked in POc, but it is
-reasonable to infer that, for example, *ñu-ñu(p) was the actor-voice intransitive form, *sup-i-
+reasonable to infer that, for example, _*ñu-ñu(p)_ was the actor-voice intransitive form, _*sup-i-_
 the transitive (see the discussion of intransitive and transitive forms of the verb ‘eat’ in
-§4.3.1.1). This implies that reduplicated intransitive forms like E Kara su-suf and Vurës suv-
-suv, listed above under POc *su-su(p)/*sup-i-, were back formations created from transitive
-*sup-i- corresponding intransitives, by applying the POc pattern noted in vol.1:25 (see also
-Evans 2003:81–84). Similarly, transitives like Seimat nuh-i and Baluan nup reflect the
-converse application of this pattern to intransitive *ñu-ñu(p). The fact that two POc verb pairs,
-su-su(p)/*sup-i- and *ñu-ñu(p)/*ñup-i- can be reconstructed suggests that these processes
+§4.3.1.1). This implies that reduplicated intransitive forms like E Kara _su-suf_ and Vurës
+_suv-suv_, listed above under POc _*su-su(p)_/_*sup-i-_, were back formations created from transitive
+_*sup-i-_ corresponding intransitives, by applying the POc pattern noted in vol.1:25 (see also
+Evans 2003:81–84). Similarly, transitives like Seimat _nuh-i_ and Baluan _nup_ reflect the
+converse application of this pattern to intransitive _*ñu-ñu(p)_. The fact that two POc verb pairs,
+_*su-su(p)_/_*sup-i-_ and _*ñu-ñu(p)_/_*ñup-i-_ can be reconstructed suggests that these processes
 occurred at some pre-POc stage.
 
 <
 POc *ñu-ñu(p) ‘wash by immersing oneself, dive’
-POc *ñup-i- ‘wash s.o. by immersing them; dive for s.t.’ (cf *sup-i- above)
- Adm: Seimat                 nuh-i      (VT) ‘wash’ (< *(n,ñ)u(p,r,R)-i-)
+POc *ñup-i- ‘wash s.o. by immersing them; dive for s.t.’ (cf _*sup-i-_ above)
+ Adm: Seimat                 nuh-i      (VT) ‘wash’ (< *_(n,ñ)u(p,r,R)-i-_)
  Adm: Lou                    nu         ‘bathe, submerge’
- Adm: Lou                    nup        ‘wash’ (< *(n,ñ)up-i-)
+ Adm: Lou                    nup        ‘wash’ (< _*(n,ñ)up-i-_)
  Adm: Baluan                 nu         ‘bathe, wash oneself’
- Adm: Baluan                 nup        ‘wash a person, bathe s.o.’ (< *(n,ñ)up-i-)
+ Adm: Baluan                 nup        ‘wash a person, bathe s.o.’ (< _*(n,ñ)up-i-_)
  Adm: Titan                  ñu         (VI) ‘dive, bathe, go under water’
  Adm: Drehet                 nu-nu      ‘bathe’
  Adm: Nyindrou               ñu         ‘wash, bathe’
@@ -23947,24 +23947,24 @@ POc *ñup-i- ‘wash s.o. by immersing them; dive for s.t.’ (cf *sup-i- above)
 >
 
 <
-POc *ñugup-i- ‘wash s.o. by immersing them’ (cf *sugu-i- above)
- NNG: Ulau-Suain          -ñuk            ‘wash (child +)’ (< *ñug-i-)
- NNG: Ali                 -ñuk            ‘wash (child +)’ (< *ñug-i-)
-  NNG: Yalu                  -nʊʔ                ‘wash (child +)’ (< *(n,ñ)u(k,q,r,R)-i-)
-  NNG: Dangal                nuk                 ‘wash (child +)’ (< *(n,ñ)u(k,q,r,R)-i-)
+POc *ñugup-i- ‘wash s.o. by immersing them’ (cf _*sugu-i-_ above)
+ NNG: Ulau-Suain          -ñuk            ‘wash (child +)’ (< _*ñug-i-_)
+ NNG: Ali                 -ñuk            ‘wash (child +)’ (< _*ñug-i-_)
+  NNG: Yalu                  -nʊʔ                ‘wash (child +)’ (< _*(n,ñ)u(k,q,r,R)-i-_)
+  NNG: Dangal                nuk                 ‘wash (child +)’ (< _*(n,ñ)u(k,q,r,R)-i-_)
 >
 
-The third of these sets, supporting the reconstruction of *ñulu-i-, does not correspond to a form
-in *s- reconstructed above. Instead we find three Admiralties forms reflecting *ñ- and three
-New Ireland (MM) forms reflecting *s- which together allow us to reconstruct two POc
-transitive forms, *ñulu-i- and *sulu-i- ‘wash s.o.’.
+The third of these sets, supporting the reconstruction of _*ñulu-i-_, does not correspond to a form
+in _*s-_ reconstructed above. Instead we find three Admiralties forms reflecting _*ñ-_ and three
+New Ireland (MM) forms reflecting _*s-_ which together allow us to reconstruct two POc
+transitive forms, _*ñulu-i-_ and _*sulu-i-_ ‘wash s.o.’.
 
 <
 POc *ñulu-i- ‘wash s.o.’
 POc *sulu-i- ‘wash s.o.’
- Adm: Lou                  niɔl                  ‘wash’ (< *(n,ñ)ul-i-)
-  Adm: Baluan             nul                ‘wash s.t., such as food or dishes, laundry’ (< *(n,ñ)ul-i-)
-  Adm: Titan              ñulu-i             (VT) ‘bathe, wash s.o. or s.t.’ (< *ñu(r,dr,d,l,c)u- i-)
+ Adm: Lou                  niɔl                  ‘wash’ (< _*(n,ñ)ul-i-_)
+  Adm: Baluan             nul                ‘wash s.t., such as food or dishes, laundry’ (< _*(n,ñ)ul-i-_)
+  Adm: Titan              ñulu-i             (VT) ‘bathe, wash s.o. or s.t.’ (< _*ñu(r,dr,d,l,c)u-i-_)
   MM: Tabar               suruv-i-           ‘wash (child +)’
   MM: Notsi               sil                ‘wash (child +)’
   MM: Lihir               sul                ‘wash (child +)’
@@ -23974,24 +23974,24 @@ POc *sulu-i- ‘wash s.o.’
 480 Malcolm Ross
 
 
-   POc *su-su(p)/*sup-i- and POc *sugu(p)/*sugup-i-, both reconstructed above, denoted
+   POc _*su-su(p)_/_*sup-i-_ and POc _*sugu(p)_/_*sugup-i-_, both reconstructed above, denoted
 bathing but also had a more specialised sense of swimming. The gloss of the Nakanai reflex of
-POc *lo-loso(p) suggests by contrast that it denoted bathing with a more specialised sense of
+POc _*lo-loso(p)_ suggests by contrast that it denoted bathing with a more specialised sense of
 swimming, perhaps under the surface. In a number of Vanuatu languages the main sense is
 now ‘swim’.
 
 <
-POc *lo-loso(p), *losop-i- ‘bathe, wash by swimming’ (ACD: *loso-loso ‘bathe, swim’)
+POc *lo-loso(p), *losop-i- ‘bathe, wash by swimming’ (ACD: _*loso-loso_ ‘bathe, swim’)
  NNG: Wogeo                loso-loso         ‘bathe’
  NNG: Wogeo               -la-lose          ‘wash (child +)’
  NNG: Kairiru              -luos             ‘wash oneself’
  NNG: Kairiru              -lis              ‘wash s.o.’
  MM: Nakanai               loso              ‘dive, surface-dive, swim under water’
  SES: Bugotu               ðo-ðoho           ‘swim, bathe’
- SES: Tolo                 leso              (VI) ‘bathe’ (-e- for †-o-)
- SES: Tolo                 lesov-i-          (VT) ‘bathe s.o.’ (-e- for †-o-)
- SES: Ghari                lesɔ              ‘bathe’ (-e- for †-o-)
- SES: Birao                lɛsɔ              ‘bathe’ (-e- for †-o-)
+ SES: Tolo                 leso              (VI) ‘bathe’ (_-e-_ for †_-o-_)
+ SES: Tolo                 lesov-i-          (VT) ‘bathe s.o.’ (_-e-_ for †_-o-_)
+ SES: Ghari                lesɔ              ‘bathe’ (_-e-_ for †_-o-_)
+ SES: Birao                lɛsɔ              ‘bathe’ (_-e-_ for †_-o-_)
  SES: Longgu               loto              ‘wash oneself by playing or swimming in the water’
  SES: ’Are’are             roto              ‘bathe’
  SES: Sa’a                 loto              ‘bathe’
@@ -24024,9 +24024,9 @@ POc *lo-loso(p), *losop-i- ‘bathe, wash by swimming’ (ACD: *loso-loso ‘bat
                                                                              Physical acts 481
 
 
-   There is a small doubt about the formal reconstruction of POc * kʷaya, as NNG languages
-have initial w-, most non-NNG languages k-. However, the latter are fortis reflexes (rather than
-lenis ɣ- or ʔ-), and thus plausible reflexes of *kʷ-.
+   There is a small doubt about the formal reconstruction of POc _*kʷaya_, as NNG languages
+have initial _w-_, most non-NNG languages _k-_. However, the latter are fortis reflexes (rather than
+lenis _ɣ-_ or _ʔ-_), and thus plausible reflexes of _*kʷ-_.
 
 <
 POc *kʷaya (??) ‘bathe, swim’
@@ -24058,7 +24058,7 @@ objects, it is fairly common to find reflexes with glosses that also mention rub
 get it clean, suggesting that their central meaning is one of cleaning in general, not just of
 washing.
 
-    Various scholars have suggested that the particular reflex of POc *wasi- known to them
+    Various scholars have suggested that the particular reflex of POc _*wasi-_ known to them
 (e.g. Lichtenberk 2008) is borrowed from English wash via the local pidgin. However, the
 collection of reflexes below suggests that a POc term is reconstructable, and that the
 resemblance between its reflexes and, e.g., Vanuatu Bislama wasem is a matter of chance.
@@ -24071,19 +24071,19 @@ POc *wasi ‘wash’
  SES: Lau                  wasi-                 ‘wash (hands)’
  SES: ’Are’are             wasi-kaʔi             ‘wash (hands)’
  SES: Arosi                wasi-                 ‘rub, wash clothes’
- SES: Arosi                 wasi-raʔi             ‘rub, wash’
- SES: Fagani                   wasi-                 ‘wash (hands)’
- SES: Kahua                    wasi                  ‘wash (hands)’
- NCV: Tamambo                  osi-osi               (VI) ‘wash hands’
- NCV: Lewo                     was                   ‘wash clothes’
- NCV: Uripiv                   (te)wasi              ‘wipe, rub’
+ SES: Arosi                wasi-raʔi             ‘rub, wash’
+ SES: Fagani               wasi-                 ‘wash (hands)’
+ SES: Kahua                wasi                  ‘wash (hands)’
+ NCV: Tamambo              osi-osi               (VI) ‘wash hands’
+ NCV: Lewo                 was                   ‘wash clothes’
+ NCV: Uripiv               (te)wasi              ‘wipe, rub’
 >
 
 
 482 Malcolm Ross
 
 
-    The fact that POc *pulu, *puRiq and *puqi below all begin with *pu- appears to be a
+    The fact that POc _*pulu_, _*puRiq_ and _*puqi_ below all begin with _*pu-_ appears to be a
 matter of chance, but has on occasion led to the attribution of an item to the wrong cognate
 set.[5]
 
@@ -24118,7 +24118,8 @@ POc *puRiq ‘wash, as the hands’ (ACD)
  SES: Talise              vuli-                          ‘wash (hands)’
 >
 
-[5] Tolo vuli- ‘wash (hands, clothes)’ was attributed to POc *pulu in vol.1:243, instead of to *puRiq.
+[5] Tolo _vuli-_ ‘wash (hands, clothes)’ was attributed to POc _*pulu_ in vol.1:243, instead of to _*puRiq_.
+# FIXME: erratum in vol1
 
                                                                              Physical acts 483
 
@@ -24147,16 +24148,16 @@ cf. also:
    Fij:   Wayan            vue-ti            (VT) ‘wash or dye (hair)’
 >
 
-   The presence of -u for †-o in the Mangseng and Hoava reflexes below may indicate that
-they reflect a protoform other than POc *paño. Nonetheless, the presence of non-Oceanic
+   The presence of _-u_ for †_-o_ in the Mangseng and Hoava reflexes below may indicate that
+they reflect a protoform other than POc _*paño_. Nonetheless, the presence of non-Oceanic
 cognates and the Polynesian reflexes means that Blust is right to reconstruct in the ACD.
 
 <
 PAn *bañaw ‘wash the body’ (ACD)
 PMP *bañaw ‘wash the hands’(ACD)
 POc *paño ‘wash the hands’ (ACD)
-  NNG: Mangseng         panu-nu              ‘wash’ (-u for †-o)
-  MM: Hoava             vanu-vanu            ‘wash (hands)’ (-u for †-o)
+  NNG: Mangseng         panu-nu              ‘wash’ (_-u_ for †_-o_)
+  MM: Hoava             vanu-vanu            ‘wash (hands)’ (_-u_ for †_-o_)
   Pn:   Tongan          fano-fano            ‘wash hands’
   Pn:   Niuean          fano                 ‘rub, wash (clothes)’
   Pn:   Niuean          fano-fano            ‘rub (as in washing clothes)’
@@ -24214,7 +24215,7 @@ verb is reconstructed with this sense.
 POc *tari (VI) ‘wait’; (VT) ‘wait for s.t.’[6]
  NNG: Dami             tari               ‘wait’
  NNG: Mangseng         te-tal             ‘wait for’
- MM: Nakanai           -tali              ‘wait for’ (in compounds, e.g. magiri-tali ‘stand and wait for’)
+ MM: Nakanai           -tali              ‘wait for’ (in compounds, e.g. _magiri-tali_ ‘stand and wait for’)
  MM: Vaghua            tar                ‘wait’
  NCV: Aulua            dare               ‘wait’ (John Lynch, pers. comm.)
  NCV: Pt Sandwich      terere             ‘wait’ (John Lynch, pers. comm.)
@@ -24228,26 +24229,26 @@ POc *tari (VI) ‘wait’; (VT) ‘wait for s.t.’[6]
  Pn:  Maori            ta-tari            ‘wait for’
 >
 
-[6] John Lynch points out that Naman tərav Uripiv e-triv, Tirax trɛv, Nisvai tarv-i appear to reflect *tarav, while
-    Neve’ei terax-en, Big Nambas, Tape tərax reflect *tarak. These forms are all from Malakula, and we can
+[6] John Lynch points out that Naman _tərav_, Uripiv _e-triv_, Tirax _trɛv_, Nisvai _tarv-i_ appear to reflect _*tarav_, while
+    Neve’ei _terax-en_, Big Nambas, Tape _tərax_ reflect _*tarak_. These forms are all from Malakula, and we can
     offer no account of them.
 
                                                                             Physical acts 485
 
 
-Motu (PT) nari (VI) ‘wait’, may be the sole reflex of a POc morphological intransitive *nari
-(reflecting *[pa]N- + *tari) (§1.3.5.6).
+Motu (PT) _nari_ (VI) ‘wait’, may be the sole reflex of a POc morphological intransitive _*nari_
+(reflecting _*[pa]N-_ + _*tari_) (§1.3.5.6).
 
 7.7.2 Hiding
 
-Oceanic languages preserve reflexes of three POc forms descended from PMP *buni ‘hide,
-conceal’. Two of these are *puni and *muni. Their origin, briefly mentioned in §1.3.5.5, is
-transparent. POc *puni was the root form, reflecting PMP *buni, and was originally transitive.
-POc *muni reflected PMP *m-uni, the outcome of adding the actor-voice infix *<um> to the
-root *puni, to form an intransitive, involving a morphophonemic rule whereby *<um> + *p-
-became *m-. Probably this transitive/intransitive contrast was maintained in POc, as it survives
-in Siar (MM) mumun (VI) vs wun (VT) (Frowein 2011:94), but, as the cognate sets below show,
-various languages have created an intransitive from *puni and a transitive from *muni, with or
+Oceanic languages preserve reflexes of three POc forms descended from PMP _*buni_ ‘hide,
+conceal’. Two of these are _*puni_ and _*muni_. Their origin, briefly mentioned in §1.3.5.5, is
+transparent. POc _*puni_ was the root form, reflecting PMP _*buni_, and was originally transitive.
+POc _*muni_ reflected PMP _*m-uni_, the outcome of adding the actor-voice infix _*<um>_ to the
+root _*puni_, to form an intransitive, involving a morphophonemic rule whereby _*<um>_ + _*p-_
+became _*m-_. Probably this transitive/intransitive contrast was maintained in POc, as it survives
+in Siar (MM) _mumun_ (VI) vs _wun_ (VT) (Frowein 2011:94), but, as the cognate sets below show,
+various languages have created an intransitive from _*puni_ and a transitive from _*muni_, with or
 without a derivational morpheme.
 
 <
@@ -24264,15 +24265,15 @@ POc *puni (VT) ‘hide, conceal s.t.’
   NNG: Sukurum             -fum-bun           (VI) ‘hide’
   PT:   Ubir               (bai)bu-buni-n     ‘hidden’
   PT:   Motu               huni-              (VT) ‘hide, cover’
-  PT:   Motu               (ta)huni           ‘be hidden’ (ta- < *ta- SPONTANEOUS)
+  PT:   Motu               (ta)huni           ‘be hidden’ (_ta-_ < _*ta-_ SPONTANEOUS)
   PT:   Gabadi             uni-ni             (VT) ‘hide’
   PT:   Kuni               -buni              (VI) ‘hide’
-  PT:   Kuni               -buni-ai           (VT) ‘hide’ (-ai < POc *-aki(n) APPLICATIVE)
+  PT:   Kuni               -buni-ai           (VT) ‘hide’ (_-ai_ < POc _*-aki(n)_ APPLICATIVE)
   MM: Tiang                uən                (VI) ‘hide’
   MM: E Kara               fun                (VI) ‘hide’
-  MM: E Kara              fu-fun-ai         (VT) ‘hide’ (-ai < POc *-aki(n) APPLICATIVE)
+  MM: E Kara              fu-fun-ai         (VT) ‘hide’ (_-ai_ < POc _*-aki(n)_ APPLICATIVE)
   MM:    Nalik            fun               (VI) ‘hide’
-  MM:    Sursurunga       pun(mai)          (VT) ‘hide’ (mai ‘come’)
+  MM:    Sursurunga       pun(mai)          (VT) ‘hide’ (_mai_ ‘come’)
   MM:    Konomala         funi              (VI) ‘hide’
   MM:    Siar             wun               (VT) ‘hide’
   MM:    Mono-Alu         funi              (VT) ‘hide’
@@ -24280,7 +24281,7 @@ POc *puni (VT) ‘hide, conceal s.t.’
   SES:   ’Are’are          ([haʔa]raʔe)huni- (VT) ‘hide’
   SES: Arosi              huni-huni         (VT) ‘hide, conceal’
   NCV: Mota               vun               ‘deceive, hide’
-  NCV: Mota               (ta)vun           ‘be hidden’ (ta- < *ta- SPONTANEOUS)
+  NCV: Mota               (ta)vun           ‘be hidden’ (_ta-_ < _*ta-_ SPONTANEOUS)
   Fij:   Bauan            vuni, vuni-       (VI) ‘be hidden’; (VT) ‘hide, conceal’
   Fij:   Wayan            vuni, vuni-       (VI) ‘be hidden’; (VT) ‘hide (oneself)’
 >
@@ -24294,7 +24295,7 @@ PMP *m-uni (VI) ‘hide’
 POc *muni (VI) ‘hide oneself, be hidden’
  NNG: Sio                 mun-              ‘hide from (living things, only)’
  NNG: Tami                mu-muŋ            (VI) ‘hide’
- NNG: Kairiru             -muñ-aqa-         (VT) ‘hide’ (-aqa- < POc *-aki APPLICATIVE)
+ NNG: Kairiru             -muñ-aqa-         (VT) ‘hide’ (_-aqa-_ < POc _*-aki_ APPLICATIVE)
  MM: Lavongai             mun               (VI) ‘hide’
  MM: Lihir                muni-n            (VI) ‘hide’
  MM: Lihir                muni-nie          (VT) ‘hide’
@@ -24305,7 +24306,7 @@ POc *muni (VI) ‘hide oneself, be hidden’
  MM: Torau                (mu)muni          (VI) ‘hide’
  MM: Laghu                (ne)muni          (VI) ‘hide’
  SES: Lau                 muni              (VT) ‘hide, put out sight’
- SES: ’Are’are            (a)muni           ‘hidden, lost to sight’ (a- < *ta- SPONTANEOUS)
+ SES: ’Are’are            (a)muni           ‘hidden, lost to sight’ (_a-_ < _*ta-_ SPONTANEOUS)
  SES: Sa’a                mu-muni           (VT) ‘hide, conceal’; (VI) ‘be hidden’
  SES: Sa’a                (ʔa)muni          ‘lost to sight, sunk below the horizon’
  Pn:    Anutan            mu-muni           ‘hide’
@@ -24325,13 +24326,13 @@ POc *muni (VI) ‘hide oneself, be hidden’
                                                                            Physical acts 487
 
 
-    The third POc form descended from PMP *buni ‘hide, conceal’ is POc *buni. This is
-almost certainly not a direct descendant of PMP *buni, as POc *puni has that privilege.
-Instead, it appears from the glosses of its reflexes to be an alternant to *muni, i.e. an
+    The third POc form descended from PMP _*buni_ ‘hide, conceal’ is POc _*buni_. This is
+almost certainly not a direct descendant of PMP _*buni_, as POc _*puni_ has that privilege.
+Instead, it appears from the glosses of its reflexes to be an alternant to _*muni_, i.e. an
 intransitive. The best hypothesis to account for it is that it arose at a pre-POc stage when
-marking intransitive with *<um> was at least still partially productive, but instead of *m
-replacing *p- (the effective outcome of the rule mentioned above), it was added to it to form
-pre-POc *mpuni, which by regular sound change became *buni.
+marking intransitive with _*<um>_ was at least still partially productive, but instead of _*m_
+replacing _*p-_ (the effective outcome of the rule mentioned above), it was added to it to form
+pre-POc _*mpuni_, which by regular sound change became _*buni_.
 
 <
 PAn *buLi ‘hide, conceal’ (ACD)
@@ -24342,13 +24343,13 @@ POc *buni (VI) ‘hide oneself, be hidden’
   SV:    Lenakel           a-pn-ín           ‘hide or conceal an action’
   Pn:    Samoan            puni              ‘screen off, hide; curtain, screen’
   Pn:    Pukapukan         pu-puni           ‘close, shut, concealed’
-  Pn:    Hawaiian          (hoʔo)puni        ‘deceive, delude’ (hoʔo < *paka- CAUS)
+  Pn:    Hawaiian          (hoʔo)puni        ‘deceive, delude’ (_hoʔo_ < _*paka-_ CAUS)
   Pn:    Tahitian          pu-puni           ‘hide oneself’
   Pn:    Mangaia           puni              ‘hide oneself’
   Pn:    Marquesan         pu-puni           ‘hide oneself’
   Pn:    Mangarevan        pu-puni           ‘hide; be enclosed, shut in’
   Pn:    Rarotongan        puni              ‘hide’
-  Pn:    Māori             (faka)pu-puni     ‘crouch, lurk, hide oneself’ (faka < *paka- CAUS)
+  Pn:    Māori             (faka)pu-puni     ‘crouch, lurk, hide oneself’ (_faka_ < _*paka-_ CAUS)
 >
 
 
@@ -24402,30 +24403,25 @@ and semantic treatment.
 
     Basic perception verbs vary conceptually along a number of parameters. These are
 illustrated in English in the following paradigm, closely based on that proposed by Viberg
-(1984). We have labelled the variables as i) sensing, ii) attending and iii) stimulus-subject2.
+(1984). We have labelled the variables as i) sensing, ii) attending and iii) stimulus-subject.[2]
 
 : Table 19       English perception verbs (based on Viberg’s basic paradigm of verbs of perception)
 
 __table__
-Sense modality Sensing                       Attending                 Stimulus-subject
-sight          I see many people             I look at the film        The film is visible/looks
-                                                                       blurry.
-hearing             I hear bells             I listen to the tune      The tune is audible/sounds
-                                                                       loud.
-smell               I smell smoke            I smell the milk          The milk is smelt?/smells
-                                             (to see if it is sour)    sour
-taste               I taste garlic           I taste the mixture       The mixture is tasted/
-                                             (to check if enough salt) tastes fine.
-touch               I feel the wind in my    I feel the fabric         The fabric is felt?/feels
-                    hair.                                              velvety.
+Sense modality | Sensing                      | Attending              |    Stimulus-subject
+sight          | I see many people            | I look at the film     |    The film is visible/looks blurry.
+hearing        |  I hear bells                | I listen to the tune   |     The tune is audible/sounds  loud.
+smell          |  I smell smoke               | I smell the milk (to see if it is sour)     |    The milk is smelt?/smells sour
+taste          |  I taste garlic              | I taste the mixture (to check if enough salt)  |     The mixture is tasted/tastes fine.
+touch          |  I feel the wind in my hair. |    I feel the fabric    |    The fabric is felt?/feels velvety.
 
     Some languages distinguish lexically or grammatically between two kinds of perception
-events involving the basic senses: sensing and attending. A verb or verbal clause depicting a
-sensing event focuses on the animate participant’s experiencing of the stimulus; it is neutral as
-to whether this experience was intentional or accidental. In the case of an attending event, by
+events involving the basic senses: _sensing_ and _attending_. A verb or verbal clause depicting a
+_sensing_ event focuses on the animate participant’s experiencing of the stimulus; it is neutral as
+to whether this experience was intentional or accidental. In the case of an _attending_ event, by
 contrast, an experiencer is depicted as intentionally focusing on a target. Languages may
-express the difference lexically, as is done in the English verbs see vs look and hear vs listen,
-but not in the verbs smell, taste or feel, where the same term can be used for both sensing and
+express the difference lexically, as is done in the English verbs _see_ vs _look_ and _hear_ vs _listen_,
+but not in the verbs _smell_, _taste_ or _feel_, where the same term can be used for both sensing and
 attending. In either event the experiencer will be subject of the verb, and the verb will usually
 be transitive. A matter to be investigated is the way in which intent is signalled in the basic
 sensory verbs in Oceanic languages, and its corollary, whether, for each of the basic senses, a
@@ -24440,7 +24436,7 @@ may then, at least for sight and hearing, be limited to acknowledgement of the p
 seen/it is heard’ or even acknowledgement of the ability to be perceived ‘it is visible/audible’.
 More commonly, further information may be given by a qualifier in the case of all five senses
 ‘it looks fine/it sounds awful/it smells sour etc.’. The degree to which languages use the same
-verb polysemously varies widely. In English, for example, smell, taste and feel can all be used
+verb polysemously varies widely. In English, for example, _smell_, _taste_ and _feel_ can all be used
 with experiencer or stimulus as subject, while see and hear may use a related or different
 lexeme for stimulus-subject.
 
@@ -24455,7 +24451,7 @@ verb active or stative? Does it take as subject (or highest-ranked argument) an 
 Undergoer? The intransitive forms of many verbs of process or change of state, such as those
 that mean ‘open’, ‘close’, ‘break’, ‘cut’, ‘split’, ‘burn’ and ‘block’ are typically stative, taking
 as subject the thing that undergoes the process. Many intransitive verbs, both active and
-stative, can be transitivised by adding (a) a transitive suffix of the form –i or –(C)i (where C is
+stative, can be transitivised by adding (a) a transitive suffix of the form _–i_ or _–(C)i_ (where _C_ is
 a variable consonant) and (b) an object pronoun suffix or clitic; or simply by adding (b).
 
     Sometimes a language will use a single perception verb form polysemously to represent
@@ -24483,17 +24479,17 @@ All Oceanic languages have at least one transitive verb whose primary sense is �
 which may also mean ‘look at s.t.’). The experiencer is the subject and the source/stimulus the
 direct object. Typically they also have a number of transitive verbs for intentional visual
 activities comparable, for example, to English ‘peer’, ‘peep’, ‘glance’, ‘gaze’ and ‘stare’. Verbs
-which we might call ‘verbs of directed looking’ (look around, up, down, in, out, over, away, into
+which we might call ‘verbs of directed looking’ (_look around_, _up_, _down_, _in_, _out_, _over_, _away_, _into_
 etc.) are likely to be expressed in Oceanic languages by a serial verb construction or by a
 combination of verb and directional marker (cf. Ross 2003b:256; Ross 2004a).
 
     Verbs of seeing and looking may also be used intransitively with the perceiver as subject.
-Examples are Motu ita (VI) ‘see, look’, ita-i- (VT) ‘look at s.t.’, Arosi rio (VI) ‘see’, rios-i (VT)
-‘look at s.t.’, and Wayan Fijian tola ‘see, look’, tolav-i- ‘see s.t.’.
+Examples are Motu _ita_ (VI) ‘see, look’, _ita-i-_ (VT) ‘look at s.t.’, Arosi _rio_ (VI) ‘see’, _rios-i_ (VT)
+‘look at s.t.’, and Wayan Fijian _tola_ ‘see, look’, _tolav-i-_ ‘see s.t.’.
 
 492 Meredith Osmond and Andrew Pawley
 
-    POc *kita (VI) ‘see’, *kita-i- (VT) ‘see s.t.’ is a well-supported reconstruction with reflexes
+    POc _*kita_ (VI) ‘see’, _*kita-i-_ (VT) ‘see s.t.’ is a well-supported reconstruction with reflexes
 in both Western Oceanic and Eastern Oceanic languages. It is also noteworthy that a number
 of Eastern Oceanic languages have extended the meaning of their reflexes to include ‘know’
 and ‘understand’.[3]
@@ -24507,12 +24503,12 @@ POc *kita-i- (VT) ‘see s.t.’
   NNG: Matukar               ita               ‘see’
   NNG: Manam                 ita               ‘see, look at’
   PT:     Gumawana           gita              (VI) ‘see’
-  PT:     Gumawana           gite-             (VT) ‘see s.t.’ (*-a > e, assimilation)
+  PT:     Gumawana           gite-             (VT) ‘see s.t.’ (_*-a_ > _e_, assimilation)
   PT:     Dobu               ʔita              (VT) ‘see, look’
   PT:     Balawaia           ɣita              ‘see’
   PT:     Motu               ita               (VI) ‘see, look’
   PT:     Motu               ita-i-            (VT) ‘look at s.t.’
-  MM: Meramera               ite               ‘see’ (*-a > e, assimilation)
+  MM: Meramera               ite               ‘see’ (_*-a_ > _e_, assimilation)
   NCV: Lo-Toga               itɛ               ‘see’
   NCV: Raga                  ɣita              ‘see’
   SV: Kwamera                ata, ati    (VI, VT) ‘see, look, regard, understand’
@@ -24529,11 +24525,11 @@ PPn *kite ‘see, appear, know’ (*-a > e, assimilation)
 >
 
     There are a number of competing reconstructions with some claim to be the general term for
-‘see’. Reflexes of *kita and *reki[-] (with doublet *reqi[-]) occur almost in complementary
+‘see’. Reflexes of _*kita_ and _*reki[-]_ (with doublet _*reqi[-]_) occur almost in complementary
 distribution (with some overlap in North New Guinea), and a distinction in meaning between
-them cannot be clearly identified. Both *reki[-] and *reqi[-] are reconstructable to POc with no
+them cannot be clearly identified. Both _*reki[-]_ and _*reqi[-]_ are reconstructable to POc with no
 clear difference in meaning. Only Bugotu and Gela reflect both members of this pair with the
-reflex of *reki[-] referring to seeing and the reflex of *reqi to directed looking.
+reflex of _*reki[-]_ referring to seeing and the reflex of _*reqi_ to directed looking.
 
 <
 POc *reki[-], *reqi[-] ‘see, look, see s.t., look at s.t.’
@@ -24549,7 +24545,7 @@ POc *reki[-], *reqi[-] ‘see, look, see s.t., look at s.t.’
  MM:  Babatana       ri            ‘see’
  SES: Bugotu         reɣi          (VT) ‘see’
  SES: Bugotu         rei           ‘look’
- SES: Gela           riɣi          (VT) ‘see’ (rigi sondo ‘to find’, rigi puku ‘see clearly’, rigitaoni ‘look after, take care of’)
+ SES: Gela           riɣi          (VT) ‘see’ (_rigi sondo_ ‘to find’, _rigi puku_ ‘see clearly’, _rigitaoni_ ‘look after, take care of’)
  SES: Gela           rei           ‘see, look’ (in compounds meaning ‘look up/about/here/round, stare at, squint’ etc)
  SES: Lau            riki-a        ‘see’
  SES: To’aba’ita     riki-a        (VT) ‘see, look at, watch’
@@ -24561,15 +24557,15 @@ POc *reki[-], *reqi[-] ‘see, look, see s.t., look at s.t.’
  Fij: Bauan          rai-ða        (VT) ‘see s.t.’
 >
 
-[3] Some Proto Central Pacific languages identify a “sixth sense”. PCP *ki[t,d]a-vi (VT) ‘to sense without
+[3] Some Proto Central Pacific languages identify a “sixth sense”. PCP _*ki[t,d]a-vi_ (VT) ‘to sense without
     actually seeing, hearing, etc., have a premonition that s.t. will happen’, is reconstructable based on
     reflexes in Bauan and Wayan Fijian, Tongan, Samoan, Maori and Rarotongan. This is doubtless cognate
-    with POc *kita ‘to see’.
+    with POc _*kita_ ‘to see’.
 
                                                                                 Perception 493
 
 
-   Reflexes of *liqos also suggest that its POc meaning referred to directed looking.
+   Reflexes of _*liqos_ also suggest that its POc meaning referred to directed looking.
 
 <
 POc *liqos (VI) ‘look, see’
@@ -24579,7 +24575,7 @@ POc *liqos-i- (VT) ‘look at s.t., see s.t.’
   SES: ’Are’are             rio                 ‘see, look, be awake’ (in many compounds: ‘look for, around’ etc)
   SES: To’aba’ita           lio                 (VI) ‘look, look after’
   SES: To’aba’ita           lio(nūna)           (VT) ‘look at oneself (as in a mirror)’
-  SES: Kwaio                lia                 (VI) ‘see, look’ (*o > a irregular)
+  SES: Kwaio                lia                 (VI) ‘see, look’ (_*o_ > _a_ irregular)
   SES: Kwaio               lias-i-             (VT) ‘see s.t.’
   SES: Sa’a                 lio, lio-lio        (VI) ‘to look, see, be awake’
   SES: Ulawa                liosi-              (VT) ‘see s.t.’
@@ -24602,10 +24598,10 @@ PMic *lō, *lō-Si ‘see’ (Bender et al.)
 494 Meredith Osmond and Andrew Pawley
 
 
-   Another putative POc reconstruction, *ta(d,dr)aq has reflexes in a number of Meso-
-Melanesian languages that predominantly mean ‘see’. In other subgroups its reflexes more
+   Another putative POc reconstruction, _*ta(d,dr)aq_ has reflexes in a number of Meso-Melanesian
+languages that predominantly mean ‘see’. In other subgroups its reflexes more
 often mean ‘look at’, ‘observe’ (Micronesian) or to ‘look upwards’ (North New Guinea and
-South East Solomonic). If POc *ta(d,dr)aq proves to be related to PMP *tiŋadaq ‘look up,
+South East Solomonic). If POc _*ta(d,dr)aq_ proves to be related to PMP _*tiŋadaq_ ‘look up,
 look skyward’, reconstructed by Dempwolff (1938), it would support the ‘look upwards’
 gloss.
 
@@ -24613,7 +24609,7 @@ gloss.
 POc *ta(d,dr)aq (VI) ‘look, look up’
 POc *ta(d,dr)aq-i- (VT) ‘see s.t., look up at s.t.’
   Adm: Mussau              tara                 ‘to look’
-  Adm: Mussau              tara(kila)           ‘recognise’ (kila ‘know (people)’)
+  Adm: Mussau              tara(kila)           ‘recognise’ (_kila_ ‘know (people)’)
   Adm: Tenis               tara-ie              ‘see’
   NNG: Manam               tada                 (VI) ‘look up’
   NNG: Manam               tada-li-             (VT) ‘look up to s.o., s.t.’
@@ -24624,7 +24620,7 @@ POc *ta(d,dr)aq-i- (VT) ‘see s.t., look up at s.t.’
   MM: Teop                 tara                 ‘see’
 Proto Southeast Solomonic *tada, *tadaq-i- ‘look at s.t., look up to s.t.’
   SES: Bugotu              tada                 ‘look up’
-  SES: Gela                tada                 ‘face up, upwards’ (tada-tada (VT) ‘look up’)
+  SES: Gela                tada                 ‘face up, upwards’ (_tada-tada_ (VT) ‘look up’)
   SES: Lau                 ada                  (VI) ‘to open the eyes, use the eyes; see, look’
   SES: Kwai                ada                  ‘see’
   SES: Arosi               āda                  (VI) ‘look up, raise the eyes’
@@ -24638,10 +24634,10 @@ Proto Southeast Solomonic *tada, *tadaq-i- ‘look at s.t., look up to s.t.’
 >
 
    Proto Oceanic also had a number of lexemes of visual perception carrying additional
-information as to manner, duration, purpose etc. We have reconstructed POc *tirop, *tirop-i
-‘look intently’, *kilop, *kilop-i ‘glance, glimpse’, *kilat ‘see clearly, discern, recognise’, and
-*(s,j)ila(k) ‘look sideways, glance around’. Similarities of form between *tirop, *kilop and
-*kila(t) may have led to some crossover of meaning in reflexes.
+information as to manner, duration, purpose etc. We have reconstructed POc _*tirop_, _*tirop-i_
+‘look intently’, _*kilop_, _*kilop-i_ ‘glance, glimpse’, _*kilat_ ‘see clearly, discern, recognise’, and
+_*(s,j)ila(k)_ ‘look sideways, glance around’. Similarities of form between _*tirop_, _*kilop_ and
+_*kila(t)_ may have led to some crossover of meaning in reflexes.
 
                                                                                     Perception 495
 
@@ -24649,45 +24645,45 @@ information as to manner, duration, purpose etc. We have reconstructed POc *tiro
 PMP *tin[d]ap ‘look intently’ (Dempwolff)
 POc *tirop (VI) ‘look intently, as at reflection or searching for lice’
 POc *tirop-i- (VT) ‘look at s.t., look for s.t. intently’
-  NNG: Gitua           tiro                  ‘look for’
-  NNG: Medebur         (i)tir(to)            ‘look for’
-  NNG: Wogeo           (i-ti)tiri            ‘look for’
-  MM:  Roviana         ti-tiro               ‘search for’
-  MM:  Roviana         tiro                  ‘to read’
-  MM:  Roviana         tiro(ana)             ‘a mirror’
-  SES: Bugotu          tiro                  (V) ‘to look’; (N) ‘a pool, window glass, mirror’
-  SES: To’aba’ita      iro                   (VI) ‘look for s.t., search’ (takes an oblique object)
-  SES: To’aba’ita      iro-a                 (VT) ‘look or search for s.o., s.t.’
-  SES: Lau             iro                   (VI) ‘look’
-  SES: Lau             irof-i-               (VT) ‘look at s.t. fixedly, look for s.t.’
-  SES: Kwaio           ilo                   ‘look at’
-  SES: Kwaio           |ilo(i falaina)|        ‘search hair (i.e. for lice)’ (falaina ‘hair’)
-  SES: Kwaio           ilo(nunu)             ‘a reflecting pool or mirror’ (nunu ‘shadow, image, picture’)
-  SES: ‘Are’are        iro                   ‘look for, collect’
-  SES: ‘Are’are        iro-iro               (N) ‘reflection, mirror’
-  SES: Sa’a            iro, iro-iro          (VT) ‘look for, collect s.t.’
-  SES: Sa’a            iroh-i-               (VT) ‘clear the head of lice’
-  SES: Sa’a            iro-iro               (N) ‘a pool among rocks used as a mirror’
-  SES: Arosi           iro                   (VI) ‘look for, collect’
-  SES: Arosi           iroh-i-               (VT) ‘look into, gaze into s.t., look at s.t.’
-  SES: Arosi           (ha)iroh-i-           ‘look for lice in the hair’ (ha- ‘verbal prefix’)
-  NCV: Mota            tiro                  (VI) ‘be clear’
-  NCV: Mota            tiro(nin)             (N) ‘a little pool of water used as a mirror’ (nin ‘shadow, reflection’)
-  NCV: Tamambo         tiro                  ‘look’
-  NCV: Raga            siro-i                (VT) ‘look steadfastly at s.t.’
-  NCV: N Efate         ti-tiro               (N) ‘mirror’
-  Mic: Woleaian        suẓo                  (VI) ‘look, watch, glance’
-  Fij: Wayan           tidro                 (VI) ‘look, peer, watch attentively’
-  Fij: Wayan           tidrov-i-             (VT) ‘take a close look at s.t.’
+  NNG: Gitua           tiro               ‘look for’
+  NNG: Medebur         (i)tir(to)         ‘look for’
+  NNG: Wogeo           (i-ti)tiri         ‘look for’
+  MM:  Roviana         ti-tiro            ‘search for’
+  MM:  Roviana         tiro               ‘to read’
+  MM:  Roviana         tiro(ana)          ‘a mirror’
+  SES: Bugotu          tiro               (V) ‘to look’; (N) ‘a pool, window glass, mirror’
+  SES: To’aba’ita      iro                (VI) ‘look for s.t., search’ (takes an oblique object)
+  SES: To’aba’ita      iro-a              (VT) ‘look or search for s.o., s.t.’
+  SES: Lau             iro                (VI) ‘look’
+  SES: Lau             irof-i-            (VT) ‘look at s.t. fixedly, look for s.t.’
+  SES: Kwaio           ilo                ‘look at’
+  SES: Kwaio           |ilo(i falaina)|     ‘search hair (i.e. for lice)’ (_falaina_ ‘hair’)
+  SES: Kwaio           ilo(nunu)          ‘a reflecting pool or mirror’ (nunu ‘shadow, image, picture’)
+  SES: ‘Are’are        iro                ‘look for, collect’
+  SES: ‘Are’are        iro-iro            (N) ‘reflection, mirror’
+  SES: Sa’a            iro, iro-iro       (VT) ‘look for, collect s.t.’
+  SES: Sa’a            iroh-i-            (VT) ‘clear the head of lice’
+  SES: Sa’a            iro-iro            (N) ‘a pool among rocks used as a mirror’
+  SES: Arosi           iro                (VI) ‘look for, collect’
+  SES: Arosi           iroh-i-            (VT) ‘look into, gaze into s.t., look at s.t.’
+  SES: Arosi           (ha)iroh-i-        ‘look for lice in the hair’ (ha- ‘verbal prefix’)
+  NCV: Mota            tiro               (VI) ‘be clear’
+  NCV: Mota            tiro(nin)          (N) ‘a little pool of water used as a mirror’ (_nin_ ‘shadow, reflection’)
+  NCV: Tamambo         tiro               ‘look’
+  NCV: Raga            siro-i             (VT) ‘look steadfastly at s.t.’
+  NCV: N Efate         ti-tiro            (N) ‘mirror’
+  Mic: Woleaian        suẓo               (VI) ‘look, watch, glance’
+  Fij: Wayan           tidro              (VI) ‘look, peer, watch attentively’
+  Fij: Wayan           tidrov-i-          (VT) ‘take a close look at s.t.’
 PPn *tiro ‘look, observe’
 PPn *tirof-i ‘gaze at s.t.’
-  Pn:  Niuean          tio                   ‘glance’
-  Pn:  Tongan          sio                   (VI) ‘look, see’
-  Pn:  Tongan          siof-i                (VT) ‘keep one’s eyes fixed on s.t’
-  Pn:  Tongan          sio-ʔi                ‘peer at, look at in a critical or offensive way’
-  Pn:  W Futunan       jiro-a                ‘look carefully, search for’
-  Pn:  Pukapukan       tilo                  ‘gaze upon’
-  Pn:  Samoan          tilo-tilo             ‘peep, peer, survey, look over’
+  Pn:  Niuean          tio                ‘glance’
+  Pn:  Tongan          sio                (VI) ‘look, see’
+  Pn:  Tongan          siof-i             (VT) ‘keep one’s eyes fixed on s.t’
+  Pn:  Tongan          sio-ʔi             ‘peer at, look at in a critical or offensive way’
+  Pn:  W Futunan       jiro-a             ‘look carefully, search for’
+  Pn:  Pukapukan       tilo               ‘gaze upon’
+  Pn:  Samoan          tilo-tilo          ‘peep, peer, survey, look over’
   Pn:  Samoan          tilof-i-a          ‘be looked at, gazed at’
   Pn:  Tikopia         tiro-tiro          ‘look in pool as a mirror’
   Pn:  Maori           tiro, ti-tiro      (VI) ‘look, look into, examine’
@@ -24696,9 +24692,8 @@ PPn *tirof-i ‘gaze at s.t.’
 496 Meredith Osmond and Andrew Pawley
 
 
-   POc *kilop, *kilop-i- is reconstructable on the basis of two Polynesian witnesses with
-support from external witnesses in western Malayo-Polynesian and Central Malayo-
-Polynesian.
+   POc _*kilop_, _*kilop-i-_ is reconstructable on the basis of two Polynesian witnesses with
+support from external witnesses in western Malayo-Polynesian and Central Malayo-Polynesian.
 
 <
 PMP *kilep ‘glance, glimpse’ (ACD)
@@ -24717,7 +24712,7 @@ and active forms, based on evidence from Micronesian and Polynesian languages.
 <
 PMP *kilat ‘open the eyes wide’ (ACD)
 POc *kilat (VI, U-verb) ‘be seen clearly, discerned, recognised’; (VT) ‘see clearly, discern, recognise’
- NCV: Araki               kila              ‘look, watch in a certain direction’ (k usually reflects POc *g)
+ NCV: Araki               kila              ‘look, watch in a certain direction’ (_k_ usually reflects POc _*g_)
  NCV: Tolomako            kile-             ‘see’
  NCV: Atchin              kila              ‘look round, down’
  NCV: Avava               kil-kila          ‘look, open eyes’
@@ -24725,16 +24720,16 @@ POc *kilat (VI, U-verb) ‘be seen clearly, discerned, recognised’; (VT) ‘se
  Mic: Chuukese            kira              (VT) ‘see, behold, find s.t.’
  Mic: Chuukese            kira-             (VI) ‘be seen, found’ (in compounds only)
  Mic: Ponapean            kila(ŋ)           (VT) ‘see, discern, look at, observe, examine’
- Mic: Woleaian            xa-xira           (VT) ‘recognise it’ (xa- CAUS)
+ Mic: Woleaian            xa-xira           (VT) ‘recognise it’ (_xa-_ CAUS)
  Mic: Woleaian            xira              (VSt) ‘be clear, seen clearly, recognised’
  Pn:     Tongan           ki-kila           (VI) ‘look with wide-open eyes’
  Pn:     Rennellese       kiga              (VSt) ‘be clearly seen, in plain sight’
 >
 
-The Wayan verb kilāti- ‘know’ conflates a form reflecting *kilat with the sense ‘know’, the result
-perhaps of a blending of a reflex of *kilat with a reflex of *kila[la] ‘know’ (§10.2).
+The Wayan verb _kilāti-_ ‘know’ conflates a form reflecting _*kilat_ with the sense ‘know’, the result
+perhaps of a blending of a reflex of _*kilat_ with a reflex of _*kila[la]_ ‘know’ (§10.2).
 
-    Polynesian reflexes of POc *(s,j)ila(k) ‘glance around’ sometimes refer to the mental
+    Polynesian reflexes of POc _*(s,j)ila(k)_ ‘glance around’ sometimes refer to the mental
 attitudes attributed to someone glancing at something or somebody.
 
                                                                                    Perception 497
@@ -24749,7 +24744,7 @@ PPn *sila ‘glance, look sideways’ (POLLEX)
   Pn:     Tongan             hila              (VI) ‘turn eyes away, glance’
   Pn:     Tongan             hila-ʔi           (VT) ‘glance at s.t., look at sideways’
   Pn:     Tongan             hile-hila         ‘keep glancing’
-  Pn:     Niuean             hela              (VI) ‘to glance, look around furtively’ (*i > e irreg.)
+  Pn:     Niuean             hela              (VI) ‘to glance, look around furtively’ (_*i_ > _e_ irreg.)
   Pn:     Niuean             he-hela            (VI) ‘look, appear’
   Pn:     Niuean             hela-hela          (VI) ‘glance around’
   Pn:     Rennellese        siga               ‘look at, glance’
@@ -24767,18 +24762,18 @@ between seeing and knowing. That vision is our primary source of objective data 
 world is supported by child-language studies and by cross-linguistic studies of evidentials
 (Sweetser 1990:39). In Oceanic languages a seeing verb always refers to sight alone, never
 including other senses. The association between seeing and knowing is illustrated in reflexes
-of POc *kita and *re(k,q)i above and of POc *qilo below. The latter has been tentatively
+of POc _*kita_ and _*re(k,q)i_ above and of POc _*qilo_ below. The latter has been tentatively
 reconstructed as ‘be aware of, discern, see’. The most detailed evidence is from the Polynesian
 glosses, and this indicates that ‘know, be aware, recognize, notice’ is the core meaning, with
 ‘see’ as an extension.
 
 <
 POc *qilo ‘be aware of, discern, see’
- MM:  Nakanai      hilo               ‘to see’ (cf. liho ‘to see, look at’)
- MM:  Nakanai      hilo(tavu)         ‘to think of, keep in mind’ (tavu ‘have contact with’)
+ MM:  Nakanai      hilo               ‘to see’ (cf. _liho_ ‘to see, look at’)
+ MM:  Nakanai      hilo(tavu)         ‘to think of, keep in mind’ (_tavu_ ‘have contact with’)
  NCV: Mota         ilo                 ‘see’
  NCV: Raga         ilo                 ‘know, perceive’
- NCV: Tamambo      (h)ilo              (VI) ‘look while facing’ (h irregular)
+ NCV: Tamambo      (h)ilo              (VI) ‘look while facing’ (_h_ irregular)
  Fij: Wayan        ilo-ilo             (VI) ‘look, observe, watch’; (N) ‘glass (generic); mirror, looking glass’
  Fij: Wayan        ilo-vi-             (VT) ‘notice, observe s.t.’
  Fij: Bauan        ilo                 ‘look at, as a reflection in water or in a mirror’
@@ -24793,18 +24788,18 @@ PPn *qilo ‘perceive, be aware of’ (POLLEX: ‘to know’)
 498 Meredith Osmond and Andrew Pawley
 
 
-Gedaged (NNG) il (V) ‘look at, behold, discern, perceive’; (N) ‘sight, view’ could reflect either
-*qilo or *kita, and we have no way of choosing between them.
+Gedaged (NNG) _il_ (V) ‘look at, behold, discern, perceive’; (N) ‘sight, view’ could reflect either
+_*qilo_ or _*kita_, and we have no way of choosing between them.
 
-    We have considered the possibility that *qilo derives from POc *liqos (see above) by
-metathesis. Certainly the set of cognates supporting *qilo is in near-complementary
-distribution (according to subgroups) with those supporting *liqos. One could argue that
-Nakanai hilo is an independent development from the metathesis in Remote Oceanic
-languages. However, the semantic range of reflexes of *qilo, especially in Polynesian, appears
-to differ from *liqos reflexes.
+    We have considered the possibility that _*qilo_ derives from POc _*liqos_ (see above) by
+metathesis. Certainly the set of cognates supporting _*qilo_ is in near-complementary
+distribution (according to subgroups) with those supporting _*liqos_. One could argue that
+Nakanai _hilo_ is an independent development from the metathesis in Remote Oceanic
+languages. However, the semantic range of reflexes of _*qilo_, especially in Polynesian, appears
+to differ from _*liqos_ reflexes.
 
-    A number of additional Polynesian forms are derived from POc *qilo. These forms are
-cited because they throw further light on the semantic range of *qilo.
+    A number of additional Polynesian forms are derived from POc _*qilo_. These forms are
+cited because they throw further light on the semantic range of _*qilo_.
 
 <
 PPn *qiloqilo ‘be wise, aware’
@@ -24863,19 +24858,19 @@ PWOc *nasi- (VT) ‘look at, see’
  MM: Siar                 nos                 ‘look for’
 >
 
-    Although POc verbs like *kita ‘see’, *kita-i- ‘see s.t.’ and POc *liqo(s) (VI) ‘see, look’,
-*liqos-i- (VT) ‘see s.t., look at s.t.’ have both a transitive and intransitive form, their reflexes
-tend to occur in utterances with a specific object. *liqos-i- or one of the other reconstructed
+    Although POc verbs like _*kita_ ‘see’, _*kita-i-_ ‘see s.t.’ and POc _*liqo(s)_ (VI) ‘see, look’,
+_*liqos-i-_ (VT) ‘see s.t., look at s.t.’ have both a transitive and intransitive form, their reflexes
+tend to occur in utterances with a specific object. _*liqos-i-_ or one of the other reconstructed
 ‘look’ forms can be used to signal that the act is intentional or more tightly focused.
 
    It is rare for a seeing verb to be able to take either experiencer or stimulus as subject. We
-have reconstructed a single verb, POc *kila(t) (U-verb) ‘be seen clearly, discerned,
+have reconstructed a single verb, POc _*kila(t)_ (U-verb) ‘be seen clearly, discerned,
 recognised’, (A-verb) ‘see clearly, discern, recognise’, where reflexes in Micronesia and
 Polynesia show that the same verb may carry either interpretation. Elsewhere, we have located
 examples where a seeing verb is used intransitively as a stative verb with source as subject
-only in the Tongan and E Futunan reflexes of *kita with meaning ‘appear, come into view’.
+only in the Tongan and E Futunan reflexes of _*kita_ with meaning ‘appear, come into view’.
 Evans (2003:68) concurs with respect to their rarity, but remains open as to whether
-intransitive *kita was (in Evans’ terms) Actor or Undergoer subject, or perhaps either. The
+intransitive _*kita_ was (in Evans’ terms) Actor or Undergoer subject, or perhaps either. The
 balance of the evidence favours Actor subject only.
 
 
@@ -24883,12 +24878,12 @@ balance of the evidence favours Actor subject only.
 
 All languages in our sample have a transitive verb with ‘hear s.t.’ as one of its senses or its only
 sense, though in a number of Eastern Oceanic languages this verb may be extended to
-perceiving by non-visual senses. POc *roŋoR- ‘hear s.t.’ is generally reconstructed. However,
+perceiving by non-visual senses. POc _*roŋoR-_ ‘hear s.t.’ is generally reconstructed. However,
 there are certain problems associated with the formal reconstruction, to be discussed below.
 
-    A substantial number of reflexes of *roŋoR-, distributed across different high-order
+    A substantial number of reflexes of _*roŋoR-_, distributed across different high-order
 subgroups, carry the meaning ‘listen (to s.t. or s.o.)’, and it is likely that this sense was part of
-its semantic range in POc. An intransitive form, POc *roŋoR ‘hear’, is also reconstructable. In
+its semantic range in POc. An intransitive form, POc _*roŋoR_ ‘hear’, is also reconstructable. In
 just a few languages this form is reflected as a stative verb, ‘be heard’, with the sound or its
 source as subject. We have located reflexes with the meaning ‘[be] heard’ only in Gela, the
 Fijian languages and Tongan. This limited distribution suggests that the stative use has been
@@ -24904,28 +24899,28 @@ derived from verbs of perception. Oceanic speakers have a considerable vocabular
 names of particular sounds, typically using them as both noun and verb. One of the more
 common ones is a reflex of POc *taŋis, an intransitive verb usually translated by ‘cry’, used to
 describe any sound characteristic of its source, as a cock crowing, dog howling, drum beating
-etc. In To’aba’ita, for instance, one could say suʔari e aŋi ka ƒaluƒalu ‘the drum is
-loud’ (suʔari ‘drum’, aŋi ‘to cry’, ƒaluƒalu ‘sound loudly, of a drum’ (lit. ‘The drum is making
-a sound and it is loud’.) Samoan uses a term for ‘voice’, leo with verbal meaning ‘sound’ as in
-e leo taʔe ‘it sounds cracked’ (taʔe ‘cracked’). The following is a random sample of sound
-terms: Tolai tin ‘sound, as a coconut falling to the ground’, del ‘sound as the beating of a
-drum’, luluga (N,VI) ‘sound, as wind or rain’; To’aba’ita ākwaʔa ‘make a slapping sound, as of
-a flat object’, ŋalu ‘of the sound of talking, be audible’, kutakuta ‘make a relatively loud,
-vibrating, pulsating sound’; Niuean pakō ‘make a knocking sound’, kalī ‘make a rustling
-sound’, pakē ‘make a light crackling sound’.
+etc. In To’aba’ita, for instance, one could say _suʔari e aŋi ka ƒaluƒalu_ ‘the drum is
+loud’ (_suʔari_ ‘drum’, _aŋi_ ‘to cry’, _ƒaluƒalu_ ‘sound loudly, of a drum’ (lit. ‘The drum is making
+a sound and it is loud’.) Samoan uses a term for ‘voice’, _leo_ with verbal meaning ‘sound’ as in
+_e leo taʔe_ ‘it sounds cracked’ (_taʔe_ ‘cracked’). The following is a random sample of sound
+terms: Tolai _tin_ ‘sound, as a coconut falling to the ground’, _del_ ‘sound as the beating of a
+drum’, _luluga_ (N,VI) ‘sound, as wind or rain’; To’aba’ita _ākwaʔa_ ‘make a slapping sound, as of
+a flat object’, _ŋalu_ ‘of the sound of talking, be audible’, _kutakuta_ ‘make a relatively loud,
+vibrating, pulsating sound’; Niuean _pakō_ ‘make a knocking sound’, _kalī_ ‘make a rustling
+sound’, _pakē_ ‘make a light crackling sound’.
 
     Listening to something is sometimes given an extended cognitive meaning. In a number of
 languages (Gedaged, Nakanai, Nehan, Sursurunga, Sa’a), ‘hear/listen’ has been extended to
-‘understand’.4 A different extension of meaning is noted in many Southeast Solomonic and
+‘understand’.[4] A different extension of meaning is noted in many Southeast Solomonic and
 Central Pacific witnesses, where the meaning ‘obey, take notice of s.o.’ is present alongside
-‘hear, listen’. In Lakon (NCV) ruŋ means ‘hear, feel’, but also ‘obey’ and ‘know’ (Alexandre
+‘hear, listen’. In Lakon (NCV) _ruŋ_ means ‘hear, feel’, but also ‘obey’ and ‘know’ (Alexandre
 François, pers. comm.). In Central Pacific languages this sense is usually associated with
-reflexes of *paka-roŋoR, which contains the intensifying prefix *paka-.
+reflexes of _*paka-roŋoR_, which contains the intensifying prefix _*paka-_.
 
     Certain difficulties arise in the reconstruction of the POc form(s) for ‘hear’. We concur
-with Blust (ACD) who proposes POc *roŋoR, with initial *r, as the regular continuation of
-PMP *deŋeR. This is supported by non-Oceanic, Eastern Oceanic and Schouten evidence.
-*loŋoR was a Western Oceanic variant, reflected in all WOc languages in which reflexes
+with Blust (ACD) who proposes POc _*roŋoR_, with initial _*r_, as the regular continuation of
+PMP _*deŋeR_. This is supported by non-Oceanic, Eastern Oceanic and Schouten evidence.
+_*loŋoR_ was a Western Oceanic variant, reflected in all WOc languages in which reflexes
 occur, except in the Schouten languages (Wogeo, Kaiep, Kairuru, Ali, Sissano and Sera).
 
 <
@@ -24974,15 +24969,15 @@ PCP *vaka-roŋo ‘listen, heed, obey’
 >
 
 [4] There are examples in Oceanic languages where ‘understand’ is also an extension of ‘see’, e.g.
-    Kwamera ata ‘see, look, regard, understand’ and Niuean kite ‘see, learn, understand, know’, both
-    reflexes of POc *kita ‘see’.
+    Kwamera _ata_ ‘see, look, regard, understand’ and Niuean _kite_ ‘see, learn, understand, know’, both
+    reflexes of POc _*kita_ ‘see’.
 
                                                                                 Perception 501
 
 
-   Variants with final *-n occur both with *r- initial and *l- initial forms, as in the following
-cognate set. Kove and Malalamai forms reflect either *roŋoR or *loŋoR, but given that all
-surrounding languages reflect *l- it would be odd if they did not.
+   Variants with final _*-n_ occur both with _*r-_ initial and _*l-_ initial forms, as in the following
+cognate set. Kove and Malalamai forms reflect either _*roŋoR_ or _*loŋoR_, but given that all
+surrounding languages reflect _*l-_ it would be odd if they did not.
 
 <
 POc *(r,l)oŋon ‘hear’
@@ -25008,11 +25003,11 @@ POc *(r,l)oŋon ‘hear’
 502 Meredith Osmond and Andrew Pawley
 
 
-   Ross has hypothesised that the change in the final *-R to *-n and in the initial *r- to *l- was
-dissimilatory: to avoid two different trills (*R and *r) in the same very common word
+   Ross has hypothesised that the change in the final _*-R_ to _*-n_ and in the initial _*r-_ to _*l-_ was
+dissimilatory: to avoid two different trills (_*R_ and _*r_) in the same very common word
 (Malcolm Ross, pers. comm.).
 
-   The following cognate set brings together some of the languages that reflect initial *l-:
+   The following cognate set brings together some of the languages that reflect initial _*l-_:
 
 <
 POc *loŋoR (VI) ‘hear’
@@ -25022,7 +25017,7 @@ POc *loŋoR-i- (VT) ‘hear/listen to s.t.’
  NNG: Gedaged        (i)loŋ          ‘know, have knowledge of, be aware of, hear, learn, perceive, understand’
  PT:  Bwaidoga       nogala          ‘hear, listen to’
  PT:  Gumawana       nowo            ‘perceive s.t.; hear, listen, smell, sense s.t.’
- PT:  Tawala         nonola          ‘hear, smell’ (for †nogola)
+ PT:  Tawala         nonola          ‘hear, smell’ (for †_nogola_)
  PT:  Kilivila       lagi            ‘hear, listen’
  PT:  Sudest         loŋʷe           ‘hear’
  MM: Bali            loŋor-i         ‘hear’
@@ -25039,15 +25034,15 @@ POc *loŋoR-i- (VT) ‘hear/listen to s.t.’
  MM: Nehan           loŋoro          ‘hear, understand’
 >
 
-[5] In Samoan and other Nuclear Polynesian languages PPn *roŋo-na ‘be heard’ shows an irregular change
-    *o > a in the first vowel.
+[5] In Samoan and other Nuclear Polynesian languages PPn _*roŋo-na_ ‘be heard’ shows an irregular change
+    _*o_ > _a_ in the first vowel.
 
                                                                                   Perception 503
 
 
-    The next set, although theoretically supporting a putative POc *noŋo(-noŋo), may simply
-reflect a number of parallel changes to *loŋoR or *roŋoR in which different languages
-independently assimilated initial *l- or *r- to the medial nasal.
+    The next set, although theoretically supporting a putative POc _*noŋo(-noŋo)_, may simply
+reflect a number of parallel changes to _*loŋoR_ or _*roŋoR_ in which different languages
+independently assimilated initial _*l-_ or _*r-_ to the medial nasal.
 
 __formgroup__
   Adm: Mussau               noŋo-noŋo            ‘hear’
@@ -25068,18 +25063,18 @@ direct object. Some examples follow.
 : Table 20       Some verbs of smelling that take both actor and source as subject
 
 __table__
-                       Intransitive                                 transitive
-      PT: Saliba       pane          ‘emit a smell’                 pane-      ‘smell s.t.’
-      MM: Minigir      saŋina        ‘to stink’                     saŋine- ‘smell s.t.’
-      MM: Tolai        aŋina         ‘s.t. smell (sweet etc.)’      aŋine      ‘smell s.t.’
-      SES: Gela        aŋi           ‘emit strong smell’            aŋi-hi     ‘smell s.t.’
-      SES: Kwaio       moko          ‘to smell, stink’              moko-fi ‘smell s.t.’
-      Fij: Wayan       garu + modif. ‘to smell of s.t.’             garu-ti    ‘smell s.t.’
-      Pn: Tongan       namu          ‘emit smell’                   nāmu-ʔi ‘smell s.t.’
+                     |  Intransitive |                           |     transitive |
+      PT: Saliba     |  _pane_         | ‘emit a smell’            |     _pane-_     |  ‘smell s.t.’
+      MM: Minigir    |  _saŋina_       | ‘to stink’                |     _saŋine-_   |  ‘smell s.t.’
+      MM: Tolai      |  _aŋina_        | ‘s.t. smell (sweet etc.)’ |     _aŋine_     |  ‘smell s.t.’
+      SES: Gela      |  _aŋi_          | ‘emit strong smell’       |     _aŋi-hi_    |  ‘smell s.t.’
+      SES: Kwaio     |  _moko_         | ‘to smell, stink’         |     _moko-fi_   |  ‘smell s.t.’
+      Fij: Wayan     |  _garu_ + modif.| ‘to smell of s.t.’        |     _garu-ti_   |  ‘smell s.t.’
+      Pn: Tongan     |  _namu_         | ‘emit smell’              |     _nāmu-ʔi_   |  ‘smell s.t.’
 
-   The reconstruction of POc *s[a,o]ŋin (VSt) ‘emit a smell’, *s[a,o]ŋin- (VT) ‘smell s.t.’ is
+   The reconstruction of POc _*s[a,o]ŋin_ (VSt) ‘emit a smell’, _*s[a,o]ŋin-_ (VT) ‘smell s.t.’ is
 well supported if we accept that this form underwent sporadic changes in both the initial and
-final vowel. From the range of glosses exhibited by reflexes, it seems likely that *s[a,o]ŋin
+final vowel. From the range of glosses exhibited by reflexes, it seems likely that _*s[a,o]ŋin_
 had both actor subject and source subject interpretations.
 
 <
@@ -25092,12 +25087,12 @@ POc *s[a,o]ŋin- (VT) ‘smell s.t.’
  MM:  Minigir           saŋine             (VT) ‘smell s.t.’
  MM:  Minigir           saŋina             (VSt) ‘stink’
  MM:  Tolai             aŋine              (VT) ‘smell s.t., sniff at s.t.’; (ADJ) ‘stinking, smelly’
- MM:  Tolai             aŋina              (N) ‘smell, odour’; (VSt) ‘to smell... (putrid, sweet etc.)’ (In compounds usually aŋ only, e.g. aŋ na boroi ‘to smell of pigs’)
+ MM:  Tolai             aŋina              (N) ‘smell, odour’; (VSt) ‘to smell... (putrid, sweet etc.)’ (In compounds usually _aŋ_ only, e.g. _aŋ na boroi_ ‘to smell of pigs’)
  MM:  Ramoaaina         aŋina              ‘stink’
  NCV: Avava             suŋsuŋ, suŋ        (VI, VT) ‘smell’
  NCV: Naman             nsoŋ               (VI) ‘sniff’
-PMic *saŋu ‘smell s.t.’ (Bender et al. 2003) (*i > *u irreg.)
- Mic: Kosraean          (mi)sʌŋsʌŋ         ‘smelly, stinking of urine’ (mi- ‘urine’)
+PMic *saŋu ‘smell s.t.’ (Bender et al. 2003) (_*i_ > _*u_ irreg.)
+ Mic: Kosraean          (mi)sʌŋsʌŋ         ‘smelly, stinking of urine’ (_mi-_ ‘urine’)
  Mic: Marshallese       (ya)teŋw           ‘smell s.t.’
  Mic: Puluwatese        təŋɨ-i(w)          ‘smell, sniff s.t.’
  Mic: Satawalese        ttēŋ               ‘smell’
@@ -25119,8 +25114,8 @@ cf. also:
 504 Meredith Osmond and Andrew Pawley
 
 
-  POc *quruŋ reflexes support its reconstruction as both a stative verb ‘have an odour,
-smell’, and a transitive verb *quruŋ-i (VT) ‘to smell s.t.’.
+  POc _*quruŋ_ reflexes support its reconstruction as both a stative verb ‘have an odour,
+smell’, and a transitive verb _*quruŋ-i_ (VT) ‘to smell s.t.’.
 
 <
 POc *quruŋ (VSt) ‘emit a smell’
@@ -25137,16 +25132,16 @@ cf. also:
    MM: Ramoaaina               luŋi                  ‘smell s.t.’
 >
 
-   A separate term for the action of deliberately sniffing at something, POc *asok6 ‘to sniff,
-kiss’ *asok-i ‘sniff or kiss s.t.’, is reconstructable. This term continues a PAn etymon, *Sajek.
+   A separate term for the action of deliberately sniffing at something, POc _*asok_[6] ‘to sniff,
+kiss’ _*asok-i_ ‘sniff or kiss s.t.’, is reconstructable. This term continues a PAn etymon, _*Sajek_.
 
-[6] Note the contrast of meaning with POc *pVŋu (VI) ‘blow nose, sniff, snort’.
+[6] Note the contrast of meaning with POc _*pVŋu_ (VI) ‘blow nose, sniff, snort’.
 
                                                                                              Perception 505
 
 
-In a number of SES languages this action is represented by a compound, e.g. Kwaio moko-
-toʔona (moko ‘smell’, toʔona ‘put to the test, try’), To’aba’ita makʷa-toʔona (VT) ‘check the
+In a number of SES languages this action is represented by a compound, e.g. Kwaio
+_moko-toʔona_ (_moko_ ‘smell’, _toʔona_ ‘put to the test, try’), To’aba’ita _makʷa-toʔona_ (VT) ‘check the
 smell of s.t.’.
 
 <
@@ -25169,9 +25164,9 @@ cf. also:
    Mic: Carolinian           uas                   (N) ‘aroma or smell in the air, good or bad’
 >
 
-    The forms listed below point to a POc verb *bona(s) (VI) ‘to smell, stink’, *bonas-i- (VT),
-either ‘(s.o.) smell (s.t.)’ or ‘(s.t.) smell of (s.t.)’. This appears to be related to POc *bo[-],
-*boe- (N) ‘odour, scent’, *baw-an, *bo-an (N) ‘odour, scent’ discussed below, but it is not
+    The forms listed below point to a POc verb _*bona(s)_ (VI) ‘to smell, stink’, _*bonas-i-_ (VT),
+either ‘(s.o.) smell (s.t.)’ or ‘(s.t.) smell of (s.t.)’. This appears to be related to POc _*bo[-]_,
+_*boe-_ (N) ‘odour, scent’, _*baw-an_, _*bo-an_ (N) ‘odour, scent’ discussed below, but it is not
 derived by any known derivational process and may simply be a matter of chance
 resemblance.
 
@@ -25183,34 +25178,34 @@ POc *bonas-i- (VT) ‘smell (s.t.)’; ‘(s.t.) smell of (s.t.)’
  PT:   Motu               bona-ia             (VT) ‘to smell’
  PT:   Balawaia           bona                (N) ‘smell,odour’
  PT:   Balawaia           bona-ia             (VT) ‘to smell’
- NCV:  Mota               puna                (VI) ‘to smell, stink’ (punai (N) ‘smell, scent’)
+ NCV:  Mota               puna                (VI) ‘to smell, stink’ (_punai_ (N) ‘smell, scent’)
  NCV:  Mota               pun-pun             ‘to snuff in the native way of kissing’
  NCV:  Kiai               pona-ponasia        (VT) ‘smell s.t.’
  NCal: Nêlêmwa            bo                  (VSt) ‘s.t. smell’
  Mic:  Woleaian           ɸʷō                 (N,VSt) ‘smell, stink’
- Mic:  Woleaian           |ɸʷō (maṣ)|           ‘to stink, smell bad’ (maṣ ‘be rotten, spoiled’)
- Mic:  Woleaian           |ɸʷō (ŋas)|           ‘be fragrant, sweet-smelling’ (ŋas ‘good, nice’)
- Mic:  Woleaian           |ɸʷō (lap)|           ‘to stink of armpit smell’ (lap ‘be big, huge’)
+ Mic:  Woleaian           |ɸʷō (maṣ)|           ‘to stink, smell bad’ (_maṣ_ ‘be rotten, spoiled’)
+ Mic:  Woleaian           |ɸʷō (ŋas)|           ‘be fragrant, sweet-smelling’ (_ŋas_ ‘good, nice’)
+ Mic:  Woleaian           |ɸʷō (lap)|           ‘to stink of armpit smell’ (_lap_ ‘be big, huge’)
  Mic:  Carolinian         bwō                 (N) ‘smell, odour, aroma’
  Mic:  Carolinian         |bwō (maṣ)|           ‘stink, smell rotten’
  Mic:  Carolinian         |bwō (ŋas)|           ‘be fragrant, sweet-smelling’
- Mic:  Carolinian         |bwō (pa) |           ‘smell of shit etc.’ (pā ‘faeces’)
+ Mic:  Carolinian         |bwō (pa) |           ‘smell of shit etc.’ (_pā_ ‘faeces’)
  Fij:  Bauan              bona                (VI) ‘stink because rotten; (N) stinking rottenness; a stench’
  Fij:  Bauan              bonað-a             (VI) ‘to stink of s.t.’
 >
 
-[7] Numfor, a South Halmahera-West New Guinea language, has a reflex of PMP *hajek: yas ‘native
-    manner of kissing by smelling the face’. This meaning is mirrored in an Oceanic cognate of *hajek only
-    in Rotuman, but illustrated also in Motu harahu-a ‘to smell, kiss’, in the ’Are’are and Sa’a term nono
-    ‘to kiss, place the face against, sniff’, in Mota pupupun or punpun ‘to snuff [sic] in the native way of
-    kissing’ and in a number of reflexes of PPn *soŋi ‘smell s.t, sniff s.t., greet s.o. by pressing nose to face
+[7] Numfor, a South Halmahera-West New Guinea language, has a reflex of PMP _*hajek_: _yas_ ‘native
+    manner of kissing by smelling the face’. This meaning is mirrored in an Oceanic cognate of _*hajek_ only
+    in Rotuman, but illustrated also in Motu _harahu-a_ ‘to smell, kiss’, in the ’Are’are and Sa’a term _nono_
+    ‘to kiss, place the face against, sniff’, in Mota _pupupun_ or _punpun_ ‘to snuff [sic] in the native way of
+    kissing’ and in a number of reflexes of PPn _*soŋi_ ‘smell s.t, sniff s.t., greet s.o. by pressing nose to face
     or limb and sniffing’.
 
 506 Meredith Osmond and Andrew Pawley
 
 
-   Lynch (2001c) reconstructs the set below. It resembles POc *bona(s) but this may well be
-a chance resemblance, as PSV *-e- does not regularly reflect POc *-o-.
+   Lynch (2001c) reconstructs the set below. It resembles POc _*bona(s)_ but this may well be
+a chance resemblance, as PSV _*-e-_ does not regularly reflect POc _*-o-_.
 
 <
 PSV *a-b(i)eni (VI) ‘emit an odour’ (Lynch 2001c)
