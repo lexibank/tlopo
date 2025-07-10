@@ -7926,7 +7926,7 @@ Proto Remote Oceanic *vaRo 'Neisosperma oppositifolium'
 <
 PSOc *vato 'Neisosperma oppositifolium' (Lynch 2004a)
   NCV: S Efate           (n)fato       'Neisosperma oppositifolium'
-  NCV: Sye               (ye)vat       'Neisosperma oppositifolium'
+  SV:  Sye               (ye)vat       'Neisosperma oppositifolium'
 >
 
 
@@ -9143,7 +9143,7 @@ Proto Remote Oceanic *raqu 'dragon plum tree, Dracontomelon dao'
   SV:  Kwamera       nə-rai       'Dracontomelon dao'
 PCP *(tawa)raqu 'dragon plum tree, Dracontomelon vitiense'
   Fij: Wayan         (tawa)rau    'Dracontomelon vitiense'
-  Pn:  Rotuman       (jav)rau     'Dracontomelon vitiense' (Geraghty 2004: 80)
+  Fij: Rotuman       (jav)rau     'Dracontomelon vitiense' (Geraghty 2004: 80)
   Pn:  Emae          (tava)rau    'Dracontomelon vitiense' (Geraghty 2004: 80)
   Pn:  W Futunan     (tave)rau    'Dracontomelon vitiense' (Geraghty 2004: 80)
 >
@@ -11586,7 +11586,7 @@ Peekel (1984:153).
 <
 PCP *qaromʷ(ē,ā) 'shrub or tree sp., Pipturus sp.; bark used for cordage'
   Fij: Wayan          rōmē          'generic for three spp. of Urticaceae: Boehmeria virgata, Leucosyke corymbulosa and Pipturus argenteus'
-  Fij: Lau            roŋā          'Pipturus sp.' (Geraghty 1990: 91)
+  Fij: Lau (Eastern Fijian)            roŋā          'Pipturus sp.' (Geraghty 1990: 91)
 PPn *q[a,o]loŋā 'shrub or tree sp., Pipturus sp.; bark used for cordage' [4]
   Pn:  Tongan         ʔoloŋā        'Pipturus argenteus'
   Pn:  Nukuria        oloŋā         'Pipturus sp.'
@@ -19796,7 +19796,7 @@ societies has faded almost to zero.[23]
 
 <
 PCP *vaŋ(o,u) 'wax gourd, Benincasa hispida'
-     Fij:  Lau         vaŋo        'Benincasa hispida'
+     Fij: Lau (Eastern Fijian)         vaŋo        'Benincasa hispida'
      Fij:  Bauan       vaŋo        'Benincasa hispida'
      Pn:   Tongan      faŋu        'Benincasa hispida'
      Pn:   Niuean      faŋu        'bottle'

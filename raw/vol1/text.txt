@@ -1682,12 +1682,11 @@ Meso-Melanesian cluster). However, as predicates they behaved differently, proba
 the Bali-Vitu examples below, where _zaɣata_ 'bad' is a verb preceded by the proclitic _ti_, a
 portmanteau marker of third person subject and perfective aspect, whilst _vaɣoru_ 'new' is
 preceded by the article _a_ and means 'a new one'.
-(25) Bali-Vitu:
 
 __igt__
 (25) Bali-Vitu (MM):
         a. A       vaga  beini  ti           zaɣata.
-           ARTICLE canoe that   PERFECTlVE:3 bad
+           ARTICLE canoe that   PERFECTIVE:3 bad
            'That canoe is broken.'
         b. A       rumaka beini a       vaɣoru.
            ARTICLE house  that  ARTICLE new
@@ -2310,7 +2309,7 @@ PMP *kamaliR 'men's house' (Blust 1987); 'granary shed' (Tryon 1995)
 POc *kamali(R) 'men's meeting house' (after Blust 1987)
   Adm: Titan         kamal           'male; men's house'
   Adm: Nyindrou      kamen
-  NCV: Emae          kamali
+  Pn:  Emae          kamali
   NCV: Mota          gamal
   NCV: Hiw           gemel
   NCV: S.E. Ambrym   nemel
@@ -8589,10 +8588,10 @@ PCEMP *waŋka 'outrigger canoe'
  CMP:  Buru          waga              'boat, canoe'
  CMP:  Komodo        waŋka             'boat, canoe'
  CMP:  Manggarai     waŋka             'canoe'
- IJ:   Mor           waʔa              'canoe'
- IJ:   Dusner        wak               'canoe'
- IJ:   Numfor        wa(i)             'outrigger canoe'
- IJ:   Waropen       wa                'boat, canoe'
+ SHWNG:   Mor           waʔa              'canoe'
+ SHWNG:   Dusner        wak               'canoe'
+ SHWNG:   Numfor        wa(i)             'outrigger canoe'
+ SHWNG:   Waropen       wa                'boat, canoe'
 POc *waga (1) 'large sailing canoe'; (2) 'canoe (generic)'
  Adm:  Wuvulu        wa                'canoe'
  Adm:  Seimat        wa                'canoe'
@@ -9358,7 +9357,7 @@ Malayo-Polynesian.
 
 <
 PEMP *patotV 'connective sticks or stanchions attaching floats to booms'
-  IJ:  Numfor         fakok              (_k_ for _*t_ regular)
+  SHWNG:  Numfor         fakok              (_k_ for _*t_ regular)
 POc *patoto 'connective sticks attaching float'
   NNG: Gedaged        patot
   NNG: Tuam           patot
@@ -9883,7 +9882,7 @@ PMP *sauq ? (N) 'anchor'; (V) 'be anchored'
  WMP: Malay         sauh            'anchor'
  WMP: Ngaju Dayak   sauh            'anchor'
  CMP: Buru          sau             'anchor (possibly borrowed from Malay)'
- IJ:  Numfor        sau             'anchorage'
+ SHWNG:  Numfor        sau             'anchorage'
 POc *jau(q) 'be anchored or moored, come to anchor or rest'
  SES: Arosi         dau             '(canoe) come to rest'
  SES: Lau           dau             'come to anchor; alight, be stationary, at rest'
@@ -10061,7 +10060,7 @@ _*pa-iau(r)_ as a single morpheme.
 
 <
 PEMP *ta(d,R)i 'steer a course (in navigating)'
- IJ: Numfor    kar              'row (while facing one's destination)'
+ SHWNG: Numfor    kar              'row (while facing one's destination)'
 POc *taRi ? 'steer a course'
  PT: Motu      tari             (N) 'rudder, steer oar'; (v) 'steer a canoe'
 >

@@ -19,27 +19,27 @@ nauete,Nauete,CMP,,,,naue1237,-8.71,126.74
 rongga,Rongga,CMP,,,,rong1269,-8.85,120.70
 kapampangan,Kapampangan,WMP,,,,pamp1243,14.96,120.50
 tondano,Tondano,WMP,,,,tond1251,1.28,124.96
-malay,Malay,,,,,mala1479,1.85856,103.0
-cebuano,Cebuano,,,,cebu1242,cebu1242,8.38799,124.367
-buru,Buru,,,,,buru1303,-3.44,126.63
-tagalog,Tagalog,,,,taga1270,taga1270,14.06,121.74700000000001
-maranao,Maranao,,,,mara1404,mara1404,7.79414,124.17499999999998
-sangir,Sangir,,,,sang1336,sang1336,3,125.5
-tausug,Tausug,,,,taus1251,taus1251,5.12236,118.88
-javanese,Javanese,,,,java1254,java1254,-7.001,109.287
+malay,Malay,WMP,,,,mala1479,1.85856,103.0
+cebuano,Cebuano,WMP,,,cebu1242,cebu1242,8.38799,124.367
+buru,Buru,CMP,,,,buru1303,-3.44,126.63
+tagalog,Tagalog,WMP,,,taga1270,taga1270,14.06,121.74700000000001
+maranao,Maranao,WMP,,,mara1404,mara1404,7.79414,124.17499999999998
+sangir,Sangir,WMP,,,sang1336,sang1336,3,125.5
+tausug,Tausug,WMP,,,taus1251,taus1251,5.12236,118.88
+javanese,Javanese,WMP,,,java1254,java1254,-7.001,109.287
 numfor,Numfor,SHWNG,,,biak1248,biak1248,-0.9523,135.879
-seruilaut,Serui-Laut,SHWNG,,,,seru1244,-1.88,136.25
-aklanon,Aklanon,,,,akla1240,akla1240,11.55432,122.35413
-tobabatak,Toba Batak,,,,bata1289,bata1289,2.35498,99.17609999999999
-wolio,Wolio,,,,woli1241,woli1241,-5.33,122.66999999999999
-balangaw,Balangaw,,,,bala1310,bala1310,17.0994,121.27199999999999
-larike,Larike,,,,lari1256,lari1256,-3.77,127.96
-komodo,Komodo,,,,komo1261,komo1261,-8.64518,119.477
-manggarai,Manggarai,,,,mang1405,mang1405,-8.55748,120.329
+seruilaut,Serui-Laut,CB,,,,seru1244,-1.88,136.25
+aklanon,Aklanon,WMP,,,akla1240,akla1240,11.55432,122.35413
+tobabatak,Toba Batak,WMP,,,bata1289,bata1289,2.35498,99.17609999999999
+wolio,Wolio,WMP,,,woli1241,woli1241,-5.33,122.66999999999999
+balangaw,Balangaw,WMP,,,bala1310,bala1310,17.0994,121.27199999999999
+larike,Larike,CMP,,,lari1256,lari1256,-3.77,127.96
+komodo,Komodo,CMP,,,komo1261,komo1261,-8.64518,119.477
+manggarai,Manggarai,CMP,,,mang1405,mang1405,-8.55748,120.329
 amber,Amber,SHWNG,,,,waig1244,-0.18,130.92
-mor,Mor,IJ,,,morb1239,morb1239,-2.85747,132.845
-dusner,Dusner,IJ,,,dusn1237,dusn1237,-2.73859,134.39100000000002
-waropen,Waropen,,,,waro1242,waro1242,-2.31142,136.63299999999998
+mor,Mor,SHWNG,,,morb1239,morb1239,-2.85747,132.845
+dusner,Dusner,SHWNG,,,dusn1237,dusn1237,-2.73859,134.39100000000002
+waropen,Waropen,SHWNG,,,waro1242,waro1242,-2.31142,136.63299999999998
 kuvalan,Kuvalan,Fma,,,kava1241,kava1241,24.6947,121.645
 paiwan,Paiwan,Fma,,,,paiw1248,22.33,120.81
 bilaan,Bilaan,WMP,,,,blaa1241,6.1211,125.1805
@@ -62,8 +62,8 @@ chamorro,Chamorro,WMP,,,cham1312,cham1312,13.438011,144.74473999999998
 malagasy,Malagasy,WMP,,,,mala1537,-20.326260416666663,46.604015625
 indonesian,Indonesian,WMP,,,,indo1316,-7.33,109.72
 muna,Muna,WMP,,,,muna1247,-5.40,122.54
-rotinese,Rotinese,WMP,,,,,,
-watubela,Watubela,WMP,,,,watu1247,-4.47,131.64
+rotinese,Rotinese,CMP,,,,,,
+watubela,Watubela,CMP,,,,watu1247,-4.47,131.64
 bima,Bima,CMP,,,,bima1247,-8.57,118.44
 konjo,Konjo,CMP,,,,konj1250,-5.340,120.116
 leti,Leti,CMP,,,,leti1246,-8.20,127.67
@@ -475,7 +475,7 @@ lehali,Lehali,NCV,"Eastern Oceanic | North/Central Vanuatu [NCV] (groupings are 
 loyop,Löyöp,NCV,"Eastern Oceanic | North/Central Vanuatu [NCV] (groupings are areal, based on Clark 1994) | Banks & Torres, Maewo, Ambae, North Pentecost",Loyop,,leha1244,-13.54,167.34
 loh,Loh,NCV,"Eastern Oceanic | North/Central Vanuatu [NCV] (groupings are areal, based on Clark 1994) | Banks & Torres, Maewo, Ambae, North Pentecost",Lo-Toga; Lo Toga; Toga,,loto1240,-13.33,166.63
 lakon,Lakon,NCV,"Eastern Oceanic | North/Central Vanuatu [NCV] (groupings are areal, based on Clark 1994) | Banks & Torres, Maewo, Ambae, North Pentecost",Lakona,,lako1245,-14.30,167.43
-sgaua,S Gaua,NCV,"Eastern Oceanic | North/Central Vanuatu [NCV] (groupings are areal, based on Clark 1994) | Banks & Torres, Maewo, Ambae, North Pentecost",,,koro1318,-14.29,167.47
+sgaua,S Gaua,NCV,"Eastern Oceanic | North/Central Vanuatu [NCV] (groupings are areal, based on Clark 1994) | Banks & Torres, Maewo, Ambae, North Pentecost",,= Koro,koro1318,-14.29,167.47
 olrat,Olrat,NCV,"Eastern Oceanic | North/Central Vanuatu [NCV] (groupings are areal, based on Clark 1994) | Banks & Torres, Maewo, Ambae, North Pentecost",,,olra1234,-14.31,167.43
 dorig,Dorig,NCV,"Eastern Oceanic | North/Central Vanuatu [NCV] (groupings are areal, based on Clark 1994) | Banks & Torres, Maewo, Ambae, North Pentecost",,,weta1242,-14.37,167.55
 nume,Nume,NCV,"Eastern Oceanic | North/Central Vanuatu [NCV] (groupings are areal, based on Clark 1994) | Banks & Torres, Maewo, Ambae, North Pentecost",,,nume1241,-14.23,167.59
@@ -528,7 +528,7 @@ nati,Nāti,NCV,"Eastern Oceanic | North/Central Vanuatu [NCV] (groupings are are
 ninde,Ninde,NCV,"Eastern Oceanic | North/Central Vanuatu [NCV] (groupings are areal, based on Clark 1994) | Malakula | West Malakula linkage",,,labo1244,-16.43,167.44
 tape,Tape,NCV,"Eastern Oceanic | North/Central Vanuatu [NCV] (groupings are areal, based on Clark 1994) | Malakula | West Malakula linkage",,,mara1399,-16.07,167.33
 labo,Labo,NCV,"Eastern Oceanic | North/Central Vanuatu [NCV] (groupings are areal, based on Clark 1994) | Malakula",,,labu1248,-6.75,146.903
-mae,Mae,NCV,"Eastern Oceanic | North/Central Vanuatu [NCV] (groupings are areal, based on Clark 1994) | Malakula",,,maee1242,-5.45619,143.685
+mae,Mae,NCV,"Eastern Oceanic | North/Central Vanuatu [NCV] (groupings are areal, based on Clark 1994) | Malakula",,,maee1241,-15.99,167.29
 portsandwich,Port Sandwich,NCV,"Eastern Oceanic | North/Central Vanuatu [NCV] (groupings are areal, based on Clark 1994) | Malakula | East Malakula linkage",Pt Sandwich; Pt. Sandwich,,port1285,-16.4952,167.78
 rerep,Rerep,NCV,"Eastern Oceanic | North/Central Vanuatu [NCV] (groupings are areal, based on Clark 1994) | Malakula | East Malakula linkage",,dialect of Unua,rere1240,-16.29,167.65
 unua,Unua,NCV,"Eastern Oceanic | North/Central Vanuatu [NCV] (groupings are areal, based on Clark 1994) | Malakula | East Malakula linkage",,,unua1237,-16.26,167.60
@@ -647,6 +647,7 @@ kadavu,Kadavu,Fij,Eastern Oceanic | Central Pacific [Fij and Pn] | Eastern Fijia
 wvitilevu,W Viti Levu,Fij,Eastern Oceanic | Central Pacific [Fij and Pn] | Eastern Fijian,,,,,
 rewa,Rewa,Fij,Eastern Oceanic | Central Pacific [Fij and Pn] | Eastern Fijian,,,,,
 lautaveuni,"Lau, Taveuni",Fij,Eastern Oceanic | Central Pacific [Fij and Pn] | Eastern Fijian,,,,,
+laueasternfijian,"Lau (Eastern Fijian)",Fij,Eastern Oceanic | Central Pacific [Fij and Pn] | Eastern Fijian,,,,,
 lomaiviti,Lomaiviti,Fij,Eastern Oceanic | Central Pacific [Fij and Pn] | Eastern Fijian,,,,,
 moala,Moala,Fij,Eastern Oceanic | Central Pacific [Fij and Pn] | Eastern Fijian,,,,,
 wailevu,Wailevu,Fij,Eastern Oceanic | Central Pacific [Fij and Pn] | Eastern Fijian,,,,,

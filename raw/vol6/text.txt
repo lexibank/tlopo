@@ -867,7 +867,7 @@ POc *pale ‘building for storage or public use, open-sided building, shed’
  SES: Bauro             hare          ‘canoe house, men’s house’
  SES: Sa’a              hale          ‘yam shed outside a garden’
  SES: Kwaio             fale          ‘hut for childbirth’
- MM: Gela               hale          ‘house’
+ SES: Gela              hale          ‘house’
  NCV: Raga              vale          ‘house, hut, garden house’
  NCV: Nokuku            vale          ‘shelter’
  NCV: Nokuku            val-val       ‘garden shelter’
@@ -3330,7 +3330,7 @@ EGO’s grandchild’s.
 <
 POc *tubu- ‘grandparent, grandchild’
 POc *makubu- ‘grandchild; kin two generations below ego’
- Adm: Yapese              tuŋin            ‘grandchild’, BCC, MBDC
+ Yap: Yapese              tuŋin            ‘grandchild’, BCC, MBDC
  Adm: Pak                 makapu-          ‘grandchild’, sGCC, MBSC
  MM: Tolai                tubu-            ‘grandchild’, FZ, FZD, FZDD, MBDS (Trevitt 1940)
  MM: Babatana             bazu-            ‘grandchild’, ♂MBDC
@@ -3353,7 +3353,7 @@ despite the fact that Lele, Mota and Nduindui all have another term for ‘mothe
 evidence for POc *tubu- in this role is thinner but the glosses are convincing.
 
 __formgroup__
-  Adm: Yapese           ci-tini(ŋo)-       ‘mother, mother’s sister’, FBW, FZ, FZD
+  Yap: Yapese           ci-tini(ŋo)-       ‘mother, mother’s sister’, FBW, FZ, FZD
   Adm: Lele             nane-              ‘mother, mother’s sister’, FZD
   NCV: Mota             veve-              ‘mother, mother’s sister’, FBW, FZD (Codrington 1891)
   NCV: Nduindui         re-tahi-           ‘mother’, PZ, FZD, FZDD
@@ -3369,7 +3369,7 @@ among the data in §2.4.1.2.1
 
 <
 POc *tama- ‘father, father’s mother, mother’s sister’s husband, father’s sister’s son, father’s sister’s daughter’s son, father’s sister’s daughter’s daughter’s son’
- Adm: Yapese          ci-timo(ŋo)-      ‘father’, FB, MZH, FZS
+ Yap: Yapese          ci-timo(ŋo)-      ‘father’, FB, MZH, FZS
  Adm: Pak             dramo-, tamo-     ‘father’, FB, ♀FZS (Mead 1934:347–349)
  Adm: Bipi            tama              ‘father’, FB, ♀FZS (Mead 1934:350–351)
  PT:  Kilivila        tama-             ‘father’, FB, PZH, FZS (Malinowski 1929; Lounsbury 1965)
@@ -3650,7 +3650,7 @@ bifurcate merging terminology a mother’s sister is also a ‘mother’, and th
 PAn *ta-amax ‘father’ (ACD)
 PMP *t-ama ‘father, father’s brother’ (Blust 1980a)
 POc *tama- ‘father, father’s brother, mother’s sister’s husband’ (Milke 1958a; ACD)
-  Adm:  Yapese         ci-timo(ŋo)-    ‘father’, FB, MZH, FZH, FZS
+  Yap:  Yapese         ci-timo(ŋo)-    ‘father’, FB, MZH, FZH, FZS
   Adm:  Mussau         tama-           ‘father, father’s brother’, MZH
   Adm:  Baluan         tama-           ‘father, father’s brother’, FFBS
   Adm:  Lele           tam-            ‘father, father’s brother’
@@ -5102,7 +5102,7 @@ spouse’, discussed in §2.4.2.2.
 <
 PMP *taji ‘younger s.s. sibling’ (ACD; see also §2.4.2.2)
 POc *taci- ‘younger s.s. sibling, parallel cousin’s younger s.s. child’ (Milke 1958a)
- Adm:  Yapese        teθī-           ‘younger brother’ (Jensen 1977)
+ Yap:  Yapese        teθī-           ‘younger brother’ (Jensen 1977)
  Adm:  Mussau        tasi-           ‘wife’s sister, husband’s brother’, sGE
  Adm:  Pak           tehi-           ‘s.s. sibling’, {PsG}sC, ♂{PoG}SS
  Adm:  Lele          dere            ‘s.s. sibling’
@@ -7867,24 +7867,24 @@ supporting the reconstruction of Proto Malaita-Makira *alafa ‘chief’:
 
 <
 Proto Malaita-Makira *alafa ‘chief, person of a chiefly lineage’
-  MM: Arosi      araha            ‘chief, man of the chiefly clan’
-  MM: Arosi      haʔa-araha       ‘raise s.o. to chiefly rank, make a child a member of the of the chiefly clan by his father giving a series of feasts’
-  MM: Bauro      araha            ‘chief, man of the chiefly clan’
-  MM: Owa        arafa            ‘boss, chief, lord, ruler, important person’
-  MM: Owa        |arafa ni finua| ‘village chief’ (ni ‘of’, finua ‘village’)
-  MM: Sa’a       alaha            ‘hereditary chief’
-  MM: Sa’a       alaha-ŋa         ‘rule, dominion, chieftainship’
-  MM: Sa’a       |aʔo i alahaŋa|  ‘elder branch of a chiefly family’
-  MM: Sa’a       |puri alahaŋa|   ‘the cadet branch’
-  MM: ’Are’are   araha            ‘chief’
-  MM: ’Are’are   |araha ana komu| ‘chief of a bilateral family’
-  MM: ’Are’are   araha-a          ‘to rule over’
-  MM: ’Are’are   araha-ha         ‘be a chief, to rule’
-  MM: ’Are’are   araha-ŋa         ‘chieftainship’
-  MM: Kwaio      alafa            ‘wealthy influential leader’
-  MM: Lau        alafa            ‘a chief’’
-  MM: Lau        alafa-la         ‘kingdom, region of chief’s authority’
-  MM: Lau        alafa-na         ‘kingdom, dominion’
+  SES: Arosi      araha            ‘chief, man of the chiefly clan’
+  SES: Arosi      haʔa-araha       ‘raise s.o. to chiefly rank, make a child a member of the of the chiefly clan by his father giving a series of feasts’
+  SES: Bauro      araha            ‘chief, man of the chiefly clan’
+  SES: Owa        arafa            ‘boss, chief, lord, ruler, important person’
+  SES: Owa        |arafa ni finua| ‘village chief’ (ni ‘of’, finua ‘village’)
+  SES: Sa’a       alaha            ‘hereditary chief’
+  SES: Sa’a       alaha-ŋa         ‘rule, dominion, chieftainship’
+  SES: Sa’a       |aʔo i alahaŋa|  ‘elder branch of a chiefly family’
+  SES: Sa’a       |puri alahaŋa|   ‘the cadet branch’
+  SES: ’Are’are   araha            ‘chief’
+  SES: ’Are’are   |araha ana komu| ‘chief of a bilateral family’
+  SES: ’Are’are   araha-a          ‘to rule over’
+  SES: ’Are’are   araha-ha         ‘be a chief, to rule’
+  SES: ’Are’are   araha-ŋa         ‘chieftainship’
+  SES: Kwaio      alafa            ‘wealthy influential leader’
+  SES: Lau        alafa            ‘a chief’’
+  SES: Lau        alafa-la         ‘kingdom, region of chief’s authority’
+  SES: Lau        alafa-na         ‘kingdom, dominion’
 >
 
 [3] These were probably five-piece outrigger canoes with hulls built up with a topstrake, and with platform
@@ -7993,17 +7993,17 @@ POc *kabi-ña ‘chief’
 
 4.5.2.2 On the origin of PPn *qariki
 
-It was noted in §4.5.2.1 that PPn *qariki ‘chief’ resembles Arosi ariʔi ‘first-born son of a chief,
+It was noted in §4.5.2.1 that PPn _*qariki_ ‘chief’ resembles Arosi ariʔi ‘first-born son of a chief,
 chief’s heir’, and that this has led some to conclude that these forms are cognate, each
-historically analysable as consisting of a personal article and a reflex of POc *riki ‘little’. The
-sound correspondences are regular. However, Arosi ariʔi has cognates in several Malaitan
+historically analysable as consisting of a personal article and a reflex of POc _*riki_ ‘little’. The
+sound correspondences are regular. However, Arosi _ariʔi_ has cognates in several Malaitan
 languages, and, as Lichtenberk (1986) notes, these do not mean ‘first-born son of a chief’.
 
 __formgroup__
-  MM: Kwara’ae        s-ariʔi              ‘unmarried girl’
-  MM: Kwaio           la-aliki             ‘unmarried girl, daughter’
-  MM: Lau             s-arii               ‘unmarried girl, maiden, daughter’
-  MM: To’aba’ita      θa-ariʔi             ‘unmarried girl, maiden’
+  SES: Kwara’ae        s-ariʔi              ‘unmarried girl’
+  SES: Kwaio           la-aliki             ‘unmarried girl, daughter’
+  SES: Lau             s-arii               ‘unmarried girl, maiden, daughter’
+  SES: To’aba’ita      θa-ariʔi             ‘unmarried girl, maiden’
 
 Lichtenberk argues that the Malaitan cognates continue a Proto Malaitan form *a-ariki that
 consisted of two morphemes: *a ‘personal article’ and *ariki which he glossed as ‘unmarried
@@ -8307,7 +8307,7 @@ POc *pale ‘building for storage or public use, open-sided building, shed’
  SES: Bauro           hare          ‘canoe house, men’s house ’
  SES: Sa’a            hale          ‘yam shed outside a garden’
  SES: Kwaio           fale          ‘hut for childbirth’
- MM:  Gela            hale          ‘house’
+ SES: Gela            hale          ‘house’
  NCV: Raga            vale          ‘house, hut, garden house’
  NCV: Nokuku          vale          ‘shelter’
  NCV: Nokuku          val-val       ‘garden shelter’
@@ -8337,7 +8337,7 @@ PNCV *kamali ‘men’s house’ (Clark 2009)
  NCV: Raga         gamali           ‘men’s house’
  NCV: SE Ambrym    n-emel           ‘men’s house’
  NCV: Lewo         kumali           ‘village, men’s meeting house’
- NCV: Makatea      kamali           ‘men’s house’
+ Pn:  Makatea      kamali           ‘men’s house’
  NCV: Namakir      na-kamal         ‘men’s club house, dancing ground, village meeting place’
 >
 
@@ -11306,7 +11306,7 @@ PSOc *nunu ‘shadow, image, reflection, soul’ (Lynch 2001)
   NCV:  Raga              nunu-           ‘shadow, picture, representation’
   NCV:  Paamese           ninu-           ‘spirit, soul, shadow’
   SV:   Kwamera           nanu(mu)        ‘spirit, ghost; shadow, reflection; likeness’
-  SV:   Sa                nunun           ‘soul, shadow, reflection’
+  NCV:  Sa                nunun           ‘soul, shadow, reflection’
   NCal: Iaai              (ha)nu-         ‘soul, spirit (of dead person), silhouette, appearance’
   Mic:  Kiribati          nunu-           ‘to cover, to shade (incantation)’
 >
@@ -11445,7 +11445,7 @@ PPn *tupuqa ‘supernatural being’
  Pn:  Maori              tupua          ‘goblin, demon, foreigner, one versed in magic’
  Pn:  Hawaiian           kupua          ‘supernatural being, being with natural power’
 cf. also:
- Fij: Lau                tupua          ‘spirit or ghost’ (Pn loan: P. Geraghty, pers. comm.)
+ Fij: Lau (Eastern Fijian)                tupua          ‘spirit or ghost’ (Pn loan: P. Geraghty, pers. comm.)
 >
 
 
@@ -20158,7 +20158,7 @@ PNCV *vanako ‘steal’
   NCV: Lewo            vinau            ‘steal’
   NCV: Namakir         banak            ‘steal’
   NCV: Nguna           vanako           ‘steal’
-  NCV: Rotuman         hanaʔo           ‘steal’
+  Fij: Rotuman         hanaʔo           ‘steal’
   SV:  Lenakel         ə-vnak           ‘steal’’
   Pn:  Maori           fānako           ‘steal, theft, thief, thievish, thieving’
 >
@@ -20875,7 +20875,7 @@ POc *luku ‘count’
  MM: Ramoaaina                  lu-luk           ‘count’
  MM: Bilur                      lu-luk           ‘count’
  NCV: Hiw                       yʉkʷ             ‘count’
- NCV: Koro                      luɣ              ‘count’
+ NCV: S Gaua                    luɣ              ‘count’
  NCV: Lakona                    luɣ-luɣ          ‘count’
  NCV: Toga                      luk              ‘count’
  NCV: Vera’a                    luku-n           ‘count’

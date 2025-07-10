@@ -1832,7 +1832,7 @@ __formgroup__
 
 
 [1]
-    The gloss is from Chowning (2014). We have no examples.
+    The gloss is from Chowning and Goodenough (2014). We have no examples.
 
                                                                                      People 41
 
@@ -3620,7 +3620,7 @@ POc *tubuq-a(ŋ) ‘body, substance’ (-aŋ NOM)
 PEOc *tubuqa ‘spirit being (possibly guardian spirit)’
   SES: To’aba’ita       ðūfā              ‘one’s protective, guardian spirit’
   NCV: Nguna            na-tupua          ‘spirit’
-  Fij: Lau              tupua             ‘spirit or ghost’
+  Fij: Lau (Eastern Fijian)              tupua             ‘spirit or ghost’
 PPn *tupuqa ‘supernatural being, demon’ (POLLEX)
   Pn:  Tongan           tupuʔa            ‘ancient, venerable’
   Pn:  Niuean           tupua             ‘giant, evil spirit, demon, ancient gods’
@@ -3772,7 +3772,7 @@ POc *draRa(q) ‘blood’
   NNG:  Bam           dar-dar          ‘red’
   NNG:  Wogeo         dara-            ‘blood’
   NNG:  Kis           dal              ‘blood’
-  NNG:  Sobei         dara-            ‘blood’
+  SJ:   Sobei         dara-            ‘blood’
   NNG:  Bukawa        daʔ              ‘blood’
   PT:   Gapapaiwa     tara-            ‘blood’
   PT:   Anuki         dara-darayi      ‘blood’
@@ -5911,7 +5911,7 @@ the verb _*ŋorok_ ‘grunt, growl, snore’ (§4.5.3).
 POc *ŋoro-ŋorok ‘channel above upper lip’ (cf. _*ŋorok_ ‘snore’; vol.2:48)
  Adm: Loniu              ŋo-                ‘nose, beak’
  NNG: Sio                i-ŋo-ŋoro-         ‘nose’
- NNG: Notsi              ŋul-ŋul            ‘nose’
+ MM: Notsi              ŋul-ŋul            ‘nose’
  MM: Tangga              ŋoro-ŋoro-         ‘nose’
  MM: Patpatar            ŋar-ŋaro-          ‘nose’
  MM: Roviana             |ŋo-ŋoro isu|      ‘nostril’
@@ -6172,7 +6172,7 @@ POc *maya- ‘tongue’
   NNG: Bariai          mae-                    ‘tongue’
   NNG: Lukep           me-                     ‘tongue’
   NNG: Manam           me-me-                  ‘tongue’
-  NNG: Ormu            (ma)me-                 ‘tongue’
+  SJ:  Ormu            (ma)me-                 ‘tongue’
   PT:   Dobu           meya-                   ‘tongue’
   PT:   Kilivila       maye-                   ‘tongue’
   PT:   Kukuya         mea-                    ‘tongue’
@@ -8020,7 +8020,7 @@ PAn *ka-wanaL ‘be to the right’ (ACD)
 POc *kawanan ‘right side’ (Evans 2001)
   NNG: Bebeli             kiana                ‘right hand’
   PT:   Misima            awon                 ‘right side’
-  MM: Tami                kanoŋ                ‘right hand’ (metathesised < _*kanawan_)
+  NNG: Tami                kanoŋ                ‘right hand’ (metathesised < _*kanawan_)
 >
 
 <
@@ -8377,7 +8377,7 @@ the relational local noun POc _*muri[-]_ ‘back part, rear, behind, space to th
 
 <
 POc *|[m,b]uri (qi) (w,q)aqe| ‘heel’ (ACD) (lit. ‘back of foot’)
- MM: Bukawa               |gahi bu |              ‘heel’ (foot back)
+ NNG: Bukawa               |gahi bu |              ‘heel’ (foot back)
  SES: Lau                 |buri ʔae|              ‘heel’ (back foot)
  Pn:    Rennellese        |mugi wae|              ‘heel’ (back foot)
  Pn:    K’marangi         |muli wae|              ‘heel’ (back foot)
@@ -10608,7 +10608,7 @@ Samoic–Outlier forms all reflect loss of _*-a-_, i.e. _*fe-qiti_ for expected 
 POc *paRi-qait ‘copulate, have sexual intercourse with one another’
  PT:     Tawala           wi-eita            ‘copulate’
  SES: W G’canal           (vai)ɣet-i         ‘copulate’
- SES: Malasanga           (vai)hait-i       ‘copulate’
+ NNG: Malasanga           (vai)hait-i       ‘copulate’
 PNPn *fe-qiti ‘copulate’
  Pn:     Samoan           feit-i             ‘copulate’
  Pn:     E Uvean          feis-i             ‘copulate’
@@ -11646,7 +11646,7 @@ cf. also:
 <
 PNNG *ŋuru ‘suck and chew (sugarcane)’
  NNG: Kove               ŋoho                         ‘chew s.t. hardish or sticky’
- NNG: Bola               ŋuru                         ‘suck, kiss’
+ MM: Bola               ŋuru                         ‘suck, kiss’
  NNG: Manga Buang        ŋur                          ‘chew or suck (sugarcane)’
  NNG: Mapos Buang        ŋur                          ‘chew or suck sugarcane’
  NNG: Mumeng (Patep)     ŋul                          ‘chew (sugarcane)’
@@ -12590,7 +12590,7 @@ POc *[ma]raqu (VI) ‘be thirsty’
  NNG: Sio              rako(ña), roko(ña) (VI) ‘be thirsty’
  NNG: Lukep (Pono)     murak                     (N) ‘thirst’ (metathesis < †_maruk_ < †_maraku_)
  MM: Vitu                  maraho            ‘thirst’
- NNG: Bola                 marohu            (ADJ) ‘thirsty’
+ MM: Bola                 marohu            (ADJ) ‘thirsty’
  MM: Nakanai               malehu            ‘thirsty’
  MM: Meramera              malou             ‘thirsty’
  MM: Patpatar              maruk             (VI) ‘be thirsty’ (metathesis < †_maraku_)
@@ -13329,7 +13329,7 @@ POc *(d,dr)amʷe (VT) ‘lick, taste’
  NNG: Numbami          -domos-i            ‘lick, kiss’
  NNG: Yabem            damʷe               ‘lick, taste’
  NNG: Adzera           damʷis              ‘lick’
- NNG: Gapapaiwa        dami                ‘taste, feel, sense’
+ PT:  Gapapaiwa        dami                ‘taste, feel, sense’
  MM:  Vitu             dame                ‘lick’
  MM:  Bulu             dame                ‘lick’
  MM:  Bola             dame                ‘lick’
@@ -13372,7 +13372,7 @@ PNGOc *d(r)amʷar-i- (VT) ‘lick’
  NNG: Roinji            rama                ‘taste (food)’
  NNG: Sio               damale-             ‘lick’
  NNG: Manam             damula              ‘lick’
- NNG: Dawawa            remo                ‘lick, taste’
+ PT:  Dawawa            remo                ‘lick, taste’
  PT:  Motu              demar-i-          (VT) ‘lick’
 >
 
@@ -13617,7 +13617,7 @@ PPn *miti ‘suck, lick up’ (POLLEX); ‘be sucked, be extracted’
 <
 PAn *hisep ‘suck, inhale’ (ACD)
 POc *isop ‘suck up, inhale’ (ACD)
-  NNG: Label               isop              ‘drink’
+  MM: Label               isop              ‘drink’
 >
 
 4.3.6.2 Signalling with a kissing noise
@@ -14125,7 +14125,7 @@ POc *[mu]mutaq (VI) ‘vomit’
   Adm: Seimat           mutu-mut            (VI) ‘vomit’
   Adm: Lou              mu-mut              ‘to vomit’
   Adm: Loniu            mo-mota-ni          (VT) ‘spit s.t. out, vomit’
-  NNG: Bola             muta                ‘vomit’
+  MM: Bola             muta                ‘vomit’
   NNG: Poeng            muta                ‘vomit’
   NNG: Kairiru          mu-mut              ‘vomit’
   NNG: Ulau-Suain       mu-mut              ‘vomit’
@@ -17127,7 +17127,7 @@ POc *nanaq ‘pus’
   MM: Tabar                 nana               ‘pus’
   MM: Lihir                 nan                ‘pus’
   MM: Tangga                nan                ‘pus’
-  MM: Lamogai               na-nan             ‘pus’
+  NNG: Lamogai               na-nan             ‘pus’
   MM: Label                 nana               ‘pus’
   MM: Vitu                  nana               ‘pus’
   MM: Bali                  nanaka             ‘pus’
@@ -18116,7 +18116,7 @@ the Austronesian world. Blust lists, in addition to numerous cognates of PAn _*b
 a general meaning ‘spray water from the mouth’, terms from Cebuano and Sundanese (wMP),
 Asilulu, Kamarian and Boano (CMP) that carry a meaning of spraying something from the
 mouth for the specific purpose of healing (ACD). In Oceanic communities we have descriptions
-of similar treatment from Manam (Wedgwood 1934), Nakanai (Chowning 2014), and Gela
+of similar treatment from Manam (Wedgwood 1934), Nakanai (Chowning and Goodenough 2014), and Gela
 (Codrington 1891). Although POc _*puRas_ ‘spray water from the mouth’ can be reconstructed,
 a second term, POc _*puRuk_, similar but apparently unrelated, has wider support.
 
@@ -18525,7 +18525,7 @@ cf. also:
   NNG:  Malai              (u)nep             ‘dwell’
   NNG:  Lukep              nepa               ‘sit down’
   MM:   Kia                nohe               ‘sit’
-  MM:   Bugotu             nohe               ‘sit’
+  SES:  Bugotu             nohe               ‘sit’
 >
 
 
@@ -22134,7 +22134,7 @@ POc *qapi(n), *qapin-i- ‘hold or carry under the arm’
   NNG: Mapos Buang   kpiŋ              ‘carry, hold; carry astraddle the hip; hold under the arm, against the side’
   MM:  E Kara        (ɣə)kəpin-e       ‘carry under the arm’
   MM:  Halia         api-api(c)        ‘armpit; carry under the arm’
-  MM:  Bugotu        avin-i            ‘carry in the arms’
+  SES: Bugotu        avin-i            ‘carry in the arms’
 PNCV *qavin-i- ‘carry under arm’ (Clark 2009: _*qavi-ŋa_)
   NCV: Mota          avŋa-g            ‘carry in the arm, on or under’ (_viŋa-i_ ‘armpit’)
   NCV: Raga          viŋa-i            ‘carry in arms, embrace’ (_malaviŋa-_ ‘armpit’)
@@ -25485,7 +25485,7 @@ PAn monosyllabic root, _*mis_ (Blust 1988).
 PMP *tamiq, *tamis ‘taste, try’ (ACD)
 POc *tami ‘taste, try’
  MM: Tolai                (an)tamai            (VT) ‘to taste, of food’ (an ‘to eat’) (problematic vowels)
-  NCV: Anejom             a-temtem           ‘taste s.t. to see if it’s OK’ (John Lynch pers. comm.)
+  SV: Anejom             a-temtem           ‘taste s.t. to see if it’s OK’ (John Lynch pers. comm.)
   Pn:  Rennellese         tami               ‘taste’
   Pn:  Rennellese         tami-tami          ‘taste a little, as to try’
 >
@@ -26612,7 +26612,7 @@ large number of English lexemes and, for example, distinguishes the various sens
 _think_. Second, frames were defined that reflect meanings found in dictionaries of Oceanic
 languages for cognitive states and activities. Semantic frame labels appear below in small
 capitals. Terms for each frame were found in dictionaries of four Oceanic languages: Nakanai
-(MM; Chowning 2014), To’aba’ita (SES; Lichtenberk 2008), Mwotlap (NCV; François 2012)
+(MM; Chowning and Goodenough 2014), To’aba’ita (SES; Lichtenberk 2008), Mwotlap (NCV; François 2012)
 and Wayan Fijian (Pawley & Sayaba 2003) and are tabulated in the sections on knowing
 (§10.2), thinking (§10.3) and remembering (§10.5). This constituted a check of the
 appropriateness of the list of frames and of their possible representation in POc. In the event,
@@ -26628,7 +26628,7 @@ mind, have s.t. on one’s mind’, ‘remember to do s.t.’, ‘forget to do s
 
 
    A larger language sample would have been ideal, but identifying semantic frames requires
-sentence examples. These are absent from Chowning (2014), but the latter is the best available
+sentence examples. These are absent from Chowning and Goodenough (2014), but the latter is the best available
 dictionary of a MM language. Because semantic frames are subject to borrowing by bilingual
 speakers, and NNG and PT languages have all been in contact with Papuan languages at
 various points in their histories, they are probably poor indicators of POc’s frames and were
@@ -27472,7 +27472,7 @@ cf. also:
 
 <
 POc *ma-qoni ‘true, real’
-  MM: Balawaia             moɣoni                      ‘true’
+  PT: Balawaia             moɣoni                      ‘true’
 PPn *maqoni ‘true, real’ (POLLEX)
   Pn:   Tongan             moʔoni                      ‘true, genuine, real, intrinsic’
   Pn:   Samoan             moni                        ‘true, speak truth’
@@ -27716,8 +27716,8 @@ __formgroup__
 ‘lacking’. The two terms below are from the opposite geographic extremes of MM.
 
 __formgroup__
-  MM: Poeng                |lau pogo  |          [liver.my be.short] ‘forget’
-  MM: Maringe              |ɣaðo kmoʔe|          [think be.short] ‘forget’
+  NNG: Poeng                |lau pogo  |          [liver.my be.short] ‘forget’
+  MM:  Maringe              |ɣaðo kmoʔe|          [think be.short] ‘forget’
 
    The existence of a verb meaning ‘not know’ in many Oceanic languages was noted in §10.2. It
 figures as the second component of the following lexemes.
@@ -29102,7 +29102,7 @@ PSV *a-metaɣ (VI) ‘be afraid, fear’ (Lynch 2001c)
   SV:  Sie               emetet           (VI) ‘be afraid, fear’
   Mic: Carolinian        mesaxu, -a       (VI, VT) ‘have fear, be afraid’
   Mic: Ifaluk            metagu           ‘be afraid, anxious’
-  Fij: Rennellese        mataku           ‘be afraid, cowardly, fear’
+  Pn:  Rennellese        mataku           ‘be afraid, cowardly, fear’
   Fij: Wayan             mataku           (VI) ‘be afraid’
   Fij: Wayan             matakuði-        (VT) ‘be afraid of’
   Pn:  Niuean            mataku-taku      ‘to fear, be afraid’

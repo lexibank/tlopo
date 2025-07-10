@@ -1573,7 +1573,7 @@ POc *kuRo ‘bony fish, probably _Albula_’
   Mic:  Puluwatese    kuwɔ           ‘k.o. small fish’
   Fij:  Rotuman       ʔuo            ‘_Albula_’
   Fij:  Bauan         (yawa)kio      ‘_Albula_’ (_yawa_ ‘_Chanos chanos_’)
-  Fij:  Lau           kikio          ‘_Albula_’
+  Fij: Lau (Eastern Fijian)           kikio          ‘_Albula_’
 PPn *kiokio ‘_Albula vulpes_, bonefish’ (Hooper 1994)[5]
   Pn:   Tongan        kio-kio        ‘_Albula vulpes_, bonefish’
   Pn:   Tokelauan     kio-kio        ‘_Albula vulpes_, bonefish’
@@ -1648,7 +1648,7 @@ POc *paya ‘k.o. small fish, sardine or anchovy’
   NCal: Nelemwa      ba          ‘sardine’
 PCP *vaya ‘k.o. small school fish’ (Geraghty: ‘k.o. anchovy’)
   Fij:  Bauan        vaya        ‘small fish like the _daniva_ (similar to a sardine), but with a red tail’
-  Fij:  Lau          vaya        ‘_Thrissina baelama_’
+  Fij: Lau (Eastern Fijian)          vaya        ‘_Thrissina baelama_’
   Fij:  Kadavu       vaya        ‘k.o. school fish’
   Pn:   Samoan       fā          ‘Megalops (tarpon), found in marshes and river mouths’
 >
@@ -1938,7 +1938,7 @@ POc *[la]bʷa(s,j)i ‘moray eel’
   Mic:   Ponapean     lapʷet        ‘saltwater eel (generic)’
   Mic:   Chuukese     lopʷut        ‘general name for moray eels’
   Mic:   Woleaian     rabʷuto       ‘generic for snake, worm, eel’ (_-o_ unexpected)
-  Fij:   Lau          pusi          ‘Echidna nebulosa, starry or clouded moray’
+  Fij: Lau (Eastern Fijian)          pusi          ‘Echidna nebulosa, starry or clouded moray’
 >
 
 <
@@ -2193,7 +2193,7 @@ POc *Rije ‘_Hemiramphus_, halfbeak’ (Geraghty 1990)
   MM:  Nakanai        lise          ‘small fish which flies, has a sharp bill’
   Fij: Rotuman        jija          ‘_Hemiramphus_, garfish’ (_j-_ for †_∅_)
   Fij: Bauan          sise          ‘_Hemiramphus_, garfish’ (_s-_ for †_∅_)
-  Fij: Lau            sise          ‘_Hemiramphus_, garfish’ (_s-_ for †_∅_)
+  Fij: Lau (Eastern Fijian)            sise          ‘_Hemiramphus_, garfish’ (_s-_ for †_∅_)
 PPn *ise ‘halfbeak spp.’ (Hooper 1994)
   Pn:  Tongan         ihe           ‘_Hemiramphus_’
   Pn:  Niuatoputapu   ihe-ihe       ‘growth stage of halfbeak’
@@ -3635,7 +3635,7 @@ POc *kulabo ‘Lethrinidae’
   Adm: Lenkau        kulom           ‘Lethrinidae, emperor’
   Adm: Lou           kulom           ‘Monotaxis grandoculis, hump-nose sea bream’
   Adm: Titan         kulap           ‘Lethrinidae, sea bream’
-  Fij: Lau           kulabo          ‘_Lethrinidae_ sp.’
+  Fij: Lau (Eastern Fijian)           kulabo          ‘_Lethrinidae_ sp.’
 PPn *kulapo ‘fish sp.’ (Hooper 1994)
   Pn:  Tongan        kulapō          ‘k.o. fish’
   Pn:  Niuean        kulapu          ‘_Paracaesio_ sp., k.o. snapper’
@@ -3874,7 +3874,7 @@ POc *sapulu ‘goatfish spp.’
    PT:  Motu        dahuru        ‘k.o. fish’ (_-r-_ for †_-l-_)
    Mic: Ponapean    epil          ‘_M. vanicolensis_, yellowfin goatfish’
    Mic: Mokilese    ɔpil          ‘goatfish’
-   Fij: Lau         yavulu        ‘Mulloidichthys vanicolensis’
+   Fij: Lau (Eastern Fijian)         yavulu        ‘Mulloidichthys vanicolensis’
 PPn *hafulu ‘growth stage of goatfish’ (Hooper: ‘goatfish, most likely Parupeneus and _Upeneus_ spp.’)
    Pn:  Niuean      hafulu        ‘goatfish’
    Pn:  Samoan      afulu         ‘_M. vanicolensis_, juvenile’
@@ -3941,7 +3941,7 @@ Proto Remote Oceanic *r(a,e)nu(a,e) ‘Kyphosus, rudderfish’
   Mic: Carolinian   rēl             ‘rudderfish’
   Mic: Satawalese   rə̄n            ‘_Kyphosus_ spp., drummer’
 PCP *r(a,e)nu(a,e) ‘Kyphosus ’ (Geraghty 1994)
-  Fij: Lau          rēnua          ‘Kyphosus’
+  Fij: Lau (Eastern Fijian)          rēnua          ‘Kyphosus’
 PPn *ranue ‘Kyohosidae’
   Pn:  Tongan       nue            ‘k.o. fish’
   Pn:  Niuean       nue            ‘rudderfish or drummer, _Kyphosus_ sp.’
@@ -4430,7 +4430,7 @@ POc *bʷos ‘_Scarus_ sp., k.o. parrotfish’
    MM:  Patpatar       pos                ‘long-nosed parrotfish’
    TM:  Buma           boro               ‘_Scarus blochi_’
 PCP *bōsē ‘_Scarus_ sp.’ (Geraghty 1994)
-   Fij: Lau            bōsē               ‘_Scarus_ sp.’
+   Fij: Lau (Eastern Fijian)            bōsē               ‘_Scarus_ sp.’
    Pn:  Niuatoputapu   pōsē               ‘parrotfish’
 cf. also:
    Pn:  Pukapukan      mōyē               ‘k.o. wrasse, _Stethojulis bandanensis_’
@@ -4693,7 +4693,7 @@ POc *[s,j]abiŋ ‘_Acanthurus_ spp., incl. _A. guttatus_, white-spotted surgeon
   Adm: Loniu         capaŋ     ‘possible tang or surgeonfish’
   Mic: Kiribati      riba      ‘_Acanthurus_, surgeonfish generic’ (vowel metathesis)
 PCP *(s,ð)abi ‘Acanthurus guttatus, spotted surgeonfish’ (Geraghty 1994)
-  Fij: Lau           sabi      ‘_A. guttatus_’
+  Fij: Lau (Eastern Fijian)           sabi      ‘_A. guttatus_’
 PPn *hapi ‘Acanthurus guttatus’ (Hooper 1994)
   Pn:  Tongan        hapi      ‘k.o. fish’
   Pn:  Niuean        hapi      ‘_A. guttatus_, surf surgeonfish’
@@ -4764,7 +4764,7 @@ POc *bolo ‘small dark surgeonfish, possibly _Ctenochaetus_’
 <
 PEOc *bon(e,a) ‘generic for various small Acanthuridae’
   SES: Gela        bo-bona     ‘generic for various spp. incl. _A. nigrofuscus_ (dusky surgeonfish), Ctenochaetus striatus (lined bristletooth) and Zebrasoma scopas (blue-lined tang)’
-  Fij: Lau         pone        ‘_A. nigrofuscus_’
+  Fij: Lau (Eastern Fijian)         pone        ‘_A. nigrofuscus_’
 PPn *pone ‘_Acanthurus_ sp. or Ctenochaetus striatus’ (Hooper 1994)
   Pn:  Tongan      pone        ‘k.o. fish, small, black, nearly circular; _C. striatus_ and _Acanthurus_ sp.’
   Pn:  E Uvean     pone        ‘generic for some _Acanthurus_ spp.’
@@ -4838,7 +4838,7 @@ cf. also:
 Proto Remote Oceanic *manini ‘Acanthurus triostegus, convict tang’
   NCV: Raga            manini         ‘_Acanthurus_ spp. incl. _A. triostegus_’
   NCV: Namakir         manin          ‘k.o. surgeonfish’
-  Fij: Lau             manini         ‘Acanthurus triostegus’
+  Fij: Lau (Eastern Fijian)             manini         ‘Acanthurus triostegus’
   Pn:  Tongan          manini         ‘_A. triostegus_’
   Pn:  E Futunan       manini         ‘_A. triostegus_’
   Pn:  Samoan          manini         ‘_A. triostegus_’
@@ -5502,7 +5502,7 @@ POc *[bʷaRu]bʷaRu ‘_Balistes_ taxon, triggerfish’
   SV:    Anejom       na-pʷou           ‘k.o. triggerfish’
   NCal:  Nelemwa      fʷa               ‘_Balistes_ sp.’
   Fij:   Nadroga      gʷau              ‘large Balistidae’
-  Fij:   Lau          gau               ‘large Balistidae’
+  Fij: Lau (Eastern Fijian)          gau               ‘large Balistidae’
   Fij:   Kadavu       gau               ‘_Balistes_ spp., larger than cumu.’
 cf. also:
   Adm:   Titan        pʷalus            ‘triggerfish’
@@ -7594,7 +7594,7 @@ Proto Remote Oceanic *luRa ‘small shrimp’ (Geraghty 1990: PEOc)
   Mic: Mokilese        lūr             ‘a small shrimp’
   Fij: (unspecified)   lua             ‘a small shrimp’
 cf. also:
-  MM:  Sengseng        e-lus           ‘freshwater shrimp’
+  NNG:  Sengseng        e-lus           ‘freshwater shrimp’
 >
 
 
@@ -9437,7 +9437,7 @@ POc *saŋa-saŋa ‘a starfish’ (lit. ‘branching’; cf. POc _*saqa_ ‘bifu
   Adm:     Nauna          caŋa-caŋ             ‘starfish’
   Adm:     Nyindrou       saka-sak             ‘starfish’
   Adm:     Lenkau         saŋu-saŋ             ‘starfish’
-  PT:      Mengen (Poeng) |(kamva) saŋ-saŋ|    ‘starfish, forked’
+  NNG:     Mengen (Poeng) |(kamva) saŋ-saŋ|    ‘starfish, forked’
 cf. also:
    Fij:   Bauan           (ba)saga             (1) ‘branchy’; (2) ‘starfish’
 >
@@ -11727,7 +11727,7 @@ POc *kapoRu ‘k.o. lizard’
    MM:       Kokota       kopro         ‘gecko’
    SV:       N Tanna      kapʷer        ‘lizard’ (_-r_ for †∅) (Tryon 1995)
   cf. also:
-   SHWNG:    Serui-Laut   kafei         ‘house lizard’ (Smits 1992:239)
+   CB:       Serui-Laut   kafei         ‘house lizard’ (Smits 1992:239)
    PT:       Molima       kekepa        ‘green tree skink’
    MM:       Nakanai      kavega        ‘lizard’
    MM:       Tolai        keveu         ‘k.o. iguana’ (monitor)
@@ -15138,7 +15138,7 @@ similarity in appearance to the Koel.
 <
 PCP *kawekawesā ‘Long-tailed Koel, Urodynamis taitensis’
   Fij:   Bauan        kawakasā     ‘long-tailed bird sp.’
-  Fij:   Lau          kawakawasā   ‘Urodynamis taitensis’
+  Fij: Lau (Eastern Fijian)          kawakawasā   ‘Urodynamis taitensis’
   Pn:    Tahitian     ʔōʔōvea      ‘Urodynamis taitensis’
   Pn:    Tongarevan   koekoeā      ‘Urodynamis taitensis’
   Pn:    Maori        koekoeā      ‘Urodynamis taitensis’
@@ -15359,7 +15359,7 @@ cf. also:
 
 <
 PCP *bekabeka ‘swiftlet’ (cf. POc _*bʷeka_ ‘fruit bat, flying fox’, ch. 5, §2.9)
-  Fij:  Lau          bekabeka(niðaŋi)    ‘White-rumped Swiftlet, Aerodramus spodiopygius’
+  Fij: Lau (Eastern Fijian)          bekabeka(niðaŋi)    ‘White-rumped Swiftlet, Aerodramus spodiopygius’
   Pn:   Tongan       pekepeka(tea)       ‘Aerodramus spodiopygius’
   Pn:   Tongan       pekepeka            ‘Pacific Swallow, Hirundo tahitica’
   Pn:   Niuean       pekapeka            ‘Aerodramus spodiopygius’
@@ -15678,7 +15678,7 @@ PNCal *tiā(k,ŋ) ‘Melanesian Graybird, Coracina caledonica’
 PCP *(jea)jea ‘Spotted Triller, Lalage maculosa’
   Fij:    Rotuman      jea
   Fij:    Lomaiviti     sea-sea
-  Fij:    Lau           sea-sea
+  Fij: Lau (Eastern Fijian)           sea-sea
   Fij:    Wayan         sē-sē
   Pn:     Niuean        hea-hea
 >
@@ -15923,7 +15923,7 @@ POc *midi ‘honeyeater’ (see also PPn _*miti_, §6.7, p.349)
   NCal: Tinrin        (ma)mũrũ               ‘bird sp. which sucks flowers’
   NCal: Xaracuu       (mā)mũrũ               ‘Barred Honeyeater, Phylidonyris undulata’
   NCal: Drubea        (má)mùrù               ‘Phylidonyris undulata’’
-  Fij:  Lau           miti-miti, miti(kula)  ‘Orange-breasted Honeyeater (Myzomela jugularis)’
+  Fij: Lau (Eastern Fijian)           miti-miti, miti(kula)  ‘Orange-breasted Honeyeater (Myzomela jugularis)’
   Pn:   E Futunan     |miti (tokiko)|        ‘Carunculated Honeyeater, Foulehaio carunculata’
 cf. also:
   Pn:   Pileni        mihi                   ‘red-fronted bird used for feather money’ (expected †_*miti_)
@@ -16047,7 +16047,7 @@ PPn *miti ‘Striped Starling, _Aplonis tabuensis_’
   Pn:   Samoan       |miti vao|      ‘_Aplonis tabuensis_’ (_vao_ ‘forest’)
   Pn:   Tikopia      miti
 cf. also: Probable Polynesian borrowing:
-  Fij:  Lau          miti
+  Fij: Lau (Eastern Fijian)          miti
 >
 
 <

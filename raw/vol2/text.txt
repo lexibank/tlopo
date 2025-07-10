@@ -2088,7 +2088,7 @@ POc *ŋoro-ŋorok ‘nose’
  NNG: Sio              i-ŋo-ŋoro
  NNG: Amara            (s)ŋorek(a)
  NNG: Kairiru          ŋaRi(-)
- NNG: Notsi            ŋul-ŋul
+ MM:  Notsi            ŋul-ŋul
  MM:  Madak            ŋo-ŋo                           ‘nasal mucus’
  MM:  Tangga           ŋoro-ŋoro
  MM:  Patpatar         ŋar-ŋaro
@@ -3369,8 +3369,8 @@ for this. The partial agreement between Tolai, Wayan Fijian and Gela points to l
 <
 POc *kapuru ‘low-burning remnants of a fire’
  MM:  Vitu            ɣabulo           ‘grey ash’
- MM:  Malasanga       gavura           ‘grey ash’
- MM:  Malalamai       gawur            ‘grey ash’
+ NNG:  Malasanga       gavura           ‘grey ash’
+ NNG:  Malalamai       gawur            ‘grey ash’
  MM:  Tolai           kavolo           ‘cinders’
  MM:  Samasodu        kɔfuru           ‘ashes’
  MM:  Kilokaka        kɔfru            ‘ashes’
@@ -3455,7 +3455,7 @@ PAn *qabu ‘ashes’ (ACD)
 POc *qapu ‘ashes, dust’
  Adm: Mussau           au                ‘ashes’
  NNG: Gitua            avu-avu           ‘ashes’
- NNG: Sobei            afu               ‘ashes’
+ SJ:  Sobei            afu               ‘ashes’
  PT:  Iduna            avu               ‘ashes’
  MM:  Bali             ɣavu              ‘ashes’
  MM:  Teop             avu               ‘ashes’
@@ -3587,7 +3587,7 @@ POc *qasu ‘smoke’
  NNG: Mapos Buang         aru
  MM:  Bali                ɣazu
  MM:  Torau               asu
- MM:  Amara               aso
+ NNG: Amara               aso
  SES: ’Are’are            rasu
  SES: Lau                 sasu
  SES: Arosi               asu-(na), asu-ʔasu
@@ -12298,7 +12298,7 @@ POc (N, N LOC) *bali[-] ‘one of two (opposing) sides or parts’
  Pn:  Tahitian        pari          ‘side’
  Pn:  Tuamotuan       pari(a)       ‘a half’
  cf. also:
- MM:  Motu            badi(nai)     ‘beside’ (_-d-_ for expected _**-r-_)
+ PT:  Motu            badi(nai)     ‘beside’ (_-d-_ for expected _**-r-_)
 >
 
 [15] The PMP etymon is discussed at length by Blust (1980a) and in the ACD.
@@ -12791,7 +12791,7 @@ POc (N LOC) *pai, *|i pai| ‘where at?’
  MM:  Lungga            pai            ‘where?’
  MM:  Roviana           (pa)vei        ‘where?’
  MM:  Kia               hae            ‘where?’
- MM:  Gela              (i)vei         ‘where?’
+ SES: Gela              (i)vei         ‘where?’
  SES: Longgu            evei           ‘where?’
  SES: Lau               (i)fai         ‘where?’
  SES: Kwaio             (i)fai         ‘where?’
@@ -12845,7 +12845,7 @@ PPn (ADV) *[i] fea ‘where at?’
  Pn:  Maori             ɸea         ‘where?’
  Pn:  Tahitian          hea         ‘where?’
  Pn:  K’marangi         hē          ‘where’
- Pn:  Mae               fē          ‘where?’
+ NCV: Mae               fē          ‘where?’
  Pn:  Nukuria           ihē         ‘where?’
 POc (?) (N LOC) *[i] pia ‘where at?’
  MM:  Nehan             ia          ‘where?’
@@ -13837,7 +13837,7 @@ In a number of languages POc _*ua_ is reflected as a preposition or a relator (c
 
 <
 POc *ua ‘go towards addressee’; (DIR) ‘towards addressee’
- Adm: Yapese             u             (PREP) (locative, ablative)
+ Yap: Yapese             u             (PREP) (locative, ablative)
  PT:  Tawala             u             (PREP w N LOC) (locative, allative)
  PT:  Kiriwina           o             (PREP w N LOC) (locative ‘in, into’)
  PT:  Muyuw              u, wa         (PREP) (locative, allative)
@@ -15978,7 +15978,7 @@ POc (?) *na-boŋi ‘yesterday’
  MM:  Bilur              naboŋ             ‘yesterday’
  MM:  Label              naboŋ             ‘yesterday’
  MM:  Tinputz            noboen            ‘yesterday’
- MM:  Kwaio              nāboni            ‘yesterday’
+ SES: Kwaio              nāboni            ‘yesterday’
  cf. also:
  NNG:  Kairiru           (ra)buŋ           ‘yesterday’
  NNG:  Hote              (wak)buk          ‘yesterday’ (_wak_ < POc _*qaco_ ‘sun’)
@@ -16087,7 +16087,7 @@ POc *qa-boŋi-boŋi ‘(?) in the morning’
  NNG: Arop-Lokep      boŋ-boŋ          ‘tomorrow’
  NNG: Malasanga       buŋ-boŋ          ‘tomorrow’
  PT:  Dawawa           boi-boi         ‘morning, tomorrow’
- PT:  Tangga          (na)biŋ-biŋ      ‘tomorrow’
+ MM:  Tangga          (na)biŋ-biŋ      ‘tomorrow’
  SES: Lau             bo-boŋi          ‘tomorrow’
  Pn:  Tongan          (ʔa)poŋi-poŋi    ‘tomorrow’
  Pn:  Niuean          poŋi-poŋi        ‘tomorrow, this morning’
@@ -16134,7 +16134,7 @@ daylight of the present day — ‘tomorrow’ in an English-speaker’s terms.
 <
 POc *ma-raqani ‘become light’
  PT:  Gapapaiwa        maram            ‘tomorrow, in the future’
- PT:  Kandas           markan           ‘tomorrow’
+ MM:  Kandas           markan           ‘tomorrow’
  MM:  Patpatar         marakan          ‘tomorrow’
  NCV: Mota             maran            ‘light, daylight, morning, day; be light; tomorrow’s light; the morrow’
  NCV: Raga             maran            ‘morning light, morning’
@@ -16169,7 +16169,7 @@ Proto Northwest Solomonic *na-tuqu ‘tomorrow’
  MM:  Ghove            natui          ‘tomorrow’
  MM:  Maringe          natuʔu         ‘tomorrow’
 PPn *a(r,l)etuqu ‘tomorrow’
- Pn:  Mae              aretū          ‘tomorrow, day after’
+ NCV: Mae              aretū          ‘tomorrow, day after’
  Pn:  Nukuria          (bō)aledū      ‘tomorrow night’ (_bō_ ‘night’)
  Pn:  W Futunan        aratu          ‘tomorrow’
 >
@@ -16283,7 +16283,7 @@ POc *[qa-]na-waRisa ‘day before yesterday’
  Pn:  Tongan          [ʔa]ʔanoiha       ‘day after tomorrow’
  Pn:  Niuean          [a]noiha          ‘day after tomorrow’
  Pn:  E Uvean         anoia             ‘day after tomorrow’
- Pn:  Mae             anoisa            ‘day after tomorrow’
+ NCV: Mae             anoisa            ‘day after tomorrow’
 >
 
 The contrast between _*waRisa_ with and without _*na-_ is reflected in the following pairs:
@@ -16415,7 +16415,7 @@ POc *qa-ŋican ‘when?’
  MM:  Kia                niha           ‘when?’
  MM:  Kokota             niha(o)        ‘when?’
  MM:  Maringe            (a)ñiha        ‘when?’
- MM:  Gela               ŋiha           ‘how many?’; ‘how much?’; ‘when?’
+ SES: Gela               ŋiha           ‘how many?’; ‘how much?’; ‘when?’
  SES: Bugotu             ñiha           ‘when?’
  SES: Lengo              iŋiða          ‘when?’
  SES: Talise             (ka)ŋisa       ‘when?’
