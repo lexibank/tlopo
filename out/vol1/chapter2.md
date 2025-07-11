@@ -128,6 +128,8 @@ f)   PMP _&ast;e_, phonetically [ə], became POc _&ast;o_, and the PMP word-fina
 
 <a id="p-19"></a>
 
+<a id="table-1"> </a>
+
 : Table 1: The phoneme systems of PMP and POc
 
 |           |             |          |            |      |           |               |      |     |          |
@@ -177,7 +179,7 @@ Similarly, either PMP &ast;k or PMP &ast;g could become either POc &ast;k or POc
 ## 3. Word classes
 
 
-The remarks below on POc word classes and derivational morphology are rather brief, largely because these remain somewhat poorly explored areas. More detail is provided by [Lynch, Ross and Crowley](../sources/Lynchetal2002) ([2002](../sources/Lynchetal2002)), but there is a great deal about POc morphosyntax that we do not know and which is perhaps irretrievable. The major publication on POc grammar is [Pawley](../sources/Pawley1973) ([1973](../sources/Pawley1973)).[^5]
+The remarks below on POc word classes and derivational morphology are rather brief, largely because these remain somewhat poorly explored areas. More detail is provided by Lynch, Ross and Crowley (2002), but there is a great deal about POc morphosyntax that we do not know and which is perhaps irretrievable. The major publication on POc grammar is [Pawley](../sources/Pawley1973) ([1973](../sources/Pawley1973)).[^5]
 
 Ideally, the reconstruction of a Proto Oceanic etymon should include not only its form and meaning, but also its word class membership. POc had just two open lexeme classes: nouns and verbs. POc was a head-marking language, and each valent (dependent) noun phrase was cross-referenced on its head noun or verb by a clitic or suffix. Both nouns and verbs fell into two subclasses on the basis of valency.
 
@@ -202,6 +204,8 @@ Verbs apparently took a proclitic cross-referencing their subject and, if transi
 
 We can reconstruct three major classes of POc intransitive verb on the basis of semantic and morphological criteria, as shown in Table 2.
 
+<a id="table-2"> </a>
+
 : Table 2: Classes of intransitive verb in Proto Oceanic
 
 |                 | 1                                         | 2                     | 3                   | 4                  |
@@ -218,17 +222,117 @@ Fijian preserves the classification in Table 2 quite clearly, although individua
 
 <a id="p-22"></a>
 
-__igt__ (1) Boumaa (Fij): ([Dixon 1988](../sources/Dixon1988):204, 231) a. Au   rabe. s:1s kick 'I'm kicking.' b. Au    rabe-t-a     a   polo. s:1s  kick-TR-O:3s ART ball 'I'm kicking the ball.'
+(1) Boumā (Fij): ([Dixon 1988:204, 231](../sources/Dixon1988))<table class="igt labeled">
+<caption>‘I'm kicking.’</caption>
+<tr>
+<td>a.</td><td><i>Au</i></td>
+<td><i>rabe.</i></td>
+<td style="width: 100%"> </td>
+</tr>
+<tr>
+<td>&nbsp;</td><td>s:1s</td>
+<td>kick</td>
+<td style="width: 100%"> </td>
+</tr>
+</table>
+<table class="igt labeled">
+<caption>‘I'm kicking the ball.’</caption>
+<tr>
+<td>b.</td><td><i>Au</i></td>
+<td><i>rabe-t-a</i></td>
+<td><i>a</i></td>
+<td><i>polo.</i></td>
+<td style="width: 100%"> </td>
+</tr>
+<tr>
+<td>&nbsp;</td><td>s:1s</td>
+<td>kick-TR-O:3s</td>
+<td>ART</td>
+<td>ball</td>
+<td style="width: 100%"> </td>
+</tr>
+</table>
+
 
 Intransitive verbs with an undergoer subject, on the other hand, fall into two classes, U and U-stative. With U verbs the subject of the intransitive is the object of the corresponding transitive:
 
-__igt__ (2) Boumaa (Fij): ([Dixon 1988](../sources/Dixon1988):204, 231) a. E    gagi  a   dovu. s:3s crush ART sugarcane 'The sugarcane is being crushed.' b. Au   gagi-a     a   dovu. s:1s crush-O:3s ART sugarcane 'I'm crushing the sugarcane.'
+(2) Boumā (Fij): ([Dixon 1988:204, 231](../sources/Dixon1988))<table class="igt labeled">
+<caption>‘The sugarcane is being crushed.’</caption>
+<tr>
+<td>a.</td><td><i>E</i></td>
+<td><i>gagi</i></td>
+<td><i>a</i></td>
+<td><i>dovu.</i></td>
+<td style="width: 100%"> </td>
+</tr>
+<tr>
+<td>&nbsp;</td><td>s:3s</td>
+<td>crush</td>
+<td>ART</td>
+<td>sugarcane</td>
+<td style="width: 100%"> </td>
+</tr>
+</table>
+<table class="igt labeled">
+<caption>‘I'm crushing the sugarcane.’</caption>
+<tr>
+<td>b.</td><td><i>Au</i></td>
+<td><i>gagi-a</i></td>
+<td><i>a</i></td>
+<td><i>dovu.</i></td>
+<td style="width: 100%"> </td>
+</tr>
+<tr>
+<td>&nbsp;</td><td>s:1s</td>
+<td>crush-O:3s</td>
+<td>ART</td>
+<td>sugarcane</td>
+<td style="width: 100%"> </td>
+</tr>
+</table>
+
 
 U verbs and U-statives differ from each other in two respects. First, unlike U verbs, U-statives have no corresponding transitive (but do have a corresponding causative, as described below). Second, U-statives like loaloa 'be black' in (3) are inherently stative, whereas U verbs like gagi in (4) are inherently neither dynamic nor stative. With appropriate aspect marking and context, the clause in (4) may be given either a dynamic ('the sugarcane is being crushed') or a stative ('the sugarcane is [already] crushed') interpretation.
 
-__igt__ (3) Boumaa (Fij): ([Dixon 1988](../sources/Dixon1988):204, 231) E    loaloa   a   ʔolii yai. s:3s be.black ART dog   this 'This dog is black.'
+(3) Boumā (Fij): ([Dixon 1988:204, 231](../sources/Dixon1988))<table class="igt">
+<caption>‘This dog is black.’</caption>
+<tr>
+<td><i>E</i></td>
+<td><i>loaloa</i></td>
+<td><i>a</i></td>
+<td><i>ʔolii</i></td>
+<td><i>yai.</i></td>
+<td style="width: 100%"> </td>
+</tr>
+<tr>
+<td>s:3s</td>
+<td>be.black</td>
+<td>ART</td>
+<td>dog</td>
+<td>this</td>
+<td style="width: 100%"> </td>
+</tr>
+</table>
 
-__igt__ (4) Boumaa (Fij): ([Dixon 1988](../sources/Dixon1988):204, 231) E    gagi  a   dovu. s:3s crush ART sugarcane 'The sugarcane is crushed.'
+
+(4) Boumā (Fij): ([Dixon 1988:204, 231](../sources/Dixon1988))<table class="igt">
+<caption>‘The sugarcane is crushed.’</caption>
+<tr>
+<td><i>E</i></td>
+<td><i>gagi</i></td>
+<td><i>a</i></td>
+<td><i>dovu.</i></td>
+<td style="width: 100%"> </td>
+</tr>
+<tr>
+<td>s:3s</td>
+<td>crush</td>
+<td>ART</td>
+<td>sugarcane</td>
+<td style="width: 100%"> </td>
+</tr>
+</table>
+
 
 The dividing line between U and U-stative is a thin one. In some, probably many, Oceanic languages, including Fijian, appropriate aspect marking can force a dynamic interpretation of an U-stative (e.g. of 'black' as 'become black '). There does, however, seem to be a semantic difference between the two classes: intransitive U verbs imply some unmentioned agent or instrument, whereas U-statives do not.
 
@@ -592,9 +696,47 @@ In the light of these complications-and because we do not understand them well-w
 
 <a id="p-35"></a>
 
-POc had no separate adjective class. Instead, it had a large class of adjectival verbs and a small class of adjectival nouns ([Ross 1998a](../sources/Ross1998a)). The class of adjectival verbs appears to have included all U-statives, and at least some U intransitives ([§3.1.1](../contributions/1-2#s-3-1-1)). Many reconstructed adjectival verbs include the U intransitive prefix _&ast;ma-_ ([§3.1.2](../contributions/1-2#s-3-1-2)). Both adjectival verbs and adjectival nouns could apparently follow the noun they modified without any morphological marking, but their behaviour differed in the predicate. There, an adjectival verb behaved like any intransitive verb, whilst an adjectival noun behaved as a (zero-valency) noun whose property is attributed to a referent or referents. Thus POc _&ast;saqat_ 'bad' was an adjectival verb, _&ast;paqoRu_ 'new' an adjectival noun. Either could modify a noun: POc _&ast;a Rumaq saqat_ 'a bad house', POc _&ast;a Rumaq paqoRu_ 'a new house' (where _&ast;a_ was a common article). Compare Bali-Vitu _a rumaka zaɣata_ and _a rumaka vaɣoru_ (Bali-Vitu is a conservative Oceanic language of the Meso-Melanesian cluster). However, as predicates they behaved differently, probably as in the Bali-Vitu examples below, where _zaɣata_ 'bad' is a verb preceded by the proclitic _ti_, a portmanteau marker of third person subject and perfective aspect, whilst _vaɣoru_ 'new' is preceded by the article _a_ and means 'a new one'. (25) Bali-Vitu:
+POc had no separate adjective class. Instead, it had a large class of adjectival verbs and a small class of adjectival nouns ([Ross 1998a](../sources/Ross1998a)). The class of adjectival verbs appears to have included all U-statives, and at least some U intransitives ([§3.1.1](../contributions/1-2#s-3-1-1)). Many reconstructed adjectival verbs include the U intransitive prefix _&ast;ma-_ ([§3.1.2](../contributions/1-2#s-3-1-2)). Both adjectival verbs and adjectival nouns could apparently follow the noun they modified without any morphological marking, but their behaviour differed in the predicate. There, an adjectival verb behaved like any intransitive verb, whilst an adjectival noun behaved as a (zero-valency) noun whose property is attributed to a referent or referents. Thus POc _&ast;saqat_ 'bad' was an adjectival verb, _&ast;paqoRu_ 'new' an adjectival noun. Either could modify a noun: POc _&ast;a Rumaq saqat_ 'a bad house', POc _&ast;a Rumaq paqoRu_ 'a new house' (where _&ast;a_ was a common article). Compare Bali-Vitu _a rumaka zaɣata_ and _a rumaka vaɣoru_ (Bali-Vitu is a conservative Oceanic language of the Meso-Melanesian cluster). However, as predicates they behaved differently, probably as in the Bali-Vitu examples below, where _zaɣata_ 'bad' is a verb preceded by the proclitic _ti_, a portmanteau marker of third person subject and perfective aspect, whilst _vaɣoru_ 'new' is preceded by the article _a_ and means 'a new one'.
 
-__igt__ (25) Bali-Vitu (MM): a. A       vaga  beini  ti           zaɣata. ARTICLE canoe that   PERFECTlVE:3 bad 'That canoe is broken.' b. A       rumaka beini a       vaɣoru. ARTICLE house  that  ARTICLE new 'That house is new.'
+(25) Bali-Vitu (MM)<table class="igt labeled">
+<caption>‘That canoe is broken.’</caption>
+<tr>
+<td>a.</td><td><i>A</i></td>
+<td><i>vaga</i></td>
+<td><i>beini</i></td>
+<td><i>ti</i></td>
+<td><i>zaɣata.</i></td>
+<td style="width: 100%"> </td>
+</tr>
+<tr>
+<td>&nbsp;</td><td>ARTICLE</td>
+<td>canoe</td>
+<td>that</td>
+<td>PERFECTIVE:3</td>
+<td>bad</td>
+<td style="width: 100%"> </td>
+</tr>
+</table>
+<table class="igt labeled">
+<caption>‘That house is new.’</caption>
+<tr>
+<td>b.</td><td><i>A</i></td>
+<td><i>rumaka</i></td>
+<td><i>beini</i></td>
+<td><i>a</i></td>
+<td><i>vaɣoru.</i></td>
+<td style="width: 100%"> </td>
+</tr>
+<tr>
+<td>&nbsp;</td><td>ARTICLE</td>
+<td>house</td>
+<td>that</td>
+<td>ARTICLE</td>
+<td>new</td>
+<td style="width: 100%"> </td>
+</tr>
+</table>
+
 
 
 <a id="s-4"></a>

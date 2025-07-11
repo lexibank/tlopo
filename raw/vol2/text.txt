@@ -11063,7 +11063,7 @@ relation to objects. For example, _ubu-_ ‘inside’ is treated as possessum in
 possessor _pera_ ‘basket’:
 
 __igt__
-    Longgu
+    Longgu (SES)
      vugi   ubu-na       pera-i
      banana inside-P:3SG basket-SG
      ‘The banana is inside the basket.’
@@ -11124,11 +11124,12 @@ __block__
          (ii) nouns denoting geographic directions, ‘down below’, ‘up above’;
     (c) temporal nouns;
     (d) monovalent relational nouns, e.g. nouns denoting intrinsic parts, like ‘inside’, ‘upper surface or space  above’, ‘lower surface’, ‘space beneath’ and so on;
-    In Taiof a local noun may form a locative expression without a preposition (i.e. *i has
-    been lost), like koma-na matan below.[9] A locative expression with a common noun
+    In Taiof a local noun may form a locative expression without a preposition (i.e. _*i_ has
+    been lost), like _koma-na matan_ below.[9] A locative expression with a common noun
    must be formed with a preposition.
 
 __igt__
+    Taiof (MM)
        E   Maras to   noŋos no-n       koma=na matan.
        ART Maras REAL dwell IMPF-P:3SG inside=ART ditch
        ‘Maras is in the ditch.’
@@ -11138,14 +11139,15 @@ __block__
    and prepositions (the term ‘relator’ is explained on p.268):
 
 __tablenh__
-                                       location         extent             direction
-                                       ‘at’             ‘as far as’        ‘to, towards’
-       with a local noun               i                mi                 vu
-       with a common noun              ta-              mi ta-             vu ta-
+                                |       location   |      extent       |      direction
+                                |       ‘at’       |      ‘as far as’  |      ‘to, towards’
+       with a local noun        |       _i_          |      _mi_           |      _vu_
+       with a common noun       |       _ta-_        |      _mi ta-_       |      _vu ta-_
 
    Thus we find:
 
 __igt__
+    Longgu (SES)
       e     la vu komu (local noun)
       S:3SG go R  village
       ‘s/he went towards her/his (home) village’
@@ -11800,8 +11802,7 @@ __igt__
      ‘inside the house’ (more literally ‘at the house’s inside’)
      *i   gabʷari-ña       Rumaq
      PREP underneath-P:3SG house
-     ‘underneath the house’ (more literally ‘at the house’s underneath’)
-     (gabʷari- ‘the area underneath a raised house’; vol. 1, p.51)
+     ‘underneath the house’ (more literally ‘at the house’s underneath’, _gabʷari-_ ‘the area underneath a raised house’; vol. 1, p.51)
      *i   muri-gu
      PREP back-P:1SG
      ‘behind me’
@@ -12955,7 +12956,7 @@ __igt__
     ‘I have brought some coconuts.’
     ɣōi  ma-zo=la               Susuka
     s/he S:3SG:IRR-walk=thither Susuka
-    S/he is going to Susuka village.’
+    ‘S/he is going to Susuka village.’
 
 268     Malcolm Ross
 
@@ -12980,7 +12981,7 @@ example, we find (Mosel & Hovdhaugen 1992:147):
 __igt__
     Samoan (Pn):
       Na   oso  i    lalo le  tama mai  le  solofanua …
-      PAST jump PREP down ART boy  PREP ART horse
+      PAST jump PREP down ART boy  PREP ART horse …
       ‘The boy jumped down from the horse …’
 
 In Meso-Melanesian languages of New Britain and New Ireland and in Longgu (SES), the
@@ -12994,7 +12995,7 @@ prepositional phrase. Hence in Longgu, vu is the allative relator reflecting *ua
 __igt__
     Longgu (SES):
       … m-ara     la maʔa           vu masuʔu
-        and-S:3PL go PERFECTIVE R bush
+      … and-S:3PL go PERFECTIVE R bush
       ‘… and they went into the bush’
       amalu ho la vu ta-na             malaba-i ni    umwani-a
       D:1EP IRR go R PREP-P:3SG garden-SG in.order.to weed-O:3SG

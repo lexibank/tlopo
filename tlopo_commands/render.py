@@ -66,6 +66,29 @@ def run(args):
     db = Database(cldf)
     db.write_from_tg()
 
+    def eg(egid):
+        q = """
+            select gr.number, l.cldf_name, l.`Group`, ex.label, ex.cldf_analyzedWord, ex.cldf_gloss, ex.cldf_translatedText, exs.SourceTable_id, ex.Reference_Label \
+            from ExampleTable as ex \
+                     join `examplegroups.csv_ExampleTable` as eggr on (ex.cldf_id = eggr.ExampleTable_cldf_id) \
+                     join `examplegroups.csv` as gr on (gr.cldf_id = eggr.`examplegroups.csv_cldf_id`) \
+                     join languagetable as l on (ex.cldf_languageReference = l.cldf_id) \
+                     left join ExampleTable_SourceTable as exs on ex.cldf_id = exs.ExampleTable_cldf_id
+            where gr.cldf_id = ? \
+            """
+        num, lname, lgroup, src, pages, ex = None, None, None, None, None, []
+        rows = db.query(q, (egid,))
+        assert len(set(r[1] for r in rows)) == 1, 'Multiple languages in example group!'
+        assert len(set(r[-2] for r in rows if r[-2])) <= 1, 'Multiple sources in example group!'
+        for row in db.query(q, (egid,)):
+            if row[0]:
+                num = row[0]
+            lname, lgroup = row[1], row[2]
+            if row[-2]:
+                src, pages = row[-2], row[-1]
+            ex.append(row[3:-2])
+        return num, lname, lgroup, src, pages, ex
+
     def f(rid):
         # `cognatesetreferences.csv_FormTable`
         # `cognatesetreferences.csv_glosses.csv`
@@ -203,6 +226,7 @@ order by g.cldf_formReference
                     href_media=lambda mid: data_url(media[mid].read(), 'image/png'),
                     get_reconstruction=f,
                     get_cfs=cfs,
+                    get_eg=eg,
                     get_cfitems=cfitems,
                     glosses_by_formid=glosses_by_formid),
             )

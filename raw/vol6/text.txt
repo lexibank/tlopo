@@ -19990,25 +19990,27 @@ transfers a theme to a recipient. Oceanic languages have verbs with a similar me
 movement verbs and have ‘give’ among the glosses of their reflexes; see POc *lapi ‘take, get,
 give’/PNCV *lavi ‘carry, take’ and POc *la(q)-i- ‘take, get, bring’/PNCV *la-i ‘take,
 give’ (vol.5:426–427), POc *kwau, *kwa(p,b)-i- (?) ‘get, take’ (vol.5:428) and POc *taRu(q)
-‘put down, lay down’ (vol.5:449. In Hoava (MM), vale ‘give, put’, reflecting POc *pala-i-
+‘put down, lay down’ (vol.5:449. In Hoava (MM), vale ‘give, put’, reflecting POc _*pala-i-_
 ‘give’, has both functions:
 
 __igt__
+Hoava (MM)
 Koni buma        sa        kuma pula vale-a   goe              sa     dae        buma.
 FUT    GREEN     ART:SG    water if  give-3SG 2SG              ART:SG dye        green
 ‘The water will be green if you put in the green dye.’
 
    Across languages the archetypal change of possession verb is the one that means ‘give’. In
 POc this was evidently *pani-, which took the recipient as its object, as the verbs below with
-an encliticised or suffixed object marker show.4 The fact that it took the recipient as object
+an encliticised or suffixed object marker show.[4] The fact that it took the recipient as object
 resulted in use first as the final verb in a serial verb construction, where it marked the
 recipient or beneficiary, then in its grammaticisation as a benefactive marker or preposition in
 various languages, as in Manam:
 
 __igt__
+Manam (NNG)
 natu i-ruʔu-i-an-a
 child 3SG-wash-3SG-BEN-1SG
-‘He washed the child for me.’ (Lichtenberk 1983b:69)
+‘He washed the child for me.’ (Lichtenberk 1983: 69)
 
 __formgroup__
  Adm:      Wuvulu       i-na-ware-fan-au           ‘She told me’; [3SG-RLS-talk-give-1SG]

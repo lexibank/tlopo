@@ -850,9 +850,10 @@ with a potential second participant, but the subject of the verb is the undergoe
 in this sentence:
 
 __igt__
+    Boumā (Fij): (Dixon 1988:204)
      e     gagi a       dovu
      S:3S crush ART sugarcane
-     ‘The sugarcane is being crushed.’ (literally ‘The sugarcane crushes’) (Dixon 1988:204)
+     ‘The sugarcane is being crushed.’ (literally ‘The sugarcane crushes’)
 
 This and the following examples are from Boumaa Fijian.
 
@@ -860,6 +861,7 @@ This and the following examples are from Boumaa Fijian.
 version of the verb (which in this—but not every—case has the same form as the intransitive).
 
 __igt__
+    Boumā (Fij):
      au gagi-a          a     dovu.
      S:1S crush-O:3S ART sugarcane
      ‘I’m crushing the sugarcane.’
@@ -873,6 +875,7 @@ suggests that U-verbs are quite common in Oceanic languages.
 the subclass of U-verbs which contains stative or ‘adjectival’ verbs, as in this example:[27]
 
 __igt__
+    Boumā (Fij):
      e     loaloa a           ʔolii ya
      S:3S be.black ART        dog this
      ‘This dog is black.’
@@ -897,9 +900,13 @@ dead’ and Manam -mate tina ‘dead + intensifier’.
 in that the actor is the subject both of the intransitive and of its transitive counterpart.[28]
 
 __igt__
-a. au      rabe                       b. au rabe-t-a           a          polo
-   S:1S    kick                          s:1s kick-TR-O:3S ART            ball
-   ‘I’m kicking.’                        ‘I’m kicking the ball.’
+    Boumā (Fij): (Dixon 1988)
+a. au      rabe
+   S:1S    kick
+   ‘I’m kicking.’
+b. au rabe-t-a           a          polo
+   s:1s kick-TR-O:3S ART            ball
+   ‘I’m kicking the ball.’
 
 Dixon (1988:205) notes that Boumaa Fijian A-verbs are mostly verbs of motion like ‘go’,
 ‘jump’, ‘creep’, ‘fly’ etc, whereas U-verbs are mostly verbs of affect: ‘crush’, ‘bend’, ‘fold’,
@@ -1022,11 +1029,11 @@ causative in (c) introduces the causer argument _o Jone_ ‘John’, and the act
 The object of (b), ‘arithmetic’, is an oblique in both the intransitive of (a) and the causative of
 
 __igt__
-(c).
-a. au sā        vuli (i-na      fika)
+(c)  Boumā (Fij)
+a. au   sā  vuli  (i-na      fika)
    S:1S ASP learn PREP-ART arithmetic
    ‘I am learning (about arithmetic).’
-b. au sā        vuli-ŋa        a          fika
+b. au   sā        vuli-ŋa        a          fika
    S:1S ASP learn-TR:O:3S ART             arithmetic
    ‘I am learning arithmetic.’
 c. e     sā     vaʔa-vuli-ŋi   au o          Jone (i-na fika)
@@ -1037,13 +1044,14 @@ In (d) the verb ʔau ‘take, carry’ is a U-verb, so its subject ‘letter’ 
 the transitive in (b) and of the causative in (c).
 
 __igt__
+Boumā (Fij)
 d. e     ʔau yane          a     ivola
    s:1s take thither ART letter
    ‘The letter is being taken/sent.’
 e. e    ʔaut-a yane            a       ivola a      ðauravou
    s:1s take-o:3s thither      ART     letter ART   youth
    ‘The youth is taking the letter.’
-f. e     vaʔa-ʔau-t-a yane       a      ivola a       marama
+f. e    vaʔa-ʔau-ta    yane    a   ivola  a   marama
    s:1s CAUS-take-O:3S thither ART letter ART woman
    ‘The woman is posting (= causing to be sent) the letter.’ (Dixon 1988:185)
 
@@ -18357,6 +18365,7 @@ Oceanic languages tend to have constructions of types 1 and 3, but not type 2. T
 (Adm) sentence below is of type 1:[2]
 
 __igt__
+Seimat (Adm)
 Tok      mom          hahitak-e         tehu     iŋ.
 CLF      chicken      under-CSTR        CLF      house
 ‘The chicken [is] under the house.’ (Wozna & Wilson 2005:66)
@@ -18367,19 +18376,22 @@ where the verb _-eno_ ‘lie’ is used in locative and existential sentences[3]
 where there is no postural orientation at all.
 
 __igt__
+Manam (NNG)
 Malipi       di-eno,      masa         n-duma-iʔo.
 work         S:3P-lie     INDEF.IRR    s:1S.IRR-help-O:2S
 ‘If there is work, I’ll help you.’ (Lichtenberk 2002:277)
 
 __igt__
-More       ilo-gu-lo                i-eno.
-sickness inner. belly-P:1S-in s:3S.REAL-lie
+Manam (NNG)
+More     ilo-gu-lo           i-eno.
+sickness inner.belly-P:1S-in s:3S.REAL-lie
 ‘I’m sick in the belly.’ (Lit. ‘The sickness is in my belly.’) (Lichtenberk 2002:277)
 
 With a human subject, on the other hand, _-soaʔi_ ‘sit’ is used in a locative sentence, again with
 no postural implication:
 
 __igt__
+Manam (NNG)
 Barasi rua ŋau          taun-lo u-soaʔi.
 year     two I          town-in s:1S.REAL-sit
 ‘Two years I was/stayed/lived in the town.’ (Lichtenberk 2002:275)
@@ -18387,8 +18399,9 @@ year     two I          town-in s:1S.REAL-sit
 The choice of _-eno_ ‘lie’, rather than _-soaʔi_, with a human subject is clearly a postural usage.
 
 __igt__
-Kadiaraŋ maka bale              ne-na-lo i-eno              be i-tan~taŋ.
-K.        here men’s. house     CLF -P:3S -in S:3S.REAL-lie and s:3S.REAL-REDUP-cry
+Manam (NNG)
+Kadiaraŋ  maka bale            ne-na-lo    i-eno         be  i-tan~taŋ.
+K.        here men’s.house     CLF-P:3S-in S:3S.REAL-lie and s:3S.REAL-REDUP~cry
 ‘Kadiarang is lying in his house (and is) crying.’ (Lichtenberk 2002:274)
 
 As these Manam examples show, the choice of posture verb depends on two factors. The first
@@ -19232,9 +19245,10 @@ illustrated in this Hoava (MM) example:[8]
 
 
 __igt__
+Hoava (MM)
 Hagala       vura        mae         sa          manue.
-run          go. out     come        ART:S       possum
-MANNER       PATH        DEIXIS
+run          go.out      come        ART:S       possum
+MANNER       PATH        DEIXIS      …           …
 ‘The possum came running out.’ (Davis 2003:155)
 
 In this construction, the elements of manner, path and deixis are each encoded by a finite verb,
@@ -19244,18 +19258,20 @@ respectively of locomotion, geographic direction (vol.2:259–267) and deictic d
 in Hoava.
 
 __igt__
-Keba          saɣeli-a                 sa          koburu      sa          ŋohara.
-climb         go. up. TR-O:3S          ART:S       child       ART:S       coconut
-MANNER        PATH
+Hoava (MM)
+Keba          saɣeli-a               sa          koburu      sa          ŋohara.
+climb         go.up.TR-O:3S          ART:S       child       ART:S       coconut
+MANNER        PATH                   …           …           …           …
 ‘The child climbed up the coconut tree.’ (Davis 2003:155)
 
 Elaboration of this manner–path–deixis schema, often by the presence of more than one path
 verb, is quite common across Oceanic languages, as in this Tuam (NNG) sentence:[9]
 
 __igt__
+Tuam (NNG)
 Waax          tsiei        i-looɣ     i-pot      i-zi         nuɣ              tawe.
 canoe         our.EXC      s:3S-enter s:3S-float s:3S-descend place            that.over.there
-                           PATH           MANNER     PATH
+…             …              PATH           MANNER     PATH   …                …
 ‘Our canoe/boat went coastwards and floated to that place there.’ (Bugenhagen 2007)
 
     Talmy’s original classification of movement constructions and verbs did not include a
@@ -20495,9 +20511,10 @@ In serial verb constructions reflexes of POc *mule are often treated as verbs of
 direction, as in this Takia (NNG) example:
 
 __igt__
-u-mul            0̷-palu   =wa
-2SG-return     2SG-come    PRF
-PATH           DEIXIS
+Takia (NNG)
+u-mul          0̷-palu     =wa
+2SG-return     2SG-come   =PRF
+PATH           DEIXIS     …
 ‘You’ve come back.’
 
 410 Malcolm Ross
@@ -20869,10 +20886,11 @@ verbs in serial verb constructions in at least the languages of southern New Ire
 Ramoaaina (MM) example.
 
 __igt__
+Ramoaaina (MM)
 i=             wan          pat
 3SG=           go           arrive
-               MANNER       DEIXIS
-‘He came.’ (Fritzell & Davies, Ramoaaina vocabulary)
+…              MANNER       DEIXIS
+‘He came.’ (Fritzell & Davies n.d.)
 
     Clark (2009) notes that in north and central Vanuatu languages reflexes of _*potu_ are used
 of the emergence of the new moon: e.g. Mota _o vula we wot ma_ ‘a new moon appears’, and
@@ -21271,6 +21289,7 @@ In this respect Oceanic languages are similar to English. The Vitu (MM) verb _pe
 with a source in this example. The source is ‘her betelnut basket’.
 
 __igt__
+Vitu (MM)
 Na tavine hanitu e          pele-a na tureturea na ka-na kolopi mamaha.
 ART woman spirit RLS:3 take-3SG ART stamper          PREP PCL-3SG basket chew.betelnut
 ‘The spirit woman took a stamper from her betelnut basket.’ (129)
@@ -21281,15 +21300,17 @@ contrast with a deictic direction verb—or a deictic morpheme derived from a ve
 (vol.2:273-282)—in the last slot of a serial verb construction, as in these Vitu (MM) examples.
 
 __igt__
+Vitu (MM)
 Ia       pele-a       vano.
 He       take-3SG     go
-         MANNER       DEIXIS
+…         MANNER       DEIXIS
 ‘He took it away.’ (Berg & Bachet 2006:180)
 
 __igt__
+Vitu (MM)
 Pele-a   haine      mai!
 take-3SG iron.spear come
-MANNER                     DEIXIS
+MANNER    …         DEIXIS
 ‘Bring the spear here!’ (Berg & Bachet 2006:181)
 
 This leaves _pele-_ profiling only the means of movement, namely that the agent moves the
@@ -22406,25 +22427,25 @@ verb constructions.
 
 __igt__
 Mangap-Mbula (NNG)
-Zin   ti-ur     i-su                      tōno
-they 3PL-put    3SG-go.down               ground
-         MANNER        PATH
+Zin   ti-ur      i-su                      tōno
+they  3PL-put    3SG-go.down               ground
+…     MANNER     PATH                      …
 ‘They put it on the ground.’ (Bugenhagen 1995:166)
 
 __igt__
 Kusaghe (MM):
-Lohe     lae-ni-a pa                 beha
-put      go-TR-3SG PREP              basket
-MANNER       DEIXIS
+Lohe     lae-ni-a      pa             beha
+put      go-TR-3SG     PREP           basket
+MANNER       DEIXIS    …              …
 ‘Put it in the basket.’ (Davis 2003:166)
 
                                                                          Posture and movement 449
 
 __igt__
 NE Ambae (NCV)
-…da-mo tau                 na           loko      mo           hivo
-1INC-RLS put               ACC          pudding   RLS          go.down
-            MANNER                                             PATH
+…da-mo    tau                 na           loko      mo           hivo
+1INC-RLS  put                 ACC          pudding   RLS          go.down
+…         MANNER              …            …         …          PATH
 ‘We put the pudding down.’ (Hyslop 2001:302)
 
    Posture-profiling verbs of putting occur so rarely in sentence examples that one cannot
@@ -27014,8 +27035,10 @@ complement of _pʷa_ to be spoken or simply thought (Dineke Schokkin, pers. comm
 Bugenhagen & Bugenhagen (2007b) gloss the Mangap sentence
 
 __igt__
+Mangap (NNG)
     Nio     aŋ-so    ina        aᵐbai        som
-    I       I-say    that (DEM) good         not
+    I       I-say    that.DEM   good         not
+   ‘I say/think that is not good’ (Bugenhagen & Bugenhagen 2007b)
 
 as both _I say that is not good_ and _I think that is not good_. Thus the meaning of the example
 ‘say/think’ verbs listed below is something like ‘formulate in words, either spoken or
@@ -27836,23 +27859,22 @@ compound, but here ‘two’ is replaced by ‘entangled (with weeds)’.
 __Table 27__   Predicates of indecision in three witness languages
 
 __igt__
-         Nakanai
+         Nakanai (MM)
          la-gabutatala ilua
          ART-thoughts two
          ‘Thoughts are two.’
 
 __igt__
-         To’aba’ita
+         To’aba’ita (SES)
          manata-ku         e=ruarua
          mind-my           it=two
          ‘My mind is two.’
-
          nau       ku=manata-ruarua,
          I         I=mind-two
          ‘I (am) two minds.’
 
 __igt__
-         Wayan
+         Wayan (Fij)
          Sā          leŋaleŋā-rau
          s/he        thinking-entangled
          ‘S/he (has) entangled thoughts.’
@@ -29615,6 +29637,7 @@ __formgroup__
                                                                                       Describing people 595
 
 __igt__
+Mangap-Mbula (NNG)
          Nio lele-ŋ            be aŋ-la pa ᵐbeŋ8
          I      insides-my NF I-go at night
          ‘I wanted to go at night.’
@@ -29623,6 +29646,7 @@ A more literal translation is ‘My inside/thought/desire (was) that I would go 
 Kalokalo (PT) sentence has a similar structure (Guderian & Guderian 2002).
 
 __igt__
+Kalokalo (PT)
      nuanua-gu ya-na-egimʷaneye-ya
      want-my        I-will-sell-it
      ‘I wanted to sell it.’
@@ -29632,7 +29656,8 @@ where the transitive verbal suffix _-ni_ is attached to the ‘mind’ noun _sin
 suffix, in this instance _-la_ ‘their’ (Early 1994a).
 
 __igt__
-       sine-la-ni        0-̷ sape Palua 0-̷ va                e wa
+Lewo (NCV)
+       sine-la-ni    ∅-sape Palua ∅-va           e  wa
        guts-their-TR it-say Palua he-iRREALIS.go to ship
        ‘They want Palua to go out to the ship.’
 
@@ -29645,11 +29670,13 @@ of internal speech and thought. In Bariai (NNG) _keo_ serves as both ‘say’ a
 sense is disambiguated by the construction that follows it (Gallagher & Baehr 2005).
 
 __igt__
+Bariai (NNG)
        Ti-keo     pa=gid taine ngan ti-la              dadanga-i.
        they-say to=them female to            they-go garden-at
        ‘They tell the women to go to the garden.’
 
 __igt__
+Bariai (NNG)
          Na-keo ga sabale         gaisala   eao Ø-nam.
          I-say    that tomorrow morning thou thou-come
          ‘I want you to come tomorrow morning.’

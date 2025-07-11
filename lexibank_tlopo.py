@@ -317,7 +317,8 @@ class Dataset(BaseDataset):
         reconstructions = []
         for v in list(langs.values()):
             for alt in v['Alternative_Names'].split('; '):
-                langs[alt] = v
+                if alt:
+                    langs[alt] = v
 
         def add_protolang(w):
             if isinstance(w, Protoform) and w.lang not in langs:
@@ -325,7 +326,7 @@ class Dataset(BaseDataset):
                     ID=slug(w.lang), Name=slug(w.lang, lowercase=False), Is_Proto=True)
                 langs[w.lang] = slug(w.lang)
 
-        fgs = []
+        fgs, egs = [], []
         for vol in range(1, 7):
             #if vol not in {1, 2, 3, 4, 5}:
             #    continue
@@ -338,6 +339,7 @@ class Dataset(BaseDataset):
             for i, fg in enumerate(vol.formgroups):
                 fgs.append(fg)
 
+            egs.extend(list(vol.igts))
             mddir = self.cldf_dir.joinpath(vol.dir.name)
             mddir.mkdir(exist_ok=True)
             for num, chapter in vol.chapters.items():
@@ -522,12 +524,58 @@ class Dataset(BaseDataset):
                     # Source=[str(ref) for ref in form.gloss.refs],
                     # Doubt=form.doubt,
                 ))
+        for eg in egs:
+            for ex in eg.examples:
+                args.writer.objects['ExampleTable'].append(dict(
+                    ID=ex.id,
+                    Primary_Text=ex.igt.primary_text,
+                    Language_ID=langs[ex.language] if isinstance(langs[ex.language], str) else langs[ex.language]['ID'],
+                    Analyzed_Word=ex.analyzed,
+                    Gloss=ex.gloss,
+                    Translated_Text=ex.translation,
+                    label=ex.label,
+                    Movement_Gloss=ex.add_gloss,
+                    Source=[ex.reference.cldf_id] if ex.reference else [],
+                    Reference_Label=ex.reference.label if ex.reference else '',
+                    #
+                    # FIXME: make complete!
+                    #
+                ))
+            args.writer.objects['examplegroups.csv'].append(dict(
+                ID=eg.id,
+                Number=eg.number,
+                Example_IDs=[ex.id for ex in eg.examples],
+            ))
 
     def local_schema(self, cldf):
         """
         Gloss
         - number
         """
+        cldf.add_table(
+            'examplegroups.csv',
+            {
+                'name': 'ID',
+                'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#id'},
+            {
+                'name': 'Example_IDs',
+                'separator': ' ',
+                'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#exampleReference'},
+            'Number',
+        )
+        cldf.add_component(
+            'ExampleTable',
+            {
+                'name': 'Source',
+                'separator': ';',
+                'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#source'},
+            'Reference_Label',
+            'label',
+            {
+                'name': 'Movement_Gloss',
+                'separator': '\t',
+            },
+        )
         cldf.add_component(
             'MediaTable',
             {
