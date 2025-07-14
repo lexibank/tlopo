@@ -29,7 +29,7 @@ Available online at http://hdl.handle.net/1885/106908
 - **Lexemes:** 42,895
 - **Sources:** 5
 - **Synonymy:** 1.05
-- **Cognacy:** 41,071 cognates in 2,832 cognate sets (0 singletons)
+- **Cognacy:** 41,037 cognates in 2,830 cognate sets (0 singletons)
 - **Cognate Diversity:** -0.75
 
 ## Possible Improvements:

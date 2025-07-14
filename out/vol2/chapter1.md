@@ -215,6 +215,8 @@ The orthography used here and in the POc reconstructions in this work is from [R
 
 Table 1 shows two POc orthographies. The first was established by [Biggs](../sources/Biggs1965) ([1965](../sources/Biggs1965)), for Proto Eastern Oceanic, and [Grace](../sources/Grace1969) ([1969](../sources/Grace1969)), who applied it to Proto Oceanic, and has been used with a number of variants (separated by a slash) shown below. The second is the one generally used in this work, introduced by [Ross](../sources/Ross1988) ([1988](../sources/Ross1988)). The terms ‘oral grade’ and ‘nasal grade’ were used by [Grace](../sources/Grace1969) ([1969](../sources/Grace1969)) and have become conventional among Oceanic linguists to refer to the outcomes of certain sound changes that occurred between PMP and POc (see vol.1, Ch. 2).
 
+<a id="table-1"> </a>
+
 : Table 1: POc orthographies
 
 |                                                                                                               |
@@ -276,6 +278,8 @@ Although there are accepted or standard orthographies for a number of the langua
 
 POc reconstructions, and also PWOc, PEOc and PNGOc reconstructions, are given in the orthography of [§3.4](../contributions/2-1#s-3-4). For reconstructions at higher-order interstages the orthographies are those used by Blust in his various publications and the[ ACD.](../sources/Blust1995) Reconstructions at lower- order interstages are given in the standard orthography adopted for data ([§4.2](../contributions/2-1#s-4-2)). Geraghty’s (1986) PCP orthography, for example, is based on Standard Fijian spelling, and is converted into our standard orthography in the same way as Fijian. Biggs and Clark’s PPn reconstructions are in any case written in an orthography identical to our standard. Bracketing and segmentation conventions in protoforms are shown in Table 2.
 
+<a id="table-2"> </a>
+
 : Table 2: Bracketing and segmentation conventions in protoforms
 
 |        |                                                                      |
@@ -322,4 +326,4 @@ We have mostly not indicated the POc word class to which a reconstruction belong
 
 [^9]:    This subgrouping may well prove to be somewhat inaccurate, especially with regard to the treatment of North/Central Vanuatu as a subgroup (see [Lynch 1995](../sources/Lynch1995)), but will not invalidate any reconstructions made here. The ‘Fijian’ grouping is used only for presentational purposes, and is not assumed to be a discrete subgroup within Central Pacific.
 
-[^10]: An argument that North/Central Vanuatu does not constitute a genealogical subgroup is made by [Lynch](../sources/Lynch1995) ([1995](../sources/Lynch1995)) and summarised in [Lynch, Ross and Crowley](../sources/Lynchetal2002) ([2002](../sources/Lynchetal2002), Ch. 5). The argument that Fijian does not constitute a genealogical subgroup was made by [Geraghty](../sources/Geraghty1983) ([1983](../sources/Geraghty1983)) and is incorporated into Figure 1, where ‘Fijian’ comprises Rotuman, the East Fijian dialects, and West Fijian (also a dialect network).
+[^10]: An argument that North/Central Vanuatu does not constitute a genealogical subgroup is made by [Lynch](../sources/Lynch1995) ([1995](../sources/Lynch1995)) and summarised in Lynch, Ross and Crowley (2002, Ch. 5). The argument that Fijian does not constitute a genealogical subgroup was made by [Geraghty](../sources/Geraghty1983) ([1983](../sources/Geraghty1983)) and is incorporated into Figure 1, where ‘Fijian’ comprises Rotuman, the East Fijian dialects, and West Fijian (also a dialect network).

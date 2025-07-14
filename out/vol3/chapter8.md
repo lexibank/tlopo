@@ -1012,7 +1012,7 @@ There is disagreement among cognates with regard to the final _&ast;-aqi_ of POc
 '<span>generic for three spp. of Urticaceae: Boehmeria virgata, Leucosyke corymbulosa and Pipturus argenteus</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>roŋā</i></td>
+<td>Fij</td><td><a href="../languages/laueasternfijian">Lau (Eastern Fijian)</a></td><td><i>roŋā</i></td>
 <td>
 '<span>Pipturus sp.</span>' (<a href="../sources/Geraghty1990">Geraghty1990: 91</a>)
 </td>

@@ -188,6 +188,8 @@ POc _&ast;ikan_, roughly glossable as ‘fish’, is an extremely well-supported
 
 <a id="p-429"></a>
 
+<a id="table-8"> </a>
+
 : __Table 8.1__         Implicational scale of types that may be included in reflexes of _&ast;ikan_
 
 |     |                                                                                                                                          |
@@ -261,6 +263,8 @@ The semantic range exhibited by these definitions is summarised in Table 8.2. He
 
 <a id="p-431"></a>
 
+<a id="table-8"> </a>
+
 : __Table 8.2__       Semantic range of reflexes of _&ast;ikan_ in Central Pacific languages
 
 |                | typical fish   | shark, ray   | whale, dolphin   | eel   | turtle   | octopus, squid   | crustacean   | shelled mollusc   | Grade   |
@@ -283,6 +287,8 @@ The semantic range exhibited by these definitions is summarised in Table 8.2. He
 | Ifira-Mele     | +              | +            | +                | -     | -        | -                | -            | -                 | 3       |
 
 Note: Crocodiles or dugongs are not present in Triangle Polynesian or Fijian waters, although they are known to some Polynesian Outlier communities in Melanesia.
+
+<a id="table-8"> </a>
 
 : __Table 8.3__          Semantic range of _&ast;ikan_ in PPn and PCP
 
@@ -313,6 +319,8 @@ Details follow of reflexes of _&ast;ikan_ in five Micronesian languages for whic
 | Carolinian  | _īx_           | ‘generic term for fish’ ([Jackson and Marck 1991](../sources/JacksonandMarck1991)). However, in the English-Carolinian finder list, under ‘fish’, the authors list terms for ‘porpoise’, ‘whale’, ‘octopus’, ‘sea urchin’, ‘starfish’, ‘sea cucumber’, as well as ‘eel’, ‘shark’ and ‘ray’, though not ‘turtle’ |
 | Woleaian    | _ixar_         | ‘fish’ ([Sohn and Tawerilmang 1976](../sources/SohnandTawerilmang1976)). However, in the English-Woleaian finder list, under ‘fish’, the authors list terms for ‘dolphin’, whale’ as well as ‘eel’, ‘shark’ and ‘ray’, though not ‘turtle’, ‘octopus’ or ‘squid’.                                                  |
 | Puluwatese  | _yīk_, _yikan_ | ‘fish, porpoises and whales but not squid’                                                                                                                                                                                                                                    |
+
+<a id="table-8"> </a>
 
 : __Table 8.4__       Semantic range of _&ast;ikan_ in Micronesian languages
 
@@ -349,6 +357,8 @@ Informative definitions are available for a few Oceanic languages of the Solomon
 
 It can be seen that the witnesses largely agree in including sharks, rays, eels, turtles, cephalopods and crocodiles, virtually all free swimming aquatic creatures. Fox’s definitions for Lau and Gela are extreme in including all marine organisms.
 
+<a id="table-8"> </a>
+
 : __Table 8.5__      Semantic range of _&ast;ikan_ in Solomon Islands languages
 
 |             | typical fish   | shark, ray   | whale, dolphin   | eel   | turtle   | crocodile   | octopus, squid   | crustacean   | shelled mollusc   | Grade   |
@@ -384,6 +394,8 @@ Leaving aside the under-informative Mota and Tamambo definitions, we get Table 8
 
 <a id="p-434"></a>
 
+<a id="table-8"> </a>
+
 : __Table 8.6__        Semantic range of ‘fish’ terms in Vanuatu languages
 
 |          | typical fish   | shark, ray   | whale, dolphin   | eel   | turtle   | octopus, squid   | crustacean   | shelled mollusc   |   Grade |
@@ -412,6 +424,8 @@ Discarding the Loniu definition as under-informative, we get the comparative bre
 
 
 <a id="p-435"></a>
+
+<a id="table-8"> </a>
 
 : __Table 8.7__       Semantic range of _&ast;ikan_ in Admiralties languages
 
@@ -445,6 +459,8 @@ Of the Western Oceanic reflexes that follow, only the definitions for Kilivila, 
 | Tolai              | _en_      | ‘fish’                                                                                         |
 | Nakanai            | _ia_      | ‘fish’                                                                                         |
 | Roviana            | _iɣana_   | ‘generic name for                                                                              |
+
+<a id="table-8"> </a>
 
 : __Table 8.8__         Semantic range of _&ast;ikan_ in Papuan Tip languages
 
@@ -633,6 +649,8 @@ About 50 families of gastropods or snail-like molluscs, comprising hundreds of g
 
 <a id="p-442"></a>
 
+<a id="table-8"> </a>
+
 : __Table 8.9__ Implicational scale of types that may be included in reflexes of _&ast;sisiq_
 
 |     |                                                                                                                                                                                                                                                                        |
@@ -642,6 +660,8 @@ About 50 families of gastropods or snail-like molluscs, comprising hundreds of g
 | (3) | two or more of several several groups of edible small globular gastropods (Neritidae and also Naticidae or moon shells (small, globular and smooth), Littorinidae or periwinkles (small, heavy shells, with only a few whorls, globular, spiral or turbinate in shape) |
 | (4) | all edible gastropods                                                                                                                                                                                                                                                  |
 | (5) | all molluscs with shells                                                                                                                                                                                                                                               |
+
+<a id="table-8"> </a>
 
 : __Table 8.10__ Semantic range of reflexes of _&ast;sisiq_ in Oceanic languages small globular
 
@@ -685,6 +705,8 @@ There is some evidence that _&ast;sisiq_ also served as a high-order generic, pe
 
 
 POc _&ast;manuk_ is a well attested form whose semantic range certainly included birds in general, but whose reflexes often have a broader scope. The implicational scale in Table 8.11, going from the most restricted domain to the most inclusive, predicts fairly well the kinds of variations in range seen among _&ast;manuk_ reflexes.
+
+<a id="table-8"> </a>
 
 : __Table 8.11__ Implicational scale of types that may be included in reflexes of _&ast;manuk_
 
@@ -737,6 +759,8 @@ In Futunan, Uvean, (and occasionally) Rarotongan, _manu_ can be extended to all 
 
 <a id="p-445"></a>
 
+<a id="table-8"> </a>
+
 : __Table 8.12__ Semantic range of reflexes of POc &ast;manuk in some Polynesian languages
 
 |            |     |                | 1                     | 2                | 3                         | 4                        | 5                           | 6          |       |
@@ -764,6 +788,8 @@ However, it seems to me more likely that _&ast;manu_ was already polysemous in P
 
 
 <a id="p-446"></a>
+
+<a id="table-8"> </a>
 
 : __Table 8.13__ Semantic range of reflexes of PCP &ast;manu-manu in Rotuman and Fijian languages
 
@@ -810,6 +836,8 @@ Rotuman and the Fijian languages reflect only a reduplicated form _&ast;manu-man
 
 
 <a id="p-447"></a>
+
+<a id="table-8"> </a>
 
 : __Table 8.14__ Semantic range of reflexes of POc &ast;manuk in some Micronesian languages
 
@@ -881,6 +909,8 @@ Outside of the Nuclear Micronesian and Central Pacific groups, reflexes of _&ast
 
 
 <a id="p-449"></a>
+
+<a id="table-8"> </a>
 
 : __Table 8.15__ Semantic range of reflexes of POc &ast;manuk in some Oceanic languages other than Nuclear Micronesian and Central Pacific
 
@@ -957,6 +987,8 @@ In the definitions cited below from dictionary sources it is likely that the Eng
 
 
 <a id="p-451"></a>
+
+<a id="table-8"> </a>
 
 : __Table 8.16__  Implicational scale of types that may be included in reflexes of _&ast;manu-manuk_
 

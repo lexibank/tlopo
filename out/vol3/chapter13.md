@@ -4014,7 +4014,7 @@ Whistler provides names for B. hispida, listed below, which allow us to reconstr
 '<span>wax gourd, Benincasa hispida</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>vaŋo</i></td>
+<td>Fij</td><td><a href="../languages/laueasternfijian">Lau (Eastern Fijian)</a></td><td><i>vaŋo</i></td>
 <td>
 '<span>Benincasa hispida</span>'</td>
 </tr>

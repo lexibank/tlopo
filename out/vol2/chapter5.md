@@ -85,6 +85,8 @@ When Austronesian speakers travelled eastwards, probably from Halmahera, and mov
 
 As the migrants emerged from the lee of the cordillera onto the Huon Peninsula and crossed to New Britain, two things occurred which presumably came to be reflected in POc terminology. First, they had left the monsoonal region behind them, and during the SHS they experienced the fairly windless rainy season of the ITCZ, with some sporadic northwesterly winds. Secondly they encountered for the first time the southeast trades of the SHW, during which the north coasts of the Huon Peninsula and of New Britain have their dry season, whilst their south coasts suffer torrential orographic rain ([Howlett 1967](../sources/Howlett1967):36–38). As they later spread around the coasts and offshore islands of Papua New Guinea and into the Bismarck Archipelago and then the New Georgia group of the northwest Solomons, they continued to encounter this and other kinds of local variation, but the southeast trades always continued to be the prevailing winds.
 
+<a id="table-3"> </a>
+
 : Table 3: Approximate summary of seasons in some Pacific locations
 
 |                                                         | Southern Hemisphere Winter                                                    | Southern Hemisphere Summer                                                |
@@ -1204,7 +1206,7 @@ POc _&ast;apaRat_ ‘northwest wind’ has non-Oceanic cognates. It is descended
 '<span>west wind (blows from late July to September)</span>'</td>
 </tr>
 <tr>
-<td>None</td><td><a href="../languages/tagalog">Tagalog</a></td><td><i>habagat</i></td>
+<td>WMP</td><td><a href="../languages/tagalog">Tagalog</a></td><td><i>habagat</i></td>
 <td>
 '<span>west or southwest wind; monsoon</span>'</td>
 </tr>
@@ -1214,7 +1216,7 @@ POc _&ast;apaRat_ ‘northwest wind’ has non-Oceanic cognates. It is descended
 '<span>south wind</span>'</td>
 </tr>
 <tr>
-<td>None</td><td><a href="../languages/cebuano">Cebuano</a></td><td><i>habagat</i></td>
+<td>WMP</td><td><a href="../languages/cebuano">Cebuano</a></td><td><i>habagat</i></td>
 <td>
 '<span>strong wind that hits Cebu from the southwest, common from June to September</span>'</td>
 </tr>
@@ -1240,17 +1242,17 @@ POc _&ast;apaRat_ ‘northwest wind’ has non-Oceanic cognates. It is descended
 '<span>strong wind, storm; west</span>'</td>
 </tr>
 <tr>
-<td>None</td><td><a href="../languages/wolio">Wolio</a></td><td><i>bara</i></td>
+<td>WMP</td><td><a href="../languages/wolio">Wolio</a></td><td><i>bara</i></td>
 <td>
 '<span>west, west monsoon</span>'</td>
 </tr>
 <tr>
-<td>None</td><td><a href="../languages/manggarai">Manggarai</a></td><td><i>warat</i></td>
+<td>CMP</td><td><a href="../languages/manggarai">Manggarai</a></td><td><i>warat</i></td>
 <td>
 '<span>rainy season (primarily in January and February); violent storm</span>'</td>
 </tr>
 <tr>
-<td>None</td><td><a href="../languages/buru">Buru</a></td><td><i>fahat</i></td>
+<td>CMP</td><td><a href="../languages/buru">Buru</a></td><td><i>fahat</i></td>
 <td>
 '<span>west monsoon</span>'</td>
 </tr>
@@ -1541,12 +1543,12 @@ Blust (ACD) takes it that PMP _&ast;habaRat_ ‘southwest monsoon season, wet se
 </td>
 </tr>
 <tr>
-<td>None</td><td><a href="../languages/tagalog">Tagalog</a></td><td><i>tīmog</i></td>
+<td>WMP</td><td><a href="../languages/tagalog">Tagalog</a></td><td><i>tīmog</i></td>
 <td>
 '<span>south</span>'</td>
 </tr>
 <tr>
-<td>None</td><td><a href="../languages/cebuano">Cebuano</a></td><td><i>tímug</i></td>
+<td>WMP</td><td><a href="../languages/cebuano">Cebuano</a></td><td><i>tímug</i></td>
 <td>
 '<span>wind that hits Cebu from the east</span>' (<a href="../sources/Wolff1972">Wolff1972</a>)
 </td>
@@ -1577,7 +1579,7 @@ Blust (ACD) takes it that PMP _&ast;habaRat_ ‘southwest monsoon season, wet se
 '<span>east</span>'</td>
 </tr>
 <tr>
-<td>None</td><td><a href="../languages/buru">Buru</a></td><td><i>timo</i></td>
+<td>CMP</td><td><a href="../languages/buru">Buru</a></td><td><i>timo</i></td>
 <td>
 '<span>east</span>'</td>
 </tr>

@@ -405,6 +405,8 @@ Two intermediate growth stages are of particular importance to coconut consumers
 
 <a id="p-361"></a>
 
+<a id="table-12"> </a>
+
 : Table 12.1  Rough comparison of coconut growth stage terms in seven Oceanic languages
 
 |                                                         | Gumawana   | Petats   | Arosi   | Mota   | Anejom   | Wayan Fijian   | Tikopia   |

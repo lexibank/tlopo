@@ -26,6 +26,8 @@ For presentation purposes plant part terminologies are divided into the followin
 
 <a id="p-86"></a>
 
+<a id="table-4"> </a>
+
 : Table 4.1    Some terms for parts of the coconut in Tikopia ([Firth 1985](../sources/Firth1985))
 
 |            |                                                                                                                                                                                                                                                                                 |
@@ -45,6 +47,8 @@ Modern Oceanic languages also tend to have terms for parts of particular types o
 
 
 <a id="p-87"></a>
+
+<a id="table-4"> </a>
 
 : Table 4.2        Terms for parts of banana plants
 
@@ -68,6 +72,8 @@ In many modern Oceanic languages part-whole relationships, including the parts o
 
 
 <a id="p-88"></a>
+
+<a id="table-4"> </a>
 
 : Table 4.3     Terms for stems of woody plants in Nduke, Wayan Fijian and Tikopia
 
@@ -610,6 +616,8 @@ POc _&ast;baRa-baRa_ is a well-supported reconstruction, both in terms of form a
 
 <a id="p-93"></a>
 
+<a id="table-4"> </a>
+
 : Table 4.4      Terms for stems of non-woody plants in Nduke, Wayan Fijian and Tikopia
 
 |                  |                                                                                                                                                                                                                           |
@@ -640,6 +648,8 @@ Table 4.5 gives terms for branches in Nduke, Wayan and Tikopia. Nduke has a term
 
 
 <a id="p-94"></a>
+
+<a id="table-4"> </a>
 
 : Table 4.5     Terms for branches in Nduke, Wayan Fijian and Tikopia
 
@@ -1132,6 +1142,8 @@ Besides a general term for roots, _&ast;wakaR-_, POc had at least three other mo
 
 <a id="p-98"></a>
 
+<a id="table-4"> </a>
+
 : Table 4.6     Terms for roots in Nduke, Wayan Fijian and Tikopia
 
 |                  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
@@ -1568,6 +1580,8 @@ In English 'mangrove' refers to a variety of trees and shrubs that grow in coast
 
 <a id="p-102"></a>
 
+<a id="table-4"> </a>
+
 : Table 4.7     Terms for leaves in Nduke, Wayan Fijian and Tikopia
 
 |                  |                                                                                                                                                                                                                                                                                                                 |
@@ -1863,6 +1877,8 @@ Anejom is in between these two extremes with some compound terms, such as _neri-
 
 <a id="p-105"></a>
 
+<a id="table-4"> </a>
+
 : Table 4.8   Leaf terms in selected Oceanic languages
 
 |              |                                                 |
@@ -2111,6 +2127,8 @@ The initial consonant is uncertain because Manam and Tawala reflect _&ast;s_ and
 
 
 <a id="p-109"></a>
+
+<a id="table-4"> </a>
 
 : Table 4.9   Terms for shoots and suckers in Nduke, Wayan Fijian and Tikopia
 
@@ -2401,6 +2419,8 @@ POc also appears to have had a couple of verbal terms that denoted new growth, i
 
 <a id="p-112"></a>
 
+<a id="table-4"> </a>
+
 : Table 4.10      Terms for flowers in Nduke, Wayan Fijian and Tikopia
 
 |                  |                                                                                                                                                                                                   |
@@ -2611,6 +2631,8 @@ Just as with leaf terms, modern Oceanic languages tend to have one or two more s
 
 
 <a id="p-114"></a>
+
+<a id="table-4"> </a>
 
 : Table 4.11     Terms for fruits in Nduke, Wayan Fijian and Tikopia
 
@@ -3039,6 +3061,8 @@ Table 4.12 gives the terms for 'seeds' in Nduke, Wayan and Tikopia. Nduke has a 
 
 
 <a id="p-118"></a>
+
+<a id="table-4"> </a>
 
 : Table 4.12     Terms for seeds in Nduke, Wayan Fijian and Tikopia
 
@@ -3497,6 +3521,8 @@ In many modern Oceanic languages the same word is used for skin (of animals and 
 
 <a id="p-121"></a>
 
+<a id="table-4"> </a>
+
 : Table 4.13   Terms for outer coverings in Nduke, Wayan Fijian and Tikopia
 
 |                  |                                                                                                                                                                                                                                                                                                                 |
@@ -3616,6 +3642,8 @@ Specific terms for the outer coverings of different parts of the coconut are als
 
 ### 2.11. Sap, resin
 
+
+<a id="table-4"> </a>
 
 : Table 4.14   Terms for sap or resin in Nduke, Wayan Fijian and Tikopia
 

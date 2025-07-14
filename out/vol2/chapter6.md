@@ -4068,6 +4068,8 @@ Reconstructions of navigation terms for Proto Oceanic, Proto Micronesian and Pro
 
 <a id="p-189"></a>
 
+<a id="table-4"> </a>
+
 : Table 4: Reconstructions of heavenly body and other navigation terms
 
 | Term                                    | POc                                             | PMic                                            | PPn                        |

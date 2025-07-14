@@ -893,11 +893,52 @@ These attributes turn up in odd lexicalised expressions, for example, Motu (PT) 
 
 The reconstructable POc possessive construction was probably as follows:[^9]
 
-__igt__ POc: &ast;a  tina-ña     Rumaq ART mother-P:3S house ‘a/the big house’ (more literally: ‘a/the mother of house(s)’)
+POc<table class="igt">
+<caption>‘a/the big house’</caption>
+<tr>
+<td><i>*a</i></td>
+<td><i>tina-ña</i></td>
+<td><i>Rumaq</i></td>
+<td style="width: 100%"> </td>
+</tr>
+<tr>
+<td>ART</td>
+<td>mother-P:3S</td>
+<td>house</td>
+<td style="width: 100%"> </td>
+</tr>
+</table>
+
 
 This seems to have remained a live metaphor for a long time (and is perhaps still alive in some Oceanic languages). Evidence for this is that where the reflex of _&ast;tina-_ or _&ast;natu-_ has been replaced in a language, this construction often shares in the lexical replacement. Thus in Lewo ([Early 1994a](../sources/Early1994a)), the term for ‘little’/‘child’ still reflects _&ast;natu-ña_, but the term for ‘very big’/‘mother’ has undergone lexical replacement:
 
-__igt__ Lewo (NCV): a. nari-n      sisi offspring-n child ‘a little kid’ (more literally ‘the offspring of children’) b. ane-n    laŋi mother-n wind ‘an immensely powerful hurricane’ (more literally ‘the mother of winds’)
+Lewo (NCV)<table class="igt labeled">
+<caption>‘a little kid’</caption>
+<tr>
+<td>a.</td><td><i>nari-n</i></td>
+<td><i>sisi</i></td>
+<td style="width: 100%"> </td>
+</tr>
+<tr>
+<td>&nbsp;</td><td>offspring-n</td>
+<td>child</td>
+<td style="width: 100%"> </td>
+</tr>
+</table>
+<table class="igt labeled">
+<caption>‘an immensely powerful hurricane’</caption>
+<tr>
+<td>b.</td><td><i>ane-n</i></td>
+<td><i>laŋi</i></td>
+<td style="width: 100%"> </td>
+</tr>
+<tr>
+<td>&nbsp;</td><td>mother-n</td>
+<td>wind</td>
+<td style="width: 100%"> </td>
+</tr>
+</table>
+
 
 Similarly in Tinrin (New Caledonia) _hɯwɯ[ṇã]_ is both ‘small’ and ‘child of, sprout of’.
 

@@ -225,7 +225,7 @@ NNG and PT groups form a super-group, the New Guinea Oceanic linkage, and so ety
 
 SE Solomonic was established as a proper subgroup by [Pawley](../sources/Pawley1972) ([1972](../sources/Pawley1972): 98-110). Further support was provided by [Levy](../sources/Levy1979) ([1979](../sources/Levy1979), [1980](../sources/Levy1980), n.d.), [Tryon & Hackman](../sources/TryonandHackman1983) ([1983](../sources/TryonandHackman1983)) and Frantisek [Lichtenberk](../sources/Lichtenberk1988) ([1988](../sources/Lichtenberk1988)).
 
-The Southern Oceanic linkage as proposed by [Lynch](../sources/Lynch1999) ([1999](../sources/Lynch1999), [2000c](../sources/Lynch2000c), 2001, 2004) is characterised by complex overlapping innovations, but by none that are reflected in all its member languages and would qualify it as a proper subgroup (see discussion in Lynch et al. 2002: 112-114).[^21]
+The Southern Oceanic linkage as proposed by [Lynch](../sources/Lynch1999) ([1999](../sources/Lynch1999), [2000c](../sources/Lynch2000c), 2001, 2004) is characterised by complex overlapping innovations, but by none that are reflected in all its member languages and would qualify it as a proper subgroup (see discussion in [Lynch et al. 2002](../sources/Lynchetal2002): 112-114).[^21]
 
 Micronesian is a proper subgroup ([Jackson 1983](../sources/Jackson1983), [1986](../sources/Jackson1986), [Bender et al. 2003](../sources/Benderetal2003)).
 
@@ -245,6 +245,8 @@ We are well aware that regular sound correspondences can be interfered with in v
 
 
 <a id="p-16"></a>
+
+<a id="table-1"> </a>
 
 : Table 1.1       Reconstructed paradigm of POc phonemes
 
@@ -274,6 +276,8 @@ We are well aware that regular sound correspondences can be interfered with in v
 Work based on the sound correspondences of both Oceanic and non-Oceanic languages has resulted in the reconstructed paradigm of POc phonemes shown in Table 1.1. The orthography used here and in the POc reconstructions in this work is from [Ross](../sources/Ross1988) ([1988](../sources/Ross1988)), with the addition of _&ast;pʷ_. POc phonology and its relationship to PMP is discussed in greater detail in Chapter 2 ([§2](../contributions/3-1#s-2)) of volume 1. Since the publication of volume 1, articles by John Lynch have appeared on POc stress (2000) and POc labiovelar phonemes (2002).
 
 Table 1.2 shows two POc orthographies. The first was established by [Biggs](../sources/Biggs1965) ([1965](../sources/Biggs1965)), for PEOc, and [Grace](../sources/Grace1969) ([1969](../sources/Grace1969)), who applied it to POc. It has been used with a number of variants, separated by a slash in Table 1.2. The second, introduced by [Ross](../sources/Ross1988) ([1988](../sources/Ross1988)), is the one generally used in this work. The terms 'oral grade' and 'nasal grade' were used by [Grace](../sources/Grace1969) ([1969](../sources/Grace1969)) and have become conventional among Oceanic linguists to refer to the outcomes of certain sound changes that occurred between PMP and POc ([vol.1, ch.2, §2.4](../contributions/1-2#s-2-4)).
+
+<a id="table-1"> </a>
 
 : Table 1.2      POc orthographies after [Grace](../sources/Grace1969) ([1969](../sources/Grace1969)) and [Ross](../sources/Ross1988) ([1988](../sources/Ross1988))
 
@@ -343,6 +347,8 @@ Lynch's recent research on Southern Oceanic ([§3 .2.4](../contributions/3-1#s-3
 In the interests of space we have not given the history of the reconstructions themselves, as this would often require commentary on the modifications made by others and by us, and on why we have made them. Where a reconstruction is not new, we have tried to give its earliest source, e.g. '[Dempwolff 1938](../sources/Dempwolff1938)' above, but this is difficult when earlier reconstructions differ in form and meaning.
 
 In general, the contributions to these volumes are concerned with items reconstructable in POc, PWOc, PEOc, Proto Remote Oceanic and occasionally Prolto New Guinea Oceanic (PNGOc). Etyma for PWOc, PNGOc and PEOc are reconstructed because these may well also be POc etyma for which known reflexes are not well distributed (see discussion in [§3.2.3](../contributions/3-1#s-3-2-3)). The contributors vary in the degree to which they reconstruct etyma for interstages further down the tree.
+
+<a id="table-1"> </a>
 
 : Table 1.3   Abbreviations for the genealogical or geographic groups
 
@@ -426,6 +432,8 @@ Reconstructions are marked with an asterisk, e.g. _&ast;kayu_ 'tree', in keeping
 
 
 <a id="p-21"></a>
+
+<a id="table-1"> </a>
 
 : Table 1.4      Bracketing and segmentation conventions in protoforms
 
@@ -566,7 +574,7 @@ The volume has four indexes. The first, as in previous volumes, is an index of r
 
 [^8]: The two very closely related languages Mussau and Tench form a minor exception.
 
-[^9]: Chapter 4 of Lynch et al. (2002) gives a recent account of these innovations.
+[^9]: Chapter 4 of [Lynch et al.](../sources/Lynchetal2002) ([2002](../sources/Lynchetal2002)) gives a recent account of these innovations.
 
 [^10]: In what follows, 'language' is used to mean 'language or dialect' .
 
@@ -584,7 +592,7 @@ The volume has four indexes. The first, as in previous volumes, is an index of r
 
 [^17]: We included these nodes in the corresponding tree in Figure 1 of volumes 1 and 2, but this was too easily interpreted as a statement of our views on subgrouping, so we abandon it here and in Appendix 2.
 
-[^18]: The term 'Eastern Oceanic' and the search for evidence of an Eastern Oceanic subgroup has a relatively long pedigree in Oceanic linguistics ([Biggs 1965](../sources/Biggs1965), [Pawley 1972](../sources/Pawley1972), [Pawley 1977](../sources/Pawley1977), [Lynch & Tryon 1985](../sources/LynchandTryon1985), [Geraghty 1990](../sources/Geraghty1990)). However, by the time volume 1 of the present work was published in 1998 it was already evident that innovations supporting the existence of an Eastern Oceanic subgroup were not forthcoming, as [Pawley & Ross](../sources/PawleyandRoss1995) ([1995](../sources/PawleyandRoss1995): 79) had mentioned in a footnote. Our use of the term here is more inclusive than most, resembling more closely the 'Central/Eastern Oceanic' of [Lynch & Tryon](../sources/LynchandTryon1983) ([1983](../sources/LynchandTryon1983)) (the published version of which, [Lynch & Tryon 1985](../sources/LynchandTryon1985), presents a less inclusive version of Central/Eastern Oceanic) and of Lynch et al. (2002: 94--96), who also express reservations about its status.
+[^18]: The term 'Eastern Oceanic' and the search for evidence of an Eastern Oceanic subgroup has a relatively long pedigree in Oceanic linguistics ([Biggs 1965](../sources/Biggs1965), [Pawley 1972](../sources/Pawley1972), [Pawley 1977](../sources/Pawley1977), [Lynch & Tryon 1985](../sources/LynchandTryon1985), [Geraghty 1990](../sources/Geraghty1990)). However, by the time volume 1 of the present work was published in 1998 it was already evident that innovations supporting the existence of an Eastern Oceanic subgroup were not forthcoming, as [Pawley & Ross](../sources/PawleyandRoss1995) ([1995](../sources/PawleyandRoss1995): 79) had mentioned in a footnote. Our use of the term here is more inclusive than most, resembling more closely the 'Central/Eastern Oceanic' of [Lynch & Tryon](../sources/LynchandTryon1983) ([1983](../sources/LynchandTryon1983)) (the published version of which, [Lynch & Tryon 1985](../sources/LynchandTryon1985), presents a less inclusive version of Central/Eastern Oceanic) and of [Lynch et al.](../sources/Lynchetal2002) ([2002](../sources/Lynchetal2002): 94--96), who also express reservations about its status.
 
 [^19]: Cases where such an inference can be made occur mostly at the boundary (in the Solomon Islands) between Western and Eastern Oceanic. Borrowing is likely (and is often reflected in unexpected sound correspondences) where an etymon occurs (i) in Western Oceanic and only in SE Solomonic languages or (ii) in SE Solomonic languages and only in the NW Solomonic languages (a subgroup within the Meso-Melanesian linkage of West- ern Oceanic).
 

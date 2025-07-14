@@ -1276,6 +1276,8 @@ Wayan, like other Fijian languages, here preserves a POc noun phrase constructio
 
 <a id="p-48"></a>
 
+<a id="table-2"> </a>
+
 : Table 2.1 Classifiers in SE Solomonic languages and Proto Polynesian
 
 |                  | Kwara'ae   | Kwaio    | Lau         | PPn       | POc               |                |
@@ -1294,13 +1296,47 @@ Wayan, like other Fijian languages, here preserves a POc noun phrase constructio
 
 In the first variant of the construction, the head noun is a zero-valency noun:
 
-__igt__ (1) POc: (Lynch et al. 2002: 77) &ast;a     polo   ni    niuR ART   juice of coconut 'coconut water'
+(1) POc: ([Lynch et al. 2002: 77](../sources/Lynchetal2002))<table class="igt">
+<caption>‘coconut water’</caption>
+<tr>
+<td><i>*a</i></td>
+<td><i>polo</i></td>
+<td><i>ni</i></td>
+<td><i>niuR</i></td>
+<td style="width: 100%"> </td>
+</tr>
+<tr>
+<td>ART</td>
+<td>juice</td>
+<td>of</td>
+<td>coconut</td>
+<td style="width: 100%"> </td>
+</tr>
+</table>
+
 
 The second noun is a generic (non-specific) possessor, and thus an attribute, of the first (head) noun.
 
 In the second variant the head noun was monovalent and in consequence ni was replaced by &ast;qi:
 
-__igt__ (2) POc: (Lynch et al. 2002: 76) &ast;a     qaqe   qi   boRok ART    leg     of pig 'a pig's leg' (Lynch et al. 2002: 76)
+(2) POc: ([Lynch et al. 2002: 76](../sources/Lynchetal2002))<table class="igt">
+<caption>‘a pig's leg’</caption>
+<tr>
+<td><i>*a</i></td>
+<td><i>qaqe</i></td>
+<td><i>qi</i></td>
+<td><i>boRok</i></td>
+<td style="width: 100%"> </td>
+</tr>
+<tr>
+<td>ART</td>
+<td>leg</td>
+<td>of</td>
+<td>pig</td>
+<td style="width: 100%"> </td>
+</tr>
+</table>
+
 
 In Fijian languages reflexes of _&ast;ni_ and _&ast;qi_ have been redistributed but the construction otherwise survives unchanged. This construction has a complex history in Oceanic languages ([Hooper 1985](../sources/Hooper1985), [Ross 1998b](../sources/Ross1998b), [2001b](../sources/Ross2001b)).
 
@@ -1315,7 +1351,41 @@ The morphemes _faʔi_ and _fiʔi_ belong to a set of classifiers described in De
 
 Several of the Kwara'ae classifiers share the form monosyllable + _-ʔi_ or _-ʔe_. Their common form reflects their shared origin in the POc construction [MONOVALENT NOUN _&ast;qi_ NOUN] described above.[^20] The likely POc usage from which the classifiers in Table 2.1 are derived is illustrated below:[^21]
 
-__igt__ (2) POc: (Lynch et al. 2002: 74) a.   &ast;i-tolu     puaq qi pudi 3sG-three fruit of banana 'three bananas' (= '(there are) three fruit of banana') b.   &ast;i-tolu     puqun ni pudi 3sG-three trunk       of banana 'three banana trees' (= '(there are) three trees of banana')
+(2) POc: ([Lynch et al. 2002: 74](../sources/Lynchetal2002))<table class="igt labeled">
+<caption>‘three bananas’</caption>
+<tr>
+<td>a.</td><td><i>*i-tolu</i></td>
+<td><i>puaq</i></td>
+<td><i>qi</i></td>
+<td><i>pudi</i></td>
+<td style="width: 100%"> </td>
+</tr>
+<tr>
+<td>&nbsp;</td><td>3sG-three</td>
+<td>fruit</td>
+<td>of</td>
+<td>banana</td>
+<td style="width: 100%"> </td>
+</tr>
+</table>
+<table class="igt labeled">
+<caption>‘three banana trees’</caption>
+<tr>
+<td>b.</td><td><i>*i-tolu</i></td>
+<td><i>puqun</i></td>
+<td><i>ni</i></td>
+<td><i>pudi</i></td>
+<td style="width: 100%"> </td>
+</tr>
+<tr>
+<td>&nbsp;</td><td>3sG-three</td>
+<td>trunk</td>
+<td>of</td>
+<td>banana</td>
+<td style="width: 100%"> </td>
+</tr>
+</table>
+
 
 Some classifiers did not combine with _&ast;qi_, either because they remained disyllabic or because they were derived from zero-valency nouns which instead headed the POc construction [ZERO-VALENCY NOUN _&ast;ni_ NOUN].
 
@@ -1453,7 +1523,7 @@ In Marovo (MM) several forms are found with a somewhat different semantic deriva
 
 [^18]: For Kwara'ae see [Henderson & Hancock](../sources/HendersonandHancock1988) ([1988](../sources/HendersonandHancock1988)) and [Kwa'ioloa & Burt](../sources/KwaioloaandBurt2001) ([2001](../sources/KwaioloaandBurt2001)), as well as [Deck's 1934](../sources/Deck1934) grammar. For Wayan Fijian see [Pawley & Sayaba](../sources/PawleyandSayaba2003) ([2003](../sources/PawleyandSayaba2003)) and [Gardner & Pawley](../sources/GardnerandPawley2006) ([2006](../sources/GardnerandPawley2006)).
 
-[^19]: See [vol.1, ch.2, §3 .2](../contributions/1-2#s-3-2). A monovalent noun is one which may be directly possessed (Frantisek Lichtenberk 1985), i.e. may take possessor suffixes, e.g. _&ast;a qaqe-gu_ 'my leg'. Such nouns are usually semantically inalienable. All other nouns are zero-valency nouns and are indirectly possessed, i.e. the possessor suffix is attached to a separate morpheme, e.g. _&ast;a na-gu Rumaq_ 'my house' (Lynch et al. 2002: 76-77).
+[^19]: See [vol.1, ch.2, §3 .2](../contributions/1-2#s-3-2). A monovalent noun is one which may be directly possessed (Frantisek Lichtenberk 1985), i.e. may take possessor suffixes, e.g. _&ast;a qaqe-gu_ 'my leg'. Such nouns are usually semantically inalienable. All other nouns are zero-valency nouns and are indirectly possessed, i.e. the possessor suffix is attached to a separate morpheme, e.g. _&ast;a na-gu Rumaq_ 'my house' ([Lynch et al. 2002](../sources/Lynchetal2002): 76-77).
 
 [^20]: The grammaticisation of [MONOVALENT NOUN _&ast;qi_] to form numeral classifiers had perhaps already occurred in PEOc ([Pawley 1972](../sources/Pawley1972): 35- 36, 59), but it is possible that SE Solomonic and Polynesian forms represent independent grammaticisations.
 

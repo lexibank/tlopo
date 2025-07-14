@@ -1235,6 +1235,7 @@
 - <a id="source-Valentine1963"> </a>Valentine, C. A. 1963. Men of anger and men of shame: Lakalai ethnopsychology and its implications for sociopsychological theory. Ethnology 2.
 - <a id="source-VanDeusen1972"> </a>Van Deusen, H. M. 1972. Marsupials. In Peter Ryan, 1972: 711-714.
 - <a id="source-Vanoverbergh1972"> </a>Vanoverbergh, Morice. 1972. Isneg-English dictionary. Oceanic Linguistics Special Publication No. 11. Honolulu: University Press of Hawai’i.
+- <a id="source-vanderVeen1940"> </a>Veen, H. van der. 1940. Tae’ (Zuid-Toradjasch)–Nederlandschwoordenboek. The Hague: Nijhoff.
 - <a id="source-Verdcourt1979"> </a>Verdcourt, Bernard. 1979. A manual ofNew Guinea legumes. Lae: Office ofF orests, Division of Botany.
 - <a id="source-Verheijen1982"> </a>Verheijen, Jilis A.J. 1982. Dictionary ofManggarai plant names. Canberra: Pacific Linguistics.
 - <a id="source-Verheijen1984"> </a>Verheijen, Jilis A.J. 1984. Plant names in Austronesian linguistics. Nusa 20.
