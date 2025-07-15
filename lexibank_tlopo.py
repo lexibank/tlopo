@@ -545,6 +545,7 @@ class Dataset(BaseDataset):
                 ID=eg.id,
                 Number=eg.number,
                 Example_IDs=[ex.id for ex in eg.examples],
+                Context=eg.context,
             ))
 
     def local_schema(self, cldf):
@@ -562,6 +563,9 @@ class Dataset(BaseDataset):
                 'separator': ' ',
                 'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#exampleReference'},
             'Number',
+            {
+                'name': 'Context',
+                'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#comment'},
         )
         cldf.add_component(
             'ExampleTable',

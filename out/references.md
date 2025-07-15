@@ -951,7 +951,8 @@
 - <a id="source-Palmer2001"> </a>Palmer, Bill. 2001. Absolute spatial reference and the grammaticalisation of perceptually salient phenomena. In Bennardo, Giovanni (ed.), _Representing space in Oceania: Culture in language and mind,107–157. Canberra: Pacific Linguistics_.
 - <a id="source-Palmer2004"> </a>Palmer, Bill. 2004. Kokota dictionary. Unpublished HTML file, work in progress, University of Surrey. URL: https://www.smg.surrey.ac.uk/languages/northwest-solomonic/kokota/kokota-dictionary/.
 - <a id="source-PalmerandGeraghty2000"> </a>Palmer, Bill & Paul Geraghty (eds.) 2000. SICOL: Proceedings of the Second International Conference on Oceanic Linguistics. vol. 2, Historical and descriptive studies. Canberra: Pacific Linguistics.
-- <a id="source-Panoff1972"> </a>Panoff, Françoise. 1972. Maenge gardens: a study ofMaenge relationships to domesticates. PhD thesis. Australian National University.
+- <a id="source-Panoff1969"> </a>Panoff, Michel. 1969. The notion of time among the Maenge people of New Britain. _Ethnology_ 8. 58-166. doi: [10.2307/3772977](https://doi.org/10.2307/3772977).
+- <a id="source-Panoff1972"> </a>Panoff, Françoise. 1972. Maenge gardens: a study of Maenge relationships to domesticates. PhD thesis. Australian National University.
 - <a id="source-Parham1943"> </a>Parham, H. B. R. 1943. Fiji native plants with their medical and other uses. Wellington: Polynesian Society.
 - <a id="source-Parham1972"> </a>Parham, J.W. 1972. Plants of the Fiji islands. Suva: Government Printer.
 - <a id="source-Parker1970"> </a>Parker, G. J. 1970. Southeast Ambrym dictionary. Canberra: Pacific Linguistics. (Pacific Linguistics C-17).
