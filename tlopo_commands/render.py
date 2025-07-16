@@ -76,6 +76,9 @@ def run(args):
                      left join ExampleTable_SourceTable as exs on ex.cldf_id = exs.ExampleTable_cldf_id
             where gr.cldf_id = ? \
             """
+        #
+        # FIXME: handle examples from different languages in the same group!!!
+        #
         num, ctx, lname, lgroup, src, pages, ex = None, None, None, None, None, None, []
         rows = db.query(q, (egid,))
         assert len(set(r[1] for r in rows)) == 1, 'Multiple languages in example group!'
