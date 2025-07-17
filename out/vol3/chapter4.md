@@ -212,7 +212,7 @@ An apparently general term for tree trunk can be reconstructed for POc, namely _
 <tr>
 <td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td><i>(nee-)fasaŋa</i></td>
 <td>
-'<span>torso, trunk</span>'</td>
+'<span>torso, trunk</span>'[^4]</td>
 </tr>
 <tr>
 <td>Mic</td><td><a href="../languages/puloannan">Pulo-Annan</a></td><td><i>ðāta, ðata-</i></td>
@@ -404,7 +404,7 @@ Terms with similar meanings to Wayan _ŋau_ 'main or centre section of trunk' an
 <tr>
 <td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td><i>ulu(ŋa)</i></td>
 <td>
-'<span>(tree, house, hill) top, summit</span>'</td>
+'<span>(tree, house, hill) top, summit</span>'[^6]</td>
 </tr>
 <tr>
 <td>Pn</td><td><a href="../languages/pukapukan">Pukapukan</a></td><td><i>(ka)ulu</i></td>
@@ -835,7 +835,7 @@ POc _&ast;rako(q)_ 'branch, twig' is supported by reflexes in two Papuan Tip lan
 <tr>
 <td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>rako-</i></td>
 <td>
-'<span>a twig</span>'</td>
+'<span>a twig</span>'[^7]</td>
 </tr>
 <tr>
 <td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>rako-rako</i></td>
@@ -2802,7 +2802,7 @@ The term 'fruit' in English has a number of senses, including: '1. vegetable pro
 <tr>
 <td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>fua</i></td>
 <td>
-[N] '<span>fruit, berry, nut, egg shell, shellfish</span>'; [v] '<span>swell</span>'</td>
+[N] '<span>fruit, berry, nut, egg shell, shellfish</span>'; [v] '<span>swell</span>'[^12]</td>
 </tr>
 <tr>
 <td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>fua</i></td>
@@ -3324,7 +3324,7 @@ The data given by [Ross](../sources/Ross1996d) ([1996d](../sources/Ross1996d): 1
 <tr>
 <td>MM</td><td><a href="../languages/teop">Teop</a></td><td><i>ariko</i></td>
 <td>
-'<span>seed of breadfruit tree</span>'</td>
+'<span>seed of breadfruit tree</span>'[^14]</td>
 </tr>
 </table>
 
@@ -3723,7 +3723,7 @@ The Oceanic data, shown in the cognate set below, suggest the reconstruction of 
 <tr>
 <td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>buluʔ-ia</i></td>
 <td>
-'<span>caulk, tamp a post; gum; mix together</span>'</td>
+'<span>caulk, tamp a post; gum; mix together</span>'[^15]</td>
 </tr>
 <tr>
 <td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td><i>puru-i-</i></td>

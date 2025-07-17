@@ -1174,7 +1174,7 @@ Three terms, POc _&ast;kubu_, POc _&ast;bʷaji-bʷaji_ and PWOc _&ast;pʷiga_, d
 <i>&ast;kupu</i>
 </td>
 <td>
-'<span>very young coconut</span>' (<span>ACD: *upu: 'germinating coconut?'</span>)</td>
+'<span>very young coconut</span>' (<span>ACD: *upu: 'germinating coconut?'</span>)[^11]</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
@@ -2672,7 +2672,7 @@ Doublet forms, POc _&ast;punut_ and _&ast;pʷenu(t)_, both 'coconut husk', appea
 <tr>
 <td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>bunu</i></td>
 <td>
-'<span>coconut husk</span>'</td>
+'<span>coconut husk</span>'[^18]</td>
 </tr>
 <tr>
 <td>PT</td><td><a href="../languages/roro">Roro</a></td><td><i>punu</i></td>
@@ -2801,7 +2801,7 @@ Evidence for the word-final _&ast;t_ of POc _&ast;pʷenu(t)_ is indirect. The Nd
 <tr>
 <td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>venu(ki)</i></td>
 <td>
-'<span>fibres of coconut husk beaten ready for twisting into sinnet</span>'</td>
+'<span>fibres of coconut husk beaten ready for twisting into sinnet</span>'[^19]</td>
 </tr>
 <tr>
 <td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>fenū</i></td>

@@ -482,7 +482,7 @@ Another term for wind was POc _&ast;mal(i,e)u_, but it is not possible to determ
 <tr>
 <td>PT</td><td><a href="../languages/tawala">Tawala</a></td><td><i>malewa</i></td>
 <td>
-'<span>favourable wind, wind from behind</span>'</td>
+'<span>favourable wind, wind from behind</span>'[^6]</td>
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/lavongai">Lavongai</a></td><td><i>malu</i></td>

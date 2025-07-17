@@ -726,13 +726,13 @@ It is possible that Far East Manggarai, Kepo, Waerana, Razong, Rembong (all CMP)
 <i>&ast;tabuqaR</i>
 </td>
 <td>
-'<span>Saccharum edule</span>' (<a href="../sources/Pawley1978">Pawley1978: *tabukal</a>)
+'<span>Saccharum edule</span>' (<a href="../sources/Pawley1978">Pawley1978: _*tabukal_</a>)
 </td>
 </tr>
 <tr>
 <td>NNG</td><td><a href="../languages/kove">Kove</a></td><td><i>tavuhai</i></td>
 <td>
-'<span>Saccharum edule</span>' (<span>A. Chowning, pers. comm.</span>)</td>
+'<span>Saccharum edule</span>' (<span>A. Chowning, pers. comm.</span>)[^2]</td>
 </tr>
 <tr>
 <td>NNG</td><td><a href="../languages/malai">Malai</a></td><td><i>taboɣar</i></td>
@@ -901,7 +901,7 @@ POc _&ast;nunuk_ denoted either a taxon including all Ficus species known to POc
 <td>NCV</td><td><a href="../languages/maewo">Maewo</a></td><td><i>nunue</i></td>
 <td>
 '<span>Ficus aspera</span>' (<a href="../sources/WalterandSam2002">WalterandSam2002: 293</a>)
-</td>
+[^3]</td>
 </tr>
 <tr>
 <td>SV</td><td><a href="../languages/sye">Sye</a></td><td><i>(novo)nuɣ</i></td>
@@ -1056,7 +1056,7 @@ It is probable that _&ast;qayawan_ denoted a strangler fig taxon. The Gedaged, K
 <tr>
 <td>Mic</td><td><a href="../languages/ponapean">Ponapean</a></td><td><i>aiaw</i></td>
 <td>
-'<span>Ficus prolixa var. carolinensis</span>'</td>
+'<span>Ficus prolixa var. carolinensis</span>'[^5]</td>
 </tr>
 <tr>
 <td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td><i>āw</i></td>
@@ -1477,7 +1477,7 @@ POc _&ast;pʷabosi_ is the most likely candidate for a term denoting F. wassa. A
 <tr>
 <td>MM</td><td><a href="../languages/patpatar">Patpatar</a></td><td><i>habos</i></td>
 <td>
-'<span>Ficus pachystemon</span>'</td>
+'<span>Ficus pachystemon</span>'[^7]</td>
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/patpatar">Patpatar</a></td><td><i>papus</i></td>

@@ -540,7 +540,7 @@ Micronesian language would be sufficient evidence for a POc reconstruction and t
 of reflexes in Admiralty and Western Oceanic would be irrelevant. Given what we know about
 the location of the POc homeland (in the Bismarcks; vol.2, ch.2) and the early eastward spread
 of Oceanic speakers, this is too loose a criterion. Instead, we assume two hypothetical nodes
-not shown in the tree in Figure 2.16 These are
+not shown in the tree in Figure 2.[16] These are
 
 __block__
 - Remote Oceanic, comprising Southern Oceanic, Micronesian and Central Pacific;
@@ -722,30 +722,30 @@ Austronesian subgroup. The innovations which occurred over the pre-POc period we
 mergers and splits, the introduction of new phonemes, and one deletion, as follows:
 
 __block__
-a)   The PMP voiced/voiceless pairs _*p_, _*b_ and _*k_, _*g_ merged respectively as early pre-POc
-     _*p_ and _*k_. Ozanne-Rivierre (1992) suggests that the corresponding _*t_, _*d_ merger was
-     hindered by their mismatch in point of articulation (dental vs alveolar).
-b)   The PMP pairs _*s_, _*z_ and _*d_, _*r_ merged respectively as pre-POc _*s_ and _*d_ (phonetically
-     probably [r], since Eastern Malayo-Polynesian cognates are liquids).
-c)   PMP and a number of its descendants had word-medial homorganic nasal + obstruent
-     sequences (not shown in the table). Some instances of the pre-POc word-initial
-     obstruents _*p_, _*t_, _*k_, _*d_/_r_, _*s_ and _*j_ also acquired a preceding homorganic nasal (the
-     occurrence of this process is unpredictable and its causes largely unknown). These
-     sequences became the unitary POc prenasalised voiced obstruents.
-d)      The labiovelars _*pʷ_, _*bʷ_, _*mʷ_ and _*kʷ_ entered the language (Blust 1981a, Lynch 2002e,
-        Ross 2011). Most of the items containing a labiovelar lack non-Oceanic cognates, and
-        some, at least, must have been borrowed into POc from neighbouring Papuan languages.
-        For example, it can be argued that *mʷapo(q) ‘taro’ was borrowed by POc speakers as
-        they acquired more sophisticated taro-growing techniques from Papuan speakers
-        (vol.3:267). A few of these items were inherited into POc, and the labiovelar was the
-        reflex of a labial occurring next to a round vowel. However, it is not clear in these items
-        that the labiovelar actually occurred in POc. Thus a number of Oceanic languages reflect
-        _*tamʷata_ ‘man, husband’, derived from _*tau_ ‘body, person’ + _*mataq_ ‘unripe, immature,
-        young’, but we cannot be sure whether this or _*taumata(q)_ was the POc form (§2.2.2.1)
-e)      PMP _*h_ was lost in POc.
-f)      PMP _*e_, phonetically [ə], became POc _*o_, and the PMP word-final diphthongs _*-uy(-)_,[21]
-        _*-aw_ and _*-ay_ were simplified to POc _*-i_, _*-o_ and _*-e_ respectively, the first two thereby
-        merging with plain vowels.
+a) The PMP voiced/voiceless pairs _*p_, _*b_ and _*k_, _*g_ merged respectively as early pre-POc
+   _*p_ and _*k_. Ozanne-Rivierre (1992) suggests that the corresponding _*t_, _*d_ merger was
+   hindered by their mismatch in point of articulation (dental vs alveolar).
+b) The PMP pairs _*s_, _*z_ and _*d_, _*r_ merged respectively as pre-POc _*s_ and _*d_ (phonetically
+   probably [r], since Eastern Malayo-Polynesian cognates are liquids).
+c) PMP and a number of its descendants had word-medial homorganic nasal + obstruent
+   sequences (not shown in the table). Some instances of the pre-POc word-initial
+   obstruents _*p_, _*t_, _*k_, _*d_/_r_, _*s_ and _*j_ also acquired a preceding homorganic nasal (the
+   occurrence of this process is unpredictable and its causes largely unknown). These
+   sequences became the unitary POc prenasalised voiced obstruents.
+d) The labiovelars _*pʷ_, _*bʷ_, _*mʷ_ and _*kʷ_ entered the language (Blust 1981a, Lynch 2002e,
+   Ross 2011). Most of the items containing a labiovelar lack non-Oceanic cognates, and
+   some, at least, must have been borrowed into POc from neighbouring Papuan languages.
+   For example, it can be argued that *mʷapo(q) ‘taro’ was borrowed by POc speakers as
+   they acquired more sophisticated taro-growing techniques from Papuan speakers
+   (vol.3:267). A few of these items were inherited into POc, and the labiovelar was the
+   reflex of a labial occurring next to a round vowel. However, it is not clear in these items
+   that the labiovelar actually occurred in POc. Thus a number of Oceanic languages reflect
+   _*tamʷata_ ‘man, husband’, derived from _*tau_ ‘body, person’ + _*mataq_ ‘unripe, immature,
+   young’, but we cannot be sure whether this or _*taumata(q)_ was the POc form (§2.2.2.1)
+e) PMP _*h_ was lost in POc.
+f) PMP _*e_, phonetically [ə], became POc _*o_, and the PMP word-final diphthongs _*-uy(-)_,[21]
+   _*-aw_ and _*-ay_ were simplified to POc _*-i_, _*-o_ and _*-e_ respectively, the first two thereby
+   merging with plain vowels.
 
 20 Malcolm Ross, Andrew Pawley and Meredith Osmond
 
@@ -1146,7 +1146,7 @@ structure was realigned so that the PMP (undergoer) subject became the POc objec
 PMP genitive actor was reanalysed as the subject.
 
     Table 7 shows the parts of the PMP voice paradigm that are relevant to POc. Forms in the
-grey cells did not survive as verbal morphemes in POc.33 PMP had three sets of undergoer
+grey cells did not survive as verbal morphemes in POc.[33] PMP had three sets of undergoer
 voices, marking the subject as semantic patient, location, and instrument or beneficiary
 respectively. PMP dependent forms occurred after an auxiliary, and it is these that have
 become the default POc forms.
@@ -13851,7 +13851,7 @@ weeping (§4.7.3) under physical responses to emotion or pain.
 simple form. However, a typical POc verb will also have derived transitive forms carrying
 additional information. With verbs of secretion and excretion the transitive form in _*-i_ took a
 location as its object (‘he urinated on the ground’), and the transitive form in _*-akin[i]_
-marked the product as the object (Evans 2003:197–199).31
+marked the product as the object (Evans 2003:197–199).[31]
 
 4.4.1 Bleeding
 
@@ -16828,9 +16828,9 @@ PSV *a-misa ‘sick, be in pain’ (Lynch 2001c) (vowel metathesis)
  Mic: Chuukese      meteki            ‘pain, hurt, be painful’
  Mic: Ponapean      metek             ‘be painful’
  Mic: Woleaian      metax             ‘sick, sickness, in pain’
- Pn:  Tongan        mahaki            ‘sickness, disease, ailment’ (first element in many compounds[2])
- Pn:  Rennellese    masaki            ‘sickness’ (first element in many compounds[3])
- Pn:  Samoan        maʔi              ‘be sick; fall ill’ (first element in many compounds[4])
+ Pn:  Tongan        mahaki            ‘sickness, disease, ailment’ (first element in many compounds)[2]
+ Pn:  Rennellese    masaki            ‘sickness’ (first element in many compounds)[3]
+ Pn:  Samoan        maʔi              ‘be sick; fall ill’ (first element in many compounds)[4]
  Pn:  Tuvaluan      mahaki            ‘illness’
  Pn:  Maori         mahaki            ‘ill; sick person; cutaneous disease’
 cf. also:
@@ -16874,8 +16874,8 @@ Both _*pitik_ and _*(p,pʷ)idik_ are reconstructable.
 <
 PMP *pi(n)tik ‘throb, beat’ (ACD)
 POc *pitik ‘to feel pain, throb’
- Adm: Drehet              (kanro)pwisip   ‘horsefly’
- NNG: Buang               vtī(gʷib)       ‘small stinging fly’ (gʷib ‘cassowary’?)
+ Adm: Drehet              (kanro)pʷisip   ‘horsefly’
+ NNG: Buang               vtī(gʷib)       ‘small stinging fly’ (_gʷib_ ‘cassowary’?)
  NNG: Nenaya              vusi            ‘sick’
  NNG: Numbami             witi            ‘be in pain’
  NNG: Wogeo               -vir            ‘be in pain’
@@ -21139,11 +21139,11 @@ person or thing that is moved) to move. The semantic frame of caused movement is
 complex. It involves
 
 __block__
-• an agent (who/which moves the theme)
-• a theme (what is moved)
-• a source (the location the theme is moved from)
-• a goal (the location the theme is moved to)
-• the movement event itself
+- an agent (who/which moves the theme)
+- a theme (what is moved)
+- a source (the location the theme is moved from)
+- a goal (the location the theme is moved to)
+- the movement event itself
 
 Thus in an English sentence like
 
@@ -21163,17 +21163,16 @@ discussed in earlier sections. These include:
 __block__
  4. the resulting posture of the theme (cf §6.2): transitive sit/seat/set, stand, lay, hang
  5. locomotion (cf §6.3), i.e. the manner of movement of the theme: drop (‘let fall, cause to
-     fall’), send (‘cause to go’), throw (‘cause to fly’), transitive roll
+    fall’), send (‘cause to go’), throw (‘cause to fly’), transitive roll
  6. the direction of vertical movement (§6.4): lift, raise (‘cause to go up’), lower, drop
-   (‘cause to go down’)
+    (‘cause to go down’)
  7. the path of movement (§6.4)): insert (‘cause to go into’), extract (‘cause to come out of’),
-   immerse (‘cause to go into water’), box (‘cause to be in boxes’)
+    immerse (‘cause to go into water’), box (‘cause to be in boxes’)
  8. Other frame elements profiled by caused movement verbs relate to human causal agency:
- 9. whether or not the agent accompanies the theme in its movement:16
+ 9. whether or not the agent accompanies the theme in its movement:[16]
  10. not specified, with take, push and pull
-    a. yes, with carrying verbs like carry, bring, drag
-    b. if no, then whether or not some part or tool of the agent touches the theme until it
-        reaches its goal
+     a. yes, with carrying verbs like carry, bring, drag
+     b. if no, then whether or not some part or tool of the agent touches the theme until it reaches its goal
         i. yes, with putting verbs like put, insert, immerse
         ii. no, with sending verbs like send, drop, throw
         iii. the kind of force that the agent applies in order to move the theme: push, pull,
@@ -27277,7 +27276,7 @@ cf. also:
 
 10.4 True and believing to be true
 
-In those Oceanic languages for which there are relevant data6 believing something to be true
+In those Oceanic languages for which there are relevant data[6] believing something to be true
 usually differs lexically from OPINE (§10.3) and thus forms a separate semantic frame, here
 labelled BELIEVE. In most of these languages, the basic BELIEVE predicate is a complex form,
 either a derived verb or, less commonly, a BPM, involving a stative verb root meaning ‘true, real,
@@ -29632,13 +29631,13 @@ __formgroup__
    In a number of languages, desire is strongly identified with the reflex of POc _*lalo-_, _*lalom_
 ‘inside; seat of thoughts and emotions’ or whatever has replaced it as the term for
 ‘mind’ (§9.4). The following example from Bugenhagen’s Mangap-Mbula grammar
-(1995:223) illustrates how this works (or in some languages, once worked):
+(1995:223) illustrates how this works (or in some languages, once worked):[8]
 
                                                                                       Describing people 595
 
 __igt__
 Mangap-Mbula (NNG)
-         Nio lele-ŋ            be aŋ-la pa ᵐbeŋ8
+         Nio lele-ŋ            be aŋ-la pa ᵐbeŋ
          I      insides-my NF I-go at night
          ‘I wanted to go at night.’
 

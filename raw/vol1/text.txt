@@ -6933,7 +6933,7 @@ propagation techniques for these and other garden plants such as sugar cane and 
 6.1 Introduction
 
     Much of this chapter is reproduced from Lichtenberk (1994), reordered and slightly revised
-in the light of more stringent subgrouping assumptions. To that work have been added a
+in the light of more stringent subgrouping assumptions.[1] To that work have been added a
 number of terms related to fire and its accompaniments. Organization of the chapter is (1)
 fire and the fireplace; (2) cooking methods; (3) preservation and (4) food processing.
 
@@ -7945,7 +7945,7 @@ POc *koRi 'scraper; bivalve sp., used as a scraper; scrape with a shell'
 >
 
 <
-PEOc (POC?)[6] *kori(s), *koris-i- 'scrape (esp. coconuts), grate (esp. coconuts)'
+POc (?)[6] *kori(s), *koris-i- 'scrape (esp. coconuts), grate (esp. coconuts)'
     NNG: Kove                ko-koli               'scrape the exterior off food (trepang, taro)'
     SES: Gela                goli                  'scrape coconut with a tue (fresh water shell)'
     SES: Gela                gori                  'shave the head'
@@ -7955,7 +7955,7 @@ PEOc (POC?)[6] *kori(s), *koris-i- 'scrape (esp. coconuts), grate (esp. coconuts
     NCV: Lewo                koli                  'scrape (e.g. coconut)'
 >
 
-[6]   Depending on whether the NNG term is ascribed to _*koRi_ or _*kori(s)_, _*koris-i-_.
+[6] PEOc if the NNG term is ascribed to _*koRi_.
 
 <
 PCEMP *isi 'peel, strip off; scrape (coconut)' (ACD)

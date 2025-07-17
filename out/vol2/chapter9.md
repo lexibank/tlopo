@@ -594,7 +594,7 @@ All Polynesian reflexes point back to PPn _&ast;pō_ (for expected _&ast;poŋi_,
 <tr>
 <td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>boŋ</i></td>
 <td>
-'<span>night; a day of twenty-four hours, period, season</span>'</td>
+'<span>night; a day of twenty-four hours, period, season</span>'[^9]</td>
 </tr>
 <tr>
 <td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>pɯoŋʷ</i></td>
@@ -718,7 +718,7 @@ The word for ‘night’ in a number of Oceanic languages reflects POc _&ast;rod
 <i>&ast;dem-dem</i>
 </td>
 <td>
-'<span>be dark</span>'</td>
+'<span>be dark</span>'[^10]</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
@@ -1054,7 +1054,7 @@ The primary meaning of POc _&ast;qaco_ was ‘sun’, but it was also used for �
 </td>
 <td>
 '<span>sun, daylight</span>' (<a href="../sources/Blust1995">Blust1995</a>)
-</td>
+[^11]</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
@@ -1578,7 +1578,7 @@ Others have a noun phrase whose head is ‘sun, daylight’, modified by ‘big�
 <i>&ast;qaso-qatea</i>
 </td>
 <td>
-'<span>late morning and early afternoon</span>'</td>
+'<span>late morning and early afternoon</span>'[^12]</td>
 </tr>
 <tr>
 <td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>afiat</i></td>
@@ -2927,7 +2927,7 @@ The reconstructions below are repeated from Chapter 8, but only reflexes with a 
 </td>
 <td>
 '<span>be last; be after or behind; be late, be later; future</span>' (<a href="../sources/Blust1995">Blust1995</a>)
-</td>
+[^15]</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>

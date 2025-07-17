@@ -278,7 +278,7 @@ The term _&ast;qutan_ appears to have denoted uncultivated land in general, whet
 </td>
 <td>
 '<span>primary forest</span>' (<a href="../sources/FrenchWright1983">FrenchWright1983: _*wao_</a>)
-</td>
+[^8]</td>
 </tr>
 <tr>
 <td>PT</td><td><a href="../languages/misima">Misima</a></td><td><i>walu-walu</i></td>
@@ -853,7 +853,7 @@ cf. also:
 <td>Patpatar</td>
 <td><i>ni-an</i></td>
 <td>
-'<span>food</span>'</td>
+'<span>food</span>'[^15]</td>
 </tr>
 <tr>
 <td>MM</td>

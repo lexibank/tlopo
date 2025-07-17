@@ -262,7 +262,7 @@ The Mapos Buang and Mumeng Patep forms may be non-cognate, as their final -k ref
 <tr>
 <td>SV</td><td><a href="../languages/lenakel">Lenakel</a></td><td><i>ipʷər</i></td>
 <td>
-'<span>big, important</span>'</td>
+'<span>big, important</span>'[^7]</td>
 </tr>
 <tr>
 <td>SV</td><td><a href="../languages/ntanna">N. Tanna</a></td><td><i>empʷət</i></td>
@@ -1062,7 +1062,7 @@ The other two terms, _&ast;[ma]lago_ and _&ast;[ma]lawa_, clearly are derived. T
 <i>&ast;[ma]laŋkaw</i>
 </td>
 <td>
-'<span>high, tall</span>' (<span>ACD: *laŋkaw</span>)</td>
+'<span>high, tall</span>' (<span>ACD: *laŋkaw</span>)[^10]</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
@@ -1627,7 +1627,7 @@ POc _&ast;raŋi_ appears to be descended from PMP _&ast;dani_. The replacement o
 <i>&ast;dani, Sa-dani, ma-dani</i>
 </td>
 <td>
-'<span>be near</span>'</td>
+'<span>be near</span>'[^11]</td>
 </tr>
 <tr>
 <td><strong>PCEMP</strong></td><td> </td>
@@ -1957,7 +1957,7 @@ Three forms can be reconstructed for ‘thick’. The third, _&ast;[tubu]tubu[-k
 <i>&ast;[ma-]kumba</i>
 </td>
 <td>
-'<span>thick (in dimension)</span>'</td>
+'<span>thick (in dimension)</span>'[^12]</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
@@ -2026,7 +2026,7 @@ Two formally related terms are reconstructable for ‘thin’: _&ast;ma-tipi(s)_
 <i>&ast;tipis</i>
 </td>
 <td>
-'<span>thin</span>'</td>
+'<span>thin</span>'[^13]</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
@@ -2057,7 +2057,7 @@ Two formally related terms are reconstructable for ‘thin’: _&ast;ma-tipi(s)_
 <i>&ast;[ma]Lipis</i>
 </td>
 <td>
-'<span>thin</span>'</td>
+'<span>thin</span>'[^14]</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
@@ -2276,7 +2276,7 @@ Two POc terms for ‘new’ can be reconstructed: the adjectival noun _&ast;paqo
 <tr>
 <td>PT</td><td><a href="../languages/kilivila">Kilivila</a></td><td><i>-vau</i></td>
 <td>
-'<span>new</span>'</td>
+'<span>new</span>'[^15]</td>
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/bali">Bali</a></td><td><i>vaɣoru</i></td>
@@ -2387,7 +2387,7 @@ Two POc terms for ‘new’ can be reconstructed: the adjectival noun _&ast;paqo
 <tr>
 <td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td><i>halaba</i></td>
 <td>
-'<span>new</span>'</td>
+'<span>new</span>'[^16]</td>
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td><i>kalama</i></td>
@@ -2603,7 +2603,7 @@ Whereas _&ast;[ma]tuqa_ probably referred mainly to animates and to the vegetabl
 <tr>
 <td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>kwali</i></td>
 <td>
-'<span>be old, worn out (house, net, etc.); descendant</span>'</td>
+'<span>be old, worn out (house, net, etc.); descendant</span>'[^17]</td>
 </tr>
 <tr>
 <td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>wari</i></td>
@@ -3036,35 +3036,35 @@ One colour term of the form _&ast;ma-_ + ROOT has no known non-Oceanic cognates.
 <td>Mussau</td>
 <td><i>bo-boŋi-e-na</i></td>
 <td>
-'<span>black</span>' (<span><em>bo</em> ‘night’</span>)</td>
+'<span>black</span>' (<span><em>bo</em> ‘night’</span>)[^19]</td>
 </tr>
 <tr>
 <td>Adm</td>
 <td>Mussau</td>
 <td><i>rae-rae-a-na</i></td>
 <td>
-'<span>red</span>' (<span><em>rae</em> ‘blood’</span>)</td>
+'<span>red</span>' (<span><em>rae</em> ‘blood’</span>)[^19]</td>
 </tr>
 <tr>
 <td>Adm</td>
 <td>Mussau</td>
 <td><i>usou-usou-e-na</i></td>
 <td>
-'<span>white</span>' (<span>no unreduplicated root</span>)</td>
+'<span>white</span>' (<span>no unreduplicated root</span>)[^19]</td>
 </tr>
 <tr>
 <td>Adm</td>
 <td>Mussau</td>
 <td><i>vero-veroŋ-a-na</i></td>
 <td>
-'<span>black</span>' (<span>no unreduplicated root</span>)</td>
+'<span>black</span>' (<span>no unreduplicated root</span>)[^19]</td>
 </tr>
 <tr>
 <td>Adm</td>
 <td>Mussau</td>
 <td><i>riu-riu-e-na</i></td>
 <td>
-'<span>thin (of animates)</span>' (<span><em>riu</em> ‘bone’</span>)</td>
+'<span>thin (of animates)</span>' (<span><em>riu</em> ‘bone’</span>)[^19]</td>
 </tr>
 </table>
 
@@ -3891,7 +3891,7 @@ The data require that we reconstruct two variants for each of the three terms. T
 <i>&ast;[t,d]onu(p)</i>
 </td>
 <td>
-'<span>straight</span>'</td>
+'<span>straight</span>'[^22]</td>
 </tr>
 <tr>
 <td>NNG</td><td><a href="../languages/malai">Malai</a></td><td><i>dunu(ŋa)</i></td>
@@ -3970,7 +3970,7 @@ I have no explanation for the pair _&ast;mʷane-mʷane_ and _&ast;wane-wane_. Re
 <tr>
 <td>Adm</td><td><a href="../languages/aua">Aua</a></td><td><i>wane-wane</i></td>
 <td>
-'<span>smooth, level; straight</span>'</td>
+'<span>smooth, level; straight</span>'[^23]</td>
 </tr>
 <tr>
 <td>Adm</td><td><a href="../languages/pak">Pak</a></td><td><i>mʷane-n</i></td>
@@ -5510,7 +5510,7 @@ POc _&ast;[ma-](r,R)aŋo_ displays a phonological problem. Apparent non-Oceanic 
 <i>&ast;[ma]Raŋo</i>
 </td>
 <td>
-'<span>become withered (of vegetation)</span>'</td>
+'<span>become withered (of vegetation)</span>'[^24]</td>
 </tr>
 <tr>
 <td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td><i>malaŋo</i></td>

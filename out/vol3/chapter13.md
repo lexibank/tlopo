@@ -785,7 +785,7 @@ The best supported hypothesis appears to be that Piper methysticum is a domestic
 </td>
 <td>
 '<span>root(s) with special properties: one or more of Zingiber zerumbet, Piper subbullatum, and various fish-poison plants</span>' (<a href="../sources/Lynch2002f">Lynch2002f</a>)
-</td>
+[^4]</td>
 </tr>
 <tr>
 <td>Adm</td><td><a href="../languages/baluan">Baluan</a></td><td><i>kau</i></td>
@@ -1074,7 +1074,7 @@ The denotations of PCP &ast;kawa as 'Piper sp.', 'Zingiber spp.' and 'fish-poiso
 <tr>
 <td>Pn</td><td><a href="../languages/eastuvean">East Uvean</a></td><td><i>kava-pui</i></td>
 <td>
-'<span>Zingiber sp.; white ginger, H edychium coronarium</span>'</td>
+'<span>Zingiber sp.; white ginger, H edychium coronarium</span>'[^5]</td>
 </tr>
 <tr>
 <td>Pn</td><td><a href="../languages/anutan">Anutan</a></td><td><i>kava-pui</i></td>
@@ -1125,7 +1125,7 @@ Two species of the thin-walled genus Schizostachyum are reported from the region
 
 Schizostachyum species are a source of very straight, lightweight poles with many purposes: as battens from which to hang sago leaf thatch, as yam poles, as small fishing rods and as spears. Pieces of Schizostachyum are used to make traditional panpipes and coconut scrapers. They are also used as fencing material ([Henderson & Hancock 1988](../sources/HendersonandHancock1988):202-203, [Hviding 2005](../sources/Hviding2005): 107, [Kwa'ioloa & Burt 2001](../sources/KwaioloaandBurt2001): 202).
 
-Three species of the thin-walled genus Nastus are reported from the region. One is N. productus, a small, often drooping bamboo. A second is N. obtusus, a very slender bamboo which is almost always cultivated and attains heights of over 20 m with stem diameters of 8-11cm and internode lengths of 50 em to a metre. A third N astus species is not given a scientific name,6 but sources describe it as pliant and behaving as a tree or ground creeper. It has very short internode lengths and small, narrow leaves ([Peekel 1984](../sources/Peekel1984): 55, [Henderson & Hancock 1988](../sources/HendersonandHancock1988): 177, [Kwa'ioloa & Burt 2001](../sources/KwaioloaandBurt2001): 200-201).
+Three species of the thin-walled genus Nastus are reported from the region. One is N. productus, a small, often drooping bamboo. A second is N. obtusus, a very slender bamboo which is almost always cultivated and attains heights of over 20 m with stem diameters of 8-11cm and internode lengths of 50 em to a metre. A third N astus species is not given a scientific name,[^6] but sources describe it as pliant and behaving as a tree or ground creeper. It has very short internode lengths and small, narrow leaves ([Peekel 1984](../sources/Peekel1984): 55, [Henderson & Hancock 1988](../sources/HendersonandHancock1988): 177, [Kwa'ioloa & Burt 2001](../sources/KwaioloaandBurt2001): 200-201).
 
 The first two N astus species, and especially N. obtusus, have similar uses to those of Schizostachyum, but the third N astus species is considered by the Kwara'ae to be useless ([Henderson & Hancock 1988](../sources/HendersonandHancock1988): 176, 199-201, [Kwa'ioloa & Burt 2001](../sources/KwaioloaandBurt2001):200--202, [Hviding 2005](../sources/Hviding2005): 112).
 
@@ -1915,7 +1915,7 @@ POc _&ast;malo_ probably denoted B. papyrifera, the tree which throughout much o
 <i>&ast;mal(u,aw)</i>
 </td>
 <td>
-'<span>tree whose bast is used for barkcloth</span>'</td>
+'<span>tree whose bast is used for barkcloth</span>'[^11]</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
@@ -2240,7 +2240,7 @@ The distributions of POc &ast;fiofiu and &ast;kurat are complementary: &ast;kura
 <td>NCV</td><td><a href="../languages/raga">Raga</a></td><td><i>ɣuresi</i></td>
 <td>
 '<span>Morinda citrifolia</span>' (<a href="../sources/Walsh2004">Walsh2004</a>)
-</td>
+[^13]</td>
 </tr>
 <tr>
 <td>NCV</td><td><a href="../languages/uripiv">Uripiv</a></td><td><i>na-ur</i></td>
@@ -2685,7 +2685,7 @@ Turmeric and ginger are both cultivated for their roots, which have a variety of
 ### 5.1. Curcuma longa (syn. C. domestica), turmeric (Zingiberaceae)
 
 
-The turmeric: plant, Curcuma longa, is much smaller than Alpinia species, being only 50-120cm tall, but it is treated by at least speakers of Marovo and Kwara'ae as belonging to the same taxon as Alpinia ([Kwa'ioloa & Burt 2001](../sources/KwaioloaandBurt2001):193-194, [Hviding 2005](../sources/Hviding2005): 131). 14 It has long green leaves and pale yellow flowers. The rhizome is lumpy and an intense yellow ([Peekel 1984](../sources/Peekel1984): 109).
+The turmeric: plant, Curcuma longa, is much smaller than Alpinia species, being only 50-120cm tall, but it is treated by at least speakers of Marovo and Kwara'ae as belonging to the same taxon as Alpinia ([Kwa'ioloa & Burt 2001](../sources/KwaioloaandBurt2001):193-194, [Hviding 2005](../sources/Hviding2005): 131).[^14] It has long green leaves and pale yellow flowers. The rhizome is lumpy and an intense yellow ([Peekel 1984](../sources/Peekel1984): 109).
 
 Although it grows readily in the wild in locations where there is light, the Marovo and Kwara'ae sources also report that it is often cultivated. The rhizome provides spice. It is also a source of yellow dye, but the colour fades easily ([Floyd 1954](../sources/Floyd1954), [Peekel 1984](../sources/Peekel1984): 109). At Marovo the aromatic leaves are used for parcelling fish for the stone oven.
 
@@ -2891,7 +2891,7 @@ The root above was the source of the POc term for 'yellow', _&ast;yaŋo-yaŋo_:
 <tr>
 <td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>reŋa</i></td>
 <td>
-'<span>Curcuma tonga</span>'</td>
+'<span>Curcuma tonga</span>'[^15]</td>
 </tr>
 <tr>
 <td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>re-reŋʷa</i></td>
@@ -3591,7 +3591,7 @@ Medial parenthesised _&ast;-q-_ is reconstructed in POc _&ast;kaRi(q)a_ on the a
 <i>&ast;kaRi(q)a</i>
 </td>
 <td>
-'<span>taxon of decorative plants</span>' (<span>Geraghty 1990: PEOc *gaRi(a)</span>)</td>
+'<span>taxon of decorative plants</span>' (<span>Geraghty 1990: PEOc <em>*gaRi(a)</em></span>)</td>
 </tr>
 <tr>
 <td>NNG</td><td><a href="../languages/tami">Tami</a></td><td><i>kali-kali</i></td>
@@ -3856,7 +3856,7 @@ The leaves are used for covering and sealing the stone oven because of their thi
 <tr>
 <td>NCV</td><td><a href="../languages/mwotlap">Mwotlap</a></td><td><i>(no-yo)va</i></td>
 <td>
-'<span>Heliconia indica</span>' (<span>yo- 'leaf</span>)</td>
+'<span>Heliconia indica</span>' (<span><em>yo-</em> 'leaf</span>)</td>
 </tr>
 <tr>
 <td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>vao</i></td>
@@ -3884,7 +3884,7 @@ The leaves are used for covering and sealing the stone oven because of their thi
 <i>&ast;rako</i>
 </td>
 <td>
-'<span>Heliconia sp., usually H. indica</span>' (<a href="../sources/Lynch2004a">Lynch2004a: PSOc *rau</a>)
+'<span>Heliconia sp., usually H. indica</span>' (<a href="../sources/Lynch2004a">Lynch2004a: PSOc _*rau_</a>)
 </td>
 </tr>
 <tr>
@@ -3926,7 +3926,7 @@ Figure 13.10: Left: Heliconia solomonensis: __A__, plant; __B__, mature inflores
 
 At Tinputz (Bougainville) the pounded roots of this plant were mixed with red iron oxide and the mixture was rubbed onto coconut palm trunks to ensure that they bore well ([Blackwood 1935](../sources/Blackwood1935): 311). The Nakanai of New Britain and the Marovo use the light-coloured leaf bases as trolling lures to catch large fish, in Marovo barracuda and Spanish mackerel ([Hviding 2005](../sources/Hviding2005): 103, [Floyd 1954](../sources/Floyd1954)). The Nakanai also use the leaves for making women's leaf skirts. In Marovo the leaves are used to treat bruises and fractures.
 
-The forms listed below are clearly cognate, but it is not clear whether or how many of the parenthesised segments of the Kairiru and Kilivila forms reflect part of the protoform: hence the question mark against &ast;mʷalak.
+The forms listed below are clearly cognate, but it is not clear whether or how many of the parenthesised segments of the Kairiru and Kilivila forms reflect part of the protoform: hence the question mark against _&ast;mʷalak_.
 
 <table id="3-13-6-6-422-POc-malak-a">
 <tr>
@@ -3984,12 +3984,12 @@ The four plants discussed below, namely the bottle gourd (Lagenaria siceraria), 
 
 <a id="s-7-1"></a>
 
-### 7.1. Lagena ria siceraria (syn. L. vulgaris, L. leucantha, Cucurbita siceraria, C. lagena ria), bottle gourd, TP kambang (Cucurbitaceae)
+### 7.1. Lagena ria siceraria (syn. L. vulgaris, L. leucantha, Cucurbita siceraria, C. lagenaria), bottle gourd, TP _kambang_ (Cucurbitaceae)
 
 
 The bottle gourd, Lagenaria siceraria, is grown throughout much of the Pacific, mainly for its value as a container and occasionally for its food value ([French 1986](../sources/French1986): 107). The plant originated in Africa, but had spread across much of the world in pre-Columbian times. [Barrau](../sources/Barrau1962) ([1962](../sources/Barrau1962): 189) regards it as an ancient plant in Melanesia, but no POc form can be reconstructed, as noted by [Ross](../sources/Ross1996d) ([1996d](../sources/Ross1996d)).
 
-[Clark](../sources/Clark1996) ([1996](../sources/Clark1996)) reconstructs PNCV &ast;tavaya (Raga tavai, Mota wo-tavae), which, together with Bauan tavaya 'bottle', implies PEOc &ast;tapaya. But no cognates of the latter nor alternative cognate sets have been found in Western Oceanic or Admiralties languages, implying that the bottle gourd was not known to POc speakers. Surveying recent findings, [Green](../sources/Green2000) ([2000](../sources/Green2000)) suggests quite strongly that this was the case. The gourd may well have reached Oceania from two directions, arriving in Melanesia from the Indo-Malaysian region and much later in eastern Polynesia from South America. There is good evidence that the Polynesians did not carry the gourd with them into eastern Polynesia ([Whistler 1990](../sources/Whistler1990), 1991). It is thus possible - and on the linguistic evidence likely - that the bottle gourd first reached the Bismarck Archipelago after the break-up of POc.
+[Clark](../sources/Clark1996) ([1996](../sources/Clark1996)) reconstructs PNCV _&ast;tavaya_ (Raga _tavai_, Mota _wo-tavae_), which, together with Bauan _tavaya_ 'bottle', implies PEOc _&ast;tapaya_. But no cognates of the latter nor alternative cognate sets have been found in Western Oceanic or Admiralties languages, implying that the bottle gourd was not known to POc speakers. Surveying recent findings, [Green](../sources/Green2000) ([2000](../sources/Green2000)) suggests quite strongly that this was the case. The gourd may well have reached Oceania from two directions, arriving in Melanesia from the Indo-Malaysian region and much later in eastern Polynesia from South America. There is good evidence that the Polynesians did not carry the gourd with them into eastern Polynesia ([Whistler 1990](../sources/Whistler1990), 1991). It is thus possible - and on the linguistic evidence likely - that the bottle gourd first reached the Bismarck Archipelago after the break-up of POc.
 
 
 <a id="s-7-2"></a>
@@ -3997,12 +3997,12 @@ The bottle gourd, Lagenaria siceraria, is grown throughout much of the Pacific, 
 ### 7.2. Benincasa hispida, wax gourd, white gourd, winter melon (Cucurbitaceae)
 
 
-[Golson](../sources/Golson2002) ([2002](../sources/Golson2002)) also provides a survey of archaeological evidence which shows that allegedly pre-Oceanic dates for the bottle gourd in Oceania are the result of misidentification of remains of the wax gourd, Benincasa hispida. [Whistler](../sources/Whistler1990) ([1990](../sources/Whistler1990)) similarly shows that reports of the bottle gourd in Polynesia reflect incorreclt identifications of the wax gourd. The latter is a native of SE Asia and archaeological evidence indicates that it was present at least on mainland New Guinea when the Austronesian speaking ancestors of POc speakers arrived there. There are terms for it in non-Oceanic languages: terms from Philippine languages listed by [Madulid](../sources/Madulid2001b) ([2001b](../sources/Madulid2001b): 42) together with Malay kundur point to a possible PMP &ast;kundur, but this may be an outcome of borrowings across island SE Asia ([Wolff 1994](../sources/Wolff1994)). [Verheijen](../sources/Verheijen1990) ([1990](../sources/Verheijen1990): 195) cites terms that point to a possible PCMP &ast;kelas. As Golson points out, the botanical literature indicates that B. hispida is at least occasionally present at locations on the mainland and in the Bismarcks where Oceanic languages are spoken today. In support of this he cites [Peekel](../sources/Peekel1984) ([1984](../sources/Peekel1984): 547-548) and [Borrell](../sources/Borrell1989) ([1989](../sources/Borrell1989): 66). [French](../sources/French1986) ([1986](../sources/French1986): 108) also indicates that B. hispida is grown in Papua New Guinea, but does not specify locations.
+[Golson](../sources/Golson2002) ([2002](../sources/Golson2002)) also provides a survey of archaeological evidence which shows that allegedly pre-Oceanic dates for the bottle gourd in Oceania are the result of misidentification of remains of the wax gourd, Benincasa hispida. [Whistler](../sources/Whistler1990) ([1990](../sources/Whistler1990)) similarly shows that reports of the bottle gourd in Polynesia reflect incorreclt identifications of the wax gourd. The latter is a native of SE Asia and archaeological evidence indicates that it was present at least on mainland New Guinea when the Austronesian speaking ancestors of POc speakers arrived there. There are terms for it in non-Oceanic languages: terms from Philippine languages listed by [Madulid](../sources/Madulid2001b) ([2001b](../sources/Madulid2001b): 42) together with Malay kundur point to a possible PMP _&ast;kundur_, but this may be an outcome of borrowings across island SE Asia ([Wolff 1994](../sources/Wolff1994)). [Verheijen](../sources/Verheijen1990) ([1990](../sources/Verheijen1990): 195) cites terms that point to a possible PCMP _&ast;kelas_. As Golson points out, the botanical literature indicates that B. hispida is at least occasionally present at locations on the mainland and in the Bismarcks where Oceanic languages are spoken today. In support of this he cites [Peekel](../sources/Peekel1984) ([1984](../sources/Peekel1984): 547-548) and [Borrell](../sources/Borrell1989) ([1989](../sources/Borrell1989): 66). [French](../sources/French1986) ([1986](../sources/French1986): 108) also indicates that B. hispida is grown in Papua New Guinea, but does not specify locations.
 
 
 <a id="p-424"></a>
 
-Whistler provides names for B. hispida, listed below, which allow us to reconstruct Proto Central Pacific &ast;vaŋ(o,u). I have accepted his arguments for glossing the Fijian terms as B. hispida: his sources (H. B. R. [Parham 1943](../sources/Parham1943), [Capell 1941](../sources/Capell1941)) gloss them as species of Lagenaria. Despite the obvious presence of B. hispida further west I have been unable to reconstruct an earlier term for it, but not for the usual reasons. Usually, a term is not reconstructable because there are no cognates in the data or because cognates are insufficiently widespread. In the case of B. hispida, however, there are no data from outside Fiji and Polynesia except Peekel's Patpatar hulhul paraho. This can only indicate that, even if B. hispida was present in early Oceanic times, its presence and significance in the agricultural suite of Oceanic-speaking societies has faded almost to zero.[^23]
+Whistler provides names for B. hispida, listed below, which allow us to reconstruct Proto Central Pacific _&ast;vaŋ(o,u)_. I have accepted his arguments for glossing the Fijian terms as B. hispida: his sources (H. B. R. [Parham 1943](../sources/Parham1943), [Capell 1941](../sources/Capell1941)) gloss them as species of Lagenaria. Despite the obvious presence of B. hispida further west I have been unable to reconstruct an earlier term for it, but not for the usual reasons. Usually, a term is not reconstructable because there are no cognates in the data or because cognates are insufficiently widespread. In the case of B. hispida, however, there are no data from outside Fiji and Polynesia except Peekel's Patpatar _hulhul paraho_. This can only indicate that, even if B. hispida was present in early Oceanic times, its presence and significance in the agricultural suite of Oceanic-speaking societies has faded almost to zero.[^23]
 
 <table id="3-13-7-2-424-PCP-vaou-a">
 <tr>
@@ -4060,12 +4060,12 @@ Whistler provides names for B. hispida, listed below, which allow us to reconstr
 
 [Barrau](../sources/Barrau1962) ([1962](../sources/Barrau1962): 190) declares that the pumpkin[^24] is a European introduction to Melanesia, and the linguistic data largely support his assertion. A number of terms for it are borrowings from English (MM: E Kara baniyin, Tinputz banken, NCV: Paamese vamuken, Lewo pamken) or from elsewhere (PT: Motu mausini, Roro mauteni, apparently from Samoan mau- tini 'gourd ').
 
-The set of seeming cognates below provides evidence, on the other hand, of an early Oceanic etymon, &ast;waluq or &ast;[w]aruq, thatmusthave denoted C. moschata or a similar plant. I write 'seeming' because, however one reconstructs the term, there are irregular phonological developments due to borrowing. [Dempwolff](../sources/Dempwolff1938) ([1938](../sources/Dempwolff1938)) reconstructed &ast;baluq 'bottle gourd, Lagenaria siceraria'. However, the Oceanic forms below, together with Sundanese, Old Javanese, Balinese waluh, Buru walu 'bottle gourd', point to PMP &ast;waluq 'bottle gourd'. Whether PMP actually had such a form or whether this is a series of borrowings postdating the break-up of PMP and perhaps even of POc (cf [§7.1](../contributions/3-13#s-7-1)) is not relevant here. What is relevant is that a form related to these entered early Oceanic, but was applied to the pumpkin, C. moschata, or a related species.
+The set of seeming cognates below provides evidence, on the other hand, of an early Oceanic etymon, _&ast;waluq_ or _&ast;[w]aruq_, thatmusthave denoted C. moschata or a similar plant. I write 'seeming' because, however one reconstructs the term, there are irregular phonological developments due to borrowing. [Dempwolff](../sources/Dempwolff1938) ([1938](../sources/Dempwolff1938)) reconstructed _&ast;baluq_ 'bottle gourd, Lagenaria siceraria'. However, the Oceanic forms below, together with Sundanese, Old Javanese, Balinese _waluh_, Buru _walu_ 'bottle gourd', point to PMP _&ast;waluq_ 'bottle gourd'. Whether PMP actually had such a form or whether this is a series of borrowings postdating the break-up of PMP and perhaps even of POc (cf [§7.1](../contributions/3-13#s-7-1)) is not relevant here. What is relevant is that a form related to these entered early Oceanic, but was applied to the pumpkin, C. moschata, or a related species.
 
 
 <a id="p-425"></a>
 
-If we assume that the Oceanic etymon was &ast;waluq, then the consonants are regularly reflected in Kela, Dami and Takia. Sio reflects &ast;waruq, and Kela may also do so, as &ast;-l- and &ast;-r-are neutralised as Kela -r-. Hote, Mapos Buang and Patep reflect &ast;ruq-aruq and Lenakel and Anejom reflect &ast;ruq-ruq. 25 Gapapaiwa and Misima bonu-bonu (and similar forms in other PT languages) reflect &ast;bʷalu-bʷalu. If we assume instead that the Oceanic etymon was &ast;waruq or &ast;aruq, we are still left with irregularities.
+If we assume that the Oceanic etymon was _&ast;waluq_, then the consonants are regularly reflected in Kela, Dami and Takia. Sio reflects _&ast;waruq_, and Kela may also do so, as _&ast;-l-_ and _&ast;-r-_ are neutralised as Kela _-r-_. Hote, Mapos Buang and Patep reflect _&ast;ruq-aruq_ and Lenakel and Anejom reflect _&ast;ruq-ruq_.[^25] Gapapaiwa and Misima _bonu-bonu_ (and similar forms in other PT languages) reflect _&ast;bʷalu-bʷalu_. If we assume instead that the Oceanic etymon was &ast;waruq or &ast;aruq, we are still left with irregularities.
 
 The strong likelihood, then, is that the term was borrowed from community to community sometime very soon after the break-up of POc. That is, C. moschata or a similar plant must have found its way into NW Melanesia not much less that 3000 years ago. The genus Cucurbita is indigenous to the tropical zone of the Americas, where domestication is known to have occurred by 4000 years ago ([Sauer 1993](../sources/Sauer1993)).
 
@@ -4153,14 +4153,14 @@ This finding is not at odds with the historical fact that the modern pumpkin was
 ### 7.4. Cucumis sativus, cucumber (Cucurbitaceae)
 
 
-Because of the varieties that have been introduced since 1870, it is sometimes assumed that the cucumber is a crop introduced by Europeans. However, [Bourke & Allen](../sources/BourkeandAllenforthcoming) ([forthcoming](../sources/BourkeandAllenforthcoming)) write that it was probably introduced via SE Asia thousands of years ago. The cognate set supporting the reconstruction of POc &ast;[ka]tim(o,u)n 'cucumber, Cucumis sativus' below con- firms that the cucumber was part of the world of POc speakers, even though it is not indigenous to the Pacific. The genus Cucumis has its origins in Africa, and the cucumber is one of the few African species known to have been domesticated outside Africa. Until recently it was thought that it was part of a suite of plants that were domesticated in the Fertile Crescent of SW Asia or in India, but recent work in molecular biology has cast doubt on this, placing the cucumber instead in an Asian-Australian clade of the genus Cucumis ([Renner et al. 2007](../sources/Renneretal2007)). There is thus no biogeographic challenge to the proposal that the cucumber was known to both PMP and POc speakers.
+Because of the varieties that have been introduced since 1870, it is sometimes assumed that the cucumber is a crop introduced by Europeans. However, [Bourke & Allen](../sources/BourkeandAllenforthcoming) ([forthcoming](../sources/BourkeandAllenforthcoming)) write that it was probably introduced via SE Asia thousands of years ago. The cognate set supporting the reconstruction of POc _&ast;[ka]tim(o,u)n_ 'cucumber, Cucumis sativus' below con- firms that the cucumber was part of the world of POc speakers, even though it is not indigenous to the Pacific. The genus Cucumis has its origins in Africa, and the cucumber is one of the few African species known to have been domesticated outside Africa. Until recently it was thought that it was part of a suite of plants that were domesticated in the Fertile Crescent of SW Asia or in India, but recent work in molecular biology has cast doubt on this, placing the cucumber instead in an Asian-Australian clade of the genus Cucumis ([Renner et al. 2007](../sources/Renneretal2007)). There is thus no biogeographic challenge to the proposal that the cucumber was known to both PMP and POc speakers.
 
 
 <a id="p-426"></a>
 
-Blust (ACD) produces strong evidence to suggest that the denotatum of POc &ast;[ka]tim(o,u)n was the cucumber, but the reflexes below suggest that it may also have been used of other species of Cucumis.
+Blust (ACD) produces strong evidence to suggest that the denotatum of POc _&ast;[ka]tim(o,u)n_ was the cucumber, but the reflexes below suggest that it may also have been used of other species of Cucumis.
 
-The initial syllable of &ast;[ka]tim(o,u)n is reflected only in Western Oceanic languages , whereas Central Pacific reflexes point to &ast;timun. This distribution justifies the reconstruction of POc forms with and without initial &ast;ka-, which may represent or have been reanalysed as the prefix &ast;ka- 'tree' reflecting earlier &ast;kayu 'tree' ([ch.2, §7.1.2](../contributions/3-2#s-7-1-2)).
+The initial syllable of _&ast;[ka]tim(o,u)n_ is reflected only in Western Oceanic languages , whereas Central Pacific reflexes point to _&ast;timun_. This distribution justifies the reconstruction of POc forms with and without initial _&ast;ka-_, which may represent or have been reanalysed as the prefix _&ast;ka-_ 'tree' reflecting earlier _&ast;kayu_ 'tree' ([ch.2, §7.1.2](../contributions/3-2#s-7-1-2)).
 
 Shown in parentheses below are irregular phonological developments, implying that al- though the term was inherited into POc, it was sometimes borrowed from one language into another.
 
@@ -4171,7 +4171,7 @@ Shown in parentheses below are irregular phonological developments, implying tha
 <i>&ast;[ka]timun</i>
 </td>
 <td>
-'<span>cucurbit (generic); cucumber, Cucumis sativus</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938: *timun</a>)
+'<span>cucurbit (generic); cucumber, Cucumis sativus</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938: _*timun_</a>)
 </td>
 </tr>
 <tr>
@@ -4303,6 +4303,6 @@ Shown in parentheses below are irregular phonological developments, implying tha
 
 [^23]: [Barrau](../sources/Barrau1962) ([1962](../sources/Barrau1962): 189) lists B. hispida as a recent introduction to Oceania: he is apparently wrong, although there may have been recent reintroductions.
 
-[^24]: Barrau refers to the pumpkin as Cucurbita pepo. In Papua New Guinea, at least, the common pumpkin is C. moschata, not C. pepo (R. Michael Bourke, pers. comm., and [French 1986](../sources/French1986): 102-103 ). Both are evidently recent introductions, so this possible confusion makes no difference to the argument of this paragraph.
+[^24]: Barrau refers to the pumpkin as Cucurbita pepo. In Papua New Guinea, at least, the common pumpkin is C. moschata, not C. pepo (R. Michael Bourke, pers. comm., and [French 1986](../sources/French1986): 102-103). Both are evidently recent introductions, so this possible confusion makes no difference to the argument of this paragraph.
 
 [^25]: Hote, Patep and Lenakel also neutralise _&ast;-l-_ and _&ast;-r-_, but I have ignored this here for the sake of simplicity of presentation.

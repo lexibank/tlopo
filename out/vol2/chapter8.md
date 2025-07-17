@@ -2998,7 +2998,7 @@ The second term, POc _&ast;gabʷari-_ meant ‘the area underneath a raised hous
 <tr>
 <td>NNG</td><td><a href="../languages/yabem">Yabem</a></td><td><i>m̀</i></td>
 <td>
-'<span>origin</span>'</td>
+'<span>origin</span>'[^13]</td>
 </tr>
 <tr>
 <td>NNG</td><td><a href="../languages/bukawa">Bukawa</a></td><td><i>(ŋa)pu</i></td>
@@ -3473,7 +3473,7 @@ This expectation is at least partly fulfilled. We can reconstruct POc _&ast;[pʷ
 </td>
 <td>
 '<span>cheek, temple, side,</span>' (<a href="../sources/Blust1995">Blust1995</a>)
-</td>
+[^14]</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
@@ -3654,7 +3654,7 @@ POc _&ast;bali_ denoted ‘one of two (opposing) sides or parts’.
 </td>
 <td>
 '<span>moiety; answer; oppose; partner, friend, enemy; opposite side or part</span>' (<a href="../sources/Blust1995">Blust1995</a>)
-</td>
+[^15]</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
@@ -4616,7 +4616,7 @@ It appears that the PMP root _&ast;udehi_ was also inherited into POc as the bas
 </td>
 <td>
 '<span>be last; be after or behind; be late, be later; future</span>' (<a href="../sources/Blust1995">Blust1995</a>)
-</td>
+[^18]</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
@@ -6569,7 +6569,7 @@ The forms listed below also seem to constitute a cognate set, but, as the questi
 <i>&ast;[s,j]u[(a,u)]</i>
 </td>
 <td>
-'<span>go down vertically, fall</span>'</td>
+'<span>go down vertically, fall</span>'[^20]</td>
 </tr>
 <tr>
 <td>NNG</td><td><a href="../languages/sio">Sio</a></td><td><i>due</i></td>
@@ -6644,7 +6644,7 @@ The forms listed below also seem to constitute a cognate set, but, as the questi
 <tr>
 <td>MM</td><td><a href="../languages/notsi">Notsi</a></td><td><i>(bi-)dū</i></td>
 <td>
-[adverb] '<span>from below</span>'</td>
+[adverb] '<span>from below</span>'[^21]</td>
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/notsi">Notsi</a></td><td><i>(ta-)dū</i></td>
@@ -7764,7 +7764,7 @@ Also reconstructable is the POc form _&ast;ma_, reflected in WOc and CEOc langua
 <tr>
 <td>PT</td><td><a href="../languages/sinaugoro">Sinaugoro</a></td><td><i>-ma</i></td>
 <td>
-[preverbal clitic] '<span>near speaker</span>'</td>
+[preverbal clitic] '<span>near speaker</span>'[^25]</td>
 </tr>
 <tr>
 <td>PT</td><td><a href="../languages/sinaugoro">Sinaugoro</a></td><td><i>-ma(riɣo)</i></td>
@@ -7819,7 +7819,7 @@ Also reconstructable is the POc form _&ast;ma_, reflected in WOc and CEOc langua
 <tr>
 <td>MM</td><td><a href="../languages/taiof">Taiof</a></td><td><i>-ma</i></td>
 <td>
-'<span>first/second person object enclitic</span>'</td>
+'<span>first/second person object enclitic</span>'[^26]</td>
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/banoni">Banoni</a></td><td><i>ma</i></td>
@@ -7884,7 +7884,7 @@ Also reconstructable is the POc form _&ast;ma_, reflected in WOc and CEOc langua
 <tr>
 <td>NCV</td><td><a href="../languages/ambae">Ambae</a></td><td><i>-mai, -mei, -ai</i></td>
 <td>
-[DIR] '<span>towards speaker</span>'</td>
+[DIR] '<span>towards speaker</span>'[^27]</td>
 </tr>
 <tr>
 <td>NCV</td><td><a href="../languages/merei">Merei</a></td><td><i>ma</i></td>
@@ -8723,7 +8723,7 @@ Just as POc _&ast;mai_ ‘come’ had a short form _&ast;ma_, so POc _&ast;lako_
 <tr>
 <td>PT</td><td><a href="../languages/sinaugoro">Sinaugoro</a></td><td><i>-a</i></td>
 <td>
-[preverbal clitic] '<span>away from speaker and addressee</span>'</td>
+[preverbal clitic] '<span>away from speaker and addressee</span>'[^30]</td>
 </tr>
 <tr>
 <td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>la</i></td>
@@ -9063,7 +9063,7 @@ As noted in [§3.3](../contributions/2-8#s-3-3), some reflexes of POc _&ast;pano
 <tr>
 <td>NCal</td><td><a href="../languages/iaai">Iaai</a></td><td><i>hããŋ</i></td>
 <td>
-[DIR] '<span>away from speaker crosswise</span>'</td>
+[DIR] '<span>away from speaker crosswise</span>'[^31]</td>
 </tr>
 <tr>
 <td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>fano</i></td>

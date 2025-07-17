@@ -914,7 +914,7 @@ cf. also:
 <tr>
 <td>MM</td><td><a href="../languages/patpatar">Patpatar</a></td><td><i>kau-kau</i></td>
 <td>
-'<span>lesser yam, D. esculenta</span>'</td>
+'<span>lesser yam, D. esculenta</span>'[^9]</td>
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/nehan">Nehan</a></td><td><i>ko-ko</i></td>
@@ -1414,8 +1414,8 @@ The leaves of Colocasia esculenta are eaten as a green vegetable in many parts o
 
 Other terms for parts of the taro plant are reconstructed in chapter 4. They are
 
-- POc _&ast;[s,j]uti(q)_ 'banana or taro sucker, slip, cutting, shoot (i.e. propagation material)'
-  ([ch.4, §2.6](../contributions/3-4#s-2-6)Y 2
+- POc _&ast;[s,j]uli(q)_ 'banana or taro sucker, slip, cutting, shoot (i.e. propagation material)'
+  ([ch.4, §2.6](../contributions/3-4#s-2-6))[^12]
 - POc _&ast;baRa-baRa_ 'stem or stalk of non-woody plants, such as taro and banana, probably
   also the soft stems of leaves' ([ch.4, §2.2](../contributions/3-4#s-2-2))
 - POc _&ast;up(e,a)_ 'taro seedling' ([ch.4, §2.6](../contributions/3-4#s-2-6))
@@ -1502,7 +1502,7 @@ The items listed below denote 'swamp taro, Cyrtosperma merkusii' unless glossed 
 <td>Patpatar</td>
 <td><i>pulaka</i></td>
 <td>
-'<span>Polynesian arrowroot, probably Tacca leontopetaloides</span>' (<span>would reflect <em>*pulaka</em></span>)</td>
+'<span>Polynesian arrowroot, probably Tacca leontopetaloides</span>' (<span>would reflect <em>*pulaka</em></span>)[^16]</td>
 </tr>
 <tr>
 <td>MM</td>
@@ -2726,7 +2726,7 @@ There is evidence for PWOc _&ast;pudi-pudi_ 'wild banana', a transparent redupli
 <td><i>vudu-vudu</i></td>
 <td>
 '<span>wild banana, Ensete glaucum</span>'(<a href="../sources/ArnaudandJPHorry1997">ArnaudandJPHorry1997: 19</a>)
-</td>
+[^20]</td>
 </tr>
 </table>
 
@@ -3685,7 +3685,7 @@ The glosses of many of the terms listed below  refer simply to 'cycad' or 'Cycas
 <i>&ast;patuRu</i>
 </td>
 <td>
-'<span>a cycad, Cycas rumphii</span>'</td>
+'<span>a cycad, Cycas rumphii</span>'[^32]</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
@@ -4048,7 +4048,7 @@ The banana, _&ast;pudi_ (Musa cultivars), and the breadfruit, _&ast;kuluR_ and _
 
 [^11]: [Fox](../sources/Fox1978) ([1978](../sources/Fox1978)) glosses these names as 'sp. of taro', and I have retained this in the glosses, but I assume that these are in fact different cultivars.
 
-[^12]: The Tawala and Kilivila (PT) reflexes of which (_huli_ and _uti_) now mean simply 'taro' .
+[^12]: The Tawala and Kilivila (PT) reflexes of which (_huli_ and _uli_) now mean simply 'taro' .
 
 [^13]: In [Ross](../sources/Ross1996d) ([1996d](../sources/Ross1996d)) I listed _buleha_ and _bureka_. Nakanai _ula_ is cited by [Bender et al.](../sources/Benderetal2003) ([2003](../sources/Benderetal2003)) from [Chowning & Goodenough](../sources/ChowningandGoodenoughnd) ([n.d.](../sources/ChowningandGoodenoughnd)).
 

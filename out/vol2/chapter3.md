@@ -1462,7 +1462,7 @@ The suffixed _-a_ of PPn _&ast;utu-a_ below reflects the POc locative nominalisi
 <i>&ast;(i,u)cuŋ</i>
 </td>
 <td>
-'<span>nose; cape</span>'</td>
+'<span>nose; cape</span>'[^3]</td>
 </tr>
 <tr>
 <td>NNG</td><td><a href="../languages/bing">Bing</a></td><td><i>uyu</i></td>
@@ -3337,7 +3337,7 @@ The final two reconstructed forms in this section probably referred to wet taro 
 <i>&ast;vusi</i>
 </td>
 <td>
-'<span>swamp; taro swamp</span>' (<span>see vol. 1, p.139</span>)</td>
+'<span>swamp; taro swamp</span>' (<span>see vol. 1, p.139</span>)[^6]</td>
 </tr>
 <tr>
 <td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>vuði</i></td>

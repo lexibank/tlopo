@@ -2242,7 +2242,7 @@ POc _&ast;[ma]maca_ ‘dry up, evaporate’, has some reflexes which refer to lo
 <tr>
 <td>NCal</td><td><a href="../languages/iaai">Iaai</a></td><td><i>mʰe</i></td>
 <td>
-'<span>dry up, dry reef; low tide</span>'</td>
+'<span>dry up, dry reef; low tide</span>'[^2]</td>
 </tr>
 <tr>
 <td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>mara</i></td>

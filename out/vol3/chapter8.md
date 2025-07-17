@@ -499,7 +499,7 @@ PWOc _&ast;jimʷaR_ or _&ast;jimiR_ in all probability denoted the caulking subs
 </td>
 <td>
 '<span>sap used for caulking</span>' (<a href="../sources/Ross1988">Ross1988: 79</a>)
-</td>
+[^2]</td>
 </tr>
 <tr>
 <td>NNG</td><td><a href="../languages/malai">Malai</a></td><td><i>dimir</i></td>
@@ -933,7 +933,7 @@ There is disagreement among cognates with regard to the final _&ast;-aqi_ of POc
 <tr>
 <td>MM</td><td><a href="../languages/patpatar">Patpatar</a></td><td><i>karanek</i></td>
 <td>
-'<span>Pipturus argenteus</span>'</td>
+'<span>Pipturus argenteus</span>'[^3]</td>
 </tr>
 <tr>
 <td>NCV</td><td><a href="../languages/veraa">Vera'a</a></td><td><i>demie</i></td>
@@ -1023,7 +1023,7 @@ There is disagreement among cognates with regard to the final _&ast;-aqi_ of POc
 <i>&ast;q[a,o]loŋā</i>
 </td>
 <td>
-'<span>shrub or tree sp., Pipturus sp.; bark used for cordage</span>'</td>
+'<span>shrub or tree sp., Pipturus sp.; bark used for cordage</span>'[^4]</td>
 </tr>
 <tr>
 <td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>ʔoloŋā</i></td>
@@ -1246,7 +1246,7 @@ Blust (ACD) reconstructs PWMP _&ast;deRuŋ_ on the basis of western Malaya-Polyn
 <tr>
 <td>Fij</td><td><a href="../languages/bua">Bua</a></td><td><i>[drou-]drou</i></td>
 <td>
-'<span>Trema amboinensis</span>'</td>
+'<span>Trema amboinensis</span>'[^6]</td>
 </tr>
 </table>
 
@@ -1285,7 +1285,7 @@ POc _&ast;maRako_ 'Trichospermum peekelii' is an unproblematic reconstruction.
 <tr>
 <td>MM</td><td><a href="../languages/lavongai">Lavongai</a></td><td><i>maŋau</i></td>
 <td>
-'<span>Trichospermum pleiostigmum</span>'</td>
+'<span>Trichospermum pleiostigmum</span>'[^7]</td>
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/karaeast">Kara (East)</a></td><td><i>maiau</i></td>
@@ -1766,7 +1766,7 @@ It is probable that the Central Papuan (Taboro, Hula, Motu and Doura) forms in t
 <i>&ast;guRun</i>
 </td>
 <td>
-'<span>sword grass, Imperata cylindrica</span>'</td>
+'<span>sword grass, Imperata cylindrica</span>'[^8]</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>

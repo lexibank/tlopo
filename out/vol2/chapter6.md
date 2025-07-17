@@ -253,14 +253,14 @@ Two SE Solomonic languages describe the horizon in terms of the sea rather than 
 <td>Motu</td>
 <td><i>guba dokona</i></td>
 <td>
-'<span>horizon</span>' (<span><em>guba</em>[4] ‘sky’ <em>doko</em> ‘end’</span>)</td>
+'<span>horizon</span>' (<span><em>guba</em> ‘sky’ <em>doko</em> ‘end’</span>)[^4]</td>
 </tr>
 <tr>
 <td>SES</td>
 <td>Lau</td>
 <td><i>ʔaena salo</i></td>
 <td>
-'<span>horizon</span>' (<span><em>ʔaena</em> ‘foot’, <em>salo</em>[5] ‘sky’</span>)</td>
+'<span>horizon</span>' (<span><em>ʔaena</em> ‘foot’, <em>salo</em> ‘sky’</span>)[^5]</td>
 </tr>
 <tr>
 <td>SES</td>
@@ -371,7 +371,7 @@ Reconstruction of a POc term for the sun itself is not clearcut. Blust has recon
 </td>
 <td>
 '<span>sun, daylight</span>' (<a href="../sources/Blust1995">Blust1995</a>)
-</td>
+[^9]</td>
 </tr>
 <tr>
 <td>WMP</td><td><a href="../languages/itbayat">Itbayat</a></td><td><i>araw</i></td>
@@ -845,7 +845,7 @@ The preceding cognate set may ultimately be connected with the following one. Ho
 <tr>
 <td>NNG</td><td><a href="../languages/maposbuang">Mapos Buang</a></td><td><i>rŋ(ah)</i></td>
 <td>
-'<span>daytime</span>'</td>
+'<span>daytime</span>'[^10]</td>
 </tr>
 <tr>
 <td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>rarai(a)</i></td>
@@ -1095,12 +1095,12 @@ Yet another contender for the POc term for sun is _&ast;sinaR_, which Blust (199
 <tr>
 <td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td><i>sinaka</i></td>
 <td>
-'<span>sun</span>'</td>
+'<span>sun</span>'[^11]</td>
 </tr>
 <tr>
 <td>Adm</td><td><a href="../languages/tench">Tench</a></td><td><i>sinaka</i></td>
 <td>
-'<span>sun</span>'</td>
+'<span>sun</span>'[^11]</td>
 </tr>
 <tr>
 <td>Adm</td><td><a href="../languages/lou">Lou</a></td><td><i>sinsin</i></td>
@@ -1777,7 +1777,7 @@ __Morning Star:__
 <td>Gedaged</td>
 <td><i>boi tinan </i></td>
 <td>
-'<span>Morning Star</span>' (<span><em>boi</em> ‘star’, <em>tinan</em> ‘mother’ or ‘big’; cf. p.195</span>)</td>
+'<span>Morning Star</span>' (<span><em>boi</em> ‘star’, <em>tinan</em> ‘mother’ or ‘big’; cf. p.195</span>)[^13]</td>
 </tr>
 <tr>
 <td>NNG</td>
@@ -2208,7 +2208,7 @@ Blust has reconstructed PMP _&ast;buluq_, POc _&ast;puluq_ ‘a constellation, t
 <tr>
 <td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td><i>vulu</i></td>
 <td>
-'<span>Pleiades</span>' (<span><em>v</em> for exp. <em>b</em></span>)</td>
+'<span>Pleiades</span>' (<span><em>v</em> for exp. <em>b</em></span>)[^16]</td>
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td><i>bibolo</i></td>
@@ -3898,7 +3898,7 @@ The Hawaiians have a term for zenith, _hoʔokuʔi_, which is literally ‘point 
 ### 5.6. Star compass
 
 
-The fact that stars always rise and set at the same point on the horizon has in some places led to the use of star names as cardinal compass points. A surviving example of a siderial compass comes from the Carolines, where Goodenough in 1953 recorded a compass with thirty two named star positions ([Lewis 1994](../sources/Lewis1994):102). The terms cannot be equated precisely with the cardinal points of a European compass; they are not placed at regular intervals but are bunched together at their eastern and western margins. The primary compass point and basis of the Carolinian navigational system is the position where Altair rises in the east, in our terms at 8°30’ N. Many of the stars identified in this paper — Altair, Aldebaran, Pleiades, Orion’s Belt, Corvus and Antares — are represented on the Carolinian compass by both their rising and setting positions. Polaris represents due north. No fewer than five southerly directions are indicated by the various positions of the Southern Cross, depending upon whether its axis is upright, lying at either diagonal or horizontally on either side ([Lewis 1994](../sources/Lewis1994):103–106). Alkire describes the siderial compass used by navigators on Woleai Atoll in the Carolines in almost identical terms. He gives the name _pāfɨs_ to the thirty two star points as they constitute the star path compass (1970:41).19 The Puluwatese term _pāfɨ̄ _ the navigational stars in thirty two star positions’ is cognate.
+The fact that stars always rise and set at the same point on the horizon has in some places led to the use of star names as cardinal compass points. A surviving example of a siderial compass comes from the Carolines, where Goodenough in 1953 recorded a compass with thirty two named star positions ([Lewis 1994](../sources/Lewis1994):102). The terms cannot be equated precisely with the cardinal points of a European compass; they are not placed at regular intervals but are bunched together at their eastern and western margins. The primary compass point and basis of the Carolinian navigational system is the position where Altair rises in the east, in our terms at 8°30’ N. Many of the stars identified in this paper — Altair, Aldebaran, Pleiades, Orion’s Belt, Corvus and Antares — are represented on the Carolinian compass by both their rising and setting positions. Polaris represents due north. No fewer than five southerly directions are indicated by the various positions of the Southern Cross, depending upon whether its axis is upright, lying at either diagonal or horizontally on either side ([Lewis 1994](../sources/Lewis1994):103–106). Alkire describes the siderial compass used by navigators on Woleai Atoll in the Carolines in almost identical terms. He gives the name _pāfɨs_ to the thirty two star points as they constitute the star path compass (1970:41).[^19] The Puluwatese term _pāfɨ̄ _ the navigational stars in thirty two star positions’ is cognate.
 
 
 <a id="p-184"></a>

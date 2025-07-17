@@ -6,7 +6,7 @@ import attr
 import pylexibank
 from clldutils.misc import slug
 from pyetymdict import Dataset as BaseDataset, Language as BaseLanguage, Form as BaseForm
-from pylexibank import LexibankWriter
+from pylexibank import LexibankWriter, Cognate as BaseCognate
 from pycldf.sources import Source, Sources
 
 from pytlopo.models import Volume, Reflex, Protoform
@@ -85,7 +85,6 @@ class Dataset(BaseDataset):
                     if not glsets[0].intersection(*glsets[1:]):
                         for g in sorted(set(gls)):
                             rows.append([n, lg, wd, g])
-        #print(i, len(rows))
         with UnicodeWriter(self.dir / 'multi_problems.tsv', delimiter='\t') as w:
             w.writerow(['Count', 'Language', 'Form', 'Glosses'])
             w.writerows(rows)
@@ -222,7 +221,7 @@ class Dataset(BaseDataset):
                 str(rec)
             list(vol.chapters)
 
-    def add_form(self, writer, protoform_or_reflex, gloss2id, langs, poc_gloss='none'):
+    def add_form(self, writer, protoform_or_reflex, gloss2id, langs, lexid2fn, poc_gloss='none'):
         gloss = protoform_or_reflex.glosses[0].gloss if protoform_or_reflex.glosses else poc_gloss
 
         if gloss not in gloss2id:
@@ -231,7 +230,7 @@ class Dataset(BaseDataset):
 
         if isinstance(protoform_or_reflex, Protoform):
             try:
-                return writer.add_lexemes(
+                lex = writer.add_lexemes(
                 ID='{}-{}'.format(slug(protoform_or_reflex.lang), slug(protoform_or_reflex.form)),
                 Language_ID=slug(protoform_or_reflex.lang),
                 Parameter_ID=gloss2id[gloss],
@@ -246,7 +245,7 @@ class Dataset(BaseDataset):
                 raise
         else:
             assert isinstance(protoform_or_reflex, Reflex)
-            return writer.add_lexemes(
+            lex = writer.add_lexemes(
                 ID='{}-{}'.format(langs[protoform_or_reflex.lang]['ID'], slug(protoform_or_reflex.form)),
                 Language_ID=langs[protoform_or_reflex.lang]['ID'],
                 Parameter_ID=gloss2id[gloss],
@@ -257,6 +256,9 @@ class Dataset(BaseDataset):
                 Source=[],  # FIXME: add the sources for the language!
                 # Doubt=getattr(form, 'doubt', False),
             )[0]
+        if protoform_or_reflex.footnote_number:
+            lexid2fn[lex['ID']] = protoform_or_reflex.footnote_number
+        return lex
 
     def add_glosses(self, writer, protoform_or_reflex, fid, old_glosses, gloss_ids=None):
         if gloss_ids is None:
@@ -380,15 +382,15 @@ class Dataset(BaseDataset):
                 Latitude=lg['Latitude'], Longitude=lg['Longitude'])
 
         # map (lang, form) pairs to associated glosses (as dict mapping gloss to gloss object with all properties.).
-        words = {}
+        words, lexid2fn, lexid2doubt = {}, {}, {}
         cognatesets = {}
-
 
         gloss2id = {}
         for i, rec in enumerate(reconstructions):
             # Add protoforms and reflex forms and glosses, keep IDs of forms and glosses!
             pfrep, pflex = None, None
-            forms, gloss_ids = [], []  # We store the forms and glosses listed in this cognateset reference
+            # We store the forms and glosses and footnote numbers listed in this cognateset reference
+            forms, gloss_ids, fns = [], [], {}
             poc_gloss = rec.poc_gloss
 
             for j, pf in enumerate(rec.reflexes):  # FIXME: pf.sources !
@@ -406,14 +408,13 @@ class Dataset(BaseDataset):
                     add_protolang(pf)
 
                     if (pf.lang, pf.form) not in words:
-                        lex = self.add_form(args.writer, pf, gloss2id, langs)
+                        lex = self.add_form(args.writer, pf, gloss2id, langs, lexid2fn)
                         # FIXME: we'll adapt the Description and Parameter_ID lateron, when all glosses have been collected!
                         words[(pf.lang, pf.form)] = (lex, {})
                     else:
                         # FIXME: make sure the other properties are the same, e.g. sources
                         lex = words[(pf.lang, pf.form)][0]
 
-                    forms.append(lex)
                     self.add_glosses(args.writer, pf, lex['ID'], words[(pf.lang, pf.form)][1], gloss_ids)
                     if pflex is None:
                         pflex = lex
@@ -424,14 +425,16 @@ class Dataset(BaseDataset):
                     lid = langs[w.lang]['ID']
 
                     if (lid, w.form) not in words:
-                        lex = self.add_form(args.writer, w, gloss2id, langs, poc_gloss=poc_gloss)
+                        lex = self.add_form(args.writer, w, gloss2id, langs, lexid2fn, poc_gloss=poc_gloss)
                         # FIXME: we'll adapt the Description and Parameter_ID lateron, when all glosses have been collected!
                         words[(lid, w.form)] = (lex, {})
                     else:
                         lex = words[(lid, w.form)][0]
-
-                    forms.append(lex)
                     self.add_glosses(args.writer, w, lex['ID'], words[(lid, w.form)][1], gloss_ids)
+
+                forms.append(lex)
+                if pf.footnote_number:
+                    fns[lex['ID']] = pf.footnote_number
 
             if (pfrep.lang, pfrep.form) not in cognatesets:
                 args.writer.objects['CognatesetTable'].append(dict(
@@ -448,7 +451,10 @@ class Dataset(BaseDataset):
             csid, cog_forms = cognatesets[(pfrep.lang, pfrep.form)]
             for lex in forms:
                 if lex['ID'] not in cog_forms:
-                    args.writer.add_cognate(lexeme=lex, Cognateset_ID=csid)
+                    args.writer.add_cognate(
+                        lexeme=lex,
+                        Cognateset_ID=csid,
+                    )
                     cog_forms.append(lex['ID'])
 
             args.writer.objects['cognatesetreferences.csv'].append(dict(
@@ -457,6 +463,7 @@ class Dataset(BaseDataset):
                 Chapter_ID='-'.join(rec.id.split('-')[:2]),
                 # section, subsection, page
                 Form_IDs=[f['ID'] for f in forms],
+                Footnote_Numbers=fns,
                 Gloss_IDs=gloss_ids,
             ))
 
@@ -481,7 +488,7 @@ class Dataset(BaseDataset):
                     lid = langs[w.lang]['ID'] if isinstance(langs[w.lang], dict) else langs[w.lang]
 
                     if (lid, w.form) not in words:
-                        lex = self.add_form(args.writer, w, gloss2id, langs, poc_gloss=poc_gloss)
+                        lex = self.add_form(args.writer, w, gloss2id, langs, lexid2fn, poc_gloss=poc_gloss)
                         words[(lid, w.form)] = (lex, {})
                     else:
                         lex = words[(lid, w.form)][0]
@@ -491,6 +498,7 @@ class Dataset(BaseDataset):
                         Form_ID=lex['ID'],
                         Ordinal=j,
                         Cfset_ID='{}-{}'.format(rec.id, i),
+                        Footnote_Number=lexid2fn.get(lex['ID']),
                         Gloss_IDs=self.add_glosses(args.writer, w, lex['ID'], words[(lid, w.form)][1]),
                         # Source=[str(ref) for ref in form.gloss.refs],
                         # Doubt=form.doubt,
@@ -510,7 +518,7 @@ class Dataset(BaseDataset):
                 lid = langs[w.lang]['ID']
 
                 if (lid, w.form) not in words:
-                    lex = self.add_form(args.writer, w, gloss2id, langs)
+                    lex = self.add_form(args.writer, w, gloss2id, langs, lexid2fn)
                     words[(lid, w.form)] = (lex, {})
                 else:
                     lex = words[(lid, w.form)][0]
@@ -519,6 +527,7 @@ class Dataset(BaseDataset):
                     ID='{}-{}'.format(fg.id, j),
                     Form_ID=lex['ID'],
                     Cfset_ID=fg.id,
+                    Footnote_Number=lexid2fn.get(lex['ID']),
                     Ordinal=j,
                     Gloss_IDs=self.add_glosses(args.writer, w, lex['ID'], words[(lid, w.form)][1]),
                     # Source=[str(ref) for ref in form.gloss.refs],
@@ -621,6 +630,9 @@ class Dataset(BaseDataset):
                 'separator': ' ',
                 'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#formReference'},
             {
+                'name': 'Footnote_Numbers',  # Must store fn for each form!
+                'datatype': 'json'},
+            {
                 'name': 'Gloss_IDs',
                 'separator': ' '},
         )
@@ -632,6 +644,7 @@ class Dataset(BaseDataset):
         )
         cldf.add_columns(
             'cfitems.csv',
+            'Footnote_Number',
             {'name': 'Ordinal', 'datatype': 'integer'},
             {
                 'name': 'Gloss_IDs',

@@ -12636,8 +12636,8 @@ PWOc *[qa]pʷasu 'taro leaves' (?)
 Other terms for parts of the taro plant are reconstructed in chapter 4. They are
 
 __block__
-- POc _*[s,j]uti(q)_ 'banana or taro sucker, slip, cutting, shoot (i.e. propagation material)'
-  (ch.4, §2.6Y 2
+- POc _*[s,j]uli(q)_ 'banana or taro sucker, slip, cutting, shoot (i.e. propagation material)'
+  (ch.4, §2.6)[12]
 - POc _*baRa-baRa_ 'stem or stalk of non-woody plants, such as taro and banana, probably
   also the soft stems of leaves' (ch.4, §2.2)
 - POc _*up(e,a)_ 'taro seedling' (ch.4, §2.6)
@@ -12667,7 +12667,7 @@ observed that POc _*R_, but not _*l_, is often lost in NCV languages, and took t
 PEOc _*buRaka_, rather than _*bulaka_, citing Nakanai _bureka_ in support of this. This is just one
 of three Nakanai reflexes, however,[13] and at least two out of the three must be borrowings.
 
-[12] The Tawala and Kilivila (PT) reflexes of which (_huli_ and _uti_) now mean simply 'taro' .
+[12] The Tawala and Kilivila (PT) reflexes of which (_huli_ and _uli_) now mean simply 'taro' .
 
 [13] In Ross (1996d) I listed _buleha_ and _bureka_. Nakanai _ula_ is cited by Bender et al. (2003)
 from Chowning & Goodenough (n.d.).
@@ -14176,8 +14176,8 @@ market (ca 50cm long); __C__, stem with suckers; __D__, semi-mature edible inflo
 reconstructable and the reconstruction below is elevated to POc.
 
 <
-PWOc *tabuqaR 'Saccharum edule' (Pawley 1978: *tabukal)
-     NNG: Kove         tavuhai          'Saccharum edule' (A. Chowning, pers. comm.)
+PWOc *tabuqaR 'Saccharum edule' (Pawley 1978: _*tabukal_)
+     NNG: Kove         tavuhai          'Saccharum edule' (A. Chowning, pers. comm.)[2]
      NNG: Malai        taboɣar          'Saccharum edule' (Lincoln 1976)
      NNG: Gitua        tabuar           'Saccharum edule'
      NNG: Takia        tabu             'Saccharum edule'
@@ -18608,7 +18608,7 @@ They are also used as fencing material (Henderson & Hancock 1988:202-203, Hvidin
 N. productus, a small, often drooping bamboo. A second is N. obtusus, a very slender bamboo
 which is almost always cultivated and attains heights of over 20 m with stem diameters of
 8-11cm and internode lengths of 50 em to a metre. A third N astus species is not
-given a scientific name,6 but sources describe it as pliant and behaving as a tree or ground
+given a scientific name,[6] but sources describe it as pliant and behaving as a tree or ground
 creeper. It has very short internode lengths and small, narrow leaves
 (Peekel 1984: 55, Henderson & Hancock 1988: 177, Kwa'ioloa & Burt 2001: 200-201).
 
@@ -19221,7 +19221,7 @@ these are magical applications, shared with the first three plants in §6. Like 
 
 The turmeric: plant, Curcuma longa, is much smaller than Alpinia species, being only 50-120cm tall, but it is treated
 by at least speakers of Marovo and Kwara'ae as belonging to the same taxon as Alpinia
-(Kwa'ioloa & Burt 2001:193-194, Hviding 2005: 131). 14 It has long green
+(Kwa'ioloa & Burt 2001:193-194, Hviding 2005: 131).[14] It has long green
 leaves and pale yellow flowers. The rhizome is lumpy and an intense yellow (Peekel 1984: 109).
 
     Although it grows readily in the wild in locations where there is light, the Marovo and Kwara'ae
@@ -19599,7 +19599,7 @@ PCP *jĩ 'taxon consisting of Cordyline fruticosa and Dracaena angustifolia'
 _kariɣa_ 'rattan' is cognate, but the difference in denotation calls this into doubt.
 
 <
-POc *kaRi(q)a 'taxon of decorative plants' (Geraghty 1990: PEOc *gaRi(a))
+POc *kaRi(q)a 'taxon of decorative plants' (Geraghty 1990: PEOc _*gaRi(a)_)
   NNG: Tami           kali-kali      'Codiaeum variegatum' (Dempwolff 1902)
   SES: Kwara'ae       ka-kali        'Hornstedtia lycostoma'
   NCV: Mota           karia          'Dracaena sp.'
@@ -19671,14 +19671,14 @@ POc *paqo 'Heliconia sp'
      MM:  Marovo       vaɣo           'tree sp. with large banana-like leaves, Heliconia sp.'
      SES: Gela         vao-vao        'shrub with large leaves; wild banana'
      SES: Santa Ana    fao            'Heliconia salomonensis'
-     NCV: Mwotlap      (no-yo)va      'Heliconia indica' (yo- 'leaf)
+     NCV: Mwotlap      (no-yo)va      'Heliconia indica' (_yo-_ 'leaf)
      NCV: Mota         vao            'a heliconium'
      Fij: Wayan        vā-vā          'Heliconia sp.'
      Fij: Bauan        va-vao(a)      'a plant, Bleekeria elliptica'
 >
 
 <
-PEOc *rako 'Heliconia sp., usually H. indica' (Lynch 2004a: PSOc *rau)
+PEOc *rako 'Heliconia sp., usually H. indica' (Lynch 2004a: PSOc _*rau_)
      SES: Kwara'ae       rako            'Heliconia indica'
      NCV: S Efate        n-rau           'Heliconia sp.'
      SV:  Sye            n-rau           'Heliconia sp.'
@@ -19709,7 +19709,6 @@ Figure 13.10: Left: Heliconia solomonensis: __A__, plant; __B__, mature inflores
 fruit. Right: Crinum asiaticum, spider lily.
 
 
-
     At Tinputz (Bougainville) the pounded roots of this plant were mixed with red iron oxide
 and the mixture was rubbed onto coconut palm trunks to ensure that they bore well (Blackwood 1935: 311).
 The Nakanai of New Britain and the Marovo use the light-coloured leaf
@@ -19719,7 +19718,7 @@ In Marovo the leaves are used to treat bruises and fractures.
 
     The forms listed below are clearly cognate, but it is not clear whether or how many of the
 parenthesised segments of the Kairiru and Kilivila forms reflect part of the protoform: hence
-the question mark against *mʷalak.
+the question mark against _*mʷalak_.
 
 <
 POc *mʷalak (?) 'spider lily, Crinum asiaticum'
@@ -19743,16 +19742,16 @@ linguistic evidence supports the controversial claim that the pumpkin, Cucurbita
 was absent from the world of POc speakers but arrived soon after the break-up of POc.
 
 
-13.7.1 Lagena ria siceraria (syn. L. vulgaris, L. leucantha, Cucurbita siceraria, C. lagena ria), bottle gourd, TP kambang (Cucurbitaceae)
+13.7.1 Lagena ria siceraria (syn. L. vulgaris, L. leucantha, Cucurbita siceraria, C. lagenaria), bottle gourd, TP _kambang_ (Cucurbitaceae)
 
 The bottle gourd, Lagenaria siceraria, is grown throughout much of the Pacific, mainly for
 its value as a container and occasionally for its food value (French 1986: 107). The plant
-originated in Africa, but had spread across much of the world in pre-Columbian times. Barrau
-(1962: 189) regards it as an ancient plant in Melanesia, but no POc form can be reconstructed,
+originated in Africa, but had spread across much of the world in pre-Columbian times.
+Barrau (1962: 189) regards it as an ancient plant in Melanesia, but no POc form can be reconstructed,
 as noted by Ross (1996d).
 
-    Clark (1996) reconstructs PNCV *tavaya (Raga tavai, Mota wo-tavae), which, together
-with Bauan tavaya 'bottle', implies PEOc *tapaya. But no cognates of the latter nor alternative
+    Clark (1996) reconstructs PNCV _*tavaya_ (Raga _tavai_, Mota _wo-tavae_), which, together
+with Bauan _tavaya_ 'bottle', implies PEOc _*tapaya_. But no cognates of the latter nor alternative
 cognate sets have been found in Western Oceanic or Admiralties languages, implying
 that the bottle gourd was not known to POc speakers. Surveying recent findings, Green (2000)
 suggests quite strongly that this was the case. The gourd may well have reached Oceania from
@@ -19772,9 +19771,9 @@ the bottle gourd in Polynesia reflect incorreclt identifications of the wax gour
 native of SE Asia and archaeological evidence indicates that it was present at least on mainland
 New Guinea when the Austronesian speaking ancestors of POc speakers arrived there.
 There are terms for it in non-Oceanic languages: terms from Philippine languages listed by
-Madulid (2001b: 42) together with Malay kundur point to a possible PMP *kundur, but this
+Madulid (2001b: 42) together with Malay kundur point to a possible PMP _*kundur_, but this
 may be an outcome of borrowings across island SE Asia (Wolff 1994). Verheijen (1990: 195)
-cites terms that point to a possible PCMP *kelas. As Golson points out, the botanical literature
+cites terms that point to a possible PCMP _*kelas_. As Golson points out, the botanical literature
 indicates that B. hispida is at least occasionally present at locations on the mainland and in
 the Bismarcks where Oceanic languages are spoken today. In support of this he cites Peekel
 (1984: 547-548) and Borrell (1989: 66). French (1986: 108) also indicates that B. hispida is
@@ -19784,13 +19783,13 @@ grown in Papua New Guinea, but does not specify locations.
 
 
     Whistler provides names for B. hispida, listed below, which allow us to reconstruct Proto
-Central Pacific *vaŋ(o,u). I have accepted his arguments for glossing the Fijian terms as
+Central Pacific _*vaŋ(o,u)_. I have accepted his arguments for glossing the Fijian terms as
 B. hispida: his sources (H. B. R. Parham 1943, Capell 1941) gloss them as species of Lagenaria.
 Despite the obvious presence of B. hispida further west I have been unable to reconstruct an
 earlier term for it, but not for the usual reasons. Usually, a term is not reconstructable because
 there are no cognates in the data or because cognates are insufficiently widespread. In the case
 of B. hispida, however, there are no data from outside Fiji and Polynesia except Peekel's
-Patpatar hulhul paraho. This can only indicate that, even if B. hispida was present in early
+Patpatar _hulhul paraho_. This can only indicate that, even if B. hispida was present in early
 Oceanic times, its presence and significance in the agricultural suite of Oceanic-speaking
 societies has faded almost to zero.[23]
 
@@ -19818,15 +19817,15 @@ tini 'gourd ').
 wrong, although there may have been recent reintroductions.
 
 [24] Barrau refers to the pumpkin as Cucurbita pepo. In Papua New Guinea, at least, the common pumpkin is
-C. moschata, not C. pepo (R. Michael Bourke, pers. comm., and French 1986: 102-103 ). Both are evidently
+C. moschata, not C. pepo (R. Michael Bourke, pers. comm., and French 1986: 102-103). Both are evidently
 recent introductions, so this possible confusion makes no difference to the argument of this paragraph.
 
     The set of seeming cognates below provides evidence, on the other hand, of an early
-Oceanic etymon, *waluq or *[w]aruq, thatmusthave denoted C. moschata or a similar plant. I
+Oceanic etymon, _*waluq_ or _*[w]aruq_, thatmusthave denoted C. moschata or a similar plant. I
 write 'seeming' because, however one reconstructs the term, there are irregular phonological
-developments due to borrowing. Dempwolff (1938) reconstructed *baluq 'bottle gourd,
+developments due to borrowing. Dempwolff (1938) reconstructed _*baluq_ 'bottle gourd,
 Lagenaria siceraria'. However, the Oceanic forms below, together with Sundanese, Old Javanese,
-Balinese waluh, Buru walu 'bottle gourd', point to PMP *waluq 'bottle gourd'. Whether PMP
+Balinese _waluh_, Buru _walu_ 'bottle gourd', point to PMP _*waluq_ 'bottle gourd'. Whether PMP
 actually had such a form or whether this is a series of borrowings postdating the break-up of
 PMP and perhaps even of POc (cf §7.1) is not relevant here. What is relevant is that a form
 related to these entered early Oceanic, but was applied to the pumpkin, C. moschata, or a
@@ -19836,11 +19835,11 @@ related species.
                                                                              Other cultivated plants        425
 
 
-    If we assume that the Oceanic etymon was *waluq, then the consonants are regularly
-reflected in Kela, Dami and Takia. Sio reflects *waruq, and Kela may also do so, as *-l- and
-*-r-are neutralised as Kela -r-. Hote, Mapos Buang and Patep reflect *ruq-aruq and Lenakel
-and Anejom reflect *ruq-ruq. 25 Gapapaiwa and Misima bonu-bonu (and similar forms in
-other PT languages) reflect *bʷalu-bʷalu. If we assume instead that the Oceanic etymon was
+    If we assume that the Oceanic etymon was _*waluq_, then the consonants are regularly
+reflected in Kela, Dami and Takia. Sio reflects _*waruq_, and Kela may also do so, as _*-l-_ and
+_*-r-_ are neutralised as Kela _-r-_. Hote, Mapos Buang and Patep reflect _*ruq-aruq_ and Lenakel
+and Anejom reflect _*ruq-ruq_.[25] Gapapaiwa and Misima _bonu-bonu_ (and similar forms in
+other PT languages) reflect _*bʷalu-bʷalu_. If we assume instead that the Oceanic etymon was
 *waruq or *aruq, we are still left with irregularities.
 
     The strong likelihood, then, is that the term was borrowed from community to community
@@ -19876,7 +19875,7 @@ PSV *na-r(o,u)r(o,u)(q) 'pumpkin, gourd'
 Because of the varieties that have been introduced since 1870, it is sometimes assumed that
 the cucumber is a crop introduced by Europeans. However, Bourke & Allen (forthcoming)
 write that it was probably introduced via SE Asia thousands of years ago. The cognate set
-supporting the reconstruction of POc *[ka]tim(o,u)n 'cucumber, Cucumis sativus' below con-
+supporting the reconstruction of POc _*[ka]tim(o,u)n_ 'cucumber, Cucumis sativus' below con-
 firms that the cucumber was part of the world of POc speakers, even though it is not indigenous
 to the Pacific. The genus Cucumis has its origins in Africa, and the cucumber is one of
 the few African species known to have been domesticated outside Africa. Until recently it
@@ -19892,21 +19891,21 @@ of presentation.
 426   Malcolm Ross
 
 
-    Blust (ACD) produces strong evidence to suggest that the denotatum of POc *[ka]tim(o,u)n
+    Blust (ACD) produces strong evidence to suggest that the denotatum of POc _*[ka]tim(o,u)n_
 was the cucumber, but the reflexes below suggest that it may also have been used of other
 species of Cucumis.
 
-    The initial syllable of *[ka]tim(o,u)n is reflected only in Western Oceanic languages ,
-whereas Central Pacific reflexes point to *timun. This distribution justifies the reconstruction
-of POc forms with and without initial *ka-, which may represent or have been reanalysed as
-the prefix *ka- 'tree' reflecting earlier *kayu 'tree' (ch.2, §7.1.2).
+    The initial syllable of _*[ka]tim(o,u)n_ is reflected only in Western Oceanic languages ,
+whereas Central Pacific reflexes point to _*timun_. This distribution justifies the reconstruction
+of POc forms with and without initial _*ka-_, which may represent or have been reanalysed as
+the prefix _*ka-_ 'tree' reflecting earlier _*kayu_ 'tree' (ch.2, §7.1.2).
 
     Shown in parentheses below are irregular phonological developments, implying that al-
 though the term was inherited into POc, it was sometimes borrowed from one language into
 another.
 
 <
-PMP *[ka]timun 'cucurbit (generic); cucumber, Cucumis sativus' (Dempwolff 1938: *timun)
+PMP *[ka]timun 'cucurbit (generic); cucumber, Cucumis sativus' (Dempwolff 1938: _*timun_)
 POc *[ka]tim(o,u)n 'Cucumis spp. (generic?); cucumber, Cucumis sativus' (ACD)
   NNG: Sengseng        tamun      'Cucumis sativus' (A. Chowning, pers. comm.)
   NNG: Sengseng        katim      'small cultivated cucurbit with dark green skin and sweet orange flesh' (A. Chowning, pers. comm.) (probably borrowed)
@@ -19938,15 +19937,15 @@ particularly where one or more of these locations is in the Bismarck Archipelago
 likely to be a use which POc speakers made of the plant under discussion.
 
      One observation which emerges from this work is that a given plant-or similar species
-of the same genus-commonly has similar uses at widely separated locations in the Bismar-
-cks, the Solomons, Vanuatu and sometimes Waya Island in western Fiji (Gardner & Pawley 2006).
+of the same genus-commonly has similar uses at widely separated locations in the Bismarcks,
+the Solomons, Vanuatu and sometimes Waya Island in western Fiji (Gardner & Pawley 2006).
 This is not surprising, insofar as the properties of a plant itself often determine the
 uses to which it may be put, but there are also a number of cases where the use of a particular
 plant for a particular purpose is to some extent culturally determined. For example,
 Cordyline fruticosa is (or was) held to have spiritual power in locations across Melanesia from New
 Britain to Fiji (ch.l3, §6), and its longtime importance to Oceanic speakers is evidenced by
-the number of cultivars of the species that are found across the region. Although the proper-
-ties of the plant-variegated colourful leaves and a distinctive smell-provided the basis for
+the number of cultivars of the species that are found across the region. Although the properties
+of the plant-variegated colourful leaves and a distinctive smell-provided the basis for
 its uses in association with magic and taboo, they do not account for its cultural importance
 across much of Oceania, and it is reasonable to infer that it already played a role in the
 ceremonial and ritual practices of early Oceanic speakers. On present-day practice it seems likely
@@ -20049,7 +20048,7 @@ not to record cognates. Nonetheless, it would not be surprising if many of these
 innovations. Wolff (1994) points out how readily plant names are borrowed, and we would
 expect POc speakers to have borrowed plant names from their Papuan speaking neighbours
 and Papuan speakers to have retained older names as they shifted to POc (see ch. 2, §4). The
-only reasonably clear example of such a loan is *mʷapo(q) 'taro' (ch.9, §2.2.1). Whether we
+only reasonably clear example of such a loan is _*mʷapo(q)_ 'taro' (ch.9, §2.2.1). Whether we
 will ever be able to source other terms convincingly depends partly on research in historical
 Papuan linguistics, currently in its infancy. However, there is one small pointer in the
 forms themselves. As noted in vol. 1 (ch.2, §2.4), the POc labiovelar consonants _*pʷ_, _*bʷ_ and
@@ -20058,8 +20057,8 @@ consonant system. In some lexical items their presence is the result of conditio
 1981a, Lynch 2002e), in many their occurr,ence probably reflects borrowing from Papuan
 languages. Items in Tables 14.3-14.9 which contain one of these phonemes are shown in
 bold. Only three (= 4%) of the 80 inherited items listed in Tables 14.3-14.5 include one of
-these phonemes, and in two of these instances--*(m,mʷ)aso(q)u and *(p,pʷ)atoRu-the labiovelar
-is uncertain, whilst the exact form of the third reconstruction, *qaramʷaqi, is insecure in other
+these phonemes, and in two of these instances--_*(m,mʷ)aso(q)u_ and _*(p,pʷ)atoRu_ - the labiovelar
+is uncertain, whilst the exact form of the third reconstruction, _*qaramʷaqi_, is insecure in other
 respects (§2.6). On the other hand 19 (20%) of the 97 items in Table 14.6 include a labiovelar,
 five of them albeit uncertain, suggesting that the table does indeed include a good number
 of Papuan loans-the more so as we would not ,expect more than a minority of Papuan loans
@@ -20079,197 +20078,197 @@ have been found really were POc innovations.
 : Table 14.3: Proto Oceanic plant terms inherited from Proto Austronesian or Proto Malaya--Polynesian (65 reconstructions)
 
 __tablenh__
-  *[a ]iiulil)   |  'Pisonia sp.'
-  *aRu           |  'a shore tree, Casuarina equisetifolia'
-  *bai-bai(t)    | 'a cycad, Cycas rumphii'
-  *[baR]baR      |   'coral tree, Erythrina variegata'
-  *bitU(ŋ)       |  'bamboo sp.'
-  *botu(ŋ)       |  'large bamboo, presumably Bambusa sp.'
-  *buaq          |   'betelnut, areca nut, palm, Areca catechu'
-  *drokol        |   'small Dillenia species'
-  *droRu(fJ)     |   'Trema orientalis'
-  *guRu(n)       |   'sword grass, Imperata cylindrica'
-  *[ja]latol)    |   'Laportea and Dendrocnide spp.'
-  *kanawa(n)     |   'Cordia subcordata'
-  *[ka]tim(o,u)n |   'Cucumis spp. (generic?); cucumber, Cucumis sativus'
-  *kati(p)al     |   'a palm with black wood, Caryota sp.'
-  *kayu          |   'tree or shrub: generic name for plants with woody stems and branches, probably not including palms or tree-ferns; wood, stick'
-  *kiRe          |   'coastal Pandanus sp., probably Pandanus tectorius'
-  *kulapu(R)     |   'Dillenia schlechteri'
-  *kuluR         |   'breadfruit, Artocarpus altilis'
-  *laqia         |   'ginger, Zingiber officinale (?)'
-  __*m(ʷ)aso(q)u__   |   'wild cinnamon, Cinnamomum sp., probably C. xanthoneuron; possibly also Cananga odorata'
-  *malo          |   'paper mulberry, Broussonetia papyrifera; barkcloth, loincloth'
-  *naRa          |   'Pterocarpus indicus'
-  *iiatuq        |   'Burckella obovata'
-  *nini(q)       |   'shrub, Donax cannaeformis'
-*nipaq           |  'Nypafruticans'
-*niuR            |  'coconut palm and/or fruit, Cocos nucifera'
-*nunuk           |  'fig trees, Ficus taxon'
-*l)iRac          |  'Pemphis acidula'
-__*p(ʷ)atoRu__       |  'a cycad, Cycas rumphii'
-*padran          |  'coastal pandanus, Pandanus tectorius; pandanus (generic)'
-*pali[s,j ]i     |  'generic term for grasses and other grass-like plants'
-*(p,b)anaRo      |  'Thespesia populnea'
-*para(k)         |  'Zingiberaceae spp. with edible rhizomes'
-*paRu            |  'Hibiscus tiliaceus'
-*pila(q)u        |  'Casuarina equisetifolia'
-*pinu(q)an       |  'Macaranga spp., perhaps M. involucrata'
-*piRaq           |  'giant taro, elephant ear taro,. Alocasia macrorrhizos'
-*piRu(q)         |  'fan palm, Licuala sp.'
-*pitaquR         |  'Calophyllum inophyllum'
-*pudi            |  'banana, Musa cultivars'
-*[pu-]pulu       |  'betel pepper, Piper betle'
-*puna            |  'vine used for fish poison, probably Derris elliptica'
-*putun           |  'Barringtonia asiatica'
-*qa(l,R)a        |  'Ficus sp.'
-__*qaramʷaqi__       |  'Pipturus argenteus'
-*qasam           |  'fern used for tying and binding, Lygodium circinnatum'
-*(qate-)qate     |  'Wedelia biflora'
-*qauR            |  'bamboo spp.'
-*qipil           |  'a taxon ofhardwood trees including Intsia bijuga and Casuarina equisetifolia'
-*qu(w)e          |  'rattan, Calamus spp.'
-*qupi            |  'greater yam, Dioscorea alata; yam (generic)'
-*Rabia           |  'sago, Metroxylon spp., mainly Metroxylon sagu (syn. Metroxylon rumphii)'
-*raqu(p)         |  'New Guinea walnut, Dracontomelon dao'
-*rarap           |  'coral tree, Erythrina spp.'
-*talise          |  'Terminalia catappa'
-*talo(s)         |  'taro, Colocasia esculenta'
-*toŋoR           | 'mangrove, Bruguiera spp.; mangroves (generic)'
-*topu            |  'sugarcane, Saccharum officinarum'
-*toR as          |  'a taxon of hardwood trees including Intsia bijuga' (?)
-*tui             |  'Dolichandrone spathacea'
-*tupa            |  'climbing shrubs, Derris spp.'
-*wai, *waiwai    |  'mango (generic)'
-*walasi          |  'tree sp. with poisonous sap, Semecarpus forstenii'
-*waR[e)          |  'Flagellaria indica'
-*waRoc           | 'generic term for vines and creepers, plants with creeping or climbing growth structure; string, rope'
+ _*[a]ñuliŋ_          | 'Pisonia sp.'
+ _*aRu_               | 'a shore tree, Casuarina equisetifolia'
+ _*bai-bai(t)_        | 'a cycad, Cycas rumphii'
+ _*[baR]baR_          | 'coral tree, Erythrina variegata'
+ _*bitu(ŋ)_           | 'bamboo sp.'
+ _*botu(ŋ)_           | 'large bamboo, presumably Bambusa sp.'
+ _*buaq_              | 'betelnut, areca nut, palm, Areca catechu'
+ _*drokol_            | 'small Dillenia species'
+ _*droRu(ŋ)_          | 'Trema orientalis'
+ _*guRu(n)_           | 'sword grass, Imperata cylindrica'
+ _*[ja]latoŋ_         | 'Laportea and Dendrocnide spp.'
+ _*kanawa(n)_         | 'Cordia subcordata'
+ _*[ka]tim(o,u)n_     | 'Cucumis spp. (generic?); cucumber, Cucumis sativus'
+ _*kati(p)al_         | 'a palm with black wood, Caryota sp.'
+ _*kayu_              | 'tree or shrub: generic name for plants with woody stems and branches, probably not including palms or tree-ferns; wood, stick'
+ _*kiRe_              | 'coastal Pandanus sp., probably Pandanus tectorius'
+ _*kulapu(R)_         | 'Dillenia schlechteri'
+ _*kuluR_             | 'breadfruit, Artocarpus altilis'
+ _*laqia_             | 'ginger, Zingiber officinale (?)'
+ ___*(m,mʷ)aso(q)u___ | 'wild cinnamon, Cinnamomum sp., probably C. xanthoneuron; possibly also Cananga odorata'
+ _*malo_          | 'paper mulberry, Broussonetia papyrifera; barkcloth, loincloth'
+ _*naRa_          | 'Pterocarpus indicus'
+ _*ñatuq_         | 'Burckella obovata'
+ _*nini(q)_       | 'shrub, Donax cannaeformis'
+ _*nipaq_           |  'Nypafruticans'
+ _*niuR_            |  'coconut palm and/or fruit, Cocos nucifera'
+ _*nunuk_           |  'fig trees, Ficus taxon'
+ _*ŋiRac_          |  'Pemphis acidula'
+ ___*(p,pʷ)atoRu___      |  'a cycad, Cycas rumphii'
+ _*padran_          |  'coastal pandanus, Pandanus tectorius; pandanus (generic)'
+ _*pali[s,j]i_     |  'generic term for grasses and other grass-like plants'
+ _*(p,b)anaRo_      |  'Thespesia populnea'
+ _*para(k)_         |  'Zingiberaceae spp. with edible rhizomes'
+ _*paRu_            |  'Hibiscus tiliaceus'
+ _*pila(q)u_        |  'Casuarina equisetifolia'
+ _*pinu(q)an_       |  'Macaranga spp., perhaps M. involucrata'
+ _*piRaq_           |  'giant taro, elephant ear taro,. Alocasia macrorrhizos'
+ _*piRu(q)_         |  'fan palm, Licuala sp.'
+ _*pitaquR_         |  'Calophyllum inophyllum'
+ _*pudi_            |  'banana, Musa cultivars'
+ _*[pu-]pulu_       |  'betel pepper, Piper betle'
+ _*puna_            |  'vine used for fish poison, probably Derris elliptica'
+ _*putun_           |  'Barringtonia asiatica'
+ _*qa(l,R)a_        |  'Ficus sp.'
+ ___*qaramʷaqi___       |  'Pipturus argenteus'
+ _*qasam_           |  'fern used for tying and binding, Lygodium circinnatum'
+ _*(qate-)qate_     |  'Wedelia biflora'
+ _*qauR_            |  'bamboo spp.'
+ _*qipil_           |  'a taxon ofhardwood trees including Intsia bijuga and Casuarina equisetifolia'
+ _*qu(w)e_          |  'rattan, Calamus spp.'
+ _*qupi_            |  'greater yam, Dioscorea alata; yam (generic)'
+ _*Rabia_           |  'sago, Metroxylon spp., mainly Metroxylon sagu (syn. Metroxylon rumphii)'
+ _*raqu(p)_         |  'New Guinea walnut, Dracontomelon dao'
+ _*rarap_           |  'coral tree, Erythrina spp.'
+ _*talise_          |  'Terminalia catappa'
+ _*talo(s)_         |  'taro, Colocasia esculenta'
+ _*toŋoR_           | 'mangrove, Bruguiera spp.; mangroves (generic)'
+ _*topu_            |  'sugarcane, Saccharum officinarum'
+ _*toRas_          |  'a taxon of hardwood trees including Intsia bijuga' (?)
+ _*tui_             |  'Dolichandrone spathacea'
+ _*tupa_            |  'climbing shrubs, Derris spp.'
+ _*wai_, _*waiwai_ |  'mango (generic)'
+ _*walasi_          |  'tree sp. with poisonous sap, Semecarpus forstenii'
+ _*waR[e]_          |  'Flagellaria indica'
+ _*waRoc_           | 'generic term for vines and creepers, plants with creeping or climbing growth structure; string, rope'
 
 432     Malcolm Ross
 
 : Table 14.4: Proto Oceanic plant terms inherited from Proto Central/Eastern Malaya-Polynesian (11 reconstructions)
 
 __tablenh__
-      *[bual]bual  |  'species of palm used for making spears and bows; palm-wood spear or bow, probably Caryota sp.'
-      *dalo        |  'Calophyllum inophyllum'
-      *dradrap     |  'Hoya sp.'
-      *ima         |  'Pandanus sp. with useful leaves'
-      *jasi        |  'Cordia subcordata'
-      *kai(k)      |  'Albizia sp.'
-      *[ka]ŋaRi    | 'canarium almond, Canarium indicum'
-      *lowaŋa      | 'Litsea sp.'
-      *pail        |  'F alcataria moluccana'
-      *pau(q)      |  'mango, Mangifera sp. (not indica)'
-      *Reqi        |  'sword grass, Imperata cylindrica'
+ _*[bual]bual_  | 'species of palm used for making spears and bows; palm-wood spear or bow, probably Caryota sp.'
+ _*dalo_        | 'Calophyllum inophyllum'
+ _*dradrap_     | 'Hoya sp.'
+ _*ima_         | 'Pandanus sp. with useful leaves'
+ _*jasi_        | 'Cordia subcordata'
+ _*kai(k)_      | 'Albizia sp.'
+ _*[ka]ŋaRi_    | 'canarium almond, Canarium indicum'
+ _*lowaŋa_      | 'Litsea sp.'
+ _*pail_        | 'F alcataria moluccana'
+ _*pau(q)_      | 'mango, Mangifera sp. (not indica)'
+ _*Reqi_        | 'sword grass, Imperata cylindrica'
 
 : Table 14.5: Proto Oceanic plant terms inherited from Proto Eastern Malayo-Polynesian (4 reconstructions)
 
 __tablenh__
-  *na[su]-nasu     |   'Scaevola taccada'
-  *qayawan         |   'Ficus strangler fig taxon'
-  *tawan           |   'Pometia pinnata'
-  *tuRi-tuRi       |   'candlenut tree, Aleurites moluccana' (?)
+  _*na[su]-nasu_     |   'Scaevola taccada'
+  _*qayawan_         |   'Ficus strangler fig taxon'
+  _*tawan_           |   'Pometia pinnata'
+  _*tuRi-tuRi_       |   'candlenut tree, Aleurites moluccana' (?)
 
 : Table 14.6: Proto Oceanic plant terms with no known non-Oceanic cognates (97 reconstructions)
 
 __tablenh__
-  *ba(k,g)a        |      'banyan tree, medium-sized Ficus spp., not stranglers'
-  *babak           |      'Falcataria moluccana'
-  *bala            |      'taxon including various Euodia spp.' (?)
-  *baqun           |      'banana cultivar'
-  *baReko          |      'breadfruit'
-  *bau             |      'hardwood taxon'
-  *bele            |      'Abelmoschus manihot'
-  *beta            |      'breadfruit'
-  *biRi-biRi       |      'Hernandia nymphaeifolia'
-  *basi            |      'a forest tree with white wood, probably Euodia elleryana'
-  *bou             |      'Fagraea spp.'
-  *bulu            |      'Garcinia sp., perhaps G. novo-guineensis'
-  __*b(ʷ)ala__         |      'tree fern, Cycas or Cyathea sp.'
-  __*bʷau__            |      'bamboo'
-  __*bʷele__           |      'bamboo sp.'
-  __*bʷera__           |      'Musa cultivar'
-*drala             |    'shrub sp., Vitex trifolia'
-*(dr,d )aRa(q,k )a |    'wild nutmeg, Myristica sp.'
-*i(u)bu            |    'Corynocarpus cribbianus'
-*iguRa             |    'Ficus species with sandpapery leaves, either F. copiosa or F. wassa or both'
-*ipi               |    'Tahitian chestnut, I nocarpus fagifer'
-*jajal             |    'croton, Codiaeum variegatum'
-*JamaR             |    'Commersonia bartramia'
-*jiRi              |    'taxon consisting of Cordyline fruticosa and Dracaena angustifolia'
-*joRaga            |    'banana, Fe'i (?) cultivars'
-__*ka(mʷa)-kamʷa__     |    'Ficus sp., perhaps Ficus nodosa'
-*ka[(r,ŋa]qabusi   |   'Acalypha spp.'
-*kalaka            |    'Planchonella sp.'
-*kapika            |    'Malay apple, rose apple, Syzygium malaccense'
-__*karagʷam__          |    'seaweed, seagrass'
-*kaRi(q)a          |    'taxon of decorative plants'
-*kaRi(q)ana        |    'Pandanus lamekotensis'
-*kayu qone         |    'Heritiera littoralis'
-*koka              |    'Macaranga spp.'
-*koma(r,R)(o,u)    |    'Endospermum sp.'
-*kopu              |    'bamboo sp.'
-*koRa              |    'wild mango, Mangifera minor'
-*kurat             |    'the dye produced from Morinda citrifolia'
-__*m(ʷ)ase__           |    'wild mulberry, paper mulberry, Broussonetia papyrifera'
-*ma(i)tagaR(a)     |    'Kleinhovia hospita'
-*mapuqan           |    'Flueggea flexuosa' (?)
-*maqota            |    'Dysoxylum spp.'
-*maRakita          |    'the putty nut, probably Parinari laurina and Parinari glaberrima'
-*maRako            |    'Trichospermum peekelii'
-*mari(a)sapa      |   'Syzygium sp.
-*molis            |    'citrus fruit or citrus-like fruit, perhaps Clymenia polyandra'
-__*mʷala(q)u__         |    'Glochidion philippicum'
-__*mʷalak__ (?)        |    'spider lily, Crinum asiaticum'
-__*mʷaña__            |    'Pandanus sp., perhaps Pandanus conoideus'
-__*mʷapo(q)__          |    'taro, Colocasia esculenta'
-__*mʷaruqe__           |    'Dioscorea sp. or perhaps a cultivar of D. alata'
-*nip us            |    'Cryptocarya sp.'
-*iioiiu            |    'Morinda citrifolia'
-*olaŋa             |   'Campnosperma brevipetiolatum'
-*pakum             |    'Pandanus dubius'
-*pala(ŋ)           |   'cut nut, bush nut, Barringtonia novae-hiberniae (green variety?)'
-*paliaRua          |    'a vine, Merremia peltata'
-*paqo              |    'Heliconia sp'
-*paqu              |    'Kleinhovia hospita'
-*pasa(r,R)         |    'Vitex cofassus'
-  *pesi            |      'a coastal forest tree, perhaps Pongamia pinnata'
-  *pi(y )Uŋ        |     'Miscanthus floridulus'
-  *pijo            |      'cane or reed taxon, including Saccharum spontaneum'
-  *poipoi          |      'Pandanus sp., perhaps P. tectorius'
-  *poka(q)         |      'variety of Malay apple'
-  *(p,b)oso        |      'k.o. taro'
-  *puRe            |      'taxon of beach creepers; perhaps prototypically Ipomoea grandiflora and Ipomoea pes-caprae'
-  __*pʷa(k,g)e__        |     'k.o. green vegetable(?)'
-  __*pʷabosi__          |     'free-standing small or medium-sized Ficus sp., probably F. wassa'
-  __*p(ʷ)asa(r,R)__     |     'large Pandanus sp.'
-  __*pʷatika__          |     'potato yam, aerial yam, Dioscorea bulbifera'
-  __*p(ʷ)awa(t)__       |     'Cerbera spp., probably C.floribunda and C. manghas'
-  __*pʷete__            |     'bird's nest fern, Asplenium nidus'
-  __*pʷi(r,R)a__        |     'Cananga odorata'
-  *qarop            |     'Premna spp.'
-  *qat(V)           |     'Terminalia sp. with edible nut'
-  *(q,k )atita      |    'the putty nut, probably Parinari laurina and Parinari glaberrima'
-  *(q)alipa, *lalipa|    'nut sp., possibly canarium almond, Canarium sp.' (?)
-  *qope             |     'Gyrocarpus americanus'
-  *quRis            |     'Spondias cytherea'
-  *(quta )quta      |    'grass and weeds (generic)'
-  *rabum            |     'grass'
-  *Rigi             |     'rosewood, Pterocarpus indicus'
-  *sabakap          |     'Alstonia scholaris'
-  *sakup            |     'banana cultivar with long fruit' (?)
-  *seRa             |     'Ficus sp., perhaps F. adenosperma'
-  *sila             |     'Job's tears, Coix lacryma-jobi'
-  *tamanu           |     'Calophyllum sp.'
-  *tal) a           |     'Ficus tinctoria'
-  *tapi(l)          |     'puzzlenut tree, Xylocarpus granatum' (?)
-  *tapoRa           |     'a nut-bearing tree sp.'
-  *tawasi           |     'Rhus taitensis'
-  *toRu             |     'Cordia subcordata'
-  *udu(r,R)         |     'Dioscorea alata cultivar (?)'
-  *wasa             |     'Abelmoschus manihot; green vegetables in general'
-  *wasi-wasi        |     'Abroma augusta'
-  *yal)o            |     'turmeric, Curcuma longa'
+ _*ba(k,g)a_            | 'banyan tree, medium-sized Ficus spp., not stranglers'
+ _*babak_               | 'Falcataria moluccana'
+ _*bala_                | 'taxon including various Euodia spp.' (?)
+ _*baqun_               | 'banana cultivar'
+ _*baReko_              | 'breadfruit'
+ _*bau_                 | 'hardwood taxon'
+ _*bele_                | 'Abelmoschus manihot'
+ _*beta_                | 'breadfruit'
+ _*biRi-biRi_           | 'Hernandia nymphaeifolia'
+ _*basi_                | 'a forest tree with white wood, probably Euodia elleryana'
+ _*bou_                 | 'Fagraea spp.'
+ _*bulu_                | 'Garcinia sp., perhaps G. novo-guineensis'
+ ___*b(ʷ)ala___         | 'tree fern, Cycas or Cyathea sp.'
+ ___*bʷau___            | 'bamboo'
+ ___*bʷele___           | 'bamboo sp.'
+ ___*bʷera___           | 'Musa cultivar'
+ _*drala_               | 'shrub sp., Vitex trifolia'
+ _*(dr,d)aRa(q,k)a_     | 'wild nutmeg, Myristica sp.'
+ _*i(u)bu_              | 'Corynocarpus cribbianus'
+ _*iguRa_               | 'Ficus species with sandpapery leaves, either F. copiosa or F. wassa or both'
+ _*ipi_                 | 'Tahitian chestnut, I nocarpus fagifer'
+ _*jajal_               | 'croton, Codiaeum variegatum'
+ _*JamaR_               | 'Commersonia bartramia'
+ _*jiRi_                | 'taxon consisting of Cordyline fruticosa and Dracaena angustifolia'
+ _*joRaga_              | 'banana, Fe'i (?) cultivars'
+ ___*ka(mʷa)-kamʷa___   | 'Ficus sp., perhaps Ficus nodosa'
+ _*ka[(r,l)a]qabusi_    | 'Acalypha spp.'
+ _*kalaka_              | 'Planchonella sp.'
+ _*kapika_              | 'Malay apple, rose apple, Syzygium malaccense'
+ ___*karagʷam___        | 'seaweed, seagrass'
+ _*kaRi(q)a_            | 'taxon of decorative plants'
+ _*kaRi(q)ana_          | 'Pandanus lamekotensis'
+ _*kayu qone_           | 'Heritiera littoralis'
+ _*koka_                | 'Macaranga spp.'
+ _*koma(r,R)(o,u)_      | 'Endospermum sp.'
+ _*kopu_                | 'bamboo sp.'
+ _*koRa_                | 'wild mango, Mangifera minor'
+ _*kurat_               | 'the dye produced from Morinda citrifolia'
+ ___*(m,mʷ)ase___       | 'wild mulberry, paper mulberry, Broussonetia papyrifera'
+ _*ma(i)tagaR(a)_       | 'Kleinhovia hospita'
+ _*mapuqan_             | 'Flueggea flexuosa' (?)
+ _*maqota_              | 'Dysoxylum spp.'
+ _*maRakita_            | 'the putty nut, probably Parinari laurina and Parinari glaberrima'
+ _*maRako_              | 'Trichospermum peekelii'
+ _*mari(a)sapa_         | 'Syzygium sp.
+ _*molis_               | 'citrus fruit or citrus-like fruit, perhaps Clymenia polyandra'
+ ___*mʷala(q)u___       | 'Glochidion philippicum'
+ ___*mʷalak___ (?)      | 'spider lily, Crinum asiaticum'
+ ___*mʷaña___           | 'Pandanus sp., perhaps Pandanus conoideus'
+ ___*mʷapo(q)___        | 'taro, Colocasia esculenta'
+ ___*mʷaruqe___         | 'Dioscorea sp. or perhaps a cultivar of D. alata'
+ _*nipus_               | 'Cryptocarya sp.'
+ _*ñoñu_                | 'Morinda citrifolia'
+ _*olaŋa_               | 'Campnosperma brevipetiolatum'
+ _*pakum_               | 'Pandanus dubius'
+ _*pala(ŋ)_             | 'cut nut, bush nut, Barringtonia novae-hiberniae (green variety?)'
+ _*paliaRua_            | 'a vine, Merremia peltata'
+ _*paqo_                | 'Heliconia sp'
+ _*paqu_                | 'Kleinhovia hospita'
+ _*pasa(r,R)_           | 'Vitex cofassus'
+ _*pesi_                | 'a coastal forest tree, perhaps Pongamia pinnata'
+ _*pi(y)uŋ_             | 'Miscanthus floridulus'
+ _*pijo_                | 'cane or reed taxon, including Saccharum spontaneum'
+ _*poipoi_              | 'Pandanus sp., perhaps P. tectorius'
+ _*poka(q)_             | 'variety of Malay apple'
+ _*(p,b)oso_            | 'k.o. taro'
+ _*puRe_                | 'taxon of beach creepers; perhaps prototypically Ipomoea grandiflora and Ipomoea pes-caprae'
+ ___*pʷa(k,g)e___       | 'k.o. green vegetable(?)'
+ ___*pʷabosi___         | 'free-standing small or medium-sized Ficus sp., probably F. wassa'
+ ___*(p,pʷ)asa(r,R)___  | 'large Pandanus sp.'
+ ___*pʷatika___         | 'potato yam, aerial yam, Dioscorea bulbifera'
+ ___*(p,pʷ)awa(t)___    | 'Cerbera spp., probably C.floribunda and C. manghas'
+ ___*pʷete___           | 'bird's nest fern, Asplenium nidus'
+ ___*pʷi(r,R)a___       | 'Cananga odorata'
+ _*qarop_               | 'Premna spp.'
+ _*qat(V)_              | 'Terminalia sp. with edible nut'
+ _*(q,k)atita_          | 'the putty nut, probably Parinari laurina and Parinari glaberrima'
+ _*(q)alipa_, _*lalipa_ | 'nut sp., possibly canarium almond, Canarium sp.' (?)
+ _*qope_                | 'Gyrocarpus americanus'
+ _*quRis_               | 'Spondias cytherea'
+ _*(quta)quta_          | 'grass and weeds (generic)'
+ _*rabum_               | 'grass'
+ _*Rigi_                | 'rosewood, Pterocarpus indicus'
+ _*sabakap_             | 'Alstonia scholaris'
+ _*sakup_               | 'banana cultivar with long fruit' (?)
+ _*seRa_                | 'Ficus sp., perhaps F. adenosperma'
+ _*sila_                | 'Job's tears, Coix lacryma-jobi'
+ _*tamanu_              | 'Calophyllum sp.'
+ _*taŋa_                | 'Ficus tinctoria'
+ _*tapi(l)_             | 'puzzlenut tree, Xylocarpus granatum' (?)
+ _*tapoRa_              | 'a nut-bearing tree sp.'
+ _*tawasi_              | 'Rhus taitensis'
+ _*toRu_                | 'Cordia subcordata'
+ _*udu(r,R)_            | 'Dioscorea alata cultivar (?)'
+ _*wasa_                | 'Abelmoschus manihot; green vegetables in general'
+ _*wasi-wasi_           | 'Abroma augusta'
+ _*yaŋo_                | 'turmeric, Curcuma longa'
 
                                                                             Concluding notes      435
 
@@ -20277,48 +20276,48 @@ __*mʷaruqe__           |    'Dioscorea sp. or perhaps a cultivar of D. alata'
 : Table 14.7: Proto Western Oceanic plant terms with no known external cognates (22 reconstructions)
 
 __tablenh__
-*bara             |  'Macaranga spp.'
-*basi             |  'mango'
-*haul             |  'mangrove, Rhizophora sp. (?)'
-__*bʷana__            |  'Intsia bijuga'
-__*bʷatiq__           |  'banana cultivar'
-*gobu             |  'Dioscorea sp.'
-*ka(p)ul          |  'seed yam'
-*kamisa           |  'lesser yam, Dioscorea esculenta'
-*kam(w)apaR       |  'Cryptocarya sp.'
-*kasuwai          |  'mango'
-*kobo             |  'taxon of Macaranga spp.'
-*kokoi            |  'mushroom sp.'
-*[ku,i]Rim(a,o)   |  'Octomeles sumatrana'
-*lapuka           |  'k.o. tree with fruit similar to breadfruit, Parartocarpus venenosa' (?)
-__*m(ʷ)ali__          |  'Derris sp.'
-*mamisa           |  'lesser yam, Dioscorea esculenta'
-*moke             |  'Pandanus sp.'
-__*mʷa(r,R)e__        |  'taxon including Codiaeum variegatum and Cordyline fruticosa'
-*nagi             |  'Cordia sp.'
-*(s,j)a(q,k )umu |  'Pandanus sp.'
-*tabun            |  'Garcinia sp.'
-*tabuqaR          |  'Saccharum edule'
+_*bara_             |  'Macaranga spp.'
+_*basi_             |  'mango'
+_*haul_             |  'mangrove, Rhizophora sp. (?)'
+___*bʷana___        |  'Intsia bijuga'
+___*bʷatiq___       |  'banana cultivar'
+_*gobu_             |  'Dioscorea sp.'
+_*ka(p)ul_          |  'seed yam'
+_*kamisa_           |  'lesser yam, Dioscorea esculenta'
+___*ka(m,mʷ)apaR___ |  'Cryptocarya sp.'
+_*kasuwai_          |  'mango'
+_*kobo_             |  'taxon of Macaranga spp.'
+_*kokoi_            |  'mushroom sp.'
+_*[ku,i]Rim(a,o)_   |  'Octomeles sumatrana'
+_*lapuka_           |  'k.o. tree with fruit similar to breadfruit, Parartocarpus venenosa' (?)
+___*(m,mʷ)ali___    |  'Derris sp.'
+_*mamisa_           |  'lesser yam, Dioscorea esculenta'
+_*moke_             |  'Pandanus sp.'
+___*mʷa(r,R)e___    |  'taxon including Codiaeum variegatum and Cordyline fruticosa'
+_*nagi_             |  'Cordia sp.'
+_*(s,j)a(q,k)umu_   |  'Pandanus sp.'
+_*tabun_            |  'Garcinia sp.'
+_*tabuqaR_          |  'Saccharum edule'
 
 
 : Table 14.8: Proto Eastern Oceanic plant terms with no known external cognates (15 reconstructions)
 
 __tablenh__
-*bakuRa                |  'Calophyllum sp., probably C. kajewskii'
-*buka                  |  'taxon oflittoral trees, including Pisonia spp. and Gyrocarpus americanus'
-*bulipa                |  'Ficus sp.'
-*gama                  |  'Finschia cloroxantha'
-*(k)a(r,ŋadroŋa        |  'Acalypha sp.'
-*koka                  |  'tree sp., Bischofia javanica'
-__*mabʷe__                 |  'Tahitian chestnut, I nocarpus fagifer'
-*melo                  |  'Elaeocarpus angustifolius'
-*milo                  |  'Thespesia populnea'
-__*mʷa(q)ele__             |  'a cycad, Cycas rumphii'
-*pakalo, __*pʷakala__ (?)  |  'Hibiscus sp.'
-*paRage                |  'Pangium edule
-*pinuaq                |  'a nut tree, perhaps Canarium sp. (?)'
-*rako                  |  'Heliconia sp., usually H. indica'
-*sinu                  |  'taxon of shrubs whose sap causes irritation, including species of Phaleria'
+_*bakuRa_                |  'Calophyllum sp., probably C. kajewskii'
+_*buka_                  |  'taxon oflittoral trees, including Pisonia spp. and Gyrocarpus americanus'
+_*bulipa_                |  'Ficus sp.'
+_*gama_                  |  'Finschia cloroxantha'
+_*(k)a(r,l)adroŋa_        |  'Acalypha sp.'
+_*koka_                  |  'tree sp., Bischofia javanica'
+___*mabʷe___                 |  'Tahitian chestnut, I nocarpus fagifer'
+_*melo_                  |  'Elaeocarpus angustifolius'
+_*milo_                  |  'Thespesia populnea'
+___*mʷa(q)ele___             |  'a cycad, Cycas rumphii'
+_*pakalo_, ___*pʷakala___ (?)  |  'Hibiscus sp.'
+_*paRage_                |  'Pangium edule
+_*pinuaq_                |  'a nut tree, perhaps Canarium sp. (?)'
+_*rako_                  |  'Heliconia sp., usually H. indica'
+_*sinu_                  |  'taxon of shrubs whose sap causes irritation, including species of Phaleria'
 
 436     Malcolm Ross
 
@@ -20326,9 +20325,9 @@ __*mʷa(q)ele__             |  'a cycad, Cycas rumphii'
 : Table 14.9: Proto Remote Oceanic plant terms with no known external cognates (6 reconstructions)
 
 __tablenh__
-      *buavu       | 'Hernandia sp.'
-      *maRi        | 'breadfruit'
-      *sasaRu      | 'Abelmoschus manihot'
-      *vaRo        | 'Neisosperma oppositifolium'
-      *vuba        | 'k.o. vine, probably Derris elliptica'
-      *wasi-wasi   | 'Sterculia vitiensis'
+      _*buavu_       | 'Hernandia sp.'
+      _*maRi_        | 'breadfruit'
+      _*sasaRu_      | 'Abelmoschus manihot'
+      _*vaRo_        | 'Neisosperma oppositifolium'
+      _*vuba_        | 'k.o. vine, probably Derris elliptica'
+      _*wasi-wasi_   | 'Sterculia vitiensis'

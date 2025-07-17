@@ -5880,7 +5880,7 @@ ambiguity, and are accordingly glossed ‘sister-in-law’ or ‘brother-in-law�
 the gloss is more specific, e.g. ‘spouse’s brother’. Often, though, as with siblings, a term
 indicates the in-law’s sex relative to ego, i.e. ‘s.s. sibling-in-law’ (♀HZ, ♀BW, ♂WB, ♂ZH;
 more briefly EsG, GsE) or, less frequently, ‘o.s. sibling-in-law’ (♀HB, ♀ZH, ♂WZ, ♂BW;
-i.e., EoG, GoE).37
+i.e., EoG, GoE).[37]
 
     The most widely reflected term for a sibling-in-law is POc _*ipaR_, _*ipa-_, primarily ‘♀sister-
 in-law’ and more broadly ‘s.s. sibling-in-law’. The two Kimbe reflexes, Bola and Nakanai,
@@ -9582,7 +9582,7 @@ Singing is predominantly choral and traditionally associated with dance, althoug
 singing may now have overtaken traditional dance as the most frequent performance of
 song.
 Songs, like dances, are regarded throughout Melanesia as property, and can be bought and
-sold like any other commodity (§6.3.10).6 Because they can be traded and because they are
+sold like any other commodity (§6.3.10).[6] Because they can be traded and because they are
 open to innovation, reconstructing terms for particular songs and dances is not a productive
 exercise. However, the forms, as opposed to the content, are more or less stereotyped, and it
 is terms for these which offer our best chance of reconstruction.
@@ -14270,7 +14270,7 @@ place in a sequence of twelve stars or constellations that serve as monthly time
 
     The calendrical uses of the Pleiades described above refer to single events. In some EOc
 languages, however, this has developed into a marking of the two seasons into which the year
-is divided (§11.3).12
+is divided (§11.3).[12]
 
     Kirch & Green (2001:260ff) have made a detailed examination of the reckoning of time
 and the ritual cycle in Polynesia, and we have drawn on their account for much of the
@@ -15557,7 +15557,7 @@ Unusually detailed lists of month names are available for the Torres and Banks i
 northern Vanuatu, thanks to various anthropological studies (Codrington 1891 for Mota,
 Durrad 1940 and Mondragón 2004 for the Loh dialect of Lo-Toga, François 2023 for
 Mwotlap, and François pers. comm. for Lo, Mota, Mwotlap and partial Mwesen). They are
-summarised in Table 11.20.23
+summarised in Table 11.20.[23]
 
    In the leftmost column of Table 11.20 numbers approximate western months. Terms for
 October, November and December in Loh, Mota and Mwotlap make reference to the small
@@ -16725,7 +16725,7 @@ conventional western names.
    A striking feature of Table 11.25 is the number of empty cells in it. Kilivila and Maringe
 (Table 11.26) also have a set of moon phase terms, but not the remaining languages. The blanks
 highlight the fact that each of these languages has names for the days in a sequence that includes
-the full moon,[30] but no names for the rest of the days of the month.31 Evidently, the time around
+the full moon,[30] but no names for the rest of the days of the month.[31] Evidently, the time around
 the full moon was the most important part of the lunar cycle in these communities, and the full
 moon was (at least until recently) still celebrated through the night in some Oceanic communities.[32]
 
@@ -22434,7 +22434,7 @@ Islands, Maewo, north Pentecost and further south in southeast Malakula and Ambr
     Although the evidence above indicates that _*sapuluq_, _*ŋapuluq_ and _*saŋapuluq_ were
 each reinterpreted in various languages as a morpheme for ‘unit of 10’, there is nonetheless
 evidence that the PPn reflex _*-fulu_ retained its function and that in this respect Polynesian is
-again a relic area. The Polynesian data are shown in Table 14.8.19 Ten itself and tens from 30
+again a relic area. The Polynesian data are shown in Table 14.8.[19] Ten itself and tens from 30
 upward have the _rua ŋapuluq_ template, but the term for 20 was PPn _*rua-fulu_, with the
 _rua puluq_ template. Why the term for 20 is the odd one out is not clear, but Clark (1999)
 comments that PPn _*rua-fulu_ ‘20’ and Samoan _se-fulu_ ‘10’ indicate that PPn _*fulu_ was
@@ -24968,7 +24968,7 @@ Chapter 14, as they differ from a base-10 system only in their treatment of 6–
     Lynch’s (2009) “imperfect decimal” category of Oceanic numeral systems lumps together
 the additive 6–9 sequences in Daakaka, Mangap and Tuam with subtractive sequences like
 7-9 in Ponam _aha-talo-f_ [minus-3-CLF] ‘7’, _aha-luo-f_ [minus-2-CLF] ‘8’, _aha-se_ [minus-1-CLF]
-‘9’ (§14.4.3.5).4 However, the subtractive sequence is not cyclic, so in this respect Ponam 10
+‘9’ (§14.4.3.5).[4] However, the subtractive sequence is not cyclic, so in this respect Ponam 10
 does not define a base. The numeral ‘10’ is a base in Ponam, but because there is a base-10
 cycle, not because it is a minuend.[5]
 
@@ -25637,7 +25637,7 @@ the next section shows.
 15.7.2 The genesis of base-5-10-20 and base-5-10 systems
 
 Map 15.5 shows the sources of terms for 10 in base-5-10+ languages. The numbers
-underlying the map are shown in Table 15.9.12 Terms for 10 that reflect POc _*sapuluq_ or
+underlying the map are shown in Table 15.9.[12] Terms for 10 that reflect POc _*sapuluq_ or
 _*saŋapuluq_ ‘10’ (§14.4.5.1) are abbreviated here as _*puluq_. Terms that reflect _*rua-lima_
 [two hand] ‘10’ are shown separately as they tell another story (see below). Other terms that mean
 ‘two hands’ are also shown, as are terms for 10 with an unknown origin, which make up 35

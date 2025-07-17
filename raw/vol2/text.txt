@@ -7302,8 +7302,8 @@ sky. Lau and Kwaio both have _ʔaena asi_, literally ‘foot/leg of the sea’. 
 the more usual second element meaning ‘sky’ but vary the first element:
 
 __formgroup__
- PT: Motu           |guba dokona|          ‘horizon’ (_guba_[4] ‘sky’ _doko_ ‘end’)
- SES: Lau           |ʔaena salo|           ‘horizon’ (_ʔaena_ ‘foot’, _salo_[5] ‘sky’)
+ PT: Motu           |guba dokona|          ‘horizon’ (_guba_ ‘sky’ _doko_ ‘end’)[4]
+ SES: Lau           |ʔaena salo|           ‘horizon’ (_ʔaena_ ‘foot’, _salo_ ‘sky’)[5]
  SES: Arosi         waʔa-ni-aro            ‘horizon’ (lit. ‘beginning of the sky’)
  Mic: Chuukese      epī-ɾeŋ                ‘horizon’ (_epi-_ ‘bottom’, _ɾeŋi_ ‘sky’)
  Mic: Marshallese   |kapin laŋ|            ‘horizon’ (_kapi_ ‘bottom’, _laŋ_ ‘sky’)
@@ -8597,7 +8597,7 @@ Southern Cross, depending upon whether its axis is upright, lying at either diag
 horizontally on either side (Lewis 1994:103–106). Alkire describes the siderial compass
 used by navigators on Woleai Atoll in the Carolines in almost identical terms. He gives the
 name _pāfɨs_ to the thirty two star points as they constitute the star path compass
-(1970:41).19 The Puluwatese term _pāfɨ̄ _ the navigational stars in thirty two star positions’ is
+(1970:41).[19] The Puluwatese term _pāfɨ̄ _ the navigational stars in thirty two star positions’ is
 cognate.
 
 184    Meredith Osmond

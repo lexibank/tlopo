@@ -1167,7 +1167,7 @@ POc _&ast;pali[s,j]i_ appears to have been the generic for plants lacking a main
 <tr>
 <td>SV</td><td><a href="../languages/swtanna">S.W. Tanna</a></td><td><i>nə-vhilək</i></td>
 <td>
-'<span>a kind of grass</span>'</td>
+'<span>a kind of grass</span>'[^8]</td>
 </tr>
 <tr>
 <td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>ne-pces</i></td>
@@ -1192,7 +1192,7 @@ POc _&ast;pali[s,j]i_ appears to have been the generic for plants lacking a main
 <tr>
 <td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>falī</i></td>
 <td>
-'<span>kind of grass(? Scirpodendron species)</span>'</td>
+'<span>kind of grass(? Scirpodendron species)</span>'[^9]</td>
 </tr>
 </table>
 
