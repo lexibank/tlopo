@@ -1,21 +1,28 @@
-{% set num, cmt, lname, lgroup, src, reflabel, ex = get_eg(ctx['ID']) %}
-{% if num %}({{ num }}) {% endif %}{{ lname }}{% if lgroup %} ({{ lgroup }}){% endif %}{% if cmt %}: {{ cmt }}{% endif %}{% if src %}: ([{{ reflabel }}]({{ href_source(src) }})){% endif %}
-{% for label, text, gloss, translation in ex: %}
-<table class="igt{% if label %} labeled{% endif %}">
-<caption>‘{{ translation }}’</caption>
+{% set num, cmt, labels, ex = get_eg(ctx['ID']) %}
+{% if num %}<ol start="{{ num }}">{% else %}<ul style="list-style: none;">{% endif %}
+<li>{% if cmt %} {{ cmt }}{% endif %}
+
+{% if labels %}<ol type="a">{% else %} <ul style="list-style: none">{% endif %}
+{% for lname, lgroup, text, gloss, translation, cmt, src, reflabel in ex: %}
+<li>
+{{ lname }}{% if lgroup %} ({{ lgroup }}){% endif %}{% if src %}: ([{{ reflabel }}]({{ href_source(src) }})){% endif %}
+<table style="padding-left: 2em;" class="igt{% if label %} labeled{% endif %}">
+<caption>‘{{ translation }}’{% if cmt %} ({{ cmt }}){% endif %}</caption>
 <tr>
-{% if label %}<td>{{ label }}</td>{% endif %}
 {% for i in text: %}
 <td><i>{{ i }}</i></td>
 {% endfor %}
 <td style="width: 100%"> </td>
 </tr>
 <tr>
-{% if label %}<td>&nbsp;</td>{% endif %}
 {% for i in gloss: %}
 <td>{{ i }}</td>
 {% endfor %}
 <td style="width: 100%"> </td>
 </tr>
 </table>
+</li>
 {% endfor %}
+{% if labels %}</ol>{% else %}</ul>{% endif %}
+</li>
+{% if num %}</ol>{% else %}</ul>{% endif %}

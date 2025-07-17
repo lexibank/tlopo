@@ -537,6 +537,7 @@ class Dataset(BaseDataset):
                     Movement_Gloss=ex.add_gloss,
                     Source=[ex.reference.cldf_id] if ex.reference else [],
                     Reference_Label=ex.reference.label if ex.reference else '',
+                    Comment=ex.comment,
                     #
                     # FIXME: make complete!
                     #

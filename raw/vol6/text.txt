@@ -24788,8 +24788,8 @@ thumb, and when they have reached 5 and all fingers are down, they straighten al
 again, this time counting from the forefinger to the little finger and reserving the thumb for 10.
 
     If Maurer’s (1966:74) account is correct, Tangga speakers counted both hands and said,
-“tika” (‘1’), then counted them again and said, “tike saŋful” (‘one ten’), but meaning that they
-had counted 20. They then repeated the whole process and ended with “iu e saŋful” (‘2 tens’),
+“_tika_” (‘1’), then counted them again and said, “_tike saŋful_” (‘one ten’), but meaning that they
+had counted 20. They then repeated the whole process and ended with “_iu e saŋful_” (‘2 tens’),
 meaning 40. Maurer offers no explanation for this, but I infer that this was public counting and
 involved counting in pairs (cf §14.6.3). Maurer (1966:75) goes on to say that “if the objects
 were not present”, i.e. if one was counting something privately in one’s head, then one started
@@ -24805,16 +24805,16 @@ numbers below 20, they tallied in pairs:
 __blockquote__
      When single units are involved, the Maenge begin counting on the right hand, which is
      held up open. First, the index finger [forefinger] of the right hand touches the thumb of the
-       same hand while one says lua (‘two’). The middle and fourth [ring] fingers of the same
-       hand are then clustered together and bent downward while one again says lua. Finally, the
-       little finger of the same hand is bent while one says ne lima (the ordinal for ‘five’). Once
+       same hand while one says _lua_ (‘two’). The middle and fourth [ring] fingers of the same
+       hand are then clustered together and bent downward while one again says _lua_. Finally, the
+       little finger of the same hand is bent while one says _ne lima_ (the ordinal for ‘five’). Once
        this has been done, one passes on to the left hand, using its fingers as tallies in the same
-       way as those of the right hand and again calling the numerals lua, lua, ne lima. At this
-       point one closes the fists, both hands being held up together, and says tangulelu (‘10’). If
+       way as those of the right hand and again calling the numerals _lua_, _lua_, _ne lima_. At this
+       point one closes the fists, both hands being held up together, and says _tangulelu_ (‘10’). If
        the number of objects to be counted exceeds ten, one proceeds to the toes of the right foot,
        which are touched with the right forefinger in the same two-two-one succession, the same
        numerals as before being uttered afresh. To reach twenty, one resumes the operation on
-       the left foot with the left forefinger used as a pointer. The numeral giaukaena (‘20’) [‘a
+       the left foot with the left forefinger used as a pointer. The numeral _giaukaena_ (‘20’) [‘a
        person’s feet’—MR] is then called, and one stoops and places both closed fists on the toes
        to show the completion of the vigesimal series.
 
@@ -24840,14 +24840,14 @@ with decimal counting do not also use tallying.
 
 15.3 Terminology
 
-Numerals are unlike many lexical items1 in that in most languages their meanings form a
+Numerals are unlike many lexical items[1] in that in most languages their meanings form a
 highly ordered semantic domain. The forms that express those meanings are composed of a
-limited number of single-morpheme words—simple numerals—which also serve,
+limited number of single-morpheme words—__simple numerals__—which also serve,
 sometimes with modification, as components for the specialised part of the grammar that
-constructs numerals with more than one morpheme. These are complex numerals. For
-example, two hundred and one is a complex numeral made up of the simple numerals one,
-two and hundred and the morpheme and in accordance with the grammar (Booij 2010:195–
-204). The grammar allows speakers to generate large numbers of numerals, with the need
+constructs numerals with more than one morpheme. These are __complex numerals__. For
+example, _two hundred and one_ is a complex numeral made up of the simple numerals _one_,
+_two_ and _hundred_ and the morpheme _and_ in accordance with the grammar (Booij 2010:195–204).
+The grammar allows speakers to generate large numbers of numerals, with the need
 only to store simple numerals in memory, probably along with some frequently used complex
 numerals (Greenberg 2000:74–75; Moravcsik 2013:47).
 
@@ -24856,7 +24856,7 @@ language. In a majority of languages worldwide the structure is base-10 (decimal
 structures with base-5 and base-20, replicating the hands and feet used in digit-tallying, are
 fairly common (§15.6).
 
-[1] Whether one calls complex (phrasal) numerals like English one hundred and seventy three lexical items
+[1] Whether one calls complex (phrasal) numerals like English _one hundred and seventy three_ lexical items
     depends on one’s theory of grammar, a matter that is beyond the scope of this discussion.
 
 518 Malcolm Ross
@@ -24864,41 +24864,41 @@ fairly common (§15.6).
 : Table 15.1 Cyclicity in Mussau numerals (Brownie & Brownie 2007)
 
 __table__
-   tens: 0        10         20                         30              40
-   0     —        sa-ŋaulu   lue-ŋaulu                  tolu-ŋaulu      ati-ŋaulu
-   1      sesa sa-ŋaulu sesa lue-ŋaulu sesa             tolu-ŋaulu sesa ati-ŋaulu sesa
-   2      lua  sa-ŋaulu lua  lue-ŋaulu lua              tolu-ŋaulu lua ati-ŋaulu lua
-   3      tolu sa-ŋaulu tolu lue-ŋaulu tolu             tolu-ŋaulu tolu ati-ŋaulu tolu
-   4      ata  sa-ŋaulu ata  lue-ŋaulu ata              tolu-ŋaulu ata ati-ŋaulu ata
-   5      lima sa-ŋaulu lima lue-ŋaulu lima             tolu-ŋaulu lima ati-ŋaulu lima
-   6      nomo sa-ŋaulu nomo lue-ŋaulu nomo             tolu-ŋaulu nomo ati-ŋaulu nomo
-   7      itu  sa-ŋaulu itu  lue-ŋaulu itu              tolu-ŋaulu itu  ati-ŋaulu itu
-   8      oalu sa-ŋaulu oalu lue-ŋaulu oalu             tolu-ŋaulu oalu ati-ŋaulu oalu
-   9      sio  sa-ŋaulu sio  lue-ŋaulu sio              tolu-ŋaulu sio  ati-ŋaulu sio
+  tens: | 0      | 10              | 20               | 30                | 40
+   0    | —      | _sa-ŋaulu_      | _lue-ŋaulu_      | _tolu-ŋaulu_      | _ati-ŋaulu_
+   1    | _sesa_ | _sa-ŋaulu sesa_ | _lue-ŋaulu sesa_ | _tolu-ŋaulu sesa_ | _ati-ŋaulu sesa_
+   2    | _lua_  | _sa-ŋaulu lua_  | _lue-ŋaulu lua_  | _tolu-ŋaulu lua_  | _ati-ŋaulu lua_
+   3    | _tolu_ | _sa-ŋaulu tolu_ | _lue-ŋaulu tolu_ | _tolu-ŋaulu tolu_ | _ati-ŋaulu tolu_
+   4    | _ata_  | _sa-ŋaulu ata_  | _lue-ŋaulu ata_  | _tolu-ŋaulu ata_  | _ati-ŋaulu ata_
+   5    | _lima_ | _sa-ŋaulu lima_ | _lue-ŋaulu lima_ | _tolu-ŋaulu lima_ | _ati-ŋaulu lima_
+   6    | _nomo_ | _sa-ŋaulu nomo_ | _lue-ŋaulu nomo_ | _tolu-ŋaulu nomo_ | _ati-ŋaulu nomo_
+   7    | _itu_  | _sa-ŋaulu itu_  | _lue-ŋaulu itu_  | _tolu-ŋaulu itu_  | _ati-ŋaulu itu_
+   8    | _oalu_ | _sa-ŋaulu oalu_ | _lue-ŋaulu oalu_ | _tolu-ŋaulu oalu_ | _ati-ŋaulu oalu_
+   9    | _sio_  | _sa-ŋaulu sio_  | _lue-ŋaulu sio_  | _tolu-ŋaulu sio_  | _ati-ŋaulu sio_
 
 
     Most numeral systems have a cyclic structure (Salzmann 1950:81). The cyclicity of
-Mussau’s decimal numeral system in Table 15.1 is self-evident. The lowest numerals in the
+Mussau’s decimal numeral system in Table 15.1 is self-evident. The __lowest numerals__ in the
 system (in column 0) are simple ones counting from 1 to 9 and form the first cycle. In
-columns 10 to 40 the element in row 0—call it n—e.g. lue-ŋaulu ‘20’, introduces a round of
-this cycle. The cells below it contain a complex numeral, e.g. lue-ŋaulu tolu ‘23’, consisting
-of n preceded by an element that replicates 1–9 from the first cycle, each column forming a
-fresh round (10–19, 20–29 etc). The first morpheme of each n, namely sa-, lue-, tolu-, ati-, is
+columns 10 to 40 the element in row 0—call it _n_—e.g. _lue-ŋaulu_ ‘20’, introduces a __round__ of
+this cycle. The cells below it contain a complex numeral, e.g. _lue-ŋaulu tolu_ ‘23’, consisting
+of _n_ preceded by an element that replicates 1–9 from the first cycle, each column forming a
+fresh round (10–19, 20–29 etc). The first morpheme of each _n_, namely _sa-_, _lue-_, _tolu-_, _ati-_, is
 a version of one of 1 to 4 and together they form a superordinate cycle. If this cycle were
-shown in full, its rightmost column would be headed by sio-ŋaulu ‘90’, and the table would
-end with 99, after which a second round of the superordinate cycle would begin with ai ‘100’.
+shown in full, its rightmost column would be headed by _sio-ŋaulu_ ‘90’, and the table would
+end with 99, after which a second round of the superordinate cycle would begin with _ai_ ‘100’.
 
     Thus each column is a round of a 10-cycle, and the superordinate cycle represented by the
-first row (sa-ŋaulu etc) is a 100-cycle. A cycle defines a base. The base of the first cycle, 10 (-
-ŋaulu), initiates the second and further rounds of the 10-cycle (the columns of Table 15.1).
-Similarly the base of the next cycle, 100 (ai), initiates the second and further rounds of the
-100-cycle (rua ai ‘200’ etc). Mussau is thus a base-10 (or decimal) system, or, more exactly, a
+first row (_sa-ŋaulu_ etc) is a 100-cycle. A cycle defines a __base__. The base of the first cycle, 10
+(_-ŋaulu_), initiates the second and further rounds of the 10-cycle (the columns of Table 15.1).
+Similarly the base of the next cycle, 100 (_ai_), initiates the second and further rounds of the
+100-cycle (_rua ai_ ‘200’ etc). Mussau is thus a base-10 (or decimal) system, or, more exactly, a
 base-10-100 system.
 
     Commonly, complex numerals in non-initial rounds of a cycle are formed by adding
-lowest numerals to the base numeral (e.g. sa-ŋaulu sesa ‘11’, sa-ŋaulu lua ‘12’, etc) or by
-multiplying the base numeral by a numeral smaller than the base (e.g. sa-ŋaulu ‘10’, lue-
-ŋaulu ‘20’, etc). Thus Mussau has a canonic system, canonic in that it follows regularly a
+lowest numerals to the base numeral (e.g. _sa-ŋaulu_ ___sesa___ ‘11’, _sa-ŋaulu_ ___lua___ ‘12’, etc) or by
+multiplying the base numeral by a numeral smaller than the base (e.g. ___sa___-_ŋaulu_ ‘10’,
+___lue___-_ŋaulu_ ‘20’, etc). Thus Mussau has a __canonic__ system, canonic in that it follows regularly a
 small set of rules for generating complex numerals (cf Hammarström 2008:290).
 
 
@@ -24910,31 +24910,31 @@ are common: base-5-10, base-5-20 and base-5-10-20. I will refer to them collecti
 
                                                                              Digit tallying 519
 
-: Table 15.2 Cyclicity in Daakaka numerals (von Prince 2012:224–225)
+: Table 15.2 a) Cyclicity in Daakaka numerals (von Prince 2012:224–225): base-5
 
 __table__
-                                           base-5
-                            fives: 0          5
-                            0      —    —     lim                 ‘5’
-                            1      sʷa ‘1’ milip-sʸes             ‘6’
-                            2      lo   ‘2’ miliv-yo              ‘7’
-                            3      sī   ‘3’ milip-sī              ‘8’
-                            4      vʸer ‘4’ me-per                ‘9’
+                           fives: | 0    |     |  5           |
+                            0     | —    | —   |   _lim_        |   ‘5’
+                            1     | _sʷa_  | ‘1’ | _milip-sʸes_   |    ‘6’
+                            2     | _lo_   | ‘2’ | _miliv-yo_     |   ‘7’
+                            3     | _sī_   | ‘3’ | _milip-sī_     |   ‘8’
+                            4     | _vʸer_ | ‘4’ | _me-per_       |   ‘9’
 
 
+: Table 15.2 b) Cyclicity in Daakaka numerals (von Prince 2012:224–225): base-10
 
-                                             base-10
-     tens: 10                           20                     30
-     0      suŋavi               ‘10’   uŋ lo              ‘20’ uŋ sī                  ‘30’
-     1      suŋavi a sʷa         ‘11’   uŋ lo a sʷa        ‘21’ uŋ sī a sʷa            ‘31’
-     2      suŋavi a lo          ‘12’   uŋ lo a lo         ‘22’ uŋ sī a lo             ‘32’
-     3      suŋavi a sī          ‘13’   uŋ lo a sī         ‘23’ uŋ sī a sī             ‘33’
-     4      suŋavi a vyɛr        ‘14’   uŋ lo a vyɛr       ‘24’ uŋ sī a vyɛr           ‘34’
-     5      suŋavi a lim         ‘15’   uŋ lo a lim        ‘25’ uŋ sī a lim            ‘35’
-     6      suŋavi a milip-sʸes ‘16’    uŋ lo a milip-sʸes ‘26’ uŋ sī a milip-sʸes     ‘36’
-     7      suŋavi a miliv-yɔ ‘17’      uŋ lo a miliv-yɔ ‘27’ uŋ sī a miliv-yɔ         ‘37’
-     8      suŋavi a milip-sī    ‘18’   uŋ lo a milip-sī ‘28’ uŋ sī a milip-sī         ‘38’
-     9      suŋavi a mɛ-pɛr      ‘19’   uŋ lo a mɛ-pɛr     ‘29’ uŋ sī a mɛ-pɛr         ‘39’
+__table__
+     tens:| 10                   |        |  20                |       | 30                    |
+     0    | _suŋavi_              |  ‘10’  |  _uŋ lo_             |  ‘20’ |  _uŋ sī_                | ‘30’
+     1    | _suŋavi a sʷa_        |  ‘11’  |  _uŋ lo a sʷa_       |  ‘21’ |  _uŋ sī a sʷa_          | ‘31’
+     2    | _suŋavi a lo_         |  ‘12’  |  _uŋ lo a lo_        |  ‘22’ |  _uŋ sī a lo_           | ‘32’
+     3    | _suŋavi a sī_         |  ‘13’  |  _uŋ lo a sī_        |  ‘23’ |  _uŋ sī a sī_           | ‘33’
+     4    | _suŋavi a vyɛr_       |  ‘14’  |  _uŋ lo a vyɛr_      |  ‘24’ |  _uŋ sī a vyɛr_         | ‘34’
+     5    | _suŋavi a lim_        |  ‘15’  |  _uŋ lo a lim_       |  ‘25’ |  _uŋ sī a lim_          | ‘35’
+     6    | _suŋavi a milip-sʸes_ |  ‘16’  |  _uŋ lo a milip-sʸes_ |  ‘26’ |  _uŋ sī a milip-sʸes_   | ‘36’
+     7    | _suŋavi a miliv-yɔ_   |  ‘17’  |  _uŋ lo a miliv-yɔ_  |  ‘27’ |  _uŋ sī a miliv-yɔ_     | ‘37’
+     8    | _suŋavi a milip-sī_   |  ‘18’  |  _uŋ lo a milip-sī_  |  ‘28’ |  _uŋ sī a milip-sī_     | ‘38’
+     9    | _suŋavi a mɛ-pɛr_     |  ‘19’  |  _uŋ lo a mɛ-pɛr_    |  ‘29’ |  _uŋ sī a mɛ-pɛr_       | ‘39’
 
 
 15.4.1 Base-5-10
@@ -24946,30 +24946,28 @@ the first.
    Daakaka starts with a 5 base, i.e. the lowest numerals stop at 5, as shown in the first part of
 Table 15.2. As the base-5 matrix in Table 15.2 shows, this part of the system lasts just two
 rounds. In Mussau the next higher base is 100, i.e. base×base (10×10). One might expect the
-next higher base in Daakaka to be base×base (5×5=25), but it isn’t. The base suŋavi ‘10’
+next higher base in Daakaka to be base×base (5×5=25), but it isn’t. The base _suŋavi_ ‘10’
 intervenes, and from here on the system is decimal, with decades from 20 upward employing
-the much abbreviated uŋ in place of suŋavi, as shown in the base-10 matrix of Table 15.2.
+the much abbreviated _uŋ_ in place of _suŋavi_, as shown in the base-10 matrix of Table 15.2.
 
-   Unlike Mussau, Daakaka has no further bases. 100 is simply uŋ suŋavi (10×10). Within
+   Unlike Mussau, Daakaka has no further bases. 100 is simply _uŋ suŋavi_ (10×10). Within
 each base-10 round are two subordinate base-5 rounds.
 
-
 520 Malcolm Ross
-
 
    The numerals in the second base-5 round, 6 to 9, are formed additively, albeit with some
 morphophonemic changes. Such numerals began life as 5+1, 5+2 etc, with a ligature
 morpheme that functions like a plus sign. In many NCV languages the ligature reflects the
-POc neutral caused-motion verb *lapi ‘take, get, give’ (vol.5:426).2 The second syllable of
-the Daakaka ligature milip- reflects *lapi, while various origins of initial mi- can be posited
-(Lynch 2009:402).3 It is common for the ligature alone to function as the expression of 5+ in
+POc neutral caused-motion verb _*lapi_ ‘take, get, give’ (vol.5:426).[2] The second syllable of
+the Daakaka ligature _milip-_ reflects _*lapi_, while various origins of initial _mi-_ can be posited
+(Lynch 2009:402).[3] It is common for the ligature alone to function as the expression of 5+ in
 this context. Daakaka thus has a base-5-10 system, common throughout the digit tally areas
 (see Map 15.1). Where they reflect POc numerals such systems are treated as decimal in
 Chapter 14, as they differ from a base-10 system only in their treatment of 6–9.
 
     Lynch’s (2009) “imperfect decimal” category of Oceanic numeral systems lumps together
 the additive 6–9 sequences in Daakaka, Mangap and Tuam with subtractive sequences like
-7-9 in Ponam aha-talo-f [minus-3-CLF] ‘7’, aha-luo-f [minus-2-CLF] ‘8’, aha-se [minus-1-CLF]
+7-9 in Ponam _aha-talo-f_ [minus-3-CLF] ‘7’, _aha-luo-f_ [minus-2-CLF] ‘8’, _aha-se_ [minus-1-CLF]
 ‘9’ (§14.4.3.5).4 However, the subtractive sequence is not cyclic, so in this respect Ponam 10
 does not define a base. The numeral ‘10’ is a base in Ponam, but because there is a base-10
 cycle, not because it is a minuend.[5]
@@ -24978,34 +24976,34 @@ cycle, not because it is a minuend.[5]
 
 The Mangap (NNG) system, shown in Table 15.3, is similar to Daakaka insofar as it has two
 bases, but differs from it in several ways, the most salient of which is that the second base is
-20, not 10, i.e. it is a base-5-20 system Hence there are four base-5 rounds before tomō-ta
+20, not 10, i.e. it is a base-5-20 system Hence there are four base-5 rounds before _tomō-ta_
 [20×1] ‘twenty’ interrupts base-5 cyclicity. After this interruption, numeration continues quite
 consistently, with base-5 rounds occurring within each superordinate base-20 round.
 
-    There is an oddity in the base-5 matrix. Instead of counting across row 0 lama-ta ‘one
-five’, lāmu-ru ‘two fives’, †lāmu-tel ‘three fives’, the expected -tel ‘3’is replaced by -ro-ma-
-ta ‘2 plus 1’. Probably lamo-ro-ma-ta [hand-2-and 1] ‘15’ abbreviates a phrase meaning ‘two
+    There is an oddity in the base-5 matrix. Instead of counting across row 0 _lama-ta_ ‘one
+five’, _lāmu-ru_ ‘two fives’, †_lāmu-tel_ ‘three fives’, the expected _-tel_ ‘3’ is replaced by
+_-ro-ma-ta_ ‘2 plus 1’. Probably _lamo-ro-ma-ta_ [hand-2-and 1] ‘15’ abbreviates a phrase meaning ‘two
 hands and one foot’, harking back to digit-tallying. Viewed from the perspective of numeral
-system structure, however, lamo-ro-ma-ta breaks a rule that would generate †lāmu-tel.
+system structure, however, _lamo-ro-ma-ta_ breaks a rule that would generate †_lāmu-tel_.
 
     Base-5-20 systems are found scattered across parts of the digit tally areas (see Map 15.1). The
 Mangap system is not quite transparent because the language has undergone various vowel
-changes, mainly vowel harmonisations. The lowest base, lama- ‘5’, reflects POc *lima ‘five’.
-The second base, tomō-ta ‘one twenty’, is apparently a haplologic6 reduction of tomōto-ta and
+changes, mainly vowel harmonisations. The lowest base, _lama-_ ‘5’, reflects POc _*lima_ ‘five’.
+The second base, _tomō-ta_ ‘one twenty’, is apparently a haplologic[6] reduction of _tomōto-ta_ and
 means ‘one man’, again suggesting a digit-tally system that counts two hands, one foot and
-four toes (lamo-ro ma-ta mi paŋ) for 19, then counts ‘one person’ or ‘one man’ for ‘20’.
+four toes (_lamo-ro ma-ta mi paŋ_) for 19, then counts ‘one person’ or ‘one man’ for ‘20’.
 
     It is a little difficult to believe that numerals the length of those in the bottom four lines of
 the base-20 matrix were used with any regularity in traditional societies, but grammar after
 grammar describes such systems, and they are not the inventions of the grammar writers. If
-one thinks of them as describing a tally, then, for example, tomtō-ru lamo-ro-ma-ta mi ru does
+one thinks of them as describing a tally, then, for example, _tomtō-ru lamo-ro-ma-ta mi ru_ does
 not say, ‘57’, but ‘2 people (plus) 2 hands and (a foot) plus 2 (toes)’.
 
 [2] With minor differences, this is the position taken by Lynch (2009:401–403), who did not have access to
    cognates outside Vanuatu.
 
-[3] The form for 9, meper is rather opaque, but von Prince (2012:401) cites nearby Dalkalaen melafer and
-  Daakie melapet, which still reflect the ligature without the abbreviation that occurs in Daakaka.
+[3] The form for 9, _meper_ is rather opaque, but von Prince (2012:401) cites nearby Dalkalaen _melafer_ and
+  Daakie _melapet_, which still reflect the ligature without the abbreviation that occurs in Daakaka.
 
 [4] Codrington (1885:223–228) coined the term “imperfect decimal” for base-5-10. Lynch extends it to include
   subtractive numerals between 6 and 9 (Garde 2015:124). Blust’s (2013:280) “structurally modified decimal”
@@ -25017,39 +25015,40 @@ not say, ‘57’, but ‘2 people (plus) 2 hands and (a foot) plus 2 (toes)’.
 
                                                                 Digit tallying 521
 
-: Table 15.3    Cyclicity in Mangap numerals (Bugenhagen 1995:147–148)
+: Table 15.3 a)   Cyclicity in Mangap numerals (Bugenhagen 1995:147–148): base-5
 
 __table__
-                                    base-5
-fives: 0 5                      10                    15
-0      —   lama-ta        ‘5’   lāmu-ru        ‘10’   lamo-ro-ma-ta        ‘15’
-1      ta  lama-ta mi ta ‘6’    lāmu-ru mi ta ‘11’    lamo-ro-ma-ta mi ta ‘16’
-2      ru  lama-ta mi ru ‘7’    lāmu-ru mi ru ‘12’    lamo-ro-ma-ta mi ru ‘17’
-3      tel lama-ta mi tel ‘8’   lāmu-ru mi tel ‘13’   lamo-ro-ma-ta mi tel ‘18’
-4      paŋ lama-ta mi paŋ ‘9’   lāmu-ru mi paŋ ‘14’   lamo-ro ma-ta mi paŋ ‘19’
+fives:| 0   | 5              |     |     10           |       |    15                 |
+0     | —   |  _lama-ta_        | ‘5’ |   _lāmu-ru_        | ‘10’  |  _lamo-ro-ma-ta_        | ‘15’
+1     | _ta  | _lama-ta mi ta_  | ‘6’ |   _lāmu-ru mi ta_ | ‘11’  |   _lamo-ro-ma-ta mi ta_ | ‘16’
+2     | _ru  | _lama-ta mi ru_  | ‘7’ |   _lāmu-ru mi ru_ | ‘12’  |   _lamo-ro-ma-ta mi ru_ | ‘17’
+3     | _tel | _lama-ta mi tel_ | ‘8’ |   _lāmu-ru mi tel_ | ‘13’  |  _lamo-ro-ma-ta mi tel_ | ‘18’
+4     | _paŋ | _lama-ta mi paŋ_ | ‘9’ |   _lāmu-ru mi paŋ_ | ‘14’  |  _lamo-ro ma-ta mi paŋ_ | ‘19’
 
-                                    base-20
-  20s: 20                                 40
-  0    tomō-ta                      ‘20’   tomtō-ru                      ‘40’
-  1    tomō-ta mi ta                ‘21’ tomtō-ru mi ta                  ‘41’
-  2    tomō-ta mi ru                ‘22’ tomtō-ru mi ru                  ‘42’
-  3    tomō-ta mi tel               ‘23’ tomtō-ru mi tel                 ‘43’
-  4    tomō-ta mi paŋ               ‘24’ tomtō-ru mi paŋ                 ‘44’
-  0    tomō-ta lama-ta              ‘25’ tomtō-ru lama-ta                ‘45’
-  1    tomō-ta lama-ta mi ta        ‘26’ tomtō-ru lama-ta mi ta          ‘46’
-  2    tomō-ta lama-ta mi ru        ‘27’ tomtō-ru lama-ta mi ru          ‘47’
-  3    tomō-ta lama-ta mi tel       ‘28’ tomtō-ru lama-ta mi tel         ‘48’
-  4    tomō-ta lama-ta mi paŋ       ‘29’ tomtō-ru lama-ta mi paŋ         ‘49’
-  0    tomō-ta lāmu-ru              ‘30’ tomtō-ru lāmu-ru                ‘50’
-  1    tomō-ta lāmu-ru mi ta        ‘31’ tomtō-ru lāmu-ru mi ta          ‘51’
-  2    tomō-ta lāmu-ru mi ru        ‘32’ tomtō-ru lāmu-ru mi ru          ‘52’
-  3    tomō-ta lāmu-ru mi tel       ‘33’ tomtō-ru lāmu-ru mi tel         ‘53’
-  4    tomō-ta lāmu-ru mi paŋ       ‘34’ tomtō-ru lāmu-ru mi paŋ         ‘54’
-  0    tomō-ta lamo-ro-ma-ta        ‘35’ tomtō-ru lamo-ro-ma-ta          ‘55’
-  1    tomō-ta lamo-ro-ma-ta mi ta  ‘36’ tomtō-ru lamo-ro-ma-ta mi ta    ‘56’
-  2    tomō-ta lamo-ro-ma-ta mi ru ‘37’ tomtō-ru lamo-ro-ma-ta mi ru     ‘57’
-  3    tomō-ta lamo-ro-ma-ta mi tel ‘38’ tomtō-ru lamo-ro-ma-ta mi tel   ‘58’
-  4    tomō-ta lamo-ro ma-ta mi paŋ ‘39’ tomtō-ru lamo-ro ma-ta mi paŋ   ‘59’
+: Table 15.3 b)   Cyclicity in Mangap numerals (Bugenhagen 1995:147–148): base-20
+
+__table__
+  20s:| 20                           |      |  40                             |
+  0   | _tomō-ta_                      | ‘20’ | _tomtō-ru_                      | ‘40’
+  1   | _tomō-ta mi ta_                | ‘21’ | _tomtō-ru mi ta_                  | ‘41’
+  2   | _tomō-ta mi ru_                | ‘22’ | _tomtō-ru mi ru_                  | ‘42’
+  3   | _tomō-ta mi tel_               | ‘23’ | _tomtō-ru mi tel_                 | ‘43’
+  4   | _tomō-ta mi paŋ_               | ‘24’ | _tomtō-ru mi paŋ_                 | ‘44’
+  0   | _tomō-ta lama-ta_              | ‘25’ | _tomtō-ru lama-ta_                | ‘45’
+  1   | _tomō-ta lama-ta mi ta_        | ‘26’ | _tomtō-ru lama-ta mi ta_          | ‘46’
+  2   | _tomō-ta lama-ta mi ru_        | ‘27’ | _tomtō-ru lama-ta mi ru_          | ‘47’
+  3   | _tomō-ta lama-ta mi tel_       | ‘28’ | _tomtō-ru lama-ta mi tel_         | ‘48’
+  4   | _tomō-ta lama-ta mi paŋ_       | ‘29’ | _tomtō-ru lama-ta mi paŋ_         | ‘49’
+  0   | _tomō-ta lāmu-ru_              | ‘30’ | _tomtō-ru lāmu-ru_                | ‘50’
+  1   | _tomō-ta lāmu-ru mi ta_        | ‘31’ | _tomtō-ru lāmu-ru mi ta_          | ‘51’
+  2   | _tomō-ta lāmu-ru mi ru_        | ‘32’ | _tomtō-ru lāmu-ru mi ru_          | ‘52’
+  3   | _tomō-ta lāmu-ru mi tel_       | ‘33’ | _tomtō-ru lāmu-ru mi tel_         | ‘53’
+  4   | _tomō-ta lāmu-ru mi paŋ_       | ‘34’ | _tomtō-ru lāmu-ru mi paŋ_         | ‘54’
+  0   | _tomō-ta lamo-ro-ma-ta_        | ‘35’ | _tomtō-ru lamo-ro-ma-ta_          | ‘55’
+  1   | _tomō-ta lamo-ro-ma-ta mi ta_  | ‘36’ | _tomtō-ru lamo-ro-ma-ta mi ta_    | ‘56’
+  2   | _tomō-ta lamo-ro-ma-ta mi ru_  | ‘37’ | _tomtō-ru lamo-ro-ma-ta mi ru_    |  ‘57’
+  3   | _tomō-ta lamo-ro-ma-ta mi tel_ | ‘38’ | _tomtō-ru lamo-ro-ma-ta mi tel_   | ‘58’
+  4   | _tomō-ta lamo-ro ma-ta mi paŋ_ | ‘39’ | _tomtō-ru lamo-ro ma-ta mi paŋ_   | ‘59’
 
 522 Malcolm Ross
 
@@ -25059,48 +25058,61 @@ fives: 0 5                      10                    15
 Another NNG language, Tuam, has a base-5-10-20 system, as Table 15.4 shows. Whereas the
 base-5 matrix in Mangap (Table 15.3) breaks off at 19, the base-5 matrix in Tuam (Table
 15.4) breaks off at 9, as the next base, 10, intervenes, as in Daakaka. Notice that the form for
-‘10’, saŋavul, reflects POc *saŋapuluq (§14.4.5.1). However, the 20 base, Tuam tamōt-,
-resembles Mangap tomō-, both in meaning ‘person’ and in hinting at an earlier digit tally
+‘10’, _saŋavul_, reflects POc _*saŋapuluq_ (§14.4.5.1). However, the 20 base, Tuam _tamōt-_,
+resembles Mangap _tomō-_, both in meaning ‘person’ and in hinting at an earlier digit tally
 system.
 
-: Table 15.4        Cyclicity in Tuam numerals (Bugenhagen 2011)
+: Table 15.4 a)       Cyclicity in Tuam numerals (Bugenhagen 2011): base-5
 
 __table__
-                                                                      base-10
-                                                         tens:   10
-                                                         0       saŋavul            ‘10’
-                     base-5                              1       saŋavul ve ēz      ‘11’
-    fives:   0             5                             2       saŋavul ve ru      ‘12’
-    0        —      —      līm           ‘5’             3       saŋavul ve tol     ‘13’
-    1        ēz     ‘1’    līm ve ēz     ‘6’             4       saŋavul ve pāŋ     ‘14’
-    2        ru     ‘2’    līm ve ru     ‘7’             0       saŋavul ve līm     ‘15’
-    3        tol    ‘3’    līm ve tol    ‘8’             1       saŋavul līm ve ēz ‘16’
-    4        pāŋ    ‘4’    līm ve pāŋ    ‘9’             2       saŋavul līm ve ru ‘17’
-                                                         3       saŋavul līm ve tol ‘18’
-                                                         4       saŋavul līm ve pāŋ ‘19’
+    fives: |  0    |      |   5           |
+    0      |  —      |  —   |   _līm_         |  ‘5’
+    1      |  _ēz_   |  ‘1’ |   _līm ve ēz_   |  ‘6’
+    2      |  _ru_   |  ‘2’ |   _līm ve ru_   |  ‘7’
+    3      |  _tol_  |  ‘3’ |   _līm ve tol_  |  ‘8’
+    4      |  _pāŋ_  |  ‘4’ |   _līm ve pāŋ_  |  ‘9’
 
-                                        base-20
-    20s: 20                                   40
-    0     tamōt-ē                       ‘20’    tamōt ru                               ‘40’
-    1     tamōt-ē ve ēz                 ‘21’    tamōt ru ve ēz                         ‘41’
-    2     tamōt-ē ve ru                 ‘22’    tamōt ru ve ru                         ‘42’
-    3     tamōt-ē ve tol                ‘23’    tamōt ru ve tol                        ‘43’
-    4     tamōt-ē ve pāŋ                ‘24’    tamōt ru ve pāŋ                        ‘44’
-    0     tamōt-ē ve līm                ‘25’    tamōt ru ve līm                        ‘45’
-    1     tamōt-ē līm ve ēz             ‘26’    tamōt ru līm ve ēz                     ‘46’
-    2     tamōt-ē līm ve ru             ‘27’    tamōt ru līm ve ru                     ‘47’
-    3     tamōt-ē līm ve tol            ‘28’    tamōt ru līm ve tol                    ‘48’
-    4     tamōt-ē līm ve pāŋ            ‘29’    tamōt ru līm ve pāŋ                    ‘49’
-    0     tamōt-ē ve saŋavul            ‘30’    tamōt ru ve saŋavul                    ‘50’
-    1     tamōt-ē ve saŋavul ve ēz      ‘31’    tamōt ru ve saŋavul ve ēz              ‘51’
-    2     tamōt-ē ve saŋavul ve ru      ‘32’    tamōt ru ve saŋavul ve ru              ‘52’
-    3     tamōt-ē ve saŋavul ve tol     ‘33’    tamōt ru ve saŋavul ve tol             ‘53’
-    4     tamōt-ē ve saŋavul ve pāŋ     ‘34’    tamōt ru ve saŋavul ve pāŋ             ‘54’
-    0     tamōt-ē ve saŋavul ve līm     ‘35’    tamōt ru ve saŋavul ve līm             ‘55’
-    1     tamōt-ē ve saŋavul līm ve ēz ‘36’     tamōt ru ve saŋavul līm ve ēz          ‘56’
-    2     tamōt-ē ve saŋavul līm ve ru ‘37’     tamōt ru ve saŋavul līm ve ru          ‘57’
-    3     tamōt-ē ve saŋavul līm ve tol ‘38’    tamōt ru ve saŋavul līm ve tol         ‘58’
-    4     tamōt-ē ve saŋavul līm ve pāŋ ‘39’    tamōt ru ve saŋavul līm ve pāŋ         ‘59’
+
+
+: Table 15.4 b)       Cyclicity in Tuam numerals (Bugenhagen 2011): base-10
+
+__table__
+            tens: |  10                 |
+            0     |  _saŋavul_            | ‘10’
+            1     |  _saŋavul ve ēz_      | ‘11’
+            2     |  _saŋavul ve ru_      | ‘12’
+            3     |  _saŋavul ve tol_     | ‘13’
+            4     |  _saŋavul ve pāŋ_     | ‘14’
+            0     |  _saŋavul ve līm_     | ‘15’
+            1     |  _saŋavul līm ve ēz_  | ‘16’
+            2     |  _saŋavul līm ve ru_  | ‘17’
+            3     |  _saŋavul līm ve tol_ | ‘18’
+            4     |  _saŋavul līm ve pāŋ_ | ‘19’
+
+: Table 15.4 c)  Cyclicity in Tuam numerals (Bugenhagen 2011): base-20
+
+__table__
+    20s: | 20                            |       |  40                                |
+    0    | _tamōt-ē_                       | ‘20’  |   _tamōt ru_                         |       ‘40’
+    1    | _tamōt-ē ve ēz_                 | ‘21’  |   _tamōt ru ve ēz_                   |       ‘41’
+    2    | _tamōt-ē ve ru_                 | ‘22’  |   _tamōt ru ve ru_                   |       ‘42’
+    3    | _tamōt-ē ve tol_                | ‘23’  |   _tamōt ru ve tol_                  |       ‘43’
+    4    | _tamōt-ē ve pāŋ_                | ‘24’  |   _tamōt ru ve pāŋ_                  |       ‘44’
+    0    | _tamōt-ē ve līm_                | ‘25’  |   _tamōt ru ve līm_                  |       ‘45’
+    1    | _tamōt-ē līm ve ēz_             | ‘26’  |   _tamōt ru līm ve ēz_               |       ‘46’
+    2    | _tamōt-ē līm ve ru_             | ‘27’  |   _tamōt ru līm ve ru_               |       ‘47’
+    3    | _tamōt-ē līm ve tol_            | ‘28’  |   _tamōt ru līm ve tol_              |       ‘48’
+    4    | _tamōt-ē līm ve pāŋ_            | ‘29’  |   _tamōt ru līm ve pāŋ_              |       ‘49’
+    0    | _tamōt-ē ve saŋavul_            | ‘30’  |   _tamōt ru ve saŋavul_              |       ‘50’
+    1    | _tamōt-ē ve saŋavul ve ēz_      | ‘31’  |   _tamōt ru ve saŋavul ve ēz_        |       ‘51’
+    2    | _tamōt-ē ve saŋavul ve ru_      | ‘32’  |   _tamōt ru ve saŋavul ve ru_        |       ‘52’
+    3    | _tamōt-ē ve saŋavul ve tol_     | ‘33’  |   _tamōt ru ve saŋavul ve tol_       |       ‘53’
+    4    | _tamōt-ē ve saŋavul ve pāŋ_     | ‘34’  |   _tamōt ru ve saŋavul ve pāŋ_       |       ‘54’
+    0    | _tamōt-ē ve saŋavul ve līm_     | ‘35’  |   _tamōt ru ve saŋavul ve līm_       |       ‘55’
+    1    | _tamōt-ē ve saŋavul līm ve ēz_  | ‘36’  |   _tamōt ru ve saŋavul līm ve ēz_    |       ‘56’
+    2    | _tamōt-ē ve saŋavul līm ve ru_  | ‘37’  |   _tamōt ru ve saŋavul līm ve ru_    |       ‘57’
+    3    | _tamōt-ē ve saŋavul līm ve tol_ | ‘38’  |   _tamōt ru ve saŋavul līm ve tol_   |       ‘58’
+    4    | _tamōt-ē ve saŋavul līm ve pāŋ_ | ‘39’  |   _tamōt ru ve saŋavul līm ve pāŋ_   |       ‘59’
 
                                                                                            Digit tallying 523
 
@@ -25108,8 +25120,8 @@ __table__
 15.4.4 Verbalisations of tallying
 
 The four systems described above—base-10 and the three base-5+ types—almost exhaust the
-system types in the digit tally areas. They correspond to the terms used by Lynch (2009,
-2016b), respectively decimal, imperfect decimal (with the proviso above), quinary and mixed.
+system types in the digit tally areas. They correspond to the terms used by Lynch (2009, 2016b),
+respectively decimal, imperfect decimal (with the proviso above), quinary and mixed.
 Two languages have a base-4-20-40 system, but this is attributed to infiltration by
 enumerative classifiers, not to digit tallying (§14.6.3).
 
@@ -25119,26 +25131,27 @@ digit tally area appear not to have a numeral system in this sense, but rather a
 verbalisations used while tallying. Their characteristics (and not all have all characteristics)
 are:
 
-1)       a. there are terms only up to 20;
-         b. beyond the lowest numerals, usually 1–4 but sometimes 1–2, numerals tend to be
-            phrases that indicate which fingers and toes have been tallied; they are thus
-            sometimes quite long, or are obvious abbreviations of longer phrases;
-         c. the term for 20 is also phrasal, and typically declares that all fingers and all toes have
-            been tallied;
-         d. because the terms are not fully conventionalised, there is sometimes more than one
-            phrasal expression in use for certain numbers;
-         e. tallying has not yet accommodated to numeral system conventions (see below).
+__block__
+1) a. there are terms only up to 20;
+   b. beyond the lowest numerals, usually 1–4 but sometimes 1–2, numerals tend to be
+      phrases that indicate which fingers and toes have been tallied; they are thus
+      sometimes quite long, or are obvious abbreviations of longer phrases;
+   c. the term for 20 is also phrasal, and typically declares that all fingers and all toes have
+      been tallied;
+   d. because the terms are not fully conventionalised, there is sometimes more than one
+      phrasal expression in use for certain numbers;
+   e. tallying has not yet accommodated to numeral system conventions (see below).
 
    Table 15.5 shows the set of Yalu (NNG) terms, collected by Holzknecht in the late 1970s.
 They are typical of sets of terms in Markham Valley languages. All terms except 1 and 2 are
 phrasal, including 20, which tells the listener that the digits of both hands and both feet have
 been counted. There are two terms for 20: the phrasal expression and a word meaning ‘whole
-man’. This seems to be the subject of ongoing conventionalisation, in that arcamo is a single
+man’. This seems to be the subject of ongoing conventionalisation, in that _arcamo_ is a single
 word, and could be used to form higher terms like 30, 40 and so on.
 
-   The only numeral words are uruc ‘1’ and siruʔ ‘2’, which have cognates throughout the
-Markham family (Holzknecht 1989:128). From these are created 3, siruʔ aruc, and 4, siruʔ
-siruʔ. Holzknecht (1989:127) writes:
+   The only numeral words are _uruc_ ‘1’ and _siruʔ_ ‘2’, which have cognates throughout the
+Markham family (Holzknecht 1989:128). From these are created 3, _siruʔ aruc_, and 4,
+_siruʔ siruʔ_. Holzknecht (1989:127) writes:
 
 __blockquote__
         All the languages of the Markham family except Labu have binary number systems,
@@ -25148,7 +25161,7 @@ __blockquote__
         that means ‘a whole man’.
 
 However, it is not strictly correct to call this system “binary”, as a binary system requires that
-a new base intervenes at 4.7 The concept of a “base” requires that the next higher base (or the
+a new base intervenes at 4.[7] The concept of a “base” requires that the next higher base (or the
 highest conventional numeral) be a multiple of the lower base, and 5, the next higher base, is
 not a multiple of 2 (but 4 would be). Thus 2 is not a base, but simply an element from which
 3 and 4 are built in each quinary round (Hammarström 2008:291–292). Tallying seems to
@@ -25157,61 +25170,46 @@ becoming a conventionalised numeral system. For convenience’s sake such a set 
 terms is labelled base-5-(20), the parentheses indicating that 20 is the highest numeral in the
 system and not itself a base.
 
-[7]  Just as in a decimal system the next base is 10 × 10 = 100, so in a binary system the next base is also BASE ×
-     BASE, i.e. 2 × 2 = 4.
+[7]  Just as in a decimal system the next base is 10 × 10 = 100, so in a binary system the next
+base is also BASE × BASE, i.e. 2 × 2 = 4.
 
 524 Malcolm Ross
 
-: Table 15.5          Cyclicity in Yalu numerals (Holzknecht 1998)
+: Table 15.5          Cyclicity in Yalu numerals (Holzknecht 1998): base-5
 
 __table__
-                                                   base-5
-fives:              5                              10                         15
-                      pagi-g lefe-n
-                                  a
-                                                        pagi-g siruʔ              pagi-g siruʔ ofoŋ menen
-0        —                                         ‘5’                       ‘10’                         ‘15’
-                      hand-my half-its                  hand-my two               hand-my two, foot one
-                      pagi-g lefe-n nicin uruc          pagi-g siruʔ nicin
-                                                                                  pagi-g siruʔ ofoŋ menen
-1       uruc          hand-my half-its and ‘6’ uruc hand-my two ‘11’                                      ‘16’
-                                                                                  nicin uruc
-                      one                               and one
-                      pagi-g lefe-n                     pagi-g siruʔ nicin        pagi-g siruʔ ofoŋ menen
-2       siruʔ                                      ‘7’                       ‘12’                         ‘17’
-                      nicin siruʔ                       siruʔ                     nicin siruʔ
-                      pagi-g lefe-n                     pagi-g siruʔ nicin        pagi-g siruʔ ofoŋ menen
-3       siruʔ aruc                                 ‘8’                       ‘13’                         ‘18’
-                      nicin siruʔ aruc                  siruʔ aruc                nicin siruʔ aruc
-                      pagi-g lefe-n                     pagi-g siruʔ nicin        pagi-g siruʔ ofoŋ menen
-4       siruʔ siruʔ                                ‘9’                       ‘14’                         ‘19’
-                      nicin siruʔ siruʔ                 siruʔ siruʔ               nicin siruʔ siruʔ
-a
-  The word lefe-n is glossed ‘half’, but in this context it probably means ‘one pagi-g siruʔ ofoŋ siruʔ
-of a pair’.                                                                       hand-my two, foot two, ‘20’
-                                                                                  or arcamo ‘whole man’
+fives: |     | 5                                  |     | 10                       |      | 15 |
+0      |  —  | _pagi-g lefe-n_¹ hand-my half-its | ‘5’ | _pagi-g siruʔ_ hand-my two | ‘10’ | _pagi-g siruʔ ofoŋ menen_  hand-my two, foot one | ‘15’
+1      | _uruc_ | _pagi-g lefe-n nicin uruc_  hand-my half-its and one | ‘6’ | _pagi-g siruʔ nicin uruc_ hand-my two and one | ‘11’ | _pagi-g siruʔ ofoŋ menen nicin uruc_  | ‘16’
+2      | _siruʔ_  | _pagi-g lefe-n nicin siruʔ_ |‘7’ | _pagi-g siruʔ nicin siruʔ_ | ‘12’ | pagi-g siruʔ ofoŋ menen nicin siruʔ |‘17’
+3      | _siruʔ aruc_ | _pagi-g lefe-n nicin siruʔ aruc_ | ‘8’ | _pagi-g siruʔ nicin siruʔ aruc_ | ‘13’ | _pagi-g siruʔ ofoŋ menen nicin siruʔ aruc_ | ‘18’
+4      | _siruʔ siruʔ_ | _pagi-g lefe-n nicin siruʔ siruʔ_ | ‘9’ | _pagi-g siruʔ nicin siruʔ siruʔ_ | ‘14’ | _pagi-g siruʔ ofoŋ menen nicin siruʔ siruʔ_ |  ‘19’
+      |   |   |   |                     |     | _pagi-g siruʔ ofoŋ siruʔ_ hand-my two, foot two, or _arcamo_ ‘whole man’ | ‘20’
+
+¹The word lefe-n is glossed ‘half’, but in this context it probably means ‘one of a pair’.
 
    The use of 1 and 2 to create other lower numerals is taken furthest in Roinji (NNG)
 (Stober 2011, including data from Lincoln 1978). Data are incomplete, but the language
-counts from 1 to 9 with additive combinations of tenina ‘1’ , takesi ‘add 1 (?)’ and lua[zua]
-‘2’, such that 9 is luazua luazua luazua luazua takesi. 10 is nima-ra lua [hand-P:1INC.PL] ‘our
-(INC) 2 hands’, and 20 limu tenina dima-na kee-na [man one hand-P:3SG foot-P:3SG] ‘one
+counts from 1 to 9 with additive combinations of _tenina_ ‘1’, _takesi_ ‘add 1 (?)’ and _lua[zua]_
+‘2’, such that 9 is _luazua luazua luazua luazua takesi_. 10 is _nima-ra lua_ [hand-P:1INC.PL] ‘our
+(INC) 2 hands’, and 20 _limu tenina dima-na kee-na_ [man one hand-P:3SG foot-P:3SG] ‘one
 man’s hands and feet’. No numerals from 11-19 have been recorded. To the extent that this is
 a system, it is base-10-(20).
 
-   Besides the Markham languages and Roinji there are several other languages with base-5-
-(20) numerals, all of them within NNG or PT. They are recorded for Matukar, Bing (both
+   Besides the Markham languages and Roinji there are several other languages with base-5-(20)
+numerals, all of them within NNG or PT. They are recorded for Matukar, Bing (both
 NNG) and Bwaidoka (PT). The set of terms in Matukar is interesting for the fact that some
 numbers can be described in more than one way, i.e. they have yet to be conventionalised.
 Terms for 20 include (Anderson et al. 2010; Barth 2012):
 
-2)       a. numa-u gudu-n yawa-yawa
-            hand-my nape-its 4
-            ‘4 wrists’, i.e. 20
-         b. ne-u      da numa-u da
+__igt__
+2)  Matukar (NNG)
+     a. numa-u  gudu-n   yawayawa
+        hand-my nape-its 4
+            ‘4 wrists’ (i.e. 20)
+         b. ne-u    da   numa-u  da
             foot-my with hand-my with
-            ‘my feet and my hands’, i.e. 20 digits
-
+            ‘my feet and my hands’ (i.e. 20 digits)
          c. ne-u      aru
             foot-my two
            ‘my two feet’ (abbreviated from ‘my two feet and my two hands’?)
@@ -25223,49 +25221,49 @@ Barth states that this terminology does not extend beyond 20.
 
    Closely related to Matukar is Takia. Its terminology is clearly based in finger tallying
 because, unlike other NNG languages, it uses the names of fingers for 5–10. The term for 5,
-kafe-n, means ‘its thumb’ (‘its’ because the full form was bani-g kafe-n [hand-my thumb-its]
+_kafe-n_, means ‘its thumb’ (‘its’ because the full form was _bani-g kafe-n_ [hand-my thumb-its]
 ‘my hand’s thumb’), and alludes to Takia speakers counting four fingers, then their thumb (cf
 §15.2), i.e. the thumb is the fifth digit counted. Terms for 6-9 are the five fingers of the other
 hand from the little finger to the thumb. However, the terminology has a second set of terms
-for 6-9, using kafe-n ‘thumb’ as a base and counting ‘thumb plus one’, ‘thumb plus two’ and
+for 6-9, using _kafe-n_ ‘thumb’ as a base and counting ‘thumb plus one’, ‘thumb plus two’ and
 so on to 10, ‘2 thumbs’. The alternative terminology suggests that the system is (or was)
-being conventionalised, such that kafe-n is treated as the numeral 5 and the added numerals
-are a second round of 1–4. The word bani-g ‘my hand’ then stands in for ‘ten’ throughout the
+being conventionalised, such that _kafe-n_ is treated as the numeral 5 and the added numerals
+are a second round of 1–4. The word _bani-g_ ‘my hand’ then stands in for ‘ten’ throughout the
 teens. The term for 20, on the other hand, is still phrasal. Thus Takia appears to have (had) a
 nascent base 5-10-(20) system.
 
-: Table 15.6         Takia numeral terms (Waters 1996)8
+: Table 15.6         Takia numeral terms (Waters 1996)[8]
 
 __table__
-                numeral term                         morpheme-by-morpheme gloss
-                kisaek, kaek                    ‘1’ one
-                uraru                           ‘2’ two
-                utol                            ‘3’ three
-                iwo-iwo                         ‘4’ pair-pair
-                kafe-n(=da)                     ‘5’ thumb-its(=with)
-                suku-n(=da)                     ‘6’ little.finger-its(=with)
-                balab                           ‘7’ ring.finger
-                ari abe-n                       ‘8’ wristband place-its
-                bemfufu                         ‘9’ index.finger
-                kafe-n=dad kaek                 ‘6’ thumb-its(=with.them) one
-                kafe-n=dad uraru                ‘7’ thumb-its(=with.them) two
-                kafe-n=dad utol                 ‘8’ thumb-its(=with.them) three
-                kafe-n=dad iwoiwo               ‘9’ thumb-its(=with.them) four
-                bani-g ananaem                  ‘10’ hand-my both.sides
-                kafe-n uraru                    ‘10’ thumb-its two
-                bani-g ananaem kisaek           ‘11’ hand-my both.sides one
-                bani-g ananaem uraru            ‘12’
-                bani-g ananaem utol             ‘13’
-                bani-g ananaem iwoiwo           ‘14’
-                bani-g ananaem kafen            ‘15’
-                bani-g ananaem sukun da         ‘16’
-                bani-g ananaem balab            ‘17’
-                bani-g ananaem ali aben         ‘18’
-                bani-g ananaem bem fufu         ‘19’
-                bani ŋie=da tumani              ‘20’ hand.your foot.your=with join
+                numeral term                  |       | morpheme-by-morpheme gloss
+                _kisaek_, _kaek_                  |  ‘1’  | one
+                _uraru_                         |  ‘2’  | two
+                _utol_                          |  ‘3’  | three
+                _iwo-iwo_                       |  ‘4’  | pair-pair
+                _kafe-n(=da)_                   |  ‘5’  | thumb-its(=with)
+                _suku-n(=da)_                   |  ‘6’  | little.finger-its(=with)
+                _balab_                         |  ‘7’  | ring.finger
+                _ari abe-n_                     |  ‘8’  | wristband place-its
+                _bemfufu_                       |  ‘9’  | index.finger
+                _kafe-n=dad kaek_               |  ‘6’  | thumb-its(=with.them) one
+                _kafe-n=dad uraru_              |  ‘7’  | thumb-its(=with.them) two
+                _kafe-n=dad utol_               |  ‘8’  | thumb-its(=with.them) three
+                _kafe-n=dad iwoiwo_             |  ‘9’  | thumb-its(=with.them) four
+                _bani-g ananaem_                |  ‘10’ | hand-my both.sides
+                _kafe-n uraru_                  |  ‘10’ | thumb-its two
+                _bani-g ananaem kisaek_         |  ‘11’ | hand-my both.sides one
+                _bani-g ananaem uraru_          |  ‘12’ |
+                _bani-g ananaem utol_           |  ‘13’ |
+                _bani-g ananaem iwoiwo_         |  ‘14’ |
+                _bani-g ananaem kafen_          |  ‘15’ |
+                _bani-g ananaem sukun da_       |  ‘16’ |
+                _bani-g ananaem balab_          |  ‘17’ |
+                _bani-g ananaem ali aben_       |  ‘18’ |
+                _bani-g ananaem bem fufu_       |  ‘19’ |
+                _bani ŋie=da tumani_            |  ‘20’ | hand.your foot.your=with join
 
-[8] The terms in this table are drawn from Waters (1996), but corrected from Waters (1998). The morpheme-by-
-    morpheme glosses are mine, based on Waters’ notes.
+[8] The terms in this table are drawn from Waters (1996), but corrected from Waters (1998).
+The morpheme-by-morpheme glosses are mine, based on Waters’ notes.
 
 526 Malcolm Ross
 
@@ -25279,18 +25277,18 @@ or use a complex expression meaning ‘both hands and both feet’. Not only the
 system, then, but also the sources of the numerals for 5 and 20, reflect a digit-tallying origin
 in quite an obvious way.
 
-   Where 5 is a reflex of POc *lima, it is difficult to assess whether this reflects very ancient,
-pre-Oceanic finger tallying or the Oceanic fact that reflexes of *lima also mean ‘hand’. But
+   Where 5 is a reflex of POc _*lima_, it is difficult to assess whether this reflects very ancient,
+pre-Oceanic finger tallying or the Oceanic fact that reflexes of _*lima_ also mean ‘hand’. But
 where 5 reflects some other term for ‘hand’, i.e. a post-POc innovation, the probability that it
 arose as part of a tally system is high. There are four sets of cases where this applies.
 
-   The first case consists of Seimat te-pani-m and Wuvulu ai-pani, both reflecting Proto W
-Admiralty *tai pani ‘one hand’ (< POc *tai ‘one’, §14.4.1.3.1; *banic ‘wing, fin (probably
+   The first case consists of Seimat _te-pani-m_ and Wuvulu _ai-pani_, both reflecting Proto W
+Admiralty _*tai pani_ ‘one hand’ (< POc _*tai_ ‘one’, §14.4.1.3.1; _*banic_ ‘wing, fin (probably
 pectoral); (?) arm, hand’, vol.5:162). Seimat has a base-5-20 system, Wuvulu an unusual
 base-10 system (§14.6.3: Table 14.10).
 
-   The second case reflects PWOc *baqe- ‘wing’, which at least in the Huon Gulf languages
-(marked NNG below) had come to mean ‘hand’. These languages employ a reflex of *baqe-
+   The second case reflects PWOc _*baqe-_ ‘wing’, which at least in the Huon Gulf languages
+(marked NNG below) had come to mean ‘hand’. These languages employ a reflex of _*baqe-_
 for 5. In each instance an added morpheme indicates that only one hand is involved. The first
 four languages belong to the Markham group of no-base or base-5-20 languages, their
 analysis depending on data not currently available (§15.4.4). Kaiwa and Hote are base-5-20
@@ -25324,14 +25322,14 @@ PWOc *baqe ‘wing, (?) hand’
 
    The third case is different in that it has to do with fingers rather than a hand. Suauic (PT)
 languages have a set of lower numerals that draw from a pool that includes reflexes of POc
-numerals as well as forms from an unknown source. Thus for 5 Proto Suauic had *nima (<
-POc *lima) and *valigigi (reflected as Bohutu faligigi, Suau haligigi and Tubetube valigigi).
-Proto Suauic *valigigi has a partial etymology, in that reflexes of *gigi mean ‘digits: fingers
-and toes’ (Russ Cooper, pers. comm., 11 March 2018). The term *vali-gigi perhaps meant
+numerals as well as forms from an unknown source. Thus for 5 Proto Suauic had _*nima_ (<
+POc _*lima_) and _*valigigi_ (reflected as Bohutu _faligigi_, Suau _haligigi_ and Tubetube _valigigi_).
+Proto Suauic _*valigigi_ has a partial etymology, in that reflexes of _*gigi_ mean ‘digits: fingers
+and toes’ (Russ Cooper, pers. comm., 11 March 2018). The term _*vali-gigi_ perhaps meant
 ‘five fingers’ or ‘all the fingers’. Suauic languages have base-5-20 or base-5-10-20 systems.
 
-    Possible cognates are Wogeo kʷik, kiki- ‘four’ (§14.6.3: Table 14:11) and Proto Kimbe
-*gigi ‘count, tally’, which perhaps originally meant ‘to count on one’s fingers’.
+    Possible cognates are Wogeo _kʷik_, _kiki-_ ‘four’ (§14.6.3: Table 14:11) and Proto Kimbe
+_*gigi_ ‘count, tally’, which perhaps originally meant ‘to count on one’s fingers’.
 
 <
 Proto Kimbe *gigi ‘count, tally’
@@ -25341,11 +25339,11 @@ Proto Kimbe *gigi ‘count, tally’
   MM: Meramera             gi                 ‘count’
 >
 
-   The fourth case is Takia (NNG) kafe-n [thumb-P:3SG], also used for ‘five’, and consistent
+   The fourth case is Takia (NNG) _kafe-n_ [thumb-P:3SG], also used for ‘five’, and consistent
 with a tally that first counts four fingers.
 
    Below are listed a sample of terms for 20 that literally mean ‘(2) hands and (2) feet’, along
-with morpheme-by-morpheme glosses. In the two PT phrases, fafa- ‘side’ is used for ‘one of
+with morpheme-by-morpheme glosses. In the two PT phrases, _fafa-_ ‘side’ is used for ‘one of
 a pair’, which is followed by ‘2’, giving ‘both of a pair’.
 
 __formgroup__
@@ -25364,9 +25362,9 @@ __formgroup__
 Of these languages all have a base-5-20 system except Roinji (base-2-20), Bwaidoga and
 Xârâcùù (both base-5-10-20).
 
-   Two of the languages above, Roinji and Xârâcùù, specify ‘hands and feet of one man/
-person’. A far larger number of languages with a 20 base abbreviate this to ‘one man’ or ‘one
-person’. Examples are Mangap tomō-ta and Tuam tamōt-ē, both [person-one] (Tables 15.3
+   Two of the languages above, Roinji and Xârâcùù, specify ‘hands and feet of one man/person’.
+A far larger number of languages with a 20 base abbreviate this to ‘one man’ or ‘one
+person’. Examples are Mangap _tomō-ta_ and Tuam _tamōt-ē_, both [person-one] (Tables 15.3
 and 15.4) and the following terms for 20:
 
 __formgroup__
@@ -25416,18 +25414,18 @@ __formgroup__
    Digit-tallying has effects on specific numerals in specific 3SG that go beyond those noted
 above. They affect the numerals shown in Table 15.7.
 
-   The numeral kavitmit ‘5’ in Nalik of New Ireland is analysed as ka-vit-mit [3-NEG-hand]
+   The numeral _kavitmit_ ‘5’ in Nalik of New Ireland is analysed as _ka-vit-mit_ [3-NEG-hand]
 ‘no hand’, reflecting the practice of putting the fingers down as one counts: reaching 5, there
-are no fingers showing, hence ‘no hand’. In the numerals 6–9, ka-vizik [3-go.down] means ‘it
+are no fingers showing, hence ‘no hand’. In the numerals 6–9, _ka-vizik_ [3-go.down] means ‘it
 goes down’, and refers to the fingers of the hand being lowered (Volker 1998:118).
 
    Lincoln (2010:230) discusses the numerals in Banoni and Piva (MM), a closely related pair
 of Bougainville languages. The hyphenations in Table 15.7 are his, and in 2, 4 and 5 it is the
 morpheme after the hyphen that reflects the POc etymon. The numeral 3 has undergone lexical
-replacement. The numeral 6, bena, at first sight seems to be a lexical replacement for *onom
-‘6’. But it can’t be, as 7 is bena to-m (‘bena 2’) and 8 is bena ka-isa (‘bena 3’). In other
-contexts bena means ‘cross over (to the other side)’, and is here a reference to changing hands
-during counting: 6 is implicitly †bena kadaken ‘cross over (and) one’. The system then falls
+replacement. The numeral 6, _bena_, at first sight seems to be a lexical replacement for _*onom_
+‘6’. But it can’t be, as 7 is _bena to-m_ (‘_bena_ 2’) and 8 is _bena ka-isa_ (‘_bena_ 3’). In other
+contexts _bena_ means ‘cross over (to the other side)’, and is here a reference to changing hands
+during counting: 6 is implicitly †_bena kadaken_ ‘cross over (and) one’. The system then falls
 into place.
 
                                                                                 Digit tallying 529
@@ -25435,37 +25433,30 @@ into place.
 : Table 15.7        Numerals that reflect digit tallying
 
 __table__
-                    Nalik (MM)             Banoni (MM)      Piva (MM)           Kwamera (SV)
-       POc
-                    (base-5-10)            (base-10)        (base-10)           (base-5-20)
-   1   *sa-kai      a-zaɣei                kadaken          kadaken             kʷatia
-   2   *rua         u-ru[a]                tō-m             to-nua              kə-ru
-   3   *tolu        o-rol                  da-pisa          to-pisa             ka-har
-   4   *pat[i]      o-rol-a-vāt            to-vaci          e-vaci              ke-fa
-   5   *lima        ka-vit-mit             ɣi-nima          nīma                kə-rirum
-   6   *onom        ka-vizik-saɣei         bena             e-bena              kə-rirum-kʷatia
-   7   *pitu        ka-vizik-uru[a]        bena to-m        bena to-nua         kə-rirum-kəru
-   8   *walu        ka-vizik-tal           bena ka-pisa     bena to-pisa        kə-rirum-kahar
-   9   *siwa        ka-vizik-fāt           visa             sia                 kə-rirum-kefa
-  10   *sa-ŋapuluq sanaflu                 manoɣa           manoɣa              kə-rirum-kərirum
-                    sanaflu vara           manoɣa tō-m      manoɣa to-nua       iuan u m-iuan u
-  20   *rua-ŋapuluq
-                    urua
-                                                                                Lindstrom & Lynch
-                       Volker 1998         Lincoln 2010     Lincoln 2010
-                                                                                1994
+     | POc | Nalik (MM) (base-5-10) | Banoni (MM) (base-10) | Piva (MM) (base-10) | Kwamera (SV) (base-5-20)
+   1 | _*sa-kai_      | _a-zaɣei_            | _kadaken_      |  _kadaken_        | _kʷatia_
+   2 | _*rua_         | _u-ru[a]_            | _tō-m_         |  _to-nua_         | _kə-ru_
+   3 | _*tolu_        | _o-rol_              | _da-pisa_      |  _to-pisa_        | _ka-har_
+   4 | _*pat[i]_      | _o-rol-a-vāt_        | _to-vaci_      |  _e-vaci_         | _ke-fa_
+   5 | _*lima_        | _ka-vit-mit_         | _ɣi-nima_      |  _nīma_           | _kə-rirum_
+   6 | _*onom_        | _ka-vizik-saɣei_     | _bena_         |  _e-bena_         | _kə-rirum-kʷatia_
+   7 | _*pitu_        | _ka-vizik-uru[a]_    | _bena to-m_    |  _bena to-nua_    | _kə-rirum-kəru_
+   8 | _*walu_        | _ka-vizik-tal_       | _bena ka-pisa_ |  _bena to-pisa_   | _kə-rirum-kahar_
+   9 | _*siwa_        | _ka-vizik-fāt_       | _visa_         |  _sia_            | _kə-rirum-kefa_
+  10 | _*sa-ŋapuluq_  | _sanaflu_            | _manoɣa_       |  _manoɣa_         | _kə-rirum-kərirum_
+  20 | _*rua-ŋapuluq_ | _sanaflu vara urua_  | _manoɣa tō-m_  |  _manoɣa to-nua_  | _iuan u m-iuan u_
+     |              | Volker 1998        | Lincoln 2010 |  Lincoln 2010       |    Lindstrom & Lynch 1994
 
-    In Kwamera, the numeral of interest is 20, which is a puzzle until iuan u m-iuan u is
+    In Kwamera, the numeral of interest is 20, which is a puzzle until _iuan u m-iuan u_ is
 glossed [not.exist this and-not.exist this]. The description resembles Nalik 5 above, but this
 time it is all fingers and all toes that no longer ‘exist’ because they (or at least the fingers) are
 folded down.
 
     The languages of the Epi-Efate group (NCV) all have a base-5-10 system, but their terms
-for 10 all reflect Proto Epi-Efate *lua-lima [2×5], implying an earlier system in which 10 was
+for 10 all reflect Proto Epi-Efate _*lua-lima_ [2×5], implying an earlier system in which 10 was
 not a base. But the order of its components is unexpected. If it originally meant ‘two fives’,
 then ‘five’ was the noun head and ‘two’ the attribute. Since the regular order in early Oceanic
-was N NML (and still is in Epi-Efate languages), one would expect †*lima-lua rather than *lua-
-lima.
+was N NML (and still is in Epi-Efate languages), one would expect †_*lima-lua_ rather than _*lua-lima_.
 
     We can infer from this material that early Oceanic speakers used digit-tallying. No POc
 etyma involved in a tally system can be reconstructed, but this is not surprising, as a tally
@@ -25489,7 +25480,7 @@ other, and over time hybrid systems came into being.
 
 Map 15.1 shows the distribution of numeral cycles in Oceanic languages of the western
 Pacific. Oceanic languages east of longitude 180˚ are not included: all are Polynesian. Map
-15.2 shows NW Melanesia,9 and Map 15.3 Vanuatu, both on a larger scale. The three maps are
+15.2 shows NW Melanesia,[9] and Map 15.3 Vanuatu, both on a larger scale. The three maps are
 derived from a database of 383 Oceanic languages compiled as part of the research for this
 chapter. Numerals for many more languages are available, but insufficient data are provided to
 determine the cyclicity of their numeral systems.
@@ -25497,24 +25488,27 @@ determine the cyclicity of their numeral systems.
    Among these languages numeral cycles are distributed as in (3). Percentages are rounded to
 the nearest whole number.
 
-3)      Cycle            Number of languages
-        base-10          148       39%
-        base-5-10        130       34%
-        base-5-10-20      43       11%
-        base-5-20         43       11%
-        base-2-20          1         0%
-        base-4-20-40       2         0%
-        base-8-12-24       1         0%
-        base-5             5         1%
-        No base           10         4%
-        Total            383        100%
+3)
+
+__table__
+      Cycle          |  Number | of languages
+        base-10      |    148  |     39%
+        base-5-10    |    130  |     34%
+        base-5-10-20 |     43  |     11%
+        base-5-20    |     43  |     11%
+        base-2-20    |      1  |       0%
+        base-4-20-40 |      2  |       0%
+        base-8-12-24 |      1  |       0%
+        base-5       |      5  |       1%
+        No base      |     10  |       4%
+        Total        |    383  |      100%
 
      These figures gainsay a comment by Bender & Beller (2006:380):
 
 __blockquote__
        These decimal [base-10—MDR] systems still prevail in most languages originating from
-       Proto-Oceanic, the eastern-most branch of Austronesian. With only a small number of
-       exceptions that are not relevant here, their words for the numbers 1 through 9 widely reflect
+       Proto-Oceanic, the eastern-most branch of Austronesian. With _only a small number of_
+       _exceptions_ that are not relevant here, their words for the numbers 1 through 9 widely reflect
        the numerals reconstructed for Proto-Austronesian and Proto-Oceanic, and reflexes of the
        Proto-Oceanic (POC) term for 10. (Italics mine)
 
@@ -25538,13 +25532,15 @@ base-5-10 system, and base-5-10 systems are in the majority in Vanuatu (Map 15.3
 [9] ‘NW Melanesia’ is a convenient abbreviation for ‘New Guinea and the Bismarck Archipelago plus
     Bougainville’.
 
-532 Malcolm Ross
+532 Malcolm Ross
+
+Map 15.1: Distribution of numeral cycles in the SW Pacific
 
 Map 15.2: Distribution of numeral cycles in NW Melanesia
 
                                                                                   Digit tallying 533
 
-                      Map 15.3.      Distribution of numeral cycles in Vanuatu
+Map 15.3: Distribution of numeral cycles in Vanuatu
 
    Languages with a base-5-20 system are found scattered among NNG and PT languages of
 mainland New Guinea, in a clump in southern New Caledonia and the Loyalties, and in
@@ -25553,13 +25549,13 @@ New Ireland) and on Ambrym (NCV), and in the languages of Tanna (SV).
 
 15.7 The origins of base-5+ systems
 
-It is obvious that most base-5+ systems are hybrids, in the sense that a 5- and a 20-base reflect digit-
-tallying, while the numeral morphemes of which they are composed reflect those of the POc
+It is obvious that most base-5+ systems are hybrids, in the sense that a 5- and a 20-base reflect
+digit-tallying, while the numeral morphemes of which they are composed reflect those of the POc
 decimal system.
 
      The POc simple numerals that might survive into a base-5-20 system are, of course, 1–5. Except
 for 20, other base-5-20 numerals are complex and usually contain one or more simple numerals (e.g.
-Mangap lama-ta mi ru [5-1 and 2] ‘7’). The term for 20 is usually ‘a person’, and this is often of POc
+Mangap _lama-ta mi ru_ [5-1 and 2] ‘7’). The term for 20 is usually ‘a person’, and this is often of POc
 ancestry.
 
      How might this blending have occurred? The answer must in some cases refer to language
@@ -25569,12 +25565,12 @@ retained in each language, from a maximum of 4 to a minimum of zero. It is strik
 and New Caledonia are more conservative in this regard than New Guinea and New Britain
 and scattered languages elsewhere in NW Melanesia. Only in NW Melanesia does one find
 languages that retain fewer than three of the four. Since these islands were occupied by
-Papuan speakers when speakers of pre-Oceanic arrived in the Bismarcks,10 whereas Vanuatu
+Papuan speakers when speakers of pre-Oceanic arrived in the Bismarcks,[10] whereas Vanuatu
 and New Caledonia were not, this attrition of POc numerals can be attributed to contact.
 
 4
 
-    Map 15.4
+Map 15.4: Retnention of POc forms for 2, 3, 4 and 5 in base-5-20, base-5-10-20 and base-20 systems
 
                                                                                      Digit tallying 535
 
@@ -25588,18 +25584,17 @@ compensated for by the fact that 54.5 per cent of base-5-20 languages retain thr
 numerals, as against 17.4 per cent in other base-5+ languages. This does not seem to tell us
 anything significant about base-5-20 retentions in comparison with other base-5+ languages.
 
-: Table 15.8 Retentions of POc numerals from 2 to 5 in each base-5+ system, where n is
-                                  the number of languages
+: Table 15.8 Retentions of POc numerals from 2 to 5 in each base-5+ system, where n is the number of languages
 
 __table__
-                              base-5-20    base-5-10-20           base-5-10            Totals
-                               n per cent     n        %            n        %        n          %
-          0 retentions         1       2.3    1       2.2           1       0.7       3         1.4
-          one retention        3       6.8    5     11.1            7       5.2      15         6.8
-          two retentions       3       6.9    4       8.9          12       9.0      19         8.6
-          three retentions    24      54.5   10     22.2           21     15.8       55        24.8
-          four retentions     13      29.5   25     55.6           92     69.2      130        58.6
-          Totals              44     100.0   45 100.0             133     99.9      222       100.2
+                   | base-5-20 |          | base-5-10-20 |   | base-5-10 |     |  Totals |
+                     |     n   | per cent |   n   |      %   |       n |     % |     n   |     %
+   0 retentions      |     1   |    2.3   |  1    |   2.2    |       1 |   0.7 |     3   |    1.4
+   one retention     |     3   |    6.8   |  5    |   11.1   |       7 |   5.2 |    15   |    6.8
+   two retentions    |     3   |    6.9   |  4    |   8.9    |      12 |   9.0 |    19   |    8.6
+   three retentions  |    24   |   54.5   | 10    |   22.2   |      21 |  15.8 |    55   |   24.8
+   four retentions   |    13   |   29.5   | 25    |   55.6   |      92 |  69.2 |   130   |   58.6
+   Totals            |    44   |  100.0   | 45    |  100.0   |     133 |  99.9 |   222   |  100.2
 
     The reason for this is probably that base-5-10-20 and base-5-10 languages have each
 arisen by more than one route. In Vanuatu and New Caledonia these are partly homegrown,
@@ -25608,8 +25603,8 @@ systems.
 
 15.7.1 Are base-5-20 systems hybrids?
 
-In base-5-20 systems the term for 5 is (or is derived from) a term for ‘hand, arm’ (vol.5:160–
-162), the term for 10 is often ‘two hands’, the term for 15 sometimes includes the term for
+In base-5-20 systems the term for 5 is (or is derived from) a term for ‘hand, arm’ (vol.5:160–162),
+the term for 10 is often ‘two hands’, the term for 15 sometimes includes the term for
 ‘foot, leg’ (vol.5:167–168), and the term for 20 is typically ‘man’ or ‘person’ in the sense that
 one had exhausted one person’s digits (§15.5). It is self-evident that these systems, like
 Mangap (§15.4.2), are derived from a digit-tally system like those described in §15.2.
@@ -25629,7 +25624,7 @@ of in-marrying parents or a major language of communication with neighbouring gr
 
    Base-5-20 numeral systems appear to reflect this pattern fairly directly. In many of them
 three or all of 2 to 5 reflect the POc forms reconstructed in Table 14.1, and many of them also
-appear to reflect a POc term for ‘one’.11 That is, the lexicon is drawn from speakers’ heritage
+appear to reflect a POc term for ‘one’.[11] That is, the lexicon is drawn from speakers’ heritage
 language. Their 5- and 20-base structure, on the other hand, reflects their ‘other’ language,
 being a digit-tally system like those found in Papuan languages in various areas of New
 Guinea (Owens & Lean 2018:76–77). In this sense, then, base-5-20 systems are hybrids.
@@ -25642,9 +25637,9 @@ the next section shows.
 15.7.2 The genesis of base-5-10-20 and base-5-10 systems
 
 Map 15.5 shows the sources of terms for 10 in base-5-10+ languages. The numbers
-underlying the map are shown in Table 15.9.12 Terms for 10 that reflect POc *sapuluq or
-*saŋapuluq ‘10’ (§14.4.5.1) are abbreviated here as *puluq. Terms that reflect *rua-lima [two
-hand] ‘10’ are shown separately as they tell another story (see below). Other terms that mean
+underlying the map are shown in Table 15.9.12 Terms for 10 that reflect POc _*sapuluq_ or
+_*saŋapuluq_ ‘10’ (§14.4.5.1) are abbreviated here as _*puluq_. Terms that reflect _*rua-lima_
+[two hand] ‘10’ are shown separately as they tell another story (see below). Other terms that mean
 ‘two hands’ are also shown, as are terms for 10 with an unknown origin, which make up 35
 per cent of the relevant data.
 
@@ -25659,52 +25654,53 @@ played out.
 : Table 15.9 Sources of terms for 10 in base-5-10-20 and base-5-10 languages
 
 __table__
-                                        base                                 Totals
-                                     5-10-20     % base 5-10       % base-5-10+            %
-              *puluq                     15 31.3           67 59.3               82     50.9
-              *rua-lima                   5 10.4            9   8.0              14      8.7
-              ‘two hands’a                8 16.7            0   0.0               8      5.0
-              origin unknown             20 41.7           37 32.7               57     35.4
-              all                        48 100.1         113 100.0             161   100.00
-              a
-                but not *rua-lima.
+                             | base 5-10-20  |    % | base 5-10    |    %  | Totals base-5-10+ |     %
+              _*puluq_       |            15 | 31.3 |           67 | 59.3  |               82   |  50.9
+              _*rua-lima_    |             5 | 10.4 |            9 |  8.0  |               14   |   8.7
+              ‘two hands’¹   |             8 | 16.7 |            0 |  0.0  |                8   |   5.0
+              origin unknown |            20 | 41.7 |           37 | 32.7  |               57   |  35.4
+              all            |            48 | 100.1|          113 | 100.0 |              161   | 100.00
+
+¹but not _*rua-lima_.
 
 
 [11] Terms for ‘one’ are omitted from Table 15.8 because of the difficulties associated with their
      reconstruction (§14.4.1ff).
 
-[12] In principle sources of terms for10 in base-5-10-20 and base-5-10 could be mapped separately, but the
+[12] In principle sources of terms for 10 in base-5-10-20 and base-5-10 could be mapped separately, but the
      distributional differences between them are slight, apart from the fact that there are no base-5-10
      systems in New Caledonia (Map 15.1).
 
 Digit tallying 537
 
+Map 15.5: Origins of terms for 10 in base-5-10 and base-5-10-20 systems
+
 538 Malcolm Ross
 
-
-4)    Possible origins of a base-5-10-20 system
-      a. In the production of a hybrid with POc simple numerals and a digit-tallying model,
-         there was a compromise such that the POc numeral for 10 and the 10-cycle from 10
-         to 19 was never lost.
-      b. Under the influence of a decimal system, a numeral for 10 was introduced into an
-         existing base-5-20 system.
-      c. Under the influence of a decimal system, the numeral for 3×5 = 15 was lost from an
-         existing base-5-20 system, so that counting from 10 to 19 formed a 10-cycle and the
-         existing numeral for 2×5 was reinterpreted as a 10-base.
+__block__
+4) Possible origins of a base-5-10-20 system
+   a. In the production of a hybrid with POc simple numerals and a digit-tallying model,
+      there was a compromise such that the POc numeral for 10 and the 10-cycle from 10
+      to 19 was never lost.
+   b. Under the influence of a decimal system, a numeral for 10 was introduced into an
+      existing base-5-20 system.
+   c. Under the influence of a decimal system, the numeral for 3×5 = 15 was lost from an
+      existing base-5-20 system, so that counting from 10 to 19 formed a 10-cycle and the
+      existing numeral for 2×5 was reinterpreted as a 10-base.
 
     There is no obvious way of distinguishing between (4a) and (4b), as outcomes of either
-process are likely to have a term reflecting *puluq. What can be said is that instances of *puluq
+process are likely to have a term reflecting _*puluq_. What can be said is that instances of _*puluq_
 did not arise via a (4c) process, to which we now turn.
 
-    Items reflecting *rua-lima ‘two hands = 5’ are shown separately in Map 15.5 and Table 15.10.
+    Items reflecting _*rua-lima_ ‘two hands = 5’ are shown separately in Map 15.5 and Table 15.10.
 The presence of a single reflex in Tuam, far away from the geographic area formed by
 all other reflexes in central and south Vanuatu and New Caledonia, is almost certainly the
 result of independent innovation.
 
-    The *rua-lima area embraces Paama, Epi, Efate and Erromango in Vanuatu and the north
-of New Caledonia. The northernmost *rua-lima language is thus Paamese (Table 15.10).
+    The _*rua-lima_ area embraces Paama, Epi, Efate and Erromango in Vanuatu and the north
+of New Caledonia. The northernmost _*rua-lima_ language is thus Paamese (Table 15.10).
 Immediately to the north of Paama is SE Ambrym (Parker 1970:ix), the only base-5-20 NCV
-language in the database. None of the *rua-lima languages has a base-5-20 system, but there
+language in the database. None of the _*rua-lima_ languages has a base-5-20 system, but there
 is good evidence that they are descended from a system like that in SE Ambrym. Three
 closely related languages in the far north of New Caledonia—Belep, Nyelâyu and
 Nêlêmwa—illustrate the first step in their development. The Nêlêmwa system is shown in
@@ -25713,126 +25709,100 @@ in one significant feature.
 
     The relevant data are in (5).
 
-5)           Belep      Nyelâyu      Nêlêmwa      Proto Far N NCal      Earlier Oceanic
-      ‘10’   tũnik      -rulī̃k      tujic        *rũnik                *rua-lima
-       ‘2’   tu         -ru          -ru          *-ru                  *rua
-      ‘15’   cĩnik      —            —            *tĩnik                *tolu-lima
-       ‘3’   cen        —            —            *ten                  *tolu
-       ‘5’   -nem       -nem         -nem         *nem                  *lima
+5)
+
+__table__
+           | Belep    |   Nyelâyu  |  Nêlêmwa   |   Proto Far N NCal |     Earlier Oceanic
+      ‘10’ |  _tũnik_ |   _-rulī̃k_ |   _tujic_  |    _*rũnik_        |      _*rua-lima_
+       ‘2’ |  _tu_    |   _-ru_    |   _-ru_    |    _*-ru_          |      _*rua_
+      ‘15’ |  _cĩnik_ |   —        |   —        |    _*tĩnik_        |      _*tolu-lima_
+       ‘3’ |  _cen_   |   —        |   —        |    _*ten_          |      _*tolu_
+       ‘5’ |  _-nem_  |   _-nem_   |   _-nem_   |    _*nem_          |      _*lima_
 
 Belep arguably has a base-5-20 system (McCracken 2012), Nyelâyu and Nêlêmwa
 base-5-10-20 (Ozanne-Rivierre 1998; Bril 2014). The shared ancestor of the three languages,
-Proto Far North New Caledonia, had terms for 10 and 15: *rũnik and *tĩnik respectively.
-Tentatively, these reflect earlier *rua-lima (2×5) and *tolu-lima (3×5), as the forms for 2 and 3
-show that the initial consonants do reflect POc *r- and *t-. The morph -ni in *rũnik ‘and
-*tĩnik reflects *lima ‘5’: cf nearby Yuanga pɔ-ni [CLF-5] ‘5’ (Bril 2014), Pije/Jawe/Nemi nim
-‘5’ (Haudricourt & Ozanne-Rivierre 1982). The origin of final *-k of *rũnik ‘and *tĩnik is
+Proto Far North New Caledonia, had terms for 10 and 15: _*rũnik_ and _*tĩnik_ respectively.
+Tentatively, these reflect earlier _*rua-lima_ (2×5) and _*tolu-lima_ (3×5), as the forms for 2 and 3
+show that the initial consonants do reflect POc _*r-_ and _*t-_. The morph _-ni_ in _*rũnik_ and
+_*tĩnik_ reflects _*lima_ ‘5’: cf nearby Yuanga _pɔ-ni_ [CLF-5] ‘5’ (Bril 2014), Pije/Jawe/Nemi _nim_
+‘5’ (Haudricourt & Ozanne-Rivierre 1982). The origin of final _*-k_ of _*rũnik_ ‘and _*tĩnik_ is
 unknown.
 
-   Belep is conservative and continues to reflect *tĩnik ‘15’, which Nyelâyu and Nêlêmwa
+   Belep is conservative and continues to reflect _*tĩnik_ ‘15’, which Nyelâyu and Nêlêmwa
 have lost. All three languages count 10+1, 10+2, 10+3, 10+4. Belep then counts 15, 15+1,
 15+2, 15+3, 15+4 for 15 to 19, whereas Nyelâyu and Nêlêmwa count 10+5 to 10+9 for 15 to 19.[13]
 In other words, Belep counts three rounds of a 5-cycle from 5 to 19, but Nyelâyu
 and Nêlêmwa count one round of a 5-cycle from 5 to 9, and one round of a 10-cycle from 10
-to 19. Nêlêmwa numerals from 1 to 40 are included in Table 15.10. Thus the loss of *tĩnik
+to 19. Nêlêmwa numerals from 1 to 40 are included in Table 15.10. Thus the loss of _*tĩnik_
 ‘15’ and the consequent change in the numerals 15–19 turn the Nyelâyu and Nêlêmwa
 systems into a base-5-10-20 system.
 
 
 
-: Table 15.10      Nêlêmwa, Paamese, Lewo and  SE Ambrym numerals
-
-__table__
-                                        Nêlêmwa (NCal)a                             Paamese (NCV)b                     Lewo (Epi, NCV)c                      SE Ambrym (NCV)
-                                          base-5-10-20                               base-5-10-20                          base-5-10                             base-5-20
-                       1 pʷa-gīk                      1                 tāi                   1              taŋa                  1              tei             1
-                       2 pʷa-du                       2                 elu                   2              lua                   2              lu              2
-                       3 pʷa-gan                      3                 etel                  3              tɛlu                  3              tol             3
-                       4 pʷa-bāk                      4                 ehat                  4              vari                  4              hat             4
-                       5 pʷa-nem                      5                 elim                  5              lima                  5              lim             5
-                       6 pʷa-nem-gīk                  5+1               lahi-tāi              5+1            o-rai                 5+1            tei he sap      1 and other
-                       7 pʷa-nem-du                   5+2               lau-lu                5+2            o-lua                 5+2            …               …
-                       8 pʷa-nem-gan                  5+3               lau-tel               5+3            o-rɛlu                5+3            …               …
-                       9 pʷa-nem-bāk                  5+4               lau-hat               5+4            o-vari                5+4            …               …
-                      10 tujic                        2×5               hālualim              2×5            lualima               2×5            he xa-lu        hand × 2
-                      11 tujic ɣa bʷāt pʷa-gīk        10+1              tāi dan tāi           10+1           lualima tāŋa pa tāŋa (10×1)+1        tei e le        one on leg
-                      12 tujic ɣa bʷāt pʷa-du         10+2              tāi dan elu           10+2           lualima tāŋa pa lua (10×1)+2         …               …
-                      15 tujic ɣa bʷā-t pʷa-nem       10+5              tāi dan elim          10+5           lualima tāŋa pa lima (10×1)+5        le tei bus      leg one finish
-                      16 tujic ɣa bʷāt pʷa-nem-gīk 10+(5+1)             tāi dan lahi-tāi      10+(5+1)       lualima tāŋa pa orai (10×1)+(5+1) tei mun e le tei one again on leg one
-                      17 tujic ɣa bʷāt pʷa-nem-du 10+(5+2)              tāi dan lau-lu        10+(5+2)       lualima tāŋa pa olua (10×1)+(5+2) …                  …
-                      20 ā-ɣi ak                      1 person          hanu mau              1 person       lualima yam lua       10×2           hanu tap        person whole
-                      30 ā-ɣi ak ɣa bʷā-t tujic       1 person+10       hanu sav hālualim     1 person+10 lualima yam tɛlu         10×3           …               …
-                      40 ā-ru ak                      2 persons         hanu mau elu          2 persons      lualima yam vari      10×4           …               …
-
-
-                                            Bril 2014                                Crowley 1982                          Early 1994                           Parker 1970
-
-                   4a
-                      Nêlêmwa numerals have prefixed classifiers, here pʷa- ‘inanimate’ and ā- ‘animate’. Components of complex numerals include ɣa ‘and’ and bʷāt ‘(on) top’.
-                   b
-                     Paamese complex numerals contain dan ‘below’, mau ‘whole’ and sav ‘the other’.
-                   c
-                     Lewo complex numerals contain pa ‘and’ and yam ’times’.
+Figure 15.1:  Nêlêmwa, Paamese, Lewo and  SE Ambrym numerals
 
 540 Malcolm Ross
 
 
-   Returning to the base-5-10 *rua-lima systems on Epi, Efate and Erromango (see Lewo of
-Epi in Table 15.10), an obvious inference is that they reflect the same history as the
+   Returning to the base-5-10 _*rua-lima_ systems on Epi, Efate and Erromango (see Lewo of
+Epi in Figure 15.1), an obvious inference is that they reflect the same history as the
 base-5-10-20 systems of New Caledonia (§15.7.1) but have gone a step further. They first
-underwent the same step as Nyelâyu and Nêlêmwa, replacing a reflex of *tolu-lima [3×5]
-‘15’ with an additive 10+5 numeral to give a base-5-10-20 system. Then the *rua-lima
+underwent the same step as Nyelâyu and Nêlêmwa, replacing a reflex of _*tolu-lima_ [3×5]
+‘15’ with an additive 10+5 numeral to give a base-5-10-20 system. Then the _*rua-lima_
 systems on Epi, Efate and Erromango also replaced the ‘person’ term for 20 with a 10×2
 term, so that the 20-cycle disappeared and the 10-cycle took over (bolded in Table 15.10).
-Reflexes of *rua-lima were treated as a 10-base: ‘20’ in Epi, for example, is lualima yam lua
-[10×2]. Reflexes of *rua-lima are evidently a single morpheme in speakers’ lexicon, and the
+Reflexes of _*rua-lima_ were treated as a 10-base: ‘20’ in Epi, for example, is _lualima yam lua_
+[10×2]. Reflexes of _*rua-lima_ are evidently a single morpheme in speakers’ lexicon, and the
 result is a base-5-10 system.
 
    The sequence of changes reconstructed here is thus
 
-6) base-5-20            >    replacement of 3×5 by 10+5              >
-   base-5-10-20         >    replacement of ‘person’ by 10×2         > base-5-10
+6)
 
-In this way the *rua-lima systems have acquired a term for 10 without borrowing from a
+__tablenh__
+   base-5-20        |    >   | replacement of 3×5 by 10+5          |    > |
+   base-5-10-20     |    >   | replacement of ‘person’ by 10×2     |    > | base-5-10
+
+In this way the _*rua-lima_ systems have acquired a term for 10 without borrowing from a
 decimal system.
 
-   The *rua-lima story has taken us beyond base-5-10-20 systems to base 5-10, but there are
+   The _*rua-lima_ story has taken us beyond base-5-10-20 systems to base 5-10, but there are
 also base-5-10 systems in NW Melanesia and north and central Vanuatu that do not share this
 history. Logically, base-5-10 systems could have originated in two diametrically opposite
 ways.
 
 7) Possible origins of a base-5-10 system:
-       a. from a base-5-10-20 system: the term for 20 (often ‘person’) is lost, giving a
-          base-5-10 system (i.e. as in Epi, Efate and Erromango).
-       b. from a decimal system: under the influence of digit tallying simple numerals for 6–9
-          are replaced with additive numerals 5+1 to 5+4.
+   a. from a base-5-10-20 system: the term for 20 (often ‘person’) is lost, giving a
+      base-5-10 system (i.e. as in Epi, Efate and Erromango).
+   b. from a decimal system: under the influence of digit tallying simple numerals for 6–9
+      are replaced with additive numerals 5+1 to 5+4.
 
    If base-5-10 systems were generally descended from base-5-10-20 systems, i.e. via (7a),
 one would expect the origins of their terms for 10 to pattern similarly to those in base-5-10-20
 systems, but Table 15.9 shows that they don’t. A base-5-10 system is twice as likely to display
-a reflex of *puluq as is a base-5-10-20 system (59.3% vs 31.3%). A smallish proportion of
-base-5-10-20 systems reflects a term for 10 meaning ‘two hands’: 17 per cent when *rua-
-lima reflexes are excluded—but no base-5-10 system has such a reflex.
+a reflex of _*puluq_ as is a base-5-10-20 system (59.3% vs 31.3%). A smallish proportion of
+base-5-10-20 systems reflects a term for 10 meaning ‘two hands’: 17 per cent when _*rua-lima_
+reflexes are excluded—but no base-5-10 system has such a reflex.
 
 
-[13] Thus Nyelâyu pʷa-rulĩk bʷār pʷar-nem [CLF-10 top CLF-5] ‘15’.
+[13] Thus Nyelâyu _pʷa-rulĩk bʷār pʷar-nem_ [CLF-10 top CLF-5] ‘15’.
 
                                                                                        Digit tallying 541
 
 : Table 15.11 Sa and Notsi base-5-10 and base-10 numeral systems
 
 __table__
-            POc               Sa: base-5-10      Sa: base-10      Notsi: base-5-10       Notsi: base-10
-       1    (various)         su                 wantua           a-kuk                  koso
-       2    *rua              ru                 urua             a-lua                  lua
-       3    *tolu             tıl                teul             a-tūl                  tūl
-       4    *pat[i]           ıt                 fa               a-et                   et
-       5    *lima             lim                [l,n]ima         a-lima                 lima
-       6    *onom             le-su ~ li-jia     ondo             a-pas-kuk              wan
-       7    *pitu             le-ʊru             fiti ~ piji      a-pas-a-lua            it
-       8    *walu             lı-tıl             walo             a-pas-a-tūl            wān
-       9    *siwa             li-apat            suan             a-pas-a-et             ciu
-      10    *sa-ŋapuluq       suŋul              tendu            saŋaul                 saŋaul
+          |  POc           | Sa: base-5-10    |   Sa: base-10    |  Notsi: base-5-10   |    Notsi: base-10
+       1  |  (various)     | _su_             |   _wantua_       |  _a-kuk_            |    _koso_
+       2  |  _*rua_        | _ru_             |   _urua_         |  _a-lua_            |    _lua_
+       3  |  _*tolu_       | _tıl_            |   _teul_         |  _a-tūl_            |    _tūl_
+       4  |  _*pat[i]_     | _ıt_             |   _fa_           |  _a-et_             |    _et_
+       5  |  _*lima_       | _lim_            |   _[l,n]ima_     |  _a-lima_           |    _lima_
+       6  |  _*onom_       | _le-su ~ li-jia_ |   _ondo_         |  _a-pas-kuk_        |    _wan_
+       7  |  _*pitu_       | _le-ʊru_         |   _fiti ~ piji_  |  _a-pas-a-lua_      |    _it_
+       8  |  _*walu_       | _lı-tıl_         |   _walo_         |  _a-pas-a-tūl_      |    _wān_
+       9  |  _*siwa_       | _li-apat_        |   _suan_         |  _a-pas-a-et_       |    _ciu_
+      10  |  _*sa-ŋapuluq_ | _suŋul_          |   _tendu_        |  _saŋaul_           |    _saŋaul_
 
    In light of this it is possible that many base-5-10 systems reflect (7b), simple
 replacement of 6 to 9 by additive numerals. There is support for this in situations where a
@@ -25844,54 +25814,52 @@ Pentecost, NCV, Table 15.12), well away from Papuan influence. The base-5-10 sys
 regular use, but an earlier base-10 system is remembered and is now used in restricted
 contexts as follows:
 
-        (1) to count people present,
-        (2) to count parcels of food or meals to be distributed,
-        (3) for heritage purposes, for their inherent historical value as part of the kastom ideology.
+__block__
+(1) to count people present,
+(2) to count parcels of food or meals to be distributed,
+(3) for heritage purposes, for their inherent historical value as part of the kastom ideology.
 
 The difference between the forms for 2 to 5 in the two Sa systems leaves open the
 possibility that one system has been borrowed, but the two Notsi systems may indeed
 reflect the modification of the more formal base-10 system by everyday tally-based forms for 6–9.
 
     There is, however, a piece of counter-evidence to this hypothesis. Oceanic languages that
-retain the POc decimal system intact reflect the POc decades *sa[ŋa]puluq ‘1×10’, *rua-
-ŋapuluq ‘2×10’, *tolu-ŋapuluq ‘3×10’, and so on. But many Oceanic languages retain a reflex
-of either *saŋapuluq or *ŋapuluq ‘10’ in the sense ‘unit of ten’ (§14.4.5.2), so that multiples of 10
-are formed as complex numerals reflecting, e.g. *ŋapuluq rua ‘10×2’, *rua saŋapuluq or
-*saŋapuluq rua (Table 14.6). If a base-5-10 system were formed from a decimal system just
+retain the POc decimal system intact reflect the POc decades _*sa[ŋa]puluq_ ‘1×10’,
+_*rua-ŋapuluq_ ‘2×10’, _*tolu-ŋapuluq_ ‘3×10’, and so on. But many Oceanic languages retain a reflex
+of either _*saŋapuluq_ or _*ŋapuluq_ ‘10’ in the sense ‘unit of ten’ (§14.4.5.2), so that multiples of 10
+are formed as complex numerals reflecting, e.g. _*ŋapuluq rua_ ‘10×2’, _*rua saŋapuluq_ or
+_*saŋapuluq rua_ (Table 14.6). If a base-5-10 system were formed from a decimal system just
 by replacement of 6 to 9, one would expect the POc decade forms to be retained, but this
 happens only in three closely related languages: Motu, Gabadi and Lala of the Central
-Papuan subgroup of PT. All other base-5-10 systems, if they retain a reflex of *saŋapuluq or
-*ŋapuluq ‘10’, treat it as a ‘unit of ten’ morpheme. The inference to be made here is that
+Papuan subgroup of PT. All other base-5-10 systems, if they retain a reflex of _*saŋapuluq_ or
+_*ŋapuluq_ ‘10’, treat it as a ‘unit of ten’ morpheme. The inference to be made here is that
 among base-5-10 systems only those of the three Central Papuan languages can be said with
-any certainty to be direct descendants of the decimal systems.14 All others have undergone
+any certainty to be direct descendants of the decimal systems.[14] All others have undergone
 other modifications in the process of becoming base-5-10 systems, with ramifications too
 complex to unravel. The genesis of base-5-10 systems is therefore clouded with some
 uncertainty.
 
 [14] The numeral systems of these three languages are unlike other base-5-10 systems in other respects. The
-     numerals 6-9 are not formed by simple addition. Motu counts taura-toi 2×3 = 6, hitu 7 (< POc *pitu ‘7’),
-     taura-hani 2×4 = 8, taura-hani ta (2×4)+1 = 9. The presence of hitu ‘7’ implies local modification of a
+     numerals 6-9 are not formed by simple addition. Motu counts _taura-toi_ 2×3 = 6, _hitu_ 7 (< POc _*pitu_ ‘7’),
+     _taura-hani_ 2×4 = 8, _taura-hani ta_ (2×4)+1 = 9. The presence of _hitu_ ‘7’ implies local modification of a
      decimal system.
 
 542 Malcolm Ross
 
-: Table 15.12 Two MM and two NCV languages reflecting the ligature *lapi-
+: Table 15.12 Two MM and two NCV languages reflecting the ligature _*lapi-_
 
 __table__
-                                                                 Maskelynes
-         Early Oceanic Tungak (MM) Vinitiri (MM)                                    Lelepa (NCV)
-                                                                 (NCV)
-                           N New Ireland E New Britain           SE Malakula        Efate
-     1 *sikai, *tikai      sikei             tikai               sua                skei
-     2 *-rua               po-ŋuə            u-ruə               ɛ-ru               rua
-     3 *-tolu              po-tol            u-tulu              i-tör              tolu
-     4 *-pat[i]            pu-at             i-vati              i-vat              pati
-     5   *-lima            palpallima        i-limə              ɛ-ɾım              lima
-     6   *lap-t…           [lima]le-sikei    ləp-tikai           mə-lɛf-tes         la-tsa
-     7   *lavi-rua         [lima]le-ŋuə      ləva-uruə           mə-lɛv-rʊ          la-rua
-     8   *lavi-tolu        [lima]le-tul      ləvu-tulu           mə-lɛv-töɾ         la-tolu
-     9   *lavi-pat[i]      [lima]le-at       ləvu-vati           mə-la-pat          l-for
-                           Fast 1990         van der Mark 2007 Healey 2013          Lacrampe 2014
+  | Early Oceanic | Tungak (MM) N New Ireland | Vinitiri (MM) E New Britain | Maskelynes (NCV) SE Malakula | Lelepa (NCV) Efate
+  1 | _*sikai_, _*tikai_ | _sikei_          | _tikai_           | _sua_        |   _skei_
+  2 | _*-rua_            | _po-ŋuə_         | _u-ruə_           | _ɛ-ru_       |   _rua_
+  3 | _*-tolu_           | _po-tol_         | _u-tulu_          | _i-tör_      |   _tolu_
+  4 | _*-pat[i]_         | _pu-at_          | _i-vati_          | _i-vat_      |   _pati_
+  5 | _*-lima_           | _palpallima_     | _i-limə_          | _ɛ-ɾım_      |   _lima_
+  6 | _*lap-t…_          | [_lima_]___le___-_sikei_ | ___ləp___-_tikai_       | _mə_-___lɛf___-_tes_ |   ___la___-_tsa_
+  7 | _*lavi-rua_        | [_lima_]___le___-_ŋuə_   | ___ləva___-_uruə_       | _mə_-___lɛv___-_rʊ_  |   ___la___-_rua_
+  8 | _*lavi-tolu_       | [_lima_]___le___-_tul_   | ___ləvu___-_tulu_       | _mə_-___lɛv___-_töɾ_ |   ___la___-_tolu_
+  9 | _*lavi-pat[i]_     | [_lima_]___le___-_at_    | ___ləvu___-_vati_       | _mə_-___la___-_pat_  |   ___l___-_for_
+    |                    | Fast 1990        | van der Mark 2007 | Healey 2013  |  Lacrampe 2014
 
 
 15.7.3 Numerals 6–9 and numeral ligatures in base-5-10 languages
@@ -25902,47 +25870,44 @@ directly follow the 5 numeral, in others a conjunction or a ligature intervenes.
 morpheme, often derived from a verb, that has no other function in the language; in particular,
 it is not a conjunction. In constructions with a conjunction or a ligature, 5 may be omitted,
 leaving the conjunction/ligature plus a numeral between 1–4. This happens in all the languages
-in Table 15.12. For example, in Tungak, 7 is either lima-le-ŋuə [5-LIG-2] or the abbreviated
-form le-ŋuə.
+in Table 15.12. For example, in Tungak, 7 is either _lima-le-ŋuə_ [5-LIG-2] or the abbreviated
+form _le-ŋuə_.
 
-    A language in which 5 and 1–4 are directly concatenated is Dobu (PT), counting ʔebʷeu
-‘1’, ʔerua ‘2’, ʔeto ‘3’, ata ‘4’, nima ‘5’, nima ʔebʷeu ‘6’, nima ʔerua ‘7’, nima ʔeto ‘8’,
-nima ata ‘9’, sanau ‘10’.
+    A language in which 5 and 1–4 are directly concatenated is Dobu (PT), counting _ʔebʷeu_
+‘1’, _ʔerua_ ‘2’, _ʔeto_ ‘3’, _ata_ ‘4’, _nima_ ‘5’, _nima ʔebʷeu_ ‘6’, _nima ʔerua_ ‘7’, _nima ʔeto_ ‘8’,
+_nima ata_ ‘9’, _sanau_ ‘10’.
 
-    A language that makes transparent use of a conjunction is Tuam (NNG), counting es ‘1’,
-ru ‘2’, tol ‘3’, paŋe ‘4’, lim ‘5’, lim be es ‘6’, lim be ru ‘7’, lim be tol ‘8’, lim be paŋ ‘9’, saŋul
-‘10’.
+    A language that makes transparent use of a conjunction is Tuam (NNG), counting _es_ ‘1’,
+_ru_ ‘2’, _tol_ ‘3’, _paŋe_ ‘4’, _lim_ ‘5’, _lim be es_ ‘6’, _lim be ru_ ‘7’, _lim be tol_ ‘8’,
+_lim be paŋ_ ‘9’, _saŋul_ ‘10’.
 
-    For NCV languages Lynch (2009) reconstructs three ligatures: PNCV *lave-a, S Santo/N
-Malakula *[la]kau-, C and S Malakula *zau-. PNCV *lave-a has widespread reflexes in
+    For NCV languages Lynch (2009) reconstructs three ligatures: PNCV _*lave-a_, S Santo/N
+Malakula _*[la]kau-_, C and S Malakula _*zau-_. PNCV _*lave-a_ has widespread reflexes in
 Vanuatu: in the languages of the Torres and Banks Islands, Maewo, Pentecost (except Raga),
 the Shepherds and Efate, and in some Ambrym languages, in all base-5-10 Santo languages
-and some base-5-10 Malakula languages, and in Paamese (base-5-10-20). PNCV *lave-a also
+and some base-5-10 Malakula languages, and in Paamese (base-5-10-20). PNCV _*lave-a_ also
 has cognates in three MM languages, as Lynch recognises: Tungak, Vinitiri and Tolai (the
-Tolai reflexes closely resemble those in Vinitiri). It evidently reflects POc *lapi ‘take, get,
+Tolai reflexes closely resemble those in Vinitiri). It evidently reflects POc _*lapi_ ‘take, get,
 give’ (vol.5:426).
 
                                                                            Digit tallying 543
 
-: Table 15.13 New Britain languages and Äiwoo of the Reefs reflecting the ligature *polo-
+: Table 15.13 New Britain languages and Äiwoo of the Reefs reflecting the ligature _*polo-_
 
 __table__
-         Early Oceanic    Vitu (MM)        Bola (MM)       Avau (NNG)         Äiwoo (TM)
-                          French Islands   New Britain     New Britain        Reef Islands
-     1   *sikai, *tikai   katiu            taku            ke                 ñi-gi
-     2   *-rua            rua              rua             su                 li-lu
-     3   *-tolu           tolu             tolu            moyok              eve
-     4   *-pat            vata             va              pɛnɛl              u-væ
-     5   *-lima           lima             lima            limi               vi-li
-     6   *lap-tikai       polo katiu       polotara        ke polo            pole-gi
-     7   *lavi-rua        polo rua         polorua         su polo            pole-lu
-     8   *lavi-tolu       polo tolu        polotolu        moyok polo         pole-e
-     9   *lavi-pat        polo vata        polova          pɛnɛl polo         polo-uvæ
-                          van den Berg & van den Berg
-                                                      author’s fieldnotes Næss 2016
-                          Bachet 2006    & Wiebe 2019
+   | Early Oceanic | Vitu (MM) French Islands | Bola (MM) New Britain | Avau (NNG) New Britain | Äiwoo (TM) Reef Islands
+ 1 | _*sikai_, _*tikai_ | _katiu_         |   _taku_        |    _ke_            |     _ñi-gi_
+ 2 | _*-rua_          | _rua_           |   _rua_         |    _su_            |     _li-lu_
+ 3 | _*-tolu_         | _tolu_          |   _tolu_        |    _moyok_         |     _eve_
+ 4 | _*-pat_          | _vata_          |   _va_          |    _pɛnɛl_         |     _u-væ_
+ 5 | _*-lima_         | _lima_          |   _lima_        |    _limi_          |     _vi-li_
+ 6 | _*lap-tikai_     | ___polo___ _katiu_ | ___polo____tara_ | _ke_ ___polo___     |     ___pole___-_gi_
+ 7 | _*lavi-rua_      | ___polo___ _rua_   | ___polo____rua_  | _su_ ___polo___     |     ___pole___-_lu_
+ 8 | _*lavi-tolu_     | ___polo___ _tolu_  | ___polo____tolu_ | _moyok_ ___polo___  |     ___pole___-_e_
+ 9 | _*lavi-pat_      | ___polo___ _vata_  | ___polo____va_   | _pɛnɛl_ ___polo___  |     ___polo___-_uvæ_
+   |                 | van den Berg & Bachet 2006 | van den Berg & Wiebe 2019 | author’s fieldnotes | Næss 2016
 
-   One other ligature appears to transcend local boundaries. This is polo-, glossed as Vitu ‘go
+   One other ligature appears to transcend local boundaries. This is _polo-_, glossed as Vitu ‘go
 aboard’ (van den Berg & Bachet 2006) and Bola ‘go across’ (Wiebe n.d.). It appears to occur
 in Bali, Vitu, Bola, Avau and Äiwoo—“appears” because one cannot be certain whether the
 ligatures in these languages are cognate or merely homophonous. The data are in Table 15.13.
@@ -25960,8 +25925,8 @@ whether POc speakers also used a tally system like that outlined in §15.6. It i
 certain. As there are no cognate sets peculiar to Oceanic base-5-20 systems, a POc tally
 system cannot be reconstructed. Instead, the occurrence of a word for ‘person’ as the term for
 20 represents a common counting strategy. A conservative inference is that tally systems were
-in use across much of New Guinea when Austronesian speakers arrived (see, e.g., Owens &
-Lean 2018:46), and that the latter adopted them from speakers of Papuan languages.
+in use across much of New Guinea when Austronesian speakers arrived (see, e.g., Owens & Lean 2018:46),
+and that the latter adopted them from speakers of Papuan languages.
 
     This inference is partially supported by the distribution of base-5-20 systems in Map 15.1,
 as they are found dotted across New Guinea with a couple of examples in the Bismarcks.
@@ -25994,12 +25959,12 @@ everyone in the community spoke a lingua franca alongside their heritage languag
     There is no linguistic evidence to support an answer, but the simplest account is that after
 speakers of pre-Oceanic arrived in the Bismarcks, there were soon marriages with Papuan
 speakers. If Hage & Marck (2003) are right that POc society was matrilocal, then adult males
-joined POc-speaking hamlets,15 and, as adult language learners are wont to do, imposed their
+joined POc-speaking hamlets,[15] and, as adult language learners are wont to do, imposed their
 own ways of speaking on the language of their new community. Their children either inherited
 these ways of speaking or, more probably, grew up bilingually, restructuring their Austronesian
 language on the model of the Papuan language(s) of their fathers (§15.7.1). One of these ways
-of speaking was a digit-tallying strategy. The inference that the decimal system and digit-
-tallying were used side by side is unproblematic and so is the inference that this resulted in
+of speaking was a digit-tallying strategy. The inference that the decimal system and
+digit-tallying were used side by side is unproblematic and so is the inference that this resulted in
 hybrid systems (§15.7.1).
 
     The discussion above answers some of the questions asked in the introduction to this
@@ -26049,7 +26014,7 @@ __blockquote__
    On the basis of these observations Blust argues that speakers of Papuan languages must
 have already been present in Vanuatu long before the arrival of Oceanic speakers. He
 recognises that there is no archaeological evidence for this, but finds the linguistic evidence
-compelling.16 He rightly comments (2005:553) that the presence of ‘one man’ for 20 in
+compelling.[16] He rightly comments (2005:553) that the presence of ‘one man’ for 20 in
 Paamese (NCV) and in NCal languages invites a Papuan-based explanation.
 
    Pawley (2006:243–248) offers a response to Blust. He proposes that Oceanic speaking
@@ -26115,9 +26080,9 @@ their absorption into Lapita culture. Sometime after their transition to Lapita 
 some of their number migrated to (perhaps various islands in) Vanuatu.[17]
 
     One small piece of linguistic evidence also implies a New Britain–Vanuatu connection,
-namely the use of POc *lapi ‘take, get, give’ (vol.5:401–403) as a ligature in the numerals 6–9
+namely the use of POc _*lapi_ ‘take, get, give’ (vol.5:401–403) as a ligature in the numerals 6–9
 in three MM languages (two in eastern New Britain, one in northern New Ireland) and widely
-in base-5-10 systems in Vanuatu (§15.7.3). It is of course possible that the verb *lapi has been
+in base-5-10 systems in Vanuatu (§15.7.3). It is of course possible that the verb _*lapi_ has been
 adopted as a ligature independently in two or more locations, but it is tempting to infer that it
 reflects a shared innovation, transported to Vanuatu by ‘Papuan’ migrants.
 
@@ -26147,7 +26112,7 @@ the southern half of the mainland, and base-5-10-20 systems in the rest of the m
                                                                            Digit tallying 547
 
 
-    The *rua-lima story (§15.7.2) fairly strongly supports a connection between central and
+    The _*rua-lima_ story (§15.7.2) fairly strongly supports a connection between central and
 southern Vanuatu and New Caledonia. The conclusion to be drawn from the story is that there
 was at least one base-5-20 language, an ancestor of SE Ambrym or a relative thereof, and that
 its descendants spread southward to Paama, Epi, Efate and Erromango, and thence to the
@@ -26189,7 +26154,7 @@ chapter puts forward the hypothesis that these “Papuans” had already shifted
 languages before they moved from NW Melanesia to the SOc area and simply brought NW
 Melanesian base-5+ counting with them. This does not preclude further developments in
 these systems after their speakers’ arrival, and one such set of developments, in languages
-that reflect *rua-lima for ‘10’, is sketched in §15.7.2.
+that reflect _*rua-lima_ for ‘10’, is sketched in §15.7.2.
 
 548 Malcolm Ross
 
@@ -26231,21 +26196,21 @@ measurement classifiers in Sohn (1975:61), and Alkire’s forms have been replac
 and re-spelled in accordance with the orthographic convention used in these volumes
 (§1.4.2).
 
-1)    a. maxō-ṣix        length of one finger joint (maxō ‘finger-joint length’; ṣix ‘small’)
-      b. maxō-rap        length of two finger joints (maxō ‘finger-joint length’; rap ‘big’)
-      c. -xatt           length of a finger
-      d. -peṣa-nim       width of the palm (lit. ‘handle of hand’)
-      e. (maiarulpu)     fist width plus thumb length (Alkire’s spelling: not recorded by Sohn)
-      f. (ngalit)         with hand extended, length from end of thumb to end of first
-                          finger (Alkire’s spelling: not recorded by Sohn)
-      g. -yaŋ             with hand extended, length from end of thumb to end of middle finger (hand span).
-      h. xumʷüṣ           from wrist to end of fingers (xumʷüṣ ‘wrist’)
-      i. -mʷarü           length of forearm, from elbow to end of fingers (a cubit).
-      j. -paü             length of whole arm (only with se- ‘one’; paü ‘arm, hand’)
-      k. -teroufʷ         with arm extended, length from sternum to end of fingers
-      l. -yefaẓ           with arm extended, length from end of fingers to shoulder of opposite arm
-      m. wōpaü            with arms extended, length from end of fingers to elbow of opposite arm
-      n. -ŋaf             with arms extended, length from finger tips to finger tips (a fathom)
+__block__
+1) a. _maxō-ṣix_        length of one finger joint (_maxō_ ‘finger-joint length’; _ṣix_ ‘small’)
+   b. _maxō-rap_        length of two finger joints (_maxō_ ‘finger-joint length’; _rap_ ‘big’)
+   c. _-xatt_           length of a finger
+   d. _-peṣa-nim_       width of the palm (lit. ‘handle of hand’)
+   e. (_maiarulpu_)     fist width plus thumb length (Alkire’s spelling: not recorded by Sohn)
+   f. (_ngalit_)         with hand extended, length from end of thumb to end of first finger (Alkire’s spelling: not recorded by Sohn)
+   g. _-yaŋ_             with hand extended, length from end of thumb to end of middle finger (hand span).
+   h. _xumʷüṣ_           from wrist to end of fingers (_xumʷüṣ_ ‘wrist’)
+   i. _-mʷarü_           length of forearm, from elbow to end of fingers (a cubit).
+   j. _-paü_             length of whole arm (only with _se-_ ‘one’; _paü_ ‘arm, hand’)
+   k. _-teroufʷ_         with arm extended, length from sternum to end of fingers
+   l. _-yefaẓ_           with arm extended, length from end of fingers to shoulder of opposite arm
+   m. _wōpaü_            with arms extended, length from end of fingers to elbow of opposite arm
+   n. _-ŋaf_             with arms extended, length from finger tips to finger tips (a fathom)
 
 550   Malcolm Ross
 
@@ -26264,44 +26229,49 @@ For convenience’s sake a short summary is given here.
 
    A numeral classifier is a word that occurs with a numeral but has some semantic
 relationship to the entity that is being counted. Six types of numeral classifier are
-distinguished in §14.1.1, but only three types, multiplicative, mensural and unit-of-
-measurement concern us here. Mensural classifiers—or something performing the same
-semantic functions—occur in all languages., as in English ten grains of sand, two pinches of
-salt, a bottle of beer and so on. The classifier (in bold) provides a unit that is or can be
+distinguished in §14.1.1, but only three types, multiplicative, mensural and unit-of-measurement
+concern us here. Mensural classifiers—or something performing the same
+semantic functions—occur in all languages., as in English _ten_ ___grains___ _of sand_,
+_two_ ___pinches___ _of salt_, _a_ ___bottle___ _of beer_ and so on. The classifier (in bold) provides a unit that is or can be
 counted with a numeral. This unit is one that is conventionally associated with what is
 counted: sand comes in grains, salt is quantified (in more traditional western recipes) in
 pinches, and so on.
 
    In Oceanic languages that have numeral classifiers the numeral and the classifier are
 usually combined to form a word. The PMP order within these words was *numeral-
-[ŋa-]classifier. POc retained this order with some classifiers, for example the multiplicative
-classifiers *-Ratus ‘unit of a hundred’ and *-puluq ‘unit of ten’ in POc *sa-ŋa-Ratus ‘one
-hundred’ or *tolu-ŋa-puluq ‘thirty (= three tens)’. But POc also used the *classifier numeral
+[_ŋa-_]classifier. POc retained this order with some classifiers, for example the multiplicative
+classifiers _*-Ratus_ ‘unit of a hundred’ and _*-puluq_ ‘unit of ten’ in POc _*sa-ŋa-Ratus_ ‘one
+hundred’ or _*tolu-ŋa-puluq_ ‘thirty (= three tens)’. But POc also used the *classifier numeral
 order with other classifiers. Each language that retains classifiers uses one or the other
 ordering, except for some Polynesian languages, which have both structures. Micronesian
-languages reflect the *numeral-[ŋa-]classifier, usually without *-ŋa- and exemplified by (2),
-with the mensural classifier -xumʷ ‘mouthful’.
+languages reflect the *numeral-[_ŋa-_]classifier, usually without _*-ŋa-_ and exemplified by (2),
+with the mensural classifier _-xumʷ_ ‘mouthful’.
 
                                                                              Linear measurement 551
 
-
-2)       Woleaian (Mic) (Sohn 1975:202)
+__igt__
+2)       Woleaian (Mic): (Sohn 1975:202)
          wari-xumʷ                 ṣal
-         eight-CLF:mouthful        water            ‘eight mouthfuls of water’
+         eight-CLF:mouthful        water
+         ‘eight mouthfuls of water’
 
-  The multiplicative classifier -ix ‘ten’ behaves in the same way as POc *-Ratus and
-*puluq above.
+  The multiplicative classifier _-ix_ ‘ten’ behaves in the same way as POc _*-Ratus_ and
+_*puluq_ above.
 
-3)       Woleaian (Mic) (Sohn 1975:204)
+__igt__
+3)       Woleaian (Mic): (Sohn 1975:204)
          seri-ix                fʷuk
-         three-CLF:ten          book       ‘thirty books’
+         three-CLF:ten          book
+         ‘thirty books’
 
   Finally, a unit-of-measurement classifier specifies a measurement, and together with the
 numeral gives the size of the following item.
 
-4)       Woleaian (Mic) (Sohn 1975:61)
+__igt__
+4)       Woleaian (Mic): (Sohn 1975:61)
          se-xatt                fʷurax
-         one-CLF:finger         swamp.taro          ‘a swamp taro of one finger-length’
+         one-CLF:finger         swamp.taro
+         ‘a swamp taro of one finger-length’
 
 This, then, is the structural context of the items in (1) that begin with a hyphen.
 
@@ -26311,7 +26281,7 @@ This, then, is the structural context of the items in (1) that begin with a hyph
 Many of the measurement terms discussed in this chapter have their origin in the
 measurement of Melanesian shell money. These ‘currencies’ are found in a more or less
 continuous region that stretches from the Admiralties via New Britain, New Ireland,
-Bougainville and the NW and SE Solomons to the Banks and Torres Islands of Vanuatu.1 In
+Bougainville and the NW and SE Solomons to the Banks and Torres Islands of Vanuatu.[1] In
 smaller units they appear to have been used for everyday transactions at some locations, e.g.
 among the Tolai of NE New Britain. Perhaps wherever they were used, large quantities were
 accrued by individuals and were used in a variety of ceremonies, including bride wealth
@@ -26329,15 +26299,15 @@ number of different shellfish species supply the shells. A major shell-money pro
 centre in Malaita is at Langalanga Lagoon, where inhabitants of the artificial islets built from
 coral make their living by manufacturing shell money. Four shell species are used: omu ‘red-
 lipped oyster, Chana pacifica’; kakadu ‘ridged white cockleshell, Anadara granosa’; kurila
-‘black mussel, Atrina vexillum’; and ke’e ‘half-round cardita, Beguina semiorbiculata)’ (Goto
-1996). In other locations nassa shells (dog whelks), cowries, cone shells or Spondylus shells
+‘black mussel, Atrina vexillum’; and ke’e ‘half-round cardita, Beguina semiorbiculata)’ (Goto 1996).
+In other locations nassa shells (dog whelks), cowries, cone shells or Spondylus shells
 are used.
 
 [1] Sources are, for Baluan (Adm), Schokkin (2015); for NW New Britain, Counts & Counts (1970); for NE
     New Britain, Salisbury (1966), Epstein (1969:ch.7), Strathern (1978) and Simet (1991); for Bougainville,
     Connell (1977); for the NW Solomon Is, Miller (1978) and Aswani & Sheppard (2003); for the SE
-    Solomon Is, Hogbin (1964a) and Connell (1977); and for the Banks and Torres Islands, François
-    (2013:235).
+    Solomon Is, Hogbin (1964a) and Connell (1977); and for the Banks and Torres Islands,
+    François (2013:235).
 
 [2] See Salisbury (1966), Epstein (1979), Clark (1995) and Martin (2018).
 
@@ -26352,29 +26322,35 @@ sideways. Counts & Counts (1970:100) list the terms traditionally used by the Lu
 speakers of NW New Britain for various lengths of vula ‘shell money’, along with their 1970
 Australian dollar valuations, which serve to indicate relative values.
 
-5)          Term          Length                                              Valuation in 1970 AUD
-            korui         fingertips to mid-forearm (half-cubit)                       0.10
-            mase          fingertips to elbow (cubit)                                  0.20
-            pupuye        fingertips to mid upper arm                                  0.30
-            igiligita     fingertips to shoulder joint (arm’s length)                  0.40
-            vataŋa        fingertips to centre chest (half-fathom)                     0.50
-            pram          double arm span (fathom)                                     1.00
+5)
 
-Rickard’s (1893:48–49)3 and Salisbury’s (1966:115–116) Tolai lists include terms for longer
+__table__
+          Term         | Length                                            |  Valuation in 1970 AUD
+            _korui_      |   fingertips to mid-forearm (half-cubit)          |             0.10
+            _mase_       |   fingertips to elbow (cubit)                     |             0.20
+            _pupuye_     |   fingertips to mid upper arm                     |             0.30
+            _igiligita_  |   fingertips to shoulder joint (arm’s length)     |             0.40
+            _vataŋa_     |   fingertips to centre chest (half-fathom)        |             0.50
+            _pram_       |   double arm span (fathom)                        |             1.00
+
+Rickard’s (1893:48–49)[3] and Salisbury’s (1966:115–116) Tolai lists include terms for longer
 strings and a ‘coil’.
 
-6)          Rickard (1893)        Salisbury (1966)
-            a tip                 …                       1/32 fathom (10 shells)
-            a tip na arip         …                       1/16 fathom (20 shells)
-            …                     pidik                   one-tenth of a fathom
-            a wartuk              …                       ⅛ fathom (40 shells)
-            a bal                 …                       ¼ fathom (80 shells)
-            a papara              peapar                  ½ fathom
-            a pokono              pokono                  one fathom
-            a wuna em tabu        …                       two fathoms
-            a gaina               …                       three fathoms
-            a rip                 rip                     ten fathoms
-            …                     gogo, lolo              a coil of between 100 and 1,000 fathoms
+6)
+
+__table__
+          Rickard (1893)    |    Salisbury (1966)  |
+            _a tip_           |      …               |        1/32 fathom (10 shells)
+            _a tip na arip_   |      …               |        1/16 fathom (20 shells)
+            …               |      _pidik_           |        one-tenth of a fathom
+            _a wartuk_        |      …               |        ⅛ fathom (40 shells)
+            _a bal_           |      …               |        ¼ fathom (80 shells)
+            _a papara_        |      _peapar_           |       ½ fathom
+            _a pokono_        |      _pokono_           |       one fathom
+            _a wuna em tabu_  |      …                |       two fathoms
+            _a gaina_         |      …                |       three fathoms
+            _a rip_           |      _rip_              |       ten fathoms
+            …               |      _gogo_, _lolo_       |       a coil of between 100 and 1,000 fathoms
 
 
 [3]  Cited by Simet (1991:107) but not listed in his references. This must be the Methodist missionary R.H.
@@ -26386,8 +26362,8 @@ strings and a ‘coil’.
 
 16.4 Reconstructing linear measurement terms
 
-    The list in (1) is a decidedly conservative set of traditional measurement units—
-conservative in two respects. First, even for other Micronesian languages, comparable lists
+    The list in (1) is a decidedly conservative set of traditional measurement units—conservative
+in two respects. First, even for other Micronesian languages, comparable lists
 are hardly to be found. Jackson & Marck (1991:328) come closest, recording Carolinian units
 corresponding to ten of Alkire’s. Capell (1969:67–68) and Sohn & Bender (1983:202–203)
 record five each for Sonsorol and Ulithian respectively. Other Micronesian languages appear
@@ -26396,13 +26372,16 @@ unit-of-measurement classifiers, which elsewhere are being lost in favour of nou
 Puluwatese Elbert (1974:112) notes that (7a), where ‘fathom’ is a classifier, is being replaced
 by (7b), where it is a noun.
 
-7)     Pulwatese (Mic)
+__igt__
+7)     Puluwatese (Mic): (Elbert 1974:112)
        a. walɨ-ŋaf
-          eight-CLF:fathom                     ‘eight fathoms’
+          eight-CLF:fathom
+          ‘eight fathoms’
        b. wal-ūw                 ŋāf
-          eight-CLF:default      fathom        ‘eight fathoms’
+          eight-CLF:default      fathom
+          ‘eight fathoms’
 
-    The only unit of measurement recorded for Mokilese/Ponapean is the noun ŋap/ŋāp
+    The only unit of measurement recorded for Mokilese/Ponapean is the noun _ŋap_/_ŋāp_
 ‘fathom’ (Harrison & Albert 1977; Rehg 1981). No traditional units of measurement are
 recorded for Marshallese (Abo et al 1976) or Kosraean (Lee 1975). This patchiness in
 recording is also found across the SE Solomons, where measurement terms were used at least
@@ -26412,12 +26391,12 @@ that some of these terms, particularly those involving more complicated paths ac
 human body, were used to measure strings of shell money. For example:
 
 __formgroup__
-  NNG: Kove        |wala-ra varexe|  ‘shell money measured to opposite shoulder’ (wala ‘shoulder’; varexe ‘side, half, portion’)
+  NNG: Kove        |wala-ra varexe|  ‘shell money measured to opposite shoulder’ (_wala_ ‘shoulder’; _varexe_ ‘side, half, portion’)
   MM: Ramoaaina    babaluka          ‘fathom of shell money, twice the length of hand to chest’
   SES: Gela        kogana            ‘a string of red money; a fathom’
-  SES: Gela        |alo ni toɣo|     ‘measure, length of arm’ (alo ‘string’)
+  SES: Gela        |alo ni toɣo|     ‘measure, length of arm’ (_alo_ ‘string’)
   SES: Sa’a        māpou             ‘a measure of shell money, from the fingertips to the elbow; a cubit’
-  SES: Ulawa       |ida ʔapala|      ‘a length of money from the fingertips to the opposite shoulder, a yard and a quarter’ (ʔapala ‘shoulder’)
+  SES: Ulawa       |ida ʔapala|      ‘a length of money from the fingertips to the opposite shoulder, a yard and a quarter’ (_ʔapala_ ‘shoulder’)
   SES: Arosi       māmoku            ‘a measure of shell money from finger tips to elbow’
 
    The absence of records of these terminologies from dictionaries of SE Solomonic and
@@ -26429,7 +26408,7 @@ and omitted more traditional or more archaic terms.
 554   Malcolm Ross
 
 
-   In the Ulawa term ida ʔapala above, ʔapala means ‘shoulder’, but no separate item ida is
+   In the Ulawa term _ida ʔapala_ above, _ʔapala_ means ‘shoulder’, but no separate item _ida_ is
 recorded by Ivens. This is, we assume, an idiomatic phrase, the full original meaning of
 which is now lost. This seems to be true of a number of the terms cited below.
 
@@ -26441,11 +26420,11 @@ concept was expressed by a dedicated term in the relevant protolanguage.
 
    All the terms reconstructed below have their basis in the fingers, hands and arms of the
 human body. This is unsurprising, as traditional units of measurement the world over have
-been based on the human body. The cubit (elbow to fingertip; §16.6.4) was an important
-measure used around the Mediterranean. Mongolian had the ald, Ancient Greek the orgyiá,
-Old English the fæðm, all denoting a pair of embracing or outstretched arms and
-corresponding to the Oceanic fathom. The pre-metrication English system had the inch, based
-on the width of a person’s thumb, and the foot. The length of the foot is recorded as a unit of
+been based on the human body. The _cubit_ (elbow to fingertip; §16.6.4) was an important
+measure used around the Mediterranean. Mongolian had the _ald_, Ancient Greek the _orgyiá_,
+Old English the _fæðm_, all denoting a pair of embracing or outstretched arms and
+corresponding to the Oceanic fathom. The pre-metrication English system had the _inch_, based
+on the width of a person’s thumb, and the _foot_. The length of the foot is recorded as a unit of
 measurement in a few Oceanic sources, but no dedicated term is reconstructable.
 
    There is a further division to be made among these body-based terms. The few
@@ -26467,7 +26446,7 @@ to verbs of measuring, and §16.8 draws some rather restricted conclusions.
    One might expect a chapter entitled ‘Measurement’ to deal with terms for ‘length’ and
 ‘breadth’. If we exclude the use of length in a length of X, then Oceanic languages tend not to
 have dedicated terms for ‘length’ and ‘breadth’. Instead they either use the terms for
-‘long’ (especially reflexes of POc *[ma]lawa ‘long, tall’; vol.2:198) or ‘broad’ as nouns,
+‘long’ (especially reflexes of POc _*[ma]lawa_ ‘long, tall’; vol.2:198) or ‘broad’ as nouns,
 occasionally with nominalising morphology, or as adjectives as in It is 3 metres long.
 
 
@@ -26475,11 +26454,11 @@ occasionally with nominalising morphology, or as adjectives as in It is 3 metres
 
 16.5.1 The span
 
-The most widely reflected term for a hand-based measurement is POc *saŋa, which Blust
+The most widely reflected term for a hand-based measurement is POc _*saŋa_, which Blust
 (ACD) glosses ‘crotch, fork of the legs; span, fork of the fingers’. This gloss captures the fact
-that the POc meaning of this term was less specific than it is in a number of daughter-
-languages. Further, according to the ACD, POc *saŋa had two PMP ancestors, *saŋa
-‘bifurcation’ and *zaŋan ‘handspan’, which merged in PEMP and POc as *saŋa. To judge
+that the POc meaning of this term was less specific than it is in a number of daughter-languages.
+Further, according to the ACD, POc _*saŋa_ had two PMP ancestors, _*saŋa_
+‘bifurcation’ and _*zaŋan_ ‘handspan’, which merged in PEMP and POc as _*saŋa_. To judge
 from its Oceanic reflexes, it retained this range of meaning, and also had the senses of a
 forked stick or branch (vol.3:96) and the crotch (the bifurcation of the legs; vol.5:173). This
 breadth of meaning has ensured the word’s retention in numerous languages, along with the
@@ -26494,15 +26473,15 @@ this was the little finger.
                                                                     Linear measurement 555
 
 
-   Jackson (1983:77) notes that the loss of *s- in the Chuukese reflexes of *saŋa, all of
+   Jackson (1983:77) notes that the loss of _*s-_ in the Chuukese reflexes of _*saŋa_, all of
 them numeral classifiers prefixed by a numeral, is an irregular innovation that along with
 others defines the Chuukese subgroup. Non-Chuukese Micronesian languages have lost the
 term.
 
    The non-cognate items listed below as ‘other terms for the span’ indicate that the
 concept and use of the hand span as a measure was clearly present in Oceanic regions
-where a reflex of *saŋa was not used to denote it. However, it is perhaps significant that no
-reflexes of *saŋa are found in mainland New Guinea or in Admiralties, N-C Vanuatu or
+where a reflex of _*saŋa_ was not used to denote it. However, it is perhaps significant that no
+reflexes of _*saŋa_ are found in mainland New Guinea or in Admiralties, N-C Vanuatu or
 New Caledonian languages. In the latter cases, this may reflect insufficient data sources; in
 the case of New Guinea it may reflect contact with Papuan systems of measurement, but
 this is a matter for further research.
@@ -26518,7 +26497,7 @@ POc *saŋa- ‘fork (in tree), forked stick or branch; crotch, fork of the legs;
   SES: Gela            haŋa          ‘span, outstretched fingers’
   SES: ’Are’are        tana          ‘span, between thumb and first finger; to span with this measure’
   SES: Sa’a            taŋa-a        (N) ‘a span’; (VT) ‘to span with the hand’
-  SES: Arosi           taŋa(a)       ‘a hand’s breadth, fingers extended’ (-a nominaliser)
+  SES: Arosi           taŋa(a)       ‘a hand’s breadth, fingers extended’ (_-a_ nominaliser)
 PChk *yaŋa ‘finger span’ (Bender et al. 2003b)
   Mic: Puluwatese      -yaŋ          ‘span’
   Mic: Chuukese        -yāŋ          ‘span between thumb and forefinger’
@@ -26574,17 +26553,17 @@ __formgroup__
 16.5.2 Fingers
 
 There are thinly scattered terms for the lengths of one finger segment and two finger
-segments in SE Solomonic and Micronesian languages. The fact that there is a (non-
-Oceanic) Kéo term for a finger segment suggests that a term may have been present in
+segments in SE Solomonic and Micronesian languages. The fact that there is a (non-Oceanic)
+Kéo term for a finger segment suggests that a term may have been present in
 POc, but there is no evidence for a reconstruction.
 
 <
   CMP: Kéo          fatə             ‘a finger segment’
-  MM: Babatana      |papado tutuku|  ‘distance between first and second finger joints’ (papado ‘joint’; tutuku ‘finger’)
+  MM: Babatana      |papado tutuku|  ‘distance between first and second finger joints’ (_papado_ ‘joint’; _tutuku_ ‘finger’)
  SES: Longgu        kidoi            ‘an inch; the length of one finger joint’
-PChk *makoto-ciki ‘length of one finger segment’ (-ciki ‘small’; Bender et al. 2003b)
+PChk *makoto-ciki ‘length of one finger segment’ (_-ciki_ ‘small’; Bender et al. 2003b)
  Mic: Carolinian    mʷɔwo-ṣix        ‘length of one finger segment’ (about an inch = 2.5 cm)
- Mic: Woleaian      maxō-ṣix         ‘length of one finger segment’ (maxō ‘finger-segment’; ṣix ‘small’)
+ Mic: Woleaian      maxō-ṣix         ‘length of one finger segment’ (_maxō_ ‘finger-segment’; _ṣix_ ‘small’)
 >
 
 The evidence for a measurement term meaning two finger segments is weaker and in any
@@ -26592,9 +26571,9 @@ case does not go back beyond PEOc.
 
 <
  SES: ’Are’are      ato-ato        ‘a measure, the two joints of a thumb’
-PChk *makoto-lapa ‘length of two finger segments’ (-lapa ‘big’; Bender et al. 2003b)
+PChk *makoto-lapa ‘length of two finger segments’ (_-lapa_ ‘big’; Bender et al. 2003b)
  Mic: Carolinian    mʷɔwo-lap      ‘length of two finger segments (about 5 cm)’
- Mic: Woleaian      maxō-rap       ‘length of two finger segment’ (maxō ‘finger-segment’; rap ‘big’)
+ Mic: Woleaian      maxō-rap       ‘length of two finger segment’ (_maxō_ ‘finger-segment’; _rap_ ‘big’)
 >
 
    A PChk term for ‘length of a finger’ is reconstructable, and the non-cognate
@@ -26622,10 +26601,10 @@ __formgroup__
 
 16.5.3 Hand-related units larger than a finger
 
-Just a few terms meaning ‘width of the palm’ have been found: Kéo (CMP) pəʔba ‘width
-across widest part of hand at base of the thumb’; Kwaio (SES) fadaleʔenima ‘width of palm
-and four fingers’; Sa’a kʷaŋo i saʔo ‘a measure, a hand’s breadth’; and Woleaian (Mic) -peṣa-
-nim ‘width of the palm’ (lit. ‘handle of hand’). It isn’t clear, however, that these refer to the
+Just a few terms meaning ‘width of the palm’ have been found: Kéo (CMP) _pəʔba_ ‘width
+across widest part of hand at base of the thumb’; Kwaio (SES) _fadaleʔenima_ ‘width of palm
+and four fingers’; Sa’a _kʷaŋo i saʔo_ ‘a measure, a hand’s breadth’; and Woleaian (Mic)
+_-peṣa-nim_ ‘width of the palm’ (lit. ‘handle of hand’). It isn’t clear, however, that these refer to the
 same dimension, and they may reflect independent innovations.
 
    Some Eastern Oceanic languages have a term for a unit of measure from the wrist to the
@@ -26634,7 +26613,7 @@ fingertips, and such a unit was perhaps present in PEOc, but no term is reconstr
 __formgroup__
   SES: Ulawa         |kʷaŋo i saʔo|  ‘a measure, from finger tips to wrist’ (in Sa’a ‘a hand’s breadth’)
   Mic: Carolinian    -xumʷuṣ         ‘counting classifier for measurement from the tip of the finger to the wrist, for measuring depth of rice or liquids’
-  Mic: Woleaian      xumʷüṣ          ‘from wrist to end of fingers’ (xumʷüṣ ‘wrist’)
+  Mic: Woleaian      xumʷüṣ          ‘from wrist to end of fingers’ (_xumʷüṣ_ ‘wrist’)
   Pn:  Samoan        lauiʔa          ‘a measure from above the wrist to the tips of the fingers’ (Pratt 1862)
 
 
@@ -26657,7 +26636,7 @@ not be reported from so many languages whose speakers do not have or no longer h
 shell money tradition.
 
    POc appears to have had two terms for fathom, but they had different grammatical
-functions. POc *ropa was a noun, and POc *-ŋapa a numeral classifier.
+functions. POc _*ropa_ was a noun, and POc _*-ŋapa_ a numeral classifier.
 
 <
 PAn *depah ‘fathom’ (ACD)
@@ -26683,37 +26662,41 @@ Proto Kilivila *ova- (CLF) ‘fathom; double-arm span’
   Pn:  Nukuoro         loha-loha    ‘to measure off in fathoms’
   Pn:  K’marangi       loho         ‘fathom, measure in fathoms’
   Pn:  Rennellese      goha         ‘fathoms of line or distances; to be a fathom’
-  Pn:  Sikaiana        (se)loha     ‘one fathom’ (se- ‘one’)
-  Pn:  Takuu           (sa)rofa     ‘measure of distance between the fingertips of one’s outstretched hands: fathom; to measure in fathoms’ (sa- ‘one’)
+  Pn:  Sikaiana        (se)loha     ‘one fathom’ (_se-_ ‘one’)
+  Pn:  Takuu           (sa)rofa     ‘measure of distance between the fingertips of one’s outstretched hands: fathom; to measure in fathoms’ (_sa-_ ‘one’)
   Pn:  W Futuna        rafa         ‘fathom’
 >
 
                                                                                 Linear measurement 559
 
 
-   The numeral classifier *-ŋapa continues to be reflected as a classifier in Admiralties and
+   The numeral classifier _*-ŋapa_ continues to be reflected as a classifier in Admiralties and
 some Micronesian languages. In other languages it has been reanalysed as a noun. It
-reflects the PMP classifier construction *numeral-[ŋa-]classifier, mentioned in §16.2 and
-discussed in more detail in §14.3. Blust (ACD) does not reconstruct *-ŋapa to a stage earlier
+reflects the PMP classifier construction *numeral-[_ŋa-_]classifier, mentioned in §16.2 and
+discussed in more detail in §14.3. Blust (ACD) does not reconstruct _*-ŋapa_ to a stage earlier
 than POc, and we have found no non-Oceanic cognates. Nonetheless, from its form it seems
-probable that it occurred in the environment of, e.g. †*sa-ŋa-ropa ‘one fathom’, †*rua-ŋa-
-ropa ‘two fathoms’, and so on. However, rather than †*-ŋa-ropa the data require
-reconstruction of the abbreviated form *-ŋa-pa. Section 14.4.5.2 shows that, for example,
-*sa-ŋa-puluq ‘(one) ten’ was reanalysed as *sa-ŋapuluq in very early Oceanic. An analogous
-change evidently reanalysed †*sa-ŋa-ropa as *sa-ŋa(ro)pa, resulting in forms such as in (8).
+probable that it occurred in the environment of, e.g. †_*sa-ŋa-ropa_ ‘one fathom’,
+†_*rua-ŋa-ropa_ ‘two fathoms’, and so on. However, rather than †_*-ŋa-ropa_ the data require
+reconstruction of the abbreviated form _*-ŋa-pa_. Section 14.4.5.2 shows that, for example,
+_*sa-ŋa-puluq_ ‘(one) ten’ was reanalysed as _*sa-ŋapuluq_ in very early Oceanic. An analogous
+change evidently reanalysed †_*sa-ŋa-ropa_ as _*sa-ŋa(ro)pa_, resulting in forms such as in (8).
 
-[4]  Seimat kaha-ina is a verb, but reflects the putative PAd noun *drapa ‘fathom’, which in turn reflects POc *na
-    ropa, where *na was the specific determiner which gave rise to PAd initial secondary nasal grade in alienable
-    nouns (Ross 1988:337–341). The medial -a- of Seimat kaha- is an unexplained development that is also
-    reflected in the Levei-Drehet cognate a-lap. It is possible that it reflects analogy with *-ŋapa ‘fathom’.
+[4]  Seimat _kaha-ina_ is a verb, but reflects the putative PAd noun _*drapa_ ‘fathom’, which in turn reflects
+POc _*na ropa_, where _*na_ was the specific determiner which gave rise to PAd initial secondary nasal
+grade in alienable nouns (Ross 1988:337–341). The medial _-a-_ of Seimat _kaha-_ is an unexplained
+development that is also reflected in the Levei-Drehet cognate _a-lap_. It is possible that it
+reflects analogy with _*-ŋapa_ ‘fathom’.
 
 560      Malcolm Ross
 
 
-8)      fathoms:             one            two             three
-        POc                  *sa-ŋapa       *rua-ŋapa       *tolu-ŋapa
-        Loniu (Adm)[5]         ha-ŋah         maʔ-u-ŋeh       ma-culu-ŋah
-        Puluwat (Mic)        ye-ŋaf         rua-ŋaf         yelɨ-ŋaf
+8)
+
+__table__
+      fathoms:            | one        | two          | three
+        POc               | _*sa-ŋapa_ | _*rua-ŋapa_  | _*tolu-ŋapa_
+        Loniu (Adm)[5]    | _ha-ŋah_   | _maʔ-u-ŋeh_  | _ma-culu-ŋah_
+        Puluwat (Mic)     | _ye-ŋaf_   | _rua-ŋaf_    | _yelɨ-ŋaf_
 
 Many of the reflexes below reflect a reanalysis of the classifier as a noun.
 
@@ -26744,7 +26727,7 @@ PMic *ŋafa ‘fathom’ (Bender et al. 2003a); (v) ‘measure in fathoms’
  Mic: Mortlockese       -ŋaf              ‘fathom’
  Mic: Chuukese          -ŋaf              ‘fathom’
  Mic: Puluwat           ŋāf               ‘fathom’
- Mic: Puluwat           (ye)ŋaf           ‘one fathom’ (ye ‘one’)
+ Mic: Puluwat           (ye)ŋaf           ‘one fathom’ (_ye_ ‘one’)
  Mic: Satawalese        -ŋaf              ‘fathom’
  Mic: Carolinian        -ŋaf              ‘fathom’
  Mic: Carolinian        ŋāf               ‘fathom’
@@ -26760,14 +26743,14 @@ PMic *ŋafa ‘fathom’ (Bender et al. 2003a); (v) ‘measure in fathoms’
  Pn:  Pukapuka          ŋawa              ‘fathom’
 >
 
-[5] The origin of ma-, prefixed to numerals above ‘one’ when they are themselves prefixed to a classifier, is
-    not known (Hamel 1994:54).
+[5] The origin of _ma-_, prefixed to numerals above ‘one’ when they are themselves prefixed to a
+classifier, is not known (Hamel 1994:54).
 
                                                                  Linear measurement 561
 
 
-   Listed below are terms for ‘fathom’ in languages that lack a reflex of *ropa or *-ŋapa. The
-Drehu and Nengone terms below may reflect POc *-ŋapa, but our knowledge of the sound
+   Listed below are terms for ‘fathom’ in languages that lack a reflex of _*ropa_ or _*-ŋapa_. The
+Drehu and Nengone terms below may reflect POc _*-ŋapa_, but our knowledge of the sound
 correspondences of these languages is insufficient to be certain.
 
 __formgroup__
@@ -26778,7 +26761,7 @@ __formgroup__
   MM: Ramoaaina        babaluka      ‘fathom of shell money, twice the length of hand to chest’
   SES: Gela            ɣoto          ‘measure of both arms extended’
   SES: Longgu          tavaŋa        ‘fathom; the span of outstretch arms’
-  SES: Owa             tafaŋana      ‘measure of thumb tip to thumb tip with outstretched arms of s.o.’ (tafaŋa ‘long’)
+  SES: Owa             tafaŋana      ‘measure of thumb tip to thumb tip with outstretched arms of s.o.’ (_tafaŋa_ ‘long’)
   SES: To’aba’ita      ʔabala        ‘measure of length: from the tips of the fingers of one arm extended to the side to the tips of the fingers of the other arm extended to the side; fathom’
   SES: ’Are’are        ahana         ‘a measure, one fathom, i.e. the opening of a tall man's arms’
   SES: Kwaio           tafaŋa        ‘fathom’
@@ -26799,7 +26782,7 @@ __formgroup__
 The terms listed below all denote a measurement from the centre of the sternum (breastbone)
 to the fingertips of one outstretched arm, i.e. half a fathom.
 
-    The only term that can be reconstructed for a half-fathom is PChk *dila-wupʷa,
+    The only term that can be reconstructed for a half-fathom is PChk _*dila-wupʷa_,
 literally ‘breast split’. Beneath its reflexes are listed terms for half-fathom for a wide range of
 Oceanic languages. They indicate that the concept was present in POc but was probably
 expressed by a phrasal idiom. A couple of the terms listed below appear to mean something
@@ -26825,18 +26808,18 @@ __formgroup__
   NNG: Kove         vataŋa              ‘shell money measured to middle of sternum’
   PT: Kilivila      sividoga            ‘unit of horizontal measurement, from fingertip to centre of chest (e.g. measuring the exact length of a yam)’
   MM: Teop          ato                 ‘unit of measurement: yard’
-  MM: Banoni        |koci kobusu|       ‘half-fathom: finger tip to midline of breast’ (koci ‘cut’, kobusu ‘break’)
-  MM: Babatana      |düli kürisi|       ‘centre of chest to tip of fingers: half-fathom’ (düli ‘tear apart’; kürisi ‘arm’)
-  SES: Bugotu       |maða i sono|       ‘a measure, from finger-tip to breast-bone or throat’ (maða ‘bed mat’, sono ‘swallow’)
+  MM: Banoni        |koci kobusu|       ‘half-fathom: finger tip to midline of breast’ (_koci_ ‘cut’, _kobusu_ ‘break’)
+  MM: Babatana      |düli kürisi|       ‘centre of chest to tip of fingers: half-fathom’ (_düli_ ‘tear apart’; _kürisi_ ‘arm’)
+  SES: Bugotu       |maða i sono|       ‘a measure, from finger-tip to breast-bone or throat’ (_maða_ ‘bed mat’, _sono_ ‘swallow’)
   SES: Gela         levutilima          ‘measure, chest to finger tips’
-  SES: Longgu       |aba-i lima-i|      ‘half a fathom: from breast bone to finger tips’ (aba- ‘side’; lima- ‘(whole) arm’)
-  SES: To’aba’ita   ʔāʔaba, gʷaʔaba   ‘half-fathom: from centre of chest to fingertips of extended arm’ (ʔaba ‘hand, arm’)
+  SES: Longgu       |aba-i lima-i|      ‘half a fathom: from breast bone to finger tips’ (_aba-_ ‘side’; _lima-_ ‘(whole) arm’)
+  SES: To’aba’ita   ʔāʔaba, gʷaʔaba   ‘half-fathom: from centre of chest to fingertips of extended arm’ (_ʔaba_ ‘hand, arm’)
   SES: Arosi        ʔaba-i-rima         ‘a measure, from middle of chest to extended fingers’
   SES: Sa’a         |hahani ʔonoʔonoma| ‘measure: a half-fathom’
   NCV: Mota         |alo masalepei|     ‘measure from breastbone to finger-tips’
   Fij: Wayan        taba                ‘half a fathom: from the breastbone to the tip of the extended arm’
   Fij: Boumaa       taba                ‘measure from middle of chest to end of outstretchcd fingers’
-  Pn:  Tongan       tofi-fata-fata      ‘distance from centre of chest to tip of middle finger when the arm is fully extended sideways; half a fathom’ (fata-fata ‘chest’)
+  Pn:  Tongan       tofi-fata-fata      ‘distance from centre of chest to tip of middle finger when the arm is fully extended sideways; half a fathom’ (_fata-fata_ ‘chest’)
 
                                                                 Linear measurement 563
 
@@ -26848,22 +26831,22 @@ The variation among the glosses of these in-between terms prevents us from infer
 measurements POc speaks might have used..
 
    The most widespread of these measures is a length from the fingertips of one hand of an
-extended arm to the opposite shoulder. The lowest three items below reflect POc *qapaRa
+extended arm to the opposite shoulder. The lowest three items below reflect POc _*qapaRa_
 ‘shoulder’ (vol.5:142).
 
 __formgroup__
-  NNG: Kove        |wala-ra varexe|  ‘shell money measured to opposite shoulder’ (wala ‘shoulder’; varexe ‘side, half, portion’)
-  MM: Tangga       paklu-n-tua-n-er  ‘span from fingertips to opposite shoulder’ (paklu- ‘head’, tua- ‘bone’, er ??; Maurer 1966:76)
-  SES: Bugotu      |tao haðavu|      ‘a measure, finger tips to further shoulder’ (tao ‘mountain pass, saddle’)
-  SES: Ulawa       ʔapala            ‘a sum of money reaching from finger tips to opposite shoulder’ (ʔapala ‘shoulder’)
-  Mic: Woleaian    -yefaẓ           ‘with arm extended, length from end of fingers to shoulder of opposite arm’ (yefaẓe ‘shoulder’)
-  Mic: Sonsorol    -avala           ‘from fingers of one hand to shoulder of opposite arm’ (avala ‘shoulder’)
+  NNG: Kove        |wala-ra varexe|  ‘shell money measured to opposite shoulder’ (_wala_ ‘shoulder’; _varexe_ ‘side, half, portion’)
+  MM: Tangga       paklu-n-tua-n-er  ‘span from fingertips to opposite shoulder’ (_paklu-_ ‘head’, _tua-_ ‘bone’, er ??; Maurer 1966:76)
+  SES: Bugotu      |tao haðavu|      ‘a measure, finger tips to further shoulder’ (_tao_ ‘mountain pass, saddle’)
+  SES: Ulawa       ʔapala            ‘a sum of money reaching from finger tips to opposite shoulder’ (_ʔapala_ ‘shoulder’)
+  Mic: Woleaian    -yefaẓ           ‘with arm extended, length from end of fingers to shoulder of opposite arm’ (_yefaẓe_ ‘shoulder’)
+  Mic: Sonsorol    -avala           ‘from fingers of one hand to shoulder of opposite arm’ (_avala_ ‘shoulder’)
 
    A slightly longer measure was the length from the fingertips of one hand to the opposite
-elbow. The root of the Arosi and Owa items appears to reflect POc *bakewa
+elbow. The root of the Arosi and Owa items appears to reflect POc _*bakewa_
 ‘shark’ (vol.4:30), but, if it does, the association is not clear. Mellow (2014) writes
 somewhat mysteriously that ‘this measurement looks like a shark’. It is tempting to
-reconstruct PNPn *fati-uku (PPn *fati ‘angle, bend’; PPn *qutu(a) ‘promontory’) here, but
+reconstruct PNPn _*fati-uku_ (PPn _*fati_ ‘angle, bend’; PPn _*qutu(a)_ ‘promontory’) here, but
 POLLEX questions this, presumably because of the distribution of the Polynesian reflexes
 below, which embraces no Polynesian subgroup.
 
@@ -26871,7 +26854,7 @@ __formgroup__
   PT:  Kilivila    lipoi       ‘unit of length measurement, from left fingertip of outstretched arms across to right-hand elbow (three-quarters of a span)’
   SES: Arosi       babaʔewa    ‘a measure, from bent elbow of one arm to the extended fingers of the other’
   SES: Owa         paɣewa-na   ‘distance from fingertips to opposite elbow, about 1.4 metres’
-  Mic: Woleaian    wō-paü      ‘with arms extended, length from end of fingers to elbow of opposite arm’ (paü ‘arm’)
+  Mic: Woleaian    wō-paü      ‘with arms extended, length from end of fingers to elbow of opposite arm’ (_paü_ ‘arm’)
   Pn:  E Futunan   fatiku      ‘old fabric measure: distance from one hand of stretched arm to the elbow of the other arm’
   Pn:  Nukuoro     hadiugu     ‘a unit of linear measure (from the end of an outstretched hand to the bent elbow of the other arm)’
   Pn:  Takuu       fatiuku     ‘measure from fingertip to opposite elbow’
@@ -26888,8 +26871,8 @@ tell.
 __formgroup__
   PT: Kilivila        tomʷaidona        ‘from left fingertip to right armpit’ (lit. ‘the whole of him’)
   MM: Banoni          ɣarara            ‘part of fathom from right finger tips to left biceps’
-  SES: Ulawa          roŋo-roŋo         ‘a measure, from the finger tips to the right ear’ (roŋo ‘to hear’)
-  SES: Owa            onomiga-na        ‘measure from fingertips to throat’ (onomiga-na ‘throat of s.o.’ < onoa ‘swallow’)
+  SES: Ulawa          roŋo-roŋo         ‘a measure, from the finger tips to the right ear’ (_roŋo_ ‘to hear’)
+  SES: Owa            onomiga-na        ‘measure from fingertips to throat’ (_onomiga-na_ ‘throat of s.o.’ < onoa ‘swallow’)
   NCV: Mota           avawosua          ‘a measure of length; from right breast to fingers of left hand’
 
 16.6.4 The cubit
@@ -26922,18 +26905,18 @@ PMic *-mʷanū ‘length from elbow to finger tips’ (Bender et al. 2003a)
 __formgroup__
   NNG: Mangap         yok                 ‘cubit’
   PT:  Gumawana       |[k]aba katuguyala| ‘length of one’s forearm’
-  MM: Babatana        |pado körisi|         ‘cubit, from elbow to finger tip’ (papado ‘joint’; körisi ‘arm’)
-  SES: Bugotu         |lopo i guema|      ‘a measure, from finger-tip to elbow-joint’ (lopo ‘be rolled up’, guema ‘fishing rod’)
+  MM: Babatana        |pado körisi|         ‘cubit, from elbow to finger tip’ (_papado_ ‘joint’; _körisi_ ‘arm’)
+  SES: Bugotu         |lopo i guema|      ‘a measure, from finger-tip to elbow-joint’ (_lopo_ ‘be rolled up’, _guema_ ‘fishing rod’)
   SES: Gela           levu                ‘measure from the elbow to finger tips’
   SES: Gela           louloɣulima         ‘measure, elbow to finger tips’
-  SES: To’aba’ita     |kadeʔe ʔaba|       ‘measure of length: from the elbow to the fingertips; cubit ’(ʔaba- ‘arm’)
+  SES: To’aba’ita     |kadeʔe ʔaba|       ‘measure of length: from the elbow to the fingertips; cubit’ (_ʔaba-_ ‘arm’)
   SES: Lau            fātafaŋa            ‘measure, from tip of thumb to elbow’
-  SES: Lau            kadeʔaba            ‘a cubit’ (ʔaba- ‘arm’)
+  SES: Lau            kadeʔaba            ‘a cubit’ (_ʔaba-_ ‘arm’)
   SES: Arosi          māmoku              ‘a measure of shell money from finger tips to elbow’
   SES: Sa’a           māpou               ‘a measure of shell money, from the fingertips to the elbow, a cubit’
-  SES: Ulawa          |āni sūsū|          ‘a cubit’ (āni PREP; sūsū ‘elbow’)
-  NCV: Mota           |alo maluk panei|   ‘a measure of length’ (maluk panei ‘inner bend of elbow’)
-  NCV: Raga           |ŋadu-n lima|       ‘measure of length: hand to elbow’ (ŋadu ‘measure of length’; lima ‘arm’)
+  SES: Ulawa          |āni sūsū|          ‘a cubit’ (_āni_ PREP; _sūsū_ ‘elbow’)
+  NCV: Mota           |alo maluk panei|   ‘a measure of length’ (_maluk panei_ ‘inner bend of elbow’)
+  NCV: Raga           |ŋadu-n lima|       ‘measure of length: hand to elbow’ (_ŋadu_ ‘measure of length’; _lima_ ‘arm’)
 
    A few Oceanic languages have a term for the length of the arm as a measure, each
 involving a term for ‘arm’, but it is possible that these are parallel developments.
@@ -26941,19 +26924,19 @@ involving a term for ‘arm’, but it is possible that these are parallel devel
 16.6.5 Longer than the fathom
 
 The lists in (6) show that Tolai (MM) had terms for units of shell money longer than the
-fathom. Arosi (SES) had terms for larger units still: tahaŋa ‘4 fathoms of shell money’;
-gagau ‘25 fathoms of shell money’; ita ‘40 fathoms of shell money’. Arosi ʔauhoa is ‘a
-measure, about a furlong’ (Fox 1978).’ Owa (SES) wairina is ‘ten fathoms’. However, the
+fathom. Arosi (SES) had terms for larger units still: _tahaŋa_ ‘4 fathoms of shell money’;
+_gagau_ ‘25 fathoms of shell money’; _ita_ ‘40 fathoms of shell money’. Arosi _ʔauhoa_ is ‘a
+measure, about a furlong’ (Fox 1978).’ Owa (SES) _wairina_ is ‘ten fathoms’. However, the
 evidence for such terms is very fragmentary indeed.
 
-   Clark (1999) reconstructs Proto Polynesian *(ŋa)kumi ‘ten fathoms’.
+   Clark (1999) reconstructs Proto Polynesian _*(ŋa)kumi_ ‘ten fathoms’.
 
 <
 PPn *(ŋa)kumi (CLF) ‘ten fathoms’ (Clark 1999 )
-  Pn: Tongan           (se)kumi          ‘ten fathoms’ (se- ‘one’)
+  Pn: Tongan           (se)kumi          ‘ten fathoms’ (_se-_ ‘one’)
   Pn: Samoan           ʔumi              ‘ten fathoms’ (Pratt)
   Pn: Rennellese       kumi              ‘ten fathoms’
-  Pn: Takuu            (se)kumi          ‘ten fathoms’ (se- ‘one’)
+  Pn: Takuu            (se)kumi          ‘ten fathoms’ (_se-_ ‘one’)
   Pn: Tuvalu           kumi              ‘ten fathoms of line’
   Pn: E Uvean          kumi              ‘ten fathoms’
   Pn: Pukapuka         kumi              ‘ten fathoms’
@@ -26972,16 +26955,16 @@ PPn *(ŋa)kumi (CLF) ‘ten fathoms’ (Clark 1999 )
 16.7 Verbs of measuring
 
 The POc verb for measuring out a length, for example, of wood and marking it accordingly
-was *topoŋ. Final *-ŋ is reflected before a suffix in Mussau and Numbami. It is thus a regular
-continuation of PAn *tepeŋ ‘to measure quantities, as amounts of grain’, but appears to have
+was _*topoŋ_. Final _*-ŋ_ is reflected before a suffix in Mussau and Numbami. It is thus a regular
+continuation of PAn _*tepeŋ_ ‘to measure quantities, as amounts of grain’, but appears to have
 undergone a change in meaning, as only one of the Oceanic reflexes listed below, namely
 Longgu (SES), refers to measuring volume rather then length. Wherever the glosses of
 other items are specific about what is being measured, it is the length of a rigid object.
 Given the distinction made earlier between measuring rigid objects (§16.5) and measuring
 flexible objects (§16.6), one might also expect a verb for measuring flexible objects. POc
-*ropa ‘fathom’ also served this purpose, as the meaning ‘measure in fathoms’ is
+_*ropa_ ‘fathom’ also served this purpose, as the meaning ‘measure in fathoms’ is
 reconstructable from its reflexes (§16.6.1). The same meaning appears to be reconstructable
-for *-ŋapa, but as it was a POc classifier, and thus a bound morpheme, it seems unlikely
+for _*-ŋapa_, but as it was a POc classifier, and thus a bound morpheme, it seems unlikely
 that it was also used as a POc verb, and probable that reflexes with the meaning ‘measure
 in fathoms’ are later developments.
 
@@ -26992,13 +26975,13 @@ POc *topoŋ ‘to measure; to mark (for cutting); to try (s.t.) out’
  Adm: Nyindrou        (mu)droh          ‘to measure out’
  NNG: Takia           tou               (N) ‘measure, mark, linear size’
  NNG: Mutu            tov               ‘to measure (e.g. house)’
- NNG: Numbami         |(-aᵐbi) tuaŋ(ana)| ‘to measure, judge, assess’ (-aᵐbi ‘hold, get, take’, tuaŋana (nominalisation) ‘measurement’)
+ NNG: Numbami         |(-aᵐbi) tuaŋ(ana)| ‘to measure, judge, assess’ (_-aᵐbi_ ‘hold, get, take’, _tuaŋana_ (nominalisation) ‘measurement’)
  NNG: Mengen          to[e]             ‘to measure’
- PT:   Yamalele       (ʔe)towava[i]     ‘to measure length’ (final -va unexplained)
+ PT:   Yamalele       (ʔe)towava[i]     ‘to measure length’ (final _-va_ unexplained)
  PT:   Motu           toho-a            ‘to try; to mark for cutting; to rule lines’
  MM: Nakanai          tovo              ‘to record, to measure, to try out’
  MM: Sursurunga       toho-i            ‘try’
- MM: Sursurunga       |toh (pasi)|        ‘to measure’ (pasi ‘get, acquire’)
+ MM: Sursurunga       |toh (pasi)|        ‘to measure’ (_pasi_ ‘get, acquire’)
  SES: Tolo            tovo-a            ‘to try, attempt’
  SES: Longgu          tovo-a            ‘to test s.o. or s.t. (to see if any good); to measure (quantity of rice, sugar)’
  SES: Lau             tō-a              ‘to measure’
@@ -27010,7 +26993,7 @@ POc *topoŋ ‘to measure; to mark (for cutting); to try (s.t.) out’
 PNCV *tovo ‘measure’ (Clark 2009)
  NCV: Mota            towo              ‘to measure (s.t.) out’
  NCV: Araki           tovo              ‘to measure, count, read’
- NCV: W Ambrym        tō(tene)          ‘measure’ (tene ‘towards’)
+ NCV: W Ambrym        tō(tene)          ‘measure’ (_tene_ ‘towards’)
  NCV: Mafea           tovo-             ‘count’
  NCV: Port Sandwich   tö-to(rini)       ‘measure’
  NCV: Raga            dov               ‘measure, appoint, design’
@@ -27025,7 +27008,7 @@ PNCV *tovo ‘measure’ (Clark 2009)
                                                                 Linear measurement 567
 
 
-   POc *topoŋ was evidently lost in PPn, and was replaced by PPn *fua. There are possible
+   POc _*topoŋ_ was evidently lost in PPn, and was replaced by PPn _*fua_. There are possible
 cognates in some Western Oceanic languages.
 
 <
@@ -27059,7 +27042,7 @@ money.
    Units of measurement applied to shell money and other items centred on the fathom,
 which with its definition as the distance between the fingertips of two outstretched arms,
 served as a baseline for the creation of other terms. It is significant that two POc terms for the
-fathom are readily reconstructable—*ropa and *-ŋapa—but that POc terms for the half-fathom and
+fathom are readily reconstructable—_*ropa_ and _*-ŋapa_—but that POc terms for the half-fathom and
 units between the half-fathom and the fathom are not. The fact that a number of
 Oceanic languages agree on expressing these meanings implies that the concepts existed in
 POc, but the fact that no POc lexical items for them are reconstructable suggests that they
@@ -27067,5 +27050,5 @@ were perhaps referred to by phrasal idioms that have been continually replaced. 
 shorter units of measurement, terms for the cubit are found across Oceania, and there was
 presumably a POc term for it, but the evidence does not permit a reconstruction.
 
-   The two POc reconstructions for ‘fathom’, *ropa and *-ŋapa, are respectively a noun and
+   The two POc reconstructions for ‘fathom’, _*ropa_ and _*-ŋapa_, are respectively a noun and
 a classifier. Classifiers are discussed at some length in chapter 14.

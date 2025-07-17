@@ -222,79 +222,93 @@ Fijian preserves the classification in Table 2 quite clearly, although individua
 
 <a id="p-22"></a>
 
-(1) Boumā (Fij): ([Dixon 1988:204, 231](../sources/Dixon1988))<table class="igt labeled">
+<ol start="1"><li>
+<ol type="a"><li>
+Boumā (Fij): ([Dixon 1988:204, 231](../sources/Dixon1988))<table style="padding-left: 2em;" class="igt">
 <caption>‘I'm kicking.’</caption>
 <tr>
-<td>a.</td><td><i>Au</i></td>
+<td><i>Au</i></td>
 <td><i>rabe.</i></td>
 <td style="width: 100%"> </td>
 </tr>
 <tr>
-<td>&nbsp;</td><td>s:1s</td>
+<td>s:1s</td>
 <td>kick</td>
 <td style="width: 100%"> </td>
 </tr>
 </table>
-<table class="igt labeled">
+</li>
+<li>
+Boumā (Fij): ([Dixon 1988:204, 231](../sources/Dixon1988))<table style="padding-left: 2em;" class="igt">
 <caption>‘I'm kicking the ball.’</caption>
 <tr>
-<td>b.</td><td><i>Au</i></td>
+<td><i>Au</i></td>
 <td><i>rabe-t-a</i></td>
 <td><i>a</i></td>
 <td><i>polo.</i></td>
 <td style="width: 100%"> </td>
 </tr>
 <tr>
-<td>&nbsp;</td><td>s:1s</td>
+<td>s:1s</td>
 <td>kick-TR-O:3s</td>
 <td>ART</td>
 <td>ball</td>
 <td style="width: 100%"> </td>
 </tr>
 </table>
-
+</li>
+</ol></li>
+</ol>
 
 Intransitive verbs with an undergoer subject, on the other hand, fall into two classes, U and U-stative. With U verbs the subject of the intransitive is the object of the corresponding transitive:
 
-(2) Boumā (Fij): ([Dixon 1988:204, 231](../sources/Dixon1988))<table class="igt labeled">
+<ol start="2"><li>
+<ol type="a"><li>
+Boumā (Fij): ([Dixon 1988:204, 231](../sources/Dixon1988))<table style="padding-left: 2em;" class="igt">
 <caption>‘The sugarcane is being crushed.’</caption>
 <tr>
-<td>a.</td><td><i>E</i></td>
+<td><i>E</i></td>
 <td><i>gagi</i></td>
 <td><i>a</i></td>
 <td><i>dovu.</i></td>
 <td style="width: 100%"> </td>
 </tr>
 <tr>
-<td>&nbsp;</td><td>s:3s</td>
+<td>s:3s</td>
 <td>crush</td>
 <td>ART</td>
 <td>sugarcane</td>
 <td style="width: 100%"> </td>
 </tr>
 </table>
-<table class="igt labeled">
+</li>
+<li>
+Boumā (Fij): ([Dixon 1988:204, 231](../sources/Dixon1988))<table style="padding-left: 2em;" class="igt">
 <caption>‘I'm crushing the sugarcane.’</caption>
 <tr>
-<td>b.</td><td><i>Au</i></td>
+<td><i>Au</i></td>
 <td><i>gagi-a</i></td>
 <td><i>a</i></td>
 <td><i>dovu.</i></td>
 <td style="width: 100%"> </td>
 </tr>
 <tr>
-<td>&nbsp;</td><td>s:1s</td>
+<td>s:1s</td>
 <td>crush-O:3s</td>
 <td>ART</td>
 <td>sugarcane</td>
 <td style="width: 100%"> </td>
 </tr>
 </table>
-
+</li>
+</ol></li>
+</ol>
 
 U verbs and U-statives differ from each other in two respects. First, unlike U verbs, U-statives have no corresponding transitive (but do have a corresponding causative, as described below). Second, U-statives like loaloa 'be black' in (3) are inherently stative, whereas U verbs like gagi in (4) are inherently neither dynamic nor stative. With appropriate aspect marking and context, the clause in (4) may be given either a dynamic ('the sugarcane is being crushed') or a stative ('the sugarcane is [already] crushed') interpretation.
 
-(3) Boumā (Fij): ([Dixon 1988:204, 231](../sources/Dixon1988))<table class="igt">
+<ol start="3"><li>
+ <ul style="list-style: none"><li>
+Boumā (Fij): ([Dixon 1988:204, 231](../sources/Dixon1988))<table style="padding-left: 2em;" class="igt">
 <caption>‘This dog is black.’</caption>
 <tr>
 <td><i>E</i></td>
@@ -313,9 +327,13 @@ U verbs and U-statives differ from each other in two respects. First, unlike U v
 <td style="width: 100%"> </td>
 </tr>
 </table>
+</li>
+</ul></li>
+</ol>
 
-
-(4) Boumā (Fij): ([Dixon 1988:204, 231](../sources/Dixon1988))<table class="igt">
+<ol start="4"><li>
+ <ul style="list-style: none"><li>
+Boumā (Fij): ([Dixon 1988:204, 231](../sources/Dixon1988))<table style="padding-left: 2em;" class="igt">
 <caption>‘The sugarcane is crushed.’</caption>
 <tr>
 <td><i>E</i></td>
@@ -332,7 +350,9 @@ U verbs and U-statives differ from each other in two respects. First, unlike U v
 <td style="width: 100%"> </td>
 </tr>
 </table>
-
+</li>
+</ul></li>
+</ol>
 
 The dividing line between U and U-stative is a thin one. In some, probably many, Oceanic languages, including Fijian, appropriate aspect marking can force a dynamic interpretation of an U-stative (e.g. of 'black' as 'become black '). There does, however, seem to be a semantic difference between the two classes: intransitive U verbs imply some unmentioned agent or instrument, whereas U-statives do not.
 
@@ -698,10 +718,12 @@ In the light of these complications-and because we do not understand them well-w
 
 POc had no separate adjective class. Instead, it had a large class of adjectival verbs and a small class of adjectival nouns ([Ross 1998a](../sources/Ross1998a)). The class of adjectival verbs appears to have included all U-statives, and at least some U intransitives ([§3.1.1](../contributions/1-2#s-3-1-1)). Many reconstructed adjectival verbs include the U intransitive prefix _&ast;ma-_ ([§3.1.2](../contributions/1-2#s-3-1-2)). Both adjectival verbs and adjectival nouns could apparently follow the noun they modified without any morphological marking, but their behaviour differed in the predicate. There, an adjectival verb behaved like any intransitive verb, whilst an adjectival noun behaved as a (zero-valency) noun whose property is attributed to a referent or referents. Thus POc _&ast;saqat_ 'bad' was an adjectival verb, _&ast;paqoRu_ 'new' an adjectival noun. Either could modify a noun: POc _&ast;a Rumaq saqat_ 'a bad house', POc _&ast;a Rumaq paqoRu_ 'a new house' (where _&ast;a_ was a common article). Compare Bali-Vitu _a rumaka zaɣata_ and _a rumaka vaɣoru_ (Bali-Vitu is a conservative Oceanic language of the Meso-Melanesian cluster). However, as predicates they behaved differently, probably as in the Bali-Vitu examples below, where _zaɣata_ 'bad' is a verb preceded by the proclitic _ti_, a portmanteau marker of third person subject and perfective aspect, whilst _vaɣoru_ 'new' is preceded by the article _a_ and means 'a new one'.
 
-(25) Bali-Vitu (MM)<table class="igt labeled">
+<ol start="25"><li>
+<ol type="a"><li>
+Bali-Vitu (MM)<table style="padding-left: 2em;" class="igt">
 <caption>‘That canoe is broken.’</caption>
 <tr>
-<td>a.</td><td><i>A</i></td>
+<td><i>A</i></td>
 <td><i>vaga</i></td>
 <td><i>beini</i></td>
 <td><i>ti</i></td>
@@ -709,7 +731,7 @@ POc had no separate adjective class. Instead, it had a large class of adjectival
 <td style="width: 100%"> </td>
 </tr>
 <tr>
-<td>&nbsp;</td><td>ARTICLE</td>
+<td>ARTICLE</td>
 <td>canoe</td>
 <td>that</td>
 <td>PERFECTIVE:3</td>
@@ -717,10 +739,12 @@ POc had no separate adjective class. Instead, it had a large class of adjectival
 <td style="width: 100%"> </td>
 </tr>
 </table>
-<table class="igt labeled">
+</li>
+<li>
+Bali-Vitu (MM)<table style="padding-left: 2em;" class="igt">
 <caption>‘That house is new.’</caption>
 <tr>
-<td>b.</td><td><i>A</i></td>
+<td><i>A</i></td>
 <td><i>rumaka</i></td>
 <td><i>beini</i></td>
 <td><i>a</i></td>
@@ -728,7 +752,7 @@ POc had no separate adjective class. Instead, it had a large class of adjectival
 <td style="width: 100%"> </td>
 </tr>
 <tr>
-<td>&nbsp;</td><td>ARTICLE</td>
+<td>ARTICLE</td>
 <td>house</td>
 <td>that</td>
 <td>ARTICLE</td>
@@ -736,7 +760,9 @@ POc had no separate adjective class. Instead, it had a large class of adjectival
 <td style="width: 100%"> </td>
 </tr>
 </table>
-
+</li>
+</ol></li>
+</ol>
 
 
 <a id="s-4"></a>

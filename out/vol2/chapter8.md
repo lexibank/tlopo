@@ -90,7 +90,9 @@ Relationships between widespread Oceanic categories that probably existed in POc
 
 We can illustrate the typical Oceanic system by summarising the system in Longgu (SES) as described by [Hill](../sources/Hill1992) ([1992](../sources/Hill1992), [1997](../sources/Hill1997), [2002](../sources/Hill2002)). Local nouns marking the axes of the geographic system are _asi_ ‘seawards’, _loŋa_ ‘inland’, _alaʔa_ ‘east’, _toli_ ‘west’, _vuʔa_ ‘down’, _laŋi_ ‘up’. Longgu has terms meaning ‘left’ and ‘right’, but their referents are the arms and the sides of the body, and they do not form part of the system of spatial orientation and are not local nouns. Where English would use ‘left’ or ‘right’, a Longgu speaker refers to _aʔae asi_ ‘the seawards leg’ or _aʔae longa-i_ ‘the inland leg’. ‘Nouns such as _komu_ ‘village’ and _luma_ ‘house’ function as place [local] nouns when their referent is the village or house considered to be the “home” location’ ([Hill 1997](../sources/Hill1997):103) and occur in different constructions from when they are used as common nouns (p.233). One of these constructions is with the preposition _i_ or with no preposition. Relational local nouns express intrinsic locations in relation to objects. For example, _ubu-_ ‘inside’ is treated as possessum in relation to the possessor _pera_ ‘basket’:
 
-Longgu (SES)<table class="igt">
+<ul style="list-style: none;"><li>
+ <ul style="list-style: none"><li>
+Longgu (SES)<table style="padding-left: 2em;" class="igt">
 <caption>‘The banana is inside the basket.’</caption>
 <tr>
 <td><i>vugi</i></td>
@@ -105,7 +107,9 @@ Longgu (SES)<table class="igt">
 <td style="width: 100%"> </td>
 </tr>
 </table>
-
+</li>
+</ul></li>
+</ul>
 
 Other relational local nouns are _buri-_ ‘behind’, _naʔova-_ ‘front’, _gege-_ ‘side’, _orova-_ ‘underneath’, _vavo-_ ‘top surface, space above’, _levua-_ ‘middle, centre’. Demonstratives are also a type of local noun, occurring with the preposition _i_ to indicate a location. Unlike many Oceanic languages, which have a person-oriented deictic system ([§3.4](../contributions/2-8#s-3-4)), Longgu deictics distinguish four degrees of deictic distance from the speaker: _nene_ ‘this, here’, _nina_ ‘that, there’, _ninaina_ ‘that yonder, yonder’ and _nihou_ ‘that/there far away’.
 
@@ -154,7 +158,9 @@ In POc and indeed throughout the history of many Oceanic subgroups there were th
     been lost), like _koma-na matan_ below.[^9] A locative expression with a common noun
    must be formed with a preposition.
 
-Taiof (MM)<table class="igt">
+<ul style="list-style: none;"><li>
+ <ul style="list-style: none"><li>
+Taiof (MM)<table style="padding-left: 2em;" class="igt">
 <caption>‘Maras is in the ditch.’</caption>
 <tr>
 <td><i>E</i></td>
@@ -177,7 +183,9 @@ Taiof (MM)<table class="igt">
 <td style="width: 100%"> </td>
 </tr>
 </table>
-
+</li>
+</ul></li>
+</ul>
 
    In Longgu local and common nouns are preceded by different paradigms of relators
    and prepositions (the term ‘relator’ is explained on p.268):
@@ -191,8 +199,10 @@ Taiof (MM)<table class="igt">
 
 Thus we find:
 
-Longgu (SES)<table class="igt">
-<caption>‘s/he went towards her/his (home) village’</caption>
+<ul style="list-style: none;"><li>
+ <ul style="list-style: none"><li>
+Longgu (SES)<table style="padding-left: 2em;" class="igt">
+<caption>‘s/he went towards her/his (home) village’ (local noun)</caption>
 <tr>
 <td><i>e</i></td>
 <td><i>la</i></td>
@@ -208,8 +218,10 @@ Longgu (SES)<table class="igt">
 <td style="width: 100%"> </td>
 </tr>
 </table>
-<table class="igt">
-<caption>‘s/he went to her/his (canoe)’</caption>
+</li>
+<li>
+Longgu (SES)<table style="padding-left: 2em;" class="igt">
+<caption>‘s/he went to her/his (canoe)’ (common noun)</caption>
 <tr>
 <td><i>e</i></td>
 <td><i>la</i></td>
@@ -229,7 +241,9 @@ Longgu (SES)<table class="igt">
 <td style="width: 100%"> </td>
 </tr>
 </table>
-
+</li>
+</ul></li>
+</ul>
 
    When a local noun indicating a geographic direction follows a verb it may occur
    without a preposition or relator, e.g. lae asi ‘go seawards’.
@@ -1865,45 +1879,53 @@ cf. also:
 
 The function of a POc monovalent relational local noun preceded by _&ast;i_ was similar to that of an English preposition, as in these Tabar (MM) examples, where the relational noun _paki-_ ‘underneath’ performs a function similar to that of the English preposition under.[^10]
 
-Tabar (MM)<table class="igt labeled">
-<caption>‘under the house’</caption>
+<ul style="list-style: none;"><li>
+<ol type="a"><li>
+Tabar (MM)<table style="padding-left: 2em;" class="igt">
+<caption>‘under the house’ (more literally ‘at the house__e__s underneath’)</caption>
 <tr>
-<td>a)</td><td><i>i</i></td>
+<td><i>i</i></td>
 <td><i>paki-na</i></td>
 <td><i>mi</i></td>
 <td><i>vanua</i></td>
 <td style="width: 100%"> </td>
 </tr>
 <tr>
-<td>&nbsp;</td><td>PREP</td>
+<td>PREP</td>
 <td>underneath-P:3SG</td>
 <td>ART</td>
 <td>house</td>
 <td style="width: 100%"> </td>
 </tr>
 </table>
-<table class="igt labeled">
+</li>
+<li>
+Tabar (MM)<table style="padding-left: 2em;" class="igt">
 <caption>‘under me’</caption>
 <tr>
-<td>b)</td><td><i>i</i></td>
+<td><i>i</i></td>
 <td><i>paki-gu</i></td>
 <td style="width: 100%"> </td>
 </tr>
 <tr>
-<td>&nbsp;</td><td>PREP</td>
+<td>PREP</td>
 <td>underneath-P:1SG</td>
 <td style="width: 100%"> </td>
 </tr>
 </table>
-
+</li>
+</ol></li>
+</ul>
 
 
 <a id="p-245"></a>
 
 In these Lengo (SES) expressions the relational noun _muri-_ ‘back’ performs a function similar to that of the English preposition behind.
 
-Lengo (SES)<table class="igt">
-<caption>‘behind the house’</caption>
+<ul style="list-style: none;"><li>
+ <ul style="list-style: none"><li>
+Lengo (SES)<table style="padding-left: 2em;" class="igt">
+<caption>‘behind the house’ (more literally ‘at the house__e__s back’)</caption>
 <tr>
 <td><i>i</i></td>
 <td><i>muri-e</i></td>
@@ -1919,7 +1941,9 @@ Lengo (SES)<table class="igt">
 <td style="width: 100%"> </td>
 </tr>
 </table>
-<table class="igt">
+</li>
+<li>
+Lengo (SES)<table style="padding-left: 2em;" class="igt">
 <caption>‘behind me’</caption>
 <tr>
 <td><i>i</i></td>
@@ -1932,12 +1956,16 @@ Lengo (SES)<table class="igt">
 <td style="width: 100%"> </td>
 </tr>
 </table>
-
+</li>
+</ul></li>
+</ul>
 
 Hence we can with reasonable confidence make POc reconstructions such as:
 
-POc<table class="igt">
-<caption>‘inside the house’</caption>
+<ul style="list-style: none;"><li>
+ <ul style="list-style: none"><li>
+POc<table style="padding-left: 2em;" class="igt">
+<caption>‘inside the house’ (more literally ‘at the house__e__s inside’)</caption>
 <tr>
 <td><i>*i</i></td>
 <td><i>lalo-ña</i></td>
@@ -1951,8 +1979,10 @@ POc<table class="igt">
 <td style="width: 100%"> </td>
 </tr>
 </table>
-<table class="igt">
-<caption>‘underneath the house’</caption>
+</li>
+<li>
+POc<table style="padding-left: 2em;" class="igt">
+<caption>‘underneath the house’ (more literally ‘at the house__e__s underneath’, _gabʷari-_ ‘the area underneath a raised house’; vol. 1, p.51)</caption>
 <tr>
 <td><i>*i</i></td>
 <td><i>gabʷari-ña</i></td>
@@ -1966,7 +1996,9 @@ POc<table class="igt">
 <td style="width: 100%"> </td>
 </tr>
 </table>
-<table class="igt">
+</li>
+<li>
+POc<table style="padding-left: 2em;" class="igt">
 <caption>‘behind me’</caption>
 <tr>
 <td><i>*i</i></td>
@@ -1979,7 +2011,9 @@ POc<table class="igt">
 <td style="width: 100%"> </td>
 </tr>
 </table>
-
+</li>
+</ul></li>
+</ul>
 
 Many Oceanic languages have relational nouns with the meanings reconstructed below: ‘inside’ ([§2.3.1](../contributions/2-8#s-2-3-1)), ‘underneath, lower surface, space below’ ([§2.3.2](../contributions/2-8#s-2-3-2)), ‘top, upper surface, space above’ ([§2.3.3](../contributions/2-8#s-2-3-3)), ‘side’ ([§2.3.4](../contributions/2-8#s-2-3-4)), ‘outside’ ([§2.3.5](../contributions/2-8#s-2-3-5)), ‘front, time before’ ([§2.3.6](../contributions/2-8#s-2-3-6)), ‘back, space behind, time after’ ([§2.3.7](../contributions/2-8#s-2-3-7)). Although the nearest semantic equivalents of Oceanic relational nouns are English prepositions, I have used nouns and noun phrases in the titles of these subsections in an attempt to replicate the meanings of the reconstructed Oceanic terms.[^11]
 
@@ -5677,7 +5711,9 @@ Verbs of deictic direction occur in serial verb constructions of deictic directi
 
 <a id="p-267"></a>
 
-Yabem (NNG)<table class="igt">
+<ul style="list-style: none;"><li>
+ <ul style="list-style: none"><li>
+Yabem (NNG)<table style="padding-left: 2em;" class="igt">
 <caption>‘The doves flew off to the mountain.’</caption>
 <tr>
 <td><i>balosi</i></td>
@@ -5694,9 +5730,13 @@ Yabem (NNG)<table class="igt">
 <td style="width: 100%"> </td>
 </tr>
 </table>
+</li>
+</ul></li>
+</ul>
 
-
-Yabem (NNG)<table class="igt">
+<ul style="list-style: none;"><li>
+ <ul style="list-style: none"><li>
+Yabem (NNG)<table style="padding-left: 2em;" class="igt">
 <caption>‘He climbed up to the men’s house.’</caption>
 <tr>
 <td><i>ke-pi</i></td>
@@ -5711,11 +5751,15 @@ Yabem (NNG)<table class="igt">
 <td style="width: 100%"> </td>
 </tr>
 </table>
-
+</li>
+</ul></li>
+</ul>
 
 Verbs of geographic direction also occur in serial verb constructions of geographic direction, where they follow a locomotion verb (transitive or intransitive). In this example, the locomotion verb is _-pwanɛʔ_ ‘insert’, the geographic directional verb _-sep_ ‘go down’.
 
-Yabem (NNG)<table class="igt">
+<ul style="list-style: none;"><li>
+ <ul style="list-style: none"><li>
+Yabem (NNG)<table style="padding-left: 2em;" class="igt">
 <caption>‘I’ll put the taro into my mouth.’</caption>
 <tr>
 <td><i>ya-pwanɛʔ</i></td>
@@ -5732,11 +5776,15 @@ Yabem (NNG)<table class="igt">
 <td style="width: 100%"> </td>
 </tr>
 </table>
-
+</li>
+</ul></li>
+</ul>
 
 Commonly the two constructions are combined, giving a sequence of locomotion verb, geographic directional verb and deictic directional verb, e.g. _-ne_ ‘sink’, _-sep_ ‘go down’ and _-yà_ ‘go away from speaker and addressee’ in this example.
 
-Yabem (NNG)<table class="igt">
+<ul style="list-style: none;"><li>
+ <ul style="list-style: none"><li>
+Yabem (NNG)<table style="padding-left: 2em;" class="igt">
 <caption>‘The canoe sank into the sea.’</caption>
 <tr>
 <td><i>waŋ</i></td>
@@ -5755,11 +5803,15 @@ Yabem (NNG)<table class="igt">
 <td style="width: 100%"> </td>
 </tr>
 </table>
-
+</li>
+</ul></li>
+</ul>
 
 Directional verbs, both deictic and geographic, also occur in sequential serial verb constructions, where the first verb is a directional verb expressing ‘go [up/down] and …’ or ‘come and …’, the second a verb expressing the main event of the predication. This example is from Bali (MM):
 
-Yabem (NNG)<table class="igt">
+<ul style="list-style: none;"><li>
+ <ul style="list-style: none"><li>
+Yabem (NNG)<table style="padding-left: 2em;" class="igt">
 <caption>‘They will go and catch fish.’</caption>
 <tr>
 <td><i>Hizi</i></td>
@@ -5780,7 +5832,9 @@ Yabem (NNG)<table class="igt">
 <td style="width: 100%"> </td>
 </tr>
 </table>
-
+</li>
+</ul></li>
+</ul>
 
 
 <a id="s-3-2"></a>
@@ -5792,7 +5846,9 @@ Directional verbs are grammaticised in a number of ways in Oceanic languages ([L
 
 In the first type of grammaticisation, a directional verb in a serial verb construction loses its subject proclitic/prefix and becomes a directional adverbial enclitic (glossed DIR in cogate sets). In the two Sisiqa (MM) examples below, the directional enclitics _=me_ and _=la_ reflect the POc deictic directional verb forms _&ast;ma_ ‘come’ and _&ast;la_ ‘go:2’ ([§3.4](../contributions/2-8#s-3-4)) respectively. Each is preceded by a locomotion verb (‘carry’, ‘walk’), reflecting an earlier serial verb construction of deictic direction.
 
-Sisiqa (MM)<table class="igt">
+<ul style="list-style: none;"><li>
+ <ul style="list-style: none"><li>
+Sisiqa (MM)<table style="padding-left: 2em;" class="igt">
 <caption>‘I have brought some coconuts.’</caption>
 <tr>
 <td><i>ra</i></td>
@@ -5809,7 +5865,9 @@ Sisiqa (MM)<table class="igt">
 <td style="width: 100%"> </td>
 </tr>
 </table>
-<table class="igt">
+</li>
+<li>
+Sisiqa (MM)<table style="padding-left: 2em;" class="igt">
 <caption>‘S/he is going to Susuka village.’</caption>
 <tr>
 <td><i>ɣōi</i></td>
@@ -5824,14 +5882,18 @@ Sisiqa (MM)<table class="igt">
 <td style="width: 100%"> </td>
 </tr>
 </table>
-
+</li>
+</ul></li>
+</ul>
 
 
 <a id="p-268"></a>
 
 In this Manam (NNG) example there is a sequence of locomotion verb (‘take’) and two directional enclitics, _-raʔe_ ‘up, to one’s right when facing sea’ (< geographical directional verb POc _&ast;sake_ ‘go up’, p.273) and _-laʔo_ ‘away’ (< deictic directional verb POc _&ast;lako_ ‘go:3’, p.287) reflecting an earlier three-verb sequence ([Lichtenberk 1983](../sources/Lichtenberk1983):576–582).
 
-Manam (NNG)<table class="igt">
+<ul style="list-style: none;"><li>
+ <ul style="list-style: none"><li>
+Manam (NNG)<table style="padding-left: 2em;" class="igt">
 <caption>‘He took the axes away upward.’</caption>
 <tr>
 <td><i>Ogi</i></td>
@@ -5844,11 +5906,15 @@ Manam (NNG)<table class="igt">
 <td style="width: 100%"> </td>
 </tr>
 </table>
-
+</li>
+</ul></li>
+</ul>
 
 In the second type of grammaticisation, described by [Pawley](../sources/Pawley1973) ([1973](../sources/Pawley1973)) and [Durie](../sources/Durie1988) ([1988](../sources/Durie1988)), a directional verb in a serial verb construction is reanalysed as a preposition or a relator (see below) and comes to form a constituent primarily with the following locative expression. Prepositional reflexes of POc _&ast;mai_ ‘come’ occur in Polynesian languages. In Samoan, for example, we find ([Mosel & Hovdhaugen 1992](../sources/MoselandHovdhaugen1992):147):
 
-Samoan (Pn)<table class="igt">
+<ul style="list-style: none;"><li>
+ <ul style="list-style: none"><li>
+Samoan (Pn)<table style="padding-left: 2em;" class="igt">
 <caption>‘The boy jumped down from the horse …’</caption>
 <tr>
 <td><i>Na</i></td>
@@ -5877,11 +5943,15 @@ Samoan (Pn)<table class="igt">
 <td style="width: 100%"> </td>
 </tr>
 </table>
-
+</li>
+</ul></li>
+</ul>
 
 In Meso-Melanesian languages of New Britain and New Ireland and in Longgu (SES), the deictic directional verbs _&ast;mai_ ‘come’ and _&ast;ua_ ‘go:2’ have become respectively ablative and allative relators ([Ross 2003](../sources/Ross2003)). I use the term ‘relator’ for a preposition-like morpheme which differs in its distribution from a preposition in that it precedes either a prepositional phrase or a local noun. This distribution reflects its verbal ancestry: a POc deictic directional verb could be followed by a locative expression consisting of a local noun or a prepositional phrase. Hence in Longgu, vu is the allative relator reflecting &ast;ua:
 
-Longgu (SES)<table class="igt">
+<ul style="list-style: none;"><li>
+ <ul style="list-style: none"><li>
+Longgu (SES)<table style="padding-left: 2em;" class="igt">
 <caption>‘… and they went into the bush’</caption>
 <tr>
 <td><i>…</i></td>
@@ -5902,7 +5972,9 @@ Longgu (SES)<table class="igt">
 <td style="width: 100%"> </td>
 </tr>
 </table>
-<table class="igt">
+</li>
+<li>
+Longgu (SES)<table style="padding-left: 2em;" class="igt">
 <caption>‘we will go into the garden to weed it’</caption>
 <tr>
 <td><i>amalu</i></td>
@@ -5927,11 +5999,15 @@ Longgu (SES)<table class="igt">
 <td style="width: 100%"> </td>
 </tr>
 </table>
-
+</li>
+</ul></li>
+</ul>
 
 In the third, least widespread, grammaticisation type, the deictic directional verb in a sequential serial verb construction becomes a pre-verbal clitic indicating the location or direction of the event in relation to the speech act participants. In the best described case, Sinaugoro (PT) ([Tauberschmidt 1999](../sources/Tauberschmidt1999):31–32), the clitics are enclitics to the preverbal subject/aspect/mood marking complex. In this example =ma reflects POc _&ast;ma_ ‘come’.
 
-Sinaugoro (PT): ([Tauberschmidt 1999:31–32](../sources/Tauberschmidt1999))<table class="igt">
+<ul style="list-style: none;"><li>
+ <ul style="list-style: none"><li>
+Sinaugoro (PT): ([Tauberschmidt 1999:31–32](../sources/Tauberschmidt1999))<table style="padding-left: 2em;" class="igt">
 <caption>‘Let’s eat here.’</caption>
 <tr>
 <td><i>Si=ma</i></td>
@@ -5944,7 +6020,9 @@ Sinaugoro (PT): ([Tauberschmidt 1999:31–32](../sources/Tauberschmidt1999))<tab
 <td style="width: 100%"> </td>
 </tr>
 </table>
-
+</li>
+</ul></li>
+</ul>
 
 
 <a id="s-3-3"></a>
@@ -8812,7 +8890,9 @@ It is reasonable to expect that the processes that have created prepositions and
 
 Formally, items reflecting _&ast;lo_ presumably reflect _&ast;lo-_, one of the short forms of _&ast;lalo-_. It is tempting to attribute all forms reflecting _&ast;la_ to the short form of _&ast;lako_, but there is evidence against this. In Lihir (MM), _la_ is a short form of _lilie-_ ‘inside’ (reflecting _&ast;lalo-_), as we find phrases like the one below where _la_ must be a (relational) noun:
 
-Lihir (MM)<table class="igt">
+<ul style="list-style: none;"><li>
+ <ul style="list-style: none"><li>
+Lihir (MM)<table style="padding-left: 2em;" class="igt">
 <caption>‘in the house’</caption>
 <tr>
 <td><i>i</i></td>
@@ -8827,7 +8907,9 @@ Lihir (MM)<table class="igt">
 <td style="width: 100%"> </td>
 </tr>
 </table>
-
+</li>
+</ul></li>
+</ul>
 
 Semantically, all the reflexes listed above are locative, which sits better with a derivation from _&ast;lalo-_ ‘inside’ than one from _&ast;lako_ ‘go (to)’, from which one would expect an allative. But it is possible that some reflexes represent a conflation of the two etyma.
 
@@ -9110,7 +9192,9 @@ These are POc _&ast;pani_ ‘give’, (PREPV) ‘benefactive’ and PWOc _&ast;p
 
 The clearest piece of evidence that _&ast;pano_/_&ast;pa_ played a role in the history of some of the items in the set below is that Hoava _pa_ behaves as a relator, i.e. it occurs before a preposition.
 
-Hoava (MM)<table class="igt">
+<ul style="list-style: none;"><li>
+ <ul style="list-style: none"><li>
+Hoava (MM)<table style="padding-left: 2em;" class="igt">
 <caption>‘they who come close to the tree’</caption>
 <tr>
 <td><i>ria</i></td>
@@ -9135,7 +9219,9 @@ Hoava (MM)<table class="igt">
 <td style="width: 100%"> </td>
 </tr>
 </table>
-
+</li>
+</ul></li>
+</ul>
 
 Relators reflect erstwhile deictic directional verbs ([Ross 2003](../sources/Ross2003)), and so _&ast;pano_/_&ast;pa_ is the most likely candidate for the ancestor of Hoava _pa_. Other probable straightforward reflexes of _&ast;pano_/_&ast;pa_ are the Kiriwina, Roviana and Nguna forms, and perhaps the Label locative preposition _ha_, as it contrasts with instrumental _pa_ (from PWOc _&ast;pʷa_).
 

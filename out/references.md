@@ -584,6 +584,7 @@
 - <a id="source-Hill1997"> </a>Hill, Deborah. 1997. Finding your way in Longgu: Geographical reference in a Solomon Islands language. In Senft, Gunter (ed.), _Referring to space: Studies in Austronesian and Papuan languages, 101–126. Oxford: Clarendon_.
 - <a id="source-Hill2002"> </a>Hill, Deborah. 2002. Longgu. In J. Lynch, M. Ross and Crowley, T. (eds.), _The Oceanic languages, 538–561. Richmond: Curzon Press_.
 - <a id="source-Hill2016"> </a>Hill, Deborah. 2016. Bride-price, baskets, and the semantic domain of ‘carrying’ in a matrilineal society. Oceanic Linguistics 55.2.
+- <a id="source-HillandUnger2018"> </a>Hill, Deborah & Paul Unger. 2018. Counting by Tens: Specific Counting in Southeast Solomonic Languages. _Oceanic Linguistics_ 57. 123-143. doi: [10.1353/ol.2018.0004](https://doi.org/10.1353/ol.2018.0004).
 - <a id="source-Hintonetal1994"> </a>Hinton, Leanne, Johanna Nichols & John J. Ohala. 1994. Sound symbolism. Cambridge: Cambridge University Press.
 - <a id="source-Hiroa1938"> </a>Hiroa, Te Rangi [Peter Buck]. 1938. Ethnology of Mangareva. Honolulu: Bishop Museum Press. (Bernice P. Bishop Museum Bulletin 157).
 - <a id="source-Hockett1976"> </a>Hockett, C.F. 1976. The reconstruction of Proto Central Pacific. Anthropological Linguistics, 18:187–235.
@@ -761,6 +762,7 @@
 - <a id="source-Lichtenberk2000"> </a>Lichtenberk, Frantisek. 2000. Reciprocals without reflexives. In Frajzyngier, Zygmunt (ed.), _Reciprocals: forms and functions, 31–62. Amsterdam: John Benjamins_.
 - <a id="source-Lichtenberk2002"> </a>Lichtenberk, Frantisek. 2002. Posture verbs in Oceanic. In Newman, John (ed.), _The linguistics of sitting, standing and lying, 269–314. Amsterdam: John Benjamins_.
 - <a id="source-Lichtenberk2008"> </a>Lichtenberk, Frantisek. 2008. A dictionary of Toqabaqita. Canberra: Pacific Linguistics. (Pacific Linguistics 592).
+- <a id="source-Lichtenberk2008b"> </a>Lichtenberk, Frantisek. 2008. _A grammar of Toqabaqita_. Berlin: Mouton de Gruyter. doi: [10.1515/9783110199062](https://doi.org/10.1515/9783110199062).
 - <a id="source-Lieber1994"> </a>Lieber, Michael D. 1994. More than a living: Fishing and the social order on a Polynesian atoll. Boulder: Westview Press.
 - <a id="source-LieberandDikepa1974"> </a>Lieber, Michael D & Kalio H. Dikepa. 1974. Kapingamarangi Lexicon. Honolulu: University of Hawaii Press.
 - <a id="source-Lilley1999"> </a>Lilley, I. 1999. Post Lapita scenarios for archaeology and language in north New Guinea-west New Britain. Bulletin of the Indo-Pacific Prehistory Association, 18:25–34.
@@ -866,6 +868,7 @@
 - <a id="source-McClatcheyetal2005"> </a>McClatchey, W.C., M. Q. Sirikolo, H. Boe, E. Biliki & F. Votboc. 2005. A proposed PABITRA study area on Lauru Island, Western Solomon Islands. Pacific Science 59:213-239.
 - <a id="source-McClatcheyetal2006a"> </a>McClatchey, W.C., M. Q. Sirikolo, H. Boe, E. Biliki & F. Votboc. 2006a. Differential conservation of two species of Canarium (Burseraceae) among the Babatana and Ririo of Lauru (Choiseul), Solomon Islands. Economic Botany 60:212-226.
 - <a id="source-McClatcheyetal2006b"> </a>McClatchey, W.C., M. Q. Sirikolo, H. Boe, E. Biliki & F. Votboc. 2006b. Metroxylon amicarum, M. paulcoxii, M. sagu, M. salomonense, M. vitiense, and M. warburgii (sago palm): Arecaceae (palm family), ver. 2.1. In Elevitch, 2006: 491-512.
+- <a id="source-McCracken2012"> </a>McCracken, Chelsea Leigh. 2012. _A grammar of Belep_. Rice University dissertation.
 - <a id="source-Mceldowney1995"> </a>McEldowney, Phyllis H. 1995. Subsistence Intensification in the late prehistory of Manus. PhD dissertation, The Australian National University.
 - <a id="source-Mccoy1976"> </a>McCoy, Michael. 1976. A renaissance in Carolinian-Marianas voyaging. In Finney, Ben R. (ed.), _Pacific navigation and voyaging, 129–138. Wellington: The Polynesian Society Inc_.
 - <a id="source-Mcdivitt1984"> </a>McDivitt, James F. 1984. Indonesia. In The New Encyclopaedia Britannica 9, 457–476. Chicago: Encyclopaedia Britannica.

@@ -1296,7 +1296,9 @@ Wayan, like other Fijian languages, here preserves a POc noun phrase constructio
 
 In the first variant of the construction, the head noun is a zero-valency noun:
 
-(1) POc: ([Lynch et al. 2002: 77](../sources/Lynchetal2002))<table class="igt">
+<ol start="1"><li>
+ <ul style="list-style: none"><li>
+POc: ([Lynch et al. 2002: 77](../sources/Lynchetal2002))<table style="padding-left: 2em;" class="igt">
 <caption>‘coconut water’</caption>
 <tr>
 <td><i>*a</i></td>
@@ -1313,13 +1315,17 @@ In the first variant of the construction, the head noun is a zero-valency noun:
 <td style="width: 100%"> </td>
 </tr>
 </table>
-
+</li>
+</ul></li>
+</ol>
 
 The second noun is a generic (non-specific) possessor, and thus an attribute, of the first (head) noun.
 
 In the second variant the head noun was monovalent and in consequence ni was replaced by &ast;qi:
 
-(2) POc: ([Lynch et al. 2002: 76](../sources/Lynchetal2002))<table class="igt">
+<ol start="2"><li>
+ <ul style="list-style: none"><li>
+POc: ([Lynch et al. 2002: 76](../sources/Lynchetal2002))<table style="padding-left: 2em;" class="igt">
 <caption>‘a pig's leg’</caption>
 <tr>
 <td><i>*a</i></td>
@@ -1336,7 +1342,9 @@ In the second variant the head noun was monovalent and in consequence ni was rep
 <td style="width: 100%"> </td>
 </tr>
 </table>
-
+</li>
+</ul></li>
+</ol>
 
 In Fijian languages reflexes of _&ast;ni_ and _&ast;qi_ have been redistributed but the construction otherwise survives unchanged. This construction has a complex history in Oceanic languages ([Hooper 1985](../sources/Hooper1985), [Ross 1998b](../sources/Ross1998b), [2001b](../sources/Ross2001b)).
 
@@ -1351,41 +1359,47 @@ The morphemes _faʔi_ and _fiʔi_ belong to a set of classifiers described in De
 
 Several of the Kwara'ae classifiers share the form monosyllable + _-ʔi_ or _-ʔe_. Their common form reflects their shared origin in the POc construction [MONOVALENT NOUN _&ast;qi_ NOUN] described above.[^20] The likely POc usage from which the classifiers in Table 2.1 are derived is illustrated below:[^21]
 
-(2) POc: ([Lynch et al. 2002: 74](../sources/Lynchetal2002))<table class="igt labeled">
-<caption>‘three bananas’</caption>
+<ol start="2"><li>
+<ol type="a"><li>
+POc: ([Lynch et al. 2002: 74](../sources/Lynchetal2002))<table style="padding-left: 2em;" class="igt">
+<caption>‘three bananas’ (= '(there are) three fruit of banana')</caption>
 <tr>
-<td>a.</td><td><i>*i-tolu</i></td>
+<td><i>*i-tolu</i></td>
 <td><i>puaq</i></td>
 <td><i>qi</i></td>
 <td><i>pudi</i></td>
 <td style="width: 100%"> </td>
 </tr>
 <tr>
-<td>&nbsp;</td><td>3sG-three</td>
+<td>3sG-three</td>
 <td>fruit</td>
 <td>of</td>
 <td>banana</td>
 <td style="width: 100%"> </td>
 </tr>
 </table>
-<table class="igt labeled">
-<caption>‘three banana trees’</caption>
+</li>
+<li>
+POc: ([Lynch et al. 2002: 74](../sources/Lynchetal2002))<table style="padding-left: 2em;" class="igt">
+<caption>‘three banana trees’ (= '(there are) three trees of banana')</caption>
 <tr>
-<td>b.</td><td><i>*i-tolu</i></td>
+<td><i>*i-tolu</i></td>
 <td><i>puqun</i></td>
 <td><i>ni</i></td>
 <td><i>pudi</i></td>
 <td style="width: 100%"> </td>
 </tr>
 <tr>
-<td>&nbsp;</td><td>3sG-three</td>
+<td>3sG-three</td>
 <td>trunk</td>
 <td>of</td>
 <td>banana</td>
 <td style="width: 100%"> </td>
 </tr>
 </table>
-
+</li>
+</ol></li>
+</ol>
 
 Some classifiers did not combine with _&ast;qi_, either because they remained disyllabic or because they were derived from zero-valency nouns which instead headed the POc construction [ZERO-VALENCY NOUN _&ast;ni_ NOUN].
 

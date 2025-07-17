@@ -893,8 +893,10 @@ These attributes turn up in odd lexicalised expressions, for example, Motu (PT) 
 
 The reconstructable POc possessive construction was probably as follows:[^9]
 
-POc<table class="igt">
-<caption>‘a/the big house’</caption>
+<ul style="list-style: none;"><li>
+ <ul style="list-style: none"><li>
+POc<table style="padding-left: 2em;" class="igt">
+<caption>‘a/the big house’ (more literally: ‘a/the mother of house(s)’)</caption>
 <tr>
 <td><i>*a</i></td>
 <td><i>tina-ña</i></td>
@@ -908,37 +910,45 @@ POc<table class="igt">
 <td style="width: 100%"> </td>
 </tr>
 </table>
-
+</li>
+</ul></li>
+</ul>
 
 This seems to have remained a live metaphor for a long time (and is perhaps still alive in some Oceanic languages). Evidence for this is that where the reflex of _&ast;tina-_ or _&ast;natu-_ has been replaced in a language, this construction often shares in the lexical replacement. Thus in Lewo ([Early 1994a](../sources/Early1994a)), the term for ‘little’/‘child’ still reflects _&ast;natu-ña_, but the term for ‘very big’/‘mother’ has undergone lexical replacement:
 
-Lewo (NCV)<table class="igt labeled">
-<caption>‘a little kid’</caption>
+<ul style="list-style: none;"><li>
+<ol type="a"><li>
+Lewo (NCV)<table style="padding-left: 2em;" class="igt">
+<caption>‘a little kid’ (more literally ‘the offspring of children’)</caption>
 <tr>
-<td>a.</td><td><i>nari-n</i></td>
+<td><i>nari-n</i></td>
 <td><i>sisi</i></td>
 <td style="width: 100%"> </td>
 </tr>
 <tr>
-<td>&nbsp;</td><td>offspring-n</td>
+<td>offspring-n</td>
 <td>child</td>
 <td style="width: 100%"> </td>
 </tr>
 </table>
-<table class="igt labeled">
-<caption>‘an immensely powerful hurricane’</caption>
+</li>
+<li>
+Lewo (NCV)<table style="padding-left: 2em;" class="igt">
+<caption>‘an immensely powerful hurricane’ (more literally ‘the mother of winds’)</caption>
 <tr>
-<td>b.</td><td><i>ane-n</i></td>
+<td><i>ane-n</i></td>
 <td><i>laŋi</i></td>
 <td style="width: 100%"> </td>
 </tr>
 <tr>
-<td>&nbsp;</td><td>mother-n</td>
+<td>mother-n</td>
 <td>wind</td>
 <td style="width: 100%"> </td>
 </tr>
 </table>
-
+</li>
+</ol></li>
+</ul>
 
 Similarly in Tinrin (New Caledonia) _hɯwɯ[ṇã]_ is both ‘small’ and ‘child of, sprout of’.
 
