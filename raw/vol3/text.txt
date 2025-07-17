@@ -18926,7 +18926,7 @@ POc *malo 'paper mulberry, Broussonetia papyrifera; barkcloth, loincloth' (Milke
   NNG: Kove        malo          'male genital covering' (A. Chowning, pers. comm.)
   NNG: Gedaged     mal           'tree, bark used for G-strings and blankets; loincloth made from this'
   NNG: Takia       malu          'tree sp., loin cloth made from pounded bark'
-  NNG: Manam       malo          'barkcloth belt from dodoli tree, given to a boy at first initiation' (Bohm 1983: 81)
+  NNG: Manam       malo          'barkcloth belt from dodoli tree, given to a boy at first initiation' (Böhm 1983: 81)
   MM:  Patpatar    māl           'cloth, clothing'
   MM:  Tolai       mal           'Broussonetia papyrifera; native cloth made from bark of this tree'
   MM:  Teop        maro          'cloth, clothing'

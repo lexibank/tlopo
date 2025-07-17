@@ -228,13 +228,13 @@ Clark & Biggs 2006 and online as Greenhill & Clark 2011); for Proto
 Micronesian by scholars associated with the University of Hawai‘i (Bender et al. 1983, 2003a, 2003b);
 for the ancestor of the Banks and Torres languages by Alexandre François
 (several unpublished manuscripts); for Proto North and Central Vanuatu by Clark (2009);
-for Proto Southern Vanuatu by Lynch (2001b); for New Caledonia by Ozanne-Rivierre (1992),
+for Proto Southern Vanuatu by Lynch (2001c); for New Caledonia by Ozanne-Rivierre (1992),
 Haudricourt & Ozanne-Rivierre (1982) and Geraghty (1989); for Proto
 SE Solomonic by Levy (1980) and Lichtenberk (1988); for Proto Central Pacific by
 Hockett (1976), Geraghty (1983, 1986, 1996, together with a number of unpublished
 papers); for Proto Eastern Oceanic by Biggs (1965), Cashmore (1969), Levy (1980), and
-Geraghty (1990); and for Proto Central Papuan by Pawley (1975), Lynch (1978, 1980),
-and Ross (1994).
+Geraghty (1990); and for Proto Central Papuan by Pawley (1975), Lynch (1978a, 1980),
+and Ross (1994a).
 
 6 Malcolm Ross, Andrew Pawley and Meredith Osmond
 
@@ -244,7 +244,7 @@ papers published extensive, alphabetically ordered, lexical
 reconstructions (with supporting cognate sets) for interstages earlier than POc,
 especially for Proto Austronesian, Proto Malayo-Polynesian and Proto Eastern Malayo-Polynesian.
 He has also written several papers investigating specific semantic fields
-(Blust 1980b, 1982b, 1987, 1994). Blust & Trussel had a major work in progress, the online
+(Blust 1980c, 1982b, 1987, 1994). Blust & Trussel had a major work in progress, the online
 Austronesian Comparative Dictionary (ACD), which brings together Blust’s
 reconstructions for Proto Austronesian and lower-order stages up to mid 2020, when the
 sudden death of Steve Trussel, who was responsible for the web interface and data input,
@@ -253,8 +253,8 @@ the ACD was bequeathed to Alexander Smith and found a new home with the Cross-Li
 Linked Data project, where hopefully it will continue to grow.[5]
 
     Several papers predating our project systematically investigated particular semantic
-domains in the lexicon of POc, e.g. Milke (1958a), French-Wright (1983), Pawley
-(1982, 1985), Pawley & Green (1984), Lichtenberk (1986), Walter (1989), and the
+domains in the lexicon of POc, e.g. Milke (1958b), French-Wright (1983), Pawley (1982a, 1985),
+Pawley & Green (1984), Lichtenberk (1986), Walter (1989), and the
 various papers in Pawley & Ross (1994). Ross (1988) contained a substantial number of
 new POc lexical reconstructions, as well as proposed modifications to the reconstructed
 POc sound system and the orthography. However, previous Oceanic lexical studies were
@@ -269,7 +269,7 @@ found in Appendix A.
     Several compilations of reconstructions have provided valuable points of reference,
 both inside and outside the Oceanic group. We are indebted particularly to
 Bender et al. (2003a, 2003b), two editions of POLLEX (Biggs & Clark 1993 and Clark & Biggs 2006),
-Blust & Trussel (2020), Clark (2009) and Lynch (2001b).
+Blust & Trussel (2020), Clark (2009) and Lynch (2001c).
 
     In the course of planning the several volumes of the present project, we came to
 realise that the form in which preliminary publications were presented—namely as
@@ -455,7 +455,7 @@ Eastern Oceanic; Levy (1979, 1980) for SE Solomonic and Lichtenberk (1988) for
 Cristobal-Malaitan; Pawley (1972) and Tryon & Hackman (1983) for SE Solomonic;
 Ross & Næss (2007) for Temotu; François (pers. comm.) for the Banks and Torres
 Islands of Vanuatu; Tryon (1976) and Clark (2009) for North and Central Vanuatu;
-Lynch (2001b) for Southern Vanuatu; Geraghty (1989), Haudricourt & Ozanne-Rivierre
+Lynch (2001c) for Southern Vanuatu; Geraghty (1989), Haudricourt & Ozanne-Rivierre
 (1982), Ozanne-Rivierre (1992, 1995) and Lynch (2015) for New Caledonia; Jackson (1986)
 and Bender et al. (2003a, 2003b) for Micronesian; Geraghty (1986) for Central Pacific;
 and Biggs (1978) for Polynesian. We have also done additional work on North and
@@ -463,12 +463,12 @@ Central Vanuatu and New Caledonia ourselves.
 
    For non-Oceanic languages we have referred to sound correspondences given by
 Tsuchida (1976) for Formosan languages; by Zorc (1977, 1986) and Reid (1982) for the
-Philippines; by Adelaar (1992) and Nothofer (1975) for Malay and Javanese; by
+Philippines; by Adelaar (1992b) and Nothofer (1975) for Malay and Javanese; by
 Sneddon (1984) for Sulawesi; by Collins (1983) for central Maluku; by Grimes & Edwards (in prep.)
 for what is conventionally known as CMP; and by Blust (1978a) and Kamholz (2014) for SHWNG.
 
    Regular sound correspondences can be interfered with in various ways: by phonetic
-conditioning that the analyst has not identified (see, e.g., Blust 1996), by borrowing (for
+conditioning that the analyst has not identified (see, e.g., Blust 1996a), by borrowing (for
 an extreme Oceanic case, see Grace 1996), or by the frequency of an item’s use (Bybee 1994).
 We have tried at least to note, and sometimes to account for, irregularities in
 cognate sets.
@@ -512,7 +512,7 @@ phonological innovations of POc were identified by Dempwolff (1934), and have be
 somewhat modified by subsequent research (§1.8.1). POc also reflects morphosyntactic
 innovations (Lynch et al. 2002: ch.4), morphological innovations (e.g. POc acquired a
 morphological distinction between three kinds of alienable possessive relationship: food,
-drink and general; Lichtenberk 1985), and lexical innovations (e.g. PMP _*limaw_ ‘citrus
+drink and general; Lichtenberk 1985a), and lexical innovations (e.g. PMP _*limaw_ ‘citrus
 fruit’ was replaced by POc _*molis_; Lynch 1984).
 
     Italics are used in Figure 1.1 to indicate a group of languages that is not a subgroup,
@@ -524,7 +524,7 @@ has been identified that is reflected by all Southern Oceanic languages. Nonethe
 there are innovations which chain various, sometimes overlapping, groups of Southern
 Oceanic languages together (§1.4.3.2). Some of these innovations are inherited, i.e. they
 define smaller subgroups within Southern Oceanic. Of these, Southern Vanuatu is the
-best known example (Lynch 2001b:181–184). Others are probably the result of contact
+best known example (Lynch 2001c:181–184). Others are probably the result of contact
 between fairly similar languages. The recently discovered fact that there were multiple
 immigrations by, we take it, speakers of early Oceanic languages probably gave rise to
 this kind of contact (see the discussion in §15.8.1).
@@ -612,8 +612,8 @@ sometimes, as emerges below, does so more weakly).
 
 A number of Oceanic linkages have been recognised by scholars. They include Fijian
 (Geraghty 1983), the Caroline Islands (Jackson 1983), Vanuatu (Tryon 1976; Clark 1985;
-Lynch 2000a; 2004; François 2011, 2014), NW Melanesia (Ross 1988), the SE Solomons
-(Lichtenberk 1988, 1994; Pawley 2011c) and E Polynesian (Walworth 2014). In some of
+Lynch 2000b; 2004d; François 2011b, 2014), NW Melanesia (Ross 1988), the SE Solomons
+(Lichtenberk 1988, 1994b; Pawley 2011c) and E Polynesian (Walworth 2014). In some of
 these there is evidence for events that would further complicate the description of a
 linkage in §1.4.3.1.
 
@@ -623,7 +623,7 @@ division and then coming back into contact to form a grouping in a different
 constellation from before. The best researched of these is the Fijian linkage, which
 represents the partial resynthesis of the Fiji-based descendants of earlier Western Central
 Pacific and Eastern Central Pacific linkages after Rotuman and Polynesian had split off
-from them (Geraghty & Pawley 1981; Geraghty 1983; Pawley 1996).[13] Geraghty
+from them (Geraghty & Pawley 1981; Geraghty 1983; Pawley 1996c).[13] Geraghty
 reconstructed the history of the Fijian linkage by painstaking analysis of innovations
 from at least two stages in its history. From the earlier period Western Fijian languages
 share innovations with Rotuman and Eastern Fijian with Polynesian. From a more recent
@@ -653,7 +653,7 @@ neighbouring dialects without reaching every dialect in the network.
 16 Malcolm Ross, Andrew Pawley and Meredith Osmond
 
 
-    The Southern Oceanic linkage as proposed by Lynch (1999, 2000a, 2001a, 2004) is
+    The Southern Oceanic linkage as proposed by Lynch (1999, 2000b, 2001b, 2004d) is
 characterised by complex overlapping innovations, but by none that are reflected in all
 its member languages and would qualify it as a subgroup (see discussion in
 Lynch et al. 2002:112–114).
@@ -664,8 +664,8 @@ Figure 1.1 also shows a number of Oceanic groups for which a protolanguage is
 reconstructable. By definition these are subgroups. They are Admiralty (Ross 1988: ch.9),
 SE Solomonic (Pawley 1972:98–110; Levy 1979, 1980, n.d.; Tryon & Hackman 1983; Lichtenberk 1988),
 Temotu (Ross & Næss 2007; Næss & Boerger 2008; Lackey & Boerger 2021), S Vanuatu
-(Lynch 2001b:181–184), Micronesian (Jackson 1983, 1986; Bender et al. 2003a), and Papuan Tip
-(Ross 1992)
+(Lynch 2001c:181–184), Micronesian (Jackson 1983, 1986; Bender et al. 2003a), and Papuan Tip
+(Ross 1992b)
 
    Central Pacific is also a subgroup, but one defined by only a handful of shared
 innovations, indicating that the period of unity was short (Geraghty 1996). The high-order
@@ -785,7 +785,7 @@ of a reflex in one or more of these languages and in Admiralty does not support 
 reconstruction, but the presence of of a reflex in one or more of these languages and one
 of Western Oceanic or Eastern Oceanic does support one.
 
-    In chapter 2 (§4) of volume 2 Pawley discusses Blust’s (1998b) proposal that the
+    In chapter 2 (§4) of volume 2 Pawley discusses Blust’s (1998a) proposal that the
 primary split in Oceanic divides Admiralty from a subgroup embracing all other Oceanic
 languages. Pawley dubs the latter ‘Nuclear Oceanic’. If Blust’s subgrouping were
 accepted, then an etymon which lacked cognates outside Oceanic would need to be
@@ -835,7 +835,7 @@ subgroups.
    It is probable that the NNG and PT linkages form a grouping within WOc, separate
 from MM. We call this grouping the New Guinea Oceanic linkage, and so etyma
 reflected only in NNG and PT languages are attributed to a weakly supported Proto New
-Guinea Oceanic (Milke 1958b, Pawley 1978), and etyma reflected in either NNG or PT
+Guinea Oceanic (Milke 1958, Pawley 1978), and etyma reflected in either NNG or PT
 (or both) and in MM are labelled PWOc.
 
 
@@ -1169,7 +1169,7 @@ dental, _*d_ alveolar. This is significant in the prehistory of POc discussed be
    In the light of recent work it is likely that both the consonant and vowel sets require
 some revision. We return to this in sections 1.8.2 and 1.8.3.
 
-   Lynch (2000b) concludes that POc stress fell on the penultimate mora. Each vowel
+   Lynch (2000a) concludes that POc stress fell on the penultimate mora. Each vowel
 counted as one mora, and so did the final consonant if there was one. Hence the stress of
 a word that ended in a vowel like _*ku̱tu̱_ ‘head louse’ (a mora is indicated by an
 underscore) fell on its penultimate syllable: _*kútu_. The stress of a word that had a final
@@ -1195,7 +1195,7 @@ __tablenh__
    Table 1.3 shows two POc orthographies. The first was established by Biggs (1965)
 for PEOc and applied to POc by Grace (1969). It was used with a number of variants,
 separated by a slash in Table 1.3. The second orthography, used here and in the
-POc reconstructions in these volumes is from Ross (1988, 1989), with the addition of
+POc reconstructions in these volumes is from Ross (1988, 1989b), with the addition of
 *pʷ (introduced without comment by Blust 1984) and *kʷ (Ross 2011). The terms “oral
 grade” and “nasal grade” belong to the terminology of Oceanic historical phonology
 (§1.8.1 and §1.8.2).
@@ -1209,9 +1209,9 @@ based on the POc reconstructions in volumes 1–5. First, however, we recapitula
 currently conventional view of POc phonology.
 
    The widely accepted hypothesis about the provenance of Proto Oceanic is shown in
-Figure 1.5. It is due to Robert Blust, originally presented in Blust (1977a) and repeated
+Figure 1.5. It is due to Robert Blust, originally presented in Blust (1977b) and repeated
 with modifications and accumulated supporting evidence in subsequent publications
-(Blust 1978a, 1982a, 1983–84b, 1993, 2009). New research based on the reconstructions
+(Blust 1978a, 1982, 1983–84b, 1993, 2009b). New research based on the reconstructions
 in volumes 1–5 and summarised in §1.8.2 and its subsections, §1.9.1 proposes that this
 hypothesis—we will call it the “accepted hypothesis”—should be retired. The fresh
 research confronts us with the need to reassess the part of the tree that is headed by
@@ -1224,7 +1224,7 @@ PMP) from PAn (Blust 1999). They are spoken in Taiwan, but do not form a subgrou
 was no ‘“Proto Formosan”, as Formosan languages and language groups are all descended
 directly from PAn. Despite references to “Proto Western Malayo-Polynesian”,
 _Western Malayo-Polynesian languages_ have never been seriously considered a subgroup
-of Austronesian (Ross 1995; Adelaar 2004). Smith (2017) provides a set of hypotheses
+of Austronesian (Ross 1995b; Adelaar 2004). Smith (2017) provides a set of hypotheses
 about the groups that make up WMP.[25] Their common ancestor is PMP. Recent years
 have seen renewed research into the Central Malayo-Polynesian languages and those of
 South Halmahera/West New Guinea, and we turn to this in §1.9.
@@ -1307,7 +1307,7 @@ that Polynesian languages shared the innovations of _Urmelanesisch_, and so the 
 Oceanic subgroup entered the literature. However, naming it took a while. Grace (1955)
 defined the borders of the new subgroup and called it “Eastern Malayo-Polynesian”.[26]
 
-   Meanwhile, Milke (1958b) made frequent reference to _ozeanisch-austronesische Sprachen_
+   Meanwhile, Milke (1958) made frequent reference to _ozeanisch-austronesische Sprachen_
 (‘Oceanic-Austronesian languages’) and in 1961 finally adopted the terms
 _ozeanische Sprachen_ and _proto-Ozeanisch_ (‘Oceanic languages’, ‘Proto Oceanic’), which
 were soon adopted by his colleagues.
@@ -1386,7 +1386,7 @@ _*-g-_  |  —           |         —         |         (nasal)   |     —
 
 
    Another set of innovations is the introduction of the labiovelars _*pʷ_, _*bʷ_, _*mʷ_ and _*kʷ_
-into Proto Oceanic (Blust 1981b; Lynch 2002; Ross 2011). Many items containing a
+into Proto Oceanic (Blust 1981a; Lynch 2002e; Ross 2011). Many items containing a
 labiovelar lack non-Oceanic cognates, and some, at least, must have been borrowed into
 POc from neighbouring Papuan languages. For example, _*mʷapo(q)_ ‘taro’ was
 apparently borrowed by POc speakers as they copied taro-growing techniques from
@@ -1462,7 +1462,7 @@ reconstructed unambiguously because its Oceanic reflexes agree in grade, a findi
 by the cognate sets in the present work. The illusion of randomness had two sources. First,
 although Milke (1968) had correctly identified POc _*j_ (his _*nj_) as the nasal-grade consonant
 paired with oral-grade _*s_, most scholars assumed that various lenited reflexes of _*s_ reflected
-the nasal grade, so that the pair of _*s_ grades seemed almost chaotic (Ross 1988:71–93; 1989).
+the nasal grade, so that the pair of _*s_ grades seemed almost chaotic (Ross 1988:71–93; 1989b).
 Second, various regular local processes such as Admiralties secondary nasal grade (Ross 1988:337–341)
 and Eastern Fijian apical prenasalisation (Geraghty 1983:74–96) had masked
 consonant grade in some languages.
@@ -1498,7 +1498,7 @@ As a result of new research based on the POc reconstructions in volumes 1–5, w
 partial answer to (a) and a definitive answer to (b), shown in the righthand panel of Figure
  1.6. Following Proto X (§1.8.1), this panel shows two further interstages, “ePOc” and POc.
 “POc” denotes the language reconstructed in these volumes, equated with its state
-immediately before its break-up into daughter-languages (Pawley 2008a); and “ePOc”
+immediately before its break-up into daughter-languages (Pawley 2008); and “ePOc”
 denotes “early POc”, a stage sometime before POc, but after its speakers settled in the
 Bismarck Archipelago.
 
@@ -1573,7 +1573,7 @@ _*-Np-_/_*-Nb-_ etc as there are instances where the cluster is not homorganic. 
 result of reduplication of a monosyllable, e.g., PAn/PMP _*demdem_ ‘dark, gloomy,
 overcast’, attested with _-md-_ in Formosan and many Philippine reflexes (ACD), but
 becoming _*dendem_ at some intermediate interstage and thence POc _*rodrom_ (vol.2:308).
-POc _*-dr-_ is a unitary phoneme reflecting earlier _*-nd-_ (PCEMP _*-nd-_ according to Blust 1977b).
+POc _*-dr-_ is a unitary phoneme reflecting earlier _*-nd-_ (PCEMP _*-nd-_ according to Blust 1977a).
 
 : Table 1.7. Instances of PMP nasal + obstruent clusters and their POc reflexes
 
@@ -1636,7 +1636,7 @@ different points of articulation.
 sequence that affected PMP _*p_ and _*s_, and therefore did not give rise to POc “nasal-grade”
 (voiced) reflexes. Hence PMP initial _*t_ is never reflected as POc _*d_. But Table
  1.7 reports three POc etyma reflecting PMP _*-nt-_, namely the P:1INC.PL suffix _*-ⁿda_ (<
-PMP _*-nta_ < _*=ni-ta_; Blust 1977a), _*puⁿdi_ ‘banana’ (< PMP _*punti_) and _*maⁿdala(q)_ ‘the
+PMP _*-nta_ < _*=ni-ta_; Blust 1977b), _*puⁿdi_ ‘banana’ (< PMP _*punti_) and _*maⁿdala(q)_ ‘the
 morning star’ (< PMP _*mantalaq-_). This was the sole source of “nasal-grade” reflexes of
 _*t_, and the overall rarity of earlier nasal + obstruent sequences explains why POc has so
 few reflexes of _*-nt-_.
@@ -1735,7 +1735,7 @@ on independent evidence contained prenasalised obstruents in PMP or PCEMP.
 38 Malcolm Ross, Andrew Pawley and Meredith Osmond
 
 
-   Thus Blust (1977a) reconstructs PMP possessor suffixes that were prenasalised
+   Thus Blust (1977b) reconstructs PMP possessor suffixes that were prenasalised
 because they consisted of the morph _ni_ + pronoun. They retain their prenasalised
 obstruents in ePOc:
 
@@ -1835,7 +1835,7 @@ __block__
 Tetun (Timor) _fua-n_ vs _bua_; Uruangnirin (STB) _pua-n_ vs _buok_; Masiwang (STB) _fua-n_ vs _bua_;
 E Kola (Aru) _fūi_ vs _būi_; but not in Buru-Lisela (Sula-Buru) _fua-n_ ‘fruit’, _fua_ ‘betelnut’.
 
-[37] Bradshaw (1978), Bugenhagen & Bugenhagen (2007a), Anderson (2007), Anderson & Ross (2002),
+[37] Bradshaw (1978), Bugenhagen & Bugenhagen (2007b), Anderson (2007), Anderson & Ross (2002),
      Lincoln (1978), Ross’s fieldnotes.
 
 40 Malcolm Ross, Andrew Pawley and Meredith Osmond
@@ -1871,7 +1871,7 @@ assumes that _*ə_ also became POc _*e_ under certain conditioning.
 The conventional answer to the question, “Where did Proto Oceanic come from?”, is the
 accepted hypothesis in Figure 1.5. It says that POc is the sibling of PSHWNG, and the two
 are the only children of PEMP (Blust 1978). PEMP in its turn is a sibling of the CMP
-languages, and they are all children of PCEMP (Blust 1982a, 1983–84b, 1993). The latter
+languages, and they are all children of PCEMP (Blust 1982, 1983–84b, 1993). The latter
 is a sibling of WMP languages and a child of PMP. To our knowledge, no scholar disputes
 the claim that POc is descended from PMP. However, two recent pieces of research raise
 the need to look more closely at the intervening stages between PMP and POc.
@@ -1887,10 +1887,10 @@ They find areal similarities, some of them probably consequences of one or more
 Papuan substrates (see also Schapper 2015; 2018), but no significant exclusively shared
 innovations across subgroups, and thus no evidence for a putative Proto Central Malayo-Polynesian.
 
-    Blust (1993, 2009) views the CMP languages as a linkage on the basis of innovations that
+    Blust (1993, 2009b) views the CMP languages as a linkage on the basis of innovations that
 chain (§1.4.3.1) various groups together,[38] but Grimes & Edwards find little evidence to
 support such an analysis. Blust’s arguments for PCEMP have evoked vigorous criticism
-(Donohue & Grimes 2008; Schapper 2011) and responses (Blust 2009, 2012). The lack of
+(Donohue & Grimes 2008; Schapper 2011) and responses (Blust 2009b, 2012). The lack of
 evidence for Proto Central Malayo-Polynesian logically entails abandoning PCEMP as well,
 and this leaves a gap in the the prehistory of POc according to the accepted hypothesis.
 
@@ -2132,9 +2132,9 @@ system to which they belonged.
 
     A number of linguists and anthropologists have treated kinship terms as a window into the
 social organisation of present and past kinship systems. Works that reconstruct Oceanic social
-organisation in this way include Rivers (1914), Blust (1981a), Pawley & Green (1984),
+organisation in this way include Rivers (1914), Blust (1981c), Pawley & Green (1984),
 Hage (1999, 2001a, ch.3 of this volume) and Turner (2007). Moving further back in time, early
-Austronesian kinship systems are reconstructed by Blust (1980a, 1980b, 1994).
+Austronesian kinship systems are reconstructed by Blust (1980a, 1980c, 1994).
 
     In this chapter we touch on the reconstruction of social organisation only as it relates to
 lexical reconstruction. A kinship terminology and the social organisation of its users are often
@@ -2158,7 +2158,7 @@ reprinted as chapter 3 of this volume.
 
     This chapter builds on earlier attempts to reconstruct a POc kinship terminology.
 Wilhelm Milke’s 1938 paper on POc sibling terms built on a collection of data remarkable at the time,
-and was expanded twenty years later (Milke 1958a) into a full reconstruction of the POc
+and was expanded twenty years later (Milke 1958b) into a full reconstruction of the POc
 terminology. He further added to it in later papers (Milke 1965:345–346; 1968:158–161, 167).
 Pawley (1981) and Pawley & Green (1984) provide a listing of POc kinship terms
 which largely follows Milke’s. Chowning (1991) includes a critique of previous
@@ -2193,7 +2193,7 @@ Nakanai terms for blood relatives, Figure 2.2 for in-laws.
 
    Before turning to Nakanai, two matters need an explanation. First, as explained in vol.1:32
 and in vol.5:75-76, most Oceanic languages outside Polynesian[4] reflect a POc grammatical
-distinction between directly and indirectly possessed nouns (Lichtenberk 1985). A directly
+distinction between directly and indirectly possessed nouns (Lichtenberk 1985a). A directly
 possessed POc noun took a possessor suffix, marked here with a following hyphen (e.g.
 _*tama-_ ‘father’: _*tama-gu_ ‘my father’, _*tama-mu_ ‘your (singular) father’, _*tama-ña_ ‘his/her
 father’ etc), whereas an indirectly possessed noun required no suffix. Directly possessed
@@ -3216,7 +3216,7 @@ were indirectly possessed. Putative _*lopu-_ ‘o.s. sibling’ is omitted from 
 the table as its POc status is uncertain (§2.4.1.5.3).
 
     There is broad agreement that early Oceanic society was matrilineal. In his survey of
-earlier findings of Oceanic matrilineality Blust (1981a:70–72) notes that Codrington
+earlier findings of Oceanic matrilineality Blust (1981c:70–72) notes that Codrington
 (1891:30), Deacon (1934:705), and Capell and Lester (1945-46, part 4:315) had all suggested
 that at least in some parts of Melanesia, where societies with moieties are interspersed with
 societies that lack them, moieties are a retention, a view that Blust endorses. In his 1994 paper
@@ -3555,9 +3555,9 @@ that we should reconstruct both _*Suaji_ and _*Saji_’. The reconstructions sho
 analogical creation to fill the previously empty slot in column 2 of Table 2.12 with a _*t-_ form.
 The second element, _*-ka_, is an obvious abbreviation of _*kaka_. The first element, _*tua-_,
 perhaps already existed. It is reflected in many Oceanic languages with a possessor suffix. Its
-origin is not clear. Milke’s (1958a) reconstruction of _*tuqaka_ with _*-q-_ implies he thought
+origin is not clear. Milke’s (1958b) reconstruction of _*tuqaka_ with _*-q-_ implies he thought
 _*tuqa-_ was POc _*tuqa_ ‘old’ (vol.2:204–205; vol.5:68; see §2.4.1.5.2). He had toyed with this
-thought in his 1938 paper, but in 1958a, with more data and better reconstructions, he
+thought in his 1938 paper, but in 1958b, with more data and better reconstructions, he
 explicitly denies it in a footnote, but leaves _*-q-_ in place.[26]
 
     An alternative hypothesis—that _*tuaka_ reflects PMP _*teka_ and its POc continuation
@@ -3596,7 +3596,7 @@ from the _*-mp-_ of forms in the other columns of the ‘grandparent/grandchild�
 if Blust’s reduplication hypothesis applies here, it will have generated POc forms
 indistinguishable from those descended from PMP _*bubu_.
 
-[26] Thus we do not know why Milke (1958a) reconstructs this term with _*-q-_.
+[26] Thus we do not know why Milke (1958b) reconstructs this term with _*-q-_.
 
 [27] It also had forms in _*e-_, not reflected in Oceanic.
 
@@ -3622,7 +3622,7 @@ bifurcate merging terminology a mother’s sister is also a ‘mother’, and th
 <
 PAn *ta-amax ‘father’ (ACD)
 PMP *t-ama ‘father, father’s brother’ (Blust 1980a)
-POc *tama- ‘father, father’s brother, mother’s sister’s husband’ (Milke 1958a; ACD)
+POc *tama- ‘father, father’s brother, mother’s sister’s husband’ (Milke 1958b; ACD)
   Yap:  Yapese         ci-timo(ŋo)-    ‘father’, FB, MZH, FZH, FZS
   Adm:  Mussau         tama-           ‘father, father’s brother’, MZH
   Adm:  Baluan         tama-           ‘father, father’s brother’, FFBS
@@ -3671,7 +3671,7 @@ PNCV *tama- ‘father, father’s brother’ (Clark 2009)
   NCV:  SE Ambrym      tamo            ‘father’ (Lynch 1996)
   NCV:  Neve’ei        teme-           ‘father’, FB, FZS
   NCV:  Namakir        tama-           ‘father’
-PSV *e-tme- ‘father, father’s brother’ (Lynch 2001b)
+PSV *e-tme- ‘father, father’s brother’ (Lynch 2001c)
   SV:   Sye            e-tme-          ‘father, father’s brother’
   SV:   Lenakel        rəmə-           ‘father, father’s brother’
   SV:   Anejom         e-tma-          ‘father’, FB, FZH
@@ -3788,7 +3788,7 @@ POc *tata ‘address term for any male called “father’’ and for other seni
  NCV:  S Paamese        tātā            ‘father’
  NCV:  Big Nambas       tatei           ‘father, father’s brother’
  NCV:  Neve’ei          tate            ‘father, father’s sister’s son’
- NCV: South Efate       tata            ‘father’ (Lynch 2004)
+ NCV: South Efate       tata            ‘father’ (Lynch 2004d)
  SV:   Ura              dera            ‘father, father’s brother’ (ADDR)
  SV:   Lenakel          tata            ‘father, father’s brother’ (ADDR)
  NCal: Belep            caca            ‘father, father’s brother’, MZH
@@ -3815,7 +3815,7 @@ languages.
 <
 PAn *ta-ina ‘mother’ (ACD)
 PMP *tina ‘mother, mother’s sister’ (ACD, Blust 1980a)
-POc *tina ‘mother, mother’s sister’ (Milke 1958a: ‘mother’)
+POc *tina ‘mother, mother’s sister’ (Milke 1958b: ‘mother’)
   Adm:  Baluan           tina-              ‘mother, mother’s sister’, MFBD, etc
   Adm:  Pak              hi-rino-           ‘mother’, PZ, FZD, FZDD, FFBD, FFBDD
   Adm:  Bipi             tine               ‘mother, mother’s sister’, ♀MFZSD, ♂ZW
@@ -3855,7 +3855,7 @@ PNCV *ra-tina- ‘mother, mother’s sister’
   NCV:  Lonwolwol        i-rña-             ‘father’s sister’
   NCV:  S Paamese        la-tino-           ‘mother’
   NCV:  Neve’ei          sena-              ‘mother, mother’s sister’, FZSW
-PSV *ri-(t,c)inV- ‘mother, mother’s sister’ (Lynch 2001b)
+PSV *ri-(t,c)inV- ‘mother, mother’s sister’ (Lynch 2001c)
   SV:   Sye              n-rin(me)-         ‘mother, mother’s sister’
   SV:   Kwamera          ri-nn̥u-            ‘mother, mother’s sister’, FW, FBW, EFZ, FFZD
   SV:   Anejom           ri-si-             ‘mother, mother’s sister’, MBW
@@ -4219,7 +4219,7 @@ PPn *tuqa-tina ‘mother’s brother’ (Pawley 1981:284)
                                                                              Kinship terms 95
 
 
-    Blust (1980b) argues that _*matuqa_ was the PMP term for ‘mother’s brother, wife’s father’.
+    Blust (1980c) argues that _*matuqa_ was the PMP term for ‘mother’s brother, wife’s father’.
 Blust (1994) extends the definition to include any parent-in-law. The Oceanic evidence for
 this extension is not substantial. Instead, MM and SES reflexes of POc _*matu(q)a-_ more
 often reflect the reciprocal extension to ♂ZC. However, as many data are given a simple gloss
@@ -4230,10 +4230,10 @@ POc _*matu(q)a_ ‘mother’s brother’. Rather, both terms ultimately reflect 
 person)’ (vol.4:68).
 
 <
-PMP *matuqa ‘mother’s brother, mother’s brother’s wife, wife’s parent’ (Blust 1980b, 1994)
-PEMP *[ma]tuqa ‘mother’s brother’ (Blust 1980b)
+PMP *matuqa ‘mother’s brother, mother’s brother’s wife, wife’s parent’ (Blust 1980c, 1994)
+PEMP *[ma]tuqa ‘mother’s brother’ (Blust 1980c)
   SH:  Sawai             tua                ‘mother’s brother’ (CAD)
-POc *[ma]tuqa- ‘mother’s brother’ (Milke 1958a)
+POc *[ma]tuqa- ‘mother’s brother’ (Milke 1958b)
   MM:  Usen Barok        marua-             ‘mother’s brother, sister’s child’
   MM:  Patpatar          matuə              ‘mother’s brother’, FZH
   MM:  Tolai             matua-             ‘mother’s brother, ♂sister’s child’ (Fingleton 1986)
@@ -4243,15 +4243,15 @@ POc *[ma]tuqa- ‘mother’s brother’ (Milke 1958a)
   SES: E Arosi           mau                ‘mother’s brother, sister’s child’
   SES: Bauro             ma-māu             ‘mother’s brother, ♂sister’s child’
   SES: Owa               maua-              ‘mother’s brother, MMB, ♂sister’s child’
-PNCV *matu(q)a- ‘mother’s brother’ (Lynch 2001b)
+PNCV *matu(q)a- ‘mother’s brother’ (Lynch 2001c)
   NCV: Araki             nn̼ara-            ‘mother’s brother’
   NCV: Apma              mitue-             ‘mother’s brother’
   NCV: Lonwolwol         misʸo-             ‘mother’s brother’
   NCV: S Paamese         matuo-             ‘mother’s brother’
   NCV: Ninde             mitua-             ‘mother’s brother’
   NCV: Rano              metuo-             ‘mother’s brother’ (ACD)
-  NCV: Bieria            metua              ‘mother’s brother’ (Lynch 2004)
-PSV *mata- ‘mother’s brother, spouse’s father, parent’s sister’s husband’ (Lynch 2001b)
+  NCV: Bieria            metua              ‘mother’s brother’ (Lynch 2004d)
+PSV *mata- ‘mother’s brother, spouse’s father, parent’s sister’s husband’ (Lynch 2001c)
   SV:  Sye               meta-              ‘mother’s brother’, MBW, BW, FZH
   SV:  Kwamera           mare-              ‘mother’s brother’, FZH, EF, P{PoG}S, FFBDH, GEF
   SV:  Anejom            mata               ‘mother’s brother’, MZH, EF
@@ -4319,7 +4319,7 @@ PWOc *varis ‘mother’s brother, ♂father-in-law’
 
 2.4.1.2.6    Father’s sister and POc _*aya_
 
-Milke (1958a) believed that POc had no term for ‘father’s sister’ (FZ). Blust (1980a) argued
+Milke (1958b) believed that POc had no term for ‘father’s sister’ (FZ). Blust (1980a) argued
 that PMP _*aya_ had this meaning, but this attribution is not supported by any non-Oceanic
 reflex glossed ‘father’s sister’. Chowning rejects PMP _*aya_ in her comment on Blust (1980a),
 and omits POc _*aya_ ‘father’s sister’ from her list of POc kinship terms in Chowning (1991).
@@ -4443,7 +4443,7 @@ for ‘child’ plus a term for ‘male’ or ‘female’ where specification i
 
 <
 PEMP *natu ‘child, offspring’ (ACD)
-POc *natu- ‘child, s.s. sibling’s child, s.s. parallel cousin’s child’ (Milke 1958a)
+POc *natu- ‘child, s.s. sibling’s child, s.s. parallel cousin’s child’ (Milke 1958b)
   Adm:  Mussau         natu-             ‘child’, sGC
   Adm:  Baluan         naru-             ‘child’, ♂PBS, HMBS (Mead 1934:228–342)
   Adm:  Titan          nat, natú-        ‘child’
@@ -4480,7 +4480,7 @@ POc *natu- ‘child, s.s. sibling’s child, s.s. parallel cousin’s child’ (
   NCV:  Uripiv         natu-             ‘child’, sGC, ♀BC, MBC, {EoG}C (Deacon 1934:124)
   NCV:  Lewo           nari-             ‘child’
   NCV:  Nguna          natu              ‘child’, sGC, MBC, ♂ZSC, MZCC (Facey 1989)
-PSV *natu- ‘child’ (Lynch 2001b)
+PSV *natu- ‘child’ (Lynch 2001c)
   SV:   Sye            nitu-             ‘child, s.s. sibling’s child’
   SV:   Lenakel        nerə-             ‘child’
 POc *natu- ‘child’ (Ozanne-Rivierre 2000)
@@ -4585,7 +4585,7 @@ was a recognised relationship from very early Oceanic, one cannot be sure whethe
 also referred to MB in POc.
 
 <
-POc *[qa]lawa ‘♂sister’s child, (?) mother’s brother’ (Pawley 1981:284: _*(qa)lawa_; Milke 1958a: _*(a)lava_; 1968: _*qalawa_)
+POc *[qa]lawa ‘♂sister’s child, (?) mother’s brother’ (Pawley 1981:284: _*(qa)lawa_; Milke 1958b: _*(a)lava_; 1968: _*qalawa_)
  Adm: Mussau            aloa-            ‘mother’s brother’, FZH, oGC
  SJ:  Sobei             ewo-             ‘mother’s brother, ♂sister’s child’, MBW, ♂PGDC, ♂PPGCD, ♀HZC, ♀HPGDC
  NNG: Wogeo             kalawa           ‘mother’s brother, ♂sister’s child’, ♂FBDC, ♂MZDC, ♂MBDC, ♂FZDC
@@ -4593,7 +4593,7 @@ POc *[qa]lawa ‘♂sister’s child, (?) mother’s brother’ (Pawley 1981:284
  PT:  Sudest            loɣai            ‘mother’s brother’ (Lepowsky 1981)
  MM:  Meramera          loa              ‘mother’s brother’ (Ross, fieldnotes)
  MM:  Patpatar          lauə             ‘♂sister’s child’
- MM:  Ririo             aluwa            ‘♂sister’s child’ (Milke 1958a)
+ MM:  Ririo             aluwa            ‘♂sister’s child’ (Milke 1958b)
 PNCV *(q)alawa ‘sister’s child’ (Clark 2009: *alawa)
  NCV: Lombaha           aloa-            ‘♂sister’s child’
  NCV: Raga              aloa             ‘♂sister’s child’
@@ -4603,8 +4603,8 @@ PNCV *(q)alawa ‘sister’s child’ (Clark 2009: *alawa)
  NCV: Ninde             lowo-            ‘♂sister’s child’
  NCV: Lendamboi         alawa            ‘sister’s child’
  NCV: Nguna             aloa             ‘mother’s brother’, FZH, MZH (Guiart 1964)
-PSV *alwə- ‘♂sister’s son’ (?) (Lynch 2001b)
- SV:  Sye               alwo-            ‘cross-cousin’ (Lynch 2001b)
+PSV *alwə- ‘♂sister’s son’ (?) (Lynch 2001c)
+ SV:  Sye               alwo-            ‘cross-cousin’ (Lynch 2001c)
  SV:  Ura               alwi-            ‘nephew’
  Mic: Nauruan           aroe-            ‘mother’s brother, ♂sister’s child’ (Wedgwood 1936)
 cf. also:
@@ -4709,7 +4709,7 @@ wife-giving group (_*ma[n]tuqa_), i.e. a matter of power’.
 
 <
 PMP *tumpu ‘grandparent, grandchild’ (ACD)
-POc *tubu- ‘grandparent, grandchild’, MB (?) (ACD; Milke 1958a: ‘grandparent’)
+POc *tubu- ‘grandparent, grandchild’, MB (?) (ACD; Milke 1958b: ‘grandparent’)
  Adm: Mussau              tuvu-              ‘grandparent, grandchild’
  Adm: Wuvulu              ʔupu-              ‘grandparent, grandchild’
  Adm: Baluan              tupu-              ‘all relatives in the grandparent generation’
@@ -4740,7 +4740,7 @@ POc *tubu- ‘grandparent, grandchild’, MB (?) (ACD; Milke 1958a: ‘grandpare
  MM: Tolai                tubu-              ‘grandparent, grandchild’, PPG (Fingleton 1986)
  MM: Nehan                tubu-              ‘grandparent’, PPP, CCC (Nachman 1978; Glennon & Glennon 2006)
  MM: Halia                tubu-              ‘grandparent, ancestor’
-  SES: Bugotu             tubu-              ‘mother’s brother, ♂sister’s child’ (Ivens 1940a)
+  SES: Bugotu             tubu-              ‘mother’s brother, ♂sister’s child’ (Ivens 1940)
   SES: Lengo              tubu-              ‘mother’s brother, ♂sister’s child’
   SES: Bauro              wa-upu             ‘mother’s brother’ (wa-‘male’)
 PNCV *tubu- ‘grandparent, grandchild’ (Clark 2009)
@@ -4754,7 +4754,7 @@ PNCV *tubu- ‘grandparent, grandchild’ (Clark 2009)
   NCV: Neve’ei            cube-              ‘grandparent, grandchild’
   NCV: Lewo               repi-              ‘grandparent’
   NCV: Nguna              topu-              ‘grandfather’
-PSV *[e]t(p,b)u- ‘grandparent’ (Lynch 2001b)
+PSV *[e]t(p,b)u- ‘grandparent’ (Lynch 2001c)
   SV: Sye                 re-tpo-            ‘wife’
   SV: Lenakel             rəpə-              ‘grandparent’
   SV: Anejom              e-tpo-             ‘grandparent’
@@ -4958,7 +4958,7 @@ PNCV *makubu ‘grandchild’ (Clark 2009)
   NCV: Ninde             neiʙü-            ‘grandchild’, MBDS
   NCV: Unua              meɣeʙu-           ‘grandchild’
   NCV: Port Sandwich mexiᵐbü-              ‘grandchild, descendant’
-PSV *maɣubʷu- ‘grandchild’ (Lynch 2001b)
+PSV *maɣubʷu- ‘grandchild’ (Lynch 2001c)
   SV: Sye                moɣpo-            ‘grandchild’
   SV: Lenakel            mʷipʷə-           ‘grandchild’
   SV: SW Tanna           makupu            ‘grandchild’
@@ -5074,7 +5074,7 @@ spouse’, discussed in §2.4.2.2.
 
 <
 PMP *taji ‘younger s.s. sibling’ (ACD; see also §2.4.2.2)
-POc *taci- ‘younger s.s. sibling, parallel cousin’s younger s.s. child’ (Milke 1958a)
+POc *taci- ‘younger s.s. sibling, parallel cousin’s younger s.s. child’ (Milke 1958b)
  Yap:  Yapese        teθī-           ‘younger brother’ (Jensen 1977)
  Adm:  Mussau        tasi-           ‘wife’s sister, husband’s brother’, sGE
  Adm:  Pak           tehi-           ‘s.s. sibling’, {PsG}sC, ♂{PoG}SS
@@ -5101,9 +5101,9 @@ POc *taci- ‘younger s.s. sibling, parallel cousin’s younger s.s. child’ (M
  MM:   Nalik         dasi-           ‘(?♂)brother’ (Chinnery 1929)
  MM:   Siar          tasi-           ‘sibling, cousin’ (Frowein 2011)
  MM:   Patpatar      təsi-           ‘brother, mother’s sister’s son’
- MM:   Roviana       tasi-           ‘s.s. sibling’ (Capell 1943)
+ MM:   Roviana       tasi-           ‘s.s. sibling’ (Capell 1943b)
  MM:   Maringe       tahi-           ‘younger s.s. sibling’, {PsG}yC
- SES:  Bugotu        tahi-           ‘s.s. sibling (younger?)’ (Ivens 1940a)
+ SES:  Bugotu        tahi-           ‘s.s. sibling (younger?)’ (Ivens 1940)
  SES:  To’aba’ita    θa-asi-         ‘younger sibling’
  SES:  Kwaio         asi-            ‘younger brother, younger male cousin’
  SES:  Bauro         k-asi, w-asi    ‘younger s.s. sibling’ (_k_-female, _w_-male)
@@ -5191,7 +5191,7 @@ __tablenh__
 
 
 <
-POc *tua- ‘elder s.s. sibling’, {PsG}esC (Milke 1958a: _*tuqa_)
+POc *tua- ‘elder s.s. sibling’, {PsG}esC (Milke 1958b: _*tuqa_)
  Adm:  Mussau         tue-        ‘elder sibling’, {PsG}eC
  NNG:  Lukep (Pono)   tua-        ‘elder s.s. sibling’
  NNG:  Mindiri        tua-n       ‘elder s.s. sibling’
@@ -5210,7 +5210,7 @@ POc *tua- ‘elder s.s. sibling’, {PsG}esC (Milke 1958a: _*tuqa_)
  NCV:  Apma           tua-        ‘elder sibling’
  NCV:  Ninde          tua-        ‘elder s.s. sibling’, FFF, ♂FMBS, ♂MFMBS
  NCV:  Uripiv         tua-        ‘elder s.s. sibling’, HB
-PSV *-tua- ‘elder s.s. sibling’ (Lynch 2001b)
+PSV *-tua- ‘elder s.s. sibling’ (Lynch 2001c)
  SV:   Kwamera        p-rea-      ‘elder s.s. sibling’, {PsG}eC
  SV:   Anejom         e-twa-      ‘s.s. sibling’, FBsC
 Proto New Caledonia *tuka- ‘elder s.s. sibling’ (Ozanne-Rivierre 2000)
@@ -5224,7 +5224,7 @@ Proto New Caledonia *tuka- ‘elder s.s. sibling’ (Ozanne-Rivierre 2000)
                                                                             Kinship terms 115
 
 <
-POc *tuaka- ‘elder s.s. sibling, elder parallel cousin’ (ACD; Milke 1958a: _*tuqaka_)
+POc *tuaka- ‘elder s.s. sibling, elder parallel cousin’ (ACD; Milke 1958b: _*tuqaka_)
   NNG:  Tuam               toɣa-          ‘elder s.s. sibling’
   NNG:  Bam                tikua          ‘elder s.s. sibling’ (metathesis: POc _*tuaka_ > _*takua_)
   NNG:  Manam              toʔa           ‘elder sibling’, PGeC
@@ -5232,7 +5232,7 @@ POc *tuaka- ‘elder s.s. sibling, elder parallel cousin’ (ACD; Milke 1958a: _
   MM:   Bola               tuka-          ‘elder s.s. sibling’
   MM:   Nalik              duāk           ‘♀sister’ (Chinnery 1929)
   MM:   Varisi             toɣa-          ‘elder s.s. sibling’, PGseC
-  SES:  Bugotu             toɣa-          ‘elder s.s. sibling’ (Ivens 1940a)
+  SES:  Bugotu             toɣa-          ‘elder s.s. sibling’ (Ivens 1940)
   SES:  Lengo              toha-          ‘♂elder brother’, ♂{PoG}eS
   SES:  Kwaio              oʔa-           ‘elder brother’
   NCV:  Raga               tuaɣa-         ‘elder sibling’, MP
@@ -5266,7 +5266,7 @@ is clearly inherited from PMP without change in meaning.
 <
 PAn *kaka ‘elder sibling’ (ACD)
 PMP *kaka ‘elder s.s. sibling’ (ACD)
-POc *kaka ‘elder s.s. sibling (ADDR), elder parallel cousin (ADDR)’ (Milke 1958a)
+POc *kaka ‘elder s.s. sibling (ADDR), elder parallel cousin (ADDR)’ (Milke 1958b)
   NNG: Gitua          kaka        ‘elder s.s. sibling’
   NNG: Mindiri        kak         ‘elder s.s. sibling’
   NNG: Manam          aʔa         ‘elder sibling’
@@ -5279,7 +5279,7 @@ POc *kaka ‘elder s.s. sibling (ADDR), elder parallel cousin (ADDR)’ (Milke 1
   MM:  Kubokota       kaka        ‘elder (s.s.?) sibling’
   MM:  Kokota         kaka        ‘elder sibling’, PP
 cf. also
-  SES: Bugotu         kaka         ‘elder sibling’ (Maringe loan) (Ivens 1940a)
+  SES: Bugotu         kaka         ‘elder sibling’ (Maringe loan) (Ivens 1940)
 >
 
     As Marck (1996:223–226) notes and discusses, there are two competing forms for PPn
@@ -5345,7 +5345,7 @@ speakers know whether a term referred to someone’s spouse or to someone’s si
     Answering the second question first, PEMP and POc distinguished between direct
 possession, whereby the possessed noun took a suffix indicating the person and number of
 the possessor, and indirect possession, where the possessor suffix was attached to a separate
-classifier morpheme (Lichtenberk 1985). Stress shifted one mora to the right when a single-
+classifier morpheme (Lichtenberk 1985a). Stress shifted one mora to the right when a single-
 mora suffix was added.[34] The o.s. sibling terms were directly possessed, the spouse terms
 indirectly. Hence, for example, POc _*papiné-gu_ ‘my sister’ contrasted with _*ná-gu papíne_
 ‘my wife’ (where _*na-_ is a classifier).
@@ -5359,7 +5359,7 @@ __table__
                          |    Leti       |     _nara muani_       |     _nara puate_
                          |    Paulohi    |     _leu manawa_       |     _leu pipina_
 
-[34] On the reconstruction of POc stress, see Lynch (2000b).
+[34] On the reconstruction of POc stress, see Lynch (2000a).
 
 118 Malcolm Ross and Jeffrey C. Marck
 
@@ -5408,7 +5408,7 @@ reflex _*mʷaqane_ to the generic sense ‘o.s. sibling’.
 <
 PEMP *babinay ‘♂sister’
   CB: Wandamen           vavi[ni]         ‘♂sister’
-POc *papine- ‘♂sister’, ♂female parallel cousin’ (Milke 1958a)
+POc *papine- ‘♂sister’, ♂female parallel cousin’ (Milke 1958b)
   MM:  Nalik             fafna-           ‘o.s. sibling’, FBoC, ♀FBD, WBW (Chinnery 1929)
   MM:  Tangga            fefne-           ‘o.s. sibling’
   MM:  Patpatar          hahini-          ‘sibling’
@@ -5416,7 +5416,7 @@ POc *papine- ‘♂sister’, ♂female parallel cousin’ (Milke 1958a)
   MM:  Hahon             wevne-           ‘o.s. sibling’, {PsG}oC
   MM:  Torau             aine-            ‘o.s. sibling’
   MM:  Varisi            vavani-          ‘o.s. sibling’, PGoC, EsGE
-  MM:  Roviana           vavene-          ‘♂sister’ (Capell 1943)
+  MM:  Roviana           vavene-          ‘♂sister’ (Capell 1943b)
 Proto Southeast Solomonic *vavine- ‘♂sister’
   SES: Bugotu            vavine-          ‘o.s. sibling’ (Bogesi 1948)
   SES: Lengo             vavine-          ‘♂sister’, ♂{PoG}D
@@ -5424,11 +5424,11 @@ Proto Southeast Solomonic *vavine- ‘♂sister’
   SES: ’Are’are          hahone-          ‘o.s. sibling’
   SES: E Arosi           haho-            ‘o.s. sibling’, PGoC
 PNCV *vavine- ‘♂sister’ (Clark 2009)
-  NCV: Kiai              vavine-          ‘♀sister’ (Lynch 2004)
+  NCV: Kiai              vavine-          ‘♀sister’ (Lynch 2004d)
   NCV: Big Nambas        vən-             ‘♂sister’, ♂{PsG}D
   NCV: Neve’ei           vivinu-          ‘♂sister’, ♂{PsG}D
   NCV: Lewo              vine-            ‘♂sister’
-PSV *na-[va]vine- ‘♂sister’ (Lynch 2001b)
+PSV *na-[va]vine- ‘♂sister’ (Lynch 2001c)
   SV:  Sye               veven, vevne-    ‘brother, ♂sister’
   SV:  Lenakel           no-uinə-         ‘♂sister’
   Mic: Chuukese          fēfine-          ‘♂sister’, ♂PGD (Goodenough 1951)
@@ -5442,7 +5442,7 @@ cf. also:
 <
 PEMP *muaqanay ‘♀brother’
   CB: Wandamen           muani               ‘♀brother’
-POc *mʷaqane- ‘♀brother, ♀male parallel cousin’ (?) (Milke 1968; Milke 1958a: _*[m]ane_)
+POc *mʷaqane- ‘♀brother, ♀male parallel cousin’ (?) (Milke 1968; Milke 1958b: _*[m]ane_)
   Adm: Baluan            mʷane-              ‘♀brother’, ♀{PsG}S
   NNG: Sio               mane                ‘o.s. sibling’, {PoG}oC
   NNG: Bing              mane                ‘o.s. sibling’ (Lincoln 1978)
@@ -5459,7 +5459,7 @@ PNCV *mʷa(qa)ne ‘♀brother’ (Clark 2009:152–153)[35]
   NCV: Big Nambas        nn̼ana-            ‘♀brother’
   NCV: Neve’ei           manu-               ‘♀brother’, ♀MZS, ♀FBS
   NCV: Lewo              mʷene-              ‘♀brother’
-PSV *[na]mʷane- ‘♀brother’ (Lynch 2001b)
+PSV *[na]mʷane- ‘♀brother’ (Lynch 2001c)
   SV: Sye                man, mano-          ‘♀brother’
   SV: North Tanna        mʷanə-              ‘♀brother’
   SV: Lenakel            man-                ‘♀brother’
@@ -5728,7 +5728,7 @@ often become _-wo-_, or, as in Proto New Caledonian _*-o-_.
 
 <
 PAn *qasawa ‘spouse’ (ACD)
-POc *qasawa- ‘spouse, husband’ (ACD; Milke 1958a: _*acawa_)
+POc *qasawa- ‘spouse, husband’ (ACD; Milke 1958b: _*acawa_)
   Adm: Aua               harāu          ‘wife’
   Adm: Baluan            asoa           ‘husband’
   SJ:    Sobei           eso-           ‘spouse’
@@ -5844,7 +5844,7 @@ languages and Kokota (MM, Santa Isabel) and in SES languages the terms mean ‘w
 ‘spouse’.
 
 <
-POc *kawe(C) ‘woman, wife’ (?) (Lynch 2004: PSOc _*nawe_ ‘wife’)
+POc *kawe(C) ‘woman, wife’ (?) (Lynch 2004d: PSOc _*nawe_ ‘wife’)
 PEAd *n-awe- ‘spouse’
   Adm: Lele               n-awe-         ‘spouse’ (reciprocal)
   Adm: Drehet             n-ewe          ‘spouse’
@@ -5858,10 +5858,10 @@ Proto Buang *avɛh ‘woman’
   MM: Kokota              n-afe-         ‘spouse, marriage partner of either sex’
   SES: Lau                ʔafe           ‘wife, married woman’
   SES: Kwara’ae           ʔafe           ‘wife’
-  NCV: Nese               n-au           ‘wife’ (Lynch 2004)
+  NCV: Nese               n-au           ‘wife’ (Lynch 2004d)
   NCV: Big Nambas         n-au-          ‘spouse’
-  NCal: Nemi              nn̥ōe-        ‘wife’ (Lynch 2004)
-  NCal: Fwâi              nn̥ōe-        ‘wife’ (Lynch 2004)
+  NCal: Nemi              nn̥ōe-        ‘wife’ (Lynch 2004d)
+  NCal: Fwâi              nn̥ōe-        ‘wife’ (Lynch 2004d)
 >
 
 [36] Of the languages here, _*na-_ accretion is attested in the Admiralties (Ross 1988:340), in Santa Isabel
@@ -5914,7 +5914,7 @@ POc *ipaR, *ipa- ‘s.s. sibling-in-law’ (ACD)
   MM: Varisi                iva-                ‘s.s. sibling-in-law’
   MM: Maringe               iva                 ‘spouse’s sibling’ (Bugotu loan)
 Proto Southeast Solomonic *iva- ‘♀sister-in-law, s.s. sibling-in-law’
-  SES: Bugotu               iva-                ‘sibling-in-law’ (Ivens 1940a)
+  SES: Bugotu               iva-                ‘sibling-in-law’ (Ivens 1940)
   SES: To’aba’ita           θa-ifa-             ‘♀husband’s sister’
  SES: Kwaio                ifa-                 ‘sibling-in-law’
  SES: E Arosi              iha-                 ‘s.s. sibling-in-law’
@@ -5955,7 +5955,7 @@ reconstructions can be made.
    Intriguing is the fact is that there are no NCV reflexes of POc *ipa- and no replacement
 term is reflected across the archipelago, but there is a possible cognate set for ‘♂brother-in-
 law’, stretching across north and central Vanuatu. Clark (2009) reconstructs PNCV *tauwia,
-but Lynch (2004) divides the set in two, _*taku_ and _*tauwia_, to account for the presence or
+but Lynch (2004d) divides the set in two, _*taku_ and _*tauwia_, to account for the presence or
 absence of reflexes of _*-k-_. The division is accepted here, with the rider that, given their
 similarity of form and identical meaning, the two sets may have a shared history. The form
 _*tau-wia_ only occurs in Central Vanuatu languages.[38] It is clearly a compound. The second
@@ -5963,7 +5963,7 @@ element is _wia_ ‘good’ (vol.5:596–597). The first is perhaps reflected in
 Nguna _tā_, both glossed ‘friend’ (Clark 2009).
 
 <
-Proto Remote Oceanic *taku ‘brother-in-law’ (Lynch 2004: NCV)
+Proto Remote Oceanic *taku ‘brother-in-law’ (Lynch 2004d: NCV)
  NCV: Akei               tau-             ‘♂brother-in-law’
  NCV: Araki              rahu-            ‘♂brother-in-law’, HZH
  NCV: Lonwolwol          tovʸa-           ‘♂wife’s brother’
@@ -6094,7 +6094,7 @@ POc *rawa ‘parent- or child-in-law’ (Milke 1965: PNGOc)
   MM:   Tinputz        noa-             ‘mother-in-law’
   MM:   Torau          roa-             ‘wife’s parent, daughter’s husband’, ZH
   MM:   Varisi         rava-            ‘parent- or child-in-law’, GCE
-  MM:   Roviana        roa-             ‘parent-in-law’ (Capell 1943)
+  MM:   Roviana        roa-             ‘parent-in-law’ (Capell 1943b)
   NCV:  Big Nambas     rawa-            ‘parent-in-law’
   NCV:  Mota           rowoa-           ‘♀sister’s husband’, ♀ZHS, ♀HGS (Vienne 1984)
   NCV:  Vao            rava-            ‘♀sister-in-law’
@@ -6115,7 +6115,7 @@ languages. In PPn it split into the expected reflex _*fuŋao-na_, but with its m
 ‘child-in-law’, and PPn _*fuŋao-ai_ ‘parent-in-law’.
 
 <
-PEOc *puŋao- ‘parent- or child-in-law’ (Chowning 1991; Milke 1958a: POc _*puŋo_)
+PEOc *puŋao- ‘parent- or child-in-law’ (Chowning 1991; Milke 1958b: POc _*puŋo_)
 Proto Southeast Solomonic *vuŋao- ‘parent- or child-in-law’
   SES: Bugotu           vuŋao          ‘parent-in-law’ (Bogesi 1948)
   SES: Lengo            vuŋau-         ‘parent-in-law, ♂child-in-law’, ♂GCE, ♂FZCCE
@@ -6304,7 +6304,7 @@ unsurprising when one considers the number of English expressions for them. Also
 confirmed are Milke’s (1965) reconstructions of _*wawa_ ‘mother’s brother’ and _*rawa-_
 ‘parent- or child-in-law’, which are promoted from PNGOc to POc.
 
-    A formal novelty is the replacement of Milke’s (1958a) _*tuqaka_ ‘s.s. older sibling’ by two
+    A formal novelty is the replacement of Milke’s (1958b) _*tuqaka_ ‘s.s. older sibling’ by two
 forms, _*tua-_ and _*tuaka-_ (§2.4.1.5.3). An addition is POc _*bawa[-]_ ‘great-great-grandparent,
 great-great-grandchild’ (§2.4.1.4.3)
 
@@ -6422,7 +6422,7 @@ __block__
 - Māori: Hīroa 1949
 - Mapos Buang: Rambok & Hooley 2010
 - Maringe: Boswell 2009
-- Marovo: Capell 1943
+- Marovo: Capell 1943b
 - Marquesan: Handy 1923
 - Marshallese: Spoehr 1949a, 1949b
 - Marshallese (Namu): Pollock 1970
@@ -6464,7 +6464,7 @@ __block__
 - Rarotongan: Buse & Taringa 1996
 - Rennellese: Elbert & Monberg 1955
 - Roro: Monsell-Davis 1981
-- Roviana: Capell 1943
+- Roviana: Capell 1943b
 - Sa’a: Ivens 1927
 - Samoan: Williamson 1924; Holmes 1957
 - Satawalese: Sudo 1985
@@ -6538,8 +6538,7 @@ a long history with contributions by anthropologists, linguists and archaeologis
 grounds that only maternal kinship connections could be known for certain. He thought that
 matrilineal moiety systems developed early in Melanesian history as the result of a fusion
 between indigenous peoples and later arrivals, and he attributed shifts to patrilineal descent
-and succession to the influence of immigrants with an advanced culture. As Allen
-(1984:27) observed, Rivers’ argument was not really refuted, but simply “abandoned as a
+and succession to the influence of immigrants with an advanced culture. As M. Allen (1984:27) observed, Rivers’ argument was not really refuted, but simply “abandoned as a
 result of the general demise of evolutionary anthropology in favour of structural
 functionalism”. In a variation of Rivers’ scenario, Allen proposed that matrilineal descent
 groups were a precondition of social stratification in Melanesia, the argument being that
@@ -6706,7 +6705,7 @@ __tablenh__
 ‘Aunt’ terms: Cross distinction absent   |  11          |       9
 
 The evidence for matrilineal rather than patrilineal descent in Proto Oceanic society is
-distributional, linguistic and historical in nature. As Rivers (1914) and Allen (1984)
+distributional, linguistic and historical in nature. As Rivers (1914) and M. Allen (1984)
 emphasised, matrilineal descent groups are found extensively in many areas of Melanesia
 including
 
@@ -6714,7 +6713,7 @@ __blockquote__
      the Huon Gulf, New Britain [east of the Willaumez Peninsula] and New Ireland
      [in the Bismarck Archipelago], the Massim Archipelago [apart from the northern
      d’Entrecasteaux], Bougainville, parts of the Solomons and much of north and
-     central Vanuatu (Allen 1984:26). [Brackets are Hage’s]
+     central Vanuatu (M. Allen 1984:26). [Brackets are Hage’s]
 
 Double descent groups are also found in Melanesia, e.g. Bunlap [Sa, south Pentecost]
 (Tattevin 1928), Vanua Levu [Fiji] (Quain 1948) and also in Micronesia, e.g. Pingelap
@@ -6785,7 +6784,7 @@ __blockquote__
      mainland New Guinea Oceanic-speaking societies are represented: four (Mekeo, Motu, Maisin and Sio)
      are patrilineal and one (Wamira [= Bartle Bay dialect of Wedau]) is matrilineal. In distinguishing
      Oceanic from non-Austronesian-speaking societies in Melanesia one should not overlook the effects of
-     interaction between these groups, as Green (1991) and Kirch (1997) have emphasised in archaeological
+     interaction between these groups, as Green (1991a) and Kirch (1997) have emphasised in archaeological
      studies. In cultural anthropology, Chowning (pers. comm.) notes an interesting historical connection
      between them: “At least in East New Britain and on Bougainville, the [non-Austronesian]-speaking
      societies, whose ancestors presumably arrived there long before the [Oceanic] speakers, are also
@@ -6941,8 +6940,8 @@ institutions.
 culture historical implications. Rivers, as mentioned, attributed moiety systems, which are
 common in Melanesia, to the fusion of indigenous and immigrant peoples. As evidence he
 noted the presence of inter-moiety hostility, native traditions of separate origins and the
-attribution of physical and mental differences to members of different moieties. As Blust
-(1981a) has observed, there is no linguistic evidence for the “fusion hypothesis”, i.e., no
+attribution of physical and mental differences to members of different moieties. As Blust (1981c)
+has observed, there is no linguistic evidence for the “fusion hypothesis”, i.e., no
 significant differences in vocabulary, phonology or grammar between members of different
 moieties in Oceanic societies. An alternative, more plausible explanation, which applies to
 moiety systems in general, derives from a theory of Murdock’s (1940, 1949). Typically,
@@ -6951,7 +6950,7 @@ of males to their natal groups, consists of two exogamous lineages. Eventually t
 groups may develop onto a moiety system with all its attendant symbolism. Could such a
 process account for the prevalence of moiety systems in Melanesia?[15]
 
-[15] Under Blust’s (1981a) hypothesis that dual organisation was a feature of Proto Malayo-Polynesian
+[15] Under Blust’s (1981c) hypothesis that dual organisation was a feature of Proto Malayo-Polynesian
      society which continued in many Oceanic societies, the two groups would be lineages belonging to
      different moieties or lineages of the same moiety which became exogamous.
 
@@ -6976,9 +6975,9 @@ breeding stocks of domestic animals.
     The question arises as to what forms of leadership underpinned these achievements and
 whether historical linguistics in combination with the ethnographic record can provide clues,
 in the form of relevant lexical reconstructions. The following discussion will draw on a
-number of earlier studies which have addressed these questions, including Green (1994, 2002),
+number of earlier studies which have addressed these questions, including Green (1994a, 2002),
 Hage (1999a, 1999b), Hayden (1983), Kirch (1984), Kirch and Green (2001), Lichtenberk (1986)
-and Pawley (1982).
+and Pawley (1982a).
 
     The Polynesian material is surveyed first because it yields a number of well supported
 Proto Polynesian terms to do with rank and leadership, indicating that Proto Polynesian
@@ -7160,11 +7159,11 @@ cf. also:
 4.2.2.2 PPn _*laŋi_
 
 A PPn term _*laŋi_ having to do with chiefly status is reconstructable. Its precise meaning is
-uncertain but the broad definition proposed by Green (1994) is consistent with the range of the
+uncertain but the broad definition proposed by Green (1994a) is consistent with the range of the
 reflexes.
 
 <
-PPn *laŋi ‘one of sufficiently high rank to be honoured or treated as one in authority’ (Green 1994)
+PPn *laŋi ‘one of sufficiently high rank to be honoured or treated as one in authority’ (Green 1994a)
 -Tongic
  Pn: Tongan       laŋi         ‘royal tomb, raised and terraced burial place of sovereigns’
 -Nuclear Polynesian in western Polynesia
@@ -7348,7 +7347,7 @@ historical linguistics to reconstruct the sound system and lexicon of the common
 family of related languages and to construct a family tree (or subgrouping) for the family.
 However, in recent decades a number of studies have drawn on evidence from historical
 linguistics to support hypotheses about the history of Polynesian political systems. Among
-these are monographs by Kirch (1984) and Kirch and Green (2001) and papers by Pawley (1982),
+these are monographs by Kirch (1984) and Kirch and Green (2001) and papers by Pawley (1982a),
 Kirch and Green (1987), Hage (1999a,b) and Marck (2010).
 
    Goldman (1970), a 600-page work comparing 18 Polynesian societies, distinguishes three
@@ -7887,7 +7886,7 @@ form a descriptive noun or nickname” (Fox 1970:1). A cognate article is found 
 Oceanic languages, including Polynesian, where it precedes personal names and/or, in some
 languages, place names (Pawley 1972:58).
 
-   In Pawley (1982), I accepted Fox’s claim that Arosi _ariʔi_ is cognate with PPn _*qariki_ and
+   In Pawley (1982a), I accepted Fox’s claim that Arosi _ariʔi_ is cognate with PPn _*qariki_ and
 observed that cognates of Arosi _araha_ denoting a chief or person of a chiefly descent group
 occur in several languages of the Malaita-Makira subgroup in the Southeast Solomons,
 supporting the reconstruction of Proto Malaita-Makira _*alafa_ ‘chief’:
@@ -8085,7 +8084,7 @@ include: in Pije, Fwâi, Nemi, Jawe, Nyelâyu and Nêlêmwa _yabʷec_, Cèmuhî 
 _kʷara_ and Iaai _kei-_. Most of these terms can occur with a collective proclitic, and the Iaai term
 is directly possessed, e.g. _la kei-ñ_ ‘his subjects’, _la kei-k_ ‘my subjects’ (_la_ ‘collective’).
 
-    One candidate for ‘commoner’ is POc _*mʷala_, which Blust (1981a) suggests may have been
+    One candidate for ‘commoner’ is POc _*mʷala_, which Blust (1981c) suggests may have been
 a noun denoting a person of low social status. However, the evidence favours reconstructing
 _*mʷala_ as a stative verb and adjective meaning ‘common, worthless’ and as a noun meaning
 ‘misfortune, lack of prosperity’.
@@ -8151,7 +8150,7 @@ centre of Proto Oceanic in the Bismarck Archipelago and associates this language
 archaeological tradition known as (Early Western) Lapita, whose bearers spread very swiftly
 across the southwest Pacific around 3000 BP, reaching Tonga by 2850 BP. Archaeology tells
 us a good deal about the preferred habitation sites of early Lapita settlements in the Bismarck
-Archipelago (Green 2003; Kirch 1997, 2000; Spriggs 1997; Summerhayes 2010). All the
+Archipelago (Green 2003; Kirch 1997, 2000; Spriggs 1997a; Summerhayes 2010). All the
 sites are on the coast, close to beaches and fringing reefs that, respectively, would have
 provided landing places for canoes and for obtaining seafood. However, archaeology has
 yielded little evidence about the internal organisation of Lapita dwelling sites, as very few
@@ -8272,7 +8271,7 @@ POc *Rumaq ‘dwelling house’[3]
     and (b) in some such societies reflexes of PMP _*kamaliR_ refer to granaries.
 
 [3] Some scholars reconstruct POc _*Rumʷaq_ with labiovelar _*mʷ_ but at least some labiovelar reflexes are
-    likely to be secondary developments following the high back rounded vowel (Blust 1981b).
+    likely to be secondary developments following the high back rounded vowel (Blust 1981a).
 
 178 Andrew Pawley and Roger Green
 
@@ -8283,7 +8282,7 @@ superstructure, gabled, with floor raised on piles (for supporting cognates see 
 __block__
 - _*gabwari_ ‘the area underneath a raised house’ (vol.1:51)
 - _*pupuŋ(an)_ ‘ridgepole’ (vol.1:53), from PMP _*bubuŋ_ (Dempwolff 1938; Zorc 1994), PMP
-  _*buhuŋbuhuŋ_ (Blust 1972) ‘ridgepole, ridge of the roof’
+  _*buhuŋbuhuŋ_ (Blust 1972b) ‘ridgepole, ridge of the roof’
 - _*bou_ ‘probably main bearers or cross-beams supporting a raised floor or roof structure, or
   centre post supporting ridgepole’ (vol.1:56)
 - _*soka(r)_ ‘crossbeam, bracing timber’ (vol.1:56), from PMP _*seŋkar_ ‘transverse beams that
@@ -8884,7 +8883,7 @@ PMic *kayinaŋa ‘clan, folk, tribe, stock’ (Goodenough 1955; Bender et al. 2
 >
 
    For PPn we cite the reconstructions proposed by Marck (2010) and Kirch and Green (2001),
-which slightly modify those proposed by Koskinen (1960), Marck (2008) and Pawley (1982, 1985).
+which slightly modify those proposed by Koskinen (1960), Marck (2008) and Pawley (1982a, 1985).
 
 <
 PPn *kainaŋa (1) ‘descent group, headed by an _*qariki_ “chief”’; (2) ‘the subjects of a chief, the common people’ (§4.1.2.6; Marck 2010); ‘a land-holding exogamous descent group tracing descent from a common ancestor and headed by an _*qariki_’ (Kirch and Green 2001)[8]
@@ -10690,7 +10689,7 @@ cf. also:
 
 A dart or small spear might be used in hunting birds or lizards, but is commonly used in
 games of skill. POc _*tibʷa(ŋ)_ ‘dart, arrow’ is reflected as PCP _*tigʷa_, PPn _*tika_. The
-subsequent history of POc labiovelars (_*pʷ_, _*bʷ_, _*mʷ_) is not well understood (Lynch 2002),
+subsequent history of POc labiovelars (_*pʷ_, _*bʷ_, _*mʷ_) is not well understood (Lynch 2002e),
 but in at least some cases they became labialised velars (_*kʷ_, _*gʷ_, _*ŋʷ_), losing their
 labialisation in Proto Polynesian (_*k_, _*k_, _*ŋ_) as happened here.
 
@@ -10762,7 +10761,7 @@ PPn *fana ‘shoot with arrow’
 6.6.6 Lower level reconstructions
 
 There is substantially more information on games played in Fiji and Polynesia than in the
-rest of Oceania (Erskine 1853 on Fiji, Ellis 1831 on Tahiti, Best 1925 on Maori, Buck 1927
+rest of Oceania (Erskine 1853 on Fiji, Ellis 1831 on Tahiti, Best 1925b on Maori, Buck 1927
 on the Cook Islands, Moyle 1988 on Samoa, Koch 1984 on Tuvalu). Consequently, a
 number of PPn or PCP reconstructions have been made. Unlike games described in New
 Guinea and the Solomons, those for which detailed descriptions exist in the Central Pacific
@@ -11623,7 +11622,7 @@ possible, but it has proved impossible to combine the data into a single cognate
 
 <
 Proto Malaita-Makira *yaru (VI) ‘invoke a spirit, make imprecations, put a spell on someone over something’
-Proto Malaita-Makira *yaruʔ-i (VT) ‘invoke a spirit, make imprecations, put a spell on someone over something’ (Lichtenberk 1994:30)
+Proto Malaita-Makira *yaruʔ-i (VT) ‘invoke a spirit, make imprecations, put a spell on someone over something’ (Lichtenberk 1994b:30)
 Proto Malaita-Makira *aruʔ-a (N) ‘magic, spell’
  SES: Longgu      aru            (N) ‘generic term for magic, spell’ (Hogbin 1964)
  SES: Longgu      aru-aru        (V) ‘whisper, murmur, usually behind one’s hands; talk to s.t. like a lime or leaf in your hands as a special protection against spirits so that no one hears what you say’
@@ -11936,7 +11935,7 @@ god.
 
    Williamson (1937:121) reports that the periodic offering of first fruits was widespread
 throughout Polynesia. In Futuna, the main ritual season began with a major feast and with
-the offering of the first yams to the gods (Kirch 1994:275). The Maori offered a portion of
+the offering of the first yams to the gods (Kirch 1994b:275). The Maori offered a portion of
 the first fruits of each season – fish, fowl, and vegetable – to the departmental gods; of birds
 to Tane, of fish and seaweed to Tangoroa, and cultivated foods to Rongo (Best 1934:69).
 
@@ -12304,7 +12303,7 @@ However, a search through available sources throws up the terms listed below. Th
 some resemblance to PPT _*baravu_ above. Assuming regular sound
 correspondences, the PPT reconstruction suggests a POc †_*ba(r,R)apu_, but
 none of the forms below exactly reflects this. Lou _pʷalop_ comes close, but Lou _-l-_ reflects
-POc _*-l-_, not POc _*-r-_ or _*-R-_ (Blust 1998a). Intriguingly, the PT language Kilivila has
+POc _*-l-_, not POc _*-r-_ or _*-R-_ (Blust 1998b). Intriguingly, the PT language Kilivila has
 apparently replaced this same consonant with _-g-_. Similar issues affect the cognacy of the
 other items below, yet the likelihood of chance resemblances of several trisyllables with
 similar senses is close to zero. A plausible inference is that the word itself was considered to
@@ -12920,7 +12919,7 @@ property, wealth, heirlooms.
    For comparison, the glosses quoted by Blevins for the three Southeast Solomonic
 languages are given here. They are from Fox (1955) for Gela and as quoted by Keesing (1984:141)
 for the other two. It is noteworthy that neither corresponding entries in
-Lichtenberk’s To’aba’ita dictionary (2008a) and Keesing’s Kwaio dictionary (1975) mention
+Lichtenberk’s To’aba’ita dictionary (2008) and Keesing’s Kwaio dictionary (1975) mention
 ancestrally conferred power.
 
 __formgroup__
@@ -13167,7 +13166,7 @@ PCEMP *tambu ‘forbidden, taboo’ (ACD)
  CMP: Yamdena       tambu                ‘restrain, prevent’
  CMP: Fordata       tabu                 ‘forbid, prevent’
  SHWNG: Numfor        kābus                ‘tree branch or anything else placed on fruit tree or other object by its owner in order to make others afraid to approach the marked object lest ill fortune befall them’ (long vowel and final -s unexplained) (ACD: footnote under _*tapu-tapu_)
-POc *tabu (VSt) ‘forbidden, prohibited’ (Blust 2009:48); (N) ‘prohibition’
+POc *tabu (VSt) ‘forbidden, prohibited’ (Blust 2009b:48); (N) ‘prohibition’
 POc *tabuna ‘dehortative: “don’t!”’ (ACD)
  Adm:  Nauna         tapu(n)              ‘don’t’
  Adm:  Penchal       rapu(n)              ‘don’t’
@@ -13207,7 +13206,7 @@ POc *tabuna ‘dehortative: “don’t!”’ (ACD)
  SES:  Kwaio         abu                  ‘sacred, taboo’
  SES:  Lau           abu                  ‘don’t’ (to child or animal)
  SES:  Lau           ābu                  ‘holy, taboo’
- SES:  To’amba’ita   abu                  ‘be tabooed, not allowed, forbidden’ (used as dehortative) (Lichtenberk 2008a); ‘sacred, relating to the spirits; set apart, forbidden’ (Hogbin 1934)
+ SES:  To’amba’ita   abu                  ‘be tabooed, not allowed, forbidden’ (used as dehortative) (Lichtenberk 2008); ‘sacred, relating to the spirits; set apart, forbidden’ (Hogbin 1934b)
  SES:  ’Are’are      apu                  ‘sacred, forbidden’ (used also as prohibitive, dehortative to children)
  SES:  ’Are’are      apu(na)              (N) ‘taboo. There are four varieties of taboo, each variety causing a different sickness’
  SES:  ’Are’are      apu-apu              ‘whole region of burial place’
@@ -13315,7 +13314,7 @@ relationships. Waterhouse (1949) notes that, in Roviana, _tabu_ means ‘to put 
 certain circumstances, on food’, but he adds the proviso “perhaps an introduced term”.
 
     Food restrictions dictated by _tabu_ are not singled out for special mention in descriptions of
-avoidance behaviour we have from Southeast Solomonic languages (Hogbin 1934, Ivens 1927,
+avoidance behaviour we have from Southeast Solomonic languages (Hogbin 1934b, Ivens 1927,
 Keesing 1982), and they have a minor role in northern Vanuatu, being mentioned only
 in relation to candidates undergoing initiation rituals (François 2022:230).
 
@@ -13450,7 +13449,7 @@ accompaniment of religious rites, there is a ghostly sanction empowering it, and
 immaterial whether the person who invoked it was a person of importance or not. Any case of
 infraction of _apu_ will be followed by sickness.
 
-   Hogbin (1934:261) writes that in Malu’u [= To’aba’ita], ‘sacred’ rather than ‘forbidden’ is
+   Hogbin (1934b:261) writes that in Malu’u [= To’aba’ita], ‘sacred’ rather than ‘forbidden’ is
 the primary meaning of the term.
 
 __blockquote__
@@ -13829,7 +13828,7 @@ garden.
     meaning is retained only in ’Are’are and Ulawa. The shift in semantic focus to ‘yam harvest’ must
     already have occurred in Proto Malaita–Makira.
 
-[4] For Bugotu the sense ‘year’ is given only in the English–Bugotu finderlist of Ivens (1940a).
+[4] For Bugotu the sense ‘year’ is given only in the English–Bugotu finderlist of Ivens (1940).
 
                                                                       Seasonal cycles and lunations 301
 
@@ -13854,7 +13853,7 @@ taken over the semantics of POc _*taqun_. Tangga, spoken on small islands east o
 contributes no month names but offers _bāt ae us_, ‘the rainy season’ (November–March; _us_
 ‘rain’) and _pisae_ ‘the sun’ or ‘dry season’ (May–September) (Bell 1946:143).
 
-    Some of these names may have originally been allusions to crop-based seasons. Lichtenberk (2008a:177)
+    Some of these names may have originally been allusions to crop-based seasons. Lichtenberk (2008:177)
 writes that the To’aba’ita year was traditionally divided into two halves: six
 months of canarium almonds (April–September) and six months of strong winds (October–March).
 Ivens (1927:397) writes that in Sa’a “practically there are two divisions of the year:
@@ -14218,7 +14217,7 @@ __blockquote__
 The Yabem term thus refers to the last post-dusk setting of the Pleiades in late April or early
 May, and the Numbami term evidently marked the same seasonal transition. The Sio and
 Mangap terms, however, seem to refer to their first post-dusk rising in early December, and an
-ethnographic note in Bugenhagen & Bugenhagen (2007a) says that this marked the canarium
+ethnographic note in Bugenhagen & Bugenhagen (2007b) says that this marked the canarium
 trees beginning to form buds (Table 11.12).
 
     Although the Pleiades carry less weight for the Maenge of New Britain (NNG), their
@@ -14630,7 +14629,7 @@ various ceremonies and rituals (vol.3:314), and these have come to mark certain 
 year in various communities in Near Oceania.[17]
 
     The most extreme instance of canarium-based month names in the data is in Mangap
-(NNG) from Bugenhagen & Bugenhagen 2007a, listed in Table 11.12 in §11.5.1.3. The
+(NNG) from Bugenhagen & Bugenhagen 2007b, listed in Table 11.12 in §11.5.1.3. The
 ethnographic definitions shown in the “Accompanying notes” column of Table 11.12 all refer
 to canarium (Tok Pisin _galip_) trees.
 
@@ -14650,7 +14649,7 @@ Not much appears to be known about the Roviana canarium cult, but the month name
 indicate that canarium was sacrificed at _hope_, ‘the general name for sacred places,
 especially where skulls are placed’ (Waterhouse 1949). There is plentiful archaeological
 evidence of canarium in Roviana shrine excavations (Aswani & Sheppard 2003). A perhaps
-similar cult is recorded on neighbouring Choiseul by McClatchey et al. (2006). About
+similar cult is recorded on neighbouring Choiseul by McClatchey et al. (2006a). About
 canarium, they write:
 
 [16] ‘Canarium almond’ is technically more appropriate, as the canarium ‘nut’ is botanically not a nut but a
@@ -14756,8 +14755,8 @@ Sinaugoro (PT) | see Table 11.16 | | | |
 Sa’a (SES) | Ivens 1927 | 09 | _ōku rate_ | _ōku_ ‘dry season’, _rate_ ‘M. floridulus’ | 3rd lunar month, when the galip nuts ripen
 Arosi (SES) | Fox 1978 | 05 | _raŋisi mʷaō_ | _raŋisi_ ‘rain on’, _mʷaō_ ‘grass sp.’ | month when this grass flowers
 Mota and Mwotlap (NCV) | see Table 11.20 | | | |
-Anejom (SV) | Lynch 2001b | 03 | _niau_  |  _niau_ ‘reed sp.’ | flowers in March
-Anejom (SV) | Lynch 2001b | 08 | _niyeŋ-aɣen_ |               |  bitter wild cane
+Anejom (SV) | Lynch 2001c | 03 | _niau_  |  _niau_ ‘reed sp.’ | flowers in March
+Anejom (SV) | Lynch 2001c | 08 | _niyeŋ-aɣen_ |               |  bitter wild cane
 Wayan (Fij) | Pawley & Sayaba 2002 | 04 | _vula i ŋasau_ | _vula_ ‘moon, month’, _ŋasau_ ‘M. floridulus’ | end of hurricane season, when ŋasau, reeds, are in flower; season for harvesting yams
 
 
@@ -15069,7 +15068,7 @@ these events as a calendrical marker (1969:156, 158).
 11.5.1.3 Mangap-Mbula
 
 The Bugenhagens’ listing of lunar month names in Mangap-Mbula (Vitiaz Straits:NNG)
-(2007a:420; Table 11.12) focusses almost solely on the annual cycle of the canarium almond
+(2007b:420; Table 11.12) focusses almost solely on the annual cycle of the canarium almond
 crop (§11.4.5), although their accompanying notes are necessary to make that interpretation.
 For example, _manᵐbule mamāza_ ‘the bird’s anus is dried up’ makes little sense without the
 accompanying note. ‘Galip’ is the Tok Pisin term for the canarium tree and almond. The
@@ -15083,18 +15082,18 @@ of the canarium (and thus the beginning of the cycle).
 : Table 11.12 Mangap (Yangla dialect) month names
 
 __formgroup__
- NNG: Mangap  ᵐbui      ‘month 01’; ‘flower (VI)’ (The galip trees are flowering.) (Bugenhagen and Bugenhagen 2007a)
- NNG: Mangap  gomsala   ‘month 02’  (_gom_ ‘?’, _-sala_ ‘go up’; The galip trees are budding, flowering.) (Bugenhagen and Bugenhagen 2007a)
- NNG: Mangap  turgom    ‘month 03’  (_-tur_ ‘nod off’, _gom_ ‘?’; Clusters of galip nuts are breaking off and falling down.) (Bugenhagen and Bugenhagen 2007a)
- NNG: Mangap |ayo buzāna| ‘month 04’ (_ayo_ ‘?’, _buzāina_ ‘disgusting’; When we (INC) dig the new harvest up to eat them, they are not very good. A lot of mosquitos appear.) (Bugenhagen and Bugenhagen 2007a)
- NNG: Mangap |ro matāna| ‘month 05’  (? ‘first leaves’; The first galip nuts fall down.) (Bugenhagen and Bugenhagen 2007a)
- NNG: Mangap muna        ‘month 06’; ‘food made of galip nuts and tapioca or taro, baked in an earth oven’  (A huge amount of galip nuts comes down, galip nuts are spreading out [all over the ground].) (Bugenhagen and Bugenhagen 2007a)
- NNG: Mangap |kara-tete| ‘month 07’  (_karakāla_ ‘be constipated’, _tetekat_ ‘wrapped food made of sweet potatoes or taro and crushed canarium nuts’; A huge amount of galip nuts comes down onto the ground.) (Bugenhagen and Bugenhagen 2007a)
- NNG: Mangap aigere         ‘month 08’  (A time for rain, and [the time when] bats bite off the skins of galip nuts. They bite their skins, but don’t swallow them. A bad month.) (Bugenhagen and Bugenhagen 2007a)
- NNG: Mangap |manᵐbule mamāza|     ‘month 09’ (_man_ ‘bird’, _ᵐbule_ ‘anus’, _mamāza_ ‘dried up’; The pigeon’s anus gets torn [due to having eaten so many galip nuts and defecating them], and it cannot swallow any more galip nuts. The time for galip nuts is now finished.) (Bugenhagen and Bugenhagen 2007a)
- NNG: Mangap manpur       ‘month 10’  (_man_ ‘bird’, _pur_ ‘fart’; Birds fly up and look for galip nuts but are unable to find them.) (Bugenhagen and Bugenhagen 2007a)
- NNG: Mangap ŋese          ‘month 11’   (You (SG) want galip nuts, but can’t find them. [Time for] scratching around looking for isolated nuts.) (Bugenhagen and Bugenhagen 2007a)
- NNG: Mangap ⁿdām-bula    ‘month 12’  (ⁿdāma ‘Pleiades’; The galip trees bud again.) (Bugenhagen and Bugenhagen 2007a)
+ NNG: Mangap  ᵐbui      ‘month 01’; ‘flower (VI)’ (The galip trees are flowering.) (Bugenhagen and Bugenhagen 2007b)
+ NNG: Mangap  gomsala   ‘month 02’  (_gom_ ‘?’, _-sala_ ‘go up’; The galip trees are budding, flowering.) (Bugenhagen and Bugenhagen 2007b)
+ NNG: Mangap  turgom    ‘month 03’  (_-tur_ ‘nod off’, _gom_ ‘?’; Clusters of galip nuts are breaking off and falling down.) (Bugenhagen and Bugenhagen 2007b)
+ NNG: Mangap |ayo buzāna| ‘month 04’ (_ayo_ ‘?’, _buzāina_ ‘disgusting’; When we (INC) dig the new harvest up to eat them, they are not very good. A lot of mosquitos appear.) (Bugenhagen and Bugenhagen 2007b)
+ NNG: Mangap |ro matāna| ‘month 05’  (? ‘first leaves’; The first galip nuts fall down.) (Bugenhagen and Bugenhagen 2007b)
+ NNG: Mangap muna        ‘month 06’; ‘food made of galip nuts and tapioca or taro, baked in an earth oven’  (A huge amount of galip nuts comes down, galip nuts are spreading out [all over the ground].) (Bugenhagen and Bugenhagen 2007b)
+ NNG: Mangap |kara-tete| ‘month 07’  (_karakāla_ ‘be constipated’, _tetekat_ ‘wrapped food made of sweet potatoes or taro and crushed canarium nuts’; A huge amount of galip nuts comes down onto the ground.) (Bugenhagen and Bugenhagen 2007b)
+ NNG: Mangap aigere         ‘month 08’  (A time for rain, and [the time when] bats bite off the skins of galip nuts. They bite their skins, but don’t swallow them. A bad month.) (Bugenhagen and Bugenhagen 2007b)
+ NNG: Mangap |manᵐbule mamāza|     ‘month 09’ (_man_ ‘bird’, _ᵐbule_ ‘anus’, _mamāza_ ‘dried up’; The pigeon’s anus gets torn [due to having eaten so many galip nuts and defecating them], and it cannot swallow any more galip nuts. The time for galip nuts is now finished.) (Bugenhagen and Bugenhagen 2007b)
+ NNG: Mangap manpur       ‘month 10’  (_man_ ‘bird’, _pur_ ‘fart’; Birds fly up and look for galip nuts but are unable to find them.) (Bugenhagen and Bugenhagen 2007b)
+ NNG: Mangap ŋese          ‘month 11’   (You (SG) want galip nuts, but can’t find them. [Time for] scratching around looking for isolated nuts.) (Bugenhagen and Bugenhagen 2007b)
+ NNG: Mangap ⁿdām-bula    ‘month 12’  (ⁿdāma ‘Pleiades’; The galip trees bud again.) (Bugenhagen and Bugenhagen 2007b)
 
 11.5.2 Papuan Tip
 
@@ -15502,7 +15501,7 @@ around 5 November would be a herald of the monsoon and the _awat ni nien_ ‘sea
 
 11.5.4 Southeast Solomons
 
-Sets of lunar months have been recorded for Gela (Fox 1955), To’aba’ita (Lichtenberk 2008a),
+Sets of lunar months have been recorded for Gela (Fox 1955), To’aba’ita (Lichtenberk 2008),
 Sa’a (Ivens 1918, 1927), Kwaio (Keesing 1975) and Arosi (Fox 1978). Other dictionaries
 including ’Are’are (Geerts 1970) and Owa (Mellow 2014) contain partial lists. Except for
 Gela, these languages belong to the Malaita-Makira subgroup of SES.
@@ -16956,7 +16955,7 @@ what like the sets in Table 11.25.
  PT: Motu |hua haeno|         ‘moon next to daulao’ (_haeno_, used euphemistically of unmarried people having sex)
  PT: Motu |hua matoa-torea|   ‘moon about three-quarters; moon after _haeno_’
 
-   Lichtenberk (2008a) includes the following To’aba’ita (SES) terms. These are verbs,
+   Lichtenberk (2008) includes the following To’aba’ita (SES) terms. These are verbs,
 forming clauses like _madami e siki_ [moon it small] ‘it’s new moon’. Note the second stage of
 waxing, which can be glossed as ‘like a hibiscus leaf’, semantically the label that Maringe
 applies to the same phase.
@@ -17937,7 +17936,7 @@ PNCV *vava ‘speak, say’
  NCV:  Mota              vava               ‘speak, say’
  NCV:  Lolovoli          veve               ‘tell (s.o. s.t.), tell (s.o. to do s.t.)’
  NCV:  Raga              veve               ‘say’
- NCV:  Tamambo           veve(nasa)         ‘whisper’ (Jauncey 2011:397)
+ NCV:  Tamambo           veve(nasa)         ‘whisper’ (Jauncey 2011b:397)
  NCV:  Apma              vep                ‘say, speak’
 >
 
@@ -17957,8 +17956,8 @@ speaking. The glosses of the Tawala, Gela, Longgu, Chuukese and Boumaa Fijian re
 suggest that this POc form was also used as a noun meaning ‘word, speech, language’.
 
     The reconstruction of the POc consonant _*pʷ_ is discussed in vol.1:16, and it has since been
-investigated in some detail by Lynch (2002). Its rarity of occurrence means that its reflexes
-have not been fully formulated. Lynch (2002:337) finds that it is in any case unstable. The
+investigated in some detail by Lynch (2002e). Its rarity of occurrence means that its reflexes
+have not been fully formulated. Lynch (2002e:337) finds that it is in any case unstable. The
 sequence _*pʷa_ often becomes _*po_ or _*bo_, or simply _*pa_, and it is a combination of these
 reflexes that points to POc _*pʷa_, as Lynch’s examples show. This is also true of the cognate set
 below.
@@ -18143,7 +18142,7 @@ PNCV *viti ‘speak, say’ (Clark 2009: *veti)
  NCV: Nduindui               viti                    ‘say’
  NCV: Nokuku                 veti-                   ‘say’
  NCV: Tamambo                viti                    ‘speak, talk, tell story; say (to s.o. to do s.t.)’
- NCV: Tamambo                viti-                   ‘tell (s.t.)’ (Jauncey 2011:397)
+ NCV: Tamambo                viti-                   ‘tell (s.t.)’ (Jauncey 2011b:397)
  NCV: Paamese                vit                     (V, C) ‘say’ (see §12.2)
  NCV: Paamese                vite-ni-                ‘say (to s.o. to do s.t.)’
  NCV: Tirax                  -vɛr                    ‘say (to s.o. to do s.t.)’
@@ -18481,7 +18480,7 @@ cf. also:
 >
 
 [14] Mangap and Lewo are copied from (14) and (18). Sources not listed in the Appendix are
-Fitzsimons 1989:147 (Zabana), Jauncey 2011:397 (Tamambo) and Hyslop 2001:393 (Lolovoli).
+Fitzsimons 1989:147 (Zabana), Jauncey 2011b:397 (Tamambo) and Hyslop 2001:393 (Lolovoli).
 
 392 Malcolm Ross, Bethwyn Evans and Meredith Osmond
 
@@ -18732,7 +18731,7 @@ meaning reflected in non-Pn languages is not known to us.
 
 <
 POc *balau ‘lie (by exaggeration?)’
-  Adm: Lou                parawa               (N; ADJ) ‘lie; false’ (Blust 1998a) (_-r-_ for †_-l-_)
+  Adm: Lou                parawa               (N; ADJ) ‘lie; false’ (Blust 1998b) (_-r-_ for †_-l-_)
   NNG: Kairiru            bil                  ‘lie’
   SES: Bugotu             pilau                ‘deceive’ (POLLEX)
   SES: Bugotu             pia-pilau            ‘tell a lie’ (POLLEX)
@@ -18885,7 +18884,7 @@ Verbs of speaking in a number of Oceanic languages are also used in the sense of
 ‘intend’, as the following sentence examples show.
 
 __igt__
-30)      Kele (Adm): (Ross 2002a:139)
+30)      Kele (Adm): (Ross 2002f:139)
          yu u-pe          k-u-le
          D:1S        S:1S-say    IRR-S:1S-go
          ‘I wish(ed)/intend(ed) to go.’
@@ -18897,7 +18896,7 @@ __igt__
          ‘I want to do it.’
 
 __igt__
-32)      Lamen (NCV): (Early 2002:680)
+32)      Lamen (NCV): (Early 2002b:680)
          ne-vere        ne-va
          S:1S-IRR:say S:1S-IRR:go
          ‘I want to go.’
@@ -19053,7 +19052,7 @@ of goodness. All these needs act as motivation for some sort of transfer of weal
 
 13.2. Development of trade patterns
 
-It is archaeology (Kirch 1997; Spriggs 1997) rather than linguistic reconstruction that
+It is archaeology (Kirch 1997; Spriggs 1997a) rather than linguistic reconstruction that
 provides our best evidence for early trade. Archaeology has shown that the early Lapita
 period, from about 3400 to 3100 BP, the period leading to the consolidation of POc, was a
 time of intensive exchange. One of its most prominent markers was obsidian, volcanic glass
@@ -19068,7 +19067,7 @@ at times refer to such alternatives. Oven stones with good heat-retention qualit
 lining earth ovens or boiling food by being dropped into wooden bowls containing food and
 liquid (vol.1:150), were also in demand. Mussau, which evidently occupied a central position
 in the early exchange network, shows a considerable range of imported goods in this period:
-trade in obsidian, chert, oven stones and adzes (Kirch 1997:242; Spriggs 1997; Summerhayes 2001).
+trade in obsidian, chert, oven stones and adzes (Kirch 1997:242; Spriggs 1997a; Summerhayes 2001).
 
     The early Lapita communities were settled on the islands of the Bismarck Archipelago,
 many of them small islands. Moving around by canoe was a part of the daily life of people,
@@ -19080,7 +19079,7 @@ network of reciprocal exchanges between related communities that maintained freq
 contact.”
 
     As the Lapita people ventured further afield, to the Reefs-Santa Cruz group, Vanuatu, and
-beyond, so did the trading networks cover greater distances. Kirch (1988) writes that the
+beyond, so did the trading networks cover greater distances. Kirch (1988b) writes that the
 remarkable rapidity and success in colonising new Lapita settlements was largely due to the
 maintenance of contacts with the ‘mother’ communities.
 
@@ -19092,7 +19091,7 @@ __blockquote__
      hazards (drought or cyclone), or to augment demographically small and unstable groups
      with suitable marriage partners. The ability to draw upon the total range of social and
      demographic, as well as material, resources of a homeland community could have meant
-     the difference between survival and extinction. (Kirch 1988:113–4)
+     the difference between survival and extinction. (Kirch 1988b:113–4)
 
                             Trade, exchange, distribution and transfer of possession 405
 
@@ -19101,7 +19100,7 @@ __blockquote__
 themselves as people of one stock and, for a longer period, as people of one language. As the
 centuries passed, however, contacts between scattered sister communities tended to become
 relatively less important and less frequent. Adaptive changes in economic and social life led
-to … weakening of the lines of communication.” Kirch (1988:107) describes the emergence
+to … weakening of the lines of communication.” Kirch (1988b:107) describes the emergence
 of two distinct Lapita trading networks, a western one from the Bismarcks to New Caledonia
 which lasted over 700 years, and an eastern one involving Fiji, Tonga and Samoa, and several
 of the smaller isolated islands (Niuatoputapu, Futuna, Uvea), which “may not have operated
@@ -22133,7 +22132,7 @@ POc *walu ‘8’
 14.4.3.4 Nine
 
 By regular sound change PAn _*Siwa_ would have become PMP _*(h)iwa_, but, for reasons
-discussed by Blust (1995a, 2013:728), _*Siwa_ instead became PMP _*siwa_ the form that
+discussed by Blust (1995c, 2013:728), _*Siwa_ instead became PMP _*siwa_ the form that
 was inherited by POc.
 
 <
@@ -23504,7 +23503,7 @@ __igt__
       c. Tuam (NNG)
          īɣ parapināŋ ēz          (_parapināŋ_ ‘pair of fish’)
          fish CLF         one
-         ‘two fish’ (Bugenhagen & Bugenhagen 2007b)
+         ‘two fish’ (Bugenhagen & Bugenhagen 2007)
 
 [26] ECs counting taro are missing from the data for Fiji. ECs counting yams are missing from the data for
    the Bismarcks and NW Solomons. These may be accidental omissions from the data.
@@ -24516,7 +24515,7 @@ __tablenh__
 Amara       |  Thurston 1996a
 Ambai       |  Silzer 1983
 Ambel       |  Arnold 2018
-Anejom̃     |  Lynch 2000c
+Anejom̃     |  Lynch 2000b
 Apma        |  Schneider 2010
 Araki       |  François 2002
 Are         |  Paisawa, Pagotto & Kale 1975
@@ -24549,7 +24548,7 @@ Dami         | Elliott 1979
 Dawawa       | Knauber & Knauber 1990
 Dobu         | Arnold 1931
 Duau         | Thune 1978
-E Kara       | Dryer 2012
+E Kara       | Dryer 2013
 Engdewo      | Vaa 2013
 Fehan Tetun  | van Klinken 1999
 Gabadi       | Strong 1912
@@ -24567,7 +24566,7 @@ Kaiwa        | Bradshaw 2001
 Kalo         | King et al 2014
 Kambera      | Klamer 2010
 Keapara      | King et al 2014
-Kele         | Ross 2002a
+Kele         | Ross 2002f
 Kéo          | Baird 2002
 Kilivila     | Malinowski 1920; Lawton 1993; Senft 1995
 Kiribati     | Harrison & Jackson 1984; Groves, Groves & Jacobs 1985; Bender & Beller 2006b, 2007a
@@ -24586,7 +24585,7 @@ Lau          | Ivens 1929b
  Lelepa      | Lacrampe 2014
  Lengo       | Hill & Unger 2018
  Lengo       | Unger 2008
- Lewo        | Early 1994
+ Lewo        | Early 1994a
  Longgu      | Hill 1992
  Loniu       | Hamel 1994
  Lonwolwol   | Paton 1971
@@ -24602,7 +24601,7 @@ Lau          | Ivens 1929b
  Marquesan   | Lemaître 1985; Bender & Beller 2006a, 2006b
  Marshallese |Harrison & Jackson 1984
  Maskelynes  |Healey 2013
- Matukar     | Anderson et al. 2010; Barth 2012
+ Matukar     | Anderson et al. 2010; Barth 2012b
  Mav̋ ea     | Guérin 2011
  Merei       | Chung 1998
  Minaveha    | Lovell 1994
@@ -24615,7 +24614,7 @@ Lau          | Ivens 1929b
  Mouk       |  Thurston 1996b
  Mussau     |  Brownie & Brownie 2007
  Muyuw      |  Lithgow & Lithgow nd
- Mwotlap    |  François 2003
+ Mwotlap    |  François 2003b
  Nadrogā    |  Geraghty 2002
  Nahavaq    |  Dimock 2009
  Nakanai    |  Johnston 1980
@@ -24659,7 +24658,7 @@ Siar         | Rowe 2005; Frowein 2011
 Sikaiana     | Capell 1935–1937
 Sinaugoro    | Tauberschmidt 1999
 Sio          | Clark & Clark 1987
-Sisiqa       | Ross 2002b
+Sisiqa       | Ross 2002g
 Sobei        | Sterner & Ross 2002
 Sonsorol     | Capell 1969
 South Efate  | Thieberger 2006a
@@ -24669,7 +24668,7 @@ Sye          | Crowley 1998
 Tabar        | Hong & Hong 2003
 Tahitian     | Bender & Beller 2006a, 2006b
  Takuu       | Moyle 2011
- Tamambo     | Jauncey 2011
+ Tamambo     | Jauncey 2011b
  Tami        | Bamler 1900
  Tangga      | Maurer 1966
  Tape        | Crowley 2006b
@@ -25200,7 +25199,7 @@ a system, it is base-10-(20).
 numerals, all of them within NNG or PT. They are recorded for Matukar, Bing (both
 NNG) and Bwaidoka (PT). The set of terms in Matukar is interesting for the fact that some
 numbers can be described in more than one way, i.e. they have yet to be conventionalised.
-Terms for 20 include (Anderson et al. 2010; Barth 2012):
+Terms for 20 include (Anderson et al. 2010; Barth 2012b):
 
 __igt__
 2)  Matukar (NNG)
@@ -25617,7 +25616,7 @@ the heritage language is the language of group identity, and that identity is re
 heritage lexicon (Ross 2013 and references therein). The ‘other’ language may be the language
 of in-marrying parents or a major language of communication with neighbouring groups.
 
-[10] “Pre-Oceanic” because the innovations that characterised POc had not yet occurred (Pawley 2008a:52).
+[10] “Pre-Oceanic” because the innovations that characterised POc had not yet occurred (Pawley 2008:52).
 
 536 Malcolm Ross
 

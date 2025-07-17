@@ -609,19 +609,19 @@ languages has resulted in the following reconstructed paradigms of POc consonant
 vowels:
 
 __tablenh__
-*pʷ    |     *p    |      *t     |       *c    |       *k    |     *q
-*bʷ    |     *b    |      *d     |       *j    |       *g    |
-       |           |      *s     |             |             |
-*mʷ    |     *m    |      *n     |       *ñ    |       *ŋ    |
-       |           |      *r     |             |             |     *R
-       |           |      *dr    |             |             |
-       |           |      *l     |             |             |
-*w     |           |             |       *y    |             |
+_*pʷ_  |     _*p_  |      _*t_   |   _*c_  |       _*k_  |     _*q_
+_*bʷ_  |     _*b_  |      _*d_   |   _*j_  |       _*g_  |
+       |           |      _*s_   |         |             |
+_*mʷ_  |     _*m_  |      _*n_   |   _*ñ_  |       _*ŋ_  |
+       |           |      _*r_   |         |             |     _*R_
+       |           |      _*dr_  |         |             |
+       |           |      _*l_   |         |             |
+_*w_   |           |             |   _*y_  |             |
 
 __tablenh__
-            *i     |           |        *u
-            *e     |           |        *o
-                   |     *a    |
+            _*i_     |           |        _*u_
+            _*e_     |           |        _*o_
+                   |     _*a_    |
 
 
 16      Malcolm Ross
@@ -765,33 +765,33 @@ period were mergers and splits, the introduction of new phonemes, and one deleti
 follows:
 
 __block__
-a)   The PMP voiced/voiceless pairs _*p_, _*b_ and _*k_, _*g_ merged respectively as early pre-POc
-     _*p_ and _*k_. Ozanne-Rivierre (1992) suggests that the corresponding _*t_, _*d_ merger was
-     hindered by their mismatch in point of articulation (dental vs alveolar).
-b)   The PMP pairs _*s_, _*Z_ and _*d_, _*r_ merged respectively as pre-POc _*s_ and _*d_ (phonetically
-     probably [r], since Eastern Malayo-Polynesian cognates are liquids).
-c)   PMP and a number of its descendants had word-medial homorganic nasal + obstruent
-     sequences (not in Table 1). Some instances of the pre-POc word-initial obstruents _*p_, _*t_,
-     _*k_, _*d/r_, _*s_ and _*j_ also acquired a preceding homorganic nasal (the occurrence of this
-     process is unpredictable and its causes largely unknown; cf. §3.1.3). These sequences
-     became the unitary early pre-POc phonemes _*mp_, _*nt_, _*ŋk_, _*nd/nr_ and _*nj_, subsequently
-     the POc prenasalised voiced obstruents _*b_, _*d_, _*g_, _*dr_, and _*j_ (PMP nasal + _*s_ and nasal
-     + _*j_ merged as pre-POc _*nj_, POc _*j_). It is possible that pre-POc _*nt_, POc _*d_ never
-     occurred word-initially.
-d)   The labio-velars _*pʷ_, _*bʷ_ and _*mʷ_ entered the language. Most of the items containing a
-     labio-velar lack non-Oceanic cognates, and some, at least, must have been borrowed
-     into POc from neighbouring Papuan languages. For example, it can be argued that
-     _*mʷapo(q)_ 'taro' was borrowed by POc speakers as they acquired more sophisticated
-     taro-growing techniques from Papuan speakers (Ross 1996d). A few of these items
-     were inherited into POc, and the labio-velar was the reflex of a labial occurring next to
-     a round vowel. However, it is not clear in these items that the labio-velar actually
-     occurred in POc (Blust 1981a). Thus a number of Oceanic languages reflect _*tamʷata_
-     'man, husband', derived from _*tau_ 'body, person' + _*mataq_ 'unripe, immature, young',
-     but we cannot be sure whether this or _*taumata(q)_ was the POc form.
-e)   PMP _*h_ was lost in POc.
-f)   PMP _*e_, phonetically [ə], became POc _*o_, and the PMP word-final diphthongs _*-uy(-)_,[3]
-        _*-aw_ and _*-ay_ were simplified to POc _*-i_, _*-o_ and _*-e_ respectively, the first two thereby
-        merging with plain vowels.
+a) The PMP voiced/voiceless pairs _*p_, _*b_ and _*k_, _*g_ merged respectively as early pre-POc
+   _*p_ and _*k_. Ozanne-Rivierre (1992) suggests that the corresponding _*t_, _*d_ merger was
+   hindered by their mismatch in point of articulation (dental vs alveolar).
+b) The PMP pairs _*s_, _*Z_ and _*d_, _*r_ merged respectively as pre-POc _*s_ and _*d_ (phonetically
+   probably [r], since Eastern Malayo-Polynesian cognates are liquids).
+c) PMP and a number of its descendants had word-medial homorganic nasal + obstruent
+   sequences (not in Table 1). Some instances of the pre-POc word-initial obstruents _*p_, _*t_,
+   _*k_, _*d/r_, _*s_ and _*j_ also acquired a preceding homorganic nasal (the occurrence of this
+   process is unpredictable and its causes largely unknown; cf. §3.1.3). These sequences
+   became the unitary early pre-POc phonemes _*mp_, _*nt_, _*ŋk_, _*nd/nr_ and _*nj_, subsequently
+   the POc prenasalised voiced obstruents _*b_, _*d_, _*g_, _*dr_, and _*j_ (PMP nasal + _*s_ and
+   nasal + _*j_ merged as pre-POc _*nj_, POc _*j_). It is possible that pre-POc _*nt_, POc _*d_ never
+   occurred word-initially.
+d) The labio-velars _*pʷ_, _*bʷ_ and _*mʷ_ entered the language. Most of the items containing a
+   labio-velar lack non-Oceanic cognates, and some, at least, must have been borrowed
+   into POc from neighbouring Papuan languages. For example, it can be argued that
+   _*mʷapo(q)_ 'taro' was borrowed by POc speakers as they acquired more sophisticated
+   taro-growing techniques from Papuan speakers (Ross 1996d). A few of these items
+   were inherited into POc, and the labio-velar was the reflex of a labial occurring next to
+   a round vowel. However, it is not clear in these items that the labio-velar actually
+   occurred in POc (Blust 1981a). Thus a number of Oceanic languages reflect _*tamʷata_
+   'man, husband', derived from _*tau_ 'body, person' + _*mataq_ 'unripe, immature, young',
+   but we cannot be sure whether this or _*taumata(q)_ was the POc form.
+e) PMP _*h_ was lost in POc.
+f) PMP _*e_, phonetically [ə], became POc _*o_, and the PMP word-final diphthongs _*-uy(-)_,[3]
+   _*-aw_ and _*-ay_ were simplified to POc _*-i_, _*-o_ and _*-e_ respectively, the first two thereby
+   merging with plain vowels.
 
 [3] The notation _*-uy(-)_ reflects the fact that there is one known case where the change to _*i_ occured word-medially: PMP _*kamuihu_ (independent 2PL pronoun) > _*kamuyu_ > POc _*kamiu_.
 
@@ -801,10 +801,10 @@ f)   PMP _*e_, phonetically [ə], became POc _*o_, and the PMP word-final diphth
 
 __tablenh__
 PMP       |             | _p_, _b_ |            |  _t_  |  _d_, _r_   |  _s_, _z_, _Z_ |      | _j_  | _k_, _g_
-POc       | oral grade  |  _p_     |    _pw_    |  _t_  |    _d_/_r_  |     _s_        |      | _j_  |   _k_
-Grace etc | nasal grade | _mp_     | _ŋp_/_mpw_ | _nt_  |  _nd_/_nr_  |                | _nj_ |      | _ŋk_
-POc       | oral grade  |  _p_     |    _pʷ_    |  _t_  |    _r_      |    _s_         |      | _c_  |   _k_
-Ross      | nasal grade |  _b_     |    _bʷ_    |  _d_  |    _dr_     |                | _j_  |      |   _g_
+POc Grace etc      | oral grade  |  _p_     |    _pw_    |  _t_  |    _d_/_r_  |     _s_        |      | _j_  |   _k_
+ | nasal grade | _mp_     | _ŋp_/_mpw_ | _nt_  |  _nd_/_nr_  |                | _nj_ |      | _ŋk_
+POc  Ross     | oral grade  |  _p_     |    _pʷ_    |  _t_  |    _r_      |    _s_         |      | _c_  |   _k_
+      | nasal grade |  _b_     |    _bʷ_    |  _d_  |    _dr_     |                | _j_  |      |   _g_
 
 __tablenh__
 PMP         | _m_ |           | _n_ | _ñ_ | _ŋ_ | _w_ | _y_ |  _l_  |  _q_   |   _h_ |    _R_
@@ -907,7 +907,7 @@ and morphological criteria, as shown in Table 2.
 __table__
                  |  1      |  2  |   3 | 4
                  | inherently stative or inherently dynamic? | intransitive  subject | forms a transitive? | forms a causative?
- A verbs         | dynamic[8] | A   | yes | yes
+ A verbs         | dynamic | A   | yes | yes
  U verbs         | neither | U   | yes | yes
  U-stative verbs | stative | U   | no  | yes
 
@@ -1407,7 +1407,7 @@ fossils. Evidence for these is given in (19).
 
 __table__
 (19) | PMP            |                   |  POc                |
-     |   root         |     _*[pa]N-_root |                     |
+     |   root         |     _*[pa]N_-root |                     |
      |   _*takaw_     |     _*panakaw_    |  _*panako_          |  'steal'
      |   _*ka(ʔe)n_   |     _*paŋa(ʔe)n_  |  _*paŋan_           |  'eat'
      |   _*ka(ʔe)n-i_ |                   |  _*kani-_           |  'eat'
