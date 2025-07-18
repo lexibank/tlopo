@@ -2261,7 +2261,7 @@ POc *saku ‘needlefishes, garfishes, long toms (Belonidae)’
   NCal: Iaai            (wa)saə       ‘_Hemiramphus far_’
   Mic:  Kiribati        raku          ‘swordfish’
   Mic:  Kiribati        rau(bara)     ‘garfish’ (bara ‘small fry’)
-  Mic:  Marshallese     tak           ‘_Belone platyura_’ [Platybelone argalus platyura]
+  Mic:  Marshallese     tak           ‘_Belone platyura_’ [Platybelone argalusplatyura]
   Mic:  Ponapean        tāk           ‘needlefish’
   Mic:  Mokilese        tɔk           ‘needlefish, barred long tom?’
   Mic:  Puluwatese      tāk           ‘needlefish’
