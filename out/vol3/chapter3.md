@@ -14,7 +14,7 @@ This chapter examines the ways in which Proto Oceanic (POc) speakers classified 
 ## 2. Ethnobiological classifications
 
 
-It seems to be a human universal to classify flora and fauna into what can be described as hierarchies of labelled taxa. For example, in Wayan Fijian _bau leke_ (dwarf _bau_), the name for Planchonella garberi, a tree that grows in mid-altitude forests, is one of four kinds of _bau_, the generic term that refers to the Burckella, Manilkara, Palaquium and Planchonella species of the Sapotaceae family, woody trees used for making boats, chests and house posts. In turn _bau_ is one of 200 or more kinds of _kai_, the generic name for trees and shrubs ([Pawley & Sayaba 2003](../sources/PawleyandSayaba2003)). Thus _kai_, _bau_ and _bau leke_ form part of a hierarchy of decreasing inclusiveness of botanical terms in Wayan Fijian, schematised in Figure 3.1, and shown in more detail in Figure 3.2 below.
+It seems to be a human universal to classify flora and fauna into what can be described as hierarchies of labelled taxa. For example, in Wayan Fijian _bau leke_ (dwarf _bau_), the name for _Planchonella garberi_, a tree that grows in mid-altitude forests, is one of four kinds of _bau_, the generic term that refers to the _Burckella_, _Manilkara_, _Palaquium_ and _Planchonella_ species of the _Sapotaceae_ family, woody trees used for making boats, chests and house posts. In turn _bau_ is one of 200 or more kinds of _kai_, the generic name for trees and shrubs ([Pawley & Sayaba 2003](../sources/PawleyandSayaba2003)). Thus _kai_, _bau_ and _bau leke_ form part of a hierarchy of decreasing inclusiveness of botanical terms in Wayan Fijian, schematised in Figure 3.1, and shown in more detail in Figure 3.2 below.
 
 
 <a id="p-54"></a>
@@ -32,7 +32,7 @@ Kingdom is a unique primary taxon, a single taxon that incorporates all taxa of 
 
 [Berlin](../sources/Berlin1992) ([1992](../sources/Berlin1992): 26-35) also argues that there are cross-cultural similarities in the ways in which the taxa of each rank within a taxonomy are named. The kingdom rank, which Berlin implies is a generally recognised one, will often be an implicit category without an overt label.[^2] If labelled it will often be with terms that are polysemous with some subordinate rank. Life-form taxa are generally labelled by non-compound lexical units, although as with the kingdom rank, they are sometimes covert (non-labelled) taxa. Folk generics are also labelled by non-compound lexical units, in contrast to the subordinate specific rank which tends to have compound labels. [Berlin](../sources/Berlin1992) ([1992](../sources/Berlin1992): 29-30) notes two conditions under which taxa below the level of folk generic may be labelled by non-compound lexical units. The first is when one taxon of a folk generic is considered to be the prototype of the generic taxon, in which case a primary name may be polysemous denoting both the generic and subgeneric taxa. Taxa below the folk generic level may also be labelled with a primary name if they represent a plant or animal of major cultural importance .
 
-These typical naming strategies can be demonstrated by the Wayan terms in Figure 3.1. The taxa _kai_ 'tree, shrub' and _bau_ 'Sapotacae species', apparently life-form and generic taxa respectively, are labelled by non-compound lexical units, whereas the specific rank, for example _bau leke_ 'Planchonella garberi', is labelled by a compound that incorporates the term for the folk generic. As expected the kingdom level taxon in Wayan is not overtly labelled, although _kai_ 'tree, shrub' is sometimes used to refer to all plants, most commonly in phrasal expressions, such as _vuniwai ni kai_ 'a doctor (i.e. scholar) of trees/plants, botanist' ([Gardner & Pawley 1992](../sources/GardnerandPawley1992): 9). Wayan Fijian _uvi_ is a non-compound term that labels a taxon below the level of the folk generic. Most specifically _uvi_ denotes a particular type of cultivated yam, Dioscorea alata. However, as the most prestigious cultivar, this label also denotes the more general taxon that encompasses the various species of Dioscorea ([Gardner & Pawley 1992](../sources/GardnerandPawley1992): 12, 14).
+These typical naming strategies can be demonstrated by the Wayan terms in Figure 3.1. The taxa _kai_ 'tree, shrub' and _bau_ 'Sapotacae species', apparently life-form and generic taxa respectively, are labelled by non-compound lexical units, whereas the specific rank, for example _bau leke_ '_Planchonella garberi_', is labelled by a compound that incorporates the term for the folk generic. As expected the kingdom level taxon in Wayan is not overtly labelled, although _kai_ 'tree, shrub' is sometimes used to refer to all plants, most commonly in phrasal expressions, such as _vuniwai ni kai_ 'a doctor (i.e. scholar) of trees/plants, botanist' ([Gardner & Pawley 1992](../sources/GardnerandPawley1992): 9). Wayan Fijian _uvi_ is a non-compound term that labels a taxon below the level of the folk generic. Most specifically _uvi_ denotes a particular type of cultivated yam, _Dioscorea alata_. However, as the most prestigious cultivar, this label also denotes the more general taxon that encompasses the various species of _Dioscorea_ ([Gardner & Pawley 1992](../sources/GardnerandPawley1992): 12, 14).
 
 There are a number of ways in which the above description of ethnobiological taxonomies is too simplistic. [Gardner & Pawley](../sources/GardnerandPawley1992) ([1992](../sources/GardnerandPawley1992)), for example, note a number of problems with assigning taxa within the Wayan Fijian folk classification of plants to ranks within [Berlin's](../sources/Berlin1992) ([1992](../sources/Berlin1992)) model. As mentioned Wayan _kai_ 'tree, shrub' can be treated as a life-form category; it denotes a highly distinctive morphotype, incorporates a large number of taxa of a lesser rank, which are apparent folk generics with primary names, and it is named by a primary (non-compound) lexeme. Wayan _kai_ 'tree, shrub' contrasts with two other major categories _ō_ 'grass' and _wā_ 'vine'. However, these two taxa behave somewhat differently from _kai_, raising questions about the notion that they are of equivalent status within the system of classification. While _ō_ 'grass' and _wā_ 'vine' denote highly distinctive morphotypes and incorporate a reasonably large number of lesser ranked and heterogeneous taxa, sub taxa of these categories often have binominal labels that include the generic labels _ō_ and _wā_ (see [§3](../contributions/3-3#s-3)). Although [Gardner & Pawley](../sources/GardnerandPawley1992) ([1992](../sources/GardnerandPawley1992): 13) conclude that _ō_ 'grass' and _wā_ 'vine' can be analysed as equivalent ranks to _kai_ 'tree, shrub', it is important to note that not all taxa representing the same rank within a taxonomy will behave in the same way.
 
@@ -103,7 +103,7 @@ _ō_
 
 _diŋi_
 :   Generic for ferns, includes at least the: following two medium-sized terrestrial ferns:
-    Nephrolepis biserrata (Davalliaceae) and Sphaerostephanos invisus (Thelypteridaceae).
+    _Nephrolepis biserrata_ (Davalliaceae) and _Sphaerostephanos invisus_ (Thelypteridaceae).
 
 _balabala_
 :   Generic for tree ferns (Cythea species), sometimes extended to include other large ferns.
@@ -114,16 +114,16 @@ _balabala_
 Wayan _kai_ 'tree, shrub' encompasses about 200 named subtaxa which are again classified on the basis of shared morphological and ecological features. It is the names of these subtaxa which Wayan speakers tend to use when identifying particular plants ([Gardner and Pawley 1992](../sources/GardnerandPawley1992):1 0), and nearly all are folk generics. Generally the subtaxa of _kai_ are the lowest-level of classification and denote a particular species within a 'scientific' classification. For example, _evo_, _māsei_ and _toutou_ (defined below, [Pawley & Sayaba 2003](../sources/PawleyandSayaba2003)) are all subtaxa of _kai_ which are not further subclassified in Wayan.
 
 _evo_
-:   Argusia argentea (Boraginaceae). Large broad-leaved shrub of coastal sands, uncommon on Waya,
+:   _Argusia argentea_ (Boraginaceae). Large broad-leaved shrub of coastal sands, uncommon on Waya,
     young parts densely grey-silver hairy, small white flowers on curving
     branches, small black berries. Useful only for firewood.
 
 _māsei_
-:   Pritchardia pacifica (Arecaceae). A native fan-palm, cultivated for ornament around
+:   _Pritchardia pacifica_ (Arecaceae). A native fan-palm, cultivated for ornament around
     houses. The immature seeds are sometimes eaten by children.
 
 _toutou_
-:   Gyrocarpus americanus (Hernandiaceae). Tree of coastal slopes and rocky places
+:   _Gyrocarpus americanus_ (_Hernandia_ceae). Tree of coastal slopes and rocky places
     inland, pale smooth bark, large oval or 5-lobed leaves with a rather strong bean-like
     odour, bunches of hanging 2-winged fruit. The soft wood is used for fires; it is good
     for carving, and formerly was used to make ulatoka (inshore fishing raft platforms).
@@ -132,56 +132,56 @@ _toutou_
 There are also subtaxa of _kai_ which are further subclassified into apparent folk specifics, as can be seen from the dictionary entries given below for _araro_ and _doi_ ([Pawley & Sayaba 2003](../sources/PawleyandSayaba2003)).
 
 _araro_
-:   Premna sp. or spp. (P. serratifolia, P. protrusa) (Verbenaceae). Small coastal tree
+:   _Premna_ sp. or spp. (_Premna serratifolia_, P. protrusa) (Verbenaceae). Small coastal tree
     with entire leaves. Hard wood, much used for posts.
 
     _araro alewa_
-    :   Premna serratifolia (Verbenaceae). Small bushy tree, occasional in scrub
+    :   _Premna serratifolia_ (Verbenaceae). Small bushy tree, occasional in scrub
         near coast. Leaves opposite, rounded-oblong to pointed and heart-shaped, flowers
         smallish, green-white, small dark fleshy fruit with a hard 4-chambered stone.
 
     _araro taŋwane_
-    :   Premna protrusa. A larger tree than P. serratifolia, with flower parts
+    :   _Premna_ protrusa. A larger tree than _Premna serratifolia_, with flower parts
         more protruding, usually found inland. Hard wood, much used for posts.
 
 _doi_
-:   Generic for Alphitonia spp. (Rhamnaceae). Trees of open dryish forest.
+:   Generic for _Alphitonia_ spp. (Rhamnaceae). Trees of open dryish forest.
 
     _doi dū_
-    :   Alphitonia zizyphoides. Tree of open dryish forest, bark and leaves smelling
+    :   _Alphitonia zizyphoides_. Tree of open dryish forest, bark and leaves smelling
         of oil-of-wintergreen when crushed, leaves white below, small white flowers,
         purplish fruit capsules.
 
     _doi drā_
-    :   Alphitonia fran guloides. Uncommon tree of dryish slopes, leaves smaller and
-        more pointed than those of A. zizyphoides.
+    :   _Alphitonia_ fran guloides. Uncommon tree of dryish slopes, leaves smaller and
+        more pointed than those of _Alphitonia zizyphoides_.
 
-The names for folk specifics tend to be binominals which include the generic followed by a modifier indicating some distinctive characteristic of the folk specific. For example, Wayan distinguishes four kinds of _bau_ 'Sapotaceae varieties': _bau leke_, literally 'dwarf bau', denotes the smaller Planchonella garberi (Pouteria, cf. [Wheatley 1992](../sources/Wheatley1992)) species; _bau levu_, 'big bau' which presumably denotes larger species of Sapotaceae; _bau som_, where som means 'to suck or eat juicy, soluble or soft, moist foods', denotes the various Sapotaceae species which have milky juice; and _bau vudi_, 'banana bau' which denotes varieties with elongated (i.e. banana- like) fruit.
+The names for folk specifics tend to be binominals which include the generic followed by a modifier indicating some distinctive characteristic of the folk specific. For example, Wayan distinguishes four kinds of _bau_ '_Sapotaceae_ varieties': _bau leke_, literally 'dwarf bau', denotes the smaller _Planchonella garberi_ (Pouteria, cf. [Wheatley 1992](../sources/Wheatley1992)) species; _bau levu_, 'big bau' which presumably denotes larger species of _Sapotaceae_; _bau som_, where som means 'to suck or eat juicy, soluble or soft, moist foods', denotes the various _Sapotaceae_ species which have milky juice; and _bau vudi_, 'banana bau' which denotes varieties with elongated (i.e. banana- like) fruit.
 
 _bau_
-:   Generic, includes species of Burckella, Manilkara, Palaquium andPlanchonella (Sapotaceae).
+:   Generic, includes species of _Burckella_, _Manilkara_, _Palaquium_ and_Planchonella_ (_Sapotaceae_).
     Wood of some of these trees is used for boats, chests and house posts. Applied to the
     following species growing on Waya:
 
-    1. Burckella richii. large tree of low- to middle-altitudes, fruit green, fleshy, cylindrical, 4cm long;
-    2. Manilkara vitiensis, smallish tree, often in exposed situations on coastal slopes;
-    3. Palaquium fijiense. smallish uncommon tree of higher-altitude forest;
-    4. Planchonella garberi (Sapotaceae).
-    5. Planchonella grayana, a tree of coastal and inland forest, leaves larger and rounder than those of P. garberi.
+    1. _Burckella_ richii. large tree of low- to middle-altitudes, fruit green, fleshy, cylindrical, 4cm long;
+    2. _Manilkara vitiensis_, smallish tree, often in exposed situations on coastal slopes;
+    3. _Palaquium_ fijiense. smallish uncommon tree of higher-altitude forest;
+    4. _Planchonella garberi_ (_Sapotaceae_).
+    5. _Planchonella grayana_, a tree of coastal and inland forest, leaves larger and rounder than those of _Planchonella garberi_.
 
     _bau leke_
-    :   Planchonella garberi (Sapotaceae). Occasional in mid-altitude forest.
+    :   _Planchonella garberi_ (_Sapotaceae_). Occasional in mid-altitude forest.
 
     _bau levu_
-    :   One or more species of Sapotaceae, application of name not clear.
+    :   One or more species of _Sapotaceae_, application of name not clear.
 
     _bau som_
-    :   Name applied to various (perhaps most or all) members of the Sapotaceae,
+    :   Name applied to various (perhaps most or all) members of the _Sapotaceae_,
         in reference to their milky juice.
 
     _bau vudi_
-    :   Name applied on mainland to members of Sapotaceae (spp. of Burckella
-        and Manilkara), presumably because of their large and elongate fruits.
+    :   Name applied on mainland to members of _Sapotaceae_ (spp. of _Burckella_
+        and _Manilkara_), presumably because of their large and elongate fruits.
 
 
 <a id="p-61"></a>
@@ -208,7 +208,7 @@ A small number of subtaxa of _wā_ denote more than one species, but here too th
 _rautolu_
 :   Generic, includes various _wā_ and shrub taxa with 3-partite leaves.
 
-    1. Canavalia rosea. Common vine of sandy foreshore, flowers pink-purple, pods about 10 x 2 cm,
+    1. _Canavalia rosea_. Common vine of sandy foreshore, flowers pink-purple, pods about 10 x 2 cm,
        often wrinkled. Leaves said to have been used after childbirth in some way.
     2. Canavalia sericea. Local on sandy foreshore, the leaves silver-hairy.
     3. Jasminum degeneri.
@@ -232,7 +232,7 @@ _ō ðaŋiðaŋi_
     house mats.
 
 _ō tirau_
-:   Imperata cylindrica (Gramineae). Occasional grass of hillsides, tufts to about knee-height,
+:   _Imperata cylindrica_ (Gramineae). Occasional grass of hillsides, tufts to about knee-height,
     flower heads silky, cylindrical. Used for thatching.
 
 _sīlā_
@@ -251,7 +251,7 @@ _sīlā_
 
 
 
-As can be seen from Figure 3.2, the taxonomy of wild plants in Wayan Fijian is quite shallow, including four named levels. The naming of cultivated food plants, however, comprises a deeper taxonomy. Thus while labels for particular species, and more commonly genera, form the lowest level of classification among wild plants, for cultivated food plants there will often be a number of named varieties below the folk species level. In fact, as shown by Figure 3.3, if cultivated food plants are incorporated in the Wayan ethnobotanical classification, the taxonomy includes at least six levels. Figure 3.3 shows this with a selection of the named types of yams. Yams are considered to be part of the _wā_ 'vine' taxon, one group of which, the Dioscorea species are denoted by the generic term _uvi_. More specifically _uvi_ denotes Dioscorea alata yams and encompasses a large number of named varieties, some of which are themselves further subclassified. Thus _keu_ 'a variety of _uvi_ with a curved tuber' has three varieites: _damuni_ 'with chocolate-coloured skin'; _damuni ni vuna_ 'large, with very pronounced curve' and _keu dū_ 'the common variety'.
+As can be seen from Figure 3.2, the taxonomy of wild plants in Wayan Fijian is quite shallow, including four named levels. The naming of cultivated food plants, however, comprises a deeper taxonomy. Thus while labels for particular species, and more commonly genera, form the lowest level of classification among wild plants, for cultivated food plants there will often be a number of named varieties below the folk species level. In fact, as shown by Figure 3.3, if cultivated food plants are incorporated in the Wayan ethnobotanical classification, the taxonomy includes at least six levels. Figure 3.3 shows this with a selection of the named types of yams. Yams are considered to be part of the _wā_ 'vine' taxon, one group of which, the _Dioscorea_ species are denoted by the generic term _uvi_. More specifically _uvi_ denotes _Dioscorea alata_ yams and encompasses a large number of named varieties, some of which are themselves further subclassified. Thus _keu_ 'a variety of _uvi_ with a curved tuber' has three varieites: _damuni_ 'with chocolate-coloured skin'; _damuni ni vuna_ 'large, with very pronounced curve' and _keu dū_ 'the common variety'.
 
 
 <a id="p-63"></a>
@@ -262,7 +262,7 @@ As can be seen from Figure 3.2, the taxonomy of wild plants in Wayan Fijian is q
 
 
 
-[Gardner & Pawley](../sources/GardnerandPawley1992) ([1992](../sources/GardnerandPawley1992): 15) also note other categories of plants in Wayan which cut across the taxonomy presented above. For example, while in one sense _uvi_ 'Dioscorea species of yams' would be categorised as _wā_ 'vines', they can also be classified as _marawa_ 'ground crops, food plants other than trees'. The system of classification that includes _marawa_ 'ground crops' is partially shown in Figure 3.4. _Marawa_ 'ground crops' contrasts with _vuata_ 'tree crops, trees that bear edible fruit', and encompasses not only root crops such as yam, taro and sweet potato, but also other non-tree food crops such as melons, maize, sugarcane and bananas ([Gardner & Pawley 1992](../sources/GardnerandPawley1992): 15), and thus is not a category that fits within the taxonomy presented in Figure 3.2. This latter taxonomy is based primarily on the use and cultural status of the plants, in contrast to the former taxonomy that is based mostly on the morphological and ecological characteristics of the plants.
+[Gardner & Pawley](../sources/GardnerandPawley1992) ([1992](../sources/GardnerandPawley1992): 15) also note other categories of plants in Wayan which cut across the taxonomy presented above. For example, while in one sense _uvi_ '_Dioscorea_ species of yams' would be categorised as _wā_ 'vines', they can also be classified as _marawa_ 'ground crops, food plants other than trees'. The system of classification that includes _marawa_ 'ground crops' is partially shown in Figure 3.4. _Marawa_ 'ground crops' contrasts with _vuata_ 'tree crops, trees that bear edible fruit', and encompasses not only root crops such as yam, taro and sweet potato, but also other non-tree food crops such as melons, maize, sugarcane and bananas ([Gardner & Pawley 1992](../sources/GardnerandPawley1992): 15), and thus is not a category that fits within the taxonomy presented in Figure 3.2. This latter taxonomy is based primarily on the use and cultural status of the plants, in contrast to the former taxonomy that is based mostly on the morphological and ecological characteristics of the plants.
 
 
 <a id="s-3-2"></a>
@@ -283,17 +283,17 @@ As can be seen from Figure 3.2, the taxonomy of wild plants in Wayan Fijian is q
 
 The nominal use of _bulao_ 'to grow' in _rū bulao kī_ 'growing things' is a way to refer to the kingdom category of all plants. Most growing things can also be denoted by _ʔai_ 'tree', although more commonly _ʔai_ has a narrower meaning. It is not clear if Kwara'ae speakers traditionally recognised a category of all plants or if this category results from the need for a way to talk of all plants when working on Kwai'oloa and Burt's book. Burt notes that the classification of plants by Kwara'ae speakers is mainly for 'pragmatic and utilitarian purposes' and that not all categories are mutually exclusive, but rather the categories overlap in various ways ([Kwa'ioloa & Burt 2001](../sources/KwaioloaandBurt2001): 16). Kwara'ae speakers appear to classify the majority of _rū bulao ki_ 'growing things' into three categories: _ʔai_ 'tree', _fiʔi-rū_ 'clumps' and _kʷalo_ 'vines'. The distinguishing characteristics of _ʔai_ plants are a hard trunk and a branching growth structure. Kwara'ae _ʔai_ can also be used more broadly to denote palms, soft-cored trees (eg. pawpaw), cordyline shrubs, gingers and ferns, which are not considered _ʔai_ 'tree' in the narrow sense of the word. _fiʔi-rū_ 'clumps' is the descriptive term, comprising the classifier, _fiʔi_ and the noun _rū_ 'things', to denote plants that grow as a cluster of stems. Thus _fiʔi-rū_ 'clumps' encompasses plants like gingers, bamboos and ferns. The term _fiʔi-rū_ 'clumps' is listed as a possible life-form taxon in Figure 3.5, although it is not entirely clear if this is a traditional Kwara'ae taxon. However, Burt notes that this category of plants includes those which can be indicated by the classifier _fiʔi_, and so traditionally _fiʔi-rū_ 'clumps' may have been a covert category. The term kwazo 'vines' denotes plants with a climbing or creeping growth structure, that is those plants used as cordage, a secondary meaning of _kʷalo_. However, _kʷalo_ does not include the vines of edible tubers which are referred to as _kʷala_. While they appear to form the basis of botanical classification in Kwara'ae, these three life-form taxa are not mutually exclusive but rather seem to be labelled groups along a continuum of morphological characteristics, such that _ʔai_ 'tree' normally referring to plants with single hard stems and branches may sometimes be used to refer to cordyline shrubs, which under other circumstances may be referred to _fiʔi-rū_ 'clumps' .
 
-Palms do not fit within this three-way classification at all. As noted, palms may be referred to as _ʔai_, but only in its broad sense that denotes all plants, and not in its more narrow sense. Burt ([Kwa'ioloa and Burt 2001](../sources/KwaioloaandBurt2001): 17) describes palms as a covert category. Kwara'ae speakers generally refer to palms by the individual names, but recognise and readily acknowledge the similarities amongst them. Palms may be described as _rū ki gasiʔi rebani_ 'things we tear into flat pieces', denoting their shared use for slatting and battens. This is a function that characterises palms, but is not restricted to them. [Kwa'ioloa and Burt](../sources/KwaioloaandBurt2001) ([2001](../sources/KwaioloaandBurt2001):186) use the word _niniu_ to label the category of palms, describing it as denoting kinds of trees (ʔai) that are similar in being tall and erect with leaves that emerge from a stave or mid-rib. Members of the _niniu_ taxon are not eaten or burnt as fuel, but are important in making platforms and walls as well as battens for thatching, and their fronds are used for making brooms. The term _niniu_, an apparent reduplication of _niu_ 'coconut, Cocos nucifera' suggests that this category may be based on resemblance of form and use of palms to _niu_ 'coconut'. However, _niu_ 'coconut' itself is not referred to as _niniu_, probably because of its common occurrence and importance ([Kwa'ioloa and Burt 2001](../sources/KwaioloaandBurt2001): 17).
+Palms do not fit within this three-way classification at all. As noted, palms may be referred to as _ʔai_, but only in its broad sense that denotes all plants, and not in its more narrow sense. Burt ([Kwa'ioloa and Burt 2001](../sources/KwaioloaandBurt2001): 17) describes palms as a covert category. Kwara'ae speakers generally refer to palms by the individual names, but recognise and readily acknowledge the similarities amongst them. Palms may be described as _rū ki gasiʔi rebani_ 'things we tear into flat pieces', denoting their shared use for slatting and battens. This is a function that characterises palms, but is not restricted to them. [Kwa'ioloa and Burt](../sources/KwaioloaandBurt2001) ([2001](../sources/KwaioloaandBurt2001):186) use the word _niniu_ to label the category of palms, describing it as denoting kinds of trees (ʔai) that are similar in being tall and erect with leaves that emerge from a stave or mid-rib. Members of the _niniu_ taxon are not eaten or burnt as fuel, but are important in making platforms and walls as well as battens for thatching, and their fronds are used for making brooms. The term _niniu_, an apparent reduplication of _niu_ 'coconut, _Cocos nucifera_' suggests that this category may be based on resemblance of form and use of palms to _niu_ 'coconut'. However, _niu_ 'coconut' itself is not referred to as _niniu_, probably because of its common occurrence and importance ([Kwa'ioloa and Burt 2001](../sources/KwaioloaandBurt2001): 17).
 
 The other small category of plants that does not fit within any of the three major categories is _laua_ 'weeds'. It denotes small plants that 'can (and often should) be 'pulled up' when they grow in places like gardens' ([Kwa'ioloa and Burt 2001](../sources/KwaioloaandBurt2001): 17). However, the term _laua_ can also be used to refer to seedlings or saplings.
 
 
 <a id="p-66"></a>
 
-Kwara'ae _ʔai_ 'tree' is a large category with over 200 named types described in [Kwa'ioloa and Burt](../sources/KwaioloaandBurt2001) ([2001](../sources/KwaioloaandBurt2001): 102-181). They classify _ʔai_ into three groups: (i) _ʔai doe kī_ 'big trees'; (ii) _ʔai ne?e kesi doe liu goʔo kī_ 'trees which don't get very big'; and (iii) _ʔai ne?e tiʔitiʔi goʔo kī_ 'trees which are just small'. These descriptive labels and the groups they represent appear to have been established for the convenience of [Kwa'ioloa and Burt's](../sources/KwaioloaandBurt2001) ([2001](../sources/KwaioloaandBurt2001)) book, and it is unclear if they are in common usage amongst Kwara'ae speakers. Thus they are not listed in Figure 3.5. The majority of the named types of _ʔai_ appear to denote single scientific species and form the lowest level of classification. However, a few are further subclassified. For example, _lami-lami_ 'archidendron, Archidendron oblongum' denotes two named varieties of Archidendron oblongum that appear to be distinguished on the basis of morphological characteristics. The small tree, _ʔalaʔala_ 'Codiaeum variegatum' also encompasses a number of named varieties ([Kwa'ioloa and Burt 2001](../sources/KwaioloaandBurt2001):134, 175).
+Kwara'ae _ʔai_ 'tree' is a large category with over 200 named types described in [Kwa'ioloa and Burt](../sources/KwaioloaandBurt2001) ([2001](../sources/KwaioloaandBurt2001): 102-181). They classify _ʔai_ into three groups: (i) _ʔai doe kī_ 'big trees'; (ii) _ʔai ne?e kesi doe liu goʔo kī_ 'trees which don't get very big'; and (iii) _ʔai ne?e tiʔitiʔi goʔo kī_ 'trees which are just small'. These descriptive labels and the groups they represent appear to have been established for the convenience of [Kwa'ioloa and Burt's](../sources/KwaioloaandBurt2001) ([2001](../sources/KwaioloaandBurt2001)) book, and it is unclear if they are in common usage amongst Kwara'ae speakers. Thus they are not listed in Figure 3.5. The majority of the named types of _ʔai_ appear to denote single scientific species and form the lowest level of classification. However, a few are further subclassified. For example, _lami-lami_ 'archidendron, _Archidendron oblongum_' denotes two named varieties of Archidendron oblongum that appear to be distinguished on the basis of morphological characteristics. The small tree, _ʔalaʔala_ '_Codiaeum variegatum_' also encompasses a number of named varieties ([Kwa'ioloa and Burt 2001](../sources/KwaioloaandBurt2001):134, 175).
 
 _lamilami_
-:   A very big tree, archidendron, Archidendron oblongum.
+:   A very big tree, archidendron, _Archidendron oblongum_.
 
     _etana lamilami_
     :   First archidendron. A big tree with brown trunk, wide leaves and a
@@ -305,7 +305,7 @@ _lamilami_
         trunk that grows in swamps and mangroves. Used for building houses and for fuel.
 
 _alaʔala_
-:   Croton, Codiaeum variegatum species. A small tree that grows wild in the lowlands
+:   Croton, _Codiaeum variegatum_ species. A small tree that grows wild in the lowlands
     and by the sea and is planted around homes. Fronds used for decorating houses and
     people.
 
@@ -324,7 +324,7 @@ _alaʔala_
     _ʔalaʔala ogamu_
     :   Wants-to-break _ʔalaʔala_, with a leaf that has breaking points.
 
-[Kwa'ioloa & Burt](../sources/KwaioloaandBurt2001) ([2001](../sources/KwaioloaandBurt2001): 193-219) divide _fiʔi-rū_ 'clumps' into a number of groups. The group _fiʔi-rū ne?e boeboena ka ofi fafia faʔina kī_ 'clumps with leaf-tubes sheathing the stem' encompasses plants like gingers, bananas and alpinas. That is, leafy plants with soft-core stems that are sheathed with leaves. The group _fiʔi-rū ne?e kasiruʔa kī_ 'clumps which are sectioned' is the descriptive term used for plants like bamboos and reeds that have stems with nodes and can thus be cut into internode sections. These two categories are not listed in Figure 3.5 as they represent groups of plants that can be seen as similar in form and use, but are apparently not categories traditionally recognised by Kwara'ae speakers. [Kwa'ioloa & Burt](../sources/KwaioloaandBurt2001) ([2001](../sources/KwaioloaandBurt2001): 207 -213) use the term _takuma_ to denote all ferns. Strictly speaking _takuma_ refers to Diplazium proliferum and other ferns are referred to by their individual names. However, _takuma_ would also be used to refer to a bundle of different edible ferns that included Diplazium proliferum, suggesting the traditional presence of a covert category at least. Thus _takuma_ as a category denotes Diplazium proliferum, an important fern, and other plants considered similar in terms of morphological characteristics, namely a short dark bole, long curled-over leaves and the lack of flowers or fruit. [Kwa'ioloa and Burt](../sources/KwaioloaandBurt2001) ([2001](../sources/KwaioloaandBurt2001):212) also include in this category _kʷaʔe_, the generic term for tree-ferns, which also denotes the 'proper' or important tree-fern Cyathea lunulata. Tree-ferns are plants with leaves like ferns but trunks like trees. The young leaf-shoots are eaten and the trunks used for building. The term _kʷaʔe_ encompasses a number of different named varieties.
+[Kwa'ioloa & Burt](../sources/KwaioloaandBurt2001) ([2001](../sources/KwaioloaandBurt2001): 193-219) divide _fiʔi-rū_ 'clumps' into a number of groups. The group _fiʔi-rū ne?e boeboena ka ofi fafia faʔina kī_ 'clumps with leaf-tubes sheathing the stem' encompasses plants like gingers, bananas and alpinas. That is, leafy plants with soft-core stems that are sheathed with leaves. The group _fiʔi-rū ne?e kasiruʔa kī_ 'clumps which are sectioned' is the descriptive term used for plants like bamboos and reeds that have stems with nodes and can thus be cut into internode sections. These two categories are not listed in Figure 3.5 as they represent groups of plants that can be seen as similar in form and use, but are apparently not categories traditionally recognised by Kwara'ae speakers. [Kwa'ioloa & Burt](../sources/KwaioloaandBurt2001) ([2001](../sources/KwaioloaandBurt2001): 207 -213) use the term _takuma_ to denote all ferns. Strictly speaking _takuma_ refers to _Diplazium proliferum_ and other ferns are referred to by their individual names. However, _takuma_ would also be used to refer to a bundle of different edible ferns that included _Diplazium proliferum_, suggesting the traditional presence of a covert category at least. Thus _takuma_ as a category denotes _Diplazium proliferum_, an important fern, and other plants considered similar in terms of morphological characteristics, namely a short dark bole, long curled-over leaves and the lack of flowers or fruit. [Kwa'ioloa and Burt](../sources/KwaioloaandBurt2001) ([2001](../sources/KwaioloaandBurt2001):212) also include in this category _kʷaʔe_, the generic term for tree-ferns, which also denotes the 'proper' or important tree-fern _Cyathea lunulata_. Tree-ferns are plants with leaves like ferns but trunks like trees. The young leaf-shoots are eaten and the trunks used for building. The term _kʷaʔe_ encompasses a number of different named varieties.
 
 The category of _fiʔi-rū_ 'clumps' also includes a number of other plants that do not fit into any of these three smaller categories, including the various types of named pandanus. Within the scope of the book, [Kwa'ioloa & Burt](../sources/KwaioloaandBurt2001) ([2001](../sources/KwaioloaandBurt2001): 214) use the term _faʔu_ for all types of pandanus. However, it is not clear that this is a traditional Kwara'ae category, and so it is not included in Figure 3.5.
 
@@ -363,7 +363,7 @@ The subtaxa of the four major life-form categories generally form the lowest lev
 _hahe (mahe)_
 :   A shrub, sweet-smelling and sacred, planted in hera, burial grounds, and used
     to decorate armlets; long glossy leaves, four sepals, petals and stamens in the white
-    flowers, Euodia hortensis.
+    flowers, _Euodia hortensis_.
 
     _hahe bora_
     :   with dark leaves
@@ -910,7 +910,7 @@ In Polynesian languages there has been a semantic shift and the reflexes of _&as
 ### 4.3. Palms
 
 
-Were palms considered _&ast;kayu_? For the majority of reflexes of POc _&ast;kayu_ it is not clear from the dictionary definitions whether palms are included within the category. For languages where the definitions are explicit about the status of palms, in some cases palms are included and in others not. For example, in Gela and Arosi (SE Solomonic) the categories denoted by _ɣai_ and _ʔai_, respectively, do not include palms. In Wayan Fijian, on the other hand, _kai_ does appear to encompass palms, with a number of different palms, including _māsei_ 'fan palm (Pritchardia pacifica)', _niu_ 'coconut (Cocos nucifera)' and _soŋa_ 'palm used for thatching (Sagus vitiensis, Arecaceae)' defined as part of the _kai_ taxon in [Pawley and Sayaba](../sources/PawleyandSayaba2003) ([2003](../sources/PawleyandSayaba2003)). In a few languages palms appear to form labelled categories of their own. Thus Anejom _nakʷai_ is the generic term for palms, though excluding coconuts ([Lynch 2001a](../sources/Lynch2001a): 173). In Samoan _niu_ is a 'general name for palms, especially the coconut palm' ([Milner 1966](../sources/Milner1966): 156-7). Also in Tongan there is evidence that _niu_ 'coconut tree or fruit' can be used to refer to palms more generally since it optionally occurs as part of the name for fan palm (_niu piu_ or _piu_ 'fan palm, Eupritchardia pacifica', [Churchward 1959](../sources/Churchward1959)). Burt describes palms as a covert category in Kwara'ae ([Kwa'ioloa & Burt 2001](../sources/KwaioloaandBurt2001): 17). That is, while Kwara'ae speakers recognise and acknowledge the similarities amongst palms, they do not name such a category.[^6]
+Were palms considered _&ast;kayu_? For the majority of reflexes of POc _&ast;kayu_ it is not clear from the dictionary definitions whether palms are included within the category. For languages where the definitions are explicit about the status of palms, in some cases palms are included and in others not. For example, in Gela and Arosi (SE Solomonic) the categories denoted by _ɣai_ and _ʔai_, respectively, do not include palms. In Wayan Fijian, on the other hand, _kai_ does appear to encompass palms, with a number of different palms, including _māsei_ 'fan palm (_Pritchardia pacifica_)', _niu_ 'coconut (_Cocos nucifera_)' and _soŋa_ 'palm used for thatching (_Sagus vitiensis_, Arecaceae)' defined as part of the _kai_ taxon in [Pawley and Sayaba](../sources/PawleyandSayaba2003) ([2003](../sources/PawleyandSayaba2003)). In a few languages palms appear to form labelled categories of their own. Thus Anejom _nakʷai_ is the generic term for palms, though excluding coconuts ([Lynch 2001a](../sources/Lynch2001a): 173). In Samoan _niu_ is a 'general name for palms, especially the coconut palm' ([Milner 1966](../sources/Milner1966): 156-7). Also in Tongan there is evidence that _niu_ 'coconut tree or fruit' can be used to refer to palms more generally since it optionally occurs as part of the name for fan palm (_niu piu_ or _piu_ 'fan palm, Eupritchardia pacifica', [Churchward 1959](../sources/Churchward1959)). Burt describes palms as a covert category in Kwara'ae ([Kwa'ioloa & Burt 2001](../sources/KwaioloaandBurt2001): 17). That is, while Kwara'ae speakers recognise and acknowledge the similarities amongst palms, they do not name such a category.[^6]
 
 
 <a id="p-74"></a>
@@ -988,7 +988,7 @@ The final consonant of the POc form is reconstructed as _&ast;c_ rather than _&a
 <tr>
 <td>MM</td><td><a href="../languages/marovo">Marovo</a></td><td><i>adoso</i></td>
 <td>
-'<span>vine, creeping or climbing, general term; climbing vines of Calamus types (lawyer cane)</span>'</td>
+'<span>vine, creeping or climbing, general term; climbing vines of <em>Calamus</em> types (lawyer cane)</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>alo</i></td>
@@ -1147,7 +1147,7 @@ POc _&ast;pali[s,j]i_ appears to have been the generic for plants lacking a main
 <tr>
 <td>NCV</td><td><a href="../languages/mwotlap">Mwotlap</a></td><td><i>vlih</i></td>
 <td>
-'<span>grass, turf (Gramineae), Thuarea involuta</span>' (<span><em>na-plih</em></span>)</td>
+'<span>grass, turf (Gramineae), <em>Thuarea involuta</em></span>' (<span><em>na-plih</em></span>)</td>
 </tr>
 <tr>
 <td>NCV</td><td><a href="../languages/wusi">Wusi</a></td><td><i>palihi</i></td>
@@ -1187,7 +1187,7 @@ POc _&ast;pali[s,j]i_ appears to have been the generic for plants lacking a main
 <tr>
 <td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>fatili</i></td>
 <td>
-'<span>grass (Thuarea involuta or Stenotaphurum)</span>'</td>
+'<span>grass (<em>Thuarea involuta</em> or Stenotaphurum)</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>falī</i></td>
@@ -1657,7 +1657,7 @@ Ferns and tree-ferns are also plants which do not appear to fit into any of the 
 <td>Wayan</td>
 <td><i>balabala</i></td>
 <td>
-'<span>generic for tree ferns (Cyathea spp.), sometimes extended to include other large ferns, such as Pteris tripartita</span>'; '<span>Cyathea lunulata (Cyatheaceae)</span>'; '<span>Cyathea sp., perhaps C. propinqua</span>'; '<span>Calochlaena straminea (Dicksoniaceae)</span>'; '<span>Pteris tripartita (Adiantaceae)</span>'</td>
+'<span>generic for tree ferns (<em>Cyathea</em> spp.), sometimes extended to include other large ferns, such as Pteris tripartita</span>'; '<span><em>Cyathea lunulata</em> (_Cyathea_ceae)</span>'; '<span><em>Cyathea</em> sp., perhaps C. propinqua</span>'; '<span>Calochlaena straminea (Dicksoniaceae)</span>'; '<span>Pteris tripartita (Adiantaceae)</span>'</td>
 </tr>
 <tr>
 <td>Pn</td>
@@ -1670,7 +1670,7 @@ Ferns and tree-ferns are also plants which do not appear to fit into any of the 
 
 From this it seems possible that tree-ferns formed a higher-order taxon in POc, but no term appears to be reconstructable to back up such a hypothesis.
 
-In Wayan _balabala_ 'tree-ferns' contrasts with another primary taxon _diŋi_, a generic for at least two types of terrestrial ferns. In Kwara'ae _takuma_ 'Diplazium proliferum' is sometimes used to denote a collection of edible ferns that includes Diplazium proliferum Woodsiaceae, though more commonly ferns are referred to by their individual names. In other languages, such as Iduna, Kosraean, Samoan and Hawaiian there are terms that may denote ferns more generally, but it is not clear from the dictionary definitions. A generic term for ferns does not appear to be reconstructable for POc, and it seems likely that the individual names of ferns were considered to be primary taxa.
+In Wayan _balabala_ 'tree-ferns' contrasts with another primary taxon _diŋi_, a generic for at least two types of terrestrial ferns. In Kwara'ae _takuma_ '_Diplazium proliferum_' is sometimes used to denote a collection of edible ferns that includes _Diplazium proliferum_ Woodsiaceae, though more commonly ferns are referred to by their individual names. In other languages, such as Iduna, Kosraean, Samoan and Hawaiian there are terms that may denote ferns more generally, but it is not clear from the dictionary definitions. A generic term for ferns does not appear to be reconstructable for POc, and it seems likely that the individual names of ferns were considered to be primary taxa.
 
 <table id="3-3-4-8-80-pt-iduna-maiwa">
 <tr>
@@ -1699,7 +1699,7 @@ In Wayan _balabala_ 'tree-ferns' contrasts with another primary taxon _diŋi_, a
 <td>Wayan</td>
 <td><i>diŋi</i></td>
 <td>
-'<span>generic that includes at least the following two medium-sized terrestrial ferns: Nephrolepis hiserrata (Davalliaceae), ladder fern, locally common in open mid-altitude forest; Sphaerostephanos invisus (Thelypteridaceae), common on dry grassy hillsides.</span>'</td>
+'<span>generic that includes at least the following two medium-sized terrestrial ferns: Nephrolepis hiserrata (Davalliaceae), ladder fern, locally common in open mid-altitude forest; <em>Sphaerostephanos invisus</em> (Thelypteridaceae), common on dry grassy hillsides.</span>'</td>
 </tr>
 <tr>
 <td>Pn</td>
@@ -1720,9 +1720,9 @@ In Wayan _balabala_ 'tree-ferns' contrasts with another primary taxon _diŋi_, a
 
 <a id="p-81"></a>
 
-POc _&ast;qauR_ appears to have been the general term for bamboos, with a number of more specific terms also reconstructable (ch.l3, [§3.1](../contributions/3-3#s-3-1) ). [Kwa'ioloa and Burt](../sources/KwaioloaandBurt2001) ([2001](../sources/KwaioloaandBurt2001)) use the descriptive term _fiʔi-rū_ 'clumps' or 'plants which grow as several stems', or more narrowly _fiʔi-rū ne?e kasiruʔa kī_ 'clumps which are sectioned' to represent a group of plants including bamboos which have similar growth patterns and uses. In Kwara'ae _kaʔo_ 'bamboo, Nastus obtusus' is called 'proper bamboo', but this term does not appear to be used as a generic for all bamboos (outside of Kwa'ioloa and Burt's book). In Wayan Fijian, bamboos and reeds are included in the _ō_ 'grasses' taxon. But there is no clear evidence that bamboos were considered part of any larger category that can be reconstructed for POc.
+POc _&ast;qauR_ appears to have been the general term for bamboos, with a number of more specific terms also reconstructable (ch.l3, [§3.1](../contributions/3-3#s-3-1) ). [Kwa'ioloa and Burt](../sources/KwaioloaandBurt2001) ([2001](../sources/KwaioloaandBurt2001)) use the descriptive term _fiʔi-rū_ 'clumps' or 'plants which grow as several stems', or more narrowly _fiʔi-rū ne?e kasiruʔa kī_ 'clumps which are sectioned' to represent a group of plants including bamboos which have similar growth patterns and uses. In Kwara'ae _kaʔo_ 'bamboo, _Nastus obtusus_' is called 'proper bamboo', but this term does not appear to be used as a generic for all bamboos (outside of Kwa'ioloa and Burt's book). In Wayan Fijian, bamboos and reeds are included in the _ō_ 'grasses' taxon. But there is no clear evidence that bamboos were considered part of any larger category that can be reconstructed for POc.
 
-It is unclear how pandanus were classified by POc speakers. In Kwara'ae, pandanus are considered to be part of the larger category of _fiʔi-rū_ 'clumps', whereas in Wayan Fijian pandanus are considered part of the _kai_ 'trees and shrubs' taxon. In [ch.11, §2.5](../contributions/3-11#s-2-5) Ross reconstructs a number of terms for different types of pandanus and suggests that _&ast;padran_ 'coastal pandanus, Pandanus tectorius' was also the generic term for pandanus. This is supported most strongly by Carolinian where the reflex of _&ast;padran_, _fāṣ_ is the generic term for pandanus (Jackson & Marek 1991: 59). Thus it seems likely that pandanus in POc were either: (a) usually known by their individual names and were unaffiliated primary taxa; or (b) were classified as a distinct taxon known as _&ast;padran_ 'pandanus (generic)'.
+It is unclear how pandanus were classified by POc speakers. In Kwara'ae, pandanus are considered to be part of the larger category of _fiʔi-rū_ 'clumps', whereas in Wayan Fijian pandanus are considered part of the _kai_ 'trees and shrubs' taxon. In [ch.11, §2.5](../contributions/3-11#s-2-5) Ross reconstructs a number of terms for different types of pandanus and suggests that _&ast;padran_ 'coastal pandanus, _Pandanus tectorius_' was also the generic term for pandanus. This is supported most strongly by Carolinian where the reflex of _&ast;padran_, _fāṣ_ is the generic term for pandanus (Jackson & Marek 1991: 59). Thus it seems likely that pandanus in POc were either: (a) usually known by their individual names and were unaffiliated primary taxa; or (b) were classified as a distinct taxon known as _&ast;padran_ 'pandanus (generic)'.
 
 A number of modern Oceanic languages have a category of plants that is glossed as 'weeds', as can be seen from the following list. In a number of languages, including Poeng, Gela and Kwara'ae this category appears to denote plants growing unwanted in garden plots. However, these categories do not have cognate labels. POc _&ast;talu(n)_ 'old garden, fallow land, land returning to secondary growth' ([vol.1, ch.5, §3.2](../contributions/1-5#s-3-2)) may have denoted land with this type of vegetation, but a term for the vegetation itself does not appear to be reconstructable.
 
@@ -1875,9 +1875,9 @@ Figure 3.7 shows schematically a partial ethnobotanical classification for POc b
 
 Ross's reconstructions of plant names in chapters 5-13 suggest that the subtaxa of these life-form categories tended to be terminal taxa. However, as folk generics tend to be more stable than specifics (Pawley this volume), it is not surprising that Ross is unable to reconstruct many terms for specifics. Rather, it is likely that POc behaved like contemporary languages in similar environmental and cultural contexts and had named folk taxa within many of the folk generics that Ross reconstructs.
 
-In chapters 5-13 of this volume Ross reconstructs POc names for over 80 plants which were most probably considered subtaxa of the _&ast;kayu_ 'tree, shrub' category. The majority of these reconstructions, like _&ast;tuRi-tuRi_ 'candlenut tree, Aleurites moluccana', _&ast;putun_ 'Barringtonia asiatica', _&ast;aRu_ 'a shore tree, Casuarina equisetifolia', _&ast;paRu_ 'a small shore tree, Hibiscus tiliaceus', _&ast;qatita_ 'the putty nut, Parinarium laurinum' and _&ast;quRis_ 'Polynesian plum, Spondias dulcis', denote a single 'scientific' species. A few reconstructions, such as _&ast;kalaqabusi_ 'a shrub, Acalypha species' and _&ast;kapika_ 'Malay apple and rose apple, Eugenia species' denote two or more 'scientific' species, but still appear to have formed the lowest level within the classification. It is only with a few types of _&ast;kayu_ 'tree, shrub' that Ross found evidence to reconstruct a folk generic that denoted several different species and terms for folk species within the generic category. For example, the POc term _&ast;[ka]ŋaRi_ was polysemous, denoting both Canarium species in general and Canarium indicum in particular. A second POc term _&ast;qalip_ 'canarium almond, Canarium species' may have denoted a separate species (ch.ll, [§2.1](../contributions/3-3#s-2-1)). There are also a few types of _&ast;kayu_ 'tree, shrub' for which Ross can reconstruct more than one POc term, such as _&ast;ñoñum_ and _&ast;kurat_ both denoting the Indian Mulberry tree (Morinda citrifolia), which may reflect cases where POc speakers distinguished by name different varieties of a single 'scientific' species, but often the difference between these terms in POc is not entirely clear.
+In chapters 5-13 of this volume Ross reconstructs POc names for over 80 plants which were most probably considered subtaxa of the _&ast;kayu_ 'tree, shrub' category. The majority of these reconstructions, like _&ast;tuRi-tuRi_ 'candlenut tree, _Aleurites moluccana_', _&ast;putun_ '_Barringtonia asiatica_', _&ast;aRu_ 'a shore tree, _Casuarina equisetifolia_', _&ast;paRu_ 'a small shore tree, _Hibiscus tiliaceus_', _&ast;qatita_ 'the putty nut, _Parinari_um laurinum' and _&ast;quRis_ 'Polynesian plum, _Spondias dulcis_', denote a single 'scientific' species. A few reconstructions, such as _&ast;kalaqabusi_ 'a shrub, _Acalypha_ species' and _&ast;kapika_ 'Malay apple and rose apple, Eugenia species' denote two or more 'scientific' species, but still appear to have formed the lowest level within the classification. It is only with a few types of _&ast;kayu_ 'tree, shrub' that Ross found evidence to reconstruct a folk generic that denoted several different species and terms for folk species within the generic category. For example, the POc term _&ast;[ka]ŋaRi_ was polysemous, denoting both _Canarium_ species in general and _Canarium indicum_ in particular. A second POc term _&ast;qalip_ 'canarium almond, _Canarium_ species' may have denoted a separate species (ch.ll, [§2.1](../contributions/3-3#s-2-1)). There are also a few types of _&ast;kayu_ 'tree, shrub' for which Ross can reconstruct more than one POc term, such as _&ast;ñoñum_ and _&ast;kurat_ both denoting the Indian Mulberry tree (_Morinda citrifolia_), which may reflect cases where POc speakers distinguished by name different varieties of a single 'scientific' species, but often the difference between these terms in POc is not entirely clear.
 
-As expected from the comparative evidence, POc speakers appear to have had more levels within the classification of food plants than with non-food plants. Thus, although it appears that for most plants folk generics denoting a particular 'scientific' species formed the lowest level of classification, for some food plants POc speakers appear to have used folk generics to refer to a cluster of similar species and other more specific terms to denote single species. This was seen above with _&ast;[ka]ŋaRi_ 'canarium almond, Canarium indicum; Canarium species in general', and can be seen in Figure 3.7 with regards to types of yams. Alongside the terms for specific species of yams, POc speakers also appear to have used _&ast;qupi_ 'greater yam, Dioscorea alata; yam (generic)' to denote yams in general ([ch.9, §2.1](../contributions/3-9#s-2-1)). The fine grade distinctions made in the naming and classification of food plants in POc can perhaps best be seen in the reconstructions of different types of edible _&ast;pudi_ 'bananas' ([ch.9, §3](../contributions/3-9#s-3)), and several different growth stages for _&ast;niuR_ 'coconut (generic)' ([ch.12, §3](../contributions/3-12#s-3)). It is also likely that, like Wayan Fijian speakers, POc speakers had other systems of classifying plants, such as in terms of food categories. For example, Ross ([ch.10, §2.1](../contributions/3-10#s-2-1)) reconstructs a term _&ast;wasa_ which denoted Abelmoschus manihot, but also appears to have referred to the general category of 'edible greens'.
+As expected from the comparative evidence, POc speakers appear to have had more levels within the classification of food plants than with non-food plants. Thus, although it appears that for most plants folk generics denoting a particular 'scientific' species formed the lowest level of classification, for some food plants POc speakers appear to have used folk generics to refer to a cluster of similar species and other more specific terms to denote single species. This was seen above with _&ast;[ka]ŋaRi_ 'canarium almond, _Canarium indicum_; _Canarium_ species in general', and can be seen in Figure 3.7 with regards to types of yams. Alongside the terms for specific species of yams, POc speakers also appear to have used _&ast;qupi_ 'greater yam, _Dioscorea alata_; yam (generic)' to denote yams in general ([ch.9, §2.1](../contributions/3-9#s-2-1)). The fine grade distinctions made in the naming and classification of food plants in POc can perhaps best be seen in the reconstructions of different types of edible _&ast;pudi_ 'bananas' ([ch.9, §3](../contributions/3-9#s-3)), and several different growth stages for _&ast;niuR_ 'coconut (generic)' ([ch.12, §3](../contributions/3-12#s-3)). It is also likely that, like Wayan Fijian speakers, POc speakers had other systems of classifying plants, such as in terms of food categories. For example, Ross ([ch.10, §2.1](../contributions/3-10#s-2-1)) reconstructs a term _&ast;wasa_ which denoted _Abelmoschus manihot_, but also appears to have referred to the general category of 'edible greens'.
 
 (plants)
 
@@ -1890,7 +1890,7 @@ As expected from the comparative evidence, POc speakers appear to have had more 
 
 <a id="p-84"></a>
 
-The form _&ast;qauR_ 'bamboos (generic)' ([ch.13, §3.1](../contributions/3-13#s-3-1)) denoted an additional life-form taxon, and _&ast;padran_ 'coastal pandanus, Pandanus tectorius' ([ch.11, §2.5.1](../contributions/3-11#s-2-5-1)) may have also been used as a generic for all pandanus and thus been a life-form taxon. Palms may have formed a covert category, but it seems likely that they were referred to by their individual names and were unaffiliated to any other primary taxa. Ferns and tree-ferns also appear to have been unaffiliated taxa.
+The form _&ast;qauR_ 'bamboos (generic)' ([ch.13, §3.1](../contributions/3-13#s-3-1)) denoted an additional life-form taxon, and _&ast;padran_ 'coastal pandanus, _Pandanus tectorius_' ([ch.11, §2.5.1](../contributions/3-11#s-2-5-1)) may have also been used as a generic for all pandanus and thus been a life-form taxon. Palms may have formed a covert category, but it seems likely that they were referred to by their individual names and were unaffiliated to any other primary taxa. Ferns and tree-ferns also appear to have been unaffiliated taxa.
 
 
 ## Notes

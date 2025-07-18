@@ -169,9 +169,26 @@ Interaction between neighbouring Oceanic and non-Oceanic languages in Near Ocean
 
 What about the possibility that communities of Proto Oceanic speakers were present along the central north coast of New Guinea, from the Huon Gulf to the Sepik region, an area which faces the Bismarcks? The most likely candidates would be the many habitable islands which lie off the central north coast, extending from Tami Is. in the Huon Gulf west as far as to the Schoutens group. In this connection, the following observations should be noted.
 
-(i)   There is at present no good evidence of early Lapita occupation of this region. The Siassi Islands in the Vitiaz Strait off the western tip of New Britain have yielded the nearest Lapita site to the New Guinea mainland yet found, apart from isolated finds of single potsherds. The Siassi site represents ‘a relatively late and seemingly ephemeral Lapita occupation’ ([Spriggs 1997a](../sources/Spriggs1997a):118). It must be admitted, however, that little archaeological work has been done on the offshore islands.
-
-(ii) If Proto Oceanic speaking communities existed on parts of the north coast of New Guinea and nearby islands they have left no descendants. All the indications are that the contemporary Oceanic languages spoken along the central north coast from Vitiaz Strait to Jayapura appear to represent a fairly recent expansion (within the last 2000 years) in an east to west direction starting in the Vitiaz Straits region ([Lilley 1999](../sources/Lilley1999), [Ross 1988](../sources/Ross1988)). The Oceanic languages of the central north coast of New Guinea all belong to a middle-order subgroup of Oceanic together with the languages of West New Britain, a group that [Ross](../sources/Ross1988) ([1988](../sources/Ross1988)) calls North New Guinea. North New Guinea contains several branches. Of particular interest are the Schouten chain, whose eastern outliers are Medebur and Manam, and which includes all the north coast languages as far west as the Sissano Lagoon, and the Ngero/Vitiaz chain, which includes the languages in and around the Vitiaz Straits, as far west as Karkar Island, as far east as Tami Is. in the Huon Gulf, together with the languages of the western end of New Britain west.
+(i)  There is at present no good evidence of early Lapita occupation of this region. The
+     Siassi Islands in the Vitiaz Strait off the western tip of New Britain have yielded
+     the nearest Lapita site to the New Guinea mainland yet found, apart from isolated
+     finds of single potsherds. The Siassi site represents ‘a relatively late and seemingly
+     ephemeral Lapita occupation’ ([Spriggs 1997a](../sources/Spriggs1997a):118). It must be admitted, however,
+     that little archaeological work has been done on the offshore islands.
+(ii) If Proto Oceanic speaking communities existed on parts of the north coast of New
+     Guinea and nearby islands they have left no descendants. All the indications are
+     that the contemporary Oceanic languages spoken along the central north coast from
+     Vitiaz Strait to Jayapura appear to represent a fairly recent expansion (within the
+     last 2000 years) in an east to west direction starting in the Vitiaz Straits region
+     ([Lilley 1999](../sources/Lilley1999), [Ross 1988](../sources/Ross1988)). The Oceanic languages of the central north coast of New
+     Guinea all belong to a middle-order subgroup of Oceanic together with the
+     languages of West New Britain, a group that [Ross](../sources/Ross1988) ([1988](../sources/Ross1988)) calls North New Guinea.
+     North New Guinea contains several branches. Of particular interest are the
+     Schouten chain, whose eastern outliers are Medebur and Manam, and which
+     includes all the north coast languages as far west as the Sissano Lagoon, and the
+     Ngero/Vitiaz chain, which includes the languages in and around the Vitiaz Straits,
+     as far west as Karkar Island, as far east as Tami Is. in the Huon Gulf, together with
+     the languages of the western end of New Britain west.
 
 There are certain noteworthy parallels between the Lapita occupation of the Bismarcks and the much later settlement of the central north coast of New Guinea by speakers of the North New Guinea group. In both cases, the strong preference was to settle (presumably uninhabited) offshore islands rather than the mainland, and in both cases exchange networks were established between dispersed communities. [Harding](../sources/Harding1967) ([1967](../sources/Harding1967)) describes three different trade networks that existed in the Vitiaz Straits region, centring on Bilibili, the Siassi group and Tami Is., respectively. Local specialisation yielded tradeable goods (e.g. workable stone, baskets, bowls, mats and pots) that were carried by large outrigger canoes. Village populations generally did not exceed 200 and marriage partners were often sought outside the village, in the communities of trading partners.
 

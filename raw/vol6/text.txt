@@ -1367,7 +1367,7 @@ _*d-_   |  _daRaq_     |         _draRaq_  |         nasal     |     fresh water
 _*-d-_  |  _kuden_     |         _kuron_   |         oral      |     cooking pot
 _*-nd-_ |  _pandan_    |         _padran_  |         nasal     |     pandanus
 _*s-s-_ |  _susu_      |         _susu_    |         oral      |     breast
-_*s-_   |  _siRi_      |         _jiRi_    |         nasal     |     a shrub: Cordyline
+_*s-_   |  _siRi_      |         _jiRi_    |         nasal     |     a shrub: _Cordyline_
 _*-s-_  |  _ŋusuq_     |         _ŋuju-_   |         nasal     |     lips, snout, beak
 _*z-_   |  _zaqat_     |         _saqat_   |         oral      |     bad
 _*-z-_  |  _quzan_     |         _qusan_   |         oral      |     rain
@@ -9037,12 +9037,12 @@ In most locations the conch trumpet functions as a signalling device rather than
 instrument. It transmits messages, announces occasions like celebrations (Tok Pisin
 _singsings_) and deaths, and may serve as a war trumpet. Conditions under which it can be
 sounded are typically predetermined, and only certain persons are permitted to blow it
-(Fischer 1986:135-149). The shell used is generally the Charonia tritonis, although Cassis
+(Fischer 1986:135-149). The shell used is generally the _Charonia tritonis_, although Cassis
 shells may be similarly used.
 
 <
 PMP *tapuRiq ‘conch shell trumpet’ (ACD) (See vol.1:106, vol.4:183)
-POc *tapuRiq ‘triton shell: Charonia tritonis; a trumpet of this’
+POc *tapuRiq ‘triton shell: _Charonia tritonis_; a trumpet of this’
  Adm: Mussau               taue           ‘triton shell’
  NNG: Takia                taur           ‘conch shell/horn (used for sending messages)’
  NNG: Manam                tauru          ‘conch shell; used as a horn for calling village meetings with the Kaunsel’
@@ -9056,7 +9056,7 @@ POc *tapuRiq ‘triton shell: Charonia tritonis; a trumpet of this’
  TM: Buma                  teveliko       ‘triton; conch shell traditionally used as a trumpet, esp. when sending out public signals’ (François)
  NCV: Lonwolwol            taviu          ‘conch shell (and sound)’ (vowel metathesis)
  NCV: Lewo                 tapuru         ‘shellfish trochus spp.’
- NCV: Lakon                tau            ‘conch shell, Charonia tritonis’ (François 2013)
+ NCV: Lakon                tau            ‘conch shell, _Charonia tritonis_’ (François 2013)
  SV: Sye                   (n)tovu        ‘triton shell’
  Mic: Kiribati             tau            ‘triton conch, trumpet shell’
  Mic: Ponapean             sewi           ‘conch shell, trumpet’
@@ -9084,7 +9084,7 @@ PPn *pū ‘triton shell trumpet’
  Pn:  Tuvaluan         pū        ‘shell trumpet, used to call important meetings’
  Pn:  Tikopia          pū        ‘trumpet, traditionally, large univalve shell’
  Pn:  Tahitian         pū        ‘trumpet’
- Pn:  Hawaiian         pū        ‘large triton conch shell (Charonia tritonis); any wind instrument’
+ Pn:  Hawaiian         pū        ‘large triton conch shell (_Charonia tritonis_); any wind instrument’
  Pn:  Maori            pū        ‘volute univalve mollusc of the winkle type’
 >
 
@@ -9323,24 +9323,24 @@ Few terms have been collected, none cognate.
 McLean (1994:14) lists rattles made from diverse materials including seeds and seed pods,
 various nuts, fruit, snail and seashells, pig’s and dog’s teeth, crayfish shells and crab claws.
 The purpose of most is to accompany dance, although Seligman (1910:292) describes seeds
-of Pangium edule being used as rattles attached to nets in wallaby drives in the Roro
+of _Pangium edule_ being used as rattles attached to nets in wallaby drives in the Roro
 speaking area of southern PNG. They are commonly worn as anklets, where the sound is
 enhanced by the regular stamping action of most dances, but are sometimes worn also on
 the wrist. Although non-cognate terms have been collected from Kove and Mamusi (NNG),
 Kiriwina (PT) and Nakanai (MM), the only reconstruction made is a PEOc term. This is
-also the term for the tree, Pangium edule, the fruit of which is used for dance rattles in the
+also the term for the tree, _Pangium edule_, the fruit of which is used for dance rattles in the
 SE Solomons and Vanuatu.
 
 <
-PEOc *paRage ‘tree sp., Pangium edule; dance rattles’ (vol.3:336)
+PEOc *paRage ‘tree sp., _Pangium edule_; dance rattles’ (vol.3:336)
   SES: Tolo          valage        ‘type of large seed pod worn to make noise when dancing’
-  SES: Kwara’ae      falake        ‘Pangium edule’ (Whitmore 1966)
+  SES: Kwara’ae      falake        ‘_Pangium edule_’ (Whitmore 1966)
   SES: Lau           falake        ‘seeds tied on legs in dancing; sp. of tree’
   SES: Kwaio         falage        ‘rattle’
-PNCV *vaRage ‘tree sp., Pangium edule, fruit used as dance rattles’(Clark 2009)
+PNCV *vaRage ‘tree sp., _Pangium edule_, fruit used as dance rattles’(Clark 2009)
   NCV: Mota          varake        ‘tree; shells of the fruit tied to the ankles as rattles in dances’
-  NCV: Raga          vaŋge         ‘Pangium edule’
-  NCV: NE Ambae      vake          ‘ankle rattle tree, Pangium edule’
+  NCV: Raga          vaŋge         ‘_Pangium edule_’
+  NCV: NE Ambae      vake          ‘ankle rattle tree, _Pangium edule_’
   NCV: Pt Sandwich   (vi)vaŋg      ‘dance rattles’
 cf. also:
   NNG: Kove          paloko        ‘anklets worn by dancers’
@@ -11712,28 +11712,28 @@ possible.
 
 Many spells involve the use of particular substances relevant to the desired effect. Items
 chosen are thought to mimic, by their properties, the desired result. Love magic may
-include adorning oneself with the leaves of a sweet-smelling shrub such as Euodia
+include adorning oneself with the leaves of a sweet-smelling shrub such as _Euodia_
 hortensis (PCP _*usi_) to capture a woman’s affections (Ivens 1927:281, 336). The leaves and
 bark of particular plants are important in calling on ancestor spirits, while roots are chewed
-for magical purposes. Ginger (POc _*laqia_ ‘ginger, Zingiber officinale) (vol.3:414) is
+for magical purposes. Ginger (POc _*laqia_ ‘ginger, _Zingiber_ officinale) (vol.3:414) is
 considered a powerful substance used for both magical and medicinal purposes. Chewing
 ginger as part of a spell serves to make the words ‘hot’, that is, to augment their potency
 (Hogbin 1970b:180). It is also a common ingredient in the ritual treatment of disease,
 generally by the agent spitting the masticated substance on to the afflicted body part. Wild
-ginger (Zingiber zerumbet) also known as red ginger, is associated with magic and sorcery
+ginger (_Zingiber zerumbet_) also known as red ginger, is associated with magic and sorcery
 in Marovo and Maringe, and chewed by the magician in Tangga preparing for war (Bell 1935a:261).
 It was also wrapped in dried banana leaves and burnt in pots by Motu on their
 ocean-going canoes to help them go fast and well while on hiri trading voyages (Gwilliam 1982:52).
 
-    Other plants associated with magical practices include turmeric, Curcuma longa (POc
+    Other plants associated with magical practices include turmeric, _Curcuma longa_ (POc
 _*yaŋo_, vol.3:412), used at Morovo and Kwara’ae, and various leaves including those of
-Dracaena augustifolia used in Arosi and Sa’a (Ivens 1927:290) and Cordyline fruticosa used
+_Dracaena_ augustifolia used in Arosi and Sa’a (Ivens 1927:290) and _Cordyline fruticosa_ used
 in Buka (Blackwood 1935), Marovo (Hviding 2005:118), To’aba’ita (Hogbin 1970a:106),
 Kwaio (Keesing 1982:189) and Tikopia (Firth 1967:182). POc _*jiRi_ (vol.3:418) refers to both
-Dracaena augustifolia and Cordyline fruticosa ). Fortune (1963:114–5) lists Cordyline
+_Dracaena_ augustifolia and _Cordyline fruticosa_ ). Fortune (1963:114–5) lists _Cordyline_
 terminalis, an alternative name for C. Fruticosa, as of ceremonial importance over a wide
 area, from the Admiralty Islands, through Milne Bay, New Britain, the Solomons, Vanuatu,
-Fiji and Polynesia. Skins of areca nuts, Areca catechu (POc _*buaq_, vol.3:393) are used in
+Fiji and Polynesia. Skins of areca nuts, _Areca catechu_ (POc _*buaq_, vol.3:393) are used in
 black magic in Sa’a and elsewhere (Ivens 1927:246).
 
     Lime (POc _*qapu(R)_ ‘lime, burnt coral or limestone’, vol.2:64) is also used for both
@@ -13329,7 +13329,7 @@ comparable usage in Mwotlap _na-tqō_ where fishing activity is banned for a per
 allow fish to reproduce. A ban there is signalled by a conspicuous leaf (e.g. a coconut frond, a
 cordyline leaf) tied to a stick at the entrance to the area. Ivens (1927:254–5) describes a
 similar temporary prohibition on foodstuffs prior to a feast made by a chief in Sa’a. Here the
-visible sign is identified as a pole with a bunch of leaves of the putty nut (Parinarium
+visible sign is identified as a pole with a bunch of leaves of the putty nut (_Parinari_um
 laurinum). In Sa’a, such non-religious prohibitions are labelled _adi_, not _abu_.
 
 10.3.3 Property protection
@@ -13802,7 +13802,7 @@ among its senses: Lau _falisi_ ‘garden, yam harvest, year’, Kwaio _falisi_ �
 _halisi_ ‘harvest, crop, time of ripening, yam season, year’. The ’Are’are, Arosi and Sa’a
 dictionaries make the proviso that the denotation ‘year’ is a recent one. Other food crops with
 regular planting and harvesting seasons also assumed the added sense ‘year’. Thus Marovo
-(MM, New Georgia) _buruburu_ ‘Canarium spp.’ also means ‘year’, the interval between two
+(MM, New Georgia) _buruburu_ ‘_Canarium_ spp.’ also means ‘year’, the interval between two
 ripenings of canarium almonds (Hviding 2005:107). Similarly Maringe _finoɣa_ ‘canarium
 harvest’, and To’aba’ita _ŋali_ ‘canarium nut tree and fruit’ all also have the sense ‘year’.[4] In
 Mangaia in Eastern Polynesia, “in the premissionary times, the age [of a child] was counted
@@ -13813,7 +13813,7 @@ cycle of yam growing. From the cognate set we learn that the year was equated wi
 season cycle in Buang, Tongan and Maori. Kirch & Green (2001:267) comment that “in
 Western Polynesian languages, reflexes of PPN _*taqu_ (e.g., [E Futunan] _taʔu_) refer not just to
 ‘season’, but more specifically to ‘yam season’.” Although yams, particularly Discorea alata,
-and taro, Colocasia esculenta, were both important staples for POc speakers (vol.3:256), it
+and taro, _Colocasia esculenta_, were both important staples for POc speakers (vol.3:256), it
 was Discorea alata whose time of planting was critical. Taro is not seasonal, growing
 throughout the year. When people wanted to refer to a time equivalent to ‘last year’ or ‘next
 year’, they tended to do it by referring to their previous yam garden or their future yam
@@ -13859,7 +13859,7 @@ months of canarium almonds (April–September) and six months of strong winds (O
 Ivens (1927:397) writes that in Sa’a “practically there are two divisions of the year:
 _marāu_ or _āu_, the time associated with the canarium almonds [_ŋali_], and _oku_, the time
 associated with the palolo” (cf §11.5.4). Mota had _maɣoto_ ‘Miscanthus grass’ (‘wet season’),
-_rara_ ‘Erythrina’ (‘dry season’), and _ud_ ‘palolo season’. Kirch & Green’s (2001:260ff) detailed
+_rara_ ‘_Erythrina_’ (‘dry season’), and _ud_ ‘palolo season’. Kirch & Green’s (2001:260ff) detailed
 examination of time reckoning and the ritual cycle in Polynesia is summarised in 11.5.7.
 
     Grimble (1931) describes a Kiribati year of two seasons, marked by observation of _te auti_
@@ -14341,7 +14341,7 @@ the Pleiades’; §11.5.7) and Polynesia (PNPn _*mataliki_ ‘month name, June�
 
 11.4.3 Palolo risings
 
-The palolo worm, Eunice viridis (also Leodis viridis or Palolo viridis) is a segmented sea
+The palolo worm, _Eunice viridis_ (also Leodis viridis or Palolo viridis) is a segmented sea
 worm that lives in crevices in a coral reef. Its annual spawning occurs in a widely distributed
 number of places, but always at a time associated with the lunar cycle. In Eastern Oceanic
 communities this is typically six to nine days after the full moon in October and November
@@ -14510,7 +14510,7 @@ for the palolo.
 
 The one marker of the time of year that would have been consistently recognised by all
 members of a community was the stage of development of the staple crop, particularly the
-yam, Dioscorea spp., on which many communities depended for their survival (vol.3:258–261).
+yam, _Dioscorea_ spp., on which many communities depended for their survival (vol.3:258–261).
 Yams are seasonal, with planning essential for prior garden preparation and sowing.
 Once established, the developing vines are usually given a stake or frame for support. Leaves
 change colour and die off, indicating the appropriate time for harvesting. The yam crop
@@ -14614,15 +14614,15 @@ they begin with _vula_ ‘moon, month’, but it is clear from the period length
 leftmost column) that they here mean ‘season, time of year’, as Pawley & Sayaba (2022) note.
 The same is probably true of the similar expressions in Bauan Fijian in Capell (1941).
 
-11.4.5 Canarium arboriculture
+11.4.5 _Canarium_ arboriculture
 
-Canarium arboriculture was practised in New Guinea probably for millennia before the arrival
-of Oceanic speakers. There are numerous tree species of the genus Canarium. Those grown by
+_Canarium_ arboriculture was practised in New Guinea probably for millennia before the arrival
+of Oceanic speakers. There are numerous tree species of the genus _Canarium_. Those grown by
 Oceanic speakers are discussed and terms for them reconstructed in vol.3. POc _*[ka]ŋaRi_
 referred to C. Indicum and probably was also used as the generic term (vol.3:312–317). The
 edible fruit is often called the canarium nut or canarium almond.[16]
 
-    Canarium almonds continue to be highly valued in Near Oceania and Vanuatu because they
+    _Canarium_ almonds continue to be highly valued in Near Oceania and Vanuatu because they
 are good eaten raw or smoked, and pounded almonds are an essential ingredient in much
 appreciated oily puddings. As a result, their annual harvest in July and August has given rise to
 various ceremonies and rituals (vol.3:314), and these have come to mark certain months of the
@@ -14638,7 +14638,7 @@ _muzara_ ‘approx. October’ is assigned to a western month. The month _haele_
 July–August as its gloss (‘climb’) and the accomanying note indicate that it is the time of the
 canarium harvest. The month _lomu kubata_ must also be somewhere around harvest time.
 
-     Waterhouse’s definition of _okete_ ‘Canarium’ reads
+     Waterhouse’s definition of _okete_ ‘_Canarium_’ reads
 
 __blockquote__
        _okete_, a tree [Canarium sp.]. The ripening, gathering and storing of the nuts were
@@ -14652,7 +14652,7 @@ evidence of canarium in Roviana shrine excavations (Aswani & Sheppard 2003). A p
 similar cult is recorded on neighbouring Choiseul by McClatchey et al. (2006a). About
 canarium, they write:
 
-[16] ‘Canarium almond’ is technically more appropriate, as the canarium ‘nut’ is botanically not a nut but a
+[16] ‘_Canarium_ almond’ is technically more appropriate, as the canarium ‘nut’ is botanically not a nut but a
    drupe, like the almond. A drupe is a seed contained in a hard covering that makes up the ‘stone’ of a
    stone fruit like the peach (vol.3:312).
 
@@ -14665,8 +14665,8 @@ __blockquote__
      Its usage so permeated peoples’ ceremonial and dietary lives that some ancient and
      special relationship is connotated particularly through usage as a sacrificial offering and
      as a principal symbol of land tenure and authority … The uses and interactions with
-     Canarium by the Babatana and Ririo are extensive and permeate most aspects of
-     traditional life. It is difficult to imagine these cultures in the absence of Canarium.
+     _Canarium_ by the Babatana and Ririo are extensive and permeate most aspects of
+     traditional life. It is difficult to imagine these cultures in the absence of _Canarium_.
 
     Various month names referring to canarium almonds in other Oceanic languages are listed
 in Table 11.7. These mostly denote the time when the canarium almonds are first ready for
@@ -14701,12 +14701,12 @@ _tome-laŋono_ | _tome_ ‘hide’, _laŋono_ placename | month name: canarium a
 __table__
 Language     | Source            |    | Month name   |  Word glosses       |          Accompanying notes
 Kove (NNG)   | Chowning 2009     | 07 | _kokopalai_  | _koko_ ‘cooked, eaten’, _palai_ ‘canarium almond’ | about July?
-Maringe (MM) | White et al. 1988 | 07 | _posa-sitʰa_ |  _posa_ ‘arrive’, _sitʰa_ ‘Canarium’ | time of year around July at which almond nuts first mature
+Maringe (MM) | White et al. 1988 | 07 | _posa-sitʰa_ |  _posa_ ‘arrive’, _sitʰa_ ‘_Canarium_’ | time of year around July at which almond nuts first mature
 Maringe (MM) | White et al. 1988 | 08 | _finoɣa_     | ‘year’ | time of year around July and August when almond trees (sitʰa) are full of ripe nuts; conceived as completion of yearly cycle
 Kwaio (SES)  | Keesing 1975      | 09 | _faʔamada_   | _faʔa-_ CAUSATIVE; _mada_ ‘ripe’ | heavy rains in season when canarium almonds are ripening (September)
 Sa’a (SES)   | Ivens 1927        | 08 | _hure’i lade_ | _hurei_ ‘emerge’,  _lade_ ‘form’ |  emerge and form (of canarium almond); August, winds S.E.
 Sa’a (SES)   | Ivens 1927        | 08 | _ŋali maelo_ |      | the month of August, the time of ripe nuts
-Owa (SES)    | Mellow 2014       |    | _meotogo ni aŋari_ | _aŋari_ ‘Canarium’ | 3rd lunar month, when the galip nuts ripen
+Owa (SES)    | Mellow 2014       |    | _meotogo ni aŋari_ | _aŋari_ ‘_Canarium_’ | 3rd lunar month, when the galip nuts ripen
 
                                                              Seasonal cycles and lunations 317
 
@@ -14715,31 +14715,31 @@ Owa (SES)    | Mellow 2014       |    | _meotogo ni aŋari_ | _aŋari_ ‘Canari
 
 The Maenge calendar (Table 11.11, §11.5.1.2) represents the most extreme instance of months
 being named for wild plants, but such names are fairly common across Oceania. One of the
-most widespread is the flowering of the coral tree or erythrina (POc _*rarap_ ‘Erythrina spp.’,
-POc _*baR[baR]_ ‘Erythrina variegata’; vol.3:158–161), with distinctive bright orange-red
+most widespread is the flowering of the coral tree or erythrina (POc _*rarap_ ‘_Erythrina_ spp.’,
+POc _*baR[baR]_ ‘_Erythrina variegata_’; vol.3:158–161), with distinctive bright orange-red
 spiral flowers at the end of each branch. It occurs in month names in Maenge (NNG),
 Sinaugoro (PT; Table 11.16) and Mota (NCV; Table 11.20). The tree is often a salient feature
 in and around Melanesian coastal villages, and its flowering is often taken as an indicator that
 it is time to plant yams. Other references to the erythrina are less specific (or less well
 understood). Two NCV languages of Malakula refer to the erythrina. They are Avava, which
-has the name _ivlemial_ for November, glossed ‘red, Erythrina variegata’ by Crowley (2005),
+has the name _ivlemial_ for November, glossed ‘red, _Erythrina variegata_’ by Crowley (2005),
 and Atchin, for which Capell & Layard (1980) give the month names _rere tsar_ ‘the leaves of
 the erythrina are falling’ (_tsar_ ‘erythrina’) and _ni-rere_ ‘[the erythrina is] red’.
 
     Also featuring in month names are two tall grass species. In Western Oceanic this is usually
-Saccharum edule (PWOc _*tabuqaR_, vol.3:301), known in Papua New Guinea as _pitpit_, a tall
-grass related to sugarcane (Saccharum officinarum). It is cultivated for the unopened inflorescence
+_Saccharum edule_ (PWOc _*tabuqaR_, vol.3:301), known in Papua New Guinea as _pitpit_, a tall
+grass related to sugarcane (_Saccharum officinarum_). It is cultivated for the unopened inflorescence
 at the tip of the cane, which is harvested as a seasonal vegetable that is either roasted in
 its leafy sheath or cooked in coconut cream with other vegetables. The other grass is
-Miscanthus floridulus (POc _*pi(y)uŋ_, vol.3:253), a reed-like grass which grows on dry hillsides, to
+_Miscanthus floridulus_ (POc _*pi(y)uŋ_, vol.3:253), a reed-like grass which grows on dry hillsides, to
 about 2 metres tall.
 
     Table 11.8 shows that the month names that refer to the two grasses are more or less in
-complementary distribution, with Saccharum edule in NNG and Miscanthus floridulus in
+complementary distribution, with _Saccharum edule_ in NNG and _Miscanthus floridulus_ in
 SES, Vanuatu and Fiji. The event that is marked across the languages in Table 11.8 is the
 flowering of the grass, usually in April or May (Bariai, Yabem, Arosi and Wayan Fijian). It is
 at least plausible to suggest that this month was also labelled in this way in POc, and that
-terms for S. edule were replaced by terms for M. floridulus as Oceanic speakers moved
+terms for _Saccharum edule_ were replaced by terms for _Miscanthus floridulus_ as Oceanic speakers moved
 eastward.
 
 318 Meredith Osmond and Malcolm Ross
@@ -14748,16 +14748,16 @@ eastward.
 
 __table__
 Language | Source |    | Month name     |  Word glosses |             Accompanying notes
-Bariai (NNG) |    | 04 | _tabual aea laoe_ | _tabual_ ‘S. edule, eaten’, _laoe_ ‘a fruit’s time of ripeness’   | season characterised by good weather near the month of April when S. edule ripens
-Mangseng (NNG) |  | 12 | _tovu=po epei ko_ | _tovu=po_ ‘S. edule season’, _epei_ ‘half’, _ko_ ‘there’ | middle of S. edule season
-Yabem (NNG) | Streicher 1982 | 05 | _dabuʔ-benoŋ_  | _dabuʔ_ ‘S. edule’, _benoŋ_ ‘calm’. | the time between the dry and the rainy seasons; the time of ripening of S. edule and abatement of the NW monsoon; the resulting calm is/was ascribed to S. edule hulls being thrown into the sea
+Bariai (NNG) |    | 04 | _tabual aea laoe_ | _tabual_ ‘_Saccharum edule_, eaten’, _laoe_ ‘a fruit’s time of ripeness’   | season characterised by good weather near the month of April when _Saccharum edule_ ripens
+Mangseng (NNG) |  | 12 | _tovu=po epei ko_ | _tovu=po_ ‘_Saccharum edule_ season’, _epei_ ‘half’, _ko_ ‘there’ | middle of _Saccharum edule_ season
+Yabem (NNG) | Streicher 1982 | 05 | _dabuʔ-benoŋ_  | _dabuʔ_ ‘_Saccharum edule_’, _benoŋ_ ‘calm’. | the time between the dry and the rainy seasons; the time of ripening of _Saccharum edule_ and abatement of the NW monsoon; the resulting calm is/was ascribed to _Saccharum edule_ hulls being thrown into the sea
 Sinaugoro (PT) | see Table 11.16 | | | |
-Sa’a (SES) | Ivens 1927 | 09 | _ōku rate_ | _ōku_ ‘dry season’, _rate_ ‘M. floridulus’ | 3rd lunar month, when the galip nuts ripen
+Sa’a (SES) | Ivens 1927 | 09 | _ōku rate_ | _ōku_ ‘dry season’, _rate_ ‘_Miscanthus floridulus_’ | 3rd lunar month, when the galip nuts ripen
 Arosi (SES) | Fox 1978 | 05 | _raŋisi mʷaō_ | _raŋisi_ ‘rain on’, _mʷaō_ ‘grass sp.’ | month when this grass flowers
 Mota and Mwotlap (NCV) | see Table 11.20 | | | |
 Anejom (SV) | Lynch 2001c | 03 | _niau_  |  _niau_ ‘reed sp.’ | flowers in March
 Anejom (SV) | Lynch 2001c | 08 | _niyeŋ-aɣen_ |               |  bitter wild cane
-Wayan (Fij) | Pawley & Sayaba 2002 | 04 | _vula i ŋasau_ | _vula_ ‘moon, month’, _ŋasau_ ‘M. floridulus’ | end of hurricane season, when ŋasau, reeds, are in flower; season for harvesting yams
+Wayan (Fij) | Pawley & Sayaba 2002 | 04 | _vula i ŋasau_ | _vula_ ‘moon, month’, _ŋasau_ ‘_Miscanthus floridulus_’ | end of hurricane season, when ŋasau, reeds, are in flower; season for harvesting yams
 
 
 11.4.7 Weather patterns
@@ -15028,13 +15028,13 @@ __formgroup__
  NNG: Maenge |vega pana| ‘month 01’; ‘between two flowering periods’ (This period corresponds to no flowering time, but bridges the gap between the previous ‘month’ and the following one. Its duration is variable—15 to 30 days—depending on the length of the previous and next months. Felled bush trees are burnt in the new collective gardens. Festivals happen.) (Panoff 1969)
  NNG: Maenge |tolova e volau| ‘month 02’; ‘Evodia elleryana (_volau_) flowers’ (The second driest month of the year. The best varieties of taro are planted in the new collective gardens. The last festivals of the cycle take place.) (Panoff 1969)
  NNG: Maenge |tolova e sina| ‘month 03’; ‘the sina flowers’ (The sina is an unidentified tree which differs from the _volau_ in the size of its leaves. The driest month of the year. There may be food shortage as a result of both drought and the huge consumption of taro through the previous months. Pig fences are erected around the collective gardens.) (Panoff 1969)
- NNG: Maenge tava     ‘month 04’; ‘Alphitonia incana flowers’  (_Tava_ corresponds to a significant rise in the curve of rainfall (the average figure is 250 mm, double that in the previous months). In most gardens the taros become available that were planted about the time the Pleiades disappeared.) (Panoff 1969)
- NNG: Maenge |oalo kuna|  ‘month 05’; ‘vine head (= vine flower)’  (The name refers to two climbers, a Calamus species and Zizyphus papuanus. This is the first month of _vinte_ (the wet season). Some people start introducing yams into their diet. Land crabs (_goga_) leave the bush at night and gather on the beach, where they are extensively caught by torchlight. Hence this month is called _goga_ in Pomio and Sali villages.) (Panoff 1969)
- NNG: Maenge |piri a kamana kena| ‘month 06’; ‘flowers appear on one branch of Erythrina indica’ (The erythrina is shedding its leaves, and flowers appear on a few twigs. The northern solstice approaches. The last taros are planted before the heaviest rains.) (Panoff 1969)
- NNG: Maenge |piri manaŋana| ‘month 07’; ‘the true flowering time of Erythrina indica’  (The erythrina has lost its leaves and is entirely covered with flowers. This and the following month are the wettest months of the year.) (Panoff 1969)
- NNG: Maenge |kereŋe kemera| ‘month 08’; ‘Pterocarpus indicus has shed all its leaves and is bare’ (Throughout this month the weather is so bad that ‘nobody knows who may have died in the neighboring village as communication is too difficult.’) (Panoff 1969)
+ NNG: Maenge tava     ‘month 04’; ‘_Alphitonia incana_ flowers’  (_Tava_ corresponds to a significant rise in the curve of rainfall (the average figure is 250 mm, double that in the previous months). In most gardens the taros become available that were planted about the time the Pleiades disappeared.) (Panoff 1969)
+ NNG: Maenge |oalo kuna|  ‘month 05’; ‘vine head (= vine flower)’  (The name refers to two climbers, a _Calamus_ species and Zizyphus papuanus. This is the first month of _vinte_ (the wet season). Some people start introducing yams into their diet. Land crabs (_goga_) leave the bush at night and gather on the beach, where they are extensively caught by torchlight. Hence this month is called _goga_ in Pomio and Sali villages.) (Panoff 1969)
+ NNG: Maenge |piri a kamana kena| ‘month 06’; ‘flowers appear on one branch of _Erythrina indica_’ (The erythrina is shedding its leaves, and flowers appear on a few twigs. The northern solstice approaches. The last taros are planted before the heaviest rains.) (Panoff 1969)
+ NNG: Maenge |piri manaŋana| ‘month 07’; ‘the true flowering time of _Erythrina indica_’  (The erythrina has lost its leaves and is entirely covered with flowers. This and the following month are the wettest months of the year.) (Panoff 1969)
+ NNG: Maenge |kereŋe kemera| ‘month 08’; ‘_Pterocarpus indicus_ has shed all its leaves and is bare’ (Throughout this month the weather is so bad that ‘nobody knows who may have died in the neighboring village as communication is too difficult.’) (Panoff 1969)
  NNG: Maenge |kereŋe kau soali| ‘month 08’  (Panoff 1969)
- NNG: Maenge |kerenge manaŋana|   ‘month 09’; ‘Pterocarpus indicus is flowering’ (The rains decline, and the sky is less cloudy. Yams cease to prevail in the Maenge diet. Travel from village to village is resumed.) (Panoff 1969)
+ NNG: Maenge |kerenge manaŋana|   ‘month 09’; ‘_Pterocarpus indicus_ is flowering’ (The rains decline, and the sky is less cloudy. Yams cease to prevail in the Maenge diet. Travel from village to village is resumed.) (Panoff 1969)
  NNG: Maenge ulasi     ‘month 10’; ‘a small fish, the bluestripe squirrelfish (Sargocentron tiere)’ (A transitional month between _vinte_ and _kaepâ_ (wet and dry). Squirrelfish swarm in shallow waters near the beach.) (Panoff 1969)
  NNG: Maenge |paugala ka siana|  ‘month 11’; ‘Albizzia falcata is pregnant’ (The Albizzia is budding. It is the first month which definitely belongs to _kaepâ_ (the dry season). Preparations for the great festivals of the dry season are well under way.) (Panoff 1969)
  NNG: Maenge |paugala enga valipola|  ‘month 12’; ‘the flowers of Albizzia falcata burst’ (The southern solstice approaches and the rains are getting very scarce. The palolo make their appearance on the surface of shallow waters for one or two nights and are skimmed off as delicacies by the inhabitants of Malakuru and Pomio. Many villages start their festivals. Usually large sections of bush are cleared for preparing the collective gardens, the harvest of which is designed for the following year's festivals.) (Panoff 1969)
@@ -15603,7 +15603,7 @@ cognate. The terms for April, however, are cognate, reflecting what François (p
 reconstructs as Proto Banks _*lamʷas-aki dorodoro_, apparently a serial verb construction
 consisting of _*lamʷas-_ ‘to hit, strike’, the applicative suffix _*-aki_, hence ‘strike against’, and
 _dorodoro_ ‘to rattle’. The meaning of the construction is evidently ‘to strike against so that it
-rattles’, the agent being the wind, the patient the reed-like grass Miscanthus floridulus which
+rattles’, the agent being the wind, the patient the reed-like grass _Miscanthus floridulus_ which
 makes a rattling sound when the dry reeds, blown by the wind, strike each other (François, pers.
 comm.).
 
@@ -15733,7 +15733,7 @@ __formgroup__
  Fij: Bauan   |vula i sevu|              ‘month 02’; ‘offering of first yams to the priests’ (Seeman 1862)
  Fij: Bauan   |vula i kelikeli|          ‘month 03’; ‘dig (yams)’ (Seeman 1862)
  Fij: Bauan   |vula i gasau|             ‘month 04’; ‘reeds sprout (Miscanthus)’ (Seeman 1862)
- Fij: Bauan   |vula i doi|               ‘month 05’; ‘k.o. buckthorn in flower (Alphitonia zizyphoides)’
+ Fij: Bauan   |vula i doi|               ‘month 05’; ‘k.o. buckthorn in flower (_Alphitonia zizyphoides_)’
 
 He notes that Hazlewood, who published a Fijian–English dictionary in 1850, allowed four
 months, from May to August, to be effectively the clearing month. Presumably this provided
@@ -16383,7 +16383,7 @@ PNPn *oloamanu ‘August’
  Pn: Tongarevan       aroamanu          ‘January’
 >
 
-    In parts of Polynesia, just as in parts of western Melanesia, the palolo worm (Eunice viridis)
+    In parts of Polynesia, just as in parts of western Melanesia, the palolo worm (_Eunice viridis_)
 spawns in a spectacular and predictable manner during October/November and November/
 December during the last quarter of the moon. It is a well known phenomenon in Tonga and
 Samoa, as it is in Fiji, but, as far as we can tell, either does not occur or is not recognised in
@@ -16963,7 +16963,7 @@ applies to the same phase.
 __formgroup__
  SES: To’aba’ita   siki       ‘be new (of moon)’
  SES: To’aba’ita   sūsuʔiuʔa  ‘be just past the new stage’ (‘still have sharp points’)
- SES: To’aba’ita   reʔefakaθo ‘be in the second stage of waxing’ (_reʔe_ ‘leaf’, _fakaθo_ ‘tree sp., Hibiscus tiliaceus’)
+ SES: To’aba’ita   reʔefakaθo ‘be in the second stage of waxing’ (_reʔe_ ‘leaf’, _fakaθo_ ‘tree sp., _Hibiscus tiliaceus_’)
  SES: To’aba’ita   dolosuʔu   ‘be in the last waxing phase before being full moon’ (_dolo_ ‘giant clam sp.’)
  SES: To’aba’ita   arakʷa     ‘be full (of moon)’
  SES: To’aba’ita   dekʷe      ‘be past the full phase, beginning to wane’ (_dekʷe_ VI ‘break into pieces; break, crack open’)

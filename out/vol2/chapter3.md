@@ -7362,12 +7362,12 @@ cf. also:
 <tr>
 <td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>ʔalo-ʔalo</i></td>
 <td>
-'<span>(red) flower of Erythrina tree</span>'</td>
+'<span>(red) flower of <em>Erythrina</em> tree</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>kalo-kalo</i></td>
 <td>
-'<span>(red) flower of Erythrina tree</span>'</td>
+'<span>(red) flower of <em>Erythrina</em> tree</span>'</td>
 </tr>
 </table>
 

@@ -25,7 +25,7 @@ Available online at http://hdl.handle.net/1885/106908
 ![Source: 0%](https://img.shields.io/badge/Source-0%25-red.svg "Source: 0%")
 
 - **Varieties:** 779 (linked to 0 different Glottocodes)
-- **Concepts:** 19,989 (linked to 0 different Concepticon concept sets)
+- **Concepts:** 19,972 (linked to 0 different Concepticon concept sets)
 - **Lexemes:** 43,026
 - **Sources:** 5
 - **Synonymy:** 1.05

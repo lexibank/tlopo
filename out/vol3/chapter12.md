@@ -21,7 +21,7 @@ Just about every part of the palm and the fruit is used in traditional societies
 
 <a id="s-2-1"></a>
 
-### 2.1. Cocos nucifera, coconut, TP, Bkokonas, P kokonat (Arecaceae)
+### 2.1. _Cocos nucifera_, coconut, TP, Bkokonas, P kokonat (Arecaceae)
 
 
 POc _&ast;niuR_ appears to have been used in at least two senses: the fruit at any stage of growth, and the palm. A number of the glosses below are simply 'coconut': in all these cases the gloss almost certainly denotes both the fruit and the palm.
@@ -36,7 +36,7 @@ POc _&ast;niuR_ appears to have been used in at least two senses: the fruit at a
 <i>&ast;niuR</i>
 </td>
 <td>
-'<span>coconut, Cocos nucifera; ripe coconut (growth stage of C. nucifera)</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
+'<span>coconut, <em>Cocos nucifera</em>; ripe coconut (growth stage of <em>Cocos nucifera</em>)</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
 </td>
 </tr>
 <tr>
@@ -45,7 +45,7 @@ POc _&ast;niuR_ appears to have been used in at least two senses: the fruit at a
 <i>&ast;niuR</i>
 </td>
 <td>
-'<span>coconut palm and/or fruit, Cocos nucifera</span>'</td>
+'<span>coconut palm and/or fruit, <em>Cocos nucifera</em></span>'</td>
 </tr>
 <tr>
 <td>Adm</td><td><a href="../languages/loniu">Loniu</a></td><td><i>niu</i></td>
@@ -3075,7 +3075,7 @@ cf. also:
 <tr>
 <td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>faʔa</i></td>
 <td>
-'<span>lower portion of leaf stalk of banana, taro, or giant taro (Alocasia macrorrhiza)</span>'</td>
+'<span>lower portion of leaf stalk of banana, taro, or giant taro (<em>Alocasia macrorrhiza</em>)</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>fā</i></td>

@@ -4512,7 +4512,7 @@ POc *pulu-pulu[-ka] ‘hairy’
  MM:  Roviana          pulu-pulu          ‘hairy (body)’
  MM:  Hoava            pulu-pulu-         ‘hair’
  MM:  Simbo            pulu-pulu-         ‘hair of the body’
- SES: Gela             vulu-vulu          ‘species of water plant; a plant: Amaranthus’
+ SES: Gela             vulu-vulu          ‘species of water plant; a plant: _Amaranthus_’
  SES: Arosi            huru-huru-ʔa       ‘hairy’
  Pn:  Tongan           fulu-fulu          ‘hair (esp. on the body), fur, feathers; having hair, fur or feathers (growing on it); (of timber) rough, undressed, unplaned’
  Pn:  Tongan           fulu-fulu-a        ‘hairy, furry, woolly or feathery’
@@ -8364,7 +8364,7 @@ back of the head as denotatum, but there is little doubt that all the items list
 thereof. In Tawala the reduplicated form, encoding ‘little occiput’, lacks a reflex of _*g(i,e)ju-_,
 probably once present as it is in closely related Gumawana.
 
-[37] Ramoaaina _talia_ ‘nut of Terminalia catappa’, reflecting POc _*talise_ (vol.3:324).
+[37] Ramoaaina _talia_ ‘nut of _Terminalia catappa_’, reflecting POc _*talise_ (vol.3:324).
 
 172 Meredith Osmond and Malcolm Ross
 
@@ -9458,7 +9458,7 @@ term for kidney is a metaphor that makes reference to an object that is perceive
 shaped, typically a fruit or nut, or is preceded by a classifier for such objects. For instance,
 reflexes of POc _*puaq_ ‘fruit’ occur in Adm, SES, NCV and Pn terms.
 
-    The most frequent metaphor equates a kidney with a Tahitian chestnut (Inocarpus fagifer),
+    The most frequent metaphor equates a kidney with a Tahitian chestnut (_Inocarpus fagifer_),
 and this points to a possible reconstruction. One POc term for the Tahitian chestnut was _*ipi_
 (vol.3:318) and a very few languages reflect this or a reduplicated form _*ip(i)-ipi_ in the sense
 of kidney.
@@ -11460,7 +11460,7 @@ POc *ŋau ‘chew and eat’
  NNG: Numbami              ŋa-ŋau-i           ‘chew’
  NNG: Gitua                ŋau                ‘chew’
  MM: Bola                  ŋau                ‘chew’
-  MM: Notsi                ŋau-ŋau            ‘Canarium almond’
+  MM: Notsi                ŋau-ŋau            ‘_Canarium_ almond’
   MM: Tabar                ŋau                ‘eat’
   MM: Tangga               ŋau                ‘(dog +) bite’
   MM: Madak                ŋau                ‘(fire) burn’
@@ -11540,12 +11540,12 @@ A small complication is that ‘chew betelnut’ was a meaning in the wordlists 
 but it is possible that terms thus glossed are also used for other kinds of chewing.
 
    Betelnut chewing is singled out in many Oceanic languages because of its social
-significance. Betelnut is a stimulant, Areca catechu, POc _*buaq_ (vol.3:391–395), chewed
+significance. Betelnut is a stimulant, _Areca catechu_, POc _*buaq_ (vol.3:391–395), chewed
 throughout lowland New Guinea and NW Island Melanesia.
 
 __blockquote__
       Palms are grown in village groves or singly near houses. The seed may be chewed alone, but
-      usually people chew a quid consisting of the seed, lime and a catkin or leaf of Piper betle
+      usually people chew a quid consisting of the seed, lime and a catkin or leaf of _Piper betle_
       [POc _*[pu-]pulu]_…. Chewing the seed induces salivation, and if lime is present it turns the
       chewed mass bright red. Some people swallow all but the initial burst of saliva, whilst others
       spit out the red masticate. Initially, chewing leads to a very short-lived dizziness, followed by
@@ -11557,10 +11557,10 @@ So ‘chewing betelnut’ entails a semantic frame which includes not only the p
 but also the assertion of social solidarity associated with chewing.
 
    Betelnut is not chewed in Vanuatu, Fiji, Polynesia or Micronesia, where a similar social
-function is performed by kava-drinking (kava is made from Piper methysticum).
+function is performed by kava-drinking (kava is made from _Piper methysticum_).
 
    Another common activity in NW Melanesian villages is chewing a piece of sugarcane,
-Saccharum officinarum, POc _*topu_ (vol.3:389–391).
+_Saccharum officinarum_, POc _*topu_ (vol.3:389–391).
 
 __blockquote__
       The jointed, fibrous stalks contain sucrose, obtained by cutting off a stem and chopping it
@@ -13208,7 +13208,7 @@ POc *kaRat-i- (VT) ‘bite’
   SES: Longgu              ale-            (VT) ‘bite s.t.’
   SES: To’aba’ita          ʔalat(ai-tai)   (VI) ‘bite and hold on’
   SES: Sa’a                ala             (VI) ‘bite’
-  SES: Ulawa               ala             (VT) ‘bite off the outer skin of Canarium nuts’
+  SES: Ulawa               ala             (VT) ‘bite off the outer skin of _Canarium_ nuts’
   NCV: Mota                ɣara            ‘eat, bite, speak’
   NCV: Mota                ɣara-ɣara       ‘clench the teeth’
 >
@@ -28413,7 +28413,7 @@ PNCV *magura ‘thin, lean’ (Clark 2009)
 
 Oceanic terms for ‘strong’ tend also to mean ‘hard’. One POc term for ‘strong, hard’ was
 _*toRas_, reconstructed in vol.3 (pp200–201) with the sense ‘a taxon of hardwood trees including
-Intsia bijuga’, where it is also noted that the POc term meant ‘hard, durable’. There is no
+_Intsia bijuga_’, where it is also noted that the POc term meant ‘hard, durable’. There is no
 evidence, though, that this term denoted human strength.
 
      The three terms below, POc _*kayu-kayu_, Proto Remote Oceanic _*[kayu]kayu-a_ and PEOc _*kaila_ ‘strong,

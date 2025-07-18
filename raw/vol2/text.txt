@@ -3725,8 +3725,8 @@ PEOc *kalo-kalo ‘glimmer’ (cf. _*makalo_ ‘burn with glow’)
  Fij: Bauan          kalo-kalo        ‘star’
  Pn:  Pukapukan      kalo-kalo(awi)   ‘sparks of fire’
  Pn:  Samoan         ʔalo-i-afi       ‘sparks’
- Pn:  Samoan         ʔalo-ʔalo        ‘(red) flower of Erythrina tree’
- Pn:  Tikopia        kalo-kalo        ‘(red) flower of Erythrina tree’
+ Pn:  Samoan         ʔalo-ʔalo        ‘(red) flower of _Erythrina_ tree’
+ Pn:  Tikopia        kalo-kalo        ‘(red) flower of _Erythrina_ tree’
 >
 
                                                                         The landscape    81
@@ -4715,7 +4715,7 @@ writes:
 |     Marovo people recognize a number of predictable shorter-term fluctuations and
 |     climatic extremes that act as markers of important ceremonial occasions and
 |     productive activities. Among these are the particularly low tides occurring from mid-
-|     morning around June, announcing the ripening of the Canarium nut trees and aptly
+|     morning around June, announcing the ripening of the _Canarium_ nut trees and aptly
 |     termed _mati buruburu_ (low tide of nut trees). _Mati buruburu_ also signifies the
 |     beginning of the period during which marriages were traditionally concentrated, when
 |     peak harvests from both fishing and gardening could be expected. The extreme low
@@ -10236,7 +10236,7 @@ different languages, and it is sometimes hard to determine whether the reduplica
 already occurred in POc or whether the reduplicated forms result from independent parallel
 derivations. We can arrange cases on a rough cline. At one extreme is POc _*[yaŋo]yaŋo_
 ‘yellow’, whose reflexes occur so consistently across Oceania that it seems over-cautious
-not to reconstruct it. The base form was POc _*yaŋo_ ‘turmeric, Curcuma longa’ (Ross 1996d:216).
+not to reconstruct it. The base form was POc _*yaŋo_ ‘turmeric, _Curcuma longa_’ (Ross 1996d:216).
 
 <
 POc *[yaŋo]yaŋo ‘yellow’
@@ -15431,7 +15431,7 @@ Other descriptive terms also occur:
 
 __formgroup__
  PT:  Kiriwina     kapatu               ‘new moon’ (-kapatu ‘close, become small’)
- SES: Gela         |rau ni lei     |    ‘thin sickle of young moon, new moon’ (‘blade of grass, Imperata cylindrica’)
+ SES: Gela         |rau ni lei     |    ‘thin sickle of young moon, new moon’ (‘blade of grass, _Imperata cylindrica_’)
  SES: Gela         |vula taŋeu     |    ‘crescent moon’ (_vula_ ‘moon’, _taŋeu_ ‘split’)
  Fij: Wayan        |tāgaga ni vula |    ‘horns of the moon’ (_tāgaga_ ‘forked top piece of mast of traditional canoe’)
 
@@ -15563,7 +15563,7 @@ __formgroup__
 reflected) word for year’, and followed it with the reconstruction of POc _*taqun_ below.
 This statement stands, but with a qualification. The Buang, Tongan and East Futunan
 reflexes indicate that _*taqun_ may have been used particularly to denote the yam-growing
-cycle. This would not be surprising: the greater yam, Dioscorea alata (POc _*qupi_; Ross 1996d)
+cycle. This would not be surprising: the greater yam, _Dioscorea alata_ (POc _*qupi_; Ross 1996d)
 is a highly prized — but not especially nutritious — crop throughout much of
 Oceania, with much ritual associated with its growth cycle, and so it is a highly salient
 marker of a year. It is likely that that it already had the meaning ‘yam season cycle’ in POc

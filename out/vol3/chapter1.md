@@ -281,16 +281,22 @@ Table 1.2 shows two POc orthographies. The first was established by [Biggs](../s
 
 : Table 1.2      POc orthographies after [Grace](../sources/Grace1969) ([1969](../sources/Grace1969)) and [Ross](../sources/Ross1988) ([1988](../sources/Ross1988))
 
-|                                                                                                                |
-|:---------------------------------------------------------------------------------------------------------------|
-| Grace    oral grade      &ast;p           &ast;pw            &ast;t          &ast;d/ &ast;r   &ast;s          &ast;j   &ast;k                  |
-| Ross                     &ast;p           &ast;pw            &ast;t            &ast;r     &ast;s          &ast;c   &ast;k                  |
-| Grace    nasal grade    &ast;mp        &ast;l)pl &ast;mpw        &ast;nt    &ast;ndl &ast;nr            &ast;nj        &ast;l)k                |
-| Ross                     &ast;b             &ast;bw          &ast;d       &ast;dr                &ast;j         &ast;g                 |
-| Grace                    &ast;m        &ast;l)ml &ast;mw         &ast;n           &ast;fi     &ast;I)     &ast;w       &ast;y     &ast;l   &ast;q   &ast;R |
-| Ross                     &ast;m           &ast;mw            &ast;n           &ast;fi     &ast;I)     &ast;w       &ast;y     &ast;l   &ast;q   &ast;R |
-| Grace                    &ast;i           &ast;o             &ast;e           &ast;a      &ast;u                                   |
-| Ross                     &ast;i           &ast;o             &ast;e           &ast;a      &ast;u                                   |
+|       |             |       |              |       |             |      |       |      |       |
+|:------|:------------|:------|:-------------|:------|:------------|:-----|:------|:-----|:------|
+| Grace | oral grade  | _&ast;p_  | _&ast;pw_        | _&ast;t_  | _&ast;d_/_&ast;r_   | _&ast;s_ |       | _&ast;j_ | _&ast;k_  |
+| Ross  |             | _&ast;p_  | _&ast;pʷ_        | _&ast;t_  | _&ast;r_        | _&ast;s_ |       | _&ast;c_ | _&ast;k_  |
+| Grace | nasal grade | _&ast;mp_ | _&ast;ŋp_/_&ast;mpw_ | _&ast;nt_ | _&ast;nd_/_&ast;nr_ |      | _&ast;nj_ |      | _&ast;ŋk_ |
+| Ross  |             | _&ast;b_  | _&ast;bʷ_        | _&ast;d_  | _&ast;dr_       |      | _&ast;j_  |      | _&ast;g_  |
+
+|       |      |             |      |      |      |      |      |      |      |      |
+|:------|:-----|:------------|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
+| Grace | _&ast;m_ | _&ast;ŋm_/_&ast;mw_ | _&ast;n_ | _&ast;ñ_ | _&ast;ŋ_ | _&ast;w_ | _&ast;y_ | _&ast;l_ | _&ast;q_ | _&ast;R_ |
+| Ross  | _&ast;m_ | _&ast;mʷ_       | _&ast;n_ | _&ast;ñ_ | _&ast;ŋ_ | _&ast;w_ | _&ast;y_ | _&ast;l_ | _&ast;q_ | _&ast;R_ |
+
+|       |      |      |      |      |      |
+|:------|:-----|:-----|:-----|:-----|:-----|
+| Grace | _&ast;i_ | _&ast;o_ | _&ast;e_ | _&ast;a_ | _&ast;u_ |
+| Ross  | _&ast;i_ | _&ast;o_ | _&ast;e_ | _&ast;a_ | _&ast;u_ |
 
 
 <a id="p-17"></a>
@@ -311,38 +317,38 @@ Each of the contributions to these volumes concerns a particular POc 'terminolog
 
 The reconstruction of POc _&ast;kayu_ 'tree' below, adapted from [Chapter 3, §4.2](../contributions/3-3#s-4-2), shows how reconstructions and supporting cognate sets are presented. Above it is Dempwolff's earlier superordinate (PMP) reconstruction. Below it are supporting reflexes. Contributors vary in the degree to which they insert lower-order reconstructions like PPn _&ast;kau_ below. Lower-order reconstructions are sometimes given to clarify the relationship of reflexes to the higher-order reconstruction: Southern Vanuatu languages, for example, have undergone so much phonological change that a Proto Southern Vanuatu reconstruction helps explicate the relationship between Southern Vanuatu reflexes and the POc reconstruction. In the set below the Proto Polynesian (PPn) reconstruction shows an extension in its meaning.
 
-|                   |        |                                                                                                                                                         |
-|:------------------|:-------|:--------------------------------------------------------------------------------------------------------------------------------------------------------|
-| PMP               | &ast;kayu  | 'tree, wood, timber' ([Dempwolff 1938](../sources/Dempwolff1938))                                                                                                                   |
-| POc               | &ast;kayu  | 'tree or shrub: generic name for plants with woody stems and branches, probably not including palms or tree-ferns; wood, stick'                         |
-| Adm: Loniu        | ke     | 'tree, wood'                                                                                                                                            |
-| Adm: Titan        | kei    | 'firewood'                                                                                                                                              |
-| NNG: Lukep (Pono) | kai    | 'tree, wood'                                                                                                                                            |
-| NNG: Takia        | ai     | 'tree (generic), wood, firewood, plant'                                                                                                                 |
-| PT:    Iduna      | ai     | 'tree, plant, wood, fire, light'                                                                                                                        |
-| PT:    Motu       | au     | 'tree, firewood'                                                                                                                                        |
-| MM: Patpatar      | ai-    | 'tree species, followed by name of species'                                                                                                             |
-| MM: Mono          | au     | 'tree'                                                                                                                                                  |
-| SES: Bugotu       | yai-   | 'tree, shaft of spear'                                                                                                                                  |
-| SES: Kwaio        | ʔai    | 'branch, tree, stick; woody plant (shrub, tree)'                                                                                                        |
-| NCV: NE Ambae     | kai    | 'tree, wood'                                                                                                                                            |
-| NCV: Nguna        | na-kau | 'tree'                                                                                                                                                  |
-| SV:    Anejom     | in-ɣai | 'tree, wood, often used for relatively small bushes'                                                                                                    |
-| NCal: Xaracuu     | kʷãã   | 'wood, tree (general term)'                                                                                                                             |
-| Mic: Kiribati     | kai    | 'wood (in general), tree, plant, stick'                                                                                                                 |
-| Mic: Ulithian     | -xᴂy   | 'counting classifier for trees'                                                                                                                         |
-| Fij:   Kadavu     | kaðu   | 'tree, piece of wood, stick'                                                                                                                            |
-| Fij:   Wayan      | kai    | 'wood; generic for trees and shrubs, and occasionally also low bushy plants; used in certain compounds as generic for all plants; piece of wood, stick' |
-| PPn               | &ast;kau   | 'wood, timber, stalk, stem, handle" (POLLEX)                                                                                                            |
-| Pn:    Tongan     | kau    | 'stalk, stem'                                                                                                                                           |
-| Pn:    Hawaiian   | ʔau    | 'handle, staff, stem, bone of lower arm or leg'                                                                                                         |
+|                   |          |                                                                                                                                                         |
+|:------------------|:---------|:--------------------------------------------------------------------------------------------------------------------------------------------------------|
+| __PMP__           | _&ast;kayu_  | 'tree, wood, timber' ([Dempwolff 1938](../sources/Dempwolff1938))                                                                                                                   |
+| __POc__           | _&ast;kayu_  | 'tree or shrub: generic name for plants with woody stems and branches, probably not including palms or tree-ferns; wood, stick'                         |
+| Adm: Loniu        | _ke_     | 'tree, wood'                                                                                                                                            |
+| Adm: Titan        | _kei_    | 'firewood'                                                                                                                                              |
+| NNG: Lukep (Pono) | _kai_    | 'tree, wood'                                                                                                                                            |
+| NNG: Takia        | _ai_     | 'tree (generic), wood, firewood, plant'                                                                                                                 |
+| PT:    Iduna      | _ai_     | 'tree, plant, wood, fire, light'                                                                                                                        |
+| PT:    Motu       | _au_     | 'tree, firewood'                                                                                                                                        |
+| MM: Patpatar      | _ai-_    | 'tree species, followed by name of species'                                                                                                             |
+| MM: Mono          | _au_     | 'tree'                                                                                                                                                  |
+| SES: Bugotu       | _yai-_   | 'tree, shaft of spear'                                                                                                                                  |
+| SES: Kwaio        | _ʔai_    | 'branch, tree, stick; woody plant (shrub, tree)'                                                                                                        |
+| NCV: NE Ambae     | _kai_    | 'tree, wood'                                                                                                                                            |
+| NCV: Nguna        | _na-kau_ | 'tree'                                                                                                                                                  |
+| SV:    Anejom     | _in-ɣai_ | 'tree, wood, often used for relatively small bushes'                                                                                                    |
+| NCal: Xaracuu     | _kʷãã_   | 'wood, tree (general term)'                                                                                                                             |
+| Mic: Kiribati     | _kai_    | 'wood (in general), tree, plant, stick'                                                                                                                 |
+| Mic: Ulithian     | _-xᴂy_   | 'counting classifier for trees'                                                                                                                         |
+| Fij:   Kadavu     | _kaðu_   | 'tree, piece of wood, stick'                                                                                                                            |
+| Fij:   Wayan      | _kai_    | 'wood; generic for trees and shrubs, and occasionally also low bushy plants; used in certain compounds as generic for all plants; piece of wood, stick' |
+| __PPn__           | _&ast;kau_   | 'wood, timber, stalk, stem, handle" (POLLEX)                                                                                                            |
+| Pn:    Tongan     | _kau_    | 'stalk, stem'                                                                                                                                           |
+| Pn:    Hawaiian   | _ʔau_    | 'handle, staff, stem, bone of lower arm or leg'                                                                                                         |
 
 
 <a id="p-18"></a>
 
 Because our supporting data are drawn from such a wide range of languages, the convention is adopted of prefixing each language name with the abbreviation for the genealogical or geographic group to which the language belongs, so that the distribution of a cognate set is more immediately obvious. Table 1.3 is a key to the labels. Figure [§ 1.2](../contributions/3-1#s-1-2) shows the positions of these groups in the Oceanic tree. We have sought to be consistent in always listing these groups in the same order, but contributors vary in the ordering of languages within groups.
 
-Lynch's recent research on Southern Oceanic ([§3 .2.4](../contributions/3-1#s-3-2-4)) renders the NCV group mildly anomalous, although there is no doubt that it is an integrated dialect network. There are a number of etyma whose reflexes are confined to North and Central Vanuatu, and so we continue to make 'Proto North/Central Vanuatu' reconstructions, even though these perhaps represent a Southern Oceanic term that has been lost in southern Vanuatu and New Caledonia. Where the distribution of reflexes requires it, the chapters in this volume include reconstructions for Proto Remote Oceanic and for PSOc. Etyma with these distributions were attributed to PEOc in volumes 1 and 2, but the distributions are transparent, thanks to the presence of the group labels in cognate sets.
+Lynch's recent research on Southern Oceanic ([§3.2.4](../contributions/3-1#s-3-2-4)) renders the NCV group mildly anomalous, although there is no doubt that it is an integrated dialect network. There are a number of etyma whose reflexes are confined to North and Central Vanuatu, and so we continue to make 'Proto North/Central Vanuatu' reconstructions, even though these perhaps represent a Southern Oceanic term that has been lost in southern Vanuatu and New Caledonia. Where the distribution of reflexes requires it, the chapters in this volume include reconstructions for Proto Remote Oceanic and for PSOc. Etyma with these distributions were attributed to PEOc in volumes 1 and 2, but the distributions are transparent, thanks to the presence of the group labels in cognate sets.
 
 In the interests of space we have not given the history of the reconstructions themselves, as this would often require commentary on the modifications made by others and by us, and on why we have made them. Where a reconstruction is not new, we have tried to give its earliest source, e.g. '[Dempwolff 1938](../sources/Dempwolff1938)' above, but this is difficult when earlier reconstructions differ in form and meaning.
 
@@ -418,7 +424,7 @@ Other superscripts and diacritics are as follows:
 - apicolabials are represented by the corresponding apical symbol and the linguolabial diacritic (the 'seagull' ), e.g. _tᫀ_;
 - retroflexes are represented by the corresponding apical symbol with a dot beneath, e.g. _ṛ_.
 
-Except for inflexional morphemes, non-cognate portions of reflexes, i.e. derivational morphemes and non-cognate parts of compounds, are shown in parentheses ( … ). Where an inflexional morpheme is an affix or clitic and can readily be omitted, its omission is indicated by a hyphen at the beginning or end of the base. This applies particularly to possessor suffixes on directly possessed nouns ([vol.1, ch.2, §3.2](../contributions/1-2#s-3-2)). Where an inflexional morpheme cannot readily be omitted, then it is separated from its base by a hyphen. This may happen because of complicated morphophonemics or because the morpheme is always present, like the adjectival _-n_ in some NNG and Admiralties languages and prefixed reflexes of the POc article _&ast;na_ in scattered languages. When a reflex is itself polymorphemic (i.e. the morphemes reflect morphemes present in the reconstructed etymon) or contains a reduplication, the morphemes or reduplicates are also separated by a hyphen.
+Except for inflexional morphemes, non-cognate portions of reflexes, i.e. derivational morphemes and non-cognate parts of compounds, are shown in parentheses (…). Where an inflexional morpheme is an affix or clitic and can readily be omitted, its omission is indicated by a hyphen at the beginning or end of the base. This applies particularly to possessor suffixes on directly possessed nouns ([vol.1, ch.2, §3.2](../contributions/1-2#s-3-2)). Where an inflexional morpheme cannot readily be omitted, then it is separated from its base by a hyphen. This may happen because of complicated morphophonemics or because the morpheme is always present, like the adjectival _-n_ in some NNG and Admiralties languages and prefixed reflexes of the POc article _&ast;na_ in scattered languages. When a reflex is itself polymorphemic (i.e. the morphemes reflect morphemes present in the reconstructed etymon) or contains a reduplication, the morphemes or reduplicates are also separated by a hyphen.
 
 Languages from which data are cited in this volume are listed in Appendix B in their subgroups, together with an index allowing the reader to find the subgroup to which a given language belongs. Appendix B also includes alternative language names. The difficulty of deciding where the borderline between dialect and language lies, combined with the fact that these volumes contain work by a number of contributors, has resulted in some inconsistency in the naming of dialects in the cognate sets (cf the cognate set supporting POc _&ast;kayu_ on [ch.3, §4.2](../contributions/3-3#s-4-2)). Some occur in the form 'Kara (E)', i.e. the East dialect of the Kara language, or 'Lukep (Pono)', i.e. the Pono dialect of the Lukep language, whilst others are represented simply by the dialect name, e.g. Iduna, noted in Appendix B as 'Iduna (= dialect of Bwaidoga)' .
 
@@ -451,7 +457,7 @@ PMP final consonants are usually retained in POc. However, it happens fairly oft
 
 In presenting words that display anomalies of form, it is often necessary to posit an expected form. For example, in [ch.2, §5](../contributions/3-2#s-5), the Gela form ao is presented in support of PEOc _&ast;wao_ 'forest'. Given the reconstruction, however, we would expect the Gela form to be _wao_. In this volume we use a less widely employed convention and mark expected forms with a dagger, e.g. †_wao_, to distinguish them both from reconstructions and real data.[^23]
 
-There are occasions on which we need to posit a hypothetical form in a reconstructed protolanguage. In such cases the dagger and asterisk conventions are used together. For example in [ch.4, §2.4](../contributions/3-4#s-2-4), POc _&ast;lali(c,t)_ 'buttress roots' is reconstructed. This is a reflex of PMP _&ast;dalij_, but the first consonant has undergone assimilation to the second in POc: the expected (but unattested) POc form would be _†&ast;ralic_.
+There are occasions on which we need to posit a hypothetical form in a reconstructed protolanguage. In such cases the dagger and asterisk conventions are used together. For example in [ch.4, §2.4](../contributions/3-4#s-2-4), POc _&ast;lali(c,t)_ 'buttress roots' is reconstructed. This is a reflex of PMP _&ast;dalij_, but the first consonant has undergone assimilation to the second in POc: the expected (but unattested) POc form would be †_&ast;ralic_.
 
 When historical linguists compile cognate sets they commonly retain word for word the glosses given in the sources from which the items are taken. However, again in the interests of standardisation, we have often reworded (and sometimes abbreviated) the glosses of our sources, while preserving the meaning. Where glosses were in a language other than English we have translated them. In the interests of space and legibility, and because data often have multiple sources, we have given the source of a reflex only when it is not included in the listings in Appendix A.
 

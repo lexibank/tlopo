@@ -643,9 +643,9 @@ widely reflected items in which it is reconstructed. Reflexes which signal its p
 
 __block__
 a) velarised bilabials (usually _pʷ_) in contexts where they do not reflect _*bʷ_;
-   see _*pʷaraq_, _*pʷararaq_ 'thunder', _*pʷatik_ 'potato yam, aerial yam, Dioscorea bulbifera', _*ku(p,pʷ)ena_ 'fishing net';
+   see _*pʷaraq_, _*pʷararaq_ 'thunder', _*pʷatik_ 'potato yam, aerial yam, _Dioscorea bulbifera_', _*ku(p,pʷ)ena_ 'fishing net';
 b) apparent fortis reflexes of _*p_ in Western Oceanic and SES languages in environments where a lenis reflex is usually found;
-   see _*(p,pʷ)ilak_ 'lightning', _*pʷaraq_, _*pʷararaq_ 'thunder', _*pʷatik_ 'potato yam, aerial yam, Dioscorea bulbifera', _*pʷita_ 'snare; to snare', _*(p,pʷ)aRaRa_ 'handle';
+   see _*(p,pʷ)ilak_ 'lightning', _*pʷaraq_, _*pʷararaq_ 'thunder', _*pʷatik_ 'potato yam, aerial yam, _Dioscorea bulbifera_', _*pʷita_ 'snare; to snare', _*(p,pʷ)aRaRa_ 'handle';
 c) apparent reflexes of _*b_ or _*bʷ_ in Polynesian or Nuclear Micronesian (and occasionally other) languages;
    see _*la(p,pʷ)a(r,R)_ 'lightning, phosphorescence', _*pʷaraq_, _*pʷararaq_ 'thunder', _*ku(p,pʷ)ena_ 'fishing net', _*(p,pʷ)aRaRa_ 'handle'.
 
@@ -2476,7 +2476,7 @@ POc *qatop 'thatch, roof'
 
    Dutton (1994) has reviewed in detail cognate sets referring to sago palms (PMP _*Rambia_
 or _*rumbia_) and their uses. Ethnographic descriptions show that, where available, the leaves
-of sago palms (esp. Metroxylon spp.) are preferred by Austronesian speakers as roofing
+of sago palms (esp. _Metroxylon_ spp.) are preferred by Austronesian speakers as roofing
 materials, several leaves being sewn together before being lashed to the ridge-pole and stringers.
 However, we suggest that 'thatch of sago palm leaves' is too narrow a gloss for PMP _*qatep_
 and POc _*qatop_. Leaves of other palms (e.g. coconut, nipa) and grass are also widely used as
@@ -4247,7 +4247,7 @@ PMP *paRada 'axe-adze handle' (Blust 1989)
 POc *(p,pʷ)aRara 'handle' (Milke 1968: _*paRaRa_)
   NNG: Lukep (Pono)   parere            'handle: used of axe, hammer; not of machete, shovel'
   NNG: Gedaged        paȴaȴ             'handle (of broom, hammer, but not of cups +)'
-  NNG: Takia          parar             'handle, a curved shaped handle used in the construction of several Takia cutting tools. It is made from the makas tree (Pidgin) (Hibiscus tiliaceus). They heat the handle over a fire in order to shape it.'
+  NNG: Takia          parar             'handle, a curved shaped handle used in the construction of several Takia cutting tools. It is made from the makas tree (Pidgin) (_Hibiscus tiliaceus_). They heat the handle over a fire in order to shape it.'
   PT:  Motu           parara            'handle'
   MM:  Roviana        varara            'wooden handle (of axe +)'
   SES: Gela           valala            'handle; cross handle of an adze'
@@ -4503,11 +4503,11 @@ abrasive.
 4.5.1 Bark-cloth (_tapa_)
 
    The material used to make bark-cloth or tapa in the Pacific area is obtained mainly from
-various species of trees belonging to the genera Broussonetia, Artocarpus, and Ficus, all of
+various species of trees belonging to the genera Broussonetia, Artocarpus, and _Ficus_, all of
 which belong to the family Moraceae. Wherever _tapa_ was made, the Broussonetia papyrijera
 or paper mulberry tree was used for the highest quality cloth. It is not native to the Pacific,
 but to eastern Asia, whence migrants carried it to Indonesia and the Pacific. The only other
-significant source is the Pipturus species, used for _tapa_ particularly in Hawaii (Kooijman 1972: 1).
+significant source is the _Pipturus_ species, used for _tapa_ particularly in Hawaii (Kooijman 1972: 1).
 
 96 Meredith Osmond and Malcolm Ross
 
@@ -4523,7 +4523,7 @@ is a prestigious valuable. In parts of New Britain it was used to bind the heads
 babies to achieve the desired elongated skull shape (Ann Chowning, pers.comm.). Kooijman
 (pp.446-453) points out that the descriptions of the manufacture of New Guinea bark-cloth
 and the study of the museum material indicate that, as a rule, this _tapa_ is relatively thick and
-stiff and made from Ficus and Artocarpus varieties, rather than from Broussonetia. He
+stiff and made from _Ficus_ and Artocarpus varieties, rather than from Broussonetia. He
 believes that the latter was probably not used for _tapa_ cloth in New Guinea. He records little
 mention of bark-cloth use in Micronesia, other than the wearing of _tapa_ ponchos in Ponape.
 Yen (1973:83), in his examination of the origins of Oceanic agriculture, describes the cultivation
@@ -4536,7 +4536,7 @@ Figure 12: POc _*ike_ 'tapa beater'
    Although terms can be located in WOc, none are cognate, and no POc term is reconstructable,
 apart from terms for the sources of raw material, POc _*(m,mʷ)ase_ 'wild mulberry, paper
 mulberry, 'Broussonetia papyrijera' POc _*kuluR_ 'breadfruit, Artocarpus' (from PAn _*kuluR_)
-and POc _*nunu(k)_ (from PMP _*nunuk_ 'banyan, Ficus spp.') (see Plants, vol. 3).
+and POc _*nunu(k)_ (from PMP _*nunuk_ 'banyan, _Ficus_ spp.') (see Plants, vol. 3).
 
   The term _tapa_, now virtually the generic term for bark-cloth, can be reconstructed for
 PCP.
@@ -4815,7 +4815,7 @@ as well as the Admiralties. In the east Oceanic region tattooing is widespread. 
 most extensively and reached its highest artistic development in Polynesia. A needle of bat or
 bird bone was tapped repetitively with a mallet, and a dye, probably of vegetable origin,
 rubbed into the punctured area. (Maoris used a dye made from the oily smoke of burning nut
-kernels. In Bellona the sap of the _ŋieemuŋii_ tree - Canarium herveyii - was collected, allowed
+kernels. In Bellona the sap of the _ŋieemuŋii_ tree - _Canarium_ herveyii - was collected, allowed
 to set, burnt and the carbon collected and scraped into a black powder (Tickle 1977: 11)). A
 group of Samoic Outliers (Anuta, Luangiua, Takuu, Tikopia) use reflexes of PPn _*matau_
 'axe' to refer to their tattooing chisel.
@@ -5067,7 +5067,7 @@ dancing sticks, a stringed bow and rattles made from seed pods or strings of she
 
 <
 PMP *tambuRi(q) 'conch shell trumpet' (ACD)
-POc *tapuRi(q) 'triton shell: Charonia tritonis, used as trumpet'
+POc *tapuRi(q) 'triton shell: _Charonia tritonis_, used as trumpet'
   Adm: Mussau             taue            'triton shell'
   NNG: Takia              taur, taul      'conch shell hom (used for sending messages)'
   NNG: Manam              tauru           'conch shell; used as a hom for calling village meetings with the councillor'
@@ -5485,8 +5485,8 @@ plant cover.
 
     There is broad general agreement that the Austronesian-speaking people who first ventured
 into Melanesia practised a swidden style of gardening, centred on the cultivation of tubers,
-particularly taro (Colocasia esculenta) in the wetter areas and various varieties of yam
-(Dioscorea) in the drier regions (Brookfield & Hart 1971, Yen 1973). Some of their practices,
+particularly taro (_Colocasia esculenta_) in the wetter areas and various varieties of yam
+(_Dioscorea_) in the drier regions (Brookfield & Hart 1971, Yen 1973). Some of their practices,
 however, may have been adopted from Papuan speakers who had practised agriculture in
 New Guinea for millennia before Austronesian speakers arrived. Brookfield and Hart (1971)
 made an exhaustive survey of forty-four places, fourteen of which are Austronesian
@@ -6040,8 +6040,8 @@ yam) and taro, the latter being grown in a separate plot.
 |     a yam garden, and the clearing for taro.
 
      In a description of traditional gardens on Manus Island in the Admiralties, McEldowney (1995:98) 
-describes the yams Dioscorea esculenta (_suwe_) and D. alata (_meyen_) as completely
-dominating, with only limited amounts of taro (Colocasia esculenta) sometimes found along
+describes the yams _Dioscorea esculenta_ (_suwe_) and _Dioscorea alata_ (_meyen_) as completely
+dominating, with only limited amounts of taro (_Colocasia esculenta_) sometimes found along
 the boundary walls of the garden.
 
     Food plants other than tubers would require little labour. The most significant are breadfruit
@@ -6062,10 +6062,10 @@ peoples:
 |   of the eastern and northern Pacific. Archaeological evidence for a well-developed arboriculture
 |   at least 3,500 years ago comes from the Mussau Islands, north of New Ireland (Kirch 1989).
 |   Arboreal species existing at this considerable time depth included: coconut, two or three
-|   species of Pandanus, Inocarpus fagifer (the 'Tahitian chestnut', which remains one of the
-|   most important Oceanic arboricultural species), Canarium indicum (a nutritionally substantial
-|   'almond'-producing tree in Melanesia), Spondias dulcis (the vi-apple, now of very wide
-|   distribution in the tropical Pacific), Pometia, Pangium, Terminalia, Burckella, Calophyllum,
+|   species of _Pandanus_, _Inocarpus fagifer_ (the 'Tahitian chestnut', which remains one of the
+|   most important Oceanic arboricultural species), _Canarium indicum_ (a nutritionally substantial
+|   'almond'-producing tree in Melanesia), _Spondias dulcis_ (the vi-apple, now of very wide
+|   distribution in the tropical Pacific), Pometia, Pangium, _Terminalia_, _Burckella_, _Calophyllum_,
 |   and others, including hardwood trees widely prized for woodworking.
 
 
@@ -6073,7 +6073,7 @@ peoples:
 
 
    We have reconstructions going back at least as far as PMP for two kinds of taro 
-(Colocasia esculenta and Alocasia macrorrhiza), the greater yam, bananas, breadfruit and sago. Other
+(_Colocasia esculenta_ and _Alocasia macrorrhiza_), the greater yam, bananas, breadfruit and sago. Other
 food plants, such as sugar cane, may have been indigenous to New Guinea. The sweet potato
 is of South American origin, and was probably introduced into New Guinea-north-west
 Melanesia after AD 1550, though it was introduced into Polynesia in pre-contact times (Yen 1973).
@@ -6083,35 +6083,35 @@ and related food plants":
 
 __table__
 __taro__ | |
-POc | _*talo(s)_  | 'taro, Colocasia esculenta'
+POc | _*talo(s)_  | 'taro, _Colocasia esculenta_'
 POc | _*mʷapo(q)_ | 'taro'
-POc | _*piRaq_    | 'giant taro, elephant ear taro, Alocasia macrorrhiza'
-POc | _*bulaka_   | 'swamp taro, Cyrtosperma chamissonis'
+POc | _*piRaq_    | 'giant taro, elephant ear taro, _Alocasia macrorrhiza_'
+POc | _*bulaka_   | 'swamp taro, _Cyrtosperma chamissonis_'
 POc | _*kamʷa_    | 'k.o. wild taro (?)'
 POc | _*(b,p)oso_ | 'k.o. taro'
 
 
 __table__
 __yams__ | |
-POc  | _*qupi_        | 'greater yam, Dioscorea alata ; also used as yam generic'
-POc  | _*pʷatik_      | 'potato yam, aerial yam, Dioscorea bulbifera'
+POc  | _*qupi_        | 'greater yam, _Dioscorea alata_ ; also used as yam generic'
+POc  | _*pʷatik_      | 'potato yam, aerial yam, _Dioscorea bulbifera_'
 POc  | (?) _*mamis_   | 'k.o. yam'
 POc  | _*mʷaruqen_    | 'k.o. yam: wild yam (??)'
 POc  | _*udu(r,R)_    | 'k.o. greater yam'
 POc  | _*pʷasepe_     | 'greater yam'
-PWOc | _*gobu_        | 'potato yam, Dioscorea bulbifera (?)'
-PWOc | _*(q,k)amisa_  | 'lesser yam, Dioscorea esculenta'
+PWOc | _*gobu_        | 'potato yam, _Dioscorea bulbifera_ (?)'
+PWOc | _*(q,k)amisa_  | 'lesser yam, _Dioscorea esculenta_'
 PEOc | _*damu_        | 'k.o. yam'
 
 
 __table__
-__coconut (Cocos nucifera)__ | |
+__coconut (_Cocos nucifera_)__ | |
 POc | _*niuR_  | 'ripe coconut; coconut (generic)'
 
 
 __table__
 __breadfruit (Artocarpus and Parartocarpus spp.)__ | |
-POc  | _*kuluR_  | 'breadfruit, Artocarpus altilis'
+POc  | _*kuluR_  | 'breadfruit, _Artocarpus altilis_'
 POc  | _*baReqo_ | 'breadfruit fruit (?)'
 POc  | _*beta_   | 'k.o. breadfruit'
 PEOc | _*ma(R)i_ | 'breadfruit'
@@ -6119,7 +6119,7 @@ PEOc | _*ma(R)i_ | 'breadfruit'
 
 __table__
 __bananas__ | |
-POc  | _*pudi_    | 'banana, Musa cultivars'
+POc  | _*pudi_    | 'banana, _Musa_ cultivars'
 POc  | _*joRaga_  | 'banana, A ustralimusa group'
 POc  | _*sakup_   | 'k.o. cooking banana'
 POc  | _*bʷera_   | 'banana type'
@@ -6130,8 +6130,8 @@ PWOc | _*bʷatiq_  | 'k.o. banana'
 
 __table__
 __sugarcane__ | |
-POc  | _*topu_  | 'sugarcane, Saccharum officinarum '
-POc  | _*pijo_  | 'k.o. edible wild cane or reed, possibly Saccharum spontaneum'
+POc  | _*topu_  | 'sugarcane, _Saccharum officinarum_ '
+POc  | _*pijo_  | 'k.o. edible wild cane or reed, possibly _Saccharum spontaneum_'
 
 
 128 Meredith Osmond
@@ -6140,12 +6140,12 @@ POc  | _*pijo_  | 'k.o. edible wild cane or reed, possibly Saccharum spontaneum'
 
 __table__
 __sago__ | |
-POc  | _*Rabia_ | 'sago, Metroxylon spp.'
+POc  | _*Rabia_ | 'sago, _Metroxylon_ spp.'
 
 
 __table__
 __greens__ | |
-POc  | _*bele_ | 'shrub species, Abelmoschus manihot (syn. Hibiscus manihot)'
+POc  | _*bele_ | 'shrub species, _Abelmoschus manihot_ (syn. _Hibiscus manihot_)'
 
 No doubt a variety of green leaves were eaten but other reconstructions (e.g. _*kusa(q)_) do
 not permit a definition more precise than 'k.o. edible greens'.
@@ -6154,36 +6154,36 @@ not permit a definition more precise than 'k.o. edible greens'.
 __table__
 __other fruit trees__ | |
 POc  | _*wai_, _*waiwai_ | 'mango (generic)'
-POc  | _*pau(q)_       | 'mango, probably Mangifera indica '[6]
-POc  | _*koRa_         | 'wild mango, Mangifera minor'
-POc  | _*quRis_        | 'Polynesian plum, hog plum, Tahitian apple, golden apple, Spondias Cytherea (syn. Spondias dulcis)'
+POc  | _*pau(q)_       | 'mango, probably _Mangifera indica_ '[6]
+POc  | _*koRa_         | 'wild mango, _Mangifera_ minor'
+POc  | _*quRis_        | 'Polynesian plum, hog plum, Tahitian apple, golden apple, Spondias Cytherea (syn. _Spondias dulcis_)'
 POc  | _*molis_        | 'citrus fruit or citrus-like fruit'
 POc  | _*kapika_       | 'Malay apple and rose apple, Eugenia spp.'
-POc  | _*tawan_        | 'Pometia pinnata'
-POc  | _*natu(q)_      | 'k.o. tree with avocado-like fruit and hard wood, Burckella obovata'
+POc  | _*tawan_        | '_Pometia pinnata_'
+POc  | _*natu(q)_      | 'k.o. tree with avocado-like fruit and hard wood, _Burckella obovata_'
 
 
 __table__
 __nut trees__ | |
-POc  | _*raqu(p)_  | 'New Guinea walnut, Dracontomelon dao' (syn. D. mangiferum, D. edule)
-POc  | _*(w,v)ele_ | 'cut nut, Barringtonia sp.'
-POc  | _*[ka]ŋaRi_ | 'canarium almond, Canarium spp.'
-POc  | _*qalip_    | 'canarium almond, Canarium sp.'
-POc  | _*talise_   | 'Java almond, Indian almond, Terminalia catappa'
-POc  | _*qipi_     | 'Tahitian chestnut, Pacific chestnut, Inocarpus fagifer' (syn. Inocarpus edulis).'
+POc  | _*raqu(p)_  | 'New Guinea walnut, _Dracontomelon dao_' (syn. _Dracontomelon mangiferum_, _Dracontomelon edule_)
+POc  | _*(w,v)ele_ | 'cut nut, _Barringtonia_ sp.'
+POc  | _*[ka]ŋaRi_ | 'canarium almond, _Canarium_ spp.'
+POc  | _*qalip_    | 'canarium almond, _Canarium_ sp.'
+POc  | _*talise_   | 'Java almond, Indian almond, _Terminalia catappa_'
+POc  | _*qipi_     | 'Tahitian chestnut, Pacific chestnut, _Inocarpus fagifer_' (syn. _Inocarpus edulis_).'
 
 No garden is complete or likely to succeed without an abundance of colourful and aromatic
 herbs and shrubs. In addition to their ornamental qualities, these herbs and shrubs play a
 major role in various forms of garden magic and ritual. Reconstructions for two such are
-_*laqia_ 'ginger, Zingiber officinale', whose role is magical rather than culinary, and _*yaŋo_
-'turmeric, Curcuma longa', which has both an edible root and a rich orange pigment, of
+_*laqia_ 'ginger, _Zingiber_ officinale', whose role is magical rather than culinary, and _*yaŋo_
+'turmeric, _Curcuma longa_', which has both an edible root and a rich orange pigment, of
 ritual significance in many Oceanic societies.
 
 
 [6]  Ross (1996d:210) warns that we cannot be completely sure of the original POc referents of _*pau(q)_ and
   _*wai_. Although both terms are reconstructable to PMP, their referents have apparently undergone some
-  switching, with the sweet-tasting Mangifera indica being introduced from Asia at a date probably well
-  after the break-up of POc, to supplement the indigenous Mangifera minor and Mangifera foetida varieties.
+  switching, with the sweet-tasting _Mangifera indica_ being introduced from Asia at a date probably well
+  after the break-up of POc, to supplement the indigenous _Mangifera_ minor and _Mangifera_ foetida varieties.
 
 
                                                                Horticultural practices       129
@@ -6298,8 +6298,8 @@ PWOc *kapul 'seed yam' [7]
     PT:     Misima            ka-kaəun
     PT:     Kilivila          kaula               'yam'
     MM:     Tiang             ko                  'lesser yam'
-    MM:     Kara (East)       ko-kau              'lesser yam, Dioscorea esculenta'
-    MM:     Patpatar          kau-kau             'lesser yam, Dioscorea esculenta'
+    MM:     Kara (East)       ko-kau              'lesser yam, _Dioscorea esculenta_'
+    MM:     Patpatar          kau-kau             'lesser yam, _Dioscorea esculenta_'
     MM:     Nehan             ko-ko               'yam'
 >
 
@@ -6312,7 +6312,7 @@ Ross suggests that this can probably be combined with the cognate set below.
 
 <
 PNGOc *(k,kʷ)apii 'k.o. yam'
-    NNG: Tami                 kʷapil              'k.o. yam, Dioscorea vulg.'
+    NNG: Tami                 kʷapil              'k.o. yam, _Dioscorea_ vulg.'
     NNG: Numbami              kowila              'greater yam'
     NNG: Yabem                kili                'greater yam'
     NNG: Mapos Buang          ker                 'yam'
@@ -6465,7 +6465,7 @@ which we have POc reconstructions are propagated by planting parts of the plant 
 its seeds. Secondly, are we overlooking the existence of plants that are cultivated from seed
 but are seldom recorded in word lists, perhaps being of minor importance in the diet, or
 subsumed under a more generalised term such as 'greens'. One such plant may be an
-Amaranthus (Amaranthus tricolor), recorded as an indigenous food plant by Quiros on his
+_Amaranthus_ (_Amaranthus tricolor_), recorded as an indigenous food plant by Quiros on his
 visits to Santa Cruz and Espiritu Santo at the beginning of the seventeenth century 
 (Markham 1904:50). Another pre-European plant in New Guinea whose leaves are eaten is a nasturtium
 species found in the lowlands (Nasturtium hybospermum). It is a widespread practice today
@@ -6748,7 +6748,7 @@ and concluded that:
 |      technology, [which proposes] a direct transfer or diffusion from Southeast Asia via the
 |      migrations of Austronesian-speaking peoples. Rather, all of the evidence suggests that there
 |      have been multiple local sequences of innovation and development of complex irrigation or
-|      swamp drainage technology, or both, for Colocasia taro cultivation within eastern Melanesia
+|      swamp drainage technology, or both, for _Colocasia_ taro cultivation within eastern Melanesia
 |      and Polynesia.
 
     Working from our own linguistic sources, which include possibly more data from Western
@@ -6872,10 +6872,10 @@ Kirch (1997: 203-205) writes:
 |   fibrous husks, and wood. Soft, fleshy materials such as tubers or the soft flesh of fruits have
 |   not survived.
 
-Among the food plants identified from archaeological sites are Canarium almond (Canarium indicum), 
-Indian almond (Terminalia catappa), the New Guinea walnut (Dracontomelon dao), 
-Pometia pinnata, Burckella obovata, Tahitian chestnut (Inocarpus fagiferus) and
-vi-apple (Spondias dulcis) (Kirch 1997: 206-207).
+Among the food plants identified from archaeological sites are _Canarium_ almond (_Canarium indicum_), 
+Indian almond (_Terminalia catappa_), the New Guinea walnut (_Dracontomelon dao_), 
+_Pometia pinnata_, _Burckella obovata_, Tahitian chestnut (_Inocarpus fagifer_us) and
+vi-apple (_Spondias dulcis_) (Kirch 1997: 206-207).
 
    The second source of evidence, modification of the landscape, supports the POc horticultural
 practice of swidden cultivation. Spriggs (1997a:85-86) describes the dramatic change in land
@@ -7788,7 +7788,7 @@ PWOc *walu 'sago beater' (Chowning 1991)
 
    Sago is pounded with an implement consisting of a head like a small adze, mounted on a
 long handle (Ann Chowning pers.comm.). Smaller wooden pestles are used for mashing
-foodstuffs like taro, banana and breadfruit, and for crushing nuts, particularly galip (Canarium)
+foodstuffs like taro, banana and breadfruit, and for crushing nuts, particularly galip (_Canarium_)
 and betel (Areca) nuts. Sometimes stones are used, or wooden pestles with stone heads.
 Lithgow lists Muyuw (PT) _kilakil_ 'stone-headed sago pounder', and Chowning (pers.comm.)
 records a Nakanai (MM) term _mulumu_ 'pestle of wood or bone used for crushing almonds or
@@ -9046,7 +9046,7 @@ the break-up of PAn and PMP. Although Blust (1976b) has pointed to comparisons b
 Formosan and WMP forms suggesting that PAn speakers may have had a knowledge of
 metal tools, it is likely that this knowledge spread after the break-up of PAn and PMP.
 
-[11]  The fruit of the putty nut (Parinarium laurinum) is widely used to caulk or stop a vessel.
+[11]  The fruit of the putty nut (_Parinari_um laurinum) is widely used to caulk or stop a vessel.
       In Proto Huon Gulf an identical term is reconstructable both for the nut and the glue that is
       made from it: Proto Huon Gulf _*jimiR_ 'putty nut, caulking substance' (Ross 1988:79);
       Tami _jim_ 'caulking substance'; Tuam _zimir_ 'caulk'; Numbami _dimil-a_ 'caulk'.
@@ -10638,8 +10638,8 @@ He describes various types of weirs, for example, _pa kiokio_ (roughly Z-shaped)
 8.7    Fish poison
 
 <
-PMP *tuba 'Derris fish poison' (Dempwolff 1938)
-POc *tupa 'Derris fish poison'
+PMP *tuba '_Derris_ fish poison' (Dempwolff 1938)
+POc *tupa '_Derris_ fish poison'
   NNG: Aria               tuva
   NNG: Kove               tuva
   PT:  Molima             tuva
@@ -10668,7 +10668,7 @@ From North New Guinea and New Ireland we have been able to reconstruct a lower-l
 term:
 
 <
-PWOc *(m,mʷ)ali 'Derris root'
+PWOc *(m,mʷ)ali '_Derris_ root'
   NNG: Gitua               (waro)mali(ŋ)
   MM:  Nalik               mal-mal
 >
@@ -10676,12 +10676,12 @@ PWOc *(m,mʷ)ali 'Derris root'
 ## FIXME:    PWOc _*(m,mʷ)ali_ (incorrectly given as _*maRi_ in vol. 1, ch.8, §7) is reconstructed on the basis of North New Guinea and Meso-Melanesian languages.
 
 
-The method of stunning fish by throwing pounded Derris root into pools is widespread, and
-the three terms seem to have identical reference, although Derris eliptica is not mentioned
+The method of stunning fish by throwing pounded _Derris_ root into pools is widespread, and
+the three terms seem to have identical reference, although _Derris_ eliptica is not mentioned
 specifically in relation to _*puna_. Describing the technique used by Sa'a speakers, a Southeast
 Solomons language, Ivens (1927 (reissued 1972):389) writes that:
 
-|   … fish in streams are poisoned by a preparation. The bark of the edible Barringtonia tree, the
+|   … fish in streams are poisoned by a preparation. The bark of the edible _Barringtonia_ tree, the
 |   one with red flowers, is stripped off and heated in the fire to bring out its bitter qualities. It is
 |   then beaten into shreds with stones in water and thrown into the place chosen. Along with it
 |   they use the grated nuts of the barringtonia speciosa [sic.], a littoral tree. A third ingredient is
@@ -10689,7 +10689,7 @@ Solomons language, Ivens (1927 (reissued 1972):389) writes that:
 
 The last ingredient is obviously a variant of _uha_, a reflex of POc _*tupa_.
 
-   The kernel of the fruit of Barringtonia asiatica (POc _*putun_) is used for poisoning water
+   The kernel of the fruit of _Barringtonia asiatica_ (POc _*putun_) is used for poisoning water
 in Samoa, while the Fijians use the outer portion of the same fruit (Blackwood 1935:354-355),
 but I have not been able to reconstruct a term for this.
 
@@ -11123,10 +11123,10 @@ years ago. (Eloaue is a low, flat, coral island south-east of the high island of
 |   Large quantities of shell midden occurred in the site … The three Oceanic domesticates, pig,
 |   dog and chicken, were present but only in small numbers. 95 per cent of the bone was of fish,
 |   mainly inshore species, and turtle. Present too in small quantities were porpoise, reptiles,
-|   birds, rats and also the phalanger Spilocuscus maculatus (p. 117).
+|   birds, rats and also the phalanger _Spilocuscus maculatus_ (p. 117).
 
     A similar range of fauna to Mussau's occurs in the Lapita sites in the Arawe Islands, off
-the south-west of New Britain, with the addition of a wallaby, Thylogale browni and the
+the south-west of New Britain, with the addition of a wallaby, _Thylogale browni_ and the
 flightless cassowary as introduced species (p. 120). A site on Watom, off the north-east tip of
 New Britain, adds bandicoot to the faunal repertoire (p. 124). Lapita sites from the Solomons
 provide little evidence, while the Reef-Santa Cruz Islands, next in line as one moves east,
@@ -11155,7 +11155,7 @@ canoes, in order to catch larger benthic species such as groupers. A few hooks a
 however, and could have been used for taking smaller species on reefs and along coastlines."
 (Kirch 1997: 200). Most hooks so far found are of Turbo, Trochus and pearlshell. Linguistic
 evidence supports clamshell and tortoiseshell. Presumably all of these were used, as well as
-the less durable coconut shell, bone and Pemphis acidula wood, which are in use today. Also
+the less durable coconut shell, bone and _Pemphis acidula_ wood, which are in use today. Also
 from Mussau sites come examples of carefully crafted lures made from Trochus shell. These
 trolling lures "are streamlined for hydrodynamic lift in the water, and have finely carved
 grooves for attaching both the line and hackles (probably feathers or pig bristles) near the

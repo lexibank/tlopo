@@ -2188,7 +2188,7 @@ Other descriptive terms also occur:
 <td>Gela</td>
 <td><i>rau ni lei     </i></td>
 <td>
-'<span>thin sickle of young moon, new moon</span>' (<span>‘blade of grass, Imperata cylindrica’</span>)</td>
+'<span>thin sickle of young moon, new moon</span>' (<span>‘blade of grass, <em>Imperata cylindrica</em>’</span>)</td>
 </tr>
 <tr>
 <td>SES</td>
@@ -2611,7 +2611,7 @@ The terms I have reconstructed above refer to wind directions and to seasons. A 
 </tr>
 </table>
 
-In [Ross](../sources/Ross1995c) ([1995c](../sources/Ross1995c)) I wrote, ‘There is … no doubt that POc had a separate (and widely reflected) word for year’, and followed it with the reconstruction of POc _&ast;taqun_ below. This statement stands, but with a qualification. The Buang, Tongan and East Futunan reflexes indicate that _&ast;taqun_ may have been used particularly to denote the yam-growing cycle. This would not be surprising: the greater yam, Dioscorea alata (POc _&ast;qupi_; [Ross 1996d](../sources/Ross1996d)) is a highly prized — but not especially nutritious — crop throughout much of Oceania, with much ritual associated with its growth cycle, and so it is a highly salient marker of a year. It is likely that that it already had the meaning ‘yam season cycle’ in POc times.
+In [Ross](../sources/Ross1995c) ([1995c](../sources/Ross1995c)) I wrote, ‘There is … no doubt that POc had a separate (and widely reflected) word for year’, and followed it with the reconstruction of POc _&ast;taqun_ below. This statement stands, but with a qualification. The Buang, Tongan and East Futunan reflexes indicate that _&ast;taqun_ may have been used particularly to denote the yam-growing cycle. This would not be surprising: the greater yam, _Dioscorea alata_ (POc _&ast;qupi_; [Ross 1996d](../sources/Ross1996d)) is a highly prized — but not especially nutritious — crop throughout much of Oceania, with much ritual associated with its growth cycle, and so it is a highly salient marker of a year. It is likely that that it already had the meaning ‘yam season cycle’ in POc times.
 
 <table id="2-9-2-4-319-POc-taqun-a">
 <tr>

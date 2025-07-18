@@ -87,7 +87,7 @@ As the migrants emerged from the lee of the cordillera onto the Huon Peninsula a
 
 <a id="table-3"> </a>
 
-: Table 3: Approximate summary of seasons in some Pacific locations
+: __Table 3__: Approximate summary of seasons in some Pacific locations
 
 |                                                         | Southern Hemisphere Winter                                                    | Southern Hemisphere Summer                                                |
 |:--------------------------------------------------------|:------------------------------------------------------------------------------|:--------------------------------------------------------------------------|

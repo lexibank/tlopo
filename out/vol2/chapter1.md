@@ -217,18 +217,24 @@ Table 1 shows two POc orthographies. The first was established by [Biggs](../sou
 
 <a id="table-1"> </a>
 
-: Table 1: POc orthographies
+: __Table 1__: POc orthographies
 
-|                                                                                                               |
-|:--------------------------------------------------------------------------------------------------------------|
-| Grace etc. oral grade          p          pw              t        d/r          s                  j        k |
-| nasal grade         mp       ŋp/mpw           nt       nd/nr                 nj                 ŋk            |
-| Ross         oral grade        p          pw             t         r            s                  c       k  |
-| nasal grade       b          bw             d         dr                   j                  g               |
-| Grace                m     ŋm/mw         n       ñ       ŋ    w         y   l       q          Ø       R      |
-| Ross                 m      mw           n       ñ       ŋ    w         y   l       q          Ø       R      |
-| Grace etc.           i     o        e        a       u                                                        |
-| Ross                 i     o        e        a       u                                                        |
+|            |             |      |            |      |           |     |      |     |      |
+|:-----------|:------------|:-----|:-----------|:-----|:----------|:----|:-----|:----|:-----|
+| Grace etc. | oral grade  | _p_  | _pw_       | _t_  | _d_/_r_   | _s_ |      | _j_ | _k_  |
+|            | nasal grade | _mp_ | _ŋp_/_mpw_ | _nt_ | _nd_/_nr_ |     | _nj_ |     | _ŋk_ |
+| Ross       | oral grade  | _p_  | _pʷ_       | _t_  | _r_       | _s_ |      | _c_ | _k_  |
+|            | nasal grade | _b_  | _bʷ_       | _d_  | _dr_      |     | _j_  |     | _g_  |
+
+|       |     |           |     |     |     |     |     |     |     |     |     |
+|:------|:----|:----------|:----|:----|:----|:----|:----|:----|:----|:----|:----|
+| Grace | _m_ | _ŋm_/_mw_ | _n_ | _ñ_ | _ŋ_ | _w_ | _y_ | _l_ | _q_ | _Ø_ | _R_ |
+| Ross  | _m_ | _mʷ_      | _n_ | _ñ_ | _ŋ_ | _w_ | _y_ | _l_ | _q_ | _Ø_ | _R_ |
+
+|            |     |     |     |     |     |
+|:-----------|:----|:----|:----|:----|:----|
+| Grace etc. | _i_ | _o_ | _e_ | _a_ | _u_ |
+| Ross       | _i_ | _o_ | _e_ | _a_ | _u_ |
 
 
 <a id="s-4"></a>
@@ -280,7 +286,7 @@ POc reconstructions, and also PWOc, PEOc and PNGOc reconstructions, are given in
 
 <a id="table-2"> </a>
 
-: Table 2: Bracketing and segmentation conventions in protoforms
+: __Table 2__: Bracketing and segmentation conventions in protoforms
 
 |        |                                                                      |
 |:-------|:---------------------------------------------------------------------|
