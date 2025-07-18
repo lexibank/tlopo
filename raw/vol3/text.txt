@@ -95,7 +95,7 @@ right, 5.4, 5.5, 5.8, 5.11 right, 6.4, 8.2, 13 .8, 13.10 right; J. Parham (1972)
  13.4 B (http://www.ntbg.org/), 13.2 (http://membres.lycos.fr/verdammi/), 13.4 C & D (http://www. nation-
 aalherbarium.nl/, drawn by Anna Walsmit Sachs), 13.5 (http://www.desert-tropicals. com/).
 One figure is from an internet source accessed in August 2008: 10.2 (http://www.tropilab.com/
-amaranth.htrnl).
+amaranth.html).
 
                                                                    Acknowledgments      xxv
 
@@ -744,19 +744,19 @@ to account for, irregularities in cognate sets.
 : Table 1.1       Reconstructed paradigm of POc phonemes
 
 __tablenh__
-                                   _*pʷ_    |  _*p_   |  _*t_     |    _*c_   |    _*k_  |  _*q_
-                                   _*bʷ_    |  _*b_   |  _*d_     |    _*j_   |    _*g_  |
-                                           |        |    _*s_     |          |          |
-                                   _*mʷ_    |  _*m_   |  _*n_     |    _*ñ_  |     _*ŋ_ |
-                                          |       |      _*r_     |         |        |  _*R_
-                                          |       |      _*dr_    |         |        |
-                                          |       |      _*l_     |         |        |
-                                   _*w_     |       |           |    _*y_   |        |
+     _*pʷ_    |  _*p_   |  _*t_     |    _*c_   |    _*k_  |  _*q_
+     _*bʷ_    |  _*b_   |  _*d_     |    _*j_   |    _*g_  |
+             |        |    _*s_     |          |          |
+     _*mʷ_    |  _*m_   |  _*n_     |    _*ñ_  |     _*ŋ_ |
+            |       |      _*r_     |         |        |  _*R_
+            |       |      _*dr_    |         |        |
+            |       |      _*l_     |         |        |
+     _*w_     |       |           |    _*y_   |        |
 
 __tablenh__
-                                            _*i_   |           |    _*u_
-                                            _*e_   |           |    _*o_
-                                                 |    _*a_     |
+   _*i_   |           |    _*u_
+   _*e_   |           |    _*o_
+        |    _*a_     |
 
 
 
@@ -779,14 +779,18 @@ changes that occurred between PMP and POc (vol.1, ch.2, §2.4).
 : Table 1.2      POc orthographies after Grace (1969) and Ross (1988)
 
 __tablenh__
-     Grace    oral grade      *p           *pw            *t          *d/ *r   *s          *j   *k
-     Ross                     *p           *pw            *t            *r     *s          *c   *k
-     Grace    nasal grade    *mp        *l)pl *mpw        *nt    *ndl *nr            *nj        *l)k
-     Ross                     *b             *bw          *d       *dr                *j         *g
-     Grace                    *m        *l)ml *mw         *n           *fi     *I)     *w       *y     *l   *q   *R
-     Ross                     *m           *mw            *n           *fi     *I)     *w       *y     *l   *q   *R
-     Grace                    *i           *o             *e           *a      *u
-     Ross                     *i           *o             *e           *a      *u
+ Grace  |  oral grade  |  _*p_  | _*pw_       |   _*t_  |  _*d_/_*r_ |  _*s_ |        | _*j_ |  _*k_
+ Ross   |              |  _*p_  | _*pʷ_       |   _*t_  |  _*r_      |  _*s_ |        | _*c_ |  _*k_
+ Grace  |  nasal grade |  _*mp_ | _*ŋp_/_*mpw_ | _*nt_  |  _*nd_/_*nr_      |     | _*nj_    |    |  _*ŋk_
+ Ross   |              |  _*b_  | _*bʷ_     |     _*d_  |  _*dr_     |     | _*j_  |    |  _*g_
+
+__tablenh__
+ Grace    | _*m_  | _*ŋm_/_*mw_ | _*n_  |  _*ñ_ | _*ŋ_  | _*w_  |  _*y_   |  _*l_ | _*q_  | _*R_
+ Ross     | _*m_  |   _*mʷ_     | _*n_  |  _*ñ_ | _*ŋ_  |  _*w_   |   _*y_ |    _*l_ |   _*q_ |  _*R_
+
+__tablenh__
+ Grace             |       _*i_   |        _*o_     |        _*e_    |       _*a_   |   _*u_
+ Ross              |       _*i_   |        _*o_     |        _*e_    |       _*a_   |   _*u_
 
                                                                              Introduction    17
 
@@ -811,29 +815,29 @@ relationship between Southern Vanuatu reflexes and the POc reconstruction. In th
 Proto Polynesian (PPn) reconstruction shows an extension in its meaning.
 
 __tablenh__
-PMP | *kayu | 'tree, wood, timber' (Dempwolff 1938)
-POc | *kayu | 'tree or shrub: generic name for plants with woody stems and branches, probably not including palms or tree-ferns; wood, stick'
-  Adm: Loniu        |     ke       |    'tree, wood'
-  Adm: Titan        |     kei      |    'firewood'
-  NNG: Lukep (Pono) | kai          |     'tree, wood'
-  NNG: Takia        |     ai       |    'tree (generic), wood, firewood, plant'
-  PT:    Iduna      |     ai       |    'tree, plant, wood, fire, light'
-  PT:    Motu       |     au       |    'tree, firewood'
-  MM: Patpatar      |     ai-      |    'tree species, followed by name of species'
-  MM: Mono          |     au       |    'tree'
-  SES: Bugotu       |     yai-     |    'tree, shaft of spear'
-  SES: Kwaio        |    ʔai       |   'branch, tree, stick; woody plant (shrub, tree)'
-  NCV: NE Ambae     |     kai      |    'tree, wood'
-  NCV: Nguna        |     na-kau   |    'tree'
-  SV:    Anejom     |     in-ɣai   |    'tree, wood, often used for relatively small bushes'
-  NCal: Xaracuu     |     kʷãã     |        'wood, tree (general term)'
-  Mic: Kiribati     |     kai      |    'wood (in general), tree, plant, stick'
-  Mic: Ulithian     |     -xᴂy     |   'counting classifier for trees'
-  Fij:   Kadavu     |     kaðu     |    'tree, piece of wood, stick'
-  Fij:   Wayan      |     kai      |    'wood; generic for trees and shrubs, and occasionally also low bushy plants; used in certain compounds as generic for all plants; piece of wood, stick'
-PPn | *kau | 'wood, timber, stalk, stem, handle" (POLLEX)
-  Pn:    Tongan      |    kau    |      'stalk, stem'
-  Pn:    Hawaiian    |   ʔau     |     'handle, staff, stem, bone of lower arm or leg'
+__PMP__ | _*kayu_ | 'tree, wood, timber' (Dempwolff 1938)
+__POc__ | _*kayu_ | 'tree or shrub: generic name for plants with woody stems and branches, probably not including palms or tree-ferns; wood, stick'
+  Adm: Loniu        |     _ke_       |    'tree, wood'
+  Adm: Titan        |     _kei_      |    'firewood'
+  NNG: Lukep (Pono) | _kai_          |     'tree, wood'
+  NNG: Takia        |     _ai_       |    'tree (generic), wood, firewood, plant'
+  PT:    Iduna      |     _ai_       |    'tree, plant, wood, fire, light'
+  PT:    Motu       |     _au_       |    'tree, firewood'
+  MM: Patpatar      |     _ai-_      |    'tree species, followed by name of species'
+  MM: Mono          |     _au_       |    'tree'
+  SES: Bugotu       |     _yai-_     |    'tree, shaft of spear'
+  SES: Kwaio        |    _ʔai_       |   'branch, tree, stick; woody plant (shrub, tree)'
+  NCV: NE Ambae     |     _kai_      |    'tree, wood'
+  NCV: Nguna        |     _na-kau_   |    'tree'
+  SV:    Anejom     |     _in-ɣai_   |    'tree, wood, often used for relatively small bushes'
+  NCal: Xaracuu     |     _kʷãã_     |        'wood, tree (general term)'
+  Mic: Kiribati     |     _kai_      |    'wood (in general), tree, plant, stick'
+  Mic: Ulithian     |     _-xᴂy_     |   'counting classifier for trees'
+  Fij:   Kadavu     |     _kaðu_     |    'tree, piece of wood, stick'
+  Fij:   Wayan      |     _kai_      |    'wood; generic for trees and shrubs, and occasionally also low bushy plants; used in certain compounds as generic for all plants; piece of wood, stick'
+__PPn__ | _*kau_ | 'wood, timber, stalk, stem, handle" (POLLEX)
+  Pn:    Tongan      |    _kau_    |      'stalk, stem'
+  Pn:    Hawaiian    |   _ʔau_     |     'handle, staff, stem, bone of lower arm or leg'
 
 18   Malcolm Ross, Andrew Pawley and Meredith Osmond
 
@@ -845,7 +849,7 @@ more immediately obvious. Table 1.3 is a key to the labels. Figure § 1.2 shows 
 of these groups in the Oceanic tree. We have sought to be consistent in always listing these
 groups in the same order, but contributors vary in the ordering of languages within groups.
 
-    Lynch's recent research on Southern Oceanic (§3 .2.4) renders the NCV group mildly
+    Lynch's recent research on Southern Oceanic (§3.2.4) renders the NCV group mildly
 anomalous, although there is no doubt that it is an integrated dialect network. There are a
 number of etyma whose reflexes are confined to North and Central Vanuatu, and so we continue
 to make 'Proto North/Central Vanuatu' reconstructions, even though these perhaps represent
@@ -963,7 +967,7 @@ __block__
 - retroflexes are represented by the corresponding apical symbol with a dot beneath, e.g. _ṛ_.
 
     Except for inflexional morphemes, non-cognate portions of reflexes, i.e. derivational morphemes
-and non-cognate parts of compounds, are shown in parentheses (...). Where an inflexional
+and non-cognate parts of compounds, are shown in parentheses (…). Where an inflexional
 morpheme is an affix or clitic and can readily be omitted, its omission is indicated
 by a hyphen at the beginning or end of the base. This applies particularly to possessor suffixes
 on directly possessed nouns (vol.1, ch.2, §3.2). Where an inflexional morpheme cannot
@@ -1030,7 +1034,7 @@ dagger, e.g. †_wao_, to distinguish them both from reconstructions and real da
 protolanguage. In such cases the dagger and asterisk conventions are used together. For example
 in ch.4, §2.4, POc _*lali(c,t)_ 'buttress roots' is reconstructed. This is a reflex of PMP
 _*dalij_, but the first consonant has undergone assimilation to the second in POc: the expected
-(but unattested) POc form would be _†*ralic_.
+(but unattested) POc form would be †_*ralic_.
 
      When historical linguists compile cognate sets they commonly retain word for word the
 glosses given in the sources from which the items are taken. However, again in the interests
@@ -1258,7 +1262,7 @@ A classification on this basis is certainly possible, but, as Evans points out, 
 categories like palms (ch.3, §4.3), 'clumps', bamboos, ferns and pandanus (ch.3, §4.8) which
 may or may not have been counted as _*kayu_ by POc speakers. Thus there were quite possibly
 a number of fairly small first-order categories in addition to the five for which Evans is able
-to reconstruct labels above. Candidates are *qauR, generic for bamboos (ch. 13, §3.1), and
+to reconstruct labels above. Candidates are _*qauR_, generic for bamboos (ch. 13, §3.1), and
 _*padran_, generic for pandanus species as well as denoting the coastal pandanus,
 _Pandanus tectorius_ (ch.11, §2.5.1).
 

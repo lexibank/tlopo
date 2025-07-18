@@ -22,22 +22,22 @@ This chapter is intended largely for historical linguists who have an interest i
 
 Work based on the sound correspondences ([Ch. 1, §3.3](../contributions/1-1#s-3-3)) of both Oceanic and non-Oceanic languages has resulted in the following reconstructed paradigms of POc consonants and vowels:
 
-|     |     |     |     |     |     |
-|:----|:----|:----|:----|:----|:----|
-| &ast;pʷ | &ast;p  | &ast;t  | &ast;c  | &ast;k  | &ast;q  |
-| &ast;bʷ | &ast;b  | &ast;d  | &ast;j  | &ast;g  |     |
-|     |     | &ast;s  |     |     |     |
-| &ast;mʷ | &ast;m  | &ast;n  | &ast;ñ  | &ast;ŋ  |     |
-|     |     | &ast;r  |     |     | &ast;R  |
-|     |     | &ast;dr |     |     |     |
-|     |     | &ast;l  |     |     |     |
-| &ast;w  |     |     | &ast;y  |     |     |
+|       |      |       |      |      |      |
+|:------|:-----|:------|:-----|:-----|:-----|
+| _&ast;pʷ_ | _&ast;p_ | _&ast;t_  | _&ast;c_ | _&ast;k_ | _&ast;q_ |
+| _&ast;bʷ_ | _&ast;b_ | _&ast;d_  | _&ast;j_ | _&ast;g_ |      |
+|       |      | _&ast;s_  |      |      |      |
+| _&ast;mʷ_ | _&ast;m_ | _&ast;n_  | _&ast;ñ_ | _&ast;ŋ_ |      |
+|       |      | _&ast;r_  |      |      | _&ast;R_ |
+|       |      | _&ast;dr_ |      |      |      |
+|       |      | _&ast;l_  |      |      |      |
+| _&ast;w_  |      |       | _&ast;y_ |      |      |
 
-|     |     |     |
-|:----|:----|:----|
-| &ast;i  |     | &ast;u  |
-| &ast;e  |     | &ast;o  |
-|     | &ast;a  |     |
+|      |      |      |
+|:-----|:-----|:-----|
+| _&ast;i_ |      | _&ast;u_ |
+| _&ast;e_ |      | _&ast;o_ |
+|      | _&ast;a_ |      |
 
 
 <a id="p-16"></a>
@@ -97,33 +97,33 @@ Oceanic languages reflect a set of shared innovations relative to PMP, and it wa
 
 The terms 'oral grade' and 'nasal grade' were used by [Grace](../sources/Grace1969) ([1969](../sources/Grace1969)) and have become conventional among Oceanic linguists to refer to the outcomes of (c) below. Grace's orthography roughly represents the pre-POc situation. The innovations which occurred over the pre-POc period were mergers and splits, the introduction of new phonemes, and one deletion, as follows:
 
-a)   The PMP voiced/voiceless pairs _&ast;p_, _&ast;b_ and _&ast;k_, _&ast;g_ merged respectively as early pre-POc
-     _&ast;p_ and _&ast;k_. [Ozanne-Rivierre](../sources/OzanneRivierre1992) ([1992](../sources/OzanneRivierre1992)) suggests that the corresponding _&ast;t_, _&ast;d_ merger was
-     hindered by their mismatch in point of articulation (dental vs alveolar).
-b)   The PMP pairs _&ast;s_, _&ast;Z_ and _&ast;d_, _&ast;r_ merged respectively as pre-POc _&ast;s_ and _&ast;d_ (phonetically
-     probably [r], since Eastern Malayo-Polynesian cognates are liquids).
-c)   PMP and a number of its descendants had word-medial homorganic nasal + obstruent
-     sequences (not in Table 1). Some instances of the pre-POc word-initial obstruents _&ast;p_, _&ast;t_,
-     _&ast;k_, _&ast;d/r_, _&ast;s_ and _&ast;j_ also acquired a preceding homorganic nasal (the occurrence of this
-     process is unpredictable and its causes largely unknown; cf. [§3.1.3](../contributions/1-2#s-3-1-3)). These sequences
-     became the unitary early pre-POc phonemes _&ast;mp_, _&ast;nt_, _&ast;ŋk_, _&ast;nd/nr_ and _&ast;nj_, subsequently
-     the POc prenasalised voiced obstruents _&ast;b_, _&ast;d_, _&ast;g_, _&ast;dr_, and _&ast;j_ (PMP nasal + _&ast;s_ and nasal
-     + _&ast;j_ merged as pre-POc _&ast;nj_, POc _&ast;j_). It is possible that pre-POc _&ast;nt_, POc _&ast;d_ never
-     occurred word-initially.
-d)   The labio-velars _&ast;pʷ_, _&ast;bʷ_ and _&ast;mʷ_ entered the language. Most of the items containing a
-     labio-velar lack non-Oceanic cognates, and some, at least, must have been borrowed
-     into POc from neighbouring Papuan languages. For example, it can be argued that
-     _&ast;mʷapo(q)_ 'taro' was borrowed by POc speakers as they acquired more sophisticated
-     taro-growing techniques from Papuan speakers ([Ross 1996d](../sources/Ross1996d)). A few of these items
-     were inherited into POc, and the labio-velar was the reflex of a labial occurring next to
-     a round vowel. However, it is not clear in these items that the labio-velar actually
-     occurred in POc ([Blust 1981a](../sources/Blust1981a)). Thus a number of Oceanic languages reflect _&ast;tamʷata_
-     'man, husband', derived from _&ast;tau_ 'body, person' + _&ast;mataq_ 'unripe, immature, young',
-     but we cannot be sure whether this or _&ast;taumata(q)_ was the POc form.
-e)   PMP _&ast;h_ was lost in POc.
-f)   PMP _&ast;e_, phonetically [ə], became POc _&ast;o_, and the PMP word-final diphthongs _&ast;-uy(-)_,[^3]
-        _&ast;-aw_ and _&ast;-ay_ were simplified to POc _&ast;-i_, _&ast;-o_ and _&ast;-e_ respectively, the first two thereby
-        merging with plain vowels.
+a) The PMP voiced/voiceless pairs _&ast;p_, _&ast;b_ and _&ast;k_, _&ast;g_ merged respectively as early pre-POc
+   _&ast;p_ and _&ast;k_. [Ozanne-Rivierre](../sources/OzanneRivierre1992) ([1992](../sources/OzanneRivierre1992)) suggests that the corresponding _&ast;t_, _&ast;d_ merger was
+   hindered by their mismatch in point of articulation (dental vs alveolar).
+b) The PMP pairs _&ast;s_, _&ast;Z_ and _&ast;d_, _&ast;r_ merged respectively as pre-POc _&ast;s_ and _&ast;d_ (phonetically
+   probably [r], since Eastern Malayo-Polynesian cognates are liquids).
+c) PMP and a number of its descendants had word-medial homorganic nasal + obstruent
+   sequences (not in Table 1). Some instances of the pre-POc word-initial obstruents _&ast;p_, _&ast;t_,
+   _&ast;k_, _&ast;d/r_, _&ast;s_ and _&ast;j_ also acquired a preceding homorganic nasal (the occurrence of this
+   process is unpredictable and its causes largely unknown; cf. [§3.1.3](../contributions/1-2#s-3-1-3)). These sequences
+   became the unitary early pre-POc phonemes _&ast;mp_, _&ast;nt_, _&ast;ŋk_, _&ast;nd/nr_ and _&ast;nj_, subsequently
+   the POc prenasalised voiced obstruents _&ast;b_, _&ast;d_, _&ast;g_, _&ast;dr_, and _&ast;j_ (PMP nasal + _&ast;s_ and
+   nasal + _&ast;j_ merged as pre-POc _&ast;nj_, POc _&ast;j_). It is possible that pre-POc _&ast;nt_, POc _&ast;d_ never
+   occurred word-initially.
+d) The labio-velars _&ast;pʷ_, _&ast;bʷ_ and _&ast;mʷ_ entered the language. Most of the items containing a
+   labio-velar lack non-Oceanic cognates, and some, at least, must have been borrowed
+   into POc from neighbouring Papuan languages. For example, it can be argued that
+   _&ast;mʷapo(q)_ 'taro' was borrowed by POc speakers as they acquired more sophisticated
+   taro-growing techniques from Papuan speakers ([Ross 1996d](../sources/Ross1996d)). A few of these items
+   were inherited into POc, and the labio-velar was the reflex of a labial occurring next to
+   a round vowel. However, it is not clear in these items that the labio-velar actually
+   occurred in POc ([Blust 1981a](../sources/Blust1981a)). Thus a number of Oceanic languages reflect _&ast;tamʷata_
+   'man, husband', derived from _&ast;tau_ 'body, person' + _&ast;mataq_ 'unripe, immature, young',
+   but we cannot be sure whether this or _&ast;taumata(q)_ was the POc form.
+e) PMP _&ast;h_ was lost in POc.
+f) PMP _&ast;e_, phonetically [ə], became POc _&ast;o_, and the PMP word-final diphthongs _&ast;-uy(-)_,[^3]
+   _&ast;-aw_ and _&ast;-ay_ were simplified to POc _&ast;-i_, _&ast;-o_ and _&ast;-e_ respectively, the first two thereby
+   merging with plain vowels.
 
 
 <a id="p-19"></a>
@@ -132,13 +132,13 @@ f)   PMP _&ast;e_, phonetically [ə], became POc _&ast;o_, and the PMP word-fina
 
 : Table 1: The phoneme systems of PMP and POc
 
-|           |             |          |            |      |           |               |      |     |          |
-|:----------|:------------|:---------|:-----------|:-----|:----------|:--------------|:-----|:----|:---------|
-| PMP       |             | _p_, _b_ |            | _t_  | _d_, _r_  | _s_, _z_, _Z_ |      | _j_ | _k_, _g_ |
-| POc       | oral grade  | _p_      | _pw_       | _t_  | _d_/_r_   | _s_           |      | _j_ | _k_      |
-| Grace etc | nasal grade | _mp_     | _ŋp_/_mpw_ | _nt_ | _nd_/_nr_ |               | _nj_ |     | _ŋk_     |
-| POc       | oral grade  | _p_      | _pʷ_       | _t_  | _r_       | _s_           |      | _c_ | _k_      |
-| Ross      | nasal grade | _b_      | _bʷ_       | _d_  | _dr_      |               | _j_  |     | _g_      |
+|               |             |          |            |      |           |               |      |     |          |
+|:--------------|:------------|:---------|:-----------|:-----|:----------|:--------------|:-----|:----|:---------|
+| PMP           |             | _p_, _b_ |            | _t_  | _d_, _r_  | _s_, _z_, _Z_ |      | _j_ | _k_, _g_ |
+| POc Grace etc | oral grade  | _p_      | _pw_       | _t_  | _d_/_r_   | _s_           |      | _j_ | _k_      |
+|               | nasal grade | _mp_     | _ŋp_/_mpw_ | _nt_ | _nd_/_nr_ |               | _nj_ |     | _ŋk_     |
+| POc  Ross     | oral grade  | _p_      | _pʷ_       | _t_  | _r_       | _s_           |      | _c_ | _k_      |
+|               | nasal grade | _b_      | _bʷ_       | _d_  | _dr_      |               | _j_  |     | _g_      |
 
 |           |     |           |     |     |     |     |     |     |     |     |     |
 |:----------|:----|:----------|:----|:----|:----|:----|:----|:----|:----|:----|:----|
@@ -211,7 +211,7 @@ We can reconstruct three major classes of POc intransitive verb on the basis of 
 |                 | 1                                         | 2                     | 3                   | 4                  |
 |:----------------|:------------------------------------------|:----------------------|:--------------------|:-------------------|
 |                 | inherently stative or inherently dynamic? | intransitive  subject | forms a transitive? | forms a causative? |
-| A verbs         | dynamic[^8]                                | A                     | yes                 | yes                |
+| A verbs         | dynamic                                   | A                     | yes                 | yes                |
 | U verbs         | neither                                   | U                     | yes                 | yes                |
 | U-stative verbs | stative                                   | U                     | no                  | yes                |
 
@@ -582,7 +582,7 @@ Note that the verbal morphology reconstructed in the rightmost column of (18) is
 
 | (19)   | PMP          |               | POc                |                       |
 |:-------|:-------------|:--------------|:-------------------|:----------------------|
-|        | root         | _&ast;[pa]N-_root |                    |                       |
+|        | root         | _&ast;[pa]N_-root |                    |                       |
 |        | _&ast;takaw_     | _&ast;panakaw_    | _&ast;panako_          | 'steal'               |
 |        | _&ast;ka(ʔe)n_   | _&ast;paŋa(ʔe)n_  | _&ast;paŋan_           | 'eat'                 |
 |        | _&ast;ka(ʔe)n-i_ |               | _&ast;kani-_           | 'eat'                 |

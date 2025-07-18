@@ -500,17 +500,21 @@ grade’ were used by Grace (1969) and have become conventional among Oceanic li
 to refer to the outcomes of certain sound changes that occurred between PMP and POc (see
 vol.1, Ch. 2).
 
-: Table 1: POc orthographies
+: __Table 1__: POc orthographies
 
 __tablenh__
-Grace etc. oral grade          p          pw              t        d/r          s                  j        k
-           nasal grade         mp       ŋp/mpw           nt       nd/nr                 nj                 ŋk
-Ross         oral grade        p          pw             t         r            s                  c       k
-             nasal grade       b          bw             d         dr                   j                  g
-Grace                m     ŋm/mw         n       ñ       ŋ    w         y   l       q          Ø       R
-Ross                 m      mw           n       ñ       ŋ    w         y   l       q          Ø       R
-Grace etc.           i     o        e        a       u
-Ross                 i     o        e        a       u
+Grace etc. | oral grade  | _p_  |  _pw_     |  _t_  |   _d_/_r_     |    _s_   |        |   _j_  |    _k_
+           | nasal grade | _mp_ |  _ŋp_/_mpw_ |  _nt_ | _nd_/_nr_   |         |   _nj_   |        |    _ŋk_
+Ross       | oral grade  | _p_  |  _pʷ_     |  _t_  |   _r_       |    _s_   |        |    _c_ |    _k_
+           | nasal grade | _b_  |  _bʷ_     |  _d_  |   _dr_      |        |    _j_    |        |    _g_
+
+__tablenh__
+Grace     |  _m_  | _ŋm_/_mw_  |   _n_  |   _ñ_   |   _ŋ_  |  _w_   |  _y_  | _l_   |    _q_   |   _Ø_ |  _R_
+Ross      |  _m_  |  _mʷ_    |   _n_  |   _ñ_   |   _ŋ_  |  _w_   |  _y_  | _l_   |    _q_   |   _Ø_ |  _R_
+
+__tablenh__
+Grace etc.  |         _i_  |   _o_    |    _e_   |     _a_   |    _u_
+Ross        |         _i_  |   _o_    |    _e_   |     _a_   |    _u_
 
 
 1.4 Conventions
@@ -609,7 +613,7 @@ converted into our standard orthography in the same way as Fijian. Biggs and Cla
 reconstructions are in any case written in an orthography identical to our standard.
 Bracketing and segmentation conventions in protoforms are shown in Table 2.
 
-: Table 2: Bracketing and segmentation conventions in protoforms
+: __Table 2__: Bracketing and segmentation conventions in protoforms
 
 __tablenh__
        (x)     | it cannot be determined whether x was present
@@ -877,8 +881,8 @@ appeared suddenly in the Bismarck Archipelago. The earliest Lapita sites are in 
 of the St Matthias Group, New Britain and in the islands off the east coast of New Ireland.
 
 [3] There are several recent major syntheses of interdisciplinary evidence concerning the Austronesian
-  diaspora by archaeologists, especially Bellwood (1997), Green (2003), Kirch (1995, 1997, 2000), Kirch
-  and Green (2001) and Spriggs (1997a), with a dissenting view presented by Terrell (1986) and
+  diaspora by archaeologists, especially Bellwood (1997), Green (2003), Kirch (1995, 1997, 2000),
+  Kirch and Green (2001) and Spriggs (1997a), with a dissenting view presented by Terrell (1986) and
   Terrell et al. (2001). For overviews by linguists see Blust (1995b), Pawley (2003a) and
   Pawley and Ross (1993, 1995).
 
@@ -1242,13 +1246,13 @@ islands which lie off the central north coast, extending from Tami Is. in the Hu
 west as far as to the Schoutens group. In this connection, the following observations should
 be noted.
 
-(i)   There is at present no good evidence of early Lapita occupation of this region. The
-      Siassi Islands in the Vitiaz Strait off the western tip of New Britain have yielded
-      the nearest Lapita site to the New Guinea mainland yet found, apart from isolated
-      finds of single potsherds. The Siassi site represents ‘a relatively late and seemingly
-      ephemeral Lapita occupation’ (Spriggs 1997a:118). It must be admitted, however,
-      that little archaeological work has been done on the offshore islands.
-
+__block__
+(i)  There is at present no good evidence of early Lapita occupation of this region. The
+     Siassi Islands in the Vitiaz Strait off the western tip of New Britain have yielded
+     the nearest Lapita site to the New Guinea mainland yet found, apart from isolated
+     finds of single potsherds. The Siassi site represents ‘a relatively late and seemingly
+     ephemeral Lapita occupation’ (Spriggs 1997a:118). It must be admitted, however,
+     that little archaeological work has been done on the offshore islands.
 (ii) If Proto Oceanic speaking communities existed on parts of the north coast of New
      Guinea and nearby islands they have left no descendants. All the indications are
      that the contemporary Oceanic languages spoken along the central north coast from
@@ -5660,7 +5664,7 @@ Guinea and into the Bismarck Archipelago and then the New Georgia group of the
 northwest Solomons, they continued to encounter this and other kinds of local variation,
 but the southeast trades always continued to be the prevailing winds.
 
-: Table 3: Approximate summary of seasons in some Pacific locations
+: __Table 3__: Approximate summary of seasons in some Pacific locations
 
 __table__
                               |  Southern Hemisphere Winter            |  Southern Hemisphere Summer
@@ -8870,7 +8874,7 @@ Polynesian are listed in Table 4.
 
                                                                      Navigation and the heavens     189
 
-: Table 4: Reconstructions of heavenly body and other navigation terms
+: __Table 4__: Reconstructions of heavenly body and other navigation terms
 
 __table__
 Term                   | POc                             |  PMic                   |  PPn

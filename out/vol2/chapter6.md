@@ -2770,7 +2770,7 @@ The only cognate set located is from Micronesia. References may be at times to t
 <tr>
 <td>Mic</td><td><a href="../languages/satawalese">Satawalese</a></td><td><i>mailap</i></td>
 <td>
-'<span>Altair</span>' (<a href="../sources/Mccoy1976">Mccoy1976</a>)
+'<span>Altair</span>' (<a href="../sources/McCoy1976">McCoy1976</a>)
 </td>
 </tr>
 </table>
