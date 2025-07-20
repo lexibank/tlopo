@@ -881,12 +881,12 @@ Several terms denoting current or flow of water can be reconstructed for POc. Re
 '<span>flow</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>areθ-raθ</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>areθ-raθ</i></td>
 <td>
 '<span>flow</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>n-areθ</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>n-areθ</i></td>
 <td>
 '<span>current</span>'</td>
 </tr>
@@ -2116,7 +2116,7 @@ The reconstruction for low tide, POc _&ast;maqati_, which continues a PAn form, 
 '<span>low tide</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>mas</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>mas</i></td>
 <td>
 '<span>low tide</span>'</td>
 </tr>
@@ -2225,7 +2225,7 @@ POc _&ast;[ma]maca_ ‘dry up, evaporate’, has some reflexes which refer to lo
 '<span>dry; (of tide) low, go out</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>mesei</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>mesei</i></td>
 <td>
 '<span>dry</span>'</td>
 </tr>
@@ -2725,7 +2725,7 @@ POc _&ast;laje_ was both a generic term for coral and the name for branching cor
 '<span>branching coral</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>(n)las</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>(n)las</i></td>
 <td>
 '<span>live coral on a reef</span>'</td>
 </tr>
@@ -3257,7 +3257,7 @@ However, further evidence supporting oda as a term for ‘reef’ lies in two re
 </tr>
 <tr>
 <td>SV</td>
-<td>Anejom</td>
+<td>Anejom̃</td>
 <td><i>a-haŋeč</i></td>
 <td>
 '<span>forage on reef</span>'</td>
@@ -3497,7 +3497,7 @@ Isolated patches of submerged reef occur in the open sea between the outer (barr
 '<span>coral head</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>in-mʷwoče</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>in-mʷwoče</i></td>
 <td>
 '<span>coral reef</span>'</td>
 </tr>

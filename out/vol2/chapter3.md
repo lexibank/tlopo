@@ -177,7 +177,7 @@ Reflexes of both POc _&ast;panua_ (vol. 1, p.62) and _&ast;tanoq_[^2] are widely
 '<span>village</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>in-henou</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>in-henou</i></td>
 <td>
 '<span>taro swamp</span>'</td>
 </tr>
@@ -796,7 +796,7 @@ Although the next reconstructed form is traceable back to PMP as a verb, its use
 [N] '<span>number of things in a line, row</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>n-at(hat)</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>n-at(hat)</i></td>
 <td>
 '<span>line of stones</span>' (<span>inhat ‘stone’</span>)</td>
 </tr>
@@ -2147,7 +2147,7 @@ Reflexes of _&ast;pʷotu_ refer consistently to ‘mountain’ only in MM langua
 '<span>round object; knot of bowstring, knot in wood</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>(no)pte-</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>(no)pte-</i></td>
 <td>
 '<span>node (bamboo, sugarcane)</span>'</td>
 </tr>
@@ -3485,7 +3485,7 @@ In POc a single word, _&ast;waiR_, evidently denoted both ‘fresh water’ and 
 '<span>fresh water</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>in-wai</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>in-wai</i></td>
 <td>
 '<span>fresh water</span>'</td>
 </tr>
@@ -4082,7 +4082,7 @@ A number of languages use a compound, translatable literally as ‘eye of water�
 '<span>spring of water, source of a river</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>nemta-n-wai</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>nemta-n-wai</i></td>
 <td>
 </td>
 </tr>
@@ -4388,7 +4388,7 @@ The generic term for ‘stone’ or ‘rock’ was POc _&ast;patu_.
 '<span>stone, rock</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>in-hat</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>in-hat</i></td>
 <td>
 '<span>stone, rock</span>'</td>
 </tr>
@@ -5865,7 +5865,7 @@ Blust (ACD) reconstructs PMP _&ast;luten_ ‘firewood’ based on WMP: LongWat _
 '<span>firewood</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>(n)ijis</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>(n)ijis</i></td>
 <td>
 '<span>torch</span>'</td>
 </tr>
@@ -6082,7 +6082,7 @@ Charcoal is likely to have been distinctively named in Proto Oceanic. Carbonised
 '<span>charcoal, charred wood</span>'; '<span>(?) coals, embers</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>(inhu)mala</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>(inhu)mala</i></td>
 <td>
 '<span>charcoal</span>'</td>
 </tr>
@@ -6542,7 +6542,7 @@ A number of terms for the general process of burning or being on fire can be rec
 '<span>fire</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>(N)ɣapʷ</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>(N)ɣapʷ</i></td>
 <td>
 '<span>fire</span>'</td>
 </tr>
@@ -7092,7 +7092,7 @@ Widely scattered languages use a reflex of POc _&ast;maya_ ‘tongue’ (either 
 '<span>tongue, flame</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>(nalua)me</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>(nalua)me</i></td>
 <td>
 '<span>flame</span>'</td>
 </tr>
@@ -8357,7 +8357,7 @@ The reconstruction below appears to have referred to flooding or gushing.
 '<span>to pour forth, gush, flow quickly</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>ya</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>ya</i></td>
 <td>
 '<span>flow everywhere, out of control</span>'</td>
 </tr>

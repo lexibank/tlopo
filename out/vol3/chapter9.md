@@ -245,7 +245,7 @@ The most widely reflected term for _Dioscorea alata_ is POc _&ast;qupi_, which i
 '<span>greater yam; yam (generic)</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>n-u</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>n-u</i></td>
 <td>
 '<span>greater yam; yam (generic)</span>'</td>
 </tr>
@@ -821,7 +821,7 @@ Further terms for yam can be reconstructed, but it is unclear which species they
 '<span>kind of wild yam</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>rame</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>rame</i></td>
 <td>
 '<span>k.o. yam, stringy</span>'</td>
 </tr>
@@ -1046,7 +1046,7 @@ A search for languages in which reflexes of _&ast;talo(s)_ and _&ast;mʷapo(q)_ 
 '<span>taro, <em>Colocasia esculenta</em></span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>n-tal</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>n-tal</i></td>
 <td>
 '<span>taro, <em>Colocasia esculenta</em></span>'</td>
 </tr>
@@ -1302,7 +1302,7 @@ A search for languages in which reflexes of _&ast;talo(s)_ and _&ast;mʷapo(q)_ 
 '<span>taro, <em>Colocasia esculenta</em></span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>na-pʷat</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>na-pʷat</i></td>
 <td>
 '<span>k.o. taro</span>'</td>
 </tr>
@@ -1866,7 +1866,7 @@ The POc name for giant taro was _&ast;piRaq_, continuing a PMP etymon. The final
 '<span>Crytosperma (wild taro)</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>nehei</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>nehei</i></td>
 <td>
 '<span><em>Alocasia macrorrhizos</em></span>'</td>
 </tr>
@@ -2337,7 +2337,7 @@ The likelihood that banana domestication first occurred in New Guinea, and that 
 '<span>banana</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>no-hos</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>no-hos</i></td>
 <td>
 '<span>banana</span>'</td>
 </tr>
@@ -3367,12 +3367,12 @@ A fourth term, Proto Remote Oceanic _&ast;maRi_ 'breadfruit', is limited to Sout
 '<span>breadfruit</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>in-ma, in-mer-</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>in-ma, in-mer-</i></td>
 <td>
 '<span>breadfruit</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>in-mer-</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>in-mer-</i></td>
 <td>
 '<span>breadfruit</span>' (<span>in compounds</span>)</td>
 </tr>
@@ -3973,7 +3973,7 @@ Most of the forms below point to PEOc _&ast;mʷele_. However, Namakir and Wayan 
 '<span><em>Cycas rumphii</em></span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>no-mʷoc</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>no-mʷoc</i></td>
 <td>
 '<span><em>Cycas rumphii</em></span>'</td>
 </tr>

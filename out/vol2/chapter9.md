@@ -587,7 +587,7 @@ All Polynesian reflexes point back to PPn _&ast;pō_ (for expected _&ast;poŋi_,
 '<span>night; a day of twenty-four hours</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>(ne)peñ</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>(ne)peñ</i></td>
 <td>
 '<span>night</span>'</td>
 </tr>
@@ -1581,17 +1581,17 @@ Others have a noun phrase whose head is ‘sun, daylight’, modified by ‘big�
 '<span>late morning and early afternoon</span>'[^12]</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>afiat</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>afiat</i></td>
 <td>
 '<span>become day</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>n-afiat</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>n-afiat</i></td>
 <td>
 '<span>day, daytime</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>n-afiat-iat</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>n-afiat-iat</i></td>
 <td>
 '<span>midday</span>'</td>
 </tr>
@@ -1889,7 +1889,7 @@ Just one term is reconstructable for this period of the day, POc _&ast;Rapi_.
 '<span>begin to get dark in late afternoon</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>(injup-u)ra</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>(injup-u)ra</i></td>
 <td>
 '<span>evening</span>'</td>
 </tr>
@@ -3151,7 +3151,7 @@ It is hard to avoid the conclusion that _&ast;tuqaRi_ ‘(be) long ago; old (of 
 '<span>old, previous, of the past, long ago</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>(i)tuwu</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>(i)tuwu</i></td>
 <td>
 '<span>long ago</span>'</td>
 </tr>
@@ -3636,7 +3636,7 @@ The Southern Vanuatu members of the set below reflect a Proto South Vanuatu form
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>(i)yenev</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>(i)yenev</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
@@ -4423,7 +4423,7 @@ POc _&ast;ma-raqani_ was presumably originally a verb meaning ‘become light’
 '<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>(i)mrañ</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>(i)mrañ</i></td>
 <td>
 '<span>tomorrow</span>'</td>
 </tr>
@@ -4824,7 +4824,7 @@ The Proto Tanna (SV) and Proto Polynesian reflexes of _&ast;qa-na-_ lost the pas
 '<span>five days hence</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>(ho)viθ</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>(ho)viθ</i></td>
 <td>
 '<span>three days from today</span>'</td>
 </tr>
@@ -4910,7 +4910,7 @@ The Proto Tanna (SV) and Proto Polynesian reflexes of _&ast;qa-na-_ lost the pas
 '<span>day after tomorrow</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>nviθ</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>nviθ</i></td>
 <td>
 '<span>day before yesterday, day after tomorrow</span>'</td>
 </tr>
@@ -5405,7 +5405,7 @@ From the distributions of their reflexes, it seems that _&ast;ŋaican_ or _&ast;
 '<span>when (future)?</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>iñiθ</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>iñiθ</i></td>
 <td>
 '<span>when?</span>'</td>
 </tr>

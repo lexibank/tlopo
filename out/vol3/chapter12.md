@@ -722,7 +722,7 @@ Reconstructable terms for stage 9, 'ripe, flesh hardened', are POc _&ast;matuqu_
 '<span>ripe coconut</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>(neañ)metou</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>(neañ)metou</i></td>
 <td>
 '<span>drinking coconut with hard flesh</span>'</td>
 </tr>
@@ -1115,7 +1115,7 @@ POc _&ast;tabʷa_ 'coconut growth stage 12: sprouted' is formally similar to but
 '<span>coconut shell drinking cup</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>na-tpʷa(-neañ)</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>na-tpʷa(-neañ)</i></td>
 <td>
 '<span>spongy mass formed in a coconut that has started to shoot</span>'</td>
 </tr>
@@ -3202,7 +3202,7 @@ One of the main uses of dry coconut fronds is as torches, and in a number of lan
 '<span>coconut frond stalk</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>ni-sel</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>ni-sel</i></td>
 <td>
 '<span>coconut leaf midrib</span>'</td>
 </tr>
@@ -3927,7 +3927,7 @@ The importance of the coconut in POc culture is attested - as we might expect - 
 [^16]: [Lynch](../sources/Lynch2001c) ([2001c](../sources/Lynch2001c)) reconstructs PSV _&ast;nə-vutoy_ 'brain' with an unexpected initial _&ast;v-_ reflected in Anejom _h-_. Its resemblance to PAdm _&ast;puto-_ is probably accidental, as its reflexes only denote 'brain' and it is probably a reflex of POc _&ast;qutok_ in which PSV _&ast;v-_ (normally < POc _&ast;p-_) is an idiosyncratic innovation. <table id="3-12-4-3-375-sv-anejom-nhutuma">
 <tr>
 <td>SV</td>
-<td>Anejom</td>
+<td>Anejom̃</td>
 <td><i>n-hutu(ma)</i></td>
 <td>
 '<span>brains</span>'</td>

@@ -275,7 +275,7 @@ The Mapos Buang and Mumeng Patep forms may be non-cognate, as their final -k ref
 '<span>big, important</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>(a)lpʷas</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>(a)lpʷas</i></td>
 <td>
 '<span>big, important</span>'</td>
 </tr>
@@ -1034,7 +1034,7 @@ The other two terms, _&ast;[ma]lago_ and _&ast;[ma]lawa_, clearly are derived. T
 '<span>long</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>(o)pra</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>(o)pra</i></td>
 <td>
 '<span>long</span>'</td>
 </tr>
@@ -1225,7 +1225,7 @@ The other two terms, _&ast;[ma]lago_ and _&ast;[ma]lawa_, clearly are derived. T
 '<span>long, tall</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>lau, laulau</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>lau, laulau</i></td>
 <td>
 '<span>long (of time)</span>'</td>
 </tr>
@@ -1922,7 +1922,7 @@ Three forms can be reconstructed for ‘thick’. The third, _&ast;[tubu]tubu[-k
 </td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>(a)mesej</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>(a)mesej</i></td>
 <td>
 </td>
 </tr>
@@ -2513,7 +2513,7 @@ Whereas _&ast;[ma]tuqa_ probably referred mainly to animates and to the vegetabl
 '<span>ready to be eaten: ripe, cooked</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>metou</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>metou</i></td>
 <td>
 '<span>(fruit) ripe, mature, ready to pick</span>'</td>
 </tr>
@@ -2656,7 +2656,7 @@ Whereas _&ast;[ma]tuqa_ probably referred mainly to animates and to the vegetabl
 '<span>old, previous, of the past, long ago</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>(i)tuwu</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>(i)tuwu</i></td>
 <td>
 '<span>long ago</span>'</td>
 </tr>
@@ -3356,7 +3356,7 @@ From these examples we see that the colour term is often derived from a noun who
 '<span>yellow</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>yaŋ</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>yaŋ</i></td>
 <td>
 '<span>yellow</span>'</td>
 </tr>
@@ -4932,7 +4932,7 @@ Two terms are reconstructable for ‘hot, warm’, _&ast;[ma]panas_ and _&ast;ma
 '<span>hot</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>(a)hen-hen</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>(a)hen-hen</i></td>
 <td>
 '<span>warm, hot</span>'</td>
 </tr>

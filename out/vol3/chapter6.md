@@ -368,7 +368,7 @@ POc _&ast;toŋoR_ was fairly clearly the generic term for mangroves. It also see
 '<span>mangrove</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>ne-ceŋ</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>ne-ceŋ</i></td>
 <td>
 '<span>mangrove, <em>Rhizophora</em> sp.</span>'</td>
 </tr>
@@ -792,7 +792,7 @@ Lynch (2004) reconstructs PSOc _&ast;(t,d)oto(q)_, noting, 'Final _&ast;-o_ is o
 '<span><em>Excoecaria agallocha</em></span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>ne-tet</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>ne-tet</i></td>
 <td>
 '<span><em>Excoecaria agallocha</em></span>'</td>
 </tr>

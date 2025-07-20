@@ -480,7 +480,7 @@ The preposition _&ast;i_, which occurred before local nouns, is widely reflected
  (<span>prefix on locative nouns</span>)</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>i-</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>i-</i></td>
 <td>
  (<span>prefix on locative nouns</span>)</td>
 </tr>
@@ -2196,7 +2196,7 @@ In Polynesian languages reflexes of _&ast;lalo-_/_&ast;lalom_ denote the region 
 '<span>internal portion, insides, heart, mind, feeling, emotion</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>lele-</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>lele-</i></td>
 <td>
 '<span>inside; heart, seat of feelings</span>'</td>
 </tr>
@@ -5175,7 +5175,7 @@ One body-part term occurs with fair frequency with the sense of ‘back part of,
 '<span>back</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>(i)taɣ</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>(i)taɣ</i></td>
 <td>
 [ADV] '<span>behind</span>' (<span>e.g. <em>itaɣ a niomʷ</em> [ADV PREP N] ‘behind the house’</span>)</td>
 </tr>
@@ -7179,7 +7179,7 @@ Above I noted François’ (2004a) reconstruction of POc speakers’ use of term
 '<span>go down, go seaward, go westward</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>-se[h]</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>-se[h]</i></td>
 <td>
 [DIR] '<span>down, north, west</span>'</td>
 </tr>
@@ -7226,7 +7226,7 @@ Above I noted François’ (2004a) reconstruction of POc speakers’ use of term
 '<span>go up, go inland, go eastward</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>-tʃai</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>-tʃai</i></td>
 <td>
 [DIR] '<span>upward, southward, eastward</span>'</td>
 </tr>
@@ -7917,12 +7917,12 @@ Also reconstructable is the POc form _&ast;ma_, reflected in WOc and CEOc langua
 [DIR] '<span>towards speaker</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>-(pa)m</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>-(pa)m</i></td>
 <td>
 [DIR] '<span>towards speaker</span>' (<span><em>pan</em> ‘away from speaker’</span>)</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>(ha)m, (apa)m</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>(ha)m, (apa)m</i></td>
 <td>
 '<span>come</span>' (<span><em>han</em>, <em>apan</em> ‘go’</span>)</td>
 </tr>
@@ -9011,12 +9011,12 @@ As noted in [§3.3](../contributions/2-8#s-3-3), some reflexes of POc _&ast;pano
 '<span>go, walk</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>-pan</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>-pan</i></td>
 <td>
 [DIR] '<span>away from speaker</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>han, (a)pan</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>han, (a)pan</i></td>
 <td>
 '<span>go</span>'</td>
 </tr>

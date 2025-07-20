@@ -746,7 +746,7 @@ Proto Austronesian _&ast;daqan_ 'branch', continued as POc _&ast;raqan_ 'branch 
 '<span>branch</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>nra-</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>nra-</i></td>
 <td>
 '<span>branch</span>'</td>
 </tr>
@@ -2082,7 +2082,7 @@ The initial consonant is uncertain because Manam and Tawala reflect _&ast;s_ and
 '<span>sucker, shoot</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>nisci-</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>nisci-</i></td>
 <td>
 '<span>(plant) shoot</span>'</td>
 </tr>
@@ -2775,7 +2775,7 @@ The term 'fruit' in English has a number of senses, including: '1. vegetable pro
 '<span>fruit of any tree</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>(no)howa-</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>(no)howa-</i></td>
 <td>
 '<span>fruit</span>'</td>
 </tr>

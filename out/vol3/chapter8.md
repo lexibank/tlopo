@@ -121,7 +121,7 @@ POc _&ast;ka[(r,l)a]qabusi_ appears to have denoted a taxon including at least _
 '<span><em>Acalypha</em> sp.</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>ne-ɣñopʷoθ</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>ne-ɣñopʷoθ</i></td>
 <td>
 '<span><em>Acalypha</em> sp.</span>'</td>
 </tr>
@@ -473,7 +473,7 @@ The POc term _&ast;mʷala(q)u_ almost certainly denoted the Bismarcks species _G
 '<span><em>Glochidion philippicum</em></span>' (<span><em>-p-</em> is unexplained</span>)</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>na-mlau</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>na-mlau</i></td>
 <td>
 '<span><em>Glochidion perakense</em></span>'</td>
 </tr>
@@ -961,7 +961,7 @@ There is disagreement among cognates with regard to the final _&ast;-aqi_ of POc
 '<span><em>Pipturus argenteus</em></span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>ne-lmʷai</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>ne-lmʷai</i></td>
 <td>
 '<span><em>Pipturus argenteus</em></span>'</td>
 </tr>
@@ -1313,7 +1313,7 @@ POc _&ast;maRako_ '_Trichospermum_ peekelii' is an unproblematic reconstruction.
 '<span>tree sp., a twig of which is used to indicate a taboo</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>n-maɣ</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>n-maɣ</i></td>
 <td>
 '<span><em>Trichospermum inmac</em></span>' (<a href="../sources/Wheatley1992">Wheatley1992: 233</a>)
 </td>
@@ -1853,7 +1853,7 @@ _Coix lacryma-jobi_ is a robust tropical grass, 1--1.5 m high, with shiny grains
 '<span><em>Coix lacryma-jobi</em></span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>na-θec</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>na-θec</i></td>
 <td>
 '<span><em>Coix lacryma-jobi</em></span>'</td>
 </tr>
@@ -1953,7 +1953,7 @@ A reed-like grass dominant on dry hillsides, _Miscanthus floridulus_ grows to ab
 '<span>wild cane</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>ni-yeŋ</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>ni-yeŋ</i></td>
 <td>
 '<span>wild cane</span>'</td>
 </tr>

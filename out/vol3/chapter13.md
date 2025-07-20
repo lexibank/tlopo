@@ -275,7 +275,7 @@ The POc term &ast;topu 'sugarcane, _Saccharum officinarum_' continues PAn &ast;t
 '<span>sugarcane</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>ne-to</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>ne-to</i></td>
 <td>
 '<span>sugarcane</span>'</td>
 </tr>
@@ -1388,7 +1388,7 @@ Among languages which retain a reflex of the final consonant, Mussau and Petats 
 '<span>bamboo</span>' (<span><em>*q</em></span>)</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>n-au</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>n-au</i></td>
 <td>
 '<span>bamboo</span>' (<span><em>*q</em></span>)</td>
 </tr>
@@ -2293,7 +2293,7 @@ The distributions of POc _&ast;ñoñu_ and _&ast;kurat_ are complementary: _&ast
 '<span><em>Morinda citrifolia</em></span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>na-uras</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>na-uras</i></td>
 <td>
 '<span><em>Morinda citrifolia</em></span>'</td>
 </tr>
@@ -2627,7 +2627,7 @@ PWOc _&ast;(m,mʷ)ali_ (incorrectly given as _&ast;maRi_ in [vol. 1, ch.8, §7](
 </td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>no-hop(ɣev)</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>no-hop(ɣev)</i></td>
 <td>
 </td>
 </tr>
@@ -3272,7 +3272,7 @@ cf. also:
 <table>
 <tr>
 <td>SV</td>
-<td>Anejom</td>
+<td>Anejom̃</td>
 <td><i>na-mraθ</i></td>
 <td>
 '<span><em>Codiaeum variegatum</em></span>'</td>
@@ -3961,7 +3961,7 @@ The forms listed below are clearly cognate, but it is not clear whether or how m
 </td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>no-(hos)meleɣ</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>no-(hos)meleɣ</i></td>
 <td>
 '<span>Crinum sp.</span>'</td>
 </tr>
@@ -4138,7 +4138,7 @@ This finding is not at odds with the historical fact that the modern pumpkin was
 '<span>pumpkin</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>ne-rero</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>ne-rero</i></td>
 <td>
 '<span>gourd</span>'</td>
 </tr>

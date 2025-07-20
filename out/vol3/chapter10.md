@@ -486,7 +486,7 @@ No POc term is unambiguously reconstructable, but it is possible that the reflex
 '<span><em>Polyscias</em> sp.</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>(na-pʷo)jev</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>(na-pʷo)jev</i></td>
 <td>
 '<span><em>Polyscias</em> sp.</span>'</td>
 </tr>
@@ -1310,7 +1310,7 @@ The items under 'cf. also' are probably not cognate. Three of them point to a te
 '<span>banyan, generic</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>(n)pak</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>(n)pak</i></td>
 <td>
 '<span>banyan</span>'</td>
 </tr>
@@ -1555,7 +1555,7 @@ POc _&ast;pʷabosi_ is the most likely candidate for a term denoting _Ficus wass
 '<span>fig sp.</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>ne-ppaθ</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>ne-ppaθ</i></td>
 <td>
 '<span><em>Ficus</em> sp.</span>'</td>
 </tr>
@@ -1702,7 +1702,7 @@ POc _&ast;taŋa_ appears to have denoted _Ficus tinctoria_. This is its meaning 
 '<span>k.o. tree with stinging leaves</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>na-teŋ</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>na-teŋ</i></td>
 <td>
 '<span><em>Ficus adenosperma</em></span>'</td>
 </tr>
@@ -1971,7 +1971,7 @@ The gloss of PNCV _&ast;buliva_ is clearly _Ficus_ scabra (a species found only 
 '<span><em>Ficus</em> sp.</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>ne-rere</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>ne-rere</i></td>
 <td>
 '<span><em>Ficus obliqua</em></span>'</td>
 </tr>

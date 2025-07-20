@@ -557,7 +557,7 @@ In [Ross](../sources/Ross1995c) ([1995c](../sources/Ross1995c)) I wrote:
 '<span>cyclone</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>(n)eheyo</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>(n)eheyo</i></td>
 <td>
 '<span>cyclone, hurricane</span>'</td>
 </tr>

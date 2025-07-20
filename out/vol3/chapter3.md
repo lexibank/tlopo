@@ -539,7 +539,7 @@ A term denoting all plants is not reconstructable for POc. A number of modern Oc
 </tr>
 <tr>
 <td>SV</td>
-<td>Anejom</td>
+<td>Anejom̃</td>
 <td><i>nita-awañ</i></td>
 <td>
 '<span>plant, s.t. planted or to be planted</span>'</td>
@@ -773,7 +773,7 @@ The most stable primary taxon label, in that it is reflected most widely amongst
 '<span>tree</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>inɣai</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>inɣai</i></td>
 <td>
 '<span>tree, wood, often used for relatively small bushes</span>'</td>
 </tr>
@@ -1036,7 +1036,7 @@ The final consonant of the POc form is reconstructed as _&ast;c_ rather than _&a
 '<span>vines</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>inwau</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>inwau</i></td>
 <td>
 '<span>vine; rope (traditional), string; sinew, tendon, vein</span>' (<span>also occurs as initial element in a number of names of vine species.</span>)</td>
 </tr>
@@ -1170,7 +1170,7 @@ POc _&ast;pali[s,j]i_ appears to have been the generic for plants lacking a main
 '<span>a kind of grass</span>'[^8]</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>ne-pces</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>ne-pces</i></td>
 <td>
 '<span>a kind of grass</span>'</td>
 </tr>
@@ -1346,7 +1346,7 @@ Evidence from non-Oceanic languages suggests that _&ast;lumut_ may have been the
 '<span>moss, slime, seaweed</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>ne-lomʷ</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>ne-lomʷ</i></td>
 <td>
 '<span>moss, hanging algae</span>'</td>
 </tr>
@@ -1545,22 +1545,22 @@ In a number of modern Oceanic languages the life-form term for mushrooms and oth
 '<span>kind of fungus which grows on dry wood</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>inticŋa-</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>inticŋa-</i></td>
 <td>
 '<span>ear; initial element in a number of compounds denoting mushrooms</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>inticŋa-nɣai</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>inticŋa-nɣai</i></td>
 <td>
 '<span>mushroom (arboreal)</span>' (<span>cf. <em>in-ɣai</em> 'tree'</span>)</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>inticŋa-pʷohtan</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>inticŋa-pʷohtan</i></td>
 <td>
 '<span>mushroom (terrestrial)</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>inticŋa-numu</i></td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>inticŋa-numu</i></td>
 <td>
 '<span>kind of edible mushroom</span>' (<span>cf. <em>numu</em> 'fish, marine creature'</span>)</td>
 </tr>
