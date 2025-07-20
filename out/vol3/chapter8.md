@@ -209,7 +209,7 @@ POc _&ast;ka[(r,l)a]qabusi_ appears to have denoted a taxon including at least _
 ### 2.2. _Alphitonia_ spp. (Rhamnaceae)
 
 
-Trees of the genus _Alphitonia_ are sub-canopy trees which are conspicuous because of their light grey bark and leaves which are shiny brown or green on the upper surface but grey, white or silver underneath with brown veins ([Peekel 1984](../sources/Peekel1984): 345). The Bismarcks species named by Peekel are _Alphitonia macrocarpa_, 8-10 m tall, and _Alphitonia excelsa_, 10--20 m tall. Apparently very similar to the latter are _Alphitonia incana_ (syn. A. philippensis) and _Alphitonia zizyphoides_ (whitewood, B _waetwud_, huremi), the latter growing up to 30 m tall. Found respectively in NW Island Melanesia and from Vanuatu to eastern Polynesia, they are important in house construction and in traditional medicine. The leaves were used as soap ([Powell 1976](../sources/Powell1976), [Whistler 1991b](../sources/Whistler1991b): 126, [Wheatley 1992](../sources/Wheatley1992): 193-195, [Kwa'ioloa & Burt 2001](../sources/KwaioloaandBurt2001): 116, [Thomson & Thaman 2006](../sources/ThomsonandThaman2006)).
+Trees of the genus _Alphitonia_ are sub-canopy trees which are conspicuous because of their light grey bark and leaves which are shiny brown or green on the upper surface but grey, white or silver underneath with brown veins ([Peekel 1984](../sources/Peekel1984): 345). The Bismarcks species named by Peekel are _Alphitonia macrocarpa_, 8-10 m tall, and _Alphitonia excelsa_, 10--20 m tall. Apparently very similar to the latter are _Alphitonia incana_ (syn. _A. philippensis_) and _Alphitonia zizyphoides_ (whitewood, B _waetwud_, huremi), the latter growing up to 30 m tall. Found respectively in NW Island Melanesia and from Vanuatu to eastern Polynesia, they are important in house construction and in traditional medicine. The leaves were used as soap ([Powell 1976](../sources/Powell1976), [Whistler 1991b](../sources/Whistler1991b): 126, [Wheatley 1992](../sources/Wheatley1992): 193-195, [Kwa'ioloa & Burt 2001](../sources/KwaioloaandBurt2001): 116, [Thomson & Thaman 2006](../sources/ThomsonandThaman2006)).
 
 If Lukep (Pono) (NNG) _doi_ '_Cerbera manghas_' is cognate (the two trees are of similar size and have similarly shaped leaves), then POc _&ast;doi_ is reconstructable, but only with the vague sense 'a medium-sized tree sp.'.
 
@@ -384,7 +384,7 @@ The POc term for _Commersonia bartramia_ was _&ast;jamaR_. The Mwotlap, Mota and
 ### 2.4. _Glochidion philippicum_, little cheese tree, Bnamalao (Euphorbiaceae)
 
 
-The little cheese tree, _Glochidion philippicum_ (syn. G. ramiflorum), grows 10--20 m tall, and is common in secondary forest. Its fruit are dry greyish green disc-like capsules shaped like a Dutch cheese round or a flattened Australian pumpkin, which split open to reveal red or orange seeds ([Peekel 1984](../sources/Peekel1984): 295).
+The little cheese tree, _Glochidion philippicum_ (syn. _G. ramiflorum_), grows 10--20 m tall, and is common in secondary forest. Its fruit are dry greyish green disc-like capsules shaped like a Dutch cheese round or a flattened Australian pumpkin, which split open to reveal red or orange seeds ([Peekel 1984](../sources/Peekel1984): 295).
 
 The dark brown wood is strong and durable and provides houseposts and other house members at least in Kwara'ae and in parts of Vanuatu ([Wheatley 1992](../sources/Wheatley1992): 93-95, [Kwa'ioloa & Burt 2001](../sources/KwaioloaandBurt2001): 112). The Kwara'ae also plant it to form living fences. Among the Nakanai the red seeds provide a dye and the sap provides caulking material and is mixed with clay to make a paint for decorating canoes ([Floyd 1954](../sources/Floyd1954)). The bark has medicinal uses ([Record 1945](../sources/Record1945)).
 
@@ -407,7 +407,7 @@ The POc term _&ast;mʷala(q)u_ almost certainly denoted the Bismarcks species _G
 <tr>
 <td>MM</td><td><a href="../languages/madak">Madak</a></td><td><i>(vap)mala</i></td>
 <td>
-'<span><em>Glochidion philippicum</em>, G. gimi</span>'</td>
+'<span><em>Glochidion philippicum</em>, <em>Glochidion gimi</em></span>'</td>
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/patpatar">Patpatar</a></td><td><i>malau</i></td>
@@ -1264,7 +1264,7 @@ Blust (ACD) reconstructs PWMP _&ast;deRuŋ_ on the basis of western Malaya-Polyn
 
 
 
-Peekel records two species of _Trichospermum_ in New Ireland, _Trichospermum peekelii_ (syn. T.fauroensis, _Trichospermum psilocladum_) in the north and _Trichospermum pleiostigma_ (syn. T. quadrivale, Althoffia tetrapyxis) in the south, with an overlap in the Madak-speaking area.
+Peekel records two species of _Trichospermum_ in New Ireland, _Trichospermum peekelii_ (syn. T.fauroensis, _Trichospermum psilocladum_) in the north and _Trichospermum pleiostigma_ (syn. _T. quadrivale_, Althoffia tetrapyxis) in the south, with an overlap in the Madak-speaking area.
 
 Both species grow to 10--20 m and have a single stem with radial branches which form a roundish to conical crown. When it is in bloom, the crown is covered in fllowers and is a white mass with a sweet smell which reaches quite a distance. Because the saplings are shade-intolerant, they tend to occur in secondary regrowth, although individual specimens may attain canopy height and survive-but they are unable to reproduce.
 

@@ -2046,7 +2046,7 @@ For the Micronesian names of _Tacca leontopetaloides_, however, no origin has be
 
 <a id="s-2-3-3"></a>
 
-#### 2.3.3. _Pueraria lobata_ (syn. P. novo-guineensis, _Pueraria thunbergiana_, _Pueraria triloba_, _Pueraria hirsuta_, P. neo-caledonica, _Pachyrrhizus trilobus_, _Pueraria montanus_, P. _Dolichos hirsutus_, _Dolichos tuberosus_, _Dolichos lobatus_) (Fabaceae)
+#### 2.3.3. _Pueraria lobata_ (syn. _P. novo-guineensis_, _Pueraria thunbergiana_, _Pueraria triloba_, _Pueraria hirsuta_, _P. neo-caledonica_, _Pachyrrhizus trilobus_, _Pueraria montanus_, P. _Dolichos hirsutus_, _Dolichos tuberosus_, _Dolichos lobatus_) (Fabaceae)
 
 
 <a id="fig-3-9_4"> </a>
@@ -2173,7 +2173,7 @@ Edible bananas are all sterile hybrids with complex genetic histories, cultivars
 
 <a id="p-276"></a>
 
-A for the various subspecies of _Musa_ acuminata, B for those of _Musa balbisiana_, S for the minor New Guinea species M. schizocarpa (all three in the section _Musa_) and T for Callimusa-derived genomes. Thus 'M. sapientum' and '_Musa paradisiaca_', the two alleged species recognised by Linnaeus, are both AAB triploid hybrids. [Arnaud and Horry's](../sources/ArnaudandJPHorry1997) ([1997](../sources/ArnaudandJPHorry1997)) survey of 108 banana varieties in Papua New Guinea includes AA and AB diploid and AAA, AAB and ABB triploid hybrids, as well as hybrids of _Musa_ and Callimusa species.[^19]
+A for the various subspecies of _Musa_ acuminata, B for those of _Musa balbisiana_, S for the minor New Guinea species _Musa schizocarpa_ (all three in the section _Musa_) and T for Callimusa-derived genomes. Thus '_Musa sapientum_' and '_Musa paradisiaca_', the two alleged species recognised by Linnaeus, are both AAB triploid hybrids. [Arnaud and Horry's](../sources/ArnaudandJPHorry1997) ([1997](../sources/ArnaudandJPHorry1997)) survey of 108 banana varieties in Papua New Guinea includes AA and AB diploid and AAA, AAB and ABB triploid hybrids, as well as hybrids of _Musa_ and Callimusa species.[^19]
 
 Biomolecular study confirms these sections and is currently bringing about a revision of ideas about the archaeobotany of bananas, which is considerably more complicated than previously thought (J. [Kennedy forthcoming](../sources/Kennedyforthcoming)). The transformation from wild to cultivated edible bananas occurred independently in the two sections. The wild species of the section _Musa_ that have contributed to edible bananas are found over a region stretching from eastern India and Sri Lanka through island SE Asia into the NW Melanesia as far as the Solomons, but the fact that New Guinea is home to many highly diverse diploid AA cultivars makes it the probable area of their domestication. Wild Callimusa species are confined to a region stretching from Halmahera to the Solomons, indicating that NW Melanesia was the region where Callimusa bananas were also first domesticated.
 
@@ -2183,7 +2183,7 @@ Biomolecular study confirms these sections and is currently bringing about a rev
 
 
 
-J. [Kennedy](../sources/Kennedy2008) ([2008](../sources/Kennedy2008)) points out that all bananas east of the Solomons were carried there by settlers. These belong to three distinct lineages. The first consists of so-called _Fe'i_ bananas, hybrids among several Callimusa species (and the world's only edible Callimusa bananas). The other two, both known as 'Pacific plantains', are derived from _Musa_ species. One involves M. acuminata, subspecies banksii, endemic to New Guinea, and the other is a cross between the M. acuminata subspecies banksii and errans, the latter endemic to the Philippines. _Fe'i_ bananas and banksii derivatives both originated in New Guinea, but the site of banksii/errans hybridisation is unknown. Archaeological evidence from Kuk in the New Guinea Highlands indicates that edible diploids derived from M. acuminata banksii were under cultivation by 7000 years ago, but the origins of _Fe'i_ bananas and banksii/errans hybrids cannot be dated. The geographic and chronological unknowns do not exclude the possibility that all three lineages were carried into the Pacific by early Oceanic speakers, but they do not confirm it either.
+J. [Kennedy](../sources/Kennedy2008) ([2008](../sources/Kennedy2008)) points out that all bananas east of the Solomons were carried there by settlers. These belong to three distinct lineages. The first consists of so-called _Fe'i_ bananas, hybrids among several Callimusa species (and the world's only edible Callimusa bananas). The other two, both known as 'Pacific plantains', are derived from _Musa_ species. One involves _Musa acuminata_, subspecies banksii, endemic to New Guinea, and the other is a cross between the _Musa acuminata_ subspecies banksii and errans, the latter endemic to the Philippines. _Fe'i_ bananas and banksii derivatives both originated in New Guinea, but the site of banksii/errans hybridisation is unknown. Archaeological evidence from Kuk in the New Guinea Highlands indicates that edible diploids derived from _Musa acuminata_ banksii were under cultivation by 7000 years ago, but the origins of _Fe'i_ bananas and banksii/errans hybrids cannot be dated. The geographic and chronological unknowns do not exclude the possibility that all three lineages were carried into the Pacific by early Oceanic speakers, but they do not confirm it either.
 
 
 <a id="p-277"></a>
@@ -2427,7 +2427,7 @@ The term _Musa troglodytarum_ is used (inaccurately) both of wild varieties of _
 <tr>
 <td>NNG</td><td><a href="../languages/patep">Patep</a></td><td><i>joŋ</i></td>
 <td>
-'<span>banana (generic); banana, <em>Musa sapientium</em></span>'</td>
+'<span>banana (generic); banana, <em>Musa sapientum</em></span>'</td>
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/vaghua">Vaghua</a></td><td><i>soga</i></td>
@@ -2756,7 +2756,7 @@ Breadfruit trees grow to a height of 20 m and usually at altitudes below 1200 m.
 
 Breadfruit seeds have a high protein content and are nutritionally the most valuable part of the fruit (Paijmans 1976: 123). Breadfruit are very rich in starch and contain about 25% carbohydrates. They are usually roasted, baked, fried, or boiled before being eaten. The cooking method depends on the cultivar. They can be eaten raw, but in Papua New Guinea and the Solomons they are commonly baked whole in a fire or an oven, and then the skin and seeds are removed. Some fruit have seeds about the size and texture of chestnuts and taste rather like very dense young potatoes. They are removed from the baked fruit and sometimes roasted over the fire before eating. In New Guinea this is usually the only part that is eaten ([Walter & Sam 2002](../sources/WalterandSam2002): 107-110, [Bourke & Allen forthcoming](../sources/BourkeandAllenforthcoming)).
 
-The description above applies to breadfruit varieties in New Guinea and the Bismarck Archipelago. As one moves eastward across the Pacific, one finds breadfruit varieties that have been increasingly selected for flesh rather than seeds, so that most cultivars in Polynesia are seedless and are propagated by root cuttings. The genetic history is more complex than this implies, however, as two other species have contributed to the varieties subsumed under _Artocarpus altilis_. One is A. camansi, sometimes called 'breadnut', which occurred both wild and cultivated in New Guinea, the other A. mariannensis, endemic to the high islands of western Micronesia ([Yen 1991](../sources/Yen1991), [Zerega 2003](../sources/Zerega2003), cited by [Kennedy & Clarke 2004](../sources/KennedyandClarke2004)).
+The description above applies to breadfruit varieties in New Guinea and the Bismarck Archipelago. As one moves eastward across the Pacific, one finds breadfruit varieties that have been increasingly selected for flesh rather than seeds, so that most cultivars in Polynesia are seedless and are propagated by root cuttings. The genetic history is more complex than this implies, however, as two other species have contributed to the varieties subsumed under _Artocarpus altilis_. One is _Artocarpus camansi_, sometimes called 'breadnut', which occurred both wild and cultivated in New Guinea, the other _Artocarpus mariannensis_, endemic to the high islands of western Micronesia ([Yen 1991](../sources/Yen1991), [Zerega 2003](../sources/Zerega2003), cited by [Kennedy & Clarke 2004](../sources/KennedyandClarke2004)).
 
 Because breadfruit trees usually produce large crops at certain times of the year, preservation is an issue. In parts of Papua New Guinea and in the Temotu archipelago, breadfruit are dried into a sort of biscuit ([French & Bridle 1978](../sources/FrenchandBridle1978):40, [Henderson & Hancock 1988](../sources/HendersonandHancock1988): 37). A traditional preservation technique in Vanuatu, Micronesia and Polynesia is to bury peeled and washed fruits in a leaf-lined pit where they ferment over several weeks and produce a sour, sticky paste. So stored, the product may last a year or more, and some pits are reported to have produced edible contents more than 30 years later (for terms associated with fermentation, see [vol.1, ch.6, §4.2](../contributions/1-6#s-4-2)).
 
@@ -2780,7 +2780,7 @@ How are we to explain the complementary distribution? It is clear from non-Ocean
 
 <a id="p-283"></a>
 
-POc _&ast;baReko_ or perhaps _&ast;beta_ may have denoted A. calamansi or a particular breadfruit cultivar or, for example, the cooked breadfruit, but these possibilities remain speculations.
+POc _&ast;baReko_ or perhaps _&ast;beta_ may have denoted _Artocarpus camansi_ or a particular breadfruit cultivar or, for example, the cooked breadfruit, but these possibilities remain speculations.
 
 Scattered areas - many North New Guinea languages on New Britain, scattered languages in the islands of the Papuan Tip area, much of Central and South Vanuatu, and Micronesia - have a breadfruit term other than _&ast;kuluR_~_&ast;kunuR_ and _&ast;baReko_. Two of these, POc(?) _&ast;beta_ and Proto Remote Oceanic _&ast;maRi_, are sufficiently widespread to warrant mention.
 
@@ -3443,14 +3443,14 @@ Names of some breadfruit parts are reconstructed in chapter 4. They are:
 
 The starch source in a _Metroxylon sagu_ palm is the pith within its trunk. The palm only flowers and fruits once, and large stocks of carbohydrate are accumulated in the trunk in preparation for this event, after which the palm dies. This reserve of starch reaches its maximum just before flowering, when sago-eaters fell the palm and harvest its starch.
 
-Sago palms are species of the genus _Metroxylon_. They grow in fresh-water swamps and wetlands, but not on permanently flooded sites. The species which produces most food starch, _Metroxylon sagu_, reaches 15 m in height and has a bole diameter without leaf sheaths of 35-60 em. Each palm is produced from a root stock which gives out several shoots, with the result that sago stands are naturally very dense. Other species vary in height, some smaller, some larger, the very largest, M. amicarum, growing to 33m.
+Sago palms are species of the genus _Metroxylon_. They grow in fresh-water swamps and wetlands, but not on permanently flooded sites. The species which produces most food starch, _Metroxylon sagu_, reaches 15 m in height and has a bole diameter without leaf sheaths of 35-60 em. Each palm is produced from a root stock which gives out several shoots, with the result that sago stands are naturally very dense. Other species vary in height, some smaller, some larger, the very largest, _Metroxylon amicarum_, growing to 33m.
 
 There are a number of different species of _Metroxylon_ found in the Oceanic-speaking region. Those upon which the literature ([Barrau 1955](../sources/Barrau1955):45--46, 1962: 140--143, [Henderson & Hancock 1988](../sources/HendersonandHancock1988): 34--35, [McClatchey et al. 2006b](../sources/McClatcheyetal2006b)) appears to agree are: [^26]
 
 _Metroxylon sagu_
 :   New Guinea, Bismarcks, Bougainville, Choiseul, New Georgia[^27]
 
-_M. bougainvillense_
+_Metroxylon bougainvillense_
 :   New Guinea, Bismarcks, Bougainville, Choiseul, New Georgia[^28]
 
 _M. solomonense_
@@ -3462,10 +3462,10 @@ _Metroxylon warburgii_
 _Memecylon vitiense_
 :   Fiji
 
-_M. amicarum_
+_Metroxylon amicarum_
 :   Micronesia
 
-It seems probable that sago starch was consumed by POc speakers. The POc homeland was in the Bismarcks (vo1.2, ch.2) and it is there and in areas nearby (New Guinea, Bougainville, Choiseul and New Georgia) that _Metroxylon_ palms are used for food purposes. This is almost certainly related to the fact that this region is the domain of the two species, _Metroxylon sagu_ and M. bougainvillense, which provide the best supplies of starch ([Henderson & Hancock 1988](../sources/HendersonandHancock1988): 34--35). Outside the sago-eating region sago species usually do not grow naturally but are cultivated for their leaves.
+It seems probable that sago starch was consumed by POc speakers. The POc homeland was in the Bismarcks (vo1.2, ch.2) and it is there and in areas nearby (New Guinea, Bougainville, Choiseul and New Georgia) that _Metroxylon_ palms are used for food purposes. This is almost certainly related to the fact that this region is the domain of the two species, _Metroxylon sagu_ and _Metroxylon bougainvillense_, which provide the best supplies of starch ([Henderson & Hancock 1988](../sources/HendersonandHancock1988): 34--35). Outside the sago-eating region sago species usually do not grow naturally but are cultivated for their leaves.
 
 
 <a id="p-287"></a>
@@ -3657,7 +3657,7 @@ A glance through chapter 4 shows that where the parts of a sago palm resemble th
 
 Cycads are palm-like plants of the family Cycadaceae (unlike sago, coconut, betelnut and the black, fan and nipa palms, all members of the family Arecaceae). Until a decade ago _Cycas rumphii_ (syn. _Cycas_ circinalis) was believed to be the only cycad species in Oceanic-speaking territory. However, recent work on the genus reported by [Laubenfels & Adema](../sources/LaubenfelsandAdema1998) ([1998](../sources/LaubenfelsandAdema1998)) has established that two species, _Cycas rumphii_ and c, have almost identical distributions extending from the north coast of New Guinea eastward through the Bismarcks and into the Solomons with outliers in Micronesia. At least one of these is evidently also present in Vanuatu and New Caledonia, to judge from the data listed below.[^31]
 
-The description here is limited to _Cycas rumphii_, but, as some sources treat C. scratchleyana as a synonym of _Cycas rumphii_, I assume that the two species have almost identical features. _Cycas rumphii_ grows 3-10m tall. [Guppy](../sources/Guppy1906) ([1906](../sources/Guppy1906): 413), cited by Barrau (1965), considered C. rumphii to have been one of the early food sources of the Pacific Islands. Barrau mentions oral traditions about its use in New Guinea, Vanuatu, New Caledonia and Fiji. The seeds were and sometimes still are used at least as famine foods on islands throughout its Pacific distribution. Such is the strength of these oral traditions that Barrau concurs with Guppy's view that it was at one time more than a famine food, pointing to the popularity of food made from the seeds, for example, on Guam. Other sources mention the seed pudding as something prized in places as far apart as the Ninigo Islands ([Sorensen 1950](../sources/Sorensen1950)) and Bellona ([Christiansen 1975](../sources/Christiansen1975)). Exploitation of the stem starch seems to have been much rarer in the Pacific (it is more common in parts of Asia; [Thieret 1958](../sources/Thieret1958), [Whiting 1953](../sources/Whiting1953)), but it occurred at Wedau (north coast of SE Papua, [Kahn 1986](../sources/Kahn1986)), in the Solomons and in New Caledonia. In the Solomons the starch was processed in much the same way as sago starch (and as with sago, the starch was harvested before fruiting; [ch.9, §5.1](../contributions/3-9#s-5-1) [Parkinson 1907](../sources/Parkinson1907)). In New Caledonia the stem starch was cut up and cooked (Jumelle 1907, cited by [Thieret 1958](../sources/Thieret1958)). In Tonga the grated stem starch was rinsed and the starch that settled out was collected as a famine food ([Whistler 1991b](../sources/Whistler1991b)).
+The description here is limited to _Cycas rumphii_, but, as some sources treat _Cycas scratchleyana_ as a synonym of _Cycas rumphii_, I assume that the two species have almost identical features. _Cycas rumphii_ grows 3-10m tall. [Guppy](../sources/Guppy1906) ([1906](../sources/Guppy1906): 413), cited by Barrau (1965), considered C. rumphii to have been one of the early food sources of the Pacific Islands. Barrau mentions oral traditions about its use in New Guinea, Vanuatu, New Caledonia and Fiji. The seeds were and sometimes still are used at least as famine foods on islands throughout its Pacific distribution. Such is the strength of these oral traditions that Barrau concurs with Guppy's view that it was at one time more than a famine food, pointing to the popularity of food made from the seeds, for example, on Guam. Other sources mention the seed pudding as something prized in places as far apart as the Ninigo Islands ([Sorensen 1950](../sources/Sorensen1950)) and Bellona ([Christiansen 1975](../sources/Christiansen1975)). Exploitation of the stem starch seems to have been much rarer in the Pacific (it is more common in parts of Asia; [Thieret 1958](../sources/Thieret1958), [Whiting 1953](../sources/Whiting1953)), but it occurred at Wedau (north coast of SE Papua, [Kahn 1986](../sources/Kahn1986)), in the Solomons and in New Caledonia. In the Solomons the starch was processed in much the same way as sago starch (and as with sago, the starch was harvested before fruiting; [ch.9, §5.1](../contributions/3-9#s-5-1) [Parkinson 1907](../sources/Parkinson1907)). In New Caledonia the stem starch was cut up and cooked (Jumelle 1907, cited by [Thieret 1958](../sources/Thieret1958)). In Tonga the grated stem starch was rinsed and the starch that settled out was collected as a famine food ([Whistler 1991b](../sources/Whistler1991b)).
 
 
 <a id="p-290"></a>
@@ -3676,7 +3676,7 @@ Various parts of the plant are used to cover small wounds and tropical ulcers. I
 
 Barrau's assertion that _Cycas rumphii_ played an important role in earlier Oceanic cultures receives some support from the fact that several terms for it are reconstructable: POc _&ast;(p,pʷ)atoRu_ and _&ast;bai-bai(t)_, PEOc _&ast;mʷa(q)ele_ and PCP _&ast;loŋo-loŋo_. The geographic distributions of these terms scarcely overlap.
 
-The glosses of many of the terms listed below  refer simply to 'cycad' or '_Cycas_'. None is identified as 'C. scratchleyana', and there is reasonable support for glossing all of them '_Cycas rumphii_', but this is likely to be due to the fact that the two species were not distinguished until recently.
+The glosses of many of the terms listed below  refer simply to 'cycad' or '_Cycas_'. None is identified as '_Cycas scratchleyana_', and there is reasonable support for glossing all of them '_Cycas rumphii_', but this is likely to be due to the fact that the two species were not distinguished until recently.
 
 <table id="3-9-5-2-290-POc-ppatoru-a">
 <tr>
@@ -4078,14 +4078,14 @@ The banana, _&ast;pudi_ (_Musa_ cultivars), and the breadfruit, _&ast;kuluR_ and
 
 [^26]: The term 'sago palm' is also used in North America and in New Zealand for a decorative cycad, _Cycas revoluta_, because of its vague resemblance to a _Metroxylon_ palm.
 
-[^27]: According to [Barrau](../sources/Barrau1962) ([1962](../sources/Barrau1962): 142), _Metroxylon sagu_ is a sterile cultivar of M. rumphii. [Barrau](../sources/Barrau1955) ([1955](../sources/Barrau1955): 45) also lists M. oxybracteatum (New Guinea). Other sources do not list it.
+[^27]: According to [Barrau](../sources/Barrau1962) ([1962](../sources/Barrau1962): 142), _Metroxylon sagu_ is a sterile cultivar of _Metroxylon rumphii_. [Barrau](../sources/Barrau1955) ([1955](../sources/Barrau1955): 45) also lists _Metroxylon oxybracteatum_ (New Guinea). Other sources do not list it.
 
-[^28]: [French](../sources/French1986) ([1986](../sources/French1986): 27) and [McClatchey et al.](../sources/McClatcheyetal2006b) ([2006b](../sources/McClatcheyetal2006b)) say that M. bougain villense is a synonym of M. solomonense, but other sources view them as markedly separate species.
+[^28]: [French](../sources/French1986) ([1986](../sources/French1986): 27) and [McClatchey et al.](../sources/McClatcheyetal2006b) ([2006b](../sources/McClatcheyetal2006b)) say that _Metroxylon bougainvillense_ is a synonym of _M. solomonense_, but other sources view them as markedly separate species.
 
-[^29]: [McClatchey et al.](../sources/McClatcheyetal2006b) ([2006b](../sources/McClatcheyetal2006b)) also list M. paulcoxii (Samoa) but say it is possibly a cultivar of _Metroxylon warburgii_.
+[^29]: [McClatchey et al.](../sources/McClatcheyetal2006b) ([2006b](../sources/McClatcheyetal2006b)) also list _Metroxylon paulcoxii_ (Samoa) but say it is possibly a cultivar of _Metroxylon warburgii_.
 
 [^30]: Samoan _pia_ (and its cognates) thus do not reflect POc _&ast;piRaq_ 'giant taro, _Alocasia macrorrhizos_', as I assumed in [Ross](../sources/Ross1996d) ([1996d](../sources/Ross1996d)). The regular PPn reflex of POc _&ast;piRaq_ would be †_&ast;fia_.
 
-[^31]: A third species, C. celebica, has a discontinuous distribution - from Borneo to the Moluccas, and from Bougainville to Tonga, with an outlier in the Marianas.
+[^31]: A third species, _Cycas celebica_, has a discontinuous distribution - from Borneo to the Moluccas, and from Bougainville to Tonga, with an outlier in the Marianas.
 
 [^32]: PMP _&ast;patuRu_ is supported by the Oceanic data here and by the following non-Oceanic cognates: Pinatubo Sambal _patogo_, Tagalog _patugo_, Hanunuo _pitugu_, Panay Bisayan _pitogo_ ([Madulid 2001b](../sources/Madulid2001b): 87), Kangean Madurese _pətoko_, Gorontalo _patuhu_, Buol _potugu_, Buginese _patuku_ ([Heyne 1950](../sources/Heyne1950): 107).

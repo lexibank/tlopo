@@ -17270,8 +17270,8 @@ POc *putiR ‘wart, cyst, non-purulent skin eruption’ (ACD)
 5.3.3 Skin infections
 
 Next are skin infections like scabies or the two most common forms of tinea, ringworm
-(_Tinea imbricata_) and the skin infection that causes white patches to appear on the skin (Tinea
-versicolor).
+(_Tinea imbricata_) and the skin infection that causes white patches to appear on the skin
+(Tinea versicolor).
 
 346 Meredith Osmond
 

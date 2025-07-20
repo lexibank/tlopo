@@ -37,6 +37,8 @@ class Database(BaseDatabase):
 
 
 def md_string(s):
+    if s.startswith('+'):
+        s = s.replace('+', '&plus;')
     return markdown(s).replace('<p>', '<span>').replace('</p>', '</span>')
 
 

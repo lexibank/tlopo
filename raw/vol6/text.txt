@@ -14827,12 +14827,12 @@ __blockquote__
      The large land crabs, Cardisoma spp., are an important food source in many Oceanic
      communities and there are often several terms relating to their growth stage and
      spawning behaviour. For example, Foale (1998) reports that in west Gela (central
-     Solomons) females of the abundant land crab Cardisoma hirtipes [Discoplax hirtipes]
+     Solomons) females of the abundant land crab _Cardisoma hirtipes_ [Discoplax hirtipes]
      migrate to the beach at certain phases in the lunar cycle in the wet season, from October
      to December, releasing zoea larvae from their egg mass (_lami_). … Three weeks before
      doing this they migrate to the sea to immerse themselves, an event known as the _sapa_
      _toga_ (thousands go seawards). This is the preferred time to take them because they are
-     fatter. In Fiji, Wayans refer to the mass migration of C. hirtipes as _vui_.
+     fatter. In Fiji, Wayans refer to the mass migration of _Cardisoma hirtipes_ as _vui_.
 
 Pawley notes elsewhere (2022) that spawning time of land crabs (_tubā_) in Waya ‘happens at
 high tide on two or three evenings in December, January and February’. Hence Wayan Fijian
@@ -15035,7 +15035,7 @@ __formgroup__
  NNG: Maenge |kereŋe kemera| ‘month 08’; ‘_Pterocarpus indicus_ has shed all its leaves and is bare’ (Throughout this month the weather is so bad that ‘nobody knows who may have died in the neighboring village as communication is too difficult.’) (Panoff 1969)
  NNG: Maenge |kereŋe kau soali| ‘month 08’  (Panoff 1969)
  NNG: Maenge |kerenge manaŋana|   ‘month 09’; ‘_Pterocarpus indicus_ is flowering’ (The rains decline, and the sky is less cloudy. Yams cease to prevail in the Maenge diet. Travel from village to village is resumed.) (Panoff 1969)
- NNG: Maenge ulasi     ‘month 10’; ‘a small fish, the bluestripe squirrelfish (Sargocentron tiere)’ (A transitional month between _vinte_ and _kaepâ_ (wet and dry). Squirrelfish swarm in shallow waters near the beach.) (Panoff 1969)
+ NNG: Maenge ulasi     ‘month 10’; ‘a small fish, the bluestripe squirrelfish (_Sargocentron_ tiere)’ (A transitional month between _vinte_ and _kaepâ_ (wet and dry). Squirrelfish swarm in shallow waters near the beach.) (Panoff 1969)
  NNG: Maenge |paugala ka siana|  ‘month 11’; ‘Albizzia falcata is pregnant’ (The Albizzia is budding. It is the first month which definitely belongs to _kaepâ_ (the dry season). Preparations for the great festivals of the dry season are well under way.) (Panoff 1969)
  NNG: Maenge |paugala enga valipola|  ‘month 12’; ‘the flowers of Albizzia falcata burst’ (The southern solstice approaches and the rains are getting very scarce. The palolo make their appearance on the surface of shallow waters for one or two nights and are skimmed off as delicacies by the inhabitants of Malakuru and Pomio. Many villages start their festivals. Usually large sections of bush are cleared for preparing the collective gardens, the harvest of which is designed for the following year's festivals.) (Panoff 1969)
 

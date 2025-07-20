@@ -13535,7 +13535,7 @@ _Cycas revoluta_, because of its vague resemblance to a _Metroxylon_ palm.
 [27] According to Barrau (1962: 142), _Metroxylon sagu_ is a sterile cultivar of _Metroxylon rumphii_. Barrau (1955: 45)
 also lists _Metroxylon oxybracteatum_ (New Guinea). Other sources do not list it.
 
-[28] French (1986: 27) and McClatchey et al. (2006b) say that _Metroxylon bougainvillense_ is a synonym of M. solomonense,
+[28] French (1986: 27) and McClatchey et al. (2006b) say that _Metroxylon bougainvillense_ is a synonym of _M. solomonense_,
 but other sources view them as markedly separate species.
 
 [29] McClatchey et al. (2006b) also list _Metroxylon paulcoxii_ (Samoa) but say it is possibly a cultivar of _Metroxylon warburgii_.
@@ -14204,7 +14204,7 @@ cf. also:
 
 10.4.1 Terms for classes of _Ficus_
 
-Worldwide there are about a thousand species of _Ficus_, including the common fig, F. carica.
+Worldwide there are about a thousand species of _Ficus_, including the common fig, _F. carica_.
 Over 500 species occur in the Asia-Pacific region. Many of them have a limited distribution.
 _Ficus granatum_, for example, is limited to Vanuatu, _Ficus scabra_ to Vanuatu, New Caledonia,
 Fiji, Tonga and Samoa (Walter & Sam 2002: 164, 166). As a consequence, it is difficult to
@@ -15190,7 +15190,7 @@ distributed from southern India to Polynesia, but _Terminalia kaernbachii_ occur
 New Guinea and the Bismarck Archipelago (Bourke 1996, Walter & Sam 2002: 260). Several other
 species with edible nuts occur in NW Island Melanesia but are only harvested
 from the wild (_Terminalia copelandii_, _Terminalia impediens_; Paijmans 1976: 123-124), and yet other species
-have fruits with edible flesh (T. megalocarpa, syn. T. solomonensis, T. lapalagon). Several
+have fruits with edible flesh (_Terminalia megalocarpa__, syn. _T. solomonensis_, _T. lapalagon_). Several
 _Terminalia_ species found indigenously in the Solomons provide good timber: _Terminalia brassii_, T.
 calamansanai and _Terminalia sepicana_ (Evans 1999: 10--11).
 

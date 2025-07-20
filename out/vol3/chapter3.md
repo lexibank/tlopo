@@ -132,7 +132,7 @@ _toutou_
 There are also subtaxa of _kai_ which are further subclassified into apparent folk specifics, as can be seen from the dictionary entries given below for _araro_ and _doi_ ([Pawley & Sayaba 2003](../sources/PawleyandSayaba2003)).
 
 _araro_
-:   _Premna_ sp. or spp. (_Premna serratifolia_, P. protrusa) (Verbenaceae). Small coastal tree
+:   _Premna_ sp. or spp. (_Premna serratifolia_, _Premna protrusa_) (Verbenaceae). Small coastal tree
     with entire leaves. Hard wood, much used for posts.
 
     _araro alewa_

@@ -1490,7 +1490,7 @@ The POc term ancestral to Dobu _udi_ 'banana' was _&ast;pudi_ ([ch.9, §3](../co
 
 <a id="p-51"></a>
 
-Other reduplicated forms in Ramoaaina are _ləma_ 'coconut tree or fruit' vs _ləma-ləma_ 'wild coconut tree or fruit' and _bara_ 'breadfruit' vs _bara-bare_ 'wild breadfruit'. For nearby Patpatar [Peekel](../sources/Peekel1984) ([1984](../sources/Peekel1984)) lists _tuh_ 'sugarcane, _Saccharum officinarum_' vs _tuh-tuh_ 'wild sugarcane, _Saccharum spontaneum_', _pulaka_ 'Polynesian arrowroot, _Tacca_ pinnatifida' vs _pulaka-pulaka_ 'wild varieties of Polynesian arrowroot', _sier_ 'betelpepper vine, _Piper betle_' vs _sier-sier_ 'a vine, Piper fragile, P. singkojang or P. banksii' .
+Other reduplicated forms in Ramoaaina are _ləma_ 'coconut tree or fruit' vs _ləma-ləma_ 'wild coconut tree or fruit' and _bara_ 'breadfruit' vs _bara-bare_ 'wild breadfruit'. For nearby Patpatar [Peekel](../sources/Peekel1984) ([1984](../sources/Peekel1984)) lists _tuh_ 'sugarcane, _Saccharum officinarum_' vs _tuh-tuh_ 'wild sugarcane, _Saccharum spontaneum_', _pulaka_ 'Polynesian arrowroot, _Tacca_ pinnatifida' vs _pulaka-pulaka_ 'wild varieties of Polynesian arrowroot', _sier_ 'betelpepper vine, _Piper betle_' vs _sier-sier_ 'a vine, Piper fragile, _Piper singkojan_g or _Piper banksii_' .
 
 Wayan Fijian has _niu_ 'coconut palm' vs _niu-niu_ 'cycad, _Cycas_ circinalis' and _vara_ 'germinating coconut' vs _vara-vara_ 'taxon of fleshy herbs, particularly orchids'.
 

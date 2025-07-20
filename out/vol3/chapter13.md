@@ -1112,26 +1112,26 @@ The denotations of PCP &ast;kawa as 'Piper sp.', '_Zingiber_ spp.' and 'fish-poi
 ### 3.1. _Bambusa_, _Schizostachyum_ and_Nastus_ spp., bamboo, TP mambu, Bbambu (Poaceae)
 
 
-Three genera of bamboos are represented in NW Island Melanesia: _Bambusa_, _Schizostachyum_ and N astus. They are treated together here, since only one of the reconstructable terms can be related to a particular species. A number of species are often cultivated.
+Three genera of bamboos are represented in NW Island Melanesia: _Bambusa_, _Schizostachyum_ and _Nastus_. They are treated together here, since only one of the reconstructable terms can be related to a particular species. A number of species are often cultivated.
 
-Three species of _Bambusa_, all thick-walled, are reported from the region. The most common in the Bismarcks and the largest in the Solomons is _Bambusa vulgaris_, with a culm (walled stem) about 5-10 m high and 10-15cm in diameter and a short internode distance around 30-50 cm. However, _Bambusa vulgaris_ was introduced after European contact (Rhys Gardner, pers. comm.) and was not among the denotata of the POc terms below. B. blumeana is very similar and apparently important only in Malaita. B. forbesii, reported from the Bismarcks, is smaller, with a culm 2-4 m high and 1-4cm diameter, and has broad leaves ([Peekel 1984](../sources/Peekel1984): 55-56, [Henderson & Hancock 1988](../sources/HendersonandHancock1988): 203-205).
+Three species of _Bambusa_, all thick-walled, are reported from the region. The most common in the Bismarcks and the largest in the Solomons is _Bambusa vulgaris_, with a culm (walled stem) about 5-10 m high and 10-15cm in diameter and a short internode distance around 30-50 cm. However, _Bambusa vulgaris_ was introduced after European contact (Rhys Gardner, pers. comm.) and was not among the denotata of the POc terms below. _B. blumeana_ is very similar and apparently important only in Malaita. _B. forbesii_, reported from the Bismarcks, is smaller, with a culm 2-4 m high and 1-4cm diameter, and has broad leaves ([Peekel 1984](../sources/Peekel1984): 55-56, [Henderson & Hancock 1988](../sources/HendersonandHancock1988): 203-205).
 
 _Bambusa_ bamboos are used in housing construction for beams and rafters, as well as to make containers for lime and water and tongs for lifting the hot stones of a stone oven ([Henderson & Hancock 1988](../sources/HendersonandHancock1988): 204--205). At Marovo they are used to make large traditional tuna-fishing rods and a whole stem serves as a 'ladder' to climb sago palms in order to cut its fronds ([Hviding 2005](../sources/Hviding2005): 117).
 
-Two species of the thin-walled genus _Schizostachyum_ are reported from the region. No comparative account is available, but the two appear similar. _Schizostachyum lima_, found in the Bismarcks, has a culm about 4--8 m high and 4--10cm in diameter, with internode lengths of 50-80 cm ([Peekel 1984](../sources/Peekel1984): 55). S. tessellatum, found in the Solomons, is described as tall and very thin, growing wild in many habitats in clumps 10 m tall. It is the only bamboo amongst the three genera that is observed to flower regularly
+Two species of the thin-walled genus _Schizostachyum_ are reported from the region. No comparative account is available, but the two appear similar. _Schizostachyum lima_, found in the Bismarcks, has a culm about 4--8 m high and 4--10cm in diameter, with internode lengths of 50-80 cm ([Peekel 1984](../sources/Peekel1984): 55). _S. tessellatum_, found in the Solomons, is described as tall and very thin, growing wild in many habitats in clumps 10 m tall. It is the only bamboo amongst the three genera that is observed to flower regularly
 
 
 <a id="p-399"></a>
 
 _Schizostachyum_ species are a source of very straight, lightweight poles with many purposes: as battens from which to hang sago leaf thatch, as yam poles, as small fishing rods and as spears. Pieces of _Schizostachyum_ are used to make traditional panpipes and coconut scrapers. They are also used as fencing material ([Henderson & Hancock 1988](../sources/HendersonandHancock1988):202-203, [Hviding 2005](../sources/Hviding2005): 107, [Kwa'ioloa & Burt 2001](../sources/KwaioloaandBurt2001): 202).
 
-Three species of the thin-walled genus _Nastus_ are reported from the region. One is N. productus, a small, often drooping bamboo. A second is _Nastus obtusus_, a very slender bamboo which is almost always cultivated and attains heights of over 20 m with stem diameters of 8-11cm and internode lengths of 50 em to a metre. A third N astus species is not given a scientific name,[^6] but sources describe it as pliant and behaving as a tree or ground creeper. It has very short internode lengths and small, narrow leaves ([Peekel 1984](../sources/Peekel1984): 55, [Henderson & Hancock 1988](../sources/HendersonandHancock1988): 177, [Kwa'ioloa & Burt 2001](../sources/KwaioloaandBurt2001): 200-201).
+Three species of the thin-walled genus _Nastus_ are reported from the region. One is _Nastus productus_, a small, often drooping bamboo. A second is _Nastus obtusus_, a very slender bamboo which is almost always cultivated and attains heights of over 20 m with stem diameters of 8-11cm and internode lengths of 50 em to a metre. A third _Nastus_ species is not given a scientific name,[^6] but sources describe it as pliant and behaving as a tree or ground creeper. It has very short internode lengths and small, narrow leaves ([Peekel 1984](../sources/Peekel1984): 55, [Henderson & Hancock 1988](../sources/HendersonandHancock1988): 177, [Kwa'ioloa & Burt 2001](../sources/KwaioloaandBurt2001): 200-201).
 
-The first two N astus species, and especially _Nastus obtusus_, have similar uses to those of _Schizostachyum_, but the third N astus species is considered by the Kwara'ae to be useless ([Henderson & Hancock 1988](../sources/HendersonandHancock1988): 176, 199-201, [Kwa'ioloa & Burt 2001](../sources/KwaioloaandBurt2001):200--202, [Hviding 2005](../sources/Hviding2005): 112).
+The first two _Nastus_ species, and especially _Nastus obtusus_, have similar uses to those of _Schizostachyum_, but the third _Nastus_ species is considered by the Kwara'ae to be useless ([Henderson & Hancock 1988](../sources/HendersonandHancock1988): 176, 199-201, [Kwa'ioloa & Burt 2001](../sources/KwaioloaandBurt2001):200--202, [Hviding 2005](../sources/Hviding2005): 112).
 
 Figure 13.3: _Nastus obtusus_
 
-The term reconstructed as &ast;qauR 'bamboo spp.' below was probably the generic term for bamboos of the three genera mentioned above, as it still is in some modern languages. In Tolai, for example, we find the following:
+The term reconstructed as _&ast;qauR_ 'bamboo spp.' below was probably the generic term for bamboos of the three genera mentioned above, as it still is in some modern languages. In Tolai, for example, we find the following:
 
 <table id="3-13-3-1-399-mm-tolai-kaur">
 <tr>
@@ -1173,7 +1173,7 @@ On the basis of Meso-Melanesian reflexes POc &ast;kauR 'bamboo' was reconstructe
 
 Among languages which retain a reflex of the final consonant, Mussau and Petats reflect _&ast;d_ or _&ast;dr_, rather than _&ast;R_, and Nakanai reflects _&ast;s_ or _&ast;c_.[^8] The Bilibil, Gedaged and Sio forms reflect final _&ast;-R_ where the final consonant is normally lost.
 
-[Blust](../sources/Blust1984) ([1984](../sources/Blust1984)) reconstructed POc _&ast;kaudru_[^9] 'bamboo sp.' to account for the Mussau, Petats and Selau forms.[^10] However, it does not account for the other irregularities below, and its putative reflexes are here treated as (albeit irregular) reflexes of POc _&ast;qauR_. Instead, the simplest linguistic explanation of these irregularities is that the forms reflect borrowings among neighbouring Oceanic languages. Indeed, it is possible that some of the forms with regular reflexes also result from borrowings, but happen to have regular reflexes of the consonants. However, it is not easy to see why such borrowings might have occurred, unless much of Near Oceania lacked useful bamboo species, and new species were imported by Oceanic speakers. [Hviding](../sources/Hviding2005) ([2005](../sources/Hviding2005): 107, 112, 117) hints at this when he writes that old people say that _Bambusa vulgaris_, B. blumeana, _Nastus obtusus_ and a _Schizostachyum_ species were all long ago introduced to Marovo from elsewhere. It is just possible that some of these borrowings were associated with the introduction of _Bambusa vulgaris_ after contact with Europeans.
+[Blust](../sources/Blust1984) ([1984](../sources/Blust1984)) reconstructed POc _&ast;kaudru_[^9] 'bamboo sp.' to account for the Mussau, Petats and Selau forms.[^10] However, it does not account for the other irregularities below, and its putative reflexes are here treated as (albeit irregular) reflexes of POc _&ast;qauR_. Instead, the simplest linguistic explanation of these irregularities is that the forms reflect borrowings among neighbouring Oceanic languages. Indeed, it is possible that some of the forms with regular reflexes also result from borrowings, but happen to have regular reflexes of the consonants. However, it is not easy to see why such borrowings might have occurred, unless much of Near Oceania lacked useful bamboo species, and new species were imported by Oceanic speakers. [Hviding](../sources/Hviding2005) ([2005](../sources/Hviding2005): 107, 112, 117) hints at this when he writes that old people say that _Bambusa vulgaris_, _B. blumeana_, _Nastus obtusus_ and a _Schizostachyum_ species were all long ago introduced to Marovo from elsewhere. It is just possible that some of these borrowings were associated with the introduction of _Bambusa vulgaris_ after contact with Europeans.
 
 <table id="3-13-3-1-400-POc-qaur-a">
 <tr>
@@ -2343,7 +2343,7 @@ One method of catching fish was to put a toxic plant substance into an area of w
 ### 4.1. _Derris_ spp., derris root, fish poison plant, TP _vut_ (Fabaceae)
 
 
-The use of climbing shrubs of the genus _Derris_ to stun fish for an easy catch is known from the Bismarcks to Fiji (see [vol.1, ch.8, §7](../contributions/1-8#s-7)). However, of fifteen _Derris_ species that [Verdcourt](../sources/Verdcourt1979) ([1979](../sources/Verdcourt1979): 314--331) identifies in Papua New Guinea, only three are said to be used for fishing: _Derris elliptica_, _Derris_ elegans (syn. D. rufula, D. sal'omonensis and perhaps _Derris heterophylla_) and _Derris_ malaccensis. We can evidently add a fourth, as Peekel mentions the use of _Derris trifoliata_ (syn. D. uliginosa) to stun fish, a claim confirmed by [Hviding](../sources/Hviding2005) ([2005](../sources/Hviding2005): 105).
+The use of climbing shrubs of the genus _Derris_ to stun fish for an easy catch is known from the Bismarcks to Fiji (see [vol.1, ch.8, §7](../contributions/1-8#s-7)). However, of fifteen _Derris_ species that [Verdcourt](../sources/Verdcourt1979) ([1979](../sources/Verdcourt1979): 314--331) identifies in Papua New Guinea, only three are said to be used for fishing: _Derris elliptica_, _Derris_ elegans (syn. _D. rufula_, _Dillenia salomonensis_ and perhaps _Derris heterophylla_) and _Derris_ malaccensis. We can evidently add a fourth, as Peekel mentions the use of _Derris trifoliata_ (syn. _D. uliginosa_) to stun fish, a claim confirmed by [Hviding](../sources/Hviding2005) ([2005](../sources/Hviding2005): 105).
 
 In its wild form _Derris_ elliptica is a climbing shrub up to 10m high which grows in coastal locations (Figure 13.6, right). Cultivated plants are mostly low and tangled, and produce thick fleshy roots which are scraped or crushed, then stirred into shallow water to benumb fish so that they can be easily caught.
 
@@ -4266,7 +4266,7 @@ Shown in parentheses below are irregular phonological developments, implying tha
 
 [^5]: _Hedychium coronarium_ has apparently arrived since European contact.
 
-[^6]: [Kwa'ioloa & Burt](../sources/KwaioloaandBurt2001) ([2001](../sources/KwaioloaandBurt2001): 202) label it N. productus, but this does not coincide with others' descriptions of the latter.
+[^6]: [Kwa'ioloa & Burt](../sources/KwaioloaandBurt2001) ([2001](../sources/KwaioloaandBurt2001): 202) label it _Nastus productus_, but this does not coincide with others' descriptions of the latter.
 
 [^7]: I am grateful to Françoise Ozanne-Rivierre and John Lynch for drawing my attention to this.
 
@@ -4296,12 +4296,12 @@ Shown in parentheses below are irregular phonological developments, implying tha
 
 [^20]: I initially thought that Anejom _na-mraθ_ 'Croton insularis' was cognate with the items under POc _&ast;mʷa(r,R)e_. However, members of the genus Croton are substantial trees which have little in common with _Codiaeum variegatum_, popularly called 'croton' (although both belong to the family Euphorbiaceae).
 
-[^21]: An editor's footnote indicates that [Peekel](../sources/Peekel1984) ([1984](../sources/Peekel1984): 98, 100) incorrectly identified _Heliconia indica_ as H. bihai, an American species.
+[^21]: An editor's footnote indicates that [Peekel](../sources/Peekel1984) ([1984](../sources/Peekel1984): 98, 100) incorrectly identified _Heliconia indica_ as _H. bihai_, an American species.
 
 [^22]: http://www.floridata.com/, accessed October 2007
 
 [^23]: [Barrau](../sources/Barrau1962) ([1962](../sources/Barrau1962): 189) lists _Benincasa hispida_ as a recent introduction to Oceania: he is apparently wrong, although there may have been recent reintroductions.
 
-[^24]: Barrau refers to the pumpkin as Cucurbita pepo. In Papua New Guinea, at least, the common pumpkin is _Cucurbita moschata_, not C. pepo (R. Michael Bourke, pers. comm., and [French 1986](../sources/French1986): 102-103). Both are evidently recent introductions, so this possible confusion makes no difference to the argument of this paragraph.
+[^24]: Barrau refers to the pumpkin as _Cucurbita pepo_. In Papua New Guinea, at least, the common pumpkin is _Cucurbita moschata_, not _C. pepo_ (R. Michael Bourke, pers. comm., and [French 1986](../sources/French1986): 102-103). Both are evidently recent introductions, so this possible confusion makes no difference to the argument of this paragraph.
 
 [^25]: Hote, Patep and Lenakel also neutralise _&ast;-l-_ and _&ast;-r-_, but I have ignored this here for the sake of simplicity of presentation.
