@@ -794,7 +794,7 @@ PMP *gemgem ‘make a fist        |             POc *gogo(m), *gom-i ‘hold in 
 trisyllabic roots with _*-e-_ (*[ə]) as the nucleus of their second syllable. These trisyllables lost _*-e-_
 in POc, along with the second consonant of the resulting consonant cluster. Thus PMP _*buteliR_
 ‘wart’ became POc _*putiR_ (§5.3.2.5). Other etyma where this happened are PMP _*buqeni_, POc
-_*puni_ ‘ringworm, Tinea imbricata’ (§5.3.3.2), PMP _*tuqelan_, POc _*tuqan_ ‘bone’ (§3.3.4), PMP
+_*puni_ ‘ringworm, _Tinea imbricata_’ (§5.3.3.2), PMP _*tuqelan_, POc _*tuqan_ ‘bone’ (§3.3.4), PMP
 _*baReqaŋ_, POc _*paRa(ŋ)_ ‘molar tooth’ (§3.4.12.5), PMP _*biseqak_ ‘split’, POc _*pisa(k)_~_*pisak-i-_
 (vol.1:261), and PMP _*ma-udehi_, POc _*muri_ ‘be behind’ (vol.2:251 and §6.5.3), PMP
 _*ma-heyaq_ ‘shy, embarrassed; ashamed’, POc _*maya(q)_ (§11.4.2). The conditioning of this
@@ -17270,7 +17270,7 @@ POc *putiR ‘wart, cyst, non-purulent skin eruption’ (ACD)
 5.3.3 Skin infections
 
 Next are skin infections like scabies or the two most common forms of tinea, ringworm
-(Tinea imbricata) and the skin infection that causes white patches to appear on the skin (Tinea
+(_Tinea imbricata_) and the skin infection that causes white patches to appear on the skin (Tinea
 versicolor).
 
 346 Meredith Osmond
@@ -17342,9 +17342,9 @@ scales which often covers much of the sufferer’s body. The main POc term for _
 was _*puni_, which reflects a sound change discussed in §1.3.4.2.
 
 <
-PAn *buqeni ‘ringworm, Tinea imbricata’ (ACD)
-PMP *buqeni ‘ringworm, Tinea imbricata’ (ACD)
-POc *puni ‘ringworm, Tinea imbricata’ (ACD)
+PAn *buqeni ‘ringworm, _Tinea imbricata_’ (ACD)
+PMP *buqeni ‘ringworm, _Tinea imbricata_’ (ACD)
+POc *puni ‘ringworm, _Tinea imbricata_’ (ACD)
   NNG: Lukep-Pono        pun               ‘skin fungus’
   PT:   Motu             huni              ‘ringworm’
   MM: Nakanai            vu-vuli           ‘k.o. painful ringworm; a smallpox-like disease’

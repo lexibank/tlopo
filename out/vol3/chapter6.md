@@ -42,7 +42,7 @@ The following sections present reconstructions for plants which grow in the _Rhi
 
 <a id="s-2-1"></a>
 
-### 2.1. _Rhizophora_ spp., P manguru, B natongtong (_Rhizophora_ceae)
+### 2.1. _Rhizophora_ spp., P _manguru_, B _natongtong_ (_Rhizophora_ceae)
 
 
 
@@ -165,7 +165,7 @@ As a generic, Saliba _pauli_ includes _Ceriops tagal_, _Rhizophora_ spp. and _Br
 
 <a id="s-3-1"></a>
 
-### 3.1. _Bruguiera_ spp., P ko'a (_Rhizophora_ceae)
+### 3.1. _Bruguiera_ spp., P _ko'a_ (_Rhizophora_ceae)
 
 
 In the Bismarcks _Bruguiera gymnorrhiza_, the orange or large-leafed mangrove, dominates the inner zone of the mangrove forest. It often grows in stiff mud, as well as in tidal areas, and tolerates a wide range of salinity levels. It contrasts sharply in appearance with _Rhizophora apiculata_, as it is taller, 15-30 m tall, and has an erect trunk and regularly arranged lateral branches. Its rounded or plank-like buttresses branch over and over again as they near the ground. Sometimes there are also stilt roots. Traditionally, the fruit was rarely eaten. When it was, it was processed to remove the tannin, then cooked in coconut cream as a vegetable ([Henderson & Hancock 1988](../sources/HendersonandHancock1988): 105, 107, [Allen & Duke 2006](../sources/AllenandDuke2006)).
@@ -499,7 +499,7 @@ The initial rounded bilabial of POc _&ast;(p,pʷ)awa(t)_ is reconstructed on the
 <tr>
 <td>MM</td><td><a href="../languages/lavongai">Lavongai</a></td><td><i>bau</i></td>
 <td>
-'<span><em>Cerbera</em> floribunda</span>'</td>
+'<span><em>Cerbera floribunda</em></span>'</td>
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/karaeast">Kara (East)</a></td><td><i>vəu(kip)</i></td>
@@ -540,7 +540,7 @@ The initial rounded bilabial of POc _&ast;(p,pʷ)awa(t)_ is reconstructed on the
 <tr>
 <td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>fao-fao</i></td>
 <td>
-'<span>tree sp., Bombax malabaricum</span>'</td>
+'<span>tree sp., <em>Bombax malabaricum</em></span>'</td>
 </tr>
 </table>
 
@@ -618,7 +618,7 @@ The initial rounded bilabial of POc _&ast;(p,pʷ)awa(t)_ is reconstructed on the
 <tr>
 <td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>rewa-rewa</i></td>
 <td>
-'<span>tree, Knightia excelsa, with long narrow leaves</span>'</td>
+'<span>tree, <em>Knightia excelsa</em>, with long narrow leaves</span>'</td>
 </tr>
 </table>
 
@@ -632,7 +632,7 @@ The initial rounded bilabial of POc _&ast;(p,pʷ)awa(t)_ is reconstructed on the
 
 A tree of the understorey, 5-12 m tall, _Dolichandrone spathacea_ grows behind mangroves and around the swampy mouths of streams from India to New Caledonia. Its fruit are up to 45cm long, flattened and curved like a bean pod with dark grey squarish seeds with thick corky wings. The large white flowers open after sunset and fall in the morning.
 
-It is used in New Ireland to make propeller-like shark fishing floats ([Peekel 1984](../sources/Peekel1984): 508). In Marovo the wood is used for various canoe parts and sometimes for carving ([Hviding 2005](../sources/Hviding2005): 148) and in parts of Melanesia is used for hourglass drums ([Record 1945](../sources/Record1945)). The Nakanai rub the bark on dermatitis and grille (Tinea imbricata, a disfiguring fungal skin infection) ([Floyd 1954](../sources/Floyd1954)).
+It is used in New Ireland to make propeller-like shark fishing floats ([Peekel 1984](../sources/Peekel1984): 508). In Marovo the wood is used for various canoe parts and sometimes for carving ([Hviding 2005](../sources/Hviding2005): 148) and in parts of Melanesia is used for hourglass drums ([Record 1945](../sources/Record1945)). The Nakanai rub the bark on dermatitis and grille (_Tinea imbricata_, a disfiguring fungal skin infection) ([Floyd 1954](../sources/Floyd1954)).
 
 
 <a id="p-180"></a>
@@ -973,7 +973,7 @@ Final POc _&ast;-q_ of _&ast;nipaq_ is attested by the presence of paragogic _-i
 
 <a id="s-4-6"></a>
 
-### 4.6. _Xylocarpus_ spp. (syn. X obovatus, _Carapa obovata_), puzzlenut tree (Meliaceae)
+### 4.6. _Xylocarpus_ spp. (syn. _Xylocarpus obovatus_, _Carapa obovata_), puzzlenut tree (Meliaceae)
 
 
 <a id="fig-3-6_6"> </a>

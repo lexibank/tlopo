@@ -224,7 +224,7 @@ If a POc plant name has cognates in eastern Indonesia, especially in EMP languag
 | _&ast;ma(i)tagaR(a)_       | '_Kleinhovia hospita_'                                                                           |
 | _&ast;mapuqan_             | '_Flueggea flexuosa_' (?)                                                                        |
 | _&ast;maqota_              | '_Dysoxylum_ spp.'                                                                               |
-| _&ast;maRakita_            | 'the putty nut, probably _Parinari_ laurina and _Parinari_ glaberrima'                           |
+| _&ast;maRakita_            | 'the putty nut, probably _Parinari laurina_ and _Parinari glaberrima_'                           |
 | _&ast;maRako_              | '_Trichospermum_ peekelii'                                                                       |
 | _&ast;mari(a)sapa_         | '_Syzygium_ sp.                                                                                  |
 | _&ast;molis_               | 'citrus fruit or citrus-like fruit, perhaps _Clymenia polyandra_'                                |
@@ -258,7 +258,7 @@ If a POc plant name has cognates in eastern Indonesia, especially in EMP languag
 | ___&ast;pʷi(r,R)a___       | '_Cananga odorata_'                                                                              |
 | _&ast;qarop_               | '_Premna_ spp.'                                                                                  |
 | _&ast;qat(V)_              | '_Terminalia_ sp. with edible nut'                                                               |
-| _&ast;(q,k)atita_          | 'the putty nut, probably _Parinari_ laurina and _Parinari_ glaberrima'                           |
+| _&ast;(q,k)atita_          | 'the putty nut, probably _Parinari laurina_ and _Parinari glaberrima_'                           |
 | _&ast;(q)alipa_, _&ast;lalipa_ | 'nut sp., possibly canarium almond, _Canarium_ sp.' (?)                                          |
 | _&ast;qope_                | '_Gyrocarpus americanus_'                                                                        |
 | _&ast;quRis_               | '_Spondias cytherea_'                                                                            |

@@ -163,9 +163,9 @@ _bau_
     Wood of some of these trees is used for boats, chests and house posts. Applied to the
     following species growing on Waya:
 
-    1. _Burckella_ richii. large tree of low- to middle-altitudes, fruit green, fleshy, cylindrical, 4cm long;
+    1. _Burckella richii_. large tree of low- to middle-altitudes, fruit green, fleshy, cylindrical, 4cm long;
     2. _Manilkara vitiensis_, smallish tree, often in exposed situations on coastal slopes;
-    3. _Palaquium_ fijiense. smallish uncommon tree of higher-altitude forest;
+    3. _Palaquium fidjiense_. smallish uncommon tree of higher-altitude forest;
     4. _Planchonella garberi_ (_Sapotaceae_).
     5. _Planchonella grayana_, a tree of coastal and inland forest, leaves larger and rounder than those of _Planchonella garberi_.
 
@@ -186,20 +186,20 @@ _bau_
 
 <a id="p-61"></a>
 
-The _wā_ 'vine, creeper' taxon includes upwards of fifty subtaxa, virtually all of which occur either optionally or obligatorily with the generic _wā_ as a classifier, for example, _wā giri_ or _giri_ 'Entada phaseoloides' and _wā bitubitu_ 'Smilaceae species' ([Gardner & Pawley 1992](../sources/GardnerandPawley1992): 9, 12, [Pawley & Sayaba 2003](../sources/PawleyandSayaba2003)). Subtaxa of _wā_ form the lowest level of classification, and the majority denote a single species, as can be seen from the following dictionary definitions of _alu_, _kori_ and _wā giri_ ([Pawley & Sayaba 2003](../sources/PawleyandSayaba2003)).
+The _wā_ 'vine, creeper' taxon includes upwards of fifty subtaxa, virtually all of which occur either optionally or obligatorily with the generic _wā_ as a classifier, for example, _wā giri_ or _giri_ '_Entada phaseoloides_' and _wā bitubitu_ 'Smilaceae species' ([Gardner & Pawley 1992](../sources/GardnerandPawley1992): 9, 12, [Pawley & Sayaba 2003](../sources/PawleyandSayaba2003)). Subtaxa of _wā_ form the lowest level of classification, and the majority denote a single species, as can be seen from the following dictionary definitions of _alu_, _kori_ and _wā giri_ ([Pawley & Sayaba 2003](../sources/PawleyandSayaba2003)).
 
 alu
-:    Epipremnum pinnatum (Araceae). Common forest climber, the young plant with simple
+:    _Epipremnum pinnatum_ (Araceae). Common forest climber, the young plant with simple
      oval leaves, creeping on ground, the climbing adult with stout stems and large deeply-
      cut leaves. Leaves provide a medicine for stomach-ache.
 
 _kori_
-:   Mucuna gigantea (Leguminosae). Forest vine, broad bean-like leaves, flowers green,
+:   _Mucuna gigantea_ (Leguminosae). Forest vine, broad bean-like leaves, flowers green,
     curved, broad dark pods at first with golden-brown irritant hairs, the discoid reddish
     grey seeds found in the drift.
 
 _wā giri_
-:   Entada phaseoloides (Leguminosae). Large high-climbing liane of inland forest
+:   _Entada phaseoloides_ (Leguminosae). Large high-climbing liane of inland forest
     with huge leathery pods, the large discoid dark red-brown seeds common in the drift.
     Stems are used to tie thatching.
 
@@ -210,24 +210,24 @@ _rautolu_
 
     1. _Canavalia rosea_. Common vine of sandy foreshore, flowers pink-purple, pods about 10 x 2 cm,
        often wrinkled. Leaves said to have been used after childbirth in some way.
-    2. Canavalia sericea. Local on sandy foreshore, the leaves silver-hairy.
-    3. Jasminum degeneri.
-    4. (obsolete) Melicope cucullata.
+    2. _Canavalia sericea_. Local on sandy foreshore, the leaves silver-hairy.
+    3. _Jasminum degeneri_.
+    4. (obsolete) _Melicope cucullata_.
 
 _wā bitubitu_
 :   Generic, includes two species of strong-stemmed vines.
 
-    1. Smilax vitiensis (Smilacaceae). Forest vine, stems strong, round, sometimes with a few
+    1. _Smilax vitiensis_ (Smilacaceae). Forest vine, stems strong, round, sometimes with a few
        prickles, leaves oval to heart-shaped, leathery, with a pair of tendrils at the stem, red
        to black 1-3-seeded berries hanging together from a dangling stalk. Used for binding rafters
        and making fish-traps.
-    2. Geitonoplesium cymosum (Smilacaceae). Slender but strong vine of forest understorey, small
+    2. _Geitonoplesium cymosum_ (Smilacaceae). Slender but strong vine of forest understorey, small
        orange fruit with black glossy seeds.
 
 The Wayan term _ō_ is somewhat harder to describe. Typical _ō_-type plants are non-bambusoid grasses and some sedges and herbs. However, _ō_ can also occur as the initial element in names of reeds (_ō sina_) and bamboo (_ō bitu_), suggesting that _ō_ includes not only grasses and herbs, but also woody-stemmed plants that are grass-like. There are about fifty subtaxa of grasses, herbs, reeds and bamboos that are denoted by the life-form _ō_ ([Gardner & Pawley 1992](../sources/GardnerandPawley1992): 12), and most of these subtaxa appear to be the lowest level of classification, whether denoting a single species as with _ō ðaŋiðaŋi_ and _ō tirau_, or denoting several species as with _sīlā_.
 
 _ō ðaŋiðaŋi_
-:   Cymbopogon coloratus. Lemon grass. Stout tussocky uncommon grass of dry
+:   _Cymbopogon coloratus_. Lemon grass. Stout tussocky uncommon grass of dry
     hill-sides. Leaves smell of lemon, and are used to make tea, and for padding under
     house mats.
 
@@ -238,9 +238,9 @@ _ō tirau_
 _sīlā_
 :   Generic, includes two large-seeded grass,es (Gramineae).
 
-    1. Coix lacrymajobi. Job's tears. Coarse grass, fertile parts with tear-shaped blueish bony
+    1. Coix lacrym-ajobi. Job's tears. Coarse grass, fertile parts with tear-shaped blueish bony
        structures that enclose the true seeds.
-    2. Zea mays. Maize or sweet corn. Occasionally cultivated.
+    2. _Zea mays_. Maize or sweet corn. Occasionally cultivated.
 
 
 <a id="p-62"></a>
@@ -1162,7 +1162,7 @@ POc _&ast;pali[s,j]i_ appears to have been the generic for plants lacking a main
 <tr>
 <td>SV</td><td><a href="../languages/sye">Sye</a></td><td><i>(novl)ovsi</i></td>
 <td>
-'<span>buffalo grass (Stenotaphrum secundatum)</span>' (<span>cf. <em>novol</em> 'kind of plant; initial element for plant names including a grass, a fern and two tree-ferns'</span>)</td>
+'<span>buffalo grass (<em>Stenotaphrum secundatum</em>)</span>' (<span>cf. <em>novol</em> 'kind of plant; initial element for plant names including a grass, a fern and two tree-ferns'</span>)</td>
 </tr>
 <tr>
 <td>SV</td><td><a href="../languages/swtanna">S.W. Tanna</a></td><td><i>nə-vhilək</i></td>
@@ -1187,7 +1187,7 @@ POc _&ast;pali[s,j]i_ appears to have been the generic for plants lacking a main
 <tr>
 <td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>fatili</i></td>
 <td>
-'<span>grass (<em>Thuarea involuta</em> or Stenotaphurum)</span>'</td>
+'<span>grass (<em>Thuarea involuta</em> or Stenotaphrum)</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>falī</i></td>
@@ -1258,7 +1258,7 @@ Evidence from non-Oceanic languages suggests that _&ast;lumut_ may have been the
 <tr>
 <td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td><i>lumu</i></td>
 <td>
-'<span>moss, incl. Psilotum nudum, Microsorium species</span>'</td>
+'<span>moss, incl. <em>Psilotum nudum</em>, Microsorium species</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/nduke">Nduke</a></td><td><i>lu-lumutu</i></td>
@@ -1657,7 +1657,7 @@ Ferns and tree-ferns are also plants which do not appear to fit into any of the 
 <td>Wayan</td>
 <td><i>balabala</i></td>
 <td>
-'<span>generic for tree ferns (<em>Cyathea</em> spp.), sometimes extended to include other large ferns, such as Pteris tripartita</span>'; '<span><em>Cyathea lunulata</em> (_Cyathea_ceae)</span>'; '<span><em>Cyathea</em> sp., perhaps C. propinqua</span>'; '<span>Calochlaena straminea (Dicksoniaceae)</span>'; '<span>Pteris tripartita (Adiantaceae)</span>'</td>
+'<span>generic for tree ferns (<em>Cyathea</em> spp.), sometimes extended to include other large ferns, such as <em>Pteris tripartita</em></span>'; '<span><em>Cyathea lunulata</em> (_Cyathea_ceae)</span>'; '<span><em>Cyathea</em> sp., perhaps <em>Cyathea propinqua</em></span>'; '<span><em>Calochlaena straminea</em> (Dicksoniaceae)</span>'; '<span><em>Pteris tripartita</em> (Adiantaceae)</span>'</td>
 </tr>
 <tr>
 <td>Pn</td>
@@ -1699,7 +1699,7 @@ In Wayan _balabala_ 'tree-ferns' contrasts with another primary taxon _diŋi_, a
 <td>Wayan</td>
 <td><i>diŋi</i></td>
 <td>
-'<span>generic that includes at least the following two medium-sized terrestrial ferns: Nephrolepis hiserrata (Davalliaceae), ladder fern, locally common in open mid-altitude forest; <em>Sphaerostephanos invisus</em> (Thelypteridaceae), common on dry grassy hillsides.</span>'</td>
+'<span>generic that includes at least the following two medium-sized terrestrial ferns: <em>Nephrolepis biserrata</em> (Davalliaceae), ladder fern, locally common in open mid-altitude forest; <em>Sphaerostephanos invisus</em> (Thelypteridaceae), common on dry grassy hillsides.</span>'</td>
 </tr>
 <tr>
 <td>Pn</td>
@@ -1875,7 +1875,7 @@ Figure 3.7 shows schematically a partial ethnobotanical classification for POc b
 
 Ross's reconstructions of plant names in chapters 5-13 suggest that the subtaxa of these life-form categories tended to be terminal taxa. However, as folk generics tend to be more stable than specifics (Pawley this volume), it is not surprising that Ross is unable to reconstruct many terms for specifics. Rather, it is likely that POc behaved like contemporary languages in similar environmental and cultural contexts and had named folk taxa within many of the folk generics that Ross reconstructs.
 
-In chapters 5-13 of this volume Ross reconstructs POc names for over 80 plants which were most probably considered subtaxa of the _&ast;kayu_ 'tree, shrub' category. The majority of these reconstructions, like _&ast;tuRi-tuRi_ 'candlenut tree, _Aleurites moluccana_', _&ast;putun_ '_Barringtonia asiatica_', _&ast;aRu_ 'a shore tree, _Casuarina equisetifolia_', _&ast;paRu_ 'a small shore tree, _Hibiscus tiliaceus_', _&ast;qatita_ 'the putty nut, _Parinari_um laurinum' and _&ast;quRis_ 'Polynesian plum, _Spondias dulcis_', denote a single 'scientific' species. A few reconstructions, such as _&ast;kalaqabusi_ 'a shrub, _Acalypha_ species' and _&ast;kapika_ 'Malay apple and rose apple, Eugenia species' denote two or more 'scientific' species, but still appear to have formed the lowest level within the classification. It is only with a few types of _&ast;kayu_ 'tree, shrub' that Ross found evidence to reconstruct a folk generic that denoted several different species and terms for folk species within the generic category. For example, the POc term _&ast;[ka]ŋaRi_ was polysemous, denoting both _Canarium_ species in general and _Canarium indicum_ in particular. A second POc term _&ast;qalip_ 'canarium almond, _Canarium_ species' may have denoted a separate species (ch.ll, [§2.1](../contributions/3-3#s-2-1)). There are also a few types of _&ast;kayu_ 'tree, shrub' for which Ross can reconstruct more than one POc term, such as _&ast;ñoñum_ and _&ast;kurat_ both denoting the Indian Mulberry tree (_Morinda citrifolia_), which may reflect cases where POc speakers distinguished by name different varieties of a single 'scientific' species, but often the difference between these terms in POc is not entirely clear.
+In chapters 5-13 of this volume Ross reconstructs POc names for over 80 plants which were most probably considered subtaxa of the _&ast;kayu_ 'tree, shrub' category. The majority of these reconstructions, like _&ast;tuRi-tuRi_ 'candlenut tree, _Aleurites moluccana_', _&ast;putun_ '_Barringtonia asiatica_', _&ast;aRu_ 'a shore tree, _Casuarina equisetifolia_', _&ast;paRu_ 'a small shore tree, _Hibiscus tiliaceus_', _&ast;qatita_ 'the putty nut, _Parinarium laurinum_' and _&ast;quRis_ 'Polynesian plum, _Spondias dulcis_', denote a single 'scientific' species. A few reconstructions, such as _&ast;kalaqabusi_ 'a shrub, _Acalypha_ species' and _&ast;kapika_ 'Malay apple and rose apple, Eugenia species' denote two or more 'scientific' species, but still appear to have formed the lowest level within the classification. It is only with a few types of _&ast;kayu_ 'tree, shrub' that Ross found evidence to reconstruct a folk generic that denoted several different species and terms for folk species within the generic category. For example, the POc term _&ast;[ka]ŋaRi_ was polysemous, denoting both _Canarium_ species in general and _Canarium indicum_ in particular. A second POc term _&ast;qalip_ 'canarium almond, _Canarium_ species' may have denoted a separate species (ch.ll, [§2.1](../contributions/3-3#s-2-1)). There are also a few types of _&ast;kayu_ 'tree, shrub' for which Ross can reconstruct more than one POc term, such as _&ast;ñoñum_ and _&ast;kurat_ both denoting the Indian Mulberry tree (_Morinda citrifolia_), which may reflect cases where POc speakers distinguished by name different varieties of a single 'scientific' species, but often the difference between these terms in POc is not entirely clear.
 
 As expected from the comparative evidence, POc speakers appear to have had more levels within the classification of food plants than with non-food plants. Thus, although it appears that for most plants folk generics denoting a particular 'scientific' species formed the lowest level of classification, for some food plants POc speakers appear to have used folk generics to refer to a cluster of similar species and other more specific terms to denote single species. This was seen above with _&ast;[ka]ŋaRi_ 'canarium almond, _Canarium indicum_; _Canarium_ species in general', and can be seen in Figure 3.7 with regards to types of yams. Alongside the terms for specific species of yams, POc speakers also appear to have used _&ast;qupi_ 'greater yam, _Dioscorea alata_; yam (generic)' to denote yams in general ([ch.9, §2.1](../contributions/3-9#s-2-1)). The fine grade distinctions made in the naming and classification of food plants in POc can perhaps best be seen in the reconstructions of different types of edible _&ast;pudi_ 'bananas' ([ch.9, §3](../contributions/3-9#s-3)), and several different growth stages for _&ast;niuR_ 'coconut (generic)' ([ch.12, §3](../contributions/3-12#s-3)). It is also likely that, like Wayan Fijian speakers, POc speakers had other systems of classifying plants, such as in terms of food categories. For example, Ross ([ch.10, §2.1](../contributions/3-10#s-2-1)) reconstructs a term _&ast;wasa_ which denoted _Abelmoschus manihot_, but also appears to have referred to the general category of 'edible greens'.
 

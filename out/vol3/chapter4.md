@@ -1610,7 +1610,7 @@ In English 'mangrove' refers to a variety of trees and shrubs that grow in coast
 | _siŋano_         | (N) Immature leaf of pandanus or coconut palm, used as decoration (_manoŋi_).                                                                                                                                                                                                                                   |
 | _firoi_          | (N) Leaf base of palm.                                                                                                                                                                                                                                                                                          |
 | _mariŋa_         | (N) Small pinnules at base of palmate leaf etc. (e.g. _mariŋa rau niu_, _mariŋa rau ota_ small coconut, sago pinnules).                                                                                                                                                                                         |
-| _sukusuku_       | (N) Tail, ending. _Sukusuku o te rakau_ top, crest of tee, mass ofleafage. Also _tauru o te rakau_ 'foliage of tree'.                                                                                                                                                                                           |
+| _sukusuku_       | (N) Tail, ending. _Sukusuku o te rakau_ top, crest of tee, mass of leafage. Also _tauru o te rakau_ 'foliage of tree'.                                                                                                                                                                                          |
 | _fāmātua_        | (N) Mature coconut frond.                                                                                                                                                                                                                                                                                       |
 | _sakilo_         | (N) Immature coconut leaf, of pale colour; used traditionally as decoration for some ritual objects, as a shelf in _Resiake_ temple, or sign of taboo on orchard.                                                                                                                                               |
 | _ŋausala_        | (N) Midrib of sago pinnule, used as pin for leaf thatch, leaf pads for oven cover; bundle used traditionally as _ū seru_ for beating rhythm in funeral lament.                                                                                                                                                  |
@@ -3733,7 +3733,7 @@ The Oceanic data, shown in the cognate set below, suggest the reconstruction of 
 <tr>
 <td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>pulu</i></td>
 <td>
-'<span>pitch, gum, native cement; a nut, <em>Parinari_um laurinum, is scraped on rough coral rock and darkened in colour with a mixture of charcoal and the juice of the _oʔa</em> tree; the cement hardens almost immediately</span>'</td>
+'<span>pitch, gum, native cement; a nut, <em>Parinarium laurinum</em>, is scraped on rough coral rock and darkened in colour with a mixture of charcoal and the juice of the <em>oʔa</em> tree; the cement hardens almost immediately</span>'</td>
 </tr>
 <tr>
 <td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>put, pulu</i></td>
@@ -3814,7 +3814,7 @@ cf. also:
 <td>Arosi</td>
 <td><i>buru</i></td>
 <td>
-'<span>tree species, _Parinari_um laurinum; the gum is used to caulk canoes</span>'</td>
+'<span>tree species, <em>Parinarium laurinum</em>; the gum is used to caulk canoes</span>'</td>
 </tr>
 </table>
 
@@ -4023,7 +4023,7 @@ It is unlikely that the structure and detail of the POc terminology for plant pa
 
 [^8]: Blust (ACD) suggests that the Micronesian data plus Bali _vakara_ 'root' support the reconstruction of a POc (unbound?) form _&ast;wakaR-a_ 'root'. As Bali _vakara_ 'root' is a regular reflex of POc _&ast;wakaR_ I have not reconstructed this form. There are a few other Proto Micronesian etyma that retain a POc final consonant and add _&ast;-a_; e.g. POc _&ast;pata(ŋ)_ is reflected as both _&ast;fata_ and _&ast;fataŋa_ 'tree trunk' in Proto Micronesian ([Bender et al. 2003](../sources/Benderetal2003): 24).
 
-[^9]: Editor's note: The morphology of POc inalienably possessed nouns with a stem-final consonant is obscure. Some reflexes suggest that a vowel was added before the suffix-initial consonant, e.g. _&ast;wakaR-i-ña_ 'its root', others that the stem-final consonant was lost, e.g. &ast;waka-ña.
+[^9]: Editor's note: The morphology of POc inalienably possessed nouns with a stem-final consonant is obscure. Some reflexes suggest that a vowel was added before the suffix-initial consonant, e.g. _&ast;wakaR-i-ña_ 'its root', others that the stem-final consonant was lost, e.g. _&ast;waka-ña_.
 
 [^10]: Although Geraghty's reconstructions are all to the level of PEOc, he implies that _&ast;Ramu-_ 'hair, fibre' could be attributed to POc by giving Proto Papuan Tip _&ast;ramu_ 'root' as part of the supporting data.
 

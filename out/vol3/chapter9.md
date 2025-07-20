@@ -16,7 +16,7 @@ The present chapter treats staple foods. The chapter is divided according to the
 ## 2. Root crops
 
 
-There is no term for root crops in general in most Oceanic languages, and there was apparently no general term in POc. The only major staple root crops known to POc speakers were yams (_Dioscorea_ spp., [§2.1](../contributions/3-9#s-2-1)) and taro (_Colocasia_ and Aloeasia spp., [§2.2](../contributions/3-9#s-2-2)).
+There is no term for root crops in general in most Oceanic languages, and there was apparently no general term in POc. The only major staple root crops known to POc speakers were yams (_Dioscorea_ spp., [§2.1](../contributions/3-9#s-2-1)) and taro (_Colocasia_ and Alocasia spp., [§2.2](../contributions/3-9#s-2-2)).
 
 Of the root crops found in the Pacific today, the widely consumed sweet potato (_Ipomoea batatas_), as well as cassava (_Manihot esculenta_) and American or Chinese/Hong Kong taro (_Xanthosoma sagittifolium_), are relatively recent introductions from South America, brought by Europeans to Indonesia, whence they spread to New Guinea.[^1] They were certainly not present in NW Island Melanesia in POc times. Indeed, the sweet potato arrived in the Bismarck Archipelago and the Solomons only with European traders and settlers in the 19th century ([Bourke forthcoming](../sources/Bourkeforthcoming)). Barrau (1965) suggests that these introduced crops relegated some less significant earlier staples to the status of famine foods: basing himself on [Guppy](../sources/Guppy1906) ([1906](../sources/Guppy1906)), he names _Pueraria lobata_, _Dioscorea nummularia_ and _Cycas rumphii_ as possible earlier staples.
 
@@ -56,7 +56,7 @@ Because they are seasonal, communities dependent on fresh yams alone would under
 #### 2.1.1. Why so few yam terms?
 
 
-Today six yam species are found in Melanesia: _Dioscorea alata_, _Dioscorea bulbifera_, _Dioscorea esculenta_, D. pentaphylla, D. hispida, and _Dioscorea nummularia_ ([Barrau 1955](../sources/Barrau1955): 56, [Bourke 1982](../sources/Bourke1982)). The first four are present throughout the region, but POc names can be reconstructed for only the first two. This is curious, because the two main garden yam species in NW Island Melanesia today are the greater yam, _Dioscorea alata_, and the lesser yam, _Dioscorea esculenta_. We might expect to reconstruct a POc term for at least the first four species, and certainly for _Dioscorea esculenta_, but no term for the latter can be reconstructed with certainty. Barrau (1965) suggests that _Dioscorea nummularia_, which he found cultivated in scattered locations throughout the Pacific,[^3] was also once much more widely cultivated than it is today. No term can be reconstructed for it, but this is likely to be an artifact of the data: no source offers a term for it.
+Today six yam species are found in Melanesia: _Dioscorea alata_, _Dioscorea bulbifera_, _Dioscorea esculenta_, _Dioscorea pentaphylla_, _Dioscorea hispida_, and _Dioscorea nummularia_ ([Barrau 1955](../sources/Barrau1955): 56, [Bourke 1982](../sources/Bourke1982)). The first four are present throughout the region, but POc names can be reconstructed for only the first two. This is curious, because the two main garden yam species in NW Island Melanesia today are the greater yam, _Dioscorea alata_, and the lesser yam, _Dioscorea esculenta_. We might expect to reconstruct a POc term for at least the first four species, and certainly for _Dioscorea esculenta_, but no term for the latter can be reconstructed with certainty. Barrau (1965) suggests that _Dioscorea nummularia_, which he found cultivated in scattered locations throughout the Pacific,[^3] was also once much more widely cultivated than it is today. No term can be reconstructed for it, but this is likely to be an artifact of the data: no source offers a term for it.
 
 
 <a id="p-258"></a>
@@ -72,7 +72,7 @@ The visible differences between _Dioscorea alata_, _Dioscorea esculenta_ and _Di
 
 <a id="s-2-1-2"></a>
 
-#### 2.1.2. _Dioscorea alata_, greater yam, water yam, winged yam, TP yam, P iam (_Dioscorea_ceae)
+#### 2.1.2. _Dioscorea alata_, greater yam, water yam, winged yam, TP _yam_, P _iam_ (_Dioscorea_ceae)
 
 
 Left to themselves, _Dioscorea alata_ tubers come in an amazing variety of forms, as shown in Figure 9.2. In various parts of Oceanic-speaking Melanesia - the Papuan Tip islands, Fiji, New Caledonia - farmers strove to produce yams with a regular form and giant length. [Barrau](../sources/Barrau1955) ([1955](../sources/Barrau1955): 57) mentions a 2.6 m yam seen in New Caledonia in 1953. These long yams were produced by hollowing out a cylindrical growing hole and lining it with wooden sticks to provide growth space for the tuber. More generally, the yield is maximised by staking the growing vine with a support 2-3m high.
@@ -591,7 +591,7 @@ cf. also:
 
 <a id="s-2-1-4"></a>
 
-#### 2.1.4. _Dioscorea esculenta_, lesser yam, prickly yam, TP mami, Ppana (_Dioscorea_ceae)
+#### 2.1.4. _Dioscorea esculenta_, lesser yam, prickly yam, TP _mami_, P _pana_ (_Dioscorea_ceae)
 
 
 _Dioscorea esculenta_ has a prickly vine stem and winds clockwise around its stake, whereas _Dioscorea alata_ winds anti-clockwise (Figure 9.1).
@@ -936,7 +936,7 @@ cf. also:
 ### 2.2. Taro (Araceae)
 
 
-Most major food plant terms both in English and in Oceanic languages refer to a single genus. The English term 'taro' is an exception. In much of the Pacific 'taro' is used to refer collectively to five genera of the Araceae family, namely _Colocasia_, Cyrtosperma, Alocasia, Amorphophallus, and Xanthosoma, each represented by a single cultivated species in the Pacific and shown in Figure 9.3. The most important species are - and in POc times probably were - _Colocasia esculenta_ and _Cyrtosperma merkusii_.
+Most major food plant terms both in English and in Oceanic languages refer to a single genus. The English term 'taro' is an exception. In much of the Pacific 'taro' is used to refer collectively to five genera of the Araceae family, namely _Colocasia_, _Cyrtosperma_, _Alocasia_, _Amorphophallus_, and _Xanthosoma_, each represented by a single cultivated species in the Pacific and shown in Figure 9.3. The most important species are - and in POc times probably were - _Colocasia esculenta_ and _Cyrtosperma merkusii_.
 
 
 <a id="s-2-2-1"></a>
@@ -973,7 +973,7 @@ A search for languages in which reflexes of _&ast;talo(s)_ and _&ast;mʷapo(q)_ 
 <i>&ast;talo(s)</i>
 </td>
 <td>
-'<span>taro, <em>Colocasia esculenta</em></span>' (<span>Capelll1943: *dalo(s)</span>)</td>
+'<span>taro, <em>Colocasia esculenta</em></span>' (<span>Capell 1943: <em>*dalo(s)</em></span>)</td>
 </tr>
 <tr>
 <td>NNG</td><td><a href="../languages/manam">Manam</a></td><td><i>taro</i></td>
@@ -1079,7 +1079,7 @@ A search for languages in which reflexes of _&ast;talo(s)_ and _&ast;mʷapo(q)_ 
 <i>&ast;mʷapo(q)</i>
 </td>
 <td>
-'<span>taro, <em>Colocasia esculenta</em></span>' (<a href="../sources/Milke1968">Milke1968: *mʷao</a>)
+'<span>taro, <em>Colocasia esculenta</em></span>' (<a href="../sources/Milke1968">Milke1968: _*mʷao_</a>)
 </td>
 </tr>
 <tr>
@@ -1977,7 +1977,7 @@ _Amorphophallus paeoniifolius_ is a wild plant. In the Austronesian speaking are
 
 <a id="s-2-3-2"></a>
 
-#### 2.3.2. _Tacca leontopetaloides_, Polynesian arrowroot (Taccaceae)
+#### 2.3.2. _Tacca leontopetaloides_, Polynesian arrowroot (_Tacca_ceae)
 
 
 The tuber of _Tacca leontopetaloides_ is bitter and requires considerable processing to produce a starch pudding somewhat like sago pudding. It was used in this way on the small islands of the SE Solomons and the Temotu Province, and in much of Polynesia ([Henderson & Hancock 1988](../sources/HendersonandHancock1988): 34) but apparently had only limited use in the Bismarcks.
@@ -2005,12 +2005,12 @@ The elements in the PPn binomial below are PPn _&ast;ma_ 'fermented breadfruit' 
 <i>&ast;mā-soaʔa</i>
 </td>
 <td>
-'<span>Polynesian arrowroot, Tacca sp.</span>' (<span>POLLEX</span>)</td>
+'<span>Polynesian arrowroot, <em>Tacca</em> sp.</span>' (<span>POLLEX</span>)</td>
 </tr>
 <tr>
 <td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>māhoaʔa</i></td>
 <td>
-'<span>arrowroot, Tacca sp.</span>'</td>
+'<span>arrowroot, <em>Tacca</em> sp.</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td><a href="../languages/tokelauan">Tokelauan</a></td><td><i>mahoā</i></td>
@@ -2020,12 +2020,12 @@ The elements in the PPn binomial below are PPn _&ast;ma_ 'fermented breadfruit' 
 <tr>
 <td>Pn</td><td><a href="../languages/anutan">Anutan</a></td><td><i>maoa</i></td>
 <td>
-'<span>arrowroot, Tacca sp.</span>'</td>
+'<span>arrowroot, <em>Tacca</em> sp.</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td><a href="../languages/eastfutunan">East Futunan</a></td><td><i>māsoʔā</i></td>
 <td>
-'<span>arrowroot, Tacca sp.</span>'</td>
+'<span>arrowroot, <em>Tacca</em> sp.</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>māsoā</i></td>
@@ -2035,7 +2035,7 @@ The elements in the PPn binomial below are PPn _&ast;ma_ 'fermented breadfruit' 
 <tr>
 <td>Pn</td><td><a href="../languages/tuvalu">Tuvalu</a></td><td><i>māsoa</i></td>
 <td>
-'<span>arrowroot, Tacca sp.</span>'</td>
+'<span>arrowroot, <em>Tacca</em> sp.</span>'</td>
 </tr>
 </table>
 
@@ -3459,7 +3459,7 @@ _M. solomonense_
 _Metroxylon warburgii_
 :   Solomon Islands, Vanuatu, Fiji, Rotuma, Samoa[^29]
 
-_M. vitiense_
+_Memecylon vitiense_
 :   Fiji
 
 _M. amicarum_

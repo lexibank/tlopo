@@ -953,7 +953,7 @@ Several reflexes of POc _&ast;kuta_ denote a major staple in the language concer
 <tr>
 <td>PT</td><td><a href="../languages/molima">Molima</a></td><td><i>ʔutaʔuta</i></td>
 <td>
-'<span><em>Dioscorea</em> pentaphylla</span>'</td>
+'<span><em>Dioscorea pentaphylla</em></span>'</td>
 </tr>
 <tr>
 <td>PT</td><td><a href="../languages/iduna">Iduna</a></td><td><i>kuda</i></td>
@@ -1135,11 +1135,11 @@ In several Western Oceanic languages some plant names begin with a prefix that m
 |                   |                           |                                 |              |
 |:------------------|:--------------------------|:--------------------------------|:-------------|
 | _a-mʷakot_        | '_Dysoxylum_ spp.'        | POc       _&ast;maqota_             | [ch.7, §4.5](../contributions/3-7#s-4-5)   |
-| _a-yayak_         | '_Myristica_ schleintzii' | POc       _&ast;(d,r)aRa(q,k)(a,i)_ | [ch.7, §5.9](../contributions/3-7#s-5-9)   |
+| _a-yayak_         | '_Myristica schleintzii_' | POc       _&ast;(d,r)aRa(q,k)(a,i)_ | [ch.7, §5.9](../contributions/3-7#s-5-9)   |
 | _a-gi-gaway_      | '_Ficus tinctoria_'       | POc       _&ast;qayawan_            | [ch.10, §4](../contributions/3-10#s-4)    |
 | _a-nag_           | '_Cordia_ sp.'            | PWOc      _&ast;nagi_               | [ch.5, §4.1.1](../contributions/3-5#s-4-1-1) |
 | _a-simʷal(gayas)_ | '_Glochidion_ sp.'        | PWOc      _&ast;ji(m,mʷ)(a,i)R_     | [ch.8, §2.4](../contributions/3-8#s-2-4)   |
-| _a-kobʷow_        | '_Macaranga_ tanarius'    | PWOc      _&ast;kobo_               | [ch.7, §2.5](../contributions/3-7#s-2-5)   |
+| _a-kobʷow_        | '_Macaranga tanarius_'    | PWOc      _&ast;kobo_               | [ch.7, §2.5](../contributions/3-7#s-2-5)   |
 
 : MM: Patpatar _i-_:
 
@@ -1194,26 +1194,26 @@ The two Oceanic languages for which the best information about plant names is av
 | _kailalālau_  | 'thorny shrubs, Caesalpinia spp.'            | _lau_      | 'be pricked, wounded' |
 | _kailō_       | 'small trees, _Diospyros_ spp. "             | _lō_       | 'be dark, secretive'  |
 | _kaimoðemoðe_ | 'mimosoid tree taxon'                        | _moðemoðe_ | 'have a short sleep'  |
-| _kaimoku_     | 'creeper, Mimosa pudica'                     | …          |                       |
-| _kaivula_     | 'tree, probably _Endospermum_  macrophyllum' | _vula_     | 'moon'                |
+| _kaimoku_     | 'creeper, _Mimosa pudica_'                   | …          |                       |
+| _kaivula_     | 'tree, probably _Endospermum  macrophyllum_' | _vula_     | 'moon'                |
 
 Significantly, for six out of seven the dictionary independently lists a meaning for the root. For four the descriptive meaning is clear. _Myristica chartacea_ has red sap: _dam_ and _drisi_ mean respectively 'turn reddish' and 'be reddish'. The term _kaimoðemoðe_ denotes _Albizia saman_ and _Serianthes vitiensis_, the leaflets of which fold together at night: _moðemoðe_ means 'have a sleep'. _Endospermum_ macrophyllum Euphorbiaceae is a timber tree with pale yellow wood, which perhaps accounts for the name _kai-vula_, literally 'moon tree'.
 
 [Kwa'ioloa & Burt](../sources/KwaioloaandBurt2001) ([2001](../sources/KwaioloaandBurt2001)) list thirty-six names of trees, big and not so big, beginning with _ʔai-_. Most of these are explicitly descriptive, according to Kwa'ioloa and Burt. The first eleven are listed below, and nine out of eleven are descriptive.
 
-|             |                                          |          |                             |
-|:------------|:-----------------------------------------|:---------|:----------------------------|
-| _ʔaibū_     | 'tree, _Diospyros_ ebenum'               | …        |                             |
-| _ʔaisarufi_ | 'tree, Eugenia if.fusa'                  | _sarufi_ | 'big tree, _Litsea_ alba'   |
-| _ʔaisaliŋa_ | 'big tree, Aporosa papuana'              | _aliŋa_  | 'ear'                       |
-| _ʔaisubu_   | 'big tree, Pimeleodendron amboinicum'    | …        |                             |
-| _ʔaiuluulu_ | 'big tree, _Vitex cofassus_'             | _uluulu_ | 'bushy'                     |
-| _ʔaikame_   | 'big tree, Putranjiva roxburgii          | _kame_   | 'monitor lizard'            |
-| _ʔaikusi_   | 'big tree, _Cryptocarya_ alleniana"      | _kusi_   | 'greybird'                  |
-| _ʔaikaʔo_   | 'big tree, Xylopia papuana'              | _kaʔo_   | 'bamboo'                    |
-| _ʔailali_   | 'Tahitian chestnut, _Inocarpus fagifer_' | _lali_   | 'kidney'                    |
-| _ʔairade_   | 'trees, _Dysoxylum_' spp.                | _rade_   | 'stink'                     |
-| _ʔaininiu_  | 'big tree, Horifieldia irya'             | _niniu_  | 'palm, Gulubia macrospadix' |
+|             |                                          |          |                               |
+|:------------|:-----------------------------------------|:---------|:------------------------------|
+| _ʔaibū_     | 'tree, _Diospyros ebenum_'               | …        |                               |
+| _ʔaisarufi_ | 'tree, _Eugenia effusa_'                 | _sarufi_ | 'big tree, _Litsea_ alba'     |
+| _ʔaisaliŋa_ | 'big tree, _Aporosa papuana_'            | _aliŋa_  | 'ear'                         |
+| _ʔaisubu_   | 'big tree, _Pimeleodendron amboinicum_'  | …        |                               |
+| _ʔaiuluulu_ | 'big tree, _Vitex cofassus_'             | _uluulu_ | 'bushy'                       |
+| _ʔaikame_   | 'big tree, _Putranjiva roxburgii_        | _kame_   | 'monitor lizard'              |
+| _ʔaikusi_   | 'big tree, _Cryptocarya_ alleniana"      | _kusi_   | 'greybird'                    |
+| _ʔaikaʔo_   | 'big tree, _Xylopia papuana_'            | _kaʔo_   | 'bamboo'                      |
+| _ʔailali_   | 'Tahitian chestnut, _Inocarpus fagifer_' | _lali_   | 'kidney'                      |
+| _ʔairade_   | 'trees, _Dysoxylum_' spp.                | _rade_   | 'stink'                       |
+| _ʔaininiu_  | 'big tree, _Horsfieldia irya_'           | _niniu_  | 'palm, _Gulubia macrospadix_' |
 
 
 <a id="p-46"></a>
@@ -1422,12 +1422,12 @@ In Kwara'ae (SES), [Kwa'ioloa & Burt](../sources/KwaioloaandBurt2001) ([2001](..
 
 |               |                                            |          |                                      |
 |:--------------|:-------------------------------------------|:---------|:-------------------------------------|
-| _mala-ŋali_   | '_Canarium_ asperum'                       | _ŋali_   | 'canarium nut, _Canarium indicum_'   |
+| _mala-ŋali_   | '_Canarium asperum_'                       | _ŋali_   | 'canarium nut, _Canarium indicum_'   |
 | _mala-ʔadoʔa_ | '_Canarium harveyi_'                       | _ʔadoʔa_ | '_Canarium salomonense_'             |
 | _mala-ʔafiʔo_ | '_Syzygium aqueum_                         | _ʔafiʔo_ | 'Malay apple, _Syzygium malaccense_' |
-| _mala-rufa_   | 'Metrosideros parviflora'                  | _rufa_   | '_Syzygium_ lauterbachii'            |
+| _mala-rufa_   | '_Metrosideros parviflora_'                | _rufa_   | '_Syzygium_ lauterbachii'            |
 | _mala-ʔasai_  | 'wild mango tree, _Mangifera_ mucronulata' | _ʔasai_  | 'mango tree, _Mangifera indica_'     |
-| _mala-kona_   | '_Burckella_ sorei'                        | _kona_   | '_Burckella obovata_'                |
+| _mala-kona_   | '_Burckella sorei_'                        | _kona_   | '_Burckella obovata_'                |
 | _mala-dili_   | 'a shrub, _Dracaena angustifolia_'         | _dili_   | 'a shrub, _Cordyline fruticosa_'     |
 
 In Raga (NCV), [Walsh](../sources/Walsh2004) ([2004](../sources/Walsh2004)) notes _mal-buliva_ 'unidentified _Ficus_ sp.' (< _buliva_ '_Ficus_ aspera'), _mal-ɣaviɣa_ 'unidentified tree sp.' (< _ɣaviɣa_ 'Malay apple, _Syzygium_ malaccensis'), _mal-walahi_ 'unidentified tree sp.' (< _walahi_ 'Semicarpus vitiensis') and _mal-bei-bei_ 'unidentified _Polyscias_ sp.' (< _bei_ '_Polyscias_ sp.').
@@ -1490,7 +1490,7 @@ The POc term ancestral to Dobu _udi_ 'banana' was _&ast;pudi_ ([ch.9, §3](../co
 
 <a id="p-51"></a>
 
-Other reduplicated forms in Ramoaaina are _ləma_ 'coconut tree or fruit' vs _ləma-ləma_ 'wild coconut tree or fruit' and _bara_ 'breadfruit' vs _bara-bare_ 'wild breadfruit'. For nearby Patpatar [Peekel](../sources/Peekel1984) ([1984](../sources/Peekel1984)) lists _tuh_ 'sugarcane, _Saccharum officinarum_' vs _tuh-tuh_ 'wild sugarcane, _Saccharum spontaneum_', _pulaka_ 'Polynesian arrowroot, Tacca pinnatifida' vs _pulaka-pulaka_ 'wild varieties of Polynesian arrowroot', _sier_ 'betelpepper vine, _Piper betle_' vs _sier-sier_ 'a vine, Piper fragile, P. singkojang or P. banksii' .
+Other reduplicated forms in Ramoaaina are _ləma_ 'coconut tree or fruit' vs _ləma-ləma_ 'wild coconut tree or fruit' and _bara_ 'breadfruit' vs _bara-bare_ 'wild breadfruit'. For nearby Patpatar [Peekel](../sources/Peekel1984) ([1984](../sources/Peekel1984)) lists _tuh_ 'sugarcane, _Saccharum officinarum_' vs _tuh-tuh_ 'wild sugarcane, _Saccharum spontaneum_', _pulaka_ 'Polynesian arrowroot, _Tacca_ pinnatifida' vs _pulaka-pulaka_ 'wild varieties of Polynesian arrowroot', _sier_ 'betelpepper vine, _Piper betle_' vs _sier-sier_ 'a vine, Piper fragile, P. singkojang or P. banksii' .
 
 Wayan Fijian has _niu_ 'coconut palm' vs _niu-niu_ 'cycad, _Cycas_ circinalis' and _vara_ 'germinating coconut' vs _vara-vara_ 'taxon of fleshy herbs, particularly orchids'.
 

@@ -197,7 +197,7 @@ POc _&ast;ka[(r,l)a]qabusi_ appears to have denoted a taxon including at least _
 <tr>
 <td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>aroŋa</i></td>
 <td>
-'<span><em>Acalypha</em> amentacea</span>'</td>
+'<span><em>Acalypha amentacea</em></span>'</td>
 </tr>
 </table>
 
@@ -209,7 +209,7 @@ POc _&ast;ka[(r,l)a]qabusi_ appears to have denoted a taxon including at least _
 ### 2.2. _Alphitonia_ spp. (Rhamnaceae)
 
 
-Trees of the genus _Alphitonia_ are sub-canopy trees which are conspicuous because of their light grey bark and leaves which are shiny brown or green on the upper surface but grey, white or silver underneath with brown veins ([Peekel 1984](../sources/Peekel1984): 345). The Bismarcks species named by Peekel are _Alphitonia macrocarpa_, 8-10 m tall, and _Alphitonia excelsa_, 10--20 m tall. Apparently very similar to the latter are _Alphitonia incana_ (syn. A. philippensis) and _Alphitonia zizyphoides_ (whitewood, B waetwud, huremi), the latter growing up to 30 m tall. Found respectively in NW Island Melanesia and from Vanuatu to eastern Polynesia, they are important in house construction and in traditional medicine. The leaves were used as soap ([Powell 1976](../sources/Powell1976), [Whistler 1991b](../sources/Whistler1991b): 126, [Wheatley 1992](../sources/Wheatley1992): 193-195, [Kwa'ioloa & Burt 2001](../sources/KwaioloaandBurt2001): 116, [Thomson & Thaman 2006](../sources/ThomsonandThaman2006)).
+Trees of the genus _Alphitonia_ are sub-canopy trees which are conspicuous because of their light grey bark and leaves which are shiny brown or green on the upper surface but grey, white or silver underneath with brown veins ([Peekel 1984](../sources/Peekel1984): 345). The Bismarcks species named by Peekel are _Alphitonia macrocarpa_, 8-10 m tall, and _Alphitonia excelsa_, 10--20 m tall. Apparently very similar to the latter are _Alphitonia incana_ (syn. A. philippensis) and _Alphitonia zizyphoides_ (whitewood, B _waetwud_, huremi), the latter growing up to 30 m tall. Found respectively in NW Island Melanesia and from Vanuatu to eastern Polynesia, they are important in house construction and in traditional medicine. The leaves were used as soap ([Powell 1976](../sources/Powell1976), [Whistler 1991b](../sources/Whistler1991b): 126, [Wheatley 1992](../sources/Wheatley1992): 193-195, [Kwa'ioloa & Burt 2001](../sources/KwaioloaandBurt2001): 116, [Thomson & Thaman 2006](../sources/ThomsonandThaman2006)).
 
 If Lukep (Pono) (NNG) _doi_ '_Cerbera manghas_' is cognate (the two trees are of similar size and have similarly shaped leaves), then POc _&ast;doi_ is reconstructable, but only with the vague sense 'a medium-sized tree sp.'.
 
@@ -295,7 +295,7 @@ _Commersonia bartramia_ is a common small bushy tree which grows up to 15m in he
 
 _Commersonia bartramia_ grows fast and, if the light allows it, straight, and is thus a valued timber in the Bismarcks and the Solomons, as it provides numerous rafters. The wood is lightweight, tough, cardboard-like and termite-proof. However, the Kwara'ae regard it as good only for building cookhouses. On New Britain and in the Solomons it is regarded as good firewood. In both the Bismarcks and the Solomons the bast (inner bark fibre) is an important source of cordage, used to make fishing lines, nets and baskets, and among the Nakanai the bast is beaten into masks ([Floyd 1954](../sources/Floyd1954), [Powell 1976](../sources/Powell1976), [Peekel 1984](../sources/Peekel1984): 371, [Henderson & Hancock 1988](../sources/HendersonandHancock1988): 194, [Kwa'ioloa & Burt 2001](../sources/KwaioloaandBurt2001): 160).
 
-The POc term for _Commersonia bartramia_ was _&ast;jamaR_. The Mwotlap, Mota and Vera'a reflexes include a reflex of the prefix _&ast;mala-_ 'like'. One would thus expect them to denote a plant that resembled C. bertramia, but they apparently denote C. bertramia itself ([ch.2, §7.1.4](../contributions/3-2#s-7-1-4)).
+The POc term for _Commersonia bartramia_ was _&ast;jamaR_. The Mwotlap, Mota and Vera'a reflexes include a reflex of the prefix _&ast;mala-_ 'like'. One would thus expect them to denote a plant that resembled _Commersonia bartramia_, but they apparently denote _Commersonia bartramia_ itself ([ch.2, §7.1.4](../contributions/3-2#s-7-1-4)).
 
 <a id="fig-3-8_1"> </a>
 
@@ -388,7 +388,7 @@ The little cheese tree, _Glochidion philippicum_ (syn. G. ramiflorum), grows 10-
 
 The dark brown wood is strong and durable and provides houseposts and other house members at least in Kwara'ae and in parts of Vanuatu ([Wheatley 1992](../sources/Wheatley1992): 93-95, [Kwa'ioloa & Burt 2001](../sources/KwaioloaandBurt2001): 112). The Kwara'ae also plant it to form living fences. Among the Nakanai the red seeds provide a dye and the sap provides caulking material and is mixed with clay to make a paint for decorating canoes ([Floyd 1954](../sources/Floyd1954)). The bark has medicinal uses ([Record 1945](../sources/Record1945)).
 
-The POc term _&ast;mʷala(q)u_ almost certainly denoted the Bismarcks species _Glochidion philippicum_. Of the other two species represented, G. stipulare is apparently limited to Vanuatu and G. perakense is not reported from the Bismarcks.
+The POc term _&ast;mʷala(q)u_ almost certainly denoted the Bismarcks species _Glochidion philippicum_. Of the other two species represented, _Glochidion stipulare_ is apparently limited to Vanuatu and _Glochidion perakense_ is not reported from the Bismarcks.
 
 <table id="3-8-2-4-241-POc-malaqu-a">
 <tr>
@@ -475,7 +475,7 @@ The POc term _&ast;mʷala(q)u_ almost certainly denoted the Bismarcks species _G
 <tr>
 <td>SV</td><td><a href="../languages/anejom">Anejom</a></td><td><i>na-mlau</i></td>
 <td>
-'<span><em>Glochidion</em> perakense</span>'</td>
+'<span><em>Glochidion perakense</em></span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>molau</i></td>
@@ -514,7 +514,7 @@ PWOc _&ast;jimʷaR_ or _&ast;jimiR_ in all probability denoted the caulking subs
 <tr>
 <td>NNG</td><td><a href="../languages/malalamai">Malalamai</a></td><td><i>simaɬ</i></td>
 <td>
-'<span>putty nut, _Parinari_um laurinum</span>' (<a href="../sources/Lincoln1976">Lincoln1976</a>)
+'<span>putty nut, <em>Parinarium laurinum</em></span>' (<a href="../sources/Lincoln1976">Lincoln1976</a>)
 </td>
 </tr>
 <tr>
@@ -585,7 +585,7 @@ PWOc _&ast;jimʷaR_ or _&ast;jimiR_ in all probability denoted the caulking subs
 
 <a id="s-2-5"></a>
 
-### 2.5. _Macaranga_ spp., P sa'osa'o, Bnavenue (Euphorbiaceae)
+### 2.5. _Macaranga_ spp., P _sa'osa'o_, B _navenue_ (Euphorbiaceae)
 
 
 There are a number of species of _Macaranga_ growing in the Bismarcks and the Solomons and appearing as the glosses of items in the cognate sets below, but they are all rather similar. All are shrubs or small trees, usually 5-10 m and occasionally 15 m tall. Their saplings need light and do not flourish in primary forest, so they are found where the habitat is more open and often in garden regrowth or secondary forest ([Powell 1976](../sources/Powell1976), [Peekel 1984](../sources/Peekel1984):305-207, [Henderson & Hancock 1988](../sources/HendersonandHancock1988): 196-197, [Wheatley 1992](../sources/Wheatley1992):99-101, [Kwa'ioloa & Burt 2001](../sources/KwaioloaandBurt2001): 147, [Hviding 2005](../sources/Hviding2005): 109, 148).
@@ -1264,7 +1264,7 @@ Blust (ACD) reconstructs PWMP _&ast;deRuŋ_ on the basis of western Malaya-Polyn
 
 
 
-Peekel records two species of _Trichospermum_ in New Ireland, _Trichospermum peekelii_ (syn. T.fauroensis, _Trichospermum psilocladum_) in the north and _Trichospermum pleiostigma_ (syn. T. quadrivale, Althoifia tetrapyxis) in the south, with an overlap in the Madak-speaking area.
+Peekel records two species of _Trichospermum_ in New Ireland, _Trichospermum peekelii_ (syn. T.fauroensis, _Trichospermum psilocladum_) in the north and _Trichospermum pleiostigma_ (syn. T. quadrivale, Althoffia tetrapyxis) in the south, with an overlap in the Madak-speaking area.
 
 Both species grow to 10--20 m and have a single stem with radial branches which form a roundish to conical crown. When it is in bloom, the crown is covered in fllowers and is a white mass with a sweet smell which reaches quite a distance. Because the saplings are shade-intolerant, they tend to occur in secondary regrowth, although individual specimens may attain canopy height and survive-but they are unable to reproduce.
 
@@ -1533,12 +1533,12 @@ In Proto Remote Oceanic, _&ast;mʷanaya_, another apparently generic term for gr
 <tr>
 <td>SV</td><td><a href="../languages/lenakel">Lenakel</a></td><td><i>n-mʷania</i></td>
 <td>
-'<span>kangaroo grass, Themeda triandra (?)</span>'</td>
+'<span>kangaroo grass, <em>Themeda triandra</em> (?)</span>'</td>
 </tr>
 <tr>
 <td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>maunei</i></td>
 <td>
-'<span>Cyperus laevigatus and Eleocharis geniculata</span>'</td>
+'<span><em>Cyperus laevigatus</em> and <em>Eleocharis geniculata</em></span>'</td>
 </tr>
 </table>
 
@@ -2114,7 +2114,7 @@ The reconstruction below originates with [French-Wright](../sources/FrenchWright
 <tr>
 <td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>fiso</i></td>
 <td>
-'<span>a large reed, Erianthus maximus; stems contain sugar</span>' (<a href="../sources/Whistler2000">Whistler2000: 165</a>)
+'<span>a large reed, <em>Erianthus maximus</em>; stems contain sugar</span>' (<a href="../sources/Whistler2000">Whistler2000: 165</a>)
 </td>
 </tr>
 <tr>

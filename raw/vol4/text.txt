@@ -7541,12 +7541,12 @@ POc *[pa]paba ‘_Parribacus_ sp. (Scyllaridae), slipper lobster’
   PT:   Misima        sapapa             ‘k.o. saltwater lobster, lacking long feelers’ (_*p_ > _s_ irregular)
   MM:   Tolai         papaba             ‘crayfish sp.’
   SES:  Gela          mapa               ‘slipper lobster’ (perhaps dissimilation: _*p_ > _m_, for †_*v_)
-  NCV:  Mwotlap       na-vam             ‘slipper lobster, Parribacus caledonicus’
+  NCV:  Mwotlap       na-vam             ‘slipper lobster, _Parribacus caledonicus_’
   NCV:  Mota          vavapa             ‘kind of crawfish’
-  NCV:  Uripiv        ne-vep             ‘slipper lobster, Parribacus caledonicus’
-  NCV:  Naman         ne-vev             ‘slipper lobster, Parribacus caledonicus’
-  NCV:  Unua          nepep              ‘slipper lobster, Parribacus caledonicus’
-  NCV:  S Efate       pepep              ‘slipper lobster, Parribacus caledonicus’
+  NCV:  Uripiv        ne-vep             ‘slipper lobster, _Parribacus caledonicus_’
+  NCV:  Naman         ne-vev             ‘slipper lobster, _Parribacus caledonicus_’
+  NCV:  Unua          nepep              ‘slipper lobster, _Parribacus caledonicus_’
+  NCV:  S Efate       pepep              ‘slipper lobster, _Parribacus caledonicus_’
   NCal: Iaai          (wa)hep            ‘slipper lobster’ (_*p_ > _h_, for †_*v_)
 >
 
@@ -7822,7 +7822,7 @@ refer to the mass migration of _C. hirtipes_ as _vui_.
 POc *tubaRa ‘probably generic for large land crabs, _Cardisoma_ spp.’ (cf. Geraghty 1990)
   PT:  Motu          dubara          ‘small land-crab’
   MM:  Tolai         tubara          ‘land-crab’
-  SES: Gela          tumbala         ‘Cardisoma carnifex, white land crab’
+  SES: Gela          tumbala         ‘_Cardisoma carnifex_, white land crab’
   SES: ’Are’are      opara           ‘k.o. crab’
   NCV: Mota          tipara          ‘k.o. land crab’
   SV:  Sye           tupo            ‘a large land crab’
@@ -7833,7 +7833,7 @@ PPn *tupa ‘landcrab’ (pollex)
   Pn:  Samoan        tupa            ‘land crab sp. with large claws’
   Pn:  Tongan        tupa            ‘k.o. land crab’
   Pn:  Tikopia       tupa            ‘large land crab, keenly sought for food’
-  Pn:  Rarotongan    tupa            ‘Cardisoma cardifax, edible land crab’
+  Pn:  Rarotongan    tupa            ‘_Cardisoma cardifax_, edible land crab’
 cf. also:
   MM:  Nduke         tubavu          ‘_Cardisoma_ sp., probably _C. hirtipes_’
   SES: Ghari         tubā            ‘a species of land crab’ (for †_tubala_)
@@ -7856,7 +7856,7 @@ POc *rakum(u) ‘k.o. large crab, probably a land crab’
   PT:   Muyuw        lakum            ‘crab’
   PT:   Gapapaiwa    rakum            ‘k.o. crab’
   MM:   Tabar        raku             ‘crab’
-  MM:   Roviana      garumu           ‘Cardisoma carnifex, white land crab’ (metath.)
+  MM:   Roviana      garumu           ‘_Cardisoma carnifex_, white land crab’ (metath.)
   SES:  Bugotu       ragomu           ‘a crab’
   NCV:  SE Ambrym    oum              ‘land crab’
   NCV:  Namakir      rakumʷ           ‘land crab’
@@ -8141,7 +8141,7 @@ Proto Malaita-Makira *sisira ‘a barnacle or kind of small mollusc’
    SES: Sa’a             sisile              ‘k.o. shellfish’
 cf. also:
    MM:  Roviana          zere                ‘barnacle’
-   MM:  Maringe          sisira              ‘seashell, a cowry, Cypraea tigris’
+   MM:  Maringe          sisira              ‘seashell, a cowry, _Cypraea tigris_’
 >
 
 <
@@ -8227,7 +8227,7 @@ and other archaeological sites associated with Oceanic languages. Gifford and Sh
 identified at least 74 species of molluscs occurring in Lapita sites in New
 Caledonia. Swadling (1977) reports 54 mollusc species from the Taurama sequence in Central
 Province, Papua New Guinea, beginning around 2000 BP. Tools made from shells included
-one-piece fishhooks, adzes made from Tridacna valves and food scrapers from various shell
+one-piece fishhooks, adzes made from _Tridacna_ valves and food scrapers from various shell
 families. Kirch writes that shell valuables in Lapita sites included “rings, disks, beads and
 worked rectangular sections made from various species of marine shell, especially large cone
 shells (_Conus leopardus_, _C. litteratus_) _Spondylus_ oysters, _Tridacna_ clam shells and _Trochus_
@@ -8305,7 +8305,7 @@ PPn *qalili ‘cat’s eye shell, _Turbo_ sp.’ (pollex)
   Pn:  Niuatoputapu   ʔelili          ‘_Turbo_ sp.’
   Pn:  Rennellese     ʔaŋiŋi          ‘turban shells, _Turbo petholatus_, used for spoons’
   Pn:  Samoan         alili           ‘a mollusc, _Turbo_ sp.’
-  Pn:  Tikopia        alili           ‘greensnail; _Turbo_ spp. incl. _T. marmoratus_, _T. bargyrostomus_, _T. setosus_’
+  Pn:  Tikopia        alili           ‘greensnail; _Turbo_ spp. incl. _Turbo marmoratus_, _Turbo argyrostomus_, _Turbo setosus_’
 >
 
 [6] Blust (1980b) gives this form as PWMP but Oceanic cognates allow it to be attributed to PMP.
@@ -8322,7 +8322,7 @@ is probably _*buku_ ‘knot, lump, protruberance’.
 <
 PEOc *mata-buku ‘_Turbo_ spp.’
   SES: Lengo           mata-puku   ‘Turbinidae’
-  Fij: Wayan           mata-buku   ‘_Turbo_ spp., possibly including _T. chrysostoma_, _T. argyrostoma_, _T. necnivosus_’
+  Fij: Wayan           mata-buku   ‘_Turbo_ spp., possibly including _Turbo chrysostoma_, T. argyrostoma, _Turbo necnivosus_’
 cf. also:
   MM:  Maringe         pʰupuku     ‘_Trochus inerassalus_’
   SV:  Anejom          na-pek      ‘_Turbo marmoratus_’
@@ -8337,7 +8337,7 @@ or to summon people to meetings. There is a widely-reflected POc reconstruction 
 shells, which continues a PMP etymon.
 
 <
-PMP *tabuRiq ‘conch shell trumpet’ (dbl. *tabuRT) (Blust 1989)
+PMP *tabuRiq ‘conch shell trumpet’ (dbl. _*tabuRi_) (Blust 1989)
 POc *tapuRiq (1) ‘generic for conch shells, esp. triton’s trumpet, _Charonia tritonis_ and allied spp.; possibly extended to some Cassis (helmet) shells’; (2) ‘trumpet of Charonia shell’
   Adm: Mussau       taue            ‘triton shell’
   NNG: Kove         taule           ‘triton’s trumpet, used for sending messages’
@@ -8349,7 +8349,7 @@ POc *tapuRiq (1) ‘generic for conch shells, esp. triton’s trumpet, _Charonia
   MM:  Sursuranga   taur            ‘triton shell, blown to send messages’
   MM:  Patpatar     tahur           ‘triton shell’
   MM:  Vitu         tavure          ‘triton shell’
-  SES: Gela         tavuli          ‘triton shell; helmet shell, Cassis cornulus: a trumpet’
+  SES: Gela         tavuli          ‘triton shell; helmet shell, _Cassis cornutus_: a trumpet’
   SES: Arosi        ahuri           ‘conch shell, triton; trumpet of this, blown only on solemn occasions, e.g. at a death’
   SES: Arosi        |ahuri (poru)|  ‘k.o. Cassis shell’
   SES: Sa’a         ehuri           ‘conch shell, blown as a summons’
@@ -8412,7 +8412,7 @@ PPn *sisi ‘a univalve mollusc’ (pollex)
   Pn:   Niuean        hihi-          ‘first element in compound names for some gastropods’
   Pn:   Samoan        sisi           ‘name given to small snails in general’ (Milner); ‘freshwater molluscs’ (Pratt)
   Pn:   E Futunan     sisi           ‘small shellfish spp., Neritidae and Naeticidae’
-  Pn:   Tikopia       sisi           ‘a range of marine and land snails incl. Melampus and _Nerita_ spp.’
+  Pn:   Tikopia       sisi           ‘a range of marine and land snails incl. _Melampus_ spp. and _Nerita_ spp.’
   Pn:   Rennellese    sisi           ‘edible Nerita shells’
 cf. also:
   NNG:  Yabem         usu            ‘sea snails (general term)’
@@ -8440,16 +8440,16 @@ well-attested POc reconstruction which continues a PMP etymon.
 <
 PMP *buliq ‘cowrie shell’ (Blust 1980b)
 POc *buli(q) ‘generic for cowries’
-  NNG:  Takia          bul             ‘k.o. shellfish: Ovula ovum, white egg cowrie’
+  NNG:  Takia          bul             ‘k.o. shellfish: _Ovula ovum_, white egg cowrie’
   PT:   Kilivila       bune-buna       ‘cowrie’
   PT:   Molima         buli            ‘cat’s eye (operculum of shell)’
   MM:   Tabar          buri-buri       ‘big cowrie shell’
   MM:   Maringe        buli            ‘cowrie shell’
   SES:  Gela           buli            ‘generic for cowries’
-  SES:  To’aba’ita     bull            ‘egg cowrie, Ovula ovum’
-  SES:  Lau            buli            ‘white cowrie, Ovula ovum’
+  SES:  To’aba’ita     bull            ‘egg cowrie, _Ovula ovum_’
+  SES:  Lau            buli            ‘white cowrie, _Ovula ovum_’
   SES:  Sa’a           puli            ‘cowrie shell, used as sinkers for nets’
-  NCV:  Mwotlap        (nʊ-wʊ)pʷʊl     ‘cowrie shell, not edible; Cypraeidae spp.’
+  NCV:  Mwotlap        (nʊ-wʊ)pʷʊl     ‘cowrie shell, not edible; _Cypraeidae spp_.’
   NCV:  Nguna          pule            ‘cowries’
   Mic:  Ponapean       pʷili           ‘cowrie shell’
   Mic:  Puluwatese     pʷiliy          ‘cowry shell; to scrape, as breadfruit’
@@ -8457,7 +8457,7 @@ POc *buli(q) ‘generic for cowries’
   Fij:  Wayan          buli-buli       ‘cowrie shell: generic term for Cypraeidae and Ovulidae’
 PPn *pule ‘cowrie’
   Pn:   Samoan         pule            ‘cowrie’
-  Pn:   Niuean         pule            ‘cowrie, _Cyprea_ sp.’ (_pule tea_ ‘white cowry, Ovula ovum’)
+  Pn:   Niuean         pule            ‘cowrie, _Cyprea_ sp.’ (_pule tea_ ‘white cowry, _Ovula ovum_’)
 >
 
 186    Andrew Pawley
@@ -8477,7 +8477,7 @@ Solomons.
 
 <
 PMP *lalak ‘trochus shell’ (Blust 2002)
-POc *lala(k) (1) ‘Trochus spp., including _T. niloticus_ and possibly _T. stellatus_’; (2) ‘rings or armlets made of this’
+POc *lala(k) (1) ‘Trochus spp., including _Trochus niloticus_ and possibly _Trochus stellatus_’; (2) ‘rings or armlets made of this’
   NNG: Wogeo           lala       ‘pearl shell’
   MM:  Tolai           lalai      ‘_Trochus_ spp., armlet made from trochus shells’
   MM:  Maringe         glala      ‘_Trochus niloticus_’
@@ -8487,7 +8487,7 @@ POc *lala(k) (1) ‘Trochus spp., including _T. niloticus_ and possibly _T. stel
   NCV: Raga            lala       ‘_Trochus stellatus_: shell armlet, ring’
   NCV: Tamambo         lala       ‘trochus’
   NCV: Uripiv          na-lel     ‘trochus shell’
-cf. also: the following, all possibly borrowed from Tok Pisin lalai
+cf. also: the following, all possibly borrowed from Tok Pisin _lalai_
   Adm: Mussau          lailai     ‘pearlshell’
   NNG: Kove            lalai      ‘pearlshell’
   MM:  Bali            lailai     ‘pearlshell’
@@ -8540,14 +8540,14 @@ Proto Southeast Solomonic *ko-kome or *kome-kome ‘generic for cone shells’
 
 4.4.2.10 Muricidae, murexes
 
-Murexes have large shells, sculptured with knobs and ridges, spines and spinal cords. They
+_Murex_es have large shells, sculptured with knobs and ridges, spines and spinal cords. They
 are carnivores which live in the subtidal zone especially on sandy mudflats. Numerous species
 occur in the tropical Pacific.
 
 <
 POc *buRua ‘_Murex_ sp.’ (Geraghty 1990)
-  PT:  Bwaidoga        (hewahewa)bulu      ‘_M. ramosus_’
-  MM:  Tolai           burua, bura-burua   ‘_M. palma_ rosa’
+  PT:  Bwaidoga        (hewahewa)bulu      ‘_Murex ramosus_’
+  MM:  Tolai           burua, bura-burua   ‘_Murex palmarosae_’
   Fij: Wayan           bua                 ‘_Murex_ spp.’
 cf. also:
   NNG: Kove            vuru                ‘cone shells and ornaments made from these’
@@ -8597,11 +8597,11 @@ shelled molluscs. The largest species (_Tridacna gigas_) grows up to a metre lon
 regarded as a separate family, this group has recently been reclassified as a subfamily
 Tridacninae of Cardiidae. Giant clams are prized food, consumed at ceremonial feasts. In
 some societies edge-ground adze blades and shell rings were made from the heavy shells.
-Typically Oceanic languages have a generic referring to all Tridacna, with several binomials
+Typically Oceanic languages have a generic referring to all _Tridacna_, with several binomials
 distinguishing subtaxa. Thus Arosi _ʔima_ is the generic and there are eight binomials (including
 one pair of synonyms) denoting subtaxa. Wayan has _vāsua_ as the generic and has three
 subtaxa: _(vasua) cavucavu_, _Tridacna gigas_, the largest kind, which is easily removed, and is symbolic
-of women because they marry away from home; _kativatu_, _T. maxima_, is hard to remove
+of women because they marry away from home; _kativatu_, _Tridacna maxima_, is hard to remove
 and is symbolic of men, who stay with their father’s clan; and _vosavosa_, the fluted clam,
 _T. squamosa_.
 
@@ -8637,7 +8637,7 @@ PEOc *(b,v)asua ‘large shellfish, perhaps a bivalve’
 PCP *(b,v)āsua ‘giant clam, _Tridacna_ spp.’
   Fij: Wayan         vāsua          ‘generic for _Tridacna_ spp.’
   Fij: Bauan         vāsua          ‘giant clam, _Tridacna_ spp.’
-PPn *(p,f)āsua ‘Tridacna clam sp.’
+PPn *(p,f)āsua ‘_Tridacna_ clam sp.’
   Pn:  Samoan        fāisua         ‘_Tridacna_ sp., giant clam’ (-_i-_ irregular)
   Pn:  Rennellese    hāsua          ‘general term for _Tridacna_ spp.’
   Pn:  Emae          fāsua          ‘_Tridacna_ sp., giant clam’
@@ -8646,7 +8646,7 @@ Proto Eastern Polynesian-Northern Outlier *pāsua ‘_Tridacna_ sp. or spp.’
   Pn:  Sikaiana      pāsua          ‘clam’
   Pn:  Tokelauan     pāua           ‘poisonous shellfish attached under shelving coral’
   Pn:  Nukuoro       pāsua          ‘_Tridacna maxima_’
-  Pn:  Tahitian      pāhua          ‘_Tridacna elonga_’
+  Pn:  Tahitian      pāhua          ‘_Tridacna elongata_’
   Pn:  Rarotongan    paʔua          ‘clam, oyster’
   Pn:  Marquesan     pahua          ‘oyster sp.’
 cf. also:
@@ -8675,12 +8675,12 @@ POc *kasi (v) ‘to scrape; scraper or grater made from robust circular bivalve 
   Fij: Rotuman        ʔɔsi           ‘cockle, shell much used for scraping’
 PPn *kasi ‘shellfish, _Asaphis_ spp.’ (pollex)
   Pn:  Tongan         kahi           ‘name of a mussel’
-  Pn:  Niuatoputapu   kahi           ‘Asaphis violascens’
+  Pn:  Niuatoputapu   kahi           ‘_Asaphis violascens_’
   Pn:  Samoan         ʔasi           ‘a mussel, _Area_ sp.’
   Pn:  Nukuoro        kasi           ‘Asaphis diehotoma’
-  Pn:  Tikopia        kasi           ‘bivalve mollusc, Asaphis violascens, and possibly other related bivalves; shell used as cutting or scraping implement’
-  Pn:  Rarotongan     kaʔi           ‘Asaphis violascens’
-  Pn:  Maori          kahi           ‘Amphidesma australe and certain other bivalves’
+  Pn:  Tikopia        kasi           ‘bivalve mollusc, _Asaphis violascens_, and possibly other related bivalves; shell used as cutting or scraping implement’
+  Pn:  Rarotongan     kaʔi           ‘_Asaphis violascens_’
+  Pn:  Maori          kahi           ‘_Amphidesma australe_ and certain other bivalves’
 cf. also:
   Mic: Carolinian     xātil          ‘very small clams (thumb sized) used in soups’
 >
@@ -8742,13 +8742,13 @@ POc *kuku(r) ‘mussel sp. or spp., used as food grater or scraper’ (see vol.1
   SES: Gela         ɣuɣu            ‘mollusc sp.’
   SES: Arosi        kuku            ‘a small bivalve, _Area_ sp.’
   NCV: Lonwolwol    huhu            ‘a sharpened shell, for scraping’
-  Fij: Bauan        kuku            ‘generic for mussels, incl. Modiola spp.’
+  Fij: Bauan        kuku            ‘generic for mussels, incl. _Modiola_ spp.’
 PPn *kuku ‘mussel sp. (Mytilidae)’ (pollex)
   Pn:  Tongan       kuku            ‘pink-fleshed mussel’
   Pn:  Niuean       kuku            ‘a small black mussel’
   Pn:  Samoan       ʔuʔu            ‘mussel, _Modiola_ sp.’
   Pn:  E Futunan    kuku            ‘mussel sp. (Mytilidae)’
-  Pn:  Rarotongan   kuku            ‘mussel sp., Mytilus edulis’
+  Pn:  Rarotongan   kuku            ‘mussel sp., _Mytilus edulis_’
   Pn:  Rennellese   kuku            ‘_Tellina discus_’
 >
 
@@ -8772,7 +8772,7 @@ in the intertidal zone. Only a few species of Isognomonidae occur in the Pacific
 PMP *tiRem ‘oyster (Ostreidae)’ (Dempwolff 1938, Blust 2002)
 POc *tiRom ‘oyster (Ostreidae, Isognomonidae)’
   Adm:  Lenkau        tireŋ            ‘k.o. shell’
-  NNG:  Kove          tiro             ‘Crassostrea commercialis, oyster found on stones and mangroves’
+  NNG:  Kove          tiro             ‘_Crassostrea commercialis_, oyster found on stones and mangroves’
   NNG:  Kove          tiromu           ‘oyster (edible)’ (borrowed from Bali?)
   NNG:  Mangap        tir              ‘freshwater shellfish type’
   PT:   Motu          siro             ‘oyster’
@@ -8824,12 +8824,12 @@ POc *japi (1) ‘bivalve taxon, probably _Pinctada maxima_, gold-lipped pearl sh
   SES:  Arosi         dahi           ‘gold-lipped pearl shell’
   SES:  Sa’a          dahi           ‘gold-lipped pearl; crescent breast ornament worn by men, cut from this shell’
 PCP *jiva ‘pearl oyster, including _Pinctada_ spp.’ (metathesis)
-  Fij:  Bauan         ðiva           (1) ‘pearl and wing oysters (Pinctada and _Avicula_ spp.), hammer oyster (_Malleus_ sp.)’; (2) ‘breastplate of pearl shell in frame of whale’s tooth ivory’
-  Fij:  Bauan         ðiva-ðiva      ‘small oyster, _Pinctada matensis_’
+  Fij:  Bauan         ðiva           (1) ‘pearl and wing oysters (_Pinctada_ spp. and _Avicula_ spp.), hammer oyster (_Malleus_ sp.)’; (2) ‘breastplate of pearl shell in frame of whale’s tooth ivory’
+  Fij:  Bauan         ðiva-ðiva      ‘small oyster, _Pinctada_ matensis’
   Fij:  Wayan         ðiva           (1) ‘pearl and winged oysters, including blacklip pearl, _Pinctada margaritifera_, and giant wing oyster’; (2) ‘generic for all kinds of oysters’
   Pn:   Tongan        sifa           ‘pearl shell breastplate’
   Pn:   Niuean        tifa           ‘mother of pearl shell and ornament’
-  Pn:   Tikopia       tifa           ‘large pearl shell, formerly worn by men of rank as a breast ornament. Types include _Pinctada margaritifera_, _Pinctada maxima_, Isognomon isognomum, _I. perna_ and _Pinna_ sp. ’
+  Pn:   Tikopia       tifa           ‘large pearl shell, formerly worn by men of rank as a breast ornament. Types include _Pinctada margaritifera_, _Pinctada maxima_, _Isognomon isognomum_, _I. perna_ and _Pinna_ sp. ’
   Pn:   Rarotongan    tiʔa           ‘pearl shell breastplate’
 cf. also:
   PT:   Hula          ravivi         ‘clamshell’
@@ -8898,7 +8898,7 @@ candidate.
 POc *tu(q)e, *tu(q)e-tu(q)e ‘k.o. bivalve, possibly Lucinidae and allied families’
   NNG:  Kove             tue          ‘_Geloina coaxans_, a cockle-like clam of mangrove forest (Corbiculidae)’
   NNG:  Kove             tue-tue      ‘_Codakia tigerina_ (Lucinidae), _Quidnipagus palatum_ (Tellinidae)’
-  SES:  Gela             tue          ‘_Batissa_ sp., possibly _B. unioniformis_, a commonly harvested small bivalve used as a scraper’
+  SES:  Gela             tue          ‘_Batissa_ sp., possibly _Batissa unioniformis_, a commonly harvested small bivalve used as a scraper’
   SES:  Gela             tue-lovo     ‘_Pecten_ sp.’
   SES:  Gela             tue-koraga   ‘freshwater bivalve’
   SES:  Gela             tue-kunukunu ‘very long _Batissa_ sp.’
@@ -8948,7 +8948,7 @@ PWOc *bio ‘k.o. mollusc or pearl shell’
 
 <
 Proto Meso-Melanesian *game ‘k.o. mollusc’
-  MM:  Vitu          game           ‘k.o. shellfish: Trochns nilolicus’
+  MM:  Vitu          game           ‘k.o. shellfish: _Trochus niloticus_’
   MM:  Tabar         gam            ‘a shellfish’ (possibly from Tok Pisin _gam_ ‘baler shell, large cowry shells’)
   MM:  Tangga        gem            ‘a bivalve, possibly a small Toigans’
 cf. also:
@@ -8968,7 +8968,7 @@ forms that refer only to coconut grater may have spread by borrowing.
 POc *tu(qu)asi ‘bivalve taxon, probably ark or cockle shell; possibly also grater or spoon made from this’
   NNG:  Mangap         tuai         ‘shellfish type, shell used for scraping root vegetables’
 PCP *tu(qu)aði ‘bivalve taxon, probably ark or cockle shell; possibly also grater or spoon made; from this’
-  Fij:  Bauan          tuasa        ‘a bivalve, probably _Area_ sp.’ (final -a irregular)
+  Fij:  Bauan          tuasa        ‘a bivalve, probably _Area_ sp.’ (final _-a_ irregular)
   Fij:  Wayan          tuaði        ‘ark shell, _Anadara_ sp. (Arcidae)’
   Pn:   Tongan         tuahi        ‘k.o. shellfish’
   Pn:   Niuatoputapu   tuʔuasi      ‘a cockle, _Laevicardium biradiata_ (Cardiidae)’
@@ -9357,9 +9357,9 @@ cf. also:
 <
 PCP *loli ‘sea cucumber taxon’
   Fij:     Bauan        loli         ‘a small sea cucumber, whose skin is scraped and used as a fish-poison’
-  Fij:     Wayan        loli-loli    ‘_Holothuria_ sp. or spp., probably _H. atra_ and/or edulis’
+  Fij:     Wayan        loli-loli    ‘_Holothuria_ sp. or spp., probably _Holothuria atra_ and/or edulis’
   Pn:      Tongan       loli         ‘k.o. sea cucumber, comparatively long and hard’
-  Pn:      Niuean       loli         ‘generic for several kinds of sea cucumbers including Holothuria atra’
+  Pn:      Niuean       loli         ‘generic for several kinds of sea cucumbers including _Holothuria atra_’
   Pn:      Samoan       loli         ‘k.o. edible sea cucumber, _Holothuria_ sp.’
   Pn:      Hawaiian     loli         ‘generic for sea cucumbers’
 >
@@ -9647,7 +9647,7 @@ worm taxa.
 <
 POc *ibo ‘k.o. sandworm, probably _Sipunculus_ sp.’
   MM:   Roviana       ibo           ‘small seaworm, much used for bait’
-  Mic:  Kiribati      ibo           ‘a sandworm, Sipunculus indicits’
+  Mic:  Kiribati      ibo           ‘a sandworm, _Sipunculus indicus_’
   Fij:  Bauan         ibo           ‘large edible seaworm’
   Fij:  Wayan         ibo           ‘k.o. sandworm, _Sipunculus_ sp.’
   Pn:   Samoan        ipo           ‘edible sandworm, _Sipunculus_ sp.’
@@ -9678,7 +9678,7 @@ in POc.
 
 <
 POc *weli (1) ‘fireworm, sea centipede’; (2) ‘? k.o. millipede or centipede’
-  PT:  Saliba        yeli-yeli      ‘fireworm, Pherecardia striata’’
+  PT:  Saliba        yeli-yeli      ‘fireworm, _Pherecardia striata_’
   SES: Arosi         weli           ‘black thickbodied millipede, lulus sp, found on near the coast’
   SES: Arosi         weri(marumu)   ‘sp. of millipede with furry body’
   NCV: Raga          weli, ueli     ‘small iridescent centipede’
@@ -9717,11 +9717,11 @@ noun marker _*na_. The Maringe form may be a borrowing from a neighbouring SES l
 but it is noteworthy that its first vowel agrees with NCV rather than SES witnesses.
 
 __formgroup__
-  MM: Maringe        na-udu         ‘Leodis viridis, palolo worm’
+  MM: Maringe        na-udu         ‘_Leodis viridis_, palolo worm’
 
 <
-PEOc *(o,u)du ‘Leodis viridis, palolo worm’
-Proto Southeast Solomonic *odu ‘Leodis viridis, palolo worm’
+PEOc *(o,u)du ‘_Leodis viridis_, palolo worm’
+Proto Southeast Solomonic *odu ‘_Leodis viridis_, palolo worm’
   SES: Gela           odu
   SES: Ghari          odu          ‘a worm that lives in coral’
   SES: Arosi          ogu, oku
@@ -9739,7 +9739,7 @@ PNCV *udu ‘Eunice, palolo worm’ (Clark 2009)
    A separate term is reconstructable for PCP, with reflexes in Fijian and Polynesian languages.
 
 <
-PCP *balolo (1) ‘Leodis viridis, palolo worm’; (2) ‘name of the months when this worm rises’
+PCP *balolo (1) ‘_Leodis viridis_, palolo worm’; (2) ‘name of the months when this worm rises’
   Fij: Bauan         balolo
   Fij: Wayan         balolo
 PPn *palolo (1) ‘palolo worm’; (2) ‘name of the months when this rises’
@@ -20460,7 +20460,7 @@ _New Caledonia_ |           |
                |       _sisi-vao_    |   ‘landsnails’
  Futunan       |       _sisi_        |   ‘small shellfish spp., Neritidae and Naticidae’
  Uvean         |       _hihi_        |   ‘kind of shellfish, Janthinidae and Neritidae’
- Tikopia       |       _sisi_        |   ‘marine and land snails incl. Melampus and _Nerita_ spp.’
+ Tikopia       |       _sisi_        |   ‘marine and land snails incl. _Melampus_ and _Nerita_ spp.’
  Mere-Ifira    |       _sisi_        |   ‘small snail (nerites and others of similar shape)’
  Rennellese    |       _sisi_        |   ‘edible nerite shells’
  Nukuoro       |       _sisi_        |   ‘mollusc, _Neritidae_ spp.’

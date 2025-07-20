@@ -1415,7 +1415,7 @@ __tablenh__
      PMP _*tuqelan_     |       POc _*tuqan_ ‘bone’ (vol. 5:85)
      PMP _*baReqaŋ_     |       POc _*paRa(ŋ)_ ‘molar tooth’ (vol. 5:133),
      PMP _*buteliR_     |       POc _*putiR_ ‘wart’ (vol. 5:344).
-     PMP _*buqeni_      |       POc _*puni_ ‘ringworm, Tinea imbricata’ (vol. 5:346)
+     PMP _*buqeni_      |       POc _*puni_ ‘ringworm, _Tinea imbricata_’ (vol. 5:346)
      PMP _*ma-heyaq_    |       POc _*maya(q)_ ‘shy, embarrassed; ashamed’ (vol. 5:585).
 
 The conditioning of this change remains unclear, as it did not affect the etyma below:
@@ -14341,7 +14341,7 @@ the Pleiades’; §11.5.7) and Polynesia (PNPn _*mataliki_ ‘month name, June�
 
 11.4.3 Palolo risings
 
-The palolo worm, _Eunice viridis_ (also Leodis viridis or Palolo viridis) is a segmented sea
+The palolo worm, _Eunice viridis_ (also _Leodis viridis_ or Palolo viridis) is a segmented sea
 worm that lives in crevices in a coral reef. Its annual spawning occurs in a widely distributed
 number of places, but always at a time associated with the lunar cycle. In Eastern Oceanic
 communities this is typically six to nine days after the full moon in October and November
@@ -26290,7 +26290,7 @@ cultural roles of shell money is substantial and often engages in controversy, a
 relevant expertise to discuss it here.[2]
 
    In parts of the NW Solomons, shell money consists of rings or drums made from the shell
-of the giant clam (genus Tridacna; vol.4:189–190). Elsewhere in the region it consists of
+of the giant clam (genus _Tridacna_; vol.4:189–190). Elsewhere in the region it consists of
 disks manufactured from various shell species, each disk about a centimetre in diameter with
 a hole in the centre. The disks are threaded onto strong, fine string, packed together so that,
 where disks made of shells of different colours alternate, they form a colourful pattern. A

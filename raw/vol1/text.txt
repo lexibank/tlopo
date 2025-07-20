@@ -4115,7 +4115,7 @@ have been used primarily in tree-felling; adzes for such activities as the hollo
 shaping of canoes, or the extraction of pith from sago palms. Either implement could have
 been utilised in the shaping of timber for the construction of houses, fenceposts etc. Although
 the preferred material for an adze blade was presumably basalt, archaeological sites in Island
-Oceania contain numbers of axes and particularly adzes, made of shell, mostly of Tridacna,
+Oceania contain numbers of axes and particularly adzes, made of shell, mostly of _Tridacna_,
 the giant clam (Oliver 1989: 89). On coral atolls, shell often has by necessity to substitute for
 stone.
 
@@ -4204,10 +4204,10 @@ __formgroup__
 PMP *ta(ŋ)kub 'adze' (Dahl 1981)
 POc *taku 'adze'
  Adm: Loniu           taku(wen)      'dig (s.t.) with adze'
-PCP *taku 'cutting implement made from shell of turtle or Tridacna shell'
+PCP *taku 'cutting implement made from shell of turtle or _Tridacna_ shell'
  Fij: Wayan           taku           'Hawksbill turtle and its shell'
  Pn:  Tongan          toku           'knife or cutter made from turtleshell or hard wood (now rare)'
- Pn:  Tuvalu          takū           'axe or flat-bladed adze with Tridacna blade'
+ Pn:  Tuvalu          takū           'axe or flat-bladed adze with _Tridacna_ blade'
  Pn:  E. Uvean        takū           'shell of turtle'
 >
 
@@ -4901,7 +4901,7 @@ Figure 13: POc _*bara_ 'plaited cane armlet' (from Nevermann_1934: 151)
 
    Spriggs (1997a: 88) lists the distinctive range of shell ornaments recovered from Lapita
 sites such as Eloaua in the Admiralties, Balof (New Ireland) and Arawe Islands south-west of
-New Britain. They include Conus shell rectangular units, beads, rings and disks, Tridacna
+New Britain. They include Conus shell rectangular units, beads, rings and disks, _Tridacna_
 rings, Spondylus beads and long units and Trochus armrings. Reconstructions have been
 possible for armlets, pearlshell ornaments, ear decorations and for the act of stringing together
 a necklace.
@@ -4913,7 +4913,7 @@ POc *[la]lak[o] 'trochus shell; bracelet made from it'
   SES: Lau           lao              'cone shell'
   SES: Arosi         raʔo             'cone shell'
   NCV: Mota          lala             'univalve, top shell; bracelet made of it'
-  NCV: Raga          lala             'top shell, Trochus stellatus; shell armlet, ring'
+  NCV: Raga          lala             'top shell, _Trochus stellatus_; shell armlet, ring'
   Mic: Woleaian      lax              'bracelet'
 >
 
@@ -5362,7 +5362,7 @@ Our reconstructions are for items which draw on a range of raw materials. They i
 __block__
 - vegetable products (a variety of timbers, bamboo, coconut shell, leaves, vine, cane and bark)
 - stone (of variable quality, the most useful being obsidian, flint and basalt)
-- coral and shell (Tridacna, Trochus, Conus, clam, pearlshell and others; turtle shell)
+- coral and shell (_Tridacna_, Trochus, Conus, clam, pearlshell and others; turtle shell)
 - animal products (bone, skin)
 - earth products (pigments, earth, clay).
 
@@ -11008,7 +11008,7 @@ POc *kaio 'sling; to turn round and round'
 
 Slingshots would have been used for hunting birds, flying foxes and perhaps the cuscus.[6]
 Although it is assumed that ordinary well-shaped stones were used, Green (1979: 39) has
-documented a pointed-end Tridacna shell slingstone from Main Reef Islands circa 1000 BC.
+documented a pointed-end _Tridacna_ shell slingstone from Main Reef Islands circa 1000 BC.
 
 [6]   Chowning (pers.comm.) comments that slings were also used for warfare in some places,
 as among the Tolai and in the D'Entrecasteaux, including the Dobu area. The Molima say they
@@ -11624,7 +11624,7 @@ POc *kasi[-] 'k.o. mussel, used as food scraper; scratch, scrape out or off' (Li
    SES: Lau         ka-kasi            'split open'
    Fij: Rotuman     ʔasi               'cockle; shell much used for scraping'
    Pn:  Samoan      ʔasi               'edible mollusc (Area sp.); coconut scraper cockle (Vastieardium sp.)'
-   Pn:  Tikopia     kasi               'bivalve mollusc (Asaphis violascens Forskal), possibly other related bivalves also; shell traditionally used as cutting or scraping implement, as food scraper for coconut, breadfruit'
+   Pn:  Tikopia     kasi               'bivalve mollusc (_Asaphis violascens_ Forskal), possibly other related bivalves also; shell traditionally used as cutting or scraping implement, as food scraper for coconut, breadfruit'
    cf. also:
    PT:  Motu        ka-kasi            'scratch, scrape'
    MM:  Maringe     ke-kesi            (VT) 'scrape roasted potato, taro or yam skins'
@@ -11825,7 +11825,7 @@ POc *saRo[-] 'wipe, sweep'
 9.3 Cutting, peeling, separating, splitting and tearing
 
    Prior to the introduction of steel blades, cutting of timber would have been achieved by
-stone axe or adze (replaced with Tridacna shell blade when suitable stone was unobtainable),
+stone axe or adze (replaced with _Tridacna_ shell blade when suitable stone was unobtainable),
 and of softer materials by sharpened shell or piece of bamboo, or a piece of obsidian or flint.
 In some languages, terms for the implement serve as a base for various cutting activities. For
 instance, Iduna, a Papuan Tip language, has dozens of cutting terms which are compounds
