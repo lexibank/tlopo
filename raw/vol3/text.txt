@@ -8803,7 +8803,7 @@ POc *sabakap '_Alstonia scholaris_' (Chowning 2001: 84)
 Figure 7.1: _Falcataria moluccana_.
 
 _Falcataria moluccana_ was until recently known as _Albizia falcataria_. Because there are items in the
-data glossed '_Albizia_ sp.' which may in fact denote _Falcataria moluccana_, the genera Falcataria and
+data glossed '_Albizia_ sp.' which may in fact denote _Falcataria moluccana_, the genera _Falcataria_ and
 _Albizia_ are handled together here.
 
     The small-leafed crown of _Falcataria moluccana_ emerges above all other trees in Bismarcks
@@ -8874,7 +8874,7 @@ diameter (Peekel 1984: 391). The nectar-rich flowers attract flying foxes (Recor
 is widely used in the Bismarcks to make canoes (Floyd 1954, Peekel 1984:391, Arentz et al. 1989:93,
 Floyd 1954, Bugenhagen & Bugenhagen n.d.).
 
-     0. sumatrana is apparently of little significance in the Solomons (Whitmore 1966)[5] and
+     _Octomeles sumatrana_ is apparently of little significance in the Solomons (Whitmore 1966)[5] and
 does not occur at all in Vanuatu, to judge from its absence from Gowers (1976) and Wheatley (1992).
 
     The reconstruction below is for PWOc only, but this is not surprising in view of the
@@ -8995,7 +8995,7 @@ name arrived in New Guinea with traders and spread along with its valued denotat
 
 192    Malcolm Ross
 
-    The reflexes of POc *(m,mʷ)aso(q)u reveal a further set of complications. (Blust 1981a)
+    The reflexes of POc _*(m,mʷ)aso(q)u_ reveal a further set of complications. (Blust 1981a)
 glosses the Lou and Nauna terms '_Cananga odorata_' (§5.2), rather than a _Cinnamomum_
 species, and this is also the gloss of the Meso-Melanesian reflexes. Fijian has two terms:
 Bauan _maðou_ 'wild cinnamon, _Cinnamomum_ sp.' and Bauan _makosoi_ / Wayan _mākosoi_, both
@@ -9094,7 +9094,7 @@ the Wayan form with 'breadfruit'.
 194   Malcolm Ross
 
 
-7.4.4 _Dracontomelon dao_ (syn. _Dracontomelon mangiferum_, _Dracontomelon edule_), New Guinea walnut, Dragon plum, TP man, Bnakatambol (Anacardiaceae)
+7.4.4 _Dracontomelon dao_ (syn. _Dracontomelon mangiferum_, _Dracontomelon edule_), New Guinea walnut, Dragon plum, TP _mon_, B _nakatambol_ (Anacardiaceae)
 
 Figure 7.3: _Dracontomelon dao_, New Guinea Walnut.
 
@@ -9167,7 +9167,7 @@ PNCV *katabola '_Dracontomelon dao_' (Clark 1996)
 >
 
 
-7.4.5 _Dysoxylum_ spp., stinktree, stinkwood, Bstingwud (Meliaceae)
+7.4.5 _Dysoxylum_ spp., stinktree, stinkwood, B _stingwud_ (Meliaceae)
                                                       
 Figure 7.4: _Dysoxylum arborescens_.
 
@@ -9210,7 +9210,7 @@ PSV *na-mtaw '_Dysoxylum_ sp.' (Lynch 2001c)
   SV:  Anejom      ne-mtav       '_Dysoxylum aneityense_'
   Fij: Bauan       mavota        '_Myristica grandiflora_' (for †_maota_)
   Pn:  Tongan      moʔota        'taxon of three _Dysoxylum_ spp., but primarily _Dysoxylum forsteri_' ('Whistler 1991b: 92-93)
-  Pn:  Niuean      moota         'tree, _Dysoxylum_ richii, timber used to build main hull of canoe' (also _maota_)
+  Pn:  Niuean      moota         'tree, _Dysoxylum richii_, timber used to build main hull of canoe' (also _maota_)
   Pn:  E Uvean     maʔota        '_Dysoxylum samoensis_'
   Pn:  E Futunan   māʔota        'shrub sp., _Dysoxylum forsteri_'
   Pn:  Rennellese  maʔota        'tree sp., _Dysoxylum gaudichaudianum_, valuable for house timbers'
@@ -9234,7 +9234,7 @@ Proto Erakor-Tafea *tuan '_Dysoxylum_ spp.'
 7.4.6 _Elaeocarpus_ spp. (Elaeocarpaceae)
 
 _Elaeocarpus_ species in NW Island Melanesia include the large canopy trees _Elaeocarpus angustifolius_
-(syn. _Elaeocarpus sphaericus_) with its distinctively cornflower-blue fruit and E.floridanus, more common in
+(syn. _Elaeocarpus sphaericus_) with its distinctively cornflower-blue fruit and _Elaeocarpus floridanus_, more common in
 the Solomons than the Bismarcks, with dark blue or black fruit (syn. _Elaeocarpus pseudosepicanus_),
 both 25 or more metres tall, as well as shrub-sized trees of the understorey
 like _Elaeocarpus edulis_ (syn. _Aceratium oppositifolium_), 3-6 m tall, with its 4 x 3cm ellipsoid
@@ -9272,7 +9272,7 @@ PSV *na-(s,j)u(v,w)as '_Elaeocarpus angustifolius_' (Lynch 2004a)
 >
 
 
-7.4.7 _Endospermum_ spp., cheesewood, milkwood, whitewood, PNG basswood, Bwaetwud, melektri (Euphorbiaceae)
+7.4.7 _Endospermum_ spp., cheesewood, milkwood, whitewood, PNG basswood, B _waetwud_, _melektri_ (Euphorbiaceae)
 
 Within island Melanesia _Endospermum medullosum_ (Figure 7.5, left) is present in the Bismarcks, the
 Solomons and Vanuatu; _Endospermum moluccanum_ is reported only from the Bismarcks (Peekel 1984: 313,
@@ -9315,7 +9315,7 @@ POc *koma(r,R)(o,u) '_Endospermum_ sp.'
                                                                             Primary rain forest      199
 
 
-7.4.8 _Garuga floribunda_ (syn. _Garuga abilo_), Bnamalaus (Burseraceae)
+7.4.8 _Garuga floribunda_ (syn. _Garuga abilo_), B _namalaus_ (Burseraceae)
 
 _Garuga floribunda_ is a canopy tree which grows to a height of up to 25m in Vanuatu and up
 to 35m in Papua New Guinea (Wheatley 1992:63, Conn & Damas 2006). It has a short bole
@@ -9386,7 +9386,7 @@ However, Blust's gloss of PMP _*teRas_ as 'hard, hardwood' suggests that POc _*t
 may have denoted 'hardwood' in general or a taxon of hardwood trees, rather than _Intsia bijuga_
 in particular. This would explain why some of its reflexes denote other hardwood trees.
 In particular, its Proto Polynesian reflex, _*toa_, was reapplied to _Casuarina equisetifolia_. In
-Muyuw the term _meikʷis_ used both for _Intsia bijuga_ and for the hard heartwood of any tree
+Muyuw the term _meikʷ_ is used both for _Intsia bijuga_ and for the hard heartwood of any tree
 (F. Damon, pers. comm.). Thus one word for hardwood has been replaced by another in naming
 _Intsia bijuga_.
 
@@ -9408,7 +9408,7 @@ POc *toRas 'a taxon of hardwood trees including _Intsia bijuga_' (?)
   NNG: Kairiru     tor        '_Intsia bijuga_'
   MM:  Sursurunga  toraha     'a hardwood tree'
   MM:  Nehan       toraha     'tree sp. with strong yellowish-white wood, used for carving slitgong drums and paddles'
-  MM:  Halia       tolasa     'same tree: sp. as Nehan toraha'
+  MM:  Halia       tolasa     'same tree: sp. as Nehan _toraha_'
   MM:  Petats      tolas      '_Vitex monophylla_'
   MM:  Teop        tora       '_Vitex monophylla_'
   MM:  Maringe     tʰola      'type of large softwood tree; canoe with two upraised ends'
@@ -9450,7 +9450,7 @@ PPn *toa '_Casuarina equisetifolia_' (POLLEX)
 
      The inherited meaning of POc _*qipil_ was apparently '_Intsia bijuga_', but the glosses of
 its reflexes suggest that it also denoted '_Casuarina equisetifolia_'. Note that 'ironwood' and
-'kwila' both refer to '_Intsia bijuga_'.
+'_kwila_' both refer to '_Intsia bijuga_'.
 
 <
 PMP *qipil 'a hardwood tree, _Intsia bijuga_' (Dempwolff 1938: _*ipil_, ACD)
@@ -9459,7 +9459,7 @@ POc *qipil 'a taxon of hardwood trees including _Intsia bijuga_ and _Casuarina e
   Adm: Likum         ih           '_Casuarina equisetifolia_'
   Adm: Nyindrou      eih          'ironwood'
   MM:  Tolai         ip           'tree sp.'
-  MM:  Teop          ivin         'a hardwood tree, kwila'
+  MM:  Teop          ivin         'a hardwood tree, _kwila_'
   MM:  Mon-Alu       ihili        '_Intsia bijuga_' (W. McClatchey, pers. comm.)
   MM:  Ririo         kivil        '_Intsia bijuga_'
   MM:  Babatana      kivili       '_Casuarina equisetifolia_'
@@ -9491,7 +9491,7 @@ PWOc *bʷana '_Intsia bijuga_'
                                                                               Primary rain forest       203
 
 
-7.4.10 _Planchonella_ spp., B komtri (Sapotaceae)
+7.4.10 _Planchonella_ spp., B _komtri_ (Sapotaceae)
 
 _Planchonella_ species range in size from large canopy trees to small trees of the sub-canopy.
 The species division of the genus _Planchonella_ remains controversial (Walter & Sam 2002: 226),
@@ -9513,8 +9513,8 @@ Vanuatu between a small sub-canopy tree and a large tree of the canopy. Its bark
 pale grey to black-brown, and it has long narrow leaves and round fruit 3-4cm in diameter. It
 has a preference for the beach or inland for moist habitats. Its wood is close-grained and can
 be finely worked: combs can be made from a single flat piece of wood (Gowers 1976: 113,
-Kwa'ioloa & Burt 2001: 140--141). Wheatley (1992) identifies _Planchonella grayana_ as a variety of P.
-costata. Gowers (1976: 115) also describes _Planchonella linggensis_, labelled the 'comb tree', leading
+Kwa'ioloa & Burt 2001: 140--141). Wheatley (1992) identifies _Planchonella grayana_ as a variety of
+_Planchonella costata_. Gowers (1976: 115) also describes _Planchonella linggensis_, labelled the 'comb tree', leading
 one to wonder if this also is a variety of _Planchonella costata_.
 
     In view of this variation we can be sure only that POc _*kalaka_ denoted a species of
@@ -9526,15 +9526,15 @@ POc *kalaka '_Planchonella_ sp.'
   NNG: Kairiru     lalak                 '_Planchonella_ obovoidea'
   MM:  Tolai       kalakala              'tree sp.'
   NCV: Raga        ɣaraŋa                '_Planchonella_ sp.'
-  NCV: Uripiv      na-klak               '_Planchonella_/ Pouteria spp.'
+  NCV: Uripiv      na-klak               '_Planchonella_/ _Pouteria_ spp.'
 PCP *kalaka '_Planchonella_ sp.'
   Fij: Bauan       galaka                '_Planchonella costata_'
   Pn:  Niuean      kalaka                '_Planchonella_ sp.'
-  Pn:  Tongan      kalaka                '_Planchonella_ samoensis'
+  Pn:  Tongan      kalaka                '_Planchonella samoensis_'
   Pn:  E Futunan   kalaka                'tree sp.'
   Pn:  Emae        kalaka                'tree sp.'
   Pn:  Samoan      alaʔa                 '_Planchonella garberi_'
-  Pn:  Hawaiian    ʔālaʔa                '_Planchonella_ sandwicensis'
+  Pn:  Hawaiian    ʔālaʔa                '_Planchonella sandwicensis_'
   Pn:  Tuamotuan   karaka                'tree sp.'
   Pn:  Maori       karaka                '_Corynocarpus laevigata_'
 >
@@ -9560,7 +9560,7 @@ of the taxon. This being so, it is possible that POc _*bau_ is identical with PO
 POc *bau 'hardwood taxon' (see above)
   MM:  Teop         bau          '_Leea tetramera_'
 PCP *bau 'hardwood taxon' (see above)
-  Fij: Wayan        bau          'woody trees taxon including _Burckella_ richii, _Manilkara vitiensis_, _Palaquium_ fijiense and _Planchonella_ species'
+  Fij: Wayan        bau          'woody trees taxon including _Burckella richii_, _Manilkara vitiensis_, _Palaquium fidjiense_ and _Planchonella_ species'
   Fij: Bauan        bau          '_Palaquium_ spp. (Keppel et al. 2005)'
   Fij: Yasawa       bau          'tree sp., probably Sapotaceae sp.'
   Pn:  Anutan       pau          '_Pipturus argenteus_'
@@ -9633,7 +9633,7 @@ POc *Rigi 'rosewood, _Pterocarpus indicus_' (Geraghty 1990: PEOc _*rike_)
 >
 
 
-7.4.12 _Vitex cofassus_, New Guinea teak, TP garamut (Lamiaceae)
+7.4.12 _Vitex cofassus_, New Guinea teak, TP _garamut_ (Lamiaceae)
 
 _Vitex cofassus_ grows 20-40 m tall (Figure 7.6, right). It has a grey trunk, with a bole up to
 18 m long and buttresses up to 6 m high. The wood is smooth, white and durable
@@ -9651,7 +9651,7 @@ carving (Powell 1976, Henderson & Hancock 1988: 190, Hviding 2005: 150, Scales n
 
      The POc term for _Vitex cofassus_ was _*pasa(r,R)_.[17] Milke (1961: 171) reconstructed an
 unglossed POc _*pasa_ on the basis of the Arosi, Sa'a, Bauan Fijian and Samoan items below,
-together with Gedaged _safa_ 'C erbera manghas. He assumes that the latter represents a metathesis,
+together with Gedaged _safa_ '_Cerbera manghas_'. He assumes that the latter represents a metathesis,
 but, given the difference between the two species, this is an ad hoc assumption, and the
 Gedaged item is omitted here.
 
@@ -9716,7 +9716,7 @@ trees in the Solomons (Kwa'ioloa & Burt 2001: 157-158), nor for _Gnetum latifoli
 woody climber of Bougainville and the Solomons.
 
 
-7.5.1 _Bischofia javanica_, Java cedar, Bnakoka, redwud (Phyllanthaceae)
+7.5.1 _Bischofia javanica_, Java cedar, B _nakoka_, _redwud_ (Phyllanthaceae)
 
 Occurring throughout the Pacific, _Bischofia javanica_ (Figure 7.7, left) is often a 30--40 m
 canopy tree with a bole a metre in diameter in the New Guinea region, but is usually a
@@ -9772,7 +9772,7 @@ PCP *koka 'tree sp., _Bischofia javanica_'
                                                                      Primary rain forest     209
 
 
-7.5.2 _Cananga odorata_, ylang-ylang, perlume tree, nandingori, nadingro, nangungara (Annonaceae)
+7.5.2 _Cananga odorata_, ylang-ylang, perlume tree, _nandingori_, _nadingro_, _nangungara_ (Annonaceae)
 
 _Cananga odorata_ (Figure 7.7, right) is usually a lower canopy tree 10--15 metres tall, but
 sometimes it reaches the canopy at 30 or 35m (Peekel 1984: 183, Conn & Damas 2006).
@@ -9883,10 +9883,10 @@ PSV *ne-dɣol '_Dillenia biflora_' (Lynch 2004a)
      SV:      Anejom         ne-cɣel
 >
 
-7.5.5 _Diospyros_ spp., ebony, blackwood, Bblakwud (Ebenaceae)
+7.5.5 _Diospyros_ spp., ebony, blackwood, B _blakwud_ (Ebenaceae)
 
 _Diospyros_ species are sub-canopy trees around 10 m tall with very hard black wood.
-_Diospyros_ peekelii is used on New Britain for digging sticks, on New Ireland to make clubs for
+_Diospyros peekelii_ is used on New Britain for digging sticks, on New Ireland to make clubs for
 shark-catching (Floyd 1954, Peekel 1984: 432--433). In the western Solomons the wood of
 some species is used for carving (Hviding 2005: 142). The fruit of _Diospyros_ species is the
 persimmon. The fruit of some species are edible and are eaten when other food is scarce
@@ -10550,7 +10550,7 @@ Proto Remote Oceanic *wasi-wasi '_Sterculia vitiensis_' (from data in Wheatley 1
 
 
 
-7.6.1.2 _Angiopteris evecta_ (syn._Angiopteris erecta_), mule's foot fern (Marattiaceae)
+7.6.1.2 _Angiopteris evecta_ (syn. _Angiopteris erecta_), mule's foot fern (Marattiaceae)
 
 The plant with the largest fronds (1.5m long) on New Ireland, _Angiopteris evecta_ is a large
 fern common in shady inland forest. The fronds rise from a massive rootstock, fleshy and
@@ -10569,7 +10569,7 @@ PPn *nas(e,i) 'giant fern, _Angiopteris evecta_, with edible root'
 >
 
 
-7.6.1.3 _Donax cannaeformis_ (syn. _Clinogyne grandis_, _Maranta grandis_, _Thalia cannaeformis_, Actoplanes cannaiformis, _Donax arundastrum_) (Marantaceae)
+7.6.1.3 _Donax cannaeformis_ (syn. _Clinogyne grandis_, _Maranta grandis_, _Thalia cannaeformis_, _Actoplanes canniformis_, _Donax arundastrum_) (Marantaceae)
 
 A leafy shrub, _Donax cannaeformis_ has a rhizome from which rise erect smooth stems 1.5-3 m
 tall with spreading branches about 85cm long. It has elliptical leaves often with yellowish-white
@@ -10602,7 +10602,7 @@ POc *nini(q) 'shrub, _Donax cannaeformis_'
 _Garcinia_ species grow in all sizes from small shrubs to tall canopy trees. The best known
 species is _G. mangostana_, the mangosteen, which grows up to 25 m high, but this is not
 indigenous to Oceania. The only indigenous species reported by Peekel (1984: 376-377) in
-the Bismarcks is _Garcinia novo-guineensis_ (syn. _G. warburgiana_), a tree just 5-10 m tall with small
+the Bismarcks is _Garcinia novo-guineensis_ (syn. _Garcinia warburgiana_), a tree just 5-10 m tall with small
 white flowers. It contains, especially in the roots, yellow latex which is used on New Ireland
 for painting ancestor pictures. This yellow is greenish and lighter than that from Curcuma
 (ch.13, §5.1).
@@ -10766,7 +10766,7 @@ that also has toxic sap, thus supporting the PMP form.
 
 The only wild leafy shrub for which a reconstruction has been made is _Hornstedtia lycostoma_.
 The genera Alpinia and _Heliconia_ also belong here, but no reconstruction of a name for an
-Alpinia species is supported by the data. _Heliconia_s are also cultivated, and are treated in
+Alpinia species is supported by the data. _Heliconias_ are also cultivated, and are treated in
 ch.13, §6.5.
 
 7.6.2.1 _Hornstedtia lycostoma_ (syn. _Hornstedtia scottiana_) (_Zingiber_aceae)
@@ -10874,12 +10874,12 @@ the glosses below are, roughly from largest to smallest:
 __block__
 - _Dendrocnide excelsa_ (syn. _L. gigas_), the giant stinging tree, is a tree of the forest canopy, up to
   40 m tall, with dull green heart-shaped or round leaves covered with stinging hairs.[35]
-- _Dendrocnide harveyi_ (syn. _Dendrocnide milnei_, _L. harveyi_, _L. milnei_), a tree up to 20m tall, apparently found
+- _Dendrocnide harveyi_ (syn. _Dendrocnide milnei_, _Laportea harveyi_, _L. milnei_), a tree up to 20m tall, apparently found
   only in Fiji and western Polynesia.
 - _Dendrocnide latifolia_, a small shrubby tree, occasionally with a straight bole and reaching 10 m,
   but usually smaller. It is common in secondary forest. It has a serious sting, the pain of
   which lasts for days (Wheatley 1992:238, Kwa'ioloa & Burt 2001: 154, Scales n.d.).
-- _Dendrocnide_ sessiflora (syn. _L. sessiflora_), a shrub or small tree 3-10 m high with a mild sting
+- _Dendrocnide sessiliflora_ (syn. _Laportea sessiliflora_), a shrub or small tree 3-10 m high with a mild sting
   (Peekel 1984: 153).
 - _Laportea interrupta_ (syn. Fleurya interrupta, Urtica interrupta) resembles a small European
   stinging nettle with a serious sting, and is cultivated and eaten by the Tolai of the
@@ -10898,7 +10898,7 @@ and spikes; __B__, inflorescence; __C__, fruit; __D__, portion of leaf tip with 
 
 Apparently none of the trees is used for timber, but Ann Chowning (pers. comm.) reports
 that on New Britain Nakanai and Meramera speakers dry _Laportea_ bark over a fire and use
-it for roofs and walls. Wheatley (1992: 240) comments that _Dendrocnide moroides_ (syn. _L. moroides_),
+it for roofs and walls. Wheatley (1992: 240) comments that _Dendrocnide moroides_ (syn. _Laportea moroides_),
 a canopy tree of 25 m found in central Vanuatu, is considered useless because the wood is
 very soft and rots quickly. The leaves and bark of a number of species have medicinal uses.
 The leaves of a _Dendrocnide_ species were used medicinally on Manam Island. They were
@@ -10920,7 +10920,7 @@ Vanuatu - Vures, Mwesen, Dorig, Merlav - which reflect the prefix _*ja-_ regular
 most known reflexes in Vanuatu, listed separately below, reflect _*ga-_ 'tree'.
 
 <
-PAn *lateŋ 'stinging nettle tree, _Laportea_ harveyi' (Blust 1972b)
+PAn *lateŋ 'stinging nettle tree, _Laportea harveyi_' (Blust 1972b)
 PMP *zalateŋ '_Laportea_ and _Dendrocnide_ spp.' (Dempwolff 193 8)
 POc *[ja]latoŋ '_Laportea_ and _Dendrocnide_ spp.' (Milke 1961: *salatoŋ; Ross 1989b)
 PAdm *lalato, *ñalato '_Laportea_ and _Dendrocnide_ spp.' (Blust 1996b)
@@ -10979,7 +10979,7 @@ final _-t_ of Big Nambas _n-harat_ appears to support this etymology.
 <
 POc *kara(t) 'a small stinging plant, perhaps _Laportea_ interrupta' (Chowning 2001: 83)
   NNG: Kove               gala           'a stinging plant related to lato (_Dendrocnide excelsa_)?'
-  MM:  Tolai              kara           'stinging nettle spp., _Dendrocnide_ sessiflora, _Laportea interrupta_'
+  MM:  Tolai              kara           'stinging nettle spp., _Dendrocnide sessiliflora_, _Laportea interrupta_'
   NCV: Tape               nə-xārət       'stinging nettle'
   NCV: Big Nambas         n-harət        'stinging nettle'
   NCV: Port Sandwich      na-xer         'stinging nettle'
@@ -11027,7 +11027,7 @@ POc *qasam 'fern used for tying and binding, _Lygodium circinnatum_' (ACD, Chown
 
 
 
-7.6.3.4 Merremia spp. (Convolvulaceae)
+7.6.3.4 _Merremia_ spp. (Convolvulaceae)
 
 _Merremia peltata_ (syn. _Operculina peltata_, Convulvulus peltatus, _Ipomoea peltata_) is a woody
 liana found throughout the rain forest, but it is particularly abundant in disturbed forest areas.
