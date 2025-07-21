@@ -29,7 +29,7 @@ Behind the _Rhizophora_ zone the mangrove forest canopy begins to assume the sta
 
 
 
-On the landward margin the mangrove forest becomes more diverse, forming a canopy up to 25 m tall, which in the Bismarcks includes _Camptostemon schultzii_ (no reconstruction), _Cerbera manghas_ ([§4.1](../contributions/3-6#s-4-1)), _Excoecaria agallocha_ ([§4.3](../contributions/3-6#s-4-3)), _Heritiera littoralis_ ([§4.4](../contributions/3-6#s-4-4)), _Inocarpus fagifer_ ([ch. 11, §2.2](../contributions/3-11#s-2-2)), _Intsia bijuga_ ([ch.7, §4.9](../contributions/3-7#s-4-9)), _Lumnitzera littorea_ (no reconstruction) and _Xylocarpus granatum_ ([§4.6](../contributions/3-6#s-4-6)). _Intsia bijuga_ and _Inocarpus fagifer_ are also common lowland swamp forest and rain forest trees and the latter is also a nut tree. They are not treated here but in chapters 7 and 11 respectively. Because the landward margin of the mangrove forest is more open, it has an undergrowth of shrubs and low-stature trees including _Dolichandrone spathacea_ ([§4.2](../contributions/3-6#s-4-2)) and _Myristica hollrungii_ (no reconstruction). The _Nypa fruticans_ palm also grows on the landward side of estuarine swamps ([§4.5](../contributions/3-6#s-4-5)) (Paijmans 1976:31-34, [Mueller-Dombois & Fosberg 1998](../sources/MuellerDomboisandFosberg1998):50--5 1).
+On the landward margin the mangrove forest becomes more diverse, forming a canopy up to 25 m tall, which in the Bismarcks includes _Camptostemon schultzii_ (no reconstruction), _Cerbera manghas_ ([§4.1](../contributions/3-6#s-4-1)), _Excoecaria agallocha_ ([§4.3](../contributions/3-6#s-4-3)), _Heritiera littoralis_ ([§4.4](../contributions/3-6#s-4-4)), _Inocarpus fagifer_ ([ch. 11, §2.2](../contributions/3-11#s-2-2)), _Intsia bijuga_ ([ch.7, §4.9](../contributions/3-7#s-4-9)), _Lumnitzera littorea_ (no reconstruction) and _Xylocarpus granatum_ ([§4.6](../contributions/3-6#s-4-6)). _Intsia bijuga_ and _Inocarpus fagifer_ are also common lowland swamp forest and rain forest trees and the latter is also a nut tree. They are not treated here but in chapters 7 and 11 respectively. Because the landward margin of the mangrove forest is more open, it has an undergrowth of shrubs and low-stature trees including _Dolichandrone spathacea_ ([§4.2](../contributions/3-6#s-4-2)) and _Myristica hollrungii_ (no reconstruction). The _Nypa fruticans_ palm also grows on the landward side of estuarine swamps ([§4.5](../contributions/3-6#s-4-5)) ([Paijmans 1976](../sources/Paijmansetal1976):31-34, [Mueller-Dombois & Fosberg 1998](../sources/MuellerDomboisandFosberg1998):50--5 1).
 
 The following sections present reconstructions for plants which grow in the _Rhizophora_ ([§2](../contributions/3-6#s-2)) and _Bruguiera_ ([§3](../contributions/3-6#s-3)) zones of the mangrove forest and on the landward margin ([§4](../contributions/3-6#s-4)).
 
@@ -42,7 +42,7 @@ The following sections present reconstructions for plants which grow in the _Rhi
 
 <a id="s-2-1"></a>
 
-### 2.1. _Rhizophora_ spp., P _manguru_, B _natongtong_ (_Rhizophora_ceae)
+### 2.1. _Rhizophora_ spp., P _manguru_, B _natongtong_ (Rhizophoraceae)
 
 
 
@@ -165,7 +165,7 @@ As a generic, Saliba _pauli_ includes _Ceriops tagal_, _Rhizophora_ spp. and _Br
 
 <a id="s-3-1"></a>
 
-### 3.1. _Bruguiera_ spp., P _ko'a_ (_Rhizophora_ceae)
+### 3.1. _Bruguiera_ spp., P _ko'a_ (Rhizophoraceae)
 
 
 In the Bismarcks _Bruguiera gymnorrhiza_, the orange or large-leafed mangrove, dominates the inner zone of the mangrove forest. It often grows in stiff mud, as well as in tidal areas, and tolerates a wide range of salinity levels. It contrasts sharply in appearance with _Rhizophora apiculata_, as it is taller, 15-30 m tall, and has an erect trunk and regularly arranged lateral branches. Its rounded or plank-like buttresses branch over and over again as they near the ground. Sometimes there are also stilt roots. Traditionally, the fruit was rarely eaten. When it was, it was processed to remove the tannin, then cooked in coconut cream as a vegetable ([Henderson & Hancock 1988](../sources/HendersonandHancock1988): 105, 107, [Allen & Duke 2006](../sources/AllenandDuke2006)).
@@ -823,7 +823,7 @@ Lynch (2004) reconstructs PSOc _&ast;(t,d)oto(q)_, noting, 'Final _&ast;-o_ is o
 
 <a id="s-4-4"></a>
 
-### 4.4. _Heritiera littoralis_ (_Sterculia_ceae)
+### 4.4. _Heritiera littoralis_ (Sterculiaceae)
 
 
 _Heritiera littoralis_ typically grows in sand at the high-tide limit of estuaries and mangrove swamps in the Bismarcks, the Solomons, Vanuatu and New Caledonia. Up to 25m tall, it has a short bole, straight trunk, planklike buttresses, and large conspicuous hard brown nuts about 7cm long and 4cm in diameter. Its wood is very strong when it has dried out, and is used among other things for rafters, planks and spear shafts ([Peekel 1984](../sources/Peekel1984): 374, [Wheatley 1992](../sources/Wheatley1992):223-225, [Kwa'ioloa & Burt 2001](../sources/KwaioloaandBurt2001): 136, [Hviding 2005](../sources/Hviding2005): 101).

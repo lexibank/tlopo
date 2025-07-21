@@ -1909,7 +1909,7 @@ NOUNS |_n-vaŋ_      |  'food' (POc _*paŋan_)
 [11] T. Crowley (2000) glosses _-etki_ 'eat something with something else', but his example suggests the gloss
 given here.
 
-: __Kosraean__ (Mic) (Lee 197 6)
+: __Kosraean__ (Mic) (Lee 1976)
 
 __tablenh__
 VERBS | _kɨmɨs_  |   'eat'
@@ -2143,7 +2143,7 @@ Oceanic speakers had begun to spread out across Oceania.
 POc *tamaji 'additional ingredients to accompany starchy food'
   NNG: Bariai            tamad         'food for a journey'
   NNG: Mangap            temen         'small meal prepared as expression of gratitude'
-  NNG: Takia             (la)tamad     'food for journey' (Ia 'move away from speaker; go around the island '; cf. vol.2, ch.8, §3.4.5)
+  NNG: Takia             (la)tamad     'food for journey' (_la_ 'move away from speaker; go around the island '; cf. vol.2, ch.8, §3.4.5)
   NNG: Mapos Buang       tmul          'mix various kinds of food together and cook them; stew, soup'
   PT:   Dawawa           tamasi-na     'food for travel'
   MM: Sursurunga         t<in>mas      'picnic lunch, food taken and eaten away from the house or on a journey'
@@ -2199,9 +2199,9 @@ _a-_ on many, and Patpatar _i-_ on just a few.[17]
 
 __tablenh__
   _ka-toʔ_             |    'mangrove'             |    POc  |     _*toŋoR_        |         ch.6, § 3.1
-  _ka-dada_            |    'k.o. grassland shrub' |    POc  |     _*jajal_         |         ch.l3, §6.4
+  _ka-dada_            |    'k.o. grassland shrub' |    POc  |     _*jajal_         |         ch.13, §6.4
   _ka-bʷɛŋ_           |    'ironwood'             |    PWOc |     _*bʷana_         |         ch.7, §4.9
-  _ka-maʔ_             |    '_Cordyline_ sp.'        |    PWOc |     _*mʷa(r,R)ep_    |         ch.l3, §6.2
+  _ka-maʔ_             |    '_Cordyline_ sp.'        |    PWOc |     _*mʷa(r,R)ep_    |         ch.13, §6.2
   _ka-bɔʔ_             |   'k.o. mangrove tree'    |   PWOc  |    _*baul_           |        ch.6, §2.1
 
 : PT: Muyuw _a-_:
@@ -2329,7 +2329,7 @@ POc     |    _*kasiala_       |     'a palm, _Caryota_ sp.'|   ch.7, §5.11.1
 POc     |    _*kalaka_        |     '_Planchonella_ sp.'   |   ch.7, §4.10
 POc     |    _*kapika_        |     'Malay apple'        |   ch.11, §3.7
 PWOc    |    _*kasuwai_       |     'mango'              |    ch.11, §3.4
-PWOc    |    _*kapu(r,R)ik_   |     'k.o. wild melon'    |    ch. l3, §7.4
+PWOc    |    _*kapu(r,R)ik_   |     'k.o. wild melon'    |    ch.13, §7.4
 POc     |    _*[ka]ŋaRi_      |     'canarium almond'    |   ch.11, §2.1
 POc     |    _*[ka]timun_     |     'cucurbit (generic)' |    ch. 13, §7.4
 
@@ -2496,9 +2496,9 @@ reduplicative process described below (§7.2), the tree denoted by a name with _
 inferior in some way to the one denoted by the plain root.
 
     Examples from Nakanai (MM) are: _mala-savula_ 'a plant, _Ficus_ sp.' (< _savula_ 'the fruit
-of a tree, candlenut, _Aleurites moluccana_'); _mala-sesege_ 'a plant, Acrostichum aureum'
+of a tree, candlenut, _Aleurites moluccana_'); _mala-sesege_ 'a plant, _Acrostichum aureum_'
 (< _e-sesege_ 'small black crablike shellfish (PLURAL)'); _mala-viva-viva_ 'a wild shrub,
-Clerondendron paniculatum, considered to be related to _e-viva_ 'cultivated shrub with edible leaves,
+_Clerondendron paniculatum_, considered to be related to _e-viva_ 'cultivated shrub with edible leaves,
 _Abelmoschus manihot_'. Similar examples are found in other Meso-Melanesian languages:
 Kara and Patpatar of New Ireland and Nehan of Nissan Island (Ross 2005b).
 
@@ -2526,15 +2526,15 @@ __tablenh__
  _mala-ŋali_   | '_Canarium asperum_'                      |   _ŋali_   | 'canarium nut, _Canarium indicum_'
  _mala-ʔadoʔa_ | '_Canarium harveyi_'                      |  _ʔadoʔa_  | '_Canarium salomonense_'
  _mala-ʔafiʔo_ | '_Syzygium aqueum_                        |  _ʔafiʔo_  | 'Malay apple, _Syzygium malaccense_'
- _mala-rufa_   | '_Metrosideros parviflora_'               |  _rufa_    | '_Syzygium_ lauterbachii'
- _mala-ʔasai_  | 'wild mango tree, _Mangifera_ mucronulata'|  _ʔasai_   | 'mango tree, _Mangifera indica_'
+ _mala-rufa_   | '_Metrosideros parviflora_'               |  _rufa_    | '_Syzygium lauterbachii_'
+ _mala-ʔasai_  | 'wild mango tree, _Mangifera mucronulata_'|  _ʔasai_   | 'mango tree, _Mangifera indica_'
  _mala-kona_   | '_Burckella sorei_'                       |  _kona_    | '_Burckella obovata_'
  _mala-dili_   | 'a shrub, _Dracaena angustifolia_'        |  _dili_    | 'a shrub, _Cordyline fruticosa_'
 
 
      In Raga (NCV), Walsh (2004) notes _mal-buliva_ 'unidentified _Ficus_ sp.' (< _buliva_
 '_Ficus_ aspera'), _mal-ɣaviɣa_ 'unidentified tree sp.' (< _ɣaviɣa_ 'Malay apple,
-_Syzygium_ malaccensis'), _mal-walahi_ 'unidentified tree sp.' (< _walahi_ 'Semicarpus vitiensis') and
+_Syzygium_ malaccensis'), _mal-walahi_ 'unidentified tree sp.' (< _walahi_ '_Semecarpus vitiensis_') and
 _mal-bei-bei_ 'unidentified _Polyscias_ sp.' (< _bei_ '_Polyscias_ sp.').
 
      Examples are also found in Fijian and Polynesian languages. Like reduplication as a process in
@@ -2580,23 +2580,23 @@ PWOc *pudi-pudi 'wild banana' (Ross 1996d)
 Patpatar Peekel (1984) lists _tuh_ 'sugarcane, _Saccharum officinarum_' vs _tuh-tuh_ 'wild sugarcane,
 _Saccharum spontaneum_', _pulaka_ 'Polynesian arrowroot, _Tacca_ pinnatifida' vs
 _pulaka-pulaka_ 'wild varieties of Polynesian arrowroot', _sier_ 'betelpepper vine, _Piper betle_' vs
-_sier-sier_ 'a vine, Piper fragile, _Piper singkojan_g or _Piper banksii_' .
+_sier-sier_ 'a vine, _Piper fragile_, _Piper singkojan_ or _Piper banksii_' .
 
-     Wayan Fijian has _niu_ 'coconut palm' vs _niu-niu_ 'cycad, _Cycas_ circinalis' and _vara_
+     Wayan Fijian has _niu_ 'coconut palm' vs _niu-niu_ 'cycad, _Cycas circinalis_' and _vara_
 'germinating coconut' vs _vara-vara_ 'taxon of fleshy herbs, particularly orchids'.
 
      Biggs (1991: 67-69) notes that reduplication was one of the devices used by the newly
 arrived Eastern Polynesian ancestors of the Maori to name New Zealand plants which resembled
 those they had known in their eastern Polynesian homeland. His examples include Proto Polynesian
 _*futi_ 'banana' vs Maori _huti-huti_ 'sweet potato variety', Proto Polynesian _*kawa_
-'_Piper methysticum_' vs Maori _kawa-kawa_ 'Macropiper excelsum' and Proto Polynesian _*koli_
-'tree or shrub with perfumed fruit' vs Maori _kori-kori_ 'a buttercup, Ranunculus insignis'.
+'_Piper methysticum_' vs Maori _kawa-kawa_ '_Macropiper excelsum_' and Proto Polynesian _*koli_
+'tree or shrub with perfumed fruit' vs Maori _kori-kori_ 'a buttercup, _Ranunculus insignis_'.
 
      In Marovo (MM) several forms are found with a somewhat different semantic derivation.
 Here the reduplicated base denotes a feature which somehow characterises the plant denoted
 by the reduplicated form. Hence _vose-vose_ 'a tree of the deep forest, used for making paddles
 etc' (< _vose_ 'paddle '), _muta-muta_ 'a forest tree with sap the smell of which causes vomiting'
-(< _muta_ 'vomit' ), and _ta-talo_ 'a sea plant with calcified leaves, Halimeda sp.' (apparently
+(< _muta_ 'vomit' ), and _ta-talo_ 'a sea plant with calcified leaves, _Halimeda_ sp.' (apparently
  < _talo_ 'taro').
 
 
@@ -2620,7 +2620,7 @@ It seems to be a human universal to classify flora and fauna into what can be de
 hierarchies of labelled taxa. For example, in Wayan Fijian _bau leke_ (dwarf _bau_), the name for
 _Planchonella garberi_, a tree that grows in mid-altitude forests, is one of four kinds of _bau_, the
 generic term that refers to the _Burckella_, _Manilkara_, _Palaquium_ and _Planchonella_ species
-of the _Sapotaceae_ family, woody trees used for making boats, chests and house posts. In
+of the Sapotaceae family, woody trees used for making boats, chests and house posts. In
 turn _bau_ is one of 200 or more kinds of _kai_, the generic name for trees and shrubs
 (Pawley & Sayaba 2003). Thus _kai_, _bau_ and _bau leke_ form part of a hierarchy of decreasing inclusiveness
 of botanical terms in Wayan Fijian, schematised in Figure 3.1, and shown in more detail in
@@ -2634,7 +2634,7 @@ conference in 2004 where an earlier version of the paper was presented.
 
 54    Bethwyn Evans
 
- Figure 3.1: The hierarchical structure of ethnobiological classifications, exemplified by Wayan Fijian
+Figure 3.1: The hierarchical structure of ethnobiological classifications, exemplified by Wayan Fijian
 
      Not only is the hierarchical classification of flora and fauna an apparent human universal,
 but the striking similarities in ethnobiological taxonomies across different societies from
@@ -2756,7 +2756,7 @@ in both English and Samal, a language of the Philippines. Following the expected
 of increasing inclusiveness, in Samal _sagbot tahik_ 'seaweed' is classified as a type of _sagbot_
 'non-woody vegetation', which in turn is a category of _tumbutumbuhan_ 'vegetation' which
 is a taxon of _isi gumi_ 'flesh of the land'. But _sagbot tahik_ 'seaweed' is not actually a kind of
-land flesh (Randall1976: 546-547). Kwa'ioloa & Burt (2001), on the other hand, describe the
+land flesh (Randall 1976: 546-547). Kwa'ioloa & Burt (2001), on the other hand, describe the
 higher levels of the ethnobotanical taxonomy of Kwara'ae (SE Solomonic) as a continuum
 such that particular labelled folk generics or species may be referred to by different higher
 level taxa under different circumstances.
@@ -2925,7 +2925,7 @@ _balabala_
 
     Wayan _kai_ 'tree, shrub' encompasses about 200 named subtaxa which are again classified
 on the basis of shared morphological and ecological features. It is the names of these subtaxa
-which Wayan speakers tend to use when identifying particular plants (Gardner and Pawley 1992:1 0),
+which Wayan speakers tend to use when identifying particular plants (Gardner and Pawley 1992:10),
 and nearly all are folk generics. Generally the subtaxa of _kai_ are the lowest-level of
 classification and denote a particular species within a 'scientific' classification. For example,
 _evo_, _māsei_ and _toutou_ (defined below, Pawley & Sayaba 2003) are all subtaxa of _kai_ which
@@ -2941,7 +2941,7 @@ _māsei_
     houses. The immature seeds are sometimes eaten by children.
 
 _toutou_
-:   _Gyrocarpus americanus_ (_Hernandia_ceae). Tree of coastal slopes and rocky places
+:   _Gyrocarpus americanus_ (Hernandiaceae). Tree of coastal slopes and rocky places
     inland, pale smooth bark, large oval or 5-lobed leaves with a rather strong bean-like
     odour, bunches of hanging 2-winged fruit. The soft wood is used for fires; it is good
     for carving, and formerly was used to make ulatoka (inshore fishing raft platforms).
@@ -2961,7 +2961,7 @@ _araro_
         smallish, green-white, small dark fleshy fruit with a hard 4-chambered stone.
 
     _araro taŋwane_
-    :   _Premna_ protrusa. A larger tree than _Premna serratifolia_, with flower parts
+    :   _Premna protrusa_. A larger tree than _Premna serratifolia_, with flower parts
         more protruding, usually found inland. Hard wood, much used for posts.
 
 _doi_
@@ -2973,20 +2973,20 @@ _doi_
         purplish fruit capsules.
 
     _doi drā_
-    :   _Alphitonia_ fran guloides. Uncommon tree of dryish slopes, leaves smaller and
+    :   _Alphitonia franguloides_. Uncommon tree of dryish slopes, leaves smaller and
         more pointed than those of _Alphitonia zizyphoides_.
 
     The names for folk specifics tend to be binominals which include the generic followed by
 a modifier indicating some distinctive characteristic of the folk specific. For example, Wayan
-distinguishes four kinds of _bau_ '_Sapotaceae_ varieties': _bau leke_, literally 'dwarf bau', denotes
+distinguishes four kinds of _bau_ 'Sapotaceae varieties': _bau leke_, literally 'dwarf bau', denotes
 the smaller _Planchonella garberi_ (Pouteria, cf. Wheatley 1992) species; _bau levu_, 'big bau'
-which presumably denotes larger species of _Sapotaceae_; _bau som_, where som means 'to suck
-or eat juicy, soluble or soft, moist foods', denotes the various _Sapotaceae_ species which have
+which presumably denotes larger species of Sapotaceae; _bau som_, where som means 'to suck
+or eat juicy, soluble or soft, moist foods', denotes the various Sapotaceae species which have
 milky juice; and _bau vudi_, 'banana bau' which denotes varieties with elongated (i.e. banana-
 like) fruit.
 
 _bau_
-:   Generic, includes species of _Burckella_, _Manilkara_, _Palaquium_ and_Planchonella_ (_Sapotaceae_).
+:   Generic, includes species of _Burckella_, _Manilkara_, _Palaquium_ and _Planchonella_ (Sapotaceae).
     Wood of some of these trees is used for boats, chests and house posts. Applied to the
     following species growing on Waya:
 
@@ -2994,21 +2994,21 @@ __block__
     1. _Burckella richii_. large tree of low- to middle-altitudes, fruit green, fleshy, cylindrical, 4cm long;
     2. _Manilkara vitiensis_, smallish tree, often in exposed situations on coastal slopes;
     3. _Palaquium fidjiense_. smallish uncommon tree of higher-altitude forest;
-    4. _Planchonella garberi_ (_Sapotaceae_).
+    4. _Planchonella garberi_ (Sapotaceae).
     5. _Planchonella grayana_, a tree of coastal and inland forest, leaves larger and rounder than those of _Planchonella garberi_.
 
     _bau leke_
-    :   _Planchonella garberi_ (_Sapotaceae_). Occasional in mid-altitude forest.
+    :   _Planchonella garberi_ (Sapotaceae). Occasional in mid-altitude forest.
 
     _bau levu_
-    :   One or more species of _Sapotaceae_, application of name not clear.
+    :   One or more species of Sapotaceae, application of name not clear.
 
     _bau som_
-    :   Name applied to various (perhaps most or all) members of the _Sapotaceae_,
+    :   Name applied to various (perhaps most or all) members of the Sapotaceae,
         in reference to their milky juice.
 
     _bau vudi_
-    :   Name applied on mainland to members of _Sapotaceae_ (spp. of _Burckella_
+    :   Name applied on mainland to members of Sapotaceae (spp. of _Burckella_
         and _Manilkara_), presumably because of their large and elongate fruits.
 
                                                               Ethnobotanical classification      61
@@ -3084,7 +3084,7 @@ _sīlā_
 :   Generic, includes two large-seeded grass,es (Gramineae).
 
 __block__
-    1. Coix lacrym-ajobi. Job's tears. Coarse grass, fertile parts with tear-shaped blueish bony
+    1. _Coix lacryma-jobi_. Job's tears. Coarse grass, fertile parts with tear-shaped blueish bony
        structures that enclose the true seeds.
     2. _Zea mays_. Maize or sweet corn. Occasionally cultivated.
 
@@ -3165,7 +3165,7 @@ _fiʔi_ and the noun _rū_ 'things', to denote plants that grow as a cluster of 
 listed as a possible life-form taxon in Figure 3.5, although it is not entirely clear if this is a
 traditional Kwara'ae taxon. However, Burt notes that this category of plants includes those
 which can be indicated by the classifier _fiʔi_, and so traditionally _fiʔi-rū_ 'clumps' may have
-been a covert category. The term kwazo 'vines' denotes plants with a climbing or creeping
+been a covert category. The term _kʷalo_ 'vines' denotes plants with a climbing or creeping
 growth structure, that is those plants used as cordage, a secondary meaning of _kʷalo_. However,
 _kʷalo_ does not include the vines of edible tubers which are referred to as _kʷala_. While
 they appear to form the basis of botanical classification in Kwara'ae, these three life-form
@@ -3207,8 +3207,8 @@ been established for the convenience of Kwa'ioloa and Burt's (2001) book, and it
 they are in common usage amongst Kwara'ae speakers. Thus they are not listed in Figure 3.5.
 The majority of the named types of _ʔai_ appear to denote single scientific species and form the
 lowest level of classification. However, a few are further subclassified. For example,
-_lami-lami_ 'archidendron, _Archidendron oblongum_' denotes two named varieties of Archidendron
-oblongum that appear to be distinguished on the basis of morphological characteristics. The
+_lami-lami_ 'archidendron, _Archidendron oblongum_' denotes two named varieties of
+_Archidendron oblongum_ that appear to be distinguished on the basis of morphological characteristics. The
 small tree, _ʔalaʔala_ '_Codiaeum variegatum_' also encompasses a number of named varieties
 (Kwa'ioloa and Burt 2001:134, 175).
 
@@ -3626,7 +3626,7 @@ is the generic term for palms, though excluding coconuts (Lynch 2001a: 173). In 
 _niu_ is a 'general name for palms, especially the coconut palm' (Milner 1966: 156-7). Also in
 Tongan there is evidence that _niu_ 'coconut tree or fruit' can be used to refer to palms more
 generally since it optionally occurs as part of the name for fan palm (_niu piu_ or _piu_ 'fan
-palm, Eupritchardia pacifica', Churchward 1959). Burt describes palms as a covert category
+palm, _Eupritchardia pacifica_', Churchward 1959). Burt describes palms as a covert category
 in Kwara'ae (Kwa'ioloa & Burt 2001: 17). That is, while Kwara'ae speakers recognise and
 acknowledge the similarities amongst palms, they do not name such a category.[6]
 
@@ -3722,8 +3722,8 @@ POc *pali[s,j]i 'generic term for grasses and other grass-like plants' (Grace 19
   SV:  Anejom          ne-pces            'a kind of grass'
   Mic: Chuukese        fetiɾi             'grass'
   Mic: Carolinian      fitili, fetili     'grass'
-  Mic: Woleaian        fatili             'grass (_Thuarea involuta_ or Stenotaphrum)'
-  Pn:  Samoan          falī               'kind of grass(? Scirpodendron species)' [9]
+  Mic: Woleaian        fatili             'grass (_Thuarea involuta_ or _Stenotaphrum_)'
+  Pn:  Samoan          falī               'kind of grass(? _Scirpodendron_ species)' [9]
 >
 
 [8] SW Tanna _nə-vhilək_ 'grass' leads Lynch (2001 c: 246) to reconstruct Proto Southern Vanuatu _*na-(p,v)alijiy_,
@@ -3794,7 +3794,7 @@ POc *lumut 'generic term for mosses, algaes and seaweeds' (Capell 1943)
   NNG: Mangap        lum             'algae, green slimy growth on trees, stones etc under water'
   PT:  Iduna         nunu(bʷana)     'moss, slime on ground' (cf. _bʷana_ 'phlegm')
   PT:  Muyuw         numt            'moss'
-  MM:  Nakanai       lumu            'moss, incl. _Psilotum nudum_, Microsorium species'
+  MM:  Nakanai       lumu            'moss, incl. _Psilotum nudum_, _Microsorum_ species'
   MM:  Nduke         lu-lumutu       'a general name for green algae that grows inside concrete tanks etc. and moss that grows on trees'
   MM:  Roviana       lumu-lumutu     'a variety of moss; a marine alga'
   SES: Gela          lumu            'moss, weeds on keel'
@@ -3915,7 +3915,7 @@ denotes plants with a 'cluster of several stalks, as of banana, pandanus, kava; 
 sugarcane' (Pukui & Elbert 1971: 317). In Marovo (Meso-Melanesian), there is a general
 term _rokoroko_ for leafy shrubs which may have a similar range, and in Anejom the term
 _nathancai_, literally 'young tree' is used to denote saplings and plants smaller than trees, including
-ferns and crotons (Lynch 2001 a: 189). However, as far as I am aware there does not
+ferns and crotons (Lynch 2001a: 189). However, as far as I am aware there does not
 appear to be a general term for non-woody leafy plants which can be reconstructed for POc.
 
 80    Bethwyn Evans
@@ -3927,8 +3927,8 @@ and a number of other Oceanic languages also have general terms that denote tree
 
 __formgroup__
  Mic: Kosraean   po       'kind of plant: tree fern'
- Fij: Wayan      balabala 'generic for tree ferns (_Cyathea_ spp.), sometimes extended to include other large ferns, such as _Pteris tripartita_'; (i) '_Cyathea lunulata_ (_Cyathea_ceae)'; (ii) '_Cyathea_ sp., perhaps _Cyathea propinqua_'; (iii) '_Calochlaena straminea_ (Dicksoniaceae)'; (iv) '_Pteris tripartita_ (Adiantaceae)'
- Pn:  Hawaiian   ʔamaʔu   'all species of an endemic genus of ferns (Sadleria), with trunk more or less evident'
+ Fij: Wayan      balabala 'generic for tree ferns (_Cyathea_ spp.), sometimes extended to include other large ferns, such as _Pteris tripartita_'; (i) '_Cyathea lunulata_ (Cyatheaceae)'; (ii) '_Cyathea_ sp., perhaps _Cyathea propinqua_'; (iii) '_Calochlaena straminea_ (Dicksoniaceae)'; (iv) '_Pteris tripartita_ (Adiantaceae)'
+ Pn:  Hawaiian   ʔamaʔu   'all species of an endemic genus of ferns (_Sadleria_), with trunk more or less evident'
 
     From this it seems possible that tree-ferns formed a higher-order taxon in POc, but no
 term appears to be reconstructable to back up such a hypothesis.
@@ -3954,7 +3954,7 @@ __formgroup__
 
 
    POc _*qauR_ appears to have been the general term for bamboos, with a number of more
-specific terms also reconstructable (ch.l3, §3.1 ). Kwa'ioloa and Burt (2001) use the descriptive
+specific terms also reconstructable (ch.13, §3.1 ). Kwa'ioloa and Burt (2001) use the descriptive
 term _fiʔi-rū_ 'clumps' or 'plants which grow as several stems', or more narrowly _fiʔi-rū ne?e kasiruʔa kī_
 'clumps which are sectioned' to represent a group of plants including bamboos
 which have similar growth patterns and uses. In Kwara'ae _kaʔo_ 'bamboo, _Nastus obtusus_'
@@ -3969,7 +3969,7 @@ pandanus are considered part of the _kai_ 'trees and shrubs' taxon. In ch.11, §
 a number of terms for different types of pandanus and suggests that _*padran_ 'coastal
 pandanus, _Pandanus tectorius_' was also the generic term for pandanus. This is supported
 most strongly by Carolinian where the reflex of _*padran_, _fāṣ_ is the generic term for pandanus
-(Jackson & Marek 1991: 59). Thus it seems likely that pandanus in POc were either:
+(Jackson & Marck 1991: 59). Thus it seems likely that pandanus in POc were either:
 (a) usually known by their individual names and were unaffiliated primary taxa; or (b) were
 classified as a distinct taxon known as _*padran_ 'pandanus (generic)'.
 
@@ -4059,7 +4059,6 @@ terms of food categories. For example, Ross (ch.10, §2.1) reconstructs a term _
 denoted _Abelmoschus manihot_, but also appears to have referred to the general category of
 'edible greens'.
 
-                                                                            (plants)
 
 Figure 3.7: Partial Proto Oceanic ethnobotanical classification
 
@@ -6115,9 +6114,9 @@ as well as grasses and sedges which include _Thuarea involuta_ (ch.8, §3).
 the environment for __beach scrub__. The border between the herbaceous zone and beach scrub is
 often vague and the two zones overlap. Beach scrub consists of shrubs like _Pemphis acidula_
 (§4.1.4) and _Scaevola taccada_ (§4.1.5) and low-growing bushy-crowned trees like _Cordia subcordata_
-(§4 .1.1), _Hernandia nymphaeifolia_ (§4 .1.2 ), _Hibiscus tiliaceus_ (§4 .1 .3), Thespesia
-populnea (§4.1.6), _Tournefortia argentea_ (§4.1.7) and _Vitex trifolia_ (§4.1.8), often densely
-tangled with climbers like _Flagellaria indica_ (§4.2.1 ). Beneath the shrubs is a ground layer of
+(§4.1.1), _Hernandia nymphaeifolia_ (§4.1.2), _Hibiscus tiliaceus_ (§4.1.3), _Thespesia populnea_
+(§4.1.6), _Tournefortia argentea_ (§4.1.7) and _Vitex trifolia_ (§4.1.8), often densely
+tangled with climbers like _Flagellaria indica_ (§4.2.1). Beneath the shrubs is a ground layer of
 ferns, grasses, gingers and herbs which includes _Crinum asiaticum_ (ch. 13, §6.6)
 (Mueller-Dombois & Fosberg 1998: 50).
 
@@ -6215,7 +6214,7 @@ but this POc phoneme has not previously been reconstructed. How this should be i
 
 5.3 The herbaceous zone
 
-5.3.1 _Ipomoea_ spp., morning glocy (Convolvulaceae)
+5.3.1 _Ipomoea_ spp., morning glory (Convolvulaceae)
 
 Within the Evans' _*waRoc_ 'vines and creepers' taxon (ch.3, §4.4) there was apparently a
 subtaxon _*puRe_, which consisted of beach creepers. Clark (1996) takes the PEOc reflex to
@@ -6227,7 +6226,7 @@ It is thus possible that POc _*puRe_ prototypically denoted _Ipomoea grandiflora
 _Ipomoea tuba_, _Convolvulus tuba_, _Calonyction grandiflorum_) and _Ipomoea pes-caprae_ (Figure
 5.1, left), beach creepers with trumpet-like flowers, white and purple respectively, commonly
 found on beaches in the Bismarck Archipelago (Peekel 1984: 461). Eastern Polynesian reflexes
-reflect a shift in denotatum to the gourd _Lagenaria siceraria_ (ch. l3, §7.1).
+reflect a shift in denotatum to the gourd _Lagenaria siceraria_ (ch.13, §7.1).
 
 132     Malcolm Ross
 
@@ -6307,7 +6306,7 @@ PMP *qatay-qatay 'a climbing plant, _Wedelia biflora_' (ACD)
 POc *(qate-)qate '_Wedelia biflora_'
   Yap: Yapese       ʔæaθ          'flower of a type of plant'
   Pn:  Tongan       ate           'shrub, _Wedelia biflora_' (for expected †_ʔate_)
-  Pn:  W Uvean      ate           'shrub, Wedelia sp.'
+  Pn:  W Uvean      ate           'shrub, _Wedelia_ sp.'
   Pn:  Anutan       ate           'plant spp., _Wedelia biflora_, _Adenostemma lavenia_'
   Pn:  Samoan       ate-ate       'shrub, _Wedelia biflora_'
 cf. also:
@@ -6402,8 +6401,8 @@ POc *toRu '_Cordia subcordata_'
 
 
    The term _*jasi_ is reconstructed for PCEMP and POc (rather than PEOc, as the data here
-imply) because there appears to be an external cognate in Timorese _(nonwai) tasi_ '_Cordia_
-subcordata' (Heyne 1950: 1306).
+imply) because there appears to be an external cognate in Timorese _(nonwai) tasi_
+'_Cordia_s ubcordata' (Heyne 1950: 1306).
 
 <
 PCEMP *jasi '_Cordia subcordata_'
@@ -6428,7 +6427,7 @@ PWOc *nagi '_Cordia_ sp.'
  MM: Marovo       nagi-nagi               '_Cordia subcordata_'
 >
 
-5.4.1.2 _Hernandia nymphaeifolia_ (syn. _Hernandia peltata_), sea hearse tree, lantern tree, B _nambirimbiri_, _napiripiri_, _bluwud_ (_Hernandia_ceae)
+5.4.1.2 _Hernandia nymphaeifolia_ (syn. _Hernandia peltata_), sea hearse tree, lantern tree, B _nambirimbiri_, _napiripiri_, _bluwud_ (Hernandiaceae)
 
 Figure 5.3: _Hernandia nymphaeifolia_, sea hearse tree
 
@@ -6520,7 +6519,7 @@ Proto Remote Oceanic *buavu '_Hernandia_ sp.'
   Fij:  Wayan      buevu                   '_Hernandia nymphaeifolia_'
 >
 
-5.4.1.3 _Hibiscus tiliaceus_, beach hibiscus, TP mangas, P, B burao (Malvaceae)
+5.4.1.3 _Hibiscus tiliaceus_, beach hibiscus, TP _mangas_, P, B _burao_ (Malvaceae)
 
 _Hibiscus tiliaceus_ is a small sprawling, tangled shore tree with small girth, a branching trunk
 and pale yellow flowers (Figure 5.2, right). It grows 5-15 m tall (Peekel 1984: 364,
@@ -6684,7 +6683,7 @@ PCP *ŋi(a)-ŋia '_Pemphis acidula_'
 Geraghty 1990) and Ilokano _ŋirad_ 'Pemphis sp.' (Madulid 2001a).
 
 
-5.4.1.5 _Scaevola taccada_ (syn. _Scaevola koenigii_, _Scaevola sericea_, _Scaevola frutescens_), B _hafflaoa_ (Goodeniaceae)
+5.4.1.5 _Scaevola taccada_ (syn. _Scaevola koenigii_, _Scaevola sericea_, _Scaevola frutescens_), B _haf flaoa_ (Goodeniaceae)
 
 Peekel (1984: 553) describes _Scaevola taccada_ as a 'stiffly erect shrub with finger-thick fleshy
 green twigs, 2-4m tall' and 'common, on sandy beaches' (Figure 5.4, middle). The shrubs
@@ -6936,7 +6935,7 @@ variegata to _Vitex trifolia_. As the data here show, this assumption is incorre
 
 5.4.2 Climbers
 
-5.4.2.1 _Flagellaria indica_, supplejack, B _navula_ (_Flagellaria_ceae)
+5.4.2.1 _Flagellaria indica_, supplejack, B _navula_ (Flagellariaceae)
 
 _Flagellaria indica_ is a climbing cane-like vine whose stem, 1-1.5cm thick, grows to a length of
 3-6 m. The leaves are 20-40cm long and have a curling tendril at the apex with which the plant
@@ -7014,8 +7013,7 @@ POc *dradrap '_Hoya_ sp.'
 
 5.5 Littoral forest
 
-5.5.1 _Adenanthera pavonina_ (syn. _Adenanthera gersenii_, _Adenanthera polita_, _Corallaria parvifolia_), bead tree,
-red sandalwood, B _bisa_, _nabisa_ (Mimosaceae)
+5.5.1 _Adenanthera pavonina_ (syn. _Adenanthera gersenii_, _Adenanthera polita_, _Corallaria parvifolia_), bead tree, red sandalwood, B _bisa_, _nabisa_ (Mimosaceae)
 
 A tree which grows to 8-15 m on sandy foreshores and coral soil, _Adenanthera pavonina_
 is well known for its shiny scarlet, disk-shaped seeds about 6 mm in diameter which serve
@@ -7041,7 +7039,7 @@ cognacy. The first set appears to support Proto Remote Oceanic _*(m,mʷ)ata_, bu
 in Vanuatu) and probably reflect a series of borrowings. Items denoting other species are
 presumably chance resemblances.
 
-__formgrpoup__
+__formgroup__
      NCV: Namakir     na-mara             '_Adenanthera pavonina_' (Wheatley 1992: 133)
      NCV: S Efate     na-mara             '_Adenanthera pavonina_' (Wheatley 1992: 133)
      Fij: Bauan       mala                '_Dysoxylum lenticillare_, tree with large yellow-green flowers'
@@ -7101,7 +7099,7 @@ Figure 5.8: _Barringtonia asiatica_.
 
 <
 PMP *butun 'a shore tree, _Barringtonia_' (Dempwolff 1938)
-POc *putun '_Barringtonia asiatica_' (Biggs 196:5: _*putu_; French-Wright 1983)
+POc *putun '_Barringtonia asiatica_' (Biggs 1965: _*putu_; French-Wright 1983)
   Adm:  Seimat       hut           '_Barringtonia asiatica_' (Sorensen 1950)
   Adm:  Drehet       puk           'type of tree with poisonous seed used to kill fish'
   Adm:  Loniu        put           'tree sp. and its fruit, used for stunning fish'
@@ -7268,9 +7266,9 @@ PCP *vetaqu '_Calophyllum inophyllum_'
 
     The cognate set below supports the reconstruction of Proto Meso-Melanesian _*bu(y)ap_
 '_Calophyllum inophyllum_'. If the Tokelauan form is also cognate, then the form can be reconstructed to POc.
-Biggs & Clark (1993) attribute Tokelauan _pua_ to the cognate set reflecting PPn _*pua_ '_Fagraea_
-berteroana or other tree with showy flowers' (which I take to reflect POc _*buRat_ '_Fagraea_
-berteroana'; §5.6), but it may well be cognate with the Meso-Melanesian terms below.
+Biggs & Clark (1993) attribute Tokelauan _pua_ to the cognate set reflecting PPn _*pua_
+'_Fagraea berteroana_ or other tree with showy flowers' (which I take to reflect POc _*buRat_
+'_Fagraea berteroana_'; §5.6), but it may well be cognate with the Meso-Melanesian terms below.
 
 <
 Proto Meso-Melanesian *bu(y)ap '_Calophyllum inophyllum_'
@@ -7300,7 +7298,7 @@ POc *tamanu '_Calophyllum_ sp.' (ACD: _Calophyllum inophyllum_')
   Pn:  Tuamotuan    tamanu       '_Calophyllum inophyllum_'
   Pn:  Rarotongan   tamanu       'the native: mahogany, _Calophyllum inophyllum_'
 cf. also:
-  SES: Kwara'ae     kaumanu      '_Calophyllum_ casiferum'
+  SES: Kwara'ae     kaumanu      '_Calophyllum casiferum_'
 >
 
    Although a number of the reflexes below are glossed _Calophyllum inophyllum_, the Gela
@@ -7381,7 +7379,7 @@ PNGOc *sabʷa(r,R)i '_Calophyllum_ sp.'
 >
 
 
-5.5.4 _Casuarina equisetifolia_, casuarina, beach she-oak, TP yar, B aeantri, oktri (_Casuarina_ceae)
+5.5.4 _Casuarina equisetifolia_, casuarina, beach she-oak, TP _yar_, B _aeantri_, _oktri_ (Casuarinaceae)
 
 _Casuarina equisetifolia_ is a large coastal tree with an oddly feathery appearance caused by
 its needle-like leaves. Typically it grows to 20m, but Frederick Damon (pers.comm.) reports
@@ -7663,7 +7661,7 @@ POc *bou '_Fagraea_ spp.'
   MM:  Teop        bao           '_Fagraea racemosa_'
   MM:  Nduke       bou           'a forest tree that grows in swamps in muddy places, _Fagraea gracilipes_'
   MM:  Roviana     bou           'tree with hard timber useful and impervious to white ants, perhaps _Guettarda_ sp.'
-  MM:  Marovo      bou           'a swamp tree, _Fagraea gracilipes_ (?),ant-resistant'
+  MM:  Marovo      bou           'a swamp tree, _Fagraea gracilipes_ (?), ant-resistant'
   MM:  Kia         bou           '_Fagraea gracilipes_' (W. McClatchey, pers. comm.)
   MM:  Gao         bou           '_Fagraea gracilipes_' (W. McClatchey, pers. comm.)
   SES: Ghari       |bou (kora)|  '_Fagraea racemosa_'
@@ -7684,7 +7682,7 @@ PPn *pou-muli '_Flueggea flexuosa_'
   Pn:   E Uvean      pou(muli)   '_Flueggea flexuosa_'
   Pn:   Samoan       pou(muli)   '_Flueggea flexuosa_'
 cf. also:
-  Pn:   E Futunan    pou(tea)    'tree sp., Flueggea samoana'
+  Pn:   E Futunan    pou(tea)    'tree sp., _Flueggea samoana_'
 >
 
     POc _*buRat_ was apparently the specific term for _Fagraea berteroana_. Central Pacific
@@ -7723,7 +7721,7 @@ PPn *pua 'taxon including _Fagraea berteroana_ and _Guettarda speciosa_'
   Pn:   Rennellese       pua             'tree with fragrant flowers'
   Pn:   Rennellese       |pua (ʔatua)|   '_Fagraea berteroana_'
   Pn:   Rennellese       pua(bano)       '_Guettarda speciosa_'
-  Pn:   Samoan           pua             'Gardenia taitensis' (traditional usage; (Whistler 2000: 194))
+  Pn:   Samoan           pua             '_Gardenia taitensis_' (traditional usage; (Whistler 2000: 194))
   Pn:   Tuvalu           pua             '_Guettarda speciosa_'
   Pn:   Kapingamarangi   pua             '_Guettarda speciosa_'
   Pn:   Kapingamarangi   bua             '_Fagraea berteroana_ or other plant with showy flowers'
@@ -7844,7 +7842,7 @@ _*-eo-_ was not a part of POc phonotactics.
 166    Malcolm Ross
 
 
-5.5.9 _Gyrocarpus americanus_, canoe tree, B naove, kenutri (_Hernandia_ceae)
+5.5.9 _Gyrocarpus americanus_, canoe tree, B _naove_, _kenutri_ (Hernandiaceae)
 
 Wheatley (1992: 114) comments that the canoe tree, _Gyrocarpus americanus_, is a key indicator of
 a region with a distinct dry season. It is confined to coastal strips and low coral plateaus
@@ -7884,7 +7882,7 @@ cf. also:
 >
 
 
-5.5.10 _Neisosperma oppositifolium_ (syn. _Ochrosia oppositifolia_, 0. parviflora), twin apple, B _tufrut_ (Apocynaceae)
+5.5.10 _Neisosperma oppositifolium_ (syn. _Ochrosia oppositifolia_, _Ochrosia parviflora_), twin apple, B _tufrut_ (Apocynaceae)
 
 Perhaps because of a lack of relevant data, no POc term is reconstructable for
 _Neisosperma oppositifolium_ although it occurs in the Bismarcks. A small tree restricted to the coastal edge
@@ -7966,7 +7964,7 @@ POc *[a]ñuliŋ '_Pisonia_ sp.' (John Lynch, pers. comm.)
 >
 
 <
-Proto Remote Oceanic *buka 'taxon of littoral trees, including _Pisonia_ spp. and _Gyrocarpus americanus_' (Geraghty 1983 _*puka_ '_Hernandia_ pisonia')
+Proto Remote Oceanic *buka 'taxon of littoral trees, including _Pisonia_ spp. and _Gyrocarpus americanus_' (Geraghty 1983 _*puka_ 'Hernandia pisonia')
   NCV:  NE Ambae         boɣa              '_Pisonia umbellifera_'
   NCV:  Nduindui         na-mbuka          '_Pisonia umbellifera_'
   NCV:  Raga             buɣo              '_Pisonia umbellifera_'
@@ -7975,7 +7973,7 @@ Proto Remote Oceanic *buka 'taxon of littoral trees, including _Pisonia_ spp. an
   NCV:  S Efate          na-puk            '_Gyrocarpus americanus_'
   NCV:  S Efate          na-puk(-mokul)    '_Pisonia umbellifera_'
   SV:   Sye              na-mpɣai          '_Pisonia umbellifera_'
-  NCal: Nyelayu          vic               '_Pisonia_ aculeata'
+  NCal: Nyelayu          vic               '_Pisonia aculeata_'
   Mic:  Kiribati         buka              '_Pisonia grandis_'
   Mic:  Ponapean         puek              'tulip tree sp.'
 PCP *buka 'taxon of littoral trees, including _Pisonia_ spp., _Hernandia nymphaeifolia_ and _Gyrocarpus americanus_'
@@ -8217,7 +8215,7 @@ _Nypa fruticans_ palm also grows on the landward side of estuarine swamps (§4.5
 
 6.2 The _Rhizophora_ zone of the mangrove forest
 
-6.2.1 _Rhizophora_ spp., P _manguru_, B _natongtong_ (_Rhizophora_ceae)
+6.2.1 _Rhizophora_ spp., P _manguru_, B _natongtong_ (Rhizophoraceae)
 
                                                                    The mangrove swamp        175
 
@@ -8283,7 +8281,7 @@ As a generic, Saliba _pauli_ includes _Ceriops tagal_, _Rhizophora_ spp. and _Br
 
 6.3 The _Bruguiera_ zone of the mangrove forest
 
-6.3.1 _Bruguiera_ spp., P _ko'a_ (_Rhizophora_ceae)
+6.3.1 _Bruguiera_ spp., P _ko'a_ (Rhizophoraceae)
 
 In the Bismarcks _Bruguiera gymnorrhiza_, the orange or large-leafed mangrove, dominates the inner
 zone of the mangrove forest. It often grows in stiff mud, as well as in tidal areas, and tolerates a wide
@@ -8380,8 +8378,8 @@ _Myristica hollrungii_ cannot at present be reconstructed.
 6.4.1 _Cerbera_ spp. (Apocynaceae)
 
 Three _Cerbera_ species are associated with mangrove swamps. All three grow in coastal locations
-and are often associated with muddy habitats. Two, _Cerbera manghas_ and _Cerbera manghas_ (syn.
-_Cerbera floribunda_), are similar to each other, and some languages treat them as a single taxon.
+and are often associated with muddy habitats. Two, _Cerbera manghas_ and _Cerbera floribunda_,
+are similar to each other, and some languages treat them as a single taxon.
 They are trees 10-20 m tall and about a metre in girth. The third, _Cerbera odollam_, is a large shrub
 or small tree about 10m in height. All three have shiny green leaves and sweet-scented white
 flowers with a red (_Cerbera manghas_) or yellow (_Cerbera odollam_) centre. The seed is surrounded by
@@ -8398,7 +8396,7 @@ bark in oil was used to exorcise demons (Gardner & Pawley 2006).
 Figure 6.3: _Cerbera_ odollam: bottom left, longitudinal section of fruit.
 
     Two reconstructions are presented below:
-PWOc _*(p,pʷ)awa(t)_ '_Cerbera_ spp., probably C.floribunda and _Cerbera manghas_' and PCP _*rewa_
+PWOc _*(p,pʷ)awa(t)_ '_Cerbera_ spp., probably _Cerbera floribunda_ and _Cerbera manghas_' and PCP _*rewa_
 'tree, _Cerbera_ sp., probably _Cerbera_ odollam'. Milke (1968) also offers POc _*pasa_ '_Cerbera_ sp.', based on
 Gedaged _safa_ (metathesis), Bauan _vasa_ '_Cerbera odollam_', Samoan _fasa_, 'Uvea'[1] _faha_, both 'variety of
 pandanus'. The alleged metathesis and the semantic discrepancies make cognacy too uncertain for
@@ -8486,7 +8484,7 @@ used against fever (Arentz et al. 1989: 91).
 
 Figure 6.4: _Excoecaria agallocha_, milky mangrove.
 
-    Lynch (2004) reconstructs PSOc _*(t,d)oto(q)_, noting, 'Final _*-o_ is overtly reflected in
+    Lynch (2004a) reconstructs PSOc _*(t,d)oto(q)_, noting, 'Final _*-o_ is overtly reflected in
 at least Lenakel and the New Caledonian languages, suggesting final _*-q_.' I reconstruct POc
 _*dotoq_ 'sticky liquids including the sap of (some?) trees'; 'a mangrove tree, probably
 _Excoecaria agallocha_' with initial _*d-_ and final _*-q_ because it appears
@@ -8536,7 +8534,7 @@ PSV *na-tetaq '_Excoecaria agallocha_' (Lynch 2001c)
 >
 
 
-6.4.4 _Heritiera littoralis_ (_Sterculia_ceae)
+6.4.4 _Heritiera littoralis_ (Sterculiaceae)
 
 _Heritiera littoralis_ typically grows in sand at the high-tide limit of estuaries and mangrove
 swamps in the Bismarcks, the Solomons, Vanuatu and New Caledonia. Up to 25m tall, it has a short
@@ -8579,7 +8577,7 @@ Proto Southeast Solomonic *(q)one-(q)one '_Heritiera littoralis_'
 
 6.4.5 _Nypa fruticans_, nipa(h) palm (Arecaceae)
 
-The nipa palm, Nypafruticans, grows from the Bismarcks to Fiji in soft mud and slow moving
+The nipa palm, _Nypa fruticans_, grows from the Bismarcks to Fiji in soft mud and slow moving
 tidal and river waters that bring in nutrients. It is the only palm (member of the Palmae family)
 that is also a mangrove, i.e. grows in soft mud. It has a horizontal trunk that grows beneath the
 ground; only the leaves and flower stalk grow vertically above the surface. From a distance,
@@ -9056,7 +9054,7 @@ However, on this hypothesis Fijian _-s-_ (for †_-ð-_) remains unexplained.
                                                                                   Primary rain forest        193
 
 
-7.4.3 _Dillenia schlechteri_ (syn. _Dillenia macrophylla_) (_Dillenia_ceae)
+7.4.3 _Dillenia schlechteri_ (syn. _Dillenia macrophylla_) (Dilleniaceae)
 
 There are many _Dillenia_ species in SE Asia and Oceania, some of them tall canopy trees,
 others smaller trees of the lower canopy.[10] Only one species is reported from the Bismarcks
@@ -9493,7 +9491,7 @@ PWOc *bʷana '_Intsia bijuga_'
                                                                               Primary rain forest       203
 
 
-7.4.10 _Planchonella_ spp., B komtri (_Sapotaceae_)
+7.4.10 _Planchonella_ spp., B komtri (Sapotaceae)
 
 _Planchonella_ species range in size from large canopy trees to small trees of the sub-canopy.
 The species division of the genus _Planchonella_ remains controversial (Walter & Sam 2002: 226),
@@ -9550,8 +9548,8 @@ Bismarcks, it is probable that his discussion relates to the mainland.
 
     The glosses in the cognate set below imply that PCP _*bau_ had the meaning which it retains
 in Wayan Fijian: 'Tree … taxon: generic, includes species of _Burckella_, _Manilkara_,
-_Palaquium_ and _Planchonella_ (_Sapotaceae_)' (Pawley & Sayaba 2003; see also ch.3, §3 .1).
-They are all medium to large rain forest trees of the family _Sapotaceae_. I had hesitated to
+_Palaquium_ and _Planchonella_ (Sapotaceae)' (Pawley & Sayaba 2003; see also ch.3, §3 .1).
+They are all medium to large rain forest trees of the family Sapotaceae. I had hesitated to
 assume that Teop _bau_ '_Leea tetramera_' is cognate, as _Leea tetramera_ is a shrub, but Will
 Mc-Clatchey (pers. comm.) argues that all the plants listed below except _Guettarda speciosa_ are
 hardwoods from which a useful club could be made and that this fact is central to the definition
@@ -9564,7 +9562,7 @@ POc *bau 'hardwood taxon' (see above)
 PCP *bau 'hardwood taxon' (see above)
   Fij: Wayan        bau          'woody trees taxon including _Burckella_ richii, _Manilkara vitiensis_, _Palaquium_ fijiense and _Planchonella_ species'
   Fij: Bauan        bau          '_Palaquium_ spp. (Keppel et al. 2005)'
-  Fij: Yasawa       bau          'tree sp., probably _Sapotaceae_ sp.'
+  Fij: Yasawa       bau          'tree sp., probably Sapotaceae sp.'
   Pn:  Anutan       pau          '_Pipturus argenteus_'
   Pn:  Tuvalu       pau          '_Guettarda speciosa_, _Mammea glauca_'
   Pn:  Rennellese   pau          '_Planchonella_ sp.'
@@ -9709,7 +9707,7 @@ lower canopy.
 _Barringtonia asiatica_, _Barringtonia novae-hiberniae_ and _Barringtonia procera_ are handled in ch.5, §5.2 because of the strong
 tendency for them to grow on the coast. They are an important part of the lower canopy of
 the rain forest in parts of Bougainville, however. Other sub-canopy plants, especially in parts
-of Bougainville and the Solomons, are the betelnut palm, _Areca catechu_ (ch.l3, §2.2.1), tree
+of Bougainville and the Solomons, are the betelnut palm, _Areca catechu_ (ch.13, §2.2.1), tree
 ferns of the genus _Cyathea_ (ch.10, §3.1), fruit trees of the genera _Pandanus_ and _Syzygium_
 (ch.ll, §2.5 and §3 .7) (Paijmans 1976:64--65, Mueller-Dombois & Fosberg 1998: 60--61).
 
@@ -9857,7 +9855,7 @@ PWOc *ka(m,mʷ)apaR '_Cryptocarya_ sp.'
  MM: Patpatar     kamahar      '_Cryptocarya kamahar_'
 >
 
-7.5.4 _Dillenia_ sp. (_Dillenia_ceae)
+7.5.4 _Dillenia_ sp. (Dilleniaceae)
 
 It was noted in §4.3 that _Dillenia_ species range in size from trees of the lower canopy to
 tall canopy trees. Although accounts of Bismarcks flora make no mention of the presence
@@ -9977,7 +9975,7 @@ PCP *usi '_Euodia hortensis_'
   Pn:       Samoan      usi            '_Euodia hortensis_' (W. McClatchey, pers. comm.)
 >
 
-7.5.7 _Kleinhovia hospita_, puzzle tree, guest tree, B _namatal_ (_Sterculia_ceae)
+7.5.7 _Kleinhovia hospita_, puzzle tree, guest tree, B _namatal_ (Sterculiaceae)
 
 _Kleinhovia hospita_ is a small to medium-sized tree. In New Ireland it usually grows to 6-10 m
 tall, but is sometimes as tall as 20-30 m in primary forest (Peekel 1984: 373). A striking
@@ -10104,7 +10102,7 @@ POc *lowaŋa '_Litsea_ sp.'
 >
 
 
-7.5.9 _Myristica_ spp., wild nutmeg, B _nandae_ (_Myristica_ceae)
+7.5.9 _Myristica_ spp., wild nutmeg, B _nandae_ (Myristicaceae)
 
 The most famous _Myristica_ species is the nutmeg, but its easternmost extent is West Papua
 (Warburg 1899: 57). Among the species of wild nutmeg which grow in the Bismarcks are
@@ -10510,13 +10508,13 @@ PCP *viu 'fan palm, umbrella palm, _Pritchardia pacifica_'
 7.6 The shrub layer
 
 The shrub layer is usually patchy because of lack of sunlight. A few small trees, up to a height
-of around 15m, grow here, as well as _Calamus_ (§6.3.1), bamboos (ch.l3, §3.1) and gingers
+of around 15m, grow here, as well as _Calamus_ (§6.3.1), bamboos (ch.13, §3.1) and gingers
 (Henderson & Hancock 1988: 320).
 
 
 7.6.1 Woody shrubs
 
-7.6.1.1 _Abroma augusta_ (_Sterculia_ceae)
+7.6.1.1 _Abroma augusta_ (Sterculiaceae)
 
 _Abroma augusta_ is a small shrub 1-2m tall, more common in the highlands of New Guinea
 than in lowland forests (French 1986, Peekel 1984: 373). On Malaita its white bark is used to
@@ -10607,7 +10605,7 @@ indigenous to Oceania. The only indigenous species reported by Peekel (1984: 376
 the Bismarcks is _Garcinia novo-guineensis_ (syn. _G. warburgiana_), a tree just 5-10 m tall with small
 white flowers. It contains, especially in the roots, yellow latex which is used on New Ireland
 for painting ancestor pictures. This yellow is greenish and lighter than that from Curcuma
-(ch.l3, §5.1).
+(ch.13, §5.1).
 
     Another species found in NW Island Melanesia is _Garcinia pseudoguttifera_ (syn. _Garcinia pancheri_),
 a tree up to 25m high (Wheatley 1992: 112). It is not found in the Bismarcks but occurs from
@@ -11297,7 +11295,7 @@ cf. also:
 240   Malcolm Ross
 
 
-8.2.3 _Commersonia bartramia_ (_Sterculia_ceae)
+8.2.3 _Commersonia bartramia_ (Sterculiaceae)
 
 _Commersonia bartramia_ is a common small bushy tree which grows up to 15m in height,
 and is particularly common in secondary forest. It has a thin trunk, often crooked or leaning
@@ -12176,7 +12174,7 @@ marginal crop and only in certain parts of New Guinea.
      The visible differences between _Dioscorea alata_, _Dioscorea esculenta_ and _Dioscorea bulbifera_ are shown in
 Figure 9.1.
 
-9.2.1.2 _Dioscorea alata_, greater yam, water yam, winged yam, TP _yam_, P _iam_ (_Dioscorea_ceae)
+9.2.1.2 _Dioscorea alata_, greater yam, water yam, winged yam, TP _yam_, P _iam_ (Dioscoreaceae)
 
 Left to themselves, _Dioscorea alata_ tubers come in an amazing variety of forms, as shown in Figure 9.2.
 In various parts of Oceanic-speaking Melanesia - the Papuan Tip islands, Fiji, New
@@ -12307,7 +12305,7 @@ cf. also:
   PT: Tubetube       kʷatea           'greater yam'
 >
 
-9.2.1.3 _Dioscorea bulbifera_, potato yam, aerial yam, air potato (_Dioscorea_ceae)
+9.2.1.3 _Dioscorea bulbifera_, potato yam, aerial yam, air potato (Dioscoreaceae)
 
 The terms 'potato yam' and 'aerial yam' reflect the fact that _Dioscorea bulbifera_ has multiple aerial
 bulbils rather than a single basal tuber. Except in parts of Papua New Guinea it is not
@@ -12343,7 +12341,7 @@ cf. also:
 
 
 
-9.2.1.4 _Dioscorea esculenta_, lesser yam, prickly yam, TP _mami_, P _pana_ (_Dioscorea_ceae)
+9.2.1.4 _Dioscorea esculenta_, lesser yam, prickly yam, TP _mami_, P _pana_ (Dioscoreaceae)
 
 _Dioscorea esculenta_ has a prickly vine stem and winds clockwise around its stake, whereas
 _Dioscorea alata_ winds anti-clockwise (Figure 9.1).
@@ -12857,7 +12855,7 @@ wealth exchanges. In the Solomon Islands it is reported to have been a garden cr
 of Choiseul and Malaita (Henderson & Hancock 1988: 32). Barrau (1955: 55) reports that it
 is no longer cultivated anywhere in Melanesia.
 
-9.2.3.2 _Tacca leontopetaloides_, Polynesian arrowroot (_Tacca_ceae)
+9.2.3.2 _Tacca leontopetaloides_, Polynesian arrowroot (Taccaceae)
 
 The tuber of _Tacca leontopetaloides_ is bitter and requires considerable processing to produce
 a starch pudding somewhat like sago pudding. It was used in this way on the small islands of
@@ -13173,7 +13171,7 @@ from which in turn grow small stems, _*kulo_ (§2.8) each holding a hand, _*qiti
 bananas.[21] A new banana plant is planted with a slip or cutting, _*[s,j]uli(q)_ (§2.6), and the
 new growth first appears as a shoot, _*qili_ (§2.6).
 
-[20] The genus Ensete belongs, like _Musa_, to the _Musa_ceae family. Its members have edible roots.
+[20] The genus Ensete belongs, like _Musa_, to the Musaceae family. Its members have edible roots.
 
 [21] Ross (1996d: 185) reconstructed a form _*paRa(l,R)_ 'stem, bunch (of bananas)' supported by Wayan _baba_
 'leaf-stalk', Tawala _halana_ 'bunch/hand of bananas' and Bing _parar_ 'stem of/cluster (bananas, betelnut, etc);
@@ -13680,7 +13678,7 @@ in salt water until the skin begins to peel off, then washed in fresh water and 
 sun. This process removes the toxin, and the seeds are then pounded into flour, made into
 a pudding and baked (Sorensen 1950). The process on Guam was similar (Safford 1905,
 cited by Whiting 1953). On Rennell and Bellona Islands the seeds are wrapped in a fern leaf
-(Microsorium scolopendria) and soaked in water for five or more days, then pounded and
+(_Microsorium scolopendria_) and soaked in water for five or more days, then pounded and
 baked (Henderson & Hancock 1988: 140). In Fiji the seeds were boiled until they were soft,
 then eaten (H. B. R. Parham 1943, cited by Thieret 1958).
 
@@ -13850,7 +13848,7 @@ important vegetable in inland areas of the Bismarcks and New Guinea (M. Bourke, 
 comm.). The stinging herb _Laportea_ interrupta (syn. Fleurya interrupta, Urtica interrupta)
 is cultivated and eaten by the Tolai of the Gazelle Peninsula of New Britain (ch.7, §6.3 .2).
 The leaves of _Morinda citrifolia_ are also eaten as a green vegetable in parts of Papua New
-Guinea (ch.l3, §3.4). Despite the large number of species that serve as green vegetables,
+Guinea (ch.13, §3.4). Despite the large number of species that serve as green vegetables,
 however, only a few terms for them have been reconstructed.
 
     Trees of the genus _Ficus_ (§4) are included here because leaves of some freestanding
@@ -14116,7 +14114,7 @@ PNCV *lalaso '_Polyscias scutellaria_' (?)(Clark 1996; gloss from Lynch 2004a)
 
 10.3 Other green vegetables
 
-10.3.1 _Cyathea_ spp., B blakpam (_Cyathea_ceae)
+10.3.1 _Cyathea_ spp., B blakpam (Cyatheaceae)
 
 Among the many ferns eaten in Melanesia, there is just one tree-fern genus for which a
 putative POc term has been reconstructed. This is Proto Remote Oceanic _*(b,bʷ)ala_ '_Cyathea_'. POc _*(b,bʷ)ala_
@@ -14691,7 +14689,7 @@ mesocarp and a very hard inner layer or endocarp surrounding the seed. 'False nu
 endocarp and seed of a drupe. They include the first five genera discussed here - canarium
 almonds, _Canarium_ spp. (§2.1), the sea almond and the okari nut, _Terminalia_ spp. (§2.4),
 cutnuts, _Barringtonia_ spp. (§2.3), and the various species of _Pandanus_ - as well as the coconut
-(see ch.12, figure 12.1), the candlenut, _Aleurites moluccana_ (ch.l3, §3.2), the macadamia,
+(see ch.12, figure 12.1), the candlenut, _Aleurites moluccana_ (ch.13, §3.2), the macadamia,
 Macadamia integrifolia, and the almond proper, _Prunus_ dulcis. Fleshy fruits like the peach,
 _P. persica_, the plum, _P. domestica_, the apricot, _P. armeniaca_, the ocean lychee, _Pometia pinnata_
 (§3 .5) and mangoes, _Mangifera_ spp. (§3.4), are also drupes, but the fleshy mesocarp is
@@ -15720,7 +15718,7 @@ PWOc *moke '_Pandanus_ sp.' (Peekel 1984: 41--42)
 >
 
 
-11.2.6 _Sterculia vitiensis_ (syn. _Sterculia tannaensis_) (_Sterculia_ceae)
+11.2.6 _Sterculia vitiensis_ (syn. _Sterculia tannaensis_) (Sterculiaceae)
 
 In a sense _Sterculia vitiensis_ does not belong here, as it was not known to POc speakers. There
 are a number of small species of _Sterculia_ in the Bismarcks and Solomons, but _Sterculia vitiensis_
@@ -15818,7 +15816,7 @@ PEOc *paRage '_Pangium edule_'
 
 11.3 Domesticated fruit trees
 
-11.3.1 _Burckella obovata_ (syn. _Bassia erskineana_, _Payena mentzelii_, _Illipe hollrungii_), red silkwood, TP _bukabuk_, B _naduldule_, _nandunde_ (_Sapotaceae_)
+11.3.1 _Burckella obovata_ (syn. _Bassia erskineana_, _Payena mentzelii_, _Illipe hollrungii_), red silkwood, TP _bukabuk_, B _naduldule_, _nandunde_ (Sapotaceae)
 
                                                                       Nut and fruit trees    337
 
@@ -15867,7 +15865,7 @@ POc *ñatuq '_Burckella obovata_' (Blust 1978b: 38-39: _*ñatu_; Ross 1996d)
   Adm: Loniu        ñat          'tall timber tree with large sweet green fruit'
   Adm: Baluan       nout         '_Burckella obovata_'
   NNG: Takia        nat          'tree (with edible nuts or fruit, also used for timber)'
-  NNG: Gedaged      nat          'tree, _Sapotaceae_'
+  NNG: Gedaged      nat          'tree, Sapotaceae'
   PT:  Kilivila     natu         'sp. of fruit tree'
   PT:  Muyuw        a-ntu-nat    '_Palaquium_ sp.'
   PT:  Wedau        natu         'Malay apple, Eugenia megacarpa'
@@ -18512,7 +18510,7 @@ PPn *kawa 'kava; sour, bitter'
   Pn:  Hawaiian          ʔava              'kava; sour, bitter'
   Pn:  Rarotongan        kava              'kava; sour'
   Pn:  Maori             kawa              'sour, bitter; perform certain kinds of ceremony'
-  Pn:  Maori             kawa-kawa         'Macropiper excelsum'
+  Pn:  Maori             kawa-kawa         '_Macropiper excelsum_'
 >
 
 [2] Anthropological and linguistic literature on the origins of kava usually retains the species name wichmannii,
@@ -19652,7 +19650,7 @@ POc *jajal 'croton, _Codiaeum variegatum_'
                                                                            Other cultivated plants       421
 
 
-13.6.5 _Heliconia indica_, heliconia, Blif laplap (_Heliconia_ceae)
+13.6.5 _Heliconia indica_, heliconia, Blif laplap (Heliconiaceae)
 
 Two species of _Heliconia_ grow in NW Island Melanesia, _Heliconia indica_ in eastern mainland New
 Guinea and the Bismarcks and _Heliconia salomonensis_ in Bougainville and the Solomons
@@ -19945,7 +19943,7 @@ This is not surprising, insofar as the properties of a plant itself often determ
 uses to which it may be put, but there are also a number of cases where the use of a particular
 plant for a particular purpose is to some extent culturally determined. For example,
 _Cordyline fruticosa_ is (or was) held to have spiritual power in locations across Melanesia from New
-Britain to Fiji (ch.l3, §6), and its longtime importance to Oceanic speakers is evidenced by
+Britain to Fiji (ch.13, §6), and its longtime importance to Oceanic speakers is evidenced by
 the number of cultivars of the species that are found across the region. Although the properties
 of the plant-variegated colourful leaves and a distinctive smell-provided the basis for
 its uses in association with magic and taboo, they do not account for its cultural importance
@@ -20104,7 +20102,7 @@ __tablenh__
  _*naRa_          | '_Pterocarpus indicus_'
  _*ñatuq_         | '_Burckella obovata_'
  _*nini(q)_       | 'shrub, _Donax cannaeformis_'
- _*nipaq_           |  'Nypafruticans'
+ _*nipaq_           |  '_Nypa fruticans_'
  _*niuR_            |  'coconut palm and/or fruit, _Cocos nucifera_'
  _*nunuk_           |  'fig trees, _Ficus_ taxon'
  _*ŋiRac_          |  '_Pemphis acidula_'

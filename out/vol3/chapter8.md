@@ -288,7 +288,7 @@ cf. also:
 
 <a id="s-2-3"></a>
 
-### 2.3. _Commersonia bartramia_ (_Sterculia_ceae)
+### 2.3. _Commersonia bartramia_ (Sterculiaceae)
 
 
 _Commersonia bartramia_ is a common small bushy tree which grows up to 15m in height, and is particularly common in secondary forest. It has a thin trunk, often crooked or leaning when it is competing with other trees for light ([Wheatley 1992](../sources/Wheatley1992): 221).

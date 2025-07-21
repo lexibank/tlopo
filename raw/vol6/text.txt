@@ -9037,7 +9037,7 @@ In most locations the conch trumpet functions as a signalling device rather than
 instrument. It transmits messages, announces occasions like celebrations (Tok Pisin
 _singsings_) and deaths, and may serve as a war trumpet. Conditions under which it can be
 sounded are typically predetermined, and only certain persons are permitted to blow it
-(Fischer 1986:135-149). The shell used is generally the _Charonia tritonis_, although Cassis
+(Fischer 1986:135-149). The shell used is generally the _Charonia tritonis_, although _Cassis_
 shells may be similarly used.
 
 <
@@ -9079,7 +9079,7 @@ POc *buu ‘conch shell trumpet’ (ACD)
  Mic: Kiribati         pu        ‘conch, sea-shell horn, trumpet’
 PPn *pū ‘triton shell trumpet’
  Pn:  Niuean           pū        ‘univalve mollusc shell; trumpet’
- Pn:  Samoan           pū        ‘name given to molluscs belonging to genera Tritonium and Cassis, the shells of some of which are used as shell trumpets’
+ Pn:  Samoan           pū        ‘name given to molluscs belonging to genera Tritonium and _Cassis_, the shells of some of which are used as shell trumpets’
  Pn:  Nukuoro          bū        ‘conch shell trumpet’
  Pn:  Tuvaluan         pū        ‘shell trumpet, used to call important meetings’
  Pn:  Tikopia          pū        ‘trumpet, traditionally, large univalve shell’

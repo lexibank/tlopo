@@ -4902,7 +4902,7 @@ Figure 13: POc _*bara_ 'plaited cane armlet' (from Nevermann_1934: 151)
    Spriggs (1997a: 88) lists the distinctive range of shell ornaments recovered from Lapita
 sites such as Eloaua in the Admiralties, Balof (New Ireland) and Arawe Islands south-west of
 New Britain. They include Conus shell rectangular units, beads, rings and disks, _Tridacna_
-rings, Spondylus beads and long units and Trochus armrings. Reconstructions have been
+rings, Spondylus beads and long units and _Trochus_ armrings. Reconstructions have been
 possible for armlets, pearlshell ornaments, ear decorations and for the act of stringing together
 a necklace.
 
@@ -5076,7 +5076,7 @@ POc *tapuRi(q) 'triton shell: _Charonia tritonis_, used as trumpet'
   SES: Sa'a               ahuri           'conch shell, triton, used to summon people'
   SES: Arosi              ahuri           'conch shell, triton'
   NCV: Lonwolwol          taviu           'conch shell (and sound)'
-  NCV: Lewo               tapuru          'shellfish Trochus spp.'
+  NCV: Lewo               tapuru          'shellfish _Trochus_ spp.'
   Mic: Kiribatese         tau             'triton conch, trumpet shell'
   Mic: Ponapean           sewi            'conch shell, trumpet'
   Fij: Wayan              tavui           'triton shell: Pacific or Triton's Trumpet'
@@ -5362,7 +5362,7 @@ Our reconstructions are for items which draw on a range of raw materials. They i
 __block__
 - vegetable products (a variety of timbers, bamboo, coconut shell, leaves, vine, cane and bark)
 - stone (of variable quality, the most useful being obsidian, flint and basalt)
-- coral and shell (_Tridacna_, Trochus, Conus, clam, pearlshell and others; turtle shell)
+- coral and shell (_Tridacna_, _Trochus_, Conus, clam, pearlshell and others; turtle shell)
 - animal products (bone, skin)
 - earth products (pigments, earth, clay).
 
@@ -11153,10 +11153,10 @@ Tonga), one site at the latter dating back to about 2800 BP. "Most of the Mussau
 fairly large (about 5 cm in shank length) and were probably designed for hand-lining from
 canoes, in order to catch larger benthic species such as groupers. A few hooks are smaller,
 however, and could have been used for taking smaller species on reefs and along coastlines."
-(Kirch 1997: 200). Most hooks so far found are of Turbo, Trochus and pearlshell. Linguistic
+(Kirch 1997: 200). Most hooks so far found are of Turbo, _Trochus_ and pearlshell. Linguistic
 evidence supports clamshell and tortoiseshell. Presumably all of these were used, as well as
 the less durable coconut shell, bone and _Pemphis acidula_ wood, which are in use today. Also
-from Mussau sites come examples of carefully crafted lures made from Trochus shell. These
+from Mussau sites come examples of carefully crafted lures made from _Trochus_ shell. These
 trolling lures "are streamlined for hydrodynamic lift in the water, and have finely carved
 grooves for attaching both the line and hackles (probably feathers or pig bristles) near the
 recurved point". (pp.200-201)

@@ -27,7 +27,7 @@ Sugarcane, _Saccharum officinarum_ belongs to the family Poaceae, i.e., it is a 
 
 <a id="p-390"></a>
 
-Sugarcane is a domesticate, only planted from cuttings, and numerous varieties are found in gardens all over lowland and highland areas of NW Melanesia. Sugarcane prospers especially where the soil is moist and rich (Paijmans 1976: 125-126, [Kwa'ioloa & Burt2001](../sources/KwaioloaandBurt2001): 204, [Hviding 2005](../sources/Hviding2005): 148). The jointed, fibrous stalks contain sucrose, obtained by cutting off a stem and chopping it into convenient lengths which are sucked and chewed as a refreshing snack. When the sugar has been sucked out, the rubbish is spat out.
+Sugarcane is a domesticate, only planted from cuttings, and numerous varieties are found in gardens all over lowland and highland areas of NW Melanesia. Sugarcane prospers especially where the soil is moist and rich ([Paijmans 1976](../sources/Paijmansetal1976): 125-126, [Kwa'ioloa & Burt2001](../sources/KwaioloaandBurt2001): 204, [Hviding 2005](../sources/Hviding2005): 148). The jointed, fibrous stalks contain sucrose, obtained by cutting off a stem and chopping it into convenient lengths which are sucked and chewed as a refreshing snack. When the sugar has been sucked out, the rubbish is spat out.
 
 The POc term &ast;topu 'sugarcane, _Saccharum officinarum_' continues PAn &ast;tebuS and is continued throughout Oceanic except in Polynesian, where reflexes attest to PPn &ast;to 'sugarcane' rather than expected †&ast;tofu .
 
@@ -367,7 +367,7 @@ _Areca catechu_ is a slender palm which grows up to 30 m. Its crown is smaller r
 
 Figure 13.1: Left: _Areca catechu_, betelnut: __A__, tree; __B__, portion of inflorescence; __C__, portion of fruit cluster; __D__, fruit: longitudinal section showing fibrous exocarp and inner chewed 'nut'. Right: _Piper betle_: __E__, plant; __F__, __G__, __H__, flowering shoots of three varieties.
 
-Chewing betelnut as a stimulant is widespread in Papua New Guinea and the Solomon Islands, but not in other parts of the Pacific. Palms are grown in village groves or singly near houses. The seed may be chewed alone, but usually people chew a quid consisting of the seed, lime and a catkin or leaf of _Piper betle_ ([§2.2.2](../contributions/3-13#s-2-2-2)) (Paijmans 1976: 135).[^1] Chewing the seed induces salivation, and if lime is present it turns the chewed mass bright red. Some people swallow all but the initial burst of saliva, whilst others spit out the red masticate. Initially, chewing leads to a very short-lived dizziness, folllowed by a sense of renewed wakefulness. In Papua New Guinea and parts of the Solomons chewing betelnut is a social ritual when people meet. Convention requires that the host offer betelnut to visitors ([Henderson & Hancock 1988](../sources/HendersonandHancock1988): 146). The husk of the fruit is sometimes used to clean the teeth after chewing, as the quid causes uncleaned teeth to turn dark brown.
+Chewing betelnut as a stimulant is widespread in Papua New Guinea and the Solomon Islands, but not in other parts of the Pacific. Palms are grown in village groves or singly near houses. The seed may be chewed alone, but usually people chew a quid consisting of the seed, lime and a catkin or leaf of _Piper betle_ ([§2.2.2](../contributions/3-13#s-2-2-2)) ([Paijmans 1976](../sources/Paijmansetal1976): 135).[^1] Chewing the seed induces salivation, and if lime is present it turns the chewed mass bright red. Some people swallow all but the initial burst of saliva, whilst others spit out the red masticate. Initially, chewing leads to a very short-lived dizziness, folllowed by a sense of renewed wakefulness. In Papua New Guinea and parts of the Solomons chewing betelnut is a social ritual when people meet. Convention requires that the host offer betelnut to visitors ([Henderson & Hancock 1988](../sources/HendersonandHancock1988): 146). The husk of the fruit is sometimes used to clean the teeth after chewing, as the quid causes uncleaned teeth to turn dark brown.
 
 Like other palms, the trunk of the betel pallm can be split and the outer wood used for walling or flooring. In the western Solomons, liquid is squeezed from the husk into the eyes of conjunctivitis sufferers.
 
@@ -766,7 +766,7 @@ cf. also:
 
 Figure 13.2: Leaves, stem and plant habit of kava, _Piper methysticum_
 
-The kava plant, _Piper methysticum_, is a many branching plant with rounded green leaves. The plant is grown, usually near houses, exclusively from cuttings, and a narcotic is made from it in parts of Remote Oceania. Traditionally kava is consumed as a drink. The root is first reduced to small fragments by chewing, grinding or pounding. The fragments are deposited in a bowl, mixed with water and strained through the cloth-like fibre of a coconut spathe ([ch.12, §5.3](../contributions/3-12#s-5-3)) to give a cloudy grey liquid (Paijmans 1976: 135). In Fiji, Tonga and Samoa the liquid is made from mature roots, is of low strength and plays a part in various ceremonies. In Vanuatu it is made from the roots of green plants and often has a much greater narcotic effect. Initially it causes the blood vessels in the lips and tongue to contract with a certain numbing effect. The drinker then senses some degree of euphoria, followed by a sense of calm well-being and clear thinking and a general relaxation of the muscles.
+The kava plant, _Piper methysticum_, is a many branching plant with rounded green leaves. The plant is grown, usually near houses, exclusively from cuttings, and a narcotic is made from it in parts of Remote Oceania. Traditionally kava is consumed as a drink. The root is first reduced to small fragments by chewing, grinding or pounding. The fragments are deposited in a bowl, mixed with water and strained through the cloth-like fibre of a coconut spathe ([ch.12, §5.3](../contributions/3-12#s-5-3)) to give a cloudy grey liquid ([Paijmans 1976](../sources/Paijmansetal1976): 135). In Fiji, Tonga and Samoa the liquid is made from mature roots, is of low strength and plays a part in various ceremonies. In Vanuatu it is made from the roots of green plants and often has a much greater narcotic effect. Initially it causes the blood vessels in the lips and tongue to contract with a certain numbing effect. The drinker then senses some degree of euphoria, followed by a sense of calm well-being and clear thinking and a general relaxation of the muscles.
 
 
 <a id="p-396"></a>
@@ -954,7 +954,7 @@ The best supported hypothesis appears to be that _Piper methysticum_ is a domest
 <tr>
 <td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>kawa-kawa</i></td>
 <td>
-'<span>Macropiper excelsum</span>'</td>
+'<span><em>Macropiper excelsum</em></span>'</td>
 </tr>
 </table>
 
@@ -3816,7 +3816,7 @@ cf. also:
 
 <a id="s-6-5"></a>
 
-### 6.5. _Heliconia indica_, heliconia, Blif laplap (_Heliconia_ceae)
+### 6.5. _Heliconia indica_, heliconia, Blif laplap (Heliconiaceae)
 
 
 Two species of _Heliconia_ grow in NW Island Melanesia, _Heliconia indica_ in eastern mainland New Guinea and the Bismarcks and _Heliconia salomonensis_ in Bougainville and the Solomons (R. Gardner, pers. comm.). The two appear to be very· similar (Figure 13.10, left).[^21] Numerous short stems formed from leaf sheaths rise from an underground rhizome to a height of 5 or 6 m. The leaves resemble banana leaves, and under cultivation assume various colours and patterns: yellow, yellow-and-green striped, bright red or dark red. In the wild heliconias grow in damp shady environments in primary and secondary forest.

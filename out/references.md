@@ -728,7 +728,7 @@
 - <a id="source-Gerber1985"> </a>Gerber, Eleanor. 1985. Rage and obligation: Samoan emotion in conflict. In Kirkpatrick, White & (eds.), _168–182_.
 - <a id="source-Geurtjens1921"> </a>Geurtjens, Hendrik. 1921. Woordenlijst der Keieesche Taal. Den Haag: Martinus Nijhoff. (Verhandelingen van het Bataviaasch genootschap van Kunsten en Wetenschappen 63, part 3).
 - <a id="source-Gifford1929"> </a>Gifford, Edward. W. 1929. Tongan society. Honolulu: Bernice P. Bishop Museum. (Bernice P. Bishop Museum Bulletin 61).
-- <a id="source-GiffordandJr1956"> </a>Gifford, E.W. & R. Shutler Jr. 1956. Archaeological Excavations in New Caledonia. Univer sity of California Anthropological Records 18.1.
+- <a id="source-GiffordandShutler1956"> </a>Gifford, E.W. & R. Shutler Jr. 1956. Archaeological Excavations in New Caledonia. University of California Anthropological Records 18.1.
 - <a id="source-Gill1876"> </a>Gill, William Wyatt. 1876. Myths and songs from the South Pacific. London: King.
 - <a id="source-Gill1987"> </a>Gill, B. J. 1987. Notes on the birds, reptiles and mammals of Tongatapu and ‘Eua (Tonga). Notornis 34: 217-223.
 - <a id="source-GilliardandLecroy1967"> </a>Gilliard, E. Thomas & Mary Lecroy. 1967. Results of the 1958-1959 Gilliard New Britain Expedition 4: Annotated list of birds of the Whiteman Mountains, New Britain. Bulletin of the American Museum ofNatural History 135: Article 4.
@@ -1469,7 +1469,7 @@
 - <a id="source-OzanneRivierre2004b"> </a>Ozanne-Rivierre, Françoise. 2004. The evolution of the verb ‘take’ in New Caledonian languages. In Ozanne-Rivierre, Isabelle Brill & Françoise (eds.), _331–346_.
 - <a id="source-Pageletal2007"> </a>Pagel, Quentin D. Atkinson, Mark & Andrew Meade. 2007. Frequency of word-use predicts rates of lexical evolution throughout Indo-European history. Nature 449:717-721. https://doi.org/10.1038/nature06176.
 - <a id="source-PagelandMeade2018"> </a>Pagel, Mark & Andrew Meade. 2018. The deep history of the number words. Philosophical Transactions of the Royal Society B: Biological Sciences 373:20160517. https://doi.org/10.1098/rstb.2016.0517.
-- <a id="source-Paijmansetal1976"> </a>Paijmans, ed., K. (ed.) 1976. New Guinea vegetation. Canberra: CSIRO in association with ANU Press.
+- <a id="source-Paijmansetal1976"> </a>Paijmans, K. (ed.) 1976. New Guinea vegetation. Canberra: CSIRO in association with ANU Press.
 - <a id="source-Paisawaetal1975"> </a>Paisawa, Louise Pagotto, Elsie & Joan Kale. 1975. A short sketch of Are (or Mukawa), Milne Bay, Papua New Guinea. Port Moresby: Department of Language, University of Papua New Guinea.
 - <a id="source-PaitaandShintani1983"> </a>Paita, Yvonne & Tadahiko Shintani. 1983. Dictionnaire de la language de Paita. Tokyo: Institute for Languages and Cultures of Asia and Africa, Tokyo University of Foreign Studies.
 - <a id="source-Pallesen1985"> </a>Pallesen, A. Kemp. 1985. _Culture contact and language convergence. Manila: Linguistic Society of the Philippines._.
@@ -1602,6 +1602,7 @@
 - <a id="source-Renfrew1987"> </a>Renfrew, Colin. 1987. _Archaeology and language. London: Jonathan Cape._.
 - <a id="source-Renfrew1992"> </a>Renfrew, Colin. 1992. World languages and human dispersals. In Hall, John A. and Jarvie, I. C. (eds.), _Transition to modernity, 1 1-68. Cambridge: Cambridge University Press_.
 - <a id="source-Renneretal2007"> </a>Renner, Hanno Schaefer, Susanne S. & Alexander Kocyan. 2007. Phylogenetics of Cucumis (Cucurbitaceae): Cucumber (C . .sativus) belongs in an Asian/Australian clade far from melon (C. melo). BMC Evolutionary Biology 7:58 . URL: http://www.biomedcentral.com/1471-2148/7 I5B.
+- <a id="source-Rensch1983"> </a>Rensch, Karl H. 1983. Fish names of Wallis Island (Uvea). Journal of Pacific Studies 7.1: 59-90.
 - <a id="source-Rensch1984"> </a>Rensch, Karl H. 1984. Dictionnaire wallisien-franqais. Canberra: Pacific Linguistics. (Pacific Linguistics C-86).
 - <a id="source-Rensch1986"> </a>Rensch, Karl H. 1986. Tikisionalio Fakafutuna--Fakafalani: Dictionnaire futunien- français. Canberra: Pacific Linguistics. (Pacific Linguistics C-90).
 - <a id="source-Rensch1988"> </a>Rensch, Karl H. 1988. Fish names of Eastern Polynesia. Canberra: Pacific Linguistics. (Pacific Linguis tics C-106).
@@ -1861,7 +1862,7 @@
 - <a id="source-Thaman1987"> </a>Thaman, R. R. 1987. Plants of Kiribati: a listing and analysis of vernacular names. Atoll Research Bulletin 296: 1--43.
 - <a id="source-Thaman1989"> </a>Thaman, R. R. 1989. Agrodeforestation and the neglect of trees: threat to the well-being of Pacific societies. Noumea: South Pacific Commission.
 - <a id="source-Thaman1994"> </a>Thaman, R. R. 1994. Ethnobotany ofPacific island coastal plants. In Morrison, Geraghty & Crowl, 1994: 147-184.
-- <a id="source-ThamanandTebanond"> </a>Thaman, R. R. & Temakei Tebano. n.d. Kiribati plant and fish Names: A preliminary listing. Atoll Research Programme, University of the South Pacific.
+- <a id="source-ThamanandTabanond"> </a>Thaman, R. R. & Temakei Tabano. n.d. Kiribati plant and fish Names: A preliminary listing. Atoll Research Programme, University of the South Pacific.
 - <a id="source-Thepkanjana1986"> </a>Thepkanjana, Kingkarn. 1986. Serial verb constructions in Thai. PhD dissertation, University of Michigan.
 - <a id="source-ThibaultandGuyot1987"> </a>Thibault, J.-C. & I. Guyot. 1987. Notes on the seabirds of Wallis and Futuna Islands, south west Pacific Ocean. Bulletin of the British Ornithologists Club 107: 63-68.
 - <a id="source-ThibaultandRives1975"> </a>Thibault, J.-C. & C. I. Rives. 1975. Oiseauxde Tahiti. Papeete: Editions duPacifique.

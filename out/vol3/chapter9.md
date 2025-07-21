@@ -72,7 +72,7 @@ The visible differences between _Dioscorea alata_, _Dioscorea esculenta_ and _Di
 
 <a id="s-2-1-2"></a>
 
-#### 2.1.2. _Dioscorea alata_, greater yam, water yam, winged yam, TP _yam_, P _iam_ (_Dioscorea_ceae)
+#### 2.1.2. _Dioscorea alata_, greater yam, water yam, winged yam, TP _yam_, P _iam_ (Dioscoreaceae)
 
 
 Left to themselves, _Dioscorea alata_ tubers come in an amazing variety of forms, as shown in Figure 9.2. In various parts of Oceanic-speaking Melanesia - the Papuan Tip islands, Fiji, New Caledonia - farmers strove to produce yams with a regular form and giant length. [Barrau](../sources/Barrau1955) ([1955](../sources/Barrau1955): 57) mentions a 2.6 m yam seen in New Caledonia in 1953. These long yams were produced by hollowing out a cylindrical growing hole and lining it with wooden sticks to provide growth space for the tuber. More generally, the yield is maximised by staking the growing vine with a support 2-3m high.
@@ -495,7 +495,7 @@ cf. also:
 
 <a id="s-2-1-3"></a>
 
-#### 2.1.3. _Dioscorea bulbifera_, potato yam, aerial yam, air potato (_Dioscorea_ceae)
+#### 2.1.3. _Dioscorea bulbifera_, potato yam, aerial yam, air potato (Dioscoreaceae)
 
 
 The terms 'potato yam' and 'aerial yam' reflect the fact that _Dioscorea bulbifera_ has multiple aerial bulbils rather than a single basal tuber. Except in parts of Papua New Guinea it is not cultivated but quite commonly grows wild ([Barrau 1962](../sources/Barrau1962): 113). Its bulbils contain a toxin, dioscorine, and need to be cooked and grated, then washed continuously in fresh water for several hours ([Barrau 1955](../sources/Barrau1955): 59). In Papua New Guinea it is sometimes cultivated as a minor staple alongside the two major staple species, _Dioscorea alata_ and _Dioscorea esculenta_ ([Bourke 1982](../sources/Bourke1982)).
@@ -591,7 +591,7 @@ cf. also:
 
 <a id="s-2-1-4"></a>
 
-#### 2.1.4. _Dioscorea esculenta_, lesser yam, prickly yam, TP _mami_, P _pana_ (_Dioscorea_ceae)
+#### 2.1.4. _Dioscorea esculenta_, lesser yam, prickly yam, TP _mami_, P _pana_ (Dioscoreaceae)
 
 
 _Dioscorea esculenta_ has a prickly vine stem and winds clockwise around its stake, whereas _Dioscorea alata_ winds anti-clockwise (Figure 9.1).
@@ -1977,7 +1977,7 @@ _Amorphophallus paeoniifolius_ is a wild plant. In the Austronesian speaking are
 
 <a id="s-2-3-2"></a>
 
-#### 2.3.2. _Tacca leontopetaloides_, Polynesian arrowroot (_Tacca_ceae)
+#### 2.3.2. _Tacca leontopetaloides_, Polynesian arrowroot (Taccaceae)
 
 
 The tuber of _Tacca leontopetaloides_ is bitter and requires considerable processing to produce a starch pudding somewhat like sago pudding. It was used in this way on the small islands of the SE Solomons and the Temotu Province, and in much of Polynesia ([Henderson & Hancock 1988](../sources/HendersonandHancock1988): 34) but apparently had only limited use in the Bismarcks.
@@ -2754,7 +2754,7 @@ Breadfruit trees grow to a height of 20 m and usually at altitudes below 1200 m.
 
 <a id="p-281"></a>
 
-Breadfruit seeds have a high protein content and are nutritionally the most valuable part of the fruit (Paijmans 1976: 123). Breadfruit are very rich in starch and contain about 25% carbohydrates. They are usually roasted, baked, fried, or boiled before being eaten. The cooking method depends on the cultivar. They can be eaten raw, but in Papua New Guinea and the Solomons they are commonly baked whole in a fire or an oven, and then the skin and seeds are removed. Some fruit have seeds about the size and texture of chestnuts and taste rather like very dense young potatoes. They are removed from the baked fruit and sometimes roasted over the fire before eating. In New Guinea this is usually the only part that is eaten ([Walter & Sam 2002](../sources/WalterandSam2002): 107-110, [Bourke & Allen forthcoming](../sources/BourkeandAllenforthcoming)).
+Breadfruit seeds have a high protein content and are nutritionally the most valuable part of the fruit ([Paijmans 1976](../sources/Paijmansetal1976): 123). Breadfruit are very rich in starch and contain about 25% carbohydrates. They are usually roasted, baked, fried, or boiled before being eaten. The cooking method depends on the cultivar. They can be eaten raw, but in Papua New Guinea and the Solomons they are commonly baked whole in a fire or an oven, and then the skin and seeds are removed. Some fruit have seeds about the size and texture of chestnuts and taste rather like very dense young potatoes. They are removed from the baked fruit and sometimes roasted over the fire before eating. In New Guinea this is usually the only part that is eaten ([Walter & Sam 2002](../sources/WalterandSam2002): 107-110, [Bourke & Allen forthcoming](../sources/BourkeandAllenforthcoming)).
 
 The description above applies to breadfruit varieties in New Guinea and the Bismarck Archipelago. As one moves eastward across the Pacific, one finds breadfruit varieties that have been increasingly selected for flesh rather than seeds, so that most cultivars in Polynesia are seedless and are propagated by root cuttings. The genetic history is more complex than this implies, however, as two other species have contributed to the varieties subsumed under _Artocarpus altilis_. One is _Artocarpus camansi_, sometimes called 'breadnut', which occurred both wild and cultivated in New Guinea, the other _Artocarpus mariannensis_, endemic to the high islands of western Micronesia ([Yen 1991](../sources/Yen1991), [Zerega 2003](../sources/Zerega2003), cited by [Kennedy & Clarke 2004](../sources/KennedyandClarke2004)).
 
@@ -3662,7 +3662,7 @@ The description here is limited to _Cycas rumphii_, but, as some sources treat _
 
 <a id="p-290"></a>
 
-The seeds need considerable processing before they can be eaten, as they contain the toxin hydrocyanic acid. In the Ninigo Islands the otherwise poisonous fruit is submerged in salt water until the skin begins to peel off, then washed in fresh water and dried in the sun. This process removes the toxin, and the seeds are then pounded into flour, made into a pudding and baked ([Sorensen 1950](../sources/Sorensen1950)). The process on Guam was similar ([Safford 1905](../sources/Safford1905), cited by [Whiting 1953](../sources/Whiting1953)). On Rennell and Bellona Islands the seeds are wrapped in a fern leaf (Microsorium scolopendria) and soaked in water for five or more days, then pounded and baked ([Henderson & Hancock 1988](../sources/HendersonandHancock1988): 140). In Fiji the seeds were boiled until they were soft, then eaten (H. B. R. [Parham 1943](../sources/Parham1943), cited by [Thieret 1958](../sources/Thieret1958)).
+The seeds need considerable processing before they can be eaten, as they contain the toxin hydrocyanic acid. In the Ninigo Islands the otherwise poisonous fruit is submerged in salt water until the skin begins to peel off, then washed in fresh water and dried in the sun. This process removes the toxin, and the seeds are then pounded into flour, made into a pudding and baked ([Sorensen 1950](../sources/Sorensen1950)). The process on Guam was similar ([Safford 1905](../sources/Safford1905), cited by [Whiting 1953](../sources/Whiting1953)). On Rennell and Bellona Islands the seeds are wrapped in a fern leaf (_Microsorium scolopendria_) and soaked in water for five or more days, then pounded and baked ([Henderson & Hancock 1988](../sources/HendersonandHancock1988): 140). In Fiji the seeds were boiled until they were soft, then eaten (H. B. R. [Parham 1943](../sources/Parham1943), cited by [Thieret 1958](../sources/Thieret1958)).
 
 _Cycas rumphii_ also has a variety of other uses. Its bark sap is reported as a wood glue in Marovo and northern Malaita. In a number of places in the Bismarcks and the Solomons seeds are threaded on a string and used as a bull-roarer toy ([Peekel 1984](../sources/Peekel1984): 35, [Henderson & Hancock 1988](../sources/HendersonandHancock1988): 140, [Hviding 2005](../sources/Hviding2005): 143).
 
@@ -4064,7 +4064,7 @@ The banana, _&ast;pudi_ (_Musa_ cultivars), and the breadfruit, _&ast;kuluR_ and
 
 [^19]: Arnaud & Horry use the old section terms Eumusa and Australimusa.
 
-[^20]: The genus Ensete belongs, like _Musa_, to the _Musa_ceae family. Its members have edible roots.
+[^20]: The genus Ensete belongs, like _Musa_, to the Musaceae family. Its members have edible roots.
 
 [^21]: [Ross](../sources/Ross1996d) ([1996d](../sources/Ross1996d): 185) reconstructed a form _&ast;paRa(l,R)_ 'stem, bunch (of bananas)' supported by Wayan _baba_ 'leaf-stalk', Tawala _halana_ 'bunch/hand of bananas' and Bing _parar_ 'stem of/cluster (bananas, betelnut, etc); handle of axe'. The Bing term also means 'axe handle' and in fact reflects widely reflected POc _&ast;paRara_ 'axe handle' (ACD). Tawala _halana_ is at best a borrowed reflex of this term, and perhaps not a reflex at all. Wayan _baba_ is a regular reflex of POc _&ast;baRa-baRa_ ([ch.4, §2.2](../contributions/3-4#s-2-2)).
 
