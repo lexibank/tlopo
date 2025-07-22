@@ -128,6 +128,9 @@ to their physical qualities, temperaments, emotions, desires and evaluations.
     here.
 
 4 Malcolm Ross, Andrew Pawley and Meredith Osmond
+
+Map 2: Geographic limits of historically known Oceanic speakers and of presently documented Lapita sites (after Kirch_1997: 17, 54 and David et al._2011)
+
                                                                                Introduction 5
 
 
@@ -178,7 +181,7 @@ dates from 2012.
 
 
    Several papers predating our project systematically investigated particular semantic
-domains in the lexicon of POc, e.g. Milke (1958), French-Wright (1983), Pawley (1982, 1985),
+domains in the lexicon of POc, e.g. Milke (1958), French-Wright (1983), Pawley (1982a, 1985),
 Pawley & Green (1984), Lichtenberk (1986), Walter (1989), and the various papers in
 Pawley & Ross (1994). Ross (1988) contains a substantial number of new POc lexical
 reconstructions, as well as proposed modifications to the reconstructed POc sound system and
@@ -354,6 +357,9 @@ Sections 1.3.2.2, 1.3.2.3 and 1.3.2.4 offer some commentary on our subgrouping, 
     (Donohue & Grimes 2008, Blust 2009b).
 
 10 Malcolm Ross, Andrew Pawley and Meredith Osmond
+
+Figure 2: Schematic diagram showing the subgrouping of Oceanic Austronesian languages.
+
                                                                                         Introduction 11
 
 
@@ -449,7 +455,7 @@ greatly from each other, but the details of this history are difficult to elucid
     The languages of a linkage have no identifiable exclusively shared parent.Yet we have
 found many instances in which a cognate set is limited to one of the linkages in Figures 1
 and 2: CEMP, Western Oceanic, New Guinea Oceanic, Southern Oceanic or the reintegrated
-North and Central Vanuatu linkage. As with PEOc and Proto Remote Oceanic (§1.3.2.4), we think it is
+North and Central Vanuatu linkage. As with PEOc and PROc (§1.3.2.4), we think it is
 preferable to attribute these reconstructions to a hypothetical protolanguage rather than to a
 higher node in the tree. Hence there are reconstructions labelled PCEMP, PWOc and so on.
 
@@ -464,6 +470,9 @@ higher node in the tree. Hence there are reconstructions labelled PCEMP, PWOc an
 Clark 2009:§1.3). For arguments supporting a NCV grouping, see Clark (2009: ch.4).
 
 Introduction   13
+
+Map 3: Groups of Oceanic languages used in cognate sets
+
 14 Malcolm Ross, Andrew Pawley and Meredith Osmond
 
 
@@ -517,6 +526,9 @@ which Pawley (1996a) lists diagnostic innovations.
      volumes 1 and 2.
 
 Introduction   15
+
+Map 4: Oceanic language groups in northwest Melanesia: The Admiralties and St. Matthias groups and the subgroups of Western Oceanic
+
 16 Malcolm Ross, Andrew Pawley and Meredith Osmond
 
 The strength of a lexical reconstruction rests crucially on the distribution of the supporting
@@ -547,18 +559,18 @@ __block__
 - Eastern Oceanic, comprising SE Solomonic and Remote Oceanic.[17]
 
     If a cognate set occurs in two or all three of the groups in Remote Oceanic, the
-reconstruction is attributed to Proto Remote Oceanic (PROc). If a cognate set occurs in one or
+reconstruction is attributed to PROc (PROc). If a cognate set occurs in one or
 more of the groups in Remote Oceanic and in SE Solomonic, it is attributed to Proto Eastern
 Oceanic (PEOc). In this way we acknowledge that such reconstructions may represent an
 innovation that postdates the spread of the early Oceanic speech community. There are enough
-Proto Remote Oceanic and PEOc reconstructions to suggest that such lexical innovations indeed occurred. This
+PROc and PEOc reconstructions to suggest that such lexical innovations indeed occurred. This
 in turn provides evidence for Remote Oceanic and Eastern Oceanic subgroups, but evidence
 that is too weak to be relied on, for at least two reasons. First, it is quite possible that some of
-our Proto Remote Oceanic and PEOc reconstructions will be promoted to POc as more Admiralty and Western
-Oceanic data become available. Second, it is reasonable to assume that some of our Proto Remote Oceanic and
+our PROc and PEOc reconstructions will be promoted to POc as more Admiralty and Western
+Oceanic data become available. Second, it is reasonable to assume that some of our PROc and
 PEOc etyma are of POc antiquity but happen to have been lost in Proto Admiralty and Proto
 Western Oceanic. Without supporting phonological or morphological evidence we are
-unwilling to treat Proto Remote Oceanic or PEOc as anything other than convenient hypothetical groups which
+unwilling to treat PROc or PEOc as anything other than convenient hypothetical groups which
 allow us to retain conservative criteria for a POc reconstruction.
 
 [15] Bearers of the Lapita culture had settled various parts of the Bismarck Archipelago by around 1400 BC (Specht
@@ -584,7 +596,7 @@ allow us to retain conservative criteria for a POc reconstruction.
     A reconstruction here labelled ‘PROc’ was in volume 1 or 2 labelled ‘PEOc’, but if its
 supporting data include no SE Solomonic reflexes, it has the same status as a PROc
 reconstruction in volumes 3 and 4 and the present volume. Two factors have led to the
-distinction between PEOc and Proto Remote Oceanic in more recent volumes. One is that the historical
+distinction between PEOc and PROc in more recent volumes. One is that the historical
 separateness of SE Solomonic from both Western Oceanic and the groups treated as Remote
 Oceanic has become increasingly clear through recent research (Pawley 2009). The other,
 especially relevant to volume 3, is that the primary biogeographic divide in Oceania is
@@ -704,14 +716,20 @@ __tablenh__
 : Table 2          POc orthographies after Grace (1969) and Ross (1988)
 
 __tablenh__
- Grace     oral grade   *p     —                 *t  *d/*r         *s         *j   *k —
- Ross                   *p    *pʷ                *t    *r          *s         *c   *k *kʷ
- Grace     nasal grade *mp *ŋp/*mpw             *nt *nd/*nr             *nj        *ŋk
- Ross                   *b    *bʷ               *d    *dr                *j        *g
- Grace                  *m *ŋm/*mw              *n    *ñ           *ŋ         *w   *y *l *q *R
- Ross                   *m    *mʷ               *n    *ñ           *ŋ         *w   *y *l *q *R
- Grace                   *i    *o               *e    *a           *u
- Ross                    *i    *o               *e    *a           *u
+ Grace   |  oral grade |  *p |    —      |           *t | *d/*r    |     *s   |      *j  | *k | —
+ Ross    |             |  *p |   *pʷ     |           *t |   *r     |     *s   |      *c  | *k | *kʷ
+
+__tablenh__
+ Grace  |   nasal grade | *mp | *ŋp/*mpw     |        *nt | *nd/*nr       |      *nj   |     *ŋk
+ Ross   |               |  *b |    *bʷ       |        *d  |   *dr         |       *j   |     *g
+
+__tablenh__
+ Grace           |       *m | *ŋm/*mw      |        *n |   *ñ  |         *ŋ   |      *w  | *y | *l | *q | *R
+ Ross            |       *m |    *mʷ       |        *n |   *ñ  |         *ŋ   |      *w  | *y | *l | *q | *R
+
+__tablenh__
+ Grace               |    *i |   *o     |          *e  |  *a    |       *u
+ Ross                |    *i |   *o     |          *e  |  *a    |       *u
 
 
 1.3.4.2 The Proto Austronesian and Proto Malayo-Polynesian antecedents of Proto Oceanic phonology
@@ -751,16 +769,44 @@ f) PMP _*e_, phonetically [ə], became POc _*o_, and the PMP word-final diphthon
 
 : Table 3          Correspondences between PMP and POc protophonemes[20]
 
-__tablenh__
-      PAn                    *p, *b       —        *t, *C      *d, *r     *s, *z *j        *k, *g        —
-      PMP                    *p, *b       —          *t        *d, *r     *s, *z *j        *k, *g        —
-      POc oral grade          *p          *pʷ        *t         *r          *s    *c        *k           *kʷ
-      POc nasal grade         *b          *bʷ        *d         *dr            *j           *g           —
-     PAn           *m        —     *n, *-L[-]     *ñ     *ŋ     *w      *y    *l, *L-    *q     *R       *S
-     PMP           *m        —         *n         *ñ     *ŋ     *w      *y       *l      *q     *R       *h
-     POc           *m       *mʷ          *n       *ñ     *ŋ     *w      *y       *l      *q     *R       *0̷
-      PAn, PMP             *i, *-uy(-)        *e,* -aw           *-ay              *a               *u
-      POc                       *i               *o               *e               *a               *u
+__block__
+<table class="multispan">
+<tr>
+<th>PAn</th><td> </td> <td>_*p_, _*b_</td> <td>—</td> <td>_*t_, _*C_</td> <td>_*d_, _*r_</td> <td>_*s_, _*z_</td> <td>_*j_</td> <td>_*k_, _*g_</td> <td>—</td>
+</tr>
+<tr>
+<th>PMP</th><td> </td> <td class="bgred">_*p_, _*b_</td> <td>—</td> <td>_*t_</td> <td class="bgblue">_*d_, _*r_</td> <td class="bgred">_*s_, _*z_</td> <td>_*j_</td> <td class="bgblue">_*k_, _*g_</td> <td>—</td>
+</tr>
+<tr>
+<th rowspan="2">POc</th><td>oral grade:</td> <td class="bgred">_*p_</td> <td>_*pʷ_</td> <td class="bggreen">_*t_</td> <td class="bgblue">_*r_</td> <td class="bgred">_*s_</td> <td>_*c_</td> <td class="bgblue">_*k_</td> <td>_*kʷ_</td>
+</tr>
+<tr><td>nasal grade:</td> <td class="bgred">_*b_</td> <td>_*bʷ_</td> <td class="bggreen">_*d_</td> <td class="bgblue">_*dr_</td> <td colspan="2" class="bgred">_*j_</td> <td class="bgblue">_*g_</td> <td>—</td>
+</tr>
+</table>
+
+__block__
+<table class="multispan">
+<tr>
+<th>PAn</th><td>_*m_</td><td>—</td><td>_*n_, _*-L(-)_</td><td>_*ñ_ </td> <td>_*ŋ_ </td><td>_*w_</td><td>_*y_</td><td>_*l_, _*L-_</td><td>_*q_</td><td>*_R_</td><td>_*S_</td>
+</tr>
+<tr>
+<th>PMP</th><td>_*m_</td><td>—</td><td>_*n_</td><td>_*ñ_</td><td>_*ŋ_</td><td>_*w_</td><td>_*y_</td><td>_*l_</td><td>_*q_</td><td>*_R_</td><td>_*h_</td>
+</tr>
+<tr>
+<th>POc</th><td>_*m_</td><td>_*mʷ_</td><td>_*n_</td><td>_*ñ_ </td><td>_*ŋ_</td><td>_*w_</td><td>_*y_</td><td>_*l_</td><td>_*q_ </td> <td>*_R_ </td><td>_*∅_</td>
+</tr>
+</table>
+
+
+__block__
+<table class="multispan">
+<tr>
+<th>PAn/PMP</th><td>_*i_, _*-uy(-)_</td><td>_*e_ [ə], _*-aw_</td><td>_*-ay_</td><td>_*a_</td><td>_*u_</td>
+</tr>
+<tr>
+<th>POc</th><td>_*i_</td><td>_*o_</td><td>_*e_</td><td>_*a_</td><td>_*u_</td>
+</tr>
+</table>
 
 The combined effect of (a) and (c) is that each of the PMP pairs _*p_, _*b_ and _*k_, _*g_ first merged
 and then split. As a result, for example, PMP _*p_ became either POc _*p_ or POc _*b_, and the
@@ -768,10 +814,10 @@ same was true of PMP _*b_, giving the kind of crossover seen in the initial cons
 examples:
 
 __tablenh__
-PMP *panas ‘hot, warm’          |          POc *panas
-PMP *punay ‘wild pigeon’        |          POc *bune
-PMP *baqeRuh ‘new’              |          POc *paqoRu
-PMP *beRek ‘pig’                |          POc *boRok ‘domestic pig’.
+PMP _*panas_ ‘hot, warm’          |          POc _*panas_
+PMP _*punay_ ‘wild pigeon’        |          POc _*bune_
+PMP _*baqeRuh_ ‘new’              |          POc _*paqoRu_
+PMP _*beRek_ ‘pig’                |          POc _*boRok_ ‘domestic pig’.
 
 Similarly, either PMP _*k_ or PMP _*g_ could become either POc _*k_ or POc _*g_. For example,
 
@@ -785,10 +831,10 @@ word-medially: PMP _*kamuihu_ (independent 2PL pronoun) > _*kamuyu_ > POc _*kami
 
 
 __tablenh__
-PMP *kuden ‘cooking pot’        |             POc *kuron
-PMP *kabut ‘mist’               |             POc *gabu
-PMP *gapgap ‘stammer’           |             POc *kaka(p)
-PMP *gemgem ‘make a fist        |             POc *gogo(m), *gom-i ‘hold in the fist’
+PMP _*kuden_ ‘cooking pot’        |             POc _*kuron_
+PMP _*kabut_ ‘mist’               |             POc _*gabu_
+PMP _*gapgap_ ‘stammer’           |             POc _*kaka(p)_
+PMP _*gemgem_ ‘make a fist        |             POc _*gogo(m)_, _*gom-i_ ‘hold in the fist’
 
     An innovation that has come to light during work on these volumes concerns certain PMP
 trisyllabic roots with _*-e-_ (*[ə]) as the nucleus of their second syllable. These trisyllables lost _*-e-_
@@ -801,6 +847,7 @@ _*ma-heyaq_ ‘shy, embarrassed; ashamed’, POc _*maya(q)_ (§11.4.2). The cond
 change remains unclear, as it did not affect PMP _*maqesak_, POc _*maosak_ ‘ripe,
 cooked’ (vol.1:157), PMP _*baqeRu_, POc _*paqoRu_ ‘new’ (vol.2:203), PMP _*qateluR_, POc
 _*qatoluR_ ‘egg’ (vol.4:278) or PMP _*qulej-an_, _*quloc-a(n)_ ‘maggoty’ (vol.4:415).[22]
+
 
 1.3.5 Proto Oceanic bound verbal morphology[23]
 
@@ -1027,9 +1074,12 @@ actor argument, the causer, to the verb, as these Boumaa Fijian examples show. T
 ‘learn’ in (a) is an A-verb, so its actor subject is the same as that of the transitive in (b). The
 causative in (c) introduces the causer argument _o Jone_ ‘John’, and the actor becomes its object.
 The object of (b), ‘arithmetic’, is an oblique in both the intransitive of (a) and the causative of
+(c).
+In (d) the verb ʔau ‘take, carry’ is a U-verb, so its subject ‘letter’ in (a) becomes the object of
+the transitive in (b) and of the causative in (c).
 
 __igt__
-(c)  Boumā (Fij)
+Boumā (Fij)
 a. au   sā  vuli  (i-na      fika)
    S:1S ASP learn PREP-ART arithmetic
    ‘I am learning (about arithmetic).’
@@ -1039,12 +1089,6 @@ b. au   sā        vuli-ŋa        a          fika
 c. e     sā     vaʔa-vuli-ŋi   au o          Jone (i-na fika)
    s:3s ASP CAUS-learn-TR O:1S ART John PREP-ART arithmetic
    ‘John is teaching me (arithmetic).’ (Dixon 1988:50)
-
-In (d) the verb ʔau ‘take, carry’ is a U-verb, so its subject ‘letter’ in (a) becomes the object of
-the transitive in (b) and of the causative in (c).
-
-__igt__
-Boumā (Fij)
 d. e     ʔau yane          a     ivola
    s:1s take thither ART letter
    ‘The letter is being taken/sent.’
@@ -1122,11 +1166,11 @@ understanding how these forms came to be present in POc.[30]
 : Table 6 A schematic representation of the English, PMP and POc voice systems (A = actor, U = undergoer, V = verb)
 
 __table__
-                             |  English           |    PMP                  |     POc
-              Transitive     |  active voice      |    undergoer voice      |     transitive
-                             |  ASUBJ V UOBJ      |    V AGENITIVE USUBJ    |     V A SUBJ UOBJ
-              Intransitive   |  passive voice     |    actor voice          |     intransitive
-                             |  U SUBJ V [by A]   |    V A SUBJ [UOBLIQUE]  |     V A SUBJ [UOBLIQUE]
+                | English           |    PMP                  |     POc
+ Transitive     | active voice      |    undergoer voice      |     transitive
+                | A<sub>SUBJ</sub> V U<sub>OBJ</sub> | V A<sub>GENITIVE</sub> U<sub>SUBJ</sub> | V A <sub>SUBJ</sub> U<sub>OBJ</sub>
+ Intransitive   | passive voice     |    actor voice          |     intransitive
+                | U<sub>SUBJ</sub> V [by A] | V A<sub>SUBJ</sub> [U<sub>OBLIQUE</sub>] | V A<sub>SUBJ</sub> [U<sub>OBLIQUE</sub>]
 
     The relevant feature of the PMP system is a contrast between two voices.[31] The English
 voice system distinguishes between a transitive active voice (e.g. _The chicken bit a mango_)
@@ -1153,12 +1197,42 @@ become the default POc forms.
 
 : Table 7 The PMP voice morphology (partial) (√ = verb root)
 
-__table__
-                                  |    independent neutral |   independent perfective | dependent
-      Actor voice or intransitive                       |      *<um>√  |   (*<um-in>√)       |         *√
-      Undergoer voice (patient)                         |      (*√-en) |       *<in>√        |       (*√-a)
-      Undergoer voice (location)                        |       *√-an  |    (*<in>√-an)      |        *√-i
-      Undergoer voice (instrument/beneficiary)          |       (*i-√) |     (*i-<in>√)      |       *√-áni
+__block__
+<table class="multispan">
+<tr>
+<td rowspan="2"></td>
+<td colspan="2">independent</td>
+<td style="vertical-align: middle;" rowspan="2">dependent</td>
+</tr>
+<tr>
+<td>neutral</td>
+<td>perfective</td>
+</tr>
+<tr>
+<td>Actor voice or intransitive</td>
+<td>_*&lt;um>_√</td>
+<td class="bggray">(_*&lt;um-in>_√)</td>
+<td>_*_√</td>
+</tr>
+<tr>
+<td>Undergoer voice (patient)</td>
+<td class="bggray">(*√_-en_)</td>
+<td>_*&lt;in>_√</td>
+<td class="bggray">(*√_-a_)</td>
+</tr>
+<tr>
+<td>Undergoer voice (location)</td>
+<td>*√_-an_</td>
+<td class="bggray">(_*&lt;in>_√_-an_)</td>
+<td>*√_-i_</td>
+</tr>
+<tr>
+<td>Undergoer voice (instrument/beneficiary)</td>
+<td class="bggray">(_*i-_√)</td>
+<td class="bggray">(_*i-&lt;in>_√)</td>
+<td>*√_-áni_</td>
+</tr>
+</table>
 
 [31] A wider-ranging account of the PMP verbal system and its development up to the break-up of POc is
      given in Lynch et al. (2002:57–63).
@@ -1166,8 +1240,8 @@ __table__
 [32] The pseudo-English glosses do not work well, as ‘be-bitten’ is English intransitive passive, whereas the
      PMP verb form was transitive.
 
-[33] All PMP independent undergoer voice forms also functioned as nominalisers, and <in>√, √-an, <in>√-an
-     and i-√ retained this (apparently productive) function in POc. √-en is reflected only as a fossil.
+[33] All PMP independent undergoer voice forms also functioned as nominalisers, and _&lt;in>_√, √_-an_, _&lt;in>_√_-an_
+     and _i_-√ retained this (apparently productive) function in POc. √-_en_ is reflected only as a fossil.
 
 28 Malcolm Ross, Andrew Pawley and Meredith Osmond
 
@@ -1183,106 +1257,301 @@ Malayo-Polynesian languages (Evans 2003:157–170, Ross 2002).
 
     The PMP dependent forms mentioned in the previous paragraph evidently remained
 productive in POc. The evidence suggests that the PMP independent forms that survived
-into POc were restricted in function and that the undergoer voice forms √_-an_ and _*<in>_√
+into POc were restricted in function and that the undergoer voice forms √_-an_ and _*&lt;in>_√
 did not participate in realignment, becoming passives in scattered Oceanic languages.[36]
-Thus in clauses where these forms occurred, the PMP transitive construction V AGENITIVE
-USUBJ noted in Table 6 became V USUBJ. Allomorphs of the PMP actor voice form
-_*<um>_√, meanwhile, survived as a fossil in various POc verbs, listed in Table 8. There
-were several such allomorphs. The infix *<um> itself does not appear in POc forms, with
+Thus in clauses where these forms occurred, the PMP transitive construction V A<sub>GENITIVE</sub>
+U<sub>SUBJ</sub> noted in Table 6 became V U<sub>SUBJ</sub>. Allomorphs of the PMP actor voice form
+_*&lt;um>_√, meanwhile, survived as a fossil in various POc verbs, listed in Table 8. There
+were several such allomorphs. The infix *&lt;um> itself does not appear in POc forms, with
 two possible grey-shaded WOc exceptions. Instead, the survivors are allomorphs that are more
-readily reanalysed as part of the root. With a vowel-initial root, infix *<um> became prefix
-_*[u]m-_, and with a labial-initial root, infix _*<um>_ also became _*m-_ but here replacing the initial
+readily reanalysed as part of the root. With a vowel-initial root, infix *&lt;um> became prefix
+_*[u]m-_, and with a labial-initial root, infix _*&lt;um>_ also became _*m-_ but here replacing the initial
 labial. There is just one example of the latter, at the bottom of Table 8.[37]
 
-: Table 8 POc forms reflecting a fossilised allomorph of the PMP actor voice infix *<um>
+: Table 8 POc forms reflecting a fossilised allomorph of the PMP actor voice infix _*&lt;um>_
 
-__table__
-           Root forms                                 Forms reflecting *<um>
- POc *inum-i- (VT) ‘drink’                    POc  *mʷinum (VI)       < *um-inum                   §4.3.2.1
- PAn *utaq         ‘vomit’                    POc  *mutaq (VI)        < *(u)m-utaq                 §4.4.4
- POc *ase          ‘breathe’                  POc  *mase              < *(u)m-ase                  §4.5.1
- POc ?*(k)asio     ‘sneeze’                   Proto Remote Oceanic *m at(i,u)a
-                                                      w
-                                                                      < *um-at(i,u)a               §4.5.9
- PMP *qaŋa[p,b] ‘gape etc’                    POc  *maŋa(p)           < *q<um>aŋa(p)               §4.5.5
- PMP *hipi         ‘dream’                    POc  *mipi              < *(u)m-ipi                  §4.6.3
- POc *turu-        ‘knee, joint’              PWOc *tudruŋ ‘kneel’ < *t<um>uruŋ                    §6.2.4.2
- POc *k[i,u]su     ‘spit’                     PWOc *kamisu/*kimusu < *k<um>[i,u]su                 §4.4.3
- POc *puni (VI)    ‘hide’                     POc  *muni              < *m-uni                     §7.7.2
+__block__
+<table class="multispan">
+<tr>
+<td colspan="3">Root forms</td>
+<td colspan="3">Forms reflecting _*&lt;um>_</td>
+<td></td>
+</tr>
+<tr>
+<td>POc</td>
+<td>_*inum-i-_ (VT)</td>
+<td>‘drink’</td>
+<td>POc</td>
+<td>_*mʷinum_ (VI)</td>
+<td>&lt; _*um-inum_</td>
+<td>§4.3.2.1</td>
+</tr>
+<tr>
+<td>PAn</td>
+<td>_*utaq_</td>
+<td>‘vomit’ </td>
+<td>POc</td>
+<td>_*mutaq_ (VI) </td>
+<td>&lt; _*(u)m-utaq_</td>
+<td>§4.4.4</td>
+</tr>
+<tr>
+<td>POc</td>
+<td>_*ase_</td>
+<td>‘breathe’</td>
+<td>POc</td>
+<td>_*mase_</td>
+<td>&lt; _*(u)m-ase_</td>
+<td>§4.5.1</td>
+</tr>
+<tr>
+<td>POc</td>
+<td>?_*(k)asio_</td>
+<td>‘sneeze’</td>
+<td>PROc</td>
+<td>_*mʷat(i,u)a_</td>
+<td>&lt; _*um-at(i,u)a_</td>
+<td>§4.5.9</td>
+</tr>
+<tr>
+<td>PMP</td>
+<td>_*qaŋa[p,b]_</td>
+<td>‘gape etc’</td>
+<td>POc</td>
+<td>_*maŋa(p)_</td>
+<td>&lt; _*q&lt;um>aŋa(p)_</td>
+<td>§4.5.5</td>
+</tr>
+<tr>
+<td>PMP</td>
+<td>_*hipi_</td>
+<td> ‘dream’</td>
+<td>POc</td>
+<td>_*mipi_</td>
+<td>&lt; _*(u)m-ipi_</td>
+<td>§4.6.3</td>
+</tr>
+<tr>
+<td class="bggray">POc</td>
+<td class="bggray">_*turu-_</td>
+<td class="bggray">‘knee, joint’ </td>
+<td class="bggray">PWOc</td>
+<td class="bggray">_*tudruŋ_ ‘kneel’</td>
+<td class="bggray">&lt;  _*t&lt;um>uruŋ_</td>
+<td class="bggray">§6.2.4.2</td>
+</tr>
+<tr>
+<td class="bggray">POc</td>
+<td class="bggray">_*k[i,u]su_</td>
+<td class="bggray">‘spit’</td>
+<td class="bggray">PWOc</td>
+<td class="bggray">_*kamisu_/_*kimusu_</td>
+<td class="bggray">&lt; _*k&lt;um>[i,u]su_</td>
+<td class="bggray">§4.4.3</td>
+</tr>
+<tr>
+<td>POc</td>
+<td>_*puni_ (VI)</td>
+<td>‘hide’</td>
+<td>POc</td>
+<td>_*muni_</td>
+<td>&lt; _*m-uni_</td>
+<td>§7.7.2</td>
+</tr>
+</table>
 
-[34] Wolff (1973) and others since have reconstructed the PAn/PMP suffix as *-án, reflected in Puyuma and
-     Paiwan (both Formosan) and in Philippine languages, but PMP *-án-i can be reconstructed with
+
+[34] Wolff (1973) and others since have reconstructed the PAn/PMP suffix as _*-án_, reflected in Puyuma and
+     Paiwan (both Formosan) and in Philippine languages, but PMP _*-án-i_ can be reconstructed with
      confidence, as it is reflected in Tsou, Saaroa, Saisiyat, Atayal and Seediq (all Formosan) and in Oceanic
-     languages. There is also paradigmatic evidence for *-án-i (Ross 2009:300–301).
+     languages. There is also paradigmatic evidence for _*-án-i_ (Ross 2009:300–301).
 
-[35] Reflexes of POc *-ani are found in the Admiralties languages Lou, Titan, Kele, Loniu and Nyindrou and
+[35] Reflexes of POc _*-ani_ are found in the Admiralties languages Lou, Titan, Kele, Loniu and Nyindrou and
      in Meso-Melanesian languages of New Ireland Tigak, Kara, Tabar, Lihir, Barok, Patpatar and Tolai.
 
-[36] Passives reflecting an allomorph of *<in> are found in Bola (MM), Nakanai (MM), and Natügu (TM)
-     (van den Berg & Boerger 2011). Passives reflecting *-an occur in Bali-Vitu (MM) (van den Berg 2007),
+[36] Passives reflecting an allomorph of _*&lt;in>_ are found in Bola (MM), Nakanai (MM), and Natügu (TM)
+     (van den Berg & Boerger 2011). Passives reflecting _*-an_ occur in Bali-Vitu (MM) (van den Berg 2007),
      Kara (MM) (Schlie 1984, Dryer 2013), Raga (NCV) (Walsh 1966, Crowley 2002c), Abma (NCV)
      (Schneider 2010:56–57, 2011).
 
-[37] POc *muni may reflect *N + puni (§1.3.5.6) rather than *m-uni.
+[37] POc _*muni_ may reflect _*N_ + _puni_ (§1.3.5.6) rather than _*m-uni_.
 
                                                                                        Introduction 29
 
-: Table 9          POc forms reflecting fossilised PMP perfective infix *<in>
+: Table 9          POc forms reflecting fossilised PMP perfective infix _*&lt;in>_
 
-__table__
-           Root forms                                       Forms reflecting *<in>
- PMP *hipi         ‘dream’                     POc        *nipi            < *in-ipi           §4.6.3
- POc *k[i,u]su     ‘spit’                      POc        *kanisu          < *k<in>[i,u]su     §4.4.3
+__block__
+<table class="multispan">
+<tr>
+<td colspan="3">Root forms</td>
+<td colspan="3">Forms reflecting _*&lt;in>_</td>
+<td></td>
+</tr>
+<tr>
+<td>PMP</td>
+<td>_*hipi_</td>
+<td>‘dream’</td>
+<td>POc</td>
+<td>_*nipi_</td>
+<td>&lt; _*in-ipi_</td>
+<td>§4.6.3</td>
+</tr>
+<tr>
+<td>POc</td>
+<td>_*k[i,u]su_</td>
+<td>‘spit’</td>
+<td>POc</td>
+<td>_*kanisu_</td>
+<td>&lt; _*k&lt;in>[i,u]su_</td>
+<td>§4.4.3</td>
+</tr>
+</table>
 
-   Not surprisingly, the perfective infix *<in> occurs less often in lexicalised forms. The two
+   Not surprisingly, the perfective infix _*&lt;in>_ occurs less often in lexicalised forms. The two
 possible cases are shown in Table 9, neither of them entirely convincing.
 
 1.3.5.6 Malayo-Polynesian fossils: verbal derivations
 
 PMP also had certain derivational prefixes that were attached to roots to form stems to which
-the voice morphology of Table 7 then applied. Two of these, *ka- and *paN-, play a significant
+the voice morphology of Table 7 then applied. Two of these, _*ka-_ and _*paN-_, play a significant
 role in POc reconstruction.
 
     The POc detransitivising morpheme *ma-, at least in its stative function (§1.3.5.4),
-reflected an ancient (pre-PAn) combination of *<um> intransitive + *ka- stative. As a result
-POc has occasional *ka-/*ma- alternants, e.g. POc *ka-(r,R)aŋo ‘be dry, be low tide’ vs
-*[ma]Raŋo ‘become withered’ (vol.2:220) and POc *ka-uRi- vs POc *ma-wiRi, both ‘left-
+reflected an ancient (pre-PAn) combination of _*&lt;um>_ intransitive + _*ka-_ stative. As a result
+POc has occasional _*ka-_/_*ma-_ alternants, e.g. POc _*ka-(r,R)aŋo_ ‘be dry, be low tide’ vs
+_*[ma]Raŋo_ ‘become withered’ (vol.2:220) and POc _*ka-uRi-_ vs POc _*ma-wiRi_, both ‘left-
 hand, be on the left; left side or direction’ (§3.6.3).
 
-: Table 10         POc forms reflecting a fossilised PMP *paN-, *N- or *maN-
+: Table 10         POc forms reflecting a fossilised PMP _*paN-_, _*N-_ or _*maN-_
 
-__table__
-          Root forms                                    Forms reflecting *paN-
- POc *kani (VT)   ‘eat’                       POc        *paŋan (VI)                  §4.3.1.1
- PMP *qaŋa[p,b] ‘gape etc’                    POc        *paŋaŋap                     §4.5.5
- PMP *takaw       ‘steal’                     POc        *panako                      Ross 1988:41–42
- POc *roŋoR       ‘hear’                      POc        *panoŋoR                     Geraghty 2010
-                                                                                      vol.4:438; Ger-
- PMP *qetaq                ‘eat raw’          POc        *paŋoda ‘gather shellfish’
-                                                                                      aghty 2010
-                 Root forms                  Forms reflecting *N-
- POc       *sop-i        ‘suck’        POc    *ño-ñop                                 §4.3.2.2
- POc       *k[i,u]su     ‘spit’        PWOc *ŋ[i,u]su                                 §4.4.3
- POc       *tari         ‘wait’        Motu    nari                                   §7.7.1
-                 Root forms                 Forms reflecting *maN-
- PMP       *qinit        ‘heat, warmth POc    *maŋini(t) ‘become warm’                §4.8.2
- POc       *[ma]raqu ‘be thirsty’      POc    *madraqu                                §4.3.3.2
- POc *ma-ridri(ŋ) ‘(s.o.) be cold’ POc                   *madridriŋ                   §4.8.1
- PAn       *diRi           ‘stand’            POc        *madriRi                     §6.2.2
+__block__
+<table class="multispan">
+<tr>
+<td colspan="3">Root forms</td>
+<td colspan="2">Forms reflecting _*paN-_</td>
+<td></td>
+</tr>
+<tr>
+<td>POc</td>
+<td>_*kani_ (VT)</td>
+<td>‘eat’</td>
+<td>POc</td>
+<td>_*paŋan_ (VI)</td>
+<td>§4.3.1.1</td>
+</tr>
+<tr>
+<td>PMP</td>
+<td>_*qaŋa[p,b]_</td>
+<td>‘gape etc’</td>
+<td>POc</td>
+<td>_*paŋaŋap_</td>
+<td>§4.5.5</td>
+</tr>
+<tr>
+<td>PMP</td>
+<td>_*takaw_</td>
+<td>‘steal’</td>
+<td>POc</td>
+<td>_*panako_</td>
+<td>Ross 1988:41–42</td>
+</tr>
+<tr>
+<td>POc</td>
+<td>_*roŋoR_</td>
+<td>‘hear’</td>
+<td>POc</td>
+<td>_*panoŋoR_</td>
+<td>Geraghty 2010</td>
+</tr>
+<tr>
+<td>PMP</td>
+<td>_*qetaq_</td>
+<td>‘eat raw’</td>
+<td>POc</td>
+<td>_*paŋoda_ ‘gather shellfish’</td>
+<td>vol.4:438; Geraghty 2010</td>
+</tr>
+<tr>
+<td colspan="3">Root forms</td>
+<td colspan="2">Forms reflecting _*N-_</td>
+<td></td>
+</tr>
+<tr>
+<td>POc</td>
+<td>_*sop-i_</td>
+<td>‘suck’</td>
+<td>POc</td>
+<td>_*ño-ñop_</td>
+<td>§4.3.2.2</td>
+</tr>
+<tr>
+<td>POc</td>
+<td>_*k[i,u]su_</td>
+<td>‘spit’</td>
+<td>PWOc</td>
+<td>_*ŋ[i,u]su_</td>
+<td>§4.4.3</td>
+</tr>
+<tr>
+<td>POc</td>
+<td>_*tari_</td>
+<td>‘wait’</td>
+<td>Motu</td>
+<td>_nari_</td>
+<td>§7.7.1</td>
+</tr>
+<tr>
+<td colspan="3">Root forms</td>
+<td colspan="2">Forms reflecting _*maN-_</td>
+<td></td>
+</tr>
+<tr>
+<td>PMP</td>
+<td>_*qinit_</td>
+<td>‘heat, warmth’</td>
+<td>POc</td>
+<td>_*maŋini(t)_ ‘become warm’</td>
+<td>§4.8.2</td>
+</tr>
+<tr>
+<td>POc</td>
+<td>_*[ma]raqu_</td>
+<td>‘be thirsty’</td>
+<td>POc</td>
+<td>_*madraqu_</td>
+<td>§4.3.3.2</td>
+</tr>
+<tr>
+<td>POc</td>
+<td>_*ma-ridri(ŋ)_</td>
+<td>‘(s.o.) be cold’</td>
+<td>POc</td>
+<td>_*madridriŋ_</td>
+<td>§4.8.1</td>
+</tr>
+<tr>
+<td>PAn</td>
+<td>_*diRi_</td>
+<td>‘stand’</td>
+<td>POc</td>
+<td>_*madriRi_</td>
+<td>§6.2.2</td>
+</tr>
+</table>
 
 30 Malcolm Ross, Andrew Pawley and Meredith Osmond
 
 
-    More widely reflected is the PMP verb-deriving prefix *paN- and its allomorph *N-. Its
+    More widely reflected is the PMP verb-deriving prefix _*paN-_ and its allomorph _*N-_. Its
 history and function are unclear, other than that it formed dynamic verbs. It is barely present in
-Formosan languages, but ubiquitous in conservative Malayo-Polynesian languages.[39] The *N
+Formosan languages, but ubiquitous in conservative Malayo-Polynesian languages.[39] The _*N_
 symbol here indicates a process that replaces a root-initial voiceless obstruent with a
-homorganic nasal, and places a homorganic nasal before a voiced obstruent and *-ŋ- before a
-root-initial vowel (Blust 2004). Reflexes of both *paN- and *N- occur in POc, with no
-discernible conditioning or difference in function. Systemically, a PMP stem with *paN- or
-*N- occupied the dependent actor-voice slot in Table 7, i.e. the slot from which POc
-intransitives were derived. The corresponding PMP independent actor-voice form was *maN-,
-which, like *<um>, is rarely reflected in POc. Reconstructed POc verbs that include these
+homorganic nasal, and places a homorganic nasal before a voiced obstruent and _*-ŋ-_ before a
+root-initial vowel (Blust 2004). Reflexes of both _*paN-_ and _*N-_ occur in POc, with no
+discernible conditioning or difference in function. Systemically, a PMP stem with _*paN-_ or
+_*N-_ occupied the dependent actor-voice slot in Table 7, i.e. the slot from which POc
+intransitives were derived. The corresponding PMP independent actor-voice form was _*maN-_,
+which, like _*&lt;um>_, is rarely reflected in POc. Reconstructed POc verbs that include these
 morphemes are shown in Table 10.
 
 
@@ -1295,11 +1564,11 @@ Generally, each contribution begins with an introduction to the issues raised by
 reconstruction of its particular terminology, and the bulk of each contribution consists of
 reconstructed etyma with supporting data and a commentary on matters of meaning and form.
 
-    The reconstruction of POc *[ma]saki(t) (v) ‘be in pain, sick’; (N) ‘sickness’ below, adapted
+    The reconstruction of POc _*[ma]saki(t)_ (v) ‘be in pain, sick’; (N) ‘sickness’ below, adapted
 from Chapter 5, shows how reconstructions and supporting cognate sets are presented. Above
 it is a superordinate (PMP) reconstruction drawn from Blust’s Austronesian Comparative
 Dictionary (ACD; see §1.2). Below it are supporting reflexes. Chapters vary in the degree to
-which lower-order reconstructions like PSV *a-misa below are included. Lower-order
+which lower-order reconstructions like PSV _*a-misa_ below are included. Lower-order
 reconstructions are sometimes given to clarify the relationship of reflexes to the higher-order
 reconstruction: Southern Vanuatu languages, for example, have undergone so much
 phonological change that a Proto Southern Vanuatu reconstruction helps explicate the
@@ -1307,42 +1576,41 @@ relationship between Southern Vanuatu reflexes and the POc reconstruction. Somet
 lower-order reconstruction displays an extension of meaning or some other semantic change.
 
 __tablenh__
-PMP | *masakit | ‘be in pain, be sick’ (ACD)
-POc | *[ma]sakit  | (V) ‘be in pain, sick’; (N) ‘sickness’
- NNG: Gitua          |      mazai         |      ‘sick’
- NNG: Kaulong        |      sahi          |      ‘sick, sickness’
- NNG: Mapos Buang    |  rak               |           ‘sick’
- NNG: Sengseng       |      sahi          |      ‘sick’ (h reflects *g)
- MM: Vitu            |      maðaɣi        |      ‘sick’
- MM: Tigak           |      masak         |      ‘be in painʼ
- MM: Tolai           |      maki          |      (N) ‘pain, ache’; (VI) ‘to ache, be sore’
- SES: Gela           |      (va)haɣi      |      ‘be in pain; be ill, have malariaʼ
- SES: Talise         |      masaɣe        |      ‘sick’
-  SES: Tolo          |     masahe         |    ‘sick, ill; illness, disease’
-  SES: Kwaio         |     mataʔi         |    ‘fever, malaria’
-  SES: To’aba’ita    |     mataʔi         |    (VI) ‘be sick’
-  SES: Arosi         |     (mara)mataʔi   |    ‘to feel malaria coming on’
-  SES: Arosi         |     mataʔi         |    ‘to have fever, malaria, be feverish’
-  SES: Sa’a          |     mataʔi         |    (VI) ‘malaria, to have malaria’
-  NCV: Dorig         |     msāɣ           |    ‘fever’
-  NCV: Unua          |     mesaxit        |    ‘sick’
-PSV | *a-misa | ‘sick, be in pain’ (Lynch 2001) (vowel metathesis)
-  SV: Lenakel        |     a-mha       |       ‘be sick, in pain’
-  SV: Kwamera        |     a-misa      |       ‘be sick, in pain’
-  SV: Anejom         |     e-mθa       |       ‘be sick, in pain’
-  Mic: Ponapean      |     metek       |       ‘be painful’
-  Mic: Woleaian      |     metax       |       ‘sick, sickness, in pain’
-  Pn:   Tongan       |     mahaki      |       ‘sickness, disease, ailment’ (first element in many compounds) [40]
-  Pn:   Rennellese   |     masaki      |       ‘sickness’ (first element in many compounds) [41]
-  Pn:   Samoan       |     maʔi        |       ‘be sick; fall ill’ (first element in many com- pounds)
-  Pn:   Tuvaluan     |     mahaki      |       ‘illness’
-  Pn:   Maori        |     mahaki      |       ‘ill; sick person; cutaneous disease’
+__PMP__ | _*masakit_ | ‘be in pain, be sick’ (ACD)
+__POc__ | _*[ma]sakit_  | (V) ‘be in pain, sick’; (N) ‘sickness’
+ NNG: Gitua          |      _mazai_         |      ‘sick’
+ NNG: Kaulong        |      _sahi_          |      ‘sick, sickness’
+ NNG: Mapos Buang    |  _rak_               |           ‘sick’
+ NNG: Sengseng       |      _sahi_          |      ‘sick’ (h reflects *g)
+ MM: Vitu            |      _maðaɣi_        |      ‘sick’
+ MM: Tigak           |      _masak_         |      ‘be in painʼ
+ MM: Tolai           |      _maki_          |      (N) ‘pain, ache’; (VI) ‘to ache, be sore’
+ SES: Gela           |      _(va)haɣi_      |      ‘be in pain; be ill, have malariaʼ
+ SES: Talise         |      _masaɣe_        |      ‘sick’
+  SES: Tolo          |     _masahe_         |    ‘sick, ill; illness, disease’
+  SES: Kwaio         |     _mataʔi_         |    ‘fever, malaria’
+  SES: To’aba’ita    |     _mataʔi_         |    (VI) ‘be sick’
+  SES: Arosi         |     _(mara)mataʔi_   |    ‘to feel malaria coming on’
+  SES: Arosi         |     _mataʔi_         |    ‘to have fever, malaria, be feverish’
+  SES: Sa’a          |     _mataʔi_         |    (VI) ‘malaria, to have malaria’
+  NCV: Dorig         |     _msāɣ_           |    ‘fever’
+  NCV: Unua          |     _mesaxit_        |    ‘sick’
+__PSV__ | _*a-misa_ | ‘sick, be in pain’ (Lynch 2001) (vowel metathesis)
+  SV: Lenakel        |     _a-mha_       |       ‘be sick, in pain’
+  SV: Kwamera        |     _a-misa_      |       ‘be sick, in pain’
+  SV: Anejom         |     _e-mθa_       |       ‘be sick, in pain’
+  Mic: Ponapean      |     _metek_       |       ‘be painful’
+  Mic: Woleaian      |     _metax_       |       ‘sick, sickness, in pain’
+  Pn:   Tongan       |     _mahaki_      |       ‘sickness, disease, ailment’ (first element in many compounds) [40]
+  Pn:   Rennellese   |     _masaki_      |       ‘sickness’ (first element in many compounds) [41]
+  Pn:   Samoan       |     _maʔi_        |       ‘be sick; fall ill’ (first element in many com- pounds)
+  Pn:   Tuvaluan     |     _mahaki_      |       ‘illness’
+  Pn:   Maori        |     _mahaki_      |       ‘ill; sick person; cutaneous disease’
 
 [39] Kaufman (2009) suggests that a trigger for its proliferation was the ambiguity of multifunctional PMP
-     *ma-, which occurred on both stative and dynamic verbs.
+     _*ma-_, which occurred on both stative and dynamic verbs.
 
                                                                                   Introduction 31
-
 
 
 Because our supporting data are drawn from such a wide range of languages, the convention is
@@ -1358,7 +1626,7 @@ number of etyma whose reflexes are confined to North and Central Vanuatu, and so
 continue to include ‘Proto North/Central Vanuatu’ reconstructions, even though these perhaps
 represent a Southern Oceanic term that has been lost in southern Vanuatu and New Caledonia.
 Where the distribution of reflexes requires it, the chapters in this volume include
-reconstructions for Proto Remote Oceanic and for PSOc. Etyma with these distributions were attributed to
+reconstructions for PROc and for PSOc. Etyma with these distributions were attributed to
 PEOc in volumes 1 and 2, but the distributions are transparent, thanks to the presence of the
 group labels in cognate sets.
 
@@ -1368,10 +1636,10 @@ why we have made them. Where a reconstruction is not new, we have tried to give 
 source, e.g. ‘ACD’ above, but this is difficult when earlier reconstructions differ in form and
 meaning.
 
-[40] e.g. mahaki-kili ‘skin disease’, mahaki-mata ‘eye disease’, mahaki hela ‘asthma’, mahaki moa
+[40] e.g. _mahaki-kili_ ‘skin disease’, _mahaki-mata_ ‘eye disease’, _mahaki hela_ ‘asthma’, _mahaki moa_
      ‘epilepsy, be epileptic’.
 
-[41] e.g. masaki tinaʔe ‘stomach ache, masaki tuʔa ‘backache’, masaki niho ‘toothache’, masaki ɣotoi
+[41] e.g. _masaki tinaʔe_ ‘stomach ache, _masaki tuʔa_ ‘backache’, _masaki niho_ ‘toothache’, _masaki ɣotoi_
      ‘epilepsy; flinching sickness’.
 
 32 Malcolm Ross, Andrew Pawley and Meredith Osmond
@@ -1395,7 +1663,7 @@ __tablenh__
     Pn:     |     Polynesian
 
     In general, the contributions to these volumes are concerned with items reconstructable in
-POc, PWOc, PEOc, Proto Remote Oceanic and occasionally Proto New Guinea Oceanic (PNGOc). Etyma for
+POc, PWOc, PEOc, PROc and occasionally Proto New Guinea Oceanic (PNGOc). Etyma for
 PWOc, PNGOc and PEOc are reconstructed because these may well also be POc etyma for
 which known reflexes are not well distributed (see discussion in §1.3.2.4). Reconstructions for
 lower-order interstages are decreasingly likely to reflect POc etyma and may be the results of
@@ -1511,7 +1779,7 @@ interstages the orthographies are those used by Blust in his various publication
 Reconstructions at lower-order interstages are given in the standard orthography used for data
 (§4.2). Geraghty’s (1986) PCP orthography, for example, based on Standard Fijian spelling, is
 converted into our standard orthography in the same way as Fijian spelling is. In practice, this
-means that the orthographies for PEOc, Proto Remote Oceanic and PCP are the same as for POc, except that a
+means that the orthographies for PEOc, PROc and PCP are the same as for POc, except that a
 distinction between _*p_ and _*v_ is recognised and _*R_ is generally absent from PCP.[43] Biggs and
 Clark’s PPn reconstructions are in any case written in an orthography identical to our standard.
 Bracketing and segmentation conventions in protoforms are shown in Table 12.
@@ -1584,7 +1852,7 @@ quite ‘fit’ the set: they display unexplained phonological irregularities or
 little too different from the rest of the set for us to assume cognacy. Rather than eliminate them
 we often include them below the cognate set under the rubric ‘cf. also’.
 
-[44] Another convention sometimes used for this purpose is a double asterisk, e.g. **tau: we prefer the
+[44] Another convention sometimes used for this purpose is a double asterisk, e.g. _**tau_: we prefer the
      dagger on aesthetic grounds.
 
 36 Malcolm Ross, Andrew Pawley and Meredith Osmond
@@ -1647,11 +1915,11 @@ old’ (Lichtenberk 2008).
 There are five POc reconstructions whose reflexes suggest a meaning ‘person’ (Pawley 1985):
 
 __block__
--     _*tau_ ‘person in any form, including ghosts and supernatural person-like beings’
--     _*tamʷataq ‘living person’ (contrasting with _*tau-mate_ ‘dead person’)
--     _*qata_ ‘person’
--     _*tinoni_ ‘person, people’
--     _*(k,kʷ)a(i)-_ ‘person’
+- _*tau_ ‘person in any form, including ghosts and supernatural person-like beings’
+- _*tamʷataq ‘living person’ (contrasting with _*tau-mate_ ‘dead person’)
+- _*qata_ ‘person’
+- _*tinoni_ ‘person, people’
+- _*(k,kʷ)a(i)-_ ‘person’
 
 Reflexes of these terms show differences in geographical distribution. Languages of the
 Southeast and Northwest Solomons reflect _*tinoni_ ‘person, people’ (this distribution may be
@@ -1665,9 +1933,9 @@ _*qata_. POc _*tau-_ and _*qata-_ are also frequently used in compounds.
 Reflexes of POc _*tau_ occur in three structural contexts:
 
 __block__
--     as an independent lexical item, typically meaning ‘man’ or ‘person’ (§2.2.1.1);
--     as the first item of a compound (§2.2.1.2);
--     as the root of a pronominal form (§2.2.1.3).
+- as an independent lexical item, typically meaning ‘man’ or ‘person’ (§2.2.1.1);
+- as the first item of a compound (§2.2.1.2);
+- as the root of a pronominal form (§2.2.1.3).
 
 The evidence for each of these is discussed below.
 
@@ -1900,14 +2168,14 @@ with the default alienable possession classifier, Sinaugoro _ɣe-_ and Babatana 
 second-person free pronouns, but replaces first- and third-person pronouns with the emphatics.
 
 __table__
-              |   | PWOc  |  Yabem (NNG)  |  Bunama (PT) | Dawawa (PT) |  Sinaugoro (PT) | Babatana (MM)
-Singular| 1       |   *tau-gu  | tau-ʔ    |    tau-gu  | tau-gu  |    tau-ɣe-gu   | ta-na-gu
-        | 2       |   *tau-mu  | taʊ-m    |      oa    |   ta-m  |      tau-ɣe-mu |   ta-na-mu
-        | 3       |   *tau-ña  | tau-∅0   |     tau-na |  tau-n  |     tau-ɣe-na  |  ta-ni
-Plural  |   1EXC  |   *tau-ma  |    tau-ŋ |    tau-ma  | tau-ma  |    tau-ɣe-ma   | ta-na-mami
-        |   1INC  |   *tau-da  |    tau-ŋ |    tau-da  | tau-da  |    tau-ɣe-ra   | ta-na-dia
-        |   2     |   *tau-mi  |    taʊ-m |    omi     | tau-mi  |    tau-ɣe-mi   | ta-na-mina
-        |   3     |   *tau-dri |    tau-ŋ |    tau-di  | tau-di  |    tau-ɣe-ri   | ta-na-dira
+              |   | PWOc  |  Yabem (NNG) |  Bunama (PT) | Dawawa (PT) |  Sinaugoro (PT) | Babatana (MM)
+Singular| 1       |   _*tau-gu_  | _tau-ʔ_   |  _tau-gu_  | _tau-gu_  |    _tau-ɣe-gu_   | _ta-na-gu_
+        | 2       |   _*tau-mu_  | _taʊ-m_   |  _oa_      | _ta-m_    |    _tau-ɣe-mu_   | _ta-na-mu_
+        | 3       |   _*tau-ña_  | _tau-∅_  |  _tau-na_  | _tau-n_   |    _tau-ɣe-na_   | _ta-ni_
+Plural  |   1EXC  |   _*tau-ma_  | _tau-ŋ_   |  _tau-ma_  | _tau-ma_  |    _tau-ɣe-ma_   | _ta-na-mami_
+        |   1INC  |   _*tau-da_  | _tau-ŋ_   |  _tau-da_  | _tau-da_  |    _tau-ɣe-ra_   | _ta-na-dia_
+        |   2     |   _*tau-mi_  | _taʊ-m_   |  _omi_     | _tau-mi_  |    _tau-ɣe-mi_   | _ta-na-mina_
+        |   3     |   _*tau-dri_ | _tau-ŋ_   |  _tau-di_  | _tau-di_  |    _tau-ɣe-ri_   | _ta-na-dira_
 
 
 2.2.2 POc _*tamʷataq_ ‘living person’ and POc _*tau-mate_ ‘dead person’
@@ -2011,7 +2279,7 @@ compounds.
 
 2.2.3.1 Unbound reflexes of POc _*qata_ ‘person’
 
-In a 1972b note, repeated in the ACD, Blust reconstructs PMP _*qaRta_ with the meaning
+In a note, repeated in the ACD, Blust (1972b) reconstructs PMP _*qaRta_ with the meaning
 ‘outsiders, alien people’. He lists reflexes that include terms of self-designation from Negrito
 people in Northern Luzon, terms meaning ‘slave’ in a geographically restricted area from the
 southern Philippines to the Lesser Sundas, and a wide but discontinuous set of terms from
@@ -2089,12 +2357,12 @@ reflected even in Micronesian languages where there has been substantial phonolo
 change. Prefixed _*qata-_, on the other hand, is reflected as _ta-_ when it loses its first syllable, as
 it often does.
 
-    Most of the following are restricted to a local group of languages. Only Proto Remote Oceanic
+    Most of the following are restricted to a local group of languages. Only PROc
 _*[qa]ta-maquri_ ‘living person’ (_*maqurip_ ‘be alive’; §4.2.1.1) spans a large piece of Oceania, but it
 has few reflexes and may reflect parallel innovations.
 
 <
-Proto Remote Oceanic *[qa]ta-maquri ‘living person’
+PROc *[qa]ta-maquri ‘living person’
   NCV: Mota             tamaur                 ‘man alive’ (cf. _tamate_ ‘man dead’)
   NCV: Nguna            na-tamʷoli             ‘human being’
   NCV: S Efate          n-atamwol              ‘person’ (_mʷol_ ‘be alive’)
@@ -2510,7 +2778,7 @@ POc *papine ‘woman, female; sister of man’ (Milke 1958)
  Pn:  Tikopia          fafine           ‘woman’
 >
 
-[6] Oceanic forms are derived from PMP _*b<in>ahi_, a form of the root _*bahi_ infixed with _*<in>_ PERFECTIVE.
+[6] Oceanic forms are derived from PMP _*b&lt;in>ahi_, a form of the root _*bahi_ infixed with _*&lt;in>_ PERFECTIVE.
 
                                                                             People 55
 
@@ -5454,7 +5722,7 @@ be derived from human body part terms (cf. POc _*bʷal(o,a)-_ ‘belly, inside�
 _*baba[R,l]i-_ is indeed a doublet, created through contamination by POc _*baban_ ‘flat, board,
 plank of boat’ (vol.1:185–186) because of its reference to a bone with a flat surface. Reflexes of
 POc _*baban_ are sometimes used in this sense (cf. To’aba’ita _baba-leqo_, Maori _papa-āhuahua_,
-both ‘shoulder blade’), and it is possible that Proto Eastern Polynesian _*papa-ariŋa_ ‘cheek’
+both ‘shoulder blade’), and it is possible that PEPn _*papa-ariŋa_ ‘cheek’
 reflects such a compound.[20]
 
 <
@@ -5500,7 +5768,7 @@ Proto Central/Eastern Polynesian *papa-ariŋa ‘cheek’ (POLLEX) (PPn _*papa_ 
    Pn:  Hawaiian         papālina         ‘cheek’ (_lina_ ‘soft’?)
 >
 
-[20] The meaning of Proto Eastern Polynesian _*-ariŋa_ is unknown, but note NNG: Bukawa _aliŋ ando_ ‘cheek’.
+[20] The meaning of PEPn _*-ariŋa_ is unknown, but note NNG: Bukawa _aliŋ ando_ ‘cheek’.
 
                                                                        The human body 117
 
@@ -6146,13 +6414,13 @@ PPn *awa ‘channel, passage through reef’[22]
 
    Finally, some Oceanic languages have a term for ‘mouth’ that reflects POc _*maŋa(p)_
 (V) ‘to open wide, gape’, (N) ‘open mouth; gap, space’. The supporting cognate set is
-given in §4.5.5. POc _*maŋa(p)_ in its turn reflected PMP _*q<um>aŋa[p,b]_ ‘gape, open
-the mouth wide’ (where _*<um>_ was the PMP actor voice infix; §1.3.5.5). Blust (ACD)
+given in §4.5.5. POc _*maŋa(p)_ in its turn reflected PMP _*q&lt;um>aŋa[p,b]_ ‘gape, open
+the mouth wide’ (where _*&lt;um>_ was the PMP actor voice infix; §1.3.5.5). Blust (ACD)
 attributes two of these reflexes, Arosi _maŋa_ ‘an opening, mouth’ and Bauan Fijian
 _maŋa_ ‘vagina’, to PMP _*maŋaq_ ‘slit, crevice’ (ACD). However, the glosses of the set
 of Oceanic reflexes in §4.5.5 include a range of meanings centring on ‘opening, aperture’
 (‘mouth’, ‘vagina’, ‘space between earth and sky’), pointing to a more probable
-origin in PMP _*q<um>aŋa[p,b]_ rather than PMP _*maŋaq_. But, since the two PMP
+origin in PMP _*q&lt;um>aŋa[p,b]_ rather than PMP _*maŋaq_. But, since the two PMP
 terms would have had near-identical POc reflexes, one could argue that the cognate
 set supporting POc _*maŋa(p)_ reflects a conflation of the two terms.
 
@@ -7074,7 +7342,7 @@ cf. also:
 ‘ribs, flank, side (of a canoe), upper side of person’. Despite their formal similarity, the
 evidence indicates two unrelated terms with very similar meanings. PPn _*kaso-kaso_ is almost
 certainly derived from POc _*kaso_ ‘rafter’ (vol.1:53). If Mwotlap (NCV) _na-ɣaɣah_ ‘ribs’ is
-cognate, then the term is of Proto Remote Oceanic antiquity.
+cognate, then the term is of PROc antiquity.
 
 <
 PPn *kaso-kaso ‘ribs, upper side’
@@ -7448,11 +7716,11 @@ POc **buso- ‘navel, umbilical cord’ (Milke 1965: PNGOc)
 
 3.5.11 Lower abdomen
 
-There are Proto Remote Oceanic and PPn terms for the lower abdomen, below the navel, but single words for
+There are PROc and PPn terms for the lower abdomen, below the navel, but single words for
 this part of the body have not been found further west.
 
 <
-Proto Remote Oceanic *kona- ‘lower abdomen’
+PROc *kona- ‘lower abdomen’
   NCV: NE Ambae        (taku)hona-                     ‘gall bladder’ (_taku_ ‘behind’)
   Fij:  Rotuman        ʔona-                           ‘lower part of abdomen’
 >
@@ -7539,7 +7807,7 @@ POc *buru ‘buttocks’
 POc _*kʷala-_ denoted the male genitals.
 
 <
-POc *kʷala- ‘male genitals’ (Ozanne-Rivierre 1995:65: Proto Remote Oceanic _*kala-_ ‘male genitals’; (V) ‘beget’)[32]
+POc *kʷala- ‘male genitals’ (Ozanne-Rivierre 1995:65: PROc _*kala-_ ‘male genitals’; (V) ‘beget’)[32]
  MM: Nehan              kolo              ‘testicles’
  MM: Halia              kol               ‘testicles’
  Fij:    Bauan          gala              ‘scrotum’
@@ -7552,7 +7820,7 @@ POc *kʷala- ‘male genitals’ (Ozanne-Rivierre 1995:65: Proto Remote Oceanic 
 
 POc _*quti-_ ‘penis’ continues a PAn etymon, and is widely reflected in Oceanic. However, it is
 not reflected in Micronesian or Polynesian languages and has been replaced throughout
-Polynesia and parts of Micronesia by reflexes of Proto Remote Oceanic _*ule-_ ‘penis’.
+Polynesia and parts of Micronesia by reflexes of PROc _*ule-_ ‘penis’.
 
 <
 PAn *qutiL ‘penis’ (ACD)
@@ -7595,7 +7863,7 @@ POc *quti- ‘penis’
 
 
 <
-Proto Remote Oceanic *ule- ‘penis’ (ACD)
+PROc *ule- ‘penis’ (ACD)
 PMic *wule ‘penis’
   Mic: Marshallese      wəl            ‘penis’
   Mic: Mokilese         wil            ‘penis’
@@ -9045,7 +9313,7 @@ all these meanings are listed below. The Malakula reflexes under ‘cf. also’ 
 _*tobʷa(k,q)a-_, but we do not yet understand whether such reflexes are conservative or innovatory.
 
     PCP _*kete_ ‘abdomen’ evidently reflects the same metaphor applied to a different form, as it
-reflects Proto Remote Oceanic _*kete_ ‘basket’ (vol.1:78).
+reflects PROc _*kete_ ‘basket’ (vol.1:78).
 
 <
 POc *tobʷa- ‘stomach (internal organ)’ (cf _*tobʷa_ ‘bag; bay, harbour’)
@@ -9084,7 +9352,7 @@ cf. also:
 
 
 <
-PCP *kete ‘abdomen; basket’ (from Proto Remote Oceanic _*kete_ ‘basket’)
+PCP *kete ‘abdomen; basket’ (from PROc _*kete_ ‘basket’)
   Fij: Rotuman        ʔefe              ‘abdomen, belly; womb’
   Fij: Bauan          kete              ‘belly, stomach’
   Pn:  Tongan         kete              ‘stomach, abdomen’
@@ -9210,7 +9478,7 @@ The same is true of terms in this section. It is not easy to identify the intern
 has a butchered animal to refer to.
 
     The most widely reflected POc etymon for intestines is _*tinaqe_, derived from a PAn
-nominalisation formed by infixing _*<in>_ into PAn _*Caqi_ ‘faeces’.[48] Its reflexes have become
+nominalisation formed by infixing _*&lt;in>_ into PAn _*Caqi_ ‘faeces’.[48] Its reflexes have become
 relational local nouns in a few languages (§3.1.2 and vol.2:239).
 
 <
@@ -9245,7 +9513,7 @@ POc *tinaqe ‘intestines’ (vol.2:239)
   SV: Kwamera              (nan)inha-         ‘intestines’
 >
 
-[48] If _*<in>_ was a nominaliser, then _*Caqi_ would also be expected to have served as a verb (‘defecate’), but there
+[48] If _*&lt;in>_ was a nominaliser, then _*Caqi_ would also be expected to have served as a verb (‘defecate’), but there
       is no evidence of this.
 
 
@@ -9654,11 +9922,11 @@ roots and are located in §4.4.7.
 3.8.1 Tears
 
 Terms for ‘tears’ are typically compounds, as in PEOc _*suRu qi mata_ ‘tears’, literally ‘fluid of
-eye’ or Proto Remote Oceanic _*wai(R) ni mata_, literally ‘water of eye’, in which the first item denotes a fluid[52]
+eye’ or PROc _*wai(R) ni mata_, literally ‘water of eye’, in which the first item denotes a fluid[52]
 and the second reflects POc _*mata_ ‘eye’ (§3.4.9.1). Because the ‘fluid’ item has been replaced
 at various times, some members of the cognate sets below may be outcomes of independent
 replacement. Thus PPn _*lo-qi-mata_ ‘tears’ is well attested, suggesting that Hawaiian _wai maka_
-and Marquesan _vai-mata_ may reflect local innovations independent of Proto Remote Oceanic
+and Marquesan _vai-mata_ may reflect local innovations independent of PROc
 _*wai(R) ni mata_.
 (On _*qi_, see §3.1.1, Hooper 1985, Ross 1998c.)
 
@@ -9679,7 +9947,7 @@ POc _*waiR_ ‘water’ (vol.2:57).
 
 
 <
-Proto Remote Oceanic *|wai(R) ni mata| ‘tears’ (POc _*waiR_ ‘water’)
+PROc *|wai(R) ni mata| ‘tears’ (POc _*waiR_ ‘water’)
   NCV: NE Ambae          |wai ni mata|      ‘tears’
   Fij: Wayan             |wai ni mata|      ‘tears’
   Fij: Bauan             |wai ni mata|      ‘tears’
@@ -11276,7 +11544,7 @@ the independent intransitive form corresponding with dependent PAn _*paŋan_ (cf
 Proto Oceanic, and the history of this form (and why there is just one known Oceanic reflex)
 is a mystery.
 
-   Less mysterious are Proto Remote Oceanic _*va-vaŋan-i_ (VT) ‘feed’ and PPn _*fāŋai_ ‘feed, provide food for’,
+   Less mysterious are PROc _*va-vaŋan-i_ (VT) ‘feed’ and PPn _*fāŋai_ ‘feed, provide food for’,
 both causative verbs with a root reflecting POc _*paŋan_ (VI) ‘eat’. It happens that the POc
 causative prefix was _*pa-_, giving a causative form _*pa-paŋan-i_, where _*-i_ was the transitive
 suffix. The suffix is reflected in Wayan and also accounts (i) for the retention of root-final _-n_ in
@@ -11289,7 +11557,7 @@ replacement of †_*fafa-_ by _*fā-_. The second is the loss of POc _*-n-_, alr
 regard to PPn _*kai_ ‘eat’.
 
 <
-Proto Remote Oceanic *va-vaŋan-i ‘feed (animal, person)’
+PROc *va-vaŋan-i ‘feed (animal, person)’
   NCV: Mota           vaŋan           ‘feed’
   Fij: Wayan          vaŋan-i-        ‘feed (usually an animal)’
   Fij: Rotuman        haŋa            ‘feed’
@@ -11898,7 +12166,7 @@ Fijian inu/inum- reflects _*inum-i-_.
 
     The derivation of the ‘drink’ pair is different from the ‘eat’ pair. The Proto Malayo-Polynesian
 intransitive of ‘eat’ was formed with _*paN-_, whereas the intransitive of ‘drink’ was
-formed with a prefix allomorph of the PMP infix _*<um>_, giving _*um-inum_ (§1.3.5.5). Non-Oceanic
+formed with a prefix allomorph of the PMP infix _*&lt;um>_, giving _*um-inum_ (§1.3.5.5). Non-Oceanic
 languages have sometimes lost initial _*u-_ (e.g. Malay minum), but there is evidence
 that it was still present at an immediately pre-Proto Oceanic stage, as it caused labialisation of
 _*m-_, giving POc _*mʷinum_ rather than _*minum_ (Lynch 2002e). This is attested both by reflexes
@@ -14019,10 +14287,10 @@ POc *kisu or *kusu ‘to spit’
 evidently reflects a PMP verb, for which, however, no non-Oceanic evidence is known. POc
 _*ŋisu_/_*ŋusu_ reflects the intransitive (actor voice) form of the verb, formed by replacing the
 initial _*k-_ of the root with the homorganic nasal _*ŋ-_ (§1.3.5.6). PWOc _*kamisu_/_*kimusu_
-appears to reflect an alternative form of the intransitive, formed by infixing _<um>_ after the
-initial consonant of the root, giving expected POc †_*k<um>isu_ or †_*k<um>usu_. Finally, the set
-_*kanisu_/_*kanusu_/_*kanusi_/_*kinusu_ appears to reflect a nominalisation formed by infixing _<in>_
-after the initial consonant of the root, giving expected POc †_*k<in>isu_ or †_*k<in>usu_, the latter
+appears to reflect an alternative form of the intransitive, formed by infixing _&lt;um>_ after the
+initial consonant of the root, giving expected POc †_*k&lt;um>isu_ or †_*k&lt;um>usu_. Finally, the set
+_*kanisu_/_*kanusu_/_*kanusi_/_*kinusu_ appears to reflect a nominalisation formed by infixing _&lt;in>_
+after the initial consonant of the root, giving expected POc †_*k&lt;in>isu_ or †_*k&lt;in>usu_, the latter
 reflected in Tabar _kinocu_. The _*-a-_ vowel in POc _*kanisu_/_*kanusu_/_*kanusi_ and PWOc
 _*kamisu_ is taken to reflect epenthesis, as the infixes were almost certainly not stressed in POc,
 giving forms like _*[k(ə)nisu]_ and _*[k(ə)misu]_ (cf. Kokota and Maringe _kmisu_).
@@ -14872,7 +15140,7 @@ PPn *pus-i ‘blow air from the mouth’ (POLLEX)
 
 Three reconstructions with the same root, POc _*(q)aŋap_, denote the notion of gaping or having
 one’s mouth wide open. In the first set below the root occurs by itself. The other two reflect the
-affixes _*<um>_ (§1.3.5.5) and _*paN-_ (§1.3.5.6), both forming dynamic intransitive verbs.
+affixes _*&lt;um>_ (§1.3.5.5) and _*paN-_ (§1.3.5.6), both forming dynamic intransitive verbs.
 
 <
 PMP *qaŋa[p,b] ‘gape, open the mouth wide’ (ACD)
@@ -15047,7 +15315,7 @@ POc *koso-ŋa (N) ‘cough’
  NCV: Tamambo             ɣaso(ri)             ‘cough out’
 >
 
-   Proto Remote Oceanic *puRuk ‘cough’ is evidently a metathesised form of POc _*pukuR_.
+   PROc *puRuk ‘cough’ is evidently a metathesised form of POc _*pukuR_.
 
 <
 POc *pukuR ‘cough’
@@ -15066,7 +15334,7 @@ POc *pukuR ‘cough’
 >
 
 <
-Proto Remote Oceanic *puRuk ‘cough’ (François 2011: POc)
+PROc *puRuk ‘cough’ (François 2011: POc)
 PNCV *vuru ‘cough’ (Clark 2009)
   NCV: Mota             vuru             ‘cough, disease causing coughing; a charm causing the disease’
   NCV: Mwotlap          wuj                ‘cough’
@@ -15189,7 +15457,7 @@ Forms for ‘sneeze’ can be divided into two main groups:
 __block__
 •    a western group embracing the Admiralties, Western Oceanic and SE Solomonic, reflecting
      putative onomatopoeic POc forms such as ?_*(k)asipeŋ_, POc ?_*(k)asiŋe(k)_ or ?_*(k)asio_;
-•    an eastern group embracing Vanuatu and Micronesia, reflecting Proto Remote Oceanic _*mʷat(i,u)a_
+•    an eastern group embracing Vanuatu and Micronesia, reflecting PROc _*mʷat(i,u)a_
      ‘sneeze’.
 
 In addition there are numerous cognate sets too local in extent to be included here.
@@ -15314,12 +15582,12 @@ cf. also:
    MM: Nakanai             [ha]tiho, atihe    ‘sneeze’
 >
 
-   The eastern group of ‘sneeze’ forms, reflecting Proto Remote Oceanic _*mʷat(i,u)a_ ‘sneeze’, is perhaps
+   The eastern group of ‘sneeze’ forms, reflecting PROc _*mʷat(i,u)a_ ‘sneeze’, is perhaps
 historically related to an onomatopoeic form like those above via an earlier _*mu-atia_, where
-_*mu-_ reflects the PMP actor-voice (intransitive) affix _*<um>_/_*(u)m-_ (§1.3.5.5).
+_*mu-_ reflects the PMP actor-voice (intransitive) affix _*&lt;um>_/_*(u)m-_ (§1.3.5.5).
 
 <
-Proto Remote Oceanic *mʷat(i,u)a ‘sneeze’ (PSOc: Lynch 2001c)
+PROc *mʷat(i,u)a ‘sneeze’ (PSOc: Lynch 2001c)
   NCV: Mota               matia              ‘sneeze’
   NCV: Lewo               mʷorue             ‘sneeze’
   NCV: Nguna              mʷetu(r)           ‘sneeze’
@@ -15628,7 +15896,7 @@ POc *pita ‘heavy, difficult’
 4.6.3 Dreaming
 
 The two POc forms _*nipi_ and _*mipi_, both ‘dream’, reflect fossilised combinations of a reflex of
-the PMP root _*hipi_ ‘dream’ and the PMP voice affixes _*<in>_ and _*<um>_ (§1.3.5.5). The fact that
+the PMP root _*hipi_ ‘dream’ and the PMP voice affixes _*&lt;in>_ and _*&lt;um>_ (§1.3.5.5). The fact that
 both forms are reflected, interspersed with one another across a substantial part of Oceania,
 indicates that the two forms co-existed in POc.
 
@@ -16359,7 +16627,7 @@ PNCV *rur ‘earthquake; shake’
 >
 
 <
-Proto Remote Oceanic *drudru ‘shake, tremble’
+PROc *drudru ‘shake, tremble’
 PSV *a-rur ‘shake’
   SV: Kwamera            e-rur              ‘shake, shake down (fruit from tree), fizz’
 PMic *cucu ‘tremble, shake’
@@ -17422,7 +17690,7 @@ cf. also:
  PT:  Iduna              vanala            ‘k.o. ringworm (on scalp)’
 >
 
-   The set below supports only a Proto Remote Oceanic reconstruction. The Longgu term,
+   The set below supports only a PROc reconstruction. The Longgu term,
 disqualified as a reflex by its initial _t-_, was probably borrowed from a reflex in another
 (unidentified) Guadalcanal language. If so, the reconstruction would be raised to PEOc. The
 cognacy of the Tawala term below is suspect on both semantic and formal grounds (Tawala _d-_
@@ -17433,7 +17701,7 @@ cognacy of the Tawala term below is suspect on both semantic and formal grounds 
 
 
 <
-Proto Remote Oceanic *tani ‘disease characterised by pale patches on skin’
+PROc *tani ‘disease characterised by pale patches on skin’
   Mic: Ponapean        c̣en-c̣en        ‘disease characterised by pale patches on skin’ (Christian 1899:37)
   Mic: Kiribati        tan-tan        ‘spotted, as skin’
   Mic: Marshallese     can            ‘skin disease, white spots on skin’
@@ -17625,7 +17893,7 @@ PPn *sela ‘asthma, gasp for breath’
 
 The English term is vague, referring to anything from throat-clearing to severe paroxysms.
 Perhaps the POc terms were more specific. Two POc terms, _*koso_ (VI), _koso-ŋa_ (N) and
-_*puku(R)_/Proto Remote Oceanic _*puRuk_, both glossed ‘cough’, have been reconstructed: for cognate sets see
+_*puku(R)_/PROc _*puRuk_, both glossed ‘cough’, have been reconstructed: for cognate sets see
 §4.5.7.
 
 5.3.9 Diarrhoea
@@ -18184,7 +18452,7 @@ POc *samo(s), *samos-i- ‘massage, stroke’
 >
 
 <
-Proto Remote Oceanic *amosi ‘massage, stroke’ (Clark 2009: PNCV _*amosi_)
+PROc *amosi ‘massage, stroke’ (Clark 2009: PNCV _*amosi_)
   NCV: Nokuku           mosi-             ‘wipe’
   NCV: Paamese          amusi             ‘stroke, massage, caress’
   NCV: Port Sandwich    mʷis-mʷis-i       ‘to stroke (a cat)’
@@ -19018,8 +19286,8 @@ PPn *tike-tike ‘keep squatting’ (POLLEX)
 
 No POc term for ‘kneel’ has been reconstructed, but a small cognate set points to PWOc
 _*tudruŋ_ ‘kneel’. This is evidently related to POc _*turu-_ ‘knee, joint’ (§3.6.5.2). As dr is the
-prenasalised equivalent of _*r_, it is possible that _*tudruŋ_ reflects infixation of PMP _*<um>_, which
-formed intransitive verbs, i.e. _*tudruŋ_ reflects earlier _*t<um>uruŋ_ (§1.3.5.5). Final _*-ŋ_ is
+prenasalised equivalent of _*r_, it is possible that _*tudruŋ_ reflects infixation of PMP _*&lt;um>_, which
+formed intransitive verbs, i.e. _*tudruŋ_ reflects earlier _*t&lt;um>uruŋ_ (§1.3.5.5). Final _*-ŋ_ is
 unaccounted for.
 
 <
@@ -22293,7 +22561,7 @@ some part of the agent remains in contact with the theme but the agent doesn’t
 theme’s path (§6.6.3). Only one dragging verb is reconstructable, and only to PROc.
 
 <
-Proto Remote Oceanic *(q)ara ‘haul, drag’
+PROc *(q)ara ‘haul, drag’
   Fij:  Wayan              ara                  ‘be hauled, dragged, pulled’
   Fij:  Wayan              ara-ki-              ‘drag, haul, pull s.t. along; trail s.t. behind one’
   Fij:  Bauan              yara                 ‘be hauled, be dragged’
@@ -22988,8 +23256,8 @@ PNCV *qumʷa ‘work, clear land’
 
 
 The terms for ‘food garden’ in three MM languages are nominalisations formed with the
-nominalising infix _*<in>_ and _*quma_, indicating that in the early MM linkage, _*quma_ was a verb
-meaning ‘make a garden’. The three forms that reflect _*q<in>uma_ ‘garden’ are Bulu _ɣ<in>uma_,
+nominalising infix _*&lt;in>_ and _*quma_, indicating that in the early MM linkage, _*quma_ was a verb
+meaning ‘make a garden’. The three forms that reflect _*q&lt;in>uma_ ‘garden’ are Bulu _ɣ&lt;in>uma_,
 Kia _(n-un)uma_ and Roviana _(in)uma_, all ‘food garden’.
 
    A second term for working in the garden is found in a number of PT languages and MM
@@ -24264,8 +24532,8 @@ Motu (PT) _nari_ (VI) ‘wait’, may be the sole reflex of a POc morphological 
 Oceanic languages preserve reflexes of three POc forms descended from PMP _*buni_ ‘hide,
 conceal’. Two of these are _*puni_ and _*muni_. Their origin, briefly mentioned in §1.3.5.5, is
 transparent. POc _*puni_ was the root form, reflecting PMP _*buni_, and was originally transitive.
-POc _*muni_ reflected PMP _*m-uni_, the outcome of adding the actor-voice infix _*<um>_ to the
-root _*puni_, to form an intransitive, involving a morphophonemic rule whereby _*<um>_ + _*p-_
+POc _*muni_ reflected PMP _*m-uni_, the outcome of adding the actor-voice infix _*&lt;um>_ to the
+root _*puni_, to form an intransitive, involving a morphophonemic rule whereby _*&lt;um>_ + _*p-_
 became _*m-_. Probably this transitive/intransitive contrast was maintained in POc, as it survives
 in Siar (MM) _mumun_ (VI) vs _wun_ (VT) (Frowein 2011:94), but, as the cognate sets below show,
 various languages have created an intransitive from _*puni_ and a transitive from _*muni_, with or
@@ -24350,7 +24618,7 @@ POc *muni (VI) ‘hide oneself, be hidden’
 almost certainly not a direct descendant of PMP _*buni_, as POc _*puni_ has that privilege.
 Instead, it appears from the glosses of its reflexes to be an alternant to _*muni_, i.e. an
 intransitive. The best hypothesis to account for it is that it arose at a pre-POc stage when
-marking intransitive with _*<um>_ was at least still partially productive, but instead of _*m_
+marking intransitive with _*&lt;um>_ was at least still partially productive, but instead of _*m_
 replacing _*p-_ (the effective outcome of the rule mentioned above), it was added to it to form
 pre-POc _*mpuni_, which by regular sound change became _*buni_.
 
@@ -26963,8 +27231,8 @@ __formgroup__
   PT:     Anuki            -akovi-           ‘know’
   PT:     Ubir             -sagob            ‘know’
 
-All languages below reflect _*b<in>isi_, but Nokuku also reflects _*bisi_, implying that _*bisi_ is the
-root and that _*<in>_ reflects the POc nominalising infix, the resulting nominalisation having been
+All languages below reflect _*b&lt;in>isi_, but Nokuku also reflects _*bisi_, implying that _*bisi_ is the
+root and that _*&lt;in>_ reflects the POc nominalising infix, the resulting nominalisation having been
 reanalysed as a verb in these languages.
 
 <
@@ -27436,7 +27704,7 @@ and semantic similarity, they appear to have been separate POc terms. Their simi
 almost certainly led to crossovers in meaning and to conflation of the two terms, as apparently
 no language other than Anutan reflects both—and the gloss of Anutan maori ‘indigenous, true,
 close of kin’ suggests it is borrowed from an EPn language. No EPn language has a reflex of
-*ma-qoni. Proto Eastern Polynesian _*ma-qoni_ acquired the additional sense ‘native, indigenous’, giving rise to
+*ma-qoni. PEPn _*ma-qoni_ acquired the additional sense ‘native, indigenous’, giving rise to
 the terms Māori and Mōriori for the Polynesian inhabitants of New Zealand and New
 Zealand’s Chatham Islands respectively.
 
@@ -27474,7 +27742,7 @@ PPn *maqoli 'true, real' (POLLEX)
  Pn:  Rennellese           māʔogi          ‘right, true, real; exist’
  Pn:  Tikopia              maori           ‘true, truth; feel sure of’
  Pn:  W Futunan            mari            ‘true, truth, indeed’
-Proto Eastern Polynesian *maoli ‘true, genuine; native, indigenous’
+PEPn *maoli ‘true, genuine; native, indigenous’
  Pn:  Rapanui              maʔori          ‘skilled, old’
  Pn:  Hawaiian             maoli           ‘true, real, native, indigenous’
  Pn:  Marquesan            maoʔi           ‘indigenous’
@@ -28416,7 +28684,7 @@ _*toRas_, reconstructed in vol.3 (pp200–201) with the sense ‘a taxon of hard
 _Intsia bijuga_’, where it is also noted that the POc term meant ‘hard, durable’. There is no
 evidence, though, that this term denoted human strength.
 
-     The three terms below, POc _*kayu-kayu_, Proto Remote Oceanic _*[kayu]kayu-a_ and PEOc _*kaila_ ‘strong,
+     The three terms below, POc _*kayu-kayu_, PROc _*[kayu]kayu-a_ and PEOc _*kaila_ ‘strong,
 firm’ appear to be derived from the generic term for tree, POc _*kayu_ (vol.3:71–73), used
 metaphorically for strength and hardness. However, this seemingly obvious derivation is a
 little problematic. If the reflexes of these three terms are compared with the terms for tree in
@@ -28455,7 +28723,7 @@ POc *kayu-kayu ‘strong, tough, inflexible’
 572 Malcolm Ross and Meredith Osmond
 
 <
-Proto Remote Oceanic *[kayu]kayu-a ‘strong’ (Clark 2009: PNCV)
+PROc *[kayu]kayu-a ‘strong’ (Clark 2009: PNCV)
   NCV: Nokuku            (mel)kɔu         ‘strong’ (_kɔu_ ‘tree’)
   NCV: Tolomako          ɣau-ɣau-a        ‘strong’
   NCV: Unua              -xaiv            ‘hard, difficult, solid, strong, firm’

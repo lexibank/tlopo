@@ -227,7 +227,7 @@ supporting data are problematic in various respects and we have made only limite
 them.
 
      Comparative lexical studies have been carried out for several lower-order subgroups
-of Oceanic: for Proto Polynesian by Biggs (resulting in Walsh & Biggs 1966, Biggs et al. 1970
+of Oceanic: for Proto Polynesian by Biggs (resulting in Walsh & Biggs 1966, Biggs, Walsh & Waqa 1970
 and subsequent versions of the POLLEX file, including Biggs & Clark (1993) and Clark & Biggs (2006);[5]
 for Proto Micronesian by scholars at the University of Hawaii (Bender et al. 1983, Bender et al. 2003);
 for Proto North-Central Vanuatu by Clark (1996, 2008);[6]
@@ -528,12 +528,12 @@ never diverged greatly from each other, but the details of this history are diff
      The languages of a linkage have no identifiable exclusively shared parent. Yet we have
 found many instances in which a cognate set is limited to one of the linkages in Figures 1.1
 and 1.2: CEMP, Western Oceanic, New Guinea Oceanic, Southern Oceanic or the reintegrated
-North and Central Vanuatu linkage. As with PEOc and Proto Remote Oceanic (§3.2.3), we think it is
+North and Central Vanuatu linkage. As with PEOc and PROc (§3.2.3), we think it is
 preferable to attribute these reconstructions to a hypothetical protolanguage rather than to a
 higher node in the tree. Hence there are reconstructions labelled PCEMP, PWOc and so on.
 Again these apparent lexical innovations offer only the weakest evidence for the protolanguage
 to which they are attributed. In addition to the explanations of the kinds offered for
-PEOc and Proto Remote Oceanic etyma in §3.2.3 it is possible, for example, that an innovatory 'PWOc'
+PEOc and PROc etyma in §3.2.3 it is possible, for example, that an innovatory 'PWOc'
 etymon arose when the Western Oceanic dialect network was still close-knit, and spread from
 dialect to dialect before the network broke into the two networks ancestral to its present-day
 first-order subgroups.
@@ -595,28 +595,28 @@ Map 3:   Groups of Oceanic languages used in cognate sets
 
 
 If a cognate set occurs in two or all three of the groups in Remote Oceanic, the reconstruction
-is attributed to Proto Remote Oceanic (Proto Remote Oceanic ). If a cognate set occurs in one or more of the
+is attributed to PROc (PROc ). If a cognate set occurs in one or more of the
 groups in Remote Oceanic and in SE Solomonic, it is attributed to Proto Eastern Oceanic
 (PEOc). In this way we acknowledge that such reconstructions may represent an innovation
-that postdates the spread of the early Oceanic speech community. There are enough Proto Remote Oceanic and
+that postdates the spread of the early Oceanic speech community. There are enough PROc and
 PEOc reconstructions to suggest that such lexical innovations indeed occurred. This in turn
 provides weak evidence for Remote Oceanic and Eastern Oceanic subgroups, but evidence
 that is too weak to be relied on, for at least two reasons. First, it is quite possible that some of
-our Proto Remote Oceanic and PEOc reconstructions will be promoted to POc as more Admiralty and Western
-Oceanic data become available. Second, it is reasonable to assume that some of our Proto Remote Oceanic
+our PROc and PEOc reconstructions will be promoted to POc as more Admiralty and Western
+Oceanic data become available. Second, it is reasonable to assume that some of our PROc
 and PEOc etyma are of POc antiquity but happen to have been lost in Proto Admiralty and
 Proto Western Oceanic. Without supporting phonological or morphological evidence we are
-unwilling to treat Proto Remote Oceanic or PEOc as anything other than convenient hypotheses which allow
+unwilling to treat PROc or PEOc as anything other than convenient hypotheses which allow
 us to retain rigorous criteria for a POc reconstruction.
 
-     In volumes 1 and 2 a reconstruction here labelled 'Proto Remote Oceanic' would have been labelled
+     In volumes 1 and 2 a reconstruction here labelled 'PROc' would have been labelled
 'PEOc', but the absence of SE Solomonic reflexes from among its reflexes indicates that it
-has the same status as a Proto Remote Oceanic reconstruction in the present volume. Two factors have led to
-the distinction between PEOc and Proto Remote Oceanic here. One is that, because the primary biogeographic
+has the same status as a PROc reconstruction in the present volume. Two factors have led to
+the distinction between PEOc and PROc here. One is that, because the primary biogeographic
 divide in Oceania is between Near and Remote Oceania (see vol. 2, Map 5), i.e. between the
 Solomon Islands and Vanuatu, the question of whether or not a plant name includes a SE
 Solomonic reflex is significant, and there are many plant names that do not (and are thus
-attributed to Proto Remote Oceanic ). The other is that the historical separateness of SE Solomonic from both
+attributed to PROc ). The other is that the historical separateness of SE Solomonic from both
 Western Oceanic and the groups treated as Remote Oceanic has become increasingly clear
 through recent research (Pawley 2007).
 
@@ -855,7 +855,7 @@ number of etyma whose reflexes are confined to North and Central Vanuatu, and so
 to make 'Proto North/Central Vanuatu' reconstructions, even though these perhaps represent
 a Southern Oceanic term that has been lost in southern Vanuatu and New Caledonia.
 Where the distribution of reflexes requires it, the chapters in this volume include reconstructions
-for Proto Remote Oceanic and for PSOc. Etyma with these distributions were attributed to PEOc in
+for PROc and for PSOc. Etyma with these distributions were attributed to PEOc in
 volumes 1 and 2, but the distributions are transparent, thanks to the presence of the group
 labels in cognate sets.
 
@@ -866,7 +866,7 @@ source, e.g. 'Dempwolff 1938' above, but this is difficult when earlier reconstr
 in form and meaning.
 
     In general, the contributions to these volumes are concerned with items reconstructable in
-POc, PWOc, PEOc, Proto Remote Oceanic and occasionally Prolto New Guinea Oceanic (PNGOc). Etyma for
+POc, PWOc, PEOc, PROc and occasionally Prolto New Guinea Oceanic (PNGOc). Etyma for
 PWOc, PNGOc and PEOc are reconstructed because these may well also be POc etyma for
 which known reflexes are not well distributed (see discussion in §3.2.3). The contributors
 vary in the degree to which they reconstruct etyma for interstages further down the tree.
@@ -998,7 +998,7 @@ interstages the orthographies are those used by Blust in his various publication
 Reconstructions at lower-order interstages are given in the standard orthography adopted for
 data (§4.2). Geraghty's (1986) PCP orthography, for example, is based on Standard Fijian
 spelling, and is converted into our standard orthography in the same way as Fijian spelling is.
-In practice, this means that the orthographies for Proto Remote Oceanic and PCP are the same as for POc,
+In practice, this means that the orthographies for PROc and PCP are the same as for POc,
 except that a distinction between _*p_ and _*v_ is recognised and _*R_ is absent. Biggs and Clark's PPn
 reconstructions are in any case written in an orthography identical to our standard. Bracketing
 and segmentation conventions in protoforms are shown in Table 1.4.
@@ -1067,7 +1067,7 @@ on aesthetic grounds.
 As explained in §4.1, a cognate set is almost always headed by a reconstruction for the
 highest-order Oceanic protolanguage that the set allows us to infer. In this volume these
 reconstructions are mostly for Proto Oceanic, Proto Western Oceanic, Proto Eastern Oceanic
-or Proto Remote Oceanic, and less often for Proto Southern Oceanic or Proto Central Pacific.
+or PROc, and less often for Proto Southern Oceanic or Proto Central Pacific.
 Since Oceanic speakers spread across the Pacific from the Bismarck Archipelago to Fiji with
 remarkable speed, reconstructions at any of these interstages are likely to be early. Proto
 Admiralty, Proto New Guinea Oceanic and Proto Meso-Melanesian reconstructions are also
@@ -5856,13 +5856,13 @@ _taume_     | (N) Spathe or sheathing-leaf of flower of coconut palm; when dry u
 122   Bethwyn E vans
 
 
-    In Proto Remote Oceanic there is evidence for doublet forms _*kulit_ and _*kilit_, with _*kilit_
+    In PROc there is evidence for doublet forms _*kulit_ and _*kilit_, with _*kilit_
 reflected in Namakir of North Central Vanuatu, Western Micronesian languages and Polynesian
 languages. However, it is likely that these reflect independent developments in Proto
 Micronesian, Namakir and PPn.
 
 <
-Proto Remote Oceanic *kilit 'skin, bark'
+PROc *kilit 'skin, bark'
   NCV:    Namakir     kili-n          'skin, bark'
   Mic:    Marshallese kit             'skin'
   Mic:    Mokilese    kili-           'skin, bark, peel, hide'
@@ -6265,7 +6265,7 @@ POc *puRe 'taxon of beach creepers; perhaps prototypically _Ipomoea grandiflora_
   Pn:   Tokelauan    fue                  'a vine, _Ipomoea macrantha_'
   Pn:   Tuamotuan    hue                  'gourd'
   Pn:   Tuamotuan    (poo)hue             '_Convolvulus_ sp.'
-Proto Eastern Polynesian *fue 'gourd, _Lagenaria siceraria_'
+PEPn *fue 'gourd, _Lagenaria siceraria_'
   Pn:   Tahitian     hue                  'gourd, calabash'
   Pn:   Rapanui      hue                  'gourd, _Lagenaria siceraria_'
   Pn:   Rarotongan   ʔue                  'gourd, _Lagenaria siceraria_'
@@ -6514,7 +6514,7 @@ is used for both species.
 
 
 <
-Proto Remote Oceanic *buavu '_Hernandia_ sp.'
+PROc *buavu '_Hernandia_ sp.'
   NCal: Nyelayu    pʰoap                   '_Hernandia ovigera_'
   Fij:  Wayan      buevu                   '_Hernandia nymphaeifolia_'
 >
@@ -6864,7 +6864,7 @@ PNPn *tausunu '_Tournefortia argentea_'
   Pn: Tuamotuan    toohonu       '_Tournefortia argentea_'
 >
 
-    The PMic form _*cen_ '_Tournefortia argentea_' looks at first sight as if it also reflects Proto Remote Oceanic
+    The PMic form _*cen_ '_Tournefortia argentea_' looks at first sight as if it also reflects PROc
 _*sinu_. If it does, however, this is a result of borrowing, as PMic _*c-_ reflects POc _*d_ or _*dr-_,
 not POc _*s-_.
 
@@ -7034,7 +7034,7 @@ but not mentioned by Solomons sources. It is also missing from Borrell's (1989) 
 checklist for Kairiru. It is native to SE Asia, but Rhys Gardner and Will McClatchey (both
 pers. comm.) suggest that it is a (recently?) introduced plant, at least from Fiji eastwards and
 perhaps also in Vanuatu. If this is so, then the two data sets require an explanation other than
-cognacy. The first set appears to support Proto Remote Oceanic _*(m,mʷ)ata_, but the items glossed
+cognacy. The first set appears to support PROc _*(m,mʷ)ata_, but the items glossed
 '_Adenanthera pavonina_' are all from languages located in Vanuatu (Emae and Ifira-Mele are Polynesian outliers
 in Vanuatu) and probably reflect a series of borrowings. Items denoting other species are
 presumably chance resemblances.
@@ -7233,7 +7233,7 @@ POc *pitaquR '_Calophyllum inophyllum_' (Blust 1984: _Calophyllum_ sp.)
   MM:   Nduke         vizolo       '_Calophyllum vitiense_'
   MM:   Roviana       vi-vizolo    '_Calophyllum vitiense_'
   MM:   Marovo        vi-vijolo    '_Calophyllum vitiense_'
-Proto Remote Oceanic *vitaquR      '_Calophyllum inophyllum_'
+PROc *vitaquR      '_Calophyllum inophyllum_'
   SV:   Sye           na-viⁿru     '_Meryta neoebudica_'
   SV:   Anejom        na-hitau     'tree sp.'
   NCal: Nyelayu       pʰic         '_Calophyllum inophyllum_'
@@ -7898,16 +7898,16 @@ thick dry husk enclosing the nut which contains two seeds.
 as being good firewood. The thick latex beneath the outer bark has medicinal uses (Peekel 1984:443-445,
 Wheatley 1992:48-50, Kwa'ioloa & Burt 2001: 124, Gardner & Pawley 2006).
 
-     At present no term is reconstructable at an interstage earlier than Proto Remote Oceanic _*vaRo_.
+     At present no term is reconstructable at an interstage earlier than PROc _*vaRo_.
 Gedaged (NNG) _faɬoŋ_ 'tree sp., the trunk of which is used to make canoes' looks cognate but reflects
 POc †_*pa(r,R)oŋV_, which has an extra syllable not reflected in the Remote Oceanic cognate
 set.
 
      The PSOc form _*vato_, reconstructed by Lynch (2004a), seems to be an irregular reflex
-of Proto Remote Oceanic _*vaRo_.
+of PROc _*vaRo_.
 
 <
-Proto Remote Oceanic *vaRo '_Neisosperma oppositifolium_'
+PROc *vaRo '_Neisosperma oppositifolium_'
   NCV:    Mota        varo-varo        '_Neisosperma oppositifolium_'
   NCV:    Vera'a      var-var          '_Neisosperma oppositifolium_'
   NCV:    Araki       ðᫀara-ðᫀara        '_Neisosperma oppositifolium_'
@@ -7964,7 +7964,7 @@ POc *[a]ñuliŋ '_Pisonia_ sp.' (John Lynch, pers. comm.)
 >
 
 <
-Proto Remote Oceanic *buka 'taxon of littoral trees, including _Pisonia_ spp. and _Gyrocarpus americanus_' (Geraghty 1983 _*puka_ 'Hernandia pisonia')
+PROc *buka 'taxon of littoral trees, including _Pisonia_ spp. and _Gyrocarpus americanus_' (Geraghty 1983 _*puka_ 'Hernandia pisonia')
   NCV:  NE Ambae         boɣa              '_Pisonia umbellifera_'
   NCV:  Nduindui         na-mbuka          '_Pisonia umbellifera_'
   NCV:  Raga             buɣo              '_Pisonia umbellifera_'
@@ -9133,7 +9133,7 @@ POc *raqu(p) 'New Guinea walnut, _Dracontomelon dao_'
   MM:  Nakanai       lahu         'a tall tree (Anacardiaceae) used for planks'
   MM:  Tolai         laup         '_Dracontomelon dao_' (for †_rau_)
   MM:  Patpatar      loh          '_Dracontomelon dao_' (for †_ro_)
-Proto Remote Oceanic *raqu 'dragon plum tree, _Dracontomelon dao_'
+PROc *raqu 'dragon plum tree, _Dracontomelon dao_'
   NCV: Mwotlap       ye           '_Dracontomelon dao_'
   NCV: Mota          rau          'a fruit tree'
   NCV: Paamese       e-au         '_Dracontomelon dao_'
@@ -10116,7 +10116,7 @@ two species and perhaps a taxon including a number of _Myristica_ species.
 from New Britain to Vanuatu (Floyd 1954, Powell 1976, Wheatley 1992:172-174,
 Kwa'ioloa & Burt 2001: 120, 167).
 
-    With regard to reconstructing a Proto Remote Oceanic term for _Myristica fatua_ Lynch (2004a) writes:
+    With regard to reconstructing a PROc term for _Myristica fatua_ Lynch (2004a) writes:
 
 |      The Banks and Raga forms suggest _*draRaka_, other NCV languages something like
 |      _*draRaqi_, while the SV forms point rather to PSOc _*d(r)ani_, _*d(r)aRani_ or _*d(r)aqani_.
@@ -10534,7 +10534,7 @@ POc *wasi-wasi '_Abroma augusta_'
   MM:  Patpatar       was-was          '_Abroma augusta_'
   MM:  Nehan          ase-is           '_Abroma augusta_'
   SES: Kwara'ae       kʷasi-kʷasi      '_Abroma augusta_'
-Proto Remote Oceanic *wasi-wasi '_Sterculia vitiensis_' (from data in Wheatley 1992, Lynch 2004a)
+PROc *wasi-wasi '_Sterculia vitiensis_' (from data in Wheatley 1992, Lynch 2004a)
   NCV: NE Ambae       wah-wah          '_Sterculia vitiensis_'
   NCV: Tangoa         (vitu)vaha       '_Sterculia vitiensis_'
   NCV: Raga           wahi-wahi        '_Sterculia vitiensis_'
@@ -11336,7 +11336,7 @@ POc *jamaR '_Commersonia bartramia_'
 
 
 
-8.2.4 _Glochidion philippicum_, little cheese tree, Bnamalao (Euphorbiaceae)
+8.2.4 _Glochidion philippicum_, little cheese tree, B _namalao_ (Euphorbiaceae)
 
 The little cheese tree, _Glochidion philippicum_ (syn. _G. ramiflorum_), grows 10--20 m tall, and
 is common in secondary forest. Its fruit are dry greyish green disc-like capsules shaped like
@@ -11360,11 +11360,11 @@ POc *mʷala(q)u '_Glochidion philippicum_' (Paul Geraghty: _*m(e,o)la(q)u_, see 
   MM:  Patpatar   malau          '_Glochidion philippicum_'
   MM:  Tolai      malau          '_Glochidion philippicum_'
   MM:  Teop       muaeru         '_Glochidion_ sp.'
-Proto Remote Oceanic *mʷala(q)u  '_Glochidion_ spp.'
+PROc *mʷala(q)u  '_Glochidion_ spp.'
   NCV: Mwotlap    maluw          '_Glochidion_ spp.'
   NCV: Mota       malao          'tree sp.'
   NCV: Apma       ma-mlah        '_Glochidion_ spp.'
-  NCV: Raga       mʷa-mʷalau     '_Glochidion_ stipulare (?)' (Walsh 2004)
+  NCV: Raga       mʷa-mʷalau     '_Glochidion stipulare_ (?)' (Walsh 2004)
   NCV: Paamese    maiao          '_Glochidion_ spp.'
 PSV *na-mel(p)au '_Glochidion_ spp.' (Lynch 2001c)
   SV:  Sye        na-melpau      '_Glochidion philippicum_' (_-p-_ is unexplained)
@@ -11550,8 +11550,8 @@ _*-aqi_ is also arguably the source of _-e_ in Marshallese _armʷe_ and of long 
 Against the reconstruction of _*-aqi_ are the Seimat, Apma, S Efate and all Central Pacific
 reflexes other than Wayan. Geraghty (1990: 55) accounts for long final _-ā_ in Central Pacific
 reflexes by reconstructing PEOc/PCP _*(q)aromʷaRa_. PEOc _*-R-_ is usually lost in PCP but
-occasionally retained as _*-l-_, which, Geraghty suggests, is reflected in NE Viti Levu _ŋala_
-'_Pipturus_ sp.' (1990: 91). However, short of not just one but two syllables, this is a
+occasionally retained as _*-l-_, which, Geraghty (1990: 91) suggests, is reflected in NE Viti Levu _ŋala_
+'_Pipturus_ sp.'. However, short of not just one but two syllables, this is a
 questionable reflex, and so I reconstruct PCP _*qaromʷ(ē,ā)_. The ambiguity of the final long vowel
 is due to the disagreement between Wayan _-ē_ and Lau Fijian and Polynesian _-ā_. Geraghty
 is right, however, to take the long final vowel seriously, and it is not clear to me how this
@@ -11559,7 +11559,7 @@ innovation arose.
 
 <
 PMP *qadamay '_Pipturus argenteus_' (ACD)
-POc *qaramʷaqi '_Pipturus argenteus_' (Geraghty 1990: PEOc *(q)aromʷaRa)
+POc *qaramʷaqi '_Pipturus argenteus_' (Geraghty 1990: PEOc _*(q)aromʷaRa_)
   Adm: Seimat        ahoma        'a small tree, from the bark of which fishing lines and nets are made' (Sorensen 1950)
   MM:   Kara (E)     kaimek       '_Pipturus argenteus_'
   MM:   Notsi        karamet      '_Pipturus argenteus_' (_-t_ unexplained) (Holdsworth et al. 1978)
@@ -11698,7 +11698,7 @@ POc *droRu(ŋ) '_Trema orientalis_'
 
 Figure 8.4: _Trichospermum richii_.
 
-Peekel records two species of _Trichospermum_ in New Ireland, _Trichospermum peekelii_ (syn. T.fauroensis,
+Peekel records two species of _Trichospermum_ in New Ireland, _Trichospermum peekelii_ (syn. T. fauroensis,
 _Trichospermum psilocladum_) in the north and _Trichospermum pleiostigma_ (syn. _T. quadrivale_, Althoffia tetrapyxis) in the
 south, with an overlap in the Madak-speaking area.
 
@@ -11714,7 +11714,7 @@ is used for carrying bundles of garden produce or wood, and to cover house entra
 as roofing for temporary shelters. The Kwara'ae used it to make warriors' shields
 (Peekel 1984:357, Wheatley 1992:233, Kwa'ioloa & Burt 2001: 136--137).
 
-    POc _*maRako_ '_Trichospermum_ peekelii' is an unproblematic reconstruction.
+    POc _*maRako_ '_Trichospermum peekelii_' is an unproblematic reconstruction.
 
 <
 POc *maRako '_Trichospermum peekelii_' (Geraghty 1990: PEOc)
@@ -11751,7 +11751,7 @@ to a metre high (Peekel 1984: 48), but it appears to have been introduced from t
 (R. Gardner, pers. comm.). Evans (ch.3, §4.5) reconstructs POc _*pali[s,j]i_ 'generic term for
 grasses and other grass-like plants'. She notes that the generic term for a taxon quite often
 represents an extension of the meaning of a term for a particular and salient subtaxon. There
-is flimsy evidence that the Proto Remote Oceanic reflex of _*pali[s,j]i_ was not only the generic
+is flimsy evidence that the PROc reflex of _*pali[s,j]i_ was not only the generic
 but by this time denoted the creeping beach grass, _Thuarea involuta_, known in Hawai'i as
 kuroiwa grass. This is its specific denotation in both Mwotlap (NCV) and Woleaian (Mic).
 
@@ -11785,11 +11785,11 @@ POc *(quta)quta 'grass and weeds (generic)'
 Figure 8.5: __Left__ _Paspalum conjugatum_. Middle _Imperata cylindrica_, sword grass. __Right__ Coix
 lacryma-jobi, Job's tears.
 
-   In Proto Remote Oceanic, _*mʷanaya_, another apparently generic term for grass occurred.
+   In PROc, _*mʷanaya_, another apparently generic term for grass occurred.
 This quite possibly also denoted a specific but now uncertain subtaxon.
 
 <
-Proto Remote Oceanic *mʷanaya 'grass' (Clark 1996: PNCV *mʷanai)
+PROc *mʷanaya 'grass' (Clark 1996: PNCV *mʷanai)
   NCV:   Raga          mʷanea        'grass'
   NCV:   Avava         mʷana         'grass'
   NCV:   Nati          nö-mʷönei     'grass'
@@ -12408,7 +12408,7 @@ PWOc *gobu '_Dioscorea_ sp.'
 >
 
 <
-Proto Remote Oceanic *damu '_Dioscorea_ sp.'
+PROc *damu '_Dioscorea_ sp.'
   NCV:  Mota           nam           'yam'
   NCV:  Araki          tsam          '_Dioscorea_ sp.'
   NCV:  Tamambo        dam           'yam'
@@ -12913,7 +12913,7 @@ of Guppy's mid-nineteenth-century sources noted that it also had ceremonial sign
 Fiji.
 
      No POc term for _Pueraria lobata_ is reconstructable, and the cognate set below is restricted to
-North-Central Vanuatu and Central Pacific, and thus allow only a Proto Remote Oceanic reconstruction. None
+North-Central Vanuatu and Central Pacific, and thus allow only a PROc reconstruction. None
 of Barrau's sources make specific mention of the Bismarcks or the Solomons, and it may be
 that its significance has faded more definitely from folk memory there than on smaller islands
 where it still serves as a famine food.
@@ -12921,7 +12921,7 @@ where it still serves as a famine food.
      The gloss of the Raga reflex refers to famine food, and probably denotes _Pueraria lobata_.
 
 <
-Proto Remote Oceanic *Raka 'k.vine, _Pueraria lobata_' (Geraghty 1990)
+PROc *Raka 'k.vine, _Pueraria lobata_' (Geraghty 1990)
   NCV: Raga              aga         'yam with blue flowers, eaten in time of famine'
   NCV: Port Sandwich     ni-ax       'vine sp.'
   NCV: Paamese           e-ā         'kind of tree with very tough roots that are very tough to dig out while hoeing in garden'
@@ -13074,7 +13074,7 @@ POc *pudi 'banana, _Musa_ cultivars' (Capell1943: *puti)
     The term _Musa troglodytarum_ is used (inaccurately) both of wild varieties of _Musa balbisiana_
 and of _Fe'i_ bananas. In the Uripiv and Samoan glosses below it is likely that it denotes the
 latter, in agreement with the Bauan gloss. POc _*joRaga_ is glossed accordingly, but
-with a question mark, because this was the meaning of the Proto Remote Oceanic reflex but not necessarily of
+with a question mark, because this was the meaning of the PROc reflex but not necessarily of
 the POc term. _Fe'i_ bananas are uncommon in New Guinea today, and it is not clear whether
 they were present in the Bismarcks in Proto Oceanic times.
 
@@ -13321,7 +13321,7 @@ cultivar or, for example, the cooked breadfruit, but these possibilities remain 
     Scattered areas - many North New Guinea languages on New Britain, scattered languages
 in the islands of the Papuan Tip area, much of Central and South Vanuatu, and Micronesia - have a
 breadfruit term other than _*kuluR_~_*kunuR_ and _*baReko_. Two of these, POc(?)
-_*beta_ and Proto Remote Oceanic _*maRi_, are sufficiently widespread to warrant mention.
+_*beta_ and PROc _*maRi_, are sufficiently widespread to warrant mention.
 
     POc (?) _*beta_ has a more restricted distribution: its reflexes occur in the New Georgia
 group, within SE Solomonic only in Gela, and in North-Central Vanuatu. This distribution
@@ -13330,7 +13330,7 @@ are in Nduke and Roviana in New Georgia in the northwest Solomons raises the pos
 that _*beta_ is a PEOc term that has been borrowed westward, but there is no other evidence I
 know of for Eastern Oceanic loans in New Georgia.
 
-    A fourth term, Proto Remote Oceanic _*maRi_ 'breadfruit', is limited to South Vanuatu, Micronesian and
+    A fourth term, PROc _*maRi_ 'breadfruit', is limited to South Vanuatu, Micronesian and
 Polynesian, but Geraghty (2004: 88) attributes Polynesian reflexes of the form _mei_ (presumably
 for †_mai_ or †_mal_) to borrowing, presumably from a Micronesian source. Again the
 distribution requires an explanation, this time because it is bipartite, but I can provide none.
@@ -13453,7 +13453,7 @@ POc *beta 'breadfruit'
 >
 
 <
-Proto Remote Oceanic *maRi 'breadfruit' (Geraghty 1990)
+PROc *maRi 'breadfruit' (Geraghty 1990)
   SV:  Ura           ni-mal         'breadfruit'
   SV:  Sye           n-mar          'breadfruit'
   SV:  White sands   nə-mei         'breadfruit'
@@ -13921,7 +13921,7 @@ POc *bele '_Abelmoschus manihot_' (French-Wright 1983)
    Two terms for _Abelmoschus manihot_ can be reconstructed in lower interstage languages.
 
 <
-Proto Remote Oceanic *sasaRu '_Abelmoschus manihot_' (Franccois 2004b: Proto Banks _*sasar_)
+PROc *sasaRu '_Abelmoschus manihot_' (Franccois 2004b: Proto Banks _*sasar_)
   NCV: Vures         sasar         '_Abelmoschus manihot_'
   NCV: Lemerig       n-sasar       '_Abelmoschus manihot_'
   NCV: Merlav        na-ssar       '_Abelmoschus manihot_'
@@ -14117,7 +14117,7 @@ PNCV *lalaso '_Polyscias scutellaria_' (?)(Clark 1996; gloss from Lynch 2004a)
 10.3.1 _Cyathea_ spp., B blakpam (Cyatheaceae)
 
 Among the many ferns eaten in Melanesia, there is just one tree-fern genus for which a
-putative POc term has been reconstructed. This is Proto Remote Oceanic _*(b,bʷ)ala_ '_Cyathea_'. POc _*(b,bʷ)ala_
+putative POc term has been reconstructed. This is PROc _*(b,bʷ)ala_ '_Cyathea_'. POc _*(b,bʷ)ala_
 is also reconstructed below, but only one cognate has been found outside Remote Oceania:
 Kove _va-vala_ 'cycad'. This means that we can be reasonably certain that POc _*(b,bʷ)ala_ denoted
 a tree fern, but we as yet have no way of knowing for certain whether this was a _Cycas_
@@ -14132,7 +14132,7 @@ The pith of the trunk was eaten as famine food (Gardner & Pawley 2006).
 <
 POc *(b,bʷ)ala 'tree fern, _Cycas_ or _Cyathea_ sp.'
   NNG: Kove         va-vala        'cycad'
-Proto Remote Oceanic *(b,bʷ)ala '_Cyathea_ sp.'
+PROc *(b,bʷ)ala '_Cyathea_ sp.'
   NCV: Nguna        na-pʷala       'a fern'
   SV:  Sye          ni-val         'wild coconut, Montgomery palm, _Veitchia arecina_'
   Fij: Bauan        bala-bala      '_Cyathea_ spp.' (Keppel et al. 2005)
@@ -14378,7 +14378,7 @@ POc *ba(k,g)a 'banyan tree, medium-sized _Ficus_ spp., not stranglers' (Biggs 19
   MM:   Patpatar        paka         '_Ficus nodosa_'
   MM:   Tolai           paka         '_Ficus_ sp. (Record 1945)'
   MM:   Roviana         pako-pako    '_Ficus wassa_' (Henderson & Hancock 1988: 125)
-Proto Remote Oceanic *baga '_Ficus_ spp.; generic for _Ficus_?'
+PROc *baga '_Ficus_ spp.; generic for _Ficus_?'
   NCV:  Mota            paka         'banyan, various spp.'
   NCV:  Araki           (vi)tᫀaka     'banyan spp.'
   NCV:  Nduindui        (vi)v-voɣe   '_Ficus wassa_' (Walter & Sam 2002: 293)
@@ -15737,13 +15737,13 @@ separately (Wheatley 1992: 230, 232, Walter & Sam 2002: 247-248).
 
     Although the seeds of other species are sometimes eaten in the Bismarcks (Floyd 1954,
 Powell 1976), the only reconstructable name for a _Sterculia_ species is, as one might expect,
-a Proto Remote Oceanic etymon, _*wasi-wasi_ '_Sterculia vitiensis_'. There is a formally identical POc etymon,
+a PROc etymon, _*wasi-wasi_ '_Sterculia vitiensis_'. There is a formally identical POc etymon,
 POc _*wasi-wasi_ '_Abroma augusta_'. _Abroma augusta_ is a small shrub (ch.7, §6.1.1) and _Sterculia vitiensis_
 a large tree, so it is not clear whether the two terms were innovated independently or have a
 common origin.
 
 <
-Proto Remote Oceanic *wasi-wasi '_Sterculia vitiensis_' (from data in Wheatley 1992, Lynch 2004a)
+PROc *wasi-wasi '_Sterculia vitiensis_' (from data in Wheatley 1992, Lynch 2004a)
      NCV: NE Ambae       wah-wah
      NCV: Tangoa         (vitu)vaha
      NCV: Raga           wahi-wahi
@@ -16334,7 +16334,7 @@ PNCV *mali '_Spondias cytherea_' (Clark 1996)
 >
 
     Also puzzling is the connection between PNCV _*mali_ and the items for _Garuga floribunda_
-listed below. There is reason to think that this is not a chance resemblance, as the Proto Remote Oceanic
+listed below. There is reason to think that this is not a chance resemblance, as the PROc
 term _*mala-usi_ 'Garuga sp.' literally meant 'like _Spondias cytherea_' (ch.7, §4.8), i.e. there
 was/is a perceived resemblance between Garuga and Spondias species. We cannot simply
 include the items below in the cognate set for PNCV _*mali_ above, however, as the Paamese,
@@ -18486,7 +18486,7 @@ POc *kawaRi 'root(s) with special properties: one or more of _Zingiber zerumbet_
   PT:  Gapapaiwa         kaware            'k.o. ginger'
   PT:  Tubetube          kalava            '_Piper subbullatum_ (?)' (metathesis)
   MM:  Maringe           kʰori             '(use) fish poison'
-Proto Remote Oceanic *kawa 'kava';  'ginger, fish-poison plants' (presumably)
+PROc *kawa 'kava';  'ginger, fish-poison plants' (presumably)
 PNCV *kea 'kava; sour, bitter' (Lynch 2004a)
   NCV: Lehali            n-ɣa              'kava'
   NCV: Mota              ɣea               'kava'
@@ -19124,7 +19124,7 @@ strongest poison. Also reconstructable are
 __block__
 - POc *puna(t) 'vine used for fish poison, probably _Derris elliptica_'
 - PWOc *m(ʷ)ali '_Derris_ sp.'
-- Proto Remote Oceanic *vuba 'k.o. vine, probably _Derris elliptica_'
+- PROc *vuba 'k.o. vine, probably _Derris elliptica_'
 
 but I am unable to determine how they differed in meaning from each other or from *tupa.
 
@@ -19191,10 +19191,10 @@ poison' or '_Derris_ sp.'. One is PMic _*(t,T)upa_, continuing POc _*tupa_ and r
 Woleaian _sūpe_ 'fish poison (root)'. Since _sūpe_ has _-p-_ for †_-f_ and PMic _*(t,T)upa_ is reconstructed
 for expected †_*tufa_, the reconstruction is suspect. The other PMic reconstruction is
 _*upa_ 'derris vine ', which is well supported in Micronesian languages and appears to have
-cognates in Southern Vanuatu, permitting reconstruction of Proto Remote Oceanic _*vuba_.
+cognates in Southern Vanuatu, permitting reconstruction of PROc _*vuba_.
 
 <
-Proto Remote Oceanic *vuba 'k.o. vine, probably _Derris elliptica_'
+PROc *vuba 'k.o. vine, probably _Derris elliptica_'
 PSV *na-vup 'k.o. vine' (Lynch 2001c: 236)
  SV:  Sye           na-vup
  SV:  Anejom        no-hop(ɣev)
@@ -19994,7 +19994,7 @@ then the likelihood of less frequently used terms being replaced by neologisms i
 
 14.3 Where do Oceanic plant names come from?
 
-Tables 14.3-14.9 list most of the POc, PWOc, PEOc and Proto Remote Oceanic terms (including generics)
+Tables 14.3-14.9 list most of the POc, PWOc, PEOc and PROc terms (including generics)
 reconstructed in this book. Omitted are (i) tem1s for plant parts and plant products and (ii)
 POc terms whose origin is unclear, i.e. the term has suspected but uncertain non-Oceanic
 cognates).
@@ -20002,12 +20002,12 @@ cognates).
     The number of terms in Tables 14.3-14.9 reconstructed at each interstage is shown in
 Table 14.1. A striking fact emerges: of 220 reconstructions, 177, or 80.4 %, are POc recon-
 structions, and only 43, or 19.6 % are attributable exclusively to the later interstages PWOc,
-PEOc and Proto Remote Oceanic-this despite the fact that data are available from languages that permit
+PEOc and PROc-this despite the fact that data are available from languages that permit
 the reconstruction of terms at these interstages, and every term that the data supported was
 reconstructed at the highest possible interstage. This heavy skewing towards POc is not at-
 tributable to patchiness in the data, but reflects a fact about Oceanic plant names, namely that
 POc terms are generally quite durable, and that only a minority underwent replacement in
-PWOc, PEOc and Proto Remote Oceanic. In fact the figures overstate replacement, because (i) a number of the
+PWOc, PEOc and PROc. In fact the figures overstate replacement, because (i) a number of the
 reconstructed lower-order terms coexisted with terms inherited from POc; (ii) it is possible
 that some of these terms will prove to be of POc antiquity as more data become available.
 
@@ -20019,7 +20019,7 @@ __tablenh__
                                    POc      |   177  | 80.4 %
                                    PWOc     |    22  | 10.0%
                                    PEOc     |    15  |  6.8%
-                   Proto Remote Oceanic     |     6  |  2.7%
+                   PROc     |     6  |  2.7%
                                    __Total__    |   __220__  | __99.9%__
 
 : Table 14.2   Inherited and possibly innovatory plant terms in Proto Oceanic
@@ -20035,7 +20035,7 @@ __tablenh__
 
     This skewing revealed in Table 14.1 is not peculiar to plant names. It reflects the speed
 of Oceanic settlement and the fact that Western Oceanic probably emerged out of a stay-at-home
-dialect network, whilst Proto Eastern Oceanic and Proto Remote Oceanic, as we noted
+dialect network, whilst Proto Eastern Oceanic and PROc, as we noted
 in chapter 1 (§3 .2.3), perhaps never really existed as the languages of discrete communities.
 
     Of 177 reconstructed POc plant terms, Table 14.2 shows that 80, or 45 %, have a known
@@ -20322,7 +20322,7 @@ _*sinu_                  |  'taxon of shrubs whose sap causes irritation, includ
 436     Malcolm Ross
 
 
-: Table 14.9: Proto Remote Oceanic plant terms with no known external cognates (6 reconstructions)
+: Table 14.9: PROc plant terms with no known external cognates (6 reconstructions)
 
 __tablenh__
       _*buavu_       | '_Hernandia_ sp.'

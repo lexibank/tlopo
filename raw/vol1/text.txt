@@ -5018,7 +5018,7 @@ POc *saRu 'comb' (Milke 1968)
  NNG: Bing            sar
  NNG: Gedaged         saȴ             'headgear made from feathers'
  SES: Tolo            tsalu
-Proto Remote Oceanic *seru 'comb' (Milke 1968)
+PROc *seru 'comb' (Milke 1968)
  NCV: Nguna           seru
  Fij: Rotuman         seru
  Fij: Bauan           (i)seru         (N) 'comb' (i- < POc *i- INS)

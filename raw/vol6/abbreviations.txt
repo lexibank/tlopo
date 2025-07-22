@@ -43,7 +43,7 @@ Mic    Nuclear Micronesia                          PREP     preposition
 
 
 PROc  Proto Remote Oceanic
-PSOc  Proto Southem Oceanic
+PSOc  Proto Southern Oceanic
 PSV   Proto South Vanuatu
 PT    Papuan Tip
 PURP  purposive

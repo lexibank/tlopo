@@ -6,7 +6,7 @@
 <td>{{ lname }}</td>
 <td><i>{{ form }}</i></td>
 {% if with_morpheme_gloss %}
-<td>[{{ mgloss }}]</td>
+<td>{% if mgloss %}[{{ mgloss }}]{% endif %}</td>
 {% endif %}
 <td>
 {% for g, cmt, pos, srcs in glosses %}{% if pos %}({{ pos }}) {% endif %}{% if g %}'{{ g|markdown }}'{% endif %}{% if cmt %} ({{ cmt|markdown }}){% endif %}{% if srcs %}

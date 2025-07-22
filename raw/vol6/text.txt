@@ -222,8 +222,8 @@ These compilations and the supporting data are problematic in various respects a
 have made only limited use of them.
 
    Comparative lexical studies have been carried out for several lower-order subgroups
-of Oceanic: for Proto Polynesian by Biggs (resulting in Walsh & Biggs 1966, Biggs,
-Walsh & Waqa 1970 and subsequent versions of the POLLEX file, including Biggs & Clark 1993,
+of Oceanic: for Proto Polynesian by Biggs (resulting in Walsh & Biggs 1966,
+Biggs, Walsh & Waqa 1970 and subsequent versions of the POLLEX file, including Biggs & Clark 1993,
 Clark & Biggs 2006 and online as Greenhill & Clark 2011); for Proto
 Micronesian by scholars associated with the University of Hawai‘i (Bender et al. 1983, 2003a, 2003b);
 for the ancestor of the Banks and Torres languages by Alexandre François
@@ -720,18 +720,18 @@ __block__
 - Eastern Oceanic, comprising SE Solomonic and Remote Oceanic.[18]
 
    If a cognate set occurs in two or all three of the groups in Remote Oceanic, the
-reconstruction is attributed to Proto Remote Oceanic (Proto Remote Oceanic). If a cognate set occurs in one
+reconstruction is attributed to PROc (PROc). If a cognate set occurs in one
 or more of the groups in Remote Oceanic and in SE Solomonic, it is attributed to Proto
 Eastern Oceanic (PEOc). In this way we acknowledge that such reconstructions may
 represent an innovation that postdates the spread of the early Oceanic speech community.
-There are enough Proto Remote Oceanic and PEOc reconstructions to suggest that such lexical innovations
+There are enough PROc and PEOc reconstructions to suggest that such lexical innovations
 indeed occurred. This in turn provides evidence for Remote Oceanic and Eastern Oceanic
 subgroups, but evidence that is too weak to be relied on, for at least two reasons. First, it is
-quite possible that some of our Proto Remote Oceanic and PEOc reconstructions will be promoted to POc
+quite possible that some of our PROc and PEOc reconstructions will be promoted to POc
 as more Admiralty and Western Oceanic data become available. Second, it is reasonable to
-assume that some of our Proto Remote Oceanic and PEOc etyma are of POc antiquity but happen to have
+assume that some of our PROc and PEOc etyma are of POc antiquity but happen to have
 been lost in Proto Admiralty and Proto Western Oceanic. Without supporting phonological
-or morphological evidence we are unwilling to treat Proto Remote Oceanic or PEOc as anything other than
+or morphological evidence we are unwilling to treat PROc or PEOc as anything other than
 convenient hypothetical groups which allow us to retain conservative criteria for a POc
 reconstruction.
 
@@ -756,9 +756,9 @@ reconstruction.
 
 # FIXME: relabel PEOc reconstructions in vol1 and vol2?
 
-    A reconstruction here labelled ‘Proto Remote Oceanic’ was labelled ‘PEOc’ in volume 1 or 2, but if it
-lacks SE Solomonic reflexes, it is labelled as a Proto Remote Oceanic reconstruction in volumes 3–6.
-Two factors have led to the distinction between PEOc and Proto Remote Oceanic in more recent
+    A reconstruction here labelled ‘PROc’ was labelled ‘PEOc’ in volume 1 or 2, but if it
+lacks SE Solomonic reflexes, it is labelled as a PROc reconstruction in volumes 3–6.
+Two factors have led to the distinction between PEOc and PROc in more recent
 volumes. One is that the historical separateness of SE Solomonic both from Western
 Oceanic and from groups treated as Remote Oceanic has become increasingly clear
 through recent research (Pawley 2009). The other, especially relevant to volume 3 on
@@ -766,7 +766,7 @@ plants and to volume 4 on animals, is that the primary biogeographic divide in O
 is between Near and Remote Oceania (see vol. 2, Map 5), i.e. between the main
 Solomons archipelago and the Temotu islands. Whether or not a plant or animal name
 has a SE Solomonic reflex is thus significant. Many plant names do not, and are thus
-attributed in volume 3 to Proto Remote Oceanic.
+attributed in volume 3 to PROc.
 
     Our criterion for attributing a reconstruction to POc is that the cognate set must
 include data from at least two out of three criterial groupings: Admiralties (or Yapese or
@@ -822,11 +822,11 @@ node up the tree. For a Western Oceanic cognate set, for example, this would mea
 reconstructing it to POc—this would defy the condition that a POc cognate set must be
 spread over at least two out of the four criterial groupings (§1.4.4.2).
 
-   As with PEOc and Proto Remote Oceanic (§1.4.4.2), we think it is more realistic to attribute these
+   As with PEOc and PROc (§1.4.4.2), we think it is more realistic to attribute these
 reconstructions to a hypothetical protolanguage rather than to a higher node in the tree.
 Hence there are reconstructions labelled PWOc and so on. Again these apparent lexical
 innovations offer only weak evidence for the protolanguage to which they are attributed.
-In addition to the explanations of the kinds offered above for PEOc and Proto Remote Oceanic etyma, it
+In addition to the explanations of the kinds offered above for PEOc and PROc etyma, it
 is possible, for example, that an innovatory ‘PWOc’ etymon arose when the Western
 Oceanic dialect network was still close-knit, and spread from dialect to dialect before
 the network broke into the two networks ancestral to its present-day first-order
@@ -923,7 +923,7 @@ are a number of etyma whose reflexes are confined to North and Central Vanuatu, 
 so we continue to include ‘Proto North/Central Vanuatu’ reconstructions. These perhaps
 represent a Southern Oceanic term that has been lost in southern Vanuatu and New
 Caledonia. Where the distribution of reflexes requires it, the chapters in this volume
-include reconstructions for Proto Remote Oceanic and for PSOc. Etyma with these distributions were
+include reconstructions for PROc and for PSOc. Etyma with these distributions were
 attributed to PEOc in volumes 1 and 2, but the distributions are transparent, thanks to the
 presence of the group labels in cognate sets (cf §1.4.4.2).
 
@@ -934,7 +934,7 @@ give its earliest source, e.g. ‘Blust 1987’ above, but this is difficult whe
 reconstructions differ in form and meaning and when their sources are not reported.
 
     In general, the contributions to these volumes are concerned with items
-reconstructable in POc, PWOc, PEOc, Proto Remote Oceanic and occasionally Proto New Guinea
+reconstructable in POc, PWOc, PEOc, PROc and occasionally Proto New Guinea
 Oceanic (PNGOc). Etyma for PWOc, PNGOc and PEOc are reconstructed because these
 may well also be POc etyma for which known reflexes are not well distributed (see
 discussion in §1.4.4). Reconstructions for lower-order interstages are decreasingly likely
@@ -1058,7 +1058,7 @@ his various publications and the ACD. Reconstructions at lower-order interstages
 given in the standard orthography adopted for data (§4.2). Geraghty’s (1986) PCP
 orthography, for example, is based on Standard Fijian spelling, and is converted into our
 standard orthography in the same way as Fijian spelling is. In practice, this means that
-the orthographies for PEOc, Proto Remote Oceanic and PCP are the same as for POc, except that a
+the orthographies for PEOc, PROc and PCP are the same as for POc, except that a
 distinction between _*p_ and _*v_ is recognised and _*R_ is generally absent from PCP.[23]
 Biggs and Clark’s PPn reconstructions are in any case written in an orthography
 identical to our standard. Bracketing and segmentation conventions in protoforms are
@@ -2707,7 +2707,7 @@ languages of Tanna (SV).(Lynch & Fakamuria 1994). It is probable that PPn had a
 terminology like that of Tongan and similar to Roro (Figure 2.5), in which all blood-relatives
 of ego’s generation were labelled in the same way as ego’s siblings, but the parental
 generation had dedicated terms for FZ and MB (Marck 1996). Loss of FZ and MB terms in
-various of the outliers and in Proto Eastern Polynesian resulted in structures like that in North Mekeo. However,
+various of the outliers and in PEPn resulted in structures like that in North Mekeo. However,
 Pukapuka, Tahitian and Hawaiian have also replaced PPn _*tina-_ ‘mother’ (§2.4.1.2.1) and
 _*tama-_ ‘father’ (§2.4.1.2.1) with a reflex of _*matuqa-_ ‘parent’ (§2.4.1.2.3). The elimination of
 the sex distinction in the parental generation has resulted in a purely generational structure in
@@ -4075,7 +4075,7 @@ PNPn *matuqa ‘parent, parent’s sibling; old, mature (of a person)’ (Marck 
   Pn: Rennellese      matuʔa              ‘husband’
   Pn: Tikopia         matua [29]          ‘parent’
   Pn: Pukapuka        matua               ‘parent; adult’
-Proto Eastern Polynesian *matuqa ‘parent, parent’s sibling’ (Marck 1996)
+PEPn *matuqa ‘parent, parent’s sibling’ (Marck 1996)
   Pn: Rapanui         matuʔa              ‘father, mother, parents’ (POLLEX)
   Pn: Māori           matua               ‘parent; parent’s sibling’
   Pn: Tahitian        metua               ‘parent; parent’s sibling’
@@ -4671,7 +4671,7 @@ PNPn *qilāmutu ‘♂sister’s child’ (Marck 1996)
   Pn: Pileni      ilamutu     ‘♂sister’s child’
   Pn: Takuu       [i]lāmotu   ‘mother’s brother; ♂sister’s child’
   Pn: Luangiua    lamoku      ‘mother’s brother; ♂sister’s child’
-Proto Eastern Polynesian *irāmutu ‘sibling’s child’ (Marck 1996)
+PEPn *irāmutu ‘sibling’s child’ (Marck 1996)
   Pn: Māori       irāmutu     ‘sister’s child (traditional sense)’
   Pn: Marquesan   iʔamutu     ‘sibling’s child’
   Pn: Mangareva   iramutu     ‘sibling’s child’ (Hīroa 1938:136)
@@ -4777,7 +4777,7 @@ PNPn *tupu-, *tupuna ‘kin of the second and further ascending generations’ (
   Pn:    Pileni           tʰupu-             ‘grandparent (ADDR)’
   Pn:    Takuu            tipuna, tippuna    ‘relative by blood or marriage two or more ascending generations’ (_tippuna_ PL)
   Pn:    Pukapuka         tupuna, tūpuna     ‘ancestor, grandparent’ (_tūpuna_ PL)
-Proto Eastern Polynesian *tupuna ‘kin of two or more ascending generations’ (Marck 1996)
+PEPn *tupuna ‘kin of two or more ascending generations’ (Marck 1996)
   Pn:    Rapanui          tupuna             ‘grandparent’ (Churchill 1912)
   Pn:    Māori            tupuna, tipuna     ‘grandparent, ancestor ’
   Pn:    Tahitian         tupuna             ‘grandparent, ancestor’
@@ -5302,7 +5302,7 @@ PNPn *taqo-kete ‘s.s. sibling’ (Marck 1996)
   Pn: East Futunan   taʔokete         ‘s.s. sibling’ (Biggs in POLLEX)
   Pn: Rennellese     taʔokete         ‘elder s.s. sibling’, {MBeS}, FPGSCesC
   Pn: Pukapuka       taokete          ‘s.s. sibling-in-law’
-Proto Eastern Polynesian *taqokete ‘s.s. sibling-in-law’ (Marck 1996)
+PEPn *taqokete ‘s.s. sibling-in-law’ (Marck 1996)
   Pn: Rapanui        taʔokete         ‘sibling-in-law’ (Fuentes 1960)
   Pn: Tahitian       tauete           ‘s.s. sibling-in-law’
   Pn: Marquesan      toete            ‘s.s. sibling-in-law, father’s sister’s husband’
@@ -5504,7 +5504,7 @@ PPn *tua-fafine, *tua-fine ‘♂sister’ (Marck 1996)
   Pn:    Tokelau            tua-fafine        ‘♂sister’, ♂{PG}D (Huntsman 1971)
   Pn:    Rennellese         tua-fafine        ‘♂sister’, ♂{PsG}D, ♂F{PsG}CD
   Pn:    Pileni             tʰuohine          ‘♂sister’, ♂PGD
-Proto Eastern Polynesian *tua-fine ‘♂sister’(Marck 1996)
+PEPn *tua-fine ‘♂sister’(Marck 1996)
   Pn:    Māori              tuahine           ‘♂sister’
   Pn:    Tahitian           tuehine           ‘♂sister’, ♀PGD
   Pn:    Marquesan          tuehine           ‘♂sister, father’s sister’
@@ -5945,7 +5945,7 @@ PPn *maqā ‘s.s. sibling-in-law’ (Pawley 1981:284)
   Pn:   Sikaiana           mā               ‘spouse’s sibling’
 >
 
-   PPn _*maqā_ was in turn displaced in Proto Eastern Polynesian by the reflex of PPn _*taqokete_ ‘elder s.s.
+   PPn _*maqā_ was in turn displaced in PEPn by the reflex of PPn _*taqokete_ ‘elder s.s.
 sibling’, which in EPn languages shifted to ‘s.s. sibling-in-law’ (§2.4.1.5.2).
 
    There are seeming gaps in the system of in-law terms. One might expect a specific term
@@ -5963,7 +5963,7 @@ element is _wia_ ‘good’ (vol.5:596–597). The first is perhaps reflected in
 Nguna _tā_, both glossed ‘friend’ (Clark 2009).
 
 <
-Proto Remote Oceanic *taku ‘brother-in-law’ (Lynch 2004d: NCV)
+PROc *taku ‘brother-in-law’ (Lynch 2004d: NCV)
  NCV: Akei               tau-             ‘♂brother-in-law’
  NCV: Araki              rahu-            ‘♂brother-in-law’, HZH
  NCV: Lonwolwol          tovʸa-           ‘♂wife’s brother’
@@ -8982,7 +8982,7 @@ people of a place. The compound _*tau panua_ ‘person belonging to a place, lan
 reconstructable for PEOc and on logical grounds it can be inferred that it was present in POc
 but lost in non-EOc languages.
 
-    A term for a land-owning descent group, _*kainaŋa_, is attributable to Proto Remote Oceanic, being reflected
+    A term for a land-owning descent group, _*kainaŋa_, is attributable to PROc, being reflected
 in both Micronesian and Polynesian languages but not in Western Oceanic, SE Solomonic or
 the Admiralties. As such, this term can be associated with the bearers of Lapita culture who
 moved into Remote Oceania but not with the Early Western Lapita tradition found in the
@@ -9900,7 +9900,7 @@ Micronesia and in Eastern Polynesia to cover chants of traditional knowledge.
 <
 POc *roroŋoR ‘to sound, be audible’ (cf. POc _*roŋoR_ ‘hear’, vol.5:499–503)
   MM:  Tolai         raroŋo          (VI) ‘to sing as water before boiling, or to sound as running water’
-Proto Remote Oceanic *[ro]roŋoR (V) ‘sing; chant, recite traditional lore’; (N) ‘traditional lore’
+PROc *[ro]roŋoR (V) ‘sing; chant, recite traditional lore’; (N) ‘traditional lore’
   Mic: Chuukese      rōŋ             ‘secretive cultural knowledge’ (Diettrich 2007:48)[11]
   Mic: Woleaian      ẓoŋo            ‘traditional lore; knowledge that passes down from father to son’
   Mic: Woleaian      ẓoŋī-a          (VT) ‘sing, recite, relate, verbalise s.t.’
@@ -14063,7 +14063,7 @@ and on weather.
 
     These events affect all stars that rise and set. They appear to have been of especial
 importance in Nuclear Polynesian (§11.5.8), where certain month names are associated with the
-rising or setting of a given star. PNPn _*tolu_ and Proto Eastern Polynesian _*takulua_
+rising or setting of a given star. PNPn _*tolu_ and PEPn _*takulua_
 evidently referred respectively
 to the pre-dawn rising of the middle star in Orion’s Belt and of Sirius, PNPn _*tākelo_ to the
 post-dusk rising of Betelgeuse. The most important sidereal checkpoints for traditional
@@ -14451,7 +14451,7 @@ __formgroup__
 
    Semantically the Fijian languages agree with the languages above in reflecting PEOc ‘big
 palolo’. They also agree with Loh, Mota and Mwotlap in having month names meaning ‘small
-palolo’, suggesting that the latter occurred in Proto Remote Oceanic.
+palolo’, suggesting that the latter occurred in PROc.
 
 __formgroup__
      Fij: Bauan     |balolo lailai|       ‘October’ (_lailai_ ‘small’)
@@ -15823,7 +15823,7 @@ occurred three or four weeks earlier than today.
 
 
 <
-Proto Remote Oceanic *u(C)unu ‘Aldebaran’ (given as PEOc in vol.2:167)
+PROc *u(C)unu ‘Aldebaran’ (given as PEOc in vol.2:167)
 PMic *ūnu ‘Aldebaran’
   Mic: Kiribati            un               ‘star name’
 PChk *ūnu ‘late July, early August; the star Aldebaran’
@@ -15998,7 +15998,7 @@ PChk *məəl ‘about February; the star Vega in Lyra’
   The next reconstruction, literally ‘big mati’ contrasts with PMic _*mati-ciki_ above, ‘small
 _mati_’ (meaning of _mati_ unknown). Elbert (1972) attributes the meaning ‘big/old breadfruit’ to
 the Puluwat term, since the Puluwat breadfruit season lasts from May until December (_mæy_ >
-Proto Remote Oceanic _*maRi_ ‘breadfruit’). However, there is clear support for PMic _*mati-_ as the first element.
+PROc _*maRi_ ‘breadfruit’). However, there is clear support for PMic _*mati-_ as the first element.
 
                                                             Seasonal cycles and lunations 345
 
@@ -16445,7 +16445,7 @@ do not give much support to this reconstructed meaning, they seem to be correct,
 denoted by its reflexes immediately follows _*palolo muri_ in E. Futunan, Samoa, Tokelau,
 Tuvalu, Manihiki and Tahiti. The term may be more correctly _muri-afā_ ‘end of storms’ (< POc
 _*muri_ + _*apaRat_), referring to the end of the trade-wind season. Tuvaluan _murifa_ seems to
-represent a halfway stage en route from PNPn _*munifa_ to Proto Eastern Polynesian _*muriafa_.
+represent a halfway stage en route from PNPn _*munifa_ to PEPn _*muriafa_.
 
 354 Meredith Osmond and Malcolm Ross
 
@@ -16455,7 +16455,7 @@ PNPn *munifa ‘November–December’
  Pn: Tokelauan       mulifa          ‘August’
  Pn: E Futunan        munifa          ‘constellation, Southern Cross (?); 7th month, October’
  Pn: Tuvaluan        murifa          ‘October; first month of the season of westerly winds’
-Proto Eastern Polynesian *muriafa ‘November–December’
+PEPn *muriafa ‘November–December’
  Pn: Manihiki        muriaha         ‘November’
  Pn: Penrhyn         muriaha         ‘March’
  Pn: Tahitian        muriaha         ‘September’
@@ -16691,7 +16691,7 @@ their sequencing could not be fully fixed.
 flexibility. Kirch & Green (2001:271) have also reconstructed a list, varying from ours in
 some of its month assignments and in the interstage to which a number of terms are
 reconstructed. Under our analysis fairly complete sets of month names are reconstructed for
-PNPn and Proto Eastern Polynesian, and a partial set for PPn. The two calendars are reproduced as Table 11.24,
+PNPn and PEPn, and a partial set for PPn. The two calendars are reproduced as Table 11.24,
 where “<” means ‘a reflex of the term to the left’.
 
    As the rightmost column of the table shows, month names are largely a mixture of
@@ -18352,7 +18352,7 @@ POc *noŋi, *ŋoni ‘beg, ask (for s.t.)’ (Milke 1968: _*noŋi_; ACD: _*ŋoni
 PEOc *noqi ‘ask for, beg’ (?)
   SES: Ghari                no-no               ‘ask for’
   SES: Tolo                 noki-               ‘ask for, request’
-Proto Eastern Polynesian *noqi ‘ask for, solicit’ (POLLEX)
+PEPn *noqi ‘ask for, solicit’ (POLLEX)
   Pn:   Pukapuka            noi-noi             ‘be greedy’
   Pn:   Rapanui             no-noʔi             ‘ask, beg, request, implore, pray, solicit’
   Pn:   Rarotongan          noi-noi             ‘covet, desire greedily’
@@ -18800,14 +18800,14 @@ PEOc *[ta]tata ‘stammer’ (?)
 >
 
     The two reconstructions below are verbs meaning ‘talk in a foreign languages’, but some
-reflexes of Proto Remote Oceanic *kato are perhaps metaphorical variations on the meaning. Proto
+reflexes of PROc *kato are perhaps metaphorical variations on the meaning. Proto
 Micronesian appears to have changed the final vowel from _*-o_ to _*-a_.
 
-    It is just possible that PPn _*kote_ does reflect Proto Remote Oceanic _*kato_, but with unexpected changes in
+    It is just possible that PPn _*kote_ does reflect PROc _*kato_, but with unexpected changes in
 its vowels.
 
 <
-Proto Remote Oceanic *kato (V) ‘speak a foreign language’; (N) ‘speech, language, foreign language’
+PROc *kato (V) ‘speak a foreign language’; (N) ‘speech, language, foreign language’
   NCV: Vurës          ɣat               ‘say’
   NCV: Mwotlap        ɣatɣat            (V; N) ‘speak, speak another language; language, dialect’
   NCV: Mota           ɣato              (V; N) ‘speak, speak another language, talk nonsense in delirium; foreign language’
@@ -23287,7 +23287,7 @@ PMic *-fata ‘long cylindrical object; tree trunk’ (Harrison & Jackson 1984; 
 For example, hypothetical †_*rau-_ ‘flat object; leaf’ (cf POc _*raun_ ‘leaf’; vol.3:103–104) is
 found only in Micronesian languages. Clark (1999) includes it among his PPn
 reconstructions, but the reflexes in POLLEX online are unconvincing for this sense, making
-even a Proto Remote Oceanic reconstruction insecure. A better attested classifier reconstruction for ‘flat
+even a PROc reconstruction insecure. A better attested classifier reconstruction for ‘flat
 object; leaf’ is POc _*qapa-_ above.
 
                                                      Numerals, classifiers and counting 489

@@ -172,7 +172,7 @@ as part of a project directed by Grace and Pawley. These compilations and the su
 data are problematic in various respects and we have made only limited use of them.
 
     Comparative lexical studies have been carried out for several lower-order subgroups of
-Oceanic: for Proto Polynesian by Biggs (resulting in Walsh & Biggs 1966, Biggs et al. 1970
+Oceanic: for Proto Polynesian by Biggs (resulting in Walsh & Biggs 1966, Biggs, Walsh & Waqa 1970
 and subsequent versions of the pollex file, including Biggs & Clark (1993) and Clark &
 Biggs (2006); for Proto Micronesian by scholars associated with the University of Hawai‘i
 (Bender et al. 1983, Bender et al. 2003); for the ancestor of the Banks and Torres languages by
@@ -470,11 +470,11 @@ diverged greatly from each other, but the details of this history are difficult 
     The languages of a linkage have no identifiable exclusively shared parent. Yet we have
 found many instances in which a cognate set is limited to one of the linkages in Figures 1.1
 and 1.2: CEMP, Western Oceanic, New Guinea Oceanic, Southern Oceanic or the reintegrated
-North and Central Vanuatu linkage. As with PEOc and Proto Remote Oceanic (§3.2.4), we think it is preferable
+North and Central Vanuatu linkage. As with PEOc and PROc (§3.2.4), we think it is preferable
 to attribute these reconstructions to a hypothetical protolanguage rather than to a higher node
 in the tree. Hence there are reconstructions labelled PCEMP, PWOc and so on. Again these
 apparent lexical innovations offer only the weakest evidence for the protolanguage to which
-they are attributed. In addition to the explanations of the kinds offered for PEOc and Proto Remote Oceanic
+they are attributed. In addition to the explanations of the kinds offered for PEOc and PROc
 etyma in §3.2.4 it is possible, for example, that an innovatory ‘PWOc’ etymon arose when the
 Western Oceanic dialect network was still close-knit, and spread from dialect to dialect before
 the network broke into the two networks ancestral to its present-day first-order subgroups.
@@ -581,28 +581,28 @@ express reservations about its status.
 
 
 If a cognate set occurs in two or all three of the groups in Remote Oceanic, the reconstruction
-is attributed to Proto Remote Oceanic (Proto Remote Oceanic). If a cognate set occurs in one or more of the
+is attributed to PROc (PROc). If a cognate set occurs in one or more of the
 groups in Remote Oceanic and in SE Solomonic, it is attributed to Proto Eastern Oceanic
 (PEOc). In this way we acknowledge that such reconstructions may represent an innovation
-that postdates the spread of the early Oceanic speech community. There are enough Proto Remote Oceanic and
+that postdates the spread of the early Oceanic speech community. There are enough PROc and
 PEOc reconstructions to suggest that such lexical innovations indeed occurred. This in turn
 provides weak evidence for Remote Oceanic and Eastern Oceanic subgroups, but evidence
 that is too weak to be relied on, for at least two reasons. First, it is quite possible that some of
-our Proto Remote Oceanic and PEOc reconstructions will be promoted to POc as more Admiralty and Western
-Oceanic data become available. Second, it is reasonable to assume that some of our Proto Remote Oceanic
+our PROc and PEOc reconstructions will be promoted to POc as more Admiralty and Western
+Oceanic data become available. Second, it is reasonable to assume that some of our PROc
 and PEOc etyma are of POc antiquity but happen to have been lost in Proto Admiralty and
 Proto Western Oceanic. Without supporting phonological or morphological evidence we are
-unwilling to treat Proto Remote Oceanic or PEOc as anything other than convenient hypotheses which allow
+unwilling to treat PROc or PEOc as anything other than convenient hypotheses which allow
 us to retain rigorous criteria for a POc reconstruction.
 
-     In volumes 1 and 2 a reconstruction here labelled ‘Proto Remote Oceanic’ would have been labelled
+     In volumes 1 and 2 a reconstruction here labelled ‘PROc’ would have been labelled
 ‘PEOc’, but the absence of SE Solomonic reflexes from among its reflexes indicates that
-it has the same status as a Proto Remote Oceanic reconstruction in volume 3 and the present volume. Two
-factors have led to the distinction between PEOc and Proto Remote Oceanic here. One was particularly relevant to
+it has the same status as a PROc reconstruction in volume 3 and the present volume. Two
+factors have led to the distinction between PEOc and PROc here. One was particularly relevant to
 volume 3: because the primary biogeographic divide in Oceania is between Near
 and Remote Oceania (see vol. 2, Map 5), i.e. between the Solomon Islands and Vanuatu, the
 question of whether or not a plant name includes a SE Solomonic reflex is significant, and
-there are many plant names that do not (and are thus attributed to Proto Remote Oceanic). The other is that the
+there are many plant names that do not (and are thus attributed to PROc). The other is that the
 historical separateness of SE Solomonic from both Western Oceanic and the groups treated
 as Remote Oceanic has become increasingly clear through recent research (Pawley 2009).
 
@@ -815,7 +815,7 @@ are a number of etyma whose reflexes are confined to North and Central Vanuatu, 
 continue to make ‘Proto North/Central Vanuatu’ reconstructions, even though these perhaps
 represent a Southern Oceanic term that has been lost in southern Vanuatu and New Caledonia.
 Where the distribution of reflexes requires it, the chapters in this volume include
-reconstructions for Proto Remote Oceanic and for PSOc. Etyma with these distributions were attributed to PEOc in
+reconstructions for PROc and for PSOc. Etyma with these distributions were attributed to PEOc in
 volumes 1 and 2, but the distributions are transparent, thanks to the presence of the group
 labels in cognate sets.
 
@@ -830,7 +830,7 @@ earliest source, e.g. ‘ACD’ above, but this is difficult when earlier recons
 form and meaning.
 
     In general, the contributions to these volumes are concerned with items reconstructable
-in POc, PWOc, PEOc, Proto Remote Oceanic and occasionally Proto New Guinea Oceanic (PNGOc). Etyma
+in POc, PWOc, PEOc, PROc and occasionally Proto New Guinea Oceanic (PNGOc). Etyma
 for PWOc, PNGOc and PEOc are reconstructed because these may well also be POc etyma
 for which known reflexes are not well distributed (see discussion in §3.2.4). The contributors
 vary in the degree to which they reconstruct etyma for interstages further down the tree.
@@ -966,7 +966,7 @@ interstages the orthographies are those used by Blust in his various publication
 ACD. Reconstructions at lower-order interstages are given in the standard orthography adopted
 for data (§4.2). Geraghty’s (1986) PCP orthography, for example, is based on Standard Fijian
 spelling, and is converted into our standard orthography in the same way as Fijian spelling is.
-In practice, this means that the orthographies for PEOc, Proto Remote Oceanic and PCP are the same as for
+In practice, this means that the orthographies for PEOc, PROc and PCP are the same as for
 POc, except that a distinction between _*p_ and _*v_ is recognised and _*R_ is absent from PCP.
 Biggs and Clark’s PPn reconstructions are in any case written in an orthography identical
 to our standard. Bracketing and segmentation conventions in protoforms are shown in Table
@@ -1978,7 +1978,7 @@ Figure 2.5: _Gynmothorax_ sp., barred moray eel
 while the PCP evidence reflects two.
 
 <
-Proto Remote Oceanic *dābea ‘_Gymnothorax_, moray eel’
+PROc *dābea ‘_Gymnothorax_, moray eel’
   Mic:  Marshallese           rāp            ‘_Gymnothorax_, moray, large and black’
   Mic:  Chuukese              rāp            ‘moray eel’
   Mic:  Ponapean              rap            ‘saltwater eel, commonly found on barrier reef’
@@ -2001,7 +2001,7 @@ together. The flesh of both is excellent. Both occur in shallow water, although 
 have deep-water forms.
 
 <
-Proto Remote Oceanic *bonu ‘k.o. eel, probably conger’
+PROc *bonu ‘k.o. eel, probably conger’
   Mic:  Kiribati    (ra)pʷono    ‘moray eel’ (_ra-_ ‘defective’?)
 PCP *bon(u,o) ‘conger eel’ (Geraghty: *bonu ‘Ophichthidae, snake eel’)
   Fij:  Bauan       bonu         ‘_Scolecenchelys macropterus_, slender snake eel’
@@ -2017,7 +2017,7 @@ cf. also:
 46   Meredith Osmond
 
 <
-Proto Remote Oceanic *baku ‘conger eel’
+PROc *baku ‘conger eel’
   SV:   Sye         poki                     ‘k.o. eel, possibly conger’
   SV:  Lenakel      pəku                     ‘k.o. eel’
   Fij: Rotuman      paʔu                     ‘sea eel’
@@ -2056,15 +2056,15 @@ POc *malayo ‘sea eel, possibly generic’
     Mota has two similar terms, _maleo_ and _marea_, and it is possible that the former is a
 borrowing from a Western Oceanic language. The next set is in complementary distribution
 to the one above, and it may be that we are dealing with a single cognate set, although we
-would expect Proto Remote Oceanic †_*malaya_ if directly inherited. It is possible that
-Proto Remote Oceanic _*maraya_ was
+would expect PROc †_*malaya_ if directly inherited. It is possible that
+PROc _*maraya_ was
 borrowed from an unrecorded language’s reflex of POc _*malayo_. Arosi (SES) _marea_ ‘k.o.
 eel’ also appears to reflect _*maraya_, but it is reasonably likely that this is a Mota borrowing
 introduced by missionaries, as Mota was a missionary lingua franca which was also used in
 parts of the Solomon Islands in the nineteenth century.
 
 <
-Proto Remote Oceanic *maraya ‘sea eel’ (Clark 2009:141)[9]
+PROc *maraya ‘sea eel’ (Clark 2009:141)[9]
   NCV: Mota         marea            ‘sea eel’
   NCV: Tamambo      marai            ‘k.o. eel, not for eating’
   NCV: NE Ambae     marae            ‘eel’
@@ -2440,7 +2440,7 @@ cf. also
 >
 
 <
-Proto Remote Oceanic *mʷalau ‘squirrelfish, possibly generic for a number of spp.’
+PROc *mʷalau ‘squirrelfish, possibly generic for a number of spp.’
   Mic: Marshallese   mʷən          ‘_Myripristis_ sp., squirrelfish’
   Mic: Woleaian      mʷēri         ‘red snapper, general term’
   Mic: Carolinian    mʷēn          ‘k.o. squirrelfish’
@@ -2647,7 +2647,7 @@ little-known fish, not more than 10 cm in length, and very dissimilar to mullets
 <
 POc *kaRapa ‘k.o. fish’
   PT:   Balawaia     kalava        ‘mandarin fish’
-Proto Remote Oceanic *kaRapa ‘_Liza vaigiensis_, diamond-scaled mullet’
+PROc *kaRapa ‘_Liza vaigiensis_, diamond-scaled mullet’
   SV:   Anejom       kapa(n)       ‘adult freshwater mullet’
   NCal: Nelemwa      kʰolâp        ‘_Mugil macrolepis_’ [Chelon macrolepis]
   Mic:  Carolinian   araf          ‘mullet’
@@ -2668,7 +2668,7 @@ PPn *kafa ‘_Liza vaigiensis_’ (Hooper 1994)
 
     Geraghty 1994 (p.157) reconstructs PCP _*jeqevo(o,u)_, PPn _*teqefō_ ‘juvenile mullet’. John
 Lynch (pers. comm.) suggests that a number of New Caledonian reflexes, Fwai, Nemi, Jawe
-_thiāp_ ‘mangrove mullet’, may be related, thus indicating Proto Remote Oceanic _*jeqevo(o,u)_.
+_thiāp_ ‘mangrove mullet’, may be related, thus indicating PROc _*jeqevo(o,u)_.
 
     Hooper 1994 (p.204) reconstructs PPn _*fua-fua_ ‘juvenile mullet’. With the addition of Wayan
 Fijian _vua-vua_ ‘small reef fish, 2-3 cm’ this reconstruction can be raised to PCP _*vua-vua_
@@ -2829,7 +2829,7 @@ also §13, p.52). As both Wayan and Niuatoputapu distinguish three stages of gro
 growth stage can be identified as PCP _*moto-moto_.
 
 <
-Proto Remote Oceanic *moto ‘k.o. fish’
+PROc *moto ‘k.o. fish’
   Mic: Kiribati       moto          ‘k.o. fish’
 PCP *moto-moto ‘growth stage of _Sphyraena_ sp.’
   Fij: Wayan          moto-moto     ‘juvenile of barracuda spp.’
@@ -3240,7 +3240,7 @@ PEOc *taliku ‘Carangid’
 >
 
 <
-Proto Remote Oceanic *lubo ‘_Caranx_ spp.’
+PROc *lubo ‘_Caranx_ spp.’
   SV:   Anejom        ne-ropʷ       ‘_Caranx melampygus_’
 PPn *lupo ‘_Caranx_ spp.’ (Hooper 1994)
 PPn *lupo-lupo ‘juvenile _Caranx_ spp.’ (Hooper 1994)
@@ -3553,7 +3553,7 @@ The mojarras are small silvery fish with very protractile jaws, superficially re
 (Leiognathidae). They move in large schools, mostly along sandy shores (Munro 1967: p.331).
 
 <
-Proto Remote Oceanic *matu ‘_Gerres_ spp., silver biddy’
+PROc *matu ‘_Gerres_ spp., silver biddy’
   NCal: Iaai          (o)mök       ‘_Gerres_ sp.’
   Mic:  Marshallese   mec-mec      ‘_Lethrinus microdon_. snapper’
 PCP *matu ‘Gerres’ (Geraghty 1994)
@@ -3944,7 +3944,7 @@ in Pre-Tongic (where _r_ > ∅), with later loss of initial _a-_. In PNPn _*ranu
 sound change, then _*nanue_ by assimilation.
 
 <
-Proto Remote Oceanic *r(a,e)nu(a,e) ‘_Kyphosus_, rudderfish’
+PROc *r(a,e)nu(a,e) ‘_Kyphosus_, rudderfish’
   Mic: Marshallese  ṛənna           ‘_Kyphosus vaigiensis_, Waigeu drummer’
   Mic: Carolinian   rēl             ‘rudderfish’
   Mic: Satawalese   rə̄n            ‘_Kyphosus_ spp., drummer’
@@ -4805,7 +4805,7 @@ cf. also:
 >
 
    The distribution of the reflexes below strongly supports POc _*balaki_ and a seemingly
-innovative Proto Remote Oceanic _*balaqi_.
+innovative PROc _*balaqi_.
 
 
 [34] The Rotuman is in some doubt because of the irregular initial and the specific definition, though the final
@@ -4843,7 +4843,7 @@ cf. also:
 >
 
 <
-Proto Remote Oceanic *manini ‘_Acanthurus triostegus_, convict tang’
+PROc *manini ‘_Acanthurus triostegus_, convict tang’
   NCV: Raga            manini         ‘_Acanthurus_ spp. incl. _Acanthurus triostegus_’
   NCV: Namakir         manin          ‘k.o. surgeonfish’
   Fij: Lau (Eastern Fijian)             manini         ‘_Acanthurus triostegus_’
@@ -5076,7 +5076,7 @@ the Pacific borrowed the term from an Oceanic language (most likely in the weste
 Islands) that preserved final consonants, and then introduced it into the Philippines’.
 
 <
-Proto Remote Oceanic *tawa-tawa ‘growth stage of skipjack or dogtooth tuna’
+PROc *tawa-tawa ‘growth stage of skipjack or dogtooth tuna’
    Mic: Kiribati     tawa-tawa    ‘_Euthynnus affinis_, mackerel tuna’
    Mic: Puluwatese   yawo(rɔpʷ)   ‘large growth stage of skipjack’
 PPn *tawa-tawa ‘_Euthynnus yaito_ [Euthynnus affinis], black tuna, or _Gymnosarda unicolor_, juvenile, dogtooth tuna’ (Hooper: PNPn)
@@ -5552,7 +5552,7 @@ Figure 2.33: _Ostracion_ nasus, shortnosed boxfish
 POc *bʷaReu ‘_Ostracion_, boxfish’
   PT:  Misima      bʷale(loga)        ‘_Choerodon anchorago_, anchor trunkfish’
   SES: Lau         kʷaleu             ‘k.o. fish’
-Proto Remote Oceanic *bʷar(o)-bʷar(o) ‘_Ostracion_, boxfish’ (Lynch: PSO *bʷar(o)-bʷar(o))
+PROc *bʷar(o)-bʷar(o) ‘_Ostracion_, boxfish’ (Lynch: PSO *bʷar(o)-bʷar(o))
   NCV: Mwotlap     na-pʷay-pʷay       ‘_Ostracion meleagris_, white-spotted boxfish’
   NCV: Uripiv      (da)pur-pur        ‘_Ostracion_, boxfish’
 PCP *gʷao-gʷao ‘_Ostracion_’ (Geraghty 1994)
@@ -5720,7 +5720,7 @@ cf. also:
 128   Meredith Osmond
 
 <
-Proto Remote Oceanic *bʷakaRe ‘porcupine fish’ (Clark 2009:93, PNCV)
+PROc *bʷakaRe ‘porcupine fish’ (Clark 2009:93, PNCV)
   NCV: Mota          pʷaɣare         ‘urchin fish’
   NCV: Vera’a        pʷaɣar          ‘_Diodon_ spp.’
   NCV: Mwotlap       (na-)pʷɣay      ‘_Diodon holocanthus_, porcupine fish’
@@ -7598,7 +7598,7 @@ shrimps and this was evidently the case in POc. However, a second term, _*luRa_,
 in certain Micronesian and Fijian languages.
 
 <
-Proto Remote Oceanic *luRa ‘small shrimp’ (Geraghty 1990: PEOc)
+PROc *luRa ‘small shrimp’ (Geraghty 1990: PEOc)
   Mic: Ponapean        lūr             ‘a small shrimp’
   Mic: Mokilese        lūr             ‘a small shrimp’
   Fij: (unspecified)   lua             ‘a small shrimp’
@@ -8650,7 +8650,7 @@ PPn *(p,f)āsua ‘_Tridacna_ clam sp.’
   Pn:  Rennellese    hāsua          ‘general term for _Tridacna_ spp.’
   Pn:  Emae          fāsua          ‘_Tridacna_ sp., giant clam’
   Pn:  Ifira-Mele    vasu-vāsua     ‘k.o. edible bivalve’
-Proto Eastern Polynesian-Northern Outlier *pāsua ‘_Tridacna_ sp. or spp.’
+PEPn-Northern Outlier *pāsua ‘_Tridacna_ sp. or spp.’
   Pn:  Sikaiana      pāsua          ‘clam’
   Pn:  Tokelauan     pāua           ‘poisonous shellfish attached under shelving coral’
   Pn:  Nukuoro       pāsua          ‘_Tridacna maxima_’
@@ -9478,11 +9478,11 @@ coloured, in contrast to colonial anemones which form a green mat on rocks and r
 4.6.1 Anemones
 
 No POc term denoting anemones is reconstructable on present evidence. A problem is that
-few dictionaries of WOc languages provide a term for this group of animals. Proto Remote Oceanic
+few dictionaries of WOc languages provide a term for this group of animals. PROc
 _*druman(e,i)_ ‘anemone’ has reflexes in North and Central Vanuatu, Fijian, Rotuman and Polynesian.
 
 <
-Proto Remote Oceanic *druman(e,i) ‘anemone’
+PROc *druman(e,i) ‘anemone’
   NCV: Mota          rumʷane     ‘a sea anemone’
   NCV: S Efate       n-rimen     ‘a sea anemone’
   Fij:  Rotuman      nunami      ‘anemone’ (metathesis)
@@ -11870,7 +11870,7 @@ Remote Oceanic _*takulasi_ or _*takusali_ ‘sea snake’. Metathesis of consona
 more than once in the final two syllables, making the original form uncertain.
 
 <
-Proto Remote Oceanic *takulasi ‘sea snake’ (PSOc _*ta(k,g)ulasi_ or _*ta(k,g)usali_ ‘sea snake’; John Lynch, pers. comm.)
+PROc *takulasi ‘sea snake’ (PSOc _*ta(k,g)ulasi_ or _*ta(k,g)usali_ ‘sea snake’; John Lynch, pers. comm.)
   NCV: Lo-Toga      təɣlɛh                 ‘sea snake’
   NCV: Lonwolwol    telsil                 ‘snake’
   NCV: Paamese      tousali                ‘sea snake’
@@ -14673,7 +14673,7 @@ PEOc *belik(e,i)o ‘pigeon sp.’
 >
 
 <
-Proto Remote Oceanic *soge ‘pigeon sp.’
+PROc *soge ‘pigeon sp.’
   NCV:  Nasarian     nə-soᵑg       ‘black pigeon of the mountains’
   Fij:  Bauan        soge          ‘Peak’s Pigeon, _Ducula latrans_’
   Fij:  Bauan        soge(loa)     ‘White-throated Pigeon, _Columba vitiensis_’ (_loa_ ‘black’)
@@ -15226,7 +15226,7 @@ cf. also:
 >
 
 <
-Proto Remote Oceanic *lulu ‘Barn Owl, _Tyto alba_’
+PROc *lulu ‘Barn Owl, _Tyto alba_’
   NCV: Kiai           lulu
   NCV: Araki          lulu
   NCV: Atchin         lul             ‘the night hawk’
@@ -15407,7 +15407,7 @@ PNCal *bivilo(k) ‘swiftlet’
 >
 
 <
-Proto Remote Oceanic *ka(r,l)aka(r,l)a ‘swiftlet’
+PROc *ka(r,l)aka(r,l)a ‘swiftlet’
   NCV: Mwotlap      ne-keykey(beye)         ‘Uniform Swiftlet, _Aerodramus vanikorensis_’
   NCV: Matantas     na-textitkarakara       ‘White-bellied Swiftlet, _Collocalia esculenta_’
   NCV: Matantas     na-karakara(poi)        ‘_Aerodramus vanikorensis_’
@@ -15955,7 +15955,7 @@ __formgroup__
    MM:  Tolai          kəo, kau        ‘_Philemon cockerelli_’
 
 <
-Proto Remote Oceanic *(b,v)asilo ‘honeyeater’
+PROc *(b,v)asilo ‘honeyeater’
   NCV:  Raga           (busu)bihil       ‘Cardinal Honeyeater, _Myzomela cardinalis_’
   NCV:  SE Ambrym      vasil             ‘_Myzomela cardinalis_’
   NCV:  Paamese        vasiro            ‘_Myzomela cardinalis_’
@@ -16209,7 +16209,7 @@ Wedge-tailed Shearwater (_Puffinus pacificus_) breeds in the vicinity and is pre
 and boobies.
 
 <
-Proto Remote Oceanic *tinebu ‘petrel’
+PROc *tinebu ‘petrel’
   NCal: Nyelayu     cīnek        ‘nightbird’
   NCal: Nelemwa     ĩlep         ‘Tahiti Petrel, _Pseudobulweria rostrata_) and Wedge-tailed Shearwater, _Puffinus pacificus_’
   NCal: Caaac       ñhīnek       ‘_Puffinus_ spp.’
@@ -16227,7 +16227,7 @@ POc *saba(l) ‘petrel or albatross’
 >
 
 <
-Proto Remote Oceanic *|koro +| ‘petrel’ (+ modifier)
+PROc *|koro +| ‘petrel’ (+ modifier)
   NCV: Namakir       koro(lik)     ‘black sea bird sp.’
   NCV: N Efate [12]   koro(liko)    ‘Wedge-tailed Shearwater, _Puffinus pacificus_’
   Mic: Kiribati      koro(paro)    ‘_Puffinus pacificus_’
@@ -16235,7 +16235,7 @@ Proto Remote Oceanic *|koro +| ‘petrel’ (+ modifier)
 >
 
 <
-Proto Remote Oceanic *ta(i)ko(k) ‘petrel’
+PROc *ta(i)ko(k) ‘petrel’
 PSV *n-tako-tako(k) ‘petrel’
   SV:   Kwamera     təkurakák     ‘mutton bird (petrel spp.)’
   SV:   Lenakel     təkərka       ‘mutton bird’
@@ -16338,7 +16338,7 @@ widely reported, while the Blue-faced Booby (_Sula dactylatra_) appears to be th
 Only in Polynesia and Micronesia are the three species lexically distinguished.
 
 <
-Proto Remote Oceanic *pue ‘Booby, _Sula_ sp.’
+PROc *pue ‘Booby, _Sula_ sp.’
   NCal: Nelemwa       (hʷare)wue      ‘Brown Booby, _Sula leucogaster_’
   NCal: Caaac         ūa
   NCal: Fwai          (tʰefʷana)we
@@ -16437,7 +16437,7 @@ PNPn *katoko ‘booby’
 >
 
 <
-Proto Remote Oceanic *kemoa ‘booby’ (cf. perhaps PWOc _*kamʷaga_ ‘eagle, hawk’; §5.4.2)
+PROc *kemoa ‘booby’ (cf. perhaps PWOc _*kamʷaga_ ‘eagle, hawk’; §5.4.2)
   Mic:    Woleaian      xemoa        ‘booby bird’
   Mic:    Puluwatese    yɔmɔ         ‘booby bird’
   Mic:    Chuukese      ɔmɔ          ‘booby bird’
@@ -16614,7 +16614,7 @@ cf. also:
 Figure 6.22: _Pluvialis fiulva_, Pacific Golden Plover
 
 <
-Proto Remote Oceanic *kVlili ‘Wandering Tattler, _Heteroscelus incanus_’
+PROc *kVlili ‘Wandering Tattler, _Heteroscelus incanus_’
   NCal: Nelemwa       hilili        ‘_Heteroscelus incanus_ and Pacific Golden Plover, _Pluvialis fulva_’
 PMic *k(i,u)lili ‘Wandering Tattler, _Heteroscelus incanus_’
  Mic: Woleaian        ilīl(i)        ‘plover’
@@ -16739,7 +16739,7 @@ cf. also: Probable borrowing from a Micronesian language:
 >
 
 <
-Proto Remote Oceanic *keke~*kaka ‘wader’
+PROc *keke~*kaka ‘wader’
   SV:   Anejom       na-ɣaɣ      ‘Wandering Tattler, _Heteroscelus incanus_’
   NCal: Nyelayu      cẽẽk        ‘shore bird’
   Mic:  Woleaian     (riy)ak(a)  ‘bristle-thighed curlew’
@@ -17337,7 +17337,7 @@ PWOc *ka(R,r)oma ‘nit’
 
 7.2.4 Search head for lice
 
-One POc term and one Proto Remote Oceanic term have been reconstructed with specific reference to searching
+One POc term and one PROc term have been reconstructed with specific reference to searching
 for lice. Other terms with more general meaning, particularly POc _*tirop_, _*tirop-i_ ‘look
 intently’, are sometimes used. In Kove (NNG) the expression is _ravu tuma_ ‘feel for lice’
 (Ann Chowning, pers. comm.).These terms indicate the likelihood of reciprocal grooming,
@@ -17368,7 +17368,7 @@ POc *tapu(s), *tapus-i- ‘seek lice’
 >
 
 <
-Proto Remote Oceanic *pakit, *pakit-i- ‘search hair for lice’
+PROc *pakit, *pakit-i- ‘search hair for lice’
   NCV:    Tamambo        vahi          ‘groom hair, search head for lice’
   NCV:    Nguna          vāke          ‘search hair for lice’
   Mic:    Woleaian       faxiti        ‘search hair for lice’
@@ -17638,7 +17638,7 @@ POc *ma-kini(t) ‘mosquito’
   MM: Nakanai         makili-kili   ‘black gnats, sandflies’
   MM: Bali            makini-kini   ‘mosquito’
   MM: Bulu            makini-kini   ‘mosquito’
-Proto Remote Oceanic *makini ‘to be stung’
+PROc *makini ‘to be stung’
   NCV: Nguna          makini-kini   ‘itchy’
   Pn:   Samoan        maʔini        ‘to sting, to smart’
   Pn:   Tongan        makini        ‘to have a pricking or tingling sensation like pins and needles’ (also _makini-kini_ implying duration)
@@ -18280,7 +18280,7 @@ cf. also:
    NCV:  Mwotlap          titi(key)         ‘grasshopper’
 >
 
-    Any resemblance between POc _*riŋa_ and Proto Remote Oceanic _*liŋo-liŋo_ is probably fortuituous.
+    Any resemblance between POc _*riŋa_ and PROc _*liŋo-liŋo_ is probably fortuituous.
 
 <
 POc *riŋa ‘orthopterous insect’
@@ -18294,7 +18294,7 @@ POc *riŋa ‘orthopterous insect’
 Figure 7.5: Cicada
 
 <
-Proto Remote Oceanic *liŋo-liŋo ‘night insect, probably a cricket’
+PROc *liŋo-liŋo ‘night insect, probably a cricket’
   Mic:    Kiribati      niŋo-niŋo     ‘an insect which chirps at night’
   Fij:    Bauan         liŋo-liŋo     ‘night insect, esp. k.o. moth’
   Pn:     Tongan        liŋo-liŋo     ‘k.o. cricket’
@@ -19035,7 +19035,7 @@ There is a well-supported POc reconstruction for ‘leech’ based on reflexes i
 NCV languages. I have not so far located any term for leech, cognate or otherwise, east of Fiji,
 and assume that the creatures are not found in Micronesia or Polynesia (with the exception of
 New Zealand, where the Maori term is _ŋata_ i.e. ‘snake’) (Ross Clark, pers. comm.). Pawley
-has reconstructed a similar term, Proto Remote Oceanic _*drumane_ ‘anemone’ (ch.4, §6.1) which is almost in
+has reconstructed a similar term, PROc _*drumane_ ‘anemone’ (ch.4, §6.1) which is almost in
 complementary distribution, and the terms may be related.
 
 412   Meredith Osmond
@@ -19409,7 +19409,7 @@ __tablenh__
   sandfly        |  POc _*niku-niku_, _*nonok_, _*ŋisi_
   mason wasp     |  POc _*pupuk_, _*bubu_
   wasp           |  POc _*mañipo_, _*(n,ñ)i(n,ñ)ipo_, Proto Central Papuan _*naniɣo_
-  grasshopper    |  POc _*sakʷa_, _*siko_; POc _*riŋa_, Proto Remote Oceanic _*liŋo_
+  grasshopper    |  POc _*sakʷa_, _*siko_; POc _*riŋa_, PROc _*liŋo_
   ant            |  POc _*drui_, _*[driu]driu_ PWOc _*didi_
   spider         |  POc _*ka(k,g)a_, _*koko_, PWOc _*kuku_, PEOc _*koko-mici_
 

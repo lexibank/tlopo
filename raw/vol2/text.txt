@@ -15212,10 +15212,10 @@ __tablenh__
 
    Biggs and Clark (1993) reconstruct PPn _*qaho-atea_ ‘late morning and early afternoon’,
 from PPn _*qaho_ ‘daylight’ and _*qātea_ ‘clear, unobstructed’. The addition of Anejom
-reflexes raises the reconstruction to Proto Remote Oceanic _*qaso-qatea_ (Lynch pers. comm.).
+reflexes raises the reconstruction to PROc _*qaso-qatea_ (Lynch pers. comm.).
 
 <
-Proto Remote Oceanic *qaso-qatea ‘late morning and early afternoon’[12]
+PROc *qaso-qatea ‘late morning and early afternoon’[12]
  SV:  Anejom         afiat           ‘become day’
  SV:  Anejom         n-afiat         ‘day, daytime’
  SV:  Anejom         n-afiat-iat     ‘midday’
