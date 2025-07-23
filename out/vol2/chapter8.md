@@ -319,7 +319,7 @@ The preposition _&ast;i_, which occurred before local nouns, is widely reflected
 <table id="2-8-2-1-236-POc-i-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;i</i>
 </td>
 <td>
@@ -328,7 +328,7 @@ The preposition _&ast;i_, which occurred before local nouns, is widely reflected
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;i</i>
 </td>
 <td>
@@ -552,7 +552,7 @@ As mentioned above, a number of local nouns also formed POc local adverbs with t
 <table id="2-8-2-1-237-POc-qa-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;qa-</i>
 </td>
 <td>
@@ -651,7 +651,7 @@ As a common noun POc _&ast;qutan_ meant ‘bushland, hinterland’ (vol. 1, p.11
 <table id="2-8-2-2-238-POc-qutan-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;quCaN</i>
 </td>
 <td>
@@ -660,7 +660,7 @@ As a common noun POc _&ast;qutan_ meant ‘bushland, hinterland’ (vol. 1, p.11
 </tr>
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;qutan</i>
 </td>
 <td>
@@ -668,7 +668,7 @@ As a common noun POc _&ast;qutan_ meant ‘bushland, hinterland’ (vol. 1, p.11
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;qutan</i>
 </td>
 <td>
@@ -676,7 +676,7 @@ As a common noun POc _&ast;qutan_ meant ‘bushland, hinterland’ (vol. 1, p.11
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;qutan</i>
 </td>
 <td>
@@ -684,7 +684,7 @@ As a common noun POc _&ast;qutan_ meant ‘bushland, hinterland’ (vol. 1, p.11
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;qa-qutan</i>
 </td>
 <td>
@@ -817,7 +817,7 @@ The cognate set below has fewer members that the one above, but appears to refle
 <table id="2-8-2-2-239-POc-loa-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;loŋa</i>
 </td>
 <td>
@@ -825,7 +825,7 @@ The cognate set below has fewer members that the one above, but appears to refle
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;loŋa</i>
 </td>
 <td>
@@ -873,7 +873,7 @@ The cognate set below has fewer members that the one above, but appears to refle
 </tr>
 <tr>
 <td><strong>PPn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;luŋa</i>
 </td>
 <td>
@@ -914,7 +914,7 @@ It is unlikely that POc _&ast;laman_ normally occurred as a local noun, as only 
 <table id="2-8-2-2-239-POc-laur-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;lahud</i>
 </td>
 <td>
@@ -923,7 +923,7 @@ It is unlikely that POc _&ast;laman_ normally occurred as a local noun, as only 
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;laur</i>
 </td>
 <td>
@@ -931,7 +931,7 @@ It is unlikely that POc _&ast;laman_ normally occurred as a local noun, as only 
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;qa-laur</i>
 </td>
 <td>
@@ -1012,7 +1012,7 @@ It is unlikely that POc _&ast;laman_ normally occurred as a local noun, as only 
 <table id="2-8-2-2-240-POc-tasik-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;tasik</i>
 </td>
 <td>
@@ -1021,7 +1021,7 @@ It is unlikely that POc _&ast;laman_ normally occurred as a local noun, as only 
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;tasik</i>
 </td>
 <td>
@@ -1029,7 +1029,7 @@ It is unlikely that POc _&ast;laman_ normally occurred as a local noun, as only 
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;tasik</i>
 </td>
 <td>
@@ -1105,7 +1105,7 @@ The items reconstructed above for ‘inland’ and ‘seawards’ were orientati
 <table id="2-8-2-2-240-PWOc-pa-a">
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;pa</i>
 </td>
 <td>
@@ -1113,7 +1113,7 @@ The items reconstructed above for ‘inland’ and ‘seawards’ were orientati
 </tr>
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;qa-pa</i>
 </td>
 <td>
@@ -1141,7 +1141,7 @@ The items reconstructed above for ‘inland’ and ‘seawards’ were orientati
 <table id="2-8-2-2-240-PWOc-ta-a">
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;ta</i>
 </td>
 <td>
@@ -1149,7 +1149,7 @@ The items reconstructed above for ‘inland’ and ‘seawards’ were orientati
 </tr>
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;qa-ta</i>
 </td>
 <td>
@@ -1186,7 +1186,7 @@ The cognate set attesting POc _&ast;Rumaq_ ‘house’ was presented in vol. 1, 
 <table id="2-8-2-2-241-POc-rumaq-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;Rumaq</i>
 </td>
 <td>
@@ -1195,7 +1195,7 @@ The cognate set attesting POc _&ast;Rumaq_ ‘house’ was presented in vol. 1, 
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;Rumaq</i>
 </td>
 <td>
@@ -1203,7 +1203,7 @@ The cognate set attesting POc _&ast;Rumaq_ ‘house’ was presented in vol. 1, 
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;Rumaq</i>
 </td>
 <td>
@@ -1211,7 +1211,7 @@ The cognate set attesting POc _&ast;Rumaq_ ‘house’ was presented in vol. 1, 
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;qa-Rumaq</i>
 </td>
 <td>
@@ -1273,7 +1273,7 @@ POc _&ast;tanoq_ is reconstructed as a common noun meaning ‘earth, soil, groun
 <table id="2-8-2-2-241-POc-tanoq-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;taneq</i>
 </td>
 <td>
@@ -1282,7 +1282,7 @@ POc _&ast;tanoq_ is reconstructed as a common noun meaning ‘earth, soil, groun
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;tanoq</i>
 </td>
 <td>
@@ -1290,7 +1290,7 @@ POc _&ast;tanoq_ is reconstructed as a common noun meaning ‘earth, soil, groun
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;tanoq</i>
 </td>
 <td>
@@ -1298,7 +1298,7 @@ POc _&ast;tanoq_ is reconstructed as a common noun meaning ‘earth, soil, groun
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;qa-tanoq</i>
 </td>
 <td>
@@ -1382,7 +1382,7 @@ The items listed under ‘cf. also’ below reflect a Proto North Bougainville f
 <table id="2-8-2-2-242-POc-atas-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;aCas</i>
 </td>
 <td>
@@ -1391,7 +1391,7 @@ The items listed under ‘cf. also’ below reflect a Proto North Bougainville f
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;atas</i>
 </td>
 <td>
@@ -1399,7 +1399,7 @@ The items listed under ‘cf. also’ below reflect a Proto North Bougainville f
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;atas</i>
 </td>
 <td>
@@ -1521,56 +1521,56 @@ cf. also:
 <table>
 <tr>
 <td>MM</td>
-<td>Solos</td>
+<td><a href="../languages/solos">Solos</a></td>
 <td><i>yas</i></td>
 <td>
 '<span>top</span>'</td>
 </tr>
 <tr>
 <td>MM</td>
-<td>Solos</td>
+<td><a href="../languages/solos">Solos</a></td>
 <td><i>(i)yas</i></td>
 <td>
 '<span>up (there)</span>'</td>
 </tr>
 <tr>
 <td>MM</td>
-<td>Petats</td>
+<td><a href="../languages/petats">Petats</a></td>
 <td><i>(i)yas</i></td>
 <td>
 '<span>up (there)</span>'</td>
 </tr>
 <tr>
 <td>MM</td>
-<td>Petats</td>
+<td><a href="../languages/petats">Petats</a></td>
 <td><i>yas</i></td>
 <td>
 '<span>topside; upwards</span>'</td>
 </tr>
 <tr>
 <td>MM</td>
-<td>Halia</td>
+<td><a href="../languages/halia">Halia</a></td>
 <td><i>(i)yasa</i></td>
 <td>
 '<span>up (there)</span>'</td>
 </tr>
 <tr>
 <td>MM</td>
-<td>Halia</td>
+<td><a href="../languages/halia">Halia</a></td>
 <td><i>(pal)yasa</i></td>
 <td>
 '<span>upwards</span>'</td>
 </tr>
 <tr>
 <td>MM</td>
-<td>Selau</td>
+<td><a href="../languages/selau">Selau</a></td>
 <td><i>(i)yasa</i></td>
 <td>
 '<span>up (there)</span>'</td>
 </tr>
 <tr>
 <td>MM</td>
-<td>Taiof</td>
+<td><a href="../languages/taiof">Taiof</a></td>
 <td><i>yas</i></td>
 <td>
 '<span>up (there); upwards</span>'</td>
@@ -1586,7 +1586,7 @@ POc _&ast;laŋit_ ‘sky, weather’ is reconstructed as a common noun in Chapte
 <table id="2-8-2-2-243-POc-lait-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;laŋiC</i>
 </td>
 <td>
@@ -1595,7 +1595,7 @@ POc _&ast;laŋit_ ‘sky, weather’ is reconstructed as a common noun in Chapte
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;laŋit</i>
 </td>
 <td>
@@ -1642,7 +1642,7 @@ It is less clear whether POc _&ast;laka_ ‘up above’ was a noun or a verb. In
 <table id="2-8-2-2-243-POc-laka-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;laka</i>
 </td>
 <td>
@@ -1650,7 +1650,7 @@ It is less clear whether POc _&ast;laka_ ‘up above’ was a noun or a verb. In
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;qa-laka</i>
 </td>
 <td>
@@ -1729,7 +1729,7 @@ The forms listed below under ‘cf. also’ are similar in form to those listed 
 <table id="2-8-2-2-244-POc-liwa-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;liwaŋ</i>
 </td>
 <td>
@@ -1737,15 +1737,15 @@ The forms listed below under ‘cf. also’ are similar in form to those listed 
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
-<i>&ast;liwaŋ, liwa-, liwaŋa-</i>
+<td style="white-space: nowrap;">
+<i>&ast;liwaŋ, &ast;liwa-, &ast;liwaŋa-</i>
 </td>
 <td>
 [(N) ] '<span>open space, space between, middle</span>'</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;liwaŋ</i>
 </td>
 <td>
@@ -1842,28 +1842,28 @@ cf. also:
 <table>
 <tr>
 <td>MM</td>
-<td>Minigir</td>
+<td><a href="../languages/minigir">Minigir</a></td>
 <td><i>(na)lua</i></td>
 <td>
 '<span>outside</span>'</td>
 </tr>
 <tr>
 <td>MM</td>
-<td>Tolai</td>
+<td><a href="../languages/tolai">Tolai</a></td>
 <td><i>(na)lua</i></td>
 <td>
 '<span>outside</span>'</td>
 </tr>
 <tr>
 <td>SV</td>
-<td>Lenakel</td>
+<td><a href="../languages/lenakel">Lenakel</a></td>
 <td><i>(i)lua</i></td>
 <td>
 '<span>outside</span>'</td>
 </tr>
 <tr>
 <td>SV</td>
-<td>Kwamera</td>
+<td><a href="../languages/kwamera">Kwamera</a></td>
 <td><i>(i)rua</i></td>
 <td>
 '<span>outside</span>'</td>
@@ -2017,7 +2017,7 @@ POc<table style="padding-left: 2em;" class="igt">
 
 Many Oceanic languages have relational nouns with the meanings reconstructed below: ‘inside’ ([§2.3.1](../contributions/2-8#s-2-3-1)), ‘underneath, lower surface, space below’ ([§2.3.2](../contributions/2-8#s-2-3-2)), ‘top, upper surface, space above’ ([§2.3.3](../contributions/2-8#s-2-3-3)), ‘side’ ([§2.3.4](../contributions/2-8#s-2-3-4)), ‘outside’ ([§2.3.5](../contributions/2-8#s-2-3-5)), ‘front, time before’ ([§2.3.6](../contributions/2-8#s-2-3-6)), ‘back, space behind, time after’ ([§2.3.7](../contributions/2-8#s-2-3-7)). Although the nearest semantic equivalents of Oceanic relational nouns are English prepositions, I have used nouns and noun phrases in the titles of these subsections in an attempt to replicate the meanings of the reconstructed Oceanic terms.[^11]
 
-In their monovalent form, relational local nouns are reconstructed below like other monovalent nouns, i.e. without their final consonant, on the assumption that it was lost before a possessor suffix: for example, _&ast;lalom_ ‘inside’ became _&ast;lalo-_, &ast;papak ‘underneath’ became _&ast;papa-_. However, as I note in Lynch, Ross and Crowley (2002, Ch. 4), there is some evidence from Tanna languages (SV) that POc retained the final consonant in this context, so that, e.g., POc _&ast;lalo-ña_ in the reconstructed example above may have been (optionally?) _&ast;lalom-ña_.
+In their monovalent form, relational local nouns are reconstructed below like other monovalent nouns, i.e. without their final consonant, on the assumption that it was lost before a possessor suffix: for example, _&ast;lalom_ ‘inside’ became _&ast;lalo-_, &ast;papak ‘underneath’ became _&ast;papa-_. However, as I note in [Lynch et al.](../sources/Lynchetal2002) ([2002](../sources/Lynchetal2002), Ch. 4), there is some evidence from Tanna languages (SV) that POc retained the final consonant in this context, so that, e.g., POc _&ast;lalo-ña_ in the reconstructed example above may have been (optionally?) _&ast;lalom-ña_.
 
 8.2.3.1 ‘Inside’
 
@@ -2031,7 +2031,7 @@ In Polynesian languages reflexes of _&ast;lalo-_/_&ast;lalom_ denote the region 
 <table id="2-8-2-3-246-POc-lalo-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;Daləm</i>
 </td>
 <td>
@@ -2039,8 +2039,8 @@ In Polynesian languages reflexes of _&ast;lalo-_/_&ast;lalom_ denote the region 
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
-<i>&ast;lalo-, lalom</i>
+<td style="white-space: nowrap;">
+<i>&ast;lalo-, &ast;lalom</i>
 </td>
 <td>
 [(N, N LOC) ] '<span>inside</span>'</td>
@@ -2247,7 +2247,7 @@ In Polynesian languages reflexes of _&ast;lalo-_/_&ast;lalom_ denote the region 
 </tr>
 <tr>
 <td><strong>PPn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;lalo</i>
 </td>
 <td>
@@ -2282,7 +2282,7 @@ There is, of course, also a possibility that _&ast;lalo-_ has undergone haplolog
 <table id="2-8-2-3-247-POc-lo-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;lo-</i>
 </td>
 <td>
@@ -2360,7 +2360,7 @@ There is, of course, also a possibility that _&ast;lalo-_ has undergone haplolog
 <table id="2-8-2-3-247-POc-la-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;la-</i>
 </td>
 <td>
@@ -2398,7 +2398,7 @@ POc _&ast;loto-_ ‘space within a concave object’ is not well supported. It h
 <table id="2-8-2-3-248-POc-loto-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;loto</i>
 </td>
 <td>
@@ -2416,7 +2416,7 @@ POc _&ast;loto-_ ‘space within a concave object’ is not well supported. It h
 </tr>
 <tr>
 <td><strong>PPn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;loto</i>
 </td>
 <td>
@@ -2451,8 +2451,8 @@ In many Oceanic languages the word for ‘inside’ is the reflex of a POc body-
 <table id="2-8-2-3-248-POc-baloa-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
-<i>&ast;bʷal(o,a)-, bʷal(o,a)k</i>
+<td style="white-space: nowrap;">
+<i>&ast;bʷal(o,a)-, &ast;bʷal(o,a)k</i>
 </td>
 <td>
 [(N) ] '<span>belly; hollow space</span>'; [N LOC] '<span>inside</span>'</td>
@@ -2529,7 +2529,7 @@ In many Oceanic languages the word for ‘inside’ is the reflex of a POc body-
 <table id="2-8-2-3-248-POc-tinaqe-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;tinaqi</i>
 </td>
 <td>
@@ -2538,7 +2538,7 @@ In many Oceanic languages the word for ‘inside’ is the reflex of a POc body-
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;tinaqe-</i>
 </td>
 <td>
@@ -2587,7 +2587,7 @@ No reflexes occur in Central Pacific languages. In Fijian, _&ast;papa-_, _&ast;p
 <table id="2-8-2-3-249-POc-papa-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;babaq</i>
 </td>
 <td>
@@ -2596,8 +2596,8 @@ No reflexes occur in Central Pacific languages. In Fijian, _&ast;papa-_, _&ast;p
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
-<i>&ast;papa-, pa-, papak, pak</i>
+<td style="white-space: nowrap;">
+<i>&ast;papa-, &ast;pa-, &ast;papak, &ast;pak</i>
 </td>
 <td>
 [(N, N LOC) ] '<span>underneath, lower surface, bottom, underside</span>'</td>
@@ -2724,7 +2724,7 @@ No reflexes occur in Central Pacific languages. In Fijian, _&ast;papa-_, _&ast;p
 </tr>
 <tr>
 <td><strong>ProtoMesoMelanesian</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;pake-</i>
 </td>
 <td>
@@ -2826,7 +2826,7 @@ The second term, POc _&ast;gabʷari-_ meant ‘the area underneath a raised hous
 <table id="2-8-2-3-250-POc-ruku-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;ruku-</i>
 </td>
 <td>
@@ -2894,7 +2894,7 @@ The second term, POc _&ast;gabʷari-_ meant ‘the area underneath a raised hous
 <table id="2-8-2-3-250-POc-gabari-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;gabʷari-</i>
 </td>
 <td>
@@ -2960,7 +2960,7 @@ The second term, POc _&ast;gabʷari-_ meant ‘the area underneath a raised hous
 <table id="2-8-2-3-251-POc-puqu-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;puqun</i>
 </td>
 <td>
@@ -2969,8 +2969,8 @@ The second term, POc _&ast;gabʷari-_ meant ‘the area underneath a raised hous
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
-<i>&ast;puqu-, puqun</i>
+<td style="white-space: nowrap;">
+<i>&ast;puqu-, &ast;puqun</i>
 </td>
 <td>
 [(N, N LOC) ] '<span>base, foundation, origin, source, reason</span>'</td>
@@ -3073,7 +3073,7 @@ The Kiribati (Mic) reflex of POc _&ast;papo[-]_ also has the meaning ‘outside�
 <table id="2-8-2-3-252-POc-papo-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;babaw</i>
 </td>
 <td>
@@ -3082,8 +3082,8 @@ The Kiribati (Mic) reflex of POc _&ast;papo[-]_ also has the meaning ‘outside�
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
-<i>&ast;papo[-], po[-]</i>
+<td style="white-space: nowrap;">
+<i>&ast;papo[-], &ast;po[-]</i>
 </td>
 <td>
 [(N, N LOC) ] '<span>upper surface, top</span>'</td>
@@ -3280,7 +3280,7 @@ Given the tendency for body-part terms to be used by metaphorical extension as r
 <table id="2-8-2-3-253-POc-qulu-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;qulu</i>
 </td>
 <td>
@@ -3289,7 +3289,7 @@ Given the tendency for body-part terms to be used by metaphorical extension as r
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;qulu[-]</i>
 </td>
 <td>
@@ -3468,7 +3468,7 @@ This expectation is at least partly fulfilled. We can reconstruct POc _&ast;[pʷ
 <table id="2-8-2-3-254-POc-papara-a">
 <tr>
 <td><strong>PCEMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;papaR</i>
 </td>
 <td>
@@ -3477,7 +3477,7 @@ This expectation is at least partly fulfilled. We can reconstruct POc _&ast;[pʷ
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;[pʷa]pʷaRa[-]</i>
 </td>
 <td>
@@ -3534,56 +3534,56 @@ cf. also:
 <table>
 <tr>
 <td>NNG</td>
-<td>Rauto</td>
+<td><a href="../languages/rauto">Rauto</a></td>
 <td><i>vava-</i></td>
 <td>
 '<span>side</span>'</td>
 </tr>
 <tr>
 <td>NNG</td>
-<td>Maeng</td>
+<td><a href="../languages/maeng">Maeng</a></td>
 <td><i>vava-</i></td>
 <td>
 '<span>side</span>'</td>
 </tr>
 <tr>
 <td>NNG</td>
-<td>Poeng</td>
+<td><a href="../languages/poeng">Poeng</a></td>
 <td><i>vava-</i></td>
 <td>
 '<span>side</span>'</td>
 </tr>
 <tr>
 <td>SJ</td>
-<td>Sobei</td>
+<td><a href="../languages/sobei">Sobei</a></td>
 <td><i>popa</i></td>
 <td>
 '<span>cheek</span>'</td>
 </tr>
 <tr>
 <td>SES</td>
-<td>Kwaio</td>
+<td><a href="../languages/kwaio">Kwaio</a></td>
 <td><i>baba</i></td>
 <td>
 '<span>side, cheek</span>'</td>
 </tr>
 <tr>
 <td>SES</td>
-<td>Lau</td>
+<td><a href="../languages/lau">Lau</a></td>
 <td><i>baba</i></td>
 <td>
 '<span>side; long side board of canoe</span>'</td>
 </tr>
 <tr>
 <td>SES</td>
-<td>Arosi</td>
+<td><a href="../languages/arosi">Arosi</a></td>
 <td><i>baba</i></td>
 <td>
 '<span>cheek, temples; side (of a stream +)</span>'</td>
 </tr>
 <tr>
 <td>Fij</td>
-<td>Bauan</td>
+<td><a href="../languages/bauanfijian">Bauan</a></td>
 <td><i>baba</i></td>
 <td>
 '<span>side of s.t., cheek bone; side of a canoe</span>'</td>
@@ -3596,7 +3596,7 @@ POc _&ast;pʷala(ŋ)_ ‘side, part’ is reconstructable, but its exact sense i
 <table id="2-8-2-3-254-POc-pala-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;balaŋ</i>
 </td>
 <td>
@@ -3605,7 +3605,7 @@ POc _&ast;pʷala(ŋ)_ ‘side, part’ is reconstructable, but its exact sense i
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;pʷala(ŋ)</i>
 </td>
 <td>
@@ -3649,7 +3649,7 @@ POc _&ast;bali_ denoted ‘one of two (opposing) sides or parts’.
 <table id="2-8-2-3-255-POc-bali-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;baliw</i>
 </td>
 <td>
@@ -3658,7 +3658,7 @@ POc _&ast;bali_ denoted ‘one of two (opposing) sides or parts’.
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;bali[-]</i>
 </td>
 <td>
@@ -3715,7 +3715,7 @@ cf. also:
 <table>
 <tr>
 <td>PT</td>
-<td>Motu</td>
+<td><a href="../languages/motu">Motu</a></td>
 <td><i>badi(nai)</i></td>
 <td>
 '<span>beside</span>' (<span><em>-d-</em> for expected <em>**-r-</em></span>)</td>
@@ -3728,7 +3728,7 @@ There are two other reconstructions from which terms for ‘side’ are derived.
 <table id="2-8-2-3-255-POc-siri-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;sidiŋ</i>
 </td>
 <td>
@@ -3737,7 +3737,7 @@ There are two other reconstructions from which terms for ‘side’ are derived.
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;siriŋ</i>
 </td>
 <td>
@@ -3765,7 +3765,7 @@ There are two other reconstructions from which terms for ‘side’ are derived.
 <table id="2-8-2-3-255-PEOc-tapa-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;tapa-</i>
 </td>
 <td>
@@ -3827,64 +3827,64 @@ The terms in the set below could tempt us to reconstruct POc _&ast;luku-_ ‘sid
 <table id="2-8-2-3-256-yap-yapese-wuu">
 <tr>
 <td>Yap</td>
-<td>Yapese</td>
-<td><i>(wu)ɽuʔ</i></td>
+<td><a href="../languages/yapese">Yapese</a></td>
+<td style="white-space: nowrap"><i>(wu)ɽuʔ</i></td>
 <td>
 '<span>outside of</span>'</td>
 </tr>
 <tr>
 <td>NNG</td>
-<td>Manam</td>
-<td><i>(e)luku</i></td>
+<td><a href="../languages/manam">Manam</a></td>
+<td style="white-space: nowrap"><i>(e)luku</i></td>
 <td>
 '<span>outside</span>'</td>
 </tr>
 <tr>
 <td>Mic</td>
-<td>Kosraean</td>
-<td><i>lɨkɨ</i></td>
+<td><a href="../languages/kosraean">Kosraean</a></td>
+<td style="white-space: nowrap"><i>lɨkɨ</i></td>
 <td>
 '<span>outside</span>'</td>
 </tr>
 <tr>
 <td>Mic</td>
-<td>Marshallese</td>
-<td><i>liki-</i></td>
+<td><a href="../languages/marshallese">Marshallese</a></td>
+<td style="white-space: nowrap"><i>liki-</i></td>
 <td>
 '<span>outside; ocean side of; behind, in back of</span>'</td>
 </tr>
 <tr>
 <td>Mic</td>
-<td>Ponapean</td>
-<td><i>liki-</i></td>
+<td><a href="../languages/ponapean">Ponapean</a></td>
+<td style="white-space: nowrap"><i>liki-</i></td>
 <td>
 '<span>outside</span>'</td>
 </tr>
 <tr>
 <td>Mic</td>
-<td>Mokilese</td>
-<td><i>liki-</i></td>
+<td><a href="../languages/mokilese">Mokilese</a></td>
+<td style="white-space: nowrap"><i>liki-</i></td>
 <td>
 '<span>outside</span>'</td>
 </tr>
 <tr>
 <td>Mic</td>
-<td>Trukese</td>
-<td><i>ɾɨkɨ</i></td>
+<td><a href="../languages/trukese">Trukese</a></td>
+<td style="white-space: nowrap"><i>ɾɨkɨ</i></td>
 <td>
 '<span>exterior, outside, outside surface, outer edge, immediate environs</span>'</td>
 </tr>
 <tr>
 <td>Mic</td>
-<td>Woleaian</td>
-<td><i>rɨxɨ</i></td>
+<td><a href="../languages/woleaian">Woleaian</a></td>
+<td style="white-space: nowrap"><i>rɨxɨ</i></td>
 <td>
 '<span>outside, back of s.t.</span>'</td>
 </tr>
 <tr>
 <td>Fij</td>
-<td>Wayan</td>
-<td><i>liku</i></td>
+<td><a href="../languages/wayan">Wayan</a></td>
+<td style="white-space: nowrap"><i>liku</i></td>
 <td>
 (N LOC) '<span>back side of the island</span>'</td>
 </tr>
@@ -3897,7 +3897,7 @@ According to [Blust](../sources/Blust1997) ([1997](../sources/Blust1997)), the P
 <table id="2-8-2-3-256-POc-qaro-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;qadəp</i>
 </td>
 <td>
@@ -3905,8 +3905,8 @@ According to [Blust](../sources/Blust1997) ([1997](../sources/Blust1997)), the P
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
-<i>&ast;qaro-, qarop</i>
+<td style="white-space: nowrap;">
+<i>&ast;qaro-, &ast;qarop</i>
 </td>
 <td>
 [(N) ] '<span>face</span>'; [N LOC] '<span>front</span>'</td>
@@ -3982,7 +3982,7 @@ As the glosses indicate, POc _&ast;muqa[-]_ had the temporal sense of ‘time be
 <table id="2-8-2-3-257-POc-muqa-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;muqa[-]</i>
 </td>
 <td>
@@ -3990,7 +3990,7 @@ As the glosses indicate, POc _&ast;muqa[-]_ had the temporal sense of ‘time be
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;muqa</i>
 </td>
 <td>
@@ -3998,8 +3998,8 @@ As the glosses indicate, POc _&ast;muqa[-]_ had the temporal sense of ‘time be
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
-<i>&ast;i muqa, qa-muqa, muqa-muqa</i>
+<td style="white-space: nowrap;">
+<i>&ast;i muqa, &ast;qa-muqa, &ast;muqa-muqa</i>
 </td>
 <td>
 [ADV] '<span>in front, formerly</span>'</td>
@@ -4190,7 +4190,7 @@ Although _&ast;muqa_ and _&ast;muga_ are formally similar, a historical relation
 <table id="2-8-2-3-258-PWOc-muga-a">
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;muga</i>
 </td>
 <td>
@@ -4313,7 +4313,7 @@ The body-part terms whose reflexes are often used for ‘front’ are POc _&ast;
 <table id="2-8-2-3-259-POc-mata-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;maCa</i>
 </td>
 <td>
@@ -4321,7 +4321,7 @@ The body-part terms whose reflexes are often used for ‘front’ are POc _&ast;
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;mata[-]</i>
 </td>
 <td>
@@ -4454,7 +4454,7 @@ The body-part terms whose reflexes are often used for ‘front’ are POc _&ast;
 <table id="2-8-2-3-259-POc-nako-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;nako[-]</i>
 </td>
 <td>
@@ -4611,7 +4611,7 @@ It appears that the PMP root _&ast;udehi_ was also inherited into POc as the bas
 <table id="2-8-2-3-261-POc-muri-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;ma-udehi</i>
 </td>
 <td>
@@ -4620,7 +4620,7 @@ It appears that the PMP root _&ast;udehi_ was also inherited into POc as the bas
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;muri[-]</i>
 </td>
 <td>
@@ -4628,8 +4628,8 @@ It appears that the PMP root _&ast;udehi_ was also inherited into POc as the bas
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
-<i>&ast;i muri, muri-muri</i>
+<td style="white-space: nowrap;">
+<i>&ast;i muri, &ast;muri-muri</i>
 </td>
 <td>
 '<span>at the back, later</span>'</td>
@@ -4861,7 +4861,7 @@ The reflexes below contain a Northwest Solomonic innovation whereby Proto Northw
 <table id="2-8-2-3-262-ProtoNorthwestSolomonic-mudi-a">
 <tr>
 <td><strong>ProtoNorthwestSolomonic</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;mudi-</i>
 </td>
 <td>
@@ -4931,7 +4931,7 @@ The semantic and formal similarity of the reflexes of POc _&ast;burit_ below to 
 <table id="2-8-2-3-262-POc-burit-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;burit</i>
 </td>
 <td>
@@ -4940,7 +4940,7 @@ The semantic and formal similarity of the reflexes of POc _&ast;burit_ below to 
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;burit</i>
 </td>
 <td>
@@ -5028,7 +5028,7 @@ One body-part term occurs with fair frequency with the sense of ‘back part of,
 <table id="2-8-2-3-263-POc-takuru-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;takuRu[-]</i>
 </td>
 <td>
@@ -5230,14 +5230,14 @@ cf. also:
 <table>
 <tr>
 <td>SES</td>
-<td>'Are'are</td>
+<td><a href="../languages/areare">'Are'are</a></td>
 <td><i>kokoru-</i></td>
 <td>
 '<span>(s.o.’s) back</span>'</td>
 </tr>
 <tr>
 <td>SES</td>
-<td>Sa'a</td>
+<td><a href="../languages/saa">Sa'a</a></td>
 <td><i>kokolu-</i></td>
 <td>
 '<span>(s.o.’s) back</span>'</td>
@@ -5259,7 +5259,7 @@ The interrogative local noun ‘where?’ was POc _&ast;pai_. Micronesian reflex
 <table id="2-8-2-4-264-POc-pai-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;pai</i>
 </td>
 <td>
@@ -5268,8 +5268,8 @@ The interrogative local noun ‘where?’ was POc _&ast;pai_. Micronesian reflex
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
-<i>&ast;pai, i pai</i>
+<td style="white-space: nowrap;">
+<i>&ast;pai, &ast;i pai</i>
 </td>
 <td>
 [(N LOC) ] '<span>where at?</span>'</td>
@@ -5491,197 +5491,197 @@ Also found are forms which appear to reflect _&ast;pea_, _&ast;pia_ and, in Poly
 <table id="2-8-2-4-265-adm-mussau-bea">
 <tr>
 <td>Adm</td>
-<td>Mussau</td>
-<td><i>bea</i></td>
+<td><a href="../languages/mussau">Mussau</a></td>
+<td style="white-space: nowrap"><i>bea</i></td>
 <td>
 '<span>where?</span>'</td>
 </tr>
 <tr>
 <td>NCV</td>
-<td>Mota</td>
-<td><i>vea</i></td>
+<td><a href="../languages/mota">Mota</a></td>
+<td style="white-space: nowrap"><i>vea</i></td>
 <td>
 '<span>where?</span>'</td>
 </tr>
 <tr>
 <td>NCV</td>
-<td>Kiai</td>
-<td><i>vea</i></td>
+<td><a href="../languages/kiai">Kiai</a></td>
+<td style="white-space: nowrap"><i>vea</i></td>
 <td>
 '<span>where?</span>'</td>
 </tr>
 <tr>
 <td>NCV</td>
-<td>Tamambo</td>
-<td><i>(a)bea</i></td>
+<td><a href="../languages/tamambo">Tamambo</a></td>
+<td style="white-space: nowrap"><i>(a)bea</i></td>
 <td>
 '<span>where?</span>'</td>
 </tr>
 <tr>
 <td>Pn</td>
-<td>Tongan</td>
-<td><i>fē</i></td>
+<td><a href="../languages/tongan">Tongan</a></td>
+<td style="white-space: nowrap"><i>fē</i></td>
 <td>
 '<span>where?</span>'</td>
 </tr>
 <tr>
 <td>Pn</td>
-<td>Niuean</td>
-<td><i>fē</i></td>
+<td><a href="../languages/niuean">Niuean</a></td>
+<td style="white-space: nowrap"><i>fē</i></td>
 <td>
 '<span>where?</span>'</td>
 </tr>
 <tr>
 <td>Pn</td>
-<td>Samoan</td>
-<td><i>fea</i></td>
+<td><a href="../languages/samoan">Samoan</a></td>
+<td style="white-space: nowrap"><i>fea</i></td>
 <td>
 '<span>where?</span>'</td>
 </tr>
 <tr>
 <td>Pn</td>
-<td>Anutan</td>
-<td><i>pea</i></td>
+<td><a href="../languages/anutan">Anutan</a></td>
+<td style="white-space: nowrap"><i>pea</i></td>
 <td>
 '<span>where?</span>'</td>
 </tr>
 <tr>
 <td>Pn</td>
-<td>East Futunan</td>
-<td><i>fea</i></td>
+<td><a href="../languages/eastfutunan">East Futunan</a></td>
+<td style="white-space: nowrap"><i>fea</i></td>
 <td>
 '<span>where?</span>'</td>
 </tr>
 <tr>
 <td>Pn</td>
-<td>East Uvean</td>
-<td><i>fea</i></td>
+<td><a href="../languages/eastuvean">East Uvean</a></td>
+<td style="white-space: nowrap"><i>fea</i></td>
 <td>
 '<span>where?</span>'</td>
 </tr>
 <tr>
 <td>Pn</td>
-<td>Tikopia</td>
-<td><i>fea</i></td>
+<td><a href="../languages/tikopia">Tikopia</a></td>
+<td style="white-space: nowrap"><i>fea</i></td>
 <td>
 '<span>where? what? when?</span>'</td>
 </tr>
 <tr>
 <td>Pn</td>
-<td>Ifira-Mele</td>
-<td><i>(i)fea</i></td>
+<td><a href="../languages/ifiramele">Ifira-Mele</a></td>
+<td style="white-space: nowrap"><i>(i)fea</i></td>
 <td>
 '<span>where at?</span>'</td>
 </tr>
 <tr>
 <td>Pn</td>
-<td>Hawaiian</td>
-<td><i>hea</i></td>
+<td><a href="../languages/hawaiian">Hawaiian</a></td>
+<td style="white-space: nowrap"><i>hea</i></td>
 <td>
 '<span>where?</span>'</td>
 </tr>
 <tr>
 <td>Pn</td>
-<td>Māori</td>
-<td><i>ɸea</i></td>
+<td><a href="../languages/maori">Māori</a></td>
+<td style="white-space: nowrap"><i>ɸea</i></td>
 <td>
 '<span>where?</span>'</td>
 </tr>
 <tr>
 <td>Pn</td>
-<td>Tahitian</td>
-<td><i>hea</i></td>
+<td><a href="../languages/tahitian">Tahitian</a></td>
+<td style="white-space: nowrap"><i>hea</i></td>
 <td>
 '<span>where?</span>'</td>
 </tr>
 <tr>
 <td>Pn</td>
-<td>Kapingamarangi</td>
-<td><i>hē</i></td>
+<td><a href="../languages/kapingamarangi">Kapingamarangi</a></td>
+<td style="white-space: nowrap"><i>hē</i></td>
 <td>
 '<span>where</span>'</td>
 </tr>
 <tr>
 <td>NCV</td>
-<td>Mae</td>
-<td><i>fē</i></td>
+<td><a href="../languages/mae">Mae</a></td>
+<td style="white-space: nowrap"><i>fē</i></td>
 <td>
 '<span>where?</span>'</td>
 </tr>
 <tr>
 <td>Pn</td>
-<td>Nukuria</td>
-<td><i>ihē</i></td>
+<td><a href="../languages/nukuria">Nukuria</a></td>
+<td style="white-space: nowrap"><i>ihē</i></td>
 <td>
 '<span>where?</span>'</td>
 </tr>
 <tr>
 <td>MM</td>
-<td>Nehan</td>
-<td><i>ia</i></td>
+<td><a href="../languages/nehan">Nehan</a></td>
+<td style="white-space: nowrap"><i>ia</i></td>
 <td>
 '<span>where?</span>'</td>
 </tr>
 <tr>
 <td>MM</td>
-<td>Solos</td>
-<td><i>īa</i></td>
+<td><a href="../languages/solos">Solos</a></td>
+<td style="white-space: nowrap"><i>īa</i></td>
 <td>
 '<span>where?</span>'</td>
 </tr>
 <tr>
 <td>MM</td>
-<td>Petats</td>
-<td><i>īa</i></td>
+<td><a href="../languages/petats">Petats</a></td>
+<td style="white-space: nowrap"><i>īa</i></td>
 <td>
 '<span>where?</span>'</td>
 </tr>
 <tr>
 <td>MM</td>
-<td>Taiof</td>
-<td><i>ifia</i></td>
+<td><a href="../languages/taiof">Taiof</a></td>
+<td style="white-space: nowrap"><i>ifia</i></td>
 <td>
 '<span>where?</span>'</td>
 </tr>
 <tr>
 <td>MM</td>
-<td>Mono-Alu</td>
-<td><i>hi(na)</i></td>
+<td><a href="../languages/monoalu">Mono-Alu</a></td>
+<td style="white-space: nowrap"><i>hi(na)</i></td>
 <td>
 '<span>where?</span>'</td>
 </tr>
 <tr>
 <td>MM</td>
-<td>Nduke</td>
-<td><i>(o)via</i></td>
+<td><a href="../languages/nduke">Nduke</a></td>
+<td style="white-space: nowrap"><i>(o)via</i></td>
 <td>
 '<span>where?</span>'</td>
 </tr>
 <tr>
 <td>SES</td>
-<td>Gela</td>
-<td><i>via</i></td>
+<td><a href="../languages/gela">Gela</a></td>
+<td style="white-space: nowrap"><i>via</i></td>
 <td>
 '<span>wherever, of whatever kind, where, what, which</span>'</td>
 </tr>
 <tr>
 <td>NCV</td>
-<td>Port Sandwich</td>
-<td><i>(a)ᵐbi</i></td>
+<td><a href="../languages/portsandwich">Port Sandwich</a></td>
+<td style="white-space: nowrap"><i>(a)ᵐbi</i></td>
 <td>
 '<span>where?</span>'</td>
 </tr>
 <tr>
 <td>Pn</td>
-<td>Māori</td>
-<td><i>hia</i></td>
+<td><a href="../languages/maori">Māori</a></td>
+<td style="white-space: nowrap"><i>hia</i></td>
 <td>
 '<span>where?</span>'</td>
 </tr>
 <tr>
 <td>Pn</td>
-<td>Tahitian</td>
-<td><i>hia</i></td>
+<td><a href="../languages/tahitian">Tahitian</a></td>
+<td style="white-space: nowrap"><i>hia</i></td>
 <td>
 '<span>where?</span>'</td>
 </tr>
@@ -6050,7 +6050,7 @@ Recent work by [François](../sources/Francois2003) ([2003](../sources/Francois2
 <table id="2-8-3-3-269-POc-aparat-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;habaRat</i>
 </td>
 <td>
@@ -6059,7 +6059,7 @@ Recent work by [François](../sources/Francois2003) ([2003](../sources/Francois2
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;apaRat</i>
 </td>
 <td>
@@ -6117,7 +6117,7 @@ Recent work by [François](../sources/Francois2003) ([2003](../sources/Francois2
 <table id="2-8-3-3-269-POc-raki-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;raki</i>
 </td>
 <td>
@@ -6233,7 +6233,7 @@ The most widely reflected of these is _&ast;sipo_, the generic verb of downward 
 <table id="2-8-3-3-271-POc-sipo-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;sipo</i>
 </td>
 <td>
@@ -6429,7 +6429,7 @@ The most widely reflected of these is _&ast;sipo_, the generic verb of downward 
 <table id="2-8-3-3-272-POc-sobu-a">
 <tr>
 <td><strong>PEMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;sobu</i>
 </td>
 <td>
@@ -6438,7 +6438,7 @@ The most widely reflected of these is _&ast;sipo_, the generic verb of downward 
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;sobu</i>
 </td>
 <td>
@@ -6496,7 +6496,7 @@ The most widely reflected of these is _&ast;sipo_, the generic verb of downward 
 <table id="2-8-3-3-272-POc-surup-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;surup</i>
 </td>
 <td>
@@ -6505,7 +6505,7 @@ The most widely reflected of these is _&ast;sipo_, the generic verb of downward 
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;surup</i>
 </td>
 <td>
@@ -6565,7 +6565,7 @@ The forms listed below also seem to constitute a cognate set, but, as the questi
 <table id="2-8-3-3-272-POc-sjuau-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;[s,j]u[(a,u)]</i>
 </td>
 <td>
@@ -6698,7 +6698,7 @@ POc _&ast;wau_ ‘go seawards’ and _&ast;bala_ ‘move downward (?)’ are als
 <table id="2-8-3-3-273-POc-wau-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;wau</i>
 </td>
 <td>
@@ -6736,7 +6736,7 @@ POc _&ast;wau_ ‘go seawards’ and _&ast;bala_ ‘move downward (?)’ are als
 <table id="2-8-3-3-273-POc-bala-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;bala</i>
 </td>
 <td>
@@ -6777,7 +6777,7 @@ The generic verb of upward movement was POc _&ast;sake_ ‘go upward, go southea
 <table id="2-8-3-3-273-POc-sake-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;sake</i>
 </td>
 <td>
@@ -7068,78 +7068,78 @@ Some or all of the forms below probably also reflect POc _&ast;sake_ ‘go upwar
 <table id="2-8-3-3-275-nng-takia-sda">
 <tr>
 <td>NNG</td>
-<td>Takia</td>
-<td><i>(-s)da</i></td>
+<td><a href="../languages/takia">Takia</a></td>
+<td style="white-space: nowrap"><i>(-s)da</i></td>
 <td>
 '<span>move up, be high, be full, go up, rise, board (a canoe)</span>'</td>
 </tr>
 <tr>
 <td>NCal</td>
-<td>Nêlêmwâ</td>
-<td><i>da</i></td>
+<td><a href="../languages/nelemwa">Nêlêmwâ</a></td>
+<td style="white-space: nowrap"><i>da</i></td>
 <td>
 (DIR) '<span>upward</span>'</td>
 </tr>
 <tr>
 <td>NCal</td>
-<td>Nêlêmwâ</td>
-<td><i>(o-)da</i></td>
+<td><a href="../languages/nelemwa">Nêlêmwâ</a></td>
+<td style="white-space: nowrap"><i>(o-)da</i></td>
 <td>
 '<span>go upward</span>' (<span>o ‘go’</span>)</td>
 </tr>
 <tr>
 <td>NCal</td>
-<td>Nyelâyu</td>
-<td><i>-da</i></td>
+<td><a href="../languages/nyelayu">Nyelâyu</a></td>
+<td style="white-space: nowrap"><i>-da</i></td>
 <td>
 (DIR) '<span>upward</span>'</td>
 </tr>
 <tr>
 <td>NCal</td>
-<td>Nyelâyu</td>
-<td><i>ta</i></td>
+<td><a href="../languages/nyelayu">Nyelâyu</a></td>
+<td style="white-space: nowrap"><i>ta</i></td>
 <td>
 '<span>go upward</span>'</td>
 </tr>
 <tr>
 <td>NCal</td>
-<td>Nemi</td>
-<td><i>-da</i></td>
+<td><a href="../languages/nemi">Nemi</a></td>
+<td style="white-space: nowrap"><i>-da</i></td>
 <td>
 (DIR) '<span>upward</span>'</td>
 </tr>
 <tr>
 <td>NCal</td>
-<td>Nemi</td>
-<td><i>ta</i></td>
+<td><a href="../languages/nemi">Nemi</a></td>
+<td style="white-space: nowrap"><i>ta</i></td>
 <td>
 '<span>go upward</span>'</td>
 </tr>
 <tr>
 <td>NCal</td>
-<td>Cèmuhî</td>
-<td><i>da</i></td>
+<td><a href="../languages/cemuhi">Cèmuhî</a></td>
+<td style="white-space: nowrap"><i>da</i></td>
 <td>
 (DIR) '<span>upward</span>'</td>
 </tr>
 <tr>
 <td>NCal</td>
-<td>Tinrin</td>
-<td><i>ɖa(-jɯ)</i></td>
+<td><a href="../languages/tinrin">Tinrin</a></td>
+<td style="white-space: nowrap"><i>ɖa(-jɯ)</i></td>
 <td>
 '<span>go up</span>'</td>
 </tr>
 <tr>
 <td>Fij</td>
-<td>Wayan</td>
-<td><i>ða(va)</i></td>
+<td><a href="../languages/wayan">Wayan</a></td>
+<td style="white-space: nowrap"><i>ða(va)</i></td>
 <td>
 '<span>ascend, go up a slope</span>'</td>
 </tr>
 <tr>
 <td>Fij</td>
-<td>Wayan</td>
-<td><i>ða(dra)</i></td>
+<td><a href="../languages/wayan">Wayan</a></td>
+<td style="white-space: nowrap"><i>ða(dra)</i></td>
 <td>
 (DIR) '<span>upward</span>'</td>
 </tr>
@@ -7152,7 +7152,7 @@ Above I noted François’ (2004a) reconstruction of POc speakers’ use of term
 <table id="2-8-3-3-275-POc-sipo-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;sipo</i>
 </td>
 <td>
@@ -7203,7 +7203,7 @@ Above I noted François’ (2004a) reconstruction of POc speakers’ use of term
 <table id="2-8-3-3-276-POc-sake-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;sake</i>
 </td>
 <td>
@@ -7259,7 +7259,7 @@ François also alludes to members of the Polynesian sets below. However, these a
 <table id="2-8-3-3-276-PPn-sisifo-a">
 <tr>
 <td><strong>PPn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;si-sifo</i>
 </td>
 <td>
@@ -7293,7 +7293,7 @@ François also alludes to members of the Polynesian sets below. However, these a
 <table id="2-8-3-3-276-PPn-sasake-a">
 <tr>
 <td><strong>PPn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;sa-sake</i>
 </td>
 <td>
@@ -7349,7 +7349,7 @@ The meanings of the items listed below overlap substantially with reflexes of th
 <table id="2-8-3-3-277-POc-sipo-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;sipo</i>
 </td>
 <td>
@@ -7407,7 +7407,7 @@ The meanings of the items listed below overlap substantially with reflexes of th
 <table id="2-8-3-3-277-POc-sake-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;sake</i>
 </td>
 <td>
@@ -7638,8 +7638,8 @@ Also reconstructable is the POc form _&ast;ma_, reflected in WOc and CEOc langua
 <table id="2-8-3-4-281-POc-mai-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
-<td>
-<i>&ast;maRi, mai</i>
+<td style="white-space: nowrap;">
+<i>&ast;maRi, &ast;mai</i>
 </td>
 <td>
 '<span>come</span>' (<a href="../sources/Blust1995">Blust1995</a>)
@@ -7647,7 +7647,7 @@ Also reconstructable is the POc form _&ast;ma_, reflected in WOc and CEOc langua
 </tr>
 <tr>
 <td><strong>PCEMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;mai</i>
 </td>
 <td>
@@ -7655,8 +7655,8 @@ Also reconstructable is the POc form _&ast;ma_, reflected in WOc and CEOc langua
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
-<i>&ast;mai, ma</i>
+<td style="white-space: nowrap;">
+<i>&ast;mai, &ast;ma</i>
 </td>
 <td>
 '<span>come</span>'; [DIR] '<span>towards speaker</span>'</td>
@@ -8011,8 +8011,8 @@ In a number of languages POc _&ast;mai_/_&ast;ma_ is reflected as a preposition 
 <table id="2-8-3-4-283-POc-mai-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
-<i>&ast;mai, ma</i>
+<td style="white-space: nowrap;">
+<i>&ast;mai, &ast;ma</i>
 </td>
 <td>
 '<span>come</span>'; [DIR] '<span>towards speaker</span>'</td>
@@ -8086,7 +8086,7 @@ One other POc morpheme with the same meanings as _&ast;mai_ may be reconstructab
 <table id="2-8-3-4-283-POc-pati-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;pʷati</i>
 </td>
 <td>
@@ -8155,7 +8155,7 @@ Some of the reflexes of _&ast;ua_ can be confused with those of POc _&ast;pa_ an
 <table id="2-8-3-4-284-POc-ua-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;ua</i>
 </td>
 <td>
@@ -8241,7 +8241,7 @@ In a number of languages POc _&ast;ua_ is reflected as a preposition or a relato
 <table id="2-8-3-4-284-POc-ua-b">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;ua</i>
 </td>
 <td>
@@ -8387,7 +8387,7 @@ Other reflexes of &ast;ua apparently occur as demonstratives in a number of lang
 <table id="2-8-3-4-285-POc-ua-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;ua</i>
 </td>
 <td>
@@ -8426,7 +8426,7 @@ Other reflexes of &ast;ua apparently occur as demonstratives in a number of lang
 <tr>
 <td>PT</td><td><a href="../languages/lala">Lala</a></td><td><i>uʔa</i></td>
 <td>
-[PRO] </td>
+(&#51;) [PRO] </td>
 </tr>
 <tr>
 <td>Mic</td><td><a href="../languages/kosraean">Kosraean</a></td><td><i>æ</i></td>
@@ -8467,7 +8467,7 @@ Irregular loss of initial _&ast;w-_ is reflected in New Caledonian and Central P
 <table id="2-8-3-4-286-POc-watu-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;watu</i>
 </td>
 <td>
@@ -8621,7 +8621,7 @@ Just as POc _&ast;mai_ ‘come’ had a short form _&ast;ma_, so POc _&ast;lako_
 <table id="2-8-3-4-287-POc-lako-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;lako</i>
 </td>
 <td>
@@ -8629,8 +8629,8 @@ Just as POc _&ast;mai_ ‘come’ had a short form _&ast;ma_, so POc _&ast;lako_
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
-<i>&ast;lako, la</i>
+<td style="white-space: nowrap;">
+<i>&ast;lako, &ast;la</i>
 </td>
 <td>
 [V] '<span>go (to)</span>'; [DIR] '<span>away from speaker</span>'</td>
@@ -8925,7 +8925,7 @@ As noted in [§3.3](../contributions/2-8#s-3-3), some reflexes of POc _&ast;pano
 <table id="2-8-3-4-290-POc-pano-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;panaw</i>
 </td>
 <td>
@@ -8934,7 +8934,7 @@ As noted in [§3.3](../contributions/2-8#s-3-3), some reflexes of POc _&ast;pano
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;pano</i>
 </td>
 <td>
@@ -9104,7 +9104,7 @@ POc _&ast;pano_ evidently had a short form _&ast;pa_, giving a pair analogous to
 <table id="2-8-3-4-291-POc-pa-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;pa</i>
 </td>
 <td>
@@ -9263,7 +9263,7 @@ Functionally and semantically the members of the small cognate set below resembl
 <table id="2-8-3-4-293-POc-yaku-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;[y]aku</i>
 </td>
 <td>
@@ -9305,7 +9305,7 @@ POc _&ast;tani_ was a prepositional verb, reconstructed by [Pawley](../sources/P
 <table id="2-8-3-4-293-POc-tani-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;tani</i>
 </td>
 <td>

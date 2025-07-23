@@ -41,7 +41,7 @@ The most soundly based reconstruction for sky is POc _&ast;laŋit_ (see also p.1
 <table id="2-6-2-1-157-POc-lait-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;laŋiC</i>
 </td>
 <td>
@@ -50,7 +50,7 @@ The most soundly based reconstruction for sky is POc _&ast;laŋit_ (see also p.1
 </tr>
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;laŋit</i>
 </td>
 <td>
@@ -58,7 +58,7 @@ The most soundly based reconstruction for sky is POc _&ast;laŋit_ (see also p.1
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;laŋit</i>
 </td>
 <td>
@@ -169,8 +169,8 @@ The line where sea meets sky is commonly referred to by a compound — either ed
 <table id="2-6-2-2-158-PPn-tafatafaqakilai-a">
 <tr>
 <td><strong>PPn</strong></td><td> </td>
-<td>
-<i>&ast;(tafa)tafa-qaki-laŋi, (tafa)tafa-qi-laŋi</i>
+<td style="white-space: nowrap;">
+<i>&ast;(tafa)tafa-qaki-laŋi, &ast;(tafa)tafa-qi-laŋi</i>
 </td>
 <td>
 '<span>horizon</span>' (<span><em>*tafa</em> ‘side, edge’, <em>laŋi</em> ‘sky’</span>)</td>
@@ -214,7 +214,7 @@ Similarly, PChk _&ast;pai-laŋi_ may be from POc _&ast;baRa_ ‘fence’(see vol
 <table id="2-6-2-2-158-PChk-pailai-a">
 <tr>
 <td><strong>PChk</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;pai-laŋi</i>
 </td>
 <td>
@@ -250,93 +250,93 @@ Two SE Solomonic languages describe the horizon in terms of the sea rather than 
 <table id="2-6-2-2-158-pt-motu-gubadokona">
 <tr>
 <td>PT</td>
-<td>Motu</td>
-<td><i>guba dokona</i></td>
+<td><a href="../languages/motu">Motu</a></td>
+<td style="white-space: nowrap"><i>guba dokona</i></td>
 <td>
 '<span>horizon</span>' (<span><em>guba</em> ‘sky’ <em>doko</em> ‘end’</span>)[^4]</td>
 </tr>
 <tr>
 <td>SES</td>
-<td>Lau</td>
-<td><i>ʔaena salo</i></td>
+<td><a href="../languages/lau">Lau</a></td>
+<td style="white-space: nowrap"><i>ʔaena salo</i></td>
 <td>
 '<span>horizon</span>' (<span><em>ʔaena</em> ‘foot’, <em>salo</em> ‘sky’</span>)[^5]</td>
 </tr>
 <tr>
 <td>SES</td>
-<td>Arosi</td>
-<td><i>waʔa-ni-aro</i></td>
+<td><a href="../languages/arosi">Arosi</a></td>
+<td style="white-space: nowrap"><i>waʔa-ni-aro</i></td>
 <td>
 '<span>horizon</span>' (<span>lit. ‘beginning of the sky’</span>)</td>
 </tr>
 <tr>
 <td>Mic</td>
-<td>Trukese</td>
-<td><i>epī-ɾeŋ</i></td>
+<td><a href="../languages/trukese">Trukese</a></td>
+<td style="white-space: nowrap"><i>epī-ɾeŋ</i></td>
 <td>
 '<span>horizon</span>' (<span><em>epi-</em> ‘bottom’, <em>ɾeŋi</em> ‘sky’</span>)</td>
 </tr>
 <tr>
 <td>Mic</td>
-<td>Marshallese</td>
-<td><i>kapin laŋ</i></td>
+<td><a href="../languages/marshallese">Marshallese</a></td>
+<td style="white-space: nowrap"><i>kapin laŋ</i></td>
 <td>
 '<span>horizon</span>' (<span><em>kapi</em> ‘bottom’, <em>laŋ</em> ‘sky’</span>)</td>
 </tr>
 <tr>
 <td>Mic</td>
-<td>Kosraean</td>
-<td><i>pe kʌṣa</i></td>
+<td><a href="../languages/kosraean">Kosraean</a></td>
+<td style="white-space: nowrap"><i>pe kʌṣa</i></td>
 <td>
 '<span>horizon</span>' (<span><em>pe</em> ‘side’, <em>kʌṣa</em> ‘sky/heaven’</span>)</td>
 </tr>
 <tr>
 <td>Mic</td>
-<td>Kiribatese</td>
-<td><i>te tataŋa ni mainiku</i></td>
+<td><a href="../languages/kiribatese">Kiribatese</a></td>
+<td style="white-space: nowrap"><i>te tataŋa ni mainiku</i></td>
 <td>
 '<span>eastern horizon</span>' (<span>lit. ‘roof-plate of east’</span>)</td>
 </tr>
 <tr>
 <td>Mic</td>
-<td>Kiribatese</td>
-<td><i>te tataŋa ni maeao</i></td>
+<td><a href="../languages/kiribatese">Kiribatese</a></td>
+<td style="white-space: nowrap"><i>te tataŋa ni maeao</i></td>
 <td>
 '<span>western horizon</span>' (<span>lit. ‘roof-plate of west’</span>)(<a href="../sources/Grimble1931">Grimble1931: 198</a>)
 </td>
 </tr>
 <tr>
 <td>Fij</td>
-<td>Bauan</td>
-<td><i>vū-ni-laŋi</i></td>
+<td><a href="../languages/bauanfijian">Bauan</a></td>
+<td style="white-space: nowrap"><i>vū-ni-laŋi</i></td>
 <td>
 '<span>horizon</span>' (<span>lit. ‘base of sky’</span>)</td>
 </tr>
 <tr>
 <td>Fij</td>
-<td>Wayan</td>
-<td><i>vū-ni-laŋi</i></td>
+<td><a href="../languages/wayan">Wayan</a></td>
+<td style="white-space: nowrap"><i>vū-ni-laŋi</i></td>
 <td>
 '<span>horizon</span>'</td>
 </tr>
 <tr>
 <td>Pn</td>
-<td>Hawaiian</td>
-<td><i>kumu-lani</i></td>
+<td><a href="../languages/hawaiian">Hawaiian</a></td>
+<td style="white-space: nowrap"><i>kumu-lani</i></td>
 <td>
 '<span>horizon</span>' (<span>lit. ‘base of sky’</span>)</td>
 </tr>
 <tr>
 <td>Pn</td>
-<td>Hawaiian</td>
-<td><i>pōʔai-lani</i></td>
+<td><a href="../languages/hawaiian">Hawaiian</a></td>
+<td style="white-space: nowrap"><i>pōʔai-lani</i></td>
 <td>
 '<span>horizon</span>' (<span>lit. ‘sky circle’</span>)</td>
 </tr>
 <tr>
 <td>Pn</td>
-<td>Hawaiian</td>
-<td><i>kūkulu-o-lani</i></td>
+<td><a href="../languages/hawaiian">Hawaiian</a></td>
+<td style="white-space: nowrap"><i>kūkulu-o-lani</i></td>
 <td>
 '<span>horizon</span>' (<span><em>kūkulu</em> ‘pillar, post, side, edge, horizon’ denotes the four pillars which were the principal supports of the heavenly dome (Makemson 1939:19)</span>)(<a href="../sources/Akerblom1968">Akerblom1968: 15</a>)
 </td>
@@ -366,8 +366,8 @@ Reconstruction of a POc term for the sun itself is not clearcut. Blust has recon
 <table id="2-6-3-None-160-POc-qaco-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
-<td>
-<i>&ast;qajaw, qalejaw</i>
+<td style="white-space: nowrap;">
+<i>&ast;qajaw, &ast;qalejaw</i>
 </td>
 <td>
 '<span>sun, daylight</span>' (<a href="../sources/Blust1995">Blust1995</a>)
@@ -425,7 +425,7 @@ Reconstruction of a POc term for the sun itself is not clearcut. Blust has recon
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;qaco</i>
 </td>
 <td>
@@ -551,7 +551,7 @@ Reconstruction of a POc term for the sun itself is not clearcut. Blust has recon
 <table id="2-6-3-None-161-PPn-qaso-a">
 <tr>
 <td><strong>PPn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;qaso</i>
 </td>
 <td>
@@ -596,7 +596,7 @@ Proto Nuclear Polynesian shows a split between _&ast;qaso_ ‘day, as a period o
 <table id="2-6-3-None-161-PNPn-qaho-a">
 <tr>
 <td><strong>PNPn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;qaho</i>
 </td>
 <td>
@@ -634,7 +634,7 @@ Proto Nuclear Polynesian shows a split between _&ast;qaso_ ‘day, as a period o
 <table id="2-6-3-None-161-POc-raqani-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;daqaNi</i>
 </td>
 <td>
@@ -643,7 +643,7 @@ Proto Nuclear Polynesian shows a split between _&ast;qaso_ ‘day, as a period o
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;raqani</i>
 </td>
 <td>
@@ -828,7 +828,7 @@ The preceding cognate set may ultimately be connected with the following one. Ho
 <table id="2-6-3-None-162-POc-drraqa-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;[dr,r]aqā</i>
 </td>
 <td>
@@ -836,7 +836,7 @@ The preceding cognate set may ultimately be connected with the following one. Ho
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;[dr,r]aqa-ŋi</i>
 </td>
 <td>
@@ -909,7 +909,7 @@ The preceding cognate set may ultimately be connected with the following one. Ho
 </tr>
 <tr>
 <td><strong>PPn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;laqā</i>
 </td>
 <td>
@@ -964,7 +964,7 @@ The following set focuses on effects of the sun’s heat as opposed to its light
 <table id="2-6-3-None-163-POc-rara-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;raraŋ</i>
 </td>
 <td>
@@ -972,7 +972,7 @@ The following set focuses on effects of the sun’s heat as opposed to its light
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;[ra]raŋ-i</i>
 </td>
 <td>
@@ -1077,7 +1077,7 @@ Yet another contender for the POc term for sun is _&ast;sinaR_, which Blust (199
 <table id="2-6-3-None-163-POc-sinar-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;sinaR</i>
 </td>
 <td>
@@ -1086,7 +1086,7 @@ Yet another contender for the POc term for sun is _&ast;sinaR_, which Blust (199
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;sinaR</i>
 </td>
 <td>
@@ -1199,7 +1199,7 @@ Building on its ‘shine’ meaning, POc _&ast;sinaR_ has given rise to a number
 <table id="2-6-3-None-164-PPn-masina-a">
 <tr>
 <td><strong>PPn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;mā-sina</i>
 </td>
 <td>
@@ -1250,7 +1250,7 @@ The moon is of little value as a navigational aid. Its typical role is as a mark
 <table id="2-6-4-None-164-POc-pulan-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;bulaN</i>
 </td>
 <td>
@@ -1259,7 +1259,7 @@ The moon is of little value as a navigational aid. Its typical role is as a mark
 </tr>
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;bulan</i>
 </td>
 <td>
@@ -1268,7 +1268,7 @@ The moon is of little value as a navigational aid. Its typical role is as a mark
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;pulan</i>
 </td>
 <td>
@@ -1382,7 +1382,7 @@ In Polynesia _&ast;pulan_ is reflected as a verb, PPn _&ast;pula_ ‘to glow’ 
 <table id="2-6-4-None-165-PEOc-madrama-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;ma[d]rama</i>
 </td>
 <td>
@@ -1454,7 +1454,7 @@ It has already been pointed out that the northern hemisphere sky differs from th
 <table id="2-6-5-1-166-POc-pituqun-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;bituqen</i>
 </td>
 <td>
@@ -1463,7 +1463,7 @@ It has already been pointed out that the northern hemisphere sky differs from th
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;pituqun</i>
 </td>
 <td>
@@ -1603,7 +1603,7 @@ The planets ‘wander’ in their movements and are of little use as guiding sta
 <table id="2-6-5-2-167-POc-madala-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;mantalaq</i>
 </td>
 <td>
@@ -1612,7 +1612,7 @@ The planets ‘wander’ in their movements and are of little use as guiding sta
 </tr>
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;(t)ala(q)</i>
 </td>
 <td>
@@ -1621,7 +1621,7 @@ The planets ‘wander’ in their movements and are of little use as guiding sta
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;ma-dala</i>
 </td>
 <td>
@@ -1691,13 +1691,11 @@ __Morning Star:__
 <table id="2-6-5-2-167-PPn-fetuquqaho-a">
 <tr>
 <td><strong>PPn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;fetuqu qaho</i>
 </td>
 <td>
-'<span>Morning Star</span>' (<blockquote>
-<span>POc <em>*qaco</em> ‘sun, daytime’</span>
-</blockquote>)</td>
+'<span>Morning Star</span>' (<span>&gt; POc <em>*qaco</em> ‘sun, daytime’</span>)</td>
 </tr>
 <tr>
 <td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>fetuʔu ʔaho</i></td>
@@ -1737,13 +1735,11 @@ __Morning Star:__
 <table id="2-6-5-2-167-PMic-fiturani-a">
 <tr>
 <td><strong>PMic</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;fitū rāni</i>
 </td>
 <td>
-'<span>Morning Star</span>' (<blockquote>
-<span>POc <em>*raqani</em> ‘daytime, daylight’</span>
-</blockquote>)</td>
+'<span>Morning Star</span>' (<span>&gt; POc <em>*raqani</em> ‘daytime, daylight’</span>)</td>
 </tr>
 <tr>
 <td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>icu ṛɯan</i></td>
@@ -1774,22 +1770,22 @@ __Morning Star:__
 <table id="2-6-5-2-167-nng-gedaged-boitinan">
 <tr>
 <td>NNG</td>
-<td>Gedaged</td>
-<td><i>boi tinan </i></td>
+<td><a href="../languages/gedaged">Gedaged</a></td>
+<td style="white-space: nowrap"><i>boi tinan </i></td>
 <td>
 '<span>Morning Star</span>' (<span><em>boi</em> ‘star’, <em>tinan</em> ‘mother’ or ‘big’; cf. p.195</span>)[^13]</td>
 </tr>
 <tr>
 <td>NNG</td>
-<td>Manam</td>
-<td><i>goai zama </i></td>
+<td><a href="../languages/manam">Manam</a></td>
+<td style="white-space: nowrap"><i>goai zama </i></td>
 <td>
 '<span>Morning Star</span>' (<span><em>goai</em> ‘star’, <em>zama</em> ‘tomorrow’</span>)</td>
 </tr>
 <tr>
 <td>PT</td>
-<td>Motu</td>
-<td><i>hisiu bada</i></td>
+<td><a href="../languages/motu">Motu</a></td>
+<td style="white-space: nowrap"><i>hisiu bada</i></td>
 <td>
 '<span>Morning Star</span>' (<span><em>hisiu</em> ‘star’, <em>bada</em> ‘large’</span>)</td>
 </tr>
@@ -1803,43 +1799,43 @@ __Evening Star (various compounds):__
 <table id="2-6-5-2-168-mm-roviana-govetepisi">
 <tr>
 <td>MM</td>
-<td>Roviana</td>
-<td><i>govete pisi</i></td>
+<td><a href="../languages/roviana">Roviana</a></td>
+<td style="white-space: nowrap"><i>govete pisi</i></td>
 <td>
 '<span>Evening Star, Venus</span>' (<span><em>govete</em> ‘to flee, run away’, <em>pisi</em> ‘to sting or bite, as insects’</span>)</td>
 </tr>
 <tr>
 <td>SES</td>
-<td>To'aba'ita</td>
-<td><i>bubufaŋa</i></td>
+<td><a href="../languages/toabaita">To'aba'ita</a></td>
+<td style="white-space: nowrap"><i>bubufaŋa</i></td>
 <td>
 '<span>Evening Star</span>' (<span><em>bubu</em> ‘look at’, <em>faŋa</em> ‘eat; food’</span>)</td>
 </tr>
 <tr>
 <td>SES</td>
-<td>Lau</td>
-<td><i>būbūfaŋa</i></td>
+<td><a href="../languages/lau">Lau</a></td>
+<td style="white-space: nowrap"><i>būbūfaŋa</i></td>
 <td>
 '<span>Evening Star</span>' (<span><em>būbū</em> ‘look at, gaze’, <em>faŋa</em> ‘to have a meal, food’</span>)</td>
 </tr>
 <tr>
 <td>SES</td>
-<td>Arosi</td>
-<td><i>maŋai ŋau</i></td>
+<td><a href="../languages/arosi">Arosi</a></td>
+<td style="white-space: nowrap"><i>maŋai ŋau</i></td>
 <td>
 '<span>Evening Star</span>' (<span><em>maŋa</em> ‘eat’, <em>ŋau</em> ‘eat food’</span>)</td>
 </tr>
 <tr>
 <td>Pn</td>
-<td>Tikopia</td>
-<td><i>fetū ramaŋa</i></td>
+<td><a href="../languages/tikopia">Tikopia</a></td>
+<td style="white-space: nowrap"><i>fetū ramaŋa</i></td>
 <td>
 '<span>Alternative name for evening star when standing in west, in monsoon nights</span>' (<span>lit. ‘torchlight fishing star’</span>)</td>
 </tr>
 <tr>
 <td>Pn</td>
-<td>Hawaiian</td>
-<td><i>hōkū-kau-ʔōpae</i></td>
+<td><a href="../languages/hawaiian">Hawaiian</a></td>
+<td style="white-space: nowrap"><i>hōkū-kau-ʔōpae</i></td>
 <td>
 '<span>Evening Star</span>' (<span>lit. ‘star for placing shrimp’</span>)</td>
 </tr>
@@ -1856,7 +1852,7 @@ One of the few constellations that I have been able to identify and trace back t
 <table id="2-6-5-2-168-POc-manuk-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;manuk</i>
 </td>
 <td>
@@ -1864,7 +1860,7 @@ One of the few constellations that I have been able to identify and trace back t
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;manuk</i>
 </td>
 <td>
@@ -1927,72 +1923,72 @@ We also have various references to particular stars as Manuk’s head, Manuk’s
 <table id="2-6-5-2-169-adm-ninigo-manifono">
 <tr>
 <td>Adm</td>
-<td>Seimat</td>
-<td><i>mānifono</i></td>
+<td><a href="../languages/seimat">Seimat</a></td>
+<td style="white-space: nowrap"><i>mānifono</i></td>
 <td>
 '<span>Sirius</span>' (<span><em>fono</em> ‘head’</span>)</td>
 </tr>
 <tr>
 <td>Adm</td>
-<td>Seimat</td>
-<td><i>mānitola</i></td>
+<td><a href="../languages/seimat">Seimat</a></td>
+<td style="white-space: nowrap"><i>mānitola</i></td>
 <td>
 '<span>Procyon</span>'</td>
 </tr>
 <tr>
 <td>Adm</td>
-<td>Seimat</td>
-<td><i>mānihaiup</i></td>
+<td><a href="../languages/seimat">Seimat</a></td>
+<td style="white-space: nowrap"><i>mānihaiup</i></td>
 <td>
 '<span>Canopus</span>'(<a href="../sources/Lewis1994">Lewis1994: 406</a>)
 </td>
 </tr>
 <tr>
 <td>Mic</td>
-<td>Kiribatese</td>
-<td><i>pʷāpʷā-ni-man</i></td>
+<td><a href="../languages/kiribatese">Kiribatese</a></td>
+<td style="white-space: nowrap"><i>pʷāpʷā-ni-man</i></td>
 <td>
 '<span>Sirius</span>' (<span><em>pʷāpʷā</em> ‘chest’</span>)</td>
 </tr>
 <tr>
 <td>Mic</td>
-<td>Kiribatese</td>
-<td><i>man-ati</i></td>
+<td><a href="../languages/kiribatese">Kiribatese</a></td>
+<td style="white-space: nowrap"><i>man-ati</i></td>
 <td>
 '<span>Rigel</span>' (<span><em>ati</em> ‘heart’</span>)</td>
 </tr>
 <tr>
 <td>Mic</td>
-<td>Puluwatese</td>
-<td><i>yinekin-mān</i></td>
+<td><a href="../languages/puluwatese">Puluwatese</a></td>
+<td style="white-space: nowrap"><i>yinekin-mān</i></td>
 <td>
 '<span>Sirius</span>' (<span><em>yinek</em> ‘body, trunk’</span>)</td>
 </tr>
 <tr>
 <td>Pn</td>
-<td>Rennellese</td>
-<td><i>te tino-manu</i></td>
+<td><a href="../languages/rennellese">Rennellese</a></td>
+<td style="white-space: nowrap"><i>te tino-manu</i></td>
 <td>
 '<span>three bright stars at the end of Taurus</span>' (<span><em>tino</em> ‘body’</span>)</td>
 </tr>
 <tr>
 <td>Pn</td>
-<td>Anutan</td>
-<td><i>te kaokao o manu</i></td>
+<td><a href="../languages/anutan">Anutan</a></td>
+<td style="white-space: nowrap"><i>te kaokao o manu</i></td>
 <td>
 '<span>Manuk’s armpit: a group of four small stars near Sirius; said to pass almost directly over Tikopia when approaching from Anuta</span>'</td>
 </tr>
 <tr>
 <td>Pn</td>
-<td>Anutan</td>
-<td><i>te tino a manu</i></td>
+<td><a href="../languages/anutan">Anutan</a></td>
+<td style="white-space: nowrap"><i>te tino a manu</i></td>
 <td>
 '<span>Sirius</span>' (<span><em>tino</em> ‘body’</span>)</td>
 </tr>
 <tr>
 <td>Pn</td>
-<td>Tikopia</td>
-<td><i>te opiŋa o manu</i></td>
+<td><a href="../languages/tikopia">Tikopia</a></td>
+<td style="white-space: nowrap"><i>te opiŋa o manu</i></td>
 <td>
 '<span>Manuk’s armpit</span>' (<span>A Tikopian name but commonly used on Anuta.</span>)(<a href="../sources/Feinberg1988">Feinberg1988: 101</a>)
 </td>
@@ -2004,57 +2000,57 @@ Procyon (or Betelgeuse) and Canopus are widely referred to as the north wing and
 <table id="2-6-5-2-169-mic-satawalese-painemanemefu">
 <tr>
 <td>Mic</td>
-<td>Satawalese</td>
-<td><i>paīne-māne-mefuŋ</i></td>
+<td><a href="../languages/satawalese">Satawalese</a></td>
+<td style="white-space: nowrap"><i>paīne-māne-mefuŋ</i></td>
 <td>
 '<span>Procyon</span>' (<span>lit. ‘northern wing of Manuk’</span>)</td>
 </tr>
 <tr>
 <td>Mic</td>
-<td>Satawalese</td>
-<td><i>paīne-māne-meɨr</i></td>
+<td><a href="../languages/satawalese">Satawalese</a></td>
+<td style="white-space: nowrap"><i>paīne-māne-meɨr</i></td>
 <td>
 '<span>Canopus</span>' (<span>lit. ‘southern wing of Manuk’</span>)</td>
 </tr>
 <tr>
 <td>Pn</td>
-<td>Anutan</td>
-<td><i>te kapakau paka-tokerau</i></td>
+<td><a href="../languages/anutan">Anutan</a></td>
+<td style="white-space: nowrap"><i>te kapakau paka-tokerau</i></td>
 <td>
 '<span>Procyon, the north wing (of Manuk constellation)</span>' (<span><em>kapakau</em> ‘wing’, <em>tokerau</em> ‘north’</span>)</td>
 </tr>
 <tr>
 <td>Pn</td>
-<td>Anutan</td>
-<td><i>te kapakau paka-toŋa </i></td>
+<td><a href="../languages/anutan">Anutan</a></td>
+<td style="white-space: nowrap"><i>te kapakau paka-toŋa </i></td>
 <td>
 '<span>Canopus, Manuk’s east wing</span>' (<span><em>kapakau</em> ‘wing’, <em>toŋa</em> ‘south/east’</span>)</td>
 </tr>
 <tr>
 <td>Pn</td>
-<td>Tikopia</td>
-<td><i>kapakau faka-tokerau </i></td>
+<td><a href="../languages/tikopia">Tikopia</a></td>
+<td style="white-space: nowrap"><i>kapakau faka-tokerau </i></td>
 <td>
 '<span>Betelgeuse</span>'</td>
 </tr>
 <tr>
 <td>Pn</td>
-<td>Tikopia</td>
-<td><i>kapakau faka-toŋa    </i></td>
+<td><a href="../languages/tikopia">Tikopia</a></td>
+<td style="white-space: nowrap"><i>kapakau faka-toŋa    </i></td>
 <td>
 '<span>probably Canopus</span>'</td>
 </tr>
 <tr>
 <td>Pn</td>
-<td>Pileni</td>
-<td><i>trekapekau ki taumako</i></td>
+<td><a href="../languages/pileni">Pileni</a></td>
+<td style="white-space: nowrap"><i>trekapekau ki taumako</i></td>
 <td>
 '<span>Betelgeuse</span>' (<span>Taumako is an island east northeast of Pileni</span>)</td>
 </tr>
 <tr>
 <td>Pn</td>
-<td>Pileni</td>
-<td><i>trekapekau ki ndeni  </i></td>
+<td><a href="../languages/pileni">Pileni</a></td>
+<td style="white-space: nowrap"><i>trekapekau ki ndeni  </i></td>
 <td>
 '<span>Canopus</span>' (<span>Ndeni is an island southwest of Pileni</span>)(<a href="../sources/Lewis1994">Lewis1994: 408</a>)
 </td>
@@ -2069,7 +2065,7 @@ Individual stars within a constellation are frequently named because of their si
 <table id="2-6-5-2-170-PPn-takulua-a">
 <tr>
 <td><strong>PPn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;takulua</i>
 </td>
 <td>
@@ -2122,7 +2118,7 @@ We have another PPn reconstruction whose reference is apparently to a star or st
 <table id="2-6-5-2-170-PPn-takelo-a">
 <tr>
 <td><strong>PPn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;tākelo</i>
 </td>
 <td>
@@ -2190,7 +2186,7 @@ Blust has reconstructed PMP _&ast;buluq_, POc _&ast;puluq_ ‘a constellation, t
 <table id="2-6-5-2-171-POc-buluq-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;buluq</i>
 </td>
 <td>
@@ -2199,7 +2195,7 @@ Blust has reconstructed PMP _&ast;buluq_, POc _&ast;puluq_ ‘a constellation, t
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;bulu(q)</i>
 </td>
 <td>
@@ -2241,7 +2237,7 @@ cf. also:
 <table>
 <tr>
 <td>SES</td>
-<td>Gela</td>
+<td><a href="../languages/gela">Gela</a></td>
 <td><i>buru-buru</i></td>
 <td>
 '<span>Pleiades</span>' (<span><em>r</em> for exp. <em>l</em></span>)</td>
@@ -2259,7 +2255,7 @@ In Polynesia and Micronesia a different term, translatable literally as ‘small
 <table id="2-6-5-2-172-PEOc-mataliki-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;mataliki</i>
 </td>
 <td>
@@ -2282,7 +2278,7 @@ In Polynesia and Micronesia a different term, translatable literally as ‘small
 </tr>
 <tr>
 <td><strong>PPn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;mataliki</i>
 </td>
 <td>
@@ -2365,7 +2361,7 @@ Although the Southern Cross is typically associated with the southern hemisphere
 <table id="2-6-5-2-173-PEOc-bubu-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;bubu</i>
 </td>
 <td>
@@ -2425,65 +2421,65 @@ Other terms are descriptive, with the net metaphor and the cross shape or crucif
 <table id="2-6-5-2-173-ses-saa-ape">
 <tr>
 <td>SES</td>
-<td>Sa'a</td>
-<td><i>ʔape</i></td>
+<td><a href="../languages/saa">Sa'a</a></td>
+<td style="white-space: nowrap"><i>ʔape</i></td>
 <td>
 '<span>Southern Cross</span>' (<span>lit. ‘large square fishing net fixed on four upright poles’</span>)</td>
 </tr>
 <tr>
 <td>Fij</td>
-<td>Bauan</td>
-<td><i>kalokalo-ni-ðeva</i></td>
+<td><a href="../languages/bauanfijian">Bauan</a></td>
+<td style="white-space: nowrap"><i>kalokalo-ni-ðeva</i></td>
 <td>
 '<span>Southern Cross</span>' (<span><em>kalokalo</em> ‘star’, <em>ðeva</em> ‘the south or southeast wind’</span>)</td>
 </tr>
 <tr>
 <td>Pn</td>
-<td>Anutan</td>
-<td><i>te kupeŋa    </i></td>
+<td><a href="../languages/anutan">Anutan</a></td>
+<td style="white-space: nowrap"><i>te kupeŋa    </i></td>
 <td>
 '<span>The Net: Southern Cross</span>'</td>
 </tr>
 <tr>
 <td>Pn</td>
-<td>Tikopia</td>
-<td><i>te kau kupeŋa</i></td>
+<td><a href="../languages/tikopia">Tikopia</a></td>
+<td style="white-space: nowrap"><i>te kau kupeŋa</i></td>
 <td>
 '<span>pole-net handle</span>' (<span><em>kau</em> ‘handle’ probably refers to the Pointers rather than the Cross, which is the net.</span>)</td>
 </tr>
 <tr>
 <td>Pn</td>
-<td>Rennellese</td>
-<td><i>kau-kupeŋa</i></td>
+<td><a href="../languages/rennellese">Rennellese</a></td>
+<td style="white-space: nowrap"><i>kau-kupeŋa</i></td>
 <td>
 '<span>Southern Cross; net handle, net frame</span>'</td>
 </tr>
 <tr>
 <td>Pn</td>
-<td>Kapingamarangi</td>
-<td><i>tina ti raŋi   </i></td>
+<td><a href="../languages/kapingamarangi">Kapingamarangi</a></td>
+<td style="white-space: nowrap"><i>tina ti raŋi   </i></td>
 <td>
 '<span>Southern Cross</span>' (<span>lit. ‘sky mother’</span>)</td>
 </tr>
 <tr>
 <td>Pn</td>
-<td>Tikopia</td>
-<td><i>te uru a taŋata</i></td>
+<td><a href="../languages/tikopia">Tikopia</a></td>
+<td style="white-space: nowrap"><i>te uru a taŋata</i></td>
 <td>
 '<span>Southern Cross</span>' (<span>lit. ‘man__s head’</span>)</td>
 </tr>
 <tr>
 <td>Pn</td>
-<td>Tikopia</td>
-<td><i>rakau tapu     </i></td>
+<td><a href="../languages/tikopia">Tikopia</a></td>
+<td style="white-space: nowrap"><i>rakau tapu     </i></td>
 <td>
 '<span>Southern Cross</span>' (<span>lit. ‘sacred timber’</span>)(<a href="../sources/Lewis1994">Lewis1994: 407</a>)
 </td>
 </tr>
 <tr>
 <td>Pn</td>
-<td>Hawaiian</td>
-<td><i>hōkū-keʔa</i></td>
+<td><a href="../languages/hawaiian">Hawaiian</a></td>
+<td style="white-space: nowrap"><i>hōkū-keʔa</i></td>
 <td>
 '<span>Southern Cross</span>' (<span><em>keʔa</em> ‘cross, crucifix’</span>)</td>
 </tr>
@@ -2500,39 +2496,39 @@ The Pointers, Alpha and Beta Centauri, are widely referred to by compounds trans
 <table id="2-6-5-2-173-ses-saa-romane">
 <tr>
 <td>SES</td>
-<td>Sa'a</td>
-<td><i>ro mʷane  </i></td>
+<td><a href="../languages/saa">Sa'a</a></td>
+<td style="white-space: nowrap"><i>ro mʷane  </i></td>
 <td>
 '<span>Pointers (to Southern Cross)</span>' (<span>lit. ‘two men’</span>)</td>
 </tr>
 <tr>
 <td>Pn</td>
-<td>Samoan</td>
-<td><i>lua taŋata</i></td>
+<td><a href="../languages/samoan">Samoan</a></td>
+<td style="white-space: nowrap"><i>lua taŋata</i></td>
 <td>
 '<span>Pointers: Alpha and Beta Centauri</span>'(<a href="../sources/Akerblom1968">Akerblom1968: 27</a>)
 </td>
 </tr>
 <tr>
 <td>Pn</td>
-<td>Tikopia</td>
-<td><i>rua taŋata</i></td>
+<td><a href="../languages/tikopia">Tikopia</a></td>
+<td style="white-space: nowrap"><i>rua taŋata</i></td>
 <td>
 '<span>Southern Cross</span>'(<a href="../sources/Lewis1994">Lewis1994: 407</a>)
 </td>
 </tr>
 <tr>
 <td>Pn</td>
-<td>Tokelauan</td>
-<td><i>na taŋata </i></td>
+<td><a href="../languages/tokelauan">Tokelauan</a></td>
+<td style="white-space: nowrap"><i>na taŋata </i></td>
 <td>
 '<span>these two stars are guides for voyages from Tokelau to Samoa</span>'(<a href="../sources/Macgregor1937">Macgregor1937: 89</a>)
 </td>
 </tr>
 <tr>
 <td>Pn</td>
-<td>Anutan</td>
-<td><i>rua taŋata</i></td>
+<td><a href="../languages/anutan">Anutan</a></td>
+<td style="white-space: nowrap"><i>rua taŋata</i></td>
 <td>
 '<span>constellation consisting of two bright stars near the Southern Cross. Centaurus, also known as te <em>kau o te kupeŋa</em> handle of fishing net</span>' (<span>Lit. ‘double man’</span>)</td>
 </tr>
@@ -2552,30 +2548,30 @@ No cognates are evident for the constellation, but there are semantically parall
 <table id="2-6-5-2-174-ses-saa-ireki">
 <tr>
 <td>SES</td>
-<td>Sa'a</td>
-<td><i>ireki</i></td>
+<td><a href="../languages/saa">Sa'a</a></td>
+<td style="white-space: nowrap"><i>ireki</i></td>
 <td>
 '<span>the Southern Triangle</span>' (<span>lit. ‘tongs’</span>)</td>
 </tr>
 <tr>
 <td>SES</td>
-<td>Lau</td>
-<td><i>sākai</i></td>
+<td><a href="../languages/lau">Lau</a></td>
+<td style="white-space: nowrap"><i>sākai</i></td>
 <td>
 '<span>bamboo tongs: name of constellation of six stars</span>'</td>
 </tr>
 <tr>
 <td>Pn</td>
-<td>Tikopia</td>
-<td><i>te ūkopi  </i></td>
+<td><a href="../languages/tikopia">Tikopia</a></td>
+<td style="white-space: nowrap"><i>te ūkopi  </i></td>
 <td>
 '<span>the Tongs (Taurus’s forehead), particularly Aldebaran</span>' (<span>Firth has <em>ūkofi</em></span>)(<a href="../sources/Feinberg1988">Feinberg1988: 101</a>)
 </td>
 </tr>
 <tr>
 <td>Pn</td>
-<td>Anutan</td>
-<td><i>te aŋa-aŋa</i></td>
+<td><a href="../languages/anutan">Anutan</a></td>
+<td style="white-space: nowrap"><i>te aŋa-aŋa</i></td>
 <td>
 '<span>the Tongs: a constellation consisting of seven stars from Taurus arranged in a V pattern</span>'</td>
 </tr>
@@ -2588,7 +2584,7 @@ There is a possible PEOc reconstruction for Aldebaran, the single brightest star
 <table id="2-6-5-2-174-PEOc-ucunu-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;u(C)unu</i>
 </td>
 <td>
@@ -2644,31 +2640,31 @@ Other names located for Aldebaran include:
 <table id="2-6-5-2-174-mic-kiribati-tebotonaiai">
 <tr>
 <td>Mic</td>
-<td>Kiribatese</td>
-<td><i>te boto-n-aiai</i></td>
+<td><a href="../languages/kiribatese">Kiribatese</a></td>
+<td style="white-space: nowrap"><i>te boto-n-aiai</i></td>
 <td>
 '<span>Aldebaran (in Taurus)</span>' (<span>lit. ‘base of ribs (aiai) of canoe’, because it stands in the V-shaped portion of Taurus</span>)(<a href="../sources/Grimble1931">Grimble1931: 241</a>)
 </td>
 </tr>
 <tr>
 <td>Mic</td>
-<td>Marshallese</td>
-<td><i>lᵚɔ̄c-lᵚaplᵚap</i></td>
+<td><a href="../languages/marshallese">Marshallese</a></td>
+<td style="white-space: nowrap"><i>lᵚɔ̄c-lᵚaplᵚap</i></td>
 <td>
 '<span>Aldebaran in Taurus</span>' (<span>lit. ‘big bonito’</span>)</td>
 </tr>
 <tr>
 <td>Pn</td>
-<td>Tahitian</td>
-<td><i>ana muri</i></td>
+<td><a href="../languages/tahitian">Tahitian</a></td>
+<td style="white-space: nowrap"><i>ana muri</i></td>
 <td>
 '<span>Aldebaran</span>' (<span>‘rear pillar supporting the sky’; cf. <em>ana mua</em> ‘front pillar, Antares</span>)(<a href="../sources/Lewis1994">Lewis1994: 403</a>)
 </td>
 </tr>
 <tr>
 <td>Pn</td>
-<td>Māori</td>
-<td><i>wero-i-te-kokota</i></td>
+<td><a href="../languages/maori">Māori</a></td>
+<td style="white-space: nowrap"><i>wero-i-te-kokota</i></td>
 <td>
 '<span>Aldebaran</span>' (<span>‘herald of the digging season’</span>)</td>
 </tr>
@@ -2688,7 +2684,7 @@ Polaris marks the centre of the North Celestial Pole. From the viewpoint of a st
 <table id="2-6-5-2-175-PChk-fitumakut-a">
 <tr>
 <td><strong>PChk</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;fitū mʷakut</i>
 </td>
 <td>
@@ -2740,7 +2736,7 @@ The only cognate set located is from Micronesia. References may be at times to t
 <table id="2-6-5-2-175-PChk-mailapa-a">
 <tr>
 <td><strong>PChk</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;mai-lapa</i>
 </td>
 <td>
@@ -2779,7 +2775,7 @@ cf. also:
 <table>
 <tr>
 <td>Mic</td>
-<td>Marshallese</td>
+<td><a href="../languages/marshallese">Marshallese</a></td>
 <td><i>mæclɛp</i></td>
 <td>
 '<span>constellation Aquila, Altair</span>' (<span>lit. ‘big eye’</span>)</td>
@@ -2803,7 +2799,7 @@ Antares, in the western constellation of Scorpio, ranks with the Pleiades as the
 <table id="2-6-5-2-176-PMic-dzumuri-a">
 <tr>
 <td><strong>PMic</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;(d,z)umuri</i>
 </td>
 <td>
@@ -2871,7 +2867,7 @@ Antares, in the western constellation of Scorpio, ranks with the Pleiades as the
 <table id="2-6-5-2-176-PCEPn-refua-a">
 <tr>
 <td><strong>PCEPn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;refua</i>
 </td>
 <td>
@@ -2913,7 +2909,7 @@ Antares, in the western constellation of Scorpio, ranks with the Pleiades as the
 <table id="2-6-5-2-176-PNPn-melemele-a">
 <tr>
 <td><strong>PNPn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;mele-mele</i>
 </td>
 <td>
@@ -2957,7 +2953,7 @@ The star names listed from this point onward are reconstructable only for Proto 
 <table id="2-6-5-2-176-PMic-lakv-a">
 <tr>
 <td><strong>PMic</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;lakV</i>
 </td>
 <td>
@@ -3005,7 +3001,7 @@ The star names listed from this point onward are reconstructable only for Proto 
 <table id="2-6-5-2-177-PMic-kua-a">
 <tr>
 <td><strong>PMic</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;kua</i>
 </td>
 <td>
@@ -3048,7 +3044,7 @@ The star names listed from this point onward are reconstructable only for Proto 
 <table id="2-6-5-2-177-PChk-ukulik-a">
 <tr>
 <td><strong>PChk</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;ukulīk</i>
 </td>
 <td>
@@ -3080,7 +3076,7 @@ cf. also:
 <table>
 <tr>
 <td>Mic</td>
-<td>Marshallese</td>
+<td><a href="../languages/marshallese">Marshallese</a></td>
 <td><i>lᵚɔkʷan lᵚakeke</i></td>
 <td>
 '<span>Cassiopeia</span>' (<span>lit. ‘tail of porpoise’. <em>Lakeke</em> is a constellation shaped like a porpoise</span>)</td>
@@ -3097,7 +3093,7 @@ cf. also:
 <table id="2-6-5-2-177-PMic-tapia-a">
 <tr>
 <td><strong>PMic</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;tapia</i>
 </td>
 <td>
@@ -3141,7 +3137,7 @@ cf. also:
 <table id="2-6-5-2-177-PMic-aremoi-a">
 <tr>
 <td><strong>PMic</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;aremoi</i>
 </td>
 <td>
@@ -3202,7 +3198,7 @@ The following star reconstructions are limited to Proto Chuukic, a subgroup of M
 <table id="2-6-5-2-178-PChk-taropolu-a">
 <tr>
 <td><strong>PChk</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;taropʷolu</i>
 </td>
 <td>
@@ -3250,7 +3246,7 @@ The following star reconstructions are limited to Proto Chuukic, a subgroup of M
 <table id="2-6-5-2-178-PChk-ici-a">
 <tr>
 <td><strong>PChk</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;ici</i>
 </td>
 <td>
@@ -3278,7 +3274,7 @@ The following star reconstructions are limited to Proto Chuukic, a subgroup of M
 <table id="2-6-5-2-178-PChk-mul-a">
 <tr>
 <td><strong>PChk</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;mul</i>
 </td>
 <td>
@@ -3311,7 +3307,7 @@ The following star reconstructions are limited to Proto Chuukic, a subgroup of M
 <table id="2-6-5-2-178-PChk-caw-a">
 <tr>
 <td><strong>PChk</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;caw</i>
 </td>
 <td>
@@ -3344,7 +3340,7 @@ The following star reconstructions are limited to Proto Chuukic, a subgroup of M
 <table id="2-6-5-2-178-PChk-wuleko-a">
 <tr>
 <td><strong>PChk</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;wuleko</i>
 </td>
 <td>
@@ -3372,7 +3368,7 @@ The following star reconstructions are limited to Proto Chuukic, a subgroup of M
 <table id="2-6-5-2-178-PChk-tdza-a">
 <tr>
 <td><strong>PChk</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;tə̄(d,z)a</i>
 </td>
 <td>
@@ -3421,7 +3417,7 @@ I have located terms only within Polynesia and Fiji for the Magellanic Clouds. T
 <table id="2-6-5-2-179-PPn-maqafu-a">
 <tr>
 <td><strong>PPn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;maqafu</i>
 </td>
 <td>
@@ -3453,15 +3449,15 @@ In Samoa, and also Anuta, they could simply be referred to as ‘flying cloud’
 <table id="2-6-5-2-179-pn-samoan-aoleleaotoa">
 <tr>
 <td>Pn</td>
-<td>Samoan</td>
-<td><i>ao lele, ao toʔa</i></td>
+<td><a href="../languages/samoan">Samoan</a></td>
+<td style="white-space: nowrap"><i>ao lele, ao toʔa</i></td>
 <td>
 '<span>Magellanic Clouds</span>'</td>
 </tr>
 <tr>
 <td>Pn</td>
-<td>Anutan</td>
-<td><i>ao rere, ao toka</i></td>
+<td><a href="../languages/anutan">Anutan</a></td>
+<td style="white-space: nowrap"><i>ao rere, ao toka</i></td>
 <td>
 '<span>Magellanic Clouds</span>'</td>
 </tr>
@@ -3480,7 +3476,7 @@ In Bauan they were _matādravu ni sautū_, literally ‘hearth of peace and plen
 <table id="2-6-5-2-179-PPn-kaniwa-a">
 <tr>
 <td><strong>PPn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;kaniwa</i>
 </td>
 <td>
@@ -3542,7 +3538,7 @@ Lewis records identical advice given to him by a Tongan navigator in 1965, who r
 <table id="2-6-5-3-180-PPn-kaweia-a">
 <tr>
 <td><strong>PPn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;kaweiŋa</i>
 </td>
 <td>
@@ -3617,7 +3613,7 @@ POc _&ast;sake_ had as its primary sense ‘rise, go up’. But it also had the 
 <table id="2-6-5-4-181-POc-sake-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;sa(ŋ)kay</i>
 </td>
 <td>
@@ -3626,7 +3622,7 @@ POc _&ast;sake_ had as its primary sense ‘rise, go up’. But it also had the 
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;sake</i>
 </td>
 <td>
@@ -3761,7 +3757,7 @@ The POc term usually contrasted with _&ast;sake_ ‘to go up, upwards’ is _&as
 <table id="2-6-5-4-182-POc-sipo-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;sipo</i>
 </td>
 <td>
@@ -4063,7 +4059,7 @@ I have not been able to locate any record of navigation techniques in this area 
 ## 8. Conclusions
 
 
-Reconstructions of navigation terms for Proto Oceanic, Proto Micronesian and Proto Polynesian are listed in Table 4.
+Reconstructions of navigation terms for Proto Oceanic, Proto Micronesian and Proto Polynesian are listed in [Table 4](#table-4).
 
 
 <a id="p-189"></a>

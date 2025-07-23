@@ -44,6 +44,12 @@ def md_string(s):
     return markdown(s).replace('<p>', '<span>').replace('</p>', '</span>')
 
 
+def first_as_html_entity(s):
+    if s:
+        return '&#{};{}'.format(ord(s[0]), s[1:])
+    return s
+
+
 FILTERS['markdown'] = md_string
 
 
@@ -216,11 +222,21 @@ where cf.cldf_id = ?
 
     def glosses_by_formid(rid):
         def iter_glosses(rows):
-            for (g, cmt, pos), srcs in itertools.groupby(rows, lambda row: row[1:4]):
-                yield (g or '', (cmt or '').replace('<', '&lt;'), pos, [(row[-2], row[-1]) for row in srcs if row[-2]])
+            for (g, cmt, pos, qual), srcs in itertools.groupby(rows, lambda row: row[1:5]):
+                yield (
+                    g or '',
+                    (cmt or '').replace('<', '&lt;'),
+                    pos,
+                    first_as_html_entity(qual),
+                    [(row[-2], row[-1]) for row in srcs if row[-2]])
 
         q = """
-select g.cldf_formReference, g.cldf_name, g.cldf_comment, g.Part_Of_Speech, gs.SourceTable_id, gs.context
+select g.cldf_formReference, 
+       g.cldf_name, 
+       g.cldf_comment, 
+       g.Part_Of_Speech, 
+       g.qualifier,
+       gs.SourceTable_id, gs.context
 from 
       `cognatesetreferences.csv_glosses.csv` as csrg 
       join `glosses.csv` as g on csrg.`glosses.csv_cldf_id` = g.cldf_id

@@ -102,7 +102,7 @@ The most widely reflected term for _Dioscorea alata_ is POc _&ast;qupi_, which i
 <table id="3-9-2-1-260-POc-qupi-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;qubi</i>
 </td>
 <td>
@@ -111,7 +111,7 @@ The most widely reflected term for _Dioscorea alata_ is POc _&ast;qupi_, which i
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;qupi</i>
 </td>
 <td>
@@ -316,7 +316,7 @@ Three other terms can be reconstructed from cognate sets some of whose members a
 <table id="3-9-2-1-261-POc-maruqe-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;mʷaruqe</i>
 </td>
 <td>
@@ -365,11 +365,11 @@ Three other terms can be reconstructed from cognate sets some of whose members a
 </tr>
 <tr>
 <td><strong>PSV</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;-mʷariq</i>
 </td>
 <td>
-'<span><em>Dioscorea</em> sp.</span>' (<a href="../sources/Lynch2001c">Lynch2001c: 234</a>)
+'<span><em>Dioscorea</em> sp.</span>' (<a href="../sources/Lynch2001c">Lynch2001c</a>: <span>234</span>)
 </td>
 </tr>
 <tr>
@@ -392,7 +392,7 @@ Three other terms can be reconstructed from cognate sets some of whose members a
 <table id="3-9-2-1-262-POc-udurr-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;udu(r,R)</i>
 </td>
 <td>
@@ -427,7 +427,7 @@ POc _&ast;pʷasepe_ '_Dioscorea alata_ variety(?)' is of interest, because it al
 <table id="3-9-2-1-262-POc-pasepe-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;pʷasepe</i>
 </td>
 <td>
@@ -449,42 +449,42 @@ cf. also:
 <table>
 <tr>
 <td>PT</td>
-<td>Molima</td>
+<td><a href="../languages/molima">Molima</a></td>
 <td><i>atea</i></td>
 <td>
 '<span>greater yam</span>'</td>
 </tr>
 <tr>
 <td>PT</td>
-<td>Dobu</td>
+<td><a href="../languages/dobu">Dobu</a></td>
 <td><i>kʷatea</i></td>
 <td>
 '<span>yam</span>'</td>
 </tr>
 <tr>
 <td>PT</td>
-<td>Duau</td>
+<td><a href="../languages/duau">Duau</a></td>
 <td><i>kʷatea</i></td>
 <td>
 '<span>yam</span>'; '<span>lesser yam</span>'</td>
 </tr>
 <tr>
 <td>PT</td>
-<td>'Auhelawa</td>
+<td><a href="../languages/auhelawa">'Auhelawa</a></td>
 <td><i>ateya</i></td>
 <td>
 '<span>yam</span>'</td>
 </tr>
 <tr>
 <td>PT</td>
-<td>Sariba</td>
+<td><a href="../languages/sariba">Sariba</a></td>
 <td><i>kʷatea</i></td>
 <td>
 '<span>greater yam, <em>Dioscorea alata</em>; yam (generic)</span>'</td>
 </tr>
 <tr>
 <td>PT</td>
-<td>Tubetube</td>
+<td><a href="../languages/tubetube">Tubetube</a></td>
 <td><i>kʷatea</i></td>
 <td>
 '<span>greater yam</span>'</td>
@@ -505,7 +505,7 @@ POc _&ast;pʷatika_ evidently referred to the potato yam, _Dioscorea bulbifera_,
 <table id="3-9-2-1-262-POc-patika-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;pʷatika</i>
 </td>
 <td>
@@ -554,7 +554,7 @@ POc _&ast;pʷatika_ evidently referred to the potato yam, _Dioscorea bulbifera_,
 </tr>
 <tr>
 <td><strong>PSV</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;(nə-tai-)bʷatɣV</i>
 </td>
 <td>
@@ -577,7 +577,7 @@ cf. also:
 <table>
 <tr>
 <td>Mic</td>
-<td>Trukese</td>
+<td><a href="../languages/trukese">Trukese</a></td>
 <td><i>pʷereka</i></td>
 <td>
 '<span><em>Dioscorea bulbifera</em></span>' (<span><em>-r-</em> for †∅</span>)</td>
@@ -603,7 +603,7 @@ The possibility of reconstructing PWOc _&ast;ka-misa_/_&ast;ma-misa_ 'lesser yam
 <table id="3-9-2-1-263-PWOc-kamisa-a">
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;kamisa</i>
 </td>
 <td>
@@ -650,7 +650,7 @@ cf. also:
 <table>
 <tr>
 <td>NCV</td>
-<td>South Efate</td>
+<td><a href="../languages/southefate">South Efate</a></td>
 <td><i>n-am</i></td>
 <td>
 '<span>wild varieties of <em>Dioscorea bulbifera</em></span>'</td>
@@ -664,7 +664,7 @@ cf. also:
 <table id="3-9-2-1-264-PWOc-mamisa-a">
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;mamisa</i>
 </td>
 <td>
@@ -691,7 +691,7 @@ cf. also:
 <table>
 <tr>
 <td>Fij</td>
-<td>Wayan</td>
+<td><a href="../languages/wayan">Wayan</a></td>
 <td><i>mami</i></td>
 <td>
 '<span>cooking banana with short thick fruit; sweet-tasting, but skin remains green and flesh hard even when ripe</span>'</td>
@@ -710,7 +710,7 @@ Further terms for yam can be reconstructed, but it is unclear which species they
 <table id="3-9-2-1-264-PWOc-gobu-a">
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;gobu</i>
 </td>
 <td>
@@ -744,7 +744,7 @@ Further terms for yam can be reconstructed, but it is unclear which species they
 <table id="3-9-2-1-264-PROc-damu-a">
 <tr>
 <td><strong>PROc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;damu</i>
 </td>
 <td>
@@ -861,7 +861,7 @@ cf. also:
 <table>
 <tr>
 <td>Fij</td>
-<td>Wayan</td>
+<td><a href="../languages/wayan">Wayan</a></td>
 <td><i>damu(ni)</i></td>
 <td>
 '<span>k.o. yam with curved tuber and chocolate coloured skin</span>' (<span>final <em>-ni</em> is unexplained</span>)</td>
@@ -875,7 +875,7 @@ cf. also:
 <table id="3-9-2-1-265-PWOc-kapul-a">
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;ka(p)ul</i>
 </td>
 <td>
@@ -960,7 +960,7 @@ A search for languages in which reflexes of _&ast;talo(s)_ and _&ast;mʷapo(q)_ 
 <table id="3-9-2-2-266-POc-talos-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;tales</i>
 </td>
 <td>
@@ -969,7 +969,7 @@ A search for languages in which reflexes of _&ast;talo(s)_ and _&ast;mʷapo(q)_ 
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;talo(s)</i>
 </td>
 <td>
@@ -1075,11 +1075,11 @@ A search for languages in which reflexes of _&ast;talo(s)_ and _&ast;mʷapo(q)_ 
 <table id="3-9-2-2-267-POc-mapoq-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;mʷapo(q)</i>
 </td>
 <td>
-'<span>taro, <em>Colocasia esculenta</em></span>' (<a href="../sources/Milke1968">Milke1968: _*mʷao_</a>)
+'<span>taro, <em>Colocasia esculenta</em></span>' (<a href="../sources/Milke1968">Milke1968</a>: <span><em>*mʷao</em></span>)
 </td>
 </tr>
 <tr>
@@ -1239,7 +1239,7 @@ A search for languages in which reflexes of _&ast;talo(s)_ and _&ast;mʷapo(q)_ 
 <table id="3-9-2-2-268-PSOc-beta-a">
 <tr>
 <td><strong>PSOc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;bʷeta</i>
 </td>
 <td>
@@ -1325,11 +1325,11 @@ The leaves of _Colocasia esculenta_ are eaten as a green vegetable in many parts
 <table id="3-9-2-2-268-POc-galao-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;gal(a,o)</i>
 </td>
 <td>
-'<span>taro leaves</span>' (<span>?</span>) (<a href="../sources/Ross1996d">Ross1996d: 190</a>)
+'<span>taro leaves</span>' (<span>?</span>) (<a href="../sources/Ross1996d">Ross1996d</a>: <span>190</span>)
 </td>
 </tr>
 <tr>
@@ -1362,7 +1362,7 @@ The leaves of _Colocasia esculenta_ are eaten as a green vegetable in many parts
 <table id="3-9-2-2-269-PWOc-qapasu-a">
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;[qa]pʷasu</i>
 </td>
 <td>
@@ -1442,254 +1442,254 @@ The items listed below denote 'swamp taro, _Cyrtosperma merkusii_' unless glosse
 <table id="3-9-2-2-270-adm-mussau-ulaa">
 <tr>
 <td>Adm</td>
-<td>Mussau</td>
-<td><i>ulaa</i></td>
+<td><a href="../languages/mussau">Mussau</a></td>
+<td style="white-space: nowrap"><i>ulaa</i></td>
 <td>
 '<span>swamp taro, <em>Cyrtosperma merkusii</em></span>' (<span>would reflect <em>*pu(l,r,R)a(q,k)a</em></span>)</td>
 </tr>
 <tr>
 <td>Adm</td>
-<td>Seimat</td>
-<td><i>hula</i></td>
+<td><a href="../languages/seimat">Seimat</a></td>
+<td style="white-space: nowrap"><i>hula</i></td>
 <td>
 '<span>swamp taro, Alocasia sp., introduced from Aua</span>' (<span>would reflect <em>*pula(q,k)a</em></span>)(<a href="../sources/Sorensen1950">Sorensen1950</a>)
 </td>
 </tr>
 <tr>
 <td>Adm</td>
-<td>Aua</td>
-<td><i>fuula</i></td>
+<td><a href="../languages/aua">Aua</a></td>
+<td style="white-space: nowrap"><i>fuula</i></td>
 <td>
 '<span>taro</span>' (<span>would reflect <em>*pula(q,k)a</em></span>)</td>
 </tr>
 <tr>
 <td>Adm</td>
-<td>Lou</td>
-<td><i>pulak</i></td>
+<td><a href="../languages/lou">Lou</a></td>
+<td style="white-space: nowrap"><i>pulak</i></td>
 <td>
 '<span>swamp taro, <em>Cyrtosperma merkusii</em></span>' (<span>would reflect <em>*(p,b)ulaka</em></span>)</td>
 </tr>
 <tr>
 <td>MM</td>
-<td>Nakanai</td>
-<td><i>ula</i></td>
+<td><a href="../languages/nakanai">Nakanai</a></td>
+<td style="white-space: nowrap"><i>ula</i></td>
 <td>
 '<span>an inedible wild taro, <em>Colocasia</em> sp.</span>' (<span>would reflect <em>*u(l,r,R)a(q,k)a</em></span>)</td>
 </tr>
 <tr>
 <td>MM</td>
-<td>Nakanai</td>
-<td><i>buleha</i></td>
+<td><a href="../languages/nakanai">Nakanai</a></td>
+<td style="white-space: nowrap"><i>buleha</i></td>
 <td>
 '<span>an inedible wild taro, <em>Colocasia</em> sp.</span>' (<span>would reflect <em>*bu(l,r,R)eqa</em></span>)</td>
 </tr>
 <tr>
 <td>MM</td>
-<td>Nakanai</td>
-<td><i>bureka</i></td>
+<td><a href="../languages/nakanai">Nakanai</a></td>
+<td style="white-space: nowrap"><i>bureka</i></td>
 <td>
 '<span>variety of elephant ear taro, <em>Alocasia macrorrhizos</em></span>' (<span>would reflect <em>*buseqa</em></span>)</td>
 </tr>
 <tr>
 <td>MM</td>
-<td>Kara (East)</td>
-<td><i>vuləi</i></td>
+<td><a href="../languages/karaeast">Kara (East)</a></td>
+<td style="white-space: nowrap"><i>vuləi</i></td>
 <td>
 '<span>k.o. taro</span>' (<span>would reflect <em>*hulaqa</em></span>)</td>
 </tr>
 <tr>
 <td>MM</td>
-<td>Patpatar</td>
-<td><i>pulaka</i></td>
+<td><a href="../languages/patpatar">Patpatar</a></td>
+<td style="white-space: nowrap"><i>pulaka</i></td>
 <td>
 '<span>Polynesian arrowroot, probably <em>Tacca leontopetaloides</em></span>' (<span>would reflect <em>*pulaka</em></span>)[^16]</td>
 </tr>
 <tr>
 <td>MM</td>
-<td>Tolai</td>
-<td><i>pulaka</i></td>
+<td><a href="../languages/tolai">Tolai</a></td>
+<td style="white-space: nowrap"><i>pulaka</i></td>
 <td>
 '<span>Polynesian arrowroot, probably <em>Tacca leontopetaloides</em></span>' (<span>would reflect <em>*pulaka</em></span>)</td>
 </tr>
 <tr>
 <td>NCV</td>
-<td>Mota</td>
-<td><i>puaka</i></td>
+<td><a href="../languages/mota">Mota</a></td>
+<td style="white-space: nowrap"><i>puaka</i></td>
 <td>
 '<span>boggy ground, mud</span>' (<span>would reflect <em>*hu(R)aga</em></span>)</td>
 </tr>
 <tr>
 <td>NCV</td>
-<td>Uripiv</td>
-<td><i>ʙuak</i></td>
+<td><a href="../languages/uripiv">Uripiv</a></td>
+<td style="white-space: nowrap"><i>ʙuak</i></td>
 <td>
 '<span>(rare) taro</span>' (<span>would reflect <em>*hu(R)aga</em></span>)</td>
 </tr>
 <tr>
 <td>NCV</td>
-<td>Big Nambas</td>
-<td><i>bōak</i></td>
+<td><a href="../languages/bignambas">Big Nambas</a></td>
+<td style="white-space: nowrap"><i>bōak</i></td>
 <td>
 '<span>taro, <em>Colocasia</em> sp.</span>' (<span>would reflect <em>*hu(R)aga</em></span>)</td>
 </tr>
 <tr>
 <td>NCV</td>
-<td>Port Sandwich</td>
-<td><i>ᵐbuaᵑg</i></td>
+<td><a href="../languages/portsandwich">Port Sandwich</a></td>
+<td style="white-space: nowrap"><i>ᵐbuaᵑg</i></td>
 <td>
 '<span>hill taro</span>' (<span>would reflect <em>*hu(R)aga</em></span>)</td>
 </tr>
 <tr>
 <td>NCV</td>
-<td>Naman</td>
-<td><i>buag</i></td>
+<td><a href="../languages/naman">Naman</a></td>
+<td style="white-space: nowrap"><i>buag</i></td>
 <td>
 '<span>swamp taro, <em>Cyrtosperma merkusii</em></span>' (<span>would reflect <em>*hu(R)aga</em></span>)</td>
 </tr>
 <tr>
 <td>NCV</td>
-<td>Neve’ei</td>
-<td><i>ni-biaŋ</i></td>
+<td><a href="../languages/neveei">Neve’ei</a></td>
+<td style="white-space: nowrap"><i>ni-biaŋ</i></td>
 <td>
 '<span>swamp taro, <em>Cyrtosperma merkusii</em></span>' (<span>would reflect <em>*hu(R)aga</em></span>)</td>
 </tr>
 <tr>
 <td>NCV</td>
-<td>Avava</td>
-<td><i>ʙuaŋ</i></td>
+<td><a href="../languages/avava">Avava</a></td>
+<td style="white-space: nowrap"><i>ʙuaŋ</i></td>
 <td>
 '<span>swamp taro, <em>Cyrtosperma merkusii</em></span>' (<span>would reflect <em>*hu(R)aga</em></span>)</td>
 </tr>
 <tr>
 <td>NCV</td>
-<td>Nese</td>
-<td><i>boak</i></td>
+<td><a href="../languages/nese">Nese</a></td>
+<td style="white-space: nowrap"><i>boak</i></td>
 <td>
 '<span>swamp taro, <em>Cyrtosperma merkusii</em></span>' (<span>would reflect <em>*hu(R)aga</em></span>)</td>
 </tr>
 <tr>
 <td>NCV</td>
-<td>Namakir</td>
-<td><i>buag</i></td>
+<td><a href="../languages/namakir">Namakir</a></td>
+<td style="white-space: nowrap"><i>buag</i></td>
 <td>
 '<span>swamp taro, <em>Cyrtosperma merkusii</em></span>' (<span>would reflect <em>*hu(R)aga</em></span>)</td>
 </tr>
 <tr>
 <td>NCal</td>
-<td>Xârâcùù</td>
-<td><i>buraa</i></td>
+<td><a href="../languages/xaracuu">Xârâcùù</a></td>
+<td style="white-space: nowrap"><i>buraa</i></td>
 <td>
 '<span>variety of taro</span>' (<span>would reflect ?</span>)</td>
 </tr>
 <tr>
 <td>Mic</td>
-<td>Marshallese</td>
-<td><i>pɯəl</i></td>
+<td><a href="../languages/marshallese">Marshallese</a></td>
+<td style="white-space: nowrap"><i>pɯəl</i></td>
 <td>
 '<span>swamp taro patch</span>' (<span>would reflect <em>*hulaqa</em></span>)</td>
 </tr>
 <tr>
 <td>Mic</td>
-<td>Mortlockese</td>
-<td><i>pʷulᴂ</i></td>
+<td><a href="../languages/mortlockese">Mortlockese</a></td>
+<td style="white-space: nowrap"><i>pʷulᴂ</i></td>
 <td>
 '<span>swamp taro, <em>Cyrtosperma merkusii</em></span>' (<span>would reflect <em>*hula(q,k)a</em></span>)</td>
 </tr>
 <tr>
 <td>Mic</td>
-<td>Trukese</td>
-<td><i>pʷuɾa</i></td>
+<td><a href="../languages/trukese">Trukese</a></td>
+<td style="white-space: nowrap"><i>pʷuɾa</i></td>
 <td>
 '<span>swamp taro, <em>Cyrtosperma merkusii</em></span>' (<span>would reflect <em>*hula(q,k)a</em></span>)</td>
 </tr>
 <tr>
 <td>Mic</td>
-<td>Puluwatese</td>
-<td><i>pʷula</i></td>
+<td><a href="../languages/puluwatese">Puluwatese</a></td>
+<td style="white-space: nowrap"><i>pʷula</i></td>
 <td>
 '<span>swamp taro, <em>Cyrtosperma merkusii</em></span>' (<span>would reflect <em>*hula(q,k)a</em></span>)</td>
 </tr>
 <tr>
 <td>Mic</td>
-<td>Satawalese</td>
-<td><i>pʷula</i></td>
+<td><a href="../languages/satawalese">Satawalese</a></td>
+<td style="white-space: nowrap"><i>pʷula</i></td>
 <td>
 '<span>swamp taro, <em>Cyrtosperma merkusii</em></span>' (<span>would reflect <em>*hula(q,k)a</em></span>)</td>
 </tr>
 <tr>
 <td>Mic</td>
-<td>Carolinian</td>
-<td><i>bʷula</i></td>
+<td><a href="../languages/carolinian">Carolinian</a></td>
+<td style="white-space: nowrap"><i>bʷula</i></td>
 <td>
 '<span>swamp taro, <em>Cyrtosperma merkusii</em></span>' (<span>would reflect <em>*hula(q,k)a</em></span>)</td>
 </tr>
 <tr>
 <td>Mic</td>
-<td>Woleaian</td>
-<td><i>fʷuraxe</i></td>
+<td><a href="../languages/woleaian">Woleaian</a></td>
+<td style="white-space: nowrap"><i>fʷuraxe</i></td>
 <td>
 '<span>swamp taro, <em>Cyrtosperma merkusii</em></span>' (<span>would reflect <em>*hulaka</em></span>)</td>
 </tr>
 <tr>
 <td>Mic</td>
-<td>Pulo-Annan</td>
-<td><i>vʷuraxa</i></td>
+<td><a href="../languages/puloannan">Pulo-Annan</a></td>
+<td style="white-space: nowrap"><i>vʷuraxa</i></td>
 <td>
 '<span>swamp taro, <em>Cyrtosperma merkusii</em></span>' (<span>would reflect <em>*hulaka</em></span>)</td>
 </tr>
 <tr>
 <td>Pn</td>
-<td>Anutan</td>
-<td><i>pulaka</i></td>
+<td><a href="../languages/anutan">Anutan</a></td>
+<td style="white-space: nowrap"><i>pulaka</i></td>
 <td>
 '<span>swamp taro, <em>Cyrtosperma merkusii</em></span>' (<span>would reflect <em>*hulaka</em></span>)</td>
 </tr>
 <tr>
 <td>Pn</td>
-<td>Pukapukan</td>
-<td><i>pulaka</i></td>
+<td><a href="../languages/pukapukan">Pukapukan</a></td>
+<td style="white-space: nowrap"><i>pulaka</i></td>
 <td>
 '<span>swamp taro, <em>Cyrtosperma merkusii</em></span>' (<span>would reflect <em>*hulaka</em></span>)</td>
 </tr>
 <tr>
 <td>Pn</td>
-<td>East Futunan</td>
-<td><i>pulaka</i></td>
+<td><a href="../languages/eastfutunan">East Futunan</a></td>
+<td style="white-space: nowrap"><i>pulaka</i></td>
 <td>
 '<span>swamp taro, <em>Cyrtosperma merkusii</em></span>' (<span>would reflect <em>*hulaka</em></span>)</td>
 </tr>
 <tr>
 <td>Pn</td>
-<td>East Uvean</td>
-<td><i>pulaka</i></td>
+<td><a href="../languages/eastuvean">East Uvean</a></td>
+<td style="white-space: nowrap"><i>pulaka</i></td>
 <td>
 '<span>swamp taro, <em>Cyrtosperma merkusii</em></span>' (<span>would reflect <em>*hulaka</em></span>)</td>
 </tr>
 <tr>
 <td>Pn</td>
-<td>Samoan</td>
-<td><i>pulaʔa</i></td>
+<td><a href="../languages/samoan">Samoan</a></td>
+<td style="white-space: nowrap"><i>pulaʔa</i></td>
 <td>
 '<span>swamp taro, <em>Cyrtosperma merkusii</em></span>' (<span>would reflect <em>*hulaka</em></span>)</td>
 </tr>
 <tr>
 <td>Pn</td>
-<td>Tuvalu</td>
-<td><i>pulaka</i></td>
+<td><a href="../languages/tuvalu">Tuvalu</a></td>
+<td style="white-space: nowrap"><i>pulaka</i></td>
 <td>
 '<span>swamp taro, <em>Cyrtosperma merkusii</em></span>' (<span>would reflect <em>*hulaka</em></span>)</td>
 </tr>
 <tr>
 <td>Pn</td>
-<td>Tokelauan</td>
-<td><i>pulaka</i></td>
+<td><a href="../languages/tokelauan">Tokelauan</a></td>
+<td style="white-space: nowrap"><i>pulaka</i></td>
 <td>
 '<span>swamp taro, <em>Cyrtosperma merkusii</em></span>' (<span>would reflect <em>*hulaka</em></span>)</td>
 </tr>
 <tr>
 <td>Pn</td>
-<td>Rarotongan</td>
-<td><i>puraka</i></td>
+<td><a href="../languages/rarotongan">Rarotongan</a></td>
+<td style="white-space: nowrap"><i>puraka</i></td>
 <td>
 '<span>coarse kind of taro</span>' (<span>would reflect <em>*hulaka</em></span>)</td>
 </tr>
@@ -1714,7 +1714,7 @@ The POc name for giant taro was _&ast;piRaq_, continuing a PMP etymon. The final
 <table id="3-9-2-2-272-POc-piraq-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;biRaq</i>
 </td>
 <td>
@@ -1723,7 +1723,7 @@ The POc name for giant taro was _&ast;piRaq_, continuing a PMP etymon. The final
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;piRaq</i>
 </td>
 <td>
@@ -1918,7 +1918,7 @@ The glosses suggest that the denotatum of POc _&ast;(p,b)oso_ below belonged to 
 <table id="3-9-2-2-273-POc-pboso-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;(p,b)oso</i>
 </td>
 <td>
@@ -2001,7 +2001,7 @@ The elements in the PPn binomial below are PPn _&ast;ma_ 'fermented breadfruit' 
 <table id="3-9-2-3-274-PPn-masoaa-a">
 <tr>
 <td><strong>PPn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;mā-soaʔa</i>
 </td>
 <td>
@@ -2066,7 +2066,7 @@ The gloss of the Raga reflex refers to famine food, and probably denotes _Puerar
 <table id="3-9-2-3-274-PROc-raka-a">
 <tr>
 <td><strong>PROc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;Raka</i>
 </td>
 <td>
@@ -2193,7 +2193,7 @@ The likelihood that banana domestication first occurred in New Guinea, and that 
 <table id="3-9-3-None-277-POc-pudi-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;punti</i>
 </td>
 <td>
@@ -2202,11 +2202,11 @@ The likelihood that banana domestication first occurred in New Guinea, and that 
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;pudi</i>
 </td>
 <td>
-'<span>banana, <em>Musa</em> cultivars</span>' (<a href="../sources/Capell1943">Capell1943: *puti</a>)
+'<span>banana, <em>Musa</em> cultivars</span>' (<a href="../sources/Capell1943">Capell1943</a>: <span>*puti</span>)
 </td>
 </tr>
 <tr>
@@ -2413,7 +2413,7 @@ The term _Musa troglodytarum_ is used (inaccurately) both of wild varieties of _
 <table id="3-9-3-None-278-POc-joraga-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;joRaga</i>
 </td>
 <td>
@@ -2479,7 +2479,7 @@ The glosses of the four terms below are vague, both because the glosses of prese
 <table id="3-9-3-None-278-POc-sakup-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;sakup</i>
 </td>
 <td>
@@ -2555,7 +2555,7 @@ The glosses of the four terms below are vague, both because the glosses of prese
 <table id="3-9-3-None-279-POc-bera-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;bʷera</i>
 </td>
 <td>
@@ -2588,7 +2588,7 @@ The glosses of the four terms below are vague, both because the glosses of prese
 <table id="3-9-3-None-279-POc-baqun-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;baqun</i>
 </td>
 <td>
@@ -2616,7 +2616,7 @@ The glosses of the four terms below are vague, both because the glosses of prese
 </tr>
 <tr>
 <td><strong>PSV</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;n-ban</i>
 </td>
 <td>
@@ -2649,7 +2649,7 @@ cf. also:
 <table>
 <tr>
 <td>NNG</td>
-<td>Mato</td>
+<td><a href="../languages/mato">Mato</a></td>
 <td><i>baɣup</i></td>
 <td>
 '<span>banana</span>'(<a href="../sources/Stober2005">Stober2005</a>)
@@ -2661,7 +2661,7 @@ cf. also:
 <table id="3-9-3-None-279-PWOc-batiq-a">
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;bʷatiq</i>
 </td>
 <td>
@@ -2701,29 +2701,29 @@ There is evidence for PWOc _&ast;pudi-pudi_ 'wild banana', a transparent redupli
 <table id="3-9-3-None-279-nng-mangap-pinpin">
 <tr>
 <td>NNG</td>
-<td>Mangap</td>
-<td><i>pin-pin</i></td>
+<td><a href="../languages/mangap">Mangap</a></td>
+<td style="white-space: nowrap"><i>pin-pin</i></td>
 <td>
 '<span>wild banana</span>'</td>
 </tr>
 <tr>
 <td>PT</td>
-<td>Sudest</td>
-<td><i>ɣudu-ɣudu</i></td>
+<td><a href="../languages/sudest">Sudest</a></td>
+<td style="white-space: nowrap"><i>ɣudu-ɣudu</i></td>
 <td>
 '<span>wild banana seeds</span>'</td>
 </tr>
 <tr>
 <td>MM</td>
-<td>Ramoaaina</td>
-<td><i>udu-udu</i></td>
+<td><a href="../languages/ramoaaina">Ramoaaina</a></td>
+<td style="white-space: nowrap"><i>udu-udu</i></td>
 <td>
 '<span>wild banana</span>'</td>
 </tr>
 <tr>
 <td>MM</td>
-<td>Tolai</td>
-<td><i>vudu-vudu</i></td>
+<td><a href="../languages/tolai">Tolai</a></td>
+<td style="white-space: nowrap"><i>vudu-vudu</i></td>
 <td>
 '<span>wild banana, <em>Ensete glaucum</em></span>'(<a href="../sources/ArnaudandJPHorry1997">ArnaudandJPHorry1997: 19</a>)
 [^20]</td>
@@ -2791,7 +2791,7 @@ A fourth term, PROc _&ast;maRi_ 'breadfruit', is limited to South Vanuatu, Micro
 <table id="3-9-4-None-283-POc-kulur-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;kuluR</i>
 </td>
 <td>
@@ -2800,7 +2800,7 @@ A fourth term, PROc _&ast;maRi_ 'breadfruit', is limited to South Vanuatu, Micro
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;kuluR</i>
 </td>
 <td>
@@ -2913,7 +2913,7 @@ A fourth term, PROc _&ast;maRi_ 'breadfruit', is limited to South Vanuatu, Micro
 </tr>
 <tr>
 <td><strong>PChk</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;kulu</i>
 </td>
 <td>
@@ -2940,7 +2940,7 @@ A fourth term, PROc _&ast;maRi_ 'breadfruit', is limited to South Vanuatu, Micro
 <table id="3-9-4-None-284-PNGOc-kunur-a">
 <tr>
 <td><strong>PNGOc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;kunuR</i>
 </td>
 <td>
@@ -3058,7 +3058,7 @@ A fourth term, PROc _&ast;maRi_ 'breadfruit', is limited to South Vanuatu, Micro
 <table id="3-9-4-None-284-POc-bareko-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;baReko</i>
 </td>
 <td>
@@ -3275,7 +3275,7 @@ A fourth term, PROc _&ast;maRi_ 'breadfruit', is limited to South Vanuatu, Micro
 <table id="3-9-4-None-285-POc-beta-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;beta</i>
 </td>
 <td>
@@ -3339,7 +3339,7 @@ A fourth term, PROc _&ast;maRi_ 'breadfruit', is limited to South Vanuatu, Micro
 <table id="3-9-4-None-285-PROc-mari-a">
 <tr>
 <td><strong>PROc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;maRi</i>
 </td>
 <td>
@@ -3490,7 +3490,7 @@ There was apparently just one POc term for the sago palm, namely POc _&ast;Rabia
 <table id="3-9-5-1-288-POc-rabia-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;Rambia</i>
 </td>
 <td>
@@ -3499,7 +3499,7 @@ There was apparently just one POc term for the sago palm, namely POc _&ast;Rabia
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;Rabia</i>
 </td>
 <td>
@@ -3604,7 +3604,7 @@ There was apparently just one POc term for the sago palm, namely POc _&ast;Rabia
 </tr>
 <tr>
 <td><strong>PCP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;abia</i>
 </td>
 <td>
@@ -3617,7 +3617,7 @@ There was apparently just one POc term for the sago palm, namely POc _&ast;Rabia
 </tr>
 <tr>
 <td><strong>PPn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;pia</i>
 </td>
 <td>
@@ -3681,7 +3681,7 @@ The glosses of many of the terms listed below  refer simply to 'cycad' or '_Cyca
 <table id="3-9-5-2-290-POc-ppatoru-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;patuRu</i>
 </td>
 <td>
@@ -3689,7 +3689,7 @@ The glosses of many of the terms listed below  refer simply to 'cycad' or '_Cyca
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;(p,pʷ)atoRu</i>
 </td>
 <td>
@@ -3731,7 +3731,7 @@ The glosses of many of the terms listed below  refer simply to 'cycad' or '_Cyca
 <table id="3-9-5-2-291-POc-baibait-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;ba(y)it</i>
 </td>
 <td>
@@ -3740,7 +3740,7 @@ The glosses of many of the terms listed below  refer simply to 'cycad' or '_Cyca
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;bai-bai(t)</i>
 </td>
 <td>
@@ -3814,7 +3814,7 @@ The glosses of many of the terms listed below  refer simply to 'cycad' or '_Cyca
 <table id="3-9-5-2-291-PCP-looloo-a">
 <tr>
 <td><strong>PCP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;loŋo-loŋo</i>
 </td>
 <td>
@@ -3860,7 +3860,7 @@ Most of the forms below point to PEOc _&ast;mʷele_. However, Namakir and Wayan 
 <table id="3-9-5-2-291-PEOc-maqele-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;mʷa(q)ele</i>
 </td>
 <td>

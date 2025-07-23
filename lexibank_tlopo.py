@@ -274,6 +274,7 @@ class Dataset(BaseDataset):
                     Name=gloss.gloss,
                     Comment=gloss.comment,
                     Part_Of_Speech=gloss.pos,
+                    qualifier=gloss.qualifier,
                     Source=[ref.cldf_id for ref in gloss.sources],
                 )
                 writer.objects['glosses.csv'].append(g)
@@ -660,6 +661,7 @@ class Dataset(BaseDataset):
                 'dc:description':
                     '',
                 'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#name'},
+            'qualifier',
             {
                 'name': 'Form_ID',
                 'dc:description': 'Links to the form in FormTable.',

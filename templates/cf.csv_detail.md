@@ -4,7 +4,7 @@
 <tr>
 <td>{{ group }}</td>
 <td><a href="{{ href_language(lid) }}">{{ lname }}</a></td>
-<td><i>{{ form }}</i></td>
+<td style="white-space: nowrap"><i>{{ form }}</i></td>
 {% if with_morpheme_gloss %}
 <td>{% if mgloss %}[{{ mgloss }}]{% endif %}</td>
 {% endif %}

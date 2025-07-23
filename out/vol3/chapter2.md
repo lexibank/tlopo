@@ -273,11 +273,11 @@ The term _&ast;qutan_ appears to have denoted uncultivated land in general, whet
 <table id="3-2-5-None-35-POc-waruwaru-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;[waRu]waRu</i>
 </td>
 <td>
-'<span>primary forest</span>' (<a href="../sources/FrenchWright1983">FrenchWright1983: _*wao_</a>)
+'<span>primary forest</span>' (<a href="../sources/FrenchWright1983">FrenchWright1983</a>: <span><em>*wao</em></span>)
 [^8]</td>
 </tr>
 <tr>
@@ -287,7 +287,7 @@ The term _&ast;qutan_ appears to have denoted uncultivated land in general, whet
 </tr>
 <tr>
 <td><strong>ProtoMalaitaMakira</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;[walu]walu</i>
 </td>
 <td>
@@ -310,7 +310,7 @@ The term _&ast;qutan_ appears to have denoted uncultivated land in general, whet
 </tr>
 <tr>
 <td><strong>PPn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;wao</i>
 </td>
 <td>
@@ -337,14 +337,14 @@ cf. also:
 <table>
 <tr>
 <td>SES</td>
-<td>Gela</td>
+<td><a href="../languages/gela">Gela</a></td>
 <td><i>ao</i></td>
 <td>
 '<span>forest, land never brought under cultivation</span>'</td>
 </tr>
 <tr>
 <td>None</td>
-<td>PMic</td>
+<td><a href="../languages/pmic">PMic</a></td>
 <td><i>walu</i></td>
 <td>
 '<span>vegetation, forest</span>'(<a href="../sources/Benderetal2003">Benderetal2003</a>)
@@ -352,49 +352,49 @@ cf. also:
 </tr>
 <tr>
 <td>Mic</td>
-<td>Ponapean</td>
+<td><a href="../languages/ponapean">Ponapean</a></td>
 <td><i>wāl</i></td>
 <td>
 '<span>jungle, forest</span>'</td>
 </tr>
 <tr>
 <td>Mic</td>
-<td>Mortlockese</td>
+<td><a href="../languages/mortlockese">Mortlockese</a></td>
 <td><i>wali-wel</i></td>
 <td>
 '<span>forest</span>'</td>
 </tr>
 <tr>
 <td>Mic</td>
-<td>Trukese</td>
+<td><a href="../languages/trukese">Trukese</a></td>
 <td><i>wənɨ-wən</i></td>
 <td>
 '<span>vegetation, bush</span>'</td>
 </tr>
 <tr>
 <td>Mic</td>
-<td>Puluwatese</td>
+<td><a href="../languages/puluwatese">Puluwatese</a></td>
 <td><i>wāl</i></td>
 <td>
 '<span>forest, jungle</span>'</td>
 </tr>
 <tr>
 <td>Mic</td>
-<td>Carolinian</td>
+<td><a href="../languages/carolinian">Carolinian</a></td>
 <td><i>walɨ-wal</i></td>
 <td>
 '<span>forest, jungle</span>'</td>
 </tr>
 <tr>
 <td>Mic</td>
-<td>Carolinian</td>
+<td><a href="../languages/carolinian">Carolinian</a></td>
 <td><i>wal(lap)</i></td>
 <td>
 '<span>dense: forest, thickly forested area</span>'</td>
 </tr>
 <tr>
 <td>Fij</td>
-<td>Rotuman</td>
+<td><a href="../languages/rotuman">Rotuman</a></td>
 <td><i>vao</i></td>
 <td>
 '<span>forest, large number of trees or big plants growing together</span>'</td>
@@ -464,7 +464,7 @@ The encoding of the two categories of ingredient in the lexicon varies from lang
 |       | _gama_        | 'mix meat with starchy food'                        |
 |       | _bite_, _bui_ | 'crave for meat'                                    |
 | NOUNS | _ni-an_       | 'food' (_ni-_ NOMINALISER)                          |
-|       | _g<in>ama_    | 'meat mixed with starchy food' (_<in>_ NOMINALISER) |
+|       | _g⟨in⟩ama_    | 'meat mixed with starchy food' (_⟨in⟩_ NOMINALISER) |
 
 : __Sursurunga__ (MM) ([Hutchisson n.d.](../sources/Hutchissonnd))
 
@@ -609,7 +609,7 @@ POc _&ast;kanaŋ_ and its variant _&ast;kanan_, both 'staple food, food in gener
 <table id="3-2-6-1-41-POc-kana-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;kan-an</i>
 </td>
 <td>
@@ -617,15 +617,15 @@ POc _&ast;kanaŋ_ and its variant _&ast;kanan_, both 'staple food, food in gener
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
-<i>&ast;kanaŋ, kanan</i>
+<td style="white-space: nowrap;">
+<i>&ast;kanaŋ, &ast;kanan</i>
 </td>
 <td>
 '<span>staple food; food in general</span>'</td>
 </tr>
 <tr>
 <td><strong>PAdm</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;kanana</i>
 </td>
 <td>
@@ -710,204 +710,204 @@ cf. also:
 <table>
 <tr>
 <td>None</td>
-<td>PAdm</td>
+<td><a href="../languages/padm">PAdm</a></td>
 <td><i>kani-an</i></td>
 <td>
 '<span>staple food</span>'</td>
 </tr>
 <tr>
 <td>Adm</td>
-<td>Nyindrou</td>
+<td><a href="../languages/nyindrou">Nyindrou</a></td>
 <td><i>kani-a</i></td>
 <td>
 '<span>staple food</span>'</td>
 </tr>
 <tr>
 <td>None</td>
-<td>PNNG</td>
+<td><a href="../languages/pnng">PNNG</a></td>
 <td><i>kani-ŋa</i></td>
 <td>
 '<span>food</span>'</td>
 </tr>
 <tr>
 <td>NNG</td>
-<td>Sengseng</td>
+<td><a href="../languages/sengseng">Sengseng</a></td>
 <td><i>kini-ŋ</i></td>
 <td>
 '<span>food in general; animal protein in particular</span>' (<span>A. Chowning, pers. comm.</span>)</td>
 </tr>
 <tr>
 <td>NNG</td>
-<td>Bariai</td>
+<td><a href="../languages/bariai">Bariai</a></td>
 <td><i>an-ŋa</i></td>
 <td>
 '<span>food</span>'</td>
 </tr>
 <tr>
 <td>NNG</td>
-<td>Lukep (Pono)</td>
+<td><a href="../languages/lukeppono">Lukep (Pono)</a></td>
 <td><i>kani-ŋ</i></td>
 <td>
 '<span>yam</span>'</td>
 </tr>
 <tr>
 <td>NNG</td>
-<td>Bing</td>
+<td><a href="../languages/bing">Bing</a></td>
 <td><i>ani-ŋ</i></td>
 <td>
 '<span>banana</span>'</td>
 </tr>
 <tr>
 <td>NNG</td>
-<td>Manam</td>
+<td><a href="../languages/manam">Manam</a></td>
 <td><i>ani-ŋa</i></td>
 <td>
 '<span>food</span>'</td>
 </tr>
 <tr>
 <td>NNG</td>
-<td>Mangseng</td>
+<td><a href="../languages/mangseng">Mangseng</a></td>
 <td><i>ani-ŋ</i></td>
 <td>
 '<span>food</span>'</td>
 </tr>
 <tr>
 <td>NNG</td>
-<td>Poeng</td>
+<td><a href="../languages/poeng">Poeng</a></td>
 <td><i>kani-ŋ</i></td>
 <td>
 '<span>food</span>'</td>
 </tr>
 <tr>
 <td>NNG</td>
-<td>Hote</td>
+<td><a href="../languages/hote">Hote</a></td>
 <td><i>ani-ŋ</i></td>
 <td>
 '<span>taro</span>'</td>
 </tr>
 <tr>
 <td>None</td>
-<td>PPT</td>
+<td><a href="../languages/ppt">PPT</a></td>
 <td><i>kani-kani</i></td>
 <td>
 '<span>staple food</span>'</td>
 </tr>
 <tr>
 <td>PT</td>
-<td>Misima</td>
+<td><a href="../languages/misima">Misima</a></td>
 <td><i>an-an</i></td>
 <td>
 '<span>yams; root crops, nuts and fruit; food</span>'</td>
 </tr>
 <tr>
 <td>PT</td>
-<td>Taboro</td>
+<td><a href="../languages/taboro">Taboro</a></td>
 <td><i>ɣani-ɣani</i></td>
 <td>
 '<span>food</span>'</td>
 </tr>
 <tr>
 <td>PT</td>
-<td>Taboro</td>
+<td><a href="../languages/taboro">Taboro</a></td>
 <td><i>ɣani</i></td>
 <td>
 '<span>short cooking banana</span>'</td>
 </tr>
 <tr>
 <td>PT</td>
-<td>Hula</td>
+<td><a href="../languages/hula">Hula</a></td>
 <td><i>ani</i></td>
 <td>
 '<span>banana</span>'</td>
 </tr>
 <tr>
 <td>PT</td>
-<td>Motu</td>
+<td><a href="../languages/motu">Motu</a></td>
 <td><i>ani-ani</i></td>
 <td>
 '<span>food</span>'</td>
 </tr>
 <tr>
 <td>PT</td>
-<td>Mekeo</td>
+<td><a href="../languages/mekeo">Mekeo</a></td>
 <td><i>ani-ani</i></td>
 <td>
 '<span>food</span>'</td>
 </tr>
 <tr>
 <td>None</td>
-<td>ProtoMesoMelanesian</td>
-<td><i>k<in>ani</i></td>
+<td><a href="../languages/protomesomelanesian">ProtoMesoMelanesian</a></td>
+<td><i>k⟨in⟩ani</i></td>
 <td>
 '<span>staple food</span>'</td>
 </tr>
 <tr>
 <td>MM</td>
-<td>Nakanai</td>
+<td><a href="../languages/nakanai">Nakanai</a></td>
 <td><i>il-ali</i></td>
 <td>
 '<span>food</span>' (<span>A. Chowning, pers. comm.</span>)</td>
 </tr>
 <tr>
 <td>MM</td>
-<td>Patpatar</td>
+<td><a href="../languages/patpatar">Patpatar</a></td>
 <td><i>ni-an</i></td>
 <td>
 '<span>food</span>'[^15]</td>
 </tr>
 <tr>
 <td>MM</td>
-<td>Ramoaaina</td>
+<td><a href="../languages/ramoaaina">Ramoaaina</a></td>
 <td><i>ni-an</i></td>
 <td>
 '<span>k.o. yam; food</span>'</td>
 </tr>
 <tr>
 <td>MM</td>
-<td>Tolai</td>
+<td><a href="../languages/tolai">Tolai</a></td>
 <td><i>ni-an</i></td>
 <td>
 '<span>food</span>'</td>
 </tr>
 <tr>
 <td>MM</td>
-<td>Nehan</td>
+<td><a href="../languages/nehan">Nehan</a></td>
 <td><i>ni-eini</i></td>
 <td>
 '<span>food</span>'</td>
 </tr>
 <tr>
 <td>MM</td>
-<td>Roviana</td>
-<td><i>ɣ<in>ani</i></td>
+<td><a href="../languages/roviana">Roviana</a></td>
+<td><i>ɣ⟨in⟩ani</i></td>
 <td>
 '<span>food</span>'</td>
 </tr>
 <tr>
 <td>None</td>
-<td>PNCV</td>
-<td><i>k<in>ani-ana</i></td>
+<td><a href="../languages/pncv">PNCV</a></td>
+<td><i>k⟨in⟩ani-ana</i></td>
 <td>
 '<span>staple food</span>'</td>
 </tr>
 <tr>
 <td>NCV</td>
-<td>Raga</td>
-<td><i>ɣ<in>a-ɣani-ana</i></td>
+<td><a href="../languages/raga">Raga</a></td>
+<td><i>ɣ⟨in⟩a-ɣani-ana</i></td>
 <td>
 '<span>food</span>'</td>
 </tr>
 <tr>
 <td>NCV</td>
-<td>Paamese</td>
+<td><a href="../languages/paamese">Paamese</a></td>
 <td><i>ani-ene</i></td>
 <td>
 '<span>staple food, as opposed to meat and greens</span>'</td>
 </tr>
 <tr>
 <td>NCV</td>
-<td>Lewo</td>
-<td><i>k<in>ani-ena</i></td>
+<td><a href="../languages/lewo">Lewo</a></td>
+<td><i>k⟨in⟩ani-ena</i></td>
 <td>
 '<span>staple food, as opposed to meat and greens</span>'</td>
 </tr>
@@ -924,7 +924,7 @@ Several reflexes of POc _&ast;kuta_ denote a major staple in the language concer
 <table id="3-2-6-1-42-POc-kuta-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;kuta</i>
 </td>
 <td>
@@ -1005,7 +1005,7 @@ Reflexes of _&ast;tamaji_ with meanings supporting the reconstructed meaning are
 <table id="3-2-6-2-43-POc-tamaji-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;tamaji</i>
 </td>
 <td>
@@ -1037,7 +1037,7 @@ Reflexes of _&ast;tamaji_ with meanings supporting the reconstructed meaning are
 '<span>food for travel</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/sursurunga">Sursurunga</a></td><td><i>t<in>mas</i></td>
+<td>MM</td><td><a href="../languages/sursurunga">Sursurunga</a></td><td><i>t⟨in⟩mas</i></td>
 <td>
 '<span>picnic lunch, food taken and eaten away from the house or on a journey</span>'</td>
 </tr>
@@ -1159,7 +1159,7 @@ Data from other Oceanic languages suggest an alternative hypothesis, namely that
 <table id="3-2-7-1-45-POc-kayuqone-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;kayu qone</i>
 </td>
 <td>
@@ -1355,9 +1355,9 @@ This POc construction is also reflected in Kwara'ae plant naming, but in a rathe
 
 <a id="p-49"></a>
 
-The morphemes _faʔi_ and _fiʔi_ belong to a set of classifiers described in Deck's grammar and used principally for counting (1934: 7-10). These are listed in Table 2.1 along with corresponding forms in closely related Kwaio and Lau, the Proto Polynesian classifiers reconstructed in POLLEX, and the POc nouns from which they are derived.
+The morphemes _faʔi_ and _fiʔi_ belong to a set of classifiers described in Deck's grammar and used principally for counting (1934: 7-10). These are listed in [Table 2.1](#table-2.1) along with corresponding forms in closely related Kwaio and Lau, the Proto Polynesian classifiers reconstructed in POLLEX, and the POc nouns from which they are derived.
 
-Several of the Kwara'ae classifiers share the form monosyllable + _-ʔi_ or _-ʔe_. Their common form reflects their shared origin in the POc construction [MONOVALENT NOUN _&ast;qi_ NOUN] described above.[^20] The likely POc usage from which the classifiers in Table 2.1 are derived is illustrated below:[^21]
+Several of the Kwara'ae classifiers share the form monosyllable + _-ʔi_ or _-ʔe_. Their common form reflects their shared origin in the POc construction [MONOVALENT NOUN _&ast;qi_ NOUN] described above.[^20] The likely POc usage from which the classifiers in [Table 2.1](#table-2.1) are derived is illustrated below:[^21]
 
 <ol start="2"><li>
 <ol type="a"><li>
@@ -1451,7 +1451,7 @@ The POc term ancestral to Dobu _udi_ 'banana' was _&ast;pudi_ ([ch.9, §3](../co
 <table id="3-2-7-2-50-PWOc-pudipudi-a">
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;pudi-pudi</i>
 </td>
 <td>
@@ -1529,7 +1529,7 @@ In Marovo (MM) several forms are found with a somewhat different semantic deriva
 
 [^14]: In [Ross](../sources/Ross1996d) ([1996d](../sources/Ross1996d)) these forms were shown under POc _&ast;kani_ ('eat') + NOMINALISER. I have changed their presentation here in recognition of the fact that they all in a sense reflect POc _&ast;kanaŋ_, even though they also reflect changes in the nominalisation process.
 
-[^15]: The productive infix _<in>_, of PAn antiquity, is infixed after the initial consonant of a base if there is one, but becomes _ni-_ with a vowel-initial base. In Patpatar, Ramoaaina, Tolai and Nehan the _&ast;k-_ of _&ast;kani_ is lost, giving a vowel-initial base.
+[^15]: The productive infix _⟨in⟩_, of PAn antiquity, is infixed after the initial consonant of a base if there is one, but becomes _ni-_ with a vowel-initial base. In Patpatar, Ramoaaina, Tolai and Nehan the _&ast;k-_ of _&ast;kani_ is lost, giving a vowel-initial base.
 
 [^16]: The Bauro gloss provides a clue as to why the Arosi cognate means 'betelpepper': it is an additive to betelnut.
 

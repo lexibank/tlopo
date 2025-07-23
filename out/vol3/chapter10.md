@@ -44,7 +44,7 @@ POc _&ast;wasa_ primarily denoted _Abelmoschus manihot_, evidently the most sali
 <table id="3-10-2-1-294-POc-wasa-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;wasa</i>
 </td>
 <td>
@@ -119,7 +119,7 @@ POc _&ast;wasa_ primarily denoted _Abelmoschus manihot_, evidently the most sali
 </tr>
 <tr>
 <td><strong>PSV</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;nə-was</i>
 </td>
 <td>
@@ -148,7 +148,7 @@ POc _&ast;wasa_ primarily denoted _Abelmoschus manihot_, evidently the most sali
 <table id="3-10-2-1-295-POc-bele-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;bele</i>
 </td>
 <td>
@@ -204,7 +204,7 @@ Two terms for _Abelmoschus manihot_ can be reconstructed in lower interstage lan
 <table id="3-10-2-1-295-PROc-sasaru-a">
 <tr>
 <td><strong>PROc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;sasaRu</i>
 </td>
 <td>
@@ -243,7 +243,7 @@ Two terms for _Abelmoschus manihot_ can be reconstructed in lower interstage lan
 <table id="3-10-2-1-295-PNCV-vera-a">
 <tr>
 <td><strong>PNCV</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;vera</i>
 </td>
 <td>
@@ -293,7 +293,7 @@ The meaning of the etymon reconstructed below is not clear. It may have been ano
 <table id="3-10-2-1-296-POc-pakge-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;pʷa(k,g)e</i>
 </td>
 <td>
@@ -354,7 +354,7 @@ The only reconstruction is at the level of PNCV:
 <table id="3-10-2-2-297-PNCV-keka-a">
 <tr>
 <td><strong>PNCV</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;keka</i>
 </td>
 <td>
@@ -410,7 +410,7 @@ Misima _kusai_ provides evidence for the final _&ast;-q_ of POc _&ast;kusaq_. Mi
 <table id="3-10-2-3-298-POc-kusaq-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;kusaq</i>
 </td>
 <td>
@@ -459,7 +459,7 @@ No POc term is unambiguously reconstructable, but it is possible that the reflex
 <table id="3-10-2-4-299-PSOc-lalawis-a">
 <tr>
 <td><strong>PSOc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;(la)lawis</i>
 </td>
 <td>
@@ -497,7 +497,7 @@ No POc term is unambiguously reconstructable, but it is possible that the reflex
 <table id="3-10-2-4-299-PNCV-bei-a">
 <tr>
 <td><strong>PNCV</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;bei</i>
 </td>
 <td>
@@ -534,7 +534,7 @@ The items reflecting PNCV _&ast;lalaso_ '_Polyscias scutellaria_' (?) below appe
 <table id="3-10-2-4-299-PNCV-lalaso-a">
 <tr>
 <td><strong>PNCV</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;lalaso</i>
 </td>
 <td>
@@ -599,7 +599,7 @@ Among the many ferns eaten in Melanesia, there is just one tree-fern genus for w
 <table id="3-10-3-1-300-POc-bbala-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;(b,bʷ)ala</i>
 </td>
 <td>
@@ -612,7 +612,7 @@ Among the many ferns eaten in Melanesia, there is just one tree-fern genus for w
 </tr>
 <tr>
 <td><strong>PROc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;(b,bʷ)ala</i>
 </td>
 <td>
@@ -722,11 +722,11 @@ It is possible that Far East Manggarai, Kepo, Waerana, Razong, Rembong (all CMP)
 <table id="3-10-3-2-301-PWOc-tabuqar-a">
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;tabuqaR</i>
 </td>
 <td>
-'<span><em>Saccharum edule</em></span>' (<a href="../sources/Pawley1978">Pawley1978: _*tabukal_</a>)
+'<span><em>Saccharum edule</em></span>' (<a href="../sources/Pawley1978">Pawley1978</a>: <span><em>*tabukal</em></span>)
 </td>
 </tr>
 <tr>
@@ -796,7 +796,7 @@ cf. also:
 <table>
 <tr>
 <td>PT</td>
-<td>Motu</td>
+<td><a href="../languages/motu">Motu</a></td>
 <td><i>tabogana</i></td>
 <td>
 '<span>wild pitpit</span>' (<span>for †<em>tabu(ɣ)a</em>: apparently borrowed</span>)</td>
@@ -841,7 +841,7 @@ POc _&ast;nunuk_ denoted either a taxon including all _Ficus_ species known to P
 <table id="3-10-4-1-303-POc-nunuk-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;nunuk</i>
 </td>
 <td>
@@ -850,7 +850,7 @@ POc _&ast;nunuk_ denoted either a taxon including all _Ficus_ species known to P
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;nunuk</i>
 </td>
 <td>
@@ -922,16 +922,16 @@ It is probable that _&ast;qayawan_ denoted a strangler fig taxon. The Gedaged, K
 <table id="3-10-4-1-303-POc-qayawan-a">
 <tr>
 <td><strong>PEMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;qayawan</i>
 </td>
 <td>
-'<span>banyan tree, <em>Ficus</em> sp.</span>' (<a href="../sources/Blust1978a">Blust1978a: _*ayawan_</a>)
+'<span>banyan tree, <em>Ficus</em> sp.</span>' (<a href="../sources/Blust1978a">Blust1978a</a>: <span><em>*ayawan</em></span>)
 </td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;qayawan</i>
 </td>
 <td>
@@ -940,7 +940,7 @@ It is probable that _&ast;qayawan_ denoted a strangler fig taxon. The Gedaged, K
 </tr>
 <tr>
 <td><strong>PAdm</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;qaiwa</i>
 </td>
 <td>
@@ -1071,7 +1071,7 @@ It is probable that _&ast;qayawan_ denoted a strangler fig taxon. The Gedaged, K
 </tr>
 <tr>
 <td><strong>PCP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;qayawa</i>
 </td>
 <td>
@@ -1094,7 +1094,7 @@ It is probable that _&ast;qayawan_ denoted a strangler fig taxon. The Gedaged, K
 </tr>
 <tr>
 <td><strong>PPn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;qawa</i>
 </td>
 <td>
@@ -1152,43 +1152,43 @@ POc _&ast;qayawan_ also seems to have a second set of reflexes in Micronesia. A 
 <table id="3-10-4-1-305-mic-kosraean-kny">
 <tr>
 <td>Mic</td>
-<td>Kosraean</td>
-<td><i>kɔn(-yɛ)</i></td>
+<td><a href="../languages/kosraean">Kosraean</a></td>
+<td style="white-space: nowrap"><i>kɔn(-yɛ)</i></td>
 <td>
 '<span>banyan tree</span>'</td>
 </tr>
 <tr>
 <td>Mic</td>
-<td>Trukese</td>
-<td><i>əwə̄r</i></td>
+<td><a href="../languages/trukese">Trukese</a></td>
+<td style="white-space: nowrap"><i>əwə̄r</i></td>
 <td>
 '<span><em>Ficus tinctoria</em></span>'</td>
 </tr>
 <tr>
 <td>Mic</td>
-<td>Puluwatese</td>
-<td><i>yawann</i></td>
+<td><a href="../languages/puluwatese">Puluwatese</a></td>
+<td style="white-space: nowrap"><i>yawann</i></td>
 <td>
 '<span>banyan</span>'</td>
 </tr>
 <tr>
 <td>Mic</td>
-<td>Satawalese</td>
-<td><i>awal</i></td>
+<td><a href="../languages/satawalese">Satawalese</a></td>
+<td style="white-space: nowrap"><i>awal</i></td>
 <td>
 '<span>banyan</span>'</td>
 </tr>
 <tr>
 <td>Mic</td>
-<td>Woleaian</td>
-<td><i>gewann</i></td>
+<td><a href="../languages/woleaian">Woleaian</a></td>
+<td style="white-space: nowrap"><i>gewann</i></td>
 <td>
 '<span>banyan</span>'</td>
 </tr>
 <tr>
 <td>Mic</td>
-<td>Ulithian</td>
-<td><i>howel</i></td>
+<td><a href="../languages/ulithian">Ulithian</a></td>
+<td style="white-space: nowrap"><i>howel</i></td>
 <td>
 '<span>banyan</span>'</td>
 </tr>
@@ -1201,7 +1201,7 @@ The items under 'cf. also' are probably not cognate. Three of them point to a te
 <table id="3-10-4-1-305-POc-bakga-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;ba(k,g)a</i>
 </td>
 <td>
@@ -1230,7 +1230,7 @@ The items under 'cf. also' are probably not cognate. Three of them point to a te
 </tr>
 <tr>
 <td><strong>PROc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;baga</i>
 </td>
 <td>
@@ -1345,28 +1345,28 @@ cf. also:
 <table>
 <tr>
 <td>Adm</td>
-<td>Mussau</td>
+<td><a href="../languages/mussau">Mussau</a></td>
 <td><i>paka</i></td>
 <td>
 '<span><em>Terminalia catappa</em></span>'</td>
 </tr>
 <tr>
 <td>Adm</td>
-<td>Mussau</td>
+<td><a href="../languages/mussau">Mussau</a></td>
 <td><i>baga(laim)</i></td>
 <td>
 '<span>large variety of Malay apple, <em>Syzygium</em> gomata</span>'</td>
 </tr>
 <tr>
 <td>Adm</td>
-<td>Titan</td>
+<td><a href="../languages/titan">Titan</a></td>
 <td><i>baga-bak</i></td>
 <td>
 '<span>tree sp. with nut-like fruit</span>'</td>
 </tr>
 <tr>
 <td>MM</td>
-<td>Tolai</td>
+<td><a href="../languages/tolai">Tolai</a></td>
 <td><i>baga</i></td>
 <td>
 '<span><em>Canarium mehenbethene</em> (Record 1945)</span>'</td>
@@ -1405,7 +1405,7 @@ There is enough agreement among the meanings of reflexes of POc _&ast;iguRa_ to 
 <table id="3-10-4-2-307-POc-igura-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;iguRa</i>
 </td>
 <td>
@@ -1452,7 +1452,7 @@ POc _&ast;pʷabosi_ is the most likely candidate for a term denoting _Ficus wass
 <table id="3-10-4-2-307-POc-pabosi-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;pʷabosi</i>
 </td>
 <td>
@@ -1523,7 +1523,7 @@ POc _&ast;pʷabosi_ is the most likely candidate for a term denoting _Ficus wass
 </tr>
 <tr>
 <td><strong>PSOc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;(b(a,o))bosi</i>
 </td>
 <td>
@@ -1542,7 +1542,7 @@ POc _&ast;pʷabosi_ is the most likely candidate for a term denoting _Ficus wass
 </tr>
 <tr>
 <td><strong>PSV</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;na-bVbosi</i>
 </td>
 <td>
@@ -1581,7 +1581,7 @@ POc _&ast;qa(l,R)a_ may have been another term for _Ficus copiosa_ ([§4.2](../c
 <table id="3-10-4-2-308-POc-qalra-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;qaRaʔ</i>
 </td>
 <td>
@@ -1590,7 +1590,7 @@ POc _&ast;qa(l,R)a_ may have been another term for _Ficus copiosa_ ([§4.2](../c
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;qa(l,R)a</i>
 </td>
 <td>
@@ -1648,7 +1648,7 @@ POc _&ast;taŋa_ appears to have denoted _Ficus tinctoria_. This is its meaning 
 <table id="3-10-4-3-308-POc-taa-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;taŋa</i>
 </td>
 <td>
@@ -1679,7 +1679,7 @@ POc _&ast;taŋa_ appears to have denoted _Ficus tinctoria_. This is its meaning 
 <table id="3-10-4-3-309-PSV-nat-a">
 <tr>
 <td><strong>PSV</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;na-təŋ</i>
 </td>
 <td>
@@ -1715,7 +1715,7 @@ POc _&ast;(c,j)api_ appears to have denoted a species with edible leaves, possib
 <table id="3-10-4-3-309-POc-cjapi-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;jabi</i>
 </td>
 <td>
@@ -1724,7 +1724,7 @@ POc _&ast;(c,j)api_ appears to have denoted a species with edible leaves, possib
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;(c,j)api</i>
 </td>
 <td>
@@ -1758,7 +1758,7 @@ It is possible that POc _&ast;seRa_ denoted _Ficus adenosperma_, a freestanding 
 <table id="3-10-4-4-309-POc-sera-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;seRa</i>
 </td>
 <td>
@@ -1793,7 +1793,7 @@ POc _&ast;bauRa_ may have denoted a species of strangler fig.
 <table id="3-10-4-4-309-POc-baura-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;bauRa</i>
 </td>
 <td>
@@ -1823,7 +1823,7 @@ The glosses give no real clue to the denotatum of POc _&ast;ka(mʷa)-kamʷa_, ot
 <table id="3-10-4-4-309-POc-kamakama-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;ka(mʷa)-kamʷa</i>
 </td>
 <td>
@@ -1856,11 +1856,11 @@ The gloss of PNCV _&ast;buliva_ is clearly _Ficus_ scabra (a species found only 
 <table id="3-10-4-4-310-PEOc-bulipa-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;bulipa</i>
 </td>
 <td>
-'<span><em>Ficus</em> sp.</span>' (<a href="../sources/Clark1996">Clark1996: PNCV *buliva</a>)
+'<span><em>Ficus</em> sp.</span>' (<a href="../sources/Clark1996">Clark1996</a>: <span>PNCV *buliva</span>)
 </td>
 </tr>
 <tr>
@@ -1870,7 +1870,7 @@ The gloss of PNCV _&ast;buliva_ is clearly _Ficus_ scabra (a species found only 
 </tr>
 <tr>
 <td><strong>PNCV</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;buliva</i>
 </td>
 <td>
@@ -1937,7 +1937,7 @@ The gloss of PNCV _&ast;buliva_ is clearly _Ficus_ scabra (a species found only 
 <table id="3-10-4-4-310-PSOc-rivurivu-a">
 <tr>
 <td><strong>PSOc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;rivu-rivu</i>
 </td>
 <td>

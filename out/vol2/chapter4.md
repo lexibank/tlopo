@@ -30,7 +30,7 @@ Four POc words denoting ‘sea’ have been reconstructed: _&ast;tasik_, _&ast;m
 <table id="2-4-2-1-92-POc-tasik-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;tasik</i>
 </td>
 <td>
@@ -39,7 +39,7 @@ Four POc words denoting ‘sea’ have been reconstructed: _&ast;tasik_, _&ast;m
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;tasik</i>
 </td>
 <td>
@@ -202,7 +202,7 @@ Four POc words denoting ‘sea’ have been reconstructed: _&ast;tasik_, _&ast;m
 </tr>
 <tr>
 <td><strong>PPn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;tahi</i>
 </td>
 <td>
@@ -265,57 +265,57 @@ In addition to these simple terms, a number of compound terms consisting of _&as
 <table id="2-4-2-1-93-ses-lau-asiabua">
 <tr>
 <td>SES</td>
-<td>Lau</td>
-<td><i>asiʔabua</i></td>
+<td><a href="../languages/lau">Lau</a></td>
+<td style="white-space: nowrap"><i>asiʔabua</i></td>
 <td>
 '<span>deep blue sea</span>'</td>
 </tr>
 <tr>
 <td>SES</td>
-<td>Lau</td>
-<td><i>asidalafa</i></td>
+<td><a href="../languages/lau">Lau</a></td>
+<td style="white-space: nowrap"><i>asidalafa</i></td>
 <td>
 '<span>open ocean</span>'</td>
 </tr>
 <tr>
 <td>SES</td>
-<td>Lau</td>
-<td><i>asidaudau</i></td>
+<td><a href="../languages/lau">Lau</a></td>
+<td style="white-space: nowrap"><i>asidaudau</i></td>
 <td>
 '<span>open sea outside reef</span>'</td>
 </tr>
 <tr>
 <td>SES</td>
-<td>Lau</td>
-<td><i>asifolā, asimae</i></td>
+<td><a href="../languages/lau">Lau</a></td>
+<td style="white-space: nowrap"><i>asifolā, asimae</i></td>
 <td>
 '<span>sea within reef</span>'</td>
 </tr>
 <tr>
 <td>SES</td>
-<td>Lau</td>
-<td><i>asimauri</i></td>
+<td><a href="../languages/lau">Lau</a></td>
+<td style="white-space: nowrap"><i>asimauri</i></td>
 <td>
 '<span>sea outside reef</span>'</td>
 </tr>
 <tr>
 <td>SES</td>
-<td>Lau</td>
-<td><i>asinamo</i></td>
+<td><a href="../languages/lau">Lau</a></td>
+<td style="white-space: nowrap"><i>asinamo</i></td>
 <td>
 '<span>lagoon within reef</span>'</td>
 </tr>
 <tr>
 <td>SES</td>
-<td>Lau</td>
-<td><i>asīle</i></td>
+<td><a href="../languages/lau">Lau</a></td>
+<td style="white-space: nowrap"><i>asīle</i></td>
 <td>
 '<span>where reef drops to deep water</span>'</td>
 </tr>
 <tr>
 <td>SES</td>
-<td>Lau</td>
-<td><i>asirū</i></td>
+<td><a href="../languages/lau">Lau</a></td>
+<td style="white-space: nowrap"><i>asirū</i></td>
 <td>
 '<span>sea where there is no reef</span>'</td>
 </tr>
@@ -328,7 +328,7 @@ POc _&ast;masawa(n,ŋ)_ has reflexes in both Western Oceanic and Eastern Oceanic
 <table id="2-4-2-1-93-POc-masawan-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;masawa(n,ŋ)</i>
 </td>
 <td>
@@ -418,7 +418,7 @@ Polynesian languages reflect another term for ‘ocean’:
 <table id="2-4-2-1-93-PPn-moana-a">
 <tr>
 <td><strong>PPn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;moana</i>
 </td>
 <td>
@@ -474,7 +474,7 @@ The PCEMP reconstruction in the next set is supported by cognates in the Central
 <table id="2-4-2-1-94-POc-laman-a">
 <tr>
 <td><strong>PCEMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;laman</i>
 </td>
 <td>
@@ -483,7 +483,7 @@ The PCEMP reconstruction in the next set is supported by cognates in the Central
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;laman</i>
 </td>
 <td>
@@ -586,7 +586,7 @@ Listed below are common-noun reflexes of _&ast;laur_. However, these are few and
 <table id="2-4-2-1-95-POc-laur-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;lahud</i>
 </td>
 <td>
@@ -595,7 +595,7 @@ Listed below are common-noun reflexes of _&ast;laur_. However, these are few and
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;laur</i>
 </td>
 <td>
@@ -638,11 +638,11 @@ Listed below are common-noun reflexes of _&ast;laur_. However, these are few and
 </tr>
 <tr>
 <td><strong>PMic</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;lau</i>
 </td>
 <td>
-'<span>pool, pond</span>' (<a href="../sources/Marck1994">Marck1994: 313</a>)
+'<span>pool, pond</span>' (<a href="../sources/Marck1994">Marck1994</a>: <span>313</span>)
 </td>
 </tr>
 <tr>
@@ -680,7 +680,7 @@ For sheltered or calm water, reflexes of POc _&ast;[ma-[d]]rapu_ ‘still, calm,
 <table id="2-4-2-2-95-PEOc-tasikmate-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;tasik mate</i>
 </td>
 <td>
@@ -732,7 +732,7 @@ cf. also:
 <table>
 <tr>
 <td>Pn</td>
-<td>Tongan</td>
+<td><a href="../languages/tongan">Tongan</a></td>
 <td><i>mate-mate</i></td>
 <td>
 '<span>calm, of wind or sea</span>'</td>
@@ -746,7 +746,7 @@ cf. also:
 <table id="2-4-2-2-96-PEOc-tasikmaqurip-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;tasik maquri(p)</i>
 </td>
 <td>
@@ -788,22 +788,22 @@ In a number of languages, rough water is described by reflexes of POc &ast;saqat
 <table id="2-4-2-2-96-pt-kiriwina-ipaisaga">
 <tr>
 <td>PT</td>
-<td>Kilivila</td>
-<td><i>(ipai)saga</i></td>
+<td><a href="../languages/kilivila">Kilivila</a></td>
+<td style="white-space: nowrap"><i>(ipai)saga</i></td>
 <td>
 '<span>rough, of sea, weather</span>'</td>
 </tr>
 <tr>
 <td>SES</td>
-<td>'Are'are</td>
-<td><i>āsi taʔa </i></td>
+<td><a href="../languages/areare">'Are'are</a></td>
+<td style="white-space: nowrap"><i>āsi taʔa </i></td>
 <td>
 '<span>rough sea</span>'</td>
 </tr>
 <tr>
 <td>SES</td>
-<td>Arosi</td>
-<td><i>asi taʔa </i></td>
+<td><a href="../languages/arosi">Arosi</a></td>
+<td style="white-space: nowrap"><i>asi taʔa </i></td>
 <td>
 '<span>confused sea</span>'</td>
 </tr>
@@ -820,7 +820,7 @@ Several terms denoting current or flow of water can be reconstructed for POc. Re
 <table id="2-4-2-3-96-POc-qarus-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;qaRus</i>
 </td>
 <td>
@@ -829,7 +829,7 @@ Several terms denoting current or flow of water can be reconstructed for POc. Re
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;qaRus</i>
 </td>
 <td>
@@ -982,7 +982,7 @@ The bare PAn verb _&ast;qañud_ ‘drift on a current, carried away by flowing w
 <table id="2-4-2-3-97-POc-maqanur-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;ma-qañud</i>
 </td>
 <td>
@@ -991,7 +991,7 @@ The bare PAn verb _&ast;qañud_ ‘drift on a current, carried away by flowing w
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;maqañur</i>
 </td>
 <td>
@@ -1074,7 +1074,7 @@ The bare PAn verb _&ast;qañud_ ‘drift on a current, carried away by flowing w
 <table id="2-4-2-3-97-POc-tape-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;tape</i>
 </td>
 <td>
@@ -1206,7 +1206,7 @@ The bare PAn verb _&ast;qañud_ ‘drift on a current, carried away by flowing w
 <table id="2-4-2-3-98-POc-qalir-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;qaluR(?)</i>
 </td>
 <td>
@@ -1215,7 +1215,7 @@ The bare PAn verb _&ast;qañud_ ‘drift on a current, carried away by flowing w
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;qaliR</i>
 </td>
 <td>
@@ -1258,7 +1258,7 @@ The bare PAn verb _&ast;qañud_ ‘drift on a current, carried away by flowing w
 <table id="2-4-2-3-98-POc-salir-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;saliR</i>
 </td>
 <td>
@@ -1266,7 +1266,7 @@ The bare PAn verb _&ast;qañud_ ‘drift on a current, carried away by flowing w
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;saliR</i>
 </td>
 <td>
@@ -1320,7 +1320,7 @@ Two types of wave commonly distinguished in Oceanic languages are (a) surf, wave
 <table id="2-4-2-4-99-POc-napok-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;Nabek</i>
 </td>
 <td>
@@ -1329,7 +1329,7 @@ Two types of wave commonly distinguished in Oceanic languages are (a) surf, wave
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;napo(k)</i>
 </td>
 <td>
@@ -1409,7 +1409,7 @@ Reflexes of POc _&ast;ŋalu(n)_ in some languages refer to ocean waves in genera
 <table id="2-4-2-4-99-POc-alun-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;qalun</i>
 </td>
 <td>
@@ -1418,7 +1418,7 @@ Reflexes of POc _&ast;ŋalu(n)_ in some languages refer to ocean waves in genera
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;ŋalu(n)</i>
 </td>
 <td>
@@ -1490,7 +1490,7 @@ Reflexes of POc _&ast;ŋalu(n)_ in some languages refer to ocean waves in genera
 <table id="2-4-2-4-100-POc-bayau-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;bayau</i>
 </td>
 <td>
@@ -1552,7 +1552,7 @@ cf. also:
 <table>
 <tr>
 <td>NNG</td>
-<td>Dami</td>
+<td><a href="../languages/dami">Dami</a></td>
 <td><i>uyau</i></td>
 <td>
 '<span>wave</span>'</td>
@@ -1563,7 +1563,7 @@ cf. also:
 <table id="2-4-2-4-100-POc-loka-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;loka</i>
 </td>
 <td>
@@ -1611,7 +1611,7 @@ cf. also:
 <table id="2-4-2-4-100-PCP-bari-a">
 <tr>
 <td><strong>PCP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;bari</i>
 </td>
 <td>
@@ -1624,7 +1624,7 @@ cf. also:
 </tr>
 <tr>
 <td><strong>PPn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;pali</i>
 </td>
 <td>
@@ -1689,7 +1689,7 @@ There is an additional formal complication, namely that PMP _&ast;bujeq_ seems t
 <table id="2-4-2-5-101-POc-busa-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;busa</i>
 </td>
 <td>
@@ -1698,7 +1698,7 @@ There is an additional formal complication, namely that PMP _&ast;bujeq_ seems t
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;busa</i>
 </td>
 <td>
@@ -1740,14 +1740,14 @@ cf. also:
 <table>
 <tr>
 <td>Pn</td>
-<td>Samoan</td>
+<td><a href="../languages/samoan">Samoan</a></td>
 <td><i>pusa</i></td>
 <td>
 '<span>give out smoke, steam, vapour</span>'</td>
 </tr>
 <tr>
 <td>Pn</td>
-<td>Tongan</td>
+<td><a href="../languages/tongan">Tongan</a></td>
 <td><i>pu-puha</i></td>
 <td>
 '<span>be hot and perspiring</span>'</td>
@@ -1758,7 +1758,7 @@ cf. also:
 <table id="2-4-2-5-101-POc-buso-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;bujeq</i>
 </td>
 <td>
@@ -1767,7 +1767,7 @@ cf. also:
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;buso</i>
 </td>
 <td>
@@ -1818,7 +1818,7 @@ cf. also:
 <table id="2-4-2-5-102-POc-puso-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;bujeq</i>
 </td>
 <td>
@@ -1827,7 +1827,7 @@ cf. also:
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;puso</i>
 </td>
 <td>
@@ -1915,7 +1915,7 @@ The reconstruction for low tide, POc _&ast;maqati_, which continues a PAn form, 
 <table id="2-4-2-6-103-POc-maqati-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;ma-qaCi</i>
 </td>
 <td>
@@ -1924,7 +1924,7 @@ The reconstruction for low tide, POc _&ast;maqati_, which continues a PAn form, 
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;maqati</i>
 </td>
 <td>
@@ -2150,7 +2150,7 @@ POc _&ast;[ma]maca_ ‘dry up, evaporate’, has some reflexes which refer to lo
 <table id="2-4-2-6-105-POc-mamaca-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;maja</i>
 </td>
 <td>
@@ -2158,7 +2158,7 @@ POc _&ast;[ma]maca_ ‘dry up, evaporate’, has some reflexes which refer to lo
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;[ma]maca</i>
 </td>
 <td>
@@ -2351,7 +2351,7 @@ POc _&ast;Ruap_ has been long-established as a term for high tide, with a PMP an
 <table id="2-4-2-6-106-POc-uruap-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;Ruab</i>
 </td>
 <td>
@@ -2360,7 +2360,7 @@ POc _&ast;Ruap_ has been long-established as a term for high tide, with a PMP an
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;[u]Ruap</i>
 </td>
 <td>
@@ -2460,7 +2460,7 @@ POc _&ast;ma-[u]Ruap_ and its counterpart, _&ast;ma-qati_ ‘low tide; be low ti
 <table id="2-4-2-6-106-POc-mauruap-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;[ma-]uRua(p)</i>
 </td>
 <td>
@@ -2495,7 +2495,7 @@ Other reconstructions for high tide include the following (see also POc _&ast;lo
 <table id="2-4-2-6-106-POc-lubuk-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;lubuk</i>
 </td>
 <td>
@@ -2504,7 +2504,7 @@ Other reconstructions for high tide include the following (see also POc _&ast;lo
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;lubu(k)</i>
 </td>
 <td>
@@ -2566,7 +2566,7 @@ Other reconstructions for high tide include the following (see also POc _&ast;lo
 <table id="2-4-2-6-107-PWOc-tunan-a">
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;tunan</i>
 </td>
 <td>
@@ -2630,7 +2630,7 @@ POc _&ast;laje_ was both a generic term for coral and the name for branching cor
 <table id="2-4-3-1-107-POc-laje-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;lajay</i>
 </td>
 <td>
@@ -2638,11 +2638,11 @@ POc _&ast;laje_ was both a generic term for coral and the name for branching cor
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;laje</i>
 </td>
 <td>
-'<span>coral</span>'; '<span>branching coral</span>'</td>
+'<span>coral</span>'; (&#105;i) '<span>branching coral</span>'</td>
 </tr>
 <tr>
 <td>Adm</td><td><a href="../languages/lou">Lou</a></td><td><i>las</i></td>
@@ -2776,7 +2776,7 @@ POc _&ast;buŋa_ ‘smooth round coral’ is evidently derived from PMP _&ast;bu
 <table id="2-4-3-1-108-POc-bua-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;buŋa</i>
 </td>
 <td>
@@ -2784,7 +2784,7 @@ POc _&ast;buŋa_ ‘smooth round coral’ is evidently derived from PMP _&ast;bu
 </tr>
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;buŋa ni batu</i>
 </td>
 <td>
@@ -2793,7 +2793,7 @@ POc _&ast;buŋa_ ‘smooth round coral’ is evidently derived from PMP _&ast;bu
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;buŋa</i>
 </td>
 <td>
@@ -2836,7 +2836,7 @@ POc _&ast;buŋa_ ‘smooth round coral’ is evidently derived from PMP _&ast;bu
 </tr>
 <tr>
 <td><strong>PPn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;puŋa</i>
 </td>
 <td>
@@ -2891,7 +2891,7 @@ In Polynesian languages, reflexes of _&ast;puŋa_ typically contrast with those 
 <table id="2-4-3-1-108-PPn-feo-a">
 <tr>
 <td><strong>PPn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;feo</i>
 </td>
 <td>
@@ -2958,7 +2958,7 @@ Two POc reconstructions are glossed simply as ‘reef’, _&ast;sakaRu_ and _&as
 <table id="2-4-3-2-110-POc-sakaru-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;sakaRu</i>
 </td>
 <td>
@@ -2966,7 +2966,7 @@ Two POc reconstructions are glossed simply as ‘reef’, _&ast;sakaRu_ and _&as
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;sakaRu</i>
 </td>
 <td>
@@ -3141,7 +3141,7 @@ POc _&ast;oda_ ‘reef’ is widely reflected in Micronesian languages, but othe
 <table id="2-4-3-2-110-POc-oda-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;oda</i>
 </td>
 <td>
@@ -3201,64 +3201,64 @@ However, further evidence supporting oda as a term for ‘reef’ lies in two re
 <table id="2-4-3-2-110-pt-motu-haoda">
 <tr>
 <td>PT</td>
-<td>Motu</td>
-<td><i>haoda</i></td>
+<td><a href="../languages/motu">Motu</a></td>
+<td style="white-space: nowrap"><i>haoda</i></td>
 <td>
 (V) '<span>fish</span>'</td>
 </tr>
 <tr>
 <td>SES</td>
-<td>Bugotu</td>
-<td><i>vagoda</i></td>
+<td><a href="../languages/bugotu">Bugotu</a></td>
+<td style="white-space: nowrap"><i>vagoda</i></td>
 <td>
 '<span>hunt for shellfish on the reef</span>'</td>
 </tr>
 <tr>
 <td>SES</td>
-<td>Gela</td>
-<td><i>vaŋoda</i></td>
+<td><a href="../languages/gela">Gela</a></td>
+<td style="white-space: nowrap"><i>vaŋoda</i></td>
 <td>
 '<span>collect food on the reef; anything on the reef; gatherer of reef food</span>'</td>
 </tr>
 <tr>
 <td>SES</td>
-<td>Sa'a</td>
-<td><i>haŋoda</i></td>
+<td><a href="../languages/saa">Sa'a</a></td>
+<td style="white-space: nowrap"><i>haŋoda</i></td>
 <td>
 '<span>haliotis (sea ear) used as bait for crayfish</span>'</td>
 </tr>
 <tr>
 <td>NCV</td>
-<td>Mota</td>
-<td><i>vaŋona</i></td>
+<td><a href="../languages/mota">Mota</a></td>
+<td style="white-space: nowrap"><i>vaŋona</i></td>
 <td>
 '<span>catch fish with a line; get shellfish on the reef or in a canoe</span>'</td>
 </tr>
 <tr>
 <td>NCV</td>
-<td>Nguna</td>
-<td><i>(pa)vagoda</i></td>
+<td><a href="../languages/nguna">Nguna</a></td>
+<td style="white-space: nowrap"><i>(pa)vagoda</i></td>
 <td>
 '<span>look for shellfish</span>'</td>
 </tr>
 <tr>
 <td>NCV</td>
-<td>Nguna</td>
-<td><i>vinagoda</i></td>
+<td><a href="../languages/nguna">Nguna</a></td>
+<td style="white-space: nowrap"><i>vinagoda</i></td>
 <td>
 '<span>shellfish</span>'</td>
 </tr>
 <tr>
 <td>NCV</td>
-<td>Lonwolwol</td>
-<td><i>fogōr</i></td>
+<td><a href="../languages/lonwolwol">Lonwolwol</a></td>
+<td style="white-space: nowrap"><i>fogōr</i></td>
 <td>
 '<span>look for fish (on reef etc.)</span>'</td>
 </tr>
 <tr>
 <td>SV</td>
-<td>Anejom̃</td>
-<td><i>a-haŋeč</i></td>
+<td><a href="../languages/anejom">Anejom̃</a></td>
+<td style="white-space: nowrap"><i>a-haŋeč</i></td>
 <td>
 '<span>forage on reef</span>'</td>
 </tr>
@@ -3272,7 +3272,7 @@ The following reconstruction is attested only in SE Solomonic languages and Rotu
 <table id="2-4-3-2-111-PEOc-papo-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;papo</i>
 </td>
 <td>
@@ -3322,7 +3322,7 @@ Although we can be confident that there were Proto Oceanic names for various ree
 <table id="2-4-3-2-112-PPn-tuqahakau-a">
 <tr>
 <td><strong>PPn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;tuqa-hakau</i>
 </td>
 <td>
@@ -3357,7 +3357,7 @@ A PCP reconstruction that may also apply to the reef’s outer edge is _&ast;qul
 <table id="2-4-3-2-112-PCP-quluqulu-a">
 <tr>
 <td><strong>PCP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;qulu-qulu</i>
 </td>
 <td>
@@ -3425,7 +3425,7 @@ Isolated patches of submerged reef occur in the open sea between the outer (barr
 <table id="2-4-3-3-113-POc-maloq-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;mʷaloq</i>
 </td>
 <td>
@@ -3518,7 +3518,7 @@ POc _&ast;nuku_ ‘sand bank, sand spit, sandy ground’ is listed with full cog
 <table id="2-4-3-3-114-PEOc-nukupotu-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;nuku potu</i>
 </td>
 <td>
@@ -3543,7 +3543,7 @@ Both the SE Solomonic and Micronesian reflexes of PEOc _&ast;baro_ refer to flat
 <table id="2-4-3-3-114-PEOc-baro-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;baro</i>
 </td>
 <td>
@@ -3586,7 +3586,7 @@ Both the SE Solomonic and Micronesian reflexes of PEOc _&ast;baro_ refer to flat
 <table id="2-4-3-3-114-PPn-toka-a">
 <tr>
 <td><strong>PPn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;toka</i>
 </td>
 <td>
@@ -3645,7 +3645,7 @@ A feature of coral atolls and of some high islands with barrier reefs is the enc
 <table id="2-4-3-4-114-POc-namo-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;namaw</i>
 </td>
 <td>
@@ -3654,7 +3654,7 @@ A feature of coral atolls and of some high islands with barrier reefs is the enc
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;namo</i>
 </td>
 <td>
@@ -3766,7 +3766,7 @@ Small deep holes are a feature of the reef flat, but the only reconstructable te
 <table id="2-4-3-4-115-POc-loto-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;loto</i>
 </td>
 <td>
@@ -3774,7 +3774,7 @@ Small deep holes are a feature of the reef flat, but the only reconstructable te
 </tr>
 <tr>
 <td><strong>PPn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;loto</i>
 </td>
 <td>
@@ -3846,7 +3846,7 @@ The final nasal of _&ast;sawa(n,ŋ)_ is unexpected but attested in languages tha
 <table id="2-4-3-5-116-POc-sawan-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;sawaq</i>
 </td>
 <td>
@@ -3855,7 +3855,7 @@ The final nasal of _&ast;sawa(n,ŋ)_ is unexpected but attested in languages tha
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;sawa(n,ŋ)</i>
 </td>
 <td>
@@ -3968,7 +3968,7 @@ The final nasal of _&ast;sawa(n,ŋ)_ is unexpected but attested in languages tha
 </tr>
 <tr>
 <td><strong>PPn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;awa</i>
 </td>
 <td>
@@ -4009,7 +4009,7 @@ The final nasal of _&ast;sawa(n,ŋ)_ is unexpected but attested in languages tha
 <table id="2-4-3-5-117-POc-mataqinisawan-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;mata (qi,ni) sawa(n,ŋ)</i>
 </td>
 <td>
@@ -4081,7 +4081,7 @@ POc _&ast;wasas_ seems basically to have denoted a space between two points, exp
 <table id="2-4-3-5-117-POc-wasas-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;wasas</i>
 </td>
 <td>
@@ -4119,7 +4119,7 @@ POc _&ast;wasas_ seems basically to have denoted a space between two points, exp
 </tr>
 <tr>
 <td><strong>PPn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;wasa</i>
 </td>
 <td>

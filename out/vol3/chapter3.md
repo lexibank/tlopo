@@ -508,50 +508,50 @@ A term denoting all plants is not reconstructable for POc. A number of modern Oc
 <table id="3-3-4-1-70-adm-lou-koe">
 <tr>
 <td>Adm</td>
-<td>Lou</td>
-<td><i>koe</i></td>
+<td><a href="../languages/lou">Lou</a></td>
+<td style="white-space: nowrap"><i>koe</i></td>
 <td>
 '<span>plant (N)</span>'</td>
 </tr>
 <tr>
 <td>NNG</td>
-<td>Poeng</td>
-<td><i>kinkiniŋ</i></td>
+<td><a href="../languages/poeng">Poeng</a></td>
+<td style="white-space: nowrap"><i>kinkiniŋ</i></td>
 <td>
 '<span>(all) growing things; grass, tree</span>'</td>
 </tr>
 <tr>
 <td>NNG</td>
-<td>Sissano-Arop</td>
-<td><i>oraman</i></td>
+<td><a href="../languages/sissanoarop">Sissano-Arop</a></td>
+<td style="white-space: nowrap"><i>oraman</i></td>
 <td>
 '<span>plants (generic)</span>'</td>
 </tr>
 <tr>
 <td>SES</td>
-<td>Bugotu</td>
-<td><i>jou</i></td>
+<td><a href="../languages/bugotu">Bugotu</a></td>
+<td style="white-space: nowrap"><i>jou</i></td>
 <td>
 '<span>to plant, a plant</span>'</td>
 </tr>
 <tr>
 <td>NCV</td>
-<td>Ambae</td>
-<td><i>rivurivu</i></td>
+<td><a href="../languages/ambae">Ambae</a></td>
+<td style="white-space: nowrap"><i>rivurivu</i></td>
 <td>
 '<span>plant (N)</span>'</td>
 </tr>
 <tr>
 <td>SV</td>
-<td>Anejom̃</td>
-<td><i>nita-awañ</i></td>
+<td><a href="../languages/anejom">Anejom̃</a></td>
+<td style="white-space: nowrap"><i>nita-awañ</i></td>
 <td>
 '<span>plant, s.t. planted or to be planted</span>'</td>
 </tr>
 <tr>
 <td>Mic</td>
-<td>Trukese</td>
-<td><i>pətəwər</i></td>
+<td><a href="../languages/trukese">Trukese</a></td>
+<td style="white-space: nowrap"><i>pətəwər</i></td>
 <td>
 '<span>plant (general term), vegetation (uncultivated); tree, bush, shrub, fern, grass</span>'</td>
 </tr>
@@ -565,7 +565,7 @@ A Proto Micronesian form _&ast;fadoka_ 'planted thing, cultivated plants' is rec
 <table id="3-3-4-1-71-PMic-fadoka-a">
 <tr>
 <td><strong>PMic</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;fadoka</i>
 </td>
 <td>
@@ -603,7 +603,7 @@ A Proto Micronesian form _&ast;fadoka_ 'planted thing, cultivated plants' is rec
 <table id="3-3-4-1-71-PMic-fadoki-a">
 <tr>
 <td><strong>PMic</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;fadok(-i)</i>
 </td>
 <td>
@@ -651,7 +651,7 @@ The most stable primary taxon label, in that it is reflected most widely amongst
 <table id="3-3-4-2-71-POc-kayu-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;kayu</i>
 </td>
 <td>
@@ -660,7 +660,7 @@ The most stable primary taxon label, in that it is reflected most widely amongst
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;kayu</i>
 </td>
 <td>
@@ -858,7 +858,7 @@ In Polynesian languages there has been a semantic shift and the reflexes of _&as
 <table id="3-3-4-2-73-PPn-raakau-a">
 <tr>
 <td><strong>PPn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;raʔakau</i>
 </td>
 <td>
@@ -934,7 +934,7 @@ The final consonant of the POc form is reconstructed as _&ast;c_ rather than _&a
 <table id="3-3-4-4-74-POc-waroc-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;waRej</i>
 </td>
 <td>
@@ -943,7 +943,7 @@ The final consonant of the POc form is reconstructed as _&ast;c_ rather than _&a
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;waRoc</i>
 </td>
 <td>
@@ -1072,7 +1072,7 @@ POc _&ast;pali[s,j]i_ appears to have been the generic for plants lacking a main
 <table id="3-3-4-5-75-POc-palisji-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;bali(j,z)i</i>
 </td>
 <td>
@@ -1081,11 +1081,11 @@ POc _&ast;pali[s,j]i_ appears to have been the generic for plants lacking a main
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;pali[s,j]i</i>
 </td>
 <td>
-'<span>generic term for grasses and other grass-like plants</span>' (<a href="../sources/Grace1961">Grace1961: *palisi</a>)
+'<span>generic term for grasses and other grass-like plants</span>' (<a href="../sources/Grace1961">Grace1961</a>: <span>*palisi</span>)
 </td>
 </tr>
 <tr>
@@ -1227,7 +1227,7 @@ Evidence from non-Oceanic languages suggests that _&ast;lumut_ may have been the
 <table id="3-3-4-6-77-POc-lumut-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;lumut</i>
 </td>
 <td>
@@ -1386,11 +1386,11 @@ Evidence from non-Oceanic languages suggests that _&ast;lumut_ may have been the
 <table id="3-3-4-6-77-POc-limut-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;limut</i>
 </td>
 <td>
-'<span>generic term for mosses, algaes and seaweeds</span>' (<a href="../sources/Biggs1965">Biggs1965: _*timu_</a>)
+'<span>generic term for mosses, algaes and seaweeds</span>' (<a href="../sources/Biggs1965">Biggs1965</a>: <span><em>*timu</em></span>)
 </td>
 </tr>
 <tr>
@@ -1491,7 +1491,7 @@ In a number of modern Oceanic languages the life-form term for mushrooms and oth
 <table id="3-3-4-7-78-POc-talia-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;taliŋa</i>
 </td>
 <td>
@@ -1651,22 +1651,22 @@ Ferns and tree-ferns are also plants which do not appear to fit into any of the 
 <table id="3-3-4-8-80-mic-kosraean-po">
 <tr>
 <td>Mic</td>
-<td>Kosraean</td>
-<td><i>po</i></td>
+<td><a href="../languages/kosraean">Kosraean</a></td>
+<td style="white-space: nowrap"><i>po</i></td>
 <td>
 '<span>kind of plant: tree fern</span>'</td>
 </tr>
 <tr>
 <td>Fij</td>
-<td>Wayan</td>
-<td><i>balabala</i></td>
+<td><a href="../languages/wayan">Wayan</a></td>
+<td style="white-space: nowrap"><i>balabala</i></td>
 <td>
 '<span>generic for tree ferns (<em>Cyathea</em> spp.), sometimes extended to include other large ferns, such as <em>Pteris tripartita</em></span>'; '<span><em>Cyathea lunulata</em> (Cyatheaceae)</span>'; '<span><em>Cyathea</em> sp., perhaps <em>Cyathea propinqua</em></span>'; '<span><em>Calochlaena straminea</em> (Dicksoniaceae)</span>'; '<span><em>Pteris tripartita</em> (Adiantaceae)</span>'</td>
 </tr>
 <tr>
 <td>Pn</td>
-<td>Hawaiian</td>
-<td><i>ʔamaʔu</i></td>
+<td><a href="../languages/hawaiian">Hawaiian</a></td>
+<td style="white-space: nowrap"><i>ʔamaʔu</i></td>
 <td>
 '<span>all species of an endemic genus of ferns (<em>Sadleria</em>), with trunk more or less evident</span>'</td>
 </tr>
@@ -1679,43 +1679,43 @@ In Wayan _balabala_ 'tree-ferns' contrasts with another primary taxon _diŋi_, a
 <table id="3-3-4-8-80-pt-iduna-maiwa">
 <tr>
 <td>PT</td>
-<td>Iduna</td>
-<td><i>maiwa</i></td>
+<td><a href="../languages/iduna">Iduna</a></td>
+<td style="white-space: nowrap"><i>maiwa</i></td>
 <td>
 '<span>(edible) ferns</span>'</td>
 </tr>
 <tr>
 <td>Mic</td>
-<td>Kosraean</td>
-<td><i>fa</i></td>
+<td><a href="../languages/kosraean">Kosraean</a></td>
+<td style="white-space: nowrap"><i>fa</i></td>
 <td>
 '<span>a kind of plant: fern</span>'</td>
 </tr>
 <tr>
 <td>Mic</td>
-<td>Mokilese</td>
-<td><i>pʷɔ</i></td>
+<td><a href="../languages/mokilese">Mokilese</a></td>
+<td style="white-space: nowrap"><i>pʷɔ</i></td>
 <td>
 '<span>fern</span>'</td>
 </tr>
 <tr>
 <td>Fij</td>
-<td>Wayan</td>
-<td><i>diŋi</i></td>
+<td><a href="../languages/wayan">Wayan</a></td>
+<td style="white-space: nowrap"><i>diŋi</i></td>
 <td>
 '<span>generic that includes at least the following two medium-sized terrestrial ferns: <em>Nephrolepis biserrata</em> (Davalliaceae), ladder fern, locally common in open mid-altitude forest; <em>Sphaerostephanos invisus</em> (Thelypteridaceae), common on dry grassy hillsides.</span>'</td>
 </tr>
 <tr>
 <td>Pn</td>
-<td>Samoan</td>
-<td><i>ʔoliʔolī</i></td>
+<td><a href="../languages/samoan">Samoan</a></td>
+<td style="white-space: nowrap"><i>ʔoliʔolī</i></td>
 <td>
 '<span>(i) general name given to large ferns; (ii) tree-fern (Also phila species)</span>'</td>
 </tr>
 <tr>
 <td>Pn</td>
-<td>Hawaiian</td>
-<td><i>kupukupu</i></td>
+<td><a href="../languages/hawaiian">Hawaiian</a></td>
+<td style="white-space: nowrap"><i>kupukupu</i></td>
 <td>
 '<span>general name for ferns on a single stem</span>' (<span>also name for sword fern</span>)</td>
 </tr>
@@ -1733,134 +1733,134 @@ A number of modern Oceanic languages have a category of plants that is glossed a
 <table id="3-3-4-8-81-nng-maposbuang-vav">
 <tr>
 <td>NNG</td>
-<td>Mapos Buang</td>
-<td><i>vavɔ̄ŋ</i></td>
+<td><a href="../languages/maposbuang">Mapos Buang</a></td>
+<td style="white-space: nowrap"><i>vavɔ̄ŋ</i></td>
 <td>
 '<span>scrub, brush, weeds</span>'</td>
 </tr>
 <tr>
 <td>NNG</td>
-<td>Labu</td>
-<td><i>wahe</i></td>
+<td><a href="../languages/labu">Labu</a></td>
+<td style="white-space: nowrap"><i>wahe</i></td>
 <td>
 '<span>weeds</span>'</td>
 </tr>
 <tr>
 <td>NNG</td>
-<td>Poeng</td>
-<td><i>kilanna</i></td>
+<td><a href="../languages/poeng">Poeng</a></td>
+<td style="white-space: nowrap"><i>kilanna</i></td>
 <td>
 '<span>weed; growing in old garden spot</span>'</td>
 </tr>
 <tr>
 <td>NNG</td>
-<td>Takia</td>
-<td><i>ud</i></td>
+<td><a href="../languages/takia">Takia</a></td>
+<td style="white-space: nowrap"><i>ud</i></td>
 <td>
 '<span>weed, wild grass (generic)</span>'</td>
 </tr>
 <tr>
 <td>NNG</td>
-<td>Mangap</td>
-<td><i>momotia</i></td>
+<td><a href="../languages/mangap">Mangap</a></td>
+<td style="white-space: nowrap"><i>momotia</i></td>
 <td>
 '<span>weed (N)</span>'</td>
 </tr>
 <tr>
 <td>PT</td>
-<td>Iduna</td>
-<td><i>boya</i></td>
+<td><a href="../languages/iduna">Iduna</a></td>
+<td style="white-space: nowrap"><i>boya</i></td>
 <td>
 '<span>smalll weeds</span>'</td>
 </tr>
 <tr>
 <td>PT</td>
-<td>Gumawana</td>
-<td><i>nauna</i></td>
+<td><a href="../languages/gumawana">Gumawana</a></td>
+<td style="white-space: nowrap"><i>nauna</i></td>
 <td>
 '<span>weeds, grass</span>'</td>
 </tr>
 <tr>
 <td>PT</td>
-<td>Misima</td>
-<td><i>mʷawín</i></td>
+<td><a href="../languages/misima">Misima</a></td>
+<td style="white-space: nowrap"><i>mʷawín</i></td>
 <td>
 '<span>grass; weeds, to have weeds</span>'</td>
 </tr>
 <tr>
 <td>MM</td>
-<td>Ramoaaina</td>
-<td><i>bual</i></td>
+<td><a href="../languages/ramoaaina">Ramoaaina</a></td>
+<td style="white-space: nowrap"><i>bual</i></td>
 <td>
 '<span>full of weeds</span>'</td>
 </tr>
 <tr>
 <td>MM</td>
-<td>Ramoaaina</td>
-<td><i>palep</i></td>
+<td><a href="../languages/ramoaaina">Ramoaaina</a></td>
+<td style="white-space: nowrap"><i>palep</i></td>
 <td>
 '<span>weeds, rubbish; in a plantation</span>'</td>
 </tr>
 <tr>
 <td>MM</td>
-<td>Teop</td>
-<td><i>subui</i></td>
+<td><a href="../languages/teop">Teop</a></td>
+<td style="white-space: nowrap"><i>subui</i></td>
 <td>
 '<span>weeds</span>'</td>
 </tr>
 <tr>
 <td>SES</td>
-<td>Gela</td>
-<td><i>makiri</i></td>
+<td><a href="../languages/gela">Gela</a></td>
+<td style="white-space: nowrap"><i>makiri</i></td>
 <td>
 '<span>smalll weeds in a garden</span>'</td>
 </tr>
 <tr>
 <td>SES</td>
-<td>Lau</td>
-<td><i>ʔoroʔoro</i></td>
+<td><a href="../languages/lau">Lau</a></td>
+<td style="white-space: nowrap"><i>ʔoroʔoro</i></td>
 <td>
 '<span>weeds, grass, anything small growing up</span>'</td>
 </tr>
 <tr>
 <td>SES</td>
-<td>Lau</td>
-<td><i>murua</i></td>
+<td><a href="../languages/lau">Lau</a></td>
+<td style="white-space: nowrap"><i>murua</i></td>
 <td>
 '<span>weeds and grass</span>'</td>
 </tr>
 <tr>
 <td>SES</td>
-<td>Kwaio</td>
-<td><i>fufulu</i></td>
+<td><a href="../languages/kwaio">Kwaio</a></td>
+<td style="white-space: nowrap"><i>fufulu</i></td>
 <td>
 '<span>weed, grass</span>'</td>
 </tr>
 <tr>
 <td>SES</td>
-<td>Kwara’ae</td>
-<td><i>laua</i></td>
+<td><a href="../languages/kwaraae">Kwara’ae</a></td>
+<td style="white-space: nowrap"><i>laua</i></td>
 <td>
 '<span>weeds, plants that can (and often should) be pulled out when they grow in places like gardens; seedlings, saplings</span>'</td>
 </tr>
 <tr>
 <td>Mic</td>
-<td>Mokilese</td>
-<td><i>tipʷtipʷ</i></td>
+<td><a href="../languages/mokilese">Mokilese</a></td>
+<td style="white-space: nowrap"><i>tipʷtipʷ</i></td>
 <td>
 '<span>grass, weeds; overgrown with grass or weeds, littered (with objects)</span>'</td>
 </tr>
 <tr>
 <td>Mic</td>
-<td>Trukese</td>
-<td><i>wəɾɨŋŋaw</i></td>
+<td><a href="../languages/trukese">Trukese</a></td>
+<td style="white-space: nowrap"><i>wəɾɨŋŋaw</i></td>
 <td>
 '<span>useless plant, weed</span>' (<span>cf. <em>wəɾɨ</em> 'bush, vegetation generally', <em>ŋŋaw</em> 'bad, ugly, unfitting, unsuitable'</span>)</td>
 </tr>
 <tr>
 <td>Pn</td>
-<td>Māori</td>
-<td><i>otaota</i></td>
+<td><a href="../languages/maori">Māori</a></td>
+<td style="white-space: nowrap"><i>otaota</i></td>
 <td>
 '<span>herbs in general, weeds, litter</span>'</td>
 </tr>

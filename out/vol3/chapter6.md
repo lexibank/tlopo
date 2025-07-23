@@ -61,7 +61,7 @@ The Proto Oceanic (POc) term for _Rhizophora_ species was perhaps POc _&ast;wako
 <table id="3-6-2-1-175-POc-wakot-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;waket</i>
 </td>
 <td>
@@ -70,7 +70,7 @@ The Proto Oceanic (POc) term for _Rhizophora_ species was perhaps POc _&ast;wako
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;wako(t)</i>
 </td>
 <td>
@@ -105,7 +105,7 @@ PWOc _&ast;baul_ perhaps denoted _Rhizophora_: its Tolai reflex, _baul_ 'mangrov
 <table id="3-6-2-1-175-PWOc-baul-a">
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;baul</i>
 </td>
 <td>
@@ -183,7 +183,7 @@ POc _&ast;toŋoR_ was fairly clearly the generic term for mangroves. It also see
 <table id="3-6-3-1-176-POc-toor-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;teŋeR</i>
 </td>
 <td>
@@ -192,7 +192,7 @@ POc _&ast;toŋoR_ was fairly clearly the generic term for mangroves. It also see
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;toŋoR</i>
 </td>
 <td>
@@ -287,7 +287,7 @@ POc _&ast;toŋoR_ was fairly clearly the generic term for mangroves. It also see
 </tr>
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;toŋoR</i>
 </td>
 <td>
@@ -350,7 +350,7 @@ POc _&ast;toŋoR_ was fairly clearly the generic term for mangroves. It also see
 </tr>
 <tr>
 <td><strong>PSV</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;na-doŋa(q)</i>
 </td>
 <td>
@@ -399,7 +399,7 @@ POc _&ast;toŋoR_ was fairly clearly the generic term for mangroves. It also see
 </tr>
 <tr>
 <td><strong>PCP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;toŋo</i>
 </td>
 <td>
@@ -485,7 +485,7 @@ The initial rounded bilabial of POc _&ast;(p,pʷ)awa(t)_ is reconstructed on the
 <table id="3-6-4-1-179-POc-ppawat-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;(p,pʷ)awa(t)</i>
 </td>
 <td>
@@ -549,7 +549,7 @@ The initial rounded bilabial of POc _&ast;(p,pʷ)awa(t)_ is reconstructed on the
 <table id="3-6-4-1-179-PCP-rewa-a">
 <tr>
 <td><strong>PCP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;rewa</i>
 </td>
 <td>
@@ -640,7 +640,7 @@ It is used in New Ireland to make propeller-like shark fishing floats ([Peekel 1
 <table id="3-6-4-2-180-POc-tui-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;tuiʔ</i>
 </td>
 <td>
@@ -649,7 +649,7 @@ It is used in New Ireland to make propeller-like shark fishing floats ([Peekel 1
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;tui</i>
 </td>
 <td>
@@ -730,7 +730,7 @@ _Excoecaria agallocha_ is a shrub or small tree with a thick trunk that mostly g
 <table id="3-6-4-3-181-POc-dotoq-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;dotoq</i>
 </td>
 <td>
@@ -774,7 +774,7 @@ _Excoecaria agallocha_ is a shrub or small tree with a thick trunk that mostly g
 </tr>
 <tr>
 <td><strong>PSV</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;na-tetaq</i>
 </td>
 <td>
@@ -842,7 +842,7 @@ The cognate set below has few members, but they are widespread enough to support
 <table id="3-6-4-4-182-POc-kayuqone-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;kayu qone</i>
 </td>
 <td>
@@ -871,7 +871,7 @@ The cognate set below has few members, but they are widespread enough to support
 <table id="3-6-4-4-182-ProtoSoutheastSolomonic-qoneqone-a">
 <tr>
 <td><strong>ProtoSoutheastSolomonic</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;(q)one-(q)one</i>
 </td>
 <td>
@@ -911,20 +911,20 @@ Final POc _&ast;-q_ of _&ast;nipaq_ is attested by the presence of paragogic _-i
 <table id="3-6-4-5-182-POc-nipaq-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;nipaq</i>
 </td>
 <td>
-'<span><em>Nypa fruticans</em></span>' (<a href="../sources/Wolff1994">Wolff1994: 532-533</a>)
+'<span><em>Nypa fruticans</em></span>' (<a href="../sources/Wolff1994">Wolff1994</a>: <span>532-533</span>)
 </td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;nipaq</i>
 </td>
 <td>
-'<span><em>Nypa fruticans</em></span>' (<a href="../sources/Chowning2001">Chowning2001: 84</a>)
+'<span><em>Nypa fruticans</em></span>' (<a href="../sources/Chowning2001">Chowning2001</a>: <span>84</span>)
 </td>
 </tr>
 <tr>
@@ -989,7 +989,7 @@ POc _&ast;tapi(l)_ is problematic because only the Muyuw reflex has a secure glo
 <table id="3-6-4-6-183-POc-tapil-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;tapi(l)</i>
 </td>
 <td>
@@ -1018,7 +1018,7 @@ POc _&ast;tapi(l)_ is problematic because only the Muyuw reflex has a secure glo
 <table id="3-6-4-6-183-PCP-legilegi-a">
 <tr>
 <td><strong>PCP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;legi-legi</i>
 </td>
 <td>
@@ -1042,7 +1042,7 @@ POc _&ast;tapi(l)_ is problematic because only the Muyuw reflex has a secure glo
 </tr>
 <tr>
 <td><strong>PPn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;leki-leki</i>
 </td>
 <td>

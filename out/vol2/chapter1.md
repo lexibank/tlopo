@@ -213,7 +213,7 @@ The orthography used here and in the POc reconstructions in this work is from [R
 
 <a id="p-13"></a>
 
-Table 1 shows two POc orthographies. The first was established by [Biggs](../sources/Biggs1965) ([1965](../sources/Biggs1965)), for Proto Eastern Oceanic, and [Grace](../sources/Grace1969) ([1969](../sources/Grace1969)), who applied it to Proto Oceanic, and has been used with a number of variants (separated by a slash) shown below. The second is the one generally used in this work, introduced by [Ross](../sources/Ross1988) ([1988](../sources/Ross1988)). The terms ‘oral grade’ and ‘nasal grade’ were used by [Grace](../sources/Grace1969) ([1969](../sources/Grace1969)) and have become conventional among Oceanic linguists to refer to the outcomes of certain sound changes that occurred between PMP and POc (see vol.1, Ch. 2).
+[Table 1](#table-1) shows two POc orthographies. The first was established by [Biggs](../sources/Biggs1965) ([1965](../sources/Biggs1965)), for Proto Eastern Oceanic, and [Grace](../sources/Grace1969) ([1969](../sources/Grace1969)), who applied it to Proto Oceanic, and has been used with a number of variants (separated by a slash) shown below. The second is the one generally used in this work, introduced by [Ross](../sources/Ross1988) ([1988](../sources/Ross1988)). The terms ‘oral grade’ and ‘nasal grade’ were used by [Grace](../sources/Grace1969) ([1969](../sources/Grace1969)) and have become conventional among Oceanic linguists to refer to the outcomes of certain sound changes that occurred between PMP and POc (see vol.1, Ch. 2).
 
 <a id="table-1"> </a>
 
@@ -282,7 +282,7 @@ Although there are accepted or standard orthographies for a number of the langua
 ### 4.3. Conventions used in representing reconstructions
 
 
-POc reconstructions, and also PWOc, PEOc and PNGOc reconstructions, are given in the orthography of [§3.4](../contributions/2-1#s-3-4). For reconstructions at higher-order interstages the orthographies are those used by Blust in his various publications and the[ ACD.](../sources/Blust1995) Reconstructions at lower- order interstages are given in the standard orthography adopted for data ([§4.2](../contributions/2-1#s-4-2)). Geraghty’s (1986) PCP orthography, for example, is based on Standard Fijian spelling, and is converted into our standard orthography in the same way as Fijian. Biggs and Clark’s PPn reconstructions are in any case written in an orthography identical to our standard. Bracketing and segmentation conventions in protoforms are shown in Table 2.
+POc reconstructions, and also PWOc, PEOc and PNGOc reconstructions, are given in the orthography of [§3.4](../contributions/2-1#s-3-4). For reconstructions at higher-order interstages the orthographies are those used by Blust in his various publications and the[ ACD.](../sources/Blust1995) Reconstructions at lower- order interstages are given in the standard orthography adopted for data ([§4.2](../contributions/2-1#s-4-2)). Geraghty’s (1986) PCP orthography, for example, is based on Standard Fijian spelling, and is converted into our standard orthography in the same way as Fijian. Biggs and Clark’s PPn reconstructions are in any case written in an orthography identical to our standard. Bracketing and segmentation conventions in protoforms are shown in [Table 2](#table-2).
 
 <a id="table-2"> </a>
 
@@ -296,7 +296,7 @@ POc reconstructions, and also PWOc, PEOc and PNGOc reconstructions, are given in
 | [x, y] | the item is reconstructable in two forms, one with x and one with y  |
 | x-y    | x and y are separate morphemes                                       |
 | x-     | x takes an enclitic or a suffix                                      |
-| ‹x›    | x is an infix                                                        |
+| ⟨x⟩    | x is an infix                                                        |
 
 It happens fairly often that the final consonant in a higher-order reconstructed etymon (e.g. _&ast;-R_ in PMP _&ast;kamaliR_ ‘men’s house’) is not evidenced in any Oceanic reflex. Often POc final consonants are regularly lost in all the languages from which reflexes are drawn, and we therefore have no evidence as to whether or not the final consonant was retained in the POc etymon in question. In such a case, since we know that final consonants were usually retained in POc, the consonant is reconstructed in brackets (e.g. POc _&ast;kamali(R)_).
 
@@ -332,4 +332,4 @@ We have mostly not indicated the POc word class to which a reconstruction belong
 
 [^9]:    This subgrouping may well prove to be somewhat inaccurate, especially with regard to the treatment of North/Central Vanuatu as a subgroup (see [Lynch 1995](../sources/Lynch1995)), but will not invalidate any reconstructions made here. The ‘Fijian’ grouping is used only for presentational purposes, and is not assumed to be a discrete subgroup within Central Pacific.
 
-[^10]: An argument that North/Central Vanuatu does not constitute a genealogical subgroup is made by [Lynch](../sources/Lynch1995) ([1995](../sources/Lynch1995)) and summarised in Lynch, Ross and Crowley (2002, Ch. 5). The argument that Fijian does not constitute a genealogical subgroup was made by [Geraghty](../sources/Geraghty1983) ([1983](../sources/Geraghty1983)) and is incorporated into [Figure 1](#fig-2-1), where ‘Fijian’ comprises Rotuman, the East Fijian dialects, and West Fijian (also a dialect network).
+[^10]: An argument that North/Central Vanuatu does not constitute a genealogical subgroup is made by [Lynch](../sources/Lynch1995) ([1995](../sources/Lynch1995)) and summarised in [Lynch et al.](../sources/Lynchetal2002) ([2002](../sources/Lynchetal2002), Ch. 5). The argument that Fijian does not constitute a genealogical subgroup was made by [Geraghty](../sources/Geraghty1983) ([1983](../sources/Geraghty1983)) and is incorporated into [Figure 1](#fig-2-1), where ‘Fijian’ comprises Rotuman, the East Fijian dialects, and West Fijian (also a dialect network).

@@ -70,7 +70,7 @@ The main disruptions to the regime described above are the seasonal reversals of
 
 It is clear from this account of wind systems in Austronesian speaking areas that people in different parts of the area experience somewhat different configurations of wind and season. It follows from this that during their spread through the region, Austronesian speakers encountered new weather conditions and had either to adapt old terms to new conditions or to add new terms to their vocabularies.
 
-Table 3 summarises the seasonal conditions pertaining in various Austronesian speaking areas. It is at best a crude summary, as local conditions may change considerably from one side of an island to the other, especially where orographic rain occurs. The locations are set out in very roughly the sequence in which I assume them (on the basis of [Figure 1](#fig-2-1)) to have been occupied by Austronesian speakers.
+[Table 3](#table-3) summarises the seasonal conditions pertaining in various Austronesian speaking areas. It is at best a crude summary, as local conditions may change considerably from one side of an island to the other, especially where orographic rain occurs. The locations are set out in very roughly the sequence in which I assume them (on the basis of [Figure 1](#fig-2-1)) to have been occupied by Austronesian speakers.
 
 I assume that Proto Malayo-Polynesian was spoken in the northerly part of the Philippines. Here the northeast trades prevail in the SHS, but are replaced by monsoonal southerlies in the SHW. On the larger islands this means that east-facing slopes receive orographic rain during the trades and convectional rains in the monsoon, whilst west-facing slopes get orographic rain during the monsoon and have drought during the trades ([Alip & Borlaza 1984](../sources/AlipandBorlaza1984)). During the monsoon typhoons often strike the northern and central islands, but [Benedek](../sources/Benedek1991) ([1991](../sources/Benedek1991):13) reports for the islands between the Philippines and Taiwan that there is sometimes a period when the sea is becalmed and the heat becomes intolerable.
 
@@ -134,7 +134,7 @@ The generic term for ‘wind’ in POc was _&ast;aŋin_, which continues PMP _&a
 <table id="2-5-4-1-126-POc-ain-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;haŋin</i>
 </td>
 <td>
@@ -143,7 +143,7 @@ The generic term for ‘wind’ in POc was _&ast;aŋin_, which continues PMP _&a
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;aŋin</i>
 </td>
 <td>
@@ -226,7 +226,7 @@ Three terms for winds of differing strengths are reconstructable. POc _&ast;jaŋ
 <table id="2-5-4-1-127-POc-jai-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;jaŋi</i>
 </td>
 <td>
@@ -274,7 +274,7 @@ Three terms for winds of differing strengths are reconstructable. POc _&ast;jaŋ
 <table id="2-5-4-1-127-POc-sau-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;sau</i>
 </td>
 <td>
@@ -282,7 +282,7 @@ Three terms for winds of differing strengths are reconstructable. POc _&ast;jaŋ
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;sau-ŋ(a)</i>
 </td>
 <td>
@@ -360,7 +360,7 @@ Three terms for winds of differing strengths are reconstructable. POc _&ast;jaŋ
 <table id="2-5-4-1-127-POc-murie-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;mur[i,e]</i>
 </td>
 <td>
@@ -430,29 +430,29 @@ The terms below may also reflect POc _&ast;mur[i,e]_, but with a change in meani
 <table id="2-5-4-1-127-nng-amara-omur">
 <tr>
 <td>NNG</td>
-<td>Amara</td>
-<td><i>o-mur</i></td>
+<td><a href="../languages/amara">Amara</a></td>
+<td style="white-space: nowrap"><i>o-mur</i></td>
 <td>
 '<span>southeast trade</span>'</td>
 </tr>
 <tr>
 <td>NNG</td>
-<td>Bing</td>
-<td><i>mur-mōriy</i></td>
+<td><a href="../languages/bing">Bing</a></td>
+<td style="white-space: nowrap"><i>mur-mōriy</i></td>
 <td>
 '<span>wind which blows strongly from the west, often causing damage</span>'</td>
 </tr>
 <tr>
 <td>PT</td>
-<td>Motu</td>
-<td><i>miri(gini)</i></td>
+<td><a href="../languages/motu">Motu</a></td>
+<td style="white-space: nowrap"><i>miri(gini)</i></td>
 <td>
 '<span>north wind</span>'</td>
 </tr>
 <tr>
 <td>PT</td>
-<td>Mekeo</td>
-<td><i>mili(kini)</i></td>
+<td><a href="../languages/mekeo">Mekeo</a></td>
+<td style="white-space: nowrap"><i>mili(kini)</i></td>
 <td>
 '<span>north wind</span>'</td>
 </tr>
@@ -468,7 +468,7 @@ Another term for wind was POc _&ast;mal(i,e)u_, but it is not possible to determ
 <table id="2-5-4-1-128-POc-malieu-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;mal(i,e)u</i>
 </td>
 <td>
@@ -542,7 +542,7 @@ In [Ross](../sources/Ross1995c) ([1995c](../sources/Ross1995c)) I wrote:
 <table id="2-5-4-1-128-POc-pariu-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;baRiuS</i>
 </td>
 <td>
@@ -550,7 +550,7 @@ In [Ross](../sources/Ross1995c) ([1995c](../sources/Ross1995c)) I wrote:
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;paRiu</i>
 </td>
 <td>
@@ -575,7 +575,7 @@ Three of these, _&ast;upi_, _&ast;ipu_ and _&ast;i(p,pʷ)i_, are clearly related
 <table id="2-5-4-1-129-POc-upi-a">
 <tr>
 <td><strong>PCEMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;upi</i>
 </td>
 <td>
@@ -584,7 +584,7 @@ Three of these, _&ast;upi_, _&ast;ipu_ and _&ast;i(p,pʷ)i_, are clearly related
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;upi</i>
 </td>
 <td>
@@ -697,7 +697,7 @@ In a number of NNG languages in the region of the Vitiaz Strait and the Huon Gul
 <table id="2-5-4-1-130-PNNG-upia-a">
 <tr>
 <td><strong>PNNG</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;upi-ŋ(a)</i>
 </td>
 <td>
@@ -740,7 +740,7 @@ In a number of NNG languages in the region of the Vitiaz Strait and the Huon Gul
 <table id="2-5-4-1-130-POc-ipu-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;ibut</i>
 </td>
 <td>
@@ -749,7 +749,7 @@ In a number of NNG languages in the region of the Vitiaz Strait and the Huon Gul
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;ipu</i>
 </td>
 <td>
@@ -804,7 +804,7 @@ It seems likely that the form _&ast;i(p,pʷ)i_ is the result of an idiosyncratic
 <table id="2-5-4-1-130-POc-ippi-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;i(p,pʷ)i</i>
 </td>
 <td>
@@ -849,7 +849,7 @@ Two other forms meaning ‘blow’ are also reconstructable. These are also form
 <table id="2-5-4-1-130-POc-ppusi-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;(p,pʷ)usi</i>
 </td>
 <td>
@@ -928,7 +928,7 @@ The initial _p-_ of the Pn items reflects POc _&ast;b-_ or _&ast;pʷ-_: hence th
 <table id="2-5-4-1-131-POc-puput-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;pu+put</i>
 </td>
 <td>
@@ -937,7 +937,7 @@ The initial _p-_ of the Pn items reflects POc _&ast;b-_ or _&ast;pʷ-_: hence th
 </tr>
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;putput</i>
 </td>
 <td>
@@ -945,7 +945,7 @@ The initial _p-_ of the Pn items reflects POc _&ast;b-_ or _&ast;pʷ-_: hence th
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;(pu)put</i>
 </td>
 <td>
@@ -995,7 +995,7 @@ A selection of data supporting the reconstruction of _&ast;raki_ follows.
 <table id="2-5-4-2-132-POc-raki-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;raki</i>
 </td>
 <td>
@@ -1103,7 +1103,7 @@ A selection of data supporting the reconstruction of _&ast;raki_ follows.
 </tr>
 <tr>
 <td><strong>PPn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;laki</i>
 </td>
 <td>
@@ -1173,7 +1173,7 @@ POc _&ast;apaRat_ ‘northwest wind’ has non-Oceanic cognates. It is descended
 <table id="2-5-4-2-133-PAn-sabarat-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;SabaRat</i>
 </td>
 <td>
@@ -1181,7 +1181,7 @@ POc _&ast;apaRat_ ‘northwest wind’ has non-Oceanic cognates. It is descended
 </tr>
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;habaRat</i>
 </td>
 <td>
@@ -1275,7 +1275,7 @@ POc _&ast;apaRat_ probably also denoted the accompanying wet season (SHS). The g
 <table id="2-5-4-2-133-POc-aparat-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;habaRat</i>
 </td>
 <td>
@@ -1284,7 +1284,7 @@ POc _&ast;apaRat_ probably also denoted the accompanying wet season (SHS). The g
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;apaRat</i>
 </td>
 <td>
@@ -1402,7 +1402,7 @@ POc _&ast;apaRat_ probably also denoted the accompanying wet season (SHS). The g
 </tr>
 <tr>
 <td><strong>PCP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;avā</i>
 </td>
 <td>
@@ -1478,22 +1478,22 @@ Related forms also occur in Southeast Solomonic and Micronesian languages, but a
 <table id="2-5-4-2-135-ses-arosi-worosi">
 <tr>
 <td>SES</td>
-<td>Arosi</td>
-<td><i>worosi</i></td>
+<td><a href="../languages/arosi">Arosi</a></td>
+<td style="white-space: nowrap"><i>worosi</i></td>
 <td>
 '<span>northwest gale</span>'</td>
 </tr>
 <tr>
 <td>SES</td>
-<td>'Are'are</td>
-<td><i>awarosi</i></td>
+<td><a href="../languages/areare">'Are'are</a></td>
+<td style="white-space: nowrap"><i>awarosi</i></td>
 <td>
 '<span>the northwest wind</span>'</td>
 </tr>
 <tr>
 <td>SES</td>
-<td>Sa'a</td>
-<td><i>awalosi</i></td>
+<td><a href="../languages/saa">Sa'a</a></td>
+<td style="white-space: nowrap"><i>awalosi</i></td>
 <td>
 '<span>northwest wind</span>'</td>
 </tr>
@@ -1504,22 +1504,22 @@ The Micronesian forms are odd in two ways. Firstly, if sound correspondences are
 <table id="2-5-4-2-135-mic-ponapean-nanpar">
 <tr>
 <td>Mic</td>
-<td>Ponapean</td>
-<td><i>(nan-)par</i></td>
+<td><a href="../languages/ponapean">Ponapean</a></td>
+<td style="white-space: nowrap"><i>(nan-)par</i></td>
 <td>
 '<span>tradewind season</span>'</td>
 </tr>
 <tr>
 <td>Mic</td>
-<td>Mortlockese</td>
-<td><i>paras</i></td>
+<td><a href="../languages/mortlockese">Mortlockese</a></td>
+<td style="white-space: nowrap"><i>paras</i></td>
 <td>
 '<span>rain that comes in due to wind</span>'</td>
 </tr>
 <tr>
 <td>Mic</td>
-<td>Woleaian</td>
-<td><i>paẓasa</i></td>
+<td><a href="../languages/woleaian">Woleaian</a></td>
+<td style="white-space: nowrap"><i>paẓasa</i></td>
 <td>
 '<span>tradewind</span>'</td>
 </tr>
@@ -1530,7 +1530,7 @@ Blust (ACD) takes it that PMP _&ast;habaRat_ ‘southwest monsoon season, wet se
 <table id="2-5-4-2-135-PMP-timur-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;timuR</i>
 </td>
 <td>
@@ -1593,7 +1593,7 @@ Blust (ACD) takes it that PMP _&ast;habaRat_ ‘southwest monsoon season, wet se
 <table id="2-5-4-2-136-POc-timur-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;timu(R)</i>
 </td>
 <td>
@@ -1657,7 +1657,7 @@ The ancestry of PPn _&ast;toŋa_ is unclear, and I return to this below. Data su
 <table id="2-5-4-2-136-PPn-toa-a">
 <tr>
 <td><strong>PPn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;toŋa</i>
 </td>
 <td>
@@ -1762,7 +1762,7 @@ PPn _&ast;tokelau_ ‘northwesterly quadrant, northwest winds’ reflects POc _&
 <table id="2-5-4-2-137-POc-tokalaur-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;tokalau(r)</i>
 </td>
 <td>
@@ -1816,7 +1816,7 @@ PPn _&ast;tokelau_ ‘northwesterly quadrant, northwest winds’ reflects POc _&
 </tr>
 <tr>
 <td><strong>PPn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;tokelau</i>
 </td>
 <td>
@@ -1915,22 +1915,22 @@ POc may also have inherited a semantically related term _&ast;toŋa-laur_, refle
 <table id="2-5-4-2-138-mm-roviana-toarauru">
 <tr>
 <td>MM</td>
-<td>Roviana</td>
-<td><i>toŋa-rauru</i></td>
+<td><a href="../languages/roviana">Roviana</a></td>
+<td style="white-space: nowrap"><i>toŋa-rauru</i></td>
 <td>
 '<span>wind from direction of Lauru (approx north to northwest)</span>'</td>
 </tr>
 <tr>
 <td>NCV</td>
-<td>Mota</td>
-<td><i>toŋa-lau</i></td>
+<td><a href="../languages/mota">Mota</a></td>
+<td style="white-space: nowrap"><i>toŋa-lau</i></td>
 <td>
 '<span>northwest wind</span>'</td>
 </tr>
 <tr>
 <td>NCV</td>
-<td>Raga</td>
-<td><i>toŋa-lau</i></td>
+<td><a href="../languages/raga">Raga</a></td>
+<td style="white-space: nowrap"><i>toŋa-lau</i></td>
 <td>
 '<span>wind from direction of Ambae, i.e. northwest wind</span>'</td>
 </tr>
@@ -1945,7 +1945,7 @@ POc _&ast;karak(a)_ seems to have referred to a strong southeast trade wind. Som
 <table id="2-5-4-2-138-POc-karaka-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;karak(a)</i>
 </td>
 <td>
@@ -2033,7 +2033,7 @@ Two other terms which apparently referred to the southeast trades are given belo
 <table id="2-5-4-2-139-POc-marau-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;marau</i>
 </td>
 <td>
@@ -2081,7 +2081,7 @@ Two other terms which apparently referred to the southeast trades are given belo
 <table id="2-5-4-2-139-PNGOc-yawana-a">
 <tr>
 <td><strong>PNGOc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;yawana</i>
 </td>
 <td>
@@ -2126,7 +2126,7 @@ One more term, _&ast;aqura_, seems to have served both as a generic wind term an
 <table id="2-5-4-2-139-POc-aqura-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;aqura</i>
 </td>
 <td>
@@ -2227,29 +2227,29 @@ The terms I have reconstructed above refer to wind directions and to seasons, so
 <table id="2-5-4-2-140-nng-kove-hai">
 <tr>
 <td>NNG</td>
-<td>Kove</td>
-<td><i>hai</i></td>
+<td><a href="../languages/kove">Kove</a></td>
+<td style="white-space: nowrap"><i>hai</i></td>
 <td>
 '<span>southeast trade, year</span>'</td>
 </tr>
 <tr>
 <td>NNG</td>
-<td>Bariai</td>
-<td><i>rai</i></td>
+<td><a href="../languages/bariai">Bariai</a></td>
+<td style="white-space: nowrap"><i>rai</i></td>
 <td>
 '<span>year</span>'</td>
 </tr>
 <tr>
 <td>NNG</td>
-<td>Lukep</td>
-<td><i>rai</i></td>
+<td><a href="../languages/lukep">Lukep</a></td>
+<td style="white-space: nowrap"><i>rai</i></td>
 <td>
 '<span>year</span>'</td>
 </tr>
 <tr>
 <td>Mic</td>
-<td>Woleaian</td>
-<td><i>ẓaxi</i></td>
+<td><a href="../languages/woleaian">Woleaian</a></td>
+<td style="white-space: nowrap"><i>ẓaxi</i></td>
 <td>
 '<span>year, age, summer season</span>'</td>
 </tr>
@@ -2260,15 +2260,15 @@ The terms I have reconstructed above refer to wind directions and to seasons, so
 <table id="2-5-4-2-140-mm-barok-awat">
 <tr>
 <td>MM</td>
-<td>Barok</td>
-<td><i>awat</i></td>
+<td><a href="../languages/barok">Barok</a></td>
+<td style="white-space: nowrap"><i>awat</i></td>
 <td>
 '<span>year</span>'</td>
 </tr>
 <tr>
 <td>MM</td>
-<td>Siar</td>
-<td><i>yahrat</i></td>
+<td><a href="../languages/siar">Siar</a></td>
+<td style="white-space: nowrap"><i>yahrat</i></td>
 <td>
 '<span>year</span>'</td>
 </tr>
@@ -2291,7 +2291,7 @@ The cognate set below indicates that speakers of several daughter languages adop
 <table id="2-5-5-None-140-POc-malino-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;linaw</i>
 </td>
 <td>
@@ -2300,7 +2300,7 @@ The cognate set below indicates that speakers of several daughter languages adop
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;ma-lino</i>
 </td>
 <td>
@@ -2392,7 +2392,7 @@ The cognate set below indicates that speakers of several daughter languages adop
 <table id="2-5-5-None-141-POc-madmarapu-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;(d,r)apu</i>
 </td>
 <td>
@@ -2401,7 +2401,7 @@ The cognate set below indicates that speakers of several daughter languages adop
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;[ma-d,ma-]rapu</i>
 </td>
 <td>
@@ -2453,7 +2453,7 @@ PEOc _&ast;ma-lua(s)_ ‘soft, gentle, (weather) calm’ is descended from POc _
 <table id="2-5-5-None-141-POc-maluas-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;ma-luas</i>
 </td>
 <td>
@@ -2486,7 +2486,7 @@ PEOc _&ast;ma-lua(s)_ ‘soft, gentle, (weather) calm’ is descended from POc _
 </tr>
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;ma-lua(s)</i>
 </td>
 <td>
@@ -2536,8 +2536,8 @@ PWOc _&ast;siwaRop_/_&ast;niwaRop_ ‘calm, peaceful’ may well have expressed 
 <table id="2-5-5-None-141-PWOc-siwarop-a">
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
-<td>
-<i>&ast;siwaRop, niwaRop</i>
+<td style="white-space: nowrap;">
+<i>&ast;siwaRop, &ast;niwaRop</i>
 </td>
 <td>
 '<span>(weather) calm, peaceful</span>'</td>
@@ -2615,7 +2615,7 @@ The locus of much of the weather was of course POc _&ast;laŋit_, the sky, and t
 <table id="2-5-5-2-142-POc-lait-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;laŋiC</i>
 </td>
 <td>
@@ -2624,7 +2624,7 @@ The locus of much of the weather was of course POc _&ast;laŋit_, the sky, and t
 </tr>
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;laŋit</i>
 </td>
 <td>
@@ -2632,7 +2632,7 @@ The locus of much of the weather was of course POc _&ast;laŋit_, the sky, and t
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;laŋit</i>
 </td>
 <td>
@@ -2770,7 +2770,7 @@ PNGOc _&ast;sabam_ ‘sky’ is also reconstructable. It is not clear how this c
 <table id="2-5-5-2-143-PNGOc-sabam-a">
 <tr>
 <td><strong>PNGOc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;sabam</i>
 </td>
 <td>
@@ -2830,7 +2830,7 @@ The generic term for ‘cloud’ in POc was _&ast;qaRoq_.
 <table id="2-5-5-2-143-POc-qaroq-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;qaRoq</i>
 </td>
 <td>
@@ -2915,7 +2915,7 @@ The four terms below each possibly denoted a type of cloud. POc _&ast;rodo(ŋ)_ 
 <table id="2-5-5-2-143-POc-rodo-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;rendeŋ</i>
 </td>
 <td>
@@ -2924,7 +2924,7 @@ The four terms below each possibly denoted a type of cloud. POc _&ast;rodo(ŋ)_ 
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;rodo(ŋ)</i>
 </td>
 <td>
@@ -2962,7 +2962,7 @@ The four terms below each possibly denoted a type of cloud. POc _&ast;rodo(ŋ)_ 
 <table id="2-5-5-2-143-PNGOc-gubarr-a">
 <tr>
 <td><strong>PNGOc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;guba(r,R)</i>
 </td>
 <td>
@@ -3018,7 +3018,7 @@ The four terms below each possibly denoted a type of cloud. POc _&ast;rodo(ŋ)_ 
 <table id="2-5-5-2-144-POc-ulu-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;ulu</i>
 </td>
 <td>
@@ -3061,7 +3061,7 @@ The four terms below each possibly denoted a type of cloud. POc _&ast;rodo(ŋ)_ 
 <table id="2-5-5-2-144-POc-bala-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;bala</i>
 </td>
 <td>
@@ -3101,7 +3101,7 @@ There are a number of reconstructable POc terms some of whose reflexes mean ‘c
 <table id="2-5-5-2-144-POc-rapun-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;Ra(m)bun</i>
 </td>
 <td>
@@ -3110,7 +3110,7 @@ There are a number of reconstructable POc terms some of whose reflexes mean ‘c
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;Rapu(n)</i>
 </td>
 <td>
@@ -3163,7 +3163,7 @@ There are a number of reconstructable POc terms some of whose reflexes mean ‘c
 </tr>
 <tr>
 <td><strong>PNCV</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;ma-Ravu</i>
 </td>
 <td>
@@ -3202,7 +3202,7 @@ The meanings of the set below are intriguing: their common denominator seems to 
 <table id="2-5-5-2-145-POc-bapo-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;bʷa(p)o</i>
 </td>
 <td>
@@ -3257,7 +3257,7 @@ The items below—POc _&ast;kapu(t)_/_&ast;kopu_ ‘low cloud, mist, fog’ and 
 <table id="2-5-5-2-145-POc-kaput-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;kabut</i>
 </td>
 <td>
@@ -3266,7 +3266,7 @@ The items below—POc _&ast;kapu(t)_/_&ast;kopu_ ‘low cloud, mist, fog’ and 
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;kapu(t)</i>
 </td>
 <td>
@@ -3326,22 +3326,22 @@ The Bali and Fijian forms below are problematic, as they reflect POc _&ast;kabu(
 <table id="2-5-5-2-145-mm-vitu-abuabu">
 <tr>
 <td>MM</td>
-<td>Vitu</td>
-<td><i>ɣabu-ɣabu</i></td>
+<td><a href="../languages/vitu">Vitu</a></td>
+<td style="white-space: nowrap"><i>ɣabu-ɣabu</i></td>
 <td>
 '<span>fog</span>'</td>
 </tr>
 <tr>
 <td>Fij</td>
-<td>Bauan</td>
-<td><i>kabu</i></td>
+<td><a href="../languages/bauanfijian">Bauan</a></td>
+<td style="white-space: nowrap"><i>kabu</i></td>
 <td>
 '<span>mist</span>'</td>
 </tr>
 <tr>
 <td>Fij</td>
-<td>Wayan</td>
-<td><i>kabu</i></td>
+<td><a href="../languages/wayan">Wayan</a></td>
+<td style="white-space: nowrap"><i>kabu</i></td>
 <td>
 (N) '<span>mist, haze, fog</span>'; (V) '<span>be covered in cloud, mist, fog</span>'</td>
 </tr>
@@ -3352,7 +3352,7 @@ It seems likely that &ast;kopu already occurred in POc as a doublet of _&ast;kap
 <table id="2-5-5-2-145-POc-kopu-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;kopu</i>
 </td>
 <td>
@@ -3423,7 +3423,7 @@ It seems likely that &ast;kopu already occurred in POc as a doublet of _&ast;kap
 <table id="2-5-5-2-146-POc-gapul-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;gapu(l)</i>
 </td>
 <td>
@@ -3493,7 +3493,7 @@ As if this were not already complicated enough, a further curiosity is the recon
 <table id="2-5-5-2-146-PNPn-kapuqa-a">
 <tr>
 <td><strong>PNPn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;kapuqa</i>
 </td>
 <td>
@@ -3539,7 +3539,7 @@ The most widely reflected POc word for ‘rain’ (both verb and noun) is _&ast;
 <table id="2-5-5-3-146-POc-qusan-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;quZaL</i>
 </td>
 <td>
@@ -3548,7 +3548,7 @@ The most widely reflected POc word for ‘rain’ (both verb and noun) is _&ast;
 </tr>
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;quZan</i>
 </td>
 <td>
@@ -3556,7 +3556,7 @@ The most widely reflected POc word for ‘rain’ (both verb and noun) is _&ast;
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;qusan</i>
 </td>
 <td>
@@ -3672,7 +3672,7 @@ The most widely reflected POc word for ‘rain’ (both verb and noun) is _&ast;
 <table id="2-5-5-3-147-POc-kadapur-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;[ka]dapuR</i>
 </td>
 <td>
@@ -3775,7 +3775,7 @@ The most widely reflected POc word for ‘rain’ (both verb and noun) is _&ast;
 <table id="2-5-5-3-147-PWOc-rrugu-a">
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;(rR)ugu</i>
 </td>
 <td>
@@ -3818,7 +3818,7 @@ A semantically related term was POc _&ast;bata_, which, to judge from a constell
 <table id="2-5-5-3-148-POc-bata-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;bata</i>
 </td>
 <td>
@@ -3866,7 +3866,7 @@ A semantically related term was POc _&ast;bata_, which, to judge from a constell
 </tr>
 <tr>
 <td><strong>PPn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;pata</i>
 </td>
 <td>
@@ -3901,7 +3901,7 @@ POc _&ast;(d,dr)im(a)-(d,dr)im(a)_ evidently meant ‘drizzle, light rain’. I 
 <table id="2-5-5-3-148-POc-ddrimaddrima-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;(d,dr)im(a)-(d,dr)im(a)</i>
 </td>
 <td>
@@ -3936,7 +3936,7 @@ In search of other terms associated in one way or another with rain, I tried to 
 <table id="2-5-5-3-148-PEOc-nuanua-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;nua-nua</i>
 </td>
 <td>
@@ -4024,7 +4024,7 @@ For ‘dew’, a few reflexes of a PMP term occur.
 <table id="2-5-5-3-149-POc-lamur-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;lamuR</i>
 </td>
 <td>
@@ -4033,7 +4033,7 @@ For ‘dew’, a few reflexes of a PMP term occur.
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;lamuR</i>
 </td>
 <td>
@@ -4074,7 +4074,7 @@ I have reconstructed five separate terms for ‘lightning’. POc _&ast;qu(s,j)i
 <table id="2-5-5-4-149-POc-qusjilak-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;qusilak</i>
 </td>
 <td>
@@ -4083,7 +4083,7 @@ I have reconstructed five separate terms for ‘lightning’. POc _&ast;qu(s,j)i
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;qu(s,j)ila(k)</i>
 </td>
 <td>
@@ -4141,7 +4141,7 @@ I have reconstructed five separate terms for ‘lightning’. POc _&ast;qu(s,j)i
 <table id="2-5-5-4-149-POc-ppilak-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;bilak</i>
 </td>
 <td>
@@ -4150,7 +4150,7 @@ I have reconstructed five separate terms for ‘lightning’. POc _&ast;qu(s,j)i
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;(p,pʷ)ilak</i>
 </td>
 <td>
@@ -4266,7 +4266,7 @@ I have reconstructed five separate terms for ‘lightning’. POc _&ast;qu(s,j)i
 <table id="2-5-5-4-150-POc-pitik-a">
 <tr>
 <td><strong>PCEMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;pitik</i>
 </td>
 <td>
@@ -4279,7 +4279,7 @@ I have reconstructed five separate terms for ‘lightning’. POc _&ast;qu(s,j)i
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;pitik</i>
 </td>
 <td>
@@ -4312,7 +4312,7 @@ I have reconstructed five separate terms for ‘lightning’. POc _&ast;qu(s,j)i
 <table id="2-5-5-4-150-POc-lapparr-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;la(p,pʷ)a(r,R)</i>
 </td>
 <td>
@@ -4378,7 +4378,7 @@ Despite the formal variations in the cognate set above, its members are regular 
 <table id="2-5-5-4-150-PNGOc-lamar-a">
 <tr>
 <td><strong>PNGOc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;lamaR</i>
 </td>
 <td>
@@ -4429,7 +4429,7 @@ Despite the formal variations in the cognate set above, its members are regular 
 <table id="2-5-5-4-151-POc-kilap-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;kila(p,b)</i>
 </td>
 <td>
@@ -4438,7 +4438,7 @@ Despite the formal variations in the cognate set above, its members are regular 
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;kilap</i>
 </td>
 <td>
@@ -4446,7 +4446,7 @@ Despite the formal variations in the cognate set above, its members are regular 
 </tr>
 <tr>
 <td><strong>PNNG</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;kila(m,p)</i>
 </td>
 <td>
@@ -4496,7 +4496,7 @@ POc appears to have had two basic roots for thunder, _&ast;kuru_ and _&ast;pʷar
 <table id="2-5-5-4-151-POc-kuru-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;guruq</i>
 </td>
 <td>
@@ -4505,8 +4505,8 @@ POc appears to have had two basic roots for thunder, _&ast;kuru_ and _&ast;pʷar
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
-<i>&ast;kuru, kururu</i>
+<td style="white-space: nowrap;">
+<i>&ast;kuru, &ast;kururu</i>
 </td>
 <td>
 '<span>thunder</span>'</td>
@@ -4553,7 +4553,7 @@ POc appears to have had two basic roots for thunder, _&ast;kuru_ and _&ast;pʷar
 <table id="2-5-5-4-151-POc-guru-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;guruq</i>
 </td>
 <td>
@@ -4562,8 +4562,8 @@ POc appears to have had two basic roots for thunder, _&ast;kuru_ and _&ast;pʷar
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
-<i>&ast;guru, gururu</i>
+<td style="white-space: nowrap;">
+<i>&ast;guru, &ast;gururu</i>
 </td>
 <td>
 '<span>thunder, make loud noise</span>'</td>
@@ -4663,8 +4663,8 @@ POc appears to have had two basic roots for thunder, _&ast;kuru_ and _&ast;pʷar
 <table id="2-5-5-4-152-POc-gurua-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
-<i>&ast;guru-ŋ(a), gururu-ŋ(a), gururu-aŋ</i>
+<td style="white-space: nowrap;">
+<i>&ast;guru-ŋ(a), &ast;gururu-ŋ(a), &ast;gururu-aŋ</i>
 </td>
 <td>
 '<span>thunder</span>'</td>
@@ -4716,8 +4716,8 @@ POc appears to have had two basic roots for thunder, _&ast;kuru_ and _&ast;pʷar
 <table id="2-5-5-4-152-POc-paraq-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
-<i>&ast;pʷaraq, pʷararaq</i>
+<td style="white-space: nowrap;">
+<i>&ast;pʷaraq, &ast;pʷararaq</i>
 </td>
 <td>
 '<span>thunder</span>'</td>
@@ -4814,7 +4814,7 @@ POc appears to have had two basic roots for thunder, _&ast;kuru_ and _&ast;pʷar
 <table id="2-5-5-4-152-POc-paraa-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;para-ŋ(a)</i>
 </td>
 <td>

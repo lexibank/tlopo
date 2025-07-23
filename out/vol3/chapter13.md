@@ -34,7 +34,7 @@ The POc term &ast;topu 'sugarcane, _Saccharum officinarum_' continues PAn &ast;t
 <table id="3-13-2-1-390-POc-topu-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;tebuS</i>
 </td>
 <td>
@@ -43,7 +43,7 @@ The POc term &ast;topu 'sugarcane, _Saccharum officinarum_' continues PAn &ast;t
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;topu</i>
 </td>
 <td>
@@ -335,7 +335,7 @@ cf. also:
 <table>
 <tr>
 <td>Mic</td>
-<td>Marshallese</td>
+<td><a href="../languages/marshallese">Marshallese</a></td>
 <td><i>taw</i></td>
 <td>
 '<span>sugarcane</span>' (<span>probably a loan, according to Bender et al. 2003</span>)</td>
@@ -389,7 +389,7 @@ Frantisek [Lichtenberk](../sources/Lichtenberk1998) ([1998](../sources/Lichtenbe
 <table id="3-13-2-2-393-POc-buaq-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;buaq</i>
 </td>
 <td>
@@ -398,7 +398,7 @@ Frantisek [Lichtenberk](../sources/Lichtenberk1998) ([1998](../sources/Lichtenbe
 </tr>
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;buaq</i>
 </td>
 <td>
@@ -406,7 +406,7 @@ Frantisek [Lichtenberk](../sources/Lichtenberk1998) ([1998](../sources/Lichtenbe
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;buaq</i>
 </td>
 <td>
@@ -618,7 +618,7 @@ The reconstruction of POc &ast;[pu-]pulu 'betel pepper, _Piper betle_' is taken 
 <table id="3-13-2-2-394-POc-pupulu-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;pu-pulu</i>
 </td>
 <td>
@@ -626,7 +626,7 @@ The reconstruction of POc &ast;[pu-]pulu 'betel pepper, _Piper betle_' is taken 
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;[pu-]pulu</i>
 </td>
 <td>
@@ -688,7 +688,7 @@ The reconstruction of POc &ast;[pu-]pulu 'betel pepper, _Piper betle_' is taken 
 <table id="3-13-2-2-395-ProtoMesoMelanesian-siqarra-a">
 <tr>
 <td><strong>ProtoMesoMelanesian</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;siqa(r,R)(a)</i>
 </td>
 <td>
@@ -750,7 +750,7 @@ cf. also:
 <table>
 <tr>
 <td>MM</td>
-<td>Marovo</td>
+<td><a href="../languages/marovo">Marovo</a></td>
 <td><i>hirata</i></td>
 <td>
 '<span><em>Piper betle</em></span>'</td>
@@ -780,7 +780,7 @@ The best supported hypothesis appears to be that _Piper methysticum_ is a domest
 <table id="3-13-2-2-396-POc-kawari-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;kawaRi</i>
 </td>
 <td>
@@ -820,7 +820,7 @@ The best supported hypothesis appears to be that _Piper methysticum_ is a domest
 </tr>
 <tr>
 <td><strong>PROc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;kawa</i>
 </td>
 <td>
@@ -828,7 +828,7 @@ The best supported hypothesis appears to be that _Piper methysticum_ is a domest
 </tr>
 <tr>
 <td><strong>PNCV</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;kea</i>
 </td>
 <td>
@@ -882,7 +882,7 @@ The best supported hypothesis appears to be that _Piper methysticum_ is a domest
 </tr>
 <tr>
 <td><strong>PCP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;kawa</i>
 </td>
 <td>
@@ -910,7 +910,7 @@ The best supported hypothesis appears to be that _Piper methysticum_ is a domest
 </tr>
 <tr>
 <td><strong>PPn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;kawa</i>
 </td>
 <td>
@@ -968,7 +968,7 @@ The denotations of PCP &ast;kawa as 'Piper sp.', '_Zingiber_ spp.' and 'fish-poi
 <table id="3-13-2-2-397-PNPn-kawakawaqatua-a">
 <tr>
 <td><strong>PNPn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;kawa-kawa qatua</i>
 </td>
 <td>
@@ -996,7 +996,7 @@ The denotations of PCP &ast;kawa as 'Piper sp.', '_Zingiber_ spp.' and 'fish-poi
 <table id="3-13-2-2-397-PPn-kawasasa-a">
 <tr>
 <td><strong>PPn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;kawa-sasa</i>
 </td>
 <td>
@@ -1024,7 +1024,7 @@ The denotations of PCP &ast;kawa as 'Piper sp.', '_Zingiber_ spp.' and 'fish-poi
 <table id="3-13-2-2-397-PPn-kawasusu-a">
 <tr>
 <td><strong>PPn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;kawa-susu</i>
 </td>
 <td>
@@ -1060,7 +1060,7 @@ The denotations of PCP &ast;kawa as 'Piper sp.', '_Zingiber_ spp.' and 'fish-poi
 <table id="3-13-2-2-398-PNPn-kawapui-a">
 <tr>
 <td><strong>PNPn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;kawa-pui</i>
 </td>
 <td>
@@ -1136,29 +1136,29 @@ The term reconstructed as _&ast;qauR_ 'bamboo spp.' below was probably the gener
 <table id="3-13-3-1-399-mm-tolai-kaur">
 <tr>
 <td>MM</td>
-<td>Tolai</td>
-<td><i>kaur</i></td>
+<td><a href="../languages/tolai">Tolai</a></td>
+<td style="white-space: nowrap"><i>kaur</i></td>
 <td>
 '<span><em>Bambusa vulgaris</em></span>'</td>
 </tr>
 <tr>
 <td>MM</td>
-<td>Tolai</td>
-<td><i>kaur lubaŋ</i></td>
+<td><a href="../languages/tolai">Tolai</a></td>
+<td style="white-space: nowrap"><i>kaur lubaŋ</i></td>
 <td>
 '<span><em>Bambusa vulgaris</em>, larger variety</span>'</td>
 </tr>
 <tr>
 <td>MM</td>
-<td>Tolai</td>
-<td><i>kaur goragoro</i></td>
+<td><a href="../languages/tolai">Tolai</a></td>
+<td style="white-space: nowrap"><i>kaur goragoro</i></td>
 <td>
 '<span><em>Schizostachyum lima</em></span>'</td>
 </tr>
 <tr>
 <td>MM</td>
-<td>Tolai</td>
-<td><i>kaur laur</i></td>
+<td><a href="../languages/tolai">Tolai</a></td>
+<td style="white-space: nowrap"><i>kaur laur</i></td>
 <td>
 '<span>thin-walled bamboo species</span>'</td>
 </tr>
@@ -1178,7 +1178,7 @@ Among languages which retain a reflex of the final consonant, Mussau and Petats 
 <table id="3-13-3-1-400-POc-qaur-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;qauR</i>
 </td>
 <td>
@@ -1187,7 +1187,7 @@ Among languages which retain a reflex of the final consonant, Mussau and Petats 
 </tr>
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;qauR</i>
 </td>
 <td>
@@ -1196,7 +1196,7 @@ Among languages which retain a reflex of the final consonant, Mussau and Petats 
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;qauR</i>
 </td>
 <td>
@@ -1424,7 +1424,7 @@ Reflexes of POc _&ast;bʷau_ 'bamboo' are largely complementary to those of _&as
 <table id="3-13-3-1-401-POc-bau-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;bʷau</i>
 </td>
 <td>
@@ -1534,8 +1534,8 @@ The two reconstructions below are better supported by non-Oceanic than by Oceani
 <table id="3-13-3-1-402-POc-bitu-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
-<i>&ast;bituŋ, pituŋ</i>
+<td style="white-space: nowrap;">
+<i>&ast;bituŋ, &ast;pituŋ</i>
 </td>
 <td>
 '<span>bamboo sp.</span>' (<a href="../sources/Blust1995">Blust1995</a>)
@@ -1543,7 +1543,7 @@ The two reconstructions below are better supported by non-Oceanic than by Oceani
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;bitu(ŋ)</i>
 </td>
 <td>
@@ -1552,7 +1552,7 @@ The two reconstructions below are better supported by non-Oceanic than by Oceani
 </tr>
 <tr>
 <td><strong>PCP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;bitu</i>
 </td>
 <td>
@@ -1581,7 +1581,7 @@ The two reconstructions below are better supported by non-Oceanic than by Oceani
 <table id="3-13-3-1-402-POc-botu-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;betuŋ</i>
 </td>
 <td>
@@ -1590,7 +1590,7 @@ The two reconstructions below are better supported by non-Oceanic than by Oceani
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;botu(ŋ)</i>
 </td>
 <td>
@@ -1608,7 +1608,7 @@ The two reconstructions below are better supported by non-Oceanic than by Oceani
 <table id="3-13-3-1-402-POc-kopu-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;kopu</i>
 </td>
 <td>
@@ -1646,7 +1646,7 @@ The only non-WOe evidence for POc _&ast;bʷele_ 'bamboo' is from Lonwolwol (NCV)
 <table id="3-13-3-1-403-POc-bele-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;bʷele</i>
 </td>
 <td>
@@ -1692,7 +1692,7 @@ Hus (Adm) _ʙu_ 'bamboo' corresponds regularly with the NCV items below, implyin
 <table id="3-13-3-1-403-POc-bue-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;bue</i>
 </td>
 <td>
@@ -1706,7 +1706,7 @@ Hus (Adm) _ʙu_ 'bamboo' corresponds regularly with the NCV items below, implyin
 </tr>
 <tr>
 <td><strong>PNCV</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;bue</i>
 </td>
 <td>
@@ -1799,7 +1799,7 @@ POc _&ast;tuRi-tuRi_ '_Aleurites moluccana_' is reconstructed below. It is quite
 <table id="3-13-3-2-404-POc-turituri-a">
 <tr>
 <td><strong>PEMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;tuRi-tuRi</i>
 </td>
 <td>
@@ -1808,7 +1808,7 @@ POc _&ast;tuRi-tuRi_ '_Aleurites moluccana_' is reconstructed below. It is quite
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;tuRi-tuRi</i>
 </td>
 <td>
@@ -1826,7 +1826,7 @@ POc _&ast;tuRi-tuRi_ '_Aleurites moluccana_' is reconstructed below. It is quite
 </tr>
 <tr>
 <td><strong>PCP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;tui-tui</i>
 </td>
 <td>
@@ -1911,7 +1911,7 @@ POc _&ast;malo_ probably denoted _Broussonetia papyrifera_, the tree which throu
 <table id="3-13-3-3-405-POc-malo-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;mal(u,aw)</i>
 </td>
 <td>
@@ -1919,7 +1919,7 @@ POc _&ast;malo_ probably denoted _Broussonetia papyrifera_, the tree which throu
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;malo</i>
 </td>
 <td>
@@ -1979,7 +1979,7 @@ POc _&ast;malo_ probably denoted _Broussonetia papyrifera_, the tree which throu
 </tr>
 <tr>
 <td><strong>PPn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;malo</i>
 </td>
 <td>
@@ -2010,7 +2010,7 @@ POc _&ast;malo_ probably denoted _Broussonetia papyrifera_, the tree which throu
 <table id="3-13-3-3-406-POc-mmase-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;(m,mʷ)ase</i>
 </td>
 <td>
@@ -2068,7 +2068,7 @@ The distributions of POc _&ast;ñoñu_ and _&ast;kurat_ are complementary: _&ast
 <table id="3-13-3-4-408-POc-nonu-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;ñoñu</i>
 </td>
 <td>
@@ -2162,7 +2162,7 @@ The distributions of POc _&ast;ñoñu_ and _&ast;kurat_ are complementary: _&ast
 <table id="3-13-3-4-408-POc-kurat-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;kurat</i>
 </td>
 <td>
@@ -2201,7 +2201,7 @@ The distributions of POc _&ast;ñoñu_ and _&ast;kurat_ are complementary: _&ast
 </tr>
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;kurat</i>
 </td>
 <td>
@@ -2270,7 +2270,7 @@ The distributions of POc _&ast;ñoñu_ and _&ast;kurat_ are complementary: _&ast
 </tr>
 <tr>
 <td><strong>PSV</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;na-ɣura(t,c)</i>
 </td>
 <td>
@@ -2365,7 +2365,7 @@ but I am unable to determine how they differed in meaning from each other or fro
 <table id="3-13-4-1-410-POc-tupa-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;tuba</i>
 </td>
 <td>
@@ -2374,7 +2374,7 @@ but I am unable to determine how they differed in meaning from each other or fro
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;tupa</i>
 </td>
 <td>
@@ -2459,7 +2459,7 @@ but I am unable to determine how they differed in meaning from each other or fro
 </tr>
 <tr>
 <td><strong>PSV</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;(i)tuv</i>
 </td>
 <td>
@@ -2505,7 +2505,7 @@ PMP _&ast;bunat_ is reconstructed on the basis of the Oceanic data here and Boto
 <table id="3-13-4-1-410-POc-punat-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;bunat</i>
 </td>
 <td>
@@ -2513,7 +2513,7 @@ PMP _&ast;bunat_ is reconstructed on the basis of the Oceanic data here and Boto
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;puna(t)</i>
 </td>
 <td>
@@ -2566,7 +2566,7 @@ PWOc _&ast;(m,mʷ)ali_ (incorrectly given as _&ast;maRi_ in [vol. 1, ch.8, §7](
 <table id="3-13-4-1-411-PWOc-mmali-a">
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;(m,mʷ)ali</i>
 </td>
 <td>
@@ -2606,7 +2606,7 @@ PWOc _&ast;(m,mʷ)ali_ (incorrectly given as _&ast;maRi_ in [vol. 1, ch.8, §7](
 <table id="3-13-4-1-411-PROc-vuba-a">
 <tr>
 <td><strong>PROc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;vuba</i>
 </td>
 <td>
@@ -2614,11 +2614,11 @@ PWOc _&ast;(m,mʷ)ali_ (incorrectly given as _&ast;maRi_ in [vol. 1, ch.8, §7](
 </tr>
 <tr>
 <td><strong>PSV</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;na-vup</i>
 </td>
 <td>
-'<span>k.o. vine</span>' (<a href="../sources/Lynch2001c">Lynch2001c: 236</a>)
+'<span>k.o. vine</span>' (<a href="../sources/Lynch2001c">Lynch2001c</a>: <span>236</span>)
 </td>
 </tr>
 <tr>
@@ -2633,7 +2633,7 @@ PWOc _&ast;(m,mʷ)ali_ (incorrectly given as _&ast;maRi_ in [vol. 1, ch.8, §7](
 </tr>
 <tr>
 <td><strong>PMic</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;upa</i>
 </td>
 <td>
@@ -2699,7 +2699,7 @@ There are two reconstructions, POc _&ast;yaŋo_ and PEOc _&ast;re(ŋ,ŋʷ)a_. Th
 <table id="3-13-5-1-412-POc-yao-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;yaŋo</i>
 </td>
 <td>
@@ -2798,7 +2798,7 @@ The root above was the source of the POc term for 'yellow', _&ast;yaŋo-yaŋo_:
 <table id="3-13-5-1-413-POc-yaoyao-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;yaŋo-yaŋo</i>
 </td>
 <td>
@@ -2867,11 +2867,11 @@ The root above was the source of the POc term for 'yellow', _&ast;yaŋo-yaŋo_:
 <table id="3-13-5-1-413-PEOc-rerea-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;[re]reŋʷa</i>
 </td>
 <td>
-'<span>yellow material, prepared turmeric(?)</span>' (<a href="../sources/Biggs1965">Biggs1965: _*reŋa_</a>)
+'<span>yellow material, prepared turmeric(?)</span>' (<a href="../sources/Biggs1965">Biggs1965</a>: <span><em>*reŋa</em></span>)
 </td>
 </tr>
 <tr>
@@ -2964,7 +2964,7 @@ Two POc terms are reconstructed below. The gloss of the first, _&ast;laqia_, rem
 <table id="3-13-5-2-414-POc-laqia-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;laqia</i>
 </td>
 <td>
@@ -2972,7 +2972,7 @@ Two POc terms are reconstructed below. The gloss of the first, _&ast;laqia_, rem
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;laqia</i>
 </td>
 <td>
@@ -3091,7 +3091,7 @@ PMP _&ast;badak_ is tentatively reconstructed below on the basis of the Tolai an
 <table id="3-13-5-2-415-POc-parak-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;badak</i>
 </td>
 <td>
@@ -3099,7 +3099,7 @@ PMP _&ast;badak_ is tentatively reconstructed below on the basis of the Tolai an
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;para(k)</i>
 </td>
 <td>
@@ -3192,7 +3192,7 @@ Three other etyma are reconstructed below: POc _&ast;jiRi_, _&ast;kaRi(q)a_ and 
 <table id="3-13-6-4-418-PWOc-marre-a">
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;mʷa(r,R)e</i>
 </td>
 <td>
@@ -3272,14 +3272,14 @@ cf. also:
 <table>
 <tr>
 <td>SV</td>
-<td>Anejom̃</td>
+<td><a href="../languages/anejom">Anejom̃</a></td>
 <td><i>na-mraθ</i></td>
 <td>
 '<span><em>Codiaeum variegatum</em></span>'</td>
 </tr>
 <tr>
 <td>Fij</td>
-<td>Wayan</td>
+<td><a href="../languages/wayan">Wayan</a></td>
 <td><i>ŋʷali</i></td>
 <td>
 '<span>croton, <em>Codiaeum variegatum</em></span>'</td>
@@ -3290,7 +3290,7 @@ cf. also:
 <table id="3-13-6-4-418-POc-jiri-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;siRi</i>
 </td>
 <td>
@@ -3299,7 +3299,7 @@ cf. also:
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;jiRi</i>
 </td>
 <td>
@@ -3503,7 +3503,7 @@ cf. also:
 </tr>
 <tr>
 <td><strong>PCP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;jĩ</i>
 </td>
 <td>
@@ -3586,7 +3586,7 @@ Medial parenthesised _&ast;-q-_ is reconstructed in POc _&ast;kaRi(q)a_ on the a
 <table id="3-13-6-4-419-POc-kariqa-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;kaRi(q)a</i>
 </td>
 <td>
@@ -3679,7 +3679,7 @@ cf. also:
 <table>
 <tr>
 <td>MM</td>
-<td>Vitu</td>
+<td><a href="../languages/vitu">Vitu</a></td>
 <td><i>kariɣa</i></td>
 <td>
 '<span>rattan</span>'</td>
@@ -3693,7 +3693,7 @@ cf. also:
 <table id="3-13-6-4-420-POc-jajal-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;jajal</i>
 </td>
 <td>
@@ -3826,7 +3826,7 @@ The leaves are used for covering and sealing the stone oven because of their thi
 <table id="3-13-6-5-421-POc-paqo-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;paqo</i>
 </td>
 <td>
@@ -3879,11 +3879,11 @@ The leaves are used for covering and sealing the stone oven because of their thi
 <table id="3-13-6-5-421-PEOc-rako-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;rako</i>
 </td>
 <td>
-'<span><em>Heliconia</em> sp., usually <em>Heliconia indica</em></span>' (<a href="../sources/Lynch2004a">Lynch2004a: PSOc _*rau_</a>)
+'<span><em>Heliconia</em> sp., usually <em>Heliconia indica</em></span>' (<a href="../sources/Lynch2004a">Lynch2004a</a>: <span>PSOc <em>*rau</em></span>)
 </td>
 </tr>
 <tr>
@@ -3930,7 +3930,7 @@ The forms listed below are clearly cognate, but it is not clear whether or how m
 <table id="3-13-6-6-422-POc-malak-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;mʷalak</i>
 </td>
 <td>
@@ -3948,7 +3948,7 @@ The forms listed below are clearly cognate, but it is not clear whether or how m
 </tr>
 <tr>
 <td><strong>PSOc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;mʷalak</i>
 </td>
 <td>
@@ -4006,7 +4006,7 @@ Whistler provides names for _Benincasa hispida_, listed below, which allow us to
 <table id="3-13-7-2-424-PCP-vaou-a">
 <tr>
 <td><strong>PCP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;vaŋ(o,u)</i>
 </td>
 <td>
@@ -4073,8 +4073,8 @@ This finding is not at odds with the historical fact that the modern pumpkin was
 <table id="3-13-7-3-425-EarlyOceanic-waluq-a">
 <tr>
 <td><strong>EarlyOceanic</strong></td><td> </td>
-<td>
-<i>&ast;waluq, [w]aruq</i>
+<td style="white-space: nowrap;">
+<i>&ast;waluq, &ast;[w]aruq</i>
 </td>
 <td>
 '<span>pumpkin, <em>Cucurbita moschata</em> ?</span>'</td>
@@ -4126,7 +4126,7 @@ This finding is not at odds with the historical fact that the modern pumpkin was
 </tr>
 <tr>
 <td><strong>PSV</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;na-r(o,u)r(o,u)(q)</i>
 </td>
 <td>
@@ -4166,16 +4166,16 @@ Shown in parentheses below are irregular phonological developments, implying tha
 <table id="3-13-7-4-426-POc-katimoun-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;[ka]timun</i>
 </td>
 <td>
-'<span>cucurbit (generic); cucumber, <em>Cucumis sativus</em></span>' (<a href="../sources/Dempwolff1938">Dempwolff1938: _*timun_</a>)
+'<span>cucurbit (generic); cucumber, <em>Cucumis sativus</em></span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>: <span><em>*timun</em></span>)
 </td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;[ka]tim(o,u)n</i>
 </td>
 <td>

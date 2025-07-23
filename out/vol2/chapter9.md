@@ -336,7 +336,7 @@ All Polynesian reflexes point back to PPn _&ast;pō_ (for expected _&ast;poŋi_,
 <table id="2-9-2-2-305-POc-boi-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;beRŋi</i>
 </td>
 <td>
@@ -345,7 +345,7 @@ All Polynesian reflexes point back to PPn _&ast;pō_ (for expected _&ast;poŋi_,
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;boŋi</i>
 </td>
 <td>
@@ -643,7 +643,7 @@ All Polynesian reflexes point back to PPn _&ast;pō_ (for expected _&ast;poŋi_,
 </tr>
 <tr>
 <td><strong>PPn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;pō</i>
 </td>
 <td>
@@ -714,7 +714,7 @@ The word for ‘night’ in a number of Oceanic languages reflects POc _&ast;rod
 <table id="2-9-2-2-308-POc-rodrom-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;dem-dem</i>
 </td>
 <td>
@@ -722,7 +722,7 @@ The word for ‘night’ in a number of Oceanic languages reflects POc _&ast;rod
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;rodrom</i>
 </td>
 <td>
@@ -858,7 +858,7 @@ The two sets below probably do not reflect POc _&ast;rodrom_. Rather, _&ast;rodr
 <table id="2-9-2-2-308-POc-marom-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;ma-edem</i>
 </td>
 <td>
@@ -866,7 +866,7 @@ The two sets below probably do not reflect POc _&ast;rodrom_. Rather, _&ast;rodr
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;marom</i>
 </td>
 <td>
@@ -920,7 +920,7 @@ The POc term which specifically denoted daylight was _&ast;raqani_, reconstructe
 <table id="2-9-2-2-309-POc-raqani-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;daqaNi</i>
 </td>
 <td>
@@ -929,7 +929,7 @@ The POc term which specifically denoted daylight was _&ast;raqani_, reconstructe
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;raqani</i>
 </td>
 <td>
@@ -1049,8 +1049,8 @@ The primary meaning of POc _&ast;qaco_ was ‘sun’, but it was also used for �
 <table id="2-9-2-2-309-POc-qaco-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
-<td>
-<i>&ast;qajaw, qalejaw</i>
+<td style="white-space: nowrap;">
+<i>&ast;qajaw, &ast;qalejaw</i>
 </td>
 <td>
 '<span>sun, daylight</span>' (<a href="../sources/Blust1995">Blust1995</a>)
@@ -1058,7 +1058,7 @@ The primary meaning of POc _&ast;qaco_ was ‘sun’, but it was also used for �
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;qaco</i>
 </td>
 <td>
@@ -1184,7 +1184,7 @@ The primary meaning of POc _&ast;qaco_ was ‘sun’, but it was also used for �
 <table id="2-9-2-2-310-POc-sinar-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;sinaR</i>
 </td>
 <td>
@@ -1193,7 +1193,7 @@ The primary meaning of POc _&ast;qaco_ was ‘sun’, but it was also used for �
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;sinaR</i>
 </td>
 <td>
@@ -1284,7 +1284,7 @@ The POc term for the first few hours of daylight was _&ast;boŋi-boŋi_, self-ev
 <table id="2-9-2-2-310-POc-boiboi-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;boŋi-boŋi</i>
 </td>
 <td>
@@ -1347,7 +1347,7 @@ The POc term for the first few hours of daylight was _&ast;boŋi-boŋi_, self-ev
 </tr>
 <tr>
 <td><strong>PPn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;poŋi-poŋi</i>
 </td>
 <td>
@@ -1418,7 +1418,7 @@ POc _&ast;puko_ ‘morning’ is only distributed over a certain area of Oceania
 <table id="2-9-2-2-311-POc-puko-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;puko</i>
 </td>
 <td>
@@ -1574,7 +1574,7 @@ Others have a noun phrase whose head is ‘sun, daylight’, modified by ‘big�
 <table id="2-9-2-2-312-PROc-qasoqatea-a">
 <tr>
 <td><strong>PROc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;qaso-qatea</i>
 </td>
 <td>
@@ -1658,7 +1658,7 @@ Just one term is reconstructable for this period of the day, POc _&ast;Rapi_.
 <table id="2-9-2-2-313-POc-rapi-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;Rabi</i>
 </td>
 <td>
@@ -1667,8 +1667,8 @@ Just one term is reconstructable for this period of the day, POc _&ast;Rapi_.
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
-<i>&ast;Rapi, Rapi-Rapi</i>
+<td style="white-space: nowrap;">
+<i>&ast;Rapi, &ast;Rapi-Rapi</i>
 </td>
 <td>
 '<span>(N, V) late afternoon and evening, from about 3 p.m. to sunset</span>'</td>
@@ -1932,7 +1932,7 @@ There are also Micronesian reflexes. These are not listed above because they sho
 <table id="2-9-2-2-313-PMic-fakafi-a">
 <tr>
 <td><strong>PMic</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;fakāfi</i>
 </td>
 <td>
@@ -1992,7 +1992,7 @@ POc _&ast;pulan_ ‘moon’ also meant ‘month’. The reconstruction here is r
 <table id="2-9-2-3-315-POc-pulan-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;bulaN</i>
 </td>
 <td>
@@ -2001,7 +2001,7 @@ POc _&ast;pulan_ ‘moon’ also meant ‘month’. The reconstruction here is r
 </tr>
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;bulan</i>
 </td>
 <td>
@@ -2010,7 +2010,7 @@ POc _&ast;pulan_ ‘moon’ also meant ‘month’. The reconstruction here is r
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;pulan</i>
 </td>
 <td>
@@ -2086,7 +2086,7 @@ As a verb, POc _&ast;sinaR_ ‘sun, shine’ (Ch. 6, p.163; above, p.310) has gi
 <table id="2-9-2-3-315-PPn-masina-a">
 <tr>
 <td><strong>PPn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;mā-sina</i>
 </td>
 <td>
@@ -2142,29 +2142,29 @@ The denotation of the first visible phase often makes reference to the moon’s 
 <table id="2-9-2-3-316-pt-motu-huadoai">
 <tr>
 <td>PT</td>
-<td>Motu</td>
-<td><i>hua doɣaɣi</i></td>
+<td><a href="../languages/motu">Motu</a></td>
+<td style="white-space: nowrap"><i>hua doɣaɣi</i></td>
 <td>
 '<span>new moon</span>' (<span><em>doɣaɣi</em> ‘crescent shaped pearl shell ornament’</span>)</td>
 </tr>
 <tr>
 <td>MM</td>
-<td>Nakanai</td>
-<td><i>mapa-le-gileme</i></td>
+<td><a href="../languages/nakanai">Nakanai</a></td>
+<td style="white-space: nowrap"><i>mapa-le-gileme</i></td>
 <td>
 '<span>moon when it is small</span>' (<span>lit. ‘payment for Gileme’: the reference is to a goldlip shell used in brideprice</span>)</td>
 </tr>
 <tr>
 <td>MM</td>
-<td>Nakanai</td>
-<td><i>kalisu</i></td>
+<td><a href="../languages/nakanai">Nakanai</a></td>
+<td style="white-space: nowrap"><i>kalisu</i></td>
 <td>
 '<span>noseplug of mother-of pearl; new moon</span>'</td>
 </tr>
 <tr>
 <td>SES</td>
-<td>Arosi</td>
-<td><i>siʔe-dahi</i></td>
+<td><a href="../languages/arosi">Arosi</a></td>
+<td style="white-space: nowrap"><i>siʔe-dahi</i></td>
 <td>
 '<span>a phase of the moon</span>' (<span><em>siʔe</em> ‘rub fire’ or ‘stripes’, <em>dahi</em> ‘crescent shaped ornament made from gold-lipped pearlshell’</span>)</td>
 </tr>
@@ -2178,29 +2178,29 @@ Other descriptive terms also occur:
 <table id="2-9-2-3-317-pt-kiriwina-kapatu">
 <tr>
 <td>PT</td>
-<td>Kilivila</td>
-<td><i>kapatu</i></td>
+<td><a href="../languages/kilivila">Kilivila</a></td>
+<td style="white-space: nowrap"><i>kapatu</i></td>
 <td>
 '<span>new moon</span>' (<span>-kapatu ‘close, become small’</span>)</td>
 </tr>
 <tr>
 <td>SES</td>
-<td>Gela</td>
-<td><i>rau ni lei     </i></td>
+<td><a href="../languages/gela">Gela</a></td>
+<td style="white-space: nowrap"><i>rau ni lei     </i></td>
 <td>
 '<span>thin sickle of young moon, new moon</span>' (<span>‘blade of grass, <em>Imperata cylindrica</em>’</span>)</td>
 </tr>
 <tr>
 <td>SES</td>
-<td>Gela</td>
-<td><i>vula taŋeu     </i></td>
+<td><a href="../languages/gela">Gela</a></td>
+<td style="white-space: nowrap"><i>vula taŋeu     </i></td>
 <td>
 '<span>crescent moon</span>' (<span><em>vula</em> ‘moon’, <em>taŋeu</em> ‘split’</span>)</td>
 </tr>
 <tr>
 <td>Fij</td>
-<td>Wayan</td>
-<td><i>tāgaga ni vula </i></td>
+<td><a href="../languages/wayan">Wayan</a></td>
+<td style="white-space: nowrap"><i>tāgaga ni vula </i></td>
 <td>
 '<span>horns of the moon</span>' (<span><em>tāgaga</em> ‘forked top piece of mast of traditional canoe’</span>)</td>
 </tr>
@@ -2211,7 +2211,7 @@ Other languages refer to what was apparently the same phase as ‘the young moon
 <table id="2-9-2-3-317-POc-pulanpaqoru-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;pulan paqoRu</i>
 </td>
 <td>
@@ -2256,22 +2256,22 @@ Some languages have a term which means, literally, ‘unripe moon’. This evide
 <table id="2-9-2-3-317-pt-kiriwina-tubukonatubugeguda">
 <tr>
 <td>PT</td>
-<td>Kilivila</td>
-<td><i>tubukona tubu-geguda</i></td>
+<td><a href="../languages/kilivila">Kilivila</a></td>
+<td style="white-space: nowrap"><i>tubukona tubu-geguda</i></td>
 <td>
 '<span>first quarter</span>' (<span><em>tubukona</em> ‘moon’, <em>tubu</em> ‘grow’, geguda ‘unripe’</span>)</td>
 </tr>
 <tr>
 <td>PT</td>
-<td>Motu</td>
-<td><i>hua karukaru</i></td>
+<td><a href="../languages/motu">Motu</a></td>
+<td style="white-space: nowrap"><i>hua karukaru</i></td>
 <td>
 '<span>young moon</span>' (<span><em>hua</em> ‘moon’, <em>karukaru</em> ‘undercooked, not fully ripe’</span>)</td>
 </tr>
 <tr>
 <td>Pn</td>
-<td>Niuean</td>
-<td><i>mahina pula mui</i></td>
+<td><a href="../languages/niuean">Niuean</a></td>
+<td style="white-space: nowrap"><i>mahina pula mui</i></td>
 <td>
 '<span>new moon, first quarter</span>' (<span><em>mahina</em> ‘moon’, <em>pula</em> ‘rise’,<em> mui</em> ‘unripe’</span>)</td>
 </tr>
@@ -2282,15 +2282,15 @@ Mwotlap, where we know with reasonable certainly that the moon phases are roughl
 <table id="2-9-2-3-317-adm-drehet-purekxek">
 <tr>
 <td>Adm</td>
-<td>Drehet</td>
-<td><i>puŋ rekxek</i></td>
+<td><a href="../languages/drehet">Drehet</a></td>
+<td style="white-space: nowrap"><i>puŋ rekxek</i></td>
 <td>
 '<span>moon phases: 1st and 3rd quarters</span>' (<span><em>puŋ</em> ‘moon’, <em>rekxek</em> ‘a quarter, a piece’</span>)</td>
 </tr>
 <tr>
 <td>NCV</td>
-<td>Mwotlap</td>
-<td><i>no-wol ɣaytɛ-ɣi</i></td>
+<td><a href="../languages/mwotlap">Mwotlap</a></td>
+<td style="white-space: nowrap"><i>no-wol ɣaytɛ-ɣi</i></td>
 <td>
 '<span>one-third moon</span>' (<span><em>wol</em> ‘moon’, <em>ɣayte</em> ‘half, piece’</span>)</td>
 </tr>
@@ -2301,8 +2301,8 @@ Maringe has a term with an apparently similar meaning to Mwotlap:
 <table id="2-9-2-3-317-mm-maringe-kafa">
 <tr>
 <td>MM</td>
-<td>Maringe</td>
-<td><i>kʰafa</i></td>
+<td><a href="../languages/maringe">Maringe</a></td>
+<td style="white-space: nowrap"><i>kʰafa</i></td>
 <td>
 '<span>moon between new and half moon</span>'</td>
 </tr>
@@ -2324,7 +2324,7 @@ Probably the main seasons for POc speakers living in northwest Melanesia were me
 <table id="2-9-2-4-318-POc-raki-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;raki</i>
 </td>
 <td>
@@ -2447,7 +2447,7 @@ Probably the main seasons for POc speakers living in northwest Melanesia were me
 <table id="2-9-2-4-318-POc-aparat-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;habaRat</i>
 </td>
 <td>
@@ -2456,7 +2456,7 @@ Probably the main seasons for POc speakers living in northwest Melanesia were me
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;apaRat</i>
 </td>
 <td>
@@ -2569,43 +2569,43 @@ The terms I have reconstructed above refer to wind directions and to seasons. A 
 <table id="2-9-2-4-319-nng-kove-hai">
 <tr>
 <td>NNG</td>
-<td>Kove</td>
-<td><i>hai</i></td>
+<td><a href="../languages/kove">Kove</a></td>
+<td style="white-space: nowrap"><i>hai</i></td>
 <td>
 '<span>southeast trade, year</span>'</td>
 </tr>
 <tr>
 <td>NNG</td>
-<td>Bariai</td>
-<td><i>rai</i></td>
+<td><a href="../languages/bariai">Bariai</a></td>
+<td style="white-space: nowrap"><i>rai</i></td>
 <td>
 '<span>year</span>'</td>
 </tr>
 <tr>
 <td>NNG</td>
-<td>Lukep</td>
-<td><i>rai</i></td>
+<td><a href="../languages/lukep">Lukep</a></td>
+<td style="white-space: nowrap"><i>rai</i></td>
 <td>
 '<span>year</span>'</td>
 </tr>
 <tr>
 <td>Mic</td>
-<td>Woleaian</td>
-<td><i>ẓaxi</i></td>
+<td><a href="../languages/woleaian">Woleaian</a></td>
+<td style="white-space: nowrap"><i>ẓaxi</i></td>
 <td>
 '<span>year, age, summer season</span>'</td>
 </tr>
 <tr>
 <td>MM</td>
-<td>Barok</td>
-<td><i>awat</i></td>
+<td><a href="../languages/barok">Barok</a></td>
+<td style="white-space: nowrap"><i>awat</i></td>
 <td>
 '<span>year</span>'</td>
 </tr>
 <tr>
 <td>MM</td>
-<td>Siar</td>
-<td><i>yahrat</i></td>
+<td><a href="../languages/siar">Siar</a></td>
+<td style="white-space: nowrap"><i>yahrat</i></td>
 <td>
 '<span>year</span>'</td>
 </tr>
@@ -2616,7 +2616,7 @@ In [Ross](../sources/Ross1995c) ([1995c](../sources/Ross1995c)) I wrote, ‘Ther
 <table id="2-9-2-4-319-POc-taqun-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;taqun</i>
 </td>
 <td>
@@ -2625,7 +2625,7 @@ In [Ross](../sources/Ross1995c) ([1995c](../sources/Ross1995c)) I wrote, ‘Ther
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;taqun</i>
 </td>
 <td>
@@ -2657,12 +2657,12 @@ In [Ross](../sources/Ross1995c) ([1995c](../sources/Ross1995c)) I wrote, ‘Ther
 '<span>season</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/patpatar">Patpatar</a></td><td><i>t<in>ahon, t<in>ohon</i></td>
+<td>MM</td><td><a href="../languages/patpatar">Patpatar</a></td><td><i>t⟨in⟩ahon, t⟨in⟩ohon</i></td>
 <td>
 '<span>year</span>' (<span>‹in› marks a nominalisation: vol. 1. p.33</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td><i>t<in>əwon</i></td>
+<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td><i>t⟨in⟩əwon</i></td>
 <td>
 '<span>year</span>' (<span>‹in› marks a nominalisation: vol. 1. p.33</span>)</td>
 </tr>
@@ -2795,7 +2795,7 @@ The reconstructions below are repeated from Chapter 8, but only reflexes with a 
 <table id="2-9-3-2-322-POc-muqa-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;muqa-</i>
 </td>
 <td>
@@ -2803,7 +2803,7 @@ The reconstructions below are repeated from Chapter 8, but only reflexes with a 
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;muqa</i>
 </td>
 <td>
@@ -2811,8 +2811,8 @@ The reconstructions below are repeated from Chapter 8, but only reflexes with a 
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
-<i>&ast;i muqa, qa-muqa, muqa-muqa</i>
+<td style="white-space: nowrap;">
+<i>&ast;i muqa, &ast;qa-muqa, &ast;muqa-muqa</i>
 </td>
 <td>
 '<span>in front, formerly</span>' (<span>p.257</span>)</td>
@@ -2874,7 +2874,7 @@ The reconstructions below are repeated from Chapter 8, but only reflexes with a 
 </tr>
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;muga</i>
 </td>
 <td>
@@ -2922,7 +2922,7 @@ The reconstructions below are repeated from Chapter 8, but only reflexes with a 
 <table id="2-9-3-2-322-POc-muri-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;ma-udehi</i>
 </td>
 <td>
@@ -2931,7 +2931,7 @@ The reconstructions below are repeated from Chapter 8, but only reflexes with a 
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;muri[-]</i>
 </td>
 <td>
@@ -2939,8 +2939,8 @@ The reconstructions below are repeated from Chapter 8, but only reflexes with a 
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
-<i>&ast;i muri, muri-muri</i>
+<td style="white-space: nowrap;">
+<i>&ast;i muri, &ast;muri-muri</i>
 </td>
 <td>
 '<span>at the back, later</span>' (<span>p.261</span>)</td>
@@ -3070,7 +3070,7 @@ The reconstructions below are repeated from Chapter 8, but only reflexes with a 
 <table id="2-9-3-2-323-POc-burit-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;burit</i>
 </td>
 <td>
@@ -3079,7 +3079,7 @@ The reconstructions below are repeated from Chapter 8, but only reflexes with a 
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;burit</i>
 </td>
 <td>
@@ -3087,7 +3087,7 @@ The reconstructions below are repeated from Chapter 8, but only reflexes with a 
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;i burit</i>
 </td>
 <td>
@@ -3114,7 +3114,7 @@ It is hard to avoid the conclusion that _&ast;tuqaRi_ ‘(be) long ago; old (of 
 <table id="2-9-3-2-323-POc-tuqari-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;tuqaRi</i>
 </td>
 <td>
@@ -3200,64 +3200,64 @@ By distances within a day, I mean expressions corresponding to English ‘last n
 <table id="2-9-3-3-323-adm-drehet-kumi">
 <tr>
 <td>Adm</td>
-<td>Drehet</td>
-<td><i>kumʷiŋ</i></td>
+<td><a href="../languages/drehet">Drehet</a></td>
+<td style="white-space: nowrap"><i>kumʷiŋ</i></td>
 <td>
 '<span>now, today</span>'</td>
 </tr>
 <tr>
 <td>Adm</td>
-<td>Drehet</td>
-<td><i>piŋ</i></td>
+<td><a href="../languages/drehet">Drehet</a></td>
+<td style="white-space: nowrap"><i>piŋ</i></td>
 <td>
 '<span>night</span>'</td>
 </tr>
 <tr>
 <td>Adm</td>
-<td>Drehet</td>
-<td><i>piŋ kumʷiŋ</i></td>
+<td><a href="../languages/drehet">Drehet</a></td>
+<td style="white-space: nowrap"><i>piŋ kumʷiŋ</i></td>
 <td>
 '<span>tonight</span>'</td>
 </tr>
 <tr>
 <td>PT</td>
-<td>Ubir</td>
-<td><i>ari</i></td>
+<td><a href="../languages/ubir">Ubir</a></td>
+<td style="white-space: nowrap"><i>ari</i></td>
 <td>
 '<span>now, today</span>'</td>
 </tr>
 <tr>
 <td>PT</td>
-<td>Ubir</td>
-<td><i>fom</i></td>
+<td><a href="../languages/ubir">Ubir</a></td>
+<td style="white-space: nowrap"><i>fom</i></td>
 <td>
 '<span>night</span>'</td>
 </tr>
 <tr>
 <td>PT</td>
-<td>Ubir</td>
-<td><i>ari-fom</i></td>
+<td><a href="../languages/ubir">Ubir</a></td>
+<td style="white-space: nowrap"><i>ari-fom</i></td>
 <td>
 '<span>tonight</span>'</td>
 </tr>
 <tr>
 <td>PT</td>
-<td>Kilivila</td>
-<td><i>lagaila</i></td>
+<td><a href="../languages/kilivila">Kilivila</a></td>
+<td style="white-space: nowrap"><i>lagaila</i></td>
 <td>
 '<span>today</span>'</td>
 </tr>
 <tr>
 <td>PT</td>
-<td>Kilivila</td>
-<td><i>bogi</i></td>
+<td><a href="../languages/kilivila">Kilivila</a></td>
+<td style="white-space: nowrap"><i>bogi</i></td>
 <td>
 '<span>night</span>'</td>
 </tr>
 <tr>
 <td>PT</td>
-<td>Kilivila</td>
-<td><i>lagaila bogi</i></td>
+<td><a href="../languages/kilivila">Kilivila</a></td>
+<td style="white-space: nowrap"><i>lagaila bogi</i></td>
 <td>
 '<span>tonight</span>'</td>
 </tr>
@@ -3268,7 +3268,7 @@ There are a few languages where _&ast;qa-_ is prefixed to a part of the day to f
 <table id="2-9-3-3-323-PPn-qanapo-a">
 <tr>
 <td><strong>PPn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;qana-pō</i>
 </td>
 <td>
@@ -3328,7 +3328,7 @@ The POc base for ‘yesterday’ was _&ast;ñoRap_. A few reflexes reflect accre
 <table id="2-9-3-3-325-POc-norap-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;ñeRab</i>
 </td>
 <td>
@@ -3336,7 +3336,7 @@ The POc base for ‘yesterday’ was _&ast;ñoRap_. A few reflexes reflect accre
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;ñoRap</i>
 </td>
 <td>
@@ -3549,7 +3549,7 @@ The Southern Vanuatu members of the set below reflect a Proto South Vanuatu form
 <table id="2-9-3-3-326-POc-nanorap-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;na-ñoRap</i>
 </td>
 <td>
@@ -3677,22 +3677,22 @@ There seem to be at least two other variants on this form. Certain Papuan Tip la
 <table id="2-9-3-3-327-pt-tawala-lolowa">
 <tr>
 <td>PT</td>
-<td>Tawala</td>
-<td><i>lolowa</i></td>
+<td><a href="../languages/tawala">Tawala</a></td>
+<td style="white-space: nowrap"><i>lolowa</i></td>
 <td>
 '<span>before, (a few) days back</span>'</td>
 </tr>
 <tr>
 <td>PT</td>
-<td>Dobu</td>
-<td><i>lowa</i></td>
+<td><a href="../languages/dobu">Dobu</a></td>
+<td style="white-space: nowrap"><i>lowa</i></td>
 <td>
 '<span>day before yesterday</span>'</td>
 </tr>
 <tr>
 <td>PT</td>
-<td>Kilivila</td>
-<td><i>lova</i></td>
+<td><a href="../languages/kilivila">Kilivila</a></td>
+<td style="white-space: nowrap"><i>lova</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
@@ -3705,57 +3705,57 @@ The forms below reflect Proto NCV _&ast;na-novi_ ‘yesterday’. This contrasts
 <table id="2-9-3-3-327-ncv-raga-ninovi">
 <tr>
 <td>NCV</td>
-<td>Raga</td>
-<td><i>ninovi</i></td>
+<td><a href="../languages/raga">Raga</a></td>
+<td style="white-space: nowrap"><i>ninovi</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
 <td>NCV</td>
-<td>Nokuku</td>
-<td><i>nonovi</i></td>
+<td><a href="../languages/nokuku">Nokuku</a></td>
+<td style="white-space: nowrap"><i>nonovi</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
 <td>NCV</td>
-<td>Kiai</td>
-<td><i>nanovi</i></td>
+<td><a href="../languages/kiai">Kiai</a></td>
+<td style="white-space: nowrap"><i>nanovi</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
 <td>NCV</td>
-<td>Tamambo</td>
-<td><i>(na)nanovi</i></td>
+<td><a href="../languages/tamambo">Tamambo</a></td>
+<td style="white-space: nowrap"><i>(na)nanovi</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
 <td>NCV</td>
-<td>Lonwolwol</td>
-<td><i>nono</i></td>
+<td><a href="../languages/lonwolwol">Lonwolwol</a></td>
+<td style="white-space: nowrap"><i>nono</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
 <td>NCV</td>
-<td>Namakir</td>
-<td><i>nanov</i></td>
+<td><a href="../languages/namakir">Namakir</a></td>
+<td style="white-space: nowrap"><i>nanov</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
 <td>NCV</td>
-<td>Nguna</td>
-<td><i>nanova</i></td>
+<td><a href="../languages/nguna">Nguna</a></td>
+<td style="white-space: nowrap"><i>nanova</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
 <td>NCV</td>
-<td>Tolomako</td>
-<td><i>na novi</i></td>
+<td><a href="../languages/tolomako">Tolomako</a></td>
+<td style="white-space: nowrap"><i>na novi</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
@@ -3766,7 +3766,7 @@ The term below reflects POc _&ast;boŋi_ ‘night, day of twenty-four hours’ p
 <table id="2-9-3-3-327-POc-naboi-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;na-boŋi</i>
 </td>
 <td>
@@ -3838,56 +3838,56 @@ cf. also:
 <table>
 <tr>
 <td>NNG</td>
-<td>Kairiru</td>
+<td><a href="../languages/kairiru">Kairiru</a></td>
 <td><i>(ra)buŋ</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
 <td>NNG</td>
-<td>Hote</td>
+<td><a href="../languages/hote">Hote</a></td>
 <td><i>(wak)buk</i></td>
 <td>
 '<span>yesterday</span>' (<span><em>wak</em> &lt; POc <em>*qaco</em> ‘sun’</span>)</td>
 </tr>
 <tr>
 <td>PT</td>
-<td>Tawala</td>
+<td><a href="../languages/tawala">Tawala</a></td>
 <td><i>pom</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
 <td>MM</td>
-<td>Siar</td>
+<td><a href="../languages/siar">Siar</a></td>
 <td><i>(la)buŋ</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
 <td>MM</td>
-<td>Hahon</td>
+<td><a href="../languages/hahon">Hahon</a></td>
 <td><i>(ro)bon</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
 <td>SES</td>
-<td>Gela</td>
+<td><a href="../languages/gela">Gela</a></td>
 <td><i>(i)boŋi</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
 <td>NCV</td>
-<td>Port Sandwich</td>
+<td><a href="../languages/portsandwich">Port Sandwich</a></td>
 <td><i>(xi)ᵐboŋ</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
 <td>NCV</td>
-<td>Labo</td>
+<td><a href="../languages/labo">Labo</a></td>
 <td><i>(lo)ᵐbun</i></td>
 <td>
 '<span>yesterday</span>'</td>
@@ -3903,57 +3903,57 @@ A few Western Oceanic terms for ‘yesterday’ reflect POc _&ast;raqani_ ‘day
 <table id="2-9-3-3-328-nng-sio-walani">
 <tr>
 <td>NNG</td>
-<td>Sio</td>
-<td><i>wa-lani</i></td>
+<td><a href="../languages/sio">Sio</a></td>
+<td style="white-space: nowrap"><i>wa-lani</i></td>
 <td>
 (ADV) '<span>day before yesterday</span>'</td>
 </tr>
 <tr>
 <td>NNG</td>
-<td>Wogeo</td>
-<td><i>ra-ran</i></td>
+<td><a href="../languages/wogeo">Wogeo</a></td>
+<td style="white-space: nowrap"><i>ra-ran</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
 <td>PT</td>
-<td>Sinaugoro</td>
-<td><i>ɣwa-laɣani</i></td>
+<td><a href="../languages/sinaugoro">Sinaugoro</a></td>
+<td style="white-space: nowrap"><i>ɣwa-laɣani</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
 <td>PT</td>
-<td>Maopa</td>
-<td><i>va-raɣani</i></td>
+<td><a href="../languages/maopa">Maopa</a></td>
+<td style="white-space: nowrap"><i>va-raɣani</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
 <td>PT</td>
-<td>Motu</td>
-<td><i>va-rani</i></td>
+<td><a href="../languages/motu">Motu</a></td>
+<td style="white-space: nowrap"><i>va-rani</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
 <td>PT</td>
-<td>Roro</td>
-<td><i>ua-rani</i></td>
+<td><a href="../languages/roro">Roro</a></td>
+<td style="white-space: nowrap"><i>ua-rani</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
 <td>PT</td>
-<td>Kuni</td>
-<td><i>ua-nani</i></td>
+<td><a href="../languages/kuni">Kuni</a></td>
+<td style="white-space: nowrap"><i>ua-nani</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
 <td>PT</td>
-<td>Mekeo</td>
-<td><i>a-ŋani</i></td>
+<td><a href="../languages/mekeo">Mekeo</a></td>
+<td style="white-space: nowrap"><i>a-ŋani</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
@@ -3964,7 +3964,7 @@ The term below is clearly the same root as _&ast;Rapi_/_&ast;Rapi-Rapi_ ‘late 
 <table id="2-9-3-3-328-POc-irapi-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;i Rapi</i>
 </td>
 <td>
@@ -3972,7 +3972,7 @@ The term below is clearly the same root as _&ast;Rapi_/_&ast;Rapi-Rapi_ ‘late 
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;na-Rapi</i>
 </td>
 <td>
@@ -3980,7 +3980,7 @@ The term below is clearly the same root as _&ast;Rapi_/_&ast;Rapi-Rapi_ ‘late 
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;qa-na-Rapi</i>
 </td>
 <td>
@@ -4072,14 +4072,14 @@ cf. also:
 <table>
 <tr>
 <td>SES</td>
-<td>Longgu</td>
+<td><a href="../languages/longgu">Longgu</a></td>
 <td><i>(ŋa)lavi</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
 <td>Fij</td>
-<td>Wayan</td>
+<td><a href="../languages/wayan">Wayan</a></td>
 <td><i>(ni)avi</i></td>
 <td>
 '<span>yesterday</span>'</td>
@@ -4099,120 +4099,120 @@ We might expect that just as POc _&ast;na-boŋi_ (p.327), with the past formativ
 <table id="2-9-3-3-329-adm-drehet-nekepi">
 <tr>
 <td>Adm</td>
-<td>Drehet</td>
-<td><i>(neke)piŋ</i></td>
+<td><a href="../languages/drehet">Drehet</a></td>
+<td style="white-space: nowrap"><i>(neke)piŋ</i></td>
 <td>
 (ADV) '<span>tomorrow</span>'</td>
 </tr>
 <tr>
 <td>Adm</td>
-<td>Lou</td>
-<td><i>(ti)peŋ</i></td>
+<td><a href="../languages/lou">Lou</a></td>
+<td style="white-space: nowrap"><i>(ti)peŋ</i></td>
 <td>
 '<span>tomorrow</span>'</td>
 </tr>
 <tr>
 <td>Adm</td>
-<td>Nyindrou</td>
-<td><i>(na)biŋi</i></td>
+<td><a href="../languages/nyindrou">Nyindrou</a></td>
+<td style="white-space: nowrap"><i>(na)biŋi</i></td>
 <td>
 '<span>tomorrow</span>'</td>
 </tr>
 <tr>
 <td>NNG</td>
-<td>Malalamai</td>
-<td><i>boŋ(o)</i></td>
+<td><a href="../languages/malalamai">Malalamai</a></td>
+<td style="white-space: nowrap"><i>boŋ(o)</i></td>
 <td>
 '<span>tomorrow</span>'</td>
 </tr>
 <tr>
 <td>NNG</td>
-<td>Bing</td>
-<td><i>boŋ(sag)</i></td>
+<td><a href="../languages/bing">Bing</a></td>
+<td style="white-space: nowrap"><i>boŋ(sag)</i></td>
 <td>
 '<span>tomorrow</span>'</td>
 </tr>
 <tr>
 <td>NNG</td>
-<td>Mindiri</td>
-<td><i>bum(pɔ)</i></td>
+<td><a href="../languages/mindiri">Mindiri</a></td>
+<td style="white-space: nowrap"><i>bum(pɔ)</i></td>
 <td>
 '<span>tomorrow</span>'</td>
 </tr>
 <tr>
 <td>NNG</td>
-<td>Bilibil</td>
-<td><i>boi(lap)</i></td>
+<td><a href="../languages/bilibil">Bilibil</a></td>
+<td style="white-space: nowrap"><i>boi(lap)</i></td>
 <td>
 '<span>tomorrow</span>'</td>
 </tr>
 <tr>
 <td>NNG</td>
-<td>Gedaged</td>
-<td><i>boŋ(anip)</i></td>
+<td><a href="../languages/gedaged">Gedaged</a></td>
+<td style="white-space: nowrap"><i>boŋ(anip)</i></td>
 <td>
 '<span>tomorrow</span>'</td>
 </tr>
 <tr>
 <td>NNG</td>
-<td>Takia</td>
-<td><i>boŋ</i></td>
+<td><a href="../languages/takia">Takia</a></td>
+<td style="white-space: nowrap"><i>boŋ</i></td>
 <td>
 '<span>tomorrow</span>'</td>
 </tr>
 <tr>
 <td>NNG</td>
-<td>Matukar</td>
-<td><i>bo(ip)</i></td>
+<td><a href="../languages/matukar">Matukar</a></td>
+<td style="white-space: nowrap"><i>bo(ip)</i></td>
 <td>
 '<span>tomorrow</span>'</td>
 </tr>
 <tr>
 <td>NNG</td>
-<td>Sera</td>
-<td><i>puiŋ(eteik)</i></td>
+<td><a href="../languages/sera">Sera</a></td>
+<td style="white-space: nowrap"><i>puiŋ(eteik)</i></td>
 <td>
 '<span>tomorrow</span>'</td>
 </tr>
 <tr>
 <td>PT</td>
-<td>Iduna</td>
-<td><i>bogi(yadi)</i></td>
+<td><a href="../languages/iduna">Iduna</a></td>
+<td style="white-space: nowrap"><i>bogi(yadi)</i></td>
 <td>
 '<span>tomorrow</span>'</td>
 </tr>
 <tr>
 <td>PT</td>
-<td>Muyuw</td>
-<td><i>(nu)bweig</i></td>
+<td><a href="../languages/muyuw">Muyuw</a></td>
+<td style="white-space: nowrap"><i>(nu)bweig</i></td>
 <td>
 '<span>tomorrow</span>'</td>
 </tr>
 <tr>
 <td>PT</td>
-<td>Sinaugoro</td>
-<td><i>boi(nani)</i></td>
+<td><a href="../languages/sinaugoro">Sinaugoro</a></td>
+<td style="white-space: nowrap"><i>boi(nani)</i></td>
 <td>
 (ADV) '<span>tomorrow</span>'</td>
 </tr>
 <tr>
 <td>NCV</td>
-<td>Paamese</td>
-<td><i>(visu)voŋ</i></td>
+<td><a href="../languages/paamese">Paamese</a></td>
+<td style="white-space: nowrap"><i>(visu)voŋ</i></td>
 <td>
 '<span>tomorrow</span>'</td>
 </tr>
 <tr>
 <td>NCV</td>
-<td>Namakir</td>
-<td><i>(paʔa)bog</i></td>
+<td><a href="../languages/namakir">Namakir</a></td>
+<td style="white-space: nowrap"><i>(paʔa)bog</i></td>
 <td>
 '<span>tomorrow</span>'</td>
 </tr>
 <tr>
 <td>Mic</td>
-<td>Kiribatese</td>
-<td><i>(niŋā)boŋ</i></td>
+<td><a href="../languages/kiribatese">Kiribatese</a></td>
+<td style="white-space: nowrap"><i>(niŋā)boŋ</i></td>
 <td>
 '<span>tomorrow</span>'</td>
 </tr>
@@ -4223,7 +4223,7 @@ We also find reduplicated reflexes of _&ast;boŋi_, but I take these to be refle
 <table id="2-9-3-3-329-POc-iboiboi-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;i boŋi-boŋi</i>
 </td>
 <td>
@@ -4231,7 +4231,7 @@ We also find reduplicated reflexes of _&ast;boŋi_, but I take these to be refle
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;qa-boŋi-boŋi</i>
 </td>
 <td>
@@ -4311,7 +4311,7 @@ POc _&ast;ma-pua_ ‘tomorrow’ is reconstructable from the rather skewed cogna
 <table id="2-9-3-3-330-POc-mapua-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;ma-pua</i>
 </td>
 <td>
@@ -4381,7 +4381,7 @@ POc _&ast;ma-raqani_ was presumably originally a verb meaning ‘become light’
 <table id="2-9-3-3-330-POc-maraqani-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;ma-raqani</i>
 </td>
 <td>
@@ -4433,35 +4433,35 @@ cf. also:
 <table>
 <tr>
 <td>SES</td>
-<td>Longgu</td>
+<td><a href="../languages/longgu">Longgu</a></td>
 <td><i>dañi</i></td>
 <td>
 [V] '<span>tomorrow; daylight</span>'</td>
 </tr>
 <tr>
 <td>SES</td>
-<td>Sa'a</td>
+<td><a href="../languages/saa">Sa'a</a></td>
 <td><i>i deni</i></td>
 <td>
 '<span>tomorrow</span>'</td>
 </tr>
 <tr>
 <td>SES</td>
-<td>'Are'are</td>
+<td><a href="../languages/areare">'Are'are</a></td>
 <td><i>itani</i></td>
 <td>
 '<span>tomorrow</span>'</td>
 </tr>
 <tr>
 <td>NCV</td>
-<td>Sakao</td>
+<td><a href="../languages/sakao">Sakao</a></td>
 <td><i>(lak)ren</i></td>
 <td>
 '<span>tomorrow</span>'</td>
 </tr>
 <tr>
 <td>NCV</td>
-<td>Port Sandwich</td>
+<td><a href="../languages/portsandwich">Port Sandwich</a></td>
 <td><i>(pe)an</i></td>
 <td>
 '<span>tomorrow</span>'</td>
@@ -4477,7 +4477,7 @@ There is also a variety of forms that seem to reflect a root _&ast;tuqu_ ‘tomo
 <table id="2-9-3-3-331-POc-latuqu-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;la-tuqu</i>
 </td>
 <td>
@@ -4525,7 +4525,7 @@ There is also a variety of forms that seem to reflect a root _&ast;tuqu_ ‘tomo
 </tr>
 <tr>
 <td><strong>ProtoNorthwestSolomonic</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;na-tuqu</i>
 </td>
 <td>
@@ -4548,7 +4548,7 @@ There is also a variety of forms that seem to reflect a root _&ast;tuqu_ ‘tomo
 </tr>
 <tr>
 <td><strong>PPn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;a(r,l)etuqu</i>
 </td>
 <td>
@@ -4597,7 +4597,7 @@ The Proto Tanna (SV) and Proto Polynesian reflexes of _&ast;qa-na-_ lost the pas
 <table id="2-9-3-3-332-POc-iwarisa-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;[i] waRisa</i>
 </td>
 <td>
@@ -4838,7 +4838,7 @@ The Proto Tanna (SV) and Proto Polynesian reflexes of _&ast;qa-na-_ lost the pas
 <table id="2-9-3-3-333-POc-qanawarisa-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;[qa-]na-waRisa</i>
 </td>
 <td>
@@ -4957,7 +4957,7 @@ Apparently an alternative way of expressing ‘the day after tomorrow’ in POc 
 <table id="2-9-3-3-334-POc-boirua-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;boŋi rua</i>
 </td>
 <td>
@@ -5084,7 +5084,7 @@ From the distributions of their reflexes, it seems that _&ast;ŋaican_ or _&ast;
 <table id="2-9-3-5-335-POc-ican-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;ijan</i>
 </td>
 <td>
@@ -5093,7 +5093,7 @@ From the distributions of their reflexes, it seems that _&ast;ŋaican_ or _&ast;
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;ican</i>
 </td>
 <td>
@@ -5101,7 +5101,7 @@ From the distributions of their reflexes, it seems that _&ast;ŋaican_ or _&ast;
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;qa-ican</i>
 </td>
 <td>
@@ -5139,7 +5139,7 @@ From the distributions of their reflexes, it seems that _&ast;ŋaican_ or _&ast;
 <table id="2-9-3-5-335-POc-iaican-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;[i] ŋaican</i>
 </td>
 <td>
@@ -5147,7 +5147,7 @@ From the distributions of their reflexes, it seems that _&ast;ŋaican_ or _&ast;
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;qa-ŋaican</i>
 </td>
 <td>
@@ -5265,7 +5265,7 @@ From the distributions of their reflexes, it seems that _&ast;ŋaican_ or _&ast;
 <table id="2-9-3-5-335-POc-iican-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;[i] ŋican</i>
 </td>
 <td>
@@ -5273,7 +5273,7 @@ From the distributions of their reflexes, it seems that _&ast;ŋaican_ or _&ast;
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;qa-ŋican</i>
 </td>
 <td>
@@ -5431,8 +5431,8 @@ A scattering of languages reflect the past formative with either _&ast;ŋaican_ 
 <table id="2-9-3-5-336-POc-qanaaican-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
-<i>&ast;[qa]na-ŋaican, [qa]na-ŋican</i>
+<td style="white-space: nowrap;">
+<i>&ast;[qa]na-ŋaican, &ast;[qa]na-ŋican</i>
 </td>
 <td>
 '<span>when (past)</span>'</td>
@@ -5544,7 +5544,7 @@ In Proto Polynesian, reflexes of POc _&ast;ican_ and its derivatives had been lo
 <table id="2-9-3-5-337-PPn-qafea-a">
 <tr>
 <td><strong>PPn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;qā-fea</i>
 </td>
 <td>
@@ -5592,7 +5592,7 @@ In Proto Polynesian, reflexes of POc _&ast;ican_ and its derivatives had been lo
 <table id="2-9-3-5-337-PPn-qanafea-a">
 <tr>
 <td><strong>PPn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;[qa]na-fea</i>
 </td>
 <td>

@@ -9,7 +9,7 @@
 <i>{{ form }}</i>
 </td>
 <td>
-{% for g, cmt, pos, srcs in glosses[fid] %}{% if pos %}[{{ pos }}] {% endif %}'{{ g|markdown }}'{% if cmt %} ({{ cmt|markdown }}){% endif %}{% if srcs %}
+{% for g, cmt, pos, qual, srcs in glosses[fid] %}{% if qual %}({{ qual }}) {% endif %}{% if pos %}[{{ pos }}] {% endif %}'{{ g|markdown }}'{% if cmt %} ({{ cmt|markdown }}){% endif %}{% if srcs %}
  ({% for srcid, pages in srcs %}<a href="{{ href_source(srcid) }}">{{ srcid }}</a>{% if pages %}: {{ pages|markdown }}{% endif %}{% if loop.last == False %}; {% endif %}{% endfor %})
 {% endif %}{% if loop.last == False %}; {% endif %}{% endfor %}
 {% if fid in fns %}[^{{ fns[fid] }}]{% endif %}
@@ -17,7 +17,7 @@
 {% else: %}
 <td>{{ group }}</td><td><a href="{{ href_language(lid) }}">{{ lname }}</a></td><td><i>{{ form }}</i></td>
 <td>
-{% for g, cmt, pos, srcs in glosses[fid] %}{% if pos %}[{{ pos }}] {% endif %}{% if g %}'{{ g|markdown }}'{% endif %}{% if cmt %} ({{ cmt|markdown }}){% endif %}{% if srcs %}
+{% for g, cmt, pos, qual, srcs in glosses[fid] %}{% if qual %}({{ qual }}) {% endif %}{% if pos %}[{{ pos }}] {% endif %}{% if g %}'{{ g|markdown }}'{% endif %}{% if cmt %} ({{ cmt|markdown }}){% endif %}{% if srcs %}
  ({% for srcid, pages in srcs %}<a href="{{ href_source(srcid) }}">{{ srcid }}{% if pages %}: {{ pages }}{% endif %}</a>{% if loop.last == False %}; {% endif %}{% endfor %})
 {% endif %}{% if loop.last == False %}; {% endif %}{% endfor %}
 {% if fid in fns %}[^{{ fns[fid] }}]{% endif %}

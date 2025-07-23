@@ -133,7 +133,7 @@ The Mapos Buang and Mumeng Patep forms may be non-cognate, as their final -k ref
 <table id="2-7-2-None-197-POc-lapuat-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;lapuat</i>
 </td>
 <td>
@@ -310,14 +310,14 @@ cf. also:
 <table>
 <tr>
 <td>NNG</td>
-<td>Mapos Buang</td>
+<td><a href="../languages/maposbuang">Mapos Buang</a></td>
 <td><i>levk</i></td>
 <td>
 '<span>big, important</span>'</td>
 </tr>
 <tr>
 <td>NNG</td>
-<td>Patep</td>
+<td><a href="../languages/patep">Patep</a></td>
 <td><i>lɛvak</i></td>
 <td>
 '<span>big, important</span>'</td>
@@ -352,7 +352,7 @@ Also apparently reconstructable are _&ast;drik(i)_, _&ast;liki_, _&ast;siki_ and
 <table id="2-7-2-None-199-POc-qitik-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;qitik</i>
 </td>
 <td>
@@ -360,8 +360,8 @@ Also apparently reconstructable are _&ast;drik(i)_, _&ast;liki_, _&ast;siki_ and
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
-<i>&ast;qitik, qitek</i>
+<td style="white-space: nowrap;">
+<i>&ast;qitik, &ast;qitek</i>
 </td>
 <td>
 '<span>small</span>'</td>
@@ -461,7 +461,7 @@ Also apparently reconstructable are _&ast;drik(i)_, _&ast;liki_, _&ast;siki_ and
 <table id="2-7-2-None-200-POc-rikitq-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;diki[t,q]</i>
 </td>
 <td>
@@ -470,7 +470,7 @@ Also apparently reconstructable are _&ast;drik(i)_, _&ast;liki_, _&ast;siki_ and
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;riki(t,q)</i>
 </td>
 <td>
@@ -478,7 +478,7 @@ Also apparently reconstructable are _&ast;drik(i)_, _&ast;liki_, _&ast;siki_ and
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;ri-riki(t,q)</i>
 </td>
 <td>
@@ -596,7 +596,7 @@ Also apparently reconstructable are _&ast;drik(i)_, _&ast;liki_, _&ast;siki_ and
 <table id="2-7-2-None-200-POc-drikitq-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;drik(i(t,q))</i>
 </td>
 <td>
@@ -649,7 +649,7 @@ Also apparently reconstructable are _&ast;drik(i)_, _&ast;liki_, _&ast;siki_ and
 <table id="2-7-2-None-200-POc-liki-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;liki</i>
 </td>
 <td>
@@ -730,7 +730,7 @@ Also apparently reconstructable are _&ast;drik(i)_, _&ast;liki_, _&ast;siki_ and
 <table id="2-7-2-None-201-POc-kiki-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;kiki</i>
 </td>
 <td>
@@ -768,7 +768,7 @@ Also apparently reconstructable are _&ast;drik(i)_, _&ast;liki_, _&ast;siki_ and
 </tr>
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;siki</i>
 </td>
 <td>
@@ -808,7 +808,7 @@ There is good evidence that POc had at least two lexicalised possessee-like attr
 <table id="2-7-2-None-201-POc-tinana-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;tina-ña</i>
 </td>
 <td>
@@ -851,7 +851,7 @@ There is good evidence that POc had at least two lexicalised possessee-like attr
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;natu-ña</i>
 </td>
 <td>
@@ -982,7 +982,7 @@ The other two terms, _&ast;[ma]lago_ and _&ast;[ma]lawa_, clearly are derived. T
 <table id="2-7-2-2-203-POc-bbarapu-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;(b,bʷ)arapu</i>
 </td>
 <td>
@@ -1058,7 +1058,7 @@ The other two terms, _&ast;[ma]lago_ and _&ast;[ma]lawa_, clearly are derived. T
 <table id="2-7-2-2-204-POc-malago-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;[ma]laŋkaw</i>
 </td>
 <td>
@@ -1066,7 +1066,7 @@ The other two terms, _&ast;[ma]lago_ and _&ast;[ma]lawa_, clearly are derived. T
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;[ma]lago</i>
 </td>
 <td>
@@ -1099,7 +1099,7 @@ The other two terms, _&ast;[ma]lago_ and _&ast;[ma]lawa_, clearly are derived. T
 <table id="2-7-2-2-204-POc-malawa-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;lawa</i>
 </td>
 <td>
@@ -1108,7 +1108,7 @@ The other two terms, _&ast;[ma]lago_ and _&ast;[ma]lawa_, clearly are derived. T
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;[ma]lawa</i>
 </td>
 <td>
@@ -1258,7 +1258,7 @@ Two terms for ‘short’ are reconstructed. All the supporting data for _&ast;t
 <table id="2-7-2-2-205-POc-tuku-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;tuku</i>
 </td>
 <td>
@@ -1301,7 +1301,7 @@ Two terms for ‘short’ are reconstructed. All the supporting data for _&ast;t
 <table id="2-7-2-2-205-POc-boto-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;botoŋ</i>
 </td>
 <td>
@@ -1365,7 +1365,7 @@ A POc verbal root _&ast;sauq_ (V) ‘be far away’ is reconstructable.
 <table id="2-7-2-2-205-POc-sauq-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;Zauq</i>
 </td>
 <td>
@@ -1374,7 +1374,7 @@ A POc verbal root _&ast;sauq_ (V) ‘be far away’ is reconstructable.
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;sauq</i>
 </td>
 <td>
@@ -1382,7 +1382,7 @@ A POc verbal root _&ast;sauq_ (V) ‘be far away’ is reconstructable.
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;sau-sauq</i>
 </td>
 <td>
@@ -1518,7 +1518,7 @@ A POc verbal root _&ast;sauq_ (V) ‘be far away’ is reconstructable.
 <table id="2-7-2-2-206-POc-masauq-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;ma-Zauq</i>
 </td>
 <td>
@@ -1527,7 +1527,7 @@ A POc verbal root _&ast;sauq_ (V) ‘be far away’ is reconstructable.
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;ma-sauq</i>
 </td>
 <td>
@@ -1540,7 +1540,7 @@ A POc verbal root _&ast;sauq_ (V) ‘be far away’ is reconstructable.
 </tr>
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;ka-sauq</i>
 </td>
 <td>
@@ -1585,29 +1585,29 @@ In Ysabel (MM) languages, POc _&ast;sauq_ is reflected with the reciprocal prefi
 <table id="2-7-2-2-206-ses-wguad-vasau">
 <tr>
 <td>SES</td>
-<td>West Guadalcanal</td>
-<td><i>(va)sau</i></td>
+<td><a href="../languages/westguadalcanal">West Guadalcanal</a></td>
+<td style="white-space: nowrap"><i>(va)sau</i></td>
 <td>
 '<span>far</span>'</td>
 </tr>
 <tr>
 <td>SES</td>
-<td>Sa'a</td>
-<td><i>(haʔa)tau</i></td>
+<td><a href="../languages/saa">Sa'a</a></td>
+<td style="white-space: nowrap"><i>(haʔa)tau</i></td>
 <td>
 '<span>far</span>'</td>
 </tr>
 <tr>
 <td>SES</td>
-<td>Arosi</td>
-<td><i>(haʔa)tau</i></td>
+<td><a href="../languages/arosi">Arosi</a></td>
+<td style="white-space: nowrap"><i>(haʔa)tau</i></td>
 <td>
 '<span>far</span>'</td>
 </tr>
 <tr>
 <td>SES</td>
-<td>Bauro</td>
-<td><i>(haɣa)tau</i></td>
+<td><a href="../languages/bauro">Bauro</a></td>
+<td style="white-space: nowrap"><i>(haɣa)tau</i></td>
 <td>
 '<span>far</span>'</td>
 </tr>
@@ -1623,15 +1623,15 @@ POc _&ast;raŋi_ appears to be descended from PMP _&ast;dani_. The replacement o
 <table id="2-7-2-2-207-POc-garai-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
-<i>&ast;dani, Sa-dani, ma-dani</i>
+<td style="white-space: nowrap;">
+<i>&ast;dani, &ast;Sa-dani, &ast;ma-dani</i>
 </td>
 <td>
 '<span>be near</span>'[^11]</td>
 </tr>
 <tr>
 <td><strong>PCEMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;daŋi</i>
 </td>
 <td>
@@ -1639,7 +1639,7 @@ POc _&ast;raŋi_ appears to be descended from PMP _&ast;dani_. The replacement o
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;garaŋi</i>
 </td>
 <td>
@@ -1687,7 +1687,7 @@ POc _&ast;raŋi_ appears to be descended from PMP _&ast;dani_. The replacement o
 <table id="2-7-2-2-207-POc-karai-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;karaŋi</i>
 </td>
 <td>
@@ -1730,8 +1730,8 @@ POc _&ast;raŋi_ appears to be descended from PMP _&ast;dani_. The replacement o
 <table id="2-7-2-2-207-POc-parai-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
-<i>&ast;pa-raŋi, paka-raŋi</i>
+<td style="white-space: nowrap;">
+<i>&ast;pa-raŋi, &ast;paka-raŋi</i>
 </td>
 <td>
 '<span>be near</span>'</td>
@@ -1760,7 +1760,7 @@ There was also a POc term _&ast;tata_ ‘near’, perhaps an adverb:
 <table id="2-7-2-2-207-POc-tata-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;tata</i>
 </td>
 <td>
@@ -1810,7 +1810,7 @@ There was also a POc term _&ast;tata_ ‘near’, perhaps an adverb:
 <table id="2-7-2-2-207-POc-tapolas-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;belaj</i>
 </td>
 <td>
@@ -1819,7 +1819,7 @@ There was also a POc term _&ast;tata_ ‘near’, perhaps an adverb:
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;ta-pola(s)</i>
 </td>
 <td>
@@ -1871,7 +1871,7 @@ Three forms can be reconstructed for ‘thick’. The third, _&ast;[tubu]tubu[-k
 <table id="2-7-2-2-208-POc-matolu-a">
 <tr>
 <td><strong>PCEMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;telu</i>
 </td>
 <td>
@@ -1879,7 +1879,7 @@ Three forms can be reconstructed for ‘thick’. The third, _&ast;[tubu]tubu[-k
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;ma-tolu</i>
 </td>
 <td>
@@ -1953,7 +1953,7 @@ Three forms can be reconstructed for ‘thick’. The third, _&ast;[tubu]tubu[-k
 <table id="2-7-2-2-208-POc-kuba-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;[ma-]kumba</i>
 </td>
 <td>
@@ -1961,7 +1961,7 @@ Three forms can be reconstructed for ‘thick’. The third, _&ast;[tubu]tubu[-k
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;kuba</i>
 </td>
 <td>
@@ -1984,7 +1984,7 @@ Three forms can be reconstructed for ‘thick’. The third, _&ast;[tubu]tubu[-k
 <table id="2-7-2-2-208-POc-tubutubuka-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;[tubu]tubu[-ka]</i>
 </td>
 <td>
@@ -2022,7 +2022,7 @@ Two formally related terms are reconstructable for ‘thin’: _&ast;ma-tipi(s)_
 <table id="2-7-2-2-209-POc-matipis-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;tipis</i>
 </td>
 <td>
@@ -2030,7 +2030,7 @@ Two formally related terms are reconstructable for ‘thin’: _&ast;ma-tipi(s)_
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;ma-tipi(s)</i>
 </td>
 <td>
@@ -2053,7 +2053,7 @@ Two formally related terms are reconstructable for ‘thin’: _&ast;ma-tipi(s)_
 <table id="2-7-2-2-209-POc-manipis-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;[ma]Lipis</i>
 </td>
 <td>
@@ -2061,7 +2061,7 @@ Two formally related terms are reconstructable for ‘thin’: _&ast;ma-tipi(s)_
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;manipis</i>
 </td>
 <td>
@@ -2165,7 +2165,7 @@ Two POc terms for ‘new’ can be reconstructed: the adjectival noun _&ast;paqo
 <table id="2-7-3-None-210-POc-paqoru-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;baqeRuh</i>
 </td>
 <td>
@@ -2174,7 +2174,7 @@ Two POc terms for ‘new’ can be reconstructed: the adjectival noun _&ast;paqo
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;paqoRu</i>
 </td>
 <td>
@@ -2182,8 +2182,8 @@ Two POc terms for ‘new’ can be reconstructed: the adjectival noun _&ast;paqo
 </tr>
 <tr>
 <td><strong>PNGOc</strong></td><td> </td>
-<td>
-<i>&ast;paqu, paqoRu</i>
+<td style="white-space: nowrap;">
+<i>&ast;paqu, &ast;paqoRu</i>
 </td>
 <td>
 '<span>new, young</span>'</td>
@@ -2373,7 +2373,7 @@ Two POc terms for ‘new’ can be reconstructed: the adjectival noun _&ast;paqo
 <table id="2-7-3-None-211-POc-kalraba-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;ka(l,r)abʷa</i>
 </td>
 <td>
@@ -2432,7 +2432,7 @@ Whereas _&ast;[ma]tuqa_ probably referred mainly to animates and to the vegetabl
 <table id="2-7-3-None-211-POc-matuqa-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;CuqaS</i>
 </td>
 <td>
@@ -2441,7 +2441,7 @@ Whereas _&ast;[ma]tuqa_ probably referred mainly to animates and to the vegetabl
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;[ma]tuqa</i>
 </td>
 <td>
@@ -2544,7 +2544,7 @@ Whereas _&ast;[ma]tuqa_ probably referred mainly to animates and to the vegetabl
 <table id="2-7-3-None-211-POc-tuqari-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;tuqaRi</i>
 </td>
 <td>
@@ -2685,7 +2685,7 @@ Whereas _&ast;[ma]tuqa_ probably referred mainly to animates and to the vegetabl
 <table id="2-7-3-None-212-POc-rapuka-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;rapu-ka</i>
 </td>
 <td>
@@ -2726,7 +2726,7 @@ PMP terms were of the form _&ast;ma-_ + ROOT. Blust (ACD) concludes that PMP had
 <table id="2-7-4-None-213-POc-maqetom-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;[ma]qitem</i>
 </td>
 <td>
@@ -2735,15 +2735,15 @@ PMP terms were of the form _&ast;ma-_ + ROOT. Blust (ACD) concludes that PMP had
 </tr>
 <tr>
 <td><strong>PCMP</strong></td><td> </td>
-<td>
-<i>&ast;ma-qitom, ma-qetom</i>
+<td style="white-space: nowrap;">
+<i>&ast;ma-qitom, &ast;ma-qetom</i>
 </td>
 <td>
 '<span>black; dirty</span>'</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;maqeto(m)</i>
 </td>
 <td>
@@ -2801,7 +2801,7 @@ PMP terms were of the form _&ast;ma-_ + ROOT. Blust (ACD) concludes that PMP had
 <table id="2-7-4-None-213-POc-meraq-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;ma-iRaq</i>
 </td>
 <td>
@@ -2810,7 +2810,7 @@ PMP terms were of the form _&ast;ma-_ + ROOT. Blust (ACD) concludes that PMP had
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;meRaq</i>
 </td>
 <td>
@@ -2888,7 +2888,7 @@ PMP terms were of the form _&ast;ma-_ + ROOT. Blust (ACD) concludes that PMP had
 <table id="2-7-4-None-213-POc-maputiq-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;ma-putiq</i>
 </td>
 <td>
@@ -2897,7 +2897,7 @@ PMP terms were of the form _&ast;ma-_ + ROOT. Blust (ACD) concludes that PMP had
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;maputi(q)</i>
 </td>
 <td>
@@ -2922,7 +2922,7 @@ One colour term of the form _&ast;ma-_ + ROOT has no known non-Oceanic cognates.
 <table id="2-7-4-None-213-POc-makarawa-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;[ma]karawa</i>
 </td>
 <td>
@@ -2988,7 +2988,7 @@ One colour term of the form _&ast;ma-_ + ROOT has no known non-Oceanic cognates.
 <table id="2-7-4-None-214-PEOc-marawa-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;marawa</i>
 </td>
 <td>
@@ -3033,36 +3033,36 @@ One colour term of the form _&ast;ma-_ + ROOT has no known non-Oceanic cognates.
 <table id="2-7-4-None-214-adm-mussau-boboiena">
 <tr>
 <td>Adm</td>
-<td>Mussau</td>
-<td><i>bo-boŋi-e-na</i></td>
+<td><a href="../languages/mussau">Mussau</a></td>
+<td style="white-space: nowrap"><i>bo-boŋi-e-na</i></td>
 <td>
 '<span>black</span>' (<span><em>bo</em> ‘night’</span>)[^19]</td>
 </tr>
 <tr>
 <td>Adm</td>
-<td>Mussau</td>
-<td><i>rae-rae-a-na</i></td>
+<td><a href="../languages/mussau">Mussau</a></td>
+<td style="white-space: nowrap"><i>rae-rae-a-na</i></td>
 <td>
 '<span>red</span>' (<span><em>rae</em> ‘blood’</span>)[^19]</td>
 </tr>
 <tr>
 <td>Adm</td>
-<td>Mussau</td>
-<td><i>usou-usou-e-na</i></td>
+<td><a href="../languages/mussau">Mussau</a></td>
+<td style="white-space: nowrap"><i>usou-usou-e-na</i></td>
 <td>
 '<span>white</span>' (<span>no unreduplicated root</span>)[^19]</td>
 </tr>
 <tr>
 <td>Adm</td>
-<td>Mussau</td>
-<td><i>vero-veroŋ-a-na</i></td>
+<td><a href="../languages/mussau">Mussau</a></td>
+<td style="white-space: nowrap"><i>vero-veroŋ-a-na</i></td>
 <td>
 '<span>black</span>' (<span>no unreduplicated root</span>)[^19]</td>
 </tr>
 <tr>
 <td>Adm</td>
-<td>Mussau</td>
-<td><i>riu-riu-e-na</i></td>
+<td><a href="../languages/mussau">Mussau</a></td>
+<td style="white-space: nowrap"><i>riu-riu-e-na</i></td>
 <td>
 '<span>thin (of animates)</span>' (<span><em>riu</em> ‘bone’</span>)[^19]</td>
 </tr>
@@ -3071,36 +3071,36 @@ One colour term of the form _&ast;ma-_ + ROOT has no known non-Oceanic cognates.
 <table id="2-7-4-None-214-nng-kairiru-jirjir">
 <tr>
 <td>NNG</td>
-<td>Kairiru</td>
-<td><i>jir-jir</i></td>
+<td><a href="../languages/kairiru">Kairiru</a></td>
+<td style="white-space: nowrap"><i>jir-jir</i></td>
 <td>
 '<span>black, dirty, old</span>' (<span><em>jir</em> ‘mangrove swamp’</span>)</td>
 </tr>
 <tr>
 <td>NNG</td>
-<td>Kairiru</td>
-<td><i>kiet-kiet</i></td>
+<td><a href="../languages/kairiru">Kairiru</a></td>
+<td style="white-space: nowrap"><i>kiet-kiet</i></td>
 <td>
 '<span>black</span>' (<span><em>kiet</em> ‘black paint’</span>)</td>
 </tr>
 <tr>
 <td>NNG</td>
-<td>Kairiru</td>
-<td><i>pun-pun</i></td>
+<td><a href="../languages/kairiru">Kairiru</a></td>
+<td style="white-space: nowrap"><i>pun-pun</i></td>
 <td>
 '<span>white</span>' (<span><em>pun</em> ‘pigeon’</span>)</td>
 </tr>
 <tr>
 <td>NNG</td>
-<td>Kairiru</td>
-<td><i>mera-mer</i></td>
+<td><a href="../languages/kairiru">Kairiru</a></td>
+<td style="white-space: nowrap"><i>mera-mer</i></td>
 <td>
 '<span>red</span>' (<span><em>mer</em> ‘red paint’</span>)</td>
 </tr>
 <tr>
 <td>NNG</td>
-<td>Kairiru</td>
-<td><i>yaŋ-yaŋ</i></td>
+<td><a href="../languages/kairiru">Kairiru</a></td>
+<td style="white-space: nowrap"><i>yaŋ-yaŋ</i></td>
 <td>
 '<span>yellow</span>' (<span><em>yaŋ</em> ‘yellow paint, white or yellow skinned people’</span>)</td>
 </tr>
@@ -3112,71 +3112,71 @@ One colour term of the form _&ast;ma-_ + ROOT has no known non-Oceanic cognates.
 <table id="2-7-4-None-215-nng-manam-zizi">
 <tr>
 <td>NNG</td>
-<td>Manam</td>
-<td><i>ziŋ-ziŋ</i></td>
+<td><a href="../languages/manam">Manam</a></td>
+<td style="white-space: nowrap"><i>ziŋ-ziŋ</i></td>
 <td>
 '<span>black</span>'</td>
 </tr>
 <tr>
 <td>NNG</td>
-<td>Manam</td>
-<td><i>ziŋ</i></td>
+<td><a href="../languages/manam">Manam</a></td>
+<td style="white-space: nowrap"><i>ziŋ</i></td>
 <td>
 '<span>black ashes</span>'</td>
 </tr>
 <tr>
 <td>NNG</td>
-<td>Manam</td>
-<td><i>jim-jim</i></td>
+<td><a href="../languages/manam">Manam</a></td>
+<td style="white-space: nowrap"><i>jim-jim</i></td>
 <td>
 '<span>black</span>'</td>
 </tr>
 <tr>
 <td>NNG</td>
-<td>Manam</td>
-<td><i>jim</i></td>
+<td><a href="../languages/manam">Manam</a></td>
+<td style="white-space: nowrap"><i>jim</i></td>
 <td>
 '<span>rain, cloud; black, dark deep (sea)</span>'</td>
 </tr>
 <tr>
 <td>NNG</td>
-<td>Manam</td>
-<td><i>wa-wawa</i></td>
+<td><a href="../languages/manam">Manam</a></td>
+<td style="white-space: nowrap"><i>wa-wawa</i></td>
 <td>
 '<span>white</span>'</td>
 </tr>
 <tr>
 <td>NNG</td>
-<td>Manam</td>
-<td><i>wawa</i></td>
+<td><a href="../languages/manam">Manam</a></td>
+<td style="white-space: nowrap"><i>wawa</i></td>
 <td>
 '<span>discoloured (light) patch of skin)</span>'</td>
 </tr>
 <tr>
 <td>NNG</td>
-<td>Manam</td>
-<td><i>dara-dara</i></td>
+<td><a href="../languages/manam">Manam</a></td>
+<td style="white-space: nowrap"><i>dara-dara</i></td>
 <td>
 '<span>red</span>'</td>
 </tr>
 <tr>
 <td>NNG</td>
-<td>Manam</td>
-<td><i>dara</i></td>
+<td><a href="../languages/manam">Manam</a></td>
+<td style="white-space: nowrap"><i>dara</i></td>
 <td>
 '<span>blood</span>'</td>
 </tr>
 <tr>
 <td>NNG</td>
-<td>Manam</td>
-<td><i>ʔate-ʔateʔa</i></td>
+<td><a href="../languages/manam">Manam</a></td>
+<td style="white-space: nowrap"><i>ʔate-ʔateʔa</i></td>
 <td>
 '<span>brown</span>'</td>
 </tr>
 <tr>
 <td>NNG</td>
-<td>Manam</td>
-<td><i>ʔateʔa</i></td>
+<td><a href="../languages/manam">Manam</a></td>
+<td style="white-space: nowrap"><i>ʔateʔa</i></td>
 <td>
 '<span>ground</span>'</td>
 </tr>
@@ -3185,50 +3185,50 @@ One colour term of the form _&ast;ma-_ + ROOT has no known non-Oceanic cognates.
 <table id="2-7-4-None-215-ncv-mota-memea">
 <tr>
 <td>NCV</td>
-<td>Mota</td>
-<td><i>me-mea</i></td>
+<td><a href="../languages/mota">Mota</a></td>
+<td style="white-space: nowrap"><i>me-mea</i></td>
 <td>
 '<span>red</span>'</td>
 </tr>
 <tr>
 <td>NCV</td>
-<td>Mota</td>
-<td><i>mea</i></td>
+<td><a href="../languages/mota">Mota</a></td>
+<td style="white-space: nowrap"><i>mea</i></td>
 <td>
 '<span>red pigment</span>'</td>
 </tr>
 <tr>
 <td>NCV</td>
-<td>Mota</td>
-<td><i>mea-mea</i></td>
+<td><a href="../languages/mota">Mota</a></td>
+<td style="white-space: nowrap"><i>mea-mea</i></td>
 <td>
 '<span>k.o. red fish</span>'</td>
 </tr>
 <tr>
 <td>NCV</td>
-<td>Mota</td>
-<td><i>sor-soroga</i></td>
+<td><a href="../languages/mota">Mota</a></td>
+<td style="white-space: nowrap"><i>sor-soroga</i></td>
 <td>
 '<span>dark red</span>'</td>
 </tr>
 <tr>
 <td>NCV</td>
-<td>Mota</td>
-<td><i>soroga</i></td>
+<td><a href="../languages/mota">Mota</a></td>
+<td style="white-space: nowrap"><i>soroga</i></td>
 <td>
 '<span>red, colour of pes nai when ripe</span>'</td>
 </tr>
 <tr>
 <td>NCV</td>
-<td>Mota</td>
-<td><i>aŋo-aŋo</i></td>
+<td><a href="../languages/mota">Mota</a></td>
+<td style="white-space: nowrap"><i>aŋo-aŋo</i></td>
 <td>
 '<span>yellow</span>'</td>
 </tr>
 <tr>
 <td>NCV</td>
-<td>Mota</td>
-<td><i>aŋo</i></td>
+<td><a href="../languages/mota">Mota</a></td>
+<td style="white-space: nowrap"><i>aŋo</i></td>
 <td>
 '<span>turmeric; yellow</span>'</td>
 </tr>
@@ -3239,7 +3239,7 @@ From these examples we see that the colour term is often derived from a noun who
 <table id="2-7-4-None-215-POc-yaoyao-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;[yaŋo]yaŋo</i>
 </td>
 <td>
@@ -3403,8 +3403,8 @@ In the light of this discussion, I reconstruct two pairs of POc colour terms, _&
 <table id="2-7-4-None-217-POc-kejaka-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
-<i>&ast;keja-ka, [keja]keja</i>
+<td style="white-space: nowrap;">
+<i>&ast;keja-ka, &ast;[keja]keja</i>
 </td>
 <td>
 '<span>green</span>'</td>
@@ -3476,7 +3476,7 @@ In the light of this discussion, I reconstruct two pairs of POc colour terms, _&
 <table id="2-7-4-None-217-POc-birika-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;biRiŋ</i>
 </td>
 <td>
@@ -3485,8 +3485,8 @@ In the light of this discussion, I reconstruct two pairs of POc colour terms, _&
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
-<i>&ast;biRiŋ-(k)a, [biRi]biRiŋ</i>
+<td style="white-space: nowrap;">
+<i>&ast;biRiŋ-(k)a, &ast;[biRi]biRiŋ</i>
 </td>
 <td>
 '<span>dark hue, dirty</span>'</td>
@@ -3535,7 +3535,7 @@ There is one other reduplicated colour term which may be reconstructable, POc _&
 <table id="2-7-4-None-217-POc-pulapulan-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;bulan</i>
 </td>
 <td>
@@ -3544,7 +3544,7 @@ There is one other reduplicated colour term which may be reconstructable, POc _&
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;[pula]pula-n</i>
 </td>
 <td>
@@ -3594,7 +3594,7 @@ Terms denoting the shape and surface texture of an object include the meanings s
 <table id="2-7-5-1-218-POc-baban-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;baban</i>
 </td>
 <td>
@@ -3659,7 +3659,7 @@ The term _&ast;raba(r)_ may have denoted the property ‘flat’, but there are 
 <table id="2-7-5-1-218-POc-rabar-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;da(m)paD</i>
 </td>
 <td>
@@ -3668,7 +3668,7 @@ The term _&ast;raba(r)_ may have denoted the property ‘flat’, but there are 
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;raba(r)</i>
 </td>
 <td>
@@ -3690,14 +3690,14 @@ cf. also:
 <table>
 <tr>
 <td>Pn</td>
-<td>Tongan</td>
+<td><a href="../languages/tongan">Tongan</a></td>
 <td><i>lafa-lafa</i></td>
 <td>
 '<span>flat</span>'</td>
 </tr>
 <tr>
 <td>Pn</td>
-<td>Samoan</td>
+<td><a href="../languages/samoan">Samoan</a></td>
 <td><i>lafa-lafa</i></td>
 <td>
 '<span>flat; the level top of a mountain</span>'</td>
@@ -3710,7 +3710,7 @@ No term for ‘rough’ is reconstructable, but ‘smooth’, also with the sens
 <table id="2-7-5-1-218-POc-madralist-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;ma-dalis</i>
 </td>
 <td>
@@ -3719,7 +3719,7 @@ No term for ‘rough’ is reconstructable, but ‘smooth’, also with the sens
 </tr>
 <tr>
 <td><strong>PAn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;[ma]dalit</i>
 </td>
 <td>
@@ -3728,7 +3728,7 @@ No term for ‘rough’ is reconstructable, but ‘smooth’, also with the sens
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;madrali(s,t)</i>
 </td>
 <td>
@@ -3763,7 +3763,7 @@ The data require that we reconstruct two variants for each of the three terms. T
 <table id="2-7-5-1-219-POc-makoto-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;[ma]koto</i>
 </td>
 <td>
@@ -3816,7 +3816,7 @@ The data require that we reconstruct two variants for each of the three terms. T
 <table id="2-7-5-1-219-POc-kodos-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;kodos</i>
 </td>
 <td>
@@ -3824,7 +3824,7 @@ The data require that we reconstruct two variants for each of the three terms. T
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;ta-kodos</i>
 </td>
 <td>
@@ -3887,7 +3887,7 @@ The data require that we reconstruct two variants for each of the three terms. T
 <table id="2-7-5-1-219-POc-tdonup-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;[t,d]onu(p)</i>
 </td>
 <td>
@@ -3960,7 +3960,7 @@ I have no explanation for the pair _&ast;mʷane-mʷane_ and _&ast;wane-wane_. Re
 <table id="2-7-5-1-220-POc-manemane-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;mʷane-mʷane</i>
 </td>
 <td>
@@ -4009,7 +4009,7 @@ I have no explanation for the pair _&ast;mʷane-mʷane_ and _&ast;wane-wane_. Re
 <table id="2-7-5-1-220-POc-wanewane-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;wane-wane</i>
 </td>
 <td>
@@ -4045,7 +4045,7 @@ The only antonym of the terms above is PWOc _&ast;kalis_ ‘crooked’, which is
 <table id="2-7-5-1-220-PWOc-kalis-a">
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;kalis</i>
 </td>
 <td>
@@ -4076,7 +4076,7 @@ Forms for ‘heavy’ are morphologically complex. POc _&ast;[pa]pat_ reflects t
 <table id="2-7-5-2-220-POc-papat-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;[pa]pat</i>
 </td>
 <td>
@@ -4107,7 +4107,7 @@ Forms for ‘heavy’ are morphologically complex. POc _&ast;[pa]pat_ reflects t
 <table id="2-7-5-2-221-POc-mapat-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;mapat</i>
 </td>
 <td>
@@ -4181,7 +4181,7 @@ Forms for ‘heavy’ are morphologically complex. POc _&ast;[pa]pat_ reflects t
 <table id="2-7-5-2-221-POc-mamat-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;mamat</i>
 </td>
 <td>
@@ -4209,7 +4209,7 @@ Forms for ‘heavy’ are morphologically complex. POc _&ast;[pa]pat_ reflects t
 <table id="2-7-5-2-221-POc-maraqan-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;[ma]Raqan</i>
 </td>
 <td>
@@ -4218,7 +4218,7 @@ Forms for ‘heavy’ are morphologically complex. POc _&ast;[pa]pat_ reflects t
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;[ma]Raqan</i>
 </td>
 <td>
@@ -4322,7 +4322,7 @@ Oceanic speakers tend to express the cluster of concepts ‘hard’ (of physical
 <table id="2-7-5-3-222-POc-pakas-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;ba(ŋ)kas</i>
 </td>
 <td>
@@ -4331,7 +4331,7 @@ Oceanic speakers tend to express the cluster of concepts ‘hard’ (of physical
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;paka(s)</i>
 </td>
 <td>
@@ -4350,7 +4350,7 @@ Oceanic speakers tend to express the cluster of concepts ‘hard’ (of physical
 <table id="2-7-5-3-222-POc-lagas-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;la(ŋ)kas</i>
 </td>
 <td>
@@ -4359,7 +4359,7 @@ Oceanic speakers tend to express the cluster of concepts ‘hard’ (of physical
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;laga(s)</i>
 </td>
 <td>
@@ -4390,7 +4390,7 @@ Two POc terms, _&ast;[ma]lumu_ and _&ast;ma-luas_, express ‘soft, gentle’.
 <table id="2-7-5-3-222-POc-malumu-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;[ma]lumu</i>
 </td>
 <td>
@@ -4399,7 +4399,7 @@ Two POc terms, _&ast;[ma]lumu_ and _&ast;ma-luas_, express ‘soft, gentle’.
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;[ma]lumu</i>
 </td>
 <td>
@@ -4482,7 +4482,7 @@ Two POc terms, _&ast;[ma]lumu_ and _&ast;ma-luas_, express ‘soft, gentle’.
 </tr>
 <tr>
 <td><strong>PPn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;malū</i>
 </td>
 <td>
@@ -4533,7 +4533,7 @@ Two POc terms, _&ast;[ma]lumu_ and _&ast;ma-luas_, express ‘soft, gentle’.
 <table id="2-7-5-3-223-POc-maluas-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;ma-luas</i>
 </td>
 <td>
@@ -4619,7 +4619,7 @@ Three terms meaning ‘full’ are reconstructable. The first, _&ast;ponuq_, is 
 <table id="2-7-5-4-223-POc-ponuq-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;ponuq</i>
 </td>
 <td>
@@ -4627,7 +4627,7 @@ Three terms meaning ‘full’ are reconstructable. The first, _&ast;ponuq_, is 
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;ponuq</i>
 </td>
 <td>
@@ -4748,7 +4748,7 @@ Three terms meaning ‘full’ are reconstructable. The first, _&ast;ponuq_, is 
 <table id="2-7-5-4-224-POc-puu-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;puŋu</i>
 </td>
 <td>
@@ -4796,7 +4796,7 @@ Three terms meaning ‘full’ are reconstructable. The first, _&ast;ponuq_, is 
 <table id="2-7-5-4-224-POc-poju-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;besuR</i>
 </td>
 <td>
@@ -4805,7 +4805,7 @@ Three terms meaning ‘full’ are reconstructable. The first, _&ast;ponuq_, is 
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;poju</i>
 </td>
 <td>
@@ -4856,7 +4856,7 @@ Two terms are reconstructable for ‘hot, warm’, _&ast;[ma]panas_ and _&ast;ma
 <table id="2-7-5-5-224-POc-mapanas-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;[ma]panas</i>
 </td>
 <td>
@@ -4865,7 +4865,7 @@ Two terms are reconstructable for ‘hot, warm’, _&ast;[ma]panas_ and _&ast;ma
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;[ma]panas</i>
 </td>
 <td>
@@ -4961,7 +4961,7 @@ Two terms are reconstructable for ‘hot, warm’, _&ast;[ma]panas_ and _&ast;ma
 <table id="2-7-5-5-225-POc-mainit-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;maN-qinit</i>
 </td>
 <td>
@@ -4970,7 +4970,7 @@ Two terms are reconstructable for ‘hot, warm’, _&ast;[ma]panas_ and _&ast;ma
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;maŋini(t)</i>
 </td>
 <td>
@@ -4997,7 +4997,7 @@ The other cognate set meaning ‘cold’ appears to reflect both _&ast;malaso_ �
 <table id="2-7-5-5-225-POc-maridri-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;diŋin</i>
 </td>
 <td>
@@ -5005,7 +5005,7 @@ The other cognate set meaning ‘cold’ appears to reflect both _&ast;malaso_ �
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;ma-ri(d)ri(ŋ)</i>
 </td>
 <td>
@@ -5078,7 +5078,7 @@ The other cognate set meaning ‘cold’ appears to reflect both _&ast;malaso_ �
 <table id="2-7-5-5-225-POc-madridri-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;madri(d)riŋ</i>
 </td>
 <td>
@@ -5131,7 +5131,7 @@ The other cognate set meaning ‘cold’ appears to reflect both _&ast;malaso_ �
 <table id="2-7-5-5-225-POc-makaridri-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;makaridriŋ</i>
 </td>
 <td>
@@ -5172,7 +5172,7 @@ The other cognate set meaning ‘cold’ appears to reflect both _&ast;malaso_ �
 <table id="2-7-5-5-226-POc-malaso-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;malaso</i>
 </td>
 <td>
@@ -5180,7 +5180,7 @@ The other cognate set meaning ‘cold’ appears to reflect both _&ast;malaso_ �
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;malaso-ŋ</i>
 </td>
 <td>
@@ -5251,7 +5251,7 @@ The English words ‘dry’ and ‘wet’ are polysemous. The meanings of ‘dry
 <table id="2-7-5-6-226-POc-buluk-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;buluk</i>
 </td>
 <td>
@@ -5308,7 +5308,7 @@ POc _&ast;karaŋo_ is obviously formally related to _&ast;[ma]raŋo_, but its re
 <table id="2-7-5-6-226-POc-mamaca-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;maja</i>
 </td>
 <td>
@@ -5316,7 +5316,7 @@ POc _&ast;karaŋo_ is obviously formally related to _&ast;[ma]raŋo_, but its re
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;[ma]maca</i>
 </td>
 <td>
@@ -5489,7 +5489,7 @@ POc _&ast;[ma-](r,R)aŋo_ displays a phonological problem. Apparent non-Oceanic 
 <table id="2-7-5-6-227-POc-marao-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;[ma]Raŋaw</i>
 </td>
 <td>
@@ -5497,7 +5497,7 @@ POc _&ast;[ma-](r,R)aŋo_ displays a phonological problem. Apparent non-Oceanic 
 </tr>
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;[ma]Raŋuʔ</i>
 </td>
 <td>
@@ -5506,7 +5506,7 @@ POc _&ast;[ma-](r,R)aŋo_ displays a phonological problem. Apparent non-Oceanic 
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;[ma]Raŋo</i>
 </td>
 <td>
@@ -5592,7 +5592,7 @@ POc _&ast;[ma-](r,R)aŋo_ displays a phonological problem. Apparent non-Oceanic 
 <table id="2-7-5-6-228-POc-karrao-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;ka-(r,R)aŋo</i>
 </td>
 <td>
@@ -5625,7 +5625,7 @@ POc _&ast;[ma-](r,R)aŋo_ displays a phonological problem. Apparent non-Oceanic 
 <table id="2-7-5-6-228-POc-goru-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;goRu</i>
 </td>
 <td>

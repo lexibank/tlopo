@@ -40,7 +40,7 @@ POc _&ast;ka[(r,l)a]qabusi_ appears to have denoted a taxon including at least _
 <table id="3-8-2-1-238-POc-karlaqabusi-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;ka[(r,l)a]qabusi</i>
 </td>
 <td>
@@ -48,7 +48,7 @@ POc _&ast;ka[(r,l)a]qabusi_ appears to have denoted a taxon including at least _
 </tr>
 <tr>
 <td><strong>ProtoMesoMelanesian</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;kaqabusi</i>
 </td>
 <td>
@@ -81,7 +81,7 @@ POc _&ast;ka[(r,l)a]qabusi_ appears to have denoted a taxon including at least _
 </tr>
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;ka(r,l)aqabusi</i>
 </td>
 <td>
@@ -109,7 +109,7 @@ POc _&ast;ka[(r,l)a]qabusi_ appears to have denoted a taxon including at least _
 </tr>
 <tr>
 <td><strong>PSV</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;na-ɣniabʷus</i>
 </td>
 <td>
@@ -127,7 +127,7 @@ POc _&ast;ka[(r,l)a]qabusi_ appears to have denoted a taxon including at least _
 </tr>
 <tr>
 <td><strong>PCP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;ka(r,l)aqabusi</i>
 </td>
 <td>
@@ -183,7 +183,7 @@ POc _&ast;ka[(r,l)a]qabusi_ appears to have denoted a taxon including at least _
 <table id="3-8-2-1-239-PEOc-karladroa-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;(k)a(r,l)adroŋa</i>
 </td>
 <td>
@@ -216,7 +216,7 @@ If Lukep (Pono) (NNG) _doi_ '_Cerbera manghas_' is cognate (the two trees are of
 <table id="3-8-2-2-239-PCP-doi-a">
 <tr>
 <td><strong>PCP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;doi</i>
 </td>
 <td>
@@ -273,7 +273,7 @@ cf. also:
 <table>
 <tr>
 <td>NCV</td>
-<td>Raga</td>
+<td><a href="../languages/raga">Raga</a></td>
 <td><i>dovae</i></td>
 <td>
 '<span><em>Alphitonia zizyphoides</em></span>'(<a href="../sources/Walsh2004">Walsh2004</a>)
@@ -306,7 +306,7 @@ The POc term for _Commersonia bartramia_ was _&ast;jamaR_. The Mwotlap, Mota and
 <table id="3-8-2-3-240-POc-jamar-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;jamaR</i>
 </td>
 <td>
@@ -393,7 +393,7 @@ The POc term _&ast;mʷala(q)u_ almost certainly denoted the Bismarcks species _G
 <table id="3-8-2-4-241-POc-malaqu-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;mʷala(q)u</i>
 </td>
 <td>
@@ -426,7 +426,7 @@ The POc term _&ast;mʷala(q)u_ almost certainly denoted the Bismarcks species _G
 </tr>
 <tr>
 <td><strong>PROc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;mʷala(q)u</i>
 </td>
 <td>
@@ -460,7 +460,7 @@ The POc term _&ast;mʷala(q)u_ almost certainly denoted the Bismarcks species _G
 </tr>
 <tr>
 <td><strong>PSV</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;na-mel(p)au</i>
 </td>
 <td>
@@ -494,11 +494,11 @@ PWOc _&ast;jimʷaR_ or _&ast;jimiR_ in all probability denoted the caulking subs
 <table id="3-8-2-4-242-PWOc-jimar-a">
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
-<td>
-<i>&ast;jimʷaR, jimiR</i>
+<td style="white-space: nowrap;">
+<i>&ast;jimʷaR, &ast;jimiR</i>
 </td>
 <td>
-'<span>sap used for caulking</span>' (<a href="../sources/Ross1988">Ross1988: 79</a>)
+'<span>sap used for caulking</span>' (<a href="../sources/Ross1988">Ross1988</a>: <span>79</span>)
 [^2]</td>
 </tr>
 <tr>
@@ -610,7 +610,7 @@ POc _&ast;koka_ probably denoted several _Macaranga_ species. Known reflexes wit
 <table id="3-8-2-5-243-POc-koka-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;koka</i>
 </td>
 <td>
@@ -643,7 +643,7 @@ POc _&ast;koka_ probably denoted several _Macaranga_ species. Known reflexes wit
 </tr>
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;koka</i>
 </td>
 <td>
@@ -651,7 +651,7 @@ POc _&ast;koka_ probably denoted several _Macaranga_ species. Known reflexes wit
 </tr>
 <tr>
 <td><strong>PCP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;koka</i>
 </td>
 <td>
@@ -666,7 +666,7 @@ PMP _&ast;binu(q)an_ below is reconstructed on the basis of the Oceanic data and
 <table id="3-8-2-5-243-POc-pinuqan-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;binu(q)an</i>
 </td>
 <td>
@@ -674,7 +674,7 @@ PMP _&ast;binu(q)an_ below is reconstructed on the basis of the Oceanic data and
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;pinu(q)an</i>
 </td>
 <td>
@@ -785,7 +785,7 @@ PMP _&ast;binu(q)an_ below is reconstructed on the basis of the Oceanic data and
 <table id="3-8-2-5-244-PWOc-bara-a">
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;bara</i>
 </td>
 <td>
@@ -833,7 +833,7 @@ There are formal questions associated with the reconstruction of PWOc _&ast;kobo
 <table id="3-8-2-5-244-PWOc-kobo-a">
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;kobo</i>
 </td>
 <td>
@@ -898,7 +898,7 @@ There is disagreement among cognates with regard to the final _&ast;-aqi_ of POc
 <table id="3-8-2-6-245-POc-qaramaqi-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;qadamay</i>
 </td>
 <td>
@@ -907,7 +907,7 @@ There is disagreement among cognates with regard to the final _&ast;-aqi_ of POc
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;qaramʷaqi</i>
 </td>
 <td>
@@ -1000,7 +1000,7 @@ There is disagreement among cognates with regard to the final _&ast;-aqi_ of POc
 <table id="3-8-2-6-246-PCP-qaromea-a">
 <tr>
 <td><strong>PCP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;qaromʷ(ē,ā)</i>
 </td>
 <td>
@@ -1019,7 +1019,7 @@ There is disagreement among cognates with regard to the final _&ast;-aqi_ of POc
 </tr>
 <tr>
 <td><strong>PPn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;q[a,o]loŋā</i>
 </td>
 <td>
@@ -1100,7 +1100,7 @@ A number of groups in Indonesia and Melanesia practised ritual tooth-blackening 
 <table id="3-8-2-7-247-POc-tawasi-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;tawasi</i>
 </td>
 <td>
@@ -1144,7 +1144,7 @@ A number of groups in Indonesia and Melanesia practised ritual tooth-blackening 
 </tr>
 <tr>
 <td><strong>PPn</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;tawahi</i>
 </td>
 <td>
@@ -1202,7 +1202,7 @@ Blust (ACD) reconstructs PWMP _&ast;deRuŋ_ on the basis of western Malaya-Polyn
 <table id="3-8-2-8-248-POc-droru-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;deRuŋ</i>
 </td>
 <td>
@@ -1210,7 +1210,7 @@ Blust (ACD) reconstructs PWMP _&ast;deRuŋ_ on the basis of western Malaya-Polyn
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;droRu(ŋ)</i>
 </td>
 <td>
@@ -1275,11 +1275,11 @@ POc _&ast;maRako_ '_Trichospermum peekelii_' is an unproblematic reconstruction.
 <table id="3-8-2-9-248-POc-marako-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;maRako</i>
 </td>
 <td>
-'<span><em>Trichospermum peekelii</em></span>' (<a href="../sources/Geraghty1990">Geraghty1990: PEOc</a>)
+'<span><em>Trichospermum peekelii</em></span>' (<a href="../sources/Geraghty1990">Geraghty1990</a>: <span>PEOc</span>)
 </td>
 </tr>
 <tr>
@@ -1320,7 +1320,7 @@ POc _&ast;maRako_ '_Trichospermum peekelii_' is an unproblematic reconstruction.
 </tr>
 <tr>
 <td><strong>PCP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;mako</i>
 </td>
 <td>
@@ -1386,7 +1386,7 @@ Two less widely reflected terms, the reflexes of which are generic terms for gra
 <table id="3-8-3-None-249-POc-rabum-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;rabum</i>
 </td>
 <td>
@@ -1449,7 +1449,7 @@ Two less widely reflected terms, the reflexes of which are generic terms for gra
 <table id="3-8-3-None-249-POc-qutaquta-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;(quta)quta</i>
 </td>
 <td>
@@ -1493,11 +1493,11 @@ In PROc, _&ast;mʷanaya_, another apparently generic term for grass occurred. Th
 <table id="3-8-3-None-250-PROc-manaya-a">
 <tr>
 <td><strong>PROc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;mʷanaya</i>
 </td>
 <td>
-'<span>grass</span>' (<a href="../sources/Clark1996">Clark1996: PNCV *mʷanai</a>)
+'<span>grass</span>' (<a href="../sources/Clark1996">Clark1996</a>: <span>PNCV *mʷanai</span>)
 </td>
 </tr>
 <tr>
@@ -1566,7 +1566,7 @@ Blust (ACD) reconstructs PAn _&ast;Riaq_ 'sword grass, _Imperata cylindrica_' on
 <table id="3-8-3-1-251-POc-reqi-a">
 <tr>
 <td><strong>PCEMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;Reqi</i>
 </td>
 <td>
@@ -1574,7 +1574,7 @@ Blust (ACD) reconstructs PAn _&ast;Riaq_ 'sword grass, _Imperata cylindrica_' on
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;Reqi</i>
 </td>
 <td>
@@ -1762,7 +1762,7 @@ It is probable that the Central Papuan (Taboro, Hula, Motu and Doura) forms in t
 <table id="3-8-3-1-252-POc-gurun-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;guRun</i>
 </td>
 <td>
@@ -1770,7 +1770,7 @@ It is probable that the Central Papuan (Taboro, Hula, Motu and Doura) forms in t
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;guRu(n)</i>
 </td>
 <td>
@@ -1836,7 +1836,7 @@ _Coix lacryma-jobi_ is a robust tropical grass, 1--1.5 m high, with shiny grains
 <table id="3-8-3-2-253-POc-sila-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;sila</i>
 </td>
 <td>
@@ -1882,7 +1882,7 @@ A reed-like grass dominant on dry hillsides, _Miscanthus floridulus_ grows to ab
 <table id="3-8-3-3-253-POc-piyu-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;pi(y)uŋ</i>
 </td>
 <td>
@@ -1920,7 +1920,7 @@ A reed-like grass dominant on dry hillsides, _Miscanthus floridulus_ grows to ab
 </tr>
 <tr>
 <td><strong>PSV</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;na-(v)iuŋ</i>
 </td>
 <td>
@@ -1977,7 +1977,7 @@ The reconstruction below originates with [French-Wright](../sources/FrenchWright
 <table id="3-8-3-4-254-POc-pijo-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;pijo</i>
 </td>
 <td>
@@ -2015,7 +2015,7 @@ The reconstruction below originates with [French-Wright](../sources/FrenchWright
 </tr>
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
-<td>
+<td style="white-space: nowrap;">
 <i>&ast;piso</i>
 </td>
 <td>
