@@ -520,7 +520,7 @@ polymorphemic (i.e. the morphemes reflect morphemes present in the reconstructed
 or contains a reduplication, the morphemes or reduplicates are also separated by a hyphen.
 
 [11] An argument that North/Central Vanuatu does not constitute a genetic subgroup is made
-     by Lynch (1995) and summarised in Lynch, Ross and Crowley (2002: Ch. 5). The argument
+     by Lynch (1995) and summarised in Lynch et al. (2002: Ch. 5). The argument
      that Fijian does not constitute a genetic subgroup was made by Geraghty (1983) and is
      incorporated into Figure 1, where 'Fijian' comprises Rotuman, the East Fijian dialects,
      and West Fijian (also a dialect network).
@@ -545,10 +545,10 @@ __block__
 -   [x,y]      the item is reconstructable in two forms, one with _x_ and one with _y_
 -   _x-y_      _x_ and _y_ are separate morphemes
 -   _x-_       _x_ takes an enclitic or a suffix
--   _<x>_      _x_ is an infix
+-   _⟨x⟩_      _x_ is an infix
 
 
-                          14              Malcolm Ross, Andrew Pawley and Meredith Osmond
+14              Malcolm Ross, Andrew Pawley and Meredith Osmond
 
    It happens fairly often that the final consonant in a higher-order reconstructed etymon
 (e.g. _*-R_ in PMP _*kamaliR_ 'men's house') is not evidenced in any Oceanic reflex. Often POc
@@ -633,7 +633,7 @@ addition of _*pʷ_.
 
 The reconstruction of _*pʷ_ was first proposed (with little commentary) by Blust (1984), and
 used in reconstructions by Ross (1994a, 1996d). The POc consonant inventory reconstructed
-by Ross (1988:93-94), as well as its orthographically somewhat different predecessor
+by [Ross (1988:93-94)](https://babel.hathitrust.org/cgi/pt?id=uc1.32106009253128&seq=111), as well as its orthographically somewhat different predecessor
 reconstructed by Grace (1969; see §2.4), included the pairs _*p_ and _*b_, _*t_ and _*d_, and _*k_ and
 _*g_,[1] but only the single velarised bilabial _*bʷ_ (Grace's _*ŋp_); so the conclusion that _*pʷ_ is also
 required by the data is not surprising. However, the reflexes of _*pʷ_ have not been worked out
@@ -849,7 +849,7 @@ _*gemgem_      |    'make a fist'    | _*gugu(m)_ | 'grasp in fist, clench fist'
 
    The remarks below on POc word classes and derivational morphology are rather brief,
 largely because these remain somewhat poorly explored areas. More detail is provided by
-Lynch, Ross and Crowley (2002), but there is a great deal about POc morphosyntax
+Lynch et al. (2002), but there is a great deal about POc morphosyntax
 that we do not know and which is perhaps irretrievable. The major publication on POc
 grammar is Pawley (1973).[5]
 
@@ -882,7 +882,7 @@ Hoava (WOc, MM), all verbs in the corpus have transitive and intransitive altern
 [6]  In order to reconstruct the POc verbal system, I have consulted grammars which (a) are sufficiently detalled
   and (b) describe languages which seem phonologically and morphologically quite conservative. There are not
   many of these: I have consulted descriptions of Manam (WOc, NNG) (Lichtenberk 1983), Hoava (WOc,
-  MM) (Davis 1997), Kwaio (Keesing 1985) and Longgu (Hill (992) (both EOc, SES), Ambae (Catriona
+  MM) (Davis 1997), Kwaio (Keesing 1985) and Longgu (Hill (1992) (both EOc, SES), Ambae (Catriona
   Hyslop, pers.comm.) and Malo (Jauncey 1997) (both EOc, NCV) and Boumaa Fijian (EOc, Fij) (Dixon
   1988). The criterion of morphological conservatism is the sharing of morphosyntactic features across djfferent
   Oceanic subgroups. Unfortunately, we have no grammar of an Admiralties language which is sufficiently
@@ -962,8 +962,8 @@ __igt__
 
 U verbs and U-statives differ from each other in two respects. First, unlike U verbs, U-statives
 have no corresponding transitive (but do have a corresponding causative, as described below).
-Second, U-statives like loaloa 'be black' in (3) are inherently stative, whereas U verbs like
-gagi in (4) are inherently neither dynamic nor stative. With appropriate aspect marking and
+Second, U-statives like _loaloa_ 'be black' in (3) are inherently stative, whereas U verbs like
+_gagi_ in (4) are inherently neither dynamic nor stative. With appropriate aspect marking and
 context, the clause in (4) may be given either a dynamic ('the sugarcane is being crushed') or
 a stative ('the sugarcane is [already] crushed') interpretation.
 
@@ -1122,13 +1122,13 @@ this feature for POc.
 
 __table__
 (9)  |                                      |        Proto Oceanic  |  Proto Oceanic |
-     |                                      |           intransitive|  transitive  |       Ch. 9[14]
-     |   PAn _*tektek_ 'hack off'             |          *toto(k)     |      *toki-  |       3.2
-     |   PMP _*(c,s)uk(c,s)uk_ 'skewer'       |          *(su)su(k)   |      *suki-  |       4.1
-     |   PAn _*tuqtuq_ 'hammer, pound'        |          *tutuk       |      *tuki-  |       5.1
-     |   PMP _*pakpak_ 'clap, slap'           |          *baba(k)     |      *baki-  |       5.1
-     |   PAn _*buCbuC_ 'pluck out'            |          *pupu(t)     |      *puti-  |       6.1
-     |   PMP _*pespes_ 'squeeze, press out'   |          *popo(s)     |      *posi-  |       7
+     |                                   |           intransitive|  transitive  |       Ch. 9[14]
+     |   PAn _*tektek_ 'hack off'             |    _*toto(k)_     |   _*toki-_  |       Ch. 9, §3.2
+     |   PMP _*(c,s)uk(c,s)uk_ 'skewer'       |    _*(su)su(k)_   |   _*suki-_  |       Ch. 9, §4.1
+     |   PAn _*tuqtuq_ 'hammer, pound'        |    _*tutuk_       |   _*tuki-_  |       Ch. 9, §5.1
+     |   PMP _*pakpak_ 'clap, slap'           |    _*baba(k)_     |   _*baki-_  |       Ch. 9, §5.1
+     |   PAn _*buCbuC_ 'pluck out'            |    _*pupu(t)_     |   _*puti-_  |       Ch. 9, §6.1
+     |   PMP _*pespes_ 'squeeze, press out'   |    _*popo(s)_     |   _*posi-_  |       Ch. 9, §7
 
 We also find 'deponent' cases in POc where a PAn/PMP reduplicated monosyllable and a
 POc transitive monosyllable + _*-i-_ form are reconstructable, but no intransitive form. This is
@@ -1349,11 +1349,11 @@ history. A good basic description of such a system is provided by Schachter (198
 __table__
 (16)|                                  |                 |                  |
     | | nominalisations _or_ indicative independent imperfective | nominalisations _or_ indicative independent perfective | non-indicative or dependent
-    | Actor focus or intransitive      |    _\<um>_√      |     _\<um-in>_√   |      √
+    | Actor focus or intransitive      |    _⟨um⟩_√      |     _\<um-in>_√   |      √
     | Actor focus only                 |    _[ma]N-_√    |     _naN-_√      |      _paN-_√
-    | Patient focus or intransitive    |    √_-en_       |     _\<in>_√      |      √_-a_
-    | Location focus                   |    √_-an_       |     _\<in>_√_-an_ |        √_-i_
-    | Instrument or beneficiary focus  |    _i-_√        |     _i-\<in>_√    |      √_-án_
+    | Patient focus or intransitive    |    √_-en_       |     _⟨in⟩_√      |      √_-a_
+    | Location focus                   |    √_-an_       |     _⟨in⟩_√_-an_ |        √_-i_
+    | Instrument or beneficiary focus  |    _i-_√        |     _i-⟨in⟩_√    |      √_-án_
 
 : The PMP verbal system (based on Wolff 1973 and Ross 1995a)
 
@@ -1383,7 +1383,7 @@ __table__
 (18)| |   nominalisation imperfective | nominalisation perfective | verb
     | Intransitive            |               |               |  √
     | (relic transitives)     |   (√_-on_)      |               |  (_paN-_√, _N-_√)
-    | Transitive              |    √_-an_       |   _\<in>_√(_-an_)  |  √_-i-_
+    | Transitive              |    √_-an_       |   _⟨in⟩_√(_-an_)  |  √_-i-_
     | Applicative             |    _i-_√        |               |  √_-aki[ni]-_
 
 The stages by which the PMP system became the POc system lie beyond the scope of this
@@ -1461,7 +1461,6 @@ __table__
     | _*kutu_ 'cut'                                    |  Bauan _gutu_, _gutuv(a)_ 'cut off, sever'
     | _*kinit_, _*kinit-i-_ 'pinch off'                |  Gumawana _ginisi_ 'pinch s.o.'
     |                                                  |  Lau _gini-gini_ 'pinch off with the nails'
-    |                                                  |                               ,
     | _*kawit_, _kawit-i-_ 'hook, catch hold of'       |  Lukep _-gaot_ 'pick (breadfruit)
     |                                                  |  Dobu _geuta_ 'hook fruit, fruit hook'
     |                                                  |  Lau _gau_ 'pluck fruit with bamboo, crook'
@@ -1519,7 +1518,7 @@ am unable to give a principled account of them.[23]
 [23] Explanations might include (i) errors in the association of POc and PMP reconstructions, i.e.
 more items in (23) and (24) are descended from voiced-initial PMP roots than is apparent (unlikely, as
 PMP _*g-_ had a very low functional load); (ii) some unrecognised developments had occurred in the
-pre-POc focus system; (iii) the nasal feature came not from PMP _*-N-_ but from PMP _*<um>_ in (19),
+pre-POc focus system; (iii) the nasal feature came not from PMP _*-N-_ but from PMP _*⟨um⟩_ in (19),
 i.e. the POc system in (21) is incorrectly reconstructed.
 
 
@@ -1562,14 +1561,14 @@ had other senses too.
 
 __table__
 (23) |PMP  | nominalisation imperfective | nominalisation perfective | _*kaʔen_ 'eat'
-     | Patient    |           √_-en_      |       _\<in>_√      |      _*kaʔen-en_ 'thing to be eaten, food'
-     |            |                     |                  |        _*k\<in>aʔen_ 'thing eaten'
-     |Location    |          √_-an_       |      _\<in>_√_-an_    |     _*kaʔen-an_ 'place where one eats'
-     |            |                     |                  |        _*k\<in>aʔen-an_ 'place where one has eaten'
-     |Instrument  |          _i-_√        |      (_i-\<in>_√)   |     _*i-kaʔen_ 'thing one eats with'
+     | Patient    |           √_-en_      |       _⟨in⟩_√      |      _*kaʔen-en_ 'thing to be eaten, food'
+     |            |                     |                  |        _*k⟨in⟩aʔen_ 'thing eaten'
+     |Location    |          √_-an_       |      _⟨in⟩_√_-an_    |     _*kaʔen-an_ 'place where one eats'
+     |            |                     |                  |        _*k⟨in⟩aʔen-an_ 'place where one has eaten'
+     |Instrument  |          _i-_√        |      (_i-⟨in⟩_√)   |     _*i-kaʔen_ 'thing one eats with'
 
-The affix combination _*i-<in>_√ is parenthesised because I know of no reflexes of it as a
-nominaliser. Reflexes of _*<in>_√-an are known only from Oceanic, and may reflect a local
+The affix combination _*i-⟨in⟩_√ is parenthesised because I know of no reflexes of it as a
+nominaliser. Reflexes of _*⟨in⟩_√-an are known only from Oceanic, and may reflect a local
 innovation.
 
    The corresponding POc nominalisations are tabulated in (24). Although the verbal focus
@@ -1578,16 +1577,16 @@ continued to be associated with semantic roles:
 
 __table__
 (24) |POc | nominalisation imperfective |nominalisation perfective   |           _*kani_ 'eat'
-     |Patient       |        (√_-on_)    |       _\<in>_√       |    _*kanoŋ_ 'thing to be eaten, food'
-     |              |                  |                   |    _*k\<in>ani_ 'thing eaten'
-     |Location      |        √_-an_      |       _\<in>_√_-an_    |     _*kan-an_, _*kanaŋ_ 'place where one eats'
-     |              |                  |                   |     _*k\<in>an-an_ 'place where one has eaten'
+     |Patient       |        (√_-on_)    |       _⟨in⟩_√       |    _*kanoŋ_ 'thing to be eaten, food'
+     |              |                  |                   |    _*k⟨in⟩ani_ 'thing eaten'
+     |Location      |        √_-an_      |       _⟨in⟩_√_-an_    |     _*kan-an_, _*kanaŋ_ 'place where one eats'
+     |              |                  |                   |     _*k⟨in⟩an-an_ 'place where one has eaten'
      |Instrument    |        _i-_√       |                   |     _*i-kani_ 'thing one eats with'
 
 The affix combination _*√-on_ is parenthesised because it survived only in fossilised forms like
 POc _*kanoŋ(a)_ 'flesh, meat, coconut flesh' (Ross 1996d: 174). However, it is clear that the
 rest of the system remained productive in POc (and much of it remains productive in various
-modern languages), as _*<in>_ and _*i-_, at least, were evidently added to the productive POc root,
+modern languages), as _*⟨in⟩_ and _*i-_, at least, were evidently added to the productive POc root,
 e.g. _*kani_, not the stem *kan reflecting PMP _*kaʔen_. However, it is less clear that this is true
 of _*-an_.
 
@@ -1597,15 +1596,15 @@ where it was in competition with initial-syllable reduplication, which also form
 
    I noted in §3.1.3 that the function of location focus forms was extended to include patient
 focus. This also happened to a degree with nominalisations, in that _*√-on_ survives only in
-fossils. However, its perfective counterpart _*<in>√_ survives as patient and general nominaliser
+fossils. However, its perfective counterpart _*⟨in⟩√_ survives as patient and general nominaliser
 in Mussau and the Meso-Melanesian cluster.[25] In Roviana and Hoava (MM) the general
-nominaliser is _<in>_, e.g. Roviana _k<in>era_ 'song' from _kera_ 'sing', whilst _*-an_ retains its local
+nominaliser is _⟨in⟩_, e.g. Roviana _k⟨in⟩era_ 'song' from _kera_ 'sing', whilst _*-an_ retains its local
 meaning, e.g. Roviana _huhuve-ana_ 'bathing place, bath' from _huhuve_ 'bathe' (Roviana preserves
 POc final consonants with a following echo vowel, so _-ana_ is the regular reflex of _*-an_). In
 other languages the reflex of the erstwhile locational _*√-an_ has taken over the function of
 general nominaliser, so that some reflexes of POc _*mate-an_, e.g. Vitu (MM) _mate-a_, Longgu
 (SES) _mae-a-_, _mean_ 'death', rather than 'deathbed' or 'cemetery'. The affix combination
-_*<in>√-an_ is reflected in fossilised reflexes of POc _*k<in>ani-ana_ 'food' in the languages of
+_*⟨in⟩√-an_ is reflected in fossilised reflexes of POc _*k⟨in⟩ani-ana_ 'food' in the languages of
 Epi (central Vanuatu) (Tryon 1976:289).
 
 [25] Zero-derivation or reduplication is also used to form deverbal nouns in a number of languages.
@@ -1620,7 +1619,7 @@ Secondly, there is good evidence that both also occurred with an additional _*-a
 and _*√-aŋa_. The only known language where a contrast has been found between forms
 without and with _-a_ is Mangseng (NNG), where _-ŋ_ is the general nominaliser, _-ŋ-a_ the
 instrumental formative (e.g. _puno-ŋ_ (N) 'fight', _puno-ŋ-a_ 'weapon ', both from _pun_ (V)
-'fight'). This suggests that the forms with _*-a_ may have had a separate function in POco
+'fight'). This suggests that the forms with _*-a_ may have had a separate function in POc.
 
    Forms reflecting _*√-an_ and _*√-aŋ_ can be disambiguated only in languages which preserve
 POc final consonants faithfully, and in fact only two such languages are known to reflect
@@ -1653,8 +1652,8 @@ ambiguous (e.g. _moŋe-aŋa_ 'sleeping' from _moŋe_ 'sleep').
 reconstruct each nominalisation as the data require, with _*√-an_, _*√-aŋ_, _*√-ana_ or _*√-aŋa_ (or
 on occasion _*√-ŋ_ or _*√-ŋa_), but recognising that this is probably not an accurate rendering of
 the POc form. As I noted above, however, we find cognate sets which allow the reconstruction
-of, say, both _*mate-an_ (or _*mate-aŋ_ or whatever) and _*m<in>ate_ 'death'. These pairs occur
-almost certainly because the reflex of one of _*√-an_ (etc.) or _*<in>√_ has extended its productivity
+of, say, both _*mate-an_ (or _*mate-aŋ_ or whatever) and _*m⟨in⟩ate_ 'death'. These pairs occur
+almost certainly because the reflex of one of _*√-an_ (etc.) or _*⟨in⟩√_ has extended its productivity
 at the expense of the other in various languages, creating the appearance that POc had both
 forms. In such cases we reconstruct, e.g., POc _*mate_ ('die') + NOMINALISER 'death', as we
 cannot tell which form was in fact lexicalised in POc.
@@ -1703,8 +1702,8 @@ noun and a transitive verb. Quite a number of the items we reconstruct are deriv
 their morphology allows us to assign them to a class. Relevant morphemes are described
 above in §3.1.2 and §3.2.1, Other items, especially zero-valency nouns and intransitive verbs,
 the comparative evidence suggests, could readily serve in more than one word class without
-any morphological change. Thus in cases like POc _*(p,pʷ)anaq_ (N) 'bow', (VI) 'shoot' (Ch. 8 ,
-§9) we assume that the etymon served as both a noun and verb in POc.
+any morphological change. Thus in cases like POc _*(p,pʷ)anaq_ (N) 'bow', (VI) 'shoot'
+(Ch. 8, §9) we assume that the etymon served as both a noun and verb in POc.
 
    In other cases our data sources simply give insufficient or inaccurate information about
 word class and subclass memberships, so that we often do not know whether a disyllabic
@@ -1971,7 +1970,7 @@ Shutler and Marek (1975); Walter (1989); and various papers in Pawley and Ross e
 
 42 a
 
-Map 5: Lapita sites in the south-west Pacific (after Spriggs 1995: 113)
+Map 5: Lapita sites in the south-west Pacific (after Spriggs_1995: 113)
 
                                          Architecturalforms and settlement patterns           43
 
@@ -2433,9 +2432,9 @@ ridgepole supporting a thatched, probably two-section roof were built by both PM
 speakers.
 
 <
-PMP *bubuŋ (Dempwolff 1938, Zorc 1994) 'ridgepole, ridge of the roof'
-PMP *buhuŋbuhuŋ (Blust 1972b) 'ridgepole, ridge of the roof'
-POc *pupuŋ-an 'ridgepole' (Blust 1983-84a)
+PMP *bubuŋ 'ridgepole, ridge of the roof' (Dempwolff 1938, Zorc 1994)
+PMP *buhuŋbuhuŋ 'ridgepole, ridge of the roof' (Blust 1972b)
+POc *pupuŋ-an 'ridgepole' (Blust 1983–84a)
  Adm: Mussau         puŋana
  NNG: Takia          fuŋ, fuŋan     'roof top'
  NNG: Numbami        bomboaŋa
@@ -2724,7 +2723,7 @@ from PAn times.
 
 3.3.6 Other structures associated with settlements
 
-   A general term for fireplace or hearth is reconstructable for PMP and continued in POco
+   A general term for fireplace or hearth is reconstructable for PMP and continued in POc.
 We cannot tell from linguistic evidence whether or not fireplaces for cooking were built
 inside main dwelling houses.
 
@@ -3148,7 +3147,7 @@ POc *kuron 'earthernware pot'
                                                                    Household artefacts         69
 
 
-4.2.1.2 Waterjar
+4.2.1.2 Water jar
 
     The best candidate for 'water jar' is POc _*kalala(ŋ)_, reconstructed on the basis of Proto
 WMP _*kalalaŋ_ 'narrow-necked water jar' (Tagalog _kalalaŋ_ 'narrow-necked water jug'; Blust 1980b).
@@ -3275,7 +3274,7 @@ POc *tupi 'cover (s.t.)' (Blust 1978b)
 >
 
 <
-PMP *tub-an 'lid, cover' (Mills 1981, glossed as a verb)
+PMP *tub-an 'lid, cover' (Mills 1981) (glossed as a verb)
 POc *tup-a((n,ŋ)) 'lid, cover'
   Adm: Loniu             tu-tuha             'cover, lid, leaf used as lid'
   NNG: Tumleo            cup                 'lid'
@@ -3424,9 +3423,7 @@ to the pre-existing member of each pair.
 
 
 Figure 6: POc _*(b,bʷ)ilo_ 'coconut shell used as liquid container', POc _*lasa_,
- POc _*ubi_/_*ibu_ 'coconut half shell-cup'
-
-Figure 7: POc _*kulopi_ 'cup, ladle' (from Nevermann_1934: 179)
+ POc _*ubi_/_*ibu_ 'coconut half shell-cup' __Figure 7__: POc _*kulopi_ 'cup, ladle' (from Nevermann_1934: 179)
 
 
 <
@@ -3766,14 +3763,14 @@ PEOc *bola 'coconut leaves woven together for any purpose, including mats, baske
 (Ross Clark pers.comm.). If so, this reduces the reconstruction from PEOc to PCP.
 
 <
-PEOc *ibe 'mat' (pawley 1976)
+PEOc *ibe 'mat' (Pawley 1976)
   SES:   Gela             ibe
   SES:   'Are'are         ipe               'mat, bed'
   Fij:   Bauan            ibe
 >
 
   Two further terms have been reconstructed for PPn only: _*fala_ 'plaited pandanus mat',
-and _*faaliki_ 'cover floor with mats or grass; floor covering', both from Biggs (1993).
+and _*fāliki_ 'cover floor with mats or grass; floor covering', both from Biggs (1993).
 
 
 
@@ -3919,7 +3916,7 @@ POc *piri 'plait a cord, twist, wrap around'
   NNG:  Gedaged          piȴi             'weave (mats, sails +), (V) braid, knot (the strands of grass-skirts)'
   PT:   Kilivila         vili             'tum; make grass-skirts; be twisted'
   PT:   Molima           vili             'make a skirt, roll a cigarette, put a headdress round the head'
-  PT:   Motu             hiri             'fasten by twisting round and round; tie up (a parcel, bundle), twisting string all round it; kill (Pig) for visitors'
+  PT:   Motu             hiri             'fasten by twisting round and round; tie up (a parcel, bundle), twisting string all round it; kill (pig) for visitors'
   MM:   Tolai            pir              'plait (basket, mat +)'
   MM:   Nakanai          viri             'twist, wind up, wind around'
   MM:   Simbo            viri             'plait, make a basket'
@@ -4253,7 +4250,7 @@ POc *(p,pʷ)aRara 'handle' (Milke 1968: _*paRaRa_)
   SES: Gela           valala            'handle; cross handle of an adze'
   SES: Sa'a           halala            'helve an axe'
   SES: Arosi          hara-hara         'bamboo knife for cutting up pigs'
-  SES: Arosi          (a)harara         'having a handle' (a- < POc *ta-)
+  SES: Arosi          (a)harara         'having a handle' (_a-_ < POc _*ta-_)
   NCV: Raga           vara              'handle'
   Mic: Puluwat        pār, pera-        '(knife, saw) handle'
   Mic: Woleaian       paṣ               'that part of a utensil or tool which is to be held with the hand'
@@ -4274,7 +4271,7 @@ reflexes show haplology.
 the very best cutting edge would have been a flake of obsidian, used as a razor or for
 whatever forms of surgery might have been performed on the human body, and the term for
 this was apparently _*koto_ (see below). However, dedicated terms for 'knife', as opposed to
-the substances they were made from, are hardly reconstructable in POco The only one we can
+the substances they were made from, are hardly reconstructable in POc. The only one we can
 be sure of is:
 
 <
@@ -4385,15 +4382,14 @@ POc *koto 'obsidian head of spear, obsidian knife or blade; cut (across)'
 
 
 A group of eastern Polynesian languages have a term for obsidian probably derived from
+POc _*(m,mʷ)ata_ 'cutting edge' (§4.1.1).
 
-<
-POc *(m,mʷ)ata 'cutting edge' (§4.1.1)
+__formgroup__
   Pn:  Rapanui          matā              'obsidian'
   Pn:  Maori            matā              'obsidian, flint, quartz'
   Pn:  Hawaiian         mākā              'kind of stone'
->
 
-4.4. 1. 4 Awl
+4.4.1.4 Awl
 
    Multi-purpose piercing tools may have been carried, fashioned from bone, perhaps a pig's
 femur. These were useful for piercing shells, splitting fibres for weaving, splitting areca nuts,
@@ -4503,8 +4499,8 @@ abrasive.
 4.5.1 Bark-cloth (_tapa_)
 
    The material used to make bark-cloth or tapa in the Pacific area is obtained mainly from
-various species of trees belonging to the genera Broussonetia, Artocarpus, and _Ficus_, all of
-which belong to the family Moraceae. Wherever _tapa_ was made, the Broussonetia papyrijera
+various species of trees belonging to the genera _Broussonetia_, _Artocarpus_, and _Ficus_, all of
+which belong to the family Moraceae. Wherever _tapa_ was made, the _Broussonetia papyrifera_
 or paper mulberry tree was used for the highest quality cloth. It is not native to the Pacific,
 but to eastern Asia, whence migrants carried it to Indonesia and the Pacific. The only other
 significant source is the _Pipturus_ species, used for _tapa_ particularly in Hawaii (Kooijman 1972: 1).
@@ -4535,7 +4531,7 @@ Figure 12: POc _*ike_ 'tapa beater'
 
    Although terms can be located in WOc, none are cognate, and no POc term is reconstructable,
 apart from terms for the sources of raw material, POc _*(m,mʷ)ase_ 'wild mulberry, paper
-mulberry, 'Broussonetia papyrijera' POc _*kuluR_ 'breadfruit, Artocarpus' (from PAn _*kuluR_)
+mulberry, '_Broussonetia papyrifera_' POc _*kuluR_ 'breadfruit, _Artocarpus_' (from PAn _*kuluR_)
 and POc _*nunu(k)_ (from PMP _*nunuk_ 'banyan, _Ficus_ spp.') (see Plants, vol. 3).
 
   The term _tapa_, now virtually the generic term for bark-cloth, can be reconstructed for
@@ -4571,7 +4567,7 @@ stained', its more restricted meaning in Samoa is understandable.
    A second term in Polynesia, referring both to plant and product, is widespread:
 
 <
-PPn *siapo 'paper-mulberry plant (Broussonetia sp.); bark-cloth' (Biggs 1993)
+PPn *siapo 'paper-mulberry plant (_Broussonetia_ sp.); bark-cloth' (Biggs 1993)
     Pn:     Niuean             hiapo                'paper-mulberry plant, bark-cloth garment'
     Pn:     Tongan             hiapo                'paper-mulberry plant'
     Pn:     E. Futunan         siapo                'bark-cloth'
@@ -4642,12 +4638,12 @@ the latter having unexplained _*o_ for expected _*u_ and _*l_ for expected _*r_.
 doubt that the POc term referred to bark-cloth and a garment made from that material.
 
 <
-POc *malo 'broussonetia papyrijera, loincloth' (Milke 1968)
+POc *malo '_Broussonetia papyrifera_, loincloth' (Milke 1968)
   NNG: Gedaged          mal          'tree, bark of which is used to make G-strings and blankets'
   NNG: Takia            mal          'bark-cloth'
-  NNG: Kove             malo         'bark-cloth' (*malo* *maloŋia* male and female breechclout-worn under skirt by women)
+  NNG: Kove             malo         'bark-cloth' (_malo_ _maloŋia_ male and female breechclout-worn under skirt by women)
   MM:  Patpatar         māl          'cloth; clothing'
-  MM:  Tolai            mal          'name of small tree, Broussonetia papyrijera; native cloth made from bark of this tree; any kind of cloth, loincloth'
+  MM:  Tolai            mal          'name of small tree, _Broussonetia papyrifera_; native cloth made from bark of this tree; any kind of cloth, loincloth'
   MM:  Teop             maro         'cloth/clothing'
   SES: Arosi            maro         'tree species, paper mulberry; beaten cloth of the _mara_ (bark soaked in water and then beaten out, later painted in gay colours and used as a sling (_duru_) to carry a child, or a loincloth (_gaha_)'
   NCV: Raga             malo         'men's loin cloth'
@@ -4689,7 +4685,7 @@ and the north coast of New Guinea were connected by trading links, it may be due
 borrowing.
 
 <
-POc (?) *nai (V)'woman's grass (shredded leaf?) skirt'
+POc (?) *nai(V) 'woman's grass (shredded leaf?) skirt'
   Adm: Loniu              nay               'short ornamented skirt'
   Adm: Nyindrou           nay               'woman's dress'
   NNG: Gedaged            nai
@@ -4929,7 +4925,7 @@ independently made.
 made from it, is POc _*japi_.
 
 <
-POc *japi 'k.o. bivalve (possibly gold-lipped pearlshell, Pinetada maxima); ornament made from this' (Pawley 1996b)
+POc *japi 'k.o. bivalve (possibly gold-lipped pearlshell, _Pinctada maxima_); ornament made from this' (Pawley 1996b)
  NNG: Manam           sai                 'pearlshell spoon'
  PT:  Hula            ravivi              'clamshell'
  MM:  Roviana         davi                'pearlshell'
@@ -4937,7 +4933,7 @@ POc *japi 'k.o. bivalve (possibly gold-lipped pearlshell, Pinetada maxima); orna
  SES: 'Are'are        tafi                'pearlshell; ornament made of same'
  SES: Arosi           dahi                'gold-lipped pearlshell'
 PCP *jiva 'pearl oyster' (metathesis)
- Fij: Wayan           civa                'pearl oysters, including blacklipped pearl (Pinetada margaritifera), giant wing oyster (Avieula sp.) and hammer oysters (Malleus spp.)'
+ Fij: Wayan           civa                'pearl oysters, including blacklipped pearl (_Pinctada margaritifera_), giant wing oyster (_Avicula_ sp.) and hammer oysters (_Malleus_ spp.)'
  Fij: Bauan           civa                'pearl oysters (same range as Wayan)'
  Pn:  Tongan          sifa                'pearlshell breastplate'
  Pn:  Rarotongan      tiʔa                'pearlshell breastplate'
@@ -4952,10 +4948,10 @@ of wealth. Seligman (1910:514) writes of the Southern Massim:[9]
   languages spoken.
 
 
-|   [Sapisapi] is a widely distributed name for the small red or purple discs made from the lip of
-|   a bivalve shell which I believe is Chama pacifica. There are various qualities of sapisapi, and
+|   [_Sapisapi_] is a widely distributed name for the small red or purple discs made from the lip of
+|   a bivalve shell which I believe is _Chama pacifica_. There are various qualities of _sapisapi_, and
 |   these discs are worn singly as earrings (on a ring of turtle shell), or made up into such
-|   standard ornaments as bagi or the necklaces called samakupa at Tubetube. Bagi are always
+|   standard ornaments as _bagi_ or the necklaces called _samakupa_ at Tubetube. _Bagi_ are always
 |   imported and never made locally either at Tubetube or Milne Bay, in both of which localities
 |   they constitute the most valuable portable property a man can acquire.
 
@@ -5031,7 +5027,7 @@ PROc *seru 'comb' (Milke 1968)
 
 
    Blust reconstructs PMP _*suat_ 'k.o. comb', a root which seems to have survived as a
-transitive verb in POco
+transitive verb in POc.
 
 <
 PMP *suat 'k.o. comb' (Blust 1983-84a)
@@ -5362,7 +5358,7 @@ Our reconstructions are for items which draw on a range of raw materials. They i
 __block__
 - vegetable products (a variety of timbers, bamboo, coconut shell, leaves, vine, cane and bark)
 - stone (of variable quality, the most useful being obsidian, flint and basalt)
-- coral and shell (_Tridacna_, _Trochus_, Conus, clam, pearlshell and others; turtle shell)
+- coral and shell (_Tridacna_, _Trochus_, _Conus_, clam, pearlshell and others; turtle shell)
 - animal products (bone, skin)
 - earth products (pigments, earth, clay).
 
@@ -5370,7 +5366,7 @@ While most of these would be readily available throughout the western Oceanic re
 in particular - obsidian and clay of good, workable quality - are limited in their distribution.
 Although obsidian and clay pots were widely traded, cognate sets supporting reconstructions
 are relatively few. The potting term evidence, however, for all its limitations, shows considerable
-continuity of terms from PMP to POco The paucity of Oceanic terms may be due in part to
+continuity of terms from PMP to POc The paucity of Oceanic terms may be due in part to
 the scattered nature of pot-making settlements, together with the widespread replacement in
 recent times of pots by tinware, but is also no doubt due to the long-term disappearance of
 the skill in the eastern Oceanic region. Although traces of Lapita pots have been uncovered as
@@ -5385,7 +5381,7 @@ will show, there is considerable variation in meaning from place to place, with 
 term being used at times for other sharp stones, for a razor, for the head of a spear or an
 arrow, and as a cutting verb.
 
-                           114 Meredith Osmond and Malcolm Ross
+114 Meredith Osmond and Malcolm Ross
 
     As one moves east, from N.W. Melanesia and the Solomons out into the Pacific, the range
 of plant and animal life becomes less, with coral atolls having the most restricted environments.
@@ -5451,7 +5447,7 @@ without supporting data) but rather, with terms for gardens and for activities a
 gardening.
 
     A considerable debt is owed to the unpublished 1983 thesis of Renwick French-Wright,
-Proto Oceanic Horticultural Practices, a work which travelled much the same road as this
+_Proto Oceanic Horticultural Practices_, a work which travelled much the same road as this
 chapter does, and many of whose cognate sets have been included here. Because more
 stringent subgrouping requirements apply today before a reconstruction can be identified as
 POc, some revision of his reconstructions has been necessary - usually involving downgrading
@@ -5554,12 +5550,12 @@ POc *quma 'garden; to clear land for a garden' (Grace 1969)
  PT:  Molima            ʔuma                'planted garden'
  PT:  Sudest            uma                 'garden'
  PT:  Motu              uma                 'garden, enclosed, cultivated plot'
- MM:  Bulu              ɣ<in>uma            'garden' (< POc _*q<in>uma_ <NOM>garden)
+ MM:  Bulu              ɣ⟨in⟩uma            'garden' (< POc _*q⟨in⟩uma_ ⟨NOM⟩garden)
  MM:  Nakanai           (ma)huma            'garden'
  MM:  Tolai             uma                 'garden'
- MM:  Kia               (n-un)uma           'garden' (< POc _*na_ ART + _*q<in>uma_ <NOM>garden)
+ MM:  Kia               (n-un)uma           'garden' (< POc _*na_ ART + _*q⟨in⟩uma_ ⟨NOM⟩garden)
  MM:  Roviana           uma                 'make a garden'
- MM:  Roviana           (in)uma             'a garden' (< POc *q<in>uma <NOM>garden)
+ MM:  Roviana           (in)uma             'a garden' (< POc *q⟨in⟩uma ⟨NOM⟩garden)
  SES: Gela              uma                 'clear away the bushes in making a garden'
  SES: Arosi             umʷa                'weed a garden'
  NCV: Mota              umʷa                'clear away growth from a garden, first stage of preparation'
@@ -5567,9 +5563,9 @@ POc *quma 'garden; to clear land for a garden' (Grace 1969)
  Fij: Wayan             uma(ni)             'turn the soil over'
 >
 
-Three MM languages (Bulu, Kia and Roviana) reflect POc _*q<in>uma_ <NOM> + 'garden' (on
+Three MM languages (Bulu, Kia and Roviana) reflect POc _*q⟨in⟩uma_ ⟨NOM⟩ + 'garden' (on
 nominalisers, see Ch. 2, §3.2.1), suggesting perhaps that at least in the early MM linkage,
-_*quma_ was a verb meaning 'make a garden ', _*q<in>uma_ the product of that activity. The
+_*quma_ was a verb meaning 'make a garden ', _*q⟨in⟩uma_ the product of that activity. The
 following item betrays a similar pattern.
 
 118 Meredith Osmond
@@ -5585,10 +5581,10 @@ POc *(b,bʷ)aku(r,R) 'work a garden ' (Dempwolff 1938: POc _*(p,b)agur_ (V) 'hoe
   SES:   Arosi           bʷaʔu             'tableland above the shore where the gardens are'
 >
 
-Ross (1994a) has reconstructed Proto Central Papuan _*v<in>ayula_ 'do work ' (Hula _inayulu_,
+Ross (1994a) has reconstructed Proto Central Papuan _*v⟨in⟩ayula_ 'do work ' (Hula _inayulu_,
 Lala _vinaula_, Kuni _bilaula_, East Mekeo _pinauna_). Central Papuan languages reflect POc
-final consonants only in borrowings from other PT languages, so _*v<in>ayula_ points to PPT
-_*b<in>aqura_, POc _*(b,bʷ)dmaku(r,R)_. The presence of the nominaliser _*<in>_ suggests that
+final consonants only in borrowings from other PT languages, so _*v⟨in⟩ayula_ points to PPT
+_*b⟨in⟩aqura_, POc _*(b,bʷ)dmaku(r,R)_. The presence of the nominaliser _*⟨in⟩_ suggests that
 _*(b,bʷ)aku(r,R)_ was a verb.
 
 
@@ -8581,7 +8577,7 @@ within Oceanic as a general term for a canoe or boat with a hull, as opposed to 
 many Oceanic languages, however, the reflex of _*waga_ refers chiefly to large sailing canoes
 and other large vessels, in contrast to dugout canoes and small outrigger canoes. This range
 of meanings, taken together with the cognate set under PMP _*katiR_, suggests that _*waga_
-may have had two senses in POco
+may have had two senses in POc.
 
 <
 PCEMP *waŋka 'outrigger canoe'
@@ -9253,7 +9249,7 @@ POc *patar 'platform of any kind, including that erected over hull and outrigger
 denoting such a structure has so far been noted. In a number of languages, reflexes of PMP
 _*balay_, POc _*pale_ 'hut, shed, open-sided house' (Ch. 3, §3.3) are used for a deck hut, for
 example, Fijian _vale waqa_ (lit. 'canoe house'), and _valevale_ 'hut' (Hornell 1936:323), and
-this may also have been the case in POco
+this may also have been the case in POc.
 
 
 7.4. Outrigger structure
@@ -10250,7 +10246,7 @@ POc *pukot 'fishing net, seine'
 
 Reflexes of _*pukot_ meaning specifically 'seine' occur in both WOc (Kove, Nakanai) and
 EOc (Arosi, Sa'a) witnesses. This suggests the strong possibility that _*pukot_ denoted 'seine' in
-POco The more generalised meanings of other witnesses do not rule out this implication.
+POc. The more generalised meanings of other witnesses do not rule out this implication.
 
 <
 POc *reke 'fishing net'
@@ -12564,7 +12560,7 @@ POc *kati[-] 'husk with the teeth'
 
 The item above shows a sporadic change from POc _*a_ to PEOc _*e_. This resembles the
 change found in some reflexes of POc _*kali_, _*keli_ 'dig' (Ch. 5, §5.4), but in the latter case
-forms with both vowels must be reconstructed for POco
+forms with both vowels must be reconstructed for POc.
 
 <
 POc *(p,pʷ)ilit 'peel by hand (fruit, cooked food)'

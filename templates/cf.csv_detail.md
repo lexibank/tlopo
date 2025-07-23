@@ -1,9 +1,9 @@
 {% set items, with_morpheme_gloss = get_cfitems(ctx['ID']) %}
 <table id="{{ ctx['ID'] }}">
-{% for group, lname, form, mgloss, fn, glosses in items: %}
+{% for group, lid, lname, form, mgloss, fn, glosses in items: %}
 <tr>
 <td>{{ group }}</td>
-<td>{{ lname }}</td>
+<td><a href="{{ href_language(lid) }}">{{ lname }}</a></td>
 <td><i>{{ form }}</i></td>
 {% if with_morpheme_gloss %}
 <td>{% if mgloss %}[{{ mgloss }}]{% endif %}</td>

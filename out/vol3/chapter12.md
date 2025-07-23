@@ -273,7 +273,7 @@ POc _&ast;niuR_ appears to have been used in at least two senses: the fruit at a
 
 Right across Oceania, languages distinguish a number of growth stages of a coconut. These terminologies are often not cognate, but roughly agree on the semantic categories they distinguish.[^2] Sometimes a term for a growth stage becomes the generic term for coconut. For example, Lukep (Pono) (NNG) _matuk_ and Mota (NCV) _matig_, both 'coconut (generic)' and reflexes of POc _&ast;matuqu_ 'ripe coconut', have displaced the reflex of POc _&ast;niuR_ 'coconut (generic)'.[^3]
 
-The growth stages are distinguished according to the states of the various parts of the fruit (Figure 12.1, p.369). At and after its drinkable stage, a coconut consists of a hollow shell (the endocarp) lined with flesh (the endosperm) and filled with coconut water. The shell is surrounded by a thick husk (the mesocarp) composed of fibres (coir) and enclosed by an outer skin (the exocarp ).[^4] The shell has three germination pores that are visible on the shell once the husk is removed. It is through one of these that the radicle emerges when the embryo germinates.
+The growth stages are distinguished according to the states of the various parts of the fruit ([Figure 12.1](#fig-3-12_1), p.369). At and after its drinkable stage, a coconut consists of a hollow shell (the endocarp) lined with flesh (the endosperm) and filled with coconut water. The shell is surrounded by a thick husk (the mesocarp) composed of fibres (coir) and enclosed by an outer skin (the exocarp ).[^4] The shell has three germination pores that are visible on the shell once the husk is removed. It is through one of these that the radicle emerges when the embryo germinates.
 
 
 <a id="s-3-1"></a>
@@ -2839,7 +2839,7 @@ There was apparently no dedicated POc term for a coconut shell, but there were a
 ## 5. Parts of the coconut palm
 
 
-The growing period of a coconut palm from the germination of a nut to the production of new coconuts is 4--10 years. Generally, no use is made of the palm during its growing period, but once the palm is productive, its various parts, like the coconut itself, have a large variety of uses. Understanding the parts of the palm entails understanding how its fronds grow (see Figure 12.2):
+The growing period of a coconut palm from the germination of a nut to the production of new coconuts is 4--10 years. Generally, no use is made of the palm during its growing period, but once the palm is productive, its various parts, like the coconut itself, have a large variety of uses. Understanding the parts of the palm entails understanding how its fronds grow (see [Figure 12.2](#fig-3-12_2)):
 
 > The crown of the palm is made up of 20--35 fronds, depending on how favourable the growing environment is. The fronds emerging in sequence from the central bud of the palm conform to a set geometrical pattern of angular separation around the circumference of the palm trunk. … If frond 1 in a series is given the azimuth angle of zero degrees, frond 2 will be located at plus or minus 140 degrees, frond 3 at 280 degrees, frond 4 past the starting angle at 60 degrees on the second circuit … (M. [Foale 2003](../sources/Foale2003): 48).
 
@@ -3789,7 +3789,7 @@ Two POc terms are reconstructable. The first, _&ast;kaka_ seems to have denoted 
 
 There was perhaps no separate term in most Oceanic languages for the inflorescence of the coconut. Some languages do have separate noncognate terms for coconut blossoms, e.g. Gapapaiwa _sisina_, Gumawana _niyola_, Misima _lámun_, Paamese _voha_, Anejom _nacomʷ_, but far fewer than have a term for 'spathe'. Perhaps they were simply 'flowers', labelled by the general term POc _&ast;puŋa_ 'flower, blossom' ([ch.4, §2.7](../contributions/3-4#s-2-7)).
 
-Terms for the boat-shaped spathe, shown in Figure 12.3, and for the spadix (the branching flower stalk which becomes the stalk of a bunch of coconuts) are more common, although some languages do not distinguish between the two, whilst others have more than one term. The spathe is used for firewood and as a bowl or tray. Sugary sap can be tapped from the flower stalk ([French 1986](../sources/French1986): 31). Sample terms are listed below. PPn had a term _&ast;loso-loso_ 'coconut spadix; coconut spathe' (POLLEX), reflected in most Polynesian languages.
+Terms for the boat-shaped spathe, shown in [Figure 12.3](#fig-3-12_3), and for the spadix (the branching flower stalk which becomes the stalk of a bunch of coconuts) are more common, although some languages do not distinguish between the two, whilst others have more than one term. The spathe is used for firewood and as a bowl or tray. Sugary sap can be tapped from the flower stalk ([French 1986](../sources/French1986): 31). Sample terms are listed below. PPn had a term _&ast;loso-loso_ 'coconut spadix; coconut spathe' (POLLEX), reflected in most Polynesian languages.
 
 <table id="3-12-5-3-386-adm-titan-parol">
 <tr>

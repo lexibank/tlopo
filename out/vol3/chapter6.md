@@ -465,7 +465,7 @@ The landward margin of the mangrove forest looks more like a dryland rain forest
 ### 4.1. _Cerbera_ spp. (Apocynaceae)
 
 
-Three _Cerbera_ species are associated with mangrove swamps. All three grow in coastal locations and are often associated with muddy habitats. Two, _Cerbera manghas_ and _Cerbera manghas_ (syn. _Cerbera floribunda_), are similar to each other, and some languages treat them as a single taxon. They are trees 10-20 m tall and about a metre in girth. The third, _Cerbera odollam_, is a large shrub or small tree about 10m in height. All three have shiny green leaves and sweet-scented white flowers with a red (_Cerbera manghas_) or yellow (_Cerbera odollam_) centre. The seed is surrounded by a thick fibrous husk which gives the fruit buoyancy and makes for easy dispersal on ocean currents.
+Three _Cerbera_ species are associated with mangrove swamps. All three grow in coastal locations and are often associated with muddy habitats. Two, _Cerbera manghas_ and _Cerbera floribunda_, are similar to each other, and some languages treat them as a single taxon. They are trees 10-20 m tall and about a metre in girth. The third, _Cerbera odollam_, is a large shrub or small tree about 10m in height. All three have shiny green leaves and sweet-scented white flowers with a red (_Cerbera manghas_) or yellow (_Cerbera odollam_) centre. The seed is surrounded by a thick fibrous husk which gives the fruit buoyancy and makes for easy dispersal on ocean currents.
 
 The genus is named after Cerberus, the Greek mythological dog of Hades, because all its parts are highly toxic: they contain cerberin, a substance that blocks electric impulses in mammals, including the heart beat. Even smoke from burning _Cerbera_ wood is toxic. In parts of the Pacific _Cerbera_ sap was used to poison animals and people ([Powell 1976](../sources/Powell1976), [Tomlinson 1986](../sources/Tomlinson1986)). [Whistler](../sources/Whistler1992) ([1992](../sources/Whistler1992)) reports that the fruit was eaten by suicides in the Marquesas. On Waya Island an extract of the bark in oil was used to exorcise demons ([Gardner & Pawley 2006](../sources/GardnerandPawley2006)).
 
@@ -475,7 +475,7 @@ The genus is named after Cerberus, the Greek mythological dog of Hades, because 
 
 
 
-Two reconstructions are presented below: PWOc _&ast;(p,pʷ)awa(t)_ '_Cerbera_ spp., probably C.floribunda and _Cerbera manghas_' and PCP _&ast;rewa_ 'tree, _Cerbera_ sp., probably _Cerbera_ odollam'. [Milke](../sources/Milke1968) ([1968](../sources/Milke1968)) also offers POc _&ast;pasa_ '_Cerbera_ sp.', based on Gedaged _safa_ (metathesis), Bauan _vasa_ '_Cerbera odollam_', Samoan _fasa_, 'Uvea'[^1] _faha_, both 'variety of pandanus'. The alleged metathesis and the semantic discrepancies make cognacy too uncertain for one to accept this reconstruction without further comparisons.
+Two reconstructions are presented below: PWOc _&ast;(p,pʷ)awa(t)_ '_Cerbera_ spp., probably _Cerbera floribunda_ and _Cerbera manghas_' and PCP _&ast;rewa_ 'tree, _Cerbera_ sp., probably _Cerbera_ odollam'. [Milke](../sources/Milke1968) ([1968](../sources/Milke1968)) also offers POc _&ast;pasa_ '_Cerbera_ sp.', based on Gedaged _safa_ (metathesis), Bauan _vasa_ '_Cerbera odollam_', Samoan _fasa_, 'Uvea'[^1] _faha_, both 'variety of pandanus'. The alleged metathesis and the semantic discrepancies make cognacy too uncertain for one to accept this reconstruction without further comparisons.
 
 
 <a id="p-179"></a>
@@ -718,7 +718,7 @@ _Excoecaria agallocha_ is a shrub or small tree with a thick trunk that mostly g
 
 
 
-Lynch (2004) reconstructs PSOc _&ast;(t,d)oto(q)_, noting, 'Final _&ast;-o_ is overtly reflected in at least Lenakel and the New Caledonian languages, suggesting final _&ast;-q_.' I reconstruct POc _&ast;dotoq_ 'sticky liquids including the sap of (some?) trees'; 'a mangrove tree, probably _Excoecaria agallocha_' with initial _&ast;d-_ and final _&ast;-q_ because it appears to be an irregular reflex (for expected POc †_&ast;ditoq_) of PAn _&ast;diteq_ 'sticky substance' (ACD). There are two sets of reasons for thinking that items meaning 'sticky sap' and items denoting _Excoecaria agallocha_ (or in some cases _Cerbera manghas_, also a mangrove) reflect the same POc etymon.
+[Lynch](../sources/Lynch2004a) ([2004a](../sources/Lynch2004a)) reconstructs PSOc _&ast;(t,d)oto(q)_, noting, 'Final _&ast;-o_ is overtly reflected in at least Lenakel and the New Caledonian languages, suggesting final _&ast;-q_.' I reconstruct POc _&ast;dotoq_ 'sticky liquids including the sap of (some?) trees'; 'a mangrove tree, probably _Excoecaria agallocha_' with initial _&ast;d-_ and final _&ast;-q_ because it appears to be an irregular reflex (for expected POc †_&ast;ditoq_) of PAn _&ast;diteq_ 'sticky substance' (ACD). There are two sets of reasons for thinking that items meaning 'sticky sap' and items denoting _Excoecaria agallocha_ (or in some cases _Cerbera manghas_, also a mangrove) reflect the same POc etymon.
 
 - In the cognate set below, Marovo _ototo_ '_Excoecaria agallocha_' and Kwara'ae _toto(ŋʷala)_ '_Cerbera manghas_' are descriptive terms which allude to sticky sap. According to Hviding the Marovo name _ototo_ means 'with much sap', an assertion supported by the fact that in closely related Nduke _oto-_ means the 'sap or gum of trees and some fruits'.[^2] [Kwa'ioloa & Burt](../sources/KwaioloaandBurt2001) ([2001](../sources/KwaioloaandBurt2001): 162) gloss _toto(ŋʷala)_ as 'sticky sap; _Cerbera manghas_'.
 
@@ -902,7 +902,7 @@ The cognate set below has few members, but they are widespread enough to support
 ### 4.5. _Nypa fruticans_, nipa(h) palm (Arecaceae)
 
 
-The nipa palm, Nypafruticans, grows from the Bismarcks to Fiji in soft mud and slow moving tidal and river waters that bring in nutrients. It is the only palm (member of the Palmae family) that is also a mangrove, i.e. grows in soft mud. It has a horizontal trunk that grows beneath the ground; only the leaves and flower stalk grow vertically above the surface. From a distance, it looks like a clump of coconut fronds growing straight out of the water or the mud.
+The nipa palm, _Nypa fruticans_, grows from the Bismarcks to Fiji in soft mud and slow moving tidal and river waters that bring in nutrients. It is the only palm (member of the Palmae family) that is also a mangrove, i.e. grows in soft mud. It has a horizontal trunk that grows beneath the ground; only the leaves and flower stalk grow vertically above the surface. From a distance, it looks like a clump of coconut fronds growing straight out of the water or the mud.
 
 Its fronds are used for matting ([Peekel 1984](../sources/Peekel1984): 66) and for roofing, but it is not nearly as durable as sago thatch ([Floyd 1954](../sources/Floyd1954)).
 

@@ -37,7 +37,7 @@ Trees of the genus _Ficus_ ([§4](../contributions/3-10#s-4)) are included here 
 
 
 
-_Abelmoschus manihot_ is a low, many-branched tree-like shrub, seemingly present in every garden throughout the Bismarck Archipelago and the Solomons (Figure 10.1). [Barrau](../sources/Barrau1955) ([1955](../sources/Barrau1955): 77) calls it 'truly the traditional vegetable of the whole of Melanesia'. Cuttings are planted in mixed crop gardens and are also harvested from young regrowth in abandoned gardens. There are many varieties, the young shoots and leaves of which have a high protein-to-calorie ratio and are cooked in stone ovens, boiled or steamed in bamboo containers or roasted in bark ([Paijmans 1976](../sources/Paijmansetal1976): 124, [Hviding 2005](../sources/Hviding2005): 131).
+_Abelmoschus manihot_ is a low, many-branched tree-like shrub, seemingly present in every garden throughout the Bismarck Archipelago and the Solomons ([Figure 10.1](#fig-3-10_1)). [Barrau](../sources/Barrau1955) ([1955](../sources/Barrau1955): 77) calls it 'truly the traditional vegetable of the whole of Melanesia'. Cuttings are planted in mixed crop gardens and are also harvested from young regrowth in abandoned gardens. There are many varieties, the young shoots and leaves of which have a high protein-to-calorie ratio and are cooked in stone ovens, boiled or steamed in bamboo containers or roasted in bark ([Paijmans 1976](../sources/Paijmansetal1976): 124, [Hviding 2005](../sources/Hviding2005): 131).
 
 POc _&ast;wasa_ primarily denoted _Abelmoschus manihot_, evidently the most salient and commonly consumed green vegetable in Lapita communities, but it also appears to have been used hypernymously for 'green vegetables' in general, to judge from the glosses below.
 
@@ -201,9 +201,9 @@ POc _&ast;wasa_ primarily denoted _Abelmoschus manihot_, evidently the most sali
 
 Two terms for _Abelmoschus manihot_ can be reconstructed in lower interstage languages.
 
-<table id="3-10-2-1-295-ProtoRemoteOceanic-sasaru-a">
+<table id="3-10-2-1-295-PROc-sasaru-a">
 <tr>
-<td><strong>ProtoRemoteOceanic</strong></td><td> </td>
+<td><strong>PROc</strong></td><td> </td>
 <td>
 <i>&ast;sasaRu</i>
 </td>
@@ -390,7 +390,7 @@ The only reconstruction is at the level of PNCV:
 ### 2.3. _Gnetum gnemon_, TP _tulip_ (Gnetaceae)
 
 
-_Gnetum gnemon_ is a small tree found in lowland forests in the Bismarcks, the Solomons, Vanuatu and Fiji, growing to between 8 and 15 m in height. Leaf stalks grow directly from the branch in pairs: hence its Tok Pisin name, _tulip_ 'two-leaf' (Figure 10.3). The young leaves and shoots are widely cooked and eaten as a vegetable. It has red or orange fruit, the seeds and mesocarp of which are roasted and eaten in some areas ([Paijmans 1976](../sources/Paijmansetal1976): 124, [Evans 1999](../sources/Evans1999): 19-21, [Hviding 2005](../sources/Hviding2005): 139): Evans singles out the islands of the Temotu Province of the Solomons for special mention. In the wild it grows along rivers and streams, but not near the beach, as it appears to dislike salt spray ([Manner & Elevitch 2006a](../sources/MannerandElevitch2006a)). [Peekel](../sources/Peekel1984) ([1984](../sources/Peekel1984): 37) describes it as a 'cultivated tree' and [Kennedy & Clarke](../sources/KennedyandClarke2004) ([2004](../sources/KennedyandClarke2004)) mention it in their list of species that are subject to arboriculture.
+_Gnetum gnemon_ is a small tree found in lowland forests in the Bismarcks, the Solomons, Vanuatu and Fiji, growing to between 8 and 15 m in height. Leaf stalks grow directly from the branch in pairs: hence its Tok Pisin name, _tulip_ 'two-leaf' ([Figure 10.3](#fig-3-10_3)). The young leaves and shoots are widely cooked and eaten as a vegetable. It has red or orange fruit, the seeds and mesocarp of which are roasted and eaten in some areas ([Paijmans 1976](../sources/Paijmansetal1976): 124, [Evans 1999](../sources/Evans1999): 19-21, [Hviding 2005](../sources/Hviding2005): 139): Evans singles out the islands of the Temotu Province of the Solomons for special mention. In the wild it grows along rivers and streams, but not near the beach, as it appears to dislike salt spray ([Manner & Elevitch 2006a](../sources/MannerandElevitch2006a)). [Peekel](../sources/Peekel1984) ([1984](../sources/Peekel1984): 37) describes it as a 'cultivated tree' and [Kennedy & Clarke](../sources/KennedyandClarke2004) ([2004](../sources/KennedyandClarke2004)) mention it in their list of species that are subject to arboriculture.
 
 <a id="fig-3-10_3"> </a>
 
@@ -441,7 +441,7 @@ Misima _kusai_ provides evidence for the final _&ast;-q_ of POc _&ast;kusaq_. Mi
 ### 2.4. _Polyscias_ spp., panax, B _nalaslas_ (Araliaceae)
 
 
-_Polyscias_ species are erect thin shrubs between one and 5 m in height found at least as far east as Fiji. They grow wild in shady environments and have green foliage which is eaten as a green vegetable in New Guinea, the Bismarcks, the Solomons and Vanuatu. In NW Island Melanesia they are often planted (from cuttings) as hedges, but when they are cultivated in sunlight, their appearance changes, as the foliage turns pale green or yellow and cultivated shrubs are often pruned to obtain a thick bushy form. [French](../sources/French1986) ([1986](../sources/French1986): 74) names five species growing in Papua New Guinea, namely _Polyscias cumingiana_, _Polyscias scutellaria_, _Polyscias fruticosa_, _Polyscias macgillivrayi_ and _Polyscias verticillata_, and [Henderson & Hancock](../sources/HendersonandHancock1988) ([1988](../sources/HendersonandHancock1988): 111-112) list all except the first for the Solomons (Figure 10.4). They comment that the greens have 'a pleasant mild "curry" taste'.
+_Polyscias_ species are erect thin shrubs between one and 5 m in height found at least as far east as Fiji. They grow wild in shady environments and have green foliage which is eaten as a green vegetable in New Guinea, the Bismarcks, the Solomons and Vanuatu. In NW Island Melanesia they are often planted (from cuttings) as hedges, but when they are cultivated in sunlight, their appearance changes, as the foliage turns pale green or yellow and cultivated shrubs are often pruned to obtain a thick bushy form. [French](../sources/French1986) ([1986](../sources/French1986): 74) names five species growing in Papua New Guinea, namely _Polyscias cumingiana_, _Polyscias scutellaria_, _Polyscias fruticosa_, _Polyscias macgillivrayi_ and _Polyscias verticillata_, and [Henderson & Hancock](../sources/HendersonandHancock1988) ([1988](../sources/HendersonandHancock1988): 111-112) list all except the first for the Solomons ([Figure 10.4](#fig-3-10_4)). They comment that the greens have 'a pleasant mild "curry" taste'.
 
 <a id="fig-3-10_4"> </a>
 
@@ -594,7 +594,7 @@ The items reflecting PNCV _&ast;lalaso_ '_Polyscias scutellaria_' (?) below appe
 ### 3.1. _Cyathea_ spp., B blakpam (Cyatheaceae)
 
 
-Among the many ferns eaten in Melanesia, there is just one tree-fern genus for which a putative POc term has been reconstructed. This is Proto Remote Oceanic _&ast;(b,bʷ)ala_ '_Cyathea_'. POc _&ast;(b,bʷ)ala_ is also reconstructed below, but only one cognate has been found outside Remote Oceania: Kove _va-vala_ 'cycad'. This means that we can be reasonably certain that POc _&ast;(b,bʷ)ala_ denoted a tree fern, but we as yet have no way of knowing for certain whether this was a _Cycas_ or a _Cyathea_. The most widespread tree-fern in the Bismarcks _Cyathea_ contaminans (syn. Alsophila latebrosa), with a stem 5-8 m tall ([Peekel 1984](../sources/Peekel1984): 9), is a good candidate for the denotation of _&ast;(b,bʷ)ala_, but a better distributed cognate set is needed in order to confirm this. The Nakanai of New Britain ate the fronds of _Cyathea_ spp. and used the trunks to make fishing spears ([Floyd 1954](../sources/Floyd1954)). On Waya Island (western Fiji) the sap of the young parts of this tree-fern was applied externally to cure headaches, and the scales were used to stuff pillows. The pith of the trunk was eaten as famine food ([Gardner & Pawley 2006](../sources/GardnerandPawley2006)).
+Among the many ferns eaten in Melanesia, there is just one tree-fern genus for which a putative POc term has been reconstructed. This is PROc _&ast;(b,bʷ)ala_ '_Cyathea_'. POc _&ast;(b,bʷ)ala_ is also reconstructed below, but only one cognate has been found outside Remote Oceania: Kove _va-vala_ 'cycad'. This means that we can be reasonably certain that POc _&ast;(b,bʷ)ala_ denoted a tree fern, but we as yet have no way of knowing for certain whether this was a _Cycas_ or a _Cyathea_. The most widespread tree-fern in the Bismarcks _Cyathea_ contaminans (syn. Alsophila latebrosa), with a stem 5-8 m tall ([Peekel 1984](../sources/Peekel1984): 9), is a good candidate for the denotation of _&ast;(b,bʷ)ala_, but a better distributed cognate set is needed in order to confirm this. The Nakanai of New Britain ate the fronds of _Cyathea_ spp. and used the trunks to make fishing spears ([Floyd 1954](../sources/Floyd1954)). On Waya Island (western Fiji) the sap of the young parts of this tree-fern was applied externally to cure headaches, and the scales were used to stuff pillows. The pith of the trunk was eaten as famine food ([Gardner & Pawley 2006](../sources/GardnerandPawley2006)).
 
 <table id="3-10-3-1-300-POc-bbala-a">
 <tr>
@@ -611,7 +611,7 @@ Among the many ferns eaten in Melanesia, there is just one tree-fern genus for w
 '<span>cycad</span>'</td>
 </tr>
 <tr>
-<td><strong>ProtoRemoteOceanic</strong></td><td> </td>
+<td><strong>PROc</strong></td><td> </td>
 <td>
 <i>&ast;(b,bʷ)ala</i>
 </td>
@@ -707,7 +707,7 @@ Among the many ferns eaten in Melanesia, there is just one tree-fern genus for w
 ### 3.2. _Saccharum edule_, 'coastalpitpit' (in Papua New Guinea), TP, P _pitpit_, B _naviso_ (Poaceae)
 
 
-_Saccharum edule_ is a tall grass related to sugarcane (_Saccharum officinarum_). [Henderson & Hancock](../sources/HendersonandHancock1988) ([1988](../sources/HendersonandHancock1988): 101) write, 'It grows in a variety of locations, but seems best adapted to low altitude, where it can form quite dense stands sometimes attaining heights of four metres or more.' It is cultivated for the unopened inflorescence (flower) at the tip of the cane, harvested as an important seasonal vegetable which is either roasted in its leafy sheath or cooked in coconut cream with other vegetables (Figure 10.5).
+_Saccharum edule_ is a tall grass related to sugarcane (_Saccharum officinarum_). [Henderson & Hancock](../sources/HendersonandHancock1988) ([1988](../sources/HendersonandHancock1988): 101) write, 'It grows in a variety of locations, but seems best adapted to low altitude, where it can form quite dense stands sometimes attaining heights of four metres or more.' It is cultivated for the unopened inflorescence (flower) at the tip of the cane, harvested as an important seasonal vegetable which is either roasted in its leafy sheath or cooked in coconut cream with other vegetables ([Figure 10.5](#fig-3-10_5)).
 
 _Saccharum edule_ was apparently domesticated long ago, and its several varieties are propagated only by cultivation ([Barrau 1962](../sources/Barrau1962): 157-158). It is grown from cuttings consisting of three or four nodes of the cane, i.e. 30--40 em long, and usually grows in clumps up to two or three metres in height. In Papua New Guinea it is cultivated in gardens up to an altitude of 1800 m. It is also grown in the Solomons, Vanuatu and Fiji.
 
@@ -1229,7 +1229,7 @@ The items under 'cf. also' are probably not cognate. Three of them point to a te
 </td>
 </tr>
 <tr>
-<td><strong>ProtoRemoteOceanic</strong></td><td> </td>
+<td><strong>PROc</strong></td><td> </td>
 <td>
 <i>&ast;baga</i>
 </td>
@@ -1394,7 +1394,7 @@ cf. also:
 
 <a id="p-307"></a>
 
-_Ficus copiosa_ and _Ficus wassa_ are similar (Figure 10.6). Both rejoice in the name 'sandpaper cabbage' in the Solomons because of their coarse texture (even when cooked). The leaves of _Ficus wassa_ are more abrasive than those of _Ficus copiosa_, and therefore somewhat less popular as food ([Henderson & Hancock 1988](../sources/HendersonandHancock1988): 123, 125)
+_Ficus copiosa_ and _Ficus wassa_ are similar ([Figure 10.6](#fig-3-10_6)). Both rejoice in the name 'sandpaper cabbage' in the Solomons because of their coarse texture (even when cooked). The leaves of _Ficus wassa_ are more abrasive than those of _Ficus copiosa_, and therefore somewhat less popular as food ([Henderson & Hancock 1988](../sources/HendersonandHancock1988): 123, 125)
 
 _Ficus copiosa_ (syn. _F. longipedunculata_, _F. acanthrophylla_) has twigs covered in bristles ([Peekel 1984](../sources/Peekel1984): 141). It grows widely in New Guinea, the Bismarcks and the Solomons. In Marovo _Ficus copiosa_ is traditionally an important leaf vegetable, and young leaves and shoots are either cooked in coconut cream or mixed with crushed smoked _Canarium_ nuts ([Hviding 2005](../sources/Hviding2005): 138).
 

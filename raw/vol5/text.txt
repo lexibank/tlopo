@@ -1793,7 +1793,7 @@ __tablenh__
          [x,y]      |  the item is reconstructable in two forms, one with x and one with y
          x-y        |  x and y are separate morphemes
          x-         |  x takes an enclitic or a suffix
-         <x>        |  x is an infix
+         ⟨x⟩        |  x is an infix
 
 [43] Geraghty (1990:91) records a small number of cases where certain Fijian dialects retain POc _*R_ as _l_,
      indicating that it was retained sporadically in PCP. It is always lost in his ‘Tokalau Fijian’ and in Polynesian.
@@ -2707,8 +2707,8 @@ unexplained. In a number of Papuan Tip reflexes of _*papine_ and _*paipine_ init
 replaced by _*w-_, again an unexplained change.
 
 <
-PAn *b<in>ahi ‘woman, female’ (Blust 1982b, ACD)
-PMP *b<in>ahi, *ba-b<in>ahi ‘woman, female’
+PAn *b⟨in⟩ahi ‘woman, female’ (Blust 1982b, ACD)
+PMP *b⟨in⟩ahi, *ba-b⟨in⟩ahi ‘woman, female’
 POc *pine ‘woman, female; sister of man’
   PT:  Iduna          vine-             ‘woman of (PLACENAME)’
   PT:  Iduna          vine(sikʷa)       ‘widow, widowed woman’
@@ -14225,8 +14225,8 @@ _*ka-_.
 POc *kamisu or *kimusu ‘spittle, to spit’
  NNG: Kaulong            kimos                          ‘to spit’
  MM: Lihir               kamic                          ‘spittle’
- MM: Petats              k<in>imus                      ‘spittle’ (_<in>_ nominaliser)
- MM: Selau               k<öñ>msö                       ‘spittle’ (_<Vn>_ nominaliser)
+ MM: Petats              k⟨in⟩imus                      ‘spittle’ (_⟨in⟩_ nominaliser)
+ MM: Selau               k⟨öñ⟩msö                       ‘spittle’ (_⟨Vn⟩_ nominaliser)
  MM: Mono-Alu            amisu                          ‘spit’
  MM: Banoni              kamisu                         ‘spit’
  MM: Torau               kamisu                         ‘spit’
@@ -14336,7 +14336,7 @@ POc *ka-supa[t-i] ‘to spit [on], spittle’
  MM: Nakanai             kavuras-i           (VT) ‘to spit a spray into the air’ (metathesis)
  MM: Barok               gi-gisip            ‘spittle’
  MM: Haku                kahus               ‘spit’ (metathesis)
- MM: Haku                k<in>ahus           ‘spittle’ (metathesis + _<in>_ nominaliser)
+ MM: Haku                k⟨in⟩ahus           ‘spittle’ (metathesis + _⟨in⟩_ nominaliser)
  MM: Taiof               kisuf               ‘spittle’
 PMic *ka(sS)i[sS]ifa ‘spit, spittle’ (Bender et al., 2003)
  Mic: Chuukese           ɔttif               ‘saliva, spittle’
@@ -15155,7 +15155,7 @@ POc *(q)aŋap ‘gape’
 >
 
 <
-PMP *q<um>aŋa[p,b] ‘gape, open the mouth wide’ (_*<um>_ actor voice)
+PMP *q⟨um⟩aŋa[p,b] ‘gape, open the mouth wide’ (_*⟨um⟩_ actor voice)
 POc *maŋa(p) (V) ‘to open wide, gape’; (N) ‘open mouth; gap, space’
  MM: Banoni            maŋo                ‘mouth’
  MM: Lungga            maŋa                ‘mouth’
@@ -15303,7 +15303,7 @@ POc *koso-ŋa (N) ‘cough’
  NNG: Mumeng (Patep)      kəlɔʔ                ‘cough, cold, mucus’ (final _-ʔ_ irregular)
  PT:    Gapapaiwa         koso-koso            ‘cough’
  MM: Patpatar             kasoŋa               (VI) ‘cough’
- MM: Patpatar             k<in>asoŋa           (N) ‘cough’ (_<in>_ NOMINALISER)
+ MM: Patpatar             k⟨in⟩asoŋa           (N) ‘cough’ (_⟨in⟩_ NOMINALISER)
  MM: Tolai                kaoŋo                (N,VI) ‘cough’
  MM: Kandas               kosoŋo               ‘cough’
  MM: Sursurunga           kosoŋ                ‘cough’
@@ -19291,7 +19291,7 @@ formed intransitive verbs, i.e. _*tudruŋ_ reflects earlier _*t&lt;um>uruŋ_ (§
 unaccounted for.
 
 <
-PWOc *tudruŋ ‘kneel’ (< (? ) POc _*t<um>uruŋ_)
+PWOc *tudruŋ ‘kneel’ (< (? ) POc _*t⟨um⟩uruŋ_)
  NNG: Sio                tudu             ‘kneel down’
  MM: E Kara              turuŋ            ‘kneel’
  MM: Patpatar            tu-tuduŋ         ‘kneel down with head to ground; bowed down’
@@ -23547,7 +23547,7 @@ PWOc *tapi (V) ‘fan’
  NNG: Takia                ti-tawi            ‘move or impel air with a fan’
  NNG: Mangseng             tep                ‘wave’
  PT:    Gapapaiwa          tapi               ‘fan, wave, flap’
- MM: Nakanai               t<il>ave           (N) ‘fan’ (_<il>_ < _*<in>_ NOMINALISER)
+ MM: Nakanai               t⟨il⟩ave           (N) ‘fan’ (_⟨il⟩_ < _*⟨in⟩_ NOMINALISER)
  MM: Patpatar              tah                (VT) ‘fan, beckon, wave hand to stop s.o.’
  MM: Ramoaaina             tap                (VT) ‘fan’
  MM: Ramoaaina             tap-tap            (N) ‘fan’
@@ -27236,7 +27236,7 @@ root and that _*&lt;in>_ reflects the POc nominalising infix, the resulting nomi
 reanalysed as a verb in these languages.
 
 <
-PNCV *bisi, *b<in>isi ‘know’
+PNCV *bisi, *b⟨in⟩isi ‘know’
  NCV: Raga                binihi               ‘think, consider’
  NCV: Nokuku              pi-pinis             ‘know’
  NCV: Nokuku              pisi-                ‘know, understand, be able’

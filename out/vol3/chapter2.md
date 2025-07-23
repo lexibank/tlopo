@@ -917,7 +917,7 @@ cf. also:
 
 <a id="p-42"></a>
 
-A further twist is reflected in the forms under 'cf. also' above. The base of PMP _&ast;kan-an_ was _&ast;kan_. The base of the forms under 'cf. also' is POc _&ast;kani_. This reflects PMP _&ast;kan-i_, where _&ast;-i_ is a reflex of the PAn suffix _&ast;-i_ 'location focus, atemporal', reinterpreted as a transitiviser in POc ([Pawley & Reid 1980](../sources/PawleyReid1980); vol.1, ch.2, §[§3 .1.2](../contributions/3-2#s-3-1-2)-3) but lexicalised as part of the POc base when the erstwhile base, e.g. _&ast;kan_, was a monosyllable. As a result, the forms under 'cf. also' have the base _&ast;kani_, which never co-occurred with a nominalising affix in PAn and PMP.
+A further twist is reflected in the forms under 'cf. also' above. The base of PMP _&ast;kan-an_ was _&ast;kan_. The base of the forms under 'cf. also' is POc _&ast;kani_. This reflects PMP _&ast;kan-i_, where _&ast;-i_ is a reflex of the PAn suffix _&ast;-i_ 'location focus, atemporal', reinterpreted as a transitiviser in POc ([Pawley & Reid 1980](../sources/PawleyReid1980); [vol.1, ch.2, ](../contributions/1-2#)§[§3 .1.2](../contributions/3-2#s-3-1-2)-3) but lexicalised as part of the POc base when the erstwhile base, e.g. _&ast;kan_, was a monosyllable. As a result, the forms under 'cf. also' have the base _&ast;kani_, which never co-occurred with a nominalising affix in PAn and PMP.
 
 Several reflexes of POc _&ast;kuta_ denote a major staple in the language concerned, either banana or yam, suggesting that the POc term denoted 'staple food'. However, it is also possible that _&ast;kuta_ was originally a specialised verb of eating, as the Gumawana, Iduna, Gela and Tolo glosses imply.
 

@@ -3552,11 +3552,11 @@ In many modern Oceanic languages the same word is used for skin (of animals and 
 
 <a id="p-122"></a>
 
-In Proto Remote Oceanic there is evidence for doublet forms _&ast;kulit_ and _&ast;kilit_, with _&ast;kilit_ reflected in Namakir of North Central Vanuatu, Western Micronesian languages and Polynesian languages. However, it is likely that these reflect independent developments in Proto Micronesian, Namakir and PPn.
+In PROc there is evidence for doublet forms _&ast;kulit_ and _&ast;kilit_, with _&ast;kilit_ reflected in Namakir of North Central Vanuatu, Western Micronesian languages and Polynesian languages. However, it is likely that these reflect independent developments in Proto Micronesian, Namakir and PPn.
 
-<table id="3-4-2-10-122-ProtoRemoteOceanic-kilit-a">
+<table id="3-4-2-10-122-PROc-kilit-a">
 <tr>
-<td><strong>ProtoRemoteOceanic</strong></td><td> </td>
+<td><strong>PROc</strong></td><td> </td>
 <td>
 <i>&ast;kilit</i>
 </td>

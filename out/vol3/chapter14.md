@@ -31,9 +31,9 @@ As [Chowning](../sources/Chowning1963) ([1963](../sources/Chowning1963)) notes i
 ## 3. Where do Oceanic plant names come from?
 
 
-Tables 14.3-14.9 list most of the POc, PWOc, PEOc and Proto Remote Oceanic terms (including generics) reconstructed in this book. Omitted are (i) tem1s for plant parts and plant products and (ii) POc terms whose origin is unclear, i.e. the term has suspected but uncertain non-Oceanic cognates).
+Tables 14.3-14.9 list most of the POc, PWOc, PEOc and PROc terms (including generics) reconstructed in this book. Omitted are (i) tem1s for plant parts and plant products and (ii) POc terms whose origin is unclear, i.e. the term has suspected but uncertain non-Oceanic cognates).
 
-The number of terms in Tables 14.3-14.9 reconstructed at each interstage is shown in Table 14.1. A striking fact emerges: of 220 reconstructions, 177, or 80.4 %, are POc recon- structions, and only 43, or 19.6 % are attributable exclusively to the later interstages PWOc, PEOc and Proto Remote Oceanic-this despite the fact that data are available from languages that permit the reconstruction of terms at these interstages, and every term that the data supported was reconstructed at the highest possible interstage. This heavy skewing towards POc is not at- tributable to patchiness in the data, but reflects a fact about Oceanic plant names, namely that POc terms are generally quite durable, and that only a minority underwent replacement in PWOc, PEOc and Proto Remote Oceanic. In fact the figures overstate replacement, because (i) a number of the reconstructed lower-order terms coexisted with terms inherited from POc; (ii) it is possible that some of these terms will prove to be of POc antiquity as more data become available.
+The number of terms in Tables 14.3-14.9 reconstructed at each interstage is shown in Table 14.1. A striking fact emerges: of 220 reconstructions, 177, or 80.4 %, are POc recon- structions, and only 43, or 19.6 % are attributable exclusively to the later interstages PWOc, PEOc and PROc-this despite the fact that data are available from languages that permit the reconstruction of terms at these interstages, and every term that the data supported was reconstructed at the highest possible interstage. This heavy skewing towards POc is not at- tributable to patchiness in the data, but reflects a fact about Oceanic plant names, namely that POc terms are generally quite durable, and that only a minority underwent replacement in PWOc, PEOc and PROc. In fact the figures overstate replacement, because (i) a number of the reconstructed lower-order terms coexisted with terms inherited from POc; (ii) it is possible that some of these terms will prove to be of POc antiquity as more data become available.
 
 
 <a id="p-429"></a>
@@ -42,13 +42,13 @@ The number of terms in Tables 14.3-14.9 reconstructed at each interstage is show
 
 : Table 14.1    Number of plant terms reconstructed at each interstage
 
-|                      |         |           |
-|:---------------------|:--------|:----------|
-| POc                  | 177     | 80.4 %    |
-| PWOc                 | 22      | 10.0%     |
-| PEOc                 | 15      | 6.8%      |
-| Proto Remote Oceanic | 6       | 2.7%      |
-| __Total__            | __220__ | __99.9%__ |
+|           |         |           |
+|:----------|:--------|:----------|
+| POc       | 177     | 80.4 %    |
+| PWOc      | 22      | 10.0%     |
+| PEOc      | 15      | 6.8%      |
+| PROc      | 6       | 2.7%      |
+| __Total__ | __220__ | __99.9%__ |
 
 <a id="table-14"> </a>
 
@@ -63,7 +63,7 @@ The number of terms in Tables 14.3-14.9 reconstructed at each interstage is show
 | Possibly innovatory       | 97      | 54.8%      |
 | __Total__                 | __177__ | __100.0%__ |
 
-This skewing revealed in Table 14.1 is not peculiar to plant names. It reflects the speed of Oceanic settlement and the fact that Western Oceanic probably emerged out of a stay-at-home dialect network, whilst Proto Eastern Oceanic and Proto Remote Oceanic, as we noted in chapter 1 ([§3 .2.3](../contributions/3-14#s-3-2-3)), perhaps never really existed as the languages of discrete communities.
+This skewing revealed in Table 14.1 is not peculiar to plant names. It reflects the speed of Oceanic settlement and the fact that Western Oceanic probably emerged out of a stay-at-home dialect network, whilst Proto Eastern Oceanic and PROc, as we noted in chapter 1 ([§3 .2.3](../contributions/3-14#s-3-2-3)), perhaps never really existed as the languages of discrete communities.
 
 Of 177 reconstructed POc plant terms, Table 14.2 shows that 80, or 45 %, have a known Austronesian source that precedes POc, i.e. the POc term has non-Oceanic cognates which show that it was inherited into POc from an earlier interstage, whilst 97, or 55 %, have no known non-Oceanic cognates. The latter figure is of course open to question. It cannot be higher, but it could be lower, because some seemingly innovatory POc terms were probably inherited from an earlier interstage, but the non-Oceanic sources listed in [ch.1, §5.2](../contributions/3-1#s-5-2) happen not to record cognates. Nonetheless, it would not be surprising if many of these 97 were POc innovations. [Wolff](../sources/Wolff1994) ([1994](../sources/Wolff1994)) points out how readily plant names are borrowed, and we would expect POc speakers to have borrowed plant names from their Papuan speaking neighbours and Papuan speakers to have retained older names as they shifted to POc (see [ch. 2, §4](../contributions/3-2#s-4)). The only reasonably clear example of such a loan is _&ast;mʷapo(q)_ 'taro' ([ch.9, §2.2.1](../contributions/3-9#s-2-2-1)). Whether we will ever be able to source other terms convincingly depends partly on research in historical Papuan linguistics, currently in its infancy. However, there is one small pointer in the forms themselves. As noted in [vol. 1 (ch.2, §2.4](../contributions/1-2#s-2-4)), the POc labiovelar consonants _&ast;pʷ_, _&ast;bʷ_ and &ast;mwwere not present in Proto Malaya-Polynesian and represent an innovation in the POc consonant system. In some lexical items their presence is the result of conditioning ([Blust 1981a](../sources/Blust1981a), [Lynch 2002e](../sources/Lynch2002e)), in many their occurr,ence probably reflects borrowing from Papuan languages. Items in Tables 14.3-14.9 which contain one of these phonemes are shown in bold. Only three (= 4%) of the 80 inherited items listed in Tables 14.3-14.5 include one of these phonemes, and in two of these instances--_&ast;(m,mʷ)aso(q)u_ and _&ast;(p,pʷ)atoRu_ - the labiovelar is uncertain, whilst the exact form of the third reconstruction, _&ast;qaramʷaqi_, is insecure in other respects ([§2.6](../contributions/3-14#s-2-6)). On the other hand 19 (20%) of the 97 items in Table 14.6 include a labiovelar, five of them albeit uncertain, suggesting that the table does indeed include a good number of Papuan loans-the more so as we would not ,expect more than a minority of Papuan loans to contain labiovelars.
 
@@ -102,7 +102,7 @@ If a POc plant name has cognates in eastern Indonesia, especially in EMP languag
 | _&ast;naRa_              | '_Pterocarpus indicus_'                                                                                                         |
 | _&ast;ñatuq_             | '_Burckella obovata_'                                                                                                           |
 | _&ast;nini(q)_           | 'shrub, _Donax cannaeformis_'                                                                                                   |
-| _&ast;nipaq_             | 'Nypafruticans'                                                                                                                 |
+| _&ast;nipaq_             | '_Nypa fruticans_'                                                                                                              |
 | _&ast;niuR_              | 'coconut palm and/or fruit, _Cocos nucifera_'                                                                                   |
 | _&ast;nunuk_             | 'fig trees, _Ficus_ taxon'                                                                                                      |
 | _&ast;ŋiRac_             | '_Pemphis acidula_'                                                                                                             |
@@ -339,7 +339,7 @@ If a POc plant name has cognates in eastern Indonesia, especially in EMP languag
 
 <a id="table-14"> </a>
 
-: Table 14.9: Proto Remote Oceanic plant terms with no known external cognates (6 reconstructions)
+: Table 14.9: PROc plant terms with no known external cognates (6 reconstructions)
 
 |              |                                          |
 |:-------------|:-----------------------------------------|

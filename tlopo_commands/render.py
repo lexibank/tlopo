@@ -39,6 +39,8 @@ class Database(BaseDatabase):
 def md_string(s):
     if s.startswith('+'):
         s = s.replace('+', '&plus;')
+    if s.startswith('>'):
+        s = s.replace('>', '&gt;')
     return markdown(s).replace('<p>', '<span>').replace('</p>', '</span>')
 
 
@@ -124,14 +126,22 @@ from
     join cognatetable as c on csr.cldf_cognatesetReference = c.cldf_cognatesetReference and c.cldf_formReference = f.cldf_id
 where csrf.`cognatesetreferences.csv_cldf_id` = ?
 """
-        res = db.query(q, (rid,))
-        return res, json.loads(res[0]['fn'] or '{}')
+        res, fn = [], None
+        for i, row in enumerate(db.query(q, (rid,))):
+            if i == 0:
+                fn = row['fn']
+            r = list(row)
+            if row['is_proto']:
+                r[5] = ', '.join('&ast;' + f.strip() for f in row['form'].split(', '))
+            res.append(r)
+        return res, json.loads(fn or '{}')
 
     def cfs(rid):
         q = """
             select cf.cldf_id as id, \
                    cf.cldf_name as name, \
                    l.`Group` as 'group', \
+                   l.cldf_id as lid, \
                    l.cldf_name as lname, \
                    l.is_proto, \
                    f.cldf_value as form, \
@@ -156,9 +166,9 @@ where csrf.`cognatesetreferences.csv_cldf_id` = ?
         for cfid, rows in itertools.groupby(db.query(q, (rid,)), lambda r: r['id']):
             rows = list(rows)
             res[(cfid, rows[0]['name'])] = []
-            for (group, lname, form, fn), glosses in itertools.groupby(
-                    rows, lambda r: (r['group'], r['lname'], r['form'], r['fn'])):
-                res[(cfid, rows[0]['name'])].append((group, lname, form, [], fn))
+            for (group, lid, lname, form, fn), glosses in itertools.groupby(
+                    rows, lambda r: (r['group'], r['lid'], r['lname'], r['form'], r['fn'])):
+                res[(cfid, rows[0]['name'])].append((group, lid, lname, form, [], fn))
                 for (g, cmt, pos), sources in itertools.groupby(
                         glosses, lambda r: (r['gloss'], r['gcomment'], r['gpos'])):
                     res[(cfid, rows[0]['name'])][-1][-2].append(
@@ -168,7 +178,8 @@ where csrf.`cognatesetreferences.csv_cldf_id` = ?
 
     def cfitems(cfid):
         q = """
-select l.`Group` as `group`, 
+select l.`Group` as `group`,
+       l.cldf_id as lid,
        l.cldf_name as lname, 
        l.is_proto, 
        f.cldf_value as form, 
@@ -192,9 +203,9 @@ where cf.cldf_id = ?
         res = []
         rows = db.query(q, (cfid,))
         with_morpheme_gloss = False
-        for (group, lname, form, mgloss, fn), glosses in itertools.groupby(
-                rows, lambda r: (r['group'], r['lname'], r['form'], r['mgloss'], r['fn'])):
-            res.append((group, lname, form, mgloss, fn, []))
+        for (group, lid, lname, form, mgloss, fn), glosses in itertools.groupby(
+                rows, lambda r: (r['group'], r['lid'], r['lname'], r['form'], r['mgloss'], r['fn'])):
+            res.append((group, lid, lname, form, mgloss, fn, []))
             if mgloss:
                 with_morpheme_gloss = True
             for (g, cmt, pos), sources in itertools.groupby(
@@ -206,7 +217,7 @@ where cf.cldf_id = ?
     def glosses_by_formid(rid):
         def iter_glosses(rows):
             for (g, cmt, pos), srcs in itertools.groupby(rows, lambda row: row[1:4]):
-                yield (g or '', cmt or '', pos, [(row[-2], row[-1]) for row in srcs if row[-2]])
+                yield (g or '', (cmt or '').replace('<', '&lt;'), pos, [(row[-2], row[-1]) for row in srcs if row[-2]])
 
         q = """
 select g.cldf_formReference, g.cldf_name, g.cldf_comment, g.Part_Of_Speech, gs.SourceTable_id, gs.context

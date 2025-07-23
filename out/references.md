@@ -931,7 +931,7 @@
 - <a id="source-Hogbin1964b"> </a>Hogbin, H. Ian. 1964b. Wogeo kinship terminology. Oceania 34:308-309. https://doi.org/ 10.1002/j.1834-4461.1964.tb00271.x.
 - <a id="source-Hogbin1970"> </a>Hogbin, H. Ian. 1970. The island of menstruating men: Religion in Wogeo, New Guinea. Scranton: Chandler.
 - <a id="source-Hogbin1978"> </a>Hogbin, H. Ian. 1978. The leaders and the led: social control in Wogeo, New Guinea. Melbourne: Melbourne University Press.
-- <a id="source-HogbinandWedgwood1953"> </a>Hogbin, H. Ian & Camilla H. Wedgwood. 1953. Local groupings in Melanesia. Oceania 23:241-276, 24:58-76. https://doi.org/10.1002/j.1834-4461.1953.tb00197.x.
+- <a id="source-HogbinandWedgewood1953"> </a>Hogbin, H. Ian & Camilla H. Wedgewood. 1953. Local groupings in Melanesia. Oceania 23:241-276, 24:58-76. https://doi.org/10.1002/j.1834-4461.1953.tb00197.x.
 - <a id="source-Holdsworth1975a"> </a>Holdsworth, David. 1975a. Medicinal plants from Milne Bay, eastern Papua. Science in New Guinea 3: 98-102.
 - <a id="source-Holdsworth1975b"> </a>Holdsworth, David. 1975b. Phytomedicine of the Gazelle Peninsula, New Britain. Science in New Guinea 3: 32--40.
 - <a id="source-Holdsworth1977"> </a>Holdsworth, David. 1977. Medicinal plants of Papua New Guinea. Noumea: South Pacific Commission.

@@ -1569,11 +1569,11 @@ Others have a noun phrase whose head is ‘sun, daylight’, modified by ‘big�
 | Gela (SES)  | _dani-kama_ (_dani_ ‘daylight’, _kama_ ‘big’)  |
 | Wayan (Fij) | _siŋa-levu_ (_siŋa_ ‘day’, _levu_ ‘big’)       |
 
-[Biggs and Clark](../sources/BiggsandClark1993) ([1993](../sources/BiggsandClark1993)) reconstruct PPn _&ast;qaho-atea_ ‘late morning and early afternoon’, from PPn _&ast;qaho_ ‘daylight’ and _&ast;qātea_ ‘clear, unobstructed’. The addition of Anejom reflexes raises the reconstruction to Proto Remote Oceanic _&ast;qaso-qatea_ (Lynch pers. comm.).
+[Biggs and Clark](../sources/BiggsandClark1993) ([1993](../sources/BiggsandClark1993)) reconstruct PPn _&ast;qaho-atea_ ‘late morning and early afternoon’, from PPn _&ast;qaho_ ‘daylight’ and _&ast;qātea_ ‘clear, unobstructed’. The addition of Anejom reflexes raises the reconstruction to PROc _&ast;qaso-qatea_ (Lynch pers. comm.).
 
-<table id="2-9-2-2-312-ProtoRemoteOceanic-qasoqatea-a">
+<table id="2-9-2-2-312-PROc-qasoqatea-a">
 <tr>
-<td><strong>ProtoRemoteOceanic</strong></td><td> </td>
+<td><strong>PROc</strong></td><td> </td>
 <td>
 <i>&ast;qaso-qatea</i>
 </td>

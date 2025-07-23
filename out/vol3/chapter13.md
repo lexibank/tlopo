@@ -360,7 +360,7 @@ One traditional stimulant, the betelnut, _Areca catechu_ ([§2.2.1](../contribut
 #### 2.2.1. _Areca catechu_, betel palm, betelnut, TP buai, P bilnat, natnat (Arecaceae)
 
 
-_Areca catechu_ is a slender palm which grows up to 30 m. Its crown is smaller relative to its height than that of a coconut, and leaflets are less densely spaced. A many-branched flower cluster develops below the leaf spathe, and the fruit develop from the flowers. The resulting branched cluster of fruit is a familiar sight in markets in lowland Papua New Guinea. The fruit consists of a seed enclosed in a thin green skin and a hard fibrous pericarp, i.e. husk (Figure 13.1, left).
+_Areca catechu_ is a slender palm which grows up to 30 m. Its crown is smaller relative to its height than that of a coconut, and leaflets are less densely spaced. A many-branched flower cluster develops below the leaf spathe, and the fruit develop from the flowers. The resulting branched cluster of fruit is a familiar sight in markets in lowland Papua New Guinea. The fruit consists of a seed enclosed in a thin green skin and a hard fibrous pericarp, i.e. husk ([Figure 13.1](#fig-3-13_1), left).
 
 
 <a id="p-392"></a>
@@ -611,7 +611,7 @@ Frantisek [Lichtenberk](../sources/Lichtenberk1998) ([1998](../sources/Lichtenbe
 #### 2.2.2. _Piper betle_ (syn. _Chavica betle_), betel pepper, TP daka (Piperaceae)
 
 
-The betel pepper vine, _Piper betle_, is a woody climber with catkins, pendulous spikes of berries in a crowded mass forming a cylindrical syncarp (a composite fruit) (Figure 13.1 , right). It climbs on _Erythrina indica_ and Artocarpus incisa. The catkins and/or leaves are chewed with betelnut, _Areca catechu_ ([§2.2.1](../contributions/3-13#s-2-2-1)), and lime throughout the Bismarck Archipelago and the Solomons ([Peekel 1984](../sources/Peekel1984): 124, [Kwa'ioloa & Burt 2001](../sources/KwaioloaandBurt2001):226, [Hviding 2005](../sources/Hviding2005): 115).
+The betel pepper vine, _Piper betle_, is a woody climber with catkins, pendulous spikes of berries in a crowded mass forming a cylindrical syncarp (a composite fruit) ([Figure 13.1](#fig-3-13_1) , right). It climbs on _Erythrina indica_ and Artocarpus incisa. The catkins and/or leaves are chewed with betelnut, _Areca catechu_ ([§2.2.1](../contributions/3-13#s-2-2-1)), and lime throughout the Bismarck Archipelago and the Solomons ([Peekel 1984](../sources/Peekel1984): 124, [Kwa'ioloa & Burt 2001](../sources/KwaioloaandBurt2001):226, [Hviding 2005](../sources/Hviding2005): 115).
 
 The reconstruction of POc &ast;[pu-]pulu 'betel pepper, _Piper betle_' is taken from [Lichtenberk's](../sources/Lichtenberk1998) ([1998](../sources/Lichtenberk1998)) discussion of whether POc speakers chewed betelnut. His reconstruction of POc &ast;pulu is based partly on data assembled for the present project, with the addition of Chamorro pu-pulu '_Piper betle_', supporting the: PMP reconstruction, and a Manam reflex. I add Mussau _ulo_.
 
@@ -819,7 +819,7 @@ The best supported hypothesis appears to be that _Piper methysticum_ is a domest
 '<span>(use) fish poison</span>'</td>
 </tr>
 <tr>
-<td><strong>ProtoRemoteOceanic</strong></td><td> </td>
+<td><strong>PROc</strong></td><td> </td>
 <td>
 <i>&ast;kawa</i>
 </td>
@@ -2047,7 +2047,7 @@ POc _&ast;malo_ probably denoted _Broussonetia papyrifera_, the tree which throu
 ### 3.4. _Morinda citrifolia_, Indian mulberry, yellow wood, P ialotri, Byelotri, noni (Rubiaceae)
 
 
-A small tree, 5-6 min height, and occasionally more, up to 15m, _Morinda citrifolia_ (Figure 13.6, left) grows throughout Oceania behind the beach and in dry soils exposed to the sun. [Barrau](../sources/Barrau1962) ([1962](../sources/Barrau1962): 188) comments on the large shiny elliptical leaves about 20cm in length and 10cm broad. [Peekel](../sources/Peekel1984) ([1984](../sources/Peekel1984): 539) recognises two varieties, one with green, yellow, white or variegated leaves, the other (var. bracteata) with enlarged calyx lobes. The small white flowers grow on an oval or cone-shaped structure, the syncarpium, which later swells to become the syncarp, 'a heavy, pungent smelling-sometimes repulsive-succulent fruit' ([Henderson & Hancock 1988](../sources/HendersonandHancock1988): 52). The fruits of wild varieties are spherical or elongated syncarps of 3-6cm and are soft and straw yellow at maturity, with numerous protuberances ([French 1986](../sources/French1986):272 describes them as 'warty looking lumps'). Cultivated forms have paler, larger fruit with no protuberances, but are rarely found within village areas because of the strong smell when their fruit fall and rot ([Walter & Sam 2002](../sources/WalterandSam2002): 204-205).
+A small tree, 5-6 min height, and occasionally more, up to 15m, _Morinda citrifolia_ ([Figure 13.6](#fig-3-13_6), left) grows throughout Oceania behind the beach and in dry soils exposed to the sun. [Barrau](../sources/Barrau1962) ([1962](../sources/Barrau1962): 188) comments on the large shiny elliptical leaves about 20cm in length and 10cm broad. [Peekel](../sources/Peekel1984) ([1984](../sources/Peekel1984): 539) recognises two varieties, one with green, yellow, white or variegated leaves, the other (var. bracteata) with enlarged calyx lobes. The small white flowers grow on an oval or cone-shaped structure, the syncarpium, which later swells to become the syncarp, 'a heavy, pungent smelling-sometimes repulsive-succulent fruit' ([Henderson & Hancock 1988](../sources/HendersonandHancock1988): 52). The fruits of wild varieties are spherical or elongated syncarps of 3-6cm and are soft and straw yellow at maturity, with numerous protuberances ([French 1986](../sources/French1986):272 describes them as 'warty looking lumps'). Cultivated forms have paler, larger fruit with no protuberances, but are rarely found within village areas because of the strong smell when their fruit fall and rot ([Walter & Sam 2002](../sources/WalterandSam2002): 204-205).
 
 _Morinda citrifolia_ is a tree with many uses in Oceanic speaking societies. Wild young trees are well known as a source of dyes, red and yellow, extracted by boiling the root-bark ([Floyd 1954](../sources/Floyd1954), [Gowers 1976](../sources/Gowers1976): 99). In Marovo the dyes are applied to cocount-frond baskets, in Vanuatu to vegetable fibres used in items of apparel. S. [Foale](../sources/Foale2001) ([2001](../sources/Foale2001)) describes it as an all-purpose medicine on Lihir, and [Walter & Sam](../sources/WalterandSam2002) ([2002](../sources/WalterandSam2002): 206--207) refer to research indicating that the Indian mulberry contains immuno-stimulant substances. This would explain its numerous medicinal uses. In Marovo, Manus and Tonga young leaves softened over the fire are applied to infected wounds and boils to draw out pus ([O'Collins & Lamothe 1989](../sources/OCollinsandLamothe1989), [Hviding 2005](../sources/Hviding2005): 133, [Walter & Sam 2002](../sources/WalterandSam2002): 207). In Vanuatu the raw fruit is crunched and eaten to treat an enlarged spleen. However, the plant is also cultivated and the fruit of the cultivated variety eaten, raw or cooked, on small islands scattered across Papua New Guinea, on the Temotu islands of the Solomons and in the Banks and Torres Islands of Vanuatu. Elsewhere the fruit of the wild variety is a famine food ([Walter & Sam 2002](../sources/WalterandSam2002): 205-207). In parts of Papua New Guinea and the Solomons the young leaves, which are a rich source of carotene, are cooked as a vegetable or consumed for medicinal reasons ([Henderson & Hancock 1988](../sources/HendersonandHancock1988):54, [French 1986](../sources/French1986): 272).
 
@@ -2345,7 +2345,7 @@ One method of catching fish was to put a toxic plant substance into an area of w
 
 The use of climbing shrubs of the genus _Derris_ to stun fish for an easy catch is known from the Bismarcks to Fiji (see [vol.1, ch.8, §7](../contributions/1-8#s-7)). However, of fifteen _Derris_ species that [Verdcourt](../sources/Verdcourt1979) ([1979](../sources/Verdcourt1979): 314--331) identifies in Papua New Guinea, only three are said to be used for fishing: _Derris elliptica_, _Derris_ elegans (syn. _D. rufula_, _Dillenia salomonensis_ and perhaps _Derris heterophylla_) and _Derris_ malaccensis. We can evidently add a fourth, as Peekel mentions the use of _Derris trifoliata_ (syn. _D. uliginosa_) to stun fish, a claim confirmed by [Hviding](../sources/Hviding2005) ([2005](../sources/Hviding2005): 105).
 
-In its wild form _Derris_ elliptica is a climbing shrub up to 10m high which grows in coastal locations (Figure 13.6, right). Cultivated plants are mostly low and tangled, and produce thick fleshy roots which are scraped or crushed, then stirred into shallow water to benumb fish so that they can be easily caught.
+In its wild form _Derris_ elliptica is a climbing shrub up to 10m high which grows in coastal locations ([Figure 13.6](#fig-3-13_6), right). Cultivated plants are mostly low and tangled, and produce thick fleshy roots which are scraped or crushed, then stirred into shallow water to benumb fish so that they can be easily caught.
 
 Chewing derris root and then swallowing copious amounts of water was the traditional means of suicide in NW Island Melanesia.
 
@@ -2358,7 +2358,7 @@ It seems likely that POc &ast;tupa referred to _Derris_ creepers in general, or 
 
 - POc &ast;puna(t) 'vine used for fish poison, probably _Derris elliptica_'
 - PWOc &ast;m(ʷ)ali '_Derris_ sp.'
-- Proto Remote Oceanic &ast;vuba 'k.o. vine, probably _Derris elliptica_'
+- PROc &ast;vuba 'k.o. vine, probably _Derris elliptica_'
 
 but I am unable to determine how they differed in meaning from each other or from &ast;tupa.
 
@@ -2601,11 +2601,11 @@ PWOc _&ast;(m,mʷ)ali_ (incorrectly given as _&ast;maRi_ in [vol. 1, ch.8, §7](
 
 
 
-[Bender et al.](../sources/Benderetal2003) ([2003](../sources/Benderetal2003)) offer two Proto Micronesian reconstructions with the gloss 'fish poison' or '_Derris_ sp.'. One is PMic _&ast;(t,T)upa_, continuing POc _&ast;tupa_ and reflected only in Woleaian _sūpe_ 'fish poison (root)'. Since _sūpe_ has _-p-_ for †_-f_ and PMic _&ast;(t,T)upa_ is reconstructed for expected †_&ast;tufa_, the reconstruction is suspect. The other PMic reconstruction is _&ast;upa_ 'derris vine ', which is well supported in Micronesian languages and appears to have cognates in Southern Vanuatu, permitting reconstruction of Proto Remote Oceanic _&ast;vuba_.
+[Bender et al.](../sources/Benderetal2003) ([2003](../sources/Benderetal2003)) offer two Proto Micronesian reconstructions with the gloss 'fish poison' or '_Derris_ sp.'. One is PMic _&ast;(t,T)upa_, continuing POc _&ast;tupa_ and reflected only in Woleaian _sūpe_ 'fish poison (root)'. Since _sūpe_ has _-p-_ for †_-f_ and PMic _&ast;(t,T)upa_ is reconstructed for expected †_&ast;tufa_, the reconstruction is suspect. The other PMic reconstruction is _&ast;upa_ 'derris vine ', which is well supported in Micronesian languages and appears to have cognates in Southern Vanuatu, permitting reconstruction of PROc _&ast;vuba_.
 
-<table id="3-13-4-1-411-ProtoRemoteOceanic-vuba-a">
+<table id="3-13-4-1-411-PROc-vuba-a">
 <tr>
-<td><strong>ProtoRemoteOceanic</strong></td><td> </td>
+<td><strong>PROc</strong></td><td> </td>
 <td>
 <i>&ast;vuba</i>
 </td>
@@ -2692,7 +2692,7 @@ Although it grows readily in the wild in locations where there is light, the Mar
 
 Turmeric also has ritual significance. At Marovo it is planted to keep evil spirits away from gardens, and in both Marovo and Kwara'ae the roots are chewed and spat out of the door or window of the house to fend off evil spirits ([Hviding 2005](../sources/Hviding2005): 131). The Kwara'ae also chew it both with betelnut and alone, the latter both as a snack and medicinally.
 
-Figure 13.7     _Curcuma longa_
+[Figure 13.7](#fig-3-13_7)     _Curcuma longa_
 
 There are two reconstructions, POc _&ast;yaŋo_ and PEOc _&ast;re(ŋ,ŋʷ)a_. There is some evidence in the glosses of reflexes that the latter meant yellow material, including prepared turmeric and perhaps the yolk of an egg.
 
@@ -3086,7 +3086,7 @@ PMP _&ast;badak_ is tentatively reconstructed below on the basis of the Tolai an
 
 <a id="p-415"></a>
 
-Figure 13.8   _Codiaeum variegatum_
+[Figure 13.8](#fig-3-13_8)   _Codiaeum variegatum_
 
 <table id="3-13-5-2-415-POc-parak-a">
 <tr>
@@ -3157,7 +3157,7 @@ _Cordyline fruticosa_ has a woody stem usually 1-2m high with no branches; the l
 
 The cordyline has a tuber which is edible and occasionally eaten in Papua New Guinea, although it may have been used more extensively for food in the past. Its young leaf shoots are sometimes cooked and eaten (Barrau 1965, [Bourke 1982](../sources/Bourke1982): 60, [French 1986](../sources/French1986): 335). The Saliba eat the flowers, cooked with leaves of _Gnetum gnemon_ ([ch.10, §2.3](../contributions/3-10#s-2-3)) ([Margetts 2005b](../sources/Margetts2005b)). The Molima simply add them to the cooking pot (A. Chowning, pers. comm.). _Cordyline fruticosa_ is used for plot markers, and tuberous root as an item of clothing, and as a warning to thieves ([Bourke 1982](../sources/Bourke1982)).
 
-Figure 13.9 _Cordyline fruticosa_: plant
+[Figure 13.9](#fig-3-13_9) _Cordyline fruticosa_: plant
 
 Leaves of C.fruticosa are worn by dancers in New Britain ([Arentz et al. 1989](../sources/Arentzetal1989): 94). Bourke comments on the spiritual significance of C.fruticosa in some Papua New Guinea societies. The Marovo believe that cordyline holds spiritual power, and different cultivars of cordyline are used for different kinds of magic, often exercised by holding the leaf itself ([Hviding 2005](../sources/Hviding2005): 118). It also functions as a charm against magic among the Kwaio and the Kwara'ae, and the latter is the one place where a non-decorative, non-ritual use is mentioned: it is used to wrap lizards for cooking ([Kwa'ioloa & Burt 2001](../sources/KwaioloaandBurt2001): 180). On Waya Island it is usually planted in villages and at taboo sites, and today often at graves. Different varieties were used for different kinds of magic ([Gardner & Pawley 2006](../sources/GardnerandPawley2006)).
 
@@ -3819,7 +3819,7 @@ cf. also:
 ### 6.5. _Heliconia indica_, heliconia, Blif laplap (Heliconiaceae)
 
 
-Two species of _Heliconia_ grow in NW Island Melanesia, _Heliconia indica_ in eastern mainland New Guinea and the Bismarcks and _Heliconia salomonensis_ in Bougainville and the Solomons (R. Gardner, pers. comm.). The two appear to be very· similar (Figure 13.10, left).[^21] Numerous short stems formed from leaf sheaths rise from an underground rhizome to a height of 5 or 6 m. The leaves resemble banana leaves, and under cultivation assume various colours and patterns: yellow, yellow-and-green striped, bright red or dark red. In the wild heliconias grow in damp shady environments in primary and secondary forest.
+Two species of _Heliconia_ grow in NW Island Melanesia, _Heliconia indica_ in eastern mainland New Guinea and the Bismarcks and _Heliconia salomonensis_ in Bougainville and the Solomons (R. Gardner, pers. comm.). The two appear to be very· similar ([Figure 13.10](#fig-3-13_10), left).[^21] Numerous short stems formed from leaf sheaths rise from an underground rhizome to a height of 5 or 6 m. The leaves resemble banana leaves, and under cultivation assume various colours and patterns: yellow, yellow-and-green striped, bright red or dark red. In the wild heliconias grow in damp shady environments in primary and secondary forest.
 
 The leaves are used for covering and sealing the stone oven because of their thick, waxy cuticle and very large leaf surfaces. Thanks to their size, fewer are needed, reducing the labour of cutting and carrying ([Henderson & Hancock 1988](../sources/HendersonandHancock1988):239, [Kwa'ioloa & Burt 2001](../sources/KwaioloaandBurt2001): 196, [Hviding 2005](../sources/Hviding2005): 120).
 
@@ -3916,7 +3916,7 @@ The leaves are used for covering and sealing the stone oven because of their thi
 ### 6.6. _Crinum asiaticum_, spider lily (Amatyllidaceae)
 
 
-_Crinum asiaticum_ is a large lily with long erect leaves that are arranged in a spiral rosette to form impressive clumps up to 1.5 m in height and 2 m wide (Figure 13 .10, right). The leaves may be a metre long and 10cm wide. They emerge from huge bulbs that may weigh as much as 9 kg. Its white flowers, with thick succulent stems, are shaped like tubes that flair open into a crown of narrow petals.[^22] [Hviding](../sources/Hviding2005) ([2005](../sources/Hviding2005): 103) distinguishes between _Crinum asiaticum_, which is cultivated, and _Crinum pedunculatum_, which grows wild in sandy areas near beaches and in other damp locations. [Kwa'ioloa & Burt](../sources/KwaioloaandBurt2001) ([2001](../sources/KwaioloaandBurt2001): 216) distinguish between a green-leaved wild variety of _Crinum asiaticum_ and a yellow-leafed variety cultivated for decoration in villages.
+_Crinum asiaticum_ is a large lily with long erect leaves that are arranged in a spiral rosette to form impressive clumps up to 1.5 m in height and 2 m wide ([Figure 13](#fig-3-13) .10, right). The leaves may be a metre long and 10cm wide. They emerge from huge bulbs that may weigh as much as 9 kg. Its white flowers, with thick succulent stems, are shaped like tubes that flair open into a crown of narrow petals.[^22] [Hviding](../sources/Hviding2005) ([2005](../sources/Hviding2005): 103) distinguishes between _Crinum asiaticum_, which is cultivated, and _Crinum pedunculatum_, which grows wild in sandy areas near beaches and in other damp locations. [Kwa'ioloa & Burt](../sources/KwaioloaandBurt2001) ([2001](../sources/KwaioloaandBurt2001): 216) distinguish between a green-leaved wild variety of _Crinum asiaticum_ and a yellow-leafed variety cultivated for decoration in villages.
 
 
 <a id="p-422"></a>

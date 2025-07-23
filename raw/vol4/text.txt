@@ -1002,7 +1002,7 @@ __tablenh__
               [x,y] | the item is reconstructable in two forms, one with x and one with y
               x-y   |  x and y are separate morphemes
               x-    |  x takes an enclitic or a suffix
-              <x>   |  x is an infix
+              ⟨x⟩   |  x is an infix
 
      Sometimes we need to refer to a reconstructed form that one would expect as the regular
 reflex of an established POc etymon, but which does not occur because an irregular sound
@@ -7318,14 +7318,14 @@ POc *paŋoda ‘gather seafood on the reef’ (Clark 1991)
   Pn:   Ifira-Mele    fāŋota      ‘gather shellfish etc. on the reef’
 >
 
-    The second reconstruction, _*p<in>aŋoda_, is a nominalisation of the verb using the infix
-_*<in>_, which in POc typically derived a noun denoting the thing acted on or produced by
+    The second reconstruction, _*p⟨in⟩aŋoda_, is a nominalisation of the verb using the infix
+_*⟨in⟩_, which in POc typically derived a noun denoting the thing acted on or produced by
 the action of the verb. It is likely that _*piŋoda_ was present in POc as a fast speech variant:
-reflexes of _*p<in>aŋoda_ show loss of the second syllable in all Polynesian languages and in
+reflexes of _*p⟨in⟩aŋoda_ show loss of the second syllable in all Polynesian languages and in
 some North and Central Vanuatu and Papuan Tip languages.
 
 <
-POc *p<in>aŋoda, *piŋoda ‘seafood gathered on the reef, edible sea invertebrates’ (Clark 1991)
+POc *p⟨in⟩aŋoda, *piŋoda ‘seafood gathered on the reef, edible sea invertebrates’ (Clark 1991)
   PT:  Molima        igoda       ‘collect shellfish’
   PT:  Kilivila      vigoda      ‘shell (clams, snails)’
   PT:  Dobu          igoda       (v) ‘gather shellfish’; (N) ‘shellfish’

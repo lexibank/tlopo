@@ -5803,16 +5803,16 @@ discussed in their kinship context in §2.4.1.5.3. Nonetheless, Oceanic language
 sometimes innovated terms that render ‘wife’ and ‘woman’ distinct. At least in one instance,
 this tendency was already manifest earlier than POc. PMP had a number of forms derived
 from the root *bahi. It was perhaps originally a stative verb ‘be female’, as many of its
-derivations include the infix _*<in>_, one of several PAn affixes that among other things formed
-nouns from verbs. In PMP _*b<in>ahi_ ‘woman, wife’ and *ba-b<in>ahi ‘female, woman’ are
-both attested. The latter was ancestral to POc _*papine_ ‘woman, female’. PMP _*b<in>ahi_ gave
-rise to PEMP _*b<in>ai_ and POc _*pine_ ‘woman, wife’, much more sparsely reflected that
+derivations include the infix _*⟨in⟩_, one of several PAn affixes that among other things formed
+nouns from verbs. In PMP _*b⟨in⟩ahi_ ‘woman, wife’ and *ba-b⟨in⟩ahi ‘female, woman’ are
+both attested. The latter was ancestral to POc _*papine_ ‘woman, female’. PMP _*b⟨in⟩ahi_ gave
+rise to PEMP _*b⟨in⟩ai_ and POc _*pine_ ‘woman, wife’, much more sparsely reflected that
 _*papine_. The difference in usage seems to have been present at least by PEMP. The cognate
-set supporting PEMP _*b<in>ai_ and POc _*pine_ is below.
+set supporting PEMP _*b⟨in⟩ai_ and POc _*pine_ is below.
 
 <
-PAn/PMP *b<in>ahi ‘woman, wife’ (ACD)
-PEMP *b<in>ai ‘woman, wife’
+PAn/PMP *b⟨in⟩ahi ‘woman, wife’ (ACD)
+PEMP *b⟨in⟩ai ‘woman, wife’
   RA: Misool             pin                  ‘woman, wife’
   CB: Ambai              bine                 ‘wife’
   CB: Wandamen           vinie                ‘wife’
@@ -6248,10 +6248,10 @@ POc *[tau]laki ‘marry; married person’[41]
  MM:  Tiang              lek                ‘husband’
  MM:  Madak              (at)lok            ‘husband’
  MM:  Patpatar           tole               ‘marry’
- MM:  Patpatar           t<in>ole-n         ‘wedding; marriage’ (_<in>_ NOM)
+ MM:  Patpatar           t⟨in⟩ole-n         ‘wedding; marriage’ (_⟨in⟩_ NOM)
  MM:  Tolai              taulai             ‘married person’
  MM:  Ramoaaina          taula              ‘marry’
- MM:  Ramoaaina          t<in>aula          ‘marriage’ (_<in>_ NOM)
+ MM:  Ramoaaina          t⟨in⟩aula          ‘marriage’ (_⟨in⟩_ NOM)
  MM:  Siar               taulai             ‘marry’
  MM:  Nehan              le                 ‘marry, married person’
  MM:  Banoni             nai                ‘marry’
@@ -13702,8 +13702,8 @@ POc *taqun ‘recurrent seasonal cycle, especially yam season cycle’ (revised 
  NNG: Ulau-Suain       taun                  ‘year’
  MM:  Bola             tahu(na)              ‘the time when …’
  MM:  Sursurunga       taul                  ‘season’
- MM:  Patpatar         t<in>ahon, t<in>ohon  ‘year’ (_<in>_ marks a nominalisation)
- MM:  Ramoaaina        t<in>əwon             ‘year’
+ MM:  Patpatar         t⟨in⟩ahon, t⟨in⟩ohon  ‘year’ (_⟨in⟩_ marks a nominalisation)
+ MM:  Ramoaaina        t⟨in⟩əwon             ‘year’
  MM:  Tolai            taun                  ‘season, period, time’
  NCV: Mota             tau                   ‘season’
  NCV: Nguna            (na)tau               ‘year’
@@ -14689,10 +14689,10 @@ almonds.
 __table__
 Month name | Word glosses                   |  Accompanying notes
 _haele_      | ‘climb’                      |  the climbing month (i.e. for canarium almonds)
-_h<in>aele_  | _<in>_ NOMINALISER + ‘climb’ |  the season when women may eat canarium almonds
+_h⟨in⟩aele_  | _⟨in⟩_ NOMINALISER + ‘climb’ |  the season when women may eat canarium almonds
 _lomu kubata_ | _lomu_ ‘fall’, _kubata_ ‘black ripe canarium’ |  the name of a month
 _muzara_     | ‘crush’                     | approx. October
-_m<in>uzara_ | _<in>_ NOMINALISER + ‘crush’ | month name: men then commence to eat smoked canarium almonds
+_m⟨in⟩uzara_ | _⟨in⟩_ NOMINALISER + ‘crush’ | month name: men then commence to eat smoked canarium almonds
 _susuni_ | _suni_ ‘prick’ | month name; the season for general offering of smoked canarium almonds at a _hope_
 _tome-laŋono_ | _tome_ ‘hide’, _laŋono_ placename | month name: canarium almonds are then packed in special baskets, and put away to be smoked. Some are taken to the _hope_ of Langono.
 
@@ -22779,12 +22779,12 @@ ordinal as a verb (see (13) and (14) in §14.4) and add nominalising morphology.
 Central Papuan languages Motu, Lala, Roro and Mekeo and the New Georgia languages
 Kubokota, Roviana, Ughele, Hoava and Vangunu all add a nominaliser to a form with a
 causative prefix (see above). The former add the instrumental nominalising prefix _i-_ (< POc
-_*i-_), the latter the general nominalising infix _<in>_ (< POc _*<in>_). N-C Vanuatu languages had a
+_*i-_), the latter the general nominalising infix _⟨in⟩_ (< POc _*⟨in⟩_). N-C Vanuatu languages had a
 variety of nominalising morphemes.
 
 __formgroup__
   PT:  Lala                i-va-NML-na        (_i-_ INSTRUMENTAL NOM; _va-_ CAUS; _-na_ P:3S)
-  MM: Kubokota             v<in>a-NML         (_<in>_ NOM; _va-_ CAUS)
+  MM: Kubokota             v⟨in⟩a-NML         (_⟨in⟩_ NOM; _va-_ CAUS)
   NCV: NE Ambae            kai-NML-ki         (_kai-_ CLF (fossil); _-ki_ NOM)
   NCV: Apma                NML-an             (_-an_ NOM)
   NCV: Uripiv              NML-Vn             (_-Vn_ NOM)

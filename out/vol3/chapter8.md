@@ -381,7 +381,7 @@ The POc term for _Commersonia bartramia_ was _&ast;jamaR_. The Mwotlap, Mota and
 
 <a id="s-2-4"></a>
 
-### 2.4. _Glochidion philippicum_, little cheese tree, Bnamalao (Euphorbiaceae)
+### 2.4. _Glochidion philippicum_, little cheese tree, B _namalao_ (Euphorbiaceae)
 
 
 The little cheese tree, _Glochidion philippicum_ (syn. _G. ramiflorum_), grows 10--20 m tall, and is common in secondary forest. Its fruit are dry greyish green disc-like capsules shaped like a Dutch cheese round or a flattened Australian pumpkin, which split open to reveal red or orange seeds ([Peekel 1984](../sources/Peekel1984): 295).
@@ -425,7 +425,7 @@ The POc term _&ast;mʷala(q)u_ almost certainly denoted the Bismarcks species _G
 '<span><em>Glochidion</em> sp.</span>'</td>
 </tr>
 <tr>
-<td><strong>ProtoRemoteOceanic</strong></td><td> </td>
+<td><strong>PROc</strong></td><td> </td>
 <td>
 <i>&ast;mʷala(q)u</i>
 </td>
@@ -450,7 +450,7 @@ The POc term _&ast;mʷala(q)u_ almost certainly denoted the Bismarcks species _G
 <tr>
 <td>NCV</td><td><a href="../languages/raga">Raga</a></td><td><i>mʷa-mʷalau</i></td>
 <td>
-'<span><em>Glochidion</em> stipulare (?)</span>' (<a href="../sources/Walsh2004">Walsh2004</a>)
+'<span><em>Glochidion stipulare</em> (?)</span>' (<a href="../sources/Walsh2004">Walsh2004</a>)
 </td>
 </tr>
 <tr>
@@ -893,7 +893,7 @@ The POc term for _Pipturus argenteus_ was _&ast;qaramʷaqi_. Both instances of _
 
 Blust (ACD) reconstructs PMP _&ast;adamay_ without initial _&ast;q-_, but adds that if Sundanese _haramay_ 'Boehmeria nivea' (a member of the family Urticacea) is cognate, then the reconstruction will be _&ast;qadamay_. The Kara, Patpatar, Notsi, Pije, Nelemwa and Tongan reflexes also reflect _&ast;q-_, and it is thus reasonable to infer that the PMP form was _&ast;qadamay_.
 
-There is disagreement among cognates with regard to the final _&ast;-aqi_ of POc _&ast;qaramʷaqi_. Blust reconstructs the final _&ast;-ay_ of PMP _&ast;adamay_ with no _&ast;-q-_ on the basis of Cebuano _handalamay_ '_Pipturus argenteus_', Maranao _aramai_ '_Pipturus_ arborescens' and the Sundanese reflex above, and so putative POc _&ast;-q-_ must be a post-PMP innovation. PMP _&ast;-ay_ is normally reflected as POc _&ast;-e_, but Raga, Sye and Anejom _-ai_ reflect POc _&ast;-aqi_, not _&ast;-e_. POc _&ast;-q-_ is also reflected in Kara _kaimek_ and Patpatar _karanek_, which sporadically retain it as _k_. POc _&ast;-aqi_ is also arguably the source of _-e_ in Marshallese _armʷe_ and of long _-ē_ in Wayan _rōmē_. Against the reconstruction of _&ast;-aqi_ are the Seimat, Apma, S Efate and all Central Pacific reflexes other than Wayan. [Geraghty](../sources/Geraghty1990) ([1990](../sources/Geraghty1990): 55) accounts for long final _-ā_ in Central Pacific reflexes by reconstructing PEOc/PCP _&ast;(q)aromʷaRa_. PEOc _&ast;-R-_ is usually lost in PCP but occasionally retained as _&ast;-l-_, which, Geraghty suggests, is reflected in NE Viti Levu _ŋala_ '_Pipturus_ sp.' (1990: 91). However, short of not just one but two syllables, this is a questionable reflex, and so I reconstruct PCP _&ast;qaromʷ(ē,ā)_. The ambiguity of the final long vowel is due to the disagreement between Wayan _-ē_ and Lau Fijian and Polynesian _-ā_. Geraghty is right, however, to take the long final vowel seriously, and it is not clear to me how this innovation arose.
+There is disagreement among cognates with regard to the final _&ast;-aqi_ of POc _&ast;qaramʷaqi_. Blust reconstructs the final _&ast;-ay_ of PMP _&ast;adamay_ with no _&ast;-q-_ on the basis of Cebuano _handalamay_ '_Pipturus argenteus_', Maranao _aramai_ '_Pipturus_ arborescens' and the Sundanese reflex above, and so putative POc _&ast;-q-_ must be a post-PMP innovation. PMP _&ast;-ay_ is normally reflected as POc _&ast;-e_, but Raga, Sye and Anejom _-ai_ reflect POc _&ast;-aqi_, not _&ast;-e_. POc _&ast;-q-_ is also reflected in Kara _kaimek_ and Patpatar _karanek_, which sporadically retain it as _k_. POc _&ast;-aqi_ is also arguably the source of _-e_ in Marshallese _armʷe_ and of long _-ē_ in Wayan _rōmē_. Against the reconstruction of _&ast;-aqi_ are the Seimat, Apma, S Efate and all Central Pacific reflexes other than Wayan. [Geraghty](../sources/Geraghty1990) ([1990](../sources/Geraghty1990): 55) accounts for long final _-ā_ in Central Pacific reflexes by reconstructing PEOc/PCP _&ast;(q)aromʷaRa_. PEOc _&ast;-R-_ is usually lost in PCP but occasionally retained as _&ast;-l-_, which, [Geraghty](../sources/Geraghty1990) ([1990](../sources/Geraghty1990): 91) suggests, is reflected in NE Viti Levu _ŋala_ '_Pipturus_ sp.'. However, short of not just one but two syllables, this is a questionable reflex, and so I reconstruct PCP _&ast;qaromʷ(ē,ā)_. The ambiguity of the final long vowel is due to the disagreement between Wayan _-ē_ and Lau Fijian and Polynesian _-ā_. Geraghty is right, however, to take the long final vowel seriously, and it is not clear to me how this innovation arose.
 
 <table id="3-8-2-6-245-POc-qaramaqi-a">
 <tr>
@@ -911,7 +911,7 @@ There is disagreement among cognates with regard to the final _&ast;-aqi_ of POc
 <i>&ast;qaramʷaqi</i>
 </td>
 <td>
-'<span><em>Pipturus argenteus</em></span>' (<span>Geraghty 1990: PEOc *(q)aromʷaRa</span>)</td>
+'<span><em>Pipturus argenteus</em></span>' (<span>Geraghty 1990: PEOc <em>*(q)aromʷaRa</em></span>)</td>
 </tr>
 <tr>
 <td>Adm</td><td><a href="../languages/seimat">Seimat</a></td><td><i>ahoma</i></td>
@@ -1264,13 +1264,13 @@ Blust (ACD) reconstructs PWMP _&ast;deRuŋ_ on the basis of western Malaya-Polyn
 
 
 
-Peekel records two species of _Trichospermum_ in New Ireland, _Trichospermum peekelii_ (syn. T.fauroensis, _Trichospermum psilocladum_) in the north and _Trichospermum pleiostigma_ (syn. _T. quadrivale_, Althoffia tetrapyxis) in the south, with an overlap in the Madak-speaking area.
+Peekel records two species of _Trichospermum_ in New Ireland, _Trichospermum peekelii_ (syn. T. fauroensis, _Trichospermum psilocladum_) in the north and _Trichospermum pleiostigma_ (syn. _T. quadrivale_, Althoffia tetrapyxis) in the south, with an overlap in the Madak-speaking area.
 
 Both species grow to 10--20 m and have a single stem with radial branches which form a roundish to conical crown. When it is in bloom, the crown is covered in fllowers and is a white mass with a sweet smell which reaches quite a distance. Because the saplings are shade-intolerant, they tend to occur in secondary regrowth, although individual specimens may attain canopy height and survive-but they are unable to reproduce.
 
 The two species provide straight poles for rafters. They are also good firewood and are among the species that were used as fireploughs. The bark can be pulled off in strips and is used for carrying bundles of garden produce or wood, and to cover house entrances and as roofing for temporary shelters. The Kwara'ae used it to make warriors' shields ([Peekel 1984](../sources/Peekel1984):357, [Wheatley 1992](../sources/Wheatley1992):233, [Kwa'ioloa & Burt 2001](../sources/KwaioloaandBurt2001): 136--137).
 
-POc _&ast;maRako_ '_Trichospermum_ peekelii' is an unproblematic reconstruction.
+POc _&ast;maRako_ '_Trichospermum peekelii_' is an unproblematic reconstruction.
 
 <table id="3-8-2-9-248-POc-marako-a">
 <tr>
@@ -1379,7 +1379,7 @@ POc _&ast;maRako_ '_Trichospermum_ peekelii' is an unproblematic reconstruction.
 ## 3. Grasses
 
 
-Although grasslands are rare in the Bismarck Archipelago, grasses of course grow there, especially on the edges of forests, around garden clearings and in secondary forest. The most common grass in the Bismarcks is _Paspalum conjugatum_ (Figure 8.5, left), which can grow to a metre high ([Peekel 1984](../sources/Peekel1984): 48), but it appears to have been introduced from the New World (R. Gardner, pers. comm.). Evans ([ch.3, §4.5](../contributions/3-3#s-4-5)) reconstructs POc _&ast;pali[s,j]i_ 'generic term for grasses and other grass-like plants'. She notes that the generic term for a taxon quite often represents an extension of the meaning of a term for a particular and salient subtaxon. There is flimsy evidence that the Proto Remote Oceanic reflex of _&ast;pali[s,j]i_ was not only the generic but by this time denoted the creeping beach grass, _Thuarea involuta_, known in Hawai'i as kuroiwa grass. This is its specific denotation in both Mwotlap (NCV) and Woleaian (Mic).
+Although grasslands are rare in the Bismarck Archipelago, grasses of course grow there, especially on the edges of forests, around garden clearings and in secondary forest. The most common grass in the Bismarcks is _Paspalum conjugatum_ ([Figure 8.5](#fig-3-8_5), left), which can grow to a metre high ([Peekel 1984](../sources/Peekel1984): 48), but it appears to have been introduced from the New World (R. Gardner, pers. comm.). Evans ([ch.3, §4.5](../contributions/3-3#s-4-5)) reconstructs POc _&ast;pali[s,j]i_ 'generic term for grasses and other grass-like plants'. She notes that the generic term for a taxon quite often represents an extension of the meaning of a term for a particular and salient subtaxon. There is flimsy evidence that the PROc reflex of _&ast;pali[s,j]i_ was not only the generic but by this time denoted the creeping beach grass, _Thuarea involuta_, known in Hawai'i as kuroiwa grass. This is its specific denotation in both Mwotlap (NCV) and Woleaian (Mic).
 
 Two less widely reflected terms, the reflexes of which are generic terms for grass, are POc _&ast;rabum_ and _&ast;(quta)quta_.
 
@@ -1488,11 +1488,11 @@ Two less widely reflected terms, the reflexes of which are generic terms for gra
 
 
 
-In Proto Remote Oceanic, _&ast;mʷanaya_, another apparently generic term for grass occurred. This quite possibly also denoted a specific but now uncertain subtaxon.
+In PROc, _&ast;mʷanaya_, another apparently generic term for grass occurred. This quite possibly also denoted a specific but now uncertain subtaxon.
 
-<table id="3-8-3-None-250-ProtoRemoteOceanic-manaya-a">
+<table id="3-8-3-None-250-PROc-manaya-a">
 <tr>
-<td><strong>ProtoRemoteOceanic</strong></td><td> </td>
+<td><strong>PROc</strong></td><td> </td>
 <td>
 <i>&ast;mʷanaya</i>
 </td>
@@ -1550,7 +1550,7 @@ In Proto Remote Oceanic, _&ast;mʷanaya_, another apparently generic term for gr
 ### 3.1. _Imperata cylindrica_ (syn. _Imperata arundinacea_), sword grass, blady grass, cogon grass, TP _kunai_ (Poaceae)
 
 
-Alongside _Paspalum conjugatum_, grasslands in NW Melanesia are dominated by sword grass (_Imperata cylindrica_), kangaroo grass (_Themeda australis_) and _Pennisetum polystachion_. The most common of these in the Bismarcks, and the only one of the three for which a POc term is reconstructed, is sword grass (Figure 8.5, middle).
+Alongside _Paspalum conjugatum_, grasslands in NW Melanesia are dominated by sword grass (_Imperata cylindrica_), kangaroo grass (_Themeda australis_) and _Pennisetum polystachion_. The most common of these in the Bismarcks, and the only one of the three for which a POc term is reconstructed, is sword grass ([Figure 8.5](#fig-3-8_5), middle).
 
 
 <a id="p-251"></a>
@@ -1828,7 +1828,7 @@ Blust (ACD) also reconstructs PCEMP _&ast;bitu_, POc _&ast;pitu_ '_Imperata cyli
 ### 3.2. Coix lacrymajobi, Job's tears (Poaceae)
 
 
-_Coix lacryma-jobi_ is a robust tropical grass, 1--1.5 m high, with shiny grains like tears (Figure 8.5, right). The grains are the hardened flower-cases of female spikelets. They turn various colours-yellow, purple, white or brown-and are used in rattles and necklaces in places as far apart as New Britain and Malaita ([Kwa'ioloa & Burt 2001](../sources/KwaioloaandBurt2001):204, [Powell 1976](../sources/Powell1976)). Powell reports that the leaves are eaten in New Britain.
+_Coix lacryma-jobi_ is a robust tropical grass, 1--1.5 m high, with shiny grains like tears ([Figure 8.5](#fig-3-8_5), right). The grains are the hardened flower-cases of female spikelets. They turn various colours-yellow, purple, white or brown-and are used in rattles and necklaces in places as far apart as New Britain and Malaita ([Kwa'ioloa & Burt 2001](../sources/KwaioloaandBurt2001):204, [Powell 1976](../sources/Powell1976)). Powell reports that the leaves are eaten in New Britain.
 
 
 <a id="p-253"></a>

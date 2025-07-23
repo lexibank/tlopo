@@ -67,7 +67,7 @@ The linguistic evidence is consistent with Bourke's inference. The POc etymon _&
 
 By the same token, the apparent existence of a POc term for _Dioscorea bulbifera_, the potato yam, implies that it was consumed by POc speakers, even though it is today cultivated only as a marginal crop and only in certain parts of New Guinea.
 
-The visible differences between _Dioscorea alata_, _Dioscorea esculenta_ and _Dioscorea bulbifera_ are shown in Figure 9.1.
+The visible differences between _Dioscorea alata_, _Dioscorea esculenta_ and _Dioscorea bulbifera_ are shown in [Figure 9.1](#fig-3-9_1).
 
 
 <a id="s-2-1-2"></a>
@@ -75,7 +75,7 @@ The visible differences between _Dioscorea alata_, _Dioscorea esculenta_ and _Di
 #### 2.1.2. _Dioscorea alata_, greater yam, water yam, winged yam, TP _yam_, P _iam_ (Dioscoreaceae)
 
 
-Left to themselves, _Dioscorea alata_ tubers come in an amazing variety of forms, as shown in Figure 9.2. In various parts of Oceanic-speaking Melanesia - the Papuan Tip islands, Fiji, New Caledonia - farmers strove to produce yams with a regular form and giant length. [Barrau](../sources/Barrau1955) ([1955](../sources/Barrau1955): 57) mentions a 2.6 m yam seen in New Caledonia in 1953. These long yams were produced by hollowing out a cylindrical growing hole and lining it with wooden sticks to provide growth space for the tuber. More generally, the yield is maximised by staking the growing vine with a support 2-3m high.
+Left to themselves, _Dioscorea alata_ tubers come in an amazing variety of forms, as shown in [Figure 9.2](#fig-3-9_2). In various parts of Oceanic-speaking Melanesia - the Papuan Tip islands, Fiji, New Caledonia - farmers strove to produce yams with a regular form and giant length. [Barrau](../sources/Barrau1955) ([1955](../sources/Barrau1955): 57) mentions a 2.6 m yam seen in New Caledonia in 1953. These long yams were produced by hollowing out a cylindrical growing hole and lining it with wooden sticks to provide growth space for the tuber. More generally, the yield is maximised by staking the growing vine with a support 2-3m high.
 
 It is not nutrition that drives the desire to produce the largest and the most yams in Melanesian societies, but rather competition for prestige, carried out by exhibiting one's success as a yam grower. Thus among Kilivila speakers of the Trobriands yams are displayed first in conical heaps in the garden, then again in front of the in-law's storehouse, before being placed in one's own storehouse. A good feast, from the host's perspective, is one at which the guests eat their fill of yam, then see how full their host's storehouse remains after the feast. A large yam with a fantastic form is good for display. The very fact that yams can be stored places them above taro in the food hierarchy because it allows a man to accumulate them until he can distribute them at a feast in the large quantities which bolster his prestige ([Howes 2003](../sources/Howes2003): 67-68, 96-97).
 
@@ -594,7 +594,7 @@ cf. also:
 #### 2.1.4. _Dioscorea esculenta_, lesser yam, prickly yam, TP _mami_, P _pana_ (Dioscoreaceae)
 
 
-_Dioscorea esculenta_ has a prickly vine stem and winds clockwise around its stake, whereas _Dioscorea alata_ winds anti-clockwise (Figure 9.1).
+_Dioscorea esculenta_ has a prickly vine stem and winds clockwise around its stake, whereas _Dioscorea alata_ winds anti-clockwise ([Figure 9.1](#fig-3-9_1)).
 
 The reasons why a POc etymon for this widespread species is apparently not reconstructable are discussed in [§2.1.1](../contributions/3-9#s-2-1-1). There are, however, a number of terms in NNG and MM languages which imply that there may have been a PWOc term for the species.[^6] Two forms are quite widely reflected, _&ast;ka-misa_ and _&ast;ma-misa_. The _&ast;ka-_/_&ast;ma-_ alternation is typical of stative (adjective-like) verbs in POc,[^7] implying that this was originally an epithet applied to _Dioscorea esculenta_ rather than a noun. However, no other meaning for this word can be reconstructed at present.
 
@@ -741,9 +741,9 @@ Further terms for yam can be reconstructed, but it is unclear which species they
 
 
 
-<table id="3-9-2-1-264-ProtoRemoteOceanic-damu-a">
+<table id="3-9-2-1-264-PROc-damu-a">
 <tr>
-<td><strong>ProtoRemoteOceanic</strong></td><td> </td>
+<td><strong>PROc</strong></td><td> </td>
 <td>
 <i>&ast;damu</i>
 </td>
@@ -936,7 +936,7 @@ cf. also:
 ### 2.2. Taro (Araceae)
 
 
-Most major food plant terms both in English and in Oceanic languages refer to a single genus. The English term 'taro' is an exception. In much of the Pacific 'taro' is used to refer collectively to five genera of the Araceae family, namely _Colocasia_, _Cyrtosperma_, _Alocasia_, _Amorphophallus_, and _Xanthosoma_, each represented by a single cultivated species in the Pacific and shown in Figure 9.3. The most important species are - and in POc times probably were - _Colocasia esculenta_ and _Cyrtosperma merkusii_.
+Most major food plant terms both in English and in Oceanic languages refer to a single genus. The English term 'taro' is an exception. In much of the Pacific 'taro' is used to refer collectively to five genera of the Araceae family, namely _Colocasia_, _Cyrtosperma_, _Alocasia_, _Amorphophallus_, and _Xanthosoma_, each represented by a single cultivated species in the Pacific and shown in [Figure 9.3](#fig-3-9_3). The most important species are - and in POc times probably were - _Colocasia esculenta_ and _Cyrtosperma merkusii_.
 
 
 <a id="s-2-2-1"></a>
@@ -2059,13 +2059,13 @@ Pueraria species are half-woody lianas, 3-5m high, with stems covered in hairs, 
 
 _Pueraria lobata_ has a fleshy, tapioca-like tuber that is widely eaten in times of famine (Barrau 1965; [Peekel 1984](../sources/Peekel1984): 253-255). Barrau (1965) supports [Guppy's](../sources/Guppy1906) ([1906](../sources/Guppy1906): 412) suggestion that _Pueraria lobata_ may also have been more widely cultivated by Oceanic speakers before the arrival of the sweet potato. It is still cultivated in the Kangean Islands (120 km east of Madura, Indonesia) and in New Caledonia, where [Haudricourt](../sources/Haudricourt1964) ([1964](../sources/Haudricourt1964): 97), cited by Barrau, labels it 'a food for chiefs' rather than a famine food. One of Guppy's mid-nineteenth-century sources noted that it also had ceremonial significance in Fiji.
 
-No POc term for _Pueraria lobata_ is reconstructable, and the cognate set below is restricted to North-Central Vanuatu and Central Pacific, and thus allow only a Proto Remote Oceanic reconstruction. None of Barrau's sources make specific mention of the Bismarcks or the Solomons, and it may be that its significance has faded more definitely from folk memory there than on smaller islands where it still serves as a famine food.
+No POc term for _Pueraria lobata_ is reconstructable, and the cognate set below is restricted to North-Central Vanuatu and Central Pacific, and thus allow only a PROc reconstruction. None of Barrau's sources make specific mention of the Bismarcks or the Solomons, and it may be that its significance has faded more definitely from folk memory there than on smaller islands where it still serves as a famine food.
 
 The gloss of the Raga reflex refers to famine food, and probably denotes _Pueraria lobata_.
 
-<table id="3-9-2-3-274-ProtoRemoteOceanic-raka-a">
+<table id="3-9-2-3-274-PROc-raka-a">
 <tr>
-<td><strong>ProtoRemoteOceanic</strong></td><td> </td>
+<td><strong>PROc</strong></td><td> </td>
 <td>
 <i>&ast;Raka</i>
 </td>
@@ -2164,7 +2164,7 @@ The gloss of the Raga reflex refers to famine food, and probably denotes _Puerar
 
 Banana plants have a non-woody stem and huge leaves which, along with the stem holding the bunches of bananas, grow directly out of the top of the main stem. The plant as a whole is usually around 3 m in height.
 
-In Papua New Guinea today bananas are the second most widely consumed food crop after the sweet potato. For some PNG communities starchy varieties of bananas are the sole staple, picked and cooked before they are fully ripe. Some varieties lend themselves better to boiling, others to baking. Traditional banana varieties are relatively hard to grow; each year they must be moved to new garden sites with fertile soil. Many of these varieties produce fruit within six months of planting ([French & Bridle 1978](../sources/FrenchandBridle1978): 12). Figure 9.5 shows a traditional banana plant.
+In Papua New Guinea today bananas are the second most widely consumed food crop after the sweet potato. For some PNG communities starchy varieties of bananas are the sole staple, picked and cooked before they are fully ripe. Some varieties lend themselves better to boiling, others to baking. Traditional banana varieties are relatively hard to grow; each year they must be moved to new garden sites with fertile soil. Many of these varieties produce fruit within six months of planting ([French & Bridle 1978](../sources/FrenchandBridle1978): 12). [Figure 9.5](#fig-3-9_5) shows a traditional banana plant.
 
 Banana leaves have a variety of uses. The most common are wrapping food for baking in a stone oven ([vol.1, ch.6, §3.1](../contributions/1-6#s-3-1)) and laying out food on them at feasts.
 
@@ -2408,7 +2408,7 @@ The likelihood that banana domestication first occurred in New Guinea, and that 
 
 <a id="p-278"></a>
 
-The term _Musa troglodytarum_ is used (inaccurately) both of wild varieties of _Musa balbisiana_ and of _Fe'i_ bananas. In the Uripiv and Samoan glosses below it is likely that it denotes the latter, in agreement with the Bauan gloss. POc _&ast;joRaga_ is glossed accordingly, but with a question mark, because this was the meaning of the Proto Remote Oceanic reflex but not necessarily of the POc term. _Fe'i_ bananas are uncommon in New Guinea today, and it is not clear whether they were present in the Bismarcks in Proto Oceanic times.
+The term _Musa troglodytarum_ is used (inaccurately) both of wild varieties of _Musa balbisiana_ and of _Fe'i_ bananas. In the Uripiv and Samoan glosses below it is likely that it denotes the latter, in agreement with the Bauan gloss. POc _&ast;joRaga_ is glossed accordingly, but with a question mark, because this was the meaning of the PROc reflex but not necessarily of the POc term. _Fe'i_ bananas are uncommon in New Guinea today, and it is not clear whether they were present in the Bismarcks in Proto Oceanic times.
 
 <table id="3-9-3-None-278-POc-joraga-a">
 <tr>
@@ -2749,7 +2749,7 @@ Names for the various parts of the banana plant are discussed in chapter 4. Some
 
 Breadfruit trees grow throughout the Oceanic-speaking region, except for New Zealand and the Chatham Islands. Breadfruit tend to be co-staples with other starchy foods, providing starch when the other staples are out of season and vice versa. In Melanesia it is most significant as a staple in the Temotu Province of the Solomons, but is also important in SE Papua, the Bismarcks and Bougainville,[^22] on the coasts of the islands of Vanuatu, in Micronesia, in Fiji and in parts of Polynesia ([Henderson & Hancock 1988](../sources/HendersonandHancock1988):36, [Walter & Sam 2002](../sources/WalterandSam2002): 107-108).
 
-Breadfruit trees grow to a height of 20 m and usually at altitudes below 1200 m. They are fairly tolerant with regard to soil, and grow in the coral soils of atolls. In the South Pacific, a tree yields 50 to 150 ovoid grapefruit-sized pale yellow to yellow-orange fruit per (annual) season. In some areas there is a second smaller fruiting halfway between main annual fruitings. The breadfruit is a syncarp, a compound fruit with many segments arranged around the core, which itself is the spike of the original flower. Each segment contains a seed surrounded by flesh and growing from the core on a fleshy receptacle. The segments are visible on the skin of the fruit as hexagon-like shapes, as shown in Figure 9.6. A breadfruit may weigh as much as 5 kg.
+Breadfruit trees grow to a height of 20 m and usually at altitudes below 1200 m. They are fairly tolerant with regard to soil, and grow in the coral soils of atolls. In the South Pacific, a tree yields 50 to 150 ovoid grapefruit-sized pale yellow to yellow-orange fruit per (annual) season. In some areas there is a second smaller fruiting halfway between main annual fruitings. The breadfruit is a syncarp, a compound fruit with many segments arranged around the core, which itself is the spike of the original flower. Each segment contains a seed surrounded by flesh and growing from the core on a fleshy receptacle. The segments are visible on the skin of the fruit as hexagon-like shapes, as shown in [Figure 9.6](#fig-3-9_6). A breadfruit may weigh as much as 5 kg.
 
 
 <a id="p-281"></a>
@@ -2782,11 +2782,11 @@ How are we to explain the complementary distribution? It is clear from non-Ocean
 
 POc _&ast;baReko_ or perhaps _&ast;beta_ may have denoted _Artocarpus camansi_ or a particular breadfruit cultivar or, for example, the cooked breadfruit, but these possibilities remain speculations.
 
-Scattered areas - many North New Guinea languages on New Britain, scattered languages in the islands of the Papuan Tip area, much of Central and South Vanuatu, and Micronesia - have a breadfruit term other than _&ast;kuluR_~_&ast;kunuR_ and _&ast;baReko_. Two of these, POc(?) _&ast;beta_ and Proto Remote Oceanic _&ast;maRi_, are sufficiently widespread to warrant mention.
+Scattered areas - many North New Guinea languages on New Britain, scattered languages in the islands of the Papuan Tip area, much of Central and South Vanuatu, and Micronesia - have a breadfruit term other than _&ast;kuluR_~_&ast;kunuR_ and _&ast;baReko_. Two of these, POc(?) _&ast;beta_ and PROc _&ast;maRi_, are sufficiently widespread to warrant mention.
 
 POc (?) _&ast;beta_ has a more restricted distribution: its reflexes occur in the New Georgia group, within SE Solomonic only in Gela, and in North-Central Vanuatu. This distribution requires that it be reconstructed for POc. The fact that its only non-Eastern Oceanic reflexes are in Nduke and Roviana in New Georgia in the northwest Solomons raises the possibility that _&ast;beta_ is a PEOc term that has been borrowed westward, but there is no other evidence I know of for Eastern Oceanic loans in New Georgia.
 
-A fourth term, Proto Remote Oceanic _&ast;maRi_ 'breadfruit', is limited to South Vanuatu, Micronesian and Polynesian, but [Geraghty](../sources/Geraghty2004) ([2004](../sources/Geraghty2004): 88) attributes Polynesian reflexes of the form _mei_ (presumably for †_mai_ or †_mal_) to borrowing, presumably from a Micronesian source. Again the distribution requires an explanation, this time because it is bipartite, but I can provide none.
+A fourth term, PROc _&ast;maRi_ 'breadfruit', is limited to South Vanuatu, Micronesian and Polynesian, but [Geraghty](../sources/Geraghty2004) ([2004](../sources/Geraghty2004): 88) attributes Polynesian reflexes of the form _mei_ (presumably for †_mai_ or †_mal_) to borrowing, presumably from a Micronesian source. Again the distribution requires an explanation, this time because it is bipartite, but I can provide none.
 
 <table id="3-9-4-None-283-POc-kulur-a">
 <tr>
@@ -3336,9 +3336,9 @@ A fourth term, Proto Remote Oceanic _&ast;maRi_ 'breadfruit', is limited to Sout
 
 
 
-<table id="3-9-4-None-285-ProtoRemoteOceanic-mari-a">
+<table id="3-9-4-None-285-PROc-mari-a">
 <tr>
-<td><strong>ProtoRemoteOceanic</strong></td><td> </td>
+<td><strong>PROc</strong></td><td> </td>
 <td>
 <i>&ast;maRi</i>
 </td>
@@ -3478,7 +3478,7 @@ It seems probable that sago starch was consumed by POc speakers. The POc homelan
 
 It is probably true to say that in Oceanic-speaking communities sago is only a staple where a marshy environment causes other staples to be in short supply. Except at locations in the Admiralties, it is always a supplement to garden staples, not a replacement. Although there are communities in New Guinea which get their sago entirely from natural palm stands, Oceanic-speaking communities probably also plant palms from suckers (transplanting seedlings is rare; [Rhoads 1986](../sources/Rhoads1986)).
 
-Sago palms grow very quickly, up to 1.5 m of vertical stem growth per year. They are harvested at the age of 7 to 15 years just before they flower. The palm is felled, the trunk is cut into sections. These are either split lengthways or the bark is half peeled off, and in pre-contact times the pith was extracted with tools made from hard wood, rough stone or sharpened bamboo. Commonly the crushed pith is washed and pounded, crushed or wrung (POc _&ast;poRos_, [vol.1 ,ch.9, §7](../contributions/1-9#s-7)) in an inclined trough made from a sago leaf petiole (see Figure 9.7). The starchy liquid thus extracted from the fibrous residue runs through a coconut frondnetting strainer (POc _&ast;Runut_, [vol.1, ch.6, §5.6](../contributions/1-6#s-5-6); this volume, [ch.12, §5.2](../contributions/3-12#s-5-2)) and is collected in leaf pans to settle. The water is decanted so that the starch can dry. The dried starch is sago flour, which is almost pure carbohydrate, for which reason it is rarely eaten alone. To preserve it, sago flour is wrapped in sago leaves or placed in clay pots and simply dampened with water from time to time. It is sometimes eaten as a porridge with additional ingredients, sometimes made into a paste which is baked into a pancake or biscuit with other ingredients, and sometimes baked in a hollow bamboo over a fire ([May 1984](../sources/May1984): 54).
+Sago palms grow very quickly, up to 1.5 m of vertical stem growth per year. They are harvested at the age of 7 to 15 years just before they flower. The palm is felled, the trunk is cut into sections. These are either split lengthways or the bark is half peeled off, and in pre-contact times the pith was extracted with tools made from hard wood, rough stone or sharpened bamboo. Commonly the crushed pith is washed and pounded, crushed or wrung (POc _&ast;poRos_, [vol.1 ,ch.9, §7](../contributions/1-9#s-7)) in an inclined trough made from a sago leaf petiole (see [Figure 9.7](#fig-3-9_7)). The starchy liquid thus extracted from the fibrous residue runs through a coconut frondnetting strainer (POc _&ast;Runut_, [vol.1, ch.6, §5.6](../contributions/1-6#s-5-6); this volume, [ch.12, §5.2](../contributions/3-12#s-5-2)) and is collected in leaf pans to settle. The water is decanted so that the starch can dry. The dried starch is sago flour, which is almost pure carbohydrate, for which reason it is rarely eaten alone. To preserve it, sago flour is wrapped in sago leaves or placed in clay pots and simply dampened with water from time to time. It is sometimes eaten as a porridge with additional ingredients, sometimes made into a paste which is baked into a pancake or biscuit with other ingredients, and sometimes baked in a hollow bamboo over a fire ([May 1984](../sources/May1984): 54).
 
 
 <a id="p-288"></a>

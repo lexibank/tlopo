@@ -595,7 +595,7 @@ morphemes or reduplicates are also separated by a hyphen.
 
 
 [10] An argument that North/Central Vanuatu does not constitute a genealogical subgroup is made by Lynch
-     (1995) and summarised in Lynch, Ross and Crowley (2002, Ch. 5). The argument that Fijian does not
+     (1995) and summarised in Lynch et al. (2002, Ch. 5). The argument that Fijian does not
      constitute a genealogical subgroup was made by Geraghty (1983) and is incorporated into Figure 1,
      where ‘Fijian’ comprises Rotuman, the East Fijian dialects, and West Fijian (also a dialect network).
 
@@ -622,7 +622,7 @@ __tablenh__
        [x, y]  | the item is reconstructable in two forms, one with x and one with y
        x-y     | x and y are separate morphemes
        x-      | x takes an enclitic or a suffix
-       ‹x›     | x is an infix
+       ⟨x⟩     | x is an infix
 
     It happens fairly often that the final consonant in a higher-order reconstructed etymon
 (e.g. _*-R_ in PMP _*kamaliR_ ‘men’s house’) is not evidenced in any Oceanic reflex. Often
@@ -11822,7 +11822,7 @@ Oceanic terms.[11]
    In their monovalent form, relational local nouns are reconstructed below like other
 monovalent nouns, i.e. without their final consonant, on the assumption that it was lost
 before a possessor suffix: for example, _*lalom_ ‘inside’ became _*lalo-_, *papak ‘underneath’
-became _*papa-_. However, as I note in Lynch, Ross and Crowley (2002, Ch. 4), there is
+became _*papa-_. However, as I note in Lynch et al. (2002, Ch. 4), there is
 some evidence from Tanna languages (SV) that POc retained the final consonant in this
 context, so that, e.g., POc _*lalo-ña_ in the reconstructed example above may have been
 (optionally?) _*lalom-ña_.
@@ -15577,8 +15577,8 @@ POc *taqun ‘period of a year, yam season cycle (?), any cyclic period’
  NNG: Ulau-Suain       taun                  ‘year’
  MM:  Bola             tahu(na)              ‘the time when …’
  MM:  Sursurunga       taul                  ‘season’
- MM:  Patpatar         t<in>ahon, t<in>ohon  ‘year’ (‹in› marks a nominalisation: vol. 1. p.33)
- MM:  Ramoaaina        t<in>əwon             ‘year’ (‹in› marks a nominalisation: vol. 1. p.33)
+ MM:  Patpatar         t⟨in⟩ahon, t⟨in⟩ohon  ‘year’ (‹in› marks a nominalisation: vol. 1. p.33)
+ MM:  Ramoaaina        t⟨in⟩əwon             ‘year’ (‹in› marks a nominalisation: vol. 1. p.33)
  NCV: Mota             tau                   ‘season’
  NCV: Nguna            (na)tau               ‘year’
  Mic: Kiribati         tai                   ‘time, season, harvest’

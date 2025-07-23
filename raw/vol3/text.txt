@@ -1014,7 +1014,7 @@ __tablenh__
              [x,y]  | the item is reconstructable in two forms, one with x and one withy
              x-y    | x and y are separate morphemes
              x-     |  x takes an enclitic or a suffix
-             <X>    |  x is an infix
+             ⟨X⟩    |  x is an infix
 
 
      PMP final consonants are usually retained in POc. However, it happens fairly often that
@@ -1848,7 +1848,7 @@ VERBS |  _ian_         | 'eat' (VT) (POc _*kani_)
       |  _gama_        | 'mix meat with starchy food'
       |  _bite_, _bui_ | 'crave for meat'
 NOUNS |  _ni-an_       | 'food' (_ni-_ NOMINALISER)
-      |  _g<in>ama_    | 'meat mixed with starchy food' (_<in>_ NOMINALISER)
+      |  _g⟨in⟩ama_    | 'meat mixed with starchy food' (_⟨in⟩_ NOMINALISER)
 
 : __Sursurunga__ (MM) (Hutchisson n.d.)
 
@@ -2074,20 +2074,20 @@ PPT *kani-kani 'staple food'
   PT:   Hula          ani                  'banana'
   PT:   Motu          ani-ani              'food'
   PT:   Mekeo         ani-ani              'food'
-Proto Meso-Melanesian *k<in>ani 'staple food'
+Proto Meso-Melanesian *k⟨in⟩ani 'staple food'
   MM:   Nakanai       il-ali               'food' (A. Chowning, pers. comm.)
   MM:   Patpatar      ni-an                'food' [15]
   MM:   Ramoaaina     ni-an                'k.o. yam; food'
   MM:   Tolai         ni-an                'food'
   MM:   Nehan         ni-eini              'food'
-  MM:   Roviana       ɣ<in>ani             'food'
-PNCV *k<in>ani-ana 'staple food'
-  NCV:  Raga          ɣ<in>a-ɣani-ana      'food'
+  MM:   Roviana       ɣ⟨in⟩ani             'food'
+PNCV *k⟨in⟩ani-ana 'staple food'
+  NCV:  Raga          ɣ⟨in⟩a-ɣani-ana      'food'
   NCV:  Paamese       ani-ene              'staple food, as opposed to meat and greens'
-  NCV:  Lewo          k<in>ani-ena         'staple food, as opposed to meat and greens'
+  NCV:  Lewo          k⟨in⟩ani-ena         'staple food, as opposed to meat and greens'
 >
 
-[15] The productive infix _<in>_, of PAn antiquity, is infixed after the initial consonant of a base if there is one, but
+[15] The productive infix _⟨in⟩_, of PAn antiquity, is infixed after the initial consonant of a base if there is one, but
 becomes _ni-_ with a vowel-initial base. In Patpatar, Ramoaaina, Tolai and Nehan the _*k-_ of _*kani_ is lost, giving
 a vowel-initial base.
 
@@ -2146,7 +2146,7 @@ POc *tamaji 'additional ingredients to accompany starchy food'
   NNG: Takia             (la)tamad     'food for journey' (_la_ 'move away from speaker; go around the island '; cf. vol.2, ch.8, §3.4.5)
   NNG: Mapos Buang       tmul          'mix various kinds of food together and cook them; stew, soup'
   PT:   Dawawa           tamasi-na     'food for travel'
-  MM: Sursurunga         t<in>mas      'picnic lunch, food taken and eaten away from the house or on a journey'
+  MM: Sursurunga         t⟨in⟩mas      'picnic lunch, food taken and eaten away from the house or on a journey'
   MM: Teop               tamari        'prepared food'
   SES: Gela              tamadi        'relish with vegetable food'
   SES: Gela              tamadi        'eat together different sorts of food'
@@ -17967,7 +17967,7 @@ frond and the midrib - unsurprisingly, as a midrib is accompanied by its leaflet
 are stripped off.
 
 <
-PMP *p<al>a(q)paq 'midrib of coconut frond' (Dempwolff 1925)
+PMP *p⟨al⟩a(q)paq 'midrib of coconut frond' (Dempwolff 1925)
 POc *bala(p,b)a(q) 'palm branch; midrib of palm frond' (Ross 1996d: _*palapa(q)_)
   Adm: Loniu       palapa       'branch, especially of palm tree' (for †_palaha_)
 PPn *palalafa 'stalk and midrib of a coconut frond' (POLLEX)

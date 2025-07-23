@@ -5,12 +5,12 @@
 <tr>
 {% if is_proto %}
 <td><strong>{{ lname }}</strong></td><td> </td>
-<td>
-<i>&ast;{{ form }}</i>
+<td style="white-space: nowrap;">
+<i>{{ form }}</i>
 </td>
 <td>
 {% for g, cmt, pos, srcs in glosses[fid] %}{% if pos %}[{{ pos }}] {% endif %}'{{ g|markdown }}'{% if cmt %} ({{ cmt|markdown }}){% endif %}{% if srcs %}
- ({% for srcid, pages in srcs %}<a href="{{ href_source(srcid) }}">{{ srcid }}{% if pages %}: {{ pages }}{% endif %}</a>{% if loop.last == False %}; {% endif %}{% endfor %})
+ ({% for srcid, pages in srcs %}<a href="{{ href_source(srcid) }}">{{ srcid }}</a>{% if pages %}: {{ pages|markdown }}{% endif %}{% if loop.last == False %}; {% endif %}{% endfor %})
 {% endif %}{% if loop.last == False %}; {% endif %}{% endfor %}
 {% if fid in fns %}[^{{ fns[fid] }}]{% endif %}
 </td>
@@ -30,10 +30,10 @@
 {% for key, forms in get_cfs(ctx['ID']).items() %}
 cf. also: {{ key[1] or '' }}
 <table>
-{% for group, lname, form, glosses, fn in forms %}
+{% for group, lid, lname, form, glosses, fn in forms %}
 <tr>
 <td>{{ group }}</td>
-<td>{{ lname }}</td>
+<td><a href="{{ href_language(lid) }}">{{ lname }}</a></td>
 <td><i>{{ form }}</i></td>
 <td>
 {% for g, cmt, pos, srcs in glosses %}{% if pos %}[{{ pos }}] {% endif %}{% if g %}'{{ g|markdown }}'{% endif %}{% if cmt %} ({{ cmt|markdown }}){% endif %}{% if srcs %}
