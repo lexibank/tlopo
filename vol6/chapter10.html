@@ -1,0 +1,2273 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>Tabu</title>
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+  <link rel="stylesheet" href="../pandoc_book.css" />
+</head>
+<body>
+<header id="title-block-header">
+<h1 class="title">Tabu</h1>
+</header>
+<p><a href=".smallcaps">Meredith Osmond</a></p>
+<p><a id="s-1"></a></p>
+<h2 id="introduction">1. Introduction</h2>
+<p>This paper discusses the origin and history of POc <em>*tabu</em>.
+The term ‘taboo’ [PPn <em>*tapu</em>] was brought to western awareness
+late in the 18th century by European travellers in Polynesia including
+Captain James Cook, who recognised in its use a widespread system of
+promulgating and enforcing a code both religious and political (<a
+href="../sources/CookandKing1785">Cook &amp; King 1785</a>). It was
+understood as a stative verb ‘prohibited’, and as a noun applicable both
+to the ban and to the object or activity banned. Hence it could be
+applied to places as being off limits, or a person might become subject
+to taboo and hence treated in a certain way. People believed that
+<em>tapu</em> restrictions were laid down by the gods or their heirs and
+had to be scrupulously followed. Deviation meant misfortune, possibly
+death. Where hereditary leadership was entrenched, as in Fiji and Tonga,
+a certain veneration was due to the chief, who was deemed
+<em>tabu</em>/<em>tapu</em>. As a result, certain forms of speech had to
+be used, not only in speaking to him but in conversation about him,
+while certain topics could not be mentioned in the chief’s presence.
+Thus the prohibition included a sense of ‘untouchable because
+sacred’.</p>
+<p>Examples of taboo [<em>tapu</em>] noted by Cook involved prohibition
+of certain activities or actions that centred on the king or important
+chiefs. From the record of his historic journeys we find the following
+(1785, vol.3:163–4):</p>
+<blockquote>
+<p>They apply the word taboo indifferently both to persons and things.
+This word is also used to express anything sacred, or eminent, or
+devoted. Thus the king of Owhyhee [Hawai’i] was called Eree-taboo; a
+human victim, tangata-taboo; and in the same manner, among the Friendly
+Islanders, Tonga, the island where the king resides, is named
+Tonga-taboo.</p>
+</blockquote>
+<p>However:</p>
+<blockquote>
+<p>Women are also tabooed, or forbidden to eat certain kinds of meats.
+We also frequently saw several at their meals, who had the meat put into
+their mouths by others; and on our asking the reason of this singularity
+were told, that they were tabooed, or forbidden, to feed themselves.
+This prohibition … was always laid on them, after they had assisted at
+any funeral, or touched a dead body, and also on other occasions.</p>
+</blockquote>
+<p><a id="p-284"></a></p>
+<p>Later, in Hawaii, it was noted (1785, vol.2:249) that, when local
+people were confronted by an unfamiliar situation, as when visiting a
+British ship:</p>
+<blockquote>
+<p>The people here always asked, with great eagerness and signs of fear
+to offend, whether any particular thing, which they desired to see, or
+we were unwilling to show, was taboo.</p>
+</blockquote>
+<p>William Mariner,<a href="#fn1" class="footnote-ref" id="fnref1"
+role="doc-noteref"><sup>1</sup></a> who lived in Tonga from 1806 to
+1810, provided a detailed description by a westerner of its practice (<a
+href="../sources/Martin1827">Martin 1827</a>:220–224).</p>
+<blockquote>
+<p>This word [<em>taboo</em>] has various shades of signification: it
+means sacred or consecrated to a god, … it means prohibited or
+forbidden, and is applied not only to the thing prohibited, but to the
+prohibition itself, and frequently (when it is in sacred matters), to
+the person who breaks the prohibition. Thus if a piece of ground or a
+house be consecrated to a god, by express declaration, or the burial of
+a great chief, it is said to be <em>taboo</em>. … If a person touches
+the body of a dead chief, or any thing personally belonging to him, he
+becomes <em>taboo</em>, and time alone can relieve him. Certain kinds of
+food, as turtle, and a certain species of fish, from something in their
+nature, are said to be <em>taboo</em>, and must not be eaten until a
+small portion be first given to the gods. Any other kind of food may be
+rendered <em>taboo</em> by a prohibition being laid on it.</p>
+</blockquote>
+<p>Mariner made clear (p.222) that not all taboos in Tonga were equally
+sacred, describing an occasion when a temporary taboo was applied by the
+chief to safeguard food supply:</p>
+<blockquote>
+<p>To prevent certain kinds of food from growing scarce, a prohibition
+or <em>taboo</em> is set on them for a time, as after the
+<em>inachi</em>, or other great and repeated ceremonies; and which
+<em>taboo</em> is afterwards removed by the ceremony called
+<em>fuccalahi</em>. [<em>fakalahi</em> ‘increase’]</p>
+</blockquote>
+<p>The term was readily adopted by missionaries who followed closely on
+the heels of the European explorers, and saw the concept as a useful
+term befitting elements of their teaching of a Christian God. As a
+consequence, the Polynesian term is believed to have spread into other
+parts of the Oceanic world with the adoption of Christianity, either as
+an extended meaning of an existing term, or as a new term, possibly
+replacing a different term with related meaning. We have in fact
+reconstructed two terms to POc, <em>*tabu</em> and <em>*pali</em>, with
+similar meanings. Reflexes of the latter were evidently once widespread
+but are now greatly reduced (see <a
+href="../contributions/6-10#s-10-7">§10.7</a> below), presumably
+replaced by reflexes of <em>*tabu</em>.</p>
+<p>A second result of western contact was that the Polynesian
+<em>tapu</em> term was rapidly adopted into familiar English usage as
+taboo. The Macquarie dictionary defines <em>taboo</em> as ‘forbidden to
+general use; placed under a prohibition’. Its emphasis is on the
+socially prohibited rather than the sacred. Although Cook and others
+recorded the term in their journals as ‘taboo’, that spelling carries
+its current English meaning in this article unless it is from a direct
+quotation. As can be seen from the cognate set below, the English term
+is in some dictionaries used to define the local term.</p>
+<p><a id="p-285"></a></p>
+<p><a id="s-2"></a></p>
+<h2 id="poc-tabu-and-its-reflexes">2. POc <em>*tabu</em> and its
+reflexes</h2>
+<p>Although reflexes are widespread throughout Oceania, apparently
+related terms have been found beyond its borders only in two widely
+separated regions of CEMP. One is Tanimbar, an island roughly midway
+between the Bird’s Head of New Guinea and Arnhemland in Australia, where
+two languages, Yamdena and Fordata, are spoken. Patrick McConvell (pers.
+comm.) has questioned these terms as possible loans from Australian
+languages.<a href="#fn2" class="footnote-ref" id="fnref2"
+role="doc-noteref"><sup>2</sup></a> The other is Numfor-Biak, islands
+off Cenderawasih Bay in Indonesian Papua, where the term <em>kābus</em>,
+although irregular, is considered a possible cognate by Blust in the<a
+href="../sources/Blust1995">ACD.</a></p>
+<p>In the<a href="../sources/Blust1995">ACD,</a> Blust reconstructs both
+POc <em>*tabu</em> ‘forbidden, prohibited’ and POc <em>*tabuna</em>
+‘dehortative: don’t’, but recognises that <em>*tabuna</em> includes the
+root <em>*tabu</em>. The separate reconstruction of <em>*tabun</em> is
+unnecessary, as final <em>-na</em> can be accounted for independently.
+The root <em>*tabu</em> is reflected as both a stative verb ‘be
+forbidden, prohibited’ and as a noun ‘prohibition; that which is
+prohibited’. Reflexes of both word classes occur, with a suffix
+reflecting POc <em>*-ña</em> P:3S, while noun reflexes sometimes carry
+other possessor affixes. Thus in Molima <em>tabu-gu</em>, Kove
+<em>tavu-ɣu</em> ‘my taboo, that which is taboo for me’ and Kove
+<em>(ai)tavu</em> ‘her/his taboo, that which is taboo for her/him’,
+<em>tabu-</em> is a directly (inalienably) possessed noun. Adjectives in
+some Papuan Tip languages take possessor suffixes as markers of
+agreement with the noun they modify, e.g. Iduna <em>tabu-tabu-na</em>
+‘forbidden’ (modifying a singular noun). Languages of the Admiralties
+and North Huon Gulf (Yabem, Bukawa) groups reflect <em>*-ña</em> as a
+fossil on roots that are or were used as attributes, and this accounts
+for the Admiralties reflexes below, where Proto Admiralty
+<em>*tabu-n</em> meant ‘forbidden’, readily interpreted as dehortative
+‘don’t’.<a href="#fn3" class="footnote-ref" id="fnref3"
+role="doc-noteref"><sup>3</sup></a></p>
+<table id="6-10-2-None-285-POc-tabu-a">
+<tr>
+<td>
+<strong>PCEMP</strong>
+</td>
+<td>
+</td>
+<td style="white-space: nowrap;">
+<i>*tambu</i>
+</td>
+<td>
+‘<span>forbidden, taboo</span>’
+(<a href="../sources/Blust1995">Blust1995</a>)
+</td>
+</tr>
+<tr>
+<td>
+CMP
+</td>
+<td>
+<a href="../languages/yamdena">Yamdena</a>
+</td>
+<td style="white-space: nowrap;">
+<i>tambu</i>
+</td>
+<td>
+‘<span>restrain, prevent</span>’
+</td>
+</tr>
+<tr>
+<td>
+CMP
+</td>
+<td>
+<a href="../languages/fordata">Fordata</a>
+</td>
+<td style="white-space: nowrap;">
+<i>tabu</i>
+</td>
+<td>
+‘<span>forbid, prevent</span>’
+</td>
+</tr>
+<tr>
+<td>
+SHWNG
+</td>
+<td>
+<a href="../languages/numfor">Numfor</a>
+</td>
+<td style="white-space: nowrap;">
+<i>kābus</i>
+</td>
+<td>
+‘<span>tree branch or anything else placed on fruit tree or other object
+by its owner in order to make others afraid to approach the marked
+object lest ill fortune befall them</span>’ (<span>ACD: footnote under
+<em>*tapu-tapu</em>; long vowel and final -s unexplained</span>)
+</td>
+</tr>
+<tr>
+<td>
+<strong>POc</strong>
+</td>
+<td>
+</td>
+<td style="white-space: nowrap;">
+<i>*tabu</i>
+</td>
+<td>
+[VSt] ‘<span>forbidden, prohibited</span>’
+(<a href="../sources/Blust2009b">Blust2009b</a>: <span>48</span>) ; [N]
+‘<span>prohibition</span>’
+</td>
+</tr>
+<tr>
+<td>
+<strong>POc</strong>
+</td>
+<td>
+</td>
+<td style="white-space: nowrap;">
+<i>*tabuna</i>
+</td>
+<td>
+‘<span>dehortative: “don’t!”</span>’
+(<a href="../sources/Blust1995">Blust1995</a>)
+</td>
+</tr>
+<tr>
+<td>
+Adm
+</td>
+<td>
+<a href="../languages/nauna">Nauna</a>
+</td>
+<td style="white-space: nowrap;">
+<i>tapu(n)</i>
+</td>
+<td>
+‘<span>don’t</span>’
+</td>
+</tr>
+<tr>
+<td>
+Adm
+</td>
+<td>
+<a href="../languages/penchal">Penchal</a>
+</td>
+<td style="white-space: nowrap;">
+<i>rapu(n)</i>
+</td>
+<td>
+‘<span>don’t</span>’
+</td>
+</tr>
+<tr>
+<td>
+Adm
+</td>
+<td>
+<a href="../languages/wuvulu">Wuvulu</a>
+</td>
+<td style="white-space: nowrap;">
+<i>apu(na)</i>
+</td>
+<td>
+‘<span>don’t</span>’
+</td>
+</tr>
+<tr>
+<td>
+Adm
+</td>
+<td>
+<a href="../languages/aua">Aua</a>
+</td>
+<td style="white-space: nowrap;">
+<i>apu(na)</i>
+</td>
+<td>
+‘<span>don’t</span>’
+</td>
+</tr>
+<tr>
+<td>
+Adm
+</td>
+<td>
+<a href="../languages/lou">Lou</a>
+</td>
+<td style="white-space: nowrap;">
+<i>topu(n)</i>
+</td>
+<td>
+‘<span>forbid, don’t do it</span>’
+</td>
+</tr>
+<tr>
+<td>
+Adm
+</td>
+<td>
+<a href="../languages/kaniet">Kaniet</a>
+</td>
+<td style="white-space: nowrap;">
+<i>tabu(n)</i>
+</td>
+<td>
+‘<span>forbidden</span>’
+</td>
+</tr>
+<tr>
+<td>
+Adm
+</td>
+<td>
+<a href="../languages/nyindrou">Nyindrou</a>
+</td>
+<td style="white-space: nowrap;">
+<i>ⁿrabu(n)</i>
+</td>
+<td>
+‘<span>taboo, holy, sacred</span>’
+</td>
+</tr>
+<tr>
+<td>
+NNG
+</td>
+<td>
+<a href="../languages/yabem">Yabem</a>
+</td>
+<td style="white-space: nowrap;">
+<i>dabu(ŋ)</i>
+</td>
+<td>
+[N] ‘<span>abstinence, continence, chastity, fast, taboo</span>’
+</td>
+</tr>
+<tr>
+<td>
+NNG
+</td>
+<td>
+<a href="../languages/yabem">Yabem</a>
+</td>
+<td style="white-space: nowrap;">
+<i>-jàm dabuŋ laweŋi</i>
+</td>
+<td>
+‘<span>avoid contact with in-laws, not touch them or call them by
+name</span>’ (<span><em>-jàm</em> ‘do’; <em>laweŋi</em>
+‘in-laws’</span>)
+</td>
+</tr>
+<tr>
+<td>
+NNG
+</td>
+<td>
+<a href="../languages/bukawa">Bukawa</a>
+</td>
+<td style="white-space: nowrap;">
+<i>dabu(ŋ)</i>
+</td>
+<td>
+‘<span>holy, taboo</span>’
+</td>
+</tr>
+<tr>
+<td>
+NNG
+</td>
+<td>
+<a href="../languages/kove">Kove</a>
+</td>
+<td style="white-space: nowrap;">
+<i>(ai)tavu</i>
+</td>
+<td>
+‘<span>a taboo as on eating s.t. or saying an affine’s name</span>’
+(<span><em>ai-</em> ‘her/his’</span>)
+</td>
+</tr>
+<tr>
+<td>
+NNG
+</td>
+<td>
+<a href="../languages/sio">Sio</a>
+</td>
+<td style="white-space: nowrap;">
+<i>tabu</i>
+</td>
+<td>
+‘<span>s.t. that is prohibited</span>’
+</td>
+</tr>
+<tr>
+<td>
+PT
+</td>
+<td>
+<a href="../languages/dobu">Dobu</a>
+</td>
+<td style="white-space: nowrap;">
+<i>tabu</i>
+</td>
+<td>
+[N] ‘<span>a disease magic inhibition placed on garden, coconut grove
+etc. by owner to prevent stealing</span>’; [V] ‘<span>to place such
+magic inhibition</span>’ (<a href="../sources/Fortune1963">Fortune1963:
+138</a>)
+</td>
+</tr>
+<tr>
+<td>
+PT
+</td>
+<td>
+<a href="../languages/dobu">Dobu</a>
+</td>
+<td style="white-space: nowrap;">
+<i>tabu-</i>
+</td>
+<td>
+‘<span>[certain kin of deceased] who do not eat at a mortuary
+feast</span>’ (<a href="../sources/Fortune1963">Fortune1963: 196</a>)
+</td>
+</tr>
+<tr>
+<td>
+PT
+</td>
+<td>
+<a href="../languages/gumawana">Gumawana</a>
+</td>
+<td style="white-space: nowrap;">
+<i>tabu</i>
+</td>
+<td>
+‘<span>taboo</span>’
+</td>
+</tr>
+<tr>
+<td>
+PT
+</td>
+<td>
+<a href="../languages/gumawana">Gumawana</a>
+</td>
+<td style="white-space: nowrap;">
+<i>(va)tabu(ye)</i>
+</td>
+<td>
+‘<span>make s.t. taboo</span>’
+</td>
+</tr>
+<tr>
+<td>
+PT
+</td>
+<td>
+<a href="../languages/iduna">Iduna</a>
+</td>
+<td style="white-space: nowrap;">
+<i>tabu</i>
+</td>
+<td>
+[N] ‘<span>law; forbidden thing; taboo</span>’
+</td>
+</tr>
+<tr>
+<td>
+PT
+</td>
+<td>
+<a href="../languages/iduna">Iduna</a>
+</td>
+<td style="white-space: nowrap;">
+<i>tabu-tabu(na)</i>
+</td>
+<td>
+[ADJ] ‘<span>forbidden</span>’
+</td>
+</tr>
+<tr>
+<td>
+PT
+</td>
+<td>
+<a href="../languages/iduna">Iduna</a>
+</td>
+<td style="white-space: nowrap;">
+<i>(ala)tabu-tabu(yena)</i>
+</td>
+<td>
+‘<span>place a prohibition, put a spell on, work magic against, cause
+sickness or crops to fail</span>’
+</td>
+</tr>
+<tr>
+<td>
+PT
+</td>
+<td>
+<a href="../languages/iduna">Iduna</a>
+</td>
+<td style="white-space: nowrap;">
+<i>-atabu(yena)</i>
+</td>
+<td>
+‘<span>eat s.t. taboo</span>’
+</td>
+</tr>
+<tr>
+<td>
+PT
+</td>
+<td>
+<a href="../languages/molima">Molima</a>
+</td>
+<td style="white-space: nowrap;">
+<i>tabu(gu)</i>
+</td>
+<td>
+‘<span>food forbidden to me</span>’ (<span>limited to food; <em>-gu</em>
+‘my’</span>)
+</td>
+</tr>
+<tr>
+<td>
+PT
+</td>
+<td>
+<a href="../languages/tawala">Tawala</a>
+</td>
+<td style="white-space: nowrap;">
+<i>tabu</i>
+</td>
+<td>
+‘<span>forbidden</span>’ (<span>said to be a Suau loan</span>)
+</td>
+</tr>
+<tr>
+<td>
+PT
+</td>
+<td>
+<a href="../languages/tubetube">Tubetube</a>
+</td>
+<td style="white-space: nowrap;">
+<i>tabu</i>
+</td>
+<td>
+‘<span>don’t</span>’
+</td>
+</tr>
+<tr>
+<td>
+MM
+</td>
+<td>
+<a href="../languages/nakanai">Nakanai</a>
+</td>
+<td style="white-space: nowrap;">
+<i>tabu</i>
+</td>
+<td>
+‘<span>to tabu, be tabu</span>’
+</td>
+</tr>
+<tr>
+<td>
+MM
+</td>
+<td>
+<a href="../languages/tigak">Tigak</a>
+</td>
+<td style="white-space: nowrap;">
+<i>tap</i>
+</td>
+<td>
+‘<span>holy</span>’
+</td>
+</tr>
+<tr>
+<td>
+MM
+</td>
+<td>
+<a href="../languages/sursurunga">Sursurunga</a>
+</td>
+<td style="white-space: nowrap;">
+<i>tam</i>
+</td>
+<td>
+‘<span>strong taboo, e.g. of a spirit dwelling. It is used in places
+where spirits dwell and where punishment is inevitable if
+violated</span>’
+</td>
+</tr>
+<tr>
+<td>
+MM
+</td>
+<td>
+<a href="../languages/tolai">Tolai</a>
+</td>
+<td style="white-space: nowrap;">
+<i>tābu</i>
+</td>
+<td>
+‘<span>prohibition; a forbidden thing</span>’
+</td>
+</tr>
+<tr>
+<td>
+MM
+</td>
+<td>
+<a href="../languages/ramoaaina">Ramoaaina</a>
+</td>
+<td style="white-space: nowrap;">
+<i>tabu</i>
+</td>
+<td>
+‘<span>prohibited, forbidden</span>’
+</td>
+</tr>
+<tr>
+<td>
+MM
+</td>
+<td>
+<a href="../languages/tangga">Tangga</a>
+</td>
+<td style="white-space: nowrap;">
+<i>tabun</i>
+</td>
+<td>
+‘<span>a funeral feast where only clan members of the dead person may
+take part</span>’ (<a href="../sources/Bell1935b">Bell1935b</a>)
+</td>
+</tr>
+<tr>
+<td>
+MM
+</td>
+<td>
+<a href="../languages/babatana">Babatana</a>
+</td>
+<td style="white-space: nowrap;">
+<i>tabu</i>
+</td>
+<td>
+‘<span>forbidden, sacred</span>’
+</td>
+</tr>
+<tr>
+<td>
+MM
+</td>
+<td>
+<a href="../languages/maringe">Maringe</a>
+</td>
+<td style="white-space: nowrap;">
+<i>tabu</i>
+</td>
+<td>
+‘<span>be tabu, prohibited, sacred</span>’ (<span>from Bugotu?</span>)
+</td>
+</tr>
+<tr>
+<td>
+MM
+</td>
+<td>
+<a href="../languages/roviana">Roviana</a>
+</td>
+<td style="white-space: nowrap;">
+<i>tabu</i>
+</td>
+<td>
+‘<span>put taboo under certain circumstances, on food</span>’
+(<span>perhaps an introduced term? Waterhouse 1949</span>)
+</td>
+</tr>
+<tr>
+<td>
+SES
+</td>
+<td>
+<a href="../languages/gela">Gela</a>
+</td>
+<td style="white-space: nowrap;">
+<i>tabu</i>
+</td>
+<td>
+‘<span>to be set apart, forbidden; sacred, holy</span>’
+</td>
+</tr>
+<tr>
+<td>
+SES
+</td>
+<td>
+<a href="../languages/bugotu">Bugotu</a>
+</td>
+<td style="white-space: nowrap;">
+<i>tabu</i>
+</td>
+<td>
+‘<span>sacred, forbidden, holy; prohibition placed on use or handling of
+anything</span>’
+</td>
+</tr>
+<tr>
+<td>
+SES
+</td>
+<td>
+<a href="../languages/longgu">Longgu</a>
+</td>
+<td style="white-space: nowrap;">
+<i>abu</i>
+</td>
+<td>
+‘<span>be taboo, forbidden</span>’
+</td>
+</tr>
+<tr>
+<td>
+SES
+</td>
+<td>
+<a href="../languages/kwaio">Kwaio</a>
+</td>
+<td style="white-space: nowrap;">
+<i>abu</i>
+</td>
+<td>
+‘<span>sacred, taboo</span>’
+</td>
+</tr>
+<tr>
+<td>
+SES
+</td>
+<td>
+<a href="../languages/lau">Lau</a>
+</td>
+<td style="white-space: nowrap;">
+<i>abu</i>
+</td>
+<td>
+‘<span>don’t</span>’ (<span>to child or animal</span>)
+</td>
+</tr>
+<tr>
+<td>
+SES
+</td>
+<td>
+<a href="../languages/lau">Lau</a>
+</td>
+<td style="white-space: nowrap;">
+<i>ābu</i>
+</td>
+<td>
+‘<span>holy, taboo</span>’
+</td>
+</tr>
+<tr>
+<td>
+SES
+</td>
+<td>
+<a href="../languages/toabaita">To’aba’ita</a>
+</td>
+<td style="white-space: nowrap;">
+<i>abu</i>
+</td>
+<td>
+‘<span>be tabooed, not allowed, forbidden</span>’ (<span>used as
+dehortative</span>)
+(<a href="../sources/Lichtenberk2008">Lichtenberk2008</a>) ;
+‘<span>sacred, relating to the spirits; set apart, forbidden</span>’
+(<a href="../sources/Hogbin1934b">Hogbin1934b</a>)
+</td>
+</tr>
+<tr>
+<td>
+SES
+</td>
+<td>
+<a href="../languages/areare">’Are’are</a>
+</td>
+<td style="white-space: nowrap;">
+<i>apu</i>
+</td>
+<td>
+‘<span>sacred, forbidden</span>’ (<span>used also as prohibitive,
+dehortative to children</span>)
+</td>
+</tr>
+<tr>
+<td>
+SES
+</td>
+<td>
+<a href="../languages/areare">’Are’are</a>
+</td>
+<td style="white-space: nowrap;">
+<i>apu(na)</i>
+</td>
+<td>
+[N] ‘<span>taboo. There are four varieties of taboo, each variety
+causing a different sickness</span>’
+</td>
+</tr>
+<tr>
+<td>
+SES
+</td>
+<td>
+<a href="../languages/areare">’Are’are</a>
+</td>
+<td style="white-space: nowrap;">
+<i>apu-apu</i>
+</td>
+<td>
+‘<span>whole region of burial place</span>’
+</td>
+</tr>
+<tr>
+<td>
+SES
+</td>
+<td>
+<a href="../languages/areare">’Are’are</a>
+</td>
+<td style="white-space: nowrap;">
+<i>apu(ni-a)</i>
+</td>
+<td>
+[V] ‘<span>put a taboo under curse; forbid</span>’ (<span><em>-ni</em>
+VT; <em>-a</em> O:3S</span>)
+</td>
+</tr>
+<tr>
+<td>
+SES
+</td>
+<td>
+<a href="../languages/saa">Sa’a</a>
+</td>
+<td style="white-space: nowrap;">
+<i>apu</i>
+</td>
+<td>
+‘<span>be taboo, forbidden</span>’
+</td>
+</tr>
+<tr>
+<td>
+SES
+</td>
+<td>
+<a href="../languages/arosi">Arosi</a>
+</td>
+<td style="white-space: nowrap;">
+<i>abu</i>
+</td>
+<td>
+‘<span>dehortatory don’t, sacred</span>’
+</td>
+</tr>
+<tr>
+<td>
+SES
+</td>
+<td>
+<a href="../languages/owa">Owa</a>
+</td>
+<td style="white-space: nowrap;">
+<i>apu</i>
+</td>
+<td>
+‘<span>forbidden</span>’
+</td>
+</tr>
+<tr>
+<td>
+<strong>PNCV</strong>
+</td>
+<td>
+</td>
+<td style="white-space: nowrap;">
+<i>*tabu</i>
+</td>
+<td>
+‘<span>sacred, forbidden, taboo</span>’
+(<a href="../sources/Clark2009">Clark2009</a>)
+</td>
+</tr>
+<tr>
+<td>
+NCV
+</td>
+<td>
+<a href="../languages/mota">Mota</a>
+</td>
+<td style="white-space: nowrap;">
+<i>tapu</i>
+</td>
+<td>
+‘<span>unapproachable, not to be touched under a prohibition with the
+sanction of some mana</span>’
+</td>
+</tr>
+<tr>
+<td>
+NCV
+</td>
+<td>
+<a href="../languages/mota">Mota</a>
+</td>
+<td style="white-space: nowrap;">
+<i>tapu(a)</i>
+</td>
+<td>
+[N] ‘<span>thing or place made tapu</span>’ (<span><em>-a</em>
+nominaliser</span>)
+</td>
+</tr>
+<tr>
+<td>
+NCV
+</td>
+<td>
+<a href="../languages/raga">Raga</a>
+</td>
+<td style="white-space: nowrap;">
+<i>tabu</i>
+</td>
+<td>
+‘<span>set apart, prohibit</span>’ (<span>Bislama borrowing? Marie
+Duhamel, pers. comm.</span>)
+</td>
+</tr>
+<tr>
+<td>
+NCV
+</td>
+<td>
+<a href="../languages/tamambo">Tamambo</a>
+</td>
+<td style="white-space: nowrap;">
+<i>tabu</i>
+</td>
+<td>
+‘<span>sacred, forbidden</span>’
+</td>
+</tr>
+<tr>
+<td>
+NCV
+</td>
+<td>
+<a href="../languages/nguna">Nguna</a>
+</td>
+<td style="white-space: nowrap;">
+<i>tapu</i>
+</td>
+<td>
+‘<span>holy, sacred</span>’
+</td>
+</tr>
+<tr>
+<td>
+SV
+</td>
+<td>
+<a href="../languages/anejom">Anejom̃</a>
+</td>
+<td style="white-space: nowrap;">
+<i>(i)tapw</i>
+</td>
+<td>
+‘<span>forbidden</span>’
+</td>
+</tr>
+<tr>
+<td>
+Mic
+</td>
+<td>
+<a href="../languages/marshallese">Marshallese</a>
+</td>
+<td style="white-space: nowrap;">
+<i>capʷi</i>
+</td>
+<td>
+‘<span>taboo</span>’ (<span>archaic</span>)
+</td>
+</tr>
+<tr>
+<td>
+Mic
+</td>
+<td>
+<a href="../languages/woleaian">Woleaian</a>
+</td>
+<td style="white-space: nowrap;">
+<i>tāfʷu</i>
+</td>
+<td>
+[N] ‘<span>taboo, ban, ritual restriction protected by supernatural
+sanction</span>’; [VI] ‘<span>be prohibited by taboo</span>’ (<span>Pn
+loan?</span>)
+</td>
+</tr>
+<tr>
+<td>
+Mic
+</td>
+<td>
+<a href="../languages/kiribatese">Kiribatese</a>
+</td>
+<td style="white-space: nowrap;">
+<i>tapʷu</i>
+</td>
+<td>
+[N] ‘<span>prohibition, interdiction</span>’; [V] ‘<span>sacred;
+forbidden, prohibited</span>’
+</td>
+</tr>
+<tr>
+<td>
+Fij
+</td>
+<td>
+<a href="../languages/rotuman">Rotuman</a>
+</td>
+<td style="white-space: nowrap;">
+<i>fapu-i</i>
+</td>
+<td>
+[VT] ‘<span>to mark, (esp. a coconut palm) as forbidden to
+others</span>’; [N] ‘<span>a nut or leaf used to mark a tree as
+forbidden</span>’
+</td>
+</tr>
+<tr>
+<td>
+Fij
+</td>
+<td>
+<a href="../languages/bauanfijian">Bauan</a>
+</td>
+<td style="white-space: nowrap;">
+<i>tabu</i>
+</td>
+<td>
+‘<span>forbidden, prohibited, implying a religious sanction; sacred,
+holy</span>’
+</td>
+</tr>
+<tr>
+<td>
+Fij
+</td>
+<td>
+<a href="../languages/wayan">Wayan</a>
+</td>
+<td style="white-space: nowrap;">
+<i>tabu</i>
+</td>
+<td>
+‘<span>forbidden by strong communal sanction, sacred, holy</span>’
+</td>
+</tr>
+<tr>
+<td>
+<strong>PPn</strong>
+</td>
+<td>
+</td>
+<td style="white-space: nowrap;">
+<i>*tapu</i>
+</td>
+<td>
+‘<span>prohibited, under ritual restriction; sacred</span>’
+</td>
+</tr>
+<tr>
+<td>
+Pn
+</td>
+<td>
+<a href="../languages/tongan">Tongan</a>
+</td>
+<td style="white-space: nowrap;">
+<i>tapu</i>
+</td>
+<td>
+‘<span>forbidden, prohibited; sacred, holy</span>’
+</td>
+</tr>
+<tr>
+<td>
+Pn
+</td>
+<td>
+<a href="../languages/niuean">Niuean</a>
+</td>
+<td style="white-space: nowrap;">
+<i>tapu</i>
+</td>
+<td>
+‘<span>be sacred, prohibited to common people, forbidden</span>’
+</td>
+</tr>
+<tr>
+<td>
+Pn
+</td>
+<td>
+<a href="../languages/rennellese">Rennellese</a>
+</td>
+<td style="white-space: nowrap;">
+<i>tapu</i>
+</td>
+<td>
+‘<span>be forbidden, sacred, hallowed; forbidden or sacred place</span>’
+</td>
+</tr>
+<tr>
+<td>
+Pn
+</td>
+<td>
+<a href="../languages/samoan">Samoan</a>
+</td>
+<td style="white-space: nowrap;">
+<i>tapu</i>
+</td>
+<td>
+‘<span>be forbidden</span>’
+</td>
+</tr>
+<tr>
+<td>
+Pn
+</td>
+<td>
+<a href="../languages/tikopia">Tikopia</a>
+</td>
+<td style="white-space: nowrap;">
+<i>tapu</i>
+</td>
+<td>
+‘<span>forbidden, both as improper, and as formal interdiction on
+activity</span>’; ‘<span>sacred</span>’; ‘<span>holy</span>’
+(<span>modern</span>)
+</td>
+</tr>
+<tr>
+<td>
+Pn
+</td>
+<td>
+<a href="../languages/tahitian">Tahitian</a>
+</td>
+<td style="white-space: nowrap;">
+<i>tapu</i>
+</td>
+<td>
+‘<span>a restriction</span>’
+</td>
+</tr>
+<tr>
+<td>
+Pn
+</td>
+<td>
+<a href="../languages/maori">Māori</a>
+</td>
+<td style="white-space: nowrap;">
+<i>tapu</i>
+</td>
+<td>
+‘<span>under religious or superstitious restriction, a condition
+affecting persons, places and things</span>’
+</td>
+</tr>
+<tr>
+<td>
+Pn
+</td>
+<td>
+<a href="../languages/hawaiian">Hawaiian</a>
+</td>
+<td style="white-space: nowrap;">
+<i>kapu</i>
+</td>
+<td>
+[N] ‘<span>taboo, prohibition</span>’; [V] ‘<span>sacred, holy</span>’
+</td>
+</tr>
+</table>
+cf. also:
+<table>
+<tr>
+<td>
+MM
+</td>
+<td>
+<a href="../languages/petats">Petats</a>
+</td>
+<td style="white-space: nowrap;">
+<i>tsūbu(n)</i>
+</td>
+<td>
+‘<span>restriction on actions such as the eating of certain food by
+specified persons or at specified times, or the avoidance to be observed
+between individuals who stand to each other in certain relationships.
+Not applied to places or persons</span>’ (<span><em>-ū-</em> for
+†<em>*-a-</em> is
+unexplained</span>)(<a href="../sources/Blackwood1935">Blackwood1935:
+480</a>)
+</td>
+</tr>
+<tr>
+<td>
+SV
+</td>
+<td>
+<a href="../languages/sye">Sye</a>
+</td>
+<td style="white-space: nowrap;">
+<i>tompo(r)</i>
+</td>
+<td>
+‘<span>sacred, taboo</span>’ (<span>final <em>-r</em> is
+unexplained</span>)
+</td>
+</tr>
+</table>
+<p><a id="p-286"></a></p>
+<p><a id="p-287"></a></p>
+<p><a id="p-288"></a></p>
+<p><a id="s-3"></a></p>
+<h2 id="relevant-situations">3. Relevant situations</h2>
+<p>From ethnographic descriptions we learn that <em>*tabu</em> reflexes
+are pervasive in Polynesia, used widely but in variable situations
+across North and Central Vanuatu (<a
+href="../sources/Francois2022">François 2022</a>), occur a little less
+in the southeast Solomons where they apply mainly to spiritual concerns,
+and are found in very limited ways in western Melanesia, being
+apparently not used at all in some places.<a href="#fn4"
+class="footnote-ref" id="fnref4" role="doc-noteref"><sup>4</sup></a></p>
+<p>The following, however, appear to be contexts where <em>tabu</em>
+prohibitions are shared across major subgroups</p>
+<p><a id="s-3-1"></a></p>
+<h3 id="food-restrictions-kin">3.1. Food restrictions (+ kin)</h3>
+<p>Strong prohibitions exist throughout the Oceanic world on foodstuffs
+being prepared or particular foodstuffs eaten by certain people at
+particular times, such as pregnant or menstruating women or boys
+undergoing initiation. Cook’s journals give numerous examples of
+<em>tapu</em> situations where people, including chiefs, and people who
+have handled dead bodies, could not handle food but had to be fed by
+others (1785, vol.1:305, 350, vol.2:203). The following instance records
+the reaction of several Tongans invited to share a meal aboard the
+British ship (vol.1:286):</p>
+<blockquote>
+<p>When dinner came upon table, not one of them would sit down, or eat a
+bit of any thing that was served up. On expressing my surprise at this,
+they were all taboo, as they said; which word has a very comprehensive
+meaning; but in general signifies that a thing is forbidden.</p>
+</blockquote>
+<p>In western Oceanic communities, where <em>tabu</em> situations are
+far fewer than in Polynesia, the most frequently tabued situations
+involve consumption of food. Often a prohibition is restricted to
+certain kin relationships. In Dobu (PT), <em>tabu-</em> (with pronominal
+suffix) refers to ‘those [certain kin of deceased] who do not eat at a
+mortuary feast’ (<a href="../sources/Fortune1963">Fortune 1963</a>:196).
+<a href="../sources/Chowning1991">Chowning</a> (<a
+href="../sources/Chowning1991">1991</a>:61) defines <em>tabu-gu</em> in
+Molima (PT) as ‘food forbidden to me (limited to food)’. In Kove (NNG),
+she defines <em>tavu-ɣu</em> as ‘a taboo as on eating s.t. or saying an
+affine’s name’. In Yabem (NNG), <em>dabu(ŋ)</em> is defined as both a
+noun, ‘[s.t.] forbidden to eat’ and a verb ‘abstain from eating certain
+foods’. <a href="../sources/Bell1935b">Bell</a> (<a
+href="../sources/Bell1935b">1935b</a>:175–198, 306–322) lists a number
+of avoidance situations in Tanga (MM) [=Tangga], but most are labelled
+by terms other than <em>*tabu</em> reflexes. An exception is
+<em>tabun</em>, a funeral feast in which no other persons but the clan
+of the dead man may take part. Also listed is <em>kuen tabun</em>, a
+term for a coconut palm when its fruit is reserved for formal
+presentation to certain womenfolk as a form of gratitude. Bell writes
+that “although the word may appear to resemble <em>tapu</em>, it is not
+used much in Tanga”. He adds: “the word seems to be used only to express
+the exclusive nature of certain clan actions.” (p319).</p>
+<p><a id="p-289"></a></p>
+<p>In Petats (MM), <a href="../sources/Blackwood1935">Blackwood</a> (<a
+href="../sources/Blackwood1935">1935</a>:480) writes that the
+prohibitions which govern the daily lives of the people, given the term
+<em>tsūbun</em><a href="#fn5" class="footnote-ref" id="fnref5"
+role="doc-noteref"><sup>5</sup></a>, apply neither to places nor
+persons, but to actions such as the eating of certain food by specified
+persons or groups or at specified times, or the avoidance to be observed
+between individuals who stand to each other in certain relationships. <a
+href="../sources/Waterhouse1949">Waterhouse</a> (<a
+href="../sources/Waterhouse1949">1949</a>) notes that, in Roviana,
+<em>tabu</em> means ‘to put taboo under certain circumstances, on food’,
+but he adds the proviso “perhaps an introduced term”.</p>
+<p>Food restrictions dictated by <em>tabu</em> are not singled out for
+special mention in descriptions of avoidance behaviour we have from
+Southeast Solomonic languages (<a href="../sources/Hogbin1934b">Hogbin
+1934b</a>, <a href="../sources/Ivens1927">Ivens 1927</a>, <a
+href="../sources/Keesing1982">Keesing 1982</a>), and they have a minor
+role in northern Vanuatu, being mentioned only in relation to candidates
+undergoing initiation rituals (<a
+href="../sources/Francois2022">François 2022</a>:230).</p>
+<p><a id="s-3-2"></a></p>
+<h3 id="safeguarding-supply">3.2. Safeguarding supply</h3>
+<p>Supply of foodstuffs may be subject to a temporary taboo, as
+described by <a href="../sources/Martin1827">Martin</a> (<a
+href="../sources/Martin1827">1827</a>) in Tonga (<a
+href="../contributions/6-10#s-10-1">§10.1</a>) where it is applied by
+chiefs to harvesting items such as coconuts prior to a major feast or in
+the likelihood of future shortages. <a
+href="../sources/Malinowski1922">Malinowski</a> (<a
+href="../sources/Malinowski1922">1922</a>:425) refers to
+<em>kaytubutabu</em>, in the Trobriands, ‘a ban on the consumption of
+coconuts and betelnuts associated with a specific magic to make them
+grow’. <a href="../sources/Francois2022">François</a> (<a
+href="../sources/Francois2022">2022</a>:225) notes a comparable usage in
+Mwotlap <em>na-tqō</em> where fishing activity is banned for a period so
+as to allow fish to reproduce. A ban there is signalled by a conspicuous
+leaf (e.g. a coconut frond, a cordyline leaf) tied to a stick at the
+entrance to the area. <a href="../sources/Ivens1927">Ivens</a> (<a
+href="../sources/Ivens1927">1927</a>:254–5) describes a similar
+temporary prohibition on foodstuffs prior to a feast made by a chief in
+Sa’a. Here the visible sign is identified as a pole with a bunch of
+leaves of the putty nut (_Parinari_um laurinum). In Sa’a, such
+non-religious prohibitions are labelled <em>adi</em>, not
+<em>abu</em>.</p>
+<p><a id="s-3-3"></a></p>
+<h3 id="property-protection">3.3. Property protection</h3>
+<p>A similar practice is the placing of a taboo sign on a tree or garden
+by the owner to prevent theft. It is commonly placed on coconut and
+betel palms growing away from the village. Those who steal or trespass
+are believed to suffer illness or other misfortune, the result having
+been preordained by the owner. The <em>tabu</em> term may refer both to
+the ban and to the sign representing it. In Dobu, individuals may own
+the right to both impose and lift tabus which have the power to inflict
+disease, and are commonly used to protect private property in this way
+(<a href="../sources/Fortune1963">Fortune 1963</a>:138). We also find
+mention of the practice in Rotuman where <em>fapu-i</em> serves as a
+verb ‘to mark (esp. a coconut palm) as forbidden to others’, and as a
+noun ‘a nut or leaf used to mark a tree as forbidden.’</p>
+<p>In Herman Melville’s <em>Typee</em>, set in the Marquesas and
+published in 1876 is the passage:</p>
+<blockquote>
+<p>Frequently, in walking through the groves I observed breadfruit and
+coconut trees with a wreath of leaves twined in a peculiar fashion about
+their trunks. This was the mark of the taboo. The trees themselves,
+their fruit, and even the shadows they cast upon the ground were
+consecrated by their presence. (1876:252, quoted by <a
+href="../sources/Handy1923">Handy 1923</a>)</p>
+</blockquote>
+<p><a id="p-290"></a></p>
+<p>Melville was evidently aware that the ban there was more than just a
+prohibition – it carried with it an endowment of sanctity.</p>
+<p>In Numfor-Biak, a non-Oceanic Austronesian language, is a term
+<em>kābus</em> defined as ‘tree branch or anything else placed on fruit
+tree or other object by its owner in order to make others afraid to
+approach the marked object lest ill-fortune befall them’. The term is
+included in a footnote in<a href="../sources/Blust1995">ACD</a>under
+<em>*tapu-tapu</em>, noting that while the initial <em>k-</em>
+corresponds to POc <em>*t-</em>, the long vowel and final <em>-s</em>
+are unexplained.</p>
+<p><a id="s-3-4"></a></p>
+<h3 id="place-taboos">3.4. Place taboos</h3>
+<p>A taboo may also be placed on a location because it is perceived as
+either sacred or dangerous or some combination of both. This may be as
+in Tonga where a piece of ground or a house or a grave that has been
+visited by a chief and hence regarded as consecrated by a god, becomes
+<em>tapu</em>. It may apply in Vanuatu where graveyards and other places
+haunted by supernatural forces are to be avoided through fear. <a
+href="../sources/Francois2022">François</a> (<a
+href="../sources/Francois2022">2022</a>:235) lists Sakao <em>e-tev</em>
+‘burial ground, grave’, and Tamambo <em>tambu</em> ‘grave’ as examples.
+The only mention of a place-related use of <em>tabu</em> in western
+Oceanic languages is in Sursurunga (MM) where <em>tam</em> is defined as
+‘a strong taboo, e.g. of a spirit dwelling. It is used in places where
+spirits dwell and where punishment is inevitable if violated’.</p>
+<p>The above-mentioned prohibitions apply to everyone. Other place
+taboos may be applicable only to a specified group. As <a
+href="../sources/Keesing1982">Keesing</a> (<a
+href="../sources/Keesing1982">1982</a>:65) explains it:</p>
+<blockquote>
+<p>A Kwaio men’s house or shrine is <em>abu</em> from the point of view
+of those – women, infants, Christians – who are excluded from it; but it
+is not <em>abu</em> in and of itself. A woman giving birth is
+<em>abu</em>, and so is the women’s latrine, the menstrual hut, the
+childbirth shelter – but only in relation to those who cannot enter
+them. … What is <em>abu</em> for one person is <em>mola</em> ‘permitted’
+for another.</p>
+</blockquote>
+<p>No doubt practical, non-sacred prohibitions of this kind exist
+throughout the Oceanic world. But nowhere else have we located them
+so-labelled. Either these restrictions are thought to be so commonplace
+that mentioning is unnecessary, or they are labelled in terms other than
+<em>abu</em>.</p>
+<p><a id="s-3-5"></a></p>
+<h3 id="dehortative">3.5. Dehortative</h3>
+<p>Perhaps not surprisingly, apparent reflexes of <em>*tabu</em>
+sometimes occur as a dehortative, probably so that children might learn
+early where it applied. It is mentioned as sharing this function in
+wordlists from the Admiralties, in Tubetube and several Southeast
+Solomonic languages, while François lists it as a Bislama interjection
+probably borrowed from Polynesia (2022:219). It is not clear whether
+this meaning should be attributed to POc <em>*tabu</em> or if it
+developed independently in various daughter languages.</p>
+<p><a id="s-4"></a></p>
+<h2 id="identifying-the-sacred">4. Identifying the sacred</h2>
+<p>There is a difficulty in identifying the degree to which a sense of
+sanctity is part of the meaning of <em>tabu</em> as practised in
+different communities. Even in Polynesia, <a
+href="../sources/Fornander1878">Fornander</a> (<a
+href="../sources/Fornander1878">1878</a>:113) recognised a certain
+ambivalence in its practice.</p>
+<p><a id="p-291"></a></p>
+<blockquote>
+<p>The religious tabus relating to rites, observances, public worship,
+and the maintenance of the gods and their priests, were well known,
+comparatively fixed in their character, and the people brought up from
+childhood in the knowledge and observance of them. But the civil tabus
+were as uncertain and capricious as the mind of the chief, priest or
+individual who imposed them on others, or on himself and his family.</p>
+</blockquote>
+<p>As an example of the latter, in Dobu, where taboos are widely used to
+protect private property, they are also used in the ordinary course of
+private feuds. A man will put a <em>tabu</em> on a woman who has refused
+his advances (<a href="../sources/Fortune1963">Fortune
+1963</a>:143).</p>
+<p>In his detailed examination of taboo terms in Vanuatu, <a
+href="../sources/Francois2022">François</a> (<a
+href="../sources/Francois2022">2022</a>) finds that although languages
+vary in what is identified by the terms as “off-limits, forbidden”,
+there is widespread evidence for their meanings to include “sacred, due
+to a sentiment of awe and fear before spiritual forces”.</p>
+<p><a href="../sources/Ivens1927">Ivens</a> (<a
+href="../sources/Ivens1927">1927</a>:253–5) describes the situation in
+Sa’a and neighbouring Ulawa, where there are two terms, <em>apu</em> and
+<em>adi</em>, both denoting prohibitions.</p>
+<blockquote>
+<p>There is a word <em>apu</em> in both languages which … denotes
+something that is forbidden to a person by reason of communal
+regulations, e.g. the marriage of cross-cousins, or the following of any
+course of action which would result in bodily harm or in bringing on the
+ill will of the ghosts, e.g. the rash intrusion into those spheres of
+religion which belong to the office of the priest, or the doing of any
+thing which would cause a person to be ceremonially defiled, or that
+condition of things which follows the imposition of a tabu by the proper
+authority. The causative form <em>ha’aapu</em> denotes a state of
+prohibition which has as its background the commands either of
+constituted authority, or of the local ghosts. (1927:253)</p>
+</blockquote>
+<p>The second term, <em>adi</em>, covers prohibitions imposed by the
+hereditary chiefs. Prohibitions are largely administered on an ad hoc
+basis for limited ends, and contain no ghostly sanctions. The things
+which are thus prohibited are “fruit trees, paths, gardens, pigs,
+fishing, streams, landing places, personal possessions” (p.253).
+<em>adi</em> depends on the position and prestige of the chiefs for its
+inviolacy: the action is merely human. <em>apu</em> is carried out with
+the accompaniment of religious rites, there is a ghostly sanction
+empowering it, and it is immaterial whether the person who invoked it
+was a person of importance or not. Any case of infraction of
+<em>apu</em> will be followed by sickness.</p>
+<p><a href="../sources/Hogbin1934b">Hogbin</a> (<a
+href="../sources/Hogbin1934b">1934b</a>:261) writes that in Malu’u [=
+To’aba’ita], ‘sacred’ rather than ‘forbidden’ is the primary meaning of
+the term.</p>
+<blockquote>
+<p><em>ambu</em> is the local form of the Polynesian <em>tapu</em> and
+means, primarily, relating to the spirits, and hence, sacred. There are
+in addition, several derived meanings, first, set apart; second,
+forbidden under penalty of punishment by the spirits; and third,
+forbidden under penalty of punishment by man.</p>
+</blockquote>
+<p>He adds (p.262) that since the introduction of Christianity,
+<em>ambu</em>, instead of being applied to spirits is now applied to
+God.</p>
+<p>The sense of ‘sacred’, sometimes linked with ‘holy’ is included in
+definitions of reflexes of <em>*tabu</em> from a majority of subgroups.
+The implications of this terminology are open to conjecture. The entry
+for <em>tapu</em> in Firth’s Tikopia dictionary, for example, includes
+both ‘sacred’ and ‘holy’ in its gloss but annotates ‘holy’ as ‘modern’,
+suggesting the latter as a Christian addition to the meaning.</p>
+<p><a id="p-292"></a></p>
+<p><a id="s-5"></a></p>
+<h2 id="relationship-with-mana">5. Relationship with <em>mana</em></h2>
+<p>A major difference in <em>tabu</em> practices between Eastern and
+Western Oceanic societies would appear to lie in the way in which the
+authority believed responsible for upholding the prohibitions is viewed.
+In Eastern Oceanic the chiefs are believed to derive much of their power
+and status from possession of <em>mana</em>. The term exists in
+reconstructed form as PEOc <em>*mana</em>, a stative verb ‘to have
+supernatural power from ancestral spirits as manifest in successful
+outcomes; be efficacious’ and as a noun ‘efficacy, success’ (<a
+href="../contributions/6-10#s-9-2-1">§9.2.1</a>). Particularly in
+Polynesia, chiefs, endowed with <em>mana</em>, were regarded as
+descended from gods, with powers of life or death and largely held apart
+from the rest of the community. This carried an implication of sanctity
+on both the chiefs and on whatever they came in contact with, rendering
+<em>tapu</em> their person and much associated with them. The
+association between <em>mana</em> and <em>tabu</em> is continued in the
+Southeast Solomons but the chiefs there are ‘merely human’ in Ivens’
+words, with the religious duties mainly overseen by priests.</p>
+<p>Evidence of <em>mana</em> is lacking in western Melanesian
+communities. <a href="../sources/Seligman1910">Seligman</a> (<a
+href="../sources/Seligman1910">1910</a>:576) writes that</p>
+<blockquote>
+<p>Neither at Wagawaga, Tubetube nor elsewhere in the district does
+there seem to be any development of that system of personal influence
+(<em>mana</em>) taboo whereby the thing made taboo receives, as it were,
+a dynamic charge from contact with an individual, which is dangerous to
+everyone not rendered immune by the possession of an equal or greater
+power.</p>
+</blockquote>
+<p>In western Oceania, some communities are led by hereditary chiefs,
+others by big men. But in both kinds of leadership, power is often
+shared. In Mekeo, the chief shared his leadership role with the sorcerer
+(<a href="../sources/Stephen1987">Stephen 1987</a>), while in Kilivila
+the garden magician appeared equally powerful (<a
+href="../sources/Malinowski1935">Malinowski 1935</a>). Neither
+hereditary chiefs nor big men in western Oceania hold the god-like
+stature of sacredness and apartness attributable to those in Fiji and
+Polynesia, and which accord the latter a special relationship with
+<em>mana</em>. In western Oceania it is magic rather than <em>mana</em>
+that affects all aspects of life, and magic appears to depend more
+heavily on a negative fear of sorcery than a positive awe in the face of
+the supernatural for its effectiveness.</p>
+<p><a id="s-6"></a></p>
+<h2 id="freedom-from-tabu">6. Freedom from <em>tabu</em></h2>
+<p>Where a taboo is represented by a physical sign such as a cluster of
+leaves on a pole, removal of the taboo is indicated by removal of the
+sign. But where no sign exists, as with food or name taboos, an oral
+expression is required for its removal. Terms indicating freedom from
+taboo may show either that a temporary taboo has been lifted, or simply
+that a questioned item is not subject to taboo (and may never have
+been), and without context it is not always possible to know which
+situation applies. Both PPn <em>*ŋafua</em> ‘be allowed’ and PNPn
+<em>*taŋa</em> ‘free from ritual prohibition’ have cognates applicable
+to both situations, the shared Samoan and Tikopia terms indicating that
+either can apply to remove a restriction.</p>
+<p><a id="p-293"></a></p>
+<table id="6-10-6-None-293-PPn-afua-a">
+<tr>
+<td>
+<strong>PPn</strong>
+</td>
+<td>
+</td>
+<td style="white-space: nowrap;">
+<i>*ŋafua</i>
+</td>
+<td>
+‘<span>be allowed</span>’
+</td>
+</tr>
+<tr>
+<td>
+Pn
+</td>
+<td>
+<a href="../languages/tongan">Tongan</a>
+</td>
+<td style="white-space: nowrap;">
+<i>ŋofua</i>
+</td>
+<td>
+‘<span>allowed, permitted, not prohibited</span>’
+(<a href="../sources/Martin1827">Martin1827: 233 calls it in
+contradistinction to taboo</a>)
+</td>
+</tr>
+<tr>
+<td>
+Pn
+</td>
+<td>
+<a href="../languages/niuean">Niuean</a>
+</td>
+<td style="white-space: nowrap;">
+<i>ŋofua</i>
+</td>
+<td>
+‘<span>be allowed, be free to do s.t.</span>’
+</td>
+</tr>
+<tr>
+<td>
+Pn
+</td>
+<td>
+<a href="../languages/samoan">Samoan</a>
+</td>
+<td style="white-space: nowrap;">
+<i>ŋafua</i>
+</td>
+<td>
+‘<span>be made common, have a prohibition removed</span>’ (<span>Pratt
+gives <em>faʔa-ŋafua</em> ‘lift a taboo’</span>)
+</td>
+</tr>
+<tr>
+<td>
+Pn
+</td>
+<td>
+<a href="../languages/tikopia">Tikopia</a>
+</td>
+<td style="white-space: nowrap;">
+<i>ŋafua</i>
+</td>
+<td>
+‘<span>licit; appropriate, usually of food; opposite to <em>tapu</em>,
+hence edible</span>’
+</td>
+</tr>
+<tr>
+<td>
+<strong>PNPn</strong>
+</td>
+<td>
+</td>
+<td style="white-space: nowrap;">
+<i>*taŋa</i>
+</td>
+<td>
+‘<span>free from ritual prohibition</span>’
+</td>
+</tr>
+<tr>
+<td>
+Pn
+</td>
+<td>
+<a href="../languages/rennellese">Rennellese</a>
+</td>
+<td style="white-space: nowrap;">
+<i>taŋa</i>
+</td>
+<td>
+‘<span>to end, of a taboo, free of taboo</span>’
+</td>
+</tr>
+<tr>
+<td>
+Pn
+</td>
+<td>
+<a href="../languages/pukapukan">Pukapukan</a>
+</td>
+<td style="white-space: nowrap;">
+<i>taŋa</i>
+</td>
+<td>
+‘<span>common, not tabu</span>’
+</td>
+</tr>
+<tr>
+<td>
+Pn
+</td>
+<td>
+<a href="../languages/samoan">Samoan</a>
+</td>
+<td style="white-space: nowrap;">
+<i>taŋa</i>
+</td>
+<td>
+‘<span>to have a restriction removed from things that had been
+prohibited</span>’
+</td>
+</tr>
+<tr>
+<td>
+Pn
+</td>
+<td>
+<a href="../languages/tikopia">Tikopia</a>
+</td>
+<td style="white-space: nowrap;">
+<i>taŋa</i>
+</td>
+<td>
+‘<span>free from taboo (of land, traditional stories etc.)</span>’
+</td>
+</tr>
+<tr>
+<td>
+Pn
+</td>
+<td>
+<a href="../languages/tokelauan">Tokelauan</a>
+</td>
+<td style="white-space: nowrap;">
+<i>taŋa</i>
+</td>
+<td>
+‘<span>allowed, free to do</span>’
+</td>
+</tr>
+</table>
+<p>Some Eastern Polynesian languages use reflexes of still another PPn
+term <em>*noa</em> ‘be common, worthless’ to indicate that no taboo
+applies to a situation.</p>
+<table id="6-10-6-None-293-PPn-noa-a">
+<tr>
+<td>
+<strong>PPn</strong>
+</td>
+<td>
+</td>
+<td style="white-space: nowrap;">
+<i>*noa</i>
+</td>
+<td>
+‘<span>be common, worthless</span>’ (<span>POLLEX</span>)
+</td>
+</tr>
+<tr>
+<td>
+Pn
+</td>
+<td>
+<a href="../languages/niuean">Niuean</a>
+</td>
+<td style="white-space: nowrap;">
+<i>noa</i>
+</td>
+<td>
+‘<span>signifies non-existence or infinitesimal state</span>’
+</td>
+</tr>
+<tr>
+<td>
+Pn
+</td>
+<td>
+<a href="../languages/tongan">Tongan</a>
+</td>
+<td style="white-space: nowrap;">
+<i>noa</i>
+</td>
+<td>
+‘<span>worthless, unimportant, meaningless</span>’
+</td>
+</tr>
+<tr>
+<td>
+Pn
+</td>
+<td>
+<a href="../languages/samoan">Samoan</a>
+</td>
+<td style="white-space: nowrap;">
+<i>noa</i>
+</td>
+<td>
+‘<span>of no importance, worthless, without purpose</span>’
+</td>
+</tr>
+<tr>
+<td>
+Pn
+</td>
+<td>
+<a href="../languages/rarotongan">Rarotongan</a>
+</td>
+<td style="white-space: nowrap;">
+<i>noa</i>
+</td>
+<td>
+‘<span>ordinary, not sacred, free from tabu</span>’
+</td>
+</tr>
+<tr>
+<td>
+Pn
+</td>
+<td>
+<a href="../languages/tahitian">Tahitian</a>
+</td>
+<td style="white-space: nowrap;">
+<i>noa</i>
+</td>
+<td>
+‘<span>profane, without <em>tabu</em>; only</span>’ (<span>placed after
+a noun</span>)
+</td>
+</tr>
+<tr>
+<td>
+Pn
+</td>
+<td>
+<a href="../languages/maori">Māori</a>
+</td>
+<td style="white-space: nowrap;">
+<i>noa</i>
+</td>
+<td>
+‘<span>free from <em>tapu</em> or any other restriction</span>’
+</td>
+</tr>
+</table>
+<p>The Proto Malaita-Makira reconstruction <em>*mola</em> ‘usual,
+merely’ has reflexes in Lau and Kwaio that are similar in some respects
+to PPn <em>*noa</em>. Its meaning is extended in Lau to describe terms
+as contrary to taboo. <a href="../sources/Keesing1982">Keesing</a> (<a
+href="../sources/Keesing1982">1982</a>:65) describes the same function
+in Kwaio when he writes “What is <em>abu</em> for one person is
+<em>mola</em> ‘permitted’ for another.”</p>
+<table id="6-10-6-None-293-ProtoMalaitaMakira-mola-a">
+<tr>
+<td>
+<strong>ProtoMalaitaMakira</strong>
+</td>
+<td>
+</td>
+<td style="white-space: nowrap;">
+<i>*mola</i>
+</td>
+<td>
+‘<span>usual, merely; permitted</span>’
+</td>
+</tr>
+<tr>
+<td>
+SES
+</td>
+<td>
+<a href="../languages/lau">Lau</a>
+</td>
+<td style="white-space: nowrap;">
+<i>mola</i>
+</td>
+<td>
+‘<span>merely, common; unconsecrated, not abu</span>’
+</td>
+</tr>
+<tr>
+<td>
+SES
+</td>
+<td>
+<a href="../languages/kwaio">Kwaio</a>
+</td>
+<td style="white-space: nowrap;">
+<i>mola</i>
+</td>
+<td>
+‘<span>merely, only; secular, render secular; permitted</span>’
+</td>
+</tr>
+<tr>
+<td>
+SES
+</td>
+<td>
+<a href="../languages/saa">Sa’a</a>
+</td>
+<td style="white-space: nowrap;">
+<i>mola(ʔa)</i>
+</td>
+<td>
+‘<span>free, without price</span>’
+</td>
+</tr>
+<tr>
+<td>
+SES
+</td>
+<td>
+<a href="../languages/areare">’Are’are</a>
+</td>
+<td style="white-space: nowrap;">
+<i>mora</i>
+</td>
+<td>
+‘<span>merely, only</span>’
+</td>
+</tr>
+<tr>
+<td>
+SES
+</td>
+<td>
+<a href="../languages/areare">’Are’are</a>
+</td>
+<td style="white-space: nowrap;">
+<i>mora(ʔa)</i>
+</td>
+<td>
+‘<span>allowed, permitted</span>’
+</td>
+</tr>
+<tr>
+<td>
+SES
+</td>
+<td>
+<a href="../languages/arosi">Arosi</a>
+</td>
+<td style="white-space: nowrap;">
+<i>mora</i>
+</td>
+<td>
+‘<span>original, real, usual, customary</span>’
+</td>
+</tr>
+</table>
+<p><a id="p-294"></a></p>
+<p><a id="s-7"></a></p>
+<h2 id="a-second-taboo-term">7. A second taboo term</h2>
+<p>A second term carrying the meaning of taboo, POc <em>*pali</em>
+‘ritually restricted or prohibited’, has been reconstructed. It has an
+older history than POc <em>*tabu</em>, being reconstructed back to PAn
+<em>*paliSi</em> ‘taboo, ritual restriction; purifying rite’ (ACD). Its
+scattered Oceanic reflexes from the Admiralties, southeast Solomons and
+NC Vanuatu, together with a larger number from Micronesia, are evidence
+that it was once widespread, presumably replaced in some languages by
+reflexes of <em>*tabu</em>. The Micronesian terms do not suggest a clear
+PMic antecedent. Perhaps ‘engage in ceremonial rite’ is preferable to
+the gloss offered by Bender et al., 2003. Only Woleaian has reflexes of
+both <em>*pali</em> and <em>*tabu</em>, its <em>*tabu</em> reflex
+possibly borrowed from Polynesia. We currently lack enough information
+to allow us to distinguish the two terms with any certainty, although
+<em>*pali</em> differs from <em>*tabu</em> in lacking any sense of
+sanctity. We note that Blust glosses POc <em>*pali</em> as ‘taboo’ and
+that Paiwan <em>palisi</em> is glossed ‘tabu’ (ACD).</p>
+<table id="6-10-7-None-294-POc-pali-a">
+<tr>
+<td>
+<strong>PAn</strong>
+</td>
+<td>
+</td>
+<td style="white-space: nowrap;">
+<i>*paliSi</i>
+</td>
+<td>
+‘<span>taboo, ritual restriction; purifying rite</span>’
+(<a href="../sources/Blust1995">Blust1995</a>)
+</td>
+</tr>
+<tr>
+<td>
+Fma
+</td>
+<td>
+<a href="../languages/paiwan">Paiwan</a>
+</td>
+<td style="white-space: nowrap;">
+<i>palisi</i>
+</td>
+<td>
+‘<span>rite, ceremony; tabu; “superstition”</span>’
+</td>
+</tr>
+<tr>
+<td>
+WMP
+</td>
+<td>
+<a href="../languages/malay">Malay</a>
+</td>
+<td style="white-space: nowrap;">
+<i>p-em-ali</i>
+</td>
+<td>
+‘<span>taboo</span>’
+</td>
+</tr>
+<tr>
+<td>
+<strong>POc</strong>
+</td>
+<td>
+</td>
+<td style="white-space: nowrap;">
+<i>*pali</i>
+</td>
+<td>
+‘<span>ritually restricted or prohibited</span>’ (<span>ACD:
+‘taboo’</span>)
+</td>
+</tr>
+<tr>
+<td>
+Adm
+</td>
+<td>
+<a href="../languages/seimat">Seimat</a>
+</td>
+<td style="white-space: nowrap;">
+<i>(ha)hali(ni)</i>
+</td>
+<td>
+‘<span>forbid, prohibit</span>’ (<span>causative <em>ha-</em> may be
+added to verbs to express compulsion: Smythe p.416</span>)
+</td>
+</tr>
+<tr>
+<td>
+SES
+</td>
+<td>
+<a href="../languages/ghari">Ghari</a>
+</td>
+<td style="white-space: nowrap;">
+<i>vali</i>
+</td>
+<td>
+‘<span>prohibited, forbidden</span>’
+</td>
+</tr>
+<tr>
+<td>
+NCV
+</td>
+<td>
+<a href="../languages/raga">Raga</a>
+</td>
+<td style="white-space: nowrap;">
+<i>bali</i>
+</td>
+<td>
+‘<span>to refrain from certain kinds of food as “the one who carries a
+child does not eat chicken, shellfish etc.”</span>’
+(<a href="../sources/Hardacre1924">Hardacre1924</a>)
+</td>
+</tr>
+<tr>
+<td>
+<strong>PMic</strong>
+</td>
+<td>
+</td>
+<td style="white-space: nowrap;">
+<i>*fali</i>
+</td>
+<td>
+‘<span>engage in ceremonial rite</span>’ (<span>‘taboo, sacred’; Bender
+et al. 2003</span>)
+</td>
+</tr>
+<tr>
+<td>
+Mic
+</td>
+<td>
+<a href="../languages/woleaian">Woleaian</a>
+</td>
+<td style="white-space: nowrap;">
+<i>fari</i>
+</td>
+<td>
+[vi] ‘<span>be restricted, stay away from impure things, keep away from
+certain foods</span>’
+</td>
+</tr>
+<tr>
+<td>
+Mic
+</td>
+<td>
+<a href="../languages/puluwatese">Puluwatese</a>
+</td>
+<td style="white-space: nowrap;">
+<i>fel</i>
+</td>
+<td>
+‘<span>to worship</span>’ (<span><em>faalifir</em> ‘to be clean,
+uncontaminated’</span>)
+</td>
+</tr>
+<tr>
+<td>
+Mic
+</td>
+<td>
+<a href="../languages/trukese">Trukese</a>
+</td>
+<td style="white-space: nowrap;">
+<i>fen</i>
+</td>
+<td>
+‘<span>taboo, restricted, engage in worship</span>’
+</td>
+</tr>
+<tr>
+<td>
+Mic
+</td>
+<td>
+<a href="../languages/trukese">Trukese</a>
+</td>
+<td style="white-space: nowrap;">
+<i>fǣn</i>
+</td>
+<td>
+‘<span>church worship</span>’
+</td>
+</tr>
+<tr>
+<td>
+Mic
+</td>
+<td>
+<a href="../languages/ponapean">Ponapean</a>
+</td>
+<td style="white-space: nowrap;">
+<i>pel</i>
+</td>
+<td>
+‘<span>be in a taboo relationship with s.o. or s.t.</span>’
+</td>
+</tr>
+<tr>
+<td>
+Mic
+</td>
+<td>
+<a href="../languages/mortlockese">Mortlockese</a>
+</td>
+<td style="white-space: nowrap;">
+<i>fel</i>
+</td>
+<td>
+‘<span>be taboo, worship traditional gods</span>’
+</td>
+</tr>
+<tr>
+<td>
+Mic
+</td>
+<td>
+<a href="../languages/satawalese">Satawalese</a>
+</td>
+<td style="white-space: nowrap;">
+<i>fal</i>
+</td>
+<td>
+‘<span>to worship traditional gods</span>’
+</td>
+</tr>
+</table>
+<p><a id="s-8"></a></p>
+<h2 id="conclusions">8. Conclusions</h2>
+<p>There can be little doubt that the primary meaning of POc
+<em>*tabu</em> was as a stative verb ‘prohibited, forbidden’ and as a
+noun, applicable both to the ban and to the thing banned. Hence POc
+<em>*tabu</em> (VSt) ‘prohibited, forbidden’; (N) ‘a ban on some action
+or thing; the thing so banned’.</p>
+<p>From the collected ethnographic examples, POc <em>*tabu</em> appears
+to have had the following applications:</p>
+<p><a id="p-295"></a></p>
+<ul>
+<li>In the preparation and consumption of foodstuffs in particular
+circumstances including at times the kin relationship between the
+supplier and the consumer (<a
+href="../contributions/6-10#s-10-3-1">§10.3.1</a>).</li>
+<li>Through the safeguarding of food sources by a visible sign either to
+guarantee supply (<a href="../contributions/6-10#s-10-3-2">§10.3.2</a>)
+or to guard against theft (<a
+href="../contributions/6-10#s-10-3-3">§10.3.3</a>).</li>
+<li>Through the identification of places where people should not go,
+either for reasons of safety or sanctity (<a
+href="../contributions/6-10#s-10-3-4">§10.3.4</a>).</li>
+<li>Through use of the term as a dehortative, so that children might
+learn early where it is to be applied (<a
+href="../contributions/6-10#s-10-3-5">§10.3.5</a>).</li>
+</ul>
+<p>One area in which there is doubt as to its application in POc times
+is in the degree to which the tabooed object carries the sense of
+untouchable sanctity. The sense of awe and obeisance displayed before
+the chiefs in Polynesia and to a lesser extent accompanying the
+religious practices in the SE Solomons, and implicit there in
+<em>tapu</em>/<em>apu</em> is largely lacking in Western Oceanic, and it
+is suggested that this dispersal correlates to some extent with belief
+in <em>mana</em>. <em>Tabu</em> in western Oceanic languages appears not
+to hold the sense of sanctity unless imposed by Christian influence.</p>
+<p>Blust calls the concept “one of the key cultural items in the POc
+lexicon, designating a type of social control that was enforced by
+supernatural sanctions” (ACD). As described in this chapter it may be
+rather more limited in its context.</p>
+<h2 id="notes">Notes</h2>
+<aside id="footnotes" class="footnotes footnotes-end-of-document"
+role="doc-endnotes">
+<hr />
+<ol>
+<li id="fn1"><p>William Mariner was a teenage ship’s clerk on the
+British privateer Port-au-Prince, who survived when the ship was
+attacked and sunk by Tongan warriors off the island of Lifuka in Tonga
+in 1806. He was taken under the protection of the king who treated him
+as a son. Intelligent and resourceful, and blessed with a keen ear, he
+became fluent in the language, and partook of daily life as a member of
+the royal household for the next four years. On his return to England he
+dictated a book of his experiences to John Martin, which included a
+grammar and vocabulary.
+(http://www.oldsaltblog.com/2012/08/william-mariner-the-privateer-port-au-prince-the-tongan-shipwreck).<a
+href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn2"><p>An email dated 28 October 1997 from Waruno Mahdi to the
+Austronesian Languages and Linguistics email list asks “Have you
+considered the possibility of a loan into Australian languages of
+English taboo?”<a href="#fnref2" class="footnote-back"
+role="doc-backlink">↩︎</a></p></li>
+<li id="fn3"><p>Particular thanks are due to Malcolm Ross for advice on
+irregular form variation.<a href="#fnref3" class="footnote-back"
+role="doc-backlink">↩︎</a></p></li>
+<li id="fn4"><p><a href="../sources/Seligman1910">Seligman</a> (<a
+href="../sources/Seligman1910">1910</a>:574–582), for example, describes
+in some detail the kinds of prohibitions recognised in Wagawaga and
+Tubetube, many of them identical with taboos recognised elsewhere, but
+nowhere is the <em>tabu</em> term used.<a href="#fnref4"
+class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn5"><p>Presumably an introduced term, as irregular sound
+correspondences cannot otherwise be explained.<a href="#fnref5"
+class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+</ol>
+</aside>
+</body>
+</html>
