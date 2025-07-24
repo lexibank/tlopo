@@ -1,0 +1,810 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+	<!-- base href="https://leafletjs.com/examples/quick-start/example.html" -->
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+	<title>Quick Start - Leaflet</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+     integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+     crossorigin=""/>	
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+     integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+     crossorigin=""></script>
+
+
+	<style>
+		html, body {
+			height: 100%;
+			margin: 0;
+		}
+		.leaflet-container {
+			height: 1000px;
+			width: 1600px;
+			max-width: 100%;
+			max-height: 100%;
+		}
+	</style>
+
+	
+</head>
+<body>
+
+	<div id="map" width="1600px" height="1000px"> </div>
+
+<script>
+
+mapuqan = {
+  "type": "FeatureCollection",
+  "properties": {
+    "layer": "358",
+    "name": "*mapuqan ''Flueggea flexuosa''",
+    "domain": []
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "values": [
+          {
+            "pk": 9035,
+            "jsondata": {},
+            "id": "13257",
+            "name": "mavua",
+            "description": "'Flueggea flexuosa'",
+            "markup_description": null,
+            "valueset_pk": 8403,
+            "domainelement_pk": null,
+            "frequency": null,
+            "confidence": null,
+            "domainelement": null,
+            "valueset": {
+              "pk": 8403,
+              "jsondata": {},
+              "id": "358-108",
+              "description": null,
+              "markup_description": null,
+              "language_pk": 638,
+              "parameter_pk": 358,
+              "contribution_pk": 40,
+              "source": null
+            }
+          }
+        ],
+        "label": "mavua",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6IzYwNEU5NztzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "language": {
+          "pk": 638,
+          "group": "SES",
+          "icon": "c604E97",
+          "jsondata": {},
+          "id": "108",
+          "name": "Bugotu",
+          "description": null,
+          "markup_description": null,
+          "latitude": -8.47948,
+          "longitude": 159.802
+        },
+        "name": "Bugotu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          159.802,
+          -8.47948
+        ]
+      },
+      "id": "108"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "values": [
+          {
+            "pk": 9036,
+            "jsondata": {},
+            "id": "13258",
+            "name": "mavua",
+            "description": "'Flueggea flexuosa'",
+            "markup_description": null,
+            "valueset_pk": 8404,
+            "domainelement_pk": null,
+            "frequency": null,
+            "confidence": null,
+            "domainelement": null,
+            "valueset": {
+              "pk": 8404,
+              "jsondata": {},
+              "id": "358-178",
+              "description": null,
+              "markup_description": null,
+              "language_pk": 646,
+              "parameter_pk": 358,
+              "contribution_pk": 40,
+              "source": null
+            }
+          }
+        ],
+        "label": "mavua",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6IzYwNEU5NztzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "language": {
+          "pk": 646,
+          "group": "SES",
+          "icon": "c604E97",
+          "jsondata": {},
+          "id": "178",
+          "name": "Ghari",
+          "description": null,
+          "markup_description": null,
+          "latitude": -9.4791,
+          "longitude": 159.917
+        },
+        "name": "Ghari"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          159.917,
+          -9.4791
+        ]
+      },
+      "id": "178"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "values": [
+          {
+            "pk": 9038,
+            "jsondata": {},
+            "id": "13262",
+            "name": "ma-mau",
+            "description": "'Flueggea flexuosa'",
+            "markup_description": null,
+            "valueset_pk": 8406,
+            "domainelement_pk": null,
+            "frequency": null,
+            "confidence": null,
+            "domainelement": null,
+            "valueset": {
+              "pk": 8406,
+              "jsondata": {},
+              "id": "358-27",
+              "description": null,
+              "markup_description": null,
+              "language_pk": 229,
+              "parameter_pk": 358,
+              "contribution_pk": 40,
+              "source": null
+            }
+          }
+        ],
+        "label": "ma-mau",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6Izg0ODQ4MjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "language": {
+          "pk": 229,
+          "group": "NCV",
+          "icon": "c848482",
+          "jsondata": {},
+          "id": "27",
+          "name": "Apma",
+          "description": null,
+          "markup_description": null,
+          "latitude": -15.8559,
+          "longitude": 168.189
+        },
+        "name": "Apma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.189,
+          -15.8559
+        ]
+      },
+      "id": "27"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "values": [
+          {
+            "pk": 9039,
+            "jsondata": {},
+            "id": "13260",
+            "name": "ma-mafua",
+            "description": "'Flueggea flexuosa'",
+            "markup_description": null,
+            "valueset_pk": 8407,
+            "domainelement_pk": null,
+            "frequency": null,
+            "confidence": null,
+            "domainelement": null,
+            "valueset": {
+              "pk": 8407,
+              "jsondata": {},
+              "id": "358-272",
+              "description": null,
+              "markup_description": null,
+              "language_pk": 649,
+              "parameter_pk": 358,
+              "contribution_pk": 40,
+              "source": null
+            }
+          }
+        ],
+        "label": "ma-mafua",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6IzYwNEU5NztzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "language": {
+          "pk": 649,
+          "group": "SES",
+          "icon": "c604E97",
+          "jsondata": {},
+          "id": "272",
+          "name": "Kwaio",
+          "description": null,
+          "markup_description": null,
+          "latitude": -8.93744,
+          "longitude": 160.965
+        },
+        "name": "Kwaio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          160.965,
+          -8.93744
+        ]
+      },
+      "id": "272"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "values": [
+          {
+            "pk": 9040,
+            "jsondata": {},
+            "id": "13259",
+            "name": "ma-mufua",
+            "description": "'Flueggea flexuosa'",
+            "markup_description": null,
+            "valueset_pk": 8408,
+            "domainelement_pk": null,
+            "frequency": null,
+            "confidence": null,
+            "domainelement": null,
+            "valueset": {
+              "pk": 8408,
+              "jsondata": {},
+              "id": "358-274",
+              "description": null,
+              "markup_description": null,
+              "language_pk": 650,
+              "parameter_pk": 358,
+              "contribution_pk": 40,
+              "source": null
+            }
+          }
+        ],
+        "label": "ma-mufua",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6IzYwNEU5NztzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "language": {
+          "pk": 650,
+          "group": "SES",
+          "icon": "c604E97",
+          "jsondata": {},
+          "id": "274",
+          "name": "Kwara'ae",
+          "description": null,
+          "markup_description": null,
+          "latitude": -8.75779,
+          "longitude": 160.804
+        },
+        "name": "Kwara'ae"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          160.804,
+          -8.75779
+        ]
+      },
+      "id": "274"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "values": [
+          {
+            "pk": 9041,
+            "jsondata": {},
+            "id": "13251",
+            "name": "[vap]mavu",
+            "description": "'Albizia falcataria'",
+            "markup_description": null,
+            "valueset_pk": 8409,
+            "domainelement_pk": null,
+            "frequency": null,
+            "confidence": null,
+            "domainelement": null,
+            "valueset": {
+              "pk": 8409,
+              "jsondata": {},
+              "id": "358-331",
+              "description": null,
+              "markup_description": null,
+              "language_pk": 141,
+              "parameter_pk": 358,
+              "contribution_pk": 40,
+              "source": null
+            }
+          }
+        ],
+        "label": "[vap]mavu",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ExQ0FGMTtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "language": {
+          "pk": 141,
+          "group": "MM",
+          "icon": "cA1CAF1",
+          "jsondata": {},
+          "id": "331",
+          "name": "Madak",
+          "description": null,
+          "markup_description": null,
+          "latitude": -3.34342,
+          "longitude": 151.967
+        },
+        "name": "Madak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.967,
+          -3.34342
+        ]
+      },
+      "id": "331"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "values": [
+          {
+            "pk": 9042,
+            "jsondata": {},
+            "id": "13255",
+            "name": "mavuana",
+            "description": "'Flueggea flexuosa'",
+            "markup_description": null,
+            "valueset_pk": 8410,
+            "domainelement_pk": null,
+            "frequency": null,
+            "confidence": null,
+            "domainelement": null,
+            "valueset": {
+              "pk": 8410,
+              "jsondata": {},
+              "id": "358-388",
+              "description": null,
+              "markup_description": null,
+              "language_pk": 143,
+              "parameter_pk": 358,
+              "contribution_pk": 40,
+              "source": null
+            }
+          }
+        ],
+        "label": "mavuana",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ExQ0FGMTtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "language": {
+          "pk": 143,
+          "group": "MM",
+          "icon": "cA1CAF1",
+          "jsondata": {},
+          "id": "388",
+          "name": "Marovo",
+          "description": null,
+          "markup_description": null,
+          "latitude": -8.37943,
+          "longitude": 157.747
+        },
+        "name": "Marovo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          157.747,
+          -8.37943
+        ]
+      },
+      "id": "388"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "values": [
+          {
+            "pk": 9043,
+            "jsondata": {},
+            "id": "13252",
+            "name": "ma-mahuana",
+            "description": "'Flueggea flexuosa'",
+            "markup_description": null,
+            "valueset_pk": 8411,
+            "domainelement_pk": null,
+            "frequency": null,
+            "confidence": null,
+            "domainelement": null,
+            "valueset": {
+              "pk": 8411,
+              "jsondata": {},
+              "id": "358-419",
+              "description": null,
+              "markup_description": null,
+              "language_pk": 147,
+              "parameter_pk": 358,
+              "contribution_pk": 40,
+              "source": null
+            }
+          }
+        ],
+        "label": "ma-mahuana",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ExQ0FGMTtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "language": {
+          "pk": 147,
+          "group": "MM",
+          "icon": "cA1CAF1",
+          "jsondata": {},
+          "id": "419",
+          "name": "Mono-Alu",
+          "description": null,
+          "markup_description": null,
+          "latitude": -7.05102,
+          "longitude": 155.76
+        },
+        "name": "Mono-Alu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.76,
+          -7.05102
+        ]
+      },
+      "id": "419"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "values": [
+          {
+            "pk": 9044,
+            "jsondata": {},
+            "id": "13261",
+            "name": "mo-mou",
+            "description": "'Flueggea flexuosa'",
+            "markup_description": null,
+            "valueset_pk": 8412,
+            "domainelement_pk": null,
+            "frequency": null,
+            "confidence": null,
+            "domainelement": null,
+            "valueset": {
+              "pk": 8412,
+              "jsondata": {},
+              "id": "358-446",
+              "description": null,
+              "markup_description": null,
+              "language_pk": 280,
+              "parameter_pk": 358,
+              "contribution_pk": 40,
+              "source": null
+            }
+          }
+        ],
+        "label": "mo-mou",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6Izg0ODQ4MjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "language": {
+          "pk": 280,
+          "group": "NCV",
+          "icon": "c848482",
+          "jsondata": {},
+          "id": "446",
+          "name": "Mwotlap",
+          "description": null,
+          "markup_description": null,
+          "latitude": -13.655015,
+          "longitude": 167.706277
+        },
+        "name": "Mwotlap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.706277,
+          -13.655015
+        ]
+      },
+      "id": "446"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "values": [
+          {
+            "pk": 9045,
+            "jsondata": {},
+            "id": "13253",
+            "name": "mavuɣana",
+            "description": "'Flueggea flexuosa'",
+            "markup_description": null,
+            "valueset_pk": 8413,
+            "domainelement_pk": null,
+            "frequency": null,
+            "confidence": null,
+            "domainelement": null,
+            "valueset": {
+              "pk": 8413,
+              "jsondata": {},
+              "id": "358-484",
+              "description": null,
+              "markup_description": null,
+              "language_pk": 150,
+              "parameter_pk": 358,
+              "contribution_pk": 40,
+              "source": null
+            }
+          }
+        ],
+        "label": "mavuɣana",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ExQ0FGMTtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "language": {
+          "pk": 150,
+          "group": "MM",
+          "icon": "cA1CAF1",
+          "jsondata": {},
+          "id": "484",
+          "name": "Nduke",
+          "description": null,
+          "markup_description": null,
+          "latitude": -7.97768,
+          "longitude": 157.064
+        },
+        "name": "Nduke"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          157.064,
+          -7.97768
+        ]
+      },
+      "id": "484"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "values": [
+          {
+            "pk": 9046,
+            "jsondata": {},
+            "id": "13254",
+            "name": "mavuana",
+            "description": "'Flueggea flexuosa'",
+            "markup_description": null,
+            "valueset_pk": 8414,
+            "domainelement_pk": null,
+            "frequency": null,
+            "confidence": null,
+            "domainelement": null,
+            "valueset": {
+              "pk": 8414,
+              "jsondata": {},
+              "id": "358-586",
+              "description": null,
+              "markup_description": null,
+              "language_pk": 162,
+              "parameter_pk": 358,
+              "contribution_pk": 40,
+              "source": null
+            }
+          }
+        ],
+        "label": "mavuana",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ExQ0FGMTtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "language": {
+          "pk": 162,
+          "group": "MM",
+          "icon": "cA1CAF1",
+          "jsondata": {},
+          "id": "586",
+          "name": "Roviana",
+          "description": null,
+          "markup_description": null,
+          "latitude": -8.20493,
+          "longitude": 157.408
+        },
+        "name": "Roviana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          157.408,
+          -8.20493
+        ]
+      },
+      "id": "586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "values": [
+          {
+            "pk": 9047,
+            "jsondata": {},
+            "id": "13264",
+            "name": "(vu)ma-mau",
+            "description": "'Flueggea flexuosa'",
+            "markup_description": null,
+            "valueset_pk": 8415,
+            "domainelement_pk": null,
+            "frequency": null,
+            "confidence": null,
+            "domainelement": null,
+            "valueset": {
+              "pk": 8415,
+              "jsondata": {},
+              "id": "358-669",
+              "description": null,
+              "markup_description": null,
+              "language_pk": 323,
+              "parameter_pk": 358,
+              "contribution_pk": 40,
+              "source": null
+            }
+          }
+        ],
+        "label": "(vu)ma-mau",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6Izg0ODQ4MjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "language": {
+          "pk": 323,
+          "group": "NCV",
+          "icon": "c848482",
+          "jsondata": {},
+          "id": "669",
+          "name": "Tamambo",
+          "description": null,
+          "markup_description": null,
+          "latitude": -15.6835,
+          "longitude": 167.16
+        },
+        "name": "Tamambo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.16,
+          -15.6835
+        ]
+      },
+      "id": "669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "values": [
+          {
+            "pk": 9048,
+            "jsondata": {},
+            "id": "13263",
+            "name": "ma-mau",
+            "description": "'Flueggea flexuosa'",
+            "markup_description": null,
+            "valueset_pk": 8416,
+            "domainelement_pk": null,
+            "frequency": null,
+            "confidence": null,
+            "domainelement": null,
+            "valueset": {
+              "pk": 8416,
+              "jsondata": {},
+              "id": "358-759",
+              "description": null,
+              "markup_description": null,
+              "language_pk": 336,
+              "parameter_pk": 358,
+              "contribution_pk": 40,
+              "source": null
+            }
+          }
+        ],
+        "label": "ma-mau",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6Izg0ODQ4MjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "language": {
+          "pk": 336,
+          "group": "NCV",
+          "icon": "c848482",
+          "jsondata": {},
+          "id": "759",
+          "name": "Vera'a",
+          "description": null,
+          "markup_description": null,
+          "latitude": -13.892528,
+          "longitude": 167.428701
+        },
+        "name": "Vera'a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.428701,
+          -13.892528
+        ]
+      },
+      "id": "759"
+    }
+  ]
+}
+
+	url = "https://api.gbif.org/v2/map/occurrence/density/{z}/{x}/{y}@1x.png?taxonKey=4098684"
+
+
+var pixel_ratio = parseInt(window.devicePixelRatio) || 1;
+
+var max_zoom = 16;
+var tile_size = 512;
+
+var map = L.map('map').setView([-8, 160], 4);
+
+	L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+}).addTo(map);
+
+//L.tileLayer('https://tile.gbif.org/3857/omt/{z}/{x}/{y}@{r}x.png?style=gbif-classic'.replace('{r}', pixel_ratio), {
+//  minZoom: 1,
+//	maxZoom: max_zoom + 1,
+//  zoomOffset: -1,
+//	tileSize: tile_size
+//}).addTo(map);
+
+        albizia = L.tileLayer('https://api.gbif.org/v2/map/occurrence/density/{z}/{x}/{y}@{r}x.png?taxonKey=2968265&style=classic.poly&bin=hex&hexPerTile=50&srs=EPSG%3A3857'.replace('{r}', pixel_ratio), {
+  minZoom: 1,
+	maxZoom: max_zoom + 1,
+  zoomOffset: -1,
+	tileSize: tile_size
+}).addTo(map);
+
+	flueggea = L.tileLayer('https://api.gbif.org/v2/map/occurrence/density/{z}/{x}/{y}@{r}x.png?taxonKey=5382874&style=green.poly&bin=hex&hexPerTile=50&srs=EPSG%3A3857'.replace('{r}', pixel_ratio), {
+  minZoom: 1,
+	maxZoom: max_zoom + 1,
+  zoomOffset: -1,
+	tileSize: tile_size
+}).addTo(map);
+
+	function onEachFeature(feature, layer) {
+    // does this feature have a property named popupContent?
+    if (feature.properties) {
+        layer.bindTooltip(
+				feature.properties.language.name + ': ' + feature.properties.values[0].description,
+				//{permanent: true}
+		);
+    }
+}
+
+L.geoJSON(mapuqan, {
+    onEachFeature: onEachFeature
+}).addTo(map);
+
+	var layerControl = L.control.layers(
+			{},
+			{albizia: albizia, flueggea: flueggea},
+			{collapsed: false}).addTo(map);
+</script>
+
+
+
+
+
+</body></html>
