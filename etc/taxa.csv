@@ -1,7 +1,7 @@
 Scientific_Name,Name_In_Text,Key,English_Name
 Abelmoschus manihot,,3152706,Bele
 Abelmoschus moschatus,,8312665,
-Abroma augusta,,11333111,
+Abroma augustum,Abroma augusta,8219075,
 Abutilon incanum,,3152625,
 Acalypha grandis,,3056864,
 Acalypha longispica,,3056240,
@@ -18,25 +18,25 @@ Aceratium oppositifolium,,4031710,
 Acrostichum aureum,,2651706,
 Donax canniformis,Actoplanes cannaeformis,5302997,
 Donax canniformis,Actoplanes canniformis,5302997,
-Adenanthera gersenii,,2951847,
+Adenanthera pavonina,Adenanthera gersenii,2951846,
 Adenanthera pavonina,,2951846,Red Sandalwood
-Adenanthera polita,,2951849,
+Adenanthera pavonina,Adenanthera polita,2951846,
 Adenostemma lavenia,,3132228,
 Afzelia bijuga,,7869794,
 Agathis,,1264342,Kauris
 Agathis macrophylla,,5284401,
 Agavaceae,,3072,
 Falcataria falcata,Albizia falcataria,10691906,
-Albizia moluccana,,2968270,
+Falcataria falcata,Albizia moluccana,10691906,
 Albizia salomonensis,,8425413,
-Albizia saman,,2972949,Raintree
+Samanea saman,Albizia saman,2972960,
 Albizia spp.,,2972897,
-Albizia falcata,,2968269,
+Falcataria falcata,Albizia falcata,10691906,
 Aleurites moluccanus,Aleurites moluccana,4930679,
 Aleurites moluccanus,Aleurites triloba,4930679,
 Allamanda cathartica,,3169836,
 Alocasia indica,,5329925,
-Alocasia macrorrhiza,,5708184,
+Alocasia macrorrhizos,Alocasia macrorrhiza,5329904,
 Alocasia macrorrhizos,,5329904,Giant taro
 Alphitonia incana,,3877487,
 Alphitonia franguloides,,3877503,
@@ -51,11 +51,11 @@ Althoffia,,2332544,
 Amaranthaceae,,3064,Amaranth Family
 Amaranthus sp.,,,
 Amaranthus gangeticus,,5384398,
-Amaranthus oleraceus,,8330520,
+Amaranthus blitum,Amaranthus oleraceus,8911082,
 Amaranthus tricolor,,5384397,Tampala
 Amaranthus viridis,,5384334,
 Amaryllidaceae,,7682,"Amaryllis, Onions, And Allies"
-Amorphophallus campanulatus,,2871556,
+Amorphophallus paeoniifolius,Amorphophallus campanulatus,2871533,
 Amorphophallus paeoniifolius,,2871533,Whitespot Giant Arum
 Anacardiaceae,,2398,Sumac Family
 Angiopteris evecta,Angiopteris erecta,5274878,King Fern
@@ -69,15 +69,15 @@ Araliaceae,,8800,Ginseng Family
 Araucaria cunninghamii,,2684996,Dorrigo-pine
 Araucaria hunsteinii,,2684933,Klinki Pine
 Araucariaceae,,3924,Monkey-puzzle Family
-Archidendron oblongum,,3960948,
+Archidendropsis oblonga,Archidendron oblongum,3980680,
 Areca catechu,,2736531,Betel Nut Palm
 Arecaceae,,7681,Mangrove Palm
-Argusia argentea,,8223151,
+Heliotropium velutinum,Argusia argentea,11015824,
 Aristotelia serrata,,5651040,
 Artocarpus altilis,Artocarpus communis,2984573,Breadfruit Tree
 Artocarpus altilis,Artocarpus camansi,2984573,
 Artocarpus altilis,Artocarpus mariannensis,2984573,
-Artocarpus incisus,,8002090,
+Artocarpus altilis,Artocarpus incisus,2984573,
 Asclepiadaceae,,6700,milkweeds
 Aspleniaceae,,6625,spleenwort family
 Asplenium nidus,,2650676,Hawai'I Birdnest Fern
@@ -95,22 +95,22 @@ Bambusa,,2705751,Bamboo
 Bambusa spp.,,2705751,Bamboo
 Bambusa vulgaris,,7661971,
 Barringtonia asiatica,Barringtonia speciosa,7561644,
-Barringtonia brosimos,,3082787,
+Barringtonia novae-hiberniae,Barringtonia brosimos,3082785,
 Barringtonia calyptrata,,8280705,Corned Beef Wood
 Barringtonia edulis,,3082861,Cutnut
-Barringtonia guppyana,,3082718,
-Barringtonia littorea,,3082926,
-Barringtonia magnifica,,3082719,
+Barringtonia procera,Barringtonia guppyana,3082716,
+Barringtonia asiatica,Barringtonia littorea,3082920,
+Barringtonia procera,Barringtonia magnifica,3082716,
 Barringtonia niedenzuana,,3082849,
 Barringtonia novae-hiberniae,,3082785,
-Barringtonia oblongifolia,,3082786,
+Barringtonia novae-hiberniae,Barringtonia oblongifolia,3082785,
 Barringtonia procera,,3082716,cutnut
 Barringtonia racemosa,,3082727,China-pine
 Barringtonia samoensis,,3082774,
-Barringtonia schuchardtiana,,3082717,
+Barringtonia procera,Barringtonia schuchardtiana,3082716,
 Barringtonia seaturae,,3082873,
 Barringtonia spp.,,3082715,
-Bassia erskineana,,5333891,
+Burckella obovata,Bassia erskineana,2887307,
 Beilschmiedia tawa,,4182938,
 Benincasa hispida,,2874524,Chinese preserving-melon
 Dolichandrone falcata,Bignonia spathacea,4091174,
@@ -137,16 +137,16 @@ Calamus vitiensis,Calamus stipitatus,5294278,
 Calamus vestitus,,5294558,
 Callicarpa pentandra,,5609366,
 Calochlaena straminea,,7837906,
-Calonyction grandiflorum,,3680437,
+Ipomoea violacea,Calonyction grandiflorum,2928516,
 Calophyllum sp.,,,
 Calophyllum caledonicum,,7972481,
 Calophyllum cerasiferum,Calophyllum casiferum,8018875,
 Calophyllum inophyllum,,9531830,Tamanu
-Calophyllum kajewskii,,7614984,
-Calophyllum montanum,,8036844,
+Calophyllum peekelii,Calophyllum kajewskii,7885042,
+Calophyllum caledonicum,Calophyllum montanum,7972481,
 Calophyllum neoebudicum,,8330251,
 Calophyllum peekelii,,7885042,
-Calophyllum pseudovitiense,,8002708,
+Calophyllum neoebudicum,Calophyllum pseudovitiense,8330251,
 Calophyllum streimannii,,8076774,
 Calophyllum vexans,,7835402,
 Calophyllum vitiense,,7453573,
@@ -156,18 +156,18 @@ Cananga odorata,,5407583,Cananga tree
 Cananga spp.,,5407582,Ilang-Ilang
 Canarium asperum,,5636034,
 Canarium chinare,,5635932,
-Canarium commune,,7652166,
+Canarium asperum,Canarium commune,5636034,
 Canarium decumanum,,5635879,
 Canarium harveyi,,5635774,
 Canarium indicum,Canarium mehenbethene,5421345,Java Almond
 Canarium lamii,,5636202,
-Canarium moluccanum,,5636149,
+Canarium indicum,Canarium moluccanum,5421345,
 Canarium salomonense,Canarium salomonensis,5635923,
 Canarium spp.,,3190431,
 Canavalia maritima,,7962825,
 Canavalia sericea,,2962106,
 Canavalia rosea,,2962021,Bay Bean
-Carapa obovata,,3852135,
+Xylocarpus granatum,Carapa obovata,3190517,
 Carica papaya,,2874484,
 Caryota rumphiana,,2738893,Albert palm
 Caryota mitis,,2738902,
@@ -177,7 +177,7 @@ Castanopsis acuminatissima,,5333166,Papua New Guinea Oak
 Casuarina equisetifolia,,2891930,Casuarine
 Casuarina spp.,,2891925,She-Oak
 Casuarinaceae,,5352,Beef Wood
-Celtis nymanii,,4159801,
+Celtis rigescens,Celtis nymanii,4159994,
 Ceodes spp.,,7327172,
 Cerbera floribunda,,5535887,
 Cerbera manghas,Cerbera lactaria,7155766,Madagascar ordeal-bean
@@ -185,13 +185,13 @@ Cerbera odollam,,7155753,
 Cerbera spp.,,3169757,
 Cerbera spp.,,3169757,
 Ceriops tagal,,3086518,spurred mangrove
-Chavica betle,,4188607,
+Piper betle,Chavica betle,4187904,
 Chrysobalanaceae,,9111,
 Cinnamomum spp.,,3033980,Cinnamon
 Cinnamomum xanthoneurum,Cinnamomum xanthoneuron,4179017,
 Cyrtandra samoensis,,5588844,
 Fabaceae,Cisalpiniaceae,5386,Legume Family
-Citrus polyandra,,7783337,
+Clymenia polyandra,Citrus polyandra,5594453,
 Citrus aurantium,Citrus sinensis,8077391,
 Citrus medica,,3190157,
 Citrus spp.,,3190155,Citrus
@@ -199,57 +199,57 @@ Clematis paniculata,,7433570,
 Clerodendrum inerme,,8100393,
 Clerodendrum paniculatum,Clerondendron paniculatum,3890745,
 Clymenia polyandra,Citrus flaviflora,5594453,clymenia
-Clinogyne grandis,,2762149,
+Donax canniformis,Clinogyne grandis,5302997,
 Clusiaceae,,6646,
 Clymenia polyandra,,5594453,clymenia
 Cocos nucifera,,2735117,Coconut
 Codiaeum variegatum,,3071476,Garden Croton
 Coix lacryma-jobi,,2706301,
-Colocasia antiquorum,,5330777,Coco-Yam
+Colocasia esculenta,Colocasia antiquorum,5330776,
 Colocasia esculenta,,5330776,Taro
 Colocasia spp.,,7384515,Elephant Ears
 Colocasia spp.,,7384515,Elephant Ears
 Combretaceae,,2431,white mangrove
-Cominsia gigantea,,2762344,
+Phrynium giganteum,Cominsia gigantea,5303061,
 Commersonia bartramia,,7323037,"Brown kurrajong, Scrub Christmas tree"
 Convolvulaceae,,2389,bindweed family
 Convolvulus sp.,,2928386,
-Convolvulus peltatus,,3680464,
-Convolvulus tuba,,3676654,
-Corallaria parvifolia,,2951848,
+Decalobanthus peltatus,Convolvulus peltatus,9413254,
+Ipomoea violacea,Convolvulus tuba,2928516,
+Adenanthera microsperma,Corallaria parvifolia,2951851,
 Cordia sp.,,,
 Cordia aspera,,7294535,
 Cordia subcordata,,5341267,Kou
 Cordyline sp.,,,
 Cordyline fruticosa,,2766278,Tiplant
 Cordyline fruticosa,,2766278,Tiplant
-Cordyline terminalis,,2766314,
+Cordyline fruticosa,Cordyline terminalis,2766278,
 Corynocarpaceae,,2515,
 Corynocarpus sp.,,,
 Corynocarpus cribbianus,Corynocarpus australasicus,3658820,
 Corynocarpus cribbianus,Corynocarpus cribbiana,3658820,
 Corynocarpus laevigatus,Corynocarpus laevigata,3169083,
 Corynocarpus similis,,3658823,
-Crassula scutellaria,,5690175,
+Polyscias scutellaria,Crassula scutellaria,3035778,
 Crinum asiaticum,,2853796,Asiatic poisonbulb
 Crinum pedunculatum,,7480728,
 Cryptocarya massoy,Cryptocarya aromatica,4183427,
 Cryptocarya kamahar,,4176176,
-Cryptocarya cordata,,4177701,
+Cryptocarya multipaniculata,Cryptocarya cordata,4183087,
 Cryptocarya spp.,,3011993,
 Ctenitis spp.,,2650908,Lacefern
 Ctenitis spp.,,2650908,Lacefern
 Cucumis sativus,,2874569,Cucumber
-Cucurbita lagenaria,,2874673,
+Lagenaria siceraria,Cucurbita lagenaria,2874672,
 Cucurbita moschata,,7393329,Squash / Pumpkin
-Cucurbita siceraria,,2874676,
+Lagenaria siceraria,Cucurbita siceraria,2874672,
 Cucurbitaceae,,6634,Gourd Family
 Cunoniaceae,,2405,
 Curcuma longa,Curcuma domestica,2757624,
 Curcuma tongii,Curcuma tonga,10687104,
-Cyathea brackenridgei,,3600162,
+Sphaeropteris brackenridgei,Cyathea brackenridgei,5529804,
 Sphaeropteris propinqua,Cyathea propinqua,5529558,
-Cyathea lunulata,,3600584,tsatsa
+Sphaeropteris lunulata,Cyathea lunulata,5529662,
 Cyathea spp.,,2650273,Treefern
 Cyatheaceae,,6624,Scaly Tree Ferns
 Cycadaceae,,4912286,
@@ -262,8 +262,8 @@ Cycas spp.,,2683206,Cycad
 Cyclosorus truncatus,,7321182,
 Cymbopogon coloratus,,4151005,
 Cyperus laevigatus,,2713559,
-Cyrtosperma chamissonis,,2871924,swamp taro
-Cyrtosperma edule,,9659176,
+Cyrtosperma merkusii,Cyrtosperma chamissonis,2871919,
+Cyrtosperma merkusii,Cyrtosperma edule,2871919,
 Cyrtosperma merkusii,,2871919,gallan
 Dacrycarpus dacrydioides,,2687859,
 Datiscaceae,,6633,datiscas
@@ -300,7 +300,7 @@ Dioscorea alata,,2754476,Yams
 Dioscorea bulbifera,,7964683,
 Dioscorea esculenta,,2755195,Asiatic yam
 Dioscorea hispida,,2755784,
-Dioscorea nummularia,,8077783,
+Dioscorea glabra,Dioscorea nummularia,2754680,
 Dioscorea pentaphylla,,2754423,
 Dioscorea spp.,,2754367,Cinnamon Vine
 Dioscoreaceae,,7694,True Yams
@@ -314,45 +314,45 @@ Diospyros samoensis,Diospyros austro-caledonicus,4071362,
 Diplazium esculentum,,2650858,Vegetable fern
 Diplazium proliferum,,7558255,
 Dolichandrone spathacea,,3172487,mangrove trumpet-tree
-Dolichos hirsutus,,2977661,
-Dolichos lobatus,,2977662,
+Pueraria montana,Dolichos hirsutus,2977636,
+Pueraria montana,Dolichos lobatus,2977636,
 Dolichos tuberosus,,7417019,
-Donax arundastrum,,5615768,
+Donax canniformis,Donax arundastrum,5302997,
 Donax canniformis,Donax cannaeformis,5302997,
 Dracaena angustifolia,,5304502,
 Dracaena sp.,,2472002,caiman lizard
 Dracaena spp.,,2472002,caiman lizard
 Dracontomelon,,3190526,
 Dracontomelon dao,,3190527,Argus pheasant tree
-Dracontomelon edule,,3660280,
-Dracontomelon mangiferum,,3190528,
+Dracontomelon dao,Dracontomelon edule,3190527,
+Dracontomelon dao,Dracontomelon mangiferum,3190527,
 Dracontomelon spp.,,3190526,
 Dracontomelon vitiense,Dracontomelon vitiensis,8050389,Dragon Plum
 Drymophloeus sp.,,2732232,
 Dryopteridaceae,,2373,Shieldfern Family
 Dryopteris spp.,,2651126,Wood Ferns
 Christella arida,Dryopteris aridis,4080035,
-Dysoxylum aneityense,,3850996,
-Dysoxylum arborescens,,7271294,
-Dysoxylum forsteri,,3850288,
-Dysoxylum gaudichaudianum,,3850172,
+Didymocheton aneityensis,Dysoxylum aneityense,11437556,
+Goniocheton arborescens,Dysoxylum arborescens,3850164,
+Didymocheton alliaceus,Dysoxylum forsteri,11674083,
+Didymocheton gaudichaudianus,Dysoxylum gaudichaudianum,3851516,
 Dysoxylum kaniense,,3849859,
 Didymocheton alliaceus,Dysoxylum richii,11674083,
-Dysoxylum spectabile,,3851686,
+Didymocheton spectabilis,Dysoxylum spectabile,11557598,
 Didymocheton samoensis,Dysoxylum samoensis,11624504,
 Didymocheton lenticellaris,Dysoxylum lenticillare,11765372,
 Dysoxylum spp.,,3190481,
 Ebenaceae,,6709,Ebony
 Elaeocarpaceae,,2435,
 Elaeocarpus angustifolius,,7426040,Blue marble tree
-Elaeocarpus edulis,,4031662,
+Aceratium oppositifolium,Elaeocarpus edulis,4031710,
 Elaeocarpus floridanus,,4031357,
 Elaeocarpus floridanus,,4031357,
-Elaeocarpus pseudosepicanus,,4031273,
+Elaeocarpus floridanus,Elaeocarpus pseudosepicanus,4031357,
 Elaeocarpus sphaericus,,10988361,
 Elaeocarpus spp.,,3152094,
 Eleocharis geniculata,,2716850,
-Endospermum formicarum,,3063654,
+Endospermum moluccanum,Endospermum formicarum,3063652,
 Endospermum medullosum,,3063648,Whitewood
 Endospermum moluccanum,,3063652,
 Endospermum macrophyllum,,3063627,
@@ -365,32 +365,32 @@ Erythrina sp.,,,
 Erythrina spp.,,,
 Erythrina indica,,5349598,
 Erythrina variegata,,5349581,Indian coraltree
-Erythrina orientalis,,5349586,
+Erythrina variegata,Erythrina orientalis,5349581,
 Erythrina subumbrans,,5349636,
 Erythrina fusca,,5349620,
-Eugenia jambos,,5419154,
+Syzygium jambos,Eugenia jambos,3183534,
 Eugenia malaccensis,,7907394,
 Syzygium maire,Eugenia maire,3184633,
-Euodia elleryana,,7269463,
+Melicope elleryana,Euodia elleryana,3833337,
 Euodia hortensis,,5594509,
 Euodia spp.,,7238187,
-Euodia tetragona,,5594118,
+Melicope elleryana,Euodia tetragona,3833337,
 Euphorbiaceae,,4691,spurge family
 Excoecaria agallocha,,3071702,blind-your-eye
-Falcataria moluccana,,2968262,White Albizia
+Falcataria falcata,Falcataria moluccana,10691906,
 Fabaceae,,5386,Legume Family
 Fagaceae,,4689,beech family
 Fagraea sp.,,,
 Fagraea spp.,,,
 Fagraea berteroana,,6388630,Cape jitta
 Fagraea gracilipes,,4019958,
-Fagraea ligustrina,,4019775,
-Fagraea maingayi,,4019668,
+Utania volubilis,Fagraea ligustrina,7448019,
+Utania maingayi,Fagraea maingayi,8211217,
 Fagraea pauciflora,,4019445,
-Fagraea peekelii,,4019433,
-Fagraea racemosa,,7289327,
-Fagraea schlechteri,,4019145,
-Falcataria moluccana,,2968262,White Albizia
+Fagraea berteroana,Fagraea peekelii,6388630,
+Utania racemosa,Fagraea racemosa,8413821,
+Fagraea berteroana,Fagraea schlechteri,6388630,
+Falcataria falcata,Falcataria moluccana,10691906,
 Ficus adenosperma,,7262893,
 Ficus aspera,,7262784,
 Ficus austrina,,5571756,
@@ -400,7 +400,7 @@ Ficus copiosa,,7262424,plentiful fig
 Ficus granatum,,5570965,
 Ficus microcarpa,,7467639,
 Ficus mutabilis,,5570909,
-Ficus nodosa,,5570676,Cape fig
+Ficus racemifera,Ficus nodosa,5571764,
 Ficus obliqua,,7262513,
 Ficus subtrinervia,Ficus pachystemon,5569909,
 Ficus pritchardii,,5572126,
@@ -413,8 +413,8 @@ Ficus variegata,,9726071,
 Ficus vitiensis,,5571527,
 Ficus wassa,,5571444,
 Finschia chloroxantha,,5636779,
-Finschia densiflora,,5636774,
-Finschia waterhousiana,,5636763,
+Finschia chloroxantha,Finschia densiflora,5636779,
+Finschia chloroxantha,Finschia waterhousiana,5636779,
 Flacourtia rukam,,5331160,Rukam
 Flacourtiaceae,,9725603,
 Flagellaria indica,,5287564,
@@ -432,14 +432,14 @@ Garcinia sessilis,,3712715,
 Garcinia warburgiana,Garcinia novo-guineensis,3712236,
 Gardenia jasminoides,Gardenia augusta,5335125,
 Gardenia taitensis,,5335073,
-Garuga abilo,,3993645,
+Garuga floribunda,Garuga abilo,7286844,
 Garuga floribunda,,7286844,
 Geitonoplesium cymosum,,2781147,
 Glochidion philippicum,,3080502,
 Glochidion angulatum,,3080198,
 Glochidion gimi,,3080873,
 Glochidion stipulare,,3080180,
-Glochidion perakense,,3080589,
+Glochidion zeylanicum,Glochidion perakense,3080562,
 Glochidion spp.,,3080069,
 Gmelina sp.,,,
 Gmelina moluccana,,5607645,
@@ -449,7 +449,7 @@ Gnetum latifolium,,2653172,
 Hydriastele macrospadix,Gulubia macrospadix,2738528,
 Goodeniaceae,,3113,
 Gossypium tomentosum,,3152655,
-Grevillea densiflora,,3999100,
+Finschia chloroxantha,Grevillea densiflora,5636779,
 Grewia,,3152078,
 Grewia crenata,,4260465,
 Guettarda sp.,,,
@@ -457,7 +457,7 @@ Guettarda speciosa,,8012534,
 Guioa rhoifolia,,3787234,
 Gyrocarpus americanus,,7326414,Coolamon-tree
 Hedychium coronarium,,7883492,
-Helicia cribbiana,,5637648,
+Corynocarpus cribbianus,Helicia cribbiana,3658820,
 Heliconia,,2760545,Heliconia
 Heliconia sp.,,,
 Heliconia indica,,2760563,
@@ -472,38 +472,38 @@ Hernandia olivacea,,3685467,
 Hernandia ovigera,,8282016,
 Hernandia peltata,,3685418,
 Hernandiaceae,,2495,
-Hibiscus manihot,,3935663,
+Abelmoschus manihot,Hibiscus manihot,3152706,
 Hibiscus spp.,,3152542,Hibiscuses
-Hibiscus tiliaceus,,3152584,Coast Cottonwood
+Talipariti tiliaceum,Hibiscus tiliaceus,7115794,
 Hibiscus rosa-sinensis,,3152559,
-Hornstedtia lycostoma,,2759723,
+Hornstedtia scottiana,Hornstedtia lycostoma,2759722,
 Hornstedtia scottiana,,2759722,
 Horsfieldia irya,,5564667,
 Hoya spp.,,3170437,
 Hoya australis,Hoya bicarinata,7150750,
 Hydrocharitaceae,,3721,Frog-bit Family
-Illipe hollrungii,,2887325,
-Imperata arundinacea,,5289714,
+Burckella obovata,Illipe hollrungii,2887307,
+Imperata cylindrica,Imperata arundinacea,8424006,
 Imperata cylindrica,,8424006,"Alang-alang, Blady grass, Cogon grass, Japgrass, Satintail, Speargrass"
-Inocarpus edulis,,2961949,
+Inocarpus fagifer,Inocarpus edulis,7837019,
 Inocarpus fagifer,,7837019,Tahitian Chestnut
-Intsia amboinensis,,2963219,
+Intsia bijuga,Intsia amboinensis,2963211,
 Intsia bijuga,,2963211,Borneo-teak
 Ipomoea,,2928509,morning glory
 Ipomoea alba,,2928631,
 Ipomoea batatas,,2928551,Sweet Potato
 Ipomoea grandiflora,,7804856,
 Ipomoea violacea,Ipomoea macrantha,2928516,
-Ipomoea peltata,,8349289,
+Ipomoea pileata,Ipomoea peltata,7829065,
 Ipomoea pes-caprae,,7639451,Beach Morning-glory
 Ipomoea spp.,,2928509,morning glory
-Ipomoea tuba,,2928518,
-Jambosa malaccensis,,3184516,
+Ipomoea violacea,Ipomoea tuba,2928516,
+Syzygium malaccense,Jambosa malaccensis,3184509,
 Jasminum degeneri,,3682139,
 Kleinhovia hospita,,3152102,Guest Tree
 Knightia excelsa,,5638587,
 Lablab purpureus,,2952236,
-Lagenaria leucantha,,2874675,
+Lagenaria siceraria,Lagenaria leucantha,2874672,
 Lagenaria siceraria,,2874672,White-flowered Gourd
 Lagenaria vulgaris,,8306444,
 Lamiaceae,,2497,Mint Family
@@ -553,7 +553,7 @@ Manihot esculenta,,3060998,Sweet Cassava
 Manilkara spp.,,2885024,
 Manilkara vitiensis,,2885106,
 Manilkara hoshinoi,,2885035,
-Maranta grandis,,2762146,
+Donax canniformis,Maranta grandis,5302997,
 Marantaceae,,8784,Arrowroot
 Maranthes corymbosa,,2984717,
 Marattiaceae,,6628,
@@ -567,11 +567,11 @@ Melicope elleryana,,3833337,Pink euodia
 Melochia umbellata,,3152126,Gunpowder tree
 Melochia odorata,,7552285,
 Memecylon vitiense,Memecylon harveyi,3863392,
-Merremia peltata,,5548953,
+Decalobanthus peltatus,Merremia peltata,9413254,
 Decalobanthus pacificus,Merremia pacifica,9535215,
 Meryta neoebudica,,3036435,
 Meryta sinclairii,,3036415,
-Messerschmidia argentea,,8708461,
+Heliotropium velutinum,Messerschmidia argentea,11015824,
 Metrosideros fulgens,,3185442,
 Kania eugenioides,Metrosideros parviflora,3181227,
 Metroxylon sagu,Metroxylon rumphii,2733781,sago palm
@@ -587,7 +587,7 @@ Mimosaceae,,3794735,
 Mimosa pudica,,2969284,
 Miscanthus,,2706020,silvergrass
 Miscanthus floridulus,,2706022,Japanese silver grass
-Miscanthus japonicus,,4115603,
+Miscanthus floridulus,Miscanthus japonicus,2706022,
 Moraceae,,6640,Fig Family
 Morinda citrifolia,,5339879,Noni
 Musa spp.,,2760990,Banana
@@ -606,14 +606,14 @@ Myristica hollrungii,,5564687,
 Myristica spp.,,3152840,Nutmeg
 Myristicaceae,,2439,
 Myrtaceae,,5014,Myrtle Family
-Nastus obtusus,,5678152,
+Chloothamnus obtusus,Nastus obtusus,11084201,
 Rorippa hybosperma,Nasturtium hybospermum,3053215,
 Widjajachloa producta,Nastus productus,10891503,
 Nastus spp.,,3232791,
 Nastus spp.,,3232791,
 Neonauclea forsteri,Nauclea forsteri,2919489,
 Ochrosia oppositifolia,Neisosperma oppositifolium,3617566,
-Nephrolepis biserrata,,2650936,Giant Swordfern
+Nephrolepis biserrata,Nephrolepis biserrata,12262828,
 Polyscias fruticosa,Nothopanax fruticosum,3035652,
 Polyscias scutellaria,Nothopanax scutellarium,3035778,
 Nyctaginaceae,,6718,Four O'clock Family
@@ -623,15 +623,15 @@ Ochrosia elliptica,Ochrosia parviflora,3169645,
 Octomeles sp.,,,
 Octomeles sumatranum,Octomeles sumatrana,4928823,
 Olacaceae,,6662,Olax
-Omphalea gageana,,3062220,
-Operculina peltata,,5548762,
+Omphalea papuana,Omphalea gageana,3062219,
+Decalobanthus peltatus,Operculina peltata,9413254,
 Pachyrhizus erosus,Pachyrrhizus trilobus,2974683,
 Palaquium spp.,,2886411,
 Palaquium stehlinii,,2886560,
 Palaquium fidjiense,,2886482,
 Polyscias fruticosa,Panax fruticosum,3035652,
 Pandanaceae,,3737,
-Pandanus compressus,,5328030,
+Pandanus dubius,Pandanus compressus,5328028,
 Pandanus conoideus,Pandanus cominsii,5328074,
 Benstonea stenocarpa,Pandanus danckelmannianus,9036149,
 Pandanus dubius,,5328028,Knob-fruited Screwpine
@@ -644,16 +644,16 @@ Pandanus whitmeeanus,,5327748,
 Pangium edule,,9796769,Football Fruit
 Parartocarpus venenosa,Parartocarpus involucrata,3766049,
 Paraserianthes,,2943718,
-Paraserianthes falcataria,,2968263,
-Parinari salomonensis,,3745397,
-Parinari glaberrima,,3745602,
+Falcataria falcata,Paraserianthes falcataria,10691906,
+Parinari papuana,Parinari salomonensis,2984987,
+Atuna excelsa,Parinari glaberrima,3745558,
 Parinari insularum,,2984938,
 Parinari spp.,,2984937,
 Paspalum conjugatum,,2705656,Crab Grass
 Paspalum spp.,,2705540,Paspalum
-Passiflora foetida,,7736634,
+Passiflora foetida,Passiflora foetida,2874211,
 Passifloraceae,,2378,Passion Flower Family
-Payena mentzelii,,2887328,
+Burckella obovata,Payena mentzelii,2887307,
 Pemphis acidula,,3188706,
 Pennisetum macrostachyum,,2706133,
 Pennisetum polystachion,,9642664,feather pennisetum
@@ -673,36 +673,36 @@ Macropiper excelsum,,7305062,
 Piper methysticum,,3086358,Kava
 Piper celtidiforme,Piper singkojan,4184887,
 Piper subbullatum,,4187142,
-Piper wichmannii,,4187213,
+Macropiper methysticum,Piper wichmannii,4186474,
 Piperaceae,,6678,Peppers
 Pipturus sp.,,,
 Pipturus spp.,,,
 Pipturus argenteus,,6414892,
-Pipturus incanus,,4101779,
+Pipturus argenteus,Pipturus incanus,6414892,
 Pipturus velutinus,,7598427,
 Pisonia brunoniana,,7562277,
-Pisonia excelsa,,3701064,
+Ceodes umbellifera,Pisonia excelsa,3086267,
 Pisonia grandis,,8641545,
 Pisonia aculeata,,3086260,
 Pisonia spp.,,3086250,Catchbirdtree
-Pisonia umbellifera,,7525383,
+Ceodes umbellifera,Pisonia umbellifera,3086267,
 Planchonella costata,,5334093,
 Planchonella garberi,,5334082,
-Planchonella grayana,,5334033,
-Planchonella linggensis,,5334068,
+Planchonella tahitensis,Planchonella grayana,5334060,
+Planchonella chartacea,Planchonella linggensis,5334064,
 Planchonella peekelii,,5334107,
 Planchonella torricellensis,Planchonella samoensis,5334167,
 Planchonella sandwicensis,,5333997,
 Planchonella spp.,,8033501,
-Plumeria acutifolia,,3169676,
+Plumeria rubra,Plumeria acutifolia,3169674,
 Plumeria rubra,,3169674,
 Poaceae,,3073,Grass
-Podocarpus ferrugineus,,5285858,
+Prumnopitys ferruginea,Podocarpus ferrugineus,2687255,
 Polyscias cumingiana,,9213313,Malaysian Aralia
 Polyscias fruticosa,,3035652,Ming Aralia
 Polyscias macgillivrayi,,3035673,
 Polyscias pinnata,,8294987,
-Polyscias rumphiana,,3035718,
+Polyscias cumingiana,Polyscias rumphiana,9213313,
 Polyscias scutellaria,,3035778,Shield Aralia
 Polyscias verticillata,,3035882,
 Polyscias spp.,,3035574,
@@ -710,10 +710,10 @@ Pomaderris phylicifolia,,7273858,
 Pometia pinnata,,5577338,Fijian longan
 Pongamia glabra,,11377893,
 Pongamia pinnata,,2965911,"Indian beech, Pongam oiltree"
-Pouteria maclayana,,2884578,
+Planchonella maclayana,Pouteria maclayana,9468101,
 Premna corymbosa,,7713954,
-Premna divaricata,,3897803,
-Premna integrifolia,,7308606,
+Premna serratifolia,Premna divaricata,6411486,
+Premna serratifolia,Premna integrifolia,6411486,
 Premna protrusa,,3896458,
 Premna serratifolia,Premna gaudichaudii,6411486,bastard guelder
 Premna tahitensis,Premna taitensis,,
@@ -725,15 +725,15 @@ Prunus spp.,,3020559,Cherry
 Psilotum nudum,,2688176,
 Psophocarpus tetragonolobus,,2944683,
 Pteris tripartita,,5275407,
-Pterocarpus indicus,,7982935,
+Pterocarpus dalbergioides,Pterocarpus indicus,8350606,
 Pterocymbium spp.,,7322952,
 Pueraria hirsuta,,2943403,
-Pueraria lobata,,2977654,East Asian arrow root
+Pueraria montana,Pueraria lobata,2977636,
 Pueraria montana,Pueraria montanus,2977636,kudzu
 Pueraria neocaledonica,,3967330,
 Pueraria novoguineensis,,11149764,
-Pueraria thunbergiana,,2977655,
-Pueraria triloba,,2977651,
+Pueraria montana,Pueraria thunbergiana,2977636,
+Pueraria montana,Pueraria triloba,2977636,
 Putranjiva roxburghii,Putranjiva roxburgii,3076079,
 Ranunculus insignis,,3925835,
 Rhamnaceae,,4904319,
@@ -742,47 +742,47 @@ Rhizophora mucronata,,3086527,True Mangrove
 Rhizophora spp.,,3086525,Mangrove
 Rhizophora stylosa,,3874022,Spotted mangrove
 Rhizophoraceae,,6671,red mangrove
-Rhus retusa,,3661508,
-Rhus rufa,,3661305,
+Melanococca tomentosa,Rhus retusa,3661260,
+Melanococca tomentosa,Rhus rufa,3661260,
 Rhus spp.,,3190534,Sumacs
-Rhus taitensis,,3660501,Sumac
+Melanococca tomentosa,Rhus taitensis,3661260,
 Rosaceae,,,
 Rubiaceae,,,
 Rutaceae,,2396,rue family
 Saccharum edule,,4134850,
-Saccharum floridulum,,4134738,
+Miscanthus floridulus,Saccharum floridulum,2706022,
 Saccharum officinarum,,2703912,Sugar Cane
 Saccharum spontaneum,,2703935,Wild Sugarcane
 Saccharum maximum,Erianthus maximus,4134339,
 Sadleria,,2651502,
-Sagus vitiensis,,5293499,
+Metroxylon vitiense,Sagus vitiensis,2733809,
 Sapindaceae,,,
 Sapotaceae,,8802,Sapodillas
 Scaevola sp.,,,
 Scaevola cylindrica,,5569109,
-Scaevola frutescens,,7099691,
-Scaevola koenigii,,5569382,
-Scaevola sericea,,5407599,beach naupaka
+Scaevola taccada,Scaevola frutescens,6358362,
+Scaevola taccada,Scaevola koenigii,6358362,
+Scaevola taccada,Scaevola sericea,6358362,
 Scaevola taccada,,6358362,Beach Naupaca
 Schizomeria serrata,,3613800,
 Schizostachyum spp.,,2703895,Polynesian 'Ohe
 Schizostachyum lima,,4123184,
 Schizostachyum glaucifolium,,2703896,
 Schleinitzia novoguineensis,,5349226,
-Securinega flexuosa,,3079345,
+Flueggea flexuosa,Securinega flexuosa,5382874,
 Semecarpus sp.,,,
 Semecarpus forstenii,,3660182,
 Semecarpus vitiensis,,7815565,
 Serianthes vitiensis,,3975896,
-Sideroxylon costatum,,2887876,
-Sideroxylon peekelii,,2887907,
+Planchonella costata,Sideroxylon costatum,5334093,
+Planchonella peekelii,Sideroxylon peekelii,5334107,
 Smilax vitiensis,,5295353,
 Sonneratia alba,,5406998,
 Sonneratia caseolaris,,5635606,
-Sphaerostephanos invisus,,2651482,
-Spondias cytherea,,3190596,
+Strophocaulon invisum,Sphaerostephanos invisus,11575151,
+Spondias dulcis,Spondias cytherea,3190595,
 Spondias dulcis,,8549822,
-Spondias mangifera,,3661208,
+Spondias pinnata,Spondias mangifera,3661030,
 Stenotaphrum secundatum,,2702870,
 Sterculia spp.,,3152129,tropical chestnut
 Sterculia tannaensis,,7538317,
@@ -799,14 +799,14 @@ Syzygium spp.,,3029010,
 Tacca sp.,,9375127,
 Tacca leontopetaloides,,2755866,Batflower
 Taccaceae,,3069,
-Taetsia fruticosa,,2766329,
+Cordyline fruticosa,Taetsia fruticosa,2766278,
 Tephrosia sp.,,,
 Tephrosia purpurea,Tephrosia piscatoria,5342239,
 Terminalia brassii,,3699014,brown terminalia
 Terminalia calamansanai,,4934232,
 Terminalia catappa,,3189394,India Almond
 Terminalia complanata,,3698386,
-Terminalia copelandii,,4934231,
+Terminalia procera,Terminalia copelandii,3698538,
 Terminalia impediens,,3698711,
 Terminalia kaernbachii,,3698582,okari-nut
 Terminalia megalocarpa,,3699839,
@@ -815,9 +815,9 @@ Terminalia sepicana,,3699786,
 Terminalia spp.,,3189387,Tropical Almond
 Donax canniformis,Thalia cannaeformis,5302997,
 Thelypteridaceae,,6618,marsh fern family
-Themeda australis,,2703468,
+Themeda triandra,Themeda australis,2703467,
 Themeda triandra,,2703467,
-Thespesia macrophylla,,3936417,
+Thespesia populnea,Thespesia macrophylla,3152795,
 Thespesia populnea,,3152795,Portia Tree
 Thuarea involuta,,2702911,Kuroiwa Grass
 Thymelaeaceae,,2428,Mezereum Family
@@ -829,17 +829,17 @@ Trema cannabina,,2984507,
 Trema tomentosum,Trema amboinensis,7303576,
 Trema andersonii,Parasponia andersonii,9755995,
 Trema tomentosum,Trema aspera,7303576,
-Trema orientalis,,7141659,"Charcoal-tree, Indian charcoal-tree, Oriental trema, Pigeon wood, Peach-cedar, Rough trema, Tree-peach, Woolly-cedar"
+Trema orientale,Trema orientalis,2984508,
 Trema orientale,Trema scaberrima,2984508,
-Trichospermum psilocladum,,4261428,
+Trichospermum richii,Trichospermum psilocladum,3152056,
 Trichospermum richii,,3152056,
 Trichospermum incaniopsis,Trichospermum peekelii,4261593,
 Trichospermum pleiostigma,Trichospermum pleiostigmum,4261440,
 Trichospermum inmac,,4261579,
 Trichospermum spp.,,3152055,
 Ulmaceae,,,
-Urtica argentea,,5671298,
-Urtica incana,,5669875,
+Pipturus argenteus,Urtica argentea,6414892,
+Pipturus argenteus,Urtica incana,6414892,
 Urticaceae,,6639,nettle family
 Veitchia arecina,,5293072,
 Ventilago vitiensis,,3877406,
@@ -859,7 +859,7 @@ Xanthosoma sagittifolium,,5330901,Arrowleaf Elephant's Ear
 Ximenia americana,,2889811,Tallowwood
 Xylocarpus granatum,,3190517,apple mangrove
 Xylocarpus moluccensis,,3190516,cedar mangrove
-Xylocarpus obovatus,,3851016,
+Xylocarpus granatum,Xylocarpus obovatus,3190517,
 Xylocarpus spp.,,3190515,
 Xylopia papuana,,3157162,
 Zea mays,,5290052,Corn
@@ -937,7 +937,7 @@ Loripes,,2287388,
 Lucina,,2287424,
 Lucinidae,,3455,Hatchet Shells
 Lucinisca,,2287347,
-Lucinoidea,,11247680,
+Obsoletiformes lucinoides,Lucinoidea,11125227,
 Malleidae,,3466,hammer oysters
 Malleus spp.,,2285339,
 Pteria sp.,Avicula sp.,2285329,
@@ -955,7 +955,7 @@ Decapoda,Natantia,637,Ten-footed
 Neritidae,,2658,Nerites
 Clithon corona,Neritina brevispina,4954090,
 Octopus cyanea,,2289535,Cyane's octopus
-Octopus ornatus,,2289653,ornate octopus
+Callistoctopus ornatus,Octopus ornatus,5856009,
 Ocypoda,,4646715,
 Ophiuroidea,,350,brittlestars
 Ostreidae,,6871,Oyster
@@ -963,7 +963,7 @@ Ovulidae,,2666,egg cowries
 Ovula ovum,,5192699,
 Paguridae,,4531,Right-Handed Hermit Crabs
 Paphies australis,,2286374,
-Palinura,,7742440,
+Paralepas palinuri,Palinura,2114067,
 Palinuridae,,4535,furry lobsters
 Palinurus,,2221602,
 Panulirus penicillatus,Palinurus penicillatus,2221640,
@@ -1025,7 +1025,7 @@ Accipiter imitator,,2480618,
 Accipiter melanochlamys,,2480634,
 Accipiter novaehollandiae,,2480629,
 Accipitridae,,2877,"Hawks, Eagles, And Kites"
-Aceros plicatus,,5228437,Blyth's hornbill
+Rhyticeros plicatus,Aceros plicatus,2475908,
 Aerodramus spodiopygius,,2477248,White-rumped Swiftlet
 Aerodramus vanikorensis,,2477185,Uniform Swiftlet
 Aerodramus leucophaeus,,2477244,
@@ -1053,7 +1053,7 @@ Ardea cinerea,,9797180,
 Arenaria interpres,,2481776,Ruddy Turnstone
 Artamidae,,9276,Woodswallows
 Artamus insignis,,5230395,White-backed Woodswallow
-Artamus leucorhynchus,,5712408,White-breasted Wood-Swallow
+Artamus leucoryn,Artamus leucorhynchus,8117515,
 Asio flammeus,,2497295,
 Aviceda subcristata,,2480707,Pacific Baza
 Botaurus poiciloptilus,,2480912,
@@ -1104,7 +1104,7 @@ Coracina tenuirostris,,2486768,
 Corvidae,,5235,"Crows, Jays, And Magpies"
 Corvus moneduloides,,2482475,New Caledonian Crow
 Corvus orru,,2482491,Torresian Crow
-Coturnix chinensis,,2474128,Blue-breasted Quail
+Synoicus chinensis,Coturnix chinensis,8082581,
 Cuculidae,,9309,Anis
 Cyanoramphus novaezelandiae,,5229110,
 Cuculus,,2336662,Eurasian Cuckoos
@@ -1147,7 +1147,7 @@ Fregata ariel,,2480186,Lesser Frigatebird
 Fregata minor,,2480187,Great Frigatebird
 Fregatidae,,5241,Frigatebirds
 Gallicolumba,,2495214,Island Ground-Doves
-Ixobrychus flavicollis,,2480844,
+Dupetor flavicollis,Ixobrychus flavicollis,2480871,
 Ixobrychus minutus,,2480850,
 Pampusana stairi,Gallicolumba stairi,10891839,
 Pampusana beccarii,Gallicolumba beccarii,10674903,
@@ -1163,8 +1163,8 @@ Gymnophaps,,2495181,
 Gymnophaps solomonensis,,2495185,
 Halcyon,,2475567,Blue Kingfishers
 Todiramphus chloris,Halcyon chloris,2475742,
-Halcyon sancta,,5228370,sacred kingfisher
-Halcyon saurophaga,,8772741,
+Todiramphus sanctus,Halcyon sancta,2475802,
+Todiramphus saurophagus,Halcyon saurophaga,2475721,
 Haliaeetus,,2480444,Sea-eagles And Fish-eagles
 Haliaeetus leucogaster,,2480455,White-bellied Sea-eagle
 Haliaeetus sanfordi,,2480456,
@@ -1176,7 +1176,7 @@ Hemiprocne mystacea,,2477444,Moustached Treeswift
 Hemiprocnidae,,5247,Treeswifts
 Henicopernis infuscatus,Henicopernis infuscata,2480465,
 Henicophaps,,2495830,
-Heteroscelus incanus,,2481678,Wandering Tattler
+Tringa incana,Heteroscelus incanus,9733156,
 Heteralocha acutirostris,,2484498,
 Hirundinidae,,5248,Swallows And Martins
 Hirundo tahitica,,5230787,Tahiti Swallow
@@ -1204,7 +1204,7 @@ Megapodius freycinet,,2482147,
 Megapodius layardi,,2482139,Banks Is scrub fowl
 Megapodius pritchardii,,2482140,Niuafoou Scrubfowl
 Macronectes giganteus,,2481515,
-Melidectes whitemanensis,,2486980,Bismarck Honeyeater
+Vosea whitemanensis,Melidectes whitemanensis,8384528,
 Meliphagidae,,9319,Honeyeaters
 Vosea whitemanensis,Melidectes whitemanensis,8384528,
 Micropsitta,,2479238,pygmy-parrots
@@ -1266,7 +1266,7 @@ Puffinus pacificus,,5229344,Wedge-tailed Shearwater
 Puffinus lherminieri,,5229361,
 Rallidae,,9342,"Rails, Crakes And Coots"
 Rallina tricolor,,2474482,Red-necked Crake
-Rallus philippensis,,10969953,
+Gallirallus philippensis,Rallus philippensis,2474550,
 Reinwardtoena,,2496029,
 Reinwardtoena browni,,2496036,
 Reinwardtoena crassirostris,,2496030,
@@ -1573,7 +1573,7 @@ Plectropomus maculatus,,5210118,
 Pleuronectidae,,8611,Dabs
 Plotosidae,,5164,Eeltail Catfishes
 Plotosus,,2341900,
-Plotosus anguillaris,,2341909,striped sea catfish
+Plotosus lineatus,Plotosus anguillaris,7965247,
 Plotosus lineatus,,7965247,Striped Eel Catfish
 Polynemidae,,8592,Threadfins
 Polydactylus plebeius,,2393274,
@@ -1664,11 +1664,11 @@ Thryssa baelama,Thrissina baelama,2414136,
 Thunnus albacares,,2374013,Yellowfin Tuna
 Trachinotus botla,Trachinotus russelli,5210646,
 Ulua mentalis,Ulua mandibularis,2391203,
-Valamugil cunnesius,,2400955,longarm mullet
+Osteomugil cunnesius,Valamugil cunnesius,9446723,
 Xiphiidae,,8604,Swordfish and billfishes
 Xiphias gladius,,2397850,
 Zanclidae,,5077,Moorish Idols
-Zanclus canescens,,2374665,
+Zanclus cornutus,Zanclus canescens,2374663,
 Zanclus cornutus,,2374663,
 Zebrasoma veliferum,,2379877,Sailfin Tang
 Anoplura,,5430023,
