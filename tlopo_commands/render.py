@@ -123,6 +123,7 @@ select f.cldf_id as id,
        l.cldf_id as lid, 
        l.is_proto, 
        f.cldf_value as form, 
+       f.Morpheme_Gloss as mg,
        csr.footnote_numbers as fn
 from 
   `cognatesetreferences.csv_FormTable` as csrf 
@@ -225,7 +226,7 @@ where cf.cldf_id = ?
             for (g, cmt, pos, qual), srcs in itertools.groupby(rows, lambda row: row[1:5]):
                 yield (
                     g or '',
-                    (cmt or '').replace('<', '&lt;'),
+                    (cmt or '').replace('<', '&lt;').replace('*', '&ast;'),
                     pos,
                     first_as_html_entity(qual),
                     [(row[-2], row[-1]) for row in srcs if row[-2]])
@@ -248,7 +249,7 @@ order by g.cldf_formReference
 
     def pandoc(input, md):
         subprocess.check_call(shlex.split(
-            'pandoc --metadata title="{}" -s -f markdown -t html5 -c ../../pandoc_book.css {} -o {}/{}.html'.format(
+            'pandoc --metadata title="{}" -s -f markdown -t html5 -c ../pandoc_book.css {} -o {}/{}.html'.format(
                 md['title'], input, input.parent, input.stem)))
 
     out.joinpath('references.md').write_text(render(

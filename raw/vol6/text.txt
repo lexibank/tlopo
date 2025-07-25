@@ -5417,7 +5417,7 @@ POc *papine- ‘♂sister’, ♂female parallel cousin’ (Milke 1958b)
   MM:  Torau             aine-            ‘o.s. sibling’
   MM:  Varisi            vavani-          ‘o.s. sibling’, PGoC, EsGE
   MM:  Roviana           vavene-          ‘♂sister’ (Capell 1943b)
-Proto Southeast Solomonic *vavine- ‘♂sister’
+PSES *vavine- ‘♂sister’
   SES: Bugotu            vavine-          ‘o.s. sibling’ (Bogesi 1948)
   SES: Lengo             vavine-          ‘♂sister’, ♂{PoG}D
   SES: Longgu            vavune-          ‘o.s. sibling’ (Hogbin 1938a)
@@ -5448,7 +5448,7 @@ POc *mʷaqane- ‘♀brother, ♀male parallel cousin’ (?) (Milke 1968; Milke 
   NNG: Bing              mane                ‘o.s. sibling’ (Lincoln 1978)
   NNG: Sepa              mone                ‘elder sibling’ (Z’graggen 1974a)
   NNG: Ali               məne-               ‘mother’s brother’
-Proto Southeast Solomonic *mʷai-mʷane ‘o.s. sibling, cross-sex cross-cousin’
+PSES *mʷai-mʷane ‘o.s. sibling, cross-sex cross-cousin’
   SES: To’aba’ita        wai-waena           ‘o.s. sibling’, PGoC (fossil _-na_)
   SES: Lau               wae-                ‘o.s. sibling’
   SES: Kwara’ae          wai                 ‘mother’s brother’, MZH, FZH, ♂ZC, ♂WBC
@@ -5783,7 +5783,7 @@ PPn *qahawa(n,ŋ)a ‘marry’
 
 <
 PEOc *wati ‘spouse’ (ACD)
-Proto Southeast Solomonic *wati- ‘spouse’
+PSES *wati- ‘spouse’
   SES: Tolo              ati-        ‘spouse’
   SES: To’aba’ita        kʷai-       ‘spouse’
   SES: Kwaio             kʷai-       ‘spouse’
@@ -5913,7 +5913,7 @@ POc *ipaR, *ipa- ‘s.s. sibling-in-law’ (ACD)
   MM: Torau                 ia-                 ‘♀sister-in-law’
   MM: Varisi                iva-                ‘s.s. sibling-in-law’
   MM: Maringe               iva                 ‘spouse’s sibling’ (Bugotu loan)
-Proto Southeast Solomonic *iva- ‘♀sister-in-law, s.s. sibling-in-law’
+PSES *iva- ‘♀sister-in-law, s.s. sibling-in-law’
   SES: Bugotu               iva-                ‘sibling-in-law’ (Ivens 1940)
   SES: To’aba’ita           θa-ifa-             ‘♀husband’s sister’
  SES: Kwaio                ifa-                 ‘sibling-in-law’
@@ -6116,7 +6116,7 @@ languages. In PPn it split into the expected reflex _*fuŋao-na_, but with its m
 
 <
 PEOc *puŋao- ‘parent- or child-in-law’ (Chowning 1991; Milke 1958b: POc _*puŋo_)
-Proto Southeast Solomonic *vuŋao- ‘parent- or child-in-law’
+PSES *vuŋao- ‘parent- or child-in-law’
   SES: Bugotu           vuŋao          ‘parent-in-law’ (Bogesi 1948)
   SES: Lengo            vuŋau-         ‘parent-in-law, ♂child-in-law’, ♂GCE, ♂FZCCE
   SES: To’aba’ita       fuŋao          ‘daughter’s husband’, GDH, ZH, PZH (appears to mean ‘male in-law of any generation’)
@@ -11053,11 +11053,11 @@ distinguishes two kinds: a) the ordinary _akalo_, the ghost of the dead, and b) 
 the wild ghost whose abode is the forest and who is dreaded (p.178). The latter are invoked
 for black magic. In Kwaio the wild ghost is an _adalo kwasi_.
 
-   The first vowel of the Proto Southeast Solomonic form is uncertain, as Gaudalcanal-Gelic languages reflect _*-i-_,
+   The first vowel of the PSES form is uncertain, as Gaudalcanal-Gelic languages reflect _*-i-_,
 but Malaita-Makira languages (which lose _*t-_) reflect _*a-_.
 
 <
-Proto Southeast Solomonic *t(i,a)dalo ‘ghost, spirit’
+PSES *t(i,a)dalo ‘ghost, spirit’
 Proto Guadalcanal-Gelic *tidalo ‘ghost, spirit’
   SES: Gela         tidalo       ‘soul of a distinguished dead man; guardian spirit of the home of the dead; relic of the dead’
   SES: Bugotu       tidaðo       ‘ghost, amulet’
@@ -18079,7 +18079,7 @@ POc *waRa, *waRai- ‘say (s.t.), tell (s.o. to do s.t.)’
  MM:  Ramoaaina       wara-ŋa       (N, VI) ‘call, name’ (nominalisation)
  MM:  Label           wara          ‘speak’
  MM:  Konomala        were-k        ‘speak’
-Proto Southeast Solomonic *waRa- ‘speak’ (Geraghty 1990: 80)
+PSES *waRa- ‘speak’ (Geraghty 1990: 80)
  SES: Lau             kʷala             ‘curse, use bad language, mention human dung’
  SES: Lau             kʷala-ŋi-         ‘curse, swear at’
  SES: Kwaio           kʷala             ‘blame, accusation’
@@ -18221,7 +18221,7 @@ reconstruction, as there is a semantic mismatch between the three MM languages c
 around the St George Channel between southern New Ireland and northeastern New Britain,
 and the Malaita-Makira languages (SES). Reflexes in the St George languages are all glossed
 ‘ask’, whereas those in the Malaita-Makira languages are all report verbs. We are encouraged
-to think that they may reflect Proto Southeast Solomonic _*tili-_ by the fact that the one NCV reflex is also a report
+to think that they may reflect PSES _*tili-_ by the fact that the one NCV reflex is also a report
 verb. This would allow us to reconstruct a POc speech act verb _*tiRi-_, but what exactly would
 it mean?
 
@@ -18367,7 +18367,7 @@ reconstruction.
 POc *suga, *sugai- ‘ask s.o. for .s.t.’
   NNG: Mangap              suŋ                   (VI) ‘ask s.o. for .s.t.’
   MM: Tolai                uge                   ‘agree; sing in tune with s.o.’
-Proto Southeast Solomonic *suga, *sug(a,e)ti- ‘desire (s.t.), ask for (s.t.)’
+PSES *suga, *sug(a,e)ti- ‘desire (s.t.), ask for (s.t.)’
   SES: Gela                huga, hugati          ‘keep talking about a gift’
   SES: Birao               suŋeti-               ‘ask’
   SES: Talise              suge                  ‘ask’
@@ -18638,7 +18638,7 @@ reconstructed, but without Admiralties or WOc reflexes its gloss is uncertain.
 
 <
 PMP *kunu ‘it is said, people say…’ (ACD)
-Proto Southeast Solomonic *kunu ‘gossip, talk negatively about s.o.’
+PSES *kunu ‘gossip, talk negatively about s.o.’
   SES: Gela                kunu, kunuhi-      ‘beg’
   SES: Kwaio               kunu-              ‘gossip about be jealous of; accuse of infidelity’
   SES: Sa’a                ʔunua              ‘say, bid, tell, reckon’
@@ -18963,7 +18963,7 @@ __igt__
 12.7 Conclusion
 
 In the foregoing sections 22 POc speech act verbs have been reconstructed, along with two
-PWOc, six PEOc, four PPn and one each for Proto Southeast Solomonic, PNCV and PCP. In making this count only
+PWOc, six PEOc, four PPn and one each for PSES, PNCV and PCP. In making this count only
 a cognate set’s highest-order reconstruction has been counted. Reconstructions at levels older
 than POc have been ignored.
 
@@ -21397,8 +21397,8 @@ disyllabic forms as a means of disambiguation.
     Another explanation lies in marking the serial/attributive distinction (§14.4). The POc
 proclitic _*sa-_ ‘one’ was clearly attributive, as it was used with classifiers (§14.4.1.1). The
 corresponding serial form was perhaps _*ta-sa_. The serial/attributive distinction can be
-reconstructed with reasonable certainty for two Oceanic subgroups: Proto Southeast Solomonic _*kesa_ ‘one
-(serial)’ (< _*kai-sa_) vs Proto Southeast Solomonic _*sa-kai_ ‘one (attributive)’, and PMic _*tai-sa_ ‘one (serial)’ vs
+reconstructed with reasonable certainty for two Oceanic subgroups: PSES _*kesa_ ‘one
+(serial)’ (< _*kai-sa_) vs PSES _*sa-kai_ ‘one (attributive)’, and PMic _*tai-sa_ ‘one (serial)’ vs
 PMic _*te-_ ‘one (attributive)’ (Bender et al. 2003a).
 
     Reconstructing forms that are monosyllables or are constructed from them (see below)
@@ -21504,7 +21504,7 @@ Proto Bwaidoga *sa-qe-ana ‘one’
   MM: E Kara              saɣa             ‘one’
   TM: Asuboa              saka             ‘one’
   NCal: Xârâgurè          ʃaxā             ‘one’
-Proto Southeast Solomonic *sa-kai ‘one’ (attributive)
+PSES *sa-kai ‘one’ (attributive)
   SES: Bugotu             sikei            ‘one’; ‘any, other’ (ATTRIBUTIVE)
   SES: Lengo              sakai            ‘one’
   SES: Tolo               cika, cikai      ‘one’
@@ -21563,7 +21563,7 @@ _*kai-sa_ ‘one’ (serial)
   MM: Gao                 kahe(ni)         ‘one’
   MM: Maringe             kaise(i)         ‘one’ (ATTRIBUTIVE)
   MM: Maringe             keha             ‘one’ (SERIAL)
-Proto Southeast Solomonic *kesa ‘one’ (serial)
+PSES *kesa ‘one’ (serial)
   SES: Bugotu             keha             ‘one’ (SERIAL)
   SES: Gela               keza             ‘one’
   SES: Ghari              kesa             ‘one’

@@ -44,8 +44,7 @@ The most soundly based reconstruction for sky is POc _&ast;laŋit_ (see also p.1
 <td style="white-space: nowrap;">
 <i>&ast;laŋiC</i>
 </td>
-<td>
-'<span>sky</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
+<td>'<span>sky</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
 </td>
 </tr>
 <tr>
@@ -53,101 +52,82 @@ The most soundly based reconstruction for sky is POc _&ast;laŋit_ (see also p.1
 <td style="white-space: nowrap;">
 <i>&ast;laŋit</i>
 </td>
-<td>
-'<span>sky</span>'</td>
+<td>'<span>sky</span>'</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;laŋit</i>
 </td>
-<td>
-'<span>sky</span>'</td>
+<td>'<span>sky</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/tench">Tench</a></td><td><i>raŋiti</i></td>
-<td>
-'<span>rain</span>'</td>
+<td>Adm</td><td><a href="../languages/tench">Tench</a></td><td style="white-space: nowrap;"><i>raŋiti</i></td>
+<td>'<span>rain</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/titan">Titan</a></td><td><i>laŋ</i></td>
-<td>
-'<span>sky, heaven</span>'</td>
+<td>Adm</td><td><a href="../languages/titan">Titan</a></td><td style="white-space: nowrap;"><i>laŋ</i></td>
+<td>'<span>sky, heaven</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td><i>laŋ</i></td>
-<td>
-'<span>sky, heavens</span>'</td>
+<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td style="white-space: nowrap;"><i>laŋ</i></td>
+<td>'<span>sky, heavens</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/hote">Hote</a></td><td><i>leŋ</i></td>
-<td>
-'<span>heaven, sky; air</span>'</td>
+<td>NNG</td><td><a href="../languages/hote">Hote</a></td><td style="white-space: nowrap;"><i>leŋ</i></td>
+<td>'<span>heaven, sky; air</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/bali">Bali</a></td><td><i>laŋiti</i></td>
-<td>
-'<span>sky</span>'</td>
+<td>MM</td><td><a href="../languages/bali">Bali</a></td><td style="white-space: nowrap;"><i>laŋiti</i></td>
+<td>'<span>sky</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td><i>laŋit</i></td>
-<td>
-'<span>rain</span>'</td>
+<td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td style="white-space: nowrap;"><i>laŋit</i></td>
+<td>'<span>rain</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/nehan">Nehan</a></td><td><i>laŋit</i></td>
-<td>
-'<span>sky</span>'</td>
+<td>MM</td><td><a href="../languages/nehan">Nehan</a></td><td style="white-space: nowrap;"><i>laŋit</i></td>
+<td>'<span>sky</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/halia">Halia</a></td><td><i>laŋic</i></td>
-<td>
-'<span>rain; sky</span>'</td>
+<td>MM</td><td><a href="../languages/halia">Halia</a></td><td style="white-space: nowrap;"><i>laŋic</i></td>
+<td>'<span>rain; sky</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>laŋi</i></td>
-<td>
-'<span>sky, heavens</span>'</td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td style="white-space: nowrap;"><i>laŋi</i></td>
+<td>'<span>sky, heavens</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>raŋi</i></td>
-<td>
-'<span>rain</span>'</td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td style="white-space: nowrap;"><i>raŋi</i></td>
+<td>'<span>rain</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td><i>laŋi</i></td>
-<td>
-'<span>wind</span>'</td>
+<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td style="white-space: nowrap;"><i>laŋi</i></td>
+<td>'<span>wind</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/lewo">Lewo</a></td><td><i>laŋi</i></td>
-<td>
-'<span>wind</span>'</td>
+<td>NCV</td><td><a href="../languages/lewo">Lewo</a></td><td style="white-space: nowrap;"><i>laŋi</i></td>
+<td>'<span>wind</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>laŋ</i></td>
-<td>
-'<span>sky, heavens; weather</span>'</td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td style="white-space: nowrap;"><i>laŋ</i></td>
+<td>'<span>sky, heavens; weather</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>raŋi</i></td>
-<td>
-'<span>sky; typhoon, rainstorm, wind</span>'</td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td style="white-space: nowrap;"><i>raŋi</i></td>
+<td>'<span>sky; typhoon, rainstorm, wind</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>(lomā)laŋi</i></td>
-<td>
-'<span>sky, heavens</span>' (<span><em>loma</em> ‘inside’</span>)</td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td style="white-space: nowrap;"><i>(lomā)laŋi</i></td>
+<td>'<span>sky, heavens</span>' (<span><em>loma</em> ‘inside’</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>laŋi</i></td>
-<td>
-'<span>sky, heavens</span>'</td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td style="white-space: nowrap;"><i>laŋi</i></td>
+<td>'<span>sky, heavens</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>laŋi</i></td>
-<td>
-'<span>sky, heavens</span>'</td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>laŋi</i></td>
+<td>'<span>sky, heavens</span>'</td>
 </tr>
 </table>
 
@@ -172,38 +152,31 @@ The line where sea meets sky is commonly referred to by a compound — either ed
 <td style="white-space: nowrap;">
 <i>&ast;(tafa)tafa-qaki-laŋi, &ast;(tafa)tafa-qi-laŋi</i>
 </td>
-<td>
-'<span>horizon</span>' (<span><em>*tafa</em> ‘side, edge’, <em>laŋi</em> ‘sky’</span>)</td>
+<td>'<span>horizon</span>' (<span><em>&ast;tafa</em> ‘side, edge’, <em>laŋi</em> ‘sky’</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>(tafa)tafa-ʔaki-laŋi</i></td>
-<td>
-</td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td style="white-space: nowrap;"><i>(tafa)tafa-ʔaki-laŋi</i></td>
+<td></td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/eastuvean">East Uvean</a></td><td><i>tafa-ʔaki laŋi</i></td>
-<td>
-'<span>horizon, limit, edge</span>'</td>
+<td>Pn</td><td><a href="../languages/eastuvean">East Uvean</a></td><td style="white-space: nowrap;"><i>tafa-ʔaki laŋi</i></td>
+<td>'<span>horizon, limit, edge</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>tafa-tafa-ʔi-laŋi</i></td>
-<td>
-</td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>tafa-tafa-ʔi-laŋi</i></td>
+<td></td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>taha(a)-raŋi</i></td>
-<td>
-</td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td style="white-space: nowrap;"><i>taha(a)-raŋi</i></td>
+<td></td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>tafa-tafā-raŋi</i></td>
-<td>
-</td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td style="white-space: nowrap;"><i>tafa-tafā-raŋi</i></td>
+<td></td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tokelauan">Tokelauan</a></td><td><i>tafa-tafā-laŋi</i></td>
-<td>
-</td>
+<td>Pn</td><td><a href="../languages/tokelauan">Tokelauan</a></td><td style="white-space: nowrap;"><i>tafa-tafā-laŋi</i></td>
+<td></td>
 </tr>
 </table>
 
@@ -217,29 +190,24 @@ Similarly, PChk _&ast;pai-laŋi_ may be from POc _&ast;baRa_ ‘fence’(see vol
 <td style="white-space: nowrap;">
 <i>&ast;pai-laŋi</i>
 </td>
-<td>
-'<span>horizon</span>' (<a href="../sources/Marck1994">Marck1994</a>)
+<td>'<span>horizon</span>' (<a href="../sources/Marck1994">Marck1994</a>)
 </td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/mortlockese">Mortlockese</a></td><td><i>payiləŋ</i></td>
-<td>
-'<span>horizon</span>'</td>
+<td>Mic</td><td><a href="../languages/mortlockese">Mortlockese</a></td><td style="white-space: nowrap;"><i>payiləŋ</i></td>
+<td>'<span>horizon</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/satawalese">Satawalese</a></td><td><i>ppayileŋ</i></td>
-<td>
-'<span>horizon</span>'</td>
+<td>Mic</td><td><a href="../languages/satawalese">Satawalese</a></td><td style="white-space: nowrap;"><i>ppayileŋ</i></td>
+<td>'<span>horizon</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td><i>(yɔrop) pǣlaŋ </i></td>
-<td>
-'<span>horizon</span>'</td>
+<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td style="white-space: nowrap;"><i>(yɔrop) pǣlaŋ </i></td>
+<td>'<span>horizon</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td><i>(ɔrop)peyiɾeɾ</i></td>
-<td>
-'<span>horizon</span>' (<span><em>ɔroppa</em> + <em>ɾeɾi</em> ‘rim of heaven’</span>)</td>
+<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td style="white-space: nowrap;"><i>(ɔrop)peyiɾeɾ</i></td>
+<td>'<span>horizon</span>' (<span><em>ɔroppa</em> + <em>ɾeɾi</em> ‘rim of heaven’</span>)</td>
 </tr>
 </table>
 
@@ -361,7 +329,7 @@ At its highest point each day the sun is also an accurate indicator of due north
 
 <a id="p-160"></a>
 
-Reconstruction of a POc term for the sun itself is not clearcut. Blust has reconstructed PMP _&ast;qajaw_ or _&ast;qalejaw_ as ‘day’, continued as POc _&ast;qajo_ ‘day’. In this he has revised both the form and meaning of Dempwolff’s (1938) reconstruction PMP _&ast;ha(ŋ)gav_ ‘day, sun’. Here we have opted for ‘sun’ as the primary meaning of POc _&ast;qaco_, and, by extension, ‘daytime’. There is evidence both within and without the Oceanic region that the senses of ‘day/daylight/daytime’ and ‘sun’ were commonly interchanged.
+Reconstruction of a POc term for the sun itself is not clearcut. Blust has reconstructed PMP _&ast;qajaw_ or _&ast;qalejaw_ as ‘day’, continued as POc _&ast;qajo_ ‘day’. In this he has revised both the form and meaning of [Dempwolff’s](../sources/Dempwolff1938) ([1938](../sources/Dempwolff1938)) reconstruction PMP _&ast;ha(ŋ)gav_ ‘day, sun’. Here we have opted for ‘sun’ as the primary meaning of POc _&ast;qaco_, and, by extension, ‘daytime’. There is evidence both within and without the Oceanic region that the senses of ‘day/daylight/daytime’ and ‘sun’ were commonly interchanged.
 
 <table id="2-6-3-None-160-POc-qaco-a">
 <tr>
@@ -369,177 +337,143 @@ Reconstruction of a POc term for the sun itself is not clearcut. Blust has recon
 <td style="white-space: nowrap;">
 <i>&ast;qajaw, &ast;qalejaw</i>
 </td>
-<td>
-'<span>sun, daylight</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>sun, daylight</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 [^9]</td>
 </tr>
 <tr>
-<td>WMP</td><td><a href="../languages/itbayat">Itbayat</a></td><td><i>araw</i></td>
-<td>
-'<span>sun</span>'</td>
+<td>WMP</td><td><a href="../languages/itbayat">Itbayat</a></td><td style="white-space: nowrap;"><i>araw</i></td>
+<td>'<span>sun</span>'</td>
 </tr>
 <tr>
-<td>WMP</td><td><a href="../languages/cham">Cham</a></td><td><i>atdaw</i></td>
-<td>
-'<span>sun</span>'</td>
+<td>WMP</td><td><a href="../languages/cham">Cham</a></td><td style="white-space: nowrap;"><i>atdaw</i></td>
+<td>'<span>sun</span>'</td>
 </tr>
 <tr>
-<td>WMP</td><td><a href="../languages/saban">Saban</a></td><td><i>sieu</i></td>
-<td>
-'<span>day</span>'</td>
+<td>WMP</td><td><a href="../languages/saban">Saban</a></td><td style="white-space: nowrap;"><i>sieu</i></td>
+<td>'<span>day</span>'</td>
 </tr>
 <tr>
-<td>WMP</td><td><a href="../languages/makassarese">Makassarese</a></td><td><i>allo</i></td>
-<td>
-'<span>day; sun (in some expressions)</span>'</td>
+<td>WMP</td><td><a href="../languages/makassarese">Makassarese</a></td><td style="white-space: nowrap;"><i>allo</i></td>
+<td>'<span>day; sun (in some expressions)</span>'</td>
 </tr>
 <tr>
-<td>WMP</td><td><a href="../languages/muna">Muna</a></td><td><i>gholeo</i></td>
-<td>
-'<span>day</span>'</td>
+<td>WMP</td><td><a href="../languages/muna">Muna</a></td><td style="white-space: nowrap;"><i>gholeo</i></td>
+<td>'<span>day</span>'</td>
 </tr>
 <tr>
-<td>CMP</td><td><a href="../languages/bima">Bima</a></td><td><i>liro</i></td>
-<td>
-'<span>sun</span>'</td>
+<td>CMP</td><td><a href="../languages/bima">Bima</a></td><td style="white-space: nowrap;"><i>liro</i></td>
+<td>'<span>sun</span>'</td>
 </tr>
 <tr>
-<td>CMP</td><td><a href="../languages/ngadha">Ngadha</a></td><td><i>leza</i></td>
-<td>
-'<span>sun; day; daylight; daytime; heat of the sun</span>'</td>
+<td>CMP</td><td><a href="../languages/ngadha">Ngadha</a></td><td style="white-space: nowrap;"><i>leza</i></td>
+<td>'<span>sun; day; daylight; daytime; heat of the sun</span>'</td>
 </tr>
 <tr>
-<td>CMP</td><td><a href="../languages/roti">Roti</a></td><td><i>ledo</i></td>
-<td>
-'<span>sun</span>'</td>
+<td>CMP</td><td><a href="../languages/roti">Roti</a></td><td style="white-space: nowrap;"><i>ledo</i></td>
+<td>'<span>sun</span>'</td>
 </tr>
 <tr>
-<td>CMP</td><td><a href="../languages/leti">Leti</a></td><td><i>lera</i></td>
-<td>
-'<span>sun; day</span>'</td>
+<td>CMP</td><td><a href="../languages/leti">Leti</a></td><td style="white-space: nowrap;"><i>lera</i></td>
+<td>'<span>sun; day</span>'</td>
 </tr>
 <tr>
-<td>CMP</td><td><a href="../languages/yamdena">Yamdena</a></td><td><i>lere</i></td>
-<td>
-'<span>sun; day</span>'</td>
+<td>CMP</td><td><a href="../languages/yamdena">Yamdena</a></td><td style="white-space: nowrap;"><i>lere</i></td>
+<td>'<span>sun; day</span>'</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;qaco</i>
 </td>
-<td>
-'<span>sun, daytime</span>'</td>
+<td>'<span>sun, daytime</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/ponam">Ponam</a></td><td><i>al</i></td>
-<td>
-'<span>sun</span>'</td>
+<td>Adm</td><td><a href="../languages/ponam">Ponam</a></td><td style="white-space: nowrap;"><i>al</i></td>
+<td>'<span>sun</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/seimat">Seimat</a></td><td><i>al</i></td>
-<td>
-'<span>sun</span>'</td>
+<td>Adm</td><td><a href="../languages/seimat">Seimat</a></td><td style="white-space: nowrap;"><i>al</i></td>
+<td>'<span>sun</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/bariai">Bariai</a></td><td><i>ado</i></td>
-<td>
-'<span>day, sun</span>'</td>
+<td>NNG</td><td><a href="../languages/bariai">Bariai</a></td><td style="white-space: nowrap;"><i>ado</i></td>
+<td>'<span>day, sun</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td><i>ad</i></td>
-<td>
-'<span>sun</span>'</td>
+<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td style="white-space: nowrap;"><i>ad</i></td>
+<td>'<span>sun</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td><i>ad-ad</i></td>
-<td>
-'<span>daytime</span>'</td>
+<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td style="white-space: nowrap;"><i>ad-ad</i></td>
+<td>'<span>daytime</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/kaiwa">Kaiwa</a></td><td><i>as</i></td>
-<td>
-'<span>daytime</span>'</td>
+<td>NNG</td><td><a href="../languages/kaiwa">Kaiwa</a></td><td style="white-space: nowrap;"><i>as</i></td>
+<td>'<span>daytime</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/molima">Molima</a></td><td><i>ʔasu</i></td>
-<td>
-'<span>sun</span>'</td>
+<td>PT</td><td><a href="../languages/molima">Molima</a></td><td style="white-space: nowrap;"><i>ʔasu</i></td>
+<td>'<span>sun</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td><i>haro</i></td>
-<td>
-'<span>sun; day</span>'</td>
+<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td style="white-space: nowrap;"><i>haro</i></td>
+<td>'<span>sun; day</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td><i>ias</i></td>
-<td>
-'<span>sun</span>'</td>
+<td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td style="white-space: nowrap;"><i>ias</i></td>
+<td>'<span>sun</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td><i>(gan)ias</i></td>
-<td>
-'<span>daytime</span>'</td>
+<td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td style="white-space: nowrap;"><i>(gan)ias</i></td>
+<td>'<span>daytime</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/nalik">Nalik</a></td><td><i>ias</i></td>
-<td>
-'<span>sun</span>'</td>
+<td>MM</td><td><a href="../languages/nalik">Nalik</a></td><td style="white-space: nowrap;"><i>ias</i></td>
+<td>'<span>sun</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td><i>aho</i></td>
-<td>
-'<span>sun</span>'</td>
+<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td style="white-space: nowrap;"><i>aho</i></td>
+<td>'<span>sun</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>aho</i></td>
-<td>
-'<span>sun; good weather; put in the sun; experience good weather</span>'</td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td style="white-space: nowrap;"><i>aho</i></td>
+<td>'<span>sun; good weather; put in the sun; experience good weather</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>sato</i></td>
-<td>
-'<span>sun</span>'</td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td style="white-space: nowrap;"><i>sato</i></td>
+<td>'<span>sun</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td><i>rato</i></td>
-<td>
-'<span>sun, sunshine, no rain, good weather</span>'</td>
+<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>rato</i></td>
+<td>'<span>sun, sunshine, no rain, good weather</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>sato</i></td>
-<td>
-'<span>sun, sunshine, fine weather</span>'</td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>sato</i></td>
+<td>'<span>sun, sunshine, fine weather</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>loa</i></td>
-<td>
-'<span>sun</span>'</td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td style="white-space: nowrap;"><i>loa</i></td>
+<td>'<span>sun</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/lonwolwol">Lonwolwol</a></td><td><i>jal</i></td>
-<td>
-'<span>sun</span>'</td>
+<td>NCV</td><td><a href="../languages/lonwolwol">Lonwolwol</a></td><td style="white-space: nowrap;"><i>jal</i></td>
+<td>'<span>sun</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td><i>ealo</i></td>
-<td>
-'<span>sunshine</span>'</td>
+<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td style="white-space: nowrap;"><i>ealo</i></td>
+<td>'<span>sunshine</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/namakir">Namakir</a></td><td><i>ʔal</i></td>
-<td>
-'<span>sun</span>'</td>
+<td>NCV</td><td><a href="../languages/namakir">Namakir</a></td><td style="white-space: nowrap;"><i>ʔal</i></td>
+<td>'<span>sun</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>alɯ</i></td>
-<td>
-'<span>sun</span>'</td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td style="white-space: nowrap;"><i>alɯ</i></td>
+<td>'<span>sun</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>yaro</i></td>
-<td>
-'<span>sun</span>'</td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td style="white-space: nowrap;"><i>yaro</i></td>
+<td>'<span>sun</span>'</td>
 </tr>
 </table>
 
@@ -554,38 +488,31 @@ Reconstruction of a POc term for the sun itself is not clearcut. Blust has recon
 <td style="white-space: nowrap;">
 <i>&ast;qaso</i>
 </td>
-<td>
-'<span>day, as period of time</span>'</td>
+<td>'<span>day, as period of time</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>ʔaho</i></td>
-<td>
-[N] '<span>day</span>'; [V] '<span>be day or daylight</span>'</td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td style="white-space: nowrap;"><i>ʔaho</i></td>
+<td>[N] '<span>day</span>'; [V] '<span>be day or daylight</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>ʔaso</i></td>
-<td>
-'<span>time, day, season</span>'</td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td style="white-space: nowrap;"><i>ʔaso</i></td>
+<td>'<span>time, day, season</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>aso</i></td>
-<td>
-'<span>day</span>'</td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>aso</i></td>
+<td>'<span>day</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tokelauan">Tokelauan</a></td><td><i>aso</i></td>
-<td>
-'<span>day</span>'</td>
+<td>Pn</td><td><a href="../languages/tokelauan">Tokelauan</a></td><td style="white-space: nowrap;"><i>aso</i></td>
+<td>'<span>day</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tuvalu">Tuvalu</a></td><td><i>aho</i></td>
-<td>
-'<span>day (as time span)</span>'</td>
+<td>Pn</td><td><a href="../languages/tuvalu">Tuvalu</a></td><td style="white-space: nowrap;"><i>aho</i></td>
+<td>'<span>day (as time span)</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>aso</i></td>
-<td>
-'<span>day (as time span)</span>'</td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td style="white-space: nowrap;"><i>aso</i></td>
+<td>'<span>day (as time span)</span>'</td>
 </tr>
 </table>
 
@@ -599,33 +526,27 @@ Proto Nuclear Polynesian shows a split between _&ast;qaso_ ‘day, as a period o
 <td style="white-space: nowrap;">
 <i>&ast;qaho</i>
 </td>
-<td>
-'<span>daytime, daylight</span>'</td>
+<td>'<span>daytime, daylight</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>ao</i></td>
-<td>
-'<span>day (contrasted with night); daylight</span>'</td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>ao</i></td>
+<td>'<span>day (contrasted with night); daylight</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>ʔao</i></td>
-<td>
-[N] '<span>day, daylight</span>'; [V] '<span>be daylight</span>'</td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td style="white-space: nowrap;"><i>ʔao</i></td>
+<td>[N] '<span>day, daylight</span>'; [V] '<span>be daylight</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/rarotongan">Rarotongan</a></td><td><i>ao</i></td>
-<td>
-'<span>day, daylight, dawn; world</span>'</td>
+<td>Pn</td><td><a href="../languages/rarotongan">Rarotongan</a></td><td style="white-space: nowrap;"><i>ao</i></td>
+<td>'<span>day, daylight, dawn; world</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>ao</i></td>
-<td>
-'<span>daylight</span>'</td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td style="white-space: nowrap;"><i>ao</i></td>
+<td>'<span>daylight</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>ao</i></td>
-<td>
-[N] '<span>daytime as opposed to night</span>'; [VI] '<span>dawn, become day</span>'</td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td style="white-space: nowrap;"><i>ao</i></td>
+<td>[N] '<span>daytime as opposed to night</span>'; [VI] '<span>dawn, become day</span>'</td>
 </tr>
 </table>
 
@@ -637,8 +558,7 @@ Proto Nuclear Polynesian shows a split between _&ast;qaso_ ‘day, as a period o
 <td style="white-space: nowrap;">
 <i>&ast;daqaNi</i>
 </td>
-<td>
-'<span>day</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>day</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -646,173 +566,139 @@ Proto Nuclear Polynesian shows a split between _&ast;qaso_ ‘day, as a period o
 <td style="white-space: nowrap;">
 <i>&ast;raqani</i>
 </td>
-<td>
-'<span>daytime, daylight</span>'</td>
+<td>'<span>daytime, daylight</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/ponam">Ponam</a></td><td><i>ran</i></td>
-<td>
-'<span>day</span>'</td>
+<td>Adm</td><td><a href="../languages/ponam">Ponam</a></td><td style="white-space: nowrap;"><i>ran</i></td>
+<td>'<span>day</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/drehet">Drehet</a></td><td><i>laŋ</i></td>
-<td>
-'<span>daytime</span>'</td>
+<td>Adm</td><td><a href="../languages/drehet">Drehet</a></td><td style="white-space: nowrap;"><i>laŋ</i></td>
+<td>'<span>daytime</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/yabem">Yabem</a></td><td><i>-lɛŋ</i></td>
-<td>
-'<span>be daytime</span>'</td>
+<td>NNG</td><td><a href="../languages/yabem">Yabem</a></td><td style="white-space: nowrap;"><i>-lɛŋ</i></td>
+<td>'<span>be daytime</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/kilivila">Kilivila</a></td><td><i>yam</i></td>
-<td>
-'<span>daytime</span>'</td>
+<td>PT</td><td><a href="../languages/kilivila">Kilivila</a></td><td style="white-space: nowrap;"><i>yam</i></td>
+<td>'<span>daytime</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/sinaugoro">Sinaugoro</a></td><td><i>laɣani</i></td>
-<td>
-'<span>daytime</span>'</td>
+<td>PT</td><td><a href="../languages/sinaugoro">Sinaugoro</a></td><td style="white-space: nowrap;"><i>laɣani</i></td>
+<td>'<span>daytime</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>rani</i></td>
-<td>
-'<span>daytime</span>'</td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td style="white-space: nowrap;"><i>rani</i></td>
+<td>'<span>daytime</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/nalik">Nalik</a></td><td><i>ran</i></td>
-<td>
-'<span>daytime</span>'</td>
+<td>MM</td><td><a href="../languages/nalik">Nalik</a></td><td style="white-space: nowrap;"><i>ran</i></td>
+<td>'<span>daytime</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/petats">Petats</a></td><td><i>len</i></td>
-<td>
-'<span>daytime</span>'</td>
+<td>MM</td><td><a href="../languages/petats">Petats</a></td><td style="white-space: nowrap;"><i>len</i></td>
+<td>'<span>daytime</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/halia">Halia</a></td><td><i>lan</i></td>
-<td>
-'<span>daytime</span>'</td>
+<td>MM</td><td><a href="../languages/halia">Halia</a></td><td style="white-space: nowrap;"><i>lan</i></td>
+<td>'<span>daytime</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/uruava">Uruava</a></td><td><i>rani</i></td>
-<td>
-'<span>daytime</span>'</td>
+<td>MM</td><td><a href="../languages/uruava">Uruava</a></td><td style="white-space: nowrap;"><i>rani</i></td>
+<td>'<span>daytime</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td><i>rane</i></td>
-<td>
-'<span>day</span>'</td>
+<td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td style="white-space: nowrap;"><i>rane</i></td>
+<td>'<span>day</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/maringe">Maringe</a></td><td><i>na-rane</i></td>
-<td>
-'<span>day</span>'</td>
+<td>MM</td><td><a href="../languages/maringe">Maringe</a></td><td style="white-space: nowrap;"><i>na-rane</i></td>
+<td>'<span>day</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td><i>dani</i></td>
-<td>
-'<span>morning, daylight</span>'</td>
+<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td style="white-space: nowrap;"><i>dani</i></td>
+<td>'<span>morning, daylight</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>dani</i></td>
-<td>
-'<span>day, daylight</span>'</td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td style="white-space: nowrap;"><i>dani</i></td>
+<td>'<span>day, daylight</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>dani</i></td>
-<td>
-'<span>day, daylight</span>'</td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td style="white-space: nowrap;"><i>dani</i></td>
+<td>'<span>day, daylight</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>dani, daŋi</i></td>
-<td>
-'<span>daylight</span>' (<span><em>ŋ</em> for <em>n</em> unexplained</span>)</td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>dani, daŋi</i></td>
+<td>'<span>daylight</span>' (<span><em>ŋ</em> for <em>n</em> unexplained</span>)</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>dani, daŋi</i></td>
-<td>
-'<span>day</span>' (<span><em>ŋ</em> for <em>n</em> unexplained</span>)</td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td style="white-space: nowrap;"><i>dani, daŋi</i></td>
+<td>'<span>day</span>' (<span><em>ŋ</em> for <em>n</em> unexplained</span>)</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td><i>tani</i></td>
-<td>
-'<span>daylight</span>'</td>
+<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>tani</i></td>
+<td>'<span>daylight</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>daŋi</i></td>
-<td>
-'<span>daylight, day</span>' (<span><em>ŋ</em> for <em>n</em> unexplained</span>)</td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td style="white-space: nowrap;"><i>daŋi</i></td>
+<td>'<span>daylight, day</span>' (<span><em>ŋ</em> for <em>n</em> unexplained</span>)</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>(ma)ran</i></td>
-<td>
-'<span>light, daylight, morning, day; be light; tomorrow’s light; the morrow</span>'</td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td style="white-space: nowrap;"><i>(ma)ran</i></td>
+<td>'<span>light, daylight, morning, day; be light; tomorrow’s light; the morrow</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td><i>rani</i></td>
-<td>
-'<span>day, light, become day; morning</span>'</td>
+<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td style="white-space: nowrap;"><i>rani</i></td>
+<td>'<span>day, light, become day; morning</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td><i>(ma)rani</i></td>
-<td>
-'<span>morning light</span>'</td>
+<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td style="white-space: nowrap;"><i>(ma)rani</i></td>
+<td>'<span>morning light</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/tamambo">Tamambo</a></td><td><i>rani</i></td>
-<td>
-'<span>daylight</span>'</td>
+<td>NCV</td><td><a href="../languages/tamambo">Tamambo</a></td><td style="white-space: nowrap;"><i>rani</i></td>
+<td>'<span>daylight</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/bignambas">Big Nambas</a></td><td><i>na-ran</i></td>
-<td>
-'<span>daytime</span>'</td>
+<td>NCV</td><td><a href="../languages/bignambas">Big Nambas</a></td><td style="white-space: nowrap;"><i>na-ran</i></td>
+<td>'<span>daytime</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/lonwolwol">Lonwolwol</a></td><td><i>ren</i></td>
-<td>
-'<span>be light (of sky, weather etc.); weather, light, daylight</span>'</td>
+<td>NCV</td><td><a href="../languages/lonwolwol">Lonwolwol</a></td><td style="white-space: nowrap;"><i>ren</i></td>
+<td>'<span>be light (of sky, weather etc.); weather, light, daylight</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td><i>lani</i></td>
-<td>
-'<span>daybreak</span>'</td>
+<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td style="white-space: nowrap;"><i>lani</i></td>
+<td>'<span>daybreak</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/lenakel">Lenakel</a></td><td><i>n-ian</i></td>
-<td>
-'<span>day</span>'</td>
+<td>SV</td><td><a href="../languages/lenakel">Lenakel</a></td><td style="white-space: nowrap;"><i>n-ian</i></td>
+<td>'<span>day</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/kwamera">Kwamera</a></td><td><i>(ia)ran</i></td>
-<td>
-'<span>day</span>'</td>
+<td>SV</td><td><a href="../languages/kwamera">Kwamera</a></td><td style="white-space: nowrap;"><i>(ia)ran</i></td>
+<td>'<span>day</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>ṛɯān</i></td>
-<td>
-'<span>day, date</span>'</td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td style="white-space: nowrap;"><i>ṛɯān</i></td>
+<td>'<span>day, date</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/ponapean">Ponapean</a></td><td><i>rān</i></td>
-<td>
-'<span>day</span>'</td>
+<td>Mic</td><td><a href="../languages/ponapean">Ponapean</a></td><td style="white-space: nowrap;"><i>rān</i></td>
+<td>'<span>day</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td><i>rǣn</i></td>
-<td>
-'<span>day</span>'</td>
+<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td style="white-space: nowrap;"><i>rǣn</i></td>
+<td>'<span>day</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>ẓan</i></td>
-<td>
-'<span>day, date</span>'</td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td style="white-space: nowrap;"><i>ẓan</i></td>
+<td>'<span>day, date</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>raŋi</i></td>
-<td>
-'<span>day, as period of time</span>' (<span><em>ŋ</em> for <em>n</em> unexplained</span>)</td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td style="white-space: nowrap;"><i>raŋi</i></td>
+<td>'<span>day, as period of time</span>' (<span><em>ŋ</em> for <em>n</em> unexplained</span>)</td>
 </tr>
 </table>
 
@@ -831,124 +717,101 @@ The preceding cognate set may ultimately be connected with the following one. Ho
 <td style="white-space: nowrap;">
 <i>&ast;[dr,r]aqā</i>
 </td>
-<td>
-[N] '<span>sun’s heat, sunlight</span>'; [VI] '<span>(sun) shine, be hot, be bright</span>'</td>
+<td>[N] '<span>sun’s heat, sunlight</span>'; [VI] '<span>(sun) shine, be hot, be bright</span>'</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;[dr,r]aqa-ŋi</i>
 </td>
-<td>
-[VT] '<span>shine on</span>'</td>
+<td>[VT] '<span>shine on</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/maposbuang">Mapos Buang</a></td><td><i>rŋ(ah)</i></td>
-<td>
-'<span>daytime</span>'[^10]</td>
+<td>NNG</td><td><a href="../languages/maposbuang">Mapos Buang</a></td><td style="white-space: nowrap;"><i>rŋ(ah)</i></td>
+<td>'<span>daytime</span>'[^10]</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>rarai(a)</i></td>
-<td>
-[VT] '<span>shine, of sun and moon</span>'</td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td style="white-space: nowrap;"><i>rarai(a)</i></td>
+<td>[VT] '<span>shine, of sun and moon</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td><i>gan(ias)</i></td>
-<td>
-'<span>daytime</span>'</td>
+<td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td style="white-space: nowrap;"><i>gan(ias)</i></td>
+<td>'<span>daytime</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td><i>raŋi</i></td>
-<td>
-[VI] '<span>shine, of sun</span>'</td>
+<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td style="white-space: nowrap;"><i>raŋi</i></td>
+<td>[VI] '<span>shine, of sun</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>rā</i></td>
-<td>
-'<span>sunlight</span>'</td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td style="white-space: nowrap;"><i>rā</i></td>
+<td>'<span>sunlight</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>rara</i></td>
-<td>
-[VI] '<span>shine, be hot, warm</span>'</td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td style="white-space: nowrap;"><i>rara</i></td>
+<td>[VI] '<span>shine, be hot, warm</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>raraŋi</i></td>
-<td>
-[VT] '<span>shine upon</span>'</td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td style="white-space: nowrap;"><i>raraŋi</i></td>
+<td>[VT] '<span>shine upon</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td><i>rārā</i></td>
-<td>
-'<span>scorch, singe, of sun and fire</span>'</td>
+<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>rārā</i></td>
+<td>'<span>scorch, singe, of sun and fire</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>rā, rārā</i></td>
-<td>
-[V] '<span>shine brightly</span>'; [N] '<span>the sun’s light, radiance</span>'</td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>rā, rārā</i></td>
+<td>[V] '<span>shine brightly</span>'; [N] '<span>the sun’s light, radiance</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>rā</i></td>
-<td>
-[V] '<span>be hot, bright; shine</span>'</td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td style="white-space: nowrap;"><i>rā</i></td>
+<td>[V] '<span>be hot, bright; shine</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>rārā(na)</i></td>
-<td>
-[N] '<span>sunshine, heat of sun or fire</span>'; [VI] '<span>shine, be hot</span>'</td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td style="white-space: nowrap;"><i>rārā(na)</i></td>
+<td>[N] '<span>sunshine, heat of sun or fire</span>'; [VI] '<span>shine, be hot</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>rāŋi</i></td>
-<td>
-[VT] '<span>shine on</span>'</td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td style="white-space: nowrap;"><i>rāŋi</i></td>
+<td>[VT] '<span>shine on</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>drā</i></td>
-<td>
-[VI] '<span>(sun, moon, star) shine</span>'</td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td style="white-space: nowrap;"><i>drā</i></td>
+<td>[VI] '<span>(sun, moon, star) shine</span>'</td>
 </tr>
 <tr>
 <td><strong>PPn</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;laqā</i>
 </td>
-<td>
-'<span>sun</span>'</td>
+<td>'<span>sun</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>laʔā</i></td>
-<td>
-[N] '<span>sun</span>'; [VI] '<span>be sunny</span>'</td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td style="white-space: nowrap;"><i>laʔā</i></td>
+<td>[N] '<span>sun</span>'; [VI] '<span>be sunny</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>laā</i></td>
-<td>
-'<span>sun</span>'</td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td style="white-space: nowrap;"><i>laā</i></td>
+<td>'<span>sun</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>lā</i></td>
-<td>
-'<span>sun</span>'</td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>lā</i></td>
+<td>'<span>sun</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>gaʔā</i></td>
-<td>
-[N] '<span>sun</span>'; [V] '<span>sun, sunbathe, dry in the sun</span>'</td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td style="white-space: nowrap;"><i>gaʔā</i></td>
+<td>[N] '<span>sun</span>'; [V] '<span>sun, sunbathe, dry in the sun</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>rā</i></td>
-<td>
-'<span>sun</span>'</td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td style="white-space: nowrap;"><i>rā</i></td>
+<td>'<span>sun</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tahitian">Tahitian</a></td><td><i>rā</i></td>
-<td>
-'<span>sun</span>'</td>
+<td>Pn</td><td><a href="../languages/tahitian">Tahitian</a></td><td style="white-space: nowrap;"><i>rā</i></td>
+<td>'<span>sun</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/rapanui">Rapanui</a></td><td><i>ra</i></td>
-<td>
-'<span>sun</span>'</td>
+<td>Pn</td><td><a href="../languages/rapanui">Rapanui</a></td><td style="white-space: nowrap;"><i>ra</i></td>
+<td>'<span>sun</span>'</td>
 </tr>
 </table>
 
@@ -967,106 +830,86 @@ The following set focuses on effects of the sun’s heat as opposed to its light
 <td style="white-space: nowrap;">
 <i>&ast;raraŋ</i>
 </td>
-<td>
-[VI] '<span>be warm, hot, of sun; be warmed or heated by fire or sun</span>'</td>
+<td>[VI] '<span>be warm, hot, of sun; be warmed or heated by fire or sun</span>'</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;[ra]raŋ-i</i>
 </td>
-<td>
-[VT] '<span>warm, dry s.o., s.t. by sun or fire</span>'</td>
+<td>[VT] '<span>warm, dry s.o., s.t. by sun or fire</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/molima">Molima</a></td><td><i>lala</i></td>
-<td>
-'<span>wilt leaves over a fire</span>'</td>
+<td>PT</td><td><a href="../languages/molima">Molima</a></td><td style="white-space: nowrap;"><i>lala</i></td>
+<td>'<span>wilt leaves over a fire</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td><i>raŋ, raraŋ</i></td>
-<td>
-[VT] '<span>scorch, dry, warm, by sun or fire</span>'</td>
+<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td style="white-space: nowrap;"><i>raŋ, raraŋ</i></td>
+<td>[VT] '<span>scorch, dry, warm, by sun or fire</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td><i>raraŋi</i></td>
-<td>
-[VT] '<span>heat</span>'</td>
+<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td style="white-space: nowrap;"><i>raraŋi</i></td>
+<td>[VT] '<span>heat</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/tolo">Tolo</a></td><td><i>raŋi-</i></td>
-<td>
-'<span>warm or dry s.t. on the fire</span>'</td>
+<td>SES</td><td><a href="../languages/tolo">Tolo</a></td><td style="white-space: nowrap;"><i>raŋi-</i></td>
+<td>'<span>warm or dry s.t. on the fire</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td><i>rara</i></td>
-<td>
-[VI] '<span>be warm, hot, of sun</span>'</td>
+<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>rara</i></td>
+<td>[VI] '<span>be warm, hot, of sun</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td><i>rarani-</i></td>
-<td>
-'<span>warm oneself by fire or sun</span>'</td>
+<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>rarani-</i></td>
+<td>'<span>warm oneself by fire or sun</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>rara</i></td>
-<td>
-'<span>dry before a fire</span>'</td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td style="white-space: nowrap;"><i>rara</i></td>
+<td>'<span>dry before a fire</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>ṛɯaŋ-ṛɯaŋ</i></td>
-<td>
-'<span>warm oneself by the fire</span>'</td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td style="white-space: nowrap;"><i>ṛɯaŋ-ṛɯaŋ</i></td>
+<td>'<span>warm oneself by the fire</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>c̣aŋ</i></td>
-<td>
-'<span>get warmed up near fire</span>'</td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td style="white-space: nowrap;"><i>c̣aŋ</i></td>
+<td>'<span>get warmed up near fire</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td><i>rara</i></td>
-<td>
-'<span>warm (self or child) by the fire</span>'</td>
+<td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td style="white-space: nowrap;"><i>rara</i></td>
+<td>'<span>warm (self or child) by the fire</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>rara</i></td>
-<td>
-[VI] '<span>(patient subject) heated, warmed</span>'; '<span>(pot) fired, baked</span>'; '<span>(fish) smoked</span>'</td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td style="white-space: nowrap;"><i>rara</i></td>
+<td>[VI] '<span>(patient subject) heated, warmed</span>'; '<span>(pot) fired, baked</span>'; '<span>(fish) smoked</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>rarani</i></td>
-<td>
-[VT] '<span>warm s.t.</span>' (<span>n for exp. ŋ</span>)</td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td style="white-space: nowrap;"><i>rarani</i></td>
+<td>[VT] '<span>warm s.t.</span>' (<span>n for exp. ŋ</span>)</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>rara</i></td>
-<td>
-[VI] '<span>warm oneself at a fire</span>'</td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td style="white-space: nowrap;"><i>rara</i></td>
+<td>[VI] '<span>warm oneself at a fire</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>raraŋ-</i></td>
-<td>
-[VT] '<span>reheat food by a fire, sear banana leaves</span>'</td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td style="white-space: nowrap;"><i>raraŋ-</i></td>
+<td>[VT] '<span>reheat food by a fire, sear banana leaves</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>ā</i></td>
-<td>
-'<span>heat (sticks or leaves) over a fire</span>'</td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td style="white-space: nowrap;"><i>ā</i></td>
+<td>'<span>heat (sticks or leaves) over a fire</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/eastfutunan">East Futunan</a></td><td><i>lala</i></td>
-<td>
-'<span>smoke fish</span>'</td>
+<td>Pn</td><td><a href="../languages/eastfutunan">East Futunan</a></td><td style="white-space: nowrap;"><i>lala</i></td>
+<td>'<span>smoke fish</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>gaga</i></td>
-<td>
-'<span>smoke, as fish on a fire; warm, as hands over a fire</span>'</td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td style="white-space: nowrap;"><i>gaga</i></td>
+<td>'<span>smoke, as fish on a fire; warm, as hands over a fire</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/rarotongan">Rarotongan</a></td><td><i>rara</i></td>
-<td>
-'<span>dry (leaves) in sun, dry over a fire; smoke fish over a fire</span>'</td>
+<td>Pn</td><td><a href="../languages/rarotongan">Rarotongan</a></td><td style="white-space: nowrap;"><i>rara</i></td>
+<td>'<span>dry (leaves) in sun, dry over a fire; smoke fish over a fire</span>'</td>
 </tr>
 </table>
 
@@ -1080,8 +923,7 @@ Yet another contender for the POc term for sun is _&ast;sinaR_, which Blust (199
 <td style="white-space: nowrap;">
 <i>&ast;sinaR</i>
 </td>
-<td>
-'<span>ray of light</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
+<td>'<span>ray of light</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
 </td>
 </tr>
 <tr>
@@ -1089,103 +931,83 @@ Yet another contender for the POc term for sun is _&ast;sinaR_, which Blust (199
 <td style="white-space: nowrap;">
 <i>&ast;sinaR</i>
 </td>
-<td>
-[V] '<span>shine</span>'; [N] '<span>sun</span>'</td>
+<td>[V] '<span>shine</span>'; [N] '<span>sun</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td><i>sinaka</i></td>
-<td>
-'<span>sun</span>'[^11]</td>
+<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td style="white-space: nowrap;"><i>sinaka</i></td>
+<td>'<span>sun</span>'[^11]</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/tench">Tench</a></td><td><i>sinaka</i></td>
-<td>
-'<span>sun</span>'[^11]</td>
+<td>Adm</td><td><a href="../languages/tench">Tench</a></td><td style="white-space: nowrap;"><i>sinaka</i></td>
+<td>'<span>sun</span>'[^11]</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/lou">Lou</a></td><td><i>sinsin</i></td>
-<td>
-'<span>sun</span>'</td>
+<td>Adm</td><td><a href="../languages/lou">Lou</a></td><td style="white-space: nowrap;"><i>sinsin</i></td>
+<td>'<span>sun</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>dina</i></td>
-<td>
-'<span>sun; day</span>'</td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td style="white-space: nowrap;"><i>dina</i></td>
+<td>'<span>sun; day</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/lavongai">Lavongai</a></td><td><i>sinaŋ</i></td>
-<td>
-[N] '<span>sun</span>'; [V] '<span>(sun) shine</span>'</td>
+<td>MM</td><td><a href="../languages/lavongai">Lavongai</a></td><td style="white-space: nowrap;"><i>sinaŋ</i></td>
+<td>[N] '<span>sun</span>'; [V] '<span>(sun) shine</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td><i>siŋan</i></td>
-<td>
-[V] '<span>(sun) shine</span>' (<span>metathesis</span>)</td>
+<td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td style="white-space: nowrap;"><i>siŋan</i></td>
+<td>[V] '<span>(sun) shine</span>' (<span>metathesis</span>)</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>sina</i></td>
-<td>
-'<span>shine, give light</span>'</td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td style="white-space: nowrap;"><i>sina</i></td>
+<td>'<span>shine, give light</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>sina</i></td>
-<td>
-'<span>sun</span>'</td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td style="white-space: nowrap;"><i>sina</i></td>
+<td>'<span>sun</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td><i>sina</i></td>
-<td>
-[V] '<span>shine, brighten</span>'; [N] '<span>light, brightness</span>'</td>
+<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>sina</i></td>
+<td>[V] '<span>shine, brighten</span>'; [N] '<span>light, brightness</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>sineli</i></td>
-<td>
-'<span>shine</span>'</td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>sineli</i></td>
+<td>'<span>shine</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>sina</i></td>
-<td>
-'<span>sun</span>'</td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td style="white-space: nowrap;"><i>sina</i></td>
+<td>'<span>sun</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>siŋa</i></td>
-<td>
-'<span>shine</span>'</td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td style="white-space: nowrap;"><i>siŋa</i></td>
+<td>'<span>shine</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td><i>ttira</i></td>
-<td>
-[V] '<span>shine</span>'; [N] '<span>ray, brightness, beam</span>'</td>
+<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td style="white-space: nowrap;"><i>ttira</i></td>
+<td>[V] '<span>shine</span>'; [N] '<span>ray, brightness, beam</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td><i>tin</i></td>
-<td>
-'<span>shine, as the sun</span>'</td>
+<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td style="white-space: nowrap;"><i>tin</i></td>
+<td>'<span>shine, as the sun</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/mortlockese">Mortlockese</a></td><td><i>tin, tina-</i></td>
-<td>
-'<span>shine: used for fire, moon, lantern</span>'</td>
+<td>Mic</td><td><a href="../languages/mortlockese">Mortlockese</a></td><td style="white-space: nowrap;"><i>tin, tina-</i></td>
+<td>'<span>shine: used for fire, moon, lantern</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/satawalese">Satawalese</a></td><td><i>ttin</i></td>
-<td>
-[V] '<span>shine</span>'; [N] '<span>ray, brightness, beam</span>'</td>
+<td>Mic</td><td><a href="../languages/satawalese">Satawalese</a></td><td style="white-space: nowrap;"><i>ttin</i></td>
+<td>[V] '<span>shine</span>'; [N] '<span>ray, brightness, beam</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td><i>sina</i></td>
-<td>
-'<span>light, lamp, star</span>'</td>
+<td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td style="white-space: nowrap;"><i>sina</i></td>
+<td>'<span>light, lamp, star</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>siŋa</i></td>
-<td>
-'<span>day, daylight, sun</span>'</td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td style="white-space: nowrap;"><i>siŋa</i></td>
+<td>'<span>day, daylight, sun</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>ðina</i></td>
-<td>
-'<span>lamp, torch</span>'</td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td style="white-space: nowrap;"><i>ðina</i></td>
+<td>'<span>lamp, torch</span>'</td>
 </tr>
 </table>
 
@@ -1202,38 +1024,31 @@ Building on its ‘shine’ meaning, POc _&ast;sinaR_ has given rise to a number
 <td style="white-space: nowrap;">
 <i>&ast;mā-sina</i>
 </td>
-<td>
-'<span>moon, month</span>'</td>
+<td>'<span>moon, month</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>māsina</i></td>
-<td>
-'<span>moon, month</span>'</td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td style="white-space: nowrap;"><i>māsina</i></td>
+<td>'<span>moon, month</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>māhina</i></td>
-<td>
-'<span>moon, month</span>'</td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td style="white-space: nowrap;"><i>māhina</i></td>
+<td>'<span>moon, month</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>māsina</i></td>
-<td>
-'<span>moon, month</span>'</td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>māsina</i></td>
+<td>'<span>moon, month</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/eastfutunan">East Futunan</a></td><td><i>māsina</i></td>
-<td>
-'<span>moon, month</span>'</td>
+<td>Pn</td><td><a href="../languages/eastfutunan">East Futunan</a></td><td style="white-space: nowrap;"><i>māsina</i></td>
+<td>'<span>moon, month</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/eastuvean">East Uvean</a></td><td><i>māhina</i></td>
-<td>
-'<span>moon, month</span>'</td>
+<td>Pn</td><td><a href="../languages/eastuvean">East Uvean</a></td><td style="white-space: nowrap;"><i>māhina</i></td>
+<td>'<span>moon, month</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>māhina</i></td>
-<td>
-'<span>moon, month</span>'</td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td style="white-space: nowrap;"><i>māhina</i></td>
+<td>'<span>moon, month</span>'</td>
 </tr>
 </table>
 
@@ -1253,8 +1068,7 @@ The moon is of little value as a navigational aid. Its typical role is as a mark
 <td style="white-space: nowrap;">
 <i>&ast;bulaN</i>
 </td>
-<td>
-'<span>moon, month, menstruation</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>moon, month, menstruation</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -1262,8 +1076,7 @@ The moon is of little value as a navigational aid. Its typical role is as a mark
 <td style="white-space: nowrap;">
 <i>&ast;bulan</i>
 </td>
-<td>
-'<span>moon, month; menstruation</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
+<td>'<span>moon, month; menstruation</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
 </td>
 </tr>
 <tr>
@@ -1271,104 +1084,84 @@ The moon is of little value as a navigational aid. Its typical role is as a mark
 <td style="white-space: nowrap;">
 <i>&ast;pulan</i>
 </td>
-<td>
-'<span>moon, month</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>moon, month</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/lou">Lou</a></td><td><i>pulan</i></td>
-<td>
-'<span>moon</span>'</td>
+<td>Adm</td><td><a href="../languages/lou">Lou</a></td><td style="white-space: nowrap;"><i>pulan</i></td>
+<td>'<span>moon</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td><i>ulana</i></td>
-<td>
-'<span>moon</span>'</td>
+<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td style="white-space: nowrap;"><i>ulana</i></td>
+<td>'<span>moon</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/kove">Kove</a></td><td><i>pula</i></td>
-<td>
-'<span>rise, shine, of sun, moon, stars</span>' (<span>Chowning</span>)</td>
+<td>NNG</td><td><a href="../languages/kove">Kove</a></td><td style="white-space: nowrap;"><i>pula</i></td>
+<td>'<span>rise, shine, of sun, moon, stars</span>' (<span>Chowning</span>)</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>hua</i></td>
-<td>
-'<span>moon, month</span>'</td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td style="white-space: nowrap;"><i>hua</i></td>
+<td>'<span>moon, month</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td><i>ulan</i></td>
-<td>
-'<span>moon</span>'</td>
+<td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td style="white-space: nowrap;"><i>ulan</i></td>
+<td>'<span>moon</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td><i>vula</i></td>
-<td>
-'<span>moon, month</span>'</td>
+<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td style="white-space: nowrap;"><i>vula</i></td>
+<td>'<span>moon, month</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>vula</i></td>
-<td>
-'<span>moon, month</span>'</td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td style="white-space: nowrap;"><i>vula</i></td>
+<td>'<span>moon, month</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>fula</i></td>
-<td>
-'<span>the moon (but only in naming a month)</span>'</td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td style="white-space: nowrap;"><i>fula</i></td>
+<td>'<span>the moon (but only in naming a month)</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>fula</i></td>
-<td>
-'<span>moon (mainly in compounds)</span>'</td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td style="white-space: nowrap;"><i>fula</i></td>
+<td>'<span>moon (mainly in compounds)</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>fula(bala)</i></td>
-<td>
-'<span>full moon, night when it is light from moonrise to dawn</span>'</td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td style="white-space: nowrap;"><i>fula(bala)</i></td>
+<td>'<span>full moon, night when it is light from moonrise to dawn</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>fula(ʔalo)</i></td>
-<td>
-'<span>rainbow</span>'</td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td style="white-space: nowrap;"><i>fula(ʔalo)</i></td>
+<td>'<span>rainbow</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>hule</i></td>
-<td>
-'<span>phases of the moon; full moon</span>'</td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>hule</i></td>
+<td>'<span>phases of the moon; full moon</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>hule i lade</i></td>
-<td>
-'<span>name of a month, July</span>'</td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>hule i lade</i></td>
+<td>'<span>name of a month, July</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/ulawa">Ulawa</a></td><td><i>hula(ahola)</i></td>
-<td>
-'<span>six nights of the moon’s course, including the full moon and two nights each way</span>'</td>
+<td>SES</td><td><a href="../languages/ulawa">Ulawa</a></td><td style="white-space: nowrap;"><i>hula(ahola)</i></td>
+<td>'<span>six nights of the moon’s course, including the full moon and two nights each way</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td><i>hura</i></td>
-<td>
-'<span>moon, lunar month</span>'</td>
+<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>hura</i></td>
+<td>'<span>moon, lunar month</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td><i>hura(ʔaro)</i></td>
-<td>
-'<span>rainbow</span>'</td>
+<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>hura(ʔaro)</i></td>
+<td>'<span>rainbow</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>hura</i></td>
-<td>
-'<span>moon, month. It is said there were twelve native months beginning July (the planting) and ending in the following June</span>'</td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td style="white-space: nowrap;"><i>hura</i></td>
+<td>'<span>moon, month. It is said there were twelve native months beginning July (the planting) and ending in the following June</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>vula</i></td>
-<td>
-'<span>moon, month, season marked by moon</span>'</td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td style="white-space: nowrap;"><i>vula</i></td>
+<td>'<span>moon, month, season marked by moon</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>vula</i></td>
-<td>
-'<span>moon, month</span>'</td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td style="white-space: nowrap;"><i>vula</i></td>
+<td>'<span>moon, month</span>'</td>
 </tr>
 </table>
 
@@ -1385,48 +1178,39 @@ In Polynesia _&ast;pulan_ is reflected as a verb, PPn _&ast;pula_ ‘to glow’ 
 <td style="white-space: nowrap;">
 <i>&ast;ma[d]rama</i>
 </td>
-<td>
-'<span>moon</span>'</td>
+<td>'<span>moon</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>madama</i></td>
-<td>
-'<span>moon</span>'</td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td style="white-space: nowrap;"><i>madama</i></td>
+<td>'<span>moon</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/mokilese">Mokilese</a></td><td><i>maram</i></td>
-<td>
-'<span>moon</span>'</td>
+<td>Mic</td><td><a href="../languages/mokilese">Mokilese</a></td><td style="white-space: nowrap;"><i>maram</i></td>
+<td>'<span>moon</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td><i>maram</i></td>
-<td>
-'<span>moon</span>'</td>
+<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td style="white-space: nowrap;"><i>maram</i></td>
+<td>'<span>moon</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/ponapean">Ponapean</a></td><td><i>maram</i></td>
-<td>
-'<span>moon, moonlight</span>'</td>
+<td>Mic</td><td><a href="../languages/ponapean">Ponapean</a></td><td style="white-space: nowrap;"><i>maram</i></td>
+<td>'<span>moon, moonlight</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td><i>maram</i></td>
-<td>
-'<span>moon</span>'</td>
+<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td style="white-space: nowrap;"><i>maram</i></td>
+<td>'<span>moon</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/rarotongan">Rarotongan</a></td><td><i>marama</i></td>
-<td>
-'<span>moon</span>'</td>
+<td>Pn</td><td><a href="../languages/rarotongan">Rarotongan</a></td><td style="white-space: nowrap;"><i>marama</i></td>
+<td>'<span>moon</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>marama</i></td>
-<td>
-'<span>moon</span>'</td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td style="white-space: nowrap;"><i>marama</i></td>
+<td>'<span>moon</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tahitian">Tahitian</a></td><td><i>marama</i></td>
-<td>
-'<span>moon</span>'</td>
+<td>Pn</td><td><a href="../languages/tahitian">Tahitian</a></td><td style="white-space: nowrap;"><i>marama</i></td>
+<td>'<span>moon</span>'</td>
 </tr>
 </table>
 
@@ -1457,8 +1241,7 @@ It has already been pointed out that the northern hemisphere sky differs from th
 <td style="white-space: nowrap;">
 <i>&ast;bituqen</i>
 </td>
-<td>
-'<span>star</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>star</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -1466,118 +1249,95 @@ It has already been pointed out that the northern hemisphere sky differs from th
 <td style="white-space: nowrap;">
 <i>&ast;pituqun</i>
 </td>
-<td>
-'<span>star</span>'</td>
+<td>'<span>star</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/titan">Titan</a></td><td><i>pítuy</i></td>
-<td>
-'<span>star</span>'</td>
+<td>Adm</td><td><a href="../languages/titan">Titan</a></td><td style="white-space: nowrap;"><i>pítuy</i></td>
+<td>'<span>star</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/lukeppono">Lukep (Pono)</a></td><td><i>pitiki</i></td>
-<td>
-'<span>star</span>'</td>
+<td>NNG</td><td><a href="../languages/lukeppono">Lukep (Pono)</a></td><td style="white-space: nowrap;"><i>pitiki</i></td>
+<td>'<span>star</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td><i>patui</i></td>
-<td>
-'<span>star</span>'</td>
+<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td style="white-space: nowrap;"><i>patui</i></td>
+<td>'<span>star</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/misima">Misima</a></td><td><i>pútum</i></td>
-<td>
-'<span>star</span>'</td>
+<td>PT</td><td><a href="../languages/misima">Misima</a></td><td style="white-space: nowrap;"><i>pútum</i></td>
+<td>'<span>star</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/muyuw">Muyuw</a></td><td><i>utun</i></td>
-<td>
-'<span>star</span>'</td>
+<td>PT</td><td><a href="../languages/muyuw">Muyuw</a></td><td style="white-space: nowrap;"><i>utun</i></td>
+<td>'<span>star</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>hisiu</i></td>
-<td>
-'<span>star</span>'</td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td style="white-space: nowrap;"><i>hisiu</i></td>
+<td>'<span>star</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/nehan">Nehan</a></td><td><i>pitopit</i></td>
-<td>
-'<span>star</span>'</td>
+<td>MM</td><td><a href="../languages/nehan">Nehan</a></td><td style="white-space: nowrap;"><i>pitopit</i></td>
+<td>'<span>star</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>hiʔu</i></td>
-<td>
-'<span>star</span>'</td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td style="white-space: nowrap;"><i>hiʔu</i></td>
+<td>'<span>star</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>vitu</i></td>
-<td>
-'<span>star</span>'</td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td style="white-space: nowrap;"><i>vitu</i></td>
+<td>'<span>star</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/seambrym">S.E. Ambrym</a></td><td><i>hitu</i></td>
-<td>
-'<span>star</span>'</td>
+<td>NCV</td><td><a href="../languages/seambrym">Southeast Ambrym</a></td><td style="white-space: nowrap;"><i>hitu</i></td>
+<td>'<span>star</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>itoi</i></td>
-<td>
-'<span>star, constellation</span>'</td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>itoi</i></td>
+<td>'<span>star, constellation</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>fɨsɨ</i></td>
-<td>
-'<span>star</span>'</td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td style="white-space: nowrap;"><i>fɨsɨ</i></td>
+<td>'<span>star</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td><i>fū</i></td>
-<td>
-'<span>star; point of the compass; canoe course plotted by the stars</span>'</td>
+<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td style="white-space: nowrap;"><i>fū</i></td>
+<td>'<span>star; point of the compass; canoe course plotted by the stars</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>icu</i></td>
-<td>
-'<span>star, comet, planet</span>'</td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td style="white-space: nowrap;"><i>icu</i></td>
+<td>'<span>star, comet, planet</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/mokilese">Mokilese</a></td><td><i>ucu</i></td>
-<td>
-'<span>star</span>'</td>
+<td>Mic</td><td><a href="../languages/mokilese">Mokilese</a></td><td style="white-space: nowrap;"><i>ucu</i></td>
+<td>'<span>star</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/ponapean">Ponapean</a></td><td><i>usu</i></td>
-<td>
-'<span>star</span>'</td>
+<td>Mic</td><td><a href="../languages/ponapean">Ponapean</a></td><td style="white-space: nowrap;"><i>usu</i></td>
+<td>'<span>star</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td><i>hefu</i></td>
-<td>
-'<span>star</span>'</td>
+<td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td style="white-space: nowrap;"><i>hefu</i></td>
+<td>'<span>star</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>hetuʔu</i></td>
-<td>
-'<span>star, constellation</span>'</td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td style="white-space: nowrap;"><i>hetuʔu</i></td>
+<td>'<span>star, constellation</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>fetuʔu</i></td>
-<td>
-'<span>star; daisy</span>'</td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td style="white-space: nowrap;"><i>fetuʔu</i></td>
+<td>'<span>star; daisy</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>hōkū</i></td>
-<td>
-'<span>star</span>'</td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td style="white-space: nowrap;"><i>hōkū</i></td>
+<td>'<span>star</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>fetū</i></td>
-<td>
-'<span>star, constellation</span>'</td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td style="white-space: nowrap;"><i>fetū</i></td>
+<td>'<span>star, constellation</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/anutan">Anutan</a></td><td><i>petū</i></td>
-<td>
-'<span>star</span>'</td>
+<td>Pn</td><td><a href="../languages/anutan">Anutan</a></td><td style="white-space: nowrap;"><i>petū</i></td>
+<td>'<span>star</span>'</td>
 </tr>
 </table>
 
@@ -1606,8 +1366,7 @@ The planets ‘wander’ in their movements and are of little use as guiding sta
 <td style="white-space: nowrap;">
 <i>&ast;mantalaq</i>
 </td>
-<td>
-'<span>the morning (evening) star: Venus</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>the morning (evening) star: Venus</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -1615,8 +1374,7 @@ The planets ‘wander’ in their movements and are of little use as guiding sta
 <td style="white-space: nowrap;">
 <i>&ast;(t)ala(q)</i>
 </td>
-<td>
-'<span>star</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
+<td>'<span>star</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
 </td>
 </tr>
 <tr>
@@ -1624,59 +1382,48 @@ The planets ‘wander’ in their movements and are of little use as guiding sta
 <td style="white-space: nowrap;">
 <i>&ast;ma-dala</i>
 </td>
-<td>
-'<span>the morning star</span>' (<a href="../sources/Blust1972b">Blust1972b</a>)
+<td>'<span>the morning star</span>' (<a href="../sources/Blust1972b">Blust1972b</a>)
 </td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/lou">Lou</a></td><td><i>(ko)mtal</i></td>
-<td>
-'<span>Morning Star/Evening star:Venus</span>'</td>
+<td>Adm</td><td><a href="../languages/lou">Lou</a></td><td style="white-space: nowrap;"><i>(ko)mtal</i></td>
+<td>'<span>Morning Star/Evening star:Venus</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/titan">Titan</a></td><td><i>(ápa)tal</i></td>
-<td>
-'<span>Morning Star which appears about 5 a.m.</span>'</td>
+<td>Adm</td><td><a href="../languages/titan">Titan</a></td><td style="white-space: nowrap;"><i>(ápa)tal</i></td>
+<td>'<span>Morning Star which appears about 5 a.m.</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/loniu">Loniu</a></td><td><i>(kopo)matan</i></td>
-<td>
-'<span>the Morning Star</span>'</td>
+<td>Adm</td><td><a href="../languages/loniu">Loniu</a></td><td style="white-space: nowrap;"><i>(kopo)matan</i></td>
+<td>'<span>the Morning Star</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/kove">Kove</a></td><td><i>motala</i></td>
-<td>
-'<span>star, generic</span>'</td>
+<td>NNG</td><td><a href="../languages/kove">Kove</a></td><td style="white-space: nowrap;"><i>motala</i></td>
+<td>'<span>star, generic</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/kove">Kove</a></td><td><i>motala waro aia</i></td>
-<td>
-'<span>Morning Star</span>' (<span>Chowning; lit. ‘star sun-for’</span>)</td>
+<td>NNG</td><td><a href="../languages/kove">Kove</a></td><td style="white-space: nowrap;"><i>motala waro aia</i></td>
+<td>'<span>Morning Star</span>' (<span>Chowning; lit. ‘star sun-for’</span>)</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/labu">Labu</a></td><td><i>metana</i></td>
-<td>
-'<span>the morning star</span>'</td>
+<td>NNG</td><td><a href="../languages/labu">Labu</a></td><td style="white-space: nowrap;"><i>metana</i></td>
+<td>'<span>the morning star</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td><i>matara ni tani</i></td>
-<td>
-'<span>Morning Star</span>' (<span><em>tani</em> ‘daylight’</span>)</td>
+<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>matara ni tani</i></td>
+<td>'<span>Morning Star</span>' (<span><em>tani</em> ‘daylight’</span>)</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>madala</i></td>
-<td>
-'<span>the morning star</span>'</td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>madala</i></td>
+<td>'<span>the morning star</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>madara</i></td>
-<td>
-'<span>the morning star</span>'</td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td style="white-space: nowrap;"><i>madara</i></td>
+<td>'<span>the morning star</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/mokilese">Mokilese</a></td><td><i>mālāl</i></td>
-<td>
-'<span>the morning star</span>'</td>
+<td>Mic</td><td><a href="../languages/mokilese">Mokilese</a></td><td style="white-space: nowrap;"><i>mālāl</i></td>
+<td>'<span>the morning star</span>'</td>
 </tr>
 </table>
 
@@ -1694,39 +1441,32 @@ __Morning Star:__
 <td style="white-space: nowrap;">
 <i>&ast;fetuqu qaho</i>
 </td>
-<td>
-'<span>Morning Star</span>' (<span>&gt; POc <em>*qaco</em> ‘sun, daytime’</span>)</td>
+<td>'<span>Morning Star</span>' (<span>&gt; POc <em>&ast;qaco</em> ‘sun, daytime’</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>fetuʔu ʔaho</i></td>
-<td>
-'<span>Morning Star</span>'</td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td style="white-space: nowrap;"><i>fetuʔu ʔaho</i></td>
+<td>'<span>Morning Star</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/marquesan">Marquesan</a></td><td><i>hetu ao</i></td>
-<td>
-'<span>star of dawn</span>' (<a href="../sources/Makemson1941">Makemson1941: 207</a>)
+<td>Pn</td><td><a href="../languages/marquesan">Marquesan</a></td><td style="white-space: nowrap;"><i>hetu ao</i></td>
+<td>'<span>star of dawn</span>' (<a href="../sources/Makemson1941">Makemson1941: 207</a>)
 </td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>fetū ao</i></td>
-<td>
-'<span>Morning Star</span>'</td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>fetū ao</i></td>
+<td>'<span>Morning Star</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>fetū ao</i></td>
-<td>
-'<span>Morning Star</span>'</td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td style="white-space: nowrap;"><i>fetū ao</i></td>
+<td>'<span>Morning Star</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/anutan">Anutan</a></td><td><i>petū ao</i></td>
-<td>
-'<span>Morning Star: Venus</span>'</td>
+<td>Pn</td><td><a href="../languages/anutan">Anutan</a></td><td style="white-space: nowrap;"><i>petū ao</i></td>
+<td>'<span>Morning Star: Venus</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>hōkū-ao</i></td>
-<td>
-'<span>Venus when seen in the morning</span>'</td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td style="white-space: nowrap;"><i>hōkū-ao</i></td>
+<td>'<span>Venus when seen in the morning</span>'</td>
 </tr>
 </table>
 
@@ -1738,28 +1478,23 @@ __Morning Star:__
 <td style="white-space: nowrap;">
 <i>&ast;fitū rāni</i>
 </td>
-<td>
-'<span>Morning Star</span>' (<span>&gt; POc <em>*raqani</em> ‘daytime, daylight’</span>)</td>
+<td>'<span>Morning Star</span>' (<span>&gt; POc <em>&ast;raqani</em> ‘daytime, daylight’</span>)</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>icu ṛɯan</i></td>
-<td>
-'<span>Morning Star</span>'</td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td style="white-space: nowrap;"><i>icu ṛɯan</i></td>
+<td>'<span>Morning Star</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/ponapean">Ponapean</a></td><td><i>usūn rān</i></td>
-<td>
-'<span>Morning Star</span>' (<span><em>rān</em> ‘day’</span>)</td>
+<td>Mic</td><td><a href="../languages/ponapean">Ponapean</a></td><td style="white-space: nowrap;"><i>usūn rān</i></td>
+<td>'<span>Morning Star</span>' (<span><em>rān</em> ‘day’</span>)</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>itoi ni ŋaina</i></td>
-<td>
-'<span>Morning Star</span>' (<span><em>ŋaina</em> ‘day, daylight’</span>)</td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>itoi ni ŋaina</i></td>
+<td>'<span>Morning Star</span>' (<span><em>ŋaina</em> ‘day, daylight’</span>)</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td><i>fū rāɾ</i></td>
-<td>
-'<span>Venus as Morning Star</span>'</td>
+<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td style="white-space: nowrap;"><i>fū rāɾ</i></td>
+<td>'<span>Venus as Morning Star</span>'</td>
 </tr>
 </table>
 
@@ -1855,61 +1590,50 @@ One of the few constellations that I have been able to identify and trace back t
 <td style="white-space: nowrap;">
 <i>&ast;manuk</i>
 </td>
-<td>
-'<span>bird</span>'</td>
+<td>'<span>bird</span>'</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;manuk</i>
 </td>
-<td>
-'<span>bird, Bird constellation</span>'</td>
+<td>'<span>bird, Bird constellation</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/seimat">Seimat</a></td><td><i>mān</i></td>
-<td>
-'<span>(constellation incl.) Canopus, Sirius, Procea</span>' (<span>Lewis, 1994:406</span>)</td>
+<td>Adm</td><td><a href="../languages/seimat">Seimat</a></td><td style="white-space: nowrap;"><i>mān</i></td>
+<td>'<span>(constellation incl.) Canopus, Sirius, Procea</span>' (<span>Lewis, 1994:406</span>)</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>man</i></td>
-<td>
-'<span>Canopus</span>'</td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>man</i></td>
+<td>'<span>Canopus</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/mortlockese">Mortlockese</a></td><td><i>man</i></td>
-<td>
-'<span>Sirius</span>'</td>
+<td>Mic</td><td><a href="../languages/mortlockese">Mortlockese</a></td><td style="white-space: nowrap;"><i>man</i></td>
+<td>'<span>Sirius</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/satawalese">Satawalese</a></td><td><i>mān</i></td>
-<td>
-'<span>(constellation incl.) Sirius</span>'</td>
+<td>Mic</td><td><a href="../languages/satawalese">Satawalese</a></td><td style="white-space: nowrap;"><i>mān</i></td>
+<td>'<span>(constellation incl.) Sirius</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td><i>mān</i></td>
-<td>
-'<span>a scattered group of stars, Canopus, Sirius, Procyon</span>'</td>
+<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td style="white-space: nowrap;"><i>mān</i></td>
+<td>'<span>a scattered group of stars, Canopus, Sirius, Procyon</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>mar</i></td>
-<td>
-'<span>Sirius-Procyon-Canopus star</span>'</td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td style="white-space: nowrap;"><i>mar</i></td>
+<td>'<span>Sirius-Procyon-Canopus star</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/carolinian">Carolinian</a></td><td><i>mān</i></td>
-<td>
-'<span>Sirius</span>'</td>
+<td>Mic</td><td><a href="../languages/carolinian">Carolinian</a></td><td style="white-space: nowrap;"><i>mān</i></td>
+<td>'<span>Sirius</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>manu</i></td>
-<td>
-'<span>Rigel</span>' (<span>Lewis, 1978:33; part for whole</span>)</td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td style="white-space: nowrap;"><i>manu</i></td>
+<td>'<span>Rigel</span>' (<span>Lewis, 1978:33; part for whole</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/anutan">Anutan</a></td><td><i>manu</i></td>
-<td>
-'<span>Bird constellation, consisting of Sirius (Manu’s body), Canopus (east wing), Procyon (north wing) and a few stars in between</span>'</td>
+<td>Pn</td><td><a href="../languages/anutan">Anutan</a></td><td style="white-space: nowrap;"><i>manu</i></td>
+<td>'<span>Bird constellation, consisting of Sirius (Manu’s body), Canopus (east wing), Procyon (north wing) and a few stars in between</span>'</td>
 </tr>
 </table>
 
@@ -2068,44 +1792,36 @@ Individual stars within a constellation are frequently named because of their si
 <td style="white-space: nowrap;">
 <i>&ast;takulua</i>
 </td>
-<td>
-'<span>a bright star</span>'</td>
+<td>'<span>a bright star</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>takulua-tua-ʔalofi</i></td>
-<td>
-'<span>name of a large star</span>'</td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td style="white-space: nowrap;"><i>takulua-tua-ʔalofi</i></td>
+<td>'<span>name of a large star</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>takulua-tua-fanua</i></td>
-<td>
-'<span>name of a large star</span>'</td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td style="white-space: nowrap;"><i>takulua-tua-fanua</i></td>
+<td>'<span>name of a large star</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tahitian">Tahitian</a></td><td><i>taʔurua-faupapa</i></td>
-<td>
-'<span>Sirius</span>'</td>
+<td>Pn</td><td><a href="../languages/tahitian">Tahitian</a></td><td style="white-space: nowrap;"><i>taʔurua-faupapa</i></td>
+<td>'<span>Sirius</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tuamotuan">Tuamotuan</a></td><td><i>takurūa</i></td>
-<td>
-'<span>star name: may be Venus, Jupiter or Saturn</span>'</td>
+<td>Pn</td><td><a href="../languages/tuamotuan">Tuamotuan</a></td><td style="white-space: nowrap;"><i>takurūa</i></td>
+<td>'<span>star name: may be Venus, Jupiter or Saturn</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>takurua</i></td>
-<td>
-'<span>Sirius; winter</span>' (<a href="../sources/Akerblom1968">Akerblom1968: 19</a>)
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td style="white-space: nowrap;"><i>takurua</i></td>
+<td>'<span>Sirius; winter</span>' (<a href="../sources/Akerblom1968">Akerblom1968: 19</a>)
 </td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/marquesan">Marquesan</a></td><td><i>takuʔua</i></td>
-<td>
-'<span>Sirius; July</span>'</td>
+<td>Pn</td><td><a href="../languages/marquesan">Marquesan</a></td><td style="white-space: nowrap;"><i>takuʔua</i></td>
+<td>'<span>Sirius; July</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>kaulua</i></td>
-<td>
-'<span>Sirius; June-July or February-March</span>'</td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td style="white-space: nowrap;"><i>kaulua</i></td>
+<td>'<span>Sirius; June-July or February-March</span>'</td>
 </tr>
 </table>
 
@@ -2121,40 +1837,33 @@ We have another PPn reconstruction whose reference is apparently to a star or st
 <td style="white-space: nowrap;">
 <i>&ast;tākelo</i>
 </td>
-<td>
-'<span>name of a star or stars, possibly in Orion constellation</span>'</td>
+<td>'<span>name of a star or stars, possibly in Orion constellation</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>takelo</i></td>
-<td>
-'<span>two stars in the northern sky</span>' (<a href="../sources/Makemson1941">Makemson1941: 253</a>)
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td style="white-space: nowrap;"><i>takelo</i></td>
+<td>'<span>two stars in the northern sky</span>' (<a href="../sources/Makemson1941">Makemson1941: 253</a>)
 </td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tahitian">Tahitian</a></td><td><i>taʔero</i></td>
-<td>
-'<span>Mercury</span>'</td>
+<td>Pn</td><td><a href="../languages/tahitian">Tahitian</a></td><td style="white-space: nowrap;"><i>taʔero</i></td>
+<td>'<span>Mercury</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>tākero</i></td>
-<td>
-'<span>an unidentified star; Mercury</span>'</td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td style="white-space: nowrap;"><i>tākero</i></td>
+<td>'<span>an unidentified star; Mercury</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tuamotuan">Tuamotuan</a></td><td><i>takero</i></td>
-<td>
-'<span>Orion’s Belt</span>' (<a href="../sources/Makemson1941">Makemson1941: 253</a>)
+<td>Pn</td><td><a href="../languages/tuamotuan">Tuamotuan</a></td><td style="white-space: nowrap;"><i>takero</i></td>
+<td>'<span>Orion’s Belt</span>' (<a href="../sources/Makemson1941">Makemson1941: 253</a>)
 </td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/marquesan">Marquesan</a></td><td><i>takeo</i></td>
-<td>
-'<span>a star; June-July</span>'</td>
+<td>Pn</td><td><a href="../languages/marquesan">Marquesan</a></td><td style="white-space: nowrap;"><i>takeo</i></td>
+<td>'<span>a star; June-July</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>kāʔelo</i></td>
-<td>
-'<span>a star, perhaps Betelgeuse; name of a wet month</span>'</td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td style="white-space: nowrap;"><i>kāʔelo</i></td>
+<td>'<span>a star, perhaps Betelgeuse; name of a wet month</span>'</td>
 </tr>
 </table>
 
@@ -2189,8 +1898,7 @@ Blust has reconstructed PMP _&ast;buluq_, POc _&ast;puluq_ ‘a constellation, t
 <td style="white-space: nowrap;">
 <i>&ast;buluq</i>
 </td>
-<td>
-'<span>a constellation, the Pleiades</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>a constellation, the Pleiades</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -2198,38 +1906,31 @@ Blust has reconstructed PMP _&ast;buluq_, POc _&ast;puluq_ ‘a constellation, t
 <td style="white-space: nowrap;">
 <i>&ast;bulu(q)</i>
 </td>
-<td>
-'<span>a constellation, the Pleiades</span>' (<span>ACD has *puluq</span>)</td>
+<td>'<span>a constellation, the Pleiades</span>' (<span>ACD has &ast;puluq</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td><i>vulu</i></td>
-<td>
-'<span>Pleiades</span>' (<span><em>v</em> for exp. <em>b</em></span>)[^16]</td>
+<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td style="white-space: nowrap;"><i>vulu</i></td>
+<td>'<span>Pleiades</span>' (<span><em>v</em> for exp. <em>b</em></span>)[^16]</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td><i>bibolo</i></td>
-<td>
-'<span>Pleiades</span>' (<span><em>o</em> for expected <em>u</em></span>)</td>
+<td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td style="white-space: nowrap;"><i>bibolo</i></td>
+<td>'<span>Pleiades</span>' (<span><em>o</em> for expected <em>u</em></span>)</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>bulu-bulu</i></td>
-<td>
-'<span>star; firefly</span>'</td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td style="white-space: nowrap;"><i>bulu-bulu</i></td>
+<td>'<span>star; firefly</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>(bu)bulu</i></td>
-<td>
-'<span>star</span>'</td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td style="white-space: nowrap;"><i>(bu)bulu</i></td>
+<td>'<span>star</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td><i>puru-puru</i></td>
-<td>
-'<span>star, firefly</span>'</td>
+<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>puru-puru</i></td>
+<td>'<span>star, firefly</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>buru</i></td>
-<td>
-'<span>Pleiades</span>' (<span><em>buru-buru</em> ‘firefly’</span>)</td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td style="white-space: nowrap;"><i>buru</i></td>
+<td>'<span>Pleiades</span>' (<span><em>buru-buru</em> ‘firefly’</span>)</td>
 </tr>
 </table>
 
@@ -2238,7 +1939,7 @@ cf. also:
 <tr>
 <td>SES</td>
 <td><a href="../languages/gela">Gela</a></td>
-<td><i>buru-buru</i></td>
+<td style="white-space: nowrap;"><i>buru-buru</i></td>
 <td>
 '<span>Pleiades</span>' (<span><em>r</em> for exp. <em>l</em></span>)</td>
 </tr>
@@ -2258,86 +1959,70 @@ In Polynesia and Micronesia a different term, translatable literally as ‘small
 <td style="white-space: nowrap;">
 <i>&ast;mataliki</i>
 </td>
-<td>
-'<span>name given to a significant star cluster</span>'</td>
+<td>'<span>name given to a significant star cluster</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>mæcɛt-ṛikṛik</i></td>
-<td>
-'<span>a constellation, stars in Sagittarius</span>' (<span>lit. ‘small face/eyes’</span>)</td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td style="white-space: nowrap;"><i>mæcɛt-ṛikṛik</i></td>
+<td>'<span>a constellation, stars in Sagittarius</span>' (<span>lit. ‘small face/eyes’</span>)</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/mortlockese">Mortlockese</a></td><td><i>meisik</i></td>
-<td>
-'<span>stars in Hercules</span>'</td>
+<td>Mic</td><td><a href="../languages/mortlockese">Mortlockese</a></td><td style="white-space: nowrap;"><i>meisik</i></td>
+<td>'<span>stars in Hercules</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/lamotrek">Lamotrek</a></td><td><i>mairik</i></td>
-<td>
-'<span>name for the fourth month</span>'</td>
+<td>Mic</td><td><a href="../languages/lamotrek">Lamotrek</a></td><td style="white-space: nowrap;"><i>mairik</i></td>
+<td>'<span>name for the fourth month</span>'</td>
 </tr>
 <tr>
 <td><strong>PPn</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;mataliki</i>
 </td>
-<td>
-'<span>Pleiades</span>'</td>
+<td>'<span>Pleiades</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>mataliki</i></td>
-<td>
-'<span>Pleiades</span>'</td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td style="white-space: nowrap;"><i>mataliki</i></td>
+<td>'<span>Pleiades</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/eastfutunan">East Futunan</a></td><td><i>mataliki</i></td>
-<td>
-'<span>Pleiades; third month; June</span>'</td>
+<td>Pn</td><td><a href="../languages/eastfutunan">East Futunan</a></td><td style="white-space: nowrap;"><i>mataliki</i></td>
+<td>'<span>Pleiades; third month; June</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/pukapukan">Pukapukan</a></td><td><i>mataliki</i></td>
-<td>
-'<span>Pleiades</span>'</td>
+<td>Pn</td><td><a href="../languages/pukapukan">Pukapukan</a></td><td style="white-space: nowrap;"><i>mataliki</i></td>
+<td>'<span>Pleiades</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>mataliʔi</i></td>
-<td>
-'<span>Pleiades</span>'</td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>mataliʔi</i></td>
+<td>'<span>Pleiades</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tuvalu">Tuvalu</a></td><td><i>mataliki</i></td>
-<td>
-'<span>Pleiades</span>'</td>
+<td>Pn</td><td><a href="../languages/tuvalu">Tuvalu</a></td><td style="white-space: nowrap;"><i>mataliki</i></td>
+<td>'<span>Pleiades</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/anutan">Anutan</a></td><td><i>matariki</i></td>
-<td>
-'<span>Pleiades</span>'</td>
+<td>Pn</td><td><a href="../languages/anutan">Anutan</a></td><td style="white-space: nowrap;"><i>matariki</i></td>
+<td>'<span>Pleiades</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>matariki</i></td>
-<td>
-'<span>Pleiades (sign of advent of trade wind season when appears on eastern horizon before dawn, also sign for turmeric extraction)</span>'</td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td style="white-space: nowrap;"><i>matariki</i></td>
+<td>'<span>Pleiades (sign of advent of trade wind season when appears on eastern horizon before dawn, also sign for turmeric extraction)</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tahitian">Tahitian</a></td><td><i>matariʔi</i></td>
-<td>
-'<span>Pleiades</span>'</td>
+<td>Pn</td><td><a href="../languages/tahitian">Tahitian</a></td><td style="white-space: nowrap;"><i>matariʔi</i></td>
+<td>'<span>Pleiades</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>matariki</i></td>
-<td>
-'<span>Pleiades, the first appearance of which before sunrise indicated the beginning of the Maori year (about the middle of June)</span>'</td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td style="white-space: nowrap;"><i>matariki</i></td>
+<td>'<span>Pleiades, the first appearance of which before sunrise indicated the beginning of the Maori year (about the middle of June)</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/marquesan">Marquesan</a></td><td><i>mataʔiʔi</i></td>
-<td>
-'<span>Pleiades; June</span>'</td>
+<td>Pn</td><td><a href="../languages/marquesan">Marquesan</a></td><td style="white-space: nowrap;"><i>mataʔiʔi</i></td>
+<td>'<span>Pleiades; June</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>makaliʔi</i></td>
-<td>
-'<span>Pleiades; month name; the six summer months collectively</span>'</td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td style="white-space: nowrap;"><i>makaliʔi</i></td>
+<td>'<span>Pleiades; month name; the six summer months collectively</span>'</td>
 </tr>
 </table>
 
@@ -2364,53 +2049,43 @@ Although the Southern Cross is typically associated with the southern hemisphere
 <td style="white-space: nowrap;">
 <i>&ast;bubu</i>
 </td>
-<td>
-'<span>Southern Cross; triggerfish</span>'</td>
+<td>'<span>Southern Cross; triggerfish</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>hoi pupu</i></td>
-<td>
-'<span>Southern Cross; triggerfish</span>'</td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>hoi pupu</i></td>
+<td>'<span>Southern Cross; triggerfish</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>hua i bubu</i></td>
-<td>
-'<span>Southern Cross; triggerfish</span>'</td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td style="white-space: nowrap;"><i>hua i bubu</i></td>
+<td>'<span>Southern Cross; triggerfish</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/mokilese">Mokilese</a></td><td><i>(lō)pʷu</i></td>
-<td>
-'<span>Southern Cross; triggerfish</span>'</td>
+<td>Mic</td><td><a href="../languages/mokilese">Mokilese</a></td><td style="white-space: nowrap;"><i>(lō)pʷu</i></td>
+<td>'<span>Southern Cross; triggerfish</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>pʷū</i></td>
-<td>
-'<span>Crux</span>'</td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td style="white-space: nowrap;"><i>pʷū</i></td>
+<td>'<span>Crux</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>pᵚubʷin ɛpɔ̄n </i></td>
-<td>
-'<span>Crux, Southern Cross</span>' (<span><em>pᵚupᵚ</em> ‘black triggerfish’</span>)</td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td style="white-space: nowrap;"><i>pᵚubʷin ɛpɔ̄n </i></td>
+<td>'<span>Crux, Southern Cross</span>' (<span><em>pᵚupᵚ</em> ‘black triggerfish’</span>)</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td><i>pʷupʷ</i></td>
-<td>
-'<span>Southern Cross; k.o. fish, perhaps triggerfish</span>'</td>
+<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td style="white-space: nowrap;"><i>pʷupʷ</i></td>
+<td>'<span>Southern Cross; k.o. fish, perhaps triggerfish</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/lamotrek">Lamotrek</a></td><td><i>pup</i></td>
-<td>
-'<span>Southern Cross. Also called the leatherjacket fish</span>'</td>
+<td>Mic</td><td><a href="../languages/lamotrek">Lamotrek</a></td><td style="white-space: nowrap;"><i>pup</i></td>
+<td>'<span>Southern Cross. Also called the leatherjacket fish</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/carolinian">Carolinian</a></td><td><i>bʷūbʷ</i></td>
-<td>
-'<span>Southern Cross; triggerfish</span>'</td>
+<td>Mic</td><td><a href="../languages/carolinian">Carolinian</a></td><td style="white-space: nowrap;"><i>bʷūbʷ</i></td>
+<td>'<span>Southern Cross; triggerfish</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/carolinian">Carolinian</a></td><td><i>wenewenūbʷ</i></td>
-<td>
-'<span>Southern Cross in upright position</span>'</td>
+<td>Mic</td><td><a href="../languages/carolinian">Carolinian</a></td><td style="white-space: nowrap;"><i>wenewenūbʷ</i></td>
+<td>'<span>Southern Cross in upright position</span>'</td>
 </tr>
 </table>
 
@@ -2587,48 +2262,39 @@ There is a possible PEOc reconstruction for Aldebaran, the single brightest star
 <td style="white-space: nowrap;">
 <i>&ast;u(C)unu</i>
 </td>
-<td>
-'<span>Aldebaran</span>'</td>
+<td>'<span>Aldebaran</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>un</i></td>
-<td>
-'<span>the name of a star</span>'</td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>un</i></td>
+<td>'<span>the name of a star</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/mortlockese">Mortlockese</a></td><td><i>un(allual)</i></td>
-<td>
-'<span>Aldebaran and Orion</span>'</td>
+<td>Mic</td><td><a href="../languages/mortlockese">Mortlockese</a></td><td style="white-space: nowrap;"><i>un(allual)</i></td>
+<td>'<span>Aldebaran and Orion</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td><i>wūn</i></td>
-<td>
-'<span>Aldebaran; month about late July</span>'</td>
+<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td style="white-space: nowrap;"><i>wūn</i></td>
+<td>'<span>Aldebaran; month about late July</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>ūru</i></td>
-<td>
-'<span>Aldebaran. Also the name for a kind of dorfin</span>' (<span>dorsal fin also triangular [MO]</span>)</td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td style="white-space: nowrap;"><i>ūru</i></td>
+<td>'<span>Aldebaran. Also the name for a kind of dorfin</span>' (<span>dorsal fin also triangular [MO]</span>)</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/lamotrek">Lamotrek</a></td><td><i>ul</i></td>
-<td>
-'<span>Aldebaran</span>'</td>
+<td>Mic</td><td><a href="../languages/lamotrek">Lamotrek</a></td><td style="white-space: nowrap;"><i>ul</i></td>
+<td>'<span>Aldebaran</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/satawalese">Satawalese</a></td><td><i>ul</i></td>
-<td>
-'<span>Aldebaran</span>'</td>
+<td>Mic</td><td><a href="../languages/satawalese">Satawalese</a></td><td style="white-space: nowrap;"><i>ul</i></td>
+<td>'<span>Aldebaran</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/carolinian">Carolinian</a></td><td><i>wūn</i></td>
-<td>
-'<span>the star Aldebaran; synodic month, approx. July–August</span>'</td>
+<td>Mic</td><td><a href="../languages/carolinian">Carolinian</a></td><td style="white-space: nowrap;"><i>wūn</i></td>
+<td>'<span>the star Aldebaran; synodic month, approx. July–August</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/kapingamarangi">Kapingamarangi</a></td><td><i>ūnu te</i></td>
-<td>
-'<span>star name</span>' (<a href="../sources/PukuiandElbert1973">PukuiandElbert1973</a>)
+<td>Pn</td><td><a href="../languages/kapingamarangi">Kapingamarangi</a></td><td style="white-space: nowrap;"><i>ūnu te</i></td>
+<td>'<span>star name</span>' (<a href="../sources/PukuiandElbert1973">PukuiandElbert1973</a>)
 </td>
 </tr>
 </table>
@@ -2687,39 +2353,32 @@ Polaris marks the centre of the North Celestial Pole. From the viewpoint of a st
 <td style="white-space: nowrap;">
 <i>&ast;fitū mʷakut</i>
 </td>
-<td>
-'<span>Polaris</span>' (<span>lit. ‘star not moving’</span>)</td>
+<td>'<span>Polaris</span>' (<span>lit. ‘star not moving’</span>)</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td><i>fūhæ mʷakət</i></td>
-<td>
-'<span>Polaris</span>'</td>
+<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td style="white-space: nowrap;"><i>fūhæ mʷakət</i></td>
+<td>'<span>Polaris</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/satawalese">Satawalese</a></td><td><i>fuese magut</i></td>
-<td>
-'<span>Polaris</span>'</td>
+<td>Mic</td><td><a href="../languages/satawalese">Satawalese</a></td><td style="white-space: nowrap;"><i>fuese magut</i></td>
+<td>'<span>Polaris</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/carolinian">Carolinian</a></td><td><i>fɨse mʷɔxut</i></td>
-<td>
-'<span>Polaris</span>'</td>
+<td>Mic</td><td><a href="../languages/carolinian">Carolinian</a></td><td style="white-space: nowrap;"><i>fɨse mʷɔxut</i></td>
+<td>'<span>Polaris</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>werewereri iyefaŋi</i></td>
-<td>
-'<span>Polaris</span>' (<span><em>werewere</em> ‘straight, steady, still’, <em>iyefaŋi</em> ‘north’</span>)</td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td style="white-space: nowrap;"><i>werewereri iyefaŋi</i></td>
+<td>'<span>Polaris</span>' (<span><em>werewere</em> ‘straight, steady, still’, <em>iyefaŋi</em> ‘north’</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tahitian">Tahitian</a></td><td><i>ana-niʔa</i></td>
-<td>
-'<span>Polaris</span>' (<a href="../sources/Lewis1994">Lewis1994: 403</a>)
+<td>Pn</td><td><a href="../languages/tahitian">Tahitian</a></td><td style="white-space: nowrap;"><i>ana-niʔa</i></td>
+<td>'<span>Polaris</span>' (<a href="../sources/Lewis1994">Lewis1994: 403</a>)
 </td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>hōkū-paʔa</i></td>
-<td>
-'<span>Polaris or North Star</span>' (<span><em>paʔa</em> ‘firm, steadfast’</span>)</td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td style="white-space: nowrap;"><i>hōkū-paʔa</i></td>
+<td>'<span>Polaris or North Star</span>' (<span><em>paʔa</em> ‘firm, steadfast’</span>)</td>
 </tr>
 </table>
 
@@ -2739,34 +2398,28 @@ The only cognate set located is from Micronesia. References may be at times to t
 <td style="white-space: nowrap;">
 <i>&ast;mai-lapa</i>
 </td>
-<td>
-'<span>Altair</span>' (<span>lit. ‘big/old breadfruit’</span>)</td>
+<td>'<span>Altair</span>' (<span>lit. ‘big/old breadfruit’</span>)</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td><i>mǣy læp </i></td>
-<td>
-'<span>Altair; a month, about March</span>' (<span>from <em>mǣy</em> ‘breadfruit’, <em>læp</em> ‘big, old’; appearance of Altair marks the season of old breadfruit, northeast winds and much sailing. <em>mǣylæpænefæŋ</em> is the name given to the season</span>) (<a href="../sources/Elbert1972">Elbert1972</a>)
+<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td style="white-space: nowrap;"><i>mǣy læp </i></td>
+<td>'<span>Altair; a month, about March</span>' (<span>from <em>mǣy</em> ‘breadfruit’, <em>læp</em> ‘big, old’; appearance of Altair marks the season of old breadfruit, northeast winds and much sailing. <em>mǣylæpænefæŋ</em> is the name given to the season</span>) (<a href="../sources/Elbert1972">Elbert1972</a>)
 </td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/mortlockese">Mortlockese</a></td><td><i>meilap</i></td>
-<td>
-'<span>the constellation Aquila</span>'</td>
+<td>Mic</td><td><a href="../languages/mortlockese">Mortlockese</a></td><td style="white-space: nowrap;"><i>meilap</i></td>
+<td>'<span>the constellation Aquila</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>māirapa</i></td>
-<td>
-'<span>Altair, the most prominent star in Carolinian navigation, a winter month</span>'</td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td style="white-space: nowrap;"><i>māirapa</i></td>
+<td>'<span>Altair, the most prominent star in Carolinian navigation, a winter month</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/carolinian">Carolinian</a></td><td><i>mǣilap</i></td>
-<td>
-'<span>the star Altair</span>'</td>
+<td>Mic</td><td><a href="../languages/carolinian">Carolinian</a></td><td style="white-space: nowrap;"><i>mǣilap</i></td>
+<td>'<span>the star Altair</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/satawalese">Satawalese</a></td><td><i>mailap</i></td>
-<td>
-'<span>Altair</span>' (<a href="../sources/McCoy1976">McCoy1976</a>)
+<td>Mic</td><td><a href="../languages/satawalese">Satawalese</a></td><td style="white-space: nowrap;"><i>mailap</i></td>
+<td>'<span>Altair</span>' (<a href="../sources/McCoy1976">McCoy1976</a>)
 </td>
 </tr>
 </table>
@@ -2776,7 +2429,7 @@ cf. also:
 <tr>
 <td>Mic</td>
 <td><a href="../languages/marshallese">Marshallese</a></td>
-<td><i>mæclɛp</i></td>
+<td style="white-space: nowrap;"><i>mæclɛp</i></td>
 <td>
 '<span>constellation Aquila, Altair</span>' (<span>lit. ‘big eye’</span>)</td>
 </tr>
@@ -2802,63 +2455,51 @@ Antares, in the western constellation of Scorpio, ranks with the Pleiades as the
 <td style="white-space: nowrap;">
 <i>&ast;(d,z)umuri</i>
 </td>
-<td>
-'<span>Antares</span>'</td>
+<td>'<span>Antares</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>rimʷi(mata)</i></td>
-<td>
-'<span>Antares</span>'</td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>rimʷi(mata)</i></td>
+<td>'<span>Antares</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>tumᵚuṛᵚ</i></td>
-<td>
-'<span>Antares</span>'</td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td style="white-space: nowrap;"><i>tumᵚuṛᵚ</i></td>
+<td>'<span>Antares</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/ponapean">Ponapean</a></td><td><i>tumur</i></td>
-<td>
-'<span>Antares</span>'</td>
+<td>Mic</td><td><a href="../languages/ponapean">Ponapean</a></td><td style="white-space: nowrap;"><i>tumur</i></td>
+<td>'<span>Antares</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td><i>tumʷur</i></td>
-<td>
-'<span>Antares</span>'</td>
+<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td style="white-space: nowrap;"><i>tumʷur</i></td>
+<td>'<span>Antares</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/mortlockese">Mortlockese</a></td><td><i>tumur</i></td>
-<td>
-'<span>Scorpio</span>' (<span>includes Antares</span>)</td>
+<td>Mic</td><td><a href="../languages/mortlockese">Mortlockese</a></td><td style="white-space: nowrap;"><i>tumur</i></td>
+<td>'<span>Scorpio</span>' (<span>includes Antares</span>)</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td><i>tɨmɨr</i></td>
-<td>
-'<span>Antares; a month about January</span>'</td>
+<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td style="white-space: nowrap;"><i>tɨmɨr</i></td>
+<td>'<span>Antares; a month about January</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/carolinian">Carolinian</a></td><td><i>tumʷur</i></td>
-<td>
-'<span>Antares</span>'</td>
+<td>Mic</td><td><a href="../languages/carolinian">Carolinian</a></td><td style="white-space: nowrap;"><i>tumʷur</i></td>
+<td>'<span>Antares</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/satawalese">Satawalese</a></td><td><i>tumʷur</i></td>
-<td>
-'<span>Antares; a month about January</span>'</td>
+<td>Mic</td><td><a href="../languages/satawalese">Satawalese</a></td><td style="white-space: nowrap;"><i>tumʷur</i></td>
+<td>'<span>Antares; a month about January</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>tumʷiẓi</i></td>
-<td>
-'<span>Antares</span>'</td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td style="white-space: nowrap;"><i>tumʷiẓi</i></td>
+<td>'<span>Antares</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/lamotrek">Lamotrek</a></td><td><i>tumur</i></td>
-<td>
-'<span>Antares</span>'</td>
+<td>Mic</td><td><a href="../languages/lamotrek">Lamotrek</a></td><td style="white-space: nowrap;"><i>tumur</i></td>
+<td>'<span>Antares</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/sonsorolese">Sonsorolese</a></td><td><i>tumuri</i></td>
-<td>
-'<span>Antares</span>'</td>
+<td>Mic</td><td><a href="../languages/sonsorolese">Sonsorolese</a></td><td style="white-space: nowrap;"><i>tumuri</i></td>
+<td>'<span>Antares</span>'</td>
 </tr>
 </table>
 
@@ -2870,36 +2511,30 @@ Antares, in the western constellation of Scorpio, ranks with the Pleiades as the
 <td style="white-space: nowrap;">
 <i>&ast;refua</i>
 </td>
-<td>
-'<span>a star name, Antares?</span>' (<a href="../sources/BiggsandClark1993">BiggsandClark1993</a>)
+<td>'<span>a star name, Antares?</span>' (<a href="../sources/BiggsandClark1993">BiggsandClark1993</a>)
 </td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tahitian">Tahitian</a></td><td><i>rehu</i></td>
-<td>
-'<span>a month name, between Dec. and January</span>'</td>
+<td>Pn</td><td><a href="../languages/tahitian">Tahitian</a></td><td style="white-space: nowrap;"><i>rehu</i></td>
+<td>'<span>a month name, between Dec. and January</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tuamotuan">Tuamotuan</a></td><td><i>rehua</i></td>
-<td>
-'<span>a star, Antares?</span>'</td>
+<td>Pn</td><td><a href="../languages/tuamotuan">Tuamotuan</a></td><td style="white-space: nowrap;"><i>rehua</i></td>
+<td>'<span>a star, Antares?</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>rerehu, rehua</i></td>
-<td>
-'<span>Antares</span>' (<a href="../sources/Makemson1941">Makemson1941: 98</a>)
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td style="white-space: nowrap;"><i>rerehu, rehua</i></td>
+<td>'<span>Antares</span>' (<a href="../sources/Makemson1941">Makemson1941: 98</a>)
 </td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>we-lehu</i></td>
-<td>
-'<span>Antares</span>' (<a href="../sources/Makemson1941">Makemson1941: 98</a>)
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td style="white-space: nowrap;"><i>we-lehu</i></td>
+<td>'<span>Antares</span>' (<a href="../sources/Makemson1941">Makemson1941: 98</a>)
 </td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/marquesan">Marquesan</a></td><td><i>ehua</i></td>
-<td>
-'<span>Antares</span>' (<a href="../sources/Makemson1941">Makemson1941: 207</a>)
+<td>Pn</td><td><a href="../languages/marquesan">Marquesan</a></td><td style="white-space: nowrap;"><i>ehua</i></td>
+<td>'<span>Antares</span>' (<a href="../sources/Makemson1941">Makemson1941: 207</a>)
 </td>
 </tr>
 </table>
@@ -2912,29 +2547,24 @@ Antares, in the western constellation of Scorpio, ranks with the Pleiades as the
 <td style="white-space: nowrap;">
 <i>&ast;mele-mele</i>
 </td>
-<td>
-'<span>Venus or Antares</span>'</td>
+<td>'<span>Venus or Antares</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/pukapukan">Pukapukan</a></td><td><i>mele-mele</i></td>
-<td>
-'<span>Antares</span>' (<a href="../sources/Lewis1994">Lewis1994: 406</a>)
+<td>Pn</td><td><a href="../languages/pukapukan">Pukapukan</a></td><td style="white-space: nowrap;"><i>mele-mele</i></td>
+<td>'<span>Antares</span>' (<a href="../sources/Lewis1994">Lewis1994: 406</a>)
 </td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/kapingamarangi">Kapingamarangi</a></td><td><i>mere-mere</i></td>
-<td>
-'<span>Antares</span>'</td>
+<td>Pn</td><td><a href="../languages/kapingamarangi">Kapingamarangi</a></td><td style="white-space: nowrap;"><i>mere-mere</i></td>
+<td>'<span>Antares</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>mere-mere</i></td>
-<td>
-'<span>Venus as evening star</span>'</td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td style="white-space: nowrap;"><i>mere-mere</i></td>
+<td>'<span>Venus as evening star</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>mele-mele</i></td>
-<td>
-'<span>name of a star (Venus?)</span>'</td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td style="white-space: nowrap;"><i>mele-mele</i></td>
+<td>'<span>name of a star (Venus?)</span>'</td>
 </tr>
 </table>
 
@@ -2956,33 +2586,27 @@ The star names listed from this point onward are reconstructable only for Proto 
 <td style="white-space: nowrap;">
 <i>&ast;lakV</i>
 </td>
-<td>
-'<span>stars in Pegasus</span>'</td>
+<td>'<span>stars in Pegasus</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>lᵚak</i></td>
-<td>
-'<span>stars in Pegasus</span>'</td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td style="white-space: nowrap;"><i>lᵚak</i></td>
+<td>'<span>stars in Pegasus</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/mortlockese">Mortlockese</a></td><td><i>la</i></td>
-<td>
-'<span>Pegasus</span>'</td>
+<td>Mic</td><td><a href="../languages/mortlockese">Mortlockese</a></td><td style="white-space: nowrap;"><i>la</i></td>
+<td>'<span>Pegasus</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td><i>la</i></td>
-<td>
-'<span>star in Pegasus; month at beginning of breadfruit season, about May</span>'</td>
+<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td style="white-space: nowrap;"><i>la</i></td>
+<td>'<span>star in Pegasus; month at beginning of breadfruit season, about May</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/satawalese">Satawalese</a></td><td><i>na</i></td>
-<td>
-'<span>Alpheratz; about May</span>'</td>
+<td>Mic</td><td><a href="../languages/satawalese">Satawalese</a></td><td style="white-space: nowrap;"><i>na</i></td>
+<td>'<span>Alpheratz; about May</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>rax</i></td>
-<td>
-'<span>Pegasus</span>' (<a href="../sources/Alkire1970">Alkire1970: 39</a>)
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td style="white-space: nowrap;"><i>rax</i></td>
+<td>'<span>Pegasus</span>' (<a href="../sources/Alkire1970">Alkire1970: 39</a>)
 </td>
 </tr>
 </table>
@@ -3004,38 +2628,31 @@ The star names listed from this point onward are reconstructable only for Proto 
 <td style="white-space: nowrap;">
 <i>&ast;kua</i>
 </td>
-<td>
-'<span>Dolphin constellation incl. Cassiopeia</span>' (<span>approximately equivalent to Aries</span>)</td>
+<td>'<span>Dolphin constellation incl. Cassiopeia</span>' (<span>approximately equivalent to Aries</span>)</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>kua</i></td>
-<td>
-'<span>constellation incl. Andromeda, Perseus and Cassiopeia</span>' (<span><em>kua</em> ‘whale, porpoise’</span>)</td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>kua</i></td>
+<td>'<span>constellation incl. Andromeda, Perseus and Cassiopeia</span>' (<span><em>kua</em> ‘whale, porpoise’</span>)</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/mortlockese">Mortlockese</a></td><td><i>ku</i></td>
-<td>
-'<span>Aries</span>'</td>
+<td>Mic</td><td><a href="../languages/mortlockese">Mortlockese</a></td><td style="white-space: nowrap;"><i>ku</i></td>
+<td>'<span>Aries</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td><i>kūw</i></td>
-<td>
-'<span>Cassiopeia, plus some other stars; porpoise</span>'</td>
+<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td style="white-space: nowrap;"><i>kūw</i></td>
+<td>'<span>Cassiopeia, plus some other stars; porpoise</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>xu</i></td>
-<td>
-'<span>huge constellation including Cassiopeia and Cetus; porpoise</span>'</td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td style="white-space: nowrap;"><i>xu</i></td>
+<td>'<span>huge constellation including Cassiopeia and Cetus; porpoise</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/carolinian">Carolinian</a></td><td><i>xūw</i></td>
-<td>
-'<span>constellation Aries</span>'</td>
+<td>Mic</td><td><a href="../languages/carolinian">Carolinian</a></td><td style="white-space: nowrap;"><i>xūw</i></td>
+<td>'<span>constellation Aries</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/satawalese">Satawalese</a></td><td><i>xu</i></td>
-<td>
-'<span>Dolphin constellation, whose tail is marked by Cassiopeia</span>'</td>
+<td>Mic</td><td><a href="../languages/satawalese">Satawalese</a></td><td style="white-space: nowrap;"><i>xu</i></td>
+<td>'<span>Dolphin constellation, whose tail is marked by Cassiopeia</span>'</td>
 </tr>
 </table>
 
@@ -3047,28 +2664,23 @@ The star names listed from this point onward are reconstructable only for Proto 
 <td style="white-space: nowrap;">
 <i>&ast;ukulīk</i>
 </td>
-<td>
-'<span>Cassiopeia</span>' (<span>lit. ‘tail of fish’; POc <em>ikuR ‘tail’, </em>ikan ‘fish’</span>)</td>
+<td>'<span>Cassiopeia</span>' (<span>lit. ‘tail of fish’; POc &ast;ikuR ‘tail’, &ast;ikan ‘fish’</span>)</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td><i>wɨkɨnlik</i></td>
-<td>
-'<span>Cassiopeia</span>' (<span>lit. ‘fish tail’</span>)</td>
+<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td style="white-space: nowrap;"><i>wɨkɨnlik</i></td>
+<td>'<span>Cassiopeia</span>' (<span>lit. ‘fish tail’</span>)</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>ɨxɨrīx</i></td>
-<td>
-'<span>Cassiopeia</span>'</td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td style="white-space: nowrap;"><i>ɨxɨrīx</i></td>
+<td>'<span>Cassiopeia</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/carolinian">Carolinian</a></td><td><i>ɨkkɨnīx</i></td>
-<td>
-'<span>star or stars in constellation of Cassiopeia</span>'</td>
+<td>Mic</td><td><a href="../languages/carolinian">Carolinian</a></td><td style="white-space: nowrap;"><i>ɨkkɨnīx</i></td>
+<td>'<span>star or stars in constellation of Cassiopeia</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/satawalese">Satawalese</a></td><td><i>exulix</i></td>
-<td>
-'<span>Cassiopeia</span>'</td>
+<td>Mic</td><td><a href="../languages/satawalese">Satawalese</a></td><td style="white-space: nowrap;"><i>exulix</i></td>
+<td>'<span>Cassiopeia</span>'</td>
 </tr>
 </table>
 
@@ -3077,7 +2689,7 @@ cf. also:
 <tr>
 <td>Mic</td>
 <td><a href="../languages/marshallese">Marshallese</a></td>
-<td><i>lᵚɔkʷan lᵚakeke</i></td>
+<td style="white-space: nowrap;"><i>lᵚɔkʷan lᵚakeke</i></td>
 <td>
 '<span>Cassiopeia</span>' (<span>lit. ‘tail of porpoise’. <em>Lakeke</em> is a constellation shaped like a porpoise</span>)</td>
 </tr>
@@ -3096,33 +2708,27 @@ cf. also:
 <td style="white-space: nowrap;">
 <i>&ast;tapia</i>
 </td>
-<td>
-'<span>Bowl constellation, approximately Delphinus</span>' (<span>POc <em>*tabiRa</em> ‘wooden bowl’</span>)</td>
+<td>'<span>Bowl constellation, approximately Delphinus</span>' (<span>POc <em>&ast;tabiRa</em> ‘wooden bowl’</span>)</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>cæpe</i></td>
-<td>
-'<span>constellation: stars in Delphinus; bowl</span>'</td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td style="white-space: nowrap;"><i>cæpe</i></td>
+<td>'<span>constellation: stars in Delphinus; bowl</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td><i>hæpiy</i></td>
-<td>
-'<span>bowl, calabash</span>'</td>
+<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td style="white-space: nowrap;"><i>hæpiy</i></td>
+<td>'<span>bowl, calabash</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/carolinian">Carolinian</a></td><td><i>sæpi</i></td>
-<td>
-'<span>constellation approximately Delphinus</span>'</td>
+<td>Mic</td><td><a href="../languages/carolinian">Carolinian</a></td><td style="white-space: nowrap;"><i>sæpi</i></td>
+<td>'<span>constellation approximately Delphinus</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/satawalese">Satawalese</a></td><td><i>sepie</i></td>
-<td>
-'<span>Delphinus: represents a carved wooden bowl</span>'</td>
+<td>Mic</td><td><a href="../languages/satawalese">Satawalese</a></td><td style="white-space: nowrap;"><i>sepie</i></td>
+<td>'<span>Delphinus: represents a carved wooden bowl</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>tapiy</i></td>
-<td>
-'<span>Delphinus star; bowl</span>'</td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td style="white-space: nowrap;"><i>tapiy</i></td>
+<td>'<span>Delphinus star; bowl</span>'</td>
 </tr>
 </table>
 
@@ -3140,43 +2746,35 @@ cf. also:
 <td style="white-space: nowrap;">
 <i>&ast;aremoi</i>
 </td>
-<td>
-'<span>Arcturus</span>' (<span>brightest star of Bootes constellation</span>)</td>
+<td>'<span>Arcturus</span>' (<span>brightest star of Bootes constellation</span>)</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>aṛ</i></td>
-<td>
-'<span>Arcturus</span>'</td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td style="white-space: nowrap;"><i>aṛ</i></td>
+<td>'<span>Arcturus</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/mortlockese">Mortlockese</a></td><td><i>aramoi</i></td>
-<td>
-'<span>Arcturus</span>'</td>
+<td>Mic</td><td><a href="../languages/mortlockese">Mortlockese</a></td><td style="white-space: nowrap;"><i>aramoi</i></td>
+<td>'<span>Arcturus</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td><i>yoromōy</i></td>
-<td>
-'<span>a star and a month, about November</span>'</td>
+<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td style="white-space: nowrap;"><i>yoromōy</i></td>
+<td>'<span>a star and a month, about November</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/carolinian">Carolinian</a></td><td><i>aremʷoy</i></td>
-<td>
-'<span>Arcturus</span>'</td>
+<td>Mic</td><td><a href="../languages/carolinian">Carolinian</a></td><td style="white-space: nowrap;"><i>aremʷoy</i></td>
+<td>'<span>Arcturus</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/satawalese">Satawalese</a></td><td><i>aremoi</i></td>
-<td>
-'<span>Arcturus</span>'</td>
+<td>Mic</td><td><a href="../languages/satawalese">Satawalese</a></td><td style="white-space: nowrap;"><i>aremoi</i></td>
+<td>'<span>Arcturus</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>yaẓemōi</i></td>
-<td>
-'<span>Arcturus</span>'</td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td style="white-space: nowrap;"><i>yaẓemōi</i></td>
+<td>'<span>Arcturus</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/lamotrek">Lamotrek</a></td><td><i>aramoi</i></td>
-<td>
-'<span>Arcturus</span>'</td>
+<td>Mic</td><td><a href="../languages/lamotrek">Lamotrek</a></td><td style="white-space: nowrap;"><i>aramoi</i></td>
+<td>'<span>Arcturus</span>'</td>
 </tr>
 </table>
 
@@ -3201,43 +2799,35 @@ The following star reconstructions are limited to Proto Chuukic, a subgroup of M
 <td style="white-space: nowrap;">
 <i>&ast;taropʷolu</i>
 </td>
-<td>
-'<span>constellation Corvus</span>'</td>
+<td>'<span>constellation Corvus</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/mortlockese">Mortlockese</a></td><td><i>soropuel</i></td>
-<td>
-'<span>Corvus</span>'</td>
+<td>Mic</td><td><a href="../languages/mortlockese">Mortlockese</a></td><td style="white-space: nowrap;"><i>soropuel</i></td>
+<td>'<span>Corvus</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td><i>hærepwəl</i></td>
-<td>
-'<span>Corvi</span>'</td>
+<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td style="white-space: nowrap;"><i>hærepwəl</i></td>
+<td>'<span>Corvi</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/carolinian">Carolinian</a></td><td><i>sarobʷəl</i></td>
-<td>
-'<span>star Corvus</span>'</td>
+<td>Mic</td><td><a href="../languages/carolinian">Carolinian</a></td><td style="white-space: nowrap;"><i>sarobʷəl</i></td>
+<td>'<span>star Corvus</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/satawalese">Satawalese</a></td><td><i>sarapul</i></td>
-<td>
-'<span>Corvus</span>'</td>
+<td>Mic</td><td><a href="../languages/satawalese">Satawalese</a></td><td style="white-space: nowrap;"><i>sarapul</i></td>
+<td>'<span>Corvus</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>saẓeɸer</i></td>
-<td>
-'<span>Corvus; a summer month</span>'</td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td style="white-space: nowrap;"><i>saẓeɸer</i></td>
+<td>'<span>Corvus; a summer month</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/lamotrek">Lamotrek</a></td><td><i>sorabol</i></td>
-<td>
-'<span>Corvus</span>' (<span>lit. ‘viewer of the taro patches’</span>)</td>
+<td>Mic</td><td><a href="../languages/lamotrek">Lamotrek</a></td><td style="white-space: nowrap;"><i>sorabol</i></td>
+<td>'<span>Corvus</span>' (<span>lit. ‘viewer of the taro patches’</span>)</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/sonsorolese">Sonsorolese</a></td><td><i>talebʷərᵚ</i></td>
-<td>
-'<span>name of a star</span>'</td>
+<td>Mic</td><td><a href="../languages/sonsorolese">Sonsorolese</a></td><td style="white-space: nowrap;"><i>talebʷərᵚ</i></td>
+<td>'<span>name of a star</span>'</td>
 </tr>
 </table>
 
@@ -3249,23 +2839,19 @@ The following star reconstructions are limited to Proto Chuukic, a subgroup of M
 <td style="white-space: nowrap;">
 <i>&ast;ici</i>
 </td>
-<td>
-'<span>constellation Leo</span>'</td>
+<td>'<span>constellation Leo</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/mortlockese">Mortlockese</a></td><td><i>yis</i></td>
-<td>
-'<span>constellation Leo</span>'</td>
+<td>Mic</td><td><a href="../languages/mortlockese">Mortlockese</a></td><td style="white-space: nowrap;"><i>yis</i></td>
+<td>'<span>constellation Leo</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td><i>yic̣c̣</i></td>
-<td>
-'<span>name for three unidentified stars</span>'</td>
+<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td style="white-space: nowrap;"><i>yic̣c̣</i></td>
+<td>'<span>name for three unidentified stars</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>ic̣</i></td>
-<td>
-'<span>star in Leo (Hydra or Regulus)</span>'</td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td style="white-space: nowrap;"><i>ic̣</i></td>
+<td>'<span>star in Leo (Hydra or Regulus)</span>'</td>
 </tr>
 </table>
 
@@ -3277,28 +2863,23 @@ The following star reconstructions are limited to Proto Chuukic, a subgroup of M
 <td style="white-space: nowrap;">
 <i>&ast;mul</i>
 </td>
-<td>
-'<span>Vega, brightest star in constellation Lyra</span>'</td>
+<td>'<span>Vega, brightest star in constellation Lyra</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td><i>mə̄l</i></td>
-<td>
-'<span>Vega; a month about February</span>'</td>
+<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td style="white-space: nowrap;"><i>mə̄l</i></td>
+<td>'<span>Vega; a month about February</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/carolinian">Carolinian</a></td><td><i>mə̄l</i></td>
-<td>
-'<span>star Vega</span>'</td>
+<td>Mic</td><td><a href="../languages/carolinian">Carolinian</a></td><td style="white-space: nowrap;"><i>mə̄l</i></td>
+<td>'<span>star Vega</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/satawalese">Satawalese</a></td><td><i>mun</i></td>
-<td>
-'<span>Vega</span>'</td>
+<td>Mic</td><td><a href="../languages/satawalese">Satawalese</a></td><td style="white-space: nowrap;"><i>mun</i></td>
+<td>'<span>Vega</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>mer</i></td>
-<td>
-'<span>Vega</span>'</td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td style="white-space: nowrap;"><i>mer</i></td>
+<td>'<span>Vega</span>'</td>
 </tr>
 </table>
 
@@ -3310,28 +2891,23 @@ The following star reconstructions are limited to Proto Chuukic, a subgroup of M
 <td style="white-space: nowrap;">
 <i>&ast;caw</i>
 </td>
-<td>
-'<span>Dip net constellation, approximately Corona Borealis</span>'</td>
+<td>'<span>Dip net constellation, approximately Corona Borealis</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td><i>ṛōw</i></td>
-<td>
-'<span>star and a month at the end of the breadfruit season, about December; hand net</span>'</td>
+<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td style="white-space: nowrap;"><i>ṛōw</i></td>
+<td>'<span>star and a month at the end of the breadfruit season, about December; hand net</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/carolinian">Carolinian</a></td><td><i>ṣōw</i></td>
-<td>
-'<span>constellation approximately equivalent to Corona Borealis; dipping net</span>'</td>
+<td>Mic</td><td><a href="../languages/carolinian">Carolinian</a></td><td style="white-space: nowrap;"><i>ṣōw</i></td>
+<td>'<span>constellation approximately equivalent to Corona Borealis; dipping net</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/satawalese">Satawalese</a></td><td><i>roe</i></td>
-<td>
-'<span>Corona Borealis, shaped like a dip net</span>' (<span><em>roe</em> lit. ‘dip net’</span>)</td>
+<td>Mic</td><td><a href="../languages/satawalese">Satawalese</a></td><td style="white-space: nowrap;"><i>roe</i></td>
+<td>'<span>Corona Borealis, shaped like a dip net</span>' (<span><em>roe</em> lit. ‘dip net’</span>)</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>ṣoū</i></td>
-<td>
-'<span>a Corona Borealis star</span>'</td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td style="white-space: nowrap;"><i>ṣoū</i></td>
+<td>'<span>a Corona Borealis star</span>'</td>
 </tr>
 </table>
 
@@ -3343,23 +2919,19 @@ The following star reconstructions are limited to Proto Chuukic, a subgroup of M
 <td style="white-space: nowrap;">
 <i>&ast;wuleko</i>
 </td>
-<td>
-'<span>stars in Ursa Major</span>'</td>
+<td>'<span>stars in Ursa Major</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td><i>wələ</i></td>
-<td>
-'<span>stars in big Dipper, Ursa Major</span>'</td>
+<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td style="white-space: nowrap;"><i>wələ</i></td>
+<td>'<span>stars in big Dipper, Ursa Major</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/satawalese">Satawalese</a></td><td><i>wulego</i></td>
-<td>
-'<span>four stars of Ursa Major (Dubhe, Megrez, Phaeda, Merak) which constitute the cup of the Big Dipper’s ladle</span>'</td>
+<td>Mic</td><td><a href="../languages/satawalese">Satawalese</a></td><td style="white-space: nowrap;"><i>wulego</i></td>
+<td>'<span>four stars of Ursa Major (Dubhe, Megrez, Phaeda, Merak) which constitute the cup of the Big Dipper’s ladle</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>werexe</i></td>
-<td>
-'<span>star in Ursa Major</span>'</td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td style="white-space: nowrap;"><i>werexe</i></td>
+<td>'<span>star in Ursa Major</span>'</td>
 </tr>
 </table>
 
@@ -3371,33 +2943,27 @@ The following star reconstructions are limited to Proto Chuukic, a subgroup of M
 <td style="white-space: nowrap;">
 <i>&ast;tə̄(d,z)a</i>
 </td>
-<td>
-'<span>constellation Equeleus</span>' (<span>tiny constellation between Pegasus and Aquila</span>)</td>
+<td>'<span>constellation Equeleus</span>' (<span>tiny constellation between Pegasus and Aquila</span>)</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/mortlockese">Mortlockese</a></td><td><i>sota</i></td>
-<td>
-'<span>Equeleus</span>'</td>
+<td>Mic</td><td><a href="../languages/mortlockese">Mortlockese</a></td><td style="white-space: nowrap;"><i>sota</i></td>
+<td>'<span>Equeleus</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td><i>hə̄ta</i></td>
-<td>
-'<span>Equeleus; month about April</span>'</td>
+<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td style="white-space: nowrap;"><i>hə̄ta</i></td>
+<td>'<span>Equeleus; month about April</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/carolinian">Carolinian</a></td><td><i>sēta</i></td>
-<td>
-'<span>month in the traditional siderial calendar, about April</span>'</td>
+<td>Mic</td><td><a href="../languages/carolinian">Carolinian</a></td><td style="white-space: nowrap;"><i>sēta</i></td>
+<td>'<span>month in the traditional siderial calendar, about April</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/satawalese">Satawalese</a></td><td><i>ceuta</i></td>
-<td>
-'<span>stars in Equeleus; month about April</span>' (<span>Thomas 1987:239, 270</span>)</td>
+<td>Mic</td><td><a href="../languages/satawalese">Satawalese</a></td><td style="white-space: nowrap;"><i>ceuta</i></td>
+<td>'<span>stars in Equeleus; month about April</span>' (<span>Thomas 1987:239, 270</span>)</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>sɨta</i></td>
-<td>
-'<span>Aquarius, a winter month</span>'</td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td style="white-space: nowrap;"><i>sɨta</i></td>
+<td>'<span>Aquarius, a winter month</span>'</td>
 </tr>
 </table>
 
@@ -3420,24 +2986,20 @@ I have located terms only within Polynesia and Fiji for the Magellanic Clouds. T
 <td style="white-space: nowrap;">
 <i>&ast;maqafu</i>
 </td>
-<td>
-'<span>Magellanic Clouds</span>'</td>
+<td>'<span>Magellanic Clouds</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>maʔafu</i></td>
-<td>
-'<span>Magellanic Clouds</span>' (<span>a primary reference point for Tongan orientation. <em>maʔafu lele</em> ‘flying fire’ and <em>maʔafu toka</em> ‘stationary fire’</span>)</td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td style="white-space: nowrap;"><i>maʔafu</i></td>
+<td>'<span>Magellanic Clouds</span>' (<span>a primary reference point for Tongan orientation. <em>maʔafu lele</em> ‘flying fire’ and <em>maʔafu toka</em> ‘stationary fire’</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/pileni">Pileni</a></td><td><i>lua mafu</i></td>
-<td>
-'<span>Magellanic Clouds</span>' (<a href="../sources/Lewis1994">Lewis1994: 406</a>)
+<td>Pn</td><td><a href="../languages/pileni">Pileni</a></td><td style="white-space: nowrap;"><i>lua mafu</i></td>
+<td>'<span>Magellanic Clouds</span>' (<a href="../sources/Lewis1994">Lewis1994: 406</a>)
 </td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/manihiki">Manihiki</a></td><td><i>rua mafu</i></td>
-<td>
-'<span>Magellanic Clouds</span>' (<a href="../sources/Lewis1994">Lewis1994: 407</a>)
+<td>Pn</td><td><a href="../languages/manihiki">Manihiki</a></td><td style="white-space: nowrap;"><i>rua mafu</i></td>
+<td>'<span>Magellanic Clouds</span>' (<a href="../sources/Lewis1994">Lewis1994: 407</a>)
 </td>
 </tr>
 </table>
@@ -3479,38 +3041,31 @@ In Bauan they were _matādravu ni sautū_, literally ‘hearth of peace and plen
 <td style="white-space: nowrap;">
 <i>&ast;kaniwa</i>
 </td>
-<td>
-'<span>the Milky Way</span>'</td>
+<td>'<span>the Milky Way</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>kaniva</i></td>
-<td>
-</td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td style="white-space: nowrap;"><i>kaniva</i></td>
+<td></td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>ʔaniva</i></td>
-<td>
-</td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>ʔaniva</i></td>
+<td></td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/sikaiana">Sikaiana</a></td><td><i>kaniva</i></td>
-<td>
-'<span>rainbow</span>'</td>
+<td>Pn</td><td><a href="../languages/sikaiana">Sikaiana</a></td><td style="white-space: nowrap;"><i>kaniva</i></td>
+<td>'<span>rainbow</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>te kau tu keniva</i></td>
-<td>
-'<span>the Milky Way</span>' (<span>lit. ‘handle of <em>keniva</em>’</span>)</td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td style="white-space: nowrap;"><i>te kau tu keniva</i></td>
+<td>'<span>the Milky Way</span>' (<span>lit. ‘handle of <em>keniva</em>’</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tokelauan">Tokelauan</a></td><td><i>kaniva</i></td>
-<td>
-</td>
+<td>Pn</td><td><a href="../languages/tokelauan">Tokelauan</a></td><td style="white-space: nowrap;"><i>kaniva</i></td>
+<td></td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/westfutunan">West Futunan</a></td><td><i>kaniva</i></td>
-<td>
-</td>
+<td>Pn</td><td><a href="../languages/westfutunan">West Futunan</a></td><td style="white-space: nowrap;"><i>kaniva</i></td>
+<td></td>
 </tr>
 </table>
 
@@ -3541,43 +3096,35 @@ Lewis records identical advice given to him by a Tongan navigator in 1965, who r
 <td style="white-space: nowrap;">
 <i>&ast;kaweiŋa</i>
 </td>
-<td>
-'<span>that which is steered for (usually a star)</span>' (<span>From PPn <em><em>kawe_ ‘to carry’+ <em>-i</em> ‘verbal suffix from POc transitive marker _</em>i</em>’ + <em>-ŋa</em> ‘nominaliser’</span>)</td>
+<td>'<span>that which is steered for (usually a star)</span>' (<span>From PPn <em>&ast;kawe</em> ‘to carry’+ <em>-i</em> ‘verbal suffix from POc transitive marker <em>&ast;i</em>’ + <em>-ŋa</em> ‘nominaliser’</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>kaveiŋa</i></td>
-<td>
-'<span>star or other object for which one steers</span>'</td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td style="white-space: nowrap;"><i>kaveiŋa</i></td>
+<td>'<span>star or other object for which one steers</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/pukapukan">Pukapukan</a></td><td><i>kaveiŋa</i></td>
-<td>
-'<span>a group of stars on the same declination, thought of as a constellation</span>'</td>
+<td>Pn</td><td><a href="../languages/pukapukan">Pukapukan</a></td><td style="white-space: nowrap;"><i>kaveiŋa</i></td>
+<td>'<span>a group of stars on the same declination, thought of as a constellation</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>kaveŋa</i></td>
-<td>
-'<span>carrier; esp. navigational aid by sequence of stars, star path</span>'</td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td style="white-space: nowrap;"><i>kaveŋa</i></td>
+<td>'<span>carrier; esp. navigational aid by sequence of stars, star path</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tahitian">Tahitian</a></td><td><i>aveiʔa</i></td>
-<td>
-'<span>star path</span>'</td>
+<td>Pn</td><td><a href="../languages/tahitian">Tahitian</a></td><td style="white-space: nowrap;"><i>aveiʔa</i></td>
+<td>'<span>star path</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tuamotuan">Tuamotuan</a></td><td><i>kave(e)iŋa</i></td>
-<td>
-'<span>guiding star</span>'</td>
+<td>Pn</td><td><a href="../languages/tuamotuan">Tuamotuan</a></td><td style="white-space: nowrap;"><i>kave(e)iŋa</i></td>
+<td>'<span>guiding star</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/rarotongan">Rarotongan</a></td><td><i>kaveiŋa</i></td>
-<td>
-'<span>that which is steered for</span>'</td>
+<td>Pn</td><td><a href="../languages/rarotongan">Rarotongan</a></td><td style="white-space: nowrap;"><i>kaveiŋa</i></td>
+<td>'<span>that which is steered for</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/anutan">Anutan</a></td><td><i>kāveŋa</i></td>
-<td>
-'<span>the major guiding stars or constellations</span>'</td>
+<td>Pn</td><td><a href="../languages/anutan">Anutan</a></td><td style="white-space: nowrap;"><i>kāveŋa</i></td>
+<td>'<span>the major guiding stars or constellations</span>'</td>
 </tr>
 </table>
 
@@ -3616,8 +3163,7 @@ POc _&ast;sake_ had as its primary sense ‘rise, go up’. But it also had the 
 <td style="white-space: nowrap;">
 <i>&ast;sa(ŋ)kay</i>
 </td>
-<td>
-'<span>catch a ride, ride on something</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>catch a ride, ride on something</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -3625,119 +3171,96 @@ POc _&ast;sake_ had as its primary sense ‘rise, go up’. But it also had the 
 <td style="white-space: nowrap;">
 <i>&ast;sake</i>
 </td>
-<td>
-'<span>rise, go up; upwards</span>' (<span>see also p.273</span>)</td>
+<td>'<span>rise, go up; upwards</span>' (<span>see also p.273</span>)</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td><i>(sae)sae(na)</i></td>
-<td>
-'<span>upwards</span>'</td>
+<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td style="white-space: nowrap;"><i>(sae)sae(na)</i></td>
+<td>'<span>upwards</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/kove">Kove</a></td><td><i>rae</i></td>
-<td>
-'<span>rise</span>' (<span>Chowning</span>)</td>
+<td>NNG</td><td><a href="../languages/kove">Kove</a></td><td style="white-space: nowrap;"><i>rae</i></td>
+<td>'<span>rise</span>' (<span>Chowning</span>)</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/kove">Kove</a></td><td><i>sae</i></td>
-<td>
-'<span>up, eastwards along the coast</span>' (<span>Chowning</span>)</td>
+<td>NNG</td><td><a href="../languages/kove">Kove</a></td><td style="white-space: nowrap;"><i>sae</i></td>
+<td>'<span>up, eastwards along the coast</span>' (<span>Chowning</span>)</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>dae</i></td>
-<td>
-'<span>ascend</span>'</td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td style="white-space: nowrap;"><i>dae</i></td>
+<td>'<span>ascend</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/balivitu">Bali-Vitu</a></td><td><i>ðaɣe</i></td>
-<td>
-'<span>(sun) rise</span>'</td>
+<td>MM</td><td><a href="../languages/balivitu">Bali-Vitu</a></td><td style="white-space: nowrap;"><i>ðaɣe</i></td>
+<td>'<span>(sun) rise</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td><i>sae</i></td>
-<td>
-'<span>rise</span>'</td>
+<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td style="white-space: nowrap;"><i>sae</i></td>
+<td>'<span>rise</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/meramera">Meramera</a></td><td><i>saʔe</i></td>
-<td>
-'<span>climb</span>'</td>
+<td>MM</td><td><a href="../languages/meramera">Meramera</a></td><td style="white-space: nowrap;"><i>saʔe</i></td>
+<td>'<span>climb</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>taʔe</i></td>
-<td>
-'<span>up, inland</span>'</td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>taʔe</i></td>
+<td>'<span>up, inland</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>taʔe</i></td>
-<td>
-'<span>go up, ascend</span>'</td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td style="white-space: nowrap;"><i>taʔe</i></td>
+<td>'<span>go up, ascend</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>tae</i></td>
-<td>
-'<span>rise, ascend, get up, climb</span>'</td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td style="white-space: nowrap;"><i>tae</i></td>
+<td>'<span>rise, ascend, get up, climb</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/longgu">Longgu</a></td><td><i>taʔe</i></td>
-<td>
-'<span>ascend, go up</span>'</td>
+<td>SES</td><td><a href="../languages/longgu">Longgu</a></td><td style="white-space: nowrap;"><i>taʔe</i></td>
+<td>'<span>ascend, go up</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>rake</i></td>
-<td>
-'<span>up, upwards, eastwards</span>'</td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>rake</i></td>
+<td>'<span>up, upwards, eastwards</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>tak</i></td>
-<td>
-'<span>eastward, upward</span>'</td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td style="white-space: nowrap;"><i>tak</i></td>
+<td>'<span>eastward, upward</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/ponapean">Ponapean</a></td><td><i>tak</i></td>
-<td>
-'<span>rise, of the sun and moon</span>'</td>
+<td>Mic</td><td><a href="../languages/ponapean">Ponapean</a></td><td style="white-space: nowrap;"><i>tak</i></td>
+<td>'<span>rise, of the sun and moon</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/mokilese">Mokilese</a></td><td><i>tak</i></td>
-<td>
-'<span>rise (of sun); to shine</span>'</td>
+<td>Mic</td><td><a href="../languages/mokilese">Mokilese</a></td><td style="white-space: nowrap;"><i>tak</i></td>
+<td>'<span>rise (of sun); to shine</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kosraean">Kosraean</a></td><td><i>tak</i></td>
-<td>
-'<span>rise</span>'</td>
+<td>Mic</td><td><a href="../languages/kosraean">Kosraean</a></td><td style="white-space: nowrap;"><i>tak</i></td>
+<td>'<span>rise</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>tax</i></td>
-<td>
-'<span>upward, eastward, up</span>' (<span><em>xetaxe-fɨs</em> (N), ‘rising stars’ eg <em>taxari-pʷu</em> ‘Crux rising’, <em>taxrli-metaẓɨwa</em> ‘Scorpio rising’. Also <em>taxari-yaro</em> ‘sunrise’</span>)</td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td style="white-space: nowrap;"><i>tax</i></td>
+<td>'<span>upward, eastward, up</span>' (<span><em>xetaxe-fɨs</em> (N), ‘rising stars’ eg <em>taxari-pʷu</em> ‘Crux rising’, <em>taxrli-metaẓɨwa</em> ‘Scorpio rising’. Also <em>taxari-yaro</em> ‘sunrise’</span>)</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td><i>tǣn</i></td>
-<td>
-'<span>(star) rise in the east</span>' (<span>e.g. <em>tānupʷ</em> ‘rising Southern Cross’, <em>tāni mə̄l</em> ‘rising Vega’. Lewis refers to (uncorrected spelling) <em>daane elüüel</em> ‘rising Orion__s Belt, 90°’, <em>daane mailöb</em> ‘rising Altair, 83°’, and <em>daan uun</em> ‘rising Aldebaran, 75°’</span>) (<a href="../sources/Lewis1994">Lewis1994: 404</a>)
+<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td style="white-space: nowrap;"><i>tǣn</i></td>
+<td>'<span>(star) rise in the east</span>' (<span>e.g. <em>tānupʷ</em> ‘rising Southern Cross’, <em>tāni mə̄l</em> ‘rising Vega’. Lewis refers to (uncorrected spelling) <em>daane elüüel</em> ‘rising Orion__s Belt, 90°’, <em>daane mailöb</em> ‘rising Altair, 83°’, and <em>daan uun</em> ‘rising Aldebaran, 75°’</span>) (<a href="../sources/Lewis1994">Lewis1994: 404</a>)
 </td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/carolinian">Carolinian</a></td><td><i>tǣn</i></td>
-<td>
-'<span>rising (esp. heavenly bodies)</span>'</td>
+<td>Mic</td><td><a href="../languages/carolinian">Carolinian</a></td><td style="white-space: nowrap;"><i>tǣn</i></td>
+<td>'<span>rising (esp. heavenly bodies)</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>ðake</i></td>
-<td>
-'<span>east; upwards</span>'</td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td style="white-space: nowrap;"><i>ðake</i></td>
+<td>'<span>east; upwards</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>hake</i></td>
-<td>
-'<span>go up, esp. from the sea to the land</span>'</td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td style="white-space: nowrap;"><i>hake</i></td>
+<td>'<span>go up, esp. from the sea to the land</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>ha-hake</i></td>
-<td>
-'<span>east</span>'</td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td style="white-space: nowrap;"><i>ha-hake</i></td>
+<td>'<span>east</span>'</td>
 </tr>
 </table>
 
@@ -3760,108 +3283,87 @@ The POc term usually contrasted with _&ast;sake_ ‘to go up, upwards’ is _&as
 <td style="white-space: nowrap;">
 <i>&ast;sipo</i>
 </td>
-<td>
-'<span>go down, downwards</span>' (<span>see also p.271</span>)</td>
+<td>'<span>go down, downwards</span>' (<span>see also p.271</span>)</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/lou">Lou</a></td><td><i>si</i></td>
-<td>
-'<span>down; descend</span>'</td>
+<td>Adm</td><td><a href="../languages/lou">Lou</a></td><td style="white-space: nowrap;"><i>si</i></td>
+<td>'<span>down; descend</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/kove">Kove</a></td><td><i>rio</i></td>
-<td>
-'<span>descend, lie down, be swallowed</span>'</td>
+<td>NNG</td><td><a href="../languages/kove">Kove</a></td><td style="white-space: nowrap;"><i>rio</i></td>
+<td>'<span>descend, lie down, be swallowed</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/kove">Kove</a></td><td><i>sio</i></td>
-<td>
-'<span>down, westward along the coast</span>'</td>
+<td>NNG</td><td><a href="../languages/kove">Kove</a></td><td style="white-space: nowrap;"><i>sio</i></td>
+<td>'<span>down, westward along the coast</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>diho</i></td>
-<td>
-'<span>go down, descend</span>'</td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td style="white-space: nowrap;"><i>diho</i></td>
+<td>'<span>go down, descend</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/balivitu">Bali-Vitu</a></td><td><i>(va)ðiɣo(ni)</i></td>
-<td>
-'<span>downwards</span>'</td>
+<td>MM</td><td><a href="../languages/balivitu">Bali-Vitu</a></td><td style="white-space: nowrap;"><i>(va)ðiɣo(ni)</i></td>
+<td>'<span>downwards</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td><i>sivo</i></td>
-<td>
-'<span>go down</span>'</td>
+<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td style="white-space: nowrap;"><i>sivo</i></td>
+<td>'<span>go down</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tomoip">Tomoip</a></td><td><i>tio</i></td>
-<td>
-'<span>(sun) set</span>'</td>
+<td>MM</td><td><a href="../languages/tomoip">Tomoip</a></td><td style="white-space: nowrap;"><i>tio</i></td>
+<td>'<span>(sun) set</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>sifo</i></td>
-<td>
-'<span>late afternoon rain</span>'</td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td style="white-space: nowrap;"><i>sifo</i></td>
+<td>'<span>late afternoon rain</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td><i>siho</i></td>
-<td>
-'<span>(sun) set</span>'</td>
+<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>siho</i></td>
+<td>'<span>(sun) set</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td><i>tupʷu</i></td>
-<td>
-'<span>setting (western) position of a heavenly body</span>'</td>
+<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td style="white-space: nowrap;"><i>tupʷu</i></td>
+<td>'<span>setting (western) position of a heavenly body</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td><i>tupʷwu</i></td>
-<td>
-'<span>(sun) set</span>'</td>
+<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td style="white-space: nowrap;"><i>tupʷwu</i></td>
+<td>'<span>(sun) set</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/carolinian">Carolinian</a></td><td><i>tʉbʷʉ</i></td>
-<td>
-'<span>sink, go down, set (of sun, moon, stars)</span>'</td>
+<td>Mic</td><td><a href="../languages/carolinian">Carolinian</a></td><td style="white-space: nowrap;"><i>tʉbʷʉ</i></td>
+<td>'<span>sink, go down, set (of sun, moon, stars)</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/carolinian">Carolinian</a></td><td><i>tubʷul</i></td>
-<td>
-[N] '<span>setting, setting position of stars etc.</span>'</td>
+<td>Mic</td><td><a href="../languages/carolinian">Carolinian</a></td><td style="white-space: nowrap;"><i>tubʷul</i></td>
+<td>[N] '<span>setting, setting position of stars etc.</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>tuɸu</i></td>
-<td>
-'<span>set, of heavenly bodies</span>' (<span>e.g. <em>tuɸuri-werexe</em> ‘Ursa Major setting’, <em>tuɸuri-yaro</em> ‘setting sun’</span>)</td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td style="white-space: nowrap;"><i>tuɸu</i></td>
+<td>'<span>set, of heavenly bodies</span>' (<span>e.g. <em>tuɸuri-werexe</em> ‘Ursa Major setting’, <em>tuɸuri-yaro</em> ‘setting sun’</span>)</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>ðivo-ðivo</i></td>
-<td>
-'<span>wind sweeping down from hills</span>'</td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td style="white-space: nowrap;"><i>ðivo-ðivo</i></td>
+<td>'<span>wind sweeping down from hills</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>ifo</i></td>
-<td>
-'<span>downwards</span>'</td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>ifo</i></td>
+<td>'<span>downwards</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>hifo</i></td>
-<td>
-'<span>downwards</span>'</td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td style="white-space: nowrap;"><i>hifo</i></td>
+<td>'<span>downwards</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>ifo</i></td>
-<td>
-'<span>down, come down, descend</span>'</td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td style="white-space: nowrap;"><i>ifo</i></td>
+<td>'<span>down, come down, descend</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>iho</i></td>
-<td>
-'<span>downwards</span>'</td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td style="white-space: nowrap;"><i>iho</i></td>
+<td>'<span>downwards</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>iho</i></td>
-<td>
-'<span>downwards</span>'</td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td style="white-space: nowrap;"><i>iho</i></td>
+<td>'<span>downwards</span>'</td>
 </tr>
 </table>
 
@@ -4186,4 +3688,4 @@ However, it seems that gains have been made in another, unexpected, direction. A
 
 [^19]: _pāfüs_ in the orthography used here.
 
-[^20]: These forms are in Lewis’s (1978) orthography.
+[^20]: These forms are in [Lewis’s](../sources/Lewis1978) ([1978](../sources/Lewis1978)) orthography.

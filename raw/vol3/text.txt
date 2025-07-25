@@ -2208,7 +2208,7 @@ __tablenh__
 
 __tablenh__
   _a-mʷakot_           |    '_Dysoxylum_ spp.'        |   POc       _*maqota_              |   ch.7, §4.5
-  _a-yayak_            |    '_Myristica schleintzii_' |   POc       _*(d,r)aRa(q,k)(a,i)_|   ch.7, §5.9
+  _a-yayak_            |    '_Myristica schleinitzii_' |   POc       _*(d,r)aRa(q,k)(a,i)_|   ch.7, §5.9
   _a-gi-gaway_         |    '_Ficus tinctoria_'       |   POc       _*qayawan_             |   ch.10, §4
   _a-nag_              |    '_Cordia_ sp.'            |   PWOc      _*nagi_                |   ch.5, §4.1.1
   _a-simʷal(gayas)_    |    '_Glochidion_ sp.'        |   PWOc      _*ji(m,mʷ)(a,i)R_      |   ch.8, §2.4
@@ -2262,7 +2262,7 @@ _kailalālau_   | 'thorny shrubs, Caesalpinia spp.'          | _lau_      | 'be 
 _kailō_        | 'small trees, _Diospyros_ spp. "             | _lō_       | 'be dark, secretive'
 _kaimoðemoðe_  | 'mimosoid tree taxon'                      | _moðemoðe_ | 'have a short sleep'
 _kaimoku_      | 'creeper, _Mimosa pudica_'                   | …          |
-_kaivula_      | 'tree, probably _Endospermum  macrophyllum_' | _vula_     | 'moon'
+_kaivula_      | 'tree, probably _Endospermum macrophyllum_' | _vula_     | 'moon'
 
     Significantly, for six out of seven the dictionary independently lists a meaning for the
 root. For four the descriptive meaning is clear. _Myristica chartacea_ has red sap: _dam_ and _drisi_
@@ -2279,7 +2279,7 @@ __tablenh__
 _ʔaibū_      |  'tree, _Diospyros ebenum_'               | …        |
 _ʔaisarufi_  |  'tree, _Eugenia effusa_'                | _sarufi_ |   'big tree, _Litsea_ alba'
 _ʔaisaliŋa_  |  'big tree, _Aporosa papuana_'            | _aliŋa_  |  'ear'
-_ʔaisubu_    |  'big tree, _Pimeleodendron amboinicum_'  | …        |
+_ʔaisubu_    |  'big tree, _Pimelodendron amboinicum_'  | …        |
 _ʔaiuluulu_  |  'big tree, _Vitex cofassus_'             | _uluulu_ |   'bushy'
 _ʔaikame_    |  'big tree, _Putranjiva roxburgii_        | _kame_   |   'monitor lizard'
 _ʔaikusi_    |  'big tree, _Cryptocarya_ alleniana"      | _kusi_   |   'greybird'
@@ -6601,17 +6601,17 @@ and so the protoform is reconstructed for PEOc, not for POc. As Lynch (2004a) po
 a number of the forms from Malakula display metathesis, reflecting _*bʷalaka_ rather than
 _*bʷakala_, whilst Anejom displays loss of medial _*-k-_. These appear to be local innovations.
 More problematic are the discrepancies between the SE Solomonic forms and all other
-reflexes, as they make a reliable PEOc reconstruction impossible. Proto Southeast Solomonic _*vaɣalo_
+reflexes, as they make a reliable PEOc reconstruction impossible. PSES _*vaɣalo_
 '_Hibiscus tiliaceus_' looks very like an irregular (borrowed?) reflex of POc _*paRu_ above,
-which was also regularly reflected as Proto Southeast Solomonic _*vatu_, as the SES forms above
+which was also regularly reflected as PSES _*vatu_, as the SES forms above
 show. The PNCV form _*bʷakala_ displays the rounding feature not on its final syllable (cf
-Proto Southeast Solomonic _*-o_) but on its first syllable. This is decidedly unusual, but, as the
+PSES _*-o_) but on its first syllable. This is decidedly unusual, but, as the
 alternative Kwara'ae dialectal form _faʔola_ shows, rounding shift does occur.
 
 <
 PEOc *pakalo, *pʷakala (?)'_Hibiscus_ sp.'
   MM:   Kokota        fayalo
-Proto Southeast Solomonic *vaɣalo  '_Hibiscus tiliaceus_'
+PSES *vaɣalo  '_Hibiscus tiliaceus_'
   SES:  Bugotu        vaɣaðo         '_Hibiscus tiliaceus_' (Henderson & Hancock 1988)
   SES:  Gela          vaɣalo         'tree sp.'
   SES:  Birao         vahalo         '_Hibiscus tiliaceus_'
@@ -6735,7 +6735,7 @@ PMic *na-nasu '_Scaevola_ sp.'
   Mic: Woleaian      n-natɨ                   'half-flower, _Scaevola_ sp.' (Bender et al. 2003)
 PPn *ŋasu 'a seaside shrub, _Scaevola_ sp.'
   Pn:  Tongan        ŋahu                     '_Scaevola taccada_'
-  Pn:  Niuean        ŋahu                     '_Cyrtrandra samoensis_'
+  Pn:  Niuean        ŋahu                     '_Cyrtandra samoensis_'
   Pn:  Niuean        ŋahu-pā                  '_Scaevola taccada_'
   Pn:  E Uvean       ŋahu                     '_Scaevola_ sp.'
   Pn:  E Futunan     ŋasu                     'a seaside plant'
@@ -7618,7 +7618,7 @@ The third, _Fagraea gracilipes_, is reported only from the western Solomons and 
 
      _Fagraea berteroana_ takes several forms. Peekel describes two. In the Bismarcks it is either
 a foreshore shrub, 2-6 m tall, with no bole - it branches at ground level - or an epiphyte,
-growing on another tree, commonly Inocarpus, Intsia or _Calophyllum_, without a stem of
+growing on another tree, commonly _Inocarpus_, _Intsia_ or _Calophyllum_, without a stem of
 its own and without taking nutrients from its host. The epiphyte form is also described by
 Kwa'ioloa & Burt (2001: 228) and mentioned by Wheatley (1992: 146) and Whistler & Elevitch (2006d).
 The latter two sources also describe a third form, a small tree growing to
@@ -8010,7 +8010,7 @@ PPn *puka-tea '_Pisonia_ sp. or spp.' (*puka '_Pisonia_ sp.', *tea 'white')
   Pn:   Tahitian         puatea            '_Pisonia umbellifera_'
   Pn:   Tuamotuan        pukatea           '_Pisonia_ spp.'
   Pn:   Rarotongan       pukatea           'large tree spp., _Pisonia grandis_, _Pisonia umbellifera_'
-  Pn:   Maori            pukatea           'a large tree with white bark, _Laurelia novaezelandiae_'
+  Pn:   Maori            pukatea           'a large tree with white bark, _Laurelia novae-zelandiae_'
 >
 
 [26] This assumes that the terms in the cognate set are all correctly glossed.
@@ -8552,7 +8552,7 @@ is correct, then Patpatar _i-kon_ points to POc _*kayu qone_, 'tree of beach, be
 Tolai _ka-_ is not a regular prefix in tree names, it quite possibly reflects _*kayu_ in this
 instance, as the latter must have been an intrinsic part of the name. Nyelayu _kʰon_ reflects
 _*kV-kon_ at a recent interstage and has a history like that of the Tolai reflex.
-Proto Southeast Solomonic _*(q)one-(q)one_ reflects POc _*qone-qone_ 'sandy'.
+PSES _*(q)one-(q)one_ reflects POc _*qone-qone_ 'sandy'.
 
 [4] Cf Vitu (MM) _toto_ 'milk', Mota (NCV) _totoa-_ 'juice of tree, thick fluid in bark', Raga (NCV) _toto_ 'sap' ,
 Nguna (NCV) _totoa_ 'sap, exude sap' (NCV items from Clark 1996), PPn _*toto_ 'blood, sap' (POLLEX).
@@ -8568,7 +8568,7 @@ POc *|kayu qone| '_Heritiera littoralis_'
 >
 
 <
-Proto Southeast Solomonic *(q)one-(q)one '_Heritiera littoralis_'
+PSES *(q)one-(q)one '_Heritiera littoralis_'
   SES:    Kwara'ae      one-one          '_Heritiera littoralis_'
   SES:    Lau           one-one          '_Heritiera littoralis_'
   SES:    Arosi         one-one          'large tree sp. with brightly coloured foliage'
@@ -10106,7 +10106,7 @@ POc *lowaŋa '_Litsea_ sp.'
 
 The most famous _Myristica_ species is the nutmeg, but its easternmost extent is West Papua
 (Warburg 1899: 57). Among the species of wild nutmeg which grow in the Bismarcks are
-_Myristica schleintzii_, a small foreshore tree 3-6 m tall, and _Myristica fatua_, a sub-canopy tree reaching
+_Myristica schleinitzii_, a small foreshore tree 3-6 m tall, and _Myristica fatua_, a sub-canopy tree reaching
 20m on New Ireland (Peekel 1984: 185). _Myristica fatua_ is a canopy tree in some areas, e.g. in
 Kwara'ae country. Both species prefer a damp environment and have stilt roots even in dry
 locations (Paijmans 1976: 37). POc _*(dr,d)aRa(q,k)a_ presumably denoted at least one of these
@@ -10182,7 +10182,7 @@ enough speculation above to commend prudence, and so I offer POc _*(dr,d)aRa(q,k
 
 <
 POc *(dr,d)aRa(q,k)a 'wild nutmeg, _Myristica_ sp.'
-     PT:    Muyuw         (a)yayak        '_Myristica schleintzii_'
+     PT:    Muyuw         (a)yayak        '_Myristica schleinitzii_'
      MM:    Kara (E)      de              '_Myristica fatua_'
      MM:    Lihir         lala            '_Myristica_ sp.' (Burley 2006)
      SES:   Kwara'ae      ka-kalaʔa       '_Myristica fatua_'
@@ -19653,7 +19653,7 @@ POc *jajal 'croton, _Codiaeum variegatum_'
 13.6.5 _Heliconia indica_, heliconia, Blif laplap (Heliconiaceae)
 
 Two species of _Heliconia_ grow in NW Island Melanesia, _Heliconia indica_ in eastern mainland New
-Guinea and the Bismarcks and _Heliconia salomonensis_ in Bougainville and the Solomons
+Guinea and the Bismarcks and _Heliconia solomonensis_ in Bougainville and the Solomons
 (R. Gardner, pers. comm.). The two appear to be very· similar (Figure 13.10, left).[21] Numerous short
 stems formed from leaf sheaths rise from an underground rhizome to a height of 5 or 6 m.
 The leaves resemble banana leaves, and under cultivation assume various colours and patterns:
@@ -19667,10 +19667,10 @@ Hviding 2005: 120).
 
 <
 POc *paqo '_Heliconia_ sp'
-     MM:  Nduke        vaɣo           'a large: perennial herb with banana-like leaves, _Heliconia salomonensis_'
+     MM:  Nduke        vaɣo           'a large: perennial herb with banana-like leaves, _Heliconia solomonensis_'
      MM:  Marovo       vaɣo           'tree sp. with large banana-like leaves, _Heliconia_ sp.'
      SES: Gela         vao-vao        'shrub with large leaves; wild banana'
-     SES: Santa Ana    fao            '_Heliconia salomonensis_'
+     SES: Santa Ana    fao            '_Heliconia solomonensis_'
      NCV: Mwotlap      (no-yo)va      '_Heliconia indica_' (_yo-_ 'leaf)
      NCV: Mota         vao            'a heliconium'
      Fij: Wayan        vā-vā          '_Heliconia_ sp.'

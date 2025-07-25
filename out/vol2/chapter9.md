@@ -339,8 +339,7 @@ All Polynesian reflexes point back to PPn _&ast;pō_ (for expected _&ast;poŋi_,
 <td style="white-space: nowrap;">
 <i>&ast;beRŋi</i>
 </td>
-<td>
-'<span>night</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>night</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -348,351 +347,282 @@ All Polynesian reflexes point back to PPn _&ast;pō_ (for expected _&ast;poŋi_,
 <td style="white-space: nowrap;">
 <i>&ast;boŋi</i>
 </td>
-<td>
-'<span>night, day of twenty-four hours</span>'</td>
+<td>'<span>night, day of twenty-four hours</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td><i>bo</i></td>
-<td>
-'<span>night</span>'</td>
+<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td style="white-space: nowrap;"><i>bo</i></td>
+<td>'<span>night</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td><i>bo-boŋi(ena)</i></td>
-<td>
-'<span>black</span>'</td>
+<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td style="white-space: nowrap;"><i>bo-boŋi(ena)</i></td>
+<td>'<span>black</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/loniu">Loniu</a></td><td><i>peŋ</i></td>
-<td>
-'<span>night</span>'</td>
+<td>Adm</td><td><a href="../languages/loniu">Loniu</a></td><td style="white-space: nowrap;"><i>peŋ</i></td>
+<td>'<span>night</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/drehet">Drehet</a></td><td><i>piŋ</i></td>
-<td>
-'<span>night</span>'</td>
+<td>Adm</td><td><a href="../languages/drehet">Drehet</a></td><td style="white-space: nowrap;"><i>piŋ</i></td>
+<td>'<span>night</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td><i>boŋ</i></td>
-<td>
-'<span>day, time</span>'</td>
+<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td style="white-space: nowrap;"><i>boŋ</i></td>
+<td>'<span>day, time</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/gedaged">Gedaged</a></td><td><i>boŋ(anip)</i></td>
-<td>
-'<span>at the end of night, tomorrow</span>'</td>
+<td>NNG</td><td><a href="../languages/gedaged">Gedaged</a></td><td style="white-space: nowrap;"><i>boŋ(anip)</i></td>
+<td>'<span>at the end of night, tomorrow</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/gitua">Gitua</a></td><td><i>boŋ</i></td>
-<td>
-'<span>last night</span>'</td>
+<td>NNG</td><td><a href="../languages/gitua">Gitua</a></td><td style="white-space: nowrap;"><i>boŋ</i></td>
+<td>'<span>last night</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/yabem">Yabem</a></td><td><i>-beʔ</i></td>
-<td>
-'<span>be night</span>'</td>
+<td>NNG</td><td><a href="../languages/yabem">Yabem</a></td><td style="white-space: nowrap;"><i>-beʔ</i></td>
+<td>'<span>be night</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/mangga">Mangga</a></td><td><i>bus(in)</i></td>
-<td>
-'<span>night, day of twenty-four hours</span>'</td>
+<td>NNG</td><td><a href="../languages/mangga">Mangga</a></td><td style="white-space: nowrap;"><i>bus(in)</i></td>
+<td>'<span>night, day of twenty-four hours</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/maposbuang">Mapos Buang</a></td><td><i>buk</i></td>
-<td>
-'<span>night, day of twenty-four hours</span>'</td>
+<td>NNG</td><td><a href="../languages/maposbuang">Mapos Buang</a></td><td style="white-space: nowrap;"><i>buk</i></td>
+<td>'<span>night, day of twenty-four hours</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/poeng">Poeng</a></td><td><i>voŋ(a-lua)</i></td>
-<td>
-'<span>day after tomorrow</span>'</td>
+<td>NNG</td><td><a href="../languages/poeng">Poeng</a></td><td style="white-space: nowrap;"><i>voŋ(a-lua)</i></td>
+<td>'<span>day after tomorrow</span>'</td>
 </tr>
 <tr>
-<td>SJ</td><td><a href="../languages/sobei">Sobei</a></td><td><i>pani</i></td>
-<td>
-'<span>night</span>'</td>
+<td>SJ</td><td><a href="../languages/sobei">Sobei</a></td><td style="white-space: nowrap;"><i>pani</i></td>
+<td>'<span>night</span>'</td>
 </tr>
 <tr>
-<td>SJ</td><td><a href="../languages/kayupulau">Kayupulau</a></td><td><i>boni</i></td>
-<td>
-'<span>night</span>'</td>
+<td>SJ</td><td><a href="../languages/kayupulau">Kayupulau</a></td><td style="white-space: nowrap;"><i>boni</i></td>
+<td>'<span>night</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>(hanua)boi</i></td>
-<td>
-'<span>night; till night</span>'</td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td style="white-space: nowrap;"><i>(hanua)boi</i></td>
+<td>'<span>night; till night</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/molima">Molima</a></td><td><i>boi-boi</i></td>
-<td>
-'<span>night</span>'</td>
+<td>PT</td><td><a href="../languages/molima">Molima</a></td><td style="white-space: nowrap;"><i>boi-boi</i></td>
+<td>'<span>night</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/dobu">Dobu</a></td><td><i>boi-boi</i></td>
-<td>
-'<span>night</span>'</td>
+<td>PT</td><td><a href="../languages/dobu">Dobu</a></td><td style="white-space: nowrap;"><i>boi-boi</i></td>
+<td>'<span>night</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/bwaidoga">Bwaidoga</a></td><td><i>boŋi</i></td>
-<td>
-'<span>night</span>'</td>
+<td>PT</td><td><a href="../languages/bwaidoga">Bwaidoga</a></td><td style="white-space: nowrap;"><i>boŋi</i></td>
+<td>'<span>night</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/kilivila">Kilivila</a></td><td><i>bogi</i></td>
-<td>
-'<span>night; darkness</span>'</td>
+<td>PT</td><td><a href="../languages/kilivila">Kilivila</a></td><td style="white-space: nowrap;"><i>bogi</i></td>
+<td>'<span>night; darkness</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td><i>vuŋ</i></td>
-<td>
-'<span>night</span>'</td>
+<td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td style="white-space: nowrap;"><i>vuŋ</i></td>
+<td>'<span>night</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/notsi">Notsi</a></td><td><i>biŋ</i></td>
-<td>
-'<span>night</span>'</td>
+<td>MM</td><td><a href="../languages/notsi">Notsi</a></td><td style="white-space: nowrap;"><i>biŋ</i></td>
+<td>'<span>night</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/patpatar">Patpatar</a></td><td><i>buŋ</i></td>
-<td>
-'<span>night</span>'</td>
+<td>MM</td><td><a href="../languages/patpatar">Patpatar</a></td><td style="white-space: nowrap;"><i>buŋ</i></td>
+<td>'<span>night</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td><i>buŋ</i></td>
-<td>
-'<span>a day, either of twelve or twenty-four hours</span>'</td>
+<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td style="white-space: nowrap;"><i>buŋ</i></td>
+<td>'<span>a day, either of twelve or twenty-four hours</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/halia">Halia</a></td><td><i>buŋ</i></td>
-<td>
-'<span>night</span>'</td>
+<td>MM</td><td><a href="../languages/halia">Halia</a></td><td style="white-space: nowrap;"><i>buŋ</i></td>
+<td>'<span>night</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/monoalu">Mono-Alu</a></td><td><i>boi</i></td>
-<td>
-'<span>night, day</span>'</td>
+<td>MM</td><td><a href="../languages/monoalu">Mono-Alu</a></td><td style="white-space: nowrap;"><i>boi</i></td>
+<td>'<span>night, day</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/simbo">Simbo</a></td><td><i>boŋi</i></td>
-<td>
-'<span>night</span>'</td>
+<td>MM</td><td><a href="../languages/simbo">Simbo</a></td><td style="white-space: nowrap;"><i>boŋi</i></td>
+<td>'<span>night</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td><i>boŋi</i></td>
-<td>
-'<span>night</span>' (<span><em>ke boŋi</em> ‘by night, at night’</span>)</td>
+<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td style="white-space: nowrap;"><i>boŋi</i></td>
+<td>'<span>night</span>' (<span><em>ke boŋi</em> ‘by night, at night’</span>)</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>boŋi</i></td>
-<td>
-'<span>night</span>' (<span><em>te mboŋi</em> ‘by night’</span>); '<span>a day, as a measure of time</span>' (<span><em>e rua na boŋi</em> ‘two days’</span>); '<span>yesterday</span>'; '<span>the weather</span>'</td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td style="white-space: nowrap;"><i>boŋi</i></td>
+<td>'<span>night</span>' (<span><em>te mboŋi</em> ‘by night’</span>); '<span>a day, as a measure of time</span>' (<span><em>e rua na boŋi</em> ‘two days’</span>); '<span>yesterday</span>'; '<span>the weather</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>boŋi</i></td>
-<td>
-'<span>night; a day, in reckoning time</span>'</td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td style="white-space: nowrap;"><i>boŋi</i></td>
+<td>'<span>night; a day, in reckoning time</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>poŋi</i></td>
-<td>
-'<span>a time, a season</span>'</td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>poŋi</i></td>
+<td>'<span>a time, a season</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>poŋi-ku</i></td>
-<td>
-'<span>my appointed time</span>' (<span><em>-ku</em> ‘my’</span>)</td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>poŋi-ku</i></td>
+<td>'<span>my appointed time</span>' (<span><em>-ku</em> ‘my’</span>)</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td><i>poni</i></td>
-<td>
-'<span>evening, after sunset, night; an appointed day</span>'</td>
+<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>poni</i></td>
+<td>'<span>evening, after sunset, night; an appointed day</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>boŋi</i></td>
-<td>
-'<span>a night, last night</span>'</td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td style="white-space: nowrap;"><i>boŋi</i></td>
+<td>'<span>a night, last night</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>pʷoŋ</i></td>
-<td>
-'<span>night, darkness, to be dark</span>'</td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td style="white-space: nowrap;"><i>pʷoŋ</i></td>
+<td>'<span>night, darkness, to be dark</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td><i>boŋi</i></td>
-<td>
-'<span>night, darkness</span>'</td>
+<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td style="white-space: nowrap;"><i>boŋi</i></td>
+<td>'<span>night, darkness</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/tamambo">Tamambo</a></td><td><i>boŋi</i></td>
-<td>
-'<span>day of twenty-four hours</span>'</td>
+<td>NCV</td><td><a href="../languages/tamambo">Tamambo</a></td><td style="white-space: nowrap;"><i>boŋi</i></td>
+<td>'<span>day of twenty-four hours</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/nokuku">Nokuku</a></td><td><i>pon</i></td>
-<td>
-'<span>night, day of twenty-four hours</span>'</td>
+<td>NCV</td><td><a href="../languages/nokuku">Nokuku</a></td><td style="white-space: nowrap;"><i>pon</i></td>
+<td>'<span>night, day of twenty-four hours</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/uripiv">Uripiv</a></td><td><i>(na)boŋ</i></td>
-<td>
-'<span>day of twenty-four hours</span>'</td>
+<td>NCV</td><td><a href="../languages/uripiv">Uripiv</a></td><td style="white-space: nowrap;"><i>(na)boŋ</i></td>
+<td>'<span>day of twenty-four hours</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/portsandwich">Port Sandwich</a></td><td><i>(na)boŋ</i></td>
-<td>
-'<span>day of twenty-four hours</span>'</td>
+<td>NCV</td><td><a href="../languages/portsandwich">Port Sandwich</a></td><td style="white-space: nowrap;"><i>(na)boŋ</i></td>
+<td>'<span>day of twenty-four hours</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/lonwolwol">Lonwolwol</a></td><td><i>buŋ</i></td>
-<td>
-'<span>darkness, blackness; night; dark, black</span>'</td>
+<td>NCV</td><td><a href="../languages/lonwolwol">Lonwolwol</a></td><td style="white-space: nowrap;"><i>buŋ</i></td>
+<td>'<span>darkness, blackness; night; dark, black</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/lonwolwol">Lonwolwol</a></td><td><i>(wo)buŋ</i></td>
-<td>
-'<span>day of twenty-four hours</span>'</td>
+<td>NCV</td><td><a href="../languages/lonwolwol">Lonwolwol</a></td><td style="white-space: nowrap;"><i>(wo)buŋ</i></td>
+<td>'<span>day of twenty-four hours</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td><i>voŋi(ene)</i></td>
-<td>
-'<span>night</span>'</td>
+<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td style="white-space: nowrap;"><i>voŋi(ene)</i></td>
+<td>'<span>night</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/lewo">Lewo</a></td><td><i>(yo)poŋi</i></td>
-<td>
-'<span>night</span>'</td>
+<td>NCV</td><td><a href="../languages/lewo">Lewo</a></td><td style="white-space: nowrap;"><i>(yo)poŋi</i></td>
+<td>'<span>night</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/lewo">Lewo</a></td><td><i>poŋi</i></td>
-<td>
-'<span>time, period</span>'</td>
+<td>NCV</td><td><a href="../languages/lewo">Lewo</a></td><td style="white-space: nowrap;"><i>poŋi</i></td>
+<td>'<span>time, period</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/namakir">Namakir</a></td><td><i>(e)boŋ</i></td>
-<td>
-'<span>night</span>'</td>
+<td>NCV</td><td><a href="../languages/namakir">Namakir</a></td><td style="white-space: nowrap;"><i>(e)boŋ</i></td>
+<td>'<span>night</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/nguna">Nguna</a></td><td><i>pʷōŋi</i></td>
-<td>
-'<span>night</span>'</td>
+<td>NCV</td><td><a href="../languages/nguna">Nguna</a></td><td style="white-space: nowrap;"><i>pʷōŋi</i></td>
+<td>'<span>night</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/lenakel">Lenakel</a></td><td><i>(la)pən</i></td>
-<td>
-'<span>night, at night</span>'</td>
+<td>SV</td><td><a href="../languages/lenakel">Lenakel</a></td><td style="white-space: nowrap;"><i>(la)pən</i></td>
+<td>'<span>night, at night</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/kwamera">Kwamera</a></td><td><i>(nə)pən</i></td>
-<td>
-'<span>night; a day of twenty-four hours</span>'</td>
+<td>SV</td><td><a href="../languages/kwamera">Kwamera</a></td><td style="white-space: nowrap;"><i>(nə)pən</i></td>
+<td>'<span>night; a day of twenty-four hours</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>(ne)peñ</i></td>
-<td>
-'<span>night</span>'</td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td style="white-space: nowrap;"><i>(ne)peñ</i></td>
+<td>'<span>night</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>boŋ</i></td>
-<td>
-'<span>night; a day of twenty-four hours, period, season</span>'[^9]</td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>boŋ</i></td>
+<td>'<span>night; a day of twenty-four hours, period, season</span>'[^9]</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>pɯoŋʷ</i></td>
-<td>
-'<span>night, last night</span>'</td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td style="white-space: nowrap;"><i>pɯoŋʷ</i></td>
+<td>'<span>night, last night</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/ponapean">Ponapean</a></td><td><i>pʷōŋ</i></td>
-<td>
-'<span>night</span>'</td>
+<td>Mic</td><td><a href="../languages/ponapean">Ponapean</a></td><td style="white-space: nowrap;"><i>pʷōŋ</i></td>
+<td>'<span>night</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/ponapean">Ponapean</a></td><td><i>pʷoŋ</i></td>
-<td>
-'<span>numeral classifier used in counting nights</span>' (<span><em>pʷɔŋ sili-pʷoŋ</em> ‘three nights’</span>)</td>
+<td>Mic</td><td><a href="../languages/ponapean">Ponapean</a></td><td style="white-space: nowrap;"><i>pʷoŋ</i></td>
+<td>'<span>numeral classifier used in counting nights</span>' (<span><em>pʷɔŋ sili-pʷoŋ</em> ‘three nights’</span>)</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kosraean">Kosraean</a></td><td><i>foŋ</i></td>
-<td>
-'<span>night</span>'</td>
+<td>Mic</td><td><a href="../languages/kosraean">Kosraean</a></td><td style="white-space: nowrap;"><i>foŋ</i></td>
+<td>'<span>night</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td><i>pʷōŋ</i></td>
-<td>
-'<span>night</span>' (<span>mostly in compounds</span>)</td>
+<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td style="white-space: nowrap;"><i>pʷōŋ</i></td>
+<td>'<span>night</span>' (<span>mostly in compounds</span>)</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td><i>-pʷoŋ</i></td>
-<td>
-'<span>counting classifier for nights</span>'</td>
+<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td style="white-space: nowrap;"><i>-pʷoŋ</i></td>
+<td>'<span>counting classifier for nights</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td><i>pʷōŋ</i></td>
-<td>
-'<span>night; day of the month; be night</span>'</td>
+<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td style="white-space: nowrap;"><i>pʷōŋ</i></td>
+<td>'<span>night; day of the month; be night</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td><i>poŋi</i></td>
-<td>
-'<span>night, night-time; be night or evening or late in the day</span>'</td>
+<td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td style="white-space: nowrap;"><i>poŋi</i></td>
+<td>'<span>night, night-time; be night or evening or late in the day</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>boŋi</i></td>
-<td>
-'<span>night</span>'</td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td style="white-space: nowrap;"><i>boŋi</i></td>
+<td>'<span>night</span>'</td>
 </tr>
 <tr>
 <td><strong>PPn</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;pō</i>
 </td>
-<td>
-'<span>night, day of twenty-four hours</span>'</td>
+<td>'<span>night, day of twenty-four hours</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>pō</i></td>
-<td>
-'<span>night</span>'</td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td style="white-space: nowrap;"><i>pō</i></td>
+<td>'<span>night</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>pō</i></td>
-<td>
-'<span>night, day of twenty-four hours (especially in certain expressions), dark, blind</span>'</td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>pō</i></td>
+<td>'<span>night, day of twenty-four hours (especially in certain expressions), dark, blind</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tuvalu">Tuvalu</a></td><td><i>pō</i></td>
-<td>
-'<span>night, day of twenty-four hours</span>'</td>
+<td>Pn</td><td><a href="../languages/tuvalu">Tuvalu</a></td><td style="white-space: nowrap;"><i>pō</i></td>
+<td>'<span>night, day of twenty-four hours</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/nanumean">Nanumean</a></td><td><i>pō</i></td>
-<td>
-'<span>night, day of twenty-four hours</span>'</td>
+<td>Pn</td><td><a href="../languages/nanumean">Nanumean</a></td><td style="white-space: nowrap;"><i>pō</i></td>
+<td>'<span>night, day of twenty-four hours</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>pō</i></td>
-<td>
-'<span>night, become night, day of twenty-four hours</span>'</td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td style="white-space: nowrap;"><i>pō</i></td>
+<td>'<span>night, become night, day of twenty-four hours</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>pō</i></td>
-<td>
-'<span>night, formerly the period of twenty-four hours beginning at nightfall</span>' (<span>the Hawaiian day began at nightfall</span>)</td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td style="white-space: nowrap;"><i>pō</i></td>
+<td>'<span>night, formerly the period of twenty-four hours beginning at nightfall</span>' (<span>the Hawaiian day began at nightfall</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>pō</i></td>
-<td>
-'<span>night</span>'</td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td style="white-space: nowrap;"><i>pō</i></td>
+<td>'<span>night</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/marquesan">Marquesan</a></td><td><i>pō</i></td>
-<td>
-'<span>night; day of twenty-four hours</span>'</td>
+<td>Pn</td><td><a href="../languages/marquesan">Marquesan</a></td><td style="white-space: nowrap;"><i>pō</i></td>
+<td>'<span>night; day of twenty-four hours</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/rapanui">Rapanui</a></td><td><i>pō</i></td>
-<td>
-'<span>night</span>'</td>
+<td>Pn</td><td><a href="../languages/rapanui">Rapanui</a></td><td style="white-space: nowrap;"><i>pō</i></td>
+<td>'<span>night</span>'</td>
 </tr>
 </table>
 
@@ -717,137 +647,111 @@ The word for ‘night’ in a number of Oceanic languages reflects POc _&ast;rod
 <td style="white-space: nowrap;">
 <i>&ast;dem-dem</i>
 </td>
-<td>
-'<span>be dark</span>'[^10]</td>
+<td>'<span>be dark</span>'[^10]</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;rodrom</i>
 </td>
-<td>
-'<span>be dark, be night</span>' (<a href="../sources/Blust1984">Blust1984</a>)
+<td>'<span>be dark, be night</span>' (<a href="../sources/Blust1984">Blust1984</a>)
 </td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/kis">Kis</a></td><td><i>doma</i></td>
-<td>
-'<span>night</span>'</td>
+<td>NNG</td><td><a href="../languages/kis">Kis</a></td><td style="white-space: nowrap;"><i>doma</i></td>
+<td>'<span>night</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/terebu">Terebu</a></td><td><i>(bu)lom</i></td>
-<td>
-'<span>night</span>'</td>
+<td>NNG</td><td><a href="../languages/terebu">Terebu</a></td><td style="white-space: nowrap;"><i>(bu)lom</i></td>
+<td>'<span>night</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/bola">Bola</a></td><td><i>rodo</i></td>
-<td>
-'<span>night</span>'</td>
+<td>MM</td><td><a href="../languages/bola">Bola</a></td><td style="white-space: nowrap;"><i>rodo</i></td>
+<td>'<span>night</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td><i>logo</i></td>
-<td>
-'<span>night</span>' (<span>regular reflex</span>)</td>
+<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td style="white-space: nowrap;"><i>logo</i></td>
+<td>'<span>night</span>' (<span>regular reflex</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/meramera">Meramera</a></td><td><i>na-lodo</i></td>
-<td>
-'<span>night</span>'</td>
+<td>MM</td><td><a href="../languages/meramera">Meramera</a></td><td style="white-space: nowrap;"><i>na-lodo</i></td>
+<td>'<span>night</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/barok">Barok</a></td><td><i>dom(on)</i></td>
-<td>
-'<span>night</span>'</td>
+<td>MM</td><td><a href="../languages/barok">Barok</a></td><td style="white-space: nowrap;"><i>dom(on)</i></td>
+<td>'<span>night</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/talise">Talise</a></td><td><i>rodo</i></td>
-<td>
-'<span>night</span>'</td>
+<td>SES</td><td><a href="../languages/talise">Talise</a></td><td style="white-space: nowrap;"><i>rodo</i></td>
+<td>'<span>night</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>rodo</i></td>
-<td>
-'<span>night</span>'</td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td style="white-space: nowrap;"><i>rodo</i></td>
+<td>'<span>night</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>ro-rodo(a)</i></td>
-<td>
-'<span>dark, dark in color</span>'</td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td style="white-space: nowrap;"><i>ro-rodo(a)</i></td>
+<td>'<span>dark, dark in color</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td><i>roto</i></td>
-<td>
-'<span>be dark, night; night darkness</span>'</td>
+<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>roto</i></td>
+<td>'<span>be dark, night; night darkness</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>roto</i></td>
-<td>
-'<span>night</span>'</td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>roto</i></td>
+<td>'<span>night</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>rodo</i></td>
-<td>
-'<span>dark, black, night</span>'</td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td style="white-space: nowrap;"><i>rodo</i></td>
+<td>'<span>dark, black, night</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td><i>dodo</i></td>
-<td>
-'<span>rain cloud</span>'</td>
+<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td style="white-space: nowrap;"><i>dodo</i></td>
+<td>'<span>rain cloud</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/ambae">Ambae</a></td><td><i>dodo</i></td>
-<td>
-'<span>be dark; dark cloud</span>'</td>
+<td>NCV</td><td><a href="../languages/ambae">Ambae</a></td><td style="white-space: nowrap;"><i>dodo</i></td>
+<td>'<span>be dark; dark cloud</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/tamambo">Tamambo</a></td><td><i>dodo</i></td>
-<td>
-'<span>night</span>'</td>
+<td>NCV</td><td><a href="../languages/tamambo">Tamambo</a></td><td style="white-space: nowrap;"><i>dodo</i></td>
+<td>'<span>night</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>roro</i></td>
-<td>
-'<span>black, dark color</span>'</td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>roro</i></td>
+<td>'<span>black, dark color</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kosraean">Kosraean</a></td><td><i>lɔṣ</i></td>
-<td>
-'<span>dark</span>'</td>
+<td>Mic</td><td><a href="../languages/kosraean">Kosraean</a></td><td style="white-space: nowrap;"><i>lɔṣ</i></td>
+<td>'<span>dark</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/mokilese">Mokilese</a></td><td><i>ros</i></td>
-<td>
-'<span>dark</span>'</td>
+<td>Mic</td><td><a href="../languages/mokilese">Mokilese</a></td><td style="white-space: nowrap;"><i>ros</i></td>
+<td>'<span>dark</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/ponapean">Ponapean</a></td><td><i>roc̣</i></td>
-<td>
-'<span>dark</span>'</td>
+<td>Mic</td><td><a href="../languages/ponapean">Ponapean</a></td><td style="white-space: nowrap;"><i>roc̣</i></td>
+<td>'<span>dark</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td><i>rōṛ</i></td>
-<td>
-'<span>dark</span>'</td>
+<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td style="white-space: nowrap;"><i>rōṛ</i></td>
+<td>'<span>dark</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/carolinian">Carolinian</a></td><td><i>roṣ</i></td>
-<td>
-'<span>dark</span>'</td>
+<td>Mic</td><td><a href="../languages/carolinian">Carolinian</a></td><td style="white-space: nowrap;"><i>roṣ</i></td>
+<td>'<span>dark</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>lōlō</i></td>
-<td>
-'<span>absolutely dark, pitch dark</span>'</td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td style="white-space: nowrap;"><i>lōlō</i></td>
+<td>'<span>absolutely dark, pitch dark</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>lōlō</i></td>
-<td>
-'<span>absolutely dark, pitch dark</span>'</td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>lōlō</i></td>
+<td>'<span>absolutely dark, pitch dark</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/marquesan">Marquesan</a></td><td><i>lōlō</i></td>
-<td>
-'<span>absolutely dark, pitch dark</span>'</td>
+<td>Pn</td><td><a href="../languages/marquesan">Marquesan</a></td><td style="white-space: nowrap;"><i>lōlō</i></td>
+<td>'<span>absolutely dark, pitch dark</span>'</td>
 </tr>
 </table>
 
@@ -861,46 +765,38 @@ The two sets below probably do not reflect POc _&ast;rodrom_. Rather, _&ast;rodr
 <td style="white-space: nowrap;">
 <i>&ast;ma-edem</i>
 </td>
-<td>
-'<span>be dark</span>' (<span>ACD: ‘Proto Western Malayo-Polynesian’ <em>*ma-edem</em> ‘overcast, dull lustre’</span>)</td>
+<td>'<span>be dark</span>' (<span>ACD: ‘Proto Western Malayo-Polynesian’ <em>&ast;ma-edem</em> ‘overcast, dull lustre’</span>)</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;marom</i>
 </td>
-<td>
-'<span>be dark</span>'</td>
+<td>'<span>be dark</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/wampur">Wampur</a></td><td><i>maroʔ</i></td>
-<td>
-'<span>night</span>'</td>
+<td>NNG</td><td><a href="../languages/wampur">Wampur</a></td><td style="white-space: nowrap;"><i>maroʔ</i></td>
+<td>'<span>night</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/minigir">Minigir</a></td><td><i>marumu</i></td>
-<td>
-'<span>night</span>'</td>
+<td>MM</td><td><a href="../languages/minigir">Minigir</a></td><td style="white-space: nowrap;"><i>marumu</i></td>
+<td>'<span>night</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td><i>marum</i></td>
-<td>
-'<span>night</span>'</td>
+<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td style="white-space: nowrap;"><i>marum</i></td>
+<td>'<span>night</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td><i>marum</i></td>
-<td>
-'<span>night</span>'</td>
+<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td style="white-space: nowrap;"><i>marum</i></td>
+<td>'<span>night</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/kandas">Kandas</a></td><td><i>mirun</i></td>
-<td>
-'<span>night</span>'</td>
+<td>MM</td><td><a href="../languages/kandas">Kandas</a></td><td style="white-space: nowrap;"><i>mirun</i></td>
+<td>'<span>night</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/bilur">Bilur</a></td><td><i>morom</i></td>
-<td>
-'<span>night</span>'</td>
+<td>MM</td><td><a href="../languages/bilur">Bilur</a></td><td style="white-space: nowrap;"><i>morom</i></td>
+<td>'<span>night</span>'</td>
 </tr>
 </table>
 
@@ -923,8 +819,7 @@ The POc term which specifically denoted daylight was _&ast;raqani_, reconstructe
 <td style="white-space: nowrap;">
 <i>&ast;daqaNi</i>
 </td>
-<td>
-'<span>day</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>day</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -932,113 +827,91 @@ The POc term which specifically denoted daylight was _&ast;raqani_, reconstructe
 <td style="white-space: nowrap;">
 <i>&ast;raqani</i>
 </td>
-<td>
-'<span>daytime, daylight</span>'</td>
+<td>'<span>daytime, daylight</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/nauna">Nauna</a></td><td><i>lɨn</i></td>
-<td>
-'<span>day</span>'</td>
+<td>Adm</td><td><a href="../languages/nauna">Nauna</a></td><td style="white-space: nowrap;"><i>lɨn</i></td>
+<td>'<span>day</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/ponam">Ponam</a></td><td><i>ran</i></td>
-<td>
-'<span>day</span>'</td>
+<td>Adm</td><td><a href="../languages/ponam">Ponam</a></td><td style="white-space: nowrap;"><i>ran</i></td>
+<td>'<span>day</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/yabem">Yabem</a></td><td><i>-lɛŋ</i></td>
-<td>
-'<span>be daytime</span>'</td>
+<td>NNG</td><td><a href="../languages/yabem">Yabem</a></td><td style="white-space: nowrap;"><i>-lɛŋ</i></td>
+<td>'<span>be daytime</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/kilivila">Kilivila</a></td><td><i>yam</i></td>
-<td>
-'<span>daytime</span>'</td>
+<td>PT</td><td><a href="../languages/kilivila">Kilivila</a></td><td style="white-space: nowrap;"><i>yam</i></td>
+<td>'<span>daytime</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/sinaugoro">Sinaugoro</a></td><td><i>laɣani</i></td>
-<td>
-'<span>daytime</span>'</td>
+<td>PT</td><td><a href="../languages/sinaugoro">Sinaugoro</a></td><td style="white-space: nowrap;"><i>laɣani</i></td>
+<td>'<span>daytime</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>rani</i></td>
-<td>
-'<span>daytime</span>'</td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td style="white-space: nowrap;"><i>rani</i></td>
+<td>'<span>daytime</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/nalik">Nalik</a></td><td><i>ran</i></td>
-<td>
-'<span>daytime</span>'</td>
+<td>MM</td><td><a href="../languages/nalik">Nalik</a></td><td style="white-space: nowrap;"><i>ran</i></td>
+<td>'<span>daytime</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/halia">Halia</a></td><td><i>lan</i></td>
-<td>
-'<span>daytime</span>'</td>
+<td>MM</td><td><a href="../languages/halia">Halia</a></td><td style="white-space: nowrap;"><i>lan</i></td>
+<td>'<span>daytime</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/uruava">Uruava</a></td><td><i>rani</i></td>
-<td>
-'<span>daytime</span>'</td>
+<td>MM</td><td><a href="../languages/uruava">Uruava</a></td><td style="white-space: nowrap;"><i>rani</i></td>
+<td>'<span>daytime</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td><i>rane</i></td>
-<td>
-'<span>day</span>'</td>
+<td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td style="white-space: nowrap;"><i>rane</i></td>
+<td>'<span>day</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/maringe">Maringe</a></td><td><i>na-rane</i></td>
-<td>
-'<span>day</span>'</td>
+<td>MM</td><td><a href="../languages/maringe">Maringe</a></td><td style="white-space: nowrap;"><i>na-rane</i></td>
+<td>'<span>day</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td><i>dani</i></td>
-<td>
-'<span>morning, daylight</span>'</td>
+<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td style="white-space: nowrap;"><i>dani</i></td>
+<td>'<span>morning, daylight</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>dani</i></td>
-<td>
-'<span>day</span>'</td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td style="white-space: nowrap;"><i>dani</i></td>
+<td>'<span>day</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td><i>tani</i></td>
-<td>
-'<span>daylight</span>'</td>
+<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>tani</i></td>
+<td>'<span>daylight</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>(ma)ran</i></td>
-<td>
-'<span>light, daylight, morning, day; be light; tomorrow’s light; the morrow</span>'</td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td style="white-space: nowrap;"><i>(ma)ran</i></td>
+<td>'<span>light, daylight, morning, day; be light; tomorrow’s light; the morrow</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/tamambo">Tamambo</a></td><td><i>rani</i></td>
-<td>
-'<span>daylight</span>'</td>
+<td>NCV</td><td><a href="../languages/tamambo">Tamambo</a></td><td style="white-space: nowrap;"><i>rani</i></td>
+<td>'<span>daylight</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td><i>lani</i></td>
-<td>
-'<span>daybreak</span>'</td>
+<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td style="white-space: nowrap;"><i>lani</i></td>
+<td>'<span>daybreak</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/lenakel">Lenakel</a></td><td><i>n-ian</i></td>
-<td>
-'<span>day</span>'</td>
+<td>SV</td><td><a href="../languages/lenakel">Lenakel</a></td><td style="white-space: nowrap;"><i>n-ian</i></td>
+<td>'<span>day</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/kwamera">Kwamera</a></td><td><i>ia-ran</i></td>
-<td>
-'<span>day</span>'</td>
+<td>SV</td><td><a href="../languages/kwamera">Kwamera</a></td><td style="white-space: nowrap;"><i>ia-ran</i></td>
+<td>'<span>day</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>ṛᵚān</i></td>
-<td>
-'<span>day, date</span>'</td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td style="white-space: nowrap;"><i>ṛᵚān</i></td>
+<td>'<span>day, date</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/ponapean">Ponapean</a></td><td><i>rān</i></td>
-<td>
-'<span>day</span>'</td>
+<td>Mic</td><td><a href="../languages/ponapean">Ponapean</a></td><td style="white-space: nowrap;"><i>rān</i></td>
+<td>'<span>day</span>'</td>
 </tr>
 </table>
 
@@ -1052,8 +925,7 @@ The primary meaning of POc _&ast;qaco_ was ‘sun’, but it was also used for �
 <td style="white-space: nowrap;">
 <i>&ast;qajaw, &ast;qalejaw</i>
 </td>
-<td>
-'<span>sun, daylight</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>sun, daylight</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 [^11]</td>
 </tr>
 <tr>
@@ -1061,118 +933,95 @@ The primary meaning of POc _&ast;qaco_ was ‘sun’, but it was also used for �
 <td style="white-space: nowrap;">
 <i>&ast;qaco</i>
 </td>
-<td>
-'<span>sun, daytime</span>'</td>
+<td>'<span>sun, daytime</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/ponam">Ponam</a></td><td><i>al</i></td>
-<td>
-'<span>sun</span>'</td>
+<td>Adm</td><td><a href="../languages/ponam">Ponam</a></td><td style="white-space: nowrap;"><i>al</i></td>
+<td>'<span>sun</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/mondropolon">Mondropolon</a></td><td><i>al</i></td>
-<td>
-'<span>sun</span>'</td>
+<td>Adm</td><td><a href="../languages/mondropolon">Mondropolon</a></td><td style="white-space: nowrap;"><i>al</i></td>
+<td>'<span>sun</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/bariai">Bariai</a></td><td><i>ado</i></td>
-<td>
-'<span>day, sun</span>'</td>
+<td>NNG</td><td><a href="../languages/bariai">Bariai</a></td><td style="white-space: nowrap;"><i>ado</i></td>
+<td>'<span>day, sun</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td><i>ad</i></td>
-<td>
-'<span>sun</span>'</td>
+<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td style="white-space: nowrap;"><i>ad</i></td>
+<td>'<span>sun</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td><i>ad-ad</i></td>
-<td>
-'<span>daytime</span>'</td>
+<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td style="white-space: nowrap;"><i>ad-ad</i></td>
+<td>'<span>daytime</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/kaiwa">Kaiwa</a></td><td><i>as</i></td>
-<td>
-'<span>daytime</span>'</td>
+<td>NNG</td><td><a href="../languages/kaiwa">Kaiwa</a></td><td style="white-space: nowrap;"><i>as</i></td>
+<td>'<span>daytime</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/molima">Molima</a></td><td><i>ʔasu</i></td>
-<td>
-'<span>sun</span>'</td>
+<td>PT</td><td><a href="../languages/molima">Molima</a></td><td style="white-space: nowrap;"><i>ʔasu</i></td>
+<td>'<span>sun</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td><i>haro</i></td>
-<td>
-'<span>sun; day</span>'</td>
+<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td style="white-space: nowrap;"><i>haro</i></td>
+<td>'<span>sun; day</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td><i>ias</i></td>
-<td>
-'<span>sun</span>'</td>
+<td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td style="white-space: nowrap;"><i>ias</i></td>
+<td>'<span>sun</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/nalik">Nalik</a></td><td><i>ias</i></td>
-<td>
-'<span>sun</span>'</td>
+<td>MM</td><td><a href="../languages/nalik">Nalik</a></td><td style="white-space: nowrap;"><i>ias</i></td>
+<td>'<span>sun</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td><i>aho</i></td>
-<td>
-'<span>sun</span>'</td>
+<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td style="white-space: nowrap;"><i>aho</i></td>
+<td>'<span>sun</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>aho</i></td>
-<td>
-'<span>sun; good weather; put in the sun; experience good weather</span>'</td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td style="white-space: nowrap;"><i>aho</i></td>
+<td>'<span>sun; good weather; put in the sun; experience good weather</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>sato</i></td>
-<td>
-'<span>sun, sunshine, fine weather</span>'</td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>sato</i></td>
+<td>'<span>sun, sunshine, fine weather</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>loa</i></td>
-<td>
-'<span>sun</span>'</td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td style="white-space: nowrap;"><i>loa</i></td>
+<td>'<span>sun</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/namakir">Namakir</a></td><td><i>ʔal</i></td>
-<td>
-'<span>sun</span>'</td>
+<td>NCV</td><td><a href="../languages/namakir">Namakir</a></td><td style="white-space: nowrap;"><i>ʔal</i></td>
+<td>'<span>sun</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>alᵚ</i></td>
-<td>
-'<span>sun</span>'</td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td style="white-space: nowrap;"><i>alᵚ</i></td>
+<td>'<span>sun</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>yaro</i></td>
-<td>
-'<span>sun</span>'</td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td style="white-space: nowrap;"><i>yaro</i></td>
+<td>'<span>sun</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td><i>yælet</i></td>
-<td>
-'<span>sun</span>'</td>
+<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td style="white-space: nowrap;"><i>yælet</i></td>
+<td>'<span>sun</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>ʔaho</i></td>
-<td>
-'<span>day</span>'</td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td style="white-space: nowrap;"><i>ʔaho</i></td>
+<td>'<span>day</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>aso</i></td>
-<td>
-'<span>day</span>'</td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>aso</i></td>
+<td>'<span>day</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tuvalu">Tuvalu</a></td><td><i>aho</i></td>
-<td>
-'<span>day (as time span)</span>'</td>
+<td>Pn</td><td><a href="../languages/tuvalu">Tuvalu</a></td><td style="white-space: nowrap;"><i>aho</i></td>
+<td>'<span>day (as time span)</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>aso</i></td>
-<td>
-'<span>day (as time span)</span>'</td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td style="white-space: nowrap;"><i>aso</i></td>
+<td>'<span>day (as time span)</span>'</td>
 </tr>
 </table>
 
@@ -1187,8 +1036,7 @@ The primary meaning of POc _&ast;qaco_ was ‘sun’, but it was also used for �
 <td style="white-space: nowrap;">
 <i>&ast;sinaR</i>
 </td>
-<td>
-'<span>ray of light</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
+<td>'<span>ray of light</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
 </td>
 </tr>
 <tr>
@@ -1196,78 +1044,63 @@ The primary meaning of POc _&ast;qaco_ was ‘sun’, but it was also used for �
 <td style="white-space: nowrap;">
 <i>&ast;sinaR</i>
 </td>
-<td>
-'<span>shine, sun</span>'</td>
+<td>'<span>shine, sun</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td><i>sinaka</i></td>
-<td>
-'<span>sun</span>'</td>
+<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td style="white-space: nowrap;"><i>sinaka</i></td>
+<td>'<span>sun</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/lou">Lou</a></td><td><i>sinsin</i></td>
-<td>
-'<span>sun</span>'</td>
+<td>Adm</td><td><a href="../languages/lou">Lou</a></td><td style="white-space: nowrap;"><i>sinsin</i></td>
+<td>'<span>sun</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>dina</i></td>
-<td>
-'<span>sun; day</span>'</td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td style="white-space: nowrap;"><i>dina</i></td>
+<td>'<span>sun; day</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/lavongai">Lavongai</a></td><td><i>sinaŋ</i></td>
-<td>
-'<span>sun; (sun) shine</span>'</td>
+<td>MM</td><td><a href="../languages/lavongai">Lavongai</a></td><td style="white-space: nowrap;"><i>sinaŋ</i></td>
+<td>'<span>sun; (sun) shine</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td><i>siŋan</i></td>
-<td>
-'<span>(sun) shine</span>' (<span>metathesis</span>)</td>
+<td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td style="white-space: nowrap;"><i>siŋan</i></td>
+<td>'<span>(sun) shine</span>' (<span>metathesis</span>)</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>sina</i></td>
-<td>
-'<span>shine, give light</span>'</td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td style="white-space: nowrap;"><i>sina</i></td>
+<td>'<span>shine, give light</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td><i>sina</i></td>
-<td>
-'<span>shine, brighten; light, brightness</span>'</td>
+<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>sina</i></td>
+<td>'<span>shine, brighten; light, brightness</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>sineli</i></td>
-<td>
-'<span>shine</span>'</td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>sineli</i></td>
+<td>'<span>shine</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>siŋa</i></td>
-<td>
-'<span>shine</span>'</td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td style="white-space: nowrap;"><i>siŋa</i></td>
+<td>'<span>shine</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td><i>ttiɾa</i></td>
-<td>
-'<span>shine, ray, brightness, beam</span>'</td>
+<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td style="white-space: nowrap;"><i>ttiɾa</i></td>
+<td>'<span>shine, ray, brightness, beam</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td><i>tin</i></td>
-<td>
-'<span>shine, as the sun</span>'</td>
+<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td style="white-space: nowrap;"><i>tin</i></td>
+<td>'<span>shine, as the sun</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td><i>sina</i></td>
-<td>
-'<span>light, lamp, star</span>'</td>
+<td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td style="white-space: nowrap;"><i>sina</i></td>
+<td>'<span>light, lamp, star</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>siŋa</i></td>
-<td>
-'<span>day, daylight, sun</span>'</td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td style="white-space: nowrap;"><i>siŋa</i></td>
+<td>'<span>day, daylight, sun</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>ðina</i></td>
-<td>
-'<span>lamp, torch</span>'</td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td style="white-space: nowrap;"><i>ðina</i></td>
+<td>'<span>lamp, torch</span>'</td>
 </tr>
 </table>
 
@@ -1287,111 +1120,90 @@ The POc term for the first few hours of daylight was _&ast;boŋi-boŋi_, self-ev
 <td style="white-space: nowrap;">
 <i>&ast;boŋi-boŋi</i>
 </td>
-<td>
-'<span>early morning from dawn to 9 or 10 a.m.</span>'</td>
+<td>'<span>early morning from dawn to 9 or 10 a.m.</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/gapapaiwa">Gapapaiwa</a></td><td><i>boi-boi</i></td>
-<td>
-'<span>morning; from sunrise to about 10 a.m.</span>'</td>
+<td>PT</td><td><a href="../languages/gapapaiwa">Gapapaiwa</a></td><td style="white-space: nowrap;"><i>boi-boi</i></td>
+<td>'<span>morning; from sunrise to about 10 a.m.</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/dawawa">Dawawa</a></td><td><i>boi-boi</i></td>
-<td>
-'<span>morning, tomorrow</span>'</td>
+<td>PT</td><td><a href="../languages/dawawa">Dawawa</a></td><td style="white-space: nowrap;"><i>boi-boi</i></td>
+<td>'<span>morning, tomorrow</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/sinaugoro">Sinaugoro</a></td><td><i>boɣi-boɣi</i></td>
-<td>
-'<span>morning</span>'</td>
+<td>PT</td><td><a href="../languages/sinaugoro">Sinaugoro</a></td><td style="white-space: nowrap;"><i>boɣi-boɣi</i></td>
+<td>'<span>morning</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/sursurunga">Sursurunga</a></td><td><i>(kə)buŋ-buŋ</i></td>
-<td>
-'<span>morning</span>'</td>
+<td>MM</td><td><a href="../languages/sursurunga">Sursurunga</a></td><td style="white-space: nowrap;"><i>(kə)buŋ-buŋ</i></td>
+<td>'<span>morning</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/monoalu">Mono-Alu</a></td><td><i>boi-boi(uana)</i></td>
-<td>
-'<span>in the morning (early?)</span>'</td>
+<td>MM</td><td><a href="../languages/monoalu">Mono-Alu</a></td><td style="white-space: nowrap;"><i>boi-boi(uana)</i></td>
+<td>'<span>in the morning (early?)</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/talise">Talise</a></td><td><i>boŋi-boŋi</i></td>
-<td>
-'<span>morning</span>'</td>
+<td>SES</td><td><a href="../languages/talise">Talise</a></td><td style="white-space: nowrap;"><i>boŋi-boŋi</i></td>
+<td>'<span>morning</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/birao">Birao</a></td><td><i>(bo)boŋi(hana)</i></td>
-<td>
-'<span>morning</span>'</td>
+<td>SES</td><td><a href="../languages/birao">Birao</a></td><td style="white-space: nowrap;"><i>(bo)boŋi(hana)</i></td>
+<td>'<span>morning</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>bo-boŋi</i></td>
-<td>
-'<span>tomorrow</span>'</td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td style="white-space: nowrap;"><i>bo-boŋi</i></td>
+<td>'<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/swtanna">S.W. Tanna</a></td><td><i>(ie)n-pəŋe-n-pəŋ</i></td>
-<td>
-'<span>morning</span>'</td>
+<td>SV</td><td><a href="../languages/swtanna">Southwest Tanna</a></td><td style="white-space: nowrap;"><i>(ie)n-pəŋe-n-pəŋ</i></td>
+<td>'<span>morning</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/kwamera">Kwamera</a></td><td><i>nə-pnə-pən</i></td>
-<td>
-'<span>morning</span>'</td>
+<td>SV</td><td><a href="../languages/kwamera">Kwamera</a></td><td style="white-space: nowrap;"><i>nə-pnə-pən</i></td>
+<td>'<span>morning</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>boŋi-boŋ</i></td>
-<td>
-'<span>twilight</span>'</td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>boŋi-boŋ</i></td>
+<td>'<span>twilight</span>'</td>
 </tr>
 <tr>
 <td><strong>PPn</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;poŋi-poŋi</i>
 </td>
-<td>
-'<span>(N, V) morning</span>'</td>
+<td>'<span>(N, V) morning</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>poŋi-poŋi</i></td>
-<td>
-'<span>be or become morning; by morning, early in the day</span>'</td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td style="white-space: nowrap;"><i>poŋi-poŋi</i></td>
+<td>'<span>be or become morning; by morning, early in the day</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>poŋi-poŋi</i></td>
-<td>
-'<span>tomorrow, this morning</span>'</td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td style="white-space: nowrap;"><i>poŋi-poŋi</i></td>
+<td>'<span>tomorrow, this morning</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/eastuvean">East Uvean</a></td><td><i>poŋi-poŋi</i></td>
-<td>
-'<span>morning</span>'</td>
+<td>Pn</td><td><a href="../languages/eastuvean">East Uvean</a></td><td style="white-space: nowrap;"><i>poŋi-poŋi</i></td>
+<td>'<span>morning</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>poŋi-poŋi</i></td>
-<td>
-'<span>be dusky, twilight</span>'</td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>poŋi-poŋi</i></td>
+<td>'<span>be dusky, twilight</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>poŋi-poŋi</i></td>
-<td>
-'<span>morning</span>'</td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td style="white-space: nowrap;"><i>poŋi-poŋi</i></td>
+<td>'<span>morning</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/nanumean">Nanumean</a></td><td><i>poŋi-poŋi</i></td>
-<td>
-'<span>morning (6–8 a.m.)</span>'</td>
+<td>Pn</td><td><a href="../languages/nanumean">Nanumean</a></td><td style="white-space: nowrap;"><i>poŋi-poŋi</i></td>
+<td>'<span>morning (6–8 a.m.)</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tuvalu">Tuvalu</a></td><td><i>poŋi-poŋi</i></td>
-<td>
-'<span>morning (6–8 a.m.)</span>'</td>
+<td>Pn</td><td><a href="../languages/tuvalu">Tuvalu</a></td><td style="white-space: nowrap;"><i>poŋi-poŋi</i></td>
+<td>'<span>morning (6–8 a.m.)</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/anutan">Anutan</a></td><td><i>poŋi-poŋi</i></td>
-<td>
-'<span>morning (5–11 a.m.)</span>'</td>
+<td>Pn</td><td><a href="../languages/anutan">Anutan</a></td><td style="white-space: nowrap;"><i>poŋi-poŋi</i></td>
+<td>'<span>morning (5–11 a.m.)</span>'</td>
 </tr>
 </table>
 
@@ -1421,123 +1233,99 @@ POc _&ast;puko_ ‘morning’ is only distributed over a certain area of Oceania
 <td style="white-space: nowrap;">
 <i>&ast;puko</i>
 </td>
-<td>
-'<span>(N, V) morning</span>'</td>
+<td>'<span>(N, V) morning</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/bilur">Bilur</a></td><td><i>(la)puko</i></td>
-<td>
-'<span>tomorrow</span>'</td>
+<td>MM</td><td><a href="../languages/bilur">Bilur</a></td><td style="white-space: nowrap;"><i>(la)puko</i></td>
+<td>'<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/lungga">Lungga</a></td><td><i>vuka</i></td>
-<td>
-'<span>tomorrow</span>'</td>
+<td>MM</td><td><a href="../languages/lungga">Lungga</a></td><td style="white-space: nowrap;"><i>vuka</i></td>
+<td>'<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/lungga">Lungga</a></td><td><i>vu-vuɣe(i)</i></td>
-<td>
-'<span>morning</span>'</td>
+<td>MM</td><td><a href="../languages/lungga">Lungga</a></td><td style="white-space: nowrap;"><i>vu-vuɣe(i)</i></td>
+<td>'<span>morning</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/nduke">Nduke</a></td><td><i>vuɣe</i></td>
-<td>
-'<span>tomorrow</span>'</td>
+<td>MM</td><td><a href="../languages/nduke">Nduke</a></td><td style="white-space: nowrap;"><i>vuɣe</i></td>
+<td>'<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td><i>vuɣo</i></td>
-<td>
-'<span>tomorrow</span>'</td>
+<td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td style="white-space: nowrap;"><i>vuɣo</i></td>
+<td>'<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/vangunu">Vangunu</a></td><td><i>(pana)vuho</i></td>
-<td>
-'<span>tomorrow</span>'</td>
+<td>MM</td><td><a href="../languages/vangunu">Vangunu</a></td><td style="white-space: nowrap;"><i>(pana)vuho</i></td>
+<td>'<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/kia">Kia</a></td><td><i>(fu)fuɣo</i></td>
-<td>
-'<span>morning</span>'</td>
+<td>MM</td><td><a href="../languages/kia">Kia</a></td><td style="white-space: nowrap;"><i>(fu)fuɣo</i></td>
+<td>'<span>morning</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/kia">Kia</a></td><td><i>fuɣo</i></td>
-<td>
-'<span>tomorrow</span>'</td>
+<td>MM</td><td><a href="../languages/kia">Kia</a></td><td style="white-space: nowrap;"><i>fuɣo</i></td>
+<td>'<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/kokota">Kokota</a></td><td><i>(fu)fu</i></td>
-<td>
-'<span>tomorrow</span>'</td>
+<td>MM</td><td><a href="../languages/kokota">Kokota</a></td><td style="white-space: nowrap;"><i>(fu)fu</i></td>
+<td>'<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/kokota">Kokota</a></td><td><i>fugo(nare)</i></td>
-<td>
-'<span>morning</span>'</td>
+<td>MM</td><td><a href="../languages/kokota">Kokota</a></td><td style="white-space: nowrap;"><i>fugo(nare)</i></td>
+<td>'<span>morning</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td><i>vuo-vuɣo(i)</i></td>
-<td>
-'<span>morning</span>'</td>
+<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td style="white-space: nowrap;"><i>vuo-vuɣo(i)</i></td>
+<td>'<span>morning</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/oroha">Oroha</a></td><td><i>hoʔo(a)</i></td>
-<td>
-'<span>morning</span>'</td>
+<td>SES</td><td><a href="../languages/oroha">Oroha</a></td><td style="white-space: nowrap;"><i>hoʔo(a)</i></td>
+<td>'<span>morning</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>(ma-hu)huʔo</i></td>
-<td>
-'<span>morning</span>'</td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>(ma-hu)huʔo</i></td>
+<td>'<span>morning</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>(hā)hoʔo(a)</i></td>
-<td>
-'<span>morning</span>'</td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td style="white-space: nowrap;"><i>(hā)hoʔo(a)</i></td>
+<td>'<span>morning</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/fagani">Fagani</a></td><td><i>(tei)hoɣo(a)</i></td>
-<td>
-'<span>morning</span>'</td>
+<td>SES</td><td><a href="../languages/fagani">Fagani</a></td><td style="white-space: nowrap;"><i>(tei)hoɣo(a)</i></td>
+<td>'<span>morning</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/bauro">Bauro</a></td><td><i>(ma)hoɣo</i></td>
-<td>
-'<span>morning</span>'</td>
+<td>SES</td><td><a href="../languages/bauro">Bauro</a></td><td style="white-space: nowrap;"><i>(ma)hoɣo</i></td>
+<td>'<span>morning</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/kahua">Kahua</a></td><td><i>(haɣa)hoɣo</i></td>
-<td>
-'<span>morning</span>'</td>
+<td>SES</td><td><a href="../languages/kahua">Kahua</a></td><td style="white-space: nowrap;"><i>(haɣa)hoɣo</i></td>
+<td>'<span>morning</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td><i>(vai)go-ugo</i></td>
-<td>
-'<span>tomorrow</span>'</td>
+<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td style="white-space: nowrap;"><i>(vai)go-ugo</i></td>
+<td>'<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/tamambo">Tamambo</a></td><td><i>(a)vuho</i></td>
-<td>
-'<span>tomorrow</span>'</td>
+<td>NCV</td><td><a href="../languages/tamambo">Tamambo</a></td><td style="white-space: nowrap;"><i>(a)vuho</i></td>
+<td>'<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/tangoa">Tangoa</a></td><td><i>vuho</i></td>
-<td>
-'<span>tomorrow</span>'</td>
+<td>NCV</td><td><a href="../languages/tangoa">Tangoa</a></td><td style="white-space: nowrap;"><i>vuho</i></td>
+<td>'<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/uripiv">Uripiv</a></td><td><i>(me)vi</i></td>
-<td>
-'<span>tomorrow</span>'</td>
+<td>NCV</td><td><a href="../languages/uripiv">Uripiv</a></td><td style="white-space: nowrap;"><i>(me)vi</i></td>
+<td>'<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/burmbar">Burmbar</a></td><td><i>(ma)vuk</i></td>
-<td>
-'<span>morning</span>'</td>
+<td>NCV</td><td><a href="../languages/burmbar">Burmbar</a></td><td style="white-space: nowrap;"><i>(ma)vuk</i></td>
+<td>'<span>morning</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/labo">Labo</a></td><td><i>(mitu)mbuko</i></td>
-<td>
-'<span>morning</span>'</td>
+<td>NCV</td><td><a href="../languages/labo">Labo</a></td><td style="white-space: nowrap;"><i>(mitu)mbuko</i></td>
+<td>'<span>morning</span>'</td>
 </tr>
 </table>
 
@@ -1577,68 +1365,55 @@ Others have a noun phrase whose head is ‘sun, daylight’, modified by ‘big�
 <td style="white-space: nowrap;">
 <i>&ast;qaso-qatea</i>
 </td>
-<td>
-'<span>late morning and early afternoon</span>'[^12]</td>
+<td>'<span>late morning and early afternoon</span>'[^12]</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>afiat</i></td>
-<td>
-'<span>become day</span>'</td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td style="white-space: nowrap;"><i>afiat</i></td>
+<td>'<span>become day</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>n-afiat</i></td>
-<td>
-'<span>day, daytime</span>'</td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td style="white-space: nowrap;"><i>n-afiat</i></td>
+<td>'<span>day, daytime</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>n-afiat-iat</i></td>
-<td>
-'<span>midday</span>'</td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td style="white-space: nowrap;"><i>n-afiat-iat</i></td>
+<td>'<span>midday</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>ahotea</i></td>
-<td>
-'<span>broad daylight</span>'</td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td style="white-space: nowrap;"><i>ahotea</i></td>
+<td>'<span>broad daylight</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>aoatea</i></td>
-<td>
-'<span>midday</span>'</td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>aoatea</i></td>
+<td>'<span>midday</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/anutan">Anutan</a></td><td><i>avatea</i></td>
-<td>
-'<span>midday</span>'</td>
+<td>Pn</td><td><a href="../languages/anutan">Anutan</a></td><td style="white-space: nowrap;"><i>avatea</i></td>
+<td>'<span>midday</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>avatea</i></td>
-<td>
-'<span>midday</span>'</td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td style="white-space: nowrap;"><i>avatea</i></td>
+<td>'<span>midday</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>ʔaoʔatea</i></td>
-<td>
-[N, V] '<span>(be) early afternoon</span>'</td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td style="white-space: nowrap;"><i>ʔaoʔatea</i></td>
+<td>[N, V] '<span>(be) early afternoon</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>awakea</i></td>
-<td>
-'<span>noon</span>'</td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td style="white-space: nowrap;"><i>awakea</i></td>
+<td>'<span>noon</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>awatea</i></td>
-<td>
-'<span>broad daylight</span>'</td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td style="white-space: nowrap;"><i>awatea</i></td>
+<td>'<span>broad daylight</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/rarotongan">Rarotongan</a></td><td><i>avatea</i></td>
-<td>
-'<span>forenoon nine to twelve</span>'</td>
+<td>Pn</td><td><a href="../languages/rarotongan">Rarotongan</a></td><td style="white-space: nowrap;"><i>avatea</i></td>
+<td>'<span>forenoon nine to twelve</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tahitian">Tahitian</a></td><td><i>avatea</i></td>
-<td>
-'<span>late morning to early afternoon</span>'</td>
+<td>Pn</td><td><a href="../languages/tahitian">Tahitian</a></td><td style="white-space: nowrap;"><i>avatea</i></td>
+<td>'<span>late morning to early afternoon</span>'</td>
 </tr>
 </table>
 
@@ -1661,8 +1436,7 @@ Just one term is reconstructable for this period of the day, POc _&ast;Rapi_.
 <td style="white-space: nowrap;">
 <i>&ast;Rabi</i>
 </td>
-<td>
-'<span>evening</span>' (<a href="../sources/Blust1995">Blust1995</a>; <a href="../sources/Dempwolff1938">Dempwolff1938</a>)
+<td>'<span>evening</span>' (<a href="../sources/Blust1995">Blust1995</a>; <a href="../sources/Dempwolff1938">Dempwolff1938</a>)
 </td>
 </tr>
 <tr>
@@ -1670,258 +1444,207 @@ Just one term is reconstructable for this period of the day, POc _&ast;Rapi_.
 <td style="white-space: nowrap;">
 <i>&ast;Rapi, &ast;Rapi-Rapi</i>
 </td>
-<td>
-'<span>(N, V) late afternoon and evening, from about 3 p.m. to sunset</span>'</td>
+<td>'<span>(N, V) late afternoon and evening, from about 3 p.m. to sunset</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td><i>(eloa)lai</i></td>
-<td>
-'<span>evening</span>'</td>
+<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td style="white-space: nowrap;"><i>(eloa)lai</i></td>
+<td>'<span>evening</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/nyindrou">Nyindrou</a></td><td><i>(be)yeh</i></td>
-<td>
-'<span>afternoon</span>'</td>
+<td>Adm</td><td><a href="../languages/nyindrou">Nyindrou</a></td><td style="white-space: nowrap;"><i>(be)yeh</i></td>
+<td>'<span>afternoon</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/tuam">Tuam</a></td><td><i>rav-rav</i></td>
-<td>
-'<span>evening</span>'</td>
+<td>NNG</td><td><a href="../languages/tuam">Tuam</a></td><td style="white-space: nowrap;"><i>rav-rav</i></td>
+<td>'<span>evening</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/lukeppono">Lukep (Pono)</a></td><td><i>rai</i></td>
-<td>
-[N] '<span>afternoon from about 2 p.m. to darkness</span>'</td>
+<td>NNG</td><td><a href="../languages/lukeppono">Lukep (Pono)</a></td><td style="white-space: nowrap;"><i>rai</i></td>
+<td>[N] '<span>afternoon from about 2 p.m. to darkness</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/sio">Sio</a></td><td><i>la-la</i></td>
-<td>
-'<span>afternoon</span>'</td>
+<td>NNG</td><td><a href="../languages/sio">Sio</a></td><td style="white-space: nowrap;"><i>la-la</i></td>
+<td>'<span>afternoon</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/tami">Tami</a></td><td><i>la-la</i></td>
-<td>
-'<span>evening</span>'</td>
+<td>NNG</td><td><a href="../languages/tami">Tami</a></td><td style="white-space: nowrap;"><i>la-la</i></td>
+<td>'<span>evening</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td><i>(g)rai(an)</i></td>
-<td>
-'<span>evening</span>'</td>
+<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td style="white-space: nowrap;"><i>(g)rai(an)</i></td>
+<td>'<span>evening</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/kela">Kela</a></td><td><i>(guru)rap</i></td>
-<td>
-'<span>evening</span>'</td>
+<td>NNG</td><td><a href="../languages/kela">Kela</a></td><td style="white-space: nowrap;"><i>(guru)rap</i></td>
+<td>'<span>evening</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/sukurum">Sukurum</a></td><td><i>(fi)raf</i></td>
-<td>
-'<span>evening</span>'</td>
+<td>NNG</td><td><a href="../languages/sukurum">Sukurum</a></td><td style="white-space: nowrap;"><i>(fi)raf</i></td>
+<td>'<span>evening</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td><i>rai-rai</i></td>
-<td>
-'<span>evening</span>'</td>
+<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td style="white-space: nowrap;"><i>rai-rai</i></td>
+<td>'<span>evening</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/kilivila">Kilivila</a></td><td><i>kwayavi</i></td>
-<td>
-'<span>evening</span>'</td>
+<td>PT</td><td><a href="../languages/kilivila">Kilivila</a></td><td style="white-space: nowrap;"><i>kwayavi</i></td>
+<td>'<span>evening</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/gapapaiwa">Gapapaiwa</a></td><td><i>ravi</i></td>
-<td>
-[ADV] '<span>afternoon; evening, from about 3 to 7 p.m.</span>'</td>
+<td>PT</td><td><a href="../languages/gapapaiwa">Gapapaiwa</a></td><td style="white-space: nowrap;"><i>ravi</i></td>
+<td>[ADV] '<span>afternoon; evening, from about 3 to 7 p.m.</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/gumawana">Gumawana</a></td><td><i>lavi-lavi</i></td>
-<td>
-[ADV] '<span>evening/late afternoon</span>'</td>
+<td>PT</td><td><a href="../languages/gumawana">Gumawana</a></td><td style="white-space: nowrap;"><i>lavi-lavi</i></td>
+<td>[ADV] '<span>evening/late afternoon</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/iduna">Iduna</a></td><td><i>lavi-lavi</i></td>
-<td>
-'<span>afternoon</span>'</td>
+<td>PT</td><td><a href="../languages/iduna">Iduna</a></td><td style="white-space: nowrap;"><i>lavi-lavi</i></td>
+<td>'<span>afternoon</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/sinaugoro">Sinaugoro</a></td><td><i>lavi-lavi</i></td>
-<td>
-[N] '<span>afternoon</span>'</td>
+<td>PT</td><td><a href="../languages/sinaugoro">Sinaugoro</a></td><td style="white-space: nowrap;"><i>lavi-lavi</i></td>
+<td>[N] '<span>afternoon</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>(ado)rahi</i></td>
-<td>
-[N] '<span>late afternoon/evening</span>' (<span><em>ado</em> ‘sun’ [not used independently]</span>)</td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td style="white-space: nowrap;"><i>(ado)rahi</i></td>
+<td>[N] '<span>late afternoon/evening</span>' (<span><em>ado</em> ‘sun’ [not used independently]</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/bali">Bali</a></td><td><i>(ga)ravi</i></td>
-<td>
-'<span>evening</span>'</td>
+<td>MM</td><td><a href="../languages/bali">Bali</a></td><td style="white-space: nowrap;"><i>(ga)ravi</i></td>
+<td>'<span>evening</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/meramera">Meramera</a></td><td><i>lavi-lavi</i></td>
-<td>
-'<span>evening</span>'</td>
+<td>MM</td><td><a href="../languages/meramera">Meramera</a></td><td style="white-space: nowrap;"><i>lavi-lavi</i></td>
+<td>'<span>evening</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/karaeast">Kara (East)</a></td><td><i>(la)iaf</i></td>
-<td>
-'<span>evening</span>'</td>
+<td>MM</td><td><a href="../languages/karaeast">Kara (East)</a></td><td style="white-space: nowrap;"><i>(la)iaf</i></td>
+<td>'<span>evening</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/lihir">Lihir</a></td><td><i>(le)leh</i></td>
-<td>
-'<span>evening</span>'</td>
+<td>MM</td><td><a href="../languages/lihir">Lihir</a></td><td style="white-space: nowrap;"><i>(le)leh</i></td>
+<td>'<span>evening</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/sursurunga">Sursurunga</a></td><td><i>rah-rah</i></td>
-<td>
-[N] '<span>afternoon</span>'</td>
+<td>MM</td><td><a href="../languages/sursurunga">Sursurunga</a></td><td style="white-space: nowrap;"><i>rah-rah</i></td>
+<td>[N] '<span>afternoon</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/label">Label</a></td><td><i>rah</i></td>
-<td>
-'<span>evening</span>'</td>
+<td>MM</td><td><a href="../languages/label">Label</a></td><td style="white-space: nowrap;"><i>rah</i></td>
+<td>'<span>evening</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td><i>(malu)rap</i></td>
-<td>
-[V] '<span>evening</span>'</td>
+<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td style="white-space: nowrap;"><i>(malu)rap</i></td>
+<td>[V] '<span>evening</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td><i>ravi(an)</i></td>
-<td>
-'<span>afternoon, evening</span>'</td>
+<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td style="white-space: nowrap;"><i>ravi(an)</i></td>
+<td>'<span>afternoon, evening</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/siar">Siar</a></td><td><i>raf</i></td>
-<td>
-'<span>evening</span>'</td>
+<td>MM</td><td><a href="../languages/siar">Siar</a></td><td style="white-space: nowrap;"><i>raf</i></td>
+<td>'<span>evening</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/taiof">Taiof</a></td><td><i>(tou)raf</i></td>
-<td>
-'<span>evening</span>'</td>
+<td>MM</td><td><a href="../languages/taiof">Taiof</a></td><td style="white-space: nowrap;"><i>(tou)raf</i></td>
+<td>'<span>evening</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/banoni">Banoni</a></td><td><i>(nē)navi</i></td>
-<td>
-'<span>evening</span>'</td>
+<td>MM</td><td><a href="../languages/banoni">Banoni</a></td><td style="white-space: nowrap;"><i>(nē)navi</i></td>
+<td>'<span>evening</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/torau">Torau</a></td><td><i>rai</i></td>
-<td>
-'<span>evening</span>'</td>
+<td>MM</td><td><a href="../languages/torau">Torau</a></td><td style="white-space: nowrap;"><i>rai</i></td>
+<td>'<span>evening</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/maringe">Maringe</a></td><td><i>grafi</i></td>
-<td>
-'<span>evening</span>'</td>
+<td>MM</td><td><a href="../languages/maringe">Maringe</a></td><td style="white-space: nowrap;"><i>grafi</i></td>
+<td>'<span>evening</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>(nu)lavi</i></td>
-<td>
-'<span>evening</span>'</td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td style="white-space: nowrap;"><i>(nu)lavi</i></td>
+<td>'<span>evening</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/longgu">Longgu</a></td><td><i>(zao)lavi</i></td>
-<td>
-[N] '<span>evening</span>'</td>
+<td>SES</td><td><a href="../languages/longgu">Longgu</a></td><td style="white-space: nowrap;"><i>(zao)lavi</i></td>
+<td>[N] '<span>evening</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>(sau)lafi</i></td>
-<td>
-'<span>evening</span>'</td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td style="white-space: nowrap;"><i>(sau)lafi</i></td>
+<td>'<span>evening</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>(lau)lafi</i></td>
-<td>
-'<span>late afternoon</span>'</td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td style="white-space: nowrap;"><i>(lau)lafi</i></td>
+<td>'<span>late afternoon</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>(sau)lehi</i></td>
-<td>
-'<span>evening, dusk, from 4 p.m. to dark</span>'</td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>(sau)lehi</i></td>
+<td>'<span>evening, dusk, from 4 p.m. to dark</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>rav-rav</i></td>
-<td>
-'<span>evening, the dusk of evening</span>'</td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td style="white-space: nowrap;"><i>rav-rav</i></td>
+<td>'<span>evening, the dusk of evening</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td><i>rav-ravi</i></td>
-<td>
-'<span>late</span>'</td>
+<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td style="white-space: nowrap;"><i>rav-ravi</i></td>
+<td>'<span>late</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td><i>(ute)rav-ravi</i></td>
-<td>
-'<span>evening</span>'</td>
+<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td style="white-space: nowrap;"><i>(ute)rav-ravi</i></td>
+<td>'<span>evening</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/tamambo">Tamambo</a></td><td><i>ravi-ravi</i></td>
-<td>
-'<span>late afternoon/evening</span>'</td>
+<td>NCV</td><td><a href="../languages/tamambo">Tamambo</a></td><td style="white-space: nowrap;"><i>ravi-ravi</i></td>
+<td>'<span>late afternoon/evening</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/uripiv">Uripiv</a></td><td><i>riv-riv</i></td>
-<td>
-'<span>afternoon</span>'</td>
+<td>NCV</td><td><a href="../languages/uripiv">Uripiv</a></td><td style="white-space: nowrap;"><i>riv-riv</i></td>
+<td>'<span>afternoon</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td><i>(medī)lahi</i></td>
-<td>
-'<span>afternoon, evening</span>'</td>
+<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td style="white-space: nowrap;"><i>(medī)lahi</i></td>
+<td>'<span>afternoon, evening</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/namakir">Namakir</a></td><td><i>d(a)ravi(h)</i></td>
-<td>
-'<span>evening</span>'</td>
+<td>NCV</td><td><a href="../languages/namakir">Namakir</a></td><td style="white-space: nowrap;"><i>d(a)ravi(h)</i></td>
+<td>'<span>evening</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/sye">Sye</a></td><td><i>(pʷa)rap</i></td>
-<td>
-'<span>evening</span>'</td>
+<td>SV</td><td><a href="../languages/sye">Sye</a></td><td style="white-space: nowrap;"><i>(pʷa)rap</i></td>
+<td>'<span>evening</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/sye">Sye</a></td><td><i>(a)rap</i></td>
-<td>
-'<span>begin to get dark in late afternoon</span>'</td>
+<td>SV</td><td><a href="../languages/sye">Sye</a></td><td style="white-space: nowrap;"><i>(a)rap</i></td>
+<td>'<span>begin to get dark in late afternoon</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>(injup-u)ra</i></td>
-<td>
-'<span>evening</span>'</td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td style="white-space: nowrap;"><i>(injup-u)ra</i></td>
+<td>'<span>evening</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td><a href="../languages/nemi">Nemi</a></td><td><i>(bate)ap</i></td>
-<td>
-'<span>evening</span>'</td>
+<td>NCal</td><td><a href="../languages/nemi">Nemi</a></td><td style="white-space: nowrap;"><i>(bate)ap</i></td>
+<td>'<span>evening</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>avi-avi</i></td>
-<td>
-'<span>late afternoon/evening</span>'</td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td style="white-space: nowrap;"><i>avi-avi</i></td>
+<td>'<span>late afternoon/evening</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>afi-afi</i></td>
-<td>
-'<span>evening</span>'</td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td style="white-space: nowrap;"><i>afi-afi</i></td>
+<td>'<span>evening</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>afi-afi</i></td>
-<td>
-'<span>evening</span>'</td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>afi-afi</i></td>
+<td>'<span>evening</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>afi-afi</i></td>
-<td>
-'<span>late afternoon/evening</span>'</td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td style="white-space: nowrap;"><i>afi-afi</i></td>
+<td>'<span>late afternoon/evening</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>ahi-ahi</i></td>
-<td>
-'<span>late afternoon, evening</span>'</td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td style="white-space: nowrap;"><i>ahi-ahi</i></td>
+<td>'<span>late afternoon, evening</span>'</td>
 </tr>
 </table>
 
@@ -1935,33 +1658,27 @@ There are also Micronesian reflexes. These are not listed above because they sho
 <td style="white-space: nowrap;">
 <i>&ast;fakāfi</i>
 </td>
-<td>
-'<span>evening, in the evening</span>'</td>
+<td>'<span>evening, in the evening</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/mortlockese">Mortlockese</a></td><td><i>(lɛ)fǣf</i></td>
-<td>
-'<span>evening</span>'</td>
+<td>Mic</td><td><a href="../languages/mortlockese">Mortlockese</a></td><td style="white-space: nowrap;"><i>(lɛ)fǣf</i></td>
+<td>'<span>evening</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td><i>fǣf</i></td>
-<td>
-'<span>evening meal, main meal</span>'</td>
+<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td style="white-space: nowrap;"><i>fǣf</i></td>
+<td>'<span>evening meal, main meal</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td><i>(lē)fæf</i></td>
-<td>
-'<span>evening meal</span>'</td>
+<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td style="white-space: nowrap;"><i>(lē)fæf</i></td>
+<td>'<span>evening meal</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/carolinian">Carolinian</a></td><td><i>(lē)fǣf</i></td>
-<td>
-'<span>evening, dusk</span>'</td>
+<td>Mic</td><td><a href="../languages/carolinian">Carolinian</a></td><td style="white-space: nowrap;"><i>(lē)fǣf</i></td>
+<td>'<span>evening, dusk</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>fexāfi</i></td>
-<td>
-'<span>last night</span>'</td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td style="white-space: nowrap;"><i>fexāfi</i></td>
+<td>'<span>last night</span>'</td>
 </tr>
 </table>
 
@@ -1995,8 +1712,7 @@ POc _&ast;pulan_ ‘moon’ also meant ‘month’. The reconstruction here is r
 <td style="white-space: nowrap;">
 <i>&ast;bulaN</i>
 </td>
-<td>
-'<span>moon, month, menstruation</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>moon, month, menstruation</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -2004,8 +1720,7 @@ POc _&ast;pulan_ ‘moon’ also meant ‘month’. The reconstruction here is r
 <td style="white-space: nowrap;">
 <i>&ast;bulan</i>
 </td>
-<td>
-'<span>moon, month; menstruation</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
+<td>'<span>moon, month; menstruation</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
 </td>
 </tr>
 <tr>
@@ -2013,69 +1728,56 @@ POc _&ast;pulan_ ‘moon’ also meant ‘month’. The reconstruction here is r
 <td style="white-space: nowrap;">
 <i>&ast;pulan</i>
 </td>
-<td>
-'<span>moon, month</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>moon, month</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/lou">Lou</a></td><td><i>pulan</i></td>
-<td>
-'<span>moon</span>'</td>
+<td>Adm</td><td><a href="../languages/lou">Lou</a></td><td style="white-space: nowrap;"><i>pulan</i></td>
+<td>'<span>moon</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td><i>ulana</i></td>
-<td>
-'<span>moon</span>'</td>
+<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td style="white-space: nowrap;"><i>ulana</i></td>
+<td>'<span>moon</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>hua</i></td>
-<td>
-'<span>moon, month</span>'</td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td style="white-space: nowrap;"><i>hua</i></td>
+<td>'<span>moon, month</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td><i>ulan</i></td>
-<td>
-'<span>moon</span>'</td>
+<td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td style="white-space: nowrap;"><i>ulan</i></td>
+<td>'<span>moon</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td><i>vula</i></td>
-<td>
-'<span>moon, month</span>'</td>
+<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td style="white-space: nowrap;"><i>vula</i></td>
+<td>'<span>moon, month</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>fula</i></td>
-<td>
-'<span>the moon (but only in naming a month)</span>'</td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td style="white-space: nowrap;"><i>fula</i></td>
+<td>'<span>the moon (but only in naming a month)</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>fula</i></td>
-<td>
-'<span>moon (mainly in compounds)</span>'</td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td style="white-space: nowrap;"><i>fula</i></td>
+<td>'<span>moon (mainly in compounds)</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>hule</i></td>
-<td>
-'<span>phases of the moon; full moon</span>'</td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>hule</i></td>
+<td>'<span>phases of the moon; full moon</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>hule i lade</i></td>
-<td>
-'<span>name of a month, July</span>'</td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>hule i lade</i></td>
+<td>'<span>name of a month, July</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>hura</i></td>
-<td>
-'<span>moon, month</span>'</td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td style="white-space: nowrap;"><i>hura</i></td>
+<td>'<span>moon, month</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>vula</i></td>
-<td>
-'<span>moon, month, season marked by moon</span>'</td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td style="white-space: nowrap;"><i>vula</i></td>
+<td>'<span>moon, month, season marked by moon</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>vula</i></td>
-<td>
-'<span>moon, month</span>'</td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td style="white-space: nowrap;"><i>vula</i></td>
+<td>'<span>moon, month</span>'</td>
 </tr>
 </table>
 
@@ -2089,38 +1791,31 @@ As a verb, POc _&ast;sinaR_ ‘sun, shine’ (Ch. 6, p.163; above, p.310) has gi
 <td style="white-space: nowrap;">
 <i>&ast;mā-sina</i>
 </td>
-<td>
-'<span>moon, month</span>'</td>
+<td>'<span>moon, month</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>māsina</i></td>
-<td>
-</td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td style="white-space: nowrap;"><i>māsina</i></td>
+<td></td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>māhina</i></td>
-<td>
-</td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td style="white-space: nowrap;"><i>māhina</i></td>
+<td></td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>māsina</i></td>
-<td>
-</td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>māsina</i></td>
+<td></td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/eastfutunan">East Futunan</a></td><td><i>māsina</i></td>
-<td>
-</td>
+<td>Pn</td><td><a href="../languages/eastfutunan">East Futunan</a></td><td style="white-space: nowrap;"><i>māsina</i></td>
+<td></td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/eastuvean">East Uvean</a></td><td><i>māhina</i></td>
-<td>
-</td>
+<td>Pn</td><td><a href="../languages/eastuvean">East Uvean</a></td><td style="white-space: nowrap;"><i>māhina</i></td>
+<td></td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>māhina</i></td>
-<td>
-</td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td style="white-space: nowrap;"><i>māhina</i></td>
+<td></td>
 </tr>
 </table>
 
@@ -2131,7 +1826,7 @@ Phases of the moon are probably named in every Oceanic language. However, there 
 
 <a id="p-316"></a>
 
-Maximal systems, like those found in Micronesia and in Central Eastern Polynesian languages, have thirty names, one for each day of a lunar month.[^14] Between the minimal and the maximal systems are systems that divide the month into phases of two or three nights each (e.g. Sa’a as reported by [Ivens 1927](../sources/Ivens1927), [1929](../sources/Ivens1929)). Some Oceanic communities, like Mwotlap (NCV), seem to divide the lunar month into phases based on sixths rather than quarters. That is, they have terms for the new moon and (roughly) the 5th, 10th, 15th, 20th and 25th days ([François 2001](../sources/Francois2001)). From White, Kokhonigita and Pulomana’s (1988) dictionary definitions it seems that Maringe may also be such a language. Kiriwina apparently names days only from the 10th to the 20th day. The Lamotrek days, as listed by [Christian](../sources/Christian1899) ([1899](../sources/Christian1899)) are divided into two sections of respectively ten and twenty days.
+Maximal systems, like those found in Micronesia and in Central Eastern Polynesian languages, have thirty names, one for each day of a lunar month.[^14] Between the minimal and the maximal systems are systems that divide the month into phases of two or three nights each (e.g. Sa’a as reported by [Ivens 1927](../sources/Ivens1927), [1929](../sources/Ivens1929)). Some Oceanic communities, like Mwotlap (NCV), seem to divide the lunar month into phases based on sixths rather than quarters. That is, they have terms for the new moon and (roughly) the 5th, 10th, 15th, 20th and 25th days ([François 2001](../sources/Francois2001)). From [White, Kokhonigita and Pulomana’s](../sources/WhiteKokhonigitaPulomana1988) ([1988](../sources/WhiteKokhonigitaPulomana1988)) dictionary definitions it seems that Maringe may also be such a language. Kiriwina apparently names days only from the 10th to the 20th day. The Lamotrek days, as listed by [Christian](../sources/Christian1899) ([1899](../sources/Christian1899)) are divided into two sections of respectively ten and twenty days.
 
 Proto Micronesian and Proto Central–Eastern Polynesian sets of day names could probably be reconstructed, but the two sets would not be cognate and, unlike the month names, it is not possible to attribute literal meanings to most of their members (although some of the Polynesian sets apparently name supernatural beings). Hence for POc purposes there is little point in reconstructing them. In fact, there is not a great deal that can be reconstructed of the way that POc speakers talked about moon phases.
 
@@ -2214,38 +1909,31 @@ Other languages refer to what was apparently the same phase as ‘the young moon
 <td style="white-space: nowrap;">
 <i>&ast;pulan paqoRu</i>
 </td>
-<td>
-'<span>new moon, young moon</span>'</td>
+<td>'<span>new moon, young moon</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td><i>sidara vaqura</i></td>
-<td>
-'<span>new moon</span>' (<span><em>sidara</em> ‘moon’, <em>vaqura</em> ‘new, young’</span>)</td>
+<td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td style="white-space: nowrap;"><i>sidara vaqura</i></td>
+<td>'<span>new moon</span>' (<span><em>sidara</em> ‘moon’, <em>vaqura</em> ‘new, young’</span>)</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/mwotlap">Mwotlap</a></td><td><i>no-wol wɛhɛy</i></td>
-<td>
-'<span>new moon</span>' (<span><em>no</em> ART, <em>wol</em> ‘moon’, <em>wɛhɛy</em> ‘new, young’</span>)</td>
+<td>NCV</td><td><a href="../languages/mwotlap">Mwotlap</a></td><td style="white-space: nowrap;"><i>no-wol wɛhɛy</i></td>
+<td>'<span>new moon</span>' (<span><em>no</em> ART, <em>wol</em> ‘moon’, <em>wɛhɛy</em> ‘new, young’</span>)</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/lenakel">Lenakel</a></td><td><i>mouk vi</i></td>
-<td>
-'<span>new moon</span>' (<span><em>mouk</em> ‘moon’, <em>vi</em> ‘new’</span>)</td>
+<td>SV</td><td><a href="../languages/lenakel">Lenakel</a></td><td style="white-space: nowrap;"><i>mouk vi</i></td>
+<td>'<span>new moon</span>' (<span><em>mouk</em> ‘moon’, <em>vi</em> ‘new’</span>)</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>vula vou</i></td>
-<td>
-'<span>new moon</span>' (<span><em>vula</em> ‘moon’, <em>vou</em> ‘new’</span>)</td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td style="white-space: nowrap;"><i>vula vou</i></td>
+<td>'<span>new moon</span>' (<span><em>vula</em> ‘moon’, <em>vou</em> ‘new’</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>māhina foʔou</i></td>
-<td>
-'<span>new moon</span>' (<span><em>māhina</em> ‘moon’, <em>foʔou</em> ‘new’</span>)</td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td style="white-space: nowrap;"><i>māhina foʔou</i></td>
+<td>'<span>new moon</span>' (<span><em>māhina</em> ‘moon’, <em>foʔou</em> ‘new’</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>mahina pula fōu</i></td>
-<td>
-'<span>new moon</span>' (<span><em>mahina</em> ‘moon’, <em>pula</em> ‘rise’, <em>fōu</em> ‘new’</span>)</td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td style="white-space: nowrap;"><i>mahina pula fōu</i></td>
+<td>'<span>new moon</span>' (<span><em>mahina</em> ‘moon’, <em>pula</em> ‘rise’, <em>fōu</em> ‘new’</span>)</td>
 </tr>
 </table>
 
@@ -2327,118 +2015,95 @@ Probably the main seasons for POc speakers living in northwest Melanesia were me
 <td style="white-space: nowrap;">
 <i>&ast;raki</i>
 </td>
-<td>
-'<span>dry season when the southeast trades blow</span>'</td>
+<td>'<span>dry season when the southeast trades blow</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/lou">Lou</a></td><td><i>ra</i></td>
-<td>
-'<span>northeast, northeast wind</span>'</td>
+<td>Adm</td><td><a href="../languages/lou">Lou</a></td><td style="white-space: nowrap;"><i>ra</i></td>
+<td>'<span>northeast, northeast wind</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/titan">Titan</a></td><td><i>ⁿray</i></td>
-<td>
-'<span>wind from the mainland, mountain breeze, blows at night</span>'</td>
+<td>Adm</td><td><a href="../languages/titan">Titan</a></td><td style="white-space: nowrap;"><i>ⁿray</i></td>
+<td>'<span>wind from the mainland, mountain breeze, blows at night</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/gitua">Gitua</a></td><td><i>rak</i></td>
-<td>
-'<span>southeast trade</span>'</td>
+<td>NNG</td><td><a href="../languages/gitua">Gitua</a></td><td style="white-space: nowrap;"><i>rak</i></td>
+<td>'<span>southeast trade</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/mangap">Mangap</a></td><td><i>rak-rak</i></td>
-<td>
-'<span>fresh morning (during windy season)</span>'</td>
+<td>NNG</td><td><a href="../languages/mangap">Mangap</a></td><td style="white-space: nowrap;"><i>rak-rak</i></td>
+<td>'<span>fresh morning (during windy season)</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/tami">Tami</a></td><td><i>lai</i></td>
-<td>
-'<span>southeast trade</span>'</td>
+<td>NNG</td><td><a href="../languages/tami">Tami</a></td><td style="white-space: nowrap;"><i>lai</i></td>
+<td>'<span>southeast trade</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/maleu">Maleu</a></td><td><i>(na)lai</i></td>
-<td>
-'<span>southeast trade</span>'</td>
+<td>NNG</td><td><a href="../languages/maleu">Maleu</a></td><td style="white-space: nowrap;"><i>(na)lai</i></td>
+<td>'<span>southeast trade</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/ali">Ali</a></td><td><i>rai</i></td>
-<td>
-'<span>southeast trade</span>'</td>
+<td>NNG</td><td><a href="../languages/ali">Ali</a></td><td style="white-space: nowrap;"><i>rai</i></td>
+<td>'<span>southeast trade</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/tumleo">Tumleo</a></td><td><i>riei</i></td>
-<td>
-'<span>southeast trade</span>'</td>
+<td>NNG</td><td><a href="../languages/tumleo">Tumleo</a></td><td style="white-space: nowrap;"><i>riei</i></td>
+<td>'<span>southeast trade</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/vitu">Vitu</a></td><td><i>raɣi</i></td>
-<td>
-'<span>southeast trade</span>'</td>
+<td>MM</td><td><a href="../languages/vitu">Vitu</a></td><td style="white-space: nowrap;"><i>raɣi</i></td>
+<td>'<span>southeast trade</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/bulu">Bulu</a></td><td><i>laɣi</i></td>
-<td>
-'<span>southeast trade</span>'</td>
+<td>MM</td><td><a href="../languages/bulu">Bulu</a></td><td style="white-space: nowrap;"><i>laɣi</i></td>
+<td>'<span>southeast trade</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td><i>rei</i></td>
-<td>
-'<span>wind</span>'</td>
+<td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td style="white-space: nowrap;"><i>rei</i></td>
+<td>'<span>wind</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/lewo">Lewo</a></td><td><i>lagi(pesoi)</i></td>
-<td>
-'<span>east wind</span>'</td>
+<td>NCV</td><td><a href="../languages/lewo">Lewo</a></td><td style="white-space: nowrap;"><i>lagi(pesoi)</i></td>
+<td>'<span>east wind</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>ṛᵚak</i></td>
-<td>
-'<span>south, summer</span>'</td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td style="white-space: nowrap;"><i>ṛᵚak</i></td>
+<td>'<span>south, summer</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/ponapean">Ponapean</a></td><td><i>rāk</i></td>
-<td>
-'<span>breadfruit season, season of plenty</span>'</td>
+<td>Mic</td><td><a href="../languages/ponapean">Ponapean</a></td><td style="white-space: nowrap;"><i>rāk</i></td>
+<td>'<span>breadfruit season, season of plenty</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>draki</i></td>
-<td>
-'<span>weather</span>'</td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td style="white-space: nowrap;"><i>draki</i></td>
+<td>'<span>weather</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>draki</i></td>
-<td>
-'<span>weather</span>'</td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td style="white-space: nowrap;"><i>draki</i></td>
+<td>'<span>weather</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>laki</i></td>
-<td>
-'<span>west</span>'</td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td style="white-space: nowrap;"><i>laki</i></td>
+<td>'<span>west</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>lak(oifie)</i></td>
-<td>
-'<span>fair, fine weather</span>'</td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td style="white-space: nowrap;"><i>lak(oifie)</i></td>
+<td>'<span>fair, fine weather</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/eastuvean">East Uvean</a></td><td><i>laki</i></td>
-<td>
-'<span>southeast or southwest wind</span>'</td>
+<td>Pn</td><td><a href="../languages/eastuvean">East Uvean</a></td><td style="white-space: nowrap;"><i>laki</i></td>
+<td>'<span>southeast or southwest wind</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/pukapukan">Pukapukan</a></td><td><i>laki</i></td>
-<td>
-'<span>southwest wind</span>'</td>
+<td>Pn</td><td><a href="../languages/pukapukan">Pukapukan</a></td><td style="white-space: nowrap;"><i>laki</i></td>
+<td>'<span>southwest wind</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>laʔi</i></td>
-<td>
-'<span>southwest veering to northwest</span>'</td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>laʔi</i></td>
+<td>'<span>southwest veering to northwest</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>laʔi</i></td>
-<td>
-'<span>calm, stillness, quiet (of sea, sky, wind)</span>'</td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td style="white-space: nowrap;"><i>laʔi</i></td>
+<td>'<span>calm, stillness, quiet (of sea, sky, wind)</span>'</td>
 </tr>
 </table>
 
@@ -2450,8 +2115,7 @@ Probably the main seasons for POc speakers living in northwest Melanesia were me
 <td style="white-space: nowrap;">
 <i>&ast;habaRat</i>
 </td>
-<td>
-'<span>west monsoon</span>' (<a href="../sources/Blust1995">Blust1995</a>; <a href="../sources/Dempwolff1938">Dempwolff1938</a>)
+<td>'<span>west monsoon</span>' (<a href="../sources/Blust1995">Blust1995</a>; <a href="../sources/Dempwolff1938">Dempwolff1938</a>)
 </td>
 </tr>
 <tr>
@@ -2459,103 +2123,83 @@ Probably the main seasons for POc speakers living in northwest Melanesia were me
 <td style="white-space: nowrap;">
 <i>&ast;apaRat</i>
 </td>
-<td>
-'<span>wet season when northwesterlies blow and sea is rough</span>'</td>
+<td>'<span>wet season when northwesterlies blow and sea is rough</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td><i>apae</i></td>
-<td>
-'<span>strong wind, storm wind</span>'</td>
+<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td style="white-space: nowrap;"><i>apae</i></td>
+<td>'<span>strong wind, storm wind</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/wuvulu">Wuvulu</a></td><td><i>afā</i></td>
-<td>
-'<span>northwest wind</span>'</td>
+<td>Adm</td><td><a href="../languages/wuvulu">Wuvulu</a></td><td style="white-space: nowrap;"><i>afā</i></td>
+<td>'<span>northwest wind</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/drehet">Drehet</a></td><td><i>yaha</i></td>
-<td>
-'<span>stormy season, generally from November to March; strong wind and rough sea from the northwest</span>'</td>
+<td>Adm</td><td><a href="../languages/drehet">Drehet</a></td><td style="white-space: nowrap;"><i>yaha</i></td>
+<td>'<span>stormy season, generally from November to March; strong wind and rough sea from the northwest</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/kove">Kove</a></td><td><i>awaha</i></td>
-<td>
-'<span>rain</span>'</td>
+<td>NNG</td><td><a href="../languages/kove">Kove</a></td><td style="white-space: nowrap;"><i>awaha</i></td>
+<td>'<span>rain</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/gitua">Gitua</a></td><td><i>yavara</i></td>
-<td>
-'<span>north wind</span>'</td>
+<td>NNG</td><td><a href="../languages/gitua">Gitua</a></td><td style="white-space: nowrap;"><i>yavara</i></td>
+<td>'<span>north wind</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/tami">Tami</a></td><td><i>yawal</i></td>
-<td>
-'<span>northwest wind</span>'</td>
+<td>NNG</td><td><a href="../languages/tami">Tami</a></td><td style="white-space: nowrap;"><i>yawal</i></td>
+<td>'<span>northwest wind</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/kairiru">Kairiru</a></td><td><i>yavar</i></td>
-<td>
-'<span>northwest wind, makes sea rough</span>'</td>
+<td>NNG</td><td><a href="../languages/kairiru">Kairiru</a></td><td style="white-space: nowrap;"><i>yavar</i></td>
+<td>'<span>northwest wind, makes sea rough</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/iduna">Iduna</a></td><td><i>yavalata</i></td>
-<td>
-'<span>rains with wind from the northwest in February and March</span>'</td>
+<td>PT</td><td><a href="../languages/iduna">Iduna</a></td><td style="white-space: nowrap;"><i>yavalata</i></td>
+<td>'<span>rains with wind from the northwest in February and March</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/tawala">Tawala</a></td><td><i>yawalata</i></td>
-<td>
-'<span>light rain from southwest during dry season</span>'</td>
+<td>PT</td><td><a href="../languages/tawala">Tawala</a></td><td style="white-space: nowrap;"><i>yawalata</i></td>
+<td>'<span>light rain from southwest during dry season</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>lahara</i></td>
-<td>
-'<span>northwest wind and season</span>'</td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td style="white-space: nowrap;"><i>lahara</i></td>
+<td>'<span>northwest wind and season</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/bali">Bali</a></td><td><i>vurata</i></td>
-<td>
-'<span>northwest wind</span>'</td>
+<td>MM</td><td><a href="../languages/bali">Bali</a></td><td style="white-space: nowrap;"><i>vurata</i></td>
+<td>'<span>northwest wind</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td><i>le-avala</i></td>
-<td>
-'<span>year, wet season</span>'</td>
+<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td style="white-space: nowrap;"><i>le-avala</i></td>
+<td>'<span>year, wet season</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/karaeast">Kara (East)</a></td><td><i>yefet</i></td>
-<td>
-'<span>wet season</span>'</td>
+<td>MM</td><td><a href="../languages/karaeast">Kara (East)</a></td><td style="white-space: nowrap;"><i>yefet</i></td>
+<td>'<span>wet season</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/barok">Barok</a></td><td><i>awat</i></td>
-<td>
-'<span>year</span>'</td>
+<td>MM</td><td><a href="../languages/barok">Barok</a></td><td style="white-space: nowrap;"><i>awat</i></td>
+<td>'<span>year</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/siar">Siar</a></td><td><i>yahrat</i></td>
-<td>
-'<span>year</span>'</td>
+<td>MM</td><td><a href="../languages/siar">Siar</a></td><td style="white-space: nowrap;"><i>yahrat</i></td>
+<td>'<span>year</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tinputz">Tinputz</a></td><td><i>ivat</i></td>
-<td>
-'<span>strong wind</span>'</td>
+<td>MM</td><td><a href="../languages/tinputz">Tinputz</a></td><td style="white-space: nowrap;"><i>ivat</i></td>
+<td>'<span>strong wind</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>ðavā</i></td>
-<td>
-'<span>storm, strong wind bringing rain</span>'</td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td style="white-space: nowrap;"><i>ðavā</i></td>
+<td>'<span>storm, strong wind bringing rain</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>afā</i></td>
-<td>
-'<span>hurricane, gale or very severe storm</span>'</td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td style="white-space: nowrap;"><i>afā</i></td>
+<td>'<span>hurricane, gale or very severe storm</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>afā</i></td>
-<td>
-'<span>storm, hurricane</span>'</td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>afā</i></td>
+<td>'<span>storm, hurricane</span>'</td>
 </tr>
 </table>
 
@@ -2619,8 +2263,7 @@ In [Ross](../sources/Ross1995c) ([1995c](../sources/Ross1995c)) I wrote, ‘Ther
 <td style="white-space: nowrap;">
 <i>&ast;taqun</i>
 </td>
-<td>
-'<span>period of a year</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
+<td>'<span>period of a year</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
 </td>
 </tr>
 <tr>
@@ -2628,108 +2271,87 @@ In [Ross](../sources/Ross1995c) ([1995c](../sources/Ross1995c)) I wrote, ‘Ther
 <td style="white-space: nowrap;">
 <i>&ast;taqun</i>
 </td>
-<td>
-'<span>period of a year, yam season cycle (?), any cyclic period</span>'</td>
+<td>'<span>period of a year, yam season cycle (?), any cyclic period</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/bariai">Bariai</a></td><td><i>taun</i></td>
-<td>
-'<span>the time when …</span>'</td>
+<td>NNG</td><td><a href="../languages/bariai">Bariai</a></td><td style="white-space: nowrap;"><i>taun</i></td>
+<td>'<span>the time when …</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/buang">Buang</a></td><td><i>ta</i></td>
-<td>
-'<span>year; a complete cycle of yam growing</span>'</td>
+<td>NNG</td><td><a href="../languages/buang">Buang</a></td><td style="white-space: nowrap;"><i>ta</i></td>
+<td>'<span>year; a complete cycle of yam growing</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/ulausuain">Ulau-Suain</a></td><td><i>taun</i></td>
-<td>
-'<span>year</span>'</td>
+<td>NNG</td><td><a href="../languages/ulausuain">Ulau-Suain</a></td><td style="white-space: nowrap;"><i>taun</i></td>
+<td>'<span>year</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/bola">Bola</a></td><td><i>tahu(na)</i></td>
-<td>
-'<span>the time when …</span>'</td>
+<td>MM</td><td><a href="../languages/bola">Bola</a></td><td style="white-space: nowrap;"><i>tahu(na)</i></td>
+<td>'<span>the time when …</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/sursurunga">Sursurunga</a></td><td><i>taul</i></td>
-<td>
-'<span>season</span>'</td>
+<td>MM</td><td><a href="../languages/sursurunga">Sursurunga</a></td><td style="white-space: nowrap;"><i>taul</i></td>
+<td>'<span>season</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/patpatar">Patpatar</a></td><td><i>t⟨in⟩ahon, t⟨in⟩ohon</i></td>
-<td>
-'<span>year</span>' (<span>‹in› marks a nominalisation: vol. 1. p.33</span>)</td>
+<td>MM</td><td><a href="../languages/patpatar">Patpatar</a></td><td style="white-space: nowrap;"><i>t⟨in⟩ahon, t⟨in⟩ohon</i></td>
+<td>'<span>year</span>' (<span>‹in› marks a nominalisation: vol. 1. p.33</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td><i>t⟨in⟩əwon</i></td>
-<td>
-'<span>year</span>' (<span>‹in› marks a nominalisation: vol. 1. p.33</span>)</td>
+<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td style="white-space: nowrap;"><i>t⟨in⟩əwon</i></td>
+<td>'<span>year</span>' (<span>‹in› marks a nominalisation: vol. 1. p.33</span>)</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>tau</i></td>
-<td>
-'<span>season</span>'</td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td style="white-space: nowrap;"><i>tau</i></td>
+<td>'<span>season</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/nguna">Nguna</a></td><td><i>(na)tau</i></td>
-<td>
-'<span>year</span>'</td>
+<td>NCV</td><td><a href="../languages/nguna">Nguna</a></td><td style="white-space: nowrap;"><i>(na)tau</i></td>
+<td>'<span>year</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>tai</i></td>
-<td>
-'<span>time, season, harvest</span>'</td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>tai</i></td>
+<td>'<span>time, season, harvest</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td><i>sowu-</i></td>
-<td>
-'<span>time, season</span>' (<span>in compounds</span>)</td>
+<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td style="white-space: nowrap;"><i>sowu-</i></td>
+<td>'<span>time, season</span>' (<span>in compounds</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>taʔu</i></td>
-<td>
-'<span>yam season cycle, year</span>'</td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td style="white-space: nowrap;"><i>taʔu</i></td>
+<td>'<span>yam season cycle, year</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/eastfutunan">East Futunan</a></td><td><i>taʔu</i></td>
-<td>
-'<span>yam season</span>'</td>
+<td>Pn</td><td><a href="../languages/eastfutunan">East Futunan</a></td><td style="white-space: nowrap;"><i>taʔu</i></td>
+<td>'<span>yam season</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>tau</i></td>
-<td>
-'<span>season, year</span>'</td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>tau</i></td>
+<td>'<span>season, year</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>taʔu</i></td>
-<td>
-'<span>season</span>'</td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td style="white-space: nowrap;"><i>taʔu</i></td>
+<td>'<span>season</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>taʔu ika</i></td>
-<td>
-'<span>fish season (late July to early January)</span>' (<span><em>ika</em> ‘fish’</span>)</td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td style="white-space: nowrap;"><i>taʔu ika</i></td>
+<td>'<span>fish season (late July to early January)</span>' (<span><em>ika</em> ‘fish’</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tuvalu">Tuvalu</a></td><td><i>tau(naŋa)</i></td>
-<td>
-'<span>year</span>'</td>
+<td>Pn</td><td><a href="../languages/tuvalu">Tuvalu</a></td><td style="white-space: nowrap;"><i>tau(naŋa)</i></td>
+<td>'<span>year</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/rapanui">Rapanui</a></td><td><i>taʔu</i></td>
-<td>
-'<span>year</span>'</td>
+<td>Pn</td><td><a href="../languages/rapanui">Rapanui</a></td><td style="white-space: nowrap;"><i>taʔu</i></td>
+<td>'<span>year</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/anutan">Anutan</a></td><td><i>tau</i></td>
-<td>
-'<span>year</span>'</td>
+<td>Pn</td><td><a href="../languages/anutan">Anutan</a></td><td style="white-space: nowrap;"><i>tau</i></td>
+<td>'<span>year</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/mangareva">Mangareva</a></td><td><i>tau</i></td>
-<td>
-'<span>season, year</span>'</td>
+<td>Pn</td><td><a href="../languages/mangareva">Mangareva</a></td><td style="white-space: nowrap;"><i>tau</i></td>
+<td>'<span>season, year</span>'</td>
 </tr>
 </table>
 
@@ -2798,122 +2420,100 @@ The reconstructions below are repeated from Chapter 8, but only reflexes with a 
 <td style="white-space: nowrap;">
 <i>&ast;muqa-</i>
 </td>
-<td>
-'<span>front</span>'</td>
+<td>'<span>front</span>'</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;muqa</i>
 </td>
-<td>
-'<span>front; be in front</span>'</td>
+<td>'<span>front; be in front</span>'</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;i muqa, &ast;qa-muqa, &ast;muqa-muqa</i>
 </td>
-<td>
-'<span>in front, formerly</span>' (<span>p.257</span>)</td>
+<td>'<span>in front, formerly</span>' (<span>p.257</span>)</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td><i>mu-mua</i></td>
-<td>
-'<span>first of all, formerly</span>'</td>
+<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td style="white-space: nowrap;"><i>mu-mua</i></td>
+<td>'<span>first of all, formerly</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tabar">Tabar</a></td><td><i>mu-mua</i></td>
-<td>
-'<span>formerly</span>'</td>
+<td>MM</td><td><a href="../languages/tabar">Tabar</a></td><td style="white-space: nowrap;"><i>mu-mua</i></td>
+<td>'<span>formerly</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/lihir">Lihir</a></td><td><i>(i)muo</i></td>
-<td>
-'<span>formerly</span>'</td>
+<td>MM</td><td><a href="../languages/lihir">Lihir</a></td><td style="white-space: nowrap;"><i>(i)muo</i></td>
+<td>'<span>formerly</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/taiof">Taiof</a></td><td><i>(i)mua(n)</i></td>
-<td>
-'<span>formerly</span>'</td>
+<td>MM</td><td><a href="../languages/taiof">Taiof</a></td><td style="white-space: nowrap;"><i>(i)mua(n)</i></td>
+<td>'<span>formerly</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>(a)mʷoa</i></td>
-<td>
-'<span>before, first</span>'</td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td style="white-space: nowrap;"><i>(a)mʷoa</i></td>
+<td>'<span>before, first</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td><i>(a)mua</i></td>
-<td>
-'<span>before, at first, first, in front of</span>'</td>
+<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td style="white-space: nowrap;"><i>(a)mua</i></td>
+<td>'<span>before, at first, first, in front of</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/portsandwich">Port Sandwich</a></td><td><i>(a)mo</i></td>
-<td>
-[POSTVERBAL ADV] '<span>before</span>'</td>
+<td>NCV</td><td><a href="../languages/portsandwich">Port Sandwich</a></td><td style="white-space: nowrap;"><i>(a)mo</i></td>
+<td>[POSTVERBAL ADV] '<span>before</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>[i]mʷowa-</i></td>
-<td>
-'<span>front, before</span>'</td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td style="white-space: nowrap;"><i>[i]mʷowa-</i></td>
+<td>'<span>front, before</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>mʷ-mʷa-</i></td>
-<td>
-'<span>front, first, tip, before</span>'</td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td style="white-space: nowrap;"><i>mʷ-mʷa-</i></td>
+<td>'<span>front, first, tip, before</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>(ʔi) muʔa [-atu]</i></td>
-<td>
-'<span>formerly</span>' (<span><em>-atu</em> DIR; p.279</span>)</td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td style="white-space: nowrap;"><i>(ʔi) muʔa [-atu]</i></td>
+<td>'<span>formerly</span>' (<span><em>-atu</em> DIR; p.279</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>(ana)mua</i></td>
-<td>
-'<span>formerly, in those days</span>'</td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>(ana)mua</i></td>
+<td>'<span>formerly, in those days</span>'</td>
 </tr>
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;muga</i>
 </td>
-<td>
-'<span>front; be in front; formerly</span>'</td>
+<td>'<span>front; be in front; formerly</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/bariai">Bariai</a></td><td><i>muga(eai)</i></td>
-<td>
-'<span>formerly</span>' (<span><em>-eai</em> POSTP</span>)</td>
+<td>NNG</td><td><a href="../languages/bariai">Bariai</a></td><td style="white-space: nowrap;"><i>muga(eai)</i></td>
+<td>'<span>formerly</span>' (<span><em>-eai</em> POSTP</span>)</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/lukeppono">Lukep (Pono)</a></td><td><i>mugu</i></td>
-<td>
-'<span>first of all, formerly</span>'</td>
+<td>NNG</td><td><a href="../languages/lukeppono">Lukep (Pono)</a></td><td style="white-space: nowrap;"><i>mugu</i></td>
+<td>'<span>first of all, formerly</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/mangap">Mangap</a></td><td><i>muᵑgu</i></td>
-<td>
-'<span>first of all, formerly, long ago</span>'</td>
+<td>NNG</td><td><a href="../languages/mangap">Mangap</a></td><td style="white-space: nowrap;"><i>muᵑgu</i></td>
+<td>'<span>first of all, formerly, long ago</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/bing">Bing</a></td><td><i>mug</i></td>
-<td>
-'<span>formerly</span>'</td>
+<td>NNG</td><td><a href="../languages/bing">Bing</a></td><td style="white-space: nowrap;"><i>mug</i></td>
+<td>'<span>formerly</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/adzera">Adzera</a></td><td><i>moŋʔ</i></td>
-<td>
-'<span>prior</span>'</td>
+<td>NNG</td><td><a href="../languages/adzera">Adzera</a></td><td style="white-space: nowrap;"><i>moŋʔ</i></td>
+<td>'<span>prior</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/bali">Bali</a></td><td><i>muga-</i></td>
-<td>
-'<span>front</span>'</td>
+<td>MM</td><td><a href="../languages/bali">Bali</a></td><td style="white-space: nowrap;"><i>muga-</i></td>
+<td>'<span>front</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td><i>(nə)mugə</i></td>
-<td>
-'<span>in front; formerly</span>'</td>
+<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td style="white-space: nowrap;"><i>(nə)mugə</i></td>
+<td>'<span>in front; formerly</span>'</td>
 </tr>
 </table>
 
@@ -2925,8 +2525,7 @@ The reconstructions below are repeated from Chapter 8, but only reflexes with a 
 <td style="white-space: nowrap;">
 <i>&ast;ma-udehi</i>
 </td>
-<td>
-'<span>be last; be after or behind; be late, be later; future</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>be last; be after or behind; be late, be later; future</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 [^15]</td>
 </tr>
 <tr>
@@ -2934,131 +2533,106 @@ The reconstructions below are repeated from Chapter 8, but only reflexes with a 
 <td style="white-space: nowrap;">
 <i>&ast;muri[-]</i>
 </td>
-<td>
-'<span>be behind, be after; back part, rear, behind, space to the rear of, time after; (canoe) stern; space outside</span>'</td>
+<td>'<span>be behind, be after; back part, rear, behind, space to the rear of, time after; (canoe) stern; space outside</span>'</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;i muri, &ast;muri-muri</i>
 </td>
-<td>
-'<span>at the back, later</span>' (<span>p.261</span>)</td>
+<td>'<span>at the back, later</span>' (<span>p.261</span>)</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/titan">Titan</a></td><td><i>muri-n</i></td>
-<td>
-'<span>behind, afterwards</span>'</td>
+<td>Adm</td><td><a href="../languages/titan">Titan</a></td><td style="white-space: nowrap;"><i>muri-n</i></td>
+<td>'<span>behind, afterwards</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/bariai">Bariai</a></td><td><i>muri(ai)</i></td>
-<td>
-'<span>later, afterwards</span>'</td>
+<td>NNG</td><td><a href="../languages/bariai">Bariai</a></td><td style="white-space: nowrap;"><i>muri(ai)</i></td>
+<td>'<span>later, afterwards</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/sio">Sio</a></td><td><i>muri</i></td>
-<td>
-'<span>later</span>'</td>
+<td>NNG</td><td><a href="../languages/sio">Sio</a></td><td style="white-space: nowrap;"><i>muri</i></td>
+<td>'<span>later</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/gitua">Gitua</a></td><td><i>mur</i></td>
-<td>
-'<span>behind, afterwards</span>'</td>
+<td>NNG</td><td><a href="../languages/gitua">Gitua</a></td><td style="white-space: nowrap;"><i>mur</i></td>
+<td>'<span>behind, afterwards</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/bing">Bing</a></td><td><i>mur(gam)</i></td>
-<td>
-'<span>later</span>'</td>
+<td>NNG</td><td><a href="../languages/bing">Bing</a></td><td style="white-space: nowrap;"><i>mur(gam)</i></td>
+<td>'<span>later</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/dobu">Dobu</a></td><td><i>muri-na</i></td>
-<td>
-'<span>behind, afterwards</span>'</td>
+<td>PT</td><td><a href="../languages/dobu">Dobu</a></td><td style="white-space: nowrap;"><i>muri-na</i></td>
+<td>'<span>behind, afterwards</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/gapapaiwa">Gapapaiwa</a></td><td><i>muri</i></td>
-<td>
-'<span>back of s.t.; behind, afterwards</span>'</td>
+<td>PT</td><td><a href="../languages/gapapaiwa">Gapapaiwa</a></td><td style="white-space: nowrap;"><i>muri</i></td>
+<td>'<span>back of s.t.; behind, afterwards</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/tawala">Tawala</a></td><td><i>muri</i></td>
-<td>
-'<span>back of s.t.; behind, afterwards</span>'</td>
+<td>PT</td><td><a href="../languages/tawala">Tawala</a></td><td style="white-space: nowrap;"><i>muri</i></td>
+<td>'<span>back of s.t.; behind, afterwards</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/sinaugoro">Sinaugoro</a></td><td><i>muri-na(i)</i></td>
-<td>
-'<span>behind, afterwards</span>'</td>
+<td>PT</td><td><a href="../languages/sinaugoro">Sinaugoro</a></td><td style="white-space: nowrap;"><i>muri-na(i)</i></td>
+<td>'<span>behind, afterwards</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/meramera">Meramera</a></td><td><i>(muli)muli</i></td>
-<td>
-'<span>later</span>'</td>
+<td>MM</td><td><a href="../languages/meramera">Meramera</a></td><td style="white-space: nowrap;"><i>(muli)muli</i></td>
+<td>'<span>later</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td><i>(muli)muli</i></td>
-<td>
-'<span>later</span>'</td>
+<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td style="white-space: nowrap;"><i>(muli)muli</i></td>
+<td>'<span>later</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td><i>(ai)muk</i></td>
-<td>
-'<span>later</span>'</td>
+<td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td style="white-space: nowrap;"><i>(ai)muk</i></td>
+<td>'<span>later</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td><i>(na)mur</i></td>
-<td>
-'<span>later, afterwards</span>'</td>
+<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td style="white-space: nowrap;"><i>(na)mur</i></td>
+<td>'<span>later, afterwards</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/monoalu">Mono-Alu</a></td><td><i>(muri)muri</i></td>
-<td>
-'<span>later</span>'</td>
+<td>MM</td><td><a href="../languages/monoalu">Mono-Alu</a></td><td style="white-space: nowrap;"><i>(muri)muri</i></td>
+<td>'<span>later</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/vangunu">Vangunu</a></td><td><i>(tara)meji-na</i></td>
-<td>
-'<span>after</span>'</td>
+<td>MM</td><td><a href="../languages/vangunu">Vangunu</a></td><td style="white-space: nowrap;"><i>(tara)meji-na</i></td>
+<td>'<span>after</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/varisi">Varisi</a></td><td><i>(tara)muzi-na</i></td>
-<td>
-'<span>after</span>'</td>
+<td>MM</td><td><a href="../languages/varisi">Varisi</a></td><td style="white-space: nowrap;"><i>(tara)muzi-na</i></td>
+<td>'<span>after</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>muri</i></td>
-<td>
-'<span>behind, afterwards; back; outside of s.t.; afterbirth; posterity</span>'</td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td style="white-space: nowrap;"><i>muri</i></td>
+<td>'<span>behind, afterwards; back; outside of s.t.; afterbirth; posterity</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/lengo">Lengo</a></td><td><i>(i)muri(a)</i></td>
-<td>
-'<span>after</span>'</td>
+<td>SES</td><td><a href="../languages/lengo">Lengo</a></td><td style="white-space: nowrap;"><i>(i)muri(a)</i></td>
+<td>'<span>after</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>muri</i></td>
-<td>
-'<span>follow; behind, back; outside of s.t.; afterwards; left hand when facing an object</span>'</td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td style="white-space: nowrap;"><i>muri</i></td>
+<td>'<span>follow; behind, back; outside of s.t.; afterwards; left hand when facing an object</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>(e) muri</i></td>
-<td>
-'<span>behind, later</span>'</td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td style="white-space: nowrap;"><i>(e) muri</i></td>
+<td>'<span>behind, later</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>(ʔa)mui</i></td>
-<td>
-'<span>later on, at some future time</span>'</td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td style="white-space: nowrap;"><i>(ʔa)mui</i></td>
+<td>'<span>later on, at some future time</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>muri</i></td>
-<td>
-'<span>rear, hind part; sequel, time to come; behind, afterwards, backwards; youngest child</span>'</td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td style="white-space: nowrap;"><i>muri</i></td>
+<td>'<span>rear, hind part; sequel, time to come; behind, afterwards, backwards; youngest child</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>(i) muri</i></td>
-<td>
-'<span>afterwards</span>'</td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td style="white-space: nowrap;"><i>(i) muri</i></td>
+<td>'<span>afterwards</span>'</td>
 </tr>
 </table>
 
@@ -3073,8 +2647,7 @@ The reconstructions below are repeated from Chapter 8, but only reflexes with a 
 <td style="white-space: nowrap;">
 <i>&ast;burit</i>
 </td>
-<td>
-'<span>hind part, rear, back</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>hind part, rear, back</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -3082,26 +2655,22 @@ The reconstructions below are repeated from Chapter 8, but only reflexes with a 
 <td style="white-space: nowrap;">
 <i>&ast;burit</i>
 </td>
-<td>
-'<span>be behind, be after; back part, rear, behind, space to the rear of, time after; (canoe) stern</span>'</td>
+<td>'<span>be behind, be after; back part, rear, behind, space to the rear of, time after; (canoe) stern</span>'</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;i burit</i>
 </td>
-<td>
-'<span>behind, afterwards</span>' (<span>p.262</span>)</td>
+<td>'<span>behind, afterwards</span>' (<span>p.262</span>)</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>(i) buri</i></td>
-<td>
-'<span>afterwards</span>'</td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td style="white-space: nowrap;"><i>(i) buri</i></td>
+<td>'<span>afterwards</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td><i>puri-na</i></td>
-<td>
-'<span>after</span>'</td>
+<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>puri-na</i></td>
+<td>'<span>after</span>'</td>
 </tr>
 </table>
 
@@ -3117,63 +2686,51 @@ It is hard to avoid the conclusion that _&ast;tuqaRi_ ‘(be) long ago; old (of 
 <td style="white-space: nowrap;">
 <i>&ast;tuqaRi</i>
 </td>
-<td>
-'<span>(be) long ago; take a long time, old (of inanimates)</span>'</td>
+<td>'<span>(be) long ago; take a long time, old (of inanimates)</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>tuai</i></td>
-<td>
-'<span>of long duration, old</span>'</td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td style="white-space: nowrap;"><i>tuai</i></td>
+<td>'<span>of long duration, old</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/tamambo">Tamambo</a></td><td><i>tuai</i></td>
-<td>
-'<span>of old</span>'</td>
+<td>NCV</td><td><a href="../languages/tamambo">Tamambo</a></td><td style="white-space: nowrap;"><i>tuai</i></td>
+<td>'<span>of old</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/nguna">Nguna</a></td><td><i>tuai</i></td>
-<td>
-'<span>long ago, (thing) old</span>'</td>
+<td>NCV</td><td><a href="../languages/nguna">Nguna</a></td><td style="white-space: nowrap;"><i>tuai</i></td>
+<td>'<span>long ago, (thing) old</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/sye">Sye</a></td><td><i>(e)twai</i></td>
-<td>
-'<span>recently</span>'</td>
+<td>SV</td><td><a href="../languages/sye">Sye</a></td><td style="white-space: nowrap;"><i>(e)twai</i></td>
+<td>'<span>recently</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/sye">Sye</a></td><td><i>(it-e)twai</i></td>
-<td>
-'<span>long time ago</span>'</td>
+<td>SV</td><td><a href="../languages/sye">Sye</a></td><td style="white-space: nowrap;"><i>(it-e)twai</i></td>
+<td>'<span>long time ago</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/kwamera">Kwamera</a></td><td><i>tui</i></td>
-<td>
-'<span>old, previous, of the past, long ago</span>'</td>
+<td>SV</td><td><a href="../languages/kwamera">Kwamera</a></td><td style="white-space: nowrap;"><i>tui</i></td>
+<td>'<span>old, previous, of the past, long ago</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>(i)tuwu</i></td>
-<td>
-'<span>long ago</span>'</td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td style="white-space: nowrap;"><i>(i)tuwu</i></td>
+<td>'<span>long ago</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>tuei</i></td>
-<td>
-[V, ADJ] '<span>take a long time; be slow, late</span>'</td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td style="white-space: nowrap;"><i>tuei</i></td>
+<td>[V, ADJ] '<span>take a long time; be slow, late</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>tuai</i></td>
-<td>
-[V] '<span>be slow, late</span>'</td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td style="white-space: nowrap;"><i>tuai</i></td>
+<td>[V] '<span>be slow, late</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>(mai) tuai</i></td>
-<td>
-[PP] '<span>from of old, since very early times</span>'</td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td style="white-space: nowrap;"><i>(mai) tuai</i></td>
+<td>[PP] '<span>from of old, since very early times</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>tuai</i></td>
-<td>
-[V] '<span>be late, be delayed</span>'</td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>tuai</i></td>
+<td>[V] '<span>be late, be delayed</span>'</td>
 </tr>
 </table>
 
@@ -3271,48 +2828,39 @@ There are a few languages where _&ast;qa-_ is prefixed to a part of the day to f
 <td style="white-space: nowrap;">
 <i>&ast;qana-pō</i>
 </td>
-<td>
-'<span>last night</span>'</td>
+<td>'<span>last night</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>ʔanepō</i></td>
-<td>
-'<span>last night</span>'</td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td style="white-space: nowrap;"><i>ʔanepō</i></td>
+<td>'<span>last night</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>ne-pō</i></td>
-<td>
-'<span>last night</span>'</td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td style="white-space: nowrap;"><i>ne-pō</i></td>
+<td>'<span>last night</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>anapō</i></td>
-<td>
-'<span>last night</span>'</td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>anapō</i></td>
+<td>'<span>last night</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/anutan">Anutan</a></td><td><i>anapo</i></td>
-<td>
-'<span>last night</span>'</td>
+<td>Pn</td><td><a href="../languages/anutan">Anutan</a></td><td style="white-space: nowrap;"><i>anapo</i></td>
+<td>'<span>last night</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/eastfutunan">East Futunan</a></td><td><i>nāpō</i></td>
-<td>
-'<span>last night</span>'</td>
+<td>Pn</td><td><a href="../languages/eastfutunan">East Futunan</a></td><td style="white-space: nowrap;"><i>nāpō</i></td>
+<td>'<span>last night</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/eastuvean">East Uvean</a></td><td><i>ʔana pō</i></td>
-<td>
-'<span>last night</span>'</td>
+<td>Pn</td><td><a href="../languages/eastuvean">East Uvean</a></td><td style="white-space: nowrap;"><i>ʔana pō</i></td>
+<td>'<span>last night</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/nukuria">Nukuria</a></td><td><i>anabō</i></td>
-<td>
-'<span>last night</span>'</td>
+<td>Pn</td><td><a href="../languages/nukuria">Nukuria</a></td><td style="white-space: nowrap;"><i>anabō</i></td>
+<td>'<span>last night</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tahitian">Tahitian</a></td><td><i>napo</i></td>
-<td>
-'<span>last night</span>'</td>
+<td>Pn</td><td><a href="../languages/tahitian">Tahitian</a></td><td style="white-space: nowrap;"><i>napo</i></td>
+<td>'<span>last night</span>'</td>
 </tr>
 </table>
 
@@ -3331,211 +2879,170 @@ The POc base for ‘yesterday’ was _&ast;ñoRap_. A few reflexes reflect accre
 <td style="white-space: nowrap;">
 <i>&ast;ñeRab</i>
 </td>
-<td>
-'<span>yesterday</span>'</td>
+<td>'<span>yesterday</span>'</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;ñoRap</i>
 </td>
-<td>
-'<span>yesterday</span>' (<span><em>|i ñoRap|, </em>qa-ñoRap (?)</span>)</td>
+<td>'<span>yesterday</span>' (<span>&ast;|i ñoRap|, &ast;qa-ñoRap (?)</span>)</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/kove">Kove</a></td><td><i>noha</i></td>
-<td>
-'<span>yesterday</span>'</td>
+<td>NNG</td><td><a href="../languages/kove">Kove</a></td><td style="white-space: nowrap;"><i>noha</i></td>
+<td>'<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/gitua">Gitua</a></td><td><i>nora</i></td>
-<td>
-'<span>yesterday</span>'</td>
+<td>NNG</td><td><a href="../languages/gitua">Gitua</a></td><td style="white-space: nowrap;"><i>nora</i></td>
+<td>'<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/mangap">Mangap</a></td><td><i>nēri</i></td>
-<td>
-[ADV] '<span>yesterday, subjectively recent time, just recently</span>'</td>
+<td>NNG</td><td><a href="../languages/mangap">Mangap</a></td><td style="white-space: nowrap;"><i>nēri</i></td>
+<td>[ADV] '<span>yesterday, subjectively recent time, just recently</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/sio">Sio</a></td><td><i>nola</i></td>
-<td>
-[ADV] '<span>yesterday; any unspecified prior time or day</span>'</td>
+<td>NNG</td><td><a href="../languages/sio">Sio</a></td><td style="white-space: nowrap;"><i>nola</i></td>
+<td>[ADV] '<span>yesterday; any unspecified prior time or day</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/kilenge">Kilenge</a></td><td><i>nola</i></td>
-<td>
-'<span>yesterday</span>'</td>
+<td>NNG</td><td><a href="../languages/kilenge">Kilenge</a></td><td style="white-space: nowrap;"><i>nola</i></td>
+<td>'<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/amara">Amara</a></td><td><i>noro</i></td>
-<td>
-'<span>yesterday</span>'</td>
+<td>NNG</td><td><a href="../languages/amara">Amara</a></td><td style="white-space: nowrap;"><i>noro</i></td>
+<td>'<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/aria">Aria</a></td><td><i>narep</i></td>
-<td>
-'<span>yesterday</span>'</td>
+<td>NNG</td><td><a href="../languages/aria">Aria</a></td><td style="white-space: nowrap;"><i>narep</i></td>
+<td>'<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/poeng">Poeng</a></td><td><i>ŋalla</i></td>
-<td>
-'<span>yesterday</span>'</td>
+<td>NNG</td><td><a href="../languages/poeng">Poeng</a></td><td style="white-space: nowrap;"><i>ŋalla</i></td>
+<td>'<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/mamusi">Mamusi</a></td><td><i>ŋala-na</i></td>
-<td>
-'<span>yesterday</span>'</td>
+<td>NNG</td><td><a href="../languages/mamusi">Mamusi</a></td><td style="white-space: nowrap;"><i>ŋala-na</i></td>
+<td>'<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/roinji">Roinji</a></td><td><i>nola</i></td>
-<td>
-'<span>yesterday</span>'</td>
+<td>NNG</td><td><a href="../languages/roinji">Roinji</a></td><td style="white-space: nowrap;"><i>nola</i></td>
+<td>'<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td><i>nor</i></td>
-<td>
-[ADV] '<span>yesterday, recently</span>'</td>
+<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td style="white-space: nowrap;"><i>nor</i></td>
+<td>[ADV] '<span>yesterday, recently</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/numbami">Numbami</a></td><td><i>nolowa</i></td>
-<td>
-'<span>yesterday</span>'</td>
+<td>NNG</td><td><a href="../languages/numbami">Numbami</a></td><td style="white-space: nowrap;"><i>nolowa</i></td>
+<td>'<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/yabem">Yabem</a></td><td><i>no(gɛŋ)</i></td>
-<td>
-'<span>yesterday</span>'</td>
+<td>NNG</td><td><a href="../languages/yabem">Yabem</a></td><td style="white-space: nowrap;"><i>no(gɛŋ)</i></td>
+<td>'<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/kaiwa">Kaiwa</a></td><td><i>nolik</i></td>
-<td>
-'<span>yesterday</span>'</td>
+<td>NNG</td><td><a href="../languages/kaiwa">Kaiwa</a></td><td style="white-space: nowrap;"><i>nolik</i></td>
+<td>'<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/medebur">Medebur</a></td><td><i>nora</i></td>
-<td>
-'<span>yesterday</span>'</td>
+<td>NNG</td><td><a href="../languages/medebur">Medebur</a></td><td style="white-space: nowrap;"><i>nora</i></td>
+<td>'<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td><i>nora</i></td>
-<td>
-'<span>yesterday</span>'</td>
+<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td style="white-space: nowrap;"><i>nora</i></td>
+<td>'<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/ulausuain">Ulau-Suain</a></td><td><i>nira-ñ</i></td>
-<td>
-'<span>yesterday</span>'</td>
+<td>NNG</td><td><a href="../languages/ulausuain">Ulau-Suain</a></td><td style="white-space: nowrap;"><i>nira-ñ</i></td>
+<td>'<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/ali">Ali</a></td><td><i>nari</i></td>
-<td>
-'<span>yesterday</span>'</td>
+<td>NNG</td><td><a href="../languages/ali">Ali</a></td><td style="white-space: nowrap;"><i>nari</i></td>
+<td>'<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/misima">Misima</a></td><td><i>noru</i></td>
-<td>
-'<span>yesterday</span>'</td>
+<td>PT</td><td><a href="../languages/misima">Misima</a></td><td style="white-space: nowrap;"><i>noru</i></td>
+<td>'<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/bali">Bali</a></td><td><i>ŋorapa</i></td>
-<td>
-'<span>yesterday</span>'</td>
+<td>MM</td><td><a href="../languages/bali">Bali</a></td><td style="white-space: nowrap;"><i>ŋorapa</i></td>
+<td>'<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/bulu">Bulu</a></td><td><i>nola</i></td>
-<td>
-'<span>yesterday</span>'</td>
+<td>MM</td><td><a href="../languages/bulu">Bulu</a></td><td style="white-space: nowrap;"><i>nola</i></td>
+<td>'<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/lavongai">Lavongai</a></td><td><i>(a)noŋo</i></td>
-<td>
-'<span>yesterday</span>'</td>
+<td>MM</td><td><a href="../languages/lavongai">Lavongai</a></td><td style="white-space: nowrap;"><i>(a)noŋo</i></td>
+<td>'<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td><i>nogo</i></td>
-<td>
-'<span>yesterday</span>'</td>
+<td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td style="white-space: nowrap;"><i>nogo</i></td>
+<td>'<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td><i>narap</i></td>
-<td>
-'<span>before, formerly</span>'</td>
+<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td style="white-space: nowrap;"><i>narap</i></td>
+<td>'<span>before, formerly</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/nehan">Nehan</a></td><td><i>nerau</i></td>
-<td>
-'<span>yesterday</span>'</td>
+<td>MM</td><td><a href="../languages/nehan">Nehan</a></td><td style="white-space: nowrap;"><i>nerau</i></td>
+<td>'<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/solos">Solos</a></td><td><i>nonoh</i></td>
-<td>
-'<span>yesterday</span>'</td>
+<td>MM</td><td><a href="../languages/solos">Solos</a></td><td style="white-space: nowrap;"><i>nonoh</i></td>
+<td>'<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/halia">Halia</a></td><td><i>(i) nolaha</i></td>
-<td>
-'<span>yesterday</span>'</td>
+<td>MM</td><td><a href="../languages/halia">Halia</a></td><td style="white-space: nowrap;"><i>(i) nolaha</i></td>
+<td>'<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/selau">Selau</a></td><td><i>narowa</i></td>
-<td>
-'<span>yesterday</span>'</td>
+<td>MM</td><td><a href="../languages/selau">Selau</a></td><td style="white-space: nowrap;"><i>narowa</i></td>
+<td>'<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/taiof">Taiof</a></td><td><i>nanaf</i></td>
-<td>
-'<span>yesterday</span>'</td>
+<td>MM</td><td><a href="../languages/taiof">Taiof</a></td><td style="white-space: nowrap;"><i>nanaf</i></td>
+<td>'<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/teop">Teop</a></td><td><i>nanava</i></td>
-<td>
-'<span>yesterday</span>'</td>
+<td>MM</td><td><a href="../languages/teop">Teop</a></td><td style="white-space: nowrap;"><i>nanava</i></td>
+<td>'<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/banoni">Banoni</a></td><td><i>(ɣa)nanava</i></td>
-<td>
-'<span>yesterday</span>'</td>
+<td>MM</td><td><a href="../languages/banoni">Banoni</a></td><td style="white-space: nowrap;"><i>(ɣa)nanava</i></td>
+<td>'<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td><i>norae</i></td>
-<td>
-'<span>yesterday</span>'</td>
+<td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td style="white-space: nowrap;"><i>norae</i></td>
+<td>'<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/kia">Kia</a></td><td><i>norao</i></td>
-<td>
-'<span>yesterday</span>'</td>
+<td>MM</td><td><a href="../languages/kia">Kia</a></td><td style="white-space: nowrap;"><i>norao</i></td>
+<td>'<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/maringe">Maringe</a></td><td><i>ñora</i></td>
-<td>
-'<span>yesterday</span>'</td>
+<td>MM</td><td><a href="../languages/maringe">Maringe</a></td><td style="white-space: nowrap;"><i>ñora</i></td>
+<td>'<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>nola</i></td>
-<td>
-'<span>yesterday</span>'</td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td style="white-space: nowrap;"><i>nola</i></td>
+<td>'<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td><i>(i)ñoða</i></td>
-<td>
-'<span>yesterday</span>'</td>
+<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td style="white-space: nowrap;"><i>(i)ñoða</i></td>
+<td>'<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/westguadalcanal">West Guadalcanal</a></td><td><i>(i)noa</i></td>
-<td>
-'<span>yesterday</span>'</td>
+<td>SES</td><td><a href="../languages/westguadalcanal">West Guadalcanal</a></td><td style="white-space: nowrap;"><i>(i)noa</i></td>
+<td>'<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/motlav">Motlav</a></td><td><i>a-nor</i></td>
-<td>
-'<span>yesterday</span>'</td>
+<td>NCV</td><td><a href="../languages/motlav">Motlav</a></td><td style="white-space: nowrap;"><i>a-nor</i></td>
+<td>'<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>noa</i></td>
-<td>
-'<span>yesterday</span>'</td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>noa</i></td>
+<td>'<span>yesterday</span>'</td>
 </tr>
 </table>
 
@@ -3552,118 +3059,95 @@ The Southern Vanuatu members of the set below reflect a Proto South Vanuatu form
 <td style="white-space: nowrap;">
 <i>&ast;na-ñoRap</i>
 </td>
-<td>
-'<span>yesterday</span>' (<span><em><em>i na-ñoRap_, _</em>qa-na-ñoRap</em> (?)</span>)</td>
+<td>'<span>yesterday</span>' (<span><em>&ast;i na-ñoRap</em>, <em>&ast;qa-na-ñoRap</em> (?)</span>)</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/lamogai">Lamogai</a></td><td><i>narnop</i></td>
-<td>
-'<span>yesterday</span>' (<span>&lt; <em>*na-norap</em>: metathesis</span>)</td>
+<td>NNG</td><td><a href="../languages/lamogai">Lamogai</a></td><td style="white-space: nowrap;"><i>narnop</i></td>
+<td>'<span>yesterday</span>' (<span>&lt; <em>&ast;na-norap</em>: metathesis</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tabar">Tabar</a></td><td><i>nenora</i></td>
-<td>
-'<span>yesterday</span>'</td>
+<td>MM</td><td><a href="../languages/tabar">Tabar</a></td><td style="white-space: nowrap;"><i>nenora</i></td>
+<td>'<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/nduke">Nduke</a></td><td><i>nonoro</i></td>
-<td>
-'<span>yesterday</span>'</td>
+<td>MM</td><td><a href="../languages/nduke">Nduke</a></td><td style="white-space: nowrap;"><i>nonoro</i></td>
+<td>'<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td><i>nonora</i></td>
-<td>
-'<span>yesterday</span>'</td>
+<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>nonora</i></td>
+<td>'<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>nonola</i></td>
-<td>
-'<span>yesterday</span>'</td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>nonola</i></td>
+<td>'<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>nanora</i></td>
-<td>
-'<span>yesterday</span>'</td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td style="white-space: nowrap;"><i>nanora</i></td>
+<td>'<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/fagani">Fagani</a></td><td><i>nanora</i></td>
-<td>
-'<span>yesterday</span>'</td>
+<td>SES</td><td><a href="../languages/fagani">Fagani</a></td><td style="white-space: nowrap;"><i>nanora</i></td>
+<td>'<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/bauro">Bauro</a></td><td><i>ananora</i></td>
-<td>
-'<span>yesterday</span>'</td>
+<td>SES</td><td><a href="../languages/bauro">Bauro</a></td><td style="white-space: nowrap;"><i>ananora</i></td>
+<td>'<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/kahua">Kahua</a></td><td><i>nanora</i></td>
-<td>
-'<span>yesterday</span>'</td>
+<td>SES</td><td><a href="../languages/kahua">Kahua</a></td><td style="white-space: nowrap;"><i>nanora</i></td>
+<td>'<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>ananora</i></td>
-<td>
-'<span>yesterday</span>'</td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td style="white-space: nowrap;"><i>ananora</i></td>
+<td>'<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/motlav">Motlav</a></td><td><i>(n)ananoa</i></td>
-<td>
-'<span>yesterday</span>'</td>
+<td>NCV</td><td><a href="../languages/motlav">Motlav</a></td><td style="white-space: nowrap;"><i>(n)ananoa</i></td>
+<td>'<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/ambae">Ambae</a></td><td><i>nainoa</i></td>
-<td>
-'<span>yesterday</span>'</td>
+<td>NCV</td><td><a href="../languages/ambae">Ambae</a></td><td style="white-space: nowrap;"><i>nainoa</i></td>
+<td>'<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/sye">Sye</a></td><td><i>ninu</i></td>
-<td>
-'<span>yesterday</span>'</td>
+<td>SV</td><td><a href="../languages/sye">Sye</a></td><td style="white-space: nowrap;"><i>ninu</i></td>
+<td>'<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/whitesands">Whitesands</a></td><td><i>neniəv</i></td>
-<td>
-'<span>yesterday</span>'</td>
+<td>SV</td><td><a href="../languages/whitesands">Whitesands</a></td><td style="white-space: nowrap;"><i>neniəv</i></td>
+<td>'<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/lenakel">Lenakel</a></td><td><i>nenav</i></td>
-<td>
-'<span>yesterday</span>'</td>
+<td>SV</td><td><a href="../languages/lenakel">Lenakel</a></td><td style="white-space: nowrap;"><i>nenav</i></td>
+<td>'<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/kwamera">Kwamera</a></td><td><i>neiv</i></td>
-<td>
-'<span>yesterday</span>'</td>
+<td>SV</td><td><a href="../languages/kwamera">Kwamera</a></td><td style="white-space: nowrap;"><i>neiv</i></td>
+<td>'<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>(i)yenev</i></td>
-<td>
-'<span>yesterday</span>'</td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td style="white-space: nowrap;"><i>(i)yenev</i></td>
+<td>'<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>nanoa</i></td>
-<td>
-'<span>yesterday</span>'</td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>nanoa</i></td>
+<td>'<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/mortlockese">Mortlockese</a></td><td><i>nanaw</i></td>
-<td>
-'<span>yesterday</span>'</td>
+<td>Mic</td><td><a href="../languages/mortlockese">Mortlockese</a></td><td style="white-space: nowrap;"><i>nanaw</i></td>
+<td>'<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td><i>nænewɨ</i></td>
-<td>
-'<span>yesterday</span>'</td>
+<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td style="white-space: nowrap;"><i>nænewɨ</i></td>
+<td>'<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>rarowa</i></td>
-<td>
-'<span>yesterday</span>'</td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td style="white-space: nowrap;"><i>rarowa</i></td>
+<td>'<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>(e) nanoa</i></td>
-<td>
-'<span>yesterday</span>'</td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td style="white-space: nowrap;"><i>(e) nanoa</i></td>
+<td>'<span>yesterday</span>'</td>
 </tr>
 </table>
 
@@ -3769,68 +3253,55 @@ The term below reflects POc _&ast;boŋi_ ‘night, day of twenty-four hours’ p
 <td style="white-space: nowrap;">
 <i>&ast;na-boŋi</i>
 </td>
-<td>
-'<span>yesterday</span>'</td>
+<td>'<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/kairiru">Kairiru</a></td><td><i>nubuoŋ(nai)</i></td>
-<td>
-'<span>yesterday</span>'</td>
+<td>NNG</td><td><a href="../languages/kairiru">Kairiru</a></td><td style="white-space: nowrap;"><i>nubuoŋ(nai)</i></td>
+<td>'<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/sursurunga">Sursurunga</a></td><td><i>nabuŋ</i></td>
-<td>
-'<span>yesterday</span>'</td>
+<td>MM</td><td><a href="../languages/sursurunga">Sursurunga</a></td><td style="white-space: nowrap;"><i>nabuŋ</i></td>
+<td>'<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tangga">Tangga</a></td><td><i>nabiŋ</i></td>
-<td>
-'<span>yesterday</span>'</td>
+<td>MM</td><td><a href="../languages/tangga">Tangga</a></td><td style="white-space: nowrap;"><i>nabiŋ</i></td>
+<td>'<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/konomala">Konomala</a></td><td><i>nabuŋ</i></td>
-<td>
-'<span>yesterday</span>'</td>
+<td>MM</td><td><a href="../languages/konomala">Konomala</a></td><td style="white-space: nowrap;"><i>nabuŋ</i></td>
+<td>'<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/patpatar">Patpatar</a></td><td><i>nabuŋ</i></td>
-<td>
-'<span>yesterday</span>'</td>
+<td>MM</td><td><a href="../languages/patpatar">Patpatar</a></td><td style="white-space: nowrap;"><i>nabuŋ</i></td>
+<td>'<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td><i>nabuŋ</i></td>
-<td>
-'<span>yesterday</span>'</td>
+<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td style="white-space: nowrap;"><i>nabuŋ</i></td>
+<td>'<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td><i>nabuŋ</i></td>
-<td>
-[ADV] '<span>yesterday</span>'</td>
+<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td style="white-space: nowrap;"><i>nabuŋ</i></td>
+<td>[ADV] '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/kandas">Kandas</a></td><td><i>nubuŋ</i></td>
-<td>
-'<span>yesterday</span>'</td>
+<td>MM</td><td><a href="../languages/kandas">Kandas</a></td><td style="white-space: nowrap;"><i>nubuŋ</i></td>
+<td>'<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/bilur">Bilur</a></td><td><i>naboŋ</i></td>
-<td>
-'<span>yesterday</span>'</td>
+<td>MM</td><td><a href="../languages/bilur">Bilur</a></td><td style="white-space: nowrap;"><i>naboŋ</i></td>
+<td>'<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/label">Label</a></td><td><i>naboŋ</i></td>
-<td>
-'<span>yesterday</span>'</td>
+<td>MM</td><td><a href="../languages/label">Label</a></td><td style="white-space: nowrap;"><i>naboŋ</i></td>
+<td>'<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tinputz">Tinputz</a></td><td><i>noboen</i></td>
-<td>
-'<span>yesterday</span>'</td>
+<td>MM</td><td><a href="../languages/tinputz">Tinputz</a></td><td style="white-space: nowrap;"><i>noboen</i></td>
+<td>'<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>nāboni</i></td>
-<td>
-'<span>yesterday</span>'</td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td style="white-space: nowrap;"><i>nāboni</i></td>
+<td>'<span>yesterday</span>'</td>
 </tr>
 </table>
 
@@ -3839,56 +3310,56 @@ cf. also:
 <tr>
 <td>NNG</td>
 <td><a href="../languages/kairiru">Kairiru</a></td>
-<td><i>(ra)buŋ</i></td>
+<td style="white-space: nowrap;"><i>(ra)buŋ</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
 <td>NNG</td>
 <td><a href="../languages/hote">Hote</a></td>
-<td><i>(wak)buk</i></td>
+<td style="white-space: nowrap;"><i>(wak)buk</i></td>
 <td>
 '<span>yesterday</span>' (<span><em>wak</em> &lt; POc <em>*qaco</em> ‘sun’</span>)</td>
 </tr>
 <tr>
 <td>PT</td>
 <td><a href="../languages/tawala">Tawala</a></td>
-<td><i>pom</i></td>
+<td style="white-space: nowrap;"><i>pom</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
 <td>MM</td>
 <td><a href="../languages/siar">Siar</a></td>
-<td><i>(la)buŋ</i></td>
+<td style="white-space: nowrap;"><i>(la)buŋ</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
 <td>MM</td>
 <td><a href="../languages/hahon">Hahon</a></td>
-<td><i>(ro)bon</i></td>
+<td style="white-space: nowrap;"><i>(ro)bon</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
 <td>SES</td>
 <td><a href="../languages/gela">Gela</a></td>
-<td><i>(i)boŋi</i></td>
+<td style="white-space: nowrap;"><i>(i)boŋi</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
 <td>NCV</td>
 <td><a href="../languages/portsandwich">Port Sandwich</a></td>
-<td><i>(xi)ᵐboŋ</i></td>
+<td style="white-space: nowrap;"><i>(xi)ᵐboŋ</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
 <td>NCV</td>
 <td><a href="../languages/labo">Labo</a></td>
-<td><i>(lo)ᵐbun</i></td>
+<td style="white-space: nowrap;"><i>(lo)ᵐbun</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
@@ -3967,104 +3438,85 @@ The term below is clearly the same root as _&ast;Rapi_/_&ast;Rapi-Rapi_ ‘late 
 <td style="white-space: nowrap;">
 <i>&ast;i Rapi</i>
 </td>
-<td>
-'<span>(?) in the evening</span>'</td>
+<td>'<span>(?) in the evening</span>'</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;na-Rapi</i>
 </td>
-<td>
-'<span>yesterday</span>'</td>
+<td>'<span>yesterday</span>'</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;qa-na-Rapi</i>
 </td>
-<td>
-'<span>yesterday</span>'</td>
+<td>'<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/gapapaiwa">Gapapaiwa</a></td><td><i>ravi-ravi</i></td>
-<td>
-[ADV] '<span>yesterday</span>'</td>
+<td>PT</td><td><a href="../languages/gapapaiwa">Gapapaiwa</a></td><td style="white-space: nowrap;"><i>ravi-ravi</i></td>
+<td>[ADV] '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/bola">Bola</a></td><td><i>ravi</i></td>
-<td>
-[ADV] '<span>yesterday</span>'</td>
+<td>MM</td><td><a href="../languages/bola">Bola</a></td><td style="white-space: nowrap;"><i>ravi</i></td>
+<td>[ADV] '<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/meramera">Meramera</a></td><td><i>lavi</i></td>
-<td>
-'<span>yesterday</span>'</td>
+<td>MM</td><td><a href="../languages/meramera">Meramera</a></td><td style="white-space: nowrap;"><i>lavi</i></td>
+<td>'<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td><i>(ala)lavi</i></td>
-<td>
-'<span>yesterday</span>'</td>
+<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td style="white-space: nowrap;"><i>(ala)lavi</i></td>
+<td>'<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/karaeast">Kara (East)</a></td><td><i>(la)nef</i></td>
-<td>
-'<span>yesterday</span>' (<span>metathesis</span>)</td>
+<td>MM</td><td><a href="../languages/karaeast">Kara (East)</a></td><td style="white-space: nowrap;"><i>(la)nef</i></td>
+<td>'<span>yesterday</span>' (<span>metathesis</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/karawest">Kara (West)</a></td><td><i>(ne)ief</i></td>
-<td>
-'<span>yesterday</span>'</td>
+<td>MM</td><td><a href="../languages/karawest">Kara (West)</a></td><td style="white-space: nowrap;"><i>(ne)ief</i></td>
+<td>'<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/nalik">Nalik</a></td><td><i>(la)raf</i></td>
-<td>
-'<span>yesterday</span>'</td>
+<td>MM</td><td><a href="../languages/nalik">Nalik</a></td><td style="white-space: nowrap;"><i>(la)raf</i></td>
+<td>'<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/lihir">Lihir</a></td><td><i>(la)leh</i></td>
-<td>
-'<span>yesterday</span>'</td>
+<td>MM</td><td><a href="../languages/lihir">Lihir</a></td><td style="white-space: nowrap;"><i>(la)leh</i></td>
+<td>'<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/barok">Barok</a></td><td><i>la</i></td>
-<td>
-'<span>yesterday</span>'</td>
+<td>MM</td><td><a href="../languages/barok">Barok</a></td><td style="white-space: nowrap;"><i>la</i></td>
+<td>'<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/minigir">Minigir</a></td><td><i>(na)ravi</i></td>
-<td>
-'<span>yesterday</span>'</td>
+<td>MM</td><td><a href="../languages/minigir">Minigir</a></td><td style="white-space: nowrap;"><i>(na)ravi</i></td>
+<td>'<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/nehan">Nehan</a></td><td><i>(ne)rau</i></td>
-<td>
-'<span>yesterday</span>'</td>
+<td>MM</td><td><a href="../languages/nehan">Nehan</a></td><td style="white-space: nowrap;"><i>(ne)rau</i></td>
+<td>'<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/monoalu">Mono-Alu</a></td><td><i>lahi</i></td>
-<td>
-'<span>yesterday</span>'</td>
+<td>MM</td><td><a href="../languages/monoalu">Mono-Alu</a></td><td style="white-space: nowrap;"><i>lahi</i></td>
+<td>'<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>(ʔane)afi</i></td>
-<td>
-'<span>yesterday</span>'</td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td style="white-space: nowrap;"><i>(ʔane)afi</i></td>
+<td>'<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>(ne)afi</i></td>
-<td>
-'<span>yesterday</span>'</td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td style="white-space: nowrap;"><i>(ne)afi</i></td>
+<td>'<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>(ana)nafi</i></td>
-<td>
-'<span>yesterday</span>'</td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>(ana)nafi</i></td>
+<td>'<span>yesterday</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/ifiramele">Ifira-Mele</a></td><td><i>(nā)nafi</i></td>
-<td>
-'<span>yesterday</span>'</td>
+<td>Pn</td><td><a href="../languages/ifiramele">Ifira-Mele</a></td><td style="white-space: nowrap;"><i>(nā)nafi</i></td>
+<td>'<span>yesterday</span>'</td>
 </tr>
 </table>
 
@@ -4073,14 +3525,14 @@ cf. also:
 <tr>
 <td>SES</td>
 <td><a href="../languages/longgu">Longgu</a></td>
-<td><i>(ŋa)lavi</i></td>
+<td style="white-space: nowrap;"><i>(ŋa)lavi</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
 <tr>
 <td>Fij</td>
 <td><a href="../languages/wayan">Wayan</a></td>
-<td><i>(ni)avi</i></td>
+<td style="white-space: nowrap;"><i>(ni)avi</i></td>
 <td>
 '<span>yesterday</span>'</td>
 </tr>
@@ -4226,76 +3678,62 @@ We also find reduplicated reflexes of _&ast;boŋi_, but I take these to be refle
 <td style="white-space: nowrap;">
 <i>&ast;i boŋi-boŋi</i>
 </td>
-<td>
-'<span>(?) in the morning</span>'</td>
+<td>'<span>(?) in the morning</span>'</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;qa-boŋi-boŋi</i>
 </td>
-<td>
-'<span>(?) in the morning</span>'</td>
+<td>'<span>(?) in the morning</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/barim">Barim</a></td><td><i>buŋ-buŋ</i></td>
-<td>
-'<span>tomorrow</span>'</td>
+<td>NNG</td><td><a href="../languages/barim">Barim</a></td><td style="white-space: nowrap;"><i>buŋ-buŋ</i></td>
+<td>'<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/lukeppono">Lukep (Pono)</a></td><td><i>boŋ-boŋ</i></td>
-<td>
-'<span>tomorrow</span>'</td>
+<td>NNG</td><td><a href="../languages/lukeppono">Lukep (Pono)</a></td><td style="white-space: nowrap;"><i>boŋ-boŋ</i></td>
+<td>'<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/malasanga">Malasanga</a></td><td><i>buŋ-boŋ</i></td>
-<td>
-'<span>tomorrow</span>'</td>
+<td>NNG</td><td><a href="../languages/malasanga">Malasanga</a></td><td style="white-space: nowrap;"><i>buŋ-boŋ</i></td>
+<td>'<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/dawawa">Dawawa</a></td><td><i>boi-boi</i></td>
-<td>
-'<span>morning, tomorrow</span>'</td>
+<td>PT</td><td><a href="../languages/dawawa">Dawawa</a></td><td style="white-space: nowrap;"><i>boi-boi</i></td>
+<td>'<span>morning, tomorrow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tangga">Tangga</a></td><td><i>(na)biŋ-biŋ</i></td>
-<td>
-'<span>tomorrow</span>'</td>
+<td>MM</td><td><a href="../languages/tangga">Tangga</a></td><td style="white-space: nowrap;"><i>(na)biŋ-biŋ</i></td>
+<td>'<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>bo-boŋi</i></td>
-<td>
-'<span>tomorrow</span>'</td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td style="white-space: nowrap;"><i>bo-boŋi</i></td>
+<td>'<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>(ʔa)poŋi-poŋi</i></td>
-<td>
-'<span>tomorrow</span>'</td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td style="white-space: nowrap;"><i>(ʔa)poŋi-poŋi</i></td>
+<td>'<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>poŋi-poŋi</i></td>
-<td>
-'<span>tomorrow, this morning</span>'</td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td style="white-space: nowrap;"><i>poŋi-poŋi</i></td>
+<td>'<span>tomorrow, this morning</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/eastfutunan">East Futunan</a></td><td><i>(ā)poŋi-poŋi</i></td>
-<td>
-'<span>tomorrow</span>'</td>
+<td>Pn</td><td><a href="../languages/eastfutunan">East Futunan</a></td><td style="white-space: nowrap;"><i>(ā)poŋi-poŋi</i></td>
+<td>'<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/eastuvean">East Uvean</a></td><td><i>(a)poŋi-poŋi</i></td>
-<td>
-'<span>tomorrow</span>'</td>
+<td>Pn</td><td><a href="../languages/eastuvean">East Uvean</a></td><td style="white-space: nowrap;"><i>(a)poŋi-poŋi</i></td>
+<td>'<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>(a)poŋi-poŋi</i></td>
-<td>
-'<span>tomorrow</span>'</td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td style="white-space: nowrap;"><i>(a)poŋi-poŋi</i></td>
+<td>'<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>(ā)pō-pō</i></td>
-<td>
-'<span>tomorrow</span>'</td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td style="white-space: nowrap;"><i>(ā)pō-pō</i></td>
+<td>'<span>tomorrow</span>'</td>
 </tr>
 </table>
 
@@ -4314,63 +3752,51 @@ POc _&ast;ma-pua_ ‘tomorrow’ is reconstructable from the rather skewed cogna
 <td style="white-space: nowrap;">
 <i>&ast;ma-pua</i>
 </td>
-<td>
-'<span>tomorrow</span>'</td>
+<td>'<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/loniu">Loniu</a></td><td><i>mahu</i></td>
-<td>
-'<span>tomorrow</span>'</td>
+<td>Adm</td><td><a href="../languages/loniu">Loniu</a></td><td style="white-space: nowrap;"><i>mahu</i></td>
+<td>'<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/minaveha">Minaveha</a></td><td><i>mapu(tua)</i></td>
-<td>
-'<span>tomorrow</span>'</td>
+<td>PT</td><td><a href="../languages/minaveha">Minaveha</a></td><td style="white-space: nowrap;"><i>mapu(tua)</i></td>
+<td>'<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td><i>(a)mau(a)</i></td>
-<td>
-'<span>tomorrow</span>'</td>
+<td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td style="white-space: nowrap;"><i>(a)mau(a)</i></td>
+<td>'<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tiang">Tiang</a></td><td><i>məu(ə)</i></td>
-<td>
-'<span>tomorrow</span>'</td>
+<td>MM</td><td><a href="../languages/tiang">Tiang</a></td><td style="white-space: nowrap;"><i>məu(ə)</i></td>
+<td>'<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/karaeast">Kara (East)</a></td><td><i>mofu</i></td>
-<td>
-'<span>tomorrow</span>'</td>
+<td>MM</td><td><a href="../languages/karaeast">Kara (East)</a></td><td style="white-space: nowrap;"><i>mofu</i></td>
+<td>'<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/karawest">Kara (West)</a></td><td><i>mofu</i></td>
-<td>
-'<span>tomorrow</span>'</td>
+<td>MM</td><td><a href="../languages/karawest">Kara (West)</a></td><td style="white-space: nowrap;"><i>mofu</i></td>
+<td>'<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/nalik">Nalik</a></td><td><i>(la)maf</i></td>
-<td>
-'<span>tomorrow</span>'</td>
+<td>MM</td><td><a href="../languages/nalik">Nalik</a></td><td style="white-space: nowrap;"><i>(la)maf</i></td>
+<td>'<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/solos">Solos</a></td><td><i>mahu</i></td>
-<td>
-'<span>tomorrow</span>'</td>
+<td>MM</td><td><a href="../languages/solos">Solos</a></td><td style="white-space: nowrap;"><i>mahu</i></td>
+<td>'<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/petats">Petats</a></td><td><i>mahu</i></td>
-<td>
-'<span>tomorrow</span>'</td>
+<td>MM</td><td><a href="../languages/petats">Petats</a></td><td style="white-space: nowrap;"><i>mahu</i></td>
+<td>'<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/halia">Halia</a></td><td><i>mahu</i></td>
-<td>
-'<span>tomorrow</span>'</td>
+<td>MM</td><td><a href="../languages/halia">Halia</a></td><td style="white-space: nowrap;"><i>mahu</i></td>
+<td>'<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/selau">Selau</a></td><td><i>mawu</i></td>
-<td>
-'<span>tomorrow</span>'</td>
+<td>MM</td><td><a href="../languages/selau">Selau</a></td><td style="white-space: nowrap;"><i>mawu</i></td>
+<td>'<span>tomorrow</span>'</td>
 </tr>
 </table>
 
@@ -4384,48 +3810,39 @@ POc _&ast;ma-raqani_ was presumably originally a verb meaning ‘become light’
 <td style="white-space: nowrap;">
 <i>&ast;ma-raqani</i>
 </td>
-<td>
-'<span>become light</span>'</td>
+<td>'<span>become light</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/gapapaiwa">Gapapaiwa</a></td><td><i>maram</i></td>
-<td>
-'<span>tomorrow, in the future</span>'</td>
+<td>PT</td><td><a href="../languages/gapapaiwa">Gapapaiwa</a></td><td style="white-space: nowrap;"><i>maram</i></td>
+<td>'<span>tomorrow, in the future</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/kandas">Kandas</a></td><td><i>markan</i></td>
-<td>
-'<span>tomorrow</span>'</td>
+<td>MM</td><td><a href="../languages/kandas">Kandas</a></td><td style="white-space: nowrap;"><i>markan</i></td>
+<td>'<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/patpatar">Patpatar</a></td><td><i>marakan</i></td>
-<td>
-'<span>tomorrow</span>'</td>
+<td>MM</td><td><a href="../languages/patpatar">Patpatar</a></td><td style="white-space: nowrap;"><i>marakan</i></td>
+<td>'<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>maran</i></td>
-<td>
-'<span>light, daylight, morning, day; be light; tomorrow’s light; the morrow</span>'</td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td style="white-space: nowrap;"><i>maran</i></td>
+<td>'<span>light, daylight, morning, day; be light; tomorrow’s light; the morrow</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td><i>maran</i></td>
-<td>
-'<span>morning light, morning</span>'</td>
+<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td style="white-space: nowrap;"><i>maran</i></td>
+<td>'<span>morning light, morning</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/labo">Labo</a></td><td><i>maxan</i></td>
-<td>
-'<span>tomorrow, morning</span>'</td>
+<td>NCV</td><td><a href="../languages/labo">Labo</a></td><td style="white-space: nowrap;"><i>maxan</i></td>
+<td>'<span>tomorrow, morning</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/sye">Sye</a></td><td><i>mran</i></td>
-<td>
-'<span>tomorrow</span>'</td>
+<td>SV</td><td><a href="../languages/sye">Sye</a></td><td style="white-space: nowrap;"><i>mran</i></td>
+<td>'<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>(i)mrañ</i></td>
-<td>
-'<span>tomorrow</span>'</td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td style="white-space: nowrap;"><i>(i)mrañ</i></td>
+<td>'<span>tomorrow</span>'</td>
 </tr>
 </table>
 
@@ -4434,35 +3851,35 @@ cf. also:
 <tr>
 <td>SES</td>
 <td><a href="../languages/longgu">Longgu</a></td>
-<td><i>dañi</i></td>
+<td style="white-space: nowrap;"><i>dañi</i></td>
 <td>
 [V] '<span>tomorrow; daylight</span>'</td>
 </tr>
 <tr>
 <td>SES</td>
 <td><a href="../languages/saa">Sa'a</a></td>
-<td><i>i deni</i></td>
+<td style="white-space: nowrap;"><i>i deni</i></td>
 <td>
 '<span>tomorrow</span>'</td>
 </tr>
 <tr>
 <td>SES</td>
 <td><a href="../languages/areare">'Are'are</a></td>
-<td><i>itani</i></td>
+<td style="white-space: nowrap;"><i>itani</i></td>
 <td>
 '<span>tomorrow</span>'</td>
 </tr>
 <tr>
 <td>NCV</td>
 <td><a href="../languages/sakao">Sakao</a></td>
-<td><i>(lak)ren</i></td>
+<td style="white-space: nowrap;"><i>(lak)ren</i></td>
 <td>
 '<span>tomorrow</span>'</td>
 </tr>
 <tr>
 <td>NCV</td>
 <td><a href="../languages/portsandwich">Port Sandwich</a></td>
-<td><i>(pe)an</i></td>
+<td style="white-space: nowrap;"><i>(pe)an</i></td>
 <td>
 '<span>tomorrow</span>'</td>
 </tr>
@@ -4480,94 +3897,77 @@ There is also a variety of forms that seem to reflect a root _&ast;tuqu_ ‘tomo
 <td style="white-space: nowrap;">
 <i>&ast;la-tuqu</i>
 </td>
-<td>
-'<span>tomorrow</span>'</td>
+<td>'<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/label">Label</a></td><td><i>latu</i></td>
-<td>
-'<span>tomorrow</span>'</td>
+<td>MM</td><td><a href="../languages/label">Label</a></td><td style="white-space: nowrap;"><i>latu</i></td>
+<td>'<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/sursurunga">Sursurunga</a></td><td><i>latiu</i></td>
-<td>
-'<span>tomorrow</span>'</td>
+<td>MM</td><td><a href="../languages/sursurunga">Sursurunga</a></td><td style="white-space: nowrap;"><i>latiu</i></td>
+<td>'<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/siar">Siar</a></td><td><i>latu</i></td>
-<td>
-'<span>tomorrow</span>'</td>
+<td>MM</td><td><a href="../languages/siar">Siar</a></td><td style="white-space: nowrap;"><i>latu</i></td>
+<td>'<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>(i)lcu</i></td>
-<td>
-'<span>tomorrow</span>'</td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td style="white-space: nowrap;"><i>(i)lcu</i></td>
+<td>'<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kosraean">Kosraean</a></td><td><i>lutu</i></td>
-<td>
-'<span>tomorrow, morning</span>'</td>
+<td>Mic</td><td><a href="../languages/kosraean">Kosraean</a></td><td style="white-space: nowrap;"><i>lutu</i></td>
+<td>'<span>tomorrow, morning</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td><i>ɾəwɨ</i></td>
-<td>
-'<span>tomorrow</span>'</td>
+<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td style="white-space: nowrap;"><i>ɾəwɨ</i></td>
+<td>'<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td><i>layɨ</i></td>
-<td>
-'<span>tomorrow</span>'</td>
+<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td style="white-space: nowrap;"><i>layɨ</i></td>
+<td>'<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>raɨ</i></td>
-<td>
-'<span>tomorrow</span>'</td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td style="white-space: nowrap;"><i>raɨ</i></td>
+<td>'<span>tomorrow</span>'</td>
 </tr>
 <tr>
 <td><strong>ProtoNorthwestSolomonic</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;na-tuqu</i>
 </td>
-<td>
-'<span>tomorrow</span>'</td>
+<td>'<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/papapana">Papapana</a></td><td><i>natui</i></td>
-<td>
-'<span>tomorrow</span>'</td>
+<td>MM</td><td><a href="../languages/papapana">Papapana</a></td><td style="white-space: nowrap;"><i>natui</i></td>
+<td>'<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/ghove">Ghove</a></td><td><i>natui</i></td>
-<td>
-'<span>tomorrow</span>'</td>
+<td>MM</td><td><a href="../languages/ghove">Ghove</a></td><td style="white-space: nowrap;"><i>natui</i></td>
+<td>'<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/maringe">Maringe</a></td><td><i>natuʔu</i></td>
-<td>
-'<span>tomorrow</span>'</td>
+<td>MM</td><td><a href="../languages/maringe">Maringe</a></td><td style="white-space: nowrap;"><i>natuʔu</i></td>
+<td>'<span>tomorrow</span>'</td>
 </tr>
 <tr>
 <td><strong>PPn</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;a(r,l)etuqu</i>
 </td>
-<td>
-'<span>tomorrow</span>'</td>
+<td>'<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/mae">Mae</a></td><td><i>aretū</i></td>
-<td>
-'<span>tomorrow, day after</span>'</td>
+<td>NCV</td><td><a href="../languages/mae">Mae</a></td><td style="white-space: nowrap;"><i>aretū</i></td>
+<td>'<span>tomorrow, day after</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/nukuria">Nukuria</a></td><td><i>(bō)aledū</i></td>
-<td>
-'<span>tomorrow night</span>' (<span><em>bō</em> ‘night’</span>)</td>
+<td>Pn</td><td><a href="../languages/nukuria">Nukuria</a></td><td style="white-space: nowrap;"><i>(bō)aledū</i></td>
+<td>'<span>tomorrow night</span>' (<span><em>bō</em> ‘night’</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/westfutunan">West Futunan</a></td><td><i>aratu</i></td>
-<td>
-'<span>tomorrow</span>'</td>
+<td>Pn</td><td><a href="../languages/westfutunan">West Futunan</a></td><td style="white-space: nowrap;"><i>aratu</i></td>
+<td>'<span>tomorrow</span>'</td>
 </tr>
 </table>
 
@@ -4600,233 +4000,187 @@ The Proto Tanna (SV) and Proto Polynesian reflexes of _&ast;qa-na-_ lost the pas
 <td style="white-space: nowrap;">
 <i>&ast;[i] waRisa</i>
 </td>
-<td>
-'<span>two days from today</span>'</td>
+<td>'<span>two days from today</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/gitua">Gitua</a></td><td><i>wariza</i></td>
-<td>
-'<span>day before yesterday</span>'</td>
+<td>NNG</td><td><a href="../languages/gitua">Gitua</a></td><td style="white-space: nowrap;"><i>wariza</i></td>
+<td>'<span>day before yesterday</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/lukep">Lukep</a></td><td><i>airi</i></td>
-<td>
-'<span>day before yesterday</span>'</td>
+<td>NNG</td><td><a href="../languages/lukep">Lukep</a></td><td style="white-space: nowrap;"><i>airi</i></td>
+<td>'<span>day before yesterday</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/mangap">Mangap</a></td><td><i>urizi</i></td>
-<td>
-'<span>day before yesterday</span>'</td>
+<td>NNG</td><td><a href="../languages/mangap">Mangap</a></td><td style="white-space: nowrap;"><i>urizi</i></td>
+<td>'<span>day before yesterday</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/kilenge">Kilenge</a></td><td><i>olia</i></td>
-<td>
-'<span>day before yesterday</span>'</td>
+<td>NNG</td><td><a href="../languages/kilenge">Kilenge</a></td><td style="white-space: nowrap;"><i>olia</i></td>
+<td>'<span>day before yesterday</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/amara">Amara</a></td><td><i>ueri(o)</i></td>
-<td>
-'<span>day before yesterday</span>'</td>
+<td>NNG</td><td><a href="../languages/amara">Amara</a></td><td style="white-space: nowrap;"><i>ueri(o)</i></td>
+<td>'<span>day before yesterday</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/uvol">Uvol</a></td><td><i>alia</i></td>
-<td>
-'<span>day before yesterday</span>'</td>
+<td>NNG</td><td><a href="../languages/uvol">Uvol</a></td><td style="white-space: nowrap;"><i>alia</i></td>
+<td>'<span>day before yesterday</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/roinji">Roinji</a></td><td><i>walia</i></td>
-<td>
-'<span>day before yesterday</span>'</td>
+<td>NNG</td><td><a href="../languages/roinji">Roinji</a></td><td style="white-space: nowrap;"><i>walia</i></td>
+<td>'<span>day before yesterday</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/bing">Bing</a></td><td><i>wari(nan)</i></td>
-<td>
-'<span>day before yesterday</span>'</td>
+<td>NNG</td><td><a href="../languages/bing">Bing</a></td><td style="white-space: nowrap;"><i>wari(nan)</i></td>
+<td>'<span>day before yesterday</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td><i>wari</i></td>
-<td>
-'<span>day before yesterday, in the past</span>'</td>
+<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td style="white-space: nowrap;"><i>wari</i></td>
+<td>'<span>day before yesterday, in the past</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/medebur">Medebur</a></td><td><i>waijira</i></td>
-<td>
-'<span>day before yesterday</span>'</td>
+<td>NNG</td><td><a href="../languages/medebur">Medebur</a></td><td style="white-space: nowrap;"><i>waijira</i></td>
+<td>'<span>day before yesterday</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/numbami">Numbami</a></td><td><i>walisawa</i></td>
-<td>
-'<span>day before yesterday</span>'</td>
+<td>NNG</td><td><a href="../languages/numbami">Numbami</a></td><td style="white-space: nowrap;"><i>walisawa</i></td>
+<td>'<span>day before yesterday</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/yabem">Yabem</a></td><td><i>wali(gɛŋ)</i></td>
-<td>
-'<span>day before yesterday</span>'</td>
+<td>NNG</td><td><a href="../languages/yabem">Yabem</a></td><td style="white-space: nowrap;"><i>wali(gɛŋ)</i></td>
+<td>'<span>day before yesterday</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/misima">Misima</a></td><td><i>varira</i></td>
-<td>
-'<span>before (in time)</span>'</td>
+<td>PT</td><td><a href="../languages/misima">Misima</a></td><td style="white-space: nowrap;"><i>varira</i></td>
+<td>'<span>before (in time)</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/kilivila">Kilivila</a></td><td><i>(silo)valela</i></td>
-<td>
-'<span>a few days ago</span>'</td>
+<td>PT</td><td><a href="../languages/kilivila">Kilivila</a></td><td style="white-space: nowrap;"><i>(silo)valela</i></td>
+<td>'<span>a few days ago</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/sudest">Sudest</a></td><td><i>vaiya</i></td>
-<td>
-'<span>day before yesterday</span>'</td>
+<td>PT</td><td><a href="../languages/sudest">Sudest</a></td><td style="white-space: nowrap;"><i>vaiya</i></td>
+<td>'<span>day before yesterday</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/bali">Bali</a></td><td><i>varira</i></td>
-<td>
-'<span>day before yesterday</span>'</td>
+<td>MM</td><td><a href="../languages/bali">Bali</a></td><td style="white-space: nowrap;"><i>varira</i></td>
+<td>'<span>day before yesterday</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/bola">Bola</a></td><td><i>rira</i></td>
-<td>
-'<span>day before yesterday</span>' (<span>for expected <em>**arira</em></span>)</td>
+<td>MM</td><td><a href="../languages/bola">Bola</a></td><td style="white-space: nowrap;"><i>rira</i></td>
+<td>'<span>day before yesterday</span>' (<span>for expected <em>&ast;&ast;arira</em></span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/bola">Bola</a></td><td><i>(gi)rira</i></td>
-<td>
-'<span>day after tomorrow</span>'</td>
+<td>MM</td><td><a href="../languages/bola">Bola</a></td><td style="white-space: nowrap;"><i>(gi)rira</i></td>
+<td>'<span>day after tomorrow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/meramera">Meramera</a></td><td><i>lisa</i></td>
-<td>
-'<span>day before yesterday; formerly</span>' (<span>for expected <em>**walisa</em></span>)</td>
+<td>MM</td><td><a href="../languages/meramera">Meramera</a></td><td style="white-space: nowrap;"><i>lisa</i></td>
+<td>'<span>day before yesterday; formerly</span>' (<span>for expected <em>&ast;&ast;walisa</em></span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td><i>uaisa</i></td>
-<td>
-'<span>the day after tomorrow</span>' (<span>for expected <em>**ualisa</em></span>)</td>
+<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td style="white-space: nowrap;"><i>uaisa</i></td>
+<td>'<span>the day after tomorrow</span>' (<span>for expected <em>&ast;&ast;ualisa</em></span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/patpatar">Patpatar</a></td><td><i>uaris</i></td>
-<td>
-'<span>day after tomorrow</span>'</td>
+<td>MM</td><td><a href="../languages/patpatar">Patpatar</a></td><td style="white-space: nowrap;"><i>uaris</i></td>
+<td>'<span>day after tomorrow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td><i>oari</i></td>
-<td>
-'<span>day after tomorrow</span>'</td>
+<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td style="white-space: nowrap;"><i>oari</i></td>
+<td>'<span>day after tomorrow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/siar">Siar</a></td><td><i>urisa(i)</i></td>
-<td>
-'<span>day after tomorrow</span>'</td>
+<td>MM</td><td><a href="../languages/siar">Siar</a></td><td style="white-space: nowrap;"><i>urisa(i)</i></td>
+<td>'<span>day after tomorrow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/nehan">Nehan</a></td><td><i>iorih</i></td>
-<td>
-'<span>day after tomorrow</span>'</td>
+<td>MM</td><td><a href="../languages/nehan">Nehan</a></td><td style="white-space: nowrap;"><i>iorih</i></td>
+<td>'<span>day after tomorrow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/halia">Halia</a></td><td><i>ialisa</i></td>
-<td>
-'<span>day after tomorrow</span>'</td>
+<td>MM</td><td><a href="../languages/halia">Halia</a></td><td style="white-space: nowrap;"><i>ialisa</i></td>
+<td>'<span>day after tomorrow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/halia">Halia</a></td><td><i>alisa</i></td>
-<td>
-'<span>day before yesterday</span>'</td>
+<td>MM</td><td><a href="../languages/halia">Halia</a></td><td style="white-space: nowrap;"><i>alisa</i></td>
+<td>'<span>day before yesterday</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/banoni">Banoni</a></td><td><i>(d)onisa</i></td>
-<td>
-'<span>day after tomorrow</span>'</td>
+<td>MM</td><td><a href="../languages/banoni">Banoni</a></td><td style="white-space: nowrap;"><i>(d)onisa</i></td>
+<td>'<span>day after tomorrow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/monoalu">Mono-Alu</a></td><td><i>elila</i></td>
-<td>
-'<span>day after tomorrow</span>'</td>
+<td>MM</td><td><a href="../languages/monoalu">Mono-Alu</a></td><td style="white-space: nowrap;"><i>elila</i></td>
+<td>'<span>day after tomorrow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/maringe">Maringe</a></td><td><i>(na)uriha</i></td>
-<td>
-'<span>day after tomorrow</span>' (<span><em>na</em> ART</span>)</td>
+<td>MM</td><td><a href="../languages/maringe">Maringe</a></td><td style="white-space: nowrap;"><i>(na)uriha</i></td>
+<td>'<span>day after tomorrow</span>' (<span><em>na</em> ART</span>)</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>valiha</i></td>
-<td>
-'<span>day before yesterday, day after tomorrow, some time ago, by and by, some day</span>'</td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td style="white-space: nowrap;"><i>valiha</i></td>
+<td>'<span>day before yesterday, day after tomorrow, some time ago, by and by, some day</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>kwalita</i></td>
-<td>
-'<span>three days ago</span>'</td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td style="white-space: nowrap;"><i>kwalita</i></td>
+<td>'<span>three days ago</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td><i>warita</i></td>
-<td>
-'<span>former, previous, past</span>'</td>
+<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>warita</i></td>
+<td>'<span>former, previous, past</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td><i>i warita</i></td>
-<td>
-'<span>formerly, in the old days</span>'</td>
+<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>i warita</i></td>
+<td>'<span>formerly, in the old days</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/ulawa">Ulawa</a></td><td><i>i welita</i></td>
-<td>
-'<span>two days hence</span>'</td>
+<td>SES</td><td><a href="../languages/ulawa">Ulawa</a></td><td style="white-space: nowrap;"><i>i welita</i></td>
+<td>'<span>two days hence</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>i waite</i></td>
-<td>
-'<span>two days ago</span>'</td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>i waite</i></td>
+<td>'<span>two days ago</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>arisa</i></td>
-<td>
-'<span>day before yesterday, day after tomorrow</span>'</td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td style="white-space: nowrap;"><i>arisa</i></td>
+<td>'<span>day before yesterday, day after tomorrow</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td><i>(vai)wehe</i></td>
-<td>
-'<span>day after tomorrow</span>'</td>
+<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td style="white-space: nowrap;"><i>(vai)wehe</i></td>
+<td>'<span>day after tomorrow</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/portsandwich">Port Sandwich</a></td><td><i>(x)ois</i></td>
-<td>
-'<span>day after tomorrow</span>'</td>
+<td>NCV</td><td><a href="../languages/portsandwich">Port Sandwich</a></td><td style="white-space: nowrap;"><i>(x)ois</i></td>
+<td>'<span>day after tomorrow</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/lonwolwol">Lonwolwol</a></td><td><i>wuh</i></td>
-<td>
-'<span>day after tomorrow</span>'</td>
+<td>NCV</td><td><a href="../languages/lonwolwol">Lonwolwol</a></td><td style="white-space: nowrap;"><i>wuh</i></td>
+<td>'<span>day after tomorrow</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/lewo">Lewo</a></td><td><i>vewo</i></td>
-<td>
-'<span>day after tomorrow</span>'</td>
+<td>NCV</td><td><a href="../languages/lewo">Lewo</a></td><td style="white-space: nowrap;"><i>vewo</i></td>
+<td>'<span>day after tomorrow</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/namakir">Namakir</a></td><td><i>(pa)waih</i></td>
-<td>
-'<span>day after tomorrow</span>'</td>
+<td>NCV</td><td><a href="../languages/namakir">Namakir</a></td><td style="white-space: nowrap;"><i>(pa)waih</i></td>
+<td>'<span>day after tomorrow</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/nguna">Nguna</a></td><td><i>wāsa</i></td>
-<td>
-'<span>day after tomorrow</span>'</td>
+<td>NCV</td><td><a href="../languages/nguna">Nguna</a></td><td style="white-space: nowrap;"><i>wāsa</i></td>
+<td>'<span>day after tomorrow</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/southefate">South Efate</a></td><td><i>uāsa</i></td>
-<td>
-'<span>day after tomorrow</span>'</td>
+<td>NCV</td><td><a href="../languages/southefate">South Efate</a></td><td style="white-space: nowrap;"><i>uāsa</i></td>
+<td>'<span>day after tomorrow</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/sye">Sye</a></td><td><i>wisas</i></td>
-<td>
-'<span>five days hence</span>'</td>
+<td>SV</td><td><a href="../languages/sye">Sye</a></td><td style="white-space: nowrap;"><i>wisas</i></td>
+<td>'<span>five days hence</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>(ho)viθ</i></td>
-<td>
-'<span>three days from today</span>'</td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td style="white-space: nowrap;"><i>(ho)viθ</i></td>
+<td>'<span>three days from today</span>'</td>
 </tr>
 </table>
 
@@ -4841,98 +4195,79 @@ The Proto Tanna (SV) and Proto Polynesian reflexes of _&ast;qa-na-_ lost the pas
 <td style="white-space: nowrap;">
 <i>&ast;[qa-]na-waRisa</i>
 </td>
-<td>
-'<span>day before yesterday</span>'</td>
+<td>'<span>day before yesterday</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/patpatar">Patpatar</a></td><td><i>nauaris</i></td>
-<td>
-'<span>day before yesterday</span>'</td>
+<td>MM</td><td><a href="../languages/patpatar">Patpatar</a></td><td style="white-space: nowrap;"><i>nauaris</i></td>
+<td>'<span>day before yesterday</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tolainodup">Tolai–Nodup</a></td><td><i>nari(a)</i></td>
-<td>
-'<span>day before yesterday</span>'</td>
+<td>MM</td><td><a href="../languages/tolainodup">Tolai–Nodup</a></td><td style="white-space: nowrap;"><i>nari(a)</i></td>
+<td>'<span>day before yesterday</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/solos">Solos</a></td><td><i>nanis</i></td>
-<td>
-'<span>day before yesterday</span>'</td>
+<td>MM</td><td><a href="../languages/solos">Solos</a></td><td style="white-space: nowrap;"><i>nanis</i></td>
+<td>'<span>day before yesterday</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/petats">Petats</a></td><td><i>nalis</i></td>
-<td>
-'<span>day before yesterday</span>'</td>
+<td>MM</td><td><a href="../languages/petats">Petats</a></td><td style="white-space: nowrap;"><i>nalis</i></td>
+<td>'<span>day before yesterday</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>anarisa</i></td>
-<td>
-'<span>day before yesterday</span>'</td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td style="white-space: nowrap;"><i>anarisa</i></td>
+<td>'<span>day before yesterday</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/portsandwich">Port Sandwich</a></td><td><i>(xi)nois</i></td>
-<td>
-'<span>day before yesterday</span>'</td>
+<td>NCV</td><td><a href="../languages/portsandwich">Port Sandwich</a></td><td style="white-space: nowrap;"><i>(xi)nois</i></td>
+<td>'<span>day before yesterday</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td><i>noeise</i></td>
-<td>
-'<span>day before yesterday</span>'</td>
+<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td style="white-space: nowrap;"><i>noeise</i></td>
+<td>'<span>day before yesterday</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/nguna">Nguna</a></td><td><i>(n)anoasa</i></td>
-<td>
-'<span>day before yesterday</span>'</td>
+<td>NCV</td><td><a href="../languages/nguna">Nguna</a></td><td style="white-space: nowrap;"><i>(n)anoasa</i></td>
+<td>'<span>day before yesterday</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/sye">Sye</a></td><td><i>nowisas</i></td>
-<td>
-'<span>five days ago</span>'</td>
+<td>SV</td><td><a href="../languages/sye">Sye</a></td><td style="white-space: nowrap;"><i>nowisas</i></td>
+<td>'<span>five days ago</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/lenakel">Lenakel</a></td><td><i>nihin</i></td>
-<td>
-'<span>day before yesterday</span>'</td>
+<td>SV</td><td><a href="../languages/lenakel">Lenakel</a></td><td style="white-space: nowrap;"><i>nihin</i></td>
+<td>'<span>day before yesterday</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/lenakel">Lenakel</a></td><td><i>(to)nhi</i></td>
-<td>
-'<span>day after tomorrow</span>'</td>
+<td>SV</td><td><a href="../languages/lenakel">Lenakel</a></td><td style="white-space: nowrap;"><i>(to)nhi</i></td>
+<td>'<span>day after tomorrow</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/kwamera">Kwamera</a></td><td><i>neis</i></td>
-<td>
-'<span>day before yesterday</span>'</td>
+<td>SV</td><td><a href="../languages/kwamera">Kwamera</a></td><td style="white-space: nowrap;"><i>neis</i></td>
+<td>'<span>day before yesterday</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/kwamera">Kwamera</a></td><td><i>(tə)neis</i></td>
-<td>
-'<span>day after tomorrow</span>'</td>
+<td>SV</td><td><a href="../languages/kwamera">Kwamera</a></td><td style="white-space: nowrap;"><i>(tə)neis</i></td>
+<td>'<span>day after tomorrow</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>nviθ</i></td>
-<td>
-'<span>day before yesterday, day after tomorrow</span>'</td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td style="white-space: nowrap;"><i>nviθ</i></td>
+<td>'<span>day before yesterday, day after tomorrow</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>[ʔa]ʔanoiha</i></td>
-<td>
-'<span>day after tomorrow</span>'</td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td style="white-space: nowrap;"><i>[ʔa]ʔanoiha</i></td>
+<td>'<span>day after tomorrow</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>[a]noiha</i></td>
-<td>
-'<span>day after tomorrow</span>'</td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td style="white-space: nowrap;"><i>[a]noiha</i></td>
+<td>'<span>day after tomorrow</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/eastuvean">East Uvean</a></td><td><i>anoia</i></td>
-<td>
-'<span>day after tomorrow</span>'</td>
+<td>Pn</td><td><a href="../languages/eastuvean">East Uvean</a></td><td style="white-space: nowrap;"><i>anoia</i></td>
+<td>'<span>day after tomorrow</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/mae">Mae</a></td><td><i>anoisa</i></td>
-<td>
-'<span>day after tomorrow</span>'</td>
+<td>NCV</td><td><a href="../languages/mae">Mae</a></td><td style="white-space: nowrap;"><i>anoisa</i></td>
+<td>'<span>day after tomorrow</span>'</td>
 </tr>
 </table>
 
@@ -4960,93 +4295,75 @@ Apparently an alternative way of expressing ‘the day after tomorrow’ in POc 
 <td style="white-space: nowrap;">
 <i>&ast;boŋi rua</i>
 </td>
-<td>
-'<span>the day after tomorrow</span>' (<span>apparently by default, literally ‘two days’</span>)</td>
+<td>'<span>the day after tomorrow</span>' (<span>apparently by default, literally ‘two days’</span>)</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/lou">Lou</a></td><td><i>ru-peŋ</i></td>
-<td>
-'<span>day after tomorrow</span>'</td>
+<td>Adm</td><td><a href="../languages/lou">Lou</a></td><td style="white-space: nowrap;"><i>ru-peŋ</i></td>
+<td>'<span>day after tomorrow</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/titan">Titan</a></td><td><i>lu-poŋ</i></td>
-<td>
-'<span>day after tomorrow</span>'</td>
+<td>Adm</td><td><a href="../languages/titan">Titan</a></td><td style="white-space: nowrap;"><i>lu-poŋ</i></td>
+<td>'<span>day after tomorrow</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/kove">Kove</a></td><td><i>voŋo-hua</i></td>
-<td>
-'<span>day after tomorrow</span>'</td>
+<td>NNG</td><td><a href="../languages/kove">Kove</a></td><td style="white-space: nowrap;"><i>voŋo-hua</i></td>
+<td>'<span>day after tomorrow</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/bariai">Bariai</a></td><td><i>boŋ-rua</i></td>
-<td>
-'<span>day after tomorrow</span>'</td>
+<td>NNG</td><td><a href="../languages/bariai">Bariai</a></td><td style="white-space: nowrap;"><i>boŋ-rua</i></td>
+<td>'<span>day after tomorrow</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/tami">Tami</a></td><td><i>boŋ-lu</i></td>
-<td>
-'<span>tomorrow</span>'</td>
+<td>NNG</td><td><a href="../languages/tami">Tami</a></td><td style="white-space: nowrap;"><i>boŋ-lu</i></td>
+<td>'<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/kilenge">Kilenge</a></td><td><i>voŋ-a</i></td>
-<td>
-'<span>day after tomorrow</span>'</td>
+<td>NNG</td><td><a href="../languages/kilenge">Kilenge</a></td><td style="white-space: nowrap;"><i>voŋ-a</i></td>
+<td>'<span>day after tomorrow</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/maleu">Maleu</a></td><td><i>vuŋ-ua</i></td>
-<td>
-'<span>day after tomorrow</span>'</td>
+<td>NNG</td><td><a href="../languages/maleu">Maleu</a></td><td style="white-space: nowrap;"><i>vuŋ-ua</i></td>
+<td>'<span>day after tomorrow</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/amara">Amara</a></td><td><i>voŋo-ruo</i></td>
-<td>
-'<span>day after tomorrow</span>'</td>
+<td>NNG</td><td><a href="../languages/amara">Amara</a></td><td style="white-space: nowrap;"><i>voŋo-ruo</i></td>
+<td>'<span>day after tomorrow</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/poeng">Poeng</a></td><td><i>(ŋa)voŋa-lua</i></td>
-<td>
-[ADV] '<span>day after tomorrow</span>'</td>
+<td>NNG</td><td><a href="../languages/poeng">Poeng</a></td><td style="white-space: nowrap;"><i>(ŋa)voŋa-lua</i></td>
+<td>[ADV] '<span>day after tomorrow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/kandas">Kandas</a></td><td><i>ura-buŋ</i></td>
-<td>
-'<span>day after tomorrow</span>'</td>
+<td>MM</td><td><a href="../languages/kandas">Kandas</a></td><td style="white-space: nowrap;"><i>ura-buŋ</i></td>
+<td>'<span>day after tomorrow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/monoalu">Mono-Alu</a></td><td><i>boi-ua</i></td>
-<td>
-'<span>tomorrow</span>'</td>
+<td>MM</td><td><a href="../languages/monoalu">Mono-Alu</a></td><td style="white-space: nowrap;"><i>boi-ua</i></td>
+<td>'<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/nokuku">Nokuku</a></td><td><i>pon rua</i></td>
-<td>
-'<span>two days hence</span>'</td>
+<td>NCV</td><td><a href="../languages/nokuku">Nokuku</a></td><td style="white-space: nowrap;"><i>pon rua</i></td>
+<td>'<span>two days hence</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/kiai">Kiai</a></td><td><i>pon-rua</i></td>
-<td>
-'<span>the day after tomorrow</span>'</td>
+<td>NCV</td><td><a href="../languages/kiai">Kiai</a></td><td style="white-space: nowrap;"><i>pon-rua</i></td>
+<td>'<span>the day after tomorrow</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/uripiv">Uripiv</a></td><td><i>bon eru</i></td>
-<td>
-'<span>day before yesterday</span>'</td>
+<td>NCV</td><td><a href="../languages/uripiv">Uripiv</a></td><td style="white-space: nowrap;"><i>bon eru</i></td>
+<td>'<span>day before yesterday</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>boŋi-rua</i></td>
-<td>
-'<span>day before yesterday</span>'</td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td style="white-space: nowrap;"><i>boŋi-rua</i></td>
+<td>'<span>day before yesterday</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>ei boŋi-rua</i></td>
-<td>
-'<span>day after tomorrow</span>'</td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td style="white-space: nowrap;"><i>ei boŋi-rua</i></td>
+<td>'<span>day after tomorrow</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>a boŋi-rua</i></td>
-<td>
-'<span>day before yesterday</span>'</td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td style="white-space: nowrap;"><i>a boŋi-rua</i></td>
+<td>'<span>day before yesterday</span>'</td>
 </tr>
 </table>
 
@@ -5087,8 +4404,7 @@ From the distributions of their reflexes, it seems that _&ast;ŋaican_ or _&ast;
 <td style="white-space: nowrap;">
 <i>&ast;ijan</i>
 </td>
-<td>
-'<span>when?</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>when?</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -5096,41 +4412,34 @@ From the distributions of their reflexes, it seems that _&ast;ŋaican_ or _&ast;
 <td style="white-space: nowrap;">
 <i>&ast;ican</i>
 </td>
-<td>
-'<span>when?</span>'</td>
+<td>'<span>when?</span>'</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;qa-ican</i>
 </td>
-<td>
-'<span>when?</span>'</td>
+<td>'<span>when?</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td><i>aira</i></td>
-<td>
-'<span>when?</span>'</td>
+<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td style="white-space: nowrap;"><i>aira</i></td>
+<td>'<span>when?</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td><i>(ga)isa</i></td>
-<td>
-'<span>when?</span>'</td>
+<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td style="white-space: nowrap;"><i>(ga)isa</i></td>
+<td>'<span>when?</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/meramera">Meramera</a></td><td><i>aisa</i></td>
-<td>
-'<span>when?</span>'</td>
+<td>MM</td><td><a href="../languages/meramera">Meramera</a></td><td style="white-space: nowrap;"><i>aisa</i></td>
+<td>'<span>when?</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tabar">Tabar</a></td><td><i>(si)sa</i></td>
-<td>
-'<span>when?</span>'</td>
+<td>MM</td><td><a href="../languages/tabar">Tabar</a></td><td style="white-space: nowrap;"><i>(si)sa</i></td>
+<td>'<span>when?</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/monoalu">Mono-Alu</a></td><td><i>(ro)isa</i></td>
-<td>
-'<span>when?</span>'</td>
+<td>MM</td><td><a href="../languages/monoalu">Mono-Alu</a></td><td style="white-space: nowrap;"><i>(ro)isa</i></td>
+<td>'<span>when?</span>'</td>
 </tr>
 </table>
 
@@ -5142,121 +4451,98 @@ From the distributions of their reflexes, it seems that _&ast;ŋaican_ or _&ast;
 <td style="white-space: nowrap;">
 <i>&ast;[i] ŋaican</i>
 </td>
-<td>
-'<span>when?</span>'</td>
+<td>'<span>when?</span>'</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;qa-ŋaican</i>
 </td>
-<td>
-'<span>when?</span>'</td>
+<td>'<span>when?</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/malai">Malai</a></td><td><i>ŋez</i></td>
-<td>
-'<span>when?</span>'</td>
+<td>NNG</td><td><a href="../languages/malai">Malai</a></td><td style="white-space: nowrap;"><i>ŋez</i></td>
+<td>'<span>when?</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/gitua">Gitua</a></td><td><i>ŋeza</i></td>
-<td>
-'<span>when?</span>'</td>
+<td>NNG</td><td><a href="../languages/gitua">Gitua</a></td><td style="white-space: nowrap;"><i>ŋeza</i></td>
+<td>'<span>when?</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/lukeppono">Lukep (Pono)</a></td><td><i>ŋe(lo)</i></td>
-<td>
-'<span>when?</span>'</td>
+<td>NNG</td><td><a href="../languages/lukeppono">Lukep (Pono)</a></td><td style="white-space: nowrap;"><i>ŋe(lo)</i></td>
+<td>'<span>when?</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/sursurunga">Sursurunga</a></td><td><i>aŋes</i></td>
-<td>
-'<span>when?</span>'</td>
+<td>MM</td><td><a href="../languages/sursurunga">Sursurunga</a></td><td style="white-space: nowrap;"><i>aŋes</i></td>
+<td>'<span>when?</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td><i>(vi)ŋaia</i></td>
-<td>
-'<span>when?</span>'</td>
+<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td style="white-space: nowrap;"><i>(vi)ŋaia</i></td>
+<td>'<span>when?</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td><i>(na)ŋaian</i></td>
-<td>
-'<span>when?</span>'</td>
+<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td style="white-space: nowrap;"><i>(na)ŋaian</i></td>
+<td>'<span>when?</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/label">Label</a></td><td><i>(na)ŋse</i></td>
-<td>
-'<span>when?</span>'</td>
+<td>MM</td><td><a href="../languages/label">Label</a></td><td style="white-space: nowrap;"><i>(na)ŋse</i></td>
+<td>'<span>when?</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/siar">Siar</a></td><td><i>(la)ŋsiŋ</i></td>
-<td>
-'<span>when?</span>'</td>
+<td>MM</td><td><a href="../languages/siar">Siar</a></td><td style="white-space: nowrap;"><i>(la)ŋsiŋ</i></td>
+<td>'<span>when?</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>ŋaita</i></td>
-<td>
-'<span>when (future)?</span>'</td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td style="white-space: nowrap;"><i>ŋaita</i></td>
+<td>'<span>when (future)?</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/fagani">Fagani</a></td><td><i>kaitā</i></td>
-<td>
-'<span>when?</span>'</td>
+<td>SES</td><td><a href="../languages/fagani">Fagani</a></td><td style="white-space: nowrap;"><i>kaitā</i></td>
+<td>'<span>when?</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/kahua">Kahua</a></td><td><i>keta</i></td>
-<td>
-'<span>when?</span>'</td>
+<td>SES</td><td><a href="../languages/kahua">Kahua</a></td><td style="white-space: nowrap;"><i>keta</i></td>
+<td>'<span>when?</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>aŋaisa</i></td>
-<td>
-'<span>when (future)?</span>'</td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td style="white-space: nowrap;"><i>aŋaisa</i></td>
+<td>'<span>when (future)?</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/nokuku">Nokuku</a></td><td><i>(pʷa)nes</i></td>
-<td>
-'<span>when (future)?</span>'</td>
+<td>NCV</td><td><a href="../languages/nokuku">Nokuku</a></td><td style="white-space: nowrap;"><i>(pʷa)nes</i></td>
+<td>'<span>when (future)?</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/portsandwich">Port Sandwich</a></td><td><i>ŋais</i></td>
-<td>
-'<span>when?</span>'</td>
+<td>NCV</td><td><a href="../languages/portsandwich">Port Sandwich</a></td><td style="white-space: nowrap;"><i>ŋais</i></td>
+<td>'<span>when?</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kosraean">Kosraean</a></td><td><i>ŋɛ</i></td>
-<td>
-'<span>when?</span>'</td>
+<td>Mic</td><td><a href="../languages/kosraean">Kosraean</a></td><td style="white-space: nowrap;"><i>ŋɛ</i></td>
+<td>'<span>when?</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/mokilese">Mokilese</a></td><td><i>ŋēt</i></td>
-<td>
-'<span>when?</span>'</td>
+<td>Mic</td><td><a href="../languages/mokilese">Mokilese</a></td><td style="white-space: nowrap;"><i>ŋēt</i></td>
+<td>'<span>when?</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/mortlockese">Mortlockese</a></td><td><i>iŋɛ̃t</i></td>
-<td>
-'<span>when?</span>'</td>
+<td>Mic</td><td><a href="../languages/mortlockese">Mortlockese</a></td><td style="white-space: nowrap;"><i>iŋɛ̃t</i></td>
+<td>'<span>when?</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td><i>yiŋet</i></td>
-<td>
-'<span>when?</span>'</td>
+<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td style="white-space: nowrap;"><i>yiŋet</i></td>
+<td>'<span>when?</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/satawalese">Satawalese</a></td><td><i>ilēt</i></td>
-<td>
-'<span>when?</span>'</td>
+<td>Mic</td><td><a href="../languages/satawalese">Satawalese</a></td><td style="white-space: nowrap;"><i>ilēt</i></td>
+<td>'<span>when?</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/carolinian">Carolinian</a></td><td><i>inēta</i></td>
-<td>
-'<span>when?</span>'</td>
+<td>Mic</td><td><a href="../languages/carolinian">Carolinian</a></td><td style="white-space: nowrap;"><i>inēta</i></td>
+<td>'<span>when?</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>irēta</i></td>
-<td>
-'<span>when?</span>'</td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td style="white-space: nowrap;"><i>irēta</i></td>
+<td>'<span>when?</span>'</td>
 </tr>
 </table>
 
@@ -5268,156 +4554,126 @@ From the distributions of their reflexes, it seems that _&ast;ŋaican_ or _&ast;
 <td style="white-space: nowrap;">
 <i>&ast;[i] ŋican</i>
 </td>
-<td>
-'<span>when?</span>'</td>
+<td>'<span>when?</span>'</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;qa-ŋican</i>
 </td>
-<td>
-'<span>when?</span>'</td>
+<td>'<span>when?</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/bali">Bali</a></td><td><i>ŋizaŋa</i></td>
-<td>
-'<span>when?</span>'</td>
+<td>MM</td><td><a href="../languages/bali">Bali</a></td><td style="white-space: nowrap;"><i>ŋizaŋa</i></td>
+<td>'<span>when?</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/lavongai">Lavongai</a></td><td><i>aŋisan</i></td>
-<td>
-'<span>when?</span>'</td>
+<td>MM</td><td><a href="../languages/lavongai">Lavongai</a></td><td style="white-space: nowrap;"><i>aŋisan</i></td>
+<td>'<span>when?</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/notsi">Notsi</a></td><td><i>(la)ŋisa</i></td>
-<td>
-'<span>when?</span>'</td>
+<td>MM</td><td><a href="../languages/notsi">Notsi</a></td><td style="white-space: nowrap;"><i>(la)ŋisa</i></td>
+<td>'<span>when?</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/madak">Madak</a></td><td><i>(na)ŋisa</i></td>
-<td>
-'<span>when?</span>'</td>
+<td>MM</td><td><a href="../languages/madak">Madak</a></td><td style="white-space: nowrap;"><i>(na)ŋisa</i></td>
+<td>'<span>when?</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/barok">Barok</a></td><td><i>(la)ŋis</i></td>
-<td>
-'<span>when?</span>'</td>
+<td>MM</td><td><a href="../languages/barok">Barok</a></td><td style="white-space: nowrap;"><i>(la)ŋis</i></td>
+<td>'<span>when?</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tangga">Tangga</a></td><td><i>(na)ŋis</i></td>
-<td>
-'<span>when?</span>'</td>
+<td>MM</td><td><a href="../languages/tangga">Tangga</a></td><td style="white-space: nowrap;"><i>(na)ŋis</i></td>
+<td>'<span>when?</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/bilur">Bilur</a></td><td><i>iŋian</i></td>
-<td>
-'<span>when?</span>'</td>
+<td>MM</td><td><a href="../languages/bilur">Bilur</a></td><td style="white-space: nowrap;"><i>iŋian</i></td>
+<td>'<span>when?</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/nehan">Nehan</a></td><td><i>(ma)ŋiha</i></td>
-<td>
-'<span>when?</span>'</td>
+<td>MM</td><td><a href="../languages/nehan">Nehan</a></td><td style="white-space: nowrap;"><i>(ma)ŋiha</i></td>
+<td>'<span>when?</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/solos">Solos</a></td><td><i>(ha)ŋis</i></td>
-<td>
-'<span>when?</span>'</td>
+<td>MM</td><td><a href="../languages/solos">Solos</a></td><td style="white-space: nowrap;"><i>(ha)ŋis</i></td>
+<td>'<span>when?</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/halia">Halia</a></td><td><i>(iha)ŋisa</i></td>
-<td>
-'<span>when?</span>'</td>
+<td>MM</td><td><a href="../languages/halia">Halia</a></td><td style="white-space: nowrap;"><i>(iha)ŋisa</i></td>
+<td>'<span>when?</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/teop">Teop</a></td><td><i>(tobo)nihi</i></td>
-<td>
-'<span>when?</span>'</td>
+<td>MM</td><td><a href="../languages/teop">Teop</a></td><td style="white-space: nowrap;"><i>(tobo)nihi</i></td>
+<td>'<span>when?</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/kia">Kia</a></td><td><i>niha</i></td>
-<td>
-'<span>when?</span>'</td>
+<td>MM</td><td><a href="../languages/kia">Kia</a></td><td style="white-space: nowrap;"><i>niha</i></td>
+<td>'<span>when?</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/kokota">Kokota</a></td><td><i>niha(o)</i></td>
-<td>
-'<span>when?</span>'</td>
+<td>MM</td><td><a href="../languages/kokota">Kokota</a></td><td style="white-space: nowrap;"><i>niha(o)</i></td>
+<td>'<span>when?</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/maringe">Maringe</a></td><td><i>(a)ñiha</i></td>
-<td>
-'<span>when?</span>'</td>
+<td>MM</td><td><a href="../languages/maringe">Maringe</a></td><td style="white-space: nowrap;"><i>(a)ñiha</i></td>
+<td>'<span>when?</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>ŋiha</i></td>
-<td>
-'<span>how many?</span>'; '<span>how much?</span>'; '<span>when?</span>'</td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td style="white-space: nowrap;"><i>ŋiha</i></td>
+<td>'<span>how many?</span>'; '<span>how much?</span>'; '<span>when?</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td><i>ñiha</i></td>
-<td>
-'<span>when?</span>'</td>
+<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td style="white-space: nowrap;"><i>ñiha</i></td>
+<td>'<span>when?</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/lengo">Lengo</a></td><td><i>iŋiða</i></td>
-<td>
-'<span>when?</span>'</td>
+<td>SES</td><td><a href="../languages/lengo">Lengo</a></td><td style="white-space: nowrap;"><i>iŋiða</i></td>
+<td>'<span>when?</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/talise">Talise</a></td><td><i>(ka)ŋisa</i></td>
-<td>
-'<span>when?</span>'</td>
+<td>SES</td><td><a href="../languages/talise">Talise</a></td><td style="white-space: nowrap;"><i>(ka)ŋisa</i></td>
+<td>'<span>when?</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/malango">Malango</a></td><td><i>iŋisa</i></td>
-<td>
-'<span>when?</span>'</td>
+<td>SES</td><td><a href="../languages/malango">Malango</a></td><td style="white-space: nowrap;"><i>iŋisa</i></td>
+<td>'<span>when?</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/birao">Birao</a></td><td><i>(daka)ŋisa</i></td>
-<td>
-'<span>when?</span>'</td>
+<td>SES</td><td><a href="../languages/birao">Birao</a></td><td style="white-space: nowrap;"><i>(daka)ŋisa</i></td>
+<td>'<span>when?</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/longgu">Longgu</a></td><td><i>aŋita</i></td>
-<td>
-'<span>when?</span>'</td>
+<td>SES</td><td><a href="../languages/longgu">Longgu</a></td><td style="white-space: nowrap;"><i>aŋita</i></td>
+<td>'<span>when?</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>aŋita</i></td>
-<td>
-'<span>when?</span>'</td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td style="white-space: nowrap;"><i>aŋita</i></td>
+<td>'<span>when?</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>aŋita</i></td>
-<td>
-'<span>when?</span>' (<span>also <em>nānita</em> ‘when?’</span>)</td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td style="white-space: nowrap;"><i>aŋita</i></td>
+<td>'<span>when?</span>' (<span>also <em>nānita</em> ‘when?’</span>)</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/kiai">Kiai</a></td><td><i>nisa</i></td>
-<td>
-'<span>when (future)?</span>'</td>
+<td>NCV</td><td><a href="../languages/kiai">Kiai</a></td><td style="white-space: nowrap;"><i>nisa</i></td>
+<td>'<span>when (future)?</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/tolomako">Tolomako</a></td><td><i>i ŋisa</i></td>
-<td>
-'<span>when (future)?</span>'</td>
+<td>NCV</td><td><a href="../languages/tolomako">Tolomako</a></td><td style="white-space: nowrap;"><i>i ŋisa</i></td>
+<td>'<span>when (future)?</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>iñiθ</i></td>
-<td>
-'<span>when?</span>'</td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td style="white-space: nowrap;"><i>iñiθ</i></td>
+<td>'<span>when?</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>ei ŋiða</i></td>
-<td>
-'<span>when (future)?</span>'</td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td style="white-space: nowrap;"><i>ei ŋiða</i></td>
+<td>'<span>when (future)?</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>a ŋiða</i></td>
-<td>
-'<span>when (past)?</span>'</td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td style="white-space: nowrap;"><i>a ŋiða</i></td>
+<td>'<span>when (past)?</span>'</td>
 </tr>
 </table>
 
@@ -5434,103 +4690,83 @@ A scattering of languages reflect the past formative with either _&ast;ŋaican_ 
 <td style="white-space: nowrap;">
 <i>&ast;[qa]na-ŋaican, &ast;[qa]na-ŋican</i>
 </td>
-<td>
-'<span>when (past)</span>'</td>
+<td>'<span>when (past)</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td><i>alaisa, alisa</i></td>
-<td>
-'<span>when (past)?</span>'</td>
+<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td style="white-space: nowrap;"><i>alaisa, alisa</i></td>
+<td>'<span>when (past)?</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/selau">Selau</a></td><td><i>naŋsa</i></td>
-<td>
-'<span>when?</span>'</td>
+<td>MM</td><td><a href="../languages/selau">Selau</a></td><td style="white-space: nowrap;"><i>naŋsa</i></td>
+<td>'<span>when?</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/papapana">Papapana</a></td><td><i>noŋovita</i></td>
-<td>
-'<span>when?</span>'</td>
+<td>MM</td><td><a href="../languages/papapana">Papapana</a></td><td style="white-space: nowrap;"><i>noŋovita</i></td>
+<td>'<span>when?</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>nānita</i></td>
-<td>
-'<span>when?</span>' (<span>also <em>aŋita</em> ‘when?’</span>)</td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td style="white-space: nowrap;"><i>nānita</i></td>
+<td>'<span>when?</span>' (<span>also <em>aŋita</em> ‘when?’</span>)</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td><i>nanita</i></td>
-<td>
-'<span>when?</span>'</td>
+<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>nanita</i></td>
+<td>'<span>when?</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>nageita</i></td>
-<td>
-'<span>when (past)?</span>'</td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td style="white-space: nowrap;"><i>nageita</i></td>
+<td>'<span>when (past)?</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/oroha">Oroha</a></td><td><i>nanita</i></td>
-<td>
-'<span>when?</span>'</td>
+<td>SES</td><td><a href="../languages/oroha">Oroha</a></td><td style="white-space: nowrap;"><i>nanita</i></td>
+<td>'<span>when?</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>ŋanite</i></td>
-<td>
-'<span>when?</span>'</td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>ŋanite</i></td>
+<td>'<span>when?</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/fagani">Fagani</a></td><td><i>anakaita</i></td>
-<td>
-'<span>when?</span>'</td>
+<td>SES</td><td><a href="../languages/fagani">Fagani</a></td><td style="white-space: nowrap;"><i>anakaita</i></td>
+<td>'<span>when?</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/bauro">Bauro</a></td><td><i>anakaita</i></td>
-<td>
-'<span>when?</span>'</td>
+<td>SES</td><td><a href="../languages/bauro">Bauro</a></td><td style="white-space: nowrap;"><i>anakaita</i></td>
+<td>'<span>when?</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>anaŋaisa</i></td>
-<td>
-'<span>when (past)?</span>'</td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td style="white-space: nowrap;"><i>anaŋaisa</i></td>
+<td>'<span>when (past)?</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/nokuku">Nokuku</a></td><td><i>nenesa</i></td>
-<td>
-'<span>when (past)?</span>'</td>
+<td>NCV</td><td><a href="../languages/nokuku">Nokuku</a></td><td style="white-space: nowrap;"><i>nenesa</i></td>
+<td>'<span>when (past)?</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/kiai">Kiai</a></td><td><i>nanisa</i></td>
-<td>
-'<span>when (past)?</span>'</td>
+<td>NCV</td><td><a href="../languages/kiai">Kiai</a></td><td style="white-space: nowrap;"><i>nanisa</i></td>
+<td>'<span>when (past)?</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/tolomako">Tolomako</a></td><td><i>naŋisa</i></td>
-<td>
-'<span>when (past)?</span>'</td>
+<td>NCV</td><td><a href="../languages/tolomako">Tolomako</a></td><td style="white-space: nowrap;"><i>naŋisa</i></td>
+<td>'<span>when (past)?</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/lonwolwol">Lonwolwol</a></td><td><i>neŋeh</i></td>
-<td>
-'<span>when (past)?</span>'</td>
+<td>NCV</td><td><a href="../languages/lonwolwol">Lonwolwol</a></td><td style="white-space: nowrap;"><i>neŋeh</i></td>
+<td>'<span>when (past)?</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td><i>neŋeise</i></td>
-<td>
-'<span>when (past)?</span>'</td>
+<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td style="white-space: nowrap;"><i>neŋeise</i></td>
+<td>'<span>when (past)?</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/nguna">Nguna</a></td><td><i>naŋasa</i></td>
-<td>
-'<span>when?</span>'</td>
+<td>NCV</td><td><a href="../languages/nguna">Nguna</a></td><td style="white-space: nowrap;"><i>naŋasa</i></td>
+<td>'<span>when?</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/sye">Sye</a></td><td><i>niŋoi</i></td>
-<td>
-'<span>when?</span>'</td>
+<td>SV</td><td><a href="../languages/sye">Sye</a></td><td style="white-space: nowrap;"><i>niŋoi</i></td>
+<td>'<span>when?</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>niŋaira</i></td>
-<td>
-'<span>when?</span>'</td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>niŋaira</i></td>
+<td>'<span>when?</span>'</td>
 </tr>
 </table>
 
@@ -5547,43 +4783,35 @@ In Proto Polynesian, reflexes of POc _&ast;ican_ and its derivatives had been lo
 <td style="white-space: nowrap;">
 <i>&ast;qā-fea</i>
 </td>
-<td>
-'<span>when (future)</span>'</td>
+<td>'<span>when (future)</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>ʔafē</i></td>
-<td>
-'<span>when (future)?</span>'</td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td style="white-space: nowrap;"><i>ʔafē</i></td>
+<td>'<span>when (future)?</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>fē</i></td>
-<td>
-'<span>when (future)?</span>'</td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td style="white-space: nowrap;"><i>fē</i></td>
+<td>'<span>when (future)?</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>āfea</i></td>
-<td>
-'<span>when (future)?</span>'</td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>āfea</i></td>
+<td>'<span>when (future)?</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/nanumean">Nanumean</a></td><td><i>āfea</i></td>
-<td>
-'<span>when (future)?</span>'</td>
+<td>Pn</td><td><a href="../languages/nanumean">Nanumean</a></td><td style="white-space: nowrap;"><i>āfea</i></td>
+<td>'<span>when (future)?</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/ifiramele">Ifira-Mele</a></td><td><i>āfea</i></td>
-<td>
-'<span>when (future)?</span>'</td>
+<td>Pn</td><td><a href="../languages/ifiramele">Ifira-Mele</a></td><td style="white-space: nowrap;"><i>āfea</i></td>
+<td>'<span>when (future)?</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>āhea</i></td>
-<td>
-'<span>when (future)?</span>'</td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td style="white-space: nowrap;"><i>āhea</i></td>
+<td>'<span>when (future)?</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tahitian">Tahitian</a></td><td><i>āfea</i></td>
-<td>
-'<span>when (future)?</span>'</td>
+<td>Pn</td><td><a href="../languages/tahitian">Tahitian</a></td><td style="white-space: nowrap;"><i>āfea</i></td>
+<td>'<span>when (future)?</span>'</td>
 </tr>
 </table>
 
@@ -5595,43 +4823,35 @@ In Proto Polynesian, reflexes of POc _&ast;ican_ and its derivatives had been lo
 <td style="white-space: nowrap;">
 <i>&ast;[qa]na-fea</i>
 </td>
-<td>
-'<span>when (past)</span>'</td>
+<td>'<span>when (past)</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>ʔanefē</i></td>
-<td>
-'<span>when (past)?</span>'</td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td style="white-space: nowrap;"><i>ʔanefē</i></td>
+<td>'<span>when (past)?</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>nefē</i></td>
-<td>
-'<span>when (past)?</span>'</td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td style="white-space: nowrap;"><i>nefē</i></td>
+<td>'<span>when (past)?</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>anafea</i></td>
-<td>
-'<span>when (past)?</span>'</td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>anafea</i></td>
+<td>'<span>when (past)?</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/nanumean">Nanumean</a></td><td><i>nāfea</i></td>
-<td>
-'<span>when (past)?</span>'</td>
+<td>Pn</td><td><a href="../languages/nanumean">Nanumean</a></td><td style="white-space: nowrap;"><i>nāfea</i></td>
+<td>'<span>when (past)?</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>anafea</i></td>
-<td>
-'<span>when (past)?</span>'</td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td style="white-space: nowrap;"><i>anafea</i></td>
+<td>'<span>when (past)?</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/ifiramele">Ifira-Mele</a></td><td><i>nafea</i></td>
-<td>
-'<span>when (past)?</span>'</td>
+<td>Pn</td><td><a href="../languages/ifiramele">Ifira-Mele</a></td><td style="white-space: nowrap;"><i>nafea</i></td>
+<td>'<span>when (past)?</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>ināhea</i></td>
-<td>
-'<span>when (past)?</span>'</td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td style="white-space: nowrap;"><i>ināhea</i></td>
+<td>'<span>when (past)?</span>'</td>
 </tr>
 </table>
 

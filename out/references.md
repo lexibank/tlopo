@@ -238,7 +238,7 @@
 - <a id="source-Booij2010"> </a>Booij, Geert. 2010. Construction Morphology. Oxford: Oxford University Press. https://doi.org/10.1111/j.1749-818X.2010.00213.x.
 - <a id="source-Borrell1989"> </a>Borrell, 0. William. 1989. An annotated checklist of the flora of Kairiru Island, New Guinea. Bulle en, Vic.: The author.
 - <a id="source-Bosteretal1986"> </a>Boster, Brent Berlin, James & John O’Neill. 1986. The correspondence of Jivaroan to scientific ornithology. American Anthropologist 88: 569-583.
-- <a id="source-Boswelletal2009"> </a>Boswell, Jr., Frederick A. 2009. A grammatical description of Cheke Holo: An Oceanic language of Santa Isabel, Solomon Islands. PhD thesis, Vrije Universiteit, Amsterdam.
+- <a id="source-Boswelletal2009"> </a>Boswell, Frederick A. Jr. 2009. A grammatical description of Cheke Holo: An Oceanic language of Santa Isabel, Solomon Islands. PhD thesis, Vrije Universiteit, Amsterdam.
 - <a id="source-Boswelletal2018"> </a>Boswell, Jr., Frederick A. 2018. A grammar of Cheke Holo. PhD thesis, Leiden University.
 - <a id="source-Bougainville1772"> </a>Bougainville, Louis de. 1772. (translated by J. R. Foster). A voyage round the world. London: Nourse & T. Davies.
 - <a id="source-BourdyandWalter1994"> </a>Bourdy, Genevieve & Annie Walter. 1994. Women's plants and maternity in Vanuatu. In Morrison, Geraghty & Crowl, 1994: 7-34.
@@ -513,6 +513,7 @@
 - <a id="source-Dixon1977"> </a>Dixon, R.M.W. 1977. Where have all the adjectives gone? Studies in Language, 1:19–80.
 - <a id="source-Dixon1982"> </a>Dixon, R.M.W. 1982. Where have all the adjectives gone? In R.M.W. Dixon, ed. Where have all the adjectives gone? and other essays in semantics and syntax, 1–62. Berlin: Mouton.
 - <a id="source-Dixon1988"> </a>Dixon, R.M.W. 1988. A grammar of Boumaa Fijian. Chicago: University of Chicago Press.
+- <a id="source-DJernes1990"> </a>D’Jernes, Lucille. 1990. Arop-Lokep grammar. Unpublished ms, Summer Institute of Linguistics, Ukarumpa.
 - <a id="source-DJernes2002"> </a>D’Jernes, Lucille S. 2002. Lukep (Pono). In John Lynch, Malcolm Ross and Crowley, Terry (eds.), _The Oceanic languages, 249–269. Richmond: Curzon Press_.
 - <a id="source-DJernes2013"> </a>D’Jernes, Lucille S. 2013. The give and take of the verb root –kaua in Lukep (Pono) [apr]. Language and Linguistics in Melanesia 31:131–139.
 - <a id="source-DjernesandDjernesnd"> </a>D’Jernes, Jeffrey & Lucille D’Jernes. n.d. Arop-Lokep grammar essentials. Unpublished MS. Summer Institute of Linguistics, Ukarumpa.
@@ -525,11 +526,12 @@
 - <a id="source-DonohueandDenham2008"> </a>Donohue, Mark & Tim Denham. 2008. The language of Lapita: Vanuatu and an early Papuan presence in the Pacific. Oceanic Linguistics 47:433-444. https://doi.org/10.1353/ ol.0.0021.
 - <a id="source-DonohueandGrimes2008"> </a>Donohue, Mark & Charles E. Grimes. 2008. Yet more on the position of the languages of eastern Indonesia. Oceanic Linguistics 47: 114-158.
 - <a id="source-DouaireMarsaudon1996"> </a>Douaire-Marsaudon, Françoise. 1996. Neither black nor white: The father’s sister in Tonga. Journal of the Polynesian Society 106:139-164.
-- <a id="source-DouaireMarsaudonetal2015"> </a>Douaire-Marsaudon, Françoise, Françoise. 2015. The sister's return: The brother-sister relationship, the Tongan fahu and the unfolding of kinship in Polynesia. In Pauwels, C. Toren & S. (eds.), _186-206. https://doi.org/10.2307/j.ctt9qctd3.13_.
+- <a id="source-DouaireMarsaudonetal2015"> </a>Douaire-Marsaudon, Françoise. 2015. The sister's return: The brother-sister relationship, the Tongan fahu and the unfolding of kinship in Polynesia. In Pauwels, C. Toren & S. (eds.), _186-206. https://doi.org/10.2307/j.ctt9qctd3.13_.
 - <a id="source-Dougherty1983"> </a>Dougherty, Janet W.D. 1983. West Futuna-Aniwa: An introduction to a Polynesian Outlier language. Berkeley: University of California Press. (University of California Publications in Linguistics 102).
 - <a id="source-Douglas1979"> </a>Douglas, Bronwen. 1979. Rank, power, authority: A reassessment of traditional leadership in South Pacific societies. Journal of Pacific History 14:2-27. https:// doi.org/10.1080/00223347908572362.
 - <a id="source-Drabbe1932a"> </a>Drabbe, Peter. 1932a. Woordenboek der Fordaatsche taal. Bandoeng: A.C. Nix. (Verhandelingen van het Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen 71, part 2).
 - <a id="source-Drabbe1932b"> </a>Drabbe, Peter. 1932b. Woordenboek der Jamdeensche taal. Bandoeng: A.C. Nix. (Verhandelingen van het Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen 71, part 3).
+- <a id="source-Dryer2012"> </a>Dryer, Matthew S. 2012. A grammatical description of Kara-Lemakot. Canberra: Asia- Pacific Linguistics. (Asia-Pacific Linguistics 9).
 - <a id="source-Dryer2013"> </a>Dryer, Matthew S. 2013. A grammatical description of Kara-Lemakot. Asia-Pacific Linguistics. (Asia-Pacific Linguistics 009) (http://pacling.anu.edu.au/materials/ Dryer2013Kara-Lemakot.pdf).
 - <a id="source-Du2010"> </a>Du, Jingyi. 2010. Towards a grammar of the Usen dialect of the Barok language New Ireland, Papua New Guinea. PhD thesis, La Trobe University.
 - <a id="source-Duke2006"> </a>Duke, Norman C. 2006. Rhizophora apiculata, R. mucronata, R. stylosa, R. x annamalai, R. x lamarckii (Indo-West Pacific stilt mangrove), ver. 2.1. In Elevitch, 2006: 641-660.
@@ -610,6 +612,7 @@
 - <a id="source-Fingleton1986"> </a>Fingleton, James S. 1986. Tolai kinship concepts: Correspondence between Kuanua and Tok Pisin terminology. In Papers in New Guinea Linguistics No 23, 291-312. Canberra: Pacific Linguistics. (Pacific Linguistics A-69).
 - <a id="source-Finney1976"> </a>Finney, Ben R. 1976. Pacific navigation and voyaging. Wellington, N.Z.: The Polynesian Society Inc.
 - <a id="source-Finney1979"> </a>Finney, Ben R. 1979. Voyaging. In Jennings, Jesse D. (ed.), _The prehistory of Polynesia, 323-3 5 1 . Canberra: Australian National University Press_.
+- <a id="source-Firth1922"> </a>Firth, Raymond. 1922. We, the Tikopia: A sociological study of kinship in primitive Polynesia. London: Allen & Unwin.
 - <a id="source-Firth1936"> </a>Firth, Raymond. 1936. (2nd edition 1957). We the Tikopia. London: Allen & Unwin.
 - <a id="source-Firth1940"> </a>Firth, Raymond. 1940. The analysis of mana: an empirical approach. Journal of the Polynesian Society 49:483–510 (repeated in Tikopia ritual and belief 1967:174–212).
 - <a id="source-Firth1957"> </a>Firth, Raymond. 1957. We, the Tikopia (2nd edn). London: Allen & Unwin.
@@ -1273,7 +1276,7 @@
 - <a id="source-Madden2002"> </a>Madden, Fred. 2002. Mengen dictionary. Manuscript, Summer Institute of Linguistics Papua New Guinea Branch, Ukarumpa. https://pnglanguages.sil.org/resources/ archives/31158; electronic files https://pnglanguages.sil.org/resources/dictionaries/ mee.
 - <a id="source-Madulid2001a"> </a>Madulid, Domingo A. 2001a. A dictionary of Philippine plant names. Vol. 1. Manila: Bookmark.
 - <a id="source-Madulid2001b"> </a>Madulid, Domingo A. 2001b. A dictionary of Philippine plant names. Vol. 2. Manila: Bookmark.
-- <a id="source-Mager1952"> </a>Mager, John F. 1952. Gedaged-English dictionary. Columbus, Ohio: American Lutheran Church, Board of Foreign Missions.
+- <a id="source-Mager1952"> </a>Mager, John F. 1952. Gedaged-English dictionary. Columbus, Ohio: American Lutheran Church, Board of Foreign Miions.
 - <a id="source-Mahdi1994"> </a>Mahdi, Waruno. 1994. Some Austronesian maverick protoforms with culture-historical implications: 1. Journal of the Polynesian Society 33: 167-229.
 - <a id="source-Mahdi1999"> </a>Mahdi, Waruno. 1999. Linguistic and philological data towards dating Austronesian activity in India and Sri Lanka. In Spriggs, Roger Blench & Matthew (eds.), _Archaeology and language. Vol. 4, 160-242. London: Routledge_.
 - <a id="source-MajnepandBulmer1977"> </a>Majnep, Ian Saem & Ralph Bulmer. 1977. Birds of my Kalam country. Auckland: Auckland University Press & Oxford University Press.
@@ -1390,8 +1393,8 @@
 - <a id="source-Mosko1985"> </a>Mosko, Mark S. 1985. Quadripartite structures: Categories, relations, and homologies in Bush Mekeo culture. Cambridge: Cambridge University Press. https://doi.org/10.1017/CBO9780511753084.
 - <a id="source-Moyle1988"> </a>Moyle, Richard M. 1988. Traditional Samoan music. Auckland: Auckland University Press.
 - <a id="source-Moyle1989"> </a>Moyle, Richard M. 1989. The sounds of Oceania. Auckland: Auckland Institute and Museum.
-- <a id="source-Moyleetal2007"> </a>Moyle, ed., Richard M. (ed.) 2007. Oceanic music encounters: The print resource and the human resource, essays in honour of Mervyn McLean. Auckland: University of Auckland Dept. of Anthropology.
-- <a id="source-Moyleetal2011"> </a>Moyle, ed., Richard M. (ed.) 2011. Takuu grammar and dictionary: A Polynesian language of the South Pacific. Canberra: Pacific Linguistics. (Pacific Linguistics 634).
+- <a id="source-Moyleetal2007"> </a>Moyle, Richard M. (ed.) 2007. Oceanic music encounters: The print resource and the human resource, essays in honour of Mervyn McLean. Auckland: University of Auckland Dept. of Anthropology.
+- <a id="source-Moyleetal2011"> </a>Moyle, Richard M. (ed.) 2011. Takuu grammar and dictionary: A Polynesian language of the South Pacific. Canberra: Pacific Linguistics. (Pacific Linguistics 634).
 - <a id="source-MoyseFaurie1993"> </a>Moyse-Faurie, Claire. 1993. Le drehu, langue de Lifou (Îles Loyauté). Paris: SELAF.
 - <a id="source-MoyseFaurie1993b"> </a>Moyse-Faurie, Claire. 1993. Dictionnaire futunien-franqais. Paris: Peeters.
 - <a id="source-MoyseFaurie1995"> </a>Moyse-Faurie, Claire. 1995. Le xârâcùù, langue de Thio-Canala (Nouvelle-Calédonie): Éléments de syntaxe. Langues et cultures du Pacifique 10. Paris: Peeters.
@@ -1613,7 +1616,7 @@
 - <a id="source-Rhodinetal1980"> </a>Rhodin, Sylvia Spring, Anders & Peter Pritchard. 1980. Glossary of turtle vernacular names used in the New Guinea region. Journal of the Polynesian Society 89.1: 105-117.
 - <a id="source-Richards1981"> </a>Richards, Anthony. 1981. An Iban-English dictionary. Oxford: Clarendon Press.
 - <a id="source-Rickard1888"> </a>Rickard, R.H. 1888. A Kuanua dictionary, with additions by H. Fellman circa 1920 and W.L.I. Linggood in 1939. Revised and edited by L.H. Wright in 1964. Rabaul: Methodist Mission Press.
-- <a id="source-Rickard1964"> </a>Rickard, R. H. 1964. A Kuanua dictionary. Additions by H. Fellman ca 1920, W. L. I. Ling- good 1939; rev. and ed. by L. H. Wright. Original edition 1888. Rabaul, PNG: Methodist Mission Press.
+- <a id="source-Rickard1964"> </a>Rickard, R. H. 1964. A Kuanua dictionary. Additions by H. Fellman ca 1920, W. L. I. Linggood 1939; rev. and ed. by L. H. Wright. Original edition 1888. Rabaul, PNG: Methodist Mission Press.
 - <a id="source-Riesenberg1968"> </a>Riesenberg, Saul H. 1968. The native polity of Ponape. Washington DC: Smithsonian Institution Press. (Smithsonian Contributions to Anthropology 10) https://doi.org/ 10.5479/si.00810223.10.1.
 - <a id="source-RiethandCochrane2018"> </a>Rieth, Timothy M. & Ethan E. Cochrane. 2018. The chronology of colonization in Remote Oceania. In Hunt, E. E. Cochrane & T. L. (eds.), _133-161_.
 - <a id="source-Rinderknecht1987"> </a>Rinderknecht, Peter. 1987. Nomen und Verb im melanesischen Tuna (Tolai). Europäische Hochschulshriften XXI/58. Bern: Peter Lang.
@@ -1686,7 +1689,7 @@
 - <a id="source-Ross2018"> </a>Ross, Malcolm. 2018. Western Oceanic revisited. Unpublished ms., Australian National University.
 - <a id="source-Rossinpreparation"> </a>Ross, Malcolm. in preparation. Where did Proto-Oceanic come from? Ms., Australian National University.
 - <a id="source-RossandGreenhill2023"> </a>Ross, Malcolm & Simon J. Greenhill. 2023. Methods in Malayo-Polynesian comparative-historical linguistics. In Schapper, K. Alexander Adelaar & Antoinette (eds.), _The Oxford Guide to the Malayo-Polynesian Languages of Southeast Asia.. Oxford: Oxford University Press. https://doi.org/10.1093/oso/9780198807353.003.0003_.
-- <a id="source-RossandNcess2007"> </a>Ross, Malcolm & Ashild Näess. 2007. An Oceanic origin for Aiwoo, the language of the Reef Islands? Oceanic Linguistics 46: 456-498.
+- <a id="source-RossandNcess2007"> </a>Ross, Malcolm & Ashild Næss. 2007. An Oceanic origin for Aiwoo, the language of the Reef Islands? Oceanic Linguistics 46: 456-498.
 - <a id="source-Rossetal1996"> </a>Ross, Malcolm (ed.) 1996. Studies in languages of New Britain and New Ireland, 1: Austronesian languages of the North New Guinea cluster in north-western New Britain. Canberra: Pacific Linguistics (Pacific Linguistics C-135).
 - <a id="source-Rossetal1998"> </a>Ross, Malcolm, Andrew Pawley & Meredith Osmond (eds.) 1998. The lexicon of Proto Oceanic. vol.1. Material culture. Canberra: Pacific Linguistics.
 - <a id="source-Rossetal2003"> </a>Ross, Malcolm, Andrew Pawley & Meredith Osmond (eds.) 2003. The lexicon of Proto Oceanic: The culture and environment of ancestral Oceanic society. Vol. 2: The physical environment. Canberra: Pacific Linguistics. (Pa cific Linguistics 545).
@@ -1704,7 +1707,7 @@
 - <a id="source-Sahlins1957"> </a>Sahlins, Marshall D. 1957. Differentiation by adaptation in Polynesian societies. Journal of the Polynesian Society 66:291-300.
 - <a id="source-Sahlins1958"> </a>Sahlins, Marshall D. 1958. Social stratification in Polynesia. Seattle: American Ethnological Society.
 - <a id="source-Sahlins1962"> </a>Sahlins, Marshall D. 1962. Moala: culture and nature on a Fijian island. Ann Arbor: The University of Michigan Press. https://doi.org/10.3998/mpub.9690566.
-- <a id="source-SalisburyandMarySalisbury2018"> </a>Salisbury, Kevin & eds Mary Salisbury (eds.) 2018. Te Puka Muna a Te Ulu o te Watu—A dictionary of the language of Pukapuka. Auckland: Te Taka o te Puka Muna— Pukapuka Dictionary Project. Auckland: Te Taka o te Puka Muna : Pukapuka Dictionary Project (https://pukapuka.world/dictionary/).
+- <a id="source-SalisburyandMarySalisbury2018"> </a>Salisbury, Kevin & Mary Salisbury (eds.) 2018. Te Puka Muna a Te Ulu o te Watu—A dictionary of the language of Pukapuka. Auckland: Te Taka o te Puka Muna— Pukapuka Dictionary Project. Auckland: Te Taka o te Puka Muna : Pukapuka Dictionary Project (https://pukapuka.world/dictionary/).
 - <a id="source-Salisbury2002"> </a>Salisbury, Mary C. 2002. A grammar of Pukapukan. PhD thesis, University of Auckland.
 - <a id="source-Salisbury1966"> </a>Salisbury, Richard F. 1966. Politics and shell-money finance in New Britain. In Marc J. Swartz, Victor W. Turner & A. Tuden (eds.), _Political anthropology, 113-128. Chicago: Aldine_.
 - <a id="source-Salzmann1950"> </a>Salzmann, Zdeněk. 1950. A method for analyzing numerical systems. Word 6:78-83. https://doi.org/10.1080/00437956.1950.11659369.

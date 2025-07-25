@@ -179,7 +179,7 @@ Biggs (2006); for Proto Micronesian by scholars associated with the University o
 Alexandre François (several unpublished manuscripts); for Proto North and Central Vanuatu
 by Clark (1996, 2009); for Proto Southern Vanuatu by Lynch (1978, 1996b, 2001); for New
 Caledonia by Ozanne-Rivierre (1992), Haudricourt & Ozanne-Rivierre (1982) and Geraghty
-(1989); for Proto Southeast Solomonic by Levy (1980) and Lichtenberk (1988); for Proto Central
+(1989); for PSES by Levy (1980) and Lichtenberk (1988); for Proto Central
 Pacific by Hockett (1976), Geraghty (1983, 1986, 1996 together with a number of unpublished papers);
 for Proto Eastern Oceanic by Biggs (1965), Cashmore (1969), Levy & Smith
 (1970), and Geraghty (1990); and for Proto Central Papuan by Pawley (1975), Lynch (1978, 1980),
@@ -1009,7 +1009,7 @@ reflex of an established POc etymon, but which does not occur because an irregul
 change has occurred. In such cases the dagger and asterisk conventions are used together. For
 example, in ch.7, §4, we reconstruct POc _*simuk_ ‘mosquito, small biting fly’. Its Proto SE
 Solomonic reflex is reconstructed as _*simi_ (this is the form reflected by the SE Solomonic
-data), but the expected (regular) Proto Southeast Solomonic form, referred to in our discussion, is
+data), but the expected (regular) PSES form, referred to in our discussion, is
 †_*simu_, the regular reflex of POc _*simuk_. The dagger marks it as expected but not attested
 to.
 
@@ -5111,7 +5111,7 @@ POc *taŋiRi ‘_Scombridae_ spp., prob. incl. _Scomberomorus commerson_, narrow
   NNG: Mutu            taŋir          ‘wahoo, mackerel’
   NNG: Bukawa          (i)daŋi        ‘k.o. Spanish mackerel’ (_i_ ‘fish’)
   MM: Patpatar         taŋir          ‘k.o. fish that leaps from the water’
-  MM: Lihir            taŋir          ‘_Scomberomorus commerson_, _Acanthocybium solandri_, _Grammatorycnus bicarinatus_, Spanish mackerel, wahoo and double-lined mackerel’
+  MM: Lihir            taŋir          ‘_Scomberomorus commerson_, _Acanthocybium solandri_, _Grammatorcynus bicarinatus_, Spanish mackerel, wahoo and double-lined mackerel’
   MM: Teop             tanini         ‘wahoo, barred Spanish mackerel’
   MM: Roviana          taŋiri         ‘fish generally got by trolling, k.o. kingfish’
   MM: Maringe          taŋiri         ‘kingfish’
@@ -8525,15 +8525,15 @@ PEOc *lako (1) ‘cone or trochus shell’; (2) ‘various ornaments made from t
    Mic: Woleiaian     raxa     ‘bracelet, wrist ornament’
 >
 
-    Proto Southeast Solomonic _*kome_ evidently referred to a particular kind of armlet, made from
+    PSES _*kome_ evidently referred to a particular kind of armlet, made from
 _*lako_ shell. A partially or fully reduplicated form, _*ko-kome_ or _*komekome_, may have been
-a general name for cone shells in Proto Southeast Solomonic. However, given that _*kome_ referred
+a general name for cone shells in PSES. However, given that _*kome_ referred
 to a valuable trade good, this term may well have spread by borrowing among languages of
 the central and eastern Solomons.
 
 <
-Proto Southeast Solomonic *kome ‘armlets made from cone or trochus shell’
-Proto Southeast Solomonic *ko-kome or *kome-kome ‘generic for cone shells’
+PSES *kome ‘armlets made from cone or trochus shell’
+PSES *ko-kome or *kome-kome ‘generic for cone shells’
   MM:  Maringe       kome-kome    ‘Conidae family (generic)’
   MM:  Maringe       kʰome        ‘cone shell, _Conus leopardus_, used to make armlets’
   SES: Arosi         kome         ‘white shell armlet of _raʔo_ trochus’
@@ -9615,11 +9615,11 @@ cf. also:
   Pn:    Maori         karukaru      ‘spongy matter in a gourd, clotted blood, blood’
 >
 
-   A Proto Southeast Solomonic term for anemone, or possibly jellyfish, is reconstructable which
+   A PSES term for anemone, or possibly jellyfish, is reconstructable which
 may be cognate with PPn _*mama_ ‘chiton’ (see §4.4).
 
 <
-Proto Southeast Solomonic *mama ‘k.o. anemone or jellyfish’
+PSES *mama ‘k.o. anemone or jellyfish’
   SES:      Gela          mama(ndao)     ‘sea creature, soft, no shell’
   SES:      Arosi         mama(nongi)    ‘a sea anemone; eaten’
   SES:      Lau           mama-e-lade    ‘small blue jellyfish on dead coral’ (Fox 1974)
@@ -9729,7 +9729,7 @@ __formgroup__
 
 <
 PEOc *(o,u)du ‘_Leodis viridis_, palolo worm’
-Proto Southeast Solomonic *odu ‘_Leodis viridis_, palolo worm’
+PSES *odu ‘_Leodis viridis_, palolo worm’
   SES: Gela           odu
   SES: Ghari          odu          ‘a worm that lives in coral’
   SES: Arosi          ogu, oku
@@ -11751,7 +11751,7 @@ Around 100 species of land snakes occur in New Guinea, the Bismarck Archipelago 
 Solomon Islands. They include pythons and boas (family Boidae), both of which constrict
 their prey, and a range of tree snakes and ground-dwelling snakes, some of which are highly
 venomous. The best known include the Papuan taipan, _Oxyuranus scutellatus_, the Papuan
-black snake, _Pseudechis papuanus_, and the death adder, _Acanthopis antarcticus_.
+black snake, _Pseudechis papuanus_, and the death adder, _Acanthophis antarcticus_.
 
     Only two species of snake have been reported for Vanuatu: the Flowerpot Snake,
 Typhlops braminus of Efate and the Pacific Boa, Candoia bibroni, also with restricted distribution
@@ -12060,7 +12060,7 @@ cf. also
 >
 
 <
-Proto Southeast Solomonic *bʷari ‘large frog’
+PSES *bʷari ‘large frog’
   SES:     Gela            bari             ‘k.o. large frog’
   SES:     Tolo            bari             ‘large water frog’
   SES:     ’Are’are        pari             ‘small frog’
@@ -13677,7 +13677,7 @@ Proto Northwest Solomonic *katata~*kakata ‘sea eagle, _Haliaeetus_’
 >
 
 <
-Proto Southeast Solomonic *tava ‘hawk or eagle’ (cf POc _*tap(ʷ)a_ ‘glide, soar’ above)
+PSES *tava ‘hawk or eagle’ (cf POc _*tap(ʷ)a_ ‘glide, soar’ above)
    SES:   Gela          tava          ‘small hawk’
    SES:   Malango       tavo(kea)     ‘Brahminy Kite, _Haliastur indus_’
    SES:   To’aba’ita    afa           ‘eagle sp.’
@@ -14422,7 +14422,7 @@ POc *g(a)umu ‘Fruit Dove, _Ptilinopus_ sp.’
 >
 
 <
-Proto Southeast Solomonic *va(o,u) ‘Fruit Dove, _Ptilinopus_ sp.’
+PSES *va(o,u) ‘Fruit Dove, _Ptilinopus_ sp.’
    SES:   Malango        (bela)vau     ‘Yellow-bibbed Fruit Dove, _Ptilinopus solomonensis_) (female)’
    SES:   To’aba’ita     fao           ‘dove sp., green with yellow breast’
    SES:   Kwara’ae       fao           ‘bird sp., not very big, powdery-white like pigeon (_bola_)’
@@ -14780,7 +14780,7 @@ POc *kaRa ‘male Eclectus Parrot, _Eclectus roratus_’
   SES:  Bauro         ɣara          ‘_Eclectus roratus_’
   Fij:  Bauan         ka-kā         ‘Shining Parrot, _Prosopeia_ spp.’
   Fij:  Wayan         ka-kā         ‘possibly Collared Lory, _Phigys solitarius_’
-  Pn:   Tongan        ka-kā         ‘Red Shining Parrot, _Prosopoeia tabuensis_’
+  Pn:   Tongan        ka-kā         ‘Red Shining Parrot, _Prosopeia tabuensis_’
   Pn:   Tahitian      (e)ʔa-ʔa      ‘green parrot sp. with red forehead’ (Forster 1775) (probably _Cyanoramphus_ sp.)
   Pn:   Maori         kā-kā         ‘parrot spp.’
 >
@@ -15809,7 +15809,7 @@ cf. also: The following potential cognate may be a local formation, cf. _tatara_
 >
 
 <
-Proto Southeast Solomonic *riuriu[kabe] ‘Willie Wagtail, _Rhipidura leucophrys_’
+PSES *riuriu[kabe] ‘Willie Wagtail, _Rhipidura leucophrys_’
   SES: Bugotu         riuriuɣabi
   SES: Gela           riuriupege        ‘fantail’
   SES: Malango        riuriuhabe
@@ -16060,7 +16060,7 @@ cf. also: Probable Polynesian borrowing:
 >
 
 <
-Proto Southeast Solomonic *ciŋi(l)o ‘Yellow-faced Mynah, _Mino dumontii_’
+PSES *ciŋi(l)o ‘Yellow-faced Mynah, _Mino dumontii_’
   SES: Malango        ciŋiro
   SES: To’aba’ita     siᵑgio
   SES: Lau            siŋeo         ‘starling’
@@ -16580,7 +16580,7 @@ These Polynesian Outlier names are probably borrowings from Southeast Solomonic 
 Central Vanuatu languages, respectively:
 
 __formgroup__
-   Pn:     Rennellese siviu            ‘Great Sand Plover, _Charadrius leschinaultii_’
+   Pn:     Rennellese siviu            ‘Great Sand Plover, _Charadrius leschenaultii_’
    Pn:     Emae       siviu            ‘large shore bird sp.’
 
 <
@@ -17593,7 +17593,7 @@ POc *ñamuk ‘mosquito’
    The following reconstruction shares the same second syllable as _*ñamuk_ ‘mosquito’.
 Both _*ñamuk_ and _*simuk_ evidently referred to ‘mosquito’ in WOc, although _*simuk_ may
 have had a broader semantic range than _*ñamuk_, its reflexes at times referring to other small
-biting flies. Southeast Solomonic terms reflect Proto Southeast Solomonic _*simi_ rather than †_*simu_.
+biting flies. Southeast Solomonic terms reflect PSES _*simi_ rather than †_*simu_.
 (Maringe _si-simi_ is evidently borrowed from a neighbouring SES language). Reflexes of
 _*simuk_ are not found in subgroups east of the Solomons.
 
@@ -18552,7 +18552,7 @@ cf. also:
     A surprising omission from most wordlists are terms for the taro beetle (Papnana uninodis).
 Although these beetles may be as long-established in the region as the tubers which we
 know were cultivated in Proto Oceanic times, I have not been able to reconstruct a term for
-them other than Proto Southeast Solomonic _*ko[l,R]o-ko[l,R]o_ ‘beetle that attacks plants’. Damage
+them other than PSES _*ko[l,R]o-ko[l,R]o_ ‘beetle that attacks plants’. Damage
 to the tuber is caused by the adult beetles, and not by their larval stage which feeds on soil
 and roots (Robin Hide, pers. comm.). I can locate very few terms for the pest in Western
 Oceanic languages, none cognate. Although damaged tubers cause significant economic loss
@@ -18560,7 +18560,7 @@ in today’s marketing terms, it may be that the damage was of little significan
 were primarily for home consumption.
 
 <
-Proto Southeast Solomonic *ko[l,R]o-ko[l,R]o ‘beetle that attacks plants’
+PSES *ko[l,R]o-ko[l,R]o ‘beetle that attacks plants’
    SES: Bugotu       kololo       ‘coconut beetle’
    SES: Gela         kololo       ‘taro-eating beetle’
    SES: ’Are’are     ʔoro-ʔoro    ‘taro-boring beetle’
@@ -18974,7 +18974,7 @@ POc *koko ‘spider’
   MM:   Tolai           koko           ‘spider: all kinds of house spider’
   MM:   Kandas          ko             ‘spider’
   MM:   Halia           koko(ratski)   ‘spider; starfish’
-Proto Southeast Solomonic *[ko]ko-miji ‘k.o. spider’
+PSES *[ko]ko-miji ‘k.o. spider’
   SES:  Lengo           ka-midi        ‘spider’
   SES:  Longgu          ko-midī        ‘spider’
   SES:  Tolo            koko-mici      ‘large house spider’

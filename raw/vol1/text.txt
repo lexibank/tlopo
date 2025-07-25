@@ -105,7 +105,7 @@ Biggs et al. (1970) and subsequent versions of the POLLEX file, including Biggs 
 have referred to in our work); for Proto Micronesian by scholars at the University of Hawaii
 (Bender et al. 1983); for Proto North/Central Vanuatu by Clark (1994); for Proto Southern
 Vanuatu by Lynch (1978b, 1996b); for New Caledonia by Ozanne-Rivierre (1992), Haudricourt
-and Ozanne-Rivierre (1982) and Geraghty (1989); for Proto Southeast Solomonic by Levy (1980, n.d.)
+and Ozanne-Rivierre (1982) and Geraghty (1989); for PSES by Levy (1980, n.d.)
 and Lichtenberk (1988); for Proto Central Pacific by Hockett (1976) and
 Geraghty (1983, 1986, 1994 and 1996, together with a number of unpublished papers); for Proto
 Eastern Oceanic by Biggs (1965), Cashmore (1969), Levy and Smith (1970), and Geraghty (1990);
@@ -1349,7 +1349,7 @@ history. A good basic description of such a system is provided by Schachter (198
 __table__
 (16)|                                  |                 |                  |
     | | nominalisations _or_ indicative independent imperfective | nominalisations _or_ indicative independent perfective | non-indicative or dependent
-    | Actor focus or intransitive      |    _⟨um⟩_√      |     _\<um-in>_√   |      √
+    | Actor focus or intransitive      |    _⟨um⟩_√      |     _⟨um-in⟩_√   |      √
     | Actor focus only                 |    _[ma]N-_√    |     _naN-_√      |      _paN-_√
     | Patient focus or intransitive    |    √_-en_       |     _⟨in⟩_√      |      √_-a_
     | Location focus                   |    √_-an_       |     _⟨in⟩_√_-an_ |        √_-i_
@@ -1357,7 +1357,7 @@ __table__
 
 : The PMP verbal system (based on Wolff 1973 and Ross 1995a)
 
-The symbol √ represents the verb root and <…> an infix after the root-initial consonant. PMP
+The symbol √ represents the verb root and ⟨…⟩ an infix after the root-initial consonant. PMP
 _-N-_ represents an underlying velar nasal which combined with a root-initial voiceless obstruent
 to give the homorganic nasal, and with a root-initial voiced obstruent to give either the
 homorganic nasal or a nasal + obstruent sequence:
@@ -2951,7 +2951,7 @@ POc *pera '(?) settlement, open space associated with a house or settlement'
    The term _*pera_ is well-attested in both major subgroups of Southeast Solomonic (i.e.
 Cristobal-Malaitan and Guadalcanal-Gelic) but has only one secure external cognate, in
 Manam. The range of meanings or glosses associated with this cognate set makes it impossible
-to make a firm semantic reconstruction either for POc or for Proto Southeast Solomonic. Our
+to make a firm semantic reconstruction either for POc or for PSES. Our
 best guess is that _*pera_ referred to some sort of settlement or space associated with this.
 
    For POc _*malaqai_, Milke (1968) proposed the gloss 'village'. However, that gloss applies
@@ -8753,7 +8753,7 @@ PEAd *n-tol(V)  'large canoe'
  Adm: Drehet         kxoŋ             'canoe, boat'
  Adm: Ponam          hol
  Adm: Loniu          ton
-Proto Southeast Solomonic *tola 'plank-built canoe'
+PSES *tola 'plank-built canoe'
  SES: Bugotu         tola
  SES: Gela           tola             'plank-built canoe with both ends turned up not very high' (Haddon 1937: 100)
  SES: Lau            ola              'plank-built canoe (built up from a plank centre keel, with bow and stern keels), with no outrigger'
@@ -8764,7 +8764,7 @@ Proto Southeast Solomonic *tola 'plank-built canoe'
 
 Evidence for the reconstruction occurs in two geographically separated primary subgroups of
 Oceanic, but apparently nowhere else. Despite this distribution, the evidence would be clear
-enough, were it not for (i) the meaning of the Proto Southeast Solomonic term, reconstructable
+enough, were it not for (i) the meaning of the PSES term, reconstructable
 as 'plank-built canoe', and (ii) the fact that the Lau, Baegu, Kwai and Arosi reflexes could
 well reflect, not _*tola_, but POc _*(q)oRa_ 'strake, probably topstrake (washstrake) (§2.4)
 (Cristobal-Malaitan languages regularly lose POc _*t_). It is possible that the forms _ola_/_ora_
@@ -10195,7 +10195,7 @@ becomes how to combine judiciously the evidence from different disciplines.
 An earlier version of this chapter is included in Lynch and Pat, eds, (1996). I am grateful to
 Andrew Pawley and Malcolm Ross who have contributed substantially to the preparation of this
 chapter, to Atholl Anderson for his comments and to Jean Kennedy for drawing my attention to
-P.H. (Holly) McEldowney's thesis (1995), which contains a wealth of information on fishing
+P.H. (Holly) McEldowney's (1995) thesis (1995), which contains a wealth of information on fishing
 techniques in the Admiralties.
 
 
@@ -10266,7 +10266,7 @@ have referred to an end or pocket of the net.
 PMP *lawa(n,q) 'k.o. fishnet' (ACD)
 POc *lawa((n,q)) 'k.o. fishnet'
   Adm: Loniu          law               'k.o. long narrow fishnet'
-  Adm: Andra          lau               'long medium-mesh barrier net, held upright by floats and weights and secured by men at intervals' (McEldowney)
+  Adm: Andra          lau               'long medium-mesh barrier net, held upright by floats and weights and secured by men at intervals' (McEldowney 1995)
   SES: Arosi          rawa              'small net'
   SES: Sa'a           lawa              'the name of a creeper from which twine for nets is made'
   Fij: Bauan          lawa              'fishing net'
@@ -10408,7 +10408,7 @@ although it is possible that cognates are derived from POc _*raun_ 'leaf':
 
 <
 PCP *rau 'dragline, scareline, made from rope and coconut leaves'
- Fij: Wayan          |rau (sole)|        'barrier of leaves used in a sole rau or ara-rau fish drive'
+ Fij: Wayan          |rau (sole)|        'barrier of leaves used in a _sole rau_ or _ara-rau_ fish drive'
  Pn:  Tongan         au                  'long fishing net made of rope and coconut leaves'
  Pn:  Tikopia        rau                 'sweep with a net'
 >
@@ -10463,7 +10463,7 @@ POc *kawil (N) 'hook; fishhook'
 fishhooks, occurring in all major subgroups. In Tuvalu it is used as a generic, followed by the
 name of the fish for which it is appropriate—_kau galata_, _kau palu_, etc. It has an obvious
 formal and semantic relationship with _*kawi(t)_, _*kawit-i-_ (V) 'hook, catch hold of; fruit
-crook' (Ch. 5, § l O), but the origin of this relationship is not understood.
+crook' (Ch. 5, §10), but the origin of this relationship is not understood.
 
 
                                                   F!shing and hunting implements            217
@@ -10513,7 +10513,7 @@ scales.
 218      Meredith Osmond
                                                                                ,
 
-Figure 30: POc *bayan 'trolling lure, trolling hook'
+Figure 30: POc _*bayan_ 'trolling lure, trolling hook'
 
    We have evidence, both archaeological and linguistic, that trolling lures were also widely
 used. This technique of dragging a line through the water, with a lure of mother-of-pearl or
@@ -10536,7 +10536,7 @@ POc *bayan 'fish bait, trolling lure, trolling hook'
  SV:  Anejom          ne-pyañ           'bait'
  Fij: Wayan           bā                'trolling line with lure'
  Fij: Wayan           baya              'earthworm (earthworms are used for bait)'
- Fij: Bauan           bā                'Tongan variety of fishhook' (_vakasavu ba_ 'troll')
+ Fij: Bauan           bā                'Tongan variety of fishhook' (_vakasavu bā_ 'troll')
  Fij: Bauan           baða              'worm (hence bait for fishing)'
  Pn:  Tongan          pā                'fish hook, especially for catching bonito'
  Pn:  Samoan          pā                'pearlshell lure; spinner including lure and hook'
@@ -10670,7 +10670,7 @@ PWOc *(m,mʷ)ali '_Derris_ root'
 
 
 The method of stunning fish by throwing pounded _Derris_ root into pools is widespread, and
-the three terms seem to have identical reference, although _Derris_ eliptica is not mentioned
+the three terms seem to have identical reference, although _Derris elliptica_ is not mentioned
 specifically in relation to _*puna_. Describing the technique used by Sa'a speakers, a Southeast
 Solomons language, Ivens (1927 (reissued 1972):389) writes that:
 
@@ -10725,7 +10725,7 @@ level-and that is itself a flexible category which can include arrows, and possi
 pointed weapons such as darts and spikes—_*qio(r,R)_ seems to have the widest distribution,
 although it does not occur east of Vanuatu. For the Central Pacific, _*sao(t)_ seems the most
 likely generic term. In POc times, some spears would have had obsidian heads, and the term
-used for these was evidently *koto 'obsidian head of spear' (Ch. 4, §4.1.3).
+used for these was evidently _*koto_ 'obsidian head of spear' (Ch. 4, §4.1.3).
 
 <
 PMP *saet (N, v) 'spear' (ACD)
@@ -10759,8 +10759,7 @@ POc *qio(r,R) 'spear, arrow' (Ross 1994a:464)
 
                                                             Fishing and hunting implements              223
 
-Figure 32: POc _*qio(r,R)_, POc _*sao(t)_, POc _*bako_ all 'spear' or 'k.o. spear'
-(the above are Admiralties spears from Nevermann 1934:345)
+Figure 32: POc _*qio(r,R)_, POc _*sao(t)_, POc _*bako_ all 'spear' or 'k.o. spear' (the above are Admiralties spears from Nevermann_1934:345)
 
 As a subset of the above, certain NNG languages have inserted a medial consonant derived
 from epenthetic glides: Kove _iðo_ 'spear'; Bariai _ido_ 'arrow'; Gitua _izo_ 'spear'; Wogeo _iwo_
@@ -10905,7 +10904,7 @@ POc *tibʷaŋ-i- 'shoot with dart, arrow'
 
 The glosses of the reflexes of POc _*tibʷa(ŋ)_ suggest strongly that it referred prototypically to
 small, arrow-like objects or darts that did not have a killing function. The initial-consonant
-voicing of the PT forms (other than Dobu tupu, which may not be cognate) is unexplained.
+voicing of the PT forms (other than Dobu _tupu_, which may not be cognate) is unexplained.
 
 
 226      Meredith Osmond
@@ -10981,7 +10980,7 @@ POc *gapi '(stone?) club'
 
 <
 POc *maga 'stone; slingshot'
- MM:  Vitu               (ta)maga        'slingshot' (maga-maga 'sand')
+ MM:  Vitu               (ta)maga        'slingshot' (_maga-maga_ 'sand')
  MM:  Bulu               (ta)maga        'slingshot'
  MM:  Nakanai            (tu)maga        'sling made of bark-cloth, used for hunting birds and bats'
  SES: Talise             maka(ra)        'stone'
@@ -11146,7 +11145,7 @@ Tonga), one site at the latter dating back to about 2800 BP. "Most of the Mussau
 fairly large (about 5 cm in shank length) and were probably designed for hand-lining from
 canoes, in order to catch larger benthic species such as groupers. A few hooks are smaller,
 however, and could have been used for taking smaller species on reefs and along coastlines."
-(Kirch 1997: 200). Most hooks so far found are of Turbo, _Trochus_ and pearlshell. Linguistic
+(Kirch 1997: 200). Most hooks so far found are of _Turbo_, _Trochus_ and pearlshell. Linguistic
 evidence supports clamshell and tortoiseshell. Presumably all of these were used, as well as
 the less durable coconut shell, bone and _Pemphis acidula_ wood, which are in use today. Also
 from Mussau sites come examples of carefully crafted lures made from _Trochus_ shell. These
@@ -11225,7 +11224,7 @@ __tablenh__
   _*tibʷa(ŋ)_, _*tibʷaŋ-i-_     | 'dart, arrow; shoot with dart, arrow'
   _*lolo(s)_                  | 'bowstring'
 
-                           232                  Meredith Osmond
+232                  Meredith Osmond
 
 
 The only archaeological evidence we have for spears, bows and arrows, darts, etc. would
@@ -11357,8 +11356,8 @@ exist alongside each other, the conflation of two forms to make a new one is qui
 phonaesthetic motives may lead to the creation of new but similar forms. In §2.2, appeal is
 made to a sporadic sound change which occurs in Oceanic languages in order to explain some
 of the similarities among verbs of scratching and scraping. It is probable, though, that
-phonaesthetic motives have also operated here as they appear to in English scratch, scrap,
-scrape, scrawl, scribble, scrimp.
+phonaesthetic motives have also operated here as they appear to in English _scratch_, _scrap_,
+_scrape_, _scrawl_, _scribble_, _scrimp_.
 
 
 9.2 Abrasion and friction
@@ -11463,19 +11462,18 @@ PWOc *karo 'scratch with fingernails or claws'
 
    Lichtenberk (1994) rightly comments on the formal similarity of terms used for scraping
 (data below) and on its phonaesthetic basis:
-                                                                           ,
 
 238     Malcolm Ross, Ross Clark and Meredith Osmond
 
 __tablenh__
-1) | POc *kara(s), *karas-i-         | 'peel or scrape (skin off tubers)
-   | POc *ko[r,Rja(s), *ko[r,Rjas-i- | 'scrape out (coconut meat +); dregs of strained coconut scrapings'
-2) | POc *kari(s), *karis-i-         | 'scrape (tubers, coconuts)'
-   | PEOc *kori(s), *koris-i-        | 'scrape (esp. coconuts), grate (esp. coconuts)'
-3) | PEOc *kaRi                      | 'scraper; bivalve sp., used as a scraper'
-   | POc *koRi[-]                    | 'scraper; bivalve sp., used as a scraper; scrape with a shell'
-4) | POc *kasi[-]                    | 'k.o. mussel, used as food scraper; scrape out or off'
-   | POc *kosi[-]                    | 'scrape, scratch (to mark s.t.)'
+1) | POc _*kara(s)_, _*karas-i-_         | 'peel or scrape (skin off tubers)
+   | POc _*ko[r,R]a(s)_, _*ko[r,R]as-i-_ | 'scrape out (coconut meat +); dregs of strained coconut scrapings'
+2) | POc _*kari(s)_, _*karis-i-_         | 'scrape (tubers, coconuts)'
+   | PEOc _*kori(s)_, _*koris-i-_        | 'scrape (esp. coconuts), grate (esp. coconuts)'
+3) | PEOc _*kaRi_                      | 'scraper; bivalve sp., used as a scraper'
+   | POc _*koRi[-]_                    | 'scraper; bivalve sp., used as a scraper; scrape with a shell'
+4) | POc _*kasi[-]_                    | 'k.o. mussel, used as food scraper; scrape out or off'
+   | POc _*kosi[-]_                    | 'scrape, scratch (to mark s.t.)'
 
 However, it is notable that the reconstructions above form pairs which can be accounted for
 by a sporadic sound change whereby /a/ becomes /o/ after /k/ in many Oceanic languages,
@@ -11491,10 +11489,10 @@ to whether the object is stuff scraped off (e.g. coconut meat) or the object of 
 coconut shell):
 
 __block__
-1) POc *karas, *karas-i-            'peel or scrape off (stuff scraped off); itch'
-2) POc *kari(s), *karis-i-          'scrape (object of scrapiI).g)'
-3) PEOc *kaRi[-]                    'scraper; bivalve sp., used as a scraper; scrape with a shell'
-4) POc *kasi[-]                     'k.o. mussel, used as food scraper; scrape out or off (stuff scraped out or off); scratch'
+1) POc _*karas_, _*karas-i-_            'peel or scrape off (stuff scraped off); itch'
+2) POc _*kari(s)_, _*karis-i-_          'scrape (object of scraping)'
+3) PEOc _*kaRi[-]_                    'scraper; bivalve sp., used as a scraper; scrape with a shell'
+4) POc _*kasi[-]_                     'k.o. mussel, used as food scraper; scrape out or off (stuff scraped out or off); scratch'
 
 We retain the pairs of forms below, because this interpretation is not conclusive: POc _*kosi_
 may reflect PAn _*keskes_.
@@ -11596,7 +11594,7 @@ POc *koRi[-] 'scraper; bivalve sp., used as a scraper; scrape with a shell'
    PT:  Motu           ori              'grate coconut, chew pandanus fruit'
    MM:  Vitu           kori             'scratch (one's skin)'
    MM:  Tabar          kori-kori        'scrape (coconut)'
-   SES: Gela           goli             'scrape coconut with a tue (fresh water shell)'
+   SES: Gela           goli             'scrape coconut with a _tue_ (fresh water shell)'
    NCV: Nguna          koi              'grate (coconut)'
    Fij: Rotuman        ʔoi              'scrape, grate'
    Fij: Bauan          koi              'scrape (breadfruit)'
@@ -11908,16 +11906,16 @@ were cut. In other cases it is difficult to reconstruct semantic distinctions. R
 verbs are:
 
 __tablenh__
-POc  | *utu(s), *utus-i-      |      'sever, separate'
-POc  | *kutu[-]               |      'cut'
-POc  | *ma-utus, *motus       |      'become, be broken off, severed'
-POc  | *muju                  |      'be clipped off'
-POc  | *mujuki-               |      'clip off (protruding growth close to the surface)'
-POc  | *koti[-]               |      'cut off (hair, taro tops +)'
-POc  | *paRi[-]               |      'cut or lop off branches'
-POc  | *pwuti[-]              |      'cut off'
-POc  | *siba                  |      'cut, slice'
-PEOc | *polos, *polos-i       |      'cut across, sever'
+POc  | _*utu(s)_, _*utus-i-_    |      'sever, separate'
+POc  | _*kutu[-]_               |      'cut'
+POc  | _*ma-utus_, _*motus_     |      'become, be broken off, severed'
+POc  | _*muju_                  |      'be clipped off'
+POc  | _*mujuki-_               |      'clip off (protruding growth close to the surface)'
+POc  | _*koti[-]_               |      'cut off (hair, taro tops +)'
+POc  | _*paRi[-]_               |      'cut or lop off branches'
+POc  | _*pʷuti[-]_              |      'cut off'
+POc  | _*siba_                  |      'cut, slice'
+PEOc | _*polos_, _*polos-i_     |      'cut across, sever'
 
                                           Acts of impact, Force and change of state             247
 
@@ -12000,7 +11998,7 @@ __formgroup__
 
 
    Although the forms attributed to POc _*muju_ 'be terminated' look remarkably similar to
-those attributed to *ma-utus, the differences in form and meaning are consistent enough to
+those attributed to _*ma-utus_, the differences in form and meaning are consistent enough to
 require a separate reconstruction:
 
 <
@@ -12037,7 +12035,7 @@ POc *koti[-] 'cut off (hair, taro tops +)'
    SES: Arosi           ʔoi               'cut off taro tops for planting; to scrape off or peel with a shell; break, as the point of a spear'
    SES: Lau             ʔoi               'break off'
    SES: Kwaio           ʔoi               'break'
-   SES: Sa'a            oʔi               'break' (_mao?i_ 'broken in two')
+   SES: Sa'a            oʔi               'break' (_maoʔi_ 'broken in two')
    NCV: Kiai            koti(a)           'cut'
    SV:  Lenakel         (a)kəs            'cut (hair)'
    Mic: Woleaian        xos               'cut a tuber top'

@@ -37,8 +37,7 @@ The POc term &ast;topu 'sugarcane, _Saccharum officinarum_' continues PAn &ast;t
 <td style="white-space: nowrap;">
 <i>&ast;tebuS</i>
 </td>
-<td>
-'<span>sugarcane</span>' (<a href="../sources/Blust1969">Blust1969</a>)
+<td>'<span>sugarcane</span>' (<a href="../sources/Blust1969">Blust1969</a>)
 </td>
 </tr>
 <tr>
@@ -46,288 +45,231 @@ The POc term &ast;topu 'sugarcane, _Saccharum officinarum_' continues PAn &ast;t
 <td style="white-space: nowrap;">
 <i>&ast;topu</i>
 </td>
-<td>
-'<span>sugarcane, <em>Saccharum officinarum</em></span>' (<span>Capel11943</span>)</td>
+<td>'<span>sugarcane, <em>Saccharum officinarum</em></span>' (<span>Capel11943</span>)</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td><i>tou</i></td>
-<td>
-'<span>sugarcane</span>'</td>
+<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td style="white-space: nowrap;"><i>tou</i></td>
+<td>'<span>sugarcane</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/seimat">Seimat</a></td><td><i>topu</i></td>
-<td>
-'<span>sugarcane</span>'</td>
+<td>Adm</td><td><a href="../languages/seimat">Seimat</a></td><td style="white-space: nowrap;"><i>topu</i></td>
+<td>'<span>sugarcane</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/pak">Pak</a></td><td><i>tuo</i></td>
-<td>
-'<span>sugarcane</span>'</td>
+<td>Adm</td><td><a href="../languages/pak">Pak</a></td><td style="white-space: nowrap;"><i>tuo</i></td>
+<td>'<span>sugarcane</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/poeng">Poeng</a></td><td><i>tau</i></td>
-<td>
-'<span>sugarcane</span>'</td>
+<td>NNG</td><td><a href="../languages/poeng">Poeng</a></td><td style="white-space: nowrap;"><i>tau</i></td>
+<td>'<span>sugarcane</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/tuam">Tuam</a></td><td><i>tov</i></td>
-<td>
-'<span>sugarcane</span>'</td>
+<td>NNG</td><td><a href="../languages/tuam">Tuam</a></td><td style="white-space: nowrap;"><i>tov</i></td>
+<td>'<span>sugarcane</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/lukeppono">Lukep (Pono)</a></td><td><i>to</i></td>
-<td>
-'<span>sugarcane</span>'</td>
+<td>NNG</td><td><a href="../languages/lukeppono">Lukep (Pono)</a></td><td style="white-space: nowrap;"><i>to</i></td>
+<td>'<span>sugarcane</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/gedaged">Gedaged</a></td><td><i>tou</i></td>
-<td>
-'<span>sugarcane</span>'</td>
+<td>NNG</td><td><a href="../languages/gedaged">Gedaged</a></td><td style="white-space: nowrap;"><i>tou</i></td>
+<td>'<span>sugarcane</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td><i>tou</i></td>
-<td>
-'<span>sugarcane</span>'</td>
+<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td style="white-space: nowrap;"><i>tou</i></td>
+<td>'<span>sugarcane</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/wedau">Wedau</a></td><td><i>tom</i></td>
-<td>
-'<span>sugarcane</span>'</td>
+<td>PT</td><td><a href="../languages/wedau">Wedau</a></td><td style="white-space: nowrap;"><i>tom</i></td>
+<td>'<span>sugarcane</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/bwaidoga">Bwaidoga</a></td><td><i>tovu</i></td>
-<td>
-'<span>sugarcane</span>'</td>
+<td>PT</td><td><a href="../languages/bwaidoga">Bwaidoga</a></td><td style="white-space: nowrap;"><i>tovu</i></td>
+<td>'<span>sugarcane</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/duau">Duau</a></td><td><i>tohu</i></td>
-<td>
-'<span>sugarcane</span>'</td>
+<td>PT</td><td><a href="../languages/duau">Duau</a></td><td style="white-space: nowrap;"><i>tohu</i></td>
+<td>'<span>sugarcane</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/sariba">Sariba</a></td><td><i>tou</i></td>
-<td>
-'<span>sugarcane</span>'</td>
+<td>PT</td><td><a href="../languages/sariba">Sariba</a></td><td style="white-space: nowrap;"><i>tou</i></td>
+<td>'<span>sugarcane</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>tohu</i></td>
-<td>
-'<span>sugarcane</span>'</td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td style="white-space: nowrap;"><i>tohu</i></td>
+<td>'<span>sugarcane</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/vitu">Vitu</a></td><td><i>tovu</i></td>
-<td>
-'<span>sugarcane</span>'</td>
+<td>MM</td><td><a href="../languages/vitu">Vitu</a></td><td style="white-space: nowrap;"><i>tovu</i></td>
+<td>'<span>sugarcane</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td><i>tovu</i></td>
-<td>
-'<span>sugarcane</span>'</td>
+<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td style="white-space: nowrap;"><i>tovu</i></td>
+<td>'<span>sugarcane</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tangga">Tangga</a></td><td><i>tuf</i></td>
-<td>
-'<span>sugarcane</span>'</td>
+<td>MM</td><td><a href="../languages/tangga">Tangga</a></td><td style="white-space: nowrap;"><i>tuf</i></td>
+<td>'<span>sugarcane</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/siar">Siar</a></td><td><i>tu</i></td>
-<td>
-'<span>sugarcane</span>'</td>
+<td>MM</td><td><a href="../languages/siar">Siar</a></td><td style="white-space: nowrap;"><i>tu</i></td>
+<td>'<span>sugarcane</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/monoalu">Mono-Alu</a></td><td><i>tohu</i></td>
-<td>
-'<span>sugarcane</span>'</td>
+<td>MM</td><td><a href="../languages/monoalu">Mono-Alu</a></td><td style="white-space: nowrap;"><i>tohu</i></td>
+<td>'<span>sugarcane</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/marovo">Marovo</a></td><td><i>tovu</i></td>
-<td>
-'<span>sugarcane</span>'</td>
+<td>MM</td><td><a href="../languages/marovo">Marovo</a></td><td style="white-space: nowrap;"><i>tovu</i></td>
+<td>'<span>sugarcane</span>'</td>
 </tr>
 <tr>
-<td>TM</td><td><a href="../languages/burna">Buma</a></td><td><i>luro</i></td>
-<td>
-'<span>coconut</span>'</td>
+<td>TM</td><td><a href="../languages/burna">Buma</a></td><td style="white-space: nowrap;"><i>luro</i></td>
+<td>'<span>coconut</span>'</td>
 </tr>
 <tr>
-<td>TM</td><td><a href="../languages/nebao">Nebao</a></td><td><i>na-nə</i></td>
-<td>
-'<span>coconut</span>'</td>
+<td>TM</td><td><a href="../languages/nebao">Nebao</a></td><td style="white-space: nowrap;"><i>na-nə</i></td>
+<td>'<span>coconut</span>'</td>
 </tr>
 <tr>
-<td>TM</td><td><a href="../languages/asuboa">Asumboa</a></td><td><i>u-ñio</i></td>
-<td>
-'<span>coconut</span>'</td>
+<td>TM</td><td><a href="../languages/asuboa">Asumboa</a></td><td style="white-space: nowrap;"><i>u-ñio</i></td>
+<td>'<span>coconut</span>'</td>
 </tr>
 <tr>
-<td>TM</td><td><a href="../languages/tanibili">Tanibili</a></td><td><i>no-ñio</i></td>
-<td>
-'<span>coconut</span>'</td>
+<td>TM</td><td><a href="../languages/tanibili">Tanibili</a></td><td style="white-space: nowrap;"><i>no-ñio</i></td>
+<td>'<span>coconut</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>tovu</i></td>
-<td>
-'<span>sugarcane</span>'</td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td style="white-space: nowrap;"><i>tovu</i></td>
+<td>'<span>sugarcane</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/kwaraae">Kwara’ae</a></td><td><i>ufu</i></td>
-<td>
-'<span>sugarcane</span>'</td>
+<td>SES</td><td><a href="../languages/kwaraae">Kwara’ae</a></td><td style="white-space: nowrap;"><i>ufu</i></td>
+<td>'<span>sugarcane</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>ohu</i></td>
-<td>
-'<span>sugarcane</span>'</td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td style="white-space: nowrap;"><i>ohu</i></td>
+<td>'<span>sugarcane</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>tou</i></td>
-<td>
-'<span>sugarcane</span>'</td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td style="white-space: nowrap;"><i>tou</i></td>
+<td>'<span>sugarcane</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/mwotlap">Mwotlap</a></td><td><i>tōw</i></td>
-<td>
-'<span>sugarcane</span>'</td>
+<td>NCV</td><td><a href="../languages/mwotlap">Mwotlap</a></td><td style="white-space: nowrap;"><i>tōw</i></td>
+<td>'<span>sugarcane</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/ambae">Ambae</a></td><td><i>tovu</i></td>
-<td>
-'<span>sugarcane</span>'</td>
+<td>NCV</td><td><a href="../languages/ambae">Ambae</a></td><td style="white-space: nowrap;"><i>tovu</i></td>
+<td>'<span>sugarcane</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/araki">Araki</a></td><td><i>rovu</i></td>
-<td>
-'<span>sugarcane</span>'</td>
+<td>NCV</td><td><a href="../languages/araki">Araki</a></td><td style="white-space: nowrap;"><i>rovu</i></td>
+<td>'<span>sugarcane</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/tamambo">Tamambo</a></td><td><i>tovu</i></td>
-<td>
-'<span>sugarcane</span>'</td>
+<td>NCV</td><td><a href="../languages/tamambo">Tamambo</a></td><td style="white-space: nowrap;"><i>tovu</i></td>
+<td>'<span>sugarcane</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/nokuku">Nokuku</a></td><td><i>tov[u]</i></td>
-<td>
-'<span>sugarcane</span>'</td>
+<td>NCV</td><td><a href="../languages/nokuku">Nokuku</a></td><td style="white-space: nowrap;"><i>tov[u]</i></td>
+<td>'<span>sugarcane</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/kiai">Kiai</a></td><td><i>tovo</i></td>
-<td>
-'<span>sugarcane</span>'</td>
+<td>NCV</td><td><a href="../languages/kiai">Kiai</a></td><td style="white-space: nowrap;"><i>tovo</i></td>
+<td>'<span>sugarcane</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td><i>toi</i></td>
-<td>
-'<span>sugarcane</span>'</td>
+<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td style="white-space: nowrap;"><i>toi</i></td>
+<td>'<span>sugarcane</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/naman">Naman</a></td><td><i>ni-cəv</i></td>
-<td>
-'<span>sugarcane</span>'</td>
+<td>NCV</td><td><a href="../languages/naman">Naman</a></td><td style="white-space: nowrap;"><i>ni-cəv</i></td>
+<td>'<span>sugarcane</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/neveei">Neve’ei</a></td><td><i>netev</i></td>
-<td>
-'<span>sugarcane</span>'</td>
+<td>NCV</td><td><a href="../languages/neveei">Neve’ei</a></td><td style="white-space: nowrap;"><i>netev</i></td>
+<td>'<span>sugarcane</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/larevat">Larëvat</a></td><td><i>n-sev</i></td>
-<td>
-'<span>sugarcane</span>'</td>
+<td>NCV</td><td><a href="../languages/larevat">Larëvat</a></td><td style="white-space: nowrap;"><i>n-sev</i></td>
+<td>'<span>sugarcane</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/uripiv">Uripiv</a></td><td><i>na-tiv</i></td>
-<td>
-'<span>sugarcane</span>'</td>
+<td>NCV</td><td><a href="../languages/uripiv">Uripiv</a></td><td style="white-space: nowrap;"><i>na-tiv</i></td>
+<td>'<span>sugarcane</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/portsandwich">Port Sandwich</a></td><td><i>na-roev</i></td>
-<td>
-'<span>sugarcane</span>'</td>
+<td>NCV</td><td><a href="../languages/portsandwich">Port Sandwich</a></td><td style="white-space: nowrap;"><i>na-roev</i></td>
+<td>'<span>sugarcane</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td><i>a-tehi</i></td>
-<td>
-'<span>sugarcane</span>'</td>
+<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td style="white-space: nowrap;"><i>a-tehi</i></td>
+<td>'<span>sugarcane</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/lewo">Lewo</a></td><td><i>(puru)tevi</i></td>
-<td>
-'<span>sugarcane</span>'</td>
+<td>NCV</td><td><a href="../languages/lewo">Lewo</a></td><td style="white-space: nowrap;"><i>(puru)tevi</i></td>
+<td>'<span>sugarcane</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/namakir">Namakir</a></td><td><i>tov</i></td>
-<td>
-'<span>sugarcane</span>'</td>
+<td>NCV</td><td><a href="../languages/namakir">Namakir</a></td><td style="white-space: nowrap;"><i>tov</i></td>
+<td>'<span>sugarcane</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/ntanna">N. Tanna</a></td><td><i>nə-təp</i></td>
-<td>
-'<span>sugarcane</span>'</td>
+<td>SV</td><td><a href="../languages/ntanna">North Tanna</a></td><td style="white-space: nowrap;"><i>nə-təp</i></td>
+<td>'<span>sugarcane</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/lenakel">Lenakel</a></td><td><i>nə-ruw</i></td>
-<td>
-'<span>sugarcane</span>'</td>
+<td>SV</td><td><a href="../languages/lenakel">Lenakel</a></td><td style="white-space: nowrap;"><i>nə-ruw</i></td>
+<td>'<span>sugarcane</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/swtanna">S.W. Tanna</a></td><td><i>nə-tukʷ</i></td>
-<td>
-'<span>sugarcane</span>'</td>
+<td>SV</td><td><a href="../languages/swtanna">Southwest Tanna</a></td><td style="white-space: nowrap;"><i>nə-tukʷ</i></td>
+<td>'<span>sugarcane</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>ne-to</i></td>
-<td>
-'<span>sugarcane</span>'</td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td style="white-space: nowrap;"><i>ne-to</i></td>
+<td>'<span>sugarcane</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td><a href="../languages/iaai">Iaai</a></td><td><i>(aa)kü</i></td>
-<td>
-'<span>sugarcane</span>'</td>
+<td>NCal</td><td><a href="../languages/iaai">Iaai</a></td><td style="white-space: nowrap;"><i>(aa)kü</i></td>
+<td>'<span>sugarcane</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td><a href="../languages/xaracuu">Xârâcùù</a></td><td><i>de</i></td>
-<td>
-'<span>sugarcane</span>'</td>
+<td>NCal</td><td><a href="../languages/xaracuu">Xârâcùù</a></td><td style="white-space: nowrap;"><i>de</i></td>
+<td>'<span>sugarcane</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>tou</i></td>
-<td>
-'<span>fruit of the pandanus, chewed like sugarcane</span>'</td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>tou</i></td>
+<td>'<span>fruit of the pandanus, chewed like sugarcane</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kosraean">Kosraean</a></td><td><i>tʌ</i></td>
-<td>
-'<span>sugarcane</span>'</td>
+<td>Mic</td><td><a href="../languages/kosraean">Kosraean</a></td><td style="white-space: nowrap;"><i>tʌ</i></td>
+<td>'<span>sugarcane</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/ponapean">Ponapean</a></td><td><i>sēw</i></td>
-<td>
-'<span>sugarcane</span>'</td>
+<td>Mic</td><td><a href="../languages/ponapean">Ponapean</a></td><td style="white-space: nowrap;"><i>sēw</i></td>
+<td>'<span>sugarcane</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>wōw</i></td>
-<td>
-'<span>sugarcane</span>'</td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td style="white-space: nowrap;"><i>wōw</i></td>
+<td>'<span>sugarcane</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td><i>wōw</i></td>
-<td>
-'<span>sugarcane</span>'</td>
+<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td style="white-space: nowrap;"><i>wōw</i></td>
+<td>'<span>sugarcane</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td><i>wōw</i></td>
-<td>
-'<span>sugarcane</span>'</td>
+<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td style="white-space: nowrap;"><i>wōw</i></td>
+<td>'<span>sugarcane</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>tovu</i></td>
-<td>
-'<span>sugarcane</span>'</td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td style="white-space: nowrap;"><i>tovu</i></td>
+<td>'<span>sugarcane</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>dovu</i></td>
-<td>
-'<span>sugarcane</span>'</td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td style="white-space: nowrap;"><i>dovu</i></td>
+<td>'<span>sugarcane</span>'</td>
 </tr>
 </table>
 
@@ -336,7 +278,7 @@ cf. also:
 <tr>
 <td>Mic</td>
 <td><a href="../languages/marshallese">Marshallese</a></td>
-<td><i>taw</i></td>
+<td style="white-space: nowrap;"><i>taw</i></td>
 <td>
 '<span>sugarcane</span>' (<span>probably a loan, according to Bender et al. 2003</span>)</td>
 </tr>
@@ -392,8 +334,7 @@ Frantisek [Lichtenberk](../sources/Lichtenberk1998) ([1998](../sources/Lichtenbe
 <td style="white-space: nowrap;">
 <i>&ast;buaq</i>
 </td>
-<td>
-'<span>fruit</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>fruit</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -401,202 +342,163 @@ Frantisek [Lichtenberk](../sources/Lichtenberk1998) ([1998](../sources/Lichtenbe
 <td style="white-space: nowrap;">
 <i>&ast;buaq</i>
 </td>
-<td>
-'<span>roundish or fruit-like object, including betelnut, <em>Areca catechu</em></span>' (<span>see above for the full ACD gloss</span>)</td>
+<td>'<span>roundish or fruit-like object, including betelnut, <em>Areca catechu</em></span>' (<span>see above for the full ACD gloss</span>)</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;buaq</i>
 </td>
-<td>
-'<span>betelnut, areca nut, palm, <em>Areca catechu</em></span>' (<span>Capell1943: *pua(q)</span>)</td>
+<td>'<span>betelnut, areca nut, palm, <em>Areca catechu</em></span>' (<span>Capell1943: &ast;pua(q)</span>)</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td><i>(ai) bua</i></td>
-<td>
-'<span><em>Areca catechu</em></span>'</td>
+<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td style="white-space: nowrap;"><i>(ai) bua</i></td>
+<td>'<span><em>Areca catechu</em></span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/loniu">Loniu</a></td><td><i>bue</i></td>
-<td>
-'<span><em>Areca catechu</em></span>' (<a href="../sources/Nevermann1934">Nevermann1934</a>)
+<td>Adm</td><td><a href="../languages/loniu">Loniu</a></td><td style="white-space: nowrap;"><i>bue</i></td>
+<td>'<span><em>Areca catechu</em></span>' (<a href="../sources/Nevermann1934">Nevermann1934</a>)
 </td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/nyindrou">Nyindrou</a></td><td><i>puii</i></td>
-<td>
-'<span><em>Areca catechu</em></span>'</td>
+<td>Adm</td><td><a href="../languages/nyindrou">Nyindrou</a></td><td style="white-space: nowrap;"><i>puii</i></td>
+<td>'<span><em>Areca catechu</em></span>'</td>
 </tr>
 <tr>
-<td>SJ</td><td><a href="../languages/sobei">Sobei</a></td><td><i>pue</i></td>
-<td>
-'<span><em>Areca catechu</em></span>'</td>
+<td>SJ</td><td><a href="../languages/sobei">Sobei</a></td><td style="white-space: nowrap;"><i>pue</i></td>
+<td>'<span><em>Areca catechu</em></span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/tami">Tami</a></td><td><i>bu</i></td>
-<td>
-'<span><em>Areca catechu</em></span>'</td>
+<td>NNG</td><td><a href="../languages/tami">Tami</a></td><td style="white-space: nowrap;"><i>bu</i></td>
+<td>'<span><em>Areca catechu</em></span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/kove">Kove</a></td><td><i>vua</i></td>
-<td>
-'<span><em>Areca catechu</em></span>'</td>
+<td>NNG</td><td><a href="../languages/kove">Kove</a></td><td style="white-space: nowrap;"><i>vua</i></td>
+<td>'<span><em>Areca catechu</em></span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/bariai">Bariai</a></td><td><i>bua</i></td>
-<td>
-'<span><em>Areca catechu</em></span>'</td>
+<td>NNG</td><td><a href="../languages/bariai">Bariai</a></td><td style="white-space: nowrap;"><i>bua</i></td>
+<td>'<span><em>Areca catechu</em></span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/lukep">Lukep</a></td><td><i>bu</i></td>
-<td>
-'<span><em>Areca catechu</em></span>'</td>
+<td>NNG</td><td><a href="../languages/lukep">Lukep</a></td><td style="white-space: nowrap;"><i>bu</i></td>
+<td>'<span><em>Areca catechu</em></span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/yabem">Yabem</a></td><td><i>buʔ</i></td>
-<td>
-'<span><em>Areca catechu</em></span>'</td>
+<td>NNG</td><td><a href="../languages/yabem">Yabem</a></td><td style="white-space: nowrap;"><i>buʔ</i></td>
+<td>'<span><em>Areca catechu</em></span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td><i>bua</i></td>
-<td>
-'<span><em>Areca catechu</em></span>'</td>
+<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td style="white-space: nowrap;"><i>bua</i></td>
+<td>'<span><em>Areca catechu</em></span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/gabadi">Gabadi</a></td><td><i>bua(kau)</i></td>
-<td>
-'<span><em>Areca catechu</em></span>'</td>
+<td>PT</td><td><a href="../languages/gabadi">Gabadi</a></td><td style="white-space: nowrap;"><i>bua(kau)</i></td>
+<td>'<span><em>Areca catechu</em></span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>bua(tau)</i></td>
-<td>
-'<span><em>Areca catechu</em></span>'</td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td style="white-space: nowrap;"><i>bua(tau)</i></td>
+<td>'<span><em>Areca catechu</em></span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/kilivila">Kilivila</a></td><td><i>bua</i></td>
-<td>
-'<span><em>Areca catechu</em></span>'</td>
+<td>PT</td><td><a href="../languages/kilivila">Kilivila</a></td><td style="white-space: nowrap;"><i>bua</i></td>
+<td>'<span><em>Areca catechu</em></span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/vitu">Vitu</a></td><td><i>bua</i></td>
-<td>
-'<span><em>Areca catechu</em></span>'</td>
+<td>MM</td><td><a href="../languages/vitu">Vitu</a></td><td style="white-space: nowrap;"><i>bua</i></td>
+<td>'<span><em>Areca catechu</em></span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/bola">Bola</a></td><td><i>bua</i></td>
-<td>
-'<span><em>Areca catechu</em></span>'</td>
+<td>MM</td><td><a href="../languages/bola">Bola</a></td><td style="white-space: nowrap;"><i>bua</i></td>
+<td>'<span><em>Areca catechu</em></span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td><i>bua</i></td>
-<td>
-'<span><em>Areca catechu</em></span>'</td>
+<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td style="white-space: nowrap;"><i>bua</i></td>
+<td>'<span><em>Areca catechu</em></span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td><i>bua</i></td>
-<td>
-'<span><em>Areca catechu</em></span>'</td>
+<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td style="white-space: nowrap;"><i>bua</i></td>
+<td>'<span><em>Areca catechu</em></span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/notsi">Notsi</a></td><td><i>bua</i></td>
-<td>
-'<span><em>Areca catechu</em></span>'</td>
+<td>MM</td><td><a href="../languages/notsi">Notsi</a></td><td style="white-space: nowrap;"><i>bua</i></td>
+<td>'<span><em>Areca catechu</em></span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tabar">Tabar</a></td><td><i>bua</i></td>
-<td>
-'<span><em>Areca catechu</em></span>'</td>
+<td>MM</td><td><a href="../languages/tabar">Tabar</a></td><td style="white-space: nowrap;"><i>bua</i></td>
+<td>'<span><em>Areca catechu</em></span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tangga">Tangga</a></td><td><i>bu</i></td>
-<td>
-'<span><em>Areca catechu</em></span>'</td>
+<td>MM</td><td><a href="../languages/tangga">Tangga</a></td><td style="white-space: nowrap;"><i>bu</i></td>
+<td>'<span><em>Areca catechu</em></span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tomoip">Tomoip</a></td><td><i>bu</i></td>
-<td>
-'<span><em>Areca catechu</em></span>'</td>
+<td>MM</td><td><a href="../languages/tomoip">Tomoip</a></td><td style="white-space: nowrap;"><i>bu</i></td>
+<td>'<span><em>Areca catechu</em></span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/selau">Selau</a></td><td><i>boko</i></td>
-<td>
-'<span><em>Areca catechu</em></span>'</td>
+<td>MM</td><td><a href="../languages/selau">Selau</a></td><td style="white-space: nowrap;"><i>boko</i></td>
+<td>'<span><em>Areca catechu</em></span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/taiof">Taiof</a></td><td><i>bok</i></td>
-<td>
-'<span><em>Areca catechu</em></span>'</td>
+<td>MM</td><td><a href="../languages/taiof">Taiof</a></td><td style="white-space: nowrap;"><i>bok</i></td>
+<td>'<span><em>Areca catechu</em></span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tinputz">Tinputz</a></td><td><i>poe</i></td>
-<td>
-'<span><em>Areca catechu</em></span>'</td>
+<td>MM</td><td><a href="../languages/tinputz">Tinputz</a></td><td style="white-space: nowrap;"><i>poe</i></td>
+<td>'<span><em>Areca catechu</em></span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/banoni">Banoni</a></td><td><i>buɣava</i></td>
-<td>
-'<span><em>Areca catechu</em></span>' (<span>metathesis of <em>*bu(v)aɣa</em></span>)</td>
+<td>MM</td><td><a href="../languages/banoni">Banoni</a></td><td style="white-space: nowrap;"><i>buɣava</i></td>
+<td>'<span><em>Areca catechu</em></span>' (<span>metathesis of <em>&ast;bu(v)aɣa</em></span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/uruava">Uruava</a></td><td><i>bua</i></td>
-<td>
-'<span><em>Areca catechu</em></span>'</td>
+<td>MM</td><td><a href="../languages/uruava">Uruava</a></td><td style="white-space: nowrap;"><i>bua</i></td>
+<td>'<span><em>Areca catechu</em></span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/torau">Torau</a></td><td><i>buka</i></td>
-<td>
-'<span><em>Areca catechu</em></span>' (<span>metathesis of <em>*buak</em></span>)</td>
+<td>MM</td><td><a href="../languages/torau">Torau</a></td><td style="white-space: nowrap;"><i>buka</i></td>
+<td>'<span><em>Areca catechu</em></span>' (<span>metathesis of <em>&ast;buak</em></span>)</td>
 </tr>
 <tr>
-<td>TM</td><td><a href="../languages/burna">Buma</a></td><td><i>buioe</i></td>
-<td>
-'<span><em>Areca catechu</em></span>'</td>
+<td>TM</td><td><a href="../languages/burna">Buma</a></td><td style="white-space: nowrap;"><i>buioe</i></td>
+<td>'<span><em>Areca catechu</em></span>'</td>
 </tr>
 <tr>
-<td>TM</td><td><a href="../languages/tanema">Tanema</a></td><td><i>boie</i></td>
-<td>
-'<span><em>Areca catechu</em></span>'</td>
+<td>TM</td><td><a href="../languages/tanema">Tanema</a></td><td style="white-space: nowrap;"><i>boie</i></td>
+<td>'<span><em>Areca catechu</em></span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>bua</i></td>
-<td>
-'<span><em>Areca catechu</em></span>'</td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td style="white-space: nowrap;"><i>bua</i></td>
+<td>'<span><em>Areca catechu</em></span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>bua</i></td>
-<td>
-'<span><em>Areca catechu</em></span>'</td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td style="white-space: nowrap;"><i>bua</i></td>
+<td>'<span><em>Areca catechu</em></span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/westguadalcanal">West Guadalcanal</a></td><td><i>bua</i></td>
-<td>
-'<span><em>Areca catechu</em></span>'</td>
+<td>SES</td><td><a href="../languages/westguadalcanal">West Guadalcanal</a></td><td style="white-space: nowrap;"><i>bua</i></td>
+<td>'<span><em>Areca catechu</em></span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/talise">Talise</a></td><td><i>bua</i></td>
-<td>
-'<span><em>Areca catechu</em></span>'</td>
+<td>SES</td><td><a href="../languages/talise">Talise</a></td><td style="white-space: nowrap;"><i>bua</i></td>
+<td>'<span><em>Areca catechu</em></span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>bua</i></td>
-<td>
-'<span><em>Areca catechu</em></span>'</td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td style="white-space: nowrap;"><i>bua</i></td>
+<td>'<span><em>Areca catechu</em></span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td><i>pua</i></td>
-<td>
-'<span><em>Areca catechu</em></span>'</td>
+<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>pua</i></td>
+<td>'<span><em>Areca catechu</em></span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/lenakel">Lenakel</a></td><td><i>na-pʷo(k)</i></td>
-<td>
-'<span>palm sp.</span>'</td>
+<td>SV</td><td><a href="../languages/lenakel">Lenakel</a></td><td style="white-space: nowrap;"><i>na-pʷo(k)</i></td>
+<td>'<span>palm sp.</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/kwamera">Kwamera</a></td><td><i>na-puei</i></td>
-<td>
-'<span>coconut</span>'</td>
+<td>SV</td><td><a href="../languages/kwamera">Kwamera</a></td><td style="white-space: nowrap;"><i>na-puei</i></td>
+<td>'<span>coconut</span>'</td>
 </tr>
 </table>
 
@@ -621,61 +523,50 @@ The reconstruction of POc &ast;[pu-]pulu 'betel pepper, _Piper betle_' is taken 
 <td style="white-space: nowrap;">
 <i>&ast;pu-pulu</i>
 </td>
-<td>
-'<span><em>Piper betle</em></span>' (<span>Frantisek Lichtenberk 1998</span>)</td>
+<td>'<span><em>Piper betle</em></span>' (<span>Frantisek Lichtenberk 1998</span>)</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;[pu-]pulu</i>
 </td>
-<td>
-'<span>betel pepper, <em>Piper betle</em></span>' (<span>Frantisek Lichtenberk 1998: *pulu</span>)</td>
+<td>'<span>betel pepper, <em>Piper betle</em></span>' (<span>Frantisek Lichtenberk 1998: &ast;pulu</span>)</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td><i>ulo</i></td>
-<td>
-'<span>betel pepper, <em>Piper betle</em></span>'</td>
+<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td style="white-space: nowrap;"><i>ulo</i></td>
+<td>'<span>betel pepper, <em>Piper betle</em></span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/loniu">Loniu</a></td><td><i>pun</i></td>
-<td>
-'<span>betel pepper, <em>Piper betle</em></span>'</td>
+<td>Adm</td><td><a href="../languages/loniu">Loniu</a></td><td style="white-space: nowrap;"><i>pun</i></td>
+<td>'<span>betel pepper, <em>Piper betle</em></span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/bipi">Bipi</a></td><td><i>pun</i></td>
-<td>
-'<span>betel leaf</span>'</td>
+<td>Adm</td><td><a href="../languages/bipi">Bipi</a></td><td style="white-space: nowrap;"><i>pun</i></td>
+<td>'<span>betel leaf</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/bipi">Bipi</a></td><td><i>(pue)pun</i></td>
-<td>
-'<span>betel pepper</span>'</td>
+<td>Adm</td><td><a href="../languages/bipi">Bipi</a></td><td style="white-space: nowrap;"><i>(pue)pun</i></td>
+<td>'<span>betel pepper</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/lukeppono">Lukep (Pono)</a></td><td><i>ul</i></td>
-<td>
-'<span>betel pepper, <em>Piper betle</em></span>'</td>
+<td>NNG</td><td><a href="../languages/lukeppono">Lukep (Pono)</a></td><td style="white-space: nowrap;"><i>ul</i></td>
+<td>'<span>betel pepper, <em>Piper betle</em></span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td><i>ful</i></td>
-<td>
-'<span>betel pepper, <em>Piper betle</em></span>'</td>
+<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td style="white-space: nowrap;"><i>ful</i></td>
+<td>'<span>betel pepper, <em>Piper betle</em></span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/gedaged">Gedaged</a></td><td><i>fu</i></td>
-<td>
-'<span>betel pepper, <em>Piper betle</em></span>' (<span>expected final-/ missing</span>)</td>
+<td>NNG</td><td><a href="../languages/gedaged">Gedaged</a></td><td style="white-space: nowrap;"><i>fu</i></td>
+<td>'<span>betel pepper, <em>Piper betle</em></span>' (<span>expected final-/ missing</span>)</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td><i>ulu(salaga)</i></td>
-<td>
-'<span>big variety of betel vine</span>' (<span>Frantisek Lichtenberk 1998; salaga 'be long'</span>)</td>
+<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td style="white-space: nowrap;"><i>ulu(salaga)</i></td>
+<td>'<span>big variety of betel vine</span>' (<span>Frantisek Lichtenberk 1998; salaga 'be long'</span>)</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td><i>vu-vulu</i></td>
-<td>
-'<span>betel pepper, <em>Piper betle</em></span>' (<a href="../sources/HendersonandHancock1988">HendersonandHancock1988</a>)
+<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td style="white-space: nowrap;"><i>vu-vulu</i></td>
+<td>'<span>betel pepper, <em>Piper betle</em></span>' (<a href="../sources/HendersonandHancock1988">HendersonandHancock1988</a>)
 </td>
 </tr>
 </table>
@@ -691,58 +582,47 @@ The reconstruction of POc &ast;[pu-]pulu 'betel pepper, _Piper betle_' is taken 
 <td style="white-space: nowrap;">
 <i>&ast;siqa(r,R)(a)</i>
 </td>
-<td>
-'<span>betel pepper, <em>Piper betle</em></span>'</td>
+<td>'<span>betel pepper, <em>Piper betle</em></span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/karaeast">Kara (East)</a></td><td><i>sie</i></td>
-<td>
-'<span><em>Piper betle</em></span>'</td>
+<td>MM</td><td><a href="../languages/karaeast">Kara (East)</a></td><td style="white-space: nowrap;"><i>sie</i></td>
+<td>'<span><em>Piper betle</em></span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tabar">Tabar</a></td><td><i>sia</i></td>
-<td>
-'<span><em>Piper betle</em></span>'</td>
+<td>MM</td><td><a href="../languages/tabar">Tabar</a></td><td style="white-space: nowrap;"><i>sia</i></td>
+<td>'<span><em>Piper betle</em></span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/lihir">Lihir</a></td><td><i>sie</i></td>
-<td>
-'<span><em>Piper betle</em></span>'</td>
+<td>MM</td><td><a href="../languages/lihir">Lihir</a></td><td style="white-space: nowrap;"><i>sie</i></td>
+<td>'<span><em>Piper betle</em></span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/patpatar">Patpatar</a></td><td><i>sier</i></td>
-<td>
-'<span><em>Piper betle</em></span>'</td>
+<td>MM</td><td><a href="../languages/patpatar">Patpatar</a></td><td style="white-space: nowrap;"><i>sier</i></td>
+<td>'<span><em>Piper betle</em></span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td><i>ier</i></td>
-<td>
-'<span><em>Piper betle</em></span>'</td>
+<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td style="white-space: nowrap;"><i>ier</i></td>
+<td>'<span><em>Piper betle</em></span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/nehan">Nehan</a></td><td><i>hiara</i></td>
-<td>
-'<span><em>Piper betle</em></span>'</td>
+<td>MM</td><td><a href="../languages/nehan">Nehan</a></td><td style="white-space: nowrap;"><i>hiara</i></td>
+<td>'<span><em>Piper betle</em></span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/petats">Petats</a></td><td><i>sil</i></td>
-<td>
-'<span><em>Piper betle</em></span>'</td>
+<td>MM</td><td><a href="../languages/petats">Petats</a></td><td style="white-space: nowrap;"><i>sil</i></td>
+<td>'<span><em>Piper betle</em></span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/teop">Teop</a></td><td><i>hia(kuru)</i></td>
-<td>
-'<span>Piper erectum</span>'</td>
+<td>MM</td><td><a href="../languages/teop">Teop</a></td><td style="white-space: nowrap;"><i>hia(kuru)</i></td>
+<td>'<span>Piper erectum</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tinputz">Tinputz</a></td><td><i>(ta)sian</i></td>
-<td>
-'<span><em>Piper betle</em></span>'</td>
+<td>MM</td><td><a href="../languages/tinputz">Tinputz</a></td><td style="white-space: nowrap;"><i>(ta)sian</i></td>
+<td>'<span><em>Piper betle</em></span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/banoni">Banoni</a></td><td><i>siɣana</i></td>
-<td>
-'<span>betel pepper catkin</span>'</td>
+<td>MM</td><td><a href="../languages/banoni">Banoni</a></td><td style="white-space: nowrap;"><i>siɣana</i></td>
+<td>'<span>betel pepper catkin</span>'</td>
 </tr>
 </table>
 
@@ -751,7 +631,7 @@ cf. also:
 <tr>
 <td>MM</td>
 <td><a href="../languages/marovo">Marovo</a></td>
-<td><i>hirata</i></td>
+<td style="white-space: nowrap;"><i>hirata</i></td>
 <td>
 '<span><em>Piper betle</em></span>'</td>
 </tr>
@@ -783,178 +663,146 @@ The best supported hypothesis appears to be that _Piper methysticum_ is a domest
 <td style="white-space: nowrap;">
 <i>&ast;kawaRi</i>
 </td>
-<td>
-'<span>root(s) with special properties: one or more of <em>Zingiber zerumbet</em>, <em>Piper subbullatum</em>, and various fish-poison plants</span>' (<a href="../sources/Lynch2002f">Lynch2002f</a>)
+<td>'<span>root(s) with special properties: one or more of <em>Zingiber zerumbet</em>, <em>Piper subbullatum</em>, and various fish-poison plants</span>' (<a href="../sources/Lynch2002f">Lynch2002f</a>)
 [^4]</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/baluan">Baluan</a></td><td><i>kau</i></td>
-<td>
-'<span><em>Piper subbullatum</em></span>' (<a href="../sources/Ambrose1991">Ambrose1991</a>)
+<td>Adm</td><td><a href="../languages/baluan">Baluan</a></td><td style="white-space: nowrap;"><i>kau</i></td>
+<td>'<span><em>Piper subbullatum</em></span>' (<a href="../sources/Ambrose1991">Ambrose1991</a>)
 </td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/sissano">Sissano</a></td><td><i>(una)kaw</i></td>
-<td>
-'<span>k.o. ginger</span>'</td>
+<td>NNG</td><td><a href="../languages/sissano">Sissano</a></td><td style="white-space: nowrap;"><i>(una)kaw</i></td>
+<td>'<span>k.o. ginger</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/muyuw">Muyuw</a></td><td><i>ka-kawowa</i></td>
-<td>
-'<span>Piper sp.</span>'</td>
+<td>PT</td><td><a href="../languages/muyuw">Muyuw</a></td><td style="white-space: nowrap;"><i>ka-kawowa</i></td>
+<td>'<span>Piper sp.</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/gapapaiwa">Gapapaiwa</a></td><td><i>kaware</i></td>
-<td>
-'<span>k.o. ginger</span>'</td>
+<td>PT</td><td><a href="../languages/gapapaiwa">Gapapaiwa</a></td><td style="white-space: nowrap;"><i>kaware</i></td>
+<td>'<span>k.o. ginger</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/tubetube">Tubetube</a></td><td><i>kalava</i></td>
-<td>
-'<span><em>Piper subbullatum</em> (?)</span>' (<span>metathesis</span>)</td>
+<td>PT</td><td><a href="../languages/tubetube">Tubetube</a></td><td style="white-space: nowrap;"><i>kalava</i></td>
+<td>'<span><em>Piper subbullatum</em> (?)</span>' (<span>metathesis</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/maringe">Maringe</a></td><td><i>kʰori</i></td>
-<td>
-'<span>(use) fish poison</span>'</td>
+<td>MM</td><td><a href="../languages/maringe">Maringe</a></td><td style="white-space: nowrap;"><i>kʰori</i></td>
+<td>'<span>(use) fish poison</span>'</td>
 </tr>
 <tr>
 <td><strong>PROc</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;kawa</i>
 </td>
-<td>
-'<span>kava</span>'; '<span>ginger, fish-poison plants</span>' (<span>presumably</span>)</td>
+<td>'<span>kava</span>'; '<span>ginger, fish-poison plants</span>' (<span>presumably</span>)</td>
 </tr>
 <tr>
 <td><strong>PNCV</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;kea</i>
 </td>
-<td>
-'<span>kava; sour, bitter</span>' (<a href="../sources/Lynch2004a">Lynch2004a</a>)
+<td>'<span>kava; sour, bitter</span>' (<a href="../sources/Lynch2004a">Lynch2004a</a>)
 </td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/lehali">Lehali</a></td><td><i>n-ɣa</i></td>
-<td>
-'<span>kava</span>'</td>
+<td>NCV</td><td><a href="../languages/lehali">Lehali</a></td><td style="white-space: nowrap;"><i>n-ɣa</i></td>
+<td>'<span>kava</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>ɣea</i></td>
-<td>
-'<span>kava</span>'</td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td style="white-space: nowrap;"><i>ɣea</i></td>
+<td>'<span>kava</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/mwotlap">Mwotlap</a></td><td><i>na-ɣa</i></td>
-<td>
-'<span>kava</span>'</td>
+<td>NCV</td><td><a href="../languages/mwotlap">Mwotlap</a></td><td style="white-space: nowrap;"><i>na-ɣa</i></td>
+<td>'<span>kava</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/veraa">Vera'a</a></td><td><i>ɣie</i></td>
-<td>
-'<span>kava</span>'; '<span>kava; sour, bitter</span>'</td>
+<td>NCV</td><td><a href="../languages/veraa">Vera'a</a></td><td style="white-space: nowrap;"><i>ɣie</i></td>
+<td>'<span>kava</span>'; '<span>kava; sour, bitter</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/mwesen">Mwesen</a></td><td><i>ɣe</i></td>
-<td>
-'<span>kava</span>'</td>
+<td>NCV</td><td><a href="../languages/mwesen">Mwesen</a></td><td style="white-space: nowrap;"><i>ɣe</i></td>
+<td>'<span>kava</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/veraa">Vera'a</a></td><td><i>ɣie</i></td>
-<td>
-'<span>kava</span>'; '<span>kava; sour, bitter</span>'</td>
+<td>NCV</td><td><a href="../languages/veraa">Vera'a</a></td><td style="white-space: nowrap;"><i>ɣie</i></td>
+<td>'<span>kava</span>'; '<span>kava; sour, bitter</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/vures">Vurës</a></td><td><i>ɣe</i></td>
-<td>
-'<span>kava; sour, bitter</span>'</td>
+<td>NCV</td><td><a href="../languages/vures">Vurës</a></td><td style="white-space: nowrap;"><i>ɣe</i></td>
+<td>'<span>kava; sour, bitter</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/araki">Araki</a></td><td><i>hae</i></td>
-<td>
-'<span>kava; sour, bitter</span>'</td>
+<td>NCV</td><td><a href="../languages/araki">Araki</a></td><td style="white-space: nowrap;"><i>hae</i></td>
+<td>'<span>kava; sour, bitter</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/lewo">Lewo</a></td><td><i>(wi)kawa</i></td>
-<td>
-'<span>brackish water</span>' (<span><em>wi</em> 'water'</span>)</td>
+<td>NCV</td><td><a href="../languages/lewo">Lewo</a></td><td style="white-space: nowrap;"><i>(wi)kawa</i></td>
+<td>'<span>brackish water</span>' (<span><em>wi</em> 'water'</span>)</td>
 </tr>
 <tr>
 <td><strong>PCP</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;kawa</i>
 </td>
-<td>
-'<span>kava, Piper sp., fish-poison plants; sour, bitter</span>'; '<span><em>Zingiber</em> spp.</span>' (<span>probably also</span>)</td>
+<td>'<span>kava, Piper sp., fish-poison plants; sour, bitter</span>'; '<span><em>Zingiber</em> spp.</span>' (<span>probably also</span>)</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>(wā)gawa-gawa</i></td>
-<td>
-'<span><em>Piper betle</em></span>'</td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td style="white-space: nowrap;"><i>(wā)gawa-gawa</i></td>
+<td>'<span><em>Piper betle</em></span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/nadroga">Nadroga</a></td><td><i>kawa</i></td>
-<td>
-'<span>fish-poison tree, Euphorbia sp. (?)</span>'</td>
+<td>Fij</td><td><a href="../languages/nadroga">Nadroga</a></td><td style="white-space: nowrap;"><i>kawa</i></td>
+<td>'<span>fish-poison tree, Euphorbia sp. (?)</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/lautoka">Lautoka</a></td><td><i>kawa</i></td>
-<td>
-'<span>fish-poison vine, <em>Derris</em> sp.</span>'</td>
+<td>Fij</td><td><a href="../languages/lautoka">Lautoka</a></td><td style="white-space: nowrap;"><i>kawa</i></td>
+<td>'<span>fish-poison vine, <em>Derris</em> sp.</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/manydialects">(many dialects)</a></td><td><i>kawa</i></td>
-<td>
-'<span>k.o. round fish-trap with mouth on top, made from <em>Derris</em> vines</span>'</td>
+<td>Fij</td><td><a href="../languages/manydialects">(many dialects)</a></td><td style="white-space: nowrap;"><i>kawa</i></td>
+<td>'<span>k.o. round fish-trap with mouth on top, made from <em>Derris</em> vines</span>'</td>
 </tr>
 <tr>
 <td><strong>PPn</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;kawa</i>
 </td>
-<td>
-'<span>kava; sour, bitter</span>'</td>
+<td>'<span>kava; sour, bitter</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>kava</i></td>
-<td>
-'<span>kava</span>'</td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td style="white-space: nowrap;"><i>kava</i></td>
+<td>'<span>kava</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/westfutunan">West Futunan</a></td><td><i>kava</i></td>
-<td>
-'<span>kava</span>'</td>
+<td>Pn</td><td><a href="../languages/westfutunan">West Futunan</a></td><td style="white-space: nowrap;"><i>kava</i></td>
+<td>'<span>kava</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>ʔava</i></td>
-<td>
-'<span>kava</span>'</td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>ʔava</i></td>
+<td>'<span>kava</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>ʔa-ʔava</i></td>
-<td>
-'<span>pungent, acrid</span>'</td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>ʔa-ʔava</i></td>
+<td>'<span>pungent, acrid</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>ʔava</i></td>
-<td>
-'<span>kava; sour, bitter</span>'</td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td style="white-space: nowrap;"><i>ʔava</i></td>
+<td>'<span>kava; sour, bitter</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/rarotongan">Rarotongan</a></td><td><i>kava</i></td>
-<td>
-'<span>kava; sour</span>'</td>
+<td>Pn</td><td><a href="../languages/rarotongan">Rarotongan</a></td><td style="white-space: nowrap;"><i>kava</i></td>
+<td>'<span>kava; sour</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>kawa</i></td>
-<td>
-'<span>sour, bitter; perform certain kinds of ceremony</span>'</td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td style="white-space: nowrap;"><i>kawa</i></td>
+<td>'<span>sour, bitter; perform certain kinds of ceremony</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>kawa-kawa</i></td>
-<td>
-'<span><em>Macropiper excelsum</em></span>'</td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td style="white-space: nowrap;"><i>kawa-kawa</i></td>
+<td>'<span><em>Macropiper excelsum</em></span>'</td>
 </tr>
 </table>
 
@@ -971,23 +819,19 @@ The denotations of PCP &ast;kawa as 'Piper sp.', '_Zingiber_ spp.' and 'fish-poi
 <td style="white-space: nowrap;">
 <i>&ast;kawa-kawa qatua</i>
 </td>
-<td>
-'<span>a shrub or vine, Piper sp.</span>'</td>
+<td>'<span>a shrub or vine, Piper sp.</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/eastfutunan">East Futunan</a></td><td><i>kava-kava atua</i></td>
-<td>
-'<span>a climbing vine, <em>Piper vaupelii</em></span>'</td>
+<td>Pn</td><td><a href="../languages/eastfutunan">East Futunan</a></td><td style="white-space: nowrap;"><i>kava-kava atua</i></td>
+<td>'<span>a climbing vine, <em>Piper vaupelii</em></span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/marquesan">Marquesan</a></td><td><i>kava-kava atua</i></td>
-<td>
-'<span><em>Piper latifolium</em>, Piper tristachyon</span>'</td>
+<td>Pn</td><td><a href="../languages/marquesan">Marquesan</a></td><td style="white-space: nowrap;"><i>kava-kava atua</i></td>
+<td>'<span><em>Piper latifolium</em>, Piper tristachyon</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/rarotongan">Rarotongan</a></td><td><i>kava-kava atua</i></td>
-<td>
-'<span>a shrub, <em>Piper latifolium</em></span>'</td>
+<td>Pn</td><td><a href="../languages/rarotongan">Rarotongan</a></td><td style="white-space: nowrap;"><i>kava-kava atua</i></td>
+<td>'<span>a shrub, <em>Piper latifolium</em></span>'</td>
 </tr>
 </table>
 
@@ -999,23 +843,19 @@ The denotations of PCP &ast;kawa as 'Piper sp.', '_Zingiber_ spp.' and 'fish-poi
 <td style="white-space: nowrap;">
 <i>&ast;kawa-sasa</i>
 </td>
-<td>
-'<span>a creeper used to poison fish</span>'</td>
+<td>'<span>a creeper used to poison fish</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>kava-haha</i></td>
-<td>
-'<span><em>Derris trifoliata</em>, used as a fish poison</span>'</td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td style="white-space: nowrap;"><i>kava-haha</i></td>
+<td>'<span><em>Derris trifoliata</em>, used as a fish poison</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/eastfutunan">East Futunan</a></td><td><i>kava-sasa</i></td>
-<td>
-'<span>a vine</span>'</td>
+<td>Pn</td><td><a href="../languages/eastfutunan">East Futunan</a></td><td style="white-space: nowrap;"><i>kava-sasa</i></td>
+<td>'<span>a vine</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>ʔava-sa</i></td>
-<td>
-'<span>shrub sp., <em>Tephrosia purpurea</em> sp., used to poison fish</span>'</td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>ʔava-sa</i></td>
+<td>'<span>shrub sp., <em>Tephrosia purpurea</em> sp., used to poison fish</span>'</td>
 </tr>
 </table>
 
@@ -1027,28 +867,23 @@ The denotations of PCP &ast;kawa as 'Piper sp.', '_Zingiber_ spp.' and 'fish-poi
 <td style="white-space: nowrap;">
 <i>&ast;kawa-susu</i>
 </td>
-<td>
-'<span>shrub sp., <em>Tephrosia</em> sp., used to poison fish</span>'</td>
+<td>'<span>shrub sp., <em>Tephrosia</em> sp., used to poison fish</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>kau-huhu</i></td>
-<td>
-'<span>a plant used to stupefy fish</span>'</td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td style="white-space: nowrap;"><i>kau-huhu</i></td>
+<td>'<span>a plant used to stupefy fish</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/eastuvean">East Uvean</a></td><td><i>kava-huhu</i></td>
-<td>
-'<span>shrub sp., <em>Tephrosia piscatoria</em></span>'</td>
+<td>Pn</td><td><a href="../languages/eastuvean">East Uvean</a></td><td style="white-space: nowrap;"><i>kava-huhu</i></td>
+<td>'<span>shrub sp., <em>Tephrosia piscatoria</em></span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/eastfutunan">East Futunan</a></td><td><i>kava-susu</i></td>
-<td>
-'<span>shrub sp., the leaves of which are used to poison fish</span>'</td>
+<td>Pn</td><td><a href="../languages/eastfutunan">East Futunan</a></td><td style="white-space: nowrap;"><i>kava-susu</i></td>
+<td>'<span>shrub sp., the leaves of which are used to poison fish</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/nukuoro">Nukuoro</a></td><td><i>gava-usu</i></td>
-<td>
-'<span><em>Barringtonia asiatica</em>, used to poison fish</span>'</td>
+<td>Pn</td><td><a href="../languages/nukuoro">Nukuoro</a></td><td style="white-space: nowrap;"><i>gava-usu</i></td>
+<td>'<span><em>Barringtonia asiatica</em>, used to poison fish</span>'</td>
 </tr>
 </table>
 
@@ -1063,38 +898,31 @@ The denotations of PCP &ast;kawa as 'Piper sp.', '_Zingiber_ spp.' and 'fish-poi
 <td style="white-space: nowrap;">
 <i>&ast;kawa-pui</i>
 </td>
-<td>
-'<span>a plant, <em>Zingiber</em> sp.</span>'</td>
+<td>'<span>a plant, <em>Zingiber</em> sp.</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>kava-pui</i></td>
-<td>
-'<span>plant of the ginger family</span>'</td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td style="white-space: nowrap;"><i>kava-pui</i></td>
+<td>'<span>plant of the ginger family</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/eastuvean">East Uvean</a></td><td><i>kava-pui</i></td>
-<td>
-'<span><em>Zingiber</em> sp.; white ginger, <em>Hedychium coronarium</em></span>'[^5]</td>
+<td>Pn</td><td><a href="../languages/eastuvean">East Uvean</a></td><td style="white-space: nowrap;"><i>kava-pui</i></td>
+<td>'<span><em>Zingiber</em> sp.; white ginger, <em>Hedychium coronarium</em></span>'[^5]</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/anutan">Anutan</a></td><td><i>kava-pui</i></td>
-<td>
-'<span>Alpinia sp.</span>'</td>
+<td>Pn</td><td><a href="../languages/anutan">Anutan</a></td><td style="white-space: nowrap;"><i>kava-pui</i></td>
+<td>'<span>Alpinia sp.</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>ʔava-pui</i></td>
-<td>
-'<span>a herb, <em>Zingiber zerumbet</em></span>'</td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>ʔava-pui</i></td>
+<td>'<span>a herb, <em>Zingiber zerumbet</em></span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>ʔawa-puhi</i></td>
-<td>
-'<span>wild ginger, <em>Zingiber zerumbet</em></span>'</td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td style="white-space: nowrap;"><i>ʔawa-puhi</i></td>
+<td>'<span>wild ginger, <em>Zingiber zerumbet</em></span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tahitian">Tahitian</a></td><td><i>ava-puhi</i></td>
-<td>
-'<span>an odiferous plant</span>'</td>
+<td>Pn</td><td><a href="../languages/tahitian">Tahitian</a></td><td style="white-space: nowrap;"><i>ava-puhi</i></td>
+<td>'<span>an odiferous plant</span>'</td>
 </tr>
 </table>
 
@@ -1181,8 +1009,7 @@ Among languages which retain a reflex of the final consonant, Mussau and Petats 
 <td style="white-space: nowrap;">
 <i>&ast;qauR</i>
 </td>
-<td>
-'<span>bamboo sp.</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>bamboo sp.</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -1190,8 +1017,7 @@ Among languages which retain a reflex of the final consonant, Mussau and Petats 
 <td style="white-space: nowrap;">
 <i>&ast;qauR</i>
 </td>
-<td>
-'<span>type of large bamboo</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>type of large bamboo</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -1199,218 +1025,175 @@ Among languages which retain a reflex of the final consonant, Mussau and Petats 
 <td style="white-space: nowrap;">
 <i>&ast;qauR</i>
 </td>
-<td>
-'<span>bamboo spp.</span>'</td>
+<td>'<span>bamboo spp.</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td><i>kauru</i></td>
-<td>
-'<span>large bamboo from which combs are made</span>' (<span><em><em>k~q_ _</em>d~dr</em></span>)</td>
+<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td style="white-space: nowrap;"><i>kauru</i></td>
+<td>'<span>large bamboo from which combs are made</span>' (<span><em>&ast;k~q</em> <em>&ast;d~dr</em></span>)</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/mangap">Mangap</a></td><td><i>kau-kau</i></td>
-<td>
-'<span>bamboo (big)</span>' (<span><em>*k~q</em></span>)</td>
+<td>NNG</td><td><a href="../languages/mangap">Mangap</a></td><td style="white-space: nowrap;"><i>kau-kau</i></td>
+<td>'<span>bamboo (big)</span>' (<span><em>&ast;k~q</em></span>)</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/bilibil">Bilibil</a></td><td><i>aur</i></td>
-<td>
-'<span>bamboo</span>' (<span><em><em>k~q_ _</em>r~R</em></span>)</td>
+<td>NNG</td><td><a href="../languages/bilibil">Bilibil</a></td><td style="white-space: nowrap;"><i>aur</i></td>
+<td>'<span>bamboo</span>' (<span><em>&ast;k~q</em> <em>&ast;r~R</em></span>)</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/gedaged">Gedaged</a></td><td><i>auɬ</i></td>
-<td>
-'<span>bamboo, tall with thick walls</span>' (<span><em><em>k~q_ _</em>r~R</em></span>)</td>
+<td>NNG</td><td><a href="../languages/gedaged">Gedaged</a></td><td style="white-space: nowrap;"><i>auɬ</i></td>
+<td>'<span>bamboo, tall with thick walls</span>' (<span><em>&ast;k~q</em> <em>&ast;r~R</em></span>)</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/sio">Sio</a></td><td><i>kaul(a)</i></td>
-<td>
-'<span>bamboo</span>' (<span><em><em>k~q_ _</em>r~R</em></span>)</td>
+<td>NNG</td><td><a href="../languages/sio">Sio</a></td><td style="white-space: nowrap;"><i>kaul(a)</i></td>
+<td>'<span>bamboo</span>' (<span><em>&ast;k~q</em> <em>&ast;r~R</em></span>)</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/lukeppono">Lukep (Pono)</a></td><td><i>kau-kau</i></td>
-<td>
-'<span>bamboo</span>' (<span><em>*k~q</em></span>)</td>
+<td>NNG</td><td><a href="../languages/lukeppono">Lukep (Pono)</a></td><td style="white-space: nowrap;"><i>kau-kau</i></td>
+<td>'<span>bamboo</span>' (<span><em>&ast;k~q</em></span>)</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/atui">Atui</a></td><td><i>kaur</i></td>
-<td>
-'<span>bamboo</span>' (<span><em><em>k~q_ _</em>r~R~d~dr</em></span>)</td>
+<td>NNG</td><td><a href="../languages/atui">Atui</a></td><td style="white-space: nowrap;"><i>kaur</i></td>
+<td>'<span>bamboo</span>' (<span><em>&ast;k~q</em> <em>&ast;r~R~d~dr</em></span>)</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/akolet">Akolet</a></td><td><i>e-kaur</i></td>
-<td>
-'<span>bamboo</span>' (<span><em><em>k~q_ _</em>r~R~d~dr</em></span>)</td>
+<td>NNG</td><td><a href="../languages/akolet">Akolet</a></td><td style="white-space: nowrap;"><i>e-kaur</i></td>
+<td>'<span>bamboo</span>' (<span><em>&ast;k~q</em> <em>&ast;r~R~d~dr</em></span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/bali">Bali</a></td><td><i>kaura</i></td>
-<td>
-'<span>bamboo</span>' (<span><em><em>k_ _</em>r~R</em></span>)</td>
+<td>MM</td><td><a href="../languages/bali">Bali</a></td><td style="white-space: nowrap;"><i>kaura</i></td>
+<td>'<span>bamboo</span>' (<span><em>&ast;k</em> <em>&ast;r~R</em></span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td><i>kauru</i></td>
-<td>
-'<span>large bamboo</span>' (<span><em><em>k_ _</em>s~c</em></span>)</td>
+<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td style="white-space: nowrap;"><i>kauru</i></td>
+<td>'<span>large bamboo</span>' (<span><em>&ast;k</em> <em>&ast;s~c</em></span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td><i>kauru</i></td>
-<td>
-'<span>bamboo</span>' (<span><em><em>k~q_ _</em>r~R</em></span>)</td>
+<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td style="white-space: nowrap;"><i>kauru</i></td>
+<td>'<span>bamboo</span>' (<span><em>&ast;k~q</em> <em>&ast;r~R</em></span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td><i>kaur</i></td>
-<td>
-'<span>bamboo, generic</span>' (<span><em><em>k~q_ _</em>r~R</em></span>)</td>
+<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td style="white-space: nowrap;"><i>kaur</i></td>
+<td>'<span>bamboo, generic</span>' (<span><em>&ast;k~q</em> <em>&ast;r~R</em></span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/patpatar">Patpatar</a></td><td><i>kor</i></td>
-<td>
-'<span>bamboo, generic</span>' (<span><em><em>k~q_ _</em>r~R</em></span>)</td>
+<td>MM</td><td><a href="../languages/patpatar">Patpatar</a></td><td style="white-space: nowrap;"><i>kor</i></td>
+<td>'<span>bamboo, generic</span>' (<span><em>&ast;k~q</em> <em>&ast;r~R</em></span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/petats">Petats</a></td><td><i>kahur</i></td>
-<td>
-'<span>bamboo</span>' (<span><em><em>k_ _</em>d~dr</em></span>)</td>
+<td>MM</td><td><a href="../languages/petats">Petats</a></td><td style="white-space: nowrap;"><i>kahur</i></td>
+<td>'<span>bamboo</span>' (<span><em>&ast;k</em> <em>&ast;d~dr</em></span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/selau">Selau</a></td><td><i>kawur</i></td>
-<td>
-'<span>bamboo</span>' (<span><em><em>k_ _</em>r~R~d~dr</em></span>)</td>
+<td>MM</td><td><a href="../languages/selau">Selau</a></td><td style="white-space: nowrap;"><i>kawur</i></td>
+<td>'<span>bamboo</span>' (<span><em>&ast;k</em> <em>&ast;r~R~d~dr</em></span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/monoalu">Mono-Alu</a></td><td><i>aulu</i></td>
-<td>
-'<span>bamboo sp.</span>' (<span><em><em>k_ _</em>r~R~l</em></span>)</td>
+<td>MM</td><td><a href="../languages/monoalu">Mono-Alu</a></td><td style="white-space: nowrap;"><i>aulu</i></td>
+<td>'<span>bamboo sp.</span>' (<span><em>&ast;k</em> <em>&ast;r~R~l</em></span>)</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>ɣau</i></td>
-<td>
-'<span>a bamboo, bamboo knife</span>' (<span><em>*k~q</em></span>)</td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td style="white-space: nowrap;"><i>ɣau</i></td>
+<td>'<span>a bamboo, bamboo knife</span>' (<span><em>&ast;k~q</em></span>)</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td><i>ɣau</i></td>
-<td>
-'<span>bamboo; bamboo sliver used as a knife</span>' (<span><em>*k~q</em></span>)</td>
+<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td style="white-space: nowrap;"><i>ɣau</i></td>
+<td>'<span>bamboo; bamboo sliver used as a knife</span>' (<span><em>&ast;k~q</em></span>)</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/westguadalcanal">West Guadalcanal</a></td><td><i>ɣau-ɣau</i></td>
-<td>
-'<span>bamboo</span>' (<span><em>*k~q</em></span>)</td>
+<td>SES</td><td><a href="../languages/westguadalcanal">West Guadalcanal</a></td><td style="white-space: nowrap;"><i>ɣau-ɣau</i></td>
+<td>'<span>bamboo</span>' (<span><em>&ast;k~q</em></span>)</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>ʔau</i></td>
-<td>
-'<span>bamboo</span>' (<span><em>*k~q</em></span>)</td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td style="white-space: nowrap;"><i>ʔau</i></td>
+<td>'<span>bamboo</span>' (<span><em>&ast;k~q</em></span>)</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/kwaraae">Kwara’ae</a></td><td><i>kaʔo</i></td>
-<td>
-'<span>bamboo (generic)</span>' (<span><em>*k~q</em></span>)</td>
+<td>SES</td><td><a href="../languages/kwaraae">Kwara’ae</a></td><td style="white-space: nowrap;"><i>kaʔo</i></td>
+<td>'<span>bamboo (generic)</span>' (<span><em>&ast;k~q</em></span>)</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>ʔau</i></td>
-<td>
-'<span>bamboo (generic)</span>' (<span><em>*k~q</em></span>)</td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td style="white-space: nowrap;"><i>ʔau</i></td>
+<td>'<span>bamboo (generic)</span>' (<span><em>&ast;k~q</em></span>)</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>äu</i></td>
-<td>
-'<span>bamboo</span>' (<span><em>*k~q</em></span>)</td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>äu</i></td>
+<td>'<span>bamboo</span>' (<span><em>&ast;k~q</em></span>)</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>ʔau</i></td>
-<td>
-'<span>a bamboo</span>' (<span><em>*k~q</em></span>)</td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td style="white-space: nowrap;"><i>ʔau</i></td>
+<td>'<span>a bamboo</span>' (<span><em>&ast;k~q</em></span>)</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>au</i></td>
-<td>
-'<span>the bamboo, generic</span>' (<span><em>*k~q</em></span>)</td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td style="white-space: nowrap;"><i>au</i></td>
+<td>'<span>the bamboo, generic</span>' (<span><em>&ast;k~q</em></span>)</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/seambrym">S.E. Ambrym</a></td><td><i>eou</i></td>
-<td>
-'<span>bamboo</span>' (<span><em>*k~q</em></span>)</td>
+<td>NCV</td><td><a href="../languages/seambrym">Southeast Ambrym</a></td><td style="white-space: nowrap;"><i>eou</i></td>
+<td>'<span>bamboo</span>' (<span><em>&ast;k~q</em></span>)</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td><i>eau</i></td>
-<td>
-'<span>bamboo</span>' (<span><em>*k~q</em></span>)</td>
+<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td style="white-space: nowrap;"><i>eau</i></td>
+<td>'<span>bamboo</span>' (<span><em>&ast;k~q</em></span>)</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/lewo">Lewo</a></td><td><i>(pla)yu</i></td>
-<td>
-'<span>bamboo, as knife</span>' (<span><em>*k~q</em></span>)</td>
+<td>NCV</td><td><a href="../languages/lewo">Lewo</a></td><td style="white-space: nowrap;"><i>(pla)yu</i></td>
+<td>'<span>bamboo, as knife</span>' (<span><em>&ast;k~q</em></span>)</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/portsandwich">Port Sandwich</a></td><td><i>n-au</i></td>
-<td>
-'<span>arrow</span>' (<span><em>*k~q</em></span>)</td>
+<td>NCV</td><td><a href="../languages/portsandwich">Port Sandwich</a></td><td style="white-space: nowrap;"><i>n-au</i></td>
+<td>'<span>arrow</span>' (<span><em>&ast;k~q</em></span>)</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/namakir">Namakir</a></td><td><i>ʔo</i></td>
-<td>
-'<span>bamboo</span>' (<span><em>*q</em></span>)</td>
+<td>NCV</td><td><a href="../languages/namakir">Namakir</a></td><td style="white-space: nowrap;"><i>ʔo</i></td>
+<td>'<span>bamboo</span>' (<span><em>&ast;q</em></span>)</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/nguna">Nguna</a></td><td><i>na-au</i></td>
-<td>
-'<span>wild cane, reed; flute, mouth organ</span>' (<span><em>*k~q</em></span>)</td>
+<td>NCV</td><td><a href="../languages/nguna">Nguna</a></td><td style="white-space: nowrap;"><i>na-au</i></td>
+<td>'<span>wild cane, reed; flute, mouth organ</span>' (<span><em>&ast;k~q</em></span>)</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/sye">Sye</a></td><td><i>n-au</i></td>
-<td>
-'<span>bamboo</span>' (<span><em>*q</em></span>)</td>
+<td>SV</td><td><a href="../languages/sye">Sye</a></td><td style="white-space: nowrap;"><i>n-au</i></td>
+<td>'<span>bamboo</span>' (<span><em>&ast;q</em></span>)</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/ura">Ura</a></td><td><i>n-au</i></td>
-<td>
-'<span>spear</span>' (<span><em>*q</em></span>)</td>
+<td>SV</td><td><a href="../languages/ura">Ura</a></td><td style="white-space: nowrap;"><i>n-au</i></td>
+<td>'<span>spear</span>' (<span><em>&ast;q</em></span>)</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/ntanna">N. Tanna</a></td><td><i>n-ao</i></td>
-<td>
-'<span>bamboo</span>' (<span><em>*q</em></span>)</td>
+<td>SV</td><td><a href="../languages/ntanna">North Tanna</a></td><td style="white-space: nowrap;"><i>n-ao</i></td>
+<td>'<span>bamboo</span>' (<span><em>&ast;q</em></span>)</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/whitesands">Whitesands</a></td><td><i>n-au</i></td>
-<td>
-'<span>bamboo</span>' (<span><em>*q</em></span>)</td>
+<td>SV</td><td><a href="../languages/whitesands">Whitesands</a></td><td style="white-space: nowrap;"><i>n-au</i></td>
+<td>'<span>bamboo</span>' (<span><em>&ast;q</em></span>)</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/lenakel">Lenakel</a></td><td><i>n-au</i></td>
-<td>
-'<span>bamboo</span>' (<span><em>*q</em></span>)</td>
+<td>SV</td><td><a href="../languages/lenakel">Lenakel</a></td><td style="white-space: nowrap;"><i>n-au</i></td>
+<td>'<span>bamboo</span>' (<span><em>&ast;q</em></span>)</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/kwamera">Kwamera</a></td><td><i>n-au</i></td>
-<td>
-'<span>bamboo</span>' (<span><em>*q</em></span>)</td>
+<td>SV</td><td><a href="../languages/kwamera">Kwamera</a></td><td style="white-space: nowrap;"><i>n-au</i></td>
+<td>'<span>bamboo</span>' (<span><em>&ast;q</em></span>)</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>n-au</i></td>
-<td>
-'<span>bamboo</span>' (<span><em>*q</em></span>)</td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td style="white-space: nowrap;"><i>n-au</i></td>
+<td>'<span>bamboo</span>' (<span><em>&ast;q</em></span>)</td>
 </tr>
 <tr>
-<td>NCal</td><td><a href="../languages/nelemwa">Nêlêmwâ</a></td><td><i>ŋ-ga</i></td>
-<td>
-'<span>bamboo</span>' (<span><em>*q</em></span>)</td>
+<td>NCal</td><td><a href="../languages/nelemwa">Nêlêmwâ</a></td><td style="white-space: nowrap;"><i>ŋ-ga</i></td>
+<td>'<span>bamboo</span>' (<span><em>&ast;q</em></span>)</td>
 </tr>
 <tr>
-<td>NCal</td><td><a href="../languages/nyelayu">Nyelâyu</a></td><td><i>ŋ-gao</i></td>
-<td>
-'<span>bamboo</span>' (<span><em>*q</em></span>)</td>
+<td>NCal</td><td><a href="../languages/nyelayu">Nyelâyu</a></td><td style="white-space: nowrap;"><i>ŋ-gao</i></td>
+<td>'<span>bamboo</span>' (<span><em>&ast;q</em></span>)</td>
 </tr>
 <tr>
-<td>NCal</td><td><a href="../languages/jawe">Jawe</a></td><td><i>ŋ-go</i></td>
-<td>
-'<span>bamboo</span>' (<span><em>*q</em></span>)</td>
+<td>NCal</td><td><a href="../languages/jawe">Jawe</a></td><td style="white-space: nowrap;"><i>ŋ-go</i></td>
+<td>'<span>bamboo</span>' (<span><em>&ast;q</em></span>)</td>
 </tr>
 <tr>
-<td>NCal</td><td><a href="../languages/pije">Pije</a></td><td><i>(du)ko</i></td>
-<td>
-'<span>bamboo</span>' (<span><em>*q</em></span>)</td>
+<td>NCal</td><td><a href="../languages/pije">Pije</a></td><td style="white-space: nowrap;"><i>(du)ko</i></td>
+<td>'<span>bamboo</span>' (<span><em>&ast;q</em></span>)</td>
 </tr>
 </table>
 
@@ -1427,98 +1210,79 @@ Reflexes of POc _&ast;bʷau_ 'bamboo' are largely complementary to those of _&as
 <td style="white-space: nowrap;">
 <i>&ast;bʷau</i>
 </td>
-<td>
-'<span>bamboo</span>'</td>
+<td>'<span>bamboo</span>'</td>
 </tr>
 <tr>
-<td>SJ</td><td><a href="../languages/ormu">Ormu</a></td><td><i>bau</i></td>
-<td>
-'<span>bow</span>'</td>
+<td>SJ</td><td><a href="../languages/ormu">Ormu</a></td><td style="white-space: nowrap;"><i>bau</i></td>
+<td>'<span>bow</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/tami">Tami</a></td><td><i>bʷai</i></td>
-<td>
-'<span>bamboo</span>'</td>
+<td>NNG</td><td><a href="../languages/tami">Tami</a></td><td style="white-space: nowrap;"><i>bʷai</i></td>
+<td>'<span>bamboo</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/malasanga">Malasanga</a></td><td><i>boa</i></td>
-<td>
-'<span>bamboo</span>' (<span>irregular loss of <em>*u</em></span>)</td>
+<td>NNG</td><td><a href="../languages/malasanga">Malasanga</a></td><td style="white-space: nowrap;"><i>boa</i></td>
+<td>'<span>bamboo</span>' (<span>irregular loss of <em>&ast;u</em></span>)</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/bing">Bing</a></td><td><i>buau</i></td>
-<td>
-'<span>bamboo</span>'</td>
+<td>NNG</td><td><a href="../languages/bing">Bing</a></td><td style="white-space: nowrap;"><i>buau</i></td>
+<td>'<span>bamboo</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td><i>buau-buau</i></td>
-<td>
-'<span>(house) wall</span>'</td>
+<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td style="white-space: nowrap;"><i>buau-buau</i></td>
+<td>'<span>(house) wall</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/kaiep">Kaiep</a></td><td><i>ba-boi</i></td>
-<td>
-'<span>(house) wall</span>'</td>
+<td>NNG</td><td><a href="../languages/kaiep">Kaiep</a></td><td style="white-space: nowrap;"><i>ba-boi</i></td>
+<td>'<span>(house) wall</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/molima">Molima</a></td><td><i>bau-bau</i></td>
-<td>
-'<span>bamboo tube, smoking pipe made therefrom</span>' (<span>A. Chowning, pers. comm.</span>)</td>
+<td>PT</td><td><a href="../languages/molima">Molima</a></td><td style="white-space: nowrap;"><i>bau-bau</i></td>
+<td>'<span>bamboo tube, smoking pipe made therefrom</span>' (<span>A. Chowning, pers. comm.</span>)</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/dobu">Dobu</a></td><td><i>bau-bau</i></td>
-<td>
-'<span>bamboo</span>'</td>
+<td>PT</td><td><a href="../languages/dobu">Dobu</a></td><td style="white-space: nowrap;"><i>bau-bau</i></td>
+<td>'<span>bamboo</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/duau">Duau</a></td><td><i>bau-bau</i></td>
-<td>
-'<span>bamboo</span>'</td>
+<td>PT</td><td><a href="../languages/duau">Duau</a></td><td style="white-space: nowrap;"><i>bau-bau</i></td>
+<td>'<span>bamboo</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/wedau">Wedau</a></td><td><i>bau-bau</i></td>
-<td>
-'<span>bamboo</span>'</td>
+<td>PT</td><td><a href="../languages/wedau">Wedau</a></td><td style="white-space: nowrap;"><i>bau-bau</i></td>
+<td>'<span>bamboo</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/tawala">Tawala</a></td><td><i>bau-bau</i></td>
-<td>
-'<span>bamboo</span>'</td>
+<td>PT</td><td><a href="../languages/tawala">Tawala</a></td><td style="white-space: nowrap;"><i>bau-bau</i></td>
+<td>'<span>bamboo</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/tubetube">Tubetube</a></td><td><i>bau-bau</i></td>
-<td>
-'<span>bamboo</span>'</td>
+<td>PT</td><td><a href="../languages/tubetube">Tubetube</a></td><td style="white-space: nowrap;"><i>bau-bau</i></td>
+<td>'<span>bamboo</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>bau</i></td>
-<td>
-'<span>bamboo</span>'</td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td style="white-space: nowrap;"><i>bau</i></td>
+<td>'<span>bamboo</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>bʷae</i></td>
-<td>
-'<span>bamboo</span>'</td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td style="white-space: nowrap;"><i>bʷae</i></td>
+<td>'<span>bamboo</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>pʷāɨ</i></td>
-<td>
-'<span>bamboo</span>'</td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td style="white-space: nowrap;"><i>pʷāɨ</i></td>
+<td>'<span>bamboo</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td><i>pʷāw</i></td>
-<td>
-'<span>bamboo</span>'</td>
+<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td style="white-space: nowrap;"><i>pʷāw</i></td>
+<td>'<span>bamboo</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td><i>pʷāy</i></td>
-<td>
-'<span>bamboo</span>'</td>
+<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td style="white-space: nowrap;"><i>pʷāy</i></td>
+<td>'<span>bamboo</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td><a href="../languages/nyelayu">Nyelâyu</a></td><td><i>gao</i></td>
-<td>
-'<span>bamboo</span>'</td>
+<td>NCal</td><td><a href="../languages/nyelayu">Nyelâyu</a></td><td style="white-space: nowrap;"><i>gao</i></td>
+<td>'<span>bamboo</span>'</td>
 </tr>
 </table>
 
@@ -1537,8 +1301,7 @@ The two reconstructions below are better supported by non-Oceanic than by Oceani
 <td style="white-space: nowrap;">
 <i>&ast;bituŋ, &ast;pituŋ</i>
 </td>
-<td>
-'<span>bamboo sp.</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>bamboo sp.</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -1546,8 +1309,7 @@ The two reconstructions below are better supported by non-Oceanic than by Oceani
 <td style="white-space: nowrap;">
 <i>&ast;bitu(ŋ)</i>
 </td>
-<td>
-'<span>bamboo sp.</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>bamboo sp.</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -1555,24 +1317,20 @@ The two reconstructions below are better supported by non-Oceanic than by Oceani
 <td style="white-space: nowrap;">
 <i>&ast;bitu</i>
 </td>
-<td>
-'<span>bamboo sp., probably <em>Schizostachyum glaucifolium</em></span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>bamboo sp., probably <em>Schizostachyum glaucifolium</em></span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>bitu</i></td>
-<td>
-'<span>generic for two bamboo species, <em>Schizostachyum glaucifolium</em> and <em>Bambusa vulgaris</em></span>'</td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td style="white-space: nowrap;"><i>bitu</i></td>
+<td>'<span>generic for two bamboo species, <em>Schizostachyum glaucifolium</em> and <em>Bambusa vulgaris</em></span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>bitu</i></td>
-<td>
-'<span>bamboo, <em>Bambusa</em> sp. or <em>Schizostachyum glaucifolium</em></span>'</td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td style="white-space: nowrap;"><i>bitu</i></td>
+<td>'<span>bamboo, <em>Bambusa</em> sp. or <em>Schizostachyum glaucifolium</em></span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>pitu</i></td>
-<td>
-'<span>bamboo, <em>Bambusa vulgaris</em>, variety with yellow stems</span>'</td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td style="white-space: nowrap;"><i>pitu</i></td>
+<td>'<span>bamboo, <em>Bambusa vulgaris</em>, variety with yellow stems</span>'</td>
 </tr>
 </table>
 
@@ -1584,8 +1342,7 @@ The two reconstructions below are better supported by non-Oceanic than by Oceani
 <td style="white-space: nowrap;">
 <i>&ast;betuŋ</i>
 </td>
-<td>
-'<span>bamboo of very large diameter, probably <em>Dendrocalamus</em> sp.</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>bamboo of very large diameter, probably <em>Dendrocalamus</em> sp.</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -1593,13 +1350,11 @@ The two reconstructions below are better supported by non-Oceanic than by Oceani
 <td style="white-space: nowrap;">
 <i>&ast;botu(ŋ)</i>
 </td>
-<td>
-'<span>large bamboo, presumably <em>Bambusa</em> sp.</span>' (<span>ACD: *potuŋ</span>)</td>
+<td>'<span>large bamboo, presumably <em>Bambusa</em> sp.</span>' (<span>ACD: &ast;potuŋ</span>)</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/lou">Lou</a></td><td><i>pot</i></td>
-<td>
-'<span>large thick bamboo variety</span>'</td>
+<td>Adm</td><td><a href="../languages/lou">Lou</a></td><td style="white-space: nowrap;"><i>pot</i></td>
+<td>'<span>large thick bamboo variety</span>'</td>
 </tr>
 </table>
 
@@ -1611,28 +1366,23 @@ The two reconstructions below are better supported by non-Oceanic than by Oceani
 <td style="white-space: nowrap;">
 <i>&ast;kopu</i>
 </td>
-<td>
-'<span>bamboo sp.</span>'</td>
+<td>'<span>bamboo sp.</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/drehet">Drehet</a></td><td><i>ɔp</i></td>
-<td>
-'<span>bamboo sp.</span>'</td>
+<td>Adm</td><td><a href="../languages/drehet">Drehet</a></td><td style="white-space: nowrap;"><i>ɔp</i></td>
+<td>'<span>bamboo sp.</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/nyindrou">Nyindrou</a></td><td><i>op</i></td>
-<td>
-'<span>bamboo sp.</span>'</td>
+<td>Adm</td><td><a href="../languages/nyindrou">Nyindrou</a></td><td style="white-space: nowrap;"><i>op</i></td>
+<td>'<span>bamboo sp.</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tinputz">Tinputz</a></td><td><i>kop</i></td>
-<td>
-'<span>bamboo sp.</span>'</td>
+<td>MM</td><td><a href="../languages/tinputz">Tinputz</a></td><td style="white-space: nowrap;"><i>kop</i></td>
+<td>'<span>bamboo sp.</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/teop">Teop</a></td><td><i>kopu</i></td>
-<td>
-'<span>bamboo sp.</span>'</td>
+<td>MM</td><td><a href="../languages/teop">Teop</a></td><td style="white-space: nowrap;"><i>kopu</i></td>
+<td>'<span>bamboo sp.</span>'</td>
 </tr>
 </table>
 
@@ -1649,39 +1399,32 @@ The only non-WOe evidence for POc _&ast;bʷele_ 'bamboo' is from Lonwolwol (NCV)
 <td style="white-space: nowrap;">
 <i>&ast;bʷele</i>
 </td>
-<td>
-'<span>bamboo sp.</span>'</td>
+<td>'<span>bamboo sp.</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/maposbuang">Mapos Buang</a></td><td><i>a-pɛl</i></td>
-<td>
-'<span>bamboo sp.</span>'</td>
+<td>NNG</td><td><a href="../languages/maposbuang">Mapos Buang</a></td><td style="white-space: nowrap;"><i>a-pɛl</i></td>
+<td>'<span>bamboo sp.</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/patep">Patep</a></td><td><i>pɛel</i></td>
-<td>
-'<span>bamboo sp.</span>'</td>
+<td>NNG</td><td><a href="../languages/patep">Patep</a></td><td style="white-space: nowrap;"><i>pɛel</i></td>
+<td>'<span>bamboo sp.</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/bulu">Bulu</a></td><td><i>bele</i></td>
-<td>
-'<span>bamboo sp.</span>'</td>
+<td>MM</td><td><a href="../languages/bulu">Bulu</a></td><td style="white-space: nowrap;"><i>bele</i></td>
+<td>'<span>bamboo sp.</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td><i>bele</i></td>
-<td>
-'<span>small cultivated bamboo used for thatching rods</span>' (<a href="../sources/Goodenough1997">Goodenough1997</a>)
+<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td style="white-space: nowrap;"><i>bele</i></td>
+<td>'<span>small cultivated bamboo used for thatching rods</span>' (<a href="../sources/Goodenough1997">Goodenough1997</a>)
 </td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tiang">Tiang</a></td><td><i>bele</i></td>
-<td>
-'<span>bamboo sp.</span>'</td>
+<td>MM</td><td><a href="../languages/tiang">Tiang</a></td><td style="white-space: nowrap;"><i>bele</i></td>
+<td>'<span>bamboo sp.</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/lonwolwol">Lonwolwol</a></td><td><i>bʷele(bo)</i></td>
-<td>
-'<span>bamboo</span>' (<span><em>bʷele-</em> 'hollow vessel'; <em>-bo</em> &lt;POc <em>*bue</em> '(made of) bamboo'</span>)</td>
+<td>NCV</td><td><a href="../languages/lonwolwol">Lonwolwol</a></td><td style="white-space: nowrap;"><i>bʷele(bo)</i></td>
+<td>'<span>bamboo</span>' (<span><em>bʷele-</em> 'hollow vessel'; <em>-bo</em> &lt;POc <em>&ast;bue</em> '(made of) bamboo'</span>)</td>
 </tr>
 </table>
 
@@ -1695,13 +1438,11 @@ Hus (Adm) _ʙu_ 'bamboo' corresponds regularly with the NCV items below, implyin
 <td style="white-space: nowrap;">
 <i>&ast;bue</i>
 </td>
-<td>
-'<span>(made of) bamboo</span>'</td>
+<td>'<span>(made of) bamboo</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/hus">Hus</a></td><td><i>ʙu</i></td>
-<td>
-'<span>bamboo</span>' (<a href="../sources/Nevermann1934">Nevermann1934</a>)
+<td>Adm</td><td><a href="../languages/hus">Hus</a></td><td style="white-space: nowrap;"><i>ʙu</i></td>
+<td>'<span>bamboo</span>' (<a href="../sources/Nevermann1934">Nevermann1934</a>)
 </td>
 </tr>
 <tr>
@@ -1709,69 +1450,56 @@ Hus (Adm) _ʙu_ 'bamboo' corresponds regularly with the NCV items below, implyin
 <td style="white-space: nowrap;">
 <i>&ast;bue</i>
 </td>
-<td>
-'<span>(made of) bamboo</span>' (<a href="../sources/Clark1996">Clark1996</a>)
+<td>'<span>(made of) bamboo</span>' (<a href="../sources/Clark1996">Clark1996</a>)
 </td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>pue</i></td>
-<td>
-'<span>bamboo water-carrier</span>'</td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td style="white-space: nowrap;"><i>pue</i></td>
+<td>'<span>bamboo water-carrier</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td><i>bua</i></td>
-<td>
-'<span>bamboo (generic); knife</span>'</td>
+<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td style="white-space: nowrap;"><i>bua</i></td>
+<td>'<span>bamboo (generic); knife</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/nokuku">Nokuku</a></td><td><i>pue</i></td>
-<td>
-'<span>water-pot</span>'</td>
+<td>NCV</td><td><a href="../languages/nokuku">Nokuku</a></td><td style="white-space: nowrap;"><i>pue</i></td>
+<td>'<span>water-pot</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/kiai">Kiai</a></td><td><i>pue</i></td>
-<td>
-'<span>bamboo</span>'</td>
+<td>NCV</td><td><a href="../languages/kiai">Kiai</a></td><td style="white-space: nowrap;"><i>pue</i></td>
+<td>'<span>bamboo</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/araki">Araki</a></td><td><i>(vi)pue</i></td>
-<td>
-'<span>bamboo tree</span>'</td>
+<td>NCV</td><td><a href="../languages/araki">Araki</a></td><td style="white-space: nowrap;"><i>(vi)pue</i></td>
+<td>'<span>bamboo tree</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/tamambo">Tamambo</a></td><td><i>(vu)bue</i></td>
-<td>
-'<span>bamboo tree</span>'</td>
+<td>NCV</td><td><a href="../languages/tamambo">Tamambo</a></td><td style="white-space: nowrap;"><i>(vu)bue</i></td>
+<td>'<span>bamboo tree</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/uripiv">Uripiv</a></td><td><i>na-ʙu</i></td>
-<td>
-'<span>bamboo</span>'</td>
+<td>NCV</td><td><a href="../languages/uripiv">Uripiv</a></td><td style="white-space: nowrap;"><i>na-ʙu</i></td>
+<td>'<span>bamboo</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/portsandwich">Port Sandwich</a></td><td><i>na-mbu</i></td>
-<td>
-'<span>bamboo; bamboo water container; bamboo knife</span>'</td>
+<td>NCV</td><td><a href="../languages/portsandwich">Port Sandwich</a></td><td style="white-space: nowrap;"><i>na-mbu</i></td>
+<td>'<span>bamboo; bamboo water container; bamboo knife</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/portsandwich">Port Sandwich</a></td><td><i>mbʷe(var)</i></td>
-<td>
-'<span>hard bamboo</span>' (<span><em>na-var</em> 'stone'</span>)</td>
+<td>NCV</td><td><a href="../languages/portsandwich">Port Sandwich</a></td><td style="white-space: nowrap;"><i>mbʷe(var)</i></td>
+<td>'<span>hard bamboo</span>' (<span><em>na-var</em> 'stone'</span>)</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/labo">Labo</a></td><td><i>(na-na)mbuo</i></td>
-<td>
-'<span>bamboo</span>'</td>
+<td>NCV</td><td><a href="../languages/labo">Labo</a></td><td style="white-space: nowrap;"><i>(na-na)mbuo</i></td>
+<td>'<span>bamboo</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/lonwolwol">Lonwolwol</a></td><td><i>(bʷele)bo</i></td>
-<td>
-'<span>bamboo</span>' (<span><em>bʷele-</em> 'hollow vessel, empty shell of</span>)</td>
+<td>NCV</td><td><a href="../languages/lonwolwol">Lonwolwol</a></td><td style="white-space: nowrap;"><i>(bʷele)bo</i></td>
+<td>'<span>bamboo</span>' (<span><em>bʷele-</em> 'hollow vessel, empty shell of</span>)</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/lewo">Lewo</a></td><td><i>(pila)pʷe</i></td>
-<td>
-'<span>bamboo (used for walls of house); length of thatch woven on bamboo</span>'</td>
+<td>NCV</td><td><a href="../languages/lewo">Lewo</a></td><td style="white-space: nowrap;"><i>(pila)pʷe</i></td>
+<td>'<span>bamboo (used for walls of house); length of thatch woven on bamboo</span>'</td>
 </tr>
 </table>
 
@@ -1802,8 +1530,7 @@ POc _&ast;tuRi-tuRi_ '_Aleurites moluccana_' is reconstructed below. It is quite
 <td style="white-space: nowrap;">
 <i>&ast;tuRi-tuRi</i>
 </td>
-<td>
-'<span>candlenut tree, <em>Aleurites moluccana</em></span>' (<span>?</span>) (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>candlenut tree, <em>Aleurites moluccana</em></span>' (<span>?</span>) (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -1811,81 +1538,66 @@ POc _&ast;tuRi-tuRi_ '_Aleurites moluccana_' is reconstructed below. It is quite
 <td style="white-space: nowrap;">
 <i>&ast;tuRi-tuRi</i>
 </td>
-<td>
-'<span>candlenut tree, <em>Aleurites moluccana</em></span>' (<span>?</span>)</td>
+<td>'<span>candlenut tree, <em>Aleurites moluccana</em></span>' (<span>?</span>)</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>turi-turi</i></td>
-<td>
-'<span><em>Cordia subcordata</em></span>'</td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td style="white-space: nowrap;"><i>turi-turi</i></td>
+<td>'<span><em>Cordia subcordata</em></span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/roro">Roro</a></td><td><i>curi-curi</i></td>
-<td>
-'<span>tree sp., with wood used for making drums</span>'</td>
+<td>PT</td><td><a href="../languages/roro">Roro</a></td><td style="white-space: nowrap;"><i>curi-curi</i></td>
+<td>'<span>tree sp., with wood used for making drums</span>'</td>
 </tr>
 <tr>
 <td><strong>PCP</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;tui-tui</i>
 </td>
-<td>
-'<span>candlenut tree, <em>Aleurites moluccana</em></span>'</td>
+<td>'<span>candlenut tree, <em>Aleurites moluccana</em></span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>tui-tui</i></td>
-<td>
-'<span>candlenut, <em>Aleurites moluccana</em></span>'</td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td style="white-space: nowrap;"><i>tui-tui</i></td>
+<td>'<span>candlenut, <em>Aleurites moluccana</em></span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>tui-tui</i></td>
-<td>
-'<span>candlenut, <em>Aleurites moluccana</em></span>'</td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td style="white-space: nowrap;"><i>tui-tui</i></td>
+<td>'<span>candlenut, <em>Aleurites moluccana</em></span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>tui-tui</i></td>
-<td>
-'<span>candlenut, <em>Aleurites moluccana</em></span>'</td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td style="white-space: nowrap;"><i>tui-tui</i></td>
+<td>'<span>candlenut, <em>Aleurites moluccana</em></span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/eastuvean">East Uvean</a></td><td><i>tui-tui</i></td>
-<td>
-'<span>candlenut, <em>Aleurites moluccana</em></span>'</td>
+<td>Pn</td><td><a href="../languages/eastuvean">East Uvean</a></td><td style="white-space: nowrap;"><i>tui-tui</i></td>
+<td>'<span>candlenut, <em>Aleurites moluccana</em></span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/eastfutunan">East Futunan</a></td><td><i>tui-tui</i></td>
-<td>
-'<span>candlenut, <em>Aleurites moluccana</em></span>'</td>
+<td>Pn</td><td><a href="../languages/eastfutunan">East Futunan</a></td><td style="white-space: nowrap;"><i>tui-tui</i></td>
+<td>'<span>candlenut, <em>Aleurites moluccana</em></span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/westfutunan">West Futunan</a></td><td><i>tu-tui</i></td>
-<td>
-'<span>candlenut, <em>Aleurites moluccana</em></span>'</td>
+<td>Pn</td><td><a href="../languages/westfutunan">West Futunan</a></td><td style="white-space: nowrap;"><i>tu-tui</i></td>
+<td>'<span>candlenut, <em>Aleurites moluccana</em></span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/emae">Emae</a></td><td><i>tui-tui</i></td>
-<td>
-'<span>candlenut, <em>Aleurites moluccana</em></span>'</td>
+<td>Pn</td><td><a href="../languages/emae">Emae</a></td><td style="white-space: nowrap;"><i>tui-tui</i></td>
+<td>'<span>candlenut, <em>Aleurites moluccana</em></span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tahitian">Tahitian</a></td><td><i>tu-tui</i></td>
-<td>
-'<span>candlenut, <em>Aleurites moluccana</em></span>'</td>
+<td>Pn</td><td><a href="../languages/tahitian">Tahitian</a></td><td style="white-space: nowrap;"><i>tu-tui</i></td>
+<td>'<span>candlenut, <em>Aleurites moluccana</em></span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tuamotuan">Tuamotuan</a></td><td><i>tui-tui</i></td>
-<td>
-'<span>candlenut, <em>Aleurites moluccana</em></span>'</td>
+<td>Pn</td><td><a href="../languages/tuamotuan">Tuamotuan</a></td><td style="white-space: nowrap;"><i>tui-tui</i></td>
+<td>'<span>candlenut, <em>Aleurites moluccana</em></span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>ku-kui</i></td>
-<td>
-'<span>candlenut, <em>Aleurites moluccana</em></span>'</td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td style="white-space: nowrap;"><i>ku-kui</i></td>
+<td>'<span>candlenut, <em>Aleurites moluccana</em></span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/rarotongan">Rarotongan</a></td><td><i>tui-tui</i></td>
-<td>
-'<span>candlenut, <em>Aleurites moluccana</em></span>'</td>
+<td>Pn</td><td><a href="../languages/rarotongan">Rarotongan</a></td><td style="white-space: nowrap;"><i>tui-tui</i></td>
+<td>'<span>candlenut, <em>Aleurites moluccana</em></span>'</td>
 </tr>
 </table>
 
@@ -1914,91 +1626,75 @@ POc _&ast;malo_ probably denoted _Broussonetia papyrifera_, the tree which throu
 <td style="white-space: nowrap;">
 <i>&ast;mal(u,aw)</i>
 </td>
-<td>
-'<span>tree whose bast is used for barkcloth</span>'[^11]</td>
+<td>'<span>tree whose bast is used for barkcloth</span>'[^11]</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;malo</i>
 </td>
-<td>
-'<span>paper mulberry, <em>Broussonetia papyrifera</em>; barkcloth, loincloth</span>' (<a href="../sources/Milke1968">Milke1968</a>)
+<td>'<span>paper mulberry, <em>Broussonetia papyrifera</em>; barkcloth, loincloth</span>' (<a href="../sources/Milke1968">Milke1968</a>)
 </td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/kove">Kove</a></td><td><i>malo</i></td>
-<td>
-'<span>male genital covering</span>' (<span>A. Chowning, pers. comm.</span>)</td>
+<td>NNG</td><td><a href="../languages/kove">Kove</a></td><td style="white-space: nowrap;"><i>malo</i></td>
+<td>'<span>male genital covering</span>' (<span>A. Chowning, pers. comm.</span>)</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/gedaged">Gedaged</a></td><td><i>mal</i></td>
-<td>
-'<span>tree, bark used for G-strings and blankets; loincloth made from this</span>'</td>
+<td>NNG</td><td><a href="../languages/gedaged">Gedaged</a></td><td style="white-space: nowrap;"><i>mal</i></td>
+<td>'<span>tree, bark used for G-strings and blankets; loincloth made from this</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td><i>malu</i></td>
-<td>
-'<span>tree sp., loin cloth made from pounded bark</span>'</td>
+<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td style="white-space: nowrap;"><i>malu</i></td>
+<td>'<span>tree sp., loin cloth made from pounded bark</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td><i>malo</i></td>
-<td>
-'<span>barkcloth belt from dodoli tree, given to a boy at first initiation</span>' (<a href="../sources/Bohm1983">Bohm1983: 81</a>)
+<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td style="white-space: nowrap;"><i>malo</i></td>
+<td>'<span>barkcloth belt from dodoli tree, given to a boy at first initiation</span>' (<a href="../sources/Bohm1983">Bohm1983: 81</a>)
 </td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/patpatar">Patpatar</a></td><td><i>māl</i></td>
-<td>
-'<span>cloth, clothing</span>'</td>
+<td>MM</td><td><a href="../languages/patpatar">Patpatar</a></td><td style="white-space: nowrap;"><i>māl</i></td>
+<td>'<span>cloth, clothing</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td><i>mal</i></td>
-<td>
-'<span><em>Broussonetia papyrifera</em>; native cloth made from bark of this tree</span>'</td>
+<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td style="white-space: nowrap;"><i>mal</i></td>
+<td>'<span><em>Broussonetia papyrifera</em>; native cloth made from bark of this tree</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/teop">Teop</a></td><td><i>maro</i></td>
-<td>
-'<span>cloth, clothing</span>'</td>
+<td>MM</td><td><a href="../languages/teop">Teop</a></td><td style="white-space: nowrap;"><i>maro</i></td>
+<td>'<span>cloth, clothing</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>maro</i></td>
-<td>
-'<span><em>Broussonetia papyrifera</em>; beaten cloth of the maro tree</span>'</td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td style="white-space: nowrap;"><i>maro</i></td>
+<td>'<span><em>Broussonetia papyrifera</em>; beaten cloth of the maro tree</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td><i>malo</i></td>
-<td>
-'<span>men's loincloth</span>'</td>
+<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td style="white-space: nowrap;"><i>malo</i></td>
+<td>'<span>men's loincloth</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>malo</i></td>
-<td>
-'<span><em>Broussonetia papyrifera</em>; hence the native cloth made from it and the former native male dress, passed between the thighs and fastened with a girdle</span>'</td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td style="white-space: nowrap;"><i>malo</i></td>
+<td>'<span><em>Broussonetia papyrifera</em>; hence the native cloth made from it and the former native male dress, passed between the thighs and fastened with a girdle</span>'</td>
 </tr>
 <tr>
 <td><strong>PPn</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;malo</i>
 </td>
-<td>
-'<span>barkcloth loin garment</span>' (<span>POLLEX</span>)</td>
+<td>'<span>barkcloth loin garment</span>' (<span>POLLEX</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/emae">Emae</a></td><td><i>maro</i></td>
-<td>
-'<span>barkcloth</span>'</td>
+<td>Pn</td><td><a href="../languages/emae">Emae</a></td><td style="white-space: nowrap;"><i>maro</i></td>
+<td>'<span>barkcloth</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>malo</i></td>
-<td>
-'<span>loincloth</span>'</td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>malo</i></td>
+<td>'<span>loincloth</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>malo</i></td>
-<td>
-'<span>loin garment</span>'</td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td style="white-space: nowrap;"><i>malo</i></td>
+<td>'<span>loin garment</span>'</td>
 </tr>
 </table>
 
@@ -2013,29 +1709,24 @@ POc _&ast;malo_ probably denoted _Broussonetia papyrifera_, the tree which throu
 <td style="white-space: nowrap;">
 <i>&ast;(m,mʷ)ase</i>
 </td>
-<td>
-'<span>wild mulberry, paper mulberry, <em>Broussonetia papyrifera</em></span>' (<a href="../sources/Ross1996d">Ross1996d</a>)
+<td>'<span>wild mulberry, paper mulberry, <em>Broussonetia papyrifera</em></span>' (<a href="../sources/Ross1996d">Ross1996d</a>)
 </td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/maposbuang">Mapos Buang</a></td><td><i>ñɛ̃s</i></td>
-<td>
-'<span><em>Broussonetia papyrifera</em></span>'</td>
+<td>NNG</td><td><a href="../languages/maposbuang">Mapos Buang</a></td><td style="white-space: nowrap;"><i>ñɛ̃s</i></td>
+<td>'<span><em>Broussonetia papyrifera</em></span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td><i>mae</i></td>
-<td>
-'<span><em>Broussonetia papyrifera</em></span>'</td>
+<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td style="white-space: nowrap;"><i>mae</i></td>
+<td>'<span><em>Broussonetia papyrifera</em></span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>masi</i></td>
-<td>
-'<span><em>Broussonetia papyrifera</em></span>'</td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td style="white-space: nowrap;"><i>masi</i></td>
+<td>'<span><em>Broussonetia papyrifera</em></span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td><i>mɔsi</i></td>
-<td>
-'<span>tree sp. used to make bark cloth</span>'</td>
+<td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td style="white-space: nowrap;"><i>mɔsi</i></td>
+<td>'<span>tree sp. used to make bark cloth</span>'</td>
 </tr>
 </table>
 
@@ -2071,89 +1762,72 @@ The distributions of POc _&ast;ñoñu_ and _&ast;kurat_ are complementary: _&ast
 <td style="white-space: nowrap;">
 <i>&ast;ñoñu</i>
 </td>
-<td>
-'<span><em>Morinda citrifolia</em></span>' (<span>Milke 1965: <em>*nonum</em>; Blust 1978b</span>)</td>
+<td>'<span><em>Morinda citrifolia</em></span>' (<span>Milke 1965: <em>&ast;nonum</em>; Blust 1978b</span>)</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/seimat">Seimat</a></td><td><i>naun</i></td>
-<td>
-'<span><em>Morinda citrifolia</em></span>' (<span><em>*-o-</em> &gt; Seimat <em>-au-</em></span>) (<a href="../sources/Sorensen1950">Sorensen1950</a>)
+<td>Adm</td><td><a href="../languages/seimat">Seimat</a></td><td style="white-space: nowrap;"><i>naun</i></td>
+<td>'<span><em>Morinda citrifolia</em></span>' (<span><em>&ast;-o-</em> &gt; Seimat <em>-au-</em></span>) (<a href="../sources/Sorensen1950">Sorensen1950</a>)
 </td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/leipon">Leipon</a></td><td><i>ñoñ</i></td>
-<td>
-'<span><em>Morinda citrifolia</em></span>'</td>
+<td>Adm</td><td><a href="../languages/leipon">Leipon</a></td><td style="white-space: nowrap;"><i>ñoñ</i></td>
+<td>'<span><em>Morinda citrifolia</em></span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/bipi">Bipi</a></td><td><i>ñoy</i></td>
-<td>
-'<span><em>Morinda citrifolia</em></span>'</td>
+<td>Adm</td><td><a href="../languages/bipi">Bipi</a></td><td style="white-space: nowrap;"><i>ñoy</i></td>
+<td>'<span><em>Morinda citrifolia</em></span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/gitua">Gitua</a></td><td><i>nono</i></td>
-<td>
-'<span><em>Morinda citrifolia</em></span>'</td>
+<td>NNG</td><td><a href="../languages/gitua">Gitua</a></td><td style="white-space: nowrap;"><i>nono</i></td>
+<td>'<span><em>Morinda citrifolia</em></span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/gedaged">Gedaged</a></td><td><i>no-nom</i></td>
-<td>
-'<span><em>Morinda citrifolia</em></span>'</td>
+<td>NNG</td><td><a href="../languages/gedaged">Gedaged</a></td><td style="white-space: nowrap;"><i>no-nom</i></td>
+<td>'<span><em>Morinda citrifolia</em></span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td><i>nom</i></td>
-<td>
-'<span><em>Morinda citrifolia</em></span>'</td>
+<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td style="white-space: nowrap;"><i>nom</i></td>
+<td>'<span><em>Morinda citrifolia</em></span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td><i>noŋ</i></td>
-<td>
-'<span>tree sp.</span>'</td>
+<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td style="white-space: nowrap;"><i>noŋ</i></td>
+<td>'<span>tree sp.</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/wogeo">Wogeo</a></td><td><i>ñoñ</i></td>
-<td>
-'<span><em>Morinda citrifolia</em></span>'</td>
+<td>NNG</td><td><a href="../languages/wogeo">Wogeo</a></td><td style="white-space: nowrap;"><i>ñoñ</i></td>
+<td>'<span><em>Morinda citrifolia</em></span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/bwaidoga">Bwaidoga</a></td><td><i>nono</i></td>
-<td>
-'<span><em>Morinda citrifolia</em></span>'</td>
+<td>PT</td><td><a href="../languages/bwaidoga">Bwaidoga</a></td><td style="white-space: nowrap;"><i>nono</i></td>
+<td>'<span><em>Morinda citrifolia</em></span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>nonu</i></td>
-<td>
-'<span><em>Morinda citrifolia</em></span>'</td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td style="white-space: nowrap;"><i>nonu</i></td>
+<td>'<span><em>Morinda citrifolia</em></span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>non</i></td>
-<td>
-'<span><em>Morinda citrifolia</em></span>'</td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>non</i></td>
+<td>'<span><em>Morinda citrifolia</em></span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>nen</i></td>
-<td>
-'<span><em>Morinda citrifolia</em></span>'</td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td style="white-space: nowrap;"><i>nen</i></td>
+<td>'<span><em>Morinda citrifolia</em></span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td><i>nēn</i></td>
-<td>
-'<span><em>Morinda citrifolia</em></span>'</td>
+<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td style="white-space: nowrap;"><i>nēn</i></td>
+<td>'<span><em>Morinda citrifolia</em></span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>lēli</i></td>
-<td>
-'<span><em>Morinda citrifolia</em></span>'</td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td style="white-space: nowrap;"><i>lēli</i></td>
+<td>'<span><em>Morinda citrifolia</em></span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>nonu</i></td>
-<td>
-'<span><em>Morinda citrifolia</em></span>'</td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td style="white-space: nowrap;"><i>nonu</i></td>
+<td>'<span><em>Morinda citrifolia</em></span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>nonu</i></td>
-<td>
-'<span><em>Morinda citrifolia</em></span>'</td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td style="white-space: nowrap;"><i>nonu</i></td>
+<td>'<span><em>Morinda citrifolia</em></span>'</td>
 </tr>
 </table>
 
@@ -2165,162 +1839,132 @@ The distributions of POc _&ast;ñoñu_ and _&ast;kurat_ are complementary: _&ast
 <td style="white-space: nowrap;">
 <i>&ast;kurat</i>
 </td>
-<td>
-'<span>the dye produced from <em>Morinda citrifolia</em></span>' (<a href="../sources/Geraghty2004">Geraghty2004</a>)
+<td>'<span>the dye produced from <em>Morinda citrifolia</em></span>' (<a href="../sources/Geraghty2004">Geraghty2004</a>)
 </td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/lihir">Lihir</a></td><td><i>ulet</i></td>
-<td>
-'<span>Morinda sp.</span>'</td>
+<td>MM</td><td><a href="../languages/lihir">Lihir</a></td><td style="white-space: nowrap;"><i>ulet</i></td>
+<td>'<span>Morinda sp.</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tangga">Tangga</a></td><td><i>urat</i></td>
-<td>
-'<span><em>Morinda citrifolia</em></span>'</td>
+<td>MM</td><td><a href="../languages/tangga">Tangga</a></td><td style="white-space: nowrap;"><i>urat</i></td>
+<td>'<span><em>Morinda citrifolia</em></span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/nehan">Nehan</a></td><td><i>rata</i></td>
-<td>
-'<span><em>Morinda citrifolia</em></span>'</td>
+<td>MM</td><td><a href="../languages/nehan">Nehan</a></td><td style="white-space: nowrap;"><i>rata</i></td>
+<td>'<span><em>Morinda citrifolia</em></span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/monoalu">Mono-Alu</a></td><td><i>urati</i></td>
-<td>
-'<span><em>Morinda citrifolia</em></span>' (<span>W. McClatchey, pers. comm.</span>)</td>
+<td>MM</td><td><a href="../languages/monoalu">Mono-Alu</a></td><td style="white-space: nowrap;"><i>urati</i></td>
+<td>'<span><em>Morinda citrifolia</em></span>' (<span>W. McClatchey, pers. comm.</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/varisi">Varisi</a></td><td><i>ku-kure</i></td>
-<td>
-'<span><em>Morinda citrifolia</em></span>' (<span>W. McClatchey, pers. comm.</span>)</td>
+<td>MM</td><td><a href="../languages/varisi">Varisi</a></td><td style="white-space: nowrap;"><i>ku-kure</i></td>
+<td>'<span><em>Morinda citrifolia</em></span>' (<span>W. McClatchey, pers. comm.</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td><i>ɣurata</i></td>
-<td>
-'<span><em>Morinda citrifolia</em></span>'</td>
+<td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td style="white-space: nowrap;"><i>ɣurata</i></td>
+<td>'<span><em>Morinda citrifolia</em></span>'</td>
 </tr>
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;kurat</i>
 </td>
-<td>
-'<span>M orinda citrifolia</span>'</td>
+<td>'<span>M orinda citrifolia</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/longgu">Longgu</a></td><td><i>ʔura</i></td>
-<td>
-'<span><em>Morinda citrifolia</em></span>'</td>
+<td>SES</td><td><a href="../languages/longgu">Longgu</a></td><td style="white-space: nowrap;"><i>ʔura</i></td>
+<td>'<span><em>Morinda citrifolia</em></span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/santaana">Santa Ana</a></td><td><i>ɣura</i></td>
-<td>
-'<span><em>Morinda citrifolia</em></span>'</td>
+<td>SES</td><td><a href="../languages/santaana">Santa Ana</a></td><td style="white-space: nowrap;"><i>ɣura</i></td>
+<td>'<span><em>Morinda citrifolia</em></span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/mwotlap">Mwotlap</a></td><td><i>wʋy</i></td>
-<td>
-'<span><em>Morinda citrifolia</em></span>'</td>
+<td>NCV</td><td><a href="../languages/mwotlap">Mwotlap</a></td><td style="white-space: nowrap;"><i>wʋy</i></td>
+<td>'<span><em>Morinda citrifolia</em></span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>wura</i></td>
-<td>
-'<span><em>Morinda citrifolia</em></span>'</td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td style="white-space: nowrap;"><i>wura</i></td>
+<td>'<span><em>Morinda citrifolia</em></span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/ambae">Ambae</a></td><td><i>hure</i></td>
-<td>
-'<span><em>Morinda citrifolia</em></span>'</td>
+<td>NCV</td><td><a href="../languages/ambae">Ambae</a></td><td style="white-space: nowrap;"><i>hure</i></td>
+<td>'<span><em>Morinda citrifolia</em></span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/araki">Araki</a></td><td><i>hura</i></td>
-<td>
-'<span><em>Morinda citrifolia</em></span>'</td>
+<td>NCV</td><td><a href="../languages/araki">Araki</a></td><td style="white-space: nowrap;"><i>hura</i></td>
+<td>'<span><em>Morinda citrifolia</em></span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td><i>ɣuresi</i></td>
-<td>
-'<span><em>Morinda citrifolia</em></span>' (<a href="../sources/Walsh2004">Walsh2004</a>)
+<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td style="white-space: nowrap;"><i>ɣuresi</i></td>
+<td>'<span><em>Morinda citrifolia</em></span>' (<a href="../sources/Walsh2004">Walsh2004</a>)
 [^13]</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/uripiv">Uripiv</a></td><td><i>na-ur</i></td>
-<td>
-'<span><em>Morinda citrifolia</em></span>'</td>
+<td>NCV</td><td><a href="../languages/uripiv">Uripiv</a></td><td style="white-space: nowrap;"><i>na-ur</i></td>
+<td>'<span><em>Morinda citrifolia</em></span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td><i>o-ulo</i></td>
-<td>
-'<span><em>Morinda citrifolia</em></span>'</td>
+<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td style="white-space: nowrap;"><i>o-ulo</i></td>
+<td>'<span><em>Morinda citrifolia</em></span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/lewo">Lewo</a></td><td><i>(pur)kula</i></td>
-<td>
-'<span><em>Morinda citrifolia</em></span>'</td>
+<td>NCV</td><td><a href="../languages/lewo">Lewo</a></td><td style="white-space: nowrap;"><i>(pur)kula</i></td>
+<td>'<span><em>Morinda citrifolia</em></span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/nguna">Nguna</a></td><td><i>na-kura</i></td>
-<td>
-'<span>tree sp.</span>'</td>
+<td>NCV</td><td><a href="../languages/nguna">Nguna</a></td><td style="white-space: nowrap;"><i>na-kura</i></td>
+<td>'<span>tree sp.</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/southefate">South Efate</a></td><td><i>na-kur</i></td>
-<td>
-'<span><em>Morinda citrifolia</em></span>'</td>
+<td>NCV</td><td><a href="../languages/southefate">South Efate</a></td><td style="white-space: nowrap;"><i>na-kur</i></td>
+<td>'<span><em>Morinda citrifolia</em></span>'</td>
 </tr>
 <tr>
 <td><strong>PSV</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;na-ɣura(t,c)</i>
 </td>
-<td>
-'<span><em>Morinda citrifolia</em></span>' (<a href="../sources/Lynch2001c">Lynch2001c</a>)
+<td>'<span><em>Morinda citrifolia</em></span>' (<a href="../sources/Lynch2001c">Lynch2001c</a>)
 </td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/sye">Sye</a></td><td><i>noɣrat</i></td>
-<td>
-'<span><em>Morinda citrifolia</em></span>'</td>
+<td>SV</td><td><a href="../languages/sye">Sye</a></td><td style="white-space: nowrap;"><i>noɣrat</i></td>
+<td>'<span><em>Morinda citrifolia</em></span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/lenakel">Lenakel</a></td><td><i>nauias</i></td>
-<td>
-'<span><em>Morinda citrifolia</em></span>'</td>
+<td>SV</td><td><a href="../languages/lenakel">Lenakel</a></td><td style="white-space: nowrap;"><i>nauias</i></td>
+<td>'<span><em>Morinda citrifolia</em></span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/kwamera">Kwamera</a></td><td><i>noueis</i></td>
-<td>
-'<span><em>Morinda citrifolia</em></span>'</td>
+<td>SV</td><td><a href="../languages/kwamera">Kwamera</a></td><td style="white-space: nowrap;"><i>noueis</i></td>
+<td>'<span><em>Morinda citrifolia</em></span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>na-uras</i></td>
-<td>
-'<span><em>Morinda citrifolia</em></span>'</td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td style="white-space: nowrap;"><i>na-uras</i></td>
+<td>'<span><em>Morinda citrifolia</em></span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td><a href="../languages/nyelayu">Nyelâyu</a></td><td><i>yelac</i></td>
-<td>
-'<span><em>Morinda citrifolia</em></span>'</td>
+<td>NCal</td><td><a href="../languages/nyelayu">Nyelâyu</a></td><td style="white-space: nowrap;"><i>yelac</i></td>
+<td>'<span><em>Morinda citrifolia</em></span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td><a href="../languages/iaai">Iaai</a></td><td><i>hulak</i></td>
-<td>
-'<span><em>Morinda citrifolia</em></span>'</td>
+<td>NCal</td><td><a href="../languages/iaai">Iaai</a></td><td style="white-space: nowrap;"><i>hulak</i></td>
+<td>'<span><em>Morinda citrifolia</em></span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td><a href="../languages/dehu">Dehu</a></td><td><i>xelek</i></td>
-<td>
-'<span><em>Morinda citrifolia</em></span>'</td>
+<td>NCal</td><td><a href="../languages/dehu">Dehu</a></td><td style="white-space: nowrap;"><i>xelek</i></td>
+<td>'<span><em>Morinda citrifolia</em></span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>kura</i></td>
-<td>
-'<span><em>Morinda citrifolia</em></span>'</td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td style="white-space: nowrap;"><i>kura</i></td>
+<td>'<span><em>Morinda citrifolia</em></span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td><i>ʔurɔ</i></td>
-<td>
-'<span><em>Morinda citrifolia</em></span>'</td>
+<td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td style="white-space: nowrap;"><i>ʔurɔ</i></td>
+<td>'<span><em>Morinda citrifolia</em></span>'</td>
 </tr>
 </table>
 
@@ -2368,8 +2012,7 @@ but I am unable to determine how they differed in meaning from each other or fro
 <td style="white-space: nowrap;">
 <i>&ast;tuba</i>
 </td>
-<td>
-'<span><em>Derris</em> fish poison</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
+<td>'<span><em>Derris</em> fish poison</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
 </td>
 </tr>
 <tr>
@@ -2377,124 +2020,101 @@ but I am unable to determine how they differed in meaning from each other or fro
 <td style="white-space: nowrap;">
 <i>&ast;tupa</i>
 </td>
-<td>
-'<span>climbing shrubs, <em>Derris</em> spp.</span>' (<a href="../sources/Capell1943">Capell1943</a>)
+<td>'<span>climbing shrubs, <em>Derris</em> spp.</span>' (<a href="../sources/Capell1943">Capell1943</a>)
 </td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/seimat">Seimat</a></td><td><i>tu[hi]</i></td>
-<td>
-'<span><em>Derris</em> sp.</span>' (<a href="../sources/Sorensen1950">Sorensen1950</a>)
+<td>Adm</td><td><a href="../languages/seimat">Seimat</a></td><td style="white-space: nowrap;"><i>tu[hi]</i></td>
+<td>'<span><em>Derris</em> sp.</span>' (<a href="../sources/Sorensen1950">Sorensen1950</a>)
 </td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/aria">Aria</a></td><td><i>tuva</i></td>
-<td>
-'<span>derris root</span>'</td>
+<td>NNG</td><td><a href="../languages/aria">Aria</a></td><td style="white-space: nowrap;"><i>tuva</i></td>
+<td>'<span>derris root</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/kove">Kove</a></td><td><i>tuva</i></td>
-<td>
-'<span>derris root</span>'</td>
+<td>NNG</td><td><a href="../languages/kove">Kove</a></td><td style="white-space: nowrap;"><i>tuva</i></td>
+<td>'<span>derris root</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/molima">Molima</a></td><td><i>tuva</i></td>
-<td>
-'<span>derris root</span>'</td>
+<td>PT</td><td><a href="../languages/molima">Molima</a></td><td style="white-space: nowrap;"><i>tuva</i></td>
+<td>'<span>derris root</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/kilivila">Kilivila</a></td><td><i>tuva</i></td>
-<td>
-'<span>poisonous root used for fishing</span>'</td>
+<td>PT</td><td><a href="../languages/kilivila">Kilivila</a></td><td style="white-space: nowrap;"><i>tuva</i></td>
+<td>'<span>poisonous root used for fishing</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>tuha</i></td>
-<td>
-'<span>derris root</span>'</td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td style="white-space: nowrap;"><i>tuha</i></td>
+<td>'<span>derris root</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/vitu">Vitu</a></td><td><i>tuva</i></td>
-<td>
-'<span>derris root</span>'</td>
+<td>MM</td><td><a href="../languages/vitu">Vitu</a></td><td style="white-space: nowrap;"><i>tuva</i></td>
+<td>'<span>derris root</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td><i>tua</i></td>
-<td>
-'<span>derris root</span>'</td>
+<td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td style="white-space: nowrap;"><i>tua</i></td>
+<td>'<span>derris root</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/teop">Teop</a></td><td><i>suva</i></td>
-<td>
-'<span>derris root</span>'</td>
+<td>MM</td><td><a href="../languages/teop">Teop</a></td><td style="white-space: nowrap;"><i>suva</i></td>
+<td>'<span>derris root</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/monoalu">Mono-Alu</a></td><td><i>tuha</i></td>
-<td>
-'<span><em>Derris heterophylla</em></span>' (<span>W. McClatchey, pers. comm.</span>)</td>
+<td>MM</td><td><a href="../languages/monoalu">Mono-Alu</a></td><td style="white-space: nowrap;"><i>tuha</i></td>
+<td>'<span><em>Derris heterophylla</em></span>' (<span>W. McClatchey, pers. comm.</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/marovo">Marovo</a></td><td><i>tuva</i></td>
-<td>
-'<span><em>Pongamia pinnata</em></span>'</td>
+<td>MM</td><td><a href="../languages/marovo">Marovo</a></td><td style="white-space: nowrap;"><i>tuva</i></td>
+<td>'<span><em>Pongamia pinnata</em></span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>tuva</i></td>
-<td>
-'<span>derris root</span>'</td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td style="white-space: nowrap;"><i>tuva</i></td>
+<td>'<span>derris root</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>uha, uhe</i></td>
-<td>
-'<span>derris root</span>'</td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>uha, uhe</i></td>
+<td>'<span>derris root</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>tua</i></td>
-<td>
-'<span>a creeping plant used to poison fish</span>'</td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td style="white-space: nowrap;"><i>tua</i></td>
+<td>'<span>a creeping plant used to poison fish</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/uripiv">Uripiv</a></td><td><i>na-tuv</i></td>
-<td>
-'<span>fish poison vine</span>'</td>
+<td>NCV</td><td><a href="../languages/uripiv">Uripiv</a></td><td style="white-space: nowrap;"><i>na-tuv</i></td>
+<td>'<span>fish poison vine</span>'</td>
 </tr>
 <tr>
 <td><strong>PSV</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;(i)tuv</i>
 </td>
-<td>
-'<span><em>Derris</em> sp. usually trifoliata</span>' (<a href="../sources/Lynch2004a">Lynch2004a</a>)
+<td>'<span><em>Derris</em> sp. usually trifoliata</span>' (<a href="../sources/Lynch2004a">Lynch2004a</a>)
 </td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/sye">Sye</a></td><td><i>(nos)(i)tup</i></td>
-<td>
-'<span><em>Derris</em> sp. usually trifoliata</span>' (<span><em>nos</em> 'vine'</span>)</td>
+<td>SV</td><td><a href="../languages/sye">Sye</a></td><td style="white-space: nowrap;"><i>(nos)(i)tup</i></td>
+<td>'<span><em>Derris</em> sp. usually trifoliata</span>' (<span><em>nos</em> 'vine'</span>)</td>
 </tr>
 <tr>
-<td>NCal</td><td><a href="../languages/nyelayu">Nyelâyu</a></td><td><i>(ñale)jep</i></td>
-<td>
-'<span>derris root</span>'</td>
+<td>NCal</td><td><a href="../languages/nyelayu">Nyelâyu</a></td><td style="white-space: nowrap;"><i>(ñale)jep</i></td>
+<td>'<span>derris root</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td><a href="../languages/xaracuu">Xârâcùù</a></td><td><i>(kʷa)dɨ</i></td>
-<td>
-'<span>derris root</span>'</td>
+<td>NCal</td><td><a href="../languages/xaracuu">Xârâcùù</a></td><td style="white-space: nowrap;"><i>(kʷa)dɨ</i></td>
+<td>'<span>derris root</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>sūpe</i></td>
-<td>
-'<span>fish poison (root)</span>' (<span><em>-p-</em> for †<em>-f-</em></span>)</td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td style="white-space: nowrap;"><i>sūpe</i></td>
+<td>'<span>fish poison (root)</span>' (<span><em>-p-</em> for †<em>-f-</em></span>)</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>tuva</i></td>
-<td>
-'<span>generic for <em>Derris</em> spp.</span>'</td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td style="white-space: nowrap;"><i>tuva</i></td>
+<td>'<span>generic for <em>Derris</em> spp.</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td><i>fuha</i></td>
-<td>
-'<span><em>Derris</em> spp., used to stun fish</span>'</td>
+<td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td style="white-space: nowrap;"><i>fuha</i></td>
+<td>'<span><em>Derris</em> spp., used to stun fish</span>'</td>
 </tr>
 </table>
 
@@ -2508,51 +2128,42 @@ PMP _&ast;bunat_ is reconstructed on the basis of the Oceanic data here and Boto
 <td style="white-space: nowrap;">
 <i>&ast;bunat</i>
 </td>
-<td>
-'<span><em>Derris</em> elliptica</span>'</td>
+<td>'<span><em>Derris</em> elliptica</span>'</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;puna(t)</i>
 </td>
-<td>
-'<span>vine used for fish poison, probably <em>Derris</em> elliptica</span>'</td>
+<td>'<span>vine used for fish poison, probably <em>Derris</em> elliptica</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/lou">Lou</a></td><td><i>pun</i></td>
-<td>
-'<span>vine used for fish poison</span>'</td>
+<td>Adm</td><td><a href="../languages/lou">Lou</a></td><td style="white-space: nowrap;"><i>pun</i></td>
+<td>'<span>vine used for fish poison</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/sudest">Sudest</a></td><td><i>vun</i></td>
-<td>
-'<span>poison fish with derris</span>'</td>
+<td>PT</td><td><a href="../languages/sudest">Sudest</a></td><td style="white-space: nowrap;"><i>vun</i></td>
+<td>'<span>poison fish with derris</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td><i>vun</i></td>
-<td>
-'<span><em>Derris elliptica</em>, root with which fish are poisoned; to kill or benumb fish with poison of this name</span>'</td>
+<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td style="white-space: nowrap;"><i>vun</i></td>
+<td>'<span><em>Derris elliptica</em>, root with which fish are poisoned; to kill or benumb fish with poison of this name</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/nduke">Nduke</a></td><td><i>buna</i></td>
-<td>
-'<span><em>Derris heterophylla</em>, a poison-leaf vine, crushed and thrown into rock-holes to stun reef fish</span>'</td>
+<td>MM</td><td><a href="../languages/nduke">Nduke</a></td><td style="white-space: nowrap;"><i>buna</i></td>
+<td>'<span><em>Derris heterophylla</em>, a poison-leaf vine, crushed and thrown into rock-holes to stun reef fish</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td><i>buna</i></td>
-<td>
-'<span>littoral vine (macerated and thrown into rock pools, it stupefies fish)</span>'</td>
+<td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td style="white-space: nowrap;"><i>buna</i></td>
+<td>'<span>littoral vine (macerated and thrown into rock pools, it stupefies fish)</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/marovo">Marovo</a></td><td><i>buna</i></td>
-<td>
-'<span>climber with poisonous leaves, fish poison</span>'</td>
+<td>MM</td><td><a href="../languages/marovo">Marovo</a></td><td style="white-space: nowrap;"><i>buna</i></td>
+<td>'<span>climber with poisonous leaves, fish poison</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/lenakel">Lenakel</a></td><td><i>no-un</i></td>
-<td>
-'<span>fish poison</span>'</td>
+<td>SV</td><td><a href="../languages/lenakel">Lenakel</a></td><td style="white-space: nowrap;"><i>no-un</i></td>
+<td>'<span>fish poison</span>'</td>
 </tr>
 </table>
 
@@ -2569,33 +2180,27 @@ PWOc _&ast;(m,mʷ)ali_ (incorrectly given as _&ast;maRi_ in [vol. 1, ch.8, §7](
 <td style="white-space: nowrap;">
 <i>&ast;(m,mʷ)ali</i>
 </td>
-<td>
-'<span><em>Derris</em> sp.</span>'</td>
+<td>'<span><em>Derris</em> sp.</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/gitua">Gitua</a></td><td><i>(waro)mali(ŋ)</i></td>
-<td>
-'<span><em>Derris</em> root</span>'</td>
+<td>NNG</td><td><a href="../languages/gitua">Gitua</a></td><td style="white-space: nowrap;"><i>(waro)mali(ŋ)</i></td>
+<td>'<span><em>Derris</em> root</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/nalik">Nalik</a></td><td><i>mal-mal</i></td>
-<td>
-'<span><em>Derris</em> root</span>'</td>
+<td>MM</td><td><a href="../languages/nalik">Nalik</a></td><td style="white-space: nowrap;"><i>mal-mal</i></td>
+<td>'<span><em>Derris</em> root</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/karaeast">Kara (East)</a></td><td><i>mal</i></td>
-<td>
-</td>
+<td>MM</td><td><a href="../languages/karaeast">Kara (East)</a></td><td style="white-space: nowrap;"><i>mal</i></td>
+<td></td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/sursurunga">Sursurunga</a></td><td><i>mel</i></td>
-<td>
-'<span>a vine used to poison fish or humans</span>'</td>
+<td>MM</td><td><a href="../languages/sursurunga">Sursurunga</a></td><td style="white-space: nowrap;"><i>mel</i></td>
+<td>'<span>a vine used to poison fish or humans</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/marovo">Marovo</a></td><td><i>moli</i></td>
-<td>
-'<span>a coastal creeping vine</span>'</td>
+<td>MM</td><td><a href="../languages/marovo">Marovo</a></td><td style="white-space: nowrap;"><i>moli</i></td>
+<td>'<span>a coastal creeping vine</span>'</td>
 </tr>
 </table>
 
@@ -2609,61 +2214,51 @@ PWOc _&ast;(m,mʷ)ali_ (incorrectly given as _&ast;maRi_ in [vol. 1, ch.8, §7](
 <td style="white-space: nowrap;">
 <i>&ast;vuba</i>
 </td>
-<td>
-'<span>k.o. vine, probably <em>Derris elliptica</em></span>'</td>
+<td>'<span>k.o. vine, probably <em>Derris elliptica</em></span>'</td>
 </tr>
 <tr>
 <td><strong>PSV</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;na-vup</i>
 </td>
-<td>
-'<span>k.o. vine</span>' (<a href="../sources/Lynch2001c">Lynch2001c</a>: <span>236</span>)
+<td>'<span>k.o. vine</span>' (<a href="../sources/Lynch2001c">Lynch2001c</a>: <span>236</span>)
 </td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/sye">Sye</a></td><td><i>na-vup</i></td>
-<td>
-</td>
+<td>SV</td><td><a href="../languages/sye">Sye</a></td><td style="white-space: nowrap;"><i>na-vup</i></td>
+<td></td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>no-hop(ɣev)</i></td>
-<td>
-</td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td style="white-space: nowrap;"><i>no-hop(ɣev)</i></td>
+<td></td>
 </tr>
 <tr>
 <td><strong>PMic</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;upa</i>
 </td>
-<td>
-'<span><em>Derris</em> vine</span>' (<a href="../sources/Benderetal2003">Benderetal2003</a>)
+<td>'<span><em>Derris</em> vine</span>' (<a href="../sources/Benderetal2003">Benderetal2003</a>)
 </td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kosraean">Kosraean</a></td><td><i>op</i></td>
-<td>
-'<span>plant used as fish poison</span>'</td>
+<td>Mic</td><td><a href="../languages/kosraean">Kosraean</a></td><td style="white-space: nowrap;"><i>op</i></td>
+<td>'<span>plant used as fish poison</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>wep</i></td>
-<td>
-'<span>a tree, <em>Barringtonia asiatica</em>, seeds used for fish poison</span>'</td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td style="white-space: nowrap;"><i>wep</i></td>
+<td>'<span>a tree, <em>Barringtonia asiatica</em>, seeds used for fish poison</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/ponapean">Ponapean</a></td><td><i>ūp</i></td>
-<td>
-'<span><em>Derris elliptica</em></span>'</td>
+<td>Mic</td><td><a href="../languages/ponapean">Ponapean</a></td><td style="white-space: nowrap;"><i>ūp</i></td>
+<td>'<span><em>Derris elliptica</em></span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/ponapean">Ponapean</a></td><td><i>ūpa-wp</i></td>
-<td>
-'<span>to poison fish</span>'</td>
+<td>Mic</td><td><a href="../languages/ponapean">Ponapean</a></td><td style="white-space: nowrap;"><i>ūpa-wp</i></td>
+<td>'<span>to poison fish</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td><i>wɨ̄p, wɨpe(n)</i></td>
-<td>
-'<span><em>Derris elliptica</em></span>'</td>
+<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td style="white-space: nowrap;"><i>wɨ̄p, wɨpe(n)</i></td>
+<td>'<span><em>Derris elliptica</em></span>'</td>
 </tr>
 </table>
 
@@ -2702,89 +2297,72 @@ There are two reconstructions, POc _&ast;yaŋo_ and PEOc _&ast;re(ŋ,ŋʷ)a_. Th
 <td style="white-space: nowrap;">
 <i>&ast;yaŋo</i>
 </td>
-<td>
-'<span>turmeric, <em>Curcuma longa</em></span>' (<a href="../sources/Milke1968">Milke1968</a>)
+<td>'<span>turmeric, <em>Curcuma longa</em></span>' (<a href="../sources/Milke1968">Milke1968</a>)
 </td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/mangap">Mangap</a></td><td><i>(n)aŋgo-ŋgo(ŋana)</i></td>
-<td>
-'<span>a plant, ginger type, yellow when crushed</span>' (<span><em>-ŋana</em> 'nominaliser'</span>)</td>
+<td>NNG</td><td><a href="../languages/mangap">Mangap</a></td><td style="white-space: nowrap;"><i>(n)aŋgo-ŋgo(ŋana)</i></td>
+<td>'<span>a plant, ginger type, yellow when crushed</span>' (<span><em>-ŋana</em> 'nominaliser'</span>)</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/adzera">Adzera</a></td><td><i>yaŋa(n)</i></td>
-<td>
-'<span>ginger</span>'</td>
+<td>NNG</td><td><a href="../languages/adzera">Adzera</a></td><td style="white-space: nowrap;"><i>yaŋa(n)</i></td>
+<td>'<span>ginger</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/karaeast">Kara (East)</a></td><td><i>ioŋ</i></td>
-<td>
-'<span>turmeric</span>'</td>
+<td>MM</td><td><a href="../languages/karaeast">Kara (East)</a></td><td style="white-space: nowrap;"><i>ioŋ</i></td>
+<td>'<span>turmeric</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/patpatar">Patpatar</a></td><td><i>iaŋ</i></td>
-<td>
-'<span>turmeric</span>'</td>
+<td>MM</td><td><a href="../languages/patpatar">Patpatar</a></td><td style="white-space: nowrap;"><i>iaŋ</i></td>
+<td>'<span>turmeric</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/kubukota">Kubukota</a></td><td><i>aŋo</i></td>
-<td>
-'<span>plant similar to ginger, of various colours (white and yellow); it has various medicinal and magical uses in healing and cursing</span>'</td>
+<td>MM</td><td><a href="../languages/kubukota">Kubukota</a></td><td style="white-space: nowrap;"><i>aŋo</i></td>
+<td>'<span>plant similar to ginger, of various colours (white and yellow); it has various medicinal and magical uses in healing and cursing</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/nduke">Nduke</a></td><td><i>aŋo</i></td>
-<td>
-'<span>turmeric</span>'</td>
+<td>MM</td><td><a href="../languages/nduke">Nduke</a></td><td style="white-space: nowrap;"><i>aŋo</i></td>
+<td>'<span>turmeric</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td><i>aŋo</i></td>
-<td>
-'<span>turmeric</span>'</td>
+<td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td style="white-space: nowrap;"><i>aŋo</i></td>
+<td>'<span>turmeric</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>aŋo</i></td>
-<td>
-'<span>turmeric</span>'</td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td style="white-space: nowrap;"><i>aŋo</i></td>
+<td>'<span>turmeric</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/ponapean">Ponapean</a></td><td><i>ɔ̄ŋ</i></td>
-<td>
-'<span>turmeric</span>'</td>
+<td>Mic</td><td><a href="../languages/ponapean">Ponapean</a></td><td style="white-space: nowrap;"><i>ɔ̄ŋ</i></td>
+<td>'<span>turmeric</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/mokilese">Mokilese</a></td><td><i>ɔŋ</i></td>
-<td>
-'<span>turmeric</span>'</td>
+<td>Mic</td><td><a href="../languages/mokilese">Mokilese</a></td><td style="white-space: nowrap;"><i>ɔŋ</i></td>
+<td>'<span>turmeric</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>yāŋa</i></td>
-<td>
-'<span>ginger</span>'</td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td style="white-space: nowrap;"><i>yāŋa</i></td>
+<td>'<span>ginger</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>ðaŋo(laya)</i></td>
-<td>
-'<span>wilid ginger, <em>Zingiber zerumbet</em></span>'</td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td style="white-space: nowrap;"><i>ðaŋo(laya)</i></td>
+<td>'<span>wilid ginger, <em>Zingiber zerumbet</em></span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>ðaŋo</i></td>
-<td>
-'<span>turmeric</span>'</td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td style="white-space: nowrap;"><i>ðaŋo</i></td>
+<td>'<span>turmeric</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>aŋo</i></td>
-<td>
-'<span>turmeric</span>'</td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td style="white-space: nowrap;"><i>aŋo</i></td>
+<td>'<span>turmeric</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>aŋo-aŋo</i></td>
-<td>
-'<span>shampoo ginger, <em>Zingiber zerumbet</em></span>'</td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td style="white-space: nowrap;"><i>aŋo-aŋo</i></td>
+<td>'<span>shampoo ginger, <em>Zingiber zerumbet</em></span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>aŋo</i></td>
-<td>
-'<span>turmeric</span>'</td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>aŋo</i></td>
+<td>'<span>turmeric</span>'</td>
 </tr>
 </table>
 
@@ -2801,64 +2379,52 @@ The root above was the source of the POc term for 'yellow', _&ast;yaŋo-yaŋo_:
 <td style="white-space: nowrap;">
 <i>&ast;yaŋo-yaŋo</i>
 </td>
-<td>
-'<span>yellow</span>' (<a href="../sources/Grace1969">Grace1969</a>)
+<td>'<span>yellow</span>' (<a href="../sources/Grace1969">Grace1969</a>)
 </td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/kove">Kove</a></td><td><i>eaŋ-eaŋo</i></td>
-<td>
-'<span>yellow</span>'</td>
+<td>NNG</td><td><a href="../languages/kove">Kove</a></td><td style="white-space: nowrap;"><i>eaŋ-eaŋo</i></td>
+<td>'<span>yellow</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/tami">Tami</a></td><td><i>yaŋo-yaŋo</i></td>
-<td>
-'<span>yellow</span>'</td>
+<td>NNG</td><td><a href="../languages/tami">Tami</a></td><td style="white-space: nowrap;"><i>yaŋo-yaŋo</i></td>
+<td>'<span>yellow</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/kairiru">Kairiru</a></td><td><i>yaŋ-yaŋ</i></td>
-<td>
-'<span>yellow</span>'</td>
+<td>NNG</td><td><a href="../languages/kairiru">Kairiru</a></td><td style="white-space: nowrap;"><i>yaŋ-yaŋ</i></td>
+<td>'<span>yellow</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td><i>aŋo-aŋo</i></td>
-<td>
-'<span>yellow</span>'</td>
+<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td style="white-space: nowrap;"><i>aŋo-aŋo</i></td>
+<td>'<span>yellow</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/molima">Molima</a></td><td><i>yawo-yawo(na)</i></td>
-<td>
-'<span>yellow</span>'</td>
+<td>PT</td><td><a href="../languages/molima">Molima</a></td><td style="white-space: nowrap;"><i>yawo-yawo(na)</i></td>
+<td>'<span>yellow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td><i>ial-alo</i></td>
-<td>
-'<span>yellow</span>'</td>
+<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td style="white-space: nowrap;"><i>ial-alo</i></td>
+<td>'<span>yellow</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>aŋo-aŋo</i></td>
-<td>
-'<span>yellow</span>'</td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td style="white-space: nowrap;"><i>aŋo-aŋo</i></td>
+<td>'<span>yellow</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>aŋo-aŋo</i></td>
-<td>
-'<span>yellow</span>'</td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td style="white-space: nowrap;"><i>aŋo-aŋo</i></td>
+<td>'<span>yellow</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>yaŋo-yaŋo</i></td>
-<td>
-'<span>yellow colour of ginger</span>'</td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td style="white-space: nowrap;"><i>yaŋo-yaŋo</i></td>
+<td>'<span>yellow colour of ginger</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>aŋo-aŋo</i></td>
-<td>
-'<span>yellow</span>'</td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td style="white-space: nowrap;"><i>aŋo-aŋo</i></td>
+<td>'<span>yellow</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>ðaŋo-ðaŋo(a)</i></td>
-<td>
-'<span>reddish or orange like the turmeric plant</span>'</td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td style="white-space: nowrap;"><i>ðaŋo-ðaŋo(a)</i></td>
+<td>'<span>reddish or orange like the turmeric plant</span>'</td>
 </tr>
 </table>
 
@@ -2870,75 +2436,61 @@ The root above was the source of the POc term for 'yellow', _&ast;yaŋo-yaŋo_:
 <td style="white-space: nowrap;">
 <i>&ast;[re]reŋʷa</i>
 </td>
-<td>
-'<span>yellow material, prepared turmeric(?)</span>' (<a href="../sources/Biggs1965">Biggs1965</a>: <span><em>*reŋa</em></span>)
+<td>'<span>yellow material, prepared turmeric(?)</span>' (<a href="../sources/Biggs1965">Biggs1965</a>: <span><em>*reŋa</em></span>)
 </td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>reŋa</i></td>
-<td>
-'<span>decorate with black, white and red designs; beautiful</span>'</td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>reŋa</i></td>
+<td>'<span>decorate with black, white and red designs; beautiful</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/loh">Loh</a></td><td><i>eŋ</i></td>
-<td>
-'<span>turmeric</span>'</td>
+<td>NCV</td><td><a href="../languages/loh">Loh</a></td><td style="white-space: nowrap;"><i>eŋ</i></td>
+<td>'<span>turmeric</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>re-reŋa</i></td>
-<td>
-'<span>yolk of an egg; yellow colour</span>'</td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td style="white-space: nowrap;"><i>re-reŋa</i></td>
+<td>'<span>yolk of an egg; yellow colour</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>reŋa</i></td>
-<td>
-'<span><em>Curcuma tonga</em></span>'[^15]</td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>reŋa</i></td>
+<td>'<span><em>Curcuma tonga</em></span>'[^15]</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>re-reŋʷa</i></td>
-<td>
-'<span><em>Curcuma longa</em>, turmeric</span>'</td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td style="white-space: nowrap;"><i>re-reŋʷa</i></td>
+<td>'<span><em>Curcuma longa</em>, turmeric</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>re-reŋa</i></td>
-<td>
-'<span>turmeric</span>'</td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td style="white-space: nowrap;"><i>re-reŋa</i></td>
+<td>'<span>turmeric</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>eŋa</i></td>
-<td>
-'<span>turmeric</span>'</td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td style="white-space: nowrap;"><i>eŋa</i></td>
+<td>'<span>turmeric</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>ŋeŋa</i></td>
-<td>
-'<span>prepared turmeric</span>'</td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td style="white-space: nowrap;"><i>ŋeŋa</i></td>
+<td>'<span>prepared turmeric</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>leŋa</i></td>
-<td>
-'<span>yellow dye from turmeric</span>' (<a href="../sources/Whistler2000">Whistler2000: 177</a>)
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>leŋa</i></td>
+<td>'<span>yellow dye from turmeric</span>' (<a href="../sources/Whistler2000">Whistler2000: 177</a>)
 </td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tokelauan">Tokelauan</a></td><td><i>leŋa</i></td>
-<td>
-'<span>yolk of egg, turmeric</span>'</td>
+<td>Pn</td><td><a href="../languages/tokelauan">Tokelauan</a></td><td style="white-space: nowrap;"><i>leŋa</i></td>
+<td>'<span>yolk of egg, turmeric</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tahitian">Tahitian</a></td><td><i>reʔa</i></td>
-<td>
-'<span>ginger, turmeric</span>'</td>
+<td>Pn</td><td><a href="../languages/tahitian">Tahitian</a></td><td style="white-space: nowrap;"><i>reʔa</i></td>
+<td>'<span>ginger, turmeric</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>lena</i></td>
-<td>
-'<span>yellow</span>'</td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td style="white-space: nowrap;"><i>lena</i></td>
+<td>'<span>yellow</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>reŋa-reŋa</i></td>
-<td>
-'<span>a large: herb with curcuma-like leaves and short rhizome, Arthropodium cirratum</span>' (<span>R. Gardner, pers. comm.</span>)</td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td style="white-space: nowrap;"><i>reŋa-reŋa</i></td>
+<td>'<span>a large: herb with curcuma-like leaves and short rhizome, Arthropodium cirratum</span>' (<span>R. Gardner, pers. comm.</span>)</td>
 </tr>
 </table>
 
@@ -2967,113 +2519,92 @@ Two POc terms are reconstructed below. The gloss of the first, _&ast;laqia_, rem
 <td style="white-space: nowrap;">
 <i>&ast;laqia</i>
 </td>
-<td>
-'<span>ginger, <em>Zingiber officinale</em></span>' (<span>Headlland &amp; Healey 1974</span>)</td>
+<td>'<span>ginger, <em>Zingiber officinale</em></span>' (<span>Headlland &amp; Healey 1974</span>)</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;laqia</i>
 </td>
-<td>
-'<span>ginger, <em>Zingiber officinale</em> (?)</span>' (<a href="../sources/FrenchWright1983">FrenchWright1983</a>)
+<td>'<span>ginger, <em>Zingiber officinale</em> (?)</span>' (<a href="../sources/FrenchWright1983">FrenchWright1983</a>)
 </td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td><i>laia</i></td>
-<td>
-'<span>ginger</span>'</td>
+<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td style="white-space: nowrap;"><i>laia</i></td>
+<td>'<span>ginger</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/titan">Titan</a></td><td><i>lei</i></td>
-<td>
-'<span>ginger</span>'</td>
+<td>Adm</td><td><a href="../languages/titan">Titan</a></td><td style="white-space: nowrap;"><i>lei</i></td>
+<td>'<span>ginger</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/lou">Lou</a></td><td><i>lei</i></td>
-<td>
-'<span>ginger</span>'</td>
+<td>Adm</td><td><a href="../languages/lou">Lou</a></td><td style="white-space: nowrap;"><i>lei</i></td>
+<td>'<span>ginger</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/kove">Kove</a></td><td><i>haia</i></td>
-<td>
-'<span>ginger</span>'</td>
+<td>NNG</td><td><a href="../languages/kove">Kove</a></td><td style="white-space: nowrap;"><i>haia</i></td>
+<td>'<span>ginger</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/tami">Tami</a></td><td><i>lagi</i></td>
-<td>
-'<span>ginger</span>'</td>
+<td>NNG</td><td><a href="../languages/tami">Tami</a></td><td style="white-space: nowrap;"><i>lagi</i></td>
+<td>'<span>ginger</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/adzera">Adzera</a></td><td><i>rakia</i></td>
-<td>
-'<span>ginger</span>'</td>
+<td>NNG</td><td><a href="../languages/adzera">Adzera</a></td><td style="white-space: nowrap;"><i>rakia</i></td>
+<td>'<span>ginger</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/mumeng">Mumeng</a></td><td><i>lɛhaʔ</i></td>
-<td>
-'<span>ginger</span>'</td>
+<td>NNG</td><td><a href="../languages/mumeng">Mumeng</a></td><td style="white-space: nowrap;"><i>lɛhaʔ</i></td>
+<td>'<span>ginger</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/kairiru">Kairiru</a></td><td><i>lakea</i></td>
-<td>
-'<span>Curcuma spp.</span>' (<a href="../sources/Borrell1989">Borrell1989: 42</a>)
+<td>NNG</td><td><a href="../languages/kairiru">Kairiru</a></td><td style="white-space: nowrap;"><i>lakea</i></td>
+<td>'<span>Curcuma spp.</span>' (<a href="../sources/Borrell1989">Borrell1989: 42</a>)
 </td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/wedau">Wedau</a></td><td><i>naia</i></td>
-<td>
-'<span>ginger</span>'</td>
+<td>PT</td><td><a href="../languages/wedau">Wedau</a></td><td style="white-space: nowrap;"><i>naia</i></td>
+<td>'<span>ginger</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/iduna">Iduna</a></td><td><i>naiya</i></td>
-<td>
-'<span>ginger</span>'</td>
+<td>PT</td><td><a href="../languages/iduna">Iduna</a></td><td style="white-space: nowrap;"><i>naiya</i></td>
+<td>'<span>ginger</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>aɣi</i></td>
-<td>
-'<span>ginger</span>'</td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td style="white-space: nowrap;"><i>aɣi</i></td>
+<td>'<span>ginger</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/bulu">Bulu</a></td><td><i>laɣia</i></td>
-<td>
-'<span>ginger</span>'</td>
+<td>MM</td><td><a href="../languages/bulu">Bulu</a></td><td style="white-space: nowrap;"><i>laɣia</i></td>
+<td>'<span>ginger</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/bola">Bola</a></td><td><i>lahia</i></td>
-<td>
-'<span>ginger</span>'</td>
+<td>MM</td><td><a href="../languages/bola">Bola</a></td><td style="white-space: nowrap;"><i>lahia</i></td>
+<td>'<span>ginger</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td><i>lahia</i></td>
-<td>
-'<span>ginger</span>'</td>
+<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td style="white-space: nowrap;"><i>lahia</i></td>
+<td>'<span>ginger</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tangga">Tangga</a></td><td><i>lae</i></td>
-<td>
-'<span>ginger</span>'</td>
+<td>MM</td><td><a href="../languages/tangga">Tangga</a></td><td style="white-space: nowrap;"><i>lae</i></td>
+<td>'<span>ginger</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/nehan">Nehan</a></td><td><i>laia</i></td>
-<td>
-'<span>ginger</span>'</td>
+<td>MM</td><td><a href="../languages/nehan">Nehan</a></td><td style="white-space: nowrap;"><i>laia</i></td>
+<td>'<span>ginger</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/tape">Tape</a></td><td><i>ləɣ-ləɣ</i></td>
-<td>
-'<span>wild ginger</span>'</td>
+<td>NCV</td><td><a href="../languages/tape">Tape</a></td><td style="white-space: nowrap;"><i>ləɣ-ləɣ</i></td>
+<td>'<span>wild ginger</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/kwamera">Kwamera</a></td><td><i>nə-re</i></td>
-<td>
-'<span>ginger</span>'</td>
+<td>SV</td><td><a href="../languages/kwamera">Kwamera</a></td><td style="white-space: nowrap;"><i>nə-re</i></td>
+<td>'<span>ginger</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>(ðaŋo)laya</i></td>
-<td>
-'<span>ginger, <em>Zingiber zerumbet</em></span>'</td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td style="white-space: nowrap;"><i>(ðaŋo)laya</i></td>
+<td>'<span>ginger, <em>Zingiber zerumbet</em></span>'</td>
 </tr>
 </table>
 
@@ -3094,31 +2625,26 @@ PMP _&ast;badak_ is tentatively reconstructed below on the basis of the Tolai an
 <td style="white-space: nowrap;">
 <i>&ast;badak</i>
 </td>
-<td>
-'<span>_Zingiber_aceae spp. with edible rhizomes</span>'</td>
+<td>'<span>_Zingiber_aceae spp. with edible rhizomes</span>'</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;para(k)</i>
 </td>
-<td>
-'<span>_Zingiber_aceae spp. with edible rhizomes</span>'</td>
+<td>'<span>_Zingiber_aceae spp. with edible rhizomes</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td><i>va-var</i></td>
-<td>
-'<span><em>Curcuma longa</em></span>'</td>
+<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td style="white-space: nowrap;"><i>va-var</i></td>
+<td>'<span><em>Curcuma longa</em></span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td><i>(ka)va-var</i></td>
-<td>
-'<span><em>Zingiber</em> officinale</span>'</td>
+<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td style="white-space: nowrap;"><i>(ka)va-var</i></td>
+<td>'<span><em>Zingiber</em> officinale</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>va-va</i></td>
-<td>
-'<span><em>Alpinia boia</em></span>'</td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td style="white-space: nowrap;"><i>va-va</i></td>
+<td>'<span><em>Alpinia boia</em></span>'</td>
 </tr>
 </table>
 
@@ -3195,76 +2721,62 @@ Three other etyma are reconstructed below: POc _&ast;jiRi_, _&ast;kaRi(q)a_ and 
 <td style="white-space: nowrap;">
 <i>&ast;mʷa(r,R)e</i>
 </td>
-<td>
-'<span>taxon including <em>Codiaeum variegatum</em> and <em>Cordyline fruticosa</em></span>' (<span>Ross 1996d; Chowning 1963: <em>*male</em></span>)</td>
+<td>'<span>taxon including <em>Codiaeum variegatum</em> and <em>Cordyline fruticosa</em></span>' (<span>Ross 1996d; Chowning 1963: <em>&ast;male</em></span>)</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/kove">Kove</a></td><td><i>mohe</i></td>
-<td>
-'<span><em>Cordyline</em> sp.</span>' (<a href="../sources/Chowning1996">Chowning1996: 17</a>)
+<td>NNG</td><td><a href="../languages/kove">Kove</a></td><td style="white-space: nowrap;"><i>mohe</i></td>
+<td>'<span><em>Cordyline</em> sp.</span>' (<a href="../sources/Chowning1996">Chowning1996: 17</a>)
 </td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/yabem">Yabem</a></td><td><i>(ka)maʔ</i></td>
-<td>
-'<span><em>Cordyline</em> sp.</span>'</td>
+<td>NNG</td><td><a href="../languages/yabem">Yabem</a></td><td style="white-space: nowrap;"><i>(ka)maʔ</i></td>
+<td>'<span><em>Cordyline</em> sp.</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td><i>mra-mor</i></td>
-<td>
-'<span><em>Cordyline fruticosa</em></span>'</td>
+<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td style="white-space: nowrap;"><i>mra-mor</i></td>
+<td>'<span><em>Cordyline fruticosa</em></span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/kairiru">Kairiru</a></td><td><i>(moel) morie(p)</i></td>
-<td>
-'<span>thin-leaved, green variety of <em>Codiaeum variegatum</em></span>'</td>
+<td>NNG</td><td><a href="../languages/kairiru">Kairiru</a></td><td style="white-space: nowrap;"><i>(moel) morie(p)</i></td>
+<td>'<span>thin-leaved, green variety of <em>Codiaeum variegatum</em></span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/roro">Roro</a></td><td><i>mare</i></td>
-<td>
-'<span>plant with yellow leaves</span>'</td>
+<td>PT</td><td><a href="../languages/roro">Roro</a></td><td style="white-space: nowrap;"><i>mare</i></td>
+<td>'<span>plant with yellow leaves</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/vitu">Vitu</a></td><td><i>mare</i></td>
-<td>
-'<span><em>Cordyline</em> sp.</span>'</td>
+<td>MM</td><td><a href="../languages/vitu">Vitu</a></td><td style="white-space: nowrap;"><i>mare</i></td>
+<td>'<span><em>Cordyline</em> sp.</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/bulu">Bulu</a></td><td><i>mara</i></td>
-<td>
-'<span><em>Cordyline</em> sp.</span>'</td>
+<td>MM</td><td><a href="../languages/bulu">Bulu</a></td><td style="white-space: nowrap;"><i>mara</i></td>
+<td>'<span><em>Cordyline</em> sp.</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td><i>male-male</i></td>
-<td>
-'<span><em>Cordyline</em> sp.</span>' (<a href="../sources/Chowning1996">Chowning1996: 17</a>)
+<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td style="white-space: nowrap;"><i>male-male</i></td>
+<td>'<span><em>Cordyline</em> sp.</span>' (<a href="../sources/Chowning1996">Chowning1996: 17</a>)
 </td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td><i>ma-male</i></td>
-<td>
-'<span><em>Cananga odorata</em> (like <em>Cordyline</em> used for personal adornment)</span>' (<a href="../sources/Floyd1954">Floyd1954</a>)
+<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td style="white-space: nowrap;"><i>ma-male</i></td>
+<td>'<span><em>Cananga odorata</em> (like <em>Cordyline</em> used for personal adornment)</span>' (<a href="../sources/Floyd1954">Floyd1954</a>)
 </td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/karaeast">Kara (East)</a></td><td><i>ma-mara</i></td>
-<td>
-'<span><em>Codiaeum variegatum</em></span>'</td>
+<td>MM</td><td><a href="../languages/karaeast">Kara (East)</a></td><td style="white-space: nowrap;"><i>ma-mara</i></td>
+<td>'<span><em>Codiaeum variegatum</em></span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/patpatar">Patpatar</a></td><td><i>mora-mora</i></td>
-<td>
-'<span><em>Codiaeum variegatum</em></span>'</td>
+<td>MM</td><td><a href="../languages/patpatar">Patpatar</a></td><td style="white-space: nowrap;"><i>mora-mora</i></td>
+<td>'<span><em>Codiaeum variegatum</em></span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/kandas">Kandas</a></td><td><i>muro</i></td>
-<td>
-'<span><em>Codiaeum variegatum</em></span>'</td>
+<td>MM</td><td><a href="../languages/kandas">Kandas</a></td><td style="white-space: nowrap;"><i>muro</i></td>
+<td>'<span><em>Codiaeum variegatum</em></span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td><i>mar-mar</i></td>
-<td>
-'<span><em>Codiaeum variegatum</em></span>'</td>
+<td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td style="white-space: nowrap;"><i>mar-mar</i></td>
+<td>'<span><em>Codiaeum variegatum</em></span>'</td>
 </tr>
 </table>
 
@@ -3273,14 +2785,14 @@ cf. also:
 <tr>
 <td>SV</td>
 <td><a href="../languages/anejom">Anejom̃</a></td>
-<td><i>na-mraθ</i></td>
+<td style="white-space: nowrap;"><i>na-mraθ</i></td>
 <td>
 '<span><em>Codiaeum variegatum</em></span>'</td>
 </tr>
 <tr>
 <td>Fij</td>
 <td><a href="../languages/wayan">Wayan</a></td>
-<td><i>ŋʷali</i></td>
+<td style="white-space: nowrap;"><i>ŋʷali</i></td>
 <td>
 '<span>croton, <em>Codiaeum variegatum</em></span>'</td>
 </tr>
@@ -3293,8 +2805,7 @@ cf. also:
 <td style="white-space: nowrap;">
 <i>&ast;siRi</i>
 </td>
-<td>
-'<span><em>Cordyline</em> sp., <em>Dracaena</em> sp.</span>' (<a href="../sources/Blust1989">Blust1989</a>)
+<td>'<span><em>Cordyline</em> sp., <em>Dracaena</em> sp.</span>' (<a href="../sources/Blust1989">Blust1989</a>)
 </td>
 </tr>
 <tr>
@@ -3302,277 +2813,223 @@ cf. also:
 <td style="white-space: nowrap;">
 <i>&ast;jiRi</i>
 </td>
-<td>
-'<span>taxon consisting of <em>Cordyline fruticosa</em> and <em>Dracaena angustifolia</em></span>' (<span>Milke 1968: <em>*diRi</em>; Ross 1988</span>)</td>
+<td>'<span>taxon consisting of <em>Cordyline fruticosa</em> and <em>Dracaena angustifolia</em></span>' (<span>Milke 1968: <em>&ast;diRi</em>; Ross 1988</span>)</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td><i>sii</i></td>
-<td>
-'<span>banyan, <em>Ficus</em> sp.</span>'</td>
+<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td style="white-space: nowrap;"><i>sii</i></td>
+<td>'<span>banyan, <em>Ficus</em> sp.</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/kurti">Kurti</a></td><td><i>siy</i></td>
-<td>
-'<span><em>Dracaena</em> sp.</span>'</td>
+<td>Adm</td><td><a href="../languages/kurti">Kurti</a></td><td style="white-space: nowrap;"><i>siy</i></td>
+<td>'<span><em>Dracaena</em> sp.</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/wuvulu">Wuvulu</a></td><td><i>ti</i></td>
-<td>
-'<span><em>Dracaena</em> sp.</span>'</td>
+<td>Adm</td><td><a href="../languages/wuvulu">Wuvulu</a></td><td style="white-space: nowrap;"><i>ti</i></td>
+<td>'<span><em>Dracaena</em> sp.</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/aua">Aua</a></td><td><i>ti</i></td>
-<td>
-'<span><em>Dracaena</em> sp.</span>'</td>
+<td>Adm</td><td><a href="../languages/aua">Aua</a></td><td style="white-space: nowrap;"><i>ti</i></td>
+<td>'<span><em>Dracaena</em> sp.</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/ere">Ere</a></td><td><i>siy</i></td>
-<td>
-'<span><em>Dracaena</em> sp.</span>'</td>
+<td>Adm</td><td><a href="../languages/ere">Ere</a></td><td style="white-space: nowrap;"><i>siy</i></td>
+<td>'<span><em>Dracaena</em> sp.</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/malasanga">Malasanga</a></td><td><i>sir</i></td>
-<td>
-'<span>grass skirt</span>'</td>
+<td>NNG</td><td><a href="../languages/malasanga">Malasanga</a></td><td style="white-space: nowrap;"><i>sir</i></td>
+<td>'<span>grass skirt</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/mindiri">Mindiri</a></td><td><i>(da)dir</i></td>
-<td>
-'<span>grass skirt</span>'</td>
+<td>NNG</td><td><a href="../languages/mindiri">Mindiri</a></td><td style="white-space: nowrap;"><i>(da)dir</i></td>
+<td>'<span>grass skirt</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/maposbuang">Mapos Buang</a></td><td><i>sĩ</i></td>
-<td>
-'<span>tree sp., Euphorbeaceae</span>'</td>
+<td>NNG</td><td><a href="../languages/maposbuang">Mapos Buang</a></td><td style="white-space: nowrap;"><i>sĩ</i></td>
+<td>'<span>tree sp., Euphorbeaceae</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/wampur">Wampur</a></td><td><i>riciʔ</i></td>
-<td>
-'<span>cordyline</span>'</td>
+<td>NNG</td><td><a href="../languages/wampur">Wampur</a></td><td style="white-space: nowrap;"><i>riciʔ</i></td>
+<td>'<span>cordyline</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/adzera">Adzera</a></td><td><i>ji-ji</i></td>
-<td>
-'<span>cordyline</span>'</td>
+<td>NNG</td><td><a href="../languages/adzera">Adzera</a></td><td style="white-space: nowrap;"><i>ji-ji</i></td>
+<td>'<span>cordyline</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/kairiru">Kairiru</a></td><td><i>jir</i></td>
-<td>
-'<span>small pandanus sp.</span>'</td>
+<td>NNG</td><td><a href="../languages/kairiru">Kairiru</a></td><td style="white-space: nowrap;"><i>jir</i></td>
+<td>'<span>small pandanus sp.</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/wedau">Wedau</a></td><td><i>diri</i></td>
-<td>
-'<span><em>Dracaena</em> sp.</span>'</td>
+<td>PT</td><td><a href="../languages/wedau">Wedau</a></td><td style="white-space: nowrap;"><i>diri</i></td>
+<td>'<span><em>Dracaena</em> sp.</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/tawala">Tawala</a></td><td><i>diri</i></td>
-<td>
-'<span><em>Dracaena</em> sp.</span>'</td>
+<td>PT</td><td><a href="../languages/tawala">Tawala</a></td><td style="white-space: nowrap;"><i>diri</i></td>
+<td>'<span><em>Dracaena</em> sp.</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/molima">Molima</a></td><td><i>dili</i></td>
-<td>
-'<span>red cordyline</span>'</td>
+<td>PT</td><td><a href="../languages/molima">Molima</a></td><td style="white-space: nowrap;"><i>dili</i></td>
+<td>'<span>red cordyline</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tiang">Tiang</a></td><td><i>si</i></td>
-<td>
-'<span>cordyline</span>'</td>
+<td>MM</td><td><a href="../languages/tiang">Tiang</a></td><td style="white-space: nowrap;"><i>si</i></td>
+<td>'<span>cordyline</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/karaeast">Kara (East)</a></td><td><i>si</i></td>
-<td>
-'<span><em>Cordyline fruticosa</em></span>'</td>
+<td>MM</td><td><a href="../languages/karaeast">Kara (East)</a></td><td style="white-space: nowrap;"><i>si</i></td>
+<td>'<span><em>Cordyline fruticosa</em></span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/karaeast">Kara (East)</a></td><td><i>si(-tavul)</i></td>
-<td>
-'<span><em>Dracaena angustifolia</em></span>'</td>
+<td>MM</td><td><a href="../languages/karaeast">Kara (East)</a></td><td style="white-space: nowrap;"><i>si(-tavul)</i></td>
+<td>'<span><em>Dracaena angustifolia</em></span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/nalik">Nalik</a></td><td><i>sir</i></td>
-<td>
-'<span>cordyline</span>'</td>
+<td>MM</td><td><a href="../languages/nalik">Nalik</a></td><td style="white-space: nowrap;"><i>sir</i></td>
+<td>'<span>cordyline</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tabar">Tabar</a></td><td><i>cir</i></td>
-<td>
-'<span>cordyline</span>'</td>
+<td>MM</td><td><a href="../languages/tabar">Tabar</a></td><td style="white-space: nowrap;"><i>cir</i></td>
+<td>'<span>cordyline</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/lihir">Lihir</a></td><td><i>cir</i></td>
-<td>
-'<span><em>Cordyline terminalis</em>/<em>Cordyline fruticosa</em></span>'</td>
+<td>MM</td><td><a href="../languages/lihir">Lihir</a></td><td style="white-space: nowrap;"><i>cir</i></td>
+<td>'<span><em>Cordyline terminalis</em>/<em>Cordyline fruticosa</em></span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/notsi">Notsi</a></td><td><i>cil</i></td>
-<td>
-'<span>cordyline</span>'</td>
+<td>MM</td><td><a href="../languages/notsi">Notsi</a></td><td style="white-space: nowrap;"><i>cil</i></td>
+<td>'<span>cordyline</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/konomala">Konomala</a></td><td><i>si</i></td>
-<td>
-'<span>cordyline</span>'</td>
+<td>MM</td><td><a href="../languages/konomala">Konomala</a></td><td style="white-space: nowrap;"><i>si</i></td>
+<td>'<span>cordyline</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/patpatar">Patpatar</a></td><td><i>suri(ah)</i></td>
-<td>
-'<span><em>Dracaena angustifolia</em></span>'</td>
+<td>MM</td><td><a href="../languages/patpatar">Patpatar</a></td><td style="white-space: nowrap;"><i>suri(ah)</i></td>
+<td>'<span><em>Dracaena angustifolia</em></span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td><i>ir</i></td>
-<td>
-'<span>leaf of the croton</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td style="white-space: nowrap;"><i>ir</i></td>
+<td>'<span>leaf of the croton</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td><i>ir-ira</i></td>
-<td>
-'<span>croton leaf, <em>Dracaena</em></span>'</td>
+<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td style="white-space: nowrap;"><i>ir-ira</i></td>
+<td>'<span>croton leaf, <em>Dracaena</em></span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/petats">Petats</a></td><td><i>rin</i></td>
-<td>
-'<span>cordyline</span>'</td>
+<td>MM</td><td><a href="../languages/petats">Petats</a></td><td style="white-space: nowrap;"><i>rin</i></td>
+<td>'<span>cordyline</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/taiof">Taiof</a></td><td><i>rir</i></td>
-<td>
-'<span>cordyline</span>'</td>
+<td>MM</td><td><a href="../languages/taiof">Taiof</a></td><td style="white-space: nowrap;"><i>rir</i></td>
+<td>'<span>cordyline</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/varisi">Varisi</a></td><td><i>zili(para)</i></td>
-<td>
-'<span><em>Cordyline fruticosa</em></span>' (<span>W. McClatchey, pers. comm.</span>)</td>
+<td>MM</td><td><a href="../languages/varisi">Varisi</a></td><td style="white-space: nowrap;"><i>zili(para)</i></td>
+<td>'<span><em>Cordyline fruticosa</em></span>' (<span>W. McClatchey, pers. comm.</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/marovo">Marovo</a></td><td><i>ji(polo)</i></td>
-<td>
-'<span><em>Cordyline fruticosa</em></span>'</td>
+<td>MM</td><td><a href="../languages/marovo">Marovo</a></td><td style="white-space: nowrap;"><i>ji(polo)</i></td>
+<td>'<span><em>Cordyline fruticosa</em></span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td><i>zi(polo)</i></td>
-<td>
-'<span>shrub, <em>Dracaena</em> sp.</span>'</td>
+<td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td style="white-space: nowrap;"><i>zi(polo)</i></td>
+<td>'<span>shrub, <em>Dracaena</em> sp.</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>dili</i></td>
-<td>
-'<span><em>Dracaena</em></span>'</td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td style="white-space: nowrap;"><i>dili</i></td>
+<td>'<span><em>Dracaena</em></span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>dili</i></td>
-<td>
-'<span><em>Dracaena</em> with thin green leaves</span>'</td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td style="white-space: nowrap;"><i>dili</i></td>
+<td>'<span><em>Dracaena</em> with thin green leaves</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/kwaraae">Kwara’ae</a></td><td><i>dili</i></td>
-<td>
-'<span><em>Cordyline fruticosa</em></span>'</td>
+<td>SES</td><td><a href="../languages/kwaraae">Kwara’ae</a></td><td style="white-space: nowrap;"><i>dili</i></td>
+<td>'<span><em>Cordyline fruticosa</em></span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>dili</i></td>
-<td>
-'<span><em>Cordyline fruticosa</em></span>'</td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td style="white-space: nowrap;"><i>dili</i></td>
+<td>'<span><em>Cordyline fruticosa</em></span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td><i>siri</i></td>
-<td>
-'<span>herb with red stem and leaves, used for magical purposes</span>'</td>
+<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>siri</i></td>
+<td>'<span>herb with red stem and leaves, used for magical purposes</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>dili</i></td>
-<td>
-'<span>Draecena</span>'</td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>dili</i></td>
+<td>'<span>Draecena</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>diri</i></td>
-<td>
-'<span>Draecena</span>'</td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td style="white-space: nowrap;"><i>diri</i></td>
+<td>'<span>Draecena</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td><a href="../languages/nyelayu">Nyelâyu</a></td><td><i>di</i></td>
-<td>
-'<span><em>Cordyline fruticosa</em></span>'</td>
+<td>NCal</td><td><a href="../languages/nyelayu">Nyelâyu</a></td><td style="white-space: nowrap;"><i>di</i></td>
+<td>'<span><em>Cordyline fruticosa</em></span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td><i>tĩ-n</i></td>
-<td>
-'<span><em>Cordyline fruticosa</em></span>'</td>
+<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td style="white-space: nowrap;"><i>tĩ-n</i></td>
+<td>'<span><em>Cordyline fruticosa</em></span>'</td>
 </tr>
 <tr>
 <td><strong>PCP</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;jĩ</i>
 </td>
-<td>
-'<span>taxon consisting of <em>Cordyline fruticosa</em> and <em>Dracaena angustifolia</em></span>'</td>
+<td>'<span>taxon consisting of <em>Cordyline fruticosa</em> and <em>Dracaena angustifolia</em></span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td><i>jĩ</i></td>
-<td>
-'<span>plant with ornamental leaves and a sweet root: <em>Cordyline fruticosa</em></span>'</td>
+<td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td style="white-space: nowrap;"><i>jĩ</i></td>
+<td>'<span>plant with ornamental leaves and a sweet root: <em>Cordyline fruticosa</em></span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>sĩ</i></td>
-<td>
-'<span><em>Cordyline fruticosa</em></span>'</td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td style="white-space: nowrap;"><i>sĩ</i></td>
+<td>'<span><em>Cordyline fruticosa</em></span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/eastfutunan">East Futunan</a></td><td><i>tĩ</i></td>
-<td>
-'<span><em>Cordyline fruticosa</em></span>'</td>
+<td>Pn</td><td><a href="../languages/eastfutunan">East Futunan</a></td><td style="white-space: nowrap;"><i>tĩ</i></td>
+<td>'<span><em>Cordyline fruticosa</em></span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>tĩ</i></td>
-<td>
-'<span><em>Cordyline fruticosa</em></span>'</td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td style="white-space: nowrap;"><i>tĩ</i></td>
+<td>'<span><em>Cordyline fruticosa</em></span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/westuvean">West Uvean</a></td><td><i>tĩ</i></td>
-<td>
-'<span>Draecena</span>'</td>
+<td>Pn</td><td><a href="../languages/westuvean">West Uvean</a></td><td style="white-space: nowrap;"><i>tĩ</i></td>
+<td>'<span>Draecena</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/emae">Emae</a></td><td><i>tĩ</i></td>
-<td>
-'<span><em>Cordyline</em> sp.</span>'</td>
+<td>Pn</td><td><a href="../languages/emae">Emae</a></td><td style="white-space: nowrap;"><i>tĩ</i></td>
+<td>'<span><em>Cordyline</em> sp.</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>tĩ</i></td>
-<td>
-'<span><em>Cordyline fruticosa</em></span>'</td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>tĩ</i></td>
+<td>'<span><em>Cordyline fruticosa</em></span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>tĩ</i></td>
-<td>
-'<span><em>Cordyline</em> sp.</span>'</td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td style="white-space: nowrap;"><i>tĩ</i></td>
+<td>'<span><em>Cordyline</em> sp.</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tuamotuan">Tuamotuan</a></td><td><i>tĩ</i></td>
-<td>
-'<span><em>Cordyline fruticosa</em></span>'</td>
+<td>Pn</td><td><a href="../languages/tuamotuan">Tuamotuan</a></td><td style="white-space: nowrap;"><i>tĩ</i></td>
+<td>'<span><em>Cordyline fruticosa</em></span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>kĩ</i></td>
-<td>
-'<span><em>Cordyline fruticosa</em></span>'</td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td style="white-space: nowrap;"><i>kĩ</i></td>
+<td>'<span><em>Cordyline fruticosa</em></span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/marquesan">Marquesan</a></td><td><i>tĩ</i></td>
-<td>
-'<span><em>Cordyline</em> sp.</span>'</td>
+<td>Pn</td><td><a href="../languages/marquesan">Marquesan</a></td><td style="white-space: nowrap;"><i>tĩ</i></td>
+<td>'<span><em>Cordyline</em> sp.</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tahitian">Tahitian</a></td><td><i>tĩ</i></td>
-<td>
-'<span><em>Cordyline fruticosa</em></span>'</td>
+<td>Pn</td><td><a href="../languages/tahitian">Tahitian</a></td><td style="white-space: nowrap;"><i>tĩ</i></td>
+<td>'<span><em>Cordyline fruticosa</em></span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>tĩ</i></td>
-<td>
-'<span><em>Cordyline</em> sp.</span>'</td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td style="white-space: nowrap;"><i>tĩ</i></td>
+<td>'<span><em>Cordyline</em> sp.</span>'</td>
 </tr>
 </table>
 
@@ -3589,89 +3046,72 @@ Medial parenthesised _&ast;-q-_ is reconstructed in POc _&ast;kaRi(q)a_ on the a
 <td style="white-space: nowrap;">
 <i>&ast;kaRi(q)a</i>
 </td>
-<td>
-'<span>taxon of decorative plants</span>' (<span>Geraghty 1990: PEOc <em>*gaRi(a)</em></span>)</td>
+<td>'<span>taxon of decorative plants</span>' (<span>Geraghty 1990: PEOc <em>&ast;gaRi(a)</em></span>)</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/tami">Tami</a></td><td><i>kali-kali</i></td>
-<td>
-'<span><em>Codiaeum variegatum</em></span>' (<a href="../sources/Dempwolff1902">Dempwolff1902</a>)
+<td>NNG</td><td><a href="../languages/tami">Tami</a></td><td style="white-space: nowrap;"><i>kali-kali</i></td>
+<td>'<span><em>Codiaeum variegatum</em></span>' (<a href="../sources/Dempwolff1902">Dempwolff1902</a>)
 </td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/kwaraae">Kwara’ae</a></td><td><i>ka-kali</i></td>
-<td>
-'<span><em>Hornstedtia lycostoma</em></span>'</td>
+<td>SES</td><td><a href="../languages/kwaraae">Kwara’ae</a></td><td style="white-space: nowrap;"><i>ka-kali</i></td>
+<td>'<span><em>Hornstedtia lycostoma</em></span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>karia</i></td>
-<td>
-'<span><em>Dracaena</em> sp.</span>'</td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td style="white-space: nowrap;"><i>karia</i></td>
+<td>'<span><em>Dracaena</em> sp.</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/ambae">Ambae</a></td><td><i>karie</i></td>
-<td>
-'<span><em>Cordyline</em> sp.</span>'</td>
+<td>NCV</td><td><a href="../languages/ambae">Ambae</a></td><td style="white-space: nowrap;"><i>karie</i></td>
+<td>'<span><em>Cordyline</em> sp.</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td><i>ɣaria</i></td>
-<td>
-'<span>generic for <em>Cordyline</em> spp.</span>'</td>
+<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td style="white-space: nowrap;"><i>ɣaria</i></td>
+<td>'<span>generic for <em>Cordyline</em> spp.</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/atchin">Atchin</a></td><td><i>kari</i></td>
-<td>
-'<span><em>Dracaena</em> sp.</span>'</td>
+<td>NCV</td><td><a href="../languages/atchin">Atchin</a></td><td style="white-space: nowrap;"><i>kari</i></td>
+<td>'<span><em>Dracaena</em> sp.</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/uripiv">Uripiv</a></td><td><i>gari</i></td>
-<td>
-'<span><em>Cordyline</em> sp.</span>'</td>
+<td>NCV</td><td><a href="../languages/uripiv">Uripiv</a></td><td style="white-space: nowrap;"><i>gari</i></td>
+<td>'<span><em>Cordyline</em> sp.</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/naman">Naman</a></td><td><i>na-ɣari</i></td>
-<td>
-'<span><em>Cordyline</em> sp.</span>'</td>
+<td>NCV</td><td><a href="../languages/naman">Naman</a></td><td style="white-space: nowrap;"><i>na-ɣari</i></td>
+<td>'<span><em>Cordyline</em> sp.</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/neveei">Neve’ei</a></td><td><i>na-ʔari</i></td>
-<td>
-'<span><em>Cordyline</em> sp.</span>'</td>
+<td>NCV</td><td><a href="../languages/neveei">Neve’ei</a></td><td style="white-space: nowrap;"><i>na-ʔari</i></td>
+<td>'<span><em>Cordyline</em> sp.</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/larevat">Larëvat</a></td><td><i>na-ɣri</i></td>
-<td>
-'<span><em>Cordyline</em> sp.</span>'</td>
+<td>NCV</td><td><a href="../languages/larevat">Larëvat</a></td><td style="white-space: nowrap;"><i>na-ɣri</i></td>
+<td>'<span><em>Cordyline</em> sp.</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/portsandwich">Port Sandwich</a></td><td><i>xari</i></td>
-<td>
-'<span>crotons</span>'</td>
+<td>NCV</td><td><a href="../languages/portsandwich">Port Sandwich</a></td><td style="white-space: nowrap;"><i>xari</i></td>
+<td>'<span>crotons</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/lewo">Lewo</a></td><td><i>(puru)kalie</i></td>
-<td>
-'<span><em>Cordyline</em> sp.</span>'</td>
+<td>NCV</td><td><a href="../languages/lewo">Lewo</a></td><td style="white-space: nowrap;"><i>(puru)kalie</i></td>
+<td>'<span><em>Cordyline</em> sp.</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/namakir">Namakir</a></td><td><i>kari</i></td>
-<td>
-'<span><em>Cordyline</em> sp.</span>'</td>
+<td>NCV</td><td><a href="../languages/namakir">Namakir</a></td><td style="white-space: nowrap;"><i>kari</i></td>
+<td>'<span><em>Cordyline</em> sp.</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/nguna">Nguna</a></td><td><i>na-karie</i></td>
-<td>
-'<span>palm-lily plant, <em>Dracaena</em> sp.</span>'</td>
+<td>NCV</td><td><a href="../languages/nguna">Nguna</a></td><td style="white-space: nowrap;"><i>na-karie</i></td>
+<td>'<span>palm-lily plant, <em>Dracaena</em> sp.</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/sye">Sye</a></td><td><i>(tana)ŋklai</i></td>
-<td>
-'<span><em>Cordyline</em> sp.</span>'</td>
+<td>SV</td><td><a href="../languages/sye">Sye</a></td><td style="white-space: nowrap;"><i>(tana)ŋklai</i></td>
+<td>'<span><em>Cordyline</em> sp.</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>gai</i></td>
-<td>
-'<span><em>Cordyline</em> sp.</span>'</td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td style="white-space: nowrap;"><i>gai</i></td>
+<td>'<span><em>Cordyline</em> sp.</span>'</td>
 </tr>
 </table>
 
@@ -3680,7 +3120,7 @@ cf. also:
 <tr>
 <td>MM</td>
 <td><a href="../languages/vitu">Vitu</a></td>
-<td><i>kariɣa</i></td>
+<td style="white-space: nowrap;"><i>kariɣa</i></td>
 <td>
 '<span>rattan</span>'</td>
 </tr>
@@ -3696,114 +3136,92 @@ cf. also:
 <td style="white-space: nowrap;">
 <i>&ast;jajal</i>
 </td>
-<td>
-'<span>croton, <em>Codiaeum variegatum</em></span>'</td>
+<td>'<span>croton, <em>Codiaeum variegatum</em></span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/yabem">Yabem</a></td><td><i>(ka)dada</i></td>
-<td>
-'<span>a grassland shrub, the sap of which is used to blacken teeth</span>' (<span>probably <em>Rhus taitensis</em>-MDR</span>)</td>
+<td>NNG</td><td><a href="../languages/yabem">Yabem</a></td><td style="white-space: nowrap;"><i>(ka)dada</i></td>
+<td>'<span>a grassland shrub, the sap of which is used to blacken teeth</span>' (<span>probably <em>Rhus taitensis</em>-MDR</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/nehan">Nehan</a></td><td><i>dedel(am)</i></td>
-<td>
-'<span><em>Codiaeum variegatum</em>, yellow and green variety</span>'</td>
+<td>MM</td><td><a href="../languages/nehan">Nehan</a></td><td style="white-space: nowrap;"><i>dedel(am)</i></td>
+<td>'<span><em>Codiaeum variegatum</em>, yellow and green variety</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/varisi">Varisi</a></td><td><i>zazala (piru)</i></td>
-<td>
-'<span>Codiaeum sp.</span>' (<span>W. McClatchey, pers. comm.</span>)</td>
+<td>MM</td><td><a href="../languages/varisi">Varisi</a></td><td style="white-space: nowrap;"><i>zazala (piru)</i></td>
+<td>'<span>Codiaeum sp.</span>' (<span>W. McClatchey, pers. comm.</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/babatana">Babatana</a></td><td><i>jajala</i></td>
-<td>
-'<span><em>Codiaeum variegatum</em></span>' (<span>W. McClatchey, pers. comm.</span>)</td>
+<td>MM</td><td><a href="../languages/babatana">Babatana</a></td><td style="white-space: nowrap;"><i>jajala</i></td>
+<td>'<span><em>Codiaeum variegatum</em></span>' (<span>W. McClatchey, pers. comm.</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/nduke">Nduke</a></td><td><i>zazala</i></td>
-<td>
-'<span><em>Codiaeum variegatum</em></span>'</td>
+<td>MM</td><td><a href="../languages/nduke">Nduke</a></td><td style="white-space: nowrap;"><i>zazala</i></td>
+<td>'<span><em>Codiaeum variegatum</em></span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td><i>zazala</i></td>
-<td>
-'<span><em>Codiaeum variegatum</em></span>'</td>
+<td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td style="white-space: nowrap;"><i>zazala</i></td>
+<td>'<span><em>Codiaeum variegatum</em></span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/marovo">Marovo</a></td><td><i>jajala</i></td>
-<td>
-'<span><em>Codiaeum variegatum</em></span>'</td>
+<td>MM</td><td><a href="../languages/marovo">Marovo</a></td><td style="white-space: nowrap;"><i>jajala</i></td>
+<td>'<span><em>Codiaeum variegatum</em></span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/mwotlap">Mwotlap</a></td><td><i>na-sas</i></td>
-<td>
-'<span><em>Codiaeum variegatum</em></span>'</td>
+<td>NCV</td><td><a href="../languages/mwotlap">Mwotlap</a></td><td style="white-space: nowrap;"><i>na-sas</i></td>
+<td>'<span><em>Codiaeum variegatum</em></span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>sasa</i></td>
-<td>
-'<span><em>Codiaeum variegatum</em></span>'</td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td style="white-space: nowrap;"><i>sasa</i></td>
+<td>'<span><em>Codiaeum variegatum</em></span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/ambae">Ambae</a></td><td><i>sasa</i></td>
-<td>
-'<span><em>Codiaeum variegatum</em></span>'</td>
+<td>NCV</td><td><a href="../languages/ambae">Ambae</a></td><td style="white-space: nowrap;"><i>sasa</i></td>
+<td>'<span><em>Codiaeum variegatum</em></span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/lonwolwol">Lonwolwol</a></td><td><i>ha</i></td>
-<td>
-'<span><em>Codiaeum variegatum</em></span>'</td>
+<td>NCV</td><td><a href="../languages/lonwolwol">Lonwolwol</a></td><td style="white-space: nowrap;"><i>ha</i></td>
+<td>'<span><em>Codiaeum variegatum</em></span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td><i>hahali</i></td>
-<td>
-'<span><em>Codiaeum variegatum</em></span>'</td>
+<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td style="white-space: nowrap;"><i>hahali</i></td>
+<td>'<span><em>Codiaeum variegatum</em></span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/apma">Apma</a></td><td><i>sasli</i></td>
-<td>
-'<span><em>Codiaeum variegatum</em></span>'</td>
+<td>NCV</td><td><a href="../languages/apma">Apma</a></td><td style="white-space: nowrap;"><i>sasli</i></td>
+<td>'<span><em>Codiaeum variegatum</em></span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/uripiv">Uripiv</a></td><td><i>na-jej</i></td>
-<td>
-'<span><em>Codiaeum variegatum</em></span>'</td>
+<td>NCV</td><td><a href="../languages/uripiv">Uripiv</a></td><td style="white-space: nowrap;"><i>na-jej</i></td>
+<td>'<span><em>Codiaeum variegatum</em></span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/rerep">Rerep</a></td><td><i>ne-jaj</i></td>
-<td>
-'<span><em>Codiaeum variegatum</em></span>'</td>
+<td>NCV</td><td><a href="../languages/rerep">Rerep</a></td><td style="white-space: nowrap;"><i>ne-jaj</i></td>
+<td>'<span><em>Codiaeum variegatum</em></span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/neveei">Neve’ei</a></td><td><i>ne-nsah</i></td>
-<td>
-'<span><em>Codiaeum variegatum</em></span>'</td>
+<td>NCV</td><td><a href="../languages/neveei">Neve’ei</a></td><td style="white-space: nowrap;"><i>ne-nsah</i></td>
+<td>'<span><em>Codiaeum variegatum</em></span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/tape">Tape</a></td><td><i>cec</i></td>
-<td>
-'<span><em>Codiaeum variegatum</em></span>'</td>
+<td>NCV</td><td><a href="../languages/tape">Tape</a></td><td style="white-space: nowrap;"><i>cec</i></td>
+<td>'<span><em>Codiaeum variegatum</em></span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/avava">Avava</a></td><td><i>a-sah</i></td>
-<td>
-'<span><em>Codiaeum variegatum</em></span>'</td>
+<td>NCV</td><td><a href="../languages/avava">Avava</a></td><td style="white-space: nowrap;"><i>a-sah</i></td>
+<td>'<span><em>Codiaeum variegatum</em></span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/lonwolwol">Lonwolwol</a></td><td><i>ha</i></td>
-<td>
-'<span><em>Codiaeum variegatum</em></span>'</td>
+<td>NCV</td><td><a href="../languages/lonwolwol">Lonwolwol</a></td><td style="white-space: nowrap;"><i>ha</i></td>
+<td>'<span><em>Codiaeum variegatum</em></span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>ðaða</i></td>
-<td>
-'<span><em>Codiaeum variegatum</em></span>' (<a href="../sources/Geraghty2004">Geraghty2004: 79</a>)
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td style="white-space: nowrap;"><i>ðaða</i></td>
+<td>'<span><em>Codiaeum variegatum</em></span>' (<a href="../sources/Geraghty2004">Geraghty2004: 79</a>)
 </td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td><i>sasa</i></td>
-<td>
-'<span><em>Codiaeum variegatum</em></span>' (<a href="../sources/Geraghty2004">Geraghty2004: 79</a>)
+<td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td style="white-space: nowrap;"><i>sasa</i></td>
+<td>'<span><em>Codiaeum variegatum</em></span>' (<a href="../sources/Geraghty2004">Geraghty2004: 79</a>)
 </td>
 </tr>
 </table>
@@ -3819,7 +3237,7 @@ cf. also:
 ### 6.5. _Heliconia indica_, heliconia, Blif laplap (Heliconiaceae)
 
 
-Two species of _Heliconia_ grow in NW Island Melanesia, _Heliconia indica_ in eastern mainland New Guinea and the Bismarcks and _Heliconia salomonensis_ in Bougainville and the Solomons (R. Gardner, pers. comm.). The two appear to be very· similar ([Figure 13.10](#fig-3-13_10), left).[^21] Numerous short stems formed from leaf sheaths rise from an underground rhizome to a height of 5 or 6 m. The leaves resemble banana leaves, and under cultivation assume various colours and patterns: yellow, yellow-and-green striped, bright red or dark red. In the wild heliconias grow in damp shady environments in primary and secondary forest.
+Two species of _Heliconia_ grow in NW Island Melanesia, _Heliconia indica_ in eastern mainland New Guinea and the Bismarcks and _Heliconia solomonensis_ in Bougainville and the Solomons (R. Gardner, pers. comm.). The two appear to be very· similar ([Figure 13.10](#fig-3-13_10), left).[^21] Numerous short stems formed from leaf sheaths rise from an underground rhizome to a height of 5 or 6 m. The leaves resemble banana leaves, and under cultivation assume various colours and patterns: yellow, yellow-and-green striped, bright red or dark red. In the wild heliconias grow in damp shady environments in primary and secondary forest.
 
 The leaves are used for covering and sealing the stone oven because of their thick, waxy cuticle and very large leaf surfaces. Thanks to their size, fewer are needed, reducing the labour of cutting and carrying ([Henderson & Hancock 1988](../sources/HendersonandHancock1988):239, [Kwa'ioloa & Burt 2001](../sources/KwaioloaandBurt2001): 196, [Hviding 2005](../sources/Hviding2005): 120).
 
@@ -3829,48 +3247,39 @@ The leaves are used for covering and sealing the stone oven because of their thi
 <td style="white-space: nowrap;">
 <i>&ast;paqo</i>
 </td>
-<td>
-'<span><em>Heliconia</em> sp</span>'</td>
+<td>'<span><em>Heliconia</em> sp</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/nduke">Nduke</a></td><td><i>vaɣo</i></td>
-<td>
-'<span>a large: perennial herb with banana-like leaves, <em>Heliconia salomonensis</em></span>'</td>
+<td>MM</td><td><a href="../languages/nduke">Nduke</a></td><td style="white-space: nowrap;"><i>vaɣo</i></td>
+<td>'<span>a large: perennial herb with banana-like leaves, <em>Heliconia solomonensis</em></span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/marovo">Marovo</a></td><td><i>vaɣo</i></td>
-<td>
-'<span>tree sp. with large banana-like leaves, <em>Heliconia</em> sp.</span>'</td>
+<td>MM</td><td><a href="../languages/marovo">Marovo</a></td><td style="white-space: nowrap;"><i>vaɣo</i></td>
+<td>'<span>tree sp. with large banana-like leaves, <em>Heliconia</em> sp.</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>vao-vao</i></td>
-<td>
-'<span>shrub with large leaves; wild banana</span>'</td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td style="white-space: nowrap;"><i>vao-vao</i></td>
+<td>'<span>shrub with large leaves; wild banana</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/santaana">Santa Ana</a></td><td><i>fao</i></td>
-<td>
-'<span><em>Heliconia salomonensis</em></span>'</td>
+<td>SES</td><td><a href="../languages/santaana">Santa Ana</a></td><td style="white-space: nowrap;"><i>fao</i></td>
+<td>'<span><em>Heliconia solomonensis</em></span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/mwotlap">Mwotlap</a></td><td><i>(no-yo)va</i></td>
-<td>
-'<span><em>Heliconia indica</em></span>' (<span><em>yo-</em> 'leaf</span>)</td>
+<td>NCV</td><td><a href="../languages/mwotlap">Mwotlap</a></td><td style="white-space: nowrap;"><i>(no-yo)va</i></td>
+<td>'<span><em>Heliconia indica</em></span>' (<span><em>yo-</em> 'leaf</span>)</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>vao</i></td>
-<td>
-'<span>a heliconium</span>'</td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td style="white-space: nowrap;"><i>vao</i></td>
+<td>'<span>a heliconium</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>vā-vā</i></td>
-<td>
-'<span><em>Heliconia</em> sp.</span>'</td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td style="white-space: nowrap;"><i>vā-vā</i></td>
+<td>'<span><em>Heliconia</em> sp.</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>va-vao(a)</i></td>
-<td>
-'<span>a plant, Bleekeria elliptica</span>'</td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td style="white-space: nowrap;"><i>va-vao(a)</i></td>
+<td>'<span>a plant, Bleekeria elliptica</span>'</td>
 </tr>
 </table>
 
@@ -3882,29 +3291,24 @@ The leaves are used for covering and sealing the stone oven because of their thi
 <td style="white-space: nowrap;">
 <i>&ast;rako</i>
 </td>
-<td>
-'<span><em>Heliconia</em> sp., usually <em>Heliconia indica</em></span>' (<a href="../sources/Lynch2004a">Lynch2004a</a>: <span>PSOc <em>*rau</em></span>)
+<td>'<span><em>Heliconia</em> sp., usually <em>Heliconia indica</em></span>' (<a href="../sources/Lynch2004a">Lynch2004a</a>: <span>PSOc <em>*rau</em></span>)
 </td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/kwaraae">Kwara’ae</a></td><td><i>rako</i></td>
-<td>
-'<span><em>Heliconia indica</em></span>'</td>
+<td>SES</td><td><a href="../languages/kwaraae">Kwara’ae</a></td><td style="white-space: nowrap;"><i>rako</i></td>
+<td>'<span><em>Heliconia indica</em></span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/southefate">South Efate</a></td><td><i>n-rau</i></td>
-<td>
-'<span><em>Heliconia</em> sp.</span>'</td>
+<td>NCV</td><td><a href="../languages/southefate">South Efate</a></td><td style="white-space: nowrap;"><i>n-rau</i></td>
+<td>'<span><em>Heliconia</em> sp.</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/sye">Sye</a></td><td><i>n-rau</i></td>
-<td>
-'<span><em>Heliconia</em> sp.</span>'</td>
+<td>SV</td><td><a href="../languages/sye">Sye</a></td><td style="white-space: nowrap;"><i>n-rau</i></td>
+<td>'<span><em>Heliconia</em> sp.</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/ura">Ura</a></td><td><i>lau</i></td>
-<td>
-'<span><em>Heliconia</em> sp. (generic)</span>'</td>
+<td>SV</td><td><a href="../languages/ura">Ura</a></td><td style="white-space: nowrap;"><i>lau</i></td>
+<td>'<span><em>Heliconia</em> sp. (generic)</span>'</td>
 </tr>
 </table>
 
@@ -3933,37 +3337,31 @@ The forms listed below are clearly cognate, but it is not clear whether or how m
 <td style="white-space: nowrap;">
 <i>&ast;mʷalak</i>
 </td>
-<td>
-'<span>spider lily, <em>Crinum asiaticum</em></span>'</td>
+<td>'<span>spider lily, <em>Crinum asiaticum</em></span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/kairiru">Kairiru</a></td><td><i>mlak(ap)</i></td>
-<td>
-'<span><em>Crinum asiaticum</em></span>'</td>
+<td>NNG</td><td><a href="../languages/kairiru">Kairiru</a></td><td style="white-space: nowrap;"><i>mlak(ap)</i></td>
+<td>'<span><em>Crinum asiaticum</em></span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/kilivila">Kilivila</a></td><td><i>mola(bau)</i></td>
-<td>
-'<span>a lily, <em>Crinum asiaticum</em></span>'</td>
+<td>PT</td><td><a href="../languages/kilivila">Kilivila</a></td><td style="white-space: nowrap;"><i>mola(bau)</i></td>
+<td>'<span>a lily, <em>Crinum asiaticum</em></span>'</td>
 </tr>
 <tr>
 <td><strong>PSOc</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;mʷalak</i>
 </td>
-<td>
-'<span>spider lily, <em>Crinum asiaticum</em></span>' (<a href="../sources/Lynch2004a">Lynch2004a</a>)
+<td>'<span>spider lily, <em>Crinum asiaticum</em></span>' (<a href="../sources/Lynch2004a">Lynch2004a</a>)
 </td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/mwotlap">Mwotlap</a></td><td><i>mʷ[a]lak</i></td>
-<td>
-</td>
+<td>NCV</td><td><a href="../languages/mwotlap">Mwotlap</a></td><td style="white-space: nowrap;"><i>mʷ[a]lak</i></td>
+<td></td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>no-(hos)meleɣ</i></td>
-<td>
-'<span>Crinum sp.</span>'</td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td style="white-space: nowrap;"><i>no-(hos)meleɣ</i></td>
+<td>'<span>Crinum sp.</span>'</td>
 </tr>
 </table>
 
@@ -4009,43 +3407,35 @@ Whistler provides names for _Benincasa hispida_, listed below, which allow us to
 <td style="white-space: nowrap;">
 <i>&ast;vaŋ(o,u)</i>
 </td>
-<td>
-'<span>wax gourd, <em>Benincasa hispida</em></span>'</td>
+<td>'<span>wax gourd, <em>Benincasa hispida</em></span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/laueasternfijian">Lau (Eastern Fijian)</a></td><td><i>vaŋo</i></td>
-<td>
-'<span><em>Benincasa hispida</em></span>'</td>
+<td>Fij</td><td><a href="../languages/laueasternfijian">Lau (Eastern Fijian)</a></td><td style="white-space: nowrap;"><i>vaŋo</i></td>
+<td>'<span><em>Benincasa hispida</em></span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>vaŋo</i></td>
-<td>
-'<span><em>Benincasa hispida</em></span>'</td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td style="white-space: nowrap;"><i>vaŋo</i></td>
+<td>'<span><em>Benincasa hispida</em></span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>faŋu</i></td>
-<td>
-'<span><em>Benincasa hispida</em></span>'</td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td style="white-space: nowrap;"><i>faŋu</i></td>
+<td>'<span><em>Benincasa hispida</em></span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>faŋu</i></td>
-<td>
-'<span>bottle</span>'</td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td style="white-space: nowrap;"><i>faŋu</i></td>
+<td>'<span>bottle</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>faŋu</i></td>
-<td>
-'<span><em>Benincasa hispida</em></span>'</td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>faŋu</i></td>
+<td>'<span><em>Benincasa hispida</em></span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/eastuvean">East Uvean</a></td><td><i>faŋu</i></td>
-<td>
-'<span><em>Benincasa hispida</em></span>'</td>
+<td>Pn</td><td><a href="../languages/eastuvean">East Uvean</a></td><td style="white-space: nowrap;"><i>faŋu</i></td>
+<td>'<span><em>Benincasa hispida</em></span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/eastfutunan">East Futunan</a></td><td><i>faŋu</i></td>
-<td>
-'<span><em>Benincasa hispida</em></span>'</td>
+<td>Pn</td><td><a href="../languages/eastfutunan">East Futunan</a></td><td style="white-space: nowrap;"><i>faŋu</i></td>
+<td>'<span><em>Benincasa hispida</em></span>'</td>
 </tr>
 </table>
 
@@ -4076,71 +3466,58 @@ This finding is not at odds with the historical fact that the modern pumpkin was
 <td style="white-space: nowrap;">
 <i>&ast;waluq, &ast;[w]aruq</i>
 </td>
-<td>
-'<span>pumpkin, <em>Cucurbita moschata</em> ?</span>'</td>
+<td>'<span>pumpkin, <em>Cucurbita moschata</em> ?</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/sio">Sio</a></td><td><i>waru</i></td>
-<td>
-'<span>pumpkin</span>'</td>
+<td>NNG</td><td><a href="../languages/sio">Sio</a></td><td style="white-space: nowrap;"><i>waru</i></td>
+<td>'<span>pumpkin</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/kela">Kela</a></td><td><i>waru-waru</i></td>
-<td>
-'<span>pumpkin</span>'</td>
+<td>NNG</td><td><a href="../languages/kela">Kela</a></td><td style="white-space: nowrap;"><i>waru-waru</i></td>
+<td>'<span>pumpkin</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/hote">Hote</a></td><td><i>lu-alu</i></td>
-<td>
-'<span>pumpkin</span>'</td>
+<td>NNG</td><td><a href="../languages/hote">Hote</a></td><td style="white-space: nowrap;"><i>lu-alu</i></td>
+<td>'<span>pumpkin</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/maposbuang">Mapos Buang</a></td><td><i>ruχ-arūχ</i></td>
-<td>
-'<span>pumpkin</span>' (<span><em>-r-</em> for <em>†-l-</em></span>)</td>
+<td>NNG</td><td><a href="../languages/maposbuang">Mapos Buang</a></td><td style="white-space: nowrap;"><i>ruχ-arūχ</i></td>
+<td>'<span>pumpkin</span>' (<span><em>-r-</em> for <em>†-l-</em></span>)</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/patep">Patep</a></td><td><i>luʔ-əlu</i></td>
-<td>
-'<span>pumpkin</span>'</td>
+<td>NNG</td><td><a href="../languages/patep">Patep</a></td><td style="white-space: nowrap;"><i>luʔ-əlu</i></td>
+<td>'<span>pumpkin</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/dami">Dami</a></td><td><i>olu</i></td>
-<td>
-'<span>pumpkin</span>'</td>
+<td>NNG</td><td><a href="../languages/dami">Dami</a></td><td style="white-space: nowrap;"><i>olu</i></td>
+<td>'<span>pumpkin</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td><i>walu</i></td>
-<td>
-'<span>pumpkin</span>'</td>
+<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td style="white-space: nowrap;"><i>walu</i></td>
+<td>'<span>pumpkin</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/gapapaiwa">Gapapaiwa</a></td><td><i>bonu-bonu</i></td>
-<td>
-'<span>pumpkin</span>'</td>
+<td>PT</td><td><a href="../languages/gapapaiwa">Gapapaiwa</a></td><td style="white-space: nowrap;"><i>bonu-bonu</i></td>
+<td>'<span>pumpkin</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/misima">Misima</a></td><td><i>bonu-bonu</i></td>
-<td>
-'<span>pumpkin</span>'</td>
+<td>PT</td><td><a href="../languages/misima">Misima</a></td><td style="white-space: nowrap;"><i>bonu-bonu</i></td>
+<td>'<span>pumpkin</span>'</td>
 </tr>
 <tr>
 <td><strong>PSV</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;na-r(o,u)r(o,u)(q)</i>
 </td>
-<td>
-'<span>pumpkin, gourd</span>'</td>
+<td>'<span>pumpkin, gourd</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/lenakel">Lenakel</a></td><td><i>(noua)ne-lulu</i></td>
-<td>
-'<span>pumpkin</span>'</td>
+<td>SV</td><td><a href="../languages/lenakel">Lenakel</a></td><td style="white-space: nowrap;"><i>(noua)ne-lulu</i></td>
+<td>'<span>pumpkin</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>ne-rero</i></td>
-<td>
-'<span>gourd</span>'</td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td style="white-space: nowrap;"><i>ne-rero</i></td>
+<td>'<span>gourd</span>'</td>
 </tr>
 </table>
 
@@ -4169,8 +3546,7 @@ Shown in parentheses below are irregular phonological developments, implying tha
 <td style="white-space: nowrap;">
 <i>&ast;[ka]timun</i>
 </td>
-<td>
-'<span>cucurbit (generic); cucumber, <em>Cucumis sativus</em></span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>: <span><em>*timun</em></span>)
+<td>'<span>cucurbit (generic); cucumber, <em>Cucumis sativus</em></span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>: <span><em>*timun</em></span>)
 </td>
 </tr>
 <tr>
@@ -4178,76 +3554,62 @@ Shown in parentheses below are irregular phonological developments, implying tha
 <td style="white-space: nowrap;">
 <i>&ast;[ka]tim(o,u)n</i>
 </td>
-<td>
-'<span>Cucumis spp. (generic?); cucumber, <em>Cucumis sativus</em></span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>Cucumis spp. (generic?); cucumber, <em>Cucumis sativus</em></span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/sengseng">Sengseng</a></td><td><i>tamun</i></td>
-<td>
-'<span><em>Cucumis sativus</em></span>' (<span>A. Chowning, pers. comm.</span>)</td>
+<td>NNG</td><td><a href="../languages/sengseng">Sengseng</a></td><td style="white-space: nowrap;"><i>tamun</i></td>
+<td>'<span><em>Cucumis sativus</em></span>' (<span>A. Chowning, pers. comm.</span>)</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/sengseng">Sengseng</a></td><td><i>katim</i></td>
-<td>
-'<span>small cultivated cucurbit with dark green skin and sweet orange flesh</span>' (<span>probably borrowed; A. Chowning, pers. comm.</span>)</td>
+<td>NNG</td><td><a href="../languages/sengseng">Sengseng</a></td><td style="white-space: nowrap;"><i>katim</i></td>
+<td>'<span>small cultivated cucurbit with dark green skin and sweet orange flesh</span>' (<span>probably borrowed; A. Chowning, pers. comm.</span>)</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/gitua">Gitua</a></td><td><i>karimon</i></td>
-<td>
-'<span>cucumber</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>NNG</td><td><a href="../languages/gitua">Gitua</a></td><td style="white-space: nowrap;"><i>karimon</i></td>
+<td>'<span>cucumber</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/maposbuang">Mapos Buang</a></td><td><i>qatimŋ</i></td>
-<td>
-'<span>cucumber, <em>Cucumis sativus</em></span>'</td>
+<td>NNG</td><td><a href="../languages/maposbuang">Mapos Buang</a></td><td style="white-space: nowrap;"><i>qatimŋ</i></td>
+<td>'<span>cucumber, <em>Cucumis sativus</em></span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/patep">Patep</a></td><td><i>kətima</i></td>
-<td>
-'<span>cucumber, <em>Cucumis sativus</em></span>' (<span><em>-a-</em> for †<em>-(o,u)-</em></span>)</td>
+<td>NNG</td><td><a href="../languages/patep">Patep</a></td><td style="white-space: nowrap;"><i>kətima</i></td>
+<td>'<span>cucumber, <em>Cucumis sativus</em></span>' (<span><em>-a-</em> for †<em>-(o,u)-</em></span>)</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/numbami">Numbami</a></td><td><i>katimana</i></td>
-<td>
-'<span>cucumber</span>' (<span><em>-a-</em> for †<em>-(o,u)-</em></span>)</td>
+<td>NNG</td><td><a href="../languages/numbami">Numbami</a></td><td style="white-space: nowrap;"><i>katimana</i></td>
+<td>'<span>cucumber</span>' (<span><em>-a-</em> for †<em>-(o,u)-</em></span>)</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>asemo</i></td>
-<td>
-'<span>small wild cucumber, Cucumis sp.</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td style="white-space: nowrap;"><i>asemo</i></td>
+<td>'<span>small wild cucumber, Cucumis sp.</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/sursurunga">Sursurunga</a></td><td><i>katmur</i></td>
-<td>
-'<span>vegetable like pumpkin or cucumber</span>' (<span><em>-r</em> for †<em>-n</em></span>)</td>
+<td>MM</td><td><a href="../languages/sursurunga">Sursurunga</a></td><td style="white-space: nowrap;"><i>katmur</i></td>
+<td>'<span>vegetable like pumpkin or cucumber</span>' (<span><em>-r</em> for †<em>-n</em></span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td><i>katimur</i></td>
-<td>
-'<span>Pacific melon, Cucumis melo</span>' (<span><em>-r</em> for †<em>-n</em></span>)</td>
+<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td style="white-space: nowrap;"><i>katimur</i></td>
+<td>'<span>Pacific melon, Cucumis melo</span>' (<span><em>-r</em> for †<em>-n</em></span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/teop">Teop</a></td><td><i>asimuru</i></td>
-<td>
-'<span>a vegetable like a cucumber</span>' (<span><em>-r</em> for †<em>-n</em></span>)</td>
+<td>MM</td><td><a href="../languages/teop">Teop</a></td><td style="white-space: nowrap;"><i>asimuru</i></td>
+<td>'<span>a vegetable like a cucumber</span>' (<span><em>-r</em> for †<em>-n</em></span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tinputz">Tinputz</a></td><td><i>asimū</i></td>
-<td>
-'<span>cucumber</span>'</td>
+<td>MM</td><td><a href="../languages/tinputz">Tinputz</a></td><td style="white-space: nowrap;"><i>asimū</i></td>
+<td>'<span>cucumber</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>timo</i></td>
-<td>
-'<span>a plant, Cucumis acidus</span>'</td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td style="white-space: nowrap;"><i>timo</i></td>
+<td>'<span>a plant, Cucumis acidus</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/eastfutunan">East Futunan</a></td><td><i>timo</i></td>
-<td>
-'<span>melon</span>'</td>
+<td>Pn</td><td><a href="../languages/eastfutunan">East Futunan</a></td><td style="white-space: nowrap;"><i>timo</i></td>
+<td>'<span>melon</span>'</td>
 </tr>
 </table>
 

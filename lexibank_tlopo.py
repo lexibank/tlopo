@@ -1,5 +1,6 @@
 import shutil
 import pathlib
+import functools
 import collections
 
 import attr
@@ -221,6 +222,16 @@ class Dataset(BaseDataset):
                 str(rec)
             list(vol.chapters)
 
+    @functools.cached_property
+    def taxa(self):
+        _taxa = {}
+        for row in self.etc_dir.read_csv('species_and_genera.csv', dicts=True):
+            if row['synonyms']:
+                for syn in row['synonyms'].split('; '):
+                    _taxa['_' + syn + '_'] = row['ID']
+            _taxa['_' + row['name'] + '_'] = row['ID']
+        return _taxa
+
     def add_form(self, writer, protoform_or_reflex, gloss2id, langs, lexid2fn, poc_gloss='none'):
         gloss = protoform_or_reflex.glosses[0].gloss if protoform_or_reflex.glosses else poc_gloss
 
@@ -237,6 +248,7 @@ class Dataset(BaseDataset):
                 Description=gloss,
                 Value=protoform_or_reflex.form,
                 Comment=protoform_or_reflex.comment,
+                Morpheme_Gloss=protoform_or_reflex.morpheme_gloss,
                 Source=[r.cldf_id for r in protoform_or_reflex.sources or []],
                 # Doubt=getattr(form, 'doubt', False),
                 )[0]
@@ -276,6 +288,7 @@ class Dataset(BaseDataset):
                     Part_Of_Speech=gloss.pos,
                     qualifier=gloss.qualifier,
                     Source=[ref.cldf_id for ref in gloss.sources],
+                    Taxon_IDs=sorted(v for k, v in self.taxa.items() if k in (gloss.gloss or '')),
                 )
                 writer.objects['glosses.csv'].append(g)
                 old_glosses[gloss] = g
@@ -329,7 +342,7 @@ class Dataset(BaseDataset):
                     ID=slug(w.lang), Name=slug(w.lang, lowercase=False), Is_Proto=True)
                 langs[w.lang] = slug(w.lang)
 
-        fgs, egs = [], []
+        fgs, egs, taxon2sections = [], [], collections.defaultdict(list)
         for vol in range(1, 7):
             #if vol not in {1, 2, 3, 4, 5}:
             #    continue
@@ -357,6 +370,10 @@ class Dataset(BaseDataset):
                     ))
                 p = mddir.joinpath('chapter{}.md'.format(num))
                 p.write_text(chapter.text, encoding='utf-8')
+                for sid, text in chapter.iter_sections():
+                    for k, v in self.taxa.items():
+                        if k in text:
+                            taxon2sections[v].append(('{}-{}'.format(vol.num, num), sid))
                 args.writer.objects['MediaTable'].append(dict(
                     ID='{}-{}-text'.format(vol.num, num),
                     Name='Volume {} Chapter {}'.format(vol.num, num),
@@ -381,6 +398,12 @@ class Dataset(BaseDataset):
             args.writer.add_language(
                 ID=lg['ID'], Name=lg['Name'], Is_Proto=False, Group=lg['Group'],
                 Latitude=lg['Latitude'], Longitude=lg['Longitude'])
+
+        for row in self.etc_dir.read_csv('species_and_genera.csv', dicts=True):
+            row['GBIF_ID'] = row['ID']
+            row['synonyms'] = [s.strip() for s in (row['synonyms'] or '').split(';') if s.strip()]
+            row['sections'] = taxon2sections.get(row['ID'], [])
+            args.writer.objects['taxa.csv'].append(row)
 
         # map (lang, form) pairs to associated glosses (as dict mapping gloss to gloss object with all properties.).
         words, lexid2fn, lexid2doubt = {}, {}, {}
@@ -469,11 +492,7 @@ class Dataset(BaseDataset):
             ))
 
             for i, (name, items) in enumerate(rec.cfs, start=1):
-                # We simply link cf sets to cognatesetreferences!
-                #if known_cogset:
-                #    print('cf table {} for known cogset!: {}'.format(i, rec.id))
                 #
-                # FIXME: cfsets must also remember gloss_ids!
                 # FIXME: inherit gloss from proto-form gloss!
                 #
                 args.writer.objects['cf.csv'].append(dict(
@@ -532,7 +551,6 @@ class Dataset(BaseDataset):
                     Ordinal=j,
                     Gloss_IDs=self.add_glosses(args.writer, w, lex['ID'], words[(lid, w.form)][1]),
                     # Source=[str(ref) for ref in form.gloss.refs],
-                    # Doubt=form.doubt,
                 ))
         for eg in egs:
             for ex in eg.examples:
@@ -548,9 +566,6 @@ class Dataset(BaseDataset):
                     Source=[ex.reference.cldf_id] if ex.reference else [],
                     Reference_Label=ex.reference.label if ex.reference else '',
                     Comment=ex.comment,
-                    #
-                    # FIXME: make complete!
-                    #
                 ))
             args.writer.objects['examplegroups.csv'].append(dict(
                 ID=eg.id,
@@ -564,6 +579,9 @@ class Dataset(BaseDataset):
         Gloss
         - number
         """
+        #
+        # Add GBIF ID to ParameterTable and store taxa as parameters!
+        #
         cldf.add_table(
             'examplegroups.csv',
             {
@@ -615,6 +633,9 @@ class Dataset(BaseDataset):
         )
         cldf.add_table(
             'cognatesetreferences.csv',
+            #
+            # FIXME: store IDs of taxa mentioned in glosses of reflexes!
+            #
             {
                 'name': 'ID',
                 'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#id'},
@@ -661,6 +682,10 @@ class Dataset(BaseDataset):
                 'dc:description':
                     '',
                 'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#name'},
+            {
+                'name': 'Taxon_IDs',
+                'separator': ' ',
+            },
             'qualifier',
             {
                 'name': 'Form_ID',
@@ -677,6 +702,25 @@ class Dataset(BaseDataset):
                 'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#source'},
             'Part_Of_Speech'
         )
+        cldf.add_table(
+            'taxa.csv',
+            {'name': 'ID', 'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#id'},
+            {'name': 'GBIF_ID', 'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#gbifReference'},
+            {'name': 'name', 'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#name'},
+            {'name': 'name_eng'},
+            {'name': 'rank'},  # FIXME: one of SPCIES|GENUS
+            {'name': 'kingdom'},
+            {'name': 'phylum'},
+            {'name': 'class'},
+            {'name': 'order'},
+            {'name': 'family'},
+            {'name': 'genus'},
+            {'name': 'genus_eng'},
+            {'name': 'family_eng'},
+            {'name': 'synonyms', 'separator': '; '},
+            {'name': 'sections', 'datatype': 'json'},
+        )
+        cldf.add_foreign_key('glosses.csv', 'Taxon_IDs', 'taxa.csv', 'ID')
         cldf.add_foreign_key('cfitems.csv', 'Gloss_IDs', 'glosses.csv', 'ID')
         cldf.add_foreign_key('cognatesetreferences.csv', 'Gloss_IDs', 'glosses.csv', 'ID')
         cldf.add_foreign_key('cf.csv', 'CognatesetReference_ID', 'cognatesetreferences.csv', 'ID')

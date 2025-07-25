@@ -322,8 +322,7 @@ The preposition _&ast;i_, which occurred before local nouns, is widely reflected
 <td style="white-space: nowrap;">
 <i>&ast;i</i>
 </td>
-<td>
-[PREP] '<span>g:locative</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>[PREP] '<span>g:locative</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -331,208 +330,167 @@ The preposition _&ast;i_, which occurred before local nouns, is widely reflected
 <td style="white-space: nowrap;">
 <i>&ast;i</i>
 </td>
-<td>
-'<span>g:locative</span>'</td>
+<td>'<span>g:locative</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td><i>e-</i></td>
-<td>
- (<span>fossilised prefix on locative nouns</span>)</td>
+<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td style="white-space: nowrap;"><i>e-</i></td>
+<td> (<span>fossilised prefix on locative nouns</span>)</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/penchal">Penchal</a></td><td><i>i</i></td>
-<td>
-[PREP]  (<span>locative, temporal, allative, instrumental</span>)</td>
+<td>Adm</td><td><a href="../languages/penchal">Penchal</a></td><td style="white-space: nowrap;"><i>i</i></td>
+<td>[PREP]  (<span>locative, temporal, allative, instrumental</span>)</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/lou">Lou</a></td><td><i>e</i></td>
-<td>
-[PREP]  (<span>locative, allative</span>)</td>
+<td>Adm</td><td><a href="../languages/lou">Lou</a></td><td style="white-space: nowrap;"><i>e</i></td>
+<td>[PREP]  (<span>locative, allative</span>)</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td><i>e-</i></td>
-<td>
- (<span>locative prefix, e.g. e-lau ‘seawards’</span>)</td>
+<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td style="white-space: nowrap;"><i>e-</i></td>
+<td> (<span>locative prefix, e.g. e-lau ‘seawards’</span>)</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/molima">Molima</a></td><td><i>i-</i></td>
-<td>
- (<span>locative prefix</span>)</td>
+<td>PT</td><td><a href="../languages/molima">Molima</a></td><td style="white-space: nowrap;"><i>i-</i></td>
+<td> (<span>locative prefix</span>)</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/sudest">Sudest</a></td><td><i>e</i></td>
-<td>
-[PREP]  (<span>locative</span>)</td>
+<td>PT</td><td><a href="../languages/sudest">Sudest</a></td><td style="white-space: nowrap;"><i>e</i></td>
+<td>[PREP]  (<span>locative</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td><i>e</i></td>
-<td>
- (<span>locative; PREP w PLC</span>)</td>
+<td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td style="white-space: nowrap;"><i>e</i></td>
+<td> (<span>locative; PREP w PLC</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/kara">Kara</a></td><td><i>i</i></td>
-<td>
-[PREP]  (<span>locative</span>)</td>
+<td>MM</td><td><a href="../languages/kara">Kara</a></td><td style="white-space: nowrap;"><i>i</i></td>
+<td>[PREP]  (<span>locative</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/nalik">Nalik</a></td><td><i>i-</i></td>
-<td>
- (<span>prefix on locative demonstratives</span>)</td>
+<td>MM</td><td><a href="../languages/nalik">Nalik</a></td><td style="white-space: nowrap;"><i>i-</i></td>
+<td> (<span>prefix on locative demonstratives</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tabar">Tabar</a></td><td><i>i</i></td>
-<td>
- (<span>locative; PREP w PLC, N LOC</span>)</td>
+<td>MM</td><td><a href="../languages/tabar">Tabar</a></td><td style="white-space: nowrap;"><i>i</i></td>
+<td> (<span>locative; PREP w PLC, N LOC</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/lihir">Lihir</a></td><td><i>i</i></td>
-<td>
- (<span>locative; PREP w PLC, N LOC</span>)</td>
+<td>MM</td><td><a href="../languages/lihir">Lihir</a></td><td style="white-space: nowrap;"><i>i</i></td>
+<td> (<span>locative; PREP w PLC, N LOC</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/sursurunga">Sursurunga</a></td><td><i>i</i></td>
-<td>
-[PREP]  (<span>locative, temporal</span>)</td>
+<td>MM</td><td><a href="../languages/sursurunga">Sursurunga</a></td><td style="white-space: nowrap;"><i>i</i></td>
+<td>[PREP]  (<span>locative, temporal</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td><i>i-</i></td>
-<td>
- (<span>prefix on locative demonstratives</span>)</td>
+<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td style="white-space: nowrap;"><i>i-</i></td>
+<td> (<span>prefix on locative demonstratives</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/halia">Halia</a></td><td><i>i</i></td>
-<td>
-[PREP]  (<span>locative</span>)</td>
+<td>MM</td><td><a href="../languages/halia">Halia</a></td><td style="white-space: nowrap;"><i>i</i></td>
+<td>[PREP]  (<span>locative</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/taiof">Taiof</a></td><td><i>i</i></td>
-<td>
- (<span>locative; PREP w predicate N LOC</span>)</td>
+<td>MM</td><td><a href="../languages/taiof">Taiof</a></td><td style="white-space: nowrap;"><i>i</i></td>
+<td> (<span>locative; PREP w predicate N LOC</span>)</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td><i>i</i></td>
-<td>
-[PREP]  (<span>locative</span>)</td>
+<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td style="white-space: nowrap;"><i>i</i></td>
+<td>[PREP]  (<span>locative</span>)</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>i</i></td>
-<td>
- (<span>locative; PREP w N LOC</span>)</td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td style="white-space: nowrap;"><i>i</i></td>
+<td> (<span>locative; PREP w N LOC</span>)</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/lengo">Lengo</a></td><td><i>i</i></td>
-<td>
-[PREP]  (<span>locative</span>)</td>
+<td>SES</td><td><a href="../languages/lengo">Lengo</a></td><td style="white-space: nowrap;"><i>i</i></td>
+<td>[PREP]  (<span>locative</span>)</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/longgu">Longgu</a></td><td><i>i</i></td>
-<td>
- (<span>locative; PREP w N LOC</span>)</td>
+<td>SES</td><td><a href="../languages/longgu">Longgu</a></td><td style="white-space: nowrap;"><i>i</i></td>
+<td> (<span>locative; PREP w N LOC</span>)</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>i</i></td>
-<td>
- (<span>locative; PREP w PLC, N LOC</span>)</td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td style="white-space: nowrap;"><i>i</i></td>
+<td> (<span>locative; PREP w PLC, N LOC</span>)</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>i</i></td>
-<td>
-[PREP]  (<span>locative</span>)</td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td style="white-space: nowrap;"><i>i</i></td>
+<td>[PREP]  (<span>locative</span>)</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/kwaraae">Kwara’ae</a></td><td><i>i</i></td>
-<td>
-[PREP]  (<span>locative</span>)</td>
+<td>SES</td><td><a href="../languages/kwaraae">Kwara’ae</a></td><td style="white-space: nowrap;"><i>i</i></td>
+<td>[PREP]  (<span>locative</span>)</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>i</i></td>
-<td>
-[PREP]  (<span>locative</span>)</td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>i</i></td>
+<td>[PREP]  (<span>locative</span>)</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>i</i></td>
-<td>
-[PREP]  (<span>locative</span>)</td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td style="white-space: nowrap;"><i>i</i></td>
+<td>[PREP]  (<span>locative</span>)</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>i</i></td>
-<td>
-[PREP]  (<span>locative</span>)</td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td style="white-space: nowrap;"><i>i</i></td>
+<td>[PREP]  (<span>locative</span>)</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/merlav">Merlav</a></td><td><i>i</i></td>
-<td>
-[PREP]  (<span>locative</span>)</td>
+<td>NCV</td><td><a href="../languages/merlav">Merlav</a></td><td style="white-space: nowrap;"><i>i</i></td>
+<td>[PREP]  (<span>locative</span>)</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/nguna">Nguna</a></td><td><i>e-</i></td>
-<td>
-[PREP]  (<span>locative</span>)</td>
+<td>NCV</td><td><a href="../languages/nguna">Nguna</a></td><td style="white-space: nowrap;"><i>e-</i></td>
+<td>[PREP]  (<span>locative</span>)</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/kwamera">Kwamera</a></td><td><i>i-</i></td>
-<td>
- (<span>prefix on locative nouns</span>)</td>
+<td>SV</td><td><a href="../languages/kwamera">Kwamera</a></td><td style="white-space: nowrap;"><i>i-</i></td>
+<td> (<span>prefix on locative nouns</span>)</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/lenakel">Lenakel</a></td><td><i>i-</i></td>
-<td>
- (<span>prefix on locative nouns</span>)</td>
+<td>SV</td><td><a href="../languages/lenakel">Lenakel</a></td><td style="white-space: nowrap;"><i>i-</i></td>
+<td> (<span>prefix on locative nouns</span>)</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>i-</i></td>
-<td>
- (<span>prefix on locative nouns</span>)</td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td style="white-space: nowrap;"><i>i-</i></td>
+<td> (<span>prefix on locative nouns</span>)</td>
 </tr>
 <tr>
-<td>NCal</td><td><a href="../languages/iaai">Iaai</a></td><td><i>e-</i></td>
-<td>
- (<span>prefix on locative adverbs</span>)</td>
+<td>NCal</td><td><a href="../languages/iaai">Iaai</a></td><td style="white-space: nowrap;"><i>e-</i></td>
+<td> (<span>prefix on locative adverbs</span>)</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>i</i></td>
-<td>
-[PREP]  (<span>locative</span>)</td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td style="white-space: nowrap;"><i>i</i></td>
+<td>[PREP]  (<span>locative</span>)</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>e</i></td>
-<td>
-[PREP]  (<span>locative</span>)</td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td style="white-space: nowrap;"><i>e</i></td>
+<td>[PREP]  (<span>locative</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>i, ʔi</i></td>
-<td>
-[PREP]  (<span>locative</span>)</td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td style="white-space: nowrap;"><i>i, ʔi</i></td>
+<td>[PREP]  (<span>locative</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/niuafoou">Niuafo’ou</a></td><td><i>ʔi</i></td>
-<td>
-[PREP]  (<span>locative</span>)</td>
+<td>Pn</td><td><a href="../languages/niuafoou">Niuafo’ou</a></td><td style="white-space: nowrap;"><i>ʔi</i></td>
+<td>[PREP]  (<span>locative</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/eastfutunan">East Futunan</a></td><td><i>i</i></td>
-<td>
-[PREP]  (<span>locative</span>)</td>
+<td>Pn</td><td><a href="../languages/eastfutunan">East Futunan</a></td><td style="white-space: nowrap;"><i>i</i></td>
+<td>[PREP]  (<span>locative</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/eastuvean">East Uvean</a></td><td><i>ʔi</i></td>
-<td>
-[PREP]  (<span>locative</span>)</td>
+<td>Pn</td><td><a href="../languages/eastuvean">East Uvean</a></td><td style="white-space: nowrap;"><i>ʔi</i></td>
+<td>[PREP]  (<span>locative</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>i</i></td>
-<td>
-[PREP]  (<span>locative</span>)</td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>i</i></td>
+<td>[PREP]  (<span>locative</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/pileni">Pileni</a></td><td><i>i</i></td>
-<td>
-[PREP]  (<span>locative</span>)</td>
+<td>Pn</td><td><a href="../languages/pileni">Pileni</a></td><td style="white-space: nowrap;"><i>i</i></td>
+<td>[PREP]  (<span>locative</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/marquesan">Marquesan</a></td><td><i>ʔi</i></td>
-<td>
-[PREP]  (<span>locative</span>)</td>
+<td>Pn</td><td><a href="../languages/marquesan">Marquesan</a></td><td style="white-space: nowrap;"><i>ʔi</i></td>
+<td>[PREP]  (<span>locative</span>)</td>
 </tr>
 </table>
 
@@ -555,73 +513,59 @@ As mentioned above, a number of local nouns also formed POc local adverbs with t
 <td style="white-space: nowrap;">
 <i>&ast;qa-</i>
 </td>
-<td>
-</td>
+<td></td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/bariai">Bariai</a></td><td><i>ga-</i></td>
-<td>
- (<span>local adverb formative</span>)</td>
+<td>NNG</td><td><a href="../languages/bariai">Bariai</a></td><td style="white-space: nowrap;"><i>ga-</i></td>
+<td> (<span>local adverb formative</span>)</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td><i>a-</i></td>
-<td>
- (<span>local adverb formative; fossil</span>)</td>
+<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td style="white-space: nowrap;"><i>a-</i></td>
+<td> (<span>local adverb formative; fossil</span>)</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/kairiru">Kairiru</a></td><td><i>qa-</i></td>
-<td>
- (<span>local adverb formative; fossil</span>)</td>
+<td>NNG</td><td><a href="../languages/kairiru">Kairiru</a></td><td style="white-space: nowrap;"><i>qa-</i></td>
+<td> (<span>local adverb formative; fossil</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/vitu">Vitu</a></td><td><i>ɣe-</i></td>
-<td>
- (<span>local adverb formative</span>)</td>
+<td>MM</td><td><a href="../languages/vitu">Vitu</a></td><td style="white-space: nowrap;"><i>ɣe-</i></td>
+<td> (<span>local adverb formative</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/siar">Siar</a></td><td><i>a-</i></td>
-<td>
- (<span>local adverb formative</span>)</td>
+<td>MM</td><td><a href="../languages/siar">Siar</a></td><td style="white-space: nowrap;"><i>a-</i></td>
+<td> (<span>local adverb formative</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td><i>a-</i></td>
-<td>
- (<span>local adverb formative</span>)</td>
+<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td style="white-space: nowrap;"><i>a-</i></td>
+<td> (<span>local adverb formative</span>)</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>ɣa-</i></td>
-<td>
- (<span>local adverb formative; fossil</span>)</td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td style="white-space: nowrap;"><i>ɣa-</i></td>
+<td> (<span>local adverb formative; fossil</span>)</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>a-</i></td>
-<td>
- (<span>local adverb formative</span>)</td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td style="white-space: nowrap;"><i>a-</i></td>
+<td> (<span>local adverb formative</span>)</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/ambae">Ambae</a></td><td><i>a-</i></td>
-<td>
- (<span>local adverb formative</span>)</td>
+<td>NCV</td><td><a href="../languages/ambae">Ambae</a></td><td style="white-space: nowrap;"><i>a-</i></td>
+<td> (<span>local adverb formative</span>)</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td><i>a-</i></td>
-<td>
- (<span>local adverb formative</span>)</td>
+<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td style="white-space: nowrap;"><i>a-</i></td>
+<td> (<span>local adverb formative</span>)</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/portsandwich">Port Sandwich</a></td><td><i>a-</i></td>
-<td>
- (<span>local adverb formative</span>)</td>
+<td>NCV</td><td><a href="../languages/portsandwich">Port Sandwich</a></td><td style="white-space: nowrap;"><i>a-</i></td>
+<td> (<span>local adverb formative</span>)</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/tamambo">Tamambo</a></td><td><i>a-</i></td>
-<td>
- (<span>local adverb formative</span>)</td>
+<td>NCV</td><td><a href="../languages/tamambo">Tamambo</a></td><td style="white-space: nowrap;"><i>a-</i></td>
+<td> (<span>local adverb formative</span>)</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td><i>a-</i></td>
-<td>
- (<span>local adverb formative; fossil</span>)</td>
+<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td style="white-space: nowrap;"><i>a-</i></td>
+<td> (<span>local adverb formative; fossil</span>)</td>
 </tr>
 </table>
 
@@ -654,8 +598,7 @@ As a common noun POc _&ast;qutan_ meant ‘bushland, hinterland’ (vol. 1, p.11
 <td style="white-space: nowrap;">
 <i>&ast;quCaN</i>
 </td>
-<td>
-'<span>scrubland, bush</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>scrubland, bush</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -663,147 +606,120 @@ As a common noun POc _&ast;qutan_ meant ‘bushland, hinterland’ (vol. 1, p.11
 <td style="white-space: nowrap;">
 <i>&ast;qutan</i>
 </td>
-<td>
-'<span>small wild herbaceous plants; scrubland, bush</span>' (<span>ACD; Dempwolff 1938</span>)</td>
+<td>'<span>small wild herbaceous plants; scrubland, bush</span>' (<span>ACD; Dempwolff 1938</span>)</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;qutan</i>
 </td>
-<td>
-[(N) ] '<span>bushland, hinterland</span>'</td>
+<td>[(N) ] '<span>bushland, hinterland</span>'</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;qutan</i>
 </td>
-<td>
-[(N) ] '<span>bushland, hinterland</span>'</td>
+<td>[(N) ] '<span>bushland, hinterland</span>'</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;qa-qutan</i>
 </td>
-<td>
-[(ADV) ] '<span>in the bush, inland</span>'</td>
+<td>[(ADV) ] '<span>in the bush, inland</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td><i>-uta</i></td>
-<td>
-'<span>inland</span>' (<span>root of adverbials</span>)</td>
+<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td style="white-space: nowrap;"><i>-uta</i></td>
+<td>'<span>inland</span>' (<span>root of adverbials</span>)</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td><i>(a)uta</i></td>
-<td>
-[N] '<span>inland</span>'</td>
+<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td style="white-space: nowrap;"><i>(a)uta</i></td>
+<td>[N] '<span>inland</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>uta</i></td>
-<td>
-'<span>bush, forest, unoccupied land; the inland country</span>'</td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td style="white-space: nowrap;"><i>uta</i></td>
+<td>'<span>bush, forest, unoccupied land; the inland country</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/ambae">Ambae</a></td><td><i>(a)ute</i></td>
-<td>
-[ADV] '<span>up in the bush</span>'</td>
+<td>NCV</td><td><a href="../languages/ambae">Ambae</a></td><td style="white-space: nowrap;"><i>(a)ute</i></td>
+<td>[ADV] '<span>up in the bush</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/tamambo">Tamambo</a></td><td><i>(a)uta</i></td>
-<td>
-[ADV] '<span>inland direction</span>'</td>
+<td>NCV</td><td><a href="../languages/tamambo">Tamambo</a></td><td style="white-space: nowrap;"><i>(a)uta</i></td>
+<td>[ADV] '<span>inland direction</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td><i>ut</i></td>
-<td>
-[N LOC] '<span>ashore</span>'</td>
+<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td style="white-space: nowrap;"><i>ut</i></td>
+<td>[N LOC] '<span>ashore</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/lewo">Lewo</a></td><td><i>ura</i></td>
-<td>
-[N LOC] '<span>ashore</span>'</td>
+<td>NCV</td><td><a href="../languages/lewo">Lewo</a></td><td style="white-space: nowrap;"><i>ura</i></td>
+<td>[N LOC] '<span>ashore</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/nguna">Nguna</a></td><td><i>uta</i></td>
-<td>
-'<span>inland</span>'</td>
+<td>NCV</td><td><a href="../languages/nguna">Nguna</a></td><td style="white-space: nowrap;"><i>uta</i></td>
+<td>'<span>inland</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/lenakel">Lenakel</a></td><td><i>-ət, -it</i></td>
-<td>
-[DIR] '<span>upwards</span>'</td>
+<td>SV</td><td><a href="../languages/lenakel">Lenakel</a></td><td style="white-space: nowrap;"><i>-ət, -it</i></td>
+<td>[DIR] '<span>upwards</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/kwamera">Kwamera</a></td><td><i>(p)uta</i></td>
-<td>
-[N LOC] '<span>up, upwards, on top of</span>'</td>
+<td>SV</td><td><a href="../languages/kwamera">Kwamera</a></td><td style="white-space: nowrap;"><i>(p)uta</i></td>
+<td>[N LOC] '<span>up, upwards, on top of</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kosraean">Kosraean</a></td><td><i>wʌt</i></td>
-<td>
-[N] '<span>area inland or towards the mountains</span>'</td>
+<td>Mic</td><td><a href="../languages/kosraean">Kosraean</a></td><td style="white-space: nowrap;"><i>wʌt</i></td>
+<td>[N] '<span>area inland or towards the mountains</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>(e)ɒ̄c</i></td>
-<td>
-[N] '<span>interior of an island</span>'</td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td style="white-space: nowrap;"><i>(e)ɒ̄c</i></td>
+<td>[N] '<span>interior of an island</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/mokilese">Mokilese</a></td><td><i>(e)wic</i></td>
-<td>
-[N] '<span>inland</span>'</td>
+<td>Mic</td><td><a href="../languages/mokilese">Mokilese</a></td><td style="white-space: nowrap;"><i>(e)wic</i></td>
+<td>[N] '<span>inland</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td><i>ufa</i></td>
-<td>
-'<span>land (from the sea); interior (from the coast)</span>'</td>
+<td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td style="white-space: nowrap;"><i>ufa</i></td>
+<td>'<span>land (from the sea); interior (from the coast)</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>ʔuta</i></td>
-<td>
-[N LOC] '<span>inland (from shore); shore, land (from sea)</span>'</td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td style="white-space: nowrap;"><i>ʔuta</i></td>
+<td>[N LOC] '<span>inland (from shore); shore, land (from sea)</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/niuafoou">Niuafo’ou</a></td><td><i>(ŋā)ʔuta</i></td>
-<td>
-[N LOC] '<span>upland</span>'</td>
+<td>Pn</td><td><a href="../languages/niuafoou">Niuafo’ou</a></td><td style="white-space: nowrap;"><i>(ŋā)ʔuta</i></td>
+<td>[N LOC] '<span>upland</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>uta</i></td>
-<td>
-[ADV] '<span>on shore, inland</span>'</td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>uta</i></td>
+<td>[ADV] '<span>on shore, inland</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>i uta</i></td>
-<td>
-[N LOC] '<span>on the side facing the land</span>' (<span>as opposed to <em>i tai</em> ‘on the side facing the sea’</span>)</td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>i uta</i></td>
+<td>[N LOC] '<span>on the side facing the land</span>' (<span>as opposed to <em>i tai</em> ‘on the side facing the sea’</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>(ŋā)ʔuta</i></td>
-<td>
-[ADV] '<span>to shore, in an inland direction</span>'</td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>(ŋā)ʔuta</i></td>
+<td>[ADV] '<span>to shore, in an inland direction</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/pileni">Pileni</a></td><td><i>(ɣa)uta</i></td>
-<td>
-[N LOC] '<span>shore, village location on shore, inland</span>'</td>
+<td>Pn</td><td><a href="../languages/pileni">Pileni</a></td><td style="white-space: nowrap;"><i>(ɣa)uta</i></td>
+<td>[N LOC] '<span>shore, village location on shore, inland</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>(ŋa)uta</i></td>
-<td>
-'<span>inland, landwards</span>'</td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td style="white-space: nowrap;"><i>(ŋa)uta</i></td>
+<td>'<span>inland, landwards</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>uka</i></td>
-<td>
-'<span>inland (from shore); shore, land (from sea)</span>'</td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td style="white-space: nowrap;"><i>uka</i></td>
+<td>'<span>inland (from shore); shore, land (from sea)</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/marquesan">Marquesan</a></td><td><i>uta</i></td>
-<td>
-[N LOC] '<span>towards the mountain</span>'</td>
+<td>Pn</td><td><a href="../languages/marquesan">Marquesan</a></td><td style="white-space: nowrap;"><i>uta</i></td>
+<td>[N LOC] '<span>towards the mountain</span>'</td>
 </tr>
 </table>
 
@@ -820,84 +736,69 @@ The cognate set below has fewer members that the one above, but appears to refle
 <td style="white-space: nowrap;">
 <i>&ast;loŋa</i>
 </td>
-<td>
-[(N) ] '<span>inland</span>'; [(N LOC) ] '<span>inland</span>'</td>
+<td>[(N) ] '<span>inland</span>'; [(N LOC) ] '<span>inland</span>'</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;loŋa</i>
 </td>
-<td>
-[(N) ] '<span>inland</span>'; [(N LOC) ] '<span>inland</span>'</td>
+<td>[(N) ] '<span>inland</span>'; [(N LOC) ] '<span>inland</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/bariai">Bariai</a></td><td><i>loŋa</i></td>
-<td>
-'<span>bush people</span>'</td>
+<td>NNG</td><td><a href="../languages/bariai">Bariai</a></td><td style="white-space: nowrap;"><i>loŋa</i></td>
+<td>'<span>bush people</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td><i>loŋa, (i)loŋa</i></td>
-<td>
-'<span>landwards, from sea</span>'</td>
+<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td style="white-space: nowrap;"><i>loŋa, (i)loŋa</i></td>
+<td>'<span>landwards, from sea</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>loŋa, (i)loŋa</i></td>
-<td>
-'<span>landwards, inland</span>'</td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td style="white-space: nowrap;"><i>loŋa, (i)loŋa</i></td>
+<td>'<span>landwards, inland</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/longgu">Longgu</a></td><td><i>loŋa</i></td>
-<td>
-[N LOC] '<span>direction towards bush</span>'</td>
+<td>SES</td><td><a href="../languages/longgu">Longgu</a></td><td style="white-space: nowrap;"><i>loŋa</i></td>
+<td>[N LOC] '<span>direction towards bush</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>(i ka)loŋa</i></td>
-<td>
-'<span>in the forest</span>'</td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td style="white-space: nowrap;"><i>(i ka)loŋa</i></td>
+<td>'<span>in the forest</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>-lʌŋ</i></td>
-<td>
-[DIR] '<span>upward</span>'</td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td style="white-space: nowrap;"><i>-lʌŋ</i></td>
+<td>[DIR] '<span>upward</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td><i>-loŋ</i></td>
-<td>
-[DIR] '<span>inland</span>'</td>
+<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td style="white-space: nowrap;"><i>-loŋ</i></td>
+<td>[DIR] '<span>inland</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>roŋ</i></td>
-<td>
-[DIR] '<span>inland</span>'</td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td style="white-space: nowrap;"><i>roŋ</i></td>
+<td>[DIR] '<span>inland</span>'</td>
 </tr>
 <tr>
 <td><strong>PPn</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;luŋa</i>
 </td>
-<td>
-'<span>top, space above, up top</span>' (<span><em>-u-</em> for expected <em>*-o-</em></span>)</td>
+<td>'<span>top, space above, up top</span>' (<span><em>-u-</em> for expected <em>&ast;-o-</em></span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>luŋa</i></td>
-<td>
-[N LOC] '<span>above, upon, top</span>'</td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td style="white-space: nowrap;"><i>luŋa</i></td>
+<td>[N LOC] '<span>above, upon, top</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/niuafoou">Niuafo’ou</a></td><td><i>(ʔo)luŋa</i></td>
-<td>
-[N LOC] '<span>up</span>'</td>
+<td>Pn</td><td><a href="../languages/niuafoou">Niuafo’ou</a></td><td style="white-space: nowrap;"><i>(ʔo)luŋa</i></td>
+<td>[N LOC] '<span>up</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>luŋa</i></td>
-<td>
-[N LOC] '<span>top, space above, up top</span>'</td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>luŋa</i></td>
+<td>[N LOC] '<span>top, space above, up top</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/pileni">Pileni</a></td><td><i>luŋa</i></td>
-<td>
-[N LOC] '<span>top, up, east</span>'</td>
+<td>Pn</td><td><a href="../languages/pileni">Pileni</a></td><td style="white-space: nowrap;"><i>luŋa</i></td>
+<td>[N LOC] '<span>top, up, east</span>'</td>
 </tr>
 </table>
 
@@ -917,8 +818,7 @@ It is unlikely that POc _&ast;laman_ normally occurred as a local noun, as only 
 <td style="white-space: nowrap;">
 <i>&ast;lahud</i>
 </td>
-<td>
-'<span>downriver, towards the sea</span>' (<a href="../sources/Blust1997">Blust1997</a>; <a href="../sources/Dempwolff1938">Dempwolff1938</a>)
+<td>'<span>downriver, towards the sea</span>' (<a href="../sources/Blust1997">Blust1997</a>; <a href="../sources/Dempwolff1938">Dempwolff1938</a>)
 </td>
 </tr>
 <tr>
@@ -926,81 +826,66 @@ It is unlikely that POc _&ast;laman_ normally occurred as a local noun, as only 
 <td style="white-space: nowrap;">
 <i>&ast;laur</i>
 </td>
-<td>
-[(N LOC) ] '<span>sea, seawards</span>'</td>
+<td>[(N LOC) ] '<span>sea, seawards</span>'</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;qa-laur</i>
 </td>
-<td>
-[(ADV) ] '<span>in a seaward direction</span>'</td>
+<td>[(ADV) ] '<span>in a seaward direction</span>'</td>
 </tr>
 <tr>
-<td>Yap</td><td><a href="../languages/yapese">Yapese</a></td><td><i>lʔāy</i></td>
-<td>
-'<span>seaward</span>'</td>
+<td>Yap</td><td><a href="../languages/yapese">Yapese</a></td><td style="white-space: nowrap;"><i>lʔāy</i></td>
+<td>'<span>seaward</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td><i>-lau</i></td>
-<td>
-'<span>seawards</span>' (<span>root of adverbials</span>)</td>
+<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td style="white-space: nowrap;"><i>-lau</i></td>
+<td>'<span>seawards</span>' (<span>root of adverbials</span>)</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td><i>(i)lau</i></td>
-<td>
-[N] '<span>seawards</span>'</td>
+<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td style="white-space: nowrap;"><i>(i)lau</i></td>
+<td>[N] '<span>seawards</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td><i>(go)lau</i></td>
-<td>
-'<span>go toward the sea</span>'</td>
+<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td style="white-space: nowrap;"><i>(go)lau</i></td>
+<td>'<span>go toward the sea</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/meramera">Meramera</a></td><td><i>-lau</i></td>
-<td>
-'<span>beach</span>' (<span>root of adverbials</span>)</td>
+<td>MM</td><td><a href="../languages/meramera">Meramera</a></td><td style="white-space: nowrap;"><i>-lau</i></td>
+<td>'<span>beach</span>' (<span>root of adverbials</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/kokota">Kokota</a></td><td><i>rauru</i></td>
-<td>
-'<span>seaward</span>'</td>
+<td>MM</td><td><a href="../languages/kokota">Kokota</a></td><td style="white-space: nowrap;"><i>rauru</i></td>
+<td>'<span>seaward</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td><i>lau, (i)lau</i></td>
-<td>
-'<span>seawards</span>' (<span>as opposed to i-loŋa ‘landwards, inland, towards land’</span>)</td>
+<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td style="white-space: nowrap;"><i>lau, (i)lau</i></td>
+<td>'<span>seawards</span>' (<span>as opposed to i-loŋa ‘landwards, inland, towards land’</span>)</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>lau, (i)lau</i></td>
-<td>
-'<span>seawards, shorewards from a speaker inland, (river) bank</span>' (<span>as opposed to <em>i-loŋa</em> ‘landwards, inland, towards land’</span>)</td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td style="white-space: nowrap;"><i>lau, (i)lau</i></td>
+<td>'<span>seawards, shorewards from a speaker inland, (river) bank</span>' (<span>as opposed to <em>i-loŋa</em> ‘landwards, inland, towards land’</span>)</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>lau</i></td>
-<td>
-'<span>north; open sea to the north</span>'</td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td style="white-space: nowrap;"><i>lau</i></td>
+<td>'<span>north; open sea to the north</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>lau</i></td>
-<td>
-'<span>the beach, as approached from the land</span>'</td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td style="white-space: nowrap;"><i>lau</i></td>
+<td>'<span>the beach, as approached from the land</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/ambae">Ambae</a></td><td><i>(a)lau</i></td>
-<td>
-[ADV] '<span>down by the sea</span>'</td>
+<td>NCV</td><td><a href="../languages/ambae">Ambae</a></td><td style="white-space: nowrap;"><i>(a)lau</i></td>
+<td>[ADV] '<span>down by the sea</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/tamambo">Tamambo</a></td><td><i>(a)lau</i></td>
-<td>
-[ADV] '<span>seawards, shore direction</span>'</td>
+<td>NCV</td><td><a href="../languages/tamambo">Tamambo</a></td><td style="white-space: nowrap;"><i>(a)lau</i></td>
+<td>[ADV] '<span>seawards, shore direction</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td><i>(a)lau</i></td>
-<td>
-'<span>seawards</span>'</td>
+<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td style="white-space: nowrap;"><i>(a)lau</i></td>
+<td>'<span>seawards</span>'</td>
 </tr>
 </table>
 
@@ -1015,8 +900,7 @@ It is unlikely that POc _&ast;laman_ normally occurred as a local noun, as only 
 <td style="white-space: nowrap;">
 <i>&ast;tasik</i>
 </td>
-<td>
-'<span>sea</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
+<td>'<span>sea</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
 </td>
 </tr>
 <tr>
@@ -1024,71 +908,58 @@ It is unlikely that POc _&ast;laman_ normally occurred as a local noun, as only 
 <td style="white-space: nowrap;">
 <i>&ast;tasik</i>
 </td>
-<td>
-[(N) ] '<span>sea, salt water</span>'; [(N LOC) ] '<span>at sea</span>'</td>
+<td>[(N) ] '<span>sea, salt water</span>'; [(N LOC) ] '<span>at sea</span>'</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;tasik</i>
 </td>
-<td>
-[(N) ] '<span>sea, salt water</span>'; [(N LOC) ] '<span>at sea</span>'</td>
+<td>[(N) ] '<span>sea, salt water</span>'; [(N LOC) ] '<span>at sea</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/lihir">Lihir</a></td><td><i>(i) tes</i></td>
-<td>
-'<span>at sea</span>'</td>
+<td>MM</td><td><a href="../languages/lihir">Lihir</a></td><td style="white-space: nowrap;"><i>(i) tes</i></td>
+<td>'<span>at sea</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td><i>(nə)tai</i></td>
-<td>
-'<span>on the sea, out to sea</span>' (<span>not ‘seawards’</span>)</td>
+<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td style="white-space: nowrap;"><i>(nə)tai</i></td>
+<td>'<span>on the sea, out to sea</span>' (<span>not ‘seawards’</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td><i>(na)ta</i></td>
-<td>
-'<span>on the sea, out to sea</span>' (<span>not ‘seawards’</span>)</td>
+<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td style="white-space: nowrap;"><i>(na)ta</i></td>
+<td>'<span>on the sea, out to sea</span>' (<span>not ‘seawards’</span>)</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/longgu">Longgu</a></td><td><i>asi</i></td>
-<td>
-[N LOC] '<span>seawards</span>'</td>
+<td>SES</td><td><a href="../languages/longgu">Longgu</a></td><td style="white-space: nowrap;"><i>asi</i></td>
+<td>[N LOC] '<span>seawards</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>(i) asi</i></td>
-<td>
-'<span>at the coast</span>'</td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td style="white-space: nowrap;"><i>(i) asi</i></td>
+<td>'<span>at the coast</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/lenakel">Lenakel</a></td><td><i>(i)rhe</i></td>
-<td>
-[ADV] '<span>at/to sea</span>'</td>
+<td>SV</td><td><a href="../languages/lenakel">Lenakel</a></td><td style="white-space: nowrap;"><i>(i)rhe</i></td>
+<td>[ADV] '<span>at/to sea</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>taði</i></td>
-<td>
-[N LOC] '<span>coast, seashore, sea, from the perspective of the land</span>'</td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td style="white-space: nowrap;"><i>taði</i></td>
+<td>[N LOC] '<span>coast, seashore, sea, from the perspective of the land</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/niuafoou">Niuafo’ou</a></td><td><i>(ŋā)tai</i></td>
-<td>
-[N LOC] '<span>outer sea</span>'</td>
+<td>Pn</td><td><a href="../languages/niuafoou">Niuafo’ou</a></td><td style="white-space: nowrap;"><i>(ŋā)tai</i></td>
+<td>[N LOC] '<span>outer sea</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>tai</i></td>
-<td>
-[ADV] '<span>at sea</span>' (<span><em>i tai</em> ‘on the side facing the sea’, as opposed to <em>i uta</em> ‘on the side facing the land’</span>)</td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>tai</i></td>
+<td>[ADV] '<span>at sea</span>' (<span><em>i tai</em> ‘on the side facing the sea’, as opposed to <em>i uta</em> ‘on the side facing the land’</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>(ŋā)tai</i></td>
-<td>
-[ADV] '<span>to sea</span>'</td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>(ŋā)tai</i></td>
+<td>[ADV] '<span>to sea</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/marquesan">Marquesan</a></td><td><i>tai</i></td>
-<td>
-[N LOC] '<span>sea</span>'</td>
+<td>Pn</td><td><a href="../languages/marquesan">Marquesan</a></td><td style="white-space: nowrap;"><i>tai</i></td>
+<td>[N LOC] '<span>sea</span>'</td>
 </tr>
 </table>
 
@@ -1108,31 +979,26 @@ The items reconstructed above for ‘inland’ and ‘seawards’ were orientati
 <td style="white-space: nowrap;">
 <i>&ast;pa</i>
 </td>
-<td>
-[(N LOC) ] '<span>to one’s left when facing the sea</span>'</td>
+<td>[(N LOC) ] '<span>to one’s left when facing the sea</span>'</td>
 </tr>
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;qa-pa</i>
 </td>
-<td>
-[(ADV) ] '<span>to one’s left when facing the sea</span>'</td>
+<td>[(ADV) ] '<span>to one’s left when facing the sea</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td><i>(a)wa</i></td>
-<td>
-[N] '<span>to one’s left when facing the sea</span>'</td>
+<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td style="white-space: nowrap;"><i>(a)wa</i></td>
+<td>[N] '<span>to one’s left when facing the sea</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/vitu">Vitu</a></td><td><i>(ɣe)va</i></td>
-<td>
-[ADV] '<span>downwards</span>'</td>
+<td>MM</td><td><a href="../languages/vitu">Vitu</a></td><td style="white-space: nowrap;"><i>(ɣe)va</i></td>
+<td>[ADV] '<span>downwards</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/nalik">Nalik</a></td><td><i>pa</i></td>
-<td>
-[N LOC] '<span>south-east</span>'</td>
+<td>MM</td><td><a href="../languages/nalik">Nalik</a></td><td style="white-space: nowrap;"><i>pa</i></td>
+<td>[N LOC] '<span>south-east</span>'</td>
 </tr>
 </table>
 
@@ -1144,31 +1010,26 @@ The items reconstructed above for ‘inland’ and ‘seawards’ were orientati
 <td style="white-space: nowrap;">
 <i>&ast;ta</i>
 </td>
-<td>
-[(N LOC) ] '<span>to one’s right when facing the sea</span>'</td>
+<td>[(N LOC) ] '<span>to one’s right when facing the sea</span>'</td>
 </tr>
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;qa-ta</i>
 </td>
-<td>
-[(ADV) ] '<span>to one’s right when facing the sea</span>'</td>
+<td>[(ADV) ] '<span>to one’s right when facing the sea</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td><i>(a)ta</i></td>
-<td>
-[N] '<span>to one’s right when facing the sea</span>'</td>
+<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td style="white-space: nowrap;"><i>(a)ta</i></td>
+<td>[N] '<span>to one’s right when facing the sea</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/vitu">Vitu</a></td><td><i>(ɣe)ta</i></td>
-<td>
-[ADV] '<span>upwards</span>'</td>
+<td>MM</td><td><a href="../languages/vitu">Vitu</a></td><td style="white-space: nowrap;"><i>(ɣe)ta</i></td>
+<td>[ADV] '<span>upwards</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/nalik">Nalik</a></td><td><i>ta</i></td>
-<td>
-[N LOC] '<span>north-west</span>'</td>
+<td>MM</td><td><a href="../languages/nalik">Nalik</a></td><td style="white-space: nowrap;"><i>ta</i></td>
+<td>[N LOC] '<span>north-west</span>'</td>
 </tr>
 </table>
 
@@ -1189,8 +1050,7 @@ The cognate set attesting POc _&ast;Rumaq_ ‘house’ was presented in vol. 1, 
 <td style="white-space: nowrap;">
 <i>&ast;Rumaq</i>
 </td>
-<td>
-'<span>dwelling house</span>' (<a href="../sources/Blust1987">Blust1987</a>)
+<td>'<span>dwelling house</span>' (<a href="../sources/Blust1987">Blust1987</a>)
 </td>
 </tr>
 <tr>
@@ -1198,69 +1058,57 @@ The cognate set attesting POc _&ast;Rumaq_ ‘house’ was presented in vol. 1, 
 <td style="white-space: nowrap;">
 <i>&ast;Rumaq</i>
 </td>
-<td>
-[(N)] '<span>house</span>'; [(N LOC) ] '<span>home</span>'</td>
+<td>[(N)] '<span>house</span>'; [(N LOC) ] '<span>home</span>'</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;Rumaq</i>
 </td>
-<td>
-[(N)] '<span>house</span>'; [(N LOC) ] '<span>home</span>'</td>
+<td>[(N)] '<span>house</span>'; [(N LOC) ] '<span>home</span>'</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;qa-Rumaq</i>
 </td>
-<td>
-[(ADV) ] '<span>at home</span>'</td>
+<td>[(ADV) ] '<span>at home</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/sariba">Sariba</a></td><td><i>numa</i></td>
-<td>
-[N LOC] '<span>home</span>'</td>
+<td>PT</td><td><a href="../languages/sariba">Sariba</a></td><td style="white-space: nowrap;"><i>numa</i></td>
+<td>[N LOC] '<span>home</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td><i>(go)luma</i></td>
-<td>
-'<span>go to nearest hamlet, usually one’s home</span>'</td>
+<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td style="white-space: nowrap;"><i>(go)luma</i></td>
+<td>'<span>go to nearest hamlet, usually one’s home</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/meramera">Meramera</a></td><td><i>-luma</i></td>
-<td>
-'<span>home</span>' (<span>root of adverbials</span>)</td>
+<td>MM</td><td><a href="../languages/meramera">Meramera</a></td><td style="white-space: nowrap;"><i>-luma</i></td>
+<td>'<span>home</span>' (<span>root of adverbials</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td><i>(nə)ruma</i></td>
-<td>
-'<span>at home</span>'</td>
+<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td style="white-space: nowrap;"><i>(nə)ruma</i></td>
+<td>'<span>at home</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/taiof">Taiof</a></td><td><i>numa</i></td>
-<td>
-[N LOC] '<span>home</span>'</td>
+<td>MM</td><td><a href="../languages/taiof">Taiof</a></td><td style="white-space: nowrap;"><i>numa</i></td>
+<td>[N LOC] '<span>home</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/tamambo">Tamambo</a></td><td><i>(a)imo</i></td>
-<td>
-[ADV] '<span>at home</span>'</td>
+<td>NCV</td><td><a href="../languages/tamambo">Tamambo</a></td><td style="white-space: nowrap;"><i>(a)imo</i></td>
+<td>[ADV] '<span>at home</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td><i>(tela)im</i></td>
-<td>
-[N LOC] '<span>home</span>'</td>
+<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td style="white-space: nowrap;"><i>(tela)im</i></td>
+<td>[N LOC] '<span>home</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/lewo">Lewo</a></td><td><i>umʷa</i></td>
-<td>
-[N LOC] '<span>home</span>'</td>
+<td>NCV</td><td><a href="../languages/lewo">Lewo</a></td><td style="white-space: nowrap;"><i>umʷa</i></td>
+<td>[N LOC] '<span>home</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/lenakel">Lenakel</a></td><td><i>īmʷa</i></td>
-<td>
-'<span>at home, homewards</span>' (<span>cf. <em>nimʷa</em> ‘house’</span>)</td>
+<td>SV</td><td><a href="../languages/lenakel">Lenakel</a></td><td style="white-space: nowrap;"><i>īmʷa</i></td>
+<td>'<span>at home, homewards</span>' (<span>cf. <em>nimʷa</em> ‘house’</span>)</td>
 </tr>
 </table>
 
@@ -1276,8 +1124,7 @@ POc _&ast;tanoq_ is reconstructed as a common noun meaning ‘earth, soil, groun
 <td style="white-space: nowrap;">
 <i>&ast;taneq</i>
 </td>
-<td>
-'<span>earth, land</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
+<td>'<span>earth, land</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
 </td>
 </tr>
 <tr>
@@ -1285,84 +1132,69 @@ POc _&ast;tanoq_ is reconstructed as a common noun meaning ‘earth, soil, groun
 <td style="white-space: nowrap;">
 <i>&ast;tanoq</i>
 </td>
-<td>
-[(N)] '<span>earth, soil, ground; land</span>'; [(N LOC) ] '<span>earth, soil, ground; land</span>'</td>
+<td>[(N)] '<span>earth, soil, ground; land</span>'; [(N LOC) ] '<span>earth, soil, ground; land</span>'</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;tanoq</i>
 </td>
-<td>
-[(N)] '<span>earth, soil, ground; land</span>'; [(N LOC) ] '<span>earth, soil, ground; land</span>'</td>
+<td>[(N)] '<span>earth, soil, ground; land</span>'; [(N LOC) ] '<span>earth, soil, ground; land</span>'</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;qa-tanoq</i>
 </td>
-<td>
-[(ADV) ] '<span>down on the ground, down below</span>'</td>
+<td>[(ADV) ] '<span>down on the ground, down below</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/loniu">Loniu</a></td><td><i>tan</i></td>
-<td>
-[ADV] '<span>down</span>'</td>
+<td>Adm</td><td><a href="../languages/loniu">Loniu</a></td><td style="white-space: nowrap;"><i>tan</i></td>
+<td>[ADV] '<span>down</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td><i>tan (na)</i></td>
-<td>
-[N + POSTPOSITION] '<span>on the ground, down below</span>'</td>
+<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td style="white-space: nowrap;"><i>tan (na)</i></td>
+<td>[N + POSTPOSITION] '<span>on the ground, down below</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/gumawana">Gumawana</a></td><td><i>tono</i></td>
-<td>
-'<span>down</span>'</td>
+<td>PT</td><td><a href="../languages/gumawana">Gumawana</a></td><td style="white-space: nowrap;"><i>tono</i></td>
+<td>'<span>down</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/bolaharua">Bola (Harua)</a></td><td><i>tano</i></td>
-<td>
-'<span>down there</span>'</td>
+<td>MM</td><td><a href="../languages/bolaharua">Bola (Harua)</a></td><td style="white-space: nowrap;"><i>tano</i></td>
+<td>'<span>down there</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td><i>(go)talo</i></td>
-<td>
-'<span>go down</span>'</td>
+<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td style="white-space: nowrap;"><i>(go)talo</i></td>
+<td>'<span>go down</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/meramera">Meramera</a></td><td><i>tano(do)</i></td>
-<td>
-'<span>down there</span>' (<span><em>-do</em> DEM</span>)</td>
+<td>MM</td><td><a href="../languages/meramera">Meramera</a></td><td style="white-space: nowrap;"><i>tano(do)</i></td>
+<td>'<span>down there</span>' (<span><em>-do</em> DEM</span>)</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/tamambo">Tamambo</a></td><td><i>(a)tano</i></td>
-<td>
-'<span>down on the ground, downwards</span>'</td>
+<td>NCV</td><td><a href="../languages/tamambo">Tamambo</a></td><td style="white-space: nowrap;"><i>(a)tano</i></td>
+<td>'<span>down on the ground, downwards</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td><i>dan</i></td>
-<td>
-'<span>down, below</span>'</td>
+<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td style="white-space: nowrap;"><i>dan</i></td>
+<td>'<span>down, below</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/lewo">Lewo</a></td><td><i>tano</i></td>
-<td>
-'<span>underneath, downwards</span>'</td>
+<td>NCV</td><td><a href="../languages/lewo">Lewo</a></td><td style="white-space: nowrap;"><i>tano</i></td>
+<td>'<span>underneath, downwards</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/kwamera">Kwamera</a></td><td><i>təna</i></td>
-<td>
-'<span>earth, ground; land, island, country</span>'</td>
+<td>SV</td><td><a href="../languages/kwamera">Kwamera</a></td><td style="white-space: nowrap;"><i>təna</i></td>
+<td>'<span>earth, ground; land, island, country</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td><a href="../languages/iaai">Iaai</a></td><td><i>kɔnɔ</i></td>
-<td>
-'<span>earth, ground</span>'</td>
+<td>NCal</td><td><a href="../languages/iaai">Iaai</a></td><td style="white-space: nowrap;"><i>kɔnɔ</i></td>
+<td>'<span>earth, ground</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td><a href="../languages/nengone">Nengone</a></td><td><i>ten</i></td>
-<td>
-'<span>under</span>'</td>
+<td>NCal</td><td><a href="../languages/nengone">Nengone</a></td><td style="white-space: nowrap;"><i>ten</i></td>
+<td>'<span>under</span>'</td>
 </tr>
 </table>
 
@@ -1385,8 +1217,7 @@ The items listed under ‘cf. also’ below reflect a Proto North Bougainville f
 <td style="white-space: nowrap;">
 <i>&ast;aCas</i>
 </td>
-<td>
-'<span>high, tall</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>high, tall</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -1394,126 +1225,102 @@ The items listed under ‘cf. also’ below reflect a Proto North Bougainville f
 <td style="white-space: nowrap;">
 <i>&ast;atas</i>
 </td>
-<td>
-[(N) ] '<span>top; space above</span>'; [(N LOC) ] '<span>up top</span>'</td>
+<td>[(N) ] '<span>top; space above</span>'; [(N LOC) ] '<span>up top</span>'</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;atas</i>
 </td>
-<td>
-[(N) ] '<span>top; space above</span>'; [(N LOC) ] '<span>up top</span>'</td>
+<td>[(N) ] '<span>top; space above</span>'; [(N LOC) ] '<span>up top</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/ali">Ali</a></td><td><i>yat</i></td>
-<td>
-'<span>on top</span>'</td>
+<td>NNG</td><td><a href="../languages/ali">Ali</a></td><td style="white-space: nowrap;"><i>yat</i></td>
+<td>'<span>on top</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/tumleo">Tumleo</a></td><td><i>yot</i></td>
-<td>
-'<span>on top</span>'</td>
+<td>NNG</td><td><a href="../languages/tumleo">Tumleo</a></td><td style="white-space: nowrap;"><i>yot</i></td>
+<td>'<span>on top</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/are">Are</a></td><td><i>yata</i></td>
-<td>
-'<span>on top</span>'</td>
+<td>PT</td><td><a href="../languages/are">Are</a></td><td style="white-space: nowrap;"><i>yata</i></td>
+<td>'<span>on top</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/gapapaiwa">Gapapaiwa</a></td><td><i>yata</i></td>
-<td>
-'<span>on top</span>'</td>
+<td>PT</td><td><a href="../languages/gapapaiwa">Gapapaiwa</a></td><td style="white-space: nowrap;"><i>yata</i></td>
+<td>'<span>on top</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/sinaugoro">Sinaugoro</a></td><td><i>iata(na-i)</i></td>
-<td>
-'<span>on top of it</span>' (<span>N-P:3SG-POSTP</span>)</td>
+<td>PT</td><td><a href="../languages/sinaugoro">Sinaugoro</a></td><td style="white-space: nowrap;"><i>iata(na-i)</i></td>
+<td>'<span>on top of it</span>' (<span>N-P:3SG-POSTP</span>)</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>lata-</i></td>
-<td>
-'<span>summit, top</span>'</td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td style="white-space: nowrap;"><i>lata-</i></td>
+<td>'<span>summit, top</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>ata(i)</i></td>
-<td>
-'<span>on top</span>' (<span>N-POSTP</span>)</td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td style="white-space: nowrap;"><i>ata(i)</i></td>
+<td>'<span>on top</span>' (<span>N-POSTP</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/bali">Bali</a></td><td><i>ɣata</i></td>
-<td>
-'<span>up (there)</span>'</td>
+<td>MM</td><td><a href="../languages/bali">Bali</a></td><td style="white-space: nowrap;"><i>ɣata</i></td>
+<td>'<span>up (there)</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td><i>(go)ata</i></td>
-<td>
-'<span>go upwards</span>'</td>
+<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td style="white-space: nowrap;"><i>(go)ata</i></td>
+<td>'<span>go upwards</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/meramera">Meramera</a></td><td><i>uata</i></td>
-<td>
-'<span>upwards</span>'</td>
+<td>MM</td><td><a href="../languages/meramera">Meramera</a></td><td style="white-space: nowrap;"><i>uata</i></td>
+<td>'<span>upwards</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/lavongai">Lavongai</a></td><td><i>(la)kat</i></td>
-<td>
-'<span>top</span>'</td>
+<td>MM</td><td><a href="../languages/lavongai">Lavongai</a></td><td style="white-space: nowrap;"><i>(la)kat</i></td>
+<td>'<span>top</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/nalik">Nalik</a></td><td><i>uata</i></td>
-<td>
-'<span>top</span>'</td>
+<td>MM</td><td><a href="../languages/nalik">Nalik</a></td><td style="white-space: nowrap;"><i>uata</i></td>
+<td>'<span>top</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/sursurunga">Sursurunga</a></td><td><i>(u-ram)iet</i></td>
-<td>
-'<span>upwards</span>'</td>
+<td>MM</td><td><a href="../languages/sursurunga">Sursurunga</a></td><td style="white-space: nowrap;"><i>(u-ram)iet</i></td>
+<td>'<span>upwards</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/sursurunga">Sursurunga</a></td><td><i>ieti</i></td>
-<td>
-'<span>top</span>'</td>
+<td>MM</td><td><a href="../languages/sursurunga">Sursurunga</a></td><td style="white-space: nowrap;"><i>ieti</i></td>
+<td>'<span>top</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tangga">Tangga</a></td><td><i>(l)iat</i></td>
-<td>
-'<span>up (there)</span>'</td>
+<td>MM</td><td><a href="../languages/tangga">Tangga</a></td><td style="white-space: nowrap;"><i>(l)iat</i></td>
+<td>'<span>up (there)</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tangga">Tangga</a></td><td><i>(ua)yat</i></td>
-<td>
-'<span>upwards</span>'</td>
+<td>MM</td><td><a href="../languages/tangga">Tangga</a></td><td style="white-space: nowrap;"><i>(ua)yat</i></td>
+<td>'<span>upwards</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>(i)eta</i></td>
-<td>
-'<span>up, on high, above, top, upper, heavens</span>'</td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>(i)eta</i></td>
+<td>'<span>up, on high, above, top, upper, heavens</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>ec</i></td>
-<td>
-'<span>upper, eastern</span>'</td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td style="white-space: nowrap;"><i>ec</i></td>
+<td>'<span>upper, eastern</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td><i>ās</i></td>
-<td>
-'<span>upper part, top, summit, eastern side</span>'</td>
+<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td style="white-space: nowrap;"><i>ās</i></td>
+<td>'<span>upper part, top, summit, eastern side</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td><i>asa-</i></td>
-<td>
-'<span>upper part</span>'</td>
+<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td style="white-space: nowrap;"><i>asa-</i></td>
+<td>'<span>upper part</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>yat</i></td>
-<td>
-'<span>up, top</span>'</td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td style="white-space: nowrap;"><i>yat</i></td>
+<td>'<span>up, top</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>ata</i></td>
-<td>
-[N LOC] '<span>top, above; interior of a mountainous island, up the hill, inland</span>'</td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td style="white-space: nowrap;"><i>ata</i></td>
+<td>[N LOC] '<span>top, above; interior of a mountainous island, up the hill, inland</span>'</td>
 </tr>
 </table>
 
@@ -1522,56 +1329,56 @@ cf. also:
 <tr>
 <td>MM</td>
 <td><a href="../languages/solos">Solos</a></td>
-<td><i>yas</i></td>
+<td style="white-space: nowrap;"><i>yas</i></td>
 <td>
 '<span>top</span>'</td>
 </tr>
 <tr>
 <td>MM</td>
 <td><a href="../languages/solos">Solos</a></td>
-<td><i>(i)yas</i></td>
+<td style="white-space: nowrap;"><i>(i)yas</i></td>
 <td>
 '<span>up (there)</span>'</td>
 </tr>
 <tr>
 <td>MM</td>
 <td><a href="../languages/petats">Petats</a></td>
-<td><i>(i)yas</i></td>
+<td style="white-space: nowrap;"><i>(i)yas</i></td>
 <td>
 '<span>up (there)</span>'</td>
 </tr>
 <tr>
 <td>MM</td>
 <td><a href="../languages/petats">Petats</a></td>
-<td><i>yas</i></td>
+<td style="white-space: nowrap;"><i>yas</i></td>
 <td>
 '<span>topside; upwards</span>'</td>
 </tr>
 <tr>
 <td>MM</td>
 <td><a href="../languages/halia">Halia</a></td>
-<td><i>(i)yasa</i></td>
+<td style="white-space: nowrap;"><i>(i)yasa</i></td>
 <td>
 '<span>up (there)</span>'</td>
 </tr>
 <tr>
 <td>MM</td>
 <td><a href="../languages/halia">Halia</a></td>
-<td><i>(pal)yasa</i></td>
+<td style="white-space: nowrap;"><i>(pal)yasa</i></td>
 <td>
 '<span>upwards</span>'</td>
 </tr>
 <tr>
 <td>MM</td>
 <td><a href="../languages/selau">Selau</a></td>
-<td><i>(i)yasa</i></td>
+<td style="white-space: nowrap;"><i>(i)yasa</i></td>
 <td>
 '<span>up (there)</span>'</td>
 </tr>
 <tr>
 <td>MM</td>
 <td><a href="../languages/taiof">Taiof</a></td>
-<td><i>yas</i></td>
+<td style="white-space: nowrap;"><i>yas</i></td>
 <td>
 '<span>up (there); upwards</span>'</td>
 </tr>
@@ -1589,8 +1396,7 @@ POc _&ast;laŋit_ ‘sky, weather’ is reconstructed as a common noun in Chapte
 <td style="white-space: nowrap;">
 <i>&ast;laŋiC</i>
 </td>
-<td>
-'<span>sky</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
+<td>'<span>sky</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
 </td>
 </tr>
 <tr>
@@ -1598,38 +1404,31 @@ POc _&ast;laŋit_ ‘sky, weather’ is reconstructed as a common noun in Chapte
 <td style="white-space: nowrap;">
 <i>&ast;laŋit</i>
 </td>
-<td>
-[N] '<span>sky, weather</span>'; [N LOC] '<span>up top, high up</span>'</td>
+<td>[N] '<span>sky, weather</span>'; [N LOC] '<span>up top, high up</span>'</td>
 </tr>
 <tr>
-<td>Yap</td><td><a href="../languages/yapese">Yapese</a></td><td><i>lǣŋ</i></td>
-<td>
-'<span>up</span>'</td>
+<td>Yap</td><td><a href="../languages/yapese">Yapese</a></td><td style="white-space: nowrap;"><i>lǣŋ</i></td>
+<td>'<span>up</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>(i) laŋi-</i></td>
-<td>
-'<span>up, above</span>'</td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td style="white-space: nowrap;"><i>(i) laŋi-</i></td>
+<td>'<span>up, above</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>laŋi-</i></td>
-<td>
-'<span>space above</span>'</td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td style="white-space: nowrap;"><i>laŋi-</i></td>
+<td>'<span>space above</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>laŋ</i></td>
-<td>
-'<span>upwards, heavenwards</span>'</td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td style="white-space: nowrap;"><i>laŋ</i></td>
+<td>'<span>upwards, heavenwards</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/nguna">Nguna</a></td><td><i>(e)laŋi</i></td>
-<td>
-'<span>up, high, above, top</span>'</td>
+<td>NCV</td><td><a href="../languages/nguna">Nguna</a></td><td style="white-space: nowrap;"><i>(e)laŋi</i></td>
+<td>'<span>up, high, above, top</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>lʌŋ</i></td>
-<td>
-'<span>up, above</span>'</td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td style="white-space: nowrap;"><i>lʌŋ</i></td>
+<td>'<span>up, above</span>'</td>
 </tr>
 </table>
 
@@ -1645,71 +1444,58 @@ It is less clear whether POc _&ast;laka_ ‘up above’ was a noun or a verb. In
 <td style="white-space: nowrap;">
 <i>&ast;laka</i>
 </td>
-<td>
-[(N LOC) ] '<span>up above</span>'</td>
+<td>[(N LOC) ] '<span>up above</span>'</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;qa-laka</i>
 </td>
-<td>
-[(ADV) ] '<span>in an upward direction</span>'</td>
+<td>[(ADV) ] '<span>in an upward direction</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td><i>lak (na)</i></td>
-<td>
-'<span>high up</span>' (<span>na local postposition</span>)</td>
+<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td style="white-space: nowrap;"><i>lak (na)</i></td>
+<td>'<span>high up</span>' (<span>na local postposition</span>)</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/maposbuang">Mapos Buang</a></td><td><i>raq</i></td>
-<td>
-'<span>up, above</span>'</td>
+<td>NNG</td><td><a href="../languages/maposbuang">Mapos Buang</a></td><td style="white-space: nowrap;"><i>raq</i></td>
+<td>'<span>up, above</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/kilivila">Kilivila</a></td><td><i>lake(va)</i></td>
-<td>
-'<span>top, in sky</span>'</td>
+<td>PT</td><td><a href="../languages/kilivila">Kilivila</a></td><td style="white-space: nowrap;"><i>lake(va)</i></td>
+<td>'<span>top, in sky</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/lavongai">Lavongai</a></td><td><i>(saŋ)lak</i></td>
-<td>
-'<span>(sun) rise</span>'</td>
+<td>MM</td><td><a href="../languages/lavongai">Lavongai</a></td><td style="white-space: nowrap;"><i>(saŋ)lak</i></td>
+<td>'<span>(sun) rise</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td><i>lak</i></td>
-<td>
-'<span>(sun) rise</span>'</td>
+<td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td style="white-space: nowrap;"><i>lak</i></td>
+<td>'<span>(sun) rise</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/karaeast">Kara (East)</a></td><td><i>lak</i></td>
-<td>
-'<span>(sun) rise</span>'</td>
+<td>MM</td><td><a href="../languages/karaeast">Kara (East)</a></td><td style="white-space: nowrap;"><i>lak</i></td>
+<td>'<span>(sun) rise</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/lihir">Lihir</a></td><td><i>laka-</i></td>
-<td>
-'<span>top surface, space above</span>'</td>
+<td>MM</td><td><a href="../languages/lihir">Lihir</a></td><td style="white-space: nowrap;"><i>laka-</i></td>
+<td>'<span>top surface, space above</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/siar">Siar</a></td><td><i>laka-</i></td>
-<td>
-'<span>top surface, space above</span>'</td>
+<td>MM</td><td><a href="../languages/siar">Siar</a></td><td style="white-space: nowrap;"><i>laka-</i></td>
+<td>'<span>top surface, space above</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>(ɣa)laɣa</i></td>
-<td>
-'<span>up</span>'</td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td style="white-space: nowrap;"><i>(ɣa)laɣa</i></td>
+<td>'<span>up</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/talise">Talise</a></td><td><i>(ɣa)laɣa</i></td>
-<td>
-'<span>go up</span>'</td>
+<td>SES</td><td><a href="../languages/talise">Talise</a></td><td style="white-space: nowrap;"><i>(ɣa)laɣa</i></td>
+<td>'<span>go up</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/birao">Birao</a></td><td><i>(ha)laha</i></td>
-<td>
-'<span>go up</span>'</td>
+<td>SES</td><td><a href="../languages/birao">Birao</a></td><td style="white-space: nowrap;"><i>(ha)laha</i></td>
+<td>'<span>go up</span>'</td>
 </tr>
 </table>
 
@@ -1732,109 +1518,89 @@ The forms listed below under ‘cf. also’ are similar in form to those listed 
 <td style="white-space: nowrap;">
 <i>&ast;liwaŋ</i>
 </td>
-<td>
-'<span>open space</span>' (<span>ACD: Proto Western Malayo-Polynesian</span>)</td>
+<td>'<span>open space</span>' (<span>ACD: Proto Western Malayo-Polynesian</span>)</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;liwaŋ, &ast;liwa-, &ast;liwaŋa-</i>
 </td>
-<td>
-[(N) ] '<span>open space, space between, middle</span>'</td>
+<td>[(N) ] '<span>open space, space between, middle</span>'</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;liwaŋ</i>
 </td>
-<td>
-[(N LOC) ] '<span>in the middle</span>'</td>
+<td>[(N LOC) ] '<span>in the middle</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/loniu">Loniu</a></td><td><i>(lɔhɔ)luwa-</i></td>
-<td>
-'<span>middle</span>'</td>
+<td>Adm</td><td><a href="../languages/loniu">Loniu</a></td><td style="white-space: nowrap;"><i>(lɔhɔ)luwa-</i></td>
+<td>'<span>middle</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/mangap">Mangap</a></td><td><i>lwo-</i></td>
-<td>
-'<span>torso; middle</span>'</td>
+<td>NNG</td><td><a href="../languages/mangap">Mangap</a></td><td style="white-space: nowrap;"><i>lwo-</i></td>
+<td>'<span>torso; middle</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td><i>luʔaŋa-</i></td>
-<td>
-'<span>space in middle</span>'</td>
+<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td style="white-space: nowrap;"><i>luʔaŋa-</i></td>
+<td>'<span>space in middle</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/misim">Hote (Misim)</a></td><td><i>livuŋ</i></td>
-<td>
-'<span>front</span>'</td>
+<td>NNG</td><td><a href="../languages/misim">Hote (Misim)</a></td><td style="white-space: nowrap;"><i>livuŋ</i></td>
+<td>'<span>front</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/minaveha">Minaveha</a></td><td><i>niwani-</i></td>
-<td>
-'<span>midst, among</span>'</td>
+<td>PT</td><td><a href="../languages/minaveha">Minaveha</a></td><td style="white-space: nowrap;"><i>niwani-</i></td>
+<td>'<span>midst, among</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/sudest">Sudest</a></td><td><i>luɣawo-luɣawo-</i></td>
-<td>
-'<span>middle</span>' (<span>metathesis of <em>**luwaɣo-</em></span>)</td>
+<td>PT</td><td><a href="../languages/sudest">Sudest</a></td><td style="white-space: nowrap;"><i>luɣawo-luɣawo-</i></td>
+<td>'<span>middle</span>' (<span>metathesis of <em>&ast;&ast;luwaɣo-</em></span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td><i>(nə)liwən</i></td>
-<td>
-'<span>between</span>'</td>
+<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td style="white-space: nowrap;"><i>(nə)liwən</i></td>
+<td>'<span>between</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td><i>(na)livuan</i></td>
-<td>
-'<span>in the middle</span>'</td>
+<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td style="white-space: nowrap;"><i>(na)livuan</i></td>
+<td>'<span>in the middle</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td><i>livuan</i></td>
-<td>
-'<span>(be) in the middle</span>'</td>
+<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td style="white-space: nowrap;"><i>livuan</i></td>
+<td>'<span>(be) in the middle</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/longgu">Longgu</a></td><td><i>levua-</i></td>
-<td>
-'<span>middle, centre</span>'</td>
+<td>SES</td><td><a href="../languages/longgu">Longgu</a></td><td style="white-space: nowrap;"><i>levua-</i></td>
+<td>'<span>middle, centre</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/ambae">Ambae</a></td><td><i>livuge-</i></td>
-<td>
-'<span>middle</span>'</td>
+<td>NCV</td><td><a href="../languages/ambae">Ambae</a></td><td style="white-space: nowrap;"><i>livuge-</i></td>
+<td>'<span>middle</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/tamambo">Tamambo</a></td><td><i>livuɣa-</i></td>
-<td>
-'<span>middle part of s.t.</span>'</td>
+<td>NCV</td><td><a href="../languages/tamambo">Tamambo</a></td><td style="white-space: nowrap;"><i>livuɣa-</i></td>
+<td>'<span>middle part of s.t.</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td><i>luhi, luhu</i></td>
-<td>
-'<span>middle</span>'</td>
+<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td style="white-space: nowrap;"><i>luhi, luhu</i></td>
+<td>'<span>middle</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/sye">Sye</a></td><td><i>(i)lvuɣ(teve)-</i></td>
-<td>
-'<span>between, in the middle of</span>'</td>
+<td>SV</td><td><a href="../languages/sye">Sye</a></td><td style="white-space: nowrap;"><i>(i)lvuɣ(teve)-</i></td>
+<td>'<span>between, in the middle of</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>rɨwan-</i></td>
-<td>
-'<span>between, among</span>'</td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td style="white-space: nowrap;"><i>rɨwan-</i></td>
+<td>'<span>between, among</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>liwa</i></td>
-<td>
-[N] '<span>ocean far from land</span>'; [ADV] '<span>far from habitation</span>'</td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td style="white-space: nowrap;"><i>liwa</i></td>
+<td>[N] '<span>ocean far from land</span>'; [ADV] '<span>far from habitation</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>(mā)liwa</i></td>
-<td>
-[N] '<span>space between, interstice</span>'</td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td style="white-space: nowrap;"><i>(mā)liwa</i></td>
+<td>[N] '<span>space between, interstice</span>'</td>
 </tr>
 </table>
 
@@ -1843,28 +1609,28 @@ cf. also:
 <tr>
 <td>MM</td>
 <td><a href="../languages/minigir">Minigir</a></td>
-<td><i>(na)lua</i></td>
+<td style="white-space: nowrap;"><i>(na)lua</i></td>
 <td>
 '<span>outside</span>'</td>
 </tr>
 <tr>
 <td>MM</td>
 <td><a href="../languages/tolai">Tolai</a></td>
-<td><i>(na)lua</i></td>
+<td style="white-space: nowrap;"><i>(na)lua</i></td>
 <td>
 '<span>outside</span>'</td>
 </tr>
 <tr>
 <td>SV</td>
 <td><a href="../languages/lenakel">Lenakel</a></td>
-<td><i>(i)lua</i></td>
+<td style="white-space: nowrap;"><i>(i)lua</i></td>
 <td>
 '<span>outside</span>'</td>
 </tr>
 <tr>
 <td>SV</td>
 <td><a href="../languages/kwamera">Kwamera</a></td>
-<td><i>(i)rua</i></td>
+<td style="white-space: nowrap;"><i>(i)rua</i></td>
 <td>
 '<span>outside</span>'</td>
 </tr>
@@ -2034,239 +1800,193 @@ In Polynesian languages reflexes of _&ast;lalo-_/_&ast;lalom_ denote the region 
 <td style="white-space: nowrap;">
 <i>&ast;Daləm</i>
 </td>
-<td>
-'<span>inside</span>'</td>
+<td>'<span>inside</span>'</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;lalo-, &ast;lalom</i>
 </td>
-<td>
-[(N, N LOC) ] '<span>inside</span>'</td>
+<td>[(N, N LOC) ] '<span>inside</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td><i>(e)lom(e)</i></td>
-<td>
-[ADV] '<span>inside</span>'</td>
+<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td style="white-space: nowrap;"><i>(e)lom(e)</i></td>
+<td>[ADV] '<span>inside</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/gitua">Gitua</a></td><td><i>lolo-</i></td>
-<td>
-'<span>inside</span>'</td>
+<td>NNG</td><td><a href="../languages/gitua">Gitua</a></td><td style="white-space: nowrap;"><i>lolo-</i></td>
+<td>'<span>inside</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/mangap">Mangap</a></td><td><i>lele-</i></td>
-<td>
-'<span>inside, in</span>'</td>
+<td>NNG</td><td><a href="../languages/mangap">Mangap</a></td><td style="white-space: nowrap;"><i>lele-</i></td>
+<td>'<span>inside, in</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/mamusi">Mamusi</a></td><td><i>lolo-</i></td>
-<td>
-'<span>inside</span>'</td>
+<td>NNG</td><td><a href="../languages/mamusi">Mamusi</a></td><td style="white-space: nowrap;"><i>lolo-</i></td>
+<td>'<span>inside</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/bam">Bam</a></td><td><i>liluo</i></td>
-<td>
-'<span>room</span>'</td>
+<td>NNG</td><td><a href="../languages/bam">Bam</a></td><td style="white-space: nowrap;"><i>liluo</i></td>
+<td>'<span>room</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/kairiru">Kairiru</a></td><td><i>lal</i></td>
-<td>
-'<span>inside</span>'</td>
+<td>NNG</td><td><a href="../languages/kairiru">Kairiru</a></td><td style="white-space: nowrap;"><i>lal</i></td>
+<td>'<span>inside</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/ulausuain">Ulau-Suain</a></td><td><i>lulua-</i></td>
-<td>
-'<span>room</span>'</td>
+<td>NNG</td><td><a href="../languages/ulausuain">Ulau-Suain</a></td><td style="white-space: nowrap;"><i>lulua-</i></td>
+<td>'<span>room</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/ali">Ali</a></td><td><i>lal</i></td>
-<td>
-'<span>room</span>'</td>
+<td>NNG</td><td><a href="../languages/ali">Ali</a></td><td style="white-space: nowrap;"><i>lal</i></td>
+<td>'<span>room</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/numbami">Numbami</a></td><td><i>(tae)lalo</i></td>
-<td>
-'<span>intestines</span>'</td>
+<td>NNG</td><td><a href="../languages/numbami">Numbami</a></td><td style="white-space: nowrap;"><i>(tae)lalo</i></td>
+<td>'<span>intestines</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/numbami">Numbami</a></td><td><i>(weni)lalo</i></td>
-<td>
-'<span>forest</span>'</td>
+<td>NNG</td><td><a href="../languages/numbami">Numbami</a></td><td style="white-space: nowrap;"><i>(weni)lalo</i></td>
+<td>'<span>forest</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/yabem">Yabem</a></td><td><i>(ŋa)lelom</i></td>
-<td>
-'<span>inside</span>'</td>
+<td>NNG</td><td><a href="../languages/yabem">Yabem</a></td><td style="white-space: nowrap;"><i>(ŋa)lelom</i></td>
+<td>'<span>inside</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/kela">Kela</a></td><td><i>raro</i></td>
-<td>
-'<span>inside</span>'</td>
+<td>NNG</td><td><a href="../languages/kela">Kela</a></td><td style="white-space: nowrap;"><i>raro</i></td>
+<td>'<span>inside</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>lalo-</i></td>
-<td>
-'<span>inside, within</span>'</td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td style="white-space: nowrap;"><i>lalo-</i></td>
+<td>'<span>inside, within</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/mekeo">Mekeo</a></td><td><i>alo-</i></td>
-<td>
-'<span>inside</span>'</td>
+<td>PT</td><td><a href="../languages/mekeo">Mekeo</a></td><td style="white-space: nowrap;"><i>alo-</i></td>
+<td>'<span>inside</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/bola">Bola</a></td><td><i>lilo</i></td>
-<td>
-'<span>inside</span>'</td>
+<td>MM</td><td><a href="../languages/bola">Bola</a></td><td style="white-space: nowrap;"><i>lilo</i></td>
+<td>'<span>inside</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/meramera">Meramera</a></td><td><i>lilo</i></td>
-<td>
-'<span>inside</span>'</td>
+<td>MM</td><td><a href="../languages/meramera">Meramera</a></td><td style="white-space: nowrap;"><i>lilo</i></td>
+<td>'<span>inside</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/notsi">Notsi</a></td><td><i>lolo</i></td>
-<td>
-'<span>inside</span>'</td>
+<td>MM</td><td><a href="../languages/notsi">Notsi</a></td><td style="white-space: nowrap;"><i>lolo</i></td>
+<td>'<span>inside</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/lihir">Lihir</a></td><td><i>lilie</i></td>
-<td>
-'<span>inside</span>'</td>
+<td>MM</td><td><a href="../languages/lihir">Lihir</a></td><td style="white-space: nowrap;"><i>lilie</i></td>
+<td>'<span>inside</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/sursurunga">Sursurunga</a></td><td><i>lali</i></td>
-<td>
-'<span>underside</span>'</td>
+<td>MM</td><td><a href="../languages/sursurunga">Sursurunga</a></td><td style="white-space: nowrap;"><i>lali</i></td>
+<td>'<span>underside</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td><i>lolo</i></td>
-<td>
-'<span>intestines</span>'</td>
+<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td style="white-space: nowrap;"><i>lolo</i></td>
+<td>'<span>intestines</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>lalo</i></td>
-<td>
-'<span>deep, profound</span>'</td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td style="white-space: nowrap;"><i>lalo</i></td>
+<td>'<span>deep, profound</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/talise">Talise</a></td><td><i>lalo-na</i></td>
-<td>
-'<span>in</span>'</td>
+<td>SES</td><td><a href="../languages/talise">Talise</a></td><td style="white-space: nowrap;"><i>lalo-na</i></td>
+<td>'<span>in</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>(i)lalo</i></td>
-<td>
-'<span>inside, in</span>'</td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td style="white-space: nowrap;"><i>(i)lalo</i></td>
+<td>'<span>inside, in</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>lalo</i></td>
-<td>
-'<span>inside</span>'</td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>lalo</i></td>
+<td>'<span>inside</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>raro</i></td>
-<td>
-'<span>in</span>'</td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td style="white-space: nowrap;"><i>raro</i></td>
+<td>'<span>in</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>lolo-</i></td>
-<td>
-'<span>the inner part; a hollow; the inward part of man, heart, affections</span>'</td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td style="white-space: nowrap;"><i>lolo-</i></td>
+<td>'<span>the inner part; a hollow; the inward part of man, heart, affections</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td><i>lolo-</i></td>
-<td>
-'<span>inside, middle; body, stomach</span>'</td>
+<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td style="white-space: nowrap;"><i>lolo-</i></td>
+<td>'<span>inside, middle; body, stomach</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/uripiv">Uripiv</a></td><td><i>lolo-</i></td>
-<td>
-'<span>inside</span>'</td>
+<td>NCV</td><td><a href="../languages/uripiv">Uripiv</a></td><td style="white-space: nowrap;"><i>lolo-</i></td>
+<td>'<span>inside</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/portsandwich">Port Sandwich</a></td><td><i>nalö-n</i></td>
-<td>
-'<span>inside; seat of feelings</span>'</td>
+<td>NCV</td><td><a href="../languages/portsandwich">Port Sandwich</a></td><td style="white-space: nowrap;"><i>nalö-n</i></td>
+<td>'<span>inside; seat of feelings</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/kwamera">Kwamera</a></td><td><i>reri-</i></td>
-<td>
-'<span>internal portion, insides, heart, mind, feeling, emotion</span>'</td>
+<td>SV</td><td><a href="../languages/kwamera">Kwamera</a></td><td style="white-space: nowrap;"><i>reri-</i></td>
+<td>'<span>internal portion, insides, heart, mind, feeling, emotion</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>lele-</i></td>
-<td>
-'<span>inside; heart, seat of feelings</span>'</td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td style="white-space: nowrap;"><i>lele-</i></td>
+<td>'<span>inside; heart, seat of feelings</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td><a href="../languages/tinrin">Tinrin</a></td><td><i>ñɯwɯ-</i></td>
-<td>
-'<span>inside</span>'</td>
+<td>NCal</td><td><a href="../languages/tinrin">Tinrin</a></td><td style="white-space: nowrap;"><i>ñɯwɯ-</i></td>
+<td>'<span>inside</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>(i)nano-n</i></td>
-<td>
-'<span>inside, in</span>'</td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>(i)nano-n</i></td>
+<td>'<span>inside, in</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kosraean">Kosraean</a></td><td><i>lʷal</i></td>
-<td>
-'<span>deep</span>'</td>
+<td>Mic</td><td><a href="../languages/kosraean">Kosraean</a></td><td style="white-space: nowrap;"><i>lʷal</i></td>
+<td>'<span>deep</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>i-lɔwa</i></td>
-<td>
-'<span>inside, in</span>'</td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td style="white-space: nowrap;"><i>i-lɔwa</i></td>
+<td>'<span>inside, in</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>lalᵚ</i></td>
-<td>
-'<span>down, bottom, below, earth, world</span>'</td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td style="white-space: nowrap;"><i>lalᵚ</i></td>
+<td>'<span>down, bottom, below, earth, world</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/ponapean">Ponapean</a></td><td><i>lɔlɛ</i></td>
-<td>
-'<span>inside (it)</span>'</td>
+<td>Mic</td><td><a href="../languages/ponapean">Ponapean</a></td><td style="white-space: nowrap;"><i>lɔlɛ</i></td>
+<td>'<span>inside (it)</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td><i>ɾɾɔɾ</i></td>
-<td>
-'<span>inside of</span>'</td>
+<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td style="white-space: nowrap;"><i>ɾɾɔɾ</i></td>
+<td>'<span>inside of</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td><i>llɔn</i></td>
-<td>
-'<span>in it</span>'</td>
+<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td style="white-space: nowrap;"><i>llɔn</i></td>
+<td>'<span>in it</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>raro</i></td>
-<td>
-'<span>inside</span>'</td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td style="white-space: nowrap;"><i>raro</i></td>
+<td>'<span>inside</span>'</td>
 </tr>
 <tr>
 <td><strong>PPn</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;lalo</i>
 </td>
-<td>
-'<span>region underneath</span>'</td>
+<td>'<span>region underneath</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>lalo</i></td>
-<td>
-'<span>below, under</span>'</td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td style="white-space: nowrap;"><i>lalo</i></td>
+<td>'<span>below, under</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>lalo</i></td>
-<td>
-'<span>under, down, below</span>'</td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>lalo</i></td>
+<td>'<span>under, down, below</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/pileni">Pileni</a></td><td><i>lalo</i></td>
-<td>
-'<span>bottom, down, west</span>'</td>
+<td>Pn</td><td><a href="../languages/pileni">Pileni</a></td><td style="white-space: nowrap;"><i>lalo</i></td>
+<td>'<span>bottom, down, west</span>'</td>
 </tr>
 </table>
 
@@ -2285,73 +2005,59 @@ There is, of course, also a possibility that _&ast;lalo-_ has undergone haplolog
 <td style="white-space: nowrap;">
 <i>&ast;lo-</i>
 </td>
-<td>
-[(N LOC) ] '<span>inside</span>'</td>
+<td>[(N LOC) ] '<span>inside</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/titan">Titan</a></td><td><i>lo(n-um)</i></td>
-<td>
-'<span>floor, inside of a house</span>' (<span><em>um</em> ‘house’</span>)</td>
+<td>Adm</td><td><a href="../languages/titan">Titan</a></td><td style="white-space: nowrap;"><i>lo(n-um)</i></td>
+<td>'<span>floor, inside of a house</span>' (<span><em>um</em> ‘house’</span>)</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/malasanga">Malasanga</a></td><td><i>lo-</i></td>
-<td>
-'<span>inside</span>'</td>
+<td>NNG</td><td><a href="../languages/malasanga">Malasanga</a></td><td style="white-space: nowrap;"><i>lo-</i></td>
+<td>'<span>inside</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/sio">Sio</a></td><td><i>(i)lo</i></td>
-<td>
-'<span>inside</span>'</td>
+<td>NNG</td><td><a href="../languages/sio">Sio</a></td><td style="white-space: nowrap;"><i>(i)lo</i></td>
+<td>'<span>inside</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/tami">Tami</a></td><td><i>lo</i></td>
-<td>
-'<span>inside</span>'</td>
+<td>NNG</td><td><a href="../languages/tami">Tami</a></td><td style="white-space: nowrap;"><i>lo</i></td>
+<td>'<span>inside</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/poeng">Poeng</a></td><td><i>lo-</i></td>
-<td>
-'<span>inside</span>'</td>
+<td>NNG</td><td><a href="../languages/poeng">Poeng</a></td><td style="white-space: nowrap;"><i>lo-</i></td>
+<td>'<span>inside</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/roinji">Roinji</a></td><td><i>lo</i></td>
-<td>
-'<span>inside</span>'</td>
+<td>NNG</td><td><a href="../languages/roinji">Roinji</a></td><td style="white-space: nowrap;"><i>lo</i></td>
+<td>'<span>inside</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td><i>(i)lo-</i></td>
-<td>
-'<span>inside, in</span>'</td>
+<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td style="white-space: nowrap;"><i>(i)lo-</i></td>
+<td>'<span>inside, in</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/bing">Bing</a></td><td><i>lo</i></td>
-<td>
-'<span>inside</span>'</td>
+<td>NNG</td><td><a href="../languages/bing">Bing</a></td><td style="white-space: nowrap;"><i>lo</i></td>
+<td>'<span>inside</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td><i>(i)lo-</i></td>
-<td>
-'<span>inside, in</span>'</td>
+<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td style="white-space: nowrap;"><i>(i)lo-</i></td>
+<td>'<span>inside, in</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td><i>-(i)lo</i></td>
-<td>
-'<span>inside</span>'</td>
+<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td style="white-space: nowrap;"><i>-(i)lo</i></td>
+<td>'<span>inside</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/siar">Siar</a></td><td><i>lo</i></td>
-<td>
-'<span>inside</span>'</td>
+<td>MM</td><td><a href="../languages/siar">Siar</a></td><td style="white-space: nowrap;"><i>lo</i></td>
+<td>'<span>inside</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>lo-</i></td>
-<td>
-'<span>inside</span>'</td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td style="white-space: nowrap;"><i>lo-</i></td>
+<td>'<span>inside</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/lonwolwol">Lonwolwol</a></td><td><i>lo-</i></td>
-<td>
-'<span>inside; heart, feelings</span>'</td>
+<td>NCV</td><td><a href="../languages/lonwolwol">Lonwolwol</a></td><td style="white-space: nowrap;"><i>lo-</i></td>
+<td>'<span>inside; heart, feelings</span>'</td>
 </tr>
 </table>
 
@@ -2363,28 +2069,23 @@ There is, of course, also a possibility that _&ast;lalo-_ has undergone haplolog
 <td style="white-space: nowrap;">
 <i>&ast;la-</i>
 </td>
-<td>
-[(N LOC) ] '<span>inside</span>'; [PREP] '<span>in</span>'</td>
+<td>[(N LOC) ] '<span>inside</span>'; [PREP] '<span>in</span>'</td>
 </tr>
 <tr>
-<td>Yap</td><td><a href="../languages/yapese">Yapese</a></td><td><i>lā-n</i></td>
-<td>
-'<span>inside</span>'</td>
+<td>Yap</td><td><a href="../languages/yapese">Yapese</a></td><td style="white-space: nowrap;"><i>lā-n</i></td>
+<td>'<span>inside</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td><i>la-</i></td>
-<td>
-'<span>inside</span>'</td>
+<td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td style="white-space: nowrap;"><i>la-</i></td>
+<td>'<span>inside</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/karaeast">Kara (East)</a></td><td><i>la</i></td>
-<td>
-'<span>inside</span>'</td>
+<td>MM</td><td><a href="../languages/karaeast">Kara (East)</a></td><td style="white-space: nowrap;"><i>la</i></td>
+<td>'<span>inside</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>ra-n</i></td>
-<td>
-'<span>inside</span>'</td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td style="white-space: nowrap;"><i>ra-n</i></td>
+<td>'<span>inside</span>'</td>
 </tr>
 </table>
 
@@ -2401,46 +2102,38 @@ POc _&ast;loto-_ ‘space within a concave object’ is not well supported. It h
 <td style="white-space: nowrap;">
 <i>&ast;loto</i>
 </td>
-<td>
-[(N, N LOC) ] '<span>space within a concave object</span>'</td>
+<td>[(N, N LOC) ] '<span>space within a concave object</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/loniu">Loniu</a></td><td><i>lɔtiyɛ-</i></td>
-<td>
-'<span>inside</span>'</td>
+<td>Adm</td><td><a href="../languages/loniu">Loniu</a></td><td style="white-space: nowrap;"><i>lɔtiyɛ-</i></td>
+<td>'<span>inside</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>loto-</i></td>
-<td>
-'<span>bottom, lowest part (e.g. of kava bowl)</span>'</td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td style="white-space: nowrap;"><i>loto-</i></td>
+<td>'<span>bottom, lowest part (e.g. of kava bowl)</span>'</td>
 </tr>
 <tr>
 <td><strong>PPn</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;loto</i>
 </td>
-<td>
-'<span>inside</span>'</td>
+<td>'<span>inside</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>loto</i></td>
-<td>
-'<span>inside; hole or depression in coral reef or sea bed</span>'</td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td style="white-space: nowrap;"><i>loto</i></td>
+<td>'<span>inside; hole or depression in coral reef or sea bed</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>loto</i></td>
-<td>
-'<span>deep hole in lagoon; (house) interior</span>'</td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>loto</i></td>
+<td>'<span>deep hole in lagoon; (house) interior</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tahitian">Tahitian</a></td><td><i>roto</i></td>
-<td>
-'<span>pool, lake, lagoon; inside</span>'</td>
+<td>Pn</td><td><a href="../languages/tahitian">Tahitian</a></td><td style="white-space: nowrap;"><i>roto</i></td>
+<td>'<span>pool, lake, lagoon; inside</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>loko</i></td>
-<td>
-'<span>pond, lake, pool; inside, interior; internal organs, as tripe</span>'</td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td style="white-space: nowrap;"><i>loko</i></td>
+<td>'<span>pond, lake, pool; inside, interior; internal organs, as tripe</span>'</td>
 </tr>
 </table>
 
@@ -2454,73 +2147,59 @@ In many Oceanic languages the word for ‘inside’ is the reflex of a POc body-
 <td style="white-space: nowrap;">
 <i>&ast;bʷal(o,a)-, &ast;bʷal(o,a)k</i>
 </td>
-<td>
-[(N) ] '<span>belly; hollow space</span>'; [N LOC] '<span>inside</span>'</td>
+<td>[(N) ] '<span>belly; hollow space</span>'; [N LOC] '<span>inside</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/nyindrou">Nyindrou</a></td><td><i>bolo-n</i></td>
-<td>
-'<span>inside, in</span>'</td>
+<td>Adm</td><td><a href="../languages/nyindrou">Nyindrou</a></td><td style="white-space: nowrap;"><i>bolo-n</i></td>
+<td>'<span>inside, in</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/titan">Titan</a></td><td><i>pólo-n</i></td>
-<td>
-[PREP] '<span>among, inside</span>'</td>
+<td>Adm</td><td><a href="../languages/titan">Titan</a></td><td style="white-space: nowrap;"><i>pólo-n</i></td>
+<td>[PREP] '<span>among, inside</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/kairiru">Kairiru</a></td><td><i>balai</i></td>
-<td>
-'<span>inside</span>'</td>
+<td>NNG</td><td><a href="../languages/kairiru">Kairiru</a></td><td style="white-space: nowrap;"><i>balai</i></td>
+<td>'<span>inside</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/vitu">Vitu</a></td><td><i>polok</i></td>
-<td>
-'<span>inside</span>'</td>
+<td>MM</td><td><a href="../languages/vitu">Vitu</a></td><td style="white-space: nowrap;"><i>polok</i></td>
+<td>'<span>inside</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/sursurunga">Sursurunga</a></td><td><i>polgo</i></td>
-<td>
-'<span>inside</span>'</td>
+<td>MM</td><td><a href="../languages/sursurunga">Sursurunga</a></td><td style="white-space: nowrap;"><i>polgo</i></td>
+<td>'<span>inside</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td><i>(ta ra) bala-na</i></td>
-<td>
-'<span>inside, in</span>' (<span><em>ta</em> PREP, <em>ra</em> ART, <em>bala-</em> ‘belly, interior’</span>)</td>
+<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td style="white-space: nowrap;"><i>(ta ra) bala-na</i></td>
+<td>'<span>inside, in</span>' (<span><em>ta</em> PREP, <em>ra</em> ART, <em>bala-</em> ‘belly, interior’</span>)</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td><i>bʷala</i></td>
-<td>
-'<span>shell</span>'</td>
+<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td style="white-space: nowrap;"><i>bʷala</i></td>
+<td>'<span>shell</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td><i>bʷala(lolo)</i></td>
-<td>
-'<span>middle</span>'</td>
+<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td style="white-space: nowrap;"><i>bʷala(lolo)</i></td>
+<td>'<span>middle</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/lonwolwol">Lonwolwol</a></td><td><i>bwele-n</i></td>
-<td>
-'<span>hollow vessel, empty shell</span>'</td>
+<td>NCV</td><td><a href="../languages/lonwolwol">Lonwolwol</a></td><td style="white-space: nowrap;"><i>bwele-n</i></td>
+<td>'<span>hollow vessel, empty shell</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td><i>vale(-ŋe-ne)</i></td>
-<td>
-'<span>hollow part of something, cave</span>'</td>
+<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td style="white-space: nowrap;"><i>vale(-ŋe-ne)</i></td>
+<td>'<span>hollow part of something, cave</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/namakir">Namakir</a></td><td><i>bwele-n</i></td>
-<td>
-'<span>belly</span>'</td>
+<td>NCV</td><td><a href="../languages/namakir">Namakir</a></td><td style="white-space: nowrap;"><i>bwele-n</i></td>
+<td>'<span>belly</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/nguna">Nguna</a></td><td><i>(na-)pwele</i></td>
-<td>
-'<span>stomach, belly, abdomen, waist, genital region</span>'</td>
+<td>NCV</td><td><a href="../languages/nguna">Nguna</a></td><td style="white-space: nowrap;"><i>(na-)pwele</i></td>
+<td>'<span>stomach, belly, abdomen, waist, genital region</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/nguna">Nguna</a></td><td><i>(na)-pwala( u-na)</i></td>
-<td>
-'<span>among, middle, inside</span>'</td>
+<td>NCV</td><td><a href="../languages/nguna">Nguna</a></td><td style="white-space: nowrap;"><i>(na)-pwala( u-na)</i></td>
+<td>'<span>among, middle, inside</span>'</td>
 </tr>
 </table>
 
@@ -2532,8 +2211,7 @@ In many Oceanic languages the word for ‘inside’ is the reflex of a POc body-
 <td style="white-space: nowrap;">
 <i>&ast;tinaqi</i>
 </td>
-<td>
-'<span>small intestine</span>' (<a href="../sources/Blust1981b">Blust1981b</a>)
+<td>'<span>small intestine</span>' (<a href="../sources/Blust1981b">Blust1981b</a>)
 </td>
 </tr>
 <tr>
@@ -2541,33 +2219,27 @@ In many Oceanic languages the word for ‘inside’ is the reflex of a POc body-
 <td style="white-space: nowrap;">
 <i>&ast;tinaqe-</i>
 </td>
-<td>
-[(N)] '<span>intestines; ?? (N LOC) inside</span>'</td>
+<td>[(N)] '<span>intestines; ?? (N LOC) inside</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/drehet">Drehet</a></td><td><i>kxine</i></td>
-<td>
-'<span>inner part, inside</span>'</td>
+<td>Adm</td><td><a href="../languages/drehet">Drehet</a></td><td style="white-space: nowrap;"><i>kxine</i></td>
+<td>'<span>inner part, inside</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/tawala">Tawala</a></td><td><i>(u) hine-na</i></td>
-<td>
-'<span>inside, in</span>'</td>
+<td>PT</td><td><a href="../languages/tawala">Tawala</a></td><td style="white-space: nowrap;"><i>(u) hine-na</i></td>
+<td>'<span>inside, in</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/iduna">Iduna</a></td><td><i>hinage-ne</i></td>
-<td>
-'<span>inside</span>'</td>
+<td>PT</td><td><a href="../languages/iduna">Iduna</a></td><td style="white-space: nowrap;"><i>hinage-ne</i></td>
+<td>'<span>inside</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/gapapaiwa">Gapapaiwa</a></td><td><i>sine</i></td>
-<td>
-'<span>inside</span>'</td>
+<td>PT</td><td><a href="../languages/gapapaiwa">Gapapaiwa</a></td><td style="white-space: nowrap;"><i>sine</i></td>
+<td>'<span>inside</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/sudest">Sudest</a></td><td><i>tine</i></td>
-<td>
-'<span>inside</span>'</td>
+<td>PT</td><td><a href="../languages/sudest">Sudest</a></td><td style="white-space: nowrap;"><i>tine</i></td>
+<td>'<span>inside</span>'</td>
 </tr>
 </table>
 
@@ -2590,8 +2262,7 @@ No reflexes occur in Central Pacific languages. In Fijian, _&ast;papa-_, _&ast;p
 <td style="white-space: nowrap;">
 <i>&ast;babaq</i>
 </td>
-<td>
-'<span>lower surface, bottom, underside</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>lower surface, bottom, underside</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -2599,216 +2270,174 @@ No reflexes occur in Central Pacific languages. In Fijian, _&ast;papa-_, _&ast;p
 <td style="white-space: nowrap;">
 <i>&ast;papa-, &ast;pa-, &ast;papak, &ast;pak</i>
 </td>
-<td>
-[(N, N LOC) ] '<span>underneath, lower surface, bottom, underside</span>'</td>
+<td>[(N, N LOC) ] '<span>underneath, lower surface, bottom, underside</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td><i>pak(e)</i></td>
-<td>
-'<span>underside</span>'</td>
+<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td style="white-space: nowrap;"><i>pak(e)</i></td>
+<td>'<span>underside</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/loniu">Loniu</a></td><td><i>paʔaha-</i></td>
-<td>
-'<span>underside</span>' (<span>metathesis of <em><em>pahaʔa-<em> &lt; </em></em>papaqa-</em> with unexplained final <em>*-a-</em></span>)</td>
+<td>Adm</td><td><a href="../languages/loniu">Loniu</a></td><td style="white-space: nowrap;"><i>paʔaha-</i></td>
+<td>'<span>underside</span>' (<span>metathesis of <em>&ast;pahaʔa-</em> &lt; <em>&ast;papaqa-</em> with unexplained final <em>&ast;-a-</em></span>)</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/drehet">Drehet</a></td><td><i>pehe(kxa-)</i></td>
-<td>
-'<span>underside</span>'</td>
+<td>Adm</td><td><a href="../languages/drehet">Drehet</a></td><td style="white-space: nowrap;"><i>pehe(kxa-)</i></td>
+<td>'<span>underside</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/lukeppono">Lukep (Pono)</a></td><td><i>pa(rumu)</i></td>
-<td>
-'<span>area under house</span>' (<span>&lt; POc <em>*pak qi Rumaq</em> ‘underneath of house’</span>)</td>
+<td>NNG</td><td><a href="../languages/lukeppono">Lukep (Pono)</a></td><td style="white-space: nowrap;"><i>pa(rumu)</i></td>
+<td>'<span>area under house</span>' (<span>&lt; POc <em>&ast;pak qi Rumaq</em> ‘underneath of house’</span>)</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/dami">Dami</a></td><td><i>pa(rume)</i></td>
-<td>
-'<span>under</span>' (<span>&lt; POc <em>*pak qi Rumaq</em></span>)</td>
+<td>NNG</td><td><a href="../languages/dami">Dami</a></td><td style="white-space: nowrap;"><i>pa(rume)</i></td>
+<td>'<span>under</span>' (<span>&lt; POc <em>&ast;pak qi Rumaq</em></span>)</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/bing">Bing</a></td><td><i>papa(rum)</i></td>
-<td>
-'<span>under (a house)</span>' (<span>&lt; POc <em>*papak qi Rumaq</em></span>)</td>
+<td>NNG</td><td><a href="../languages/bing">Bing</a></td><td style="white-space: nowrap;"><i>papa(rum)</i></td>
+<td>'<span>under (a house)</span>' (<span>&lt; POc <em>&ast;papak qi Rumaq</em></span>)</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/are">Are</a></td><td><i>baba-</i></td>
-<td>
-'<span>beneath</span>'</td>
+<td>PT</td><td><a href="../languages/are">Are</a></td><td style="white-space: nowrap;"><i>baba-</i></td>
+<td>'<span>beneath</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/gapapaiwa">Gapapaiwa</a></td><td><i>vava-</i></td>
-<td>
-'<span>beneath</span>'</td>
+<td>PT</td><td><a href="../languages/gapapaiwa">Gapapaiwa</a></td><td style="white-space: nowrap;"><i>vava-</i></td>
+<td>'<span>beneath</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/tawala">Tawala</a></td><td><i>baba-</i></td>
-<td>
-'<span>base, underneath, bottom; reason</span>'</td>
+<td>PT</td><td><a href="../languages/tawala">Tawala</a></td><td style="white-space: nowrap;"><i>baba-</i></td>
+<td>'<span>base, underneath, bottom; reason</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/mekeo">Mekeo</a></td><td><i>papu-</i></td>
-<td>
-'<span>under</span>'</td>
+<td>PT</td><td><a href="../languages/mekeo">Mekeo</a></td><td style="white-space: nowrap;"><i>papu-</i></td>
+<td>'<span>under</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/talise">Talise</a></td><td><i>vava-</i></td>
-<td>
-'<span>below</span>'</td>
+<td>SES</td><td><a href="../languages/talise">Talise</a></td><td style="white-space: nowrap;"><i>vava-</i></td>
+<td>'<span>below</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/birao">Birao</a></td><td><i>vava-</i></td>
-<td>
-'<span>below</span>'</td>
+<td>SES</td><td><a href="../languages/birao">Birao</a></td><td style="white-space: nowrap;"><i>vava-</i></td>
+<td>'<span>below</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/nokuku">Nokuku</a></td><td><i>veva-n</i></td>
-<td>
-'<span>underside</span>'</td>
+<td>NCV</td><td><a href="../languages/nokuku">Nokuku</a></td><td style="white-space: nowrap;"><i>veva-n</i></td>
+<td>'<span>underside</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/kiai">Kiai</a></td><td><i>vova-na</i></td>
-<td>
-'<span>underside</span>'</td>
+<td>NCV</td><td><a href="../languages/kiai">Kiai</a></td><td style="white-space: nowrap;"><i>vova-na</i></td>
+<td>'<span>underside</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/uripiv">Uripiv</a></td><td><i>(mel)ve-n</i></td>
-<td>
-'<span>the underneath of it, the shade of it</span>' (<span><em>*malu</em> ‘shadow’</span>)</td>
+<td>NCV</td><td><a href="../languages/uripiv">Uripiv</a></td><td style="white-space: nowrap;"><i>(mel)ve-n</i></td>
+<td>'<span>the underneath of it, the shade of it</span>' (<span><em>&ast;malu</em> ‘shadow’</span>)</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/lonwolwol">Lonwolwol</a></td><td><i>fa-n</i></td>
-<td>
-'<span>underneath</span>'</td>
+<td>NCV</td><td><a href="../languages/lonwolwol">Lonwolwol</a></td><td style="white-space: nowrap;"><i>fa-n</i></td>
+<td>'<span>underneath</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td><i>hehe-ne</i></td>
-<td>
-'<span>underneath</span>'</td>
+<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td style="white-space: nowrap;"><i>hehe-ne</i></td>
+<td>'<span>underneath</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/nguna">Nguna</a></td><td><i>na-ve(ruku)</i></td>
-<td>
-'<span>underneath</span>'</td>
+<td>NCV</td><td><a href="../languages/nguna">Nguna</a></td><td style="white-space: nowrap;"><i>na-ve(ruku)</i></td>
+<td>'<span>underneath</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>ā-</i></td>
-<td>
-'<span>underside, underneath, bottom</span>'</td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>ā-</i></td>
+<td>'<span>underside, underneath, bottom</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/ponapean">Ponapean</a></td><td><i>pā-</i></td>
-<td>
-'<span>underneath</span>'</td>
+<td>Mic</td><td><a href="../languages/ponapean">Ponapean</a></td><td style="white-space: nowrap;"><i>pā-</i></td>
+<td>'<span>underneath</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/mokilese">Mokilese</a></td><td><i>pā-</i></td>
-<td>
-'<span>underneath</span>'</td>
+<td>Mic</td><td><a href="../languages/mokilese">Mokilese</a></td><td style="white-space: nowrap;"><i>pā-</i></td>
+<td>'<span>underneath</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td><i>fā-</i></td>
-<td>
-'<span>underneath</span>'</td>
+<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td style="white-space: nowrap;"><i>fā-</i></td>
+<td>'<span>underneath</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>fā-</i></td>
-<td>
-'<span>underneath</span>'</td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td style="white-space: nowrap;"><i>fā-</i></td>
+<td>'<span>underneath</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td><a href="../languages/cemuhi">Cèmuhî</a></td><td><i>hāhî-n</i></td>
-<td>
-'<span>underneath</span>'</td>
+<td>NCal</td><td><a href="../languages/cemuhi">Cèmuhî</a></td><td style="white-space: nowrap;"><i>hāhî-n</i></td>
+<td>'<span>underneath</span>'</td>
 </tr>
 <tr>
 <td><strong>ProtoMesoMelanesian</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;pake-</i>
 </td>
-<td>
-'<span>underneath, underside</span>'</td>
+<td>'<span>underneath, underside</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/bali">Bali</a></td><td><i>va-vake(ni)</i></td>
-<td>
-'<span>down (there)</span>'</td>
+<td>MM</td><td><a href="../languages/bali">Bali</a></td><td style="white-space: nowrap;"><i>va-vake(ni)</i></td>
+<td>'<span>down (there)</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td><i>pak(a-)</i></td>
-<td>
-'<span>underside</span>'</td>
+<td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td style="white-space: nowrap;"><i>pak(a-)</i></td>
+<td>'<span>underside</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/karaeast">Kara (East)</a></td><td><i>pa-</i></td>
-<td>
-'<span>underside; down there</span>'</td>
+<td>MM</td><td><a href="../languages/karaeast">Kara (East)</a></td><td style="white-space: nowrap;"><i>pa-</i></td>
+<td>'<span>underside; down there</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/notsi">Notsi</a></td><td><i>pai-</i></td>
-<td>
-'<span>underside</span>'</td>
+<td>MM</td><td><a href="../languages/notsi">Notsi</a></td><td style="white-space: nowrap;"><i>pai-</i></td>
+<td>'<span>underside</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tabar">Tabar</a></td><td><i>paki-</i></td>
-<td>
-'<span>underside</span>'</td>
+<td>MM</td><td><a href="../languages/tabar">Tabar</a></td><td style="white-space: nowrap;"><i>paki-</i></td>
+<td>'<span>underside</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/lihir">Lihir</a></td><td><i>pakie-</i></td>
-<td>
-'<span>underside</span>'</td>
+<td>MM</td><td><a href="../languages/lihir">Lihir</a></td><td style="white-space: nowrap;"><i>pakie-</i></td>
+<td>'<span>underside</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/lihir">Lihir</a></td><td><i>pek-</i></td>
-<td>
-'<span>down (there)</span>'</td>
+<td>MM</td><td><a href="../languages/lihir">Lihir</a></td><td style="white-space: nowrap;"><i>pek-</i></td>
+<td>'<span>down (there)</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tangga">Tangga</a></td><td><i>(ua-i)fafi</i></td>
-<td>
-'<span>downwards</span>'</td>
+<td>MM</td><td><a href="../languages/tangga">Tangga</a></td><td style="white-space: nowrap;"><i>(ua-i)fafi</i></td>
+<td>'<span>downwards</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/konomala">Konomala</a></td><td><i>fəi-</i></td>
-<td>
-'<span>underside</span>'</td>
+<td>MM</td><td><a href="../languages/konomala">Konomala</a></td><td style="white-space: nowrap;"><i>fəi-</i></td>
+<td>'<span>underside</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td><i>(na)vavai</i></td>
-<td>
-'<span>under</span>'</td>
+<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td style="white-space: nowrap;"><i>(na)vavai</i></td>
+<td>'<span>under</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/taiof">Taiof</a></td><td><i>fai-</i></td>
-<td>
-'<span>underside</span>'</td>
+<td>MM</td><td><a href="../languages/taiof">Taiof</a></td><td style="white-space: nowrap;"><i>fai-</i></td>
+<td>'<span>underside</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/teop">Teop</a></td><td><i>pa-</i></td>
-<td>
-'<span>underside</span>'</td>
+<td>MM</td><td><a href="../languages/teop">Teop</a></td><td style="white-space: nowrap;"><i>pa-</i></td>
+<td>'<span>underside</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td><i>(pana)peka</i></td>
-<td>
-'<span>below</span>' (<span>vowel metathesis</span>)</td>
+<td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td style="white-space: nowrap;"><i>(pana)peka</i></td>
+<td>'<span>below</span>' (<span>vowel metathesis</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/vangunu">Vangunu</a></td><td><i>(pana)peka</i></td>
-<td>
-'<span>below</span>' (<span>vowel metathesis</span>)</td>
+<td>MM</td><td><a href="../languages/vangunu">Vangunu</a></td><td style="white-space: nowrap;"><i>(pana)peka</i></td>
+<td>'<span>below</span>' (<span>vowel metathesis</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/kia">Kia</a></td><td><i>peka</i></td>
-<td>
-'<span>below</span>' (<span>vowel metathesis</span>)</td>
+<td>MM</td><td><a href="../languages/kia">Kia</a></td><td style="white-space: nowrap;"><i>peka</i></td>
+<td>'<span>below</span>' (<span>vowel metathesis</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/laghu">Laghu</a></td><td><i>peka</i></td>
-<td>
-'<span>below</span>' (<span>vowel metathesis</span>)</td>
+<td>MM</td><td><a href="../languages/laghu">Laghu</a></td><td style="white-space: nowrap;"><i>peka</i></td>
+<td>'<span>below</span>' (<span>vowel metathesis</span>)</td>
 </tr>
 </table>
 
@@ -2829,63 +2458,51 @@ The second term, POc _&ast;gabʷari-_ meant ‘the area underneath a raised hous
 <td style="white-space: nowrap;">
 <i>&ast;ruku-</i>
 </td>
-<td>
-[(N, N LOC) ] '<span>underneath, undersurface (?)</span>'</td>
+<td>[(N, N LOC) ] '<span>underneath, undersurface (?)</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/bulu">Bulu</a></td><td><i>luku(va)-</i></td>
-<td>
-'<span>underside</span>' (<span><em>-va</em> &lt; POc <em>*pa-</em> ‘underside’</span>)</td>
+<td>MM</td><td><a href="../languages/bulu">Bulu</a></td><td style="white-space: nowrap;"><i>luku(va)-</i></td>
+<td>'<span>underside</span>' (<span><em>-va</em> &lt; POc <em>&ast;pa-</em> ‘underside’</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/meramera">Meramera</a></td><td><i>luʔu(va)-</i></td>
-<td>
-'<span>underside</span>' (<span><em>-va</em> &lt; POc <em>*pa-</em> ‘underside’</span>)</td>
+<td>MM</td><td><a href="../languages/meramera">Meramera</a></td><td style="white-space: nowrap;"><i>luʔu(va)-</i></td>
+<td>'<span>underside</span>' (<span><em>-va</em> &lt; POc <em>&ast;pa-</em> ‘underside’</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td><i>(lau)lu(va)-</i></td>
-<td>
-'<span>underside</span>' (<span><em>-va</em> &lt; POc <em>*pa-</em> ‘underside’</span>)</td>
+<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td style="white-space: nowrap;"><i>(lau)lu(va)-</i></td>
+<td>'<span>underside</span>' (<span><em>-va</em> &lt; POc <em>&ast;pa-</em> ‘underside’</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/nalik">Nalik</a></td><td><i>ru</i></td>
-<td>
-'<span>down (there)</span>'</td>
+<td>MM</td><td><a href="../languages/nalik">Nalik</a></td><td style="white-space: nowrap;"><i>ru</i></td>
+<td>'<span>down (there)</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>(ru)ruɣu</i></td>
-<td>
-'<span>below</span>'</td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td style="white-space: nowrap;"><i>(ru)ruɣu</i></td>
+<td>'<span>below</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>rū</i></td>
-<td>
-'<span>inside of roof</span>'</td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td style="white-space: nowrap;"><i>rū</i></td>
+<td>'<span>inside of roof</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/kahua">Kahua</a></td><td><i>ruɣu(ha)-</i></td>
-<td>
-'<span>below</span>' (<span><em>-ha</em> &lt; POc <em>*pa-</em> ‘underside’</span>)</td>
+<td>SES</td><td><a href="../languages/kahua">Kahua</a></td><td style="white-space: nowrap;"><i>ruɣu(ha)-</i></td>
+<td>'<span>below</span>' (<span><em>-ha</em> &lt; POc <em>&ast;pa-</em> ‘underside’</span>)</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/tamambo">Tamambo</a></td><td><i>ruhu-ruhu</i></td>
-<td>
-'<span>underneath part of s.t.</span>'</td>
+<td>NCV</td><td><a href="../languages/tamambo">Tamambo</a></td><td style="white-space: nowrap;"><i>ruhu-ruhu</i></td>
+<td>'<span>underneath part of s.t.</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/nguna">Nguna</a></td><td><i>(na-ve)ruku</i></td>
-<td>
-'<span>underneath</span>' (<span><em>ve-</em> &lt; POc <em>*pa-</em> ‘underside’</span>)</td>
+<td>NCV</td><td><a href="../languages/nguna">Nguna</a></td><td style="white-space: nowrap;"><i>(na-ve)ruku</i></td>
+<td>'<span>underneath</span>' (<span><em>ve-</em> &lt; POc <em>&ast;pa-</em> ‘underside’</span>)</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>ruku</i></td>
-<td>
-'<span>underneath, under, below, space underneath</span>'</td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td style="white-space: nowrap;"><i>ruku</i></td>
+<td>'<span>underneath, under, below, space underneath</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>ruku-</i></td>
-<td>
-'<span>space underneath</span>'</td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td style="white-space: nowrap;"><i>ruku-</i></td>
+<td>'<span>space underneath</span>'</td>
 </tr>
 </table>
 
@@ -2897,58 +2514,47 @@ The second term, POc _&ast;gabʷari-_ meant ‘the area underneath a raised hous
 <td style="white-space: nowrap;">
 <i>&ast;gabʷari-</i>
 </td>
-<td>
-[(N, N LOC) ] '<span>the area underneath a raised house</span>' (<span>vol. 1, p.51</span>)</td>
+<td>[(N, N LOC) ] '<span>the area underneath a raised house</span>' (<span>vol. 1, p.51</span>)</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/titan">Titan</a></td><td><i>kapʷaliŋ</i></td>
-<td>
-'<span>area underneath a house</span>'</td>
+<td>Adm</td><td><a href="../languages/titan">Titan</a></td><td style="white-space: nowrap;"><i>kapʷaliŋ</i></td>
+<td>'<span>area underneath a house</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/maposbuang">Mapos Buang</a></td><td><i>ɣbi(ne)</i></td>
-<td>
-'<span>underneath</span>'</td>
+<td>NNG</td><td><a href="../languages/maposbuang">Mapos Buang</a></td><td style="white-space: nowrap;"><i>ɣbi(ne)</i></td>
+<td>'<span>underneath</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/mangga">Mangga</a></td><td><i>kabi(ni)</i></td>
-<td>
-'<span>underneath</span>'</td>
+<td>NNG</td><td><a href="../languages/mangga">Mangga</a></td><td style="white-space: nowrap;"><i>kabi(ni)</i></td>
+<td>'<span>underneath</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/patep">Patep</a></td><td><i>ŋbi-</i></td>
-<td>
-'<span>underneath</span>'</td>
+<td>NNG</td><td><a href="../languages/patep">Patep</a></td><td style="white-space: nowrap;"><i>ŋbi-</i></td>
+<td>'<span>underneath</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/gumawana">Gumawana</a></td><td><i>gabula</i></td>
-<td>
-'<span>underneath</span>'</td>
+<td>PT</td><td><a href="../languages/gumawana">Gumawana</a></td><td style="white-space: nowrap;"><i>gabula</i></td>
+<td>'<span>underneath</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/tawala">Tawala</a></td><td><i>gaboli-</i></td>
-<td>
-'<span>area underneath a house</span>'</td>
+<td>PT</td><td><a href="../languages/tawala">Tawala</a></td><td style="white-space: nowrap;"><i>gaboli-</i></td>
+<td>'<span>area underneath a house</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/dobu">Dobu</a></td><td><i>gabura</i></td>
-<td>
-'<span>area underneath a house</span>'</td>
+<td>PT</td><td><a href="../languages/dobu">Dobu</a></td><td style="white-space: nowrap;"><i>gabura</i></td>
+<td>'<span>area underneath a house</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/duau">Duau</a></td><td><i>gabule-</i></td>
-<td>
-'<span>area underneath a house</span>'</td>
+<td>PT</td><td><a href="../languages/duau">Duau</a></td><td style="white-space: nowrap;"><i>gabule-</i></td>
+<td>'<span>area underneath a house</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/misima">Misima</a></td><td><i>gabúla</i></td>
-<td>
-'<span>area underneath a house; underneath</span>'</td>
+<td>PT</td><td><a href="../languages/misima">Misima</a></td><td style="white-space: nowrap;"><i>gabúla</i></td>
+<td>'<span>area underneath a house; underneath</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/sinaugoro">Sinaugoro</a></td><td><i>gabule-</i></td>
-<td>
-'<span>underneath</span>'</td>
+<td>PT</td><td><a href="../languages/sinaugoro">Sinaugoro</a></td><td style="white-space: nowrap;"><i>gabule-</i></td>
+<td>'<span>underneath</span>'</td>
 </tr>
 </table>
 
@@ -2963,8 +2569,7 @@ The second term, POc _&ast;gabʷari-_ meant ‘the area underneath a raised hous
 <td style="white-space: nowrap;">
 <i>&ast;puqun</i>
 </td>
-<td>
-'<span>beginning, cause, origin, source, basis</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>beginning, cause, origin, source, basis</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -2972,88 +2577,71 @@ The second term, POc _&ast;gabʷari-_ meant ‘the area underneath a raised hous
 <td style="white-space: nowrap;">
 <i>&ast;puqu-, &ast;puqun</i>
 </td>
-<td>
-[(N, N LOC) ] '<span>base, foundation, origin, source, reason</span>'</td>
+<td>[(N, N LOC) ] '<span>base, foundation, origin, source, reason</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/loniu">Loniu</a></td><td><i>puʔu-</i></td>
-<td>
-'<span>bottom, underside</span>'</td>
+<td>Adm</td><td><a href="../languages/loniu">Loniu</a></td><td style="white-space: nowrap;"><i>puʔu-</i></td>
+<td>'<span>bottom, underside</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/tami">Tami</a></td><td><i>pu-</i></td>
-<td>
-'<span>base, origin</span>'</td>
+<td>NNG</td><td><a href="../languages/tami">Tami</a></td><td style="white-space: nowrap;"><i>pu-</i></td>
+<td>'<span>base, origin</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/mangga">Mangga</a></td><td><i>kabi(ni)</i></td>
-<td>
-'<span>underneath</span>'</td>
+<td>NNG</td><td><a href="../languages/mangga">Mangga</a></td><td style="white-space: nowrap;"><i>kabi(ni)</i></td>
+<td>'<span>underneath</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td><i>fu-n</i></td>
-<td>
-'<span>bottoms</span>'</td>
+<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td style="white-space: nowrap;"><i>fu-n</i></td>
+<td>'<span>bottoms</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/yabem">Yabem</a></td><td><i>m̀</i></td>
-<td>
-'<span>origin</span>'[^13]</td>
+<td>NNG</td><td><a href="../languages/yabem">Yabem</a></td><td style="white-space: nowrap;"><i>m̀</i></td>
+<td>'<span>origin</span>'[^13]</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/bukawa">Bukawa</a></td><td><i>(ŋa)pu</i></td>
-<td>
-'<span>underside</span>'</td>
+<td>NNG</td><td><a href="../languages/bukawa">Bukawa</a></td><td style="white-space: nowrap;"><i>(ŋa)pu</i></td>
+<td>'<span>underside</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/mangga">Mangga</a></td><td><i>vu</i></td>
-<td>
-'<span>underside</span>'</td>
+<td>NNG</td><td><a href="../languages/mangga">Mangga</a></td><td style="white-space: nowrap;"><i>vu</i></td>
+<td>'<span>underside</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/wampar">Wampar</a></td><td><i>fo(n)</i></td>
-<td>
-'<span>origin</span>'</td>
+<td>NNG</td><td><a href="../languages/wampar">Wampar</a></td><td style="white-space: nowrap;"><i>fo(n)</i></td>
+<td>'<span>origin</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/labu">Labu</a></td><td><i>(a)ho</i></td>
-<td>
-'<span>base; bottom; reason</span>'</td>
+<td>NNG</td><td><a href="../languages/labu">Labu</a></td><td style="white-space: nowrap;"><i>(a)ho</i></td>
+<td>'<span>base; bottom; reason</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/silisili">Silisili</a></td><td><i>fogo</i></td>
-<td>
-'<span>origin</span>'</td>
+<td>NNG</td><td><a href="../languages/silisili">Silisili</a></td><td style="white-space: nowrap;"><i>fogo</i></td>
+<td>'<span>origin</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/wampur">Wampur</a></td><td><i>hugu-n</i></td>
-<td>
-'<span>trunk</span>'</td>
+<td>NNG</td><td><a href="../languages/wampur">Wampur</a></td><td style="white-space: nowrap;"><i>hugu-n</i></td>
+<td>'<span>trunk</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/adzera">Adzera</a></td><td><i>fugu-n</i></td>
-<td>
-'<span>tap-root; base</span>'</td>
+<td>NNG</td><td><a href="../languages/adzera">Adzera</a></td><td style="white-space: nowrap;"><i>fugu-n</i></td>
+<td>'<span>tap-root; base</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/bwaidoga">Bwaidoga</a></td><td><i>vu-vu-</i></td>
-<td>
-'<span>cause, origin, foundation of anything; (tree) root</span>'</td>
+<td>PT</td><td><a href="../languages/bwaidoga">Bwaidoga</a></td><td style="white-space: nowrap;"><i>vu-vu-</i></td>
+<td>'<span>cause, origin, foundation of anything; (tree) root</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td><i>vu-</i></td>
-<td>
-'<span>beginning, cause, origin, source, basis, root, foundations</span>'</td>
+<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td style="white-space: nowrap;"><i>vu-</i></td>
+<td>'<span>beginning, cause, origin, source, basis, root, foundations</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/longgu">Longgu</a></td><td><i>vuʔa</i></td>
-<td>
-'<span>below, down; a time before</span>'</td>
+<td>SES</td><td><a href="../languages/longgu">Longgu</a></td><td style="white-space: nowrap;"><i>vuʔa</i></td>
+<td>'<span>below, down; a time before</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>-vū</i></td>
-<td>
-'<span>base, bottom; origin, source, cause; taproot, tuber</span>'</td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td style="white-space: nowrap;"><i>-vū</i></td>
+<td>'<span>base, bottom; origin, source, cause; taproot, tuber</span>'</td>
 </tr>
 </table>
 
@@ -3076,8 +2664,7 @@ The Kiribati (Mic) reflex of POc _&ast;papo[-]_ also has the meaning ‘outside�
 <td style="white-space: nowrap;">
 <i>&ast;babaw</i>
 </td>
-<td>
-'<span>upper surface, top; above; highlands</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>upper surface, top; above; highlands</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -3085,188 +2672,151 @@ The Kiribati (Mic) reflex of POc _&ast;papo[-]_ also has the meaning ‘outside�
 <td style="white-space: nowrap;">
 <i>&ast;papo[-], &ast;po[-]</i>
 </td>
-<td>
-[(N, N LOC) ] '<span>upper surface, top</span>'</td>
+<td>[(N, N LOC) ] '<span>upper surface, top</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td><i>po(na)</i></td>
-<td>
-'<span>top</span>'</td>
+<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td style="white-space: nowrap;"><i>po(na)</i></td>
+<td>'<span>top</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/tami">Tami</a></td><td><i>[ka]popo-</i></td>
-<td>
-'<span>top (of s.t.)</span>'</td>
+<td>NNG</td><td><a href="../languages/tami">Tami</a></td><td style="white-space: nowrap;"><i>[ka]popo-</i></td>
+<td>'<span>top (of s.t.)</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/tami">Tami</a></td><td><i>po</i></td>
-<td>
-'<span>above</span>'</td>
+<td>NNG</td><td><a href="../languages/tami">Tami</a></td><td style="white-space: nowrap;"><i>po</i></td>
+<td>'<span>above</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td><i>fo</i></td>
-<td>
-[POSTPOSITION] '<span>on</span>'</td>
+<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td style="white-space: nowrap;"><i>fo</i></td>
+<td>[POSTPOSITION] '<span>on</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/numbami">Numbami</a></td><td><i>wao-</i></td>
-<td>
-'<span>above</span>'</td>
+<td>NNG</td><td><a href="../languages/numbami">Numbami</a></td><td style="white-space: nowrap;"><i>wao-</i></td>
+<td>'<span>above</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/yabem">Yabem</a></td><td><i>aɔ̀</i></td>
-<td>
-'<span>upwards</span>'</td>
+<td>NNG</td><td><a href="../languages/yabem">Yabem</a></td><td style="white-space: nowrap;"><i>aɔ̀</i></td>
+<td>'<span>upwards</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/yabem">Yabem</a></td><td><i>(ŋ)aɔ̀</i></td>
-<td>
-'<span>upper surface</span>'</td>
+<td>NNG</td><td><a href="../languages/yabem">Yabem</a></td><td style="white-space: nowrap;"><i>(ŋ)aɔ̀</i></td>
+<td>'<span>upper surface</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/kela">Kela</a></td><td><i>baba</i></td>
-<td>
-'<span>topside</span>'</td>
+<td>NNG</td><td><a href="../languages/kela">Kela</a></td><td style="white-space: nowrap;"><i>baba</i></td>
+<td>'<span>topside</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/maposbuang">Mapos Buang</a></td><td><i>vavu</i></td>
-<td>
-'<span>up top</span>'</td>
+<td>NNG</td><td><a href="../languages/maposbuang">Mapos Buang</a></td><td style="white-space: nowrap;"><i>vavu</i></td>
+<td>'<span>up top</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/maposbuang">Mapos Buang</a></td><td><i>vavu(ne)</i></td>
-<td>
-'<span>upwards</span>'</td>
+<td>NNG</td><td><a href="../languages/maposbuang">Mapos Buang</a></td><td style="white-space: nowrap;"><i>vavu(ne)</i></td>
+<td>'<span>upwards</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/wampar">Wampar</a></td><td><i>we(ŋ)</i></td>
-<td>
-'<span>topside</span>'</td>
+<td>NNG</td><td><a href="../languages/wampar">Wampar</a></td><td style="white-space: nowrap;"><i>we(ŋ)</i></td>
+<td>'<span>topside</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/yalu">Yalu</a></td><td><i>waʋ(g)</i></td>
-<td>
-'<span>topside</span>'</td>
+<td>NNG</td><td><a href="../languages/yalu">Yalu</a></td><td style="white-space: nowrap;"><i>waʋ(g)</i></td>
+<td>'<span>topside</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/adzera">Adzera</a></td><td><i>wagu(ŋ)</i></td>
-<td>
-'<span>topside</span>'</td>
+<td>NNG</td><td><a href="../languages/adzera">Adzera</a></td><td style="white-space: nowrap;"><i>wagu(ŋ)</i></td>
+<td>'<span>topside</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/notsi">Notsi</a></td><td><i>papa-</i></td>
-<td>
-'<span>topside</span>'</td>
+<td>MM</td><td><a href="../languages/notsi">Notsi</a></td><td style="white-space: nowrap;"><i>papa-</i></td>
+<td>'<span>topside</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tabar">Tabar</a></td><td><i>popo-</i></td>
-<td>
-'<span>topside</span>'</td>
+<td>MM</td><td><a href="../languages/tabar">Tabar</a></td><td style="white-space: nowrap;"><i>popo-</i></td>
+<td>'<span>topside</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tangga">Tangga</a></td><td><i>fo-</i></td>
-<td>
-'<span>topside</span>'</td>
+<td>MM</td><td><a href="../languages/tangga">Tangga</a></td><td style="white-space: nowrap;"><i>fo-</i></td>
+<td>'<span>topside</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/baegu">Baegu</a></td><td><i>fafo(luma)</i></td>
-<td>
-'<span>thatch</span>' (<span><em>luma</em> ‘house, building’</span>)</td>
+<td>SES</td><td><a href="../languages/baegu">Baegu</a></td><td style="white-space: nowrap;"><i>fafo(luma)</i></td>
+<td>'<span>thatch</span>' (<span><em>luma</em> ‘house, building’</span>)</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>fafo-</i></td>
-<td>
-'<span>top</span>'</td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td style="white-space: nowrap;"><i>fafo-</i></td>
+<td>'<span>top</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/longgu">Longgu</a></td><td><i>vavo-</i></td>
-<td>
-'<span>top surface, space above</span>'</td>
+<td>SES</td><td><a href="../languages/longgu">Longgu</a></td><td style="white-space: nowrap;"><i>vavo-</i></td>
+<td>'<span>top surface, space above</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td><i>haho-</i></td>
-<td>
-'<span>topside</span>'</td>
+<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>haho-</i></td>
+<td>'<span>topside</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>haho-</i></td>
-<td>
-'<span>above</span>'</td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>haho-</i></td>
+<td>'<span>above</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>haho-</i></td>
-<td>
-'<span>topside</span>'</td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td style="white-space: nowrap;"><i>haho-</i></td>
+<td>'<span>topside</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>vawo</i></td>
-<td>
-'<span>above, upon</span>'</td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td style="white-space: nowrap;"><i>vawo</i></td>
+<td>'<span>above, upon</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td><a href="../languages/nemi">Nemi</a></td><td><i>pʷap</i></td>
-<td>
-'<span>outside</span>'</td>
+<td>NCal</td><td><a href="../languages/nemi">Nemi</a></td><td style="white-space: nowrap;"><i>pʷap</i></td>
+<td>'<span>outside</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>āo</i></td>
-<td>
-'<span>upper part of, surface, outside, back</span>'</td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>āo</i></td>
+<td>'<span>upper part of, surface, outside, back</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>(i)ao-</i></td>
-<td>
-'<span>on, on top</span>'</td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>(i)ao-</i></td>
+<td>'<span>on, on top</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kosraean">Kosraean</a></td><td><i>fɛ-</i></td>
-<td>
-'<span>above, on</span>'</td>
+<td>Mic</td><td><a href="../languages/kosraean">Kosraean</a></td><td style="white-space: nowrap;"><i>fɛ-</i></td>
+<td>'<span>above, on</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>ɛwɛ-</i></td>
-<td>
-'<span>on; upon; top; surface; over</span>'</td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td style="white-space: nowrap;"><i>ɛwɛ-</i></td>
+<td>'<span>on; upon; top; surface; over</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/mokilese">Mokilese</a></td><td><i>pō-</i></td>
-<td>
-'<span>on</span>'</td>
+<td>Mic</td><td><a href="../languages/mokilese">Mokilese</a></td><td style="white-space: nowrap;"><i>pō-</i></td>
+<td>'<span>on</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td><i>wɔ̄-ɾ</i></td>
-<td>
-'<span>above, on it</span>'</td>
+<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td style="white-space: nowrap;"><i>wɔ̄-ɾ</i></td>
+<td>'<span>above, on it</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td><i>wɔ̄-n</i></td>
-<td>
-'<span>above, on it</span>'</td>
+<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td style="white-space: nowrap;"><i>wɔ̄-n</i></td>
+<td>'<span>above, on it</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>wɔ̄-</i></td>
-<td>
-'<span>on, topside, upside</span>'</td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td style="white-space: nowrap;"><i>wɔ̄-</i></td>
+<td>'<span>on, topside, upside</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>fafo</i></td>
-<td>
-'<span>outside, out of doors, a place other than Samoa</span>'</td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>fafo</i></td>
+<td>'<span>outside, out of doors, a place other than Samoa</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>haho</i></td>
-<td>
-'<span>outside</span>'</td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td style="white-space: nowrap;"><i>haho</i></td>
+<td>'<span>outside</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>waho</i></td>
-<td>
-'<span>outside; open sea; coast, as opposed to inland</span>'</td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td style="white-space: nowrap;"><i>waho</i></td>
+<td>'<span>outside; open sea; coast, as opposed to inland</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>waho</i></td>
-<td>
-'<span>outside, beyond, out, outer, outward</span>'</td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td style="white-space: nowrap;"><i>waho</i></td>
+<td>'<span>outside, beyond, out, outer, outward</span>'</td>
 </tr>
 </table>
 
@@ -3283,8 +2833,7 @@ Given the tendency for body-part terms to be used by metaphorical extension as r
 <td style="white-space: nowrap;">
 <i>&ast;qulu</i>
 </td>
-<td>
-'<span>head</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>head</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -3292,163 +2841,131 @@ Given the tendency for body-part terms to be used by metaphorical extension as r
 <td style="white-space: nowrap;">
 <i>&ast;qulu[-]</i>
 </td>
-<td>
-[N] '<span>head, (head) hair</span>'; [N LOC] '<span>top part</span>'</td>
+<td>[N] '<span>head, (head) hair</span>'; [N LOC] '<span>top part</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td><i>ulu (bo)</i></td>
-<td>
-'<span>headwaters of a river</span>'</td>
+<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td style="white-space: nowrap;"><i>ulu (bo)</i></td>
+<td>'<span>headwaters of a river</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/nauna">Nauna</a></td><td><i>kulu(n puli </i></td>
-<td>
-'<span>(mountain) peak</span>'</td>
+<td>Adm</td><td><a href="../languages/nauna">Nauna</a></td><td style="white-space: nowrap;"><i>kulu(n puli </i></td>
+<td>'<span>(mountain) peak</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/yabem">Yabem</a></td><td><i>lo-lo(ʔ)</i></td>
-<td>
-'<span>topside</span>'</td>
+<td>NNG</td><td><a href="../languages/yabem">Yabem</a></td><td style="white-space: nowrap;"><i>lo-lo(ʔ)</i></td>
+<td>'<span>topside</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/bukawa">Bukawa</a></td><td><i>lu-lu(ʔ)</i></td>
-<td>
-'<span>topside</span>'</td>
+<td>NNG</td><td><a href="../languages/bukawa">Bukawa</a></td><td style="white-space: nowrap;"><i>lu-lu(ʔ)</i></td>
+<td>'<span>topside</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/molima">Molima</a></td><td><i>ʔunu-ʔunu-</i></td>
-<td>
-'<span>head, forehead; (river) source</span>'</td>
+<td>PT</td><td><a href="../languages/molima">Molima</a></td><td style="white-space: nowrap;"><i>ʔunu-ʔunu-</i></td>
+<td>'<span>head, forehead; (river) source</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td><i>kuli-</i></td>
-<td>
-'<span>top</span>'</td>
+<td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td style="white-space: nowrap;"><i>kuli-</i></td>
+<td>'<span>top</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td><i>kul</i></td>
-<td>
-'<span>up (there)</span>'</td>
+<td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td style="white-space: nowrap;"><i>kul</i></td>
+<td>'<span>up (there)</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tiang">Tiang</a></td><td><i>kələ</i></td>
-<td>
-'<span>topside</span>'</td>
+<td>MM</td><td><a href="../languages/tiang">Tiang</a></td><td style="white-space: nowrap;"><i>kələ</i></td>
+<td>'<span>topside</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/nalik">Nalik</a></td><td><i>kula</i></td>
-<td>
-'<span>up (there)</span>'</td>
+<td>MM</td><td><a href="../languages/nalik">Nalik</a></td><td style="white-space: nowrap;"><i>kula</i></td>
+<td>'<span>up (there)</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tabar">Tabar</a></td><td><i>kulu</i></td>
-<td>
-'<span>topside</span>'</td>
+<td>MM</td><td><a href="../languages/tabar">Tabar</a></td><td style="white-space: nowrap;"><i>kulu</i></td>
+<td>'<span>topside</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/lamasong">Lamasong</a></td><td><i>kun</i></td>
-<td>
-'<span>up (there)</span>'</td>
+<td>MM</td><td><a href="../languages/lamasong">Lamasong</a></td><td style="white-space: nowrap;"><i>kun</i></td>
+<td>'<span>up (there)</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/konomala">Konomala</a></td><td><i>ulə</i></td>
-<td>
-'<span>topside</span>'</td>
+<td>MM</td><td><a href="../languages/konomala">Konomala</a></td><td style="white-space: nowrap;"><i>ulə</i></td>
+<td>'<span>topside</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td><i>ul</i></td>
-<td>
-'<span>head, hair, top, apex, crown</span>'</td>
+<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td style="white-space: nowrap;"><i>ul</i></td>
+<td>'<span>head, hair, top, apex, crown</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td><i>ulu</i></td>
-<td>
-'<span>top</span>'</td>
+<td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td style="white-space: nowrap;"><i>ulu</i></td>
+<td>'<span>top</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>ulu-</i></td>
-<td>
-'<span>head, except of a chief; (in compounds) hair; eastern end, upper end</span>'</td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td style="white-space: nowrap;"><i>ulu-</i></td>
+<td>'<span>head, except of a chief; (in compounds) hair; eastern end, upper end</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td><i>ulu</i></td>
-<td>
-'<span>head, top end</span>'</td>
+<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td style="white-space: nowrap;"><i>ulu</i></td>
+<td>'<span>head, top end</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>ulu(nao)</i></td>
-<td>
-'<span>first-born, elder, senior</span>'</td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td style="white-space: nowrap;"><i>ulu(nao)</i></td>
+<td>'<span>first-born, elder, senior</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>ulu-ulu-</i></td>
-<td>
-'<span>(tree) topmost branch</span>'</td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td style="white-space: nowrap;"><i>ulu-ulu-</i></td>
+<td>'<span>(tree) topmost branch</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td><i>uru</i></td>
-<td>
-'<span>cloud, heaven, sky, top</span>'</td>
+<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>uru</i></td>
+<td>'<span>cloud, heaven, sky, top</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/ambae">Ambae</a></td><td><i>ulu-</i></td>
-<td>
-'<span>top</span>'</td>
+<td>NCV</td><td><a href="../languages/ambae">Ambae</a></td><td style="white-space: nowrap;"><i>ulu-</i></td>
+<td>'<span>top</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/tamambo">Tamambo</a></td><td><i>ulu-</i></td>
-<td>
-'<span>top part</span>'</td>
+<td>NCV</td><td><a href="../languages/tamambo">Tamambo</a></td><td style="white-space: nowrap;"><i>ulu-</i></td>
+<td>'<span>top part</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td><i>ulu-</i></td>
-<td>
-'<span>space above</span>'</td>
+<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td style="white-space: nowrap;"><i>ulu-</i></td>
+<td>'<span>space above</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td><i>(n)ulu(ŋout)</i></td>
-<td>
-'<span>at the top of the garden</span>' (<span>&lt; POc <em>*na qulu ni qutan</em> ART top PREP bush</span>)</td>
+<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td style="white-space: nowrap;"><i>(n)ulu(ŋout)</i></td>
+<td>'<span>at the top of the garden</span>' (<span>&lt; POc <em>&ast;na qulu ni qutan</em> ART top PREP bush</span>)</td>
 </tr>
 <tr>
-<td>NCal</td><td><a href="../languages/nemi">Nemi</a></td><td><i>hule-n</i></td>
-<td>
-'<span>top</span>'</td>
+<td>NCal</td><td><a href="../languages/nemi">Nemi</a></td><td style="white-space: nowrap;"><i>hule-n</i></td>
+<td>'<span>top</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kosraean">Kosraean</a></td><td><i>ulu-</i></td>
-<td>
-'<span>top</span>'</td>
+<td>Mic</td><td><a href="../languages/kosraean">Kosraean</a></td><td style="white-space: nowrap;"><i>ulu-</i></td>
+<td>'<span>top</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>-ulu</i></td>
-<td>
-'<span>head or top part of an animal or thing</span>'</td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td style="white-space: nowrap;"><i>-ulu</i></td>
+<td>'<span>head or top part of an animal or thing</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>ulu-</i></td>
-<td>
-'<span>head, top</span>'</td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td style="white-space: nowrap;"><i>ulu-</i></td>
+<td>'<span>head, top</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>ʔulu</i></td>
-<td>
-'<span>head, upper end</span>'</td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td style="white-space: nowrap;"><i>ʔulu</i></td>
+<td>'<span>head, upper end</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>ulu</i></td>
-<td>
-'<span>head, hair</span>'</td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>ulu</i></td>
+<td>'<span>head, hair</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>ulu(matua)</i></td>
-<td>
-'<span>first-born, eldest child</span>'</td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>ulu(matua)</i></td>
+<td>'<span>first-born, eldest child</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>uru</i></td>
-<td>
-'<span>head, (head) hair; chief; top, upper end; (weapon +) point</span>'</td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td style="white-space: nowrap;"><i>uru</i></td>
+<td>'<span>head, (head) hair; chief; top, upper end; (weapon +) point</span>'</td>
 </tr>
 </table>
 
@@ -3471,8 +2988,7 @@ This expectation is at least partly fulfilled. We can reconstruct POc _&ast;[pʷ
 <td style="white-space: nowrap;">
 <i>&ast;papaR</i>
 </td>
-<td>
-'<span>cheek, temple, side,</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>cheek, temple, side,</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 [^14]</td>
 </tr>
 <tr>
@@ -3480,53 +2996,43 @@ This expectation is at least partly fulfilled. We can reconstruct POc _&ast;[pʷ
 <td style="white-space: nowrap;">
 <i>&ast;[pʷa]pʷaRa[-]</i>
 </td>
-<td>
-[(N) ] '<span>cheek, side of head</span>'; [N LOC] '<span>side</span>'</td>
+<td>[(N) ] '<span>cheek, side of head</span>'; [N LOC] '<span>side</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/kairiru">Kairiru</a></td><td><i>poreq</i></td>
-<td>
-'<span>side of house</span>' (<span><em>-q</em> unexplained</span>)</td>
+<td>NNG</td><td><a href="../languages/kairiru">Kairiru</a></td><td style="white-space: nowrap;"><i>poreq</i></td>
+<td>'<span>side of house</span>' (<span><em>-q</em> unexplained</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/nalik">Nalik</a></td><td><i>par, pāran</i></td>
-<td>
-'<span>side</span>' (<span>dialectal variants</span>)</td>
+<td>MM</td><td><a href="../languages/nalik">Nalik</a></td><td style="white-space: nowrap;"><i>par, pāran</i></td>
+<td>'<span>side</span>' (<span>dialectal variants</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td><i>papar, papara-</i></td>
-<td>
-'<span>side</span>'</td>
+<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td style="white-space: nowrap;"><i>papar, papara-</i></td>
+<td>'<span>side</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/minigir">Minigir</a></td><td><i>papara</i></td>
-<td>
-'<span>side</span>'</td>
+<td>MM</td><td><a href="../languages/minigir">Minigir</a></td><td style="white-space: nowrap;"><i>papara</i></td>
+<td>'<span>side</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td><i>papar</i></td>
-<td>
-'<span>side</span>'</td>
+<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td style="white-space: nowrap;"><i>papar</i></td>
+<td>'<span>side</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/kandas">Kandas</a></td><td><i>papori</i></td>
-<td>
-'<span>side</span>'</td>
+<td>MM</td><td><a href="../languages/kandas">Kandas</a></td><td style="white-space: nowrap;"><i>papori</i></td>
+<td>'<span>side</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/taiof">Taiof</a></td><td><i>pana</i></td>
-<td>
-'<span>side</span>'</td>
+<td>MM</td><td><a href="../languages/taiof">Taiof</a></td><td style="white-space: nowrap;"><i>pana</i></td>
+<td>'<span>side</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/monoalu">Mono-Alu</a></td><td><i>(pa)pala</i></td>
-<td>
-'<span>side</span>'</td>
+<td>MM</td><td><a href="../languages/monoalu">Mono-Alu</a></td><td style="white-space: nowrap;"><i>(pa)pala</i></td>
+<td>'<span>side</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td><i>papara</i></td>
-<td>
-'<span>side of face, cheek</span>'</td>
+<td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td style="white-space: nowrap;"><i>papara</i></td>
+<td>'<span>side of face, cheek</span>'</td>
 </tr>
 </table>
 
@@ -3535,56 +3041,56 @@ cf. also:
 <tr>
 <td>NNG</td>
 <td><a href="../languages/rauto">Rauto</a></td>
-<td><i>vava-</i></td>
+<td style="white-space: nowrap;"><i>vava-</i></td>
 <td>
 '<span>side</span>'</td>
 </tr>
 <tr>
 <td>NNG</td>
 <td><a href="../languages/maeng">Maeng</a></td>
-<td><i>vava-</i></td>
+<td style="white-space: nowrap;"><i>vava-</i></td>
 <td>
 '<span>side</span>'</td>
 </tr>
 <tr>
 <td>NNG</td>
 <td><a href="../languages/poeng">Poeng</a></td>
-<td><i>vava-</i></td>
+<td style="white-space: nowrap;"><i>vava-</i></td>
 <td>
 '<span>side</span>'</td>
 </tr>
 <tr>
 <td>SJ</td>
 <td><a href="../languages/sobei">Sobei</a></td>
-<td><i>popa</i></td>
+<td style="white-space: nowrap;"><i>popa</i></td>
 <td>
 '<span>cheek</span>'</td>
 </tr>
 <tr>
 <td>SES</td>
 <td><a href="../languages/kwaio">Kwaio</a></td>
-<td><i>baba</i></td>
+<td style="white-space: nowrap;"><i>baba</i></td>
 <td>
 '<span>side, cheek</span>'</td>
 </tr>
 <tr>
 <td>SES</td>
 <td><a href="../languages/lau">Lau</a></td>
-<td><i>baba</i></td>
+<td style="white-space: nowrap;"><i>baba</i></td>
 <td>
 '<span>side; long side board of canoe</span>'</td>
 </tr>
 <tr>
 <td>SES</td>
 <td><a href="../languages/arosi">Arosi</a></td>
-<td><i>baba</i></td>
+<td style="white-space: nowrap;"><i>baba</i></td>
 <td>
 '<span>cheek, temples; side (of a stream +)</span>'</td>
 </tr>
 <tr>
 <td>Fij</td>
 <td><a href="../languages/bauanfijian">Bauan</a></td>
-<td><i>baba</i></td>
+<td style="white-space: nowrap;"><i>baba</i></td>
 <td>
 '<span>side of s.t., cheek bone; side of a canoe</span>'</td>
 </tr>
@@ -3599,8 +3105,7 @@ POc _&ast;pʷala(ŋ)_ ‘side, part’ is reconstructable, but its exact sense i
 <td style="white-space: nowrap;">
 <i>&ast;balaŋ</i>
 </td>
-<td>
-'<span>side, part</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>side, part</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -3608,34 +3113,28 @@ POc _&ast;pʷala(ŋ)_ ‘side, part’ is reconstructable, but its exact sense i
 <td style="white-space: nowrap;">
 <i>&ast;pʷala(ŋ)</i>
 </td>
-<td>
-'<span>side, part</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>side, part</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td><i>pal</i></td>
-<td>
-'<span>part</span>'</td>
+<td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td style="white-space: nowrap;"><i>pal</i></td>
+<td>'<span>part</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>pala</i></td>
-<td>
-'<span>side, part</span>'</td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td style="white-space: nowrap;"><i>pala</i></td>
+<td>'<span>side, part</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>bara-</i></td>
-<td>
-'<span>side</span>'</td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td style="white-space: nowrap;"><i>bara-</i></td>
+<td>'<span>side</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>para</i></td>
-<td>
-'<span>sideways, turning aside</span>'</td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td style="white-space: nowrap;"><i>para</i></td>
+<td>'<span>sideways, turning aside</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>pala</i></td>
-<td>
-'<span>side, edge</span>'</td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td style="white-space: nowrap;"><i>pala</i></td>
+<td>'<span>side, edge</span>'</td>
 </tr>
 </table>
 
@@ -3652,8 +3151,7 @@ POc _&ast;bali_ denoted ‘one of two (opposing) sides or parts’.
 <td style="white-space: nowrap;">
 <i>&ast;baliw</i>
 </td>
-<td>
-'<span>moiety; answer; oppose; partner, friend, enemy; opposite side or part</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>moiety; answer; oppose; partner, friend, enemy; opposite side or part</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 [^15]</td>
 </tr>
 <tr>
@@ -3661,53 +3159,43 @@ POc _&ast;bali_ denoted ‘one of two (opposing) sides or parts’.
 <td style="white-space: nowrap;">
 <i>&ast;bali[-]</i>
 </td>
-<td>
-[(N, N LOC) ] '<span>one of two (opposing) sides or parts</span>'</td>
+<td>[(N, N LOC) ] '<span>one of two (opposing) sides or parts</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>bali</i></td>
-<td>
-'<span>bring together (opposite planks of a canoe)</span>'</td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td style="white-space: nowrap;"><i>bali</i></td>
+<td>'<span>bring together (opposite planks of a canoe)</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>bali-</i></td>
-<td>
-'<span>part, side, portion, half</span>'</td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td style="white-space: nowrap;"><i>bali-</i></td>
+<td>'<span>part, side, portion, half</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>(ta)vali(u)</i></td>
-<td>
-'<span>one of two sides or parts</span>'</td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td style="white-space: nowrap;"><i>(ta)vali(u)</i></td>
+<td>'<span>one of two sides or parts</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td><i>bal(si)</i></td>
-<td>
-'<span>side</span>'</td>
+<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td style="white-space: nowrap;"><i>bal(si)</i></td>
+<td>'<span>side</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/lonwolwol">Lonwolwol</a></td><td><i>wali</i></td>
-<td>
-'<span>one of (a pair); the mate of</span>'</td>
+<td>NCV</td><td><a href="../languages/lonwolwol">Lonwolwol</a></td><td style="white-space: nowrap;"><i>wali</i></td>
+<td>'<span>one of (a pair); the mate of</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/ponapean">Ponapean</a></td><td><i>pali</i></td>
-<td>
-'<span>side</span>'</td>
+<td>Mic</td><td><a href="../languages/ponapean">Ponapean</a></td><td style="white-space: nowrap;"><i>pali</i></td>
+<td>'<span>side</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>pariy</i></td>
-<td>
-'<span>side</span>'</td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td style="white-space: nowrap;"><i>pariy</i></td>
+<td>'<span>side</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tahitian">Tahitian</a></td><td><i>pari</i></td>
-<td>
-'<span>side</span>'</td>
+<td>Pn</td><td><a href="../languages/tahitian">Tahitian</a></td><td style="white-space: nowrap;"><i>pari</i></td>
+<td>'<span>side</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tuamotuan">Tuamotuan</a></td><td><i>pari(a)</i></td>
-<td>
-'<span>a half</span>'</td>
+<td>Pn</td><td><a href="../languages/tuamotuan">Tuamotuan</a></td><td style="white-space: nowrap;"><i>pari(a)</i></td>
+<td>'<span>a half</span>'</td>
 </tr>
 </table>
 
@@ -3716,7 +3204,7 @@ cf. also:
 <tr>
 <td>PT</td>
 <td><a href="../languages/motu">Motu</a></td>
-<td><i>badi(nai)</i></td>
+<td style="white-space: nowrap;"><i>badi(nai)</i></td>
 <td>
 '<span>beside</span>' (<span><em>-d-</em> for expected <em>**-r-</em></span>)</td>
 </tr>
@@ -3731,8 +3219,7 @@ There are two other reconstructions from which terms for ‘side’ are derived.
 <td style="white-space: nowrap;">
 <i>&ast;sidiŋ</i>
 </td>
-<td>
-'<span>border on, neighbour; peer, equal</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>border on, neighbour; peer, equal</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -3740,23 +3227,19 @@ There are two other reconstructions from which terms for ‘side’ are derived.
 <td style="white-space: nowrap;">
 <i>&ast;siriŋ</i>
 </td>
-<td>
-[(N, N LOC) ] '<span>side, edge</span>'</td>
+<td>[(N, N LOC) ] '<span>side, edge</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/dami">Dami</a></td><td><i>siri-</i></td>
-<td>
-'<span>side</span>'</td>
+<td>NNG</td><td><a href="../languages/dami">Dami</a></td><td style="white-space: nowrap;"><i>siri-</i></td>
+<td>'<span>side</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td><i>siriŋe-</i></td>
-<td>
-'<span>side</span>'</td>
+<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td style="white-space: nowrap;"><i>siriŋe-</i></td>
+<td>'<span>side</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>tuṛᵚu-</i></td>
-<td>
-'<span>beside</span>'</td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td style="white-space: nowrap;"><i>tuṛᵚu-</i></td>
+<td>'<span>beside</span>'</td>
 </tr>
 </table>
 
@@ -3768,48 +3251,39 @@ There are two other reconstructions from which terms for ‘side’ are derived.
 <td style="white-space: nowrap;">
 <i>&ast;tapa-</i>
 </td>
-<td>
-[(N, N LOC) ] '<span>side, outside</span>'</td>
+<td>[(N, N LOC) ] '<span>side, outside</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/ambae">Ambae</a></td><td><i>tava(lu)-</i></td>
-<td>
-'<span>side</span>'</td>
+<td>NCV</td><td><a href="../languages/ambae">Ambae</a></td><td style="white-space: nowrap;"><i>tava(lu)-</i></td>
+<td>'<span>side</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/tamambo">Tamambo</a></td><td><i>tava(lu)</i></td>
-<td>
-'<span>side part of s.t.</span>'</td>
+<td>NCV</td><td><a href="../languages/tamambo">Tamambo</a></td><td style="white-space: nowrap;"><i>tava(lu)</i></td>
+<td>'<span>side part of s.t.</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td><i>tav</i></td>
-<td>
-'<span>one side</span>'</td>
+<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td style="white-space: nowrap;"><i>tav</i></td>
+<td>'<span>one side</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>tafa</i></td>
-<td>
-'<span>edge, border</span>'</td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td style="white-space: nowrap;"><i>tafa</i></td>
+<td>'<span>edge, border</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>tafa</i></td>
-<td>
-'<span>side</span>'</td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>tafa</i></td>
+<td>'<span>side</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/kapingamarangi">Kapingamarangi</a></td><td><i>taha</i></td>
-<td>
-'<span>outside, shore</span>'</td>
+<td>Pn</td><td><a href="../languages/kapingamarangi">Kapingamarangi</a></td><td style="white-space: nowrap;"><i>taha</i></td>
+<td>'<span>outside, shore</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>taha</i></td>
-<td>
-'<span>outside, beside, near, edge, side</span>'</td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td style="white-space: nowrap;"><i>taha</i></td>
+<td>'<span>outside, beside, near, edge, side</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tuamotuan">Tuamotuan</a></td><td><i>taha</i></td>
-<td>
-'<span>side, margin, edge, border</span>'</td>
+<td>Pn</td><td><a href="../languages/tuamotuan">Tuamotuan</a></td><td style="white-space: nowrap;"><i>taha</i></td>
+<td>'<span>side, margin, edge, border</span>'</td>
 </tr>
 </table>
 
@@ -3900,71 +3374,58 @@ According to [Blust](../sources/Blust1997) ([1997](../sources/Blust1997)), the P
 <td style="white-space: nowrap;">
 <i>&ast;qadəp</i>
 </td>
-<td>
-'<span>front, face</span>'</td>
+<td>'<span>front, face</span>'</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;qaro-, &ast;qarop</i>
 </td>
-<td>
-[(N) ] '<span>face</span>'; [N LOC] '<span>front</span>'</td>
+<td>[(N) ] '<span>face</span>'; [N LOC] '<span>front</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/mangap">Mangap</a></td><td><i>kere-</i></td>
-<td>
-'<span>front</span>'</td>
+<td>NNG</td><td><a href="../languages/mangap">Mangap</a></td><td style="white-space: nowrap;"><i>kere-</i></td>
+<td>'<span>front</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td><i>aro-</i></td>
-<td>
-'<span>space in front</span>'</td>
+<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td style="white-space: nowrap;"><i>aro-</i></td>
+<td>'<span>space in front</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/kairiru">Kairiru</a></td><td><i>aro-</i></td>
-<td>
-'<span>in front of (s.t.)</span>'</td>
+<td>NNG</td><td><a href="../languages/kairiru">Kairiru</a></td><td style="white-space: nowrap;"><i>aro-</i></td>
+<td>'<span>in front of (s.t.)</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/dawawa">Dawawa</a></td><td><i>karo</i></td>
-<td>
-'<span>in front</span>'</td>
+<td>PT</td><td><a href="../languages/dawawa">Dawawa</a></td><td style="white-space: nowrap;"><i>karo</i></td>
+<td>'<span>in front</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>saro</i></td>
-<td>
-'<span>face, turn oneself</span>'</td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>saro</i></td>
+<td>'<span>face, turn oneself</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td><i>aro</i></td>
-<td>
-'<span>front, side or surface that is usually seen.</span>'</td>
+<td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td style="white-space: nowrap;"><i>aro</i></td>
+<td>'<span>front, side or surface that is usually seen.</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>ʔao</i></td>
-<td>
-'<span>front</span>'</td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td style="white-space: nowrap;"><i>ʔao</i></td>
+<td>'<span>front</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/eastfutunan">East Futunan</a></td><td><i>ʔalo</i></td>
-<td>
-'<span>in front</span>'</td>
+<td>Pn</td><td><a href="../languages/eastfutunan">East Futunan</a></td><td style="white-space: nowrap;"><i>ʔalo</i></td>
+<td>'<span>in front</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/marquesan">Marquesan</a></td><td><i>aʔo</i></td>
-<td>
-'<span>front</span>'</td>
+<td>Pn</td><td><a href="../languages/marquesan">Marquesan</a></td><td style="white-space: nowrap;"><i>aʔo</i></td>
+<td>'<span>front</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>alo</i></td>
-<td>
-'<span>front</span>'</td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td style="white-space: nowrap;"><i>alo</i></td>
+<td>'<span>front</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>aro</i></td>
-<td>
-'<span>front of body, pubic area of females</span>'</td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td style="white-space: nowrap;"><i>aro</i></td>
+<td>'<span>front of body, pubic area of females</span>'</td>
 </tr>
 </table>
 
@@ -3985,194 +3446,157 @@ As the glosses indicate, POc _&ast;muqa[-]_ had the temporal sense of ‘time be
 <td style="white-space: nowrap;">
 <i>&ast;muqa[-]</i>
 </td>
-<td>
-[(N LOC) ] '<span>front</span>'</td>
+<td>[(N LOC) ] '<span>front</span>'</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;muqa</i>
 </td>
-<td>
-'<span>front; be in front</span>'</td>
+<td>'<span>front; be in front</span>'</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;i muqa, &ast;qa-muqa, &ast;muqa-muqa</i>
 </td>
-<td>
-[ADV] '<span>in front, formerly</span>'</td>
+<td>[ADV] '<span>in front, formerly</span>'</td>
 </tr>
 <tr>
-<td>Yap</td><td><a href="../languages/yapese">Yapese</a></td><td><i>mʔōn</i></td>
-<td>
-'<span>front</span>'</td>
+<td>Yap</td><td><a href="../languages/yapese">Yapese</a></td><td style="white-space: nowrap;"><i>mʔōn</i></td>
+<td>'<span>front</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td><i>mua</i></td>
-<td>
-'<span>front</span>'</td>
+<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td style="white-space: nowrap;"><i>mua</i></td>
+<td>'<span>front</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/titan">Titan</a></td><td><i>mo(ndrol)</i></td>
-<td>
-'<span>bow of canoe</span>'</td>
+<td>Adm</td><td><a href="../languages/titan">Titan</a></td><td style="white-space: nowrap;"><i>mo(ndrol)</i></td>
+<td>'<span>bow of canoe</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td><i>mua</i></td>
-<td>
-'<span>go first, precede</span>'</td>
+<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td style="white-space: nowrap;"><i>mua</i></td>
+<td>'<span>go first, precede</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/vitu">Vitu</a></td><td><i>muɣa-</i></td>
-<td>
-'<span>front</span>'</td>
+<td>MM</td><td><a href="../languages/vitu">Vitu</a></td><td style="white-space: nowrap;"><i>muɣa-</i></td>
+<td>'<span>front</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/nalik">Nalik</a></td><td><i>(pa)mua</i></td>
-<td>
-'<span>in front</span>'</td>
+<td>MM</td><td><a href="../languages/nalik">Nalik</a></td><td style="white-space: nowrap;"><i>(pa)mua</i></td>
+<td>'<span>in front</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/notsi">Notsi</a></td><td><i>(la)mua</i></td>
-<td>
-'<span>front</span>'</td>
+<td>MM</td><td><a href="../languages/notsi">Notsi</a></td><td style="white-space: nowrap;"><i>(la)mua</i></td>
+<td>'<span>front</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tabar">Tabar</a></td><td><i>mu-mua</i></td>
-<td>
-'<span>formerly</span>'</td>
+<td>MM</td><td><a href="../languages/tabar">Tabar</a></td><td style="white-space: nowrap;"><i>mu-mua</i></td>
+<td>'<span>formerly</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tabar">Tabar</a></td><td><i>moa</i></td>
-<td>
-'<span>front</span>'</td>
+<td>MM</td><td><a href="../languages/tabar">Tabar</a></td><td style="white-space: nowrap;"><i>moa</i></td>
+<td>'<span>front</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/lihir">Lihir</a></td><td><i>(i)muo</i></td>
-<td>
-'<span>formerly</span>'</td>
+<td>MM</td><td><a href="../languages/lihir">Lihir</a></td><td style="white-space: nowrap;"><i>(i)muo</i></td>
+<td>'<span>formerly</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/lihir">Lihir</a></td><td><i>muo</i></td>
-<td>
-'<span>in front</span>'</td>
+<td>MM</td><td><a href="../languages/lihir">Lihir</a></td><td style="white-space: nowrap;"><i>muo</i></td>
+<td>'<span>in front</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/solos">Solos</a></td><td><i>ma-mua</i></td>
-<td>
-'<span>in front</span>'</td>
+<td>MM</td><td><a href="../languages/solos">Solos</a></td><td style="white-space: nowrap;"><i>ma-mua</i></td>
+<td>'<span>in front</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/selau">Selau</a></td><td><i>(to)mua-na</i></td>
-<td>
-'<span>old</span>'</td>
+<td>MM</td><td><a href="../languages/selau">Selau</a></td><td style="white-space: nowrap;"><i>(to)mua-na</i></td>
+<td>'<span>old</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/taiof">Taiof</a></td><td><i>(i)mua-n</i></td>
-<td>
-'<span>formerly</span>'</td>
+<td>MM</td><td><a href="../languages/taiof">Taiof</a></td><td style="white-space: nowrap;"><i>(i)mua-n</i></td>
+<td>'<span>formerly</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/teop">Teop</a></td><td><i>(ta)mua-na</i></td>
-<td>
-'<span>old</span>'</td>
+<td>MM</td><td><a href="../languages/teop">Teop</a></td><td style="white-space: nowrap;"><i>(ta)mua-na</i></td>
+<td>'<span>old</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/banoni">Banoni</a></td><td><i>ma-ma</i></td>
-<td>
-'<span>in front</span>'</td>
+<td>MM</td><td><a href="../languages/banoni">Banoni</a></td><td style="white-space: nowrap;"><i>ma-ma</i></td>
+<td>'<span>in front</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>mʷoa-i</i></td>
-<td>
-'<span>first, foremost, principal; to be first</span>'</td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td style="white-space: nowrap;"><i>mʷoa-i</i></td>
+<td>'<span>first, foremost, principal; to be first</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td><i>mua-i</i></td>
-<td>
-'<span>first</span>'</td>
+<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td style="white-space: nowrap;"><i>mua-i</i></td>
+<td>'<span>first</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/ambae">Ambae</a></td><td><i>mue-</i></td>
-<td>
-'<span>front of</span>'</td>
+<td>NCV</td><td><a href="../languages/ambae">Ambae</a></td><td style="white-space: nowrap;"><i>mue-</i></td>
+<td>'<span>front of</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/lewo">Lewo</a></td><td><i>(va)mo</i></td>
-<td>
-'<span>front</span>' (<span><em>va</em> ‘go’</span>)</td>
+<td>NCV</td><td><a href="../languages/lewo">Lewo</a></td><td style="white-space: nowrap;"><i>(va)mo</i></td>
+<td>'<span>front</span>' (<span><em>va</em> ‘go’</span>)</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/nauruan">Nauruan</a></td><td><i>(ā)mʷō</i></td>
-<td>
-'<span>front</span>'</td>
+<td>Mic</td><td><a href="../languages/nauruan">Nauruan</a></td><td style="white-space: nowrap;"><i>(ā)mʷō</i></td>
+<td>'<span>front</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>moa</i></td>
-<td>
-'<span>front, fore part</span>'</td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>moa</i></td>
+<td>'<span>front, fore part</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>mmʷa-</i></td>
-<td>
-'<span>front, first, tip, before</span>'</td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td style="white-space: nowrap;"><i>mmʷa-</i></td>
+<td>'<span>front, first, tip, before</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>mᵚā-</i></td>
-<td>
-'<span>front</span>'</td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td style="white-space: nowrap;"><i>mᵚā-</i></td>
+<td>'<span>front</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>mʷāha-</i></td>
-<td>
-'<span>ahead of, before, in front of</span>'</td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td style="white-space: nowrap;"><i>mʷāha-</i></td>
+<td>'<span>ahead of, before, in front of</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/mokilese">Mokilese</a></td><td><i>mʷō-</i></td>
-<td>
-'<span>front</span>'</td>
+<td>Mic</td><td><a href="../languages/mokilese">Mokilese</a></td><td style="white-space: nowrap;"><i>mʷō-</i></td>
+<td>'<span>front</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/ponapean">Ponapean</a></td><td><i>mʷowɛ-</i></td>
-<td>
-'<span>ahead of, in front of, before</span>'</td>
+<td>Mic</td><td><a href="../languages/ponapean">Ponapean</a></td><td style="white-space: nowrap;"><i>mʷowɛ-</i></td>
+<td>'<span>ahead of, in front of, before</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td><i>mʷ-mʷa-</i></td>
-<td>
-'<span>in front of, more than</span>'</td>
+<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td style="white-space: nowrap;"><i>mʷ-mʷa-</i></td>
+<td>'<span>in front of, more than</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>mua</i></td>
-<td>
-'<span>end-point or tip of a long object; head for or set course for a place</span>'</td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td style="white-space: nowrap;"><i>mua</i></td>
+<td>'<span>end-point or tip of a long object; head for or set course for a place</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>mua</i></td>
-<td>
-'<span>the first; tip, point, prow</span>'</td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td style="white-space: nowrap;"><i>mua</i></td>
+<td>'<span>the first; tip, point, prow</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>muʔa</i></td>
-<td>
-'<span>front</span>'</td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td style="white-space: nowrap;"><i>muʔa</i></td>
+<td>'<span>front</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/niuafoou">Niuafo’ou</a></td><td><i>muʔa</i></td>
-<td>
-'<span>front</span>'</td>
+<td>Pn</td><td><a href="../languages/niuafoou">Niuafo’ou</a></td><td style="white-space: nowrap;"><i>muʔa</i></td>
+<td>'<span>front</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/rapanui">Rapanui</a></td><td><i>(ʔi) muʔa</i></td>
-<td>
-'<span>front</span>'</td>
+<td>Pn</td><td><a href="../languages/rapanui">Rapanui</a></td><td style="white-space: nowrap;"><i>(ʔi) muʔa</i></td>
+<td>'<span>front</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tahitian">Tahitian</a></td><td><i>(i) mua</i></td>
-<td>
-'<span>front</span>'</td>
+<td>Pn</td><td><a href="../languages/tahitian">Tahitian</a></td><td style="white-space: nowrap;"><i>(i) mua</i></td>
+<td>'<span>front</span>'</td>
 </tr>
 </table>
 
@@ -4193,113 +3617,91 @@ Although _&ast;muqa_ and _&ast;muga_ are formally similar, a historical relation
 <td style="white-space: nowrap;">
 <i>&ast;muga</i>
 </td>
-<td>
-[(?? N LOC, V) ] '<span>front; be in front; formerly</span>'</td>
+<td>[(?? N LOC, V) ] '<span>front; be in front; formerly</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/bariai">Bariai</a></td><td><i>muga</i></td>
-<td>
-'<span>front</span>'</td>
+<td>NNG</td><td><a href="../languages/bariai">Bariai</a></td><td style="white-space: nowrap;"><i>muga</i></td>
+<td>'<span>front</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/bariai">Bariai</a></td><td><i>muga(ŋa)</i></td>
-<td>
-'<span>forehead</span>'</td>
+<td>NNG</td><td><a href="../languages/bariai">Bariai</a></td><td style="white-space: nowrap;"><i>muga(ŋa)</i></td>
+<td>'<span>forehead</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/bariai">Bariai</a></td><td><i>muga(eai)</i></td>
-<td>
-'<span>formerly</span>' (<span><em>-eai</em> POSTP</span>)</td>
+<td>NNG</td><td><a href="../languages/bariai">Bariai</a></td><td style="white-space: nowrap;"><i>muga(eai)</i></td>
+<td>'<span>formerly</span>' (<span><em>-eai</em> POSTP</span>)</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/lukeppono">Lukep (Pono)</a></td><td><i>mugu</i></td>
-<td>
-'<span>first of all, formerly</span>'</td>
+<td>NNG</td><td><a href="../languages/lukeppono">Lukep (Pono)</a></td><td style="white-space: nowrap;"><i>mugu</i></td>
+<td>'<span>first of all, formerly</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/mangap">Mangap</a></td><td><i>muᵑgu</i></td>
-<td>
-'<span>first of all, formerly, long ago</span>'</td>
+<td>NNG</td><td><a href="../languages/mangap">Mangap</a></td><td style="white-space: nowrap;"><i>muᵑgu</i></td>
+<td>'<span>first of all, formerly, long ago</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/gitua">Gitua</a></td><td><i>muŋga</i></td>
-<td>
-'<span>precede, go ahead, future</span>'</td>
+<td>NNG</td><td><a href="../languages/gitua">Gitua</a></td><td style="white-space: nowrap;"><i>muŋga</i></td>
+<td>'<span>precede, go ahead, future</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/sio">Sio</a></td><td><i>muga</i></td>
-<td>
-'<span>precede; before</span>'</td>
+<td>NNG</td><td><a href="../languages/sio">Sio</a></td><td style="white-space: nowrap;"><i>muga</i></td>
+<td>'<span>precede; before</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/tami">Tami</a></td><td><i>muŋ</i></td>
-<td>
-'<span>front; in front</span>'</td>
+<td>NNG</td><td><a href="../languages/tami">Tami</a></td><td style="white-space: nowrap;"><i>muŋ</i></td>
+<td>'<span>front; in front</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/bing">Bing</a></td><td><i>mug</i></td>
-<td>
-'<span>formerly</span>'</td>
+<td>NNG</td><td><a href="../languages/bing">Bing</a></td><td style="white-space: nowrap;"><i>mug</i></td>
+<td>'<span>formerly</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/gedaged">Gedaged</a></td><td><i>mug</i></td>
-<td>
-'<span>precede</span>'</td>
+<td>NNG</td><td><a href="../languages/gedaged">Gedaged</a></td><td style="white-space: nowrap;"><i>mug</i></td>
+<td>'<span>precede</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/yabem">Yabem</a></td><td><i>muŋ</i></td>
-<td>
-'<span>precede</span>'</td>
+<td>NNG</td><td><a href="../languages/yabem">Yabem</a></td><td style="white-space: nowrap;"><i>muŋ</i></td>
+<td>'<span>precede</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/adzera">Adzera</a></td><td><i>moŋʔ</i></td>
-<td>
-'<span>prior</span>'</td>
+<td>NNG</td><td><a href="../languages/adzera">Adzera</a></td><td style="white-space: nowrap;"><i>moŋʔ</i></td>
+<td>'<span>prior</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/adzera">Adzera</a></td><td><i>moŋʔ(an)</i></td>
-<td>
-'<span>precede</span>'</td>
+<td>NNG</td><td><a href="../languages/adzera">Adzera</a></td><td style="white-space: nowrap;"><i>moŋʔ(an)</i></td>
+<td>'<span>precede</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/suau">Suau</a></td><td><i>-muga(i)</i></td>
-<td>
-'<span>precede</span>'</td>
+<td>PT</td><td><a href="../languages/suau">Suau</a></td><td style="white-space: nowrap;"><i>-muga(i)</i></td>
+<td>'<span>precede</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/bali">Bali</a></td><td><i>muga-</i></td>
-<td>
-'<span>front</span>'</td>
+<td>MM</td><td><a href="../languages/bali">Bali</a></td><td style="white-space: nowrap;"><i>muga-</i></td>
+<td>'<span>front</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/bola">Bola</a></td><td><i>muga</i></td>
-<td>
-'<span>frontside</span>'</td>
+<td>MM</td><td><a href="../languages/bola">Bola</a></td><td style="white-space: nowrap;"><i>muga</i></td>
+<td>'<span>frontside</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td><i>ma-muga</i></td>
-<td>
-[RELATIONAL N] '<span>front</span>'</td>
+<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td style="white-space: nowrap;"><i>ma-muga</i></td>
+<td>[RELATIONAL N] '<span>front</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td><i>(nə)mugə</i></td>
-<td>
-'<span>in front; formerly</span>'</td>
+<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td style="white-space: nowrap;"><i>(nə)mugə</i></td>
+<td>'<span>in front; formerly</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/kandas">Kandas</a></td><td><i>mugu</i></td>
-<td>
-'<span>in front</span>'</td>
+<td>MM</td><td><a href="../languages/kandas">Kandas</a></td><td style="white-space: nowrap;"><i>mugu</i></td>
+<td>'<span>in front</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/bilur">Bilur</a></td><td><i>mugo</i></td>
-<td>
-'<span>frontside</span>'</td>
+<td>MM</td><td><a href="../languages/bilur">Bilur</a></td><td style="white-space: nowrap;"><i>mugo</i></td>
+<td>'<span>frontside</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/siar">Siar</a></td><td><i>muŋ</i></td>
-<td>
-'<span>in front of</span>'</td>
+<td>MM</td><td><a href="../languages/siar">Siar</a></td><td style="white-space: nowrap;"><i>muŋ</i></td>
+<td>'<span>in front of</span>'</td>
 </tr>
 </table>
 
@@ -4316,136 +3718,110 @@ The body-part terms whose reflexes are often used for ‘front’ are POc _&ast;
 <td style="white-space: nowrap;">
 <i>&ast;maCa</i>
 </td>
-<td>
-'<span>eye</span>'</td>
+<td>'<span>eye</span>'</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;mata[-]</i>
 </td>
-<td>
-[(N)] '<span>eye; face</span>'; [N LOC] '<span>front</span>'</td>
+<td>[(N)] '<span>eye; face</span>'; [N LOC] '<span>front</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/lusi">Lusi</a></td><td><i>mata-</i></td>
-<td>
-'<span>eye; front</span>'</td>
+<td>NNG</td><td><a href="../languages/lusi">Lusi</a></td><td style="white-space: nowrap;"><i>mata-</i></td>
+<td>'<span>eye; front</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/bariai">Bariai</a></td><td><i>mata</i></td>
-<td>
-'<span>eye; front</span>'</td>
+<td>NNG</td><td><a href="../languages/bariai">Bariai</a></td><td style="white-space: nowrap;"><i>mata</i></td>
+<td>'<span>eye; front</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/mangap">Mangap</a></td><td><i>mata-</i></td>
-<td>
-'<span>eye; front</span>'</td>
+<td>NNG</td><td><a href="../languages/mangap">Mangap</a></td><td style="white-space: nowrap;"><i>mata-</i></td>
+<td>'<span>eye; front</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td><i>mala-</i></td>
-<td>
-'<span>eye, front</span>'</td>
+<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td style="white-space: nowrap;"><i>mala-</i></td>
+<td>'<span>eye, front</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/buang">Buang</a></td><td><i>mala</i></td>
-<td>
-'<span>eye, front</span>'</td>
+<td>NNG</td><td><a href="../languages/buang">Buang</a></td><td style="white-space: nowrap;"><i>mala</i></td>
+<td>'<span>eye, front</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/adzera">Adzera</a></td><td><i>mara-</i></td>
-<td>
-'<span>eye, front</span>'</td>
+<td>NNG</td><td><a href="../languages/adzera">Adzera</a></td><td style="white-space: nowrap;"><i>mara-</i></td>
+<td>'<span>eye, front</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/kaulong">Kaulong</a></td><td><i>(e)mara</i></td>
-<td>
-'<span>in front</span>'</td>
+<td>NNG</td><td><a href="../languages/kaulong">Kaulong</a></td><td style="white-space: nowrap;"><i>(e)mara</i></td>
+<td>'<span>in front</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/kilivila">Kilivila</a></td><td><i>mata-</i></td>
-<td>
-'<span>eye; front</span>'</td>
+<td>PT</td><td><a href="../languages/kilivila">Kilivila</a></td><td style="white-space: nowrap;"><i>mata-</i></td>
+<td>'<span>eye; front</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/nalik">Nalik</a></td><td><i>mara-</i></td>
-<td>
-'<span>eye; front</span>'</td>
+<td>MM</td><td><a href="../languages/nalik">Nalik</a></td><td style="white-space: nowrap;"><i>mara-</i></td>
+<td>'<span>eye; front</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/siar">Siar</a></td><td><i>mata-</i></td>
-<td>
-'<span>eye; front</span>'</td>
+<td>MM</td><td><a href="../languages/siar">Siar</a></td><td style="white-space: nowrap;"><i>mata-</i></td>
+<td>'<span>eye; front</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td><i>mata</i></td>
-<td>
-'<span>eye; front</span>'</td>
+<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td style="white-space: nowrap;"><i>mata</i></td>
+<td>'<span>eye; front</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/taiof">Taiof</a></td><td><i>mata-</i></td>
-<td>
-'<span>eye; front</span>'</td>
+<td>MM</td><td><a href="../languages/taiof">Taiof</a></td><td style="white-space: nowrap;"><i>mata-</i></td>
+<td>'<span>eye; front</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>(i)mata</i></td>
-<td>
-'<span>in front of</span>'</td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td style="white-space: nowrap;"><i>(i)mata</i></td>
+<td>'<span>in front of</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>mā</i></td>
-<td>
-'<span>eye; front</span>'</td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>mā</i></td>
+<td>'<span>eye; front</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>(i)mā</i></td>
-<td>
-'<span>outside</span>'</td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>(i)mā</i></td>
+<td>'<span>outside</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td><a href="../languages/tinrin">Tinrin</a></td><td><i>(ɳā)mʷãɽã</i></td>
-<td>
-'<span>front</span>'</td>
+<td>NCal</td><td><a href="../languages/tinrin">Tinrin</a></td><td style="white-space: nowrap;"><i>(ɳā)mʷãɽã</i></td>
+<td>'<span>front</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kosraean">Kosraean</a></td><td><i>mʌtʌ-</i></td>
-<td>
-'<span>eye; front</span>'</td>
+<td>Mic</td><td><a href="../languages/kosraean">Kosraean</a></td><td style="white-space: nowrap;"><i>mʌtʌ-</i></td>
+<td>'<span>eye; front</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>mata-</i></td>
-<td>
-'<span>face, front of head, face of object with both front and back side</span>'</td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td style="white-space: nowrap;"><i>mata-</i></td>
+<td>'<span>face, front of head, face of object with both front and back side</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>(i)mata</i></td>
-<td>
-'<span>in front</span>'</td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td style="white-space: nowrap;"><i>(i)mata</i></td>
+<td>'<span>in front</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>mata-</i></td>
-<td>
-'<span>eye; face; front</span>'</td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td style="white-space: nowrap;"><i>mata-</i></td>
+<td>'<span>eye; face; front</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>(i)mata</i></td>
-<td>
-'<span>in front</span>'</td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td style="white-space: nowrap;"><i>(i)mata</i></td>
+<td>'<span>in front</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>mata</i></td>
-<td>
-'<span>eye, face</span>'</td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td style="white-space: nowrap;"><i>mata</i></td>
+<td>'<span>eye, face</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>mata</i></td>
-<td>
-'<span>eye, face</span>'</td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>mata</i></td>
+<td>'<span>eye, face</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>mata</i></td>
-<td>
-'<span>eye, face</span>'</td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td style="white-space: nowrap;"><i>mata</i></td>
+<td>'<span>eye, face</span>'</td>
 </tr>
 </table>
 
@@ -4457,138 +3833,111 @@ The body-part terms whose reflexes are often used for ‘front’ are POc _&ast;
 <td style="white-space: nowrap;">
 <i>&ast;nako[-]</i>
 </td>
-<td>
-[(N, N LOC)] '<span>face, front</span>'</td>
+<td>[(N, N LOC)] '<span>face, front</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/pak">Pak</a></td><td><i>nogo(gi)</i></td>
-<td>
-'<span>front, before, face</span>'</td>
+<td>Adm</td><td><a href="../languages/pak">Pak</a></td><td style="white-space: nowrap;"><i>nogo(gi)</i></td>
+<td>'<span>front, before, face</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/gitua">Gitua</a></td><td><i>nago</i></td>
-<td>
-'<span>face</span>'</td>
+<td>NNG</td><td><a href="../languages/gitua">Gitua</a></td><td style="white-space: nowrap;"><i>nago</i></td>
+<td>'<span>face</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/tami">Tami</a></td><td><i>nao</i></td>
-<td>
-'<span>front, face</span>'</td>
+<td>NNG</td><td><a href="../languages/tami">Tami</a></td><td style="white-space: nowrap;"><i>nao</i></td>
+<td>'<span>front, face</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td><i>nao-</i></td>
-<td>
-'<span>face</span>'</td>
+<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td style="white-space: nowrap;"><i>nao-</i></td>
+<td>'<span>face</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td><i>nao(-n na)</i></td>
-<td>
-'<span>in front of</span>' (<span>N-P:3SG POSTPOSITION</span>)</td>
+<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td style="white-space: nowrap;"><i>nao(-n na)</i></td>
+<td>'<span>in front of</span>' (<span>N-P:3SG POSTPOSITION</span>)</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/ubir">Ubir</a></td><td><i>na(-na-i)</i></td>
-<td>
-'<span>in front of it, him</span>'</td>
+<td>PT</td><td><a href="../languages/ubir">Ubir</a></td><td style="white-space: nowrap;"><i>na(-na-i)</i></td>
+<td>'<span>in front of it, him</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/tawala">Tawala</a></td><td><i>nao-</i></td>
-<td>
-'<span>front/forward position</span>'</td>
+<td>PT</td><td><a href="../languages/tawala">Tawala</a></td><td style="white-space: nowrap;"><i>nao-</i></td>
+<td>'<span>front/forward position</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/tawala">Tawala</a></td><td><i>u nao-na</i></td>
-<td>
-'<span>in front</span>' (<span>PREP N-P:3SG</span>)</td>
+<td>PT</td><td><a href="../languages/tawala">Tawala</a></td><td style="white-space: nowrap;"><i>u nao-na</i></td>
+<td>'<span>in front</span>' (<span>PREP N-P:3SG</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/lavongai">Lavongai</a></td><td><i>(ai)no</i></td>
-<td>
-'<span>formerly</span>'</td>
+<td>MM</td><td><a href="../languages/lavongai">Lavongai</a></td><td style="white-space: nowrap;"><i>(ai)no</i></td>
+<td>'<span>formerly</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/lavongai">Lavongai</a></td><td><i>no</i></td>
-<td>
-'<span>forehead; frontside</span>'</td>
+<td>MM</td><td><a href="../languages/lavongai">Lavongai</a></td><td style="white-space: nowrap;"><i>no</i></td>
+<td>'<span>forehead; frontside</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td><i>(ai)no</i></td>
-<td>
-'<span>formerly</span>'</td>
+<td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td style="white-space: nowrap;"><i>(ai)no</i></td>
+<td>'<span>formerly</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td><i>no</i></td>
-<td>
-'<span>forehead; frontside</span>'</td>
+<td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td style="white-space: nowrap;"><i>no</i></td>
+<td>'<span>forehead; frontside</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/karawest">Kara (West)</a></td><td><i>no</i></td>
-<td>
-'<span>forehead</span>'</td>
+<td>MM</td><td><a href="../languages/karawest">Kara (West)</a></td><td style="white-space: nowrap;"><i>no</i></td>
+<td>'<span>forehead</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/nalik">Nalik</a></td><td><i>no</i></td>
-<td>
-'<span>forehead</span>'</td>
+<td>MM</td><td><a href="../languages/nalik">Nalik</a></td><td style="white-space: nowrap;"><i>no</i></td>
+<td>'<span>forehead</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>naɣo</i></td>
-<td>
-'<span>front, before, face</span>'</td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td style="white-space: nowrap;"><i>naɣo</i></td>
+<td>'<span>front, before, face</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td><i>naɣo</i></td>
-<td>
-'<span>front</span>'</td>
+<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td style="white-space: nowrap;"><i>naɣo</i></td>
+<td>'<span>front</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/longgu">Longgu</a></td><td><i>naʔo(va-)</i></td>
-<td>
-'<span>front</span>'</td>
+<td>SES</td><td><a href="../languages/longgu">Longgu</a></td><td style="white-space: nowrap;"><i>naʔo(va-)</i></td>
+<td>'<span>front</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>nao</i></td>
-<td>
-'<span>front</span>'</td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td style="white-space: nowrap;"><i>nao</i></td>
+<td>'<span>front</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>naʔo-</i></td>
-<td>
-'<span>front</span>'</td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td style="white-space: nowrap;"><i>naʔo-</i></td>
+<td>'<span>front</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td><i>naʔo</i></td>
-<td>
-'<span>front</span>'</td>
+<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>naʔo</i></td>
+<td>'<span>front</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>naʔo</i></td>
-<td>
-'<span>front, before, face</span>'</td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>naʔo</i></td>
+<td>'<span>front, before, face</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>nago-i</i></td>
-<td>
-'<span>face, front, cutting edge</span>'</td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td style="white-space: nowrap;"><i>nago-i</i></td>
+<td>'<span>face, front, cutting edge</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/merlav">Merlav</a></td><td><i>nago-i</i></td>
-<td>
-'<span>front, before, face</span>'</td>
+<td>NCV</td><td><a href="../languages/merlav">Merlav</a></td><td style="white-space: nowrap;"><i>nago-i</i></td>
+<td>'<span>front, before, face</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/tamambo">Tamambo</a></td><td><i>naho-</i></td>
-<td>
-'<span>face</span>'</td>
+<td>NCV</td><td><a href="../languages/tamambo">Tamambo</a></td><td style="white-space: nowrap;"><i>naho-</i></td>
+<td>'<span>face</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td><i>nā-</i></td>
-<td>
-'<span>face, front</span>'</td>
+<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td style="white-space: nowrap;"><i>nā-</i></td>
+<td>'<span>face, front</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/nguna">Nguna</a></td><td><i>nako-</i></td>
-<td>
-'<span>front, before, face</span>'</td>
+<td>NCV</td><td><a href="../languages/nguna">Nguna</a></td><td style="white-space: nowrap;"><i>nako-</i></td>
+<td>'<span>front, before, face</span>'</td>
 </tr>
 </table>
 
@@ -4614,8 +3963,7 @@ It appears that the PMP root _&ast;udehi_ was also inherited into POc as the bas
 <td style="white-space: nowrap;">
 <i>&ast;ma-udehi</i>
 </td>
-<td>
-'<span>be last; be after or behind; be late, be later; future</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>be last; be after or behind; be late, be later; future</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 [^18]</td>
 </tr>
 <tr>
@@ -4623,231 +3971,186 @@ It appears that the PMP root _&ast;udehi_ was also inherited into POc as the bas
 <td style="white-space: nowrap;">
 <i>&ast;muri[-]</i>
 </td>
-<td>
-[(N, N LOC) ] '<span>be behind, be after; back part, rear, behind, space to the rear of, time after; (canoe) stern; space outside</span>'</td>
+<td>[(N, N LOC) ] '<span>be behind, be after; back part, rear, behind, space to the rear of, time after; (canoe) stern; space outside</span>'</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;i muri, &ast;muri-muri</i>
 </td>
-<td>
-'<span>at the back, later</span>'</td>
+<td>'<span>at the back, later</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/wuvulu">Wuvulu</a></td><td><i>muki</i></td>
-<td>
-'<span>(canoe) stern</span>'</td>
+<td>Adm</td><td><a href="../languages/wuvulu">Wuvulu</a></td><td style="white-space: nowrap;"><i>muki</i></td>
+<td>'<span>(canoe) stern</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/loniu">Loniu</a></td><td><i>muʔu (tun)</i></td>
-<td>
-'<span>(canoe) stern</span>'</td>
+<td>Adm</td><td><a href="../languages/loniu">Loniu</a></td><td style="white-space: nowrap;"><i>muʔu (tun)</i></td>
+<td>'<span>(canoe) stern</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/drehet">Drehet</a></td><td><i>(o)mu(ŋ)</i></td>
-<td>
-'<span>back</span>'</td>
+<td>Adm</td><td><a href="../languages/drehet">Drehet</a></td><td style="white-space: nowrap;"><i>(o)mu(ŋ)</i></td>
+<td>'<span>back</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/kove">Kove</a></td><td><i>muhi-</i></td>
-<td>
-'<span>s.o.’s back</span>'</td>
+<td>NNG</td><td><a href="../languages/kove">Kove</a></td><td style="white-space: nowrap;"><i>muhi-</i></td>
+<td>'<span>s.o.’s back</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/bariai">Bariai</a></td><td><i>mur[-]</i></td>
-<td>
-'<span>s.o.’s back</span>'</td>
+<td>NNG</td><td><a href="../languages/bariai">Bariai</a></td><td style="white-space: nowrap;"><i>mur[-]</i></td>
+<td>'<span>s.o.’s back</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/gitua">Gitua</a></td><td><i>mur</i></td>
-<td>
-'<span>behind, afterwards</span>'</td>
+<td>NNG</td><td><a href="../languages/gitua">Gitua</a></td><td style="white-space: nowrap;"><i>mur</i></td>
+<td>'<span>behind, afterwards</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/gedaged">Gedaged</a></td><td><i>muli-</i></td>
-<td>
-'<span>behind, rear, back part, stern, rear, posterior, outside of s.t.</span>'</td>
+<td>NNG</td><td><a href="../languages/gedaged">Gedaged</a></td><td style="white-space: nowrap;"><i>muli-</i></td>
+<td>'<span>behind, rear, back part, stern, rear, posterior, outside of s.t.</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td><i>muri</i></td>
-<td>
-'<span>behind</span>'</td>
+<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td style="white-space: nowrap;"><i>muri</i></td>
+<td>'<span>behind</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/yabem">Yabem</a></td><td><i>(ŋa)mu(ŋa)</i></td>
-<td>
-'<span>back of s.t.</span>'</td>
+<td>NNG</td><td><a href="../languages/yabem">Yabem</a></td><td style="white-space: nowrap;"><i>(ŋa)mu(ŋa)</i></td>
+<td>'<span>back of s.t.</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/bukawa">Bukawa</a></td><td><i>(ŋa)ᵐbu(ᵑga)</i></td>
-<td>
-'<span>back of s.t.</span>'</td>
+<td>NNG</td><td><a href="../languages/bukawa">Bukawa</a></td><td style="white-space: nowrap;"><i>(ŋa)ᵐbu(ᵑga)</i></td>
+<td>'<span>back of s.t.</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/kaiwa">Kaiwa</a></td><td><i>mul</i></td>
-<td>
-'<span>back of s.t.</span>'</td>
+<td>NNG</td><td><a href="../languages/kaiwa">Kaiwa</a></td><td style="white-space: nowrap;"><i>mul</i></td>
+<td>'<span>back of s.t.</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/iduna">Iduna</a></td><td><i>muli(ne)</i></td>
-<td>
-'<span>back of s.t., behind</span>'</td>
+<td>PT</td><td><a href="../languages/iduna">Iduna</a></td><td style="white-space: nowrap;"><i>muli(ne)</i></td>
+<td>'<span>back of s.t., behind</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/dobu">Dobu</a></td><td><i>muri-</i></td>
-<td>
-'<span>behind, afterwards</span>'</td>
+<td>PT</td><td><a href="../languages/dobu">Dobu</a></td><td style="white-space: nowrap;"><i>muri-</i></td>
+<td>'<span>behind, afterwards</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/gapapaiwa">Gapapaiwa</a></td><td><i>muri</i></td>
-<td>
-'<span>follow</span>'</td>
+<td>PT</td><td><a href="../languages/gapapaiwa">Gapapaiwa</a></td><td style="white-space: nowrap;"><i>muri</i></td>
+<td>'<span>follow</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/gapapaiwa">Gapapaiwa</a></td><td><i>muri-</i></td>
-<td>
-'<span>back of s.t.; behind, afterwards</span>'</td>
+<td>PT</td><td><a href="../languages/gapapaiwa">Gapapaiwa</a></td><td style="white-space: nowrap;"><i>muri-</i></td>
+<td>'<span>back of s.t.; behind, afterwards</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/tawala">Tawala</a></td><td><i>muli-</i></td>
-<td>
-'<span>back of s.t.; behind, afterwards</span>'</td>
+<td>PT</td><td><a href="../languages/tawala">Tawala</a></td><td style="white-space: nowrap;"><i>muli-</i></td>
+<td>'<span>back of s.t.; behind, afterwards</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>muri-</i></td>
-<td>
-'<span>back of s.t.; space behind</span>'</td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td style="white-space: nowrap;"><i>muri-</i></td>
+<td>'<span>back of s.t.; space behind</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/bali">Bali</a></td><td><i>muri</i></td>
-<td>
-'<span>back of s.t.</span>'</td>
+<td>MM</td><td><a href="../languages/bali">Bali</a></td><td style="white-space: nowrap;"><i>muri</i></td>
+<td>'<span>back of s.t.</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/meramera">Meramera</a></td><td><i>(ma)muli</i></td>
-<td>
-'<span>back of s.t.</span>'</td>
+<td>MM</td><td><a href="../languages/meramera">Meramera</a></td><td style="white-space: nowrap;"><i>(ma)muli</i></td>
+<td>'<span>back of s.t.</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/meramera">Meramera</a></td><td><i>(muli)muli</i></td>
-<td>
-'<span>later</span>'</td>
+<td>MM</td><td><a href="../languages/meramera">Meramera</a></td><td style="white-space: nowrap;"><i>(muli)muli</i></td>
+<td>'<span>later</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td><i>(muli)muli</i></td>
-<td>
-'<span>later</span>'</td>
+<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td style="white-space: nowrap;"><i>(muli)muli</i></td>
+<td>'<span>later</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/lavongai">Lavongai</a></td><td><i>muŋ</i></td>
-<td>
-'<span>back of s.t.; s.o.’s back</span>'</td>
+<td>MM</td><td><a href="../languages/lavongai">Lavongai</a></td><td style="white-space: nowrap;"><i>muŋ</i></td>
+<td>'<span>back of s.t.; s.o.’s back</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td><i>(ai)muk</i></td>
-<td>
-'<span>later</span>'</td>
+<td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td style="white-space: nowrap;"><i>(ai)muk</i></td>
+<td>'<span>later</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td><i>mugi-</i></td>
-<td>
-'<span>back of s.t.; s.o.’s back</span>'</td>
+<td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td style="white-space: nowrap;"><i>mugi-</i></td>
+<td>'<span>back of s.t.; s.o.’s back</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tabar">Tabar</a></td><td><i>muri-</i></td>
-<td>
-'<span>back of s.t.</span>'</td>
+<td>MM</td><td><a href="../languages/tabar">Tabar</a></td><td style="white-space: nowrap;"><i>muri-</i></td>
+<td>'<span>back of s.t.</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td><i>muru</i></td>
-<td>
-'<span>follow; behind, back; last</span>'</td>
+<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td style="white-space: nowrap;"><i>muru</i></td>
+<td>'<span>follow; behind, back; last</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td><i>(na)mur</i></td>
-<td>
-'<span>later, afterwards</span>'</td>
+<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td style="white-space: nowrap;"><i>(na)mur</i></td>
+<td>'<span>later, afterwards</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td><i>mur</i></td>
-<td>
-'<span>s.o.’s back</span>'</td>
+<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td style="white-space: nowrap;"><i>mur</i></td>
+<td>'<span>s.o.’s back</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>muri-</i></td>
-<td>
-'<span>behind, afterwards; back; outside of s.t.; afterbirth; posterity</span>'</td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td style="white-space: nowrap;"><i>muri-</i></td>
+<td>'<span>behind, afterwards; back; outside of s.t.; afterbirth; posterity</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/lengo">Lengo</a></td><td><i>(i)muri(a)</i></td>
-<td>
-'<span>after</span>'</td>
+<td>SES</td><td><a href="../languages/lengo">Lengo</a></td><td style="white-space: nowrap;"><i>(i)muri(a)</i></td>
+<td>'<span>after</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>muri-</i></td>
-<td>
-'<span>follow; behind, back; outside of s.t.; afterwards; left hand when facing an object</span>'</td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td style="white-space: nowrap;"><i>muri-</i></td>
+<td>'<span>follow; behind, back; outside of s.t.; afterwards; left hand when facing an object</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/ponapean">Ponapean</a></td><td><i>mʷuri</i></td>
-<td>
-'<span>behind</span>'</td>
+<td>Mic</td><td><a href="../languages/ponapean">Ponapean</a></td><td style="white-space: nowrap;"><i>mʷuri</i></td>
+<td>'<span>behind</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>mʷiẓi-</i></td>
-<td>
-'<span>behind, after, backside, rear</span>'</td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td style="white-space: nowrap;"><i>mʷiẓi-</i></td>
+<td>'<span>behind, after, backside, rear</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/mokilese">Mokilese</a></td><td><i>mʷeri-</i></td>
-<td>
-'<span>back of s.t.; s.o.’s back</span>'</td>
+<td>Mic</td><td><a href="../languages/mokilese">Mokilese</a></td><td style="white-space: nowrap;"><i>mʷeri-</i></td>
+<td>'<span>back of s.t.; s.o.’s back</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td><i>mʷir-</i></td>
-<td>
-'<span>back of s.t.; s.o.’s back</span>'</td>
+<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td style="white-space: nowrap;"><i>mʷir-</i></td>
+<td>'<span>back of s.t.; s.o.’s back</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>muri</i></td>
-<td>
-'<span>following, after</span>'</td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td style="white-space: nowrap;"><i>muri</i></td>
+<td>'<span>following, after</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>(e) muri</i></td>
-<td>
-'<span>behind, later</span>'</td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td style="white-space: nowrap;"><i>(e) muri</i></td>
+<td>'<span>behind, later</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>(ki) muri</i></td>
-<td>
-'<span>to the rear</span>'</td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td style="white-space: nowrap;"><i>(ki) muri</i></td>
+<td>'<span>to the rear</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>mui</i></td>
-<td>
-'<span>space behind; rear; end, extremity, tip; back, rear; later; young, immature, only partly developed</span>'</td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td style="white-space: nowrap;"><i>mui</i></td>
+<td>'<span>space behind; rear; end, extremity, tip; back, rear; later; young, immature, only partly developed</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>muli</i></td>
-<td>
-'<span>come last, be last; young, new</span>'</td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>muli</i></td>
+<td>'<span>come last, be last; young, new</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>mugi</i></td>
-<td>
-'<span>follow, be or go behind or after; rear end, esp. lower or western end</span>'</td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td style="white-space: nowrap;"><i>mugi</i></td>
+<td>'<span>follow, be or go behind or after; rear end, esp. lower or western end</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>muri</i></td>
-<td>
-'<span>rear, hind part; sequel, time to come; behind, afterwards, backwards; youngest child</span>'</td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td style="white-space: nowrap;"><i>muri</i></td>
+<td>'<span>rear, hind part; sequel, time to come; behind, afterwards, backwards; youngest child</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>muli</i></td>
-<td>
-'<span>behind, afterwards; last, following behind; younger, youngest; (canoe) stern</span>'</td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td style="white-space: nowrap;"><i>muli</i></td>
+<td>'<span>behind, afterwards; last, following behind; younger, youngest; (canoe) stern</span>'</td>
 </tr>
 </table>
 
@@ -4864,63 +4167,51 @@ The reflexes below contain a Northwest Solomonic innovation whereby Proto Northw
 <td style="white-space: nowrap;">
 <i>&ast;mudi-</i>
 </td>
-<td>
-'<span>back of s.t.; s.o.’s back</span>'</td>
+<td>'<span>back of s.t.; s.o.’s back</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/nehan">Nehan</a></td><td><i>mudi</i></td>
-<td>
-'<span>back of s.t.; s.o.’s back</span>'</td>
+<td>MM</td><td><a href="../languages/nehan">Nehan</a></td><td style="white-space: nowrap;"><i>mudi</i></td>
+<td>'<span>back of s.t.; s.o.’s back</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/petats">Petats</a></td><td><i>muru</i></td>
-<td>
-'<span>s.o.’s back</span>'</td>
+<td>MM</td><td><a href="../languages/petats">Petats</a></td><td style="white-space: nowrap;"><i>muru</i></td>
+<td>'<span>s.o.’s back</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/halia">Halia</a></td><td><i>muru</i></td>
-<td>
-'<span>back of s.t.; s.o.’s back</span>'</td>
+<td>MM</td><td><a href="../languages/halia">Halia</a></td><td style="white-space: nowrap;"><i>muru</i></td>
+<td>'<span>back of s.t.; s.o.’s back</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/selau">Selau</a></td><td><i>muri-</i></td>
-<td>
-'<span>back of s.t</span>'</td>
+<td>MM</td><td><a href="../languages/selau">Selau</a></td><td style="white-space: nowrap;"><i>muri-</i></td>
+<td>'<span>back of s.t</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/selau">Selau</a></td><td><i>mur</i></td>
-<td>
-'<span>s.o.’s back</span>'</td>
+<td>MM</td><td><a href="../languages/selau">Selau</a></td><td style="white-space: nowrap;"><i>mur</i></td>
+<td>'<span>s.o.’s back</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/banoni">Banoni</a></td><td><i>muri</i></td>
-<td>
-'<span>behind</span>'</td>
+<td>MM</td><td><a href="../languages/banoni">Banoni</a></td><td style="white-space: nowrap;"><i>muri</i></td>
+<td>'<span>behind</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/monoalu">Mono-Alu</a></td><td><i>(muri)muri</i></td>
-<td>
-'<span>later</span>'</td>
+<td>MM</td><td><a href="../languages/monoalu">Mono-Alu</a></td><td style="white-space: nowrap;"><i>(muri)muri</i></td>
+<td>'<span>later</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/vangunu">Vangunu</a></td><td><i>(tara)meji-na</i></td>
-<td>
-'<span>after</span>'</td>
+<td>MM</td><td><a href="../languages/vangunu">Vangunu</a></td><td style="white-space: nowrap;"><i>(tara)meji-na</i></td>
+<td>'<span>after</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/varisi">Varisi</a></td><td><i>(tara)muzi-na</i></td>
-<td>
-'<span>after</span>'</td>
+<td>MM</td><td><a href="../languages/varisi">Varisi</a></td><td style="white-space: nowrap;"><i>(tara)muzi-na</i></td>
+<td>'<span>after</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/nduke">Nduke</a></td><td><i>mudi-</i></td>
-<td>
-'<span>back of s.t.; s.o.’s back</span>'</td>
+<td>MM</td><td><a href="../languages/nduke">Nduke</a></td><td style="white-space: nowrap;"><i>mudi-</i></td>
+<td>'<span>back of s.t.; s.o.’s back</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td><i>mudi-</i></td>
-<td>
-'<span>back of s.t.; s.o.’s back</span>'</td>
+<td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td style="white-space: nowrap;"><i>mudi-</i></td>
+<td>'<span>back of s.t.; s.o.’s back</span>'</td>
 </tr>
 </table>
 
@@ -4934,8 +4225,7 @@ The semantic and formal similarity of the reflexes of POc _&ast;burit_ below to 
 <td style="white-space: nowrap;">
 <i>&ast;burit</i>
 </td>
-<td>
-'<span>hind part, rear, back</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>hind part, rear, back</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -4943,78 +4233,63 @@ The semantic and formal similarity of the reflexes of POc _&ast;burit_ below to 
 <td style="white-space: nowrap;">
 <i>&ast;burit</i>
 </td>
-<td>
-'<span>hind part, rear, back</span>'; [N, N LOC] '<span>back part, rear, behind, space to the rear of, time after; (canoe) stern</span>'; [ADV] '<span>behind, afterwards</span>'</td>
+<td>'<span>hind part, rear, back</span>'; [N, N LOC] '<span>back part, rear, behind, space to the rear of, time after; (canoe) stern</span>'; [ADV] '<span>behind, afterwards</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/kela">Kela</a></td><td><i>ᵐburi(ya)</i></td>
-<td>
-'<span>back of s.t.</span>'</td>
+<td>NNG</td><td><a href="../languages/kela">Kela</a></td><td style="white-space: nowrap;"><i>ᵐburi(ya)</i></td>
+<td>'<span>back of s.t.</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tinputz">Tinputz</a></td><td><i>puri</i></td>
-<td>
-'<span>behind</span>'</td>
+<td>MM</td><td><a href="../languages/tinputz">Tinputz</a></td><td style="white-space: nowrap;"><i>puri</i></td>
+<td>'<span>behind</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/teop">Teop</a></td><td><i>buri</i></td>
-<td>
-'<span>behind</span>'</td>
+<td>MM</td><td><a href="../languages/teop">Teop</a></td><td style="white-space: nowrap;"><i>buri</i></td>
+<td>'<span>behind</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>buri</i></td>
-<td>
-'<span>back, stern</span>'; '<span>back; behind, after; stern, rear</span>'</td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td style="white-space: nowrap;"><i>buri</i></td>
+<td>'<span>back, stern</span>'; '<span>back; behind, after; stern, rear</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td><i>buriti</i></td>
-<td>
-'<span>back</span>'</td>
+<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td style="white-space: nowrap;"><i>buriti</i></td>
+<td>'<span>back</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/longgu">Longgu</a></td><td><i>buri-</i></td>
-<td>
-'<span>behind; after</span>'</td>
+<td>SES</td><td><a href="../languages/longgu">Longgu</a></td><td style="white-space: nowrap;"><i>buri-</i></td>
+<td>'<span>behind; after</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>buri</i></td>
-<td>
-'<span>back, stern</span>'; '<span>back; behind, after; stern, rear</span>'</td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td style="white-space: nowrap;"><i>buri</i></td>
+<td>'<span>back, stern</span>'; '<span>back; behind, after; stern, rear</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>buri(wela)</i></td>
-<td>
-'<span>after-birth</span>'</td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td style="white-space: nowrap;"><i>buri(wela)</i></td>
+<td>'<span>after-birth</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>(i) buri</i></td>
-<td>
-'<span>afterwards</span>'</td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td style="white-space: nowrap;"><i>(i) buri</i></td>
+<td>'<span>afterwards</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>buli-na</i></td>
-<td>
-'<span>after</span>'</td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td style="white-space: nowrap;"><i>buli-na</i></td>
+<td>'<span>after</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>buli</i></td>
-<td>
-'<span>after, behind</span>'</td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td style="white-space: nowrap;"><i>buli</i></td>
+<td>'<span>after, behind</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td><i>puri-na</i></td>
-<td>
-'<span>after</span>'</td>
+<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>puri-na</i></td>
+<td>'<span>after</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>(i) puri</i></td>
-<td>
-'<span>back of, behind; stern of a canoe</span>'</td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>(i) puri</i></td>
+<td>'<span>back of, behind; stern of a canoe</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>puri-na</i></td>
-<td>
-'<span>after, back, stern</span>'</td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>puri-na</i></td>
+<td>'<span>after, back, stern</span>'</td>
 </tr>
 </table>
 
@@ -5031,198 +4306,159 @@ One body-part term occurs with fair frequency with the sense of ‘back part of,
 <td style="white-space: nowrap;">
 <i>&ast;takuRu[-]</i>
 </td>
-<td>
-[(N, ? N LOC) ] '<span>(s.o.’s) back</span>'</td>
+<td>[(N, ? N LOC) ] '<span>(s.o.’s) back</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/titan">Titan</a></td><td><i>lákulo-</i></td>
-<td>
-'<span>(s.o.’s) back</span>' (<span><em>l-</em> for expected <em>t-</em></span>)</td>
+<td>Adm</td><td><a href="../languages/titan">Titan</a></td><td style="white-space: nowrap;"><i>lákulo-</i></td>
+<td>'<span>(s.o.’s) back</span>' (<span><em>l-</em> for expected <em>t-</em></span>)</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/sio">Sio</a></td><td><i>taulo</i></td>
-<td>
-'<span>behind</span>'</td>
+<td>NNG</td><td><a href="../languages/sio">Sio</a></td><td style="white-space: nowrap;"><i>taulo</i></td>
+<td>'<span>behind</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/gumawana">Gumawana</a></td><td><i>tolu-</i></td>
-<td>
-'<span>(s.o.’s) back</span>'</td>
+<td>PT</td><td><a href="../languages/gumawana">Gumawana</a></td><td style="white-space: nowrap;"><i>tolu-</i></td>
+<td>'<span>(s.o.’s) back</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/dawawa">Dawawa</a></td><td><i>tauri</i></td>
-<td>
-'<span>back of s.t.; s.o.’s back</span>'</td>
+<td>PT</td><td><a href="../languages/dawawa">Dawawa</a></td><td style="white-space: nowrap;"><i>tauri</i></td>
+<td>'<span>back of s.t.; s.o.’s back</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>doru-</i></td>
-<td>
-'<span>back, behind</span>'</td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td style="white-space: nowrap;"><i>doru-</i></td>
+<td>'<span>back, behind</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/lavongai">Lavongai</a></td><td><i>toŋ</i></td>
-<td>
-'<span>back of s.t.</span>'</td>
+<td>MM</td><td><a href="../languages/lavongai">Lavongai</a></td><td style="white-space: nowrap;"><i>toŋ</i></td>
+<td>'<span>back of s.t.</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/nalik">Nalik</a></td><td><i>toru-</i></td>
-<td>
-[N LOC] '<span>space behind</span>' (<span>e.g. <em>la toru-gu</em> [PREP N LOC-P:1SG] ‘behind me’</span>)</td>
+<td>MM</td><td><a href="../languages/nalik">Nalik</a></td><td style="white-space: nowrap;"><i>toru-</i></td>
+<td>[N LOC] '<span>space behind</span>' (<span>e.g. <em>la toru-gu</em> [PREP N LOC-P:1SG] ‘behind me’</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/minigir">Minigir</a></td><td><i>tauru-</i></td>
-<td>
-'<span>(s.o.’s) back</span>'</td>
+<td>MM</td><td><a href="../languages/minigir">Minigir</a></td><td style="white-space: nowrap;"><i>tauru-</i></td>
+<td>'<span>(s.o.’s) back</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/bilur">Bilur</a></td><td><i>taru-</i></td>
-<td>
-'<span>(s.o.’s) back</span>'</td>
+<td>MM</td><td><a href="../languages/bilur">Bilur</a></td><td style="white-space: nowrap;"><i>taru-</i></td>
+<td>'<span>(s.o.’s) back</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/siar">Siar</a></td><td><i>taru-</i></td>
-<td>
-'<span>(s.o.’s) back</span>'</td>
+<td>MM</td><td><a href="../languages/siar">Siar</a></td><td style="white-space: nowrap;"><i>taru-</i></td>
+<td>'<span>(s.o.’s) back</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/taiof">Taiof</a></td><td><i>touno-</i></td>
-<td>
-'<span>(s.o.’s) back</span>'</td>
+<td>MM</td><td><a href="../languages/taiof">Taiof</a></td><td style="white-space: nowrap;"><i>touno-</i></td>
+<td>'<span>(s.o.’s) back</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/teop">Teop</a></td><td><i>tonu-</i></td>
-<td>
-'<span>(s.o.’s) back</span>'</td>
+<td>MM</td><td><a href="../languages/teop">Teop</a></td><td style="white-space: nowrap;"><i>tonu-</i></td>
+<td>'<span>(s.o.’s) back</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/kia">Kia</a></td><td><i>taɣuru-</i></td>
-<td>
-'<span>back of s.t.; s.o.’s back</span>'</td>
+<td>MM</td><td><a href="../languages/kia">Kia</a></td><td style="white-space: nowrap;"><i>taɣuru-</i></td>
+<td>'<span>back of s.t.; s.o.’s back</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/kokota">Kokota</a></td><td><i>tagru-</i></td>
-<td>
-'<span>back of s.t.; s.o.’s back</span>'</td>
+<td>MM</td><td><a href="../languages/kokota">Kokota</a></td><td style="white-space: nowrap;"><i>tagru-</i></td>
+<td>'<span>back of s.t.; s.o.’s back</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/maringe">Maringe</a></td><td><i>tʰagru-</i></td>
-<td>
-'<span>back of s.t.; s.o.’s back</span>'</td>
+<td>MM</td><td><a href="../languages/maringe">Maringe</a></td><td style="white-space: nowrap;"><i>tʰagru-</i></td>
+<td>'<span>back of s.t.; s.o.’s back</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>tawur, tawuru-</i></td>
-<td>
-'<span>back of s.t.; s.o.’s back</span>'</td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td style="white-space: nowrap;"><i>tawur, tawuru-</i></td>
+<td>'<span>back of s.t.; s.o.’s back</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>(a)tawur</i></td>
-<td>
-'<span>behind</span>'</td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td style="white-space: nowrap;"><i>(a)tawur</i></td>
+<td>'<span>behind</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/ambae">Ambae</a></td><td><i>tagu-</i></td>
-<td>
-[N LOC] '<span>space behind</span>'</td>
+<td>NCV</td><td><a href="../languages/ambae">Ambae</a></td><td style="white-space: nowrap;"><i>tagu-</i></td>
+<td>[N LOC] '<span>space behind</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td><i>(a)taɣu-</i></td>
-<td>
-[N LOC] '<span>behind</span>'</td>
+<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td style="white-space: nowrap;"><i>(a)taɣu-</i></td>
+<td>[N LOC] '<span>behind</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/portsandwich">Port Sandwich</a></td><td><i>(a)rax</i></td>
-<td>
-[N LOC] '<span>behind</span>'</td>
+<td>NCV</td><td><a href="../languages/portsandwich">Port Sandwich</a></td><td style="white-space: nowrap;"><i>(a)rax</i></td>
+<td>[N LOC] '<span>behind</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/lonwolwol">Lonwolwol</a></td><td><i>tao-</i></td>
-<td>
-'<span>lower back (region around hips); behind</span>'</td>
+<td>NCV</td><td><a href="../languages/lonwolwol">Lonwolwol</a></td><td style="white-space: nowrap;"><i>tao-</i></td>
+<td>'<span>lower back (region around hips); behind</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/lewo">Lewo</a></td><td><i>ra-</i></td>
-<td>
-'<span>back of s.t.; s.o.’s back</span>'</td>
+<td>NCV</td><td><a href="../languages/lewo">Lewo</a></td><td style="white-space: nowrap;"><i>ra-</i></td>
+<td>'<span>back of s.t.; s.o.’s back</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/lewo">Lewo</a></td><td><i>(va)rau</i></td>
-<td>
-'<span>behind</span>' (<span>va ‘go’</span>)</td>
+<td>NCV</td><td><a href="../languages/lewo">Lewo</a></td><td style="white-space: nowrap;"><i>(va)rau</i></td>
+<td>'<span>behind</span>' (<span>va ‘go’</span>)</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/nguna">Nguna</a></td><td><i>(na)taku</i></td>
-<td>
-'<span>back; the far side, other side</span>'</td>
+<td>NCV</td><td><a href="../languages/nguna">Nguna</a></td><td style="white-space: nowrap;"><i>(na)taku</i></td>
+<td>'<span>back; the far side, other side</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/nguna">Nguna</a></td><td><i>(e)daku</i></td>
-<td>
-[ADV] '<span>at the back, behind; after</span>'</td>
+<td>NCV</td><td><a href="../languages/nguna">Nguna</a></td><td style="white-space: nowrap;"><i>(e)daku</i></td>
+<td>[ADV] '<span>at the back, behind; after</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/sye">Sye</a></td><td><i>(n)toc(-noki)</i></td>
-<td>
-'<span>back of skull</span>'</td>
+<td>SV</td><td><a href="../languages/sye">Sye</a></td><td style="white-space: nowrap;"><i>(n)toc(-noki)</i></td>
+<td>'<span>back of skull</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/sye">Sye</a></td><td><i>(n)tocu(-nta-)</i></td>
-<td>
-'<span>shoulder blade</span>'</td>
+<td>SV</td><td><a href="../languages/sye">Sye</a></td><td style="white-space: nowrap;"><i>(n)tocu(-nta-)</i></td>
+<td>'<span>shoulder blade</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/kwamera">Kwamera</a></td><td><i>taku-</i></td>
-<td>
-'<span>back</span>'</td>
+<td>SV</td><td><a href="../languages/kwamera">Kwamera</a></td><td style="white-space: nowrap;"><i>taku-</i></td>
+<td>'<span>back</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>(i)taɣ</i></td>
-<td>
-[ADV] '<span>behind</span>' (<span>e.g. <em>itaɣ a niomʷ</em> [ADV PREP N] ‘behind the house’</span>)</td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td style="white-space: nowrap;"><i>(i)taɣ</i></td>
+<td>[ADV] '<span>behind</span>' (<span>e.g. <em>itaɣ a niomʷ</em> [ADV PREP N] ‘behind the house’</span>)</td>
 </tr>
 <tr>
-<td>NCal</td><td><a href="../languages/nyelayu">Nyelâyu</a></td><td><i>dū-</i></td>
-<td>
-'<span>(s.o.’s) back; behind</span>'</td>
+<td>NCal</td><td><a href="../languages/nyelayu">Nyelâyu</a></td><td style="white-space: nowrap;"><i>dū-</i></td>
+<td>'<span>(s.o.’s) back; behind</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td><a href="../languages/tinrin">Tinrin</a></td><td><i>ʈɔɔ-</i></td>
-<td>
-'<span>(s.o.’s) back</span>'</td>
+<td>NCal</td><td><a href="../languages/tinrin">Tinrin</a></td><td style="white-space: nowrap;"><i>ʈɔɔ-</i></td>
+<td>'<span>(s.o.’s) back</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>akū-</i></td>
-<td>
-'<span>back; behind</span>'</td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>akū-</i></td>
+<td>'<span>back; behind</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kosraean">Kosraean</a></td><td><i>tɔkɔ-</i></td>
-<td>
-'<span>back of s.t.; s.o.’s back</span>'</td>
+<td>Mic</td><td><a href="../languages/kosraean">Kosraean</a></td><td style="white-space: nowrap;"><i>tɔkɔ-</i></td>
+<td>'<span>back of s.t.; s.o.’s back</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>æliki-</i></td>
-<td>
-'<span>(s.o.’s) back</span>'</td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td style="white-space: nowrap;"><i>æliki-</i></td>
+<td>'<span>(s.o.’s) back</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td><i>hækɨr</i></td>
-<td>
-'<span>(s.o.’s) back</span>'</td>
+<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td style="white-space: nowrap;"><i>hækɨr</i></td>
+<td>'<span>(s.o.’s) back</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>taxɨẓɨ-</i></td>
-<td>
-'<span>back of s.t.; s.o.’s back</span>'</td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td style="white-space: nowrap;"><i>taxɨẓɨ-</i></td>
+<td>'<span>back of s.t.; s.o.’s back</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>takū</i></td>
-<td>
-[N LOC] '<span>behind</span>'</td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td style="white-space: nowrap;"><i>takū</i></td>
+<td>[N LOC] '<span>behind</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>daku-</i></td>
-<td>
-'<span>back of s.t.; s.o.’s back</span>'</td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td style="white-space: nowrap;"><i>daku-</i></td>
+<td>'<span>back of s.t.; s.o.’s back</span>'</td>
 </tr>
 </table>
 
@@ -5231,14 +4467,14 @@ cf. also:
 <tr>
 <td>SES</td>
 <td><a href="../languages/areare">'Are'are</a></td>
-<td><i>kokoru-</i></td>
+<td style="white-space: nowrap;"><i>kokoru-</i></td>
 <td>
 '<span>(s.o.’s) back</span>'</td>
 </tr>
 <tr>
 <td>SES</td>
 <td><a href="../languages/saa">Sa'a</a></td>
-<td><i>kokolu-</i></td>
+<td style="white-space: nowrap;"><i>kokolu-</i></td>
 <td>
 '<span>(s.o.’s) back</span>'</td>
 </tr>
@@ -5262,8 +4498,7 @@ The interrogative local noun ‘where?’ was POc _&ast;pai_. Micronesian reflex
 <td style="white-space: nowrap;">
 <i>&ast;pai</i>
 </td>
-<td>
-'<span>where?</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>where?</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -5271,213 +4506,171 @@ The interrogative local noun ‘where?’ was POc _&ast;pai_. Micronesian reflex
 <td style="white-space: nowrap;">
 <i>&ast;pai, &ast;i pai</i>
 </td>
-<td>
-[(N LOC) ] '<span>where at?</span>'</td>
+<td>[(N LOC) ] '<span>where at?</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/bebeli">Bebeli</a></td><td><i>ehae</i></td>
-<td>
-'<span>where?</span>'</td>
+<td>NNG</td><td><a href="../languages/bebeli">Bebeli</a></td><td style="white-space: nowrap;"><i>ehae</i></td>
+<td>'<span>where?</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/numbami">Numbami</a></td><td><i>ai(a)</i></td>
-<td>
-'<span>where?</span>'</td>
+<td>NNG</td><td><a href="../languages/numbami">Numbami</a></td><td style="white-space: nowrap;"><i>ai(a)</i></td>
+<td>'<span>where?</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/bali">Bali</a></td><td><i>ve(ni)</i></td>
-<td>
-'<span>where?</span>'</td>
+<td>MM</td><td><a href="../languages/bali">Bali</a></td><td style="white-space: nowrap;"><i>ve(ni)</i></td>
+<td>'<span>where?</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/bola">Bola</a></td><td><i>vai</i></td>
-<td>
-'<span>where?</span>'</td>
+<td>MM</td><td><a href="../languages/bola">Bola</a></td><td style="white-space: nowrap;"><i>vai</i></td>
+<td>'<span>where?</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/meramera">Meramera</a></td><td><i>(i)va</i></td>
-<td>
-'<span>where?</span>'</td>
+<td>MM</td><td><a href="../languages/meramera">Meramera</a></td><td style="white-space: nowrap;"><i>(i)va</i></td>
+<td>'<span>where?</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td><i>-ve</i></td>
-<td>
-'<span>where?</span>'</td>
+<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td style="white-space: nowrap;"><i>-ve</i></td>
+<td>'<span>where?</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td><i>ve</i></td>
-<td>
-'<span>where?</span>'</td>
+<td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td style="white-space: nowrap;"><i>ve</i></td>
+<td>'<span>where?</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/karaeast">Kara (East)</a></td><td><i>fa</i></td>
-<td>
-'<span>where?</span>'</td>
+<td>MM</td><td><a href="../languages/karaeast">Kara (East)</a></td><td style="white-space: nowrap;"><i>fa</i></td>
+<td>'<span>where?</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/nalik">Nalik</a></td><td><i>fa</i></td>
-<td>
-'<span>where?</span>'</td>
+<td>MM</td><td><a href="../languages/nalik">Nalik</a></td><td style="white-space: nowrap;"><i>fa</i></td>
+<td>'<span>where?</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tabar">Tabar</a></td><td><i>ve</i></td>
-<td>
-'<span>where?</span>'</td>
+<td>MM</td><td><a href="../languages/tabar">Tabar</a></td><td style="white-space: nowrap;"><i>ve</i></td>
+<td>'<span>where?</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/lihir">Lihir</a></td><td><i>he</i></td>
-<td>
-'<span>where?</span>'</td>
+<td>MM</td><td><a href="../languages/lihir">Lihir</a></td><td style="white-space: nowrap;"><i>he</i></td>
+<td>'<span>where?</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/sursurunga">Sursurunga</a></td><td><i>ai, ai(ə)</i></td>
-<td>
-'<span>where?</span>'</td>
+<td>MM</td><td><a href="../languages/sursurunga">Sursurunga</a></td><td style="white-space: nowrap;"><i>ai, ai(ə)</i></td>
+<td>'<span>where?</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/patpatar">Patpatar</a></td><td><i>he</i></td>
-<td>
-'<span>where?</span>'</td>
+<td>MM</td><td><a href="../languages/patpatar">Patpatar</a></td><td style="white-space: nowrap;"><i>he</i></td>
+<td>'<span>where?</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/minigir">Minigir</a></td><td><i>va</i></td>
-<td>
-'<span>where?</span>'</td>
+<td>MM</td><td><a href="../languages/minigir">Minigir</a></td><td style="white-space: nowrap;"><i>va</i></td>
+<td>'<span>where?</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td><i>ve</i></td>
-<td>
-'<span>where?</span>'</td>
+<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td style="white-space: nowrap;"><i>ve</i></td>
+<td>'<span>where?</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td><i>(ə)wai</i></td>
-<td>
-'<span>where?</span>'</td>
+<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td style="white-space: nowrap;"><i>(ə)wai</i></td>
+<td>'<span>where?</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/teop">Teop</a></td><td><i>(ha)ve</i></td>
-<td>
-'<span>where?</span>'</td>
+<td>MM</td><td><a href="../languages/teop">Teop</a></td><td style="white-space: nowrap;"><i>(ha)ve</i></td>
+<td>'<span>where?</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/banoni">Banoni</a></td><td><i>vai</i></td>
-<td>
-'<span>where?</span>'</td>
+<td>MM</td><td><a href="../languages/banoni">Banoni</a></td><td style="white-space: nowrap;"><i>vai</i></td>
+<td>'<span>where?</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/uruava">Uruava</a></td><td><i>vei(a)</i></td>
-<td>
-'<span>where?</span>'</td>
+<td>MM</td><td><a href="../languages/uruava">Uruava</a></td><td style="white-space: nowrap;"><i>vei(a)</i></td>
+<td>'<span>where?</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/lungga">Lungga</a></td><td><i>pai</i></td>
-<td>
-'<span>where?</span>'</td>
+<td>MM</td><td><a href="../languages/lungga">Lungga</a></td><td style="white-space: nowrap;"><i>pai</i></td>
+<td>'<span>where?</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td><i>(pa)vei</i></td>
-<td>
-'<span>where?</span>'</td>
+<td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td style="white-space: nowrap;"><i>(pa)vei</i></td>
+<td>'<span>where?</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/kia">Kia</a></td><td><i>hae</i></td>
-<td>
-'<span>where?</span>'</td>
+<td>MM</td><td><a href="../languages/kia">Kia</a></td><td style="white-space: nowrap;"><i>hae</i></td>
+<td>'<span>where?</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>(i)vei</i></td>
-<td>
-'<span>where?</span>'</td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td style="white-space: nowrap;"><i>(i)vei</i></td>
+<td>'<span>where?</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/longgu">Longgu</a></td><td><i>evei</i></td>
-<td>
-'<span>where?</span>'</td>
+<td>SES</td><td><a href="../languages/longgu">Longgu</a></td><td style="white-space: nowrap;"><i>evei</i></td>
+<td>'<span>where?</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>(i)fai</i></td>
-<td>
-'<span>where?</span>'</td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td style="white-space: nowrap;"><i>(i)fai</i></td>
+<td>'<span>where?</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>(i)fai</i></td>
-<td>
-'<span>where?</span>'</td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td style="white-space: nowrap;"><i>(i)fai</i></td>
+<td>'<span>where?</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>(naʔi)hei</i></td>
-<td>
-'<span>where?</span>'</td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td style="white-space: nowrap;"><i>(naʔi)hei</i></td>
+<td>'<span>where?</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/bauro">Bauro</a></td><td><i>(i)hai</i></td>
-<td>
-'<span>where?</span>'</td>
+<td>SES</td><td><a href="../languages/bauro">Bauro</a></td><td style="white-space: nowrap;"><i>(i)hai</i></td>
+<td>'<span>where?</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td><i>(be)he</i></td>
-<td>
-'<span>where?</span>'</td>
+<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td style="white-space: nowrap;"><i>(be)he</i></td>
+<td>'<span>where?</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/uripiv">Uripiv</a></td><td><i>(ni)be</i></td>
-<td>
-'<span>where?</span>'</td>
+<td>NCV</td><td><a href="../languages/uripiv">Uripiv</a></td><td style="white-space: nowrap;"><i>(ni)be</i></td>
+<td>'<span>where?</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/lonwolwol">Lonwolwol</a></td><td><i>be</i></td>
-<td>
-'<span>where?</span>'</td>
+<td>NCV</td><td><a href="../languages/lonwolwol">Lonwolwol</a></td><td style="white-space: nowrap;"><i>be</i></td>
+<td>'<span>where?</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td><i>(e)vē</i></td>
-<td>
-'<span>where?</span>'</td>
+<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td style="white-space: nowrap;"><i>(e)vē</i></td>
+<td>'<span>where?</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/lewo">Lewo</a></td><td><i>pe</i></td>
-<td>
-'<span>where?</span>'</td>
+<td>NCV</td><td><a href="../languages/lewo">Lewo</a></td><td style="white-space: nowrap;"><i>pe</i></td>
+<td>'<span>where?</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/namakir">Namakir</a></td><td><i>(-o)be-</i></td>
-<td>
-'<span>where?</span>'</td>
+<td>NCV</td><td><a href="../languages/namakir">Namakir</a></td><td style="white-space: nowrap;"><i>(-o)be-</i></td>
+<td>'<span>where?</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td><i>(i)fa</i></td>
-<td>
-'<span>where? how? what?</span>'</td>
+<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td style="white-space: nowrap;"><i>(i)fa</i></td>
+<td>'<span>where? how? what?</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td><i>(yi)fa</i></td>
-<td>
-'<span>where? what? which?</span>'</td>
+<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td style="white-space: nowrap;"><i>(yi)fa</i></td>
+<td>'<span>where? what? which?</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/satawalese">Satawalese</a></td><td><i>(i)fa</i></td>
-<td>
-'<span>where (is it)? which?</span>'</td>
+<td>Mic</td><td><a href="../languages/satawalese">Satawalese</a></td><td style="white-space: nowrap;"><i>(i)fa</i></td>
+<td>'<span>where (is it)? which?</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/carolinian">Carolinian</a></td><td><i>(i)fa</i></td>
-<td>
-'<span>where?</span>'</td>
+<td>Mic</td><td><a href="../languages/carolinian">Carolinian</a></td><td style="white-space: nowrap;"><i>(i)fa</i></td>
+<td>'<span>where?</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>(i)fā</i></td>
-<td>
-'<span>where? which? what?</span>'</td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td style="white-space: nowrap;"><i>(i)fā</i></td>
+<td>'<span>where? which? what?</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>vei</i></td>
-<td>
-'<span>where?</span>'</td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td style="white-space: nowrap;"><i>vei</i></td>
+<td>'<span>where?</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>vei</i></td>
-<td>
-'<span>where?</span>'</td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td style="white-space: nowrap;"><i>vei</i></td>
+<td>'<span>where?</span>'</td>
 </tr>
 </table>
 
@@ -6053,8 +5246,7 @@ Recent work by [François](../sources/Francois2003) ([2003](../sources/Francois2
 <td style="white-space: nowrap;">
 <i>&ast;habaRat</i>
 </td>
-<td>
-'<span>west monsoon</span>' (<a href="../sources/Blust1995">Blust1995</a>; <a href="../sources/Dempwolff1938">Dempwolff1938</a>)
+<td>'<span>west monsoon</span>' (<a href="../sources/Blust1995">Blust1995</a>; <a href="../sources/Dempwolff1938">Dempwolff1938</a>)
 </td>
 </tr>
 <tr>
@@ -6062,53 +5254,43 @@ Recent work by [François](../sources/Francois2003) ([2003](../sources/Francois2
 <td style="white-space: nowrap;">
 <i>&ast;apaRat</i>
 </td>
-<td>
-'<span>northwest wind; wet season when northwesterlies blow and sea is rough</span>'</td>
+<td>'<span>northwest wind; wet season when northwesterlies blow and sea is rough</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/wuvulu">Wuvulu</a></td><td><i>afā</i></td>
-<td>
-'<span>northwest wind</span>'</td>
+<td>Adm</td><td><a href="../languages/wuvulu">Wuvulu</a></td><td style="white-space: nowrap;"><i>afā</i></td>
+<td>'<span>northwest wind</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/drehet">Drehet</a></td><td><i>yaha</i></td>
-<td>
-'<span>stormy season, generally from November to March; strong wind and rough sea from the northwest</span>'</td>
+<td>Adm</td><td><a href="../languages/drehet">Drehet</a></td><td style="white-space: nowrap;"><i>yaha</i></td>
+<td>'<span>stormy season, generally from November to March; strong wind and rough sea from the northwest</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/gitua">Gitua</a></td><td><i>yavara</i></td>
-<td>
-'<span>north wind</span>'</td>
+<td>NNG</td><td><a href="../languages/gitua">Gitua</a></td><td style="white-space: nowrap;"><i>yavara</i></td>
+<td>'<span>north wind</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/tami">Tami</a></td><td><i>yawal</i></td>
-<td>
-'<span>northwest wind</span>'</td>
+<td>NNG</td><td><a href="../languages/tami">Tami</a></td><td style="white-space: nowrap;"><i>yawal</i></td>
+<td>'<span>northwest wind</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/kairiru">Kairiru</a></td><td><i>yavar</i></td>
-<td>
-'<span>northwest wind, makes sea rough</span>'</td>
+<td>NNG</td><td><a href="../languages/kairiru">Kairiru</a></td><td style="white-space: nowrap;"><i>yavar</i></td>
+<td>'<span>northwest wind, makes sea rough</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/muyuw">Muyuw</a></td><td><i>yavat</i></td>
-<td>
-'<span>west, west wind</span>'</td>
+<td>PT</td><td><a href="../languages/muyuw">Muyuw</a></td><td style="white-space: nowrap;"><i>yavat</i></td>
+<td>'<span>west, west wind</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/iduna">Iduna</a></td><td><i>yavalata</i></td>
-<td>
-'<span>rains with wind from the northwest in February and March</span>'</td>
+<td>PT</td><td><a href="../languages/iduna">Iduna</a></td><td style="white-space: nowrap;"><i>yavalata</i></td>
+<td>'<span>rains with wind from the northwest in February and March</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>lahara</i></td>
-<td>
-'<span>northwest wind, season of northwest wind</span>'</td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td style="white-space: nowrap;"><i>lahara</i></td>
+<td>'<span>northwest wind, season of northwest wind</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/bali">Bali</a></td><td><i>vurata</i></td>
-<td>
-'<span>northwest wind</span>'</td>
+<td>MM</td><td><a href="../languages/bali">Bali</a></td><td style="white-space: nowrap;"><i>vurata</i></td>
+<td>'<span>northwest wind</span>'</td>
 </tr>
 </table>
 
@@ -6120,83 +5302,67 @@ Recent work by [François](../sources/Francois2003) ([2003](../sources/Francois2
 <td style="white-space: nowrap;">
 <i>&ast;raki</i>
 </td>
-<td>
-'<span>southeast trades</span>' (<span>probably also ‘dry season when the southeast trades blow’</span>)</td>
+<td>'<span>southeast trades</span>' (<span>probably also ‘dry season when the southeast trades blow’</span>)</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/lou">Lou</a></td><td><i>ra</i></td>
-<td>
-'<span>northeast, northeast wind</span>'</td>
+<td>Adm</td><td><a href="../languages/lou">Lou</a></td><td style="white-space: nowrap;"><i>ra</i></td>
+<td>'<span>northeast, northeast wind</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/titan">Titan</a></td><td><i>ⁿray</i></td>
-<td>
-'<span>wind from the mainland, mountain breeze, blows at night</span>'</td>
+<td>Adm</td><td><a href="../languages/titan">Titan</a></td><td style="white-space: nowrap;"><i>ⁿray</i></td>
+<td>'<span>wind from the mainland, mountain breeze, blows at night</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/kove">Kove</a></td><td><i>hai</i></td>
-<td>
-'<span>southeast trade, year</span>'</td>
+<td>NNG</td><td><a href="../languages/kove">Kove</a></td><td style="white-space: nowrap;"><i>hai</i></td>
+<td>'<span>southeast trade, year</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/gitua">Gitua</a></td><td><i>rak</i></td>
-<td>
-'<span>southeast trade</span>'</td>
+<td>NNG</td><td><a href="../languages/gitua">Gitua</a></td><td style="white-space: nowrap;"><i>rak</i></td>
+<td>'<span>southeast trade</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/tami">Tami</a></td><td><i>lai</i></td>
-<td>
-'<span>southeast trade</span>'</td>
+<td>NNG</td><td><a href="../languages/tami">Tami</a></td><td style="white-space: nowrap;"><i>lai</i></td>
+<td>'<span>southeast trade</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/maleu">Maleu</a></td><td><i>na-lai</i></td>
-<td>
-'<span>southeast trade</span>'</td>
+<td>NNG</td><td><a href="../languages/maleu">Maleu</a></td><td style="white-space: nowrap;"><i>na-lai</i></td>
+<td>'<span>southeast trade</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/ali">Ali</a></td><td><i>rai</i></td>
-<td>
-'<span>southeast trade</span>'</td>
+<td>NNG</td><td><a href="../languages/ali">Ali</a></td><td style="white-space: nowrap;"><i>rai</i></td>
+<td>'<span>southeast trade</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/tumleo">Tumleo</a></td><td><i>riei</i></td>
-<td>
-'<span>southeast trade</span>'</td>
+<td>NNG</td><td><a href="../languages/tumleo">Tumleo</a></td><td style="white-space: nowrap;"><i>riei</i></td>
+<td>'<span>southeast trade</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/vitu">Vitu</a></td><td><i>raɣi</i></td>
-<td>
-'<span>southeast trade</span>'</td>
+<td>MM</td><td><a href="../languages/vitu">Vitu</a></td><td style="white-space: nowrap;"><i>raɣi</i></td>
+<td>'<span>southeast trade</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/bulu">Bulu</a></td><td><i>laɣi</i></td>
-<td>
-'<span>southeast trade</span>'</td>
+<td>MM</td><td><a href="../languages/bulu">Bulu</a></td><td style="white-space: nowrap;"><i>laɣi</i></td>
+<td>'<span>southeast trade</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/lewo">Lewo</a></td><td><i>lagi(pesoi)</i></td>
-<td>
-'<span>east wind</span>'</td>
+<td>NCV</td><td><a href="../languages/lewo">Lewo</a></td><td style="white-space: nowrap;"><i>lagi(pesoi)</i></td>
+<td>'<span>east wind</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>ṛᵚak</i></td>
-<td>
-'<span>south, summer</span>'</td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td style="white-space: nowrap;"><i>ṛᵚak</i></td>
+<td>'<span>south, summer</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/eastuvean">East Uvean</a></td><td><i>laki</i></td>
-<td>
-'<span>southeast or southwest wind</span>'</td>
+<td>Pn</td><td><a href="../languages/eastuvean">East Uvean</a></td><td style="white-space: nowrap;"><i>laki</i></td>
+<td>'<span>southeast or southwest wind</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>laki</i></td>
-<td>
-'<span>west</span>'</td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td style="white-space: nowrap;"><i>laki</i></td>
+<td>'<span>west</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>laʔi</i></td>
-<td>
-'<span>southwest veering to northwest</span>'</td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>laʔi</i></td>
+<td>'<span>southwest veering to northwest</span>'</td>
 </tr>
 </table>
 
@@ -6236,188 +5402,151 @@ The most widely reflected of these is _&ast;sipo_, the generic verb of downward 
 <td style="white-space: nowrap;">
 <i>&ast;sipo</i>
 </td>
-<td>
-'<span>go down, downwards</span>'</td>
+<td>'<span>go down, downwards</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td><i>sio</i></td>
-<td>
-'<span>go downward</span>'</td>
+<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td style="white-space: nowrap;"><i>sio</i></td>
+<td>'<span>go downward</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td><i>(la-)sio</i></td>
-<td>
-'<span>go down (to)</span>'</td>
+<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td style="white-space: nowrap;"><i>(la-)sio</i></td>
+<td>'<span>go down (to)</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td><i>(la-)sio(-kasu)</i></td>
-<td>
-'<span>come down (from)</span>' (<span><em>kasu</em> ‘go from’</span>)</td>
+<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td style="white-space: nowrap;"><i>(la-)sio(-kasu)</i></td>
+<td>'<span>come down (from)</span>' (<span><em>kasu</em> ‘go from’</span>)</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/kove">Kove</a></td><td><i>(i)ðio</i></td>
-<td>
-'<span>go downward</span>'</td>
+<td>NNG</td><td><a href="../languages/kove">Kove</a></td><td style="white-space: nowrap;"><i>(i)ðio</i></td>
+<td>'<span>go downward</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/bariai">Bariai</a></td><td><i>(ga)dio</i></td>
-<td>
-[DIR] '<span>downward</span>'</td>
+<td>NNG</td><td><a href="../languages/bariai">Bariai</a></td><td style="white-space: nowrap;"><i>(ga)dio</i></td>
+<td>[DIR] '<span>downward</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/gitua">Gitua</a></td><td><i>zio(vave)</i></td>
-<td>
-[DIR] '<span>downward</span>'</td>
+<td>NNG</td><td><a href="../languages/gitua">Gitua</a></td><td style="white-space: nowrap;"><i>zio(vave)</i></td>
+<td>[DIR] '<span>downward</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/tuam">Tuam</a></td><td><i>(i)zi(la)</i></td>
-<td>
-'<span>sink</span>'</td>
+<td>NNG</td><td><a href="../languages/tuam">Tuam</a></td><td style="white-space: nowrap;"><i>(i)zi(la)</i></td>
+<td>'<span>sink</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/yabem">Yabem</a></td><td><i>siʔ</i></td>
-<td>
-[DIR] '<span>downward</span>'</td>
+<td>NNG</td><td><a href="../languages/yabem">Yabem</a></td><td style="white-space: nowrap;"><i>siʔ</i></td>
+<td>[DIR] '<span>downward</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/bing">Bing</a></td><td><i>siy</i></td>
-<td>
-'<span>come</span>'</td>
+<td>NNG</td><td><a href="../languages/bing">Bing</a></td><td style="white-space: nowrap;"><i>siy</i></td>
+<td>'<span>come</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td><i>-s(-la)</i></td>
-<td>
-'<span>go seaward, move downhill; land, arrive (of a boat)</span>'</td>
+<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td style="white-space: nowrap;"><i>-s(-la)</i></td>
+<td>'<span>go seaward, move downhill; land, arrive (of a boat)</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td><i>-ria</i></td>
-<td>
-[DIR] '<span>downward; to one’s left when facing sea</span>'</td>
+<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td style="white-space: nowrap;"><i>-ria</i></td>
+<td>[DIR] '<span>downward; to one’s left when facing sea</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/kaiep">Kaiep</a></td><td><i>(a)si</i></td>
-<td>
-[DIR] '<span>downward</span>'</td>
+<td>NNG</td><td><a href="../languages/kaiep">Kaiep</a></td><td style="white-space: nowrap;"><i>(a)si</i></td>
+<td>[DIR] '<span>downward</span>'</td>
 </tr>
 <tr>
-<td>SJ</td><td><a href="../languages/sobei">Sobei</a></td><td><i>-si</i></td>
-<td>
-[DIR] '<span>downward</span>'</td>
+<td>SJ</td><td><a href="../languages/sobei">Sobei</a></td><td style="white-space: nowrap;"><i>-si</i></td>
+<td>[DIR] '<span>downward</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/tawala">Tawala</a></td><td><i>-hi</i></td>
-<td>
-[DIR] '<span>towards addressee</span>'</td>
+<td>PT</td><td><a href="../languages/tawala">Tawala</a></td><td style="white-space: nowrap;"><i>-hi</i></td>
+<td>[DIR] '<span>towards addressee</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/sinaugoro">Sinaugoro</a></td><td><i>(va-)riɣo</i></td>
-<td>
-'<span>go down</span>' (<span><em>-riɣo</em> occurs as the second element of verbal compounds</span>)</td>
+<td>PT</td><td><a href="../languages/sinaugoro">Sinaugoro</a></td><td style="white-space: nowrap;"><i>(va-)riɣo</i></td>
+<td>'<span>go down</span>' (<span><em>-riɣo</em> occurs as the second element of verbal compounds</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/kia">Kia</a></td><td><i>hi(nae)</i></td>
-<td>
-'<span>go down</span>'</td>
+<td>MM</td><td><a href="../languages/kia">Kia</a></td><td style="white-space: nowrap;"><i>hi(nae)</i></td>
+<td>'<span>go down</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/laghu">Laghu</a></td><td><i>hi(nae)</i></td>
-<td>
-'<span>go down</span>'</td>
+<td>MM</td><td><a href="../languages/laghu">Laghu</a></td><td style="white-space: nowrap;"><i>hi(nae)</i></td>
+<td>'<span>go down</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/lengo">Lengo</a></td><td><i>ðivo</i></td>
-<td>
-'<span>go down</span>'</td>
+<td>SES</td><td><a href="../languages/lengo">Lengo</a></td><td style="white-space: nowrap;"><i>ðivo</i></td>
+<td>'<span>go down</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/longgu">Longgu</a></td><td><i>sivo</i></td>
-<td>
-'<span>go down</span>'</td>
+<td>SES</td><td><a href="../languages/longgu">Longgu</a></td><td style="white-space: nowrap;"><i>sivo</i></td>
+<td>'<span>go down</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>sifo</i></td>
-<td>
-'<span>go down</span>'</td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td style="white-space: nowrap;"><i>sifo</i></td>
+<td>'<span>go down</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>siho</i></td>
-<td>
-[DIR] '<span>downward</span>'</td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>siho</i></td>
+<td>[DIR] '<span>downward</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/merei">Merei</a></td><td><i>sio</i></td>
-<td>
-'<span>move downward/seaward</span>'</td>
+<td>NCV</td><td><a href="../languages/merei">Merei</a></td><td style="white-space: nowrap;"><i>sio</i></td>
+<td>'<span>move downward/seaward</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/tamambo">Tamambo</a></td><td><i>jivo</i></td>
-<td>
-'<span>go down</span>'</td>
+<td>NCV</td><td><a href="../languages/tamambo">Tamambo</a></td><td style="white-space: nowrap;"><i>jivo</i></td>
+<td>'<span>go down</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/sye">Sye</a></td><td><i>-sep, -hep</i></td>
-<td>
-[DIR] '<span>downward</span>'</td>
+<td>SV</td><td><a href="../languages/sye">Sye</a></td><td style="white-space: nowrap;"><i>-sep, -hep</i></td>
+<td>[DIR] '<span>downward</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/sye">Sye</a></td><td><i>yep</i></td>
-<td>
-'<span>go down</span>'</td>
+<td>SV</td><td><a href="../languages/sye">Sye</a></td><td style="white-space: nowrap;"><i>yep</i></td>
+<td>'<span>go down</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td><a href="../languages/xaracuu">Xârâcùù</a></td><td><i>βē</i></td>
-<td>
-[DEM] '<span>coming down</span>'</td>
+<td>NCal</td><td><a href="../languages/xaracuu">Xârâcùù</a></td><td style="white-space: nowrap;"><i>βē</i></td>
+<td>[DEM] '<span>coming down</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kosraean">Kosraean</a></td><td><i>-yɛ</i></td>
-<td>
-[DIR] '<span>downward</span>'</td>
+<td>Mic</td><td><a href="../languages/kosraean">Kosraean</a></td><td style="white-space: nowrap;"><i>-yɛ</i></td>
+<td>[DIR] '<span>downward</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/mokilese">Mokilese</a></td><td><i>-ti</i></td>
-<td>
-[DIR] '<span>downward</span>'</td>
+<td>Mic</td><td><a href="../languages/mokilese">Mokilese</a></td><td style="white-space: nowrap;"><i>-ti</i></td>
+<td>[DIR] '<span>downward</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td><i>-tiw</i></td>
-<td>
-[DIR] '<span>downward, west</span>'</td>
+<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td style="white-space: nowrap;"><i>-tiw</i></td>
+<td>[DIR] '<span>downward, west</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>ðivo</i></td>
-<td>
-[DIR] '<span>downward</span>'</td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td style="white-space: nowrap;"><i>ðivo</i></td>
+<td>[DIR] '<span>downward</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>ðivo-ðivo</i></td>
-<td>
-'<span>wind sweeping down from hills</span>'</td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td style="white-space: nowrap;"><i>ðivo-ðivo</i></td>
+<td>'<span>wind sweeping down from hills</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/yasawa">Yasawa</a></td><td><i>ðivo</i></td>
-<td>
-[DIR] '<span>downward</span>'</td>
+<td>Fij</td><td><a href="../languages/yasawa">Yasawa</a></td><td style="white-space: nowrap;"><i>ðivo</i></td>
+<td>[DIR] '<span>downward</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>hifo</i></td>
-<td>
-[DIR] '<span>downward</span>'</td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td style="white-space: nowrap;"><i>hifo</i></td>
+<td>[DIR] '<span>downward</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>ifo</i></td>
-<td>
-[DIR] '<span>downward</span>'</td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>ifo</i></td>
+<td>[DIR] '<span>downward</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/pileni">Pileni</a></td><td><i>ifo</i></td>
-<td>
-[DIR] '<span>downward</span>'</td>
+<td>Pn</td><td><a href="../languages/pileni">Pileni</a></td><td style="white-space: nowrap;"><i>ifo</i></td>
+<td>[DIR] '<span>downward</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>iho</i></td>
-<td>
-[V, DIR] '<span>downward; seaward; northward, westward</span>'</td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td style="white-space: nowrap;"><i>iho</i></td>
+<td>[V, DIR] '<span>downward; seaward; northward, westward</span>'</td>
 </tr>
 </table>
 
@@ -6432,8 +5561,7 @@ The most widely reflected of these is _&ast;sipo_, the generic verb of downward 
 <td style="white-space: nowrap;">
 <i>&ast;sobu</i>
 </td>
-<td>
-'<span>go downward</span>' (<a href="../sources/Blust1978a">Blust1978a</a>)
+<td>'<span>go downward</span>' (<a href="../sources/Blust1978a">Blust1978a</a>)
 </td>
 </tr>
 <tr>
@@ -6441,53 +5569,43 @@ The most widely reflected of these is _&ast;sipo_, the generic verb of downward 
 <td style="white-space: nowrap;">
 <i>&ast;sobu</i>
 </td>
-<td>
-'<span>go downward, dive down</span>'</td>
+<td>'<span>go downward, dive down</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/gumawana">Gumawana</a></td><td><i>-sou</i></td>
-<td>
-'<span>move down</span>'</td>
+<td>PT</td><td><a href="../languages/gumawana">Gumawana</a></td><td style="white-space: nowrap;"><i>-sou</i></td>
+<td>'<span>move down</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/tawala">Tawala</a></td><td><i>-hopu</i></td>
-<td>
-'<span>go down</span>'</td>
+<td>PT</td><td><a href="../languages/tawala">Tawala</a></td><td style="white-space: nowrap;"><i>-hopu</i></td>
+<td>'<span>go down</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/sariba">Sariba</a></td><td><i>dobi</i></td>
-<td>
-'<span>go down</span>'</td>
+<td>PT</td><td><a href="../languages/sariba">Sariba</a></td><td style="white-space: nowrap;"><i>dobi</i></td>
+<td>'<span>go down</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>sovu-sovu</i></td>
-<td>
-'<span>splash about in sea</span>'</td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td style="white-space: nowrap;"><i>sovu-sovu</i></td>
+<td>'<span>splash about in sea</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>sovu</i></td>
-<td>
-'<span>go down</span>'</td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td style="white-space: nowrap;"><i>sovu</i></td>
+<td>'<span>go down</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>sobu</i></td>
-<td>
-'<span>go down</span>'; [DIR] '<span>downward</span>'</td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td style="white-space: nowrap;"><i>sobu</i></td>
+<td>'<span>go down</span>'; [DIR] '<span>downward</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/boumaa">Boumā</a></td><td><i>sobu</i></td>
-<td>
-'<span>go down</span>'; [DIR] '<span>downward</span>'</td>
+<td>Fij</td><td><a href="../languages/boumaa">Boumā</a></td><td style="white-space: nowrap;"><i>sobu</i></td>
+<td>'<span>go down</span>'; [DIR] '<span>downward</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td><i>jopu</i></td>
-<td>
-'<span>dive, swim under water</span>'</td>
+<td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td style="white-space: nowrap;"><i>jopu</i></td>
+<td>'<span>dive, swim under water</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/rarotongan">Rarotongan</a></td><td><i>ʔopu</i></td>
-<td>
-'<span>(boat or stone) sink, (sun) set, fade away</span>'</td>
+<td>Pn</td><td><a href="../languages/rarotongan">Rarotongan</a></td><td style="white-space: nowrap;"><i>ʔopu</i></td>
+<td>'<span>(boat or stone) sink, (sun) set, fade away</span>'</td>
 </tr>
 </table>
 
@@ -6499,8 +5617,7 @@ The most widely reflected of these is _&ast;sipo_, the generic verb of downward 
 <td style="white-space: nowrap;">
 <i>&ast;surup</i>
 </td>
-<td>
-'<span>enter, penetrate</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>enter, penetrate</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -6508,53 +5625,43 @@ The most widely reflected of these is _&ast;sipo_, the generic verb of downward 
 <td style="white-space: nowrap;">
 <i>&ast;surup</i>
 </td>
-<td>
-'<span>enter, penetrate; go down (?)</span>'</td>
+<td>'<span>enter, penetrate; go down (?)</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/barok">Barok</a></td><td><i>su</i></td>
-<td>
-'<span>downwards</span>'</td>
+<td>MM</td><td><a href="../languages/barok">Barok</a></td><td style="white-space: nowrap;"><i>su</i></td>
+<td>'<span>downwards</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/konomala">Konomala</a></td><td><i>sup</i></td>
-<td>
-'<span>(sun) set</span>'</td>
+<td>MM</td><td><a href="../languages/konomala">Konomala</a></td><td style="white-space: nowrap;"><i>sup</i></td>
+<td>'<span>(sun) set</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td><i>horu</i></td>
-<td>
-'<span>go down</span>' (<span><em>-o-</em> for expected <em>*-u-</em></span>)</td>
+<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td style="white-space: nowrap;"><i>horu</i></td>
+<td>'<span>go down</span>' (<span><em>-o-</em> for expected <em>&ast;-u-</em></span>)</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>horu</i></td>
-<td>
-'<span>go down</span>' (<span><em>-o-</em> for expected <em>*-u-</em></span>)</td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td style="white-space: nowrap;"><i>horu</i></td>
+<td>'<span>go down</span>' (<span><em>-o-</em> for expected <em>&ast;-u-</em></span>)</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>ðuru</i></td>
-<td>
-'<span>enter</span>'</td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td style="white-space: nowrap;"><i>ðuru</i></td>
+<td>'<span>enter</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td><i>suru</i></td>
-<td>
-'<span>enter</span>'</td>
+<td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td style="white-space: nowrap;"><i>suru</i></td>
+<td>'<span>enter</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>hū</i></td>
-<td>
-'<span>enter</span>'</td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td style="white-space: nowrap;"><i>hū</i></td>
+<td>'<span>enter</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>ulu</i></td>
-<td>
-'<span>enter</span>'</td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>ulu</i></td>
+<td>'<span>enter</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/marquesan">Marquesan</a></td><td><i>uʔu</i></td>
-<td>
-'<span>enter</span>'</td>
+<td>Pn</td><td><a href="../languages/marquesan">Marquesan</a></td><td style="white-space: nowrap;"><i>uʔu</i></td>
+<td>'<span>enter</span>'</td>
 </tr>
 </table>
 
@@ -6568,123 +5675,99 @@ The forms listed below also seem to constitute a cognate set, but, as the questi
 <td style="white-space: nowrap;">
 <i>&ast;[s,j]u[(a,u)]</i>
 </td>
-<td>
-'<span>go down vertically, fall</span>'[^20]</td>
+<td>'<span>go down vertically, fall</span>'[^20]</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/sio">Sio</a></td><td><i>due</i></td>
-<td>
-'<span>downwards</span>'</td>
+<td>NNG</td><td><a href="../languages/sio">Sio</a></td><td style="white-space: nowrap;"><i>due</i></td>
+<td>'<span>downwards</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/mangap">Mangap</a></td><td><i>-su</i></td>
-<td>
-'<span>go down</span>'</td>
+<td>NNG</td><td><a href="../languages/mangap">Mangap</a></td><td style="white-space: nowrap;"><i>-su</i></td>
+<td>'<span>go down</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/mangap">Mangap</a></td><td><i>-su(-la)</i></td>
-<td>
-'<span>go down away from speaker</span>'</td>
+<td>NNG</td><td><a href="../languages/mangap">Mangap</a></td><td style="white-space: nowrap;"><i>-su(-la)</i></td>
+<td>'<span>go down away from speaker</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/tami">Tami</a></td><td><i>suʔ</i></td>
-<td>
-'<span>downwards</span>'</td>
+<td>NNG</td><td><a href="../languages/tami">Tami</a></td><td style="white-space: nowrap;"><i>suʔ</i></td>
+<td>'<span>downwards</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/lukep">Lukep</a></td><td><i>du</i></td>
-<td>
-'<span>go down</span>'</td>
+<td>NNG</td><td><a href="../languages/lukep">Lukep</a></td><td style="white-space: nowrap;"><i>du</i></td>
+<td>'<span>go down</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/malasanga">Malasanga</a></td><td><i>(i)rua</i></td>
-<td>
-'<span>(sun) set</span>'</td>
+<td>NNG</td><td><a href="../languages/malasanga">Malasanga</a></td><td style="white-space: nowrap;"><i>(i)rua</i></td>
+<td>'<span>(sun) set</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/roinji">Roinji</a></td><td><i>ru</i></td>
-<td>
-'<span>(sun) set</span>'</td>
+<td>NNG</td><td><a href="../languages/roinji">Roinji</a></td><td style="white-space: nowrap;"><i>ru</i></td>
+<td>'<span>(sun) set</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/mindiri">Mindiri</a></td><td><i>du(lau)</i></td>
-<td>
-'<span>(sun) set</span>'</td>
+<td>NNG</td><td><a href="../languages/mindiri">Mindiri</a></td><td style="white-space: nowrap;"><i>du(lau)</i></td>
+<td>'<span>(sun) set</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/gedaged">Gedaged</a></td><td><i>-du</i></td>
-<td>
-'<span>go down</span>'</td>
+<td>NNG</td><td><a href="../languages/gedaged">Gedaged</a></td><td style="white-space: nowrap;"><i>-du</i></td>
+<td>'<span>go down</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/megiar">Megiar</a></td><td><i>-du</i></td>
-<td>
-'<span>go down</span>'</td>
+<td>NNG</td><td><a href="../languages/megiar">Megiar</a></td><td style="white-space: nowrap;"><i>-du</i></td>
+<td>'<span>go down</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td><i>(i)du(man)</i></td>
-<td>
-'<span>downwards</span>'</td>
+<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td style="white-space: nowrap;"><i>(i)du(man)</i></td>
+<td>'<span>downwards</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td><i>-du</i></td>
-<td>
-'<span>go down, fall</span>'</td>
+<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td style="white-space: nowrap;"><i>-du</i></td>
+<td>'<span>go down, fall</span>'</td>
 </tr>
 <tr>
-<td>SJ</td><td><a href="../languages/sobei">Sobei</a></td><td><i>-so</i></td>
-<td>
-[DIR] '<span>downward</span>'</td>
+<td>SJ</td><td><a href="../languages/sobei">Sobei</a></td><td style="white-space: nowrap;"><i>-so</i></td>
+<td>[DIR] '<span>downward</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td><i>(i)sua</i></td>
-<td>
-'<span>go down</span>'</td>
+<td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td style="white-space: nowrap;"><i>(i)sua</i></td>
+<td>'<span>go down</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/notsi">Notsi</a></td><td><i>(bi-)dū</i></td>
-<td>
-[adverb] '<span>from below</span>'[^21]</td>
+<td>MM</td><td><a href="../languages/notsi">Notsi</a></td><td style="white-space: nowrap;"><i>(bi-)dū</i></td>
+<td>[adverb] '<span>from below</span>'[^21]</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/notsi">Notsi</a></td><td><i>(ta-)dū</i></td>
-<td>
-[adverb] '<span>from the west</span>'</td>
+<td>MM</td><td><a href="../languages/notsi">Notsi</a></td><td style="white-space: nowrap;"><i>(ta-)dū</i></td>
+<td>[adverb] '<span>from the west</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/longgu">Longgu</a></td><td><i>su</i></td>
-<td>
-'<span>dive, (sun) set</span>'</td>
+<td>SES</td><td><a href="../languages/longgu">Longgu</a></td><td style="white-space: nowrap;"><i>su</i></td>
+<td>'<span>dive, (sun) set</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>sū</i></td>
-<td>
-'<span>dive, (sun) set</span>'</td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td style="white-space: nowrap;"><i>sū</i></td>
+<td>'<span>dive, (sun) set</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>sū</i></td>
-<td>
-'<span>dive, (sun) set</span>'</td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td style="white-space: nowrap;"><i>sū</i></td>
+<td>'<span>dive, (sun) set</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td><a href="../languages/nelemwa">Nêlêmwâ</a></td><td><i>du</i></td>
-<td>
-[DIR] '<span>downward</span>'</td>
+<td>NCal</td><td><a href="../languages/nelemwa">Nêlêmwâ</a></td><td style="white-space: nowrap;"><i>du</i></td>
+<td>[DIR] '<span>downward</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td><a href="../languages/nelemwa">Nêlêmwâ</a></td><td><i>tu</i></td>
-<td>
-'<span>go downward</span>'</td>
+<td>NCal</td><td><a href="../languages/nelemwa">Nêlêmwâ</a></td><td style="white-space: nowrap;"><i>tu</i></td>
+<td>'<span>go downward</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td><a href="../languages/nyelayu">Nyelâyu</a></td><td><i>-du</i></td>
-<td>
-[DIR] '<span>downward</span>'</td>
+<td>NCal</td><td><a href="../languages/nyelayu">Nyelâyu</a></td><td style="white-space: nowrap;"><i>-du</i></td>
+<td>[DIR] '<span>downward</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td><a href="../languages/nyelayu">Nyelâyu</a></td><td><i>tu</i></td>
-<td>
-'<span>go downward</span>'</td>
+<td>NCal</td><td><a href="../languages/nyelayu">Nyelâyu</a></td><td style="white-space: nowrap;"><i>tu</i></td>
+<td>'<span>go downward</span>'</td>
 </tr>
 </table>
 
@@ -6701,33 +5784,27 @@ POc _&ast;wau_ ‘go seawards’ and _&ast;bala_ ‘move downward (?)’ are als
 <td style="white-space: nowrap;">
 <i>&ast;wau</i>
 </td>
-<td>
-'<span>go seawards</span>'</td>
+<td>'<span>go seawards</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/bam">Bam</a></td><td><i>wau(la)</i></td>
-<td>
-[DIR] '<span>downward</span>'</td>
+<td>NNG</td><td><a href="../languages/bam">Bam</a></td><td style="white-space: nowrap;"><i>wau(la)</i></td>
+<td>[DIR] '<span>downward</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/sissano">Sissano</a></td><td><i>eu</i></td>
-<td>
-[DIR] '<span>downward</span>'</td>
+<td>NNG</td><td><a href="../languages/sissano">Sissano</a></td><td style="white-space: nowrap;"><i>eu</i></td>
+<td>[DIR] '<span>downward</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/gumawana">Gumawana</a></td><td><i>-iwo</i></td>
-<td>
-'<span>move seaward</span>'</td>
+<td>PT</td><td><a href="../languages/gumawana">Gumawana</a></td><td style="white-space: nowrap;"><i>-iwo</i></td>
+<td>'<span>move seaward</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td><i>-wow</i></td>
-<td>
-[DIR] '<span>seaward</span>' (<span>contrast <em>-waw</em> ‘towards addressee’</span>)</td>
+<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td style="white-space: nowrap;"><i>-wow</i></td>
+<td>[DIR] '<span>seaward</span>' (<span>contrast <em>-waw</em> ‘towards addressee’</span>)</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>waɨ</i></td>
-<td>
-[DIR] '<span>seaward</span>'</td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td style="white-space: nowrap;"><i>waɨ</i></td>
+<td>[DIR] '<span>seaward</span>'</td>
 </tr>
 </table>
 
@@ -6739,28 +5816,23 @@ POc _&ast;wau_ ‘go seawards’ and _&ast;bala_ ‘move downward (?)’ are als
 <td style="white-space: nowrap;">
 <i>&ast;bala</i>
 </td>
-<td>
-'<span>move downward (?)</span>'</td>
+<td>'<span>move downward (?)</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td><i>bala</i></td>
-<td>
-'<span>move down, move to one’s left when facing sea</span>'</td>
+<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td style="white-space: nowrap;"><i>bala</i></td>
+<td>'<span>move down, move to one’s left when facing sea</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td><i>ba</i></td>
-<td>
-[DIR] '<span>downward</span>'</td>
+<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td style="white-space: nowrap;"><i>ba</i></td>
+<td>[DIR] '<span>downward</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/gumawana">Gumawana</a></td><td><i>-bala</i></td>
-<td>
-'<span>move across</span>'</td>
+<td>PT</td><td><a href="../languages/gumawana">Gumawana</a></td><td style="white-space: nowrap;"><i>-bala</i></td>
+<td>'<span>move across</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/nadroga">Nadroga</a></td><td><i>bale</i></td>
-<td>
-[DIR] '<span>downward</span>'</td>
+<td>Fij</td><td><a href="../languages/nadroga">Nadroga</a></td><td style="white-space: nowrap;"><i>bale</i></td>
+<td>[DIR] '<span>downward</span>'</td>
 </tr>
 </table>
 
@@ -6780,278 +5852,223 @@ The generic verb of upward movement was POc _&ast;sake_ ‘go upward, go southea
 <td style="white-space: nowrap;">
 <i>&ast;sake</i>
 </td>
-<td>
-'<span>go upward</span>'</td>
+<td>'<span>go upward</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td><i>sae</i></td>
-<td>
-'<span>go upward</span>'</td>
+<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td style="white-space: nowrap;"><i>sae</i></td>
+<td>'<span>go upward</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td><i>sae(-mae)</i></td>
-<td>
-'<span>come up (from)</span>'</td>
+<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td style="white-space: nowrap;"><i>sae(-mae)</i></td>
+<td>'<span>come up (from)</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td><i>(la-)sae</i></td>
-<td>
-'<span>go up (to)</span>' (<span><em>la</em> ‘go away from speaker’</span>)</td>
+<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td style="white-space: nowrap;"><i>(la-)sae</i></td>
+<td>'<span>go up (to)</span>' (<span><em>la</em> ‘go away from speaker’</span>)</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/kove">Kove</a></td><td><i>-ðae</i></td>
-<td>
-'<span>go upward</span>'</td>
+<td>NNG</td><td><a href="../languages/kove">Kove</a></td><td style="white-space: nowrap;"><i>-ðae</i></td>
+<td>'<span>go upward</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/gitua">Gitua</a></td><td><i>-zage</i></td>
-<td>
-'<span>(sun) rise</span>'</td>
+<td>NNG</td><td><a href="../languages/gitua">Gitua</a></td><td style="white-space: nowrap;"><i>-zage</i></td>
+<td>'<span>(sun) rise</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/tami">Tami</a></td><td><i>sai</i></td>
-<td>
-'<span>go up to</span>'</td>
+<td>NNG</td><td><a href="../languages/tami">Tami</a></td><td style="white-space: nowrap;"><i>sai</i></td>
+<td>'<span>go up to</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/mangap">Mangap</a></td><td><i>-se</i></td>
-<td>
-'<span>go upward</span>'</td>
+<td>NNG</td><td><a href="../languages/mangap">Mangap</a></td><td style="white-space: nowrap;"><i>-se</i></td>
+<td>'<span>go upward</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/mangap">Mangap</a></td><td><i>-sa-la</i></td>
-<td>
-'<span>go upward away from speaker</span>'</td>
+<td>NNG</td><td><a href="../languages/mangap">Mangap</a></td><td style="white-space: nowrap;"><i>-sa-la</i></td>
+<td>'<span>go upward away from speaker</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/yabem">Yabem</a></td><td><i>-sa</i></td>
-<td>
-[DIR clause-final] '<span>upward</span>'</td>
+<td>NNG</td><td><a href="../languages/yabem">Yabem</a></td><td style="white-space: nowrap;"><i>-sa</i></td>
+<td>[DIR clause-final] '<span>upward</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/gedaged">Gedaged</a></td><td><i>-sa</i></td>
-<td>
-'<span>(plant) grow</span>'</td>
+<td>NNG</td><td><a href="../languages/gedaged">Gedaged</a></td><td style="white-space: nowrap;"><i>-sa</i></td>
+<td>'<span>(plant) grow</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td><i>-s(-da)</i></td>
-<td>
-'<span>move up, be high, be full, go up, rise, board (a canoe)</span>'</td>
+<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td style="white-space: nowrap;"><i>-s(-da)</i></td>
+<td>'<span>move up, be high, be full, go up, rise, board (a canoe)</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td><i>-sa(-la)</i></td>
-<td>
-'<span>go inland, move uphill</span>' (<span>i.e. towards the volcano</span>); '<span>depart (by boat)</span>'</td>
+<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td style="white-space: nowrap;"><i>-sa(-la)</i></td>
+<td>'<span>go inland, move uphill</span>' (<span>i.e. towards the volcano</span>); '<span>depart (by boat)</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td><i>-raʔe</i></td>
-<td>
-'<span>move up, move to one’s right when facing sea</span>'; [DIR] '<span>upward</span>'</td>
+<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td style="white-space: nowrap;"><i>-raʔe</i></td>
+<td>'<span>move up, move to one’s right when facing sea</span>'; [DIR] '<span>upward</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/ali">Ali</a></td><td><i>-ha</i></td>
-<td>
-'<span>(sun) rise</span>'</td>
+<td>NNG</td><td><a href="../languages/ali">Ali</a></td><td style="white-space: nowrap;"><i>-ha</i></td>
+<td>'<span>(sun) rise</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/sissano">Sissano</a></td><td><i>ha</i></td>
-<td>
-[DIR] '<span>upward</span>'</td>
+<td>NNG</td><td><a href="../languages/sissano">Sissano</a></td><td style="white-space: nowrap;"><i>ha</i></td>
+<td>[DIR] '<span>upward</span>'</td>
 </tr>
 <tr>
-<td>SJ</td><td><a href="../languages/sobei">Sobei</a></td><td><i>-sa[sa]</i></td>
-<td>
-[DIR] '<span>upward</span>'</td>
+<td>SJ</td><td><a href="../languages/sobei">Sobei</a></td><td style="white-space: nowrap;"><i>-sa[sa]</i></td>
+<td>[DIR] '<span>upward</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/tawala">Tawala</a></td><td><i>-gae</i></td>
-<td>
-'<span>go upward</span>'</td>
+<td>PT</td><td><a href="../languages/tawala">Tawala</a></td><td style="white-space: nowrap;"><i>-gae</i></td>
+<td>'<span>go upward</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/sariba">Sariba</a></td><td><i>-sae</i></td>
-<td>
-'<span>go upward, eastward</span>'</td>
+<td>PT</td><td><a href="../languages/sariba">Sariba</a></td><td style="white-space: nowrap;"><i>-sae</i></td>
+<td>'<span>go upward, eastward</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/sinaugoro">Sinaugoro</a></td><td><i>-raɣe</i></td>
-<td>
-'<span>upward</span>' (<span>second element of verbal compounds</span>)</td>
+<td>PT</td><td><a href="../languages/sinaugoro">Sinaugoro</a></td><td style="white-space: nowrap;"><i>-raɣe</i></td>
+<td>'<span>upward</span>' (<span>second element of verbal compounds</span>)</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>-dae(roha)</i></td>
-<td>
-'<span>(sun) rise</span>' (<span><em>roha</em> ‘to come in sight’</span>)</td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td style="white-space: nowrap;"><i>-dae(roha)</i></td>
+<td>'<span>(sun) rise</span>' (<span><em>roha</em> ‘to come in sight’</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/bali">Bali</a></td><td><i>zaɣe</i></td>
-<td>
-'<span>(sun) rise</span>'; [DIR] '<span>upward</span>'</td>
+<td>MM</td><td><a href="../languages/bali">Bali</a></td><td style="white-space: nowrap;"><i>zaɣe</i></td>
+<td>'<span>(sun) rise</span>'; [DIR] '<span>upward</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td><i>sahe</i></td>
-<td>
-'<span>climb</span>'</td>
+<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td style="white-space: nowrap;"><i>sahe</i></td>
+<td>'<span>climb</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/meramera">Meramera</a></td><td><i>saʔe</i></td>
-<td>
-'<span>climb</span>'</td>
+<td>MM</td><td><a href="../languages/meramera">Meramera</a></td><td style="white-space: nowrap;"><i>saʔe</i></td>
+<td>'<span>climb</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td><i>(i)sa</i></td>
-<td>
-'<span>go upward</span>'</td>
+<td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td style="white-space: nowrap;"><i>(i)sa</i></td>
+<td>'<span>go upward</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/halia">Halia</a></td><td><i>sei</i></td>
-<td>
-'<span>(sun) rise</span>'</td>
+<td>MM</td><td><a href="../languages/halia">Halia</a></td><td style="white-space: nowrap;"><i>sei</i></td>
+<td>'<span>(sun) rise</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/teop">Teop</a></td><td><i>hae</i></td>
-<td>
-'<span>board (canoe)</span>'</td>
+<td>MM</td><td><a href="../languages/teop">Teop</a></td><td style="white-space: nowrap;"><i>hae</i></td>
+<td>'<span>board (canoe)</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/banoni">Banoni</a></td><td><i>sai</i></td>
-<td>
-[DIR] '<span>upward</span>'</td>
+<td>MM</td><td><a href="../languages/banoni">Banoni</a></td><td style="white-space: nowrap;"><i>sai</i></td>
+<td>[DIR] '<span>upward</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/monoalu">Mono-Alu</a></td><td><i>sae</i></td>
-<td>
-[DIR] '<span>upward</span>'</td>
+<td>MM</td><td><a href="../languages/monoalu">Mono-Alu</a></td><td style="white-space: nowrap;"><i>sae</i></td>
+<td>[DIR] '<span>upward</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td><i>saɣe(la)</i></td>
-<td>
-'<span>go up</span>'</td>
+<td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td style="white-space: nowrap;"><i>saɣe(la)</i></td>
+<td>'<span>go up</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/hoava">Hoava</a></td><td><i>saɣe(la)</i></td>
-<td>
-'<span>go up</span>'</td>
+<td>MM</td><td><a href="../languages/hoava">Hoava</a></td><td style="white-space: nowrap;"><i>saɣe(la)</i></td>
+<td>'<span>go up</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/kia">Kia</a></td><td><i>haɣe</i></td>
-<td>
-'<span>board (canoe)</span>'</td>
+<td>MM</td><td><a href="../languages/kia">Kia</a></td><td style="white-space: nowrap;"><i>haɣe</i></td>
+<td>'<span>board (canoe)</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/kokota">Kokota</a></td><td><i>hage</i></td>
-<td>
-'<span>go up; go landward; go east</span>'</td>
+<td>MM</td><td><a href="../languages/kokota">Kokota</a></td><td style="white-space: nowrap;"><i>hage</i></td>
+<td>'<span>go up; go landward; go east</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>haɣe</i></td>
-<td>
-'<span>enter</span>'</td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td style="white-space: nowrap;"><i>haɣe</i></td>
+<td>'<span>enter</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/longgu">Longgu</a></td><td><i>taʔe</i></td>
-<td>
-'<span>ascend, go up, stand up, get into canoe</span>'</td>
+<td>SES</td><td><a href="../languages/longgu">Longgu</a></td><td style="white-space: nowrap;"><i>taʔe</i></td>
+<td>'<span>ascend, go up, stand up, get into canoe</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>taʔe</i></td>
-<td>
-'<span>embark, rise</span>'</td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td style="white-space: nowrap;"><i>taʔe</i></td>
+<td>'<span>embark, rise</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>taʔe</i></td>
-<td>
-[DIR] '<span>up, inland</span>'</td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>taʔe</i></td>
+<td>[DIR] '<span>up, inland</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>taʔe</i></td>
-<td>
-'<span>go upward</span>'</td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td style="white-space: nowrap;"><i>taʔe</i></td>
+<td>'<span>go upward</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/merei">Merei</a></td><td><i>sa</i></td>
-<td>
-'<span>move upward/landward</span>'</td>
+<td>NCV</td><td><a href="../languages/merei">Merei</a></td><td style="white-space: nowrap;"><i>sa</i></td>
+<td>'<span>move upward/landward</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/araki">Araki</a></td><td><i>sa[ha]</i></td>
-<td>
-'<span>go up, go inland, go eastward</span>'</td>
+<td>NCV</td><td><a href="../languages/araki">Araki</a></td><td style="white-space: nowrap;"><i>sa[ha]</i></td>
+<td>'<span>go up, go inland, go eastward</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/tamambo">Tamambo</a></td><td><i>sahe</i></td>
-<td>
-'<span>go upward</span>'</td>
+<td>NCV</td><td><a href="../languages/tamambo">Tamambo</a></td><td style="white-space: nowrap;"><i>sahe</i></td>
+<td>'<span>go upward</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/lenakel">Lenakel</a></td><td><i>(a)hak</i></td>
-<td>
-'<span>(sun) already risen</span>'</td>
+<td>SV</td><td><a href="../languages/lenakel">Lenakel</a></td><td style="white-space: nowrap;"><i>(a)hak</i></td>
+<td>'<span>(sun) already risen</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/swtanna">S.W. Tanna</a></td><td><i>-hak(ta)</i></td>
-<td>
-[DIR] '<span>upward</span>'</td>
+<td>SV</td><td><a href="../languages/swtanna">Southwest Tanna</a></td><td style="white-space: nowrap;"><i>-hak(ta)</i></td>
+<td>[DIR] '<span>upward</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/sye">Sye</a></td><td><i>saɣ</i></td>
-<td>
-'<span>go up, go upstream, (tide) rise</span>'</td>
+<td>SV</td><td><a href="../languages/sye">Sye</a></td><td style="white-space: nowrap;"><i>saɣ</i></td>
+<td>'<span>go up, go upstream, (tide) rise</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kosraean">Kosraean</a></td><td><i>-ɛk</i></td>
-<td>
-[DIR] '<span>upward</span>'</td>
+<td>Mic</td><td><a href="../languages/kosraean">Kosraean</a></td><td style="white-space: nowrap;"><i>-ɛk</i></td>
+<td>[DIR] '<span>upward</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>tak</i></td>
-<td>
-'<span>(sun) rise</span>'; [DIR] '<span>upward</span>'</td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td style="white-space: nowrap;"><i>tak</i></td>
+<td>'<span>(sun) rise</span>'; [DIR] '<span>upward</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/mokilese">Mokilese</a></td><td><i>-ta</i></td>
-<td>
-[DIR] '<span>upward</span>'</td>
+<td>Mic</td><td><a href="../languages/mokilese">Mokilese</a></td><td style="white-space: nowrap;"><i>-ta</i></td>
+<td>[DIR] '<span>upward</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td><i>-tæ</i></td>
-<td>
-[DIR] '<span>upward</span>'</td>
+<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td style="white-space: nowrap;"><i>-tæ</i></td>
+<td>[DIR] '<span>upward</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>tax</i></td>
-<td>
-[DIR] '<span>upward, eastward</span>'</td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td style="white-space: nowrap;"><i>tax</i></td>
+<td>[DIR] '<span>upward, eastward</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>ðake</i></td>
-<td>
-[DIR] '<span>upward, eastward</span>'</td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td style="white-space: nowrap;"><i>ðake</i></td>
+<td>[DIR] '<span>upward, eastward</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>ðake</i></td>
-<td>
-'<span>climb up, mount</span>'</td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td style="white-space: nowrap;"><i>ðake</i></td>
+<td>'<span>climb up, mount</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>hake</i></td>
-<td>
-'<span>go upward, esp. from the sea to the land</span>'; [DIR] '<span>upward</span>'</td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td style="white-space: nowrap;"><i>hake</i></td>
+<td>'<span>go upward, esp. from the sea to the land</span>'; [DIR] '<span>upward</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>aʔe</i></td>
-<td>
-[DIR] '<span>upward</span>'</td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>aʔe</i></td>
+<td>[DIR] '<span>upward</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/pileni">Pileni</a></td><td><i>-ake</i></td>
-<td>
-[DIR] '<span>upward</span>'</td>
+<td>Pn</td><td><a href="../languages/pileni">Pileni</a></td><td style="white-space: nowrap;"><i>-ake</i></td>
+<td>[DIR] '<span>upward</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/marquesan">Marquesan</a></td><td><i>aʔe</i></td>
-<td>
-'<span>upwards, distant in time</span>'</td>
+<td>Pn</td><td><a href="../languages/marquesan">Marquesan</a></td><td style="white-space: nowrap;"><i>aʔe</i></td>
+<td>'<span>upwards, distant in time</span>'</td>
 </tr>
 </table>
 
@@ -7155,43 +6172,35 @@ Above I noted François’ (2004a) reconstruction of POc speakers’ use of term
 <td style="white-space: nowrap;">
 <i>&ast;sipo</i>
 </td>
-<td>
-'<span>go downward; go northwest</span>'</td>
+<td>'<span>go downward; go northwest</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/yabem">Yabem</a></td><td><i>-sep</i></td>
-<td>
-'<span>go down, go east</span>'</td>
+<td>NNG</td><td><a href="../languages/yabem">Yabem</a></td><td style="white-space: nowrap;"><i>-sep</i></td>
+<td>'<span>go down, go east</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>diho</i></td>
-<td>
-'<span>south, south wind; down; go down, descend</span>'</td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td style="white-space: nowrap;"><i>diho</i></td>
+<td>'<span>south, south wind; down; go down, descend</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/ambae">Ambae</a></td><td><i>hivo</i></td>
-<td>
-'<span>move downward/seaward/northwestward</span>'</td>
+<td>NCV</td><td><a href="../languages/ambae">Ambae</a></td><td style="white-space: nowrap;"><i>hivo</i></td>
+<td>'<span>move downward/seaward/northwestward</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/araki">Araki</a></td><td><i>si[vo]</i></td>
-<td>
-'<span>go down, go seaward, go westward</span>'</td>
+<td>NCV</td><td><a href="../languages/araki">Araki</a></td><td style="white-space: nowrap;"><i>si[vo]</i></td>
+<td>'<span>go down, go seaward, go westward</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>-se[h]</i></td>
-<td>
-[DIR] '<span>down, north, west</span>'</td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td style="white-space: nowrap;"><i>-se[h]</i></td>
+<td>[DIR] '<span>down, north, west</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>tiw</i></td>
-<td>
-[DIR] '<span>downward, westward</span>'</td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td style="white-space: nowrap;"><i>tiw</i></td>
+<td>[DIR] '<span>downward, westward</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>iho</i></td>
-<td>
-[V, DIR] '<span>downward; seaward; northward, westward</span>'</td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td style="white-space: nowrap;"><i>iho</i></td>
+<td>[V, DIR] '<span>downward; seaward; northward, westward</span>'</td>
 </tr>
 </table>
 
@@ -7206,49 +6215,40 @@ Above I noted François’ (2004a) reconstruction of POc speakers’ use of term
 <td style="white-space: nowrap;">
 <i>&ast;sake</i>
 </td>
-<td>
-'<span>go upward, go southeast</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
+<td>'<span>go upward, go southeast</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
 </td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/mwotlap">Mwotlap</a></td><td><i>hag</i></td>
-<td>
-[DIR] '<span>(on land) eastward, (at sea) south-eastward</span>'</td>
+<td>NCV</td><td><a href="../languages/mwotlap">Mwotlap</a></td><td style="white-space: nowrap;"><i>hag</i></td>
+<td>[DIR] '<span>(on land) eastward, (at sea) south-eastward</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/ambae">Ambae</a></td><td><i>hage</i></td>
-<td>
-'<span>move upward/landward/southeastward</span>'</td>
+<td>NCV</td><td><a href="../languages/ambae">Ambae</a></td><td style="white-space: nowrap;"><i>hage</i></td>
+<td>'<span>move upward/landward/southeastward</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/araki">Araki</a></td><td><i>sa[ha]</i></td>
-<td>
-'<span>go up, go inland, go eastward</span>'</td>
+<td>NCV</td><td><a href="../languages/araki">Araki</a></td><td style="white-space: nowrap;"><i>sa[ha]</i></td>
+<td>'<span>go up, go inland, go eastward</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>-tʃai</i></td>
-<td>
-[DIR] '<span>upward, southward, eastward</span>'</td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td style="white-space: nowrap;"><i>-tʃai</i></td>
+<td>[DIR] '<span>upward, southward, eastward</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>rake</i></td>
-<td>
-'<span>(sun) rise</span>'; [DIR] '<span>upward, eastward</span>'</td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>rake</i></td>
+<td>'<span>(sun) rise</span>'; [DIR] '<span>upward, eastward</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>tax</i></td>
-<td>
-[DIR] '<span>upward, eastward</span>'</td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td style="white-space: nowrap;"><i>tax</i></td>
+<td>[DIR] '<span>upward, eastward</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>ðake</i></td>
-<td>
-[DIR] '<span>upward, eastward</span>'</td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td style="white-space: nowrap;"><i>ðake</i></td>
+<td>[DIR] '<span>upward, eastward</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>ake</i></td>
-<td>
-[V, DIR] '<span>upward; inland; southward, eastward</span>'</td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td style="white-space: nowrap;"><i>ake</i></td>
+<td>[V, DIR] '<span>upward; inland; southward, eastward</span>'</td>
 </tr>
 </table>
 
@@ -7262,29 +6262,24 @@ François also alludes to members of the Polynesian sets below. However, these a
 <td style="white-space: nowrap;">
 <i>&ast;si-sifo</i>
 </td>
-<td>
-'<span>(N) west</span>' (<a href="../sources/BiggsandClark1993">BiggsandClark1993</a>)
+<td>'<span>(N) west</span>' (<a href="../sources/BiggsandClark1993">BiggsandClark1993</a>)
 </td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>hihifo</i></td>
-<td>
-'<span>west</span>'</td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td style="white-space: nowrap;"><i>hihifo</i></td>
+<td>'<span>west</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>hifo</i></td>
-<td>
-'<span>go west</span>'</td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td style="white-space: nowrap;"><i>hifo</i></td>
+<td>'<span>go west</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>sisifo</i></td>
-<td>
-'<span>west</span>'</td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>sisifo</i></td>
+<td>'<span>west</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tokelauan">Tokelauan</a></td><td><i>sisifo</i></td>
-<td>
-'<span>west</span>'</td>
+<td>Pn</td><td><a href="../languages/tokelauan">Tokelauan</a></td><td style="white-space: nowrap;"><i>sisifo</i></td>
+<td>'<span>west</span>'</td>
 </tr>
 </table>
 
@@ -7296,24 +6291,20 @@ François also alludes to members of the Polynesian sets below. However, these a
 <td style="white-space: nowrap;">
 <i>&ast;sa-sake</i>
 </td>
-<td>
-'<span>(N) east</span>' (<a href="../sources/BiggsandClark1993">BiggsandClark1993</a>)
+<td>'<span>(N) east</span>' (<a href="../sources/BiggsandClark1993">BiggsandClark1993</a>)
 </td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>ha-hake</i></td>
-<td>
-'<span>east</span>'</td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td style="white-space: nowrap;"><i>ha-hake</i></td>
+<td>'<span>east</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>sa-saʔe</i></td>
-<td>
-[ADV] '<span>in the east</span>'</td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>sa-saʔe</i></td>
+<td>[ADV] '<span>in the east</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>(ŋā-ŋ)aʔe</i></td>
-<td>
-[ADV] '<span>eastward</span>'</td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>(ŋā-ŋ)aʔe</i></td>
+<td>[ADV] '<span>eastward</span>'</td>
 </tr>
 </table>
 
@@ -7352,53 +6343,43 @@ The meanings of the items listed below overlap substantially with reflexes of th
 <td style="white-space: nowrap;">
 <i>&ast;sipo</i>
 </td>
-<td>
-'<span>go downward</span>'; [ADV] '<span>downwards, down below</span>'</td>
+<td>'<span>go downward</span>'; [ADV] '<span>downwards, down below</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/kove">Kove</a></td><td><i>sio</i></td>
-<td>
-[ADV] '<span>down below</span>'</td>
+<td>NNG</td><td><a href="../languages/kove">Kove</a></td><td style="white-space: nowrap;"><i>sio</i></td>
+<td>[ADV] '<span>down below</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/lusi">Lusi</a></td><td><i>sio</i></td>
-<td>
-[ADV] '<span>below, down there</span>'</td>
+<td>NNG</td><td><a href="../languages/lusi">Lusi</a></td><td style="white-space: nowrap;"><i>sio</i></td>
+<td>[ADV] '<span>below, down there</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/bariai">Bariai</a></td><td><i>(ga)dio</i></td>
-<td>
-[ADV] '<span>downward</span>'</td>
+<td>NNG</td><td><a href="../languages/bariai">Bariai</a></td><td style="white-space: nowrap;"><i>(ga)dio</i></td>
+<td>[ADV] '<span>downward</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>(ʔai)sifo</i></td>
-<td>
-[ADV] '<span>downwards, northwesterly</span>'</td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td style="white-space: nowrap;"><i>(ʔai)sifo</i></td>
+<td>[ADV] '<span>downwards, northwesterly</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/merei">Merei</a></td><td><i>(ai)sio</i></td>
-<td>
-[ADV] '<span>down here</span>'</td>
+<td>NCV</td><td><a href="../languages/merei">Merei</a></td><td style="white-space: nowrap;"><i>(ai)sio</i></td>
+<td>[ADV] '<span>down here</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/araki">Araki</a></td><td><i>sivo(su)</i></td>
-<td>
-[ADV] '<span>down there</span>' (<span><em>-su</em> DEM</span>)</td>
+<td>NCV</td><td><a href="../languages/araki">Araki</a></td><td style="white-space: nowrap;"><i>sivo(su)</i></td>
+<td>[ADV] '<span>down there</span>' (<span><em>-su</em> DEM</span>)</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/sye">Sye</a></td><td><i>(ye)hep</i></td>
-<td>
-[ADV] '<span>down here</span>'</td>
+<td>SV</td><td><a href="../languages/sye">Sye</a></td><td style="white-space: nowrap;"><i>(ye)hep</i></td>
+<td>[ADV] '<span>down here</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>si-sifo</i></td>
-<td>
-[ADV] '<span>in the west</span>'</td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>si-sifo</i></td>
+<td>[ADV] '<span>in the west</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>(ŋā-ŋa)ifo</i></td>
-<td>
-[ADV] '<span>westward</span>'</td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>(ŋā-ŋa)ifo</i></td>
+<td>[ADV] '<span>westward</span>'</td>
 </tr>
 </table>
 
@@ -7410,113 +6391,91 @@ The meanings of the items listed below overlap substantially with reflexes of th
 <td style="white-space: nowrap;">
 <i>&ast;sake</i>
 </td>
-<td>
-'<span>go upward</span>'; [ADV] '<span>upwards, up top</span>'</td>
+<td>'<span>go upward</span>'; [ADV] '<span>upwards, up top</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td><i>sae-sae(na)</i></td>
-<td>
-'<span>upwards</span>'</td>
+<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td style="white-space: nowrap;"><i>sae-sae(na)</i></td>
+<td>'<span>upwards</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/lusi">Lusi</a></td><td><i>sai</i></td>
-<td>
-[ADV] '<span>on top, above</span>'</td>
+<td>NNG</td><td><a href="../languages/lusi">Lusi</a></td><td style="white-space: nowrap;"><i>sai</i></td>
+<td>[ADV] '<span>on top, above</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/bariai">Bariai</a></td><td><i>(ga)dae</i></td>
-<td>
-[ADV] '<span>above</span>'</td>
+<td>NNG</td><td><a href="../languages/bariai">Bariai</a></td><td style="white-space: nowrap;"><i>(ga)dae</i></td>
+<td>[ADV] '<span>above</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/tuam">Tuam</a></td><td><i>(i)za</i></td>
-<td>
-[ADV] '<span>upwards</span>'</td>
+<td>NNG</td><td><a href="../languages/tuam">Tuam</a></td><td style="white-space: nowrap;"><i>(i)za</i></td>
+<td>[ADV] '<span>upwards</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/gitua">Gitua</a></td><td><i>sage</i></td>
-<td>
-[ADV] '<span>up above</span>'</td>
+<td>NNG</td><td><a href="../languages/gitua">Gitua</a></td><td style="white-space: nowrap;"><i>sage</i></td>
+<td>[ADV] '<span>up above</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>dae-</i></td>
-<td>
-[N] '<span>above</span>'</td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td style="white-space: nowrap;"><i>dae-</i></td>
+<td>[N] '<span>above</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/siar">Siar</a></td><td><i>sai(gali)</i></td>
-<td>
-[ADV] '<span>up there, over there</span>'</td>
+<td>MM</td><td><a href="../languages/siar">Siar</a></td><td style="white-space: nowrap;"><i>sai(gali)</i></td>
+<td>[ADV] '<span>up there, over there</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/label">Label</a></td><td><i>sa</i></td>
-<td>
-[ADV] '<span>up there</span>'</td>
+<td>MM</td><td><a href="../languages/label">Label</a></td><td style="white-space: nowrap;"><i>sa</i></td>
+<td>[ADV] '<span>up there</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/label">Label</a></td><td><i>(u)sa</i></td>
-<td>
-[ADV] '<span>upwards</span>'</td>
+<td>MM</td><td><a href="../languages/label">Label</a></td><td style="white-space: nowrap;"><i>(u)sa</i></td>
+<td>[ADV] '<span>upwards</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/minigir">Minigir</a></td><td><i>(ke-na)sa</i></td>
-<td>
-[ADV] '<span>up there</span>'</td>
+<td>MM</td><td><a href="../languages/minigir">Minigir</a></td><td style="white-space: nowrap;"><i>(ke-na)sa</i></td>
+<td>[ADV] '<span>up there</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/merei">Merei</a></td><td><i>(ai)sa</i></td>
-<td>
-[ADV] '<span>up here</span>'</td>
+<td>NCV</td><td><a href="../languages/merei">Merei</a></td><td style="white-space: nowrap;"><i>(ai)sa</i></td>
+<td>[ADV] '<span>up here</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/araki">Araki</a></td><td><i>saha(su)</i></td>
-<td>
-[ADV] '<span>up there</span>'</td>
+<td>NCV</td><td><a href="../languages/araki">Araki</a></td><td style="white-space: nowrap;"><i>saha(su)</i></td>
+<td>[ADV] '<span>up there</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td><i>(ne)sa</i></td>
-<td>
-[N LOC] '<span>up, above, on top</span>'</td>
+<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td style="white-space: nowrap;"><i>(ne)sa</i></td>
+<td>[N LOC] '<span>up, above, on top</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/sye">Sye</a></td><td><i>(ya)haɣ</i></td>
-<td>
-[ADV] '<span>up here</span>'</td>
+<td>SV</td><td><a href="../languages/sye">Sye</a></td><td style="white-space: nowrap;"><i>(ya)haɣ</i></td>
+<td>[ADV] '<span>up here</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td><a href="../languages/iaai">Iaai</a></td><td><i>(e)ðə̄</i></td>
-<td>
-[ADV] '<span>upward, inland</span>'</td>
+<td>NCal</td><td><a href="../languages/iaai">Iaai</a></td><td style="white-space: nowrap;"><i>(e)ðə̄</i></td>
+<td>[ADV] '<span>upward, inland</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>rake</i></td>
-<td>
-'<span>up, above</span>'</td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>rake</i></td>
+<td>'<span>up, above</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>ðake</i></td>
-<td>
-[DIR] '<span>upwards</span>'</td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td style="white-space: nowrap;"><i>ðake</i></td>
+<td>[DIR] '<span>upwards</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>ðake</i></td>
-<td>
-[N LOC] '<span>up, above</span>'</td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td style="white-space: nowrap;"><i>ðake</i></td>
+<td>[N LOC] '<span>up, above</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>ha-hake</i></td>
-<td>
-[N] '<span>east</span>'; [ADJ] '<span>eastern</span>'</td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td style="white-space: nowrap;"><i>ha-hake</i></td>
+<td>[N] '<span>east</span>'; [ADJ] '<span>eastern</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>sa-saʔe</i></td>
-<td>
-[N LOC] '<span>east</span>'</td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>sa-saʔe</i></td>
+<td>[N LOC] '<span>east</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>(ŋā-ŋ)aʔe</i></td>
-<td>
-[ADV] '<span>eastward</span>'</td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>(ŋā-ŋ)aʔe</i></td>
+<td>[ADV] '<span>eastward</span>'</td>
 </tr>
 </table>
 
@@ -7641,8 +6600,7 @@ Also reconstructable is the POc form _&ast;ma_, reflected in WOc and CEOc langua
 <td style="white-space: nowrap;">
 <i>&ast;maRi, &ast;mai</i>
 </td>
-<td>
-'<span>come</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>come</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -7650,351 +6608,282 @@ Also reconstructable is the POc form _&ast;ma_, reflected in WOc and CEOc langua
 <td style="white-space: nowrap;">
 <i>&ast;mai</i>
 </td>
-<td>
-'<span>come</span>'</td>
+<td>'<span>come</span>'</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;mai, &ast;ma</i>
 </td>
-<td>
-'<span>come</span>'; [DIR] '<span>towards speaker</span>'</td>
+<td>'<span>come</span>'; [DIR] '<span>towards speaker</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td><i>mae</i></td>
-<td>
-'<span>come</span>'</td>
+<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td style="white-space: nowrap;"><i>mae</i></td>
+<td>'<span>come</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td><i>(sio)mae</i></td>
-<td>
-'<span>come down (from)</span>'</td>
+<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td style="white-space: nowrap;"><i>(sio)mae</i></td>
+<td>'<span>come down (from)</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/loniu">Loniu</a></td><td><i>-mɛ</i></td>
-<td>
-'<span>come</span>'; [DIR] '<span>towards speaker</span>'</td>
+<td>Adm</td><td><a href="../languages/loniu">Loniu</a></td><td style="white-space: nowrap;"><i>-mɛ</i></td>
+<td>'<span>come</span>'; [DIR] '<span>towards speaker</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/aua">Aua</a></td><td><i>-mai</i></td>
-<td>
-[DIR] '<span>towards speaker</span>'</td>
+<td>Adm</td><td><a href="../languages/aua">Aua</a></td><td style="white-space: nowrap;"><i>-mai</i></td>
+<td>[DIR] '<span>towards speaker</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/mangap">Mangap</a></td><td><i>-ma</i></td>
-<td>
-'<span>come towards addressee</span>'</td>
+<td>NNG</td><td><a href="../languages/mangap">Mangap</a></td><td style="white-space: nowrap;"><i>-ma</i></td>
+<td>'<span>come towards addressee</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/mangap">Mangap</a></td><td><i>-ma(r)</i></td>
-<td>
-'<span>come towards speaker</span>'</td>
+<td>NNG</td><td><a href="../languages/mangap">Mangap</a></td><td style="white-space: nowrap;"><i>-ma(r)</i></td>
+<td>'<span>come towards speaker</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/mangap">Mangap</a></td><td><i>(-le)-ma</i></td>
-<td>
-'<span>come inside</span>' (<span>-le ‘enter’</span>)</td>
+<td>NNG</td><td><a href="../languages/mangap">Mangap</a></td><td style="white-space: nowrap;"><i>(-le)-ma</i></td>
+<td>'<span>come inside</span>' (<span>-le ‘enter’</span>)</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/yabem">Yabem</a></td><td><i>-mè(ŋ)</i></td>
-<td>
-'<span>come</span>' (<span><em>-ŋ</em> is a suffix of unknown origin</span>)</td>
+<td>NNG</td><td><a href="../languages/yabem">Yabem</a></td><td style="white-space: nowrap;"><i>-mè(ŋ)</i></td>
+<td>'<span>come</span>' (<span><em>-ŋ</em> is a suffix of unknown origin</span>)</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/sio">Sio</a></td><td><i>mɔ</i></td>
-<td>
-'<span>come</span>'</td>
+<td>NNG</td><td><a href="../languages/sio">Sio</a></td><td style="white-space: nowrap;"><i>mɔ</i></td>
+<td>'<span>come</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/tuam">Tuam</a></td><td><i>(ka)miai</i></td>
-<td>
-'<span>come</span>'</td>
+<td>NNG</td><td><a href="../languages/tuam">Tuam</a></td><td style="white-space: nowrap;"><i>(ka)miai</i></td>
+<td>'<span>come</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/gitua">Gitua</a></td><td><i>(la)m</i></td>
-<td>
-'<span>come</span>'</td>
+<td>NNG</td><td><a href="../languages/gitua">Gitua</a></td><td style="white-space: nowrap;"><i>(la)m</i></td>
+<td>'<span>come</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td><i>mai</i></td>
-<td>
-'<span>move towards speaker from neither up nor down</span>'; [DIR] '<span>towards speaker</span>'</td>
+<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td style="white-space: nowrap;"><i>mai</i></td>
+<td>'<span>move towards speaker from neither up nor down</span>'; [DIR] '<span>towards speaker</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/kairiru">Kairiru</a></td><td><i>-myai</i></td>
-<td>
-'<span>come</span>'</td>
+<td>NNG</td><td><a href="../languages/kairiru">Kairiru</a></td><td style="white-space: nowrap;"><i>-myai</i></td>
+<td>'<span>come</span>'</td>
 </tr>
 <tr>
-<td>SJ</td><td><a href="../languages/sobei">Sobei</a></td><td><i>-(e)ma</i></td>
-<td>
-[DIR] '<span>towards speaker</span>'</td>
+<td>SJ</td><td><a href="../languages/sobei">Sobei</a></td><td style="white-space: nowrap;"><i>-(e)ma</i></td>
+<td>[DIR] '<span>towards speaker</span>'</td>
 </tr>
 <tr>
-<td>SJ</td><td><a href="../languages/sobei">Sobei</a></td><td><i>-ma</i></td>
-<td>
-'<span>come</span>'</td>
+<td>SJ</td><td><a href="../languages/sobei">Sobei</a></td><td style="white-space: nowrap;"><i>-ma</i></td>
+<td>'<span>come</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/tawala">Tawala</a></td><td><i>mai</i></td>
-<td>
-[DIR] '<span>towards speaker</span>'</td>
+<td>PT</td><td><a href="../languages/tawala">Tawala</a></td><td style="white-space: nowrap;"><i>mai</i></td>
+<td>[DIR] '<span>towards speaker</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/gumawana">Gumawana</a></td><td><i>-ma</i></td>
-<td>
-'<span>come</span>'</td>
+<td>PT</td><td><a href="../languages/gumawana">Gumawana</a></td><td style="white-space: nowrap;"><i>-ma</i></td>
+<td>'<span>come</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/sariba">Sariba</a></td><td><i>ma</i></td>
-<td>
-[DIR] '<span>hither</span>'</td>
+<td>PT</td><td><a href="../languages/sariba">Sariba</a></td><td style="white-space: nowrap;"><i>ma</i></td>
+<td>[DIR] '<span>hither</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/sudest">Sudest</a></td><td><i>ma</i></td>
-<td>
-[DIR] '<span>towards speaker</span>'</td>
+<td>PT</td><td><a href="../languages/sudest">Sudest</a></td><td style="white-space: nowrap;"><i>ma</i></td>
+<td>[DIR] '<span>towards speaker</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/sinaugoro">Sinaugoro</a></td><td><i>(iaɣo)ma</i></td>
-<td>
-'<span>come</span>' (<span><em>iaɣo</em> ‘go’ &lt; POc <em>*lako</em></span>)</td>
+<td>PT</td><td><a href="../languages/sinaugoro">Sinaugoro</a></td><td style="white-space: nowrap;"><i>(iaɣo)ma</i></td>
+<td>'<span>come</span>' (<span><em>iaɣo</em> ‘go’ &lt; POc <em>&ast;lako</em></span>)</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/sinaugoro">Sinaugoro</a></td><td><i>-ma</i></td>
-<td>
-[preverbal clitic] '<span>near speaker</span>'[^25]</td>
+<td>PT</td><td><a href="../languages/sinaugoro">Sinaugoro</a></td><td style="white-space: nowrap;"><i>-ma</i></td>
+<td>[preverbal clitic] '<span>near speaker</span>'[^25]</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/sinaugoro">Sinaugoro</a></td><td><i>-ma(riɣo)</i></td>
-<td>
-'<span>come down</span>' (<span><em>-riɣo</em> ‘downward’ &lt; POc <em>*sipo</em> occurs in verbal compounds</span>)</td>
+<td>PT</td><td><a href="../languages/sinaugoro">Sinaugoro</a></td><td style="white-space: nowrap;"><i>-ma(riɣo)</i></td>
+<td>'<span>come down</span>' (<span><em>-riɣo</em> ‘downward’ &lt; POc <em>&ast;sipo</em> occurs in verbal compounds</span>)</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>-mai</i></td>
-<td>
-'<span>come</span>'</td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td style="white-space: nowrap;"><i>-mai</i></td>
+<td>'<span>come</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/vitu">Vitu</a></td><td><i>mai</i></td>
-<td>
-'<span>come</span>'</td>
+<td>MM</td><td><a href="../languages/vitu">Vitu</a></td><td style="white-space: nowrap;"><i>mai</i></td>
+<td>'<span>come</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/bali">Bali</a></td><td><i>mai</i></td>
-<td>
-'<span>come</span>'</td>
+<td>MM</td><td><a href="../languages/bali">Bali</a></td><td style="white-space: nowrap;"><i>mai</i></td>
+<td>'<span>come</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/bulu">Bulu</a></td><td><i>mai</i></td>
-<td>
-[DIR] '<span>towards speaker</span>'</td>
+<td>MM</td><td><a href="../languages/bulu">Bulu</a></td><td style="white-space: nowrap;"><i>mai</i></td>
+<td>[DIR] '<span>towards speaker</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/bolaharua">Bola (Harua)</a></td><td><i>mai</i></td>
-<td>
-'<span>come from</span>'</td>
+<td>MM</td><td><a href="../languages/bolaharua">Bola (Harua)</a></td><td style="white-space: nowrap;"><i>mai</i></td>
+<td>'<span>come from</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td><i>(i)ma</i></td>
-<td>
-'<span>come</span>'</td>
+<td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td style="white-space: nowrap;"><i>(i)ma</i></td>
+<td>'<span>come</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/notsi">Notsi</a></td><td><i>(kala)me</i></td>
-<td>
-'<span>come</span>'</td>
+<td>MM</td><td><a href="../languages/notsi">Notsi</a></td><td style="white-space: nowrap;"><i>(kala)me</i></td>
+<td>'<span>come</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/selau">Selau</a></td><td><i>(la)ma</i></td>
-<td>
-'<span>come</span>'</td>
+<td>MM</td><td><a href="../languages/selau">Selau</a></td><td style="white-space: nowrap;"><i>(la)ma</i></td>
+<td>'<span>come</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/taiof">Taiof</a></td><td><i>(o)m</i></td>
-<td>
-'<span>come</span>'</td>
+<td>MM</td><td><a href="../languages/taiof">Taiof</a></td><td style="white-space: nowrap;"><i>(o)m</i></td>
+<td>'<span>come</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/taiof">Taiof</a></td><td><i>-ma</i></td>
-<td>
-'<span>first/second person object enclitic</span>'[^26]</td>
+<td>MM</td><td><a href="../languages/taiof">Taiof</a></td><td style="white-space: nowrap;"><i>-ma</i></td>
+<td>'<span>first/second person object enclitic</span>'[^26]</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/banoni">Banoni</a></td><td><i>ma</i></td>
-<td>
-[DIR] '<span>towards speaker</span>'</td>
+<td>MM</td><td><a href="../languages/banoni">Banoni</a></td><td style="white-space: nowrap;"><i>ma</i></td>
+<td>[DIR] '<span>towards speaker</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/banoni">Banoni</a></td><td><i>(tai)ma</i></td>
-<td>
-'<span>come</span>' (<span>tai ‘go’</span>)</td>
+<td>MM</td><td><a href="../languages/banoni">Banoni</a></td><td style="white-space: nowrap;"><i>(tai)ma</i></td>
+<td>'<span>come</span>' (<span>tai ‘go’</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/mono">Mono</a></td><td><i>(lao)ma</i></td>
-<td>
-'<span>come</span>'</td>
+<td>MM</td><td><a href="../languages/mono">Mono</a></td><td style="white-space: nowrap;"><i>(lao)ma</i></td>
+<td>'<span>come</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/babatana">Babatana</a></td><td><i>me</i></td>
-<td>
-[DIR] '<span>towards speaker</span>'</td>
+<td>MM</td><td><a href="../languages/babatana">Babatana</a></td><td style="white-space: nowrap;"><i>me</i></td>
+<td>[DIR] '<span>towards speaker</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/hoava">Hoava</a></td><td><i>mae</i></td>
-<td>
-'<span>come</span>'</td>
+<td>MM</td><td><a href="../languages/hoava">Hoava</a></td><td style="white-space: nowrap;"><i>mae</i></td>
+<td>'<span>come</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/kokota">Kokota</a></td><td><i>mai</i></td>
-<td>
-'<span>come</span>'</td>
+<td>MM</td><td><a href="../languages/kokota">Kokota</a></td><td style="white-space: nowrap;"><i>mai</i></td>
+<td>'<span>come</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td><i>mai</i></td>
-<td>
-'<span>come</span>'; [DIR] '<span>towards speaker</span>'</td>
+<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td style="white-space: nowrap;"><i>mai</i></td>
+<td>'<span>come</span>'; [DIR] '<span>towards speaker</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>mai</i></td>
-<td>
-'<span>come</span>'; [DIR] '<span>towards speaker</span>'</td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td style="white-space: nowrap;"><i>mai</i></td>
+<td>'<span>come</span>'; [DIR] '<span>towards speaker</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/longgu">Longgu</a></td><td><i>mai</i></td>
-<td>
-[DIR] '<span>towards speaker</span>'</td>
+<td>SES</td><td><a href="../languages/longgu">Longgu</a></td><td style="white-space: nowrap;"><i>mai</i></td>
+<td>[DIR] '<span>towards speaker</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>mai</i></td>
-<td>
-[DIR] '<span>towards speaker</span>'</td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td style="white-space: nowrap;"><i>mai</i></td>
+<td>[DIR] '<span>towards speaker</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>(leka)mai</i></td>
-<td>
-'<span>come</span>' (<span>leka ‘go’</span>)</td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td style="white-space: nowrap;"><i>(leka)mai</i></td>
+<td>'<span>come</span>' (<span>leka ‘go’</span>)</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/mwotlap">Mwotlap</a></td><td><i>mɛ</i></td>
-<td>
-[DIR] '<span>towards speaker</span>'</td>
+<td>NCV</td><td><a href="../languages/mwotlap">Mwotlap</a></td><td style="white-space: nowrap;"><i>mɛ</i></td>
+<td>[DIR] '<span>towards speaker</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/ambae">Ambae</a></td><td><i>-mai, -mei, -ai</i></td>
-<td>
-[DIR] '<span>towards speaker</span>'[^27]</td>
+<td>NCV</td><td><a href="../languages/ambae">Ambae</a></td><td style="white-space: nowrap;"><i>-mai, -mei, -ai</i></td>
+<td>[DIR] '<span>towards speaker</span>'[^27]</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/merei">Merei</a></td><td><i>ma</i></td>
-<td>
-[DIR] '<span>towards addressee</span>'</td>
+<td>NCV</td><td><a href="../languages/merei">Merei</a></td><td style="white-space: nowrap;"><i>ma</i></td>
+<td>[DIR] '<span>towards addressee</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/araki">Araki</a></td><td><i>ma</i></td>
-<td>
-[DIR] '<span>towards speaker</span>'</td>
+<td>NCV</td><td><a href="../languages/araki">Araki</a></td><td style="white-space: nowrap;"><i>ma</i></td>
+<td>[DIR] '<span>towards speaker</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/tamambo">Tamambo</a></td><td><i>mai</i></td>
-<td>
-'<span>come</span>'</td>
+<td>NCV</td><td><a href="../languages/tamambo">Tamambo</a></td><td style="white-space: nowrap;"><i>mai</i></td>
+<td>'<span>come</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/sakao">Sakao</a></td><td><i>(la)m</i></td>
-<td>
-'<span>come</span>'</td>
+<td>NCV</td><td><a href="../languages/sakao">Sakao</a></td><td style="white-space: nowrap;"><i>(la)m</i></td>
+<td>'<span>come</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/sye">Sye</a></td><td><i>(ve-lo-)m</i></td>
-<td>
-'<span>come</span>' (<span>ve ‘go’</span>)</td>
+<td>SV</td><td><a href="../languages/sye">Sye</a></td><td style="white-space: nowrap;"><i>(ve-lo-)m</i></td>
+<td>'<span>come</span>' (<span>ve ‘go’</span>)</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/sye">Sye</a></td><td><i>(-mpe-lo-)m</i></td>
-<td>
-[DIR] '<span>towards speaker</span>'</td>
+<td>SV</td><td><a href="../languages/sye">Sye</a></td><td style="white-space: nowrap;"><i>(-mpe-lo-)m</i></td>
+<td>[DIR] '<span>towards speaker</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>-(pa)m</i></td>
-<td>
-[DIR] '<span>towards speaker</span>' (<span><em>pan</em> ‘away from speaker’</span>)</td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td style="white-space: nowrap;"><i>-(pa)m</i></td>
+<td>[DIR] '<span>towards speaker</span>' (<span><em>pan</em> ‘away from speaker’</span>)</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>(ha)m, (apa)m</i></td>
-<td>
-'<span>come</span>' (<span><em>han</em>, <em>apan</em> ‘go’</span>)</td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td style="white-space: nowrap;"><i>(ha)m, (apa)m</i></td>
+<td>'<span>come</span>' (<span><em>han</em>, <em>apan</em> ‘go’</span>)</td>
 </tr>
 <tr>
-<td>NCal</td><td><a href="../languages/nelemwa">Nêlêmwâ</a></td><td><i>me</i></td>
-<td>
-[DIR] '<span>towards speaker</span>'</td>
+<td>NCal</td><td><a href="../languages/nelemwa">Nêlêmwâ</a></td><td style="white-space: nowrap;"><i>me</i></td>
+<td>[DIR] '<span>towards speaker</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td><a href="../languages/nelemwa">Nêlêmwâ</a></td><td><i>ō-me</i></td>
-<td>
-'<span>come</span>' (<span>o ‘go’</span>)</td>
+<td>NCal</td><td><a href="../languages/nelemwa">Nêlêmwâ</a></td><td style="white-space: nowrap;"><i>ō-me</i></td>
+<td>'<span>come</span>' (<span>o ‘go’</span>)</td>
 </tr>
 <tr>
-<td>NCal</td><td><a href="../languages/nyelayu">Nyelâyu</a></td><td><i>-me</i></td>
-<td>
-[DIR] '<span>towards speaker</span>'</td>
+<td>NCal</td><td><a href="../languages/nyelayu">Nyelâyu</a></td><td style="white-space: nowrap;"><i>-me</i></td>
+<td>[DIR] '<span>towards speaker</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td><a href="../languages/xaracuu">Xârâcùù</a></td><td><i>mɛ̃</i></td>
-<td>
-[DEM] '<span>near speaker</span>'</td>
+<td>NCal</td><td><a href="../languages/xaracuu">Xârâcùù</a></td><td style="white-space: nowrap;"><i>mɛ̃</i></td>
+<td>[DEM] '<span>near speaker</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td><a href="../languages/iaai">Iaai</a></td><td><i>(jē)m</i></td>
-<td>
-[DIR] '<span>towards speaker</span>'</td>
+<td>NCal</td><td><a href="../languages/iaai">Iaai</a></td><td style="white-space: nowrap;"><i>(jē)m</i></td>
+<td>[DIR] '<span>towards speaker</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kosraean">Kosraean</a></td><td><i>-ma</i></td>
-<td>
-[DIR] '<span>towards speaker</span>'</td>
+<td>Mic</td><td><a href="../languages/kosraean">Kosraean</a></td><td style="white-space: nowrap;"><i>-ma</i></td>
+<td>[DIR] '<span>towards speaker</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>mai</i></td>
-<td>
-'<span>come</span>'</td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>mai</i></td>
+<td>'<span>come</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/nadroga">Nadroga</a></td><td><i>mā, mei</i></td>
-<td>
-[DIR] '<span>towards speaker</span>'</td>
+<td>Fij</td><td><a href="../languages/nadroga">Nadroga</a></td><td style="white-space: nowrap;"><i>mā, mei</i></td>
+<td>[DIR] '<span>towards speaker</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>mai</i></td>
-<td>
-[DIR] '<span>towards speaker</span>'</td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td style="white-space: nowrap;"><i>mai</i></td>
+<td>[DIR] '<span>towards speaker</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>mai</i></td>
-<td>
-[DIR] '<span>towards speaker</span>'</td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td style="white-space: nowrap;"><i>mai</i></td>
+<td>[DIR] '<span>towards speaker</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/boumaa">Boumā</a></td><td><i>mai</i></td>
-<td>
-[DIR] '<span>towards speaker</span>'</td>
+<td>Fij</td><td><a href="../languages/boumaa">Boumā</a></td><td style="white-space: nowrap;"><i>mai</i></td>
+<td>[DIR] '<span>towards speaker</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>mai</i></td>
-<td>
-'<span>come</span>'; [DIR] '<span>towards speaker</span>'</td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td style="white-space: nowrap;"><i>mai</i></td>
+<td>'<span>come</span>'; [DIR] '<span>towards speaker</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>mai</i></td>
-<td>
-[DIR] '<span>towards speaker</span>'</td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>mai</i></td>
+<td>[DIR] '<span>towards speaker</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/marquesan">Marquesan</a></td><td><i>mai</i></td>
-<td>
-[DIR] '<span>towards speaker</span>'</td>
+<td>Pn</td><td><a href="../languages/marquesan">Marquesan</a></td><td style="white-space: nowrap;"><i>mai</i></td>
+<td>[DIR] '<span>towards speaker</span>'</td>
 </tr>
 </table>
 
@@ -8014,68 +6903,55 @@ In a number of languages POc _&ast;mai_/_&ast;ma_ is reflected as a preposition 
 <td style="white-space: nowrap;">
 <i>&ast;mai, &ast;ma</i>
 </td>
-<td>
-'<span>come</span>'; [DIR] '<span>towards speaker</span>'</td>
+<td>'<span>come</span>'; [DIR] '<span>towards speaker</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/tawala">Tawala</a></td><td><i>mei</i></td>
-<td>
-[PREP] '<span>like, resembling</span>'</td>
+<td>PT</td><td><a href="../languages/tawala">Tawala</a></td><td style="white-space: nowrap;"><i>mei</i></td>
+<td>[PREP] '<span>like, resembling</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/meramera">Meramera</a></td><td><i>maʔ-</i></td>
-<td>
-[R-]  (<span>ablative</span>)</td>
+<td>MM</td><td><a href="../languages/meramera">Meramera</a></td><td style="white-space: nowrap;"><i>maʔ-</i></td>
+<td>[R-]  (<span>ablative</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/lamasong">Lamasong</a></td><td><i>ma-</i></td>
-<td>
-[R-]  (<span>ablative</span>)</td>
+<td>MM</td><td><a href="../languages/lamasong">Lamasong</a></td><td style="white-space: nowrap;"><i>ma-</i></td>
+<td>[R-]  (<span>ablative</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/madak">Madak</a></td><td><i>me-</i></td>
-<td>
-[R-]  (<span>ablative</span>)</td>
+<td>MM</td><td><a href="../languages/madak">Madak</a></td><td style="white-space: nowrap;"><i>me-</i></td>
+<td>[R-]  (<span>ablative</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/barok">Barok</a></td><td><i>mu-</i></td>
-<td>
-[R-]  (<span>ablative</span>)</td>
+<td>MM</td><td><a href="../languages/barok">Barok</a></td><td style="white-space: nowrap;"><i>mu-</i></td>
+<td>[R-]  (<span>ablative</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/konomala">Konomala</a></td><td><i>mə</i></td>
-<td>
-[R]  (<span>ablative</span>)</td>
+<td>MM</td><td><a href="../languages/konomala">Konomala</a></td><td style="white-space: nowrap;"><i>mə</i></td>
+<td>[R]  (<span>ablative</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/patpatar">Patpatar</a></td><td><i>ma-</i></td>
-<td>
-[R-]  (<span>ablative</span>)</td>
+<td>MM</td><td><a href="../languages/patpatar">Patpatar</a></td><td style="white-space: nowrap;"><i>ma-</i></td>
+<td>[R-]  (<span>ablative</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/patpatar">Patpatar</a></td><td><i>ma</i></td>
-<td>
- (<span>ablative; PREP w PLC</span>)</td>
+<td>MM</td><td><a href="../languages/patpatar">Patpatar</a></td><td style="white-space: nowrap;"><i>ma</i></td>
+<td> (<span>ablative; PREP w PLC</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/label">Label</a></td><td><i>mi-</i></td>
-<td>
-[R-]  (<span>ablative</span>)</td>
+<td>MM</td><td><a href="../languages/label">Label</a></td><td style="white-space: nowrap;"><i>mi-</i></td>
+<td>[R-]  (<span>ablative</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td><i>ma-, ma-ma-</i></td>
-<td>
-[R-]  (<span>ablative</span>)</td>
+<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td style="white-space: nowrap;"><i>ma-, ma-ma-</i></td>
+<td>[R-]  (<span>ablative</span>)</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/longgu">Longgu</a></td><td><i>mi</i></td>
-<td>
- (<span>ablative; R with placename or local noun</span>)</td>
+<td>SES</td><td><a href="../languages/longgu">Longgu</a></td><td style="white-space: nowrap;"><i>mi</i></td>
+<td> (<span>ablative; R with placename or local noun</span>)</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>mai</i></td>
-<td>
-[PREP]  (<span>ablative</span>)</td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td style="white-space: nowrap;"><i>mai</i></td>
+<td>[PREP]  (<span>ablative</span>)</td>
 </tr>
 </table>
 
@@ -8089,53 +6965,43 @@ One other POc morpheme with the same meanings as _&ast;mai_ may be reconstructab
 <td style="white-space: nowrap;">
 <i>&ast;pʷati</i>
 </td>
-<td>
-'<span>come</span>'; [DIR] '<span>towards speaker</span>'</td>
+<td>'<span>come</span>'; [DIR] '<span>towards speaker</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/wogeo">Wogeo</a></td><td><i>(e)wot</i></td>
-<td>
-'<span>come</span>'</td>
+<td>NNG</td><td><a href="../languages/wogeo">Wogeo</a></td><td style="white-space: nowrap;"><i>(e)wot</i></td>
+<td>'<span>come</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/minigir">Minigir</a></td><td><i>(vana)uti</i></td>
-<td>
-'<span>come</span>'</td>
+<td>MM</td><td><a href="../languages/minigir">Minigir</a></td><td style="white-space: nowrap;"><i>(vana)uti</i></td>
+<td>'<span>come</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td><i>pot</i></td>
-<td>
-'<span>come</span>'</td>
+<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td style="white-space: nowrap;"><i>pot</i></td>
+<td>'<span>come</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tolainodup">Tolai–Nodup</a></td><td><i>(le)poti</i></td>
-<td>
-'<span>come</span>'</td>
+<td>MM</td><td><a href="../languages/tolainodup">Tolai–Nodup</a></td><td style="white-space: nowrap;"><i>(le)poti</i></td>
+<td>'<span>come</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/label">Label</a></td><td><i>(la-m)ut</i></td>
-<td>
-'<span>come</span>'</td>
+<td>MM</td><td><a href="../languages/label">Label</a></td><td style="white-space: nowrap;"><i>(la-m)ut</i></td>
+<td>'<span>come</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/label">Label</a></td><td><i>hot</i></td>
-<td>
-'<span>towards speaker</span>'</td>
+<td>MM</td><td><a href="../languages/label">Label</a></td><td style="white-space: nowrap;"><i>hot</i></td>
+<td>'<span>towards speaker</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/bilur">Bilur</a></td><td><i>vot</i></td>
-<td>
-'<span>come</span>'</td>
+<td>MM</td><td><a href="../languages/bilur">Bilur</a></td><td style="white-space: nowrap;"><i>vot</i></td>
+<td>'<span>come</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/kandas">Kandas</a></td><td><i>(uan)pat</i></td>
-<td>
-'<span>come back</span>'</td>
+<td>MM</td><td><a href="../languages/kandas">Kandas</a></td><td style="white-space: nowrap;"><i>(uan)pat</i></td>
+<td>'<span>come back</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>boi</i></td>
-<td>
-'<span>come</span>'</td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td style="white-space: nowrap;"><i>boi</i></td>
+<td>'<span>come</span>'</td>
 </tr>
 </table>
 
@@ -8158,79 +7024,64 @@ Some of the reflexes of _&ast;ua_ can be confused with those of POc _&ast;pa_ an
 <td style="white-space: nowrap;">
 <i>&ast;ua</i>
 </td>
-<td>
-'<span>go towards addressee</span>'; [DIR] '<span>towards addressee</span>'</td>
+<td>'<span>go towards addressee</span>'; [DIR] '<span>towards addressee</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/seimat">Seimat</a></td><td><i>-wa</i></td>
-<td>
-[DIR] '<span>away from speaker</span>'</td>
+<td>Adm</td><td><a href="../languages/seimat">Seimat</a></td><td style="white-space: nowrap;"><i>-wa</i></td>
+<td>[DIR] '<span>away from speaker</span>'</td>
 </tr>
 <tr>
-<td>SJ</td><td><a href="../languages/sobei">Sobei</a></td><td><i>-(e)wo</i></td>
-<td>
-[DIR] '<span>away from speaker</span>'</td>
+<td>SJ</td><td><a href="../languages/sobei">Sobei</a></td><td style="white-space: nowrap;"><i>-(e)wo</i></td>
+<td>[DIR] '<span>away from speaker</span>'</td>
 </tr>
 <tr>
-<td>SJ</td><td><a href="../languages/sobei">Sobei</a></td><td><i>-wo</i></td>
-<td>
-'<span>go</span>'</td>
+<td>SJ</td><td><a href="../languages/sobei">Sobei</a></td><td style="white-space: nowrap;"><i>-wo</i></td>
+<td>'<span>go</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/gumawana">Gumawana</a></td><td><i>-wo</i></td>
-<td>
-[DIR] '<span>towards addressee</span>'</td>
+<td>PT</td><td><a href="../languages/gumawana">Gumawana</a></td><td style="white-space: nowrap;"><i>-wo</i></td>
+<td>[DIR] '<span>towards addressee</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/sariba">Sariba</a></td><td><i>-wa</i></td>
-<td>
-[DIR] '<span>thither</span>'</td>
+<td>PT</td><td><a href="../languages/sariba">Sariba</a></td><td style="white-space: nowrap;"><i>-wa</i></td>
+<td>[DIR] '<span>thither</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/kilivila">Kilivila</a></td><td><i>-wa</i></td>
-<td>
-'<span>go (to addressee)</span>'</td>
+<td>PT</td><td><a href="../languages/kilivila">Kilivila</a></td><td style="white-space: nowrap;"><i>-wa</i></td>
+<td>'<span>go (to addressee)</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/sudest">Sudest</a></td><td><i>-wo</i></td>
-<td>
-[DIR] '<span>away from speaker</span>'</td>
+<td>PT</td><td><a href="../languages/sudest">Sudest</a></td><td style="white-space: nowrap;"><i>-wo</i></td>
+<td>[DIR] '<span>away from speaker</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/sudest">Sudest</a></td><td><i>wa</i></td>
-<td>
-'<span>go</span>'</td>
+<td>PT</td><td><a href="../languages/sudest">Sudest</a></td><td style="white-space: nowrap;"><i>wa</i></td>
+<td>'<span>go</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/lala">Lala</a></td><td><i>-ovo</i></td>
-<td>
-[DIR] '<span>away</span>'</td>
+<td>PT</td><td><a href="../languages/lala">Lala</a></td><td style="white-space: nowrap;"><i>-ovo</i></td>
+<td>[DIR] '<span>away</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/bali">Bali</a></td><td><i>ua</i></td>
-<td>
-'<span>go</span>'</td>
+<td>MM</td><td><a href="../languages/bali">Bali</a></td><td style="white-space: nowrap;"><i>ua</i></td>
+<td>'<span>go</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td><i>vue</i></td>
-<td>
-[DIR] '<span>away</span>'</td>
+<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td style="white-space: nowrap;"><i>vue</i></td>
+<td>[DIR] '<span>away</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/halia">Halia</a></td><td><i>wa</i></td>
-<td>
-[DIR] '<span>towards (a specified destination)</span>' (<a href="../sources/Ross1982">Ross1982: 44–45</a>)
+<td>MM</td><td><a href="../languages/halia">Halia</a></td><td style="white-space: nowrap;"><i>wa</i></td>
+<td>[DIR] '<span>towards (a specified destination)</span>' (<a href="../sources/Ross1982">Ross1982: 44–45</a>)
 </td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/nadroga">Nadroga</a></td><td><i>wā</i></td>
-<td>
-[DIR] '<span>thither</span>'</td>
+<td>Fij</td><td><a href="../languages/nadroga">Nadroga</a></td><td style="white-space: nowrap;"><i>wā</i></td>
+<td>[DIR] '<span>thither</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>ā</i></td>
-<td>
-[DIR] '<span>thither</span>'</td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td style="white-space: nowrap;"><i>ā</i></td>
+<td>[DIR] '<span>thither</span>'</td>
 </tr>
 </table>
 
@@ -8244,128 +7095,103 @@ In a number of languages POc _&ast;ua_ is reflected as a preposition or a relato
 <td style="white-space: nowrap;">
 <i>&ast;ua</i>
 </td>
-<td>
-'<span>go towards addressee</span>'; [DIR] '<span>towards addressee</span>'</td>
+<td>'<span>go towards addressee</span>'; [DIR] '<span>towards addressee</span>'</td>
 </tr>
 <tr>
-<td>Yap</td><td><a href="../languages/yapese">Yapese</a></td><td><i>u</i></td>
-<td>
-[PREP]  (<span>locative, ablative</span>)</td>
+<td>Yap</td><td><a href="../languages/yapese">Yapese</a></td><td style="white-space: nowrap;"><i>u</i></td>
+<td>[PREP]  (<span>locative, ablative</span>)</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/tawala">Tawala</a></td><td><i>u</i></td>
-<td>
- (<span>locative, allative; PREP w N LOC</span>)</td>
+<td>PT</td><td><a href="../languages/tawala">Tawala</a></td><td style="white-space: nowrap;"><i>u</i></td>
+<td> (<span>locative, allative; PREP w N LOC</span>)</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/kilivila">Kilivila</a></td><td><i>o</i></td>
-<td>
- (<span>locative ‘in, into’; PREP w N LOC</span>)</td>
+<td>PT</td><td><a href="../languages/kilivila">Kilivila</a></td><td style="white-space: nowrap;"><i>o</i></td>
+<td> (<span>locative ‘in, into’; PREP w N LOC</span>)</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/muyuw">Muyuw</a></td><td><i>u, wa</i></td>
-<td>
-[PREP]  (<span>locative, allative</span>)</td>
+<td>PT</td><td><a href="../languages/muyuw">Muyuw</a></td><td style="white-space: nowrap;"><i>u, wa</i></td>
+<td>[PREP]  (<span>locative, allative</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/bulu">Bulu</a></td><td><i>o</i></td>
-<td>
- (<span>locative; PREP w PLC</span>)</td>
+<td>MM</td><td><a href="../languages/bulu">Bulu</a></td><td style="white-space: nowrap;"><i>o</i></td>
+<td> (<span>locative; PREP w PLC</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td><i>o-</i></td>
-<td>
- (<span>locative; VF formative</span>)</td>
+<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td style="white-space: nowrap;"><i>o-</i></td>
+<td> (<span>locative; VF formative</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/meramera">Meramera</a></td><td><i>u-</i></td>
-<td>
-[R-]  (<span>allative</span>)</td>
+<td>MM</td><td><a href="../languages/meramera">Meramera</a></td><td style="white-space: nowrap;"><i>u-</i></td>
+<td>[R-]  (<span>allative</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/lamasong">Lamasong</a></td><td><i>u-</i></td>
-<td>
-[R-]  (<span>allative</span>)</td>
+<td>MM</td><td><a href="../languages/lamasong">Lamasong</a></td><td style="white-space: nowrap;"><i>u-</i></td>
+<td>[R-]  (<span>allative</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/madak">Madak</a></td><td><i>u-</i></td>
-<td>
-[R-]  (<span>allative</span>)</td>
+<td>MM</td><td><a href="../languages/madak">Madak</a></td><td style="white-space: nowrap;"><i>u-</i></td>
+<td>[R-]  (<span>allative</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/barok">Barok</a></td><td><i>u-</i></td>
-<td>
-[R-]  (<span>allative</span>)</td>
+<td>MM</td><td><a href="../languages/barok">Barok</a></td><td style="white-space: nowrap;"><i>u-</i></td>
+<td>[R-]  (<span>allative</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/sursurunga">Sursurunga</a></td><td><i>u(r)</i></td>
-<td>
-[R]  (<span>allative</span>)</td>
+<td>MM</td><td><a href="../languages/sursurunga">Sursurunga</a></td><td style="white-space: nowrap;"><i>u(r)</i></td>
+<td>[R]  (<span>allative</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tangga">Tangga</a></td><td><i>ua, u</i></td>
-<td>
-[R]  (<span>allative; <em>ua w</em> DEM, <em>u</em> elsewhere</span>)</td>
+<td>MM</td><td><a href="../languages/tangga">Tangga</a></td><td style="white-space: nowrap;"><i>ua, u</i></td>
+<td>[R]  (<span>allative; <em>ua w</em> DEM, <em>u</em> elsewhere</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/konomala">Konomala</a></td><td><i>uə</i></td>
-<td>
-[R]  (<span>allative</span>)</td>
+<td>MM</td><td><a href="../languages/konomala">Konomala</a></td><td style="white-space: nowrap;"><i>uə</i></td>
+<td>[R]  (<span>allative</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/patpatar">Patpatar</a></td><td><i>u-</i></td>
-<td>
-[R-]  (<span>allative</span>)</td>
+<td>MM</td><td><a href="../languages/patpatar">Patpatar</a></td><td style="white-space: nowrap;"><i>u-</i></td>
+<td>[R-]  (<span>allative</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/patpatar">Patpatar</a></td><td><i>u</i></td>
-<td>
- (<span>allative; PREP w PLC</span>)</td>
+<td>MM</td><td><a href="../languages/patpatar">Patpatar</a></td><td style="white-space: nowrap;"><i>u</i></td>
+<td> (<span>allative; PREP w PLC</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/label">Label</a></td><td><i>u-</i></td>
-<td>
-[R-]  (<span>allative</span>)</td>
+<td>MM</td><td><a href="../languages/label">Label</a></td><td style="white-space: nowrap;"><i>u-</i></td>
+<td>[R-]  (<span>allative</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/kandas">Kandas</a></td><td><i>u-</i></td>
-<td>
-[R-]  (<span>allative</span>)</td>
+<td>MM</td><td><a href="../languages/kandas">Kandas</a></td><td style="white-space: nowrap;"><i>u-</i></td>
+<td>[R-]  (<span>allative</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/kandas">Kandas</a></td><td><i>u</i></td>
-<td>
- (<span>locative, allative; PREP w N LOC</span>)</td>
+<td>MM</td><td><a href="../languages/kandas">Kandas</a></td><td style="white-space: nowrap;"><i>u</i></td>
+<td> (<span>locative, allative; PREP w N LOC</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td><i>u-</i></td>
-<td>
-[R-]  (<span>allative</span>)</td>
+<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td style="white-space: nowrap;"><i>u-</i></td>
+<td>[R-]  (<span>allative</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td><i>u</i></td>
-<td>
-[PREP]  (<span>locative, allative</span>)</td>
+<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td style="white-space: nowrap;"><i>u</i></td>
+<td>[PREP]  (<span>locative, allative</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/minigir">Minigir</a></td><td><i>u-</i></td>
-<td>
-[R-]  (<span>allative</span>)</td>
+<td>MM</td><td><a href="../languages/minigir">Minigir</a></td><td style="white-space: nowrap;"><i>u-</i></td>
+<td>[R-]  (<span>allative</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td><i>u-</i></td>
-<td>
-[R-]  (<span>allative</span>)</td>
+<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td style="white-space: nowrap;"><i>u-</i></td>
+<td>[R-]  (<span>allative</span>)</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/longgu">Longgu</a></td><td><i>vu</i></td>
-<td>
-[R]  (<span>allative, towards</span>)</td>
+<td>SES</td><td><a href="../languages/longgu">Longgu</a></td><td style="white-space: nowrap;"><i>vu</i></td>
+<td>[R]  (<span>allative, towards</span>)</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>vuā, vei</i></td>
-<td>
-[PREP]  (<span>locative, allative, dative, cause</span>)</td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td style="white-space: nowrap;"><i>vuā, vei</i></td>
+<td>[PREP]  (<span>locative, allative, dative, cause</span>)</td>
 </tr>
 </table>
 
@@ -8390,68 +7216,55 @@ Other reflexes of &ast;ua apparently occur as demonstratives in a number of lang
 <td style="white-space: nowrap;">
 <i>&ast;ua</i>
 </td>
-<td>
-'<span>go towards addressee</span>'; [DIR] '<span>towards addressee</span>'; [DEM] '<span>away from speaker</span>' (<span>anaphoric</span>)</td>
+<td>'<span>go towards addressee</span>'; [DIR] '<span>towards addressee</span>'; [DEM] '<span>away from speaker</span>' (<span>anaphoric</span>)</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/lusi">Lusi</a></td><td><i>(ɣe-ra)wa</i></td>
-<td>
-[LOC] '<span>away from speaker</span>'</td>
+<td>NNG</td><td><a href="../languages/lusi">Lusi</a></td><td style="white-space: nowrap;"><i>(ɣe-ra)wa</i></td>
+<td>[LOC] '<span>away from speaker</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/lusi">Lusi</a></td><td><i>(ne-dua)wa</i></td>
-<td>
-[PRO] '<span>that one remote from speaker</span>' (<span>cf. <em>ne-dua</em> (PRO) ‘away from speaker’</span>)</td>
+<td>NNG</td><td><a href="../languages/lusi">Lusi</a></td><td style="white-space: nowrap;"><i>(ne-dua)wa</i></td>
+<td>[PRO] '<span>that one remote from speaker</span>' (<span>cf. <em>ne-dua</em> (PRO) ‘away from speaker’</span>)</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/bariai">Bariai</a></td><td><i>oa</i></td>
-<td>
- (<span>away from speaker, anaphoric; ADN</span>)</td>
+<td>NNG</td><td><a href="../languages/bariai">Bariai</a></td><td style="white-space: nowrap;"><i>oa</i></td>
+<td> (<span>away from speaker, anaphoric; ADN</span>)</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td><i>(ena)wa</i></td>
-<td>
- (<span>3; ADN</span>)</td>
+<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td style="white-space: nowrap;"><i>(ena)wa</i></td>
+<td> (<span>3; ADN</span>)</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/sariba">Sariba</a></td><td><i>-wa</i></td>
-<td>
- (<span>anaphoric; ADN ENCL</span>)</td>
+<td>PT</td><td><a href="../languages/sariba">Sariba</a></td><td style="white-space: nowrap;"><i>-wa</i></td>
+<td> (<span>anaphoric; ADN ENCL</span>)</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/kilivila">Kilivila</a></td><td><i>-we</i></td>
-<td>
-[ADN AFFIX] '<span>away from speaker</span>'</td>
+<td>PT</td><td><a href="../languages/kilivila">Kilivila</a></td><td style="white-space: nowrap;"><i>-we</i></td>
+<td>[ADN AFFIX] '<span>away from speaker</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/lala">Lala</a></td><td><i>uʔa</i></td>
-<td>
-(&#51;) [PRO] </td>
+<td>PT</td><td><a href="../languages/lala">Lala</a></td><td style="white-space: nowrap;"><i>uʔa</i></td>
+<td>(&#51;) [PRO] </td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kosraean">Kosraean</a></td><td><i>æ</i></td>
-<td>
- (<span>anaphoric; ADN, POST</span>)</td>
+<td>Mic</td><td><a href="../languages/kosraean">Kosraean</a></td><td style="white-space: nowrap;"><i>æ</i></td>
+<td> (<span>anaphoric; ADN, POST</span>)</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/mokilese">Mokilese</a></td><td><i>-wa</i></td>
-<td>
- (<span>anaphoric SG; ADN ENCL</span>)</td>
+<td>Mic</td><td><a href="../languages/mokilese">Mokilese</a></td><td style="white-space: nowrap;"><i>-wa</i></td>
+<td> (<span>anaphoric SG; ADN ENCL</span>)</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td><i>(ye)we</i></td>
-<td>
- (<span>anaphoric; ADN, POST</span>)</td>
+<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td style="white-space: nowrap;"><i>(ye)we</i></td>
+<td> (<span>anaphoric; ADN, POST</span>)</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>we</i></td>
-<td>
- (<span>anaphoric SG; ADN, POST</span>)</td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td style="white-space: nowrap;"><i>we</i></td>
+<td> (<span>anaphoric SG; ADN, POST</span>)</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/ulithian">Ulithian</a></td><td><i>-wē</i></td>
-<td>
- (<span>anaphoric SG; ADN ENCL</span>)</td>
+<td>Mic</td><td><a href="../languages/ulithian">Ulithian</a></td><td style="white-space: nowrap;"><i>-wē</i></td>
+<td> (<span>anaphoric SG; ADN ENCL</span>)</td>
 </tr>
 </table>
 
@@ -8470,138 +7283,111 @@ Irregular loss of initial _&ast;w-_ is reflected in New Caledonian and Central P
 <td style="white-space: nowrap;">
 <i>&ast;watu</i>
 </td>
-<td>
-'<span>go towards addressee</span>'; [DIR] '<span>towards addressee</span>'</td>
+<td>'<span>go towards addressee</span>'; [DIR] '<span>towards addressee</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/aua">Aua</a></td><td><i>-wau</i></td>
-<td>
-[DIR] '<span>away from speaker</span>'</td>
+<td>Adm</td><td><a href="../languages/aua">Aua</a></td><td style="white-space: nowrap;"><i>-wau</i></td>
+<td>[DIR] '<span>away from speaker</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/yabem">Yabem</a></td><td><i>-wàʔ</i></td>
-<td>
-'<span>go (to addressee)</span>'</td>
+<td>NNG</td><td><a href="../languages/yabem">Yabem</a></td><td style="white-space: nowrap;"><i>-wàʔ</i></td>
+<td>'<span>go (to addressee)</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/adzera">Adzera</a></td><td><i>waʔ-</i></td>
-<td>
-'<span>go out</span>'</td>
+<td>NNG</td><td><a href="../languages/adzera">Adzera</a></td><td style="white-space: nowrap;"><i>waʔ-</i></td>
+<td>'<span>go out</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>vasi</i></td>
-<td>
-'<span>go:2/3</span>'</td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td style="white-space: nowrap;"><i>vasi</i></td>
+<td>'<span>go:2/3</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/hoava">Hoava</a></td><td><i>atu</i></td>
-<td>
-'<span>go (to addressee)</span>'</td>
+<td>MM</td><td><a href="../languages/hoava">Hoava</a></td><td style="white-space: nowrap;"><i>atu</i></td>
+<td>'<span>go (to addressee)</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td><i>atu-atu</i></td>
-<td>
-[INTERJECTION]  (<span>implying movement away, of speaker or addressee</span>)</td>
+<td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td style="white-space: nowrap;"><i>atu-atu</i></td>
+<td>[INTERJECTION]  (<span>implying movement away, of speaker or addressee</span>)</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>(g)atu</i></td>
-<td>
-[DIR] '<span>away from speaker</span>'</td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td style="white-space: nowrap;"><i>(g)atu</i></td>
+<td>[DIR] '<span>away from speaker</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td><i>atu</i></td>
-<td>
-[DIR] '<span>away from speaker</span>'</td>
+<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td style="white-space: nowrap;"><i>atu</i></td>
+<td>[DIR] '<span>away from speaker</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>ka[ʔ]u</i></td>
-<td>
-[DIR] '<span>thither</span>'</td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td style="white-space: nowrap;"><i>ka[ʔ]u</i></td>
+<td>[DIR] '<span>thither</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>kou</i></td>
-<td>
-[DIR] '<span>away from speaker</span>'</td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td style="white-space: nowrap;"><i>kou</i></td>
+<td>[DIR] '<span>away from speaker</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/longgu">Longgu</a></td><td><i>hou</i></td>
-<td>
-[DIR] '<span>thither</span>'</td>
+<td>SES</td><td><a href="../languages/longgu">Longgu</a></td><td style="white-space: nowrap;"><i>hou</i></td>
+<td>[DIR] '<span>thither</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>wou</i></td>
-<td>
-[DIR] '<span>thither</span>'</td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td style="white-space: nowrap;"><i>wou</i></td>
+<td>[DIR] '<span>thither</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>wau</i></td>
-<td>
-'<span>there</span>'</td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>wau</i></td>
+<td>'<span>there</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>at</i></td>
-<td>
-'<span>outwards or away from speaker’s point of reference</span>'</td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td style="white-space: nowrap;"><i>at</i></td>
+<td>'<span>outwards or away from speaker’s point of reference</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/ambae">Ambae</a></td><td><i>-atu</i></td>
-<td>
-'<span>towards addressee, towards past/future deictic centre</span>' (<span>lexicalised in some compounds</span>)</td>
+<td>NCV</td><td><a href="../languages/ambae">Ambae</a></td><td style="white-space: nowrap;"><i>-atu</i></td>
+<td>'<span>towards addressee, towards past/future deictic centre</span>' (<span>lexicalised in some compounds</span>)</td>
 </tr>
 <tr>
-<td>NCal</td><td><a href="../languages/nemi">Nemi</a></td><td><i>-ec</i></td>
-<td>
-[DIR] '<span>away from speaker</span>'</td>
+<td>NCal</td><td><a href="../languages/nemi">Nemi</a></td><td style="white-space: nowrap;"><i>-ec</i></td>
+<td>[DIR] '<span>away from speaker</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>wati</i></td>
-<td>
-[DIR] '<span>away, hence</span>'</td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>wati</i></td>
+<td>[DIR] '<span>away, hence</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kosraean">Kosraean</a></td><td><i>-ɔt</i></td>
-<td>
-[DIR] '<span>towards addressee</span>'</td>
+<td>Mic</td><td><a href="../languages/kosraean">Kosraean</a></td><td style="white-space: nowrap;"><i>-ɔt</i></td>
+<td>[DIR] '<span>towards addressee</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>wac</i></td>
-<td>
-[DIR] '<span>towards addressee</span>'</td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td style="white-space: nowrap;"><i>wac</i></td>
+<td>[DIR] '<span>towards addressee</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/mokilese">Mokilese</a></td><td><i>-wɛ</i></td>
-<td>
-[DIR] '<span>towards addressee</span>'</td>
+<td>Mic</td><td><a href="../languages/mokilese">Mokilese</a></td><td style="white-space: nowrap;"><i>-wɛ</i></td>
+<td>[DIR] '<span>towards addressee</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td><i>-waw</i></td>
-<td>
-[DIR] '<span>towards addressee</span>'</td>
+<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td style="white-space: nowrap;"><i>-waw</i></td>
+<td>[DIR] '<span>towards addressee</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>ati</i></td>
-<td>
-[DIR] '<span>away from speaker towards addressee or elsewhere</span>'</td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td style="white-space: nowrap;"><i>ati</i></td>
+<td>[DIR] '<span>away from speaker towards addressee or elsewhere</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/nabukelevu">Nabukelevu</a></td><td><i>atu</i></td>
-<td>
-[DIR] '<span>outwards or away from speaker’s point of reference</span>'</td>
+<td>Fij</td><td><a href="../languages/nabukelevu">Nabukelevu</a></td><td style="white-space: nowrap;"><i>atu</i></td>
+<td>[DIR] '<span>outwards or away from speaker’s point of reference</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>atu</i></td>
-<td>
-[DIR] '<span>away from speaker towards addressee or elsewhere; onward in time</span>'</td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td style="white-space: nowrap;"><i>atu</i></td>
+<td>[DIR] '<span>away from speaker towards addressee or elsewhere; onward in time</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>atu</i></td>
-<td>
-[DIR] '<span>away from speaker towards addressee</span>'</td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td style="white-space: nowrap;"><i>atu</i></td>
+<td>[DIR] '<span>away from speaker towards addressee</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>atu</i></td>
-<td>
-[DIR] '<span>away from speaker towards addressee</span>'</td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>atu</i></td>
+<td>[DIR] '<span>away from speaker towards addressee</span>'</td>
 </tr>
 </table>
 
@@ -8624,231 +7410,186 @@ Just as POc _&ast;mai_ ‘come’ had a short form _&ast;ma_, so POc _&ast;lako_
 <td style="white-space: nowrap;">
 <i>&ast;lako</i>
 </td>
-<td>
-'<span>go</span>'</td>
+<td>'<span>go</span>'</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;lako, &ast;la</i>
 </td>
-<td>
-[V] '<span>go (to)</span>'; [DIR] '<span>away from speaker</span>'</td>
+<td>[V] '<span>go (to)</span>'; [DIR] '<span>away from speaker</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td><i>la</i></td>
-<td>
-[DIR] '<span>away from speaker</span>'</td>
+<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td style="white-space: nowrap;"><i>la</i></td>
+<td>[DIR] '<span>away from speaker</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td><i>lao</i></td>
-<td>
-'<span>go to</span>' (<span>la in compounds</span>)</td>
+<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td style="white-space: nowrap;"><i>lao</i></td>
+<td>'<span>go to</span>' (<span>la in compounds</span>)</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/loniu">Loniu</a></td><td><i>-la</i></td>
-<td>
-[DIR] '<span>away from speaker</span>'</td>
+<td>Adm</td><td><a href="../languages/loniu">Loniu</a></td><td style="white-space: nowrap;"><i>-la</i></td>
+<td>[DIR] '<span>away from speaker</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/loniu">Loniu</a></td><td><i>-lɛ</i></td>
-<td>
-'<span>go to</span>'</td>
+<td>Adm</td><td><a href="../languages/loniu">Loniu</a></td><td style="white-space: nowrap;"><i>-lɛ</i></td>
+<td>'<span>go to</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/kele">Kele</a></td><td><i>la</i></td>
-<td>
-'<span>go to</span>'</td>
+<td>Adm</td><td><a href="../languages/kele">Kele</a></td><td style="white-space: nowrap;"><i>la</i></td>
+<td>'<span>go to</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/gitua">Gitua</a></td><td><i>lago</i></td>
-<td>
-'<span>go</span>'</td>
+<td>NNG</td><td><a href="../languages/gitua">Gitua</a></td><td style="white-space: nowrap;"><i>lago</i></td>
+<td>'<span>go</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/mangap">Mangap</a></td><td><i>-la</i></td>
-<td>
-'<span>go</span>'</td>
+<td>NNG</td><td><a href="../languages/mangap">Mangap</a></td><td style="white-space: nowrap;"><i>-la</i></td>
+<td>'<span>go</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/mangap">Mangap</a></td><td><i>-sa-la</i></td>
-<td>
-[VF] '<span>ascend away from speaker</span>'</td>
+<td>NNG</td><td><a href="../languages/mangap">Mangap</a></td><td style="white-space: nowrap;"><i>-sa-la</i></td>
+<td>[VF] '<span>ascend away from speaker</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/sio">Sio</a></td><td><i>lɔ</i></td>
-<td>
-'<span>go</span>'</td>
+<td>NNG</td><td><a href="../languages/sio">Sio</a></td><td style="white-space: nowrap;"><i>lɔ</i></td>
+<td>'<span>go</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td><i>la</i></td>
-<td>
-'<span>move away from speaker</span>'; '<span>go round the island</span>'</td>
+<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td style="white-space: nowrap;"><i>la</i></td>
+<td>'<span>move away from speaker</span>'; '<span>go round the island</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td><i>laʔo</i></td>
-<td>
-[DIR] '<span>away from speaker</span>'</td>
+<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td style="white-space: nowrap;"><i>laʔo</i></td>
+<td>[DIR] '<span>away from speaker</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td><i>-la[ʔo]</i></td>
-<td>
-'<span>move away</span>'</td>
+<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td style="white-space: nowrap;"><i>-la[ʔo]</i></td>
+<td>'<span>move away</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/kilivila">Kilivila</a></td><td><i>-la</i></td>
-<td>
-'<span>go (to some place away from here)</span>'</td>
+<td>PT</td><td><a href="../languages/kilivila">Kilivila</a></td><td style="white-space: nowrap;"><i>-la</i></td>
+<td>'<span>go (to some place away from here)</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/tawala">Tawala</a></td><td><i>-nae</i></td>
-<td>
-'<span>go away</span>'</td>
+<td>PT</td><td><a href="../languages/tawala">Tawala</a></td><td style="white-space: nowrap;"><i>-nae</i></td>
+<td>'<span>go away</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/gumawana">Gumawana</a></td><td><i>-na</i></td>
-<td>
-[DIR] '<span>away from speaker and addressee</span>'</td>
+<td>PT</td><td><a href="../languages/gumawana">Gumawana</a></td><td style="white-space: nowrap;"><i>-na</i></td>
+<td>[DIR] '<span>away from speaker and addressee</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/sariba">Sariba</a></td><td><i>lao</i></td>
-<td>
-'<span>go across</span>'</td>
+<td>PT</td><td><a href="../languages/sariba">Sariba</a></td><td style="white-space: nowrap;"><i>lao</i></td>
+<td>'<span>go across</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/sinaugoro">Sinaugoro</a></td><td><i>iaɣo</i></td>
-<td>
-'<span>go</span>'</td>
+<td>PT</td><td><a href="../languages/sinaugoro">Sinaugoro</a></td><td style="white-space: nowrap;"><i>iaɣo</i></td>
+<td>'<span>go</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/sinaugoro">Sinaugoro</a></td><td><i>-a</i></td>
-<td>
-[preverbal clitic] '<span>away from speaker and addressee</span>'[^30]</td>
+<td>PT</td><td><a href="../languages/sinaugoro">Sinaugoro</a></td><td style="white-space: nowrap;"><i>-a</i></td>
+<td>[preverbal clitic] '<span>away from speaker and addressee</span>'[^30]</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>la</i></td>
-<td>
-'<span>go away</span>'</td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td style="white-space: nowrap;"><i>la</i></td>
+<td>'<span>go away</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td><i>inaŋ</i></td>
-<td>
-'<span>go away</span>'</td>
+<td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td style="white-space: nowrap;"><i>inaŋ</i></td>
+<td>'<span>go away</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/notsi">Notsi</a></td><td><i>la</i></td>
-<td>
-'<span>go</span>'</td>
+<td>MM</td><td><a href="../languages/notsi">Notsi</a></td><td style="white-space: nowrap;"><i>la</i></td>
+<td>'<span>go</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/banoni">Banoni</a></td><td><i>nau</i></td>
-<td>
-[DIR] '<span>away from speaker</span>'</td>
+<td>MM</td><td><a href="../languages/banoni">Banoni</a></td><td style="white-space: nowrap;"><i>nau</i></td>
+<td>[DIR] '<span>away from speaker</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/torau">Torau</a></td><td><i>lao</i></td>
-<td>
-'<span>go</span>'</td>
+<td>MM</td><td><a href="../languages/torau">Torau</a></td><td style="white-space: nowrap;"><i>lao</i></td>
+<td>'<span>go</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/babatana">Babatana</a></td><td><i>ka</i></td>
-<td>
-[DIR] '<span>away from speaker</span>'</td>
+<td>MM</td><td><a href="../languages/babatana">Babatana</a></td><td style="white-space: nowrap;"><i>ka</i></td>
+<td>[DIR] '<span>away from speaker</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/hoava">Hoava</a></td><td><i>la</i></td>
-<td>
-'<span>go away from speaker and addressee</span>'</td>
+<td>MM</td><td><a href="../languages/hoava">Hoava</a></td><td style="white-space: nowrap;"><i>la</i></td>
+<td>'<span>go away from speaker and addressee</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/zabana">Zabana</a></td><td><i>lao</i></td>
-<td>
-'<span>go</span>'</td>
+<td>MM</td><td><a href="../languages/zabana">Zabana</a></td><td style="white-space: nowrap;"><i>lao</i></td>
+<td>'<span>go</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/kokota">Kokota</a></td><td><i>lao</i></td>
-<td>
-'<span>go</span>'</td>
+<td>MM</td><td><a href="../languages/kokota">Kokota</a></td><td style="white-space: nowrap;"><i>lao</i></td>
+<td>'<span>go</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/bauro">Bauro</a></td><td><i>raɣo</i></td>
-<td>
-'<span>go</span>'</td>
+<td>SES</td><td><a href="../languages/bauro">Bauro</a></td><td style="white-space: nowrap;"><i>raɣo</i></td>
+<td>'<span>go</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>lago</i></td>
-<td>
-'<span>step, stretch the legs</span>'</td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td style="white-space: nowrap;"><i>lago</i></td>
+<td>'<span>step, stretch the legs</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td><i>lago</i></td>
-<td>
-'<span>walk, travel</span>'</td>
+<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td style="white-space: nowrap;"><i>lago</i></td>
+<td>'<span>walk, travel</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/sakao">Sakao</a></td><td><i>la(m)</i></td>
-<td>
-'<span>come</span>' (<span>from POc <em><em>lako_ + _</em>mai</em></span>)</td>
+<td>NCV</td><td><a href="../languages/sakao">Sakao</a></td><td style="white-space: nowrap;"><i>la(m)</i></td>
+<td>'<span>come</span>' (<span>from POc <em>&ast;lako</em> + <em>&ast;mai</em></span>)</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/sye">Sye</a></td><td><i>(ve)laɣ</i></td>
-<td>
-'<span>go ahead</span>' (<span><em>ve</em> ‘go’</span>)</td>
+<td>SV</td><td><a href="../languages/sye">Sye</a></td><td style="white-space: nowrap;"><i>(ve)laɣ</i></td>
+<td>'<span>go ahead</span>' (<span><em>ve</em> ‘go’</span>)</td>
 </tr>
 <tr>
-<td>NCal</td><td><a href="../languages/cemuhi">Cèmuhî</a></td><td><i>-lɛ</i></td>
-<td>
-[DIR] '<span>away from speaker</span>'</td>
+<td>NCal</td><td><a href="../languages/cemuhi">Cèmuhî</a></td><td style="white-space: nowrap;"><i>-lɛ</i></td>
+<td>[DIR] '<span>away from speaker</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>nako</i></td>
-<td>
-'<span>go</span>'</td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>nako</i></td>
+<td>'<span>go</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kosraean">Kosraean</a></td><td><i>-læ</i></td>
-<td>
-[DIR] '<span>away from speaker</span>'</td>
+<td>Mic</td><td><a href="../languages/kosraean">Kosraean</a></td><td style="white-space: nowrap;"><i>-læ</i></td>
+<td>[DIR] '<span>away from speaker</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>lᵚɒk</i></td>
-<td>
-[DIR] '<span>away from speaker</span>'</td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td style="white-space: nowrap;"><i>lᵚɒk</i></td>
+<td>[DIR] '<span>away from speaker</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/mokilese">Mokilese</a></td><td><i>-la</i></td>
-<td>
-[DIR] '<span>away from speaker</span>'</td>
+<td>Mic</td><td><a href="../languages/mokilese">Mokilese</a></td><td style="white-space: nowrap;"><i>-la</i></td>
+<td>[DIR] '<span>away from speaker</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td><i>-lɔ</i></td>
-<td>
-[DIR] '<span>away, south</span>'</td>
+<td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td style="white-space: nowrap;"><i>-lɔ</i></td>
+<td>[DIR] '<span>away, south</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>rax</i></td>
-<td>
-[DIR] '<span>away from speaker</span>'</td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td style="white-space: nowrap;"><i>rax</i></td>
+<td>[DIR] '<span>away from speaker</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/ulithian">Ulithian</a></td><td><i>loxo</i></td>
-<td>
-[DIR] '<span>away from speaker</span>'</td>
+<td>Mic</td><td><a href="../languages/ulithian">Ulithian</a></td><td style="white-space: nowrap;"><i>loxo</i></td>
+<td>[DIR] '<span>away from speaker</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>lako</i></td>
-<td>
-'<span>go</span>'</td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td style="white-space: nowrap;"><i>lako</i></td>
+<td>'<span>go</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>la(i)</i></td>
-<td>
-'<span>go and …</span>'</td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td style="white-space: nowrap;"><i>la(i)</i></td>
+<td>'<span>go and …</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>la(i)</i></td>
-<td>
-'<span>go and …</span>'</td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td style="white-space: nowrap;"><i>la(i)</i></td>
+<td>'<span>go and …</span>'</td>
 </tr>
 </table>
 
@@ -8928,8 +7669,7 @@ As noted in [§3.3](../contributions/2-8#s-3-3), some reflexes of POc _&ast;pano
 <td style="white-space: nowrap;">
 <i>&ast;panaw</i>
 </td>
-<td>
-'<span>go away, depart, leave on a journey</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>go away, depart, leave on a journey</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -8937,158 +7677,127 @@ As noted in [§3.3](../contributions/2-8#s-3-3), some reflexes of POc _&ast;pano
 <td style="white-space: nowrap;">
 <i>&ast;pano</i>
 </td>
-<td>
-'<span>go away</span>'; [DIR] '<span>away from speaker</span>'; '<span>move in a transverse direction</span>'</td>
+<td>'<span>go away</span>'; [DIR] '<span>away from speaker</span>'; '<span>move in a transverse direction</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/vitu">Vitu</a></td><td><i>vano</i></td>
-<td>
-'<span>go (away)</span>'</td>
+<td>MM</td><td><a href="../languages/vitu">Vitu</a></td><td style="white-space: nowrap;"><i>vano</i></td>
+<td>'<span>go (away)</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/bolaharua">Bola (Harua)</a></td><td><i>mano</i></td>
-<td>
-'<span>go away</span>' (<span>see text below</span>)</td>
+<td>MM</td><td><a href="../languages/bolaharua">Bola (Harua)</a></td><td style="white-space: nowrap;"><i>mano</i></td>
+<td>'<span>go away</span>' (<span>see text below</span>)</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td><i>vano</i></td>
-<td>
-'<span>go, come</span>'; [DIR] '<span>thither</span>'; '<span>beyond, more</span>' (<span>used in comparisons</span>)</td>
+<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td style="white-space: nowrap;"><i>vano</i></td>
+<td>'<span>go, come</span>'; [DIR] '<span>thither</span>'; '<span>beyond, more</span>' (<span>used in comparisons</span>)</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>vano</i></td>
-<td>
-'<span>away, further off; to go</span>'</td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td style="white-space: nowrap;"><i>vano</i></td>
+<td>'<span>away, further off; to go</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>hano</i></td>
-<td>
-'<span>make a journey, set out; go</span>'</td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td style="white-space: nowrap;"><i>hano</i></td>
+<td>'<span>make a journey, set out; go</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>van(o)</i></td>
-<td>
-'<span>go, come</span>'</td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td style="white-space: nowrap;"><i>van(o)</i></td>
+<td>'<span>go, come</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/mwotlap">Mwotlap</a></td><td><i>van</i></td>
-<td>
-[DIR] '<span>thither</span>'</td>
+<td>NCV</td><td><a href="../languages/mwotlap">Mwotlap</a></td><td style="white-space: nowrap;"><i>van</i></td>
+<td>[DIR] '<span>thither</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/ambae">Ambae</a></td><td><i>vano</i></td>
-<td>
-'<span>move in transverse direction</span>'</td>
+<td>NCV</td><td><a href="../languages/ambae">Ambae</a></td><td style="white-space: nowrap;"><i>vano</i></td>
+<td>'<span>move in transverse direction</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/merei">Merei</a></td><td><i>va, van(a)</i></td>
-<td>
-'<span>move in transverse direction</span>'</td>
+<td>NCV</td><td><a href="../languages/merei">Merei</a></td><td style="white-space: nowrap;"><i>va, van(a)</i></td>
+<td>'<span>move in transverse direction</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/tamambo">Tamambo</a></td><td><i>vano</i></td>
-<td>
-'<span>go away from speaker</span>'</td>
+<td>NCV</td><td><a href="../languages/tamambo">Tamambo</a></td><td style="white-space: nowrap;"><i>vano</i></td>
+<td>'<span>go away from speaker</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/lonwolwol">Lonwolwol</a></td><td><i>van</i></td>
-<td>
-'<span>go, pass (and so also of time); continue (to do s.t.)</span>'; [DIR] '<span>away</span>'</td>
+<td>NCV</td><td><a href="../languages/lonwolwol">Lonwolwol</a></td><td style="white-space: nowrap;"><i>van</i></td>
+<td>'<span>go, pass (and so also of time); continue (to do s.t.)</span>'; [DIR] '<span>away</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/seambrym">S.E. Ambrym</a></td><td><i>haen</i></td>
-<td>
-[N] '<span>going, departure</span>'</td>
+<td>NCV</td><td><a href="../languages/seambrym">Southeast Ambrym</a></td><td style="white-space: nowrap;"><i>haen</i></td>
+<td>[N] '<span>going, departure</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/lenakel">Lenakel</a></td><td><i>-pən</i></td>
-<td>
-[DIR] '<span>distant</span>'</td>
+<td>SV</td><td><a href="../languages/lenakel">Lenakel</a></td><td style="white-space: nowrap;"><i>-pən</i></td>
+<td>[DIR] '<span>distant</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/lenakel">Lenakel</a></td><td><i>vən, (a)vən</i></td>
-<td>
-'<span>go, walk</span>'</td>
+<td>SV</td><td><a href="../languages/lenakel">Lenakel</a></td><td style="white-space: nowrap;"><i>vən, (a)vən</i></td>
+<td>'<span>go, walk</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>-pan</i></td>
-<td>
-[DIR] '<span>away from speaker</span>'</td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td style="white-space: nowrap;"><i>-pan</i></td>
+<td>[DIR] '<span>away from speaker</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>han, (a)pan</i></td>
-<td>
-'<span>go</span>'</td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td style="white-space: nowrap;"><i>han, (a)pan</i></td>
+<td>'<span>go</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td><a href="../languages/nelemwa">Nêlêmwâ</a></td><td><i>ve</i></td>
-<td>
-[DIR] '<span>in a transverse direction</span>'</td>
+<td>NCal</td><td><a href="../languages/nelemwa">Nêlêmwâ</a></td><td style="white-space: nowrap;"><i>ve</i></td>
+<td>[DIR] '<span>in a transverse direction</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td><a href="../languages/nelemwa">Nêlêmwâ</a></td><td><i>o</i></td>
-<td>
-'<span>go</span>'</td>
+<td>NCal</td><td><a href="../languages/nelemwa">Nêlêmwâ</a></td><td style="white-space: nowrap;"><i>o</i></td>
+<td>'<span>go</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td><a href="../languages/nyelayu">Nyelâyu</a></td><td><i>-van</i></td>
-<td>
-[DIR] '<span>in a transverse direction</span>'</td>
+<td>NCal</td><td><a href="../languages/nyelayu">Nyelâyu</a></td><td style="white-space: nowrap;"><i>-van</i></td>
+<td>[DIR] '<span>in a transverse direction</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td><a href="../languages/nyelayu">Nyelâyu</a></td><td><i>van</i></td>
-<td>
-'<span>go</span>'</td>
+<td>NCal</td><td><a href="../languages/nyelayu">Nyelâyu</a></td><td style="white-space: nowrap;"><i>van</i></td>
+<td>'<span>go</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td><a href="../languages/nemi">Nemi</a></td><td><i>en</i></td>
-<td>
-[DIR] '<span>in a transverse direction</span>'</td>
+<td>NCal</td><td><a href="../languages/nemi">Nemi</a></td><td style="white-space: nowrap;"><i>en</i></td>
+<td>[DIR] '<span>in a transverse direction</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td><a href="../languages/nemi">Nemi</a></td><td><i>hen</i></td>
-<td>
-'<span>go</span>'</td>
+<td>NCal</td><td><a href="../languages/nemi">Nemi</a></td><td style="white-space: nowrap;"><i>hen</i></td>
+<td>'<span>go</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td><a href="../languages/tinrin">Tinrin</a></td><td><i>(ã)va</i></td>
-<td>
-'<span>there, the other side of stream</span>'</td>
+<td>NCal</td><td><a href="../languages/tinrin">Tinrin</a></td><td style="white-space: nowrap;"><i>(ã)va</i></td>
+<td>'<span>there, the other side of stream</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td><a href="../languages/xaracuu">Xârâcùù</a></td><td><i>fɛ</i></td>
-<td>
-[DEM] '<span>away from speaker</span>'</td>
+<td>NCal</td><td><a href="../languages/xaracuu">Xârâcùù</a></td><td style="white-space: nowrap;"><i>fɛ</i></td>
+<td>[DEM] '<span>away from speaker</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td><a href="../languages/iaai">Iaai</a></td><td><i>hããŋ</i></td>
-<td>
-[DIR] '<span>away from speaker crosswise</span>'[^31]</td>
+<td>NCal</td><td><a href="../languages/iaai">Iaai</a></td><td style="white-space: nowrap;"><i>hããŋ</i></td>
+<td>[DIR] '<span>away from speaker crosswise</span>'[^31]</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>fano</i></td>
-<td>
-'<span>go</span>'</td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td style="white-space: nowrap;"><i>fano</i></td>
+<td>'<span>go</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>fano</i></td>
-<td>
-'<span>(of time) be gone, past; perish</span>'</td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>fano</i></td>
+<td>'<span>(of time) be gone, past; perish</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/nanumean">Nanumean</a></td><td><i>fano</i></td>
-<td>
-'<span>go</span>'</td>
+<td>Pn</td><td><a href="../languages/nanumean">Nanumean</a></td><td style="white-space: nowrap;"><i>fano</i></td>
+<td>'<span>go</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>hano</i></td>
-<td>
-'<span>go; depending on, according to; on and on; little by little; one by one</span>'</td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td style="white-space: nowrap;"><i>hano</i></td>
+<td>'<span>go; depending on, according to; on and on; little by little; one by one</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>ɸano</i></td>
-<td>
-'<span>go, proceed; lead, of a road; verge towards; be on the point of; act, behave</span>'</td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td style="white-space: nowrap;"><i>ɸano</i></td>
+<td>'<span>go, proceed; lead, of a road; verge towards; be on the point of; act, behave</span>'</td>
 </tr>
 </table>
 
@@ -9107,73 +7816,59 @@ POc _&ast;pano_ evidently had a short form _&ast;pa_, giving a pair analogous to
 <td style="white-space: nowrap;">
 <i>&ast;pa</i>
 </td>
-<td>
-'<span>go away; move in a transverse direction</span>'; [V AUX] '<span>go and …</span>'</td>
+<td>'<span>go away; move in a transverse direction</span>'; [V AUX] '<span>go and …</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/lukeppono">Lukep (Pono)</a></td><td><i>pa</i></td>
-<td>
-'<span>go</span>'</td>
+<td>NNG</td><td><a href="../languages/lukeppono">Lukep (Pono)</a></td><td style="white-space: nowrap;"><i>pa</i></td>
+<td>'<span>go</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/adzera">Adzera</a></td><td><i>fa</i></td>
-<td>
-'<span>go</span>'</td>
+<td>NNG</td><td><a href="../languages/adzera">Adzera</a></td><td style="white-space: nowrap;"><i>fa</i></td>
+<td>'<span>go</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/sinaugoro">Sinaugoro</a></td><td><i>va(riɣo)</i></td>
-<td>
-'<span>go down</span>'</td>
+<td>PT</td><td><a href="../languages/sinaugoro">Sinaugoro</a></td><td style="white-space: nowrap;"><i>va(riɣo)</i></td>
+<td>'<span>go down</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>ha</i></td>
-<td>
-[V AUX] '<span>go and …</span>'</td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td style="white-space: nowrap;"><i>ha</i></td>
+<td>[V AUX] '<span>go and …</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>va</i></td>
-<td>
-[V AUX] '<span>be going to …</span>'</td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td style="white-space: nowrap;"><i>va</i></td>
+<td>[V AUX] '<span>be going to …</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>va</i></td>
-<td>
-'<span>go, come</span>'; [V AUX] '<span>go on …-ing</span>'</td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td style="white-space: nowrap;"><i>va</i></td>
+<td>'<span>go, come</span>'; [V AUX] '<span>go on …-ing</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/araki">Araki</a></td><td><i>v̈a</i></td>
-<td>
-'<span>go; go in a direction other than north or south</span>'</td>
+<td>NCV</td><td><a href="../languages/araki">Araki</a></td><td style="white-space: nowrap;"><i>v̈a</i></td>
+<td>'<span>go; go in a direction other than north or south</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/lonwolwol">Lonwolwol</a></td><td><i>va</i></td>
-<td>
-'<span>go</span>'</td>
+<td>NCV</td><td><a href="../languages/lonwolwol">Lonwolwol</a></td><td style="white-space: nowrap;"><i>va</i></td>
+<td>'<span>go</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/seambrym">S.E. Ambrym</a></td><td><i>ha</i></td>
-<td>
-'<span>go, leave, depart</span>'</td>
+<td>NCV</td><td><a href="../languages/seambrym">Southeast Ambrym</a></td><td style="white-space: nowrap;"><i>ha</i></td>
+<td>'<span>go, leave, depart</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td><i>vā</i></td>
-<td>
-'<span>go</span>'</td>
+<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td style="white-space: nowrap;"><i>vā</i></td>
+<td>'<span>go</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/nguna">Nguna</a></td><td><i>vā</i></td>
-<td>
-'<span>go</span>' (<span>short form of vano, Clark 1996</span>)</td>
+<td>NCV</td><td><a href="../languages/nguna">Nguna</a></td><td style="white-space: nowrap;"><i>vā</i></td>
+<td>'<span>go</span>' (<span>short form of vano, Clark 1996</span>)</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/sye">Sye</a></td><td><i>-mpe</i></td>
-<td>
-[DIR] '<span>away from speaker</span>'</td>
+<td>SV</td><td><a href="../languages/sye">Sye</a></td><td style="white-space: nowrap;"><i>-mpe</i></td>
+<td>[DIR] '<span>away from speaker</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/sye">Sye</a></td><td><i>-ve</i></td>
-<td>
-'<span>go</span>'</td>
+<td>SV</td><td><a href="../languages/sye">Sye</a></td><td style="white-space: nowrap;"><i>-ve</i></td>
+<td>'<span>go</span>'</td>
 </tr>
 </table>
 
@@ -9266,33 +7961,27 @@ Functionally and semantically the members of the small cognate set below resembl
 <td style="white-space: nowrap;">
 <i>&ast;[y]aku</i>
 </td>
-<td>
-'<span>go (to)</span>'; [DIR] '<span>away from speaker</span>'</td>
+<td>'<span>go (to)</span>'; [DIR] '<span>away from speaker</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/loniu">Loniu</a></td><td><i>yaw</i></td>
-<td>
-[DIR] '<span>away</span>'</td>
+<td>Adm</td><td><a href="../languages/loniu">Loniu</a></td><td style="white-space: nowrap;"><i>yaw</i></td>
+<td>[DIR] '<span>away</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/kele">Kele</a></td><td><i>aw</i></td>
-<td>
-'<span>go away</span>'</td>
+<td>Adm</td><td><a href="../languages/kele">Kele</a></td><td style="white-space: nowrap;"><i>aw</i></td>
+<td>'<span>go away</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/titan">Titan</a></td><td><i>aw</i></td>
-<td>
-'<span>go away, leave</span>'</td>
+<td>Adm</td><td><a href="../languages/titan">Titan</a></td><td style="white-space: nowrap;"><i>aw</i></td>
+<td>'<span>go away, leave</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/yabem">Yabem</a></td><td><i>-yà</i></td>
-<td>
-'<span>go (to her/him/them)</span>'</td>
+<td>NNG</td><td><a href="../languages/yabem">Yabem</a></td><td style="white-space: nowrap;"><i>-yà</i></td>
+<td>'<span>go (to her/him/them)</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td><i>-au</i></td>
-<td>
-'<span>go (from the speaker)</span>'</td>
+<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td style="white-space: nowrap;"><i>-au</i></td>
+<td>'<span>go (from the speaker)</span>'</td>
 </tr>
 </table>
 
@@ -9308,43 +7997,35 @@ POc _&ast;tani_ was a prepositional verb, reconstructed by [Pawley](../sources/P
 <td style="white-space: nowrap;">
 <i>&ast;tani</i>
 </td>
-<td>
-[PREPV] '<span>(go) away from</span>'</td>
+<td>[PREPV] '<span>(go) away from</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>tani</i></td>
-<td>
-[PREPV] '<span>away from</span>'</td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td style="white-space: nowrap;"><i>tani</i></td>
+<td>[PREPV] '<span>away from</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/mekeo">Mekeo</a></td><td><i>-ani</i></td>
-<td>
-'<span>away from</span>' (<span>in compounds: fossilised DIR</span>)</td>
+<td>PT</td><td><a href="../languages/mekeo">Mekeo</a></td><td style="white-space: nowrap;"><i>-ani</i></td>
+<td>'<span>away from</span>' (<span>in compounds: fossilised DIR</span>)</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/merlav">Merlav</a></td><td><i>dani-</i></td>
-<td>
-[PREPV] '<span>away from</span>'</td>
+<td>NCV</td><td><a href="../languages/merlav">Merlav</a></td><td style="white-space: nowrap;"><i>dani-</i></td>
+<td>[PREPV] '<span>away from</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/ambae">Ambae</a></td><td><i>dene</i></td>
-<td>
-[PREPV] '<span>away from</span>'</td>
+<td>NCV</td><td><a href="../languages/ambae">Ambae</a></td><td style="white-space: nowrap;"><i>dene</i></td>
+<td>[PREPV] '<span>away from</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/sesake">Sesake</a></td><td><i>deni-</i></td>
-<td>
-[PREPV] '<span>away from</span>'</td>
+<td>NCV</td><td><a href="../languages/sesake">Sesake</a></td><td style="white-space: nowrap;"><i>deni-</i></td>
+<td>[PREPV] '<span>away from</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>tani</i></td>
-<td>
-[DIR] '<span>away, elsewhere</span>'</td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td style="white-space: nowrap;"><i>tani</i></td>
+<td>[DIR] '<span>away, elsewhere</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/boumaa">Boumā</a></td><td><i>tani</i></td>
-<td>
-[DIR] '<span>away</span>'</td>
+<td>Fij</td><td><a href="../languages/boumaa">Boumā</a></td><td style="white-space: nowrap;"><i>tani</i></td>
+<td>[DIR] '<span>away</span>'</td>
 </tr>
 </table>
 
@@ -9355,7 +8036,7 @@ A note on sources
 
 <a id="p-294"></a>
 
-In addition to the sources of lexical items listed in Appendix 1, a number of grammars and other grammatical sources were consulted during the research on which this chapter is based. Other than my fieldnotes, these are: NE Ambae ([Hyslop 2001](../sources/Hyslop2001)), Anejom ([Lynch 2000b](../sources/Lynch2000b)), Araki ([François 2002](../sources/Francois2002)), Arosi ([Lynch & Horoi 2002](../sources/LynchandHoroi2002)), Awad Bing ([Bennett & Bennett 1998](../sources/BennettandBennett1998)), Bali-Vitu ([Ross 2002a](../sources/Ross2002a)), Banoni ([Lynch & Ross 2002](../sources/LynchandRoss2002)), Bariai ([Gallagher 1998](../sources/Gallagher1998)), Bauan Fijian ([Churchward 1973](../sources/Churchward1973), [Schütz 1985](../sources/Schutz1985)), Boumaa Fijian ([Dixon 1988](../sources/Dixon1988)), Bugotu ([Ivens 1933](../sources/Ivens1933), author’s fieldnotes), Cèmuhî ([Lynch 2002a](../sources/Lynch2002a)), Drehu ([Moyse-Faurie 1993](../sources/MoyseFaurie1993)), Erromangan (Sye) ([Crowley 1998](../sources/Crowley1998)), Gapapaiwa ([McGuckin 2002](../sources/Mcguckin2002)), Gela ([Crowley 2002a](../sources/Crowley2002a)), Gumawana ([Olson 1992](../sources/Olson1992)), Halia ([Allen 1987](../sources/Allen1987)), Hoava ([Davis 1997](../sources/Davis1997)), Iaai ([Ozanne-Rivierre 2004](../sources/OzanneRivierre2004)), Ifira-Mele ([Clark 2002](../sources/Clark2002)), Kairiru ([Wivell 1981b](../sources/Wivell1981b), [Ross 2002e](../sources/Ross2002e)), Kele ([Ross 2002f](../sources/Ross2002f)), Kiriwina ([Senft 1986](../sources/Senft1986)), Kiribati (Groves, Groves & Jacobs 1985), Kokota ([Palmer 1999](../sources/Palmer1999)), Kosraean ([Lee 1975](../sources/Lee1975)), Kwaio ([Keesing 1985](../sources/Keesing1985)), Kwamera ([Lindstrom 1986](../sources/Lindstrom1986)), Label ([Peekel 1930](../sources/Peekel1930)), Lenakel ([Lynch 1978c](../sources/Lynch1978c)), Lewo ([Early 1994a](../sources/Early1994a)), Longgu ([Hill 1992](../sources/Hill1992), [1997](../sources/Hill1997)), Loniu ([Hamel 1994](../sources/Hamel1994)), Lukep (Pono) ([D’Jernes & D’Jernes n.d.](../sources/DjernesandDjernesnd)), Lusi ([Counts 1969](../sources/Counts1969)), Manam ([Lichtenberk 1983](../sources/Lichtenberk1983)), Mangap-Mbula ([Bugenhagen 1995](../sources/Bugenhagen1995)), Marquesan ([Lynch 2002b](../sources/Lynch2002b)), Mekeo ([Jones 1998](../sources/Jones1998)), Merei ([Chung 1998](../sources/Chung1998)), Minaveha ([Lovell 1994](../sources/Lovell1994)), Mokilese ([Harrison 1976](../sources/Harrison1976)), Motu ([Lister-Turner & Clark 1954b](../sources/ListerTurnerandClark1954b)), Mussau ([Ross 2002b](../sources/Ross2002b)), Mwotlap ([Crowley 2002b](../sources/Crowley2002b)), Nadrogaa Fijian ([Geraghty 2002](../sources/Geraghty2002)), Nakanai ([Johnston 1980](../sources/Johnston1980)), Nalik ([Volker 1998](../sources/Volker1998)), Nêlêmwa ([Bril 1994](../sources/Bril1994)), Nguna ([Schütz 1969](../sources/Schutz1969)), Niuafo’ou ([Early 2002](../sources/Early2002)), Notsi ([Erickson & Erickson 1992](../sources/Ericksonanderickson1992)), Nyelâyu ([Ozanne-Rivierre 1998](../sources/OzanneRivierre1998)), Paamese ([Crowley 1982](../sources/Crowley1982)), Pileni (Næss, forthcoming), Puluwatese ([Lynch 2002c](../sources/Lynch2002c)), Ramoaaina ([Davies & Fritzell 1992](../sources/DaviesandFritzell1992)), Roviana ([Corston-Oliver 2002](../sources/Corstonoliver2002)), Saliba (Margetts, forthcoming), Samoan (Mosel & Hovdaugen 1992), Siar ([Ross 2002c](../sources/Ross2002c)), Sinaugoro ([Tauberschmidt 1999](../sources/Tauberschmidt1999)), Sio ([Clark & Clark 1987](../sources/ClarkandClark1987)), Sobei ([Sterner & Ross 2002](../sources/SternerandRoss2002)), Sudest ([Anderson & Ross 2002](../sources/AndersonandRoss2002)), Tamambo ([Jauncey 1997](../sources/Jauncey1997)), Tawala ([Ezard 1997](../sources/Ezard1997)), Tigak ([Beaumont 1979](../sources/Beaumont1979)), Tinrin ([Osumi 1995](../sources/Osumi1995)), Tobati ([Donohue 2002](../sources/Donohue2002)), Tolai ([Mosel 1982](../sources/Mosel1982), [1984](../sources/Mosel1984), [Rinderknecht 1987](../sources/Rinderknecht1987)), Tongan ([Churchward 1953](../sources/Churchward1953)), Ulithian ([Lynch 2002d](../sources/Lynch2002d)), Wailevu Fijian (Ritsuko Kikusawa pers. comm.), Wayan (Pawley & Sayaba, 2003), Woleaian ([Sohn 1975](../sources/Sohn1975)), Xârâcùù ([Moyse-Faurie 1995](../sources/MoyseFaurie1995)), Yabem ([Dempwolff 1939](../sources/Dempwolff1939), [Zahn 1940](../sources/Zahn1940), [Ross 2002d](../sources/Ross2002d)), Zabana ([Fitzsimons 1989](../sources/Fitzsimons1989)).
+In addition to the sources of lexical items listed in Appendix 1, a number of grammars and other grammatical sources were consulted during the research on which this chapter is based. Other than my fieldnotes, these are: NE Ambae ([Hyslop 2001](../sources/Hyslop2001)), Anejom ([Lynch 2000b](../sources/Lynch2000b)), Araki ([François 2002](../sources/Francois2002)), Arosi ([Lynch & Horoi 2002](../sources/LynchandHoroi2002)), Awad Bing ([Bennett & Bennett 1998](../sources/BennettandBennett1998)), Bali-Vitu ([Ross 2002a](../sources/Ross2002a)), Banoni ([Lynch & Ross 2002](../sources/LynchandRoss2002)), Bariai ([Gallagher 1998](../sources/Gallagher1998)), Bauan Fijian ([Churchward 1973](../sources/Churchward1973), [Schütz 1985](../sources/Schutz1985)), Boumaa Fijian ([Dixon 1988](../sources/Dixon1988)), Bugotu ([Ivens 1933](../sources/Ivens1933), author’s fieldnotes), Cèmuhî ([Lynch 2002a](../sources/Lynch2002a)), Drehu ([Moyse-Faurie 1993](../sources/MoyseFaurie1993)), Erromangan (Sye) ([Crowley 1998](../sources/Crowley1998)), Gapapaiwa ([McGuckin 2002](../sources/Mcguckin2002)), Gela ([Crowley 2002a](../sources/Crowley2002a)), Gumawana ([Olson 1992](../sources/Olson1992)), Halia ([Allen 1987](../sources/Allen1987)), Hoava ([Davis 1997](../sources/Davis1997)), Iaai ([Ozanne-Rivierre 2004](../sources/OzanneRivierre2004)), Ifira-Mele ([Clark 2002](../sources/Clark2002)), Kairiru ([Wivell 1981b](../sources/Wivell1981b), [Ross 2002e](../sources/Ross2002e)), Kele ([Ross 2002f](../sources/Ross2002f)), Kiriwina ([Senft 1986](../sources/Senft1986)), Kiribati ([Groves, Groves & Jacobs 1985](../sources/Grovesetal1985)), Kokota ([Palmer 1999](../sources/Palmer1999)), Kosraean ([Lee 1975](../sources/Lee1975)), Kwaio ([Keesing 1985](../sources/Keesing1985)), Kwamera ([Lindstrom 1986](../sources/Lindstrom1986)), Label ([Peekel 1930](../sources/Peekel1930)), Lenakel ([Lynch 1978c](../sources/Lynch1978c)), Lewo ([Early 1994a](../sources/Early1994a)), Longgu ([Hill 1992](../sources/Hill1992), [1997](../sources/Hill1997)), Loniu ([Hamel 1994](../sources/Hamel1994)), Lukep (Pono) ([D’Jernes & D’Jernes n.d.](../sources/DjernesandDjernesnd)), Lusi ([Counts 1969](../sources/Counts1969)), Manam ([Lichtenberk 1983](../sources/Lichtenberk1983)), Mangap-Mbula ([Bugenhagen 1995](../sources/Bugenhagen1995)), Marquesan ([Lynch 2002b](../sources/Lynch2002b)), Mekeo ([Jones 1998](../sources/Jones1998)), Merei ([Chung 1998](../sources/Chung1998)), Minaveha ([Lovell 1994](../sources/Lovell1994)), Mokilese ([Harrison 1976](../sources/Harrison1976)), Motu ([Lister-Turner & Clark 1954b](../sources/ListerTurnerandClark1954b)), Mussau ([Ross 2002b](../sources/Ross2002b)), Mwotlap ([Crowley 2002b](../sources/Crowley2002b)), Nadrogaa Fijian ([Geraghty 2002](../sources/Geraghty2002)), Nakanai ([Johnston 1980](../sources/Johnston1980)), Nalik ([Volker 1998](../sources/Volker1998)), Nêlêmwa ([Bril 1994](../sources/Bril1994)), Nguna ([Schütz 1969](../sources/Schutz1969)), Niuafo’ou ([Early 2002](../sources/Early2002)), Notsi ([Erickson & Erickson 1992](../sources/Ericksonanderickson1992)), Nyelâyu ([Ozanne-Rivierre 1998](../sources/OzanneRivierre1998)), Paamese ([Crowley 1982](../sources/Crowley1982)), Pileni (Næss, forthcoming), Puluwatese ([Lynch 2002c](../sources/Lynch2002c)), Ramoaaina ([Davies & Fritzell 1992](../sources/DaviesandFritzell1992)), Roviana ([Corston-Oliver 2002](../sources/Corstonoliver2002)), Saliba (Margetts, forthcoming), Samoan (Mosel & Hovdaugen 1992), Siar ([Ross 2002c](../sources/Ross2002c)), Sinaugoro ([Tauberschmidt 1999](../sources/Tauberschmidt1999)), Sio ([Clark & Clark 1987](../sources/ClarkandClark1987)), Sobei ([Sterner & Ross 2002](../sources/SternerandRoss2002)), Sudest ([Anderson & Ross 2002](../sources/AndersonandRoss2002)), Tamambo ([Jauncey 1997](../sources/Jauncey1997)), Tawala ([Ezard 1997](../sources/Ezard1997)), Tigak ([Beaumont 1979](../sources/Beaumont1979)), Tinrin ([Osumi 1995](../sources/Osumi1995)), Tobati ([Donohue 2002](../sources/Donohue2002)), Tolai ([Mosel 1982](../sources/Mosel1982), [1984](../sources/Mosel1984), [Rinderknecht 1987](../sources/Rinderknecht1987)), Tongan ([Churchward 1953](../sources/Churchward1953)), Ulithian ([Lynch 2002d](../sources/Lynch2002d)), Wailevu Fijian (Ritsuko Kikusawa pers. comm.), Wayan (Pawley & Sayaba, 2003), Woleaian ([Sohn 1975](../sources/Sohn1975)), Xârâcùù ([Moyse-Faurie 1995](../sources/MoyseFaurie1995)), Yabem ([Dempwolff 1939](../sources/Dempwolff1939), [Zahn 1940](../sources/Zahn1940), [Ross 2002d](../sources/Ross2002d)), Zabana ([Fitzsimons 1989](../sources/Fitzsimons1989)).
 
 
 ## Notes

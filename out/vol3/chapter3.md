@@ -568,33 +568,27 @@ A Proto Micronesian form _&ast;fadoka_ 'planted thing, cultivated plants' is rec
 <td style="white-space: nowrap;">
 <i>&ast;fadoka</i>
 </td>
-<td>
-'<span>planted thing, cultivated plants</span>'</td>
+<td>'<span>planted thing, cultivated plants</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>aroka</i></td>
-<td>
-'<span>planted thing, cultivated plants</span>'</td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>aroka</i></td>
+<td>'<span>planted thing, cultivated plants</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td><i>fɔtā-</i></td>
-<td>
- (<span>from <em>fɔto-</em> 'planting' and a noun-forming suffix</span>)</td>
+<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td style="white-space: nowrap;"><i>fɔtā-</i></td>
+<td> (<span>from <em>fɔto-</em> 'planting' and a noun-forming suffix</span>)</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>jato</i></td>
-<td>
-'<span>plant (N)</span>'</td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td style="white-space: nowrap;"><i>jato</i></td>
+<td>'<span>plant (N)</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/carolinian">Carolinian</a></td><td><i>jɔto</i></td>
-<td>
-'<span>generic term for plants</span>'</td>
+<td>Mic</td><td><a href="../languages/carolinian">Carolinian</a></td><td style="white-space: nowrap;"><i>jɔto</i></td>
+<td>'<span>generic term for plants</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/ulithian">Ulithian</a></td><td><i>fa-faxu</i></td>
-<td>
-'<span>plant (N)</span>'</td>
+<td>Mic</td><td><a href="../languages/ulithian">Ulithian</a></td><td style="white-space: nowrap;"><i>fa-faxu</i></td>
+<td>'<span>plant (N)</span>'</td>
 </tr>
 </table>
 
@@ -606,33 +600,27 @@ A Proto Micronesian form _&ast;fadoka_ 'planted thing, cultivated plants' is rec
 <td style="white-space: nowrap;">
 <i>&ast;fadok(-i)</i>
 </td>
-<td>
-'<span>to plant (s.t.)</span>'</td>
+<td>'<span>to plant (s.t.)</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kosraean">Kosraean</a></td><td><i>yuki</i></td>
-<td>
-'<span>to plant (s.t.)</span>'</td>
+<td>Mic</td><td><a href="../languages/kosraean">Kosraean</a></td><td style="white-space: nowrap;"><i>yuki</i></td>
+<td>'<span>to plant (s.t.)</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/mokilese">Mokilese</a></td><td><i>pɔtok</i></td>
-<td>
-'<span>to work at planting, to set in the ground (vT)</span>'</td>
+<td>Mic</td><td><a href="../languages/mokilese">Mokilese</a></td><td style="white-space: nowrap;"><i>pɔtok</i></td>
+<td>'<span>to work at planting, to set in the ground (vT)</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td><i>jɔtuki</i></td>
-<td>
-'<span>to plant (s.t.)</span>'</td>
+<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td style="white-space: nowrap;"><i>jɔtuki</i></td>
+<td>'<span>to plant (s.t.)</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/carolinian">Carolinian</a></td><td><i>jɔtoxi</i></td>
-<td>
-'<span>to plant (s.t.)</span>'</td>
+<td>Mic</td><td><a href="../languages/carolinian">Carolinian</a></td><td style="white-space: nowrap;"><i>jɔtoxi</i></td>
+<td>'<span>to plant (s.t.)</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>jatoxi</i></td>
-<td>
-'<span>to plant (s.t.)</span>'</td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td style="white-space: nowrap;"><i>jatoxi</i></td>
+<td>'<span>to plant (s.t.)</span>'</td>
 </tr>
 </table>
 
@@ -654,8 +642,7 @@ The most stable primary taxon label, in that it is reflected most widely amongst
 <td style="white-space: nowrap;">
 <i>&ast;kayu</i>
 </td>
-<td>
-'<span>tree, wood, timber</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
+<td>'<span>tree, wood, timber</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
 </td>
 </tr>
 <tr>
@@ -663,183 +650,147 @@ The most stable primary taxon label, in that it is reflected most widely amongst
 <td style="white-space: nowrap;">
 <i>&ast;kayu</i>
 </td>
-<td>
-'<span>tree or shrub: generic name for plants with woody stems and branches, probably not including palms or tree-ferns; wood, stick</span>'</td>
+<td>'<span>tree or shrub: generic name for plants with woody stems and branches, probably not including palms or tree-ferns; wood, stick</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/loniu">Loniu</a></td><td><i>ke</i></td>
-<td>
-'<span>tree, wood</span>'</td>
+<td>Adm</td><td><a href="../languages/loniu">Loniu</a></td><td style="white-space: nowrap;"><i>ke</i></td>
+<td>'<span>tree, wood</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/titan">Titan</a></td><td><i>kei</i></td>
-<td>
-'<span>firewood</span>'</td>
+<td>Adm</td><td><a href="../languages/titan">Titan</a></td><td style="white-space: nowrap;"><i>kei</i></td>
+<td>'<span>firewood</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/lukeppono">Lukep (Pono)</a></td><td><i>kai</i></td>
-<td>
-'<span>tree, wood</span>'</td>
+<td>NNG</td><td><a href="../languages/lukeppono">Lukep (Pono)</a></td><td style="white-space: nowrap;"><i>kai</i></td>
+<td>'<span>tree, wood</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/mangap">Mangap</a></td><td><i>ke</i></td>
-<td>
-'<span>wood, tree (generic)</span>'</td>
+<td>NNG</td><td><a href="../languages/mangap">Mangap</a></td><td style="white-space: nowrap;"><i>ke</i></td>
+<td>'<span>wood, tree (generic)</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/bing">Bing</a></td><td><i>ayuw</i></td>
-<td>
-'<span>firewood, fallen tree ready for firewood</span>'</td>
+<td>NNG</td><td><a href="../languages/bing">Bing</a></td><td style="white-space: nowrap;"><i>ayuw</i></td>
+<td>'<span>firewood, fallen tree ready for firewood</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td><i>ai</i></td>
-<td>
-'<span>tree (generic), wood, firewood, plant</span>'</td>
+<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td style="white-space: nowrap;"><i>ai</i></td>
+<td>'<span>tree (generic), wood, firewood, plant</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td><i>ʔai</i></td>
-<td>
-'<span>tree, stick</span>'</td>
+<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td style="white-space: nowrap;"><i>ʔai</i></td>
+<td>'<span>tree, stick</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/sissanoarop">Sissano-Arop</a></td><td><i>ai</i></td>
-<td>
-'<span>tree, stick, wood</span>'</td>
+<td>NNG</td><td><a href="../languages/sissanoarop">Sissano-Arop</a></td><td style="white-space: nowrap;"><i>ai</i></td>
+<td>'<span>tree, stick, wood</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>au</i></td>
-<td>
-'<span>tree, finewood</span>'</td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td style="white-space: nowrap;"><i>au</i></td>
+<td>'<span>tree, finewood</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/iduna">Iduna</a></td><td><i>ai</i></td>
-<td>
-'<span>tree, plant, wood, fire, light</span>'</td>
+<td>PT</td><td><a href="../languages/iduna">Iduna</a></td><td style="white-space: nowrap;"><i>ai</i></td>
+<td>'<span>tree, plant, wood, fire, light</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/muyuw">Muyuw</a></td><td><i>kay</i></td>
-<td>
-'<span>tree</span>'</td>
+<td>PT</td><td><a href="../languages/muyuw">Muyuw</a></td><td style="white-space: nowrap;"><i>kay</i></td>
+<td>'<span>tree</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/misima">Misima</a></td><td><i>ai</i></td>
-<td>
-'<span>tree, wood</span>'</td>
+<td>PT</td><td><a href="../languages/misima">Misima</a></td><td style="white-space: nowrap;"><i>ai</i></td>
+<td>'<span>tree, wood</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/patpatar">Patpatar</a></td><td><i>ai-</i></td>
-<td>
-'<span>tree species, followed by name of species</span>'</td>
+<td>MM</td><td><a href="../languages/patpatar">Patpatar</a></td><td style="white-space: nowrap;"><i>ai-</i></td>
+<td>'<span>tree species, followed by name of species</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/mono">Mono</a></td><td><i>au</i></td>
-<td>
-'<span>tree</span>'</td>
+<td>MM</td><td><a href="../languages/mono">Mono</a></td><td style="white-space: nowrap;"><i>au</i></td>
+<td>'<span>tree</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/nduke">Nduke</a></td><td><i>ɣae</i></td>
-<td>
-'<span>general name for any kind of tree, bamboo, tree-ferns and other tall plants (except grass) that have woody stems</span>'</td>
+<td>MM</td><td><a href="../languages/nduke">Nduke</a></td><td style="white-space: nowrap;"><i>ɣae</i></td>
+<td>'<span>general name for any kind of tree, bamboo, tree-ferns and other tall plants (except grass) that have woody stems</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>ɣai</i></td>
-<td>
-'<span>branching plant, shrub or tree (i.e. balsam, croton and banyan are all <em>ɣai</em>, but not palm or coconut); wood, timber; firewood.</span>'</td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td style="white-space: nowrap;"><i>ɣai</i></td>
+<td>'<span>branching plant, shrub or tree (i.e. balsam, croton and banyan are all <em>ɣai</em>, but not palm or coconut); wood, timber; firewood.</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td><i>ɣai-</i></td>
-<td>
-'<span>tree, shaft of spear</span>'</td>
+<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td style="white-space: nowrap;"><i>ɣai-</i></td>
+<td>'<span>tree, shaft of spear</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>ʔai</i></td>
-<td>
-'<span>branch, tree, stick; woody plant (shrub, tree)</span>'</td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td style="white-space: nowrap;"><i>ʔai</i></td>
+<td>'<span>branch, tree, stick; woody plant (shrub, tree)</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>ʔai</i></td>
-<td>
-'<span>tree or plant with stem and branches; not used of a fern cycad, sago palm, coconut etc, but used of small plants, eg. balsam.</span>'</td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td style="white-space: nowrap;"><i>ʔai</i></td>
+<td>'<span>tree or plant with stem and branches; not used of a fern cycad, sago palm, coconut etc, but used of small plants, eg. balsam.</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/ambae">Ambae</a></td><td><i>kai</i></td>
-<td>
-'<span>tree, wood</span>'</td>
+<td>NCV</td><td><a href="../languages/ambae">Ambae</a></td><td style="white-space: nowrap;"><i>kai</i></td>
+<td>'<span>tree, wood</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td><i>āi</i></td>
-<td>
-'<span>tree, wood, stick</span>'</td>
+<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td style="white-space: nowrap;"><i>āi</i></td>
+<td>'<span>tree, wood, stick</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/nguna">Nguna</a></td><td><i>na-kau</i></td>
-<td>
-'<span>tree</span>'</td>
+<td>NCV</td><td><a href="../languages/nguna">Nguna</a></td><td style="white-space: nowrap;"><i>na-kau</i></td>
+<td>'<span>tree</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>inɣai</i></td>
-<td>
-'<span>tree, wood, often used for relatively small bushes</span>'</td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td style="white-space: nowrap;"><i>inɣai</i></td>
+<td>'<span>tree, wood, often used for relatively small bushes</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td><a href="../languages/xaracuu">Xârâcùù</a></td><td><i>kʷãã</i></td>
-<td>
-'<span>wood, tree (general term)</span>'</td>
+<td>NCal</td><td><a href="../languages/xaracuu">Xârâcùù</a></td><td style="white-space: nowrap;"><i>kʷãã</i></td>
+<td>'<span>wood, tree (general term)</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>kai</i></td>
-<td>
-'<span>wood (in general), tree, plant, stick</span>'</td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>kai</i></td>
+<td>'<span>wood (in general), tree, plant, stick</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td><i>eyi-</i></td>
-<td>
-'<span>stick, tree, pole</span>' (<span>only used in compounds</span>)</td>
+<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td style="white-space: nowrap;"><i>eyi-</i></td>
+<td>'<span>stick, tree, pole</span>' (<span>only used in compounds</span>)</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/ulithian">Ulithian</a></td><td><i>-xæy</i></td>
-<td>
-'<span>counting classifier for trees</span>'</td>
+<td>Mic</td><td><a href="../languages/ulithian">Ulithian</a></td><td style="white-space: nowrap;"><i>-xæy</i></td>
+<td>'<span>counting classifier for trees</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td><i>ʔai</i></td>
-<td>
-'<span>tree, plant; wood, timber, piece of wood</span>'</td>
+<td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td style="white-space: nowrap;"><i>ʔai</i></td>
+<td>'<span>tree, plant; wood, timber, piece of wood</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>kau</i></td>
-<td>
-'<span>tree, piece of wood, stick</span>'</td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td style="white-space: nowrap;"><i>kau</i></td>
+<td>'<span>tree, piece of wood, stick</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/kadavu">Kadavu</a></td><td><i>kaðu</i></td>
-<td>
-'<span>tree</span>'</td>
+<td>Fij</td><td><a href="../languages/kadavu">Kadavu</a></td><td style="white-space: nowrap;"><i>kaðu</i></td>
+<td>'<span>tree</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>kai</i></td>
-<td>
-'<span>wood; generic for trees and shrubs, and occasionally also low bushy plants; used in certain compounds as generic for all plants; piece of wood, stick</span>'</td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td style="white-space: nowrap;"><i>kai</i></td>
+<td>'<span>wood; generic for trees and shrubs, and occasionally also low bushy plants; used in certain compounds as generic for all plants; piece of wood, stick</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>kau</i></td>
-<td>
-'<span>stalk, stem</span>'</td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td style="white-space: nowrap;"><i>kau</i></td>
+<td>'<span>stalk, stem</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>kau</i></td>
-<td>
-'<span>stalk, stem supporting bunch of fruit</span>'</td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td style="white-space: nowrap;"><i>kau</i></td>
+<td>'<span>stalk, stem supporting bunch of fruit</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>ʔau</i></td>
-<td>
-'<span>stalk; shaft, axle; handle</span>'</td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>ʔau</i></td>
+<td>'<span>stalk; shaft, axle; handle</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>ʔau</i></td>
-<td>
-'<span>handle, staff, stem, bone of lower arm or leg</span>'</td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td style="white-space: nowrap;"><i>ʔau</i></td>
+<td>'<span>handle, staff, stem, bone of lower arm or leg</span>'</td>
 </tr>
 </table>
 
@@ -861,48 +812,39 @@ In Polynesian languages there has been a semantic shift and the reflexes of _&as
 <td style="white-space: nowrap;">
 <i>&ast;raʔakau</i>
 </td>
-<td>
-'<span>generic term for tree or woody plant; wood, timber; generic for all plants</span>' (<span>POLLEX</span>)</td>
+<td>'<span>generic term for tree or woody plant; wood, timber; generic for all plants</span>' (<span>POLLEX</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td><i>akau</i></td>
-<td>
-'<span>wood, tree</span>'</td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td style="white-space: nowrap;"><i>akau</i></td>
+<td>'<span>wood, tree</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>ʔakau</i></td>
-<td>
-'<span>tree, plant; wood</span>'</td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td style="white-space: nowrap;"><i>ʔakau</i></td>
+<td>'<span>tree, plant; wood</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/eastfutunan">East Futunan</a></td><td><i>laʔakau</i></td>
-<td>
-'<span>tree, bush, shrub; wood, plant</span>'</td>
+<td>Pn</td><td><a href="../languages/eastfutunan">East Futunan</a></td><td style="white-space: nowrap;"><i>laʔakau</i></td>
+<td>'<span>tree, bush, shrub; wood, plant</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td><i>gaʔakau</i></td>
-<td>
-'<span>tree, bush, shrub, log, stick</span>'</td>
+<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td style="white-space: nowrap;"><i>gaʔakau</i></td>
+<td>'<span>tree, bush, shrub, log, stick</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>rakau</i></td>
-<td>
-'<span>generic term for member of vegetable kingdom, usually woody plant, including tree, shrub, herb, but not applied to root vegetable or grass</span>'</td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td style="white-space: nowrap;"><i>rakau</i></td>
+<td>'<span>generic term for member of vegetable kingdom, usually woody plant, including tree, shrub, herb, but not applied to root vegetable or grass</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>lāʔau</i></td>
-<td>
-'<span>plant, tree</span>'</td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>lāʔau</i></td>
+<td>'<span>plant, tree</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>lāʔau</i></td>
-<td>
-'<span>tree, plant, wood, timber</span>'</td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td style="white-space: nowrap;"><i>lāʔau</i></td>
+<td>'<span>tree, plant, wood, timber</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>rākau</i></td>
-<td>
-'<span>tree; wood, timber; stick</span>'</td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td style="white-space: nowrap;"><i>rākau</i></td>
+<td>'<span>tree; wood, timber; stick</span>'</td>
 </tr>
 </table>
 
@@ -937,8 +879,7 @@ The final consonant of the POc form is reconstructed as _&ast;c_ rather than _&a
 <td style="white-space: nowrap;">
 <i>&ast;waRej</i>
 </td>
-<td>
-'<span>vine, creeper</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>vine, creeper</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -946,113 +887,91 @@ The final consonant of the POc form is reconstructed as _&ast;c_ rather than _&a
 <td style="white-space: nowrap;">
 <i>&ast;waRoc</i>
 </td>
-<td>
-'<span>generic term for vines and creepers, plants with creeping or climbing growth structure; string, rope</span>'</td>
+<td>'<span>generic term for vines and creepers, plants with creeping or climbing growth structure; string, rope</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/wuvulu">Wuvulu</a></td><td><i>wao</i></td>
-<td>
-'<span>rope, vein, tendon</span>'</td>
+<td>Adm</td><td><a href="../languages/wuvulu">Wuvulu</a></td><td style="white-space: nowrap;"><i>wao</i></td>
+<td>'<span>rope, vein, tendon</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/bing">Bing</a></td><td><i>war</i></td>
-<td>
-'<span>vine (generic)</span>'</td>
+<td>NNG</td><td><a href="../languages/bing">Bing</a></td><td style="white-space: nowrap;"><i>war</i></td>
+<td>'<span>vine (generic)</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/gedaged">Gedaged</a></td><td><i>wal̥</i></td>
-<td>
-'<span>vine, liana</span>'</td>
+<td>NNG</td><td><a href="../languages/gedaged">Gedaged</a></td><td style="white-space: nowrap;"><i>wal̥</i></td>
+<td>'<span>vine, liana</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/iduna">Iduna</a></td><td><i>waloga-</i></td>
-<td>
-'<span>vein</span>'</td>
+<td>PT</td><td><a href="../languages/iduna">Iduna</a></td><td style="white-space: nowrap;"><i>waloga-</i></td>
+<td>'<span>vein</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/misima">Misima</a></td><td><i>wal</i></td>
-<td>
-'<span>stem (of mustard vine)</span>'</td>
+<td>PT</td><td><a href="../languages/misima">Misima</a></td><td style="white-space: nowrap;"><i>wal</i></td>
+<td>'<span>stem (of mustard vine)</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/motu">Motu</a></td><td><i>varovaro</i></td>
-<td>
-'<span>vines of all kinds</span>'</td>
+<td>PT</td><td><a href="../languages/motu">Motu</a></td><td style="white-space: nowrap;"><i>varovaro</i></td>
+<td>'<span>vines of all kinds</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td><i>ualo</i></td>
-<td>
-'<span>cord, thread</span>'</td>
+<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td style="white-space: nowrap;"><i>ualo</i></td>
+<td>'<span>cord, thread</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td><i>aroso</i></td>
-<td>
-'<span>general name for vines and creepers</span>'</td>
+<td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td style="white-space: nowrap;"><i>aroso</i></td>
+<td>'<span>general name for vines and creepers</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/marovo">Marovo</a></td><td><i>adoso</i></td>
-<td>
-'<span>vine, creeping or climbing, general term; climbing vines of <em>Calamus</em> types (lawyer cane)</span>'</td>
+<td>MM</td><td><a href="../languages/marovo">Marovo</a></td><td style="white-space: nowrap;"><i>adoso</i></td>
+<td>'<span>vine, creeping or climbing, general term; climbing vines of <em>Calamus</em> types (lawyer cane)</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>alo</i></td>
-<td>
-'<span>a creeper, string</span>'</td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td style="white-space: nowrap;"><i>alo</i></td>
+<td>'<span>a creeper, string</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td><i>aðo</i></td>
-<td>
-'<span>rope, cord, creeper</span>'</td>
+<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td style="white-space: nowrap;"><i>aðo</i></td>
+<td>'<span>rope, cord, creeper</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/tolo">Tolo</a></td><td><i>alo</i></td>
-<td>
-'<span>generic name for vines; rope, string</span>'</td>
+<td>SES</td><td><a href="../languages/tolo">Tolo</a></td><td style="white-space: nowrap;"><i>alo</i></td>
+<td>'<span>generic name for vines; rope, string</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>kʷalo</i></td>
-<td>
-'<span>a vine of yam, sweet potato etc</span>'</td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td style="white-space: nowrap;"><i>kʷalo</i></td>
+<td>'<span>a vine of yam, sweet potato etc</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>kʷalo</i></td>
-<td>
-'<span>vine, string, rope</span>'</td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td style="white-space: nowrap;"><i>kʷalo</i></td>
+<td>'<span>vine, string, rope</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td><i>waro</i></td>
-<td>
-'<span>a liana, string, rope</span>'</td>
+<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>waro</i></td>
+<td>'<span>a liana, string, rope</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>walo</i></td>
-<td>
-'<span>a creeper, rope, string, line, vine</span>'</td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>walo</i></td>
+<td>'<span>a creeper, rope, string, line, vine</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>waro</i></td>
-<td>
-'<span>a piece of string, twine; prefix to names of creepers</span>'</td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td style="white-space: nowrap;"><i>waro</i></td>
+<td>'<span>a piece of string, twine; prefix to names of creepers</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td><i>waro-waro</i></td>
-<td>
-'<span>vines</span>'</td>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td style="white-space: nowrap;"><i>waro-waro</i></td>
+<td>'<span>vines</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>inwau</i></td>
-<td>
-'<span>vine; rope (traditional), string; sinew, tendon, vein</span>' (<span>also occurs as initial element in a number of names of vine species.</span>)</td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td style="white-space: nowrap;"><i>inwau</i></td>
+<td>'<span>vine; rope (traditional), string; sinew, tendon, vein</span>' (<span>also occurs as initial element in a number of names of vine species.</span>)</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>wā</i></td>
-<td>
-'<span>a vine, creeper of any kind</span>' (<span>also occurs as initial element in a number of names of vine species</span>)</td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td style="white-space: nowrap;"><i>wā</i></td>
+<td>'<span>a vine, creeper of any kind</span>' (<span>also occurs as initial element in a number of names of vine species</span>)</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>wā</i></td>
-<td>
-'<span>generic for scrambling and climbing plants; creeper, vine</span>'</td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td style="white-space: nowrap;"><i>wā</i></td>
+<td>'<span>generic for scrambling and climbing plants; creeper, vine</span>'</td>
 </tr>
 </table>
 
@@ -1075,8 +994,7 @@ POc _&ast;pali[s,j]i_ appears to have been the generic for plants lacking a main
 <td style="white-space: nowrap;">
 <i>&ast;bali(j,z)i</i>
 </td>
-<td>
-'<span>(type of ?) grass</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>(type of ?) grass</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
@@ -1084,119 +1002,96 @@ POc _&ast;pali[s,j]i_ appears to have been the generic for plants lacking a main
 <td style="white-space: nowrap;">
 <i>&ast;pali[s,j]i</i>
 </td>
-<td>
-'<span>generic term for grasses and other grass-like plants</span>' (<a href="../sources/Grace1961">Grace1961</a>: <span>*palisi</span>)
+<td>'<span>generic term for grasses and other grass-like plants</span>' (<a href="../sources/Grace1961">Grace1961</a>: <span>*palisi</span>)
 </td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/nauna">Nauna</a></td><td><i>pelic</i></td>
-<td>
-'<span>grass</span>'</td>
+<td>Adm</td><td><a href="../languages/nauna">Nauna</a></td><td style="white-space: nowrap;"><i>pelic</i></td>
+<td>'<span>grass</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/pak">Pak</a></td><td><i>penit</i></td>
-<td>
-'<span>grass</span>'</td>
+<td>Adm</td><td><a href="../languages/pak">Pak</a></td><td style="white-space: nowrap;"><i>penit</i></td>
+<td>'<span>grass</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/poeng">Poeng</a></td><td><i>paili</i></td>
-<td>
-'<span>grass</span>'</td>
+<td>NNG</td><td><a href="../languages/poeng">Poeng</a></td><td style="white-space: nowrap;"><i>paili</i></td>
+<td>'<span>grass</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/tami">Tami</a></td><td><i>ijili</i></td>
-<td>
-'<span>grass</span>'</td>
+<td>NNG</td><td><a href="../languages/tami">Tami</a></td><td style="white-space: nowrap;"><i>ijili</i></td>
+<td>'<span>grass</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/lihir">Lihir</a></td><td><i>palic</i></td>
-<td>
-'<span>grass</span>'</td>
+<td>MM</td><td><a href="../languages/lihir">Lihir</a></td><td style="white-space: nowrap;"><i>palic</i></td>
+<td>'<span>grass</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td><i>wali</i></td>
-<td>
-'<span>grass</span>'</td>
+<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td style="white-space: nowrap;"><i>wali</i></td>
+<td>'<span>grass</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/halia">Halia</a></td><td><i>halisi</i></td>
-<td>
-'<span>grass</span>'</td>
+<td>MM</td><td><a href="../languages/halia">Halia</a></td><td style="white-space: nowrap;"><i>halisi</i></td>
+<td>'<span>grass</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>falisi</i></td>
-<td>
-'<span>grassy undergrowth (generic); yam harvest</span>'</td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td style="white-space: nowrap;"><i>falisi</i></td>
+<td>'<span>grassy undergrowth (generic); yam harvest</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td><i>harisi</i></td>
-<td>
-'<span>grass, small clover</span>'</td>
+<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>harisi</i></td>
+<td>'<span>grass, small clover</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>ha-halisi</i></td>
-<td>
-'<span>grass</span>'</td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>ha-halisi</i></td>
+<td>'<span>grass</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/ulawa">Ulawa</a></td><td><i>hälisi</i></td>
-<td>
-'<span>grass, onion (late use)</span>'</td>
+<td>SES</td><td><a href="../languages/ulawa">Ulawa</a></td><td style="white-space: nowrap;"><i>hälisi</i></td>
+<td>'<span>grass, onion (late use)</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>valis</i></td>
-<td>
-'<span>a tall coarse grass; in recent use grass generally and onions</span>'</td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td style="white-space: nowrap;"><i>valis</i></td>
+<td>'<span>a tall coarse grass; in recent use grass generally and onions</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/mwotlap">Mwotlap</a></td><td><i>vlih</i></td>
-<td>
-'<span>grass, turf (Gramineae), <em>Thuarea involuta</em></span>' (<span><em>na-plih</em></span>)</td>
+<td>NCV</td><td><a href="../languages/mwotlap">Mwotlap</a></td><td style="white-space: nowrap;"><i>vlih</i></td>
+<td>'<span>grass, turf (Gramineae), <em>Thuarea involuta</em></span>' (<span><em>na-plih</em></span>)</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/wusi">Wusi</a></td><td><i>palihi</i></td>
-<td>
-'<span>grass</span>'</td>
+<td>NCV</td><td><a href="../languages/wusi">Wusi</a></td><td style="white-space: nowrap;"><i>palihi</i></td>
+<td>'<span>grass</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/morouas">Morouas</a></td><td><i>βalisi</i></td>
-<td>
-'<span>grass</span>'</td>
+<td>NCV</td><td><a href="../languages/morouas">Morouas</a></td><td style="white-space: nowrap;"><i>βalisi</i></td>
+<td>'<span>grass</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/sye">Sye</a></td><td><i>(novl)ovsi</i></td>
-<td>
-'<span>buffalo grass (<em>Stenotaphrum secundatum</em>)</span>' (<span>cf. <em>novol</em> 'kind of plant; initial element for plant names including a grass, a fern and two tree-ferns'</span>)</td>
+<td>SV</td><td><a href="../languages/sye">Sye</a></td><td style="white-space: nowrap;"><i>(novl)ovsi</i></td>
+<td>'<span>buffalo grass (<em>Stenotaphrum secundatum</em>)</span>' (<span>cf. <em>novol</em> 'kind of plant; initial element for plant names including a grass, a fern and two tree-ferns'</span>)</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/swtanna">S.W. Tanna</a></td><td><i>nə-vhilək</i></td>
-<td>
-'<span>a kind of grass</span>'[^8]</td>
+<td>SV</td><td><a href="../languages/swtanna">Southwest Tanna</a></td><td style="white-space: nowrap;"><i>nə-vhilək</i></td>
+<td>'<span>a kind of grass</span>'[^8]</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>ne-pces</i></td>
-<td>
-'<span>a kind of grass</span>'</td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td style="white-space: nowrap;"><i>ne-pces</i></td>
+<td>'<span>a kind of grass</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td><i>fetiɾi</i></td>
-<td>
-'<span>grass</span>'</td>
+<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td style="white-space: nowrap;"><i>fetiɾi</i></td>
+<td>'<span>grass</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/carolinian">Carolinian</a></td><td><i>fitili, fetili</i></td>
-<td>
-'<span>grass</span>'</td>
+<td>Mic</td><td><a href="../languages/carolinian">Carolinian</a></td><td style="white-space: nowrap;"><i>fitili, fetili</i></td>
+<td>'<span>grass</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>fatili</i></td>
-<td>
-'<span>grass (<em>Thuarea involuta</em> or <em>Stenotaphrum</em>)</span>'</td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td style="white-space: nowrap;"><i>fatili</i></td>
+<td>'<span>grass (<em>Thuarea involuta</em> or <em>Stenotaphrum</em>)</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>falī</i></td>
-<td>
-'<span>kind of grass(? <em>Scirpodendron</em> species)</span>'[^9]</td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>falī</i></td>
+<td>'<span>kind of grass(? <em>Scirpodendron</em> species)</span>'[^9]</td>
 </tr>
 </table>
 
@@ -1230,154 +1125,124 @@ Evidence from non-Oceanic languages suggests that _&ast;lumut_ may have been the
 <td style="white-space: nowrap;">
 <i>&ast;lumut</i>
 </td>
-<td>
-'<span>generic term for mosses, algaes and seaweeds</span>' (<a href="../sources/Capell1943">Capell1943</a>)
+<td>'<span>generic term for mosses, algaes and seaweeds</span>' (<a href="../sources/Capell1943">Capell1943</a>)
 </td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/lou">Lou</a></td><td><i>lum</i></td>
-<td>
-'<span>seaweed; weed/grass growing in sea water</span>'</td>
+<td>Adm</td><td><a href="../languages/lou">Lou</a></td><td style="white-space: nowrap;"><i>lum</i></td>
+<td>'<span>seaweed; weed/grass growing in sea water</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td><i>lumta</i></td>
-<td>
-'<span>moss</span>'</td>
+<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td style="white-space: nowrap;"><i>lumta</i></td>
+<td>'<span>moss</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/mangap">Mangap</a></td><td><i>lum</i></td>
-<td>
-'<span>algae, green slimy growth on trees, stones etc under water</span>'</td>
+<td>NNG</td><td><a href="../languages/mangap">Mangap</a></td><td style="white-space: nowrap;"><i>lum</i></td>
+<td>'<span>algae, green slimy growth on trees, stones etc under water</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/iduna">Iduna</a></td><td><i>nunu(bʷana)</i></td>
-<td>
-'<span>moss, slime on ground</span>' (<span>cf. <em>bʷana</em> 'phlegm'</span>)</td>
+<td>PT</td><td><a href="../languages/iduna">Iduna</a></td><td style="white-space: nowrap;"><i>nunu(bʷana)</i></td>
+<td>'<span>moss, slime on ground</span>' (<span>cf. <em>bʷana</em> 'phlegm'</span>)</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/muyuw">Muyuw</a></td><td><i>numt</i></td>
-<td>
-'<span>moss</span>'</td>
+<td>PT</td><td><a href="../languages/muyuw">Muyuw</a></td><td style="white-space: nowrap;"><i>numt</i></td>
+<td>'<span>moss</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td><i>lumu</i></td>
-<td>
-'<span>moss, incl. <em>Psilotum nudum</em>, <em>Microsorum</em> species</span>'</td>
+<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td style="white-space: nowrap;"><i>lumu</i></td>
+<td>'<span>moss, incl. <em>Psilotum nudum</em>, <em>Microsorum</em> species</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/nduke">Nduke</a></td><td><i>lu-lumutu</i></td>
-<td>
-'<span>a general name for green algae that grows inside concrete tanks etc. and moss that grows on trees</span>'</td>
+<td>MM</td><td><a href="../languages/nduke">Nduke</a></td><td style="white-space: nowrap;"><i>lu-lumutu</i></td>
+<td>'<span>a general name for green algae that grows inside concrete tanks etc. and moss that grows on trees</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td><i>lumu-lumutu</i></td>
-<td>
-'<span>a variety of moss; a marine alga</span>'</td>
+<td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td style="white-space: nowrap;"><i>lumu-lumutu</i></td>
+<td>'<span>a variety of moss; a marine alga</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>lumu</i></td>
-<td>
-'<span>moss, weeds on keel</span>'</td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td style="white-space: nowrap;"><i>lumu</i></td>
+<td>'<span>moss, weeds on keel</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td><i>lumu(sa)</i></td>
-<td>
-'<span>moss</span>'</td>
+<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td style="white-space: nowrap;"><i>lumu(sa)</i></td>
+<td>'<span>moss</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/tolo">Tolo</a></td><td><i>lumu-lumu</i></td>
-<td>
-'<span>moss</span>'</td>
+<td>SES</td><td><a href="../languages/tolo">Tolo</a></td><td style="white-space: nowrap;"><i>lumu-lumu</i></td>
+<td>'<span>moss</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/longgu">Longgu</a></td><td><i>lumu-lumu</i></td>
-<td>
-'<span>moss</span>'</td>
+<td>SES</td><td><a href="../languages/longgu">Longgu</a></td><td style="white-space: nowrap;"><i>lumu-lumu</i></td>
+<td>'<span>moss</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>lumu</i></td>
-<td>
-'<span>moss</span>'</td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td style="white-space: nowrap;"><i>lumu</i></td>
+<td>'<span>moss</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/lau">Lau</a></td><td><i>lu-lumu</i></td>
-<td>
-'<span>moss, lichen growth on ship's keel</span>'</td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td style="white-space: nowrap;"><i>lu-lumu</i></td>
+<td>'<span>moss, lichen growth on ship's keel</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td><i>rumu</i></td>
-<td>
-'<span>seaweed, moss on trees, used in ceremonial purification</span>'</td>
+<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>rumu</i></td>
+<td>'<span>seaweed, moss on trees, used in ceremonial purification</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>lumu(te)</i></td>
-<td>
-'<span>moss</span>'</td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>lumu(te)</i></td>
+<td>'<span>moss</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td><i>lumu(ta)</i></td>
-<td>
-'<span>moss</span>'</td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td style="white-space: nowrap;"><i>lumu(ta)</i></td>
+<td>'<span>moss</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/ambae">Ambae</a></td><td><i>lumu(si)</i></td>
-<td>
-'<span>moss</span>'</td>
+<td>NCV</td><td><a href="../languages/ambae">Ambae</a></td><td style="white-space: nowrap;"><i>lumu(si)</i></td>
+<td>'<span>moss</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/tamambo">Tamambo</a></td><td><i>lum-lum</i></td>
-<td>
-'<span>moss, lichen; k.o. seaweed</span>'</td>
+<td>NCV</td><td><a href="../languages/tamambo">Tamambo</a></td><td style="white-space: nowrap;"><i>lum-lum</i></td>
+<td>'<span>moss, lichen; k.o. seaweed</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/vures">Vurës</a></td><td><i>lum-lum</i></td>
-<td>
-'<span>moss, seaweed, algae</span>' (<span>cf. <em>mölumlum</em> 'soft, slow'</span>)</td>
+<td>NCV</td><td><a href="../languages/vures">Vurës</a></td><td style="white-space: nowrap;"><i>lum-lum</i></td>
+<td>'<span>moss, seaweed, algae</span>' (<span>cf. <em>mölumlum</em> 'soft, slow'</span>)</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/lewo">Lewo</a></td><td><i>lum-lum</i></td>
-<td>
-'<span>slime in sea</span>'</td>
+<td>NCV</td><td><a href="../languages/lewo">Lewo</a></td><td style="white-space: nowrap;"><i>lum-lum</i></td>
+<td>'<span>slime in sea</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/nguna">Nguna</a></td><td><i>na-lumu-lumu</i></td>
-<td>
-'<span>moss, sponge, algae</span>'</td>
+<td>NCV</td><td><a href="../languages/nguna">Nguna</a></td><td style="white-space: nowrap;"><i>na-lumu-lumu</i></td>
+<td>'<span>moss, sponge, algae</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td><i>lum-lum</i></td>
-<td>
-'<span>moss, slime, seaweed</span>'</td>
+<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td style="white-space: nowrap;"><i>lum-lum</i></td>
+<td>'<span>moss, slime, seaweed</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>ne-lomʷ</i></td>
-<td>
-'<span>moss, hanging algae</span>'</td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td style="white-space: nowrap;"><i>ne-lomʷ</i></td>
+<td>'<span>moss, hanging algae</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/lenakel">Lenakel</a></td><td><i>ləmus</i></td>
-<td>
-'<span>moss, algae, seaweed</span>'</td>
+<td>SV</td><td><a href="../languages/lenakel">Lenakel</a></td><td style="white-space: nowrap;"><i>ləmus</i></td>
+<td>'<span>moss, algae, seaweed</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>ɾumʷu</i></td>
-<td>
-'<span>moss, seaweed; to be covered with moss, having moss</span>'</td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td style="white-space: nowrap;"><i>ɾumʷu</i></td>
+<td>'<span>moss, seaweed; to be covered with moss, having moss</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/carolinian">Carolinian</a></td><td><i>lūmʷ</i></td>
-<td>
-'<span>moss; seaweed variety that grows luxuriantly on rocks and sunken vessels and that breaks off and washes onto shore</span>'</td>
+<td>Mic</td><td><a href="../languages/carolinian">Carolinian</a></td><td style="white-space: nowrap;"><i>lūmʷ</i></td>
+<td>'<span>moss; seaweed variety that grows luxuriantly on rocks and sunken vessels and that breaks off and washes onto shore</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td><i>ɾūmʷ</i></td>
-<td>
-'<span>seaweed, moss; sea algae, scum</span>'</td>
+<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td style="white-space: nowrap;"><i>ɾūmʷ</i></td>
+<td>'<span>seaweed, moss; sea algae, scum</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td><i>lumu</i></td>
-<td>
-'<span>seaweed, moss</span>'</td>
+<td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td style="white-space: nowrap;"><i>lumu</i></td>
+<td>'<span>seaweed, moss</span>'</td>
 </tr>
 </table>
 
@@ -1389,89 +1254,72 @@ Evidence from non-Oceanic languages suggests that _&ast;lumut_ may have been the
 <td style="white-space: nowrap;">
 <i>&ast;limut</i>
 </td>
-<td>
-'<span>generic term for mosses, algaes and seaweeds</span>' (<a href="../sources/Biggs1965">Biggs1965</a>: <span><em>*timu</em></span>)
+<td>'<span>generic term for mosses, algaes and seaweeds</span>' (<a href="../sources/Biggs1965">Biggs1965</a>: <span><em>*timu</em></span>)
 </td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/misima">Misima</a></td><td><i>nimút</i></td>
-<td>
-'<span>moss</span>'</td>
+<td>PT</td><td><a href="../languages/misima">Misima</a></td><td style="white-space: nowrap;"><i>nimút</i></td>
+<td>'<span>moss</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td><i>limut</i></td>
-<td>
-[N] '<span>green colour or mossy growth on a canoe which has been standing in the water, seaweed, slime</span>'; [ADJ] '<span>green, blue, moss-green, colour of moss</span>'</td>
+<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td style="white-space: nowrap;"><i>limut</i></td>
+<td>[N] '<span>green colour or mossy growth on a canoe which has been standing in the water, seaweed, slime</span>'; [ADJ] '<span>green, blue, moss-green, colour of moss</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td><i>limut</i></td>
-<td>
-'<span>seaweed, slime; blue</span>'</td>
+<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td style="white-space: nowrap;"><i>limut</i></td>
+<td>'<span>seaweed, slime; blue</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/karaeast">Kara (East)</a></td><td><i>limut</i></td>
-<td>
-'<span>tree moss</span>'</td>
+<td>MM</td><td><a href="../languages/karaeast">Kara (East)</a></td><td style="white-space: nowrap;"><i>limut</i></td>
+<td>'<span>tree moss</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/sursurunga">Sursurunga</a></td><td><i>milut</i></td>
-<td>
-'<span>moss</span>' (<span>metathesis</span>)</td>
+<td>MM</td><td><a href="../languages/sursurunga">Sursurunga</a></td><td style="white-space: nowrap;"><i>milut</i></td>
+<td>'<span>moss</span>' (<span>metathesis</span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tinputz">Tinputz</a></td><td><i>nimus</i></td>
-<td>
-'<span>moss</span>'</td>
+<td>MM</td><td><a href="../languages/tinputz">Tinputz</a></td><td style="white-space: nowrap;"><i>nimus</i></td>
+<td>'<span>moss</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/namakir">Namakir</a></td><td><i>limi-lim</i></td>
-<td>
-'<span>seaweed, sea moss</span>'</td>
+<td>NCV</td><td><a href="../languages/namakir">Namakir</a></td><td style="white-space: nowrap;"><i>limi-lim</i></td>
+<td>'<span>seaweed, sea moss</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/swtanna">S.W. Tanna</a></td><td><i>ləmus</i></td>
-<td>
-'<span>moss, algae</span>'</td>
+<td>SV</td><td><a href="../languages/swtanna">Southwest Tanna</a></td><td style="white-space: nowrap;"><i>ləmus</i></td>
+<td>'<span>moss, algae</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/mokilese">Mokilese</a></td><td><i>limʷ</i></td>
-<td>
-'<span>seaweed, sponge, moss</span>'</td>
+<td>Mic</td><td><a href="../languages/mokilese">Mokilese</a></td><td style="white-space: nowrap;"><i>limʷ</i></td>
+<td>'<span>seaweed, sponge, moss</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td><i>limɯ-limɯ</i></td>
-<td>
-'<span>moss</span>'</td>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td style="white-space: nowrap;"><i>limɯ-limɯ</i></td>
+<td>'<span>moss</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>lumi</i></td>
-<td>
-'<span>moss, adhering to a rock or a boat; a kind of edible seaweed</span>'</td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td style="white-space: nowrap;"><i>lumi</i></td>
+<td>'<span>moss, adhering to a rock or a boat; a kind of edible seaweed</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>lume-lume</i></td>
-<td>
-'<span>algae, green slime which grows on reefs and keels of boats, and in rivers and ponds</span>'</td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td style="white-space: nowrap;"><i>lume-lume</i></td>
+<td>'<span>algae, green slime which grows on reefs and keels of boats, and in rivers and ponds</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>limu</i></td>
-<td>
-'<span>seaweed, moss, lichen</span>' (<span>cf. <em>limu tahi</em> 'seaweed ', <em>limu ʔuta</em> 'moss, lichen'</span>)</td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td style="white-space: nowrap;"><i>limu</i></td>
+<td>'<span>seaweed, moss, lichen</span>' (<span>cf. <em>limu tahi</em> 'seaweed ', <em>limu ʔuta</em> 'moss, lichen'</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>limu</i></td>
-<td>
-'<span>general name given to mosses, lichens, algae, and seaweeds</span>' (<span>Also initial element in a number of plant names.</span>)</td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>limu</i></td>
+<td>'<span>general name given to mosses, lichens, algae, and seaweeds</span>' (<span>Also initial element in a number of plant names.</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td><i>limu</i></td>
-<td>
-'<span>a general name for all kinds of plants living under water, both fresh and salt, also algae living in any damp place in air, as on ground, on rocks and on other plants; also mosses, liverworts, lichens</span>'</td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td style="white-space: nowrap;"><i>limu</i></td>
+<td>'<span>a general name for all kinds of plants living under water, both fresh and salt, also algae living in any damp place in air, as on ground, on rocks and on other plants; also mosses, liverworts, lichens</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>rimu, rimu-rimu</i></td>
-<td>
-'<span>seaweed; moss, mildew</span>'</td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td style="white-space: nowrap;"><i>rimu, rimu-rimu</i></td>
+<td>'<span>seaweed; moss, mildew</span>'</td>
 </tr>
 </table>
 
@@ -1494,139 +1342,112 @@ In a number of modern Oceanic languages the life-form term for mushrooms and oth
 <td style="white-space: nowrap;">
 <i>&ast;taliŋa</i>
 </td>
-<td>
-'<span>generic term for mushrooms and fleshy fungi; ear</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>generic term for mushrooms and fleshy fungi; ear</span>' (<a href="../sources/Blust1995">Blust1995</a>)
 </td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/poeng">Poeng</a></td><td><i>taliŋ</i></td>
-<td>
-'<span>mushroom</span>'</td>
+<td>NNG</td><td><a href="../languages/poeng">Poeng</a></td><td style="white-space: nowrap;"><i>taliŋ</i></td>
+<td>'<span>mushroom</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/dami">Dami</a></td><td><i>talik</i></td>
-<td>
-'<span>fungus, mushroom</span>'</td>
+<td>NNG</td><td><a href="../languages/dami">Dami</a></td><td style="white-space: nowrap;"><i>talik</i></td>
+<td>'<span>fungus, mushroom</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/hote">Hote</a></td><td><i>taliŋ</i></td>
-<td>
-'<span>mushroom</span>'</td>
+<td>NNG</td><td><a href="../languages/hote">Hote</a></td><td style="white-space: nowrap;"><i>taliŋ</i></td>
+<td>'<span>mushroom</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/sissanoarop">Sissano-Arop</a></td><td><i>tɛlin</i></td>
-<td>
-'<span>mushrooms, edible</span>'</td>
+<td>NNG</td><td><a href="../languages/sissanoarop">Sissano-Arop</a></td><td style="white-space: nowrap;"><i>tɛlin</i></td>
+<td>'<span>mushrooms, edible</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td><i>taliga</i></td>
-<td>
-'<span>a small edible fungus, Lensites</span>'</td>
+<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td style="white-space: nowrap;"><i>taliga</i></td>
+<td>'<span>a small edible fungus, Lensites</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/gela">Gela</a></td><td><i>taliŋa</i></td>
-<td>
-'<span>fungus, mushroom on <em>mbiluma</em> tree</span>'</td>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td style="white-space: nowrap;"><i>taliŋa</i></td>
+<td>'<span>fungus, mushroom on <em>mbiluma</em> tree</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/tolo">Tolo</a></td><td><i>taliŋe</i></td>
-<td>
-'<span>generic name for mushrooms</span>'</td>
+<td>SES</td><td><a href="../languages/tolo">Tolo</a></td><td style="white-space: nowrap;"><i>taliŋe</i></td>
+<td>'<span>generic name for mushrooms</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td><i>aliŋa</i></td>
-<td>
-'<span>mushroom</span>'</td>
+<td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td style="white-space: nowrap;"><i>aliŋa</i></td>
+<td>'<span>mushroom</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td><i>ʔäliŋe</i></td>
-<td>
-'<span>mushroom, large fungus</span>'</td>
+<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>ʔäliŋe</i></td>
+<td>'<span>mushroom, large fungus</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td><i>raliŋen asu</i></td>
-<td>
-'<span>kind of fungus which grows on dry wood</span>'</td>
+<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td style="white-space: nowrap;"><i>raliŋen asu</i></td>
+<td>'<span>kind of fungus which grows on dry wood</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>inticŋa-</i></td>
-<td>
-'<span>ear; initial element in a number of compounds denoting mushrooms</span>'</td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td style="white-space: nowrap;"><i>inticŋa-</i></td>
+<td>'<span>ear; initial element in a number of compounds denoting mushrooms</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>inticŋa-nɣai</i></td>
-<td>
-'<span>mushroom (arboreal)</span>' (<span>cf. <em>in-ɣai</em> 'tree'</span>)</td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td style="white-space: nowrap;"><i>inticŋa-nɣai</i></td>
+<td>'<span>mushroom (arboreal)</span>' (<span>cf. <em>in-ɣai</em> 'tree'</span>)</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>inticŋa-pʷohtan</i></td>
-<td>
-'<span>mushroom (terrestrial)</span>'</td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td style="white-space: nowrap;"><i>inticŋa-pʷohtan</i></td>
+<td>'<span>mushroom (terrestrial)</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td><i>inticŋa-numu</i></td>
-<td>
-'<span>kind of edible mushroom</span>' (<span>cf. <em>numu</em> 'fish, marine creature'</span>)</td>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td style="white-space: nowrap;"><i>inticŋa-numu</i></td>
+<td>'<span>kind of edible mushroom</span>' (<span>cf. <em>numu</em> 'fish, marine creature'</span>)</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td><i>taniŋaniba</i></td>
-<td>
-'<span>mushroom-like fungus growing on tree trunks. Myxomycetes: slime fungus</span>'</td>
+<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>taniŋaniba</i></td>
+<td>'<span>mushroom-like fungus growing on tree trunks. Myxomycetes: slime fungus</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/mortlockese">Mortlockese</a></td><td><i>sæliŋananu</i></td>
-<td>
-'<span>mushroom (lit. ear of ghost)</span>'</td>
+<td>Mic</td><td><a href="../languages/mortlockese">Mortlockese</a></td><td style="white-space: nowrap;"><i>sæliŋananu</i></td>
+<td>'<span>mushroom (lit. ear of ghost)</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td><i>taɾiŋeripaç</i></td>
-<td>
-'<span>mushroom</span>' (<span>underlying form: <em>taliŋali-paça</em></span>)</td>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td style="white-space: nowrap;"><i>taɾiŋeripaç</i></td>
+<td>'<span>mushroom</span>' (<span>underlying form: <em>taliŋali-paça</em></span>)</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/satawalese">Satawalese</a></td><td><i>saliŋanipac̣</i></td>
-<td>
-'<span>kind of toadstool</span>'</td>
+<td>Mic</td><td><a href="../languages/satawalese">Satawalese</a></td><td style="white-space: nowrap;"><i>saliŋanipac̣</i></td>
+<td>'<span>kind of toadstool</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td><i>daliŋa ni kalou</i></td>
-<td>
-'<span>fungus (lit: ear of spirit)</span>'</td>
+<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td style="white-space: nowrap;"><i>daliŋa ni kalou</i></td>
+<td>'<span>fungus (lit: ear of spirit)</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td><i>taliŋa</i></td>
-<td>
-'<span>generic, includes various kinds of fleshy fungi, e.g. mushrooms, bracket fungi</span>'</td>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td style="white-space: nowrap;"><i>taliŋa</i></td>
+<td>'<span>generic, includes various kinds of fleshy fungi, e.g. mushrooms, bracket fungi</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td><i>faliŋa</i></td>
-<td>
-'<span>ear; toadstool or fungus</span>' (<span>Also <em>faliŋa ne ʔatua</em> 'ear of dead/ghost'</span>)</td>
+<td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td style="white-space: nowrap;"><i>faliŋa</i></td>
+<td>'<span>ear; toadstool or fungus</span>' (<span>Also <em>faliŋa ne ʔatua</em> 'ear of dead/ghost'</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td><i>taliŋeliŋa</i></td>
-<td>
-'<span>fungus</span>'</td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td style="white-space: nowrap;"><i>taliŋeliŋa</i></td>
+<td>'<span>fungus</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td><i>tariŋa (ŋa atua)</i></td>
-<td>
-'<span>ears of spirits; traditional name applied to a tree fungus (unidentified)</span>'</td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td style="white-space: nowrap;"><i>tariŋa (ŋa atua)</i></td>
+<td>'<span>ears of spirits; traditional name applied to a tree fungus (unidentified)</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td><i>taliŋa</i></td>
-<td>
-'<span>Name given to several types of fungus, including Jew's-ear</span>'</td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>taliŋa</i></td>
+<td>'<span>Name given to several types of fungus, including Jew's-ear</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>tariŋa (rakau)</i></td>
-<td>
-'<span>a fungus</span>'</td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td style="white-space: nowrap;"><i>tariŋa (rakau)</i></td>
+<td>'<span>a fungus</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td><i>tariŋa (o tiakiwai)</i></td>
-<td>
-'<span>Jew's ear fungus, Auricularia auricula-judea</span>' (<span>Also called <em>tariŋa kuri</em> (dog), <em>tariŋa hakeke</em></span>)</td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td style="white-space: nowrap;"><i>tariŋa (o tiakiwai)</i></td>
+<td>'<span>Jew's ear fungus, Auricularia auricula-judea</span>' (<span>Also called <em>tariŋa kuri</em> (dog), <em>tariŋa hakeke</em></span>)</td>
 </tr>
 </table>
 
