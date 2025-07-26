@@ -124,18 +124,24 @@ These vegetation habitats are briefly described below, each with a listing of th
 
 Coastal strand vegetation falls into three zones, a herbaceous zone, beach scrub, and littoral forest.
 
-2.3.1.1.1 Herbaceous zone
+
+##### 3.1.1.1. Herbaceous zone
+
 
 On sandy beaches and beach ridges,[^3] vegetation begins at the high-water mark on the seaward slope with a herbaceous cover of creeping plants such as _Ipomoea pes-caprae_, _Canavalia rosea_ (syn. _Canavalia maritima_) (no reconstruction) and _Wedelia biflora_, as well as grasses and sedges, including _Thuarea involuta_.
 
 
 <a id="p-29"></a>
 
-2.3.1.1.2 Beachscrub
+
+##### 3.1.1.2. Beachscrub
+
 
 Next to or overlapping the herbaceous zone comes bush scrub with shrubs such as _Pemphis acidula_ and _Scaevola taccada_ and low-growing bushy-crowned trees like _Hibiscus tiliaceus_ _Thespesia populnea_ and _Tournefortia argentea_ often densely tangled by climbers like _Flagellaria indica_. There is a ground layer of ferns, grasses, gingers and herbs including _Crinum asiaticum_.
 
-2.3.1.1.3 Littoral forest
+
+##### 3.1.1.3. Littoral forest
+
 
 On its landward side beach scrub borders, gradually or abruptly, on littoral or coastal strand forest. This is often dominated by evergreen broadleaftrees like _Barringtonia asiatica_, _Terminalia catappa_, _Heritiera littoralis_ and _Calophyllum inophyllum_ (and in the Solomons archipelago _Cerbera manghas_) or the screwpine _Pandanus tectorius_, (on coral _Pandanus dubius_) or sometimes _Casuarina equisetifolia_. On beaches where the ridge formation has been eroded, the littoral forest borders immediately on the beach, and _Barringtonia asiatica_ predominates. On coral islands where mixed littoral forest covers the whole island, the forest may include _Diospyros_, _Myristica_ and _Rhus_ species. In the Solomons the lower storey includes _Diospyros_ species, _Ficus austrina_, _Hibiscus tiliaceus_, _Kleinhovia hospita_, _Morinda citrifolia_ and _Premna corymbosa_ ([Paijmans 1976](../sources/Paijmansetal1976):29-20, [Henderson & Hancock 1988](../sources/HendersonandHancock1988):321, [Mueller-Dombois & Fosberg 1998](../sources/MuellerDomboisandFosberg1998): 50, 59, 70).
 

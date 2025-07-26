@@ -4148,15 +4148,15 @@ __table__
 _*tuqa-_                                  |   _*suRi-_
     Bali-Vitu, Willaumez                |
     Tungag/Nalik                        |      Madak
-    Tabar: Notsi, Lihir                 |      Tabar: Tabar
+    Tabar: _Notsi_, _Lihir_                 |      Tabar: _Tabar_
     St George:                          |      St George:
-     Sursurunga, Tangga                 |       Patpatar, Label, Kandas, Konomala, Siar
+     _Sursurunga_, _Tangga_                 |       Patpatar, Label, Kandas, _Konomala_, _Siar_
      NW Solomonic:                      |       NW Solomonic:
-         NNB: Taiof, Hahon, Tinputz     |           NNB: Nehan, Buka, Teop
+         NNB: _Taiof_, _Hahon_, _Tinputz_     |           NNB: _Nehan_, Buka, _Teop_
                                         |           New Georgia
 
     Why did POc have two different words for ‘bone’? There are two clues to a difference in
-meaning. The first is, as noted above, that *tuqa- reflexes in SE Solomonic and in some E
+meaning. The first is, as noted above, that _*tuqa-_ reflexes in SE Solomonic and in some E
 Fijian languages mean ‘leg’. The second is that in a few languages reflexes of _*suRi_ also
 denote a bone needle (vol.1:87). Do these facts perhaps mean that _*suRi_ referred principally to
 finer bones, _*tuqan_ to larger bones or to all bones? The evidence is hardly compelling, as
@@ -4952,7 +4952,7 @@ suggests that part of its meaning was the position of the head as the highest po
 The glosses of _*bʷatu(k)_, on the other hand, appear to focus on its shape (§3.4.2).
 
 
-3.4.1 *qulu ‘head’
+3.4.1 _*qulu_ ‘head’
 
 The most widespread term for the head is _*qulu_. Blust (ACD) comments
 
@@ -5061,8 +5061,8 @@ Dempwolff (1938) reconstructed PMP _*batuk_ and glossed it as ‘skull’. Blust
 gloss, but with a comment that it is problematic, as the only non-Oceanic reflexes are:
 
 __formgroup__
-     WMP: Malay                   batok                 ‘husk and shell of coconut’
-     WMP: Javanese                batuk                 ‘forehead’
+     wMP: Malay                   batok                 ‘husk and shell of coconut’
+     wMP: Javanese                batuk                 ‘forehead’
      CMP : Tetun                  |ulu-n fatu(-k)|        ‘skull, bones of the head’
      CMP : Kisar                  |ulu waku-n|            ‘head’
 
@@ -5100,7 +5100,7 @@ consonants.
 
 104 Meredith Osmond and Malcolm Ross
 
-    Also below is a cognate set reflecting POc _*[(p,pʷ)atu](p,pʷ)atu(k)_ ‘hard, strong, firm’. We take
+    Also below is a cognate set reflecting POc _*[(p,pʷ)atu&#93;(p,pʷ)atu(k)_ ‘hard, strong, firm’. We take
 this to be a reduplication of _*(p,pʷ)atu(k)_ ‘outer shell, skull’, an inference supported by both form
 (POc attributes were commonly formed by reduplication; vol.2:206–220) and meaning.
 
@@ -6859,7 +6859,7 @@ POc *Ruqa- ‘neck’
  SES: Bugotu           lua-             (N) ‘neck’; (V) ‘utter, emit, of sound; vomit’
  SES: Gela             lua-             (N) ‘neck’; (V) ‘burst out’
  SES: Lau              lua-             ‘neck’
- SES: Sa’a             lue              ‘neck, throat’ (in compounds e.g. _lue ni ʔae_ ‘back of knee’, _ukuuku [channel] i lue_ ‘windpipe’, _suli tolai lue_ ‘collarbone’)
+ SES: Sa’a             lue              ‘neck, throat’ (in compounds e.g. _lue ni ʔae_ ‘back of knee’, _ukuuku_ [channel] _i lue_ ‘windpipe’, _suli tolai lue_ ‘collarbone’)
  SES: Arosi            rua-             ‘chin, jaw’
  NCV: NE Ambae         ua-              ‘neck’
  NCV: Araki            ua-              ‘neck’
@@ -7541,13 +7541,13 @@ far from clear, we suggest that there were two POc forms, _*puso-_ (from PMP _*p
 descended from _*puso-_ and _*bʷito-_ respectively. They are accounted for as follows:
 
 __block__
-A Because POc _*puso-_ and POc _*bʷito-_ were similar in form and meaning, contamination
-  affected the vowel of the first syllable, so items reflecting apparent _**piso-_
-  actually reflect _*puso-_ but with the vowel from _*bʷito-_.[30]
-B The direct evidence for _*bʷ-_ of POc _*bʷito-_ is Drehet _pʷitie_, Tamambo _bʷito-_.
-  However, _bʷ_ was an unstable phoneme. In some languages rounding was lost and
-  _*bʷito-_ became _*bito-_; in others rounding spread to the following vowel, giving
-  forms that seem to reflect _**buto-_.
+A) Because POc _*puso-_ and POc _*bʷito-_ were similar in form and meaning, contamination
+   affected the vowel of the first syllable, so items reflecting apparent _**piso-_
+   actually reflect _*puso-_ but with the vowel from _*bʷito-_.[30]
+B) The direct evidence for _*bʷ-_ of POc _*bʷito-_ is Drehet _pʷitie_, Tamambo _bʷito-_.
+   However, _bʷ_ was an unstable phoneme. In some languages rounding was lost and
+   _*bʷito-_ became _*bito-_; in others rounding spread to the following vowel, giving
+   forms that seem to reflect _**buto-_.
 
 To maintain clarity in the face of the complications here, each of the two reconstructions is
 assigned its own subsection, and have listed forms that appear to reflect _**piso-_ and _**buto-_
@@ -7572,8 +7572,9 @@ POc *puso- ‘navel, umbilical cord’
  MM:  Vitu          puðo        ‘navel’
 >
 
+_**piso-_ ‘navel, umbilical cord’ (< POc _*puso-_ via contamination by _*bʷito-_)
+
 __formgroup__
-**piso- ‘navel, umbilical cord’ (< POc *puso- via contamination by _*bʷito-_)
   NNG: Bariai              piso-          ‘navel’
   NNG: Kove                piso-          ‘navel, umbilical cord’
   NNG: Malai               piso-          ‘navel’
@@ -7636,8 +7637,10 @@ POc *bʷito- ‘navel, umbilical cord’ (Blust 1984b: _*bito_)
 
                                                                      The human body 153
 
+
+_**buto-_ ‘navel, umbilical cord’ (Biggs 1965: PEOc; Milke 1968, ACD) < POc _*bʷito-_ via rounding spread
+
 __formgroup__
-**buto- ‘navel, umbilical cord’ (Biggs 1965: PEOc; Milke 1968, ACD) < POc *bʷito- via rounding spread
   Adm: Seimat             puto-             ‘navel’
   Adm: Lou                puro-             ‘navel’
   Adm: Loniu              (ko)putu-         ‘navel’
@@ -7685,8 +7688,9 @@ Here are presented forms that appear to reflect a conflation of _*puso-_ and _*b
 readily assigned to either. Thus _**(b,bʷ)iso-_ and _**buso-_, the former with WOc reflexes only, take
 _*(b,bʷ)-_ from _*bʷito-_ and _*-s-_ from _*puso-_.[31]
 
+__PWOc__ _**b(w)iso-_ ‘navel, umbilical cord’
+
 __formgroup__
-PWOc **b(w)iso- ‘navel, umbilical cord’
  NNG: Nenaya              bisu-            ‘navel’
  NNG: Biliau              biso-            ‘navel’
  NNG: Mindiri             besu(o-n-foko-n) ‘navel’
@@ -7694,8 +7698,10 @@ PWOc **b(w)iso- ‘navel, umbilical cord’
  NNG: Kaiwa               biro-            ‘navel’
  MM: Solos                biso-            ‘navel’
 
+
+__POc__ _**buso-_ ‘navel, umbilical cord’ (Milke 1965: PNGOc)
+
 __formgroup__
-POc **buso- ‘navel, umbilical cord’ (Milke 1965: PNGOc)
  NNG: Malasanga          boso-              ‘navel’
  NNG: Singorakai         busu-              ‘navel’
  NNG: Biliau             buso-              ‘navel’

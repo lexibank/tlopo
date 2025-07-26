@@ -140,6 +140,8 @@ where csrf.`cognatesetreferences.csv_cldf_id` = ?
             r = list(row)
             if row['is_proto']:
                 r[5] = ', '.join('&ast;' + f.strip() for f in row['form'].split(', '))
+                if '](' in r[5]:
+                    r[5] = r[5].replace('[', '&#91;')
             res.append(r)
         return res, json.loads(fn or '{}')
 
