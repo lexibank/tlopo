@@ -396,7 +396,10 @@ class Dataset(BaseDataset):
 
         for lg in langs.values():
             args.writer.add_language(
-                ID=lg['ID'], Name=lg['Name'], Is_Proto=False, Group=lg['Group'],
+                ID=lg['ID'],
+                Name=lg['Name'],
+                Glottocode=lg['Glottocode'],
+                Is_Proto=False, Group=lg['Group'],
                 Latitude=lg['Latitude'], Longitude=lg['Longitude'])
 
         for row in self.etc_dir.read_csv('species_and_genera.csv', dicts=True):

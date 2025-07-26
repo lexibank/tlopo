@@ -4113,7 +4113,7 @@ Poynesian languages.
     The areas in which reflexes of each term occur (in the meaning ‘bone’) are interlaced
 across the Pacific, as follows:
 
-__table
+__table__
 _*tuqa-_                      |                _*suRi-_
   NGOc (= NNG, PT)          |                  Adm
   Parts of MM               |                  Parts of MM
@@ -4145,7 +4145,7 @@ Solomonic, in particular cutting across the Nehan/N Bougainville (NNB) subgroup.
 
 
 __table__
-_*tuqa_                                  |   _*suRi-_
+_*tuqa-_                                  |   _*suRi-_
     Bali-Vitu, Willaumez                |
     Tungag/Nalik                        |      Madak
     Tabar: Notsi, Lihir                 |      Tabar: Tabar

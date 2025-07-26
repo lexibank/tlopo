@@ -20,11 +20,11 @@ Available online at http://hdl.handle.net/1885/106908
 
 
 [![CLDF validation](https://github.com/lexibank/tlopo/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/tlopo/actions?query=workflow%3ACLDF-validation)
-![Glottolog: 0%](https://img.shields.io/badge/Glottolog-0%25-red.svg "Glottolog: 0%")
+![Glottolog: 88%](https://img.shields.io/badge/Glottolog-88%25-yellowgreen.svg "Glottolog: 88%")
 ![Concepticon: 0%](https://img.shields.io/badge/Concepticon-0%25-red.svg "Concepticon: 0%")
 ![Source: 0%](https://img.shields.io/badge/Source-0%25-red.svg "Source: 0%")
 
-- **Varieties:** 779 (linked to 0 different Glottocodes)
+- **Varieties:** 779 (linked to 643 different Glottocodes)
 - **Concepts:** 19,935 (linked to 0 different Concepticon concept sets)
 - **Lexemes:** 43,045
 - **Sources:** 2
