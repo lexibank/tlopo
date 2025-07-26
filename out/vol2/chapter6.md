@@ -182,7 +182,7 @@ The line where sea meets sky is commonly referred to by a compound — either ed
 
 
 
-Similarly, PChk _&ast;pai-laŋi_ may be from POc _&ast;baRa_ ‘fence’(see vol.1, p.60) + _qi_ + _laŋit_ lit. ‘fence of sky’.
+Similarly, PChk _&ast;pai-laŋi_ may be from POc _&ast;baRa_ ‘fence’(see [vol.1,60](../contributions/1-3#p-60)) + _qi_ + _laŋit_ lit. ‘fence of sky’.
 
 <table id="2-6-2-2-158-PChk-pailai-a">
 <tr>

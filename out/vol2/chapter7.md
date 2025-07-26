@@ -10,7 +10,7 @@ The terms reconstructed in this chapter denoted properties of inanimate objects 
 
 Oceanic languages make some distinctions between properties of inanimates and properties of animates that are not made in European languages, and vice versa. In most Oceanic languages there are distinct words for ‘old’ as applied to inanimate objects and ‘old’ as applied to human beings, and different temperature terms for the physical environment and for the human body. This appears to have been true in POc as well, where _&ast;[ma]tuqa_ ‘ripe, mature, adult, old’ was used of animates and POc _&ast;tuqaRi_ ‘long ago, old’ and _&ast;rapu-ka_ ‘old’ of inanimates.
 
-Property words in European languages are typically adjectives. It is fairly certain, however, that POc did not have a separate adjective word class. Instead, it had a small subclass of nouns and a large subclass of verbs that were used to express properties (see vol. 1, pp.34–35). For convenience, I have named these adjectival nouns and adjectival verbs. The test of whether a noun or verb is adjectival is that it can occur without any additional morphology as the modifier of a noun. However, these subclasses have undergone various redistributions in different Oceanic languages, and this can sometimes make it difficult to determine whether a given reconstruction was a noun or a verb. [Ross](../sources/Ross1998a) ([1998a](../sources/Ross1998a)) gives a detailed study of the syntax of POc adjectival categories and of subsequent developments, and a second study ([Ross 1998b](../sources/Ross1998b)) focuses on the fate of adjectival verbs and nouns in certain Western Oceanic languages.
+Property words in European languages are typically adjectives. It is fairly certain, however, that POc did not have a separate adjective word class. Instead, it had a small subclass of nouns and a large subclass of verbs that were used to express properties (see [vol.1,34](../contributions/1-2#p-34)–35). For convenience, I have named these adjectival nouns and adjectival verbs. The test of whether a noun or verb is adjectival is that it can occur without any additional morphology as the modifier of a noun. However, these subclasses have undergone various redistributions in different Oceanic languages, and this can sometimes make it difficult to determine whether a given reconstruction was a noun or a verb. [Ross](../sources/Ross1998a) ([1998a](../sources/Ross1998a)) gives a detailed study of the syntax of POc adjectival categories and of subsequent developments, and a second study ([Ross 1998b](../sources/Ross1998b)) focuses on the fate of adjectival verbs and nouns in certain Western Oceanic languages.
 
 
 <a id="p-194"></a>
@@ -103,11 +103,11 @@ Although the same meanings occur in the small class across a number of languages
 
 The practical consequence of these observations is that, among underived property terms, only POc _&ast;paqoRu_ ‘new’ can be assigned to the class of adjectival nouns on the basis of this list. However, there is morphological evidence, noted below, that POc _&ast;lapuat_ ‘big’ (p.197),_ &ast;qitik_/_&ast;qitek_ ‘small’ and POc _&ast;riki(t,q)_/_&ast;ri-riki(t,q)_ ‘small’ (p.200) were also adjectival nouns.
 
-With other underived items, we encounter the problem noted in volume 1, p.35: it is often impossible to assign a POc reconstruction to the appropriate word class. But the situation is not all gloom in this regard. One indicator of the class of a property term is derivational morphology.
+With other underived items, we encounter the problem noted in [vol.1,35](../contributions/1-2#p-35): it is often impossible to assign a POc reconstruction to the appropriate word class. But the situation is not all gloom in this regard. One indicator of the class of a property term is derivational morphology.
 
-Two morphemes occurred with some frequency in the derivation of these words, and others more rarely. The suffix _&ast;-ka_ derived adjectival nouns, whilst the prefix _&ast;ma-_ occurred in adjectival verbs. There is an important difference in the statuses of these affixes in POc, however. POc _&ast;-ka_ was apparently a productive suffix ([Ross 2000](../sources/Ross2000); see below, for example _&ast;[tubu]tubu[-ka]_ ‘thick’ (p.208); _&ast;rapu-ka_ ‘old’ (p.211); _&ast;keja-ka_ ‘green’ (p.217)). PMP _&ast;ma-_ was a prefix that derived stative verbs, often from abstract nouns, and occurred as a fossil in a number of POc adjectival verb forms ([Evans & Ross 2001](../sources/EvansandRoss2001)),[^3] for example, POc _&ast;mataq_ ‘raw’ (vol. 1, p.155), _&ast;maosak_ ‘ready to be eaten’ (vol. 1, p.157), _&ast;maqasin_ ‘be salty’ (vol. 1, p.159, this volume [Ch. 3, §7.8](../contributions/2-3#s-7-8), and several below). In a good many cases, forms with and without _&ast;ma-_ are reconstructable in POc, with no obvious difference in meaning (e.g. _&ast;[ma]lago_ ‘long, tall’ (p.204); _&ast;[ma]lawa_ ‘long, tall, far away’ (p.204); _&ast;[ma]tuqa_ ‘ripe, mature, adult, old’ (p.211)).[^4]
+Two morphemes occurred with some frequency in the derivation of these words, and others more rarely. The suffix _&ast;-ka_ derived adjectival nouns, whilst the prefix _&ast;ma-_ occurred in adjectival verbs. There is an important difference in the statuses of these affixes in POc, however. POc _&ast;-ka_ was apparently a productive suffix ([Ross 2000](../sources/Ross2000); see below, for example _&ast;[tubu]tubu[-ka]_ ‘thick’ (p.208); _&ast;rapu-ka_ ‘old’ (p.211); _&ast;keja-ka_ ‘green’ (p.217)). PMP _&ast;ma-_ was a prefix that derived stative verbs, often from abstract nouns, and occurred as a fossil in a number of POc adjectival verb forms ([Evans & Ross 2001](../sources/EvansandRoss2001)),[^3] for example, POc _&ast;mataq_ ‘raw’ ([vol.1,155](../contributions/1-6#p-155)), _&ast;maosak_ ‘ready to be eaten’ ([vol.1,157](../contributions/1-6#p-157)), _&ast;maqasin_ ‘be salty’ ([vol.1,159](../contributions/1-6#p-159), this volume [Ch. 3, §7.8](../contributions/2-3#s-7-8), and several below). In a good many cases, forms with and without _&ast;ma-_ are reconstructable in POc, with no obvious difference in meaning (e.g. _&ast;[ma]lago_ ‘long, tall’ (p.204); _&ast;[ma]lawa_ ‘long, tall, far away’ (p.204); _&ast;[ma]tuqa_ ‘ripe, mature, adult, old’ (p.211)).[^4]
 
-More rarely occurring derivational morphemes are POc _&ast;ka-_, a fossilised alternant of _&ast;ma-_,[^5] ([Huang 2000](../sources/Huang2000), [Zeitoun & Huang 2000](../sources/ZeitounandHuang2000)); _&ast;pa-_ and _&ast;paka-_, the productive POc causative prefixes (vol. 1, pp.26–27), which were also used to form adverbs; and POc _&ast;ta-_, which was productive and derived agentless statives from dynamic transitive verbs.
+More rarely occurring derivational morphemes are POc _&ast;ka-_, a fossilised alternant of _&ast;ma-_,[^5] ([Huang 2000](../sources/Huang2000), [Zeitoun & Huang 2000](../sources/ZeitounandHuang2000)); _&ast;pa-_ and _&ast;paka-_, the productive POc causative prefixes ([vol.1,26](../contributions/1-2#p-26)–27), which were also used to form adverbs; and POc _&ast;ta-_, which was productive and derived agentless statives from dynamic transitive verbs.
 
 
 <a id="p-197"></a>
@@ -126,7 +126,7 @@ It was noted above that lexical replacement of terms for ‘big’ and ‘small�
 
 Elsewhere I have reconstructed the term for ‘big’ as &ast;labʷat ([Ross 1998a](../sources/Ross1998a):109), as the medial consonant in many of the forms below seems to reflect either _&ast;b_ or _&ast;bʷ_. The Loniu and SV forms offer apparent disambiguation in favour of _&ast;bʷ_. Whilst _&ast;labʷat_ must have occurred in the history of many of the forms below, it is not reflected by the Roviana, Hoava, SES, Mota or Raga forms, where the medial consonant appears to reflect _&ast;p_ The form _&ast;lapuat_ accounts for apparent reflexes of both _&ast;-bʷ-_ and _&ast;-p-_. The forms which appear to reflect _&ast;-p-_ do just that. Moreover, Tigak _lavu_, West Kara _labu_, Raga _lavoa_ and Bauan levu directly reflect medial _&ast;-pu-_.[^6] The forms which appear to reflect _&ast;-bʷ-_ also do just that, but this _&ast;-bʷ-_ reflects a later interstage: POc medial _&ast;-pua-_ became first _&ast;-pʷa-_, then _&ast;-bʷa-_.
 
-The sound changes in the paragraph above remain tentative, as there are few cases to compare this cognate set with. However, the least obvious step proposed above is that _&ast;-bʷa-_ developed from _&ast;-pʷa-_, and there is reasonably good evidence for the step from _&ast;pʷ_ to _&ast;bʷ_ (vol. 1, p.16).
+The sound changes in the paragraph above remain tentative, as there are few cases to compare this cognate set with. However, the least obvious step proposed above is that _&ast;-bʷa-_ developed from _&ast;-pʷa-_, and there is reasonably good evidence for the step from _&ast;pʷ_ to _&ast;bʷ_ ([vol.1,16](../contributions/1-2#p-16)).
 
 The Mapos Buang and Mumeng Patep forms may be non-cognate, as their final -k reflects POc _&ast;-R_, _&ast;-k_ or _&ast;-q_.
 
@@ -321,7 +321,8 @@ Also apparently reconstructable are _&ast;drik(i)_, _&ast;liki_, _&ast;siki_ and
 <td style="white-space: nowrap;">
 <i>&ast;qitik</i>
 </td>
-<td>'<span>small, little; few</span>' (<span>Blust 1986; ACD</span>)</td>
+<td>'<span>small, little; few</span>' (<a href="../sources/Blust1986">Blust1986</a>; <a href="../sources/Blust1995">Blust1995</a>)
+</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
@@ -1729,7 +1730,7 @@ Three forms can be reconstructed for ‘thick’. The third, _&ast;[tubu]tubu[-k
 
 <a id="p-209"></a>
 
-Two formally related terms are reconstructable for ‘thin’: _&ast;ma-tipi(s)_ and _&ast;manipis_. Although at first sight they look like forms derived with PMP _&ast;ma-_ and _&ast;maN-_ respectively, _&ast;manipis_ has cognates in Taiwan, reflecting PAn _&ast;maLipis_. The prefix _&ast;maN-_ in any case dates only from PMP, and so cannot be reflected in _&ast;manipis_. Instead, the two forms evidently reflect the same PAn monosyllabic root _&ast;-pis_ ‘thin, tenuous, fine’ ([Blust 1988](../sources/Blust1988); see vol. 1, pp.27–28) and presumably differed in meaning by some subtlety which is not clear from their reflexes.
+Two formally related terms are reconstructable for ‘thin’: _&ast;ma-tipi(s)_ and _&ast;manipis_. Although at first sight they look like forms derived with PMP _&ast;ma-_ and _&ast;maN-_ respectively, _&ast;manipis_ has cognates in Taiwan, reflecting PAn _&ast;maLipis_. The prefix _&ast;maN-_ in any case dates only from PMP, and so cannot be reflected in _&ast;manipis_. Instead, the two forms evidently reflect the same PAn monosyllabic root _&ast;-pis_ ‘thin, tenuous, fine’ ([Blust 1988](../sources/Blust1988); see [vol.1,27](../contributions/1-2#p-27)–28) and presumably differed in meaning by some subtlety which is not clear from their reflexes.
 
 <table id="2-7-2-2-209-POc-matipis-a">
 <tr>
@@ -2314,7 +2315,7 @@ Most reconstructable POc colour terms fall into two formal groups, adjectival ve
 
 <a id="p-213"></a>
 
-PMP terms were of the form _&ast;ma-_ + ROOT. Blust (ACD) concludes that PMP had a classic three-term colour system, i.e. terms for black, white and red. Other terms were derived from terms for natural objects or, in the case of ‘green’, unripeness (see vol. 1, p.155). The same comments evidently applied to POc. The three PMP terms were _&ast;ma-_ qitem ‘black, dark in colour’, _&ast;ma-iRaq_ ‘red’, and _&ast;ma-putiq_ ‘white, light in colour’. The first two are continued in POc _&ast;maqeto(m)_ and POc _&ast;meRaq_. Until recently, I thought that _&ast;ma-putiq_ had been lost in POc and replaced by a plethora of terms, but two reflexes have been found.
+PMP terms were of the form _&ast;ma-_ + ROOT. Blust (ACD) concludes that PMP had a classic three-term colour system, i.e. terms for black, white and red. Other terms were derived from terms for natural objects or, in the case of ‘green’, unripeness (see [vol.1,155](../contributions/1-6#p-155)). The same comments evidently applied to POc. The three PMP terms were _&ast;ma-_ qitem ‘black, dark in colour’, _&ast;ma-iRaq_ ‘red’, and _&ast;ma-putiq_ ‘white, light in colour’. The first two are continued in POc _&ast;maqeto(m)_ and POc _&ast;meRaq_. Until recently, I thought that _&ast;ma-putiq_ had been lost in POc and replaced by a plethora of terms, but two reflexes have been found.
 
 <table id="2-7-4-None-213-POc-maqetom-a">
 <tr>
@@ -3077,7 +3078,7 @@ There is one other reduplicated colour term which may be reconstructable, POc _&
 ### 5.1. Shape and surface texture
 
 
-Terms denoting the shape and surface texture of an object include the meanings such as ‘flat’, ‘round’, ‘rough’, ‘smooth’, ‘straight’ and ‘crooked’. However, it seems that there were few POc lexemes with basic meanings in this domain. No word for ‘round’ is reconstructable. The main term for ‘flat’ was probabaly POc _&ast;baban_ ‘flat; board, plank; canoe strake; flat shelf of rock’, and we can be reasonably confident that it was a noun denoting a flat surface or flat plank-like object (vol. 1, pp.58, 185).
+Terms denoting the shape and surface texture of an object include the meanings such as ‘flat’, ‘round’, ‘rough’, ‘smooth’, ‘straight’ and ‘crooked’. However, it seems that there were few POc lexemes with basic meanings in this domain. No word for ‘round’ is reconstructable. The main term for ‘flat’ was probabaly POc _&ast;baban_ ‘flat; board, plank; canoe strake; flat shelf of rock’, and we can be reasonably confident that it was a noun denoting a flat surface or flat plank-like object ([vol.1,58](../contributions/1-3#p-58), 185).
 
 <table id="2-7-5-1-218-POc-baban-a">
 <tr>
@@ -3489,7 +3490,7 @@ The only antonym of the terms above is PWOc _&ast;kalis_ ‘crooked’, which is
 ### 5.2. Weight
 
 
-Forms for ‘heavy’ are morphologically complex. POc _&ast;[pa]pat_ reflects the base _&ast;pat_, POc _&ast;ma-pat_ and _&ast;mamat_ reflect prefixation with _&ast;ma-_ and _&ast;maN-_ respectively (the function of _&ast;maN-_ in this context is unclear; cf. vol. 1, p.29). The term for ‘light’ (in weight) is _&ast;[ma]Raqan_.
+Forms for ‘heavy’ are morphologically complex. POc _&ast;[pa]pat_ reflects the base _&ast;pat_, POc _&ast;ma-pat_ and _&ast;mamat_ reflect prefixation with _&ast;ma-_ and _&ast;maN-_ respectively (the function of _&ast;maN-_ in this context is unclear; cf. [vol.1,29](../contributions/1-2#p-29)). The term for ‘light’ (in weight) is _&ast;[ma]Raqan_.
 
 <table id="2-7-5-2-220-POc-papat-a">
 <tr>
@@ -4522,7 +4523,7 @@ The English words ‘dry’ and ‘wet’ are polysemous. The meanings of ‘dry
 
 
 
-The most widely reflected POc term with a ‘dry’ meaning is _&ast;[ma]maca_, which denoted states in which otherwise present liquid was absent. Thus it was used among other things of food which had dried up through overcooking and of low tide ([Ch. 4, §2.6](../contributions/2-4#s-2-6)). POc _&ast;[ma](r,R)aŋo_ ‘wither, dry up’ referred particularly to the dryness of dying vegetation and meant ‘withered, dry’ (vol. 1, p.135).
+The most widely reflected POc term with a ‘dry’ meaning is _&ast;[ma]maca_, which denoted states in which otherwise present liquid was absent. Thus it was used among other things of food which had dried up through overcooking and of low tide ([Ch. 4, §2.6](../contributions/2-4#s-2-6)). POc _&ast;[ma](r,R)aŋo_ ‘wither, dry up’ referred particularly to the dryness of dying vegetation and meant ‘withered, dry’ ([vol.1,135](../contributions/1-5#p-135)).
 
 POc _&ast;karaŋo_ is obviously formally related to _&ast;[ma]raŋo_, but its reflexes display the meanings both of this and of _&ast;[ma]maca_. POc _&ast;goRu_ appears to have been a synonym of _&ast;[ma](r,R)aŋo_.
 
@@ -4834,13 +4835,13 @@ POc _&ast;[ma-](r,R)aŋo_ displays a phonological problem. Apparent non-Oceanic 
 
 [^1]: I am indebted to John Lynch for reading two drafts of a paper of which this chapter is a revised extract and for commenting in detail on South Vanuatu reflexes and for providing corrections and additional data. I am also grateful for comments by John Bowden, Bethwyn Evans, Françoise Ozanne-Rivierre and Andrew Pawley.
 
-[^2]: These include natural states, e.g. ‘raw’/‘unripe’ (vol. 1, p.155), ‘ripe’ (vol. 1, p.157), ‘rotten’, and physical conditions of animate beings: (e.g. ‘alive’, ‘dead’, ‘healthy’, ‘sick’, ‘hungry’, ‘thirsty’).
+[^2]: These include natural states, e.g. ‘raw’/‘unripe’ ([vol.1,155](../contributions/1-6#p-155)), ‘ripe’ ([vol.1,157](../contributions/1-6#p-157)), ‘rotten’, and physical conditions of animate beings: (e.g. ‘alive’, ‘dead’, ‘healthy’, ‘sick’, ‘hungry’, ‘thirsty’).
 
-[^3]: The story of _&ast;ma-_ in [Evans and Ross](../sources/EvansandRoss2001) ([2001](../sources/EvansandRoss2001)) is better founded than that in vol. 1, p.25.
+[^3]: The story of _&ast;ma-_ in [Evans and Ross](../sources/EvansandRoss2001) ([2001](../sources/EvansandRoss2001)) is better founded than that in [vol.1,25](../contributions/1-2#p-25).
 
 [^4]: This circumstance is discussed at length by [Evans and Ross](../sources/EvansandRoss2001) ([2001](../sources/EvansandRoss2001)).
 
-[^5]: At a very early period (PAn/PMP), _&ast;ka-_ was a morpheme that derived statives, whilst _&ast;ma-_ was the corresponding finite form (from _&ast;‹um›_ + _&ast;ka-_; with regard to _&ast;‹um›_ see vol. 1, p.29). Thus [Huang](../sources/Huang2000) ([2000](../sources/Huang2000):378) shows that in Mayrinax Atayal (Formosan) statives that take _ma-_ in their declarative affirmative form take _&ast;ka-_ in their negative form. [Zeitoun and Huang](../sources/ZeitounandHuang2000) ([2000](../sources/ZeitounandHuang2000)) show that in Pazeh, _ma-_ statives have _ka-_ in the irrealis (p.402), the imperative (p.406), and in non-‘actor’ focus forms of statives, e.g. _ka-kelem-an_ ‘be oversalted (of cooked food)’ vs _ma-kelem_ ‘be salty’ (p.407).
+[^5]: At a very early period (PAn/PMP), _&ast;ka-_ was a morpheme that derived statives, whilst _&ast;ma-_ was the corresponding finite form (from _&ast;‹um›_ + _&ast;ka-_; with regard to _&ast;‹um›_ see [vol.1,29](../contributions/1-2#p-29)). Thus [Huang](../sources/Huang2000) ([2000](../sources/Huang2000):378) shows that in Mayrinax Atayal (Formosan) statives that take _ma-_ in their declarative affirmative form take _&ast;ka-_ in their negative form. [Zeitoun and Huang](../sources/ZeitounandHuang2000) ([2000](../sources/ZeitounandHuang2000)) show that in Pazeh, _ma-_ statives have _ka-_ in the irrealis (p.402), the imperative (p.406), and in non-‘actor’ focus forms of statives, e.g. _ka-kelem-an_ ‘be oversalted (of cooked food)’ vs _ma-kelem_ ‘be salty’ (p.407).
 
 [^6]: For Tigak and W. Kara the interstages _&ast;-pʷu-_, then _&ast;-bu-_ must be posited. For Bauan, where we find levu for expected _&ast;&ast;lavua_, we must infer irregular raising of _&ast;-a-_ to _-e-_ and loss of later final _&ast;-a_.
 

@@ -305,7 +305,7 @@ A reconstructable taxonomy for POc is given below (the word-class labels are non
 | middle of the day       | —                                                                                 |
 | late afternoon, evening | &ast;Rapi N, &ast;Rapi-Rapi ADV ‘late afternoon and evening, from about 3 p.m. to sunset’ |
 
-[Pawley](../sources/Pawleynd) ([n.d.](../sources/Pawleynd)) notes an idiomatic construction in which at least some of these terms co-occurred with POc _&ast;panua_ which, among other things, meant ‘the visible world, land and sky’ (vol. 1, p.62). The combination of _&ast;panua_ and _&ast;boŋi_, probably as a verb, is reflected in:
+[Pawley](../sources/Pawleynd) ([n.d.](../sources/Pawleynd)) notes an idiomatic construction in which at least some of these terms co-occurred with POc _&ast;panua_ which, among other things, meant ‘the visible world, land and sky’ ([vol.1,62](../contributions/1-3#p-62)). The combination of _&ast;panua_ and _&ast;boŋi_, probably as a verb, is reflected in:
 
 |                    |                                                         |
 |:-------------------|:--------------------------------------------------------|
@@ -757,7 +757,7 @@ The word for ‘night’ in a number of Oceanic languages reflects POc _&ast;rod
 
 
 
-The two sets below probably do not reflect POc _&ast;rodrom_. Rather, _&ast;rodrom_ and the sets below all reflect a PAn monosyllabic root _&ast;-dem_ (see vol. 1, pp.24–25, 27–28). That is, several items reflecting this root were separately inherited into POc.
+The two sets below probably do not reflect POc _&ast;rodrom_. Rather, _&ast;rodrom_ and the sets below all reflect a PAn monosyllabic root _&ast;-dem_ (see [vol.1,24](../contributions/1-2#p-24)–25, 27–28). That is, several items reflecting this root were separately inherited into POc.
 
 <table id="2-9-2-2-308-POc-marom-a">
 <tr>
@@ -1832,7 +1832,7 @@ Proto Micronesian and Proto Central–Eastern Polynesian sets of day names could
 
 The first phase is strictly speaking the days of darkness. Interestingly, the sources vary as to how many of these there are, and [Grimble](../sources/Grimble1931) ([1931](../sources/Grimble1931)) claims that the Kiribati did not know.
 
-The denotation of the first visible phase often makes reference to the moon’s thin crescent shape. A number of languages compare it to a crescent-shaped pearlshell ornament, and it is possible that this image was also used in POc. Such artefacts have not appeared in the archaeological record, but they are fairly common ethnographically and a term for them, POc _&ast;japi_ was reconstructed in vol. 1 (p.104). It is reflected in the Arosi term below.
+The denotation of the first visible phase often makes reference to the moon’s thin crescent shape. A number of languages compare it to a crescent-shaped pearlshell ornament, and it is possible that this image was also used in POc. Such artefacts have not appeared in the archaeological record, but they are fairly common ethnographically and a term for them, POc _&ast;japi_ was reconstructed in [vol.1(104](../contributions/1-4#p-104)). It is reflected in the Arosi term below.
 
 <table id="2-9-2-3-316-pt-motu-huadoai">
 <tr>
@@ -3377,7 +3377,7 @@ A few Western Oceanic terms for ‘yesterday’ reflect POc _&ast;raqani_ ‘day
 <td><a href="../languages/sio">Sio</a></td>
 <td style="white-space: nowrap"><i>wa-lani</i></td>
 <td>
-(ADV) '<span>day before yesterday</span>'</td>
+[ADV] '<span>day before yesterday</span>'</td>
 </tr>
 <tr>
 <td>NNG</td>
@@ -3554,7 +3554,7 @@ We might expect that just as POc _&ast;na-boŋi_ (p.327), with the past formativ
 <td><a href="../languages/drehet">Drehet</a></td>
 <td style="white-space: nowrap"><i>(neke)piŋ</i></td>
 <td>
-(ADV) '<span>tomorrow</span>'</td>
+[ADV] '<span>tomorrow</span>'</td>
 </tr>
 <tr>
 <td>Adm</td>
@@ -3645,7 +3645,7 @@ We might expect that just as POc _&ast;na-boŋi_ (p.327), with the past formativ
 <td><a href="../languages/sinaugoro">Sinaugoro</a></td>
 <td style="white-space: nowrap"><i>boi(nani)</i></td>
 <td>
-(ADV) '<span>tomorrow</span>'</td>
+[ADV] '<span>tomorrow</span>'</td>
 </tr>
 <tr>
 <td>NCV</td>

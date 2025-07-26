@@ -258,7 +258,7 @@ A noun like _&ast;tama-gu_ (father-my) used with the personal article served as 
 
 Inspection of the grammars of Oceanic languages shows that many have retained the distinction between local and common constructions, although a majority express it with morphemes other than reflexes of _&ast;i_ and _&ast;ta-_ (for elaboration, see [Ross 2004](../sources/Ross2004)); see also the local prepositions listed under POc _&ast;la[-]_ (p.289). This inspection also shows that common nouns can be readily co-opted into the local construction. Thus it is common to find the common nouns for ‘house’, ‘garden’, ‘village’, ‘bush’ and ‘beach’ also occurring in the local construction, but this does not mean that the POc etyma they reflect necessarily occurred in the POc local construction.
 
-As the Taiof examples above show, the division into common and local nouns cut across the division into zero-valency and monovalent nouns (vol. 1, p.32).
+As the Taiof examples above show, the division into common and local nouns cut across the division into zero-valency and monovalent nouns ([vol.1,32](../contributions/1-2#p-32)).
 
 Zero-valency local nouns denoted familiar places like ‘home’, ‘own village’, ‘own garden’, ‘bush’, ‘beach’, i.e. locations whose reference would be clear to the addressee without further specification or whose exact reference was irrelevant (like the English construction with at and no article in at home, at school, at hospital, at work). Also belonging to the zero-valency local category were nouns denoting regions, either in relation to, say, the island home of the interlocutors or in relation to the speaker. These nouns denote geographic directions such as ‘up above’, ‘down below’, ‘inland’, ‘at sea’ and so on. There is no sharp distinction between these and nouns for familiar places: ‘inland’ and ‘bush’, for example, are often synonymous in Oceanic languages. This is not surprising. [Palmer](../sources/Palmer2001) ([2001](../sources/Palmer2001)) points out that the terms for a culture’s geographic directions are commonly grammaticised from perceptually salient phenomena of the landscape. These nouns have sometimes been labelled ‘absolute’ local nouns in the literature, to distinguish them from relational local nouns, but I prefer the label ‘geographic’ as some of their uses are deictic, referring to a location in relation to the speaker and addressee. Familiar-place and geographic local nouns are reconstructed in [§2.2](../contributions/2-8#s-2-2).
 
@@ -581,7 +581,7 @@ There also seems to have been an alternant _&ast;ŋa-_, reflected in Poeng (NNG)
 
 The nouns reconstructed in this section are zero-valency local nouns denoting regions, either in relation to the island home of the interlocutors or in relation to the speaker. They have meanings like ‘inland, bush’, ‘seaward, beach’, ‘down below’ and ‘up above’. Some of these glosses are adverbial in English. This is because a zero-valency local noun preceded by _&ast;i_ often performed the task of an English adverbial. For example, POc _&ast;i_ tanoq evidently expressed something like ‘down there’.
 
-Some POc zero-valency local nouns, at least, were also used as common nouns, and this difference sometimes also entailed a difference in meaning. Thus _&ast;i tanoq_ meant ‘down there’ but _&ast;tanoq_ meant ‘earth, soil’ (vol. 1, p.119); _&ast;i qutan_ meant, among other things, ‘inland’, but _&ast;qutan_ meant ‘bushland’ (vol. 1, p.118).
+Some POc zero-valency local nouns, at least, were also used as common nouns, and this difference sometimes also entailed a difference in meaning. Thus _&ast;i tanoq_ meant ‘down there’ but _&ast;tanoq_ meant ‘earth, soil’ ([vol.1,119](../contributions/1-5#p-119)); _&ast;i qutan_ meant, among other things, ‘inland’, but _&ast;qutan_ meant ‘bushland’ ([vol.1,118](../contributions/1-5#p-118)).
 
 
 <a id="p-238"></a>
@@ -590,7 +590,7 @@ As far as possible, the cognate sets below are limited to reflexes of local-noun
 
 8.2.2.1 ‘Inland, bush’
 
-As a common noun POc _&ast;qutan_ meant ‘bushland, hinterland’ (vol. 1, p.118; this volume, [Ch. 3, §5.1](../contributions/2-3#s-5-1)). As a local noun, however, _&ast;qutan_ denoted the direction of the bush, namely ‘inland’. By extension, this has come to mean ‘upwards’ in a number of languages, by virtue of the fact that the inland region is significantly higher than the coast on many Pacific islands.
+As a common noun POc _&ast;qutan_ meant ‘bushland, hinterland’ ([vol.1,118](../contributions/1-5#p-118); this volume, [Ch. 3, §5.1](../contributions/2-3#s-5-1)). As a local noun, however, _&ast;qutan_ denoted the direction of the bush, namely ‘inland’. By extension, this has come to mean ‘upwards’ in a number of languages, by virtue of the fact that the inland region is significantly higher than the coast on many Pacific islands.
 
 <table id="2-8-2-2-238-POc-qutan-a">
 <tr>
@@ -606,7 +606,8 @@ As a common noun POc _&ast;qutan_ meant ‘bushland, hinterland’ (vol. 1, p.11
 <td style="white-space: nowrap;">
 <i>&ast;qutan</i>
 </td>
-<td>'<span>small wild herbaceous plants; scrubland, bush</span>' (<span>ACD; Dempwolff 1938</span>)</td>
+<td>'<span>small wild herbaceous plants; scrubland, bush</span>' (<a href="../sources/Blust1995">Blust1995</a>; <a href="../sources/Dempwolff1938">Dempwolff1938</a>)
+</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
@@ -1042,7 +1043,7 @@ Nakanai (MM) has the non-cognate pair of roots (used in directional and local ve
 
 8.2.2.4 ‘At home’
 
-The cognate set attesting POc _&ast;Rumaq_ ‘house’ was presented in vol. 1, p.48. It is reasonably clear that it also functioned as a local noun in the phrase _&ast;i Rumaq_ ‘at home’, and apparently also in the adverb _&ast;qa-Rumaq_.
+The cognate set attesting POc _&ast;Rumaq_ ‘house’ was presented in [vol.1,48](../contributions/1-3#p-48). It is reasonably clear that it also functioned as a local noun in the phrase _&ast;i Rumaq_ ‘at home’, and apparently also in the adverb _&ast;qa-Rumaq_.
 
 <table id="2-8-2-2-241-POc-rumaq-a">
 <tr>
@@ -1116,7 +1117,7 @@ The cognate set attesting POc _&ast;Rumaq_ ‘house’ was presented in vol. 1, 
 
 8.2.2.5 ‘Down below’
 
-POc _&ast;tanoq_ is reconstructed as a common noun meaning ‘earth, soil, ground; land’ in vol. 1, p.119 and in this volume, p.41. However, there is well distributed evidence that as a local noun it meant ‘down below’. This is not surprising when one considers that POc speakers must generally have lived in stilt houses (vol. 1, Ch. 3) for whose inhabitants the ground was indeed ‘down below’.
+POc _&ast;tanoq_ is reconstructed as a common noun meaning ‘earth, soil, ground; land’ in [vol.1,119](../contributions/1-5#p-119) and in this volume, p.41. However, there is well distributed evidence that as a local noun it meant ‘down below’. This is not surprising when one considers that POc speakers must generally have lived in stilt houses (vol. 1, Ch. 3) for whose inhabitants the ground was indeed ‘down below’.
 
 <table id="2-8-2-2-241-POc-tanoq-a">
 <tr>
@@ -2450,7 +2451,7 @@ Three other POc terms can be reconstructed with a meaning related to ‘undernea
 
 Several reflexes of the first, POc _&ast;ruku-_, are concatenated with a reflex of _&ast;pa-_ ‘underside’, the short form of _&ast;papa-_. These seem to be compounds, implying that the meaning of _&ast;ruku-_ was perhaps more specific than that of _&ast;papa-_. The latter was evidently the generic term for ‘underneath’. Perhaps &ast;ruku- denoted the undersurface of something.
 
-The second term, POc _&ast;gabʷari-_ meant ‘the area underneath a raised house’ (vol. 1, p.51) and has come to mean ‘underneath’ in some languages by extension. POc _&ast;puqu-_, _puqun_ had the relational meaning ‘base, foundation’ when used in association with an object, as well as the more abstract meaning ‘origin, source, reason’.
+The second term, POc _&ast;gabʷari-_ meant ‘the area underneath a raised house’ ([vol.1,51](../contributions/1-3#p-51)) and has come to mean ‘underneath’ in some languages by extension. POc _&ast;puqu-_, _puqun_ had the relational meaning ‘base, foundation’ when used in association with an object, as well as the more abstract meaning ‘origin, source, reason’.
 
 <table id="2-8-2-3-250-POc-ruku-a">
 <tr>
@@ -2980,7 +2981,7 @@ In NCV languages we find reflexes of the adverb _&ast;qa-qulu_ ‘up there, up a
 
 It is tempting to look for a POc relational noun which would correspond in its use to the English preposition ‘beside’. However, in many of its English uses ‘beside’ denotes a relative location, and, as I noted in [§1](../contributions/2-8#s-1), speakers of Oceanic languages do not make use of relative locations. We would expect POc reconstructions corresponding to meanings of English ‘side’ to denote an intrinsic, not a relative, location, and consequently perhaps to denote a part of a particular object.
 
-This expectation is at least partly fulfilled. We can reconstruct POc _&ast;[pʷa]pʷaRa[-]_ ‘side; cheek’, a body-part term whose primary meaning was probably ‘side of the face’. Its uses are analogous to those of POc _&ast;mata[-]_ ‘eye; face; front’ (p.249). However, a good deal of confusion surrounds reflexes of _&ast;[pʷa]pʷaRa[-]_. Reflexes of POc _&ast;baban_/_&ast;bapan_ ‘plank; canoe plank or strake’ (vol. 1, p.185) are similar in both form and meaning to those of _&ast;[pʷa]pʷaRa[-]_. Listed under ‘cf. also’ below _&ast;[pʷa]pʷaRa[-]_ are terms whose glosses include the meaning ‘side’ but whose forms reflect _&ast;baban_. The Lau and Bauan reflexes have glosses which are associated with both items, suggesting conflation.
+This expectation is at least partly fulfilled. We can reconstruct POc _&ast;[pʷa]pʷaRa[-]_ ‘side; cheek’, a body-part term whose primary meaning was probably ‘side of the face’. Its uses are analogous to those of POc _&ast;mata[-]_ ‘eye; face; front’ (p.249). However, a good deal of confusion surrounds reflexes of _&ast;[pʷa]pʷaRa[-]_. Reflexes of POc _&ast;baban_/_&ast;bapan_ ‘plank; canoe plank or strake’ ([vol.1,185](../contributions/1-7#p-185)) are similar in both form and meaning to those of _&ast;[pʷa]pʷaRa[-]_. Listed under ‘cf. also’ below _&ast;[pʷa]pʷaRa[-]_ are terms whose glosses include the meaning ‘side’ but whose forms reflect _&ast;baban_. The Lau and Bauan reflexes have glosses which are associated with both items, suggesting conflation.
 
 <table id="2-8-2-3-254-POc-papara-a">
 <tr>
@@ -3360,7 +3361,7 @@ The terms in the set below could tempt us to reconstruct POc _&ast;luku-_ ‘sid
 <td><a href="../languages/wayan">Wayan</a></td>
 <td style="white-space: nowrap"><i>liku</i></td>
 <td>
-(N LOC) '<span>back side of the island</span>'</td>
+[N LOC] '<span>back side of the island</span>'</td>
 </tr>
 </table>
 
@@ -6095,7 +6096,7 @@ Some or all of the forms below probably also reflect POc _&ast;sake_ ‘go upwar
 <td><a href="../languages/nelemwa">Nêlêmwâ</a></td>
 <td style="white-space: nowrap"><i>da</i></td>
 <td>
-(DIR) '<span>upward</span>'</td>
+[DIR] '<span>upward</span>'</td>
 </tr>
 <tr>
 <td>NCal</td>
@@ -6109,7 +6110,7 @@ Some or all of the forms below probably also reflect POc _&ast;sake_ ‘go upwar
 <td><a href="../languages/nyelayu">Nyelâyu</a></td>
 <td style="white-space: nowrap"><i>-da</i></td>
 <td>
-(DIR) '<span>upward</span>'</td>
+[DIR] '<span>upward</span>'</td>
 </tr>
 <tr>
 <td>NCal</td>
@@ -6123,7 +6124,7 @@ Some or all of the forms below probably also reflect POc _&ast;sake_ ‘go upwar
 <td><a href="../languages/nemi">Nemi</a></td>
 <td style="white-space: nowrap"><i>-da</i></td>
 <td>
-(DIR) '<span>upward</span>'</td>
+[DIR] '<span>upward</span>'</td>
 </tr>
 <tr>
 <td>NCal</td>
@@ -6137,7 +6138,7 @@ Some or all of the forms below probably also reflect POc _&ast;sake_ ‘go upwar
 <td><a href="../languages/cemuhi">Cèmuhî</a></td>
 <td style="white-space: nowrap"><i>da</i></td>
 <td>
-(DIR) '<span>upward</span>'</td>
+[DIR] '<span>upward</span>'</td>
 </tr>
 <tr>
 <td>NCal</td>
@@ -6158,7 +6159,7 @@ Some or all of the forms below probably also reflect POc _&ast;sake_ ‘go upwar
 <td><a href="../languages/wayan">Wayan</a></td>
 <td style="white-space: nowrap"><i>ða(dra)</i></td>
 <td>
-(DIR) '<span>upward</span>'</td>
+[DIR] '<span>upward</span>'</td>
 </tr>
 </table>
 
@@ -6585,7 +6586,7 @@ I also reconstruct the prepositional verb _&ast;tani_ ‘(go) away from’ below
 
 8.3.4.3 ‘Come towards speaker’
 
-Blust (ACD) reconstructs PAn _&ast;aRi_, which in its root form was used imperatively as ‘come on’, ‘let’s go’ (Paiwan [Formosan] _ari_ ‘let’s go!’) and apparently survives in the Takia interjection _aria_ with the same meanings.[^24] The indicative form was PAn _&ast;maRi_ ‘come’ (from _&ast;um-aRi_, where _&ast;um_ is the actor focus infix; vol. 1, p.29), and this form is well reflected in Formosan and WMP languages. However, it seems likely that the variant _&ast;mai_ existed from the earliest times, as Blust notes Favorlang (Formosan) _mai_ and Yami (WMP) _mai_, and that _&ast;mai_ ousted reflexes of _&ast;maRi_ throughout the Central/Eastern Malayo-Polynesian grouping (e.g. Manggarai, Sikka, Rotinese _mai_) to which POc belonged.
+Blust (ACD) reconstructs PAn _&ast;aRi_, which in its root form was used imperatively as ‘come on’, ‘let’s go’ (Paiwan [Formosan] _ari_ ‘let’s go!’) and apparently survives in the Takia interjection _aria_ with the same meanings.[^24] The indicative form was PAn _&ast;maRi_ ‘come’ (from _&ast;um-aRi_, where _&ast;um_ is the actor focus infix; [vol.1,29](../contributions/1-2#p-29)), and this form is well reflected in Formosan and WMP languages. However, it seems likely that the variant _&ast;mai_ existed from the earliest times, as Blust notes Favorlang (Formosan) _mai_ and Yami (WMP) _mai_, and that _&ast;mai_ ousted reflexes of _&ast;maRi_ throughout the Central/Eastern Malayo-Polynesian grouping (e.g. Manggarai, Sikka, Rotinese _mai_) to which POc belonged.
 
 
 <a id="p-281"></a>
@@ -7803,7 +7804,7 @@ As noted in [§3.3](../contributions/2-8#s-3-3), some reflexes of POc _&ast;pano
 
 
 
-The Harua form _mano_ appears to reflect the application of the PMP Actor focus morpheme _&ast;‹um›_ to the root _&ast;panaw_ (vol. 1, p.29), suggesting that an alternation between _&ast;pano_ and _&ast;mano_ may have survived in POc.
+The Harua form _mano_ appears to reflect the application of the PMP Actor focus morpheme _&ast;‹um›_ to the root _&ast;panaw_ ([vol.1,29](../contributions/1-2#p-29)), suggesting that an alternation between _&ast;pano_ and _&ast;mano_ may have survived in POc.
 
 
 <a id="p-291"></a>

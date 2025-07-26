@@ -2265,7 +2265,7 @@ PMic *tau-mate ‘dead person’
  Mic: Chuukese        sōmæ               ‘corpse’
  Mic: Puluwatese      hōmæ               ‘bad ghost of departed person’
 cf. also
- NCV: Mota            tamate             ‘a dead man; a ghost, a dead man in separation from his body...’
+ NCV: Mota            tamate             ‘a dead man; a ghost, a dead man in separation from his body …’
  NCV: Mwotlap         tmat               ‘corpse’
  NCV: Nokuku          temate             ‘spirit’
  NCV: Paamese         temate             ‘spirit of dead’
@@ -3034,7 +3034,7 @@ PNCV *mwera, *mʷara ‘child’ (Clark 2009)
   NCV: Nokuku         |mʷer (kekara)|   ‘baby’ (_kekara_ ‘red’)
   NCV: Kiai           mera              ‘man, person, human being’
   NCV: NE Ambae       mʷera             ‘man’
-  NCV: W Ambrym       mere              ‘small, a little bit, young, thin...’
+  NCV: W Ambrym       mere              ‘small, a little bit, young, thin …’
   NCV: W Ambrym       (tesi)mre         ‘child, young one’
   NCV: Uripiv         mweri             ‘man, fellow, people’
   NCV: Port Sandwich  mʷera(ur)         ‘bush man’ (_la-ur_ ‘interior forest’)
@@ -3797,7 +3797,7 @@ Richard Eves (1998:26) writes,
 
 __blockquote__
      As in some parts of Melanesia, where there is no generic term for the body as such, when
-     the Lelek speak of the body they speak of the skin, _labantuxu_. ... This is not to say that
+     the Lelek speak of the body they speak of the skin, _labantuxu_. … This is not to say that
      there is no conceptualisation of the body but merely that the skin comes to stand for the body
      as a whole.
 
@@ -9803,7 +9803,7 @@ vol.1:79) or similar round container and a second element _mimi[q,s]_ ‘urine�
 sometimes joined by a linker POc _*qi_ or _*ni_.
 
 __formgroup__
-  Adm:   Titan             ñamwanu-mim       ‘bladder’ (_ñamwanun_ ‘container’)
+  Adm:   Titan             ñamʷanu-mim       ‘bladder’ (_ñamʷanun_ ‘container’)
   MM:    Roviana           koro-mimi-        ‘bladder’ (_koro-koro_ ‘lungs’)
   SES:   Gela              |kei ni mimi-|    ‘bladder’ (_kei_ ‘round basket for food’)
   SES:   Sa’a              |hau mimi-|       ‘bladder’ (_hau_ ‘classifier for compact round objects like stones??)
@@ -10088,23 +10088,23 @@ cf. also:
 >
 
 <
-POc *bwaŋoR ‘snot’
+POc *bʷaŋoR ‘snot’
  Adm: Lou                  puŋop               ‘nasal mucus’
  Adm: Titan                βuŋa(tut)           ‘mucus, snot’
  NNG: Ali                  pañur               ‘nasal mucus’
  NNG: Tumleo               paŋur               ‘nasal mucus’
  NNG: Sissano              pakur               ‘nasal mucus’
- PT:    Iduna              bwana               ‘phlegm’
+ PT:    Iduna              bʷana               ‘phlegm’
  MM: Vitu                  baraŋoŋo            ‘snot’ (metathesis)
  MM: Sursurunga            biŋ                 ‘nasal mucus’ (?vowel)
- SES: Longgu               bwaño(i)            ‘snot’
- SES: Lau                  gwaŋo               ‘mucus in nose’
- SES: Sa’a                 pwaŋo-              ‘mucus in the nose’
- SES: To’aba’ita           gwaŋo-              ‘nasal mucus’
- SES: Arosi                bwaŋo               ‘nasal mucus’
+ SES: Longgu               bʷaño(i)            ‘snot’
+ SES: Lau                  gʷaŋo               ‘mucus in nose’
+ SES: Sa’a                 pʷaŋo-              ‘mucus in the nose’
+ SES: To’aba’ita           gʷaŋo-              ‘nasal mucus’
+ SES: Arosi                bʷaŋo               ‘nasal mucus’
  SES: ’Are’are             pano                ‘nasal mucus’
- NCV: Duidui               gwaŋo               ‘nose’
- NCV: Baetora              bwaŋo               ‘nose’
+ NCV: Duidui               gʷaŋo               ‘nose’
+ NCV: Baetora              bʷaŋo               ‘nose’
 >
 
 <
@@ -11054,8 +11054,8 @@ _*susu_ meant ‘suck’[2] (§4.3.2.3) and _*pa-susu_ meant ‘suckle, feed (ba
 ‘cause to suck’. Two questions arise:
 
 __block__
-A. Does _*pasu[su]_ reflect _*pa-susu_, derived from the latter by metonymy?
-B. If yes, were _*pasu[su]_ ‘give birth’ and _*pa-susu_ ‘suckle’ a single verb in POc?
+A) Does _*pasu[su]_ reflect _*pa-susu_, derived from the latter by metonymy?
+B) If yes, were _*pasu[su]_ ‘give birth’ and _*pa-susu_ ‘suckle’ a single verb in POc?
 
     There are two sets of evidence, and they are in conflict. First, reflexes of _*pa-susu_ ‘suckle’
 in §4.3.2.3 all reflect the disyllabic root _*-susu_, whereas several reflexes of _*pasu[su]_ ‘give
@@ -11617,8 +11617,8 @@ meat or fish (contra the gloss ‘raw seafood; eat raw seafood’ in vol.4:438, 
 
 <
 PAn *qetaq ‘eat s.t. raw’ (ACD)
-PCEMP *qentaq ‘eat s.t. raw’(ACD)
-POc *[q,k]oda(q) ‘eat s.t. raw’(ACD) (Blust 1972b; Lichtenberk 1994:269; ACD)[4]
+PCEMP *qentaq ‘eat s.t. raw’ (ACD)
+POc *[q,k]oda(q) ‘eat s.t. raw’ (Blust 1972b; Lichtenberk 1994:269; ACD)[4]
   PT:  Molima           oda           ‘eat raw food, of animals’
   PT:  Kilivila         koda          ‘eat something uncooked’
   MM:  Roviana          oda           ‘eat fish without relish or vegetables, etc.; eat garden produce, of pigs’
@@ -11821,7 +11821,7 @@ throughout lowland New Guinea and NW Island Melanesia.
 __blockquote__
       Palms are grown in village groves or singly near houses. The seed may be chewed alone, but
       usually people chew a quid consisting of the seed, lime and a catkin or leaf of _Piper betle_
-      [POc _*[pu-]pulu]_…. Chewing the seed induces salivation, and if lime is present it turns the
+      [POc _*[pu-]pulu_] …. Chewing the seed induces salivation, and if lime is present it turns the
       chewed mass bright red. Some people swallow all but the initial burst of saliva, whilst others
       spit out the red masticate. Initially, chewing leads to a very short-lived dizziness, followed by
       a sense of renewed wakefulness. In Papua New Guinea and parts of the Solomons chewing
@@ -13682,7 +13682,7 @@ __block__
 - _*komi_ ‘close the jaws on s.t., hold s.t. in the mouth’ < PMP _*kemi_
 - _*ogom_ (VI), _*ogom-i_ (VT) ‘hold in the mouth’ < PMP _*eŋkem_ (see below)
 - _*gomu_ ‘keep s.t. in the mouth’
-- __*qumu(R)_ ‘suck, hold in mouth’
+- _*qumu(R)_ ‘suck, hold in mouth’
 - _*omu(R)_ ‘roll food around in the mouth’< PMP _*emuR_
 - _*mumu(R)_ ‘hold in the mouth and suck’ < PMP _*muRmuR_
 
@@ -14125,7 +14125,7 @@ weeping (§4.7.3) under physical responses to emotion or pain.
    Bodily function verbs like ‘sneeze’, ‘yawn’, ‘urinate’ and ‘die’ are intransitive in their
 simple form. However, a typical POc verb will also have derived transitive forms carrying
 additional information. With verbs of secretion and excretion the transitive form in _*-i_ took a
-location as its object (‘he urinated on the ground’), and the transitive form in _*-akin[i]_
+location as its object (‘he urinated on the __ground__’), and the transitive form in _*-akin[i]_
 marked the product as the object (Evans 2003:197–199).[31]
 
 4.4.1 Bleeding
@@ -14697,7 +14697,7 @@ cf. also:
 
 
 <
-PSOc *meRe- ‘urine’ (Clark 2009: PNCV *memere ‘urine, urinate’)
+PSOc *meRe- ‘urine’ (Clark 2009: PNCV _*memere_ ‘urine, urinate’)
 PSOc *[me]meRe ‘urinate’ (Clark 2009: PNCV _*memere_ ‘urine, urinate’)
 PSOc *meRes-i- ‘urinate on’ (Clark 2009: PNCV _*memere_ ‘urine, urinate’)
   NCV: Mota              meme              ‘bladder; urine, urinate’
@@ -15462,10 +15462,10 @@ PPn *feŋu ‘blow nose, snort’ (POLLEX)
 Forms for ‘sneeze’ can be divided into two main groups:
 
 __block__
-•    a western group embracing the Admiralties, Western Oceanic and SE Solomonic, reflecting
-     putative onomatopoeic POc forms such as ?_*(k)asipeŋ_, POc ?_*(k)asiŋe(k)_ or ?_*(k)asio_;
-•    an eastern group embracing Vanuatu and Micronesia, reflecting PROc _*mʷat(i,u)a_
-     ‘sneeze’.
+- a western group embracing the Admiralties, Western Oceanic and SE Solomonic, reflecting
+  putative onomatopoeic POc forms such as ?_*(k)asipeŋ_, POc ?_*(k)asiŋe(k)_ or ?_*(k)asio_;
+- an eastern group embracing Vanuatu and Micronesia, reflecting PROc _*mʷat(i,u)a_
+  ‘sneeze’.
 
 In addition there are numerous cognate sets too local in extent to be included here.
 
@@ -16296,8 +16296,8 @@ cf. also:
 Two sets of POc terms are reconstructed for ‘cry, weep’:
 
 __block__
-•   _*taŋis_ (VI) ‘cry, lament etc.’, _*tanis-i-_ (VT) ‘to cry for (s.t.’), _*tanis-aki[ni]-_ ‘cry because of s.t.’
-•   _*ŋara(s)_ (VI) ‘cry’, (VT) _*ŋaras-i-_ ‘cry for (s.t.)’
+- _*taŋis_ (VI) ‘cry, lament etc.’, _*tanis-i-_ (VT) ‘to cry for (s.t.’), _*tanis-aki[ni]-_ ‘cry because of s.t.’
+- _*ŋara(s)_ (VI) ‘cry’, (VT) _*ŋaras-i-_ ‘cry for (s.t.)’
 
 
                                                            Bodily conditions and activities 321
@@ -16689,9 +16689,9 @@ number of senses for which Oceanic speakers use different words or phrases. The 
 of ‘cold’ to denote a sickness is set aside here. Some Oceanic languages distinguish between
 
 __block__
-a.         a person feeling cold (the sense §4.8.1 is concerned with),
-b.         a substance being cold to the touch, and
-c.         the air, wind or weather being cold.
+a. a person feeling cold (the sense §4.8.1 is concerned with),
+b. a substance being cold to the touch, and
+c. the air, wind or weather being cold.
 
    Thus in To’aba’ita the terms are (a) _tega_ or _aqai_, (b) _gʷari_, and (c) _ʔoleʔoleʔa_. However,
 there is a twist: (a) may also be _gʷa-gʷari_, a reduplicated form of (b) (Lichtenberk 2008).
@@ -25382,7 +25382,7 @@ POc *s[a,o]ŋin- (VT) ‘smell s.t.’
  MM:  Minigir           saŋine             (VT) ‘smell s.t.’
  MM:  Minigir           saŋina             (VSt) ‘stink’
  MM:  Tolai             aŋine              (VT) ‘smell s.t., sniff at s.t.’; (ADJ) ‘stinking, smelly’
- MM:  Tolai             aŋina              (N) ‘smell, odour’; (VSt) ‘to smell... (putrid, sweet etc.)’ (In compounds usually _aŋ_ only, e.g. _aŋ na boroi_ ‘to smell of pigs’)
+ MM:  Tolai             aŋina              (N) ‘smell, odour’; (VSt) ‘to smell … (putrid, sweet etc.)’ (In compounds usually _aŋ_ only, e.g. _aŋ na boroi_ ‘to smell of pigs’)
  MM:  Ramoaaina         aŋina              ‘stink’
  NCV: Avava             suŋsuŋ, suŋ        (VI, VT) ‘smell’
  NCV: Naman             nsoŋ               (VI) ‘sniff’

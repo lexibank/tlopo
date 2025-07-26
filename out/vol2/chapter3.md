@@ -63,7 +63,7 @@ The rest of this chapter is organised under the following headings: land mass, c
 ### 2.1. Land, mainland
 
 
-Reflexes of both POc _&ast;panua_ (vol. 1, p.62) and _&ast;tanoq_[^2] are widely used to refer to the extent or physical state (rocky, flat, dry etc.) of the land, and may also be used to contrast land with sea. The two reconstructions, however, differed in their broader meanings. POc _&ast;panua_ had several senses, outlined below, while POc _&ast;tanoq_ referred particularly to ground or soil. Large islands, the major land masses of a region, are often denoted by reflexes of _&ast;panua_, and this term appears in proper names for major islands, e.g. _Hanua To’o_ ‘San Cristobal’ (lit. ‘solid land’), as used in Arosi, of the Southeast Solomons, _Vanua Levu_ and _Vanua Balavu_ (lit. ‘big land’ and ‘long land’) in Fijian. Note also the Tongan form _fonua lahi_ (lit. ‘big land’) for ‘mainland’. In ’Are’are, the land–sea contrast is expressed in _riu i hanua_ ‘travel overland’ and _riu i āsi_ ‘travel by sea’. In Arosi, the land is either _henua hū_ or _ano hū_ (_hū_ ‘dry’) while the sea _is asi_. In nearby Sa’a the contrast is between _ano hū_ ‘dry land’ and _esi_ ‘sea’.
+Reflexes of both POc _&ast;panua_ ([vol.1,62](../contributions/1-3#p-62)) and _&ast;tanoq_[^2] are widely used to refer to the extent or physical state (rocky, flat, dry etc.) of the land, and may also be used to contrast land with sea. The two reconstructions, however, differed in their broader meanings. POc _&ast;panua_ had several senses, outlined below, while POc _&ast;tanoq_ referred particularly to ground or soil. Large islands, the major land masses of a region, are often denoted by reflexes of _&ast;panua_, and this term appears in proper names for major islands, e.g. _Hanua To’o_ ‘San Cristobal’ (lit. ‘solid land’), as used in Arosi, of the Southeast Solomons, _Vanua Levu_ and _Vanua Balavu_ (lit. ‘big land’ and ‘long land’) in Fijian. Note also the Tongan form _fonua lahi_ (lit. ‘big land’) for ‘mainland’. In ’Are’are, the land–sea contrast is expressed in _riu i hanua_ ‘travel overland’ and _riu i āsi_ ‘travel by sea’. In Arosi, the land is either _henua hū_ or _ano hū_ (_hū_ ‘dry’) while the sea _is asi_. In nearby Sa’a the contrast is between _ano hū_ ‘dry land’ and _esi_ ‘sea’.
 
 
 <a id="p-39"></a>
@@ -319,7 +319,7 @@ cf. also: Other examples refer to more planetary aspects, such as the day/night 
 
 <a id="p-41"></a>
 
-POc _&ast;tanoq_ ‘earth, ground, soil; land’ has already been reconstructed in vol. 1, p.119, as a term relevant to horticulture. As a common noun its denotations ranged from the soil beneath one’s feet to the total land mass on which one lived. Besides its use as a common noun, it was also used as a local noun with meanings like ‘down on the ground, down below’ ([Ch.8, §2.2.5](../contributions/2-8#s-2-2-5)).
+POc _&ast;tanoq_ ‘earth, ground, soil; land’ has already been reconstructed in [vol.1,119](../contributions/1-5#p-119), as a term relevant to horticulture. As a common noun its denotations ranged from the soil beneath one’s feet to the total land mass on which one lived. Besides its use as a common noun, it was also used as a local noun with meanings like ‘down on the ground, down below’ ([Ch.8, §2.2.5](../contributions/2-8#s-2-2-5)).
 
 <table id="2-3-2-1-41-POc-tanoq-a">
 <tr>
@@ -559,7 +559,7 @@ Two POc terms are glossed ‘island’. These were probably reserved for small i
 
 Anuta, the name of a very small Polynesian island near Tikopia, is probably also cognate.
 
-The primary role of _&ast;motus_ in POc appears to have been as a stative verb, ‘be broken off, severed’ (see vol.1, p.247 for likely derivation from PMP _&ast;utus_ ‘break under tension’). _&ast;motus_ may have been applied only to islets, isolated rocks and detached reefs, and not to larger islands more suitable for habitation.
+The primary role of _&ast;motus_ in POc appears to have been as a stative verb, ‘be broken off, severed’ (see [vol.1,247](../contributions/1-9#p-247) for likely derivation from PMP _&ast;utus_ ‘break under tension’). _&ast;motus_ may have been applied only to islets, isolated rocks and detached reefs, and not to larger islands more suitable for habitation.
 
 <table id="2-3-2-2-42-POc-motus-a">
 <tr>
@@ -1270,7 +1270,7 @@ No POc reconstruction is available for ‘river mouth’. This concept was proba
 
 POc terms that can be glossed ‘cape, headland’ are all words for a body part or part of an object conceived of as similar in shape. The first is _&ast;(i,u)cuŋ_ ‘nose’. It seems likely that PCP _&ast;uju_, which refers to ‘projecting or exposed land’ also reflects POc _&ast;ucuŋ_ ‘nose’.
 
-The suffixed _-a_ of PPn _&ast;utu-a_ below reflects the POc locative nominalising suffix _&ast;-an_ (vol. 1, pp.33–34).
+The suffixed _-a_ of PPn _&ast;utu-a_ below reflects the POc locative nominalising suffix _&ast;-an_ ([vol.1,33](../contributions/1-2#p-33)–34).
 
 <table id="2-3-3-4-48-POc-iucu-a">
 <tr>
@@ -1473,7 +1473,7 @@ Reflexes of the next item, POc _&ast;ŋoro-ŋorok_ with the gloss ‘cape’ are
 
 
 
-The final reconstruction, PEOc _&ast;mata_ ‘point of land, headland’ is evidently an extension of the more basic meanings attributed to POc _&ast;(m,mʷ)ata_, namely ‘point, blade, cutting-edge (of a weapon or instrument)’ (vol. 1, p.89).
+The final reconstruction, PEOc _&ast;mata_ ‘point of land, headland’ is evidently an extension of the more basic meanings attributed to POc _&ast;(m,mʷ)ata_, namely ‘point, blade, cutting-edge (of a weapon or instrument)’ ([vol.1,89](../contributions/1-4#p-89)).
 
 <table id="2-3-3-4-49-PEOc-mata-a">
 <tr>
@@ -2323,7 +2323,7 @@ The following reconstructions include terms for particular kinds of land, identi
 ### 5.1. Uncultivated land
 
 
-The three following cognate sets are repeated from vol. 1, pp.118–119.
+The three following cognate sets are repeated from [vol.1,118](../contributions/1-5#p-118)–119.
 
 <table id="2-3-5-1-54-POc-qutan-a">
 <tr>
@@ -2339,7 +2339,8 @@ The three following cognate sets are repeated from vol. 1, pp.118–119.
 <td style="white-space: nowrap;">
 <i>&ast;qutan</i>
 </td>
-<td>'<span>small wild herbaceous plants; scrubland, bush</span>' (<span>ACD; Dempwolff 1938</span>)</td>
+<td>'<span>small wild herbaceous plants; scrubland, bush</span>' (<a href="../sources/Blust1995">Blust1995</a>; <a href="../sources/Dempwolff1938">Dempwolff1938</a>)
+</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
@@ -2467,7 +2468,7 @@ The Mussau and Tolo reflexes mean ‘garden’: this change of meaning is probab
 
 It is tempting to associate the set above with PMP _&ast;waRej_, POc _&ast;waRoc_ ‘vine, creeper, rope’, a reconstruction with many widespread reflexes. The implication here is that uncultivated rain forest was a place of tangled vines. However, Gela has two terms, _ao_ ‘forest’ (> _&ast;wao_) and _alo_ ‘creeper, string’ (> _&ast;waRoc_), indicating that there were two distinct terms at the time of POc or a little later, albeit with a possible common origin.
 
-The next POc reconstruction contrasts with _&ast;quma_ ‘garden, cultivated land’ (vol. 1, p.117)
+The next POc reconstruction contrasts with _&ast;quma_ ‘garden, cultivated land’ ([vol.1,117](../contributions/1-5#p-117))
 
 <table id="2-3-5-1-55-POc-talun-a">
 <tr>
@@ -3829,7 +3830,7 @@ The generic term for ‘stone’ or ‘rock’ was POc _&ast;patu_.
 
 <a id="p-64"></a>
 
-The form below is a reduplication of POc _&ast;maga_ ‘stone; slingshot’ (vol. 1, p.227). It probably referred to gravel or pebbles, as its reflexes do in Polynesian and Micronesian languages. Western Oceanic cognates show a semantic shift to ‘sand’.
+The form below is a reduplication of POc _&ast;maga_ ‘stone; slingshot’ ([vol.1,227](../contributions/1-8#p-227)). It probably referred to gravel or pebbles, as its reflexes do in Polynesian and Micronesian languages. Western Oceanic cognates show a semantic shift to ‘sand’.
 
 <table id="2-3-7-1-64-POc-magamaga-a">
 <tr>
@@ -3897,7 +3898,7 @@ The form below is a reduplication of POc _&ast;maga_ ‘stone; slingshot’ (vol
 ### 7.2. Flint, obsidian
 
 
-Two reconstructions for obsidian were proposed in volume 1 (p.93), one at POc level and one at PWOc. They are:
+Two reconstructions for obsidian were proposed in [vol.1(93](../contributions/1-4#p-93)), one at POc level and one at PWOc. They are:
 
 <table id="2-3-7-2-64-POc-naddri-a">
 <tr>
@@ -4483,9 +4484,9 @@ A reduplicated form of the above can also be reconstructed. This may have denote
 ### 7.6. Earth, soil
 
 
-Two POc terms meaning ‘soil’ are well-supported: _&ast;tanoq_ appears to have had three senses, (i) ‘earth, soil (as substance)’; (ii) ‘land, ground (as area or as opposed to sea)’ (this chapter, [§2.1](../contributions/2-3#s-2-1) and vol. 1, p.119), and (iii) ‘down on the ground, down below (as location)’ ([Ch.8, §2.2.5](../contributions/2-8#s-2-2-5)). POc _&ast;pʷay(a)_ was probably limited to the first meaning.
+Two POc terms meaning ‘soil’ are well-supported: _&ast;tanoq_ appears to have had three senses, (i) ‘earth, soil (as substance)’; (ii) ‘land, ground (as area or as opposed to sea)’ (this chapter, [§2.1](../contributions/2-3#s-2-1) and [vol.1,119](../contributions/1-5#p-119)), and (iii) ‘down on the ground, down below (as location)’ ([Ch.8, §2.2.5](../contributions/2-8#s-2-2-5)). POc _&ast;pʷay(a)_ was probably limited to the first meaning.
 
-Some soils contained pigments useful in both body and pot decoration. Although various wordlists include terms for red, white or yellow clay, we have not been able to reconstruct terms. Teeth-blackening was practised among Western Oceanic speakers (PWOc _&ast;tapal_ ‘substance used to blacken teeth’; vol. 1, p.101), but it is unclear from the literature whether the substance was mineral or vegetable matter .
+Some soils contained pigments useful in both body and pot decoration. Although various wordlists include terms for red, white or yellow clay, we have not been able to reconstruct terms. Teeth-blackening was practised among Western Oceanic speakers (PWOc _&ast;tapal_ ‘substance used to blacken teeth’; [vol.1,101](../contributions/1-4#p-101)), but it is unclear from the literature whether the substance was mineral or vegetable matter .
 
 <table id="2-3-7-6-68-POc-paya-a">
 <tr>
@@ -4667,7 +4668,7 @@ Another cognate set may share ancestry with PCP _&ast;gʷele_. It includes Dami 
 
 <a id="p-70"></a>
 
-Clay was used in pot manufacture, which was practised by POc speakers (see vol. 1, pp.67–71). Although non-Oceanic cognates of POc _&ast;raRo(q)_ refer to ground or earth, e.g. Formosan Bunun _dalaq_ ‘ground (earth, land, place, soil)’; WMP Ilocano _daga_ ‘earth, land, soil’, and CMP Buru _rahe_ ‘ground’, we can infer that in POc, _&ast;raRo(q)_ referred specifically to ‘clay’. In NNG and Papuan Tip witnesses, reflexes refer to clay. Meso-Melanesian reflexes refer to clay cooking pots, but not, apparently, to the clay itself. New Caledonian reflexes refer to both clay and pots.
+Clay was used in pot manufacture, which was practised by POc speakers (see [vol.1,67](../contributions/1-4#p-67)–71). Although non-Oceanic cognates of POc _&ast;raRo(q)_ refer to ground or earth, e.g. Formosan Bunun _dalaq_ ‘ground (earth, land, place, soil)’; WMP Ilocano _daga_ ‘earth, land, soil’, and CMP Buru _rahe_ ‘ground’, we can infer that in POc, _&ast;raRo(q)_ referred specifically to ‘clay’. In NNG and Papuan Tip witnesses, reflexes refer to clay. Meso-Melanesian reflexes refer to clay cooking pots, but not, apparently, to the clay itself. New Caledonian reflexes refer to both clay and pots.
 
 <table id="2-3-7-7-70-POc-raroq-a">
 <tr>
@@ -4726,7 +4727,7 @@ Clay was used in pot manufacture, which was practised by POc speakers (see vol. 
 ### 7.8. Salt
 
 
-POc _&ast;maqasin_ seems to have been both a stative verb meaning ‘be salty’ (vol. 1, p.159) and a noun meaning ‘salt’. Its PMP antecedent _&ast;ma-qasin_, however, was purely a stative verb meaning ‘be salty’, derived from the noun _&ast;qasin_ ‘salty taste, salt’ (ACD). Like a number of other PMP stative verbs derived with _&ast;ma-_ from nouns, the prefix of _&ast;maqasin_ became fossilised in POc ([Evans & Ross 2001](../sources/EvansandRoss2001)).
+POc _&ast;maqasin_ seems to have been both a stative verb meaning ‘be salty’ ([vol.1,159](../contributions/1-6#p-159)) and a noun meaning ‘salt’. Its PMP antecedent _&ast;ma-qasin_, however, was purely a stative verb meaning ‘be salty’, derived from the noun _&ast;qasin_ ‘salty taste, salt’ (ACD). Like a number of other PMP stative verbs derived with _&ast;ma-_ from nouns, the prefix of _&ast;maqasin_ became fossilised in POc ([Evans & Ross 2001](../sources/EvansandRoss2001)).
 
 <table id="2-3-7-8-70-POc-maqasin-a">
 <tr>
@@ -4855,7 +4856,7 @@ PAn _&ast;qasiRa_ ‘salt’ has Oceanic reflexes. Despite the formal resemblanc
 ## 8. Fire
 
 
-Oceanic languages generally have a sizeable vocabulary relating to fire. The present discussion is concerned chiefly with the chemistry of fire, i.e. with terms for the processes and products of burning. Cognate sets and reconstructed terms to do with human uses of fire were dealt with in volume 1 and most of these items will not be discussed here. The reconstructions presented in volume 1 (pp.143–157, 293–295) include Poc _&ast;api_ ‘fire’, _&ast;rapu(R)_ ‘hearth, fireplace’, _&ast;suka_, _&ast;suka-i_ ‘make fire with fire-plough’, _&ast;tutu(ŋ)_, _&ast;tuŋi-_ ‘set fire to, light (a fire)’, _&ast;tunu_ ‘roast on embers or in fire’, _&ast;sunu_ ‘singe’, _&ast;nasu(q)_ ‘boil’, _&ast;pa[ka]-qasu_ ‘cure by smoking’, _&ast;tapa_ ‘dry food by heat to preserve it, smoke food’, _&ast;raraŋ_, _&ast;raŋ-i_ ‘heat s.t. or warm oneself by fire’, _&ast;sokot-i_ ‘burn grass, rubbish +’, _&ast;sulu_ ‘dry coconut leaf torch’, _&ast;qumun_ ‘oven made with hot stones’ and PEOc _&ast;papia_ ‘firewood’.
+Oceanic languages generally have a sizeable vocabulary relating to fire. The present discussion is concerned chiefly with the chemistry of fire, i.e. with terms for the processes and products of burning. Cognate sets and reconstructed terms to do with human uses of fire were dealt with in volume 1 and most of these items will not be discussed here. The reconstructions presented in [vol.1(143](../contributions/1-6#p-143)–157, 293–295) include Poc _&ast;api_ ‘fire’, _&ast;rapu(R)_ ‘hearth, fireplace’, _&ast;suka_, _&ast;suka-i_ ‘make fire with fire-plough’, _&ast;tutu(ŋ)_, _&ast;tuŋi-_ ‘set fire to, light (a fire)’, _&ast;tunu_ ‘roast on embers or in fire’, _&ast;sunu_ ‘singe’, _&ast;nasu(q)_ ‘boil’, _&ast;pa[ka]-qasu_ ‘cure by smoking’, _&ast;tapa_ ‘dry food by heat to preserve it, smoke food’, _&ast;raraŋ_, _&ast;raŋ-i_ ‘heat s.t. or warm oneself by fire’, _&ast;sokot-i_ ‘burn grass, rubbish +’, _&ast;sulu_ ‘dry coconut leaf torch’, _&ast;qumun_ ‘oven made with hot stones’ and PEOc _&ast;papia_ ‘firewood’.
 
 Oceanic languages, by and large, make similar lexical distinctions to everyday English when talking about chemistry of fire, but the matches are not exact. Many Oceanic primary terms (single morpheme lexemes) are polysemous or have a rather broad range of reference, e.g. in a given language the same term may denote both ‘ashes’ and ‘fireplace’, or ‘ash’ and ‘soot’, or ‘live coals’ and ‘embers’. English too, is vague or general in many of its primary terms, and relies on compounds and phrasal expressions to make finer distinctions, for example embers has a broad range of reference, as shown by such conventional descriptive expressions as live coals, glowing embers, dying embers, dull black embers, hot ash, white ash.
 
@@ -5110,7 +5111,7 @@ It appears that most Oceanic languages use a single term to refer to both ‘hot
 
 
 
-PMP _&ast;baRah_ ‘live coal’ may be reconstructed from, e.g. Tagalog _baga_, Malay _bara_, Ngadju-Dayak _barah_ ‘live coal’. This is possibly continued in Ramoaaina _para_ ‘bake on fire’, Motu _hara-ia_ ‘light a fire; broil’, _hara_ ‘platform of sticks on which meat is grilled’ but the meaning differences leave a question. There is already a distinct, well-established POc reconstruction for ‘cook over an open fire, roast over embers’, namely _&ast;tunu_ (vol. 1, pp.293–294).
+PMP _&ast;baRah_ ‘live coal’ may be reconstructed from, e.g. Tagalog _baga_, Malay _bara_, Ngadju-Dayak _barah_ ‘live coal’. This is possibly continued in Ramoaaina _para_ ‘bake on fire’, Motu _hara-ia_ ‘light a fire; broil’, _hara_ ‘platform of sticks on which meat is grilled’ but the meaning differences leave a question. There is already a distinct, well-established POc reconstruction for ‘cook over an open fire, roast over embers’, namely _&ast;tunu_ ([vol.1,293](../contributions/1-9#p-293)–294).
 
 
 <a id="p-74"></a>
@@ -7251,7 +7252,7 @@ The meanings of the prefix _&ast;qā-_, and the alternative form _&ast;pua-_ (bl
 
 
 
-The next item may be associated in some way with POc _&ast;piro_ ‘twist together’ (vol. 1, p.287).
+The next item may be associated in some way with POc _&ast;piro_ ‘twist together’ ([vol.1,287](../contributions/1-9#p-287)).
 
 <table id="2-3-9-7-88-POc-pirupiru-a">
 <tr>
@@ -7330,12 +7331,12 @@ But there are salient parts of Oceanic land environments for which we cannot rec
 
 [^1]: Thanks are due to Ann Chowning, Ralph Lawton, John Lynch, Françoise Ozanne-Rivierre and Ian Scales who have all made useful suggestions and contributed additional data to this chapter.
 
-[^2]: The form POc _&ast;tano(q)_ given in vol. 1, p.119 has now been revised to _&ast;tanoq_. Evidence supporting final _&ast;-q_ lies in the retention of a final vowel in Kwamera (John Lynch, pers. comm.) and Iaai (Françoise Ozanne-Rivierre, pers. comm.) .
+[^2]: The form POc _&ast;tano(q)_ given in [vol.1,119](../contributions/1-5#p-119) has now been revised to _&ast;tanoq_. Evidence supporting final _&ast;-q_ lies in the retention of a final vowel in Kwamera (John Lynch, pers. comm.) and Iaai (Françoise Ozanne-Rivierre, pers. comm.) .
 
-[^3]: In vol. 1, p.189 the form POc _&ast;ijuŋ_ ‘projecting headboard of prow’ is erroneously given for &ast;(i,u)cuŋ. This is almost certainly the same etymon as that reconstructed here.
+[^3]: In [vol.1,189](../contributions/1-7#p-189) the form POc _&ast;ijuŋ_ ‘projecting headboard of prow’ is erroneously given for &ast;(i,u)cuŋ. This is almost certainly the same etymon as that reconstructed here.
 
 [^4]: It is tempting to decide that this is the same term as POc _&ast;koro_ ‘(i) any fenced-in area’, (ii) settlement fortified by a palisade or ditch’ ([Pawley 2005](../sources/Pawley2005)), on the basis that fortifications were typically situated on high ground. But there is strong evidence that there were two distinct terms at least as far back as POc.
 
 [^5]: Languages where kinds of swamp are lexically distinguished include Kiriwina _dumia_ ‘inland swamp’, _pasa_, _vamova_ ‘mangrove swamp’ and Kwaio _kunu_, _kū-kunu_ ‘saltwater mud’, _kunu-kunu_ ‘freshwater mud, swamp’. Also Ulawa _lo-lolo_ ‘swamp in which sago palms grow’ and closely related language Sa’a which has _lo-loŋo_ ‘mangrove swamp’.
 
-[^6]: In vol. 1, p.139 the form PCP _&ast;pusi_ is erroneously given for _&ast;vusi_ (POc _&ast;p_ split into PCP _&ast;p_ and _&ast;v_).
+[^6]: In [vol.1,139](../contributions/1-5#p-139) the form PCP _&ast;pusi_ is erroneously given for _&ast;vusi_ (POc _&ast;p_ split into PCP _&ast;p_ and _&ast;v_).

@@ -342,6 +342,13 @@ class Dataset(BaseDataset):
                     ID=slug(w.lang), Name=slug(w.lang, lowercase=False), Is_Proto=True)
                 langs[w.lang] = slug(w.lang)
 
+        chapter_pages = {}
+        for md in self.raw_dir.glob('vol*/md.json'):
+            for chap in md.parent.read_json(md.name)['chapters']:
+                s, _, e = chap['pages'].partition('-')
+                chapter_pages['{}-{}'.format(md.parent.name.replace('vol', ''), chap['number'])] = \
+                    (int(s), int(e))
+
         fgs, egs, taxon2sections = [], [], collections.defaultdict(list)
         for vol in range(1, 7):
             #if vol not in {1, 2, 3, 4, 5}:
@@ -349,7 +356,13 @@ class Dataset(BaseDataset):
             t = self.raw_dir / 'vol{}'.format(vol) / 'text.txt'
             if not t.exists():
                 continue
-            vol = Volume(t.parent, langs, Source.from_bibtex(self.etc_dir.read('citation.bib')), args.writer.cldf.sources)
+            vol = Volume(
+                t.parent,
+                langs,
+                Source.from_bibtex(self.etc_dir.read('citation.bib')),
+                args.writer.cldf.sources,
+                chapter_pages=chapter_pages,
+            )
             for i, rec in enumerate(vol.reconstructions):
                 reconstructions.append(rec)
             for i, fg in enumerate(vol.formgroups):

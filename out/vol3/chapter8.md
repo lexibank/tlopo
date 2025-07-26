@@ -1695,7 +1695,8 @@ The reconstruction below originates with [French-Wright](../sources/FrenchWright
 <td style="white-space: nowrap;">
 <i>&ast;pijo</i>
 </td>
-<td>'<span>cane or reed taxon, including <em>Saccharum spontaneum</em></span>' (<span>Milke 1968: <em>&ast;piso</em> 'k.o. reed'; French-Wright 1983: <em>&ast;piso</em></span>)</td>
+<td>'<span>cane or reed taxon, including <em>Saccharum spontaneum</em></span>' (<a href="../sources/FrenchWright1983">FrenchWright1983</a>: <span><em>*piso</em></span>; <a href="../sources/Milke1968">Milke1968</a>: <span><em>*piso</em> 'k.o. reed'</span>)
+</td>
 </tr>
 <tr>
 <td>NNG</td><td><a href="../languages/mangap">Mangap</a></td><td style="white-space: nowrap;"><i>mbiizi</i></td>

@@ -603,7 +603,7 @@ Three of these, _&ast;upi_, _&ast;ipu_ and _&ast;i(p,pʷ)i_, are clearly related
 
 
 
-In a number of NNG languages in the region of the Vitiaz Strait and the Huon Gulf, a nominalised form of _&ast;upi_ ‘blow’ has become the generic term for ‘wind’ (see vol. 1, pp.33–34 with regard to nominalising morphology):
+In a number of NNG languages in the region of the Vitiaz Strait and the Huon Gulf, a nominalised form of _&ast;upi_ ‘blow’ has become the generic term for ‘wind’ (see [vol.1,33](../contributions/1-2#p-33)–34 with regard to nominalising morphology):
 
 
 <a id="p-130"></a>
@@ -734,7 +734,7 @@ It seems likely that the form _&ast;i(p,pʷ)i_ is the result of an idiosyncratic
 
 
 
-Two other forms meaning ‘blow’ are also reconstructable. These are also formally rather similar to each other, but this similarity evidently dates back to well before the genesis of POc. I know of no proper non-Oceanic cognates of POc _&ast;(p,pʷ)usi_, but it appears to reflect the same monosyllabic root (_&ast;bus_) as PMP _&ast;qembus_ ‘snort, pant’ (ACD) (with regard to monosyllabic roots, see vol. 1, pp.27–28).
+Two other forms meaning ‘blow’ are also reconstructable. These are also formally rather similar to each other, but this similarity evidently dates back to well before the genesis of POc. I know of no proper non-Oceanic cognates of POc _&ast;(p,pʷ)usi_, but it appears to reflect the same monosyllabic root (_&ast;bus_) as PMP _&ast;qembus_ ‘snort, pant’ (ACD) (with regard to monosyllabic roots, see [vol.1,27](../contributions/1-2#p-27)–28).
 
 <table id="2-5-4-1-130-POc-ppusi-a">
 <tr>
@@ -1014,7 +1014,8 @@ POc _&ast;apaRat_ ‘northwest wind’ has non-Oceanic cognates. It is descended
 <td style="white-space: nowrap;">
 <i>&ast;SabaRat</i>
 </td>
-<td>'<span>(?) south wind</span>' (<span>ACD; Zorc 1994: ‘monsoon wind’</span>)</td>
+<td>'<span>(?) south wind</span>' (<a href="../sources/Blust1995">Blust1995</a>; <a href="../sources/Zorc1994">Zorc1994</a>: <span>‘monsoon wind’</span>)
+</td>
 </tr>
 <tr>
 <td><strong>PMP</strong></td><td> </td>
@@ -1318,7 +1319,8 @@ Blust (ACD) takes it that PMP _&ast;habaRat_ ‘southwest monsoon season, wet se
 <td style="white-space: nowrap;">
 <i>&ast;timuR</i>
 </td>
-<td>'<span>south or east wind</span>' (<span>Dempwolff 1938: ‘wind bringing rain’; Zorc 1994: ‘rain wind from southeast’</span>)</td>
+<td>'<span>south or east wind</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>: <span>‘wind bringing rain’</span>; <a href="../sources/Zorc1994">Zorc1994</a>: <span>‘rain wind from southeast’</span>)
+</td>
 </tr>
 <tr>
 <td>WMP</td><td><a href="../languages/belau">Belau</a></td><td style="white-space: nowrap;"><i>ðíməs</i></td>
@@ -2768,7 +2770,7 @@ The meanings of the set below are intriguing: their common denominator seems to 
 
 
 
-The items below—POc _&ast;kapu(t)_/_&ast;kopu_ ‘low cloud, mist, fog’ and POc _&ast;gapu(l)_ ‘mist’ — are intriguing because of their formal similarity to each other. It is eminently likely that _&ast;gapu(l)_ is derivationally related to _&ast;kapu(t)_. If we ignore their putative final consonants, the former appears to be derived from _&ast;N_ + _kapu_ (see vol. 1, pp.29–30). But the final _&ast;-t_ of _&ast;kapu(t)_ is attested by non-Oceanic witnesses, the final _&ast;-l_ of _&ast;gapu(l)_ by its Minigir and Tolai reflexes, and I cannot see a way of resolving this conflict.
+The items below—POc _&ast;kapu(t)_/_&ast;kopu_ ‘low cloud, mist, fog’ and POc _&ast;gapu(l)_ ‘mist’ — are intriguing because of their formal similarity to each other. It is eminently likely that _&ast;gapu(l)_ is derivationally related to _&ast;kapu(t)_. If we ignore their putative final consonants, the former appears to be derived from _&ast;N_ + _kapu_ (see [vol.1,29](../contributions/1-2#p-29)–30). But the final _&ast;-t_ of _&ast;kapu(t)_ is attested by non-Oceanic witnesses, the final _&ast;-l_ of _&ast;gapu(l)_ by its Minigir and Tolai reflexes, and I cannot see a way of resolving this conflict.
 
 <table id="2-5-5-2-145-POc-kaput-a">
 <tr>
@@ -2848,7 +2850,7 @@ The Bali and Fijian forms below are problematic, as they reflect POc _&ast;kabu(
 <td><a href="../languages/wayan">Wayan</a></td>
 <td style="white-space: nowrap"><i>kabu</i></td>
 <td>
-(N) '<span>mist, haze, fog</span>'; (V) '<span>be covered in cloud, mist, fog</span>'</td>
+[N] '<span>mist, haze, fog</span>'; [V] '<span>be covered in cloud, mist, fog</span>'</td>
 </tr>
 </table>
 

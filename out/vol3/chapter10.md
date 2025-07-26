@@ -1048,7 +1048,8 @@ The items under 'cf. also' are probably not cognate. Three of them point to a te
 <td style="white-space: nowrap;">
 <i>&ast;ba(k,g)a</i>
 </td>
-<td>'<span>banyan tree, medium-sized <em>Ficus</em> spp., not stranglers</span>' (<span>Biggs 1965: <em>&ast;baka</em>; Ross 1996d</span>)</td>
+<td>'<span>banyan tree, medium-sized <em>Ficus</em> spp., not stranglers</span>' (<a href="../sources/Biggs1965">Biggs1965</a>: <span><em>*baka</em></span>; <a href="../sources/Ross1996d">Ross1996d</a>)
+</td>
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/sursurunga">Sursurunga</a></td><td style="white-space: nowrap;"><i>pak</i></td>

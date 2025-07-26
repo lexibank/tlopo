@@ -1762,7 +1762,8 @@ The distributions of POc _&ast;ñoñu_ and _&ast;kurat_ are complementary: _&ast
 <td style="white-space: nowrap;">
 <i>&ast;ñoñu</i>
 </td>
-<td>'<span><em>Morinda citrifolia</em></span>' (<span>Milke 1965: <em>&ast;nonum</em>; Blust 1978b</span>)</td>
+<td>'<span><em>Morinda citrifolia</em></span>' (<a href="../sources/Blust1978b">Blust1978b</a>; <a href="../sources/Milke1965">Milke1965</a>: <span><em>*nonum</em></span>)
+</td>
 </tr>
 <tr>
 <td>Adm</td><td><a href="../languages/seimat">Seimat</a></td><td style="white-space: nowrap;"><i>naun</i></td>
@@ -2721,7 +2722,8 @@ Three other etyma are reconstructed below: POc _&ast;jiRi_, _&ast;kaRi(q)a_ and 
 <td style="white-space: nowrap;">
 <i>&ast;mʷa(r,R)e</i>
 </td>
-<td>'<span>taxon including <em>Codiaeum variegatum</em> and <em>Cordyline fruticosa</em></span>' (<span>Ross 1996d; Chowning 1963: <em>&ast;male</em></span>)</td>
+<td>'<span>taxon including <em>Codiaeum variegatum</em> and <em>Cordyline fruticosa</em></span>' (<a href="../sources/Chowning1963">Chowning1963</a>: <span><em>*male</em></span>; <a href="../sources/Ross1996d">Ross1996d</a>)
+</td>
 </tr>
 <tr>
 <td>NNG</td><td><a href="../languages/kove">Kove</a></td><td style="white-space: nowrap;"><i>mohe</i></td>
@@ -2813,7 +2815,8 @@ cf. also:
 <td style="white-space: nowrap;">
 <i>&ast;jiRi</i>
 </td>
-<td>'<span>taxon consisting of <em>Cordyline fruticosa</em> and <em>Dracaena angustifolia</em></span>' (<span>Milke 1968: <em>&ast;diRi</em>; Ross 1988</span>)</td>
+<td>'<span>taxon consisting of <em>Cordyline fruticosa</em> and <em>Dracaena angustifolia</em></span>' (<a href="../sources/Milke1968">Milke1968</a>: <span><em>*diRi</em></span>; <a href="../sources/Ross1988">Ross1988</a>)
+</td>
 </tr>
 <tr>
 <td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td style="white-space: nowrap;"><i>sii</i></td>

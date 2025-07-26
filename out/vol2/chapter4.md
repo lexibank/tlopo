@@ -1429,7 +1429,7 @@ PAn _&ast;buCaq_ and _&ast;puCaq_ are to our knowledge not reflected in Oceanic 
 
 No single contemporary Oceanic language we know of has reflexes of two of these forms with identical meaning. However, Arosi has a contrast between _ʔabuta_ ‘the break of a wave, the foam and white of the crest of a wave’ and _huto-hut_o ‘foam, froth’, while ’Are’are contrasts _aputa_ ‘(surf) break’ with _huto-huto_ ‘slime, saliva’. This suggests that POc _&ast;busa_ and _&ast;puso_ may have differed in meaning, with the former perhaps denoting foam of the sea and the latter a more general term for foaming or slimy substances.
 
-There is an additional formal complication, namely that PMP _&ast;bujeq_ seems to have two sets of reflexes in Oceanic languages, pointing to two POc forms: _&ast;buso_ and POc _&ast;puso_. It may be that POc indeed had both, _&ast;buso_ perhaps a verb, _&ast;puso_ a verb or a noun (see vol. 1, pp.30–31). Alternatively, forms apparently reflecting _&ast;buso_ may represent a conflation of _&ast;busa_ and _&ast;puso_, implying that &ast;buso did not in fact occur in POc.
+There is an additional formal complication, namely that PMP _&ast;bujeq_ seems to have two sets of reflexes in Oceanic languages, pointing to two POc forms: _&ast;buso_ and POc _&ast;puso_. It may be that POc indeed had both, _&ast;buso_ perhaps a verb, _&ast;puso_ a verb or a noun (see [vol.1,30](../contributions/1-2#p-30)–31). Alternatively, forms apparently reflecting _&ast;buso_ may represent a conflation of _&ast;busa_ and _&ast;puso_, implying that &ast;buso did not in fact occur in POc.
 
 <table id="2-4-2-5-101-POc-busa-a">
 <tr>
@@ -2693,7 +2693,7 @@ POc _&ast;oda_ ‘reef’ is widely reflected in Micronesian languages, but othe
 
 
 
-However, further evidence supporting oda as a term for ‘reef’ lies in two reconstructions made by Ross [Clark](../sources/Clark1991) ([1991](../sources/Clark1991)), POc _&ast;paŋ-oda_ ‘gather shellfish and other seafood on the reef’ and _&ast;p-in-aŋ-oda_ ‘shellfish, seafood gathered on the reef’ (where _&ast;paŋ-_ is the verbal suffix (underlying form _&ast;paN-_) and _-in-_ the noun-deriving infix discussed in vol. 1, p.29 and p.33 respectively). A selection of reflexes follows:
+However, further evidence supporting oda as a term for ‘reef’ lies in two reconstructions made by Ross [Clark](../sources/Clark1991) ([1991](../sources/Clark1991)), POc _&ast;paŋ-oda_ ‘gather shellfish and other seafood on the reef’ and _&ast;p-in-aŋ-oda_ ‘shellfish, seafood gathered on the reef’ (where _&ast;paŋ-_ is the verbal suffix (underlying form _&ast;paN-_) and _-in-_ the noun-deriving infix discussed in [vol.1,29](../contributions/1-2#p-29) and p.33 respectively). A selection of reflexes follows:
 
 <table id="2-4-3-2-110-pt-motu-haoda">
 <tr>
@@ -2701,7 +2701,7 @@ However, further evidence supporting oda as a term for ‘reef’ lies in two re
 <td><a href="../languages/motu">Motu</a></td>
 <td style="white-space: nowrap"><i>haoda</i></td>
 <td>
-(V) '<span>fish</span>'</td>
+[V] '<span>fish</span>'</td>
 </tr>
 <tr>
 <td>SES</td>
@@ -3076,7 +3076,7 @@ Both the SE Solomonic and Micronesian reflexes of PEOc _&ast;baro_ refer to flat
 
 
 
-Reflexes of POc _&ast;baban_ ‘flat; flat rock, any hard flat surface’ are also used in some languages to refer to flat rock surfaces underwater (see vol. 1, p.58).
+Reflexes of POc _&ast;baban_ ‘flat; flat rock, any hard flat surface’ are also used in some languages to refer to flat rock surfaces underwater (see [vol.1,58](../contributions/1-3#p-58)).
 
 
 <a id="s-3-4"></a>
