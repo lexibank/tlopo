@@ -10,7 +10,7 @@ html {
 }
 
 body {
-  color: #444;
+  color: #222;
   font-family: Georgia, Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;
   font-size: 13px;
   line-height: 1.7;
@@ -105,7 +105,7 @@ h6 {
 }
 
 blockquote {
-  color: #666666;
+  color: #444;
   margin: 0;
   padding-left: 3em;
   border-left: 0.5em #EEE solid;
@@ -207,6 +207,8 @@ img {
 }
 
 span.sideways {writing-mode: sideways-lr;}
+span.downwards {writing-mode: vertical-rl;}
+th:has(> span.downwards) {vertical-align: top;}
 span.sc {font-variant: small-caps;}
 
 figure {
@@ -221,7 +223,7 @@ figure img {
 }
 
 figcaption {
-  font-size: 0.8em;
+  font-size: 100%;
   margin: 0 0 .8em;
 }
 
@@ -353,3 +355,4 @@ table.igt caption {
   caption-side: bottom;
   text-align: left;
 }
+span.smallcaps {font-variant: all-small-caps}
