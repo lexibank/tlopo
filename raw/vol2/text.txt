@@ -2434,7 +2434,7 @@ distinct terms at the time of POc or a little later, albeit with a possible comm
     The next POc reconstruction contrasts with _*quma_ ‘garden, cultivated land’ (vol. 1, p.117)
 
 <
-PMP *talun ‘fallow land’ (Dempwolff 1938)
+PMP *talun ‘fallow land’ (Blust 1972b, Dempwolff 1938)
 POc *talu(n) ‘old garden, fallow land, land returning to secondary growth’ (vol. 1, p.118)
  SES: Gela            talu            ‘forest land which has been previously cultivated’
  SES: Kwaio           alu             ‘garden of second or third crop’
@@ -8116,7 +8116,7 @@ PEOc *u(C)unu ‘Aldebaran’
  Mic: Lamotrek      ul              ‘Aldebaran’
  Mic: Satawalese    ul              ‘Aldebaran’
  Mic: Carolinian    wūn             ‘the star Aldebaran; synodic month, approx. July–August’
- Pn:  K’marangi     |ūnu te|        ‘star name’ (Pukui & Elbert 1973)
+ Pn:  K’marangi     |ūnu te|        ‘star name’ (Pukui & Elbert 1971)
 >
 
 Other names located for Aldebaran include:

@@ -35,7 +35,7 @@ POc _&ast;niuR_ appears to have been used in at least two senses: the fruit at a
 <td style="white-space: nowrap;">
 <i>&ast;niuR</i>
 </td>
-<td>'<span>coconut, <em>Cocos nucifera</em>; ripe coconut (growth stage of <em>Cocos nucifera</em>)</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
+<td>'<span>coconut, <em>Cocos nucifera</em>; ripe coconut (growth stage of <em>Cocos nucifera</em>)</span>' (<a href="../sources/Dempwolff1938">Dempwolff 1938</a>)
 </td>
 </tr>
 <tr>
@@ -47,7 +47,7 @@ POc _&ast;niuR_ appears to have been used in at least two senses: the fruit at a
 </tr>
 <tr>
 <td>Adm</td><td><a href="../languages/loniu">Loniu</a></td><td style="white-space: nowrap;"><i>niu</i></td>
-<td>'<span>coconut</span>' (<a href="../sources/Nevermann1934">Nevermann1934</a>)
+<td>'<span>coconut</span>' (<a href="../sources/Nevermann1934">Nevermann 1934</a>)
 </td>
 </tr>
 <tr>
@@ -492,7 +492,7 @@ Two forms can be reconstructed for landmark stage 6, 'green drinkable coconut wi
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/petats">Petats</a></td><td style="white-space: nowrap;"><i>ka-karut</i></td>
-<td>'<span>nut containing liquid before flesh appears</span>' (<a href="../sources/Blackwood1935">Blackwood1935</a>)
+<td>'<span>nut containing liquid before flesh appears</span>' (<a href="../sources/Blackwood1935">Blackwood 1935</a>)
 </td>
 </tr>
 <tr>
@@ -555,7 +555,7 @@ Reconstructable terms for stage 9, 'ripe, flesh hardened', are POc _&ast;matuqu_
 <td style="white-space: nowrap;">
 <i>&ast;matu(qu)</i>
 </td>
-<td>'<span>dry coconut</span>' (<a href="../sources/Blust1978a">Blust1978a</a>)
+<td>'<span>dry coconut</span>' (<a href="../sources/Blust1978a">Blust 1978a</a>)
 </td>
 </tr>
 <tr>
@@ -688,7 +688,7 @@ The Fijian gloss below calls into question the gloss of POc _&ast;kulu_. However
 <td style="white-space: nowrap;">
 <i>&ast;kulu</i>
 </td>
-<td>'<span>coconut growth stage 9: ripe, flesh hardened</span>' (<a href="../sources/FrenchWright1983">FrenchWright1983</a>)
+<td>'<span>coconut growth stage 9: ripe, flesh hardened</span>' (<a href="../sources/FrenchWright1983">French-Wright 1983</a>)
 </td>
 </tr>
 <tr>
@@ -753,7 +753,7 @@ Other than the items mentioned in the previous paragraph, none of the items belo
 <td style="white-space: nowrap;">
 <i>&ast;(ma)Raŋaw</i>
 </td>
-<td>'<span>dry</span>' (<a href="../sources/Blust1981b">Blust1981b</a>)
+<td>'<span>dry</span>' (<a href="../sources/Blust1981b">Blust 1981b</a>)
 </td>
 </tr>
 <tr>
@@ -1047,17 +1047,17 @@ Three terms, POc _&ast;kubu_, POc _&ast;bʷaji-bʷaji_ and PWOc _&ast;pʷiga_, d
 </tr>
 <tr>
 <td>Adm</td><td><a href="../languages/wuvulu">Wuvulu</a></td><td style="white-space: nowrap;"><i>upu</i></td>
-<td>'<span>mature coconut with meat</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>mature coconut with meat</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
 <td>Adm</td><td><a href="../languages/aua">Aua</a></td><td style="white-space: nowrap;"><i>upu</i></td>
-<td>'<span>young coconut</span>' (<a href="../sources/Blust1978b">Blust1978b: 131</a>)
+<td>'<span>young coconut</span>' (<a href="../sources/Blust1978b">Blust 1978b: 131</a>)
 </td>
 </tr>
 <tr>
 <td>Adm</td><td><a href="../languages/seimat">Seimat</a></td><td style="white-space: nowrap;"><i>up</i></td>
-<td>'<span>coconut</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>coconut</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -1090,12 +1090,12 @@ Three terms, POc _&ast;kubu_, POc _&ast;bʷaji-bʷaji_ and PWOc _&ast;pʷiga_, d
 </tr>
 <tr>
 <td>Mic</td><td><a href="../languages/kosraean">Kosraean</a></td><td style="white-space: nowrap;"><i>uf</i></td>
-<td>'<span>young coconut</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>young coconut</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
 <td>Mic</td><td><a href="../languages/ponapean">Ponapean</a></td><td style="white-space: nowrap;"><i>ūpʷ</i></td>
-<td>'<span>drinking coconut</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>drinking coconut</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -1197,7 +1197,7 @@ In [vol. 2 (ch. 7, §5.6](../contributions/2-7#s-5-6)) POc _&ast;goRu_ 'dry, of 
 <td style="white-space: nowrap;">
 <i>&ast;[ma-]goRu(s)</i>
 </td>
-<td>'<span>dry, of vegetation; coconut growth stage 9 or 10: ripe, perhaps dry and ready to fall</span>' (<a href="../sources/Ross1996d">Ross1996d</a>)
+<td>'<span>dry, of vegetation; coconut growth stage 9 or 10: ripe, perhaps dry and ready to fall</span>' (<a href="../sources/Ross1996d">Ross 1996d</a>)
 </td>
 </tr>
 <tr>
@@ -1644,7 +1644,7 @@ The distinction between 'coconut cream' and 'coconut milk' is fuzzy. The cream i
 <td style="white-space: nowrap;">
 <i>&ast;ar(e,o)ŋ, &ast;ar(e,o)ŋu-</i>
 </td>
-<td>'<span>coconut cream, scraped coconut meat</span>' (<a href="../sources/Benderetal2003">Benderetal2003</a>)
+<td>'<span>coconut cream, scraped coconut meat</span>' (<a href="../sources/Benderetal2003">Bender et al. 2003</a>)
 </td>
 </tr>
 <tr>
@@ -1695,7 +1695,7 @@ Coconut oil, produced by boiling the milk, was apparently regarded as a form of 
 <td style="white-space: nowrap;">
 <i>&ast;meñak</i>
 </td>
-<td>'<span>fat, grease</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
+<td>'<span>fat, grease</span>' (<a href="../sources/Dempwolff1938">Dempwolff 1938</a>)
 </td>
 </tr>
 <tr>
@@ -1703,7 +1703,7 @@ Coconut oil, produced by boiling the milk, was apparently regarded as a form of 
 <td style="white-space: nowrap;">
 <i>&ast;moñak</i>
 </td>
-<td>'<span>fat, oil, cream, coconut cream; tasty</span>' (<a href="../sources/Blust1978b">Blust1978b</a>)
+<td>'<span>fat, oil, cream, coconut cream; tasty</span>' (<a href="../sources/Blust1978b">Blust 1978b</a>)
 </td>
 </tr>
 <tr>
@@ -1773,7 +1773,7 @@ The reconstruction of POc _&ast;paraq_ entails a small phonological puzzle. For 
 <td style="white-space: nowrap;">
 <i>&ast;para</i>
 </td>
-<td>'<span>coconut embryo</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>coconut embryo</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -1801,7 +1801,7 @@ The reconstruction of POc _&ast;paraq_ entails a small phonological puzzle. For 
 </tr>
 <tr>
 <td>PT</td><td><a href="../languages/kilivila">Kilivila</a></td><td style="white-space: nowrap;"><i>valiga</i></td>
-<td>'<span>coconut sprout, coconut sponge</span>' (<a href="../sources/Malinowski1935b">Malinowski1935b: 112</a>)
+<td>'<span>coconut sprout, coconut sponge</span>' (<a href="../sources/Malinowski1935b">Malinowski 1935b: 112</a>)
 </td>
 </tr>
 <tr>
@@ -1885,7 +1885,7 @@ The reconstruction of POc _&ast;paraq_ entails a small phonological puzzle. For 
 <td style="white-space: nowrap;">
 <i>&ast;na-vəraq</i>
 </td>
-<td>'<span>sprouting coconut and/or its pith</span>' (<a href="../sources/Lynch2001c">Lynch2001c</a>: <span>232</span>)
+<td>'<span>sprouting coconut and/or its pith</span>' (<a href="../sources/Lynch2001c">Lynch 2001c</a>: <span>232</span>)
 </td>
 </tr>
 <tr>
@@ -1921,7 +1921,7 @@ The reconstruction of POc _&ast;paraq_ entails a small phonological puzzle. For 
 <td style="white-space: nowrap;">
 <i>&ast;fara</i>
 </td>
-<td>'<span>core (of breadfruit, coconut, pandanus)</span>' (<a href="../sources/Benderetal2003">Benderetal2003</a>)
+<td>'<span>core (of breadfruit, coconut, pandanus)</span>' (<a href="../sources/Benderetal2003">Bender et al. 2003</a>)
 </td>
 </tr>
 <tr>
@@ -1983,7 +1983,7 @@ We observed above that POc _&ast;paraq_ 'coconut embryo' was also used to refer 
 <td style="white-space: nowrap;">
 <i>&ast;hutek</i>
 </td>
-<td>'<span>brain, marrow</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>brain, marrow</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -2167,7 +2167,7 @@ The less widely reflected terms PAdm _&ast;puto-_, POc _&ast;pʷiras_ and PWOc _
 </tr>
 <tr>
 <td>NNG</td><td><a href="../languages/tuam">Tuam</a></td><td style="white-space: nowrap;"><i>pir</i></td>
-<td>'<span>germinating nut</span>' (<a href="../sources/Freedman1967">Freedman1967: 335</a>)
+<td>'<span>germinating nut</span>' (<a href="../sources/Freedman1967">Freedman 1967: 335</a>)
 </td>
 </tr>
 <tr>
@@ -2187,7 +2187,7 @@ The less widely reflected terms PAdm _&ast;puto-_, POc _&ast;pʷiras_ and PWOc _
 <td style="white-space: nowrap;">
 <i>&ast;pir, &ast;piri-</i>
 </td>
-<td>'<span>groor lump under the skin, spongy core of mature coconut</span>' (<a href="../sources/Benderetal2003">Benderetal2003</a>)
+<td>'<span>groor lump under the skin, spongy core of mature coconut</span>' (<a href="../sources/Benderetal2003">Bender et al. 2003</a>)
 </td>
 </tr>
 <tr>
@@ -2264,7 +2264,7 @@ Doublet forms, POc _&ast;punut_ and _&ast;pʷenu(t)_, both 'coconut husk', appea
 <td style="white-space: nowrap;">
 <i>&ast;punut</i>
 </td>
-<td>'<span>coconut husk, fibres on coconut husk</span>' (<a href="../sources/Ross1996d">Ross1996d</a>)
+<td>'<span>coconut husk, fibres on coconut husk</span>' (<a href="../sources/Ross1996d">Ross 1996d</a>)
 </td>
 </tr>
 <tr>
@@ -2354,7 +2354,7 @@ Evidence for the word-final _&ast;t_ of POc _&ast;pʷenu(t)_ is indirect. The Nd
 <td style="white-space: nowrap;">
 <i>&ast;pʷenu(t)</i>
 </td>
-<td>'<span>coconut husk</span>' (<a href="../sources/Ross1996d">Ross1996d</a>)
+<td>'<span>coconut husk</span>' (<a href="../sources/Ross1996d">Ross 1996d</a>)
 </td>
 </tr>
 <tr>
@@ -2584,7 +2584,7 @@ cf. also:
 <td style="white-space: nowrap;">
 <i>&ast;pa(q)paq</i>
 </td>
-<td>'<span>frond of a palm</span>' (<a href="../sources/Blust1989">Blust1989</a>)
+<td>'<span>frond of a palm</span>' (<a href="../sources/Blust1989">Blust 1989</a>)
 </td>
 </tr>
 <tr>
@@ -2592,7 +2592,7 @@ cf. also:
 <td style="white-space: nowrap;">
 <i>&ast;[pa]paq[a-]</i>
 </td>
-<td>'<span>frond of a palm</span>' (<span>?</span>) (<a href="../sources/Ross1996d">Ross1996d</a>)
+<td>'<span>frond of a palm</span>' (<span>?</span>) (<a href="../sources/Ross1996d">Ross 1996d</a>)
 </td>
 </tr>
 <tr>
@@ -2696,7 +2696,7 @@ One of the main uses of dry coconut fronds is as torches, and in a number of lan
 <td style="white-space: nowrap;">
 <i>&ast;suluq</i>
 </td>
-<td>'<span>torch</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
+<td>'<span>torch</span>' (<a href="../sources/Dempwolff1938">Dempwolff 1938</a>)
 </td>
 </tr>
 <tr>
@@ -2704,7 +2704,7 @@ One of the main uses of dry coconut fronds is as torches, and in a number of lan
 <td style="white-space: nowrap;">
 <i>&ast;sulu(q)</i>
 </td>
-<td>'<span>dry coconut leaf torch; dry coconut leaf</span>' (<a href="../sources/Milke1961">Milke1961</a>)
+<td>'<span>dry coconut leaf torch; dry coconut leaf</span>' (<a href="../sources/Milke1961">Milke 1961</a>)
 </td>
 </tr>
 <tr>
@@ -2829,7 +2829,7 @@ POc _&ast;ramaR_ 'coconut leaf used as a torch when fishing', reflecting PMP _&a
 <td style="white-space: nowrap;">
 <i>&ast;damaR</i>
 </td>
-<td>'<span>torch, light</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
+<td>'<span>torch, light</span>' (<a href="../sources/Dempwolff1938">Dempwolff 1938</a>)
 </td>
 </tr>
 <tr>
@@ -2934,7 +2934,7 @@ Modern languages tend to have a distinctive term for the midrib or spine of a co
 <td style="white-space: nowrap;">
 <i>&ast;p⟨al⟩a(q)paq</i>
 </td>
-<td>'<span>midrib of coconut frond</span>' (<a href="../sources/Dempwolff1925">Dempwolff1925</a>)
+<td>'<span>midrib of coconut frond</span>' (<a href="../sources/Dempwolff1925">Dempwolff 1925</a>)
 </td>
 </tr>
 <tr>
@@ -3042,7 +3042,7 @@ Our sources often do not distinguish clearly between the frond and the leaflet (
 <td style="white-space: nowrap;">
 <i>&ast;no(k,g)o</i>
 </td>
-<td>'<span>midrib or spine of coconut leaflet; broom made therefrom</span>' (<a href="../sources/Benderetal2003">Benderetal2003</a>: <span>61</span>)
+<td>'<span>midrib or spine of coconut leaflet; broom made therefrom</span>' (<a href="../sources/Benderetal2003">Bender et al. 2003</a>: <span>61</span>)
 </td>
 </tr>
 <tr>
@@ -3170,7 +3170,7 @@ Two POc terms are reconstructable. The first, _&ast;kaka_ seems to have denoted 
 <td style="white-space: nowrap;">
 <i>&ast;Runut</i>
 </td>
-<td>'<span>plant fibres</span>' (<a href="../sources/Blust1984">Blust1984</a>)
+<td>'<span>plant fibres</span>' (<a href="../sources/Blust1984">Blust 1984</a>)
 </td>
 </tr>
 <tr>
@@ -3178,7 +3178,7 @@ Two POc terms are reconstructable. The first, _&ast;kaka_ seems to have denoted 
 <td style="white-space: nowrap;">
 <i>&ast;Runut</i>
 </td>
-<td>'<span>sheath around base of coconut frond, used as strainer</span>' (<a href="../sources/Ross1996d">Ross1996d</a>: <span>203</span>)
+<td>'<span>sheath around base of coconut frond, used as strainer</span>' (<a href="../sources/Ross1996d">Ross 1996d</a>: <span>203</span>)
 </td>
 </tr>
 <tr>

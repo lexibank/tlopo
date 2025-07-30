@@ -282,7 +282,7 @@ The term _&ast;qutan_ appears to have denoted uncultivated land in general, whet
 <td style="white-space: nowrap;">
 <i>&ast;[waRu]waRu</i>
 </td>
-<td>'<span>primary forest</span>' (<a href="../sources/FrenchWright1983">FrenchWright1983</a>: <span><em>*wao</em></span>)
+<td>'<span>primary forest</span>' (<a href="../sources/FrenchWright1983">French-Wright 1983</a>: <span><em>*wao</em></span>)
 [^8]</td>
 </tr>
 <tr>
@@ -290,7 +290,7 @@ The term _&ast;qutan_ appears to have denoted uncultivated land in general, whet
 <td>'<span>the bush</span>'</td>
 </tr>
 <tr>
-<td><strong>ProtoMalaitaMakira</strong></td><td> </td>
+<td><strong>Proto Malaita-Makira</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;[walu]walu</i>
 </td>
@@ -339,11 +339,11 @@ cf. also:
 '<span>forest, land never brought under cultivation</span>'</td>
 </tr>
 <tr>
-<td>None</td>
+<td></td>
 <td><a href="../languages/pmic">PMic</a></td>
-<td style="white-space: nowrap;"><i>walu</i></td>
+<td style="white-space: nowrap;"><i>&ast;walu</i></td>
 <td>
-'<span>vegetation, forest</span>'(<a href="../sources/Benderetal2003">Benderetal2003</a>)
+'<span>vegetation, forest</span>'(<a href="../sources/Benderetal2003">Bender et al. 2003</a>)
 </td>
 </tr>
 <tr>
@@ -622,17 +622,17 @@ POc _&ast;kanaŋ_ and its variant _&ast;kanan_, both 'staple food, food in gener
 <td style="white-space: nowrap;">
 <i>&ast;kanana</i>
 </td>
-<td>'<span>food</span>' (<a href="../sources/Blust1996b">Blust1996b</a>)
+<td>'<span>food</span>' (<a href="../sources/Blust1996b">Blust 1996b</a>)
 </td>
 </tr>
 <tr>
 <td>Adm</td><td><a href="../languages/wuvulu">Wuvulu</a></td><td style="white-space: nowrap;"><i>anana</i></td>
-<td>'<span>food</span>' (<a href="../sources/Blust1996b">Blust1996b</a>)
+<td>'<span>food</span>' (<a href="../sources/Blust1996b">Blust 1996b</a>)
 </td>
 </tr>
 <tr>
 <td>Adm</td><td><a href="../languages/mondropolon">Mondropolon</a></td><td style="white-space: nowrap;"><i>kanna</i></td>
-<td>'<span>food</span>' (<a href="../sources/Blust1996b">Blust1996b</a>)
+<td>'<span>food</span>' (<a href="../sources/Blust1996b">Blust 1996b</a>)
 </td>
 </tr>
 <tr>
@@ -688,9 +688,9 @@ POc _&ast;kanaŋ_ and its variant _&ast;kanan_, both 'staple food, food in gener
 cf. also: 
 <table>
 <tr>
-<td>None</td>
+<td></td>
 <td><a href="../languages/padm">PAdm</a></td>
-<td style="white-space: nowrap;"><i>kani-an</i></td>
+<td style="white-space: nowrap;"><i>&ast;kani-an</i></td>
 <td>
 '<span>staple food</span>'</td>
 </tr>
@@ -702,9 +702,9 @@ cf. also:
 '<span>staple food</span>'</td>
 </tr>
 <tr>
-<td>None</td>
+<td></td>
 <td><a href="../languages/pnng">PNNG</a></td>
-<td style="white-space: nowrap;"><i>kani-ŋa</i></td>
+<td style="white-space: nowrap;"><i>&ast;kani-ŋa</i></td>
 <td>
 '<span>food</span>'</td>
 </tr>
@@ -765,9 +765,9 @@ cf. also:
 '<span>taro</span>'</td>
 </tr>
 <tr>
-<td>None</td>
+<td></td>
 <td><a href="../languages/ppt">PPT</a></td>
-<td style="white-space: nowrap;"><i>kani-kani</i></td>
+<td style="white-space: nowrap;"><i>&ast;kani-kani</i></td>
 <td>
 '<span>staple food</span>'</td>
 </tr>
@@ -814,9 +814,9 @@ cf. also:
 '<span>food</span>'</td>
 </tr>
 <tr>
-<td>None</td>
-<td><a href="../languages/protomesomelanesian">ProtoMesoMelanesian</a></td>
-<td style="white-space: nowrap;"><i>k⟨in⟩ani</i></td>
+<td></td>
+<td><a href="../languages/protomesomelanesian">Proto Meso-Melanesian</a></td>
+<td style="white-space: nowrap;"><i>&ast;k⟨in⟩ani</i></td>
 <td>
 '<span>staple food</span>'</td>
 </tr>
@@ -863,9 +863,9 @@ cf. also:
 '<span>food</span>'</td>
 </tr>
 <tr>
-<td>None</td>
+<td></td>
 <td><a href="../languages/pncv">PNCV</a></td>
-<td style="white-space: nowrap;"><i>k⟨in⟩ani-ana</i></td>
+<td style="white-space: nowrap;"><i>&ast;k⟨in⟩ani-ana</i></td>
 <td>
 '<span>staple food</span>'</td>
 </tr>
@@ -1122,7 +1122,7 @@ Data from other Oceanic languages suggest an alternative hypothesis, namely that
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td style="white-space: nowrap;"><i>ka-kono</i></td>
-<td>'<span><em>Heritiera littoralis</em></span>' (<a href="../sources/Record1945">Record1945</a>)
+<td>'<span><em>Heritiera littoralis</em></span>' (<a href="../sources/Record1945">Record 1945</a>)
 </td>
 </tr>
 <tr>
@@ -1402,7 +1402,7 @@ The POc term ancestral to Dobu _udi_ 'banana' was _&ast;pudi_ ([ch.9, §3](../co
 <td style="white-space: nowrap;">
 <i>&ast;pudi-pudi</i>
 </td>
-<td>'<span>wild banana</span>' (<a href="../sources/Ross1996d">Ross1996d</a>)
+<td>'<span>wild banana</span>' (<a href="../sources/Ross1996d">Ross 1996d</a>)
 </td>
 </tr>
 <tr>

@@ -321,7 +321,7 @@ Also apparently reconstructable are _&ast;drik(i)_, _&ast;liki_, _&ast;siki_ and
 <td style="white-space: nowrap;">
 <i>&ast;qitik</i>
 </td>
-<td>'<span>small, little; few</span>' (<a href="../sources/Blust1986">Blust1986</a>; <a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>small, little; few</span>' (<a href="../sources/Blust1986">Blust 1986</a>; <a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -412,7 +412,7 @@ Also apparently reconstructable are _&ast;drik(i)_, _&ast;liki_, _&ast;siki_ and
 <td style="white-space: nowrap;">
 <i>&ast;diki[t,q]</i>
 </td>
-<td>'<span>little, few, small in amount</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>little, few, small in amount</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -957,7 +957,7 @@ The other two terms, _&ast;[ma]lago_ and _&ast;[ma]lawa_, clearly are derived. T
 <td style="white-space: nowrap;">
 <i>&ast;lawa</i>
 </td>
-<td>'<span>wide</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>wide</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -1178,7 +1178,7 @@ A POc verbal root _&ast;sauq_ (V) ‘be far away’ is reconstructable.
 <td style="white-space: nowrap;">
 <i>&ast;Zauq</i>
 </td>
-<td>'<span>far away</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
+<td>'<span>far away</span>' (<a href="../sources/Dempwolff1938">Dempwolff 1938</a>)
 </td>
 </tr>
 <tr>
@@ -1304,7 +1304,7 @@ A POc verbal root _&ast;sauq_ (V) ‘be far away’ is reconstructable.
 <td style="white-space: nowrap;">
 <i>&ast;ma-Zauq</i>
 </td>
-<td>'<span>far away</span>' (<a href="../sources/Blust1981b">Blust1981b</a>)
+<td>'<span>far away</span>' (<a href="../sources/Blust1981b">Blust 1981b</a>)
 </td>
 </tr>
 <tr>
@@ -1557,7 +1557,7 @@ There was also a POc term _&ast;tata_ ‘near’, perhaps an adverb:
 <td style="white-space: nowrap;">
 <i>&ast;belaj</i>
 </td>
-<td>'<span>spread out to dry</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>spread out to dry</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -1617,7 +1617,7 @@ Three forms can be reconstructed for ‘thick’. The third, _&ast;[tubu]tubu[-k
 <td style="white-space: nowrap;">
 <i>&ast;ma-tolu</i>
 </td>
-<td>'<span>thick</span>' (<a href="../sources/Clark1996">Clark1996</a>)
+<td>'<span>thick</span>' (<a href="../sources/Clark1996">Clark 1996</a>)
 </td>
 </tr>
 <tr>
@@ -1859,7 +1859,7 @@ Two POc terms for ‘new’ can be reconstructed: the adjectival noun _&ast;paqo
 <td style="white-space: nowrap;">
 <i>&ast;baqeRuh</i>
 </td>
-<td>'<span>new</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>new</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -2079,7 +2079,7 @@ Whereas _&ast;[ma]tuqa_ probably referred mainly to animates and to the vegetabl
 <td style="white-space: nowrap;">
 <i>&ast;CuqaS</i>
 </td>
-<td>'<span>mature, elder</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>mature, elder</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -2323,7 +2323,7 @@ PMP terms were of the form _&ast;ma-_ + ROOT. Blust (ACD) concludes that PMP had
 <td style="white-space: nowrap;">
 <i>&ast;[ma]qitem</i>
 </td>
-<td>'<span>black, deep blue</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>black, deep blue</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -2386,7 +2386,7 @@ PMP terms were of the form _&ast;ma-_ + ROOT. Blust (ACD) concludes that PMP had
 <td style="white-space: nowrap;">
 <i>&ast;ma-iRaq</i>
 </td>
-<td>'<span>red</span>' (<a href="../sources/Blust1980b">Blust1980b</a>)
+<td>'<span>red</span>' (<a href="../sources/Blust1980b">Blust 1980b</a>)
 </td>
 </tr>
 <tr>
@@ -2458,7 +2458,7 @@ PMP terms were of the form _&ast;ma-_ + ROOT. Blust (ACD) concludes that PMP had
 <td style="white-space: nowrap;">
 <i>&ast;ma-putiq</i>
 </td>
-<td>'<span>white, light in colour</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>white, light in colour</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -2983,7 +2983,7 @@ In the light of this discussion, I reconstruct two pairs of POc colour terms, _&
 <td style="white-space: nowrap;">
 <i>&ast;biRiŋ</i>
 </td>
-<td>'<span>dark hue, dark red (?)</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>dark hue, dark red (?)</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -3033,7 +3033,7 @@ There is one other reduplicated colour term which may be reconstructable, POc _&
 <td style="white-space: nowrap;">
 <i>&ast;bulan</i>
 </td>
-<td>'<span>white</span>' (<a href="../sources/Blust1989">Blust1989</a>)
+<td>'<span>white</span>' (<a href="../sources/Blust1989">Blust 1989</a>)
 </td>
 </tr>
 <tr>
@@ -3140,7 +3140,7 @@ The term _&ast;raba(r)_ may have denoted the property ‘flat’, but there are 
 <td style="white-space: nowrap;">
 <i>&ast;da(m)paD</i>
 </td>
-<td>'<span>flat, level</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>flat, level</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -3187,7 +3187,7 @@ No term for ‘rough’ is reconstructable, but ‘smooth’, also with the sens
 <td style="white-space: nowrap;">
 <i>&ast;ma-dalis</i>
 </td>
-<td>'<span>smooth, slippery</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>smooth, slippery</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -3195,7 +3195,7 @@ No term for ‘rough’ is reconstructable, but ‘smooth’, also with the sens
 <td style="white-space: nowrap;">
 <i>&ast;[ma]dalit</i>
 </td>
-<td>'<span>smooth, slippery</span>' (<a href="../sources/Blust1986">Blust1986</a>)
+<td>'<span>smooth, slippery</span>' (<a href="../sources/Blust1986">Blust 1986</a>)
 </td>
 </tr>
 <tr>
@@ -3398,7 +3398,7 @@ I have no explanation for the pair _&ast;mʷane-mʷane_ and _&ast;wane-wane_. Re
 <td style="white-space: nowrap;">
 <i>&ast;mʷane-mʷane</i>
 </td>
-<td>'<span>straight, direct; flat, level</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>straight, direct; flat, level</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -3439,7 +3439,7 @@ I have no explanation for the pair _&ast;mʷane-mʷane_ and _&ast;wane-wane_. Re
 <td style="white-space: nowrap;">
 <i>&ast;wane-wane</i>
 </td>
-<td>'<span>straight, direct; flat, level</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>straight, direct; flat, level</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -3525,7 +3525,7 @@ Forms for ‘heavy’ are morphologically complex. POc _&ast;[pa]pat_ reflects t
 <td style="white-space: nowrap;">
 <i>&ast;mapat</i>
 </td>
-<td>'<span>heavy</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>heavy</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -3610,7 +3610,7 @@ Forms for ‘heavy’ are morphologically complex. POc _&ast;[pa]pat_ reflects t
 <td style="white-space: nowrap;">
 <i>&ast;[ma]Raqan</i>
 </td>
-<td>'<span>light in weight</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>light in weight</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -3705,7 +3705,7 @@ Oceanic speakers tend to express the cluster of concepts ‘hard’ (of physical
 <td style="white-space: nowrap;">
 <i>&ast;ba(ŋ)kas</i>
 </td>
-<td>'<span>swift, strong, energetic, fast</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>swift, strong, energetic, fast</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -3713,7 +3713,7 @@ Oceanic speakers tend to express the cluster of concepts ‘hard’ (of physical
 <td style="white-space: nowrap;">
 <i>&ast;paka(s)</i>
 </td>
-<td>'<span>have strength, energy</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>have strength, energy</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -3730,7 +3730,7 @@ Oceanic speakers tend to express the cluster of concepts ‘hard’ (of physical
 <td style="white-space: nowrap;">
 <i>&ast;la(ŋ)kas</i>
 </td>
-<td>'<span>spirited, energetic</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>spirited, energetic</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -3738,7 +3738,7 @@ Oceanic speakers tend to express the cluster of concepts ‘hard’ (of physical
 <td style="white-space: nowrap;">
 <i>&ast;laga(s)</i>
 </td>
-<td>'<span>spirited, energetic</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>spirited, energetic</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -3765,7 +3765,7 @@ Two POc terms, _&ast;[ma]lumu_ and _&ast;ma-luas_, express ‘soft, gentle’.
 <td style="white-space: nowrap;">
 <i>&ast;[ma]lumu</i>
 </td>
-<td>'<span>soft, tender, gentle</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>soft, tender, gentle</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -4101,7 +4101,7 @@ Three terms meaning ‘full’ are reconstructable. The first, _&ast;ponuq_, is 
 <td style="white-space: nowrap;">
 <i>&ast;besuR</i>
 </td>
-<td>'<span>satisfied from having eaten enough, satiated</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>satisfied from having eaten enough, satiated</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -4153,7 +4153,7 @@ Two terms are reconstructable for ‘hot, warm’, _&ast;[ma]panas_ and _&ast;ma
 <td style="white-space: nowrap;">
 <i>&ast;[ma]panas</i>
 </td>
-<td>'<span>be/become warm, hot (of fire, sun, fever, water)</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>be/become warm, hot (of fire, sun, fever, water)</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -4240,7 +4240,7 @@ Two terms are reconstructable for ‘hot, warm’, _&ast;[ma]panas_ and _&ast;ma
 <td style="white-space: nowrap;">
 <i>&ast;maN-qinit</i>
 </td>
-<td>'<span>hot, warm</span>' (<span>&ast;qinit ‘heat, warmth’</span>) (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>hot, warm</span>' (<span>&ast;qinit ‘heat, warmth’</span>) (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -4688,7 +4688,7 @@ POc _&ast;[ma-](r,R)aŋo_ displays a phonological problem. Apparent non-Oceanic 
 <td style="white-space: nowrap;">
 <i>&ast;[ma]Raŋuʔ</i>
 </td>
-<td>'<span>dry</span>' (<a href="../sources/Blust1981b">Blust1981b</a>; <a href="../sources/Blust1986">Blust1986</a>)
+<td>'<span>dry</span>' (<a href="../sources/Blust1981b">Blust 1981b</a>; <a href="../sources/Blust1986">Blust 1986</a>)
 </td>
 </tr>
 <tr>
@@ -4795,7 +4795,7 @@ POc _&ast;[ma-](r,R)aŋo_ displays a phonological problem. Apparent non-Oceanic 
 <td style="white-space: nowrap;">
 <i>&ast;goRu</i>
 </td>
-<td>'<span>dry, of vegetation; coconut growth stage 8: dry and ready to fall</span>' (<a href="../sources/Ross1996d">Ross1996d</a>)
+<td>'<span>dry, of vegetation; coconut growth stage 8: dry and ready to fall</span>' (<a href="../sources/Ross1996d">Ross 1996d</a>)
 </td>
 </tr>
 <tr>

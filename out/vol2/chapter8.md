@@ -322,7 +322,7 @@ The preposition _&ast;i_, which occurred before local nouns, is widely reflected
 <td style="white-space: nowrap;">
 <i>&ast;i</i>
 </td>
-<td>[PREP] '<span>g:locative</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>[PREP] '<span>g:locative</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -588,7 +588,11 @@ Some POc zero-valency local nouns, at least, were also used as common nouns, and
 
 As far as possible, the cognate sets below are limited to reflexes of local-noun uses. However, the glosses of the reconstructions distinguish between common-noun (N) and local-noun (N LOC) meanings.
 
-8.2.2.1 ‘Inland, bush’
+
+<a id="s-2-2-1"></a>
+
+#### 2.2.1. ‘Inland, bush’
+
 
 As a common noun POc _&ast;qutan_ meant ‘bushland, hinterland’ ([vol.1,118](../contributions/1-5#p-118); this volume, [Ch. 3, §5.1](../contributions/2-3#s-5-1)). As a local noun, however, _&ast;qutan_ denoted the direction of the bush, namely ‘inland’. By extension, this has come to mean ‘upwards’ in a number of languages, by virtue of the fact that the inland region is significantly higher than the coast on many Pacific islands.
 
@@ -598,7 +602,7 @@ As a common noun POc _&ast;qutan_ meant ‘bushland, hinterland’ ([vol.1,118](
 <td style="white-space: nowrap;">
 <i>&ast;quCaN</i>
 </td>
-<td>'<span>scrubland, bush</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>scrubland, bush</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -606,7 +610,7 @@ As a common noun POc _&ast;qutan_ meant ‘bushland, hinterland’ ([vol.1,118](
 <td style="white-space: nowrap;">
 <i>&ast;qutan</i>
 </td>
-<td>'<span>small wild herbaceous plants; scrubland, bush</span>' (<a href="../sources/Blust1995">Blust1995</a>; <a href="../sources/Dempwolff1938">Dempwolff1938</a>)
+<td>'<span>small wild herbaceous plants; scrubland, bush</span>' (<a href="../sources/Blust1995">ACD</a>; <a href="../sources/Dempwolff1938">Dempwolff 1938</a>)
 </td>
 </tr>
 <tr>
@@ -805,7 +809,11 @@ The cognate set below has fewer members that the one above, but appears to refle
 
 
 
-8.2.2.2 ‘Seaward, towards the beach, at sea’
+
+<a id="s-2-2-2"></a>
+
+#### 2.2.2. ‘Seaward, towards the beach, at sea’
+
 
 The principal POc local noun meaning ‘seawards’ was _&ast;laur_, and it was evidently the antonym of _&ast;qutan_ and _&ast;loŋa_ above. It reflects PMP _&ast;lahud_ ‘downriver, towards the sea’, and it is likely that it was inherited into POc primarily, perhaps exclusively, as a local noun denoting a direction (for common-noun reflexes, see p.95). In this regard it differed from POc _&ast;tasik_ ‘sea, salt water’ and POc &ast;laman ‘deep sea beyond the reef’, reconstructed in Chapter 4, which were common nouns.
 
@@ -819,7 +827,7 @@ It is unlikely that POc _&ast;laman_ normally occurred as a local noun, as only 
 <td style="white-space: nowrap;">
 <i>&ast;lahud</i>
 </td>
-<td>'<span>downriver, towards the sea</span>' (<a href="../sources/Blust1997">Blust1997</a>; <a href="../sources/Dempwolff1938">Dempwolff1938</a>)
+<td>'<span>downriver, towards the sea</span>' (<a href="../sources/Blust1997">Blust 1997</a>; <a href="../sources/Dempwolff1938">Dempwolff 1938</a>)
 </td>
 </tr>
 <tr>
@@ -901,7 +909,7 @@ It is unlikely that POc _&ast;laman_ normally occurred as a local noun, as only 
 <td style="white-space: nowrap;">
 <i>&ast;tasik</i>
 </td>
-<td>'<span>sea</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
+<td>'<span>sea</span>' (<a href="../sources/Dempwolff1938">Dempwolff 1938</a>)
 </td>
 </tr>
 <tr>
@@ -1041,7 +1049,11 @@ Nakanai (MM) has the non-cognate pair of roots (used in directional and local ve
 
 <a id="p-241"></a>
 
-8.2.2.4 ‘At home’
+
+<a id="s-2-2-4"></a>
+
+#### 2.2.4. ‘At home’
+
 
 The cognate set attesting POc _&ast;Rumaq_ ‘house’ was presented in [vol.1,48](../contributions/1-3#p-48). It is reasonably clear that it also functioned as a local noun in the phrase _&ast;i Rumaq_ ‘at home’, and apparently also in the adverb _&ast;qa-Rumaq_.
 
@@ -1051,7 +1063,7 @@ The cognate set attesting POc _&ast;Rumaq_ ‘house’ was presented in [vol.1,4
 <td style="white-space: nowrap;">
 <i>&ast;Rumaq</i>
 </td>
-<td>'<span>dwelling house</span>' (<a href="../sources/Blust1987">Blust1987</a>)
+<td>'<span>dwelling house</span>' (<a href="../sources/Blust1987">Blust 1987</a>)
 </td>
 </tr>
 <tr>
@@ -1115,7 +1127,11 @@ The cognate set attesting POc _&ast;Rumaq_ ‘house’ was presented in [vol.1,4
 
 
 
-8.2.2.5 ‘Down below’
+
+<a id="s-2-2-5"></a>
+
+#### 2.2.5. ‘Down below’
+
 
 POc _&ast;tanoq_ is reconstructed as a common noun meaning ‘earth, soil, ground; land’ in [vol.1,119](../contributions/1-5#p-119) and in this volume, p.41. However, there is well distributed evidence that as a local noun it meant ‘down below’. This is not surprising when one considers that POc speakers must generally have lived in stilt houses (vol. 1, Ch. 3) for whose inhabitants the ground was indeed ‘down below’.
 
@@ -1125,7 +1141,7 @@ POc _&ast;tanoq_ is reconstructed as a common noun meaning ‘earth, soil, groun
 <td style="white-space: nowrap;">
 <i>&ast;taneq</i>
 </td>
-<td>'<span>earth, land</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
+<td>'<span>earth, land</span>' (<a href="../sources/Dempwolff1938">Dempwolff 1938</a>)
 </td>
 </tr>
 <tr>
@@ -1206,7 +1222,11 @@ The meanings above overlap with the adverb reflexes of POc _&ast;sipo_ ‘go dow
 
 <a id="p-242"></a>
 
-8.2.2.6 ‘Up above’
+
+<a id="s-2-2-6"></a>
+
+#### 2.2.6. ‘Up above’
+
 
 A few of the reflexes of POc _&ast;atas_ ‘top, space above’ are monovalent relational nouns. However, the vast majority of reflexes are geographic, not relational, nouns, and it seems that POc _&ast;atas_ was also a geographic noun. It also seems that it was not a common noun (in this respect it resembles POc _&ast;laur_, p.239).
 
@@ -1218,7 +1238,7 @@ The items listed under ‘cf. also’ below reflect a Proto North Bougainville f
 <td style="white-space: nowrap;">
 <i>&ast;aCas</i>
 </td>
-<td>'<span>high, tall</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>high, tall</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -1397,7 +1417,7 @@ POc _&ast;laŋit_ ‘sky, weather’ is reconstructed as a common noun in Chapte
 <td style="white-space: nowrap;">
 <i>&ast;laŋiC</i>
 </td>
-<td>'<span>sky</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
+<td>'<span>sky</span>' (<a href="../sources/Dempwolff1938">Dempwolff 1938</a>)
 </td>
 </tr>
 <tr>
@@ -1504,7 +1524,11 @@ It is less clear whether POc _&ast;laka_ ‘up above’ was a noun or a verb. In
 
 There was also a POc verb _&ast;laka_, which meant ‘walk’ and apparently had no directional meaning.
 
-8.2.2.7 ‘In the middle, between’
+
+<a id="s-2-2-7"></a>
+
+#### 2.2.7. ‘In the middle, between’
+
 
 
 <a id="p-244"></a>
@@ -1786,7 +1810,11 @@ Many Oceanic languages have relational nouns with the meanings reconstructed bel
 
 In their monovalent form, relational local nouns are reconstructed below like other monovalent nouns, i.e. without their final consonant, on the assumption that it was lost before a possessor suffix: for example, _&ast;lalom_ ‘inside’ became _&ast;lalo-_, &ast;papak ‘underneath’ became _&ast;papa-_. However, as I note in [Lynch et al.](../sources/Lynchetal2002) ([2002](../sources/Lynchetal2002), Ch. 4), there is some evidence from Tanna languages (SV) that POc retained the final consonant in this context, so that, e.g., POc _&ast;lalo-ña_ in the reconstructed example above may have been (optionally?) _&ast;lalom-ña_.
 
-8.2.3.1 ‘Inside’
+
+<a id="s-2-3-1"></a>
+
+#### 2.3.1. ‘Inside’
+
 
 
 <a id="p-246"></a>
@@ -2212,7 +2240,7 @@ In many Oceanic languages the word for ‘inside’ is the reflex of a POc body-
 <td style="white-space: nowrap;">
 <i>&ast;tinaqi</i>
 </td>
-<td>'<span>small intestine</span>' (<a href="../sources/Blust1981b">Blust1981b</a>)
+<td>'<span>small intestine</span>' (<a href="../sources/Blust1981b">Blust 1981b</a>)
 </td>
 </tr>
 <tr>
@@ -2246,7 +2274,11 @@ In many Oceanic languages the word for ‘inside’ is the reflex of a POc body-
 
 
 
-8.2.3.2 ‘Underneath, lower surface, space below’
+
+<a id="s-2-3-2"></a>
+
+#### 2.3.2. ‘Underneath, lower surface, space below’
+
 
 
 <a id="p-249"></a>
@@ -2263,7 +2295,7 @@ No reflexes occur in Central Pacific languages. In Fijian, _&ast;papa-_, _&ast;p
 <td style="white-space: nowrap;">
 <i>&ast;babaq</i>
 </td>
-<td>'<span>lower surface, bottom, underside</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>lower surface, bottom, underside</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -2370,7 +2402,7 @@ No reflexes occur in Central Pacific languages. In Fijian, _&ast;papa-_, _&ast;p
 <td>'<span>underneath</span>'</td>
 </tr>
 <tr>
-<td><strong>ProtoMesoMelanesian</strong></td><td> </td>
+<td><strong>Proto Meso-Melanesian</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;pake-</i>
 </td>
@@ -2570,7 +2602,7 @@ The second term, POc _&ast;gabʷari-_ meant ‘the area underneath a raised hous
 <td style="white-space: nowrap;">
 <i>&ast;puqun</i>
 </td>
-<td>'<span>beginning, cause, origin, source, basis</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>beginning, cause, origin, source, basis</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -2648,7 +2680,11 @@ The second term, POc _&ast;gabʷari-_ meant ‘the area underneath a raised hous
 
 
 
-8.2.3.3 ‘Top, upper surface, space above’
+
+<a id="s-2-3-3"></a>
+
+#### 2.3.3. ‘Top, upper surface, space above’
+
 
 
 <a id="p-252"></a>
@@ -2665,7 +2701,7 @@ The Kiribati (Mic) reflex of POc _&ast;papo[-]_ also has the meaning ‘outside�
 <td style="white-space: nowrap;">
 <i>&ast;babaw</i>
 </td>
-<td>'<span>upper surface, top; above; highlands</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>upper surface, top; above; highlands</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -2834,7 +2870,7 @@ Given the tendency for body-part terms to be used by metaphorical extension as r
 <td style="white-space: nowrap;">
 <i>&ast;qulu</i>
 </td>
-<td>'<span>head</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>head</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -2974,7 +3010,11 @@ Given the tendency for body-part terms to be used by metaphorical extension as r
 
 In NCV languages we find reflexes of the adverb _&ast;qa-qulu_ ‘up there, up above’: NE Ambae _a-ulu_ ‘up high, on top’, Tamambo _a-ulu_ ‘on top, at the gardens’, Kiai _aulu_ ‘above’.
 
-8.2.3.4 ‘Side’
+
+<a id="s-2-3-4"></a>
+
+#### 2.3.4. ‘Side’
+
 
 
 <a id="p-254"></a>
@@ -2989,7 +3029,7 @@ This expectation is at least partly fulfilled. We can reconstruct POc _&ast;[pʷ
 <td style="white-space: nowrap;">
 <i>&ast;papaR</i>
 </td>
-<td>'<span>cheek, temple, side,</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>cheek, temple, side,</span>' (<a href="../sources/Blust1995">ACD</a>)
 [^14]</td>
 </tr>
 <tr>
@@ -3106,7 +3146,7 @@ POc _&ast;pʷala(ŋ)_ ‘side, part’ is reconstructable, but its exact sense i
 <td style="white-space: nowrap;">
 <i>&ast;balaŋ</i>
 </td>
-<td>'<span>side, part</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>side, part</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -3114,7 +3154,7 @@ POc _&ast;pʷala(ŋ)_ ‘side, part’ is reconstructable, but its exact sense i
 <td style="white-space: nowrap;">
 <i>&ast;pʷala(ŋ)</i>
 </td>
-<td>'<span>side, part</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>side, part</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -3152,7 +3192,7 @@ POc _&ast;bali_ denoted ‘one of two (opposing) sides or parts’.
 <td style="white-space: nowrap;">
 <i>&ast;baliw</i>
 </td>
-<td>'<span>moiety; answer; oppose; partner, friend, enemy; opposite side or part</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>moiety; answer; oppose; partner, friend, enemy; opposite side or part</span>' (<a href="../sources/Blust1995">ACD</a>)
 [^15]</td>
 </tr>
 <tr>
@@ -3220,7 +3260,7 @@ There are two other reconstructions from which terms for ‘side’ are derived.
 <td style="white-space: nowrap;">
 <i>&ast;sidiŋ</i>
 </td>
-<td>'<span>border on, neighbour; peer, equal</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>border on, neighbour; peer, equal</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -3290,7 +3330,11 @@ There are two other reconstructions from which terms for ‘side’ are derived.
 
 
 
-8.2.3.5 ‘Outside’
+
+<a id="s-2-3-5"></a>
+
+#### 2.3.5. ‘Outside’
+
 
 It is reasonably clear that the ‘inside’/‘outside’ opposition found in European languages did not occur in POc. This is unsurprising, since POc relation terms were nouns denoting parts of an object. The inside of a house is readily conceived as a part of it (POc _&ast;lalo-_), but the English term ‘outside’ only denotes a part insofar as it refers to the external surfaces of the building. As noted at various points in [§2.3](../contributions/2-8#s-2-3), terms which denote (among other things) particular external surfaces are also used metonymically to denote the external surface or ‘outside’ of an object in general. This is true of some reflexes of POc _&ast;papo[-]_ ‘upper surface, top’ (p.252), of POc _&ast;muri[-]_ ‘back part, rear’ (p.261) and of PEOc _&ast;tapa-_ ‘side, outside’ (above).
 
@@ -3365,7 +3409,11 @@ The terms in the set below could tempt us to reconstruct POc _&ast;luku-_ ‘sid
 </tr>
 </table>
 
-8.2.3.6 ‘Front, time before’
+
+<a id="s-2-3-6"></a>
+
+#### 2.3.6. ‘Front, time before’
+
 
 According to [Blust](../sources/Blust1997) ([1997](../sources/Blust1997)), the PMP relational noun for ‘front’ was _&ast;qadəp_ ‘front’, which was also used of the human face. Although reflexes of this term have been replaced by body-part terms (see below) in a majority of Oceanic languages, enough reflexes survive to make it clear that its reflex POc _&ast;qaro-_, _&ast;qarop_ ‘front; face’ is reconstructable.
 
@@ -3947,7 +3995,11 @@ The body-part terms whose reflexes are often used for ‘front’ are POc _&ast;
 
 <a id="p-260"></a>
 
-8.2.3.7 ‘Back, space behind, time after’
+
+<a id="s-2-3-7"></a>
+
+#### 2.3.7. ‘Back, space behind, time after’
+
 
 The generic POc term for the back (of something or someone), the space behind (something or someone), and the time after (an event) was _&ast;muri[-]_. However, it has a more complex history than other POc relational nouns. Blust (ACD) derives it from PMP _&ast;ma-udehi_, containing the PMP undergoer-subject verbal prefix _&ast;ma-_ and the root _&ast;udehi_ which he glosses as ‘last; come after or behind; late, later; future; stern of a boat; youngest child.’ Blust’s glosses are not intended to be a claim about the morpholexical class of the item, but it is a reasonable inference from work on the history of PMP and POc _&ast;ma-_ ([Evans and Ross 2001](../sources/EvansandRoss2001)) that PMP _&ast;udehi_ was a noun, perhaps meaning ‘that which is behind, that which is last, that which is after or in the future’ and that _&ast;ma-udehi_ was a stative (adjectival) verb derived from it.
 
@@ -3964,7 +4016,7 @@ It appears that the PMP root _&ast;udehi_ was also inherited into POc as the bas
 <td style="white-space: nowrap;">
 <i>&ast;ma-udehi</i>
 </td>
-<td>'<span>be last; be after or behind; be late, be later; future</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>be last; be after or behind; be late, be later; future</span>' (<a href="../sources/Blust1995">ACD</a>)
 [^18]</td>
 </tr>
 <tr>
@@ -4164,7 +4216,7 @@ The reflexes below contain a Northwest Solomonic innovation whereby Proto Northw
 
 <table id="2-8-2-3-262-ProtoNorthwestSolomonic-mudi-a">
 <tr>
-<td><strong>ProtoNorthwestSolomonic</strong></td><td> </td>
+<td><strong>Proto Northwest Solomonic</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;mudi-</i>
 </td>
@@ -4226,7 +4278,7 @@ The semantic and formal similarity of the reflexes of POc _&ast;burit_ below to 
 <td style="white-space: nowrap;">
 <i>&ast;burit</i>
 </td>
-<td>'<span>hind part, rear, back</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>hind part, rear, back</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -4499,7 +4551,7 @@ The interrogative local noun ‘where?’ was POc _&ast;pai_. Micronesian reflex
 <td style="white-space: nowrap;">
 <i>&ast;pai</i>
 </td>
-<td>'<span>where?</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>where?</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -5247,7 +5299,7 @@ Recent work by [François](../sources/Francois2003) ([2003](../sources/Francois2
 <td style="white-space: nowrap;">
 <i>&ast;habaRat</i>
 </td>
-<td>'<span>west monsoon</span>' (<a href="../sources/Blust1995">Blust1995</a>; <a href="../sources/Dempwolff1938">Dempwolff1938</a>)
+<td>'<span>west monsoon</span>' (<a href="../sources/Blust1995">ACD</a>; <a href="../sources/Dempwolff1938">Dempwolff 1938</a>)
 </td>
 </tr>
 <tr>
@@ -5562,7 +5614,7 @@ The most widely reflected of these is _&ast;sipo_, the generic verb of downward 
 <td style="white-space: nowrap;">
 <i>&ast;sobu</i>
 </td>
-<td>'<span>go downward</span>' (<a href="../sources/Blust1978a">Blust1978a</a>)
+<td>'<span>go downward</span>' (<a href="../sources/Blust1978a">Blust 1978a</a>)
 </td>
 </tr>
 <tr>
@@ -5618,7 +5670,7 @@ The most widely reflected of these is _&ast;sipo_, the generic verb of downward 
 <td style="white-space: nowrap;">
 <i>&ast;surup</i>
 </td>
-<td>'<span>enter, penetrate</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>enter, penetrate</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -6163,7 +6215,11 @@ Some or all of the forms below probably also reflect POc _&ast;sake_ ‘go upwar
 </tr>
 </table>
 
-8.3.3.3 _&ast;sipo_ and _&ast;sake_ as directions at sea
+
+<a id="s-3-3-3"></a>
+
+#### 3.3.3. _&ast;sipo_ and _&ast;sake_ as directions at sea
+
 
 Above I noted François’ (2004a) reconstruction of POc speakers’ use of terms for ‘go downward’ and ‘go upward’ for ‘go northwest’ and ‘go southeast’, i.e. directions corresponding with those of the major winds. François assumes that the relevant POc terms were _&ast;sipo_ and _&ast;sake_, reconstructed in §[§3.3.1](../contributions/2-8#s-3-3-1)–3.3.2. As these were the generic terms for ‘go downward’ and ‘go upward’, his assumption is probably correct, but it is not particularly well supported by the available data, as the sets below show. In fact, all supporting data for both terms in these meanings come from Eastern Oceanic languages. The Yabem and Motu reflexes of _&ast;sipo_ have ‘wrong’ directions in their glosses. This may mean that this use of &ast;sake and _&ast;sipo_ was an Eastern Oceanic innovation, but it may also mean that insufficient Western Oceanic (and Admiralties) systems have been carefully recorded. In a number of Western Oceanic languages, ‘east’ and ‘west’ are translated as ‘place where the sun rises’ and ‘place where the sun sets’, but these phrasal expressions may be modern renderings of English ‘east’ and ‘west’.
 
@@ -6216,7 +6272,7 @@ Above I noted François’ (2004a) reconstruction of POc speakers’ use of term
 <td style="white-space: nowrap;">
 <i>&ast;sake</i>
 </td>
-<td>'<span>go upward, go southeast</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
+<td>'<span>go upward, go southeast</span>' (<a href="../sources/Dempwolff1938">Dempwolff 1938</a>)
 </td>
 </tr>
 <tr>
@@ -6263,7 +6319,7 @@ François also alludes to members of the Polynesian sets below. However, these a
 <td style="white-space: nowrap;">
 <i>&ast;si-sifo</i>
 </td>
-<td>'<span>(N) west</span>' (<a href="../sources/BiggsandClark1993">BiggsandClark1993</a>)
+<td>'<span>(N) west</span>' (<a href="../sources/BiggsandClark1993">Biggs and Clark 1993</a>)
 </td>
 </tr>
 <tr>
@@ -6292,7 +6348,7 @@ François also alludes to members of the Polynesian sets below. However, these a
 <td style="white-space: nowrap;">
 <i>&ast;sa-sake</i>
 </td>
-<td>'<span>(N) east</span>' (<a href="../sources/BiggsandClark1993">BiggsandClark1993</a>)
+<td>'<span>(N) east</span>' (<a href="../sources/BiggsandClark1993">Biggs and Clark 1993</a>)
 </td>
 </tr>
 <tr>
@@ -6584,7 +6640,11 @@ It is unclear whether _&ast;[y]aku_ meant ‘go (to)’ or ‘go away’.
 
 I also reconstruct the prepositional verb _&ast;tani_ ‘(go) away from’ below (p.293). It was not deictic, but it overlaps semantically with the verbs reconstructed in this section.
 
-8.3.4.3 ‘Come towards speaker’
+
+<a id="s-3-4-3"></a>
+
+#### 3.4.3. ‘Come towards speaker’
+
 
 Blust (ACD) reconstructs PAn _&ast;aRi_, which in its root form was used imperatively as ‘come on’, ‘let’s go’ (Paiwan [Formosan] _ari_ ‘let’s go!’) and apparently survives in the Takia interjection _aria_ with the same meanings.[^24] The indicative form was PAn _&ast;maRi_ ‘come’ (from _&ast;um-aRi_, where _&ast;um_ is the actor focus infix; [vol.1,29](../contributions/1-2#p-29)), and this form is well reflected in Formosan and WMP languages. However, it seems likely that the variant _&ast;mai_ existed from the earliest times, as Blust notes Favorlang (Formosan) _mai_ and Yami (WMP) _mai_, and that _&ast;mai_ ousted reflexes of _&ast;maRi_ throughout the Central/Eastern Malayo-Polynesian grouping (e.g. Manggarai, Sikka, Rotinese _mai_) to which POc belonged.
 
@@ -6601,7 +6661,7 @@ Also reconstructable is the POc form _&ast;ma_, reflected in WOc and CEOc langua
 <td style="white-space: nowrap;">
 <i>&ast;maRi, &ast;mai</i>
 </td>
-<td>'<span>come</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>come</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -7008,7 +7068,11 @@ One other POc morpheme with the same meanings as _&ast;mai_ may be reconstructab
 
 
 
-8.3.4.4 ‘Go towards addressee’
+
+<a id="s-3-4-4"></a>
+
+#### 3.4.4. ‘Go towards addressee’
+
 
 Two alternant forms, POc _&ast;ua_ and _&ast;watu_, mean ‘go towards addressee’, (DIR) ‘towards addressee’.
 
@@ -7073,7 +7137,7 @@ Some of the reflexes of _&ast;ua_ can be confused with those of POc _&ast;pa_ an
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/halia">Halia</a></td><td style="white-space: nowrap;"><i>wa</i></td>
-<td>[DIR] '<span>towards (a specified destination)</span>' (<a href="../sources/Ross1982">Ross1982: 44–45</a>)
+<td>[DIR] '<span>towards (a specified destination)</span>' (<a href="../sources/Ross1982">Ross 1982: 44–45</a>)
 </td>
 </tr>
 <tr>
@@ -7401,7 +7465,11 @@ Reflexes of _&ast;ua_ and _&ast;watu_ have a distribution which roughly matches 
 
 Why did POc have the two forms _&ast;ua_ and _&ast;watu_? Evidently, as hinted by Blust (ACD, under the entry for PAn _&ast;-Cu_ ‘near addressee’), _&ast;watu_ represents an innovation whereby the POc demonstrative morpheme _&ast;-tu_ ‘near addressee’ was added to _&ast;ua_, stretching it to the canonic CVCV shape of POc morphemes. An obvious alternative suggestion is that _&ast;ua_ represents the short form of _&ast;watu_ in the same way as _&ast;ma_ and _&ast;la_ represent the short forms of _&ast;mai_ (p.281) and _&ast;lako_ (see below). This is unlikely, however, as the external evidence indicates that the inherited POc form was _&ast;ua_, and the fairly neat geographic distribution of _&ast;ua_ and _&ast;watu_ is very different from the scattered, interlaced distributions of _&ast;mai_ and _&ast;ma_ and of _&ast;lako_ and _&ast;la_.
 
-8.3.4.5 ‘Go away to’
+
+<a id="s-3-4-5"></a>
+
+#### 3.4.5. ‘Go away to’
+
 
 Just as POc _&ast;mai_ ‘come’ had a short form _&ast;ma_, so POc _&ast;lako_ ‘go’ had the short form _&ast;la_. Again, reflexes of both occur as verbs and as directional enclitics, and each probably had both functions in POc, viz. _&ast;mai_, _&ast;ma_ glossed as (V) ‘come’ and (DIR) ‘towards speaker’ and _&ast;lako_, _&ast;la_ glossed as (V) ‘go (to)’ and (DIR) ‘away from speaker’. In some languages, a reflex of _&ast;lako_ or _&ast;la_ occurs as the second element of one or more compounds, and these are again taken to be reflexes of an earlier final verb or directional enclitic.
 
@@ -7655,7 +7723,11 @@ Lihir (MM)<table style="padding-left: 2em;" class="igt">
 
 Semantically, all the reflexes listed above are locative, which sits better with a derivation from _&ast;lalo-_ ‘inside’ than one from _&ast;lako_ ‘go (to)’, from which one would expect an allative. But it is possible that some reflexes represent a conflation of the two etyma.
 
-8.3.4.6 ‘Go away’
+
+<a id="s-3-4-6"></a>
+
+#### 3.4.6. ‘Go away’
+
 
 POc _&ast;pano_, reconstructed below, perhaps had two uses. Firstly, it was a deictic directional verb meaning ‘go away (from speaker), depart’. Evidence for this meaning is also widespread in non-Oceanic languages (Blust, ACD). Reflexes of both _&ast;lako_/_&ast;la_ and _&ast;pano_ occur as directional enclitics with the meaning ‘away from speaker’. However, there is evidence that as verbs they had different meanings. Most verbal reflexes of _&ast;lako_ ‘go (to)’ have a valency which implies or requires a destination (expressed, for example, as a prepositional phrase), whilst those of _&ast;pano_ are intransitive.
 
@@ -7670,7 +7742,7 @@ As noted in [§3.3](../contributions/2-8#s-3-3), some reflexes of POc _&ast;pano
 <td style="white-space: nowrap;">
 <i>&ast;panaw</i>
 </td>
-<td>'<span>go away, depart, leave on a journey</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>go away, depart, leave on a journey</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -7988,7 +8060,11 @@ Functionally and semantically the members of the small cognate set below resembl
 
 
 
-8.3.4.7 ‘Away from a specified point’
+
+<a id="s-3-4-7"></a>
+
+#### 3.4.7. ‘Away from a specified point’
+
 
 POc _&ast;tani_ was a prepositional verb, reconstructed by [Pawley](../sources/Pawley1973) ([1973](../sources/Pawley1973)). It was not deictic, i.e. not oriented with regard to speaker or hearer, and so strictly does not belong here. It was transitive, and the object of the verb was the point of orientation from which movement takes place. I include it because its reflexes have become deictic directional adverbs in a few languages.
 

@@ -5536,7 +5536,7 @@ reflexes of _*puaq_ that are glossed as 'seed' suggests that its meaning encompa
 seed and its envelope (see §2.9).
 
 <
-PAn *buaq 'fruit' (Dempwolff 1938)
+PAn *buaq 'fruit' (ACD, Dempwolff 1938)
 POc *puaq 'fruit: generic for fruit as a part of plants, the seed and its envelope (N); to bear fruit (v)' (Ross 1996d)
   NNG: Gitua        pua              'seed, egg'
   PT:  Wedau        ua               'fruit'
@@ -18056,7 +18056,7 @@ prefer not to use the term here in order to avoid confusion with the spathe of t
 
 
 <
-PMP *Runut 'plant fibres' (Blust 1984)
+PMP *Runut 'plant fibres' (Blust 1983–84a)
 POc *Runut 'sheath around base of coconut frond, used as strainer' (Ross 1996d: 203)
   NNG:  Gitua          run          'sheath around base of coconut frond, used as strainer'
   PT:   Misima         lulúsi       'fine matting growing around base of coconut leaves, used as a sieve' (Suauic borrowing)
@@ -18329,7 +18329,7 @@ limit of betelnut-chewing is in the Temotu Province of the Solomons, but *buaq i
 in Southern Vanuatu, where it is applied to palms of other kinds (John Lynch, pers. comm.).
 
 <
-PAn *buaq 'fruit' (ACD)
+PAn *buaq 'fruit' (ACD, Dempwolff 1938)
 PMP *buaq 'roundish or fruit-like object, including betelnut, _Areca catechu_' (see above for the full ACD gloss)
 POc *buaq 'betelnut, areca nut, palm, _Areca catechu_' (Capell1943: *pua(q))
   Adm: Mussau         |(ai) bua|    '_Areca catechu_'

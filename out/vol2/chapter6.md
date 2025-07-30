@@ -44,7 +44,7 @@ The most soundly based reconstruction for sky is POc _&ast;laŋit_ (see also p.1
 <td style="white-space: nowrap;">
 <i>&ast;laŋiC</i>
 </td>
-<td>'<span>sky</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
+<td>'<span>sky</span>' (<a href="../sources/Dempwolff1938">Dempwolff 1938</a>)
 </td>
 </tr>
 <tr>
@@ -190,7 +190,7 @@ Similarly, PChk _&ast;pai-laŋi_ may be from POc _&ast;baRa_ ‘fence’(see [vo
 <td style="white-space: nowrap;">
 <i>&ast;pai-laŋi</i>
 </td>
-<td>'<span>horizon</span>' (<a href="../sources/Marck1994">Marck1994</a>)
+<td>'<span>horizon</span>' (<a href="../sources/Marck1994">Marck 1994</a>)
 </td>
 </tr>
 <tr>
@@ -270,7 +270,7 @@ Two SE Solomonic languages describe the horizon in terms of the sea rather than 
 <td><a href="../languages/kiribatese">Kiribatese</a></td>
 <td style="white-space: nowrap"><i>te tataŋa ni maeao</i></td>
 <td>
-'<span>western horizon</span>' (<span>lit. ‘roof-plate of west’</span>)(<a href="../sources/Grimble1931">Grimble1931: 198</a>)
+'<span>western horizon</span>' (<span>lit. ‘roof-plate of west’</span>)(<a href="../sources/Grimble1931">Grimble 1931: 198</a>)
 </td>
 </tr>
 <tr>
@@ -306,7 +306,7 @@ Two SE Solomonic languages describe the horizon in terms of the sea rather than 
 <td><a href="../languages/hawaiian">Hawaiian</a></td>
 <td style="white-space: nowrap"><i>kūkulu-o-lani</i></td>
 <td>
-'<span>horizon</span>' (<span><em>kūkulu</em> ‘pillar, post, side, edge, horizon’ denotes the four pillars which were the principal supports of the heavenly dome (Makemson 1939:19)</span>)(<a href="../sources/Akerblom1968">Akerblom1968: 15</a>)
+'<span>horizon</span>' (<span><em>kūkulu</em> ‘pillar, post, side, edge, horizon’ denotes the four pillars which were the principal supports of the heavenly dome (Makemson 1939:19)</span>)(<a href="../sources/Akerblom1968">Åkerblom 1968: 15</a>)
 </td>
 </tr>
 </table>
@@ -337,7 +337,7 @@ Reconstruction of a POc term for the sun itself is not clearcut. Blust has recon
 <td style="white-space: nowrap;">
 <i>&ast;qajaw, &ast;qalejaw</i>
 </td>
-<td>'<span>sun, daylight</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>sun, daylight</span>' (<a href="../sources/Blust1995">ACD</a>)
 [^9]</td>
 </tr>
 <tr>
@@ -558,7 +558,7 @@ Proto Nuclear Polynesian shows a split between _&ast;qaso_ ‘day, as a period o
 <td style="white-space: nowrap;">
 <i>&ast;daqaNi</i>
 </td>
-<td>'<span>day</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>day</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -923,7 +923,7 @@ Yet another contender for the POc term for sun is _&ast;sinaR_, which Blust (199
 <td style="white-space: nowrap;">
 <i>&ast;sinaR</i>
 </td>
-<td>'<span>ray of light</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
+<td>'<span>ray of light</span>' (<a href="../sources/Dempwolff1938">Dempwolff 1938</a>)
 </td>
 </tr>
 <tr>
@@ -1068,7 +1068,7 @@ The moon is of little value as a navigational aid. Its typical role is as a mark
 <td style="white-space: nowrap;">
 <i>&ast;bulaN</i>
 </td>
-<td>'<span>moon, month, menstruation</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>moon, month, menstruation</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -1076,7 +1076,7 @@ The moon is of little value as a navigational aid. Its typical role is as a mark
 <td style="white-space: nowrap;">
 <i>&ast;bulan</i>
 </td>
-<td>'<span>moon, month; menstruation</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
+<td>'<span>moon, month; menstruation</span>' (<a href="../sources/Dempwolff1938">Dempwolff 1938</a>)
 </td>
 </tr>
 <tr>
@@ -1084,7 +1084,7 @@ The moon is of little value as a navigational aid. Its typical role is as a mark
 <td style="white-space: nowrap;">
 <i>&ast;pulan</i>
 </td>
-<td>'<span>moon, month</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>moon, month</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -1241,7 +1241,7 @@ It has already been pointed out that the northern hemisphere sky differs from th
 <td style="white-space: nowrap;">
 <i>&ast;bituqen</i>
 </td>
-<td>'<span>star</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>star</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -1366,7 +1366,7 @@ The planets ‘wander’ in their movements and are of little use as guiding sta
 <td style="white-space: nowrap;">
 <i>&ast;mantalaq</i>
 </td>
-<td>'<span>the morning (evening) star: Venus</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>the morning (evening) star: Venus</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -1374,7 +1374,7 @@ The planets ‘wander’ in their movements and are of little use as guiding sta
 <td style="white-space: nowrap;">
 <i>&ast;(t)ala(q)</i>
 </td>
-<td>'<span>star</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
+<td>'<span>star</span>' (<a href="../sources/Dempwolff1938">Dempwolff 1938</a>)
 </td>
 </tr>
 <tr>
@@ -1382,7 +1382,7 @@ The planets ‘wander’ in their movements and are of little use as guiding sta
 <td style="white-space: nowrap;">
 <i>&ast;ma-dala</i>
 </td>
-<td>'<span>the morning star</span>' (<a href="../sources/Blust1972b">Blust1972b</a>)
+<td>'<span>the morning star</span>' (<a href="../sources/Blust1972b">Blust 1972b</a>)
 </td>
 </tr>
 <tr>
@@ -1449,7 +1449,7 @@ __Morning Star:__
 </tr>
 <tr>
 <td>Pn</td><td><a href="../languages/marquesan">Marquesan</a></td><td style="white-space: nowrap;"><i>hetu ao</i></td>
-<td>'<span>star of dawn</span>' (<a href="../sources/Makemson1941">Makemson1941: 207</a>)
+<td>'<span>star of dawn</span>' (<a href="../sources/Makemson1941">Makemson 1941: 207</a>)
 </td>
 </tr>
 <tr>
@@ -1664,7 +1664,7 @@ We also have various references to particular stars as Manuk’s head, Manuk’s
 <td><a href="../languages/seimat">Seimat</a></td>
 <td style="white-space: nowrap"><i>mānihaiup</i></td>
 <td>
-'<span>Canopus</span>'(<a href="../sources/Lewis1994">Lewis1994: 406</a>)
+'<span>Canopus</span>'(<a href="../sources/Lewis1994">Lewis 1994: 406</a>)
 </td>
 </tr>
 <tr>
@@ -1714,7 +1714,7 @@ We also have various references to particular stars as Manuk’s head, Manuk’s
 <td><a href="../languages/tikopia">Tikopia</a></td>
 <td style="white-space: nowrap"><i>te opiŋa o manu</i></td>
 <td>
-'<span>Manuk’s armpit</span>' (<span>A Tikopian name but commonly used on Anuta.</span>)(<a href="../sources/Feinberg1988">Feinberg1988: 101</a>)
+'<span>Manuk’s armpit</span>' (<span>A Tikopian name but commonly used on Anuta.</span>)(<a href="../sources/Feinberg1988">Feinberg 1988: 101</a>)
 </td>
 </tr>
 </table>
@@ -1776,7 +1776,7 @@ Procyon (or Betelgeuse) and Canopus are widely referred to as the north wing and
 <td><a href="../languages/pileni">Pileni</a></td>
 <td style="white-space: nowrap"><i>trekapekau ki ndeni  </i></td>
 <td>
-'<span>Canopus</span>' (<span>Ndeni is an island southwest of Pileni</span>)(<a href="../sources/Lewis1994">Lewis1994: 408</a>)
+'<span>Canopus</span>' (<span>Ndeni is an island southwest of Pileni</span>)(<a href="../sources/Lewis1994">Lewis 1994: 408</a>)
 </td>
 </tr>
 </table>
@@ -1812,7 +1812,7 @@ Individual stars within a constellation are frequently named because of their si
 </tr>
 <tr>
 <td>Pn</td><td><a href="../languages/maori">Māori</a></td><td style="white-space: nowrap;"><i>takurua</i></td>
-<td>'<span>Sirius; winter</span>' (<a href="../sources/Akerblom1968">Akerblom1968: 19</a>)
+<td>'<span>Sirius; winter</span>' (<a href="../sources/Akerblom1968">Åkerblom 1968: 19</a>)
 </td>
 </tr>
 <tr>
@@ -1841,7 +1841,7 @@ We have another PPn reconstruction whose reference is apparently to a star or st
 </tr>
 <tr>
 <td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td style="white-space: nowrap;"><i>takelo</i></td>
-<td>'<span>two stars in the northern sky</span>' (<a href="../sources/Makemson1941">Makemson1941: 253</a>)
+<td>'<span>two stars in the northern sky</span>' (<a href="../sources/Makemson1941">Makemson 1941: 253</a>)
 </td>
 </tr>
 <tr>
@@ -1854,7 +1854,7 @@ We have another PPn reconstruction whose reference is apparently to a star or st
 </tr>
 <tr>
 <td>Pn</td><td><a href="../languages/tuamotuan">Tuamotuan</a></td><td style="white-space: nowrap;"><i>takero</i></td>
-<td>'<span>Orion’s Belt</span>' (<a href="../sources/Makemson1941">Makemson1941: 253</a>)
+<td>'<span>Orion’s Belt</span>' (<a href="../sources/Makemson1941">Makemson 1941: 253</a>)
 </td>
 </tr>
 <tr>
@@ -1898,7 +1898,7 @@ Blust has reconstructed PMP _&ast;buluq_, POc _&ast;puluq_ ‘a constellation, t
 <td style="white-space: nowrap;">
 <i>&ast;buluq</i>
 </td>
-<td>'<span>a constellation, the Pleiades</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>a constellation, the Pleiades</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -2148,7 +2148,7 @@ Other terms are descriptive, with the net metaphor and the cross shape or crucif
 <td><a href="../languages/tikopia">Tikopia</a></td>
 <td style="white-space: nowrap"><i>rakau tapu     </i></td>
 <td>
-'<span>Southern Cross</span>' (<span>lit. ‘sacred timber’</span>)(<a href="../sources/Lewis1994">Lewis1994: 407</a>)
+'<span>Southern Cross</span>' (<span>lit. ‘sacred timber’</span>)(<a href="../sources/Lewis1994">Lewis 1994: 407</a>)
 </td>
 </tr>
 <tr>
@@ -2181,7 +2181,7 @@ The Pointers, Alpha and Beta Centauri, are widely referred to by compounds trans
 <td><a href="../languages/samoan">Samoan</a></td>
 <td style="white-space: nowrap"><i>lua taŋata</i></td>
 <td>
-'<span>Pointers: Alpha and Beta Centauri</span>'(<a href="../sources/Akerblom1968">Akerblom1968: 27</a>)
+'<span>Pointers: Alpha and Beta Centauri</span>'(<a href="../sources/Akerblom1968">Åkerblom 1968: 27</a>)
 </td>
 </tr>
 <tr>
@@ -2189,7 +2189,7 @@ The Pointers, Alpha and Beta Centauri, are widely referred to by compounds trans
 <td><a href="../languages/tikopia">Tikopia</a></td>
 <td style="white-space: nowrap"><i>rua taŋata</i></td>
 <td>
-'<span>Southern Cross</span>'(<a href="../sources/Lewis1994">Lewis1994: 407</a>)
+'<span>Southern Cross</span>'(<a href="../sources/Lewis1994">Lewis 1994: 407</a>)
 </td>
 </tr>
 <tr>
@@ -2197,7 +2197,7 @@ The Pointers, Alpha and Beta Centauri, are widely referred to by compounds trans
 <td><a href="../languages/tokelauan">Tokelauan</a></td>
 <td style="white-space: nowrap"><i>na taŋata </i></td>
 <td>
-'<span>these two stars are guides for voyages from Tokelau to Samoa</span>'(<a href="../sources/Macgregor1937">Macgregor1937: 89</a>)
+'<span>these two stars are guides for voyages from Tokelau to Samoa</span>'(<a href="../sources/Macgregor1937">MacGregor 1937: 89</a>)
 </td>
 </tr>
 <tr>
@@ -2240,7 +2240,7 @@ No cognates are evident for the constellation, but there are semantically parall
 <td><a href="../languages/tikopia">Tikopia</a></td>
 <td style="white-space: nowrap"><i>te ūkopi  </i></td>
 <td>
-'<span>the Tongs (Taurus’s forehead), particularly Aldebaran</span>' (<span>Firth has <em>ūkofi</em></span>)(<a href="../sources/Feinberg1988">Feinberg1988: 101</a>)
+'<span>the Tongs (Taurus’s forehead), particularly Aldebaran</span>' (<span>Firth has <em>ūkofi</em></span>)(<a href="../sources/Feinberg1988">Feinberg 1988: 101</a>)
 </td>
 </tr>
 <tr>
@@ -2294,7 +2294,7 @@ There is a possible PEOc reconstruction for Aldebaran, the single brightest star
 </tr>
 <tr>
 <td>Pn</td><td><a href="../languages/kapingamarangi">Kapingamarangi</a></td><td style="white-space: nowrap;"><i>ūnu te</i></td>
-<td>'<span>star name</span>' (<a href="../sources/PukuiandElbert1973">PukuiandElbert1973</a>)
+<td>'<span>star name</span>' (<a href="../sources/PukuiandElbert1973">Pukui and Elbert 1973</a>)
 </td>
 </tr>
 </table>
@@ -2309,7 +2309,7 @@ Other names located for Aldebaran include:
 <td><a href="../languages/kiribatese">Kiribatese</a></td>
 <td style="white-space: nowrap"><i>te boto-n-aiai</i></td>
 <td>
-'<span>Aldebaran (in Taurus)</span>' (<span>lit. ‘base of ribs (aiai) of canoe’, because it stands in the V-shaped portion of Taurus</span>)(<a href="../sources/Grimble1931">Grimble1931: 241</a>)
+'<span>Aldebaran (in Taurus)</span>' (<span>lit. ‘base of ribs (aiai) of canoe’, because it stands in the V-shaped portion of Taurus</span>)(<a href="../sources/Grimble1931">Grimble 1931: 241</a>)
 </td>
 </tr>
 <tr>
@@ -2324,7 +2324,7 @@ Other names located for Aldebaran include:
 <td><a href="../languages/tahitian">Tahitian</a></td>
 <td style="white-space: nowrap"><i>ana muri</i></td>
 <td>
-'<span>Aldebaran</span>' (<span>‘rear pillar supporting the sky’; cf. <em>ana mua</em> ‘front pillar, Antares</span>)(<a href="../sources/Lewis1994">Lewis1994: 403</a>)
+'<span>Aldebaran</span>' (<span>‘rear pillar supporting the sky’; cf. <em>ana mua</em> ‘front pillar, Antares</span>)(<a href="../sources/Lewis1994">Lewis 1994: 403</a>)
 </td>
 </tr>
 <tr>
@@ -2373,7 +2373,7 @@ Polaris marks the centre of the North Celestial Pole. From the viewpoint of a st
 </tr>
 <tr>
 <td>Pn</td><td><a href="../languages/tahitian">Tahitian</a></td><td style="white-space: nowrap;"><i>ana-niʔa</i></td>
-<td>'<span>Polaris</span>' (<a href="../sources/Lewis1994">Lewis1994: 403</a>)
+<td>'<span>Polaris</span>' (<a href="../sources/Lewis1994">Lewis 1994: 403</a>)
 </td>
 </tr>
 <tr>
@@ -2402,7 +2402,7 @@ The only cognate set located is from Micronesia. References may be at times to t
 </tr>
 <tr>
 <td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td style="white-space: nowrap;"><i>mǣy læp </i></td>
-<td>'<span>Altair; a month, about March</span>' (<span>from <em>mǣy</em> ‘breadfruit’, <em>læp</em> ‘big, old’; appearance of Altair marks the season of old breadfruit, northeast winds and much sailing. <em>mǣylæpænefæŋ</em> is the name given to the season</span>) (<a href="../sources/Elbert1972">Elbert1972</a>)
+<td>'<span>Altair; a month, about March</span>' (<span>from <em>mǣy</em> ‘breadfruit’, <em>læp</em> ‘big, old’; appearance of Altair marks the season of old breadfruit, northeast winds and much sailing. <em>mǣylæpænefæŋ</em> is the name given to the season</span>) (<a href="../sources/Elbert1972">Elbert 1972</a>)
 </td>
 </tr>
 <tr>
@@ -2419,7 +2419,7 @@ The only cognate set located is from Micronesia. References may be at times to t
 </tr>
 <tr>
 <td>Mic</td><td><a href="../languages/satawalese">Satawalese</a></td><td style="white-space: nowrap;"><i>mailap</i></td>
-<td>'<span>Altair</span>' (<a href="../sources/McCoy1976">McCoy1976</a>)
+<td>'<span>Altair</span>' (<a href="../sources/McCoy1976">McCoy 1976</a>)
 </td>
 </tr>
 </table>
@@ -2511,7 +2511,7 @@ Antares, in the western constellation of Scorpio, ranks with the Pleiades as the
 <td style="white-space: nowrap;">
 <i>&ast;refua</i>
 </td>
-<td>'<span>a star name, Antares?</span>' (<a href="../sources/BiggsandClark1993">BiggsandClark1993</a>)
+<td>'<span>a star name, Antares?</span>' (<a href="../sources/BiggsandClark1993">Biggs and Clark 1993</a>)
 </td>
 </tr>
 <tr>
@@ -2524,17 +2524,17 @@ Antares, in the western constellation of Scorpio, ranks with the Pleiades as the
 </tr>
 <tr>
 <td>Pn</td><td><a href="../languages/maori">Māori</a></td><td style="white-space: nowrap;"><i>rerehu, rehua</i></td>
-<td>'<span>Antares</span>' (<a href="../sources/Makemson1941">Makemson1941: 98</a>)
+<td>'<span>Antares</span>' (<a href="../sources/Makemson1941">Makemson 1941: 98</a>)
 </td>
 </tr>
 <tr>
 <td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td style="white-space: nowrap;"><i>we-lehu</i></td>
-<td>'<span>Antares</span>' (<a href="../sources/Makemson1941">Makemson1941: 98</a>)
+<td>'<span>Antares</span>' (<a href="../sources/Makemson1941">Makemson 1941: 98</a>)
 </td>
 </tr>
 <tr>
 <td>Pn</td><td><a href="../languages/marquesan">Marquesan</a></td><td style="white-space: nowrap;"><i>ehua</i></td>
-<td>'<span>Antares</span>' (<a href="../sources/Makemson1941">Makemson1941: 207</a>)
+<td>'<span>Antares</span>' (<a href="../sources/Makemson1941">Makemson 1941: 207</a>)
 </td>
 </tr>
 </table>
@@ -2551,7 +2551,7 @@ Antares, in the western constellation of Scorpio, ranks with the Pleiades as the
 </tr>
 <tr>
 <td>Pn</td><td><a href="../languages/pukapukan">Pukapukan</a></td><td style="white-space: nowrap;"><i>mele-mele</i></td>
-<td>'<span>Antares</span>' (<a href="../sources/Lewis1994">Lewis1994: 406</a>)
+<td>'<span>Antares</span>' (<a href="../sources/Lewis1994">Lewis 1994: 406</a>)
 </td>
 </tr>
 <tr>
@@ -2606,7 +2606,7 @@ The star names listed from this point onward are reconstructable only for Proto 
 </tr>
 <tr>
 <td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td style="white-space: nowrap;"><i>rax</i></td>
-<td>'<span>Pegasus</span>' (<a href="../sources/Alkire1970">Alkire1970: 39</a>)
+<td>'<span>Pegasus</span>' (<a href="../sources/Alkire1970">Alkire 1970: 39</a>)
 </td>
 </tr>
 </table>
@@ -2994,12 +2994,12 @@ I have located terms only within Polynesia and Fiji for the Magellanic Clouds. T
 </tr>
 <tr>
 <td>Pn</td><td><a href="../languages/pileni">Pileni</a></td><td style="white-space: nowrap;"><i>lua mafu</i></td>
-<td>'<span>Magellanic Clouds</span>' (<a href="../sources/Lewis1994">Lewis1994: 406</a>)
+<td>'<span>Magellanic Clouds</span>' (<a href="../sources/Lewis1994">Lewis 1994: 406</a>)
 </td>
 </tr>
 <tr>
 <td>Pn</td><td><a href="../languages/manihiki">Manihiki</a></td><td style="white-space: nowrap;"><i>rua mafu</i></td>
-<td>'<span>Magellanic Clouds</span>' (<a href="../sources/Lewis1994">Lewis1994: 407</a>)
+<td>'<span>Magellanic Clouds</span>' (<a href="../sources/Lewis1994">Lewis 1994: 407</a>)
 </td>
 </tr>
 </table>
@@ -3163,7 +3163,7 @@ POc _&ast;sake_ had as its primary sense ‘rise, go up’. But it also had the 
 <td style="white-space: nowrap;">
 <i>&ast;sa(ŋ)kay</i>
 </td>
-<td>'<span>catch a ride, ride on something</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>catch a ride, ride on something</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -3243,7 +3243,7 @@ POc _&ast;sake_ had as its primary sense ‘rise, go up’. But it also had the 
 </tr>
 <tr>
 <td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td style="white-space: nowrap;"><i>tǣn</i></td>
-<td>'<span>(star) rise in the east</span>' (<span>e.g. <em>tānupʷ</em> ‘rising Southern Cross’, <em>tāni mə̄l</em> ‘rising Vega’. Lewis refers to (uncorrected spelling) <em>daane elüüel</em> ‘rising Orion__s Belt, 90°’, <em>daane mailöb</em> ‘rising Altair, 83°’, and <em>daan uun</em> ‘rising Aldebaran, 75°’</span>) (<a href="../sources/Lewis1994">Lewis1994: 404</a>)
+<td>'<span>(star) rise in the east</span>' (<span>e.g. <em>tānupʷ</em> ‘rising Southern Cross’, <em>tāni mə̄l</em> ‘rising Vega’. Lewis refers to (uncorrected spelling) <em>daane elüüel</em> ‘rising Orion__s Belt, 90°’, <em>daane mailöb</em> ‘rising Altair, 83°’, and <em>daan uun</em> ‘rising Aldebaran, 75°’</span>) (<a href="../sources/Lewis1994">Lewis 1994: 404</a>)
 </td>
 </tr>
 <tr>

@@ -3,7 +3,7 @@
 <li>{% if cmt %} {{ cmt }}{% endif %}
 
 {% if labels %}<ol type="a">{% else %} <ul style="list-style: none">{% endif %}
-{% for lname, lgroup, text, gloss, translation, cmt, src, reflabel in ex: %}
+{% for lname, lgroup, text, gloss, mgloss, translation, cmt, src, reflabel in ex: %}
 <li>
 {{ lname }}{% if lgroup %} ({{ lgroup }}){% endif %}{% if src %}: ([{{ reflabel }}]({{ href_source(src) }})){% endif %}
 <table style="padding-left: 2em;" class="igt{% if label %} labeled{% endif %}">
@@ -20,6 +20,14 @@
 {% endfor %}
 <td style="width: 100%"> </td>
 </tr>
+{% if mgloss %}
+<tr>
+{% for i in mgloss: %}
+<td>{{ i }}</td>
+{% endfor %}
+<td style="width: 100%"> </td>
+</tr>
+{% endif %}
 </table>
 </li>
 {% endfor %}

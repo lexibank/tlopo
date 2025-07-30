@@ -64,7 +64,7 @@ The Proto Oceanic (POc) term for _Rhizophora_ species was perhaps POc _&ast;wako
 <td style="white-space: nowrap;">
 <i>&ast;waket</i>
 </td>
-<td>'<span>mangrove root</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>mangrove root</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -102,7 +102,7 @@ PWOc _&ast;baul_ perhaps denoted _Rhizophora_: its Tolai reflex, _baul_ 'mangrov
 <td style="white-space: nowrap;">
 <i>&ast;baul</i>
 </td>
-<td>'<span>mangrove, <em>Rhizophora</em> sp. (?)</span>' (<a href="../sources/Ross1996d">Ross1996d</a>)
+<td>'<span>mangrove, <em>Rhizophora</em> sp. (?)</span>' (<a href="../sources/Ross1996d">Ross 1996d</a>)
 </td>
 </tr>
 <tr>
@@ -172,7 +172,7 @@ POc _&ast;toŋoR_ was fairly clearly the generic term for mangroves. It also see
 <td style="white-space: nowrap;">
 <i>&ast;teŋeR</i>
 </td>
-<td>'<span>mangrove, <em>Bruguiera</em> spp.</span>' (<a href="../sources/Blust1972b">Blust1972b</a>)
+<td>'<span>mangrove, <em>Bruguiera</em> spp.</span>' (<a href="../sources/Blust1972b">Blust 1972b</a>)
 </td>
 </tr>
 <tr>
@@ -180,7 +180,7 @@ POc _&ast;toŋoR_ was fairly clearly the generic term for mangroves. It also see
 <td style="white-space: nowrap;">
 <i>&ast;toŋoR</i>
 </td>
-<td>'<span>mangrove, <em>Bruguiera</em> spp.; mangroves (generic)</span>' (<a href="../sources/Ross1996d">Ross1996d</a>)
+<td>'<span>mangrove, <em>Bruguiera</em> spp.; mangroves (generic)</span>' (<a href="../sources/Ross1996d">Ross 1996d</a>)
 </td>
 </tr>
 <tr>
@@ -221,7 +221,7 @@ POc _&ast;toŋoR_ was fairly clearly the generic term for mangroves. It also see
 </tr>
 <tr>
 <td>PT</td><td><a href="../languages/motu">Motu</a></td><td style="white-space: nowrap;"><i>to-toa</i></td>
-<td>'<span><em>Rhizophora mucronata</em></span>' (<a href="../sources/LanePoole1925">LanePoole1925</a>)
+<td>'<span><em>Rhizophora mucronata</em></span>' (<a href="../sources/LanePoole1925">Lane-Poole 1925</a>)
 </td>
 </tr>
 <tr>
@@ -308,7 +308,7 @@ POc _&ast;toŋoR_ was fairly clearly the generic term for mangroves. It also see
 <td style="white-space: nowrap;">
 <i>&ast;na-doŋa(q)</i>
 </td>
-<td>'<span>mangrove, <em>Rhizophora</em> spp.</span>' (<a href="../sources/Lynch2001c">Lynch2001c</a>)
+<td>'<span>mangrove, <em>Rhizophora</em> spp.</span>' (<a href="../sources/Lynch2001c">Lynch 2001c</a>)
 </td>
 </tr>
 <tr>
@@ -372,7 +372,7 @@ POc _&ast;toŋoR_ was fairly clearly the generic term for mangroves. It also see
 </tr>
 <tr>
 <td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>toŋo</i></td>
-<td>'<span>taxon of mangrove species inc. <em>Bruguiera gymnorrhiza</em> and <em>Rhizophora</em> mangle</span>' (<a href="../sources/Whistler2000">Whistler2000: 204</a>)
+<td>'<span>taxon of mangrove species inc. <em>Bruguiera gymnorrhiza</em> and <em>Rhizophora</em> mangle</span>' (<a href="../sources/Whistler2000">Whistler 2000: 204</a>)
 </td>
 </tr>
 <tr>
@@ -442,7 +442,7 @@ The initial rounded bilabial of POc _&ast;(p,pʷ)awa(t)_ is reconstructed on the
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/teop">Teop</a></td><td style="white-space: nowrap;"><i>pau</i></td>
-<td>'<span><em>Cerbera manghas</em></span>' (<a href="../sources/Record1945">Record1945</a>)
+<td>'<span><em>Cerbera manghas</em></span>' (<a href="../sources/Record1945">Record 1945</a>)
 </td>
 </tr>
 <tr>
@@ -556,7 +556,7 @@ It is used in New Ireland to make propeller-like shark fishing floats ([Peekel 1
 <td style="white-space: nowrap;">
 <i>&ast;tuiʔ</i>
 </td>
-<td>'<span><em>Dolichandrone spathacea</em></span>' (<a href="../sources/Blust1986">Blust1986</a>)
+<td>'<span><em>Dolichandrone spathacea</em></span>' (<a href="../sources/Blust1986">Blust 1986</a>)
 </td>
 </tr>
 <tr>
@@ -639,7 +639,7 @@ _Excoecaria agallocha_ is a shrub or small tree with a thick trunk that mostly g
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/bola">Bola</a></td><td style="white-space: nowrap;"><i>toto</i></td>
-<td>'<span><em>Cerbera manghas</em></span>' (<a href="../sources/Powell1976">Powell1976</a>)
+<td>'<span><em>Cerbera manghas</em></span>' (<a href="../sources/Powell1976">Powell 1976</a>)
 </td>
 </tr>
 <tr>
@@ -671,7 +671,7 @@ _Excoecaria agallocha_ is a shrub or small tree with a thick trunk that mostly g
 <td style="white-space: nowrap;">
 <i>&ast;na-tetaq</i>
 </td>
-<td>'<span><em>Excoecaria agallocha</em></span>' (<a href="../sources/Lynch2001c">Lynch2001c</a>)
+<td>'<span><em>Excoecaria agallocha</em></span>' (<a href="../sources/Lynch2001c">Lynch 2001c</a>)
 </td>
 </tr>
 <tr>
@@ -739,7 +739,7 @@ The cognate set below has few members, but they are widespread enough to support
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td style="white-space: nowrap;"><i>ka-kono</i></td>
-<td>'<span><em>Heritiera littoralis</em></span>' (<a href="../sources/Record1945">Record1945</a>)
+<td>'<span><em>Heritiera littoralis</em></span>' (<a href="../sources/Record1945">Record 1945</a>)
 </td>
 </tr>
 <tr>
@@ -792,7 +792,7 @@ Final POc _&ast;-q_ of _&ast;nipaq_ is attested by the presence of paragogic _-i
 <td style="white-space: nowrap;">
 <i>&ast;nipaq</i>
 </td>
-<td>'<span><em>Nypa fruticans</em></span>' (<a href="../sources/Wolff1994">Wolff1994</a>: <span>532-533</span>)
+<td>'<span><em>Nypa fruticans</em></span>' (<a href="../sources/Wolff1994">Wolff 1994</a>: <span>532-533</span>)
 </td>
 </tr>
 <tr>
@@ -800,7 +800,7 @@ Final POc _&ast;-q_ of _&ast;nipaq_ is attested by the presence of paragogic _-i
 <td style="white-space: nowrap;">
 <i>&ast;nipaq</i>
 </td>
-<td>'<span><em>Nypa fruticans</em></span>' (<a href="../sources/Chowning2001">Chowning2001</a>: <span>84</span>)
+<td>'<span><em>Nypa fruticans</em></span>' (<a href="../sources/Chowning2001">Chowning 2001</a>: <span>84</span>)
 </td>
 </tr>
 <tr>
@@ -829,7 +829,7 @@ Final POc _&ast;-q_ of _&ast;nipaq_ is attested by the presence of paragogic _-i
 </tr>
 <tr>
 <td>SES</td><td><a href="../languages/kwaraae">Kwara’ae</a></td><td style="white-space: nowrap;"><i>niva</i></td>
-<td>'<span><em>Nypa fruticans</em></span>' (<a href="../sources/Whitmore1966">Whitmore1966</a>)
+<td>'<span><em>Nypa fruticans</em></span>' (<a href="../sources/Whitmore1966">Whitmore 1966</a>)
 </td>
 </tr>
 </table>
@@ -865,7 +865,7 @@ POc _&ast;tapi(l)_ is problematic because only the Muyuw reflex has a secure glo
 </tr>
 <tr>
 <td>PT</td><td><a href="../languages/muyuw">Muyuw</a></td><td style="white-space: nowrap;"><i>tavi</i></td>
-<td>'<span><em>Xylocarpus granatum</em></span>' (<a href="../sources/Damon2004">Damon2004</a>)
+<td>'<span><em>Xylocarpus granatum</em></span>' (<a href="../sources/Damon2004">Damon 2004</a>)
 </td>
 </tr>
 <tr>
@@ -886,7 +886,7 @@ POc _&ast;tapi(l)_ is problematic because only the Muyuw reflex has a secure glo
 <td style="white-space: nowrap;">
 <i>&ast;legi-legi</i>
 </td>
-<td>'<span>puzzlenut tree, <em>Xylocarpus granatum</em></span>' (<a href="../sources/Biggs1965">Biggs1965</a>)
+<td>'<span>puzzlenut tree, <em>Xylocarpus granatum</em></span>' (<a href="../sources/Biggs1965">Biggs 1965</a>)
 </td>
 </tr>
 <tr>

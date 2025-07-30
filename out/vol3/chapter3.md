@@ -642,7 +642,7 @@ The most stable primary taxon label, in that it is reflected most widely amongst
 <td style="white-space: nowrap;">
 <i>&ast;kayu</i>
 </td>
-<td>'<span>tree, wood, timber</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
+<td>'<span>tree, wood, timber</span>' (<a href="../sources/Dempwolff1938">Dempwolff 1938</a>)
 </td>
 </tr>
 <tr>
@@ -879,7 +879,7 @@ The final consonant of the POc form is reconstructed as _&ast;c_ rather than _&a
 <td style="white-space: nowrap;">
 <i>&ast;waRej</i>
 </td>
-<td>'<span>vine, creeper</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>vine, creeper</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -994,7 +994,7 @@ POc _&ast;pali[s,j]i_ appears to have been the generic for plants lacking a main
 <td style="white-space: nowrap;">
 <i>&ast;bali(j,z)i</i>
 </td>
-<td>'<span>(type of ?) grass</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>(type of ?) grass</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -1002,7 +1002,7 @@ POc _&ast;pali[s,j]i_ appears to have been the generic for plants lacking a main
 <td style="white-space: nowrap;">
 <i>&ast;pali[s,j]i</i>
 </td>
-<td>'<span>generic term for grasses and other grass-like plants</span>' (<a href="../sources/Grace1961">Grace1961</a>: <span>*palisi</span>)
+<td>'<span>generic term for grasses and other grass-like plants</span>' (<a href="../sources/Grace1961">Grace 1961</a>: <span>*palisi</span>)
 </td>
 </tr>
 <tr>
@@ -1125,7 +1125,7 @@ Evidence from non-Oceanic languages suggests that _&ast;lumut_ may have been the
 <td style="white-space: nowrap;">
 <i>&ast;lumut</i>
 </td>
-<td>'<span>generic term for mosses, algaes and seaweeds</span>' (<a href="../sources/Capell1943">Capell1943</a>)
+<td>'<span>generic term for mosses, algaes and seaweeds</span>' (<a href="../sources/Capell1943">Capell 1943</a>)
 </td>
 </tr>
 <tr>
@@ -1254,7 +1254,7 @@ Evidence from non-Oceanic languages suggests that _&ast;lumut_ may have been the
 <td style="white-space: nowrap;">
 <i>&ast;limut</i>
 </td>
-<td>'<span>generic term for mosses, algaes and seaweeds</span>' (<a href="../sources/Biggs1965">Biggs1965</a>: <span><em>*timu</em></span>)
+<td>'<span>generic term for mosses, algaes and seaweeds</span>' (<a href="../sources/Biggs1965">Biggs 1965</a>: <span><em>*timu</em></span>)
 </td>
 </tr>
 <tr>
@@ -1342,7 +1342,7 @@ In a number of modern Oceanic languages the life-form term for mushrooms and oth
 <td style="white-space: nowrap;">
 <i>&ast;taliŋa</i>
 </td>
-<td>'<span>generic term for mushrooms and fleshy fungi; ear</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>generic term for mushrooms and fleshy fungi; ear</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>

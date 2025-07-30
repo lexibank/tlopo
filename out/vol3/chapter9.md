@@ -105,7 +105,7 @@ The most widely reflected term for _Dioscorea alata_ is POc _&ast;qupi_, which i
 <td style="white-space: nowrap;">
 <i>&ast;qubi</i>
 </td>
-<td>'<span>yam</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
+<td>'<span>yam</span>' (<a href="../sources/Dempwolff1938">Dempwolff 1938</a>)
 </td>
 </tr>
 <tr>
@@ -141,7 +141,7 @@ The most widely reflected term for _Dioscorea alata_ is POc _&ast;qupi_, which i
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/maringe">Maringe</a></td><td style="white-space: nowrap;"><i>n-ufi</i></td>
-<td>'<span>greater yam, <em>Dioscorea alata</em>; yam (generic)</span>' (<a href="../sources/HendersonandHancock1988">HendersonandHancock1988</a>)
+<td>'<span>greater yam, <em>Dioscorea alata</em>; yam (generic)</span>' (<a href="../sources/HendersonandHancock1988">Henderson and Hancock 1988</a>)
 </td>
 </tr>
 <tr>
@@ -162,7 +162,7 @@ The most widely reflected term for _Dioscorea alata_ is POc _&ast;qupi_, which i
 </tr>
 <tr>
 <td>SES</td><td><a href="../languages/lengo">Lengo</a></td><td style="white-space: nowrap;"><i>uvi</i></td>
-<td>'<span>greater yam, <em>Dioscorea alata</em>; yam (generic)</span>' (<a href="../sources/HendersonandHancock1988">HendersonandHancock1988</a>)
+<td>'<span>greater yam, <em>Dioscorea alata</em>; yam (generic)</span>' (<a href="../sources/HendersonandHancock1988">Henderson and Hancock 1988</a>)
 </td>
 </tr>
 <tr>
@@ -292,7 +292,7 @@ Three other terms can be reconstructed from cognate sets some of whose members a
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td style="white-space: nowrap;"><i>marihi</i></td>
-<td>'<span>yam</span>' (<span>borrowed?</span>) (<a href="../sources/HendersonandHancock1988">HendersonandHancock1988</a>)
+<td>'<span>yam</span>' (<span>borrowed?</span>) (<a href="../sources/HendersonandHancock1988">Henderson and Hancock 1988</a>)
 </td>
 </tr>
 <tr>
@@ -320,7 +320,7 @@ Three other terms can be reconstructed from cognate sets some of whose members a
 <td style="white-space: nowrap;">
 <i>&ast;-mʷariq</i>
 </td>
-<td>'<span><em>Dioscorea</em> sp.</span>' (<a href="../sources/Lynch2001c">Lynch2001c</a>: <span>234</span>)
+<td>'<span><em>Dioscorea</em> sp.</span>' (<a href="../sources/Lynch2001c">Lynch 2001c</a>: <span>234</span>)
 </td>
 </tr>
 <tr>
@@ -481,7 +481,7 @@ POc _&ast;pʷatika_ evidently referred to the potato yam, _Dioscorea bulbifera_,
 </tr>
 <tr>
 <td>SES</td><td><a href="../languages/kwaraae">Kwara’ae</a></td><td style="white-space: nowrap;"><i>(dau)fasia</i></td>
-<td>'<span><em>Dioscorea bulbifera</em> cultivars</span>' (<a href="../sources/HendersonandHancock1988">HendersonandHancock1988</a>)
+<td>'<span><em>Dioscorea bulbifera</em> cultivars</span>' (<a href="../sources/HendersonandHancock1988">Henderson and Hancock 1988</a>)
 </td>
 </tr>
 <tr>
@@ -489,7 +489,7 @@ POc _&ast;pʷatika_ evidently referred to the potato yam, _Dioscorea bulbifera_,
 <td style="white-space: nowrap;">
 <i>&ast;(nə-tai-)bʷatɣV</i>
 </td>
-<td>'<span>yam sp.</span>' (<a href="../sources/Lynch2001c">Lynch2001c</a>)
+<td>'<span>yam sp.</span>' (<a href="../sources/Lynch2001c">Lynch 2001c</a>)
 </td>
 </tr>
 <tr>
@@ -642,7 +642,7 @@ Further terms for yam can be reconstructed, but it is unclear which species they
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/bali">Bali</a></td><td style="white-space: nowrap;"><i>gobu</i></td>
-<td>'<span>yam, <em>Dioscorea alata</em>, cultivar</span>' (<a href="../sources/Hide1985">Hide1985</a>)
+<td>'<span>yam, <em>Dioscorea alata</em>, cultivar</span>' (<a href="../sources/Hide1985">Hide 1985</a>)
 </td>
 </tr>
 <tr>
@@ -843,7 +843,7 @@ A search for languages in which reflexes of _&ast;talo(s)_ and _&ast;mʷapo(q)_ 
 <td style="white-space: nowrap;">
 <i>&ast;tales</i>
 </td>
-<td>'<span>taro, <em>Colocasia esculenta</em></span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
+<td>'<span>taro, <em>Colocasia esculenta</em></span>' (<a href="../sources/Dempwolff1938">Dempwolff 1938</a>)
 </td>
 </tr>
 <tr>
@@ -938,7 +938,7 @@ A search for languages in which reflexes of _&ast;talo(s)_ and _&ast;mʷapo(q)_ 
 <td style="white-space: nowrap;">
 <i>&ast;mʷapo(q)</i>
 </td>
-<td>'<span>taro, <em>Colocasia esculenta</em></span>' (<a href="../sources/Milke1968">Milke1968</a>: <span><em>*mʷao</em></span>)
+<td>'<span>taro, <em>Colocasia esculenta</em></span>' (<a href="../sources/Milke1968">Milke 1968</a>: <span><em>*mʷao</em></span>)
 </td>
 </tr>
 <tr>
@@ -1035,7 +1035,7 @@ A search for languages in which reflexes of _&ast;talo(s)_ and _&ast;mʷapo(q)_ 
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/maringe">Maringe</a></td><td style="white-space: nowrap;"><i>mʰau</i></td>
-<td>'<span>taro, <em>Colocasia esculenta</em></span>' (<a href="../sources/HendersonandHancock1988">HendersonandHancock1988</a>)
+<td>'<span>taro, <em>Colocasia esculenta</em></span>' (<a href="../sources/HendersonandHancock1988">Henderson and Hancock 1988</a>)
 </td>
 </tr>
 <tr>
@@ -1073,7 +1073,7 @@ A search for languages in which reflexes of _&ast;talo(s)_ and _&ast;mʷapo(q)_ 
 <td style="white-space: nowrap;">
 <i>&ast;bʷeta</i>
 </td>
-<td>'<span>taro, <em>Colocasia esculenta</em></span>' (<a href="../sources/Lynch2004a">Lynch2004a</a>)
+<td>'<span>taro, <em>Colocasia esculenta</em></span>' (<a href="../sources/Lynch2004a">Lynch 2004a</a>)
 </td>
 </tr>
 <tr>
@@ -1144,7 +1144,7 @@ The leaves of _Colocasia esculenta_ are eaten as a green vegetable in many parts
 <td style="white-space: nowrap;">
 <i>&ast;gal(a,o)</i>
 </td>
-<td>'<span>taro leaves</span>' (<span>?</span>) (<a href="../sources/Ross1996d">Ross1996d</a>: <span>190</span>)
+<td>'<span>taro leaves</span>' (<span>?</span>) (<a href="../sources/Ross1996d">Ross 1996d</a>: <span>190</span>)
 </td>
 </tr>
 <tr>
@@ -1254,7 +1254,7 @@ The items listed below denote 'swamp taro, _Cyrtosperma merkusii_' unless glosse
 <td><a href="../languages/seimat">Seimat</a></td>
 <td style="white-space: nowrap"><i>hula</i></td>
 <td>
-'<span>swamp taro, Alocasia sp., introduced from Aua</span>' (<span>would reflect <em>*pula(q,k)a</em></span>)(<a href="../sources/Sorensen1950">Sorensen1950</a>)
+'<span>swamp taro, Alocasia sp., introduced from Aua</span>' (<span>would reflect <em>*pula(q,k)a</em></span>)(<a href="../sources/Sorensen1950">Sorensen 1950</a>)
 </td>
 </tr>
 <tr>
@@ -1519,7 +1519,7 @@ The POc name for giant taro was _&ast;piRaq_, continuing a PMP etymon. The final
 <td style="white-space: nowrap;">
 <i>&ast;biRaq</i>
 </td>
-<td>'<span>taro sp.</span>' (<a href="../sources/Blust1972b">Blust1972b</a>)
+<td>'<span>taro sp.</span>' (<a href="../sources/Blust1972b">Blust 1972b</a>)
 </td>
 </tr>
 <tr>
@@ -1527,7 +1527,7 @@ The POc name for giant taro was _&ast;piRaq_, continuing a PMP etymon. The final
 <td style="white-space: nowrap;">
 <i>&ast;piRaq</i>
 </td>
-<td>'<span>giant taro, elephant ear taro, <em>Alocasia macrorrhizos</em></span>' (<a href="../sources/Blust1972b">Blust1972b</a>)
+<td>'<span>giant taro, elephant ear taro, <em>Alocasia macrorrhizos</em></span>' (<a href="../sources/Blust1972b">Blust 1972b</a>)
 </td>
 </tr>
 <tr>
@@ -1821,7 +1821,7 @@ The gloss of the Raga reflex refers to famine food, and probably denotes _Puerar
 <td style="white-space: nowrap;">
 <i>&ast;Raka</i>
 </td>
-<td>'<span>k.vine, <em>Pueraria lobata</em></span>' (<a href="../sources/Geraghty1990">Geraghty1990</a>)
+<td>'<span>k.vine, <em>Pueraria lobata</em></span>' (<a href="../sources/Geraghty1990">Geraghty 1990</a>)
 </td>
 </tr>
 <tr>
@@ -1846,7 +1846,7 @@ The gloss of the Raga reflex refers to famine food, and probably denotes _Puerar
 </tr>
 <tr>
 <td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td style="white-space: nowrap;"><i>yaka</i></td>
-<td>'<span>creeper, <em>Pueraria lobata</em></span>' (<a href="../sources/Geraghty2004">Geraghty2004: 79</a>)
+<td>'<span>creeper, <em>Pueraria lobata</em></span>' (<a href="../sources/Geraghty2004">Geraghty 2004: 79</a>)
 </td>
 </tr>
 <tr>
@@ -1932,7 +1932,7 @@ The likelihood that banana domestication first occurred in New Guinea, and that 
 <td style="white-space: nowrap;">
 <i>&ast;punti</i>
 </td>
-<td>'<span>banana</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
+<td>'<span>banana</span>' (<a href="../sources/Dempwolff1938">Dempwolff 1938</a>)
 </td>
 </tr>
 <tr>
@@ -1940,7 +1940,7 @@ The likelihood that banana domestication first occurred in New Guinea, and that 
 <td style="white-space: nowrap;">
 <i>&ast;pudi</i>
 </td>
-<td>'<span>banana, <em>Musa</em> cultivars</span>' (<a href="../sources/Capell1943">Capell1943</a>: <span>*puti</span>)
+<td>'<span>banana, <em>Musa</em> cultivars</span>' (<a href="../sources/Capell1943">Capell 1943</a>: <span>*puti</span>)
 </td>
 </tr>
 <tr>
@@ -1949,7 +1949,7 @@ The likelihood that banana domestication first occurred in New Guinea, and that 
 </tr>
 <tr>
 <td>Adm</td><td><a href="../languages/seimat">Seimat</a></td><td style="white-space: nowrap;"><i>pudi</i></td>
-<td>'<span><em>Musa</em> sp.</span>' (<a href="../sources/Sorensen1950">Sorensen1950</a>)
+<td>'<span><em>Musa</em> sp.</span>' (<a href="../sources/Sorensen1950">Sorensen 1950</a>)
 </td>
 </tr>
 <tr>
@@ -1990,7 +1990,7 @@ The likelihood that banana domestication first occurred in New Guinea, and that 
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td style="white-space: nowrap;"><i>ur</i></td>
-<td>'<span>banana</span>' (<a href="../sources/Beney1980">Beney1980</a>)
+<td>'<span>banana</span>' (<a href="../sources/Beney1980">Beney 1980</a>)
 </td>
 </tr>
 <tr>
@@ -2152,7 +2152,7 @@ The term _Musa troglodytarum_ is used (inaccurately) both of wild varieties of _
 </tr>
 <tr>
 <td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>soaʔa</i></td>
-<td>'<span>mountain plantain, <em>Musa troglodytarum</em></span>' (<a href="../sources/Whistler2000">Whistler2000: 7</a>)
+<td>'<span>mountain plantain, <em>Musa troglodytarum</em></span>' (<a href="../sources/Whistler2000">Whistler 2000: 7</a>)
 </td>
 </tr>
 </table>
@@ -2281,7 +2281,7 @@ The glosses of the four terms below are vague, both because the glosses of prese
 <td style="white-space: nowrap;">
 <i>&ast;n-ban</i>
 </td>
-<td>'<span>banana (generic)</span>' (<a href="../sources/Lynch2004a">Lynch2004a</a>)
+<td>'<span>banana (generic)</span>' (<a href="../sources/Lynch2004a">Lynch 2004a</a>)
 </td>
 </tr>
 <tr>
@@ -2309,7 +2309,7 @@ cf. also:
 <td><a href="../languages/mato">Mato</a></td>
 <td style="white-space: nowrap;"><i>baɣup</i></td>
 <td>
-'<span>banana</span>'(<a href="../sources/Stober2005">Stober2005</a>)
+'<span>banana</span>'(<a href="../sources/Stober2005">Stober 2005</a>)
 </td>
 </tr>
 </table>
@@ -2376,7 +2376,7 @@ There is evidence for PWOc _&ast;pudi-pudi_ 'wild banana', a transparent redupli
 <td><a href="../languages/tolai">Tolai</a></td>
 <td style="white-space: nowrap"><i>vudu-vudu</i></td>
 <td>
-'<span>wild banana, <em>Ensete glaucum</em></span>'(<a href="../sources/ArnaudandJPHorry1997">ArnaudandJPHorry1997: 19</a>)
+'<span>wild banana, <em>Ensete glaucum</em></span>'(<a href="../sources/ArnaudandJPHorry1997">Arnaud and Horry 1997: 19</a>)
 [^20]</td>
 </tr>
 </table>
@@ -2445,7 +2445,7 @@ A fourth term, PROc _&ast;maRi_ 'breadfruit', is limited to South Vanuatu, Micro
 <td style="white-space: nowrap;">
 <i>&ast;kuluR</i>
 </td>
-<td>'<span>breadfruit, <em>Artocarpus altilis</em></span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
+<td>'<span>breadfruit, <em>Artocarpus altilis</em></span>' (<a href="../sources/Dempwolff1938">Dempwolff 1938</a>)
 </td>
 </tr>
 <tr>
@@ -2544,7 +2544,7 @@ A fourth term, PROc _&ast;maRi_ 'breadfruit', is limited to South Vanuatu, Micro
 <td style="white-space: nowrap;">
 <i>&ast;kulu</i>
 </td>
-<td>'<span><em>Barringtonia asiatica</em></span>' (<a href="../sources/Benderetal2003">Benderetal2003</a>)
+<td>'<span><em>Barringtonia asiatica</em></span>' (<a href="../sources/Benderetal2003">Bender et al. 2003</a>)
 </td>
 </tr>
 <tr>
@@ -2664,7 +2664,7 @@ A fourth term, PROc _&ast;maRi_ 'breadfruit', is limited to South Vanuatu, Micro
 <td style="white-space: nowrap;">
 <i>&ast;baReko</i>
 </td>
-<td>'<span>breadfruit</span>' (<a href="../sources/FrenchWright1983">FrenchWright1983</a>)
+<td>'<span>breadfruit</span>' (<a href="../sources/FrenchWright1983">French-Wright 1983</a>)
 </td>
 </tr>
 <tr>
@@ -2685,7 +2685,7 @@ A fourth term, PROc _&ast;maRi_ 'breadfruit', is limited to South Vanuatu, Micro
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td style="white-space: nowrap;"><i>bego</i></td>
-<td>'<span>breadfruit</span>' (<a href="../sources/Beney1980">Beney1980</a>)
+<td>'<span>breadfruit</span>' (<a href="../sources/Beney1980">Beney 1980</a>)
 </td>
 </tr>
 <tr>
@@ -2698,7 +2698,7 @@ A fourth term, PROc _&ast;maRi_ 'breadfruit', is limited to South Vanuatu, Micro
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/lihir">Lihir</a></td><td style="white-space: nowrap;"><i>bale</i></td>
-<td>'<span><em>Artocarpus altilis</em></span>' (<a href="../sources/Burley2006">Burley2006</a>)
+<td>'<span><em>Artocarpus altilis</em></span>' (<a href="../sources/Burley2006">Burley 2006</a>)
 </td>
 </tr>
 <tr>
@@ -2723,7 +2723,7 @@ A fourth term, PROc _&ast;maRi_ 'breadfruit', is limited to South Vanuatu, Micro
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/teop">Teop</a></td><td style="white-space: nowrap;"><i>banio</i></td>
-<td>'<span><em>Artocarpus altilis</em></span>' (<a href="../sources/Record1945">Record1945</a>)
+<td>'<span><em>Artocarpus altilis</em></span>' (<a href="../sources/Record1945">Record 1945</a>)
 </td>
 </tr>
 <tr>
@@ -2732,7 +2732,7 @@ A fourth term, PROc _&ast;maRi_ 'breadfruit', is limited to South Vanuatu, Micro
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/babatana">Babatana</a></td><td style="white-space: nowrap;"><i>bario</i></td>
-<td>'<span><em>Artocarpus altilis</em></span>' (<a href="../sources/McClatcheyetal2005">McClatcheyetal2005</a>)
+<td>'<span><em>Artocarpus altilis</em></span>' (<a href="../sources/McClatcheyetal2005">McClatchey et al. 2005</a>)
 </td>
 </tr>
 <tr>
@@ -2821,7 +2821,7 @@ A fourth term, PROc _&ast;maRi_ 'breadfruit', is limited to South Vanuatu, Micro
 </tr>
 <tr>
 <td>NCV</td><td><a href="../languages/raga">Raga</a></td><td style="white-space: nowrap;"><i>baeɣo</i></td>
-<td>'<span><em>Artocarpus altilis</em></span>' (<a href="../sources/Walsh2004">Walsh2004</a>)
+<td>'<span><em>Artocarpus altilis</em></span>' (<a href="../sources/Walsh2004">Walsh 2004</a>)
 </td>
 </tr>
 <tr>
@@ -2861,7 +2861,7 @@ A fourth term, PROc _&ast;maRi_ 'breadfruit', is limited to South Vanuatu, Micro
 </tr>
 <tr>
 <td>NCV</td><td><a href="../languages/mwesen">Mwesen</a></td><td style="white-space: nowrap;"><i>per</i></td>
-<td>'<span>breadfruit</span>' (<a href="../sources/BourdyandWalter1994">BourdyandWalter1994</a>)
+<td>'<span>breadfruit</span>' (<a href="../sources/BourdyandWalter1994">Bourdy and Walter 1994</a>)
 </td>
 </tr>
 <tr>
@@ -2894,7 +2894,7 @@ A fourth term, PROc _&ast;maRi_ 'breadfruit', is limited to South Vanuatu, Micro
 <td style="white-space: nowrap;">
 <i>&ast;maRi</i>
 </td>
-<td>'<span>breadfruit</span>' (<a href="../sources/Geraghty1990">Geraghty1990</a>)
+<td>'<span>breadfruit</span>' (<a href="../sources/Geraghty1990">Geraghty 1990</a>)
 </td>
 </tr>
 <tr>
@@ -3030,7 +3030,7 @@ There was apparently just one POc term for the sago palm, namely POc _&ast;Rabia
 <td style="white-space: nowrap;">
 <i>&ast;Rambia</i>
 </td>
-<td>'<span>sago palm</span>' (<a href="../sources/Blust1989">Blust1989</a>)
+<td>'<span>sago palm</span>' (<a href="../sources/Blust1989">Blust 1989</a>)
 </td>
 </tr>
 <tr>
@@ -3042,7 +3042,7 @@ There was apparently just one POc term for the sago palm, namely POc _&ast;Rabia
 </tr>
 <tr>
 <td>Adm</td><td><a href="../languages/seimat">Seimat</a></td><td style="white-space: nowrap;"><i>api</i></td>
-<td>'<span>sago</span>' (<a href="../sources/Sorensen1950">Sorensen1950</a>)
+<td>'<span>sago</span>' (<a href="../sources/Sorensen1950">Sorensen 1950</a>)
 </td>
 </tr>
 <tr>
@@ -3095,7 +3095,7 @@ There was apparently just one POc term for the sago palm, namely POc _&ast;Rabia
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/babatana">Babatana</a></td><td style="white-space: nowrap;"><i>rabia</i></td>
-<td>'<span><em>Nypa fruticans</em></span>' (<a href="../sources/McClatcheyetal2005">McClatcheyetal2005</a>)
+<td>'<span><em>Nypa fruticans</em></span>' (<a href="../sources/McClatcheyetal2005">McClatchey et al. 2005</a>)
 </td>
 </tr>
 <tr>
@@ -3209,7 +3209,7 @@ The glosses of many of the terms listed below  refer simply to 'cycad' or '_Cyca
 </tr>
 <tr>
 <td>Adm</td><td><a href="../languages/seimat">Seimat</a></td><td style="white-space: nowrap;"><i>haato</i></td>
-<td>'<span><em>Cycas rumphii</em></span>' (<a href="../sources/Sorensen1950">Sorensen1950</a>)
+<td>'<span><em>Cycas rumphii</em></span>' (<a href="../sources/Sorensen1950">Sorensen 1950</a>)
 </td>
 </tr>
 <tr>
@@ -3237,7 +3237,7 @@ The glosses of many of the terms listed below  refer simply to 'cycad' or '_Cyca
 <td style="white-space: nowrap;">
 <i>&ast;ba(y)it</i>
 </td>
-<td>'<span>a cycad, <em>Cycas rumphii</em></span>' (<a href="../sources/Ross1996d">Ross1996d</a>)
+<td>'<span>a cycad, <em>Cycas rumphii</em></span>' (<a href="../sources/Ross1996d">Ross 1996d</a>)
 </td>
 </tr>
 <tr>
@@ -3245,7 +3245,7 @@ The glosses of many of the terms listed below  refer simply to 'cycad' or '_Cyca
 <td style="white-space: nowrap;">
 <i>&ast;bai-bai(t)</i>
 </td>
-<td>'<span>a cycad, <em>Cycas rumphii</em></span>' (<a href="../sources/Ross1996d">Ross1996d</a>)
+<td>'<span>a cycad, <em>Cycas rumphii</em></span>' (<a href="../sources/Ross1996d">Ross 1996d</a>)
 </td>
 </tr>
 <tr>
@@ -3310,7 +3310,7 @@ The glosses of many of the terms listed below  refer simply to 'cycad' or '_Cyca
 </tr>
 <tr>
 <td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td style="white-space: nowrap;"><i>loŋo-loŋo</i></td>
-<td>'<span><em>Cycas rumphii</em></span>' (<a href="../sources/Ryan1988">Ryan1988: 140</a>)
+<td>'<span><em>Cycas rumphii</em></span>' (<a href="../sources/Ryan1988">Ryan 1988: 140</a>)
 </td>
 </tr>
 <tr>
@@ -3373,7 +3373,7 @@ Most of the forms below point to PEOc _&ast;mʷele_. However, Namakir and Wayan 
 </tr>
 <tr>
 <td>NCV</td><td><a href="../languages/raga">Raga</a></td><td style="white-space: nowrap;"><i>mʷele</i></td>
-<td>'<span><em>Cycas</em> sp.</span>' (<a href="../sources/Walsh2004">Walsh2004</a>)
+<td>'<span><em>Cycas</em> sp.</span>' (<a href="../sources/Walsh2004">Walsh 2004</a>)
 </td>
 </tr>
 <tr>

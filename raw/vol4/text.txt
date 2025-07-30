@@ -8446,7 +8446,7 @@ ovulids together under a single generic with subtaxa distinguished by binomials.
 well-attested POc reconstruction which continues a PMP etymon.
 
 <
-PMP *buliq ‘cowrie shell’ (Blust 1980b)
+PMP *buliq ‘cowrie shell’ (ACD, Blust 1980b)
 POc *buli(q) ‘generic for cowries’
   NNG:  Takia          bul             ‘k.o. shellfish: _Ovula ovum_, white egg cowrie’
   PT:   Kilivila       bune-buna       ‘cowrie’

@@ -339,7 +339,7 @@ All Polynesian reflexes point back to PPn _&ast;pō_ (for expected _&ast;poŋi_,
 <td style="white-space: nowrap;">
 <i>&ast;beRŋi</i>
 </td>
-<td>'<span>night</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>night</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -654,7 +654,7 @@ The word for ‘night’ in a number of Oceanic languages reflects POc _&ast;rod
 <td style="white-space: nowrap;">
 <i>&ast;rodrom</i>
 </td>
-<td>'<span>be dark, be night</span>' (<a href="../sources/Blust1984">Blust1984</a>)
+<td>'<span>be dark, be night</span>' (<a href="../sources/Blust1984">Blust 1984</a>)
 </td>
 </tr>
 <tr>
@@ -819,7 +819,7 @@ The POc term which specifically denoted daylight was _&ast;raqani_, reconstructe
 <td style="white-space: nowrap;">
 <i>&ast;daqaNi</i>
 </td>
-<td>'<span>day</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>day</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -925,7 +925,7 @@ The primary meaning of POc _&ast;qaco_ was ‘sun’, but it was also used for �
 <td style="white-space: nowrap;">
 <i>&ast;qajaw, &ast;qalejaw</i>
 </td>
-<td>'<span>sun, daylight</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>sun, daylight</span>' (<a href="../sources/Blust1995">ACD</a>)
 [^11]</td>
 </tr>
 <tr>
@@ -1036,7 +1036,7 @@ The primary meaning of POc _&ast;qaco_ was ‘sun’, but it was also used for �
 <td style="white-space: nowrap;">
 <i>&ast;sinaR</i>
 </td>
-<td>'<span>ray of light</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
+<td>'<span>ray of light</span>' (<a href="../sources/Dempwolff1938">Dempwolff 1938</a>)
 </td>
 </tr>
 <tr>
@@ -1436,7 +1436,7 @@ Just one term is reconstructable for this period of the day, POc _&ast;Rapi_.
 <td style="white-space: nowrap;">
 <i>&ast;Rabi</i>
 </td>
-<td>'<span>evening</span>' (<a href="../sources/Blust1995">Blust1995</a>; <a href="../sources/Dempwolff1938">Dempwolff1938</a>)
+<td>'<span>evening</span>' (<a href="../sources/Blust1995">ACD</a>; <a href="../sources/Dempwolff1938">Dempwolff 1938</a>)
 </td>
 </tr>
 <tr>
@@ -1712,7 +1712,7 @@ POc _&ast;pulan_ ‘moon’ also meant ‘month’. The reconstruction here is r
 <td style="white-space: nowrap;">
 <i>&ast;bulaN</i>
 </td>
-<td>'<span>moon, month, menstruation</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>moon, month, menstruation</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -1720,7 +1720,7 @@ POc _&ast;pulan_ ‘moon’ also meant ‘month’. The reconstruction here is r
 <td style="white-space: nowrap;">
 <i>&ast;bulan</i>
 </td>
-<td>'<span>moon, month; menstruation</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
+<td>'<span>moon, month; menstruation</span>' (<a href="../sources/Dempwolff1938">Dempwolff 1938</a>)
 </td>
 </tr>
 <tr>
@@ -1728,7 +1728,7 @@ POc _&ast;pulan_ ‘moon’ also meant ‘month’. The reconstruction here is r
 <td style="white-space: nowrap;">
 <i>&ast;pulan</i>
 </td>
-<td>'<span>moon, month</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>moon, month</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -2115,7 +2115,7 @@ Probably the main seasons for POc speakers living in northwest Melanesia were me
 <td style="white-space: nowrap;">
 <i>&ast;habaRat</i>
 </td>
-<td>'<span>west monsoon</span>' (<a href="../sources/Blust1995">Blust1995</a>; <a href="../sources/Dempwolff1938">Dempwolff1938</a>)
+<td>'<span>west monsoon</span>' (<a href="../sources/Blust1995">ACD</a>; <a href="../sources/Dempwolff1938">Dempwolff 1938</a>)
 </td>
 </tr>
 <tr>
@@ -2263,7 +2263,7 @@ In [Ross](../sources/Ross1995c) ([1995c](../sources/Ross1995c)) I wrote, ‘Ther
 <td style="white-space: nowrap;">
 <i>&ast;taqun</i>
 </td>
-<td>'<span>period of a year</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
+<td>'<span>period of a year</span>' (<a href="../sources/Dempwolff1938">Dempwolff 1938</a>)
 </td>
 </tr>
 <tr>
@@ -2525,7 +2525,7 @@ The reconstructions below are repeated from Chapter 8, but only reflexes with a 
 <td style="white-space: nowrap;">
 <i>&ast;ma-udehi</i>
 </td>
-<td>'<span>be last; be after or behind; be late, be later; future</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>be last; be after or behind; be late, be later; future</span>' (<a href="../sources/Blust1995">ACD</a>)
 [^15]</td>
 </tr>
 <tr>
@@ -2647,7 +2647,7 @@ The reconstructions below are repeated from Chapter 8, but only reflexes with a 
 <td style="white-space: nowrap;">
 <i>&ast;burit</i>
 </td>
-<td>'<span>hind part, rear, back</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>hind part, rear, back</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -3932,7 +3932,7 @@ There is also a variety of forms that seem to reflect a root _&ast;tuqu_ ‘tomo
 <td>'<span>tomorrow</span>'</td>
 </tr>
 <tr>
-<td><strong>ProtoNorthwestSolomonic</strong></td><td> </td>
+<td><strong>Proto Northwest Solomonic</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;na-tuqu</i>
 </td>
@@ -4404,7 +4404,7 @@ From the distributions of their reflexes, it seems that _&ast;ŋaican_ or _&ast;
 <td style="white-space: nowrap;">
 <i>&ast;ijan</i>
 </td>
-<td>'<span>when?</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>when?</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>

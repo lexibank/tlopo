@@ -47,7 +47,7 @@ POc _&ast;wasa_ primarily denoted _Abelmoschus manihot_, evidently the most sali
 <td style="white-space: nowrap;">
 <i>&ast;wasa</i>
 </td>
-<td>'<span><em>Abelmoschus manihot</em>; green vegetables in general</span>' (<a href="../sources/FrenchWright1983">FrenchWright1983</a>)
+<td>'<span><em>Abelmoschus manihot</em>; green vegetables in general</span>' (<a href="../sources/FrenchWright1983">French-Wright 1983</a>)
 </td>
 </tr>
 <tr>
@@ -68,7 +68,7 @@ POc _&ast;wasa_ primarily denoted _Abelmoschus manihot_, evidently the most sali
 </tr>
 <tr>
 <td>NNG</td><td><a href="../languages/matukar">Matukar</a></td><td style="white-space: nowrap;"><i>wai</i></td>
-<td>'<span>greens</span>' (<a href="../sources/Kasprus1945">Kasprus1945</a>)
+<td>'<span>greens</span>' (<a href="../sources/Kasprus1945">Kasprus 1945</a>)
 </td>
 </tr>
 <tr>
@@ -108,7 +108,7 @@ POc _&ast;wasa_ primarily denoted _Abelmoschus manihot_, evidently the most sali
 <td style="white-space: nowrap;">
 <i>&ast;nə-was</i>
 </td>
-<td>'<span><em>Abelmoschus manihot</em></span>' (<a href="../sources/Lynch2001c">Lynch2001c</a>)
+<td>'<span><em>Abelmoschus manihot</em></span>' (<a href="../sources/Lynch2001c">Lynch 2001c</a>)
 </td>
 </tr>
 <tr>
@@ -134,7 +134,7 @@ POc _&ast;wasa_ primarily denoted _Abelmoschus manihot_, evidently the most sali
 <td style="white-space: nowrap;">
 <i>&ast;bele</i>
 </td>
-<td>'<span><em>Abelmoschus manihot</em></span>' (<a href="../sources/FrenchWright1983">FrenchWright1983</a>)
+<td>'<span><em>Abelmoschus manihot</em></span>' (<a href="../sources/FrenchWright1983">French-Wright 1983</a>)
 </td>
 </tr>
 <tr>
@@ -201,7 +201,7 @@ Two terms for _Abelmoschus manihot_ can be reconstructed in lower interstage lan
 </tr>
 <tr>
 <td>Fij</td><td><a href="../languages/ba">Ba</a></td><td style="white-space: nowrap;"><i>sasau</i></td>
-<td>'<span><em>Abelmoschus manihot</em></span>' (<a href="../sources/Prestonetal1998">Prestonetal1998</a>)
+<td>'<span><em>Abelmoschus manihot</em></span>' (<a href="../sources/Prestonetal1998">Preston et al. 1998</a>)
 </td>
 </tr>
 </table>
@@ -214,12 +214,12 @@ Two terms for _Abelmoschus manihot_ can be reconstructed in lower interstage lan
 <td style="white-space: nowrap;">
 <i>&ast;vera</i>
 </td>
-<td>'<span><em>Abelmoschus manihot</em></span>' (<a href="../sources/Lynch2004a">Lynch2004a</a>)
+<td>'<span><em>Abelmoschus manihot</em></span>' (<a href="../sources/Lynch2004a">Lynch 2004a</a>)
 </td>
 </tr>
 <tr>
 <td>NCV</td><td><a href="../languages/maewo">Maewo</a></td><td style="white-space: nowrap;"><i>fʷere</i></td>
-<td>'<span><em>Abelmoschus manihot</em></span>' (<a href="../sources/Prestonetal1998">Prestonetal1998</a>)
+<td>'<span><em>Abelmoschus manihot</em></span>' (<a href="../sources/Prestonetal1998">Preston et al. 1998</a>)
 </td>
 </tr>
 <tr>
@@ -440,7 +440,7 @@ No POc term is unambiguously reconstructable, but it is possible that the reflex
 <td style="white-space: nowrap;">
 <i>&ast;bei</i>
 </td>
-<td>'<span><em>Polyscias scutellaria</em></span>' (<a href="../sources/Lynch2004a">Lynch2004a</a>)
+<td>'<span><em>Polyscias scutellaria</em></span>' (<a href="../sources/Lynch2004a">Lynch 2004a</a>)
 </td>
 </tr>
 <tr>
@@ -453,7 +453,7 @@ No POc term is unambiguously reconstructable, but it is possible that the reflex
 </tr>
 <tr>
 <td>NCV</td><td><a href="../languages/raga">Raga</a></td><td style="white-space: nowrap;"><i>bei</i></td>
-<td>'<span><em>Polyscias</em> sp.</span>' (<a href="../sources/Walsh2004">Walsh2004</a>)
+<td>'<span><em>Polyscias</em> sp.</span>' (<a href="../sources/Walsh2004">Walsh 2004</a>)
 </td>
 </tr>
 <tr>
@@ -552,7 +552,7 @@ Among the many ferns eaten in Melanesia, there is just one tree-fern genus for w
 </tr>
 <tr>
 <td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td style="white-space: nowrap;"><i>bala-bala</i></td>
-<td>'<span><em>Cyathea</em> spp.</span>' (<a href="../sources/Keppeletal2005">Keppeletal2005</a>)
+<td>'<span><em>Cyathea</em> spp.</span>' (<a href="../sources/Keppeletal2005">Keppel et al. 2005</a>)
 </td>
 </tr>
 <tr>
@@ -634,7 +634,7 @@ It is possible that Far East Manggarai, Kepo, Waerana, Razong, Rembong (all CMP)
 <td style="white-space: nowrap;">
 <i>&ast;tabuqaR</i>
 </td>
-<td>'<span><em>Saccharum edule</em></span>' (<a href="../sources/Pawley1978">Pawley1978</a>: <span><em>*tabukal</em></span>)
+<td>'<span><em>Saccharum edule</em></span>' (<a href="../sources/Pawley1978">Pawley 1978</a>: <span><em>*tabukal</em></span>)
 </td>
 </tr>
 <tr>
@@ -643,7 +643,7 @@ It is possible that Far East Manggarai, Kepo, Waerana, Razong, Rembong (all CMP)
 </tr>
 <tr>
 <td>NNG</td><td><a href="../languages/malai">Malai</a></td><td style="white-space: nowrap;"><i>taboɣar</i></td>
-<td>'<span><em>Saccharum edule</em></span>' (<a href="../sources/Lincoln1976">Lincoln1976</a>)
+<td>'<span><em>Saccharum edule</em></span>' (<a href="../sources/Lincoln1976">Lincoln 1976</a>)
 </td>
 </tr>
 <tr>
@@ -740,7 +740,7 @@ POc _&ast;nunuk_ denoted either a taxon including all _Ficus_ species known to P
 <td style="white-space: nowrap;">
 <i>&ast;nunuk</i>
 </td>
-<td>'<span>banyan, <em>Ficus benjamina</em></span>' (<a href="../sources/Blust1995">Blust1995</a>; <a href="../sources/Mahdi1999">Mahdi1999</a>)
+<td>'<span>banyan, <em>Ficus benjamina</em></span>' (<a href="../sources/Blust1995">ACD</a>; <a href="../sources/Mahdi1999">Mahdi 1999</a>)
 </td>
 </tr>
 <tr>
@@ -748,7 +748,7 @@ POc _&ast;nunuk_ denoted either a taxon including all _Ficus_ species known to P
 <td style="white-space: nowrap;">
 <i>&ast;nunuk</i>
 </td>
-<td>'<span>fig trees, <em>Ficus</em> taxon</span>' (<a href="../sources/Ross1996d">Ross1996d</a>)
+<td>'<span>fig trees, <em>Ficus</em> taxon</span>' (<a href="../sources/Ross1996d">Ross 1996d</a>)
 </td>
 </tr>
 <tr>
@@ -785,7 +785,7 @@ POc _&ast;nunuk_ denoted either a taxon including all _Ficus_ species known to P
 </tr>
 <tr>
 <td>NCV</td><td><a href="../languages/maewo">Maewo</a></td><td style="white-space: nowrap;"><i>nunue</i></td>
-<td>'<span><em>Ficus aspera</em></span>' (<a href="../sources/WalterandSam2002">WalterandSam2002: 293</a>)
+<td>'<span><em>Ficus aspera</em></span>' (<a href="../sources/WalterandSam2002">Walter and Sam 2002: 293</a>)
 [^3]</td>
 </tr>
 <tr>
@@ -808,7 +808,7 @@ It is probable that _&ast;qayawan_ denoted a strangler fig taxon. The Gedaged, K
 <td style="white-space: nowrap;">
 <i>&ast;qayawan</i>
 </td>
-<td>'<span>banyan tree, <em>Ficus</em> sp.</span>' (<a href="../sources/Blust1978a">Blust1978a</a>: <span><em>*ayawan</em></span>)
+<td>'<span>banyan tree, <em>Ficus</em> sp.</span>' (<a href="../sources/Blust1978a">Blust 1978a</a>: <span><em>*ayawan</em></span>)
 </td>
 </tr>
 <tr>
@@ -816,7 +816,7 @@ It is probable that _&ast;qayawan_ denoted a strangler fig taxon. The Gedaged, K
 <td style="white-space: nowrap;">
 <i>&ast;qayawan</i>
 </td>
-<td>'<span><em>Ficus</em> strangler fig taxon</span>' (<a href="../sources/Ross1996d">Ross1996d</a>)
+<td>'<span><em>Ficus</em> strangler fig taxon</span>' (<a href="../sources/Ross1996d">Ross 1996d</a>)
 </td>
 </tr>
 <tr>
@@ -824,7 +824,7 @@ It is probable that _&ast;qayawan_ denoted a strangler fig taxon. The Gedaged, K
 <td style="white-space: nowrap;">
 <i>&ast;qaiwa</i>
 </td>
-<td>'<span>banyan, <em>Ficus</em> spp.</span>' (<a href="../sources/Blust1996b">Blust1996b</a>)
+<td>'<span>banyan, <em>Ficus</em> spp.</span>' (<a href="../sources/Blust1996b">Blust 1996b</a>)
 </td>
 </tr>
 <tr>
@@ -873,7 +873,7 @@ It is probable that _&ast;qayawan_ denoted a strangler fig taxon. The Gedaged, K
 </tr>
 <tr>
 <td>PT</td><td><a href="../languages/muyuw">Muyuw</a></td><td style="white-space: nowrap;"><i>(a)gi-gaway</i></td>
-<td>'<span><em>Ficus tinctoria</em> (metathesis &lt; <em>*gayaw</em>)</span>'</td>
+<td>'<span><em>Ficus tinctoria</em> (metathesis &lt; <em>&ast;gayaw</em>)</span>'</td>
 </tr>
 <tr>
 <td>PT</td><td><a href="../languages/tawala">Tawala</a></td><td style="white-space: nowrap;"><i>kiyaha</i></td>
@@ -885,7 +885,7 @@ It is probable that _&ast;qayawan_ denoted a strangler fig taxon. The Gedaged, K
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td style="white-space: nowrap;"><i>kiau, kuiau</i></td>
-<td>'<span><em>Ficus benjamina</em>, <em>F. katabibi</em>, <em>F. rebareba</em>, <em>Ficus prolixa</em></span>' (<a href="../sources/Record1945">Record1945: _kuiau_ '_Flagellaria indica_'</a>)
+<td>'<span><em>Ficus benjamina</em>, <em>F. katabibi</em>, <em>F. rebareba</em>, <em>Ficus prolixa</em></span>' (<a href="../sources/Record1945">Record 1945: _kuiau_ '_Flagellaria indica_'</a>)
 </td>
 </tr>
 <tr>
@@ -922,7 +922,7 @@ It is probable that _&ast;qayawan_ denoted a strangler fig taxon. The Gedaged, K
 </tr>
 <tr>
 <td>Mic</td><td><a href="../languages/carolinian">Carolinian</a></td><td style="white-space: nowrap;"><i>ao</i></td>
-<td>'<span>banyan tree</span>' (<a href="../sources/Christian1899">Christian1899: 350</a>)
+<td>'<span>banyan tree</span>' (<a href="../sources/Christian1899">Christian 1899: 350</a>)
 </td>
 </tr>
 <tr>
@@ -953,7 +953,7 @@ It is probable that _&ast;qayawan_ denoted a strangler fig taxon. The Gedaged, K
 </tr>
 <tr>
 <td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td style="white-space: nowrap;"><i>ʔovava</i></td>
-<td>'<span>banyan tree, <em>Ficus prolixa</em> and <em>Ficus obliqua</em></span>' (<a href="../sources/Whistler1991b">Whistler1991b: 99-100</a>)
+<td>'<span>banyan tree, <em>Ficus prolixa</em> and <em>Ficus obliqua</em></span>' (<a href="../sources/Whistler1991b">Whistler 1991b: 99-100</a>)
 </td>
 </tr>
 <tr>
@@ -974,7 +974,7 @@ It is probable that _&ast;qayawan_ denoted a strangler fig taxon. The Gedaged, K
 </tr>
 <tr>
 <td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>āoa</i></td>
-<td>'<span>banyan tree, <em>Ficus prolixa</em> and <em>Ficus obliqua</em></span>' (<a href="../sources/Whistler2000">Whistler2000: 157</a>)
+<td>'<span>banyan tree, <em>Ficus prolixa</em> and <em>Ficus obliqua</em></span>' (<a href="../sources/Whistler2000">Whistler 2000: 157</a>)
 </td>
 </tr>
 <tr>
@@ -1048,7 +1048,7 @@ The items under 'cf. also' are probably not cognate. Three of them point to a te
 <td style="white-space: nowrap;">
 <i>&ast;ba(k,g)a</i>
 </td>
-<td>'<span>banyan tree, medium-sized <em>Ficus</em> spp., not stranglers</span>' (<a href="../sources/Biggs1965">Biggs1965</a>: <span><em>*baka</em></span>; <a href="../sources/Ross1996d">Ross1996d</a>)
+<td>'<span>banyan tree, medium-sized <em>Ficus</em> spp., not stranglers</span>' (<a href="../sources/Biggs1965">Biggs 1965</a>: <span><em>*baka</em></span>; <a href="../sources/Ross1996d">Ross 1996d</a>)
 </td>
 </tr>
 <tr>
@@ -1065,7 +1065,7 @@ The items under 'cf. also' are probably not cognate. Three of them point to a te
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td style="white-space: nowrap;"><i>pako-pako</i></td>
-<td>'<span><em>Ficus wassa</em></span>' (<a href="../sources/HendersonandHancock1988">HendersonandHancock1988: 125</a>)
+<td>'<span><em>Ficus wassa</em></span>' (<a href="../sources/HendersonandHancock1988">Henderson and Hancock 1988: 125</a>)
 </td>
 </tr>
 <tr>
@@ -1085,12 +1085,12 @@ The items under 'cf. also' are probably not cognate. Three of them point to a te
 </tr>
 <tr>
 <td>NCV</td><td><a href="../languages/nduindui">Nduindui</a></td><td style="white-space: nowrap;"><i>(vi)v-voɣe</i></td>
-<td>'<span><em>Ficus wassa</em></span>' (<a href="../sources/WalterandSam2002">WalterandSam2002: 293</a>)
+<td>'<span><em>Ficus wassa</em></span>' (<a href="../sources/WalterandSam2002">Walter and Sam 2002: 293</a>)
 </td>
 </tr>
 <tr>
 <td>NCV</td><td><a href="../languages/raga">Raga</a></td><td style="white-space: nowrap;"><i>baga</i></td>
-<td>'<span><em>Ficus</em> sp.</span>' (<a href="../sources/Walsh2004">Walsh2004</a>)
+<td>'<span><em>Ficus</em> sp.</span>' (<a href="../sources/Walsh2004">Walsh 2004</a>)
 </td>
 </tr>
 <tr>
@@ -1103,7 +1103,7 @@ The items under 'cf. also' are probably not cognate. Three of them point to a te
 </tr>
 <tr>
 <td>NCV</td><td><a href="../languages/seambrym">Southeast Ambrym</a></td><td style="white-space: nowrap;"><i>veak</i></td>
-<td>'<span><em>Ficus wassa</em></span>' (<a href="../sources/WalterandSam2002">WalterandSam2002: 293</a>)
+<td>'<span><em>Ficus wassa</em></span>' (<a href="../sources/WalterandSam2002">Walter and Sam 2002: 293</a>)
 </td>
 </tr>
 <tr>
@@ -1227,7 +1227,7 @@ There is enough agreement among the meanings of reflexes of POc _&ast;iguRa_ to 
 <td style="white-space: nowrap;">
 <i>&ast;iguRa</i>
 </td>
-<td>'<span><em>Ficus</em> species with sandpapery leaves, either <em>Ficus copiosa</em> or <em>Ficus wassa</em> or both</span>' (<a href="../sources/Chowning2001">Chowning2001</a>)
+<td>'<span><em>Ficus</em> species with sandpapery leaves, either <em>Ficus copiosa</em> or <em>Ficus wassa</em> or both</span>' (<a href="../sources/Chowning2001">Chowning 2001</a>)
 </td>
 </tr>
 <tr>
@@ -1248,7 +1248,7 @@ There is enough agreement among the meanings of reflexes of POc _&ast;iguRa_ to 
 </tr>
 <tr>
 <td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td style="white-space: nowrap;"><i>igula</i></td>
-<td>'<span>sandpaper cabbage, <em>Ficus wassa</em></span>' (<a href="../sources/HendersonandHancock1988">HendersonandHancock1988: 125</a>)
+<td>'<span>sandpaper cabbage, <em>Ficus wassa</em></span>' (<a href="../sources/HendersonandHancock1988">Henderson and Hancock 1988: 125</a>)
 </td>
 </tr>
 <tr>
@@ -1279,7 +1279,7 @@ POc _&ast;pʷabosi_ is the most likely candidate for a term denoting _Ficus wass
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/karaeast">Kara (East)</a></td><td style="white-space: nowrap;"><i>[ka]pavus</i></td>
-<td>'<span>small <em>Ficus</em> sp., <em>Ficus wassa</em></span>' (<a href="../sources/Peekel1984">Peekel1984: 141</a>)
+<td>'<span>small <em>Ficus</em> sp., <em>Ficus wassa</em></span>' (<a href="../sources/Peekel1984">Peekel 1984: 141</a>)
 </td>
 </tr>
 <tr>
@@ -1296,7 +1296,7 @@ POc _&ast;pʷabosi_ is the most likely candidate for a term denoting _Ficus wass
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td style="white-space: nowrap;"><i>uauai(na)</i></td>
-<td>'<span><em>Ficus pachystemon</em></span>' (<a href="../sources/Holdsworth1975b">Holdsworth1975b</a>)
+<td>'<span><em>Ficus pachystemon</em></span>' (<a href="../sources/Holdsworth1975b">Holdsworth 1975b</a>)
 </td>
 </tr>
 <tr>
@@ -1305,7 +1305,7 @@ POc _&ast;pʷabosi_ is the most likely candidate for a term denoting _Ficus wass
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/solos">Solos</a></td><td style="white-space: nowrap;"><i>uabos</i></td>
-<td>'<span><em>Ficus</em> sp.</span>' (<a href="../sources/Holdsworth1977">Holdsworth1977: Noupan village</a>)
+<td>'<span><em>Ficus</em> sp.</span>' (<a href="../sources/Holdsworth1977">Holdsworth 1977: Noupan village</a>)
 </td>
 </tr>
 <tr>
@@ -1325,7 +1325,7 @@ POc _&ast;pʷabosi_ is the most likely candidate for a term denoting _Ficus wass
 <td style="white-space: nowrap;">
 <i>&ast;(b(a,o))bosi</i>
 </td>
-<td>'<span><em>Ficus</em> sp.</span>' (<a href="../sources/Lynch2004a">Lynch2004a</a>)
+<td>'<span><em>Ficus</em> sp.</span>' (<a href="../sources/Lynch2004a">Lynch 2004a</a>)
 </td>
 </tr>
 <tr>
@@ -1341,7 +1341,7 @@ POc _&ast;pʷabosi_ is the most likely candidate for a term denoting _Ficus wass
 <td style="white-space: nowrap;">
 <i>&ast;na-bVbosi</i>
 </td>
-<td>'<span><em>Ficus</em> sp.</span>' (<a href="../sources/Lynch2004a">Lynch2004a</a>)
+<td>'<span><em>Ficus</em> sp.</span>' (<a href="../sources/Lynch2004a">Lynch 2004a</a>)
 </td>
 </tr>
 <tr>
@@ -1375,7 +1375,7 @@ POc _&ast;qa(l,R)a_ may have been another term for _Ficus copiosa_ ([§4.2](../c
 <td style="white-space: nowrap;">
 <i>&ast;qaRaʔ</i>
 </td>
-<td>'<span><em>Ficus</em> spp.</span>' (<a href="../sources/Blust1986">Blust1986</a>)
+<td>'<span><em>Ficus</em> spp.</span>' (<a href="../sources/Blust1986">Blust 1986</a>)
 </td>
 </tr>
 <tr>
@@ -1460,7 +1460,7 @@ POc _&ast;taŋa_ appears to have denoted _Ficus tinctoria_. This is its meaning 
 <td style="white-space: nowrap;">
 <i>&ast;na-təŋ</i>
 </td>
-<td>'<span><em>Ficus</em> sp.</span>' (<a href="../sources/Lynch2004a">Lynch2004a</a>)
+<td>'<span><em>Ficus</em> sp.</span>' (<a href="../sources/Lynch2004a">Lynch 2004a</a>)
 </td>
 </tr>
 <tr>
@@ -1491,7 +1491,7 @@ POc _&ast;(c,j)api_ appears to have denoted a species with edible leaves, possib
 <td style="white-space: nowrap;">
 <i>&ast;jabi</i>
 </td>
-<td>'<span><em>Ficus</em> sp.</span>' (<a href="../sources/Blust1972b">Blust1972b</a>)
+<td>'<span><em>Ficus</em> sp.</span>' (<a href="../sources/Blust1972b">Blust 1972b</a>)
 </td>
 </tr>
 <tr>
@@ -1499,7 +1499,7 @@ POc _&ast;(c,j)api_ appears to have denoted a species with edible leaves, possib
 <td style="white-space: nowrap;">
 <i>&ast;(c,j)api</i>
 </td>
-<td>'<span><em>Ficus</em> sp.</span>' (<a href="../sources/Ross1996d">Ross1996d</a>)
+<td>'<span><em>Ficus</em> sp.</span>' (<a href="../sources/Ross1996d">Ross 1996d</a>)
 </td>
 </tr>
 <tr>
@@ -1615,7 +1615,7 @@ The gloss of PNCV _&ast;buliva_ is clearly _Ficus_ scabra (a species found only 
 <td style="white-space: nowrap;">
 <i>&ast;bulipa</i>
 </td>
-<td>'<span><em>Ficus</em> sp.</span>' (<a href="../sources/Clark1996">Clark1996</a>: <span>PNCV *buliva</span>)
+<td>'<span><em>Ficus</em> sp.</span>' (<a href="../sources/Clark1996">Clark 1996</a>: <span>PNCV *buliva</span>)
 </td>
 </tr>
 <tr>
@@ -1635,12 +1635,12 @@ The gloss of PNCV _&ast;buliva_ is clearly _Ficus_ scabra (a species found only 
 </tr>
 <tr>
 <td>NCV</td><td><a href="../languages/apma">Apma</a></td><td style="white-space: nowrap;"><i>bʷilip</i></td>
-<td>'<span><em>Ficus scabra</em></span>' (<a href="../sources/WalterandSam2002">WalterandSam2002</a>)
+<td>'<span><em>Ficus scabra</em></span>' (<a href="../sources/WalterandSam2002">Walter and Sam 2002</a>)
 </td>
 </tr>
 <tr>
 <td>NCV</td><td><a href="../languages/maewo">Maewo</a></td><td style="white-space: nowrap;"><i>gʷiliva</i></td>
-<td>'<span><em>Ficus scabra</em></span>' (<a href="../sources/WalterandSam2002">WalterandSam2002</a>)
+<td>'<span><em>Ficus scabra</em></span>' (<a href="../sources/WalterandSam2002">Walter and Sam 2002</a>)
 </td>
 </tr>
 <tr>
@@ -1657,7 +1657,7 @@ The gloss of PNCV _&ast;buliva_ is clearly _Ficus_ scabra (a species found only 
 </tr>
 <tr>
 <td>NCV</td><td><a href="../languages/lewo">Lewo</a></td><td style="white-space: nowrap;"><i>(puru)piliva</i></td>
-<td>'<span><em>Ficus scabra</em></span>' (<a href="../sources/WalterandSam2002">WalterandSam2002</a>)
+<td>'<span><em>Ficus scabra</em></span>' (<a href="../sources/WalterandSam2002">Walter and Sam 2002</a>)
 </td>
 </tr>
 <tr>
@@ -1666,7 +1666,7 @@ The gloss of PNCV _&ast;buliva_ is clearly _Ficus_ scabra (a species found only 
 </tr>
 <tr>
 <td>NCV</td><td><a href="../languages/namakir">Namakir</a></td><td style="white-space: nowrap;"><i>na-biliv</i></td>
-<td>'<span><em>Ficus scabra</em></span>' (<a href="../sources/WalterandSam2002">WalterandSam2002</a>)
+<td>'<span><em>Ficus scabra</em></span>' (<a href="../sources/WalterandSam2002">Walter and Sam 2002</a>)
 </td>
 </tr>
 <tr>
@@ -1683,7 +1683,7 @@ The gloss of PNCV _&ast;buliva_ is clearly _Ficus_ scabra (a species found only 
 <td style="white-space: nowrap;">
 <i>&ast;rivu-rivu</i>
 </td>
-<td>'<span>small or medium-sized freestanding <em>Ficus</em> sp.</span>' (<a href="../sources/Lynch2004a">Lynch2004a</a>)
+<td>'<span>small or medium-sized freestanding <em>Ficus</em> sp.</span>' (<a href="../sources/Lynch2004a">Lynch 2004a</a>)
 </td>
 </tr>
 <tr>
@@ -1692,7 +1692,7 @@ The gloss of PNCV _&ast;buliva_ is clearly _Ficus_ scabra (a species found only 
 </tr>
 <tr>
 <td>NCV</td><td><a href="../languages/raga">Raga</a></td><td style="white-space: nowrap;"><i>revrevo</i></td>
-<td>'<span><em>Ficus obliqua</em></span>' (<a href="../sources/Walsh2004">Walsh2004</a>)
+<td>'<span><em>Ficus obliqua</em></span>' (<a href="../sources/Walsh2004">Walsh 2004</a>)
 </td>
 </tr>
 <tr>

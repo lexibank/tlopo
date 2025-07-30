@@ -296,14 +296,13 @@ class Dataset(BaseDataset):
             else:
                 # FIXME: make sure the existing gloss has all the metadata of the new one, e.g. comment, source, POS
                 og = old_glosses[gloss]
+                assert og.pos == gloss.pos
                 if gloss.sources:
                     if not og['Source']:
                         og['Source'] = [ref.cldf_id for ref in gloss.sources]
                     else:
                         assert [ref.cldf_id for ref in gloss.sources] == og['Source'], (
                             '{} vs {}'.format(gloss.sources, og['Source']))
-                # FIXME: for matching source IDs, merge pages!
-                #assert og['Source'] == [ref.cldf_id for ref in gloss.sources], '{} vs. {}'.format(og['Source'], gloss.sources)
                 gloss_ids.append(og['ID'])
         return gloss_ids
 
@@ -339,7 +338,7 @@ class Dataset(BaseDataset):
         def add_protolang(w):
             if isinstance(w, Protoform) and w.lang not in langs:
                 args.writer.add_language(
-                    ID=slug(w.lang), Name=slug(w.lang, lowercase=False), Is_Proto=True)
+                    ID=slug(w.lang), Name=w.lang, Is_Proto=True)
                 langs[w.lang] = slug(w.lang)
 
         chapter_pages = {}
@@ -361,7 +360,7 @@ class Dataset(BaseDataset):
                 langs,
                 Source.from_bibtex(self.etc_dir.read('citation.bib')),
                 args.writer.cldf.sources,
-                chapter_pages=chapter_pages,
+                #chapter_pages=chapter_pages,
             )
             for i, rec in enumerate(vol.reconstructions):
                 reconstructions.append(rec)
@@ -430,7 +429,7 @@ class Dataset(BaseDataset):
             # Add protoforms and reflex forms and glosses, keep IDs of forms and glosses!
             pfrep, pflex = None, None
             # We store the forms and glosses and footnote numbers listed in this cognateset reference
-            forms, gloss_ids, fns = [], [], {}
+            forms, gloss_ids, fns, sgmap = [], [], {}, {}
             poc_gloss = rec.poc_gloss
 
             for j, pf in enumerate(rec.reflexes):  # FIXME: pf.sources !
@@ -473,6 +472,8 @@ class Dataset(BaseDataset):
                     self.add_glosses(args.writer, w, lex['ID'], words[(lid, w.form)][1], gloss_ids)
 
                 forms.append(lex)
+                if pf.subgroup:
+                    sgmap[lex['ID']] = pf.subgroup
                 if pf.footnote_number:
                     fns[lex['ID']] = pf.footnote_number
 
@@ -505,6 +506,7 @@ class Dataset(BaseDataset):
                 Form_IDs=[f['ID'] for f in forms],
                 Footnote_Numbers=fns,
                 Gloss_IDs=gloss_ids,
+                Subgroup_Mapping=sgmap,
             ))
 
             for i, (name, items) in enumerate(rec.cfs, start=1):
@@ -667,6 +669,9 @@ class Dataset(BaseDataset):
                 'name': 'Form_IDs',
                 'separator': ' ',
                 'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#formReference'},
+            {
+                'name': 'Subgroup_Mapping',
+                'datatype': 'json'},
             {
                 'name': 'Footnote_Numbers',  # Must store fn for each form!
                 'datatype': 'json'},

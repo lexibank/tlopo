@@ -83,7 +83,7 @@ Reflexes of both POc _&ast;panua_ ([vol.1,62](../contributions/1-3#p-62)) and _&
 <td style="white-space: nowrap;">
 <i>&ast;banua</i>
 </td>
-<td>'<span>inhabited territory, where a community’s gardens, houses and other possessions are</span>' (<a href="../sources/Blust1987">Blust1987</a>)
+<td>'<span>inhabited territory, where a community’s gardens, houses and other possessions are</span>' (<a href="../sources/Blust1987">Blust 1987</a>)
 </td>
 </tr>
 <tr>
@@ -91,7 +91,7 @@ Reflexes of both POc _&ast;panua_ ([vol.1,62](../contributions/1-3#p-62)) and _&
 <td style="white-space: nowrap;">
 <i>&ast;panua</i>
 </td>
-<td>(&#49;) '<span>inhabited area or territory</span>'; (&#50;) '<span>community together with its land and things on it</span>'; (&#51;) '<span>land, not sea</span>'; (&#52;) '<span>(with reference to weather and the day/night cycle) the visible world, land and sky</span>' (<a href="../sources/Pawley1985">Pawley1985</a>)
+<td>(&#49;) '<span>inhabited area or territory</span>'; (&#50;) '<span>community together with its land and things on it</span>'; (&#51;) '<span>land, not sea</span>'; (&#52;) '<span>(with reference to weather and the day/night cycle) the visible world, land and sky</span>' (<a href="../sources/Pawley1985">Pawley 1985</a>)
 </td>
 </tr>
 <tr>
@@ -327,7 +327,7 @@ POc _&ast;tanoq_ ‘earth, ground, soil; land’ has already been reconstructed 
 <td style="white-space: nowrap;">
 <i>&ast;taneq</i>
 </td>
-<td>'<span>earth, land</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
+<td>'<span>earth, land</span>' (<a href="../sources/Dempwolff1938">Dempwolff 1938</a>)
 </td>
 </tr>
 <tr>
@@ -480,7 +480,7 @@ Two POc terms are glossed ‘island’. These were probably reserved for small i
 <td style="white-space: nowrap;">
 <i>&ast;nusa</i>
 </td>
-<td>'<span>island</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
+<td>'<span>island</span>' (<a href="../sources/Dempwolff1938">Dempwolff 1938</a>)
 </td>
 </tr>
 <tr>
@@ -694,7 +694,7 @@ Although the next reconstructed form is traceable back to PMP as a verb, its use
 <td style="white-space: nowrap;">
 <i>&ast;qatuR</i>
 </td>
-<td>[V] '<span>pave with stones; pile or stack up, arrange, order, put in sequence</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>[V] '<span>pave with stones; pile or stack up, arrange, order, put in sequence</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -1028,7 +1028,7 @@ Similarly, terms located for the leeward or sheltered side include reflexes of a
 <td style="white-space: nowrap;">
 <i>&ast;duŋduŋ</i>
 </td>
-<td>'<span>sheltered as from wind, rain or sun</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>sheltered as from wind, rain or sun</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -1278,7 +1278,7 @@ The suffixed _-a_ of PPn _&ast;utu-a_ below reflects the POc locative nominalisi
 <td style="white-space: nowrap;">
 <i>&ast;ijuŋ, &ast;ujuŋ</i>
 </td>
-<td>'<span>nose</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>nose</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -1496,7 +1496,7 @@ The final reconstruction, PEOc _&ast;mata_ ‘point of land, headland’ is evid
 <td style="white-space: nowrap;">
 <i>&ast;mata</i>
 </td>
-<td>'<span>point of land, headland; point, blade, cutting-edge (of a weapon or instrument)</span>' (<a href="../sources/BiggsandClark1993">BiggsandClark1993</a>)
+<td>'<span>point of land, headland; point, blade, cutting-edge (of a weapon or instrument)</span>' (<a href="../sources/BiggsandClark1993">Biggs and Clark 1993</a>)
 </td>
 </tr>
 <tr>
@@ -1724,7 +1724,7 @@ Even quite small islands can be dominated by high peaks. While a number of peaks
 <td style="white-space: nowrap;">
 <i>&ast;buku</i>
 </td>
-<td>'<span>node (as in bamboo or sugarcane); joint; knuckle; knot in wood, string or rope</span>' (<a href="../sources/Blust1995">Blust1995</a>; <a href="../sources/Dempwolff1938">Dempwolff1938</a>)
+<td>'<span>node (as in bamboo or sugarcane); joint; knuckle; knot in wood, string or rope</span>' (<a href="../sources/Blust1995">ACD</a>; <a href="../sources/Dempwolff1938">Dempwolff 1938</a>)
 </td>
 </tr>
 <tr>
@@ -1872,7 +1872,7 @@ In Polynesia the typical term for mountain is a reflex of _&ast;maquŋa_.
 <td style="white-space: nowrap;">
 <i>&ast;maquŋa</i>
 </td>
-<td>'<span>mountain</span>' (<a href="../sources/BiggsandClark1993">BiggsandClark1993</a>)
+<td>'<span>mountain</span>' (<a href="../sources/BiggsandClark1993">Biggs and Clark 1993</a>)
 </td>
 </tr>
 <tr>
@@ -1944,7 +1944,7 @@ A compound term for mountain ridge (‘back’ + ‘bone’) is reconstructable 
 <td style="white-space: nowrap;">
 <i>&ast;tuqa-siwi</i>
 </td>
-<td>'<span>mountain ridge</span>' (<a href="../sources/BiggsandClark1993">BiggsandClark1993</a>)
+<td>'<span>mountain ridge</span>' (<a href="../sources/BiggsandClark1993">Biggs and Clark 1993</a>)
 </td>
 </tr>
 <tr>
@@ -2149,7 +2149,7 @@ We have one POc reconstruction for ‘cliff’. Two further reconstructions are 
 <td style="white-space: nowrap;">
 <i>&ast;mato</i>
 </td>
-<td>'<span>precipice, steep place, cliff</span>' (<a href="../sources/BiggsandClark1993">BiggsandClark1993</a>)
+<td>'<span>precipice, steep place, cliff</span>' (<a href="../sources/BiggsandClark1993">Biggs and Clark 1993</a>)
 </td>
 </tr>
 <tr>
@@ -2331,7 +2331,7 @@ The three following cognate sets are repeated from [vol.1,118](../contributions/
 <td style="white-space: nowrap;">
 <i>&ast;quCaN</i>
 </td>
-<td>'<span>scrubland, bush</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>scrubland, bush</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -2339,7 +2339,7 @@ The three following cognate sets are repeated from [vol.1,118](../contributions/
 <td style="white-space: nowrap;">
 <i>&ast;qutan</i>
 </td>
-<td>'<span>small wild herbaceous plants; scrubland, bush</span>' (<a href="../sources/Blust1995">Blust1995</a>; <a href="../sources/Dempwolff1938">Dempwolff1938</a>)
+<td>'<span>small wild herbaceous plants; scrubland, bush</span>' (<a href="../sources/Blust1995">ACD</a>; <a href="../sources/Dempwolff1938">Dempwolff 1938</a>)
 </td>
 </tr>
 <tr>
@@ -2476,7 +2476,7 @@ The next POc reconstruction contrasts with _&ast;quma_ ‘garden, cultivated lan
 <td style="white-space: nowrap;">
 <i>&ast;talun</i>
 </td>
-<td>'<span>fallow land</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
+<td>'<span>fallow land</span>' (<a href="../sources/Dempwolff1938">Dempwolff 1938</a>)
 </td>
 </tr>
 <tr>
@@ -2562,7 +2562,7 @@ A number of reconstructions are loosely glossed ‘swamp’. In wordlists these 
 <td style="white-space: nowrap;">
 <i>&ast;danaw</i>
 </td>
-<td>'<span>inland lake, pond</span>' (<a href="../sources/Blust1999">Blust1999</a>)
+<td>'<span>inland lake, pond</span>' (<a href="../sources/Blust1999">Blust 1999</a>)
 </td>
 </tr>
 <tr>
@@ -2634,7 +2634,7 @@ A number of reconstructions are loosely glossed ‘swamp’. In wordlists these 
 <td style="white-space: nowrap;">
 <i>&ast;paja</i>
 </td>
-<td>'<span>swamp</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
+<td>'<span>swamp</span>' (<a href="../sources/Dempwolff1938">Dempwolff 1938</a>)
 </td>
 </tr>
 <tr>
@@ -2743,7 +2743,7 @@ In the next two sets, emphasis is perhaps on the mud itself rather than on a mud
 <td style="white-space: nowrap;">
 <i>&ast;pitak</i>
 </td>
-<td>'<span>mud</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>mud</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -3058,7 +3058,7 @@ The form _&ast;dranum_ below is reflected by most witnesses, but some languages 
 <td style="white-space: nowrap;">
 <i>&ast;daNum</i>
 </td>
-<td>'<span>water — potable, drinking, fresh</span>' (<a href="../sources/Blust1999">Blust1999</a>)
+<td>'<span>water — potable, drinking, fresh</span>' (<a href="../sources/Blust1999">Blust 1999</a>)
 </td>
 </tr>
 <tr>
@@ -3213,7 +3213,7 @@ For coastal dwellers, fresh water is often obtained from springs. PAn _&ast;Cebu
 <td style="white-space: nowrap;">
 <i>&ast;Cebuj</i>
 </td>
-<td>'<span>spring of water</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>spring of water</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -3221,7 +3221,7 @@ For coastal dwellers, fresh water is often obtained from springs. PAn _&ast;Cebu
 <td style="white-space: nowrap;">
 <i>&ast;tebuR, &ast;tubuR</i>
 </td>
-<td>'<span>spring of water</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>spring of water</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -3322,7 +3322,7 @@ Polynesian languages have a well-attested term for ‘spring’ which continues 
 <td style="white-space: nowrap;">
 <i>&ast;punaŋ</i>
 </td>
-<td>'<span>source, origin</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>source, origin</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -3403,7 +3403,7 @@ The next reconstruction, in its simple form _&ast;pura(q)_, was primarily a verb
 <td style="white-space: nowrap;">
 <i>&ast;budaq</i>
 </td>
-<td>'<span>foam, bubbles, lather, scum, froth</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>foam, bubbles, lather, scum, froth</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -3411,7 +3411,7 @@ The next reconstruction, in its simple form _&ast;pura(q)_, was primarily a verb
 <td style="white-space: nowrap;">
 <i>&ast;pura(q), &ast;pura-pura(q)</i>
 </td>
-<td>[V] '<span>bubble up, as spring of water</span>'; [N] '<span>spring; foam, bubbles, bubble up</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>[V] '<span>bubble up, as spring of water</span>'; [N] '<span>spring; foam, bubbles, bubble up</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -3568,7 +3568,7 @@ The following reconstruction, POc _&ast;sa[p,b]u(q)_, is used both as a verb ‘
 <td style="white-space: nowrap;">
 <i>&ast;sabuq</i>
 </td>
-<td>'<span>drop, fall</span>' (<a href="../sources/Blust1989">Blust1989</a>: <span>162</span>)
+<td>'<span>drop, fall</span>' (<a href="../sources/Blust1989">Blust 1989</a>: <span>162</span>)
 </td>
 </tr>
 <tr>
@@ -3665,7 +3665,7 @@ The generic term for ‘stone’ or ‘rock’ was POc _&ast;patu_.
 <td style="white-space: nowrap;">
 <i>&ast;batu</i>
 </td>
-<td>'<span>stone</span>' (<a href="../sources/Blust1999">Blust1999</a>)
+<td>'<span>stone</span>' (<a href="../sources/Blust1999">Blust 1999</a>)
 </td>
 </tr>
 <tr>
@@ -4061,7 +4061,7 @@ The chewing of betel nut, combined with lime and pepper as a stimulant, is wides
 <td style="white-space: nowrap;">
 <i>&ast;qapuR</i>
 </td>
-<td>'<span>lime, calcium</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>lime, calcium</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -4196,7 +4196,7 @@ Proto Micronesian had its own term for pumice, probably preposed by _&ast;fatu_ 
 <td style="white-space: nowrap;">
 <i>&ast;(fatu) wāni</i>
 </td>
-<td>'<span>pumice</span>' (<a href="../sources/Marck1994">Marck1994</a>)
+<td>'<span>pumice</span>' (<a href="../sources/Marck1994">Marck 1994</a>)
 </td>
 </tr>
 <tr>
@@ -4282,7 +4282,7 @@ There is a well-attested POc term for ‘sand’ which continues a PAn etymon (s
 <td style="white-space: nowrap;">
 <i>&ast;qenay</i>
 </td>
-<td>'<span>sand</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>sand</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -4290,7 +4290,7 @@ There is a well-attested POc term for ‘sand’ which continues a PAn etymon (s
 <td style="white-space: nowrap;">
 <i>&ast;qone</i>
 </td>
-<td>'<span>sand, sandy beach</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>sand, sandy beach</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -4416,7 +4416,7 @@ A reduplicated form of the above can also be reconstructed. This may have denote
 <td style="white-space: nowrap;">
 <i>&ast;qenay qenay</i>
 </td>
-<td>'<span>sandy</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>sandy</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -4735,7 +4735,7 @@ POc _&ast;maqasin_ seems to have been both a stative verb meaning ‘be salty’
 <td style="white-space: nowrap;">
 <i>&ast;ma-qasin</i>
 </td>
-<td>'<span>salty</span>' (<span>PAn &ast;qasiN, PMP &ast;qasin ‘saltiness, salty taste</span>) (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>salty</span>' (<span>PAn &ast;qasiN, PMP &ast;qasin ‘saltiness, salty taste</span>) (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -4820,7 +4820,7 @@ PAn _&ast;qasiRa_ ‘salt’ has Oceanic reflexes. Despite the formal resemblanc
 <td style="white-space: nowrap;">
 <i>&ast;qasiRa</i>
 </td>
-<td>'<span>salt</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>salt</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -4883,7 +4883,7 @@ The PAn name for fire, _&ast;Sapuy_, is among the more stable terms in the lexic
 <td style="white-space: nowrap;">
 <i>&ast;Sapuy</i>
 </td>
-<td>'<span>fire</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>fire</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -4961,7 +4961,7 @@ Blust (ACD) reconstructs PMP _&ast;luten_ ‘firewood’ based on WMP: LongWat _
 <td style="white-space: nowrap;">
 <i>&ast;luten</i>
 </td>
-<td>'<span>firewood</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>firewood</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -4969,7 +4969,7 @@ Blust (ACD) reconstructs PMP _&ast;luten_ ‘firewood’ based on WMP: LongWat _
 <td style="white-space: nowrap;">
 <i>&ast;aliten, &ast;aluten</i>
 </td>
-<td>'<span>firebrand</span>'; (&#105;i) '<span>unconsumed wood in a fire</span>'; (&#105;ii) '<span>charred wood</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>firebrand</span>'; (&#105;i) '<span>unconsumed wood in a fire</span>'; (&#105;ii) '<span>charred wood</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -5377,7 +5377,7 @@ Blust (ACD) attributes, to varying Austronesian interstages, a number of fairly 
 <td style="white-space: nowrap;">
 <i>&ast;qabu</i>
 </td>
-<td>'<span>ashes</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>ashes</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -5667,9 +5667,9 @@ cf. also:
 cf. also: 
 <table>
 <tr>
-<td>None</td>
+<td></td>
 <td><a href="../languages/ppn">PPn</a></td>
-<td style="white-space: nowrap;"><i>mula</i></td>
+<td style="white-space: nowrap;"><i>&ast;mula</i></td>
 <td>
 '<span>burst into flame</span>'</td>
 </tr>
@@ -5702,9 +5702,9 @@ cf. also:
 '<span>burn, glow, flame; show red</span>'</td>
 </tr>
 <tr>
-<td>None</td>
+<td></td>
 <td><a href="../languages/ppn">PPn</a></td>
-<td style="white-space: nowrap;"><i>pula</i></td>
+<td style="white-space: nowrap;"><i>&ast;pula</i></td>
 <td>
 '<span>shine, glow</span>'</td>
 </tr>
@@ -6340,7 +6340,7 @@ Parts of New Guinea and Island Melanesia have a long history of volcanic activit
 <td style="white-space: nowrap;">
 <i>&ast;banoi</i>
 </td>
-<td>'<span>volcano, volcanic ash</span>' (<a href="../sources/Clark1996">Clark1996</a>)
+<td>'<span>volcano, volcanic ash</span>' (<a href="../sources/Clark1996">Clark 1996</a>)
 </td>
 </tr>
 <tr>
@@ -6527,7 +6527,7 @@ In several of the following cognate sets, the term for earthquake is closely rel
 <td style="white-space: nowrap;">
 <i>&ast;ninih</i>
 </td>
-<td>'<span>shake, tremble, rock</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>shake, tremble, rock</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -6573,7 +6573,7 @@ In a number of northwest and southeast Solomons languages, the term for earthqua
 <td style="white-space: nowrap;">
 <i>&ast;uyuŋ</i>
 </td>
-<td>'<span>shake; earthquake</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>shake; earthquake</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -6968,7 +6968,7 @@ A PMP term for ‘flood’ (V and N) is continued in two known Oceanic witnesses
 <td style="white-space: nowrap;">
 <i>&ast;bahaq</i>
 </td>
-<td>'<span>a flood; overflow, be in flood</span>' (<a href="../sources/Blust1995">Blust1995</a>; <a href="../sources/Dempwolff1938">Dempwolff1938</a>)
+<td>'<span>a flood; overflow, be in flood</span>' (<a href="../sources/Blust1995">ACD</a>; <a href="../sources/Dempwolff1938">Dempwolff 1938</a>)
 </td>
 </tr>
 <tr>
@@ -6976,7 +6976,7 @@ A PMP term for ‘flood’ (V and N) is continued in two known Oceanic witnesses
 <td style="white-space: nowrap;">
 <i>&ast;pa(a)q</i>
 </td>
-<td>'<span>overflow, flood</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>overflow, flood</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -6999,7 +6999,7 @@ As a compound with the term for fresh water, POc _&ast;waiR pa(a)q_ ‘river flo
 <td style="white-space: nowrap;">
 <i>&ast;wahir bahaq</i>
 </td>
-<td>'<span>floodwaters</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>floodwaters</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -7110,7 +7110,7 @@ Flooding for coastal dwellers on small Oceanic islands is likely to be the resul
 <td style="white-space: nowrap;">
 <i>&ast;lo(o)ma, &ast;lo(o)maki</i>
 </td>
-<td>'<span>flood caused by high seas or tides</span>' (<a href="../sources/BiggsandClark1993">BiggsandClark1993</a>)
+<td>'<span>flood caused by high seas or tides</span>' (<a href="../sources/BiggsandClark1993">Biggs and Clark 1993</a>)
 </td>
 </tr>
 <tr>
@@ -7145,7 +7145,7 @@ The reconstruction below appears to have referred to flooding or gushing.
 <td style="white-space: nowrap;">
 <i>&ast;ñoro</i>
 </td>
-<td>'<span>flood, gush, flow everywhere</span>' (<a href="../sources/Blust1998b">Blust1998b</a>)
+<td>'<span>flood, gush, flow everywhere</span>' (<a href="../sources/Blust1998b">Blust 1998b</a>)
 </td>
 </tr>
 <tr>

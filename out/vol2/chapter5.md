@@ -137,7 +137,7 @@ The generic term for ‘wind’ in POc was _&ast;aŋin_, which continues PMP _&a
 <td style="white-space: nowrap;">
 <i>&ast;haŋin</i>
 </td>
-<td>'<span>air, wind</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
+<td>'<span>air, wind</span>' (<a href="../sources/Dempwolff1938">Dempwolff 1938</a>)
 </td>
 </tr>
 <tr>
@@ -513,7 +513,7 @@ Three of these, _&ast;upi_, _&ast;ipu_ and _&ast;i(p,pʷ)i_, are clearly related
 <td style="white-space: nowrap;">
 <i>&ast;upi</i>
 </td>
-<td>'<span>(wind, person) blow</span>' (<a href="../sources/Blust1993">Blust1993</a>)
+<td>'<span>(wind, person) blow</span>' (<a href="../sources/Blust1993">Blust 1993</a>)
 </td>
 </tr>
 <tr>
@@ -650,7 +650,7 @@ In a number of NNG languages in the region of the Vitiaz Strait and the Huon Gul
 <td style="white-space: nowrap;">
 <i>&ast;ibut</i>
 </td>
-<td>'<span>breeze, draught of wind</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>breeze, draught of wind</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -782,7 +782,7 @@ Two other forms meaning ‘blow’ are also reconstructable. These are also form
 </tr>
 <tr>
 <td>SV</td><td><a href="../languages/sye">Sye</a></td><td style="white-space: nowrap;"><i>o-vosi</i></td>
-<td>'<span>wind</span>' (<a href="../sources/Lynch1978b">Lynch1978b</a>)
+<td>'<span>wind</span>' (<a href="../sources/Lynch1978b">Lynch 1978b</a>)
 </td>
 </tr>
 <tr>
@@ -808,7 +808,7 @@ The initial _p-_ of the Pn items reflects POc _&ast;b-_ or _&ast;pʷ-_: hence th
 <td style="white-space: nowrap;">
 <i>&ast;pu+put</i>
 </td>
-<td>'<span>blow</span>' (<a href="../sources/Zorc1994">Zorc1994</a>)
+<td>'<span>blow</span>' (<a href="../sources/Zorc1994">Zorc 1994</a>)
 </td>
 </tr>
 <tr>
@@ -1014,7 +1014,7 @@ POc _&ast;apaRat_ ‘northwest wind’ has non-Oceanic cognates. It is descended
 <td style="white-space: nowrap;">
 <i>&ast;SabaRat</i>
 </td>
-<td>'<span>(?) south wind</span>' (<a href="../sources/Blust1995">Blust1995</a>; <a href="../sources/Zorc1994">Zorc1994</a>: <span>‘monsoon wind’</span>)
+<td>'<span>(?) south wind</span>' (<a href="../sources/Blust1995">ACD</a>; <a href="../sources/Zorc1994">Zorc 1994</a>: <span>‘monsoon wind’</span>)
 </td>
 </tr>
 <tr>
@@ -1022,17 +1022,17 @@ POc _&ast;apaRat_ ‘northwest wind’ has non-Oceanic cognates. It is descended
 <td style="white-space: nowrap;">
 <i>&ast;habaRat</i>
 </td>
-<td>'<span>west monsoon</span>' (<a href="../sources/Blust1995">Blust1995</a>; <a href="../sources/Dempwolff1938">Dempwolff1938</a>)
+<td>'<span>west monsoon</span>' (<a href="../sources/Blust1995">ACD</a>; <a href="../sources/Dempwolff1938">Dempwolff 1938</a>)
 </td>
 </tr>
 <tr>
 <td>WMP</td><td><a href="../languages/belau">Belau</a></td><td style="white-space: nowrap;"><i>ŋəbarð</i></td>
-<td>'<span>west wind</span>' (<a href="../sources/Josephs1990">Josephs1990</a>)
+<td>'<span>west wind</span>' (<a href="../sources/Josephs1990">Josephs 1990</a>)
 </td>
 </tr>
 <tr>
 <td>WMP</td><td><a href="../languages/yami">Yami</a></td><td style="white-space: nowrap;"><i>kavalat-an</i></td>
-<td>'<span>west or southwest wind</span>' (<a href="../sources/Benedek1991">Benedek1991</a>)
+<td>'<span>west or southwest wind</span>' (<a href="../sources/Benedek1991">Benedek 1991</a>)
 </td>
 </tr>
 <tr>
@@ -1053,7 +1053,7 @@ POc _&ast;apaRat_ ‘northwest wind’ has non-Oceanic cognates. It is descended
 </tr>
 <tr>
 <td>WMP</td><td><a href="../languages/manobo">Manobo</a></td><td style="white-space: nowrap;"><i>evaɣat</i></td>
-<td>'<span>the strongest wind: the northeast monsoon</span>' (<a href="../sources/Elkins1968">Elkins1968</a>)
+<td>'<span>the strongest wind: the northeast monsoon</span>' (<a href="../sources/Elkins1968">Elkins 1968</a>)
 </td>
 </tr>
 <tr>
@@ -1100,7 +1100,7 @@ POc _&ast;apaRat_ probably also denoted the accompanying wet season (SHS). The g
 <td style="white-space: nowrap;">
 <i>&ast;habaRat</i>
 </td>
-<td>'<span>west monsoon</span>' (<a href="../sources/Blust1995">Blust1995</a>; <a href="../sources/Dempwolff1938">Dempwolff1938</a>)
+<td>'<span>west monsoon</span>' (<a href="../sources/Blust1995">ACD</a>; <a href="../sources/Dempwolff1938">Dempwolff 1938</a>)
 </td>
 </tr>
 <tr>
@@ -1319,12 +1319,12 @@ Blust (ACD) takes it that PMP _&ast;habaRat_ ‘southwest monsoon season, wet se
 <td style="white-space: nowrap;">
 <i>&ast;timuR</i>
 </td>
-<td>'<span>south or east wind</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>: <span>‘wind bringing rain’</span>; <a href="../sources/Zorc1994">Zorc1994</a>: <span>‘rain wind from southeast’</span>)
+<td>'<span>south or east wind</span>' (<a href="../sources/Dempwolff1938">Dempwolff 1938</a>: <span>‘wind bringing rain’</span>; <a href="../sources/Zorc1994">Zorc 1994</a>: <span>‘rain wind from southeast’</span>)
 </td>
 </tr>
 <tr>
 <td>WMP</td><td><a href="../languages/belau">Belau</a></td><td style="white-space: nowrap;"><i>ðíməs</i></td>
-<td>'<span>south wind</span>' (<a href="../sources/Josephs1990">Josephs1990</a>)
+<td>'<span>south wind</span>' (<a href="../sources/Josephs1990">Josephs 1990</a>)
 </td>
 </tr>
 <tr>
@@ -1333,7 +1333,7 @@ Blust (ACD) takes it that PMP _&ast;habaRat_ ‘southwest monsoon season, wet se
 </tr>
 <tr>
 <td>WMP</td><td><a href="../languages/cebuano">Cebuano</a></td><td style="white-space: nowrap;"><i>tímug</i></td>
-<td>'<span>wind that hits Cebu from the east</span>' (<a href="../sources/Wolff1972">Wolff1972</a>)
+<td>'<span>wind that hits Cebu from the east</span>' (<a href="../sources/Wolff1972">Wolff 1972</a>)
 </td>
 </tr>
 <tr>
@@ -1447,7 +1447,7 @@ The ancestry of PPn _&ast;toŋa_ is unclear, and I return to this below. Data su
 </tr>
 <tr>
 <td>Pn</td><td><a href="../languages/pukapukan">Pukapukan</a></td><td style="white-space: nowrap;"><i>toŋa</i></td>
-<td>'<span>south-southeast wind</span>' (<a href="../sources/Lewis1972">Lewis1972: 75</a>)
+<td>'<span>south-southeast wind</span>' (<a href="../sources/Lewis1972">Lewis 1972: 75</a>)
 </td>
 </tr>
 <tr>
@@ -1476,7 +1476,7 @@ The ancestry of PPn _&ast;toŋa_ is unclear, and I return to this below. Data su
 </tr>
 <tr>
 <td>Pn</td><td><a href="../languages/rarotongan">Rarotongan</a></td><td style="white-space: nowrap;"><i>toŋa</i></td>
-<td>'<span>one of the wind quarters, south or southerly</span>'; '<span>south wind</span>' (<a href="../sources/Lewis1972">Lewis1972: 74</a>)
+<td>'<span>one of the wind quarters, south or southerly</span>'; '<span>south wind</span>' (<a href="../sources/Lewis1972">Lewis 1972: 74</a>)
 </td>
 </tr>
 <tr>
@@ -1550,7 +1550,7 @@ PPn _&ast;tokelau_ ‘northwesterly quadrant, northwest winds’ reflects POc _&
 </tr>
 <tr>
 <td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td style="white-space: nowrap;"><i>tokalau</i></td>
-<td>'<span>northeast wind; third of compass from N to roughly WSW</span>' (<a href="../sources/Neyret1950">Neyret1950</a>)
+<td>'<span>northeast wind; third of compass from N to roughly WSW</span>' (<a href="../sources/Neyret1950">Neyret 1950</a>)
 </td>
 </tr>
 <tr>
@@ -1558,7 +1558,7 @@ PPn _&ast;tokelau_ ‘northwesterly quadrant, northwest winds’ reflects POc _&
 <td style="white-space: nowrap;">
 <i>&ast;tokelau</i>
 </td>
-<td>'<span>northwesterly quadrant, northwest winds</span>' (<a href="../sources/BiggsandClark1993">BiggsandClark1993</a>)
+<td>'<span>northwesterly quadrant, northwest winds</span>' (<a href="../sources/BiggsandClark1993">Biggs and Clark 1993</a>)
 </td>
 </tr>
 <tr>
@@ -1571,12 +1571,12 @@ PPn _&ast;tokelau_ ‘northwesterly quadrant, northwest winds’ reflects POc _&
 </tr>
 <tr>
 <td>Pn</td><td><a href="../languages/pukapukan">Pukapukan</a></td><td style="white-space: nowrap;"><i>tokelau (iti)</i></td>
-<td>'<span>north wind</span>' (<a href="../sources/Lewis1972">Lewis1972: 75</a>)
+<td>'<span>north wind</span>' (<a href="../sources/Lewis1972">Lewis 1972: 75</a>)
 </td>
 </tr>
 <tr>
 <td>Pn</td><td><a href="../languages/pukapukan">Pukapukan</a></td><td style="white-space: nowrap;"><i>tokelau (matua)</i></td>
-<td>'<span>northwest wind</span>' (<a href="../sources/Lewis1972">Lewis1972: 75</a>)
+<td>'<span>northwest wind</span>' (<a href="../sources/Lewis1972">Lewis 1972: 75</a>)
 </td>
 </tr>
 <tr>
@@ -1609,7 +1609,7 @@ PPn _&ast;tokelau_ ‘northwesterly quadrant, northwest winds’ reflects POc _&
 </tr>
 <tr>
 <td>Pn</td><td><a href="../languages/rarotongan">Rarotongan</a></td><td style="white-space: nowrap;"><i>tokerau</i></td>
-<td>'<span>northwest wind</span>' (<a href="../sources/Lewis1972">Lewis1972: 74</a>)
+<td>'<span>northwest wind</span>' (<a href="../sources/Lewis1972">Lewis 1972: 74</a>)
 </td>
 </tr>
 <tr>
@@ -1826,12 +1826,12 @@ One more term, _&ast;aqura_, seems to have served both as a generic wind term an
 </tr>
 <tr>
 <td>Adm</td><td><a href="../languages/nauna">Nauna</a></td><td style="white-space: nowrap;"><i>eul</i></td>
-<td>'<span>wind</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>wind</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
 <td>Adm</td><td><a href="../languages/penchal">Penchal</a></td><td style="white-space: nowrap;"><i>aul</i></td>
-<td>'<span>wind</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>wind</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -1840,7 +1840,7 @@ One more term, _&ast;aqura_, seems to have served both as a generic wind term an
 </tr>
 <tr>
 <td>Adm</td><td><a href="../languages/pak">Pak</a></td><td style="white-space: nowrap;"><i>ouh</i></td>
-<td>'<span>wind</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>wind</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -1970,7 +1970,7 @@ The cognate set below indicates that speakers of several daughter languages adop
 <td style="white-space: nowrap;">
 <i>&ast;linaw</i>
 </td>
-<td>'<span>be clear</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
+<td>'<span>be clear</span>' (<a href="../sources/Dempwolff1938">Dempwolff 1938</a>)
 </td>
 </tr>
 <tr>
@@ -1978,7 +1978,7 @@ The cognate set below indicates that speakers of several daughter languages adop
 <td style="white-space: nowrap;">
 <i>&ast;ma-lino</i>
 </td>
-<td>'<span>calm</span>' (<a href="../sources/Grace1969">Grace1969</a>)
+<td>'<span>calm</span>' (<a href="../sources/Grace1969">Grace 1969</a>)
 </td>
 </tr>
 <tr>
@@ -2054,7 +2054,7 @@ The cognate set below indicates that speakers of several daughter languages adop
 <td style="white-space: nowrap;">
 <i>&ast;(d,r)apu</i>
 </td>
-<td>'<span>still, calm, quiet</span>' (<a href="../sources/Blust1972b">Blust1972b</a>)
+<td>'<span>still, calm, quiet</span>' (<a href="../sources/Blust1972b">Blust 1972b</a>)
 </td>
 </tr>
 <tr>
@@ -2242,7 +2242,7 @@ The locus of much of the weather was of course POc _&ast;laŋit_, the sky, and t
 <td style="white-space: nowrap;">
 <i>&ast;laŋiC</i>
 </td>
-<td>'<span>sky</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
+<td>'<span>sky</span>' (<a href="../sources/Dempwolff1938">Dempwolff 1938</a>)
 </td>
 </tr>
 <tr>
@@ -2490,7 +2490,7 @@ The four terms below each possibly denoted a type of cloud. POc _&ast;rodo(ŋ)_ 
 <td style="white-space: nowrap;">
 <i>&ast;rendeŋ</i>
 </td>
-<td>'<span>wet season</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>wet season</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -2647,7 +2647,7 @@ There are a number of reconstructable POc terms some of whose reflexes mean ‘c
 <td style="white-space: nowrap;">
 <i>&ast;Ra(m)bun</i>
 </td>
-<td>'<span>haze</span>' (<a href="../sources/Blust1972b">Blust1972b</a>)
+<td>'<span>haze</span>' (<a href="../sources/Blust1972b">Blust 1972b</a>)
 </td>
 </tr>
 <tr>
@@ -2698,7 +2698,7 @@ There are a number of reconstructable POc terms some of whose reflexes mean ‘c
 <td style="white-space: nowrap;">
 <i>&ast;ma-Ravu</i>
 </td>
-<td>'<span>fog, mist</span>' (<a href="../sources/Clark1996">Clark1996</a>)
+<td>'<span>fog, mist</span>' (<a href="../sources/Clark1996">Clark 1996</a>)
 </td>
 </tr>
 <tr>
@@ -2778,7 +2778,7 @@ The items below—POc _&ast;kapu(t)_/_&ast;kopu_ ‘low cloud, mist, fog’ and 
 <td style="white-space: nowrap;">
 <i>&ast;kabut</i>
 </td>
-<td>'<span>mist</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
+<td>'<span>mist</span>' (<a href="../sources/Dempwolff1938">Dempwolff 1938</a>)
 </td>
 </tr>
 <tr>
@@ -3019,7 +3019,7 @@ The most widely reflected POc word for ‘rain’ (both verb and noun) is _&ast;
 <td style="white-space: nowrap;">
 <i>&ast;quZaL</i>
 </td>
-<td>'<span>rain</span>' (<a href="../sources/Blust1969">Blust1969</a>; <a href="../sources/Dempwolff1938">Dempwolff1938</a>)
+<td>'<span>rain</span>' (<a href="../sources/Blust1969">Blust 1969</a>; <a href="../sources/Dempwolff1938">Dempwolff 1938</a>)
 </td>
 </tr>
 <tr>
@@ -3422,7 +3422,7 @@ For ‘dew’, a few reflexes of a PMP term occur.
 <td style="white-space: nowrap;">
 <i>&ast;lamuR</i>
 </td>
-<td>'<span>dew</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
+<td>'<span>dew</span>' (<a href="../sources/Dempwolff1938">Dempwolff 1938</a>)
 </td>
 </tr>
 <tr>
@@ -3466,7 +3466,7 @@ I have reconstructed five separate terms for ‘lightning’. POc _&ast;qu(s,j)i
 <td style="white-space: nowrap;">
 <i>&ast;qusilak</i>
 </td>
-<td>'<span>lightning</span>' (<a href="../sources/Ross1988">Ross1988</a>)
+<td>'<span>lightning</span>' (<a href="../sources/Ross1988">Ross 1988</a>)
 </td>
 </tr>
 <tr>
@@ -3522,7 +3522,7 @@ I have reconstructed five separate terms for ‘lightning’. POc _&ast;qu(s,j)i
 <td style="white-space: nowrap;">
 <i>&ast;bilak</i>
 </td>
-<td>'<span>lightning</span>' (<a href="../sources/Dempwolff1925">Dempwolff1925</a>)
+<td>'<span>lightning</span>' (<a href="../sources/Dempwolff1925">Dempwolff 1925</a>)
 </td>
 </tr>
 <tr>
@@ -3696,7 +3696,7 @@ I have reconstructed five separate terms for ‘lightning’. POc _&ast;qu(s,j)i
 </tr>
 <tr>
 <td>Pn</td><td><a href="../languages/pileni">Pileni</a></td><td style="white-space: nowrap;"><i>lapa</i></td>
-<td>'<span>deep phosphorescent light, distinct from surface phosphorescence, occurring at a depth of from about 1 to 6 feet</span>' (<a href="../sources/Lewis1972">Lewis1972: 208</a>)
+<td>'<span>deep phosphorescent light, distinct from surface phosphorescence, occurring at a depth of from about 1 to 6 feet</span>' (<a href="../sources/Lewis1972">Lewis 1972: 208</a>)
 </td>
 </tr>
 <tr>
@@ -3762,7 +3762,7 @@ Despite the formal variations in the cognate set above, its members are regular 
 <td style="white-space: nowrap;">
 <i>&ast;kila(p,b)</i>
 </td>
-<td>'<span>flash, sparkle</span>' (<a href="../sources/Blust1995">Blust1995</a>; <a href="../sources/Dempwolff1925">Dempwolff1925</a>)
+<td>'<span>flash, sparkle</span>' (<a href="../sources/Blust1995">ACD</a>; <a href="../sources/Dempwolff1925">Dempwolff 1925</a>)
 </td>
 </tr>
 <tr>
@@ -3819,7 +3819,7 @@ POc appears to have had two basic roots for thunder, _&ast;kuru_ and _&ast;pʷar
 <td style="white-space: nowrap;">
 <i>&ast;guruq</i>
 </td>
-<td>'<span>noise, tumult</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>noise, tumult</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -3867,7 +3867,7 @@ POc appears to have had two basic roots for thunder, _&ast;kuru_ and _&ast;pʷar
 <td style="white-space: nowrap;">
 <i>&ast;guruq</i>
 </td>
-<td>'<span>noise, tumult</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>noise, tumult</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>

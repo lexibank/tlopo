@@ -10381,7 +10381,7 @@ POc *qata(r) ‘image, reflection, soul, spirit’
   TM: Buma                  ata                 ‘soul, spirit’
   TM: Tanema                ae                  ‘soul, spirit’
   NCV: Mota                 ata(i)              ‘soul’
-  NCV: Lehali               n-ɛta-n             ‘soul (of s.o.)’ (François 2013)
+  NCV: Lehali               n-ɛta-n             ‘soul (of s.o.)’ (François 2013:211)
   NCV: Namakir              ʔata-               ‘(person’s) spirit’
   NCal: Iaai                hate                ‘mark, shadow’
   Fij:   Rotuman            afa                 ‘make a mark or impression’
@@ -13120,7 +13120,7 @@ POc *tolo(m) (VI) ‘swallow’ (Lynch 2001d)
 POc *tolom-i- (VT) ‘swallow’ (Lynch 2001d)
   Adm: Seimat              tolom-i            (VT) ‘swallow’
   NCV: Mota                tolo               ‘make a noise in the throat; belch’
-Proto New Caledonia *tonom ‘swallow’ (Lynch 2001d)
+PNCal *tonom ‘swallow’ (Lynch 2001d)
   NCal: Nyelâyu            cẽlẽm              ‘swallow’
   NCal: Nêlêmwa            (va)ɣanom          ‘swallow’
   NCal: Cèmuhî             nēm(ihĩ)           ‘swallow’[20]
@@ -13285,8 +13285,8 @@ to reconstruct these as POc alternants. Forms in _d-_ occur only in NCV language
 
 <
 PMP *tilen ‘swallow’ (ACD)
-POc *tolo(m) (VI) ‘swallow’ (Lynch 2001b)
-POc *tolom-i- (VT) ‘swallow’ (Lynch 2001b)
+POc *tolo(m) (VI) ‘swallow’ (Lynch 2001d)
+POc *tolom-i- (VT) ‘swallow’ (Lynch 2001d)
 PNCV *dolo (VI) ‘swallow’ (Clark 2009)
 PNCV *dolom-i- (VT) ‘swallow’ (Clark 2009)
  NCV: Mota                 nolo               ‘swallow’
@@ -16965,7 +16965,7 @@ not able to find out.’ (p.91).
 
    Other information on the health of early Oceanic populations may be derived from skeletal
 remains. Our best evidence at present comes from the remains of 36 individuals, 29 of them
-adult, found at Teouma, Vanuatu, dated to ca. 3100–3000 BP (Buckley et. al. 2008), i.e. very
+adult, found at Teouma, Vanuatu, dated to ca. 3100–3000 BP (Buckley et al. 2008), i.e. very
 soon after the initial dispersal of Proto Oceanic speakers. Examination of these skeletons
 indicates that in addition to dental caries, three quarters of the sample suffered from
 degenerative joint disease (p.97). ‘Because populations were probably small, chronic
@@ -17169,7 +17169,7 @@ POc *pitik ‘to feel pain, throb’
  NCV: Mota                vitiɣ           ‘to feel pain’
 >
 
-   The reconstruction below is evidently a variation of *pitik. It is noteworthy that Gela and
+   The reconstruction below is evidently a variation of _*pitik_. It is noteworthy that Gela and
 To’aba’ita retain reflexes of both forms, albeit with no apparent difference in meaning.
 
 <
@@ -17608,7 +17608,7 @@ POc *kʷasi-kʷasi ‘scabies’ (cf. POc _*kʷasi[-]_ ‘scrape, scratch’, _*
                                                                        Health and disease 347
 
 
-5.3.3.2 Ringworm, tinea imbricata
+5.3.3.2 Ringworm, _Tinea imbricata_
 
 The English term ‘ringworm’ is a misnomer, as the skin infections it labels are caused by fungi.
 One of these is _Tinea imbricata_, found mainly in and around the Pacific, and caused by the
@@ -17653,7 +17653,7 @@ POc *karak ‘ringworm; to itch’
  MM: Tolai          kara-kare(n)      ‘a person covered with ringworm and therefore without hair on the body; an abusive term’
  MM: Tolai           kar-kar          ‘ringworm’
  Fij: Bauan          kara             ‘ringworm’
- Fij: Wayan          kara             ‘skin disease in which pale spots appear on the skin’ (probably tinea versicolor)
+ Fij: Wayan          kara             ‘skin disease in which pale spots appear on the skin’ (probably _tinea versicolor_)
 >
 
 
@@ -17675,9 +17675,9 @@ Proto Malaita-Makira *garat-a ‘ringworm’ (_*-a_ NOMINALISER)
   SES: Sa’a              karata            ‘ringworm’
 >
 
-5.3.3.3 Tinea versicolor alias pityriasis versicolor or tinea flava
+5.3.3.3 _Tinea versicolor_ alias _pityriasis versicolor_ or _tinea flava_
 
-Tinea versicolor is known as ‘white spot’ across much of Melanesia. Caused by the yeast
+_Tinea versicolor_ is known as ‘white spot’ across much of Melanesia. Caused by the yeast
 _Malassezia globosa_, the infection leads to skin eruptions. These result in pigmentary changes in
 people with dark skin tones that leave lighter patches of skin. The POc term for white spot,
 supported by non-Oceanic cognates as far away as the Philippines, was _*pano_, but reflected in
@@ -17685,8 +17685,8 @@ just a few Oceanic languages. Recorded under ‘cf. also’ below are Papuan Tip
 to reflect †_*pana(k,q)_ or †_*pana(r,R)_. They remain unexplained.
 
 <
-PMP *panaw ‘fungus infection which produces light patches on the skin: Tinea flava or Pityriasis’ (ACD)
-POc *pano ‘skin disease which produces light patches on the skin, Tinea versicolor’
+PMP *panaw ‘fungus infection which produces light patches on the skin: _Tinea flava_ or _Pityriasis_’ (ACD)
+POc *pano ‘skin disease which produces light patches on the skin, _Tinea versicolor_’
  MM: Nakanai             palu-lu           ‘have hives-like swelling’
  SES: ’Are’are           hano              ‘a skin disease, white spots without scales’
  SES: Sa’a               hano              ‘a skin disease, small white spots on the skin, but no scales’
@@ -17798,15 +17798,15 @@ malaria. Nor is the malaria-carrying mosquito found in Micronesia, New Caledonia
 Polynesia. Proto Malaita-Makira _*mataki_ ‘malaria, to have malaria’ is reconstructable, but this
 is a reflex of POc _*masakit_ ‘be sick’ (§5.3.1), the specific reference to malaria apparently
 limited to the southeast Solomons. There are today two main strains of malaria in New Guinea,
-transmitted by Plasmodium vivax and P. falciparum by way of certain species of the Anopheles
-mosquito. P. vivax can lodge in the liver, causing a relapse up to two years after the initial
+transmitted by _Plasmodium vivax_ and _P. falciparum_ by way of certain species of the Anopheles
+mosquito. _P. vivax_ can lodge in the liver, causing a relapse up to two years after the initial
 infection, and can be easily transported with its human hosts. It is considered to be of Southeast
 Asian rainforest origin, and, where it is long-established in a stable population, can result in a
 degree of tolerance in its victims (Groube 1993:168, 171). Groube, a prehistorian, writes
 (p.169) that ‘it would be incredible, considering the proximity of Southeast Asia (the possible
-homeland of P. vivax), if this parasite was not introduced [to New Guinea] before the end of the
-Pleistocene.’ P. falciparum, on the other hand, is of African origin. The resultant illness,
-although non-relapsing, is more virulent than that transmitted by P. vivax. As the parasite
+homeland of _P. vivax_), if this parasite was not introduced [to New Guinea] before the end of the
+Pleistocene.’ _P. falciparum_, on the other hand, is of African origin. The resultant illness,
+although non-relapsing, is more virulent than that transmitted by _P. vivax_. As the parasite
 cannot survive within its host beyond the duration of its initial infection, it requires large host
 populations moving rapidly for successful migration. It is considered a latecomer to Melanesia,
 its arrival ‘unlikely to have been much before a thousand years ago’ (p.168), i.e. more than two
@@ -18627,8 +18627,8 @@ in three main kinds:[1]
 
 __block__
  1. a construction with no copula (‘The cup — on the table’)
- 2. a construction with a copula verb corresponding to English be (‘The cup is on the table’),
- 3. a construction with a posture verb (‘The cup sits on the table’. ‘The vase stands on the
+ 2. a construction with a copula verb corresponding to English be (‘The cup __is__ on the table’),
+ 3. a construction with a posture verb (‘The cup __sits__ on the table’. ‘The vase __stands__ on the
     table’).
 
 [1] This is a simplified version of Ameka & Levinson’s (2007) categorisation, which see for more detail.
@@ -19334,7 +19334,7 @@ seem to be used transitively without derivation), but they differ from each othe
 and the same was presumably true of POc. Often dictionaries, let alone wordlists, do not
 provide distinctive glosses for ‘hang’ words. The following three lists are illustrative.
 
-: Nehan (MM) (Glennon & Glennon 2006)
+: __Nehan__ (MM) (Glennon & Glennon 2006)
 
 __tablenh__
  _abeke_     | ‘hang above’
@@ -19343,7 +19343,7 @@ __tablenh__
  _lolo_      | ‘tie up, hang up’
  _lilioro_   | ‘hang; drape especially around neck or shoulders’
 
-: Gela (SES) (Fox 1955)
+: __Gela__ (SES) (Fox 1955)
 
 __tablenh__
  _soɣa-mate_ | ‘hang’
@@ -19365,7 +19365,7 @@ __tablenh__
 382 Malcolm Ross
 
 
-: Wayan Fijian (SES) (Pawley & Sayaba 2003)
+: __Wayan Fijian__ (SES) (Pawley & Sayaba 2003)
 
 __tablenh__
  _lili_      |  ‘hang, be suspended’
@@ -19501,9 +19501,9 @@ cf. also:
 There is a copious literature on movement verbs and movement constructions in the world’s
 languages, much of it stemming from the work of Leonard Talmy (1972, 1974, 1985, 1991, 2000).
 Talmy observed that languages tend to have either movement constructions in which
-the main verb encodes the manner of motion, as in English as in _He ran into the cave_, or
+the main verb encodes the manner of motion, as in English as in _He_ ___ran___ _greinto the cave_, or
 movement constructions in which it encodes the path of motion, as in Spanish
-_Entró corriendo a la cueva_ [entered.3SG running to the cave]. Path is encoded in the English
+___Entró___ _corriendo a la cueva_ [__entered.3SG__ running to the cave]. Path is encoded in the English
 example by the preposition _into_, and manner in the Spanish example by the participle
 _corriendo_ ‘running’.[7]
 
@@ -21011,11 +21011,11 @@ cf. also:
 >
 
    The other two reconstructions are formally similar, and it is hard to believe that they are not
-historically connected in some way, as both display the pattern *LABIAL_-ulos_. They are:
+historically connected in some way, as both display the pattern *LABIAL-_ulos_. They are:
 
 __block__
-• POc _*[ta]bulo(s)_ (VI) ‘turn round, turn back’, _*bulos-i-_ (VT) ‘turn round, turn back’
-• POc _*pulo(s)_ (VI) ‘turn round’, _*pulos-i-_ (VT) ‘turn (s.t.) round’
+- POc _*[ta]bulo(s)_ (VI) ‘turn round, turn back’, _*bulos-i-_ (VT) ‘turn round, turn back’
+- POc _*pulo(s)_ (VI) ‘turn round’, _*pulos-i-_ (VT) ‘turn (s.t.) round’
 
 However, there is no straightforward way to unify them.
 
@@ -21423,8 +21423,8 @@ __block__
 Thus in an English sentence like
 
 __tablenh__
-She      |   moved  | the pot  |      from the table | to the ground
-AGENT    |   EVENT  |   THEME  |    SOURCE           | GOAL
+_She_    |  _moved_ | _the pot_ |    _from the table_ | _to the ground_
+AGENT    |  EVENT   |   THEME   |    SOURCE           | GOAL
 
 all five frame elements are profiled.[15] Caused movement constructions differ as to whether
 these elements are all profiled. In this construction the source and the goal are each optional.
@@ -21472,20 +21472,20 @@ languages (9b); and verbs of putting and sending (9c). Explanations of lower-ord
 are distributed through the sections below, which are arranged as follows:
 
 __block__
- 6.6.1. Simple caused movement:
-     6.6.1.1. Taking (9a)
-     6.6.1.2. Verbs that profile vertical direction: raising and lowering (3)
-     6.6.1.3. Force-profiling verbs: pushing and pulling (9a, iii)
- 6.6.2. Accompanied caused movement (9a):
-     6.6.2.1–12. Carrying verbs that profile the physical relationship between agent and theme
-     6.6.2.13. Dragging
- 6.6.3. Unaccompanied caused movement:
-     6.6.3.1. Putting (9c-i)
-            6.6.3.1.1. Simple putting
-            6.6.3.1.2. Putting verbs that profile the resulting posture of the theme (1)
-            6.6.3.1.3. Putting verbs that profile the path of movement (4)
-            6.6.3.1.4. ‘Putting’ in reverse: taking
-     6.6.3.2. Sending (9c-ii)
+- §6.6.1. Simple caused movement:
+  - §6.6.1.1. Taking (9a)
+  - §6.6.1.2. Verbs that profile vertical direction: raising and lowering (3)
+  - §6.6.1.3. Force-profiling verbs: pushing and pulling (9a, iii)
+- §6.6.2. Accompanied caused movement (9a):
+  - §6.6.2.1–12. Carrying verbs that profile the physical relationship between agent and theme
+  - §6.6.2.13. Dragging
+- §6.6.3. Unaccompanied caused movement:
+  - §6.6.3.1. Putting (9c-i)
+    - §6.6.3.1.1. Simple putting
+    - §6.6.3.1.2. Putting verbs that profile the resulting posture of the theme (1)
+    - §6.6.3.1.3. Putting verbs that profile the path of movement (4)
+    - §6.6.3.1.4. ‘Putting’ in reverse: taking
+  - §6.6.3.2. Sending (9c-ii)
 
    The verbs reconstructed in the sections below consist of a root or, in the case of transitives
 formed from a root ending in _-a_ or a consonant, of root + _*-i_. POc evidently had two
@@ -21508,11 +21508,11 @@ Evans (2003:203) notes. In the first it produced a verb like those formed with _
 the agent causes the theme to perform the action denoted by the root, as in
 
 __tablenh__
-   Manam          _gege_ (VI) ‘roll’    >    _gege-ak_ (VT) ‘roll’
-                  _alale_ (VI) ‘walk’   >    _alale-ak_ (VT) ‘help s.o. walk’
-   NE Ambae       _saga_ ‘go on top’    >    _sagat-agi[ni]_ ‘put s.t. on top’
-   Bauan          _ðuru_ ‘enter’        >    _ðurum-aki_ ‘insert s.t.’
-                  _dromu_ ‘sink’        >    _dromuð-aki_ ‘push s.t. under (water),
+   Manam       |   _gege_ (VI) ‘roll’ |   > |   _gege-ak_ (VT) ‘roll’
+               |   _alale_ (VI) ‘walk’|   > |   _alale-ak_ (VT) ‘help s.o. walk’
+   NE Ambae    |   _saga_ ‘go on top’ |   > |   _sagat-agi[ni]_ ‘put s.t. on top’
+   Bauan       |   _ðuru_ ‘enter’     |   > |   _ðurum-aki_ ‘insert s.t.’
+               |   _dromu_ ‘sink’     |   > |   _dromuð-aki_ ‘push s.t. under (water),
 
 In the typology above, these are simple or unaccompanied caused movement verbs.
 
@@ -21520,11 +21520,11 @@ In the typology above, these are simple or unaccompanied caused movement verbs.
 denoted by the root, and the theme is a concomitant:
 
 __tablenh__
-   NE Ambae       _toa_ ‘run’           >    _toa-gi[ni]_ ‘run off with s.t.’
-                  _hivo_ ‘go down’      >    _hivo-gi[ni]_ ‘go down with s.t., take s.t. down’
-                  _vano_ ‘go’           >    _vano-gi[ni]_ ‘go with s.t., take s.t.’
-   Bauan          _ðiði_ ‘run’          >    _ðiðiv-aki_ ‘run off with s.t.’
-                  _galo_ ‘swim’         >    _galov-aki_ ‘swim with s.t.’
+   NE Ambae    |   _toa_ ‘run’       |    >  |  _toa-gi[ni]_ ‘run off with s.t.’
+               |   _hivo_ ‘go down’  |    >  |  _hivo-gi[ni]_ ‘go down with s.t., take s.t. down’
+               |   _vano_ ‘go’       |    >  |  _vano-gi[ni]_ ‘go with s.t., take s.t.’
+   Bauan       |   _ðiði_ ‘run’      |    >  |  _ðiðiv-aki_ ‘run off with s.t.’
+               |   _galo_ ‘swim’     |    >  |  _galov-aki_ ‘swim with s.t.’
 
 Such verbs are verbs of accompanied caused movement, resembling verbs of carrying.
 However, in a carrying verb it is the physical relationship between the agent and the theme that
@@ -21865,15 +21865,15 @@ always occur as the final part of a compound).
 
 
 __table__
-Sinaugoro (PT)
-dori         ‘push’
-dori-faka    ‘open by pushing’                faka    ‘between’
-dori-ɣau     ‘close by pushing’               -ɣau    ‘cover’
-dori-maraɣe ‘push up’                         raɣe    ‘go up’
-dori-riɣo    ‘push down’                      riɣo    ‘go down’
-dori-rosi    ‘push out’                       -rosi   ‘out’
-dori-tari    ‘push down on the ground’        -tari   ‘down’
-dori-toɣa    ‘push inside’                    -toɣa   ‘inside’
+Sinaugoro (PT) |                            |         |
+_dori_        | ‘push’                        |         |
+_dori-faka_   | ‘open by pushing’             |   _faka_  |  ‘between’
+_dori-ɣau_    | ‘close by pushing’            |   _-ɣau_  |  ‘cover’
+_dori-maraɣe_ | ‘push up’                     |   _raɣe_ |   ‘go up’
+_dori-riɣo_   | ‘push down’                   |   _riɣo_  |  ‘go down’
+_dori-rosi_   | ‘push out’                    |   _-rosi_ |  ‘out’
+_dori-tari_   | ‘push down on the ground’     |   _-tari_ |  ‘down’
+_dori-toɣa_   | ‘push inside’                 |   _-toɣa_  | ‘inside’
 
 Sinaugoro _dori_ ‘push’ is not cognate with Lou or Lewo _su-_ but the latter are probably cognate
 with each other and probably reflect POc _*qusur_ ‘push, shove’ with loss of the first syllable.
@@ -22655,7 +22655,6 @@ Simple | _nāki-_   | put or place s.t.                       | _naki_   |   be 
 Posture-profiling | _tavani-_ | put s.t. up lengthwise | _tava_  | (of a long object) be placed lengthwise in an elevated position, as on a shelf or stack.
 Posture-profiling | _ruva-_, _ru-vani-_ | lay s.t. in place, fix or place s.t. in or on a place (object the thing fixed). | _ruva_  | (of a flat object) be laid, put in place, fixed in position
 Posture-profiling | _vaka-dureni_  | stand s.t. up, make s.t. stand  | _dure_  |  stand, stand up
-
 Path-profiling | _ðilini-_   | put or rest a thing on s.t.            | _ðili_    |   be on top, rest on s.t.
 Path-profiling | _ðuruni-_, _ðuruti-_  | bag s.t., secure s.t. in a bag or basket.   |   _ðuru_  |     be bagged, put into a bag or basket with top fastened
 Path-profiling | _koroni-_  | gather s.t. in a heap, accumulate or pile up s.t.  |  _koro_ | be gathered in a heap or mound; be heaped, piled, mounded
@@ -22874,7 +22873,7 @@ POc *soŋo ‘put into, insert’
 452 Malcolm Ross
 
 
-6.6.3.1.4 ‘Putting’ in reverse: removing
+6.6.3.1.4 Putting in reverse: removing
 
 ‘Removing’ in the title of this section refers to acts of unaccompanied caused movement that
 are opposite in direction to ‘putting’ (e.g. _He took the knife from the table_). In §6.6.1.1 it is
@@ -26502,8 +26501,10 @@ larynx is thus recognised as the active agent or vehicle of the brain and mind.
    That this belief is widespread is demonstrated by the following phrases recorded by
 Firth (1985) in his Tikopia dictionary:
 
-__block__
+__blockquote__
        _te maanatu e fai i te manava, ki te atami_ ‘memory is produced in the belly by the mind’
+
+__blockquote__
        _te atami te taŋata ena i na manava, fenatu ki na ŋutu, muna rei_ ‘the thoughts of a person are there in his belly, come up to his mouth, and he speaks’
 
 while a Woleaian term from Sohn & Tawerilmang’s (1976) dictionary reinforces the same idea:
@@ -26638,9 +26639,9 @@ involving some kind of mental processing but not all involving strong physical e
 instance, there are feelings such as boredom and compassion and perplexity that may be
 described as both an emotion and a mental state, and if the continuum serves as a measure of
 physical expression these will be placed somewhere in the middle. It is apparent from the
-glosses given to the _*qate-_ reflexes above that emotion is emphasised rather than mind (mind
+glosses given to the _*qate-_ reflexes above that __emotion__ is emphasised rather than __mind__ (mind
 is mentioned in the definition of the term only in SES languages). In contrast, the _*lalom_
-reflexes refer to mind in all subgroups. Those Papuan Tip languages that use _*nua-_ ‘mind/
+reflexes refer to __mind__ in all subgroups. Those Papuan Tip languages that use _*nua-_ ‘mind/
 insides’ as a base for their cognitive states have used it to replace _*lalom_ reflexes while
 retaining their _*qate-_ reflexes. Closer examination of languages where we have reasonable
 amounts of data and where the relevant data is largely limited to BPMs using either ‘liver/belly/
@@ -26950,9 +26951,9 @@ these are already well enough represented in the chapter.
 Verbs encoding three semantic frames denote knowledge in Oceanic languages:
 
 __block
--   AWARE, e. g. ‘I know that he is coming.’
--   ACQUAINTED, e. g. ‘I know him well.’
--   EXPERT, e. g. ‘I know how to plant yams.’
+- AWARE, e. g. ‘I know that he is coming.’
+- ACQUAINTED, e. g. ‘I know him well.’
+- EXPERT, e. g. ‘I know how to plant yams.’
 
 [3] Oceanic SVCs are described by Crowley (2002d) and in the contributions to Bril & Ozanne-Rivierre (2004).
 
@@ -26972,11 +26973,11 @@ but does not occur independently.
 __table__
                 | AWARE                 |  ACQUAINTED                  |  EXPERT
                 | ‘know (s.t. /that …)’ | ‘know/recognise (s.o.)’      |  ‘know/learn (how to …)’
-    Nakanai     |  __rovi__               | _mata-kilala_ [look-(know)]    |   _tahai_, _mari_
-                |                       |  __rovi__-_lala_ [know-? ]         |
-    To’aba’ita  | __θai-toʔoma-__ [(know)-?] | __θai-toʔoma-__ [(know)-? ] | __θaitoʔoma-__, _filo-_, _filoŋani-_, _maʔalutani-_ [eye-? ], _dau-fīfirisi-_ [? -thoroughly]
-    Mwotlap     | __eɣlal__   | __eɣlal__   | __eɣlal__
-    Wayan       | __kilāti-__ | __kilāti-__ | __kilāti-__
+    Nakanai     |  ___rovi___               | _mata-kilala_ [look-(know)]    |   _tahai_, _mari_
+                |                       |  ___rovi___-_lala_ [know-? ]         |
+    To’aba’ita  | ___θai-toʔoma-___ [(know)-?] | ___θai-toʔoma-___ [(know)-? ] | __θaitoʔoma-__, _filo-_, _filoŋani-_, _maʔalutani-_ [eye-? ], _dau-fīfirisi-_ [? -thoroughly]
+    Mwotlap     | _eɣlal_   | _eɣlal_   | _eɣlal_
+    Wayan       | _kilāti-_ | _kilāti-_ | _kilāti-_
 
     The glosses on the second line of Table 22 are intended to capture the fact that in certain
 contexts (e. g. in the presence of a perfective marker) ACQUAINTED and EXPERT verbs often have
@@ -27267,8 +27268,8 @@ Across languages verbs of thinking fall into two broad semantic frames:
                                                                                    Cognition 543
 
 __block__
--    OPINE, e. g. ‘I think/believe that he is coming.’
--    COGITATE, e. g. ‘I think of/about him/this a lot.’
+- OPINE, e. g. ‘I think/believe that he is coming.’
+- COGITATE, e. g. ‘I think of/about him/this a lot.’
 
 Table 23 shows that in all four witness languages there is a verb (in bold) that embraces both
 frames, but in Nakanai, To’aba’ita and Wayan there are other verbs with somewhat more
@@ -27282,10 +27283,10 @@ do not encapsulate these shades of meaning well.
 __table__
                 | OPINE                          |  COGITATE
                 | ‘think/believe (s.t. /that …)’ | ‘think about/consider (s.t.)’
-    Nakanai     | __gabu__, _ule_, _vei_, _kau_  |  __gabu__, _aliale_, _loho-tavu_ [cogitate-towards], _ilo-tavu_  [inside-towards], _hilo-tavu_ [see-towards]
-    To’aba’ita  | __manata__, _sore-_            |         __manata-i-__, _loloma_, _ono-toʔo-_ [belly-(test)]
-    Mwotlap     |  __dem__                       |      __dem__
-    Wayan       | __nūmi-__                      |      __nūmi-__, _lēŋa-i-_
+    Nakanai     | ___gabu___, _ule_, _vei_, _kau_  |  ___gabu___, _aliale_, _loho-tavu_ [cogitate-towards], _ilo-tavu_  [inside-towards], _hilo-tavu_ [see-towards]
+    To’aba’ita  | ___manata___, _sore-_            |         ___manata-i-___, _loloma_, _ono-toʔo-_ [belly-(test)]
+    Mwotlap     |  ___dem___                       |      ___dem___
+    Wayan       | ___nūmi-___                      |      ___nūmi-___, _lēŋa-i-_
 
     OPINE verbs seem to occur less frequently in Oceanic discourse than they do in European
 languages, and there are at least two reasons for this.
@@ -27606,14 +27607,14 @@ __table__
 __table__
        |             | BELIEVE                          | TRUE
        |             |  ‘believe (s.t.) to be true’     | ‘true, real, genuine, correct, right’
-NNG:   |  Takia      |  _ilo-_ __rumok__ (_ilo-_ ‘insides’)     | __rumok__ ‘truth’
-SES:   |  Gela       |  _talu_-__utuni__ (_talu_ ‘put’)         | __utuni__
-SES:   |  Tolo       |  _t_-__utuni-__                        | __utuni__
-SES:   |  Longgu     |  _naʔi_-__utuni__ (_naʔi_ ‘put’)         | __utuni__ (borrowed from a Guadalcanal language)
-SES:   |  Sa’a       |  _hī_-__walaʔimoli__ (_hī_ ‘perceive’)   | __walaʔimoli__
-SES:   |  Owa        |  _raro-ni_-__mʷora__ (_raro_ ‘insides’)  | __mʷora__
-Pn:    |  Samoan     |  _tali_-__tonu__ (_tali_ ‘accept’)       | __tonu__ ‘correct’
-Pn:    |  Tokelauan  |  _tali_-__tonu__ (_tali_ ‘accept’)       | __tonu__ ‘correct’
+NNG:   |  Takia      |  _ilo-___rumok___ (_ilo-_ ‘insides’)     | _rumok_ ‘truth’
+SES:   |  Gela       |  _talu_-___utuni___ (_talu_ ‘put’)         | _utuni_
+SES:   |  Tolo       |  _t_-___utuni-___                        | _utuni_
+SES:   |  Longgu     |  _naʔi_-___utuni___ (_naʔi_ ‘put’)         | _utuni_ (borrowed from a Guadalcanal language)
+SES:   |  Sa’a       |  _hī_-___walaʔimoli___ (_hī_ ‘perceive’)   | _walaʔimoli_
+SES:   |  Owa        |  _raro-ni_-___mʷora___ (_raro_ ‘insides’)  | _mʷora_
+Pn:    |  Samoan     |  _tali_-___tonu___ (_tali_ ‘accept’)       | _tonu_ ‘correct’
+Pn:    |  Tokelauan  |  _tali_-___tonu___ (_tali_ ‘accept’)       | _tonu_ ‘correct’
 
 550 Malcolm Ross and Meredith Osmond
 
@@ -29882,9 +29883,9 @@ cf. also:
 being hungry, thirsty and sleepy as sequences of ‘want to’ + verb:
 
 __block__
-  PCP _*via kani_ ‘be hungry’ (lit. ‘want eat’)
-  PCP _*via inu_ ‘be thirsty’ (lit. ‘want drink’)
-  PCP _*via moze_ ‘be sleepy’ (lit. ‘want sleep’)
+- PCP _*via kani_ ‘be hungry’ (lit. ‘want eat’)
+- PCP _*via inu_ ‘be thirsty’ (lit. ‘want drink’)
+- PCP _*via moze_ ‘be sleepy’ (lit. ‘want sleep’)
 
    Since PCP _*via_ apparently reflects PMP _*pian_, the reconstruction of POc _*pia(n)_ can be
 inferred. However, it seems to have been displaced in non-Central Pacific Oceanic languages

@@ -10,7 +10,7 @@
 {% endif %}
 <td>
 {% for g, cmt, pos, srcs in glosses %}{% if pos %}[{{ pos }}] {% endif %}{% if g %}'{{ g|markdown }}'{% endif %}{% if cmt %} ({{ cmt|markdown }}){% endif %}{% if srcs %}
-({% for srcid, pages in srcs %}<a href="{{ href_source(srcid) }}">{{ srcid }}{% if pages %}: {{ pages }}{% endif %}</a>{% if loop.last == False %}; {% endif %}{% endfor %})
+({% for srcid, pages, key in srcs %}<a href="{{ href_source(srcid) }}">{{ key }}{% if pages %}: {{ pages }}{% endif %}</a>{% if loop.last == False %}; {% endif %}{% endfor %})
 {% endif %}{% if loop.last == False %}; {% endif %}{% endfor %}
 {% if fn %}[^{{ fn }}]{% endif %}
 </td>

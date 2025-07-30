@@ -181,7 +181,7 @@ An apparently general term for tree trunk can be reconstructed for POc, namely _
 <td style="white-space: nowrap;">
 <i>&ast;bataŋ</i>
 </td>
-<td>'<span>stalk, trunk</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
+<td>'<span>stalk, trunk</span>' (<a href="../sources/Dempwolff1938">Dempwolff 1938</a>)
 </td>
 </tr>
 <tr>
@@ -189,7 +189,7 @@ An apparently general term for tree trunk can be reconstructed for POc, namely _
 <td style="white-space: nowrap;">
 <i>&ast;pata(ŋ)</i>
 </td>
-<td>'<span>tree trunk</span>' (<a href="../sources/Benderetal2003">Benderetal2003</a>)
+<td>'<span>tree trunk</span>' (<a href="../sources/Benderetal2003">Bender et al. 2003</a>)
 </td>
 </tr>
 <tr>
@@ -229,7 +229,7 @@ As mentioned above, Oceanic languages have terms denoting different parts of woo
 <td style="white-space: nowrap;">
 <i>&ast;puqun</i>
 </td>
-<td>'<span>base of tree, source, origin</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>base of tree, source, origin</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -342,7 +342,7 @@ Terms with similar meanings to Wayan _ŋau_ 'main or centre section of trunk' an
 <td style="white-space: nowrap;">
 <i>&ast;qulu</i>
 </td>
-<td>'<span>head; top part; leader, chief; headwaters; handle of a bladed implement; prow of a boat; first, first-born</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>head; top part; leader, chief; headwaters; handle of a bladed implement; prow of a boat; first, first-born</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -350,7 +350,7 @@ Terms with similar meanings to Wayan _ŋau_ 'main or centre section of trunk' an
 <td style="white-space: nowrap;">
 <i>&ast;qulu-</i>
 </td>
-<td>'<span>head, top part, hair of the head</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>head, top part, hair of the head</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -611,7 +611,7 @@ Proto Austronesian _&ast;daqan_ 'branch', continued as POc _&ast;raqan_ 'branch 
 <td style="white-space: nowrap;">
 <i>&ast;daqan</i>
 </td>
-<td>'<span>branch</span>' (<a href="../sources/Blust1993">Blust1993</a>)
+<td>'<span>branch</span>' (<a href="../sources/Blust1993">Blust 1993</a>)
 </td>
 </tr>
 <tr>
@@ -619,7 +619,7 @@ Proto Austronesian _&ast;daqan_ 'branch', continued as POc _&ast;raqan_ 'branch 
 <td style="white-space: nowrap;">
 <i>&ast;raqan</i>
 </td>
-<td>'<span>branch of tree or other plant</span>' (<a href="../sources/Ross1988">Ross1988</a>)
+<td>'<span>branch of tree or other plant</span>' (<a href="../sources/Ross1988">Ross 1988</a>)
 </td>
 </tr>
 <tr>
@@ -651,7 +651,7 @@ Proto Austronesian _&ast;daqan_ 'branch', continued as POc _&ast;raqan_ 'branch 
 <td style="white-space: nowrap;">
 <i>&ast;raa, &ast;ra-ra-</i>
 </td>
-<td>'<span>branch</span>' (<a href="../sources/Clark1996">Clark1996</a>)
+<td>'<span>branch</span>' (<a href="../sources/Clark1996">Clark 1996</a>)
 </td>
 </tr>
 <tr>
@@ -725,7 +725,7 @@ POc _&ast;rako(q)_ 'branch, twig' is supported by reflexes in two Papuan Tip lan
 <td style="white-space: nowrap;">
 <i>&ast;daŋkeq</i>
 </td>
-<td>'<span>branch</span>' (<a href="../sources/Blust1986">Blust1986</a>)
+<td>'<span>branch</span>' (<a href="../sources/Blust1986">Blust 1986</a>)
 </td>
 </tr>
 <tr>
@@ -759,7 +759,7 @@ Similarly, POc _&ast;raga(q)_ 'branch' is supported by reflexes in a small numbe
 <td style="white-space: nowrap;">
 <i>&ast;daŋkaq</i>
 </td>
-<td>'<span>branch</span>' (<a href="../sources/Blust1986">Blust1986</a>)
+<td>'<span>branch</span>' (<a href="../sources/Blust1986">Blust 1986</a>)
 </td>
 </tr>
 <tr>
@@ -804,7 +804,7 @@ POc also had two morphologically related forms _&ast;saŋa_ and _&ast;ma-saŋa_ 
 <td style="white-space: nowrap;">
 <i>&ast;saŋa</i>
 </td>
-<td>'<span>bifurcation, to branch</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>bifurcation, to branch</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -1037,7 +1037,7 @@ Besides a general term for roots, _&ast;wakaR-_, POc had at least three other mo
 <td style="white-space: nowrap;">
 <i>&ast;wakaR</i>
 </td>
-<td>'<span>root</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>root</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -1174,7 +1174,7 @@ Blust (ACD) also reconstructs a PEMP term _&ast;wakaR-i_ 'root', which is reflec
 <td style="white-space: nowrap;">
 <i>&ast;wakaR-i</i>
 </td>
-<td>'<span>root</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>root</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -1220,7 +1220,7 @@ Blust (ACD) also reconstructs a PEMP term _&ast;wakaR-i_ 'root', which is reflec
 <td style="white-space: nowrap;">
 <i>&ast;aka(r,R)</i>
 </td>
-<td>'<span>root</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
+<td>'<span>root</span>' (<a href="../sources/Dempwolff1938">Dempwolff 1938</a>)
 </td>
 </tr>
 <tr>
@@ -1257,7 +1257,7 @@ The POc term for 'buttress roots' was _&ast;lali(c,t)_. This is a more or less r
 <td style="white-space: nowrap;">
 <i>&ast;dalij</i>
 </td>
-<td>'<span>buttress roots</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>buttress roots</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -1318,7 +1318,7 @@ The POc reconstruction _&ast;Ramut_ 'fine, hair-like roots' is a revision of [Ge
 <td style="white-space: nowrap;">
 <i>&ast;Ramut</i>
 </td>
-<td>'<span>fine, hair-like roots</span>' (<a href="../sources/Geraghty1990">Geraghty1990</a>: <span>69</span>)
+<td>'<span>fine, hair-like roots</span>' (<a href="../sources/Geraghty1990">Geraghty 1990</a>: <span>69</span>)
 </td>
 </tr>
 <tr>
@@ -1420,7 +1420,7 @@ In English 'mangrove' refers to a variety of trees and shrubs that grow in coast
 <td style="white-space: nowrap;">
 <i>&ast;waket</i>
 </td>
-<td>'<span>mangrove root</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>mangrove root</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -1466,7 +1466,7 @@ A generic term for leaf, POc _&ast;raun_, is clearly reconstructable and reflect
 <td style="white-space: nowrap;">
 <i>&ast;dahun</i>
 </td>
-<td>'<span>leaf</span>' (<a href="../sources/Blust1993">Blust1993</a>)
+<td>'<span>leaf</span>' (<a href="../sources/Blust1993">Blust 1993</a>)
 </td>
 </tr>
 <tr>
@@ -1698,7 +1698,7 @@ POc _&ast;gal(a,o)_ 'taro leaves' is tentatively reconstructed by Ross (this vol
 <td style="white-space: nowrap;">
 <i>&ast;gal(a,o)</i>
 </td>
-<td>'<span>taro leaves</span>' (<a href="../sources/Ross1996d">Ross1996d</a>: <span>190</span>)
+<td>'<span>taro leaves</span>' (<a href="../sources/Ross1996d">Ross 1996d</a>: <span>190</span>)
 </td>
 </tr>
 <tr>
@@ -1750,7 +1750,7 @@ The initial consonant is uncertain because Manam and Tawala reflect _&ast;s_ and
 <td style="white-space: nowrap;">
 <i>&ast;suliq</i>
 </td>
-<td>'<span>runner, sucker, shoot</span>' (<a href="../sources/Blust1972a">Blust1972a</a>)
+<td>'<span>runner, sucker, shoot</span>' (<a href="../sources/Blust1972a">Blust 1972a</a>)
 </td>
 </tr>
 <tr>
@@ -1758,7 +1758,7 @@ The initial consonant is uncertain because Manam and Tawala reflect _&ast;s_ and
 <td style="white-space: nowrap;">
 <i>&ast;[s,j]uli(q)</i>
 </td>
-<td>'<span>banana or taro sucker, slip, cultting, shoot (i.e. propagation material)</span>' (<a href="../sources/Ross1996d">Ross1996d</a>: <span>179</span>)
+<td>'<span>banana or taro sucker, slip, cultting, shoot (i.e. propagation material)</span>' (<a href="../sources/Ross1996d">Ross 1996d</a>: <span>179</span>)
 </td>
 </tr>
 <tr>
@@ -1895,7 +1895,7 @@ The initial consonant is uncertain because Manam and Tawala reflect _&ast;s_ and
 <td style="white-space: nowrap;">
 <i>&ast;(s,j)uli</i>
 </td>
-<td>'<span>to transplant</span>' (<a href="../sources/FrenchWright1983">FrenchWright1983</a>: <span>60</span>)
+<td>'<span>to transplant</span>' (<a href="../sources/FrenchWright1983">French-Wright 1983</a>: <span>60</span>)
 </td>
 </tr>
 <tr>
@@ -1918,7 +1918,7 @@ From the fact that modern languages tend to have several forms that denote new g
 <td style="white-space: nowrap;">
 <i>&ast;qili</i>
 </td>
-<td>[N] '<span>sprout, shoot (esp. of banana or taro)</span>' (<a href="../sources/Benderetal2003">Benderetal2003</a>)
+<td>[N] '<span>sprout, shoot (esp. of banana or taro)</span>' (<a href="../sources/Benderetal2003">Bender et al. 2003</a>)
 </td>
 </tr>
 <tr>
@@ -2048,7 +2048,7 @@ POc also appears to have had a couple of verbal terms that denoted new growth, i
 <td style="white-space: nowrap;">
 <i>&ast;tupul</i>
 </td>
-<td>'<span>to send out new growth</span>' (<a href="../sources/FrenchWright1983">FrenchWright1983</a>: <span>78</span>)
+<td>'<span>to send out new growth</span>' (<a href="../sources/FrenchWright1983">French-Wright 1983</a>: <span>78</span>)
 </td>
 </tr>
 <tr>
@@ -2084,7 +2084,7 @@ POc also appears to have had a couple of verbal terms that denoted new growth, i
 <td style="white-space: nowrap;">
 <i>&ast;pʷere</i>
 </td>
-<td>'<span>to sprout, blossom</span>' (<a href="../sources/Benderetal2003">Benderetal2003</a>: <span>74</span>)
+<td>'<span>to sprout, blossom</span>' (<a href="../sources/Benderetal2003">Bender et al. 2003</a>: <span>74</span>)
 </td>
 </tr>
 <tr>
@@ -2141,7 +2141,7 @@ POc appears to have had two general terms for flower, _&ast;puŋa_, which contin
 <td style="white-space: nowrap;">
 <i>&ast;buŋa</i>
 </td>
-<td>'<span>flower, blossom; to flower, bear flowers; first-born child; skin rash, prickly heat; speckled (offish)</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>flower, blossom; to flower, bear flowers; first-born child; skin rash, prickly heat; speckled (offish)</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -2149,7 +2149,7 @@ POc appears to have had two general terms for flower, _&ast;puŋa_, which contin
 <td style="white-space: nowrap;">
 <i>&ast;puŋa</i>
 </td>
-<td>'<span>flower, blossom</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>flower, blossom</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -2207,7 +2207,7 @@ The Fijian, Polynesian and Nakanai forms below suggest the reconstruction of _&a
 <td style="white-space: nowrap;">
 <i>&ast;see</i>
 </td>
-<td>'<span>flower</span>' (<a href="../sources/Geraghty1983">Geraghty1983</a>)
+<td>'<span>flower</span>' (<a href="../sources/Geraghty1983">Geraghty 1983</a>)
 </td>
 </tr>
 <tr>
@@ -2335,7 +2335,7 @@ The term 'fruit' in English has a number of senses, including: '1. vegetable pro
 <td style="white-space: nowrap;">
 <i>&ast;buaq</i>
 </td>
-<td>'<span>fruit</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
+<td>'<span>fruit</span>' (<a href="../sources/Dempwolff1938">Dempwolff 1938</a>)
 </td>
 </tr>
 <tr>
@@ -2343,7 +2343,7 @@ The term 'fruit' in English has a number of senses, including: '1. vegetable pro
 <td style="white-space: nowrap;">
 <i>&ast;puaq</i>
 </td>
-<td>'<span>fruit: generic for fruit as a part of plants, the seed and its envelope (N); to bear fruit (v)</span>' (<a href="../sources/Ross1996d">Ross1996d</a>)
+<td>'<span>fruit: generic for fruit as a part of plants, the seed and its envelope (N); to bear fruit (v)</span>' (<a href="../sources/Ross1996d">Ross 1996d</a>)
 </td>
 </tr>
 <tr>
@@ -2461,7 +2461,7 @@ POc also had several terms that for clusters or bunches of fruit. The most gener
 <td style="white-space: nowrap;">
 <i>&ast;puŋu</i>
 </td>
-<td>'<span>bunch, cluster (of grain, fruit, areca nuts, etc.)</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>bunch, cluster (of grain, fruit, areca nuts, etc.)</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -2469,7 +2469,7 @@ POc also had several terms that for clusters or bunches of fruit. The most gener
 <td style="white-space: nowrap;">
 <i>&ast;puŋu</i>
 </td>
-<td>'<span>bunch or cluster of fruit or nuts</span>' (<a href="../sources/Ross1996d">Ross1996d</a>: <span>185</span>)
+<td>'<span>bunch or cluster of fruit or nuts</span>' (<a href="../sources/Ross1996d">Ross 1996d</a>: <span>185</span>)
 </td>
 </tr>
 <tr>
@@ -2528,7 +2528,7 @@ POc _&ast;jamu(qa,a)_, on the other hand, apparently referred to clusters of fru
 <td style="white-space: nowrap;">
 <i>&ast;jamu(qa,a)</i>
 </td>
-<td>'<span>cluster of flowers or fruit, usually palms</span>' (<a href="../sources/Ross1989b">Ross1989b</a>: <span>474</span>)
+<td>'<span>cluster of flowers or fruit, usually palms</span>' (<a href="../sources/Ross1989b">Ross 1989b</a>: <span>474</span>)
 </td>
 </tr>
 <tr>
@@ -2578,7 +2578,7 @@ POc also had a distinct term, _&ast;qitiŋ_, that denoted a hand or bunch of ban
 <td style="white-space: nowrap;">
 <i>&ast;qitiŋ</i>
 </td>
-<td>'<span>bunch of bananas</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>bunch of bananas</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -2758,7 +2758,7 @@ In a number of modern Oceanic languages, including Manam, Carolinian and Tikopia
 <td style="white-space: nowrap;">
 <i>&ast;li(ŋ)sa</i>
 </td>
-<td>'<span>nit, louse's egg</span>' (<a href="../sources/Blust1972b">Blust1972b</a>)
+<td>'<span>nit, louse's egg</span>' (<a href="../sources/Blust1972b">Blust 1972b</a>)
 </td>
 </tr>
 <tr>
@@ -2888,7 +2888,7 @@ The data given by [Ross](../sources/Ross1996d) ([1996d](../sources/Ross1996d): 1
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/halia">Halia</a></td><td style="white-space: nowrap;"><i>ariro</i></td>
-<td>'<span>Artocarpus leeuwenii</span>' (<a href="../sources/GlennonandGlennon2005">GlennonandGlennon2005</a>)
+<td>'<span>Artocarpus leeuwenii</span>' (<a href="../sources/GlennonandGlennon2005">Glennon and Glennon 2005</a>)
 </td>
 </tr>
 <tr>
@@ -2948,7 +2948,7 @@ In many modern Oceanic languages the same word is used for skin (of animals and 
 <td style="white-space: nowrap;">
 <i>&ast;kulit</i>
 </td>
-<td>[N] '<span>skin</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
+<td>[N] '<span>skin</span>' (<a href="../sources/Dempwolff1938">Dempwolff 1938</a>)
 </td>
 </tr>
 <tr>
@@ -2956,7 +2956,7 @@ In many modern Oceanic languages the same word is used for skin (of animals and 
 <td style="white-space: nowrap;">
 <i>&ast;kulit-i</i>
 </td>
-<td>[vT] '<span>to remove the skin ofs.t., to remove bark from a tree</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>[vT] '<span>to remove the skin ofs.t., to remove bark from a tree</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -2964,7 +2964,7 @@ In many modern Oceanic languages the same word is used for skin (of animals and 
 <td style="white-space: nowrap;">
 <i>&ast;kulit</i>
 </td>
-<td>[N] '<span>skin (of animals, people, fruit), bark (of trees)</span>' (<a href="../sources/Ross1988">Ross1988</a>)
+<td>[N] '<span>skin (of animals, people, fruit), bark (of trees)</span>' (<a href="../sources/Ross1988">Ross 1988</a>)
 </td>
 </tr>
 <tr>
@@ -3196,7 +3196,7 @@ The Oceanic data, shown in the cognate set below, suggest the reconstruction of 
 <td style="white-space: nowrap;">
 <i>&ast;belit, &ast;bulit</i>
 </td>
-<td>'<span>viscous, sticky</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>viscous, sticky</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -3352,7 +3352,7 @@ Proto Austronesian _&ast;Cenek_ 'thorn' (ACD) appears to be reflected within Oce
 <td style="white-space: nowrap;">
 <i>&ast;duRi</i>
 </td>
-<td>'<span>thorns</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
+<td>'<span>thorns</span>' (<a href="../sources/Dempwolff1938">Dempwolff 1938</a>)
 </td>
 </tr>
 <tr>
@@ -3414,7 +3414,7 @@ Proto Austronesian _&ast;Cenek_ 'thorn' (ACD) appears to be reflected within Oce
 <td style="white-space: nowrap;">
 <i>&ast;poto(k)</i>
 </td>
-<td>'<span>thorn, barb of stingray</span>' (<a href="../sources/Blust1976b">Blust1976b</a>)
+<td>'<span>thorn, barb of stingray</span>' (<a href="../sources/Blust1976b">Blust 1976b</a>)
 </td>
 </tr>
 <tr>

@@ -33,7 +33,7 @@ Four POc words denoting ‘sea’ have been reconstructed: _&ast;tasik_, _&ast;m
 <td style="white-space: nowrap;">
 <i>&ast;tasik</i>
 </td>
-<td>'<span>sea</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
+<td>'<span>sea</span>' (<a href="../sources/Dempwolff1938">Dempwolff 1938</a>)
 </td>
 </tr>
 <tr>
@@ -362,7 +362,7 @@ Polynesian languages reflect another term for ‘ocean’:
 <td style="white-space: nowrap;">
 <i>&ast;moana</i>
 </td>
-<td>'<span>sea beyond the reef, ocean</span>' (<a href="../sources/BiggsandClark1993">BiggsandClark1993</a>)
+<td>'<span>sea beyond the reef, ocean</span>' (<a href="../sources/BiggsandClark1993">Biggs and Clark 1993</a>)
 </td>
 </tr>
 <tr>
@@ -410,7 +410,7 @@ The PCEMP reconstruction in the next set is supported by cognates in the Central
 <td style="white-space: nowrap;">
 <i>&ast;laman</i>
 </td>
-<td>'<span>deep</span>' (<a href="../sources/Blust1984">Blust1984</a>)
+<td>'<span>deep</span>' (<a href="../sources/Blust1984">Blust 1984</a>)
 </td>
 </tr>
 <tr>
@@ -503,7 +503,7 @@ Listed below are common-noun reflexes of _&ast;laur_. However, these are few and
 <td style="white-space: nowrap;">
 <i>&ast;lahud</i>
 </td>
-<td>'<span>downriver, towards the sea</span>' (<a href="../sources/Blust1997">Blust1997</a>; <a href="../sources/Dempwolff1938">Dempwolff1938</a>)
+<td>'<span>downriver, towards the sea</span>' (<a href="../sources/Blust1997">Blust 1997</a>; <a href="../sources/Dempwolff1938">Dempwolff 1938</a>)
 </td>
 </tr>
 <tr>
@@ -546,7 +546,7 @@ Listed below are common-noun reflexes of _&ast;laur_. However, these are few and
 <td style="white-space: nowrap;">
 <i>&ast;lau</i>
 </td>
-<td>'<span>pool, pond</span>' (<a href="../sources/Marck1994">Marck1994</a>: <span>313</span>)
+<td>'<span>pool, pond</span>' (<a href="../sources/Marck1994">Marck 1994</a>: <span>313</span>)
 </td>
 </tr>
 <tr>
@@ -708,7 +708,7 @@ Several terms denoting current or flow of water can be reconstructed for POc. Re
 <td style="white-space: nowrap;">
 <i>&ast;qaRus</i>
 </td>
-<td>[N] '<span>current</span>'; [V] '<span>flow</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
+<td>[N] '<span>current</span>'; [V] '<span>flow</span>' (<a href="../sources/Dempwolff1938">Dempwolff 1938</a>)
 </td>
 </tr>
 <tr>
@@ -841,7 +841,7 @@ The bare PAn verb _&ast;qañud_ ‘drift on a current, carried away by flowing w
 <td style="white-space: nowrap;">
 <i>&ast;ma-qañud</i>
 </td>
-<td>'<span>adrift</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>adrift</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -981,7 +981,7 @@ The bare PAn verb _&ast;qañud_ ‘drift on a current, carried away by flowing w
 </tr>
 <tr>
 <td>Pn</td><td><a href="../languages/anutan">Anutan</a></td><td style="white-space: nowrap;"><i>ta-tape</i></td>
-<td>'<span>for water to flow; particularly for an ocean current to run</span>' (<a href="../sources/Feinberg1988">Feinberg1988: 197</a>)
+<td>'<span>for water to flow; particularly for an ocean current to run</span>' (<a href="../sources/Feinberg1988">Feinberg 1988: 197</a>)
 </td>
 </tr>
 <tr>
@@ -1025,7 +1025,7 @@ The bare PAn verb _&ast;qañud_ ‘drift on a current, carried away by flowing w
 <td style="white-space: nowrap;">
 <i>&ast;qaluR(?)</i>
 </td>
-<td>[V] '<span>flow</span>' (<a href="../sources/Blust1999">Blust1999</a>)
+<td>[V] '<span>flow</span>' (<a href="../sources/Blust1999">Blust 1999</a>)
 </td>
 </tr>
 <tr>
@@ -1123,7 +1123,7 @@ Two types of wave commonly distinguished in Oceanic languages are (a) surf, wave
 <td style="white-space: nowrap;">
 <i>&ast;Nabek</i>
 </td>
-<td>'<span>breakers, surf, waves</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>breakers, surf, waves</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -1197,7 +1197,7 @@ Reflexes of POc _&ast;ŋalu(n)_ in some languages refer to ocean waves in genera
 <td style="white-space: nowrap;">
 <i>&ast;qalun</i>
 </td>
-<td>'<span>long rolling wave, swell, billow</span>' (<a href="../sources/Blust1995">Blust1995</a>; <a href="../sources/Dempwolff1938">Dempwolff1938</a>)
+<td>'<span>long rolling wave, swell, billow</span>' (<a href="../sources/Blust1995">ACD</a>; <a href="../sources/Dempwolff1938">Dempwolff 1938</a>)
 </td>
 </tr>
 <tr>
@@ -1245,7 +1245,7 @@ Reflexes of POc _&ast;ŋalu(n)_ in some languages refer to ocean waves in genera
 </tr>
 <tr>
 <td>Pn</td><td><a href="../languages/anutan">Anutan</a></td><td style="white-space: nowrap;"><i>ŋaru</i></td>
-<td>'<span>wave (generic); breaker</span>' (<a href="../sources/Feinberg1988">Feinberg1988: 192</a>)
+<td>'<span>wave (generic); breaker</span>' (<a href="../sources/Feinberg1988">Feinberg 1988: 192</a>)
 </td>
 </tr>
 <tr>
@@ -1437,7 +1437,7 @@ There is an additional formal complication, namely that PMP _&ast;bujeq_ seems t
 <td style="white-space: nowrap;">
 <i>&ast;busa</i>
 </td>
-<td>'<span>foam</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>foam</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -1498,7 +1498,7 @@ cf. also:
 <td style="white-space: nowrap;">
 <i>&ast;bujeq</i>
 </td>
-<td>'<span>foam, bubbles, lather, scum, froth</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>foam, bubbles, lather, scum, froth</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -1549,7 +1549,7 @@ cf. also:
 <td style="white-space: nowrap;">
 <i>&ast;bujeq</i>
 </td>
-<td>'<span>foam, bubbles, lather, scum, froth</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>foam, bubbles, lather, scum, froth</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -1634,7 +1634,7 @@ The reconstruction for low tide, POc _&ast;maqati_, which continues a PAn form, 
 <td style="white-space: nowrap;">
 <i>&ast;ma-qaCi</i>
 </td>
-<td>'<span>ebb, of water in streams; low tide</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>ebb, of water in streams; low tide</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -1990,7 +1990,7 @@ POc _&ast;Ruap_ has been long-established as a term for high tide, with a PMP an
 <td style="white-space: nowrap;">
 <i>&ast;Ruab</i>
 </td>
-<td>'<span>high tide</span>' (<a href="../sources/Blust198485">Blust198485</a>)
+<td>'<span>high tide</span>' (<a href="../sources/Blust198485">Blust 1984–85</a>)
 </td>
 </tr>
 <tr>
@@ -2110,7 +2110,7 @@ Other reconstructions for high tide include the following (see also POc _&ast;lo
 <td style="white-space: nowrap;">
 <i>&ast;lubuk</i>
 </td>
-<td>'<span>deep pool in water</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
+<td>'<span>deep pool in water</span>' (<a href="../sources/Dempwolff1938">Dempwolff 1938</a>)
 </td>
 </tr>
 <tr>
@@ -2150,7 +2150,7 @@ Other reconstructions for high tide include the following (see also POc _&ast;lo
 </tr>
 <tr>
 <td>SES</td><td><a href="../languages/lau">Lau</a></td><td style="white-space: nowrap;"><i>lobo</i></td>
-<td>'<span>deep water in lagoon</span>' (<a href="../sources/Akimichi1978">Akimichi1978</a>)
+<td>'<span>deep water in lagoon</span>' (<a href="../sources/Akimichi1978">Akimichi 1978</a>)
 </td>
 </tr>
 <tr>
@@ -2353,7 +2353,7 @@ POc _&ast;buŋa_ ‘smooth round coral’ is evidently derived from PMP _&ast;bu
 <td style="white-space: nowrap;">
 <i>&ast;buŋa ni batu</i>
 </td>
-<td>'<span>coral sponge</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>coral sponge</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -3041,7 +3041,7 @@ Both the SE Solomonic and Micronesian reflexes of PEOc _&ast;baro_ refer to flat
 <td style="white-space: nowrap;">
 <i>&ast;toka</i>
 </td>
-<td>'<span>rock, as a submerged rock or reef</span>' (<a href="../sources/BiggsandClark1993">BiggsandClark1993</a>)
+<td>'<span>rock, as a submerged rock or reef</span>' (<a href="../sources/BiggsandClark1993">Biggs and Clark 1993</a>)
 </td>
 </tr>
 <tr>
@@ -3092,7 +3092,7 @@ A feature of coral atolls and of some high islands with barrier reefs is the enc
 <td style="white-space: nowrap;">
 <i>&ast;namaw</i>
 </td>
-<td>'<span>sheltered water: deep place in a river; cove, harbour, lagoon</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>sheltered water: deep place in a river; cove, harbour, lagoon</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -3200,7 +3200,7 @@ Small deep holes are a feature of the reef flat, but the only reconstructable te
 <td style="white-space: nowrap;">
 <i>&ast;loto</i>
 </td>
-<td>'<span>pool, depression in reef; inside</span>' (<a href="../sources/BiggsandClark1993">BiggsandClark1993</a>)
+<td>'<span>pool, depression in reef; inside</span>' (<a href="../sources/BiggsandClark1993">Biggs and Clark 1993</a>)
 </td>
 </tr>
 <tr>
@@ -3262,7 +3262,7 @@ The final nasal of _&ast;sawa(n,ŋ)_ is unexpected but attested in languages tha
 <td style="white-space: nowrap;">
 <i>&ast;sawaq</i>
 </td>
-<td>'<span>channel</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>channel</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>

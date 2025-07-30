@@ -46,7 +46,7 @@ POc _&ast;ka[(r,l)a]qabusi_ appears to have denoted a taxon including at least _
 <td>'<span><em>Acalypha</em> spp.</span>'</td>
 </tr>
 <tr>
-<td><strong>ProtoMesoMelanesian</strong></td><td> </td>
+<td><strong>Proto Meso-Melanesian</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;kaqabusi</i>
 </td>
@@ -239,7 +239,7 @@ cf. also:
 <td><a href="../languages/raga">Raga</a></td>
 <td style="white-space: nowrap;"><i>dovae</i></td>
 <td>
-'<span><em>Alphitonia zizyphoides</em></span>'(<a href="../sources/Walsh2004">Walsh2004</a>)
+'<span><em>Alphitonia zizyphoides</em></span>'(<a href="../sources/Walsh2004">Walsh 2004</a>)
 </td>
 </tr>
 </table>
@@ -276,12 +276,12 @@ The POc term for _Commersonia bartramia_ was _&ast;jamaR_. The Mwotlap, Mota and
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/marovo">Marovo</a></td><td style="white-space: nowrap;"><i>jamara</i></td>
-<td>'<span><em>Commersonia bartramia</em></span>' (<a href="../sources/HendersonandHancock1988">HendersonandHancock1988: 194</a>)
+<td>'<span><em>Commersonia bartramia</em></span>' (<a href="../sources/HendersonandHancock1988">Henderson and Hancock 1988: 194</a>)
 </td>
 </tr>
 <tr>
 <td>TM</td><td><a href="../languages/natiigu">Natügu</a></td><td style="white-space: nowrap;"><i>tame-tame</i></td>
-<td>'<span><em>Commersonia bartramia</em></span>' (<a href="../sources/HendersonandHancock1988">HendersonandHancock1988: 194</a>)
+<td>'<span><em>Commersonia bartramia</em></span>' (<a href="../sources/HendersonandHancock1988">Henderson and Hancock 1988: 194</a>)
 </td>
 </tr>
 <tr>
@@ -290,7 +290,7 @@ The POc term for _Commersonia bartramia_ was _&ast;jamaR_. The Mwotlap, Mota and
 </tr>
 <tr>
 <td>SES</td><td><a href="../languages/kwaraae">Kwara’ae</a></td><td style="white-space: nowrap;"><i>da-dame</i></td>
-<td>'<span><em>Commersonia bartramia</em></span>' (<a href="../sources/HendersonandHancock1988">HendersonandHancock1988: 194</a>)
+<td>'<span><em>Commersonia bartramia</em></span>' (<a href="../sources/HendersonandHancock1988">Henderson and Hancock 1988: 194</a>)
 </td>
 </tr>
 <tr>
@@ -319,7 +319,7 @@ The POc term for _Commersonia bartramia_ was _&ast;jamaR_. The Mwotlap, Mota and
 </tr>
 <tr>
 <td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td style="white-space: nowrap;"><i>sama</i></td>
-<td>'<span><em>Commersonia bartramia</em></span>' (<a href="../sources/Keppeletal2005">Keppeletal2005</a>)
+<td>'<span><em>Commersonia bartramia</em></span>' (<a href="../sources/Keppeletal2005">Keppel et al. 2005</a>)
 </td>
 </tr>
 </table>
@@ -390,7 +390,7 @@ The POc term _&ast;mʷala(q)u_ almost certainly denoted the Bismarcks species _G
 </tr>
 <tr>
 <td>NCV</td><td><a href="../languages/raga">Raga</a></td><td style="white-space: nowrap;"><i>mʷa-mʷalau</i></td>
-<td>'<span><em>Glochidion stipulare</em> (?)</span>' (<a href="../sources/Walsh2004">Walsh2004</a>)
+<td>'<span><em>Glochidion stipulare</em> (?)</span>' (<a href="../sources/Walsh2004">Walsh 2004</a>)
 </td>
 </tr>
 <tr>
@@ -402,7 +402,7 @@ The POc term _&ast;mʷala(q)u_ almost certainly denoted the Bismarcks species _G
 <td style="white-space: nowrap;">
 <i>&ast;na-mel(p)au</i>
 </td>
-<td>'<span><em>Glochidion</em> spp.</span>' (<a href="../sources/Lynch2001c">Lynch2001c</a>)
+<td>'<span><em>Glochidion</em> spp.</span>' (<a href="../sources/Lynch2001c">Lynch 2001c</a>)
 </td>
 </tr>
 <tr>
@@ -432,7 +432,7 @@ PWOc _&ast;jimʷaR_ or _&ast;jimiR_ in all probability denoted the caulking subs
 <td style="white-space: nowrap;">
 <i>&ast;jimʷaR, &ast;jimiR</i>
 </td>
-<td>'<span>sap used for caulking</span>' (<a href="../sources/Ross1988">Ross1988</a>: <span>79</span>)
+<td>'<span>sap used for caulking</span>' (<a href="../sources/Ross1988">Ross 1988</a>: <span>79</span>)
 [^2]</td>
 </tr>
 <tr>
@@ -445,7 +445,7 @@ PWOc _&ast;jimʷaR_ or _&ast;jimiR_ in all probability denoted the caulking subs
 </tr>
 <tr>
 <td>NNG</td><td><a href="../languages/malalamai">Malalamai</a></td><td style="white-space: nowrap;"><i>simaɬ</i></td>
-<td>'<span>putty nut, <em>Parinarium laurinum</em></span>' (<a href="../sources/Lincoln1976">Lincoln1976</a>)
+<td>'<span>putty nut, <em>Parinarium laurinum</em></span>' (<a href="../sources/Lincoln1976">Lincoln 1976</a>)
 </td>
 </tr>
 <tr>
@@ -486,7 +486,7 @@ PWOc _&ast;jimʷaR_ or _&ast;jimiR_ in all probability denoted the caulking subs
 </tr>
 <tr>
 <td>PT</td><td><a href="../languages/muyuw">Muyuw</a></td><td style="white-space: nowrap;"><i>(a)simʷal(gayas)</i></td>
-<td>'<span><em>Glochidion</em> sp.</span>' (<a href="../sources/Damon2004">Damon2004</a>)
+<td>'<span><em>Glochidion</em> sp.</span>' (<a href="../sources/Damon2004">Damon 2004</a>)
 </td>
 </tr>
 <tr>
@@ -611,7 +611,7 @@ PMP _&ast;binu(q)an_ below is reconstructed on the basis of the Oceanic data and
 </tr>
 <tr>
 <td>SES</td><td><a href="../languages/kahua">Kahua</a></td><td style="white-space: nowrap;"><i>hinua (goro)</i></td>
-<td>'<span><em>Macaranga involucrata</em></span>' (<a href="../sources/HendersonandHancock1988">HendersonandHancock1988</a>)
+<td>'<span><em>Macaranga involucrata</em></span>' (<a href="../sources/HendersonandHancock1988">Henderson and Hancock 1988</a>)
 </td>
 </tr>
 <tr>
@@ -624,12 +624,12 @@ PMP _&ast;binu(q)an_ below is reconstructed on the basis of the Oceanic data and
 </tr>
 <tr>
 <td>NCV</td><td><a href="../languages/nduindui">Nduindui</a></td><td style="white-space: nowrap;"><i>venue</i></td>
-<td>'<span><em>Macaranga involucrata</em></span>' (<a href="../sources/Wheatley1992">Wheatley1992: 99</a>)
+<td>'<span><em>Macaranga involucrata</em></span>' (<a href="../sources/Wheatley1992">Wheatley 1992: 99</a>)
 </td>
 </tr>
 <tr>
 <td>NCV</td><td><a href="../languages/nduindui">Nduindui</a></td><td style="white-space: nowrap;"><i>venue (boe)</i></td>
-<td>'<span><em>Macaranga tanarius</em></span>' (<a href="../sources/Wheatley1992">Wheatley1992: 101</a>)
+<td>'<span><em>Macaranga tanarius</em></span>' (<a href="../sources/Wheatley1992">Wheatley 1992: 101</a>)
 </td>
 </tr>
 <tr>
@@ -654,12 +654,12 @@ PMP _&ast;binu(q)an_ below is reconstructed on the basis of the Oceanic data and
 </tr>
 <tr>
 <td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td style="white-space: nowrap;"><i>hinu (ahen)</i></td>
-<td>'<span><em>Macaranga involucrata</em></span>' (<a href="../sources/Wheatley1992">Wheatley1992: 99</a>)
+<td>'<span><em>Macaranga involucrata</em></span>' (<a href="../sources/Wheatley1992">Wheatley 1992: 99</a>)
 </td>
 </tr>
 <tr>
 <td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td style="white-space: nowrap;"><i>hinu (wa)</i></td>
-<td>'<span><em>Macaranga tanarius</em></span>' (<a href="../sources/Wheatley1992">Wheatley1992: 101</a>)
+<td>'<span><em>Macaranga tanarius</em></span>' (<a href="../sources/Wheatley1992">Wheatley 1992: 101</a>)
 </td>
 </tr>
 <tr>
@@ -691,7 +691,7 @@ PMP _&ast;binu(q)an_ below is reconstructed on the basis of the Oceanic data and
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td style="white-space: nowrap;"><i>bara-bara</i></td>
-<td>'<span><em>Macaranga</em> sp.</span>' (<a href="../sources/Record1945">Record1945</a>)
+<td>'<span><em>Macaranga</em> sp.</span>' (<a href="../sources/Record1945">Record 1945</a>)
 </td>
 </tr>
 <tr>
@@ -700,12 +700,12 @@ PMP _&ast;binu(q)an_ below is reconstructed on the basis of the Oceanic data and
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/petats">Petats</a></td><td style="white-space: nowrap;"><i>vana-van</i></td>
-<td>'<span><em>Macaranga aleuritoides</em></span>' (<a href="../sources/Record1945">Record1945</a>)
+<td>'<span><em>Macaranga aleuritoides</em></span>' (<a href="../sources/Record1945">Record 1945</a>)
 </td>
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/teop">Teop</a></td><td style="white-space: nowrap;"><i>bana-bana</i></td>
-<td>'<span><em>Macaranga aleuritoides</em></span>' (<a href="../sources/Record1945">Record1945</a>)
+<td>'<span><em>Macaranga aleuritoides</em></span>' (<a href="../sources/Record1945">Record 1945</a>)
 </td>
 </tr>
 </table>
@@ -777,7 +777,7 @@ There is disagreement among cognates with regard to the final _&ast;-aqi_ of POc
 <td style="white-space: nowrap;">
 <i>&ast;qadamay</i>
 </td>
-<td>'<span><em>Pipturus argenteus</em></span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span><em>Pipturus argenteus</em></span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -789,7 +789,7 @@ There is disagreement among cognates with regard to the final _&ast;-aqi_ of POc
 </tr>
 <tr>
 <td>Adm</td><td><a href="../languages/seimat">Seimat</a></td><td style="white-space: nowrap;"><i>ahoma</i></td>
-<td>'<span>a small tree, from the bark of which fishing lines and nets are made</span>' (<a href="../sources/Sorensen1950">Sorensen1950</a>)
+<td>'<span>a small tree, from the bark of which fishing lines and nets are made</span>' (<a href="../sources/Sorensen1950">Sorensen 1950</a>)
 </td>
 </tr>
 <tr>
@@ -798,7 +798,7 @@ There is disagreement among cognates with regard to the final _&ast;-aqi_ of POc
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/notsi">Notsi</a></td><td style="white-space: nowrap;"><i>karamet</i></td>
-<td>'<span><em>Pipturus argenteus</em></span>' (<span><em>-t</em> unexplained</span>) (<a href="../sources/Holdsworthetal1978">Holdsworthetal1978</a>)
+<td>'<span><em>Pipturus argenteus</em></span>' (<span><em>-t</em> unexplained</span>) (<a href="../sources/Holdsworthetal1978">Holdsworth et al. 1978</a>)
 </td>
 </tr>
 <tr>
@@ -870,7 +870,7 @@ There is disagreement among cognates with regard to the final _&ast;-aqi_ of POc
 </tr>
 <tr>
 <td>Fij</td><td><a href="../languages/laueasternfijian">Lau (Eastern Fijian)</a></td><td style="white-space: nowrap;"><i>roŋā</i></td>
-<td>'<span><em>Pipturus</em> sp.</span>' (<a href="../sources/Geraghty1990">Geraghty1990: 91</a>)
+<td>'<span><em>Pipturus</em> sp.</span>' (<a href="../sources/Geraghty1990">Geraghty 1990: 91</a>)
 </td>
 </tr>
 <tr>
@@ -965,7 +965,7 @@ A number of groups in Indonesia and Melanesia practised ritual tooth-blackening 
 </tr>
 <tr>
 <td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td style="white-space: nowrap;"><i>akʷasi</i></td>
-<td>'<span><em>Rhus taitensis</em></span>' (<a href="../sources/HendersonandHancock1988">HendersonandHancock1988</a>)
+<td>'<span><em>Rhus taitensis</em></span>' (<a href="../sources/HendersonandHancock1988">Henderson and Hancock 1988</a>)
 </td>
 </tr>
 <tr>
@@ -1051,12 +1051,12 @@ Blust (ACD) reconstructs PWMP _&ast;deRuŋ_ on the basis of western Malaya-Polyn
 </tr>
 <tr>
 <td>NCV</td><td><a href="../languages/veraa">Vera'a</a></td><td style="white-space: nowrap;"><i>do-ndo</i></td>
-<td>'<span><em>Trema orientalis</em></span>' (<a href="../sources/Wheatley1992">Wheatley1992: 237</a>)
+<td>'<span><em>Trema orientalis</em></span>' (<a href="../sources/Wheatley1992">Wheatley 1992: 237</a>)
 </td>
 </tr>
 <tr>
 <td>NCV</td><td><a href="../languages/raga">Raga</a></td><td style="white-space: nowrap;"><i>dou-dou</i></td>
-<td>'<span><em>Trema</em> sp.</span>' (<a href="../sources/Walsh2004">Walsh2004</a>)
+<td>'<span><em>Trema</em> sp.</span>' (<a href="../sources/Walsh2004">Walsh 2004</a>)
 </td>
 </tr>
 <tr>
@@ -1101,7 +1101,7 @@ POc _&ast;maRako_ '_Trichospermum peekelii_' is an unproblematic reconstruction.
 <td style="white-space: nowrap;">
 <i>&ast;maRako</i>
 </td>
-<td>'<span><em>Trichospermum peekelii</em></span>' (<a href="../sources/Geraghty1990">Geraghty1990</a>: <span>PEOc</span>)
+<td>'<span><em>Trichospermum peekelii</em></span>' (<a href="../sources/Geraghty1990">Geraghty 1990</a>: <span>PEOc</span>)
 </td>
 </tr>
 <tr>
@@ -1130,7 +1130,7 @@ POc _&ast;maRako_ '_Trichospermum peekelii_' is an unproblematic reconstruction.
 </tr>
 <tr>
 <td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td style="white-space: nowrap;"><i>n-maɣ</i></td>
-<td>'<span><em>Trichospermum inmac</em></span>' (<a href="../sources/Wheatley1992">Wheatley1992: 233</a>)
+<td>'<span><em>Trichospermum inmac</em></span>' (<a href="../sources/Wheatley1992">Wheatley 1992: 233</a>)
 </td>
 </tr>
 <tr>
@@ -1286,7 +1286,7 @@ In PROc, _&ast;mʷanaya_, another apparently generic term for grass occurred. Th
 <td style="white-space: nowrap;">
 <i>&ast;mʷanaya</i>
 </td>
-<td>'<span>grass</span>' (<a href="../sources/Clark1996">Clark1996</a>: <span>PNCV *mʷanai</span>)
+<td>'<span>grass</span>' (<a href="../sources/Clark1996">Clark 1996</a>: <span>PNCV *mʷanai</span>)
 </td>
 </tr>
 <tr>
@@ -1645,7 +1645,7 @@ A reed-like grass dominant on dry hillsides, _Miscanthus floridulus_ grows to ab
 <td style="white-space: nowrap;">
 <i>&ast;na-(v)iuŋ</i>
 </td>
-<td>'<span>wild cane</span>' (<a href="../sources/Lynch2001c">Lynch2001c</a>)
+<td>'<span>wild cane</span>' (<a href="../sources/Lynch2001c">Lynch 2001c</a>)
 </td>
 </tr>
 <tr>
@@ -1695,7 +1695,7 @@ The reconstruction below originates with [French-Wright](../sources/FrenchWright
 <td style="white-space: nowrap;">
 <i>&ast;pijo</i>
 </td>
-<td>'<span>cane or reed taxon, including <em>Saccharum spontaneum</em></span>' (<a href="../sources/FrenchWright1983">FrenchWright1983</a>: <span><em>*piso</em></span>; <a href="../sources/Milke1968">Milke1968</a>: <span><em>*piso</em> 'k.o. reed'</span>)
+<td>'<span>cane or reed taxon, including <em>Saccharum spontaneum</em></span>' (<a href="../sources/FrenchWright1983">French-Wright 1983</a>: <span><em>*piso</em></span>; <a href="../sources/Milke1968">Milke 1968</a>: <span><em>*piso</em> 'k.o. reed'</span>)
 </td>
 </tr>
 <tr>
@@ -1803,7 +1803,7 @@ The reconstruction below originates with [French-Wright](../sources/FrenchWright
 </tr>
 <tr>
 <td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>fiso</i></td>
-<td>'<span>a large reed, <em>Erianthus maximus</em>; stems contain sugar</span>' (<a href="../sources/Whistler2000">Whistler2000: 165</a>)
+<td>'<span>a large reed, <em>Erianthus maximus</em>; stems contain sugar</span>' (<a href="../sources/Whistler2000">Whistler 2000: 165</a>)
 </td>
 </tr>
 <tr>

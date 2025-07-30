@@ -90,7 +90,18 @@ def run(args):
 
     def eg(egid):
         q = """
-            select gr.number, gr.cldf_comment, ex.label, l.cldf_name, l.`Group`, ex.cldf_analyzedWord, ex.cldf_gloss, ex.cldf_translatedText, ex.cldf_comment, exs.SourceTable_id, ex.Reference_Label \
+            select gr.number, 
+                   gr.cldf_comment as 'gcmt', 
+                   ex.label, 
+                   l.cldf_name as 'lname', 
+                   l.`Group`, 
+                   ex.cldf_analyzedWord as 'aw', 
+                   ex.cldf_gloss as 'gloss', 
+                   ex.Movement_Gloss as 'mgloss', 
+                   ex.cldf_translatedText as 'tt', 
+                   ex.cldf_comment as 'cmt', 
+                   exs.SourceTable_id as 'srcid', 
+                   ex.Reference_Label as 'pages'\
             from ExampleTable as ex \
                      join `examplegroups.csv_ExampleTable` as eggr on (ex.cldf_id = eggr.ExampleTable_cldf_id) \
                      join `examplegroups.csv` as gr on (gr.cldf_id = eggr.`examplegroups.csv_cldf_id`) \
@@ -98,20 +109,23 @@ def run(args):
                      left join ExampleTable_SourceTable as exs on ex.cldf_id = exs.ExampleTable_cldf_id
             where gr.cldf_id = ? \
             """
-        num, ctx, ex, labels = None, None, [], False
+        num, ctx, exs, labels = None, None, [], False
         rows = db.query(q, (egid,))
         for row in rows:
-            row = list(row)
-            if row[0]:
-                num = row[0]
-            if row[1]:
-                ctx = row[1]
-            if row[2]:
+            if row['number']:
+                num = row['number']
+            if row['gcmt']:
+                ctx = row['gcmt']
+            if row['label']:
                 labels = True
-            row[5] = [s.replace('[', r'\[').replace(']', r'\]') for s in row[5].split()]
-            row[6] = [s.replace('[', r'\[').replace(']', r'\]') for s in row[6].split()]
-            ex.append(row[3:])
-        return num, ctx, labels, ex
+            ex = [row['lname'], row['Group']]
+            ex.extend([
+                [s.replace('[', r'\[').replace(']', r'\]') for s in row['aw'].split()],
+                [s.replace('[', r'\[').replace(']', r'\]') for s in row['gloss'].split()],
+                [s.replace('[', r'\[').replace(']', r'\]') for s in row['mgloss'].split()]])
+            ex.extend([row['tt'], row['cmt'], row['srcid'], row['pages']])
+            exs.append(ex)
+        return num, ctx, labels, exs
 
     def f(rid):
         # `cognatesetreferences.csv_FormTable`
@@ -124,7 +138,8 @@ select f.cldf_id as id,
        l.is_proto, 
        f.cldf_value as form, 
        f.Morpheme_Gloss as mg,
-       csr.footnote_numbers as fn
+       csr.footnote_numbers as fn,
+       csr.subgroup_mapping as sg
 from 
   `cognatesetreferences.csv_FormTable` as csrf 
   join formtable as f on (csrf.formtable_cldf_id = f.cldf_id)
@@ -133,17 +148,18 @@ from
     join cognatetable as c on csr.cldf_cognatesetReference = c.cldf_cognatesetReference and c.cldf_formReference = f.cldf_id
 where csrf.`cognatesetreferences.csv_cldf_id` = ?
 """
-        res, fn = [], None
+        res, fn, sg = [], None, {}
         for i, row in enumerate(db.query(q, (rid,))):
             if i == 0:
                 fn = row['fn']
+                sg = row['sg']
             r = list(row)
             if row['is_proto']:
                 r[5] = ', '.join('&ast;' + f.strip() for f in row['form'].split(', '))
                 if '](' in r[5]:
                     r[5] = r[5].replace('[', '&#91;')
             res.append(r)
-        return res, json.loads(fn or '{}')
+        return res, json.loads(fn or '{}'), json.loads(sg or '{}')
 
     def cfs(rid):
         q = """
@@ -159,6 +175,7 @@ where csrf.`cognatesetreferences.csv_cldf_id` = ?
                    g.Part_Of_Speech as gpos, \
                    gs.SourceTable_id as srcid, \
                    gs.context as pages, \
+                   s.key, 
                     c.footnote_number as fn
             from `cf.csv` as cf \
                      join `cfitems.csv` as c on (cf.cldf_id = c.Cfset_ID) \
@@ -168,6 +185,7 @@ where csrf.`cognatesetreferences.csv_cldf_id` = ?
                      left join `glosses.csv` as g on cfg.`glosses.csv_cldf_id` = g.cldf_id
                      left join `glosses.csv_SourceTable` as gs \
                                on gs.`glosses.csv_cldf_id` = g.cldf_id
+                     left join SourceTable as s on (gs.SourceTable_id = s.id)
             where cf.cognatesetreference_id = ?
             order by cf.cldf_id, c.ordinal \
             """
@@ -181,7 +199,7 @@ where csrf.`cognatesetreferences.csv_cldf_id` = ?
                 for (g, cmt, pos), sources in itertools.groupby(
                         glosses, lambda r: (r['gloss'], r['gcomment'], r['gpos'])):
                     res[(cfid, rows[0]['name'])][-1][-2].append(
-                        (g, cmt, pos, [(r['srcid'], r['pages']) for r in sources if r['srcid']]))
+                        (g, cmt, pos, [(r['srcid'], r['pages'], r['key']) for r in sources if r['srcid']]))
         return collections.OrderedDict(
             ((k[0], (k[1] or '').replace('*', '&ast;')), v) for k, v in res.items())
 
@@ -198,7 +216,8 @@ select l.`Group` as `group`,
        g.cldf_comment as gcomment, 
        g.Part_Of_Speech as pos, 
        gs.SourceTable_id as srcid, 
-       gs.context as pages
+       gs.context as pages,
+       s.key
 from 
       `cf.csv` as cf
       join `cfitems.csv` as c on (cf.cldf_id = c.Cfset_ID)
@@ -207,6 +226,7 @@ from
       left join `cfitems.csv_glosses.csv` as cfg on c.cldf_id = cfg.`cfitems.csv_cldf_id`
       left join `glosses.csv` as g on cfg.`glosses.csv_cldf_id` = g.cldf_id
       left join `glosses.csv_SourceTable` as gs on gs.`glosses.csv_cldf_id` = g.cldf_id
+      left join SourceTable as s on (gs.SourceTable_id = s.id)
 where cf.cldf_id = ?
 """
         res = []
@@ -219,7 +239,7 @@ where cf.cldf_id = ?
                 with_morpheme_gloss = True
             for (g, cmt, pos), sources in itertools.groupby(
                     glosses, lambda r: (r['gloss'], r['gcomment'], r['pos'])):
-                res[-1][-1].append((g, cmt, pos, [(r['srcid'], r['pages']) for r in sources if r['srcid']]))
+                res[-1][-1].append((g, cmt, pos, [(r['srcid'], r['pages'], r['key']) for r in sources if r['srcid']]))
         # FIXME: determine whether there are non-empty morpheme glosses!
         return res, with_morpheme_gloss
 
@@ -227,11 +247,11 @@ where cf.cldf_id = ?
         def iter_glosses(rows):
             for (g, cmt, pos, qual), srcs in itertools.groupby(rows, lambda row: row[1:5]):
                 yield (
-                    g or '',
+                    (g or '').replace('*', '&ast;'),
                     (cmt or '').replace('<', '&lt;').replace('*', '&ast;'),
                     pos,
                     first_as_html_entity(qual),
-                    [(row[-2], row[-1]) for row in srcs if row[-2]])
+                    [(row[-3], row[-2], row[-1]) for row in srcs if row[-3]])
 
         q = """
 select g.cldf_formReference, 
@@ -239,15 +259,19 @@ select g.cldf_formReference,
        g.cldf_comment, 
        g.Part_Of_Speech, 
        g.qualifier,
-       gs.SourceTable_id, gs.context
+       gs.SourceTable_id, 
+       gs.context,
+       s.key
 from 
       `cognatesetreferences.csv_glosses.csv` as csrg 
       join `glosses.csv` as g on csrg.`glosses.csv_cldf_id` = g.cldf_id
       left join `glosses.csv_SourceTable` as gs on gs.`glosses.csv_cldf_id` = g.cldf_id
+      left join SourceTable as s on gs.SourceTable_id = s.id
 where csrg.`cognatesetreferences.csv_cldf_id` = ?
 order by g.cldf_formReference
 """
         return {fid: list(iter_glosses(rows)) for fid, rows in itertools.groupby(db.query(q, (rid,)), lambda r: r[0])}
+
 
     def pandoc(input, md):
         subprocess.check_call(shlex.split(

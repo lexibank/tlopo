@@ -37,7 +37,7 @@ The POc term &ast;topu 'sugarcane, _Saccharum officinarum_' continues PAn &ast;t
 <td style="white-space: nowrap;">
 <i>&ast;tebuS</i>
 </td>
-<td>'<span>sugarcane</span>' (<a href="../sources/Blust1969">Blust1969</a>)
+<td>'<span>sugarcane</span>' (<a href="../sources/Blust1969">Blust 1969</a>)
 </td>
 </tr>
 <tr>
@@ -334,7 +334,7 @@ Frantisek [Lichtenberk](../sources/Lichtenberk1998) ([1998](../sources/Lichtenbe
 <td style="white-space: nowrap;">
 <i>&ast;buaq</i>
 </td>
-<td>'<span>fruit</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>fruit</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -357,7 +357,7 @@ Frantisek [Lichtenberk](../sources/Lichtenberk1998) ([1998](../sources/Lichtenbe
 </tr>
 <tr>
 <td>Adm</td><td><a href="../languages/loniu">Loniu</a></td><td style="white-space: nowrap;"><i>bue</i></td>
-<td>'<span><em>Areca catechu</em></span>' (<a href="../sources/Nevermann1934">Nevermann1934</a>)
+<td>'<span><em>Areca catechu</em></span>' (<a href="../sources/Nevermann1934">Nevermann 1934</a>)
 </td>
 </tr>
 <tr>
@@ -566,7 +566,7 @@ The reconstruction of POc &ast;[pu-]pulu 'betel pepper, _Piper betle_' is taken 
 </tr>
 <tr>
 <td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td style="white-space: nowrap;"><i>vu-vulu</i></td>
-<td>'<span>betel pepper, <em>Piper betle</em></span>' (<a href="../sources/HendersonandHancock1988">HendersonandHancock1988</a>)
+<td>'<span>betel pepper, <em>Piper betle</em></span>' (<a href="../sources/HendersonandHancock1988">Henderson and Hancock 1988</a>)
 </td>
 </tr>
 </table>
@@ -578,7 +578,7 @@ The reconstruction of POc &ast;[pu-]pulu 'betel pepper, _Piper betle_' is taken 
 
 <table id="3-13-2-2-395-ProtoMesoMelanesian-siqarra-a">
 <tr>
-<td><strong>ProtoMesoMelanesian</strong></td><td> </td>
+<td><strong>Proto Meso-Melanesian</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;siqa(r,R)(a)</i>
 </td>
@@ -663,12 +663,12 @@ The best supported hypothesis appears to be that _Piper methysticum_ is a domest
 <td style="white-space: nowrap;">
 <i>&ast;kawaRi</i>
 </td>
-<td>'<span>root(s) with special properties: one or more of <em>Zingiber zerumbet</em>, <em>Piper subbullatum</em>, and various fish-poison plants</span>' (<a href="../sources/Lynch2002f">Lynch2002f</a>)
+<td>'<span>root(s) with special properties: one or more of <em>Zingiber zerumbet</em>, <em>Piper subbullatum</em>, and various fish-poison plants</span>' (<a href="../sources/Lynch2002f">Lynch 2002f</a>)
 [^4]</td>
 </tr>
 <tr>
 <td>Adm</td><td><a href="../languages/baluan">Baluan</a></td><td style="white-space: nowrap;"><i>kau</i></td>
-<td>'<span><em>Piper subbullatum</em></span>' (<a href="../sources/Ambrose1991">Ambrose1991</a>)
+<td>'<span><em>Piper subbullatum</em></span>' (<a href="../sources/Ambrose1991">Ambrose 1991</a>)
 </td>
 </tr>
 <tr>
@@ -703,7 +703,7 @@ The best supported hypothesis appears to be that _Piper methysticum_ is a domest
 <td style="white-space: nowrap;">
 <i>&ast;kea</i>
 </td>
-<td>'<span>kava; sour, bitter</span>' (<a href="../sources/Lynch2004a">Lynch2004a</a>)
+<td>'<span>kava; sour, bitter</span>' (<a href="../sources/Lynch2004a">Lynch 2004a</a>)
 </td>
 </tr>
 <tr>
@@ -1009,7 +1009,7 @@ Among languages which retain a reflex of the final consonant, Mussau and Petats 
 <td style="white-space: nowrap;">
 <i>&ast;qauR</i>
 </td>
-<td>'<span>bamboo sp.</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>bamboo sp.</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -1017,7 +1017,7 @@ Among languages which retain a reflex of the final consonant, Mussau and Petats 
 <td style="white-space: nowrap;">
 <i>&ast;qauR</i>
 </td>
-<td>'<span>type of large bamboo</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>type of large bamboo</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -1301,7 +1301,7 @@ The two reconstructions below are better supported by non-Oceanic than by Oceani
 <td style="white-space: nowrap;">
 <i>&ast;bituŋ, &ast;pituŋ</i>
 </td>
-<td>'<span>bamboo sp.</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>bamboo sp.</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -1309,7 +1309,7 @@ The two reconstructions below are better supported by non-Oceanic than by Oceani
 <td style="white-space: nowrap;">
 <i>&ast;bitu(ŋ)</i>
 </td>
-<td>'<span>bamboo sp.</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>bamboo sp.</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -1317,7 +1317,7 @@ The two reconstructions below are better supported by non-Oceanic than by Oceani
 <td style="white-space: nowrap;">
 <i>&ast;bitu</i>
 </td>
-<td>'<span>bamboo sp., probably <em>Schizostachyum glaucifolium</em></span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>bamboo sp., probably <em>Schizostachyum glaucifolium</em></span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -1342,7 +1342,7 @@ The two reconstructions below are better supported by non-Oceanic than by Oceani
 <td style="white-space: nowrap;">
 <i>&ast;betuŋ</i>
 </td>
-<td>'<span>bamboo of very large diameter, probably <em>Dendrocalamus</em> sp.</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>bamboo of very large diameter, probably <em>Dendrocalamus</em> sp.</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -1415,7 +1415,7 @@ The only non-WOe evidence for POc _&ast;bʷele_ 'bamboo' is from Lonwolwol (NCV)
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td style="white-space: nowrap;"><i>bele</i></td>
-<td>'<span>small cultivated bamboo used for thatching rods</span>' (<a href="../sources/Goodenough1997">Goodenough1997</a>)
+<td>'<span>small cultivated bamboo used for thatching rods</span>' (<a href="../sources/Goodenough1997">Goodenough 1997</a>)
 </td>
 </tr>
 <tr>
@@ -1442,7 +1442,7 @@ Hus (Adm) _ʙu_ 'bamboo' corresponds regularly with the NCV items below, implyin
 </tr>
 <tr>
 <td>Adm</td><td><a href="../languages/hus">Hus</a></td><td style="white-space: nowrap;"><i>ʙu</i></td>
-<td>'<span>bamboo</span>' (<a href="../sources/Nevermann1934">Nevermann1934</a>)
+<td>'<span>bamboo</span>' (<a href="../sources/Nevermann1934">Nevermann 1934</a>)
 </td>
 </tr>
 <tr>
@@ -1450,7 +1450,7 @@ Hus (Adm) _ʙu_ 'bamboo' corresponds regularly with the NCV items below, implyin
 <td style="white-space: nowrap;">
 <i>&ast;bue</i>
 </td>
-<td>'<span>(made of) bamboo</span>' (<a href="../sources/Clark1996">Clark1996</a>)
+<td>'<span>(made of) bamboo</span>' (<a href="../sources/Clark1996">Clark 1996</a>)
 </td>
 </tr>
 <tr>
@@ -1530,7 +1530,7 @@ POc _&ast;tuRi-tuRi_ '_Aleurites moluccana_' is reconstructed below. It is quite
 <td style="white-space: nowrap;">
 <i>&ast;tuRi-tuRi</i>
 </td>
-<td>'<span>candlenut tree, <em>Aleurites moluccana</em></span>' (<span>?</span>) (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>candlenut tree, <em>Aleurites moluccana</em></span>' (<span>?</span>) (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -1633,7 +1633,7 @@ POc _&ast;malo_ probably denoted _Broussonetia papyrifera_, the tree which throu
 <td style="white-space: nowrap;">
 <i>&ast;malo</i>
 </td>
-<td>'<span>paper mulberry, <em>Broussonetia papyrifera</em>; barkcloth, loincloth</span>' (<a href="../sources/Milke1968">Milke1968</a>)
+<td>'<span>paper mulberry, <em>Broussonetia papyrifera</em>; barkcloth, loincloth</span>' (<a href="../sources/Milke1968">Milke 1968</a>)
 </td>
 </tr>
 <tr>
@@ -1650,7 +1650,7 @@ POc _&ast;malo_ probably denoted _Broussonetia papyrifera_, the tree which throu
 </tr>
 <tr>
 <td>NNG</td><td><a href="../languages/manam">Manam</a></td><td style="white-space: nowrap;"><i>malo</i></td>
-<td>'<span>barkcloth belt from dodoli tree, given to a boy at first initiation</span>' (<a href="../sources/Bohm1983">Bohm1983: 81</a>)
+<td>'<span>barkcloth belt from dodoli tree, given to a boy at first initiation</span>' (<a href="../sources/Bohm1983">Böhm 1983: 81</a>)
 </td>
 </tr>
 <tr>
@@ -1709,7 +1709,7 @@ POc _&ast;malo_ probably denoted _Broussonetia papyrifera_, the tree which throu
 <td style="white-space: nowrap;">
 <i>&ast;(m,mʷ)ase</i>
 </td>
-<td>'<span>wild mulberry, paper mulberry, <em>Broussonetia papyrifera</em></span>' (<a href="../sources/Ross1996d">Ross1996d</a>)
+<td>'<span>wild mulberry, paper mulberry, <em>Broussonetia papyrifera</em></span>' (<a href="../sources/Ross1996d">Ross 1996d</a>)
 </td>
 </tr>
 <tr>
@@ -1762,12 +1762,12 @@ The distributions of POc _&ast;ñoñu_ and _&ast;kurat_ are complementary: _&ast
 <td style="white-space: nowrap;">
 <i>&ast;ñoñu</i>
 </td>
-<td>'<span><em>Morinda citrifolia</em></span>' (<a href="../sources/Blust1978b">Blust1978b</a>; <a href="../sources/Milke1965">Milke1965</a>: <span><em>*nonum</em></span>)
+<td>'<span><em>Morinda citrifolia</em></span>' (<a href="../sources/Blust1978b">Blust 1978b</a>; <a href="../sources/Milke1965">Milke 1965</a>: <span><em>*nonum</em></span>)
 </td>
 </tr>
 <tr>
 <td>Adm</td><td><a href="../languages/seimat">Seimat</a></td><td style="white-space: nowrap;"><i>naun</i></td>
-<td>'<span><em>Morinda citrifolia</em></span>' (<span><em>&ast;-o-</em> &gt; Seimat <em>-au-</em></span>) (<a href="../sources/Sorensen1950">Sorensen1950</a>)
+<td>'<span><em>Morinda citrifolia</em></span>' (<span><em>&ast;-o-</em> &gt; Seimat <em>-au-</em></span>) (<a href="../sources/Sorensen1950">Sorensen 1950</a>)
 </td>
 </tr>
 <tr>
@@ -1840,7 +1840,7 @@ The distributions of POc _&ast;ñoñu_ and _&ast;kurat_ are complementary: _&ast
 <td style="white-space: nowrap;">
 <i>&ast;kurat</i>
 </td>
-<td>'<span>the dye produced from <em>Morinda citrifolia</em></span>' (<a href="../sources/Geraghty2004">Geraghty2004</a>)
+<td>'<span>the dye produced from <em>Morinda citrifolia</em></span>' (<a href="../sources/Geraghty2004">Geraghty 2004</a>)
 </td>
 </tr>
 <tr>
@@ -1900,7 +1900,7 @@ The distributions of POc _&ast;ñoñu_ and _&ast;kurat_ are complementary: _&ast
 </tr>
 <tr>
 <td>NCV</td><td><a href="../languages/raga">Raga</a></td><td style="white-space: nowrap;"><i>ɣuresi</i></td>
-<td>'<span><em>Morinda citrifolia</em></span>' (<a href="../sources/Walsh2004">Walsh2004</a>)
+<td>'<span><em>Morinda citrifolia</em></span>' (<a href="../sources/Walsh2004">Walsh 2004</a>)
 [^13]</td>
 </tr>
 <tr>
@@ -1928,7 +1928,7 @@ The distributions of POc _&ast;ñoñu_ and _&ast;kurat_ are complementary: _&ast
 <td style="white-space: nowrap;">
 <i>&ast;na-ɣura(t,c)</i>
 </td>
-<td>'<span><em>Morinda citrifolia</em></span>' (<a href="../sources/Lynch2001c">Lynch2001c</a>)
+<td>'<span><em>Morinda citrifolia</em></span>' (<a href="../sources/Lynch2001c">Lynch 2001c</a>)
 </td>
 </tr>
 <tr>
@@ -2013,7 +2013,7 @@ but I am unable to determine how they differed in meaning from each other or fro
 <td style="white-space: nowrap;">
 <i>&ast;tuba</i>
 </td>
-<td>'<span><em>Derris</em> fish poison</span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>)
+<td>'<span><em>Derris</em> fish poison</span>' (<a href="../sources/Dempwolff1938">Dempwolff 1938</a>)
 </td>
 </tr>
 <tr>
@@ -2021,12 +2021,12 @@ but I am unable to determine how they differed in meaning from each other or fro
 <td style="white-space: nowrap;">
 <i>&ast;tupa</i>
 </td>
-<td>'<span>climbing shrubs, <em>Derris</em> spp.</span>' (<a href="../sources/Capell1943">Capell1943</a>)
+<td>'<span>climbing shrubs, <em>Derris</em> spp.</span>' (<a href="../sources/Capell1943">Capell 1943</a>)
 </td>
 </tr>
 <tr>
 <td>Adm</td><td><a href="../languages/seimat">Seimat</a></td><td style="white-space: nowrap;"><i>tu[hi]</i></td>
-<td>'<span><em>Derris</em> sp.</span>' (<a href="../sources/Sorensen1950">Sorensen1950</a>)
+<td>'<span><em>Derris</em> sp.</span>' (<a href="../sources/Sorensen1950">Sorensen 1950</a>)
 </td>
 </tr>
 <tr>
@@ -2090,7 +2090,7 @@ but I am unable to determine how they differed in meaning from each other or fro
 <td style="white-space: nowrap;">
 <i>&ast;(i)tuv</i>
 </td>
-<td>'<span><em>Derris</em> sp. usually trifoliata</span>' (<a href="../sources/Lynch2004a">Lynch2004a</a>)
+<td>'<span><em>Derris</em> sp. usually trifoliata</span>' (<a href="../sources/Lynch2004a">Lynch 2004a</a>)
 </td>
 </tr>
 <tr>
@@ -2222,7 +2222,7 @@ PWOc _&ast;(m,mʷ)ali_ (incorrectly given as _&ast;maRi_ in [vol. 1, ch.8, §7](
 <td style="white-space: nowrap;">
 <i>&ast;na-vup</i>
 </td>
-<td>'<span>k.o. vine</span>' (<a href="../sources/Lynch2001c">Lynch2001c</a>: <span>236</span>)
+<td>'<span>k.o. vine</span>' (<a href="../sources/Lynch2001c">Lynch 2001c</a>: <span>236</span>)
 </td>
 </tr>
 <tr>
@@ -2238,7 +2238,7 @@ PWOc _&ast;(m,mʷ)ali_ (incorrectly given as _&ast;maRi_ in [vol. 1, ch.8, §7](
 <td style="white-space: nowrap;">
 <i>&ast;upa</i>
 </td>
-<td>'<span><em>Derris</em> vine</span>' (<a href="../sources/Benderetal2003">Benderetal2003</a>)
+<td>'<span><em>Derris</em> vine</span>' (<a href="../sources/Benderetal2003">Bender et al. 2003</a>)
 </td>
 </tr>
 <tr>
@@ -2298,7 +2298,7 @@ There are two reconstructions, POc _&ast;yaŋo_ and PEOc _&ast;re(ŋ,ŋʷ)a_. Th
 <td style="white-space: nowrap;">
 <i>&ast;yaŋo</i>
 </td>
-<td>'<span>turmeric, <em>Curcuma longa</em></span>' (<a href="../sources/Milke1968">Milke1968</a>)
+<td>'<span>turmeric, <em>Curcuma longa</em></span>' (<a href="../sources/Milke1968">Milke 1968</a>)
 </td>
 </tr>
 <tr>
@@ -2380,7 +2380,7 @@ The root above was the source of the POc term for 'yellow', _&ast;yaŋo-yaŋo_:
 <td style="white-space: nowrap;">
 <i>&ast;yaŋo-yaŋo</i>
 </td>
-<td>'<span>yellow</span>' (<a href="../sources/Grace1969">Grace1969</a>)
+<td>'<span>yellow</span>' (<a href="../sources/Grace1969">Grace 1969</a>)
 </td>
 </tr>
 <tr>
@@ -2437,7 +2437,7 @@ The root above was the source of the POc term for 'yellow', _&ast;yaŋo-yaŋo_:
 <td style="white-space: nowrap;">
 <i>&ast;[re]reŋʷa</i>
 </td>
-<td>'<span>yellow material, prepared turmeric(?)</span>' (<a href="../sources/Biggs1965">Biggs1965</a>: <span><em>*reŋa</em></span>)
+<td>'<span>yellow material, prepared turmeric(?)</span>' (<a href="../sources/Biggs1965">Biggs 1965</a>: <span><em>*reŋa</em></span>)
 </td>
 </tr>
 <tr>
@@ -2474,7 +2474,7 @@ The root above was the source of the POc term for 'yellow', _&ast;yaŋo-yaŋo_:
 </tr>
 <tr>
 <td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>leŋa</i></td>
-<td>'<span>yellow dye from turmeric</span>' (<a href="../sources/Whistler2000">Whistler2000: 177</a>)
+<td>'<span>yellow dye from turmeric</span>' (<a href="../sources/Whistler2000">Whistler 2000: 177</a>)
 </td>
 </tr>
 <tr>
@@ -2527,7 +2527,7 @@ Two POc terms are reconstructed below. The gloss of the first, _&ast;laqia_, rem
 <td style="white-space: nowrap;">
 <i>&ast;laqia</i>
 </td>
-<td>'<span>ginger, <em>Zingiber officinale</em> (?)</span>' (<a href="../sources/FrenchWright1983">FrenchWright1983</a>)
+<td>'<span>ginger, <em>Zingiber officinale</em> (?)</span>' (<a href="../sources/FrenchWright1983">French-Wright 1983</a>)
 </td>
 </tr>
 <tr>
@@ -2560,7 +2560,7 @@ Two POc terms are reconstructed below. The gloss of the first, _&ast;laqia_, rem
 </tr>
 <tr>
 <td>NNG</td><td><a href="../languages/kairiru">Kairiru</a></td><td style="white-space: nowrap;"><i>lakea</i></td>
-<td>'<span>Curcuma spp.</span>' (<a href="../sources/Borrell1989">Borrell1989: 42</a>)
+<td>'<span>Curcuma spp.</span>' (<a href="../sources/Borrell1989">Borrell 1989: 42</a>)
 </td>
 </tr>
 <tr>
@@ -2722,12 +2722,12 @@ Three other etyma are reconstructed below: POc _&ast;jiRi_, _&ast;kaRi(q)a_ and 
 <td style="white-space: nowrap;">
 <i>&ast;mʷa(r,R)e</i>
 </td>
-<td>'<span>taxon including <em>Codiaeum variegatum</em> and <em>Cordyline fruticosa</em></span>' (<a href="../sources/Chowning1963">Chowning1963</a>: <span><em>*male</em></span>; <a href="../sources/Ross1996d">Ross1996d</a>)
+<td>'<span>taxon including <em>Codiaeum variegatum</em> and <em>Cordyline fruticosa</em></span>' (<a href="../sources/Chowning1963">Chowning 1963</a>: <span><em>*male</em></span>; <a href="../sources/Ross1996d">Ross 1996d</a>)
 </td>
 </tr>
 <tr>
 <td>NNG</td><td><a href="../languages/kove">Kove</a></td><td style="white-space: nowrap;"><i>mohe</i></td>
-<td>'<span><em>Cordyline</em> sp.</span>' (<a href="../sources/Chowning1996">Chowning1996: 17</a>)
+<td>'<span><em>Cordyline</em> sp.</span>' (<a href="../sources/Chowning1996">Chowning 1996: 17</a>)
 </td>
 </tr>
 <tr>
@@ -2756,12 +2756,12 @@ Three other etyma are reconstructed below: POc _&ast;jiRi_, _&ast;kaRi(q)a_ and 
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td style="white-space: nowrap;"><i>male-male</i></td>
-<td>'<span><em>Cordyline</em> sp.</span>' (<a href="../sources/Chowning1996">Chowning1996: 17</a>)
+<td>'<span><em>Cordyline</em> sp.</span>' (<a href="../sources/Chowning1996">Chowning 1996: 17</a>)
 </td>
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td style="white-space: nowrap;"><i>ma-male</i></td>
-<td>'<span><em>Cananga odorata</em> (like <em>Cordyline</em> used for personal adornment)</span>' (<a href="../sources/Floyd1954">Floyd1954</a>)
+<td>'<span><em>Cananga odorata</em> (like <em>Cordyline</em> used for personal adornment)</span>' (<a href="../sources/Floyd1954">Floyd 1954</a>)
 </td>
 </tr>
 <tr>
@@ -2807,7 +2807,7 @@ cf. also:
 <td style="white-space: nowrap;">
 <i>&ast;siRi</i>
 </td>
-<td>'<span><em>Cordyline</em> sp., <em>Dracaena</em> sp.</span>' (<a href="../sources/Blust1989">Blust1989</a>)
+<td>'<span><em>Cordyline</em> sp., <em>Dracaena</em> sp.</span>' (<a href="../sources/Blust1989">Blust 1989</a>)
 </td>
 </tr>
 <tr>
@@ -2815,7 +2815,7 @@ cf. also:
 <td style="white-space: nowrap;">
 <i>&ast;jiRi</i>
 </td>
-<td>'<span>taxon consisting of <em>Cordyline fruticosa</em> and <em>Dracaena angustifolia</em></span>' (<a href="../sources/Milke1968">Milke1968</a>: <span><em>*diRi</em></span>; <a href="../sources/Ross1988">Ross1988</a>)
+<td>'<span>taxon consisting of <em>Cordyline fruticosa</em> and <em>Dracaena angustifolia</em></span>' (<a href="../sources/Milke1968">Milke 1968</a>: <span><em>*diRi</em></span>; <a href="../sources/Ross1988">Ross 1988</a>)
 </td>
 </tr>
 <tr>
@@ -2912,7 +2912,7 @@ cf. also:
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td style="white-space: nowrap;"><i>ir</i></td>
-<td>'<span>leaf of the croton</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>leaf of the croton</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -3053,7 +3053,7 @@ Medial parenthesised _&ast;-q-_ is reconstructed in POc _&ast;kaRi(q)a_ on the a
 </tr>
 <tr>
 <td>NNG</td><td><a href="../languages/tami">Tami</a></td><td style="white-space: nowrap;"><i>kali-kali</i></td>
-<td>'<span><em>Codiaeum variegatum</em></span>' (<a href="../sources/Dempwolff1902">Dempwolff1902</a>)
+<td>'<span><em>Codiaeum variegatum</em></span>' (<a href="../sources/Dempwolff1902">Dempwolff 1902</a>)
 </td>
 </tr>
 <tr>
@@ -3219,12 +3219,12 @@ cf. also:
 </tr>
 <tr>
 <td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td style="white-space: nowrap;"><i>ðaða</i></td>
-<td>'<span><em>Codiaeum variegatum</em></span>' (<a href="../sources/Geraghty2004">Geraghty2004: 79</a>)
+<td>'<span><em>Codiaeum variegatum</em></span>' (<a href="../sources/Geraghty2004">Geraghty 2004: 79</a>)
 </td>
 </tr>
 <tr>
 <td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td style="white-space: nowrap;"><i>sasa</i></td>
-<td>'<span><em>Codiaeum variegatum</em></span>' (<a href="../sources/Geraghty2004">Geraghty2004: 79</a>)
+<td>'<span><em>Codiaeum variegatum</em></span>' (<a href="../sources/Geraghty2004">Geraghty 2004: 79</a>)
 </td>
 </tr>
 </table>
@@ -3294,7 +3294,7 @@ The leaves are used for covering and sealing the stone oven because of their thi
 <td style="white-space: nowrap;">
 <i>&ast;rako</i>
 </td>
-<td>'<span><em>Heliconia</em> sp., usually <em>Heliconia indica</em></span>' (<a href="../sources/Lynch2004a">Lynch2004a</a>: <span>PSOc <em>*rau</em></span>)
+<td>'<span><em>Heliconia</em> sp., usually <em>Heliconia indica</em></span>' (<a href="../sources/Lynch2004a">Lynch 2004a</a>: <span>PSOc <em>*rau</em></span>)
 </td>
 </tr>
 <tr>
@@ -3355,7 +3355,7 @@ The forms listed below are clearly cognate, but it is not clear whether or how m
 <td style="white-space: nowrap;">
 <i>&ast;mʷalak</i>
 </td>
-<td>'<span>spider lily, <em>Crinum asiaticum</em></span>' (<a href="../sources/Lynch2004a">Lynch2004a</a>)
+<td>'<span>spider lily, <em>Crinum asiaticum</em></span>' (<a href="../sources/Lynch2004a">Lynch 2004a</a>)
 </td>
 </tr>
 <tr>
@@ -3465,7 +3465,7 @@ This finding is not at odds with the historical fact that the modern pumpkin was
 
 <table id="3-13-7-3-425-EarlyOceanic-waluq-a">
 <tr>
-<td><strong>EarlyOceanic</strong></td><td> </td>
+<td><strong>Early Oceanic</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;waluq, &ast;[w]aruq</i>
 </td>
@@ -3549,7 +3549,7 @@ Shown in parentheses below are irregular phonological developments, implying tha
 <td style="white-space: nowrap;">
 <i>&ast;[ka]timun</i>
 </td>
-<td>'<span>cucurbit (generic); cucumber, <em>Cucumis sativus</em></span>' (<a href="../sources/Dempwolff1938">Dempwolff1938</a>: <span><em>*timun</em></span>)
+<td>'<span>cucurbit (generic); cucumber, <em>Cucumis sativus</em></span>' (<a href="../sources/Dempwolff1938">Dempwolff 1938</a>: <span><em>*timun</em></span>)
 </td>
 </tr>
 <tr>
@@ -3557,7 +3557,7 @@ Shown in parentheses below are irregular phonological developments, implying tha
 <td style="white-space: nowrap;">
 <i>&ast;[ka]tim(o,u)n</i>
 </td>
-<td>'<span>Cucumis spp. (generic?); cucumber, <em>Cucumis sativus</em></span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>Cucumis spp. (generic?); cucumber, <em>Cucumis sativus</em></span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -3570,7 +3570,7 @@ Shown in parentheses below are irregular phonological developments, implying tha
 </tr>
 <tr>
 <td>NNG</td><td><a href="../languages/gitua">Gitua</a></td><td style="white-space: nowrap;"><i>karimon</i></td>
-<td>'<span>cucumber</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>cucumber</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>
@@ -3587,7 +3587,7 @@ Shown in parentheses below are irregular phonological developments, implying tha
 </tr>
 <tr>
 <td>PT</td><td><a href="../languages/motu">Motu</a></td><td style="white-space: nowrap;"><i>asemo</i></td>
-<td>'<span>small wild cucumber, Cucumis sp.</span>' (<a href="../sources/Blust1995">Blust1995</a>)
+<td>'<span>small wild cucumber, Cucumis sp.</span>' (<a href="../sources/Blust1995">ACD</a>)
 </td>
 </tr>
 <tr>

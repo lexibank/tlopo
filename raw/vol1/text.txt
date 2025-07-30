@@ -2014,7 +2014,7 @@ hypotheses that might be tested against evidence from archaeology and/or linguis
    For example, certain features of Austronesian settlements in Oceania were so widespread
 at first European contact, that one may reasonably ask whether these directly continued
 traditions established during the initial dispersal of Oceanic languages. Recurrent features
-noted in the literature (Forge 1972, Hogbin & Wedgewood 1953, Oliver 1989) include those
+noted in the literature (Forge 1972, Hogbin & Wedgwood 1953, Oliver 1989) include those
 set out below.
 
 44     Roger Green and Andrew Pawley
@@ -3996,7 +3996,7 @@ which referred to a node, protuberance, joint or knot (this word was also used w
 meaning 'tie a knot'; see Chapter 9, § 10):
 
 <
-PMP *buku 'node (as in bamboo or sugarcane); joint; knuckle; knot in wood, string or rope' (ACD)
+PMP *buku 'node (as in bamboo or sugarcane); joint; knuckle; knot in wood, string or rope' (ACD, Dempwolff 1938)
 POc *buku 'node (as in bamboo or sugarcane); joint; knuckle; knot in wood, string or rope' (ACD)
  NNG: Manam          buku             'mountain; knuckle'
  NNG: Gedaged        buku-n           'knot on the stem of a tree, or a knot tied in a cord; knob; tumor, haemorrhoids'
@@ -5592,7 +5592,7 @@ _*(b,bʷ)aku(r,R)_ was a verb.
 5.3.2 Fallow land
 
 <
-PMP *talun 'fallow land' (Blust 1972b)
+PMP *talun 'fallow land' (Blust 1972b, Dempwolff 1938)
 POc *talu(n) 'fallow land, land returning to secondary growth'
   SES:   Gela            talu              'forest land which has been previously cultivated'
   SES:   Kwaio           alu               'garden of second or third crop'
@@ -9050,7 +9050,7 @@ metal tools, it is likely that this knowledge spread after the break-up of PAn a
 7.2.5 Thwart, cross-seat
 
 <
-PMP *seŋkar 'cross-seat in boat, thwart' (after Blust 1972b)
+PMP *seŋkar 'cross-seat in boat, thwart' (Blust 1972b: *soka)
  WMP: Iban              seŋka
  WMP: Malay             seŋkar
  WMP: Tagalog           saŋkal
@@ -10349,7 +10349,7 @@ There is also a competing form that co-exists with _*utoŋ_ in the Central Pacif
 the cowrie shell which is sometimes used as a sinker:
 
 <
-PMP *buliq 'cowrie shell' (ACD)
+PMP *buliq 'cowrie shell' (ACD, Blust 1980b)
 POc *buli(q) 'cowrie shell; cowrie shell used as net sinker'
   SES: Sa'a          puli
   Pn:  Tuvalu        pule
@@ -13576,7 +13576,7 @@ POc *sapaki 'pluck off, break off (leaves) with the hand' (French-Wright 1983)
 >
 
 <
-PAn root *-pak 'break, crack, split' (Blust 1988: 135- 136)
+PAn root *-pak 'break, crack, split' (Blust 1988: 135-136)
 POc *paki 'pluck, break off (leaves) with the hand'
    Fij: Rotuman       haʔi               'pluck (feathers), pull out'
    Pn:  Tongan        faki               'pick, pluck, esp. banana, coconut'

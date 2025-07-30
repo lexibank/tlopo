@@ -415,22 +415,22 @@ three items (and for numerous others).[6] In each language all instances of init
 evolved “regularly”, i.e., in the same way.
 
 __table__
-            POc         |         _*papine_     |          _*pisiko_        |        _*pat[i]_ [7]  |       _*p-_
-                        |         ‘woman’     |          ‘meat, flesh’  |        ‘four’       |
-    Adm: Aua            |         _pifine_      |          _pirio_          |        —            |      _p-_
-    Adm: Baluan         |         _pein_        |          _pusio_          |        _pa-_        |      _p-_
-    NNG: Numbami        |         —             |          _wiso_           |        _wata_       |      _w-_
-    PT:  Kilivila       |         _vivila_      |          _viliy-na_       |        _-vasi_      |      _v-_
-    PT:  Yamalele       |         _vavine_      |          _viɣo_           |        —            |      _v-_
-    PT:  Sinaugoro      |         _vavine_      |          _vi-viɣo_        |        _vasi-vasi_  |      _v-_
-    PT:  Motu           |         _hahine_      |          _hidio_          |        _hani_       |      _h-_
-    MM: Tolai           |         _vavina_      |          _vio_            |        _-vat_       |      _v-_
-    MM: Vaghua          |         _vavene_      |          _vəzəɣo_         |        _-vac_       |      _v-_
-    SES: Arosi          |         _haihine_     |          _hasiʔo_         |        _hai_        |      _h-_
-    NCV: Mota           |         _vavine_      |          _visoɣo-i_       |        _vat_        |      _v-_
-    Mic: Woleaian       |         _faifile_     |          _fitixo_         |        _faa-_       |      _f-_
-    Fij: Wayan          |         _vavine_      |          _viðiko_         |        _vā_         |      _v-_
-    Pn:  Samoan         |         _fefine_      |          —              |        _fā_           |      _f-_
+         |    POc         | _*papine_   |   _*pisiko_      |  _*pat[i]_ [7] |       _*p-_
+         |                | ‘woman’     |   ‘meat, flesh’  |  ‘four’        |
+    Adm: | Aua            | _pifine_    |   _pirio_        |  —             |      _p-_
+    Adm: | Baluan         | _pein_      |   _pusio_        |  _pa-_         |      _p-_
+    NNG: | Numbami        | —           |   _wiso_         |  _wata_        |      _w-_
+    PT:  | Kilivila       | _vivila_    |   _viliy-na_     |  _-vasi_       |      _v-_
+    PT:  | Yamalele       | _vavine_    |   _viɣo_         |  —             |      _v-_
+    PT:  | Sinaugoro      | _vavine_    |   _vi-viɣo_      |  _vasi-vasi_   |      _v-_
+    PT:  | Motu           | _hahine_    |   _hidio_        |  _hani_        |      _h-_
+    MM:  | Tolai          | _vavina_    |   _vio_          |  _-vat_        |      _v-_
+    MM:  | Vaghua         | _vavene_    |   _vəzəɣo_       |  _-vac_        |      _v-_
+    SES: | Arosi          | _haihine_   |   _hasiʔo_       |  _hai_         |      _h-_
+    NCV: | Mota           | _vavine_    |   _visoɣo-i_     |  _vat_         |      _v-_
+    Mic: | Woleaian       | _faifile_   |   _fitixo_       |  _faa-_        |      _f-_
+    Fij: | Wayan          | _vavine_    |   _viðiko_       |  _vā_          |      _v-_
+    Pn:  | Samoan         | _fefine_    |   —              |  _fā_          |      _f-_
 
 The grouping to which each language belongs is indicated by an abbreviation on the left
 (§1.5.1).
@@ -491,7 +491,7 @@ In Figure 1.1 each node is, with one minor exception, either a single language, 
 reconstructed protolanguage, or, in italics, a group of languages. The exception is the
 two very closely related languages Mussau and Tench.
 
-                                                                 .           .
+11 M
 
 Figure 1.1: Schematic diagram showing the subgrouping of Oceanic Austronesian languages.
 
@@ -1080,7 +1080,7 @@ reconstructed in parentheses, e.g. POc _*palau(r)_ ‘go to sea, make a sea voya
                                                                                     Introduction 25
 
 
-: Table 1.1. Bracketing and segmentation conventions in protoforms
+: __Table 1.1.__ Bracketing and segmentation conventions in protoforms
 
 __tablenh__
        (x)        |  it cannot be determined whether x was present
@@ -1089,7 +1089,7 @@ __tablenh__
         [x,y]     |  the item is reconstructable in two forms, one with x and one with y
         x-y       |  x and y are separate morphemes
         x-        |  x takes an enclitic or a suffix
-        ‹x›       |  x is an infix
+        ⟨x⟩       |  x is an infix
 
 
    In presenting words that display anomalies of form, it is often necessary to posit an
@@ -1133,7 +1133,7 @@ second (in _*-i-_) transitive.
 26 Malcolm Ross, Andrew Pawley and Meredith Osmond
 
 
-: Table 1.2. POc consonants used in reconstructions in the six volumes of this work.
+: __Table 1.2.__ POc consonants used in reconstructions in the six volumes of this work.
 
 __table__
                    | labialised bilabial |  bilabial | dental | alveolar |  palatal | velar | labialised velar | uvular
@@ -1161,8 +1161,8 @@ fossilisation of earlier morphology in POc forms (vol. 5:26–30).
 1.7 Proto Oceanic phonology and orthography
 
    Work based on the sound correspondences of both Oceanic and non-Oceanic
-languages has resulted in the reconstructed paradigm of POc consonants shown in Table
-1.2. A number of Oceanic (and non-Oceanic) languages attest to the facts that _*t_ was
+languages has resulted in the reconstructed paradigm of POc consonants shown in Table 1.2.
+A number of Oceanic (and non-Oceanic) languages attest to the facts that _*t_ was
 dental, _*d_ alveolar. This is significant in the prehistory of POc discussed below
 (§1.8.2.3). The POc vowels that occur in our reconstructions are _*i_, _*e_, _*a_, _*o_, _*u_.
 
@@ -1180,7 +1180,7 @@ are marked with a final hyphen in our reconstructions: _*mata-_ ‘eye’.
 
                                                                                            Introduction 27
 
-: Table 1.3. POc orthographies after Grace (1969) and Ross (1988)
+: __Table 1.3.__ POc orthographies after Grace (1969) and Ross (1988)
 
 __tablenh__
      Grace |  oral grade  | _*p_  |      —       | _*t_  | _*d_/_*r_   | _*s_ |        |  _*j_  |  _*k_  |  —
@@ -1259,7 +1259,7 @@ Map 1.5: The Austronesian language family and the major subgroups according to t
 30 Malcolm Ross, Andrew Pawley and Meredith Osmond
 
 
-: Table 1.4. Correspondences between PMP and POc protophonemes as currently understood. Shadings are explained in §1.8.2
+: __Table 1.4.__ Correspondences between PMP and POc protophonemes as currently understood. Shadings are explained in §1.8.2
 
 __block__
 <table class="multispan">
@@ -1345,7 +1345,7 @@ for the integrity of the Oceanic subgroup.
                                                                           Introduction 31
 
 
-: Table 1.5. Examples of PMP reconstructions and their POc continuations showing the effects of the mergers and splits giving rise to POc consonant grade
+: __Table 1.5.__ Examples of PMP reconstructions and their POc continuations showing the effects of the mergers and splits giving rise to POc consonant grade
 
 __table__
 segment |  PMP         |         POc       |         grade     |     gloss
@@ -1521,7 +1521,7 @@ subsection). To the right of each POc obstruent in Table 1.6 are shown its numbe
 instances as an absolute figure and as a percentage of the PMP obstruent in the leftmost
 column.
 
-: Table 1.6. Instances of PMP obstruents and their POc voiceless and voiced reflexes
+: __Table 1.6.__ Instances of PMP obstruents and their POc voiceless and voiced reflexes
 
 __table__
         |         | POc voiceless reflexes | | | POc voiced reflexes | |
@@ -1575,7 +1575,7 @@ overcast’, attested with _-md-_ in Formosan and many Philippine reflexes (ACD)
 becoming _*dendem_ at some intermediate interstage and thence POc _*rodrom_ (vol.2:308).
 POc _*-dr-_ is a unitary phoneme reflecting earlier _*-nd-_ (PCEMP _*-nd-_ according to Blust 1977a).
 
-: Table 1.7. Instances of PMP nasal + obstruent clusters and their POc reflexes
+: __Table 1.7.__ Instances of PMP nasal + obstruent clusters and their POc reflexes
 
 __table__
              |         |  POc voiceless reflexes | |   ePOc prenasalised reflexes | |
@@ -1983,7 +1983,7 @@ pressures on similar consonant systems is as likely a cause as shared inheritanc
 
                                                                                   Introduction 43
 
-: Table 1.8. Consonant innovations in the parent languages of Oceanic and Wallacean subgroups (key beneath table)
+: __Table 1.8.__ Consonant innovations in the parent languages of Oceanic and Wallacean subgroups (key beneath table)
 
 __table__
              PMP > | <span class="sideways">Oceanic</span> | <span class="sideways">SHWNG</span> | <span class="sideways">Ambon-Seram</span> |  <span class="sideways">Seram-Tanimbar-Bomberai</span> |       <span class="sideways">Aru</span> | <span class="sideways">Sula-Buru</span>
@@ -2055,7 +2055,7 @@ in PSHWNG and in POc. The PSHWNG changes are simple, and are similar to those in
 other Wallacean languages. The POc changes are more complex. Both PSHWNG and
 ePOc have three labial consonants, but they have developed along different routes.[42]
 
-: Table 1.9. PMP obstruents and their PSHWNG and POc reflexes
+: __Table 1.9.__ PMP obstruents and their PSHWNG and POc reflexes
 
 __table__
                                |    PMP             |     PSHWNG  |         POc
@@ -2221,56 +2221,56 @@ Figure 2.2: Terms for in-laws in Nakanai
                                                                                        Kinship terms 51
 
 
-   Secondly, in the middle of the figures is a person labelled ‘EGO’. EGO (Latin ‘I, me’) is ‘the
-speaker’, i.e. the person in relation to whom some other person, ALTER (Latin ‘other’), is
-labelled. Thus if I am EGO, my father is an ALTER labelled in relation to me. If he is defined in
-relation to some other EGO, he might then be my brother, my son, my grandson, and so on.
+   Secondly, in the middle of the figures is a person labelled ‘[EGO]{.smallcaps}’. [EGO]{.smallcaps} (Latin ‘I, me’) is ‘the
+speaker’, i.e. the person in relation to whom some other person, [ALTER]{.smallcaps} (Latin ‘other’), is
+labelled. Thus if I am [EGO]{.smallcaps}, my father is an [ALTER]{.smallcaps} labelled in relation to me. If he is defined in
+relation to some other [EGO]{.smallcaps}, he might then be my brother, my son, my grandson, and so on.
 
 2.2.1 Attributes encoded in a kinship terminology
 
-    Figure 2.1 shows that a male EGO distinguishes between brothers who are older than him
+    Figure 2.1 shows that a male [EGO]{.smallcaps} distinguishes between brothers who are older than him
 (_tua-_) and those who are younger (_tari-_), whereas English has no term with a meaning that
-depends on the age of ALTER relative to EGO.
+depends on the age of [ALTER]{.smallcaps} relative to [EGO]{.smallcaps}.
 
     Figures 2.1 and 2.2 show Nakanai terms from the perspectives of both a male and a
-female EGO.[5] The differences between them take two forms. First, a male EGO refers to his
-brother as _tua-_ or _tari-_, whereas a female EGO uses _tua-_ or _tari-_ for her sister. That is, Nakanai
-_tua-_ and _tari-_ must be glossed ‘sibling of same sex as EGO’ (usually abbreviated ‘same-sex
-sibling’ or ‘s.s. sibling’), not ‘brother’ or ‘sister’. The sex of _tua-_ or _tari-_ depends on EGO’s
-sex. Second, a male EGO labels his opposite-sex sibling _hatavile-_, but a female EGO refers to
+female [EGO]{.smallcaps}.[5] The differences between them take two forms. First, a male [EGO]{.smallcaps} refers to his
+brother as _tua-_ or _tari-_, whereas a female [EGO]{.smallcaps} uses _tua-_ or _tari-_ for her sister. That is, Nakanai
+_tua-_ and _tari-_ must be glossed ‘sibling of same sex as [EGO]{.smallcaps}’ (usually abbreviated ‘same-sex
+sibling’ or ‘s.s. sibling’), not ‘brother’ or ‘sister’. The sex of _tua-_ or _tari-_ depends on [EGO]{.smallcaps}’s
+sex. Second, a male [EGO]{.smallcaps} labels his opposite-sex sibling _hatavile-_, but a female [EGO]{.smallcaps} refers to
 her opposite-sex sibling as _hatamale-_. We prefix the conventional ‘female’ and ‘male’
 symbols to a gloss to indicate who uses it: thus _hatavile-_ ‘♂sister’ and _hatamale-_ ‘♀brother’.
-In English, however, no distinction between terms depends on EGO’s sex. The distinction
-between English _wife_ and _husband_ encodes ALTER’s sex, not EGO’s. Indeed, ALTER’s sex plays
+In English, however, no distinction between terms depends on [EGO]{.smallcaps}’s sex. The distinction
+between English _wife_ and _husband_ encodes [ALTER]{.smallcaps}’s sex, not [EGO]{.smallcaps}’s. Indeed, [ALTER]{.smallcaps}’s sex plays
 a significant role in the English terminology, with six basic pairs: _mother_/_father_, _aunt_/_uncle_,
 _sister_/_brother_, _daughter_/_son_, _niece_/_nephew_ and _wife_/_husband_. Nakanai has only one:
-_tila-_/_tama_ ‘mother/father’. Note, too, that EGO distinguishes among s.s. siblings by age relative to
-EGO, but labels o.s. siblings by their (ALTER’s) own sex.
+_tila-_/_tama_ ‘mother/father’. Note, too, that [EGO]{.smallcaps} distinguishes among s.s. siblings by age relative to
+[EGO]{.smallcaps}, but labels o.s. siblings by their ([ALTER]{.smallcaps}’s) own sex.
 
-    In the figures and elsewhere, generations are indicated with, e.g., G₀ ‘EGO’s generation’,
-G₊₁ ‘one generation above EGO’, G₋₂ ‘two generations below EGO’, and so on. In Figure 2.1,
+    In the figures and elsewhere, generations are indicated with, e.g., G₀ ‘[EGO]{.smallcaps}’s generation’,
+G₊₁ ‘one generation above [EGO]{.smallcaps}’, G₋₂ ‘two generations below [EGO]{.smallcaps}’, and so on. In Figure 2.1,
 _tubu-_ appears against G₊₂, indicating that all members of G₊₂ are _tubu-_ in Nakanai. It also
 exemplifies the classificatory nature of Oceanic kinship terms. The term _tubu-_ labels all
 members of G₊₂. Most kinship terminologies include classifying terms. English has some too:
-_uncle_ labels EGO’s father’s brothers, father’s sisters’ husbands, mother’s brothers and mother’s
+_uncle_ labels [EGO]{.smallcaps}’s father’s brothers, father’s sisters’ husbands, mother’s brothers and mother’s
 sisters’ husbands. _Aunt_ and _cousin_ are also classifying. Nakanai and English classify
-siblings-in-law in the same way: English _brother-in-law_ refers to EGO’s wife’s brother and to EGO’s
+siblings-in-law in the same way: English _brother-in-law_ refers to [EGO]{.smallcaps}’s wife’s brother and to [EGO]{.smallcaps}’s
 sister’s husband, and Nakanai _iva-_ does the same.
 
-    Some kinship terms in Oceanic languages are used reciprocally. A Nakanai EGO refers to
-his/her mother’s brother as _hala-_ and, when EGO is a child’s _hala-_, he refers to his sister’s
+    Some kinship terms in Oceanic languages are used reciprocally. A Nakanai [EGO]{.smallcaps} refers to
+his/her mother’s brother as _hala-_ and, when [EGO]{.smallcaps} is a child’s _hala-_, he refers to his sister’s
 child as _hala-_. That is, the term is reciprocal across generations. Figure 2.1 also shows that
 some grandparents and grandchildren refer to each other reciprocally as _tubu-_.
 
-    The Nakanai terminology classifies blood relatives of G₊₁ in a particular way. EGO’s
-father’s brother is labelled with the same term as EGO’s father, and EGO’s mother’s sister with
-the same term as EGO’s mother. This has two consequences. One is that father’s brother’s
+    The Nakanai terminology classifies blood relatives of G₊₁ in a particular way. [EGO]{.smallcaps}’s
+father’s brother is labelled with the same term as [EGO]{.smallcaps}’s father, and [EGO]{.smallcaps}’s mother’s sister with
+the same term as [EGO]{.smallcaps}’s mother. This has two consequences. One is that father’s brother’s
 descendants have the same labels as father’s descendants, and mother’s sister’s descendants
 the same labels as mother’s. The other consequence is that what in English would be _cousins_
 fall into two Nakanai categories. Father’s brother’s and mother’s sister’s children are labelled
-as if they were EGO’s siblings, but father’s sister’s and mother’s brother’s children have a
+as if they were [EGO]{.smallcaps}’s siblings, but father’s sister’s and mother’s brother’s children have a
 different label, _lavo-_. In the kinship literature the former are labelled ‘parallel cousins’, the latter
-‘cross-cousins’. ‘Cross’ here refers to the fact that cross-cousins are related to EGO via opposite-sex
+‘cross-cousins’. ‘Cross’ here refers to the fact that cross-cousins are related to [EGO]{.smallcaps} via opposite-sex
 parents. The classifying attribute of Oceanic kinship terms is discussed further in §2.2.3.
 
 [5] Many available terminologies, especially older ones, are unfortunately restricted to a male ego.
@@ -2280,18 +2280,18 @@ parents. The classifying attribute of Oceanic kinship terms is discussed further
     The last few paragraphs have touched on various attributes of kinship terminologies in
 general. Their presence or absence in Nakanai and English is summed up in Table 2.1.
 Presence is shown by a tick. A particular attribute may or may not be reflected in a
-terminology.[6] For example, English has no terms that depend on sex relative to EGO.
+terminology.[6] For example, English has no terms that depend on sex relative to [EGO]{.smallcaps}.
 
     ‘Sex of linking relative’ refers to the contrast between, e.g. ‘father’s brother’ and
 ‘mother’s brother’.
 
-: Table 2.1 Attributes and values of Nakanai and English terms
+: __Table 2.1__ Attributes and values of Nakanai and English terms
 
 __table__
            Attribute                       |    Nakanai  |   English  |   values of terms
            generations distinguished       |     ✔       |     ✔      |    –2, –1, 0, +1, +2 etc
-           sex of ALTER                    |     ✔       |     ✔      |    male, female, either
-           sex relative to EGO             |     ✔       |            |    same, opposite, either
+           sex of [ALTER]{.smallcaps}                    |     ✔       |     ✔      |    male, female, either
+           sex relative to [EGO]{.smallcaps}             |     ✔       |            |    same, opposite, either
            sex of linking relative         |     ✔       |            |    same, male, female
            seniority within generation     |     ✔       |            |    elder, younger, none
            reciprocity across generations  |     ✔       |            |    yes, no
@@ -2300,16 +2300,16 @@ __table__
 
 2.2.2 ‘Parallel’, ‘cross’ and kinship notation
 
-As noted above, ethnographers use the terms ‘parallel cousin’ for cousins related to EGO via
-mother’s sister or father’s brother and ‘cross-cousin’ for those related to EGO via mother’s
+As noted above, ethnographers use the terms ‘parallel cousin’ for cousins related to [EGO]{.smallcaps} via
+mother’s sister or father’s brother and ‘cross-cousin’ for those related to [EGO]{.smallcaps} via mother’s
 brother or father’s sister.[7] Similar terms are sometimes used of siblings, such that a ‘s.s.
-sibling’ is a sibling of the same sex as EGO and a ‘cross-sibling’ or ‘cross-sex sibling’ is of the
-opposite sex to EGO. This usage is inconsistent, as ‘parallel cousin’ and ‘cross-cousin’ refer to
+sibling’ is a sibling of the same sex as [EGO]{.smallcaps} and a ‘cross-sibling’ or ‘cross-sex sibling’ is of the
+opposite sex to [EGO]{.smallcaps}. This usage is inconsistent, as ‘parallel cousin’ and ‘cross-cousin’ refer to
 their parent’s sex, not their own, and the latter sometimes needs to be stipulated as in
 ‘same-sex cross-cousin’ or ‘opposite-sex cross-cousin’. For consistency’s sake, we follow
 Murdock 1949, 1968a). replacing ‘cross-sibling’ by ‘opposite-sex sibling’ (‘o.s. sibling’).
 
-: Table 2.2 Abbreviating kinship terms
+: __Table 2.2__ Abbreviating kinship terms
 
 __tablenh__
  M  |  mother |        (NB not ‘Male’)
@@ -2354,18 +2354,18 @@ terms is straightforward, e.g. MZ ‘mother’s sister’, EGC ‘spouse’s sib
 letters in Table 2.2. They are:
 
 __tablenh__
-    s | same sex as EGO
-    o | opposite sex to EGO
-    y | younger than EGO within EGO’s generation
-    e | elder than EGO within EGO’s generation
+    s | same sex as [EGO]{.smallcaps}
+    o | opposite sex to [EGO]{.smallcaps}
+    y | younger than [EGO]{.smallcaps} within [EGO]{.smallcaps}’s generation
+    e | elder than [EGO]{.smallcaps} within [EGO]{.smallcaps}’s generation
 
 Thus oC ‘opposite sex child’; ysG ‘younger same-sex sibling’.
 
-   Relative sex is reckoned relative to EGO in order to avoid ambiguity. Hence EGsC
-‘spouse’s sibling’s child of EGO’s sex’, not ‘spouse’s siblings’s child of spouse’s sibling’s sex’.
-However, there are terms that encode sex relative to someone other than EGO, and in these
+   Relative sex is reckoned relative to [EGO]{.smallcaps} in order to avoid ambiguity. Hence EGsC
+‘spouse’s sibling’s child of [EGO]{.smallcaps}’s sex’, not ‘spouse’s siblings’s child of spouse’s sibling’s sex’.
+However, there are terms that encode sex relative to someone other than [EGO]{.smallcaps}, and in these
 cases curly brackets are used, e.g. {PsG}C ‘child of parent’s same-sex sibling’,[8] i.e. ‘parallel
-cousin’, as opposed to PsGC ‘child of parent’s sibling of EGO’s sex’.
+cousin’, as opposed to PsGC ‘child of parent’s sibling of [EGO]{.smallcaps}’s sex’.
 
 2.2.3 Nakanai terms and their definition
 
@@ -2374,15 +2374,15 @@ Like a good many other societies in Oceania, Nakanai society has divisions based
 divisions or ‘moieties’. Others, like Nakanai, have several divisions. In many Oceanic
 societies descent is matrilineal (see ch 3). In other words, a child belongs to its mother’s
 lineage. Since marriages are between members of different divisions, this means that a
-father’s children belong to his wife’s division. Among EGO’s closer relatives the only
-members of EGO’s generation who are of another division are cross-cousins. Being of a
-different division from EGO, they are possible marriage candidates.
+father’s children belong to his wife’s division. Among [EGO]{.smallcaps}’s closer relatives the only
+members of [EGO]{.smallcaps}’s generation who are of another division are cross-cousins. Being of a
+different division from [EGO]{.smallcaps}, they are possible marriage candidates.
 
-    Nakanai kin terms for members of EGO’s generation are shown in Table 2.4. The values
+    Nakanai kin terms for members of [EGO]{.smallcaps}’s generation are shown in Table 2.4. The values
 of the four relevant attributes (see Table 2.1) are shown in the four rightmost columns. Each
 term is defined by a unique set of values. The cross-cousin term _lavo-_ encodes neither
 referent’s sex nor relative sex. Its salient feature is a social one: a _lavo-_ can be married by
-EGO.
+[EGO]{.smallcaps}.
 
     The terms for members of G₊₁ and G₋₁ are shown in Table 2.4. Of the seven terms, four
 are reciprocal, giving two entries, ‘+1’ and ‘–1’ in the ‘Generation’ column.’ Notably the
@@ -2399,20 +2399,20 @@ mother’s sister’s husband _tama-_.
 54 Malcolm Ross and Jeffrey C. Marck
 
 
-Table 2.3 Nakanai kinship terms of EGO’s generation
+Table 2.3 Nakanai kinship terms of [EGO]{.smallcaps}’s generation
 
-Table 2.4 Nakanai kinship terms of EGO’s generation
+Table 2.4 Nakanai kinship terms of [EGO]{.smallcaps}’s generation
 
                                                                                  Kinship terms 55
 
 
     In Figure 2.1 there is just one reciprocal term for members of G₊₂ and G₋₂. This is _tubu-_
-‘grandparent/grandchild’. However, at G₋₂ _tubu-_ is restricted to the grandchildren of EGO’s
+‘grandparent/grandchild’. However, at G₋₂ _tubu-_ is restricted to the grandchildren of [EGO]{.smallcaps}’s
 s.s. siblings and s.s. parallel cousins, whilst the grandchildren of o.s. siblings and o.s. parallel
 cousins are labelled _lavo-_. This also seems to be rule-governed. Because Nakanai society is
-matrilineal and EGO’s spouse is of a different division from ego, male EGO’s _latu-_ ‘children’
+matrilineal and [EGO]{.smallcaps}’s spouse is of a different division from ego, male [EGO]{.smallcaps}’s _latu-_ ‘children’
 are not of his lineage or division, but his sister’s children, _hala-_, are. The situation is reversed
-if EGO is female: _latu-_ are of her division, but _isa-_ are not. The rule then stipulates one uses
+if [EGO]{.smallcaps} is female: _latu-_ are of her division, but _isa-_ are not. The rule then stipulates one uses
 _tubu-_ for the child of one’s _latu-_, but _lavo-_ for the child of one’s _hala-_ or _isa-_.
 
     The application of _tubu-_ to the children of one’s cross-cousins, i.e. relatives of the same
@@ -2425,7 +2425,7 @@ father, who does not belong to his children’s division, varies from society to
 of the mother’s oldest brother means that there is typically a dedicated term for mother’s
 brothers. In Nakanai this is _hala-_. The fact that in many Oceanic cultures mother’s oldest
 brother had or has significant responsibilities towards his sister’s children (♂ZC) is enshrined
-in a special term that a male EGO uses to refer to those children. It also captures the fact that in
+in a special term that a male [EGO]{.smallcaps} uses to refer to those children. It also captures the fact that in
 a matrilineal society a man’s sister’s son is his heir. The special term for sister’s son/sister’s
 child is sometimes the term for MB, used reciprocally, as it is in Nakanai (see further
 §2.3.2.2).
@@ -2436,14 +2436,14 @@ Indeed, most cover a theoretically unbounded set of relationships. How can one c
 sets that these glosses represent? For _tama-_, for example, an exhaustive definition might be:
 
 __block__
-- male blood relative of EGO’s father’s generation, related to EGO through EGO’s father’s
+- male blood relative of [EGO]{.smallcaps}’s father’s generation, related to [EGO]{.smallcaps} through [EGO]{.smallcaps}’s father’s
   male ancestors and their male descendants; and
-- husband of female blood relative of EGO’s mother’s generation; the female relative is
-  related to EGO through EGO’s mother’s female ancestors and their female descendants.
+- husband of female blood relative of [EGO]{.smallcaps}’s mother’s generation; the female relative is
+  related to [EGO]{.smallcaps} through [EGO]{.smallcaps}’s mother’s female ancestors and their female descendants.
 
    This definition includes ‘father’ and ‘father’s brother’ as primary referents. Both are
-grandfather’s sons, or FFS. They and grandfather’s brother’s son are great-grandfather’s
-grandsons—and so on. Tracking back through ego’s ancestry using the first part of the
+grandfather’s sons, or FFS. They and grandfather’s brother’s son are _great-grandfather’s_
+_grandsons_—and so on. Tracking back through ego’s ancestry using the first part of the
 definition gives a set of glosses for _tama-_: FFS, FFFSS, FFFFSSS and so on, abbreviated as
 FnFSn, where the two instances of n are equal. Doing the same with the second part gives
 MnMDnH. Glosses of this kind, not used elsewhere in this chapter, serve to show that
@@ -2464,7 +2464,7 @@ every other Tolai (Epstein 1969:122; Fingleton 1986:304).
 
    Ethnographers argue over whether a term like Nakanai _tama-_ has one meaning or more
 than one.[10] Those who argue for two or more meanings (polysemy) distinguish between a
-narrow sense, ‘father’, and a classificatory sense, FnFSn (Malinowski 1929:442, 495–96, 513, 527;
+narrow sense, ‘father’, and a classificatory sense, FₙFSₙ (Malinowski 1929:442, 495–96, 513, 527;
 Lounsbury 1965; Scheffler 2003; Shapiro 2018). Those who argue for one meaning
 (monosemy) regard something like the definitions above as the appropriate gloss of _tama-_
 (Leach 1958, attacking Malinowski; Schneider 1984). The question for a linguist is, What
@@ -2554,14 +2554,14 @@ bifurcate merging terminology is one which is
 __block__
 1. bifurcate: there are distinct terms for ‘mother’ and ‘father’ (M ≠ F);
 2. merging:
-   a. EGO’s father and father’s brother are both called ‘father’ and EGO’s mother and
+   a. [EGO]{.smallcaps}’s father and father’s brother are both called ‘father’ and [EGO]{.smallcaps}’s mother and
       mother’s sister are both called ‘mother’ (FB = F, MZ = M);
-   b. EGO’s father’s brother’s and mother’s sisters children, EGO’s parallel cousins, are
-      called by the same terms as EGO’s siblings (FBC = MZC = G).
+   b. [EGO]{.smallcaps}’s father’s brother’s and mother’s sisters children, [EGO]{.smallcaps}’s parallel cousins, are
+      called by the same terms as [EGO]{.smallcaps}’s siblings (FBC = MZC = G).
 3. laterally restricted:
-   a. EGO’s mother’s brother is called by a term other than ‘father’ and EGO’s mother’s
+   a. [EGO]{.smallcaps}’s mother’s brother is called by a term other than ‘father’ and [EGO]{.smallcaps}’s mother’s
       sister by a term other than ‘mother’ (MB ≠ F, FZ ≠ M);
-   b. EGO’s mother’s brother’s and father’s sisters children, ego’s cross-cousins, are called
+   b. [EGO]{.smallcaps}’s mother’s brother’s and father’s sisters children, ego’s cross-cousins, are called
       by terms other than those for ego’s siblings (MBC ≠ G, FZC ≠ G).
 
 The grey rectangle in Figure 2.3 encloses the part of the terminology that is ‘merged’.
@@ -2598,7 +2598,7 @@ each breach occurs are shown in Table 2.5.
 
                                                                              Kinship terms 59
 
-: Table 2.5    Oceanic terminologies with bifurcate merging and breaches thereof
+: __Table 2.5__    Oceanic terminologies with bifurcate merging and breaches thereof
 
 __table__
            |   Bifurcate merging       |  FZ = M   |  FZ = M and MB = F    | PGC = G
@@ -2606,7 +2606,7 @@ Adm        | Mussau, Sori, Lele, Pak, Baluan, Lou |         Yapese     |        
 SJ and NNG |  Yabem, Bukawa, Middle Watut   | Sobei, Wogeo,  Mapos Buang |       —      | o.s: _Takia_, _Adzera_, _Mapos Buang_
 PT         | Kilivila, Muyuw, Dobu, Galea, Sudest  |  Kalauna, Tubetube  | N Mekeo  | Bwaidoga, Sinaugoro (Saroa), Motu, Roro, N Mekeo
 MM         | Nakanai, W Kara, Lakurumau, Nalik, Lihir, Notsi, Lamusong, Lelet, Usen Barok, Sursurunga, Patpatar, Tolai (both) |     Nehan, Petats, Hahon, Mono-Alu, Nduke, Roviana, Marovo, Varisi |  Simbo     |         _Vitu_ (o.s.), Mono-Alu, Varisi, Simbo, Nduke, Roviana
-SES        | NWGR,a Baegu, E Arosi   | Bugotu, Gela, Lengo, Birao, Longgu, Kwaio, Sa'a, Fagani, W  Arosi, Owa | — | W Guadalcanal (Gae), Lengo, To'aba'ita, Kwaio, Fagani, W Arosi, Owa
+SES        | NWGR,¹ Baegu, E Arosi   | Bugotu, Gela, Lengo, Birao, Longgu, Kwaio, Sa'a, Fagani, W  Arosi, Owa | — | W Guadalcanal (Gae), Lengo, To'aba'ita, Kwaio, Fagani, W Arosi, Owa
 NCV        | Araki, Raga, Big Nambas, N Ambrym, Nguna  | Loh, Mota, Akei, NE Ambae, Nduindui, Vao, Ninde, Sinesip | — | Loh
 SV         | Kwamera          |              Anejom        |      —        |       —
 NCal       | Belep, Nyelâyu, Yuanga, Kumak, Fwai, Pwaamei, Bwatoo, Wahmwaang, Cèmuhî, Paicî, Arhâ, Ajië, Xârâcùù, Xaragure, Numèè, Kwenyii | — | — | Nengone, Drehu, Iaai
@@ -2615,7 +2615,7 @@ Fij        | Wayan, Vuda, NW Viti Levu, Deuba, Kadavu, Bauan, Nadrau, Tokatoka, 
 Pn exc EPn |  Ifira-Mele, W Futunan | Rennellese, Takuu, Luangiua, Sikaiana  | Pukapuka | Tongan, Tokelau, E Futunan, _Rennellese_ (s.s.), Anuta, Tikopia, Pileni, Luangiua, Sikaiana
 EPn         |   —         |               —     | Tahitian, Māori, Rapa, Hawaiian | Rapa, Maori, Tahitian, Marquesan, Hawaiian
 
-a. NWGR = Rivers’ (1914) Northwest ‘Guadalcanar’.
+¹ NWGR = Rivers’ (1914) Northwest ‘Guadalcanar’.
 
 60 Malcolm Ross and Jeffrey C. Marck
 
@@ -2623,8 +2623,8 @@ a. NWGR = Rivers’ (1914) Northwest ‘Guadalcanar’.
      Taking (3a) first, two breaches occur:
 
 __block__
-i.  EGO’s father’s sister is called by the term for mother/mother’s sister (FZ = M: 44 cases);
-ii. EGO’s father’s sister and mother’s brother are called respectively by the terms for
+i.  [EGO]{.smallcaps}’s father’s sister is called by the term for mother/mother’s sister (FZ = M: 44 cases);
+ii. [EGO]{.smallcaps}’s father’s sister and mother’s brother are called respectively by the terms for
     mother/mother’s sister and father/father’s brother (FZ = M, MB = F: 8 cases);
 
    The case numbers tells us that FZ = M occurs far more often than MB = F. Furthermore,
@@ -2642,7 +2642,7 @@ happened in Proto NW Solomonic and was inherited by its member languages.
    Turning to (3b), three breaches occur:
 
 __block__
-iii. EGO’s cross-cousin is called by a term for sibling/parallel cousin (MBC = FBC = FZC = MZC = G, i.e. PGC = G);  this may apply to
+iii. [EGO]{.smallcaps}’s cross-cousin is called by a term for sibling/parallel cousin (MBC = FBC = FZC = MZC = G, i.e. PGC = G);  this may apply to
      - only s.s. cross-cousins (2 cases);
      - only o.s. cross-cousins (4 cases);
      - all cross-cousins (40 cases).
@@ -2672,7 +2672,7 @@ o.s. cross-cousin terms are missing.
 
                                                                                  Kinship terms 61
 
-: Table 2.6 Oceanic kinship terminologies that tend toward Lowie’s generational structure
+: __Table 2.6__ Oceanic kinship terminologies that tend toward Lowie’s generational structure
 
 __table__
              | 1            |  2                      |  3                              |   4
@@ -2727,9 +2727,9 @@ Figure 2.6: Structure of the N Mekeo terminology
 
 2.3.2.1 EGO’s siblings and parallel cousins
 
-Bifurcate merging means that in almost every Oceanic terminology, EGO’s parallel cousins,
-i.e. EGO’s father’s brother’s and mother’s sister’s children, are labelled with the same terms as
-EGO’s siblings (§2.3.1). However, there is considerable variation in this labelling. For
+Bifurcate merging means that in almost every Oceanic terminology, [EGO]{.smallcaps}’s parallel cousins,
+i.e. [EGO]{.smallcaps}’s father’s brother’s and mother’s sister’s children, are labelled with the same terms as
+[EGO]{.smallcaps}’s siblings (§2.3.1). However, there is considerable variation in this labelling. For
 example, there may be a terminological distinction between s.s. and o.s. siblings/parallel
 cousins; or a seniority distinction among siblings/parallel cousins.[14]
 
@@ -2740,35 +2740,35 @@ _brother_ but used them in an Oceanic manner. If I was female, my _brata_ was my
 sibling) and my _susa_ was my brother (o.s. sibling). These two categories are further
 subdivided in many Oceanic terminologies. A common pattern is illustrated by Nakanai
 (§2.2.3; Figure 2.3), where s.s. siblings are divided into those elder (_tua-_) or younger (_tari-_)
-than EGO, but o.s. siblings are divided into female (_hatavile-_) and male (_hatamale-_).
+than [EGO]{.smallcaps}, but o.s. siblings are divided into female (_hatavile-_) and male (_hatamale-_).
 
     There are thus three sibling distinctions in Oceanic languages:
 
 __block__
-- relative sex: same sex as EGO vs opposite sex from EGO (SG VS OG)
-- seniority: younger than EGO vs elder than EGO (yG vs eG)
-- ALTER’s sex (Z vs B)
+- relative sex: same sex as [EGO]{.smallcaps} vs opposite sex from [EGO]{.smallcaps} (sG vs oG)
+- seniority: younger than [EGO]{.smallcaps} vs elder than [EGO]{.smallcaps} (yG vs eG)
+- [ALTER]{.smallcaps}’s sex (Z vs B)
 
 Eleven configurations of these distinctions occur in Oceanic languages, and Table 2.7
 shows the number of times each configuration occurs in the sample.[15] Column 1 shows whether
 a terminology makes the relative sex distinction (y[es] or n[o]). If it does, then there are
 entries in columns 2 to 5. Columns 2 and 4 show whether the seniority distinction is applied
-respectively to s.s. and o.s. siblings. Columns 3 and 5 do the same for ALTER’s sex. But if
+respectively to s.s. and o.s. siblings. Columns 3 and 5 do the same for [ALTER]{.smallcaps}’s sex. But if
 column 1 shows that a terminology lacks the relative sex distinction, then columns 4 and 5
 are blank, because o.s. siblings are referred to by the same terms as s.s. siblings. For example,
 Nakanai makes the s.s./o.s. distinction (column 1), the seniority distinction for s.s. siblings
-(column 2), and uses different o.s. terms according to ALTER’s sex (column 5). It is thus one of
+(column 2), and uses different o.s. terms according to [ALTER]{.smallcaps}’s sex (column 5). It is thus one of
 the 17 languages with the configuration in row 6. The column totals show that only four
-terminologies distinguish ALTER’s sex in the terms for s.s. siblings, and that only three
+terminologies distinguish [ALTER]{.smallcaps}’s sex in the terms for s.s. siblings, and that only three
 distinguish seniority of o.s. siblings. The four configurations that include one of these
-distinctions are shown in grey and are presumably the outcomes of local accidents.[16]
+distinctions are shown in grey (3, 4, 7 and 8) and are presumably the outcomes of local accidents.[16]
 Theoretically, 20 configurations are possible, but only 11 occur in Table 2.7—or more
 properly ten, as row 9 contains question marks for unknown values.[17] Whilst one can
 speculate about the reasons for the absence or near-absence of certain configurations, it is
 clear that they reflect absences from the POc terminology (§2.3.5). Table 2.8 shows the
 languages in the six most attested categories in Table 2.7.
 
-: Table 2.7 Distributions of sibling distinctions across Oceanic languages
+: __Table 2.7__ Distributions of sibling distinctions across Oceanic languages
 
 __table__
                         |   1     |      2     |        3    |        4      |       5  |
@@ -2795,7 +2795,7 @@ cross-cousins, but this is discussed in §2.3.1.
 
 64 Malcolm Ross and Jeffrey C. Marck
 
-: Table 2.8 Terminologies according to the better represented configurations in Table 2.7
+: __Table 2.8__ Terminologies according to the better represented configurations in Table 2.7
 
 __table__
       |  Config 1       |    Config 2  |   Config 5    |    Config 6 |    Config 10 |  Config 11
@@ -2816,11 +2816,11 @@ EPn |         |                   |               |     Rapa, Maori, Tahitian,  
 
    In the vast majority of Oceanic languages, terms for parallel cousins are identical to those
 for siblings, but there is a dimension that is not represented here. In some languages, as one
-might expect, terms for EGO’s younger and elder siblings are applied to EGO’s younger and
-elder parallel cousins. In other languages, however, the terms make reference not to EGO’s
-seniority but to seniority of the cousin’s parent relative to EGO’s parent. For example, if the
-parallel cousin is EGO’s mother’s sister’s child, the choice of the ‘younger’ or ‘elder’ term
-depends on whether the cousin’s mother is younger or elder than EGO’s mother. This matter is
+might expect, terms for [EGO]{.smallcaps}’s younger and elder siblings are applied to [EGO]{.smallcaps}’s younger and
+elder parallel cousins. In other languages, however, the terms make reference not to [EGO]{.smallcaps}’s
+seniority but to seniority of the cousin’s parent relative to [EGO]{.smallcaps}’s parent. For example, if the
+parallel cousin is [EGO]{.smallcaps}’s mother’s sister’s child, the choice of the ‘younger’ or ‘elder’ term
+depends on whether the cousin’s mother is younger or elder than [EGO]{.smallcaps}’s mother. This matter is
 not pursued here, as the data often do not allow us to determine who seniority refers to in a
 given terminology.
 
@@ -2869,7 +2869,7 @@ are Muyuw, Galea, and Motu (PT), and Vitu and Nakanai (MM). However, terms used 
 a female ego and terms for children other than ego’s child and ego’s sister’s child are often
 not recorded, so we do not know how widespread this reciprocal usage is.
 
-: Table 2.9 Terms for male EGO’s sister’s child
+: __Table 2.9__ Terms for male [EGO]{.smallcaps}’s sister’s child
 
 __table__
           |  1                              |  2                                | 3
@@ -2890,7 +2890,7 @@ __table__
                                                                             Kinship terms 67
 
 
-    In a scattering of languages the children of EGO’s male blood relatives and those of female
+    In a scattering of languages the children of [EGO]{.smallcaps}’s male blood relatives and those of female
 blood relatives are referred to by different terms. In these languages the term for the children
 of females is usually the term used for ♂ZC. Our data are in this respect too incomplete for a
 listing of languages to be meaningful.
@@ -2903,7 +2903,7 @@ Tongan, Tokelau, E Futuna and Rennellese (Pn).
 2.3.2.3 Grandparents and grandchildren
 
 Some Oceanic languages have a dedicated term for mother’s mother’s brother (e.g. Tolai
-_kaku-_; see also §2.3.3), but a majority encode all grandparents and members of EGO’s
+_kaku-_; see also §2.3.3), but a majority encode all grandparents and members of [EGO]{.smallcaps}’s
 grandparents’ generation with a single term (often a reflex of POc _*tubu-_; §2.4.1.4.1). Other
 languages do make a distinction between female and male members of the grandparent
 generation. Our data are incomplete in this regard, but these languages include: Notsi,
@@ -2959,13 +2959,13 @@ so are the female descendants in her matriline, i.e. FZD, FZDD, FZDDD. Their bro
 (FZS, FZDS, FZDDS) are all called _tama-_ ‘father’. The children of each _tama-_ are labelled in
 the same way as the children of the three _tama-_ in the merged portion of the figure.
 
-    The right-hand ‘cross’ portion of the terminology is different. The children of EGO’s
+    The right-hand ‘cross’ portion of the terminology is different. The children of [EGO]{.smallcaps}’s
 mother’s brother are called _natu-_ ‘child’, and their children _vaɣabui-_ ‘grandchild’.
 
     The technical term for this phenomenon is ‘__generational skewing__’. On the left of the
 figure, ‘mother’, ‘father’ and the two sibling terms are used of women a generation or more
-below EGO’s mother. On the right of the figure, ‘child’ and ‘grandchild’ are used of
-individuals a generation above EGO’s child and grandchild. Skewing is also found in various
+below [EGO]{.smallcaps}’s mother. On the right of the figure, ‘child’ and ‘grandchild’ are used of
+individuals a generation above [EGO]{.smallcaps}’s child and grandchild. Skewing is also found in various
 locations outside the Austronesian family (see Lounsbury 1964a and the contributions to
 Trautmann & Whiteley 2012).
 
@@ -2988,9 +2988,9 @@ skewing. For example, Nakanai society is matrilineal but its terminology is not 
 
    The witness of speakers of languages with a skewed terminology gives us some indication
 of how skewing happens. Deacon’s ‘best’ informant for Semiang (= Sinesip, NCV)
-volunteered the information that if a male EGO’s mother’s brother died, by custom EGO would
+volunteered the information that if a male [EGO]{.smallcaps}’s mother’s brother died, by custom [EGO]{.smallcaps} would
 marry the MB’s widow, thereby becoming ‘father’ to MB’s children, and calling them ‘child’,
-accounting for the right-hand side of Figure 2.7. Conversely, if EGO is among the children of
+accounting for the right-hand side of Figure 2.7. Conversely, if [EGO]{.smallcaps} is among the children of
 the deceased, then their cross-cousin becomes their ‘father’, accounting for the left-hand side
 (Deacon 1934:77-78). It seems that these uses in this circumstance have become entrenched,
 resulting in the skewed terminology.
@@ -3033,11 +3033,11 @@ __block__
    b. father’s sister’s matrilineal male descendants (FZS, FZDS, FZDDS) are called
       ‘father’;
    c. the children of father’s sister’s matrilineal male descendants (FZSC, FZDSC,
-      FZDDSC) are called by the same terms as EGO’s siblings (i.e. as the children of a
+      FZDDSC) are called by the same terms as [EGO]{.smallcaps}’s siblings (i.e. as the children of a
       ‘father’)
 2. on the mother’s side
-   a. mother’s brother’s child is called by the term for EGO’s child’;
-   b. mother’s brother’s grandchild is called by the term for EGO’s grandchild.
+   a. mother’s brother’s child is called by the term for [EGO]{.smallcaps}’s child’;
+   b. mother’s brother’s grandchild is called by the term for [EGO]{.smallcaps}’s grandchild.
 
    Twenty-one languages in the sample show signs of generational skewing, but only three,
 Mota, NE Ambae and Nguna (all NCV) qualify fully. The evidence is set out schematically in
@@ -3057,7 +3057,7 @@ readability’s sake.
 
                                                                             Kinship terms 71
 
-: Table 2.10 Oceanic languages reflecting generational skewing
+: __Table 2.10__ Oceanic languages reflecting generational skewing
 
 __table__
  gloss           | FZ   |  FZS    | FZD  |  FZSC |  FZDS |  FZDD  | MBS  |   MBD | MBSC | MBDC
@@ -3069,7 +3069,7 @@ __table__
  Dobu state B    | FZ   |  F      | FZ   |       |       |        |      |       |      |
  Sudest          | FZ   |         |      |       |       |        | C²   |   C²  |      |
  Nakanai         |      |         |      |  _PP_   |  _PP_   |        |      |       |  PP  | PP
- Notsi           |      |         |      |  _PP_   |  _*PP_³ |        |      |       |  PP  | *PP³
+ Notsi           |      |         |      |  _PP_   |  _*PP_ ³ |        |      |       |  PP  | *PP³
  Lamusong        | FZ   |         |      |  G    |  FZ   |        |      |       |  G   | _FZ_
  Usen Barok      |      |         |      |  G    |       |        |      |       |  G   |
  Trivett’s Tolai | PP   |         | PP   |       |       |  PP    |      |   F   |      | PP
@@ -3105,7 +3105,7 @@ the following generations (Allen 1964a).
     Nakanai and Notsi (both MM) show only a fragment of an assumed formerly skewed
 system. In a terminology with skewing on the mother’s side, mother’s brother’s children
 (MBS and MBD) are called ‘child’ (C), and their children (MBSC and MBDC) are called
-‘grandchild’. The latter are, however, of the same generation as EGO’s children. Nakanai and
+‘grandchild’. The latter are, however, of the same generation as [EGO]{.smallcaps}’s children. Nakanai and
 Notsi retain only this peculiarity of a skewed system, and have copied the ‘grandchild’ term
 to the children of the paternal cross-cousins.
 
@@ -3162,7 +3162,7 @@ broad tendency that operates sporadically everywhere except SV and mainland New
 Caledonia. Change towards a generational structure went furthest in eastern Polynesia (Table
 2.6).
 
-: Table 2.11 Reconstructed POc kinship terms
+: __Table 2.11__ Reconstructed POc kinship terms
 
 __table__
 Gloss                                                | Reference terms |      | Address terms
@@ -3192,7 +3192,7 @@ Gloss                                                | Reference terms |      | 
 
 74 Malcolm Ross and Jeffrey C. Marck
 
-Figure 2.: Reconstructed POc kinship terms
+Figure 2.10: Reconstructed POc kinship terms
 
                                                                              Kinship terms 75
 
@@ -3229,19 +3229,19 @@ argued vigorously in favour of POc matrilineality, partly on genetic grounds.
     If POc was indeed matrilineal, then it presumably had two moieties like those of Tolai, NE
 Ambae and a number of other Oceanic languages (§2.2.3). Symptomatic of this is the
 presence of two terms for ‘child’. POc _*[qa]lawa-_ denoted in its narrow sense ‘sister’s
-child’ (i.e. the one to whom EGO was mother’s brother) and in its classificatory sense ‘female
+child’ (i.e. the one to whom [EGO]{.smallcaps} was mother’s brother) and in its classificatory sense ‘female
 parallel cousin’s child’. The default term was _*natu-_, the only term that, as in Tolai, switches
-moiety according to EGO’s sex: opposite moiety to EGO if EGO is male, same moiety as EGO if
-EGO is female.
+moiety according to [EGO]{.smallcaps}’s sex: opposite moiety to [EGO]{.smallcaps} if [EGO]{.smallcaps} is male, same moiety as [EGO]{.smallcaps} if
+[EGO]{.smallcaps} is female.
 
-    The existence of a dedicated term, _*matuqa_, for EGO’s mother’s brother (literally ‘the old
+    The existence of a dedicated term, _*matuqa_, for [EGO]{.smallcaps}’s mother’s brother (literally ‘the old
 one’) reflects his role among his kin (§2.2.3) and is further evidence of matrineality. If the
 society were patrilineal, the leading male among his relatives would be his father.
 
 2.3.6 Generational skewing in Proto Oceanic
 
     Previous reconstructions of POc kinship terms seem to have assumed that there must
-have been a separate term for EGO’s father’s sister. Perhaps there was, but one cannot
+have been a separate term for [EGO]{.smallcaps}’s father’s sister. Perhaps there was, but one cannot
 reconstruct it (§2.4.1.2.6). Given that most other terms for blood relatives are easily
 reconstructable, this blank in the terminology demands an explanation, and a fairly
 straightforward one emerges from the discussion of generational skewing in §2.3.3. Like
@@ -3266,8 +3266,8 @@ term is unknown. It was perhaps _*tina-_ ‘mother’ or _*tubu-_ ‘grandparent
 below.
 
     The evidence of the languages listed in Table 2.10, like NE Ambae (Figure 2.7) and
-Trevitt’s Tolai (Figure 2.9), leads us to expect that EGO’s mothers’ brother’s children will be
-called ‘child’, despite the fact that they are of EGO’s generation. This extract from the data for
+Trevitt’s Tolai (Figure 2.9), leads us to expect that [EGO]{.smallcaps}’s mothers’ brother’s children will be
+called ‘child’, despite the fact that they are of [EGO]{.smallcaps}’s generation. This extract from the data for
 ‘child’ in §2.4.1.3.1 confirms this. Glosses not relevant to generational skewing have been
 removed. A majority of the reflexes are from NCV languages. This is not surprising, as
 generational skewing, at least in the north of the region, is mentioned in the ethnographic
@@ -3294,13 +3294,13 @@ POc *natu- ‘child, s.s. sibling’s child, parallel cousin’s child, __mother
  Mic: Puluwatese       nawɨ-                ‘child’, MBC
 >
 
-    One would also expect that the children of EGO’s MBC would be called by the same term
+    One would also expect that the children of [EGO]{.smallcaps}’s MBC would be called by the same term
 as ‘grandchild’, and the data give some support to this notion. POc apparently used two terms
 for ‘grandchild’. POc _*tubu-_ ‘grandparent’ was used reciprocally of ‘grandchild’. POc
 _*makubu-_ was not reciprocal and meant ‘grandchild; kin two generations below ego’. The
 terms in the set below reflect a variety of ‘grandchild’ terms, but have in common the fact that
-they are also used for mother’s brother’s grandchild, who was of EGO’s child’s generation, not
-EGO’s grandchild’s.
+they are also used for mother’s brother’s grandchild, who was of [EGO]{.smallcaps}’s child’s generation, not
+[EGO]{.smallcaps}’s grandchild’s.
 
                                                                            Kinship terms 77
 
@@ -3433,8 +3433,8 @@ end of the chapter. The source of a cognate is given only where (a) we have cons
 more works for that language; (b) the source is itself a comparative work dealing with a
 number of languages; or (c) only one item in the chapter is drawn from that source.
 
-    In some Oceanic languages, there are two terms for the same ALTER, a reference term used
-in talking about that ALTER, e.g. ‘my father’ or ‘your child’, and an address (or vocative) term
+    In some Oceanic languages, there are two terms for the same [ALTER]{.smallcaps}, a reference term used
+in talking about that [ALTER]{.smallcaps}, e.g. ‘my father’ or ‘your child’, and an address (or vocative) term
 used to indicate whom one is talking to, e.g. ‘Dad, may I go outside?’ Address terms are
 marked with the abbreviation ADDR. However, there are languages in which this distinction is
 not made, i.e. one says, ‘My father, may I go outside?’ Diachronically, it is quite common to
@@ -3447,7 +3447,7 @@ find a reference term that reflects an early address term.
 
 80 Malcolm Ross and Jeffrey C. Marck
 
-: Table 2.12     POc variant terms for close blood relatives
+: __Table 2.12__     POc variant terms for close blood relatives
 
 __table__
                            | 1       |     2              | 3           |     4       |
@@ -3460,12 +3460,12 @@ __table__
  ‘elder s.s. sibling’      | —       | _*tua-_, _*tuaka-_ | —           |     _*kaka_ |     (§2.4.1.5.2)
 
 
-: Table 2.13 Distribution by Oceanic subgroups/regions of POc variant terms for close blood relatives
+: __Table 2.13__ Distribution by Oceanic subgroups/regions of POc variant terms for close blood relatives
 
 __table__
 column: | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21
 SHWNG   | y | y | y | y | y | y |   | y | y | y  | y  | y  |    | y  | y  | y  |    |    |    |    |
-POc | _*ama_ | _*tama-_ | _*kama_ | _*mama_ | _*ina_ | _*tina_ | _*kina_ | _*ñaña_ | _*ubu_ | _*kubu-_ | _*tubu-_ | _*bubu_ | _*tibu-_ | _*abu_ | _*tabu-_ | _*aci_ | _*taci-_ | _*kasi-_ | _*tua-_ | _*tuaka-_ | _*kaka_
+POc | [_*ama_]{.downwards} | [_*tama-_]{.downwards} | [_*kama_]{.downwards} | [_*mama_]{.downwards} | [_*ina_]{.downwards} | [_*tina_]{.downwards} | [_*kina_]{.downwards} | [_*ñaña_]{.downwards} | [_*ubu_]{.downwards} | [_*kubu-_]{.downwards} | [_*tubu-_]{.downwards} | [_*bubu_]{.downwards} | [_*tibu-_]{.downwards} | [_*abu_]{.downwards} | [_*tabu-_]{.downwards} | [_*aci_]{.downwards} | [_*taci-_]{.downwards} | [_*kasi-_]{.downwards} | [_*tua-_]{.downwards} | [_*tuaka-_]{.downwards} | [_*kaka_]{.downwards}
 Mussau  |   | y |   |   |   |   | y |   |   |    | y  |    |    |    |    |    | y  |    | y  |    |
 Adm     |   | y |   |   | y | y |   | y |   |    | y  | y  |    | y  | y  |    | y  |    |    |    |
 NNG     | y | y | y | y | y | y | y | y | y |    | y  | y  | y  | y  | y  | y  | y  |    | y  | y  | y
@@ -3518,23 +3518,23 @@ it doesn’t work for _*kaka_ (and Blust doesn’t suggest that it does). The la
 antiquity, yet the corresponding reference form _*tuaka_ is apparently a POc innovation, so
 _*kaka_ cannot be derived from it.
 
-: Table 2.14 PMP and POc variant terms for close blood relatives
+: __Table 2.14__ PMP and POc variant terms for close blood relatives
 
 __table__
                           | PMP             | POc      | PMP          | POc           | PMP      |   POc
 ‘father’                  | ___*ama___      | _*ama_   | ___*tama___  | _*tama-_      | _*mama_  |   _*mama_
-‘mother’                  | ___*ina___      | _*ina_   | ___*tina-___ | _*tina-_      | _*nana_¹ |   _*nana_
+‘mother’                  | ___*ina___      | _*ina_   | ___*tina-___ | _*tina-_      | _*nana_ ¹ |   _*nana_
                           | _*umpu_         | _*ubu_   | _*tumpu_     | _*tubu-_      |          |
 ‘grandparent, grandchild’ | _(*impu)_       | —        | _(*timpu)_   | _*tibu-_      | ___*bubu___ | _*bubu_
                           | ___*ampu___     | *abu     | —  ²         | _*tabu-_      |          |
-‘younger s.s. sibling’   | ___*huaji___, ___*haji___³ | _(*aci)_ | _*tuaji_, _*taji_³ | _*taci-_ | —    |   —
+‘younger s.s. sibling’   | ___*huaji___, ___*haji___ ³ | _(*aci)_ | _*tuaji_, _*taji_ ³ | _*taci-_ | —    |   —
 ‘elder s.s. sibling’      | _*aka_          | —       | _(*teka)_ | _*tua-_, _*tuaka_ | ___*kaka___  | _*kaka_
 
 Note: Parentheses indicate that a form is very weakly attested, i.e. 2-3 WMP reflexes in ACD.
 Bolding indicates that a PAn form can be reconstructed.
 
 __block__
-- ¹ ACD: Proto Philippine *nana ‘term of address for older female relative’.
+- ¹ ACD: Proto Philippine _*nana_ ‘term of address for older female relative’.
 - ² _*tampu_ is reconstructed only as far back as PEMP (ACD).
 - ³ Under the ACD entry for PAn _*Suaji_ is a note thaty irregular reflexes leave open the possibility
 that we should reconstruct both _*Suaji_ and _*Saji_’. The reconstructions shown here follow from this.
@@ -3675,7 +3675,7 @@ PSV *e-tme- ‘father, father’s brother’ (Lynch 2001c)
   SV:   Sye            e-tme-          ‘father, father’s brother’
   SV:   Lenakel        rəmə-           ‘father, father’s brother’
   SV:   Anejom         e-tma-          ‘father’, FB, FZH
-Proto New Caledonia *tama- ‘father, father’s brother’ (Ozanne-Rivierre 2000)
+PNCal *tama- ‘father, father’s brother’ (Ozanne-Rivierre 2000)
   NCal: Belep          cama-           ‘father, father’s brother’, MZH
   NCal: Nêlêmwa        kã̄mã           ‘father, father’s brother’
   NCal: Drubea         tẽ̄-             ‘father, father’s brother’
@@ -3859,7 +3859,7 @@ PSV *ri-(t,c)inV- ‘mother, mother’s sister’ (Lynch 2001c)
   SV:   Sye              n-rin(me)-         ‘mother, mother’s sister’
   SV:   Kwamera          ri-nn̥u-            ‘mother, mother’s sister’, FW, FBW, EFZ, FFZD
   SV:   Anejom           ri-si-             ‘mother, mother’s sister’, MBW
-Proto New Caledonia *tina- ‘mother, mother’s sister’ (Ozanne-Rivierre 2000)
+PNCal *tina- ‘mother, mother’s sister’ (Ozanne-Rivierre 2000)
   NCal: Nemi             tne-               ‘mother, mother’s sister’
   NCal: Fwâi             tʰẽ-               ‘mother, mother’s sister’
   NCal: Drubea           ñā                 ‘mother, mother’s sister’
@@ -4163,7 +4163,7 @@ Oceanic-speaking communities (§2.2.3), and sometimes in communities that are no
 matrilineal, there is often a dedicated term for ‘mother’s brother’ (MB). Sometimes this term is
 also used for ♂sister’s son (♂ZS) or ♂sister’s child (♂ZC). That is, the term is used reciprocally.
 
-    Sometimes, the MB term is the one used by a man of his wife’s father (WF) or by any EGO
+    Sometimes, the MB term is the one used by a man of his wife’s father (WF) or by any [EGO]{.smallcaps}
 of her/his spouse’s father (EF) (Blust 1980a, 1994). This seems odd until one recognises that
 in some communities—and evidently many more in the past—a man’s preferred marriage
 partner was his female cross-cousin, i.e. his MB’s daughter, so that after marriage his MB was
@@ -4354,7 +4354,7 @@ Makassarese (Sulawesi) | _aya_ | ‘mother’ (for persons of high rank), ‘mot
 Kei                    | _yai_ | ‘father’ (address form used by small children, and in mourning songs)
 
 A reasonable hypothesis is that POc _*aya_ too was a respectful address term used of a member
-of EGO’s parents’ generation, and that its application has tended to be narrowed in different
+of [EGO]{.smallcaps}’s parents’ generation, and that its application has tended to be narrowed in different
 ways in various regions. This leaves one puzzle: why do none of the reflexes embrace, say,
 both ‘mother’ and ‘father’, or both FZ and MB?
 
@@ -4573,7 +4573,7 @@ PPn *fosa ‘♂son, ♂brother’s son’ (Marck 1996)
   Pn: Tikopia        fosa     ‘♂child’, ♂BC (some speakers hold that fosa applied only to brother’s child)
 >
 
-2.4.1.3.2   ♂︎Sister’s child
+2.4.1.3.2 ♂Sister’s child
 
 POc _*[qa]lawa_ has been regularly offered in the literature as the term for ‘♂sister’s
 child’ (♂ZC). A number of its reflexes are glossed ‘mother’s brother’ (MB), whilst three
@@ -4758,7 +4758,7 @@ PSV *[e]t(p,b)u- ‘grandparent’ (Lynch 2001c)
   SV: Sye                 re-tpo-            ‘wife’
   SV: Lenakel             rəpə-              ‘grandparent’
   SV: Anejom              e-tpo-             ‘grandparent’
-Proto New Caledonia *tuᵐbu- ‘grandparent’ (Ozanne-Rivierre 2000)
+PNCal *tuᵐbu- ‘grandparent’ (Ozanne-Rivierre 2000)
   NCal: Nêlêmwa           kibu-              ‘grandparent’
   NCal: Fwâi              sıũ̃-              ‘grandparent’
   NCal: Kwênyii           tũ̃-               ‘grandparent, mother’s father, spouse’s father’
@@ -4948,16 +4948,17 @@ below supports POc _*ma-kubu-_ fairly strongly. This form evidently includes as 
 *kubu- (Table 2.12), reflected unprefixed only in the Bwaidoga and Iduna reflexes noted in
 the previous subsection.[32]
 
+<
 POc *makubu- ‘grandchild; kin two generations below ego’ (ACD: _*mo-kobu_)
   Adm: Pak               mo-kopu-          ‘grandchild’
   Adm: Lele              meŋʙu             ‘grandchild’
 PNCV *makubu ‘grandchild’ (Clark 2009)
   NCV: Apma              meʙu-             ‘grandchild’
   NCV: N Ambrym          mabœɔ-            ‘great-grandson’ (Guiart 1951)
-  NCV: Big Nambas        nn̼ əxitt̼ -      ‘grandchild’
+  NCV: Big Nambas        nn̼əxitt̼-          ‘grandchild’
   NCV: Ninde             neiʙü-            ‘grandchild’, MBDS
   NCV: Unua              meɣeʙu-           ‘grandchild’
-  NCV: Port Sandwich mexiᵐbü-              ‘grandchild, descendant’
+  NCV: Port Sandwich     mexiᵐbü-          ‘grandchild, descendant’
 PSV *maɣubʷu- ‘grandchild’ (Lynch 2001c)
   SV: Sye                moɣpo-            ‘grandchild’
   SV: Lenakel            mʷipʷə-           ‘grandchild’
@@ -4976,6 +4977,7 @@ PPn *makupu-na ‘kin of two or more descending generations’ (Marck 1996)
 cf. also:
   PT:   Bwaidoga         kubu-               ‘grandparent, grandchild’
   PT:   Iduna            kubu-               ‘great-grandparent, great-grandchild’
+>
 
 [32] This reinterpretation of the evidence differs from the ACD’s etymology, PMP _*maki-empu_.
 
@@ -5066,8 +5068,8 @@ _*tuaka_ all elder siblings.[33]
 
     Because of bifurcate merging (§2.3.1) in many languages a reflex of POc _*taci-_ is also
 used of a s.s. parallel cousin. In some of these languages, e.g. Yabem, the reflex means that it
-is the cousin who is younger than EGO. In other languages, e.g. Tongan, it indicates that the
-cousin’s parent is younger than EGO’s parent.
+is the cousin who is younger than [EGO]{.smallcaps}. In other languages, e.g. Tongan, it indicates that the
+cousin’s parent is younger than [EGO]{.smallcaps}’s parent.
 
     Another extended meaning is ‘s.s. sibling’s spouse’, or sometimes ‘younger s.s. sibling’s
 spouse’, discussed in §2.4.2.2.
@@ -5116,7 +5118,7 @@ POc *taci- ‘younger s.s. sibling, parallel cousin’s younger s.s. child’ (M
  NCV:  Uripiv        tasi-           ‘younger sibling’
  NCV:  Nguna         tai             ‘s.s. sibling’, {PsG}S (Loss of _*-s-_ is unexpected)
  SV:   Lenakel       no-rhə-         ‘younger s.s. sibling’
-Proto New Caledonia *tasi- ‘younger s.s. sibling’ (Ozanne-Rivierre 2000)
+PNCal *tasi- ‘younger s.s. sibling’ (Ozanne-Rivierre 2000)
  NCal: Nêlêmwa       kāri-           ‘younger s.s. sibling’
  NCal: Drubea        tī-             ‘younger s.s. sibling’
  NCal: Iaai          kei-            ‘younger s.s. sibling’
@@ -5213,7 +5215,7 @@ POc *tua- ‘elder s.s. sibling’, {PsG}esC (Milke 1958b: _*tuqa_)
 PSV *-tua- ‘elder s.s. sibling’ (Lynch 2001c)
  SV:   Kwamera        p-rea-      ‘elder s.s. sibling’, {PsG}eC
  SV:   Anejom         e-twa-      ‘s.s. sibling’, FBsC
-Proto New Caledonia *tuka- ‘elder s.s. sibling’ (Ozanne-Rivierre 2000)
+PNCal *tuka- ‘elder s.s. sibling’ (Ozanne-Rivierre 2000)
  NCal: Nêlêmwa        kʰia-       ‘elder s.s. sibling’
  NCal: Fwâi           hie-        ‘elder s.s. sibling’
  NCal: Cèmuhî         cuɔ-        ‘elder s.s. sibling’
@@ -5319,18 +5321,18 @@ The vast majority of Oceanic languages make a distinction between s.s. siblings 
 siblings. A language has either one term for all o.s. siblings, or two terms, one for ‘♀brother’
 and one for ‘♂sister’. As the tabulation below shows, the s.s. sibling terms described in the
 previous two subsections make an implicit statement about the referent’s sex, that it is the same
-as EGO’s. They may or may not distinguish between younger and older.
+as [EGO]{.smallcaps}’s. They may or may not distinguish between younger and older.
 
 __table__
                                       |    younger/elder?     |    female/male?
-           s.s. sibling term          |    yes or no          |    same as EGO
-           Type A o.s. sibling term   |    mostly no          |    opposite to EGO
-           Type B o.s. sibling term   |    no                 |    opposite to EGO + ALTER’s sex
+           s.s. sibling term          |    yes or no          |    same as [EGO]{.smallcaps}
+           Type A o.s. sibling term   |    mostly no          |    opposite to [EGO]{.smallcaps}
+           Type B o.s. sibling term   |    no                 |    opposite to [EGO]{.smallcaps} + [ALTER]{.smallcaps}’s sex
 
 O.s. sibling terms almost never make a younger/elder distinction. They make an implicit
 statement about the referent’s sex (Types A and B), and Type B also redundantly specifies
-ALTER’s sex explicitly. This has the effect that a female EGO uses one term for an o.s. sibling,
-and a male EGO uses another term.
+[ALTER]{.smallcaps}’s sex explicitly. This has the effect that a female [EGO]{.smallcaps} uses one term for an o.s. sibling,
+and a male [EGO]{.smallcaps} uses another term.
 
     There is evidence that PMP had Type A o.s. sibling terms, which Blust (1994) reconstructs
 as _*betaw_ ‘♂sister’, _*ñaRa_ ‘♀brother’. Both terms are reflected in various WMP and CMP
@@ -5471,7 +5473,7 @@ PSV *[na]mʷane- ‘♀brother’ (Lynch 2001c)
 120 Malcolm Ross and Jeffrey C. Marck
 
 <
-Proto New Caledonia *mʷane ‘♀brother’ (Ozanne-Rivierre 2000)
+PNCal *mʷane ‘♀brother’ (Ozanne-Rivierre 2000)
  NCal: Nêlêmwa        mʷãla-          ‘elder brother’
  NCal: Cèmuhî         mʷane-          ‘elder brother’ (archaic; Ozanne-Rivierre 2000)
  NCal: Iaai           mañi-           ‘o.s. sibling’ (Ray 1917)
@@ -5675,7 +5677,7 @@ these relations varied somewhat among immediately pre-modern communities.
 
 124 Malcolm Ross and Jeffrey C. Marck
 
-: Table 2.15 Glosses attributed to reflexes of _*tuRaŋ_
+: __Table 2.15__ Glosses attributed to reflexes of _*tuRaŋ_
 
 __table__
 Gloss                                       | Gen. | s/o |  Language
@@ -5762,7 +5764,7 @@ PNCV *asoa- ‘spouse’ (Clark 2009)
   NCV:  Port Sandwich   söa-           ‘spouse’
   NCV:  Lewo            o-             ‘spouse: husband, wife’
   SV:   Sye              aso-, ahʷo-   ‘husband’, ♀ZH
-Proto New Caledonia *qasao- ‘spouse’ (Ozanne-Rivierre 2000)
+PNCal *qasao- ‘spouse’ (Ozanne-Rivierre 2000)
   NCal: Nêlêmwa        arō-            ‘spouse’
   NCal: Fwâi           kalō-           ‘spouse’
   NCal: Xârâcùù        kʷɛ̄tɔ-          ‘spouse’
@@ -5802,9 +5804,9 @@ but the data do not suggest a corresponding ‘husband’ term.
 discussed in their kinship context in §2.4.1.5.3. Nonetheless, Oceanic languages have
 sometimes innovated terms that render ‘wife’ and ‘woman’ distinct. At least in one instance,
 this tendency was already manifest earlier than POc. PMP had a number of forms derived
-from the root *bahi. It was perhaps originally a stative verb ‘be female’, as many of its
+from the root _*bahi_. It was perhaps originally a stative verb ‘be female’, as many of its
 derivations include the infix _*⟨in⟩_, one of several PAn affixes that among other things formed
-nouns from verbs. In PMP _*b⟨in⟩ahi_ ‘woman, wife’ and *ba-b⟨in⟩ahi ‘female, woman’ are
+nouns from verbs. In PMP _*b⟨in⟩ahi_ ‘woman, wife’ and _*ba-b⟨in⟩ahi_ ‘female, woman’ are
 both attested. The latter was ancestral to POc _*papine_ ‘woman, female’. PMP _*b⟨in⟩ahi_ gave
 rise to PEMP _*b⟨in⟩ai_ and POc _*pine_ ‘woman, wife’, much more sparsely reflected that
 _*papine_. The difference in usage seems to have been present at least by PEMP. The cognate
@@ -5886,6 +5888,7 @@ i.e., EoG, GoE).[37]
 in-law’ and more broadly ‘s.s. sibling-in-law’. The two Kimbe reflexes, Bola and Nakanai,
 regularly reflect POc _*q-_, but there is no other evidence for an initial consonant.
 
+
 <
 PMP *hipaR ‘sibling-in-law (probably of the same sex only)’ (ACD)
 POc *ipaR, *ipa- ‘s.s. sibling-in-law’ (ACD)
@@ -5919,7 +5922,7 @@ PSES *iva- ‘♀sister-in-law, s.s. sibling-in-law’
  SES: Kwaio                ifa-                 ‘sibling-in-law’
  SES: E Arosi              iha-                 ‘s.s. sibling-in-law’
  SES: Owa                  -efa-                ‘spouse’s brother’ (_wa-efa-_ EB, _ka-efa-_ EZ)
-Proto New Caledonia *iva- ‘♀sister-in-law, s.s. sibling-in-law’ (Ozanne-Rivierre 2000)
+PNCal *iva- ‘♀sister-in-law, s.s. sibling-in-law’ (Ozanne-Rivierre 2000)
  NCal: Fwâi                ive-                 ‘♀spouse’s sister’
  NCal: Cèmuhî              iɛ-                  ‘spouse’s sister’
  NCal: Drehu               ie                   ‘spouse’s sibling’
@@ -5953,8 +5956,8 @@ for ‘♂brother-in-law’. Oceanic languages often have such a term, but only 
 reconstructions can be made.
 
    Intriguing is the fact is that there are no NCV reflexes of POc *ipa- and no replacement
-term is reflected across the archipelago, but there is a possible cognate set for ‘♂brother-in-
-law’, stretching across north and central Vanuatu. Clark (2009) reconstructs PNCV *tauwia,
+term is reflected across the archipelago, but there _is_ a possible cognate set for ‘♂ __brother__-in-
+law’, stretching across north and central Vanuatu. Clark (2009) reconstructs PNCV _*tauwia_,
 but Lynch (2004d) divides the set in two, _*taku_ and _*tauwia_, to account for the presence or
 absence of reflexes of _*-k-_. The division is accepted here, with the rider that, given their
 similarity of form and identical meaning, the two sets may have a shared history. The form
@@ -5989,7 +5992,7 @@ Proto Central Vanuatu *tau-wia ‘brother-in-law’ (Clark 2009)
 
    One would also expect a POc term for ‘o.s. sibling-in-law’. A little digging reveals that
 _*taci-_ ‘(younger) s.s. sibling’ (§2.4.1.5.1) also applied to the spouse of _*taci-_ (sGE).
-Somewhat counter-intuitively, this means that its secondary sense is ‘o.s. sibling-in-law’, also
+Somewhat counter-intuitively, this means that its secondary sense is ‘__o.s. sibling__-in-law’, also
 including ego’s spouse’s siblings of the opposite sex to ego (EoG). There are also a few
 instances of _*tua-_ ‘elder s.s. sibling’ (§2.4.1.5.2) used in the same way—’few’ because they
 only occur in languages that make an age distinction among s.s. siblings. In the listings
@@ -6209,8 +6212,8 @@ brideprice for his bride. Many languages have a term for ‘co-wife’, pointing
 referred to by idioms. ‘Shake hands’ and ‘take a woman’ are quite widespread Oceanic
 idioms for ‘marry’. There are, however, two reconstructable verbs for ‘marry’.
 
-   The first of these has POc _*qasawa_ ‘spouse’ as its root (cf §2.4.2.1). It is evident from
-ACD data that cognate verbs also occur in a number of non-Oceanic languages. However, the
+   The first of these has POc _*qasawa_ ‘spouse’ as its root (cf §2.4.2.1). It is evident
+from  ACD  data that cognate verbs also occur in a number of non-Oceanic languages. However, the
 reconstruction is questionable, as it is plausible that such a term was invented on various
 occasions during the spread of Oceanic languages into the Pacific. Indeed, the Pn terms
 below retain the PPn suffix _*-na_ which occurred on inalienably possessed kinship nouns.
@@ -6371,17 +6374,17 @@ __block__
 - Dobu: Fortune 1932
 - Drehu: Ozanne-Rivierre 2000
 - Drubea: Ozanne-Rivierre 2000
-- Fijian, E (Bauan): Capell & Lester 1945
+- Fijian, E (Bauan): Capell & Lester 1945-46
 - Fijian, W (Deuba): Geddes 1945
 - Fijian, E (Lakeba I.): Pauwels 2015
 - Fijian, E (Matailobau) Turner 1991
 - Fijian, E (Moala): Sahlins 1962
 - Fijian, E (Nasau): Cayrol 2015
 - Fijian, E (Tokatoka): Nayacakalou 1955
-- Fijian, W (Nadi): Capell & Lester 1945
-- Fijian, W (Nadrogā): Capell & Lester 1945
-- Fijian, W (Tavuki): Capell & Lester 1945
-- Fijian, W (Vuda): Capell & Lester 1945
+- Fijian, W (Nadi): Capell & Lester 1945-46
+- Fijian, W (Nadrogā): Capell & Lester 1945-46
+- Fijian, W (Tavuki): Capell & Lester 1945-46
+- Fijian, W (Vuda): Capell & Lester 1945-46
 - Fijian, W (Wayan): Pawley & Sayaba 2022
 - Futuna, E: Burrows 1936
 - Futuna, W: Capell 1958; Dougherty 1983
@@ -6492,7 +6495,7 @@ __block__
 - Tongarevan (= Penrhyn): Hīroa 1932a
 - Torau: Bethwyn Evans’ fieldnotes
 - Tuam: Bugenhagen 2011
-- Tubetube: Seligmann 1910
+- Tubetube: Seligman 1910
 - Tuvalu: Besnier 2000:626–631
 - Ulawa: Ivens 1927
 - Ulithian: Lessa 1966; Hage & Marck 2002
@@ -6658,7 +6661,7 @@ matrilocal or avunculocal.
 
 144 Per Hage
 
-: Table 3.1 The relation between bifurcate merging kinship terminology and descent groups (Sources: Murdock 1967, 1970; Murdock and White 1969).
+: __Table 3.1__ The relation between bifurcate merging kinship terminology and descent groups (Sources: Murdock 1967, 1970; Murdock and White 1969).
 
 __table__
             Type of kinship terminology |               |      Descent groups |
@@ -6680,7 +6683,7 @@ Hage and Harary 1996; Blust 1980a) ‘male’ is the unmarked term. Diachronical
 interpreted, if POc, PPn and PMP terminologies had a separate term for FZ it was lost
 before the term for MB.
 
-: Table 3.2 The relation between bifurcate merging kinship terminology and residence rules (Sources: Murdock 1967, 1970; Murdock and White 1969).
+: __Table 3.2__ The relation between bifurcate merging kinship terminology and residence rules (Sources: Murdock 1967, 1970; Murdock and White 1969).
 
 __table__
            Type of kinship terminology         |                      |
@@ -6697,10 +6700,10 @@ including Rivers (1910), Mead (1934), Mabuchi (1964), Rogers (1977) and Douaire-
 
                                                Was Proto Oceanic society matrilineal? 145
 
-: Table 3.3 The relation between cross distinctions in ‘uncle’ terms and ‘aunt’ terms in Oceanic speaking societies. (Sources: Murdock 1967, 1970; Murdock and White 1969.)
+: __Table 3.3__ The relation between cross distinctions in ‘uncle’ terms and ‘aunt’ terms in Oceanic speaking societies. (Sources: Murdock 1967, 1970; Murdock and White 1969.)
 
 __tablenh__
-                                      |   ‘Uncle’ terms: Cross distinction present | ‘Uncle’ terms Cross distinction absent
+                                      |   ‘Uncle’ terms: Cross distinction present | ‘Uncle’ terms: Cross distinction absent
 ‘Aunt’ terms: Cross distinction present  |     13       |          1
 ‘Aunt’ terms: Cross distinction absent   |  11          |       9
 
@@ -6730,7 +6733,7 @@ almost entirely cognatic; in nuclear Micronesia they are almost entirely matrili
 Island Melanesia,[12] the homeland of Proto Oceanic society, they are predominantly
 matrilineal or formerly matrilineal, as attested by systems of double descent.
 
-: Table 3.4   Types of descent groups in Oceanic-speaking societies (Sources: Murdock 1967, 1970, Murdock and White 1969).
+: __Table 3.4__   Types of descent groups in Oceanic-speaking societies (Sources: Murdock 1967, 1970, Murdock and White 1969).
 
 __table__
  Type of kinship terminology     |             |       Descent groups |
@@ -6820,8 +6823,7 @@ glacially, under normal (non-acculturative) circumstances, and they are more res
 diffusion than other cultural traits (Dyen and Aberle 1974; Eggan 1955; Murdock 1949). If
 Proto Oceanic society was, in fact, matrilineal then one might expect a continuation of
 matrilineal traits in its descendants. The converse would be true if Proto Oceanic society
-was patrilineal. Data for testing this hypothesis come from a recent study by Burton,
-Moore, Whiting and Romney (1996).
+was patrilineal. Data for testing this hypothesis come from a recent study by Burton et al. (1996).
 
     Burton and his colleagues, building on the work of Murdock (1967), have shown that
 nine world regions can be distinctively characterised by two dimensions of social structure:
@@ -6895,7 +6897,7 @@ whatever their rule of descent—cognatic, patrilineal, matrilineal or double de
                                                      Was Proto Oceanic society matrilineal? 149
 
 
-Figure 3.1: Social structural traits of Oceanic-speaking societies (based on Burton et al. 1996. M= Melanesia, P= Polynesia, I= Micronesia)
+Figure 3.1: Social structural traits of Oceanic-speaking societies (based on Burton et_al. 1996. M= Melanesia, P= Polynesia, I= Micronesia)
 
     We conclude, on the basis of historical-linguistic, ethnographic and cross-cultural
 evidence, that descent in Proto Oceanic society was matrilineal and residence matrilocal or
@@ -7375,7 +7377,7 @@ Tikopia and New Zealand Maori follow.
 
 4.3.1.1 Tikopia
 
-Tikopia is a small high island (4.6 km2) with very limited arable land. Its population of around
+Tikopia is a small high island (4.6 km²) with very limited arable land. Its population of around
 1250 at first European contact tested to the limit the carrying capacity of the environment.
 Nevertheless, as described by Firth (1936), it exemplifies perfectly the essential characteristics
 of conical clan societies. Tikopia’s population was divided into four ramified patrilineal descent
@@ -7440,8 +7442,8 @@ the colonial era. We will consider the Tongan case.
 
 4.3.2.1 Tonga
 
-With a land area of only 696 km2, the Tongan group is much smaller in geographical extent and
-poorer in natural resources than the Hawaiian (16,600 km2) and Society (1535 km2) groups. It
+With a land area of only 696 km², the Tongan group is much smaller in geographical extent and
+poorer in natural resources than the Hawaiian (16,600 km²) and Society (1535 km²) groups. It
 contains one relatively large island, Tongatapu, with its satellites in the south, and two clusters
 of smaller islands in the north, the Ha’apai and Vava’u groups. Nevertheless, Tonga at first
 contact was densely populated (estimated 40,000) and had developed a highly stratified, feudal
@@ -7688,12 +7690,18 @@ __blockquote__
      satisfied, but common residence was in practice a key factor in group cohesion. A
      newcomer was sometimes installed as chief by earlier inhabitants who nonetheless
      continued to exercise covert authority through their control of land […]
+
+__blockquote__
      A clan or tribal chief […] enjoyed many prerogatives and possessed authority because of
      his role as intermediary between the group and its ancestral spirits […]
+
+__blockquote__
      The chief was neither the sole office holder nor the only decision maker. He shared
      authority with such dignitaries as the war chief, master of the soil, priests and powerful
      sorcerers, who with respected elders formed an advisory council which assisted the
      chief to reach the consensus on which group action was usually based […]
+
+__blockquote__
      The sanctity of New Caledonian chiefs and the deference to which they were entitled
      rested on their implied genealogical connexions with deified ancestors.
 
@@ -7757,6 +7765,8 @@ __blockquote__
      the nineteenth century. It was expressed in various ways: birth-order name, kinship
      terminology, a system of dual rank, ranked titles for leaders, and material signs of
      distinction (Otto 1994:224)
+
+__blockquote__
      Hierarchy was not based on ascription or achievement alone, but on a specific articulation
      of these two principles […] The relative ranking of leaders of high rank was
      determined by their success in warfare and feast-giving. The status of a _lapan_ [chiefly]
@@ -7770,7 +7780,7 @@ Wedgwood (1934) reports that in Manam society descent is patrilineal, residence 
 and leadership is hereditary, based on primogeniture. There are two named social groups, the
 aristocracy (_tanepoa_ or _tanepwa_) and the commoners (_gadagada_). Membership in these groups
 is based on birth. The village chief, _tanepoa labalaba_, literally ‘big chief’, is the “senior male
-descendant in the male line of the original founder of the village” (Wedgewood 1934:383). The
+descendant in the male line of the original founder of the village” (Wedgwood 1934:383). The
 chief’s sons and younger brothers are called _tanepoa siʔisiʔi_, literally ‘little chief’. There is a
 strong preference for marriage between chiefly families. Lutkehaus (1990) states that _tanepoa_
 were believed to inherit from their ancestors special _marou_, a form of supernatural power or
@@ -7798,6 +7808,8 @@ __blockquote__
      have these […] He inherits wealth from his father, and adds to it by the fines he imposes
      and by the gifts of his people, but no wealth or success in war could make a man a chief
      at Sa’a if not born of the chief’s family.
+
+__blockquote__
      Chiefs lived in more substantial buildings than commoners. The _toohi_ ‘chief’s lodge’ is
      the reception house for all visitors of importance.
 
@@ -8535,7 +8547,7 @@ POc *mʷalala (n) ‘cleared land, clearing’; (V) ‘be cleared of vegetation,
  Mic: Ponapean          mall                ‘natural clearing in a forest’
  Mic: Satawal           melal               ‘cleared ground’
  Fij: Bauan             ŋalala              ‘be spacious, empty, free, at liberty, exempt’
- Fij: Wayan             ŋwalala             ‘be vacant, unoccupied, empty, free, exempt’
+ Fij: Wayan             ŋʷalala             ‘be vacant, unoccupied, empty, free, exempt’
 >
 
    The semantics of POc _*panua_ are discussed in §5.5.
@@ -8644,7 +8656,7 @@ __formgroup__
 
 186 Andrew Pawley and Roger Green
 
-: Table 5.1     Distribution of senses of reflexes of _*panua_ by subgroups
+: __Table 5.1__     Distribution of senses of reflexes of _*panua_ by subgroups
 
 __tablenh__
   ‘land (not sea or sky)’                     |   Adm, PT, MM, SES, NCV, Mic, Fij, Pn
@@ -8684,7 +8696,7 @@ target language. (This problem is not particular to dictionaries of Oceanic lang
 systemic in that bilingual dictionaries are typically designed to be translation aids rather than
 to provide analytic definitions.) And such single word glosses as ‘land’, ‘earth’, ‘country’ and
 ‘people’ are themselves imprecise, because each has more than one sense. For example, the
-entry for land in The Shorter Oxford English Dictionary gives many senses, of which the
+entry for __land__ in _The Shorter Oxford English Dictionary_ gives many senses, of which the
 following are relevant to our concerns:
 
                                                                        Settlement patterns 187
@@ -8749,14 +8761,14 @@ __blockquote__
 188 Andrew Pawley and Roger Green
 
 
-: Table 5.2     Eight senses of Wayan Fijian _vanua_ (N)[6]
+: __Table 5.2__     Eight senses of Wayan Fijian _vanua_ (N)[6]
 
 __table__
-   |  Sense                                                Usage notes
+   |  Sense                                  |              Usage notes
  1 | ‘Land, ground, as opposed to sea’ (_waitaci_), ‘water’ (_wai_, _ruwai_) or ‘sky’ (_lomālagi_). near  syn. _qwele_. | Contrasts with locative phrases _i vōvō_, ‘ashore, on land’ (in contrast to ‘at sea’) and _i ata_, ‘inland ‘(in contrast to ‘on the coast’).
  2 | Land in the sense of land mass, large tract of land, territory, country. | This sense may take modifiers indicating attributes, such as being fertile, stony, uninhabited, mountainous.
  3 | Homeland, someones home region or country. | Requires a possessive pronoun.
- 4 | A particular delimited place, spot, area, district, region, zone. | Near synonym tiki.
+ 4 | A particular delimited place, spot, area, district, region, zone. | Near synonym _tiki_.
  5 | A community, the people belonging to a place, a land-owning kin-group. Refers to a collective ‘people’, never to a single person. | _Ara sā sevutia na ledra tovatova i na vanua_. ‘They presented the first fruits of their gardens to the community.’
  6 | The chief of a community, the representative  of a community. Only metaphorically, in compounds such as _bilo ni vanua_ (lit. ‘cup of the community’), ‘high chief, one who has been formally installed’ and _aqona ni vanua_ (lit. ‘kava of the community’), ‘the first cup of  kava in a ceremony, drunk by the chief’; ‘kava ceremony to welcome a visiting chief or for installing a new chief’. | _Ei na rugutia vinā me sā somia na aqona ni vanua_. ‘He's well suited to be made chief.’ (lit. ‘He's well suited to drink the kava of the community’).
  7 | A political confederation of clans under a chief. |   (Possibly borrowed from Bauan Fijian.)
@@ -8795,7 +8807,7 @@ narrowing to ‘house’ in a number of languages.
     To sum up, the comparative lexical evidence assembled in sections 5.4 and 5.5 does not
 tell us whether POc speakers occupied sizeable villages or dispersed hamlets.
 
-: Table 5.3        Probable senses of POc _*panua_
+: __Table 5.3__        Probable senses of POc _*panua_
 
 __table__
       | Sense                                                                  |   Distribution
@@ -8818,7 +8830,7 @@ __table__
 
 190 Andrew Pawley and Roger Green
 
-: Table 5.4   Some phrasal expressions for world and weather containing reflexes of POc _*panua_
+: __Table 5.4__   Some phrasal expressions for world and weather containing reflexes of POc _*panua_
 
 __table__
       | Language   | Phrasal expression + gloss               | Notes
@@ -8826,15 +8838,15 @@ __table__
  PT:  | Motu       | _hanua-boi_ ‘night’ (N)                  |
       |            | _hanua idaradara_ ‘evening glow’         | _-dara_ ‘ascend’
  SES: | Sa’a       | _sato e kʷaʔalie henue_ ‘the sun has risen’ (lit. ‘sun rises on (the) world’; _kʷaʔali-_ of heavenly bodies, ‘to rise on s.t.’)  | from POc _*panua_ ‘land‘ + _*boŋi_ ‘night ‘ (_hanua_ now means ‘village’
- SES: | Lau        | _fanua sato_ ‘sunny weather’ | _sato_ ‘sun’. _Lau fanua_ no longer refers to land or settlements but occurs in several compounds specifying weather conditions
- Fij: | Bauan      | sā boŋi na vanua ‘it is night time, nightfall’ |  [is night the world]
-      |            | sā karobo mai na vanua ‘it is twilight’        |  [is dusk the world]
-      |            | sā siŋa na vanua ‘it is daylight, it is sunny’ |  [is day/sun the world]
-      |            | ā siŋa-levu na vanua ‘it is midday/the sun is high’  |  [is big-sun the world]
- Fij: | Rotuman    | hanua ræn ‘daylight, dawn’                     |  [world day]
-      |            | hanua ke pöŋ ‘(until) nightfall’               |  _pöŋ_ ‘night’
- Pn:  | Rennellese | henua pō ‘night time’                          |  _henua_ ‘land, people of the land’
- Pn:  | Tikopia    |   ku pō te fenua ‘darkness has come’           |    [has become dark the world]
+ SES: | Lau        | _fanua sato_ ‘sunny weather’ | _sato_ ‘sun’. Lau _fanua_ no longer refers to land or settlements but occurs in several compounds specifying weather conditions
+ Fij: | Bauan      | _sā boŋi na vanua_ ‘it is night time, nightfall’ |  [is night the world]
+      |            | _sā karobo mai na vanua_ ‘it is twilight’        |  [is dusk the world]
+      |            | _sā siŋa na vanua_ ‘it is daylight, it is sunny’ |  [is day/sun the world]
+      |            | _ā siŋa-levu na vanua_ ‘it is midday/the sun is high’  |  [is big-sun the world]
+ Fij: | Rotuman    | _hanua ræn_ ‘daylight, dawn’                     |  [world day]
+      |            | _hanua ke pöŋ_ ‘(until) nightfall’               |  _pöŋ_ ‘night’
+ Pn:  | Rennellese | _henua pō_ ‘night time’                          |  _henua_ ‘land, people of the land’
+ Pn:  | Tikopia    |   _ku pō te fenua_ ‘darkness has come’           |    [has become dark the world]
 
 
 5.5.2 World and weather
@@ -8860,6 +8872,8 @@ of land tenure in Melanesia.
 __blockquote__
       Title to land is usually vested in a corporate group, membership of which is likely to be
       based on descent, residence or some combination of the two….
+
+__blockquote__
       The details of systems of land tenure [in Melanesia] differ greatly from society to
       society. Some permit permanent alienation and individual ownership; others do not. It
       is not uncommon to find distinctions between gardening land, village land or house
@@ -9145,7 +9159,7 @@ material to the artefact made from that material.
 PAn *qauR ‘bamboo sp.’ (ACD)
 POc *qauR ‘bamboo; bamboo wind instrument’ (vol.3:400)
   Adm: Mussau        kauru           ‘bamboo’
-  NNG: Lukep         kaur            ‘flute; traditional musical instrument made out of bamboo monomono. It has four notes per octave. Historically a man would play the flute when he was hungry and had nothing to eat.’
+  NNG: Lukep         kaur            ‘flute; traditional musical instrument made out of bamboo _monomono_. It has four notes per octave. Historically a man would play the flute when he was hungry and had nothing to eat.’
   NNG: Bilibil       kau(-mahay) ‘bamboo sp., flute, long bamboo wind instrument (2.7m x 5 cm)’
   MM:  Tolai         kaur            ‘k.o. bamboo’
   MM:  Tinputz       kaʔur, waʔur  ‘larger panpipes with mouthpiece, usually of three reeds of different diameter’ (Blackwood 1935:412)
@@ -9250,10 +9264,10 @@ PPn *faŋu-faŋu ‘nose-flute’ (POLLEX: PPn _*faŋu_ ‘breathe, blow through
   Pn:  W Futunan      faŋu(jia)     ‘play panpipes’
 cf. also:
   Mic: Puluwatese     yaŋin         ‘nose flute’ (_yafoŋ_ ‘nose, deferential’)
-  Mic: Chuukese       āŋún          ‘nose flute, used in former times by young men to serenade young women’ (Diettrich 2007)
+  Mic: Chuukese       āŋún          ‘nose flute, used in former times by young men to serenade young women’ (Diettrich 2017)
   Fij: Rotuman        faŋ-faŋu      ‘nose flute’ (Pn borrowing)
 PPn *faŋo ‘bamboo nose flute’ (from PPn _*faŋo_ ‘blow or speak through the nose’)
-  Pn:  Tongan         faŋo-faŋo     ‘nose flute’ (Martin 1817)
+  Pn:  Tongan         faŋo-faŋo     ‘nose flute’ (Martin 1818)
   Pn:  W Futunan      faŋo          ‘pipe, flute’
   Pn:  Mele Fila      faŋo          ‘any musical instrument, but esp. mouth organ’
   Pn:  Maori          faŋo          ‘having nasal sound’
@@ -9598,7 +9612,7 @@ __blockquote__
       relevant rites.
 
     Throughout Micronesia, music is predominantly vocal rather than instrumental.
-Diettrich et al (2011:20) write that
+Diettrich et al. (2011:20) write that
 
 __blockquote__
       The vocalization of poetry, whether in oratory, song, or formal story-telling,
@@ -10588,7 +10602,7 @@ POc *mʷaja ‘play, have fun’
 >
 
 <
-PPn *ta(a)-kalo ‘to play; a game’ (PPn _*tā_ ‘strike’, *kalo ‘dodge, evade’)
+PPn *ta(a)-kalo ‘to play; a game’ (PPn _*tā_ ‘strike’, _*kalo_ ‘dodge, evade’)
   Pn:    Niuean             takalo            ‘play game of _tika_; to evade blows; sport’
   Pn:    Samoan             taʔalo            ‘to play’
   Pn:    Samoan             tāʔaloŋa          ‘any individual game’
@@ -10648,12 +10662,12 @@ PPn *fai ‘cat’s cradle, string games’
   Pn:  Tongan             fai            ‘cat’s cradle’
   Pn:  Pukapukan          wai-wai        ‘cat’s cradle; to make string figures’
   Pn:  Tuamotuan          fai            ‘string games, cat’s cradle’
-  Pn:  Tahitian           fai            ‘name of a game played by children; string game, cat’s cradle’ (also ‘meshes of sorcerer’s net’; Handy 1925:6)
+  Pn:  Tahitian           fai            ‘name of a game played by children; string game, cat’s cradle’ (also ‘meshes of sorcerer's net’; Handy 1925:6)
   Pn:  Maori              fai            ‘string game, cat’s cradle’
   Pn:  Hawaiian           hei            ‘cat’s cradle’ (also ‘net, snare; to ensnare, entangle’)
 >
 
-   The meaning of the bracketed form -kau in the Motu term is unclear but it is included in
+   The meaning of the bracketed form _-kau_ in the Motu term is unclear but it is included in
 several net-related terms in Motu, an association of meaning which is echoed in the Tahitian
 and Hawaiian terms. PAn _*paRiS_ ‘stingray’ is, as suggested by Blust, a plausable antecedent
 for the generic term for cat’s cradle at POc level. A stingray is roughly diamond-shaped,
@@ -11033,7 +11047,7 @@ cf. also:
 Other low-level reconstructions include:
 
 <
-Proto New Guinea Oceanic *bara(q)um ‘spirit of dead person’
+PNGOc *bara(q)um ‘spirit of dead person’
   NNG: Dami             balaū         ‘ghost, spirit, phantom’
   NNG: Yabem            balom         ‘spirit of deceased persons, ghosts of the dead’
   NNG: Bukawa           balom         ‘spirit; bullroarer’
@@ -11094,8 +11108,8 @@ PAdm *mʷalaw(i,a)- ‘spirit, perhaps of the dead’
   Adm: Lou                   moloa-n         ‘spirit of the dead’
   Adm: Nyindrou              malawi-n        ‘spirit, reflection’
   Adm: Titan                 mwalua-n        ‘spirit, ghost’
-Proto New Guinea Oceanic *mʷaria(b,w)a- ‘spirit, perhaps of a person’
-  NNG: Manam                 mariaba         ‘person’s spirit’ (Wedgwood 1934–35:71)
+PNGOc *mʷaria(b,w)a- ‘spirit, perhaps of a person’
+  NNG: Manam                 mariaba         ‘person’s spirit’ (Wedgwood 1934-35:71)
   NNG: Lukep                 mariawa         ‘bush spirit’
   NNG: Mangseng              meleun          ‘spirit’
   NNG: Poeng                 maliava         ‘spirit’
@@ -11700,7 +11714,7 @@ Specialised terms for such magical or induced sleep include:
 254 Meredith Osmond
 
 __formgroup__
-  NNG: Manam       dimate         ‘induced sleep to enable soul of curer to travel to Land of the Dead to retrieve soul of ill person’ (Wedgwood 1934-5:297)
+  NNG: Manam       dimate         ‘induced sleep to enable soul of curer to travel to Land of the Dead to retrieve soul of ill person’ (Wedgwood 1934-35:297)
   MM: Nehan        uelhohou       ‘fever-curing ritual where curer searches in sleep for lost soul of patient’ (_uel-_ RECIP, _hohou_ ‘sleep’) (Glennon & Glennon 2005)
   SES: Ulawa       |maʔahu isuli| ‘magical sleep to trace anyone or find out the cause of an illness’ (lit. ‘sleep and find out’) (Ivens 1927:345)
 
@@ -12229,10 +12243,10 @@ New Guinea from the 1880’s on, there was also a very real fear of the results 
 interference, for sorcery became an indictable offence (Seligman 1910:278). It would seem
 that in general it is desirable that those who profess knowledge of sorcery do not draw
 attention to their powers, lest it leave them open to retaliation. Sorcery works best in a
-climate of rumour and innuendo. Occasionally, however, as described by Seligman in Roro
-(1910:279), “a sorcerer may … be regarded generally as real protection, for, besides being
+climate of rumour and innuendo. Occasionally, however, as described by Seligman (1910:279)
+in Roro, “a sorcerer may … be regarded generally as real protection, for, besides being
 able to thwart the acts of sorcerers of other villages, the latter will, it is supposed, refrain
-from hostile magic in order not to provoke reprisals”, while Hogbin (1964:57) noted that
+from hostile magic in order not to provoke reprisals”, while Hogbin (1964a:57) noted that
 the Longgu of Guadalcanal attributed a knowledge of sorcery to most village headmen and
 many elders, “to the extent that man’s identification as a sorcerer was a measure of his
 social distinction.”
@@ -12247,15 +12261,15 @@ perspective of Tikopia as “mainly those of economics or of personal status: de
 wish to punish for theft of food; jealousy of competitive achievement; resentment at a
 personal affront.”
 
-    Although there is widespread belief across communities (e.g. Roro [Seligman 1910:279],
-Mekeo [Stephen 1987b:252], Kove [Chowning 1987:157], Longgu [Hogbin 1964:58]) that except
+    Although there is widespread belief across communities (e.g. Roro (Seligman 1910:279),
+Mekeo (Stephen 1987b:252), Kove (Chowning 1987:157), Longgu (Hogbin 1964:58)) that except
 in the case of infants and very old folk and those killed in warfare,
 death is the result of sorcery, much of sorcery consists of attack and counter-attack, without
 resulting in death. Kin of sick individuals may approach those believed to have the power
 to cause harm and offer them payment to remove their spell (Stephen 1987:43). A sufferer
 may have a good idea of someone he or his close kin have offended, or know of those who
 hold a grudge against him, and he may have a good idea of those with the ability to practise
-sorcery and identify the likely sorcerer. Chowning notes (1989:224) that in Kove, if an
+sorcery and identify the likely sorcerer. Chowning (1989:224) notes that in Kove, if an
 illness was drawn out, it was assumed that the sorcerer wanted to be bought off rather than
 to kill the victim. There it was common practice to approach a number of known sorcerers
 with offerings of shell money and to ask them to undo the spell.
@@ -12341,7 +12355,7 @@ PWOc *bara ‘poison, magic employed to affect another person’
 to PNGOc, relates only to black magic or to spells in general.
 
 <
-Proto New Guinea Oceanic *nabʷa ‘a spell’
+PNGOc *nabʷa ‘a spell’
   NNG: Manam   nabʷa          ‘spell usually resulting in rapid death’ (Wedgwood 1934-35)
   PT:  Dobu    nabʷa(sua) (N) ‘magic spell’; (V) ‘to utter magic spell’ (_-sua_ ‘?’)
 cf. also:
@@ -12442,7 +12456,7 @@ __block__
 9.1 Introduction[1]
 
 Attempts to trace the etymology of the Oceanic concept of _mana_ have been undertaken by
-various linguists and anthropologists since Capell (1938–39) including Blust (2007) and
+various linguists and anthropologists since Capell (1938-39) including Blust (2007) and
 Blevins (2008). A Proto Eastern Oceanic reconstruction _*mana_ (VSt) ‘to have supernatural
 power from ancestral spirits as manifest in successful outcomes; be efficacious’; (N) ‘efficacy,
 success’, is well supported, but to raise it to POc we need either cognates from Oceanic
@@ -12660,7 +12674,7 @@ __blockquote__
       know it from Melanesia is fixed only in the spell and its rite, and cannot be ‘conveyed
       in’ anything but can be conveyed only by its strictly defined procedure. (Malinowski 1948:57)
 
-9.3.1 Tubetube namwa-namwa
+9.3.1 Tubetube _namʷa-namʷa_
 
 After searching widely for cognates in northwest Melanesia, Keesing (1984:147) wrote “I
 have found only one probable _mana_ cognate among Oceanic languages west of the
@@ -12776,7 +12790,7 @@ borrowings, stronger support than these is needed to permit a POc reconstruction
 9.4 Evidence from Blust (2007)
 
 In his quest for a POc reconstruction for _mana_, Blust dismisses the evidence from various
-Indonesian languages offered by Capell (1938–9) in support of a putative PMP origin for the
+Indonesian languages offered by Capell (1938-39) in support of a putative PMP origin for the
 term.[6] Instead, he draws on the existence of a network of examples world-wide “in which
 cultural traditions that initially may appear to be arbitrary creations of the human mind turn
 out on closer inspection to be inspired by the natural world” (2007:416). He attempts to draw
@@ -12804,12 +12818,12 @@ Tryon. François regards them as distinct and unrelated terms.
 __table__
                |   thunder        |      mana
                |   (Tryon 1976)   |      (François 2013)
-    PT-B       |   *mʷonu         |      *mana
-    Hiw        |   mon            |      manə
-    Lo Toga    |   mon-lal        |      menə
-    Lehali     |   mon-beibai     |      n-man
-    Mosina     |   mʷon           |      man
-    Mota       |   manu           |      mana
+    PT-B       |   _*mʷonu_         |      _*mana_
+    Hiw        |   _mon_            |      _manə_
+    Lo Toga    |   _mon-lal_        |      _menə_
+    Lehali     |   _mon-beibai_     |      _n-man_
+    Mosina     |   _mʷon_           |      _man_
+    Mota       |   _manu_           |      _mana_
 
 In dismissing evidence that thunder is identified with _mana_ ‘supernatural power’ in NCV
 languages, we are left with Polynesian terms as the only evidence of a possible connection
@@ -12872,7 +12886,7 @@ with winds of greater consequence and thus an appropriate representation of supe
 
 9.5 Evidence from Blevins (2008)
 
-Blevins (2008) follows Capell (1938–39) and Blust (2007) in seeking to uncover the
+Blevins (2008) follows Capell (1938-39) and Blust (2007) in seeking to uncover the
 etymology of _mana_ terms meaning ‘potent, effectual, of supernatural power’ in Eastern
 Oceanic. She accepts the general arguments presented in Blust (2007) and adds previously
 unrecognised reflexes from New Caledonia and more questionable ones from Southern
@@ -12970,7 +12984,7 @@ There are two hints of a possible final consonant in POc †_*mana(q)_. One, des
 by Blevins (2008:256), comes from the South Vanuatu language Kwamera. Kwamera has a
 term, _-aməna_ ‘work, produce, enlarge or improve (as one’s resources)’. Although Blevins is
 right in noting that Kwamera’s final vowel retention points to loss of a final _*-q_ or _*-R_ (see
-Lynch 2001:103–5), the term’s status as a reflex of PEOc _*mana_ is highly questionable in
+Lynch 2001c:103–5), the term’s status as a reflex of PEOc _*mana_ is highly questionable in
 view of its semantic distance.
 
    The second instance is from an article by Blythe & Fairhead (2017) which describes
@@ -13008,6 +13022,7 @@ term is best considered a chance similarity rather than cognate with reflexes of
 
 Several POc reconstructions for _*mana_ made earlier have here been reconsidered. They are:
 
+__block__
 - POc _*mana_ (N) ‘power in natural phenomena’ (Blust 2007)
 - POc _*mana_ (N) ‘supernatural power, associated with spirits of the ancestors and the
   forces of nature’ (Blevins 2008)
@@ -13165,7 +13180,7 @@ interpreted as dehortative ‘don’t’.[3]
 PCEMP *tambu ‘forbidden, taboo’ (ACD)
  CMP: Yamdena       tambu                ‘restrain, prevent’
  CMP: Fordata       tabu                 ‘forbid, prevent’
- SHWNG: Numfor        kābus                ‘tree branch or anything else placed on fruit tree or other object by its owner in order to make others afraid to approach the marked object lest ill fortune befall them’ (long vowel and final -s unexplained) (ACD: footnote under _*tapu-tapu_)
+ SHWNG: Numfor        kābus                ‘tree branch or anything else placed on fruit tree or other object by its owner in order to make others afraid to approach the marked object lest ill fortune befall them’ (long vowel and final _-s_ unexplained) (ACD: footnote under _*tapu-tapu_)
 POc *tabu (VSt) ‘forbidden, prohibited’ (Blust 2009b:48); (N) ‘prohibition’
 POc *tabuna ‘dehortative: “don’t!”’ (ACD)
  Adm:  Nauna         tapu(n)              ‘don’t’
@@ -14045,7 +14060,7 @@ Stars closer to the pole describe a smaller circle and never disappear from the 
 describe a larger circle that takes them below the nighttime horizon: they traverse the sky
 invisibly during sunlight. The first pre-dawn rising of a star after a period of invisibility and
 the last post-dusk setting before invisibility had calendrical significance for many premodern
-peoples.[7] But the event recognised in pre-modern communities is the first brief apparent pre-dawn
+peoples.[7] But the event recognised in pre-modern communities is the first brief __apparent__ pre-dawn
 rising of the star, which occurs when the star is high enough above the horizon to be
 seen, perhaps two weeks later than its astronomical counterpart. Apparent risings are later than
 their astronomical counterparts and apparent settings earlier. On the basis of dates given in
@@ -14122,7 +14137,7 @@ Guinea coast (Wogeo, Table 11.10 in §11.5.1.1), around the Huon Peninsula of Ne
 (see below), in Mangap-Mbula (Table 11.12 in §11.5.1.3), in Barok (Table 11.18 in §11.5.3.2),
 in Micronesia (Table 11.22 in §11.5.7) and Polynesia (Table 11.23 in §11.5.8.1).
 
-: Table 11.1     Apparent risings and settings of the Pleiades
+: __Table 11.1__     Apparent risings and settings of the Pleiades
 
 __table__
                                 |   2016 AD                 |    1200 BC
@@ -14536,7 +14551,7 @@ food’ (_ɣue_ ‘moon, month’, _koli_ ‘finished’), referring to the time
 ‘May approx.’ means ‘month of eating’ (_ɣaniɣani_ ‘eating, food’) heralding harvest after
 _ɣʷa-koli_.
 
-: Table 11.2     Tongan month names that allude to yam cultivation
+: __Table 11.2__     Tongan month names that allude to yam cultivation
 
 __table__
        | Month name      | Word glosses | Accompanying notes
@@ -14570,7 +14585,7 @@ _mov-ɣowi_ (November) ‘month of planting’.
 
 314 Meredith Osmond and Malcolm Ross
 
-: Table 11.3  Kwaio month names that allude to yam cultivation (Keesing 1975)
+: __Table 11.3__  Kwaio month names that allude to yam cultivation (Keesing 1975)
 
 __table__
     | Kwaio month name |    Word glosses   |  Accompanying notes
@@ -14582,7 +14597,7 @@ __table__
  11 | _kai-laŋaʔa_     | _kai_ ‘yam’, _laŋaʔa_ ‘garden’            | yams are ready to produce first shoots, roughly November and December
 
 
-: Table 11.4      Mota yam cycle ‘months’
+: __Table 11.4__      Mota yam cycle ‘months’
 
 __table__
       | Mota month name and gloss   | Codrington’s definition     |   POc ancestor
@@ -14596,7 +14611,7 @@ __table__
  12   | _umʷa_ ‘clear away growth from a  garden, the first stage in preparation’ | ‘clearing garden’ | _*quma_ ‘garden’, vol.1:117
 
 
-: Table 11.5         Terms in Wayan Fijian that denote stages of yam cultivation
+: __Table 11.5__         Terms in Wayan Fijian that denote stages of yam cultivation
 
 __table__
        | Month name             | Word glosses                | Accompanying notes
@@ -14604,7 +14619,7 @@ __table__
  04-05 | _vula i visa-visa_     | _visa_ ‘have the leaves wither and die after maturity’ | harvesting season for yams
  07-11 | _vula i lau-lau_       | _lau-lau_ ‘plant’ (V)       | season for planting
  10-03 | _vula i kʷadre-kʷadrē_ | _kʷadre_ ‘sprout, shoot up’ | growing season
- 11-03 | _vula ðola:            | _ðola_ ‘grow’               | season of (crop) growth
+ 11-03 | _vula ðola_            | _ðola_ ‘grow’               | season of (crop) growth
 
                                                                    Seasonal cycles and lunations 315
 
@@ -14684,7 +14699,7 @@ if there was a term in POc-speaking communities labelling a lunar month around J
 and August it was likely to be one that referred to the ripening or harvesting of canarium
 almonds.
 
-: Table 11.6      Roviana month names
+: __Table 11.6__      Roviana month names
 
 __table__
 Month name | Word glosses                   |  Accompanying notes
@@ -14696,7 +14711,7 @@ _m⟨in⟩uzara_ | _⟨in⟩_ NOMINALISER + ‘crush’ | month name: men then c
 _susuni_ | _suni_ ‘prick’ | month name; the season for general offering of smoked canarium almonds at a _hope_
 _tome-laŋono_ | _tome_ ‘hide’, _laŋono_ placename | month name: canarium almonds are then packed in special baskets, and put away to be smoked. Some are taken to the _hope_ of Langono.
 
-: Table 11.7      Oceanic month names that refer to the canarium almond
+: __Table 11.7__      Oceanic month names that refer to the canarium almond
 
 __table__
 Language     | Source            |    | Month name   |  Word glosses       |          Accompanying notes
@@ -14744,7 +14759,7 @@ eastward.
 
 318 Meredith Osmond and Malcolm Ross
 
-: Table 11.8     Month names involving tall grasses in Oceanic languages
+: __Table 11.8__     Month names involving tall grasses in Oceanic languages
 
 __table__
 Language | Source |    | Month name     |  Word glosses |             Accompanying notes
@@ -14790,9 +14805,10 @@ obliquely, for example, Arosi (SES) _hura-doa_ ‘blind month (because windy and
 April’ (_hura_ ‘month’, _doa_ ‘blind’); _waru-ahe_ ‘all streams flooded, May’ (_waru_ ‘stream’; _ahe_
 ‘flooded’); _waro ŋaŋara_ ‘violent winds, August’ (_waro_ ‘month’, _ŋaŋara_ ‘rough (of weather)’.
 
-: Table 11.9    Yabem month names that allude to the weather
+: __Table 11.9__    Yabem month names that allude to the weather
 
-   | Month name  | Word glosses             Accompanying notes
+__table__
+   | Month name  | Word glosses         |    Accompanying notes
 01 | _kɔm-sìŋ_ | _kom_ ‘field’, _sìŋ_ ‘sword’ | The sheaths of sago leaves (_labi-sìŋ_) were used by rain-makers for making rain-magic.
 02 | _pɛŋgɔʔ-àwà-àndaŋ_ | _pɛŋgɔʔ_ ‘bird sp.’, _àwà_ ‘voice’, _àndaŋ_ ‘hot’ | There is no rain and the cry of the _pɛŋgɔʔ_ bird can be heard during the dry season.
 04 | _niplema_ | _nip_ ‘coconut palm’, _lema_ ‘arm, hand’ | The NW monsoon turning to the north blows so strongly that it often shakes the fronds from the palms, much to the despair of the women cooking their meals in front of their houses under the palms of the village square.
@@ -14969,7 +14985,7 @@ the north coast of PNG. Table 11.10 shows Wogeo month names, pieced together fro
 Hogbin (1938b:138–140). However, it is clear from Hogbin’s comments that the periods thus
 named may overlap.
 
-: Table 11.10 Wogeo month names
+: __Table 11.10__ Wogeo month names
 
 __formgroup__
  NNG: Wogeo    rakum         ‘month 01’; ‘land crab’
@@ -15021,7 +15037,7 @@ __blockquote__
        there are unavoidable discrepancies between time reckoned in lunar and in botanical
        terms whenever flowering happens to be late. (Panoff 1969:156)
 
-: Table 11.11 Maenge month names
+: __Table 11.11__ Maenge month names
 
 __formgroup__
    Month name            Gloss                    Notes
@@ -15079,7 +15095,7 @@ _ⁿdām-bula_ ‘December’, where the first element reflects _ⁿdāma_ ‘Pl
 Mangap this month name is simply _ⁿdāma_), but the Bugenhagens note that this marks budding
 of the canarium (and thus the beginning of the cycle).
 
-: Table 11.12 Mangap (Yangla dialect) month names
+: __Table 11.12__ Mangap (Yangla dialect) month names
 
 __formgroup__
  NNG: Mangap  ᵐbui      ‘month 01’; ‘flower (VI)’ (The galip trees are flowering.) (Bugenhagen and Bugenhagen 2007b)
@@ -15229,7 +15245,7 @@ these three and _milamala_ the names are, as far as we can tell, largely untrans
 therefore without meaning-based association with particular seasonal events. Those pairs that
 are not cognates are marked with #, and occur close together in the sequence.
 
-: Table 11.13 Kilivila and Muyuw month names
+: __Table 11.13__ Kilivila and Muyuw month names
 
 __table__
                          Kilivila      |           Muyuw
@@ -15284,7 +15300,7 @@ bananas, sweet potatoes – may be and are planted throughout the year: yams sho
 when _gumeaw_ ‘is thirty or so degrees above the western horizon at dusk, in February.”
 
 
-: Table 11.14 Trobriands/Muyuw cognate star names
+: __Table 11.14__ Trobriands/Muyuw cognate star names
 
 __table__
            Trobriands  |    Muyuw    |
@@ -15313,7 +15329,7 @@ languages.
 Table 11.15 with glosses drawn partly from Andrew Taylor’s (pers. comm.) notes and partly
 from Lister-Turner & Clark’s glosses.
 
-: Table 11.15 Motu month names
+: __Table 11.15__ Motu month names
 
 __formgroup__
  PT: Motu    |gui-raura|        ‘month 01’    (_gui_ ‘embark, tie, prepare a torch’)
@@ -15352,7 +15368,7 @@ associated with the _hiri_, in which Sinaugoro speakers did not traditionally pa
 names peculiar to Sinaugoro often reflect the fact that its speakers live in the savanna.
 Whether the names shared with Motu are loans or shared inheritances is difficult to know, as
 the languages are phonologically similar. Table 11.16 is drawn from two sources, Kolia (1975)
-and Tauberschmidt (2006), marked K and T respectively in the leftmost column.
+and Tauberschmidt (2007).
 Kolia’s data are from the Balawaia dialect. He does not assign his month names to western
 calendar months, but does gloss them. Tauberschmidt on the other hand, whose month names
 are from the Saroa dialect, assigns them to western months, but does not gloss them further.
@@ -15360,27 +15376,27 @@ Some glosses, marked (R) (= Ross), are inferred from Kolia’s and Tauberschmidt
 
                                                                Seasonal cycles and lunations 331
 
-: Table 11.16 Sinaugoro month names
+: __Table 11.16__ Sinaugoro month names (Balawaia dialect after Kolia 1975; Saroa dialect after Tauberschmidt 2007)
 
 __formgroup__
  PT: Balawaia manu-bada       ‘month 01’; ‘big bird’              ([bird-big]; < Motu?) (Kolia 1975)
- PT: Saroa    manu-bada       ‘month 01’; ‘big bird’              ([bird-big]; < Motu?) (Tauberschmidt 2006)
+ PT: Saroa    manu-bada       ‘month 01’; ‘big bird’              ([bird-big]; < Motu?) (Tauberschmidt 2007)
  PT: Balawaia bili-a-kei      ‘month 02-03’; ‘small harvest’      ([sago-a-small]; cf Motu November) (Kolia 1975)
- PT: Saroa    bili-a-kei      ‘month 02-03’; ‘small harvest’      ([sago-a-small]; cf Motu November) (Tauberschmidt 2006)
+ PT: Saroa    bili-a-kei      ‘month 02-03’; ‘small harvest’      ([sago-a-small]; cf Motu November) (Tauberschmidt 2007)
  PT: Balawaia bili-a-bara     ‘month 03’; ‘big harvest’           ([sago-a-big]; cf Motu December) (Kolia 1975)
- PT: Saroa    bili-a-bara     ‘month 03’; ‘big harvest’           ([sago-a-big]; cf Motu December) (Tauberschmidt 2006)
+ PT: Saroa    bili-a-bara     ‘month 03’; ‘big harvest’           ([sago-a-big]; cf Motu December) (Tauberschmidt 2007)
  PT: Balawaia ɣʷa-koli        ‘month 04’; ‘no food’               (_ɣue_ ‘moon, month’, _koli_ ‘finished’) (Kolia 1975)
- PT: Saroa    ɣʷa-koli        ‘month 04’; ‘no food’               (_ɣue_ ‘moon, month’, _koli_ ‘finished’) (Tauberschmidt 2006)
+ PT: Saroa    ɣʷa-koli        ‘month 04’; ‘no food’               (_ɣue_ ‘moon, month’, _koli_ ‘finished’) (Tauberschmidt 2007)
  PT: Balawaia ɣʷa-ɣaniɣani    ‘month 05’; ‘new food’              (_ɣue_ ‘moon, month’, _ɣaniɣani_ ‘food’) (Kolia 1975)
- PT: Saroa    ɣʷa-ɣaniɣani    ‘month 05’; ‘new food’              (_ɣue_ ‘moon, month’, _ɣaniɣani_ ‘food’) (Tauberschmidt 2006)
- PT: Saroa    lai-lai         ‘month 06’                          (< POc _*raki_ ‘SE trade winds’) (Tauberschmidt 2006)
- PT: Saroa    lai-toɣa        ‘month 06-07’         (< POc _*raki_ ‘SE trade winds’ + _toɣa-toɣa_ ‘quiet’) (Tauberschmidt 2006)
- PT: Saroa    bune            ‘month 07’;  ‘magpie’ (R) (Tauberschmidt 2006)
- PT: Saroa    magara          ‘month 07-08’ (Tauberschmidt 2006)
- PT: Saroa    uria            ‘month 07-08’                      (cf Motu August) (Tauberschmidt 2006)
- PT: Saroa    koko-uriuri-na  ‘month 09-10’ (Tauberschmidt 2006)
+ PT: Saroa    ɣʷa-ɣaniɣani    ‘month 05’; ‘new food’              (_ɣue_ ‘moon, month’, _ɣaniɣani_ ‘food’) (Tauberschmidt 2007)
+ PT: Saroa    lai-lai         ‘month 06’                          (< POc _*raki_ ‘SE trade winds’) (Tauberschmidt 2007)
+ PT: Saroa    lai-toɣa        ‘month 06-07’         (< POc _*raki_ ‘SE trade winds’ + _toɣa-toɣa_ ‘quiet’) (Tauberschmidt 2007)
+ PT: Saroa    bune            ‘month 07’;  ‘magpie’ (R) (Tauberschmidt 2007)
+ PT: Saroa    magara          ‘month 07-08’ (Tauberschmidt 2007)
+ PT: Saroa    uria            ‘month 07-08’                      (cf Motu August) (Tauberschmidt 2007)
+ PT: Saroa    koko-uriuri-na  ‘month 09-10’ (Tauberschmidt 2007)
  PT: Balawaia aɣa-bada        ‘month 11-12’; ‘big wind’          ([breath-big]) (Kolia 1975)
- PT: Saroa    aɣa-bada        ‘month 11-12’; ‘big wind’          ([breath-big]) (Tauberschmidt 2006)
+ PT: Saroa    aɣa-bada        ‘month 11-12’; ‘big wind’          ([breath-big]) (Tauberschmidt 2007)
  PT: Balawaia raba-avala      ‘month 02 ? (R)’; ‘dry season’     (_avala_ ‘northwest monsoon’) (Kolia 1975)
  PT: Balawaia avala-kavata    ‘month 02 ? (R)’; ‘NW wind season’ (_avala_ ‘northwest monsoon’) (Kolia 1975)
  PT: Balawaia daga            ‘white feathery grass’ (Kolia 1975)
@@ -15424,7 +15440,7 @@ _e sakalu kea_ (lit. ‘white reef’) ‘8th and last moon—actually several m
 approx. June–Sep.’ Apart from the 8th month, the names are, as far as we can tell, untranslatable,
 and there is no discussion apart from brief descriptions included in the dictionary entries.
 
-: Table 11.17 Nakanai lunar months (Chowning & Goodenough 2016)
+: __Table 11.17__ Nakanai lunar months (Chowning & Goodenough 2016)
 
 __formgroup__
  MM: Nakanai |e tolo bubu|       ‘month 01’ (1st moon of calendar year, approx. Sept.-Oct. (starts about autumn equinox))
@@ -15454,7 +15470,7 @@ solstice.
 
                                                                 Seasonal cycles and lunations 333
 
-: Table 11.18 Barok lunations
+: __Table 11.18__ Barok lunations
 
 __table__
      | Lunations     | Co-ordinate events                    | Gardening            |  Seasons
@@ -15506,13 +15522,13 @@ Sa’a (Ivens 1918, 1927), Kwaio (Keesing 1975) and Arosi (Fox 1978). Other dict
 including ’Are’are (Geerts 1970) and Owa (Mellow 2014) contain partial lists. Except for
 Gela, these languages belong to the Malaita-Makira subgroup of SES.
 
-: Table 11.19 Sa’a month names (adapted from Ivens 1927)
+: __Table 11.19__ Sa’a month names (adapted from Ivens 1927)
 
-__table__
+__formgroup__
  SES: Sa’a   |hule i lade|      ‘month 09’; ‘arrive [canarium] flowers’
  SES: Sa’a   |oku lade|         ‘month 10’; ‘palolo flowers’
  SES: Sa’a   |oku mʷā|          ‘month 11’; ‘palolo full’
- SES: Sa’a   |oku telu/danu|    ‘month 12’; ‘palolo nets’
+ SES: Sa’a   |oku telu, oku danu|    ‘month 12’; ‘palolo nets’
  SES: Sa’a   |oku peine|        ‘month 12’; ‘palolo big’
  SES: Sa’a   |hulo lapani|      ‘month 01’; ‘sponge ?’
  SES: Sa’a   |hulo laha|        ‘month 02’; ‘sponge big’
@@ -15720,7 +15736,7 @@ Islands of eastern Fiji and Pawley and Sayaba (2022) for Wayan, spoken in wester
 
                                                                   Seasonal cycles and lunations 339
 
-: Table 11.21 Bauan Fijian month names according to Seeman (1862)
+: __Table 11.21__ Bauan Fijian month names according to Seeman (1862)
 
 __formgroup__
  Fij: Bauan   |vula i werewere|          ‘month 06-07’; ‘clearing, weeding’ (Seeman 1862)
@@ -16078,7 +16094,7 @@ PChk *yalimadaɨ ‘Andromeda (within _*kua_ constellation)’ (Bender et al. 19
   Mic: Woleaian        yalimatə̄      ‘a star in Andromeda’
 >
 
-: Table 11.22 PChk progression of rising stars
+: __Table 11.22__ PChk progression of rising stars
 
 __table__
          PChk           | star/star group            |   approx. month
@@ -16145,7 +16161,7 @@ __blockquote__
 :Table 11.23 The assignment to months of reflexes of reconstructed lunar month names in selected Polynesian languages (numbers approximate Gregorian months: January = 1 etc.)
 
 __table__
-     | <span class="sideways">Tongan</span> | <span class="sideways">E Futunan</span> | <span class="sideways">Samoan</span> | <span class="sideways">Tuvalu</span> | <span class="sideways">Manihiki</span> | <span class="sideways">Tokelauan</span> | <span class="sideways">Penrhyn</span> | <span class="sideways">Tahitian</span> | <span class="sideways">Hawaiian</span>
+     | [Tongan]{.downwards} | [E Futunan]{.downwards} | [Samoan]{.downwards} | [Tuvalu]{.downwards} | [Manihiki]{.downwards} | [Tokelauan]{.downwards} | [Penrhyn]{.downwards} | [Tahitian]{.downwards} | [Hawaiian]{.downwards}
  _*mataliki_        |       —    |         6  |    —   |  —     |   —     |      —    |      —      |    —     |      1
  _*tolu_            |       —    |         7  |    —   |  —     |   —     |      —    |      —      |    —     |     —
  _*kau-unuunu_      |       —    |     —      |     5  | 5      |    7    |       4   |       5     |     5    |     —
@@ -16621,7 +16637,7 @@ that could be moved or added to if moons became out of step with natural feature
                                                                 Seasonal cycles and lunations 357
 
 
-: Table 11.24 Lunar month names in Polynesian interstage languages after Kirch and Green (2001) and as reconstructed here
+: __Table 11.24__ Lunar month names in Polynesian interstage languages after Kirch and Green (2001) and as reconstructed here
 
 __block__
 +-----------+--------------------------------------------------------------------+---------------------------------------------------------------+------------------+
@@ -16738,7 +16754,7 @@ moon was (at least until recently) still celebrated through the night in some Oc
 
                                                                    Seasonal cycles and lunations 359
 
-: Table 11.25 Terms for phases that cluster around full moon
+: __Table 11.25__ Terms for phases that cluster around full moon
 
 __table__
     | Phase          | Kilivila    | Roviana         | Kokota          | Maringe        | Kwaio             | Atchin
@@ -16749,7 +16765,7 @@ __table__
  13 |                | _yapila_      | —             | —               | _hakla-faɣalo_ | —                 | —
  14 |                | _valaita_     | —             | —               | _natʰoklu_     | —                 | —
  15 |                | _woulo_       | _gaba_        | —               | _natʰoklu_     | —                 | —
- 16 | Full moon      | _toulukʷaya_  | _hobo rimata_ | _ɣlaba nare_    | _ɣlaba-rane_   | _ʔeletoʔo_        | —
+ 16 | __Full moon__      | ___toulukʷaya___  | ___hobo rimata___ | ___ɣlaba nare___    | ___ɣlaba-rane___   | ___ʔeletoʔo___        | —
  17 | Waning gibbous | _mamisa_      | _puta koburu_ | _ŋalu baisu_    | _tithibuhi_    | _fulufuluʔi alo_  | _bat roʃer_
  18 |                | _taygagibuli_ | —             | _fa-birho suli_ | —              | _logo ni kʷalaŋa_ | _roʃer to-nac_
  19 |                | _misilowa_    | —             | —               | —              | _lalatalu_        | _lihʷen nav_
@@ -16909,7 +16925,7 @@ _fitu_ ‘seven’, but White et al. explain that it marks the seventh day (the 
 between _bugaɣra_, the first crescent moon, and the full moon, i.e. the seventh day if the day
 following _bugaɣra_, i.e. _kakhana-ɣolihe_, is counted as the first.
 
-: Table 11.26 Moon phase terms in Maringe (MM, Santa Isabel)
+: __Table 11.26__ Moon phase terms in Maringe (MM, Santa Isabel)
 
 __table__
    Day     | Western phase         | Maringe            | Glosses
@@ -16948,10 +16964,11 @@ __formgroup__
 Another set comes from Motu (PT). Note the clustering of terms after the full moon, some-
 what like the sets in Table 11.25.
 
+__formgroup__
  PT: Motu doɣaɣi              ‘crescent-shaped new moon’ (_doɣaɣi_ ‘crescent shaped pearl-shell’)
  PT: Motu |hua karukaru|      ‘young moon’ (_karukaru_ ‘undercooked, immature’)
  PT: Motu matoa               ‘full moon’ (plant, Typhonium sp., its root eaten in famine)
- PT: Motu |hua daulao|        ‘moon soon after full’ (_hua_ ‘moon’; _daulao_ ‘grope after; go and touch; to reach out towards s.t.’).
+ PT: Motu |hua daulao|        ‘moon soon after full’ (_hua_ ‘moon’; _daulao_ ‘grope after; go and touch; to reach out towards s.t.’)
  PT: Motu |hua haeno|         ‘moon next to daulao’ (_haeno_, used euphemistically of unmarried people having sex)
  PT: Motu |hua matoa-torea|   ‘moon about three-quarters; moon after _haeno_’
 
@@ -16991,7 +17008,7 @@ __formgroup__
 
 364 Meredith Osmond and Malcolm Ross
 
-: Table 11.27 Moon phases in Hawaiian[33]
+: __Table 11.27__ Moon phases in Hawaiian[33]
 
 __tablenh__
                  __1__ | __New Moon__            |        _muku_       |
@@ -17040,7 +17057,7 @@ http//:www.instanthawaii.com/cgi-bin/hi?Weather.moon (accessed 25 February 2022)
 
                                                             Seasonal cycles and lunations 365
 
-: Table 11.28 Moon phases in ’Are’are
+: __Table 11.28__ Moon phases in ’Are’are
 
 __tablenh__
   1-2, 29–30   | new moon (=1)   | _tari-waro_ | [get-moon]
@@ -17397,7 +17414,7 @@ __igt__
       ‘The guys asked if they could open the earth oven now, …’ (Samson et al. 2018:96)
 
 __igt__
-4)    Sursurunga (MM): question: wh-
+4)    Sursurunga (MM): question: _wh-_
       Mə pəkənbuŋ iau  gəlta di   [ŋo dənih a     loŋoi ə     kalik er  ə-k      taŋ,…]
       CJ then     S:1S ask   O:3S C   what  S:3S  do    spec  child dem S:3S-SEQ cry
       ‘And then I asked them what that child had done so that he cried, …’ (Samson et al. 2018:203)
@@ -17569,12 +17586,12 @@ __table__
        _-suŋ sosor_      | ‘wish evil, threaten, curse’                        | _sosor_          | ‘wrongdoing’
        _-kuru kopo-_     | ‘stir up, incite, provoke (s.o.)’                   | _kopo-_          | ‘stomach’
        _-kuru lele-_     | ‘stir up, incite, provoke (s.o.)’                   | _lele-_          | ‘inside’
-       _-kuru sua pa A_  | ‘accuse A falsely’                                  | _sua_            | ‘talk (N)’
-       _-ŋgal sua pa A_  | ‘accuse A (often falsely)’ (= ‘throw talk at’)      | _sua_            | ‘talk (N)’
+       _-kuru sua pa_ A  | ‘accuse A falsely’                                  | _sua_            | ‘talk (N)’
+       _-ŋgal sua pa_ A  | ‘accuse A (often falsely)’ (= ‘throw talk at’)      | _sua_            | ‘talk (N)’
        _-ŋgal lele-_     | ‘speak publicly, proclaim’ (= ‘pierce the inside’)  | _lele-_         | ‘inside (N)’
        _-ŋgal talŋa-_    | ‘tell a secret, tip off’ (= ‘pierce the ears’)      | _talŋa-_         | ‘ear’
        _-ŋgal-rāma_      | ‘teach (s.o.), instruct (s.o.)’                     | _rāma_           | ‘be together’
-       _-ŋgal-sek pa A_  | ‘forbid someone from doing s.t.’                    | _-sek_           |  ??
+       _-ŋgal-sek pa_ A  | ‘forbid someone from doing s.t.’                    | _-sek_           |  ??
 
     Among the expressions in (13) is (in two versions), _-kuru/-ŋgal sua pa A_ ‘accuse A falsely’.
 It includes the noun _sua_ ‘talk’. Mangap has many speech act expressions that include _sua_, and
@@ -17584,14 +17601,14 @@ a sample is listed in (14).
 
 __table__
        Compound               |   gloss                         | semi-literal gloss
-       _-ur sua pa A_           |   ‘order A, command A’          | ‘put talk to A’
-       _-piri sua pa A_         |   ‘curse A, speak badly to A’   | ‘toss (bad) talk at A’
-       _-gībi sua pa A_         |   ‘curse A, speak badly to A’   | ‘throw talk at A’
-       _-suk sua pa A_          |   ‘accuse A’                    | ??
+       _-ur sua pa_ A           |   ‘order A, command A’          | ‘put talk to A’
+       _-piri sua pa_ A         |   ‘curse A, speak badly to A’   | ‘toss (bad) talk at A’
+       _-gībi sua pa_ A         |   ‘curse A, speak badly to A’   | ‘throw talk at A’
+       _-suk sua pa_ A          |   ‘accuse A’                    | ??
        _-tōro sua_              |   ‘speak figuratively’          | ‘turn talk’
-       _-kam sua pa A_          |   ‘rebuke A, exhort A’          | ‘do talk to/about A’
-       _-kam sua bōzo pa A_     |   ‘complain about A’            | ‘do a lot of talk about A’
-       _-mbuk sua pa A pa B_    |   ‘promise A concerning B’      | ‘tie talk to A concerning B’
+       _-kam sua pa_ A          |   ‘rebuke A, exhort A’          | ‘do talk to/about A’
+       _-kam sua bōzo pa_ A     |   ‘complain about A’            | ‘do a lot of talk about A’
+       _-mbuk sua pa_ A _pa_ B    |   ‘promise A concerning B’      | ‘tie talk to A concerning B’
        _-la sua lelē-ne_        |   ‘have an in-depth discussion’ | ‘go (to) the talk's inside’
        _-so le-A sua_           |   ‘have a chat with A’          | ‘say A's talk’
 
@@ -18134,7 +18151,7 @@ consonant is uncertain.
 POc *pʷiti((r,R)), *pʷiti((r,R))i- ‘say (s.t.), tell (s.o. to do s.t.)’
  NNG: Mangap                 -pit                    ‘talk; tell story’
  MM: Sursurunga              bit                     ‘tell (s.o. to do s.t.)’
- MM: Minigir                 vitiri                  ‘say (that s.o. should do s.t.)’ (Van Der Mark 2007)
+ MM: Minigir                 vitiri                  ‘say (that s.o. should do s.t.)’ (van der Mark 2007)
  MM: Tolai                   biti                    (V, VC) ‘say’
  SES: Kahua                  visi-                   ‘say’
 PNCV *viti ‘speak, say’ (Clark 2009: *veti)
@@ -19218,7 +19235,9 @@ Islanders make the best canoes, Bilbil, Sio and Gitua clay cooking pots.
 currency. But items vary in quality and size and are more desired in some communities than
 others, creating opportunities for profit. Harding provides the following series of exchanges
 to illustrate how the Siassi can turn a basic product into a valuable pig (p.139):
+
      6 –12 coconuts > 3 pots > 1 block obsidian > 10 pots > 1 pig.
+
 
 13.2.5 Reef-Santa Cruz
 
@@ -20331,7 +20350,7 @@ power above a hundred, however, is reconstructable with certainty to POc (§14.4
 
                                                       Numerals, classifiers and counting 431
 
-: Table 14.1     Reconstructable POc lexical numerals
+: __Table 14.1__     Reconstructable POc lexical numerals
 
 __tablenh__
     |    A                                           |
@@ -20880,7 +20899,7 @@ _*rua ŋa puluq_ ‘20’, _*tolu ŋa puluq_ ‘30’, had a structure in which 
 and _*Ratus_ ‘100’ appear to be multiplicative classifiers (§14.1.1). The numeral is
 connected to the classifier by the ligature _*ŋa_.[6] This _*ŋa_ seems to have originally been
 absent after _*sa-_ ‘one’, a proclitic that was immediately attached to the classifier. The
-*NML _ŋa_ CLF structure and its variant _sa_-CLF are of PMP antiquity, and are reflected as far
+*[NML]{.smallcaps} _ŋa_ CLF structure and its variant _sa_-CLF are of PMP antiquity, and are reflected as far
 down the Oceanic tree as Polynesian. This raises the question, Did the POc structure
 reflect a productive numeral classifier structure, or was it just a fossil?
 
@@ -20901,7 +20920,7 @@ the morpheme order is reversed for numerals 2 and above.
 
 442 Malcolm Ross
 
-: Table 14.2       Non-Oceanic and POc 1–3, 10–30 and 100–300
+: __Table 14.2__       Non-Oceanic and POc 1–3, 10–30 and 100–300
 
 __table__
             | Javanese (wMP) | Hawu (cMP)     | Kambera (cMP)   | Kéo  (cMP)  | POc
@@ -20926,18 +20945,18 @@ classifiers based on shape. After _ha-_ ‘one’, these do not reflect _*ŋa_, 
 initial consonant undergoes a change that does reflect _*ŋa_: _ha=puŋu pena_ ‘one pen’ vs
 _dua mbuŋu pena_ ‘two pens’; _ha=wala kapambal_ ‘one plank’ vs _ha dua mbala kapambal_ ‘two
 planks’ (Klamer 2010).[8] In Kéo the reversal of constituents with 2 and above attested in Table
-14.2 also occurs with sortal classifiers: _aki ha=ᵑgaʔe_ [man one-CLF] vs _aki ⁿgaʔe dima_ [man
-CLF 5] (_ᵑgaʔe_ ‘human being’) (Baird 2002).
+14.2 also occurs with sortal classifiers: _aki ha=ᵑgaʔe_ [man one-[CLF]{.smallcaps}] vs _aki ⁿgaʔe dima_ [man
+[CLF]{.smallcaps} 5] (_ᵑgaʔe_ ‘human being’) (Baird 2002).
 
-    This evidence that *NML _ŋa_ CLF occurred in languages at higher nodes than POc only
+    This evidence that *[NML]{.smallcaps} _ŋa_ [CLF]{.smallcaps} occurred in languages at higher nodes than POc only
 says that POc could have retained the productive structure. The tens and hundreds in Table
 14.1 could be fossils. However, evidence from Admiralties, Micronesian and Polynesian
-languages tells us that POc did retain *NML _ŋa_ CLF as a productive numeral classifier
-structure. Admiralties and Micronesian languages have NML CLF order, reflecting POc
-*NML _ŋa_ CLF, but less obviously than in Table 14.2.
+languages tells us that POc did retain *[NML]{.smallcaps} _ŋa_ [CLF]{.smallcaps} as a productive numeral classifier
+structure. Admiralties and Micronesian languages have [NML]{.smallcaps} [CLF]{.smallcaps} order, reflecting POc
+*[NML]{.smallcaps} _ŋa_ [CLF]{.smallcaps}, but less obviously than in Table 14.2.
 
     Table 14.3 shows Ponam (Adm) tens, hundreds and a small sample of classifiers.[9] There
-are indicators that the items in the table reflect POc *NML ŋa CLF. First, -ŋuf ‘10’ and -ŋat
+are indicators that the items in the table reflect POc *[NML]{.smallcaps} ŋa [CLF]{.smallcaps}. First, -ŋuf ‘10’ and -ŋat
 ‘100’ reflect POc *ŋa puluq and *ŋa Ratus, although *ŋa is not reflected in columns D–G.
 Ponam (Adm) numerals reflecting POc *ŋa and a sample of classifiers.
 
@@ -20950,7 +20969,7 @@ Ponam (Adm) numerals reflecting POc *ŋa and a sample of classifiers.
 
                                                        Numerals, classifiers and counting 443
 
-: Table 14.3      Ponam (Adm) numerals reflecting POc *ŋa and a sample of classifiers
+: __Table 14.3__      Ponam (Adm) numerals reflecting POc *ŋa and a sample of classifiers
 
 __table__
    |    A   |        B |       C   |        D          |   E       |    F       |    G
@@ -20972,7 +20991,7 @@ reflected in a prenasalisation of the following classifier: see under POc _*-tau
 person’ (§14.6.1) and POc _*-pui_ ‘bunch, group’ (§14.6.2).
 
     Finally, _*ŋa_ is alive and well in certain Polynesian languages.Table 14.4 shows classifiers
-used in the Tongan reflex of the POc *NML _ŋa_ CLF structure. Column A shows the numerals
+used in the Tongan reflex of the POc *[NML]{.smallcaps} _ŋa_ [CLF]{.smallcaps} structure. Column A shows the numerals
 1–4. Columns B and C show that the structure of 10–40 and 100-400 is identical to that of the
 enumerative classifiers in columns D–G. Thus _-fulu_ ‘unit of 10’ and _-au_ ‘unit of 100’ are also
 multiplicative classifiers. One apparent anomaly is _ho-ŋo-fulu_ ‘10’, which retains the
@@ -20982,10 +21001,10 @@ _*ha-ŋa-_ with the PPn non-specific article _*te-_.
     It would be possible to build a similar table for Samoan or for Rennellese, and each
 would show the same thing: that PPn _*-fulu_ ‘unit of 10’ (§14.4.5.1) and _*-rau_ ‘unit of
 100’ (§14.6.4) were enumerative classifiers. Together, the Admiralties, Micronesian and
-Polynesian data show that the POc *NML _ŋa_ CLF structure was productive and that _*-puluq_
+Polynesian data show that the POc *[NML]{.smallcaps} _ŋa_ [CLF]{.smallcaps} structure was productive and that _*-puluq_
 and _*-Ratus_ were, and in some languages still are, multiplicative classifiers.
 
-: Table 14.4   Tongan (Pn) classifiers reflecting PPn *ŋa
+: __Table 14.4__   Tongan (Pn) classifiers reflecting PPn *ŋa
 
 __table__
    | A   | B    | C        | D                  | E                          | F                             | G
@@ -21007,21 +21026,21 @@ Map 14.2: Bound classifiers in the SW Pacific
 
 14.3.2   The CLASSIFIER + NUMERAL structure
 
-This, however, is not the whole story. There is evidence that alongside the *NML _ŋa_ CLF
-structure POc also had a *CLF NML structure. Evidence for this comes from SHWNG
+This, however, is not the whole story. There is evidence that alongside the *[NML]{.smallcaps} _ŋa_ [CLF]{.smallcaps}
+structure POc also had a *[CLF]{.smallcaps} [NML]{.smallcaps} structure. Evidence for this comes from SHWNG
 languages, Oceanic languages with this structure, and especially Polynesian.
 
     The SHWNG languages Buli (Maan 1951:42), Taba (Bowden 2001:242–245), Ambel
-(Arnold 2018:159–161) and Magey Matbat (Remijsen 2010:287–290), all have CLF NML
-order.[10] None has a reflex of *NML _ŋa_ CLF. Rongga (Arka 2008) and Waima’a (Himmelmann 2010:56),
-CMP languages of Wallacea and cousins to SHWNG also have a CLF NML structure.
-But as shown in §14.3.1 not all CMP languages have CLF NML. Some reflect *NML _ŋa_ CLF This
-implies that the CLF NML structure was innovated somewhere in the CEMP linkage and was
-inherited into POc. The origin of CLF NML seems straightforward. As most prefixed classifiers
-reflect earlier nouns (§14.6), CLF NML reflects the regular noun-phrase order noun NML.
+(Arnold 2018:159–161) and Magey Matbat (Remijsen 2010:287–290), all have [CLF]{.smallcaps} [NML]{.smallcaps}
+order.[10] None has a reflex of *[NML]{.smallcaps} _ŋa_ [CLF]{.smallcaps}. Rongga (Arka 2008) and Waima’a (Himmelmann 2010:56),
+CMP languages of Wallacea and cousins to SHWNG also have a [CLF]{.smallcaps} [NML]{.smallcaps} structure.
+But as shown in §14.3.1 not all CMP languages have [CLF]{.smallcaps} [NML]{.smallcaps}. Some reflect *[NML]{.smallcaps} _ŋa_ [CLF]{.smallcaps} This
+implies that the [CLF]{.smallcaps} [NML]{.smallcaps} structure was innovated somewhere in the CEMP linkage and was
+inherited into POc. The origin of [CLF]{.smallcaps} [NML]{.smallcaps} seems straightforward. As most prefixed classifiers
+reflect earlier nouns (§14.6), [CLF]{.smallcaps} [NML]{.smallcaps} reflects the regular noun-phrase order noun [NML]{.smallcaps}.
 
     For classifiers other than ‘unit of 10’ and ‘unit of 100’ non-Polynesian Oceanic
-languages retain either CLF NML or NML [_*ŋa_] CLF, but not both. The classifier precedes the
+languages retain either [CLF]{.smallcaps} [NML]{.smallcaps} or [NML]{.smallcaps} [_*ŋa_] [CLF]{.smallcaps}, but not both. The classifier precedes the
 numeral in some Papuan Tip[11] a few Meso-Melanesian,[12] and all New Caledonian
 languages. This distribution is strikingly areal, as Map 14.2 shows. In the north a classifier
 follows the numeral. In the south it precedes it.
@@ -21039,9 +21058,9 @@ Vanuatu (Map 14.2).
 14.3.3 A conclusion
 
 On this evidence it is difficult to avoid the untidy conclusion that POc retained both the
-*NML [_ŋa_] CLF structure and the *CLF NML structure, and that various languages either (i)
-generalised CLF NML, but usually retained NML _ŋa_ CLF in counting tens and hundreds; or
-(ii) generalised NML _ŋa_ CLF; or (iii) lost numeral classifiers altogether.
+*[NML]{.smallcaps} [_ŋa_] [CLF]{.smallcaps} structure and the *[CLF]{.smallcaps} [NML]{.smallcaps} structure, and that various languages either (i)
+generalised [CLF]{.smallcaps} [NML]{.smallcaps}, but usually retained [NML]{.smallcaps} _ŋa_ [CLF]{.smallcaps} in counting tens and hundreds; or
+(ii) generalised [NML]{.smallcaps} _ŋa_ [CLF]{.smallcaps}; or (iii) lost numeral classifiers altogether.
 
     Some Polynesian languages are striking in that they retain both structures. In this
 respect they form a relic area which supports the claim that POc also had both structures.
@@ -21050,12 +21069,12 @@ and Rennellese data confirms this.[13] It evidently continued the POc situation.
 Admiralties and Micronesian, where all counting is done with a classifier, PPn classifiers
 were only used to count certain nouns associated with what Elbert (1988:192) terms
 “planting, fishing, and ostentatious display”. If a classifier was used with a numeral to
-express a number less than 10, then CLF NML order was used. For example, PPn _*toka-_
+express a number less than 10, then [CLF]{.smallcaps} [NML]{.smallcaps} order was used. For example, PPn _*toka-_
 ‘human’ (Clark 1999:198) was used to count people up to 9, e.g. _*toka-rua_ ‘two (people)’.
 For quantities of 10 and above, either structure might be used, depending on what one was
 counting. Exactly how this division of labour worked in PPn is unclear, as languages of the
 two first-order Polynesian groups, Tongic and Nuclear Polynesian, do not always agree. But
-one thing is clear: when PPn used the NML CLF structure, the classifier was always
+one thing is clear: when PPn used the [NML]{.smallcaps} [CLF]{.smallcaps} structure, the classifier was always
 enumerative (§14.1.1), denoting a multiple of the thing counted.
 
 [10] Buli and Taba belong to the South Halmahera subgroup, Ambel and Magey Matbat to Raja Ampat. The
@@ -21121,7 +21140,7 @@ POc *ka- [ATTRIBUTIVE]
  MM: Marovo        ka-           [FOSSIL] (2)
  MM: Vangunu       ka-           [FOSSIL] (2)
  MM: Mbareke       ka-           [FOSSIL] (2, 4–9)
- NCV: Tamambo      a-            [FOSSIL] (1–9; W dialect _ɣa-_)
+ NCV: Tamambo      a-            [FOSSIL] (1–9, W dialect _ɣa-_)
  SV: Utaha         ka-           [FOSSIL] (2-3)
  SV: Lenakel       |ka-, ke-, kə-| [FOSSIL] (2-9)
  SV: Kwamera       |ka-, ku-, kə-| [FOSSIL] (2–5)
@@ -21148,6 +21167,7 @@ verbs; and (b) that syntactically they are the predicates of relative clauses ra
 attributives. The phrase in (14) is more literally translated as ‘small bows of theirs that are
 two’:
 
+__igt__
 14)  Neverver (NCV)
      nivis-bratn lele titi-dr i-ru
       bow-real small P:3-PL 3REALIS:SG-two
@@ -21174,7 +21194,7 @@ form.
 14.4.1.1 _*sa-_, _*sa_, _*tasa_, _*tasi_ and _*ta_
 
 Some nouns always took a numeral + classifier combination as an attribute, and others
-took a simple numeral (§14.3). In the former case, the attribute was _*sa_-CLF. In the latter
+took a simple numeral (§14.3). In the former case, the attribute was _*sa_-[CLF]{.smallcaps}. In the latter
 case, the attributive marker _*ka-_ (§14.4) was possibly used, but we cannot be sure that it
 occurred with ‘one’. POc _*(i)sa_ ‘one’ is also reflected as the PPn indefinite article _*sa_
 (ACD), which, with an irregular vowel change, became Proto Nuclear Polynesian _*se_
@@ -21281,7 +21301,7 @@ PNPn *tasi ‘one’
 
 
    It is very probable that the _*ta_ of _*ta-sa_ reflected a PAn indefinite article, the origin of
-which is briefly discussed in Lynch, Ross & Crowley (2002:71). This raises the question of
+which is briefly discussed in Lynch et al. (2002:71). This raises the question of
 how _*sa_ and _*ta_ differed. The one clue is that *sa was a numeral that in some languages was
 reinterpreted as an indefinite article, whereas the reinterpretation of _*ta_ seemingly moved in
 the opposite direction. Another possibility is that *sa was a non-specific indefinite article, and
@@ -21325,7 +21345,7 @@ Proto Central Papuan *ta ‘one’
   MM:   E Kara              ta               ‘one’
   NCV:  Bierebo             ta               ‘one’
   NCV:  Lewo                ta(ŋa)           ‘one’
-Proto New Caledonia *tta ‘one’
+PNCal *tta ‘one’
   NCal: Voh-Koné            θā               ‘one’
   NCal: Paicî               cā-              ‘one’
   NCal: Ajië                ra               ‘one’
@@ -21362,9 +21382,9 @@ reconstructed in §14.4.1.1.
 16)
 
 __tablenh__
-      _*sa_   |   …       |    …       |  _*sa-kai_
+      ___*sa___   |   …       |    …       |  _*sa-kai_
       _*sai_  |   _*sai-sa_ |    …       |  …
-      _*ta_   |   _*ta-sa_  |    …       |  _*ta-kai_
+      ___*ta___   |   ___*ta-sa___  |    …       |  _*ta-kai_
       _*tai_  |   _*tai-sa_ |    …       |  …
       _*ka_   |   …       |   _*ka-ti_  |  …
       _*kai_  |   _*kai-sa_ |    …       |  _*kai-kai_
@@ -22184,7 +22204,7 @@ A few languages with a decimal system form the numerals 7–9 subtractively, i.e
 in Levei are the default classifier. Just one known language, Levei-Drehet, a pair of E
 Admiralties dialects, also has a subtractive numeral for 6.
 
-: Table 14.5         Languages in which 6-9 are formed subtractively
+: __Table 14.5__         Languages in which 6-9 are formed subtractively
 
 __table__
         | Proto Oceanic | Yapese           | Lou (Adm)             | Ponam (Adm)          | Levei (Adm)         | Engdewo (TM)
@@ -22218,7 +22238,7 @@ examination of the structures in which numeral classifiers were used. Whereas th
 numerals from 1 to 9 each consisted of a single morpheme, the tens and hundreds shown
 in Table 14.1 were each made up of three morphemes with the structures _*X-[ŋa-]puluq_
 ‘X times 10’ and _*X-[ŋa-]Ratus_ ‘X times 100’. It emerges that POc _-puluq_ ‘unit of 10’ and
-_-Ratus_ ‘unit of 100’ were multiplicative classifiers within the *NML _ŋa_ CLF structure
+_-Ratus_ ‘unit of 100’ were multiplicative classifiers within the *[NML]{.smallcaps} _ŋa_ [CLF]{.smallcaps} structure
 inherited from PMP. The structure was clearly at least somewhat productive in POc as it
 continued on into PPn, where apparently new members had been added to the set of
 classifiers, e.g. PEOc _*-rau_ ‘unit of 100’ (§14.6.4).
@@ -22304,7 +22324,7 @@ southward embracing Efate, S Vanuatu and New Caledonia is not represented at all
 because these languages have adopted a tally system and replaced _*sa[ŋa]pulu_ by another
 lexical item (§15.8.2).
 
-: Table 14.6 Tens with the structures _sapuluq_ + NUMERAL and NUMERAL + _sapuluq_
+: __Table 14.6__ Tens with the structures _sapuluq_ + NUMERAL and NUMERAL + _sapuluq_
 
 __table__
               |          | ‘10’          | ‘20’          | ‘30’             | ‘40’           | ‘50’
@@ -22399,16 +22419,16 @@ below).
 
 Table 14.6 shows that languages that reflect _*sa-puluq_ treat it as ‘unit of 10’, i.e. _*sa-_ has
 lost its identity as a morpheme and has combined with _*-puluq_, generalising it to all
-decades. The crucial evidence for this comes from languages that have applied the CLF
-NML construction to tens and hundreds, giving numerals like Nakanai _savulu lua_.
+decades. The crucial evidence for this comes from languages that have applied the [CLF]{.smallcaps}
+[NML]{.smallcaps} construction to tens and hundreds, giving numerals like Nakanai _savulu lua_.
 
-   A similar process affecting _*ŋa puluq_ and other instances of _*ŋa_ CLF is illustrated for
+   A similar process affecting _*ŋa puluq_ and other instances of _*ŋa_ [CLF]{.smallcaps} is illustrated for
 Ponam in Table 14.3 and represents the situation throughout E Admiralty and
 Micronesian. Here fusion occurred first, so that the reflexes of _*-ŋapuluq_ and _*-ŋaRatus_
-were treated as unitary classifiers, and the structure NML _*ŋa_ CLF was thus reinterpreted as
-NML CLF. It was into this structure that other classifiers were then recruited. This process
+were treated as unitary classifiers, and the structure [NML]{.smallcaps} _*ŋa_ [CLF]{.smallcaps} was thus reinterpreted as
+[NML]{.smallcaps} [CLF]{.smallcaps}. It was into this structure that other classifiers were then recruited. This process
 seems to have occurred in a good many early Oceanic dialects, with critical evidence from
-languages that then reversed NML CLF to CLF NML. Most such languages are N-C Vanuatu
+languages that then reversed [NML]{.smallcaps} [CLF]{.smallcaps} to [CLF]{.smallcaps} [NML]{.smallcaps}. Most such languages are N-C Vanuatu
 languages of the islands Ambae, south Pentecost, Santo, Ambrym and Malakula. Thus in
 Araki (south Santo) we find _saŋavulu_ ‘10’ but _ŋavul rua_ ‘20’, _ŋavul rolu_ ‘30’ and so on.
 
@@ -22425,8 +22445,8 @@ _-lau_.
 
     Some early dialects took this process a step further and treated their reflex of
 *saŋapuluq as the ‘unit of ten’ morpheme. Examples are given in Table 14.7. Those in the
-upper part of the table, which have the structure NML + _saŋapuluq_, are found in scattered
-locations. Those in the lower part have the structure _saŋapuluq_ + NML. They are also
+upper part of the table, which have the structure [NML]{.smallcaps} + _saŋapuluq_, are found in scattered
+locations. Those in the lower part have the structure _saŋapuluq_ + [NML]{.smallcaps}. They are also
 scattered, but particularly well represented in N-C Vanuatu, found in the Torres and Banks
 Islands, Maewo, north Pentecost and further south in southeast Malakula and Ambrym.[18]
 
@@ -22439,7 +22459,7 @@ _rua puluq_ template. Why the term for 20 is the odd one out is not clear, but C
 comments that PPn _*rua-fulu_ ‘20’ and Samoan _se-fulu_ ‘10’ indicate that PPn _*fulu_ was
 analysable as ‘unit of 10’, again pointing to POc _*puluq_ ‘unit of 10’.
 
-: Table 14.7     Tens with the structure numeral + _saŋapuluq_ or _saŋapuluq_ + numeral
+: __Table 14.7__     Tens with the structure numeral + _saŋapuluq_ or _saŋapuluq_ + numeral
 
 __table__
     |            |  ‘10’       | ‘20’              | ‘30’               | ‘40’               | ‘50’
@@ -22459,7 +22479,7 @@ NCV | Raga       | _haŋvulu_   | _haŋvulu ɣai-rua_ | _haŋvulu ɣai-tolu_ | _
 NCV | Port Vato  | _sɔŋavi_    | _sɔŋavi va luə_   | _sɔŋavi va sie_    | _sɔŋavi va vier_   | _sɔŋavi va lim_
 NCV | Maskelynes | _səŋavür_   | _səŋavür vaxa-ɾu_ | _səŋavür vaxa-to_  | _səŋavür vaxa-vat_ | _səŋavür vaxa-ɾim_
 
-: Table 14.8 10–30 in PPn and some Polynesian languages
+: __Table 14.8__ 10–30 in PPn and some Polynesian languages
 
 __table__
                           |      10               |          20                    |     30
@@ -22657,7 +22677,7 @@ ordinal numerals, but they do have a strategy for expressing position in a seque
 most common strategy is to express ‘the third house’ as something like ‘the (number) three
 of the houses’. ‘Houses’ is thus the possessor of the numeral. In consequence many
 Oceanic languages form an ordinal by attaching a possessor suffix to the numeral, usually
-a suffix reflecting POc _*-ña_ ‘P:3SG’. POc NML-_*ña_ is thus the schematic reconstruction for
+a suffix reflecting POc _*-ña_ ‘P:3SG’. POc [NML]{.smallcaps}-_*ña_ is thus the schematic reconstruction for
 an ordinal. That is, POc ordinals were _*rua-ña_ ‘2nd’, _*tolu-ña_ ‘3rd’ and so on. Typically,
 if a cardinal numeral occurs with a classifier or a fossil classifier, this is retained in the
 ordinal form, as the listing below shows.
@@ -22821,14 +22841,14 @@ POc *i-ka-NML ‘prefix for ordinal numerals’
 >
 
    A disturbing aspect of these reconstructions is that it is difficult to imagine that POc had
-three structures for forming ordinals, namely *NML-_ña_, _*pa[ka]_-NML-_ña_ and _*i-ka_-NML.
+three structures for forming ordinals, namely *[NML]{.smallcaps}-_ña_, _*pa[ka]_-[NML]{.smallcaps}-_ña_ and _*i-ka_-[NML]{.smallcaps}.
 There are formal overlaps among them, but they cannot be reduced to just one or two
 reconstructions without a good deal of speculative reasoning.
 
 14.5.2 Frequentative adverbs
 
-The reconstruction of the POc frequentative adverb form _*pa[ka]_-NML is straightforward,
-as it has cognates in South Halmahera languages (Buli _vai_-NML; Taba _ha_-NML), strongly
+The reconstruction of the POc frequentative adverb form _*pa[ka]_-[NML]{.smallcaps} is straightforward,
+as it has cognates in South Halmahera languages (Buli _vai_-[NML]{.smallcaps}; Taba _ha_-[NML]{.smallcaps}), strongly
 implying that the form is reconstructable to PEMP. Blust (ACD) reconstructs PAn
 _*maka-lima_ ‘5 times’ etc. This appears to have been an actor voice verb ‘do 5 times’, the stem
 form of which would have been PAn _*paka-lima_. The morphological structure thus has a
@@ -22966,10 +22986,10 @@ Numeral classifiers and their semantic classes are described in §14.1.1. If it 
 that all languages have mensural classifiers, a language’s classifier structure is the one in
 which a mensural classifier occurs. This definition serves well, except in certain
 Polynesian languages, where there is more than one classifier structure. These languages
-retain the pre-POc NML _*ŋa_ CLF structure (§14.3ff) in limited contexts alongside the more
-recent CLF-NML structure, implying that POc also did so. In the reconstructions below, a
-hyphen in front of the classifier indicates that it occurred in the POc NML[_*-ŋa_]-CLF
-structure; a hyphen after the classifier indicates that it occurred in the POc CLF NML
+retain the pre-POc [NML]{.smallcaps} _*ŋa_ [CLF]{.smallcaps} structure (§14.3ff) in limited contexts alongside the more
+recent [CLF]{.smallcaps}-[NML]{.smallcaps} structure, implying that POc also did so. In the reconstructions below, a
+hyphen in front of the classifier indicates that it occurred in the POc [NML]{.smallcaps}[_*-ŋa_]-[CLF]{.smallcaps}
+structure; a hyphen after the classifier indicates that it occurred in the POc [CLF]{.smallcaps} [NML]{.smallcaps}
 structure. Some classifiers evidently occurred in both constructions.
 
     The question to be answered in reconstructing a POc classifier is, Is there evidence of
@@ -22977,7 +22997,7 @@ shared inheritance or are we looking at parallel innovation, i.e. the independen
 parallel recruitment of cognate nouns into the classifier category? Two characteristics of a
 cognate set can hint that it is inherited from POc.
 
-    The stronger hint is semantic bleaching. A classifier is an outcome of
+    The stronger hint is semantic __bleaching__. A classifier is an outcome of
 grammaticalisation, usually of a noun. Two things happen during grammaticalisation: the
 morpheme increases in bondedness (e.g. becomes an affix) and it undergoes semantic
 bleaching, i.e. its sense becomes increasingly general. If the same semantic bleaching
@@ -22987,7 +23007,7 @@ _*-pua_/_*pua-_ ‘default inanimate; round object’, derived from _*puaq_ ‘f
 bleaching (§14.6.1).
 
     The second characteristic is that if some members of the cognate set occur as
-functionless fossilised prefixes to lower simple numerals (Map 14.2), then that cognate set
+functionless __fossilised__ prefixes to lower simple numerals (Map 14.2), then that cognate set
 is likely to be old, and probably of POc antiquity. Reflexes of _*pua-_ now form inseparable
 prefixes in a number of languages.
 
@@ -23527,7 +23547,7 @@ __igt__
 
 Their generalisation is confirmed by the data collected for this chapter. In (21) _ɣaivolo_
 means ‘ten garden rows’, and a coherent answer is, for example, _e ono na ɣaivolo_
-[3SG 6 ART CLF] ‘sixty garden rows’.
+[3SG 6 ART [CLF]{.smallcaps}] ‘sixty garden rows’.
 
    There is no other correlation between numeral system and multiplicands. The converse
 generalisation does not apply: languages with decimal systems often have ECs with a
@@ -23568,7 +23588,7 @@ multiplicand 50, _aba_ may be the term for ‘half’, i.e. ‘half a hundred’
 
 494 Malcolm Ross
 
-: Table 14.9 Enumerative classifiers in Arosi (SES)[29]
+: __Table 14.9__ Enumerative classifiers in Arosi (SES)[29]
 
 __table__
             | Arosi         | W Arosi        | E Arosi      | Arosi         | W Arosi  |  E Arosi
@@ -23623,7 +23643,7 @@ yams’; and for coconuts _ɓaroɓaro_ ‘2’, _ausukau_ ‘10’, _ɣairirasi_
 
                                                             Numerals, classifiers and counting 495
 
-: Table 14.10 Halia (Hanahan) enumerative classifier hierarchies
+: __Table 14.10__ Halia (Hanahan) enumerative classifier hierarchies
 
 __tablenh__
           coconuts                          |         4  |  _piloto_    |    —
@@ -23697,7 +23717,7 @@ _taura-hani_ ‘8’. Since _toi_ and _hani_ are 3 and 4 respectively, _taura-_ 
 ‘double’ (it is not listed separately in Lister-Turner & Clark 1954a), and it is a reasonable
 inference that it reflects an earlier enumerative classifier meaning ‘pair’.[32]
 
-: Table 14.11 Numerals 1–9 in Wuvulu and certain Central Papuan languages
+: __Table 14.11__ Numerals 1–9 in Wuvulu and certain Central Papuan languages
 
 __table__
    | POc   | Wuvulu           | Keapara (Kalo)       | Motu            | Lala           | Gabadi
@@ -23779,11 +23799,11 @@ way to _ka_ ‘25,000’. The system thus has bases 4, 20, 40, 200, 1000, 5000, 
 
 498 Malcolm Ross
 
-: Table 14.12 The Wogeo (NNG) numeral system
+: __Table 14.12__ The Wogeo (NNG) numeral system
 
 __table__
             |  simple numerals | fours       | twenties | forties      | 200’s     | thousands
-         1  |  _ta_            | _kʷik       | _usú_    | _kulemʷa_      | _udol_      | _lima_
+         1  |  _ta_            | _kʷik_      | _usú_    | _kulemʷa_      | _udol_      | _lima_
          2  |  _rua_           | _kiki-rua_  | —        | _kulemʷa-rua_  | _udol-rua_  | _lima-rua_
          3  |  _tol_           | _kiki-tol_  | —        | _kulemʷa-tol_  | _udol-tol_  | _lima-tol_
          4  |  —               | _kiki-vat_  | —        | _kulemʷa-vat_  | _udol-vat_  | _lima-vat_
@@ -23949,7 +23969,7 @@ expanded the repertoire of classifiers beyond those reconstructed for POc above.
 
 14.6.6 Admiralties
 
-Proto Admiralty (PAdm) has NML-CLF structure along with at least the following classifiers
+Proto Admiralty (PAdm) has [NML]{.smallcaps}-[CLF]{.smallcaps} structure along with at least the following classifiers
 reconstructed above:
 
 __block__
@@ -23960,7 +23980,7 @@ __block__
     - PAdm _*-buŋu_ ‘cluster, bundle (usually of fruit)’ (< POc _*-buŋV_; §14.6.2)
     - PAdm _*-iti_ ‘hand of bananas’ (< POc _*-qiti_; §14.6.2)
 
-   The NML CLF structure was a variant of the POc *NML _ŋa_ CLF structure, but by the
+   The [NML]{.smallcaps} [CLF]{.smallcaps} structure was a variant of the POc *[NML]{.smallcaps} _ŋa_ [CLF]{.smallcaps} structure, but by the
 breakup of PAdm, POc _*ŋa_ had been lost, except as a fossil in PAdm _*-ŋafulu_ ‘unit of 10’,
 _*-ŋatu_ ‘unit of 100’ (below) and _*-ŋafV_ ‘fathom’ (§16.2.1).
 
@@ -24077,7 +24097,7 @@ PEAd *-koro ‘village’ (POc _*koro_ ‘fenced-in area’; ‘? settlement for
 
 14.6.7 Papuan Tip
 
-PPT (PPT) had CLF-NML structure, along with at least the following
+PPT (PPT) had [CLF]{.smallcaps}-[NML]{.smallcaps} structure, along with at least the following
 classifiers reconstructed above:
 
 __block__
@@ -24101,7 +24121,7 @@ Sudest–Nimoa (Anderson & Ross 2002).
 
 14.6.8 Micronesian
 
-Like Proto Admiralty, Proto Micronesian had NML-CLF structure. It retained from POc at
+Like Proto Admiralty, Proto Micronesian had [NML]{.smallcaps}-[CLF]{.smallcaps} structure. It retained from POc at
 least the following classifiers reconstructed above:
 
 __block__
@@ -24140,7 +24160,7 @@ __block__
     - PChk _*makoto-lapa_ ‘length of two finger segments’
     - Proto Chuukese _*-tudu_ ‘finger-length’
 
-   The NML CLF structure was a variant of the POc NML _*ŋa_ CLF structure, but by the
+   The [NML]{.smallcaps} [CLF]{.smallcaps} structure was a variant of the POc [NML]{.smallcaps} _*ŋa_ [CLF]{.smallcaps} structure, but by the
 breakup of PMic, POc _*ŋa_ had been lost, except as a fossil in PMic _*-ŋawulu_ ‘unit of
 10’ (above) and _*-ŋafa_ ‘fathom’ (§16.2.1), and as a prenasalisation in PMic _*-dau_
 ‘animate; person’ and _*-bui_ ‘group, herd’.
@@ -24281,14 +24301,14 @@ are omitted for reasons of space.
 
 14.6.9 Polynesian
 
-PPn retained both POc classifier structures, NML _*ŋa_ CLF and CLF NML, but the classifier
+PPn retained both POc classifier structures, [NML]{.smallcaps} _*ŋa_ [CLF]{.smallcaps} and [CLF]{.smallcaps} [NML]{.smallcaps}, but the classifier
 after _*ŋa_ was always enumerative and denoted a multiple of the thing counted (§14.3).
 Clark (1999) observes that the latter structure is rare in Tongic and East Polynesian
 languages. Unlike Admiralties and Micronesian languages, Polynesian languages use a
 classifier only with a restricted class of abundant and culturally significant items (§14.6.3).
 
    Certain Tongan classifiers imply that Tongan retained a third POc classifier structure
-for which only sporadic evidence remains: NML + CLF-_*qi_/_*ni_, followed by the counted/
+for which only sporadic evidence remains: [NML]{.smallcaps} + [CLF]{.smallcaps}-_*qi_/_*ni_, followed by the counted/
 classified noun. This was an application of the POc specific possession structure (Ross 1998b:249).
 The classifiers concerned are _-fo-ʔi_ ‘coconut’ and _-taua-ʔi_ ‘pair of coconuts’.
 The structure appears to be cognate with one found in SE Solomonic languages:
@@ -24307,7 +24327,7 @@ __igt__
          one ART CLF ASSOCIATIVE fish
          ‘one “ten-animals” of fish’ (Hill & Unger 2018:131)
 
-   PPn retained the POc NML _*ŋa_ CLF structure along with at least the following classifiers
+   PPn retained the POc [NML]{.smallcaps} _*ŋa_ [CLF]{.smallcaps} structure along with at least the following classifiers
 reconstructed elsewhere:
 
 __block__
@@ -24318,7 +24338,7 @@ __block__
 
 508 Malcolm Ross
 
-: Table 14.13        Decades in Proto Polynesian and Polynesian languages
+: __Table 14.13__        Decades in Proto Polynesian and Polynesian languages
 
 __tablenh__
   | PPn         | _*sa=[ŋa ]fulu_      | _*rua [ŋa ]fulu_ | _*tolu ŋa fulu_ | _*fā ŋa fulu_ | _*nima ŋa fulu_
@@ -24350,7 +24370,7 @@ _*rua_ ‘2’ before classifiers other than _*-fulu_.
     Other reconstructable classifiers that occur in the same slot include PPn _*-fua_ ‘10 of s.t.’.
 In Polynesian languages other than Tongan, it is _fua-_, rather than _-fua_, that marks a multiple
 of 10, but it is included here because it appears to be cognate with Wuvulu _-fua_ ‘10’, which
-reflects the NML _*ŋa_ CLF structure. It apparently reflects POc _*-pua_ ‘default inanimate; round
+reflects the [NML]{.smallcaps} _*ŋa_ [CLF]{.smallcaps} structure. It apparently reflects POc _*-pua_ ‘default inanimate; round
 object’ but here has an enumerative or multiplicative function.
 
 <
@@ -24382,7 +24402,7 @@ PPn *-kau ‘a score, 10 pairs’
    A number of other such classifiers are found in Tongan, Samoan and Rennellese, but they
 do not form cognate sets.
 
-   PPn retained the POc CLF NML structure along with at least PPn _*mata-_ ‘10 fish; 10
+   PPn retained the POc [CLF]{.smallcaps} [NML]{.smallcaps} structure along with at least PPn _*mata-_ ‘10 fish; 10
 taro’ (§14.6.2). One other preposed PPn classifier can be reconstructed. It appears only to
 have been used with the numerals 1–9.
 
@@ -24488,7 +24508,7 @@ where elaboration appears to be ongoing, implies that one reason for the elabora
 appreciation of rhetoric in Kilivila society: subtle use of classifiers is one feature of a good
 public speech.
 
-   A complication here is that PPn classifiers with the structure NML _*ŋa_-CLF always
+   A complication here is that PPn classifiers with the structure [NML]{.smallcaps} _*ŋa_-[CLF]{.smallcaps} always
 counted multiples of items, i.e. were always numeral classifiers. Was this true of their POc
 forebears? Quite possibly, but non-Polynesian data that would clinch this do not exist.
 
@@ -24520,7 +24540,7 @@ Apma        |  Schneider 2010
 Araki       |  François 2002
 Are         |  Paisawa, Pagotto & Kale 1975
 Aria        |  Thurston 1996b
-Arop-Lokep  |  D’Jernes1990, 2002; Raymond 2005
+Arop-Lokep  |  D’Jernes 1990; D’Jernes 2002; Raymond 2005
 Arosi       |  Fox 1931; Capell 1971
 Atchin      |  Capell & Layard 1980
 Avava       |  Crowley 2006a
@@ -24553,7 +24573,7 @@ Engdewo      | Vaa 2013
 Fehan Tetun  | van Klinken 1999
 Gabadi       | Strong 1912
 Gapapaiwa    | McGuckin 2002
-Gedaged      | Dempwolff nd
+Gedaged      | Dempwolff n.d.
 Halia        | Allen 1987
 Hawaiian     | Elbert & Pukui 1979; Bender & Beller 2006a, 2006b
 Hawu         | Walker 1982
@@ -24563,9 +24583,9 @@ Hula         | Short 1935
 Javanese     | Robson 1992
 Kairiru      | Wivell 1981a
 Kaiwa        | Bradshaw 2001
-Kalo         | King et al 2014
+Kalo         | King et al. 2014
 Kambera      | Klamer 2010
-Keapara      | King et al 2014
+Keapara      | King et al. 2014
 Kele         | Ross 2002f
 Kéo          | Baird 2002
 Kilivila     | Malinowski 1920; Lawton 1993; Senft 1995
@@ -24613,7 +24633,7 @@ Lau          | Ivens 1929b
  Motu       |  Lister-Turner & Clark 1954b; Lean 1991
  Mouk       |  Thurston 1996b
  Mussau     |  Brownie & Brownie 2007
- Muyuw      |  Lithgow & Lithgow nd
+ Muyuw      |  Lithgow & Lithgow n.d.
  Mwotlap    |  François 2003b
  Nadrogā    |  Geraghty 2002
  Nahavaq    |  Dimock 2009
@@ -24621,7 +24641,7 @@ Lau          | Ivens 1929b
  Nalik      |  Volker 1998
  Namakir    |  Sperlich 1991
  Naman      |  Crowley 2006c
- Nauruan    |  Kayser 1993 [1936]
+ Nauruan    |  Kayser 1993
  NE Ambae   |  Hyslop 2001
  Nehan      |  Glennon 2014
  Nêlêmwa    |  Bril 2014
@@ -24655,7 +24675,7 @@ Samoan       | Mosel & Hovdhaugen 1992; Bender & Beller 2006a, 2006b
 SE Ambrym    | Labrecque 2009
 Seimat       | Wozna & Wilson 2005
 Siar         | Rowe 2005; Frowein 2011
-Sikaiana     | Capell 1935–1937
+Sikaiana     | Capell 1935-1937
 Sinaugoro    | Tauberschmidt 1999
 Sio          | Clark & Clark 1987
 Sisiqa       | Ross 2002g
@@ -24768,7 +24788,7 @@ Some communities also employed the toes, and some repeated the process with the 
 a proxy for toes until they reached ‘one person’. Both possibilities existed for Kairiru speakers
 (NNG; Wivell 1981). Fingers and toes were used by Mengen (NNG; Panoff 1970) and by
 Drehu speakers (NCal; Ray 1926:134). Groups who used fingers only include the Lihir and
-Sursurunga of New Ireland (MM; Neuhaus 2015 [1954]:131; Hutchisson 1977) and the
+Sursurunga of New Ireland (MM; Neuhaus 2015:131; Hutchisson 1977) and the
 Banks and Ambae islanders of northern Vanuatu (Codrington 1891:353). In other accounts
 this information is omitted, perhaps because people only used their hands.
 
@@ -24860,7 +24880,7 @@ fairly common (§15.6).
 
 518 Malcolm Ross
 
-: Table 15.1 Cyclicity in Mussau numerals (Brownie & Brownie 2007)
+: __Table 15.1__ Cyclicity in Mussau numerals (Brownie & Brownie 2007)
 
 __table__
   tens: | 0      | 10              | 20               | 30                | 40
@@ -24909,7 +24929,7 @@ are common: base-5-10, base-5-20 and base-5-10-20. I will refer to them collecti
 
                                                                              Digit tallying 519
 
-: Table 15.2 a) Cyclicity in Daakaka numerals (von Prince 2012:224–225): base-5
+: __Table 15.2__ a) Cyclicity in Daakaka numerals (von Prince 2012:224–225): base-5
 
 __table__
                            fives: | 0    |     |  5           |
@@ -24920,7 +24940,7 @@ __table__
                             4     | _vʸer_ | ‘4’ | _me-per_       |   ‘9’
 
 
-: Table 15.2 b) Cyclicity in Daakaka numerals (von Prince 2012:224–225): base-10
+: __Table 15.2__ b) Cyclicity in Daakaka numerals (von Prince 2012:224–225): base-10
 
 __table__
      tens:| 10                   |        |  20                |       | 30                    |
@@ -24966,7 +24986,7 @@ Chapter 14, as they differ from a base-10 system only in their treatment of 6–
 
     Lynch’s (2009) “imperfect decimal” category of Oceanic numeral systems lumps together
 the additive 6–9 sequences in Daakaka, Mangap and Tuam with subtractive sequences like
-7-9 in Ponam _aha-talo-f_ [minus-3-CLF] ‘7’, _aha-luo-f_ [minus-2-CLF] ‘8’, _aha-se_ [minus-1-CLF]
+7-9 in Ponam _aha-talo-f_ [minus-3-[CLF]{.smallcaps}] ‘7’, _aha-luo-f_ [minus-2-[CLF]{.smallcaps}] ‘8’, _aha-se_ [minus-1-[CLF]{.smallcaps}]
 ‘9’ (§14.4.3.5).[4] However, the subtractive sequence is not cyclic, so in this respect Ponam 10
 does not define a base. The numeral ‘10’ is a base in Ponam, but because there is a base-10
 cycle, not because it is a minuend.[5]
@@ -25014,7 +25034,7 @@ not say, ‘57’, but ‘2 people (plus) 2 hands and (a foot) plus 2 (toes)’.
 
                                                                 Digit tallying 521
 
-: Table 15.3 a)   Cyclicity in Mangap numerals (Bugenhagen 1995:147–148): base-5
+: __Table 15.3__ a)   Cyclicity in Mangap numerals (Bugenhagen 1995:147–148): base-5
 
 __table__
 fives:| 0   | 5              |     |     10           |       |    15                 |
@@ -25024,7 +25044,7 @@ fives:| 0   | 5              |     |     10           |       |    15           
 3     | _tel | _lama-ta mi tel_ | ‘8’ |   _lāmu-ru mi tel_ | ‘13’  |  _lamo-ro-ma-ta mi tel_ | ‘18’
 4     | _paŋ | _lama-ta mi paŋ_ | ‘9’ |   _lāmu-ru mi paŋ_ | ‘14’  |  _lamo-ro ma-ta mi paŋ_ | ‘19’
 
-: Table 15.3 b)   Cyclicity in Mangap numerals (Bugenhagen 1995:147–148): base-20
+: __Table 15.3__ b)   Cyclicity in Mangap numerals (Bugenhagen 1995:147–148): base-20
 
 __table__
   20s:| 20                           |      |  40                             |
@@ -25061,7 +25081,7 @@ base-5 matrix in Mangap (Table 15.3) breaks off at 19, the base-5 matrix in Tuam
 resembles Mangap _tomō-_, both in meaning ‘person’ and in hinting at an earlier digit tally
 system.
 
-: Table 15.4 a)       Cyclicity in Tuam numerals (Bugenhagen 2011): base-5
+: __Table 15.4__ a)       Cyclicity in Tuam numerals (Bugenhagen 2011): base-5
 
 __table__
     fives: |  0    |      |   5           |
@@ -25073,7 +25093,7 @@ __table__
 
 
 
-: Table 15.4 b)       Cyclicity in Tuam numerals (Bugenhagen 2011): base-10
+: __Table 15.4__ b)       Cyclicity in Tuam numerals (Bugenhagen 2011): base-10
 
 __table__
             tens: |  10                 |
@@ -25088,7 +25108,7 @@ __table__
             3     |  _saŋavul līm ve tol_ | ‘18’
             4     |  _saŋavul līm ve pāŋ_ | ‘19’
 
-: Table 15.4 c)  Cyclicity in Tuam numerals (Bugenhagen 2011): base-20
+: __Table 15.4__ c)  Cyclicity in Tuam numerals (Bugenhagen 2011): base-20
 
 __table__
     20s: | 20                            |       |  40                                |
@@ -25174,11 +25194,11 @@ base is also BASE × BASE, i.e. 2 × 2 = 4.
 
 524 Malcolm Ross
 
-: Table 15.5          Cyclicity in Yalu numerals (Holzknecht 1998): base-5
+: __Table 15.5__          Cyclicity in Yalu numerals (Holzknecht 1998): base-5
 
 __table__
 fives: |     | 5                                  |     | 10                       |      | 15 |
-0      |  —  | _pagi-g lefe-n_¹ hand-my half-its | ‘5’ | _pagi-g siruʔ_ hand-my two | ‘10’ | _pagi-g siruʔ ofoŋ menen_  hand-my two, foot one | ‘15’
+0      |  —  | _pagi-g lefe-n_ ¹ hand-my half-its | ‘5’ | _pagi-g siruʔ_ hand-my two | ‘10’ | _pagi-g siruʔ ofoŋ menen_  hand-my two, foot one | ‘15’
 1      | _uruc_ | _pagi-g lefe-n nicin uruc_  hand-my half-its and one | ‘6’ | _pagi-g siruʔ nicin uruc_ hand-my two and one | ‘11’ | _pagi-g siruʔ ofoŋ menen nicin uruc_  | ‘16’
 2      | _siruʔ_  | _pagi-g lefe-n nicin siruʔ_ |‘7’ | _pagi-g siruʔ nicin siruʔ_ | ‘12’ | pagi-g siruʔ ofoŋ menen nicin siruʔ |‘17’
 3      | _siruʔ aruc_ | _pagi-g lefe-n nicin siruʔ aruc_ | ‘8’ | _pagi-g siruʔ nicin siruʔ aruc_ | ‘13’ | _pagi-g siruʔ ofoŋ menen nicin siruʔ aruc_ | ‘18’
@@ -25231,7 +25251,7 @@ are a second round of 1–4. The word _bani-g_ ‘my hand’ then stands in for 
 teens. The term for 20, on the other hand, is still phrasal. Thus Takia appears to have (had) a
 nascent base 5-10-(20) system.
 
-: Table 15.6         Takia numeral terms (Waters 1996)[8]
+: __Table 15.6__         Takia numeral terms (Waters 1996)[8]
 
 __table__
                 numeral term                  |       | morpheme-by-morpheme gloss
@@ -25361,7 +25381,7 @@ __formgroup__
 Of these languages all have a base-5-20 system except Roinji (base-2-20), Bwaidoga and
 Xârâcùù (both base-5-10-20).
 
-   Two of the languages above, Roinji and Xârâcùù, specify ‘hands and feet of one man/person’.
+   Two of the languages above, Roinji and Xârâcùù, specify ‘hands and feet __of one man__/__person__’.
 A far larger number of languages with a 20 base abbreviate this to ‘one man’ or ‘one
 person’. Examples are Mangap _tomō-ta_ and Tuam _tamōt-ē_, both [person-one] (Tables 15.3
 and 15.4) and the following terms for 20:
@@ -25429,7 +25449,7 @@ into place.
 
                                                                                 Digit tallying 529
 
-: Table 15.7        Numerals that reflect digit tallying
+: __Table 15.7__        Numerals that reflect digit tallying
 
 __table__
      | POc | Nalik (MM) (base-5-10) | Banoni (MM) (base-10) | Piva (MM) (base-10) | Kwamera (SV) (base-5-20)
@@ -25455,7 +25475,7 @@ folded down.
 for 10 all reflect Proto Epi-Efate _*lua-lima_ [2×5], implying an earlier system in which 10 was
 not a base. But the order of its components is unexpected. If it originally meant ‘two fives’,
 then ‘five’ was the noun head and ‘two’ the attribute. Since the regular order in early Oceanic
-was N NML (and still is in Epi-Efate languages), one would expect †_*lima-lua_ rather than _*lua-lima_.
+was N [NML]{.smallcaps} (and still is in Epi-Efate languages), one would expect †_*lima-lua_ rather than _*lua-lima_.
 
     We can infer from this material that early Oceanic speakers used digit-tallying. No POc
 etyma involved in a tally system can be reconstructed, but this is not surprising, as a tally
@@ -25500,7 +25520,7 @@ __table__
         base-8-12-24 |      1  |       0%
         base-5       |      5  |       1%
         No base      |     10  |       4%
-        Total        |    383  |      100%
+        _Total_        |    _383_  |      _100%_
 
      These figures gainsay a comment by Bender & Beller (2006:380):
 
@@ -25583,17 +25603,17 @@ compensated for by the fact that 54.5 per cent of base-5-20 languages retain thr
 numerals, as against 17.4 per cent in other base-5+ languages. This does not seem to tell us
 anything significant about base-5-20 retentions in comparison with other base-5+ languages.
 
-: Table 15.8 Retentions of POc numerals from 2 to 5 in each base-5+ system, where n is the number of languages
+: __Table 15.8__ Retentions of POc numerals from 2 to 5 in each base-5+ system, where n is the number of languages
 
 __table__
                    | base-5-20 |          | base-5-10-20 |   | base-5-10 |     |  Totals |
-                     |     n   | per cent |   n   |      %   |       n |     % |     n   |     %
+                     |    _n_  | per cent |  _n_  |      %   |     _n_ |     % |    _n_  |     %
    0 retentions      |     1   |    2.3   |  1    |   2.2    |       1 |   0.7 |     3   |    1.4
    one retention     |     3   |    6.8   |  5    |   11.1   |       7 |   5.2 |    15   |    6.8
    two retentions    |     3   |    6.9   |  4    |   8.9    |      12 |   9.0 |    19   |    8.6
    three retentions  |    24   |   54.5   | 10    |   22.2   |      21 |  15.8 |    55   |   24.8
    four retentions   |    13   |   29.5   | 25    |   55.6   |      92 |  69.2 |   130   |   58.6
-   Totals            |    44   |  100.0   | 45    |  100.0   |     133 |  99.9 |   222   |  100.2
+   _Totals_          |    44   |  100.0   | 45    |  100.0   |     133 |  99.9 |   222   |  100.2
 
     The reason for this is probably that base-5-10-20 and base-5-10 languages have each
 arisen by more than one route. In Vanuatu and New Caledonia these are partly homegrown,
@@ -25650,7 +25670,7 @@ witnessing to the digit-tally origin of these systems (§15.4.3).
    However, there is more than one way in which the role of digit tallying might have been
 played out.
 
-: Table 15.9 Sources of terms for 10 in base-5-10-20 and base-5-10 languages
+: __Table 15.9__ Sources of terms for 10 in base-5-10-20 and base-5-10 languages
 
 __table__
                              | base 5-10-20  |    % | base 5-10    |    %  | Totals base-5-10+ |     %
@@ -25723,7 +25743,7 @@ base-5-10-20 (Ozanne-Rivierre 1998; Bril 2014). The shared ancestor of the three
 Proto Far North New Caledonia, had terms for 10 and 15: _*rũnik_ and _*tĩnik_ respectively.
 Tentatively, these reflect earlier _*rua-lima_ (2×5) and _*tolu-lima_ (3×5), as the forms for 2 and 3
 show that the initial consonants do reflect POc _*r-_ and _*t-_. The morph _-ni_ in _*rũnik_ and
-_*tĩnik_ reflects _*lima_ ‘5’: cf nearby Yuanga _pɔ-ni_ [CLF-5] ‘5’ (Bril 2014), Pije/Jawe/Nemi _nim_
+_*tĩnik_ reflects _*lima_ ‘5’: cf nearby Yuanga _pɔ-ni_ [[CLF]{.smallcaps}-5] ‘5’ (Bril 2014), Pije/Jawe/Nemi _nim_
 ‘5’ (Haudricourt & Ozanne-Rivierre 1982). The origin of final _*-k_ of _*rũnik_ ‘and _*tĩnik_ is
 unknown.
 
@@ -25770,6 +25790,7 @@ also base-5-10 systems in NW Melanesia and north and central Vanuatu that do not
 history. Logically, base-5-10 systems could have originated in two diametrically opposite
 ways.
 
+__block__
 7) Possible origins of a base-5-10 system:
    a. from a base-5-10-20 system: the term for 20 (often ‘person’) is lost, giving a
       base-5-10 system (i.e. as in Epi, Efate and Erromango).
@@ -25784,11 +25805,11 @@ base-5-10-20 systems reflects a term for 10 meaning ‘two hands’: 17 per cent
 reflexes are excluded—but no base-5-10 system has such a reflex.
 
 
-[13] Thus Nyelâyu _pʷa-rulĩk bʷār pʷar-nem_ [CLF-10 top CLF-5] ‘15’.
+[13] Thus Nyelâyu _pʷa-rulĩk bʷār pʷar-nem_ [[CLF]{.smallcaps}-10 top [CLF]{.smallcaps}-5] ‘15’.
 
                                                                                        Digit tallying 541
 
-: Table 15.11 Sa and Notsi base-5-10 and base-10 numeral systems
+: __Table 15.11__ Sa and Notsi base-5-10 and base-10 numeral systems
 
 __table__
           |  POc           | Sa: base-5-10    |   Sa: base-10    |  Notsi: base-5-10   |    Notsi: base-10
@@ -25845,7 +25866,7 @@ uncertainty.
 
 542 Malcolm Ross
 
-: Table 15.12 Two MM and two NCV languages reflecting the ligature _*lapi-_
+: __Table 15.12__ Two MM and two NCV languages reflecting the ligature _*lapi-_
 
 __table__
   | Early Oceanic | Tungak (MM) N New Ireland | Vinitiri (MM) E New Britain | Maskelynes (NCV) SE Malakula | Lelepa (NCV) Efate
@@ -25891,7 +25912,7 @@ give’ (vol.5:426).
 
                                                                            Digit tallying 543
 
-: Table 15.13 New Britain languages and Äiwoo of the Reefs reflecting the ligature _*polo-_
+: __Table 15.13__ New Britain languages and Äiwoo of the Reefs reflecting the ligature _*polo-_
 
 __table__
    | Early Oceanic | Vitu (MM) French Islands | Bola (MM) New Britain | Avau (NNG) New Britain | Äiwoo (TM) Reef Islands
@@ -25900,10 +25921,10 @@ __table__
  3 | _*-tolu_         | _tolu_          |   _tolu_        |    _moyok_         |     _eve_
  4 | _*-pat_          | _vata_          |   _va_          |    _pɛnɛl_         |     _u-væ_
  5 | _*-lima_         | _lima_          |   _lima_        |    _limi_          |     _vi-li_
- 6 | _*lap-tikai_     | ___polo___ _katiu_ | ___polo____tara_ | _ke_ ___polo___     |     ___pole___-_gi_
- 7 | _*lavi-rua_      | ___polo___ _rua_   | ___polo____rua_  | _su_ ___polo___     |     ___pole___-_lu_
- 8 | _*lavi-tolu_     | ___polo___ _tolu_  | ___polo____tolu_ | _moyok_ ___polo___  |     ___pole___-_e_
- 9 | _*lavi-pat_      | ___polo___ _vata_  | ___polo____va_   | _pɛnɛl_ ___polo___  |     ___polo___-_uvæ_
+ 6 | _*lap-tikai_     | ___polo___ _katiu_ | <i><strong>polo</strong>tara</i> | _ke_ ___polo___     |     ___pole___-_gi_
+ 7 | _*lavi-rua_      | ___polo___ _rua_   | <i><strong>polo</strong>rua</i>  | _su_ ___polo___     |     ___pole___-_lu_
+ 8 | _*lavi-tolu_     | ___polo___ _tolu_  | <i><strong>polo</strong>tolu</i> | _moyok_ ___polo___  |     ___pole___-_e_
+ 9 | _*lavi-pat_      | ___polo___ _vata_  | <i><strong>polo</strong>va</i>   | _pɛnɛl_ ___polo___  |     ___polo___-_uvæ_
    |                 | van den Berg & Bachet 2006 | van den Berg & Wiebe 2019 | author’s fieldnotes | Næss 2016
 
    One other ligature appears to transcend local boundaries. This is _polo-_, glossed as Vitu ‘go
@@ -26195,21 +26216,21 @@ measurement classifiers in Sohn (1975:61), and Alkire’s forms have been replac
 and re-spelled in accordance with the orthographic convention used in these volumes
 (§1.4.2).
 
-__block__
-1) a. _maxō-ṣix_        length of one finger joint (_maxō_ ‘finger-joint length’; _ṣix_ ‘small’)
-   b. _maxō-rap_        length of two finger joints (_maxō_ ‘finger-joint length’; _rap_ ‘big’)
-   c. _-xatt_           length of a finger
-   d. _-peṣa-nim_       width of the palm (lit. ‘handle of hand’)
-   e. (_maiarulpu_)     fist width plus thumb length (Alkire’s spelling: not recorded by Sohn)
-   f. (_ngalit_)         with hand extended, length from end of thumb to end of first finger (Alkire’s spelling: not recorded by Sohn)
-   g. _-yaŋ_             with hand extended, length from end of thumb to end of middle finger (hand span).
-   h. _xumʷüṣ_           from wrist to end of fingers (_xumʷüṣ_ ‘wrist’)
-   i. _-mʷarü_           length of forearm, from elbow to end of fingers (a cubit).
-   j. _-paü_             length of whole arm (only with _se-_ ‘one’; _paü_ ‘arm, hand’)
-   k. _-teroufʷ_         with arm extended, length from sternum to end of fingers
-   l. _-yefaẓ_           with arm extended, length from end of fingers to shoulder of opposite arm
-   m. _wōpaü_            with arms extended, length from end of fingers to elbow of opposite arm
-   n. _-ŋaf_             with arms extended, length from finger tips to finger tips (a fathom)
+__tablenh__
+ 1. | a. | _maxō-ṣix_     |   length of one finger joint (_maxō_ ‘finger-joint length’; _ṣix_ ‘small’)
+   | b. | _maxō-rap_     |   length of two finger joints (_maxō_ ‘finger-joint length’; _rap_ ‘big’)
+   | c. | _-xatt_        |   length of a finger
+   | d. | _-peṣa-nim_    |   width of the palm (lit. ‘handle of hand’)
+   | e. | (_maiarulpu_)  |   fist width plus thumb length (Alkire’s spelling: not recorded by Sohn)
+   | f. | (_ngalit_)     |    with hand extended, length from end of thumb to end of first finger (Alkire’s spelling: not recorded by Sohn)
+   | g. | _-yaŋ_         |    with hand extended, length from end of thumb to end of middle finger (hand span).
+   | h. | _xumʷüṣ_       |    from wrist to end of fingers (_xumʷüṣ_ ‘wrist’)
+   | i. | _-mʷarü_       |    length of forearm, from elbow to end of fingers (a cubit).
+   | j. | _-paü_         |    length of whole arm (only with _se-_ ‘one’; _paü_ ‘arm, hand’)
+   | k. | _-teroufʷ_     |    with arm extended, length from sternum to end of fingers
+   | l. | _-yefaẓ_       |    with arm extended, length from end of fingers to shoulder of opposite arm
+   | m. | _wōpaü_        |    with arms extended, length from end of fingers to elbow of opposite arm
+   | n. | _-ŋaf_         |    with arms extended, length from finger tips to finger tips (a fathom)
 
 550   Malcolm Ross
 
