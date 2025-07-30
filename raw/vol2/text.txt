@@ -15570,7 +15570,7 @@ marker of a year. It is likely that that it already had the meaning ‘yam seaso
 times.
 
 <
-PMP *taqun ‘period of a year’ (Dempwolff 1938)
+PMP *taqun ‘period of a year’ (Dempwolff 1938, ACD)
 POc *taqun ‘period of a year, yam season cycle (?), any cyclic period’
  NNG: Bariai           taun                  ‘the time when …’
  NNG: Buang            ta                    ‘year; a complete cycle of yam growing’

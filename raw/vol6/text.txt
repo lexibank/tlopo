@@ -13710,7 +13710,7 @@ of reference.”
 glosses, the first given in vol. 2, the other a revised definition for which we argue below.
 
 <
-PMP *taqun ‘period of a year’ (Dempwolff 1938) (ACD)
+PMP *taqun ‘period of a year’ (Dempwolff 1938, ACD)
 POc *taqun ‘recurrent seasonal cycle, especially yam season cycle’ (revised definition); ‘period of a year, yam season cycle (?), any cyclic period’ (definition given in vol. 2:308)
  NNG: Bariai           taun                  ‘the time when …’
  NNG: Buang            ta                    ‘year; a complete cycle of yam growing’

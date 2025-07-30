@@ -296,13 +296,12 @@ class Dataset(BaseDataset):
             else:
                 # FIXME: make sure the existing gloss has all the metadata of the new one, e.g. comment, source, POS
                 og = old_glosses[gloss]
-                assert og.pos == gloss.pos
                 if gloss.sources:
                     if not og['Source']:
                         og['Source'] = [ref.cldf_id for ref in gloss.sources]
                     else:
                         assert [ref.cldf_id for ref in gloss.sources] == og['Source'], (
-                            '{} vs {}'.format(gloss.sources, og['Source']))
+                                '{}: {} vs {}'.format(protoform_or_reflex, gloss.sources, og['Source']))
                 gloss_ids.append(og['ID'])
         return gloss_ids
 
