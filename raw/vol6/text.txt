@@ -13235,7 +13235,7 @@ PNCV *tabu ‘sacred, forbidden, taboo’ (Clark 2009)
  NCV:  Raga          tabu                 ‘set apart, prohibit’ (Bislama borrowing? Marie Duhamel, pers. comm.)
  NCV:  Tamambo       tabu                 ‘sacred, forbidden’
  NCV:  Nguna         tapu                 ‘holy, sacred’
- SV:   Anejom        (i)tapw              ‘forbidden’
+ SV:   Anejom        (i)tapʷ              ‘forbidden’
  Mic:  Marshallese   capʷi                ‘taboo’ (archaic)
  Mic:  Woleaian      tāfʷu                (N) ‘taboo, ban, ritual restriction protected by supernatural sanction’; (VI) ‘be prohibited by taboo’ (Pn loan?)
  Mic:  Kiribati      tapʷu                (N) ‘prohibition, interdiction’; (V) ‘sacred; forbidden, prohibited’

@@ -2263,7 +2263,7 @@ In [Ross](../sources/Ross1995c) ([1995c](../sources/Ross1995c)) I wrote, ‘Ther
 <td style="white-space: nowrap;">
 <i>&ast;taqun</i>
 </td>
-<td>'<span>period of a year</span>' (<a href="../sources/Dempwolff1938">Dempwolff 1938</a>)
+<td>'<span>period of a year</span>' (<a href="../sources/Blust1995">ACD</a>; <a href="../sources/Dempwolff1938">Dempwolff 1938</a>)
 </td>
 </tr>
 <tr>

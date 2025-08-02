@@ -10,7 +10,7 @@ The western Pacific is divided by botanists into two floristic regions, northwes
 
 Within NW Melanesia there is a gradual reduction in the number of genera and species as one moves east- and southeastward through the islands, but there are no major new genera. In SE Melanesia, on the other hand, we encounter genera that are not represented or hardly represented in the islands of NW Melanesia, for example the genus Agathis, to which the kauri species of SE Melanesia belong.
 
-In this chapter, indeed in this volume, we are mainly concerned with NW Island Melanesia (i.e. NW Melanesia other than New Guinea), and particularly with the Bismarck Archipelago, as this is where the POc homeland was located (vol.2, ch.2).
+In this chapter, indeed in this volume, we are mainly concerned with NW Island Melanesia (i.e. NW Melanesia other than New Guinea), and particularly with the Bismarck Archipelago, as this is where the POc homeland was located ([vol.2, ch.2](../contributions/2-2#)).
 
 
 <a id="s-2"></a>
@@ -415,7 +415,7 @@ A minor piece of evidence that POc speakers recognised a division between wild a
 ## 6. The ingredients of an Oceanic meal
 
 
-People in traditional Oceanic-speaking villages ate one cooked meal a day, usually after the day's work. The meal typically consisted of starchy staples, made more appetising by the addition of coconut milk ([ch.12, §4.2](../contributions/3-12#s-4-2)), leafy vegetables (ch.10) and sometimes some meat or fish. Today the meal is most often boiled. Traditionally, boiling would have been common in communities which had clay pots. Will McClatchey (pers. comm.) points out that it was also possible in communities without clay pots: a stone was heated in the fire and dropped into a container of water. Such containers might be (watertight) leaf baskets, a wooden bowl, a ground out rock or a large shell. Since boiling with such utensils can still be observed in parts of NW Island Melanesia, there is good reason to think that it occurred traditionally. Food was presumably also roasted in the fire or baked over it or - on special occasions - steamed in an earth oven (for food preparation methods, see vol.1, ch.6).
+People in traditional Oceanic-speaking villages ate one cooked meal a day, usually after the day's work. The meal typically consisted of starchy staples, made more appetising by the addition of coconut milk ([ch.12, §4.2](../contributions/3-12#s-4-2)), leafy vegetables (ch.10) and sometimes some meat or fish. Today the meal is most often boiled. Traditionally, boiling would have been common in communities which had clay pots. Will McClatchey (pers. comm.) points out that it was also possible in communities without clay pots: a stone was heated in the fire and dropped into a container of water. Such containers might be (watertight) leaf baskets, a wooden bowl, a ground out rock or a large shell. Since boiling with such utensils can still be observed in parts of NW Island Melanesia, there is good reason to think that it occurred traditionally. Food was presumably also roasted in the fire or baked over it or - on special occasions - steamed in an earth oven (for food preparation methods, see [vol.1, ch.6](../contributions/1-6#)).
 
 The lexicons of Oceanic languages usually distinguish two main categories of ingredient:
 
@@ -896,7 +896,7 @@ cf. also:
 
 <a id="p-42"></a>
 
-A further twist is reflected in the forms under 'cf. also' above. The base of PMP _&ast;kan-an_ was _&ast;kan_. The base of the forms under 'cf. also' is POc _&ast;kani_. This reflects PMP _&ast;kan-i_, where _&ast;-i_ is a reflex of the PAn suffix _&ast;-i_ 'location focus, atemporal', reinterpreted as a transitiviser in POc ([Pawley & Reid 1980](../sources/PawleyReid1980); [vol.1, ch.2, ](../contributions/1-2#)§[§3 .1.2](../contributions/3-2#s-3-1-2)-3) but lexicalised as part of the POc base when the erstwhile base, e.g. _&ast;kan_, was a monosyllable. As a result, the forms under 'cf. also' have the base _&ast;kani_, which never co-occurred with a nominalising affix in PAn and PMP.
+A further twist is reflected in the forms under 'cf. also' above. The base of PMP _&ast;kan-an_ was _&ast;kan_. The base of the forms under 'cf. also' is POc _&ast;kani_. This reflects PMP _&ast;kan-i_, where _&ast;-i_ is a reflex of the PAn suffix _&ast;-i_ 'location focus, atemporal', reinterpreted as a transitiviser in POc ([Pawley & Reid 1980](../sources/PawleyReid1980); [vol.1, ch.2](../contributions/1-2#), §[§3 .1.2](../contributions/3-2#s-3-1-2)-3) but lexicalised as part of the POc base when the erstwhile base, e.g. _&ast;kan_, was a monosyllable. As a result, the forms under 'cf. also' have the base _&ast;kani_, which never co-occurred with a nominalising affix in PAn and PMP.
 
 Several reflexes of POc _&ast;kuta_ denote a major staple in the language concerned, either banana or yam, suggesting that the POc term denoted 'staple food'. However, it is also possible that _&ast;kuta_ was originally a specialised verb of eating, as the Gumawana, Iduna, Gela and Tolo glosses imply.
 

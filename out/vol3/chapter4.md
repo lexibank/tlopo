@@ -163,7 +163,7 @@ _uru_              (N) 1. head; crest, top 2. principal part, source etc. _Uru o
 ## 2. Plant part terms reconstructable for POc
 
 
-The main stems or trunks of woody plants are of considerable importance within Oceanic societies for the construction of houses and other buildings, and canoes, as well as for making bowls and various other wooden artefacts. [Ivens](../sources/Ivens1927) ([1927](../sources/Ivens1927): 149-150, 375-377) describes the construction of and materials used for houses and canoes on Mala Island in the southeastern Solomon Islands, including the use of two types of hardwood trees, _hata_ and _mamahuʔe_, for the posts which support the ridgepole of houses, and another two hardwood trees, _mawa_ and _iola_, for the keel and hull of canoes, respectively.[^2] Woods would have had equal importance in POc society in building houses (vol.1, ch.3), and making household artefacts (vol.1, ch.4) and canoes (vol.1, ch.7). For example, Green & Pawley ([vol.1, ch.3, §3.4](../contributions/1-3#s-3-4)) reconstruct three POc terms that referred to the posts of a house, namely _&ast;aRiRi_ 'post', _&ast;turu(s)_ 'post' and _&ast;bou_ '(?) main bearers supporting raised floor or roof structure, or centre post supporting ridge pole', and based on ethnographic evidence such posts were likely constructed from the trunks of hardwood trees.
+The main stems or trunks of woody plants are of considerable importance within Oceanic societies for the construction of houses and other buildings, and canoes, as well as for making bowls and various other wooden artefacts. [Ivens](../sources/Ivens1927) ([1927](../sources/Ivens1927): 149-150, 375-377) describes the construction of and materials used for houses and canoes on Mala Island in the southeastern Solomon Islands, including the use of two types of hardwood trees, _hata_ and _mamahuʔe_, for the posts which support the ridgepole of houses, and another two hardwood trees, _mawa_ and _iola_, for the keel and hull of canoes, respectively.[^2] Woods would have had equal importance in POc society in building houses ([vol.1, ch.3](../contributions/1-3#)), and making household artefacts ([vol.1, ch.4](../contributions/1-4#)) and canoes ([vol.1, ch.7](../contributions/1-7#)). For example, Green & Pawley ([vol.1, ch.3, §3.4](../contributions/1-3#s-3-4)) reconstruct three POc terms that referred to the posts of a house, namely _&ast;aRiRi_ 'post', _&ast;turu(s)_ 'post' and _&ast;bou_ '(?) main bearers supporting raised floor or roof structure, or centre post supporting ridge pole', and based on ethnographic evidence such posts were likely constructed from the trunks of hardwood trees.
 
 
 <a id="s-2-1"></a>
@@ -422,7 +422,7 @@ Terms for different types of wood or tissue in woody stems are present in Wayan,
 <td style="white-space: nowrap;">
 <i>&ast;tai-tea</i>
 </td>
-<td>'<span>sapwood</span>' (<span>POLLEX; <em>&ast;tea</em> 'white'</span>)</td>
+<td>'<span>sapwood</span>' (<span><em>&ast;tea</em> 'white'; POLLEX</span>)</td>
 </tr>
 <tr>
 <td>Pn</td><td><a href="../languages/tokelauan">Tokelauan</a></td><td style="white-space: nowrap;"><i>taitea</i></td>
@@ -2335,7 +2335,7 @@ The term 'fruit' in English has a number of senses, including: '1. vegetable pro
 <td style="white-space: nowrap;">
 <i>&ast;buaq</i>
 </td>
-<td>'<span>fruit</span>' (<a href="../sources/Dempwolff1938">Dempwolff 1938</a>)
+<td>'<span>fruit</span>' (<a href="../sources/Blust1995">ACD</a>; <a href="../sources/Dempwolff1938">Dempwolff 1938</a>)
 </td>
 </tr>
 <tr>
@@ -2686,7 +2686,8 @@ In a number of modern Oceanic languages, including Manam, Carolinian and Tikopia
 <td style="white-space: nowrap;">
 <i>&ast;batu</i>
 </td>
-<td>'<span>stone</span>'</td>
+<td>'<span>stone</span>' (<a href="../sources/Blust1999">Blust 1999</a>)
+</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>

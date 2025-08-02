@@ -173,7 +173,7 @@
 - <a id="source-Blust1978b"> </a>Blust, Robert A. 1978. _The Proto-Oceanic palatals. JPS Monograph 43. Auckland: Polynesian Society._.
 - <a id="source-Blust1979"> </a>Blust, Robert A. 1979. Proto-Western Malayo-Polynesian vocatives. Bijdragen tot de taal-, land-en volkenkunde 135:205-251. https://doi.org/10.1163/22134379-90002556.
 - <a id="source-Blust1980a"> </a>Blust, Robert A. 1980. Early Austronesian social organization: the evidence of language. Current Anthropology, 21:205–226.
-- <a id="source-Blust1980b"> </a>Blust, Robert A. 1980. Austronesian etymologies. Oceanic Linguistics, 19:1–182.
+- <a id="source-Blust1980b"> </a>Blust, Robert A. 1980. Austronesian etymologies. Oceanic Linguistics, 19:1–182. [https://www.jstor.org/stable/20172307](https://www.jstor.org/stable/20172307)
 - <a id="source-Blust1980c"> </a>Blust, Robert A. 1980. Notes on Proto-Malayo-Polynesian phratry dualism. Bijdragen tot de taal-, land-en volkenkunde 136:215-247. https://doi.org/10.1163/22134379-90003524.
 - <a id="source-Blust1981a"> </a>Blust, Robert A. 1981. Some remarks on labiovelar correspondences in Oceanic languages. In Hollyman, Jim and Pawley, Andrew (eds.), _Studies in Pacific languages and cultures: in honour of Bruce Biggs, 229-254. Auckland: Linguistic Society of New Zealand_.
 - <a id="source-Blust1981b"> </a>Blust, Robert A. 1981. Variation in retention rate among Austronesian languages. Paper presented to the Third International Conference on Austronesian Linguistics, Denpasar.

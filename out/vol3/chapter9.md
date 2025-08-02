@@ -3482,7 +3482,7 @@ The banana, _&ast;pudi_ (_Musa_ cultivars), and the breadfruit, _&ast;kuluR_ and
 
 [^1]: _Ipomoea batatas_ and _Manihot esculenta_ reached Papua New Guinea sometime between European exploration in the New World and European colonisation of New Guinea, i.e. in the period 1500--1870 ([Yen 1974b](../sources/Yen1974b), [Ballard et al. 2005](../sources/Ballardetal2005)). _Ipomoea batatas_ probably arrived about 300 years ago and _Manihot esculenta_ about 200 years ago ([Bourke forthcoming](../sources/Bourkeforthcoming)). _Xanthosoma sagittifolium_ arrived in Papua New Guinea as recently as the 19th century ([Bourke 1982](../sources/Bourke1982), [Kirch 1994](../sources/Kirch1994): 80).
 
-[^2]: Terms associated with gardening practices are treated in vol.1, ch.6.
+[^2]: Terms associated with gardening practices are treated in [vol.1, ch.6](../contributions/1-6#).
 
 [^3]: [Borrell](../sources/Borrell1989) ([1989](../sources/Borrell1989): 21) notes its cultivation on Kairiru Island (Schoutens).
 

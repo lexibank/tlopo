@@ -8,7 +8,7 @@
 
 For as far back as the four or five thousand years that we can trace them culturally, Austronesian speakers have preferred to live close to the sea.[^1] They have typically been sailors and fishermen. For as long as their settlements were confined to southeast Asia and northwest Melanesia, virtually all their sailing would have been between intervisible or near-intervisible islands. However, in the late second millennium BC, Austronesian speakers living somewhere in the region of the Bismarck Archipelago — speakers of the language now known as Proto Oceanic — began to move out eastwards, to the Solomons and beyond. Over the next few hundred years their descendants explored and settled many of the major island groups of the southwestern and central Pacific. The dates of these early movements are discussed in Chapter 2.
 
-Building on the experience of their Austronesian ancestors in island southeast Asia, and aided by an increasingly sophisticated canoe-building technology (see vol. 1, Ch.7) these ocean navigators accumulated a body of knowledge that enabled them to sail freely beyond sight of land while retaining their orientation of home. [Irwin](../sources/Irwin1992) ([1992](../sources/Irwin1992)) has persuasively argued that even purely exploratory voyages into unknown waters were guided by knowledge of the prevailing wind system, ensuring that any push eastwards against the prevailing wind carried with it a good chance of a safe return.
+Building on the experience of their Austronesian ancestors in island southeast Asia, and aided by an increasingly sophisticated canoe-building technology (see [vol. 1, Ch.7](../contributions/1-7#)) these ocean navigators accumulated a body of knowledge that enabled them to sail freely beyond sight of land while retaining their orientation of home. [Irwin](../sources/Irwin1992) ([1992](../sources/Irwin1992)) has persuasively argued that even purely exploratory voyages into unknown waters were guided by knowledge of the prevailing wind system, ensuring that any push eastwards against the prevailing wind carried with it a good chance of a safe return.
 
 More complex navigation skills had to be brought to bear once new and distant island groups were settled, a development which typically involved some regular trafficking between the old homeland and the new. These skills lay in recognising the regular patterning of naturally occurring phenomena such as star movements, wind systems, currents and swells as they applied to each new sea route, and in developing strategies that could be used in the committing to memory of these features.
 
@@ -1403,7 +1403,7 @@ The planets ‘wander’ in their movements and are of little use as guiding sta
 </tr>
 <tr>
 <td>NNG</td><td><a href="../languages/kove">Kove</a></td><td style="white-space: nowrap;"><i>motala waro aia</i></td>
-<td>'<span>Morning Star</span>' (<span>Chowning; lit. ‘star sun-for’</span>)</td>
+<td>'<span>Morning Star</span>' (<span>lit. ‘star sun-for’; Chowning</span>)</td>
 </tr>
 <tr>
 <td>NNG</td><td><a href="../languages/labu">Labu</a></td><td style="white-space: nowrap;"><i>metana</i></td>
@@ -1629,7 +1629,7 @@ One of the few constellations that I have been able to identify and trace back t
 </tr>
 <tr>
 <td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td style="white-space: nowrap;"><i>manu</i></td>
-<td>'<span>Rigel</span>' (<span>Lewis, 1978:33; part for whole</span>)</td>
+<td>'<span>Rigel</span>' (<span>part for whole; Lewis, 1978:33</span>)</td>
 </tr>
 <tr>
 <td>Pn</td><td><a href="../languages/anutan">Anutan</a></td><td style="white-space: nowrap;"><i>manu</i></td>
@@ -2294,7 +2294,7 @@ There is a possible PEOc reconstruction for Aldebaran, the single brightest star
 </tr>
 <tr>
 <td>Pn</td><td><a href="../languages/kapingamarangi">Kapingamarangi</a></td><td style="white-space: nowrap;"><i>ūnu te</i></td>
-<td>'<span>star name</span>' (<a href="../sources/PukuiandElbert1973">Pukui and Elbert 1973</a>)
+<td>'<span>star name</span>' (<a href="../sources/PukuiElbert1971">Pukui & Elbert 1971</a>)
 </td>
 </tr>
 </table>
@@ -2467,7 +2467,8 @@ Antares, in the western constellation of Scorpio, ranks with the Pleiades as the
 </tr>
 <tr>
 <td>Mic</td><td><a href="../languages/ponapean">Ponapean</a></td><td style="white-space: nowrap;"><i>tumur</i></td>
-<td>'<span>Antares</span>'</td>
+<td>'<span>Antares</span>' (<a href="../sources/Christian1899">Christian 1899: 388</a>)
+</td>
 </tr>
 <tr>
 <td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td style="white-space: nowrap;"><i>tumʷur</i></td>

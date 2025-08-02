@@ -472,7 +472,7 @@ The items reflecting PNCV _&ast;lalaso_ '_Polyscias scutellaria_' (?) below appe
 <td style="white-space: nowrap;">
 <i>&ast;lalaso</i>
 </td>
-<td>'<span><em>Polyscias scutellaria</em></span>' (<span>Clark 1996; gloss from Lynch 2004a; ?</span>)</td>
+<td>'<span><em>Polyscias scutellaria</em></span>' (<span>?; Clark 1996; gloss from Lynch 2004a</span>)</td>
 </tr>
 <tr>
 <td>NCV</td><td><a href="../languages/mota">Mota</a></td><td style="white-space: nowrap;"><i>lalaso</i></td>

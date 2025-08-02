@@ -23,6 +23,8 @@ Available online at http://hdl.handle.net/1885/106908
 ![Glottolog: 88%](https://img.shields.io/badge/Glottolog-88%25-yellowgreen.svg "Glottolog: 88%")
 ![Concepticon: 0%](https://img.shields.io/badge/Concepticon-0%25-red.svg "Concepticon: 0%")
 ![Source: 0%](https://img.shields.io/badge/Source-0%25-red.svg "Source: 0%")
+![BIPA: 59%](https://img.shields.io/badge/BIPA-59%25-red.svg "BIPA: 59%")
+![CLTS SoundClass: 59%](https://img.shields.io/badge/CLTS%20SoundClass-59%25-red.svg "CLTS SoundClass: 59%")
 
 - **Varieties:** 778 (linked to 644 different Glottocodes)
 - **Concepts:** 19,940 (linked to 0 different Concepticon concept sets)
@@ -31,6 +33,10 @@ Available online at http://hdl.handle.net/1885/106908
 - **Synonymy:** 1.05
 - **Cognacy:** 41,057 cognates in 2,830 cognate sets (0 singletons)
 - **Cognate Diversity:** -0.74
+- **Invalid lexemes:** 0
+- **Tokens:** 202,230
+- **Segments:** 297 (122 BIPA errors, 122 CLTS sound class errors, 175 CLTS modified)
+- **Inventory size (avg):** 16.03
 
 ## Possible Improvements:
 

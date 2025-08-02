@@ -334,7 +334,7 @@ Frantisek [Lichtenberk](../sources/Lichtenberk1998) ([1998](../sources/Lichtenbe
 <td style="white-space: nowrap;">
 <i>&ast;buaq</i>
 </td>
-<td>'<span>fruit</span>' (<a href="../sources/Blust1995">ACD</a>)
+<td>'<span>fruit</span>' (<a href="../sources/Blust1995">ACD</a>; <a href="../sources/Dempwolff1938">Dempwolff 1938</a>)
 </td>
 </tr>
 <tr>
@@ -562,7 +562,7 @@ The reconstruction of POc &ast;[pu-]pulu 'betel pepper, _Piper betle_' is taken 
 </tr>
 <tr>
 <td>NNG</td><td><a href="../languages/manam">Manam</a></td><td style="white-space: nowrap;"><i>ulu(salaga)</i></td>
-<td>'<span>big variety of betel vine</span>' (<span>Frantisek Lichtenberk 1998; salaga 'be long'</span>)</td>
+<td>'<span>big variety of betel vine</span>' (<span>salaga 'be long'; Frantisek Lichtenberk 1998</span>)</td>
 </tr>
 <tr>
 <td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td style="white-space: nowrap;"><i>vu-vulu</i></td>
@@ -992,7 +992,7 @@ The term reconstructed as _&ast;qauR_ 'bamboo spp.' below was probably the gener
 </tr>
 </table>
 
-PAn _&ast;qauR_ 'bamboo' is attested in Fom1osan languages, PMP _&ast;qauR_ 'bamboo' in languages across Indonesia (Blust,[ ACD ](../sources/Blust1995)), and a number of Oceanic languages have reflexes indicating POc _&ast;qauR_. However, there are als:o a number of languages that reflect initial _&ast;k-_ rather than _&ast;q-_, and I show below the POc segments seemingly reflected by the consonant(s) of each form in order to illuminate the discussion here. In those Remote Oceanic languages which reflect POc _&ast;k-_ and _&ast;q-_ differently from one another the form indeed reflects initial _&ast;q-_. However, in Meso-Melanesian languages which reflect POc _&ast;k-_ and _&ast;q-_ differently and in Temotu languages the form reflects _&ast;k-_, not _&ast;q-_.
+PAn _&ast;qauR_ 'bamboo' is attested in Fom1osan languages, PMP _&ast;qauR_ 'bamboo' in languages across Indonesia (Blust, [ACD](../sources/Blust1995) ), and a number of Oceanic languages have reflexes indicating POc _&ast;qauR_. However, there are als:o a number of languages that reflect initial _&ast;k-_ rather than _&ast;q-_, and I show below the POc segments seemingly reflected by the consonant(s) of each form in order to illuminate the discussion here. In those Remote Oceanic languages which reflect POc _&ast;k-_ and _&ast;q-_ differently from one another the form indeed reflects initial _&ast;q-_. However, in Meso-Melanesian languages which reflect POc _&ast;k-_ and _&ast;q-_ differently and in Temotu languages the form reflects _&ast;k-_, not _&ast;q-_.
 
 
 <a id="p-400"></a>
@@ -3058,7 +3058,8 @@ Medial parenthesised _&ast;-q-_ is reconstructed in POc _&ast;kaRi(q)a_ on the a
 </tr>
 <tr>
 <td>SES</td><td><a href="../languages/kwaraae">Kwara’ae</a></td><td style="white-space: nowrap;"><i>ka-kali</i></td>
-<td>'<span><em>Hornstedtia lycostoma</em></span>'</td>
+<td>'<span><em>Hornstedtia lycostoma</em></span>' (<a href="../sources/HendersonandHancock1988">Henderson and Hancock 1988</a>)
+</td>
 </tr>
 <tr>
 <td>NCV</td><td><a href="../languages/mota">Mota</a></td><td style="white-space: nowrap;"><i>karia</i></td>
@@ -3566,7 +3567,7 @@ Shown in parentheses below are irregular phonological developments, implying tha
 </tr>
 <tr>
 <td>NNG</td><td><a href="../languages/sengseng">Sengseng</a></td><td style="white-space: nowrap;"><i>katim</i></td>
-<td>'<span>small cultivated cucurbit with dark green skin and sweet orange flesh</span>' (<span>probably borrowed; A. Chowning, pers. comm.</span>)</td>
+<td>'<span>small cultivated cucurbit with dark green skin and sweet orange flesh</span>' (<span>A. Chowning, pers. comm.; probably borrowed</span>)</td>
 </tr>
 <tr>
 <td>NNG</td><td><a href="../languages/gitua">Gitua</a></td><td style="white-space: nowrap;"><i>karimon</i></td>
@@ -3639,7 +3640,7 @@ Shown in parentheses below are irregular phonological developments, implying tha
 
 [^9]: In Blust's orthography &ast;kaundu.
 
-[^10]: This reconstruction is maintained in the[ ACD ](../sources/Blust1995)in the notes to the entry for _&ast;qauR_.
+[^10]: This reconstruction is maintained in the [ACD](../sources/Blust1995) in the notes to the entry for _&ast;qauR_.
 
 [^11]: [Blust](../sources/Blust1970) ([1970](../sources/Blust1970)) reconstructs &ast;maru on the basis of Buru (CMP) maru and Oceanic reflexes, but the second syllables of the two forms do not correspond (as Blust notes).
 

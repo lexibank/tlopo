@@ -3170,7 +3170,7 @@ Two POc terms are reconstructable. The first, _&ast;kaka_ seems to have denoted 
 <td style="white-space: nowrap;">
 <i>&ast;Runut</i>
 </td>
-<td>'<span>plant fibres</span>' (<a href="../sources/Blust1984">Blust 1984</a>)
+<td>'<span>plant fibres</span>' (<a href="../sources/Blust198384a">Blust 1983–84a</a>)
 </td>
 </tr>
 <tr>

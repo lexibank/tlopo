@@ -1817,7 +1817,7 @@ The reconstruction below originates with [French-Wright](../sources/FrenchWright
 
 ## Notes
 
-[^1]: Further south, in the Solomons and especially in Vanuatu, tracts of primary forest are frequently damaged or destroyed by cyclonic storms, providing an environment for secondary regrowth, but the weather closer to the equator is considerably calmer in this regard (see vol.2, ch.5).
+[^1]: Further south, in the Solomons and especially in Vanuatu, tracts of primary forest are frequently damaged or destroyed by cyclonic storms, providing an environment for secondary regrowth, but the weather closer to the equator is considerably calmer in this regard (see [vol.2, ch.5](../contributions/2-5#)).
 
 [^2]: In [Ross](../sources/Ross1988) ([1988](../sources/Ross1988)) the items here glossed 'caulking material' were glossed 'putty nut', but this was an error, as more recently available references to the caulking material indicate that it is the sap of a _Glochidion_ species, not of _Parinari_. Reflexes of _&ast;jimiR_ listed there included Tabar _cim_, Lamasong, Madak, Barok _sim_, all 'canoe'. They are excluded here because of the doubtful semantic connection.
 

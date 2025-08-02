@@ -2476,7 +2476,7 @@ The next POc reconstruction contrasts with _&ast;quma_ ‘garden, cultivated lan
 <td style="white-space: nowrap;">
 <i>&ast;talun</i>
 </td>
-<td>'<span>fallow land</span>' (<a href="../sources/Dempwolff1938">Dempwolff 1938</a>)
+<td>'<span>fallow land</span>' (<a href="../sources/Blust1972b">Blust 1972b</a>; <a href="../sources/Dempwolff1938">Dempwolff 1938</a>)
 </td>
 </tr>
 <tr>
@@ -4812,7 +4812,7 @@ POc _&ast;maqasin_ seems to have been both a stative verb meaning ‘be salty’
 
 <a id="p-71"></a>
 
-PAn _&ast;qasiRa_ ‘salt’ has Oceanic reflexes. Despite the formal resemblance to PAn _&ast;qasiN_ / PMP _&ast;qasin_ ‘salt’, the supporting data in the[ ACD ](../sources/Blust1995)show clearly that these are distinct etyma. Blust (ACD) interprets the SES reflexes as reflexes of _&ast;tasik_ ‘sea’ (see [Ch.4, §2.1](../contributions/2-4#s-2-1)) with an added suffix _-la_, but it seems far more likely that they reflect POc _&ast;qasiRa_ ‘salt’.
+PAn _&ast;qasiRa_ ‘salt’ has Oceanic reflexes. Despite the formal resemblance to PAn _&ast;qasiN_ / PMP _&ast;qasin_ ‘salt’, the supporting data in the [ACD](../sources/Blust1995) show clearly that these are distinct etyma. Blust (ACD) interprets the SES reflexes as reflexes of _&ast;tasik_ ‘sea’ (see [Ch.4, §2.1](../contributions/2-4#s-2-1)) with an added suffix _-la_, but it seems far more likely that they reflect POc _&ast;qasiRa_ ‘salt’.
 
 <table id="2-3-7-8-71-POc-qasira-a">
 <tr>
@@ -5282,7 +5282,8 @@ POc used at least two terms to denote ashes. These had distinct but overlapping 
 <td style="white-space: nowrap;">
 <i>&ast;dapuR</i>
 </td>
-<td>'<span>hearth, fireplace</span>'</td>
+<td>'<span>hearth, fireplace</span>' (<a href="../sources/Dempwolff1938">Dempwolff 1938</a>)
+</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>

@@ -358,7 +358,7 @@ The preposition _&ast;i_, which occurred before local nouns, is widely reflected
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td style="white-space: nowrap;"><i>e</i></td>
-<td> (<span>locative; PREP w PLC</span>)</td>
+<td> (<span>PREP w PLC; locative</span>)</td>
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/kara">Kara</a></td><td style="white-space: nowrap;"><i>i</i></td>
@@ -370,11 +370,11 @@ The preposition _&ast;i_, which occurred before local nouns, is widely reflected
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/tabar">Tabar</a></td><td style="white-space: nowrap;"><i>i</i></td>
-<td> (<span>locative; PREP w PLC, N LOC</span>)</td>
+<td> (<span>PREP w PLC, N LOC; locative</span>)</td>
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/lihir">Lihir</a></td><td style="white-space: nowrap;"><i>i</i></td>
-<td> (<span>locative; PREP w PLC, N LOC</span>)</td>
+<td> (<span>PREP w PLC, N LOC; locative</span>)</td>
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/sursurunga">Sursurunga</a></td><td style="white-space: nowrap;"><i>i</i></td>
@@ -390,7 +390,7 @@ The preposition _&ast;i_, which occurred before local nouns, is widely reflected
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/taiof">Taiof</a></td><td style="white-space: nowrap;"><i>i</i></td>
-<td> (<span>locative; PREP w predicate N LOC</span>)</td>
+<td> (<span>PREP w predicate N LOC; locative</span>)</td>
 </tr>
 <tr>
 <td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td style="white-space: nowrap;"><i>i</i></td>
@@ -398,7 +398,7 @@ The preposition _&ast;i_, which occurred before local nouns, is widely reflected
 </tr>
 <tr>
 <td>SES</td><td><a href="../languages/gela">Gela</a></td><td style="white-space: nowrap;"><i>i</i></td>
-<td> (<span>locative; PREP w N LOC</span>)</td>
+<td> (<span>PREP w N LOC; locative</span>)</td>
 </tr>
 <tr>
 <td>SES</td><td><a href="../languages/lengo">Lengo</a></td><td style="white-space: nowrap;"><i>i</i></td>
@@ -406,11 +406,11 @@ The preposition _&ast;i_, which occurred before local nouns, is widely reflected
 </tr>
 <tr>
 <td>SES</td><td><a href="../languages/longgu">Longgu</a></td><td style="white-space: nowrap;"><i>i</i></td>
-<td> (<span>locative; PREP w N LOC</span>)</td>
+<td> (<span>PREP w N LOC; locative</span>)</td>
 </tr>
 <tr>
 <td>SES</td><td><a href="../languages/lau">Lau</a></td><td style="white-space: nowrap;"><i>i</i></td>
-<td> (<span>locative; PREP w PLC, N LOC</span>)</td>
+<td> (<span>PREP w PLC, N LOC; locative</span>)</td>
 </tr>
 <tr>
 <td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td style="white-space: nowrap;"><i>i</i></td>
@@ -1133,7 +1133,7 @@ The cognate set attesting POc _&ast;Rumaq_ ‘house’ was presented in [vol.1,4
 #### 2.2.5. ‘Down below’
 
 
-POc _&ast;tanoq_ is reconstructed as a common noun meaning ‘earth, soil, ground; land’ in [vol.1,119](../contributions/1-5#p-119) and in this volume, p.41. However, there is well distributed evidence that as a local noun it meant ‘down below’. This is not surprising when one considers that POc speakers must generally have lived in stilt houses (vol. 1, Ch. 3) for whose inhabitants the ground was indeed ‘down below’.
+POc _&ast;tanoq_ is reconstructed as a common noun meaning ‘earth, soil, ground; land’ in [vol.1,119](../contributions/1-5#p-119) and in this volume, p.41. However, there is well distributed evidence that as a local noun it meant ‘down below’. This is not surprising when one considers that POc speakers must generally have lived in stilt houses ([vol. 1, Ch. 3](../contributions/1-3#)) for whose inhabitants the ground was indeed ‘down below’.
 
 <table id="2-8-2-2-241-POc-tanoq-a">
 <tr>
@@ -3423,7 +3423,8 @@ According to [Blust](../sources/Blust1997) ([1997](../sources/Blust1997)), the P
 <td style="white-space: nowrap;">
 <i>&ast;qadəp</i>
 </td>
-<td>'<span>front, face</span>'</td>
+<td>'<span>front, face</span>' (<a href="../sources/Blust1997">Blust 1997</a>)
+</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
@@ -6221,7 +6222,7 @@ Some or all of the forms below probably also reflect POc _&ast;sake_ ‘go upwar
 #### 3.3.3. _&ast;sipo_ and _&ast;sake_ as directions at sea
 
 
-Above I noted François’ (2004a) reconstruction of POc speakers’ use of terms for ‘go downward’ and ‘go upward’ for ‘go northwest’ and ‘go southeast’, i.e. directions corresponding with those of the major winds. François assumes that the relevant POc terms were _&ast;sipo_ and _&ast;sake_, reconstructed in §[§3.3.1](../contributions/2-8#s-3-3-1)–3.3.2. As these were the generic terms for ‘go downward’ and ‘go upward’, his assumption is probably correct, but it is not particularly well supported by the available data, as the sets below show. In fact, all supporting data for both terms in these meanings come from Eastern Oceanic languages. The Yabem and Motu reflexes of _&ast;sipo_ have ‘wrong’ directions in their glosses. This may mean that this use of &ast;sake and _&ast;sipo_ was an Eastern Oceanic innovation, but it may also mean that insufficient Western Oceanic (and Admiralties) systems have been carefully recorded. In a number of Western Oceanic languages, ‘east’ and ‘west’ are translated as ‘place where the sun rises’ and ‘place where the sun sets’, but these phrasal expressions may be modern renderings of English ‘east’ and ‘west’.
+Above I noted [François’](../sources/Francois2004a) ([2004a](../sources/Francois2004a)) reconstruction of POc speakers’ use of terms for ‘go downward’ and ‘go upward’ for ‘go northwest’ and ‘go southeast’, i.e. directions corresponding with those of the major winds. François assumes that the relevant POc terms were _&ast;sipo_ and _&ast;sake_, reconstructed in §[§3.3.1](../contributions/2-8#s-3-3-1)–3.3.2. As these were the generic terms for ‘go downward’ and ‘go upward’, his assumption is probably correct, but it is not particularly well supported by the available data, as the sets below show. In fact, all supporting data for both terms in these meanings come from Eastern Oceanic languages. The Yabem and Motu reflexes of _&ast;sipo_ have ‘wrong’ directions in their glosses. This may mean that this use of &ast;sake and _&ast;sipo_ was an Eastern Oceanic innovation, but it may also mean that insufficient Western Oceanic (and Admiralties) systems have been carefully recorded. In a number of Western Oceanic languages, ‘east’ and ‘west’ are translated as ‘place where the sun rises’ and ‘place where the sun sets’, but these phrasal expressions may be modern renderings of English ‘east’ and ‘west’.
 
 <table id="2-8-3-3-275-POc-sipo-a">
 <tr>
@@ -6996,7 +6997,7 @@ In a number of languages POc _&ast;mai_/_&ast;ma_ is reflected as a preposition 
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/patpatar">Patpatar</a></td><td style="white-space: nowrap;"><i>ma</i></td>
-<td> (<span>ablative; PREP w PLC</span>)</td>
+<td> (<span>PREP w PLC; ablative</span>)</td>
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/label">Label</a></td><td style="white-space: nowrap;"><i>mi-</i></td>
@@ -7008,7 +7009,7 @@ In a number of languages POc _&ast;mai_/_&ast;ma_ is reflected as a preposition 
 </tr>
 <tr>
 <td>SES</td><td><a href="../languages/longgu">Longgu</a></td><td style="white-space: nowrap;"><i>mi</i></td>
-<td> (<span>ablative; R with placename or local noun</span>)</td>
+<td> (<span>R with placename or local noun; ablative</span>)</td>
 </tr>
 <tr>
 <td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td style="white-space: nowrap;"><i>mai</i></td>
@@ -7168,11 +7169,11 @@ In a number of languages POc _&ast;ua_ is reflected as a preposition or a relato
 </tr>
 <tr>
 <td>PT</td><td><a href="../languages/tawala">Tawala</a></td><td style="white-space: nowrap;"><i>u</i></td>
-<td> (<span>locative, allative; PREP w N LOC</span>)</td>
+<td> (<span>PREP w N LOC; locative, allative</span>)</td>
 </tr>
 <tr>
 <td>PT</td><td><a href="../languages/kilivila">Kilivila</a></td><td style="white-space: nowrap;"><i>o</i></td>
-<td> (<span>locative ‘in, into’; PREP w N LOC</span>)</td>
+<td> (<span>PREP w N LOC; locative ‘in, into’</span>)</td>
 </tr>
 <tr>
 <td>PT</td><td><a href="../languages/muyuw">Muyuw</a></td><td style="white-space: nowrap;"><i>u, wa</i></td>
@@ -7180,11 +7181,11 @@ In a number of languages POc _&ast;ua_ is reflected as a preposition or a relato
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/bulu">Bulu</a></td><td style="white-space: nowrap;"><i>o</i></td>
-<td> (<span>locative; PREP w PLC</span>)</td>
+<td> (<span>PREP w PLC; locative</span>)</td>
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td style="white-space: nowrap;"><i>o-</i></td>
-<td> (<span>locative; VF formative</span>)</td>
+<td> (<span>VF formative; locative</span>)</td>
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/meramera">Meramera</a></td><td style="white-space: nowrap;"><i>u-</i></td>
@@ -7220,7 +7221,7 @@ In a number of languages POc _&ast;ua_ is reflected as a preposition or a relato
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/patpatar">Patpatar</a></td><td style="white-space: nowrap;"><i>u</i></td>
-<td> (<span>allative; PREP w PLC</span>)</td>
+<td> (<span>PREP w PLC; allative</span>)</td>
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/label">Label</a></td><td style="white-space: nowrap;"><i>u-</i></td>
@@ -7232,7 +7233,7 @@ In a number of languages POc _&ast;ua_ is reflected as a preposition or a relato
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/kandas">Kandas</a></td><td style="white-space: nowrap;"><i>u</i></td>
-<td> (<span>locative, allative; PREP w N LOC</span>)</td>
+<td> (<span>PREP w N LOC; locative, allative</span>)</td>
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td style="white-space: nowrap;"><i>u-</i></td>
@@ -7293,15 +7294,15 @@ Other reflexes of &ast;ua apparently occur as demonstratives in a number of lang
 </tr>
 <tr>
 <td>NNG</td><td><a href="../languages/bariai">Bariai</a></td><td style="white-space: nowrap;"><i>oa</i></td>
-<td> (<span>away from speaker, anaphoric; ADN</span>)</td>
+<td> (<span>ADN; away from speaker, anaphoric</span>)</td>
 </tr>
 <tr>
 <td>NNG</td><td><a href="../languages/manam">Manam</a></td><td style="white-space: nowrap;"><i>(ena)wa</i></td>
-<td> (<span>3; ADN</span>)</td>
+<td> (<span>ADN; 3</span>)</td>
 </tr>
 <tr>
 <td>PT</td><td><a href="../languages/sariba">Sariba</a></td><td style="white-space: nowrap;"><i>-wa</i></td>
-<td> (<span>anaphoric; ADN ENCL</span>)</td>
+<td> (<span>ADN ENCL; anaphoric</span>)</td>
 </tr>
 <tr>
 <td>PT</td><td><a href="../languages/kilivila">Kilivila</a></td><td style="white-space: nowrap;"><i>-we</i></td>
@@ -7313,23 +7314,23 @@ Other reflexes of &ast;ua apparently occur as demonstratives in a number of lang
 </tr>
 <tr>
 <td>Mic</td><td><a href="../languages/kosraean">Kosraean</a></td><td style="white-space: nowrap;"><i>æ</i></td>
-<td> (<span>anaphoric; ADN, POST</span>)</td>
+<td> (<span>ADN, POST; anaphoric</span>)</td>
 </tr>
 <tr>
 <td>Mic</td><td><a href="../languages/mokilese">Mokilese</a></td><td style="white-space: nowrap;"><i>-wa</i></td>
-<td> (<span>anaphoric SG; ADN ENCL</span>)</td>
+<td> (<span>ADN ENCL; anaphoric SG</span>)</td>
 </tr>
 <tr>
 <td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td style="white-space: nowrap;"><i>(ye)we</i></td>
-<td> (<span>anaphoric; ADN, POST</span>)</td>
+<td> (<span>ADN, POST; anaphoric</span>)</td>
 </tr>
 <tr>
 <td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td style="white-space: nowrap;"><i>we</i></td>
-<td> (<span>anaphoric SG; ADN, POST</span>)</td>
+<td> (<span>ADN, POST; anaphoric SG</span>)</td>
 </tr>
 <tr>
 <td>Mic</td><td><a href="../languages/ulithian">Ulithian</a></td><td style="white-space: nowrap;"><i>-wē</i></td>
-<td> (<span>anaphoric SG; ADN ENCL</span>)</td>
+<td> (<span>ADN ENCL; anaphoric SG</span>)</td>
 </tr>
 </table>
 
@@ -8146,7 +8147,7 @@ In addition to the sources of lexical items listed in Appendix 1, a number of gr
 
 [^14]: Blust also gives ‘plank’ as a gloss. See text.
 
-[^15]: The PMP etymon is discussed at length by [Blust](../sources/Blust1980a) ([1980a](../sources/Blust1980a)) and in the[ ACD.](../sources/Blust1995)
+[^15]: The PMP etymon is discussed at length by [Blust](../sources/Blust1980a) ([1980a](../sources/Blust1980a)) and in the [ACD](../sources/Blust1995).
 
 [^16]: This putative item resembles POc _&ast;ruku-_ ‘underneath’, but this is probably fortuitous.
 
