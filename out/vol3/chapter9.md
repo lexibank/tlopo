@@ -1,5 +1,6 @@
-[Malcolm Ross](.smallcaps)
+[Malcolm Ross]{.smallcaps}
 
+<!--start-->
 
 <a id="s-1"></a>
 
@@ -99,7 +100,7 @@ It is not nutrition that drives the desire to produce the largest and the most y
 
 The most widely reflected term for _Dioscorea alata_ is POc _&ast;qupi_, which is also widely reflected in a second sense as the generic term for yams.
 
-<table id="3-9-2-1-260-POc-qupi-a">
+<table class="cognateset" id="3-9-2-1-260-POc-qupi-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -274,7 +275,7 @@ The most widely reflected term for _Dioscorea alata_ is POc _&ast;qupi_, which i
 
 Three other terms can be reconstructed from cognate sets some of whose members are glossed 'large yam', 'greater yam' or '_Dioscorea alata_'. This is weak evidence for inferring that the reconstructed terms denoted a _Dioscorea alata_ cultivar. The terms are POc _&ast;mʷaruqe_, POc _&ast;udu(r,R)_ and POc _&ast;pʷasepe_.
 
-<table id="3-9-2-1-261-POc-maruqe-a">
+<table class="cognateset" id="3-9-2-1-261-POc-maruqe-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -338,7 +339,7 @@ Three other terms can be reconstructed from cognate sets some of whose members a
 
 <a id="p-262"></a>
 
-<table id="3-9-2-1-262-POc-udurr-a">
+<table class="cognateset" id="3-9-2-1-262-POc-udurr-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -368,7 +369,7 @@ Three other terms can be reconstructed from cognate sets some of whose members a
 
 POc _&ast;pʷasepe_ '_Dioscorea alata_ variety(?)' is of interest, because it also seems to be the source of the PT forms listed below the cognate set. However, the sound correspondences attested by the PT forms are not those of PT languages but the distinctive reflexes (_&ast;pʷ_ > _kʷ_; _&ast;s_ > _t_) of North Malaitan languages of the SES group. Dictionaries are available for two North Malaitan languages, Lau ([Fox 1974](../sources/Fox1974)) and Kwaio ([Keesing 1975](../sources/Keesing1975)), but neither includes this item. I assume it is nonetheless a borrowing from a North Malaitan language, but I do not know the source of the borrowing.
 
-<table id="3-9-2-1-262-POc-pasepe-a">
+<table class="cognateset" id="3-9-2-1-262-POc-pasepe-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -443,7 +444,7 @@ The terms 'potato yam' and 'aerial yam' reflect the fact that _Dioscorea bulbife
 
 POc _&ast;pʷatika_ evidently referred to the potato yam, _Dioscorea bulbifera_, because its reflexes denote this species in widely separated languages: Patpatar (MM), Kwara'ae (SES) and Sye and Ura (SV) (the Chuukese form appears to be borrowed). The languages in which it is glossed 'lesser yam' (_Dioscorea esculenta_) are contiguous and appear to represent a semantic innovation local to central New Ireland.
 
-<table id="3-9-2-1-262-POc-patika-a">
+<table class="cognateset" id="3-9-2-1-262-POc-patika-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -529,7 +530,7 @@ The reasons why a POc etymon for this widespread species is apparently not recon
 
 The possibility of reconstructing PWOc _&ast;ka-misa_/_&ast;ma-misa_ 'lesser yam, _Dioscorea esculenta_' perhaps means that the lesser yam was domesticated in NW Island Melanesia after the break-up of POc but before PWOc had dispersed far. Against this inference, however, is the fact that we would also expect to find reflexes of such a significant item in languages of the Papuan Tip linkage, the third member linkage of Western Oceanic, yet none have been found.[^8] The S Efate and Wayan Fijian forms are both very doubtful cognates.
 
-<table id="3-9-2-1-263-PWOc-kamisa-a">
+<table class="cognateset" id="3-9-2-1-263-PWOc-kamisa-a">
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -582,7 +583,7 @@ cf. also:
 
 <a id="p-264"></a>
 
-<table id="3-9-2-1-264-PWOc-mamisa-a">
+<table class="cognateset" id="3-9-2-1-264-PWOc-mamisa-a">
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -624,7 +625,7 @@ cf. also:
 
 Further terms for yam can be reconstructed, but it is unclear which species they denoted.
 
-<table id="3-9-2-1-264-PWOc-gobu-a">
+<table class="cognateset" id="3-9-2-1-264-PWOc-gobu-a">
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -653,7 +654,7 @@ Further terms for yam can be reconstructed, but it is unclear which species they
 
 
 
-<table id="3-9-2-1-264-PROc-damu-a">
+<table class="cognateset" id="3-9-2-1-264-PROc-damu-a">
 <tr>
 <td><strong>PROc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -762,7 +763,7 @@ cf. also:
 
 <a id="p-265"></a>
 
-<table id="3-9-2-1-265-PWOc-kapul-a">
+<table class="cognateset" id="3-9-2-1-265-PWOc-kapul-a">
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -837,7 +838,7 @@ The distribution of the two cognate sets is also interesting. Whilst POc _&ast;m
 
 A search for languages in which reflexes of _&ast;talo(s)_ and _&ast;mʷapo(q)_ are in contrast has turned up very little, but this may be an artefact of inadequate data. Only Arosi reflects both terms, each as the first element of names of taro varieties (see below).[^11] The Arosi generic term for taro is _bʷa_, reflecting neither POc term.
 
-<table id="3-9-2-2-266-POc-talos-a">
+<table class="cognateset" id="3-9-2-2-266-POc-talos-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -932,7 +933,7 @@ A search for languages in which reflexes of _&ast;talo(s)_ and _&ast;mʷapo(q)_ 
 
 <a id="p-267"></a>
 
-<table id="3-9-2-2-267-POc-mapoq-a">
+<table class="cognateset" id="3-9-2-2-267-POc-mapoq-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1067,7 +1068,7 @@ A search for languages in which reflexes of _&ast;talo(s)_ and _&ast;mʷapo(q)_ 
 
 
 
-<table id="3-9-2-2-268-PSOc-beta-a">
+<table class="cognateset" id="3-9-2-2-268-PSOc-beta-a">
 <tr>
 <td><strong>PSOc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1138,7 +1139,7 @@ A search for languages in which reflexes of _&ast;talo(s)_ and _&ast;mʷapo(q)_ 
 
 The leaves of _Colocasia esculenta_ are eaten as a green vegetable in many parts of Oceania, and many languages have a separate word for them ([ch.4, §2.5](../contributions/3-4#s-2-5)). A possible POc term for taro leaves, POc _&ast;gal(a,o)_ is weakly supported, along with a possible PWOc candidate, _&ast;[qa]pʷasu_ - 'possible' because only its NNG and PT reflexes denote leaves; its MM reflexes denote _Colocasia esculenta_ itself.
 
-<table id="3-9-2-2-268-POc-galao-a">
+<table class="cognateset" id="3-9-2-2-268-POc-galao-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1170,7 +1171,7 @@ The leaves of _Colocasia esculenta_ are eaten as a green vegetable in many parts
 
 <a id="p-269"></a>
 
-<table id="3-9-2-2-269-PWOc-qapasu-a">
+<table class="cognateset" id="3-9-2-2-269-PWOc-qapasu-a">
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1513,7 +1514,7 @@ The giant taro, _Alocasia macrorrhizos_, growing to 3-4 m, is not strictly a roo
 
 The POc name for giant taro was _&ast;piRaq_, continuing a PMP etymon. The final _&ast;-q_ is attested in Gumawana, Bwaidoga, Big Nambas and Tape and indirectly in the retention of the final vowel in SV languages ([Lynch 2001c](../sources/Lynch2001c): 121).
 
-<table id="3-9-2-2-272-POc-piraq-a">
+<table class="cognateset" id="3-9-2-2-272-POc-piraq-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1681,7 +1682,7 @@ The POc name for giant taro was _&ast;piRaq_, continuing a PMP etymon. The final
 
 The glosses suggest that the denotatum of POc _&ast;(p,b)oso_ below belonged to the Araceae family, but it is impossible to infer its identity from the available data.
 
-<table id="3-9-2-2-273-POc-pboso-a">
+<table class="cognateset" id="3-9-2-2-273-POc-pboso-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1757,7 +1758,7 @@ Interestingly, almost all the names I have collected for it reflect a reassignme
 
 The elements in the PPn binomial below are PPn _&ast;ma_ 'fermented breadfruit' (POLLEX) and _&ast;soaʔa_ 'banana' ([§3](../contributions/3-9#s-3)).
 
-<table id="3-9-2-3-274-PPn-masoaa-a">
+<table class="cognateset" id="3-9-2-3-274-PPn-masoaa-a">
 <tr>
 <td><strong>PPn</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1815,7 +1816,7 @@ No POc term for _Pueraria lobata_ is reconstructable, and the cognate set below 
 
 The gloss of the Raga reflex refers to famine food, and probably denotes _Pueraria lobata_.
 
-<table id="3-9-2-3-274-PROc-raka-a">
+<table class="cognateset" id="3-9-2-3-274-PROc-raka-a">
 <tr>
 <td><strong>PROc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1926,7 +1927,7 @@ J. [Kennedy](../sources/Kennedy2008) ([2008](../sources/Kennedy2008)) points out
 
 The likelihood that banana domestication first occurred in New Guinea, and that edible bananas spread from there into Asia and Africa, means that any bananas brought to New Guinea and the Bismarcks by Austronesian speakers probably came from this region in the first place. That bananas have long been a part of their diet is confirmed by the very well attested PMP term _&ast;punti_ and its POc continuation _&ast;pudi_. The fact that its reflexes are so widespread makes it certain that this was the generic term for bananas. Today's Oceanic speakers usually have numerous terms for the different banana cultivars in their gardens, but the fact that few people use Simmonds and Shepherd's nomenclature in glosses (and that old terms persist) makes it difficult or impossible to provide scientific names for these. Because of this difficulty, old species terms are retained in glosses.
 
-<table id="3-9-3-None-277-POc-pudi-a">
+<table class="cognateset" id="3-9-3-None-277-POc-pudi-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2106,7 +2107,7 @@ The likelihood that banana domestication first occurred in New Guinea, and that 
 
 The term _Musa troglodytarum_ is used (inaccurately) both of wild varieties of _Musa balbisiana_ and of _Fe'i_ bananas. In the Uripiv and Samoan glosses below it is likely that it denotes the latter, in agreement with the Bauan gloss. POc _&ast;joRaga_ is glossed accordingly, but with a question mark, because this was the meaning of the PROc reflex but not necessarily of the POc term. _Fe'i_ bananas are uncommon in New Guinea today, and it is not clear whether they were present in the Bismarcks in Proto Oceanic times.
 
-<table id="3-9-3-None-278-POc-joraga-a">
+<table class="cognateset" id="3-9-3-None-278-POc-joraga-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2161,7 +2162,7 @@ The term _Musa troglodytarum_ is used (inaccurately) both of wild varieties of _
 
 The glosses of the four terms below are vague, both because the glosses of present-day forms are often vague and for the reasons given above, but they appear to have denoted banana cultivars. POc _&ast;sakup_ perhaps denoted a cultivar with long fruit, as the glosses of its Gumawana, Motu and Kwara'ae reflexes suggest. In view of its upright bunches Kwara'ae _sa-sao_ appears to denote a _Fe'i_ cultivar (J. Kennedy, pers. comm.), but this is neither confirmed nor disconfirmed by the glosses of its cognates. It is probable that POc _&ast;bʷera_ was a descriptive term meaning 'white', since Puluwat _pʷer_ retains this meaning. The POc form is probably a reflex of PMP _&ast;burak_ 'white'. If so, one may infer that it referred to bananas of the _Musa_ group, since _Fe'i_ bananas are typically copper-coloured.
 
-<table id="3-9-3-None-278-POc-sakup-a">
+<table class="cognateset" id="3-9-3-None-278-POc-sakup-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2224,7 +2225,7 @@ The glosses of the four terms below are vague, both because the glosses of prese
 
 <a id="p-279"></a>
 
-<table id="3-9-3-None-279-POc-bera-a">
+<table class="cognateset" id="3-9-3-None-279-POc-bera-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2252,7 +2253,7 @@ The glosses of the four terms below are vague, both because the glosses of prese
 
 
 
-<table id="3-9-3-None-279-POc-baqun-a">
+<table class="cognateset" id="3-9-3-None-279-POc-baqun-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2315,7 +2316,7 @@ cf. also:
 </table>
 
 
-<table id="3-9-3-None-279-PWOc-batiq-a">
+<table class="cognateset" id="3-9-3-None-279-PWOc-batiq-a">
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2439,7 +2440,7 @@ POc (?) _&ast;beta_ has a more restricted distribution: its reflexes occur in th
 
 A fourth term, PROc _&ast;maRi_ 'breadfruit', is limited to South Vanuatu, Micronesian and Polynesian, but [Geraghty](../sources/Geraghty2004) ([2004](../sources/Geraghty2004): 88) attributes Polynesian reflexes of the form _mei_ (presumably for †_mai_ or †_mal_) to borrowing, presumably from a Micronesian source. Again the distribution requires an explanation, this time because it is bipartite, but I can provide none.
 
-<table id="3-9-4-None-283-POc-kulur-a">
+<table class="cognateset" id="3-9-4-None-283-POc-kulur-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2562,7 +2563,7 @@ A fourth term, PROc _&ast;maRi_ 'breadfruit', is limited to South Vanuatu, Micro
 
 <a id="p-284"></a>
 
-<table id="3-9-4-None-284-PNGOc-kunur-a">
+<table class="cognateset" id="3-9-4-None-284-PNGOc-kunur-a">
 <tr>
 <td><strong>PNGOc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2658,7 +2659,7 @@ A fourth term, PROc _&ast;maRi_ 'breadfruit', is limited to South Vanuatu, Micro
 
 
 
-<table id="3-9-4-None-284-POc-bareko-a">
+<table class="cognateset" id="3-9-4-None-284-POc-bareko-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2835,7 +2836,7 @@ A fourth term, PROc _&ast;maRi_ 'breadfruit', is limited to South Vanuatu, Micro
 
 <a id="p-285"></a>
 
-<table id="3-9-4-None-285-POc-beta-a">
+<table class="cognateset" id="3-9-4-None-285-POc-beta-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2888,7 +2889,7 @@ A fourth term, PROc _&ast;maRi_ 'breadfruit', is limited to South Vanuatu, Micro
 
 
 
-<table id="3-9-4-None-285-PROc-mari-a">
+<table class="cognateset" id="3-9-4-None-285-PROc-mari-a">
 <tr>
 <td><strong>PROc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -3024,7 +3025,7 @@ At least on Malaita and in the Temotu archipelago chunks of unprocessed pith are
 
 There was apparently just one POc term for the sago palm, namely POc _&ast;Rabia_. As the Fijian and Polynesian reflexes below show, early Central Pacific speakers reassigned PCP _&ast;abia_, reflecting POc _&ast;Rabia_, to another starch source, _Tacca leontopetaloides_, Polynesian arrowroot ([§2.3.2](../contributions/3-9#s-2-3-2)). [Kikusawa](../sources/Kikusawa2003) ([2003](../sources/Kikusawa2003): 49) argues - correctly, I think - that PPn _&ast;pia_ 'Polynesian arrowroot' is cognate with Bauan _yabia_ 'arrowroot', and reflects loss of initial _&ast;a-_ from PCP _&ast;abia_.[^30]
 
-<table id="3-9-5-1-288-POc-rabia-a">
+<table class="cognateset" id="3-9-5-1-288-POc-rabia-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -3188,7 +3189,7 @@ Barrau's assertion that _Cycas rumphii_ played an important role in earlier Ocea
 
 The glosses of many of the terms listed below  refer simply to 'cycad' or '_Cycas_'. None is identified as '_Cycas scratchleyana_', and there is reasonable support for glossing all of them '_Cycas rumphii_', but this is likely to be due to the fact that the two species were not distinguished until recently.
 
-<table id="3-9-5-2-290-POc-ppatoru-a">
+<table class="cognateset" id="3-9-5-2-290-POc-ppatoru-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -3231,7 +3232,7 @@ The glosses of many of the terms listed below  refer simply to 'cycad' or '_Cyca
 
 <a id="p-291"></a>
 
-<table id="3-9-5-2-291-POc-baibait-a">
+<table class="cognateset" id="3-9-5-2-291-POc-baibait-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -3300,7 +3301,7 @@ The glosses of many of the terms listed below  refer simply to 'cycad' or '_Cyca
 
 
 
-<table id="3-9-5-2-291-PCP-looloo-a">
+<table class="cognateset" id="3-9-5-2-291-PCP-looloo-a">
 <tr>
 <td><strong>PCP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -3339,7 +3340,7 @@ The glosses of many of the terms listed below  refer simply to 'cycad' or '_Cyca
 
 Most of the forms below point to PEOc _&ast;mʷele_. However, Namakir and Wayan point to _&ast;mʷali_, Santa Ana and Paamese to _&ast;mʷa(q)ele_, and Naman and Neve'ei also reflect a vowel sequence. Since the vowel sequence _&ast;ae_ is not known to have occurred in POc, I posit a medial _&ast;-q-_ and reconstruct PEOc _&ast;mʷa(q)ele_.
 
-<table id="3-9-5-2-291-PEOc-maqele-a">
+<table class="cognateset" id="3-9-5-2-291-PEOc-maqele-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
 <td style="white-space: nowrap;">

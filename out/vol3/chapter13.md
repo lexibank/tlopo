@@ -1,5 +1,6 @@
-[Malcolm Ross](.smallcaps)
+[Malcolm Ross]{.smallcaps}
 
+<!--start-->
 
 <a id="s-1"></a>
 
@@ -31,7 +32,7 @@ Sugarcane is a domesticate, only planted from cuttings, and numerous varieties a
 
 The POc term &ast;topu 'sugarcane, _Saccharum officinarum_' continues PAn &ast;tebuS and is continued throughout Oceanic except in Polynesian, where reflexes attest to PPn &ast;to 'sugarcane' rather than expected †&ast;tofu .
 
-<table id="3-13-2-1-390-POc-topu-a">
+<table class="cognateset" id="3-13-2-1-390-POc-topu-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -328,7 +329,7 @@ He makes the following observations:
 
 Frantisek [Lichtenberk](../sources/Lichtenberk1998) ([1998](../sources/Lichtenberk1998)) examines the question of whether POc speakers chewed betelnut, concluding that they did, since a suite of terms associated with betel chewing can be reconstructed. Certainly there are no grounds in the set below for thinking that POc &ast;buaq was diffused across Oceanic languages rather than continued from POc. The easternmost limit of betelnut-chewing is in the Temotu Province of the Solomons, but &ast;buaq is reflected in Southern Vanuatu, where it is applied to palms of other kinds (John Lynch, pers. comm.).
 
-<table id="3-13-2-2-393-POc-buaq-a">
+<table class="cognateset" id="3-13-2-2-393-POc-buaq-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -517,7 +518,7 @@ The betel pepper vine, _Piper betle_, is a woody climber with catkins, pendulous
 
 The reconstruction of POc &ast;[pu-]pulu 'betel pepper, _Piper betle_' is taken from [Lichtenberk's](../sources/Lichtenberk1998) ([1998](../sources/Lichtenberk1998)) discussion of whether POc speakers chewed betelnut. His reconstruction of POc &ast;pulu is based partly on data assembled for the present project, with the addition of Chamorro pu-pulu '_Piper betle_', supporting the: PMP reconstruction, and a Manam reflex. I add Mussau _ulo_.
 
-<table id="3-13-2-2-394-POc-pupulu-a">
+<table class="cognateset" id="3-13-2-2-394-POc-pupulu-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -576,7 +577,7 @@ The reconstruction of POc &ast;[pu-]pulu 'betel pepper, _Piper betle_' is taken 
 
 <a id="p-395"></a>
 
-<table id="3-13-2-2-395-ProtoMesoMelanesian-siqarra-a">
+<table class="cognateset" id="3-13-2-2-395-ProtoMesoMelanesian-siqarra-a">
 <tr>
 <td><strong>Proto Meso-Melanesian</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -657,7 +658,7 @@ Kava is also consumed in scattered areas of New Guinea and the Bismarcks. In fac
 
 The best supported hypothesis appears to be that _Piper methysticum_ is a domesticated variety of _Piper subbullatum_ (syn. _Piper wichmannii_),[^2] a plant of similar appearance which grows wild in the Solomons ([Kwa'ioloa & Burt 2001](../sources/KwaioloaandBurt2001): 206), and that this domestication took place in northern Vanuatu. The linguistic evidence for this position is presented by [Lynch](../sources/Lynch2002f) ([2002f](../sources/Lynch2002f)). He reconstructs a POc term &ast;kawaRi, which he glosses as 'root with special properties: one or more of _Zingiber zerumbet_, _Piper subbullatum_, fish-poison plants', i.e. as a generic term for what in the title of his article he calls 'potent roots'. He points out that none of the apparently directly inherited reflexes of &ast;kawaRi outside Vanuatu, Fiji and Polynesia means 'kava' or '_Piper methysticum_'. Only reflexes with a form that suggests borrowing have this meaning. The evidence suggests that POc &ast;kawaRi is reconstructable, but only with the 'potent roots' meaning. Only in northern Vanuatu and regions settled from it (the rest of Vanuatu, Fiji and Polynesia) do we find directly inherited reflexes denoting 'kava' or' _Piper methysticum_'. The reconstructions and directly inherited reflexes below are from ([Lynch 2002f](../sources/Lynch2002f)), except where shown.[^3]
 
-<table id="3-13-2-2-396-POc-kawari-a">
+<table class="cognateset" id="3-13-2-2-396-POc-kawari-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -813,7 +814,7 @@ The best supported hypothesis appears to be that _Piper methysticum_ is a domest
 
 The denotations of PCP &ast;kawa as 'Piper sp.', '_Zingiber_ spp.' and 'fish-poison plant' are continued as compounds in PPn:
 
-<table id="3-13-2-2-397-PNPn-kawakawaqatua-a">
+<table class="cognateset" id="3-13-2-2-397-PNPn-kawakawaqatua-a">
 <tr>
 <td><strong>PNPn</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -837,7 +838,7 @@ The denotations of PCP &ast;kawa as 'Piper sp.', '_Zingiber_ spp.' and 'fish-poi
 
 
 
-<table id="3-13-2-2-397-PPn-kawasasa-a">
+<table class="cognateset" id="3-13-2-2-397-PPn-kawasasa-a">
 <tr>
 <td><strong>PPn</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -861,7 +862,7 @@ The denotations of PCP &ast;kawa as 'Piper sp.', '_Zingiber_ spp.' and 'fish-poi
 
 
 
-<table id="3-13-2-2-397-PPn-kawasusu-a">
+<table class="cognateset" id="3-13-2-2-397-PPn-kawasusu-a">
 <tr>
 <td><strong>PPn</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -892,7 +893,7 @@ The denotations of PCP &ast;kawa as 'Piper sp.', '_Zingiber_ spp.' and 'fish-poi
 
 <a id="p-398"></a>
 
-<table id="3-13-2-2-398-PNPn-kawapui-a">
+<table class="cognateset" id="3-13-2-2-398-PNPn-kawapui-a">
 <tr>
 <td><strong>PNPn</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1003,7 +1004,7 @@ Among languages which retain a reflex of the final consonant, Mussau and Petats 
 
 [Blust](../sources/Blust1984) ([1984](../sources/Blust1984)) reconstructed POc _&ast;kaudru_[^9] 'bamboo sp.' to account for the Mussau, Petats and Selau forms.[^10] However, it does not account for the other irregularities below, and its putative reflexes are here treated as (albeit irregular) reflexes of POc _&ast;qauR_. Instead, the simplest linguistic explanation of these irregularities is that the forms reflect borrowings among neighbouring Oceanic languages. Indeed, it is possible that some of the forms with regular reflexes also result from borrowings, but happen to have regular reflexes of the consonants. However, it is not easy to see why such borrowings might have occurred, unless much of Near Oceania lacked useful bamboo species, and new species were imported by Oceanic speakers. [Hviding](../sources/Hviding2005) ([2005](../sources/Hviding2005): 107, 112, 117) hints at this when he writes that old people say that _Bambusa vulgaris_, _B. blumeana_, _Nastus obtusus_ and a _Schizostachyum_ species were all long ago introduced to Marovo from elsewhere. It is just possible that some of these borrowings were associated with the introduction of _Bambusa vulgaris_ after contact with Europeans.
 
-<table id="3-13-3-1-400-POc-qaur-a">
+<table class="cognateset" id="3-13-3-1-400-POc-qaur-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1204,7 +1205,7 @@ Among languages which retain a reflex of the final consonant, Mussau and Petats 
 
 Reflexes of POc _&ast;bʷau_ 'bamboo' are largely complementary to those of _&ast;qauR_ above, with overlaps on the mainland coast of the Vitiaz Strait and in New Caledonia. The Manam and Kaiep reflexes provide a weak indication that &ast;bʷau may have denoted bamboo as a construction material.
 
-<table id="3-13-3-1-401-POc-bau-a">
+<table class="cognateset" id="3-13-3-1-401-POc-bau-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1295,7 +1296,7 @@ Five more reconstructions are listed below: POc _&ast;bitu(ŋ)_ 'bamboo sp., pro
 
 The two reconstructions below are better supported by non-Oceanic than by Oceanic reflexes. Since _Bambusa_ vulgaris is a recent import, the Fijian and Polynesian glosses indicate that PCP &ast;hitu probably denoted _Schizostachyum_ glaucifolium. This may also be true of the POc reflex, but this is uncertain.
 
-<table id="3-13-3-1-402-POc-bitu-a">
+<table class="cognateset" id="3-13-3-1-402-POc-bitu-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1336,7 +1337,7 @@ The two reconstructions below are better supported by non-Oceanic than by Oceani
 
 
 
-<table id="3-13-3-1-402-POc-botu-a">
+<table class="cognateset" id="3-13-3-1-402-POc-botu-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1360,7 +1361,7 @@ The two reconstructions below are better supported by non-Oceanic than by Oceani
 
 
 
-<table id="3-13-3-1-402-POc-kopu-a">
+<table class="cognateset" id="3-13-3-1-402-POc-kopu-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1393,7 +1394,7 @@ The two reconstructions below are better supported by non-Oceanic than by Oceani
 
 The only non-WOe evidence for POc _&ast;bʷele_ 'bamboo' is from Lonwolwol (NCV), where _bʷele-bo_ consists of _bʷele-_ 'hollow vessel' and _bo_, apparently reflecting PNCV _&ast;bue_ 'made of bamboo' (see below). A possible inference is that _&ast;bʷele_ denoted bamboo as a household utensil, e.g. a container for water.
 
-<table id="3-13-3-1-403-POc-bele-a">
+<table class="cognateset" id="3-13-3-1-403-POc-bele-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1432,7 +1433,7 @@ The only non-WOe evidence for POc _&ast;bʷele_ 'bamboo' is from Lonwolwol (NCV)
 
 Hus (Adm) _ʙu_ 'bamboo' corresponds regularly with the NCV items below, implying that it and PNCV _&ast;bue_ both reflect a POc _&ast;bue_ '(made of) bamboo'.
 
-<table id="3-13-3-1-403-POc-bue-a">
+<table class="cognateset" id="3-13-3-1-403-POc-bue-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1524,7 +1525,7 @@ The candlenut owes its name to the fact that in earlier times the nuts were thre
 
 POc _&ast;tuRi-tuRi_ '_Aleurites moluccana_' is reconstructed below. It is quite widely supported, but it is by no means certain that its denotatum was _Aleurites moluccana_. Blust (ACD) reconstructs PEMP _&ast;tuRi-tuRi_ '_Aleurites moluccana_' on the basis of Biak kuker 'tree with edible nut' and Central Pacific reflexes. However, [Geraghty](../sources/Geraghty2004) ([2004](../sources/Geraghty2004): 72) believes that PPn _&ast;tuitui_ '_Aleurites moluccana_' was identical with _&ast;tuitui_ 'strung together', reflecting the fact that candlenuts are strung together for use as torches or sources of dye. He does not discuss Blust's reconstruction, but if Geraghty is right, the Biak, Motu and Roro terms must be dismissed as chance resemblances (none has the specific gloss _Aleurites moluccana_).
 
-<table id="3-13-3-2-404-POc-turituri-a">
+<table class="cognateset" id="3-13-3-2-404-POc-turituri-a">
 <tr>
 <td><strong>PEMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1620,7 +1621,7 @@ Figure 13.5: _Broussonetia papyrifera_, paper mulberry
 
 POc _&ast;malo_ probably denoted _Broussonetia papyrifera_, the tree which throughout much of the Pacific provides the bast from which barkcloth is made. If this is so, then _Broussonetia papyrifera_ must have been introduced into the Pacific islands by early Oceanic speakers. [Matthews](../sources/Matthews1996) ([1996](../sources/Matthews1996)), however, notes its absence from the Philippines and Borneo, and thinks it possible that it did not arrive in Polynesia with the earliest colonisers. POc _&ast;malo_ also denoted the cloth and the male genital covering made from it, and it is just possible that these were its primary meanings. It is also possible that some of the reflexes below reflect early Pacific Pidgin malo or maro 'loincloth'. PMP _&ast;mal(u,aw)_ apparently denoted a species of tree which provided bast for clothmaking, but it is unclear which species this was, as it is reconstructed on the basis of POc _&ast;malo_ and Kaili (WMP, Sulawesi: Parigi dialect) _malo_ 'old term for _Trema amboinensis_, the tree whose bast is most commonly used for barkcloth in Sulawesi' ([Adriani & Kruijt 1901](../sources/AdrianiandKruijt1901): 140, note 5, cited by R. [Kennedy 1934](../sources/Kennedy1934): 242).
 
-<table id="3-13-3-3-405-POc-malo-a">
+<table class="cognateset" id="3-13-3-3-405-POc-malo-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1703,7 +1704,7 @@ POc _&ast;malo_ probably denoted _Broussonetia papyrifera_, the tree which throu
 
 <a id="p-406"></a>
 
-<table id="3-13-3-3-406-POc-mmase-a">
+<table class="cognateset" id="3-13-3-3-406-POc-mmase-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1756,7 +1757,7 @@ There were apparently two POc labels for _Morinda citrifolia_, &ast;fiofiu and &
 
 The distributions of POc _&ast;ñoñu_ and _&ast;kurat_ are complementary: _&ast;kurat_ is reflected solidly through Melanesia from New Ireland (Lihir, Tangga) through NW Solomonic (Nehan, Roviana), SE Solomonic, North/Central and Southern Vanuatu, New Caledonia and Fiji, while _&ast;ñoñu_ occurs in the Admiralties, North New Guinea, Papuan Tip, Micronesian and Polynesian. These distributions suggest that POc _&ast;ñoñu_ was in some sense the default term for _Morinda citrifolia_ and that it was then replaced by _&ast;kurat_ in a solid Melanesian block from New Ireland to New Caledonia and Fiji. However, the reflexes of _&ast;kurat_ are generally regular, suggesting that replacement took place very early in the history of Oceanic.[^12]
 
-<table id="3-13-3-4-408-POc-nonu-a">
+<table class="cognateset" id="3-13-3-4-408-POc-nonu-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1834,7 +1835,7 @@ The distributions of POc _&ast;ñoñu_ and _&ast;kurat_ are complementary: _&ast
 
 
 
-<table id="3-13-3-4-408-POc-kurat-a">
+<table class="cognateset" id="3-13-3-4-408-POc-kurat-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2007,7 +2008,7 @@ It seems likely that POc &ast;tupa referred to _Derris_ creepers in general, or 
 
 but I am unable to determine how they differed in meaning from each other or from &ast;tupa.
 
-<table id="3-13-4-1-410-POc-tupa-a">
+<table class="cognateset" id="3-13-4-1-410-POc-tupa-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2123,7 +2124,7 @@ but I am unable to determine how they differed in meaning from each other or fro
 
 PMP _&ast;bunat_ is reconstructed on the basis of the Oceanic data here and Botolan Sambal bunat '_Derris elliptica_'.
 
-<table id="3-13-4-1-410-POc-punat-a">
+<table class="cognateset" id="3-13-4-1-410-POc-punat-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2175,7 +2176,7 @@ PMP _&ast;bunat_ is reconstructed on the basis of the Oceanic data here and Boto
 
 PWOc _&ast;(m,mʷ)ali_ (incorrectly given as _&ast;maRi_ in [vol. 1, ch.8, §7](../contributions/1-8#s-7)) is reconstructed on the basis of North New Guinea and Meso-Melanesian languages:
 
-<table id="3-13-4-1-411-PWOc-mmali-a">
+<table class="cognateset" id="3-13-4-1-411-PWOc-mmali-a">
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2209,7 +2210,7 @@ PWOc _&ast;(m,mʷ)ali_ (incorrectly given as _&ast;maRi_ in [vol. 1, ch.8, §7](
 
 [Bender et al.](../sources/Benderetal2003) ([2003](../sources/Benderetal2003)) offer two Proto Micronesian reconstructions with the gloss 'fish poison' or '_Derris_ sp.'. One is PMic _&ast;(t,T)upa_, continuing POc _&ast;tupa_ and reflected only in Woleaian _sūpe_ 'fish poison (root)'. Since _sūpe_ has _-p-_ for †_-f_ and PMic _&ast;(t,T)upa_ is reconstructed for expected †_&ast;tufa_, the reconstruction is suspect. The other PMic reconstruction is _&ast;upa_ 'derris vine ', which is well supported in Micronesian languages and appears to have cognates in Southern Vanuatu, permitting reconstruction of PROc _&ast;vuba_.
 
-<table id="3-13-4-1-411-PROc-vuba-a">
+<table class="cognateset" id="3-13-4-1-411-PROc-vuba-a">
 <tr>
 <td><strong>PROc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2292,7 +2293,7 @@ Turmeric also has ritual significance. At Marovo it is planted to keep evil spir
 
 There are two reconstructions, POc _&ast;yaŋo_ and PEOc _&ast;re(ŋ,ŋʷ)a_. There is some evidence in the glosses of reflexes that the latter meant yellow material, including prepared turmeric and perhaps the yolk of an egg.
 
-<table id="3-13-5-1-412-POc-yao-a">
+<table class="cognateset" id="3-13-5-1-412-POc-yao-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2374,7 +2375,7 @@ There are two reconstructions, POc _&ast;yaŋo_ and PEOc _&ast;re(ŋ,ŋʷ)a_. Th
 
 The root above was the source of the POc term for 'yellow', _&ast;yaŋo-yaŋo_:
 
-<table id="3-13-5-1-413-POc-yaoyao-a">
+<table class="cognateset" id="3-13-5-1-413-POc-yaoyao-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2431,7 +2432,7 @@ The root above was the source of the POc term for 'yellow', _&ast;yaŋo-yaŋo_:
 
 
 
-<table id="3-13-5-1-413-PEOc-rerea-a">
+<table class="cognateset" id="3-13-5-1-413-PEOc-rerea-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2514,7 +2515,7 @@ In Marovo wild ginger was associated with magic and sorcery. The leaves of parti
 
 Two POc terms are reconstructed below. The gloss of the first, _&ast;laqia_, remains a little doubtful because of the difficulty in dating the arrival of _Zingiber officinale_ in NW Island Melanesia. POc _&ast;para(k)_ evidently referred to _Zingiber_aceae species but just how large a taxon it denoted is currently unknown.
 
-<table id="3-13-5-2-414-POc-laqia-a">
+<table class="cognateset" id="3-13-5-2-414-POc-laqia-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2620,7 +2621,7 @@ PMP _&ast;badak_ is tentatively reconstructed below on the basis of the Tolai an
 
 [Figure 13.8](#fig-3-13_8)   _Codiaeum variegatum_
 
-<table id="3-13-5-2-415-POc-parak-a">
+<table class="cognateset" id="3-13-5-2-415-POc-parak-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2716,7 +2717,7 @@ Three other etyma are reconstructed below: POc _&ast;jiRi_, _&ast;kaRi(q)a_ and 
 
 <a id="p-418"></a>
 
-<table id="3-13-6-4-418-PWOc-marre-a">
+<table class="cognateset" id="3-13-6-4-418-PWOc-marre-a">
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2801,7 +2802,7 @@ cf. also:
 </table>
 
 
-<table id="3-13-6-4-418-POc-jiri-a">
+<table class="cognateset" id="3-13-6-4-418-POc-jiri-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -3043,7 +3044,7 @@ cf. also:
 
 Medial parenthesised _&ast;-q-_ is reconstructed in POc _&ast;kaRi(q)a_ on the assumption that Vitu _kariɣa_ 'rattan' is cognate, but the difference in denotation calls this into doubt.
 
-<table id="3-13-6-4-419-POc-kariqa-a">
+<table class="cognateset" id="3-13-6-4-419-POc-kariqa-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -3134,7 +3135,7 @@ cf. also:
 
 <a id="p-420"></a>
 
-<table id="3-13-6-4-420-POc-jajal-a">
+<table class="cognateset" id="3-13-6-4-420-POc-jajal-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -3245,7 +3246,7 @@ Two species of _Heliconia_ grow in NW Island Melanesia, _Heliconia indica_ in ea
 
 The leaves are used for covering and sealing the stone oven because of their thick, waxy cuticle and very large leaf surfaces. Thanks to their size, fewer are needed, reducing the labour of cutting and carrying ([Henderson & Hancock 1988](../sources/HendersonandHancock1988):239, [Kwa'ioloa & Burt 2001](../sources/KwaioloaandBurt2001): 196, [Hviding 2005](../sources/Hviding2005): 120).
 
-<table id="3-13-6-5-421-POc-paqo-a">
+<table class="cognateset" id="3-13-6-5-421-POc-paqo-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -3289,7 +3290,7 @@ The leaves are used for covering and sealing the stone oven because of their thi
 
 
 
-<table id="3-13-6-5-421-PEOc-rako-a">
+<table class="cognateset" id="3-13-6-5-421-PEOc-rako-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -3335,7 +3336,7 @@ At Tinputz (Bougainville) the pounded roots of this plant were mixed with red ir
 
 The forms listed below are clearly cognate, but it is not clear whether or how many of the parenthesised segments of the Kairiru and Kilivila forms reflect part of the protoform: hence the question mark against _&ast;mʷalak_.
 
-<table id="3-13-6-6-422-POc-malak-a">
+<table class="cognateset" id="3-13-6-6-422-POc-malak-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -3405,7 +3406,7 @@ The bottle gourd, _Lagenaria siceraria_, is grown throughout much of the Pacific
 
 Whistler provides names for _Benincasa hispida_, listed below, which allow us to reconstruct Proto Central Pacific _&ast;vaŋ(o,u)_. I have accepted his arguments for glossing the Fijian terms as _Benincasa hispida_: his sources (H. B. R. [Parham 1943](../sources/Parham1943), [Capell 1941](../sources/Capell1941)) gloss them as species of Lagenaria. Despite the obvious presence of _Benincasa hispida_ further west I have been unable to reconstruct an earlier term for it, but not for the usual reasons. Usually, a term is not reconstructable because there are no cognates in the data or because cognates are insufficiently widespread. In the case of _Benincasa hispida_, however, there are no data from outside Fiji and Polynesia except Peekel's Patpatar _hulhul paraho_. This can only indicate that, even if _Benincasa hispida_ was present in early Oceanic times, its presence and significance in the agricultural suite of Oceanic-speaking societies has faded almost to zero.[^23]
 
-<table id="3-13-7-2-424-PCP-vaou-a">
+<table class="cognateset" id="3-13-7-2-424-PCP-vaou-a">
 <tr>
 <td><strong>PCP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -3464,7 +3465,7 @@ The strong likelihood, then, is that the term was borrowed from community to com
 
 This finding is not at odds with the historical fact that the modern pumpkin was introduced to NW Melanesia by Europeans after 1870. It simply indicates that a variety of _Cucurbita moschata_ or a similar plant was already present, and had been present for a long time, albeit perhaps as a very minor crop in a few areas.
 
-<table id="3-13-7-3-425-EarlyOceanic-waluq-a">
+<table class="cognateset" id="3-13-7-3-425-EarlyOceanic-waluq-a">
 <tr>
 <td><strong>Early Oceanic</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -3544,7 +3545,7 @@ The initial syllable of _&ast;[ka]tim(o,u)n_ is reflected only in Western Oceani
 
 Shown in parentheses below are irregular phonological developments, implying that al- though the term was inherited into POc, it was sometimes borrowed from one language into another.
 
-<table id="3-13-7-4-426-POc-katimoun-a">
+<table class="cognateset" id="3-13-7-4-426-POc-katimoun-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">

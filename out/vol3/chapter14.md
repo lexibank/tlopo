@@ -1,5 +1,6 @@
-[Malcolm Ross](.smallcaps)
+[Malcolm Ross]{.smallcaps}
 
+<!--start-->
 
 <a id="s-1"></a>
 
@@ -38,7 +39,7 @@ The number of terms in Tables 14.3-14.9 reconstructed at each interstage is show
 
 <a id="p-429"></a>
 
-<a id="table-14"> </a>
+<a id="table-14.1"> </a>
 
 : Table 14.1    Number of plant terms reconstructed at each interstage
 
@@ -50,7 +51,7 @@ The number of terms in Tables 14.3-14.9 reconstructed at each interstage is show
 | PROc      | 6       | 2.7%      |
 | __Total__ | __220__ | __99.9%__ |
 
-<a id="table-14"> </a>
+<a id="table-14.2"> </a>
 
 : Table 14.2   Inherited and possibly innovatory plant terms in Proto Oceanic
 
@@ -72,7 +73,7 @@ Of 177 reconstructed POc plant terms, [Table 14.2](#table-14.2) shows that 80, o
 
 If a POc plant name has cognates in eastern Indonesia, especially in EMP languages, then it is possible that in some cases I am unaware of them, as the available sources for these languages are limited. However, non-Oceanic Austronesian plant names from the sources listed at the beginning of [§5.2](../contributions/3-14#s-5-2) of chapter 2 have led 1to the reconstruction of a number of higher-order (PCEMP and PMP) plant names in this volume, and it is a reasonable supposition that many of the plant names reconstructed in this volume for which no non-Oceanic cognates have been found really were POc innovations.
 
-<a id="table-14"> </a>
+<a id="table-14.3"> </a>
 
 : Table 14.3: Proto Oceanic plant terms inherited from Proto Austronesian or Proto Malaya--Polynesian (65 reconstructions)
 
@@ -147,7 +148,7 @@ If a POc plant name has cognates in eastern Indonesia, especially in EMP languag
 
 <a id="p-432"></a>
 
-<a id="table-14"> </a>
+<a id="table-14.4"> </a>
 
 : Table 14.4: Proto Oceanic plant terms inherited from Proto Central/Eastern Malaya-Polynesian (11 reconstructions)
 
@@ -165,7 +166,7 @@ If a POc plant name has cognates in eastern Indonesia, especially in EMP languag
 | _&ast;pau(q)_     | 'mango, _Mangifera_ sp. (not indica)'                                                             |
 | _&ast;Reqi_       | 'sword grass, _Imperata cylindrica_'                                                              |
 
-<a id="table-14"> </a>
+<a id="table-14.5"> </a>
 
 : Table 14.5: Proto Oceanic plant terms inherited from Proto Eastern Malayo-Polynesian (4 reconstructions)
 
@@ -176,7 +177,7 @@ If a POc plant name has cognates in eastern Indonesia, especially in EMP languag
 | _&ast;tawan_       | '_Pometia pinnata_'                         |
 | _&ast;tuRi-tuRi_   | 'candlenut tree, _Aleurites moluccana_' (?) |
 
-<a id="table-14"> </a>
+<a id="table-14.6"> </a>
 
 : Table 14.6: Proto Oceanic plant terms with no known non-Oceanic cognates (97 reconstructions)
 
@@ -283,7 +284,7 @@ If a POc plant name has cognates in eastern Indonesia, especially in EMP languag
 
 <a id="p-435"></a>
 
-<a id="table-14"> </a>
+<a id="table-14.7"> </a>
 
 : Table 14.7: Proto Western Oceanic plant terms with no known external cognates (22 reconstructions)
 
@@ -312,7 +313,7 @@ If a POc plant name has cognates in eastern Indonesia, especially in EMP languag
 | _&ast;tabun_            | '_Garcinia_ sp.'                                                           |
 | _&ast;tabuqaR_          | '_Saccharum edule_'                                                        |
 
-<a id="table-14"> </a>
+<a id="table-14.8"> </a>
 
 : Table 14.8: Proto Eastern Oceanic plant terms with no known external cognates (15 reconstructions)
 
@@ -337,7 +338,7 @@ If a POc plant name has cognates in eastern Indonesia, especially in EMP languag
 
 <a id="p-436"></a>
 
-<a id="table-14"> </a>
+<a id="table-14.9"> </a>
 
 : Table 14.9: PROc plant terms with no known external cognates (6 reconstructions)
 

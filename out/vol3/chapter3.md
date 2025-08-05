@@ -1,5 +1,6 @@
-[Bethwyn Evans](.smallcaps)
+[Bethwyn Evans]{.smallcaps}
 
+<!--start-->
 
 <a id="s-1"></a>
 
@@ -562,7 +563,7 @@ A Proto Micronesian form _&ast;fadoka_ 'planted thing, cultivated plants' is rec
 
 <a id="p-71"></a>
 
-<table id="3-3-4-1-71-PMic-fadoka-a">
+<table class="cognateset" id="3-3-4-1-71-PMic-fadoka-a">
 <tr>
 <td><strong>PMic</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -594,7 +595,7 @@ A Proto Micronesian form _&ast;fadoka_ 'planted thing, cultivated plants' is rec
 
 
 
-<table id="3-3-4-1-71-PMic-fadoki-a">
+<table class="cognateset" id="3-3-4-1-71-PMic-fadoki-a">
 <tr>
 <td><strong>PMic</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -636,7 +637,7 @@ If POc speakers did have a category that included all plants, then it appears to
 
 The most stable primary taxon label, in that it is reflected most widely amongst the modern languages is _&ast;kayu_, the general term for trees and other plants with woody stems and branches. While some languages, like Bing, appear to have retained the original vowel-glide-vowel sequence, the majority have simplified it in some way. These changes appear to have occurred reasonably late in the development of this form, since there are closely related languages that show different types of changes. For example, _&ast;kayu_ is reflected as _au_ in Mono, but as _ɣae_ in Nduke, two NW Solomonic languages, and as _kau_ in Bauan and _kai_ in Wayan, two Fijian languages.
 
-<table id="3-3-4-2-71-POc-kayu-a">
+<table class="cognateset" id="3-3-4-2-71-POc-kayu-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -806,7 +807,7 @@ Many reflexes of _&ast;kayu_ have additional senses besides 'tree or shrub', nam
 
 In Polynesian languages there has been a semantic shift and the reflexes of _&ast;kayu_ have the meaning of stem or stalk. The Proto Polynesian term for tree or woody plant was &ast;_raʔakau_. This form was a compound of reflexes of POc _&ast;raqan_ 'branch' and _&ast;kayu_ 'tree', supporting the idea that the presence of a main stem and branching growth structure were the salient features of this category.
 
-<table id="3-3-4-2-73-PPn-raakau-a">
+<table class="cognateset" id="3-3-4-2-73-PPn-raakau-a">
 <tr>
 <td><strong>PPn</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -873,7 +874,7 @@ POc _&ast;waRoc_ denoted plants with creeping or climbing growth structure, that
 
 The final consonant of the POc form is reconstructed as _&ast;c_ rather than _&ast;s_, as although the internal Oceanic evidence cannot disambiguate the choice between _&ast;c_ and _&ast;s_, the external evidence points to _&ast;c_.
 
-<table id="3-3-4-4-74-POc-waroc-a">
+<table class="cognateset" id="3-3-4-4-74-POc-waroc-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -988,7 +989,7 @@ The final consonant of the POc form is reconstructed as _&ast;c_ rather than _&a
 
 POc _&ast;pali[s,j]i_ appears to have been the generic for plants lacking a main stem and with narrow-leafed foliage, that is grasses and grass-like plants.
 
-<table id="3-3-4-5-75-POc-palisji-a">
+<table class="cognateset" id="3-3-4-5-75-POc-palisji-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1119,7 +1120,7 @@ Evidence from non-Oceanic languages suggests that _&ast;lumut_ may have been the
 
 <a id="p-77"></a>
 
-<table id="3-3-4-6-77-POc-lumut-a">
+<table class="cognateset" id="3-3-4-6-77-POc-lumut-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1248,7 +1249,7 @@ Evidence from non-Oceanic languages suggests that _&ast;lumut_ may have been the
 
 
 
-<table id="3-3-4-6-77-POc-limut-a">
+<table class="cognateset" id="3-3-4-6-77-POc-limut-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1336,7 +1337,7 @@ Evidence from non-Oceanic languages suggests that _&ast;lumut_ may have been the
 
 In a number of modern Oceanic languages the life-form term for mushrooms and other fleshy fungi is homophonous with the bodypart term 'ear'. For example, in Wayan Fijian _taliŋa_ denotes fleshy fungi such as mushrooms and bracket fungi as well as 'ear'. The polysemy of 'mushroom' and 'ear' is also found with non-cognate forms in a number of Oceanic languages, such that innovative terms can be seen to have both meanings. For example, in NE Ambae _gʷero_ has both the meaning of 'ear' and of 'mushroom', and the same is true for the Nakanai term _gavusa_ '(a) mushroom (Agaricaceae); ear'. The cognate set for POc _&ast;taliŋa_ below supports the reconstruction of this same polysemy. That the 'mushroom' meaning is not a post-POc innovation is supported by the fact that reflexes of _&ast;taliŋa_ occur in a number of languages with 'mushroom' meanings, but not with the 'ear' meaning. Of the languages in the cognate set below, the four North New Guinea languages, Nakanai, Gela and Tolo are all languages where the reflex of _&ast;taliŋa_ no longer has the meaning of 'ear', but has retained the 'mushroom' meaning. In Anejom _in-ticŋa-_, the reflex of _&ast;taliŋa_, retains only the 'ear' meaning, but the historical presence of the 'mushroom' meaning is indicated by the occurrence of _in-ticŋa-_ in a number of compounds referring to mushrooms. In Rotuman, Bauan Fijian, a number of Polynesian and Micronesian languages terms for mushrooms literally mean 'ear of spirit/ghost'. The Rotuman form _faliŋa ne ʔatua_ and the Tikopian form _tariŋa ŋa a tua_ look to be cognate compounds, but in other languages the second part of the compound does not appear to be cognate.
 
-<table id="3-3-4-7-78-POc-talia-a">
+<table class="cognateset" id="3-3-4-7-78-POc-talia-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">

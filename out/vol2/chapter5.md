@@ -1,5 +1,6 @@
-[Malcolm Ross](.smallcaps)
+[Malcolm Ross]{.smallcaps}
 
+<!--start-->
 
 <a id="s-1"></a>
 
@@ -131,7 +132,7 @@ Winds seem to have been classified in two ways in POc. In this section I will pr
 
 The generic term for ‘wind’ in POc was _&ast;aŋin_, which continues PMP _&ast;haŋin_.
 
-<table id="2-5-4-1-126-POc-ain-a">
+<table class="cognateset" id="2-5-4-1-126-POc-ain-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -208,7 +209,7 @@ The generic term for ‘wind’ in POc was _&ast;aŋin_, which continues PMP _&a
 
 Three terms for winds of differing strengths are reconstructable. POc _&ast;jaŋi_ referred to a strong wind, _&ast;sau_/_&ast;sau-ŋ(a)_ and _&ast;mur[i,e]_ to breezes. It seems that _&ast;sau_ was a verb (‘blow freshly’), and _&ast;sau-ŋ(a)_ a nominalisation referring to the breeze itself. I cannot reconstruct a difference in meaning between _&ast;sau_ and _&ast;mur[i,e]_.
 
-<table id="2-5-4-1-127-POc-jai-a">
+<table class="cognateset" id="2-5-4-1-127-POc-jai-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -248,7 +249,7 @@ Three terms for winds of differing strengths are reconstructable. POc _&ast;jaŋ
 
 
 
-<table id="2-5-4-1-127-POc-sau-a">
+<table class="cognateset" id="2-5-4-1-127-POc-sau-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -319,7 +320,7 @@ Three terms for winds of differing strengths are reconstructable. POc _&ast;jaŋ
 
 
 
-<table id="2-5-4-1-127-POc-murie-a">
+<table class="cognateset" id="2-5-4-1-127-POc-murie-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -415,7 +416,7 @@ The Mangap, Motu and Mekeo terms have _-i-_ where _-u-_ is expected. This may re
 
 Another term for wind was POc _&ast;mal(i,e)u_, but it is not possible to determine its meaning precisely from its reflexes. In Proto Micronesian, it referred to a typhoon, but this was presumably its denotation after the ancestral Micronesians crossed out of the ITCZ into the northern hemisphere.
 
-<table id="2-5-4-1-128-POc-malieu-a">
+<table class="cognateset" id="2-5-4-1-128-POc-malieu-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -477,7 +478,7 @@ In [Ross](../sources/Ross1995c) ([1995c](../sources/Ross1995c)) I wrote:
 
 [Lynch](../sources/Lynch1997) ([1997](../sources/Lynch1997)), however, points out that there is a South Vanuatu reflex of PAn _&ast;baRiuS_ ‘typhoon’, and that POc _&ast;paRiu_ ‘cyclone’ is therefore reconstructable. The lack of reflexes elsewhere is perhaps to be attributed, then, to their loss in languages whose speakers do not normally experience cyclones.
 
-<table id="2-5-4-1-128-POc-pariu-a">
+<table class="cognateset" id="2-5-4-1-128-POc-pariu-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -507,7 +508,7 @@ Although a number of etyma referring to a wind seem to have been used both as a 
 
 Three of these, _&ast;upi_, _&ast;ipu_ and _&ast;i(p,pʷ)i_, are clearly related to each other phonologically. The pair _&ast;upi_ and _&ast;ipu_ ‘blow’ are strikingly parallel to POc _&ast;ubi_/_&ast;ibu_ ‘half coconut shell used as a drinking cup’, and it is possible that both pairs were generated at the same time by the application of a single rule (or similar wordplay) to the pre-existing member of each pair. In the case of POc _&ast;upi_/_&ast;ipu_ ‘blow’, it seems likely that the pre-existing member was _&ast;ipu_, since it can be traced back to PMP _&ast;ibut_ ‘breeze, draught of wind’, and that _&ast;upi_ was the late-generated form. However, its generation predates POc, as Blust has reconstructed PCEMP _&ast;upi_ ‘(wind, person) blow’ (1993).[^7] Similarly, the generation of the pair _&ast;ubi_/_&ast;ibu_ ‘half coconut shell …’ also predates POc, as both forms are reconstructable in Proto Eastern Malayo-Polynesian ([Blust 1978a](../sources/Blust1978a)).
 
-<table id="2-5-4-1-129-POc-upi-a">
+<table class="cognateset" id="2-5-4-1-129-POc-upi-a">
 <tr>
 <td><strong>PCEMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -608,7 +609,7 @@ In a number of NNG languages in the region of the Vitiaz Strait and the Huon Gul
 
 <a id="p-130"></a>
 
-<table id="2-5-4-1-130-PNNG-upia-a">
+<table class="cognateset" id="2-5-4-1-130-PNNG-upia-a">
 <tr>
 <td><strong>PNNG</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -644,7 +645,7 @@ In a number of NNG languages in the region of the Vitiaz Strait and the Huon Gul
 
 
 
-<table id="2-5-4-1-130-POc-ipu-a">
+<table class="cognateset" id="2-5-4-1-130-POc-ipu-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -698,7 +699,7 @@ In a number of NNG languages in the region of the Vitiaz Strait and the Huon Gul
 
 It seems likely that the form _&ast;i(p,pʷ)i_ is the result of an idiosyncratic change to _&ast;upi_, _&ast;ipu_ or both. A couple of forms, NNG: Kaulong _e-ip_ ‘the wind’ and MM: Nalik _if_ ‘(wind) blow’, may reflect either _&ast;ipu_ or _&ast;i(p,pʷ)i_.
 
-<table id="2-5-4-1-130-POc-ippi-a">
+<table class="cognateset" id="2-5-4-1-130-POc-ippi-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -736,7 +737,7 @@ It seems likely that the form _&ast;i(p,pʷ)i_ is the result of an idiosyncratic
 
 Two other forms meaning ‘blow’ are also reconstructable. These are also formally rather similar to each other, but this similarity evidently dates back to well before the genesis of POc. I know of no proper non-Oceanic cognates of POc _&ast;(p,pʷ)usi_, but it appears to reflect the same monosyllabic root (_&ast;bus_) as PMP _&ast;qembus_ ‘snort, pant’ (ACD) (with regard to monosyllabic roots, see [vol.1,27](../contributions/1-2#p-27)–28).
 
-<table id="2-5-4-1-130-POc-ppusi-a">
+<table class="cognateset" id="2-5-4-1-130-POc-ppusi-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -802,7 +803,7 @@ The initial _p-_ of the Pn items reflects POc _&ast;b-_ or _&ast;pʷ-_: hence th
 
 <a id="p-131"></a>
 
-<table id="2-5-4-1-131-POc-puput-a">
+<table class="cognateset" id="2-5-4-1-131-POc-puput-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -862,7 +863,7 @@ POc _&ast;raki_ probably also denoted the dry season when the southeast trades b
 
 A selection of data supporting the reconstruction of _&ast;raki_ follows.
 
-<table id="2-5-4-2-132-POc-raki-a">
+<table class="cognateset" id="2-5-4-2-132-POc-raki-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1008,7 +1009,7 @@ Much of the data for the reconstruction of PPn wind directions is drawn from [Bi
 
 POc _&ast;apaRat_ ‘northwest wind’ has non-Oceanic cognates. It is descended from PMP _&ast;habaRat_, and from the reflexes listed below, I infer that this meant ‘southwest monsoon, wet season’ in its homeland. However, in Mindanao, where Manobo is spoken, there are two monsoons, the southwest and the northeast. Because the northeast monsoon is a much moistened version of the northeast trades, it evidently blows harder than the southwest monsoon and has taken over the ‘monsoon/wet season’ label. When the northeast monsoon changes direction to northwest south of the Equator, it retains the same label right across Indonesia, and POc _&ast;apaRat_ ‘northwest wind’ is its natural continuation in the Bismarcks.
 
-<table id="2-5-4-2-133-PAn-sabarat-a">
+<table class="cognateset" id="2-5-4-2-133-PAn-sabarat-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1094,7 +1095,7 @@ POc _&ast;apaRat_ ‘northwest wind’ has non-Oceanic cognates. It is descended
 
 POc _&ast;apaRat_ probably also denoted the accompanying wet season (SHS). The glosses of a number of its reflexes denote the wind direction rather than the season, whereas we might expect a priori that the word would refer primarily to the season rather than to the wind, as the latter does not blow consistently. This may be a product of elicitation techniques which asked for wind names rather than for seasons. In any case, there is no serious competitor for ‘wet season’, and a sufficient spread of reflexes referring to the season, to rain, to rough seas and to storms to establish _&ast;apaRat_ as the word for the season as well as for the wind. In Central Pacific languages (Fijian and Polynesian) reflexes refer to the storms and cyclones associated with the wet in the southern tropical zone.
 
-<table id="2-5-4-2-133-POc-aparat-a">
+<table class="cognateset" id="2-5-4-2-133-POc-aparat-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1313,7 +1314,7 @@ The Micronesian forms are odd in two ways. Firstly, if sound correspondences are
 
 Blust (ACD) takes it that PMP _&ast;habaRat_ ‘southwest monsoon season, wet season’ formed a pair with PMP _&ast;timuR_, implying that the latter referred to the northeast trades and the dry season. However, such a pairing seems to have arisen among the WMP languages of Indonesia, where reflexes of _&ast;habaRat_ mean ‘west’ and of _&ast;timuR_ ‘east’. In Philippine languages, where we might expect the PMP sense to be retained, reflexes of _&ast;timuR_ refer to a south or east wind, but not a monsoonal wind. (The PMP term for northeast trades seems to have been _&ast;qamíh-an_,[^8] lost when Austronesian speakers crossed into the southern hemisphere.) PMP _&ast;timuR_ also has reflexes in Oceanic languages, and POc _&ast;timu(R)_ seems to have meant ‘wind bringing light rain’. In Papuan Tip languages forms which appear to reflect _&ast;timu(R)_ have undergone a curious semantic shift and now mean ‘island’ ([Ch. 3, §2.2](../contributions/2-3#s-2-2)). Relevant data are listed below.
 
-<table id="2-5-4-2-135-PMP-timur-a">
+<table class="cognateset" id="2-5-4-2-135-PMP-timur-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1367,7 +1368,7 @@ Blust (ACD) takes it that PMP _&ast;habaRat_ ‘southwest monsoon season, wet se
 
 <a id="p-136"></a>
 
-<table id="2-5-4-2-136-POc-timur-a">
+<table class="cognateset" id="2-5-4-2-136-POc-timur-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1421,7 +1422,7 @@ The closest functional equivalents to POc _&ast;raki_ and _&ast;apaRat_ in PPn w
 
 The ancestry of PPn _&ast;toŋa_ is unclear, and I return to this below. Data supporting its reconstruction are as follows:
 
-<table id="2-5-4-2-136-PPn-toa-a">
+<table class="cognateset" id="2-5-4-2-136-PPn-toa-a">
 <tr>
 <td><strong>PPn</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1508,7 +1509,7 @@ The ancestry of PPn _&ast;toŋa_ is unclear, and I return to this below. Data su
 
 PPn _&ast;tokelau_ ‘northwesterly quadrant, northwest winds’ reflects POc _&ast;tokalau(r)_, the precise denotation of which is unclear. It presumably did not mean ‘northwest wind’, as this was the meaning of POc _&ast;apaRat_. The glosses of its reflexes below suggest that it denoted a northerly, or perhaps northeasterly, wind.
 
-<table id="2-5-4-2-137-POc-tokalaur-a">
+<table class="cognateset" id="2-5-4-2-137-POc-tokalaur-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1665,7 +1666,7 @@ Other terms relating to a major wind direction or a season and reconstructable i
 
 POc _&ast;karak(a)_ seems to have referred to a strong southeast trade wind. Some reflexes suggest _&ast;&ast;karag_, but final voiced stops did not occur in POc. Some NNG reflexes imply a POc final vowel, but SES reflexes do not. Some of the SES reflexes lack an expected initial consonant (Gela _ɣ-_, Longgu, Lau, Kwaio _ʔ-_), and so does Woleaian (_x-_). However, the fact that these items have appropriate meanings and otherwise correspond formally suggests that they belong to this cognate set, even if the loss of the initial is unexplained.
 
-<table id="2-5-4-2-138-POc-karaka-a">
+<table class="cognateset" id="2-5-4-2-138-POc-karaka-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1738,7 +1739,7 @@ POc _&ast;karak(a)_ seems to have referred to a strong southeast trade wind. Som
 
 Two other terms which apparently referred to the southeast trades are given below.
 
-<table id="2-5-4-2-139-POc-marau-a">
+<table class="cognateset" id="2-5-4-2-139-POc-marau-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1778,7 +1779,7 @@ Two other terms which apparently referred to the southeast trades are given belo
 
 
 
-<table id="2-5-4-2-139-PNGOc-yawana-a">
+<table class="cognateset" id="2-5-4-2-139-PNGOc-yawana-a">
 <tr>
 <td><strong>PNGOc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1816,7 +1817,7 @@ Two other terms which apparently referred to the southeast trades are given belo
 
 One more term, _&ast;aqura_, seems to have served both as a generic wind term and as a term for the ‘default’ wind, the southeast trade:
 
-<table id="2-5-4-2-139-POc-aqura-a">
+<table class="cognateset" id="2-5-4-2-139-POc-aqura-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1964,7 +1965,7 @@ It is difficult to distinguish between the meanings of these two terms but the g
 
 The cognate set below indicates that speakers of several daughter languages adopted one or other strategy to get rid of _&ast;-l-_ and _&ast;-n-_ in the onsets of consecutive syllables in POc &ast;malino. The two sounds entail different manners of articulation at the same point of articulation, but it is not clear to me why this should have led to the avoidance of the sequence.
 
-<table id="2-5-5-None-140-POc-malino-a">
+<table class="cognateset" id="2-5-5-None-140-POc-malino-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2048,7 +2049,7 @@ The cognate set below indicates that speakers of several daughter languages adop
 
 <a id="p-141"></a>
 
-<table id="2-5-5-None-141-POc-madmarapu-a">
+<table class="cognateset" id="2-5-5-None-141-POc-madmarapu-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2100,7 +2101,7 @@ The other two forms, PEOc _&ast;ma-lua(s)_ ‘soft, gentle, (weather) calm’ an
 
 PEOc _&ast;ma-lua(s)_ ‘soft, gentle, (weather) calm’ is descended from POc _&ast;ma-luas_ ‘soft’, but only the Eastern Oceanic reflexes refer to the calmness—or perhaps more accurately the gentleness—of the weather.
 
-<table id="2-5-5-None-141-POc-maluas-a">
+<table class="cognateset" id="2-5-5-None-141-POc-maluas-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2169,7 +2170,7 @@ PEOc _&ast;ma-lua(s)_ ‘soft, gentle, (weather) calm’ is descended from POc _
 
 PWOc _&ast;siwaRop_/_&ast;niwaRop_ ‘calm, peaceful’ may well have expressed a nuance of ‘peace’. Again we have two derivationally related forms, the first the base, the second the base prefixed by PMP _&ast;N-_ (originally ‘antipassive’) or perhaps PMP _&ast;‹in›/ni-_ ‘perfective, perfective nominaliser’.
 
-<table id="2-5-5-None-141-PWOc-siwarop-a">
+<table class="cognateset" id="2-5-5-None-141-PWOc-siwarop-a">
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2236,7 +2237,7 @@ PWOc _&ast;siwaRop_/_&ast;niwaRop_ ‘calm, peaceful’ may well have expressed 
 
 The locus of much of the weather was of course POc _&ast;laŋit_, the sky, and there are a few signs that this word also had something of the sense of English ‘weather’, in some languages coming to refer to a particular form of weather. The sky was also very important in the context of navigation (p.157). POc _&ast;laŋit_ was also used as a local noun meaning ‘up above’ (p.235).
 
-<table id="2-5-5-2-142-POc-lait-a">
+<table class="cognateset" id="2-5-5-2-142-POc-lait-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2364,7 +2365,7 @@ The locus of much of the weather was of course POc _&ast;laŋit_, the sky, and t
 
 PNGOc _&ast;sabam_ ‘sky’ is also reconstructable. It is not clear how this contrasted with _&ast;laŋit_.
 
-<table id="2-5-5-2-143-PNGOc-sabam-a">
+<table class="cognateset" id="2-5-5-2-143-PNGOc-sabam-a">
 <tr>
 <td><strong>PNGOc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2414,7 +2415,7 @@ PNGOc _&ast;sabam_ ‘sky’ is also reconstructable. It is not clear how this c
 
 The generic term for ‘cloud’ in POc was _&ast;qaRoq_.
 
-<table id="2-5-5-2-143-POc-qaroq-a">
+<table class="cognateset" id="2-5-5-2-143-POc-qaroq-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2484,7 +2485,7 @@ The generic term for ‘cloud’ in POc was _&ast;qaRoq_.
 
 The four terms below each possibly denoted a type of cloud. POc _&ast;rodo(ŋ)_ meant ‘rain cloud’. PNGOc _&ast;guba(r,R)_ may have denoted a storm cloud, but it is impossible to attribute more exact meanings to POc _&ast;ulu_ or POc _&ast;bala_.
 
-<table id="2-5-5-2-143-POc-rodo-a">
+<table class="cognateset" id="2-5-5-2-143-POc-rodo-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2524,7 +2525,7 @@ The four terms below each possibly denoted a type of cloud. POc _&ast;rodo(ŋ)_ 
 
 
 
-<table id="2-5-5-2-143-PNGOc-gubarr-a">
+<table class="cognateset" id="2-5-5-2-143-PNGOc-gubarr-a">
 <tr>
 <td><strong>PNGOc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2571,7 +2572,7 @@ The four terms below each possibly denoted a type of cloud. POc _&ast;rodo(ŋ)_ 
 
 <a id="p-144"></a>
 
-<table id="2-5-5-2-144-POc-ulu-a">
+<table class="cognateset" id="2-5-5-2-144-POc-ulu-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2607,7 +2608,7 @@ The four terms below each possibly denoted a type of cloud. POc _&ast;rodo(ŋ)_ 
 
 
 
-<table id="2-5-5-2-144-POc-bala-a">
+<table class="cognateset" id="2-5-5-2-144-POc-bala-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2641,7 +2642,7 @@ The four terms below each possibly denoted a type of cloud. POc _&ast;rodo(ŋ)_ 
 
 There are a number of reconstructable POc terms some of whose reflexes mean ‘cloud’, others ‘mist’ or ‘fog’, and yet others have both meanings. It seems reasonable to infer that a mist was conceived as a cloud at sea — or ground — level.
 
-<table id="2-5-5-2-144-POc-rapun-a">
+<table class="cognateset" id="2-5-5-2-144-POc-rapun-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2726,7 +2727,7 @@ There are a number of reconstructable POc terms some of whose reflexes mean ‘c
 
 The meanings of the set below are intriguing: their common denominator seems to be misty rain which gives rise to a rainbow if the sun’s rays are refracted through it, but this gloss is somewhat speculative.
 
-<table id="2-5-5-2-145-POc-bapo-a">
+<table class="cognateset" id="2-5-5-2-145-POc-bapo-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2772,7 +2773,7 @@ The meanings of the set below are intriguing: their common denominator seems to 
 
 The items below—POc _&ast;kapu(t)_/_&ast;kopu_ ‘low cloud, mist, fog’ and POc _&ast;gapu(l)_ ‘mist’ — are intriguing because of their formal similarity to each other. It is eminently likely that _&ast;gapu(l)_ is derivationally related to _&ast;kapu(t)_. If we ignore their putative final consonants, the former appears to be derived from _&ast;N_ + _kapu_ (see [vol.1,29](../contributions/1-2#p-29)–30). But the final _&ast;-t_ of _&ast;kapu(t)_ is attested by non-Oceanic witnesses, the final _&ast;-l_ of _&ast;gapu(l)_ by its Minigir and Tolai reflexes, and I cannot see a way of resolving this conflict.
 
-<table id="2-5-5-2-145-POc-kaput-a">
+<table class="cognateset" id="2-5-5-2-145-POc-kaput-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2856,7 +2857,7 @@ The Bali and Fijian forms below are problematic, as they reflect POc _&ast;kabu(
 
 It seems likely that &ast;kopu already occurred in POc as a doublet of _&ast;kapu(t)_ resulting from assimilation of the rounding feature of the second vowel to that of the first. Such a change was once productive in both Rotuman and Tongan (Andrew Pawley, pers. comm.).
 
-<table id="2-5-5-2-145-POc-kopu-a">
+<table class="cognateset" id="2-5-5-2-145-POc-kopu-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2915,7 +2916,7 @@ It seems likely that &ast;kopu already occurred in POc as a doublet of _&ast;kap
 
 <a id="p-146"></a>
 
-<table id="2-5-5-2-146-POc-gapul-a">
+<table class="cognateset" id="2-5-5-2-146-POc-gapul-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2973,7 +2974,7 @@ It seems likely that &ast;kopu already occurred in POc as a doublet of _&ast;kap
 
 As if this were not already complicated enough, a further curiosity is the reconstruction of Proto Nuclear Polynesian _&ast;kapuqa_ ‘cloud’ ([Biggs & Clark 1993](../sources/BiggsandClark1993)), which either entails the addition of _&ast;-qa_ to a reflex of POc _&ast;kapu(t)_ or _&ast;gapu(l)_ or is a derivative of the PPn verb _&ast;kaputi_ ‘cover over’.
 
-<table id="2-5-5-2-146-PNPn-kapuqa-a">
+<table class="cognateset" id="2-5-5-2-146-PNPn-kapuqa-a">
 <tr>
 <td><strong>PNPn</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -3013,7 +3014,7 @@ As if this were not already complicated enough, a further curiosity is the recon
 
 The most widely reflected POc word for ‘rain’ (both verb and noun) is _&ast;qusan_. Also reconstructable are POc _&ast;[ka]dapuR_ ‘rain, rain cloud’ and PWOc _&ast;(rR)ugu_ ‘rain’. It is not known if _&ast;(rR)ugu_ differed in meaning from _&ast;qusan_, but _&ast;[ka]dapuR_ seems to have referred both to a rain cloud and to the rain it deposits.
 
-<table id="2-5-5-3-146-POc-qusan-a">
+<table class="cognateset" id="2-5-5-3-146-POc-qusan-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -3123,7 +3124,7 @@ The most widely reflected POc word for ‘rain’ (both verb and noun) is _&ast;
 
 <a id="p-147"></a>
 
-<table id="2-5-5-3-147-POc-kadapur-a">
+<table class="cognateset" id="2-5-5-3-147-POc-kadapur-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -3207,7 +3208,7 @@ The most widely reflected POc word for ‘rain’ (both verb and noun) is _&ast;
 
 
 
-<table id="2-5-5-3-147-PWOc-rrugu-a">
+<table class="cognateset" id="2-5-5-3-147-PWOc-rrugu-a">
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -3244,7 +3245,7 @@ The most widely reflected POc word for ‘rain’ (both verb and noun) is _&ast;
 
 A semantically related term was POc _&ast;bata_, which, to judge from a constellation of Meso-Melanesian and Polynesian reflexes, probably meant ‘raindrop’. However, a number of Western Oceanic languages also agree on the meaning ‘cloud’.
 
-<table id="2-5-5-3-148-POc-bata-a">
+<table class="cognateset" id="2-5-5-3-148-POc-bata-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -3313,7 +3314,7 @@ A semantically related term was POc _&ast;bata_, which, to judge from a constell
 
 POc _&ast;(d,dr)im(a)-(d,dr)im(a)_ evidently meant ‘drizzle, light rain’. I have yet to find a reflex which allows me to diagnose whether the initial consonant was POc _&ast;d_ or _&ast;dr_.
 
-<table id="2-5-5-3-148-POc-ddrimaddrima-a">
+<table class="cognateset" id="2-5-5-3-148-POc-ddrimaddrima-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -3343,7 +3344,7 @@ POc _&ast;(d,dr)im(a)-(d,dr)im(a)_ evidently meant ‘drizzle, light rain’. I 
 
 In search of other terms associated in one way or another with rain, I tried to reconstruct terms for ‘rainbow’ and ‘dew’. However, I could only reconstruct a Proto Eastern Oceanic term for the former (but see the note on POc _&ast;bʷa(p)o_ ‘misty rain (?)’ above, p.145).
 
-<table id="2-5-5-3-148-PEOc-nuanua-a">
+<table class="cognateset" id="2-5-5-3-148-PEOc-nuanua-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -3416,7 +3417,7 @@ For ‘dew’, a few reflexes of a PMP term occur.
 
 <a id="p-149"></a>
 
-<table id="2-5-5-3-149-POc-lamur-a">
+<table class="cognateset" id="2-5-5-3-149-POc-lamur-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -3460,7 +3461,7 @@ For ‘dew’, a few reflexes of a PMP term occur.
 
 I have reconstructed five separate terms for ‘lightning’. POc _&ast;qu(s,j)ila(k)_ seems to be the generic term for lightning, inherited from Proto Malayo-Polynesian. The glosses of reflexes of PNGOc _&ast;lamaR_ imply that this item may have referred to lightning and thunder together. The other three reconstructions are _&ast;pilak_ ‘lightning’, _&ast;pitik_ ‘lightning’, _&ast;la(p,pʷ)a(r,R)_ ‘lightning, phosphorescence’. Whilst these may have referred to different kinds of lightning (e.g. sheet and forked) is also possible that they were descriptive or metaphorical terms. It is reasonably clear, for example, that PNNG _&ast;kila(m,p)_ ‘lightning’ was a reflex of PMP _&ast;kila(p,b)_ ‘flash, sparkle’, (and that POc _&ast;qu(s,j)ila(k)_ ‘lightning’ reflects PMP _&ast;silak_ ‘beam of light’; cf. [Dempwolff 1938](../sources/Dempwolff1938):153).
 
-<table id="2-5-5-4-149-POc-qusjilak-a">
+<table class="cognateset" id="2-5-5-4-149-POc-qusjilak-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -3516,7 +3517,7 @@ I have reconstructed five separate terms for ‘lightning’. POc _&ast;qu(s,j)i
 
 
 
-<table id="2-5-5-4-149-POc-ppilak-a">
+<table class="cognateset" id="2-5-5-4-149-POc-ppilak-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -3619,7 +3620,7 @@ I have reconstructed five separate terms for ‘lightning’. POc _&ast;qu(s,j)i
 
 <a id="p-150"></a>
 
-<table id="2-5-5-4-150-POc-pitik-a">
+<table class="cognateset" id="2-5-5-4-150-POc-pitik-a">
 <tr>
 <td><strong>PCEMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -3658,7 +3659,7 @@ I have reconstructed five separate terms for ‘lightning’. POc _&ast;qu(s,j)i
 
 
 
-<table id="2-5-5-4-150-POc-lapparr-a">
+<table class="cognateset" id="2-5-5-4-150-POc-lapparr-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -3713,7 +3714,7 @@ I have reconstructed five separate terms for ‘lightning’. POc _&ast;qu(s,j)i
 
 Despite the formal variations in the cognate set above, its members are regular reflexes.
 
-<table id="2-5-5-4-150-PNGOc-lamar-a">
+<table class="cognateset" id="2-5-5-4-150-PNGOc-lamar-a">
 <tr>
 <td><strong>PNGOc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -3756,7 +3757,7 @@ Despite the formal variations in the cognate set above, its members are regular 
 
 <a id="p-151"></a>
 
-<table id="2-5-5-4-151-POc-kilap-a">
+<table class="cognateset" id="2-5-5-4-151-POc-kilap-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -3813,7 +3814,7 @@ Despite the formal variations in the cognate set above, its members are regular 
 
 POc appears to have had two basic roots for thunder, _&ast;kuru_ and _&ast;pʷaraq_, both of which occur in apparent fossilised morphological variants. Firstly, alongside _&ast;kuru_ we find _&ast;guru_. The latter may represent _&ast;N_ + _kuru_. Secondly, alongside _&ast;kuru_, _&ast;guru_ and _&ast;pʷaraq_ we find forms with reduplication of the second syllable: _&ast;kururu_, _&ast;gururu_ and _&ast;pʷararaq_. This was not to my knowledge a widespread process in POc, and I take its appearance here to be associated with the onomatopaeic nature of the etyma. Thirdly, it seems that the foregoing forms were (at least sometimes) verbal, and we find apparent nominalisations: _&ast;guru-ŋ(a)_, _&ast;gururu-ŋ(a)_, and _&ast;para-ŋ(a)_.
 
-<table id="2-5-5-4-151-POc-kuru-a">
+<table class="cognateset" id="2-5-5-4-151-POc-kuru-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -3861,7 +3862,7 @@ POc appears to have had two basic roots for thunder, _&ast;kuru_ and _&ast;pʷar
 
 
 
-<table id="2-5-5-4-151-POc-guru-a">
+<table class="cognateset" id="2-5-5-4-151-POc-guru-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -3952,7 +3953,7 @@ POc appears to have had two basic roots for thunder, _&ast;kuru_ and _&ast;pʷar
 
 <a id="p-152"></a>
 
-<table id="2-5-5-4-152-POc-gurua-a">
+<table class="cognateset" id="2-5-5-4-152-POc-gurua-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -3996,7 +3997,7 @@ POc appears to have had two basic roots for thunder, _&ast;kuru_ and _&ast;pʷar
 
 
 
-<table id="2-5-5-4-152-POc-paraq-a">
+<table class="cognateset" id="2-5-5-4-152-POc-paraq-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -4076,7 +4077,7 @@ POc appears to have had two basic roots for thunder, _&ast;kuru_ and _&ast;pʷar
 
 
 
-<table id="2-5-5-4-152-POc-paraa-a">
+<table class="cognateset" id="2-5-5-4-152-POc-paraa-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">

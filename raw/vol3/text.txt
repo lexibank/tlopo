@@ -13861,7 +13861,7 @@ difficulties in tying the glosses of some reconstructions down to particular spe
 
 10.2 Leafy vegetables
 
-10.2.1 _Abelmoschus manihot_ (syn. _Hibiscus manihot_), slippety cabbage, bush cabbage, island cabbage, TP aibika, P slipari kabis, Bkabis aelan (Malvaceae)
+10.2.1 _Abelmoschus manihot_ (syn. _Hibiscus manihot_), slippety cabbage, bush cabbage, island cabbage, TP _aibika_, P _slipari kabis_, B _kabis aelan_ (Malvaceae)
 
 Figure 10.1: _Abelmoschus manihot_: __A__, plant (height 1.5 m); __B__, stem with leaf (edible) and flower
 bud; __C__, flower; __D__, varieties displayed to show the diversity in leaf shape.
@@ -16599,7 +16599,7 @@ in §3. Names for the parts of the fruit are reconstructed in §4 and for the pa
 other than the fruit in §5.
 
 
-12.2.1 _Cocos nucifera_, coconut, TP, Bkokonas, P kokonat (Arecaceae)
+12.2.1 _Cocos nucifera_, coconut, TP, B _kokonas_, P _kokonat_ (Arecaceae)
 
 POc _*niuR_ appears to have been used in at least two senses: the fruit at any stage of growth,
 and the palm. A number of the glosses below are simply 'coconut': in all these cases the gloss

@@ -1,5 +1,6 @@
-[Bethwyn Evans](.smallcaps)
+[Bethwyn Evans]{.smallcaps}
 
+<!--start-->
 
 <a id="s-1"></a>
 
@@ -26,7 +27,7 @@ For presentation purposes plant part terminologies are divided into the followin
 
 <a id="p-86"></a>
 
-<a id="table-4"> </a>
+<a id="table-4.1"> </a>
 
 : Table 4.1    Some terms for parts of the coconut in Tikopia ([Firth 1985](../sources/Firth1985))
 
@@ -48,7 +49,7 @@ Modern Oceanic languages also tend to have terms for parts of particular types o
 
 <a id="p-87"></a>
 
-<a id="table-4"> </a>
+<a id="table-4.2"> </a>
 
 : Table 4.2        Terms for parts of banana plants
 
@@ -73,7 +74,7 @@ In many modern Oceanic languages part-whole relationships, including the parts o
 
 <a id="p-88"></a>
 
-<a id="table-4"> </a>
+<a id="table-4.3"> </a>
 
 : Table 4.3     Terms for stems of woody plants in Nduke, Wayan Fijian and Tikopia
 
@@ -175,7 +176,7 @@ Many modern Oceanic languages have a general term denoting the main stem or trun
 
 An apparently general term for tree trunk can be reconstructed for POc, namely _&ast;pata(ŋ)_. It seems likely that POc _&ast;pata(ŋ)_ referred to the main stem of plants denoted by _&ast;kayu_ 'tree or shrub'. As mentioned in ch.3 ([§4.3](../contributions/3-4#s-4-3)) palms were probably not considered to be _&ast;kayu_ by POc speakers, but there is no evidence to suggest that the trunks of palms were labelled differently from the trunks of woody trees. Palm trunks seem to be of considerable importance for construction in Oceanic societies, although the different properties of palm trunks and trunks of woody plants may result in different uses.
 
-<table id="3-4-2-1-89-POc-pata-a">
+<table class="cognateset" id="3-4-2-1-89-POc-pata-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -223,7 +224,7 @@ POc _&ast;pata(ŋ)_ is not reflected widely in modern languages, and has been re
 
 As mentioned above, Oceanic languages have terms denoting different parts of woody stems. POc _&ast;puqu(n)_ denoted the base or bole of a woody stem and apparently also 'base' more generally, including the base or source of other concrete items and more abstractly the base, source or origin of stories etc.[^5]
 
-<table id="3-4-2-1-90-POc-puqun-a">
+<table class="cognateset" id="3-4-2-1-90-POc-puqun-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -336,7 +337,7 @@ As mentioned above, Oceanic languages have terms denoting different parts of woo
 
 Terms with similar meanings to Wayan _ŋau_ 'main or centre section of trunk' and _golo_ 'top section of a tree trunk or of woody stem' are more difficult to reconstruct. The POc body part term _&ast;qulu-_ 'head' may also have denoted the top part or crown of a tree including the foliage, as such a meaning is reflected in a few widely scattered modern languages. In some Nuclear Polynesian languages the terms for the top of a tree look to be a reduced compound of _&ast;kayu_ 'tree' and _&ast;qulu_ 'head' (e.g. Maori _kauru_ 'the head of a tree'). However, it is possible that reflexes of _&ast;qulu_ denoting the crown of a tree represent the independent extension of a body part term, particularly as in Takia (North New Guinea) many of the terms for plant parts appear to primarily denote body parts. For example, _ai pata-n_ 'sap (lit. tree its kidney)', _ai lua-n_ 'tree trunk (lit. tree its stomach)' and _ai sukulo-n_ 'bark (lit. tree its skin)'. Of note, however, is that in Takia the body part term 'head' is _gurma-_, and the reflex of POc _&ast;qulu_ is restricted to denoting the top part of a tree.
 
-<table id="3-4-2-1-91-POc-qulu-a">
+<table class="cognateset" id="3-4-2-1-91-POc-qulu-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -389,7 +390,7 @@ A term specifically denoting the centre or main part of the trunk does not appea
 
 Terms for different types of wood or tissue in woody stems are present in Wayan, Tikopia and Nduke. Tikopia _tai_ denotes the heartwood or dense inner wood of a tree trunk and _kanofi_ the sapwood or soft outer layers of wood between the heartwood and the bark. PPn terms for these two types of wood are reconstructable. The cognate set of Tongan _tahi_, Samoan _taia_ and Tikopia _tai_ attest to PPn _&ast;tahi_ '(heart)wood' (POLLEX), but I have not found any non-Polynesian cognates of this form. A corresponding term for sapwood, _&ast;taitea_, is reconstructable for PNPn only and is a compound of _&ast;tai_ 'heartwood' and _&ast;tea_ 'white'. Again I have found no non-Polynesian cognates.
 
-<table id="3-4-2-1-91-PPn-tahi-a">
+<table class="cognateset" id="3-4-2-1-91-PPn-tahi-a">
 <tr>
 <td><strong>PPn</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -416,7 +417,7 @@ Terms for different types of wood or tissue in woody stems are present in Wayan,
 
 <a id="p-92"></a>
 
-<table id="3-4-2-1-92-PNPn-taitea-a">
+<table class="cognateset" id="3-4-2-1-92-PNPn-taitea-a">
 <tr>
 <td><strong>PNPn</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -442,7 +443,7 @@ Terms for different types of wood or tissue in woody stems are present in Wayan,
 
 POc _&ast;uso_ 'umbilical cord, core' may also have been used to refer to the core or heartwood of woody stems or tree trunks, as are its reflexes in Sa'a, Wayan and Maori.
 
-<table id="3-4-2-1-92-POc-uso-a">
+<table class="cognateset" id="3-4-2-1-92-POc-uso-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -490,7 +491,7 @@ POc seems to have had a general term _&ast;baRa-baRa_ that referred to stems of 
 
 POc _&ast;baRa-baRa_ is a well-supported reconstruction, both in terms of form and meaning. Since widespread reflexes are reduplicated, unreduplicated forms in Micronesian languages are assumed to represent an innovation (see also discussion of POc _&ast;paRara_ in footnote 21 of ch.9, p.280).
 
-<table id="3-4-2-2-92-POc-barabara-a">
+<table class="cognateset" id="3-4-2-2-92-POc-barabara-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -549,7 +550,7 @@ POc _&ast;baRa-baRa_ is a well-supported reconstruction, both in terms of form a
 
 <a id="p-93"></a>
 
-<a id="table-4"> </a>
+<a id="table-4.4"> </a>
 
 : Table 4.4      Terms for stems of non-woody plants in Nduke, Wayan Fijian and Tikopia
 
@@ -582,7 +583,7 @@ POc _&ast;baRa-baRa_ is a well-supported reconstruction, both in terms of form a
 
 <a id="p-94"></a>
 
-<a id="table-4"> </a>
+<a id="table-4.5"> </a>
 
 : Table 4.5     Terms for branches in Nduke, Wayan Fijian and Tikopia
 
@@ -605,7 +606,7 @@ Three apparently different, but quite similar, forms can be reconstructed with t
 
 Proto Austronesian _&ast;daqan_ 'branch', continued as POc _&ast;raqan_ 'branch (of a tree)', is the most widely reflected 'branch' term in Oceanic languages. POc _&ast;raqan_ was probably the general term for branches of trees and other plants as the meanings in modern languages denote both major branches of trees and small branches or twigs.
 
-<table id="3-4-2-3-94-POc-raqan-a">
+<table class="cognateset" id="3-4-2-3-94-POc-raqan-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -719,7 +720,7 @@ Proto Austronesian _&ast;daqan_ 'branch', continued as POc _&ast;raqan_ 'branch 
 
 POc _&ast;rako(q)_ 'branch, twig' is supported by reflexes in two Papuan Tip languages and by cognates in non-Oceanic languages that suggest PMP _&ast;daŋkeq_ 'branch'.
 
-<table id="3-4-2-3-95-POc-rakoq-a">
+<table class="cognateset" id="3-4-2-3-95-POc-rakoq-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -753,7 +754,7 @@ POc _&ast;rako(q)_ 'branch, twig' is supported by reflexes in two Papuan Tip lan
 
 Similarly, POc _&ast;raga(q)_ 'branch' is supported by reflexes in a small number of Papuan Tip and Meso-Melanesian languages and by non-Oceanic cognates that suggest PMP _&ast;daŋkaq_ 'branch'.
 
-<table id="3-4-2-3-95-POc-ragaq-a">
+<table class="cognateset" id="3-4-2-3-95-POc-ragaq-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -798,7 +799,7 @@ POc also had two morphologically related forms _&ast;saŋa_ and _&ast;ma-saŋa_ 
 
 <a id="p-96"></a>
 
-<table id="3-4-2-3-96-POc-saa-a">
+<table class="cognateset" id="3-4-2-3-96-POc-saa-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -864,7 +865,7 @@ POc also had two morphologically related forms _&ast;saŋa_ and _&ast;ma-saŋa_ 
 
 POc _&ast;ma-saŋa_ is reconstructed with both verbal and nominal functions. Its morphological structure, that is, the prefix _&ast;ma-_, suggests that it was an intransitive verb with an Undergoer subject, as it appears to still be in Lou, Lau, Arosi and Sye. However, the range of reflexes of _&ast;ma-saŋa_ with nominal meanings in modern Oceanic languages suggests that it perhaps also had nominal uses in POc. A number of modern languages which reflect both _&ast;saŋa_ and _&ast;ma-saŋa_ support the reconstruction of nominal and verbal functions, respectively. For example, in Lau and Arosi reflexes of _&ast;saŋa_ now have quite specific nominal meanings and reflexes of _&ast;ma-saŋa_ have the general meaning of 'branching, forked' and look to be verbal. In Kwaio, on the other hand, the reflexes of both _&ast;saŋa_ and _&ast;ma-saŋa_ have nominal meanings.
 
-<table id="3-4-2-3-96-POc-masaa-a">
+<table class="cognateset" id="3-4-2-3-96-POc-masaa-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -937,7 +938,7 @@ POc _&ast;ma-saŋa_ is reconstructed with both verbal and nominal functions. Its
 
 PPn _&ast;maŋa_ 'branch, fork; branching, forked' is a well-supported reconstruction. A possible non-Polynesian cognate is Kiribati _mʷāŋa_ 'branch, limb of tree', but [Harrison](../sources/Harrison1994) ([1994](../sources/Harrison1994): 345) suggests that this may be a Polynesian loan. It is possible that PPn _&ast;maŋa_ 'branch, fork' is historically related to POc _&ast;ma-saŋa_ 'to be branching, branch' with irregular loss of _&ast;s_, but this is not certain. Most Polynesian languages reflect one or other form, but not both. However, Niuean reflects both forms and with very similar meanings, and in Tongan both forms have similar nominal meanings, but the reflex of _&ast;maŋa_ also has a verbal meaning.
 
-<table id="3-4-2-3-97-PPn-maa-a">
+<table class="cognateset" id="3-4-2-3-97-PPn-maa-a">
 <tr>
 <td><strong>PPn</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1002,7 +1003,7 @@ Besides a general term for roots, _&ast;wakaR-_, POc had at least three other mo
 
 <a id="p-98"></a>
 
-<a id="table-4"> </a>
+<a id="table-4.6"> </a>
 
 : Table 4.6     Terms for roots in Nduke, Wayan Fijian and Tikopia
 
@@ -1031,7 +1032,7 @@ Besides a general term for roots, _&ast;wakaR-_, POc had at least three other mo
 
 <a id="p-99"></a>
 
-<table id="3-4-2-4-99-POc-wakar-a">
+<table class="cognateset" id="3-4-2-4-99-POc-wakar-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1168,7 +1169,7 @@ Blust (ACD) also reconstructs a PEMP term _&ast;wakaR-i_ 'root', which is reflec
 
 <a id="p-100"></a>
 
-<table id="3-4-2-4-100-POc-wakari-a">
+<table class="cognateset" id="3-4-2-4-100-POc-wakari-a">
 <tr>
 <td><strong>PEMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1214,7 +1215,7 @@ Blust (ACD) also reconstructs a PEMP term _&ast;wakaR-i_ 'root', which is reflec
 
 [Dempwolff](../sources/Dempwolff1938) ([1938](../sources/Dempwolff1938)) reconstructs PMP _aka(r)_ 'root' as a doublet of _wakaR_ 'root'. Blust (ACD) notes that all non-Oceanic cognates with an initial _a-_ are in languages which regularly lose word-initial _&ast;w-_, thus providing no evidence for the presence or absence of _&ast;w-_. Several Oceanic languages have forms which do suggest a POc doublet form _&ast;aka(r,R)_. None of the forms below are regular reflexes of _&ast;wakaR_ 'root'.
 
-<table id="3-4-2-4-100-POc-akarr-a">
+<table class="cognateset" id="3-4-2-4-100-POc-akarr-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1251,7 +1252,7 @@ Thus POc apparently had three very similar forms, _&ast;wakaR_, _&ast;wakaRi-_ a
 
 The POc term for 'buttress roots' was _&ast;lali(c,t)_. This is a more or less regular reflex of PMP _&ast;dalij_, reconstructed by Blust (ACD ). The expected POc initial liquid is †_&ast;r-_, but it has undergone assimilation to the intervocalic liquid, giving _&ast;lal-_ rather that †_&ast;ral-_. The same change is found in POc _&ast;lalom_ 'inside', reflecting PMP _&ast;Dalem_ ([vol.2, ch.8, §2.3.1](../contributions/2-8#s-2-3-1)). The expected final consonant is POc _&ast;-c_. The only languages to reflect a final consonant are Tolai and Ramoaaina, in both of which the expected reflex is zero, but instead we find _-t_.
 
-<table id="3-4-2-4-100-POc-lalict-a">
+<table class="cognateset" id="3-4-2-4-100-POc-lalict-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1312,7 +1313,7 @@ The POc term for 'buttress roots' was _&ast;lali(c,t)_. This is a more or less r
 
 The POc reconstruction _&ast;Ramut_ 'fine, hair-like roots' is a revision of [Geraghty's](../sources/Geraghty1990) ([1990](../sources/Geraghty1990): 69) PEOc reconstruction _&ast;Ramu-_ 'hair, fibre'.[^10] Extra data suggest that this form had a primary meaning 'hair-like roots' and in a number of languages has been extended to refer to other fine fibrous things. Data from the Meso-Melanesian languages support the reconstruction of a final consonant in POc. In Papuan Tip languages _&ast;Ramut_ appears to have become the general term for roots.
 
-<table id="3-4-2-4-101-POc-ramut-a">
+<table class="cognateset" id="3-4-2-4-101-POc-ramut-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1376,7 +1377,7 @@ In English 'mangrove' refers to a variety of trees and shrubs that grow in coast
 
 <a id="p-102"></a>
 
-<a id="table-4"> </a>
+<a id="table-4.7"> </a>
 
 : Table 4.7     Terms for leaves in Nduke, Wayan Fijian and Tikopia
 
@@ -1414,7 +1415,7 @@ In English 'mangrove' refers to a variety of trees and shrubs that grow in coast
 
 <a id="p-103"></a>
 
-<table id="3-4-2-4-103-POc-wakot-a">
+<table class="cognateset" id="3-4-2-4-103-POc-wakot-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1460,7 +1461,7 @@ As well as a general term for leaf, Oceanic languages tend to have more specific
 
 A generic term for leaf, POc _&ast;raun_, is clearly reconstructable and reflects an earlier Proto Austronesian term with a similar meaning. As some reflexes of _&ast;raun_ denote hair or fur, it seems likely that in POc _&ast;raun_ referred not only to broad surface leaves, but also to the needle-like leaves of casuarinas, but the glosses of most reflexes are not specific enough to determine if this is the case.
 
-<table id="3-4-2-5-103-POc-raun-a">
+<table class="cognateset" id="3-4-2-5-103-POc-raun-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1630,7 +1631,7 @@ Anejom is in between these two extremes with some compound terms, such as _neri-
 
 <a id="p-105"></a>
 
-<a id="table-4"> </a>
+<a id="table-4.8"> </a>
 
 : Table 4.8   Leaf terms in selected Oceanic languages
 
@@ -1692,7 +1693,7 @@ _Pandanus_ and sago leaves were apparently as important as coconut leaves in man
 
 POc _&ast;gal(a,o)_ 'taro leaves' is tentatively reconstructed by Ross (this volume, [ch.9, §2.2.1](../contributions/3-9#s-2-2-1)), supported by the cognate set below.
 
-<table id="3-4-2-5-107-POc-galao-a">
+<table class="cognateset" id="3-4-2-5-107-POc-galao-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1744,7 +1745,7 @@ The most general term for shoots or suckers in POc appears to have been _&ast;[s
 
 The initial consonant is uncertain because Manam and Tawala reflect _&ast;s_ and not _&ast;j_, but Numbami, Lukep and Gela reflect _&ast;j_ and not _&ast;s_. In the other languages the initial consonant reflects both _&ast;s_ and _&ast;j_.
 
-<table id="3-4-2-6-108-POc-sjuliq-a">
+<table class="cognateset" id="3-4-2-6-108-POc-sjuliq-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1852,7 +1853,7 @@ The initial consonant is uncertain because Manam and Tawala reflect _&ast;s_ and
 
 <a id="p-109"></a>
 
-<a id="table-4"> </a>
+<a id="table-4.9"> </a>
 
 : Table 4.9   Terms for shoots and suckers in Nduke, Wayan Fijian and Tikopia
 
@@ -1889,7 +1890,7 @@ The initial consonant is uncertain because Manam and Tawala reflect _&ast;s_ and
 
 [French-Wright](../sources/FrenchWright1983) ([1983](../sources/FrenchWright1983): 60) also reconstructs a very similar term with the meaning 'to transplant'. Again there is variation in the initial consonant with Roviana reflecting POc _&ast;j_ and Arosi reflecting POc _&ast;s_. He suggests (1983: 61-62) that _&ast;(s,j)uli_ could be used in POc to denote the practice of growing taros from suckers which are left in the ground when the mature taro is harvested and then transplanted when a new garden has been prepared, and to the transplanting of fruit trees grown initially from seeds, but replanted to a carefully chosen spot when still small. However, the POc reconstruction with this meaning is not well supported, as it is reflected in only one NW Solomonic and one SE Solomonic language.
 
-<table id="3-4-2-6-110-POc-sjuli-a">
+<table class="cognateset" id="3-4-2-6-110-POc-sjuli-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1912,7 +1913,7 @@ The initial consonant is uncertain because Manam and Tawala reflect _&ast;s_ and
 
 From the fact that modern languages tend to have several forms that denote new growth of plants, we would expect the same to be true of POc, but other terms with similar meanings are not easily reconstructable. However, there are two nominal terms which appear to be candidates. [Bender et al.](../sources/Benderetal2003) ([2003](../sources/Benderetal2003): 28) reconstruct Proto Oceanic _&ast;qili_ 'sprout, shoot' supported by reflexes in Micronesian languages and Nakanai. The combination of the lack of an initial consonant in the Micronesian languages and an initial _h-_ in Nakanai support the reconstruction of an initial _&ast;q_ in POc, and neither the Micronesian forms nor the Nakanai form are plausible reflexes of POc _&ast;[s,j]uli(q)_.
 
-<table id="3-4-2-6-110-POc-qili-a">
+<table class="cognateset" id="3-4-2-6-110-POc-qili-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1954,7 +1955,7 @@ A third possible POc term for the new growth of plants is _&ast;rama_. This is n
 
 <a id="p-111"></a>
 
-<table id="3-4-2-6-111-POc-rama-a">
+<table class="cognateset" id="3-4-2-6-111-POc-rama-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1984,7 +1985,7 @@ A third possible POc term for the new growth of plants is _&ast;rama_. This is n
 
 Taro is propagated by planting either the tops of large corms or the small suckers which grow from the side of the corm, and POc _&ast;up(e,a)_ denoted this planting material. Its reflexes sometimes denote propagation material for plants other than taro.
 
-<table id="3-4-2-6-111-POc-upea-a">
+<table class="cognateset" id="3-4-2-6-111-POc-upea-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2042,7 +2043,7 @@ Taro is propagated by planting either the tops of large corms or the small sucke
 
 POc also appears to have had a couple of verbal terms that denoted new growth, including _&ast;tupul_ 'to send out new growth' ([French-Wright 1983](../sources/FrenchWright1983): 78) and _&ast;pʷer(e)_ 'to sprout, grow' (see [vol.1, ch.5, §9](../contributions/1-5#s-9) for the reconstruction of other terms denoting growth).[^11]
 
-<table id="3-4-2-6-111-POc-tupul-a">
+<table class="cognateset" id="3-4-2-6-111-POc-tupul-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2067,7 +2068,7 @@ POc also appears to have had a couple of verbal terms that denoted new growth, i
 
 
 
-<table id="3-4-2-6-111-POc-pere-a">
+<table class="cognateset" id="3-4-2-6-111-POc-pere-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2106,7 +2107,7 @@ POc also appears to have had a couple of verbal terms that denoted new growth, i
 
 <a id="p-112"></a>
 
-<a id="table-4"> </a>
+<a id="table-4.10"> </a>
 
 : Table 4.10      Terms for flowers in Nduke, Wayan Fijian and Tikopia
 
@@ -2135,7 +2136,7 @@ Oceanic languages tend to have a general term that refers to blooms of any kind,
 
 POc appears to have had two general terms for flower, _&ast;puŋa_, which continues PMP _&ast;buŋa_, and _&ast;sē_, and it is not clear how they differed. Both forms are reflected most widely in Eastern Oceanic languages; in fact I have found no Western Oceanic cognates of _&ast;puŋa_ and only one of _&ast;sē_.
 
-<table id="3-4-2-7-112-POc-pua-a">
+<table class="cognateset" id="3-4-2-7-112-POc-pua-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2201,7 +2202,7 @@ POc appears to have had two general terms for flower, _&ast;puŋa_, which contin
 
 The Fijian, Polynesian and Nakanai forms below suggest the reconstruction of _&ast;see_ 'flower' with a long vowel, but no contrast between short and long vowels is reconstructed for POc. Possibly the POc form was _&ast;seqe_ as loss of _&ast;q_ is a regular change in all the languages which reflect it. But this raises a further phonological question. POc _&ast;e_ reflects PMP _&ast;-ay_ which only occurred word-finally. It is possible that the first vowel of the POc form was not _&ast;e_, and that in Nakanai and Proto Central Pacific a sequence of unlike vowels, perhaps resulting from the loss of medial _&ast;q_, merged as _ee_. However, without further cognates, these comments are purely speculative and it can simply be noted that POc _&ast;see_ 'flower' is a non-canonic form which may need revision if additional reflex1es are found.
 
-<table id="3-4-2-7-113-POc-see-a">
+<table class="cognateset" id="3-4-2-7-113-POc-see-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2240,7 +2241,7 @@ The Fijian, Polynesian and Nakanai forms below suggest the reconstruction of _&a
 
 A very similar form, _&ast;sei_, appears to be reconstructable for Proto Central Pacific, although the original meaning is not entirely obvious. In Fijian reflexes refer to the flower of the pandanus and in Polynesian languages reflexes refer to flowers that are used as ornaments behind the ear or in the hair.
 
-<table id="3-4-2-7-113-PCP-sei-a">
+<table class="cognateset" id="3-4-2-7-113-PCP-sei-a">
 <tr>
 <td><strong>PCP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2291,7 +2292,7 @@ Just as with leaf terms, modern Oceanic languages tend to have one or two more s
 
 <a id="p-114"></a>
 
-<a id="table-4"> </a>
+<a id="table-4.11"> </a>
 
 : Table 4.11     Terms for fruits in Nduke, Wayan Fijian and Tikopia
 
@@ -2329,7 +2330,7 @@ Just as with leaf terms, modern Oceanic languages tend to have one or two more s
 
 The term 'fruit' in English has a number of senses, including: '1. vegetable products in general, that are fit to be used as food by men and animals … 2. the edible product of a plant or tree, consisting of the seed and its envelope, esp. the latter when it is of juicy pulpy nature … 5. the seed of a plant or tree regarded as the means of reproduction, together with its envelope' (OED). With terms glossed as 'fruit' in the dictionaries of Oceanic languages it is often difficult to determine which of the English senses are present in the meaning of the Oceanic term. [Ross](../sources/Ross1996d) ([1996d](../sources/Ross1996d): 208-209) concludes that POc _&ast;puaq_, the general term for 'fruit', denoted fruit as a plant part and plant product, rather than a food category. The number of reflexes of _&ast;puaq_ that are glossed as 'seed' suggests that its meaning encompassed both the seed and its envelope (see [§2.9](../contributions/3-4#s-2-9)).
 
-<table id="3-4-2-8-115-POc-puaq-a">
+<table class="cognateset" id="3-4-2-8-115-POc-puaq-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2455,7 +2456,7 @@ The term 'fruit' in English has a number of senses, including: '1. vegetable pro
 
 POc also had several terms that for clusters or bunches of fruit. The most general of these, _&ast;puŋu_, denoted a bunch or cluster of any kind of fruit or nuts.
 
-<table id="3-4-2-8-116-POc-puu-a">
+<table class="cognateset" id="3-4-2-8-116-POc-puu-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2522,7 +2523,7 @@ POc also had several terms that for clusters or bunches of fruit. The most gener
 
 POc _&ast;jamu(qa,a)_, on the other hand, apparently referred to clusters of fruit, or flowers, on palms. This term is reflected with such a meaning in Kairiru, Rotuman and Rarotongan, but in other languages, such as Wayan and Tikopia, reflexes have come to denote the spathe or the covering of a coconut flower cluster. The addition of this latter meaning appears to be restricted to Central Pacific languages, and so is not reconstructed as a secondary meaning for the POc term. The Polynesian forms here are taken to be reflexes that have undergone metathesis ([Geraghty 1986](../sources/Geraghty1986): 301).
 
-<table id="3-4-2-8-116-POc-jamuqaa-a">
+<table class="cognateset" id="3-4-2-8-116-POc-jamuqaa-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2572,7 +2573,7 @@ POc _&ast;jamu(qa,a)_, on the other hand, apparently referred to clusters of fru
 
 POc also had a distinct term, _&ast;qitiŋ_, that denoted a hand or bunch of bananas. The balance of the evidence suggests that 'hand' was the usual meaning.
 
-<table id="3-4-2-8-117-POc-qiti-a">
+<table class="cognateset" id="3-4-2-8-117-POc-qiti-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2618,7 +2619,7 @@ POc also had a distinct term, _&ast;qitiŋ_, that denoted a hand or bunch of ban
 
 Also attributable to POc is a distinct term for the stem of fruit, probably denoting bananas in particular.[^13]
 
-<table id="3-4-2-8-117-POc-kulo-a">
+<table class="cognateset" id="3-4-2-8-117-POc-kulo-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2659,7 +2660,7 @@ Also attributable to POc is a distinct term for the stem of fruit, probably deno
 
 <a id="p-118"></a>
 
-<a id="table-4"> </a>
+<a id="table-4.12"> </a>
 
 : Table 4.12     Terms for seeds in Nduke, Wayan Fijian and Tikopia
 
@@ -2680,7 +2681,7 @@ Also attributable to POc is a distinct term for the stem of fruit, probably deno
 
 In a number of modern Oceanic languages, including Manam, Carolinian and Tikopia, reflexes of POc _&ast;patu_ 'stone' are polysemous and can also refer to the seeds of plants. In other languages, such as Lukep, Marovo and Emae, reflexes of POc _&ast;patu_ appear to have lost the 'stone' meaning and remain as distinct terms for 'seed'. While it is possible that the shift from the meaning 'stone' to that of 'seed' occurred independently in different groups of Oceanic languages, it seems probable that POc _&ast;patu_ was polysemous and could denote both stones and the seeds of plants. The most natural polysemy of _&ast;patu_ would have been 'stone' and 'large stone-like seeds'. The Lukep, Kiribati and Samoan reflexes suggest that _&ast;patu_ may have also denoted small seeds such as those of melons and citrus fruits, but it is not clear if _&ast;patu_ could refer to the seeds of all plants.
 
-<table id="3-4-2-9-118-POc-patu-a">
+<table class="cognateset" id="3-4-2-9-118-POc-patu-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2753,7 +2754,7 @@ In a number of modern Oceanic languages, including Manam, Carolinian and Tikopia
 
 [Holzknecht](../sources/Holzknecht1989) ([1989](../sources/Holzknecht1989): 87) presents data from a number of Markham (NNG) languages to support the reconstruction of POc _&ast;lija(n)_ 'seed', the primary meaning of which was probably 'nit, louse egg' ([Ross 1989b](../sources/Ross1989b): 481-482). More detailed Oceanic data indicates that the POc form was _&ast;lisaq_ 'nit, louse egg', reflecting an earlier PAn term _&ast;liseqeS_ 'nit, louse egg' ([Blust 2002](../sources/Blust2002)), and that a second form, _&ast;lejaŋ_ 'nit', is reconstructable for PWOc. Reflexes of POc _&ast;lisaq_ 'nit, louse egg' with the meaning 'seed' occur in Sa'a (SES) and Wusi (NCV), so it is possible that this was a secondary meaning in PEOc. The exact reference of PEOc _&ast;lisa_ 'seed' is unclear, but it probably denoted small seeds like grain at least, and may have referred more generally to the seeds of plants. The 'seed' meaning of reflexes of PWOc _&ast;lejan_ in several Markham (NNG) languages, including Adzera _niju-n_ 'seed' and N Watut _nejo_ 'seed', indicate that a similar shift in meaning has also occurTed with reflexes of this form.
 
-<table id="3-4-2-9-119-PEOc-lisa-a">
+<table class="cognateset" id="3-4-2-9-119-PEOc-lisa-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2851,7 +2852,7 @@ As noted in [§2.8](../contributions/3-4#s-2-8), POc _&ast;puaq_ was another ter
 
 The data given by [Ross](../sources/Ross1996d) ([1996d](../sources/Ross1996d): 188) allow the reconstruction of PWOc _&ast;kalijo_ 'edible kernel of breadfruit segments', but no term with this meaning is reconstructable for POc.
 
-<table id="3-4-2-9-119-PWOc-kalijo-a">
+<table class="cognateset" id="3-4-2-9-119-PWOc-kalijo-a">
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2905,7 +2906,7 @@ The data given by [Ross](../sources/Ross1996d) ([1996d](../sources/Ross1996d): 1
 
 The breadfruit is a syncarp, a compound fruit with many segments arranged around the core, which itself is the spike of the original flower. POc _&ast;malo-_ denoted both the flower spike and the fruit core.
 
-<table id="3-4-2-9-120-POc-malo-a">
+<table class="cognateset" id="3-4-2-9-120-POc-malo-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2943,7 +2944,7 @@ This section looks at terms for the outer coverings of parts of plants, such as 
 
 In many modern Oceanic languages the same word is used for skin (of animals and people), skin of fruit and bark (of trees), e.g. Xaraciuu _kä_ 'skin, hide; bark, peel (of fruit)', Iduna _kwafilina_ 'skin (of fruit, plants, animals); bark of tree ', Mangseng _peti_ 'skin, peel, bark' and Labu _anasɔ_ 'skin; bark; peel'. And this also appears to have been true of POc _&ast;kulit_. Also reconstructable for POc (and PMP) is a verbal derivative _&ast;kulit-i-_, with the transitive suffix _&ast;-i_, denoting the removal of skin or bark.
 
-<table id="3-4-2-10-120-POc-kulit-a">
+<table class="cognateset" id="3-4-2-10-120-POc-kulit-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -3062,7 +3063,7 @@ In many modern Oceanic languages the same word is used for skin (of animals and 
 
 <a id="p-121"></a>
 
-<a id="table-4"> </a>
+<a id="table-4.13"> </a>
 
 : Table 4.13   Terms for outer coverings in Nduke, Wayan Fijian and Tikopia
 
@@ -3095,7 +3096,7 @@ In many modern Oceanic languages the same word is used for skin (of animals and 
 
 In PROc there is evidence for doublet forms _&ast;kulit_ and _&ast;kilit_, with _&ast;kilit_ reflected in Namakir of North Central Vanuatu, Western Micronesian languages and Polynesian languages. However, it is likely that these reflect independent developments in Proto Micronesian, Namakir and PPn.
 
-<table id="3-4-2-10-122-PROc-kilit-a">
+<table class="cognateset" id="3-4-2-10-122-PROc-kilit-a">
 <tr>
 <td><strong>PROc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -3170,7 +3171,7 @@ Specific terms for the outer coverings of different parts of the coconut are als
 ### 2.11. Sap, resin
 
 
-<a id="table-4"> </a>
+<a id="table-4.14"> </a>
 
 : Table 4.14   Terms for sap or resin in Nduke, Wayan Fijian and Tikopia
 
@@ -3191,7 +3192,7 @@ Specific terms for the outer coverings of different parts of the coconut are als
 
 The Oceanic data, shown in the cognate set below, suggest the reconstruction of POc _&ast;bulut_, and perhaps of a variant POc _&ast;bulit_, referring to the sap of plants and other sticky substances. It was also apparently an Undergoer subject verb 'to be sticky' with a corresponding transitive form _&ast;bulut-i-_ 'to stick something to something'. Reflexes of _&ast;bulut_ in a number of Oceanic languages have narrower meanings than that reconstructed for POc, denoting kinds of sap that have a particular purpose. For example, 'Are'are _purui_ and Sa'a _pulu_ denote the use of putty nut gum to caulk canoes. Samoan _pulu_ also denotes the substance used for caulking, in this case, breadfruit sap, and Mota _pulu_ and NE Ambae _bulu_ denote the sap of the _Canarium_ almond which is used for tattooing.
 
-<table id="3-4-2-11-123-POc-buliut-a">
+<table class="cognateset" id="3-4-2-11-123-POc-buliut-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -3347,7 +3348,7 @@ As can be seen from [Table 4.15](#table-4.15) Wayan, Tikopia and Nduke all have 
 
 Proto Austronesian _&ast;Cenek_ 'thorn' (ACD) appears to be reflected within Oceanic only by the Bauan Fijian verb _tono-ka_ 'to pierce, poke'. [Ross](../sources/Ross1996d) ([1996d](../sources/Ross1996d): 189) reconstructs _&ast;ruRi_ as the general term for thorns and spines in POc, noting that some reflexes (e.g. Lou and Lukep) refer specifically to the barbs of sago leaves and bark, and the Titan reflex to the sago plant itself. Reflexes of this term have only been found in Admiralty, North New Guinea and Papuan Tip languages. While Bilibil, Takia and Kis and Gapapaiwa reflect POc _&ast;druRi_, Numbami and Mapos-Buang and Iduna reflect _&ast;ruRi_, and the Admiralty forms are compatible with either _&ast;ruRi_ or _&ast;druRi_.
 
-<table id="3-4-2-12-125-POc-drruri-a">
+<table class="cognateset" id="3-4-2-12-125-POc-drruri-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -3409,7 +3410,7 @@ Proto Austronesian _&ast;Cenek_ 'thorn' (ACD) appears to be reflected within Oce
 
 [Blust](../sources/Blust1976b) ([1976b](../sources/Blust1976b)) reconstructs POc _&ast;poto(k)_ 'thorn, barb of stingray'. However, while the 'thorn' meaning is well-supported, the 'stingray barb' meaning appears to be restricted to Central Pacific languages, and so may not have been present in POc.
 
-<table id="3-4-2-12-125-POc-potok-a">
+<table class="cognateset" id="3-4-2-12-125-POc-potok-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">

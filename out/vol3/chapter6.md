@@ -1,5 +1,6 @@
-[Malcolm Ross](.smallcaps)
+[Malcolm Ross]{.smallcaps}
 
+<!--start-->
 
 <a id="s-1"></a>
 
@@ -58,7 +59,7 @@ The Bola of New Britain use _Rhizophora_ species as building timber ([Powell 197
 
 The Proto Oceanic (POc) term for _Rhizophora_ species was perhaps POc _&ast;wako(t)_, repeated here from [ch.4, §2.4](../contributions/3-4#s-2-4). Since it is _Rhizophora_ species that have stilt roots, it is likely that the intended meaning of 'mangrove' in these glosses is _Rhizophora_, and the glosses of the Tawala, Mokilese and Ponapean reflexes suggest that POc _&ast;wako(t)_ may have been used metonymically for the whole tree and not just the roots.
 
-<table id="3-6-2-1-175-POc-wakot-a">
+<table class="cognateset" id="3-6-2-1-175-POc-wakot-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -96,7 +97,7 @@ The Proto Oceanic (POc) term for _Rhizophora_ species was perhaps POc _&ast;wako
 
 PWOc _&ast;baul_ perhaps denoted _Rhizophora_: its Tolai reflex, _baul_ 'mangrove, _Rhizophora_ apiculata', contrasts with _toŋor_, the generic term for mangroves including both _Rhizophora_ and _Bruguiera_ species.
 
-<table id="3-6-2-1-175-PWOc-baul-a">
+<table class="cognateset" id="3-6-2-1-175-PWOc-baul-a">
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -166,7 +167,7 @@ The wood of _Bruguiera gymnorrhiza_ is hard, but it is not durable in water and 
 
 POc _&ast;toŋoR_ was fairly clearly the generic term for mangroves. It also seems to have been the term for _Bruguiera_ species. This is the denotatum of its reflexes in non-Oceanic languages and in some of the Oceanic languages listed below (and I suspect that where the gloss is simply 'mangrove', this is sometimes simply the result of poor glossing).
 
-<table id="3-6-3-1-176-POc-toor-a">
+<table class="cognateset" id="3-6-3-1-176-POc-toor-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -420,7 +421,7 @@ Two reconstructions are presented below: PWOc _&ast;(p,pʷ)awa(t)_ '_Cerbera_ sp
 
 The initial rounded bilabial of POc _&ast;(p,pʷ)awa(t)_ is reconstructed on the basis of Teop _p-_ (the usual Teop reflex of _&ast;p_ is _v-_. The final _&ast;-t_ is uncertain because it is reflected in Misima, but not where it is also expected, in Teop, Nduke, Roviana and Marovo.
 
-<table id="3-6-4-1-179-POc-ppawat-a">
+<table class="cognateset" id="3-6-4-1-179-POc-ppawat-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -473,7 +474,7 @@ The initial rounded bilabial of POc _&ast;(p,pʷ)awa(t)_ is reconstructed on the
 
 
 
-<table id="3-6-4-1-179-PCP-rewa-a">
+<table class="cognateset" id="3-6-4-1-179-PCP-rewa-a">
 <tr>
 <td><strong>PCP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -550,7 +551,7 @@ It is used in New Ireland to make propeller-like shark fishing floats ([Peekel 1
 
 <a id="p-180"></a>
 
-<table id="3-6-4-2-180-POc-tui-a">
+<table class="cognateset" id="3-6-4-2-180-POc-tui-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -629,7 +630,7 @@ _Excoecaria agallocha_ is a shrub or small tree with a thick trunk that mostly g
 
 <a id="p-181"></a>
 
-<table id="3-6-4-3-181-POc-dotoq-a">
+<table class="cognateset" id="3-6-4-3-181-POc-dotoq-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -725,7 +726,7 @@ The cognate set below has few members, but they are widespread enough to support
 
 <a id="p-182"></a>
 
-<table id="3-6-4-4-182-POc-kayuqone-a">
+<table class="cognateset" id="3-6-4-4-182-POc-kayuqone-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -750,7 +751,7 @@ The cognate set below has few members, but they are widespread enough to support
 
 
 
-<table id="3-6-4-4-182-PSES-qoneqone-a">
+<table class="cognateset" id="3-6-4-4-182-PSES-qoneqone-a">
 <tr>
 <td><strong>PSES</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -786,7 +787,7 @@ Its fronds are used for matting ([Peekel 1984](../sources/Peekel1984): 66) and f
 
 Final POc _&ast;-q_ of _&ast;nipaq_ is attested by the presence of paragogic _-i_ in Saliba, which occurs only after a present or earlier word-final consonant.
 
-<table id="3-6-4-5-182-POc-nipaq-a">
+<table class="cognateset" id="3-6-4-5-182-POc-nipaq-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -855,7 +856,7 @@ _Xylocarpus granatum_ and _Xylocarpus moluccensis_ are foreshore trees or shrubs
 
 POc _&ast;tapi(l)_ is problematic because only the Muyuw reflex has a secure gloss, and because Gela _tavili_ - if it is cognate - reflects a POc final consonant and a paragogic _-i_, suggesting that it is a loan from a nearby NW Solomonic language. The only secure reconstruction is PCP _&ast;legi-legi_ 'puzzlenut tree, _Xylocarpus granatum_'.
 
-<table id="3-6-4-6-183-POc-tapil-a">
+<table class="cognateset" id="3-6-4-6-183-POc-tapil-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -880,7 +881,7 @@ POc _&ast;tapi(l)_ is problematic because only the Muyuw reflex has a secure glo
 
 
 
-<table id="3-6-4-6-183-PCP-legilegi-a">
+<table class="cognateset" id="3-6-4-6-183-PCP-legilegi-a">
 <tr>
 <td><strong>PCP</strong></td><td> </td>
 <td style="white-space: nowrap;">

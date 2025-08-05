@@ -1,5 +1,6 @@
-[Malcolm Ross and Bethwyn Evans](.smallcaps)
+[Malcolm Ross and Bethwyn Evans]{.smallcaps}
 
+<!--start-->
 
 <a id="s-1"></a>
 
@@ -21,7 +22,7 @@ Just about every part of the palm and the fruit is used in traditional societies
 
 <a id="s-2-1"></a>
 
-### 2.1. _Cocos nucifera_, coconut, TP, Bkokonas, P kokonat (Arecaceae)
+### 2.1. _Cocos nucifera_, coconut, TP, B _kokonas_, P _kokonat_ (Arecaceae)
 
 
 POc _&ast;niuR_ appears to have been used in at least two senses: the fruit at any stage of growth, and the palm. A number of the glosses below are simply 'coconut': in all these cases the gloss almost certainly denotes both the fruit and the palm.
@@ -29,7 +30,7 @@ POc _&ast;niuR_ appears to have been used in at least two senses: the fruit at a
 
 <a id="p-356"></a>
 
-<table id="3-12-2-1-356-POc-niur-a">
+<table class="cognateset" id="3-12-2-1-356-POc-niur-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -361,7 +362,7 @@ Two intermediate growth stages are of particular importance to coconut consumers
 
 <a id="p-361"></a>
 
-<a id="table-12"> </a>
+<a id="table-12.1"> </a>
 
 : Table 12.1  Rough comparison of coconut growth stage terms in seven Oceanic languages
 
@@ -415,7 +416,7 @@ Reconstructions for the four landmark stages, 2, 6, 9 and 12, are presented firs
 
 Two weakly supported etyma, POc _&ast;(q)a-bʷaji_ and PEOc _&ast;kiripʷa_, can be offered for stage 2, 'very small newly formed fruit'.[^8] The former may contain the root _&ast;bʷaji_, which also occurs in POc _&ast;bʷaji-bʷaji_ 'coconut growth stage 4 or 5' ([§3.6](../contributions/3-12#s-3-6)).
 
-<table id="3-12-3-2-362-POc-qabaji-a">
+<table class="cognateset" id="3-12-3-2-362-POc-qabaji-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -435,7 +436,7 @@ Two weakly supported etyma, POc _&ast;(q)a-bʷaji_ and PEOc _&ast;kiripʷa_, can
 
 
 
-<table id="3-12-3-2-362-PEOc-kiripa-a">
+<table class="cognateset" id="3-12-3-2-362-PEOc-kiripa-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -470,7 +471,7 @@ Two weakly supported etyma, POc _&ast;(q)a-bʷaji_ and PEOc _&ast;kiripʷa_, can
 
 Two forms can be reconstructed for landmark stage 6, 'green drinkable coconut with thin creamy flesh'. The first, POc _&ast;karut_,[^9] has the best distributed support, but it is not as widely reflected as stage 9 terms, a fact that is surprising (and unexplained) in light of the salience of stage 6 in Oceanic cultures.
 
-<table id="3-12-3-3-363-POc-karut-a">
+<table class="cognateset" id="3-12-3-3-363-POc-karut-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -509,7 +510,7 @@ Two forms can be reconstructed for landmark stage 6, 'green drinkable coconut wi
 
 The other term, _&ast;polo_, is less well reflected. Glosses pointing to growth stage 6 occur only in southern New Ireland, and we cannot be sure what it denoted.
 
-<table id="3-12-3-3-363-POc-polo-a">
+<table class="cognateset" id="3-12-3-3-363-POc-polo-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -549,7 +550,7 @@ The other term, _&ast;polo_, is less well reflected. Glosses pointing to growth 
 
 Reconstructable terms for stage 9, 'ripe, flesh hardened', are POc _&ast;matuqu_, POc _&ast;kulu_ and POc _&ast;maRaŋo_. Reflexes of POc _&ast;matuqu_ have become the generic term for coconut in a number of languages, suggesting that in the minds of speakers it is this stage that is prototypical of the coconut. It is clearly the most useful, as the flesh is used for various culinary purposes.
 
-<table id="3-12-3-4-363-POc-matuqu-a">
+<table class="cognateset" id="3-12-3-4-363-POc-matuqu-a">
 <tr>
 <td><strong>PEMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -682,7 +683,7 @@ Reconstructable terms for stage 9, 'ripe, flesh hardened', are POc _&ast;matuqu_
 
 The Fijian gloss below calls into question the gloss of POc _&ast;kulu_. However, a reflex of this term has become the Araki generic for 'coconut', and this is something that happens quite commonly to terms for ripe coconut. The Kuni and Roro terms reflect _&ast;-r-_ or _&ast;-R-_, not _&ast;-l-_.
 
-<table id="3-12-3-4-364-POc-kulu-a">
+<table class="cognateset" id="3-12-3-4-364-POc-kulu-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -747,7 +748,7 @@ On balance the data now available suggest that my assumption in vol. 2 was wrong
 
 Other than the items mentioned in the previous paragraph, none of the items below is diagnostic of the difference between POc _&ast;-R-_ and _&ast;-r-_ except for Niuean and Samoan _maŋo_ 'dry', and these reflect _&ast;-R-_ (with a zero reflex), not _&ast;-r-_ as their meaning would lead us to expect. Also noteworthy is the odd fact that PMP _&ast;(ma)Raŋaw_ 'dry' contains _&ast;-R-_ whilst the POc etymon of similar meaning contains _&ast;-r-_. In both cases speakers seem to have conflated or confused the two etyma.
 
-<table id="3-12-3-4-365-POc-marao-a">
+<table class="cognateset" id="3-12-3-4-365-POc-marao-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -827,7 +828,7 @@ Other than the items mentioned in the previous paragraph, none of the items belo
 
 
 
-<table id="3-12-3-4-365-POc-marao-b">
+<table class="cognateset" id="3-12-3-4-365-POc-marao-b">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -946,7 +947,7 @@ The cognate set below apparently reflects POc _&ast;tubuq_ 'grow, swell' ([vol.1
 
 POc _&ast;tabʷa_ 'coconut growth stage 12: sprouted' is formally similar to but almost certainly distinct from the set above. There are two difficulties with this set. First, the NNG and NCV glosses denote a later growth stage. Second, the Polynesian items reflect a form with POc _&ast;-p-_ rather than _-bʷ-_.
 
-<table id="3-12-3-5-366-POc-taba-a">
+<table class="cognateset" id="3-12-3-5-366-POc-taba-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1030,7 +1031,7 @@ Reconstructing the meanings of growth stage terms which fall between the landmar
 
 Three terms, POc _&ast;kubu_, POc _&ast;bʷaji-bʷaji_ and PWOc _&ast;pʷiga_, denoted a stage when the coconut is young and green, somewhere among stages 3, 4 and 5. In the set supporting POc _&ast;kubu_ the meanings of the Oceanic glosses vary from stage 2, 'newly formed fruit' (Arosi), to stage 9, 'mature coconut with meat' (Wuvulu). However, they point in the direction of a young coconut, and one that is younger than a typical drinking coconut.
 
-<table id="3-12-3-6-367-POc-kubu-a">
+<table class="cognateset" id="3-12-3-6-367-POc-kubu-a">
 <tr>
 <td><strong>PEMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1108,7 +1109,7 @@ Three terms, POc _&ast;kubu_, POc _&ast;bʷaji-bʷaji_ and PWOc _&ast;pʷiga_, d
 
 POc _&ast;bʷaji-bʷaji_ appears to have denoted either stage 4 (young, green, liquid but no flesh yet) or stage 5 (green, drinkable, very soft flesh), but it is not widely enough reflected for us to be sure.
 
-<table id="3-12-3-6-367-POc-bajibaji-a">
+<table class="cognateset" id="3-12-3-6-367-POc-bajibaji-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1145,7 +1146,7 @@ POc _&ast;bʷaji-bʷaji_ appears to have denoted either stage 4 (young, green, l
 
 [Ross](../sources/Ross1996d) ([1996d](../sources/Ross1996d)) suggested that the cognate set reflecting PWOc _&ast;pʷiga_ implied a stage 5 meaning 'just drinkable' because in both PT languages and Roviana we find the apparently independent semantic development in meaning to 'drinking vessel'. The element _ku-_ in Ramoaaina _ku-bika_ occurs in coconut terms in a number of Meso-Melanesian languages, and it is evidently cognate with Nehan _ku_ 'coconut oil'. The prefixed element in the Muyuw and Dobu terms may or may not be cognate.
 
-<table id="3-12-3-6-368-PWOc-piga-a">
+<table class="cognateset" id="3-12-3-6-368-PWOc-piga-a">
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1191,7 +1192,7 @@ POc _&ast;bʷaji-bʷaji_ appears to have denoted either stage 4 (young, green, l
 
 In [vol. 2 (ch. 7, §5.6](../contributions/2-7#s-5-6)) POc _&ast;goRu_ 'dry, of vegetation; coconut growth stage: dry and ready to fall' was reconstructed. This gloss places a lot of weight on the Mota gloss: taken together the glosses suggest a stage 9 or 10 meaning, i.e. either 'ripe' or 'dry and ready to fall' . Lavukaleve, the non-Austronesian language of the Russell Islands (central Solomons) has _ŋgolus_ 'old dry coconut' (Angela Terrill, pers. comm.), apparently borrowed from a NW Solomonic language that regularly retained POc final consonants. For this reason, we tentatively reconstruct POc final _&ast;-s_ here.
 
-<table id="3-12-3-6-368-POc-magorus-a">
+<table class="cognateset" id="3-12-3-6-368-POc-magorus-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1267,7 +1268,7 @@ The fruit parts for which reconstructions are provided here are thus:
 
 POc _&ast;suRuq_ appears to have denoted drinkable liquids in general, including soups, but perhaps excluding plain water: its range clearly included coconut water. No more specialised designation for coconut water has been reconstructed, and it seems likely that the terms for a green drinking coconut ([§3.3](../contributions/3-12#s-3-3)) were also used for the water inside it.[^13]
 
-<table id="3-12-4-1-369-POc-suruq-a">
+<table class="cognateset" id="3-12-4-1-369-POc-suruq-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1380,7 +1381,7 @@ POc _&ast;suRuq_ appears to have denoted drinkable liquids in general, including
 
 The weakly attested etymon POc _&ast;namo_ may have denoted 'coconut water' or a drinkable growth stage.
 
-<table id="3-12-4-1-370-POc-namo-a">
+<table class="cognateset" id="3-12-4-1-370-POc-namo-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1414,7 +1415,7 @@ When the coconut is ripe, the hardened flesh is either removed from the shell an
 
 The best candidate for 'coconut flesh' is POc _&ast;kanoŋ_, a fossilised reflex of PMP _&ast;kan-en_ 'something to be eaten, food', itself a nominalisation of the PMP verb 'eat', _&ast;kaʔen_, or _&ast;kan_ in the context of certain affixes. POc _&ast;kanoŋ_ had evidently lost its expected sense and denoted 'flesh, inner substance, coconut flesh'. The morphology of POc nominalisations is discussed in [vol.1 (ch.2, §3.2.1](../contributions/1-2#s-3-2-1)).[^15]
 
-<table id="3-12-4-2-370-POc-kano-a">
+<table class="cognateset" id="3-12-4-2-370-POc-kano-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1493,7 +1494,7 @@ The best candidate for 'coconut flesh' is POc _&ast;kanoŋ_, a fossilised reflex
 
 PWOc _&ast;lamati_ seems to have designated dry coconut flesh, but has undergone a two-step semantic shift, first a metonymic shift to 'dry coconut', then genericisation to 'coconut'.
 
-<table id="3-12-4-2-371-PWOc-lamati-a">
+<table class="cognateset" id="3-12-4-2-371-PWOc-lamati-a">
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1547,7 +1548,7 @@ PWOc _&ast;lamati_ seems to have designated dry coconut flesh, but has undergone
 
 The reconstructions below relate to the process of squeezing coconut flesh to produce coconut cream, and of boiling it to make coconut oil. The data point to a POc verb _&ast;puro_, either 'scrape coconut' or 'squeeze coconut milk onto food' and a corresponding nominalisation _&ast;puro-ŋ_ denoting the products of this activity. The Admiralties reflexes support reconstruction of _&ast;-r-_ rather than _&ast;-R-_.
 
-<table id="3-12-4-2-371-POc-puro-a">
+<table class="cognateset" id="3-12-4-2-371-POc-puro-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1611,7 +1612,7 @@ The reconstructions below relate to the process of squeezing coconut flesh to pr
 
 The distinction between 'coconut cream' and 'coconut milk' is fuzzy. The cream is the first product of squeezing, whereas the milk is the product of further squeezing after water has been added (M. [Foale 2003](../sources/Foale2003): 87). The POc term for coconut milk and coconut cream was _&ast;g(o,u)reŋ_ 'coconut milk, coconut cream', also apparently a nominalisation, but one for which no corresponding verb is known.
 
-<table id="3-12-4-2-372-POc-goure-a">
+<table class="cognateset" id="3-12-4-2-372-POc-goure-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1689,7 +1690,7 @@ The distinction between 'coconut cream' and 'coconut milk' is fuzzy. The cream i
 
 Coconut oil, produced by boiling the milk, was apparently regarded as a form of POc _&ast;moñak_, which denoted fatty, creamy or oily substances which tasted good.
 
-<table id="3-12-4-2-372-POc-monak-a">
+<table class="cognateset" id="3-12-4-2-372-POc-monak-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1767,7 +1768,7 @@ Distinguishing growth stage 12, the sprouted coconut, from the 'apple' inside it
 
 The reconstruction of POc _&ast;paraq_ entails a small phonological puzzle. For PMP Blust (ACD) reconstructs _&ast;para_ 'coconut embryo' without _&ast;-q_ because it is not reflected in non-Oceanic cognates. However, Iduna and Kilivila (PT), Tolai (MM) and Southern Vanuatu reflexes all point to its presence in POc _&ast;paraq_.
 
-<table id="3-12-4-3-373-POc-paraq-a">
+<table class="cognateset" id="3-12-4-3-373-POc-paraq-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1977,7 +1978,7 @@ The reconstruction of POc _&ast;paraq_ entails a small phonological puzzle. For 
 
 We observed above that POc _&ast;paraq_ 'coconut embryo' was also used to refer to the brain. POc _&ast;qutok_ 'brain, pith, marrow' had a similar, but not identical, span of meanings, denoting the soft inner contents of a tree or palm trunk, canes, bones, and sprouting coconuts, as well as the contents of the human head. Glosses with meanings other than brain or head are shown in italics.
 
-<table id="3-12-4-3-374-POc-qutok-a">
+<table class="cognateset" id="3-12-4-3-374-POc-qutok-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2133,7 +2134,7 @@ We observed above that POc _&ast;paraq_ 'coconut embryo' was also used to refer 
 
 The less widely reflected terms PAdm _&ast;puto-_, POc _&ast;pʷiras_ and PWOc _&ast;gawa_ also seem to have had 'coconut apple' as their principal denotation. Despite its formal similarity to POc _&ast;qutok_ above, PAdm _&ast;puto-_ 'spongy mass inside sprouting nut' appears to be a separate item, the reflexes of which denote only the inside of the sprouted coconut.[^16]
 
-<table id="3-12-4-3-375-PAdm-puto-a">
+<table class="cognateset" id="3-12-4-3-375-PAdm-puto-a">
 <tr>
 <td><strong>PAdm</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2153,7 +2154,7 @@ The less widely reflected terms PAdm _&ast;puto-_, POc _&ast;pʷiras_ and PWOc _
 
 
 
-<table id="3-12-4-3-375-POc-piras-a">
+<table class="cognateset" id="3-12-4-3-375-POc-piras-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2213,7 +2214,7 @@ The less widely reflected terms PAdm _&ast;puto-_, POc _&ast;pʷiras_ and PWOc _
 
 <a id="p-376"></a>
 
-<table id="3-12-4-3-376-PWOc-gawa-a">
+<table class="cognateset" id="3-12-4-3-376-PWOc-gawa-a">
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2251,7 +2252,7 @@ Fibre from coconut husks ('coir' < Malay _kayar_ 'rope') is used for floor matti
 
 Doublet forms, POc _&ast;punut_ and _&ast;pʷenu(t)_, both 'coconut husk', appear to be reconstructable. Blust (ACD) also reconstructs the PMP doublets _&ast;bunut_ and _&ast;benut_. PMP _&ast;bunut_ is clearly the source of POc _&ast;punut_, but PMP _&ast;benut_ is just as clearly not the source of _&ast;pʷenu(t)_, as its expected POc reflex would be †_&ast;ponut_. Instead, _&ast;pʷenu(t)_ reflects a shift of the rounding feature of _&ast;-u-_ forward to _&ast;p-_. The change is not regular, and perhaps the result of vowel dissimilation. The Nduke, Bugotu, Gela, Longgu and Puluwatese point to an initial labiovelar.
 
-<table id="3-12-4-4-376-POc-punut-a">
+<table class="cognateset" id="3-12-4-4-376-POc-punut-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2348,7 +2349,7 @@ Doublet forms, POc _&ast;punut_ and _&ast;pʷenu(t)_, both 'coconut husk', appea
 
 Evidence for the word-final _&ast;t_ of POc _&ast;pʷenu(t)_ is indirect. The Nduke and Bugotu forms below both support the reconstruction of a final consonant for POc, but neither is a regular reflex of _&ast;pʷenut_.
 
-<table id="3-12-4-4-377-POc-penut-a">
+<table class="cognateset" id="3-12-4-4-377-POc-penut-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2482,7 +2483,7 @@ Whether there was a single POc word denoting a green frond is debatable. Scatter
 
 Possible candidates for this meaning are POc _&ast;usiri_ and PWOc _&ast;pagal_. However, the Tuam and Ramoaaina glosses of reflexes of _&ast;pagal_ suggest that it may have denoted the midrib of the frond or the broad base of the midrib. The Lihir reflex suggests that the denotation may have included palm fronds other than the coconut. The Vaghua, Varisi and Ririo reflexes are irregular in reflecting _-r-_ for expected †_-l-_ and in their denotation: 'branch'. The meaning of POc _&ast;usiri_ is just as problematic.
 
-<table id="3-12-5-1-380-POc-usiri-a">
+<table class="cognateset" id="3-12-5-1-380-POc-usiri-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2516,7 +2517,7 @@ cf. also:
 </table>
 
 
-<table id="3-12-5-1-380-PWOc-pagal-a">
+<table class="cognateset" id="3-12-5-1-380-PWOc-pagal-a">
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2578,7 +2579,7 @@ cf. also:
 
 [Ross](../sources/Ross1996d) ([1996d](../sources/Ross1996d): 204) reconstructed POc _&ast;[pa]paq[a-]_, apparently denoting the frond of any palm. It reflects PMP _&ast;pa(q)paq_ 'frond of a palm' ([Blust 1989](../sources/Blust1989)). There is reasonable evidence that POc _&ast;[pa]paq[a-]_ occurred, but its meaning is unclear. Only the Arosi and Ellicean reflexes mean 'palm frond'. Its Meso-Melanesian reflexes simply mean 'leaf', whilst its Polynesian reflexes imply that PPn _faʔa_ meant the stalk of large leaves of various plants.
 
-<table id="3-12-5-1-380-POc-papaqa-a">
+<table class="cognateset" id="3-12-5-1-380-POc-papaqa-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2690,7 +2691,7 @@ cf. also:
 
 One of the main uses of dry coconut fronds is as torches, and in a number of languages there is a polysemous term meaning 'dry coconut leaf and '(coconut leaf) torch' (e.g. Misima _wita_ '(go) fishing with a lamp; dry coconut leaves; light made by burning dry coconut leaves' and NE Ambae here 'dry coconut leaf; dry coconut leaf lit and used as a torch'). [Milke](../sources/Milke1961) ([1961](../sources/Milke1961)) reconstructs _&ast;sulu(q)_ 'dry coconut leaf torch' for POc (see also [vol.1, ch.6, §2.3](../contributions/1-6#s-2-3)). On the basis of the reflexes of this form it seems likely that as in the case of NE Ambae here, 'dry coconut leaf' was a secondary meaning. Thus, languages like Lukep, Ramoaaina, Uripiv, Mokilese and Tongan have reflexes with both meanings, and in other languages such as Longgu and Southeast Ambrym it is only the coconut leaf meaning which has been retained.
 
-<table id="3-12-5-1-381-POc-suluq-a">
+<table class="cognateset" id="3-12-5-1-381-POc-suluq-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2801,7 +2802,7 @@ cf. also:
 
 PWOc _&ast;daki_ had a similar meaning.
 
-<table id="3-12-5-1-382-PWOc-daki-a">
+<table class="cognateset" id="3-12-5-1-382-PWOc-daki-a">
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2823,7 +2824,7 @@ PWOc _&ast;daki_ had a similar meaning.
 
 POc _&ast;ramaR_ 'coconut leaf used as a torch when fishing', reflecting PMP _&ast;damaR_ 'resin, torch, light', is also reconstructable ([Ross 1996d](../sources/Ross1996d): 205; [vol.1, ch. 8, § 8](../contributions/1-8#s-8)).[^22] All reflexes indicate that this term denoted a torch - and specifically a torch used for fishing - rather just a coconut frond. The Lou and Tongan reflexes suggest that the _&ast;ramaR_ may also have been used as a verb.
 
-<table id="3-12-5-1-382-POc-ramar-a">
+<table class="cognateset" id="3-12-5-1-382-POc-ramar-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2900,7 +2901,7 @@ cf. also:
 
 PWOc _&ast;bita_ appears to have the same range of meaning. Although there are only two known reflexes, the probability of a chance correspondence in form and meaning is so low that we can have reasonable confidence in the reconstruction.
 
-<table id="3-12-5-1-383-PWOc-bita-a">
+<table class="cognateset" id="3-12-5-1-383-PWOc-bita-a">
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2928,7 +2929,7 @@ PWOc _&ast;bita_ appears to have the same range of meaning. Although there are o
 
 Modern languages tend to have a distinctive term for the midrib or spine of a coconut frond, e.g. Iduna _domoluluna_ '(main) stalk of coconut leaf', Nduke _kilikava-_ 'stem of coconut frond, especially at thick end', Wayan Fijian _bālotu_ 'a coconut frond stalk stripped of its leaflets; the stem of the coconut frond, used for firewood and torches'. There are two candidate terms for this meaning, POc _&ast;bala(p,b)a(q)_ and POc _&ast;sasaRi_. Both may have denoted both the palm frond and the midrib - unsurprisingly, as a midrib is accompanied by its leaflets until they are stripped off.
 
-<table id="3-12-5-1-383-POc-balapbaq-a">
+<table class="cognateset" id="3-12-5-1-383-POc-balapbaq-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2987,7 +2988,7 @@ cf. also:
 
 The Fijian reflex of _&ast;sasaRi_ makes the reconstruction of its meaning somewhat unsure.
 
-<table id="3-12-5-1-383-POc-sasari-a">
+<table class="cognateset" id="3-12-5-1-383-POc-sasari-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -3036,7 +3037,7 @@ cf. also:
 
 Our sources often do not distinguish clearly between the frond and the leaflet (both are labelled 'leaf'). The main use of coconut leaflets is that their dried spines are very commonly bound together to make brooms, and terms for the spine or stalk of leaflet typically relate to this use. Thus Manam _sinoka_ 'spine of coconut leaves, used for making brooms', Ramoaaina _noko_ 'broom, coconut leaf spine' and Carolinian sow 'spine of the coconut leaf (used in weaving, making brooms)'. POc _&ast;no(k,g)o_ evidently denoted both the spines and the broom.
 
-<table id="3-12-5-1-384-POc-nokgo-a">
+<table class="cognateset" id="3-12-5-1-384-POc-nokgo-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -3098,7 +3099,7 @@ The protective netting at the base of the new coconut frond has the appearance o
 
 Two POc terms are reconstructable. The first, _&ast;kaka_ seems to have denoted the netting material itself, or perhaps the young frond within it. The second, _&ast;Runut_, perhaps denoted the material in its function as a strainer.[^23] In [vol.1 (ch.6, §5.6](../contributions/1-6#s-5-6)) a metathesised form _&ast;nuRut_ is also reconstructed on the basis of the Motu, Tolai and Mota reflexes. It is possible that this form did indeed occur, but it is also possible that metathesis occurred independently in two or three locations. Misima _lulusi_ and Tawala _luluhi_ are borrowings from a Suauic language like Saliba: the addition of _-i_ after final consonants is unique to Suauic. These two forms and Saliba _lulusi_ all display consonant assimilation (the expected Saliba form is †_lunusi_) and it is impossible to tell whether they reflect _&ast;Runut_ or _&ast;nuRut_.
 
-<table id="3-12-5-2-384-POc-kaka-a">
+<table class="cognateset" id="3-12-5-2-384-POc-kaka-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -3164,7 +3165,7 @@ Two POc terms are reconstructable. The first, _&ast;kaka_ seems to have denoted 
 
 <a id="p-385"></a>
 
-<table id="3-12-5-2-385-POc-runut-a">
+<table class="cognateset" id="3-12-5-2-385-POc-runut-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">

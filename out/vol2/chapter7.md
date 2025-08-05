@@ -1,5 +1,6 @@
-[Malcolm Ross](.smallcaps)
+[Malcolm Ross]{.smallcaps}
 
+<!--start-->
 
 <a id="s-1"></a>
 
@@ -130,7 +131,7 @@ The sound changes in the paragraph above remain tentative, as there are few case
 
 The Mapos Buang and Mumeng Patep forms may be non-cognate, as their final -k reflects POc _&ast;-R_, _&ast;-k_ or _&ast;-q_.
 
-<table id="2-7-2-None-197-POc-lapuat-a">
+<table class="cognateset" id="2-7-2-None-197-POc-lapuat-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -315,7 +316,7 @@ The reconstruction of PPn _&ast;riki_ is complicated by the fact that Tongan has
 
 Also apparently reconstructable are _&ast;drik(i)_, _&ast;liki_, _&ast;siki_ and _&ast;kiki_. Despite their similarity, there is no point in trying to derive these from each other. Rather, the human affection for small creatures, and prototypically for babies, has resulted in the same kind of word play among Oceanic speakers as we hear in English _tiny_, _teeny_, _teeny-weeny_ and _wee_. If we ignore the criteria for reconstructing POc items and look for further candidates for word-play, we find for example _siʔi_ ‘small, younger’ in Tongan, _sisi_ in Futuna-Aniwa (Polynesian), and a long list in Puluwatese: _kitikit_, _iyekkit_, _kikkit_, _lekit_, _rik_, _rirrik_, _mettik_, _rarikrik_. It may well be, for example, that the items listed under _&ast;kiki_ are not due to shared inheritance but to independent parallel word play. It also seems, despite the doubts that have been expressed about this kind of sound symbolism (Hinton, Nichols & Ohala 1994:4), that Oceanic speakers have a preference for the high front vowel in terms for ‘little’, a phenomenon which is common in other areas of the world too ([Ultan 1978](../sources/Ultan1978)).
 
-<table id="2-7-2-None-199-POc-qitik-a">
+<table class="cognateset" id="2-7-2-None-199-POc-qitik-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -406,7 +407,7 @@ Also apparently reconstructable are _&ast;drik(i)_, _&ast;liki_, _&ast;siki_ and
 
 <a id="p-200"></a>
 
-<table id="2-7-2-None-200-POc-rikitq-a">
+<table class="cognateset" id="2-7-2-None-200-POc-rikitq-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -517,7 +518,7 @@ Also apparently reconstructable are _&ast;drik(i)_, _&ast;liki_, _&ast;siki_ and
 
 
 
-<table id="2-7-2-None-200-POc-drikitq-a">
+<table class="cognateset" id="2-7-2-None-200-POc-drikitq-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -561,7 +562,7 @@ Also apparently reconstructable are _&ast;drik(i)_, _&ast;liki_, _&ast;siki_ and
 
 
 
-<table id="2-7-2-None-200-POc-liki-a">
+<table class="cognateset" id="2-7-2-None-200-POc-liki-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -628,7 +629,7 @@ Also apparently reconstructable are _&ast;drik(i)_, _&ast;liki_, _&ast;siki_ and
 
 <a id="p-201"></a>
 
-<table id="2-7-2-None-201-POc-kiki-a">
+<table class="cognateset" id="2-7-2-None-201-POc-kiki-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -693,7 +694,7 @@ Also apparently reconstructable are _&ast;drik(i)_, _&ast;liki_, _&ast;siki_ and
 
 There is good evidence that POc had at least two lexicalised possessee-like attribute constructions, whereby ‘mother of an X’ meant ‘big X’, and ‘child of an X’ meant ‘small X’. A number of Oceanic languages in all three primary subgroups use reflexes of ‘mother of’ and ‘child of’ as the usual adjectives meaning ‘big’ and ‘small’, or perhaps ‘biggest’ and ‘smallest’, respectively.
 
-<table id="2-7-2-None-201-POc-tinana-a">
+<table class="cognateset" id="2-7-2-None-201-POc-tinana-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -853,7 +854,7 @@ Of the three terms for ‘tall’ and ‘long’, _&ast;(b,bʷ)arapu_ is underiv
 
 The other two terms, _&ast;[ma]lago_ and _&ast;[ma]lawa_, clearly are derived. The final _&ast;-a_ of _&ast;[ma]lawa_ is reconstructed on the basis of the non-Oceanic evidence. A number of Western Oceanic languages (Lou, Titan, Nyindrou, Bing, Takia, Kayupulau, Gumawana, Torau) appear to reflect a final _&ast;-e_. We can posit two possible sources of this, although neither reflects a regular process. The first is that in many Western Oceanic languages, an adjective takes a reflex of the third person possessor suffix _&ast;-ña_ either by default or when it agrees with a singular head noun. The palatal nasal _&ast;-ñ-_ may have caused the _&ast;-a-_ of _&ast;[ma]lawa-ña_ to be raised to _&ast;-e-_ in _&ast;[ma]lawe-ña_. This is a reasonable interpretation of the Lou, Titan, Takia, Gumawana and Torau reflexes. Alternatively, in many Western Oceanic languages of the NNG and PT linkages, there is a locative postposition _-i_ or _-ai_ (relecting the POc locative proform _&ast;iai_), and forms like Sio _malawa-e_ and Bing _malwe-i_ suggest that some instances of _-e_ may reflect final _&ast;-a-i_ resulting from its capture.
 
-<table id="2-7-2-2-203-POc-bbarapu-a">
+<table class="cognateset" id="2-7-2-2-203-POc-bbarapu-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -916,7 +917,7 @@ The other two terms, _&ast;[ma]lago_ and _&ast;[ma]lawa_, clearly are derived. T
 
 <a id="p-204"></a>
 
-<table id="2-7-2-2-204-POc-malago-a">
+<table class="cognateset" id="2-7-2-2-204-POc-malago-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -951,7 +952,7 @@ The other two terms, _&ast;[ma]lago_ and _&ast;[ma]lawa_, clearly are derived. T
 
 
 
-<table id="2-7-2-2-204-POc-malawa-a">
+<table class="cognateset" id="2-7-2-2-204-POc-malawa-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1082,7 +1083,7 @@ Two terms for ‘short’ are reconstructed. All the supporting data for _&ast;t
 
 <a id="p-205"></a>
 
-<table id="2-7-2-2-205-POc-tuku-a">
+<table class="cognateset" id="2-7-2-2-205-POc-tuku-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1118,7 +1119,7 @@ Two terms for ‘short’ are reconstructed. All the supporting data for _&ast;t
 
 
 
-<table id="2-7-2-2-205-POc-boto-a">
+<table class="cognateset" id="2-7-2-2-205-POc-boto-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1172,7 +1173,7 @@ There is a tendency to replace terms denoting ‘far’ and ‘near’ with some
 
 A POc verbal root _&ast;sauq_ (V) ‘be far away’ is reconstructable.
 
-<table id="2-7-2-2-205-POc-sauq-a">
+<table class="cognateset" id="2-7-2-2-205-POc-sauq-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1298,7 +1299,7 @@ A POc verbal root _&ast;sauq_ (V) ‘be far away’ is reconstructable.
 
 <a id="p-206"></a>
 
-<table id="2-7-2-2-206-POc-masauq-a">
+<table class="cognateset" id="2-7-2-2-206-POc-masauq-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1393,7 +1394,7 @@ The POc antonym of _&ast;sauq_ ‘be far away’ was the root _&ast;raŋi_ ‘be
 
 POc _&ast;raŋi_ appears to be descended from PMP _&ast;dani_. The replacement of _&ast;-n-_ by _&ast;-ŋ-_ evidently occurred earlier than POc, as we find Buru (Central Malayo-Polynesian) _b-raŋi-n_ (ADV) ‘near’.
 
-<table id="2-7-2-2-207-POc-garai-a">
+<table class="cognateset" id="2-7-2-2-207-POc-garai-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1447,7 +1448,7 @@ POc _&ast;raŋi_ appears to be descended from PMP _&ast;dani_. The replacement o
 
 
 
-<table id="2-7-2-2-207-POc-karai-a">
+<table class="cognateset" id="2-7-2-2-207-POc-karai-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1483,7 +1484,7 @@ POc _&ast;raŋi_ appears to be descended from PMP _&ast;dani_. The replacement o
 
 
 
-<table id="2-7-2-2-207-POc-parai-a">
+<table class="cognateset" id="2-7-2-2-207-POc-parai-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1509,7 +1510,7 @@ POc _&ast;raŋi_ appears to be descended from PMP _&ast;dani_. The replacement o
 
 There was also a POc term _&ast;tata_ ‘near’, perhaps an adverb:
 
-<table id="2-7-2-2-207-POc-tata-a">
+<table class="cognateset" id="2-7-2-2-207-POc-tata-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1551,7 +1552,7 @@ There was also a POc term _&ast;tata_ ‘near’, perhaps an adverb:
 
 7.2.2.4 ‘wide, spread out’
 
-<table id="2-7-2-2-207-POc-tapolas-a">
+<table class="cognateset" id="2-7-2-2-207-POc-tapolas-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1604,7 +1605,7 @@ This term is related derivationally to POc _&ast;polas_, _&ast;polas-i-_ ‘spre
 
 Three forms can be reconstructed for ‘thick’. The third, _&ast;[tubu]tubu[-ka]_, is derived from _&ast;tubuq_ ‘grow’.
 
-<table id="2-7-2-2-208-POc-matolu-a">
+<table class="cognateset" id="2-7-2-2-208-POc-matolu-a">
 <tr>
 <td><strong>PCEMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1672,7 +1673,7 @@ Three forms can be reconstructed for ‘thick’. The third, _&ast;[tubu]tubu[-k
 
 
 
-<table id="2-7-2-2-208-POc-kuba-a">
+<table class="cognateset" id="2-7-2-2-208-POc-kuba-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1699,7 +1700,7 @@ Three forms can be reconstructed for ‘thick’. The third, _&ast;[tubu]tubu[-k
 
 
 
-<table id="2-7-2-2-208-POc-tubutubuka-a">
+<table class="cognateset" id="2-7-2-2-208-POc-tubutubuka-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1732,7 +1733,7 @@ Three forms can be reconstructed for ‘thick’. The third, _&ast;[tubu]tubu[-k
 
 Two formally related terms are reconstructable for ‘thin’: _&ast;ma-tipi(s)_ and _&ast;manipis_. Although at first sight they look like forms derived with PMP _&ast;ma-_ and _&ast;maN-_ respectively, _&ast;manipis_ has cognates in Taiwan, reflecting PAn _&ast;maLipis_. The prefix _&ast;maN-_ in any case dates only from PMP, and so cannot be reflected in _&ast;manipis_. Instead, the two forms evidently reflect the same PAn monosyllabic root _&ast;-pis_ ‘thin, tenuous, fine’ ([Blust 1988](../sources/Blust1988); see [vol.1,27](../contributions/1-2#p-27)–28) and presumably differed in meaning by some subtlety which is not clear from their reflexes.
 
-<table id="2-7-2-2-209-POc-matipis-a">
+<table class="cognateset" id="2-7-2-2-209-POc-matipis-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1759,7 +1760,7 @@ Two formally related terms are reconstructable for ‘thin’: _&ast;ma-tipi(s)_
 
 
 
-<table id="2-7-2-2-209-POc-manipis-a">
+<table class="cognateset" id="2-7-2-2-209-POc-manipis-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1853,7 +1854,7 @@ Two POc terms for ‘new’ can be reconstructed: the adjectival noun _&ast;paqo
 
 <a id="p-210"></a>
 
-<table id="2-7-3-None-210-POc-paqoru-a">
+<table class="cognateset" id="2-7-3-None-210-POc-paqoru-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2023,7 +2024,7 @@ Two POc terms for ‘new’ can be reconstructed: the adjectival noun _&ast;paqo
 
 <a id="p-211"></a>
 
-<table id="2-7-3-None-211-POc-kalraba-a">
+<table class="cognateset" id="2-7-3-None-211-POc-kalraba-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2073,7 +2074,7 @@ It is hard to avoid the conclusion that _&ast;tuqaRi_ ‘(be) long ago; take a l
 
 Whereas _&ast;[ma]tuqa_ probably referred mainly to animates and to the vegetable world, _&ast;rapu-ka_ (with adjectival-noun suffix _&ast;-ka_ added to an unidentified root _&ast;rapu_) apparently modified nouns referring to lifeless objects.
 
-<table id="2-7-3-None-211-POc-matuqa-a">
+<table class="cognateset" id="2-7-3-None-211-POc-matuqa-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2165,7 +2166,7 @@ Whereas _&ast;[ma]tuqa_ probably referred mainly to animates and to the vegetabl
 
 
 
-<table id="2-7-3-None-211-POc-tuqari-a">
+<table class="cognateset" id="2-7-3-None-211-POc-tuqari-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2280,7 +2281,7 @@ Whereas _&ast;[ma]tuqa_ probably referred mainly to animates and to the vegetabl
 
 <a id="p-212"></a>
 
-<table id="2-7-3-None-212-POc-rapuka-a">
+<table class="cognateset" id="2-7-3-None-212-POc-rapuka-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2317,7 +2318,7 @@ Most reconstructable POc colour terms fall into two formal groups, adjectival ve
 
 PMP terms were of the form _&ast;ma-_ + ROOT. Blust (ACD) concludes that PMP had a classic three-term colour system, i.e. terms for black, white and red. Other terms were derived from terms for natural objects or, in the case of ‘green’, unripeness (see [vol.1,155](../contributions/1-6#p-155)). The same comments evidently applied to POc. The three PMP terms were _&ast;ma-_ qitem ‘black, dark in colour’, _&ast;ma-iRaq_ ‘red’, and _&ast;ma-putiq_ ‘white, light in colour’. The first two are continued in POc _&ast;maqeto(m)_ and POc _&ast;meRaq_. Until recently, I thought that _&ast;ma-putiq_ had been lost in POc and replaced by a plethora of terms, but two reflexes have been found.
 
-<table id="2-7-4-None-213-POc-maqetom-a">
+<table class="cognateset" id="2-7-4-None-213-POc-maqetom-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2380,7 +2381,7 @@ PMP terms were of the form _&ast;ma-_ + ROOT. Blust (ACD) concludes that PMP had
 
 
 
-<table id="2-7-4-None-213-POc-meraq-a">
+<table class="cognateset" id="2-7-4-None-213-POc-meraq-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2452,7 +2453,7 @@ PMP terms were of the form _&ast;ma-_ + ROOT. Blust (ACD) concludes that PMP had
 
 
 
-<table id="2-7-4-None-213-POc-maputiq-a">
+<table class="cognateset" id="2-7-4-None-213-POc-maputiq-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2482,7 +2483,7 @@ PMP terms were of the form _&ast;ma-_ + ROOT. Blust (ACD) concludes that PMP had
 
 One colour term of the form _&ast;ma-_ + ROOT has no known non-Oceanic cognates. In the southeast Solomons and Micronesia we find _&ast;marawa_ ‘green’ competing with _&ast;[ma]karawa_, indicating that both are derived from a base _&ast;rawa_ of unknown meaning.
 
-<table id="2-7-4-None-213-POc-makarawa-a">
+<table class="cognateset" id="2-7-4-None-213-POc-makarawa-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2537,7 +2538,7 @@ One colour term of the form _&ast;ma-_ + ROOT has no known non-Oceanic cognates.
 
 <a id="p-214"></a>
 
-<table id="2-7-4-None-214-PEOc-marawa-a">
+<table class="cognateset" id="2-7-4-None-214-PEOc-marawa-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2781,7 +2782,7 @@ One colour term of the form _&ast;ma-_ + ROOT has no known non-Oceanic cognates.
 
 From these examples we see that the colour term is often derived from a noun whose referent has that colour as a salient characteristic. We also see that in closely related Kairiru and Manam ([Ross 1988](../sources/Ross1988):122–132) different derivations have occurred, indicating that the process remains productive, or has done so until recently. This observation leads to a reconstructive problem: we often find cognate reduplicated forms in a number of different languages, and it is sometimes hard to determine whether the reduplication had already occurred in POc or whether the reduplicated forms result from independent parallel derivations. We can arrange cases on a rough cline. At one extreme is POc _&ast;[yaŋo]yaŋo_ ‘yellow’, whose reflexes occur so consistently across Oceania that it seems over-cautious not to reconstruct it. The base form was POc _&ast;yaŋo_ ‘turmeric, _Curcuma longa_’ ([Ross 1996d](../sources/Ross1996d):216).
 
-<table id="2-7-4-None-215-POc-yaoyao-a">
+<table class="cognateset" id="2-7-4-None-215-POc-yaoyao-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2917,7 +2918,7 @@ What is much less clear is the relationship of this POc reduplication to derivat
 
 In the light of this discussion, I reconstruct two pairs of POc colour terms, _&ast;keja-ka_, _&ast;[keja]keja_ ‘green’ and _&ast;biRiŋ-(k)a_, _&ast;[biRi]biRiŋ_ ‘dark hue, dirty’, but I cannot be sure that both members of each pair actually occurred in POc. The Tamambo reflex of the root _&ast;keja_ refers to a kind of blue-green fish, and this may have been its POc meaning. POc _&ast;biRiŋ_ perhaps meant ‘dirt’.
 
-<table id="2-7-4-None-217-POc-kejaka-a">
+<table class="cognateset" id="2-7-4-None-217-POc-kejaka-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2977,7 +2978,7 @@ In the light of this discussion, I reconstruct two pairs of POc colour terms, _&
 
 
 
-<table id="2-7-4-None-217-POc-birika-a">
+<table class="cognateset" id="2-7-4-None-217-POc-birika-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -3027,7 +3028,7 @@ In the light of this discussion, I reconstruct two pairs of POc colour terms, _&
 
 There is one other reduplicated colour term which may be reconstructable, POc _&ast;[pula]pula-n_ ‘white’, probably derived from _&ast;pulan_ ‘moon’. However, the dangers of reconstructing reduplicated colour terms in POc apply here too, and these terms may be independent innovations.
 
-<table id="2-7-4-None-217-POc-pulapulan-a">
+<table class="cognateset" id="2-7-4-None-217-POc-pulapulan-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -3080,7 +3081,7 @@ There is one other reduplicated colour term which may be reconstructable, POc _&
 
 Terms denoting the shape and surface texture of an object include the meanings such as ‘flat’, ‘round’, ‘rough’, ‘smooth’, ‘straight’ and ‘crooked’. However, it seems that there were few POc lexemes with basic meanings in this domain. No word for ‘round’ is reconstructable. The main term for ‘flat’ was probabaly POc _&ast;baban_ ‘flat; board, plank; canoe strake; flat shelf of rock’, and we can be reasonably confident that it was a noun denoting a flat surface or flat plank-like object ([vol.1,58](../contributions/1-3#p-58), 185).
 
-<table id="2-7-5-1-218-POc-baban-a">
+<table class="cognateset" id="2-7-5-1-218-POc-baban-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -3134,7 +3135,7 @@ Terms denoting the shape and surface texture of an object include the meanings s
 
 The term _&ast;raba(r)_ may have denoted the property ‘flat’, but there are too few Oceanic reflexes to be certain. Indeed, if the Tongan reflex is regularly descended from a POc forebear, then the latter had initial _&ast;l-_, not _&ast;r-_. This suggests that the Polynesian terms may not reflect POc _&ast;raba(r)_.
 
-<table id="2-7-5-1-218-POc-rabar-a">
+<table class="cognateset" id="2-7-5-1-218-POc-rabar-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -3181,7 +3182,7 @@ cf. also:
 
 No term for ‘rough’ is reconstructable, but ‘smooth’, also with the sense ‘slippery’ was POc _&ast;madrali(s,t)_.
 
-<table id="2-7-5-1-218-POc-madralist-a">
+<table class="cognateset" id="2-7-5-1-218-POc-madralist-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -3228,7 +3229,7 @@ One shape concept for which POc evidently had terms was ‘straight, level’. R
 
 The data require that we reconstruct two variants for each of the three terms. Thus we reconstruct not only _&ast;[ma]koto_, whose canonic shape suggests that it is the inherited term, but also _&ast;ta-kodos_, which is derived from _&ast;kodos_ ‘go straight; straighten’ (see p.196).[^21] I suspect that the verbs _&ast;[ma]koto_ and _&ast;kodos_ were separately inherited into POc (although no non-Oceanic cognates have been found) and that their formal similarity is attributable to derivation at an earlier stage, as POc _&ast;-t-_ and _&ast;-d-_ reflect PMP _&ast;-t-_ and _&ast;-nt-_ respectively. The Polynesian reflexes are attributed to the set with _&ast;-t-_ because of their similarity in meaning to Bauan koto. Formally, they could at least as well reflect POc _&ast;ta-kodos_.
 
-<table id="2-7-5-1-219-POc-makoto-a">
+<table class="cognateset" id="2-7-5-1-219-POc-makoto-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -3272,7 +3273,7 @@ The data require that we reconstruct two variants for each of the three terms. T
 
 
 
-<table id="2-7-5-1-219-POc-kodos-a">
+<table class="cognateset" id="2-7-5-1-219-POc-kodos-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -3331,7 +3332,7 @@ The data require that we reconstruct two variants for each of the three terms. T
 
 
 
-<table id="2-7-5-1-219-POc-tdonup-a">
+<table class="cognateset" id="2-7-5-1-219-POc-tdonup-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -3392,7 +3393,7 @@ The data require that we reconstruct two variants for each of the three terms. T
 
 I have no explanation for the pair _&ast;mʷane-mʷane_ and _&ast;wane-wane_. Reflexes of the former occur in the Admiralties, Southeast Solomonic and New Caledonia, of the latter in the Schoutens and Micronesia. However, if the Ali reflex were non-cognate, then _&ast;wane-wane_ would simply be a Nuclear Micronesian innovation.
 
-<table id="2-7-5-1-220-POc-manemane-a">
+<table class="cognateset" id="2-7-5-1-220-POc-manemane-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -3433,7 +3434,7 @@ I have no explanation for the pair _&ast;mʷane-mʷane_ and _&ast;wane-wane_. Re
 
 
 
-<table id="2-7-5-1-220-POc-wanewane-a">
+<table class="cognateset" id="2-7-5-1-220-POc-wanewane-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -3464,7 +3465,7 @@ I have no explanation for the pair _&ast;mʷane-mʷane_ and _&ast;wane-wane_. Re
 
 The only antonym of the terms above is PWOc _&ast;kalis_ ‘crooked’, which is only weakly attested.
 
-<table id="2-7-5-1-220-PWOc-kalis-a">
+<table class="cognateset" id="2-7-5-1-220-PWOc-kalis-a">
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -3492,7 +3493,7 @@ The only antonym of the terms above is PWOc _&ast;kalis_ ‘crooked’, which is
 
 Forms for ‘heavy’ are morphologically complex. POc _&ast;[pa]pat_ reflects the base _&ast;pat_, POc _&ast;ma-pat_ and _&ast;mamat_ reflect prefixation with _&ast;ma-_ and _&ast;maN-_ respectively (the function of _&ast;maN-_ in this context is unclear; cf. [vol.1,29](../contributions/1-2#p-29)). The term for ‘light’ (in weight) is _&ast;[ma]Raqan_.
 
-<table id="2-7-5-2-220-POc-papat-a">
+<table class="cognateset" id="2-7-5-2-220-POc-papat-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -3519,7 +3520,7 @@ Forms for ‘heavy’ are morphologically complex. POc _&ast;[pa]pat_ reflects t
 
 <a id="p-221"></a>
 
-<table id="2-7-5-2-221-POc-mapat-a">
+<table class="cognateset" id="2-7-5-2-221-POc-mapat-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -3580,7 +3581,7 @@ Forms for ‘heavy’ are morphologically complex. POc _&ast;[pa]pat_ reflects t
 
 
 
-<table id="2-7-5-2-221-POc-mamat-a">
+<table class="cognateset" id="2-7-5-2-221-POc-mamat-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -3604,7 +3605,7 @@ Forms for ‘heavy’ are morphologically complex. POc _&ast;[pa]pat_ reflects t
 
 
 
-<table id="2-7-5-2-221-POc-maraqan-a">
+<table class="cognateset" id="2-7-5-2-221-POc-maraqan-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -3699,7 +3700,7 @@ Oceanic speakers tend to express the cluster of concepts ‘hard’ (of physical
 
 <a id="p-222"></a>
 
-<table id="2-7-5-3-222-POc-pakas-a">
+<table class="cognateset" id="2-7-5-3-222-POc-pakas-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -3724,7 +3725,7 @@ Oceanic speakers tend to express the cluster of concepts ‘hard’ (of physical
 
 
 
-<table id="2-7-5-3-222-POc-lagas-a">
+<table class="cognateset" id="2-7-5-3-222-POc-lagas-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -3759,7 +3760,7 @@ Oceanic speakers tend to express the cluster of concepts ‘hard’ (of physical
 
 Two POc terms, _&ast;[ma]lumu_ and _&ast;ma-luas_, express ‘soft, gentle’.
 
-<table id="2-7-5-3-222-POc-malumu-a">
+<table class="cognateset" id="2-7-5-3-222-POc-malumu-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -3877,7 +3878,7 @@ Two POc terms, _&ast;[ma]lumu_ and _&ast;ma-luas_, express ‘soft, gentle’.
 
 <a id="p-223"></a>
 
-<table id="2-7-5-3-223-POc-maluas-a">
+<table class="cognateset" id="2-7-5-3-223-POc-maluas-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -3949,7 +3950,7 @@ Two POc terms, _&ast;[ma]lumu_ and _&ast;ma-luas_, express ‘soft, gentle’.
 
 Three terms meaning ‘full’ are reconstructable. The first, _&ast;ponuq_, is the general term. It is not clear to me how _&ast;puŋu_ and _&ast;poju_ differed in meaning from this and from each other. However, _&ast;puŋu_ may simply be a doublet of _&ast;ponuq_. The term _&ast;poju_ seems to be a reflex of PMP _&ast;besuR_ ‘satiated’. The opposite meaning, ‘empty’, seems to have been expressed by _&ast;[ma]maca_ ‘dry’ (p.226), at least when ‘empty of liquid’ was intended.
 
-<table id="2-7-5-4-223-POc-ponuq-a">
+<table class="cognateset" id="2-7-5-4-223-POc-ponuq-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -4055,7 +4056,7 @@ Three terms meaning ‘full’ are reconstructable. The first, _&ast;ponuq_, is 
 
 <a id="p-224"></a>
 
-<table id="2-7-5-4-224-POc-puu-a">
+<table class="cognateset" id="2-7-5-4-224-POc-puu-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -4095,7 +4096,7 @@ Three terms meaning ‘full’ are reconstructable. The first, _&ast;ponuq_, is 
 
 
 
-<table id="2-7-5-4-224-POc-poju-a">
+<table class="cognateset" id="2-7-5-4-224-POc-poju-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -4147,7 +4148,7 @@ Three terms meaning ‘full’ are reconstructable. The first, _&ast;ponuq_, is 
 
 Two terms are reconstructable for ‘hot, warm’, _&ast;[ma]panas_ and _&ast;maŋini(t)_. The first was probably the general term, to judge from its distribution, whilst _&ast;maŋini(t)_ probably had some specialised sense.
 
-<table id="2-7-5-5-224-POc-mapanas-a">
+<table class="cognateset" id="2-7-5-5-224-POc-mapanas-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -4234,7 +4235,7 @@ Two terms are reconstructable for ‘hot, warm’, _&ast;[ma]panas_ and _&ast;ma
 
 <a id="p-225"></a>
 
-<table id="2-7-5-5-225-POc-mainit-a">
+<table class="cognateset" id="2-7-5-5-225-POc-mainit-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -4266,7 +4267,7 @@ There are several POc forms for ‘cold’ which are derived from PMP _&ast;diŋ
 
 The other cognate set meaning ‘cold’ appears to reflect both _&ast;malaso_ ‘cold (verb)’ and _&ast;malaso-ŋ_ ‘cold (noun)’ .
 
-<table id="2-7-5-5-225-POc-maridri-a">
+<table class="cognateset" id="2-7-5-5-225-POc-maridri-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -4333,7 +4334,7 @@ The other cognate set meaning ‘cold’ appears to reflect both _&ast;malaso_ �
 
 
 
-<table id="2-7-5-5-225-POc-madridri-a">
+<table class="cognateset" id="2-7-5-5-225-POc-madridri-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -4377,7 +4378,7 @@ The other cognate set meaning ‘cold’ appears to reflect both _&ast;malaso_ �
 
 
 
-<table id="2-7-5-5-225-POc-makaridri-a">
+<table class="cognateset" id="2-7-5-5-225-POc-makaridri-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -4412,7 +4413,7 @@ The other cognate set meaning ‘cold’ appears to reflect both _&ast;malaso_ �
 
 <a id="p-226"></a>
 
-<table id="2-7-5-5-226-POc-malaso-a">
+<table class="cognateset" id="2-7-5-5-226-POc-malaso-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -4479,7 +4480,7 @@ The other cognate set meaning ‘cold’ appears to reflect both _&ast;malaso_ �
 
 The English words ‘dry’ and ‘wet’ are polysemous. The meanings of ‘dry’ include ‘free from moisture’, ‘having lost natural moisture’ and ‘not in or under water’. POc terms with such meanings are reconstructed below. POc presumably also had words for various meanings of ‘wet’, but I have been able to reconstruct only POc _&ast;buluk_, in the meaning ‘soaked, waterlogged’.
 
-<table id="2-7-5-6-226-POc-buluk-a">
+<table class="cognateset" id="2-7-5-6-226-POc-buluk-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -4527,7 +4528,7 @@ The most widely reflected POc term with a ‘dry’ meaning is _&ast;[ma]maca_, 
 
 POc _&ast;karaŋo_ is obviously formally related to _&ast;[ma]raŋo_, but its reflexes display the meanings both of this and of _&ast;[ma]maca_. POc _&ast;goRu_ appears to have been a synonym of _&ast;[ma](r,R)aŋo_.
 
-<table id="2-7-5-6-226-POc-mamaca-a">
+<table class="cognateset" id="2-7-5-6-226-POc-mamaca-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -4675,7 +4676,7 @@ POc _&ast;karaŋo_ is obviously formally related to _&ast;[ma]raŋo_, but its re
 
 POc _&ast;[ma-](r,R)aŋo_ displays a phonological problem. Apparent non-Oceanic cognates of the root _&ast;raŋo_ reflect PMP _&ast;Raŋaw_, so we would expect the reconstructable POc form to be _&ast;&ast;Raŋo_. But Oceanic languages which reflect POc _&ast;r_ and _&ast;R_ differently are not in accord with each other: SES and NCV languages have a reflex of _&ast;r_ whilst Pn languages have a (zero) reflex of _&ast;R_. (Mussau and NNG and MM languages reflect _&ast;r_ and _&ast;R_ identically.) I assume tentatively that POc had _&ast;[ma]Raŋo_ and that forms with _&ast;r_ are innovative.
 
-<table id="2-7-5-6-227-POc-marao-a">
+<table class="cognateset" id="2-7-5-6-227-POc-marao-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -4761,7 +4762,7 @@ POc _&ast;[ma-](r,R)aŋo_ displays a phonological problem. Apparent non-Oceanic 
 
 <a id="p-228"></a>
 
-<table id="2-7-5-6-228-POc-karrao-a">
+<table class="cognateset" id="2-7-5-6-228-POc-karrao-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -4789,7 +4790,7 @@ POc _&ast;[ma-](r,R)aŋo_ displays a phonological problem. Apparent non-Oceanic 
 
 
 
-<table id="2-7-5-6-228-POc-goru-a">
+<table class="cognateset" id="2-7-5-6-228-POc-goru-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">

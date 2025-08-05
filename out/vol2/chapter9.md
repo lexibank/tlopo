@@ -1,5 +1,6 @@
-[Malcolm Ross](.smallcaps)
+[Malcolm Ross]{.smallcaps}
 
+<!--start-->
 
 <a id="s-1"></a>
 
@@ -333,7 +334,7 @@ POc _&ast;boŋi_ ‘night’ also meant ‘day of twenty-four hours’, to judge
 
 All Polynesian reflexes point back to PPn _&ast;pō_ (for expected _&ast;poŋi_, which survived in _&ast;poŋi-poŋi_ ‘be or become morning’ (p.16 and certain other expressions, e.g. Samoan _poŋi-sā_ ‘be dark’ V., ADJ., ‘darkness’ N., _po-poŋi_ ‘(night) be full’ V., ADJ.). Ross Clark (pers. comm.) attributes the replacement of _&ast;poŋi_ by _&ast;pō_ to back-formation from _&ast;poŋi-a_ ‘be overcome by night’, via reanalysis as _&ast;po-ŋia_, with automatic lengthening of the new monosyllabic content word _&ast;po-_ to bimoraic _&ast;pō_.
 
-<table id="2-9-2-2-305-POc-boi-a">
+<table class="cognateset" id="2-9-2-2-305-POc-boi-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -641,7 +642,7 @@ The reflexes from Huon Gulf languages (NNG: Yabem, Mangga, Mapos Buang) all refl
 
 The word for ‘night’ in a number of Oceanic languages reflects POc _&ast;rodrom_. It is reasonably evident, however, that this term meant ‘be dark’, and did not in POc refer to a period of time.
 
-<table id="2-9-2-2-308-POc-rodrom-a">
+<table class="cognateset" id="2-9-2-2-308-POc-rodrom-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -759,7 +760,7 @@ The word for ‘night’ in a number of Oceanic languages reflects POc _&ast;rod
 
 The two sets below probably do not reflect POc _&ast;rodrom_. Rather, _&ast;rodrom_ and the sets below all reflect a PAn monosyllabic root _&ast;-dem_ (see [vol.1,24](../contributions/1-2#p-24)–25, 27–28). That is, several items reflecting this root were separately inherited into POc.
 
-<table id="2-9-2-2-308-POc-marom-a">
+<table class="cognateset" id="2-9-2-2-308-POc-marom-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -813,7 +814,7 @@ The two sets below probably do not reflect POc _&ast;rodrom_. Rather, _&ast;rodr
 
 The POc term which specifically denoted daylight was _&ast;raqani_, reconstructed in Chapter 6 (p.161), to which the reader is referred for further detail.
 
-<table id="2-9-2-2-309-POc-raqani-a">
+<table class="cognateset" id="2-9-2-2-309-POc-raqani-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -919,7 +920,7 @@ The POc term which specifically denoted daylight was _&ast;raqani_, reconstructe
 
 The primary meaning of POc _&ast;qaco_ was ‘sun’, but it was also used for ‘daylight, daytime’. Indeed, in Polynesia reflexes of POC _&ast;qaco_ are restricted to the sense of ‘period of a day, daylight’ and do not refer directly to the sun. This item, along with _&ast;sinaR_ ‘shine, sun’, is also reconstructed in Chapter 6 (p.160), where more detail is provided.
 
-<table id="2-9-2-2-309-POc-qaco-a">
+<table class="cognateset" id="2-9-2-2-309-POc-qaco-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1030,7 +1031,7 @@ The primary meaning of POc _&ast;qaco_ was ‘sun’, but it was also used for �
 
 <a id="p-310"></a>
 
-<table id="2-9-2-2-310-POc-sinar-a">
+<table class="cognateset" id="2-9-2-2-310-POc-sinar-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1114,7 +1115,7 @@ The primary meaning of POc _&ast;qaco_ was ‘sun’, but it was also used for �
 
 The POc term for the first few hours of daylight was _&ast;boŋi-boŋi_, self-evidently a reduplicated form of POc _&ast;boŋi_ ‘night’.
 
-<table id="2-9-2-2-310-POc-boiboi-a">
+<table class="cognateset" id="2-9-2-2-310-POc-boiboi-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1227,7 +1228,7 @@ Interestingly, terms for ‘early morning’ in some Oceanic languages that do n
 
 POc _&ast;puko_ ‘morning’ is only distributed over a certain area of Oceania — from New Britain to central Vanuatu — but this is enough to meet our criteria for POc reconstruction. To judge from the verbal morphology that occurs on a number of reflexes, _&ast;puko_ often occurred as a verb. Unfortunately none of the reflexes occurs with a gloss which would confirm that this referred to the same time period as POc _&ast;boŋi-boŋi_ ‘early morning’.
 
-<table id="2-9-2-2-311-POc-puko-a">
+<table class="cognateset" id="2-9-2-2-311-POc-puko-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1359,7 +1360,7 @@ Others have a noun phrase whose head is ‘sun, daylight’, modified by ‘big�
 
 [Biggs and Clark](../sources/BiggsandClark1993) ([1993](../sources/BiggsandClark1993)) reconstruct PPn _&ast;qaho-atea_ ‘late morning and early afternoon’, from PPn _&ast;qaho_ ‘daylight’ and _&ast;qātea_ ‘clear, unobstructed’. The addition of Anejom reflexes raises the reconstruction to PROc _&ast;qaso-qatea_ (Lynch pers. comm.).
 
-<table id="2-9-2-2-312-PROc-qasoqatea-a">
+<table class="cognateset" id="2-9-2-2-312-PROc-qasoqatea-a">
 <tr>
 <td><strong>PROc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1430,7 +1431,7 @@ Others have a noun phrase whose head is ‘sun, daylight’, modified by ‘big�
 
 Just one term is reconstructable for this period of the day, POc _&ast;Rapi_.
 
-<table id="2-9-2-2-313-POc-rapi-a">
+<table class="cognateset" id="2-9-2-2-313-POc-rapi-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1652,7 +1653,7 @@ Just one term is reconstructable for this period of the day, POc _&ast;Rapi_.
 
 There are also Micronesian reflexes. These are not listed above because they show hefty phonological reduction. The Proto Micronesian term was _&ast;faka-afi_, reflecting a combination of the POc prefix _&ast;paka-_ (which among other things derived adverbs) and POc _&ast;Rapi_, reconstructed above.
 
-<table id="2-9-2-2-313-PMic-fakafi-a">
+<table class="cognateset" id="2-9-2-2-313-PMic-fakafi-a">
 <tr>
 <td><strong>PMic</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1706,7 +1707,7 @@ I have not been able to reconstruct any third-order terms for parts of the day. 
 
 POc _&ast;pulan_ ‘moon’ also meant ‘month’. The reconstruction here is repeated from Chapter 6 (p.164).
 
-<table id="2-9-2-3-315-POc-pulan-a">
+<table class="cognateset" id="2-9-2-3-315-POc-pulan-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1785,7 +1786,7 @@ POc _&ast;pulan_ ‘moon’ also meant ‘month’. The reconstruction here is r
 
 As a verb, POc _&ast;sinaR_ ‘sun, shine’ (Ch. 6, p.163; above, p.310) has given rise to a number of Polynesian terms which, with the addition of the stativising prefix _mā-_ (Ch. 6, p.164), refer to the moon:
 
-<table id="2-9-2-3-315-PPn-masina-a">
+<table class="cognateset" id="2-9-2-3-315-PPn-masina-a">
 <tr>
 <td><strong>PPn</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1903,7 +1904,7 @@ Other descriptive terms also occur:
 
 Other languages refer to what was apparently the same phase as ‘the young moon’, and here a reconstruction is perhaps possible: POc _&ast;pulan paqoRu_, where _&ast;pulan_ is ‘moon’ (p.315) and _&ast;paqoRu_ is ‘new, young’ (Ch. 7, p.210). Note, however, that I have also treated terms in which lexical replacement has occurred as reflexes of this item.
 
-<table id="2-9-2-3-317-POc-pulanpaqoru-a">
+<table class="cognateset" id="2-9-2-3-317-POc-pulanpaqoru-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2009,7 +2010,7 @@ Curiously, this is about as far as we can go with reconstructing POc moon phases
 
 Probably the main seasons for POc speakers living in northwest Melanesia were meteorological: the dry, when the southeast trades blew with reasonable consistency, and the wet, when there were sporadic northwesterly winds. The POc terms for these were respectively _&ast;raki_ and _&ast;apaRat_, which seem to have referred centrally to the seasons, with typical weather and wind direction as inevitable components of their meanings. More details are given in [Chapter 5, §4.2](../contributions/2-5#s-4-2), whence the reconstructions below are repeated.
 
-<table id="2-9-2-4-318-POc-raki-a">
+<table class="cognateset" id="2-9-2-4-318-POc-raki-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2109,7 +2110,7 @@ Probably the main seasons for POc speakers living in northwest Melanesia were me
 
 
 
-<table id="2-9-2-4-318-POc-aparat-a">
+<table class="cognateset" id="2-9-2-4-318-POc-aparat-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2257,7 +2258,7 @@ The terms I have reconstructed above refer to wind directions and to seasons. A 
 
 In [Ross](../sources/Ross1995c) ([1995c](../sources/Ross1995c)) I wrote, ‘There is … no doubt that POc had a separate (and widely reflected) word for year’, and followed it with the reconstruction of POc _&ast;taqun_ below. This statement stands, but with a qualification. The Buang, Tongan and East Futunan reflexes indicate that _&ast;taqun_ may have been used particularly to denote the yam-growing cycle. This would not be surprising: the greater yam, _Dioscorea alata_ (POc _&ast;qupi_; [Ross 1996d](../sources/Ross1996d)) is a highly prized — but not especially nutritious — crop throughout much of Oceania, with much ritual associated with its growth cycle, and so it is a highly salient marker of a year. It is likely that that it already had the meaning ‘yam season cycle’ in POc times.
 
-<table id="2-9-2-4-319-POc-taqun-a">
+<table class="cognateset" id="2-9-2-4-319-POc-taqun-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2414,7 +2415,7 @@ Curiously English and other European languages have two superficially contradict
 
 The reconstructions below are repeated from Chapter 8, but only reflexes with a temporal meaning are listed here. The POc terms for ‘formerly’ were apparently _&ast;i muqa_, _&ast;qa-muqa_ and _&ast;muqa-muqa_, for ‘later, afterwards’ _&ast;i muri_/_&ast;i buri_ and _&ast;muri-muri_. In PWOc _&ast;muga_ also occurred (p.258).
 
-<table id="2-9-3-2-322-POc-muqa-a">
+<table class="cognateset" id="2-9-3-2-322-POc-muqa-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2519,7 +2520,7 @@ The reconstructions below are repeated from Chapter 8, but only reflexes with a 
 
 
 
-<table id="2-9-3-2-322-POc-muri-a">
+<table class="cognateset" id="2-9-3-2-322-POc-muri-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2641,7 +2642,7 @@ The reconstructions below are repeated from Chapter 8, but only reflexes with a 
 
 <a id="p-323"></a>
 
-<table id="2-9-3-2-323-POc-burit-a">
+<table class="cognateset" id="2-9-3-2-323-POc-burit-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2680,7 +2681,7 @@ The reconstructions below are repeated from Chapter 8, but only reflexes with a 
 
 It is hard to avoid the conclusion that _&ast;tuqaRi_ ‘(be) long ago; old (of inanimates)’ is historically related to _&ast;[ma]tuqa_ ‘ripe, mature, adult, old’. POc _&ast;tuqaRi_ appears to be both verb and temporal adverb. The full cognate set is given on p.212, with a discussion of the form of the reconstruction.
 
-<table id="2-9-3-2-323-POc-tuqari-a">
+<table class="cognateset" id="2-9-3-2-323-POc-tuqari-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2822,7 +2823,7 @@ By distances within a day, I mean expressions corresponding to English ‘last n
 
 There are a few languages where _&ast;qa-_ is prefixed to a part of the day to form a future expression, _&ast;[qa]na-_ to form a past expression, but it is not clear whether these expressions are reconstructable for POc or are simply independent innovations resulting from the productivity of the prefixes. Thus we find Nakanai (MM) _ala-logo_ ‘last night’ vs _ga-logo_ ‘tonight’ (_-logo_ < _&ast;rodrom_ ‘night’), Nehan (MM) _na-boung_ ‘last night’, _na-liwo_ ‘this morning (past)’ vs _ro-liwo_ ‘tomorrow’ (the origin of _ro-_ is unknown), and Tongan (Pn) _ʔane-pō_ ‘last night’ vs _ʔa-pō_ ‘tonight’. Niuean (Pn) has terms reflecting _&ast;[qa]na-_: _ne-poŋi-poŋi_ ‘this morning (past)’, _ne-pō_ ‘last night’, and _ne-afi-afi_ ‘yesterday evening’. [Biggs and Clark](../sources/BiggsandClark1993) ([1993](../sources/BiggsandClark1993)) reconstruct PPn _&ast;qana-pō_ ‘last night’:
 
-<table id="2-9-3-3-323-PPn-qanapo-a">
+<table class="cognateset" id="2-9-3-3-323-PPn-qanapo-a">
 <tr>
 <td><strong>PPn</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2873,7 +2874,7 @@ There are a few languages where _&ast;qa-_ is prefixed to a part of the day to f
 
 The POc base for ‘yesterday’ was _&ast;ñoRap_. A few reflexes reflect accretion of the preposition _&ast;i_, and just two reflect _&ast;qa-_. Whether _&ast;qa-ñoRap_ occurred in POc or whether _&ast;qa-_ continued to be productive and came later to be attached to reflexes of _&ast;ñoRap_ is unclear. This question is compounded by an interesting distributional phenomenon. We can also reconstruct POc _&ast;na-ñoRap_, with past formative _&ast;na-_ (p.324). This is reflected largely, but not exclusively, in Eastern Oceanic languages, whilst unprefixed _&ast;ñoRap_ is reflected mainly in Western Oceanic languages. There is an overlap zone in the southeast Solomons and northern Vanuatu.
 
-<table id="2-9-3-3-325-POc-norap-a">
+<table class="cognateset" id="2-9-3-3-325-POc-norap-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -3053,7 +3054,7 @@ The POc base for ‘yesterday’ was _&ast;ñoRap_. A few reflexes reflect accre
 
 The Southern Vanuatu members of the set below reflect a Proto South Vanuatu form reconstructed by [Lynch](../sources/Lynch2001c) ([2001c](../sources/Lynch2001c):211) as _&ast;na-yan(a,u)v_. POc _&ast;R_ is sporadically lost in Proto South Vanuatu, and these forms seem to reflect a metathesis of a reflex of _na-ñoRap_ to _&ast;na-Rañop_.
 
-<table id="2-9-3-3-326-POc-nanorap-a">
+<table class="cognateset" id="2-9-3-3-326-POc-nanorap-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -3247,7 +3248,7 @@ The forms below reflect Proto NCV _&ast;na-novi_ ‘yesterday’. This contrasts
 
 The term below reflects POc _&ast;boŋi_ ‘night, day of twenty-four hours’ prefixed with the past formative _&ast;na-_. The reconstruction of _&ast;na-boŋi_ ‘yesterday’ as far back as POc is questionable, as it is not well attested outside Meso-Melanesian languages.
 
-<table id="2-9-3-3-327-POc-naboi-a">
+<table class="cognateset" id="2-9-3-3-327-POc-naboi-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -3432,7 +3433,7 @@ A few Western Oceanic terms for ‘yesterday’ reflect POc _&ast;raqani_ ‘day
 
 The term below is clearly the same root as _&ast;Rapi_/_&ast;Rapi-Rapi_ ‘late afternoon and evening, from about 3 p.m. to sunset’ (p.313). I have placed a question mark against the reconstructed gloss below, as it is not attested in the data. However, the gloss ‘yesterday’ is presumably the result of extension of meanings denoting ‘last evening’. Nuclear Polynesian languages reflect an unexplained innovation whereby _&ast;qa-na-api_ became _&ast;qa-na-napi_.
 
-<table id="2-9-3-3-328-POc-irapi-a">
+<table class="cognateset" id="2-9-3-3-328-POc-irapi-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -3672,7 +3673,7 @@ We might expect that just as POc _&ast;na-boŋi_ (p.327), with the past formativ
 
 We also find reduplicated reflexes of _&ast;boŋi_, but I take these to be reflexes of POc _&ast;boŋi-boŋi_ ‘early morning from dawn to 9 or 10 a.m.’ (p.310). I doubt whether the sense ‘tomorrow’ is also reconstructable for _&ast;boŋi-boŋi_ and assume that these are the outcomes of parallel innovations, similar to those via which reflexes of _&ast;Rapi_ ‘evening’ came to mean ‘yesterday’.
 
-<table id="2-9-3-3-329-POc-iboiboi-a">
+<table class="cognateset" id="2-9-3-3-329-POc-iboiboi-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -3746,7 +3747,7 @@ Reflexes of POc _&ast;puko_ ‘morning’ (p.311) have also come to mean ‘tomo
 
 POc _&ast;ma-pua_ ‘tomorrow’ is reconstructable from the rather skewed cognate set below. Data from Sulawesi languages and Balinese cited by [Mead](../sources/Mead2001) ([2001](../sources/Mead2001)) point to the reconstruction of PMP _&ast;i-pu(h)a-n_ ‘day after tomorrow, day before yesterday’, and the POc root _&ast;-pua_ here apparently reflects PMP _&ast;-pu(h)a-_. However, the apparent shift in meaning is unexplained.
 
-<table id="2-9-3-3-330-POc-mapua-a">
+<table class="cognateset" id="2-9-3-3-330-POc-mapua-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -3804,7 +3805,7 @@ POc _&ast;ma-pua_ ‘tomorrow’ is reconstructable from the rather skewed cogna
 
 POc _&ast;ma-raqani_ was presumably originally a verb meaning ‘become light’, derived from _&ast;raqani_ ‘daytime, daylight’ (p.309). Its reflexes in a number of languages mean ‘tomorrow’, as do several other reflexes of _&ast;raqani_ listed below. If it is the case, as suggested on p.300, that the POc day began at sunset, then, once sunset had passed, _&ast;i raqani_ ‘in the daylight’ (reflected directly in Sa’a and ’Are’are) would have referred to the daylight of the present day — ‘tomorrow’ in an English-speaker’s terms.
 
-<table id="2-9-3-3-330-POc-maraqani-a">
+<table class="cognateset" id="2-9-3-3-330-POc-maraqani-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -3891,7 +3892,7 @@ cf. also:
 
 There is also a variety of forms that seem to reflect a root _&ast;tuqu_ ‘tomorrow’.
 
-<table id="2-9-3-3-331-POc-latuqu-a">
+<table class="cognateset" id="2-9-3-3-331-POc-latuqu-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -3994,7 +3995,7 @@ Note that reflexes in Bing, Takia and Yabem which lack a reflex of final _&ast;-
 
 The Proto Tanna (SV) and Proto Polynesian reflexes of _&ast;qa-na-_ lost the past-marking function. Tanna languages add a prefix for future direction, and PPn _&ast;qanoisa_ came to mean ‘the day after tomorrow’.
 
-<table id="2-9-3-3-332-POc-iwarisa-a">
+<table class="cognateset" id="2-9-3-3-332-POc-iwarisa-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -4189,7 +4190,7 @@ The Proto Tanna (SV) and Proto Polynesian reflexes of _&ast;qa-na-_ lost the pas
 
 <a id="p-333"></a>
 
-<table id="2-9-3-3-333-POc-qanawarisa-a">
+<table class="cognateset" id="2-9-3-3-333-POc-qanawarisa-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -4289,7 +4290,7 @@ The contrast between _&ast;waRisa_ with and without _&ast;na-_ is reflected in t
 
 Apparently an alternative way of expressing ‘the day after tomorrow’ in POc was _&ast;boŋi rua_ ‘day of twenty-four hours’ + ‘two’ (in a few languages the opposite order of elements is reflected, in line with syntactic change). This was perhaps a way of avoiding the ambiguity of temporally directionless _&ast;waRisa_. However, in a few modern languages this expression can also mean ‘day before yesterday’ (in Wayan a preposed particle indicates temporal direction). In two widely separated languages, Tami and Mono-Alu, the reflex apparently means ‘tomorrow’: one can imagine several ways in which this meaning change might have occurred, but none is especially convincing.
 
-<table id="2-9-3-3-334-POc-boirua-a">
+<table class="cognateset" id="2-9-3-3-334-POc-boirua-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -4398,7 +4399,7 @@ Blust (ACD) reconstructs PAn _&ast;ijan_ ‘when?’, and we would expect the PO
 
 From the distributions of their reflexes, it seems that _&ast;ŋaican_ or _&ast;ŋican_ were already alternants to _&ast;ican_ by the time POc broke up.
 
-<table id="2-9-3-5-335-POc-ican-a">
+<table class="cognateset" id="2-9-3-5-335-POc-ican-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -4445,7 +4446,7 @@ From the distributions of their reflexes, it seems that _&ast;ŋaican_ or _&ast;
 
 
 
-<table id="2-9-3-5-335-POc-iaican-a">
+<table class="cognateset" id="2-9-3-5-335-POc-iaican-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -4548,7 +4549,7 @@ From the distributions of their reflexes, it seems that _&ast;ŋaican_ or _&ast;
 
 
 
-<table id="2-9-3-5-335-POc-iican-a">
+<table class="cognateset" id="2-9-3-5-335-POc-iican-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -4684,7 +4685,7 @@ From the distributions of their reflexes, it seems that _&ast;ŋaican_ or _&ast;
 
 A scattering of languages reflect the past formative with either _&ast;ŋaican_ or _&ast;ŋican_.
 
-<table id="2-9-3-5-336-POc-qanaaican-a">
+<table class="cognateset" id="2-9-3-5-336-POc-qanaaican-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -4777,7 +4778,7 @@ A scattering of languages reflect the past formative with either _&ast;ŋaican_ 
 
 In Proto Polynesian, reflexes of POc _&ast;ican_ and its derivatives had been lost. Instead, the PPn local root _&ast;fea_ ‘where’ (Ch. 8, p.265) was used. The local and temporal uses remained distinct, since ‘where’ was expressed by the preposition _&ast;i_ + root, whereas ‘when’ was expressed by prefixing PPn _&ast;qā-_ for the future and _&ast;[qa]na-_ for the past.
 
-<table id="2-9-3-5-337-PPn-qafea-a">
+<table class="cognateset" id="2-9-3-5-337-PPn-qafea-a">
 <tr>
 <td><strong>PPn</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -4817,7 +4818,7 @@ In Proto Polynesian, reflexes of POc _&ast;ican_ and its derivatives had been lo
 
 
 
-<table id="2-9-3-5-337-PPn-qanafea-a">
+<table class="cognateset" id="2-9-3-5-337-PPn-qanafea-a">
 <tr>
 <td><strong>PPn</strong></td><td> </td>
 <td style="white-space: nowrap;">

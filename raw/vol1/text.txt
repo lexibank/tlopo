@@ -2962,7 +2962,7 @@ centre of a settlement, used for communal activities.
 POc *m(a,e)laqai '(?) open space in a settlement'
  NNG: Yabem           melaʔ           'village'
  PT:  Wedau           melagai         'village'
-PPn *malaqe 'open, cleared space used as meeting place or ceremonial place' (Biggs 1993)
+PPn *malaqe 'open, cleared space used as meeting place or ceremonial place' (Biggs & Clark 1993)
  Pn:  Tongan          malaʔe          'village green, park, playground, open market place'
  Pn:  Samoan          malae           'open space in the middle of a village, meeting-ground'
  Pn:  Maori           marae           'enclosed space before house, courtyard'
@@ -3890,7 +3890,7 @@ POc *loqi 'make thread by rolling fibres on the thigh' (Chowning 1991: _*loi_ 't
 >
 
 An unrelated PPn term has been reconstructed for the same process, _*amo_ 'prepare fibres for
-string making (by rubbing between hands or on thigh); prepared fibre' (Biggs 1993).
+string making (by rubbing between hands or on thigh); prepared fibre' (Biggs & Clark 1993).
 
 <
 POc *tali 'rope, cord, plaiting'
@@ -4567,7 +4567,7 @@ stained', its more restricted meaning in Samoa is understandable.
    A second term in Polynesia, referring both to plant and product, is widespread:
 
 <
-PPn *siapo 'paper-mulberry plant (_Broussonetia_ sp.); bark-cloth' (Biggs 1993)
+PPn *siapo 'paper-mulberry plant (_Broussonetia_ sp.); bark-cloth' (Biggs & Clark 1993)
     Pn:     Niuean             hiapo                'paper-mulberry plant, bark-cloth garment'
     Pn:     Tongan             hiapo                'paper-mulberry plant'
     Pn:     E. Futunan         siapo                'bark-cloth'
@@ -4578,7 +4578,7 @@ PPn *siapo 'paper-mulberry plant (_Broussonetia_ sp.); bark-cloth' (Biggs 1993)
     A number of reconstructions have been made at PCP or PPn level, but the similarity of
 gloss indicates the likelihood of more subtleties of meaning than we have been able to
 identify here. They include: PCP _*ŋatu_ 'old or worn bark-cloth', PCP _*leu-leu_ '(old) tapa
-cloth', and PPn _*ŋafi-ŋafi_ 'old mat or bark-cloth' (Biggs 1993).
+cloth', and PPn _*ŋafi-ŋafi_ 'old mat or bark-cloth' (Biggs & Clark 1993).
 
     The only term reconstructable for the Southeast Solomons is apparently limited to the
 island of Malaita.
@@ -4967,7 +4967,7 @@ POc *(sabi-)sabi 'shell disc used as earring'
                                                                     Household artefacts         105
 
 <
-PCP *sau 'ear pendant' (Biggs 1993)
+PCP *sau 'ear pendant' (Biggs & Clark 1993)
   Fij: Rotuman        sau                'earring or ear ornament'
   Fij: Bauan          |sau (ni daliŋa)|  'earring' (_daliŋa_ 'ear')
   Pn:  Tongan         hau                'earring, ear ornament; nose ring, nose ornament'
@@ -6595,7 +6595,7 @@ POc *kawi(t), *kawit-i- (V) 'hook, catch hold of; fruit crook' (French-Wright 19
 >
 
 For the implement, Polynesian languages use terms derived from PPn _*lohu_ 'fruit-plucking
-pole, hook something with a pole' (Biggs 1993).
+pole, hook something with a pole' (Biggs & Clark 1993).
 
    The set above bears a formal and semantic resemblance to PMP/POc _*kawil_ 'hook, fish
 hook' (Ch. 8, §4), but it is unclear what historical connection (if any) exists between them.
@@ -8538,7 +8538,7 @@ Collins (1983), Dahl (1973), Dempwolff (1938), Ferrell (1969), Geraghty (1983), 
 Milke (1961, 1968), Pallesen (1985), Pawley (1972), Reid (1971), Ross (1988), Sneddon (1984)
 and Tryon (1976). We have also consulted dictionaries of many contemporary languages.
 
-[6]   The version of POLLEX (= Biggs 1993) used here, in fact, dates from 1990.
+[6]   The version of POLLEX (= Biggs & Clark 1993) used here, in fact, dates from 1990.
 
 
 7.1.5 Organisation of reconstructions and cognate sets
@@ -13461,7 +13461,7 @@ POc | _*pupu(t)_, _*puti_           |      'pick (fruit +), pluck (feathers +)'
 POc | _*sapu(t)_, _*saput-i-_       |      'pull out, pull up, pluck (fruit, nuts)'
 POc | _*tapu(t)_, _*taput-i_        |      'strip (crops), pull off'
 
-PPn _*lohu_ 'fruit-plucking pole, hook something with a pole' (Biggs 1993), probably also
+PPn _*lohu_ 'fruit-plucking pole, hook something with a pole' (Biggs and Clark 1993), probably also
 reflects PAn _*-buC_ via an otherwise unattested POc _**loput_.
 
    The second set also seems to reflect a single PAn root, namely _*-pak_ 'break, crack, split',
@@ -14034,7 +14034,7 @@ PEOc *pilo(s), *pilos-i 'make a cord by rolling fibres on the thigh' (Bethwyn Ev
 
 
    An unrelated PPn term has been reconstructed for the same process, _*amo_ 'prepare fibres
-for string-making (by rubbing between hands or on thigh); prepared fibre' (Biggs 1993)
+for string-making (by rubbing between hands or on thigh); prepared fibre' (Biggs & Clark 1993)
 
 <
 POc *loqi 'make thread by rolling fibres on the thigh' (Chowning 1991: _*loi_ 'thread made …')

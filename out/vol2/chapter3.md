@@ -1,5 +1,6 @@
-[Meredith Osmond and Andrew Pawley and Malcolm Ross](.smallcaps)
+[Meredith Osmond and Andrew Pawley and Malcolm Ross]{.smallcaps}
 
+<!--start-->
 
 <a id="s-1"></a>
 
@@ -77,7 +78,7 @@ Reflexes of both POc _&ast;panua_ ([vol.1,62](../contributions/1-3#p-62)) and _&
 
 <a id="p-40"></a>
 
-<table id="2-3-2-1-40-POc-panua-a">
+<table class="cognateset" id="2-3-2-1-40-POc-panua-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -321,7 +322,7 @@ cf. also: Other examples refer to more planetary aspects, such as the day/night 
 
 POc _&ast;tanoq_ ‘earth, ground, soil; land’ has already been reconstructed in [vol.1,119](../contributions/1-5#p-119), as a term relevant to horticulture. As a common noun its denotations ranged from the soil beneath one’s feet to the total land mass on which one lived. Besides its use as a common noun, it was also used as a local noun with meanings like ‘down on the ground, down below’ ([Ch.8, §2.2.5](../contributions/2-8#s-2-2-5)).
 
-<table id="2-3-2-1-41-POc-tanoq-a">
+<table class="cognateset" id="2-3-2-1-41-POc-tanoq-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -474,7 +475,7 @@ The term _&ast;tanoq_ disappears in Fiji and Polynesia, where the concept of ‘
 
 Two POc terms are glossed ‘island’. These were probably reserved for small islands. Of our reconstructions, it seems that _&ast;nusa_ was a common noun in POc, but Southeast Solomonic, Fijian and Polynesian reflexes seem to reflect _&ast;qa-nusa_, with the local adverb formative _&ast;qa-_ ([Ch.8, §2.1](../contributions/2-8#s-2-1)). The expected meaning of _&ast;qa-nusa_ is something like ‘at our own island’, and this is in accord with the use of its reflexes in placenames. The Micronesian reflexes, however, suggest that the prefixed form has also come to be used as a common noun.
 
-<table id="2-3-2-2-42-POc-nusa-a">
+<table class="cognateset" id="2-3-2-2-42-POc-nusa-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -561,7 +562,7 @@ Anuta, the name of a very small Polynesian island near Tikopia, is probably also
 
 The primary role of _&ast;motus_ in POc appears to have been as a stative verb, ‘be broken off, severed’ (see [vol.1,247](../contributions/1-9#p-247) for likely derivation from PMP _&ast;utus_ ‘break under tension’). _&ast;motus_ may have been applied only to islets, isolated rocks and detached reefs, and not to larger islands more suitable for habitation.
 
-<table id="2-3-2-2-42-POc-motus-a">
+<table class="cognateset" id="2-3-2-2-42-POc-motus-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -654,7 +655,7 @@ The primary role of _&ast;motus_ in POc appears to have been as a stative verb, 
 
 Cognates of PWOc _&ast;(s,t)imuR_ (below) may reflect POc _&ast;timu(R)_ ‘wind bringing light rain’ (from PMP _&ast;timuR_ ‘south or east wind’) (cf. [Ch. 5, §4.2](../contributions/2-5#s-4-2)). Waruno Mahdi suggests (pers. comm.) that there has been semantic drift from wind to cloud to cloud over island, a traditional navigator’s way of locating islands. Alternatively, there may be an unrelated word, at least in PWOc:
 
-<table id="2-3-2-2-43-PWOc-stimur-a">
+<table class="cognateset" id="2-3-2-2-43-PWOc-stimur-a">
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -688,7 +689,7 @@ Cognates of PWOc _&ast;(s,t)imuR_ (below) may reflect POc _&ast;timu(R)_ ‘wind
 
 Although the next reconstructed form is traceable back to PMP as a verb, its use as a noun is a later development, with its application to a chain of islands apparent only in the Central Pacific.
 
-<table id="2-3-2-2-43-POc-qatur-a">
+<table class="cognateset" id="2-3-2-2-43-POc-qatur-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -778,7 +779,7 @@ This section treats named features of the coastal landscape other than shore ree
 
 Two POc reconstructions can be made for ‘beach’. One, _&ast;qone_, seems primarily to have meant ‘sand’, but the sense ‘sandy beach’ is also quite widely reflected (see [§7.5](../contributions/2-3#s-7-5)). The other reconstruction, _&ast;biker_, is less firmly based. However, it is possible that the terms from Huon Gulf languages listed below may also be reflexes. If they are, then the reconstruction should be _&ast;bʷiker_.
 
-<table id="2-3-3-1-44-POc-bbiker-a">
+<table class="cognateset" id="2-3-3-1-44-POc-bbiker-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -883,7 +884,7 @@ cf. also: the following Huon Gulf terms:
 
 The reflexes of POc _&ast;nuku_ are semantically diverse, ranging from ‘sand’, ‘sandbar at river mouth’, ‘island’, and ‘settlement’ to ‘land, country’. However, the agreement between the Southeast Solomonic languages and Bauan Fijian indicates that POc _&ast;nuku_ referred to sandy ground. It may have been used figuratively for land or settlement, especially in place names, bearing in mind that settlements are often located on flat sandy ground just above the beach.
 
-<table id="2-3-3-1-45-POc-nuku-a">
+<table class="cognateset" id="2-3-3-1-45-POc-nuku-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -992,7 +993,7 @@ In Chapter 4 we have reconstructed PEOc _&ast;tasik maquri(p)_ ‘open sea; ocea
 
 The reconstruction below, PEOc _&ast;liku_, is glossed ‘windward side’, but it seems likely that its reflexes are members of a larger set reflecting PMP _&ast;likuD_, POc _&ast;liku(r)_ ‘person’s back’ whose reflexes are used in a number of languages with the senses ‘back of s.t.’, ‘outside’ ([Ch.8, §2.3.5](../contributions/2-8#s-2-3-5)). The use of reflexes of this term for ‘windward side’ reflects the fact that the outside of a barrier reef is its windward side.
 
-<table id="2-3-3-1-46-PEOc-liku-a">
+<table class="cognateset" id="2-3-3-1-46-PEOc-liku-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1022,7 +1023,7 @@ The reconstruction below, PEOc _&ast;liku_, is glossed ‘windward side’, but 
 
 Similarly, terms located for the leeward or sheltered side include reflexes of an apparently more general term, PMP _&ast;duŋduŋ_, POc _&ast;ruru_.
 
-<table id="2-3-3-1-46-POc-ruru-a">
+<table class="cognateset" id="2-3-3-1-46-POc-ruru-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1064,7 +1065,7 @@ References to ‘shore’ occur also in locative expressions (see Chapter 8). To
 
 The gloss of our next reconstruction, POc _&ast;tobʷa_ is soundly based for PEOc, but depends for promotion to POc on reinterpretation of the name given to the barrier reef islands which enclose Marovo Lagoon. POc _&ast;tobʷa_ is also the reconstructed form for ‘belly, stomach, bag’ and it is possible that ‘bay’ is a metaphorical extension of the term.
 
-<table id="2-3-3-2-46-POc-toba-a">
+<table class="cognateset" id="2-3-3-2-46-POc-toba-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1120,7 +1121,7 @@ The gloss of our next reconstruction, POc _&ast;tobʷa_ is soundly based for PEO
 
 The next set has specific reference to ‘bay’ only in Polynesia. As a POc term, it is a verb used descriptively.
 
-<table id="2-3-3-2-47-POc-paa-a">
+<table class="cognateset" id="2-3-3-2-47-POc-paa-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1187,7 +1188,7 @@ The next set has specific reference to ‘bay’ only in Polynesia. As a POc ter
 
 Polynesian languages use a compound for the mouth of a river, with elements derived from POc forms _&ast;muri_ ‘behind’ + _&ast;waiR_ ‘river, fresh water’.
 
-<table id="2-3-3-3-47-PPn-muriwai-a">
+<table class="cognateset" id="2-3-3-3-47-PPn-muriwai-a">
 <tr>
 <td><strong>PPn</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1272,7 +1273,7 @@ POc terms that can be glossed ‘cape, headland’ are all words for a body part
 
 The suffixed _-a_ of PPn _&ast;utu-a_ below reflects the POc locative nominalising suffix _&ast;-an_ ([vol.1,33](../contributions/1-2#p-33)–34).
 
-<table id="2-3-3-4-48-POc-iucu-a">
+<table class="cognateset" id="2-3-3-4-48-POc-iucu-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1374,7 +1375,7 @@ The last four Pn reflexes restrict the sense to a part of reef exposed at low ti
 
 Reflexes of the next item, POc _&ast;ŋoro-ŋorok_ with the gloss ‘cape’ are few and are not well distributed, but more careful inspection of the data reveals that these reflexes belong to the same cognate set as another word for ‘nose’. We give the reflexes in two sets: those with the gloss ‘cape’ or ‘headland’ first and then those for ‘nose’. Alone, the first set suggests a reconstruction _&ast;ŋora-ŋora_, but comparision with the terms glossed ‘nose’ reveals that final _-a_ is simply the reflex that occurs in certain Southeast Solomonic languages. POc _&ast;ŋoro-ŋorok_ ‘nose, cape’ in its turn was originally probably a colloquial word for ‘nose’ derived from POc &ast;ŋorok ‘snore’.
 
-<table id="2-3-3-4-48-POc-oroorok-a">
+<table class="cognateset" id="2-3-3-4-48-POc-oroorok-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1409,7 +1410,7 @@ Reflexes of the next item, POc _&ast;ŋoro-ŋorok_ with the gloss ‘cape’ are
 
 <a id="p-49"></a>
 
-<table id="2-3-3-4-49-POc-oroorok-a">
+<table class="cognateset" id="2-3-3-4-49-POc-oroorok-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1475,7 +1476,7 @@ Reflexes of the next item, POc _&ast;ŋoro-ŋorok_ with the gloss ‘cape’ are
 
 The final reconstruction, PEOc _&ast;mata_ ‘point of land, headland’ is evidently an extension of the more basic meanings attributed to POc _&ast;(m,mʷ)ata_, namely ‘point, blade, cutting-edge (of a weapon or instrument)’ ([vol.1,89](../contributions/1-4#p-89)).
 
-<table id="2-3-3-4-49-PEOc-mata-a">
+<table class="cognateset" id="2-3-3-4-49-PEOc-mata-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1540,7 +1541,7 @@ Even quite small islands can be dominated by high peaks. While a number of peaks
 
 <a id="p-50"></a>
 
-<table id="2-3-4-1-50-POc-koro-a">
+<table class="cognateset" id="2-3-4-1-50-POc-koro-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1612,7 +1613,7 @@ Even quite small islands can be dominated by high peaks. While a number of peaks
 
 
 
-<table id="2-3-4-1-50-POc-solos-a">
+<table class="cognateset" id="2-3-4-1-50-POc-solos-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1672,7 +1673,7 @@ Even quite small islands can be dominated by high peaks. While a number of peaks
 
 
 
-<table id="2-3-4-1-50-POc-puapua-a">
+<table class="cognateset" id="2-3-4-1-50-POc-puapua-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1718,7 +1719,7 @@ Even quite small islands can be dominated by high peaks. While a number of peaks
 
 <a id="p-51"></a>
 
-<table id="2-3-4-1-51-POc-buku-a">
+<table class="cognateset" id="2-3-4-1-51-POc-buku-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1800,7 +1801,7 @@ Even quite small islands can be dominated by high peaks. While a number of peaks
 
 Reflexes of _&ast;pʷotu_ refer consistently to ‘mountain’ only in MM languages, while some SES languages adopt the ‘knot, swelling’ meaning.
 
-<table id="2-3-4-1-51-POc-potu-a">
+<table class="cognateset" id="2-3-4-1-51-POc-potu-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1866,7 +1867,7 @@ Reflexes of _&ast;pʷotu_ refer consistently to ‘mountain’ only in MM langua
 
 In Polynesia the typical term for mountain is a reflex of _&ast;maquŋa_.
 
-<table id="2-3-4-1-51-PPn-maqua-a">
+<table class="cognateset" id="2-3-4-1-51-PPn-maqua-a">
 <tr>
 <td><strong>PPn</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1916,7 +1917,7 @@ In Polynesia the typical term for mountain is a reflex of _&ast;maquŋa_.
 
 Note also the following PEOc reconstruction:
 
-<table id="2-3-4-1-52-PEOc-qulunipanua-a">
+<table class="cognateset" id="2-3-4-1-52-PEOc-qulunipanua-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1938,7 +1939,7 @@ Note also the following PEOc reconstruction:
 
 A compound term for mountain ridge (‘back’ + ‘bone’) is reconstructable for PPn:
 
-<table id="2-3-4-1-52-PPn-tuqasiwi-a">
+<table class="cognateset" id="2-3-4-1-52-PPn-tuqasiwi-a">
 <tr>
 <td><strong>PPn</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1983,7 +1984,7 @@ A compound term for mountain ridge (‘back’ + ‘bone’) is reconstructable 
 
 We have included two POc reconstructions glossed ‘valley’, although the second is reflected in only two languages.
 
-<table id="2-3-4-2-52-POc-mala-a">
+<table class="cognateset" id="2-3-4-2-52-POc-mala-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2027,7 +2028,7 @@ We have included two POc reconstructions glossed ‘valley’, although the seco
 
 
 
-<table id="2-3-4-2-52-POc-salil-a">
+<table class="cognateset" id="2-3-4-2-52-POc-salil-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2068,7 +2069,7 @@ We have one POc reconstruction for ‘cliff’. Two further reconstructions are 
 
 <a id="p-53"></a>
 
-<table id="2-3-4-3-53-POc-pakarr-a">
+<table class="cognateset" id="2-3-4-3-53-POc-pakarr-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2104,7 +2105,7 @@ We have one POc reconstruction for ‘cliff’. Two further reconstructions are 
 
 
 
-<table id="2-3-4-3-53-PCP-bari-a">
+<table class="cognateset" id="2-3-4-3-53-PCP-bari-a">
 <tr>
 <td><strong>PCP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2143,7 +2144,7 @@ We have one POc reconstruction for ‘cliff’. Two further reconstructions are 
 
 
 
-<table id="2-3-4-3-53-PPn-mato-a">
+<table class="cognateset" id="2-3-4-3-53-PPn-mato-a">
 <tr>
 <td><strong>PPn</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2200,7 +2201,7 @@ We have one POc reconstruction for ‘cliff’. Two further reconstructions are 
 
 Although terms exist in many languages for cave, we have no evidence of cognacy outside Polynesia.
 
-<table id="2-3-4-4-53-PPn-qana-a">
+<table class="cognateset" id="2-3-4-4-53-PPn-qana-a">
 <tr>
 <td><strong>PPn</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2247,7 +2248,7 @@ Although terms exist in many languages for cave, we have no evidence of cognacy 
 
 Almost every language for which we have extensive lexical data has a term meaning ‘flat land’, but cognates have been difficult to find. Our only reconstruction is based on cognates from Papuan Tip and Polynesia, with Polynesia using the same term in compound form for ‘lowland’. This is probably the same word as POc _&ast;raun_ ‘leaf’, which occurs in many languages as a kind of classifier for flat things.
 
-<table id="2-3-4-5-54-POc-raun-a">
+<table class="cognateset" id="2-3-4-5-54-POc-raun-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2325,7 +2326,7 @@ The following reconstructions include terms for particular kinds of land, identi
 
 The three following cognate sets are repeated from [vol.1,118](../contributions/1-5#p-118)–119.
 
-<table id="2-3-5-1-54-POc-qutan-a">
+<table class="cognateset" id="2-3-5-1-54-POc-qutan-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2430,7 +2431,7 @@ The Mussau and Tolo reflexes mean ‘garden’: this change of meaning is probab
 
 <a id="p-55"></a>
 
-<table id="2-3-5-1-55-PEOc-wao-a">
+<table class="cognateset" id="2-3-5-1-55-PEOc-wao-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2470,7 +2471,7 @@ It is tempting to associate the set above with PMP _&ast;waRej_, POc _&ast;waRoc
 
 The next POc reconstruction contrasts with _&ast;quma_ ‘garden, cultivated land’ ([vol.1,117](../contributions/1-5#p-117))
 
-<table id="2-3-5-1-55-POc-talun-a">
+<table class="cognateset" id="2-3-5-1-55-POc-talun-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2556,7 +2557,7 @@ The next POc reconstruction contrasts with _&ast;quma_ ‘garden, cultivated lan
 
 A number of reconstructions are loosely glossed ‘swamp’. In wordlists these may be defined further as saltwater or freshwater swamps, or by their vegetation. Nipa palm and mangrove swamps are found in inter-tidal zones along the coast and in river estuaries, while lowland freshwater swamps, often dominated by sago, are found inland. However, few wordlists distinguish more than one kind of swamp, and we are unable to be more specific in our reconstructions.[^5] Two further reconstructions, POc _&ast;[dr,r]ano_ ‘lake, swamp’ and POc _&ast;[g,k]opu_ ‘pond, lagoon, swamp’ blur the distinction between water hole/lagoon and swamp.
 
-<table id="2-3-5-2-56-POc-drrano-a">
+<table class="cognateset" id="2-3-5-2-56-POc-drrano-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2628,7 +2629,7 @@ A number of reconstructions are loosely glossed ‘swamp’. In wordlists these 
 
 
 
-<table id="2-3-5-2-56-POc-paca-a">
+<table class="cognateset" id="2-3-5-2-56-POc-paca-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2669,7 +2670,7 @@ The next term is reconstructable in two forms, as either _&ast;gopu_ or _&ast;ko
 
 <a id="p-57"></a>
 
-<table id="2-3-5-2-57-POc-gkopu-a">
+<table class="cognateset" id="2-3-5-2-57-POc-gkopu-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2737,7 +2738,7 @@ cf. also:
 
 In the next two sets, emphasis is perhaps on the mud itself rather than on a muddy water feature.
 
-<table id="2-3-5-2-57-POc-ppitak-a">
+<table class="cognateset" id="2-3-5-2-57-POc-ppitak-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2773,7 +2774,7 @@ In the next two sets, emphasis is perhaps on the mud itself rather than on a mud
 
 
 
-<table id="2-3-5-2-57-POc-poapoa-a">
+<table class="cognateset" id="2-3-5-2-57-POc-poapoa-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2811,7 +2812,7 @@ In the next two sets, emphasis is perhaps on the mud itself rather than on a mud
 
 The final two reconstructed forms in this section probably referred to wet taro swamp gardens.
 
-<table id="2-3-5-2-57-PEOc-bela-a">
+<table class="cognateset" id="2-3-5-2-57-PEOc-bela-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2866,7 +2867,7 @@ The final two reconstructed forms in this section probably referred to wet taro 
 
 <a id="p-58"></a>
 
-<table id="2-3-5-2-58-PCP-vusi-a">
+<table class="cognateset" id="2-3-5-2-58-PCP-vusi-a">
 <tr>
 <td><strong>PCP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -2912,7 +2913,7 @@ The final two reconstructed forms in this section probably referred to wet taro 
 
 In POc a single word, _&ast;waiR_, evidently denoted both ‘fresh water’ and ‘river, stream’. A second term, _&ast;(dr,r)anum_, specifically denoted ‘fresh water’. Both forms continue PMP etyma reconstructed with the same meaning, and both are well represented across Oceanic subgroups.
 
-<table id="2-3-6-1-58-POc-wair-a">
+<table class="cognateset" id="2-3-6-1-58-POc-wair-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -3052,7 +3053,7 @@ In POc a single word, _&ast;waiR_, evidently denoted both ‘fresh water’ and 
 
 The form _&ast;dranum_ below is reflected by most witnesses, but some languages (Motu, Nakanai, Namakir) reflect _&ast;ranum_, and the Admiralties languages may reflect either _&ast;dr_ or _&ast;r_.
 
-<table id="2-3-6-1-59-POc-drranum-a">
+<table class="cognateset" id="2-3-6-1-59-POc-drranum-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -3171,7 +3172,7 @@ No POc term has been reconstructed for ‘river’ as distinct from the term for
 
 We have one lower-level reconstruction for a river branch.
 
-<table id="2-3-6-1-60-PEOc-maa-a">
+<table class="cognateset" id="2-3-6-1-60-PEOc-maa-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -3207,7 +3208,7 @@ We have one lower-level reconstruction for a river branch.
 
 For coastal dwellers, fresh water is often obtained from springs. PAn _&ast;Cebuj_ ‘spring’ is continued in POc by doublets, _&ast;topu(R)_ and _&ast;tupu(R)_. Oceanic reflexes refer mainly to springs on a beach or shoreline, or to brackish water. Doublets are found in some Southeast Solomonic languages.
 
-<table id="2-3-6-2-60-POc-topur-a">
+<table class="cognateset" id="2-3-6-2-60-POc-topur-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -3316,7 +3317,7 @@ For coastal dwellers, fresh water is often obtained from springs. PAn _&ast;Cebu
 
 Polynesian languages have a well-attested term for ‘spring’ which continues a PMP form meaning ‘source’. Curiously, no reflexes have been found in other Oceanic languages.
 
-<table id="2-3-6-2-61-POc-buna-a">
+<table class="cognateset" id="2-3-6-2-61-POc-buna-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -3397,7 +3398,7 @@ Polynesian languages have a well-attested term for ‘spring’ which continues 
 
 The next reconstruction, in its simple form _&ast;pura(q)_, was primarily a verb ‘bubble up’. Its reduplicated form may have served as a noun denoting a spring as it does in several Southeast Solomonic witnesses and in Bauan Fijian. Among several similar forms (see [Ch.4, §2.5](../contributions/2-4#s-2-5)), Blust (ACD) lists PMP _&ast;budaq_ ‘foam, bubbles, lather, scum, froth’, continued as POc _&ast;pura-puraq_ ‘foam, bubbles, bubble up’. The related forms include POc _&ast;puro_ ‘bubble up, (hot spring) boil’ (p.83).
 
-<table id="2-3-6-2-61-POc-puraq-a">
+<table class="cognateset" id="2-3-6-2-61-POc-puraq-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -3479,7 +3480,7 @@ The next reconstruction, in its simple form _&ast;pura(q)_, was primarily a verb
 
 A number of languages use a compound, translatable literally as ‘eye of water’ or similar to refer to a spring. A POc reconstruction is possible given the existence of Indonesian _mata air_ ‘spring’, reflecting PMP _&ast;mata WahiR_ ‘spring of water’. Other compounds with similar meaning are found throughout the wider Oceanic region.
 
-<table id="2-3-6-2-62-POc-matawair-a">
+<table class="cognateset" id="2-3-6-2-62-POc-matawair-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -3562,7 +3563,7 @@ Other compounds retaining reflexes of POc _&ast;mata_ ‘eye’ but varying in t
 
 The following reconstruction, POc _&ast;sa[p,b]u(q)_, is used both as a verb ‘fall, trickle down, of water’ and a noun ‘waterfall’.
 
-<table id="2-3-6-3-62-POc-sapbuq-a">
+<table class="cognateset" id="2-3-6-3-62-POc-sapbuq-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -3619,7 +3620,7 @@ The following reconstruction, POc _&ast;sa[p,b]u(q)_, is used both as a verb ‘
 
 POc _&ast;tape_ has been reconstructed in Chapter 4 as both a noun and verb meaning ‘flow’, with reference to ocean currents. However, it is also reconstructable, possibly reduplicated, with the meaning ‘waterfall’.
 
-<table id="2-3-6-3-63-POc-tapetape-a">
+<table class="cognateset" id="2-3-6-3-63-POc-tapetape-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -3659,7 +3660,7 @@ The mineral substance most highly valued by POc speakers would have been hard, e
 
 The generic term for ‘stone’ or ‘rock’ was POc _&ast;patu_.
 
-<table id="2-3-7-1-63-POc-patu-a">
+<table class="cognateset" id="2-3-7-1-63-POc-patu-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -3832,7 +3833,7 @@ The generic term for ‘stone’ or ‘rock’ was POc _&ast;patu_.
 
 The form below is a reduplication of POc _&ast;maga_ ‘stone; slingshot’ ([vol.1,227](../contributions/1-8#p-227)). It probably referred to gravel or pebbles, as its reflexes do in Polynesian and Micronesian languages. Western Oceanic cognates show a semantic shift to ‘sand’.
 
-<table id="2-3-7-1-64-POc-magamaga-a">
+<table class="cognateset" id="2-3-7-1-64-POc-magamaga-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -3900,7 +3901,7 @@ The form below is a reduplication of POc _&ast;maga_ ‘stone; slingshot’ ([vo
 
 Two reconstructions for obsidian were proposed in [vol.1(93](../contributions/1-4#p-93)), one at POc level and one at PWOc. They are:
 
-<table id="2-3-7-2-64-POc-naddri-a">
+<table class="cognateset" id="2-3-7-2-64-POc-naddri-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -3940,7 +3941,7 @@ Two reconstructions for obsidian were proposed in [vol.1(93](../contributions/1-
 
 
 
-<table id="2-3-7-2-64-PWOc-qarri-a">
+<table class="cognateset" id="2-3-7-2-64-PWOc-qarri-a">
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -3993,7 +3994,7 @@ POc _&ast;laje_ was the general term for coral as the substance from which reefs
 
 Dead coral was evidently valued as coral rubble (POc _&ast;giri-giri_), and as a source of the lime (POc _&ast;qapu(R)_), taken with betel nut.
 
-<table id="2-3-7-3-65-POc-girigiri-a">
+<table class="cognateset" id="2-3-7-3-65-POc-girigiri-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -4055,7 +4056,7 @@ Dead coral was evidently valued as coral rubble (POc _&ast;giri-giri_), and as a
 
 The chewing of betel nut, combined with lime and pepper as a stimulant, is widespread in northwest Melanesia and the Solomons, but is not practised further east. Lime could be obtained by burning shells as well as coral.
 
-<table id="2-3-7-3-65-POc-qapur-a">
+<table class="cognateset" id="2-3-7-3-65-POc-qapur-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -4154,7 +4155,7 @@ The chewing of betel nut, combined with lime and pepper as a stimulant, is wides
 
 Pumice is a porous solidified lava that floats and is also useful as an abrasive. A compound term reflecting POc _&ast;patu_ + _maqañur_ (‘stone’ + ‘float’) is reconstructable for PEOc.
 
-<table id="2-3-7-4-66-PEOc-patumaqanur-a">
+<table class="cognateset" id="2-3-7-4-66-PEOc-patumaqanur-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -4190,7 +4191,7 @@ Other compound terms include Roviana (MM) _patu ale_ and Gela (SES) _vatu ali_, 
 
 Proto Micronesian had its own term for pumice, probably preposed by _&ast;fatu_ ‘stone’.
 
-<table id="2-3-7-4-66-PMic-fatuwani-a">
+<table class="cognateset" id="2-3-7-4-66-PMic-fatuwani-a">
 <tr>
 <td><strong>PMic</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -4225,7 +4226,7 @@ Proto Micronesian had its own term for pumice, probably preposed by _&ast;fatu_ 
 
 A distinctive term, PCP _&ast;vuqa(i)ŋa_, is reflected in Fijian and Polynesian. This term also referred to grindstones, reflecting the use of pumice as an abrasive.
 
-<table id="2-3-7-4-66-PCP-vuqaia-a">
+<table class="cognateset" id="2-3-7-4-66-PCP-vuqaia-a">
 <tr>
 <td><strong>PCP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -4276,7 +4277,7 @@ A distinctive term, PCP _&ast;vuqa(i)ŋa_, is reflected in Fijian and Polynesian
 
 There is a well-attested POc term for ‘sand’ which continues a PAn etymon (see also POc _&ast;nuku_ ‘sandy ground’, p.45).
 
-<table id="2-3-7-5-67-POc-qone-a">
+<table class="cognateset" id="2-3-7-5-67-POc-qone-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -4410,7 +4411,7 @@ There is a well-attested POc term for ‘sand’ which continues a PAn etymon (s
 
 A reduplicated form of the above can also be reconstructed. This may have denoted the property ‘sandy’ as well as ‘sand’.
 
-<table id="2-3-7-5-68-POc-qoneqone-a">
+<table class="cognateset" id="2-3-7-5-68-POc-qoneqone-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -4488,7 +4489,7 @@ Two POc terms meaning ‘soil’ are well-supported: _&ast;tanoq_ appears to hav
 
 Some soils contained pigments useful in both body and pot decoration. Although various wordlists include terms for red, white or yellow clay, we have not been able to reconstruct terms. Teeth-blackening was practised among Western Oceanic speakers (PWOc _&ast;tapal_ ‘substance used to blacken teeth’; [vol.1,101](../contributions/1-4#p-101)), but it is unclear from the literature whether the substance was mineral or vegetable matter .
 
-<table id="2-3-7-6-68-POc-paya-a">
+<table class="cognateset" id="2-3-7-6-68-POc-paya-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -4535,7 +4536,7 @@ In the cognate set above, final _-a_ is reflected only in PT languages, where it
 
 There is also a POc form, _&ast;pʷiRa_, whose reflexes are, geographically, apparently in complementary distribution with the above set.
 
-<table id="2-3-7-6-69-POc-pwira-a">
+<table class="cognateset" id="2-3-7-6-69-POc-pwira-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -4593,7 +4594,7 @@ There is also a POc form, _&ast;pʷiRa_, whose reflexes are, geographically, app
 
 Central Pacific shows an innovation in replacing _&ast;tano(q)_ with _&ast;gʷele_.
 
-<table id="2-3-7-6-69-PCP-gele-a">
+<table class="cognateset" id="2-3-7-6-69-PCP-gele-a">
 <tr>
 <td><strong>PCP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -4670,7 +4671,7 @@ Another cognate set may share ancestry with PCP _&ast;gʷele_. It includes Dami 
 
 Clay was used in pot manufacture, which was practised by POc speakers (see [vol.1,67](../contributions/1-4#p-67)–71). Although non-Oceanic cognates of POc _&ast;raRo(q)_ refer to ground or earth, e.g. Formosan Bunun _dalaq_ ‘ground (earth, land, place, soil)’; WMP Ilocano _daga_ ‘earth, land, soil’, and CMP Buru _rahe_ ‘ground’, we can infer that in POc, _&ast;raRo(q)_ referred specifically to ‘clay’. In NNG and Papuan Tip witnesses, reflexes refer to clay. Meso-Melanesian reflexes refer to clay cooking pots, but not, apparently, to the clay itself. New Caledonian reflexes refer to both clay and pots.
 
-<table id="2-3-7-7-70-POc-raroq-a">
+<table class="cognateset" id="2-3-7-7-70-POc-raroq-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -4729,7 +4730,7 @@ Clay was used in pot manufacture, which was practised by POc speakers (see [vol.
 
 POc _&ast;maqasin_ seems to have been both a stative verb meaning ‘be salty’ ([vol.1,159](../contributions/1-6#p-159)) and a noun meaning ‘salt’. Its PMP antecedent _&ast;ma-qasin_, however, was purely a stative verb meaning ‘be salty’, derived from the noun _&ast;qasin_ ‘salty taste, salt’ (ACD). Like a number of other PMP stative verbs derived with _&ast;ma-_ from nouns, the prefix of _&ast;maqasin_ became fossilised in POc ([Evans & Ross 2001](../sources/EvansandRoss2001)).
 
-<table id="2-3-7-8-70-POc-maqasin-a">
+<table class="cognateset" id="2-3-7-8-70-POc-maqasin-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -4814,7 +4815,7 @@ POc _&ast;maqasin_ seems to have been both a stative verb meaning ‘be salty’
 
 PAn _&ast;qasiRa_ ‘salt’ has Oceanic reflexes. Despite the formal resemblance to PAn _&ast;qasiN_ / PMP _&ast;qasin_ ‘salt’, the supporting data in the [ACD](../sources/Blust1995) show clearly that these are distinct etyma. Blust (ACD) interprets the SES reflexes as reflexes of _&ast;tasik_ ‘sea’ (see [Ch.4, §2.1](../contributions/2-4#s-2-1)) with an added suffix _-la_, but it seems far more likely that they reflect POc _&ast;qasiRa_ ‘salt’.
 
-<table id="2-3-7-8-71-POc-qasira-a">
+<table class="cognateset" id="2-3-7-8-71-POc-qasira-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -4877,7 +4878,7 @@ In Kiriwina, in addition to the three general terms _kova_ (i) ‘fire’, (ii) 
 
 The PAn name for fire, _&ast;Sapuy_, is among the more stable terms in the lexicon.
 
-<table id="2-3-8-1-72-POc-api-a">
+<table class="cognateset" id="2-3-8-1-72-POc-api-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -4955,7 +4956,7 @@ In some Oceanic languages reflexes of POc _&ast;api_ are also used as a verb mea
 
 Blust (ACD) reconstructs PMP _&ast;luten_ ‘firewood’ based on WMP: LongWat _luten_ ‘fire’, Kayan _luten_ ‘firebrand, partly burnt stick’, Bisaya Bukit _luton_ ‘burning brand’, CMP: Tetum _haʔi lutan_ ‘burning brand’, SHWNG: Sawai _luten_ ‘fire’, Oceanic: Mota _lito_ ‘firewood’. Blust (ACD) glosses the variants PMP _&ast;aluten_ and _&ast;aliten_ as (i) ‘firebrand’, (ii) ‘burning wood in a fire’, (iii) ‘charred wood’, but does not cite (iv) ‘firewood’. The Oceanic evidence offers support for senses (i) and (less strongly) (iv).
 
-<table id="2-3-8-2-72-POc-aliton-a">
+<table class="cognateset" id="2-3-8-2-72-POc-aliton-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -5063,7 +5064,7 @@ cf. also:
 
 It appears that most Oceanic languages use a single term to refer to both ‘hot coals’ and ‘embers’. At any rate most dictionaries of Oceanic languages do not record such a distinction. POc _&ast;koran_ appears to have been used both as a noun denoting ‘fragments of burning wood’ and as a verb meaning something like ‘burn brightly’.
 
-<table id="2-3-8-2-73-POc-koran-a">
+<table class="cognateset" id="2-3-8-2-73-POc-koran-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -5118,7 +5119,7 @@ PMP _&ast;baRah_ ‘live coal’ may be reconstructed from, e.g. Tagalog _baga_,
 
 The following cognate set is tentatively attributed to a POc etymon glossed ‘low-burning remnants of a fire’. The Meso-Melanesian reflexes suggest ‘ash’ or ‘charcoal’. However, the meaning ‘ash’ can be eliminated because there are much stronger candidates for this. The partial agreement between Tolai, Wayan Fijian and Gela points to low-burning residue of some sort.
 
-<table id="2-3-8-2-74-POc-kapuru-a">
+<table class="cognateset" id="2-3-8-2-74-POc-kapuru-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -5184,7 +5185,7 @@ The following cognate set is tentatively attributed to a POc etymon glossed ‘l
 
 Charcoal is likely to have been distinctively named in Proto Oceanic. Carbonised wood was widely used in Pacific Island communities for drawing marks or, pounded and mixed with oil and water, for smearing on the skin. PMP _&ast;uRiŋ_ ‘charcoal, wood that is charred (but no longer burning fiercely)’ has been reconstructed by Dempwolff and others, based on e.g. Tagalog _uliŋ_, Bontok _uriŋ_, Ngadju-Dayak _b/uriŋ_, etc. but Oceanic cognates have not been noted. There is a well supported reconstruction for Eastern Oceanic, _&ast;malala_, but this lacks clear cognates in Western Oceanic.
 
-<table id="2-3-8-2-74-PEOc-malala-a">
+<table class="cognateset" id="2-3-8-2-74-PEOc-malala-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -5276,7 +5277,7 @@ POc used at least two terms to denote ashes. These had distinct but overlapping 
 
 <a id="p-75"></a>
 
-<table id="2-3-8-2-75-POc-rapur-a">
+<table class="cognateset" id="2-3-8-2-75-POc-rapur-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -5372,7 +5373,7 @@ POc used at least two terms to denote ashes. These had distinct but overlapping 
 
 Blust (ACD) attributes, to varying Austronesian interstages, a number of fairly similar forms whose gloss includes one or more of the following: ‘ash’, ‘dust’, ‘cinders’, ‘powder’. These forms include PAn _&ast;qabu_ ‘ash, cinders, powder’, PMP _&ast;abus_ ‘ashes’, _&ast;qabuk_ ‘dust’, and PWMP _&ast;abuR_, _&ast;apuk_, _&ast;qabug_ ‘dust’. PAn _&ast;qabu_, by far the most widely attested of these forms, is continued with regular reflexes in a number of Oceanic languages.
 
-<table id="2-3-8-2-75-POc-qapu-a">
+<table class="cognateset" id="2-3-8-2-75-POc-qapu-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -5453,7 +5454,7 @@ Blust (ACD) attributes, to varying Austronesian interstages, a number of fairly 
 
 However, many Western Oceanic languages have forms that point to a form _&ast;kapu_ meaning ‘ash, dust’, with initial _&ast;k_ rather than _&ast;q_.
 
-<table id="2-3-8-2-76-PWOc-kapu-a">
+<table class="cognateset" id="2-3-8-2-76-PWOc-kapu-a">
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -5533,7 +5534,7 @@ In some Oceanic languages reflexes of POc _&ast;qapu_ ‘ashes, dust’ fell tog
 
 A number of terms for the general process of burning or being on fire can be reconstructed.
 
-<table id="2-3-8-3-76-POc-kgabu-a">
+<table class="cognateset" id="2-3-8-3-76-POc-kgabu-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -5616,7 +5617,7 @@ cf. also:
 
 <a id="p-77"></a>
 
-<table id="2-3-8-3-77-POc-bula-a">
+<table class="cognateset" id="2-3-8-3-77-POc-bula-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -5733,7 +5734,7 @@ cf. also:
 </table>
 
 
-<table id="2-3-8-3-77-POc-udra-a">
+<table class="cognateset" id="2-3-8-3-77-POc-udra-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -5803,7 +5804,7 @@ cf. also:
 
 POc, like some of its daughter languages, seems to have distinct terms for smoke as a thing (_&ast;qasu_) and the process of emitting smoke or vapour (_&ast;kupu(k)_).
 
-<table id="2-3-8-4-78-POc-qasu-a">
+<table class="cognateset" id="2-3-8-4-78-POc-qasu-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -5908,7 +5909,7 @@ POc, like some of its daughter languages, seems to have distinct terms for smoke
 
 In the following cognate set, Polynesian languages show unexpected _o_ for _&ast;u_ in the first syllable.
 
-<table id="2-3-8-4-78-POc-kupuk-a">
+<table class="cognateset" id="2-3-8-4-78-POc-kupuk-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -5988,7 +5989,7 @@ In the following cognate set, Polynesian languages show unexpected _o_ for _&ast
 
 PCP _&ast;kobulu_, possibly meaning ‘thick smoke or cloud’ is indicated by reflexes in Fijian and Maori. The existence of a probable cognate in Javanese _kəbul_ ‘smoke’ allows the tentative reconstruction of PMP _&ast;kəbul_, POc _&ast;kobul(u)_ ‘smoke’.
 
-<table id="2-3-8-4-79-PCP-kobulu-a">
+<table class="cognateset" id="2-3-8-4-79-PCP-kobulu-a">
 <tr>
 <td><strong>PCP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -6031,7 +6032,7 @@ cf. also:
 
 Widely scattered languages use a reflex of POc _&ast;maya_ ‘tongue’ (either alone, or in a compound meaning ‘tongue of fire’) to refer to flames. Given that ‘flame’ is a natural metaphorical extension of ‘tongue’ it is difficult to know whether _&ast;maya_ had this polysemy in POc or whether daughter languages have from time to time independently made the same extension.
 
-<table id="2-3-8-4-79-POc-mayaniapi-a">
+<table class="cognateset" id="2-3-8-4-79-POc-mayaniapi-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -6102,7 +6103,7 @@ cf. also: the following, where there is semantic correspondence even though one 
 </table>
 
 
-<table id="2-3-8-4-79-POc-puru-a">
+<table class="cognateset" id="2-3-8-4-79-POc-puru-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -6166,7 +6167,7 @@ Certain Papuan languages of the central and western Solomons show resemblant for
 
 There are several cognate sets pointing to PEOc forms denoting burning with a particular kind of light.
 
-<table id="2-3-8-4-80-PEOc-maka-a">
+<table class="cognateset" id="2-3-8-4-80-PEOc-maka-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -6220,7 +6221,7 @@ cf. also:
 </table>
 
 
-<table id="2-3-8-4-80-PEOc-makalo-a">
+<table class="cognateset" id="2-3-8-4-80-PEOc-makalo-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -6267,7 +6268,7 @@ cf. also:
 
 
 
-<table id="2-3-8-4-80-PEOc-kalokalo-a">
+<table class="cognateset" id="2-3-8-4-80-PEOc-kalokalo-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -6324,7 +6325,7 @@ Because of their location on an unstable part of the earth’s crust, many parts
 
 Parts of New Guinea and Island Melanesia have a long history of volcanic activity. Within recorded history the area of New Britain round Rabaul, for instance, has been the scene of violent eruptions in 1850, 1878, 1937 and 1994, causing loss of life and enormous environmental damage. Although we have collected a range of terms for volcanoes and volcanic features, soundly based POc reconstructions for ‘volcano’ and features of volcanic activity such as lava and volcanic ash, have eluded us. It may well be that Melanesians had no separate concept for ‘volcano’, regarding it simply as a mountain that produces fire. In Manam, Takia and Nehan, the word for ‘fire’ is used also to refer to a volcano. Terms reconstructed in the section on fire above, such as POc _&ast;qapu_ ‘ash, dust, powder’ and POc _&ast;kupu(k)_ ‘emit smoke or steam’, could readily have been applied to volcanic features. A single lower-level reconstruction for ‘volcano’ comes from North Central Vanuatu, with a possible cognate from North New Guinea which suggests a rather tentative POc reconstruction.
 
-<table id="2-3-9-1-81-POc-banoi-a">
+<table class="cognateset" id="2-3-9-1-81-POc-banoi-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -6390,7 +6391,7 @@ Parts of New Guinea and Island Melanesia have a long history of volcanic activit
 
 The next reconstruction belongs to a set of formally similar items with meanings relating to bubbling, frothing and foaming (see _&ast;pura(q)_ on p.60). The semantic change evident between the Tolai and Mota glosses may perhaps be explained as transfer of meaning from ‘place/activity of emission’ to ‘matter emitted’.
 
-<table id="2-3-9-1-83-POc-puro-a">
+<table class="cognateset" id="2-3-9-1-83-POc-puro-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -6436,7 +6437,7 @@ It is notable that in both cognate sets above, there is a tendency for the gloss
 
 While the following two cognate sets are presumably related, we cannot unite them into a single set.
 
-<table id="2-3-9-2-83-POc-drikedrike-a">
+<table class="cognateset" id="2-3-9-2-83-POc-drikedrike-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -6466,7 +6467,7 @@ cf. also:
 </table>
 
 
-<table id="2-3-9-2-83-POc-rike-a">
+<table class="cognateset" id="2-3-9-2-83-POc-rike-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -6522,7 +6523,7 @@ In several of the following cognate sets, the term for earthquake is closely rel
 
 <a id="p-84"></a>
 
-<table id="2-3-9-2-84-POc-ninir-a">
+<table class="cognateset" id="2-3-9-2-84-POc-ninir-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -6568,7 +6569,7 @@ In several of the following cognate sets, the term for earthquake is closely rel
 
 In a number of northwest and southeast Solomons languages, the term for earthquake is nunu. PMP _&ast;uyuŋ_ ‘shake; earthquake’ would give POc _&ast;iu(ŋ)_. The actor pivot PMP form _&ast;ŋ-uyuŋ_ would give POc _&ast;ŋ-iu(ŋ)_. This may be ancestral to the form _niu_ or _ñu_ ‘to shake, hence ‘an earthquake’, found in two MM languages, Hoava and Roviana, as well as to _nunu_ by regular depalatalisation.
 
-<table id="2-3-9-2-84-POc-iu-a">
+<table class="cognateset" id="2-3-9-2-84-POc-iu-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -6620,7 +6621,7 @@ In a number of northwest and southeast Solomons languages, the term for earthqua
 
 
 
-<table id="2-3-9-2-84-PSS-anu-a">
+<table class="cognateset" id="2-3-9-2-84-PSS-anu-a">
 <tr>
 <td><strong>PSS</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -6675,7 +6676,7 @@ In a number of northwest and southeast Solomons languages, the term for earthqua
 
 
 
-<table id="2-3-9-2-84-PNCV-ruru-a">
+<table class="cognateset" id="2-3-9-2-84-PNCV-ruru-a">
 <tr>
 <td><strong>PNCV</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -6714,7 +6715,7 @@ In a number of northwest and southeast Solomons languages, the term for earthqua
 
 POc _&ast;solo_ was probably a verb, but its reflexes refer, inter alia, to landslides in several daughter languages. They are also found in Puluwatese (Mic), linked to star names, to refer to stars sinking towards the horizon (see [Ch. 6, §5.4.2](../contributions/2-6#s-5-4-2)).
 
-<table id="2-3-9-3-85-POc-solo-a">
+<table class="cognateset" id="2-3-9-3-85-POc-solo-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -6786,7 +6787,7 @@ POc _&ast;solo_ was probably a verb, but its reflexes refer, inter alia, to land
 
 
 
-<table id="2-3-9-3-85-PEOc-tobpa-a">
+<table class="cognateset" id="2-3-9-3-85-PEOc-tobpa-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -6963,7 +6964,7 @@ No POc term denoting tidal wave has been reconstructed. In contemporary language
 
 A PMP term for ‘flood’ (V and N) is continued in two known Oceanic witnesses. In Sa’a its reflex is a noun referring to a high spring tide. In Tongan it is a verb denoting the state or process of a river being in flood.
 
-<table id="2-3-9-5-86-POc-paaq-a">
+<table class="cognateset" id="2-3-9-5-86-POc-paaq-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -6994,7 +6995,7 @@ A PMP term for ‘flood’ (V and N) is continued in two known Oceanic witnesses
 
 As a compound with the term for fresh water, POc _&ast;waiR pa(a)q_ ‘river floodwaters’, is traceable back to PMP, although the Tongan form is our only Oceanic reflex.
 
-<table id="2-3-9-5-86-POc-wairpaaq-a">
+<table class="cognateset" id="2-3-9-5-86-POc-wairpaaq-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -7020,7 +7021,7 @@ As a compound with the term for fresh water, POc _&ast;waiR pa(a)q_ ‘river flo
 
 Flooding for coastal dwellers on small Oceanic islands is likely to be the result of an unusually high tide (POc _&ast;[u]Ruap_ ‘high tide; to flow in of tide’, see [Ch.4, §2.6](../contributions/2-4#s-2-6)), rather than heavy rain. King tides or spring tides are phenomena which occur at regular intervals, so are unlikely to be of more than nuisance value except when exacerbated by high winds. Terms for tidal flooding may be compounds including reflexes of _&ast;[u]Ruap_, or a related form (_&ast;[ma-]uRua(p)_ ‘flood, be flooded’) (Sa’a _lua hā_ ‘high spring tide’, Mota _rue lava_ ‘large tide’, Bauan Fijian _ua luvu_ ‘submerging tide’). Other POc terms include reflexes of _&ast;lolo_ (V) ‘flood’, and _&ast;lomak_ (N,V) ‘flood, of sea’.
 
-<table id="2-3-9-5-86-POc-mauruap-a">
+<table class="cognateset" id="2-3-9-5-86-POc-mauruap-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -7051,7 +7052,7 @@ Flooding for coastal dwellers on small Oceanic islands is likely to be the resul
 
 <a id="p-87"></a>
 
-<table id="2-3-9-5-87-POc-lolo-a">
+<table class="cognateset" id="2-3-9-5-87-POc-lolo-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -7086,7 +7087,7 @@ Flooding for coastal dwellers on small Oceanic islands is likely to be the resul
 
 
 
-<table id="2-3-9-5-87-POc-lomak-a">
+<table class="cognateset" id="2-3-9-5-87-POc-lomak-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -7140,7 +7141,7 @@ Flooding for coastal dwellers on small Oceanic islands is likely to be the resul
 
 The reconstruction below appears to have referred to flooding or gushing.
 
-<table id="2-3-9-5-87-POc-noro-a">
+<table class="cognateset" id="2-3-9-5-87-POc-noro-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -7194,7 +7195,7 @@ Whirlpools and waterspouts and some other phenomena such as rainbows and echoes,
 
 The meanings of the prefix _&ast;qā-_, and the alternative form _&ast;pua-_ (blowing?) in the following set are uncertain.
 
-<table id="2-3-9-7-88-PEOc-siosio-a">
+<table class="cognateset" id="2-3-9-7-88-PEOc-siosio-a">
 <tr>
 <td><strong>PEOc</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -7255,7 +7256,7 @@ The meanings of the prefix _&ast;qā-_, and the alternative form _&ast;pua-_ (bl
 
 The next item may be associated in some way with POc _&ast;piro_ ‘twist together’ ([vol.1,287](../contributions/1-9#p-287)).
 
-<table id="2-3-9-7-88-POc-pirupiru-a">
+<table class="cognateset" id="2-3-9-7-88-POc-pirupiru-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">

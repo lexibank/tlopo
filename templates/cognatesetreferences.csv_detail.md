@@ -1,4 +1,4 @@
-<table id="{{ ctx['ID'] }}">
+<table class="cognateset" id="{{ ctx['ID'] }}">
 {% set glosses = glosses_by_formid(ctx['ID']) %}
 {% set forms, fns, sgs = get_reconstruction(ctx['ID']) %}
 {% set ns = namespace(subgroup=None) %}
