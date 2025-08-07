@@ -2587,7 +2587,7 @@ floor or roof timbers.
 boat.
 
 <
-PMP *seŋkar 'cross-seat in boat, thwart' (Blust 1972b: *soka)
+PMP *seŋkar 'cross-seat in boat, thwart' (Blust 1972b: _*soka_)
 POc *soka(r) 'bracing timber, crossbeam' (cf. Ch. 7, §2.5)
   SES: 'Are'are        oka          'cross beam' (irreg. for expected _*toka_)
   Mic: Kiribati        oka          'rafter of house going from horizontal beam to ridgepole'
@@ -2673,7 +2673,7 @@ Oceanic forms cited here are compatible with either reconstruction. [6]
      shelf'.
 
 <
-PMP *titey (also *teytey) 'foot-bridge' (after Blust 1989)
+PMP *titey (also _*teytey_) 'foot-bridge' (after Blust 1989)
 POc *tete 'single log bridge or ladder'; 'climb a ladder, walk along a bridge or branch' (after Chowning 1991)
   NNG: Kove              tete                'ladder; log leading into house'
   NNG: Manam             tete                'stairs, ladder'
@@ -9050,7 +9050,7 @@ metal tools, it is likely that this knowledge spread after the break-up of PAn a
 7.2.5 Thwart, cross-seat
 
 <
-PMP *seŋkar 'cross-seat in boat, thwart' (Blust 1972b: *soka)
+PMP *seŋkar 'cross-seat in boat, thwart' (Blust 1972b: _*soka_)
  WMP: Iban              seŋka
  WMP: Malay             seŋkar
  WMP: Tagalog           saŋkal

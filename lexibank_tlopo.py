@@ -10,7 +10,7 @@ from pyetymdict import Dataset as BaseDataset, Language as BaseLanguage, Form as
 from pylexibank import LexibankWriter, Cognate as BaseCognate
 from pycldf.sources import Source, Sources
 
-from pytlopo.models import Volume, Reflex, Protoform
+from pytlopo.models import Volume, Reflex, Protoform, Gloss
 
 GLOSS_ID = 0
 
@@ -84,6 +84,9 @@ class Dataset(BaseDataset):
         return _taxa
 
     def add_form(self, writer, protoform_or_reflex, gloss2id, langs, lexid2fn, poc_gloss='none'):
+        if poc_gloss != 'none':
+            if not protoform_or_reflex.glosses:
+                protoform_or_reflex.glosses.append(Gloss(gloss=poc_gloss, sources=[]))
         gloss = protoform_or_reflex.glosses[0].gloss if protoform_or_reflex.glosses else poc_gloss
 
         if gloss not in gloss2id:
@@ -281,7 +284,7 @@ class Dataset(BaseDataset):
                 # which they reflect.
                 if j == 0:
                     pfrep = pf
-                pfgloss = pf.glosses[0].gloss if pf.glosses else pf.comment
+                pfgloss = (pf.glosses[0].gloss or pf.glosses[0].morpheme_gloss) if pf.glosses else getattr(pf, 'comment', None)
                 if isinstance(pf, Protoform):
                     add_protolang(pf)
 
