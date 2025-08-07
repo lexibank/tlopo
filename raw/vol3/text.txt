@@ -230,7 +230,7 @@ them.
 of Oceanic: for Proto Polynesian by Biggs (resulting in Walsh & Biggs 1966, Biggs, Walsh & Waqa 1970
 and subsequent versions of the POLLEX file, including Biggs & Clark (1993) and Clark & Biggs (2006);[5]
 for Proto Micronesian by scholars at the University of Hawaii (Bender et al. 1983, Bender et al. 2003);
-for Proto North-Central Vanuatu by Clark (1996, 2008);[6]
+for Proto North-Central Vanuatu by Clark (1996, 2009);
 for Proto Southern Vanuatu by Lynch (1978, 1996b, 2001); for New Caledonia by Ozanne-Rivierre (1992),
 Haudricourt & Ozanne-Rivierre (1982) and Geraghty (1989); for Proto SE
 Solomonic by Levy (1980) and Frantisek Lichtenberk (1988); for Proto Central Pacific by
@@ -270,8 +270,6 @@ is found in Appendix 1.
 [5] We have mostly referred to Biggs & Clark (1993) in our work, as Clark & Biggs (2006) became available
 only late in the preparation of this volume. We have referred to the latter in just a few cases.
 
-[6] The manuscript of Clark (2008) became available only after this volume was nearing completion, and is not
-otherwise referred to here.
 
 4   Malcolm Ross, Andrew Pawley and Meredith Osmond
 
@@ -538,8 +536,8 @@ etymon arose when the Western Oceanic dialect network was still close-knit, and 
 dialect to dialect before the network broke into the two networks ancestral to its present-day
 first-order subgroups.
 
-[15] For a history of scholarly views of the subgrouping of North and Central Vanuatu languages see Clark
-(2008: § 1.3). For arguments supporting a NCV grouping, see Clark (2008: ch.4).
+[15] For a history of scholarly views of the subgrouping of North and Central Vanuatu languages see Clark (2009: § 1.3). 
+For arguments supporting a NCV grouping, see Clark (2009: ch.4).
 
 
 1.3.2.3 Criteria for reconstruction
@@ -721,7 +719,7 @@ and so we have relied heavily on our own previous work and the work of others. T
 correspondences we have used are those given by Ross (1988) for Western Oceanic and
 Admiralties; by Levy (1979, 1980) and Frantisek Lichtenberk (1988) for Cristobal-Malaitan, by
 Pawley (1972) and Tryon & Hackman (1983) for SE Solomonic; by Ross & Nᴂss (2007) for
-Temotu; by Tryon (1976) and Clark (1996, 2008) for North and Central Vanuatu; by Lynch (1978, 2001)
+Temotu; by Tryon (1976) and Clark (1996, 2009) for North and Central Vanuatu; by Lynch (1978, 2001)
 for Southern Vanuatu; by Geraghty (1989) and Ozanne-Rivierre (1992) for
 New Caledonia; by Jackson (1986) and Ross (1996a) for Nuclear Micronesian; by Geraghty (1986)
 for Central Pacific; by Biggs (1978) for Polynesian; by Ross (1996a) for Yapese; and
@@ -9002,7 +9000,7 @@ Bauan _maðou_ 'wild cinnamon, _Cinnamomum_ sp.' and Bauan _makosoi_ / Wayan _m�
 '_Cananga odorata_'. The latter appear to be metathesised forms of a PCP compound _*(m,mʷ)aso-koi_
 'perfume tree, _Cananga odorata_'.[9] This raises the possibility that POc _*(m,mʷ)aso(q)u_ denoted
 _Cananga odorata_ as well as cinnamon, i.e. that it denoted a taxon of perfumed trees. PCP then
-seems to have distinguished between _*m(w)aso_ 'cinnamon' and _*m(w)aso-koi_ '_Cananga odorata_'.
+seems to have distinguished between _*(m,mʷ)aso_ 'cinnamon' and _*(m,mʷ)aso-koi_ '_Cananga odorata_'.
 
     The possibility that there was such a taxon is strengthened by an observation by Will
 McClatchey (pers. comm.) that the quote from Mager above could also be applied to the
@@ -9033,7 +9031,7 @@ POc *(m,mʷ)aso(q)u 'wild cinnamon, _Cinnamomum_ sp., probably _Cinnamomum xanth
   MM:  Nduke        mu-mudu      '_Cananga odorata_'
   MM:  Marovo       mudu         'a tree of the secondary forest, with yellow fragrant flowers that are used in coconut oil'
   Fij: Bauan        maðou        'wild cinnamon, _Cinnamomum_ sp.'
-PCP *m(w)aso-koi 'perfume tree, _Cananga odorata_' (Milke 1961)
+PCP *(m,mʷ)aso-koi 'perfume tree, _Cananga odorata_' (Milke 1961)
   Fij: Wayan        mākosoi      '_Cananga odorata_' (metathesis)
   Fij: Bauan        makosoi      '_Cananga odorata_' (metathesis)
 PPn *mosokoi '_Cananga odorata_'
@@ -16281,7 +16279,7 @@ __formgroup__
 
     PNCV _*usi_ below appears to be an irregular reflex of POc _*quRis_. Two possible explanations
 present themselves. First, _*(q)usi_ is a metathesised reflex of _*quRis_ (> †_*uis_ > _*usi_).
-Second, although POc final consonants were regularly lost in PNCV, Clark (2008) points to
+Second, although POc final consonants were regularly lost in PNCV, Clark (2009) points to
 a dozen or so words in which the expected CVCV form exists alongside an extended form
 CVCVCV, representing the full POc form with an added vowel, most often _*-i_. The extended
 forms, for which Clark offers no explanation, are found throughout North Vanuatu and north

@@ -20829,7 +20829,7 @@ POc *mule ‘return, restore’ (ACD)
  SV:  Anejom        (a-θu)mʷoc        ‘return’
 >
 
-    Blust (1983b:11–13) draws attention to an idiosyncratic innovation shared by CMP and
+    Blust (1983–84b:11–13) draws attention to an idiosyncratic innovation shared by CMP and
 Oceanic languages. This is the raising of PMP _*u-_ to _*o-_ giving a PCEMP variant _*oliq_
 ‘return’, reflected in Oceanic only in SES languages.
 
