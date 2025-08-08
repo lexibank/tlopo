@@ -5430,7 +5430,7 @@ out into the Pacific of a wide range of domesticated plants, and that Lapita rep
 Bismarcks and Solomons, the first clear evidence for an agricultural base to the economy, a
 base apparently little changed until this century (see Pawley & Green 1973, Shutler & Marck 1975, Spriggs 1997a).[1]
 
-     Early this century, ethnographers such as Malinowski (1935) for the Trobriands, Blackwood (1935) 
+     Early this century, ethnographers such as Malinowski (1935a, 1935b) for the Trobriands, Blackwood (1935)
 for north Bougainville and Ivens (1927 (reissued 1972)) for the Southeast Solomons,
 described communities in which the people were, above all, gardeners. Their gardens provided
 a basis for their settlement size and determined the nature and division of labour. Much of
@@ -6012,7 +6012,7 @@ POc *bayat-i- 'make a garden boundary'
 
    The two staples, taro and yams, would have primarily determined the nature of gardening
 activities, although the degree to which each is cultivated and the varieties favoured may vary
-from place to place. The two follow a different growth cycle. Malinowski (1935: 296) describes
+from place to place. The two follow a different growth cycle. Malinowski (1935b: 296) describes
 the situation in the Trobriands:
 
 |     Taro differs considerably from both yams and taytu [small yams] in the time it takes to
@@ -8623,8 +8623,8 @@ canoes (dugouts and small outrigger canoes). This sense is widely reflected acro
 of Oceanic. As the name of the largest and most prestigious type, _*waga_ would have been a
 natural choice as a generic term for all types of canoe and in a number of languages the
 generic sense has become primary. An example is from Kilivila, the language of the Kiriwina
-people of the Trobriand Islands (reported by Haddon (1937:267-269), based on Malinowski
-(1922) and correspondence with Malinowski). In Kiriwina there are four named types of
+people of the Trobriand Islands (reported by Haddon (1937:267-269), based on Malinowski (1922)
+and correspondence with Malinowski). In Kiriwina there are four named types of
 canoes. The _kewoʔu_ is a simple dugout with outrigger, used in the lagoon. The _kalipoulo_, a
 fishing canoe, is a larger dugout with several designs. These have in common a hull built up
 with a washstrake on each side, and transverse carved and painted breakwaters, and the hull
