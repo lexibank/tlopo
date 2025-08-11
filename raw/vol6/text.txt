@@ -613,7 +613,7 @@ sometimes, as emerges below, does so more weakly).
 A number of Oceanic linkages have been recognised by scholars. They include Fijian
 (Geraghty 1983), the Caroline Islands (Jackson 1983), Vanuatu (Tryon 1976; Clark 1985;
 Lynch 2000b; 2004d; François 2011b, 2014), NW Melanesia (Ross 1988), the SE Solomons
-(Lichtenberk 1988, 1994b; Pawley 2011c) and E Polynesian (Walworth 2014). In some of
+(Lichtenberk 1988, 1994b; Pawley 2011) and E Polynesian (Walworth 2014). In some of
 these there is evidence for events that would further complicate the description of a
 linkage in §1.4.3.1.
 
@@ -6424,7 +6424,7 @@ __block__
 - Manihiki-Rakahanga: Hīroa 1932b
 - Māori: Hīroa 1949
 - Mapos Buang: Rambok & Hooley 2010
-- Maringe: Boswell 2009
+- Maringe: Boswell 2018
 - Marovo: Capell 1943b
 - Marquesan: Handy 1923
 - Marshallese: Spoehr 1949a, 1949b
@@ -14171,7 +14171,7 @@ __blockquote__
      the rite is to secure protection from sickness during the coming year and to ensure a
      good nut harvest (1938:138).
 
-   Wedgwood (1934:397) describes an apparently identical rite in nearby Manam, _barasi di-ruʔu_
+   Wedgwood (1934-35:397) describes an apparently identical rite in nearby Manam, _barasi di-ruʔu_
 ‘they wash the Pleiades’, marking the beginning of the agricultural year. It takes place in
 the months of April, May or June according to the village which is performing it. Wedgwood
 comments
@@ -14180,7 +14180,7 @@ __blockquote__
      I was not able to find out how the people of Manam adjust the lunar year to the solar
      year, but I was given the names of thirteen ‘moons’, and was told that the people knew
      which ‘moon’ was which by the position of the Pleiades just after sundown in relation to
-     the mountain top (1934:397).
+     the mountain top (Wedgwood 1934:397).
 
 Wedgwood’s ‘mountain top’ refers to Manam Island itself, a near-perfect volcanic cone.
 
