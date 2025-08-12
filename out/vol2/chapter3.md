@@ -665,23 +665,23 @@ Cognates of PWOc _&ast;(s,t)imuR_ (below) may reflect POc _&ast;timu(R)_ ‘wind
 </tr>
 <tr>
 <td>PT</td><td><a href="../languages/muyuw">Muyuw</a></td><td style="white-space: nowrap;"><i>sim, simulan</i></td>
-<td></td>
+<td>'<span>island</span>'</td>
 </tr>
 <tr>
 <td>PT</td><td><a href="../languages/iduna">Iduna</a></td><td style="white-space: nowrap;"><i>himula</i></td>
-<td></td>
+<td>'<span>island</span>'</td>
 </tr>
 <tr>
 <td>PT</td><td><a href="../languages/dobu">Dobu</a></td><td style="white-space: nowrap;"><i>simula</i></td>
-<td></td>
+<td>'<span>island</span>'</td>
 </tr>
 <tr>
 <td>PT</td><td><a href="../languages/kilivila">Kilivila</a></td><td style="white-space: nowrap;"><i>simla</i></td>
-<td></td>
+<td>'<span>island</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/sursurunga">Sursurunga</a></td><td style="white-space: nowrap;"><i>sim</i></td>
-<td></td>
+<td>'<span>island</span>'</td>
 </tr>
 </table>
 
@@ -1420,19 +1420,19 @@ Reflexes of the next item, POc _&ast;ŋoro-ŋorok_ with the gloss ‘cape’ are
 </tr>
 <tr>
 <td>NNG</td><td><a href="../languages/sio">Sio</a></td><td style="white-space: nowrap;"><i>i-ŋo-ŋoro</i></td>
-<td></td>
+<td>'<span>nose</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td><a href="../languages/amara">Amara</a></td><td style="white-space: nowrap;"><i>(s)ŋorek(a)</i></td>
-<td></td>
+<td>'<span>nose</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td><a href="../languages/kairiru">Kairiru</a></td><td style="white-space: nowrap;"><i>ŋaRi(-)</i></td>
-<td></td>
+<td>'<span>nose</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/notsi">Notsi</a></td><td style="white-space: nowrap;"><i>ŋul-ŋul</i></td>
-<td></td>
+<td>'<span>nose</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/madak">Madak</a></td><td style="white-space: nowrap;"><i>ŋo-ŋo</i></td>
@@ -1440,35 +1440,35 @@ Reflexes of the next item, POc _&ast;ŋoro-ŋorok_ with the gloss ‘cape’ are
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/tangga">Tangga</a></td><td style="white-space: nowrap;"><i>ŋoro-ŋoro</i></td>
-<td></td>
+<td>'<span>nose</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/patpatar">Patpatar</a></td><td style="white-space: nowrap;"><i>ŋar-ŋaro</i></td>
-<td></td>
+<td>'<span>nose</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td style="white-space: nowrap;"><i>ŋir-ŋiro</i></td>
-<td></td>
+<td>'<span>nose</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/selau">Selau</a></td><td style="white-space: nowrap;"><i>ŋor-ŋoro</i></td>
-<td></td>
+<td>'<span>nose</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/varisi">Varisi</a></td><td style="white-space: nowrap;"><i>i-ŋoro</i></td>
-<td></td>
+<td>'<span>nose</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/ririo">Ririo</a></td><td style="white-space: nowrap;"><i>ni-ŋir</i></td>
-<td></td>
+<td>'<span>nose</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td><a href="../languages/lau">Lau</a></td><td style="white-space: nowrap;"><i>ŋo-ŋora-</i></td>
-<td></td>
+<td>'<span>nose</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td><a href="../languages/nmalaitan">N Malaitan</a></td><td style="white-space: nowrap;"><i>ŋo-ŋoro-</i></td>
-<td></td>
+<td>'<span>nose</span>'</td>
 </tr>
 </table>
 
@@ -3497,19 +3497,19 @@ A number of languages use a compound, translatable literally as ‘eye of water�
 </tr>
 <tr>
 <td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td style="white-space: nowrap;"><i>nemta-n-wai</i></td>
-<td></td>
+<td>'<span>spring of water, source of a river</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td style="white-space: nowrap;"><i>mata ni wai</i></td>
-<td></td>
+<td>'<span>spring of water, source of a river</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td style="white-space: nowrap;"><i>mata-vai</i></td>
-<td></td>
+<td>'<span>spring of water, source of a river</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>mata-vai</i></td>
-<td></td>
+<td>'<span>spring of water, source of a river</span>'</td>
 </tr>
 </table>
 
@@ -4546,43 +4546,43 @@ There is also a POc form, _&ast;pʷiRa_, whose reflexes are, geographically, app
 </tr>
 <tr>
 <td>NNG</td><td><a href="../languages/numbami">Numbami</a></td><td style="white-space: nowrap;"><i>puta</i></td>
-<td></td>
+<td>'<span>earth</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td><a href="../languages/kela">Kela</a></td><td style="white-space: nowrap;"><i>puk</i></td>
-<td></td>
+<td>'<span>earth</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td><a href="../languages/hote">Hote</a></td><td style="white-space: nowrap;"><i>pik</i></td>
-<td></td>
+<td>'<span>earth</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td><a href="../languages/kis">Kis</a></td><td style="white-space: nowrap;"><i>bula</i></td>
-<td></td>
+<td>'<span>earth</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td><a href="../languages/kaiep">Kaiep</a></td><td style="white-space: nowrap;"><i>bir</i></td>
-<td></td>
+<td>'<span>earth</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/notsi">Notsi</a></td><td style="white-space: nowrap;"><i>pulə</i></td>
-<td></td>
+<td>'<span>earth</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/tabar">Tabar</a></td><td style="white-space: nowrap;"><i>pira</i></td>
-<td></td>
+<td>'<span>earth</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/lihir">Lihir</a></td><td style="white-space: nowrap;"><i>puol</i></td>
-<td></td>
+<td>'<span>earth</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/lamasong">Lamasong</a></td><td style="white-space: nowrap;"><i>pua</i></td>
-<td></td>
+<td>'<span>earth</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/barok">Barok</a></td><td style="white-space: nowrap;"><i>pu</i></td>
-<td></td>
+<td>'<span>earth</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td style="white-space: nowrap;"><i>pera</i></td>
@@ -4920,15 +4920,15 @@ The PAn name for fire, _&ast;Sapuy_, is among the more stable terms in the lexic
 </tr>
 <tr>
 <td>NCV</td><td><a href="../languages/merlav">Merlav</a></td><td style="white-space: nowrap;"><i>aı</i></td>
-<td></td>
+<td>'<span>fire</span>'</td>
 </tr>
 <tr>
 <td>NCV</td><td><a href="../languages/tasmate">Tasmate</a></td><td style="white-space: nowrap;"><i>apu</i></td>
-<td></td>
+<td>'<span>fire</span>'</td>
 </tr>
 <tr>
 <td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>ai</i></td>
-<td></td>
+<td>'<span>fire</span>'</td>
 </tr>
 <tr>
 <td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td style="white-space: nowrap;"><i>yaf</i></td>
@@ -5821,75 +5821,75 @@ POc, like some of its daughter languages, seems to have distinct terms for smoke
 </tr>
 <tr>
 <td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td style="white-space: nowrap;"><i>asu</i></td>
-<td></td>
+<td>'<span>smoke</span>'</td>
 </tr>
 <tr>
 <td>Adm</td><td><a href="../languages/wuvulu">Wuvulu</a></td><td style="white-space: nowrap;"><i>aku</i></td>
-<td></td>
+<td>'<span>smoke</span>'</td>
 </tr>
 <tr>
 <td>PT</td><td><a href="../languages/dobu">Dobu</a></td><td style="white-space: nowrap;"><i>ʔasu</i></td>
-<td></td>
+<td>'<span>smoke</span>'</td>
 </tr>
 <tr>
 <td>PT</td><td><a href="../languages/mekeo">Mekeo</a></td><td style="white-space: nowrap;"><i>aku</i></td>
-<td></td>
+<td>'<span>smoke</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td><a href="../languages/bukawa">Bukawa</a></td><td style="white-space: nowrap;"><i>(ya)wasu</i></td>
-<td></td>
+<td>'<span>smoke</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td><a href="../languages/maposbuang">Mapos Buang</a></td><td style="white-space: nowrap;"><i>aru</i></td>
-<td></td>
+<td>'<span>smoke</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/bali">Bali</a></td><td style="white-space: nowrap;"><i>ɣazu</i></td>
-<td></td>
+<td>'<span>smoke</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/torau">Torau</a></td><td style="white-space: nowrap;"><i>asu</i></td>
-<td></td>
+<td>'<span>smoke</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td><a href="../languages/amara">Amara</a></td><td style="white-space: nowrap;"><i>aso</i></td>
-<td></td>
+<td>'<span>smoke</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>rasu</i></td>
-<td></td>
+<td>'<span>smoke</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td><a href="../languages/lau">Lau</a></td><td style="white-space: nowrap;"><i>sasu</i></td>
-<td></td>
+<td>'<span>smoke</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td style="white-space: nowrap;"><i>asu-(na), asu-ʔasu</i></td>
-<td></td>
+<td>'<span>smoke</span>'</td>
 </tr>
 <tr>
 <td>Mic</td><td><a href="../languages/puluwatese">Puluwatese</a></td><td style="white-space: nowrap;"><i>yāt</i></td>
-<td></td>
+<td>'<span>smoke</span>'</td>
 </tr>
 <tr>
 <td>NCV</td><td><a href="../languages/mota">Mota</a></td><td style="white-space: nowrap;"><i>asu</i></td>
-<td></td>
+<td>'<span>smoke</span>'</td>
 </tr>
 <tr>
 <td>NCV</td><td><a href="../languages/tamambo">Tamambo</a></td><td style="white-space: nowrap;"><i>asu</i></td>
-<td></td>
+<td>'<span>smoke</span>'</td>
 </tr>
 <tr>
 <td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td style="white-space: nowrap;"><i>(e)asu</i></td>
-<td></td>
+<td>'<span>smoke</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td style="white-space: nowrap;"><i>ʔahu</i></td>
-<td></td>
+<td>'<span>smoke</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td style="white-space: nowrap;"><i>ahu</i></td>
-<td></td>
+<td>'<span>smoke</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>asu</i></td>
@@ -5897,11 +5897,11 @@ POc, like some of its daughter languages, seems to have distinct terms for smoke
 </tr>
 <tr>
 <td>Pn</td><td><a href="../languages/maori">Māori</a></td><td style="white-space: nowrap;"><i>au, au-ahi</i></td>
-<td></td>
+<td>'<span>smoke</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td><a href="../languages/rarotongan">Rarotongan</a></td><td style="white-space: nowrap;"><i>au</i></td>
-<td></td>
+<td>'<span>smoke</span>'</td>
 </tr>
 </table>
 

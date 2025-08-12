@@ -157,7 +157,7 @@ The line where sea meets sky is commonly referred to by a compound — either ed
 </tr>
 <tr>
 <td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td style="white-space: nowrap;"><i>(tafa)tafa-ʔaki-laŋi</i></td>
-<td></td>
+<td>'<span>horizon</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td><a href="../languages/eastuvean">East Uvean</a></td><td style="white-space: nowrap;"><i>tafa-ʔaki laŋi</i></td>
@@ -165,19 +165,19 @@ The line where sea meets sky is commonly referred to by a compound — either ed
 </tr>
 <tr>
 <td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>tafa-tafa-ʔi-laŋi</i></td>
-<td></td>
+<td>'<span>horizon</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td><a href="../languages/maori">Māori</a></td><td style="white-space: nowrap;"><i>taha(a)-raŋi</i></td>
-<td></td>
+<td>'<span>horizon</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td style="white-space: nowrap;"><i>tafa-tafā-raŋi</i></td>
-<td></td>
+<td>'<span>horizon</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td><a href="../languages/tokelauan">Tokelauan</a></td><td style="white-space: nowrap;"><i>tafa-tafā-laŋi</i></td>
-<td></td>
+<td>'<span>horizon</span>'</td>
 </tr>
 </table>
 
@@ -3047,11 +3047,11 @@ In Bauan they were _matādravu ni sautū_, literally ‘hearth of peace and plen
 </tr>
 <tr>
 <td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td style="white-space: nowrap;"><i>kaniva</i></td>
-<td></td>
+<td>'<span>the Milky Way</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>ʔaniva</i></td>
-<td></td>
+<td>'<span>the Milky Way</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td><a href="../languages/sikaiana">Sikaiana</a></td><td style="white-space: nowrap;"><i>kaniva</i></td>
@@ -3063,11 +3063,11 @@ In Bauan they were _matādravu ni sautū_, literally ‘hearth of peace and plen
 </tr>
 <tr>
 <td>Pn</td><td><a href="../languages/tokelauan">Tokelauan</a></td><td style="white-space: nowrap;"><i>kaniva</i></td>
-<td></td>
+<td>'<span>the Milky Way</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td><a href="../languages/westfutunan">West Futunan</a></td><td style="white-space: nowrap;"><i>kaniva</i></td>
-<td></td>
+<td>'<span>the Milky Way</span>'</td>
 </tr>
 </table>
 

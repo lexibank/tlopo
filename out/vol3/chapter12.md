@@ -2290,7 +2290,7 @@ Doublet forms, POc _&ast;punut_ and _&ast;pʷenu(t)_, both 'coconut husk', appea
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/vitu">Vitu</a></td><td style="white-space: nowrap;"><i>vinuta</i></td>
-<td></td>
+<td>'<span>coconut husk, fibres on coconut husk</span>'</td>
 </tr>
 <tr>
 <td>PT</td><td><a href="../languages/motu">Motu</a></td><td style="white-space: nowrap;"><i>bunu</i></td>

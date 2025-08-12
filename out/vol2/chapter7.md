@@ -334,47 +334,47 @@ Also apparently reconstructable are _&ast;drik(i)_, _&ast;liki_, _&ast;siki_ and
 </tr>
 <tr>
 <td>Yap</td><td><a href="../languages/yapese">Yapese</a></td><td style="white-space: nowrap;"><i>ʔacīg</i></td>
-<td></td>
+<td>'<span>small</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td><a href="../languages/gitua">Gitua</a></td><td style="white-space: nowrap;"><i>keteka</i></td>
-<td></td>
+<td>'<span>small</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td><a href="../languages/gedaged">Gedaged</a></td><td style="white-space: nowrap;"><i>kitik</i></td>
-<td></td>
+<td>'<span>small</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td><a href="../languages/bukawa">Bukawa</a></td><td style="white-space: nowrap;"><i>atiʔ</i></td>
-<td></td>
+<td>'<span>small</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td><a href="../languages/zenag">Zenag</a></td><td style="white-space: nowrap;"><i>ktɔk</i></td>
-<td></td>
+<td>'<span>small</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td style="white-space: nowrap;"><i>ɣiteke</i></td>
-<td></td>
+<td>'<span>small</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/zabana">Zabana</a></td><td style="white-space: nowrap;"><i>te</i></td>
-<td></td>
+<td>'<span>small</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td><a href="../languages/kwaraae">Kwara’ae</a></td><td style="white-space: nowrap;"><i>tiʔ-tiʔ</i></td>
-<td></td>
+<td>'<span>small</span>'</td>
 </tr>
 <tr>
 <td>Mic</td><td><a href="../languages/carolinian">Carolinian</a></td><td style="white-space: nowrap;"><i>xit</i></td>
-<td></td>
+<td>'<span>small</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td><a href="../languages/rapanui">Rapanui</a></td><td style="white-space: nowrap;"><i>ʔiti-ʔiti</i></td>
-<td></td>
+<td>'<span>small</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>iti-iti</i></td>
-<td></td>
+<td>'<span>small</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td style="white-space: nowrap;"><i>ʔiti-ʔiti</i></td>
@@ -382,23 +382,23 @@ Also apparently reconstructable are _&ast;drik(i)_, _&ast;liki_, _&ast;siki_ and
 </tr>
 <tr>
 <td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td style="white-space: nowrap;"><i>iki</i></td>
-<td></td>
+<td>'<span>small</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td><a href="../languages/tahitian">Tahitian</a></td><td style="white-space: nowrap;"><i>iti</i></td>
-<td></td>
+<td>'<span>small</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td><a href="../languages/tuamotuan">Tuamotuan</a></td><td style="white-space: nowrap;"><i>iti</i></td>
-<td></td>
+<td>'<span>small</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td><a href="../languages/rarotongan">Rarotongan</a></td><td style="white-space: nowrap;"><i>iti</i></td>
-<td></td>
+<td>'<span>small</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td><a href="../languages/maori">Māori</a></td><td style="white-space: nowrap;"><i>iti</i></td>
-<td></td>
+<td>'<span>small</span>'</td>
 </tr>
 </table>
 
@@ -639,27 +639,27 @@ Also apparently reconstructable are _&ast;drik(i)_, _&ast;liki_, _&ast;siki_ and
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/torau">Torau</a></td><td style="white-space: nowrap;"><i>kiki-(na)</i></td>
-<td></td>
+<td>'<span>small</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td><a href="../languages/gela">Gela</a></td><td style="white-space: nowrap;"><i>kiki</i></td>
-<td></td>
+<td>'<span>small</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td><a href="../languages/talise">Talise</a></td><td style="white-space: nowrap;"><i>ki-kiki</i></td>
-<td></td>
+<td>'<span>small</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td><a href="../languages/longgu">Longgu</a></td><td style="white-space: nowrap;"><i>kiki</i></td>
-<td></td>
+<td>'<span>small</span>'</td>
 </tr>
 <tr>
 <td>NCV</td><td><a href="../languages/axamb">Axamb</a></td><td style="white-space: nowrap;"><i>kiki</i></td>
-<td></td>
+<td>'<span>small</span>'</td>
 </tr>
 <tr>
 <td>NCV</td><td><a href="../languages/portsandwich">Port Sandwich</a></td><td style="white-space: nowrap;"><i>kekei</i></td>
-<td></td>
+<td>'<span>small</span>'</td>
 </tr>
 <tr>
 <td><strong>PWOc</strong></td><td> </td>
@@ -670,23 +670,23 @@ Also apparently reconstructable are _&ast;drik(i)_, _&ast;liki_, _&ast;siki_ and
 </tr>
 <tr>
 <td>NNG</td><td><a href="../languages/adzera">Adzera</a></td><td style="white-space: nowrap;"><i>(i)siʔ</i></td>
-<td></td>
+<td>'<span>small</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td><a href="../languages/manam">Manam</a></td><td style="white-space: nowrap;"><i>siʔi-siʔi</i></td>
-<td></td>
+<td>'<span>small</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/minigir">Minigir</a></td><td style="white-space: nowrap;"><i>siki(liki)</i></td>
-<td></td>
+<td>'<span>small</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/label">Label</a></td><td style="white-space: nowrap;"><i>si-sik(lik)</i></td>
-<td></td>
+<td>'<span>small</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/babatana">Babatana</a></td><td style="white-space: nowrap;"><i>(va)siki</i></td>
-<td></td>
+<td>'<span>small</span>'</td>
 </tr>
 </table>
 
@@ -1623,51 +1623,51 @@ Three forms can be reconstructed for ‘thick’. The third, _&ast;[tubu]tubu[-k
 </tr>
 <tr>
 <td>NNG</td><td><a href="../languages/manam">Manam</a></td><td style="white-space: nowrap;"><i>matoli</i></td>
-<td></td>
+<td>'<span>thick</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td><a href="../languages/sio">Sio</a></td><td style="white-space: nowrap;"><i>mata-tola</i></td>
-<td></td>
+<td>'<span>thick</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td style="white-space: nowrap;"><i>bitolu</i></td>
-<td></td>
+<td>'<span>thick</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td><a href="../languages/westguadalcanal">West Guadalcanal</a></td><td style="white-space: nowrap;"><i>matolu</i></td>
-<td></td>
+<td>'<span>thick</span>'</td>
 </tr>
 <tr>
 <td>NCV</td><td><a href="../languages/mota">Mota</a></td><td style="white-space: nowrap;"><i>matol-tol</i></td>
-<td></td>
+<td>'<span>thick</span>'</td>
 </tr>
 <tr>
 <td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td style="white-space: nowrap;"><i>mate-tel</i></td>
-<td></td>
+<td>'<span>thick</span>'</td>
 </tr>
 <tr>
 <td>NCV</td><td><a href="../languages/nguna">Nguna</a></td><td style="white-space: nowrap;"><i>matolu</i></td>
-<td></td>
+<td>'<span>thick</span>'</td>
 </tr>
 <tr>
 <td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td style="white-space: nowrap;"><i>(a)mesej</i></td>
-<td></td>
+<td>'<span>thick</span>'</td>
 </tr>
 <tr>
 <td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td style="white-space: nowrap;"><i>micel</i></td>
-<td></td>
+<td>'<span>thick</span>'</td>
 </tr>
 <tr>
 <td>Mic</td><td><a href="../languages/ponapean">Ponapean</a></td><td style="white-space: nowrap;"><i>mosul</i></td>
-<td></td>
+<td>'<span>thick</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td style="white-space: nowrap;"><i>mafolu</i></td>
-<td></td>
+<td>'<span>thick</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td style="white-space: nowrap;"><i>matolu</i></td>
-<td></td>
+<td>'<span>thick</span>'</td>
 </tr>
 </table>
 
@@ -1690,11 +1690,11 @@ Three forms can be reconstructed for ‘thick’. The third, _&ast;[tubu]tubu[-k
 </tr>
 <tr>
 <td>Fij</td><td><a href="../languages/nadroga">Nadroga</a></td><td style="white-space: nowrap;"><i>kuba</i></td>
-<td></td>
+<td>'<span>thick (in dimension)</span>'</td>
 </tr>
 <tr>
 <td>SV</td><td><a href="../languages/kwamera">Kwamera</a></td><td style="white-space: nowrap;"><i>-kum-kum</i></td>
-<td></td>
+<td>'<span>thick (in dimension)</span>'</td>
 </tr>
 </table>
 
@@ -1710,19 +1710,19 @@ Three forms can be reconstructed for ‘thick’. The third, _&ast;[tubu]tubu[-k
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td style="white-space: nowrap;"><i>tubu</i></td>
-<td></td>
+<td>'<span>thick (in dimension)</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td><a href="../languages/lau">Lau</a></td><td style="white-space: nowrap;"><i>ūbu-ūbu-a</i></td>
-<td></td>
+<td>'<span>thick (in dimension)</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td style="white-space: nowrap;"><i>ubu-ubu</i></td>
-<td></td>
+<td>'<span>thick (in dimension)</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td style="white-space: nowrap;"><i>ub-ubu-ʔa</i></td>
-<td></td>
+<td>'<span>thick (in dimension)</span>'</td>
 </tr>
 </table>
 
@@ -2291,15 +2291,15 @@ Whereas _&ast;[ma]tuqa_ probably referred mainly to animates and to the vegetabl
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/bulu">Bulu</a></td><td style="white-space: nowrap;"><i>rapu-rapu-ka</i></td>
-<td></td>
+<td>'<span>old (of inanimates)</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>rahu-ʔa</i></td>
-<td></td>
+<td>'<span>old (of inanimates)</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>lahu-ʔa</i></td>
-<td></td>
+<td>'<span>old (of inanimates)</span>'</td>
 </tr>
 </table>
 
@@ -3967,35 +3967,35 @@ Three terms meaning ‘full’ are reconstructable. The first, _&ast;ponuq_, is 
 </tr>
 <tr>
 <td>NNG</td><td><a href="../languages/bariai">Bariai</a></td><td style="white-space: nowrap;"><i>-won</i></td>
-<td></td>
+<td>'<span>full</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td><a href="../languages/lukep">Lukep</a></td><td style="white-space: nowrap;"><i>-pon</i></td>
-<td></td>
+<td>'<span>full</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td><a href="../languages/poeng">Poeng</a></td><td style="white-space: nowrap;"><i>ponu</i></td>
-<td></td>
+<td>'<span>full</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td><a href="../languages/wogeo">Wogeo</a></td><td style="white-space: nowrap;"><i>-won</i></td>
-<td></td>
+<td>'<span>full</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td><a href="../languages/kaiep">Kaiep</a></td><td style="white-space: nowrap;"><i>-wun</i></td>
-<td></td>
+<td>'<span>full</span>'</td>
 </tr>
 <tr>
 <td>PT</td><td><a href="../languages/motu">Motu</a></td><td style="white-space: nowrap;"><i>honu</i></td>
-<td></td>
+<td>'<span>full</span>'</td>
 </tr>
 <tr>
 <td>PT</td><td><a href="../languages/mekeo">Mekeo</a></td><td style="white-space: nowrap;"><i>poŋu</i></td>
-<td></td>
+<td>'<span>full</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/bali">Bali</a></td><td style="white-space: nowrap;"><i>vonuku</i></td>
-<td></td>
+<td>'<span>full</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/meramera">Meramera</a></td><td style="white-space: nowrap;"><i>vonu</i></td>
@@ -4003,51 +4003,51 @@ Three terms meaning ‘full’ are reconstructable. The first, _&ast;ponuq_, is 
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td style="white-space: nowrap;"><i>volu</i></td>
-<td></td>
+<td>'<span>full</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/lihir">Lihir</a></td><td style="white-space: nowrap;"><i>on</i></td>
-<td></td>
+<td>'<span>full</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/nehan">Nehan</a></td><td style="white-space: nowrap;"><i>won</i></td>
-<td></td>
+<td>'<span>full</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/mono">Mono</a></td><td style="white-space: nowrap;"><i>honu</i></td>
-<td></td>
+<td>'<span>full</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td><a href="../languages/gela">Gela</a></td><td style="white-space: nowrap;"><i>vonu</i></td>
-<td></td>
+<td>'<span>full</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td><a href="../languages/talise">Talise</a></td><td style="white-space: nowrap;"><i>vonu</i></td>
-<td></td>
+<td>'<span>full</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td><a href="../languages/longgu">Longgu</a></td><td style="white-space: nowrap;"><i>vonu</i></td>
-<td></td>
+<td>'<span>full</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td style="white-space: nowrap;"><i>fonu</i></td>
-<td></td>
+<td>'<span>full</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td style="white-space: nowrap;"><i>honu</i></td>
-<td></td>
+<td>'<span>full</span>'</td>
 </tr>
 <tr>
 <td>NCal</td><td><a href="../languages/nemi">Nemi</a></td><td style="white-space: nowrap;"><i>punuk</i></td>
-<td></td>
+<td>'<span>full</span>'</td>
 </tr>
 <tr>
 <td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>on</i></td>
-<td></td>
+<td>'<span>full</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td style="white-space: nowrap;"><i>fonu</i></td>
-<td></td>
+<td>'<span>full</span>'</td>
 </tr>
 </table>
 
@@ -4066,31 +4066,31 @@ Three terms meaning ‘full’ are reconstructable. The first, _&ast;ponuq_, is 
 </tr>
 <tr>
 <td>NNG</td><td><a href="../languages/maleu">Maleu</a></td><td style="white-space: nowrap;"><i>-uŋ</i></td>
-<td></td>
+<td>'<span>full</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td><a href="../languages/silisili">Silisili</a></td><td style="white-space: nowrap;"><i>(ri)fuᵑg</i></td>
-<td></td>
+<td>'<span>full</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td><a href="../languages/sukurum">Sukurum</a></td><td style="white-space: nowrap;"><i>fuaŋ</i></td>
-<td></td>
+<td>'<span>full</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/lamasong">Lamasong</a></td><td style="white-space: nowrap;"><i>-uŋ</i></td>
-<td></td>
+<td>'<span>full</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/patpatar">Patpatar</a></td><td style="white-space: nowrap;"><i>huŋ</i></td>
-<td></td>
+<td>'<span>full</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td><a href="../languages/lau">Lau</a></td><td style="white-space: nowrap;"><i>fuŋu</i></td>
-<td></td>
+<td>'<span>full</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td><a href="../languages/kwai">Kwai</a></td><td style="white-space: nowrap;"><i>fuŋu</i></td>
-<td></td>
+<td>'<span>full</span>'</td>
 </tr>
 </table>
 

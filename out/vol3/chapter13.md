@@ -2194,7 +2194,7 @@ PWOc _&ast;(m,mʷ)ali_ (incorrectly given as _&ast;maRi_ in [vol. 1, ch.8, §7](
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/karaeast">Kara (East)</a></td><td style="white-space: nowrap;"><i>mal</i></td>
-<td></td>
+<td>'<span><em>Derris</em> sp.</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/sursurunga">Sursurunga</a></td><td style="white-space: nowrap;"><i>mel</i></td>
@@ -2228,11 +2228,11 @@ PWOc _&ast;(m,mʷ)ali_ (incorrectly given as _&ast;maRi_ in [vol. 1, ch.8, §7](
 </tr>
 <tr>
 <td>SV</td><td><a href="../languages/sye">Sye</a></td><td style="white-space: nowrap;"><i>na-vup</i></td>
-<td></td>
+<td>'<span>k.o. vine, probably <em>Derris elliptica</em></span>'</td>
 </tr>
 <tr>
 <td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td style="white-space: nowrap;"><i>no-hop(ɣev)</i></td>
-<td></td>
+<td>'<span>k.o. vine, probably <em>Derris elliptica</em></span>'</td>
 </tr>
 <tr>
 <td><strong>PMic</strong></td><td> </td>
@@ -3362,7 +3362,7 @@ The forms listed below are clearly cognate, but it is not clear whether or how m
 </tr>
 <tr>
 <td>NCV</td><td><a href="../languages/mwotlap">Mwotlap</a></td><td style="white-space: nowrap;"><i>mʷ[a]lak</i></td>
-<td></td>
+<td>'<span>spider lily, <em>Crinum asiaticum</em></span>'</td>
 </tr>
 <tr>
 <td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td style="white-space: nowrap;"><i>no-(hos)meleɣ</i></td>
