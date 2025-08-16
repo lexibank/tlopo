@@ -585,7 +585,7 @@ closely the 'Central/Eastern Oceanic' of Lynch & Tryon (1983) (the published ver
 presents a less inclusive version of Central/Eastern Oceanic) and of Lynch et al. (2002: 94--96),
 who also express reservations about its status.
 
-                                                                                                           ."
+
 
 Map 3:   Groups of Oceanic languages used in cognate sets
 
@@ -7494,7 +7494,7 @@ POc *pila(q)u '_Casuarina equisetifolia_'
 >
 
 
-5.5 _Erythrina variegata_ (syn. _Erythrina indica_), coral tree, Indian coral tree, TP _palpal_, B _narara_ (Fabaceae)
+5.5.5 _Erythrina variegata_ (syn. _Erythrina indica_), coral tree, Indian coral tree, TP _palpal_, B _narara_ (Fabaceae)
 
 Typically growing to 10-15 m, but sometimes to 20m, _Erythrina variegata_ (Figure 5.11, left)
 occurs in two common forms. One has the variegated or yellowed leaves that have given
@@ -10767,7 +10767,7 @@ The genera Alpinia and _Heliconia_ also belong here, but no reconstruction of a 
 Alpinia species is supported by the data. _Heliconias_ are also cultivated, and are treated in
 ch.13, §6.5.
 
-7.6.2.1 _Hornstedtia lycostoma_ (syn. _Hornstedtia scottiana_) (_Zingiber_aceae)
+7.6.2.1 _Hornstedtia lycostoma_ (syn. _Hornstedtia scottiana_) (Zingiberaceae)
 
 _Hornstedtia lycostoma_ is a leafy shrub, 3-6m tall, a tall wild ginger with long leaves and red
 flowers that issue directly from the stem (Figure 7.11, left). The edible seeds are sweet and
@@ -19215,7 +19215,7 @@ these are magical applications, shared with the first three plants in §6. Like 
 
 
 
-13.5.1 _Curcuma longa_ (syn. _Curcuma domestica_), turmeric (_Zingiber_aceae)
+13.5.1 _Curcuma longa_ (syn. _Curcuma domestica_), turmeric (Zingiberaceae)
 
 The turmeric: plant, _Curcuma longa_, is much smaller than Alpinia species, being only 50-120cm tall, but it is treated
 by at least speakers of Marovo and Kwara'ae as belonging to the same taxon as Alpinia
@@ -19298,7 +19298,7 @@ PEOc *[re]reŋʷa 'yellow material, prepared turmeric(?)' (Biggs 1965: _*reŋa_)
 >
 
 
-13.5.2 _Zingiber_ spp., ginger, TP _kawawar_ (_Zingiber_aceae)
+13.5.2 _Zingiber_ spp., ginger, TP _kawawar_ (Zingiberaceae)
 
 _Zingiber officinale_ (common ginger), 50-120cm tall, cultivated and wild, serves as a spice
 plant, medicine and magic (Peekel 1984:100). It appears to have arrived in Near Oceania a
@@ -19327,7 +19327,7 @@ of other _Zingiber_ species.
 
     Two POc terms are reconstructed below. The gloss of the first, _*laqia_, remains a little
 doubtful because of the difficulty in dating the arrival of _Zingiber officinale_ in NW Island Melanesia.
-POc _*para(k)_ evidently referred to _Zingiber_aceae species but just how large a taxon it denoted
+POc _*para(k)_ evidently referred to Zingiberaceae species but just how large a taxon it denoted
 is currently unknown.
 
 <
@@ -19373,10 +19373,10 @@ and it is impossible to work out which uses are attributed to which plant.
 
 
 <
-PMP *badak '_Zingiber_aceae spp. with edible rhizomes'
-POc *para(k) '_Zingiber_aceae spp. with edible rhizomes'
+PMP *badak 'Zingiberaceae spp. with edible rhizomes'
+POc *para(k) 'Zingiberaceae spp. with edible rhizomes'
   MM:     Tolai         va-var        '_Curcuma longa_'
-  MM:     Tolai         (ka)va-var    '_Zingiber_ officinale'
+  MM:     Tolai         (ka)va-var    '_Zingiber officinale_'
   Fij:    Wayan         va-va         '_Alpinia boia_'
 >
 
@@ -20094,7 +20094,7 @@ __tablenh__
  _*kiRe_              | 'coastal _Pandanus_ sp., probably _Pandanus tectorius_'
  _*kulapu(R)_         | '_Dillenia schlechteri_'
  _*kuluR_             | 'breadfruit, _Artocarpus altilis_'
- _*laqia_             | 'ginger, _Zingiber_ officinale (?)'
+ _*laqia_             | 'ginger, _Zingiber officinale_ (?)'
  ___*(m,mʷ)aso(q)u___ | 'wild cinnamon, _Cinnamomum_ sp., probably _Cinnamomum xanthoneuron_; possibly also _Cananga odorata_'
  _*malo_          | 'paper mulberry, _Broussonetia papyrifera_; barkcloth, loincloth'
  _*naRa_          | '_Pterocarpus indicus_'
@@ -20108,7 +20108,7 @@ __tablenh__
  _*padran_          |  'coastal pandanus, _Pandanus tectorius_; pandanus (generic)'
  _*pali[s,j]i_     |  'generic term for grasses and other grass-like plants'
  _*(p,b)anaRo_      |  '_Thespesia populnea_'
- _*para(k)_         |  '_Zingiber_aceae spp. with edible rhizomes'
+ _*para(k)_         |  'Zingiberaceae spp. with edible rhizomes'
  _*paRu_            |  '_Hibiscus tiliaceus_'
  _*pila(q)u_        |  '_Casuarina equisetifolia_'
  _*pinu(q)an_       |  '_Macaranga_ spp., perhaps _Macaranga involucrata_'

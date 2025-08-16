@@ -2366,7 +2366,7 @@ has few reflexes and may reflect parallel innovations.
 PROc *[qa]ta-maquri ‘living person’
   NCV: Mota             tamaur                 ‘man alive’ (cf. _tamate_ ‘man dead’)
   NCV: Nguna            na-tamʷoli             ‘human being’
-  NCV: S Efate          n-atamwol              ‘person’ (_mʷol_ ‘be alive’)
+  NCV: S Efate          n-atamʷol              ‘person’ (_mʷol_ ‘be alive’)
   Fij: Rotuman          famori                 ‘human being’
 >
 
@@ -3007,13 +3007,13 @@ POc *meRa ‘newborn; young person from birth to onset of adulthood’
   PT:  Motu           mero              ‘child’ (_-o_ for †_-a_)
   PT:  Sinaugoro      mero              ‘child’ (_-o_ for †_-a_)
 PEOc *mʷeRa ‘newborn; young person from birth to onset of adulthood’ (Cashmore 1969: _*mʷela_ ‘child’)
-  SES: Longgu         mwela             ‘child, young person’
+  SES: Longgu         mʷela             ‘child, young person’
   SES: Longgu         mʷela-kiki        ‘child’ (_kiki_ ‘small’)
   SES: Arosi          mʷera             ‘very small child’
   SES: Lau            wela              ‘child, person’
   SES: Lau            |wela ābu|        ‘very young infant’ (_ābu_ ‘taboo’)
   SES: Kwaio          wela              ‘child’
-  SES: Sa’a           mwela             ‘child’
+  SES: Sa’a           mʷela             ‘child’
   SES: To’aba’ita     wela              ‘child of any age up to young unmarried adult’
   SES: Kwaio          wela              ‘child’
   SES: ’Are’are       mera              ‘child of any age up to young unmarried adult’
@@ -3024,22 +3024,22 @@ PEOc *mʷeRa ‘newborn; young person from birth to onset of adulthood’ (Cashm
   SES: ’Are’are       |mera haoru|      ‘child 12–16 years old’ (_haoru_ ‘new, young’)
   SES: ’Are’are       |mera nanau|      ‘male 16–20 years old’ (_nanau_ ‘unmarried male’)
   SES: Arosi          mʷera             ‘very small child’[10]
-PNCV *mwera, *mʷara ‘child’ (Clark 2009)
+PNCV *mʷera, *mʷara ‘child’ (Clark 2009)
   NCV: Lo Toga        werə              ‘baby’
   NCV: Lehali         (sus)wæj          ‘child’
   NCV: Volow          (n-ɛt)mʷɛj        ‘child’
   NCV: Mwotlap        (n-ɪt)mʷɛj        ‘child’
-  NCV: Mota           mwera             ‘child’
+  NCV: Mota           mʷera             ‘child’
   NCV: Nokuku         mʷer              ‘child (of)’
   NCV: Nokuku         |mʷer (kekara)|   ‘baby’ (_kekara_ ‘red’)
   NCV: Kiai           mera              ‘man, person, human being’
   NCV: NE Ambae       mʷera             ‘man’
   NCV: W Ambrym       mere              ‘small, a little bit, young, thin …’
   NCV: W Ambrym       (tesi)mre         ‘child, young one’
-  NCV: Uripiv         mweri             ‘man, fellow, people’
+  NCV: Uripiv         mʷeri             ‘man, fellow, people’
   NCV: Port Sandwich  mʷera(ur)         ‘bush man’ (_la-ur_ ‘interior forest’)
   NCV: Paamese        a-mē              ‘adult married man in village; larrikin, young man who acts tough’
-  NCV: Lewo           mwē               ‘young’
+  NCV: Lewo           mʷē               ‘young’
   NCV: S Efate        na-mʷer           ‘people’
   Pn:  Emae           mea               ‘baby’
 >
@@ -3579,9 +3579,9 @@ POc *boge ‘twins’
  MM: Bola            boge                ‘twins’
  MM: Nakanai         (vi)boge            ‘(a) twin’ (_vi-_ RECIP)
 PMic *pʷexe, *pʷe-pʷexe ‘twins’ (Bender et al. 2003)
- Mic: Kiribati       pwepwē              ‘twins’
- Mic: Mortlockese    (li)pwpwe           ‘twins’
- Mic: Carolinian     (li)pwpwey          ‘twins of the same sex’
+ Mic: Kiribati       pʷepʷē              ‘twins’
+ Mic: Mortlockese    (li)pʷpʷe           ‘twins’
+ Mic: Carolinian     (li)pʷpʷey          ‘twins of the same sex’
  Mic: Woleaian       (ri)pʷeye           ‘twins’
 >
 
@@ -5189,7 +5189,7 @@ merger. All reflexes of POc _*pʷatu[ka]-_ in §3.6.8.1.1 reflect _*pʷ-_. All t
 _*bʷatu(k)_ below reflect _*bʷ-_. Lynch also merges POc _*pʷau-_ ‘head’ and PSOc _*bʷau-_ ‘knee’,
 and for this there is formal support. The non-Southern Oceanic reflexes of POc _*pʷau-_ are
 regular, but the Southern Oceanic (NCV, SV and NCal) reflexes point to PSOc _*bʷau-_ ‘head’,
-i.e. the same form as PSOc *bwau- ‘knee, joint’. If these two sets reflected a single etymon,
+i.e. the same form as PSOc *bʷau- ‘knee, joint’. If these two sets reflected a single etymon,
 however, one would expect some of its reflexes to mean both ‘head’ and ‘joint’. In fact this
 happens only in Sye (SV), where _no-mpu_ occurs in both sets. It thus seems safer to infer that in
 Sye the reflexes of the two etyma have merged, whilst other languages have kept them
@@ -5728,7 +5728,7 @@ reflects such a compound.[20]
 
 <
 PCEMP *papaR ‘cheek’ (ACD)
-POc *[pwa]pwaRa- ‘cheek, side of face’; (N LOC) ‘side’ (vol.2:244-245)
+POc *[pʷa]pʷaRa- ‘cheek, side of face’; (N LOC) ‘side’ (vol.2:244-245)
   MM: Nalik              par, pāran          ‘side’
   MM: Kandas             papori              ‘side’
   MM: Minigir            papara              ‘side’
@@ -5740,7 +5740,7 @@ POc *[pwa]pwaRa- ‘cheek, side of face’; (N LOC) ‘side’ (vol.2:244-245)
   MM: Vaghua             pa-para-            ‘cheek’
   MM: Nduke              pa-para-            ‘cheek’
   MM: Roviana            pa-para-            ‘side of face, cheek’
-  NCV: S Efate           mwar, pwar          ‘side of face’
+  NCV: S Efate           mʷar, pʷar          ‘side of face’
 cf. also:
   SJ:  Sobei             popa                 ‘cheek’
 >
@@ -6648,7 +6648,7 @@ POc *bati ‘canine tooth, tusk’
 PSOc *bati- ‘tusk, upper canine tooth’ (Lynch 2004d)
   NCV:  Mota         pati(u)-          ‘upper tusk in a boar’
   NCV:  Uripiv       bati-             ‘upper canine tooth, of pig, porpoise or person’
-  NCV:  Araki        pwari-            ‘molar’
+  NCV:  Araki        pʷari-            ‘molar’
   NCV:  Raga         basi-             ‘fang’
   NCV:  Namakir      bati-             ‘tooth, pig’s tusk; seed’
   SV:   Sye          ne-(m)pati-       ‘canine tooth, tusk. horn, crab’s pincer’
@@ -6789,7 +6789,7 @@ POc *kumi- ‘beard’
  SES: Talise           ɣumi-             ‘beard’
 PNCV *kumʷi- ‘beard’ (Clark 2009)
  NCV: Tamambo          ɣumi-             ‘beard’
- NCV: Raga             gumwi-            ‘beard’
+ NCV: Raga             gumʷi-            ‘beard’
  NCV: NE Ambae         kumi-             ‘beard, moustache’
  NCV: Araki            humi-             ‘beard’
  SV:  Kwamera          nə-kumu-          ‘chin and upper throat’
@@ -7224,7 +7224,7 @@ POc *[Ruma]Ruma- ‘chest’
  MM: Petats            lu-luma-                       ‘chest’
  MM: Halia             lum-luma-                      ‘chest’
  NCV: Araki            juma-                          ‘chest, sternum’
- NCV: Nguna            na-rumwa-                      ‘ribs, chest’
+ NCV: Nguna            na-rumʷa-                      ‘ribs, chest’
  NCV: Atchin           ruma-                          ‘chest’
  Pn:    Tongan         uma                            ‘shoulder’
  Pn:    Samoan         uma                            ‘a wide chest’
@@ -7672,8 +7672,8 @@ PSV *na-butoŋi- ‘navel’ (Lynch 2001c)
   NCal: Iaai              bi-bikV-          ‘navel’
 PMic *pʷuto ‘navel’ (Bender et al., 2003)
   Mic: Kiribati           puto-             ‘navel’
-  Mic: Ponapean           pwūs              ‘navel’
-  Mic: Woleaian           pwūse             ‘navel’
+  Mic: Ponapean           pʷūs              ‘navel’
+  Mic: Woleaian           pʷūse             ‘navel’
   Fij:    Rotuman         pufa              ‘navel, umbilical cord’
   Fij:    Wayan           buto              ‘navel’ (_wāwā ni buto_ ‘umbilical cord’)
 cf. also:
@@ -8370,9 +8370,9 @@ PSOc *matuqa ‘right hand, right side’ (vowel metathesis, for †_*mataqu_; C
   NCV: Mota              matua-              ‘right hand, belonging to the right hand’
   NCV: Araki             marua-              ‘right hand’
   NCV: NE Ambae          matue               ‘right’
-  SV: Lenakel            mwatu-              ‘be right-handed’
-  SV: Kwamera             mwatuk              ‘be right-handed’
-  NCal: Nêlêmwa           mwāguk              ‘right’
+  SV: Lenakel            mʷatu-              ‘be right-handed’
+  SV: Kwamera             mʷatuk              ‘be right-handed’
+  NCal: Nêlêmwa           mʷāguk              ‘right’
   NCal: Iaai              metɔ                ‘right’
 >
 
@@ -8625,7 +8625,7 @@ __formgroup__
 bone, albeit in non-cognate terms.
 
 __formgroup__
-     PT:     Dobu                ʔae-bwate-bwatete [leg-ridge]      ‘shin and shinbone’
+     PT:     Dobu                ʔae-bʷate-bʷatete [leg-ridge]      ‘shin and shinbone’
      Pn:     Tongan              |hivi ʔi vaʔe|    [ridge of leg]     ‘shin’
      Pn:     Samoan              tua-sivi-vae      [ridge-bone-leg] ‘shin’
 
@@ -8843,7 +8843,7 @@ POc *buku ‘mound, knob, joint; (?) elbow, knee’
  MM: Babatana             pu-puku-          ‘elbow, knee’
  MM: Blablanga            pu-puku-          ‘knee’
  NCV: Mota                puɣiu-            ‘hip joints’
- Mic: Chuukese            pwɨkɨ-            ‘node, joint, knot, knee’
+ Mic: Chuukese            pʷɨkɨ-            ‘node, joint, knot, knee’
  Mic: Puluwatese          pʷɨkɨw            ‘knee’
  Mic: Kosraean            fuku-             ‘joint’
  Fij:   Bauan             buku              ‘anything knotted or humped’
@@ -11206,10 +11206,10 @@ POc *tubuq ‘grow, swell’
  NCV: Port Sandwich ruᵐb                    ‘grow’
  SV: Anejom               a-topʷ            ‘grow, swell up’
 PMic *t(i,u)pʷu ‘be born, bear young’ (Bender et al., 2003)
- Mic: Mortlockese         upwu(tiw)         ‘be born’
+ Mic: Mortlockese         upʷu(tiw)         ‘be born’
  Mic: Puluwatese          wupʷu(tiw)         ‘be born’
- Mic: Carolinian          ubwu(tiu)         (VI) ‘be born’
- Mic: Satawalese          upwu(to)          ‘be born’
+ Mic: Carolinian          ubʷu(tiu)         (VI) ‘be born’
+ Mic: Satawalese          upʷu(to)          ‘be born’
  Mic: Woleaian            suɸʷu             ‘be born’
  Fij:    Rotuman          fupu              ‘grow, increase’
  Fij:    Wayan            tubu              ‘grow, increase’
@@ -11743,7 +11743,7 @@ POc *ŋau ‘chew and eat’
   MM: Varise               ŋa-ŋa              ‘eat’
   MM: Babatana             ŋa-ŋau             ‘chew (food)’
   MM: Nduke                ŋa-ŋau             ‘eat’
-  MM: Vagunu               ŋa-ŋau             ‘eat’
+  MM: Vangunu               ŋa-ŋau             ‘eat’
   MM: Blablanga            ŋau                ‘eat’
   SES: Gela                ŋau                ‘shell gimlet’
   SES: Kwaio               ŋau                ‘sharp, pointed’
@@ -12817,7 +12817,7 @@ POc *mʷalum ‘hungry’
  PT:    Kilivila               molu                 ‘hunger’
  MM: Lavongai                  mol                  ‘hungry’
  MM: Tolai                     mul-mulum            ‘famine, hunger, be hungry’
- MM: Vagunu                    molu                 ‘hungry’
+ MM: Vangunu                    molu                 ‘hungry’
  NCal: Cèmuhî                  məɛnɛ-n              ‘hunger’
  NCal: Xârâcùù                 mɛ̃rɛ̃               ‘hunger’
 >
@@ -13798,10 +13798,10 @@ POc *gumu ‘gargle, rinse mouth’
  NCV: Uripiv              -kum-kum-e       ‘move something around in mouth; chew noisily’
  NCV: Ninde              gum-gum           ‘rinse one’s mouth’
  NCV: Namakir            gumu-kum          ‘keep in mouth’
-PMic *kumwu ‘have liquid in the mouth’ (Bender et al., 2003)
+PMic *kumʷu ‘have liquid in the mouth’ (Bender et al., 2003)
  Mic: Chuukese           kumu-kum          ‘hold or swish a fluid in the mouth’
  Mic: Mortlockese        kumʷu-kumʷ       ‘rinse out mouth’
- Mic: Woleaian           xumwu-xumwu       ‘put liquid in one’s mouth, suck, slurp’
+ Mic: Woleaian           xumʷu-xumʷu       ‘put liquid in one’s mouth, suck, slurp’
  Pn:    Ifira-Mele       kō-komu           ‘have the mouth full of liquid, rinse mouth, wash something around in the mouth’
  Pn:    Rennellese       kumu-kumu         ‘rinse mouth’
  Fij:   Rotuman          kumu              ‘hold liquid in the mouth; rinse the mouth with’
@@ -14434,11 +14434,11 @@ POc *[mu]mutaq (VI) ‘vomit’
   SES: Arosi            moa                ‘feel sick and desire to vomit’
   SES: Arosi            moa-taʔi           ‘feel sick from s.t.’
   NCal: Iaai            m̥ita              ‘vomit’
-  Mic: Kiribati         mwu-mwuta          ‘regurgitation; to vomit, to regurgitate’
-  Mic: Marshallese      mwmwəc             ‘vomit’
-  Mic: Ponapean         mmwus              ‘(N) vomit; (V) vomit’
-  Mic: Puluwatese       mwmwuh             ‘(V) vomit’
-  Mic: Woleaian         mwmwute            ‘vomit, throw up’
+  Mic: Kiribati         mʷu-mʷuta          ‘regurgitation; to vomit, to regurgitate’
+  Mic: Marshallese      mʷmʷəc             ‘vomit’
+  Mic: Ponapean         mmʷus              ‘(N) vomit; (V) vomit’
+  Mic: Puluwatese       mʷmʷuh             ‘(V) vomit’
+  Mic: Woleaian         mʷmʷute            ‘vomit, throw up’
 >
 
 
@@ -15273,7 +15273,7 @@ POc *ma-mawap ‘to yawn’ (ACD)
   Adm: Mussau           ma-mama          ‘to yawn’
   Adm: Nauna            ma-maw           ‘yawn’
   Adm: Penchal          ma-maw           ‘yawn’
-  NNG: Mindiri          ma-mwavi         ‘yawn’
+  NNG: Mindiri          ma-mʷavi         ‘yawn’
   MM: Kandas            ma-maup          ‘yawn’
   MM: Simbo             ma-mava          ‘to yawn’
   SES: Bugotu           mao-maova        ‘yawn, gape’
@@ -17495,7 +17495,7 @@ POc *makato ‘(be) itchy’
   NNG: Kaiep                maket
   MM: Lihir                 makat
 cf. also:
-   Adm: Drehet              mwʷʔatoŋ           ‘itchy’ (_mʷaʔati_ ‘to itch’ )
+   Adm: Drehet              mʷʔatoŋ           ‘itchy’ (_mʷaʔati_ ‘to itch’ )
    NNG: Gedaged             maga(gau)          ‘to itch, lust after’
    MM: Nakanai              makasili           ‘to itch’
 >
@@ -23652,8 +23652,8 @@ POc *qabi(t), *qabit-i- ‘take hold of, grasp’ (ACD)
  MM:  Nakanai          ab-abi           ‘carry in hand’
  MM:  Nakanai          abi(gabuto)      ‘take or hold tentatively’
  MM:  Bola             ɣabi-            ‘give’
- SV:  Lenakel          a-pwiit          ‘stick fast to, cleave to’
- SV:  Lenakel          a-pwiit(etai)    ‘hold fast, cling’
+ SV:  Lenakel          a-pʷiit          ‘stick fast to, cleave to’
+ SV:  Lenakel          a-pʷiit(etai)    ‘hold fast, cling’
 >
 
 [4] John Lynch kindly drew our attention to these forms and their significance.
@@ -25480,10 +25480,10 @@ POc *bonas-i- (VT) ‘smell (s.t.)’; ‘(s.t.) smell of (s.t.)’
  Mic:  Woleaian           |ɸʷō (maṣ)|           ‘to stink, smell bad’ (_maṣ_ ‘be rotten, spoiled’)
  Mic:  Woleaian           |ɸʷō (ŋas)|           ‘be fragrant, sweet-smelling’ (_ŋas_ ‘good, nice’)
  Mic:  Woleaian           |ɸʷō (lap)|           ‘to stink of armpit smell’ (_lap_ ‘be big, huge’)
- Mic:  Carolinian         bwō                 (N) ‘smell, odour, aroma’
- Mic:  Carolinian         |bwō (maṣ)|           ‘stink, smell rotten’
- Mic:  Carolinian         |bwō (ŋas)|           ‘be fragrant, sweet-smelling’
- Mic:  Carolinian         |bwō (pa) |           ‘smell of shit etc.’ (_pā_ ‘faeces’)
+ Mic:  Carolinian         bʷō                 (N) ‘smell, odour, aroma’
+ Mic:  Carolinian         |bʷō (maṣ)|           ‘stink, smell rotten’
+ Mic:  Carolinian         |bʷō (ŋas)|           ‘be fragrant, sweet-smelling’
+ Mic:  Carolinian         |bʷō (pa) |           ‘smell of shit etc.’ (_pā_ ‘faeces’)
  Fij:  Bauan              bona                (VI) ‘stink because rotten; (N) stinking rottenness; a stench’
  Fij:  Bauan              bonað-a             (VI) ‘to stink of s.t.’
 >
@@ -25561,7 +25561,7 @@ PNCV *b[o,u] (VI) ‘have an odour, be smelly’
  NCV: Sa                  bo-                 (N) ‘smell’
  NCV: Lonwolwol           bo                  (VI) ‘(s.t.) smell’
  NCV: Paamese             vō                  (VI) ‘(s.t.) smell’
- NCV: Nguna               pwo                 (VI) ‘stink, smell bad’
+ NCV: Nguna               pʷo                 (VI) ‘stink, smell bad’
  SV: Sye                  e-ᵐpu               (VI) ‘(s.t.) smell’
  SV: Ura                  i-bu                (VI) ‘(s.t.) smell’
  NCal: Nêlêmwa            bo                  (VI) ‘(s.t.) smell’
@@ -25592,12 +25592,12 @@ nouns.
 <
 PMP *bahu-an (N) ‘odour, stench’ (ACD: PWMP)
 POc *baw-an, *bo-an (N) ‘odour, scent’
- NNG: Manam              bwau            (N) ‘smell, odour’
+ NNG: Manam              bʷau            (N) ‘smell, odour’
   PT:   Gumawana          bowana                (VI) ‘stink, smell bad’; (N) ‘bad odour’
   PT:   Gapapaiwa         boa                   (VI) ‘rot, smell bad’
 PNCV *boa (N) ‘odour, scent’
   NCV: Tambotalo          poa                   ‘smell’
-  NCV: Nguna              na-pwoa               ‘smell’
+  NCV: Nguna              na-pʷoa               ‘smell’
   SV: Anejom              e-pev                 ‘stink, smell badly’ (John Lynch, pers. comm.)
 PPn *poa (N) ‘fish odour’
   Pn:   Tongan            poa                   ‘yam with fishy smell’
@@ -25646,7 +25646,7 @@ POc *soŋo ‘[be] acrid, pungent, as smell of urine’
  MM: Label                soŋ                 ‘smell (s.t.)’
   MM: Tiang                 (mo)soŋ            ‘smell (s.t.)’
   MM: Notsi                 coŋo               ‘stink’
-  Mic: Carolinian           (bwō)ttoŋo-toŋ     ‘smell sweaty, unclean, unwashed’ (_bwō_ ‘odour’)
+  Mic: Carolinian           (bʷō)ttoŋo-toŋ     ‘smell sweaty, unclean, unwashed’ (_bʷō_ ‘odour’)
 PPn *soŋo ‘smell of urine’ (POLLEX)
   Pn:   Niuean             ho-hoŋo             ‘perceive an odour, smell s.t. (as from a distance)’
   Pn:     Tongan            ho-hoŋo            ‘smell of urine’
@@ -25673,7 +25673,7 @@ POc *masi(t) ‘smell bad; [be] sour, acid, fermented’; (N) ‘bad smell’
  SES: Gela                 mahi               ‘body smell’
  SES: Arosi                masi               (N,V) ‘smell of stale fish or urine’
  SES: Arosi                masi(ŋaʔi)         (VSt) ‘smell stale, sour’ (_ŋaʔi_ ‘verb suffix’)
- Mic: Carolinian           mwas               (VI) ‘stink’
+ Mic: Carolinian           mʷas               (VI) ‘stink’
  Pn:    Tongan             mahi               ‘sour to the taste’
  Pn:    E Futunan          masi               ‘acid, fermented, preserved by fermenting’
  Pn:    Samoan             masi               ‘fermented breadfruit’
@@ -26338,7 +26338,7 @@ __formgroup__
  NCV: Mota        lolo-varuarua         [insides-in.two.directions] ‘doubtful, hesitating’
  NCV: Mota        lolo-gagara           [insides-bite/itchy] ‘angry, irritated’
  NCV: Mota        lolo-maran            [insides-daylight] ‘enlightened, intelligent; remember’
- NCV: Mota        lolo-bwoŋ             [insides-darkness] ‘ignorant; forget’
+ NCV: Mota        lolo-bʷoŋ             [insides-darkness] ‘ignorant; forget’
  NCV: Mota        lolo-wono             [insides-blocked] ‘sad, sorrowful, melancholic’
  NCV: Paamese    | ēn mese            | [insides clear] ‘remember’
  NCV: Paamese    | ēn voboŋ           | [insides in darkness] ‘ignorant; forget’
@@ -28074,7 +28074,7 @@ PPn *nimo ‘vanish, forget’ (POLLEX)
      PPn _*ŋalo_ uses the metaphor of a submerged (i. e. hidden) rock for ‘forgotten’.
 
 <
-POc *mwaloq ‘submerged rock or coral reef, coral head’ (vol.2:108)
+POc *mʷaloq ‘submerged rock or coral reef, coral head’ (vol.2:108)
 PPn *ŋalo ‘out of sight, disappeared, forgotten, lost’ (POLLEX)
   Pn: Tongan           ŋalo               (VSt) ‘be forgotten, sink, disappear from sight or memory’
   Pn: Niuean           ŋalo               ‘be lost, absent’ (_faka-ŋalo-ŋalo_ ‘try to forget’)

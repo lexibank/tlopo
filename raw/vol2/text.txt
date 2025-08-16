@@ -2101,7 +2101,7 @@ POc *ŋoro-ŋorok ‘nose’
  MM:  Varisi           i-ŋoro
  MM:  Ririo            ni-ŋir
  SES: Lau              ŋo-ŋora-
- SES: N Malaitan       ŋo-ŋoro-
+ SES: North and Central Malaita       ŋo-ŋoro-
 >
 
    The final reconstruction, PEOc _*mata_ ‘point of land, headland’ is evidently an

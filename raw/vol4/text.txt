@@ -8586,7 +8586,7 @@ ch. 8 for further discussion. Marovo (Meso-Melanesian) has a generic, _chuko_, t
 most small to medium-sized gastropods but excludes nerites and turbans (Hviding 2005:67).
 
 
-4.4.3 class Bivalvia: clams, cockles, oysters, etc.
+4.4.3 Class Bivalvia: clams, cockles, oysters, etc.
 
    There are ten pretty secure POc reconstructions for kinds of bivalves: _*japi_, _*kaRi_, _*kasi_
 _*kuku_, _*kima_, _*sapulu(q)_, _*tiRom_, _*tu(qu)asi_, _*tu(q)e-tu(q)e_ and _*(w,y)aro_.
@@ -8598,7 +8598,7 @@ Figure 4.6: Left to right Univalve shells: turban, trochus, cone, murex
 Figure 4.7: _Tridacna gigas_, giant clam
 
 
-4.4.5.1 Tridacninae, giant clams
+4.4.3.1 Tridacninae, giant clams
 
 Giant clams are a small but economically important group that includes the largest externally
 shelled molluscs. The largest species (_Tridacna gigas_) grows up to a metre long. Traditionally
@@ -12963,7 +12963,7 @@ POc *kokorako ‘fowl, _Gallus gallus_, esp. male’
   PT:    Wedau           kokorereko               ‘rooster’
   PT:    Kilivila        rekorekʷa
   PT:    Muyuw           kalkólek, lekólek
-  PT:    Bartie Bay      kokorereko
+  PT:    Bartle Bay      kokorereko
   PT:    Hula            kokoroku
   PT:    Mekeo           ʔoʔolo
   PT:    Motu            kokoroku
@@ -13565,7 +13565,7 @@ _*lapuat_ ‘large’ (vol.2:190-191).
 
 <
 POc *manuk-lapuat (‘big bird’) ‘White-bellied Sea Eagle, _Haliaeetus leucogaster_’
-  PT:   Bartie Bay    manu-bada       ‘sea hawk’
+  PT:   Bartle Bay    manu-bada       ‘sea hawk’
   PT:   Are           manu-bada       ‘fish hawk’
   PT:   Wedau         manu-bada       ‘fish hawk’
   MM:   Patpatar      malaba          ‘eagle (black and white)’
@@ -13832,7 +13832,7 @@ PWOc *kamʷaga ‘eagle, hawk’ (cf. perhaps PMic _*kemoa_ ‘booby’, §7.3)
 PPT *kitave ‘hawk’
   PT:      Wedau            kita              ‘kestrel’
   PT:      Wedau            kitave            ‘hawk’
-  PT:      Bartie Bay       kitave            ‘hawk’
+  PT:      Bartle Bay       kitave            ‘hawk’
   PT:      Mekeo            afi               ‘hawk’
 >
 
@@ -14208,7 +14208,7 @@ POc *bune ‘pigeon, dove’
   PT:    Muyuw         buna(kuku)           ‘blue pigeon’
   PT:    Hula          pune                 ‘dove’
   PT:    Motu          pune                 ‘_Ducula spilorrhoa_’
-  PT:    Bartie Bay    bune-bune            ‘a dove, blue pigeon’
+  PT:    Bartle Bay    bune-bune            ‘a dove, blue pigeon’
   PT:    Wedau         bune-bune            ‘green dove’
   MM:    Patpatar      bun                  ‘dove, pigeon’
   MM:    Tolai         (ta)bunə             ‘Knob-billed Fruit Dove, _Ptilinopus insolitus_’
@@ -18426,7 +18426,7 @@ all the insects of the Oceanic world, which are most associated with supernatura
 For Takia (NNG) speakers, a firefly, _lutot_, is thought to be a messenger of someone’s death
 (Bugenhagen wordlist). The term for a firefly in Sissano (NNG), _mas eyiaw_, is a compound
 term, _mas_ being defined as ‘devil; spirit of dead relative’ and _eyiaw_ as ‘evil spirit; thief’
-(Whitacre wordlist). Seligmann quotes a report from Bartie Bay (Wedau, PT) that ‘if a firefly
+(Whitacre wordlist). Seligmann quotes a report from Bartle Bay (Wedau, PT) that ‘if a firefly
 enters a house at night, it is a sign that someone in the house will die.’ (1910:653). Molima
 (PT) speakers regard fireflies as emissaries of witches who enter the house at night in order
 to report back on who is there, and for that reason they are killed as soon as they are seen

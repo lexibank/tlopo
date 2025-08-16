@@ -10,7 +10,11 @@ from pyetymdict import Dataset as BaseDataset, Language as BaseLanguage, Form as
 from pylexibank import LexibankWriter, Cognate as BaseCognate
 from pycldf.sources import Source, Sources
 
+#
+# FIXME: move all of pytlopo into pyetymdict.parser!
+#
 from pytlopo.models import Volume, Reflex, Protoform, Gloss
+from pytlopo.util import nested_toc
 
 GLOSS_ID = 0
 
@@ -83,6 +87,9 @@ class Dataset(BaseDataset):
             _taxa['_' + row['name'] + '_'] = row['ID']
         return _taxa
 
+    #
+    # FIXME: Must pass ldicts to add_form!
+    #
     def add_form(self, writer, protoform_or_reflex, gloss2id, langs, lexid2fn, poc_gloss='none'):
         if poc_gloss != 'none':
             if not protoform_or_reflex.glosses:
@@ -92,6 +99,14 @@ class Dataset(BaseDataset):
         if gloss not in gloss2id:
             gloss2id[gloss] = slug(str(gloss))
             writer.add_concept(ID=slug(str(gloss)), Name=gloss)
+
+        #
+        # FIXME: add Source! either from Sources associated with glosses or from ldicts!
+        #
+        _source = set()
+        for _gloss in protoform_or_reflex.glosses:
+            if _gloss.sources:
+                _source |= {ref.cldf_id for ref in _gloss.sources}
 
         kw = dict(
                 Parameter_ID=gloss2id[gloss],
@@ -118,6 +133,8 @@ class Dataset(BaseDataset):
                 Source=[],  # FIXME: add the sources for the language!
                 # Doubt=getattr(form, 'doubt', False),
             )
+        if not kw['Source']:
+            kw.update(Source=sorted(_source))
         lex = writer.add_lexemes(**kw)[0]
         if protoform_or_reflex.footnote_number:
             lexid2fn[lex['ID']] = protoform_or_reflex.footnote_number
@@ -173,16 +190,29 @@ class Dataset(BaseDataset):
         yield from figs
 
     def cmd_makecldf(self, args):
+        from pycldf.ext.markdown import CLDFMarkdownLink
+
+        def srcids(agg, m):
+            if m.table_or_fname == 'Source':
+                agg.add(m.objid)
+
         self.schema(args.writer.cldf, with_borrowings=False)
         self.local_schema(args.writer.cldf)
 
         args.writer.cldf.sources = Sources.from_file(self.etc_dir / 'sources.bib')
+        ldicts = collections.defaultdict(list)
+        for src in args.writer.cldf.sources:
+            if 'dictionary' in src.get('hhtype', ''):
+                for gc in src['lgcode'].split('; '):
+                    assert gc.startswith('[') and gc.endswith(']')
+                    ldicts[gc[1:-1]].append(src.id)
 
         langs = {r['Name']: r for r in self.etc_dir.read_csv('languages.csv', dicts=True)}
         reconstructions = []
         for v in list(langs.values()):
             for alt in v['Alternative_Names'].split('; '):
                 if alt:
+                    assert alt not in langs, alt
                     langs[alt] = v
 
         def add_protolang(w):
@@ -198,6 +228,7 @@ class Dataset(BaseDataset):
                 chapter_pages['{}-{}'.format(md.parent.name.replace('vol', ''), chap['number'])] = \
                     (int(s), int(e))
 
+        cited = set()
         fgs, egs, taxon2sections = [], [], collections.defaultdict(list)
         for vol in range(1, 7):
             t = self.raw_dir / 'vol{}'.format(vol) / 'text.txt'
@@ -218,6 +249,7 @@ class Dataset(BaseDataset):
             mddir = self.cldf_dir.joinpath(vol.dir.name)
             mddir.mkdir(exist_ok=True)
             for num, chapter in vol.chapters.items():
+                sources, source_to_sections = set(), collections.defaultdict(set)
                 for fid, label, p in self.iter_figures(chapter.text, vol.num):
                     shutil.copy(p, mddir / p.name)
                     args.writer.objects['MediaTable'].append(dict(
@@ -229,10 +261,26 @@ class Dataset(BaseDataset):
                     ))
                 p = mddir.joinpath('chapter{}.md'.format(num))
                 p.write_text(chapter.text, encoding='utf-8')
+                sid = None
                 for sid, text in chapter.iter_sections():
                     for k, v in self.taxa.items():
                         if k in text:
                             taxon2sections[v].append(('{}-{}'.format(vol.num, num), sid))
+
+                    sids = set()
+                    CLDFMarkdownLink.replace(text, functools.partial(srcids, sids))
+                    if sids:
+                        cited |= sids
+                        sources |= sids
+                        for s in sids:
+                            source_to_sections[s].add(sid)
+                if sid is None:  # Chapter has no sections.
+                    sids = set()
+                    CLDFMarkdownLink.replace(chapter.text, functools.partial(srcids, sids))
+                    if sids:
+                        cited |= sids
+                        sources |= sids
+
                 args.writer.objects['MediaTable'].append(dict(
                     ID='{}-{}-text'.format(vol.num, num),
                     Name='Volume {} Chapter {}'.format(vol.num, num),
@@ -248,7 +296,9 @@ class Dataset(BaseDataset):
                     Citation=chapter.bib.text(),
                     Volume_Number=vol.num,
                     Volume=vol.metadata['title'],
-                    Table_Of_Contents=chapter.toc,
+                    Table_Of_Contents=nested_toc(chapter.toc),
+                    Source=sorted(sources),
+                    Source_To_Sections={k: list(v) for k, v in source_to_sections.items()},
                 ))
 
         for lg in langs.values():
@@ -256,8 +306,12 @@ class Dataset(BaseDataset):
                 ID=lg['ID'],
                 Name=lg['Name'],
                 Glottocode=lg['Glottocode'],
-                Is_Proto=False, Group=lg['Group'],
-                Latitude=lg['Latitude'], Longitude=lg['Longitude'])
+                Is_Proto=False,
+                Group=lg['Group'],
+                Latitude=lg['Latitude'],
+                Longitude=lg['Longitude'],
+                Source=ldicts.get(lg['Glottocode'], [])
+            )
 
         for row in self.etc_dir.read_csv('species_and_genera.csv', dicts=True):
             row['GBIF_ID'] = row['ID']
@@ -431,6 +485,8 @@ class Dataset(BaseDataset):
                 Context=eg.context,
             ))
 
+        print(len(cited))
+
     def local_schema(self, cldf):
         """
         Gloss
@@ -484,6 +540,11 @@ class Dataset(BaseDataset):
             {'name': 'Volume_Number', 'datatype': 'integer'},
             'Volume',
             {'name': 'Table_Of_Contents', 'datatype': 'json'},
+            {
+                'name': 'Source',
+                'separator': ';',
+                'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#source'},
+            {'name': 'Source_To_Sections', 'datatype': 'json'},
         )
         cldf.add_table(
             'cognatesetreferences.csv',

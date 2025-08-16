@@ -6760,7 +6760,7 @@ orphan’ but in other cases descriptive as Malay _anak piatu_ (_anak_ ‘child,
 orphaned’). In some Oceanic languages the descriptive term refers to one or both parents.
 In a sample of 12 Oceanic languages, Blust found that in eight languages there is an
 agreement between the parent mentioned in the descriptive term and the rule of descent.
-For example, in Ere ‘orphan’ is timan _pwi_ ‘father none’ and descent is patrilineal; in
+For example, in Ere ‘orphan’ is _timan pwi_ ‘father none’ and descent is patrilineal; in
 Woleaian ‘orphan’ is _sile-mas_ and descent is matrilineal; in Samoan ‘orphan’ is _matua-oti_
 ‘parents dead’ and descent is ambilineal (cognatic). This correlation suggests that in
 Austronesian societies an orphan is defined in relation to his/her descent group rather than
@@ -8233,7 +8233,7 @@ wave, ocean wave’, _*bayau_ ‘ocean swell’, _*loka_ (N) ‘high sea, heavy 
 rough, of sea’, _*maqati_ ‘low tide, dry reef,’ _*Ruap_ ‘high tide’, _*sakaRu_ ‘coral reef’, _*motu(s)_
 ‘detached reef’, _*laje_ ‘coral’, _*mʷaloq_ ‘submerged rock or coral reef’, _*namo_ ‘lagoon inside
 reef, deep pool in reef’, _*mata (qi, ni) sawa(n,ŋ)_ ‘passage through reef’, _*(b,bʷ)iker_ ‘beach,
-esp. sandy beach’, _*nusa_ ‘island’, _*tobwa_ ‘bay’, _*(i,u)cuŋ_ ‘cape’.
+esp. sandy beach’, _*nusa_ ‘island’, _*tobʷa_ ‘bay’, _*(i,u)cuŋ_ ‘cape’.
 
                                                                             Settlement patterns 177
 
@@ -8292,7 +8292,7 @@ following, indicate that at least some dwelling houses were substantial building
 superstructure, gabled, with floor raised on piles (for supporting cognates see vol.1, ch.3):
 
 __block__
-- _*gabwari_ ‘the area underneath a raised house’ (vol.1:51)
+- _*gabʷari_ ‘the area underneath a raised house’ (vol.1:51)
 - _*pupuŋ(an)_ ‘ridgepole’ (vol.1:53), from PMP _*bubuŋ_ (Dempwolff 1938; Zorc 1994), PMP
   _*buhuŋbuhuŋ_ (Blust 1972b) ‘ridgepole, ridge of the roof’
 - _*bou_ ‘probably main bearers or cross-beams supporting a raised floor or roof structure, or
@@ -10408,10 +10408,10 @@ PMic *pʷutu ‘step, tread, apply one’s foot’
  Mic: Kosraean        fut-fut             ‘kick’
  Mic: Kosraean        futu-ŋ              ‘kick, stomp (s.t.)’
  Mic: Marshallese     bʷic-bʷic           ‘kick, a dance’
- Mic: Chuukese        pwu                 ‘place one’s foot’
+ Mic: Chuukese        pʷu                 ‘place one’s foot’
  Mic: Chuukese        pʷūr-i              ‘step on, tread on’
  Mic: Puluwatese      pūr-i               ‘stamp or tread on’
- Mic: Carolinian      bwū-bwu             ‘to stamp, stand on’
+ Mic: Carolinian      bʷū-bʷu             ‘to stamp, stand on’
  Mic: Carolinian      bʷū-ri              ‘step, stomp, tread on (s.t.)’
  Fij: Bauan           butu                ‘stamp, tread’
  Fij: Bauan           butu-ka             ‘stamp or tread on’
@@ -14446,7 +14446,7 @@ __formgroup__
      SES: ’Are’are       |oku tanu|      ‘November’ (_tanu_ ‘ladle’)
      SES: ’Are’are       |oku paina|     ‘December’ (_paina_ ‘big’)
      SES: Sa’a           |oku lade |     ‘September’ (_lade_ ‘flower of nut tree’)
-     SES: Sa’a           |oku mʷā |      ‘October’ (_mwā_ ‘full’)
+     SES: Sa’a           |oku mʷā |      ‘October’ (_mʷā_ ‘full’)
      SES: Sa’a           |oku denu|      ‘November’ (_denu_ ‘ladle’)
      SES: Sa’a           |oku paine|     ‘December’ (_paine_ ‘grow big’)
      SES: Kwaio          odu             ‘palolo worm; year; span of a year’
