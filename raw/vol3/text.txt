@@ -1068,7 +1068,7 @@ reconstructions are mostly for Proto Oceanic, Proto Western Oceanic, Proto Easte
 or PROc, and less often for Proto Southern Oceanic or Proto Central Pacific.
 Since Oceanic speakers spread across the Pacific from the Bismarck Archipelago to Fiji with
 remarkable speed, reconstructions at any of these interstages are likely to be early. Proto
-Admiralty, Proto New Guinea Oceanic and Proto Meso-Melanesian reconstructions are also
+Admiralty, Proto New Guinea Oceanic and PMM reconstructions are also
 listed in the few cases where they occur, as there is a fair probability that they are also of early
 Oceanic antiquity. 'Proto North/Central Vanuatu' reconstructions are given where reflexes
 are restricted to North/Central Vanuatu, even though it is improbable that these languages
@@ -2072,7 +2072,7 @@ PPT *kani-kani 'staple food'
   PT:   Hula          ani                  'banana'
   PT:   Motu          ani-ani              'food'
   PT:   Mekeo         ani-ani              'food'
-Proto Meso-Melanesian *k⟨in⟩ani 'staple food'
+PMM *k⟨in⟩ani 'staple food'
   MM:   Nakanai       il-ali               'food' (A. Chowning, pers. comm.)
   MM:   Patpatar      ni-an                'food' [15]
   MM:   Ramoaaina     ni-an                'k.o. yam; food'
@@ -7210,7 +7210,7 @@ Figure 5.9: _Calophyllum inophyllum_: __A__, mature tree; __B__, flowering shoot
                                                                The coastal strand   153
 
 
-    Other reconstructions glossed '_Calophyllum inophyllum_' are Proto Meso-Melanesian _*bu(y)ap_ (possibly
+    Other reconstructions glossed '_Calophyllum inophyllum_' are PMM _*bu(y)ap_ (possibly
 of POc antiquity) and POc _*dalo_ (probably inherited from PCEMP). It seems unlikely that
 POc had more than one term for _Calophyllum inophyllum_ and thus it is possible that _*dalo_ denoted
 some other species. POc _*tamanu_ and PNGOc _*sabʷa(r,R)i_ denote unidentified _Calophyllum_
@@ -7262,14 +7262,14 @@ PCP *vetaqu '_Calophyllum inophyllum_'
 154      Malcolm Ross
 
 
-    The cognate set below supports the reconstruction of Proto Meso-Melanesian _*bu(y)ap_
+    The cognate set below supports the reconstruction of PMM _*bu(y)ap_
 '_Calophyllum inophyllum_'. If the Tokelauan form is also cognate, then the form can be reconstructed to POc.
 Biggs & Clark (1993) attribute Tokelauan _pua_ to the cognate set reflecting PPn _*pua_
 '_Fagraea berteroana_ or other tree with showy flowers' (which I take to reflect POc _*buRat_
 '_Fagraea berteroana_'; §5.6), but it may well be cognate with the Meso-Melanesian terms below.
 
 <
-Proto Meso-Melanesian *bu(y)ap '_Calophyllum inophyllum_'
+PMM *bu(y)ap '_Calophyllum inophyllum_'
   MM:       Kara (E)     vuəf         '_Calophyllum inophyllum_'
   MM:       Tabar        buau         '_Calophyllum inophyllum_'
   MM:       Lihir        boio         '_Calophyllum inophyllum_'
@@ -9006,8 +9006,8 @@ seems to have distinguished between _*(m,mʷ)aso_ 'cinnamon' and _*(m,mʷ)aso-ko
 McClatchey (pers. comm.) that the quote from Mager above could also be applied to the
 Fijian and Western Polynesian use of _Cananga odorata_.
 
-    The Meso-Melanesian forms below, apparently reflecting Proto Meso-Melanesian _*mud(e)u_ (rather than
-†_*moso(u)_) are problematic. They may reflect a Proto Meso-Melanesian borrowing or a non-cognate chance
+    The Meso-Melanesian forms below, apparently reflecting PMM _*mud(e)u_ (rather than
+†_*moso(u)_) are problematic. They may reflect a PMM borrowing or a non-cognate chance
 resemblance.
 
 <
@@ -10047,12 +10047,12 @@ PNCV *matala '_Kleinhovia hospita_' (Lynch 2004a)
   NCV: S Efate        na-matal      '_Kleinhovia hospita_'
 >
 
-    Proto Meso-Melanesian _*p(i,u)lakis_ and POc _*paqu_, both '_Kleinhovia hospita_', are also reconstructable.
+    PMM _*p(i,u)lakis_ and POc _*paqu_, both '_Kleinhovia hospita_', are also reconstructable.
 The forms under 'cf also' appear to reflect a variant _*paqi_ which may represent a conflation
 of the two etyma.
 
 <
-Proto Meso-Melanesian *p(i,u)lakis '_Kleinhovia hospita_'
+PMM *p(i,u)lakis '_Kleinhovia hospita_'
  MM:  Bola           bulai        '_Kleinhovia hospita_' (for †_pulai_)
  MM:  Nehan          hule         '_Kleinhovia hospita_'
  MM:  Babatana       vilaki       '_Kleinhovia hospita_' (McClatchey et al. 2005)
@@ -10315,7 +10315,7 @@ __formgroup__
      Adm:   Loniu          eit, aʔat         'putty nut, _Parinari laurina_'
 
     A number of Meso-Melanesian reflexes lack the initial syllable, reflecting a possible
-Proto Meso-Melanesian altemant _*tita_.[25] For clarity's sake these are listed separately below. There are also
+PMM altemant _*tita_.[25] For clarity's sake these are listed separately below. There are also
 two SE Solomonic reflexes of _*tita_, in Gela and Bugotu, but both languages are prone to
 borrow from NW Solomonic (and thus Meso-Melanesian) neighbours.
 
@@ -10333,7 +10333,7 @@ leaving _*tita_ as the name of the tree (ch.2, §7.1.2).
 
 
 <
-Proto Meso-Melanesian *tita 'the putty nut, probably _Parinari laurina_ and _Parinari glaberrima_' (Chowning 1963)
+PMM *tita 'the putty nut, probably _Parinari laurina_ and _Parinari glaberrima_' (Chowning 1963)
  MM:  Nakanai       tita          '_Parinari glaberrima_'
  MM:  Tolai         tita          '_Parinari laurina_'
  MM:  Nehan         tita          '_Parinari laurina_'
@@ -11210,7 +11210,7 @@ in New Ireland, but the Kwarae'ae take short poles from it, using them in small 
 stake yams and to plant living pig fences (Kwa'ioloa & Burt 2001: 148).
 
     POc _*ka[(r,l)a]qabusi_ appears to have denoted a taxon including at least _Acalypha longispica_
-and _Acalypha grandis_. The syllable _*-(r,l)a-_ is absent from the Proto Meso-Melanesian form, but present in PEOc. It
+and _Acalypha grandis_. The syllable _*-(r,l)a-_ is absent from the PMM form, but present in PEOc. It
 may or may not have been present in POc. Weakly supported PEOc _*(k)a(r,l)adroŋ_ appears
 also to have denoted one or more _Acalypha_ species. The two PEOc etyma apparently share
 the initial element _*ka(r,l)a-_, with an ambiguous liquid: North/Central Vanuatu and Kiribati
@@ -11224,7 +11224,7 @@ cognate set gives the lie to this interpretation.
 
 <
 POc *ka[(r,l)a]qabusi '_Acalypha_ spp.'
-Proto Meso-Melanesian *kaqabusi '_Acalypha_ spp.'
+PMM *kaqabusi '_Acalypha_ spp.'
   MM:  Kara (E)    kavus             '_Acalypha longispica_' (zero for †_-l-_ or †_-r-_)
   MM:  Lihir       buis              '_Acalypha wilkesiana_'
   MM:  Patpatar    kakabus           '_Acalypha longispica_' (zero for †_-l-_ or †_-r-_)
@@ -17611,7 +17611,7 @@ __formgroup__
 PSV *nə-vutoy 'brain' (Lynch 2001c)
      SV:   Anejom     n-hutu(ma)    'brains'
      SV:   N Tanna    no-uta        'brains'
-     SV    Lenakel    neno-urək    'brain'
+     SV:   Lenakel    neno-urək    'brain'
 
 
 376       Malcolm Ross and Bethwyn Evans
@@ -18404,7 +18404,7 @@ POc *[pu-]pulu 'betel pepper, _Piper betle_' (Frantisek Lichtenberk 1998: *pulu)
 
 
 <
-Proto Meso-Melanesian *siqa(r,R)(a) 'betel pepper, _Piper betle_'
+PMM *siqa(r,R)(a) 'betel pepper, _Piper betle_'
  MM: Kara (E)        sie           '_Piper betle_'
  MM: Tabar           sia           '_Piper betle_'
  MM: Lihir           sie           '_Piper betle_'

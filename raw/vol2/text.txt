@@ -6171,7 +6171,7 @@ wind’:
 
 __formgroup__
  Mic: Ponapean           (nan-)par    ‘tradewind season’
-Proto Trukic       *parata      ‘tradewind’
+PChk       *parata      ‘tradewind’
  Mic: L. Mortlockese     paras        ‘rain that comes in due to wind’
  Mic: Woleaian           paẓasa       ‘tradewind’
 
@@ -12035,7 +12035,7 @@ POc (N, N LOC) *papa-, *pa-, *papak, *pak ‘underneath, lower surface, bottom, 
  Mic:  Chuukese      fā-             ‘underneath’
  Mic:  Woleaian      fā-             ‘underneath’
  NCal: Cèmuhî        hāhî-n          ‘underneath’
-Proto Meso-Melanesian *pake- ‘underneath, underside’
+PMM *pake- ‘underneath, underside’
  MM:   Bali          va-vake(ni)     ‘down (there)’
  MM:   Tigak         pak(a-)         ‘underside’
  MM:   Kara (East)   pa-             ‘underside; down there’

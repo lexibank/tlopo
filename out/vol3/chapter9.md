@@ -227,7 +227,7 @@ The most widely reflected term for _Dioscorea alata_ is POc _&ast;qupi_, which i
 <td>'<span>greater yam; yam (generic)</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td><a href="../languages/fwai">Fwai</a></td><td style="white-space: nowrap;"><i>kuuk</i></td>
+<td>NCal</td><td><a href="../languages/fwai">Fwâi</a></td><td style="white-space: nowrap;"><i>kuuk</i></td>
 <td>'<span>greater yam; yam (generic)</span>'</td>
 </tr>
 <tr>
@@ -243,7 +243,7 @@ The most widely reflected term for _Dioscorea alata_ is POc _&ast;qupi_, which i
 <td>'<span>greater yam; yam (generic)</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td><a href="../languages/nelemwa">Nêlêmwâ</a></td><td style="white-space: nowrap;"><i>kuvic</i></td>
+<td>NCal</td><td><a href="../languages/nelemwa">Nêlêmwa</a></td><td style="white-space: nowrap;"><i>kuvic</i></td>
 <td>'<span>greater yam; yam (generic)</span>'</td>
 </tr>
 <tr>
@@ -352,7 +352,7 @@ Three other terms can be reconstructed from cognate sets some of whose members a
 <td>'<span>greater yam</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/karawest">Kara (West)</a></td><td style="white-space: nowrap;"><i>udi</i></td>
+<td>MM</td><td><a href="../languages/karawest">West Kara</a></td><td style="white-space: nowrap;"><i>udi</i></td>
 <td>'<span>greater yam</span>'</td>
 </tr>
 <tr>
@@ -412,14 +412,14 @@ cf. also:
 </tr>
 <tr>
 <td>PT</td>
-<td><a href="../languages/auhelawa">'Auhelawa</a></td>
+<td><a href="../languages/auhelawa">’Auhelawa</a></td>
 <td style="white-space: nowrap;"><i>ateya</i></td>
 <td>
 '<span>yam</span>'</td>
 </tr>
 <tr>
 <td>PT</td>
-<td><a href="../languages/sariba">Sariba</a></td>
+<td><a href="../languages/saliba">Saliba</a></td>
 <td style="white-space: nowrap;"><i>kʷatea</i></td>
 <td>
 '<span>greater yam, <em>Dioscorea alata</em>; yam (generic)</span>'</td>
@@ -507,7 +507,7 @@ cf. also:
 <table>
 <tr>
 <td>Mic</td>
-<td><a href="../languages/trukese">Trukese</a></td>
+<td><a href="../languages/chuukese">Chuukese</a></td>
 <td style="white-space: nowrap;"><i>pʷereka</i></td>
 <td>
 '<span><em>Dioscorea bulbifera</em></span>' (<span><em>-r-</em> for †∅</span>)</td>
@@ -592,7 +592,7 @@ cf. also:
 <td>'<span>lesser yam, <em>Dioscorea esculenta</em></span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/poeng">Poeng</a></td><td style="white-space: nowrap;"><i>mamisa</i></td>
+<td>NNG</td><td><a href="../languages/mengen">Mengen</a></td><td style="white-space: nowrap;"><i>mamisa</i></td>
 <td>'<span>lesser yam, <em>Dioscorea esculenta</em></span>'</td>
 </tr>
 <tr>
@@ -647,7 +647,7 @@ Further terms for yam can be reconstructed, but it is unclear which species they
 </td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/karaeast">Kara (East)</a></td><td style="white-space: nowrap;"><i>go-gof</i></td>
+<td>MM</td><td><a href="../languages/karaeast">East Kara</a></td><td style="white-space: nowrap;"><i>go-gof</i></td>
 <td>'<span><em>Dioscorea bulbifera</em></span>'</td>
 </tr>
 </table>
@@ -731,7 +731,7 @@ Further terms for yam can be reconstructed, but it is unclear which species they
 <td>'<span><em>Dioscorea bulbifera</em></span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td><a href="../languages/fwai">Fwai</a></td><td style="white-space: nowrap;"><i>niwâ</i></td>
+<td>NCal</td><td><a href="../languages/fwai">Fwâi</a></td><td style="white-space: nowrap;"><i>niwâ</i></td>
 <td>'<span><em>Dioscorea bulbifera</em></span>'</td>
 </tr>
 <tr>
@@ -743,7 +743,7 @@ Further terms for yam can be reconstructed, but it is unclear which species they
 <td>'<span><em>Dioscorea bulbifera</em></span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td><a href="../languages/nelemwa">Nêlêmwâ</a></td><td style="white-space: nowrap;"><i>demʷa</i></td>
+<td>NCal</td><td><a href="../languages/nelemwa">Nêlêmwa</a></td><td style="white-space: nowrap;"><i>demʷa</i></td>
 <td>'<span><em>Dioscorea bulbifera</em></span>'</td>
 </tr>
 </table>
@@ -792,7 +792,7 @@ cf. also:
 <td>'<span>lesser yam</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/karaeast">Kara (East)</a></td><td style="white-space: nowrap;"><i>ko-kau</i></td>
+<td>MM</td><td><a href="../languages/karaeast">East Kara</a></td><td style="white-space: nowrap;"><i>ko-kau</i></td>
 <td>'<span>lesser yam, <em>Dioscorea esculenta</em></span>'</td>
 </tr>
 <tr>
@@ -987,7 +987,7 @@ A search for languages in which reflexes of _&ast;talo(s)_ and _&ast;mʷapo(q)_ 
 <td>'<span>taro, <em>Colocasia esculenta</em></span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/poeng">Poeng</a></td><td style="white-space: nowrap;"><i>mao</i></td>
+<td>NNG</td><td><a href="../languages/mengen">Mengen</a></td><td style="white-space: nowrap;"><i>mao</i></td>
 <td>'<span>taro, <em>Colocasia esculenta</em></span>'</td>
 </tr>
 <tr>
@@ -1196,7 +1196,7 @@ The leaves of _Colocasia esculenta_ are eaten as a green vegetable in many parts
 <td>'<span>k.o. tree with edible leaves; <em>Gnetum gnemon</em></span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/karaeast">Kara (East)</a></td><td style="white-space: nowrap;"><i>iavas</i></td>
+<td>MM</td><td><a href="../languages/karaeast">East Kara</a></td><td style="white-space: nowrap;"><i>iavas</i></td>
 <td>'<span>taro, <em>Colocasia esculenta</em></span>'</td>
 </tr>
 <tr>
@@ -1295,7 +1295,7 @@ The items listed below denote 'swamp taro, _Cyrtosperma merkusii_' unless glosse
 </tr>
 <tr>
 <td>MM</td>
-<td><a href="../languages/karaeast">Kara (East)</a></td>
+<td><a href="../languages/karaeast">East Kara</a></td>
 <td style="white-space: nowrap"><i>vuləi</i></td>
 <td>
 '<span>k.o. taro</span>' (<span>would reflect <em>*hulaqa</em></span>)</td>
@@ -1400,7 +1400,7 @@ The items listed below denote 'swamp taro, _Cyrtosperma merkusii_' unless glosse
 </tr>
 <tr>
 <td>Mic</td>
-<td><a href="../languages/trukese">Trukese</a></td>
+<td><a href="../languages/chuukese">Chuukese</a></td>
 <td style="white-space: nowrap"><i>pʷuɾa</i></td>
 <td>
 '<span>swamp taro, <em>Cyrtosperma merkusii</em></span>' (<span>would reflect <em>*hula(q,k)a</em></span>)</td>
@@ -1435,7 +1435,7 @@ The items listed below denote 'swamp taro, _Cyrtosperma merkusii_' unless glosse
 </tr>
 <tr>
 <td>Mic</td>
-<td><a href="../languages/puloannan">Pulo-Annan</a></td>
+<td><a href="../languages/puloannian">Pulo Annian</a></td>
 <td style="white-space: nowrap"><i>vʷuraxa</i></td>
 <td>
 '<span>swamp taro, <em>Cyrtosperma merkusii</em></span>' (<span>would reflect <em>*hulaka</em></span>)</td>
@@ -1548,7 +1548,7 @@ The POc name for giant taro was _&ast;piRaq_, continuing a PMP etymon. The final
 <td>'<span>large sp. of edible arum</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/karaeast">Kara (East)</a></td><td style="white-space: nowrap;"><i>fia</i></td>
+<td>MM</td><td><a href="../languages/karaeast">East Kara</a></td><td style="white-space: nowrap;"><i>fia</i></td>
 <td>'<span><em>Alocasia macrorrhizos</em></span>'</td>
 </tr>
 <tr>
@@ -1648,7 +1648,7 @@ The POc name for giant taro was _&ast;piRaq_, continuing a PMP etymon. The final
 <td>'<span><em>Alocasia macrorrhizos</em></span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td><a href="../languages/fwai">Fwai</a></td><td style="white-space: nowrap;"><i>pia</i></td>
+<td>NCal</td><td><a href="../languages/fwai">Fwâi</a></td><td style="white-space: nowrap;"><i>pia</i></td>
 <td>'<span><em>Alocasia macrorrhizos</em></span>'</td>
 </tr>
 <tr>
@@ -1660,7 +1660,7 @@ The POc name for giant taro was _&ast;piRaq_, continuing a PMP etymon. The final
 <td>'<span><em>Alocasia macrorrhizos</em></span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td><a href="../languages/nelemwa">Nêlêmwâ</a></td><td style="white-space: nowrap;"><i>pia</i></td>
+<td>NCal</td><td><a href="../languages/nelemwa">Nêlêmwa</a></td><td style="white-space: nowrap;"><i>pia</i></td>
 <td>'<span><em>Alocasia macrorrhizos</em></span>'</td>
 </tr>
 <tr>
@@ -1695,7 +1695,7 @@ The glosses suggest that the denotatum of POc _&ast;(p,b)oso_ below belonged to 
 <td>'<span>taro</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/lukeppono">Lukep (Pono)</a></td><td style="white-space: nowrap;"><i>bus</i></td>
+<td>NNG</td><td><a href="../languages/lukep">Lukep</a></td><td style="white-space: nowrap;"><i>bus</i></td>
 <td>'<span>taro</span>'</td>
 </tr>
 <tr>
@@ -1711,7 +1711,7 @@ The glosses suggest that the denotatum of POc _&ast;(p,b)oso_ below belonged to 
 <td>'<span>elephant ear taro, <em>Alocasia macrorrhizos</em></span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td style="white-space: nowrap;"><i>wōt</i></td>
+<td>Mic</td><td><a href="../languages/chuukese">Chuukese</a></td><td style="white-space: nowrap;"><i>wōt</i></td>
 <td>'<span>taro, <em>Colocasia esculenta</em></span>'</td>
 </tr>
 </table>
@@ -1958,7 +1958,7 @@ The likelihood that banana domestication first occurred in New Guinea, and that 
 <td>'<span>banana</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/poeng">Poeng</a></td><td style="white-space: nowrap;"><i>puri</i></td>
+<td>NNG</td><td><a href="../languages/mengen">Mengen</a></td><td style="white-space: nowrap;"><i>puri</i></td>
 <td>'<span>banana</span>'</td>
 </tr>
 <tr>
@@ -1966,7 +1966,7 @@ The likelihood that banana domestication first occurred in New Guinea, and that 
 <td>'<span>banana</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/lukeppono">Lukep (Pono)</a></td><td style="white-space: nowrap;"><i>pur</i></td>
+<td>NNG</td><td><a href="../languages/lukep">Lukep</a></td><td style="white-space: nowrap;"><i>pur</i></td>
 <td>'<span>banana</span>'</td>
 </tr>
 <tr>
@@ -2007,7 +2007,7 @@ The likelihood that banana domestication first occurred in New Guinea, and that 
 <td>'<span>banana</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/toabaita">To'aba'ita</a></td><td style="white-space: nowrap;"><i>fudi</i></td>
+<td>SES</td><td><a href="../languages/toabaita">To’aba’ita</a></td><td style="white-space: nowrap;"><i>fudi</i></td>
 <td>'<span>banana</span>' (<span>archaic</span>)</td>
 </tr>
 <tr>
@@ -2015,7 +2015,7 @@ The likelihood that banana domestication first occurred in New Guinea, and that 
 <td>'<span>banana</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>huti</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa’a</a></td><td style="white-space: nowrap;"><i>huti</i></td>
 <td>'<span>banana</span>'</td>
 </tr>
 <tr>
@@ -2075,7 +2075,7 @@ The likelihood that banana domestication first occurred in New Guinea, and that 
 <td>'<span>banana</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td style="white-space: nowrap;"><i>wūc̣</i></td>
+<td>Mic</td><td><a href="../languages/chuukese">Chuukese</a></td><td style="white-space: nowrap;"><i>wūc̣</i></td>
 <td>'<span>banana</span>'</td>
 </tr>
 <tr>
@@ -2116,7 +2116,7 @@ The term _Musa troglodytarum_ is used (inaccurately) both of wild varieties of _
 <td>'<span>banana, Fe"i (?) cultivars</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/silisili">Silisili</a></td><td style="white-space: nowrap;"><i>cok</i></td>
+<td>NNG</td><td><a href="../languages/middlewatut">Middle Watut</a></td><td style="white-space: nowrap;"><i>cok</i></td>
 <td>'<span>banana</span>'</td>
 </tr>
 <tr>
@@ -2199,7 +2199,7 @@ The glosses of the four terms below are vague, both because the glosses of prese
 <td>'<span>k.o. banana with upright bunches and large fruit</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>sao-sao</i></td>
+<td>SES</td><td><a href="../languages/areare">’Are’are</a></td><td style="white-space: nowrap;"><i>sao-sao</i></td>
 <td>'<span>k.o. wild banana</span>'</td>
 </tr>
 <tr>
@@ -2270,11 +2270,11 @@ The glosses of the four terms below are vague, both because the glosses of prese
 <td>'<span>banana; kidney</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/toabaita">To'aba'ita</a></td><td style="white-space: nowrap;"><i>baʔu</i></td>
+<td>SES</td><td><a href="../languages/toabaita">To’aba’ita</a></td><td style="white-space: nowrap;"><i>baʔu</i></td>
 <td>'<span>banana plant and fruit</span>' (<span>syn. <em>fudi</em>, now archaic</span>)</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/dorio">Dori'o</a></td><td style="white-space: nowrap;"><i>baʔu</i></td>
+<td>SES</td><td><a href="../languages/dorio">Dori’o</a></td><td style="white-space: nowrap;"><i>baʔu</i></td>
 <td>'<span>banana</span>'</td>
 </tr>
 <tr>
@@ -2525,7 +2525,7 @@ A fourth term, PROc _&ast;maRi_ 'breadfruit', is limited to South Vanuatu, Micro
 <td>'<span>breadfruit</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td><a href="../languages/nelemwa">Nêlêmwâ</a></td><td style="white-space: nowrap;"><i>cen</i></td>
+<td>NCal</td><td><a href="../languages/nelemwa">Nêlêmwa</a></td><td style="white-space: nowrap;"><i>cen</i></td>
 <td>'<span>breadfruit</span>'</td>
 </tr>
 <tr>
@@ -2549,7 +2549,7 @@ A fourth term, PROc _&ast;maRi_ 'breadfruit', is limited to South Vanuatu, Micro
 </td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td style="white-space: nowrap;"><i>kuun</i></td>
+<td>Mic</td><td><a href="../languages/chuukese">Chuukese</a></td><td style="white-space: nowrap;"><i>kuun</i></td>
 <td>'<span><em>Barringtonia asiatica</em>, <em>Barringtonia racemosa</em></span>'</td>
 </tr>
 <tr>
@@ -2580,7 +2580,7 @@ A fourth term, PROc _&ast;maRi_ 'breadfruit', is limited to South Vanuatu, Micro
 <td>'<span>breadfruit</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/lukeppono">Lukep (Pono)</a></td><td style="white-space: nowrap;"><i>kun</i></td>
+<td>NNG</td><td><a href="../languages/lukep">Lukep</a></td><td style="white-space: nowrap;"><i>kun</i></td>
 <td>'<span>breadfruit</span>'</td>
 </tr>
 <tr>
@@ -2624,11 +2624,11 @@ A fourth term, PROc _&ast;maRi_ 'breadfruit', is limited to South Vanuatu, Micro
 <td>'<span>breadfruit</span>' (<span>loan from Suauic</span>)</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/suaudaui">Suau (Daui)</a></td><td style="white-space: nowrap;"><i>unuli</i></td>
+<td>PT</td><td><a href="../languages/suau">Suau</a></td><td style="white-space: nowrap;"><i>unuli</i></td>
 <td>'<span>breadfruit</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/sariba">Sariba</a></td><td style="white-space: nowrap;"><i>ʔunuli</i></td>
+<td>PT</td><td><a href="../languages/suau">Suau</a></td><td style="white-space: nowrap;"><i>ʔunuli</i></td>
 <td>'<span>breadfruit</span>'</td>
 </tr>
 <tr>
@@ -2741,7 +2741,7 @@ A fourth term, PROc _&ast;maRi_ 'breadfruit', is limited to South Vanuatu, Micro
 <td>'<span>breadfruit</span>'</td>
 </tr>
 <tr>
-<td>TM</td><td><a href="../languages/natiigu">Natügu</a></td><td style="white-space: nowrap;"><i>bia</i></td>
+<td>TM</td><td><a href="../languages/natugu">Natügu</a></td><td style="white-space: nowrap;"><i>bia</i></td>
 <td>'<span>breadfruit</span>'</td>
 </tr>
 <tr>
@@ -2785,11 +2785,11 @@ A fourth term, PROc _&ast;maRi_ 'breadfruit', is limited to South Vanuatu, Micro
 <td>'<span>breadfruit</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>pareʔo</i></td>
+<td>SES</td><td><a href="../languages/areare">’Are’are</a></td><td style="white-space: nowrap;"><i>pareʔo</i></td>
 <td>'<span>breadfruit</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>pʷaleʔo</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa’a</a></td><td style="white-space: nowrap;"><i>pʷaleʔo</i></td>
 <td>'<span>breadfruit</span>'</td>
 </tr>
 <tr>
@@ -2923,7 +2923,7 @@ A fourth term, PROc _&ast;maRi_ 'breadfruit', is limited to South Vanuatu, Micro
 <td>'<span>breadfruit</span>' (<span>in compounds</span>)</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>mai</i></td>
+<td>Mic</td><td><a href="../languages/kiribati">Kiribati</a></td><td style="white-space: nowrap;"><i>mai</i></td>
 <td>'<span>breadfruit</span>'</td>
 </tr>
 <tr>
@@ -2939,7 +2939,7 @@ A fourth term, PROc _&ast;maRi_ 'breadfruit', is limited to South Vanuatu, Micro
 <td>'<span>breadfruit</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td style="white-space: nowrap;"><i>mǣy</i></td>
+<td>Mic</td><td><a href="../languages/chuukese">Chuukese</a></td><td style="white-space: nowrap;"><i>mǣy</i></td>
 <td>'<span>breadfruit</span>'</td>
 </tr>
 <tr>
@@ -3055,7 +3055,7 @@ There was apparently just one POc term for the sago palm, namely POc _&ast;Rabia
 <td>'<span>sago</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/poeng">Poeng</a></td><td style="white-space: nowrap;"><i>lamvia</i></td>
+<td>NNG</td><td><a href="../languages/mengen">Mengen</a></td><td style="white-space: nowrap;"><i>lamvia</i></td>
 <td>'<span>sago</span>'</td>
 </tr>
 <tr>
@@ -3083,7 +3083,7 @@ There was apparently just one POc term for the sago palm, namely POc _&ast;Rabia
 <td>'<span>sago</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/sariba">Sariba</a></td><td style="white-space: nowrap;"><i>labia</i></td>
+<td>PT</td><td><a href="../languages/saliba">Saliba</a></td><td style="white-space: nowrap;"><i>labia</i></td>
 <td>'<span>sago</span>'</td>
 </tr>
 <tr>
@@ -3104,7 +3104,7 @@ There was apparently just one POc term for the sago palm, namely POc _&ast;Rabia
 <td>'<span>sago</span>'</td>
 </tr>
 <tr>
-<td>TM</td><td><a href="../languages/asuboa">Asumboa</a></td><td style="white-space: nowrap;"><i>(lov)ne-te</i></td>
+<td>TM</td><td><a href="../languages/asuboa">Asuboa</a></td><td style="white-space: nowrap;"><i>(lov)ne-te</i></td>
 <td>'<span>sago</span>'</td>
 </tr>
 <tr>
@@ -3294,7 +3294,7 @@ The glosses of many of the terms listed below  refer simply to 'cycad' or '_Cyca
 <td>'<span>k.o. cycad; nut used in whirling toy</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>pai-pai</i></td>
+<td>SES</td><td><a href="../languages/areare">’Are’are</a></td><td style="white-space: nowrap;"><i>pai-pai</i></td>
 <td>'<span>k.o. cycad</span>'</td>
 </tr>
 </table>
@@ -3323,7 +3323,7 @@ The glosses of many of the terms listed below  refer simply to 'cycad' or '_Cyca
 <td>'<span><em>Cycas rumphii</em></span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/westuvean">West Uvean</a></td><td style="white-space: nowrap;"><i>loŋo-loŋo</i></td>
+<td>Pn</td><td><a href="../languages/westuvean">West Uvea</a></td><td style="white-space: nowrap;"><i>loŋo-loŋo</i></td>
 <td>'<span><em>Cycas rumphii</em></span>'</td>
 </tr>
 <tr>
@@ -3442,7 +3442,7 @@ Most of the forms below point to PEOc _&ast;mʷele_. However, Namakir and Wayan 
 <td>'<span><em>Cycas rumphii</em></span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td><a href="../languages/fwai">Fwai</a></td><td style="white-space: nowrap;"><i>ŋēn</i></td>
+<td>NCal</td><td><a href="../languages/fwai">Fwâi</a></td><td style="white-space: nowrap;"><i>ŋēn</i></td>
 <td>'<span><em>Cycas rumphii</em></span>'</td>
 </tr>
 <tr>

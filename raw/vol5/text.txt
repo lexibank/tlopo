@@ -5061,8 +5061,8 @@ Dempwolff (1938) reconstructed PMP _*batuk_ and glossed it as ‘skull’. Blust
 gloss, but with a comment that it is problematic, as the only non-Oceanic reflexes are:
 
 __formgroup__
-     wMP: Malay                   batok                 ‘husk and shell of coconut’
-     wMP: Javanese                batuk                 ‘forehead’
+     WMP: Malay                   batok                 ‘husk and shell of coconut’
+     WMP: Javanese                batuk                 ‘forehead’
      CMP : Tetun                  |ulu-n fatu(-k)|        ‘skull, bones of the head’
      CMP : Kisar                  |ulu waku-n|            ‘head’
 
@@ -5762,7 +5762,7 @@ POc *baba[R,l]i- ‘cheek’
   Fij: Bauan             baba-          ‘side of s.t.; cheekbone; side of canoe’
 cf. also:
    NNG: Manam            papaki-          ‘temple’
-Proto Central/Eastern Polynesian *papa-ariŋa ‘cheek’ (POLLEX) (PPn _*papa_ ‘flat hard surface’)
+PCEPn *papa-ariŋa ‘cheek’ (POLLEX) (PPn _*papa_ ‘flat hard surface’)
    Pn:  Maori            pāpāriŋa         ‘cheek’ (cf. _papa-āhuahua_ ‘shoulder blade’)
    Pn:  Tahitian         pāpāriʔa         ‘cheek’
    Pn:  Tuamotuan        pāpāriŋa         ‘cheek’
@@ -6495,7 +6495,7 @@ POc *kara-maya- ‘tongue’
 and has been borrowed into the Guadalcanal-Gelic subgroup of SE Solomonic.
 
 <
-Proto Meso-Melanesian *lap(e,i)- ‘tongue’
+PMM *lap(e,i)- ‘tongue’
  MM: Vitu               lave-                  ‘tongue’
  MM: Kia                lapi-                  ‘tongue’
  MM: Kokota             lapi-                  ‘tongue’
@@ -10287,10 +10287,10 @@ PSV *nə-taqi ‘excrement’ (Lynch)
                                                                         The human body 203
 
 
-   The following point to a Proto Meso-Melanesian variant:
+   The following point to a PMM variant:
 
 <
-Proto Meso-Melanesian *tak(e,i) ‘excrement’
+PMM *tak(e,i) ‘excrement’
  MM: Tabar               take                 ‘excrement’
  MM: Lihir               tek                  ‘excrement’
  MM: Tangga              tek-tek              ‘excrement’
@@ -11149,7 +11149,7 @@ cf. also:
 222 Malcolm Ross and Meredith Osmond
 
 
-  POc _*puta_ and Proto Meso-Melanesian _*pʷoda_ ‘be born’ are evidently irregular variants of
+  POc _*puta_ and PMM _*pʷoda_ ‘be born’ are evidently irregular variants of
 POc _*pusa(k)_ ‘be born’.
 
 <
@@ -11163,7 +11163,7 @@ cf. also:
 >
 
 <
-Proto Meso-Melanesian *pʷoda ‘(baby) be born’
+PMM *pʷoda ‘(baby) be born’
   MM: Bulu              poda              ‘(baby) be born’
   MM: Bola              poda              ‘(baby) be born’
   MM: Uruava            podo              ‘(baby) be born’
@@ -13317,17 +13317,17 @@ __formgroup__
   NCV: Nokuku               ʔolom-i             ‘swallow’
   NCV: Kiai                 kolom-i-            ‘swallow’
 
-    A large block of Meso-Melanesian forms appears to reflect a Proto Meso-Melanesian _*konom_, which itself
+    A large block of Meso-Melanesian forms appears to reflect a PMM _*konom_, which itself
 reflects nasalisation of _*-l-_ as _*-n-_ and acoustic reinterpretation of a _*tn-_ cluster as _*kn-_ (i.e.
 (2), then (3), above), followed by vowel insertion. Under ‘cf. also’ are listed MM terms for
-‘neck’ which appear to be derived from reflexes of Proto Meso-Melanesian _*konom_.
+‘neck’ which appear to be derived from reflexes of PMM _*konom_.
 
 <
 PMP *tilen ‘swallow’ (ACD)
 POc *tolo(m) (VI) ‘swallow’ (Lynch 2001d)
 POc *tolom-i- (VT) ‘swallow’ (Lynch 2001d)
-Proto Meso-Melanesian *konom (VI) ‘swallow’ (Lynch 2001d)
-Proto Meso-Melanesian *konom-i- (VT) ‘swallow’ (Lynch 2001d)
+PMM *konom (VI) ‘swallow’ (Lynch 2001d)
+PMM *konom-i- (VT) ‘swallow’ (Lynch 2001d)
  MM: Lavongai              konem              ‘swallow’
  MM: Lavongai              konomo             ‘throat’
  MM: Tigak                 kanam              ‘swallow’
@@ -13362,7 +13362,7 @@ cf. also:
 264 Malcolm Ross and Meredith Osmond
 
 
-    Forms reflecting the denasalisation of _*-n-_ in Proto Meso-Melanesian _*konom_ to produce _*kodom_ are also
+    Forms reflecting the denasalisation of _*-n-_ in PMM _*konom_ to produce _*kodom_ are also
 found in Meso-Melanesian languages. The fact that Tolai kodom (below) appears alongside
 closely related Minigir konomi and Tolai (Nodup dialect) konome indicates that denasalisation
 is a localised and sporadic phenomenon.
@@ -18248,7 +18248,7 @@ POc *lili, *talili ‘(be) dizzy’
 >
 
 <
-Proto Western Micronesian *mʷa-ali-ali ‘circle, circling, dizzy’ (Bender et al. 2003)
+PWMic *mʷa-ali-ali ‘circle, circling, dizzy’ (Bender et al. 2003)
   Mic: Ponapean          mʷa-aliɛl           ‘be dizzy’
   Mic: Mokilese          mʷe-elēl            ‘dizzy’
   Mic: Chuukese          mʷæ-æɾiyen          ‘dizziness, be dizzy’

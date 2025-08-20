@@ -422,7 +422,7 @@ The preposition _&ast;i_, which occurred before local nouns, is widely reflected
 <td>[PREP]  (<span>locative</span>)</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>i</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa’a</a></td><td style="white-space: nowrap;"><i>i</i></td>
 <td>[PREP]  (<span>locative</span>)</td>
 </tr>
 <tr>
@@ -1089,7 +1089,7 @@ The cognate set attesting POc _&ast;Rumaq_ ‘house’ was presented in [vol.1,4
 <td>[(ADV) ] '<span>at home</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/sariba">Sariba</a></td><td style="white-space: nowrap;"><i>numa</i></td>
+<td>PT</td><td><a href="../languages/saliba">Saliba</a></td><td style="white-space: nowrap;"><i>numa</i></td>
 <td>[N LOC] '<span>home</span>'</td>
 </tr>
 <tr>
@@ -1179,7 +1179,7 @@ POc _&ast;tanoq_ is reconstructed as a common noun meaning ‘earth, soil, groun
 <td>'<span>down</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/bolaharua">Bola (Harua)</a></td><td style="white-space: nowrap;"><i>tano</i></td>
+<td>MM</td><td><a href="../languages/harua">Harua</a></td><td style="white-space: nowrap;"><i>tano</i></td>
 <td>'<span>down there</span>'</td>
 </tr>
 <tr>
@@ -1321,7 +1321,7 @@ The items listed under ‘cf. also’ below reflect a Proto North Bougainville f
 <td>'<span>upwards</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>(i)eta</i></td>
+<td>Mic</td><td><a href="../languages/kiribati">Kiribati</a></td><td style="white-space: nowrap;"><i>(i)eta</i></td>
 <td>'<span>up, on high, above, top, upper, heavens</span>'</td>
 </tr>
 <tr>
@@ -1329,11 +1329,11 @@ The items listed under ‘cf. also’ below reflect a Proto North Bougainville f
 <td>'<span>upper, eastern</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td style="white-space: nowrap;"><i>ās</i></td>
+<td>Mic</td><td><a href="../languages/chuukese">Chuukese</a></td><td style="white-space: nowrap;"><i>ās</i></td>
 <td>'<span>upper part, top, summit, eastern side</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td style="white-space: nowrap;"><i>asa-</i></td>
+<td>Mic</td><td><a href="../languages/chuukese">Chuukese</a></td><td style="white-space: nowrap;"><i>asa-</i></td>
 <td>'<span>upper part</span>'</td>
 </tr>
 <tr>
@@ -1496,7 +1496,7 @@ It is less clear whether POc _&ast;laka_ ‘up above’ was a noun or a verb. In
 <td>'<span>(sun) rise</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/karaeast">Kara (East)</a></td><td style="white-space: nowrap;"><i>lak</i></td>
+<td>MM</td><td><a href="../languages/karaeast">East Kara</a></td><td style="white-space: nowrap;"><i>lak</i></td>
 <td>'<span>(sun) rise</span>'</td>
 </tr>
 <tr>
@@ -1573,7 +1573,7 @@ The forms listed below under ‘cf. also’ are similar in form to those listed 
 <td>'<span>space in middle</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/misim">Hote (Misim)</a></td><td style="white-space: nowrap;"><i>livuŋ</i></td>
+<td>NNG</td><td><a href="../languages/misim">Misim</a></td><td style="white-space: nowrap;"><i>livuŋ</i></td>
 <td>'<span>front</span>'</td>
 </tr>
 <tr>
@@ -1852,7 +1852,7 @@ In Polynesian languages reflexes of _&ast;lalo-_/_&ast;lalom_ denote the region 
 <td>'<span>inside, in</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/mamusi">Mamusi</a></td><td style="white-space: nowrap;"><i>lolo-</i></td>
+<td>NNG</td><td><a href="../languages/kakuna">Kakuna</a></td><td style="white-space: nowrap;"><i>lolo-</i></td>
 <td>'<span>inside</span>'</td>
 </tr>
 <tr>
@@ -1932,7 +1932,7 @@ In Polynesian languages reflexes of _&ast;lalo-_/_&ast;lalom_ denote the region 
 <td>'<span>inside, in</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>lalo</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa’a</a></td><td style="white-space: nowrap;"><i>lalo</i></td>
 <td>'<span>inside</span>'</td>
 </tr>
 <tr>
@@ -1964,11 +1964,11 @@ In Polynesian languages reflexes of _&ast;lalo-_/_&ast;lalom_ denote the region 
 <td>'<span>inside; heart, seat of feelings</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td><a href="../languages/tinrin">Tinrin</a></td><td style="white-space: nowrap;"><i>ñɯwɯ-</i></td>
+<td>NCal</td><td><a href="../languages/tiri">Tîrî</a></td><td style="white-space: nowrap;"><i>ñɯwɯ-</i></td>
 <td>'<span>inside</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>(i)nano-n</i></td>
+<td>Mic</td><td><a href="../languages/kiribati">Kiribati</a></td><td style="white-space: nowrap;"><i>(i)nano-n</i></td>
 <td>'<span>inside, in</span>'</td>
 </tr>
 <tr>
@@ -1988,7 +1988,7 @@ In Polynesian languages reflexes of _&ast;lalo-_/_&ast;lalom_ denote the region 
 <td>'<span>inside (it)</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td style="white-space: nowrap;"><i>ɾɾɔɾ</i></td>
+<td>Mic</td><td><a href="../languages/chuukese">Chuukese</a></td><td style="white-space: nowrap;"><i>ɾɾɔɾ</i></td>
 <td>'<span>inside of</span>'</td>
 </tr>
 <tr>
@@ -2054,7 +2054,7 @@ There is, of course, also a possibility that _&ast;lalo-_ has undergone haplolog
 <td>'<span>inside</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/poeng">Poeng</a></td><td style="white-space: nowrap;"><i>lo-</i></td>
+<td>NNG</td><td><a href="../languages/mengen">Mengen</a></td><td style="white-space: nowrap;"><i>lo-</i></td>
 <td>'<span>inside</span>'</td>
 </tr>
 <tr>
@@ -2110,7 +2110,7 @@ There is, of course, also a possibility that _&ast;lalo-_ has undergone haplolog
 <td>'<span>inside</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/karaeast">Kara (East)</a></td><td style="white-space: nowrap;"><i>la</i></td>
+<td>MM</td><td><a href="../languages/karaeast">East Kara</a></td><td style="white-space: nowrap;"><i>la</i></td>
 <td>'<span>inside</span>'</td>
 </tr>
 <tr>
@@ -2319,7 +2319,7 @@ No reflexes occur in Central Pacific languages. In Fijian, _&ast;papa-_, _&ast;p
 <td>'<span>underside</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/lukeppono">Lukep (Pono)</a></td><td style="white-space: nowrap;"><i>pa(rumu)</i></td>
+<td>NNG</td><td><a href="../languages/lukep">Lukep</a></td><td style="white-space: nowrap;"><i>pa(rumu)</i></td>
 <td>'<span>area under house</span>' (<span>&lt; POc <em>&ast;pak qi Rumaq</em> ‘underneath of house’</span>)</td>
 </tr>
 <tr>
@@ -2379,7 +2379,7 @@ No reflexes occur in Central Pacific languages. In Fijian, _&ast;papa-_, _&ast;p
 <td>'<span>underneath</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>ā-</i></td>
+<td>Mic</td><td><a href="../languages/kiribati">Kiribati</a></td><td style="white-space: nowrap;"><i>ā-</i></td>
 <td>'<span>underside, underneath, bottom</span>'</td>
 </tr>
 <tr>
@@ -2391,7 +2391,7 @@ No reflexes occur in Central Pacific languages. In Fijian, _&ast;papa-_, _&ast;p
 <td>'<span>underneath</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td style="white-space: nowrap;"><i>fā-</i></td>
+<td>Mic</td><td><a href="../languages/chuukese">Chuukese</a></td><td style="white-space: nowrap;"><i>fā-</i></td>
 <td>'<span>underneath</span>'</td>
 </tr>
 <tr>
@@ -2403,7 +2403,7 @@ No reflexes occur in Central Pacific languages. In Fijian, _&ast;papa-_, _&ast;p
 <td>'<span>underneath</span>'</td>
 </tr>
 <tr>
-<td><strong>Proto Meso-Melanesian</strong></td><td> </td>
+<td><strong>PMM</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;pake-</i>
 </td>
@@ -2418,7 +2418,7 @@ No reflexes occur in Central Pacific languages. In Fijian, _&ast;papa-_, _&ast;p
 <td>'<span>underside</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/karaeast">Kara (East)</a></td><td style="white-space: nowrap;"><i>pa-</i></td>
+<td>MM</td><td><a href="../languages/karaeast">East Kara</a></td><td style="white-space: nowrap;"><i>pa-</i></td>
 <td>'<span>underside; down there</span>'</td>
 </tr>
 <tr>
@@ -2650,7 +2650,7 @@ The second term, POc _&ast;gabʷari-_ meant ‘the area underneath a raised hous
 <td>'<span>base; bottom; reason</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/silisili">Silisili</a></td><td style="white-space: nowrap;"><i>fogo</i></td>
+<td>NNG</td><td><a href="../languages/middlewatut">Middle Watut</a></td><td style="white-space: nowrap;"><i>fogo</i></td>
 <td>'<span>origin</span>'</td>
 </tr>
 <tr>
@@ -2789,11 +2789,11 @@ The Kiribati (Mic) reflex of POc _&ast;papo[-]_ also has the meaning ‘outside�
 <td>'<span>top surface, space above</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>haho-</i></td>
+<td>SES</td><td><a href="../languages/areare">’Are’are</a></td><td style="white-space: nowrap;"><i>haho-</i></td>
 <td>'<span>topside</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>haho-</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa’a</a></td><td style="white-space: nowrap;"><i>haho-</i></td>
 <td>'<span>above</span>'</td>
 </tr>
 <tr>
@@ -2809,11 +2809,11 @@ The Kiribati (Mic) reflex of POc _&ast;papo[-]_ also has the meaning ‘outside�
 <td>'<span>outside</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>āo</i></td>
+<td>Mic</td><td><a href="../languages/kiribati">Kiribati</a></td><td style="white-space: nowrap;"><i>āo</i></td>
 <td>'<span>upper part of, surface, outside, back</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>(i)ao-</i></td>
+<td>Mic</td><td><a href="../languages/kiribati">Kiribati</a></td><td style="white-space: nowrap;"><i>(i)ao-</i></td>
 <td>'<span>on, on top</span>'</td>
 </tr>
 <tr>
@@ -2829,7 +2829,7 @@ The Kiribati (Mic) reflex of POc _&ast;papo[-]_ also has the meaning ‘outside�
 <td>'<span>on</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td style="white-space: nowrap;"><i>wɔ̄-ɾ</i></td>
+<td>Mic</td><td><a href="../languages/chuukese">Chuukese</a></td><td style="white-space: nowrap;"><i>wɔ̄-ɾ</i></td>
 <td>'<span>above, on it</span>'</td>
 </tr>
 <tr>
@@ -2954,7 +2954,7 @@ Given the tendency for body-part terms to be used by metaphorical extension as r
 <td>'<span>(tree) topmost branch</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>uru</i></td>
+<td>SES</td><td><a href="../languages/areare">’Are’are</a></td><td style="white-space: nowrap;"><i>uru</i></td>
 <td>'<span>cloud, heaven, sky, top</span>'</td>
 </tr>
 <tr>
@@ -3089,14 +3089,7 @@ cf. also:
 </tr>
 <tr>
 <td>NNG</td>
-<td><a href="../languages/maeng">Maeng</a></td>
-<td style="white-space: nowrap;"><i>vava-</i></td>
-<td>
-'<span>side</span>'</td>
-</tr>
-<tr>
-<td>NNG</td>
-<td><a href="../languages/poeng">Poeng</a></td>
+<td><a href="../languages/mengen">Mengen</a></td>
 <td style="white-space: nowrap;"><i>vava-</i></td>
 <td>
 '<span>side</span>'</td>
@@ -3389,7 +3382,7 @@ The terms in the set below could tempt us to reconstruct POc _&ast;luku-_ ‘sid
 </tr>
 <tr>
 <td>Mic</td>
-<td><a href="../languages/trukese">Trukese</a></td>
+<td><a href="../languages/chuukese">Chuukese</a></td>
 <td style="white-space: nowrap"><i>ɾɨkɨ</i></td>
 <td>
 '<span>exterior, outside, outside surface, outer edge, immediate environs</span>'</td>
@@ -3451,7 +3444,7 @@ According to [Blust](../sources/Blust1997) ([1997](../sources/Blust1997)), the P
 <td>'<span>in front</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>saro</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa’a</a></td><td style="white-space: nowrap;"><i>saro</i></td>
 <td>'<span>face, turn oneself</span>'</td>
 </tr>
 <tr>
@@ -3598,7 +3591,7 @@ As the glosses indicate, POc _&ast;muqa[-]_ had the temporal sense of ‘time be
 <td>'<span>front</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>moa</i></td>
+<td>Mic</td><td><a href="../languages/kiribati">Kiribati</a></td><td style="white-space: nowrap;"><i>moa</i></td>
 <td>'<span>front, fore part</span>'</td>
 </tr>
 <tr>
@@ -3622,7 +3615,7 @@ As the glosses indicate, POc _&ast;muqa[-]_ had the temporal sense of ‘time be
 <td>'<span>ahead of, in front of, before</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td style="white-space: nowrap;"><i>mʷ-mʷa-</i></td>
+<td>Mic</td><td><a href="../languages/chuukese">Chuukese</a></td><td style="white-space: nowrap;"><i>mʷ-mʷa-</i></td>
 <td>'<span>in front of, more than</span>'</td>
 </tr>
 <tr>
@@ -3683,7 +3676,7 @@ Although _&ast;muqa_ and _&ast;muga_ are formally similar, a historical relation
 <td>'<span>formerly</span>' (<span><em>-eai</em> POSTP</span>)</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/lukeppono">Lukep (Pono)</a></td><td style="white-space: nowrap;"><i>mugu</i></td>
+<td>NNG</td><td><a href="../languages/lukep">Lukep</a></td><td style="white-space: nowrap;"><i>mugu</i></td>
 <td>'<span>first of all, formerly</span>'</td>
 </tr>
 <tr>
@@ -3831,15 +3824,15 @@ The body-part terms whose reflexes are often used for ‘front’ are POc _&ast;
 <td>'<span>in front of</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>mā</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa’a</a></td><td style="white-space: nowrap;"><i>mā</i></td>
 <td>'<span>eye; front</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>(i)mā</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa’a</a></td><td style="white-space: nowrap;"><i>(i)mā</i></td>
 <td>'<span>outside</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td><a href="../languages/tinrin">Tinrin</a></td><td style="white-space: nowrap;"><i>(ɳā)mʷãɽã</i></td>
+<td>NCal</td><td><a href="../languages/tiri">Tîrî</a></td><td style="white-space: nowrap;"><i>(ɳā)mʷãɽã</i></td>
 <td>'<span>front</span>'</td>
 </tr>
 <tr>
@@ -3935,7 +3928,7 @@ The body-part terms whose reflexes are often used for ‘front’ are POc _&ast;
 <td>'<span>forehead; frontside</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/karawest">Kara (West)</a></td><td style="white-space: nowrap;"><i>no</i></td>
+<td>MM</td><td><a href="../languages/karawest">West Kara</a></td><td style="white-space: nowrap;"><i>no</i></td>
 <td>'<span>forehead</span>'</td>
 </tr>
 <tr>
@@ -3963,11 +3956,11 @@ The body-part terms whose reflexes are often used for ‘front’ are POc _&ast;
 <td>'<span>front</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>naʔo</i></td>
+<td>SES</td><td><a href="../languages/areare">’Are’are</a></td><td style="white-space: nowrap;"><i>naʔo</i></td>
 <td>'<span>front</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>naʔo</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa’a</a></td><td style="white-space: nowrap;"><i>naʔo</i></td>
 <td>'<span>front, before, face</span>'</td>
 </tr>
 <tr>
@@ -4335,15 +4328,15 @@ The semantic and formal similarity of the reflexes of POc _&ast;burit_ below to 
 <td>'<span>after, behind</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>puri-na</i></td>
+<td>SES</td><td><a href="../languages/areare">’Are’are</a></td><td style="white-space: nowrap;"><i>puri-na</i></td>
 <td>'<span>after</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>(i) puri</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa’a</a></td><td style="white-space: nowrap;"><i>(i) puri</i></td>
 <td>'<span>back of, behind; stern of a canoe</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>puri-na</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa’a</a></td><td style="white-space: nowrap;"><i>puri-na</i></td>
 <td>'<span>after, back, stern</span>'</td>
 </tr>
 </table>
@@ -4484,11 +4477,11 @@ One body-part term occurs with fair frequency with the sense of ‘back part of,
 <td>'<span>(s.o.’s) back; behind</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td><a href="../languages/tinrin">Tinrin</a></td><td style="white-space: nowrap;"><i>ʈɔɔ-</i></td>
+<td>NCal</td><td><a href="../languages/tiri">Tîrî</a></td><td style="white-space: nowrap;"><i>ʈɔɔ-</i></td>
 <td>'<span>(s.o.’s) back</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>akū-</i></td>
+<td>Mic</td><td><a href="../languages/kiribati">Kiribati</a></td><td style="white-space: nowrap;"><i>akū-</i></td>
 <td>'<span>back; behind</span>'</td>
 </tr>
 <tr>
@@ -4521,14 +4514,14 @@ cf. also:
 <table>
 <tr>
 <td>SES</td>
-<td><a href="../languages/areare">'Are'are</a></td>
+<td><a href="../languages/areare">’Are’are</a></td>
 <td style="white-space: nowrap;"><i>kokoru-</i></td>
 <td>
 '<span>(s.o.’s) back</span>'</td>
 </tr>
 <tr>
 <td>SES</td>
-<td><a href="../languages/saa">Sa'a</a></td>
+<td><a href="../languages/saa">Sa’a</a></td>
 <td style="white-space: nowrap;"><i>kokolu-</i></td>
 <td>
 '<span>(s.o.’s) back</span>'</td>
@@ -4592,7 +4585,7 @@ The interrogative local noun ‘where?’ was POc _&ast;pai_. Micronesian reflex
 <td>'<span>where?</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/karaeast">Kara (East)</a></td><td style="white-space: nowrap;"><i>fa</i></td>
+<td>MM</td><td><a href="../languages/karaeast">East Kara</a></td><td style="white-space: nowrap;"><i>fa</i></td>
 <td>'<span>where?</span>'</td>
 </tr>
 <tr>
@@ -4700,7 +4693,7 @@ The interrogative local noun ‘where?’ was POc _&ast;pai_. Micronesian reflex
 <td>'<span>where?</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td style="white-space: nowrap;"><i>(i)fa</i></td>
+<td>Mic</td><td><a href="../languages/chuukese">Chuukese</a></td><td style="white-space: nowrap;"><i>(i)fa</i></td>
 <td>'<span>where? how? what?</span>'</td>
 </tr>
 <tr>
@@ -4851,7 +4844,7 @@ Also found are forms which appear to reflect _&ast;pea_, _&ast;pia_ and, in Poly
 </tr>
 <tr>
 <td>NCV</td>
-<td><a href="../languages/mae">Mae</a></td>
+<td><a href="../languages/tirax">Tirax</a></td>
 <td style="white-space: nowrap"><i>fē</i></td>
 <td>
 '<span>where?</span>'</td>
@@ -5540,7 +5533,7 @@ The most widely reflected of these is _&ast;sipo_, the generic verb of downward 
 <td>'<span>go down</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>siho</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa’a</a></td><td style="white-space: nowrap;"><i>siho</i></td>
 <td>[DIR] '<span>downward</span>'</td>
 </tr>
 <tr>
@@ -5635,7 +5628,7 @@ The most widely reflected of these is _&ast;sipo_, the generic verb of downward 
 <td>'<span>go down</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/sariba">Sariba</a></td><td style="white-space: nowrap;"><i>dobi</i></td>
+<td>PT</td><td><a href="../languages/saliba">Saliba</a></td><td style="white-space: nowrap;"><i>dobi</i></td>
 <td>'<span>go down</span>'</td>
 </tr>
 <tr>
@@ -5809,11 +5802,11 @@ The forms listed below also seem to constitute a cognate set, but, as the questi
 <td>'<span>dive, (sun) set</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td><a href="../languages/nelemwa">Nêlêmwâ</a></td><td style="white-space: nowrap;"><i>du</i></td>
+<td>NCal</td><td><a href="../languages/nelemwa">Nêlêmwa</a></td><td style="white-space: nowrap;"><i>du</i></td>
 <td>[DIR] '<span>downward</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td><a href="../languages/nelemwa">Nêlêmwâ</a></td><td style="white-space: nowrap;"><i>tu</i></td>
+<td>NCal</td><td><a href="../languages/nelemwa">Nêlêmwa</a></td><td style="white-space: nowrap;"><i>tu</i></td>
 <td>'<span>go downward</span>'</td>
 </tr>
 <tr>
@@ -5886,7 +5879,7 @@ POc _&ast;wau_ ‘go seawards’ and _&ast;bala_ ‘move downward (?)’ are als
 <td>'<span>move across</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/nadroga">Nadroga</a></td><td style="white-space: nowrap;"><i>bale</i></td>
+<td>Fij</td><td><a href="../languages/nadroga">Nadrogā</a></td><td style="white-space: nowrap;"><i>bale</i></td>
 <td>[DIR] '<span>downward</span>'</td>
 </tr>
 </table>
@@ -5978,7 +5971,7 @@ The generic verb of upward movement was POc _&ast;sake_ ‘go upward, go southea
 <td>'<span>go upward</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/sariba">Sariba</a></td><td style="white-space: nowrap;"><i>-sae</i></td>
+<td>PT</td><td><a href="../languages/saliba">Saliba</a></td><td style="white-space: nowrap;"><i>-sae</i></td>
 <td>'<span>go upward, eastward</span>'</td>
 </tr>
 <tr>
@@ -6050,7 +6043,7 @@ The generic verb of upward movement was POc _&ast;sake_ ‘go upward, go southea
 <td>'<span>embark, rise</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>taʔe</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa’a</a></td><td style="white-space: nowrap;"><i>taʔe</i></td>
 <td>[DIR] '<span>up, inland</span>'</td>
 </tr>
 <tr>
@@ -6147,14 +6140,14 @@ Some or all of the forms below probably also reflect POc _&ast;sake_ ‘go upwar
 </tr>
 <tr>
 <td>NCal</td>
-<td><a href="../languages/nelemwa">Nêlêmwâ</a></td>
+<td><a href="../languages/nelemwa">Nêlêmwa</a></td>
 <td style="white-space: nowrap"><i>da</i></td>
 <td>
 [DIR] '<span>upward</span>'</td>
 </tr>
 <tr>
 <td>NCal</td>
-<td><a href="../languages/nelemwa">Nêlêmwâ</a></td>
+<td><a href="../languages/nelemwa">Nêlêmwa</a></td>
 <td style="white-space: nowrap"><i>(o-)da</i></td>
 <td>
 '<span>go upward</span>' (<span>o ‘go’</span>)</td>
@@ -6196,7 +6189,7 @@ Some or all of the forms below probably also reflect POc _&ast;sake_ ‘go upwar
 </tr>
 <tr>
 <td>NCal</td>
-<td><a href="../languages/tinrin">Tinrin</a></td>
+<td><a href="../languages/tiri">Tîrî</a></td>
 <td style="white-space: nowrap"><i>ɖa(-jɯ)</i></td>
 <td>
 '<span>go up</span>'</td>
@@ -6294,7 +6287,7 @@ Above I noted [François’](../sources/Francois2004a) ([2004a](../sources/Franc
 <td>[DIR] '<span>upward, southward, eastward</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>rake</i></td>
+<td>Mic</td><td><a href="../languages/kiribati">Kiribati</a></td><td style="white-space: nowrap;"><i>rake</i></td>
 <td>'<span>(sun) rise</span>'; [DIR] '<span>upward, eastward</span>'</td>
 </tr>
 <tr>
@@ -6513,7 +6506,7 @@ The meanings of the items listed below overlap substantially with reflexes of th
 <td>[ADV] '<span>upward, inland</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>rake</i></td>
+<td>Mic</td><td><a href="../languages/kiribati">Kiribati</a></td><td style="white-space: nowrap;"><i>rake</i></td>
 <td>'<span>up, above</span>'</td>
 </tr>
 <tr>
@@ -6749,7 +6742,7 @@ Also reconstructable is the POc form _&ast;ma_, reflected in WOc and CEOc langua
 <td>'<span>come</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/sariba">Sariba</a></td><td style="white-space: nowrap;"><i>ma</i></td>
+<td>PT</td><td><a href="../languages/saliba">Saliba</a></td><td style="white-space: nowrap;"><i>ma</i></td>
 <td>[DIR] '<span>hither</span>'</td>
 </tr>
 <tr>
@@ -6785,7 +6778,7 @@ Also reconstructable is the POc form _&ast;ma_, reflected in WOc and CEOc langua
 <td>[DIR] '<span>towards speaker</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/bolaharua">Bola (Harua)</a></td><td style="white-space: nowrap;"><i>mai</i></td>
+<td>MM</td><td><a href="../languages/harua">Harua</a></td><td style="white-space: nowrap;"><i>mai</i></td>
 <td>'<span>come from</span>'</td>
 </tr>
 <tr>
@@ -6893,11 +6886,11 @@ Also reconstructable is the POc form _&ast;ma_, reflected in WOc and CEOc langua
 <td>'<span>come</span>' (<span><em>han</em>, <em>apan</em> ‘go’</span>)</td>
 </tr>
 <tr>
-<td>NCal</td><td><a href="../languages/nelemwa">Nêlêmwâ</a></td><td style="white-space: nowrap;"><i>me</i></td>
+<td>NCal</td><td><a href="../languages/nelemwa">Nêlêmwa</a></td><td style="white-space: nowrap;"><i>me</i></td>
 <td>[DIR] '<span>towards speaker</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td><a href="../languages/nelemwa">Nêlêmwâ</a></td><td style="white-space: nowrap;"><i>ō-me</i></td>
+<td>NCal</td><td><a href="../languages/nelemwa">Nêlêmwa</a></td><td style="white-space: nowrap;"><i>ō-me</i></td>
 <td>'<span>come</span>' (<span>o ‘go’</span>)</td>
 </tr>
 <tr>
@@ -6917,11 +6910,11 @@ Also reconstructable is the POc form _&ast;ma_, reflected in WOc and CEOc langua
 <td>[DIR] '<span>towards speaker</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>mai</i></td>
+<td>Mic</td><td><a href="../languages/kiribati">Kiribati</a></td><td style="white-space: nowrap;"><i>mai</i></td>
 <td>'<span>come</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/nadroga">Nadroga</a></td><td style="white-space: nowrap;"><i>mā, mei</i></td>
+<td>Fij</td><td><a href="../languages/nadroga">Nadrogā</a></td><td style="white-space: nowrap;"><i>mā, mei</i></td>
 <td>[DIR] '<span>towards speaker</span>'</td>
 </tr>
 <tr>
@@ -7043,7 +7036,7 @@ One other POc morpheme with the same meanings as _&ast;mai_ may be reconstructab
 <td>'<span>come</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/tolainodup">Tolai–Nodup</a></td><td style="white-space: nowrap;"><i>(le)poti</i></td>
+<td>MM</td><td><a href="../languages/tolainodup">Tolai (Nodup)</a></td><td style="white-space: nowrap;"><i>(le)poti</i></td>
 <td>'<span>come</span>'</td>
 </tr>
 <tr>
@@ -7110,7 +7103,7 @@ Some of the reflexes of _&ast;ua_ can be confused with those of POc _&ast;pa_ an
 <td>[DIR] '<span>towards addressee</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/sariba">Sariba</a></td><td style="white-space: nowrap;"><i>-wa</i></td>
+<td>PT</td><td><a href="../languages/saliba">Saliba</a></td><td style="white-space: nowrap;"><i>-wa</i></td>
 <td>[DIR] '<span>thither</span>'</td>
 </tr>
 <tr>
@@ -7143,7 +7136,7 @@ Some of the reflexes of _&ast;ua_ can be confused with those of POc _&ast;pa_ an
 </td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/nadroga">Nadroga</a></td><td style="white-space: nowrap;"><i>wā</i></td>
+<td>Fij</td><td><a href="../languages/nadroga">Nadrogā</a></td><td style="white-space: nowrap;"><i>wā</i></td>
 <td>[DIR] '<span>thither</span>'</td>
 </tr>
 <tr>
@@ -7302,7 +7295,7 @@ Other reflexes of &ast;ua apparently occur as demonstratives in a number of lang
 <td> (<span>ADN; 3</span>)</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/sariba">Sariba</a></td><td style="white-space: nowrap;"><i>-wa</i></td>
+<td>PT</td><td><a href="../languages/saliba">Saliba</a></td><td style="white-space: nowrap;"><i>-wa</i></td>
 <td> (<span>ADN ENCL; anaphoric</span>)</td>
 </tr>
 <tr>
@@ -7401,7 +7394,7 @@ Irregular loss of initial _&ast;w-_ is reflected in New Caledonian and Central P
 <td>[DIR] '<span>thither</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>wau</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa’a</a></td><td style="white-space: nowrap;"><i>wau</i></td>
 <td>'<span>there</span>'</td>
 </tr>
 <tr>
@@ -7417,7 +7410,7 @@ Irregular loss of initial _&ast;w-_ is reflected in New Caledonian and Central P
 <td>[DIR] '<span>away from speaker</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>wati</i></td>
+<td>Mic</td><td><a href="../languages/kiribati">Kiribati</a></td><td style="white-space: nowrap;"><i>wati</i></td>
 <td>[DIR] '<span>away, hence</span>'</td>
 </tr>
 <tr>
@@ -7441,7 +7434,7 @@ Irregular loss of initial _&ast;w-_ is reflected in New Caledonian and Central P
 <td>[DIR] '<span>away from speaker towards addressee or elsewhere</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/nabukelevu">Nabukelevu</a></td><td style="white-space: nowrap;"><i>atu</i></td>
+<td>Fij</td><td><a href="../languages/kadavu">Kadavu</a></td><td style="white-space: nowrap;"><i>atu</i></td>
 <td>[DIR] '<span>outwards or away from speaker’s point of reference</span>'</td>
 </tr>
 <tr>
@@ -7551,7 +7544,7 @@ Just as POc _&ast;mai_ ‘come’ had a short form _&ast;ma_, so POc _&ast;lako_
 <td>[DIR] '<span>away from speaker and addressee</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/sariba">Sariba</a></td><td style="white-space: nowrap;"><i>lao</i></td>
+<td>PT</td><td><a href="../languages/saliba">Saliba</a></td><td style="white-space: nowrap;"><i>lao</i></td>
 <td>'<span>go across</span>'</td>
 </tr>
 <tr>
@@ -7591,7 +7584,7 @@ Just as POc _&ast;mai_ ‘come’ had a short form _&ast;ma_, so POc _&ast;lako_
 <td>'<span>go away from speaker and addressee</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/zabana">Zabana</a></td><td style="white-space: nowrap;"><i>lao</i></td>
+<td>MM</td><td><a href="../languages/kia">Kia</a></td><td style="white-space: nowrap;"><i>lao</i></td>
 <td>'<span>go</span>'</td>
 </tr>
 <tr>
@@ -7623,7 +7616,7 @@ Just as POc _&ast;mai_ ‘come’ had a short form _&ast;ma_, so POc _&ast;lako_
 <td>[DIR] '<span>away from speaker</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>nako</i></td>
+<td>Mic</td><td><a href="../languages/kiribati">Kiribati</a></td><td style="white-space: nowrap;"><i>nako</i></td>
 <td>'<span>go</span>'</td>
 </tr>
 <tr>
@@ -7759,7 +7752,7 @@ As noted in [§3.3](../contributions/2-8#s-3-3), some reflexes of POc _&ast;pano
 <td>'<span>go (away)</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/bolaharua">Bola (Harua)</a></td><td style="white-space: nowrap;"><i>mano</i></td>
+<td>MM</td><td><a href="../languages/harua">Harua</a></td><td style="white-space: nowrap;"><i>mano</i></td>
 <td>'<span>go away</span>' (<span>see text below</span>)</td>
 </tr>
 <tr>
@@ -7819,11 +7812,11 @@ As noted in [§3.3](../contributions/2-8#s-3-3), some reflexes of POc _&ast;pano
 <td>'<span>go</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td><a href="../languages/nelemwa">Nêlêmwâ</a></td><td style="white-space: nowrap;"><i>ve</i></td>
+<td>NCal</td><td><a href="../languages/nelemwa">Nêlêmwa</a></td><td style="white-space: nowrap;"><i>ve</i></td>
 <td>[DIR] '<span>in a transverse direction</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td><a href="../languages/nelemwa">Nêlêmwâ</a></td><td style="white-space: nowrap;"><i>o</i></td>
+<td>NCal</td><td><a href="../languages/nelemwa">Nêlêmwa</a></td><td style="white-space: nowrap;"><i>o</i></td>
 <td>'<span>go</span>'</td>
 </tr>
 <tr>
@@ -7843,7 +7836,7 @@ As noted in [§3.3](../contributions/2-8#s-3-3), some reflexes of POc _&ast;pano
 <td>'<span>go</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td><a href="../languages/tinrin">Tinrin</a></td><td style="white-space: nowrap;"><i>(ã)va</i></td>
+<td>NCal</td><td><a href="../languages/tiri">Tîrî</a></td><td style="white-space: nowrap;"><i>(ã)va</i></td>
 <td>'<span>there, the other side of stream</span>'</td>
 </tr>
 <tr>
@@ -7863,7 +7856,7 @@ As noted in [§3.3](../contributions/2-8#s-3-3), some reflexes of POc _&ast;pano
 <td>'<span>(of time) be gone, past; perish</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/nanumean">Nanumean</a></td><td style="white-space: nowrap;"><i>fano</i></td>
+<td>Pn</td><td><a href="../languages/nanumean">Nanumea</a></td><td style="white-space: nowrap;"><i>fano</i></td>
 <td>'<span>go</span>'</td>
 </tr>
 <tr>
@@ -7894,7 +7887,7 @@ POc _&ast;pano_ evidently had a short form _&ast;pa_, giving a pair analogous to
 <td>'<span>go away; move in a transverse direction</span>'; [V AUX] '<span>go and …</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/lukeppono">Lukep (Pono)</a></td><td style="white-space: nowrap;"><i>pa</i></td>
+<td>NNG</td><td><a href="../languages/lukep">Lukep</a></td><td style="white-space: nowrap;"><i>pa</i></td>
 <td>'<span>go</span>'</td>
 </tr>
 <tr>

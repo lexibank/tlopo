@@ -516,14 +516,14 @@ A term denoting all plants is not reconstructable for POc. A number of modern Oc
 </tr>
 <tr>
 <td>NNG</td>
-<td><a href="../languages/poeng">Poeng</a></td>
+<td><a href="../languages/mengen">Mengen</a></td>
 <td style="white-space: nowrap"><i>kinkiniŋ</i></td>
 <td>
 '<span>(all) growing things; grass, tree</span>'</td>
 </tr>
 <tr>
 <td>NNG</td>
-<td><a href="../languages/sissanoarop">Sissano-Arop</a></td>
+<td><a href="../languages/sissanoarop">Sissano (Arop)</a></td>
 <td style="white-space: nowrap"><i>oraman</i></td>
 <td>
 '<span>plants (generic)</span>'</td>
@@ -551,7 +551,7 @@ A term denoting all plants is not reconstructable for POc. A number of modern Oc
 </tr>
 <tr>
 <td>Mic</td>
-<td><a href="../languages/trukese">Trukese</a></td>
+<td><a href="../languages/chuukese">Chuukese</a></td>
 <td style="white-space: nowrap"><i>pətəwər</i></td>
 <td>
 '<span>plant (general term), vegetation (uncultivated); tree, bush, shrub, fern, grass</span>'</td>
@@ -572,11 +572,11 @@ A Proto Micronesian form _&ast;fadoka_ 'planted thing, cultivated plants' is rec
 <td>'<span>planted thing, cultivated plants</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>aroka</i></td>
+<td>Mic</td><td><a href="../languages/kiribati">Kiribati</a></td><td style="white-space: nowrap;"><i>aroka</i></td>
 <td>'<span>planted thing, cultivated plants</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td style="white-space: nowrap;"><i>fɔtā-</i></td>
+<td>Mic</td><td><a href="../languages/chuukese">Chuukese</a></td><td style="white-space: nowrap;"><i>fɔtā-</i></td>
 <td> (<span>from <em>fɔto-</em> 'planting' and a noun-forming suffix</span>)</td>
 </tr>
 <tr>
@@ -612,7 +612,7 @@ A Proto Micronesian form _&ast;fadoka_ 'planted thing, cultivated plants' is rec
 <td>'<span>to work at planting, to set in the ground (vT)</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td style="white-space: nowrap;"><i>jɔtuki</i></td>
+<td>Mic</td><td><a href="../languages/chuukese">Chuukese</a></td><td style="white-space: nowrap;"><i>jɔtuki</i></td>
 <td>'<span>to plant (s.t.)</span>'</td>
 </tr>
 <tr>
@@ -662,7 +662,7 @@ The most stable primary taxon label, in that it is reflected most widely amongst
 <td>'<span>firewood</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/lukeppono">Lukep (Pono)</a></td><td style="white-space: nowrap;"><i>kai</i></td>
+<td>NNG</td><td><a href="../languages/lukep">Lukep</a></td><td style="white-space: nowrap;"><i>kai</i></td>
 <td>'<span>tree, wood</span>'</td>
 </tr>
 <tr>
@@ -682,7 +682,7 @@ The most stable primary taxon label, in that it is reflected most widely amongst
 <td>'<span>tree, stick</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/sissanoarop">Sissano-Arop</a></td><td style="white-space: nowrap;"><i>ai</i></td>
+<td>NNG</td><td><a href="../languages/sissanoarop">Sissano (Arop)</a></td><td style="white-space: nowrap;"><i>ai</i></td>
 <td>'<span>tree, stick, wood</span>'</td>
 </tr>
 <tr>
@@ -750,11 +750,11 @@ The most stable primary taxon label, in that it is reflected most widely amongst
 <td>'<span>wood, tree (general term)</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>kai</i></td>
+<td>Mic</td><td><a href="../languages/kiribati">Kiribati</a></td><td style="white-space: nowrap;"><i>kai</i></td>
 <td>'<span>wood (in general), tree, plant, stick</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td style="white-space: nowrap;"><i>eyi-</i></td>
+<td>Mic</td><td><a href="../languages/chuukese">Chuukese</a></td><td style="white-space: nowrap;"><i>eyi-</i></td>
 <td>'<span>stick, tree, pole</span>' (<span>only used in compounds</span>)</td>
 </tr>
 <tr>
@@ -947,11 +947,11 @@ The final consonant of the POc form is reconstructed as _&ast;c_ rather than _&a
 <td>'<span>vine, string, rope</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>waro</i></td>
+<td>SES</td><td><a href="../languages/areare">’Are’are</a></td><td style="white-space: nowrap;"><i>waro</i></td>
 <td>'<span>a liana, string, rope</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>walo</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa’a</a></td><td style="white-space: nowrap;"><i>walo</i></td>
 <td>'<span>a creeper, rope, string, line, vine</span>'</td>
 </tr>
 <tr>
@@ -1015,7 +1015,7 @@ POc _&ast;pali[s,j]i_ appears to have been the generic for plants lacking a main
 <td>'<span>grass</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/poeng">Poeng</a></td><td style="white-space: nowrap;"><i>paili</i></td>
+<td>NNG</td><td><a href="../languages/mengen">Mengen</a></td><td style="white-space: nowrap;"><i>paili</i></td>
 <td>'<span>grass</span>'</td>
 </tr>
 <tr>
@@ -1039,11 +1039,11 @@ POc _&ast;pali[s,j]i_ appears to have been the generic for plants lacking a main
 <td>'<span>grassy undergrowth (generic); yam harvest</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>harisi</i></td>
+<td>SES</td><td><a href="../languages/areare">’Are’are</a></td><td style="white-space: nowrap;"><i>harisi</i></td>
 <td>'<span>grass, small clover</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>ha-halisi</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa’a</a></td><td style="white-space: nowrap;"><i>ha-halisi</i></td>
 <td>'<span>grass</span>'</td>
 </tr>
 <tr>
@@ -1079,7 +1079,7 @@ POc _&ast;pali[s,j]i_ appears to have been the generic for plants lacking a main
 <td>'<span>a kind of grass</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td style="white-space: nowrap;"><i>fetiɾi</i></td>
+<td>Mic</td><td><a href="../languages/chuukese">Chuukese</a></td><td style="white-space: nowrap;"><i>fetiɾi</i></td>
 <td>'<span>grass</span>'</td>
 </tr>
 <tr>
@@ -1186,11 +1186,11 @@ Evidence from non-Oceanic languages suggests that _&ast;lumut_ may have been the
 <td>'<span>moss, lichen growth on ship's keel</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>rumu</i></td>
+<td>SES</td><td><a href="../languages/areare">’Are’are</a></td><td style="white-space: nowrap;"><i>rumu</i></td>
 <td>'<span>seaweed, moss on trees, used in ceremonial purification</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>lumu(te)</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa’a</a></td><td style="white-space: nowrap;"><i>lumu(te)</i></td>
 <td>'<span>moss</span>'</td>
 </tr>
 <tr>
@@ -1238,7 +1238,7 @@ Evidence from non-Oceanic languages suggests that _&ast;lumut_ may have been the
 <td>'<span>moss; seaweed variety that grows luxuriantly on rocks and sunken vessels and that breaks off and washes onto shore</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td style="white-space: nowrap;"><i>ɾūmʷ</i></td>
+<td>Mic</td><td><a href="../languages/chuukese">Chuukese</a></td><td style="white-space: nowrap;"><i>ɾūmʷ</i></td>
 <td>'<span>seaweed, moss; sea algae, scum</span>'</td>
 </tr>
 <tr>
@@ -1271,7 +1271,7 @@ Evidence from non-Oceanic languages suggests that _&ast;lumut_ may have been the
 <td>'<span>seaweed, slime; blue</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/karaeast">Kara (East)</a></td><td style="white-space: nowrap;"><i>limut</i></td>
+<td>MM</td><td><a href="../languages/karaeast">East Kara</a></td><td style="white-space: nowrap;"><i>limut</i></td>
 <td>'<span>tree moss</span>'</td>
 </tr>
 <tr>
@@ -1347,7 +1347,7 @@ In a number of modern Oceanic languages the life-form term for mushrooms and oth
 </td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/poeng">Poeng</a></td><td style="white-space: nowrap;"><i>taliŋ</i></td>
+<td>NNG</td><td><a href="../languages/mengen">Mengen</a></td><td style="white-space: nowrap;"><i>taliŋ</i></td>
 <td>'<span>mushroom</span>'</td>
 </tr>
 <tr>
@@ -1359,7 +1359,7 @@ In a number of modern Oceanic languages the life-form term for mushrooms and oth
 <td>'<span>mushroom</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/sissanoarop">Sissano-Arop</a></td><td style="white-space: nowrap;"><i>tɛlin</i></td>
+<td>NNG</td><td><a href="../languages/sissanoarop">Sissano (Arop)</a></td><td style="white-space: nowrap;"><i>tɛlin</i></td>
 <td>'<span>mushrooms, edible</span>'</td>
 </tr>
 <tr>
@@ -1379,7 +1379,7 @@ In a number of modern Oceanic languages the life-form term for mushrooms and oth
 <td>'<span>mushroom</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>ʔäliŋe</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa’a</a></td><td style="white-space: nowrap;"><i>ʔäliŋe</i></td>
 <td>'<span>mushroom, large fungus</span>'</td>
 </tr>
 <tr>
@@ -1403,7 +1403,7 @@ In a number of modern Oceanic languages the life-form term for mushrooms and oth
 <td>'<span>kind of edible mushroom</span>' (<span>cf. <em>numu</em> 'fish, marine creature'</span>)</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>taniŋaniba</i></td>
+<td>Mic</td><td><a href="../languages/kiribati">Kiribati</a></td><td style="white-space: nowrap;"><i>taniŋaniba</i></td>
 <td>'<span>mushroom-like fungus growing on tree trunks. Myxomycetes: slime fungus</span>'</td>
 </tr>
 <tr>
@@ -1569,7 +1569,7 @@ A number of modern Oceanic languages have a category of plants that is glossed a
 </tr>
 <tr>
 <td>NNG</td>
-<td><a href="../languages/poeng">Poeng</a></td>
+<td><a href="../languages/mengen">Mengen</a></td>
 <td style="white-space: nowrap"><i>kilanna</i></td>
 <td>
 '<span>weed; growing in old garden spot</span>'</td>
@@ -1674,7 +1674,7 @@ A number of modern Oceanic languages have a category of plants that is glossed a
 </tr>
 <tr>
 <td>Mic</td>
-<td><a href="../languages/trukese">Trukese</a></td>
+<td><a href="../languages/chuukese">Chuukese</a></td>
 <td style="white-space: nowrap"><i>wəɾɨŋŋaw</i></td>
 <td>
 '<span>useless plant, weed</span>' (<span>cf. <em>wəɾɨ</em> 'bush, vegetation generally', <em>ŋŋaw</em> 'bad, ugly, unfitting, unsuitable'</span>)</td>

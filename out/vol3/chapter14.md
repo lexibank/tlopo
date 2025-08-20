@@ -97,7 +97,7 @@ If a POc plant name has cognates in eastern Indonesia, especially in EMP languag
 | _&ast;kiRe_              | 'coastal _Pandanus_ sp., probably _Pandanus tectorius_'                                                                         |
 | _&ast;kulapu(R)_         | '_Dillenia schlechteri_'                                                                                                        |
 | _&ast;kuluR_             | 'breadfruit, _Artocarpus altilis_'                                                                                              |
-| _&ast;laqia_             | 'ginger, _Zingiber_ officinale (?)'                                                                                             |
+| _&ast;laqia_             | 'ginger, _Zingiber officinale_ (?)'                                                                                             |
 | ___&ast;(m,mʷ)aso(q)u___ | 'wild cinnamon, _Cinnamomum_ sp., probably _Cinnamomum xanthoneuron_; possibly also _Cananga odorata_'                          |
 | _&ast;malo_              | 'paper mulberry, _Broussonetia papyrifera_; barkcloth, loincloth'                                                               |
 | _&ast;naRa_              | '_Pterocarpus indicus_'                                                                                                         |
@@ -111,7 +111,7 @@ If a POc plant name has cognates in eastern Indonesia, especially in EMP languag
 | _&ast;padran_            | 'coastal pandanus, _Pandanus tectorius_; pandanus (generic)'                                                                    |
 | _&ast;pali[s,j]i_        | 'generic term for grasses and other grass-like plants'                                                                          |
 | _&ast;(p,b)anaRo_        | '_Thespesia populnea_'                                                                                                          |
-| _&ast;para(k)_           | '_Zingiber_aceae spp. with edible rhizomes'                                                                                     |
+| _&ast;para(k)_           | 'Zingiberaceae spp. with edible rhizomes'                                                                                       |
 | _&ast;paRu_              | '_Hibiscus tiliaceus_'                                                                                                          |
 | _&ast;pila(q)u_          | '_Casuarina equisetifolia_'                                                                                                     |
 | _&ast;pinu(q)an_         | '_Macaranga_ spp., perhaps _Macaranga involucrata_'                                                                             |

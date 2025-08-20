@@ -3474,7 +3474,7 @@ POc *d(r)ag(i) (?) 'k.o. container' (?)
 Blust has reconstructed a term for a coconut-shell bottle:
 
 <
-Proto South Halmahera/West New Guinea *waip 'water container' (ACD)
+PSHWNG *waip 'water container' (ACD)
 POc *wai(p) 'coconut shell water bottle'
   SES: Arosi           wai
   Fij: Rotuman         vai              'cask'

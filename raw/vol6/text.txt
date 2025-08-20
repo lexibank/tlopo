@@ -15040,7 +15040,6 @@ __blockquote__
 : __Table 11.11__ Maenge month names
 
 __formgroup__
-   Month name            Gloss                    Notes
  NNG: Maenge |vega pana| ‘month 01’; ‘between two flowering periods’ (This period corresponds to no flowering time, but bridges the gap between the previous ‘month’ and the following one. Its duration is variable—15 to 30 days—depending on the length of the previous and next months. Felled bush trees are burnt in the new collective gardens. Festivals happen.) (Panoff 1969)
  NNG: Maenge |tolova e volau| ‘month 02’; ‘Evodia elleryana (_volau_) flowers’ (The second driest month of the year. The best varieties of taro are planted in the new collective gardens. The last festivals of the cycle take place.) (Panoff 1969)
  NNG: Maenge |tolova e sina| ‘month 03’; ‘the sina flowers’ (The sina is an unidentified tree which differs from the _volau_ in the size of its leaves. The driest month of the year. There may be food shortage as a result of both drought and the huge consumption of taro through the previous months. Pig fences are erected around the collective gardens.) (Panoff 1969)
@@ -15052,8 +15051,8 @@ __formgroup__
  NNG: Maenge |kereŋe kau soali| ‘month 08’  (Panoff 1969)
  NNG: Maenge |kerenge manaŋana|   ‘month 09’; ‘_Pterocarpus indicus_ is flowering’ (The rains decline, and the sky is less cloudy. Yams cease to prevail in the Maenge diet. Travel from village to village is resumed.) (Panoff 1969)
  NNG: Maenge ulasi     ‘month 10’; ‘a small fish, the bluestripe squirrelfish (_Sargocentron_ tiere)’ (A transitional month between _vinte_ and _kaepâ_ (wet and dry). Squirrelfish swarm in shallow waters near the beach.) (Panoff 1969)
- NNG: Maenge |paugala ka siana|  ‘month 11’; ‘Albizzia falcata is pregnant’ (The Albizzia is budding. It is the first month which definitely belongs to _kaepâ_ (the dry season). Preparations for the great festivals of the dry season are well under way.) (Panoff 1969)
- NNG: Maenge |paugala enga valipola|  ‘month 12’; ‘the flowers of Albizzia falcata burst’ (The southern solstice approaches and the rains are getting very scarce. The palolo make their appearance on the surface of shallow waters for one or two nights and are skimmed off as delicacies by the inhabitants of Malakuru and Pomio. Many villages start their festivals. Usually large sections of bush are cleared for preparing the collective gardens, the harvest of which is designed for the following year's festivals.) (Panoff 1969)
+ NNG: Maenge |paugala ka siana|  ‘month 11’; ‘_Albizia falcata_ is pregnant’ (The _Albizia_ is budding. It is the first month which definitely belongs to _kaepâ_ (the dry season). Preparations for the great festivals of the dry season are well under way.) (Panoff 1969)
+ NNG: Maenge |paugala enga valipola|  ‘month 12’; ‘the flowers of _Albizia falcata_ burst’ (The southern solstice approaches and the rains are getting very scarce. The palolo make their appearance on the surface of shallow waters for one or two nights and are skimmed off as delicacies by the inhabitants of Malakuru and Pomio. Many villages start their festivals. Usually large sections of bush are cleared for preparing the collective gardens, the harvest of which is designed for the following year's festivals.) (Panoff 1969)
 
 
 [18] Panoff's notes are lightly abbreviated. He glosses _ulasi_ as ‘small unidentified fish’, but

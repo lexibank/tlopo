@@ -119,11 +119,11 @@ PWOc _&ast;baul_ perhaps denoted _Rhizophora_: its Tolai reflex, _baul_ 'mangrov
 <td>'<span>mangrove</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/suaudaui">Suau (Daui)</a></td><td style="white-space: nowrap;"><i>pauli</i></td>
+<td>PT</td><td><a href="../languages/suau">Suau</a></td><td style="white-space: nowrap;"><i>pauli</i></td>
 <td>'<span>mangrove</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/sariba">Sariba</a></td><td style="white-space: nowrap;"><i>pauli</i></td>
+<td>PT</td><td><a href="../languages/saliba">Saliba</a></td><td style="white-space: nowrap;"><i>pauli</i></td>
 <td>'<span>mangrove (generic)</span>'</td>
 </tr>
 <tr>
@@ -265,11 +265,11 @@ POc _&ast;toŋoR_ was fairly clearly the generic term for mangroves. It also see
 <td>'<span>a mangrove</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>oŋo</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa’a</a></td><td style="white-space: nowrap;"><i>oŋo</i></td>
 <td>'<span>mangrove</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>ono</i></td>
+<td>SES</td><td><a href="../languages/areare">’Are’are</a></td><td style="white-space: nowrap;"><i>ono</i></td>
 <td>'<span>mangrove</span>'</td>
 </tr>
 <tr>
@@ -333,11 +333,11 @@ POc _&ast;toŋoR_ was fairly clearly the generic term for mangroves. It also see
 <td>'<span>mangrove</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td><a href="../languages/nelemwa">Nêlêmwâ</a></td><td style="white-space: nowrap;"><i>kan</i></td>
+<td>NCal</td><td><a href="../languages/nelemwa">Nêlêmwa</a></td><td style="white-space: nowrap;"><i>kan</i></td>
 <td>'<span><em>Bruguiera gymnorrhiza</em></span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>toŋo</i></td>
+<td>Mic</td><td><a href="../languages/kiribati">Kiribati</a></td><td style="white-space: nowrap;"><i>toŋo</i></td>
 <td>'<span>mangrove (generic); <em>Bruguiera gymnorrhiza</em> and <em>Rhizophora mucronata</em></span>'</td>
 </tr>
 <tr>
@@ -377,7 +377,7 @@ POc _&ast;toŋoR_ was fairly clearly the generic term for mangroves. It also see
 </td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/mangareva">Mangareva</a></td><td style="white-space: nowrap;"><i>toŋo-toŋo</i></td>
+<td>Pn</td><td><a href="../languages/mangareva">Mangarevan</a></td><td style="white-space: nowrap;"><i>toŋo-toŋo</i></td>
 <td>'<span>mangrove</span>'</td>
 </tr>
 </table>
@@ -438,7 +438,7 @@ The initial rounded bilabial of POc _&ast;(p,pʷ)awa(t)_ is reconstructed on the
 <td>'<span><em>Cerbera floribunda</em></span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/karaeast">Kara (East)</a></td><td style="white-space: nowrap;"><i>vəu(kip)</i></td>
+<td>MM</td><td><a href="../languages/karaeast">East Kara</a></td><td style="white-space: nowrap;"><i>vəu(kip)</i></td>
 <td>'<span><em>Cerbera manghas</em></span>'</td>
 </tr>
 <tr>
@@ -805,7 +805,7 @@ Final POc _&ast;-q_ of _&ast;nipaq_ is attested by the presence of paragogic _-i
 </td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/sariba">Sariba</a></td><td style="white-space: nowrap;"><i>lihai</i></td>
+<td>PT</td><td><a href="../languages/saliba">Saliba</a></td><td style="white-space: nowrap;"><i>lihai</i></td>
 <td> (<span><em>l-</em> for <em>&ast;n-</em> unexpected</span>)</td>
 </tr>
 <tr>

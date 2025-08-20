@@ -1,0 +1,40 @@
+In the tree are listed in putative language groups all the Oceanic languages and dialects (and
+occasionally larger isogloss-defined regions, e.g. Western Viti Levu) that are referred to in
+this work. This list is for quick reference only: the listing in language groups sometimes
+does rough justice to complexities that the sources describe, so the list should not be treated
+as authoritative.
+
+    The higher-order groups are those described in §1.3.3. Lower-order groups were
+originally drawn from the classification in Lynch et al. (2002:877–890), but have been
+considerably revised on the basis of Blust (2021) on the Admiralties; Ross (2018) on
+Western Oceanic; Holzknecht (1989) on the Markham; Ross (1997) on Central Papuan;
+Pawley (2011c) on Guadalcanal-Nggelic; Lichtenberk (2010) on Malaita-Makira; Lackey & Boerger (2021)
+on Temotu; Lynch (1999, 2000) on Southern Oceanic; Clark (1985), Lynch & Crowley (2001),
+Tryon (2010) and François et al. (2015) on Vanuatu; François (n.d.)[1] on
+the Torres and Banks Islands; Lynch (2016a) on Malakula; Bender et al. (2003) on
+Micronesian; Geraghty (1983) on Central Pacific and Fijian; and Pawley (1966) and
+Wilson (2014, 2018) on Polynesian.
+
+    Putative linkages (§1.4.3.2) are labelled ‘linkage’. Other groupings (§1.4.3.3) are left
+unlabelled.
+
+[1] Our thanks to Alexandre François, who kindly prepared this Torres-Banks phylogeny for us.
+
+## Espiritu Santo and Malakula
+
+The sources listed above almost all subgroup the languages of their area on the basis of the
+comparative method. An exception is the island of Espiritu Santo in Vanuatu. There is broad
+agreement on Vanuatu subgrouping, other than for the languages of the larger islands of
+Espiritu Santo and Malakula, where there are disagreements between sources. But most
+sources for Santo offer at most regional groupings, with no evidence of genealogical status.
+Only Clark (1985) attempts to apply the comparative method to the subgrouping of
+Vanuatu’s languages, on the basis of the limited data available at the time. His grouping of
+the languages of Espiritu Santo is used here, with one exception. Clark places Araki in a
+group with Tangoa, Kiai and Akei, but more recent data collection and analysis by François (2002)
+places it with the other islands off the south coast of Espiritu Santo. We rely on
+François et al. (2015) for Vanuatu language names.
+
+   Malakula is probably the linguistically most complex island in Vanuatu, with apparently
+several linkages that it is difficult (and perhaps unwarranted) to tease apart. Here we follow
+Lynch (2016), because it is the most recent source, and one that carefully employs the
+comparative method. Lynch himself, however, is tentative about his subgrouping.

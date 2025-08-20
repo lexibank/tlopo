@@ -8955,7 +8955,7 @@ PWOc *bio ‘k.o. mollusc or pearl shell’
       The following cognate set appears to be restricted to Meso-Melanesian.
 
 <
-Proto Meso-Melanesian *game ‘k.o. mollusc’
+PMM *game ‘k.o. mollusc’
   MM:  Vitu          game           ‘k.o. shellfish: _Trochus niloticus_’
   MM:  Tabar         gam            ‘a shellfish’ (possibly from Tok Pisin _gam_ ‘baler shell, large cowry shells’)
   MM:  Tangga        gem            ‘a bivalve, possibly a small Toigans’
@@ -12047,7 +12047,7 @@ The fact that _rokrok_ is also Tok Pisin for ‘frog’, from Tolai, makes this 
 However, a portion of Tok Pisin vocabulary has its origins in southern New Ireland languages.
 
 <
-Proto Meso-Melanesian (?) *rokrok ‘bullfrog’
+PMM (?) *rokrok ‘bullfrog’
   MM:   Vitu            rok-rok          ‘frog’
   MM:   Sursurunga      rok-rok          ‘frog, incl. marine toad’
   MM:   Patpatar        rok-rok          ‘k.o. frog that stays on ground’

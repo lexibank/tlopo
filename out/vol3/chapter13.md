@@ -61,7 +61,7 @@ The POc term &ast;topu 'sugarcane, _Saccharum officinarum_' continues PAn &ast;t
 <td>'<span>sugarcane</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/poeng">Poeng</a></td><td style="white-space: nowrap;"><i>tau</i></td>
+<td>NNG</td><td><a href="../languages/mengen">Mengen</a></td><td style="white-space: nowrap;"><i>tau</i></td>
 <td>'<span>sugarcane</span>'</td>
 </tr>
 <tr>
@@ -69,7 +69,7 @@ The POc term &ast;topu 'sugarcane, _Saccharum officinarum_' continues PAn &ast;t
 <td>'<span>sugarcane</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/lukeppono">Lukep (Pono)</a></td><td style="white-space: nowrap;"><i>to</i></td>
+<td>NNG</td><td><a href="../languages/lukep">Lukep</a></td><td style="white-space: nowrap;"><i>to</i></td>
 <td>'<span>sugarcane</span>'</td>
 </tr>
 <tr>
@@ -93,7 +93,7 @@ The POc term &ast;topu 'sugarcane, _Saccharum officinarum_' continues PAn &ast;t
 <td>'<span>sugarcane</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/sariba">Sariba</a></td><td style="white-space: nowrap;"><i>tou</i></td>
+<td>PT</td><td><a href="../languages/saliba">Saliba</a></td><td style="white-space: nowrap;"><i>tou</i></td>
 <td>'<span>sugarcane</span>'</td>
 </tr>
 <tr>
@@ -133,7 +133,7 @@ The POc term &ast;topu 'sugarcane, _Saccharum officinarum_' continues PAn &ast;t
 <td>'<span>coconut</span>'</td>
 </tr>
 <tr>
-<td>TM</td><td><a href="../languages/asuboa">Asumboa</a></td><td style="white-space: nowrap;"><i>u-ñio</i></td>
+<td>TM</td><td><a href="../languages/asuboa">Asuboa</a></td><td style="white-space: nowrap;"><i>u-ñio</i></td>
 <td>'<span>coconut</span>'</td>
 </tr>
 <tr>
@@ -241,7 +241,7 @@ The POc term &ast;topu 'sugarcane, _Saccharum officinarum_' continues PAn &ast;t
 <td>'<span>sugarcane</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>tou</i></td>
+<td>Mic</td><td><a href="../languages/kiribati">Kiribati</a></td><td style="white-space: nowrap;"><i>tou</i></td>
 <td>'<span>fruit of the pandanus, chewed like sugarcane</span>'</td>
 </tr>
 <tr>
@@ -261,7 +261,7 @@ The POc term &ast;topu 'sugarcane, _Saccharum officinarum_' continues PAn &ast;t
 <td>'<span>sugarcane</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td style="white-space: nowrap;"><i>wōw</i></td>
+<td>Mic</td><td><a href="../languages/chuukese">Chuukese</a></td><td style="white-space: nowrap;"><i>wōw</i></td>
 <td>'<span>sugarcane</span>'</td>
 </tr>
 <tr>
@@ -490,7 +490,7 @@ Frantisek [Lichtenberk](../sources/Lichtenberk1998) ([1998](../sources/Lichtenbe
 <td>'<span><em>Areca catechu</em></span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>pua</i></td>
+<td>SES</td><td><a href="../languages/areare">’Are’are</a></td><td style="white-space: nowrap;"><i>pua</i></td>
 <td>'<span><em>Areca catechu</em></span>'</td>
 </tr>
 <tr>
@@ -550,7 +550,7 @@ The reconstruction of POc &ast;[pu-]pulu 'betel pepper, _Piper betle_' is taken 
 <td>'<span>betel pepper</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/lukeppono">Lukep (Pono)</a></td><td style="white-space: nowrap;"><i>ul</i></td>
+<td>NNG</td><td><a href="../languages/lukep">Lukep</a></td><td style="white-space: nowrap;"><i>ul</i></td>
 <td>'<span>betel pepper, <em>Piper betle</em></span>'</td>
 </tr>
 <tr>
@@ -577,16 +577,16 @@ The reconstruction of POc &ast;[pu-]pulu 'betel pepper, _Piper betle_' is taken 
 
 <a id="p-395"></a>
 
-<table class="cognateset" id="3-13-2-2-395-ProtoMesoMelanesian-siqarra-a">
+<table class="cognateset" id="3-13-2-2-395-PMM-siqarra-a">
 <tr>
-<td><strong>Proto Meso-Melanesian</strong></td><td> </td>
+<td><strong>PMM</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;siqa(r,R)(a)</i>
 </td>
 <td>'<span>betel pepper, <em>Piper betle</em></span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/karaeast">Kara (East)</a></td><td style="white-space: nowrap;"><i>sie</i></td>
+<td>MM</td><td><a href="../languages/karaeast">East Kara</a></td><td style="white-space: nowrap;"><i>sie</i></td>
 <td>'<span><em>Piper betle</em></span>'</td>
 </tr>
 <tr>
@@ -720,7 +720,7 @@ The best supported hypothesis appears to be that _Piper methysticum_ is a domest
 <td>'<span>kava</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/veraa">Vera'a</a></td><td style="white-space: nowrap;"><i>ɣie</i></td>
+<td>NCV</td><td><a href="../languages/veraa">Vera’a</a></td><td style="white-space: nowrap;"><i>ɣie</i></td>
 <td>'<span>kava</span>'; '<span>kava; sour, bitter</span>'</td>
 </tr>
 <tr>
@@ -728,7 +728,7 @@ The best supported hypothesis appears to be that _Piper methysticum_ is a domest
 <td>'<span>kava</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/veraa">Vera'a</a></td><td style="white-space: nowrap;"><i>ɣie</i></td>
+<td>NCV</td><td><a href="../languages/veraa">Vera’a</a></td><td style="white-space: nowrap;"><i>ɣie</i></td>
 <td>'<span>kava</span>'; '<span>kava; sour, bitter</span>'</td>
 </tr>
 <tr>
@@ -755,7 +755,7 @@ The best supported hypothesis appears to be that _Piper methysticum_ is a domest
 <td>'<span><em>Piper betle</em></span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/nadroga">Nadroga</a></td><td style="white-space: nowrap;"><i>kawa</i></td>
+<td>Fij</td><td><a href="../languages/nadroga">Nadrogā</a></td><td style="white-space: nowrap;"><i>kawa</i></td>
 <td>'<span>fish-poison tree, Euphorbia sp. (?)</span>'</td>
 </tr>
 <tr>
@@ -1049,7 +1049,7 @@ Among languages which retain a reflex of the final consonant, Mussau and Petats 
 <td>'<span>bamboo</span>' (<span><em>&ast;k~q</em> <em>&ast;r~R</em></span>)</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/lukeppono">Lukep (Pono)</a></td><td style="white-space: nowrap;"><i>kau-kau</i></td>
+<td>NNG</td><td><a href="../languages/lukep">Lukep</a></td><td style="white-space: nowrap;"><i>kau-kau</i></td>
 <td>'<span>bamboo</span>' (<span><em>&ast;k~q</em></span>)</td>
 </tr>
 <tr>
@@ -1117,7 +1117,7 @@ Among languages which retain a reflex of the final consonant, Mussau and Petats 
 <td>'<span>bamboo (generic)</span>' (<span><em>&ast;k~q</em></span>)</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>äu</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa’a</a></td><td style="white-space: nowrap;"><i>äu</i></td>
 <td>'<span>bamboo</span>' (<span><em>&ast;k~q</em></span>)</td>
 </tr>
 <tr>
@@ -1181,7 +1181,7 @@ Among languages which retain a reflex of the final consonant, Mussau and Petats 
 <td>'<span>bamboo</span>' (<span><em>&ast;q</em></span>)</td>
 </tr>
 <tr>
-<td>NCal</td><td><a href="../languages/nelemwa">Nêlêmwâ</a></td><td style="white-space: nowrap;"><i>ŋ-ga</i></td>
+<td>NCal</td><td><a href="../languages/nelemwa">Nêlêmwa</a></td><td style="white-space: nowrap;"><i>ŋ-ga</i></td>
 <td>'<span>bamboo</span>' (<span><em>&ast;q</em></span>)</td>
 </tr>
 <tr>
@@ -1274,7 +1274,7 @@ Reflexes of POc _&ast;bʷau_ 'bamboo' are largely complementary to those of _&as
 <td>'<span>bamboo</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td style="white-space: nowrap;"><i>pʷāw</i></td>
+<td>Mic</td><td><a href="../languages/chuukese">Chuukese</a></td><td style="white-space: nowrap;"><i>pʷāw</i></td>
 <td>'<span>bamboo</span>'</td>
 </tr>
 <tr>
@@ -1808,7 +1808,7 @@ The distributions of POc _&ast;ñoñu_ and _&ast;kurat_ are complementary: _&ast
 <td>'<span><em>Morinda citrifolia</em></span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>non</i></td>
+<td>Mic</td><td><a href="../languages/kiribati">Kiribati</a></td><td style="white-space: nowrap;"><i>non</i></td>
 <td>'<span><em>Morinda citrifolia</em></span>'</td>
 </tr>
 <tr>
@@ -2075,7 +2075,7 @@ but I am unable to determine how they differed in meaning from each other or fro
 <td>'<span>derris root</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>uha, uhe</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa’a</a></td><td style="white-space: nowrap;"><i>uha, uhe</i></td>
 <td>'<span>derris root</span>'</td>
 </tr>
 <tr>
@@ -2193,7 +2193,7 @@ PWOc _&ast;(m,mʷ)ali_ (incorrectly given as _&ast;maRi_ in [vol. 1, ch.8, §7](
 <td>'<span><em>Derris</em> root</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/karaeast">Kara (East)</a></td><td style="white-space: nowrap;"><i>mal</i></td>
+<td>MM</td><td><a href="../languages/karaeast">East Kara</a></td><td style="white-space: nowrap;"><i>mal</i></td>
 <td>'<span><em>Derris</em> sp.</span>'</td>
 </tr>
 <tr>
@@ -2259,7 +2259,7 @@ PWOc _&ast;(m,mʷ)ali_ (incorrectly given as _&ast;maRi_ in [vol. 1, ch.8, §7](
 <td>'<span>to poison fish</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td style="white-space: nowrap;"><i>wɨ̄p, wɨpe(n)</i></td>
+<td>Mic</td><td><a href="../languages/chuukese">Chuukese</a></td><td style="white-space: nowrap;"><i>wɨ̄p, wɨpe(n)</i></td>
 <td>'<span><em>Derris elliptica</em></span>'</td>
 </tr>
 </table>
@@ -2280,7 +2280,7 @@ Turmeric and ginger are both cultivated for their roots, which have a variety of
 
 <a id="s-5-1"></a>
 
-### 5.1. _Curcuma longa_ (syn. _Curcuma domestica_), turmeric (_Zingiber_aceae)
+### 5.1. _Curcuma longa_ (syn. _Curcuma domestica_), turmeric (Zingiberaceae)
 
 
 The turmeric: plant, _Curcuma longa_, is much smaller than Alpinia species, being only 50-120cm tall, but it is treated by at least speakers of Marovo and Kwara'ae as belonging to the same taxon as Alpinia ([Kwa'ioloa & Burt 2001](../sources/KwaioloaandBurt2001):193-194, [Hviding 2005](../sources/Hviding2005): 131).[^14] It has long green leaves and pale yellow flowers. The rhizome is lumpy and an intense yellow ([Peekel 1984](../sources/Peekel1984): 109).
@@ -2311,7 +2311,7 @@ There are two reconstructions, POc _&ast;yaŋo_ and PEOc _&ast;re(ŋ,ŋʷ)a_. Th
 <td>'<span>ginger</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/karaeast">Kara (East)</a></td><td style="white-space: nowrap;"><i>ioŋ</i></td>
+<td>MM</td><td><a href="../languages/karaeast">East Kara</a></td><td style="white-space: nowrap;"><i>ioŋ</i></td>
 <td>'<span>turmeric</span>'</td>
 </tr>
 <tr>
@@ -2319,7 +2319,7 @@ There are two reconstructions, POc _&ast;yaŋo_ and PEOc _&ast;re(ŋ,ŋʷ)a_. Th
 <td>'<span>turmeric</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/kubukota">Kubukota</a></td><td style="white-space: nowrap;"><i>aŋo</i></td>
+<td>MM</td><td><a href="../languages/kubukota">Kubokota</a></td><td style="white-space: nowrap;"><i>aŋo</i></td>
 <td>'<span>plant similar to ginger, of various colours (white and yellow); it has various medicinal and magical uses in healing and cursing</span>'</td>
 </tr>
 <tr>
@@ -2442,7 +2442,7 @@ The root above was the source of the POc term for 'yellow', _&ast;yaŋo-yaŋo_:
 </td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>reŋa</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa’a</a></td><td style="white-space: nowrap;"><i>reŋa</i></td>
 <td>'<span>decorate with black, white and red designs; beautiful</span>'</td>
 </tr>
 <tr>
@@ -2454,7 +2454,7 @@ The root above was the source of the POc term for 'yellow', _&ast;yaŋo-yaŋo_:
 <td>'<span>yolk of an egg; yellow colour</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>reŋa</i></td>
+<td>Mic</td><td><a href="../languages/kiribati">Kiribati</a></td><td style="white-space: nowrap;"><i>reŋa</i></td>
 <td>'<span><em>Curcuma tonga</em></span>'[^15]</td>
 </tr>
 <tr>
@@ -2501,7 +2501,7 @@ The root above was the source of the POc term for 'yellow', _&ast;yaŋo-yaŋo_:
 
 <a id="s-5-2"></a>
 
-### 5.2. _Zingiber_ spp., ginger, TP _kawawar_ (_Zingiber_aceae)
+### 5.2. _Zingiber_ spp., ginger, TP _kawawar_ (Zingiberaceae)
 
 
 _Zingiber officinale_ (common ginger), 50-120cm tall, cultivated and wild, serves as a spice plant, medicine and magic ([Peekel 1984](../sources/Peekel1984):100). It appears to have arrived in Near Oceania a long time ago (R.M. Bourke, pers. comm.), but does not seem to have been carried into (at least parts of) Remote Oceania until European contact, where the only species of ginger was _Zingiber zerumbet_ ('wild ginger', 'shampoo ginger', 'pinecone ginger'), a woody shrub, 80-120 cm high with long narrow green leaves and magnificent red flowers which resemble a pinecone in shape. It is widely cultivated, with numerous cultivars.
@@ -2513,7 +2513,7 @@ If it is true that _Zingiber officinale_ did not find its way into Remote Oceani
 
 In Marovo wild ginger was associated with magic and sorcery. The leaves of particular varieties were important in calling on ancestor spirits, and the roots were chewed for magical purposes. In earlier times, one was planted at each comer of a garden to protect it against destructive magic. The roots of some varieties are chewed for their healing properties. Because of these associations, ginger is rarely used in ordinary cooking ([Hviding 2005](../sources/Hviding2005): 130).[^16] [Peekel](../sources/Peekel1984) ([1984](../sources/Peekel1984): 101) in any case reports that the rhizome of _Zingiber zerumbet_ is less tasty than those of other _Zingiber_ species.
 
-Two POc terms are reconstructed below. The gloss of the first, _&ast;laqia_, remains a little doubtful because of the difficulty in dating the arrival of _Zingiber officinale_ in NW Island Melanesia. POc _&ast;para(k)_ evidently referred to _Zingiber_aceae species but just how large a taxon it denoted is currently unknown.
+Two POc terms are reconstructed below. The gloss of the first, _&ast;laqia_, remains a little doubtful because of the difficulty in dating the arrival of _Zingiber officinale_ in NW Island Melanesia. POc _&ast;para(k)_ evidently referred to Zingiberaceae species but just how large a taxon it denoted is currently unknown.
 
 <table class="cognateset" id="3-13-5-2-414-POc-laqia-a">
 <tr>
@@ -2627,14 +2627,14 @@ PMP _&ast;badak_ is tentatively reconstructed below on the basis of the Tolai an
 <td style="white-space: nowrap;">
 <i>&ast;badak</i>
 </td>
-<td>'<span>_Zingiber_aceae spp. with edible rhizomes</span>'</td>
+<td>'<span>Zingiberaceae spp. with edible rhizomes</span>'</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;para(k)</i>
 </td>
-<td>'<span>_Zingiber_aceae spp. with edible rhizomes</span>'</td>
+<td>'<span>Zingiberaceae spp. with edible rhizomes</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td style="white-space: nowrap;"><i>va-var</i></td>
@@ -2642,7 +2642,7 @@ PMP _&ast;badak_ is tentatively reconstructed below on the basis of the Tolai an
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td style="white-space: nowrap;"><i>(ka)va-var</i></td>
-<td>'<span><em>Zingiber</em> officinale</span>'</td>
+<td>'<span><em>Zingiber officinale</em></span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td style="white-space: nowrap;"><i>va-va</i></td>
@@ -2766,7 +2766,7 @@ Three other etyma are reconstructed below: POc _&ast;jiRi_, _&ast;kaRi(q)a_ and 
 </td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/karaeast">Kara (East)</a></td><td style="white-space: nowrap;"><i>ma-mara</i></td>
+<td>MM</td><td><a href="../languages/karaeast">East Kara</a></td><td style="white-space: nowrap;"><i>ma-mara</i></td>
 <td>'<span><em>Codiaeum variegatum</em></span>'</td>
 </tr>
 <tr>
@@ -2880,11 +2880,11 @@ cf. also:
 <td>'<span>cordyline</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/karaeast">Kara (East)</a></td><td style="white-space: nowrap;"><i>si</i></td>
+<td>MM</td><td><a href="../languages/karaeast">East Kara</a></td><td style="white-space: nowrap;"><i>si</i></td>
 <td>'<span><em>Cordyline fruticosa</em></span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/karaeast">Kara (East)</a></td><td style="white-space: nowrap;"><i>si(-tavul)</i></td>
+<td>MM</td><td><a href="../languages/karaeast">East Kara</a></td><td style="white-space: nowrap;"><i>si(-tavul)</i></td>
 <td>'<span><em>Dracaena angustifolia</em></span>'</td>
 </tr>
 <tr>
@@ -2957,11 +2957,11 @@ cf. also:
 <td>'<span><em>Cordyline fruticosa</em></span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>siri</i></td>
+<td>SES</td><td><a href="../languages/areare">’Are’are</a></td><td style="white-space: nowrap;"><i>siri</i></td>
 <td>'<span>herb with red stem and leaves, used for magical purposes</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>dili</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa’a</a></td><td style="white-space: nowrap;"><i>dili</i></td>
 <td>'<span>Draecena</span>'</td>
 </tr>
 <tr>
@@ -2973,7 +2973,7 @@ cf. also:
 <td>'<span><em>Cordyline fruticosa</em></span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td style="white-space: nowrap;"><i>tĩ-n</i></td>
+<td>Mic</td><td><a href="../languages/chuukese">Chuukese</a></td><td style="white-space: nowrap;"><i>tĩ-n</i></td>
 <td>'<span><em>Cordyline fruticosa</em></span>'</td>
 </tr>
 <tr>
@@ -3000,7 +3000,7 @@ cf. also:
 <td>'<span><em>Cordyline fruticosa</em></span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/westuvean">West Uvean</a></td><td style="white-space: nowrap;"><i>tĩ</i></td>
+<td>Pn</td><td><a href="../languages/westuvean">West Uvea</a></td><td style="white-space: nowrap;"><i>tĩ</i></td>
 <td>'<span>Draecena</span>'</td>
 </tr>
 <tr>

@@ -34,7 +34,7 @@ One thing is clear: most of the species treated in this chapter were known to PO
 
 _Acalypha longispica_ is common in secondary forest. _Acalypha grandis_ is grown as an ornamental shrub in New Ireland, but the Kwarae'ae take short poles from it, using them in small buildings, to stake yams and to plant living pig fences ([Kwa'ioloa & Burt 2001](../sources/KwaioloaandBurt2001): 148).
 
-POc _&ast;ka[(r,l)a]qabusi_ appears to have denoted a taxon including at least _Acalypha longispica_ and _Acalypha grandis_. The syllable _&ast;-(r,l)a-_ is absent from the Proto Meso-Melanesian form, but present in PEOc. It may or may not have been present in POc. Weakly supported PEOc _&ast;(k)a(r,l)adroŋ_ appears also to have denoted one or more _Acalypha_ species. The two PEOc etyma apparently share the initial element _&ast;ka(r,l)a-_, with an ambiguous liquid: North/Central Vanuatu and Kiribati reflexes point to _&ast;-r-_, SE Solomonic and Tongan to _&ast;-l-_, and other Polynesian languages to either. South Vanuatu languages reflect _&ast;-n-_, which I take to be an idiosyncratic local innovation.
+POc _&ast;ka[(r,l)a]qabusi_ appears to have denoted a taxon including at least _Acalypha longispica_ and _Acalypha grandis_. The syllable _&ast;-(r,l)a-_ is absent from the PMM form, but present in PEOc. It may or may not have been present in POc. Weakly supported PEOc _&ast;(k)a(r,l)adroŋ_ appears also to have denoted one or more _Acalypha_ species. The two PEOc etyma apparently share the initial element _&ast;ka(r,l)a-_, with an ambiguous liquid: North/Central Vanuatu and Kiribati reflexes point to _&ast;-r-_, SE Solomonic and Tongan to _&ast;-l-_, and other Polynesian languages to either. South Vanuatu languages reflect _&ast;-n-_, which I take to be an idiosyncratic local innovation.
 
 [Whistler](../sources/Whistler1991b) ([1991b](../sources/Whistler1991b): 51-52) glosses the Tongan reflex 'cat's tail' (_pusi_ 'cat' ), arguing that as the cat was a European introduction to Tonga, the name must be post-contact. However, this cognate set gives the lie to this interpretation.
 
@@ -47,14 +47,14 @@ POc _&ast;ka[(r,l)a]qabusi_ appears to have denoted a taxon including at least _
 <td>'<span><em>Acalypha</em> spp.</span>'</td>
 </tr>
 <tr>
-<td><strong>Proto Meso-Melanesian</strong></td><td> </td>
+<td><strong>PMM</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;kaqabusi</i>
 </td>
 <td>'<span><em>Acalypha</em> spp.</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/karaeast">Kara (East)</a></td><td style="white-space: nowrap;"><i>kavus</i></td>
+<td>MM</td><td><a href="../languages/karaeast">East Kara</a></td><td style="white-space: nowrap;"><i>kavus</i></td>
 <td>'<span><em>Acalypha longispica</em></span>' (<span>zero for †<em>-l-</em> or †<em>-r-</em></span>)</td>
 </tr>
 <tr>
@@ -170,7 +170,7 @@ POc _&ast;ka[(r,l)a]qabusi_ appears to have denoted a taxon including at least _
 <td>'<span><em>Acalypha</em> sp.</span>' (<span>W. McClatchey, pers. comm.</span>)</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>aroŋa</i></td>
+<td>Mic</td><td><a href="../languages/kiribati">Kiribati</a></td><td style="white-space: nowrap;"><i>aroŋa</i></td>
 <td>'<span><em>Acalypha amentacea</em></span>'</td>
 </tr>
 </table>
@@ -281,7 +281,7 @@ The POc term for _Commersonia bartramia_ was _&ast;jamaR_. The Mwotlap, Mota and
 </td>
 </tr>
 <tr>
-<td>TM</td><td><a href="../languages/natiigu">Natügu</a></td><td style="white-space: nowrap;"><i>tame-tame</i></td>
+<td>TM</td><td><a href="../languages/natugu">Natügu</a></td><td style="white-space: nowrap;"><i>tame-tame</i></td>
 <td>'<span><em>Commersonia bartramia</em></span>' (<a href="../sources/HendersonandHancock1988">Henderson and Hancock 1988: 194</a>)
 </td>
 </tr>
@@ -311,7 +311,7 @@ The POc term for _Commersonia bartramia_ was _&ast;jamaR_. The Mwotlap, Mota and
 <td>'<span><em>Commersonia bartramia</em></span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/veraa">Vera'a</a></td><td style="white-space: nowrap;"><i>(mar)sama</i></td>
+<td>NCV</td><td><a href="../languages/veraa">Vera’a</a></td><td style="white-space: nowrap;"><i>(mar)sama</i></td>
 <td>'<span><em>Commersonia bartramia</em></span>'</td>
 </tr>
 <tr>
@@ -683,7 +683,7 @@ PMP _&ast;binu(q)an_ below is reconstructed on the basis of the Oceanic data and
 <td>'<span><em>Macaranga</em> spp.</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/poeng">Poeng</a></td><td style="white-space: nowrap;"><i>vala-vala</i></td>
+<td>NNG</td><td><a href="../languages/mengen">Mengen</a></td><td style="white-space: nowrap;"><i>vala-vala</i></td>
 <td>'<span><em>Macaranga</em> spp.</span>'</td>
 </tr>
 <tr>
@@ -744,11 +744,11 @@ There are formal questions associated with the reconstruction of PWOc _&ast;kobo
 <td>'<span><em>Macaranga aleuritoides</em>, with deeply serrated leaves</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/karaeast">Kara (East)</a></td><td style="white-space: nowrap;"><i>(və)kof</i></td>
+<td>MM</td><td><a href="../languages/karaeast">East Kara</a></td><td style="white-space: nowrap;"><i>(və)kof</i></td>
 <td>'<span><em>Macaranga quadriglandulosa</em></span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/karaeast">Kara (East)</a></td><td style="white-space: nowrap;"><i>(və)kof(se)</i></td>
+<td>MM</td><td><a href="../languages/karaeast">East Kara</a></td><td style="white-space: nowrap;"><i>(və)kof(se)</i></td>
 <td>'<span><em>Macaranga urophylla</em></span>'</td>
 </tr>
 </table>
@@ -794,7 +794,7 @@ There is disagreement among cognates with regard to the final _&ast;-aqi_ of POc
 </td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/karaeast">Kara (East)</a></td><td style="white-space: nowrap;"><i>kaimek</i></td>
+<td>MM</td><td><a href="../languages/karaeast">East Kara</a></td><td style="white-space: nowrap;"><i>kaimek</i></td>
 <td>'<span><em>Pipturus argenteus</em></span>'</td>
 </tr>
 <tr>
@@ -807,7 +807,7 @@ There is disagreement among cognates with regard to the final _&ast;-aqi_ of POc
 <td>'<span><em>Pipturus argenteus</em></span>'[^3]</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/veraa">Vera'a</a></td><td style="white-space: nowrap;"><i>demie</i></td>
+<td>NCV</td><td><a href="../languages/veraa">Vera’a</a></td><td style="white-space: nowrap;"><i>demie</i></td>
 <td>'<span><em>Pipturus argenteus</em></span>'</td>
 </tr>
 <tr>
@@ -835,7 +835,7 @@ There is disagreement among cognates with regard to the final _&ast;-aqi_ of POc
 <td>'<span><em>Pipturus argenteus</em></span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td><a href="../languages/nelemwa">Nêlêmwâ</a></td><td style="white-space: nowrap;"><i>hâlamʷi</i></td>
+<td>NCal</td><td><a href="../languages/nelemwa">Nêlêmwa</a></td><td style="white-space: nowrap;"><i>hâlamʷi</i></td>
 <td>'<span><em>Pipturus argenteus</em></span>'</td>
 </tr>
 <tr>
@@ -843,7 +843,7 @@ There is disagreement among cognates with regard to the final _&ast;-aqi_ of POc
 <td>'<span><em>Pipturus argenteus</em></span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>aroma</i></td>
+<td>Mic</td><td><a href="../languages/kiribati">Kiribati</a></td><td style="white-space: nowrap;"><i>aroma</i></td>
 <td>'<span><em>Pipturus argenteus</em></span>'</td>
 </tr>
 <tr>
@@ -957,7 +957,7 @@ A number of groups in Indonesia and Melanesia practised ritual tooth-blackening 
 <td>'<span><em>Rhus taitensis</em></span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/karaeast">Kara (East)</a></td><td style="white-space: nowrap;"><i>(mə)rawəs</i></td>
+<td>MM</td><td><a href="../languages/karaeast">East Kara</a></td><td style="white-space: nowrap;"><i>(mə)rawəs</i></td>
 <td>'<span><em>Rhus taitensis</em></span>'</td>
 </tr>
 <tr>
@@ -1051,7 +1051,7 @@ Blust (ACD) reconstructs PWMP _&ast;deRuŋ_ on the basis of western Malaya-Polyn
 <td>'<span>tree, possibly <em>Trema</em> sp. (bark taken off in sheets)</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/veraa">Vera'a</a></td><td style="white-space: nowrap;"><i>do-ndo</i></td>
+<td>NCV</td><td><a href="../languages/veraa">Vera’a</a></td><td style="white-space: nowrap;"><i>do-ndo</i></td>
 <td>'<span><em>Trema orientalis</em></span>' (<a href="../sources/Wheatley1992">Wheatley 1992: 237</a>)
 </td>
 </tr>
@@ -1110,7 +1110,7 @@ POc _&ast;maRako_ '_Trichospermum peekelii_' is an unproblematic reconstruction.
 <td>'<span><em>Trichospermum pleiostigmum</em></span>'[^7]</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/karaeast">Kara (East)</a></td><td style="white-space: nowrap;"><i>maiau</i></td>
+<td>MM</td><td><a href="../languages/karaeast">East Kara</a></td><td style="white-space: nowrap;"><i>maiau</i></td>
 <td>'<span><em>Trichospermum peekelii</em></span>'</td>
 </tr>
 <tr>
@@ -1126,7 +1126,7 @@ POc _&ast;maRako_ '_Trichospermum peekelii_' is an unproblematic reconstruction.
 <td>'<span><em>Trichospermum peekelii</em></span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>marako</i></td>
+<td>SES</td><td><a href="../languages/areare">’Are’are</a></td><td style="white-space: nowrap;"><i>marako</i></td>
 <td>'<span>tree sp., a twig of which is used to indicate a taboo</span>'</td>
 </tr>
 <tr>
@@ -1211,7 +1211,7 @@ Two less widely reflected terms, the reflexes of which are generic terms for gra
 <td>'<span>grass</span>'</td>
 </tr>
 <tr>
-<td>TM</td><td><a href="../languages/nagu">Nagu</a></td><td style="white-space: nowrap;"><i>lepmʉ</i></td>
+<td>TM</td><td><a href="../languages/engdewo">Engdewo</a></td><td style="white-space: nowrap;"><i>lepmʉ</i></td>
 <td>'<span>grass</span>'</td>
 </tr>
 <tr>
@@ -1219,7 +1219,7 @@ Two less widely reflected terms, the reflexes of which are generic terms for gra
 <td>'<span>grass</span>'</td>
 </tr>
 <tr>
-<td>TM</td><td><a href="../languages/asuboa">Asumboa</a></td><td style="white-space: nowrap;"><i>lɔbumɔ</i></td>
+<td>TM</td><td><a href="../languages/asuboa">Asuboa</a></td><td style="white-space: nowrap;"><i>lɔbumɔ</i></td>
 <td>'<span>grass</span>'</td>
 </tr>
 <tr>
@@ -1263,7 +1263,7 @@ Two less widely reflected terms, the reflexes of which are generic terms for gra
 <td>'<span>grass and weeds (generic)</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>ute-ute</i></td>
+<td>Mic</td><td><a href="../languages/kiribati">Kiribati</a></td><td style="white-space: nowrap;"><i>ute-ute</i></td>
 <td>'<span>grass (generic)</span>'</td>
 </tr>
 </table>
@@ -1319,7 +1319,7 @@ In PROc, _&ast;mʷanaya_, another apparently generic term for grass occurred. Th
 <td>'<span>kangaroo grass, <em>Themeda triandra</em> (?)</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>maunei</i></td>
+<td>Mic</td><td><a href="../languages/kiribati">Kiribati</a></td><td style="white-space: nowrap;"><i>maunei</i></td>
 <td>'<span><em>Cyperus laevigatus</em> and <em>Eleocharis geniculata</em></span>'</td>
 </tr>
 </table>
@@ -1405,7 +1405,7 @@ Blust (ACD) reconstructs PAn _&ast;Riaq_ 'sword grass, _Imperata cylindrica_' on
 <td>'<span><em>Imperata cylindrica</em></span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/poeng">Poeng</a></td><td style="white-space: nowrap;"><i>lai</i></td>
+<td>NNG</td><td><a href="../languages/mengen">Mengen</a></td><td style="white-space: nowrap;"><i>lai</i></td>
 <td>'<span><em>Imperata cylindrica</em></span>'</td>
 </tr>
 <tr>
@@ -1449,7 +1449,7 @@ Blust (ACD) reconstructs PAn _&ast;Riaq_ 'sword grass, _Imperata cylindrica_' on
 <td>'<span><em>Imperata cylindrica</em></span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/karaeast">Kara (East)</a></td><td style="white-space: nowrap;"><i>i</i></td>
+<td>MM</td><td><a href="../languages/karaeast">East Kara</a></td><td style="white-space: nowrap;"><i>i</i></td>
 <td>'<span><em>Imperata cylindrica</em></span>'</td>
 </tr>
 <tr>
@@ -1525,7 +1525,7 @@ It is probable that the Central Papuan (Taboro, Hula, Motu and Doura) forms in t
 <td>'<span><em>Imperata cylindrica</em></span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/poeng">Poeng</a></td><td style="white-space: nowrap;"><i>gur-gur</i></td>
+<td>NNG</td><td><a href="../languages/mengen">Mengen</a></td><td style="white-space: nowrap;"><i>gur-gur</i></td>
 <td>'<span>grass</span>'</td>
 </tr>
 <tr>

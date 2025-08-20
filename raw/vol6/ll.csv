@@ -8,7 +8,7 @@ Akei,akei1237,tsr,-15.64,166.77
 Akolet,akol1237,akt,-6.23,150.18
 Ali,alii1241,(ykm),-3.13,142.47
 Amara,amar1272,aie,-5.50,148.75
-Andra,andr1245,anx,-1.94,147.00
+Andra,andr1248,anx,-1.94,147.00
 Anejom̃,anei1239,aty,-20.19,169.83
 Aniwa,aniw1237,fut,-19.25,169.60
 Anuki,anuk1239,aui,-9.62,149.77
@@ -93,13 +93,13 @@ Dobu,dobu1241,dob,-9.63,150.83
 Doga,doga1238,dgg,-9.62,149.65
 Dori’o,dori1246,dor,-9.12,160.90
 Dorig,weta1242,wwo,-14.37,167.55
-Doura,tour1242,don,-9.08,147.00
+Doura,tour1243,don,-9.08,147.00
 Drehet,kheh1237,tlx,-2.07,146.75
 Drubea,dumb1241,duf,-22.09,166.53
 Duau,duau1237,dva,-10.06,151.24
-E Futunan,east2447,fud,-14.28,-178.14
-E Kara,east2453,leu,-2.84,151.18
-E Uvean,wall1257,wls,-13.29,-176.21
+East Futunan,east2447,fud,-14.28,-178.14
+East Kara,east2453,leu,-2.84,151.18
+East Uvean,wall1257,wls,-13.29,-176.21
 Emae,emae1237,mmw,-17.05,168.40
 Emira,emir1237,(emi),-1.64,149.98
 Engdewo,nang1262,ngr,-10.82,165.88
@@ -126,7 +126,7 @@ Hiw,hiww1237,hiw,-13.13,166.58
 Hoava,hoav1238,hoa,-8.20,157.60
 Hote,hote1245,hot,-7.08,146.87
 Hula,hula1239,hul,-10.10,147.73
-Hus,andr1245,anx,-1.94,147.10
+Hus,andr1248,anx,-1.94,147.10
 Iaai,iaai1238,iai,-20.63,166.59
 Iamalele,iama1237,yml,-9.45,150.57
 Iduna,idun1242,viv,-9.29,150.17
@@ -145,7 +145,7 @@ Kandas,kand1301,kqw,-4.37,152.78
 Kaniet,kani1282,ktk,-1.52,145.09
 Kaninuwa,kani1281,wat,-9.23,150.25
 Kapin,kapi1250,tbx,-7.06,146.53
-K’amarangi,kapi1249,kpg,1.04,154.80
+Kapingamarangi,kapi1249,kpg,1.04,154.80
 Kaulong,kaul1240,pss,-6.08,149.70
 Kayupulau,kayu1243,kzu,-2.54,140.63
 Kela,kela1255,kcl,-7.47,147.17
@@ -274,7 +274,7 @@ Musom,muso1238,msu,-6.54,146.93
 Mussau,muss1248,(emi),-1.44,149.62
 Mutu,mutu1242,tuc,-5.79,148.01
 Muyuw,muyu1244,myw,-9.20,152.73
-Mwesen,,,-13.90,167.53
+Mwesen,mwes1235,,-13.90,167.53
 Mwotlap,motl1237,mlv,-13.65,167.65
 Nadrau,nadr1234,,-17.71,177.95
 Nadrogā,nadr1235,,-18.04,177.42
@@ -311,14 +311,14 @@ Nguna,ngun1274,(llp),-17.47,168.37
 Nimoa,nimo1246,nmw,-11.23,153.16
 Nisvai,nisv1234,,-16.41,167.79
 Niuafo’ou,niua1240,num,-15.60,-175.64
-Niuatopu-tapu,niua1241,nkp,-15.96,-173.78
+Niuatoputapu,niua1241,nkp,-15.96,-173.78
 Niuean,niue1239,niu,-19.06,-169.86
 Nixumwak,nucl1483,(nee),-20.41,164.18
 Nokuku,noku1237,nkk,-14.90,166.60
-N Ambrym,nort2839,mmg,-16.10,168.16
+North Ambrym,nort2839,mmg,-16.10,168.16
 N Marquesan,nort2845,mrq,-8.89,-140.11
-N Tanna,nort2847,tnn,-19.37,169.30
-N Watut,nort2857,una,-6.62,146.25
+North Tanna,nort2847,tnn,-19.37,169.30
+North Watut,nort2857,una,-6.62,146.25
 Notsi,nots1237,ncf,-3.06,151.66
 Nukumanu,nuku1258,nuq,-4.58,159.49
 Nukuoro,nuku1260,nkr,3.84,154.98
@@ -354,7 +354,7 @@ Piu,piuu1237,pix,-6.93,146.46
 Piva,lawu1237,tgi,-6.22,155.02
 Ponam,pona1250,ncc,-1.92,146.89
 Ponapean,pona1249,pon,7.25,158.27
-Pt Sandwich,port1285,psw,-16.50,167.78
+Port Sandwich,port1285,psw,-16.50,167.78
 Port Vato,port1286,ptv,-16.33,168.04
 Psohoh,apso1237,aix,-6.20,150.25
 Pukapukan,puka1242,pkp,-10.91,-165.83
@@ -375,7 +375,7 @@ Rerep,rere1240,pgk,-16.29,167.65
 Rewa,(east2446),,-18.12,178.32
 Ririo,riri1237,rri,-6.85,156.90
 Riwo,(geda1237),(gdd),-5.15,145.81
-Roinji,(geda1237),roe,-5.81,146.73
+Roinji,ronj1237,roe,-5.81,146.73
 Roro,roro1238,rro,-8.82,146.54
 Rotuman,rotu1241,rtm,-12.50,177.07
 Roviana,rovi1238,rug,-8.20,157.41
@@ -390,7 +390,7 @@ Satawalese,sata1237,stw,7.36,147.04
 Seimat,seim1238,ssg,-1.27,144.25
 Selau,sela1258,(hla),-5.45,154.72
 Sengseng,seng1281,ssz,-6.16,149.78
-Sepa,sepa1243,spe,-4.28,144.95
+Sepa,sepa1241,spe,-4.28,144.95
 Sera,sera1260,sry,-2.97,141.92
 Sesake,sesa1243,(llp),-17.04,168.38
 Sewa Bay,sewa1251,sew,-9.99,150.92
@@ -409,18 +409,18 @@ Sobei,sobe1238,sob,-1.87,138.75
 Solos,solo1257,sol,-5.30,154.59
 Sonsorolese,sons1242,sov,5.33,132.22
 Sori-Harengan,sori1242,sbh,-1.98,146.64
-S Efate,sout2856,erk,-17.76,168.30
-S Gaua,koro1318,krf,-14.36,167.48
-S Marquesan,sout2866,mqm,-9.76,-138.98
-S Watut,sout2877,mcy,-7.04,146.41
-SE Ambrym,sout2859,tvk,-16.32,168.31
-SW Bay,sout2857,sns,-16.51,167.48
-SW Tanna,sout2869,nwi,-19.58,169.36
+South Efate,sout2856,erk,-17.76,168.30
+South Gaua,koro1318,krf,-14.36,167.48
+South Marquesan,sout2866,mqm,-9.76,-138.98
+South Watut,sout2877,mcy,-7.04,146.41
+Southeast Ambrym,sout2859,tvk,-16.32,168.31
+Southwest Bay,sout2857,sns,-16.51,167.48
+Southwest Tanna,sout2869,nwi,-19.58,169.36
 Sowa,sowa1244,sww,-15.83,168.19
 Suau,suau1242,swp,-10.66,150.21
 Sudest,sude1239,tgo,-11.52,153.49
 Sukurum,suku1264,zsu,-6.28,146.34
-Suñwadaga,mari1426,mrb,-14.97,168.06
+Sungwadaga,mari1426,mrb,-14.97,168.06
 Sursurunga,surs1246,sgz,-3.99,152.77
 Sye,siee1239,erg,-18.90,169.22
 Tabar,mand1440,tbf,-2.78,151.96
@@ -507,11 +507,11 @@ Wampar,wamp1247,lbq,-6.58,146.60
 Wampur,wamp1248,waz,-6.40,146.11
 Wayan,waya1268,(wyy),-17.30,177.13
 Wedau,weda1241,wed,-10.09,150.08
-W Futunan,futu1245,fut,-19.53,170.22
-W Kara,west2524,(leu),2.91,151.16
-W Mekeo,west2528,(mek),-8.43,146.54
-W Uvea,west2516,uve,-20.41,166.59
-W Viti Levu,(west2518),(wyy),-18.13,177.54
+West Futunan,futu1245,fut,-19.53,170.22
+West Kara,west2524,(leu),2.91,151.16
+West Mekeo,west2528,(mek),-8.43,146.54
+West Uvea,west2516,uve,-20.41,166.59
+West Viti Levu,(west2518),(wyy),-18.13,177.54
 Whitesands,whit1269,tnp,-19.50,169.38
 Wogeo,woge1237,woc,-3.20,144.09
 Woleaian,wole1240,woe,7.38,143.92

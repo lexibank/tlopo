@@ -1,17 +1,18 @@
-1. Yapese (perhaps more closely related to Admiralties than elsewhere) (Map B.13)
-2. St Matthias [Adm] (Map B.1) (perhaps more closely related to Admiralties than elsewhere)
+1. Yapese [Yap] (B.13) (cffffff)
+    Yapese
+2. St Matthias [Adm] (B.1) (perhaps more closely related to Admiralties than elsewhere) (c1100ff)
       Emira
       Mussau
-      Tench
-3. Admiralties [Adm] (Map B.1)
-      3.1. Western Admiralties
+      Tenis
+3. Admiralties [Adm,PAdm] (B.1)
+      3.1. Western Admiralties [PWAd] (c1bb107)
            Aua
           Kaniet
           Seimat
           Wuvulu
-    3.2. Eastern Admiralties
+    3.2. Eastern Admiralties [PEAd]
           3.2.1. Man
-                  3.2.1.1. Eastern Manus linkage
+                  3.2.1.1. Eastern Manus linkage (ce31a1c)
                            Bipi
                            Ere
                            Kele
@@ -22,64 +23,66 @@
                            Nali
                            Papitalai
                            Titan
-                  3.2.1.2. Western Manus
+                  3.2.1.2. Western Manus (se31a1c)
                            Drehet
                            Likum
                            Mondropolon
                            Nyindrou
                            Tulu-Bohuai
-                  3.2.1.3. Northeast Manus
+                           Bohuai
+                  3.2.1.3. Northeast Manus (de31a1c)
                            Andra
                            Andra-Hus
                            Hus
                            Ponam
                            Sori-Harengan
-          3.2.2. Southeast Admiralties
+          3.2.2. Southeast Admiralties (cffff00)
                  Baluan
                  Lenkau
                  Lou
                  Nauna
                  Pak
                  Penchal
-4. Western Oceanic linkage
-   4.1. New Guinea Oceanic linkage
-       4.1.1. North New Guinea linkage [NNG]
-             4.1.1.1. Ngero/Vitiaz (Map B.3)
-                      Amara
-                      Mangap
-                      Sio
-                      Tami
-                      4.1.1.1.1. Korap
+4. Western Oceanic linkage [PWOc]
+   4.1. New Guinea Oceanic linkage [PNGOc]
+       4.1.1. North New Guinea linkage [NNG,PNNG]
+             4.1.1.1. Ngero/Vitiaz (B.3)
+                      Amara (cffffff)
+                      Mangap (cffffff)
+                      Sio (cffffff)
+                      Tami (B.4) (cffffff)
+                      4.1.1.1.1. Korap (c00fffb) (B.3)
                                  Barim
-                                 Lukep (Pono)
+                                 Lukep
                                  Malasanga
                                  Singorakai
-                      4.1.1.1.2. Kilenge-Maleu
+                      4.1.1.1.2. Kilenge-Maleu (c1100ff)
                                  Kilenge
                                  Maleu
                       4.1.1.1.4. Ngero
-                                 4.1.1.1.4.1. West Ngero
+                                 4.1.1.1.4.1. West Ngero (ced62ff)
                                               Gitua
                                               Malai
                                               Mutu
+                                              Mandok
                                               Tuam
-                                 4.1.1.1.4.2. East Ngero
+                                 4.1.1.1.4.2. East Ngero (ded62ff)
                                               Bariai
                                               Kove
                                               Lusi
                                               Malalamai
                       4.1.1.1.5. Greater Bel
-                                 4.1.1.1.5.1. Mato-Rondi
+                                 4.1.1.1.5.1. Mato-Rondi (sffff00)
                                               Mato
                                               Roinji
                                  4.1.1.1.5.2. Bel
-                                     4.1.1.1.5.2.1. Eastern Bel
+                                     4.1.1.1.5.2.1. Eastern Bel (cffff00)
                                                     Bing
                                                     Swit
                                                     Dami
                                                     Mindiri
                                                     Wab
-                                     4.1.1.1.5.2.2. Western Bel
+                                     4.1.1.1.5.2.2. Western Bel (dffff00)
                                       Bilibil
                                       Gedaged
                                       Matukar
@@ -87,13 +90,13 @@
                                       Takia
                                       Riwo
         4.1.1.1.6. Southwest New Britain linkage
-                   4.1.1.1.6.1. Bibling (= Lamogai)
+                   4.1.1.1.6.1. Bibling (= Lamogai) (c8a33fd)
                                 Aria
                                 Lamogai
                                 Mouk
                                 Mouk-Aria
                                 Rauto
-                   4.1.1.1.6.2. Arawe
+                   4.1.1.1.6.2. Arawe (c19d300)
                                 Akolet
                                 Apalik
                                 Arove
@@ -103,62 +106,65 @@
                                 Avau
                                 Bebeli
                                 Mangseng
-                   4.1.1.1.6.3. Pasismanua
+                   4.1.1.1.6.3. Pasismanua (ce31a1c)
+                                Pasismanua
                                 Aighon
                                 Kaulong
                                 Psohoh
                                 Sengseng
-        4.1.1.1.7. Mengen (Map B.2)
+        4.1.1.1.7. Mengen [Proto Mengen] (cff6f00)
                    Kakuna
                    Longeinga
                    Mengen
                    Mamusi
                    Uvol
-4.1.1.2. Huon Gulf (Map B.4)
-         Numbami
+4.1.1.2. Huon Gulf [Proto Huon Gulf] (B.4)
+         Numbami (c626262)
          4.1.1.2.1. North Huon Gulf
-                    Bukawa
-                    Kela
-                    Yabem
-                    4.1.1.2.2. Markham
-                               4.1.1.2.2.1 Lower Markham
+                    Bukawa (c00fffb)
+                    Kela (c00fffb)
+                    Yabem (c00fffb)
+                    4.1.1.2.2. Markham [Proto Markham]
+                               4.1.1.2.2.1. Lower Markham (de31a1c)
                                            Aribwatsa
+                                           Duwet
                                            Labu
                                            Musom
                                            Sirak
                                            Wampar
                                            Yalu
-                               4.1.1.2.2.2 Watut
+                               4.1.1.2.2.2. Watut (se31a1c)
                                            Dangal
                                            Middle Watut
                                            North Watut
                                            South Watut
-                               4.1.1.2.2.3 Upper Markham
+                               4.1.1.2.2.3. Upper Markham (ce31a1c)
                                            Adzera
                                            Mari
                                            Sirasira
                                            Sukurum
                                            Wampur
                     4.1.1.2.3. South Huon Gulf
-                               4.1.1.2.3.1 Hote
+                               4.1.1.2.3.1. Hote (sffff00)
                                            Hote
                                            Misim
-                               4.1.1.2.3.2 Kaiwa
-                               4.1.1.2.3.3 Buang
-                                           Buang
-                                           Kapin
-                                           Kumaru
-                                           Dambi
-                                           Mangga
-                                           Mapos Buang
-                                           Mumeng
-                                           Patep
-                                           Piu
-                                           Vehes
-                                           Yanta
-                                           Zenag
-           4.1.1.3. Schouten (Map B.2)
-                     4.1.1.3.1. Manam-Kairiru
+                               4.1.1.2.3.2. Kaiwa (sffff00)
+                                            Kaiwa
+                               4.1.1.2.3.3. Buang [Proto Buang]
+                                           Buang (cffff00)
+                                           Kapin (cffff00)
+                                           Kumaru (dffff00)
+                                           Dambi (dffff00)
+                                           Mangga (cffff00)
+                                           Mapos Buang (cffff00)
+                                           Mumeng (dffff00)
+                                           Patep (dffff00)
+                                           Piu (cffff00)
+                                           Vehes (cffff00)
+                                           Yanta (dffff00)
+                                           Zenag (dffff00)
+           4.1.1.3. Schouten (B.2)
+                     4.1.1.3.1. Manam-Kairiru (ce31a1c)
                                 Bam
                                 Kaiep
                                 Kairiru
@@ -167,46 +173,46 @@
                           Medebur
                           Sepa
                           Wogeo
-               4.1.1.3.2. Siau
+               4.1.1.3.2. Siau (se31a1c)
                           Ali
                           Sera
                           Sissano
-                          Sissano
+                          Sissano (Arop)
                           Tumleo
                           Ulau-Suain
-4.1.2. Sarmi/Jayapura [SJ] (perhaps part of North New Guinea; Map B.2)
-      4.1.2.1. Sarmi
+4.1.2. Sarmi/Jayapura [SJ] (perhaps part of North New Guinea) (B.2)
+      4.1.2.1. Sarmi (c19d300)
                Anus
                Bongo
                Sobei
                Tarpia
                Yamna
-      4.1.2.2. Jayapura
+      4.1.2.2. Jayapura (cffff00)
                Kayupulau
                Ormu
                Tobati
-4.1.3. Papuan Tip [PT] (Map B.5)
-      4.1.3.1. Suauic
+4.1.3. Papuan Tip [PT,PPT] (B.5)
+      4.1.3.1. Suauic (c1100ff)
                ’Auhelawa
                Bohutu
                Logea
                Oya’oya
                Saliba
                Suau
-               Suau
+               Suau (Bonalua)
                Tubetube
                Wagawaga
-      4.1.3.2. North Mainland and D’Entrecasteaux
-               Anuki
-               Gumawana
-               4.1.3.2.1. Dobu-Duau
+      4.1.3.2. North Mainland and D’Entrecasteaux [Proto North Mainland/D’Entrecasteaux]
+               Anuki (ce31a1c)
+               Gumawana (ce31a1c)
+               4.1.3.2.1. Dobu-Duau (de31a1c)
                           Bunama
                           Dobu
                           Duau
                           Galea
                                Gilagila
                                Sewa Bay
-                    4.1.3.2.2. Bwaidoga
+                    4.1.3.2.2. Bwaidoga [Proto Bwaidoga] (se31a1c)
                                Bwaidoga
                                Diodio
                                Iamalele
@@ -214,10 +220,10 @@
                                Kalauna
                                Kalokalo
                                Molima
-                    4.1.3.2.3. Kakabai-Dawawa
+                    4.1.3.2.3. Kakabai-Dawawa (te31a1c)
                                Dawawa
                                Kakabai
-                    4.1.3.2.4. Are-Taupota
+                    4.1.3.2.4. Are-Taupota (fe31a1c)
                                Are
                                Arifama
                                Arifama-Miniafia
@@ -234,23 +240,25 @@
                                Ubir
                                Wedau
            4.1.3.3. Kilivila-Misima
-                    4.1.3.3.1 Misima
-                    4.1.3.3.2 Kilivila-Muyuw
+                    4.1.3.3.1. Misima (c8a33fd)
+                               Misima
+                    4.1.3.3.2. Kilivila-Muyuw [Proto Kilivila] (d8a33fd)
                               Budibud
                               Gawa
                               Kilivila
                               Muyuw
-           4.1.3.4. Nimoa-Sudest
+           4.1.3.4. Nimoa-Sudest [Proto Sudest-Nimoa] (cff6f00)
                     Nimoa
                     Nimoa (Sabari)
                     Sudest
            4.1.3.5. Central Papuan
-                   4.1.3.5.1 Ouma-Magori
+                   4.1.3.5.1. Ouma-Magori (cffff00)
                              4.1.3.5.1.1. Ouma
+                                          Ouma
                              4.1.3.5.1.2. Magori
                                           Magori
                                           Yoba
-                   4.1.3.5.2 Sinaugoro-Keapara
+                   4.1.3.5.2. Sinaugoro-Keapara (dffff00)
                              4.1.3.5.2.1. Sinaugoro linkage
                                           Sinaugoro
                                           Balawaia
@@ -261,12 +269,13 @@
                                           Kalo
                                           Aroma
                                           Maopa
-                   4.1.3.5.3 West Central Papuan linkage
+                   4.1.3.5.3. West Central Papuan linkage (sffff00)
                              4.1.3.5.3.1. Motu
                                           Motu
                                           Western Motu
                              4.1.3.5.3.2. Gabadi
-                             4.1.3.5.3.3 Doura-Lala
+                                          Gabadi
+                             4.1.3.5.3.3. Doura-Lala
                                           Doura
                                           Lala
                              4.1.3.5.3.4. Roro-Kuni-Mekeo linkage
@@ -276,21 +285,23 @@
                                           West Mekeo
                                           North Mekeo
                                           Northwest Mekeo
-4.2. Meso-Melanesian [MM] (Maps B.6 and B.7)
-    4.2.1. Bali-Vitu
+4.2. Meso-Melanesian [MM,PMM] (Maps B.6 and B.7)
+    4.2.1. Bali-Vitu (cff6f00) (B.6)
+           Bali-Vitu
            Bali
            Vitu
-    4.2.2. Bola-Bulu
+    4.2.2. Bola-Bulu (cffff00) (B.6)
            Bola
            Bulu
-           Harua (dialect of Bola)
-    4.2.3. Nakanai
+           Harua
+    4.2.3. Nakanai (c666666) (B.6)
         Nakanai
         Bileki
         Maututu
-    4.2.4. Meramera
+    4.2.4. Meramera (c666666) (B.6)
+           Meramera
     4.2.5. New Ireland/Northwest Solomonic linkage
-          4.2.5.1. Tungag-Nalik
+          4.2.5.1. Tungag-Nalik (cfd1d21) (B.6)
                    East Kara
                    Kara
                    Lakurumau
@@ -299,38 +310,43 @@
                    Tiang
                    Tigak
                    West Kara
-           4.2.5.2. Tabar
+           4.2.5.2. Tabar (cf1b5cf) (B.6)
                     Lihir
                     Notsi
                     Notsi (archaic)
                     Tabar
-           4.2.5.3. Madak
+           4.2.5.3. Madak (c913d80) (B.6)
                     Barok
                     Usen Barok
                     Lamasong
                     Lelet
                     Madak
-           4.2.5.4. Tomoip
-           4.2.5.5. Tangga
-           4.2.5.6. Konomala
-           4.2.5.7. Sursurunga
-           4.2.5.8. Siar
-           4.2.5.9. Patpatar-Tolai
+           4.2.5.4. Tomoip (cffffff) (B.6)
+                   Tomoip
+           4.2.5.5. Tangga (cffffff) (B.6)
+                   Tangga
+           4.2.5.6. Konomala (cffffff) (B.6)
+                   Konomala
+           4.2.5.7. Sursurunga (cffffff) (B.6)
+                    Sursurunga
+           4.2.5.8. Siar (cffffff) (B.6)
+                   Siar
+           4.2.5.9. Patpatar-Tolai (ced62ff) (B.6)
                     Patpatar
                     Minigir
                     Tolai
                     Tolai (Nodup)
                     Tolai (Matupit)
-           4.2.5.10.Label-Bilur
+           4.2.5.10. Label-Bilur (cd46d60) (B.6)
                     Label
                     Bilur
-           4.2.5.11.Kandas-Ramoaaina
+           4.2.5.11. Kandas-Ramoaaina (c6100fd) (B.6)
                     Kandas
                     Ramoaaina
-           4.2.5.12.Northwest Solomonic
-                    4.2.5.12.1. Nehan/North Bougainville
+           4.2.5.12. Northwest Solomonic [Proto Northwest Solomonic]
+                    4.2.5.12.1. Nehan/North Bougainville [Proto North Bougainville] (c1100ff) (B.7)
                                 Hahon
-                                Halia (Haku)
+                                Halia
                                 Nehan
                                 Petats
                                 Selau
@@ -338,28 +354,28 @@
                                 Taiof
                                 Teop
                                  Tinputz
-                   4.2.5.12.2.   Papapana-Uruava (?)
+                   4.2.5.12.2.   Papapana-Uruava (?) (cff1d21) (B.7)
                                  Papapana
                                  Uruava
-                   4.2.5.12.3.   Piva-Banoni
+                   4.2.5.12.3.   Piva-Banoni (cf1b5cf) (B.7)
                                  Banoni
                                  Piva
-                   4.2.5.12.4.   Mono-Alu/Torau
+                   4.2.5.12.4.   Mono-Alu/Torau (c19d300) (B.7)
                                  Mono-Alu
                                  Mono
                                  Alu
                                  Torau
                    4.2.5.12.5.   Choiseul
-                                 4.2.5.12.5.1. West Choiseul
+                                 4.2.5.12.5.1. West Choiseul (c6100fd) (B.7)
                                                Vaghua
                                                Varisi
-                                 4.2.5.12.5.2. East Choiseul
+                                 4.2.5.12.5.2. East Choiseul (s6100fd) (B.7)
                                                Avasö
                                                Babatana
                                                Katazi
                                                Ririo
                                                Sisiqa
-                   4.2.5.12.6.   New Georgia
+                   4.2.5.12.6.   New Georgia (cffff00) (B.7)
                                  Hoava
                                  Kubokota
                                  Kusaghe
@@ -371,7 +387,8 @@
                                  Simbo
                                  Ughele
                                  Vangunu
-                   4.2.5.12.7.   Isabel
+                                 New Georgia language (unspecified) (Haddon 1937: 104, 106)
+                   4.2.5.12.7.   Isabel (c00fffb) (B.7)
                                  Blablanga
                                  Kilokaka
                                  Gao
@@ -379,25 +396,27 @@
                                  Kokota
                                  Laghu
                                  Maringe
-5. Southeast Solomonic [SES] (Map B.8)
-  5.1. Guadalcanal-Gelic
-      5.1.1. Nggelic
+5. Southeast Solomonic [SES,PSES] (B.8)
+  5.1. Guadalcanal-Gelic [Proto Guadalcanal-Gelic]
+      5.1.1. Nggelic (cff1d21)
              Bugotu
              Gela
-      5.1.2. North and West Guadalcanal linkage
+      5.1.2. North and West Guadalcanal linkage (cf1b5cf)
              West Guadalcanal
              Gae
              Ghari
              Lengo
              Malango
-      5.1.3. Southeast Guadalcanal linkage
+      5.1.3. Southeast Guadalcanal linkage (c913d80)
              Birao
              Talise
              Malagheti
              Tolo
-  5.2. Malaita-Makira
-      5.2.1. Longgu
-      5.2.2. North and Central Malaita
+  5.2. Malaita-Makira [Proto Malaita-Makira]
+      5.2.1. Longgu (c19d300)
+            Longgu
+      5.2.2. North and Central Malaita (ca9c035)
+            North and Central Malaita
              Baegu
              Baelelea
              Fataleka
@@ -407,16 +426,16 @@
              Langalanga
              Lau
              To’aba’ita
-      5.2.3. ’Are’are-Oroha
+      5.2.3. ’Are’are-Oroha (c0e7400)
              ’Are’are
              Dori’o
              Marau Sound
              Oroha
-      5.2.4. Sa’a-Ulawa
+      5.2.4. Sa’a-Ulawa (c1100ff)
              Sa’a
              Uki ni Masi
              Ulawa
-      5.2.5. Makira
+      5.2.5. Makira (c4dbad8)
              Arosi
              Arosi (West)
              Bauro
@@ -425,117 +444,120 @@
               Owa
               Santa Ana
 
-6. Temotu [TM] (Map B.8)
+6. Temotu [TM] (B.8)
    6.1. Reefs and Santa Cruz
-       6.1.1. Äiwoo
-       6.1.2. Santa Cruz
+       6.1.1. Äiwoo (c8a33fd)
+             Äiwoo
+       6.1.2. Santa Cruz (cff6f00)
               Engdewo
               Nalögo
               Natügu
               Noipä
-   6.2. Utupua
+   6.2. Utupua (cffff00)
         Asuboa
         Nebao
         Tanibili
-   6.3. Vanikoro
+   6.3. Vanikoro (c00fffb)
         Buma
         Tanema
         Vano
 7. Southern Oceanic
-   7.1. North Vanuatu linkage (Map B.9)
-       7.1.1. Banks and Torres linkage
-              7.1.1.1. Torres Islands
+   7.1. North Vanuatu linkage [PNCV] (B.9)
+       7.1.1. Banks and Torres linkage [Proto Torres-Banks]
+              7.1.1.1. Torres Islands (ced62ff)
                        Hiw
                        Loh
                        Lo-Toga
               7.1.1.2. Banks Islands linkage
-                       7.1.1.2.1. Northern Banks Islands
+                       7.1.1.2.1. Northern Banks Islands (te31a1c)
                                   7.1.1.2.1.1. Ureparapara
                                                Lehali
                                                Löyöp
                                   7.1.1.2.1.2. Motalava
                                                Mwotlap
                                                Volow
-                       7.1.1.2.2. Western Banks
+                       7.1.1.2.2. Western Banks (se31a1c)
                                   Lemerig
                                  Vera’a
-                      7.1.1.2.3. .Central Banks
-                                 7.1.1.2.3.1 South Vanua Lava
+                      7.1.1.2.3. Central Banks (de31a1c)
+                                 7.1.1.2.3.1. South Vanua Lava
                                               Mwesen
                                               Vurës
-                                 7.1.1.2.3.2 Mota
-                      7.1.1.2.4. Southern Banks
-                                 7.1.1.2.4.1 Gaua linkage
+                                 7.1.1.2.3.2. Mota
+                                              Mota
+                      7.1.1.2.4. Southern Banks (ce31a1c)
+                                 7.1.1.2.4.1. Gaua linkage
                                               Dorig
                                               Lakon
                                               Nume
                                               Olrat
                                               South Gaua
                                  7.1.1.2.4.2. Merlav
+                                              Merlav
       7.1.2. Espiritu Santo linkage
-            7.1.2.1. Northwest Santo
+            7.1.2.1. Northwest Santo (c4996c6)
                      Tolomako
-                     7.1.2.1.1 Cape Cumberland linkage
+                     7.1.2.1.1. Cape Cumberland linkage
                                Nokuku
                                Piamatsina
                                Tasmate
                                Valpei
                                Vunapu
-            7.1.2.2 West Santo
+            7.1.2.2. West Santo (c00fffb)
                     Wusi
+                    Wusi (Nokovula)
                     Merei
-            7.1.2.3 Southwest Santo
+            7.1.2.3. Southwest Santo (c1100ff)
                     Akei
                     Kiai
                     Tangoa
-            7.1.2.4. South Santo Interior
+            7.1.2.4. South Santo Interior (cb5fcb5)
                      Morouas
                      Narango
-            7.1.2.5 East Santo
+            7.1.2.5. East Santo (c0e7400)
                     Tambotalo
-                    7.1.2.5.1 Sakao-Shark Bay
+                    7.1.2.5.1. Sakao-Shark Bay
                                Sakao
-                               Sara
                                Shark Bay
-           7.1.2.6 Southeast Santo
+           7.1.2.6. Southeast Santo (c19d300)
                    Aore
                    Araki
                    Mafea
                    Tamambo
                    Tutuba
-    7.1.3 Ambae/Maewo/North Pentecost
+    7.1.3. Ambae/Maewo/North Pentecost
         Ambae
-            7.1.3.1 Northeast Ambae
+            7.1.3.1. Northeast Ambae (cffff00)
                     Lolovoli
                     Lolsiwoi
                     Lombaha
                     Longana
-           7.1.3.2 West Ambae
+           7.1.3.2. West Ambae (sffff00)
+                    West Ambae
                    Nduindui
-           7.1.3.3 Maewo/North Pentecost
+           7.1.3.3. Maewo/North Pentecost (dffff00)
                 Maewo
                    Baetora
                    Raga
                    Sungwadaga
-7.2. Nuclear Southern Oceanic
-     7.2.1. Central Vanuatu linkage (Map B.10)
+7.2. Nuclear Southern Oceanic [PSOc]
+     7.2.1. Central Vanuatu linkage [Proto Central Vanuatu] (B.10)
             7.2.1.1. Malakula linkage
-                     7.2.1.1.1. Northern Malakula linkage
-                                Malua Bay
-                                7.2.1.1.1.1 North coast
+                     7.2.1.1.1. Northern Malakula linkage [Proto N Malakula]
+                                Malua Bay (ced62ff)
+                                7.2.1.1.1.1. North coast (cff007b)
                                        Nese
                                        Vao
                      7.2.1.1.2. Eastern Malakula linkage
-                                NE Malakula
-                                Atchin
-                                Rano
-                                Uripiv
-                                Wala
-                                Unua
-                                Aulua
-                                Banam Bay
-                                Rerep
-                                7.2.1.1.2..2.Southeast Malakula linkage
+                                NE Malakula (c4996c6)
+                                Atchin (c4996c6)
+                                Rano (c4996c6)
+                                Uripiv (c4996c6)
+                                Unua (c1100ff)
+                                Aulua (c1100ff)
+                                Banam Bay (c1100ff)
+                                Rerep (c1100ff)
+                                7.2.1.1.2.1.Southeast Malakula linkage (c87cafd)
                                        Avok
                                        Axamb
                                        Maskelynes
@@ -543,31 +565,31 @@
                                        Nisvai
                                        Port Sandwich
                     7.2.1.1.3. Western Malakula linkage
-                               7.2.1.1.3.1. Central-Western Malakula linkage
+                               7.2.1.1.3.1. Central-Western Malakula linkage [Proto CW Malakula] (c0e7400)
                                       Larëvat
                                       Naman
                                       Neve’ei
                                       Neverver
-                               7.2.1.1.3.2. Peripheral Western Malakula linkage
+                               7.2.1.1.3.2. Peripheral Western Malakula linkage (c19d300)
                                       Labo
                                       Nāti
-                                      7.2.1.1.3.2.1 Northwestern Malekula
+                                      7.2.1.1.3.2.1. Northwestern Malekula (ca9c035)
                                                Big Nambas
                                                Tirax
                                                Tape
-                                      7.2.1.1.3.2.1 Southwestern Malekula
+                                      7.2.1.1.3.2.2. Southwestern Malekula (cb5fcb5)
                                                Avava
                                                Lendamboi
                                                Naha’ai
                                                Nasarian
                                                Navwien
                                                Southwest Bay
-           7.2.1.2. Central and South Pentecost
+           7.2.1.2. Central and South Pentecost (cffff00)
                     Apma
                     Sa
                     Ske
                     Sowa
-           7.2.1.3. Ambrym/Paama
+           7.2.1.3. Ambrym/Paama (ce31a1c)
                     Daakaka
                     Lonwolwol
                     North Ambrym
@@ -579,7 +601,7 @@
                     Ambrym
                     Southeast Ambrym
                     West Ambrym
-           7.2.1.4. Epi/Efate
+           7.2.1.4. Epi/Efate [Proto Efate] (c00fffb)
                 Efate
                     Baki
                     Bierebo
@@ -593,25 +615,28 @@
               Sesake
               South Efate
 7.2.2. Southern Melanesian
-       7.2.2.1. South Vanuatu [SV] (Map B.11)
-                 7.2.2.1.1. Erromango
+       7.2.2.1. South Vanuatu [SV,PSV] (B.11)
+                 7.2.2.1.1. Erromango (c19d300)
                             Sye
                             Ura
                             Utaha
-                 7.2.2.1.2. Tanna
+                 7.2.2.1.2. Tanna [Proto Tanna] (c1100ff)
                             Kwamera
                             Lenakel
                             North Tanna
                             Southwest Tanna
                             Whitesands
-                 7.2.2.1.3. Aneityum
+                 7.2.2.1.3. Aneityum (ce31a1c)
                             Anejom̃
-       7.2.2.2. New Caledonia [NCal] (Map B.12)
-                 7.2.2.2.1. Dehu
-                 7.2.2.2.2. Iaai
-                 7.2.2.2.3. Nengone
-                 7.2.2.2.4. North New Caledonia
-                            7.2.2.2.4.1 North
+       7.2.2.2. New Caledonia [NCal,PNCal] (B.12)
+                 7.2.2.2.1. Dehu (c0e7400)
+                            Dehu
+                 7.2.2.2.2. Iaai (ced62ff)
+                            Iaai
+                 7.2.2.2.3. Nengone (cd37c7c)
+                            Nengone
+                 7.2.2.2.4. North New Caledonia [Proto North New Caledonia] (ce31a1c)
+                            7.2.2.2.4.1. North
                                         Belep
                                         Caaàc
                                         Fwâi
@@ -624,77 +649,90 @@
                                         Nyelâyu
                                         Pwaamei
                                         Yuanga
-                                        7.2.2.2.4.1.1 Voh-Koné
+                                        7.2.2.2.4.1.1. Voh-Koné
+                                               Voh-Koné
                                                Bwatoo
                                                           Wahmwaang
-                                       7.2.2.2.4.2 North Central
+                                       7.2.2.2.4.2. North Central (c00fffb)
                                                    Cèmuhî
                                                    Paicî
                             7.2.2.2.5. South New Caledonia
-                                       7.2.2.2.5.1 South Central
+                                       7.2.2.2.5.1. South Central (c8a33fd)
                                                    Ajië
                                                    Arhâ
                                                    Ôrôe
-                                       7.2.2.2.5.2 South
+                                       7.2.2.2.5.2. South (c19d300)
                                                    Tîrî
                                                    Xârâcùù
                                                    Xârâgurè
-                                       7.2.2.2.5.3 Extreme South
+                                       7.2.2.2.5.3. Extreme South (cffff00)
                                                    Drubea
                                                    Kwênyii
                                                    Numèè
-8. Micronesian [Mic] (Map B.13)
-    8.1. Nauruan
-    8.2. Nuclear Micronesian
-          8.2.1. Kosraean
-          8.2.2. Central Micronesian
-                 8.2.2.1. Kiribati
-                 8.2.2.2. Western Micronesian
-                          8.2.2.2.1. Marshallese
-                          8.2.2.2.2. Chuukic-Ponapeic
-                                     8.2.2.2.2.1. Ponapeic
+8. Micronesian [Mic,PGMic] (B.13)
+    8.1. Nauruan (c6100fd)
+        Nauruan
+    8.2. Nuclear Micronesian [PMic]
+          8.2.1. Kosraean (c00fffb)
+                  Kosraean
+          8.2.2. Central Micronesian [Proto Central Micronesian]
+                 8.2.2.1. Kiribati (c19d300)
+                         Kiribati
+                 8.2.2.2. Western Micronesian [PWMic]
+                          8.2.2.2.1. Marshallese (cffff00)
+                                     Marshallese
+                          8.2.2.2.2. Chuukic-Ponapeic [Proto Chuukic-Ponapeic]
+                                     8.2.2.2.2.1. Ponapeic (c0e7400)
                                                   Mokilese
                                                   Ponapean
                                                   Pingelapese
-                                     8.2.2.2.2.2. Chuukic
-                                                  Pulo Annian
-                                                  Sonsorolese
-                                                  Ulithian
-                                                  Woleaian
-                                                  Lamotrek
-                                                      8.2.2.2.2.2.1. East Chuukic
+                                     8.2.2.2.2.2. Chuukic [PChk]
+                                                  Pulo Annian (cff1d21)
+                                                  Sonsorolese (cff1d21)
+                                                  Ulithian (cff1d21)
+                                                  Woleaian (cff1d21)
+                                                  Lamotrek (cff1d21)
+                                                      8.2.2.2.2.2.1. East Chuukic (ced62ff)
                                                                      Chuukese
                                                                      Mortlockese
                                                                      Namoluk
                                                                      Puluwatese
-                                                      8.2.2.2.2.2.2. Central Chuukic
+                                                      8.2.2.2.2.2.2. Central Chuukic (cf1b5cf)
                                                                      Carolinian
-                                                                     Carolinian
+                                                                     Carolinian (Tanapag)
                                                                      Satawalese
-9. Central Pacific [Fij and Pn]
-    9.1. Rotuman (Map B.15)
-    9.2. Fijian6 (Map B.14)
-          9.2.1. Western Fijian dialects
+9. Central Pacific [Fij and Pn,PCP]
+    9.1. Rotuman (B.15) (cffffff)
+         Rotuman
+    9.2. Fijian [Fij,PFij] (B.14)
+          9.2.1. Western Fijian dialects (ce31a1c)
+                 Western Fijian dialects
                  Bā
                  Deuba
                  Macuata
+                 Nadi
                  Nadrogā
                  Tavua
                  Tavuki
                  Tokatoka
+                 Lautoka
                  Vuda
                  Wayan
                  West Viti Levu
                  Yasawa
-          9.2.2. Eastern Fijian dialects
+                 (many dialects)
+                 (dialect unknown)
+          9.2.2. Eastern Fijian dialects [Proto E Fijian] (c1100ff)
+                 Eastern Fijian dialects
                  Bauan
                  Boumā
                  Bua
+                 Bau
                  Buca Bay
                  Cakaudrove
                  Kadavu
                  Lakeba
-                 Lau
+                 Lau (Eastern Fijian)
                  Lomaiviti
             Matailobau
             Moala
@@ -707,45 +745,46 @@
             Verata
             Vanua Levu
             Wailevu
-  9.3. Polynesian [Pn] (Map B.15)
-      9.3.1. Tongic
+  9.3. Polynesian [Pn,PPn] (B.15)
+      9.3.1. Tongic [Proto Tongic] (ce31a1c)
              Niuean
              Niuatoputapu
              Tongan
-      9.3.2. Nuclear Polynesian [NPn]
-             East Uvean
-             East Futunan
-             Nanumea
-             Niuafo’ou
-             Pukapukan
-             Samoan
-             Tokelauan
-             Tuvalu
-            9.3.2.1 Vanuatu/Loyalties Outliers
+      9.3.2. Nuclear Polynesian [NPn,PNPn]
+             East Uvean (c8a33fd)
+             East Futunan (c8a33fd)
+             Nanumea (c8a33fd)
+             Niuafo’ou (c8a33fd)
+             Pukapukan (c8a33fd)
+             Samoan (c8a33fd)
+             Tokelauan (c8a33fd)
+             Tuvalu (c8a33fd)
+            9.3.2.1. Vanuatu/Loyalties Outliers (c1100ff)
                Aniwa
                Emae
                Ifira-Mele
                West Futunan
                West Uvea
             9.3.2.2. Southern Solomons Outliers + Eastern Polynesian
-                      9.3.2.2.1. Southern Solomons Outliers
+                      9.3.2.2.1. Southern Solomons Outliers (c4996c6)
                                  Anutan
                                  Rennellese
                                  Bellona
                                  Pileni
                                  Tikopia
-                      9.3.2.2.2. Northern Outliers + Eastern Polynesian
-                                 9.3.2.2.2.1. Carolinian Outliers
+                      9.3.2.2.2. Northern Outliers + Eastern Polynesian [PEPn-Northern Outlier]
+                                 9.3.2.2.2.1. Carolinian Outliers (c0e7400)
                                               Kapingamarangi
                                                Nukuoro
                      9.3.2.2.2.2. Northern Solomons Outliers + E Polynesian
-                        9.3.2.2.2.2.1. Northern Solomons Outliers
+                        9.3.2.2.2.2.1. Northern Solomons Outliers (c19d300)
                                                Luangiua
                                                Nukumanu
                                                Nukuria
                                                Takuu
-                        9.3.2.2.2.2.2. Sikaiana
-                        9.3.2.2.2.2.3. Eastern Polynesian [EPn]
+                        9.3.2.2.2.2.2. Sikaiana (cb5fcb5)
+                                       Sikaiana
+                        9.3.2.2.2.2.3. Eastern Polynesian [EPn,PEPn] (cffff00)
                                    Hawaiian
                                    Mangaia
                                    Mangarevan

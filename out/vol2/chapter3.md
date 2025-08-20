@@ -148,7 +148,7 @@ Reflexes of both POc _&ast;panua_ ([vol.1,62](../contributions/1-3#p-62)) and _&
 <td>'<span>land, the earth, world; weather</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>hanua</i></td>
+<td>SES</td><td><a href="../languages/areare">’Are’are</a></td><td style="white-space: nowrap;"><i>hanua</i></td>
 <td>'<span>land, country, village place, country; the area where a person lives, where his possessions are</span>'</td>
 </tr>
 <tr>
@@ -215,14 +215,14 @@ cf. also: Examples of phrasal expressions containing reflexes of _&ast;panua_
 </tr>
 <tr>
 <td>SES</td>
-<td><a href="../languages/saa">Sa'a</a></td>
+<td><a href="../languages/saa">Sa’a</a></td>
 <td style="white-space: nowrap;"><i>henue hū</i></td>
 <td>
 '<span>solid land, dry land, heritage</span>'</td>
 </tr>
 <tr>
 <td>SES</td>
-<td><a href="../languages/saa">Sa'a</a></td>
+<td><a href="../languages/saa">Sa’a</a></td>
 <td style="white-space: nowrap;"><i>tolona henue</i></td>
 <td>
 '<span>hill country</span>'</td>
@@ -375,7 +375,7 @@ POc _&ast;tanoq_ ‘earth, ground, soil; land’ has already been reconstructed 
 <td>'<span>earth, ground</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>ano</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa’a</a></td><td style="white-space: nowrap;"><i>ano</i></td>
 <td>'<span>ground, garden ground</span>'</td>
 </tr>
 <tr>
@@ -399,7 +399,7 @@ POc _&ast;tanoq_ ‘earth, ground, soil; land’ has already been reconstructed 
 <td>'<span>earth, ground</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>tano</i></td>
+<td>Mic</td><td><a href="../languages/kiribati">Kiribati</a></td><td style="white-space: nowrap;"><i>tano</i></td>
 <td>'<span>earth, ground, soil</span>'</td>
 </tr>
 <tr>
@@ -440,7 +440,7 @@ cf. also: Certain conventional phrases, such as the following, indicate the sema
 </tr>
 <tr>
 <td>SES</td>
-<td><a href="../languages/saa">Sa'a</a></td>
+<td><a href="../languages/saa">Sa’a</a></td>
 <td style="white-space: nowrap;"><i>ano hū</i></td>
 <td>
 '<span>land as opposed to sea</span>'</td>
@@ -595,7 +595,7 @@ The primary role of _&ast;motus_ in POc appears to have been as a stative verb, 
 <td>'<span>island</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>mou</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa’a</a></td><td style="white-space: nowrap;"><i>mou</i></td>
 <td>'<span>be broken off</span>' (<span><em>malau mou</em> ‘an islet’, <em>hau mou</em> ‘an isolated rock’</span>)</td>
 </tr>
 <tr>
@@ -753,7 +753,7 @@ Although the next reconstructed form is traceable back to PMP as a verb, its use
 <td>'<span>group of islands, archipelago</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/nanumean">Nanumean</a></td><td style="white-space: nowrap;"><i>atu</i></td>
+<td>Pn</td><td><a href="../languages/nanumean">Nanumea</a></td><td style="white-space: nowrap;"><i>atu</i></td>
 <td>'<span>group or chain of islands</span>' (<span><em>atu fenua elise</em> ‘the whole Ellice group’, <em>atu paipai</em> ‘the whole world’</span>)</td>
 </tr>
 </table>
@@ -800,7 +800,7 @@ Two POc reconstructions can be made for ‘beach’. One, _&ast;qone_, seems pri
 <td>'<span>sand, sandy beach</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>bike</i></td>
+<td>Mic</td><td><a href="../languages/kiribati">Kiribati</a></td><td style="white-space: nowrap;"><i>bike</i></td>
 <td>'<span>beach, sand, sand bank, sandy soil</span>'</td>
 </tr>
 <tr>
@@ -857,7 +857,7 @@ cf. also: the following Huon Gulf terms:
 </tr>
 <tr>
 <td>NNG</td>
-<td><a href="../languages/misim">Hote (Misim)</a></td>
+<td><a href="../languages/misim">Misim</a></td>
 <td style="white-space: nowrap;"><i>ɣek</i></td>
 <td>
 '<span>sea</span>'</td>
@@ -1006,7 +1006,7 @@ The reconstruction below, PEOc _&ast;liku_, is glossed ‘windward side’, but 
 <td>'<span>ocean side of; outside</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>(āi)niku</i></td>
+<td>Mic</td><td><a href="../languages/kiribati">Kiribati</a></td><td style="white-space: nowrap;"><i>(āi)niku</i></td>
 <td>'<span>ocean side of coral islands</span>'</td>
 </tr>
 <tr>
@@ -1074,7 +1074,7 @@ The gloss of our next reconstruction, POc _&ast;tobʷa_ is soundly based for PEO
 <td>'<span>bay, harbour; belly, stomach</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/tench">Tench</a></td><td style="white-space: nowrap;"><i>tova</i></td>
+<td>Adm</td><td><a href="../languages/tenis">Tenis</a></td><td style="white-space: nowrap;"><i>tova</i></td>
 <td>'<span>belly</span>'</td>
 </tr>
 <tr>
@@ -1097,7 +1097,7 @@ The gloss of our next reconstruction, POc _&ast;tobʷa_ is soundly based for PEO
 <td>'<span>abdomen, belly</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>apʷa-apʷa</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa’a</a></td><td style="white-space: nowrap;"><i>apʷa-apʷa</i></td>
 <td>'<span>bay, indentation in coast</span>'</td>
 </tr>
 <tr>
@@ -1396,7 +1396,7 @@ Reflexes of the next item, POc _&ast;ŋoro-ŋorok_ with the gloss ‘cape’ are
 <td>'<span>nose; point, headland, cape</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>ŋora-ŋora</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa’a</a></td><td style="white-space: nowrap;"><i>ŋora-ŋora</i></td>
 <td>'<span>cape</span>'</td>
 </tr>
 <tr>
@@ -1467,7 +1467,7 @@ Reflexes of the next item, POc _&ast;ŋoro-ŋorok_ with the gloss ‘cape’ are
 <td>'<span>nose</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/nmalaitan">N Malaitan</a></td><td style="white-space: nowrap;"><i>ŋo-ŋoro-</i></td>
+<td>SES</td><td><a href="../languages/nmalaitan">North and Central Malaita</a></td><td style="white-space: nowrap;"><i>ŋo-ŋoro-</i></td>
 <td>'<span>nose</span>'</td>
 </tr>
 </table>
@@ -1489,7 +1489,7 @@ The final reconstruction, PEOc _&ast;mata_ ‘point of land, headland’ is evid
 <td>'<span>point of the mainland (= south)</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td><a href="../languages/nelemwa">Nêlêmwâ</a></td><td style="white-space: nowrap;"><i>mā(wamʷa)</i></td>
+<td>NCal</td><td><a href="../languages/nelemwa">Nêlêmwa</a></td><td style="white-space: nowrap;"><i>mā(wamʷa)</i></td>
 <td>'<span>point of the mainland (= south)</span>'</td>
 </tr>
 <tr>
@@ -1646,7 +1646,7 @@ Even quite small islands can be dominated by high peaks. While a number of peaks
 <td>'<span>mountains, mountainous</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>tolo</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa’a</a></td><td style="white-space: nowrap;"><i>tolo</i></td>
 <td>'<span>hill</span>'</td>
 </tr>
 <tr>
@@ -1780,7 +1780,7 @@ Even quite small islands can be dominated by high peaks. While a number of peaks
 <td>'<span>boil, lump, corner</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td><a href="../languages/nelemwa">Nêlêmwâ</a></td><td style="white-space: nowrap;"><i>bū-</i></td>
+<td>NCal</td><td><a href="../languages/nelemwa">Nêlêmwa</a></td><td style="white-space: nowrap;"><i>bū-</i></td>
 <td>'<span>mound, hillock</span>'</td>
 </tr>
 <tr>
@@ -1822,7 +1822,7 @@ Reflexes of _&ast;pʷotu_ refer consistently to ‘mountain’ only in MM langua
 <td>'<span>mountain</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/karawest">Kara (West)</a></td><td style="white-space: nowrap;"><i>fut</i></td>
+<td>MM</td><td><a href="../languages/karawest">West Kara</a></td><td style="white-space: nowrap;"><i>fut</i></td>
 <td>'<span>mountain</span>'</td>
 </tr>
 <tr>
@@ -1926,7 +1926,7 @@ Note also the following PEOc reconstruction:
 <td>'<span>headland, mountain peak</span>' (<span>POc &ast;qulu ‘head’, ni ‘of’, &ast;panua ‘land’</span>)</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td style="white-space: nowrap;"><i>wɨɾɨ-ɾ fəɾɨ </i></td>
+<td>Mic</td><td><a href="../languages/chuukese">Chuukese</a></td><td style="white-space: nowrap;"><i>wɨɾɨ-ɾ fəɾɨ </i></td>
 <td>'<span>cape, point (of an island)</span>'</td>
 </tr>
 <tr>
@@ -2041,7 +2041,7 @@ We have included two POc reconstructions glossed ‘valley’, although the seco
 <td>'<span>valley</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>tari</i></td>
+<td>SES</td><td><a href="../languages/areare">’Are’are</a></td><td style="white-space: nowrap;"><i>tari</i></td>
 <td>'<span>valley</span>'</td>
 </tr>
 </table>
@@ -2504,7 +2504,7 @@ The next POc reconstruction contrasts with _&ast;quma_ ‘garden, cultivated lan
 <td>'<span>garden ground, last year’s garden</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>elu</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa’a</a></td><td style="white-space: nowrap;"><i>elu</i></td>
 <td>'<span>last year’s yam garden</span>'</td>
 </tr>
 <tr>
@@ -2582,7 +2582,7 @@ A number of reconstructions are loosely glossed ‘swamp’. In wordlists these 
 <td>'<span>swamp</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>ro-rono</i></td>
+<td>SES</td><td><a href="../languages/areare">’Are’are</a></td><td style="white-space: nowrap;"><i>ro-rono</i></td>
 <td>'<span>mangrove swamp</span>'</td>
 </tr>
 <tr>
@@ -2622,7 +2622,7 @@ A number of reconstructions are loosely glossed ‘swamp’. In wordlists these 
 <td>'<span>swamp</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/mangareva">Mangareva</a></td><td style="white-space: nowrap;"><i>rano</i></td>
+<td>Pn</td><td><a href="../languages/mangareva">Mangarevan</a></td><td style="white-space: nowrap;"><i>rano</i></td>
 <td>'<span>swamp</span>'</td>
 </tr>
 </table>
@@ -2715,7 +2715,7 @@ The next term is reconstructable in two forms, as either _&ast;gopu_ or _&ast;ko
 <td>'<span>brackish water</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>(a)kohu</i></td>
+<td>SES</td><td><a href="../languages/areare">’Are’are</a></td><td style="white-space: nowrap;"><i>(a)kohu</i></td>
 <td>'<span>swamp, swampy ground</span>'</td>
 </tr>
 <tr>
@@ -2767,7 +2767,7 @@ In the next two sets, emphasis is perhaps on the mud itself rather than on a mud
 <td>'<span>mud</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>pʷī-pʷī</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa’a</a></td><td style="white-space: nowrap;"><i>pʷī-pʷī</i></td>
 <td>'<span>mud, slush</span>'</td>
 </tr>
 </table>
@@ -2803,7 +2803,7 @@ In the next two sets, emphasis is perhaps on the mud itself rather than on a mud
 <td>'<span>mud</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>pona</i></td>
+<td>SES</td><td><a href="../languages/areare">’Are’are</a></td><td style="white-space: nowrap;"><i>pona</i></td>
 <td>'<span>swamp, swampy ground</span>'</td>
 </tr>
 </table>
@@ -2833,7 +2833,7 @@ The final two reconstructed forms in this section probably referred to wet taro 
 <td>'<span>irrigated taro field</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td><a href="../languages/pwapwa">Pwapwa</a></td><td style="white-space: nowrap;"><i>gʷala</i></td>
+<td>NCal</td><td><a href="../languages/pwapwa">Pwapwâ</a></td><td style="white-space: nowrap;"><i>gʷala</i></td>
 <td>'<span>irrigated taro field</span>'</td>
 </tr>
 <tr>
@@ -2969,11 +2969,11 @@ In POc a single word, _&ast;waiR_, evidently denoted both ‘fresh water’ and 
 <td>'<span>river; water</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>wai</i></td>
+<td>SES</td><td><a href="../languages/areare">’Are’are</a></td><td style="white-space: nowrap;"><i>wai</i></td>
 <td>'<span>fresh water; moisture, sap, juice; river</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>wei</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa’a</a></td><td style="white-space: nowrap;"><i>wei</i></td>
 <td>'<span>fresh water; stream, river</span>'</td>
 </tr>
 <tr>
@@ -3185,7 +3185,7 @@ We have one lower-level reconstruction for a river branch.
 <td>'<span>V-shaped bend where a tributary meets the main stream</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>mʷāŋa</i></td>
+<td>Mic</td><td><a href="../languages/kiribati">Kiribati</a></td><td style="white-space: nowrap;"><i>mʷāŋa</i></td>
 <td>'<span>branching off, branch road, limb of a tree</span>'</td>
 </tr>
 <tr>
@@ -3253,19 +3253,19 @@ For coastal dwellers, fresh water is often obtained from springs. PAn _&ast;Cebu
 <td>'<span>spring, flowing stream</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>ohu-ohu(a)</i></td>
+<td>SES</td><td><a href="../languages/areare">’Are’are</a></td><td style="white-space: nowrap;"><i>ohu-ohu(a)</i></td>
 <td>'<span>brackish water</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>uhu</i></td>
+<td>SES</td><td><a href="../languages/areare">’Are’are</a></td><td style="white-space: nowrap;"><i>uhu</i></td>
 <td>'<span>a backwater, brackish water; spring of fresh water on the sea shore</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>(mara)ohu</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa’a</a></td><td style="white-space: nowrap;"><i>(mara)ohu</i></td>
 <td>'<span>pool with salt and fresh water mixed</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>uhu</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa’a</a></td><td style="white-space: nowrap;"><i>uhu</i></td>
 <td>'<span>backwater, brackish water</span>'</td>
 </tr>
 <tr>
@@ -3588,7 +3588,7 @@ The following reconstruction, POc _&ast;sa[p,b]u(q)_, is used both as a verb ‘
 <td>'<span>waterfall</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/fortsenal">Fortsenal</a></td><td style="white-space: nowrap;"><i>sevu</i></td>
+<td>NCV</td><td><a href="../languages/kiai">Kiai</a></td><td style="white-space: nowrap;"><i>sevu</i></td>
 <td>'<span>waterfall</span>'</td>
 </tr>
 <tr>
@@ -3733,11 +3733,11 @@ The generic term for ‘stone’ or ‘rock’ was POc _&ast;patu_.
 <td>'<span>stone, rock</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>hau</i></td>
+<td>SES</td><td><a href="../languages/areare">’Are’are</a></td><td style="white-space: nowrap;"><i>hau</i></td>
 <td>'<span>stone, rock</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>heu</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa’a</a></td><td style="white-space: nowrap;"><i>heu</i></td>
 <td>'<span>stone, rock</span>'</td>
 </tr>
 <tr>
@@ -3777,7 +3777,7 @@ The generic term for ‘stone’ or ‘rock’ was POc _&ast;patu_.
 <td>'<span>stone, rock</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>ati-</i></td>
+<td>Mic</td><td><a href="../languages/kiribati">Kiribati</a></td><td style="white-space: nowrap;"><i>ati-</i></td>
 <td>'<span>prefix for stone, rocks in compounds</span>'</td>
 </tr>
 <tr>
@@ -4015,7 +4015,7 @@ Dead coral was evidently valued as coral rubble (POc _&ast;giri-giri_), and as a
 <td>'<span>coral, broken</span>' (<span><em>gili</em> ‘coral’</span>)</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/suaudaui">Suau (Daui)</a></td><td style="white-space: nowrap;"><i>gili</i></td>
+<td>PT</td><td><a href="../languages/suau">Suau</a></td><td style="white-space: nowrap;"><i>gili</i></td>
 <td>'<span>coral</span>'</td>
 </tr>
 <tr>
@@ -4129,7 +4129,7 @@ The chewing of betel nut, combined with lime and pepper as a stimulant, is wides
 <td>'<span>lime, burnt coral or limestone</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>sahu</i></td>
+<td>SES</td><td><a href="../languages/areare">’Are’are</a></td><td style="white-space: nowrap;"><i>sahu</i></td>
 <td>'<span>lime, burnt coral or limestone</span>'</td>
 </tr>
 <tr>
@@ -4168,7 +4168,7 @@ Pumice is a porous solidified lava that floats and is also useful as an abrasive
 <td>'<span>pumice</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>hau manu-manu </i></td>
+<td>SES</td><td><a href="../languages/areare">’Are’are</a></td><td style="white-space: nowrap;"><i>hau manu-manu </i></td>
 <td>'<span>pumice</span>'</td>
 </tr>
 <tr>
@@ -4201,7 +4201,7 @@ Proto Micronesian had its own term for pumice, probably preposed by _&ast;fatu_ 
 </td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>wān</i></td>
+<td>Mic</td><td><a href="../languages/kiribati">Kiribati</a></td><td style="white-space: nowrap;"><i>wān</i></td>
 <td>'<span>pumice</span>'</td>
 </tr>
 <tr>
@@ -4255,7 +4255,7 @@ A distinctive term, PCP _&ast;vuqa(i)ŋa_, is reflected in Fijian and Polynesian
 <td>'<span>pumice</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/mangareva">Mangareva</a></td><td style="white-space: nowrap;"><i>hoaŋa</i></td>
+<td>Pn</td><td><a href="../languages/mangareva">Mangarevan</a></td><td style="white-space: nowrap;"><i>hoaŋa</i></td>
 <td>'<span>volcanic stone used as hone or sharpener</span>'</td>
 </tr>
 <tr>
@@ -4335,7 +4335,7 @@ There is a well-attested POc term for ‘sand’ which continues a PAn etymon (s
 <td>'<span>sand</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>ōne</i></td>
+<td>SES</td><td><a href="../languages/areare">’Are’are</a></td><td style="white-space: nowrap;"><i>ōne</i></td>
 <td>'<span>sand, beach sand, beach</span>'</td>
 </tr>
 <tr>
@@ -4347,7 +4347,7 @@ There is a well-attested POc term for ‘sand’ which continues a PAn etymon (s
 <td>'<span>sand; beach</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>one</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa’a</a></td><td style="white-space: nowrap;"><i>one</i></td>
 <td>'<span>sand</span>'</td>
 </tr>
 <tr>
@@ -4367,7 +4367,7 @@ There is a well-attested POc term for ‘sand’ which continues a PAn etymon (s
 <td>'<span>sand</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td><a href="../languages/nelemwa">Nêlêmwâ</a></td><td style="white-space: nowrap;"><i>on</i></td>
+<td>NCal</td><td><a href="../languages/nelemwa">Nêlêmwa</a></td><td style="white-space: nowrap;"><i>on</i></td>
 <td>'<span>sand</span>'</td>
 </tr>
 <tr>
@@ -4379,7 +4379,7 @@ There is a well-attested POc term for ‘sand’ which continues a PAn etymon (s
 <td>'<span>sand</span>' (<span>in compounds</span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/nanumean">Nanumean</a></td><td style="white-space: nowrap;"><i>one</i></td>
+<td>Pn</td><td><a href="../languages/nanumean">Nanumea</a></td><td style="white-space: nowrap;"><i>one</i></td>
 <td>'<span>sand, soil</span>'</td>
 </tr>
 <tr>
@@ -4502,7 +4502,7 @@ Some soils contained pigments useful in both body and pot decoration. Although v
 <td>'<span>ground, down, land</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/poeng">Poeng</a></td><td style="white-space: nowrap;"><i>pae</i></td>
+<td>NNG</td><td><a href="../languages/mengen">Mengen</a></td><td style="white-space: nowrap;"><i>pae</i></td>
 <td>'<span>soil used to blacken teeth</span>'</td>
 </tr>
 <tr>
@@ -4522,7 +4522,7 @@ Some soils contained pigments useful in both body and pot decoration. Although v
 <td>'<span>dust</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>pʷei(nā)</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa’a</a></td><td style="white-space: nowrap;"><i>pʷei(nā)</i></td>
 <td>'<span>the garden ground just above the beach</span>'</td>
 </tr>
 </table>
@@ -4927,7 +4927,7 @@ The PAn name for fire, _&ast;Sapuy_, is among the more stable terms in the lexic
 <td>'<span>fire</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>ai</i></td>
+<td>Mic</td><td><a href="../languages/kiribati">Kiribati</a></td><td style="white-space: nowrap;"><i>ai</i></td>
 <td>'<span>fire</span>'</td>
 </tr>
 <tr>
@@ -5004,7 +5004,7 @@ Blust (ACD) reconstructs PMP _&ast;luten_ ‘firewood’ based on WMP: LongWat _
 <td>'<span>firewood</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/motlav">Motlav</a></td><td style="white-space: nowrap;"><i>na-let</i></td>
+<td>NCV</td><td><a href="../languages/mwotlap">Mwotlap</a></td><td style="white-space: nowrap;"><i>na-let</i></td>
 <td>'<span>firewood</span>'</td>
 </tr>
 <tr>
@@ -5085,15 +5085,15 @@ It appears that most Oceanic languages use a single term to refer to both ‘hot
 <td>'<span>scorched</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>kora</i></td>
+<td>SES</td><td><a href="../languages/areare">’Are’are</a></td><td style="white-space: nowrap;"><i>kora</i></td>
 <td>'<span>charcoal, embers, ash</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>ora</i></td>
+<td>SES</td><td><a href="../languages/areare">’Are’are</a></td><td style="white-space: nowrap;"><i>ora</i></td>
 <td>'<span>fireplace</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>ʔora-ʔora</i></td>
+<td>SES</td><td><a href="../languages/areare">’Are’are</a></td><td style="white-space: nowrap;"><i>ʔora-ʔora</i></td>
 <td>'<span>dust, ashes</span>'</td>
 </tr>
 <tr>
@@ -5198,7 +5198,7 @@ Charcoal is likely to have been distinctively named in Proto Oceanic. Carbonised
 <td>'<span>charcoal</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>marara</i></td>
+<td>Mic</td><td><a href="../languages/kiribati">Kiribati</a></td><td style="white-space: nowrap;"><i>marara</i></td>
 <td>'<span>charcoal</span>'</td>
 </tr>
 <tr>
@@ -5243,7 +5243,7 @@ cf. also:
 <table>
 <tr>
 <td>MM</td>
-<td><a href="../languages/bareke">Bareke</a></td>
+<td><a href="../languages/bareke">Mbareke</a></td>
 <td style="white-space: nowrap;"><i>ŋgalala</i></td>
 <td>
 '<span>flame</span>'</td>
@@ -5511,7 +5511,7 @@ However, many Western Oceanic languages have forms that point to a form _&ast;ka
 <td>'<span>ashes</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/ghanongga">Ghanongga</a></td><td style="white-space: nowrap;"><i>kau</i></td>
+<td>MM</td><td><a href="../languages/kubukota">Kubokota</a></td><td style="white-space: nowrap;"><i>kau</i></td>
 <td>'<span>ashes</span>'</td>
 </tr>
 <tr>
@@ -5571,7 +5571,7 @@ A number of terms for the general process of burning or being on fire can be rec
 <td>'<span>fire, firewood</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/makura">Makura</a></td><td style="white-space: nowrap;"><i>(na)kam</i></td>
+<td>NCV</td><td><a href="../languages/namakir">Namakir</a></td><td style="white-space: nowrap;"><i>(na)kam</i></td>
 <td>'<span>fire</span>'</td>
 </tr>
 <tr>
@@ -5747,11 +5747,11 @@ cf. also:
 <td>'<span>fire</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>ura</i></td>
+<td>Mic</td><td><a href="../languages/kiribati">Kiribati</a></td><td style="white-space: nowrap;"><i>ura</i></td>
 <td>(&#105;) '<span>flame</span>'; (&#105;i) '<span>passion</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>ura maka</i></td>
+<td>Mic</td><td><a href="../languages/kiribati">Kiribati</a></td><td style="white-space: nowrap;"><i>ura maka</i></td>
 <td>'<span>flaming, blazing</span>'</td>
 </tr>
 <tr>
@@ -5856,7 +5856,7 @@ POc, like some of its daughter languages, seems to have distinct terms for smoke
 <td>'<span>smoke</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>rasu</i></td>
+<td>SES</td><td><a href="../languages/areare">’Are’are</a></td><td style="white-space: nowrap;"><i>rasu</i></td>
 <td>'<span>smoke</span>'</td>
 </tr>
 <tr>
@@ -6045,11 +6045,11 @@ Widely scattered languages use a reflex of POc _&ast;maya_ ‘tongue’ (either 
 <td>'<span>flame</span>' (<span>lit. ‘tongue of fire’</span>)</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>mea, mea-mea(hana hunge)</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa’a</a></td><td style="white-space: nowrap;"><i>mea, mea-mea(hana hunge)</i></td>
 <td>'<span>flame</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>mea</i></td>
+<td>SES</td><td><a href="../languages/areare">’Are’are</a></td><td style="white-space: nowrap;"><i>mea</i></td>
 <td>'<span>spark</span>'</td>
 </tr>
 <tr>
@@ -6132,7 +6132,7 @@ cf. also: the following, where there is semantic correspondence even though one 
 <td>'<span>sparks</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/ghanongga">Ghanongga</a></td><td style="white-space: nowrap;"><i>vuru-vuruŋu</i></td>
+<td>MM</td><td><a href="../languages/kubukota">Kubokota</a></td><td style="white-space: nowrap;"><i>vuru-vuruŋu</i></td>
 <td>'<span>flame</span>'</td>
 </tr>
 <tr>
@@ -6180,7 +6180,7 @@ There are several cognate sets pointing to PEOc forms denoting burning with a pa
 <td>'<span>flame</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>maka</i></td>
+<td>Mic</td><td><a href="../languages/kiribati">Kiribati</a></td><td style="white-space: nowrap;"><i>maka</i></td>
 <td>'<span>power, force, ardour</span>'</td>
 </tr>
 <tr>
@@ -6230,7 +6230,7 @@ cf. also:
 <td>'<span>burn with glow</span>' (<span>cf. &ast;kalo-kalo ‘glimmer’</span>)</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>mʷākaro</i></td>
+<td>Mic</td><td><a href="../languages/kiribati">Kiribati</a></td><td style="white-space: nowrap;"><i>mʷākaro</i></td>
 <td>'<span>embers, live coals, charoal; burning without flames</span>'</td>
 </tr>
 <tr>
@@ -6277,7 +6277,7 @@ cf. also:
 <td>'<span>glimmer</span>' (<span>cf. <em>&ast;makalo</em> ‘burn with glow’</span>)</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>-karo-karo</i></td>
+<td>Mic</td><td><a href="../languages/kiribati">Kiribati</a></td><td style="white-space: nowrap;"><i>-karo-karo</i></td>
 <td> (<span>base in 3 words, all meaning ‘glimmer, glow’</span>)</td>
 </tr>
 <tr>
@@ -6606,11 +6606,11 @@ In a number of northwest and southeast Solomons languages, the term for earthqua
 <td>'<span>shake; earthquake</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>nu-nunu</i></td>
+<td>SES</td><td><a href="../languages/areare">’Are’are</a></td><td style="white-space: nowrap;"><i>nu-nunu</i></td>
 <td>'<span>earthquake</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>nunu</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa’a</a></td><td style="white-space: nowrap;"><i>nunu</i></td>
 <td>'<span>earthquake</span>'</td>
 </tr>
 <tr>
@@ -6661,11 +6661,11 @@ In a number of northwest and southeast Solomons languages, the term for earthqua
 <td>'<span>shake, jostle, knock down by shaking</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>anu(i)</i></td>
+<td>SES</td><td><a href="../languages/areare">’Are’are</a></td><td style="white-space: nowrap;"><i>anu(i)</i></td>
 <td>'<span>shake, move</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>enu, enu-enu</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa’a</a></td><td style="white-space: nowrap;"><i>enu, enu-enu</i></td>
 <td>'<span>be loose, unstable</span>'</td>
 </tr>
 <tr>
@@ -6982,7 +6982,7 @@ A PMP term for ‘flood’ (V and N) is continued in two known Oceanic witnesses
 </td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>(lua) hā</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa’a</a></td><td style="white-space: nowrap;"><i>(lua) hā</i></td>
 <td>'<span>high spring tide</span>'</td>
 </tr>
 <tr>
@@ -7124,7 +7124,7 @@ Flooding for coastal dwellers on small Oceanic islands is likely to be the resul
 <td>'<span>flooded as by large waves</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/westuvean">West Uvean</a></td><td style="white-space: nowrap;"><i>lo-loma</i></td>
+<td>Pn</td><td><a href="../languages/westuvean">West Uvea</a></td><td style="white-space: nowrap;"><i>lo-loma</i></td>
 <td>'<span>sea flood, tide</span>'</td>
 </tr>
 <tr>

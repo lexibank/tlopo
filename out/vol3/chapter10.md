@@ -151,7 +151,7 @@ POc _&ast;wasa_ primarily denoted _Abelmoschus manihot_, evidently the most sali
 <td>'<span><em>Abelmoschus manihot</em></span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>bere</i></td>
+<td>Mic</td><td><a href="../languages/kiribati">Kiribati</a></td><td style="white-space: nowrap;"><i>bere</i></td>
 <td>'<span><em>Abelmoschus manihot</em></span>' (<span>Polynesian borrowing?</span>)</td>
 </tr>
 <tr>
@@ -201,7 +201,7 @@ Two terms for _Abelmoschus manihot_ can be reconstructed in lower interstage lan
 <td>'<span>wild spinach taxon, bitter tasting, eaten boiled</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/ba">Ba</a></td><td style="white-space: nowrap;"><i>sasau</i></td>
+<td>Fij</td><td><a href="../languages/ba">Bā</a></td><td style="white-space: nowrap;"><i>sasau</i></td>
 <td>'<span><em>Abelmoschus manihot</em></span>' (<a href="../sources/Prestonetal1998">Preston et al. 1998</a>)
 </td>
 </tr>
@@ -765,7 +765,7 @@ POc _&ast;nunuk_ denoted either a taxon including all _Ficus_ species known to P
 <td>'<span>edible nut</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/karaeast">Kara (East)</a></td><td style="white-space: nowrap;"><i>nunui</i></td>
+<td>MM</td><td><a href="../languages/karaeast">East Kara</a></td><td style="white-space: nowrap;"><i>nunui</i></td>
 <td>'<span>cycad</span>' (<span><em>-i</em> &lt; POc <em>&ast;-k</em></span>)</td>
 </tr>
 <tr>
@@ -881,7 +881,7 @@ It is probable that _&ast;qayawan_ denoted a strangler fig taxon. The Gedaged, K
 <td>'<span>tree type, edible fig</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/karaeast">Kara (East)</a></td><td style="white-space: nowrap;"><i>iuan</i></td>
+<td>MM</td><td><a href="../languages/karaeast">East Kara</a></td><td style="white-space: nowrap;"><i>iuan</i></td>
 <td>'<span><em>Ficus benjamina</em>, <em>F. katabibi</em> and <em>F. rebareba</em></span>'</td>
 </tr>
 <tr>
@@ -910,7 +910,7 @@ It is probable that _&ast;qayawan_ denoted a strangler fig taxon. The Gedaged, K
 <td>'<span><em>Ficus prolixa</em></span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>aiao</i></td>
+<td>Mic</td><td><a href="../languages/kiribati">Kiribati</a></td><td style="white-space: nowrap;"><i>aiao</i></td>
 <td>'<span><em>Ficus prolixa</em></span>'</td>
 </tr>
 <tr>
@@ -918,7 +918,7 @@ It is probable that _&ast;qayawan_ denoted a strangler fig taxon. The Gedaged, K
 <td>'<span><em>Ficus prolixa</em> var. carolinensis</span>'[^5]</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td style="white-space: nowrap;"><i>āw</i></td>
+<td>Mic</td><td><a href="../languages/chuukese">Chuukese</a></td><td style="white-space: nowrap;"><i>āw</i></td>
 <td>'<span><em>Ficus prolixa</em> var. carolinensis</span>'</td>
 </tr>
 <tr>
@@ -1004,7 +1004,7 @@ POc _&ast;qayawan_ also seems to have a second set of reflexes in Micronesia. A 
 </tr>
 <tr>
 <td>Mic</td>
-<td><a href="../languages/trukese">Trukese</a></td>
+<td><a href="../languages/chuukese">Chuukese</a></td>
 <td style="white-space: nowrap"><i>əwə̄r</i></td>
 <td>
 '<span><em>Ficus tinctoria</em></span>'</td>
@@ -1279,7 +1279,7 @@ POc _&ast;pʷabosi_ is the most likely candidate for a term denoting _Ficus wass
 <td>'<span><em>Ficus</em> sp., with edible leaves</span>' (<span><em>-v-</em> for †<em>-b-</em></span>)</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/karaeast">Kara (East)</a></td><td style="white-space: nowrap;"><i>[ka]pavus</i></td>
+<td>MM</td><td><a href="../languages/karaeast">East Kara</a></td><td style="white-space: nowrap;"><i>[ka]pavus</i></td>
 <td>'<span>small <em>Ficus</em> sp., <em>Ficus wassa</em></span>' (<a href="../sources/Peekel1984">Peekel 1984: 141</a>)
 </td>
 </tr>
@@ -1411,7 +1411,7 @@ POc _&ast;qa(l,R)a_ may have been another term for _Ficus copiosa_ ([§4.2](../c
 <td>'<span>banyan, <em>Ficus</em> spp.</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/toabaita">To'aba'ita</a></td><td style="white-space: nowrap;"><i>θala</i></td>
+<td>SES</td><td><a href="../languages/toabaita">To’aba’ita</a></td><td style="white-space: nowrap;"><i>θala</i></td>
 <td>'<span><em>Ficus variegata</em></span>'</td>
 </tr>
 </table>
@@ -1437,7 +1437,7 @@ POc _&ast;taŋa_ appears to have denoted _Ficus tinctoria_. This is its meaning 
 <td>'<span><em>Ficus tinctoria</em></span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/karaeast">Kara (East)</a></td><td style="white-space: nowrap;"><i>taŋa</i></td>
+<td>MM</td><td><a href="../languages/karaeast">East Kara</a></td><td style="white-space: nowrap;"><i>taŋa</i></td>
 <td>'<span><em>Ficus tinctoria</em></span>'</td>
 </tr>
 <tr>

@@ -181,7 +181,7 @@ The generic term for ‘wind’ in POc was _&ast;aŋin_, which continues PMP _&a
 <td>'<span>wind</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>aŋ</i></td>
+<td>Mic</td><td><a href="../languages/kiribati">Kiribati</a></td><td style="white-space: nowrap;"><i>aŋ</i></td>
 <td>'<span>wind</span>'</td>
 </tr>
 <tr>
@@ -230,7 +230,7 @@ Three terms for winds of differing strengths are reconstructable. POc _&ast;jaŋ
 <td>'<span>wind</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>deŋi</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa’a</a></td><td style="white-space: nowrap;"><i>deŋi</i></td>
 <td>'<span>wind</span>'</td>
 </tr>
 <tr>
@@ -281,7 +281,7 @@ Three terms for winds of differing strengths are reconstructable. POc _&ast;jaŋ
 <td>'<span>rain</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/poeng">Poeng</a></td><td style="white-space: nowrap;"><i>saū</i></td>
+<td>NNG</td><td><a href="../languages/mengen">Mengen</a></td><td style="white-space: nowrap;"><i>saū</i></td>
 <td>'<span>wind; large, damaging with black, foreboding sky</span>'</td>
 </tr>
 <tr>
@@ -329,7 +329,7 @@ Three terms for winds of differing strengths are reconstructable. POc _&ast;jaŋ
 <td>[N] '<span>breeze</span>'; [V] '<span>blow gently</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/lukeppono">Lukep (Pono)</a></td><td style="white-space: nowrap;"><i>muru</i></td>
+<td>NNG</td><td><a href="../languages/lukep">Lukep</a></td><td style="white-space: nowrap;"><i>muru</i></td>
 <td>'<span>breeze</span>'</td>
 </tr>
 <tr>
@@ -437,7 +437,7 @@ Another term for wind was POc _&ast;mal(i,e)u_, but it is not possible to determ
 <td>'<span>(wind) blow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/karawest">Kara (West)</a></td><td style="white-space: nowrap;"><i>maliu</i></td>
+<td>MM</td><td><a href="../languages/karawest">West Kara</a></td><td style="white-space: nowrap;"><i>maliu</i></td>
 <td>'<span>wind</span>'</td>
 </tr>
 <tr>
@@ -549,7 +549,7 @@ Three of these, _&ast;upi_, _&ast;ipu_ and _&ast;i(p,pʷ)i_, are clearly related
 <td>'<span>(wind) blow</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/misim">Hote (Misim)</a></td><td style="white-space: nowrap;"><i>yuv</i></td>
+<td>NNG</td><td><a href="../languages/misim">Misim</a></td><td style="white-space: nowrap;"><i>yuv</i></td>
 <td>'<span>(wind) blow</span>'</td>
 </tr>
 <tr>
@@ -634,7 +634,7 @@ In a number of NNG languages in the region of the Vitiaz Strait and the Huon Gul
 <td>'<span>(wind) blow</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/silisili">Silisili</a></td><td style="white-space: nowrap;"><i>fiᵑg</i></td>
+<td>NNG</td><td><a href="../languages/middlewatut">Middle Watut</a></td><td style="white-space: nowrap;"><i>fiᵑg</i></td>
 <td>'<span>wind</span>'</td>
 </tr>
 <tr>
@@ -827,7 +827,7 @@ The initial _p-_ of the Pn items reflects POc _&ast;b-_ or _&ast;pʷ-_: hence th
 <td>'<span>(wind) blow</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/karawest">Kara (West)</a></td><td style="white-space: nowrap;"><i>fifit</i></td>
+<td>MM</td><td><a href="../languages/karawest">West Kara</a></td><td style="white-space: nowrap;"><i>fifit</i></td>
 <td>'<span>(wind) blow</span>'</td>
 </tr>
 <tr>
@@ -1164,7 +1164,7 @@ POc _&ast;apaRat_ probably also denoted the accompanying wet season (SHS). The g
 <td>'<span>year, wet season</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/karaeast">Kara (East)</a></td><td style="white-space: nowrap;"><i>yefet</i></td>
+<td>MM</td><td><a href="../languages/karaeast">East Kara</a></td><td style="white-space: nowrap;"><i>yefet</i></td>
 <td>'<span>wet season</span>'</td>
 </tr>
 <tr>
@@ -1180,7 +1180,7 @@ POc _&ast;apaRat_ probably also denoted the accompanying wet season (SHS). The g
 <td>'<span>strong wind</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td><a href="../languages/nelemwa">Nêlêmwâ</a></td><td style="white-space: nowrap;"><i>(w)āvac</i></td>
+<td>NCal</td><td><a href="../languages/nelemwa">Nêlêmwa</a></td><td style="white-space: nowrap;"><i>(w)āvac</i></td>
 <td>'<span>north wind</span>' (<span>Lynch pers. comm.</span>)</td>
 </tr>
 <tr>
@@ -1188,7 +1188,7 @@ POc _&ast;apaRat_ probably also denoted the accompanying wet season (SHS). The g
 <td>'<span>north wind</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td><a href="../languages/fwai">Fwai</a></td><td style="white-space: nowrap;"><i>(y)avec</i></td>
+<td>NCal</td><td><a href="../languages/fwai">Fwâi</a></td><td style="white-space: nowrap;"><i>(y)avec</i></td>
 <td>'<span>north wind</span>'</td>
 </tr>
 <tr>
@@ -1272,14 +1272,14 @@ Related forms also occur in Southeast Solomonic and Micronesian languages, but a
 </tr>
 <tr>
 <td>SES</td>
-<td><a href="../languages/areare">'Are'are</a></td>
+<td><a href="../languages/areare">’Are’are</a></td>
 <td style="white-space: nowrap"><i>awarosi</i></td>
 <td>
 '<span>the northwest wind</span>'</td>
 </tr>
 <tr>
 <td>SES</td>
-<td><a href="../languages/saa">Sa'a</a></td>
+<td><a href="../languages/saa">Sa’a</a></td>
 <td style="white-space: nowrap"><i>awalosi</i></td>
 <td>
 '<span>northwest wind</span>'</td>
@@ -1481,7 +1481,7 @@ The ancestry of PPn _&ast;toŋa_ is unclear, and I return to this below. Data su
 </td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/mangareva">Mangareva</a></td><td style="white-space: nowrap;"><i>toŋa</i></td>
+<td>Pn</td><td><a href="../languages/mangareva">Mangarevan</a></td><td style="white-space: nowrap;"><i>toŋa</i></td>
 <td>'<span>south wind</span>'</td>
 </tr>
 <tr>
@@ -1764,11 +1764,11 @@ Two other terms which apparently referred to the southeast trades are given belo
 <td>'<span>north wind</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>marāu</i></td>
+<td>SES</td><td><a href="../languages/areare">’Are’are</a></td><td style="white-space: nowrap;"><i>marāu</i></td>
 <td>'<span>southeast trades</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>marāu</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa’a</a></td><td style="white-space: nowrap;"><i>marāu</i></td>
 <td>'<span>southeast trades</span>'</td>
 </tr>
 <tr>
@@ -2141,7 +2141,7 @@ PEOc _&ast;ma-lua(s)_ ‘soft, gentle, (weather) calm’ is descended from POc _
 <td>'<span>soft</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>mārūrū</i></td>
+<td>SES</td><td><a href="../languages/areare">’Are’are</a></td><td style="white-space: nowrap;"><i>mārūrū</i></td>
 <td>'<span>soft, gentle, flexible</span>'</td>
 </tr>
 <tr>
@@ -2261,7 +2261,7 @@ The locus of much of the weather was of course POc _&ast;laŋit_, the sky, and t
 <td>'<span>sky, weather</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/tench">Tench</a></td><td style="white-space: nowrap;"><i>raŋiti</i></td>
+<td>Adm</td><td><a href="../languages/tenis">Tenis</a></td><td style="white-space: nowrap;"><i>raŋiti</i></td>
 <td>'<span>rain</span>'</td>
 </tr>
 <tr>
@@ -2428,7 +2428,7 @@ The generic term for ‘cloud’ in POc was _&ast;qaRoq_.
 <td>'<span>cloud</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/sariba">Sariba</a></td><td style="white-space: nowrap;"><i>yaloi</i></td>
+<td>PT</td><td><a href="../languages/suau">Suau</a></td><td style="white-space: nowrap;"><i>yaloi</i></td>
 <td>'<span>cloud</span>'</td>
 </tr>
 <tr>
@@ -2452,7 +2452,7 @@ The generic term for ‘cloud’ in POc was _&ast;qaRoq_.
 <td>'<span>sky</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>(mei)salo</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa’a</a></td><td style="white-space: nowrap;"><i>(mei)salo</i></td>
 <td>'<span>cloud</span>'</td>
 </tr>
 <tr>
@@ -2506,7 +2506,7 @@ The four terms below each possibly denoted a type of cloud. POc _&ast;rodo(ŋ)_ 
 <td>'<span>cloud</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>roto</i></td>
+<td>SES</td><td><a href="../languages/areare">’Are’are</a></td><td style="white-space: nowrap;"><i>roto</i></td>
 <td>'<span>cloudy, black cloud, squall</span>'</td>
 </tr>
 <tr>
@@ -2514,7 +2514,7 @@ The four terms below each possibly denoted a type of cloud. POc _&ast;rodo(ŋ)_ 
 <td>'<span>a cloud</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/fortsenal">Fortsenal</a></td><td style="white-space: nowrap;"><i>koko</i></td>
+<td>NCV</td><td><a href="../languages/kiai">Kiai</a></td><td style="white-space: nowrap;"><i>koko</i></td>
 <td>'<span>rain cloud</span>'</td>
 </tr>
 <tr>
@@ -2589,7 +2589,7 @@ The four terms below each possibly denoted a type of cloud. POc _&ast;rodo(ŋ)_ 
 <td>'<span>fog</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>uru</i></td>
+<td>SES</td><td><a href="../languages/areare">’Are’are</a></td><td style="white-space: nowrap;"><i>uru</i></td>
 <td>'<span>cloud, heaven, sky, top</span>'</td>
 </tr>
 <tr>
@@ -2691,7 +2691,7 @@ There are a number of reconstructable POc terms some of whose reflexes mean ‘c
 <td>'<span>cloud</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>raho</i></td>
+<td>SES</td><td><a href="../languages/areare">’Are’are</a></td><td style="white-space: nowrap;"><i>raho</i></td>
 <td>'<span>haze, mist, fog, cloud</span>'</td>
 </tr>
 <tr>
@@ -2818,7 +2818,7 @@ The items below—POc _&ast;kapu(t)_/_&ast;kopu_ ‘low cloud, mist, fog’ and 
 <td>'<span>fog, cloud</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/karawest">Kara (West)</a></td><td style="white-space: nowrap;"><i>kauf</i></td>
+<td>MM</td><td><a href="../languages/karawest">West Kara</a></td><td style="white-space: nowrap;"><i>kauf</i></td>
 <td>'<span>fog</span>'</td>
 </tr>
 <tr>
@@ -2898,7 +2898,7 @@ It seems likely that &ast;kopu already occurred in POc as a doublet of _&ast;kap
 <td>'<span>light clouds covering land</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/mangareva">Mangareva</a></td><td style="white-space: nowrap;"><i>kou</i></td>
+<td>Pn</td><td><a href="../languages/mangareva">Mangarevan</a></td><td style="white-space: nowrap;"><i>kou</i></td>
 <td>'<span>clouds low on the peaks of the hills</span>'</td>
 </tr>
 <tr>
@@ -2991,7 +2991,7 @@ As if this were not already complicated enough, a further curiosity is the recon
 <td>'<span>puffy clouds, as banked up near the horizon</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/kmaringi">K’maringi</a></td><td style="white-space: nowrap;"><i>gabua</i></td>
+<td>Pn</td><td><a href="../languages/kapingamarangi">Kapingamarangi</a></td><td style="white-space: nowrap;"><i>gabua</i></td>
 <td>'<span>raincloud (sign of rain)</span>'</td>
 </tr>
 <tr>
@@ -3042,7 +3042,7 @@ The most widely reflected POc word for ‘rain’ (both verb and noun) is _&ast;
 <td>'<span>rain</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/poeng">Poeng</a></td><td style="white-space: nowrap;"><i>kue</i></td>
+<td>NNG</td><td><a href="../languages/mengen">Mengen</a></td><td style="white-space: nowrap;"><i>kue</i></td>
 <td>'<span>rain</span>'</td>
 </tr>
 <tr>
@@ -3098,7 +3098,7 @@ The most widely reflected POc word for ‘rain’ (both verb and noun) is _&ast;
 <td>'<span>rain</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/fortsenal">Fortsenal</a></td><td style="white-space: nowrap;"><i>usa</i></td>
+<td>NCV</td><td><a href="../languages/kiai">Kiai</a></td><td style="white-space: nowrap;"><i>usa</i></td>
 <td>'<span>rain</span>'</td>
 </tr>
 <tr>
@@ -3149,7 +3149,7 @@ The most widely reflected POc word for ‘rain’ (both verb and noun) is _&ast;
 <td>'<span>rain</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/karaeast">Kara (East)</a></td><td style="white-space: nowrap;"><i>rafui</i></td>
+<td>MM</td><td><a href="../languages/karaeast">East Kara</a></td><td style="white-space: nowrap;"><i>rafui</i></td>
 <td>'<span>rain</span>'</td>
 </tr>
 <tr>
@@ -3169,7 +3169,7 @@ The most widely reflected POc word for ‘rain’ (both verb and noun) is _&ast;
 <td>'<span>rain</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>karau</i></td>
+<td>Mic</td><td><a href="../languages/kiribati">Kiribati</a></td><td style="white-space: nowrap;"><i>karau</i></td>
 <td>'<span>rain, heaven, sky</span>'</td>
 </tr>
 <tr>
@@ -3189,7 +3189,7 @@ The most widely reflected POc word for ‘rain’ (both verb and noun) is _&ast;
 <td>'<span>cloud</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td style="white-space: nowrap;"><i>kuc̣ū-</i></td>
+<td>Mic</td><td><a href="../languages/chuukese">Chuukese</a></td><td style="white-space: nowrap;"><i>kuc̣ū-</i></td>
 <td>'<span>cloud</span>'</td>
 </tr>
 <tr>
@@ -3225,7 +3225,7 @@ The most widely reflected POc word for ‘rain’ (both verb and noun) is _&ast;
 <td>'<span>rain</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/kumarumumeng">Kumaru Mumeng</a></td><td style="white-space: nowrap;"><i>ruk</i></td>
+<td>NNG</td><td><a href="../languages/kumaru">Kumaru</a></td><td style="white-space: nowrap;"><i>ruk</i></td>
 <td>'<span>rain</span>'</td>
 </tr>
 <tr>
@@ -3266,7 +3266,7 @@ A semantically related term was POc _&ast;bata_, which, to judge from a constell
 <td>'<span>cloud</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/karawest">Kara (West)</a></td><td style="white-space: nowrap;"><i>bata</i></td>
+<td>MM</td><td><a href="../languages/karawest">West Kara</a></td><td style="white-space: nowrap;"><i>bata</i></td>
 <td>'<span>cloud</span>'</td>
 </tr>
 <tr>
@@ -3676,7 +3676,7 @@ I have reconstructed five separate terms for ‘lightning’. POc _&ast;qu(s,j)i
 <td>'<span>lightning</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/karawest">Kara (West)</a></td><td style="white-space: nowrap;"><i>lapai</i></td>
+<td>MM</td><td><a href="../languages/karawest">West Kara</a></td><td style="white-space: nowrap;"><i>lapai</i></td>
 <td>'<span>lightning</span>'</td>
 </tr>
 <tr>
@@ -3743,7 +3743,7 @@ Despite the formal variations in the cognate set above, its members are regular 
 <td>'<span>lightning</span>'</td>
 </tr>
 <tr>
-<td>PT</td><td><a href="../languages/sariba">Sariba</a></td><td style="white-space: nowrap;"><i>nama-namali</i></td>
+<td>PT</td><td><a href="../languages/suau">Suau</a></td><td style="white-space: nowrap;"><i>nama-namali</i></td>
 <td>'<span>lightning</span>'</td>
 </tr>
 <tr>
@@ -3789,7 +3789,7 @@ Despite the formal variations in the cognate set above, its members are regular 
 <td>'<span>lightning</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/poeng">Poeng</a></td><td style="white-space: nowrap;"><i>kilama</i></td>
+<td>NNG</td><td><a href="../languages/mengen">Mengen</a></td><td style="white-space: nowrap;"><i>kilama</i></td>
 <td>'<span>lightning</span>'</td>
 </tr>
 <tr>
@@ -4026,7 +4026,7 @@ POc appears to have had two basic roots for thunder, _&ast;kuru_ and _&ast;pʷar
 <td>'<span>thunder</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/karaeast">Kara (East)</a></td><td style="white-space: nowrap;"><i>(va)barak</i></td>
+<td>MM</td><td><a href="../languages/karaeast">East Kara</a></td><td style="white-space: nowrap;"><i>(va)barak</i></td>
 <td>'<span>thunder</span>'</td>
 </tr>
 <tr>
@@ -4054,7 +4054,7 @@ POc appears to have had two basic roots for thunder, _&ast;kuru_ and _&ast;pʷar
 <td>'<span>thunder</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>pā</i></td>
+<td>Mic</td><td><a href="../languages/kiribati">Kiribati</a></td><td style="white-space: nowrap;"><i>pā</i></td>
 <td>'<span>thunder</span>'</td>
 </tr>
 <tr>

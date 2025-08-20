@@ -63,7 +63,7 @@ The most soundly based reconstruction for sky is POc _&ast;laŋit_ (see also p.1
 <td>'<span>sky</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/tench">Tench</a></td><td style="white-space: nowrap;"><i>raŋiti</i></td>
+<td>Adm</td><td><a href="../languages/tenis">Tenis</a></td><td style="white-space: nowrap;"><i>raŋiti</i></td>
 <td>'<span>rain</span>'</td>
 </tr>
 <tr>
@@ -207,7 +207,7 @@ Similarly, PChk _&ast;pai-laŋi_ may be from POc _&ast;baRa_ ‘fence’(see [vo
 <td>'<span>horizon</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td style="white-space: nowrap;"><i>(ɔrop)peyiɾeɾ</i></td>
+<td>Mic</td><td><a href="../languages/chuukese">Chuukese</a></td><td style="white-space: nowrap;"><i>(ɔrop)peyiɾeɾ</i></td>
 <td>'<span>horizon</span>' (<span><em>ɔroppa</em> + <em>ɾeɾi</em> ‘rim of heaven’</span>)</td>
 </tr>
 </table>
@@ -240,7 +240,7 @@ Two SE Solomonic languages describe the horizon in terms of the sea rather than 
 </tr>
 <tr>
 <td>Mic</td>
-<td><a href="../languages/trukese">Trukese</a></td>
+<td><a href="../languages/chuukese">Chuukese</a></td>
 <td style="white-space: nowrap"><i>epī-ɾeŋ</i></td>
 <td>
 '<span>horizon</span>' (<span><em>epi-</em> ‘bottom’, <em>ɾeŋi</em> ‘sky’</span>)</td>
@@ -261,14 +261,14 @@ Two SE Solomonic languages describe the horizon in terms of the sea rather than 
 </tr>
 <tr>
 <td>Mic</td>
-<td><a href="../languages/kiribatese">Kiribatese</a></td>
+<td><a href="../languages/kiribati">Kiribati</a></td>
 <td style="white-space: nowrap"><i>te tataŋa ni mainiku</i></td>
 <td>
 '<span>eastern horizon</span>' (<span>lit. ‘roof-plate of east’</span>)</td>
 </tr>
 <tr>
 <td>Mic</td>
-<td><a href="../languages/kiribatese">Kiribatese</a></td>
+<td><a href="../languages/kiribati">Kiribati</a></td>
 <td style="white-space: nowrap"><i>te tataŋa ni maeao</i></td>
 <td>
 '<span>western horizon</span>' (<span>lit. ‘roof-plate of west’</span>)(<a href="../sources/Grimble1931">Grimble 1931: 198</a>)
@@ -445,11 +445,11 @@ Reconstruction of a POc term for the sun itself is not clearcut. Blust has recon
 <td>'<span>sun</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>rato</i></td>
+<td>SES</td><td><a href="../languages/areare">’Are’are</a></td><td style="white-space: nowrap;"><i>rato</i></td>
 <td>'<span>sun, sunshine, no rain, good weather</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>sato</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa’a</a></td><td style="white-space: nowrap;"><i>sato</i></td>
 <td>'<span>sun, sunshine, fine weather</span>'</td>
 </tr>
 <tr>
@@ -630,7 +630,7 @@ Proto Nuclear Polynesian shows a split between _&ast;qaso_ ‘day, as a period o
 <td>'<span>day, daylight</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>dani, daŋi</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa’a</a></td><td style="white-space: nowrap;"><i>dani, daŋi</i></td>
 <td>'<span>daylight</span>' (<span><em>ŋ</em> for <em>n</em> unexplained</span>)</td>
 </tr>
 <tr>
@@ -638,7 +638,7 @@ Proto Nuclear Polynesian shows a split between _&ast;qaso_ ‘day, as a period o
 <td>'<span>day</span>' (<span><em>ŋ</em> for <em>n</em> unexplained</span>)</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>tani</i></td>
+<td>SES</td><td><a href="../languages/areare">’Are’are</a></td><td style="white-space: nowrap;"><i>tani</i></td>
 <td>'<span>daylight</span>'</td>
 </tr>
 <tr>
@@ -756,11 +756,11 @@ The preceding cognate set may ultimately be connected with the following one. Ho
 <td>[VT] '<span>shine upon</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>rārā</i></td>
+<td>SES</td><td><a href="../languages/areare">’Are’are</a></td><td style="white-space: nowrap;"><i>rārā</i></td>
 <td>'<span>scorch, singe, of sun and fire</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>rā, rārā</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa’a</a></td><td style="white-space: nowrap;"><i>rā, rārā</i></td>
 <td>[V] '<span>shine brightly</span>'; [N] '<span>the sun’s light, radiance</span>'</td>
 </tr>
 <tr>
@@ -857,11 +857,11 @@ The following set focuses on effects of the sun’s heat as opposed to its light
 <td>'<span>warm or dry s.t. on the fire</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>rara</i></td>
+<td>SES</td><td><a href="../languages/areare">’Are’are</a></td><td style="white-space: nowrap;"><i>rara</i></td>
 <td>[VI] '<span>be warm, hot, of sun</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>rarani-</i></td>
+<td>SES</td><td><a href="../languages/areare">’Are’are</a></td><td style="white-space: nowrap;"><i>rarani-</i></td>
 <td>'<span>warm oneself by fire or sun</span>'</td>
 </tr>
 <tr>
@@ -939,7 +939,7 @@ Yet another contender for the POc term for sun is _&ast;sinaR_, which Blust (199
 <td>'<span>sun</span>'[^11]</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/tench">Tench</a></td><td style="white-space: nowrap;"><i>sinaka</i></td>
+<td>Adm</td><td><a href="../languages/tenis">Tenis</a></td><td style="white-space: nowrap;"><i>sinaka</i></td>
 <td>'<span>sun</span>'[^11]</td>
 </tr>
 <tr>
@@ -967,11 +967,11 @@ Yet another contender for the POc term for sun is _&ast;sinaR_, which Blust (199
 <td>'<span>sun</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>sina</i></td>
+<td>SES</td><td><a href="../languages/areare">’Are’are</a></td><td style="white-space: nowrap;"><i>sina</i></td>
 <td>[V] '<span>shine, brighten</span>'; [N] '<span>light, brightness</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>sineli</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa’a</a></td><td style="white-space: nowrap;"><i>sineli</i></td>
 <td>'<span>shine</span>'</td>
 </tr>
 <tr>
@@ -983,7 +983,7 @@ Yet another contender for the POc term for sun is _&ast;sinaR_, which Blust (199
 <td>'<span>shine</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td style="white-space: nowrap;"><i>ttira</i></td>
+<td>Mic</td><td><a href="../languages/chuukese">Chuukese</a></td><td style="white-space: nowrap;"><i>ttira</i></td>
 <td>[V] '<span>shine</span>'; [N] '<span>ray, brightness, beam</span>'</td>
 </tr>
 <tr>
@@ -1133,11 +1133,11 @@ The moon is of little value as a navigational aid. Its typical role is as a mark
 <td>'<span>rainbow</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>hule</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa’a</a></td><td style="white-space: nowrap;"><i>hule</i></td>
 <td>'<span>phases of the moon; full moon</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>hule i lade</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa’a</a></td><td style="white-space: nowrap;"><i>hule i lade</i></td>
 <td>'<span>name of a month, July</span>'</td>
 </tr>
 <tr>
@@ -1145,11 +1145,11 @@ The moon is of little value as a navigational aid. Its typical role is as a mark
 <td>'<span>six nights of the moon’s course, including the full moon and two nights each way</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>hura</i></td>
+<td>SES</td><td><a href="../languages/areare">’Are’are</a></td><td style="white-space: nowrap;"><i>hura</i></td>
 <td>'<span>moon, lunar month</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>hura(ʔaro)</i></td>
+<td>SES</td><td><a href="../languages/areare">’Are’are</a></td><td style="white-space: nowrap;"><i>hura(ʔaro)</i></td>
 <td>'<span>rainbow</span>'</td>
 </tr>
 <tr>
@@ -1190,7 +1190,7 @@ In Polynesia _&ast;pulan_ is reflected as a verb, PPn _&ast;pula_ ‘to glow’ 
 <td>'<span>moon</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td style="white-space: nowrap;"><i>maram</i></td>
+<td>Mic</td><td><a href="../languages/chuukese">Chuukese</a></td><td style="white-space: nowrap;"><i>maram</i></td>
 <td>'<span>moon</span>'</td>
 </tr>
 <tr>
@@ -1257,7 +1257,7 @@ It has already been pointed out that the northern hemisphere sky differs from th
 <td>'<span>star</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/lukeppono">Lukep (Pono)</a></td><td style="white-space: nowrap;"><i>pitiki</i></td>
+<td>NNG</td><td><a href="../languages/lukep">Lukep</a></td><td style="white-space: nowrap;"><i>pitiki</i></td>
 <td>'<span>star</span>'</td>
 </tr>
 <tr>
@@ -1293,7 +1293,7 @@ It has already been pointed out that the northern hemisphere sky differs from th
 <td>'<span>star</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>itoi</i></td>
+<td>Mic</td><td><a href="../languages/kiribati">Kiribati</a></td><td style="white-space: nowrap;"><i>itoi</i></td>
 <td>'<span>star, constellation</span>'</td>
 </tr>
 <tr>
@@ -1411,11 +1411,11 @@ The planets ‘wander’ in their movements and are of little use as guiding sta
 <td>'<span>the morning star</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>matara ni tani</i></td>
+<td>SES</td><td><a href="../languages/areare">’Are’are</a></td><td style="white-space: nowrap;"><i>matara ni tani</i></td>
 <td>'<span>Morning Star</span>' (<span><em>tani</em> ‘daylight’</span>)</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>madala</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa’a</a></td><td style="white-space: nowrap;"><i>madala</i></td>
 <td>'<span>the morning star</span>'</td>
 </tr>
 <tr>
@@ -1490,11 +1490,11 @@ __Morning Star:__
 <td>'<span>Morning Star</span>' (<span><em>rān</em> ‘day’</span>)</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>itoi ni ŋaina</i></td>
+<td>Mic</td><td><a href="../languages/kiribati">Kiribati</a></td><td style="white-space: nowrap;"><i>itoi ni ŋaina</i></td>
 <td>'<span>Morning Star</span>' (<span><em>ŋaina</em> ‘day, daylight’</span>)</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td style="white-space: nowrap;"><i>fū rāɾ</i></td>
+<td>Mic</td><td><a href="../languages/chuukese">Chuukese</a></td><td style="white-space: nowrap;"><i>fū rāɾ</i></td>
 <td>'<span>Venus as Morning Star</span>'</td>
 </tr>
 </table>
@@ -1542,7 +1542,7 @@ __Evening Star (various compounds):__
 </tr>
 <tr>
 <td>SES</td>
-<td><a href="../languages/toabaita">To'aba'ita</a></td>
+<td><a href="../languages/toabaita">To’aba’ita</a></td>
 <td style="white-space: nowrap"><i>bubufaŋa</i></td>
 <td>
 '<span>Evening Star</span>' (<span><em>bubu</em> ‘look at’, <em>faŋa</em> ‘eat; food’</span>)</td>
@@ -1605,7 +1605,7 @@ One of the few constellations that I have been able to identify and trace back t
 <td>'<span>(constellation incl.) Canopus, Sirius, Procea</span>' (<span>Lewis, 1994:406</span>)</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>man</i></td>
+<td>Mic</td><td><a href="../languages/kiribati">Kiribati</a></td><td style="white-space: nowrap;"><i>man</i></td>
 <td>'<span>Canopus</span>'</td>
 </tr>
 <tr>
@@ -1670,14 +1670,14 @@ We also have various references to particular stars as Manuk’s head, Manuk’s
 </tr>
 <tr>
 <td>Mic</td>
-<td><a href="../languages/kiribatese">Kiribatese</a></td>
+<td><a href="../languages/kiribati">Kiribati</a></td>
 <td style="white-space: nowrap"><i>pʷāpʷā-ni-man</i></td>
 <td>
 '<span>Sirius</span>' (<span><em>pʷāpʷā</em> ‘chest’</span>)</td>
 </tr>
 <tr>
 <td>Mic</td>
-<td><a href="../languages/kiribatese">Kiribatese</a></td>
+<td><a href="../languages/kiribati">Kiribati</a></td>
 <td style="white-space: nowrap"><i>man-ati</i></td>
 <td>
 '<span>Rigel</span>' (<span><em>ati</em> ‘heart’</span>)</td>
@@ -1926,7 +1926,7 @@ Blust has reconstructed PMP _&ast;buluq_, POc _&ast;puluq_ ‘a constellation, t
 <td>'<span>star</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>puru-puru</i></td>
+<td>SES</td><td><a href="../languages/areare">’Are’are</a></td><td style="white-space: nowrap;"><i>puru-puru</i></td>
 <td>'<span>star, firefly</span>'</td>
 </tr>
 <tr>
@@ -2053,7 +2053,7 @@ Although the Southern Cross is typically associated with the southern hemisphere
 <td>'<span>Southern Cross; triggerfish</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>hoi pupu</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa’a</a></td><td style="white-space: nowrap;"><i>hoi pupu</i></td>
 <td>'<span>Southern Cross; triggerfish</span>'</td>
 </tr>
 <tr>
@@ -2097,7 +2097,7 @@ Other terms are descriptive, with the net metaphor and the cross shape or crucif
 <table id="2-6-5-2-173-ses-saa-ape">
 <tr>
 <td>SES</td>
-<td><a href="../languages/saa">Sa'a</a></td>
+<td><a href="../languages/saa">Sa’a</a></td>
 <td style="white-space: nowrap"><i>ʔape</i></td>
 <td>
 '<span>Southern Cross</span>' (<span>lit. ‘large square fishing net fixed on four upright poles’</span>)</td>
@@ -2172,7 +2172,7 @@ The Pointers, Alpha and Beta Centauri, are widely referred to by compounds trans
 <table id="2-6-5-2-173-ses-saa-romane">
 <tr>
 <td>SES</td>
-<td><a href="../languages/saa">Sa'a</a></td>
+<td><a href="../languages/saa">Sa’a</a></td>
 <td style="white-space: nowrap"><i>ro mʷane  </i></td>
 <td>
 '<span>Pointers (to Southern Cross)</span>' (<span>lit. ‘two men’</span>)</td>
@@ -2224,7 +2224,7 @@ No cognates are evident for the constellation, but there are semantically parall
 <table id="2-6-5-2-174-ses-saa-ireki">
 <tr>
 <td>SES</td>
-<td><a href="../languages/saa">Sa'a</a></td>
+<td><a href="../languages/saa">Sa’a</a></td>
 <td style="white-space: nowrap"><i>ireki</i></td>
 <td>
 '<span>the Southern Triangle</span>' (<span>lit. ‘tongs’</span>)</td>
@@ -2266,7 +2266,7 @@ There is a possible PEOc reconstruction for Aldebaran, the single brightest star
 <td>'<span>Aldebaran</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>un</i></td>
+<td>Mic</td><td><a href="../languages/kiribati">Kiribati</a></td><td style="white-space: nowrap;"><i>un</i></td>
 <td>'<span>the name of a star</span>'</td>
 </tr>
 <tr>
@@ -2307,7 +2307,7 @@ Other names located for Aldebaran include:
 <table id="2-6-5-2-174-mic-kiribati-tebotonaiai">
 <tr>
 <td>Mic</td>
-<td><a href="../languages/kiribatese">Kiribatese</a></td>
+<td><a href="../languages/kiribati">Kiribati</a></td>
 <td style="white-space: nowrap"><i>te boto-n-aiai</i></td>
 <td>
 '<span>Aldebaran (in Taurus)</span>' (<span>lit. ‘base of ribs (aiai) of canoe’, because it stands in the V-shaped portion of Taurus</span>)(<a href="../sources/Grimble1931">Grimble 1931: 241</a>)
@@ -2459,7 +2459,7 @@ Antares, in the western constellation of Scorpio, ranks with the Pleiades as the
 <td>'<span>Antares</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>rimʷi(mata)</i></td>
+<td>Mic</td><td><a href="../languages/kiribati">Kiribati</a></td><td style="white-space: nowrap;"><i>rimʷi(mata)</i></td>
 <td>'<span>Antares</span>'</td>
 </tr>
 <tr>
@@ -2472,7 +2472,7 @@ Antares, in the western constellation of Scorpio, ranks with the Pleiades as the
 </td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td style="white-space: nowrap;"><i>tumʷur</i></td>
+<td>Mic</td><td><a href="../languages/chuukese">Chuukese</a></td><td style="white-space: nowrap;"><i>tumʷur</i></td>
 <td>'<span>Antares</span>'</td>
 </tr>
 <tr>
@@ -2633,7 +2633,7 @@ The star names listed from this point onward are reconstructable only for Proto 
 <td>'<span>Dolphin constellation incl. Cassiopeia</span>' (<span>approximately equivalent to Aries</span>)</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>kua</i></td>
+<td>Mic</td><td><a href="../languages/kiribati">Kiribati</a></td><td style="white-space: nowrap;"><i>kua</i></td>
 <td>'<span>constellation incl. Andromeda, Perseus and Cassiopeia</span>' (<span><em>kua</em> ‘whale, porpoise’</span>)</td>
 </tr>
 <tr>
@@ -3204,7 +3204,7 @@ POc _&ast;sake_ had as its primary sense ‘rise, go up’. But it also had the 
 <td>'<span>climb</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>taʔe</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa’a</a></td><td style="white-space: nowrap;"><i>taʔe</i></td>
 <td>'<span>up, inland</span>'</td>
 </tr>
 <tr>
@@ -3220,7 +3220,7 @@ POc _&ast;sake_ had as its primary sense ‘rise, go up’. But it also had the 
 <td>'<span>ascend, go up</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>rake</i></td>
+<td>Mic</td><td><a href="../languages/kiribati">Kiribati</a></td><td style="white-space: nowrap;"><i>rake</i></td>
 <td>'<span>up, upwards, eastwards</span>'</td>
 </tr>
 <tr>
@@ -3320,11 +3320,11 @@ The POc term usually contrasted with _&ast;sake_ ‘to go up, upwards’ is _&as
 <td>'<span>late afternoon rain</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>siho</i></td>
+<td>SES</td><td><a href="../languages/areare">’Are’are</a></td><td style="white-space: nowrap;"><i>siho</i></td>
 <td>'<span>(sun) set</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td style="white-space: nowrap;"><i>tupʷu</i></td>
+<td>Mic</td><td><a href="../languages/chuukese">Chuukese</a></td><td style="white-space: nowrap;"><i>tupʷu</i></td>
 <td>'<span>setting (western) position of a heavenly body</span>'</td>
 </tr>
 <tr>

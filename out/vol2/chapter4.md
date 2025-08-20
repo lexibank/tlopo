@@ -304,11 +304,11 @@ POc _&ast;masawa(n,ŋ)_ has reflexes in both Western Oceanic and Eastern Oceanic
 <td>[V] '<span>be deep of sea, (N) the deep sea</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>matāwa</i></td>
+<td>SES</td><td><a href="../languages/areare">’Are’are</a></td><td style="white-space: nowrap;"><i>matāwa</i></td>
 <td>'<span>the open sea</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>matawa</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa’a</a></td><td style="white-space: nowrap;"><i>matawa</i></td>
 <td>'<span>the open sea</span>'</td>
 </tr>
 <tr>
@@ -466,7 +466,7 @@ The PCEMP reconstruction in the next set is supported by cognates in the Central
 <td>'<span>the ocean; deep, of water</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>lama</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa’a</a></td><td style="white-space: nowrap;"><i>lama</i></td>
 <td>'<span>lake</span>'</td>
 </tr>
 <tr>
@@ -555,7 +555,7 @@ Listed below are common-noun reflexes of _&ast;laur_. However, these are few and
 <td>'<span>pond, shallow lagoon</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>nei</i></td>
+<td>Mic</td><td><a href="../languages/kiribati">Kiribati</a></td><td style="white-space: nowrap;"><i>nei</i></td>
 <td>'<span>pond, pool, swamp, marsh</span>'</td>
 </tr>
 <tr>
@@ -587,7 +587,7 @@ For sheltered or calm water, reflexes of POc _&ast;[ma-[d]]rapu_ ‘still, calm,
 <td>'<span>sheltered sea, lee shore</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>āsi mae</i></td>
+<td>SES</td><td><a href="../languages/areare">’Are’are</a></td><td style="white-space: nowrap;"><i>āsi mae</i></td>
 <td>'<span>quiet sea in the lagoon</span>'</td>
 </tr>
 <tr>
@@ -599,7 +599,7 @@ For sheltered or calm water, reflexes of POc _&ast;[ma-[d]]rapu_ ‘still, calm,
 <td>'<span>lee side of an island</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>esi mae</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa’a</a></td><td style="white-space: nowrap;"><i>esi mae</i></td>
 <td>'<span>lee shore</span>'</td>
 </tr>
 <tr>
@@ -644,7 +644,7 @@ cf. also:
 <td>'<span>open sea; ocean on the weather side; weather shore</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>āsi mauri</i></td>
+<td>SES</td><td><a href="../languages/areare">’Are’are</a></td><td style="white-space: nowrap;"><i>āsi mauri</i></td>
 <td>'<span>open sea, as opposed to <em>āsi mae</em></span>'</td>
 </tr>
 <tr>
@@ -681,7 +681,7 @@ In a number of languages, rough water is described by reflexes of POc &ast;saqat
 </tr>
 <tr>
 <td>SES</td>
-<td><a href="../languages/areare">'Are'are</a></td>
+<td><a href="../languages/areare">’Are’are</a></td>
 <td style="white-space: nowrap"><i>āsi taʔa </i></td>
 <td>
 '<span>rough sea</span>'</td>
@@ -764,7 +764,7 @@ Several terms denoting current or flow of water can be reconstructed for POc. Re
 <td>'<span>current</span>'</td>
 </tr>
 <tr>
-<td>NCal</td><td><a href="../languages/nelemwa">Nêlêmwâ</a></td><td style="white-space: nowrap;"><i>aut</i></td>
+<td>NCal</td><td><a href="../languages/nelemwa">Nêlêmwa</a></td><td style="white-space: nowrap;"><i>aut</i></td>
 <td>'<span>wave, swell</span>'</td>
 </tr>
 <tr>
@@ -857,7 +857,7 @@ The bare PAn verb _&ast;qañud_ ‘drift on a current, carried away by flowing w
 <td>[VI] '<span>drift, float on a current</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>manu</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa’a</a></td><td style="white-space: nowrap;"><i>manu</i></td>
 <td>'<span>float</span>'</td>
 </tr>
 <tr>
@@ -869,7 +869,7 @@ The bare PAn verb _&ast;qañud_ ‘drift on a current, carried away by flowing w
 <td>'<span>float, be afloat or drifting</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td style="white-space: nowrap;"><i>māɾ</i></td>
+<td>Mic</td><td><a href="../languages/chuukese">Chuukese</a></td><td style="white-space: nowrap;"><i>māɾ</i></td>
 <td>'<span>be becalmed, adrift; drift; soar (without flapping wings), glide; do a dance movement with outstretched arms</span>'</td>
 </tr>
 <tr>
@@ -945,11 +945,11 @@ The bare PAn verb _&ast;qañud_ ‘drift on a current, carried away by flowing w
 <td>'<span>current</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>ahe</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa’a</a></td><td style="white-space: nowrap;"><i>ahe</i></td>
 <td>[N] '<span>surf; currents from wind or tide</span>'; [V] '<span>flow</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>ʔahe</i></td>
+<td>SES</td><td><a href="../languages/areare">’Are’are</a></td><td style="white-space: nowrap;"><i>ʔahe</i></td>
 <td>'<span>tidal current, tidal rip</span>'</td>
 </tr>
 <tr>
@@ -1057,7 +1057,7 @@ The bare PAn verb _&ast;qañud_ ‘drift on a current, carried away by flowing w
 <td>[V] '<span>shift, of wind</span>'; '<span>an eddy</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>arir(oʔa)</i></td>
+<td>SES</td><td><a href="../languages/areare">’Are’are</a></td><td style="white-space: nowrap;"><i>arir(oʔa)</i></td>
 <td>[N,V] '<span>eddy, of wind</span>'</td>
 </tr>
 </table>
@@ -1151,11 +1151,11 @@ Two types of wave commonly distinguished in Oceanic languages are (a) surf, wave
 <td>'<span>surf, waves</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>naho</i></td>
+<td>SES</td><td><a href="../languages/areare">’Are’are</a></td><td style="white-space: nowrap;"><i>naho</i></td>
 <td>'<span>wave, surf</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>naho</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa’a</a></td><td style="white-space: nowrap;"><i>naho</i></td>
 <td>'<span>surf, wave</span>'</td>
 </tr>
 <tr>
@@ -1171,7 +1171,7 @@ Two types of wave commonly distinguished in Oceanic languages are (a) surf, wave
 <td>'<span>wave, surf, salt</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>nao</i></td>
+<td>Mic</td><td><a href="../languages/kiribati">Kiribati</a></td><td style="white-space: nowrap;"><i>nao</i></td>
 <td>'<span>wave, swell</span>'</td>
 </tr>
 <tr>
@@ -1382,7 +1382,7 @@ cf. also:
 <td>'<span>to pound the coast, as at high tide</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/tongareva">Tongareva</a></td><td style="white-space: nowrap;"><i>pari</i></td>
+<td>Pn</td><td><a href="../languages/tongareva">Tongarevan</a></td><td style="white-space: nowrap;"><i>pari</i></td>
 <td>'<span>rough, of waves</span>'</td>
 </tr>
 <tr>
@@ -1461,7 +1461,7 @@ There is an additional formal complication, namely that PMP _&ast;bujeq_ seems t
 <td>'<span>the break of a wave, surf</span>' (<span><em>ʔabutasi</em> ‘to break in foam upon’</span>)</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>(a)puta</i></td>
+<td>SES</td><td><a href="../languages/areare">’Are’are</a></td><td style="white-space: nowrap;"><i>(a)puta</i></td>
 <td>'<span>break, of surf</span>'</td>
 </tr>
 <tr>
@@ -1526,7 +1526,7 @@ cf. also:
 <td>'<span>foam</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>buro-buro</i></td>
+<td>Mic</td><td><a href="../languages/kiribati">Kiribati</a></td><td style="white-space: nowrap;"><i>buro-buro</i></td>
 <td>'<span>froth, bubbles, foam, lather</span>'</td>
 </tr>
 <tr>
@@ -1569,7 +1569,7 @@ cf. also:
 <td>'<span>pumice</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>huto-huto</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa’a</a></td><td style="white-space: nowrap;"><i>huto-huto</i></td>
 <td>[N] '<span>froth, foam</span>'</td>
 </tr>
 <tr>
@@ -1577,7 +1577,7 @@ cf. also:
 <td>'<span>froth, foam</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>huto-huto</i></td>
+<td>SES</td><td><a href="../languages/areare">’Are’are</a></td><td style="white-space: nowrap;"><i>huto-huto</i></td>
 <td>'<span>slime, saliva</span>'</td>
 </tr>
 <tr>
@@ -1702,7 +1702,7 @@ The reconstruction for low tide, POc _&ast;maqati_, which continues a PAn form, 
 <td>'<span>low tide; reef</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/karaeast">Kara (East)</a></td><td style="white-space: nowrap;"><i>mat</i></td>
+<td>MM</td><td><a href="../languages/karaeast">East Kara</a></td><td style="white-space: nowrap;"><i>mat</i></td>
 <td>'<span>reef</span>'</td>
 </tr>
 <tr>
@@ -1750,11 +1750,11 @@ The reconstruction for low tide, POc _&ast;maqati_, which continues a PAn form, 
 <td>'<span>low tide</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>mai</i></td>
+<td>SES</td><td><a href="../languages/areare">’Are’are</a></td><td style="white-space: nowrap;"><i>mai</i></td>
 <td>'<span>low tide, ebb tide</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>mei</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa’a</a></td><td style="white-space: nowrap;"><i>mei</i></td>
 <td>'<span>ebb tide, low tide</span>'</td>
 </tr>
 <tr>
@@ -1869,7 +1869,7 @@ POc _&ast;[ma]maca_ ‘dry up, evaporate’, has some reflexes which refer to lo
 <td>'<span>dry</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>mamata</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa’a</a></td><td style="white-space: nowrap;"><i>mamata</i></td>
 <td>'<span>be high and dry, of a reef; be dry at low water</span>'</td>
 </tr>
 <tr>
@@ -1901,7 +1901,7 @@ POc _&ast;[ma]maca_ ‘dry up, evaporate’, has some reflexes which refer to lo
 <td>'<span>dry up, dry reef; low tide</span>'[^2]</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>mara</i></td>
+<td>Mic</td><td><a href="../languages/kiribati">Kiribati</a></td><td style="white-space: nowrap;"><i>mara</i></td>
 <td>'<span>moistened, soaked, softened</span>'</td>
 </tr>
 <tr>
@@ -2022,7 +2022,7 @@ POc _&ast;Ruap_ has been long-established as a term for high tide, with a PMP an
 <td>'<span>high tide; flow in, of tide; heavy sea, big waves</span>' (<span><em>lua-lua</em> ‘breakers’, <em>lua ni odu</em> ‘a big swell’</span>)</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>lue</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa’a</a></td><td style="white-space: nowrap;"><i>lue</i></td>
 <td>'<span>flood tide</span>'</td>
 </tr>
 <tr>
@@ -2034,7 +2034,7 @@ POc _&ast;Ruap_ has been long-established as a term for high tide, with a PMP an
 <td>'<span>flood tide</span>' (<span><em>lua</em> + <em>afe</em> ‘flow’</span>)</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>rua</i></td>
+<td>SES</td><td><a href="../languages/areare">’Are’are</a></td><td style="white-space: nowrap;"><i>rua</i></td>
 <td>'<span>flood tide, incoming tide</span>' (<span><em>rua paina</em> ‘high tide’</span>)</td>
 </tr>
 <tr>
@@ -2046,7 +2046,7 @@ POc _&ast;Ruap_ has been long-established as a term for high tide, with a PMP an
 <td>'<span>flow of tide, high tide, flood tide</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/fortsenal">Fortsenal</a></td><td style="white-space: nowrap;"><i>ua</i></td>
+<td>NCV</td><td><a href="../languages/kiai">Kiai</a></td><td style="white-space: nowrap;"><i>ua</i></td>
 <td>'<span>make waves</span>'</td>
 </tr>
 <tr>
@@ -2565,7 +2565,7 @@ Two POc reconstructions are glossed simply as ‘reef’, _&ast;sakaRu_ and _&as
 <td>'<span>reef</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>taʔalu</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa’a</a></td><td style="white-space: nowrap;"><i>taʔalu</i></td>
 <td>'<span>shoal water, a coral patch under water</span>'</td>
 </tr>
 <tr>
@@ -2573,7 +2573,7 @@ Two POc reconstructions are glossed simply as ‘reef’, _&ast;sakaRu_ and _&as
 <td>'<span>a shoal, shoalwater</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>taʔaru</i></td>
+<td>SES</td><td><a href="../languages/areare">’Are’are</a></td><td style="white-space: nowrap;"><i>taʔaru</i></td>
 <td>'<span>shoal, reef in shallow water</span>'</td>
 </tr>
 <tr>
@@ -2589,7 +2589,7 @@ Two POc reconstructions are glossed simply as ‘reef’, _&ast;sakaRu_ and _&as
 <td>'<span>reef</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>rakai</i></td>
+<td>Mic</td><td><a href="../languages/kiribati">Kiribati</a></td><td style="white-space: nowrap;"><i>rakai</i></td>
 <td>'<span>block of coral rocks; rock; reef</span>'</td>
 </tr>
 <tr>
@@ -2659,7 +2659,7 @@ POc _&ast;oda_ ‘reef’ is widely reflected in Micronesian languages, but othe
 <td>'<span>coral reef</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>ora</i></td>
+<td>Mic</td><td><a href="../languages/kiribati">Kiribati</a></td><td style="white-space: nowrap;"><i>ora</i></td>
 <td>'<span>low tide, expanse of beach, strand</span>'</td>
 </tr>
 <tr>
@@ -2675,7 +2675,7 @@ POc _&ast;oda_ ‘reef’ is widely reflected in Micronesian languages, but othe
 <td>'<span>reef</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/trukese">Trukese</a></td><td style="white-space: nowrap;"><i>wōc̣, woc̣o-</i></td>
+<td>Mic</td><td><a href="../languages/chuukese">Chuukese</a></td><td style="white-space: nowrap;"><i>wōc̣, woc̣o-</i></td>
 <td>'<span>reef</span>'</td>
 </tr>
 <tr>
@@ -2720,7 +2720,7 @@ However, further evidence supporting oda as a term for ‘reef’ lies in two re
 </tr>
 <tr>
 <td>SES</td>
-<td><a href="../languages/saa">Sa'a</a></td>
+<td><a href="../languages/saa">Sa’a</a></td>
 <td style="white-space: nowrap"><i>haŋoda</i></td>
 <td>
 '<span>haliotis (sea ear) used as bait for crayfish</span>'</td>
@@ -2776,11 +2776,11 @@ The following reconstruction is attested only in SE Solomonic languages and Rotu
 <td>'<span>shore reef, fringing reef</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>haho</i></td>
+<td>SES</td><td><a href="../languages/areare">’Are’are</a></td><td style="white-space: nowrap;"><i>haho</i></td>
 <td>'<span>the shore reef</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>haho</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa’a</a></td><td style="white-space: nowrap;"><i>haho</i></td>
 <td>'<span>the shore reef</span>'</td>
 </tr>
 <tr>
@@ -2938,11 +2938,11 @@ Isolated patches of submerged reef occur in the open sea between the outer (barr
 <td>'<span>reef</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>maro</i></td>
+<td>SES</td><td><a href="../languages/areare">’Are’are</a></td><td style="white-space: nowrap;"><i>maro</i></td>
 <td>'<span>submerged coral reef</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>mʷalo</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa’a</a></td><td style="white-space: nowrap;"><i>mʷalo</i></td>
 <td>'<span>sunken rock, reef at sea</span>'</td>
 </tr>
 <tr>
@@ -3017,7 +3017,7 @@ Both the SE Solomonic and Micronesian reflexes of PEOc _&ast;baro_ refer to flat
 <td>'<span>flat reef stones</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>ba</i></td>
+<td>Mic</td><td><a href="../languages/kiribati">Kiribati</a></td><td style="white-space: nowrap;"><i>ba</i></td>
 <td>'<span>rock or ledge, continuous and solid</span>'</td>
 </tr>
 <tr>
@@ -3112,11 +3112,11 @@ A feature of coral atolls and of some high islands with barrier reefs is the enc
 <td>'<span>lagoon</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>nāmo</i></td>
+<td>SES</td><td><a href="../languages/areare">’Are’are</a></td><td style="white-space: nowrap;"><i>nāmo</i></td>
 <td>'<span>lake; crevice, deep places in between the reefs</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>namo</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa’a</a></td><td style="white-space: nowrap;"><i>namo</i></td>
 <td>'<span>land-locked harbour</span>'</td>
 </tr>
 <tr>
@@ -3136,7 +3136,7 @@ A feature of coral atolls and of some high islands with barrier reefs is the enc
 <td>'<span>lagoon within a reef</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>namo</i></td>
+<td>Mic</td><td><a href="../languages/kiribati">Kiribati</a></td><td style="white-space: nowrap;"><i>namo</i></td>
 <td>'<span>harbour</span>'</td>
 </tr>
 <tr>
@@ -3326,11 +3326,11 @@ The final nasal of _&ast;sawa(n,ŋ)_ is unexpected but attested in languages tha
 <td>'<span>common prefix to names of landing places</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>tawa</i></td>
+<td>SES</td><td><a href="../languages/areare">’Are’are</a></td><td style="white-space: nowrap;"><i>tawa</i></td>
 <td>'<span>channel in the shore reef; landing place; parting in the hair</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>tawa</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa’a</a></td><td style="white-space: nowrap;"><i>tawa</i></td>
 <td>'<span>opening in the shore reef; used in the names of landing places</span>'</td>
 </tr>
 <tr>
@@ -3338,7 +3338,7 @@ The final nasal of _&ast;sawa(n,ŋ)_ is unexpected but attested in languages tha
 <td>'<span>landing place</span>' (<span><em>savala</em> reinterpreted as <em>sawa</em> ‘landing place’ + <em>lava</em> ‘large’??</span>)</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>rawa</i></td>
+<td>Mic</td><td><a href="../languages/kiribati">Kiribati</a></td><td style="white-space: nowrap;"><i>rawa</i></td>
 <td>'<span>channel, passage through reef</span>'</td>
 </tr>
 <tr>
@@ -3428,11 +3428,11 @@ The final nasal of _&ast;sawa(n,ŋ)_ is unexpected but attested in languages tha
 <td>'<span>landing place</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/areare">'Are'are</a></td><td style="white-space: nowrap;"><i>maritawa</i></td>
+<td>SES</td><td><a href="../languages/areare">’Are’are</a></td><td style="white-space: nowrap;"><i>maritawa</i></td>
 <td>'<span>landing place, channel</span>'</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribatese">Kiribatese</a></td><td style="white-space: nowrap;"><i>mata n rawa-rawa</i></td>
+<td>Mic</td><td><a href="../languages/kiribati">Kiribati</a></td><td style="white-space: nowrap;"><i>mata n rawa-rawa</i></td>
 <td>'<span>channel, gap in reef</span>'</td>
 </tr>
 <tr>
@@ -3523,7 +3523,7 @@ POc _&ast;wasas_ seems basically to have denoted a space between two points, exp
 <td>'<span>open sea</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/mangareva">Mangareva</a></td><td style="white-space: nowrap;"><i>vaʔa</i></td>
+<td>Pn</td><td><a href="../languages/mangareva">Mangarevan</a></td><td style="white-space: nowrap;"><i>vaʔa</i></td>
 <td>'<span>space, interval</span>'</td>
 </tr>
 </table>

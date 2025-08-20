@@ -302,7 +302,7 @@ The term _&ast;qutan_ appears to have denoted uncultivated land in general, whet
 <td>'<span>unusable bush</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/saa">Sa'a</a></td><td style="white-space: nowrap;"><i>walu(malau)</i></td>
+<td>SES</td><td><a href="../languages/saa">Sa’a</a></td><td style="white-space: nowrap;"><i>walu(malau)</i></td>
 <td>'<span>the world, all the islands</span>'</td>
 </tr>
 <tr>
@@ -363,7 +363,7 @@ cf. also:
 </tr>
 <tr>
 <td>Mic</td>
-<td><a href="../languages/trukese">Trukese</a></td>
+<td><a href="../languages/chuukese">Chuukese</a></td>
 <td style="white-space: nowrap;"><i>wənɨ-wən</i></td>
 <td>
 '<span>vegetation, bush</span>'</td>
@@ -649,7 +649,7 @@ POc _&ast;kanaŋ_ and its variant _&ast;kanan_, both 'staple food, food in gener
 <td>'<span>lesser yam, <em>Dioscorea esculenta</em></span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/lukeppono">Lukep (Pono)</a></td><td style="white-space: nowrap;"><i>kana-</i></td>
+<td>NNG</td><td><a href="../languages/lukep">Lukep</a></td><td style="white-space: nowrap;"><i>kana-</i></td>
 <td>'<span>share of food, provisions</span>'</td>
 </tr>
 <tr>
@@ -725,7 +725,7 @@ cf. also:
 </tr>
 <tr>
 <td>NNG</td>
-<td><a href="../languages/lukeppono">Lukep (Pono)</a></td>
+<td><a href="../languages/lukep">Lukep</a></td>
 <td style="white-space: nowrap;"><i>kani-ŋ</i></td>
 <td>
 '<span>yam</span>'</td>
@@ -753,7 +753,7 @@ cf. also:
 </tr>
 <tr>
 <td>NNG</td>
-<td><a href="../languages/poeng">Poeng</a></td>
+<td><a href="../languages/mengen">Mengen</a></td>
 <td style="white-space: nowrap;"><i>kani-ŋ</i></td>
 <td>
 '<span>food</span>'</td>
@@ -816,7 +816,7 @@ cf. also:
 </tr>
 <tr>
 <td></td>
-<td><a href="../languages/protomesomelanesian">Proto Meso-Melanesian</a></td>
+<td><a href="../languages/pmm">PMM</a></td>
 <td style="white-space: nowrap;"><i>&ast;k⟨in⟩ani</i></td>
 <td>
 '<span>staple food</span>'</td>
@@ -910,7 +910,7 @@ Several reflexes of POc _&ast;kuta_ denote a major staple in the language concer
 <td>'<span>staple food</span>'; '<span>eat</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/lukeppono">Lukep (Pono)</a></td><td style="white-space: nowrap;"><i>kuta</i></td>
+<td>NNG</td><td><a href="../languages/lukep">Lukep</a></td><td style="white-space: nowrap;"><i>kuta</i></td>
 <td>'<span>banana cultivar</span>'</td>
 </tr>
 <tr>

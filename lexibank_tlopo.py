@@ -13,10 +13,609 @@ from pycldf.sources import Source, Sources
 #
 # FIXME: move all of pytlopo into pyetymdict.parser!
 #
-from pytlopo.models import Volume, Reflex, Protoform, Gloss
-from pytlopo.util import nested_toc
+from pyetymdict.parser.models import Volume, Reflex, Protoform, Gloss, Parser
+from pyetymdict.parser.util import nested_toc
 
 GLOSS_ID = 0
+POC_GRAPHEMES = "+ ŋʷ gʷ C V N M L a e i o u ā w p b m t d s n r dr l c j y k g q R ŋ ñ pʷ bʷ mʷ kʷ".split()
+# Unexpected:'gʷ',  ā and kʷ
+# See https://en.wikipedia.org/wiki/Proto-Oceanic_language for a mapping to BIPA
+# dr: ⁿr   pre-nasalized voiced alveolar trill consonant
+# R: ʀ   voiced uvular trill consonant
+POC_BIPA_GRAPHEMES = {
+    "dr": "ⁿr",
+    "R": "ʀ",
+    "ñ": "ɲ",
+}
+TRANSCRIPTION = POC_GRAPHEMES + [  # add POC_GRAPHEMES -> reflex_graphemes
+    'C', 'L', 'F', 'N', 'M',  # CLF and NML
+    '⟨', '⟩', '’', '(', ')', '[', ']', '-', '~', '=',  # enclitic boundary
+    'ᵐp', 'ʷa', 'ñʰ', 'jᵐ', 'ɸ', 'ϕ', 'ɸʷ', 'h', 'vʰ', 'pʰ', 'nʰ', 'mʰ', 'tʰ', 'bˠ', 'ᵑk', 'h́',
+    'ᵐb', 'ᵑr', 'lᵐ', 'lʰ',
+    'á', 'ˀa', 'yʰ', 'wʷ', 'kʰ', 'oᵑ',
+    'à', 'a̰', 'ä',
+    'ā',  # macron
+    'ã', 'ã̄', # tilde
+    'â',  # circumflex
+    'æ', 'ʙ', 'œ','œ̄',
+    'oᵐ', 'ᴂ', 'ø̄',
+    'ǣ', 'aᵐ',
+    'ɒ', 'eᵐ', 'ɛᵑ',
+    'ɒ̄', 'nᵐ',
+    'ūᵑ', 'fʰ', 'f',
+    'z', 'ẓ',
+    'tᫀ', 'dᫀ', 'nᫀ',
+    'ʔ',
+    'ð', 'ð̼', 'ð̫', 'ðᫀ',
+    'ɢ', 'g', 'gʷ', 'ᵑg', 'qʷ', 'tʷ', 'lʷ', 'ḷʷ', 'vʷ', 'ᵑgʷ', 'kʷ', 'nʷ', 'fʷ',
+    'γ', 'ɣ', 'hʷ',
+    'ɔ̀', 'χ', # chi
+    'ɔ', 'ʊ', 'o̝',
+    'ɔ̄', 'ċ',
+    'v',
+    'ɵ̄', 'ọ', 'öᵐ', 'ø',
+    'ö', 'ō', 'õ',
+    'ò', 'ó', 'ô', 'ǿ',
+    'î',  # circumflex
+    'ĩ',  # tilde
+    'ì',  # grave
+    'ī',  # macron
+    'ɨ', 'ⁿ', 'ɨ̈', # stroke and diaresis
+    'í',
+    'I',
+    'ĩ̄', 'ɨ̄',
+    'ị', 'ı', 'ıː', 'ɪ',
+    'ʈ', '̄t', 't̼',
+    't', 'ṭ', '†',
+    'x',
+    'θ', 'φ',
+    'b',
+    'ŋ', 'ŋʷ', 'ŋʰ',
+    'ñ',  # tilde
+    'ɲ', 'ɳ',
+    'è', 'ẽ', # tilde
+    'ɛ', 'ɛ́', 'ɛ̄', 'ɛ̃', "ɛ̄", 'ɛ̃́', 'ɛ̀',
+    'ə', 'ə̄', 'ɞ',
+    'é',
+    'ē', # macron
+    'ê', 'ë', 'ẽ̄',
+    'ū', 'ũ', 'ǖ', 'ú̄',
+    'ü', 'û',
+    'ù',
+    'ú',
+    'ʉ̄', 'ʉ', 'w̥',
+    'm̫', 'm̥', 'm̀', 'n̼', 'n̥',
+    'ṣ', 'š', 'ʃ', 'ʒ',
+    'ḍ', 'ɖ', 'ɠ',
+    'ũ̃', 'ʂ',
+    'č',
+    'c̣', 'cʰ', 'ç',
+    'ɬ',
+    'ʌ', 'ʌ̃', 'ʟ', 'ʌ̄̃',
+    'ɭ', 'ḷ', 'ʎ',
+    'ȴ', 'bʸ',
+    'l̥',  # ring below
+    'ʋ', 'ɓ',
+    'sʸ', 'v̈', 'vʸ', 'vᫀ', 'rʰ', 'kʸ', 'ɣʷ',
+    'ɯ', 'mᵚ', 'nᵚ', 'rᵚ', 'ṛᵚ', 'lᵚ', 'pᵚ',
+    'ᶭ', 'lᶭ',  # FIXME: replace with ᵚ
+    'mʸ', 'mᶭ', 'nᶭ', 'pᶭ', 'ᶭp',
+    'β',  # LATIN SMALL LETTER TURNED M - used as superscript!
+    'ṛ', 'ṛᶭ', 'ʁ', 'rᶭ',
+    'r̃', 'ɹ', 'ṛʷ', 'ɾ̄',
+    'ɾ',  # r with fishhook
+    'ɽ', 'z̧', # z with cedilla
+]
+
+GROUPS = [  # read from etc/languages.csv!
+    # Oceanic:
+    "Yap",  # Yapese
+    "Adm",  # Admiralty
+    "NNG",  # North New Guinea
+    "SJ",  # Sarmi/Jayapura
+    "PT",  # Papuan Tip
+    "MM",  # Meso-Melanesian
+    "SES",  # Southeast Solomons
+    "TM",  # Temotu
+    "NCV",  # North and Central Vanuatu
+    "SV",  # South Vanuatu
+    "NCal",  # New Caledonia
+    "Mic",  # Micronesian
+    "Fij",  # Fijian
+    "Pn",  # Polynesian
+    # Other Austronesian:
+    "CMP",  # Central Malayo-Polynesian
+    "Fma",  # Formosan
+    "IJ",  # Irin Jaya
+    "CB",  # PEMP - Cenderawasih Bay
+    "SH",  # PEMP - South Halmahera
+    "RA",  # PEMP - Raja Ampat
+    "Bom",  # PEMP - Bomberai
+    "WMP",  # Western Malayo-Polynesian
+    "SHWNG",
+]
+# Map proto-language ID to extra-graphemes in addition to POC_GRAPHEMES.
+PROTO = {  # csvgrep -c Group -r ".+" -i etc/languages.csv | csvcut -c Name
+    # Oceanic:
+    "PEAd": ['f'], # Adm
+    "PAdm": ['ə', 'f'], # same thing as above?
+    "PWOc": ['v', 'pᵂ'],  # MM, SJ
+    "PNNG": ['v'],  # NNG
+    "PNGOc": ['kʷ'],  # Proto New Guinea Oceanic, i.e. PWOc without reflexes from MM
+    "PPT": ['v'],  # PT
+    "Proto Northwest Solomonic": ['v'],
+    "PSES": ['ɣ', 'v'],  # FIXME: identify with PSS
+    "PNCV": ['ʔ', 'z', 'ɣ', 'v', 'vʷ'],  # NCV
+    "PNCal": ['v', 'hʷ', 'kʰ', 'ᵐb', ],
+    "PMic": ['T', 'S', 'x', 'ō', 'f', 'ū', 'z', 'V', 'ī', 'ə̄', 'ə'],  # Proto Micronesian Mic
+    "Proto Central Micronesian": ['f'],
+    "PChk": ['ē', 'ʉ', 'ɨ', 'ō', 'f', 'ū', 'z', 'V', 'ī', 'ə̄', 'ə'],
+    "PCP": ['z', 'ō', 'ī', 'ŋʷ', 'x', 'ð', 'ĩ', 'ē', 'v', 'ā', 'gʷ'],  # Proto Central Pacific, Fij
+    "PPn": ['ʔ', 'h', 'ō', 'f', 'ū', 'z', 'V', 'ī', 'ə̄', 'ə'],  # PN
+    "PNPn": ['f', 'ū', 'ʔ', 'ā', 'h'],
+    "PEPn": ['f'],
+    "PSV": ['z', 'v', 'ə', 'ɣ'],
+    "PSOc": ['v'],  # Proto Southern Oceanic
+    "Proto Central Vanuatu": ['v'],
+    "PFij": ['v'],
+    "Proto Huon Gulf": ['ɣ', ],
+    "Proto Tongic": ['h'],
+    "Proto Sudest-Nimoa": ['ɣ', ],
+    "Proto Torres-Banks": ['v', 'ʔ', ],
+    "Proto Markham": ['ɣ', ],
+    "Proto Buang": ['h', 'v', 'ɣ', 'ɛ', ],
+    "Proto North New Caledonia": ['ᵐb', ],
+    "Proto Tanna": ['v'],
+    "Proto Kilivila": ['v', 'z'],
+    "Proto N Malakula": ['ɣ', ],
+    "Proto CW Malakula": ['ɣ', 'v'],
+    "Proto Malaita-Makira": ['ʔ', 'ɣ', 'f'],
+    "PAn": ['á', 'C', 'D', 'h', 'N', 'S', 'R', 'T', 'x', 'z', 'Z', 'L', '?', 'ə', '+'],
+    "PAn/PMP": ['h'],
+    "PMP": ['ʔ', 'á', 'C', 'D', 'h', 'N', 'S', 'R', 'T', 'z', 'Z', 'L', '?', 'ə', '+', 'W'],
+    "PWMP": ['S'],
+    "PCEMP": ['ə', 'z'],
+    "PEMP": ['ə', ],
+    "PSS": ['v', 'ɣ'],  # all cognates are from either Northwest or Southeast Solomonic languages
+    "PROc": ['v'],  # NCV, SV, Mic
+    "PEOc": ['z', 'v', 'ŋʷ', 'C'],
+    "Proto Central Papuan": ['ɣ', ], # Languages from PT, MM and NCV
+    "PCEPn": ['ō', 'f', 'ū', 'z', 'V', 'ī', 'ə̄', 'ə'],  # Proto Central Eastern Polynesian; Hawaiian, Maori, Tuamotuan
+    "Proto Hote-Buang": ['ɣ', ],  # 1
+    "Proto Samoic": ['f'],  # 3
+    "Proto Solomons Outlier": ['f'],  # 1
+    "Proto Willaumez": ['h'],  # 2, MM and SES
+}
+
+# FIXME: Map POS patterns to lists of mormalized POS symbols.
+POS = [
+    'ADJ',
+    'ADJ, VI',
+    'ADV',
+    'ADVERB OF INTENSITY',
+    'adverb',
+    'ADV, ADJ',
+    'ADN AFFIX',
+    'C',
+    'DEM',
+    'DIR',
+    'DIR clause-final',
+    'INTERJECTION',
+    'IRREALIS',
+    'REALIS',
+    'LOC',
+    'N',
+    'N LOC',
+    'N, N LOC',
+    'N, ? N LOC',
+    'N, V',
+    'N. V',
+    'N & V',
+    'N, v',
+    'N,V',
+    'N,VI',
+    'N, VI',
+    'N, VT',
+    'VI, N',
+    'VI, U-verb',
+    'VI, inanimate subject',
+    'VT, inanimate object',
+    'N LOC',
+    'N, N Loc',
+    'N + POSTPOSITION',
+    'PLURAL SUBJECT',
+    'V',
+    'V, VC',
+    'V, C',
+    'V; C',
+    'V; N',
+    'VSt',
+    'N,VSt',
+    'N; ADJ',
+    'N; V',
+    'NP',
+    'N, VI, VT',
+    'VSt, N',
+    'VT, VSt',
+    'V; ADJ; N',
+    'V AUX',
+    'V, DIR',
+    'V PERFECTIVE',
+    'V PASSIVE',
+    'VF',
+    'v',
+    'VT', 'vT',
+    'VI',
+    'vI', 'vi',
+    'VT,VI',
+    'VI,VT',
+    'VTI',
+    'VI, VT',
+    'VT, VI',
+    'V & N',
+    'V, ADJ',
+    '?? N LOC, V',
+    'PP',
+    'POSTVERBAL ADV',
+    'PREPV',
+    'preverbal clitic',
+    'PASS',
+    'postposed particle',
+    'PREP',
+    'PRO',
+    'POSTPOSITION',
+    'R-',
+    'R',
+    'RELATIONAL N',
+]
+
+KINSHIP = [
+    '(ADDR)',
+    'BD',
+    'BDC',
+    'BC',
+    'BCC',
+    'BDH',
+    'BS',
+    'BSSD',
+    'BSW',
+    'BW',
+    'CC',
+    'CCC',
+    'CCE',
+    'CD',
+    'CE',
+    'CS',
+    'D',
+    'DDC',
+    'DH',
+    'DSSW',
+    'DSW',
+    'EBS',
+    'EF',
+    'EFB',
+    'EFZ',
+    'EFZH',
+    'EG',
+    'eG',
+    'eGE',
+    'EGC',
+    'EM',
+    'EMByD',
+    'EMM',
+    'EMZ',
+    'EoG',
+    'EoGC',
+    'EoGE',
+    '{EoG}C',
+    'EP',
+    'EPB',
+    'EPF',
+    'EPG',
+    'EPGE',
+    'EPGoC',
+    'EPGsC',
+    'EPMH',
+    'EPP',
+    'E{PsG}',
+    'E{PsG}oC',
+    'ESG',
+    'esG',
+    '{EsG}C',
+    'EsGE',
+    'EZ',
+    'FB',
+    'FBD',
+    'FBDC',
+    'FBDS',
+    'FBeS',
+    'FBoC',
+    'FBS',
+    'FBSC',
+    'FBsC',
+    'FBW',
+    'FC',
+    'FEB',
+    'FeBC',
+    'FeBD',
+    '{FeB}S',
+    'FFB',
+    'FFBD',
+    'FFBDD',
+    'FFBDH',
+    'FFBS',
+    'FFBW',
+    'FFC',
+    'FFF',
+    'FFFBS',
+    'FFFZ',
+    'FFMBW',
+    'FF{PsG}SSW',
+    'FFZD',
+    'FFZS',
+    'FG',
+    'FGCC',
+    'FGS',
+    'FGSC',
+    'FGSCC',
+    'FGSS',
+    'FMB',
+    'FMBS',
+    'FMZS',
+    'FPGSCesC',
+    'F{PsG}CD',
+    'F{PsG}CS',
+    'F{PsG}CSS',
+    'F{PsG}D',
+    'F{PsG}S',
+    'F{PsG}SW',
+    'FW',
+    '{FyB}sC',
+    'FZ',
+    'FZC',
+    'FZCC',
+    'FZCCE',
+    'FZD',
+    'FZDC',
+    'FZDD',
+    'FZDDS',
+    'FZDDDS',
+    'FZDH',
+    'FZDS',
+    'FZH',
+    'FZS',
+    'FZSS',
+    'FZSW',
+    'FZW',
+    'GC',
+    'GCC',
+    'GCE',
+    'GDH',
+    'GEC',
+    'GEF',
+    'GEP',
+    'GF',
+    '{GoC}E',
+    'GS',
+    'GsE',
+    'H',
+    'HB',
+    'HBC',
+    'HeB',
+    '{HeB}',
+    '{HeB}C',
+    'HeBW',
+    'HF',
+    'HFB',
+    'HF{PsG}D',
+    'HFZ',
+    'HFZS',
+    'HGC',
+    'HGS',
+    'HMB',
+    'HMBS',
+    'HP',
+    'H{PeG}SC',
+    'HPGDC',
+    'HyB',
+    'HZ',
+    'HZC',
+    'HZD',
+    'HZH',
+    'MB',
+    'MBC',
+    'MBCC',
+    'MBDC',
+    'MBDDD',
+    'MBDS',
+    '{MBeS}',
+    'MBS',
+    'MBSC',
+    'MBSS',
+    'MBW',
+    'MBysC',
+    'MEZH',
+    'MF',
+    'MFB',
+    'MFBD',
+    'MFBS',
+    'MFF{PsG}D',
+    'MFM',
+    'MFMB',
+    'MFMBS',
+    'MFZDD',
+    'MFZDS',
+    'MFZS',
+    'MFZSD',
+    'MG',
+    'MH',
+    'MMB',
+    'MMBC',
+    'MMBDDC',
+    'MMBDH',
+    'MMC',
+    'MMF',
+    'MMM',
+    'MMMB',
+    'MM{PsG}DD',
+    'MMyZ',
+    'MMZCS',
+    'MMZD',
+    'MMZDDC',
+    'MMZH',
+    'MMZS',
+    'MP',
+    'MPGD',
+    'MPGS',
+    'M{PoG}S',
+    'M{PsG}D',
+    'M{PsG}S',
+    'M{PsG}oG',
+    'MZCC',
+    'MZDC',
+    'MZDoC',
+    'MZDS',
+    'MZH',
+    'MZoC',
+    'MZS',
+    'MZSC',
+    'MZSeC',
+    'MZseC',
+    'oGC',
+    'PB',
+    'PBS',
+    'PBW',
+    'PeGC',
+    '{PeG}CC',
+    '{PesG}sC',
+    'PF',
+    'PFZ',
+    'PGC',
+    'PGCC',
+    'PGCH',
+    'PGCW',
+    'PGD',
+    '{PG}D',
+    'PGDC',
+    'PGDH',
+    'PGeC',
+    'PGESC',
+    'PGoC',
+    'PGS',
+    '{PG}S',
+    'PGsC',
+    'PGsCE',
+    'PGseC',
+    'PGSW',
+    'PGyC',
+    'PM',
+    'PMH',
+    '{PoG}CsE',
+    '{PoG}D',
+    '{PoG}DS',
+    '{PoG}E',
+    '{PoG}eS',
+    '{PoG}oC',
+    '{PoG}SC',
+    '{PoG}sC',
+    '{{PoG}SC}C',
+    '{PoG}sCE',
+    '{PoG}sCsC',
+    '{PoG}SS',
+    '{PoG}yD',
+    '{PoG}ZDDD',
+    'PP',
+    'PPE',
+    'P{PeG}CCC',
+    'PPG',
+    'PPGC',
+    'PPGCD',
+    'PPGCS',
+    'P{PoG}S',
+    'P{PoG}SC',
+    'PPP',
+    'P{PsG}D',
+    'P{PsG}S',
+    '{PsG}C',
+    '{PsG}CC',
+    '{PsG}CDS',
+    '{PsG}D',
+    '{PsG}DC',
+    '{PsG}DD',
+    '{PsG}eC',
+    '{PsG}eS',
+    '{PsG}esC',
+    '{PsG}eS',
+    '{PsG}oC',
+    '{PsG}S',
+    '{PsG}sC',
+    '{PsG}sCE',
+    '{PsG}SD',
+    '{PsG}seC',
+    '{PsG}yC',
+    '{PsG}ysC',
+    '{PseG}C',
+    'PyGC',
+    '{PyG}C',
+    '{PysG}C',
+    '{PysG}sC',
+    'PZ',
+    'PZH',
+    'S',
+    'SDD',
+    'sG',
+    'sGC',
+    'sGCE',
+    'sGE',
+    'sGEoG',
+    'sGE{PsG}oC',
+    'sGsCE',
+    'SSD',
+    'SSS',
+    'SSSS',
+    'SW',
+    'SWB',
+    'SWBW',
+    'WB',
+    'WBC',
+    'WBW',
+    'WByW',
+    '{WeZ}♀H',
+    'WFB',
+    'WFGyD',
+    'WGS',
+    'WM',
+    'WMB',
+    'WMZyD',
+    'WPG',
+    'WSZ',
+    'WZ',
+    'WZC',
+    'WZCC',
+    'WZeH',
+    'WZS',
+    'WZyH',
+    'yG',
+    'yZ',
+    'ZC',
+    'ZCC',
+    'ZCE',
+    'ZD',
+    'ZDC',
+    'ZDDC',
+    'ZDDD',
+    'ZDH',
+    'ZDSW',
+    'ZH',
+    'ZHS',
+    'ZS',
+    'ZSC',
+    'ZSDD',
+    'ZSW',
+    'ZW',
+    'etc',
+    'sGCC',
+]
 
 
 class TlopoWriter(LexibankWriter):
@@ -50,6 +649,8 @@ class Variety(BaseLanguage):
     )
     Alternative_Names = attr.ib(default=None)
     Note = attr.ib(default=None)
+    Map = attr.ib(default=None)
+    Icon = attr.ib(default=None)
 
 
 class Dataset(BaseDataset):
@@ -76,6 +677,32 @@ class Dataset(BaseDataset):
 
     def cmd_download(self, args):
         pass
+
+    @functools.cached_property
+    def parser(self):
+        proto_graphemes, groups = {}, set()
+        langs = {r['Name']: r for r in self.etc_dir.read_csv('languages.csv', dicts=True)}
+        for v in list(langs.values()):
+            if not v['Group']:
+                proto_graphemes[v['Name']] = POC_GRAPHEMES + PROTO.get(v['Name'], []) + ['-']
+            else:
+                groups.add(v['Group'])
+            for alt in v['Alternative_Names'].split('; '):
+                if alt:
+                    assert alt not in langs, alt
+                    langs[alt] = v
+
+        return Parser(
+            [self.raw_dir / 'vol{}'.format(vol) for vol in range(1, 7)],
+            langs,
+            Source.from_bibtex(self.etc_dir.read('citation.bib')),
+            Sources.from_file(self.etc_dir / 'sources.bib'),
+            proto_graphemes=proto_graphemes,
+            reflex_graphemes=TRANSCRIPTION,
+            reflex_groups=list(groups),
+            pos_map={pos: pos for pos in POS},
+            kinship_tags=KINSHIP,
+        )
 
     @functools.cached_property
     def taxa(self):
@@ -207,48 +834,18 @@ class Dataset(BaseDataset):
                     assert gc.startswith('[') and gc.endswith(']')
                     ldicts[gc[1:-1]].append(src.id)
 
-        langs = {r['Name']: r for r in self.etc_dir.read_csv('languages.csv', dicts=True)}
-        reconstructions = []
-        for v in list(langs.values()):
-            for alt in v['Alternative_Names'].split('; '):
-                if alt:
-                    assert alt not in langs, alt
-                    langs[alt] = v
+        langs = self.parser.languoids
 
-        def add_protolang(w):
-            if isinstance(w, Protoform) and w.lang not in langs:
-                args.writer.add_language(
-                    ID=slug(w.lang), Name=w.lang, Is_Proto=True)
-                langs[w.lang] = slug(w.lang)
+        taxon2sections = collections.defaultdict(list)
+        reconstructions, fgs, egs = [], [], []
+        for vol in self.parser.volumes:
+            reconstructions.extend(vol.reconstructions)
+            fgs.extend(vol.formgroups)
+            egs.extend(vol.igts)
 
-        chapter_pages = {}
-        for md in self.raw_dir.glob('vol*/md.json'):
-            for chap in md.parent.read_json(md.name)['chapters']:
-                s, _, e = chap['pages'].partition('-')
-                chapter_pages['{}-{}'.format(md.parent.name.replace('vol', ''), chap['number'])] = \
-                    (int(s), int(e))
-
-        cited = set()
-        fgs, egs, taxon2sections = [], [], collections.defaultdict(list)
-        for vol in range(1, 7):
-            t = self.raw_dir / 'vol{}'.format(vol) / 'text.txt'
-            if not t.exists():
-                continue
-            vol = Volume(
-                t.parent,
-                langs,
-                Source.from_bibtex(self.etc_dir.read('citation.bib')),
-                args.writer.cldf.sources,
-            )
-            for i, rec in enumerate(vol.reconstructions):
-                reconstructions.append(rec)
-            for i, fg in enumerate(vol.formgroups):
-                fgs.append(fg)
-
-            egs.extend(list(vol.igts))
             mddir = self.cldf_dir.joinpath(vol.dir.name)
             mddir.mkdir(exist_ok=True)
-            for num, chapter in vol.chapters.items():
+            for num, chapter in vol.chapters.items():  # Add chapters as CLDF Markdown docs.
                 sources, source_to_sections = set(), collections.defaultdict(set)
                 for fid, label, p in self.iter_figures(chapter.text, vol.num):
                     shutil.copy(p, mddir / p.name)
@@ -270,7 +867,6 @@ class Dataset(BaseDataset):
                     sids = set()
                     CLDFMarkdownLink.replace(text, functools.partial(srcids, sids))
                     if sids:
-                        cited |= sids
                         sources |= sids
                         for s in sids:
                             source_to_sections[s].add(sid)
@@ -278,7 +874,6 @@ class Dataset(BaseDataset):
                     sids = set()
                     CLDFMarkdownLink.replace(chapter.text, functools.partial(srcids, sids))
                     if sids:
-                        cited |= sids
                         sources |= sids
 
                 args.writer.objects['MediaTable'].append(dict(
@@ -302,15 +897,21 @@ class Dataset(BaseDataset):
                 ))
 
         for lg in langs.values():
+            if not lg['Group']:
+                assert any((lg[c] or 'x').split()[0] in {'Early', 'Proto'} for c in {'Alternative_Names', 'Name'})
             args.writer.add_language(
                 ID=lg['ID'],
                 Name=lg['Name'],
                 Glottocode=lg['Glottocode'],
-                Is_Proto=False,
                 Group=lg['Group'],
                 Latitude=lg['Latitude'],
                 Longitude=lg['Longitude'],
-                Source=ldicts.get(lg['Glottocode'], [])
+                Is_Proto=not bool(lg['Group']),
+                Source=ldicts.get(lg['Glottocode'], []),
+                Alternative_Names=lg['Alternative_Names'],
+                Note=lg['Note'],
+                Map=lg['Map'],
+                Icon=lg['Icon'],
             )
 
         for row in self.etc_dir.read_csv('species_and_genera.csv', dicts=True):
@@ -340,8 +941,6 @@ class Dataset(BaseDataset):
                     pfrep = pf
                 pfgloss = (pf.glosses[0].gloss or pf.glosses[0].morpheme_gloss) if pf.glosses else getattr(pf, 'comment', None)
                 if isinstance(pf, Protoform):
-                    add_protolang(pf)
-
                     if (pf.lang, pf.form) not in words:
                         lex = self.add_form(args.writer, pf, gloss2id, langs, lexid2fn)
                         # FIXME: we'll adapt the Description and Parameter_ID lateron, when all glosses have been collected!
@@ -403,9 +1002,6 @@ class Dataset(BaseDataset):
             ))
 
             for i, (name, items) in enumerate(rec.cfs, start=1):
-                #
-                # FIXME: inherit gloss from proto-form gloss!
-                #
                 args.writer.objects['cf.csv'].append(dict(
                     ID='{}-{}'.format(rec.id, i),
                     Name=name,
@@ -414,7 +1010,6 @@ class Dataset(BaseDataset):
                     Chapter_ID='-'.join(rec.id.split('-')[:2]),
                 ))
                 for j, w in enumerate(items, start=1):
-                    add_protolang(w)
                     assert w.lang in langs, w.lang
                     lid = langs[w.lang]['ID'] if isinstance(langs[w.lang], dict) else langs[w.lang]
 
@@ -444,7 +1039,6 @@ class Dataset(BaseDataset):
                 Chapter_ID='-'.join(fg.id.split('-')[:2]),
             ))
             for j, w in enumerate(fg.forms, start=1):
-                add_protolang(w)
                 assert w.lang in langs
                 lid = langs[w.lang]['ID']
 
@@ -484,8 +1078,30 @@ class Dataset(BaseDataset):
                 Example_IDs=[ex.id for ex in eg.examples],
                 Context=eg.context,
             ))
+        self.add_tree(
+            args.writer,
+            self.etc_dir.joinpath('tree.nwk').read_text(encoding='utf8'),
+            separate_file=True,
+            description=self.etc_dir.joinpath('tree_description.txt').read_text(encoding='utf8'),
+        )
 
-        print(len(cited))
+        args.writer.cldf.properties['dc:spatial'] = {
+            'B.1': 'Admiralties and St Matthias Islands',
+            'B.2': 'Schouten (NNG) and Sarmi-Jayapura (possibly NNG)',
+            'B.3': 'The Ngero-Vitiaz linkage (NNG)',
+            'B.4': 'Huon Gulf (NNG)',
+            'B.5': 'Papuan Tip',
+            'B.6': 'New Britain and New Ireland (MM)',
+            'B.7': 'Northwest Solomonic linkage (MM)',
+            'B.8': 'Southeast Solomonic and Temotu',
+            'B.9': 'North Vanuatu',
+            'B.10': 'Central Vanuatu',
+            'B.11': 'South Vanuatu',
+            'B.12': 'Loyalty Islands and New Caledonia',
+            'B.13': 'Micronesian languages and Yapese',
+            'B.14': 'Fiji',
+            'B.15': 'Polynesia',
+        }
 
     def local_schema(self, cldf):
         """
