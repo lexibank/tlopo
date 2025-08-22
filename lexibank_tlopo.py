@@ -896,6 +896,7 @@ class Dataset(BaseDataset):
                     Source_To_Sections={k: list(v) for k, v in source_to_sections.items()},
                 ))
 
+        glangs = {lg.id: lg for lg in args.glottolog.api.languoids()}
         for lg in langs.values():
             if not lg['Group']:
                 assert any((lg[c] or 'x').split()[0] in {'Early', 'Proto'} for c in {'Alternative_Names', 'Name'})
@@ -903,6 +904,7 @@ class Dataset(BaseDataset):
                 ID=lg['ID'],
                 Name=lg['Name'],
                 Glottocode=lg['Glottocode'],
+                Glottolog_Name=glangs[lg['Glottocode']].name if lg['Glottocode'] else None,
                 Group=lg['Group'],
                 Latitude=lg['Latitude'],
                 Longitude=lg['Longitude'],
