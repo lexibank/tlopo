@@ -42,7 +42,7 @@ Available online at http://hdl.handle.net/1885/106908
 
 
 
-- Entries missing sources: 40716/43073 (94.53%)
+- Entries missing sources: 40715/43073 (94.53%)
 
 # Contributors
 

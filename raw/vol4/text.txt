@@ -4232,7 +4232,7 @@ cf. also:
 <
 POc *merari ‘wrasse or parrotfish’
   NNG: Kove          lali              ‘parrotfish, bright blue-green fins and tail’ (irregular loss of first syllable)
-  NCV: Ambae         |mʷera (mavute)|  ‘checkerboard wrasse? (Halichoeres hortulanus)’  (_mavute_ ‘white’) (loss of final _*-ri_ unexpected)
+  NCV: Ambae         |mʷera (mavute)|  ‘checkerboard wrasse? (_Halichoeres hortulanus_)’  (_mavute_ ‘white’) (loss of final _*-ri_ unexpected)
   NCV: Mota          mera              ‘k.o. fish’ (loss of final _*-ri_ unexpected)
   Mic: Marshallese   meṛœ              ‘parrotfish;  wrasse’
   Mic: Ponapean      merer             ‘wrasse’
@@ -4251,7 +4251,7 @@ POc *tapu ‘_Labridae_ sp.’
   PT:  Iduna        tafu-tafufu    ‘small coloured fish on the reef’
   Mic: Satawalese   (yœ)sœ̄p        ‘_Gomphosus varius_, clubnosed wrasse’
 PCP *tuvu ‘_Labridae_ sp.’ (Geraghty 1994)[28]
-  Fij: Wayan        tuvu(masi)     ‘scribbled wrasse (Novaculichthys taeniourus)’
+  Fij: Wayan        tuvu(masi)     ‘scribbled wrasse (_Novaculichthys taeniourus_)’
   Fij: Wayan        tuvu(keli)     ‘wrasse taxon’
 PPn *tufu ‘_Thalassoma_ sp.’
   Pn:  Tongan       tufu           ‘_Thalassoma_’
@@ -4301,7 +4301,7 @@ wrasses they retreat into holes in the coral at night to sleep. Genera include _
 PMP *[(k,q)]ulapi ‘parrotfish’ [30]
 POc *(k,q)ulapi ‘parrotfish spp., incl. _Hipposcarus longiceps_, long-nosed parrotfish’
   Adm: Lou           kʷel          ‘blue-speckled parrotfish (_Leptoscarus vaigiensis_)’
-  Adm: Nali          kuwei         ‘blue-speckled parrotfish’ (Akimichi)
+  Adm: Nali          kuwei         ‘blue-speckled parrotfish’ (Akimichi 1978)
   Adm: Penchal       kʷil          ‘blue-speckled parrotfish’
   Adm: Andra         ulah          ‘_Hipposcarus harid_’ [31]
   Adm: Loniu         uleh          ‘long-nosed parrotfish’
@@ -4353,7 +4353,7 @@ PCP *kām(o,u)tu ‘female _Scarus sordidus_’ (Geraghty 1994)
   Fij: Kadavu          kāmotu          ‘female _Scarus sordidus_’
 PPn *kamutu  ‘_Scarus_ sp. ’ (Hooper 1994)
   Pn:  Tongan          kamutu          ‘_Scarus_ sp.’ (Geraghty. Not in Churchward)
-  Pn:  Tokelauan       kāmutu          ‘S. jonesi, female, green parrotfish’
+  Pn:  Tokelauan       kāmutu          ‘Scarus jonesi, female, green parrotfish’
 cf. also:
   PT:  Gumawana        motu-motu(ya)   ‘k.o. fish’
   SV:  Anejom          n-aumat         ‘k.o. small parrotfish’
