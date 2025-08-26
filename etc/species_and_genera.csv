@@ -136,7 +136,9 @@ ID,name,name_eng,rank,kingdom,phylum,class,order,family,genus,genus_eng,family_e
 2382701,Plectorhinchus chaetodonoides,Harlequin Sweetlips,SPECIES,Animalia,Chordata,Perciformes,Haemulidae,Plectorhinchus,sweetlips,grunts,
 2382732,Plectorhinchus flavomaculatus,Lemonfish,SPECIES,Animalia,Chordata,Perciformes,Haemulidae,Plectorhinchus,sweetlips,grunts,
 2383002,Choerodon graphicus,Graphic tuskfish,SPECIES,Animalia,Chordata,Perciformes,Labridae,Choerodon,tuskfishes,Wrasse,Choerodon transversalis
+2384141,Halichoeres hortulanus,Checkerboard wrasse,SPECIES,Animalia,Chordata,Perciformes,Labridae,Halichoeres,wrasses,,
 2383279,Novaculichthys,,GENUS,Animalia,Chordata,Perciformes,Labridae,Novaculichthys,,Wrasse,
+2383280,Novaculichthys taeniourus,,SPECIES,Animalia,Chordata,Perciformes,Labridae,Novaculichthys,,Wrasse,
 2383304,Cheilinus,,GENUS,Animalia,Chordata,Perciformes,Labridae,Cheilinus,,Wrasse,
 2383305,Cheilinus trilobatus,Tripletail Wrasse,SPECIES,Animalia,Chordata,Perciformes,Labridae,Cheilinus,,Wrasse,
 2383309,Cheilinus fasciatus,redbreasted wrasse,SPECIES,Animalia,Chordata,Perciformes,Labridae,Cheilinus,,Wrasse,
@@ -189,12 +191,14 @@ ID,name,name_eng,rank,kingdom,phylum,class,order,family,genus,genus_eng,family_e
 2390776,Caranx sexfasciatus,Bigeye Trevally,SPECIES,Animalia,Chordata,Perciformes,Carangidae,Caranx,crevallies,Jacks And Pompanos,
 2390805,Caranx ignobilis,Giant Trevally,SPECIES,Animalia,Chordata,Perciformes,Carangidae,Caranx,crevallies,Jacks And Pompanos,
 2390854,Scomberoides,leatherjackets,GENUS,Animalia,Chordata,Perciformes,Carangidae,Scomberoides,,Jacks And Pompanos,
-2390871,Scomberoides lysan,Doublespotted Queenfish,SPECIES,Animalia,Chordata,Perciformes,Carangidae,Scomberoides,leatherjackets,Jacks And Pompanos,
+2390871,Scomberoides lysan,Doublespotted Queenfish,SPECIES,Animalia,Chordata,Perciformes,Carangidae,Scomberoides,leatherjackets,Jacks And Pompanos,Chorinemus tolooparah
+2390863,Scomberoides commersonnianus,Talang queenfish,SPECIES,Animalia,Chordata,Perciformes,Carangidae,Scomberoides,leatherjackets,Jacks And Pompanos,
 2391007,Selar crumenophthalmus,Bigeye Scad,SPECIES,Animalia,Chordata,Perciformes,Carangidae,Selar,gogglers,Jacks And Pompanos,Trachurops crumenophthalmus
 2391064,Decapterus macarellus,Mackerel Scad,SPECIES,Animalia,Chordata,Perciformes,Carangidae,Decapterus,round scads,Jacks And Pompanos,
 2391203,Ulua mentalis,Longrakered Trevally,SPECIES,Animalia,Chordata,Perciformes,Carangidae,Ulua,,Jacks And Pompanos,Ulua mandibularis
 2391226,Selaroides leptolepis,Yellowstripe Scad,SPECIES,Animalia,Chordata,Perciformes,Carangidae,Selaroides,,Jacks And Pompanos,
 2391331,Gnathanodon speciosus,Golden Trevally,SPECIES,Animalia,Chordata,Perciformes,Carangidae,Gnathanodon,,Jacks And Pompanos,
+2390522,Atule mate,Yellowtail scad,SPECIES,Animalia,Chordata,Perciformes,Carangidae,Atule,,Jacks And Pompanos,
 2393274,Polydactylus plebeius,thread-fish,SPECIES,Animalia,Chordata,Perciformes,Polynemidae,Polydactylus,barbus,Threadfins,
 2393295,Polydactylus sexfilis,Sixfinger Threadfin,SPECIES,Animalia,Chordata,Perciformes,Polynemidae,Polydactylus,barbus,Threadfins,
 2393442,Bolbometopon,,GENUS,Animalia,Chordata,Perciformes,Scaridae,Bolbometopon,,parrotfishes,
@@ -207,6 +211,7 @@ ID,name,name_eng,rank,kingdom,phylum,class,order,family,genus,genus_eng,family_e
 2393756,Scarus prasiognathos,Singapore Parrotfish,SPECIES,Animalia,Chordata,Perciformes,Scaridae,Scarus,parrotfishes,parrotfishes,Scarus chlorodon
 2393846,Hipposcarus longiceps,Pacific Longnose Parrotfish,SPECIES,Animalia,Chordata,Perciformes,Scaridae,Hipposcarus,,parrotfishes,
 2393848,Hipposcarus harid,Candelamoa Parrotfish,SPECIES,Animalia,Chordata,Perciformes,Scaridae,Hipposcarus,,parrotfishes,
+2393824,Leptoscarus vaigiensis,Petroleum Parrotfish,SPECIES,Animalia,Chordata,Perciformes,Scaridae,Leptoscarus,,parrotfishes,
 2394208,Sphyraena jello,Pickhandle Barracuda,SPECIES,Animalia,Chordata,Perciformes,Sphyraenidae,Sphyraena,barracudas,barracudas,
 2394210,Sphyraena qenie,Blackfin Barracuda,SPECIES,Animalia,Chordata,Perciformes,Sphyraenidae,Sphyraena,barracudas,barracudas,Sphyraena genie
 2394213,Sphyraena forsteri,Bigeye Barracuda,SPECIES,Animalia,Chordata,Perciformes,Sphyraenidae,Sphyraena,barracudas,barracudas,
@@ -228,6 +233,7 @@ ID,name,name_eng,rank,kingdom,phylum,class,order,family,genus,genus_eng,family_e
 2397867,Makaira mazara,Pacific blue marlin,SPECIES,Animalia,Chordata,Perciformes,Istiophoridae,Makaira,marlins,Billfishes,
 2397938,Kajikia audax,Striped Marlin,SPECIES,Animalia,Chordata,Perciformes,Istiophoridae,Kajikia,,Billfishes,Tetrapturus audax
 2398621,Abudefduf,sergeants,GENUS,Animalia,Chordata,Perciformes,Pomacentridae,Abudefduf,,Damselfishes,
+2398487,Amblyglyphidodon,,GENUS,Animalia,Chordata,Perciformes,Pomacentridae,,,,
 2400695,Neomyxus leuciscus,brown mullet,SPECIES,Animalia,Chordata,Mugiliformes,Mugilidae,Neomyxus,yellowspot mullets,Grey Mullets,Neomyxus chaptalii
 2400831,Ellochelon vaigiensis,Squaretail Mullet,SPECIES,Animalia,Chordata,Mugiliformes,Mugilidae,Ellochelon,,Grey Mullets,Liza vaigiensis
 2401010,Crenimugil crenilabis,Fringelip Mullet,SPECIES,Animalia,Chordata,Mugiliformes,Mugilidae,Crenimugil,fringelip mullets,Grey Mullets,

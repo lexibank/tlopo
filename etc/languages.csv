@@ -202,9 +202,7 @@ drehet,Drehet,Adm,OC,Khehek; Levei-Tulu; Ndrehet; Levei; Levei-Drehet,"= Ndrehet
 likum,Likum,Adm,OC,,,liku1243,-2.16157,146.695,,se31a1c,B.1
 mondropolon,Mondropolon,Adm,OC,,,mond1265,-2.01359,146.931,,se31a1c,B.1
 nyindrou,Nyindrou,Adm,OC,Lindrou; Nyindou,,nyin1250,-2.1143,146.627,,se31a1c,B.1
-tulubohuai,Tulu-Bohuai,Adm,OC,,,tulu1259,-2.14,146.93,,se31a1c,B.1
 bohuai,Bohuai,Adm,OC,,,bohu1238,-2.14,146.93,,se31a1c,B.1
-andrahus,Andra-Hus,Adm,OC,,,andr1248,-1.94,147.10,,de31a1c,B.1
 andra,Andra,Adm,OC,,,andr1248,-1.94,147.00,,de31a1c,B.1
 hus,Hus,Adm,OC,,,andr1248,-1.94,147.10,,de31a1c,B.1
 ponam,Ponam,Adm,OC,,,pona1250,-1.91705,146.88700000000003,Carrier1981,de31a1c,B.1
@@ -381,7 +379,7 @@ balawaia,Balawaia,PT,OC,Sinaugoro (Balawaia),= dialect of Sinaugoro,bala1307,-9.
 saroa,Saroa,PT,OC,,,saro1238,-9.80,147.86,,dffff00,B.5
 taboro,Taboro,PT,OC,Sinaugoro (Taboro),= dialect of Sinaugoro,tabo1240,-9.79791,147.861,,dffff00,B.5
 hula,Hula,PT,OC,Keapara; Keapara Hula,= dialect of Keapara,hula1239,-10.10,147.73,Lean1991;Short1935,dffff00,B.5
-kalo,Kalo,PT,OC,,= dialect of Keapara,kalo1259,-9.99427,147.70499999999998,Kingetal2014,dffff00,B.5
+kalo,Kalo,PT,OC,Keapara (Kalo),= dialect of Keapara,kalo1259,-9.99427,147.70499999999998,Kingetal2014,dffff00,B.5
 aroma,Aroma,PT,OC,,= dialect of Keapara,arom1238,-10.1342,147.95,,dffff00,B.5
 maopa,Maopa,PT,OC,,= dialect of Keapara,maop1237,-10.1342,147.95,Kingetal2014,dffff00,B.5
 motu,Motu,PT,OC,,,motu1246,-9.46,147.15,Lean1991;ListerTurnerandClark1954b;ListerTurnerandClark1954a,sffff00,B.5
@@ -701,7 +699,6 @@ yasawa,Yasawa,Fij,OC,,,waya1268,-16.83,177.46,,ce31a1c,B.14
 nadi,Nadi,Fij,OC,,,west2518,-18.183149999999998,177.647,,ce31a1c,B.14
 efijian,Eastern Fijian dialects,Fij,OC,E Fijian,,east2446,,,,c1100ff,B.14
 bauanfijian,Bauan,Fij,OC,"Fijian; Standard Fijian; Bauan Fijian; Fijian, E (Bauan)",= Standard Fijian,fiji1243,-18.00, 178.33,CapellandLester194546;Capell1941;Churchward1941,c1100ff,B.14
-bau,Bau,Fij,OC,,,bauu1243,-18.00,178.33,,c1100ff,B.14
 boumaa,Boumā,Fij,OC,Boumā Fijian; Bouma; Boumaa,,east2446,-16.83,-179.88,Dixon1988,c1100ff,B.14
 bua,Bua,Fij,OC,,,east2446,-16.88,178.83,,c1100ff,B.14
 bucabay,Buca Bay,Fij,OC,,,east2446,-16.65,179.84,,c1100ff,B.14

@@ -1305,6 +1305,7 @@ Woodfordia superciliosa,,5230807,
 Zosteropidae,,9359,White-Eyes
 Zosterops meeki,,2489413,Tagula White-eye
 Zosterops novaeguineae,,2489409,
+Amblyglyphidodon,,2398487,
 Abudefduf,,2398621,Sergeant Majors
 Acanthocybium solandri,,2374069,Wahoo
 Acanthuridae,,4233,Surgeonfishes
@@ -1439,6 +1440,7 @@ Gymnothorax,,2403463,Common Morays
 Gymnothorax sp.,,,
 Gymnothorax cribroris,,2403953,
 Haemulidae,,12142559,
+Halichoeres hortulanus,,2384141,
 Hemiramphidae,,7191,Halfbeaks
 Hemiramphus,,2368949,
 Hyporhamphus intermedius,Hemiramphus intermedius,2368887,
@@ -1465,6 +1467,7 @@ Labridae,,8535,Wrasse
 Labridae,,8535,Wrasse
 Latidae,,4281,lates perches
 Leiognathidae,,4283,Ponyfishes
+Leptoscarus vaigiensis,,2393824,
 Lethrinidae,,8540,Porgies
 Lethrinus,,2374822,Porgies
 Lethrinus sp.,,2374822,Porgies
@@ -1539,6 +1542,7 @@ Nemipteridae,,4288,False Snappers
 Nemipterus,,2379945,Besugos
 Neomyxus leuciscus,Neomyxus chaptalii,2400695,
 Novaculichthys,,2383279,
+Novaculichthys taeniourus,,2383280,
 Ophichthidae,,9699861,
 Ostraciidae,,2220,Boxfishes
 Ostracion,,2407938,Trunkfishes
@@ -1606,6 +1610,7 @@ Scarus prasiognathos,Scarus chlorodon,2393756,
 Scarus flavipectoralis,,2393629,
 Scarus frenatus,,2393569,
 Scolopsis spp.,,2369316,
+Atule mate,,2390522,
 Chlorurus spp.,,2393457,
 Chlorurus frontalis,Scarus frontalis,5211120,
 Chlorurus strongylocephalus,,5211133,
@@ -1614,8 +1619,9 @@ Chlorurus gibbus,Scarus gibbus,5211129,
 Chlorurus microrhinos,Scarus microrhinos,5211130,
 Scomberoides,,2390854,Leatherjackets
 Scomber australasicus,,2374156,
-Scomberoides lysan,,2390871,Doublespotted Queenfish
+Scomberoides lysan,Chorinemus tolooparah,2390871,Doublespotted Queenfish
 Scomberomorus,,2374232,Spanish Mackerels
+Scomberoides commersonnianus,,2390863,
 Scomberomorus commerson,,2374255,Narrow-barred Spanish Mackerel
 Scomberomorus niphonius,,2374296,
 Scombridae,,8596,Tunas And Mackerels

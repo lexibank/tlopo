@@ -27,9 +27,9 @@ Available online at http://hdl.handle.net/1885/106908
 ![CLTS SoundClass: 59%](https://img.shields.io/badge/CLTS%20SoundClass-59%25-red.svg "CLTS SoundClass: 59%")
 
 - **Varieties:** 757 (linked to 641 different Glottocodes)
-- **Concepts:** 19,943 (linked to 0 different Concepticon concept sets)
+- **Concepts:** 19,942 (linked to 0 different Concepticon concept sets)
 - **Lexemes:** 43,073
-- **Sources:** 579
+- **Sources:** 582
 - **Synonymy:** 1.02
 - **Cognacy:** 41,052 cognates in 2,829 cognate sets (0 singletons)
 - **Cognate Diversity:** -0.74
@@ -42,7 +42,7 @@ Available online at http://hdl.handle.net/1885/106908
 
 
 
-- Entries missing sources: 40722/43073 (94.54%)
+- Entries missing sources: 40716/43073 (94.53%)
 
 # Contributors
 
