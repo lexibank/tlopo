@@ -1257,7 +1257,7 @@ POc *ikan ‘fish (generic)’
 2.4 Sharks: Carcharhinidae, Sphyrnidae etc
 
 In this section and in §5 on rays, I am dealing with sub-orders rather than families.
-Kailola (1987) lists twelve shark families, the best-known probably being Carcharhinidae, the largest,
+Kailola (1987-1991) lists twelve shark families, the best-known probably being Carcharhinidae, the largest,
 with tiger sharks, black-tip and white-tip sharks among its species, and Sphyrnidae, hammerheads.
 
     Most sharks inhabit shallow coastal waters around reefs. A number of species are regarded
@@ -2213,7 +2213,7 @@ PPn *ise ‘halfbeak spp.’ (Hooper 1994)
     The change in gloss in PPn below can be explained because of close resemblance between
 garfishes and some flying fish, with the latter, such as the beaked flying fish,
 _Oxyporhamphus micropterus micropterus_, classified as Exocoetidae by Munro (p. 118) and more recently as
-Hemiramphidae (Kailola 1987:153, FishBase). Half beaks, garfish and flying fish all belong
+Hemiramphidae (Kailola 1987-1991:153, FishBase). Half beaks, garfish and flying fish all belong
 to the same suborder.
 
 50   Meredith Osmond
@@ -4329,7 +4329,8 @@ PPn *qulafi ‘_Scaridae_ spp.’ (Hooper 1994)
 [30] Reconstructed on the basis of Pendau (WMP) _lapeʔ_ ‘parrotfish’ (Phil Quick pers. comm.), together with the
  Oceanic evidence.
 
-[31] _Hipposcarus harid_ is an Indian Ocean species closely related to _Hipposcarus longiceps_ (Kailola:377, FishBase)
+[31] _Hipposcarus harid_ is an Indian Ocean species closely related to _Hipposcarus longiceps_
+(Kailola 1987-1991:377, FishBase)
 
 96   Meredith Osmond
 
@@ -4352,8 +4353,8 @@ POc *kam(a,i,u)tuq ‘_Bolbometopon_, double-headed parrotfish’
 PCP *kām(o,u)tu ‘female _Scarus sordidus_’ (Geraghty 1994)
   Fij: Kadavu          kāmotu          ‘female _Scarus sordidus_’
 PPn *kamutu  ‘_Scarus_ sp. ’ (Hooper 1994)
-  Pn:  Tongan          kamutu          ‘_Scarus_ sp.’ (Geraghty. Not in Churchward)
-  Pn:  Tokelauan       kāmutu          ‘Scarus jonesi, female, green parrotfish’
+  Pn:  Tongan          kamutu          ‘_Scarus_ sp.’ (Geraghty 1994. Not in Churchward)
+  Pn:  Tokelauan       kāmutu          ‘_Pseudoscarus jonesi_, female, green parrotfish’
 cf. also:
   PT:  Gumawana        motu-motu(ya)   ‘k.o. fish’
   SV:  Anejom          n-aumat         ‘k.o. small parrotfish’
@@ -4380,7 +4381,7 @@ the Bauro and Rapa reflexes, _*-n-_ in the remaining Polynesian reflexes.
 POc *me[l,n]aŋa~*ma[l,n]eŋa ‘k.o. parrotfish’
   PT:   Gapapaiwa     mena-menaɣa            ‘parrotfish’
   SES:  Bauro (West)  mareŋa                 ‘parrotfish’ (Barnett 1978)
-  Pn:   Niuatoputapu  meneŋa                 ‘Scarus jonesi’
+  Pn:   Niuatoputapu  meneŋa                 ‘_Pseudoscarus jonesi_’
   Pn:   Tongan        meneŋa                 ‘parrotfish, greenish-blue’
   Pn:   Niuean        moneŋa                 ‘bluish parrotfish, _Scarus_ sp.’
   Pn:   Pukapukan     māneŋa                 ‘_Chlororus microrhinos_, blunt-headed parrotfish’
@@ -4438,14 +4439,14 @@ POc *bʷos ‘_Scarus_ sp., k.o. parrotfish’
    MM:  Patpatar       pos                ‘long-nosed parrotfish’
    TM:  Buma           boro               ‘_Scarus blochi_’
 PCP *bōsē ‘_Scarus_ sp.’ (Geraghty 1994)
-   Fij: Lau (Eastern Fijian)            bōsē               ‘_Scarus_ sp.’
+   Fij: Lau (Eastern Fijian)    bōsē      ‘_Scarus_ sp.’
    Pn:  Niuatoputapu   pōsē               ‘parrotfish’
 cf. also:
    Pn:  Pukapukan      mōyē               ‘k.o. wrasse, _Stethojulis bandanensis_’
 >
 
     Lower-level reconstructions include PNCV _*saumʷa_ ‘parrotfish, _Scarus
-sp._’ (François 2005:499), PCP _*bobo_ ‘_Scarus_ sp.’ (Geraghty p. 160) and PPn _*qufu_ ‘wrasse
+sp._’ (François 2005:499), PCP _*bobo_ ‘_Scarus_ sp.’ (Geraghty 1994: p. 160) and PPn _*qufu_ ‘wrasse
 or parrotfish’ (Hooper 1994: p.217).
 
                                                                                      Fish   99
@@ -4455,7 +4456,7 @@ or parrotfish’ (Hooper 1994: p.217).
 
 Fijian _iko-tokoto-nivōsai_ and PNPn _*takoto_ (E Uvean and Samoan), although evidently similar,
 are both independently derived from the verb PCP _*(ta)koto_ ‘lie down’, which is typical
-sandperch behaviour (Geraghty p. 160). Samoan _taʔoto_ is glossed ‘saury’, a fish from a different
+sandperch behaviour (Geraghty 1994: p. 160). Samoan _taʔoto_ is glossed ‘saury’, a fish from a different
 family, but one which also tends to lie on the bottom, sometimes burying itself in sand.
 No widespread cognate sets have been located.
 
@@ -4463,8 +4464,8 @@ No widespread cognate sets have been located.
 2.49 Gobies, including mudskippers (Gobiidae), blennies (Blenniidae)
 
 Gobies are very small sluggish fishes abundant about reefs and coral. They are usually found
-sheltering among weeds, under stones or in crevices, in rock pools and quiet water (Munro
-p.493). They constitute the largest family of marine fishes worldwide with several hundred
+sheltering among weeds, under stones or in crevices, in rock pools and quiet water (Munro 1967: p.493).
+They constitute the largest family of marine fishes worldwide with several hundred
 species in New Guinea alone, but the paucity of terms in dictionaries for gobies suggests they
 are of little importance. There are some freshwater species. Mudskippers or land gobies can
 leave the water and hop or crawl over rocks or mud in search of food. They were formerly
@@ -4511,7 +4512,7 @@ PEOc *bakopu ‘k.o. fish, possibly _Eleotris_ sp.’
 >
 
    Two lower-level reconstructions are PCP _*uvi_ ‘k.o. fish, poss. Eleotridae’ and PCP
-_*vo(q)o_ ‘k.o. small fish’, PFij _*vō_ ‘Eleotridae’ (Geraghty p.168).
+_*vo(q)o_ ‘k.o. small fish’, PFij _*vō_ ‘Eleotridae’ (Geraghty 1994: p.168).
 
 
 2.51 Whitebait
@@ -4546,8 +4547,8 @@ made.
 Moorish idols superficially resemble butterflyfish, with strongly marked bands of black,
 white and yellow, but have a distinctive protruding snout. They are found around coral reefs
 in shallow water. Formerly two species were recognised, _Zanclus canescens_ and _Zanclus cornutus_,
-but the former is now considered the juvenile form of the latter (Kailola p.459, FishBase).
-Hooper (p.215) has reconstructed PNPn _*laulau-fau_ ‘_Zanclus canescens_, Moorish idol’.
+but the former is now considered the juvenile form of the latter (Kailola 1987-1991: p.459, FishBase).
+Hooper (1994: p.215) has reconstructed PNPn _*laulau-fau_ ‘_Zanclus canescens_, Moorish idol’.
 
 
 2.54 Unicornfishes, surgeonfishes, bristletooths, tangs (Acanthuridae)
@@ -4580,7 +4581,7 @@ POc *qume ‘_Naso unicornis_, long-snouted unicornfish’
   Mic: Woleaian        xium            ‘k.o. fish with long snout’
   Mic: Sonsorolese     gume            ‘_Naso unicornis_’
   Mic: Satawalese      kim             ‘_Naso unicornis_’
-PPn *qume ‘Naso sp., unicornfish’ (Hooper 1994)
+PPn *qume ‘_Naso_ sp., unicornfish’ (Hooper 1994)
   Pn:  Tongan          ʔume            ‘_Naso unicornis_’
   Pn:  Niuatoputapu    ʔume            ‘_Naso_ spp.’
   Pn:  Samoan          ume             ‘name given to mature fishes of the genus _Naso_ when about 30 cm long and over’ (_ume-lei_ ‘_Naso_ when about 15 cm long’)
@@ -4701,7 +4702,7 @@ POc *[s,j]abiŋ ‘_Acanthurus_ spp., incl. _Acanthurus guttatus_, white-spotted
   Adm: Loniu         capaŋ     ‘possible tang or surgeonfish’
   Mic: Kiribati      riba      ‘_Acanthurus_, surgeonfish generic’ (vowel metathesis)
 PCP *(s,ð)abi ‘_Acanthurus guttatus_, spotted surgeonfish’ (Geraghty 1994)
-  Fij: Lau (Eastern Fijian)           sabi      ‘_Acanthurus guttatus_’
+  Fij: Lau (Eastern Fijian)     sabi      ‘_Acanthurus guttatus_’
 PPn *hapi ‘_Acanthurus guttatus_’ (Hooper 1994)
   Pn:  Tongan        hapi      ‘k.o. fish’
   Pn:  Niuean        hapi      ‘_Acanthurus guttatus_, surf surgeonfish’
@@ -4771,7 +4772,7 @@ POc *bolo ‘small dark surgeonfish, possibly _Ctenochaetus_’
 
 <
 PEOc *bon(e,a) ‘generic for various small Acanthuridae’
-  SES: Gela        bo-bona     ‘generic for various spp. incl. _Acanthurus nigrofuscus_ (dusky surgeonfish), _Ctenochaetus striatus_ (lined bristletooth) and Zebrasoma scopas (blue-lined tang)’
+  SES: Gela        bo-bona     ‘generic for various spp. incl. _Acanthurus nigrofuscus_ (dusky surgeonfish), _Ctenochaetus striatus_ (lined bristletooth) and _Zebrasoma scopas_ (blue-lined tang)’
   Fij: Lau (Eastern Fijian)         pone        ‘_Acanthurus nigrofuscus_’
 PPn *pone ‘_Acanthurus_ sp. or _Ctenochaetus striatus_’ (Hooper 1994)
   Pn:  Tongan      pone        ‘k.o. fish, small, black, nearly circular; _Ctenochaetus striatus_ and _Acanthurus_ sp.’
@@ -4831,7 +4832,7 @@ PCP *balaŋi ‘_Acanthurus_ spp.’ (Geraghty 1994)
 PPn *palaŋi ‘_Acanthurus_ sp. of large size and elongate shape’ (Hooper 1994)
   Pn:  Tongan         palaŋi       ‘k.o. fish’
   Pn:  Samoan         palaŋi       ‘name given to certain fishes of the genus _Acanthurus_ (surgeon fishes) when about 30 cm long’
-  Pn:  Rennellese     pagaŋi       ‘k.o. surgeonfish, perhaps ring-tail surgeonfish: A xanthopterus’
+  Pn:  Rennellese     pagaŋi       ‘k.o. surgeonfish, perhaps ring-tail surgeonfish: _Acanthurus xanthopterus_’
   Pn:  K’marangi      palaŋi       ‘_Acanthurus xanthopterus_, black-barred surgeonfish’
   Pn:  Tikopia        paraŋi       ‘surgeonfish’
   Pn:  Tahitian       paraʔi       ‘_Acanthurus xanthopterus_’
@@ -4844,14 +4845,14 @@ cf. also:
 
 <
 PROc *manini ‘_Acanthurus triostegus_, convict tang’
-  NCV: Raga            manini         ‘_Acanthurus_ spp. incl. _Acanthurus triostegus_’
-  NCV: Namakir         manin          ‘k.o. surgeonfish’
-  Fij: Lau (Eastern Fijian)             manini         ‘_Acanthurus triostegus_’
-  Pn:  Tongan          manini         ‘_Acanthurus triostegus_’
-  Pn:  E Futunan       manini         ‘_Acanthurus triostegus_’
-  Pn:  Samoan          manini         ‘_Acanthurus triostegus_’
-  Pn:  Tikopia         manini         ‘_Acanthurus triostegus_’
-  Pn:  Tahitian        manini         ‘_Acanthurus triostegus_’
+  NCV: Raga                  manini         ‘_Acanthurus_ spp. incl. _Acanthurus triostegus_’
+  NCV: Namakir               manin          ‘k.o. surgeonfish’
+  Fij: Lau (Eastern Fijian)  manini         ‘_Acanthurus triostegus_’
+  Pn:  Tongan                manini         ‘_Acanthurus triostegus_’
+  Pn:  E Futunan             manini         ‘_Acanthurus triostegus_’
+  Pn:  Samoan                manini         ‘_Acanthurus triostegus_’
+  Pn:  Tikopia               manini         ‘_Acanthurus triostegus_’
+  Pn:  Tahitian              manini         ‘_Acanthurus triostegus_’
 >
 
    Geraghty (1994: pp. 161-162) adds further PCP reconstructions: PCP _*tusi_ ‘_Acanthurus_ sp.’
@@ -4911,7 +4912,7 @@ POc *roRo ‘growth stage of _Siganus_ spp.’
   Adm: Andra         dro(ŋ)     ‘_Siganus rostratus_, _Siganus argenteus_’ (_Siganus rostratus_ is a junior synonym of _Siganus argenteus_)
 PCP *rō ‘juvenile Siganus’ (Geraghty 1994)
   Fij: Rotuman       rō         ‘small silvery fish’ (poss. loan from Samoan)
-PPn *rō ‘_Siganus_ sp.’ (Hooper has _*ō_ ‘tuna baitfish, such as fry of Siganus spp. or _Caesio_ spp.’; pp.192, 227)
+PPn *rō ‘_Siganus_ sp.’ (Hooper 1994 has _*ō_ ‘tuna baitfish, such as fry of _Siganus_ spp. or _Caesio_ spp.’; pp.192, 227)
   Pn:  Tongan        ō          ‘_Siganus vermiculatus_’
   Pn:  Niuatoputapu  ō          ‘growth stage of Siganus’
   Pn:  Samoan        lō         ‘_Siganus_ sp.’
@@ -4919,7 +4920,7 @@ PPn *rō ‘_Siganus_ sp.’ (Hooper has _*ō_ ‘tuna baitfish, such as fry of 
 cf. also:
   Pn:  E Uvean       ō          ‘_Siganus_ sp.’ (expect _lō_)
   Pn:  Tikopia       ō          ‘_Siganus rostratus_ [Siganus argenteus], _Siganus punctatus_, spotted rabbitfish’ (expect _rō_)
-  Pn:  Tokelauan     ō          ‘tiny fish which form dense, spherical schools outside the reef during dark phases of the moon’ (Hooper p.192)
+  Pn:  Tokelauan     ō          ‘tiny fish which form dense, spherical schools outside the reef during dark phases of the moon’ (Hooper 1994: p.192)
 >
 
    The Admiralties languages below reflect _*pajal(a)_, and it is possible that the POc form
@@ -4932,11 +4933,11 @@ POc *palaja ‘_Siganus_ spp., rabbitfish’ (ACD: POc _*(p,b)ala-(p,b)ala_ ‘f
   Adm:   Lou          posowe        ‘rabbitfish’ (_-w-_ for †_-l-_)
   MM:    Lihir        plats         ‘_Siganus lineatus_, _Siganus guttatus_, _Siganus corallinus_’
   MM:    Tolai        pala-pala     ‘fish sp.’
-  SES:   Lau          falata        ‘_Siganus_ sp.’ (Akimichi)
+  SES:   Lau          falata        ‘_Siganus_ sp.’ (Akimichi 1978)
   SES:   Arosi        harata        ‘k.o. fish’
   SES:   Kahua        farata        ‘_Siganus rostratus_’ [Siganus argenteus]
   NCV:   Vera’a       basara        ‘_Siganus canaliculatus_’ (metathesis)
-  NCV:   S Efate      fser          ‘forktail rabbitfish’ [Siganus argenteus] (metathesis)
+  NCV:   S Efate      fser          ‘forktail rabbitfish (_Siganus argenteus_)’ [Siganus argenteus] (metathesis)
   Mic:   Ponapean     pala-pal      ‘_Siganus punctatus_’ (gold-spotted spinefoot)
   Fij:   Wayan        volaða        ‘_Siganus lineatus_’ (golden-lined spinefoot)
 >
@@ -4946,9 +4947,9 @@ POc *palaja ‘_Siganus_ spp., rabbitfish’ (ACD: POc _*(p,b)ala-(p,b)ala_ ‘f
 
 <
 POc *muroR ‘_Siganus argenteus_, silver or rabbit-faced spinefoot’
-  Adm:   Nali          mʷilou        ‘Siganus, rabbit-faced spinefoot’
+  Adm:   Nali          mʷilou        ‘_Siganus_, rabbit-faced spinefoot’
   Adm:   Andra         muleo          ‘_Siganus javus_, rabbitfish’
-  Adm:   Lenkau        mulow          ‘rabbit-faced spinefoot, Siganus’ (_-l-_ for †_-r-_)
+  Adm:   Lenkau        mulow          ‘rabbit-faced spinefoot, _Siganus_’ (_-l-_ for †_-r-_)
   MM:    Nehan         mur            ‘spinefoot, rabbitfish’
   MM:    Maringe       morora         ‘rabbit fish with yellow colouring’
   Pn:    Rarotongan    muro           ‘k.o. fish caught at night with hand net’ (Buck)
@@ -5001,7 +5002,7 @@ Figure 2.28: _Katsuwonus pelamis_, skipjack tuna
 Munro recognised distinct families: Katsuwonidae (skipjack and dogtooth tuna), Scombero-moridae
 (Spanish mackerel), Scombridae (mackerel), Thunnidae (albacore, tunnies, big eye,
 bluefin and yellowfin tuna), and Acanthocybidae (wahoo), but these have now been combined
-as one family, Scombridae (Kailola (1987:467, FishBase). These fish are mostly large, fast
+as one family, Scombridae (Kailola (1987-1991:467, FishBase). These fish are mostly large, fast
 surface predators, highly regarded both for food and sport. There is considerable variation
 in English glosses within cognate sets, due possibly to variable popular usage of terms like
 tuna, bonito, tunny and mackerel by wordlist compilers. In particular, although the English
@@ -5425,12 +5426,12 @@ mouth with powerful jaws. They are feeble swimmers, herbivorous, generally solit
 habit, seeking shelter among coral heads and weeds. The flesh of many is poisonous, although
 others are used for food (Munro 1967: p.557). Closely related to Balistidae are the Monacanthidae
 (formerly Aluteridae), leatherjackets and filefishes. They differ from triggerfish in skin texture,
-leatherjackets having a leathery skin while that of filefish is rough and velvety (Munro
-p.564). Four POc terms are reconstructable, with _*jumu_ the most likely candidate for a generic
+leatherjackets having a leathery skin while that of filefish is rough and velvety (Munro 1967: p.564).
+Four POc terms are reconstructable, with _*jumu_ the most likely candidate for a generic
 term. _*bubu_ and _*[bʷaRu]bʷaRu_ may, like _*lio-lio_, have had more specific reference.
 Variability of gloss frequently indicates only variability of common names for the same species.
 For instance, common names for Pseudobalistesfuscus include the yellow-spotted triggerfish
-(Allen & Swainston) or brown triggerfish (Kailola). Although juveniles have yellow lines and
+(Allen & Swainston 1993) or brown triggerfish (Kailola 1987-1991). Although juveniles have yellow lines and
 spots, adults have overall dark coloration.
 
 <
@@ -5442,7 +5443,7 @@ POc *jumu ‘Balistidae, triggerfish and possibly Monacanthidae, leatherjackets�
   NCV:  Namakir        him        ‘triggerfish’
   SV:   Anejom         ne-θomʷ    ‘_Rhinecanthus_ sp., triggerfish’
   NCal: Iaai           (wa)jimü   ‘_Balistes_ sp.’
-PCP *cumu ‘_Balistoidei_, triggerfish’ (Geraghty 1994)
+PCP *cumu ‘Balistoidei, triggerfish’ (Geraghty 1994)
   Fij:  Rotuman        sumi       ‘leather jacket’
   Fij:  Bauan          sumu-sumu  ‘fish like the porcupine fish, but with no prickles. _Tetrodon_ spp.’
   Fij:  Wayan          ðum        ‘generic for Balistidae and some or all Monacanthidae’
@@ -5470,7 +5471,7 @@ POc *bubu ‘_Balistes_ taxon, triggerfish’
   Adm: Seimat       pup          ‘k.o. reef fish with one large thorn on the back and several by the tail, good to eat’
   NNG: Mangap       bubu         ‘k.o. fish’
   NNG: Manam        bubu         ‘triggerfish’
-  NNG: Gedaged      bub          ‘_Pseudobalistes flavimarginatus_’ (green triggerfish) (Mueller)
+  NNG: Gedaged      bub          ‘_Pseudobalistes flavimarginatus_’ (green triggerfish) (Mueller 1985)
   NNG: Takia        bub          ‘_Pseudobalistes flavimarginatus_’ (Mueller 1985)
   PT:  Ubir         fofo         ‘k.o. fish’
   MM:  Sursurunga   bobo         ‘triggerfish’
@@ -5510,7 +5511,7 @@ POc *[bʷaRu]bʷaRu ‘_Balistes_ taxon, triggerfish’
   SV:    Anejom       na-pʷou           ‘k.o. triggerfish’
   NCal:  Nelemwa      fʷa               ‘_Balistes_ sp.’
   Fij:   Nadroga      gʷau              ‘large Balistidae’
-  Fij: Lau (Eastern Fijian)          gau               ‘large Balistidae’
+  Fij: Lau (Eastern Fijian)    gau      ‘large Balistidae’
   Fij:   Kadavu       gau               ‘_Balistes_ spp., larger than cumu.’
 cf. also:
   Adm:   Titan        pʷalus            ‘triggerfish’
@@ -5539,20 +5540,22 @@ POc *lio-lio ‘_Pseudobalistes fuscus_, brown triggerfish’
 
 2.62 Boxfishes, trunkfishes, cowfishes (Ostraciidae)
 
-Members of this family are bottom dwellers in shallow water often around coral reefs. Normal scales have been replaced by bony plates fused into a hard box-like carapace. Mouth,
+Members of this family are bottom dwellers in shallow water often around coral reefs. Normal
+scales have been replaced by bony plates fused into a hard box-like carapace. Mouth,
 eyes and fins are the only movable parts. All are extremely shy, feeble swimmers, but some
-are beautifully coloured. Some are reputed to have toxic flesh (Munro 1967: p.571). The next reconstruction is suspiciously similar to POc _*[bʷaRu]bʷaRu_ ‘_Balistes_ taxon, triggerfish’, on
+are beautifully coloured. Some are reputed to have toxic flesh (Munro 1967: p.571). The next
+reconstruction is suspiciously similar to POc _*[bʷaRu]bʷaRu_ ‘_Balistes_ taxon, triggerfish’, on
 page 122, but this seems due to chance, as the glosses clearly allow a separate reconstruction.
 
 124     Meredith Osmond
 
-Figure 2.33: _Ostracion_ nasus, shortnosed boxfish
+Figure 2.33: _Ostracion nasus_, shortnosed boxfish
 
 <
 POc *bʷaReu ‘_Ostracion_, boxfish’
   PT:  Misima      bʷale(loga)        ‘_Choerodon anchorago_, anchor trunkfish’
   SES: Lau         kʷaleu             ‘k.o. fish’
-PROc *bʷar(o)-bʷar(o) ‘_Ostracion_, boxfish’ (Lynch: PSO *bʷar(o)-bʷar(o))
+PROc *bʷar(o)-bʷar(o) ‘_Ostracion_, boxfish’ (Lynch: PSO _*bʷar(o)-bʷar(o)_)
   NCV: Mwotlap     na-pʷay-pʷay       ‘_Ostracion meleagris_, white-spotted boxfish’
   NCV: Uripiv      (da)pur-pur        ‘_Ostracion_, boxfish’
 PCP *gʷao-gʷao ‘_Ostracion_’ (Geraghty 1994)
@@ -5589,13 +5592,13 @@ PPn *moa-moa ‘Ostraciidae, boxfish’ (Hooper 1994)
   Pn:  Tokelauan   moa-moa         ‘_Ostracion_ or _Lactoria__ spp.’
   Pn:  Rennellese  moa-moa         ‘generic for boxfish, coffinfish, trunkfish, cowfish’
   Pn:  Samoan      moa-moa         ‘trunkfish, genera _Ostracion_’
-  Pn:  Hawaiian    moa             ‘k.o. trunkfish, pahu’
+  Pn:  Hawaiian    moa             ‘k.o. trunkfish, _pahu_’
 >
 
                                                                                   Fish    125
 
 
-2.63 Puffers, toadfishes and blowfishes (Tetraodontidae); porcupinefishes and balloonfishes (_Diodon_tidae)
+2.63 Puffers, toadfishes and blowfishes (Tetraodontidae); porcupinefishes and balloonfishes (Diodontidae)
 
 Puffers are sluggish fish which fill the belly with air when disturbed, and then float to the
 surface. They are feeble swimmers. Closely related are porcupine fish which are also selfinflating,
@@ -5633,7 +5636,7 @@ PCP *tautu ‘_Diodon_ sp.’ (Geraghty 1990)
   Fij:  Rotuman        faufu          ‘fish which inflates itself when caught: covered with spikes like a porcupine’
 PPn *tautu ‘_Diodon_ spp., porcupine fish’ (Hooper 1994)
   Pn:   Niuatoputapu   toutu         ‘adult growth stage of porcupinefish’
-  Pn:   E Uvean        tautu         ‘_Diodon_tidae (no distinction of genera or species)’
+  Pn:   E Uvean        tautu         ‘Diodontidae (no distinction of genera or species)’
   Pn:   Rennellese     tautu         ‘general name for balloon fish (porcupine fish)’
   Pn:   Samoan         tautu         ‘fish, _Diodon_ sp., with very sharp spines’
   Pn:   Tokelauan      tautu         ‘_Diodon_ sp.’
@@ -5642,7 +5645,7 @@ PPn *tautu ‘_Diodon_ spp., porcupine fish’ (Hooper 1994)
 
 126    Meredith Osmond
 
-Figure 2.34: Arothron leopardus, leopard pufferfish
+Figure 2.34: _Arothron leopardus_, leopard pufferfish
 
 
    The next reconstruction is a semantic extension of POc _*poto(k)_ ‘thorn’ (vol.3, p. 125).
@@ -6264,8 +6267,8 @@ __table__
    Gela                |  Florida, central Solomons     |  SE Solomonic      | Foale 1998
    K’marangi           |  atoll south of the Carolines  |  Polynesian        | Lieber and Dikepa 1974
    Kiribati            |  atoll chain, Kiribati         |  Micronesian       | Thaman & Tabano n.d.
-   Lau                 |  Malaita, SE Solomons          |  SE Solomonic      | Fox 1974. Akimichi 1978
-   Marovo              |  New Georgia. W Solomons       |  NW Solomonic      | Hviding 1990. 1996. 2005
+   Lau                 |  Malaita, SE Solomons          |  SE Solomonic      | Fox 1974, Akimichi 1978
+   Marovo              |  New Georgia. W Solomons       |  NW Solomonic      | Hviding 1990, 1996, 2005
    Marquesan           |  Eastern Polynesia             |  Polynesian        | Lavondes 1977
    M’bunai Titan       |  Admiralty Islands. PNG        |  Admiralties       | Akimichi & Sakiyama 1991
    Motu                |  Central Province, PNG         |  Papuan Tip        | Oram n.d.
@@ -6378,7 +6381,8 @@ language provided that it refers to the same biological family as the etymon in 
     There is, however, a more fundamental concern. Even a comparison of the average retention
 rates of PPn fish names with that of basic vocabulary will not leave us much the wiser.
 This is because the individual meanings in the basic vocabulary list do not share a constant
-retention rate. On the contrary, there is enormous variation in the rates at which forms representing different meanings are replaced. A comparative study of Austronesian languages
+retention rate. On the contrary, there is enormous variation in the rates at which forms
+representing different meanings are replaced. A comparative study of Austronesian languages
 (Dyen et al. 1967) indicates that, over a span of several millennia, the least persistent item
 on the Swadesh 200 item basic vocabulary list is many times more likely to be replaced than
 the most persistent item.
@@ -7919,7 +7923,7 @@ POc *kuka ‘mudcrab, including _Sesarma_ sp. or spp., living in mangrove forest
   Fij:  Wayan          kuka        ‘crabs of mangrove swamps, red claws, black carapace, _Sesarma_ and _Metopograpsus_ spp.’
 PPn *kuka ‘mangrove crab, _Sesarma_ sp. or spp.’ (pollex)
   Pn:   Tongan         kuka        ‘k.o. crab’
-  Pn:   Samoan         ʔuʔa        ‘common mangrove crab, Sesarma sp.’
+  Pn:   Samoan         ʔuʔa        ‘common mangrove crab, _Sesarma_ sp.’
 >
 
 
@@ -8131,7 +8135,7 @@ Arosi compounds.
 The mantis shrimps, Stomatopoda, are a distinctive group represented by _Squilla_ spp. and
 other genera. The fierce, predatory mantis shrimps are prominent denizens of the intertidal
 zone. They burrow in sand or hide in crevices and ambush prey. Few sources give names for
-these creatures. Among the handful of terms that have been noted, e.g. Gedaged kalompit,
+these creatures. Among the handful of terms that have been noted, e.g. Gedaged _kalompit_,
 Nduke _hahaka_. Wayan _vidividi_, no widespread cognate set has been found.
 
 4.3.7.2 Barnacles (class Cirripedia, order Thoracia)
@@ -8214,8 +8218,8 @@ bivalve and four chiton taxa (Pawley and Sayaba 2003). Fox’s (1978) dictionary
  104 names for kinds of molluscs. Sources for a number of other languages give impressive
 totals that are unlikely to be exhaustive. Fox (1974:93) reports that the Lau of NE Malaita
 name some 75 kinds of shells. Churchward’s Tongan dictionary lists 63 names for kinds of
-shellfish. Waterhouse lists some 60 names for shelled mollusc taxa for Roviana and White
-(1988) gives 53 such names for Maringe (Cheke Holo).
+shellfish. Waterhouse lists some 60 names for shelled mollusc taxa for Roviana and White (1988)
+gives 53 such names for Maringe (Cheke Holo).
 
      One of the few good ethnographic accounts is a description of shellfishing at Nukakau
 Island, West New Britain, by Swadling and Chowning (1981). For the people of Nukakau,
@@ -8392,7 +8396,7 @@ POc *sisiq (1) ‘various small, snail-like gastropods of nerite family’; (2) 
   NNG:  Takia         sise(i)        ‘generic term for all varieties of sea shells’
   PT:   Molima        sisi(ʔalo)     ‘a brown bivalve, small and edible, found in tidal flats’
   MM:   Nakanai       e-sisi         ‘k.o. shellfish’
-  MM:   Teop          hihi           ‘Nerita albicilla’
+  MM:   Teop          hihi           ‘_Nerita albicilla_’
   MM:   Roviana       sise           ‘general name for a number of small shells’
   MM:   Marovo        sise           ‘small marine gastropod’
   MM:   Marovo        |sise (kavo)|  ‘freshwater gastropod’
@@ -8421,7 +8425,7 @@ PPn *sisi ‘a univalve mollusc’ (pollex)
   Pn:   Samoan        sisi           ‘name given to small snails in general’ (Milner 1966); ‘freshwater molluscs’ (Pratt 1862)
   Pn:   E Futunan     sisi           ‘small shellfish spp., Neritidae and Naeticidae’
   Pn:   Tikopia       sisi           ‘a range of marine and land snails incl. _Melampus_ spp. and _Nerita_ spp.’
-  Pn:   Rennellese    sisi           ‘edible Nerita shells’
+  Pn:   Rennellese    sisi           ‘edible _Nerita_ shells’
 cf. also:
   NNG:  Yabem         usu            ‘sea snails (general term)’
   PT:   Motu          dudu           ‘name of a shellfish’ (_u_ for †_i_)
@@ -8537,7 +8541,7 @@ PSES *ko-kome or *kome-kome ‘generic for cone shells’
   MM:  Maringe       kome-kome    ‘Conidae family (generic)’
   MM:  Maringe       kʰome        ‘cone shell, _Conus leopardus_, used to make armlets’
   SES: Arosi         kome         ‘white shell armlet of _raʔo_ trochus’
-  SES: Lau           kome         ‘Conus’
+  SES: Lau           kome         ‘_Conus_’
   SES: Sa’a          ko-kome      ‘round white armlet of trochus (_laʔo_)’
   SES: To’aba’ita    kome         ‘armlet, shell of _Conus_ sp.’
   SES: Kwaio         kome         ‘cone shell arm ring’
@@ -8641,7 +8645,7 @@ species. Reflexes show unexplained variation in the initial consonant.
 PEOc *(b,v)asua ‘large shellfish, perhaps a bivalve’
   SES: Gela          (pau)pasua     ‘_Murex_ spp.’
   SES: Arosi         |(han) wasua|  ‘oyster’ (initial w- unexpected)
-  NCV: Uripiv        na-basow       ‘scallop, _Pallium_ sp., and Spondylus rubicundus’
+  NCV: Uripiv        na-basow       ‘scallop, _Pallium_ sp., and _Spondylus rubicundus_’
 PCP *(b,v)āsua ‘giant clam, _Tridacna_ spp.’
   Fij: Wayan         vāsua          ‘generic for _Tridacna_ spp.’
   Fij: Bauan         vāsua          ‘giant clam, _Tridacna_ spp.’
@@ -8677,7 +8681,7 @@ concentric striae, including Psammobidae and Tellinidae.
                                                                 Aquatic invertebrates    191
 
 <
-POc *kasi (v) ‘to scrape; scraper or grater made from robust circular bivalve shell, such as Asaphis and cockles’; (N) ‘shellfish taxon, esp. _Asaphis_ spp.’ (cf. vol.1, pp.162, 238-240)
+POc *kasi (v) ‘to scrape; scraper or grater made from robust circular bivalve shell, such as _Asaphis_ and cockles’; (N) ‘shellfish taxon, esp. _Asaphis_ spp.’ (cf. vol.1, pp.162, 238-240)
   PT:  Tawala         kahi           ‘pearl shell’
   MM:  Nakanai        kasi           ‘mussel or clam; mussel shell used as knife’
   Fij: Rotuman        ʔɔsi           ‘cockle, shell much used for scraping’
@@ -8833,11 +8837,11 @@ POc *japi (1) ‘bivalve taxon, probably _Pinctada maxima_, gold-lipped pearl sh
   SES:  Sa’a          dahi           ‘gold-lipped pearl; crescent breast ornament worn by men, cut from this shell’
 PCP *jiva ‘pearl oyster, including _Pinctada_ spp.’ (metathesis)
   Fij:  Bauan         ðiva           (1) ‘pearl and wing oysters (_Pinctada_ spp. and _Avicula_ spp.), hammer oyster (_Malleus_ sp.)’; (2) ‘breastplate of pearl shell in frame of whale’s tooth ivory’
-  Fij:  Bauan         ðiva-ðiva      ‘small oyster, _Pinctada_ matensis’
+  Fij:  Bauan         ðiva-ðiva      ‘small oyster, _Pinctada matensis_’
   Fij:  Wayan         ðiva           (1) ‘pearl and winged oysters, including blacklip pearl, _Pinctada margaritifera_, and giant wing oyster’; (2) ‘generic for all kinds of oysters’
   Pn:   Tongan        sifa           ‘pearl shell breastplate’
   Pn:   Niuean        tifa           ‘mother of pearl shell and ornament’
-  Pn:   Tikopia       tifa           ‘large pearl shell, formerly worn by men of rank as a breast ornament. Types include _Pinctada margaritifera_, _Pinctada maxima_, _Isognomon isognomum_, _I. perna_ and _Pinna_ sp. ’
+  Pn:   Tikopia       tifa           ‘large pearl shell, formerly worn by men of rank as a breast ornament. Types include _Pinctada margaritifera_, _Pinctada maxima_, _Isognomon isognomum_, _Isognomon perna_ and _Pinna_ sp. ’
   Pn:   Rarotongan    tiʔa           ‘pearl shell breastplate’
 cf. also:
   PT:   Hula          ravivi         ‘clamshell’
@@ -8917,7 +8921,7 @@ POc *tu(q)e, *tu(q)e-tu(q)e ‘k.o. bivalve, possibly Lucinidae and allied famil
   SES:  Lengo            tu-tue       ‘sea shell’
   SES:  Tolo             tue-tue      ‘small freshwater shellfish’
   Pn:   Tongan           tuʔe         ‘k.o. shellfish with long sharp projections’
-  Pn:   Maori            tua-tua      ‘bivalve, Amphidesma subtriangulata’ (syn. of _kahi-tua_, _kai-tua_)
+  Pn:   Maori            tua-tua      ‘bivalve, _Amphidesma subtriangulata_’ (syn. of _kahi-tua_, _kai-tua_)
 >
 
 196     Andrew Pawley
@@ -9036,8 +9040,8 @@ PPn *mama ‘chiton’
 
 4.4.5 A term for shellfish in general
 
-Did POc speakers have a name for shellfish (shelled molluscs) in general? As noted in section
-1, POc had a broad collective term, _*pinaŋoda_, denoting ‘marine invertebrates, sea animals
+Did POc speakers have a name for shellfish (shelled molluscs) in general? As noted in section 1,
+POc had a broad collective term, _*pinaŋoda_, denoting ‘marine invertebrates, sea animals
 other than fish gathered on the reef’. In a few languages the reflex has become a general
 term for bivalves and gastropods, sometimes also including sea urchins, e.g. Samoan _fiŋota_
 ‘generic for shelled molluscs and other invertebrates’, Tokelauan _fiŋota_ ‘bivalves, gastropods
@@ -9141,7 +9145,7 @@ POc *nus ‘squid’
   NNG: Mangap       nus           ‘smaller squid type’
   Fij: Rotuman      nu            ‘squid’
   Fij: Bauan        |(kuita) nū|  ‘squid’
-  Fij: Wayan        |(sulua) nū|  ‘squid’ (sulua ‘octopus’)
+  Fij: Wayan        |(sulua) nū|  ‘squid’ (_sulua_ ‘octopus’)
 PPn *ŋū ‘squid’ (POLLEX; _ŋ_ for †_*w_)
   Pn:  Tongan       ŋū(feke)      ‘squid, cuttlefish’ (_feke_ ‘octopus’)
   Pn:  Nukuoro      ŋū            ‘squid’
@@ -9240,8 +9244,8 @@ the various groups are very diverse in form.
 
 4.5.1 Echinoidea: sea urchins
 
-Sea urchins are represented in Oceania by numerous genera and species. These include long-
-spined echinoderms (esp. Echinothrix and Diadema spp.), short-spined rock-boring urchins
+Sea urchins are represented in Oceania by numerous genera and species. These include long-spined
+echinoderms (esp. _Echinothrix_ and _Diadema_ spp.), short-spined rock-boring urchins
 (_Echinometra_ spp.) and slate pencil urchins, Heterocentrus mammilatus. Some sea urchins
 are eaten. It is seems that few Oceanic languages have a folk generic covering all sea urchins.
 In Wayan echinoderms are recognised as a covert taxon, sometimes referred to by a phrase

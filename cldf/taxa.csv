@@ -33,16 +33,18 @@ ID,GBIF_ID,name,name_eng,rank,kingdom,phylum,class,order,family,genus,genus_eng,
 2221640,2221640,Panulirus penicillatus,Pronghorn Spiny Lobster,SPECIES,Animalia,Arthropoda,Malacostraca,Decapoda,Palinuridae,Panulirus,,furry lobsters,Palinurus penicillatus,[]
 2221652,2221652,Panulirus versicolor,Painted Spiny Lobster,SPECIES,Animalia,Arthropoda,Malacostraca,Decapoda,Palinuridae,Panulirus,,furry lobsters,Palinurus versicolor,"[[""4-4"", ""s-3-2-1""]]"
 2221746,2221746,Parribacus,slipper lobsters,GENUS,Animalia,Arthropoda,Malacostraca,Decapoda,Scyllaridae,Parribacus,,Slipper lobsters,,[]
+2221751,2221751,Parribacus antarcticus,Horseshoe crab,SPECIES,Animalia,Arthropoda,Malacostraca,Decapoda,Scyllaridae,Parribacus,slipper lobsters,Slipper lobsters,Parribacus antartica,[]
 2221747,2221747,Parribacus caledonicus,Caledonian Mitten Lobster,SPECIES,Animalia,Arthropoda,Malacostraca,Decapoda,Scyllaridae,Parribacus,slipper lobsters,Slipper lobsters,,[]
+2221719,2221719,Ibacus ciliatus,Japanese fan lobster,SPECIES,Animalia,Arthropoda,Malacostraca,Decapoda,Scyllaridae,Ibacus,,,,[]
 2225562,2225562,Scylla serrata,giant mud crab,SPECIES,Animalia,Arthropoda,Malacostraca,Decapoda,Portunidae,Scylla,,Swimming Crab,,"[[""4-4"", ""s-3-5""], [""4-4"", ""s-3-5-1""]]"
 2225749,2225749,Sesarma,,GENUS,Animalia,Arthropoda,Malacostraca,Decapoda,Sesarmidae,Sesarma,,,,"[[""4-4"", ""s-3-5-3""], [""4-4"", ""s-3-5-4""], [""4-4"", ""s-3-6""]]"
 2225817,2225817,Grapsus,,GENUS,Animalia,Arthropoda,Malacostraca,Decapoda,Grapsidae,Grapsus,,Marsh Crabs,,"[[""4-4"", ""s-3-5-3""]]"
 2225831,2225831,Cardisoma,great land crabs,GENUS,Animalia,Arthropoda,Malacostraca,Decapoda,Gecarcinidae,Cardisoma,,land crabs,,"[[""4-4"", ""s-3-5-2""], [""4-4"", ""s-3-6""]]"
 2272943,2272943,Culcita,,GENUS,Animalia,Echinodermata,Asteroidea,Valvatida,Oreasteridae,Culcita,,,,"[[""4-4"", ""s-5-3""]]"
 2278860,2278860,Echinometra,,GENUS,Animalia,Echinodermata,Echinoidea,Camarodonta,Echinometridae,Echinometra,,,,"[[""4-4"", ""s-5-1""], [""4-4"", ""s-5-1-1""]]"
-2279021,2279021,Diadema,,GENUS,Animalia,Echinodermata,Echinoidea,Diadematoida,Diadematidae,Diadema,,,,"[[""4-4"", ""s-5-1-2""]]"
+2279021,2279021,Diadema,,GENUS,Animalia,Echinodermata,Echinoidea,Diadematoida,Diadematidae,Diadema,,,,"[[""4-4"", ""s-5-1""], [""4-4"", ""s-5-1-2""]]"
 2279025,2279025,Astropyga,,GENUS,Animalia,Echinodermata,Echinoidea,Diadematoida,Diadematidae,Astropyga,,,,"[[""4-4"", ""s-5-1-2""]]"
-2279034,2279034,Echinothrix,,GENUS,Animalia,Echinodermata,Echinoidea,Diadematoida,Diadematidae,Echinothrix,,,,"[[""4-4"", ""s-5-1-2""]]"
+2279034,2279034,Echinothrix,,GENUS,Animalia,Echinodermata,Echinoidea,Diadematoida,Diadematidae,Echinothrix,,,,"[[""4-4"", ""s-5-1""], [""4-4"", ""s-5-1-2""]]"
 2279167,2279167,Holothuria atra,Lollyfish,SPECIES,Animalia,Echinodermata,Holothuroidea,Holothuriida,Holothuriidae,Holothuria,,,,[]
 2279182,2279182,Holothuria impatiens,Slender Sea Cucumber,SPECIES,Animalia,Echinodermata,Holothuroidea,Holothuriida,Holothuriidae,Holothuria,,,,[]
 2285329,2285329,Pteria,,GENUS,Animalia,Mollusca,Bivalvia,Ostreida,Pteriidae,Pteria,,pearl oyster,Avicula sp.,[]
@@ -67,6 +69,7 @@ ID,GBIF_ID,name,name_eng,rank,kingdom,phylum,class,order,family,genus,genus_eng,
 2317712,2317712,Pherecardia striata,,SPECIES,Animalia,Annelida,Polychaeta,Amphinomida,Amphinomidae,Pherecardia,,,,[]
 2332544,2332544,Althoffia,,GENUS,Animalia,Chordata,Copelata,Oikopleuridae,Althoffia,,,,,[]
 2333511,2333511,Balistes,Triggerfish,GENUS,Animalia,Chordata,,Tetraodontiformes,Balistidae,Balistes,,Triggerfishes,,"[[""4-2"", ""s-62""], [""4-3"", ""s-3-1""]]"
+2396015,2396015,Ecsenius,,GENUS,Animalia,Chordata,,Perciformes,Blenniidae,Ecsenius,,,,[]
 2335319,2335319,Epinephelus,groupers,GENUS,Animalia,Chordata,,Perciformes,Serranidae,Epinephelus,,Groupers,,"[[""4-2"", ""s-22""], [""4-3"", ""s-3-1""]]"
 2336662,2336662,Cuculus,Eurasian Cuckoos,GENUS,Animalia,Chordata,Aves,Cuculiformes,Cuculidae,Cuculus,,Anis,,"[[""4-6"", ""s-5-10""]]"
 2341074,2341074,Albula,bonefishes,GENUS,Animalia,Chordata,,Albuliformes,Albulidae,Albula,,Bananafishes,,[]
@@ -122,8 +125,9 @@ ID,GBIF_ID,name,name_eng,rank,kingdom,phylum,class,order,family,genus,genus_eng,
 2379619,2379619,Ctenochaetus,,GENUS,Animalia,Chordata,,Perciformes,Acanthuridae,Ctenochaetus,,Surgeonfishes,,"[[""4-2"", ""s-54""]]"
 2379621,2379621,Ctenochaetus striatus,Striped Bristletooth,SPECIES,Animalia,Chordata,,Perciformes,Acanthuridae,Ctenochaetus,,Surgeonfishes,,[]
 2379643,2379643,Ctenochaetus hawaiiensis,Hawaiian Bristletooth,SPECIES,Animalia,Chordata,,Perciformes,Acanthuridae,Ctenochaetus,,Surgeonfishes,,[]
-2379647,2379647,Acanthurus,tangs,GENUS,Animalia,Chordata,,Perciformes,Acanthuridae,Acanthurus,,Surgeonfishes,,"[[""4-2"", ""s-54""], [""4-3"", ""s-3-1""]]"
+2379647,2379647,Acanthurus,tangs,GENUS,Animalia,Chordata,,Perciformes,Acanthuridae,Acanthurus,,Surgeonfishes,Teuthis,"[[""4-2"", ""s-54""], [""4-3"", ""s-3-1""]]"
 2379877,2379877,Zebrasoma veliferum,Sailfin Tang,SPECIES,Animalia,Chordata,,Perciformes,Acanthuridae,Zebrasoma,,Surgeonfishes,,"[[""4-2"", ""s-54""]]"
+2379864,2379864,Zebrasoma scopas,Blue-lined Tang,SPECIES,Animalia,Chordata,,Perciformes,Acanthuridae,Zebrasoma,,Surgeonfishes,,"[[""4-2"", ""s-54""]]"
 2379945,2379945,Nemipterus,besugos,GENUS,Animalia,Chordata,,Perciformes,Nemipteridae,Nemipterus,,False Snappers,,[]
 2381286,2381286,Kyphosus,rudderfishes,GENUS,Animalia,Chordata,,Perciformes,Kyphosidae,Kyphosus,,Pilotfishes,,[]
 2381309,2381309,Kyphosus cinerascens,Blue Sea Chub,SPECIES,Animalia,Chordata,,Perciformes,Kyphosidae,Kyphosus,rudderfishes,Pilotfishes,,"[[""4-2"", ""s-39""]]"
@@ -136,6 +140,7 @@ ID,GBIF_ID,name,name_eng,rank,kingdom,phylum,class,order,family,genus,genus_eng,
 2382701,2382701,Plectorhinchus chaetodonoides,Harlequin Sweetlips,SPECIES,Animalia,Chordata,,Perciformes,Haemulidae,Plectorhinchus,sweetlips,grunts,,[]
 2382732,2382732,Plectorhinchus flavomaculatus,Lemonfish,SPECIES,Animalia,Chordata,,Perciformes,Haemulidae,Plectorhinchus,sweetlips,grunts,,[]
 2383002,2383002,Choerodon graphicus,Graphic tuskfish,SPECIES,Animalia,Chordata,,Perciformes,Labridae,Choerodon,tuskfishes,Wrasse,Choerodon transversalis,[]
+2382966,2382966,Choerodon anchorago,Anchor trunkfish,SPECIES,Animalia,Chordata,,Perciformes,Labridae,Choerodon,tuskfishes,Wrasse,,[]
 2384141,2384141,Halichoeres hortulanus,Checkerboard wrasse,SPECIES,Animalia,Chordata,,Perciformes,Labridae,Halichoeres,wrasses,,,[]
 2383279,2383279,Novaculichthys,,GENUS,Animalia,Chordata,,Perciformes,Labridae,Novaculichthys,,Wrasse,,[]
 2383280,2383280,Novaculichthys taeniourus,,SPECIES,Animalia,Chordata,,Perciformes,Labridae,Novaculichthys,,Wrasse,,[]
@@ -251,10 +256,14 @@ ID,GBIF_ID,name,name_eng,rank,kingdom,phylum,class,order,family,genus,genus_eng,
 2407181,2407181,Pseudobalistes flavimarginatus,Yellowmargin Triggerfish,SPECIES,Animalia,Chordata,,Tetraodontiformes,Balistidae,Pseudobalistes,,Triggerfishes,,[]
 2407210,2407210,Odonus niger,Redtooth Triggerfish,SPECIES,Animalia,Chordata,,Tetraodontiformes,Balistidae,Odonus,,Triggerfishes,,[]
 2407347,2407347,Arothron,fat puffers,GENUS,Animalia,Chordata,,Tetraodontiformes,Tetraodontidae,Arothron,,Pufferfishes,,"[[""4-2"", ""s-63""]]"
+2407758,2407758,Lagocephalus sceleratus,Silver-cheeked toadfish,SPECIES,Animalia,Chordata,,Tetraodontiformes,Tetraodontidae,Lagocephalus,,Pufferfishes,Pleuranacanthus sceleratus,[]
 2407378,2407378,Arothron hispidus,White-spotted Puffer,SPECIES,Animalia,Chordata,,Tetraodontiformes,Tetraodontidae,Arothron,fat puffers,Pufferfishes,,[]
 2407394,2407394,Arothron nigropunctatus,Blackspotted Puffer,SPECIES,Animalia,Chordata,,Tetraodontiformes,Tetraodontidae,Arothron,fat puffers,Pufferfishes,,[]
 2407418,2407418,Arothron meleagris,Guineafowl Puffer,SPECIES,Animalia,Chordata,,Tetraodontiformes,Tetraodontidae,Arothron,fat puffers,Pufferfishes,,[]
+2407392,2407392,Arothron leopardus,Banded Leopardblowfish,SPECIES,Animalia,Chordata,,Tetraodontiformes,Tetraodontidae,Arothron,fat puffers,Pufferfishes,,"[[""4-2"", ""s-63""]]"
+2407735,2407735,Canthigaster margaritata,Pearl toby,SPECIES,Animalia,Chordata,,Tetraodontiformes,Tetraodontidae,Canthigaster,,Pufferfishes,,[]
 2407938,2407938,Ostracion,trunkfishes,GENUS,Animalia,Chordata,,Tetraodontiformes,Ostraciidae,Ostracion,,Boxfishes,,"[[""4-2"", ""s-62""]]"
+2408106,2408106,Lactoria,Boxfishes,GENUS,Animalia,Chordata,,Tetraodontiformes,Ostraciidae,Lactoria,,Boxfishes,,[]
 2410478,2410478,Galaxias,galaxiids,GENUS,Animalia,Chordata,,Osmeriformes,Galaxiidae,Galaxias,,galaxiids,,[]
 2410910,2410910,Mallotus,capelins,GENUS,Animalia,Chordata,,Osmeriformes,Osmeridae,Mallotus,,smelts,,"[[""3-2"", ""s-3-2-2""]]"
 2412801,2412801,Sardinella fijiense,Fiji Sardinella,SPECIES,Animalia,Chordata,,Clupeiformes,Clupeidae,Sardinella,Sardinella,"Shads, Sardines, And Menhadens",,[]
@@ -739,6 +748,7 @@ ID,GBIF_ID,name,name_eng,rank,kingdom,phylum,class,order,family,genus,genus_eng,
 3152795,3152795,Thespesia populnea,Portia Tree,SPECIES,Plantae,Tracheophyta,Magnoliopsida,Malvales,Malvaceae,Thespesia,,mallow family,Thespesia macrophylla,"[[""3-2"", ""s-3-1-1""], [""3-5"", ""s-1""], [""3-5"", ""s-4-1-2""], [""3-5"", ""s-4-1-5""], [""3-5"", ""s-4-1-6""], [""3-5"", ""s-4-1-6""], [""3-5"", ""s-5-13""], [""3-14"", ""s-3""]]"
 3152840,3152840,Myristica,nutmeg,GENUS,Plantae,Tracheophyta,Magnoliopsida,Magnoliales,Myristicaceae,Myristica,,,,"[[""3-2"", ""s-3-1-1""], [""3-2"", ""s-3-1-4""], [""3-7"", ""s-5-9""], [""3-7"", ""s-7""], [""3-14"", ""s-3""]]"
 3157162,3157162,Xylopia papuana,,SPECIES,Plantae,Tracheophyta,Magnoliopsida,Magnoliales,Annonaceae,Xylopia,,Custard-apple Family,,"[[""3-2"", ""s-7-1-1""]]"
+5407273,5407273,Annona muricata,Soursop,SPECIES,Plantae,Tracheophyta,Magnoliopsida,Magnoliales,Annonaceae,Annona L.,,Custard-apple Family,,[]
 3169083,3169083,Corynocarpus laevigatus,karaka nut,SPECIES,Plantae,Tracheophyta,Magnoliopsida,Cucurbitales,Corynocarpaceae,Corynocarpus,,,Corynocarpus laevigata,[]
 3169645,3169645,Ochrosia elliptica,kopsia,SPECIES,Plantae,Tracheophyta,Magnoliopsida,Gentianales,Apocynaceae,Ochrosia,yellowwood,Dogbane Family,Ochrosia parviflora,"[[""3-5"", ""s-5-10""]]"
 3169674,3169674,Plumeria rubra,red plume,SPECIES,Plantae,Tracheophyta,Magnoliopsida,Gentianales,Apocynaceae,Plumeria,,Dogbane Family,Plumeria acutifolia,[]
@@ -878,6 +888,9 @@ ID,GBIF_ID,name,name_eng,rank,kingdom,phylum,class,order,family,genus,genus_eng,
 4285896,4285896,Istiompax indica,Black Marlin,SPECIES,Animalia,Chordata,,Perciformes,Istiophoridae,Istiompax,black marlin,Billfishes,Makaira indicus,"[[""4-2"", ""s-58""]]"
 4286140,4286140,Platybelone argalus,Keeltail Needlefish,SPECIES,Animalia,Chordata,,Beloniformes,Belonidae,Platybelone,,Needlefishes,Belone platyura,[]
 4311512,4311512,Birgus latro,Coconut Crab,SPECIES,Animalia,Arthropoda,Malacostraca,Decapoda,Coenobitidae,Birgus,robber crab,Land Hermit Crabs,,"[[""4-4"", ""s-3-4-2""]]"
+7717617,7717617,Coenobita,,GENUS,Animalia,Arthropoda,Malacostraca,Decapoda,Coenobitidae,Coenobita,,,,[]
+2221525,2221525,Ocypode,Ghost Crab,GENUS,Animalia,Arthropoda,Malacostraca,Decapoda,Ocypodidae,Ocypode,Ghost Crab,,Ocypoda,"[[""4-4"", ""s-3-5-5""]]"
+3254204,3254204,Mictyris,,GENUS,Animalia,Arthropoda,Malacostraca,Decapoda,Mictyridae,Mictyris,,,,[]
 4343061,4343061,Holothuria pervicax,,SPECIES,Animalia,Echinodermata,Holothuroidea,Holothuriida,Holothuriidae,Holothuria,,,,[]
 4358523,4358523,Turbo setosus,,SPECIES,Animalia,Mollusca,Gastropoda,Trochida,Turbinidae,Turbo,,turban snails,,[]
 4358524,4358524,Turbo chrysostomus,gold-mouthed turban,SPECIES,Animalia,Mollusca,Gastropoda,Trochida,Turbinidae,Turbo,,turban snails,Turbo chrysostoma,[]
@@ -890,6 +903,8 @@ ID,GBIF_ID,name,name_eng,rank,kingdom,phylum,class,order,family,genus,genus_eng,
 4365732,4365732,Chicoreus ramosus,ramose murex,SPECIES,Animalia,Mollusca,Gastropoda,Neogastropoda,Muricidae,Chicoreus,,Murex Snail,Murex ramosus,[]
 4371830,4371830,Asaphis violascens,violet asphis,SPECIES,Animalia,Mollusca,Bivalvia,Cardiida,Psammobiidae,Asaphis,,sunsetclams,Asaphis dichotoma,[]
 4372070,4372070,Chama pacifica,Pacific jewel box,SPECIES,Animalia,Mollusca,Bivalvia,Venerida,Chamidae,Chama,,jewelboxes,,"[[""1-4"", ""s-5-5""], [""4-4"", ""s-4-8""]]"
+5855403,5855403,Tegillarca granosa,Blood clam,SPECIES,Animalia,Mollusca,Bivalvia,Arcida,Arcidae,Tegillarca,,Ark-shells,Andara granosa,"[[""4-4"", ""s-4-1""]]"
+5729468,5729468,Anadara antiquata,Antique ark,SPECIES,Animalia,Mollusca,Bivalvia,Arcida,Arcidae,Anadara,Ark,Ark-shells,Andara antiquata,"[[""4-4"", ""s-4-1""]]"
 4372416,4372416,Vasticardium,,GENUS,Animalia,Mollusca,Bivalvia,Cardiida,Cardiidae,Vasticardium,,Cockle,,[]
 4372618,4372618,Tridacna,,GENUS,Animalia,Mollusca,Bivalvia,Cardiida,Cardiidae,Tridacna,,Cockle,,"[[""1-4"", ""s-4-1-1""], [""1-4"", ""s-5-5""], [""1-4"", ""s-8""], [""1-8"", ""s-11""], [""1-9"", ""s-3""], [""2-2"", ""s-4""], [""4-4"", ""s-4-1""], [""4-4"", ""s-4-3-1""], [""6-16"", ""s-3""]]"
 4372619,4372619,Tridacna gigas,Giant Clam,SPECIES,Animalia,Mollusca,Bivalvia,Cardiida,Cardiidae,Tridacna,,Cockle,,"[[""4-4"", ""s-4-3""], [""4-4"", ""s-4-3-1""]]"
@@ -904,6 +919,9 @@ ID,GBIF_ID,name,name_eng,rank,kingdom,phylum,class,order,family,genus,genus_eng,
 4930679,4930679,Aleurites moluccanus,Candlenut Tree,SPECIES,Plantae,Tracheophyta,Magnoliopsida,Malpighiales,Euphorbiaceae,Aleurites,,spurge family,Aleurites moluccana; Aleurites triloba,"[[""3-2"", ""s-4""], [""3-2"", ""s-7-1-4""], [""3-3"", ""s-5""], [""3-11"", ""s-2""], [""3-13"", ""s-3-2""], [""3-13"", ""s-3-2""], [""3-14"", ""s-3""]]"
 4934232,4934232,Terminalia calamansanai,,SPECIES,Plantae,Tracheophyta,Magnoliopsida,Myrtales,Combretaceae,Terminalia,tropical almond,white mangrove,,"[[""3-2"", ""s-3-1-4""], [""3-7"", ""s-4""]]"
 4954090,4954090,Clithon corona,thorn nerite,SPECIES,Animalia,Mollusca,Gastropoda,Cycloneritida,Neritidae,Clithon,,Nerites,Neritina brevispina,[]
+5189970,5189970,Nerita,,SPECIES,Animalia,Mollusca,Gastropoda,Cycloneritida,Neritidae,Nerita,,,,"[[""4-8"", ""s-4""]]"
+5728452,5728452,Nerita albicilla,Blotched nerite,SPECIES,Animalia,Mollusca,Gastropoda,Cycloneritida,Neritidae,Nerita,,,,[]
+5728454,5728454,Nerita plicata,,SPECIES,Animalia,Mollusca,Gastropoda,Cycloneritida,Neritidae,Nerita,,,,[]
 5192350,5192350,Cassis cornuta,horned helmet shell,SPECIES,Animalia,Mollusca,Gastropoda,Littorinimorpha,Cassidae,Cassis,,helmet snails,Cassis cornutus,[]
 5192644,5192644,Charonia tritonis,trumpet triton,SPECIES,Animalia,Mollusca,Gastropoda,Littorinimorpha,Charoniidae,Charonia,triton,,,"[[""4-4"", ""s-4-2-5""], [""6-6"", ""s-2-1""]]"
 5192699,5192699,Ovula ovum,common egg cowrie,SPECIES,Animalia,Mollusca,Gastropoda,Littorinimorpha,Ovulidae,Ovula,,egg cowries,,"[[""4-4"", ""s-4-2-7""]]"
@@ -942,7 +960,7 @@ ID,GBIF_ID,name,name_eng,rank,kingdom,phylum,class,order,family,genus,genus_eng,
 5210560,5210560,Carangoides ferdau,Blue Trevally,SPECIES,Animalia,Chordata,,Perciformes,Carangidae,Carangoides,island jacks,Jacks And Pompanos,Caranx ferdau,[]
 5210572,5210572,Carangoides orthogrammus,Island Trevally,SPECIES,Animalia,Chordata,,Perciformes,Carangidae,Carangoides,island jacks,Jacks And Pompanos,,[]
 5210646,5210646,Trachinotus botla,Largespotted Dart,SPECIES,Animalia,Chordata,,Perciformes,Carangidae,Trachinotus,pompanos,Jacks And Pompanos,Trachinotus russelli,[]
-5211120,5211120,Chlorurus frontalis,Tan-faced Parrotfish,SPECIES,Animalia,Chordata,,Perciformes,Scaridae,Chlorurus,,parrotfishes,Scarus frontalis,[]
+5211120,5211120,Chlorurus frontalis,Tan-faced Parrotfish,SPECIES,Animalia,Chordata,,Perciformes,Scaridae,Chlorurus,,parrotfishes,Scarus frontalis; Pseudoscarus jonesi,[]
 5211129,5211129,Chlorurus gibbus,Heavybeak Parrotfish,SPECIES,Animalia,Chordata,,Perciformes,Scaridae,Chlorurus,,parrotfishes,Scarus gibbus,"[[""4-2"", ""s-67""]]"
 5211130,5211130,Chlorurus microrhinos,Steephead Parrotfish,SPECIES,Animalia,Chordata,,Perciformes,Scaridae,Chlorurus,,parrotfishes,Scarus microrhinos,"[[""4-2"", ""s-67""]]"
 5211133,5211133,Chlorurus strongylocephalus,Indian Ocean Steephead Parrotfish,SPECIES,Animalia,Chordata,,Perciformes,Scaridae,Chlorurus,,parrotfishes,,"[[""4-2"", ""s-67""]]"
@@ -1167,6 +1185,7 @@ ID,GBIF_ID,name,name_eng,rank,kingdom,phylum,class,order,family,genus,genus_eng,
 7975859,7975859,Dillenia macrophylla,,SPECIES,Plantae,Tracheophyta,Magnoliopsida,Dilleniales,Dilleniaceae,Dillenia,,,,"[[""3-7"", ""s-4-3""]]"
 7999791,7999791,Sterculia vitiensis,,SPECIES,Plantae,Tracheophyta,Magnoliopsida,Malvales,Malvaceae,Sterculia,tropical chestnut,mallow family,,"[[""3-7"", ""s-6-1-1""], [""3-11"", ""s-2-6""], [""3-14"", ""s-3""]]"
 8011280,8011280,Ctena,,GENUS,Animalia,Mollusca,Bivalvia,Lucinida,Lucinidae,Ctena,,Hatchet Shells,,"[[""4-4"", ""s-4-3-7""]]"
+6530999,6530999,Spondylus rubicundus,,SPECIES,Animalia,Mollusca,Bivalvia,Pectinida,Spondylidae,Spondylus,,,,[]
 8018875,8018875,Calophyllum cerasiferum,,SPECIES,Plantae,Tracheophyta,Magnoliopsida,Malpighiales,Calophyllaceae,Calophyllum,calophyllum,,Calophyllum casiferum,[]
 8023236,8023236,Pandanus tectorius,,SPECIES,Plantae,Tracheophyta,Liliopsida,Pandanales,Pandanaceae,Pandanus,screw-pine,,Pandanus textorius,"[[""3-2"", ""s-2-2""], [""3-2"", ""s-3-1-1""], [""3-3"", ""s-4-8""], [""3-3"", ""s-5""], [""3-4"", ""s-2-6""], [""3-5"", ""s-1""], [""3-11"", ""s-2-5""], [""3-11"", ""s-2-5-1""], [""3-11"", ""s-2-5-4""], [""3-11"", ""s-4-2""], [""3-14"", ""s-3""]]"
 8033501,8033501,Planchonella,,GENUS,Plantae,Tracheophyta,Magnoliopsida,Ericales,Sapotaceae,Planchonella,,Sapodillas,,"[[""3-2"", ""s-7-1-2""], [""3-3"", ""s-2""], [""3-3"", ""s-3-1""], [""3-7"", ""s-4-10""], [""3-7"", ""s-7""], [""3-14"", ""s-3""]]"
@@ -1184,9 +1203,11 @@ ID,GBIF_ID,name,name_eng,rank,kingdom,phylum,class,order,family,genus,genus_eng,
 8219075,8219075,Abroma augustum,devil's-cotton,SPECIES,Plantae,Tracheophyta,Magnoliopsida,Malvales,Malvaceae,Abroma,,mallow family,Abroma augusta,"[[""3-7"", ""s-6-1-1""], [""3-11"", ""s-2-6""], [""3-14"", ""s-3""]]"
 8252335,8252335,Plectropomus,,GENUS,Animalia,Chordata,,Perciformes,Serranidae,Plectropomus,,Groupers,,"[[""4-2"", ""s-22""]]"
 8262148,8262148,Ostracion meleagris,Whitespotted Boxfish,SPECIES,Animalia,Chordata,,Tetraodontiformes,Ostraciidae,Ostracion,trunkfishes,Boxfishes,,[]
+5213777,5213777,Ostracion nasus,Lognosed boxfish,SPECIES,Animalia,Chordata,,Tetraodontiformes,Ostraciidae,Rhynchostracion,,Boxfishes,Ostracion naso,"[[""4-2"", ""s-62""]]"
 8280705,8280705,Barringtonia calyptrata,Corned Beef Wood,SPECIES,Plantae,Tracheophyta,Magnoliopsida,Ericales,Lecythidaceae,Barringtonia,,Brazil-Nut,,"[[""3-11"", ""s-2-3""]]"
 8282016,8282016,Hernandia ovigera,,SPECIES,Plantae,Tracheophyta,Magnoliopsida,Laurales,Hernandiaceae,Hernandia,,,,[]
 8288896,8288896,Mytilus edulis,Blue Mussel,SPECIES,Animalia,Mollusca,Bivalvia,Mytilida,Mytilidae,Mytilus,,True Mussels,,[]
+7609407,7609407,Modiolus tumescens,,SPECIES,Animalia,Mollusca,Bivalvia,Mytilida,Mytilidae,Modiolus,,True Mussels,Modiolus plumescens,"[[""4-4"", ""s-4-3-3""]]"
 8291402,8291402,Pandanus odoratissimus,,SPECIES,Plantae,Tracheophyta,Liliopsida,Pandanales,Pandanaceae,Pandanus,screw-pine,,,"[[""3-4"", ""s-2-5""], [""3-11"", ""s-2-5-1""]]"
 8312665,8312665,Abelmoschus moschatus,Musk Mallow,SPECIES,Plantae,Tracheophyta,Magnoliopsida,Malvales,Malvaceae,Abelmoschus,okra,mallow family,,[]
 8330251,8330251,Calophyllum neoebudicum,,SPECIES,Plantae,Tracheophyta,Magnoliopsida,Malpighiales,Calophyllaceae,Calophyllum,calophyllum,,Calophyllum pseudovitiense,"[[""3-2"", ""s-3-1-4""]]"
