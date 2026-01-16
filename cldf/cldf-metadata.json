@@ -31,7 +31,7 @@
         {
             "rdf:about": "https://github.com/lexibank/tlopo",
             "rdf:type": "prov:Entity",
-            "dc:created": "ed94e62",
+            "dc:created": "548bcf1",
             "dc:title": "Repository"
         },
         {
@@ -1129,7 +1129,7 @@
             "url": "glosses.csv"
         },
         {
-            "dc:extent": 1272,
+            "dc:extent": 1281,
             "tableSchema": {
                 "columns": [
                     {

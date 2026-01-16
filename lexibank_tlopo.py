@@ -10,10 +10,7 @@ from pyetymdict import Dataset as BaseDataset, Language as BaseLanguage, Form as
 from pylexibank import LexibankWriter, Cognate as BaseCognate
 from pycldf.sources import Source, Sources
 
-#
-# FIXME: move all of pytlopo into pyetymdict.parser!
-#
-from pyetymdict.parser.models import Volume, Reflex, Protoform, Gloss, Parser
+from pyetymdict.parser.models import Reflex, Protoform, Gloss, Parser
 from pyetymdict.parser.util import nested_toc
 
 GLOSS_ID = 0

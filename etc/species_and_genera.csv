@@ -10,6 +10,7 @@ ID,name,name_eng,rank,kingdom,phylum,class,order,family,genus,genus_eng,family_e
 10891503,Widjajachloa producta,,SPECIES,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,Widjajachloa,,Grass,Nastus productus
 10891839,Pampusana stairi,Shy Ground Dove,SPECIES,Animalia,Chordata,Aves,Columbiformes,Columbidae,Pampusana,,Pigeons And Doves,Gallicolumba stairi
 10938771,Pinctada,,GENUS,Animalia,Mollusca,Bivalvia,Ostreida,Margaritidae,Pinctada,,,
+4373393,Hyotissa hyotis,Giant Foam Oyster,SPECIES,Animalia,Mollusca,Bivalvia,Ostreida,Gryphaeidae,Hyotissa,,,Pycnodonata hyotis
 10988361,Elaeocarpus sphaericus,,SPECIES,Plantae,Tracheophyta,Magnoliopsida,Oxalidales,Elaeocarpaceae,Elaeocarpus,,,
 11015824,Heliotropium velutinum,,SPECIES,Plantae,Tracheophyta,Magnoliopsida,Boraginales,Heliotropiaceae,Heliotropium,heliotrope,,Argusia argentea; Messerschmidia argentea
 11084201,Chloothamnus obtusus,,SPECIES,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,Chloothamnus,,Grass,Nastus obtusus
@@ -51,12 +52,14 @@ ID,name,name_eng,rank,kingdom,phylum,class,order,family,genus,genus_eng,family_e
 2285337,Pinctada margaritifera,black-lipped pearl oyster,SPECIES,Animalia,Mollusca,Bivalvia,Ostreida,Margaritidae,Pinctada,,,
 2285339,Malleus,hammer oysters,GENUS,Animalia,Mollusca,Bivalvia,Ostreida,Malleidae,Malleus,,hammer oysters,
 2286374,Paphies australis,,SPECIES,Animalia,Mollusca,Bivalvia,Venerida,Mesodesmatidae,Paphies,,,
+2286375,Paphies subtriangulata,,SPECIES,Animalia,Mollusca,Bivalvia,Venerida,Mesodesmatidae,Paphies,,,Amphidesma subtriangulata
 2286792,Asaphis,,GENUS,Animalia,Mollusca,Bivalvia,Cardiida,Psammobiidae,Asaphis,,sunsetclams,
 2286793,Asaphis deflorata,Gaudy Asaphis,SPECIES,Animalia,Mollusca,Bivalvia,Cardiida,Psammobiidae,Asaphis,,sunsetclams,
 2287347,Lucinisca,,GENUS,Animalia,Mollusca,Bivalvia,Lucinida,Lucinidae,Lucinisca,,Hatchet Shells,
 2287351,Codakia,,GENUS,Animalia,Mollusca,Bivalvia,Lucinida,Lucinidae,Codakia,,Hatchet Shells,
 2287388,Loripes,,GENUS,Animalia,Mollusca,Bivalvia,Lucinida,Lucinidae,Loripes,,Hatchet Shells,
 2287424,Lucina,,GENUS,Animalia,Mollusca,Bivalvia,Lucinida,Lucinidae,Lucina,,Hatchet Shells,
+4372957,Codakia tigerina,,SPECIES,Animalia,Mollusca,Bivalvia,Lucinida,Lucinidae,Codakia,,Hatchet Shells,
 2287652,Austrovenus stutchburyi,,SPECIES,Animalia,Mollusca,Bivalvia,Venerida,Veneridae,Austrovenus,,venus shells,Chione stutchburyi
 2287924,Anodonta,pond mussels,GENUS,Animalia,Mollusca,Bivalvia,Unionida,Unionidae,Anodonta,,River Mussels,
 2289099,Sepia,,GENUS,Animalia,Mollusca,Cephalopoda,Sepiida,Sepiidae,Sepia,,Cuttlefishes,
@@ -65,6 +68,7 @@ ID,name,name_eng,rank,kingdom,phylum,class,order,family,genus,genus_eng,family_e
 2293196,Turbo petholatus,tapestry turban,SPECIES,Animalia,Mollusca,Gastropoda,Trochida,Turbinidae,Turbo,,turban snails,
 2297438,Melampus,,GENUS,Animalia,Mollusca,Gastropoda,Ellobiida,Ellobiidae,Melampus,,hollow-shelled snails,
 2299646,Cassis,,GENUS,Animalia,Mollusca,Gastropoda,Littorinimorpha,Cassidae,Cassis,,helmet snails,
+5192885,Vermetus,,GENUS,Animalia,Mollusca,Gastropoda,Littorinimorpha,Vermetidae,Vermetus,,,
 2304422,Murex,murex snails,GENUS,Animalia,Mollusca,Gastropoda,Neogastropoda,Muricidae,Murex,,Murex Snail,
 2317712,Pherecardia striata,,SPECIES,Animalia,Annelida,Polychaeta,Amphinomida,Amphinomidae,Pherecardia,,,
 2332544,Althoffia,,GENUS,Animalia,Chordata,Copelata,Oikopleuridae,Althoffia,,,
@@ -906,11 +910,14 @@ ID,name,name_eng,rank,kingdom,phylum,class,order,family,genus,genus_eng,family_e
 5855403,Tegillarca granosa,Blood clam,SPECIES,Animalia,Mollusca,Bivalvia,Arcida,Arcidae,Tegillarca,,Ark-shells,Andara granosa
 5729468,Anadara antiquata,Antique ark,SPECIES,Animalia,Mollusca,Bivalvia,Arcida,Arcidae,Anadara,Ark,Ark-shells,Andara antiquata
 4372416,Vasticardium,,GENUS,Animalia,Mollusca,Bivalvia,Cardiida,Cardiidae,Vasticardium,,Cockle,
+4372371,Acrosterigma biradiatum,,SPECIES,Animalia,Mollusca,Bivalvia,Cardiida,Cardiidae,Acrosterigma,,,Laevicardium biradiata
+2287038,Quidnipagus palatam,,SPECIES,Animalia,Mollusca,Bivalvia,Cardiida,Tellinidae,Quidnipagus,,Tellin Clam,Quidnipagus palatum
 4372618,Tridacna,,GENUS,Animalia,Mollusca,Bivalvia,Cardiida,Cardiidae,Tridacna,,Cockle,
 4372619,Tridacna gigas,Giant Clam,SPECIES,Animalia,Mollusca,Bivalvia,Cardiida,Cardiidae,Tridacna,,Cockle,
 4372624,Tridacna squamosa,Fluted Giant Clam,SPECIES,Animalia,Mollusca,Bivalvia,Cardiida,Cardiidae,Tridacna,,Cockle,
 4372625,Tridacna maxima,Small Giant Clam,SPECIES,Animalia,Mollusca,Bivalvia,Cardiida,Cardiidae,Tridacna,,Cockle,Tridacna elongata
 4374556,Isognomon isognomum,,SPECIES,Animalia,Mollusca,Bivalvia,Ostreida,Isognomonidae,Isognomon,,,
+4374568,Isognomon perna,,SPECIES,Animalia,Mollusca,Bivalvia,Ostreida,Isognomonidae,Isognomon,,,
 4382787,Cardisoma carnifex,brown land crab,SPECIES,Animalia,Arthropoda,Malacostraca,Decapoda,Gecarcinidae,Cardisoma,great land crabs,land crabs,Cardisoma cardifax
 4592299,Pinctada maxima,pearl button oyster,SPECIES,Animalia,Mollusca,Bivalvia,Ostreida,Margaritidae,Pinctada,,,
 4595317,Saccostrea glomerata,Sydney rock oyster,SPECIES,Animalia,Mollusca,Bivalvia,Ostreida,Ostreidae,Saccostrea,,Oyster,Crassostrea commercialis
@@ -925,6 +932,7 @@ ID,name,name_eng,rank,kingdom,phylum,class,order,family,genus,genus_eng,family_e
 5192350,Cassis cornuta,horned helmet shell,SPECIES,Animalia,Mollusca,Gastropoda,Littorinimorpha,Cassidae,Cassis,,helmet snails,Cassis cornutus
 5192644,Charonia tritonis,trumpet triton,SPECIES,Animalia,Mollusca,Gastropoda,Littorinimorpha,Charoniidae,Charonia,triton,,
 5192699,Ovula ovum,common egg cowrie,SPECIES,Animalia,Mollusca,Gastropoda,Littorinimorpha,Ovulidae,Ovula,,egg cowries,
+4362226,Polinices mammilla,,SPECIES,Animalia,Mollusca,Gastropoda,Littorinimorpha,Naticidae,Polinices,Moon Snail,Moon Snail,Polinices tumidua
 5200938,Fistularia commersonii,Smooth Cornetfish,SPECIES,Animalia,Chordata,,Syngnathiformes,Fistulariidae,Fistularia,,Cornetfishes,
 5201173,Synanceia,,GENUS,Animalia,Chordata,,Scorpaeniformes,Synanceiidae,Synanceia,,stonefishes,
 5201174,Synanceia verrucosa,stonefish,SPECIES,Animalia,Chordata,,Scorpaeniformes,Synanceiidae,Synanceia,,stonefishes,
@@ -1230,6 +1238,7 @@ ID,name,name_eng,rank,kingdom,phylum,class,order,family,genus,genus_eng,family_e
 9300216,Columba vitiensis,Metallic Pigeon,SPECIES,Animalia,Chordata,Aves,Columbiformes,Columbidae,Columba,Old World Pigeons,Pigeons And Doves,
 9321463,Anous ceruleus,Blue Noddy,SPECIES,Animalia,Chordata,Aves,Charadriiformes,Laridae,Anous,Noddys,"Gulls, Terns, And Skimmers",Procelsterna cerulea
 9326020,Gallus gallus,chicken,SPECIES,Animalia,Chordata,Aves,Galliformes,Phasianidae,Gallus,junglefowl,"Pheasants, Grouse, And Allies",
+4589448,Batissa,,GENUS,Animalia,Mollusca,Bivalvia,Venerida,Cyrenidae,Batissa,,Basket Clams,
 9374672,Batissa tenebrosa,,SPECIES,Animalia,Mollusca,Bivalvia,Venerida,Cyrenidae,Batissa,,Basket Clams,Batissa unioniformis
 9375127,Tacca,tacca,GENUS,Plantae,Tracheophyta,Liliopsida,Dioscoreales,Dioscoreaceae,Tacca,,True Yams,
 9375966,Thalassina,,GENUS,Animalia,Arthropoda,Malacostraca,Decapoda,Thalassinidae,Thalassina,,mud lobsters,
