@@ -18033,7 +18033,7 @@ POc *tubuq ‘to grow, swell’
  NCV: Ninde               tiᵐb               ‘swell’
  NCal: Yuanga             khiᵐbu             ‘swell’
  NCal: Nemi               hiᵑguk             ‘swell’
- Mic: pi                  tibu               ‘swell, swelling, swollen’
+ Mic: Kiribati            tibu               ‘swell, swelling, swollen’
  Fij:   Wayan             tubu               ‘grow’
  Fij:   Bauan             tubu               (VI) ‘grow, increase’; (N) ‘a rash, any disease that rises above the skin’
  Pn:    Tongan            tupu               (VI) ‘grow, rise, swell’

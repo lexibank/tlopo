@@ -72,691 +72,691 @@ protosefatesv,Proto S Efate/SV,,,,,,,,,,,true,,Proto South Efate/Southern Vanuat
 protosolomonsoutlier,Proto Solomons Outlier,,,,,,,,,,,true,,,,,
 protowillaumez,Proto Willaumez,,,,,,,,,,,true,,,,,
 protofarnorthnewcaledonia,Proto Far North New Caledonia,,,,,,,,,,,true,,,,,
-tae,Tae’,taee1237,Tae',,,-2.58,120.14,,,CMP,,false,,,,,
-warembori,Warembori,ware1253,Warembori,,,-1.66,137.57,,,CB,,false,,,,,
-ambai,Ambai,amba1265,Ambai,,,-1.88,136.53,,,CB,,false,,,,,
-biak,Biak,biak1248,Biak,,,-0.95,135.88,,,CB,,false,,,,,
-wooi,Wooi,woii1237,Woi,,,-1.63,135.48,,,CB,,false,,,,,
-irarutu,Irarutu,irar1238,Irarutu,,,-2.94,133.59,,,CB,,false,,,,,
-wandamen,Wandamen,wand1267,Wandamen,,,-2.26,134.00,,,CB,,false,,,,,
-arguni,Arguni,argu1237,Arguni,,,-2.65,132.56,,,Bom,,false,,,,,
-buli,Buli,buli1255,Buli (Indonesia),,,1.00,128.44,,,SH,,false,,,,,
+tae,Tae’,taee1237,Tae',rob,Papunesia,-2.58,120.14,Austronesian,,CMP,,false,,,,,
+warembori,Warembori,ware1253,Warembori,wsa,Papunesia,-1.66,137.57,Austronesian,,CB,,false,,,,,
+ambai,Ambai,amba1265,Ambai,amk,Papunesia,-1.88,136.53,Austronesian,,CB,,false,,,,,
+biak,Biak,biak1248,Biak,bhw,Papunesia,-0.95,135.88,Austronesian,,CB,,false,,,,,
+wooi,Wooi,woii1237,Woi,wbw,Papunesia,-1.63,135.48,Austronesian,,CB,,false,,,,,
+irarutu,Irarutu,irar1238,Irarutu,irh,Papunesia,-2.94,133.59,Austronesian,,CB,,false,,,,,
+wandamen,Wandamen,wand1267,Wandamen,wad,Papunesia,-2.26,134.00,Austronesian,,CB,,false,,,,,
+arguni,Arguni,argu1237,Arguni,agf,Papunesia,-2.65,132.56,Austronesian,,Bom,,false,,,,,
+buli,Buli,buli1255,Buli (Indonesia),bzq,Papunesia,1.00,128.44,Austronesian,,SH,,false,,,,,
 taba,Taba,,,,,,,,,SH,,false,,,ed: maybe Maba (Indonesia)?,,
-sawai,Sawai,sawa1247,Sawai,,,0.51,128.09,,,SH,,false,,,,,
-gane,Gane,gane1237,Gane,,,-0.43,127.98,,,SH,,false,,,,,
-ambel,Ambel,waig1244,Ambel,,,-0.18,130.92,,,RA,,false,,,,,
-misool,Misool,maya1282,Misool-Salawati Ma'ya,,,-1.22,130.91,,,RA,,false,,,,,
-kambera,Kambera,kamb1299,Kambera,,,-9.88,120.23,,,CMP,,false,,,,,
-lamaholot,Lamaholot,lama1277,Lamaholot,,,-8.36,122.80,,,CMP,,false,,,,,
-keo,Kéo,keoo1238,Kéo,,,-8.87,121.26,,,CMP,,false,,,,,
-nauete,Nauete,naue1237,Nauete,,,-8.71,126.74,,,CMP,,false,,,,,
-rongga,Rongga,rong1269,Rongga,,,-8.85,120.70,,,CMP,,false,,,,,
-kapampangan,Kapampangan,pamp1243,Pampanga,,,14.96,120.50,,,WMP,,false,,,,,
-tondano,Tondano,tond1251,Tondano,,,1.28,124.96,,,WMP,,false,,,,,
-malay,Malay,mala1479,Central Malay,,,1.85856,103.0,,,WMP,,false,,,,,
-cebuano,Cebuano,cebu1242,Cebuano,,,8.38799,124.367,,,WMP,,false,,,cebu1242,,
-buru,Buru,buru1303,Buru (Indonesia),,,-3.44,126.63,,,CMP,,false,,,,,
-tagalog,Tagalog,taga1270,Tagalog,,,14.06,121.74700000000001,,,WMP,,false,,,taga1270,,
-maranao,Maranao,mara1404,Maranao,,,7.79414,124.17499999999998,,,WMP,,false,,,mara1404,,
-sangir,Sangir,sang1336,Sangir,,,3,125.5,,,WMP,,false,,,sang1336,,
-tausug,Tausug,taus1251,Tausug,,,5.12236,118.88,,,WMP,,false,,,taus1251,,
-javanese,Javanese,java1254,Javanese,,,-7.001,109.287,,,WMP,,false,,,java1254,,
-numfor,Numfor,biak1248,Biak,,,-0.9523,135.879,,,SHWNG,,false,,,biak1248,,
-seruilaut,Serui-Laut,seru1244,Serui-Laut,,,-1.88,136.25,,,CB,,false,,,,,
-aklanon,Aklanon,akla1240,Aklanon,,,11.55432,122.35413,,,WMP,,false,,,akla1240,,
-tobabatak,Toba Batak,bata1289,Batak Toba,,,2.35498,99.17609999999999,,,WMP,,false,,,bata1289,,
-wolio,Wolio,woli1241,Wolio,,,-5.33,122.66999999999999,,,WMP,,false,,,woli1241,,
-balangaw,Balangaw,bala1310,Balangao,,,17.0994,121.27199999999999,,,WMP,,false,,,bala1310,,
-larike,Larike,lari1256,Larike,,,-3.77,127.96,,,CMP,,false,,,lari1256,,
-komodo,Komodo,komo1261,Komodo,,,-8.64518,119.477,,,CMP,,false,,,komo1261,,
-manggarai,Manggarai,mang1405,Manggarai,,,-8.55748,120.329,,,CMP,,false,,,mang1405,,
-amber,Amber,waig1244,Ambel,,,-0.18,130.92,,,SHWNG,,false,,,,,
-mor,Mor,morb1239,Mor (Bomberai Peninsula),,,-2.85747,132.845,,,SHWNG,,false,,,morb1239,,
-dusner,Dusner,dusn1237,Dusner,,,-2.73859,134.39100000000002,,,SHWNG,,false,,,dusn1237,,
-waropen,Waropen,waro1242,Waropen,,,-2.31142,136.63299999999998,,,SHWNG,,false,,,waro1242,,
-kuvalan,Kuvalan,kava1241,Kavalan,,,24.6947,121.645,,,Fma,,false,,,kava1241,,
-paiwan,Paiwan,paiw1248,Paiwan,,,22.33,120.81,,,Fma,,false,,,,,
-bilaan,Bilaan,blaa1241,Blaan,,,6.1211,125.1805,,,WMP,,false,,,,,
-kagayanen,Kagayanen,kaga1256,Kagayanen,,,10.47,119.87,,,WMP,,false,,,,,
-cham,Cham,cham1328,Cham,,,11.8812,106.258,,,WMP,,false,,,,,
-saban,Saban,saba1265,Sa'ban,,,3.59,115.66,,,WMP,,false,,,,,
-tolaki,Tolaki,tola1247,Tolaki,,,-4.03577,121.88799999999999,,,WMP,,false,,,tola1247,,
-madurese,Madurese,nucl1460,Madurese,,,-7,113,,,WMP,,false,,,nucl1460,,
-sundanese,Sundanese,sund1252,Sundanese,,,-6.89708,107.106,,,WMP,,false,,,sund1252,,
-tukangbesi,Tukang Besi,tuka1247,Tukang Besi,,,-5.31,123.58,,,WMP,,false,,,,,
-ngajudayak,Ngaju Dayak,ngaj1237,Ngaju,,,-1.58463,112.79400000000001,,,WMP,,false,,,ngaj1237,,
-ilokano,Ilokano,ilok1237,Iloko,,,15.9361,120.99300000000001,,,WMP,,false,,,ilok1237,,
-selaru,Selaru,sela1259,Selaru,,,-8.18376,130.961,,,CMP,,false,,,sela1259,,
-kisar,Kisar,kisa1266,Kisar,,,-8.05,127.18,,,CMP,,false,,,,,
-hawu,Hawu,sabu1255,Hawu,,,-10.55,121.85,,,CMP,,false,,,,,
-helong,Helong,helo1243,Helong,,,-10.26,123.38,,,CMP,,false,,,,,
-tetun,Tetun,tetu1245,Tetum,,,-9.11,125.53,,,CMP,,false,,Tetun Fehan; Fehan Tetun,,,
-asilulu,Asilulu,asil1242,Asilulu,,,-3.67302,127.952,,,CMP,,false,,,asil1242,,
-chamorro,Chamorro,cham1312,Chamorro,,,13.438011,144.74473999999998,,,WMP,,false,,,cham1312,,
-malagasy,Malagasy,mala1537,Malagasic,,,-20.326260416666663,46.604015625,,,WMP,,false,,,,,
-indonesian,Indonesian,indo1316,Standard Indonesian,,,-7.33,109.72,,,WMP,,false,,,,,
-muna,Muna,muna1247,Muna,,,-5.40,122.54,,,WMP,,false,,,,,
+sawai,Sawai,sawa1247,Sawai,szw,Papunesia,0.51,128.09,Austronesian,,SH,,false,,,,,
+gane,Gane,gane1237,Gane,gzn,Papunesia,-0.43,127.98,Austronesian,,SH,,false,,,,,
+ambel,Ambel,waig1244,Ambel,wgo,Papunesia,-0.18,130.92,Austronesian,,RA,,false,,,,,
+misool,Misool,maya1282,Misool-Salawati Ma'ya,slz,Papunesia,-1.22,130.91,Austronesian,,RA,,false,,,,,
+kambera,Kambera,kamb1299,Kambera,xbr,Papunesia,-9.88,120.23,Austronesian,,CMP,,false,,,,,
+lamaholot,Lamaholot,lama1277,Lamaholot,slp,Papunesia,-8.36,122.80,Austronesian,,CMP,,false,,,,,
+keo,Kéo,keoo1238,Kéo,xxk,Papunesia,-8.87,121.26,Austronesian,,CMP,,false,,,,,
+nauete,Nauete,naue1237,Nauete,nxa,Papunesia,-8.71,126.74,Austronesian,,CMP,,false,,,,,
+rongga,Rongga,rong1269,Rongga,ror,Papunesia,-8.85,120.70,Austronesian,,CMP,,false,,,,,
+kapampangan,Kapampangan,pamp1243,Pampanga,pam,Papunesia,14.96,120.50,Austronesian,,WMP,,false,,,,,
+tondano,Tondano,tond1251,Tondano,tdn,Papunesia,1.28,124.96,Austronesian,,WMP,,false,,,,,
+malay,Malay,mala1479,Central Malay,zlm,Eurasia,1.85856,103.0,Austronesian,,WMP,,false,,,,,
+cebuano,Cebuano,cebu1242,Cebuano,ceb,Papunesia,8.38799,124.367,Austronesian,,WMP,,false,,,cebu1242,,
+buru,Buru,buru1303,Buru (Indonesia),mhs,Papunesia,-3.44,126.63,Austronesian,,CMP,,false,,,,,
+tagalog,Tagalog,taga1270,Tagalog,tgl,Papunesia,14.06,121.74700000000001,Austronesian,,WMP,,false,,,taga1270,,
+maranao,Maranao,mara1404,Maranao,mrw,Papunesia,7.79414,124.17499999999998,Austronesian,,WMP,,false,,,mara1404,,
+sangir,Sangir,sang1336,Sangir,sxn,Papunesia,3,125.5,Austronesian,,WMP,,false,,,sang1336,,
+tausug,Tausug,taus1251,Tausug,tsg,Papunesia,5.12236,118.88,Austronesian,,WMP,,false,,,taus1251,,
+javanese,Javanese,java1254,Javanese,jav,Papunesia,-7.001,109.287,Austronesian,,WMP,,false,,,java1254,,
+numfor,Numfor,biak1248,Biak,bhw,Papunesia,-0.9523,135.879,Austronesian,,SHWNG,,false,,,biak1248,,
+seruilaut,Serui-Laut,seru1244,Serui-Laut,seu,Papunesia,-1.88,136.25,Austronesian,,CB,,false,,,,,
+aklanon,Aklanon,akla1240,Aklanon,akl,Papunesia,11.55432,122.35413,Austronesian,,WMP,,false,,,akla1240,,
+tobabatak,Toba Batak,bata1289,Batak Toba,bbc,Papunesia,2.35498,99.17609999999999,Austronesian,,WMP,,false,,,bata1289,,
+wolio,Wolio,woli1241,Wolio,wlo,Papunesia,-5.33,122.66999999999999,Austronesian,,WMP,,false,,,woli1241,,
+balangaw,Balangaw,bala1310,Balangao,blw,Papunesia,17.0994,121.27199999999999,Austronesian,,WMP,,false,,,bala1310,,
+larike,Larike,lari1256,Larike,,Papunesia,-3.77,127.96,Austronesian,,CMP,,false,,,lari1256,,
+komodo,Komodo,komo1261,Komodo,kvh,Papunesia,-8.64518,119.477,Austronesian,,CMP,,false,,,komo1261,,
+manggarai,Manggarai,mang1405,Manggarai,mqy,Papunesia,-8.55748,120.329,Austronesian,,CMP,,false,,,mang1405,,
+amber,Amber,waig1244,Ambel,wgo,Papunesia,-0.18,130.92,Austronesian,,SHWNG,,false,,,,,
+mor,Mor,morb1239,Mor (Bomberai Peninsula),moq,Papunesia,-2.85747,132.845,Mor (Bomberai Peninsula),,SHWNG,,false,,,morb1239,,
+dusner,Dusner,dusn1237,Dusner,dsn,Papunesia,-2.73859,134.39100000000002,Austronesian,,SHWNG,,false,,,dusn1237,,
+waropen,Waropen,waro1242,Waropen,wrp,Papunesia,-2.31142,136.63299999999998,Austronesian,,SHWNG,,false,,,waro1242,,
+kuvalan,Kuvalan,kava1241,Kavalan,ckv,Papunesia,24.6947,121.645,Austronesian,,Fma,,false,,,kava1241,,
+paiwan,Paiwan,paiw1248,Paiwan,pwn,Papunesia,22.33,120.81,Austronesian,,Fma,,false,,,,,
+bilaan,Bilaan,blaa1241,Blaan,,,6.1211,125.1805,Austronesian,,WMP,,false,,,,,
+kagayanen,Kagayanen,kaga1256,Kagayanen,cgc,Papunesia,10.47,119.87,Austronesian,,WMP,,false,,,,,
+cham,Cham,cham1328,Cham,,,11.8812,106.258,Austronesian,,WMP,,false,,,,,
+saban,Saban,saba1265,Sa'ban,snv,Papunesia,3.59,115.66,Austronesian,,WMP,,false,,,,,
+tolaki,Tolaki,tola1247,Tolaki,lbw,Papunesia,-4.03577,121.88799999999999,Austronesian,,WMP,,false,,,tola1247,,
+madurese,Madurese,nucl1460,Madurese,mad,Papunesia,-7,113,Austronesian,,WMP,,false,,,nucl1460,,
+sundanese,Sundanese,sund1252,Sundanese,sun,Papunesia,-6.89708,107.106,Austronesian,,WMP,,false,,,sund1252,,
+tukangbesi,Tukang Besi,tuka1247,Tukang Besi,,,-5.31,123.58,Austronesian,,WMP,,false,,,,,
+ngajudayak,Ngaju Dayak,ngaj1237,Ngaju,nij,Papunesia,-1.58463,112.79400000000001,Austronesian,,WMP,,false,,,ngaj1237,,
+ilokano,Ilokano,ilok1237,Iloko,ilo,Papunesia,15.9361,120.99300000000001,Austronesian,,WMP,,false,,,ilok1237,,
+selaru,Selaru,sela1259,Selaru,slu,Papunesia,-8.18376,130.961,Austronesian,,CMP,,false,,,sela1259,,
+kisar,Kisar,kisa1266,Kisar,kje,Papunesia,-8.05,127.18,Austronesian,,CMP,,false,,,,,
+hawu,Hawu,sabu1255,Hawu,hvn,Papunesia,-10.55,121.85,Austronesian,,CMP,,false,,,,,
+helong,Helong,helo1243,Helong,heg,Papunesia,-10.26,123.38,Austronesian,,CMP,,false,,,,,
+tetun,Tetun,tetu1245,Tetum,tet,Papunesia,-9.11,125.53,Austronesian,,CMP,,false,,Tetun Fehan; Fehan Tetun,,,
+asilulu,Asilulu,asil1242,Asilulu,asl,Papunesia,-3.67302,127.952,Austronesian,,CMP,,false,,,asil1242,,
+chamorro,Chamorro,cham1312,Chamorro,cha,Papunesia,13.438011,144.74473999999998,Austronesian,,WMP,,false,,,cham1312,,
+malagasy,Malagasy,mala1537,Malagasic,,,-20.326260416666663,46.604015625,Austronesian,,WMP,,false,,,,,
+indonesian,Indonesian,indo1316,Standard Indonesian,ind,Papunesia,-7.33,109.72,Austronesian,,WMP,,false,,,,,
+muna,Muna,muna1247,Muna,mnb,Papunesia,-5.40,122.54,Austronesian,,WMP,,false,,,,,
 rotinese,Rotinese,,,,,,,,,CMP,,false,,,,,
-watubela,Watubela,watu1247,Watubela,,,-4.47,131.64,,,CMP,,false,,,,,
-bima,Bima,bima1247,Bima,,,-8.57,118.44,,,CMP,,false,,,,,
-konjo,Konjo,konj1250,Konjo,,,-5.340,120.116,,,CMP,,false,,,,,
-leti,Leti,leti1246,Leti (Indonesia),,,-8.20,127.67,,,CMP,,false,,,,,
-yamdena,Yamdena,yamd1240,Yamdena,,,-7.74,131.44,,,CMP,,false,,,,,
-fordata,Fordata,ford1242,Fordata,,,-7.29,131.51,,,CMP,,false,,,,,
-ngadha,Ngadha,ngad1261,Ngad'a,,,-8.80,120.98,,,CMP,,false,,,,,
-boano,Boano,boan1243,Boano (Sulawesi),,,0.51152,120.992,,,CMP,,false,,,boan1243,,
-nias,Nias,nias1242,Nias,,,0.90691,97.49610000000001,,,WMP,,false,,,nias1242,,
-sichule,Sichule,siku1242,Sikule,,,2.69113,95.96360000000001,,,WMP,,false,,,siku1242,,
-bikol,Bikol,biko1240,Bikol,,,13.46,123.55,,,WMP,,false,,,biko1240,,
-hova,Hova,hoav1238,Hoava,,,-8.19679,157.595,,,WMP,,false,,,,,
-isneg,Isneg,isna1241,Isnag,,,18.2139,121.16,,,WMP,,false,,,isna1241,,
-taliabo,Taliabo,tali1262,Taliabu,,,-1.79516,124.869,,,CMP,,false,,,tali1262,,
-buginese,Buginese,bugi1244,Buginese,,,-4.47,119.977,,,WMP,,false,,,bugi1244,,
-makassarese,Makassarese,maka1311,Makasar,,,-5.65551,119.838,,,WMP,,false,,Makasarese,maka1311,,
-belau,Belau,pala1344,Palauan,,,7.34,134.48,,,WMP,,false,,,,,
-yami,Yami,yami1254,Yami,,,22.05,121.54,,,WMP,,false,,,,,
-itbayat,Itbayat,ivat1242,Itbayat,,,20.77,121.85,,,WMP,,false,,,,,
-manobo,Manobo,mano1276,Manobo,,,8.391250209166687,123.79321982466668,,,WMP,,false,,,,,
-tiruray,Tiruray,tiru1241,Tiruray,,,6.77,124.13,,,WMP,,false,,,,,
-aceh,Aceh,achi1257,Acehnese,,,3.91,96.60,,,WMP,,false,,,,,
-oldjavanese,Old Javanese,kawi1241,Kawi,,,-7.00,111.00,,,WMP,,false,,,,,
-roti,Roti,rote1234,Rote-Meto,,,-10.55,123.31,,,CMP,,false,,,Based on citation of ACD forms,,
-bajau,Bajau,indo1317,Indonesian Bajau,,,-3.68664,122.253,,,WMP,,false,,,,,
-ujir,Ujir (Aru Is.),ujir1237,Ujir,,,-5.69,134.26,,,CMP,,false,,Ujir (Aru),,,
-dobel,Dobel,dobe1238,Dobel,,,-6.32531,134.638,,,CMP,,false,,,dobe1238,,
-kola,Kola,kola1285,Kola,,,-5.48833,134.592,,,CMP,,false,,,kola1285,,
-ambelau,Ambelau,ambe1248,Ambelau,,,-3.86,127.20,,,CMP,,false,,,,,
-kei,Kei,keii1239,Kei,,,-5.64,133.02,,,CMP,,false,,,,,
-ambonesemalay,Ambonese Malay,ambo1250,Ambonese Malay,,,-3.71,128.18,,,WMP,,false,,,,,
-tonsea,Tonsea,tons1240,Tonsea,,,1.51393,125.05199999999999,,,WMP,,false,,,tons1240,,
-iban,Iban,iban1264,Iban,,,2.09041,112.93400000000001,,,WMP,,false,,,iban1264,,
-maloh,Maloh,emba1238,Embaloh,,,1.3156,112.63,,,WMP,,false,,,emba1238,,
-sika,Sika,sika1262,Sika,,,-8.67302,122.38,,,WMP,,false,,,sika1262,,
-kankanay,Kankanay,kank1243,Kankanaey,,,16.8548,120.689,,,WMP,,false,,,kank1243,,
-ivatan,Ivatan,ibat1238,Ibatan,,,20.77,121.85,,,WMP,,false,,,,,
-gaddang,Gaddang,gadd1244,Gaddang,,,16.5468,121.17699999999999,,,WMP,,false,,,gadd1244,,
-sasak,Sasak,sasa1249,Sasak,,,-8.58349,116.284,,,WMP,,false,,,sasa1249,,
-snuaulu,S. Nuaulu,sout2895,South Nuaulu,,,-3.23,129.15,,,CMP,,false,,,,,
-laiyolo,Laiyolo,laiy1246,Laiyolo,,,-6.45512,120.483,,,WMP,,false,,,laiy1246,,
-ilongot,Ilongot,ilon1239,Ilongot,,,16.3785,121.54700000000001,,,WMP,,false,,,ilon1239,,
-uma,Uma,umaa1242,Uma,,,-1.70416,119.968,,,WMP,,false,,,umaa1242,,
-yapese,Yapese,yape1248,Yapese,,,9.55811,138.125,,,Yap,Jensen1977,false,,,,B.13,cffffff
-emira,Emira,emir1237,Emira,,,-1.64,149.98,,,Adm,,false,,,,B.1,c1100ff
-mussau,Mussau,muss1248,Mussau,,,-1.44,149.62,,,Adm,Blust1984,false,,,,B.1,c1100ff
-tenis,Tenis,teni1244,Tenis,,,-1.65,150.67,,,Adm,LithgowandClaassen1968,false,,Tench,,B.1,c1100ff
-aua,Aua,auaa1241,Aua,,,-1.46,143.06,,,Adm,,false,,Awa,,B.1,c1bb107
-kaniet,Kaniet,kani1282,Kaniet,,,-1.52,145.09,,,Adm,Smythe1975,false,,,,B.1,c1bb107
-seimat,Seimat,seim1238,Seimat,,,-1.2666667,144.25,,,Adm,,false,,Ninigo,= Ninigo,B.1,c1bb107
-wuvulu,Wuvulu,wuvu1240,Wuvulu,,,-1.74,142.85,,,Adm,Hafford2014,false,,,,B.1,c1bb107
-bipi,Bipi,bipi1237,Bipi,,,-2.11115,146.39800000000002,,,Adm,,false,,,,B.1,ce31a1c
-ere,Ere,eree1241,Ere,,,-2.15569,147.083,,,Adm,,false,,,,B.1,ce31a1c
-kele,Kele,kele1258,Kele (Papua New Guinea),,,-2.09,147.06,,,Adm,,false,,,,B.1,ce31a1c
-kurti,Kurti,kurt1250,Kurti,,,-2.01,147.04,,,Adm,,false,,,,B.1,ce31a1c
-leipon,Leipon,leip1237,Leipon,,,-1.97,147.23,,,Adm,,false,,Pitilu,= Pitilu,B.1,ce31a1c
-lele,Lele,lele1270,Lele (Papua New Guinea),,,-2.04783,147.207,,,Adm,,false,,,,B.1,ce31a1c
-loniu,Loniu,loni1238,Loniu,,,-2.06124,147.35000000000002,,,Adm,Hamel1994,false,,,,B.1,ce31a1c
-nali,Nali,nali1245,Nali,,,-2.14273,147.202,,,Adm,,false,,,,B.1,ce31a1c
-papitalai,Papitalai,papi1254,Papitalai,,,-2.06,147.42,,,Adm,,false,,Koro,,B.1,ce31a1c
-titan,Titan,tita1241,Titan,,,-2.18168,146.88800000000003,,,Adm,Bowern2011,false,,Sivisa Titan,,B.1,ce31a1c
-drehet,Drehet,kheh1237,Khehek,,,-2.07,146.75,,,Adm,,false,,Khehek; Levei-Tulu; Ndrehet; Levei; Levei-Drehet,"= Ndrehet, Khehek, Levei-Tulu",B.1,se31a1c
-likum,Likum,liku1243,Likum,,,-2.16157,146.695,,,Adm,,false,,,,B.1,se31a1c
-mondropolon,Mondropolon,mond1265,Mondropolon,,,-2.01359,146.931,,,Adm,,false,,,,B.1,se31a1c
-nyindrou,Nyindrou,nyin1250,Nyindrou,,,-2.1143,146.627,,,Adm,,false,,Lindrou; Nyindou,,B.1,se31a1c
-bohuai,Bohuai,bohu1238,Bohuai,,,-2.14,146.93,,,Adm,,false,,,,B.1,se31a1c
-andra,Andra,andr1248,Andra-Hus,,,-1.94,147.00,,,Adm,,false,,,,B.1,de31a1c
-hus,Hus,andr1248,Andra-Hus,,,-1.94,147.10,,,Adm,,false,,,,B.1,de31a1c
-ponam,Ponam,pona1250,Ponam,,,-1.91705,146.88700000000003,,,Adm,,false,,,,B.1,de31a1c
-soriharengan,Sori-Harengan,sori1242,Sori-Harengan,,,-1.98,146.64,,,Adm,,false,,Sori,,B.1,de31a1c
-baluan,Baluan,balu1257,Paluai,,,-2.56,147.29,,,Adm,,false,,,,B.1,cffff00
-lenkau,Lenkau,lenk1247,Lenkau,,,-2.33,147.74,,,Adm,,false,,,,B.1,cffff00
-lou,Lou,louu1245,Lou,,,-2.38659,147.346,,,Adm,Blust1998b,false,,,,B.1,cffff00
-nauna,Nauna,naun1237,Nauna,,,-2.21213,148.201,,,Adm,,false,,,,B.1,cffff00
-pak,Pak,pakk1242,Pak,,,-2.08,147.63,,,Adm,,false,,,Dialect of Pak-Tong,B.1,cffff00
-penchal,Penchal,penc1239,Penchal,,,-2.29891,147.81,,,Adm,,false,,,,B.1,cffff00
-anus,Anus,anus1237,Korur,,,-2.26,139.50,,,SJ,Grace1971,false,,,,B.2,c19d300
-bongo,Bongo,bong1287,Bonggo,,,-2.28,139.58,,,SJ,,false,,Bonggo,,B.2,c19d300
-sobei,Sobei,sobe1238,Sobei,,,-1.86998,138.75,,,SJ,Ajamisebaetal1987,false,,,,B.2,c19d300
-tarpia,Tarpia,tarp1240,Tarpia,,,-2.322279,140.115497,,,SJ,,false,,,,B.2,c19d300
-yamna,Yamna,yamn1237,Yamna,,,-2.09,139.21,,,SJ,,false,,,,B.2,c19d300
-kayupulau,Kayupulau,kayu1243,Kayupulau,,,-2.54,140.63,,,SJ,Grace1971,false,,,,B.2,cffff00
-ormu,Ormu,ormu1248,Ormu,,,-2.51, 140.60,,,SJ,,false,,,,B.2,cffff00
-tobati,Tobati,toba1266,Tobati,,,-2.56,140.71,,,SJ,,false,,Yotafa,,B.2,cffff00
-amara,Amara,amar1272,Amara,,,-5.50,148.75,,,NNG,Thurston1996a,false,,,,B.3,cffffff
-mangap,Mangap,mbul1263,Mbula,,,-5.66965,148.041,,,NNG,BugenhagenandBugenhagen2007,false,,Kaimanga; Mangap-Mbula; Mbula; Mangap-M.; Mangap Mb.; Mangap Mbula; Mangap Mb; Mangap (Marile),"= Mangap-Mbula, Kaimanga",B.3,cffffff
-sio,Sio,sioo1240,Sio,,,-5.96037,147.353,,,NNG,,false,,,,B.3,cffffff
-tami,Tami,tami1290,Tami,,,-6.77,147.92,,,NNG,Bamler1900,false,,,,B.4,cffffff
-barim,Barim,karn1252,Karnai,,,-5.74133,147.917,,,NNG,,false,,Karnai,,B.3,c00fffb
-lukep,Lukep,arop1243,Arop-Lokep,,,-5.31671,147.10299999999998,,,NNG,,false,,Arop-Lokep; Arop-Lukep; Lukep Pono; Lukep-Pono; Lukep (Pono),= Arop-Lokep,B.3,c00fffb
-malasanga,Malasanga,mala1487,Malasanga,,,-5.9401,147.05800000000002,,,NNG,,false,,,,B.3,c00fffb
-singorakai,Singorakai,sing1268,Singorokai,,,-5.9401,147.058,,,NNG,,false,,,dialect of Malasanga,B.3,c00fffb
-kilenge,Kilenge,kile1242,Kilenge,,,-5.44,148.37,,,NNG,,false,,,,B.3,c1100ff
-maleu,Maleu,male1290,Maleu,,,-5.69,148.34,,,NNG,,false,,,,B.3,c1100ff
-gitua,Gitua,gitu1237,Gitua,,,-6.0151,147.485,,,NNG,Lincoln1977,false,,,,B.3,ced62ff
-malai,Malai,mala1488,Malai,,,-5.89,147.95,,,NNG,,false,,,dialect of Mutu,B.3,ced62ff
-mandok,Mandok,mutu1242,Mutu,,,-5.79, 148.01,,,NNG,BugenhagenandBugenhagen2007b,false,,,"dialect of Mutu, see https://openresearch-repository.anu.edu.au/server/api/core/bitstreams/7ec4a089-add5-4b5d-be30-e8ca1a7b8fa9/content",B.3,ced62ff
-mutu,Mutu,mutu1242,Mutu,,,-5.79405,148.01399999999998,,,NNG,BugenhagenandBugenhagen2007b,false,,,,B.3,ced62ff
-tuam,Tuam,tuam1243,Tuam,,,-6.02,147.49,,,NNG,,false,,Tuam-Mutu,dialect of Mutu,B.3,ced62ff
-bariai,Bariai,bari1286,Bariai,,,-5.5087,148.666,,,NNG,Gallagher2008,false,,Kabana,,B.3,ded62ff
-kove,Kove,kove1237,Kove,,,-5.58623,149.63,,,NNG,Chowning2009,false,,,,B.3,ded62ff
-lusi,Lusi,lusi1240,Lusi,,,-5.55,149.15,,,NNG,,false,,,,B.3,ded62ff
-malalamai,Malalamai,mala1489,Malalamai,,,-5.77495,146.642,,,NNG,,false,,,,B.3,ded62ff
-mato,Mato,mato1252,Mato,,,-5.92,146.86,,,NNG,McHenryetal1996,false,,Nenaya; Nengaya,"= Nenaya, Nengaya",B.3,sffff00
-roinji,Roinji,ronj1237,Ronji,,,-5.80782,146.731,,,NNG,Lincoln1978;McHenryetal1996,false,,Ronji; Rondi,,B.3,sffff00
-bing,Bing,awad1244,Awad Bing,,,-5.60,146.35,,,NNG,SimonsandSimons1977,false,,Awad Bing; Biliau,,B.3,cffff00
-swit,Swit,suit1237,Suit,,,-5.60,146.35,,,NNG,,false,,,,B.3,cffff00
-dami,Dami,mari1428,Marik,,,-5.349,145.59,,,NNG,,false,,Ham; Marik,,B.3,cffff00
-mindiri,Mindiri,mind1255,Mindiri,,,-5.5,146.15,,,NNG,Lincoln1978,false,,,,B.3,cffff00
-wab,Wab,wabb1237,Wab,,,-5.61216,146.461,,,NNG,Lincoln1978,false,,,,B.3,cffff00
-bilibil,Bilibil,bilb1241,Bilibil,,,-5.26505,145.76399999999998,,,NNG,,false,,Bilbil,= Bilbil,B.3,dffff00
-gedaged,Gedaged,geda1237,Gedaged,,,-5.18175,145.781,,,NNG,Mager1952,false,,Graged,,B.3,dffff00
-matukar,Matukar,matu1261,Matukar,,,-4.91,145.78,,,NNG,Barth2012,false,,Matukar Panau,,B.3,dffff00
-takia,Takia,taki1248,Takia,,,-4.69057,145.975,,,NNG,,false,,,,B.3,dffff00
-megiar,Megiar,megi1245,Megiar,,,-4.81,145.76,,,NNG,,false,,,dialect of Takia,B.3,dffff00
-riwo,Riwo,geda1237,Gedaged,,,-5.18175,145.781,,,NNG,Mager1952,false,,Ziwo; Zivo,= dialect of Gedaged,B.3,dffff00
-aria,Aria,tour1244,Tourai,,,-5.63,149.26,,,NNG,,false,,Tourai,dialect of Mouk-Aria,B.3,c8a33fd
-lamogai,Lamogai,lamo1244,Lamogai,,,-5.87,149.32,,,NNG,Thurston1996b,false,,,,B.3,c8a33fd
-mouk,Mouk,mouk1240,Mouk,,,-5.71,149.16,,,NNG,Thurston1996b,false,,Mok,dialect of Mouk-Aria,B.3,c8a33fd
-rauto,Rauto,puli1237,Pulie-Rauto,,,-6.06,149.34,,,NNG,,false,,Lamogai-Rauto,dialect of Lamogai,B.3,c8a33fd
-akolet,Akolet,akol1237,Akolet,,,-6.22711,150.18200000000002,,,NNG,,false,,,,B.3,c19d300
-apalik,Apalik,apal1255,Apalik,,,-6.29,149.96,,,NNG,,false,,Ambul,,B.3,c19d300
-arove,Arove,solo1258,Solong,,,-5.86,148.82,,,NNG,,false,,,,B.3,c19d300
-arawe,Arawe,araw1283,Arawe,,,-6.29,149.96,,,NNG,,false,,,,B.3,c19d300
-atui,Atui,geli1237,Gelimi,,,-6.19889,150.506,,,NNG,,false,,Amio; Gelimi,dialect of Atui-Lesing,B.3,c19d300
-avau,Avau,avau1237,Avau,,,-6.24,150.43,,,NNG,,false,,,,B.3,c19d300
-bebeli,Bebeli,bebe1252,Bebeli,,,-5.63282,150.323,,,NNG,,false,,,,B.3,c19d300
-mangseng,Mangseng,mang1403,Mangseng,,,-5.89752,150.68,,,NNG,,false,,,,B.3,c19d300
-pasismanua,Pasismanua,pasi1254,Pasismanua,,,-6.021,149.874,,,NNG,,false,,,,B.3,ce31a1c
-kaulong,Kaulong,kaul1240,Kaulong,,,-6.08,149.70,,,NNG,,false,,,,B.3,ce31a1c
-psohoh,Psohoh,apso1237,Apsokok,,,-6.20,150.25,,,NNG,,false,,Apsokok,dialect of Aighon,B.3,ce31a1c
-sengseng,Sengseng,seng1281,Sengseng,,,-6.16474,149.784,,,NNG,Chowning1996,false,,,,B.3,ce31a1c
-kakuna,Kakuna,mamu1254,Mamusi,,,-5.91,151.04,,,NNG,,false,,Mamusi (Kakuna),dialect of Mamusi,B.3,cff6f00
-mamusi,Mamusi,mamu1254,Mamusi,,,-5.85,151.03,,,NNG,,false,,,,B.3,cff6f00
-longeinga,Longeinga,bush1249,Bush Mengen,,,-5.25,151.40,,,NNG,,false,,,= Bush Mengen,B.3,cff6f00
-mengen,Mengen,meng1267,Mengen,,,-5.47,151.37,,,NNG,,false,,Maeng; Maenge; Mengen (Poeng); Mengen (Maenge); Poeng,,B.3,cff6f00
-uvol,Uvol,lote1237,Lote,,,-5.954,150.911,,,NNG,,false,,,,B.3,cff6f00
-numbami,Numbami,numb1247,Numbami,,,-7.52806,147.298,,,NNG,,false,,,,B.4,c626262
-yabem,Yabem,yabe1254,Yabem,,,-6.67052,147.81,,,NNG,,false,,Jabêm,,B.4,c00fffb
-kela,Kela,kela1255,Kela (Papua New Guinea),,,-7.47,147.17,,,NNG,,false,,,,B.4,c00fffb
-bukawa,Bukawa,buga1250,Bugawac,,,-6.68,147.32,,,NNG,Eckermann2007,false,,,,B.4,c00fffb
-aribwatsa,Aribwatsa,arib1241,Aribwatsa,,,-6.72,146.99,,,NNG,,false,,,,B.4,de31a1c
-duwet,Duwet,duwe1237,Duwet,,,-6.46,146.84,,,NNG,,false,,,,B.4,de31a1c
-labu,Labu,labu1248,Labu,,,-6.75,146.903,,,NNG,Siegel1984,false,,,,B.4,de31a1c
-musom,Musom,muso1238,Musom,,,-6.54,146.93,,,NNG,,false,,,,B.4,de31a1c
-sirak,Sirak,nafi1237,Nafi,,,-6.43,146.81,,,NNG,,false,,Nafi,,B.4,de31a1c
-wampar,Wampar,wamp1247,Wampar,,,-6.58,146.60,,,NNG,FischerandBeer2017,false,,,,B.4,de31a1c
-yalu,Yalu,arib1240,Aribwaung,,,-6.65,146.92,,,NNG,,false,,Aribwaungg,,B.4,de31a1c
-dangal,Dangal,dang1263,Dangal,,,-6.93,146.38,,,NNG,,false,,Danggal,dialect of S Watut,B.4,se31a1c
-middlewatut,Middle Watut,midd1327,Middle Watut,,,-6.88,146.40,,,NNG,,false,,"Watut, Middle; Bubwaf; Silisili",Dialect of Watut,B.4,se31a1c
-northwatut,North Watut,nort2857,North Watut,,,-6.64,146.22,,,NNG,,false,,Unank; Onank,,B.4,se31a1c
-southwatut,South Watut,sout2877,South Watut,,,-7.04,146.41,,,NNG,,false,,S Watut; Maralango,,B.4,se31a1c
-adzera,Adzera,adze1240,Adzera,,,-6.39394,146.29399999999998,,,NNG,,false,,,,B.4,ce31a1c
-mari,Mari,mari1429,Mari (Madang Province),,,-5.97,145.83,,,NNG,,false,,,,B.4,ce31a1c
-sirasira,Sirasira,sara1323,Sarasira,,,-6.32,146.48,,,NNG,,false,,Sarasira,,B.4,ce31a1c
-sukurum,Sukurum,suku1264,Sukurum,,,-6.28,146.34,,,NNG,,false,,,,B.4,ce31a1c
-wampur,Wampur,wamp1248,Wampur,,,-6.34,146.13,,,NNG,,false,,,,B.4,ce31a1c
-hote,Hote,hote1245,Hote,,,-7.07708,146.869,,,NNG,,false,,,,B.4,sffff00
-misim,Misim,misi1244,Misim,,,-7.07708,146.869,,,NNG,,false,,Hote (Misim),dialect of Hote,B.4,sffff00
-kaiwa,Kaiwa,iwal1237,Iwal,,,-7.20938,146.983,,,NNG,,false,,Iwal,,B.4,sffff00
-buang,Buang,mapo1247,Mapos-Mangga-Wagau,,,-6.932815,146.7295,,,NNG,,false,,,,B.4,cffff00
-kapin,Kapin,kapi1250,Kapin,,,-7.06,146.53,,,NNG,,false,,,,B.4,cffff00
-kumaru,Kumaru,kuma1278,Kumalu,,,-7.11,146.57,,,NNG,,false,,Kumaru Mumeng; Mumeng (Kumaru); Mumeng K,dialect of Mumeng,B.4,dffff00
-mangga,Mangga,mang1404,Mangga Buang,,,-7.00,146.69,,,NNG,,false,,Mangga Buang; Manga Buang,Dialect of Buang,B.4,cffff00
-maposbuang,Mapos Buang,mapo1242,Mapos Buang,,,-6.86672,146.77399999999997,,,NNG,RambokandHooley2010,false,,Mapos-Buang; Central Buang,,B.4,cffff00
-mumeng,Mumeng,mume1239,Mumeng,,,-6.9481850000000005,146.5645,,,NNG,,false,,,,B.4,dffff00
-dambi,Dambi,damb1246,Dambi,,,-7.01,146.47,,,NNG,,false,,Mumeng (Dambi),,B.4,dffff00
-patep,Patep,pate1247,Patep,,,-6.92,146.64,,,NNG,,false,,Mumeng (Patep); Mumeng-Patep; Mumeng Patep,dialect of Mumeng,B.4,dffff00
-piu,Piu,piuu1237,Piu,,,-6.97,146.46,,,NNG,,false,,,,B.4,cffff00
-vehes,Vehes,vehe1237,Vehes,,,-6.92151,146.895,,,NNG,,false,,,,B.4,cffff00
-yanta,Yanta,yant1237,Yanta,,,-6.81,146.57,,,NNG,,false,,,dialect of Mumeng,B.4,dffff00
-zenag,Zenag,zena1237,Zenag,,,-6.94,146.55,,,NNG,,false,,Mumeng (Zenag); Mumeng Zenag,dialect of Mumeng,B.4,dffff00
-bam,Bam,biem1237,Biem,,,-3.60,144.82,,,NNG,,false,,,,B.2,ce31a1c
-kaiep,Kaiep,kaie1237,Kaiep,,,-3.70524,143.88400000000001,,,NNG,,false,,Kaiep (Terebu); Terebu,= Terebu,B.2,ce31a1c
-kairiru,Kairiru,kair1263,Kairiru,,,-3.34608,143.55800000000002,,,NNG,Wivell1981a,false,,,,B.2,ce31a1c
-kis,Kis,kiss1246,Kis,,,-3.83909,143.96,,,NNG,,false,,,,B.2,ce31a1c
-manam,Manam,mana1295,Manam,,,-4.07921,145.033,,,NNG,Bohm1975,false,,,,B.2,ce31a1c
-medebur,Medebur,mede1237,Medebur,,,-4.49918,145.425,,,NNG,,false,,,,B.2,ce31a1c
-sepa,Sepa,sepa1241,Sepa (Papua New Guinea),,,-4.27,144.97,,,NNG,,false,,,,B.2,ce31a1c
-wogeo,Wogeo,woge1237,Wogeo,,,-3.20238,144.089,,,NNG,,false,,Wogeo (Koil); Wogei,,B.2,ce31a1c
-ali,Ali,alii1241,Ali (Papua New Guinea),,,-3.13,142.47,,,NNG,,false,,,,B.2,se31a1c
-sera,Sera,sera1260,Sera,,,-2.99,141.95,,,NNG,,false,,,,B.2,se31a1c
-sissano,Sissano,siss1243,Sissano,,,-3.0197600000000002,142.04899999999998,,,NNG,,false,,,,B.2,se31a1c
-sissanoarop,Sissano (Arop),arop1242,Arop-Sissano,,,-3.07,142.12,,,NNG,,false,,Sissano-Arop,,B.2,se31a1c
-tumleo,Tumleo,tuml1238,Tumleo,,,-3.14955,142.346,,,NNG,Schultze1911,false,,,,B.2,se31a1c
-ulausuain,Ulau-Suain,ulau1237,Ulau-Suain,,,-3.32876,142.845,,,NNG,,false,,Ulau; Ulau-S,,B.2,se31a1c
-auhelawa,’Auhelawa,auhe1237,'Auhelawa,,,-10.10,151.00,,,PT,,false,,'Auhelawa,,B.5,c1100ff
-bohutu,Bohutu,buhu1237,Buhutu,,,-10.51,150.18,,,PT,,false,,Buhutu,,B.5,c1100ff
-logea,Logea,loge1237,Logeya,,,-10.61,150.73,,,PT,,false,,,,B.5,c1100ff
-oyaoya,Oya’oya,oyao1237,Oya'oya,,,-10.54,150.66,,,PT,,false,,Oyaoya; Oya'oya,,B.5,c1100ff
-saliba,Saliba,sali1295,Saliba,,,-10.6148,150.727,,,PT,,false,,Sariba; Suau (Saliba),"= Saliba, dialect of Suau",B.5,c1100ff
-suau,Suau,suau1242,Suau,,,-10.6606,150.20999999999998,,,PT,,false,,Suau (Kwato); Daui; Kwato Suau; Suau (Daui),,B.5,c1100ff
-tubetube,Tubetube,bwan1241,Bwanabwana,,,-10.6599,151.034,,,PT,,false,,Bwanabwana,bwan1241,B.5,c1100ff
-wagawaga,Wagawaga,waga1268,Wagawaga,,,-10.42,150.38,,,PT,,false,,,,B.5,c1100ff
-suaubonalua,Suau (Bonalua),bona1252,Bonarua,,,-10.6606,150.20999999999998,,,PT,,false,,,,B.5,c1100ff
-anuki,Anuki,anuk1239,Anuki,,,-9.6692,149.82200000000003,,,PT,,false,,,,B.5,ce31a1c
-gumawana,Gumawana,guma1254,Gumawana,,,-9.28497,150.762,,,PT,,false,,Gumasi,= Gumasi,B.5,ce31a1c
-bunama,Bunama,buna1276,Bunama,,,-10.08,151.07,,,PT,Lithgow2007,false,,,,B.5,de31a1c
-dobu,Dobu,dobu1241,Dobu,,,-9.63239,150.82500000000002,,,PT,Dixon1928;Grant1953;LithgowandLithgow2007a,false,,Dobuan,,B.5,de31a1c
-duau,Duau,duau1237,Duau,,,-10.06,151.24,,,PT,,false,,,,B.5,de31a1c
-galea,Galea,gale1257,Galeya,,,-9.54,150.84,,,PT,,false,,Galeya,= Galeya,B.5,de31a1c
-gilagila,Gilagila,sewa1251,Sewa Bay,,,-10.0277,150.95600000000002,,,PT,,false,,,= dialect of Sewa Bay,B.5,de31a1c
-sewabay,Sewa Bay,sewa1251,Sewa Bay,,,-10.0277,150.95600000000002,,,PT,,false,,,,B.5,de31a1c
-bwaidoga,Bwaidoga,bwai1243,Bwaidoga,,,-9.51158,150.297,,,PT,,false,,,,B.5,se31a1c
-diodio,Diodio,diod1237,Diodio,,,-9.39,150.17,,,PT,,false,,,,B.5,se31a1c
-iamalele,Iamalele,iama1237,Iamalele,,,-9.45,150.57,,,PT,BeaumontandBeaumont2007,false,,Yamalele,,B.5,se31a1c
-iduna,Iduna,idun1242,Iduna,,,-9.34361,150.23999999999998,,,PT,Huckettetal1992,false,,,= dialect of Bwaidoga,B.5,se31a1c
-kalauna,Kalauna,kala1387,Kalauna,,,-9.34,150.24,,,PT,,false,,,= subdialect of Iduna,B.5,se31a1c
-kalokalo,Kalokalo,kolu1245,Koluwawa,,,-9.42742,150.46200000000002,,,PT,,false,,Koluwawa,dialect of Bwaidoga,B.5,se31a1c
-molima,Molima,moli1248,Molima,,,-9.57457,150.61399999999998,,,PT,Chowning1958,false,,,,B.5,se31a1c
-kakabai,Kakabai,kaka1267,Kakabai,,,-10.2976,150.02700000000002,,,PT,,false,,Igora,,B.5,te31a1c
-dawawa,Dawawa,dawa1242,Dawawa,,,-10.17,150.00,,,PT,,false,,,,B.5,te31a1c
-are,Are,aree1239,Are,,,-9.67147,149.999,,,PT,,false,,Mukawa,,B.5,fe31a1c
-arifama,Arifama,arif1240,Arifama,,,-9.15565,149.246,,,PT,,false,,,dialect of Arifama-Miniafia,B.5,fe31a1c
-bartlebay,Bartle Bay,weda1241,Wedau,,,-10.1246,150.172,,,PT,Jennings1956,false,,,= Dialect of Wedau,B.5,fe31a1c
-boanaki,Boanaki,ghay1237,Ghayavi,,,-10.01,149.84,,,PT,,false,,Boianaki; Ghayavi,,B.5,fe31a1c
-doga,Doga,doga1238,Doga,,,-9.64,149.84,,,PT,,false,,,,B.5,fe31a1c
-gapapaiwa,Gapapaiwa,gapa1238,Gapapaiwa,,,-9.73317,149.854,,,PT,McguckinandMcguckin1992,false,,Paiwa,= Paiwa,B.5,fe31a1c
-kaninuwa,Kaninuwa,kani1281,Kaninuwa,,,-9.23,150.25,,,PT,,false,,,,B.5,fe31a1c
-maisin,Maisin,mais1250,Maisin,,,-9.50,149.24,,,PT,,false,,,,B.5,fe31a1c
-minaveha,Minaveha,mina1269,Minaveha,,,-9.59922,150.501,,,PT,NenegemoandLovell1995,false,,Kukuya,= Kukuya,B.5,fe31a1c
-miniafia,Miniafia,mini1252,Miniafia,,,-9.03,149.12,,,PT,,false,,,dialect of Arifama-Miniafia,B.5,fe31a1c
-taupota,Taupota,taup1242,Taupota,,,-10.23,150.37,,,PT,,false,,,,B.5,fe31a1c
-tawala,Tawala,tawa1275,Tawala,,,-10.3115,150.64399999999998,,,PT,,false,,,,B.5,fe31a1c
-ubir,Ubir,ubir1237,Ubir,,,-9.59044,149.39600000000002,,,PT,,false,,,,B.5,fe31a1c
-wedau,Wedau,weda1241,Wedau,,,-10.1246,150.172,,,PT,Jennings1956,false,,,,B.5,fe31a1c
-misima,Misima,misi1243,Misima-Paneati,,,-10.6821,152.696,,,PT,Callister2005,false,,,,B.5,c8a33fd
-budibud,Budibud,budi1249,Budibud,,,-9.30,153.69,,,PT,,false,,,,B.5,d8a33fd
-gawa,Gawa,loug1237,Lougaw,,,-8.97,151.98,,,PT,,false,,,dialect of Muyuw,B.5,d8a33fd
-kilivila,Kilivila,kili1267,Kilivila,,,-8.72574,151.072,,,PT,Lawton2021;Senft1986,false,,Kiriwina; Kiriwinan,= Kiriwina,B.5,d8a33fd
-muyuw,Muyuw,muyu1244,Muyuw,,,-9.195,152.731,,,PT,LithgowandLithgow1974;LithgowandLithgow2007b,false,,,,B.5,d8a33fd
-nimoa,Nimoa,nimo1246,Nimoa,,,-11.2297,153.15800000000002,,,PT,,false,,Nimoa (Rifao),,B.5,cff6f00
-sabari,Nimoa (Sabari),saba1264,Sabari,,,-11.23,153.16,,,PT,,false,,,,B.5,cff6f00
-sudest,Sudest,sude1239,Sudest,,,-11.5229,153.48800000000003,,,PT,Anderson2007,false,,Sudest (Varavarae); Pamela,,B.5,cff6f00
-ouma,Ouma,ouma1237,Ouma,,,-10.23,149.10,,,PT,,false,,,,B.5,cffff00
-magori,Magori,mago1248,Magori,,,-10.2321,149.26,,,PT,,false,,,,B.5,cffff00
-yoba,Yoba,yoba1237,Yoba,,,-10.22,149.28,,,PT,,false,,,,B.5,cffff00
-sinaugoro,Sinaugoro,sina1266,Sinaugoro,,,-9.79791,147.86100000000002,,,PT,,false,,Sinagauro,,B.5,dffff00
-balawaia,Balawaia,bala1307,Balawaia,,,-9.94,147.61,,,PT,Tauberschmidt1995;Tauberschmidt2007,false,,Sinaugoro (Balawaia),= dialect of Sinaugoro,B.5,dffff00
-saroa,Saroa,saro1238,Saroa,,,-9.80,147.86,,,PT,,false,,,,B.5,dffff00
-taboro,Taboro,tabo1240,Taboro,,,-9.79791,147.861,,,PT,,false,,Sinaugoro (Taboro),= dialect of Sinaugoro,B.5,dffff00
-hula,Hula,hula1239,Hula,,,-10.10,147.73,,,PT,,false,,Keapara; Keapara Hula,= dialect of Keapara,B.5,dffff00
-kalo,Kalo,kalo1259,Kalo (Keapara),,,-9.99427,147.70499999999998,,,PT,,false,,Keapara (Kalo),= dialect of Keapara,B.5,dffff00
-aroma,Aroma,arom1238,Aroma,,,-10.1342,147.95,,,PT,,false,,,= dialect of Keapara,B.5,dffff00
-maopa,Maopa,maop1237,Maopa,,,-10.1342,147.95,,,PT,,false,,,= dialect of Keapara,B.5,dffff00
-motu,Motu,motu1246,Motu,,,-9.46,147.15,,,PT,ListerTurnerandClark1954a,false,,,,B.5,sffff00
-wmotu,Western Motu,west2526,Western Motu,,,-9.67492,147.424,,,PT,,false,,"W Motu; Motu, W",,B.5,sffff00
-gabadi,Gabadi,abad1241,Abadi,,,-9.03389,146.99200000000002,,,PT,,false,,,,B.5,sffff00
-doura,Doura,tour1243,Toura (Papua New Guinea),,,-9.10,146.99,,,PT,,false,,,,B.5,sffff00
-lala,Lala,lala1268,Lala,,,-8.93195,146.74899999999997,,,PT,,false,,'Ala'ala; Nara; Pokau; ’Ala’ala,"= Nara, 'Ala'ala, Pokau",B.5,sffff00
-kuni,Kuni,kuni1263,Kuni,,,-8.66368,146.874,,,PT,,false,,,,B.5,sffff00
-mekeo,Mekeo,meke1243,Mekeo,,,-8.49,146.67,,,PT,,false,,Mekeo (East); E Mekeo; E. Mekeo,,B.5,sffff00
-roro,Roro,roro1238,Roro,,,-8.82,146.54,,,PT,,false,,,,B.5,sffff00
-wmekeo,West Mekeo,west2528,West Mekeo,,,-8.43,146.54,,,PT,,false,,W Mekeo,,B.5,sffff00
-nmekeo,North Mekeo,nort2850,North Mekeo,,,-8.24,146.59,,,PT,,false,,"N Mekeo; Mekeo, N",,B.5,sffff00
-nwmekeo,Northwest Mekeo,nort2851,Northwest Mekeo,,,-8.24,146.59,,,PT,,false,,NW Mekeo,,B.5,sffff00
+watubela,Watubela,watu1247,Watubela,wah,Papunesia,-4.47,131.64,Austronesian,,CMP,,false,,,,,
+bima,Bima,bima1247,Bima,bhp,Papunesia,-8.57,118.44,Austronesian,,CMP,,false,,,,,
+konjo,Konjo,konj1250,Konjo,,,-5.340,120.116,Austronesian,,CMP,,false,,,,,
+leti,Leti,leti1246,Leti (Indonesia),lti,Papunesia,-8.20,127.67,Austronesian,,CMP,,false,,,,,
+yamdena,Yamdena,yamd1240,Yamdena,jmd,Papunesia,-7.74,131.44,Austronesian,,CMP,,false,,,,,
+fordata,Fordata,ford1242,Fordata,frd,Papunesia,-7.29,131.51,Austronesian,,CMP,,false,,,,,
+ngadha,Ngadha,ngad1261,Ngad'a,nxg,Papunesia,-8.80,120.98,Austronesian,,CMP,,false,,,,,
+boano,Boano,boan1243,Boano (Sulawesi),bzl,Papunesia,0.51152,120.992,Austronesian,,CMP,,false,,,boan1243,,
+nias,Nias,nias1242,Nias,nia,Papunesia,0.90691,97.49610000000001,Austronesian,,WMP,,false,,,nias1242,,
+sichule,Sichule,siku1242,Sikule,skh,Papunesia,2.69113,95.96360000000001,Austronesian,,WMP,,false,,,siku1242,,
+bikol,Bikol,biko1240,Bikol,,,13.46,123.55,Austronesian,,WMP,,false,,,biko1240,,
+hova,Hova,hoav1238,Hoava,hoa,Papunesia,-8.19679,157.595,Austronesian,,WMP,,false,,,,,
+isneg,Isneg,isna1241,Isnag,isd,Papunesia,18.2139,121.16,Austronesian,,WMP,,false,,,isna1241,,
+taliabo,Taliabo,tali1262,Taliabu,tlv,Papunesia,-1.79516,124.869,Austronesian,,CMP,,false,,,tali1262,,
+buginese,Buginese,bugi1244,Buginese,bug,Papunesia,-4.47,119.977,Austronesian,,WMP,,false,,,bugi1244,,
+makassarese,Makassarese,maka1311,Makasar,mak,Papunesia,-5.65551,119.838,Austronesian,,WMP,,false,,Makasarese,maka1311,,
+belau,Belau,pala1344,Palauan,pau,Papunesia,7.34,134.48,Austronesian,,WMP,,false,,,,,
+yami,Yami,yami1254,Yami,tao,Papunesia,22.05,121.54,Austronesian,,WMP,,false,,,,,
+itbayat,Itbayat,ivat1242,Itbayat,ivv,Papunesia,20.77,121.85,Austronesian,,WMP,,false,,,,,
+manobo,Manobo,mano1276,Manobo,,,8.391250209166687,123.79321982466668,Austronesian,,WMP,,false,,,,,
+tiruray,Tiruray,tiru1241,Tiruray,tiy,Papunesia,6.77,124.13,Austronesian,,WMP,,false,,,,,
+aceh,Aceh,achi1257,Acehnese,ace,Papunesia,3.91,96.60,Austronesian,,WMP,,false,,,,,
+oldjavanese,Old Javanese,kawi1241,Kawi,kaw,Papunesia,-7.00,111.00,Austronesian,,WMP,,false,,,,,
+roti,Roti,rote1234,Rote-Meto,,,-10.55,123.31,Austronesian,,CMP,,false,,,Based on citation of ACD forms,,
+bajau,Bajau,indo1317,Indonesian Bajau,bdl,Papunesia,-3.68664,122.253,Austronesian,,WMP,,false,,,,,
+ujir,Ujir (Aru Is.),ujir1237,Ujir,udj,Papunesia,-5.69,134.26,Austronesian,,CMP,,false,,Ujir (Aru),,,
+dobel,Dobel,dobe1238,Dobel,kvo,Papunesia,-6.32531,134.638,Austronesian,,CMP,,false,,,dobe1238,,
+kola,Kola,kola1285,Kola,kvv,Papunesia,-5.48833,134.592,Austronesian,,CMP,,false,,,kola1285,,
+ambelau,Ambelau,ambe1248,Ambelau,amv,Papunesia,-3.86,127.20,Austronesian,,CMP,,false,,,,,
+kei,Kei,keii1239,Kei,kei,Papunesia,-5.64,133.02,Austronesian,,CMP,,false,,,,,
+ambonesemalay,Ambonese Malay,ambo1250,Ambonese Malay,abs,Papunesia,-3.71,128.18,Austronesian,,WMP,,false,,,,,
+tonsea,Tonsea,tons1240,Tonsea,txs,Papunesia,1.51393,125.05199999999999,Austronesian,,WMP,,false,,,tons1240,,
+iban,Iban,iban1264,Iban,iba,Papunesia,2.09041,112.93400000000001,Austronesian,,WMP,,false,,,iban1264,,
+maloh,Maloh,emba1238,Embaloh,emb,Papunesia,1.3156,112.63,Austronesian,,WMP,,false,,,emba1238,,
+sika,Sika,sika1262,Sika,ski,Papunesia,-8.67302,122.38,Austronesian,,WMP,,false,,,sika1262,,
+kankanay,Kankanay,kank1243,Kankanaey,kne,Papunesia,16.8548,120.689,Austronesian,,WMP,,false,,,kank1243,,
+ivatan,Ivatan,ibat1238,Ibatan,ivb,Papunesia,20.77,121.85,Austronesian,,WMP,,false,,,,,
+gaddang,Gaddang,gadd1244,Gaddang,gad,Papunesia,16.5468,121.17699999999999,Austronesian,,WMP,,false,,,gadd1244,,
+sasak,Sasak,sasa1249,Sasak,sas,Papunesia,-8.58349,116.284,Austronesian,,WMP,,false,,,sasa1249,,
+snuaulu,S. Nuaulu,sout2895,South Nuaulu,nxl,Papunesia,-3.23,129.15,Austronesian,,CMP,,false,,,,,
+laiyolo,Laiyolo,laiy1246,Laiyolo,lji,Papunesia,-6.45512,120.483,Austronesian,,WMP,,false,,,laiy1246,,
+ilongot,Ilongot,ilon1239,Ilongot,ilk,Papunesia,16.3785,121.54700000000001,Austronesian,,WMP,,false,,,ilon1239,,
+uma,Uma,umaa1242,Uma,ppk,Papunesia,-1.70416,119.968,Austronesian,,WMP,,false,,,umaa1242,,
+yapese,Yapese,yape1248,Yapese,yap,Papunesia,9.55811,138.125,Austronesian,,Yap,Jensen1977,false,,,,B.13,cffffff
+emira,Emira,emir1237,Emira,,Papunesia,-1.64,149.98,Austronesian,,Adm,,false,,,,B.1,c1100ff
+mussau,Mussau,muss1248,Mussau,,Papunesia,-1.44,149.62,Austronesian,,Adm,Blust1984,false,,,,B.1,c1100ff
+tenis,Tenis,teni1244,Tenis,tns,Papunesia,-1.65,150.67,Austronesian,,Adm,LithgowandClaassen1968,false,,Tench,,B.1,c1100ff
+aua,Aua,auaa1241,Aua,,Papunesia,-1.46,143.06,Austronesian,,Adm,,false,,Awa,,B.1,c1bb107
+kaniet,Kaniet,kani1282,Kaniet,ktk,Papunesia,-1.52,145.09,Austronesian,,Adm,Smythe1975,false,,,,B.1,c1bb107
+seimat,Seimat,seim1238,Seimat,ssg,Papunesia,-1.2666667,144.25,Austronesian,,Adm,,false,,Ninigo,= Ninigo,B.1,c1bb107
+wuvulu,Wuvulu,wuvu1240,Wuvulu,,Papunesia,-1.74,142.85,Austronesian,,Adm,Hafford2014,false,,,,B.1,c1bb107
+bipi,Bipi,bipi1237,Bipi,biq,Papunesia,-2.11115,146.39800000000002,Austronesian,,Adm,,false,,,,B.1,ce31a1c
+ere,Ere,eree1241,Ere,twp,Papunesia,-2.15569,147.083,Austronesian,,Adm,,false,,,,B.1,ce31a1c
+kele,Kele,kele1258,Kele (Papua New Guinea),sbc,Papunesia,-2.09,147.06,Austronesian,,Adm,,false,,,,B.1,ce31a1c
+kurti,Kurti,kurt1250,Kurti,ktm,Papunesia,-2.01,147.04,Austronesian,,Adm,,false,,,,B.1,ce31a1c
+leipon,Leipon,leip1237,Leipon,lek,Papunesia,-1.97,147.23,Austronesian,,Adm,,false,,Pitilu,= Pitilu,B.1,ce31a1c
+lele,Lele,lele1270,Lele (Papua New Guinea),lle,Papunesia,-2.04783,147.207,Austronesian,,Adm,,false,,,,B.1,ce31a1c
+loniu,Loniu,loni1238,Loniu,los,Papunesia,-2.06124,147.35000000000002,Austronesian,,Adm,Hamel1994,false,,,,B.1,ce31a1c
+nali,Nali,nali1245,Nali,nss,Papunesia,-2.14273,147.202,Austronesian,,Adm,,false,,,,B.1,ce31a1c
+papitalai,Papitalai,papi1254,Papitalai,pat,Papunesia,-2.06,147.42,Austronesian,,Adm,,false,,Koro,,B.1,ce31a1c
+titan,Titan,tita1241,Titan,ttv,Papunesia,-2.18168,146.88800000000003,Austronesian,,Adm,Bowern2011,false,,Sivisa Titan,,B.1,ce31a1c
+drehet,Drehet,kheh1237,Khehek,tlx,Papunesia,-2.07,146.75,Austronesian,,Adm,,false,,Khehek; Levei-Tulu; Ndrehet; Levei; Levei-Drehet,"= Ndrehet, Khehek, Levei-Tulu",B.1,se31a1c
+likum,Likum,liku1243,Likum,lib,Papunesia,-2.16157,146.695,Austronesian,,Adm,,false,,,,B.1,se31a1c
+mondropolon,Mondropolon,mond1265,Mondropolon,npn,Papunesia,-2.01359,146.931,Austronesian,,Adm,,false,,,,B.1,se31a1c
+nyindrou,Nyindrou,nyin1250,Nyindrou,lid,Papunesia,-2.1143,146.627,Austronesian,,Adm,,false,,Lindrou; Nyindou,,B.1,se31a1c
+bohuai,Bohuai,bohu1238,Bohuai,,Papunesia,-2.14,146.93,Austronesian,,Adm,,false,,,,B.1,se31a1c
+andra,Andra,andr1248,Andra-Hus,anx,Papunesia,-1.94,147.00,Austronesian,,Adm,,false,,,,B.1,de31a1c
+hus,Hus,andr1248,Andra-Hus,anx,Papunesia,-1.94,147.10,Austronesian,,Adm,,false,,,,B.1,de31a1c
+ponam,Ponam,pona1250,Ponam,ncc,Papunesia,-1.91705,146.88700000000003,Austronesian,,Adm,,false,,,,B.1,de31a1c
+soriharengan,Sori-Harengan,sori1242,Sori-Harengan,sbh,Papunesia,-1.98,146.64,Austronesian,,Adm,,false,,Sori,,B.1,de31a1c
+baluan,Baluan,balu1257,Paluai,blq,Papunesia,-2.56,147.29,Austronesian,,Adm,,false,,,,B.1,cffff00
+lenkau,Lenkau,lenk1247,Lenkau,ler,Papunesia,-2.33,147.74,Austronesian,,Adm,,false,,,,B.1,cffff00
+lou,Lou,louu1245,Lou,loj,Papunesia,-2.38659,147.346,Austronesian,,Adm,Blust1998b,false,,,,B.1,cffff00
+nauna,Nauna,naun1237,Nauna,ncn,Papunesia,-2.21213,148.201,Austronesian,,Adm,,false,,,,B.1,cffff00
+pak,Pak,pakk1242,Pak,,Papunesia,-2.08,147.63,Austronesian,,Adm,,false,,,Dialect of Pak-Tong,B.1,cffff00
+penchal,Penchal,penc1239,Penchal,pek,Papunesia,-2.29891,147.81,Austronesian,,Adm,,false,,,,B.1,cffff00
+anus,Anus,anus1237,Korur,auq,Papunesia,-2.26,139.50,Austronesian,,SJ,Grace1971,false,,,,B.2,c19d300
+bongo,Bongo,bong1287,Bonggo,bpg,Papunesia,-2.28,139.58,Austronesian,,SJ,,false,,Bonggo,,B.2,c19d300
+sobei,Sobei,sobe1238,Sobei,sob,Papunesia,-1.86998,138.75,Austronesian,,SJ,Ajamisebaetal1987,false,,,,B.2,c19d300
+tarpia,Tarpia,tarp1240,Tarpia,tpf,Papunesia,-2.322279,140.115497,Austronesian,,SJ,,false,,,,B.2,c19d300
+yamna,Yamna,yamn1237,Yamna,ymn,Papunesia,-2.09,139.21,Austronesian,,SJ,,false,,,,B.2,c19d300
+kayupulau,Kayupulau,kayu1243,Kayupulau,kzu,Papunesia,-2.54,140.63,Austronesian,,SJ,Grace1971,false,,,,B.2,cffff00
+ormu,Ormu,ormu1248,Ormu,orz,Papunesia,-2.51, 140.60,Austronesian,,SJ,,false,,,,B.2,cffff00
+tobati,Tobati,toba1266,Tobati,tti,Papunesia,-2.56,140.71,Austronesian,,SJ,,false,,Yotafa,,B.2,cffff00
+amara,Amara,amar1272,Amara,aie,Papunesia,-5.50,148.75,Austronesian,,NNG,Thurston1996a,false,,,,B.3,cffffff
+mangap,Mangap,mbul1263,Mbula,mna,Papunesia,-5.66965,148.041,Austronesian,,NNG,BugenhagenandBugenhagen2007,false,,Kaimanga; Mangap-Mbula; Mbula; Mangap-M.; Mangap Mb.; Mangap Mbula; Mangap Mb; Mangap (Marile),"= Mangap-Mbula, Kaimanga",B.3,cffffff
+sio,Sio,sioo1240,Sio,xsi,Papunesia,-5.96037,147.353,Austronesian,,NNG,,false,,,,B.3,cffffff
+tami,Tami,tami1290,Tami,tmy,Papunesia,-6.77,147.92,Austronesian,,NNG,Bamler1900,false,,,,B.4,cffffff
+barim,Barim,karn1252,Karnai,bbv,Papunesia,-5.74133,147.917,Austronesian,,NNG,,false,,Karnai,,B.3,c00fffb
+lukep,Lukep,arop1243,Arop-Lokep,apr,Papunesia,-5.31671,147.10299999999998,Austronesian,,NNG,,false,,Arop-Lokep; Arop-Lukep; Lukep Pono; Lukep-Pono; Lukep (Pono),= Arop-Lokep,B.3,c00fffb
+malasanga,Malasanga,mala1487,Malasanga,mqz,Papunesia,-5.9401,147.05800000000002,Austronesian,,NNG,,false,,,,B.3,c00fffb
+singorakai,Singorakai,sing1268,Singorokai,,Papunesia,-5.9401,147.058,Austronesian,,NNG,,false,,,dialect of Malasanga,B.3,c00fffb
+kilenge,Kilenge,kile1242,Kilenge,,Papunesia,-5.44,148.37,Austronesian,,NNG,,false,,,,B.3,c1100ff
+maleu,Maleu,male1290,Maleu,,Papunesia,-5.69,148.34,Austronesian,,NNG,,false,,,,B.3,c1100ff
+gitua,Gitua,gitu1237,Gitua,ggt,Papunesia,-6.0151,147.485,Austronesian,,NNG,Lincoln1977,false,,,,B.3,ced62ff
+malai,Malai,mala1488,Malai,,Papunesia,-5.89,147.95,Austronesian,,NNG,,false,,,dialect of Mutu,B.3,ced62ff
+mandok,Mandok,mutu1242,Mutu,tuc,Papunesia,-5.79, 148.01,Austronesian,,NNG,BugenhagenandBugenhagen2007b,false,,,"dialect of Mutu, see https://openresearch-repository.anu.edu.au/server/api/core/bitstreams/7ec4a089-add5-4b5d-be30-e8ca1a7b8fa9/content",B.3,ced62ff
+mutu,Mutu,mutu1242,Mutu,tuc,Papunesia,-5.79405,148.01399999999998,Austronesian,,NNG,BugenhagenandBugenhagen2007b,false,,,,B.3,ced62ff
+tuam,Tuam,tuam1243,Tuam,,,-6.02,147.49,Austronesian,,NNG,,false,,Tuam-Mutu,dialect of Mutu,B.3,ced62ff
+bariai,Bariai,bari1286,Bariai,bch,Papunesia,-5.5087,148.666,Austronesian,,NNG,Gallagher2008,false,,Kabana,,B.3,ded62ff
+kove,Kove,kove1237,Kove,kvc,Papunesia,-5.58623,149.63,Austronesian,,NNG,Chowning2009,false,,,,B.3,ded62ff
+lusi,Lusi,lusi1240,Lusi,khl,Papunesia,-5.55,149.15,Austronesian,,NNG,,false,,,,B.3,ded62ff
+malalamai,Malalamai,mala1489,Malalamai,mmt,Papunesia,-5.77495,146.642,Austronesian,,NNG,,false,,,,B.3,ded62ff
+mato,Mato,mato1252,Mato,met,Papunesia,-5.92,146.86,Austronesian,,NNG,McHenryetal1996,false,,Nenaya; Nengaya,"= Nenaya, Nengaya",B.3,sffff00
+roinji,Roinji,ronj1237,Ronji,roe,Papunesia,-5.80782,146.731,Austronesian,,NNG,Lincoln1978;McHenryetal1996,false,,Ronji; Rondi,,B.3,sffff00
+bing,Bing,awad1244,Awad Bing,bcu,Papunesia,-5.60,146.35,Austronesian,,NNG,SimonsandSimons1977,false,,Awad Bing; Biliau,,B.3,cffff00
+swit,Swit,suit1237,Suit,,Papunesia,-5.60,146.35,Austronesian,,NNG,,false,,,,B.3,cffff00
+dami,Dami,mari1428,Marik,dad,Papunesia,-5.349,145.59,Austronesian,,NNG,,false,,Ham; Marik,,B.3,cffff00
+mindiri,Mindiri,mind1255,Mindiri,mpn,Papunesia,-5.5,146.15,Austronesian,,NNG,Lincoln1978,false,,,,B.3,cffff00
+wab,Wab,wabb1237,Wab,wab,Papunesia,-5.61216,146.461,Austronesian,,NNG,Lincoln1978,false,,,,B.3,cffff00
+bilibil,Bilibil,bilb1241,Bilibil,brz,Papunesia,-5.26505,145.76399999999998,Austronesian,,NNG,,false,,Bilbil,= Bilbil,B.3,dffff00
+gedaged,Gedaged,geda1237,Gedaged,gdd,Papunesia,-5.18175,145.781,Austronesian,,NNG,Mager1952,false,,Graged,,B.3,dffff00
+matukar,Matukar,matu1261,Matukar,mjk,Papunesia,-4.91,145.78,Austronesian,,NNG,Barth2012,false,,Matukar Panau,,B.3,dffff00
+takia,Takia,taki1248,Takia,tbc,Papunesia,-4.69057,145.975,Austronesian,,NNG,,false,,,,B.3,dffff00
+megiar,Megiar,megi1245,Megiar,,Papunesia,-4.81,145.76,Austronesian,,NNG,,false,,,dialect of Takia,B.3,dffff00
+riwo,Riwo,geda1237,Gedaged,gdd,Papunesia,-5.18175,145.781,Austronesian,,NNG,Mager1952,false,,Ziwo; Zivo,= dialect of Gedaged,B.3,dffff00
+aria,Aria,tour1244,Tourai,,Papunesia,-5.63,149.26,Austronesian,,NNG,,false,,Tourai,dialect of Mouk-Aria,B.3,c8a33fd
+lamogai,Lamogai,lamo1244,Lamogai,lmg,Papunesia,-5.87,149.32,Austronesian,,NNG,Thurston1996b,false,,,,B.3,c8a33fd
+mouk,Mouk,mouk1240,Mouk,,Papunesia,-5.71,149.16,Austronesian,,NNG,Thurston1996b,false,,Mok,dialect of Mouk-Aria,B.3,c8a33fd
+rauto,Rauto,puli1237,Pulie-Rauto,,Papunesia,-6.06,149.34,Austronesian,,NNG,,false,,Lamogai-Rauto,dialect of Lamogai,B.3,c8a33fd
+akolet,Akolet,akol1237,Akolet,akt,Papunesia,-6.22711,150.18200000000002,Austronesian,,NNG,,false,,,,B.3,c19d300
+apalik,Apalik,apal1255,Apalik,apo,Papunesia,-6.29,149.96,Austronesian,,NNG,,false,,Ambul,,B.3,c19d300
+arove,Arove,solo1258,Solong,aaw,Papunesia,-5.86,148.82,Austronesian,,NNG,,false,,,,B.3,c19d300
+arawe,Arawe,araw1283,Arawe,,,-6.29,149.96,Austronesian,,NNG,,false,,,,B.3,c19d300
+atui,Atui,geli1237,Gelimi,,Papunesia,-6.19889,150.506,Austronesian,,NNG,,false,,Amio; Gelimi,dialect of Atui-Lesing,B.3,c19d300
+avau,Avau,avau1237,Avau,avb,Papunesia,-6.24,150.43,Austronesian,,NNG,,false,,,,B.3,c19d300
+bebeli,Bebeli,bebe1252,Bebeli,bek,Papunesia,-5.63282,150.323,Austronesian,,NNG,,false,,,,B.3,c19d300
+mangseng,Mangseng,mang1403,Mangseng,mbh,Papunesia,-5.89752,150.68,Austronesian,,NNG,,false,,,,B.3,c19d300
+pasismanua,Pasismanua,pasi1254,Pasismanua,,,-6.021,149.874,Austronesian,,NNG,,false,,,,B.3,ce31a1c
+kaulong,Kaulong,kaul1240,Kaulong,pss,Papunesia,-6.08,149.70,Austronesian,,NNG,,false,,,,B.3,ce31a1c
+psohoh,Psohoh,apso1237,Apsokok,,Papunesia,-6.20,150.25,Austronesian,,NNG,,false,,Apsokok,dialect of Aighon,B.3,ce31a1c
+sengseng,Sengseng,seng1281,Sengseng,ssz,Papunesia,-6.16474,149.784,Austronesian,,NNG,Chowning1996,false,,,,B.3,ce31a1c
+kakuna,Kakuna,mamu1254,Mamusi,kdf,Papunesia,-5.91,151.04,Austronesian,,NNG,,false,,Mamusi (Kakuna),dialect of Mamusi,B.3,cff6f00
+mamusi,Mamusi,mamu1254,Mamusi,kdf,Papunesia,-5.85,151.03,Austronesian,,NNG,,false,,,,B.3,cff6f00
+longeinga,Longeinga,bush1249,Bush Mengen,,Papunesia,-5.25,151.40,Austronesian,,NNG,,false,,,= Bush Mengen,B.3,cff6f00
+mengen,Mengen,meng1267,Mengen,mee,Papunesia,-5.47,151.37,Austronesian,,NNG,,false,,Maeng; Maenge; Mengen (Poeng); Mengen (Maenge); Poeng,,B.3,cff6f00
+uvol,Uvol,lote1237,Lote,uvl,Papunesia,-5.954,150.911,Austronesian,,NNG,,false,,,,B.3,cff6f00
+numbami,Numbami,numb1247,Numbami,sij,Papunesia,-7.52806,147.298,Austronesian,,NNG,,false,,,,B.4,c626262
+yabem,Yabem,yabe1254,Yabem,jae,Papunesia,-6.67052,147.81,Austronesian,,NNG,,false,,Jabêm,,B.4,c00fffb
+kela,Kela,kela1255,Kela (Papua New Guinea),kcl,Papunesia,-7.47,147.17,Austronesian,,NNG,,false,,,,B.4,c00fffb
+bukawa,Bukawa,buga1250,Bugawac,buk,Papunesia,-6.68,147.32,Austronesian,,NNG,Eckermann2007,false,,,,B.4,c00fffb
+aribwatsa,Aribwatsa,arib1241,Aribwatsa,laz,Papunesia,-6.72,146.99,Austronesian,,NNG,,false,,,,B.4,de31a1c
+duwet,Duwet,duwe1237,Duwet,gve,Papunesia,-6.46,146.84,Austronesian,,NNG,,false,,,,B.4,de31a1c
+labu,Labu,labu1248,Labu,lbu,Papunesia,-6.75,146.903,Austronesian,,NNG,Siegel1984,false,,,,B.4,de31a1c
+musom,Musom,muso1238,Musom,msu,Papunesia,-6.54,146.93,Austronesian,,NNG,,false,,,,B.4,de31a1c
+sirak,Sirak,nafi1237,Nafi,srf,Papunesia,-6.43,146.81,Austronesian,,NNG,,false,,Nafi,,B.4,de31a1c
+wampar,Wampar,wamp1247,Wampar,lbq,Papunesia,-6.58,146.60,Austronesian,,NNG,FischerandBeer2017,false,,,,B.4,de31a1c
+yalu,Yalu,arib1240,Aribwaung,ylu,Papunesia,-6.65,146.92,Austronesian,,NNG,,false,,Aribwaungg,,B.4,de31a1c
+dangal,Dangal,dang1263,Dangal,,Papunesia,-6.93,146.38,Austronesian,,NNG,,false,,Danggal,dialect of S Watut,B.4,se31a1c
+middlewatut,Middle Watut,midd1327,Middle Watut,mpl,Papunesia,-6.88,146.40,Austronesian,,NNG,,false,,"Watut, Middle; Bubwaf; Silisili",Dialect of Watut,B.4,se31a1c
+northwatut,North Watut,nort2857,North Watut,una,Papunesia,-6.64,146.22,Austronesian,,NNG,,false,,Unank; Onank,,B.4,se31a1c
+southwatut,South Watut,sout2877,South Watut,mcy,Papunesia,-7.04,146.41,Austronesian,,NNG,,false,,S Watut; Maralango,,B.4,se31a1c
+adzera,Adzera,adze1240,Adzera,adz,Papunesia,-6.39394,146.29399999999998,Austronesian,,NNG,,false,,,,B.4,ce31a1c
+mari,Mari,mari1429,Mari (Madang Province),hob,Papunesia,-5.97,145.83,Austronesian,,NNG,,false,,,,B.4,ce31a1c
+sirasira,Sirasira,sara1323,Sarasira,zsa,Papunesia,-6.32,146.48,Austronesian,,NNG,,false,,Sarasira,,B.4,ce31a1c
+sukurum,Sukurum,suku1264,Sukurum,zsu,Papunesia,-6.28,146.34,Austronesian,,NNG,,false,,,,B.4,ce31a1c
+wampur,Wampur,wamp1248,Wampur,waz,Papunesia,-6.34,146.13,Austronesian,,NNG,,false,,,,B.4,ce31a1c
+hote,Hote,hote1245,Hote,hot,Papunesia,-7.07708,146.869,Austronesian,,NNG,,false,,,,B.4,sffff00
+misim,Misim,misi1244,Misim,,Papunesia,-7.07708,146.869,Austronesian,,NNG,,false,,Hote (Misim),dialect of Hote,B.4,sffff00
+kaiwa,Kaiwa,iwal1237,Iwal,kbm,Papunesia,-7.20938,146.983,Austronesian,,NNG,,false,,Iwal,,B.4,sffff00
+buang,Buang,mapo1247,Mapos-Mangga-Wagau,,,-6.932815,146.7295,Austronesian,,NNG,,false,,,,B.4,cffff00
+kapin,Kapin,kapi1250,Kapin,tbx,Papunesia,-7.06,146.53,Austronesian,,NNG,,false,,,,B.4,cffff00
+kumaru,Kumaru,kuma1278,Kumalu,ksl,Papunesia,-7.11,146.57,Austronesian,,NNG,,false,,Kumaru Mumeng; Mumeng (Kumaru); Mumeng K,dialect of Mumeng,B.4,dffff00
+mangga,Mangga,mang1404,Mangga Buang,mmo,Papunesia,-7.00,146.69,Austronesian,,NNG,,false,,Mangga Buang; Manga Buang,Dialect of Buang,B.4,cffff00
+maposbuang,Mapos Buang,mapo1242,Mapos Buang,bzh,Papunesia,-6.86672,146.77399999999997,Austronesian,,NNG,RambokandHooley2010,false,,Mapos-Buang; Central Buang,,B.4,cffff00
+mumeng,Mumeng,mume1239,Mumeng,,,-6.9481850000000005,146.5645,Austronesian,,NNG,,false,,,,B.4,dffff00
+dambi,Dambi,damb1246,Dambi,dac,Papunesia,-7.01,146.47,Austronesian,,NNG,,false,,Mumeng (Dambi),,B.4,dffff00
+patep,Patep,pate1247,Patep,ptp,Papunesia,-6.92,146.64,Austronesian,,NNG,,false,,Mumeng (Patep); Mumeng-Patep; Mumeng Patep,dialect of Mumeng,B.4,dffff00
+piu,Piu,piuu1237,Piu,pix,Papunesia,-6.97,146.46,Austronesian,,NNG,,false,,,,B.4,cffff00
+vehes,Vehes,vehe1237,Vehes,val,Papunesia,-6.92151,146.895,Austronesian,,NNG,,false,,,,B.4,cffff00
+yanta,Yanta,yant1237,Yanta,,Papunesia,-6.81,146.57,Austronesian,,NNG,,false,,,dialect of Mumeng,B.4,dffff00
+zenag,Zenag,zena1237,Zenag,zeg,Papunesia,-6.94,146.55,Austronesian,,NNG,,false,,Mumeng (Zenag); Mumeng Zenag,dialect of Mumeng,B.4,dffff00
+bam,Bam,biem1237,Biem,bmc,Papunesia,-3.60,144.82,Austronesian,,NNG,,false,,,,B.2,ce31a1c
+kaiep,Kaiep,kaie1237,Kaiep,kbw,Papunesia,-3.70524,143.88400000000001,Austronesian,,NNG,,false,,Kaiep (Terebu); Terebu,= Terebu,B.2,ce31a1c
+kairiru,Kairiru,kair1263,Kairiru,kxa,Papunesia,-3.34608,143.55800000000002,Austronesian,,NNG,Wivell1981a,false,,,,B.2,ce31a1c
+kis,Kis,kiss1246,Kis,kis,Papunesia,-3.83909,143.96,Austronesian,,NNG,,false,,,,B.2,ce31a1c
+manam,Manam,mana1295,Manam,mva,Papunesia,-4.07921,145.033,Austronesian,,NNG,Bohm1975,false,,,,B.2,ce31a1c
+medebur,Medebur,mede1237,Medebur,mjm,Papunesia,-4.49918,145.425,Austronesian,,NNG,,false,,,,B.2,ce31a1c
+sepa,Sepa,sepa1241,Sepa (Papua New Guinea),spe,Papunesia,-4.27,144.97,Austronesian,,NNG,,false,,,,B.2,ce31a1c
+wogeo,Wogeo,woge1237,Wogeo,woc,Papunesia,-3.20238,144.089,Austronesian,,NNG,,false,,Wogeo (Koil); Wogei,,B.2,ce31a1c
+ali,Ali,alii1241,Ali (Papua New Guinea),,Papunesia,-3.13,142.47,Austronesian,,NNG,,false,,,,B.2,se31a1c
+sera,Sera,sera1260,Sera,sry,Papunesia,-2.99,141.95,Austronesian,,NNG,,false,,,,B.2,se31a1c
+sissano,Sissano,siss1243,Sissano,sso,Papunesia,-3.0197600000000002,142.04899999999998,Austronesian,,NNG,,false,,,,B.2,se31a1c
+sissanoarop,Sissano (Arop),arop1242,Arop-Sissano,aps,Papunesia,-3.07,142.12,Austronesian,,NNG,,false,,Sissano-Arop,,B.2,se31a1c
+tumleo,Tumleo,tuml1238,Tumleo,tmq,Papunesia,-3.14955,142.346,Austronesian,,NNG,Schultze1911,false,,,,B.2,se31a1c
+ulausuain,Ulau-Suain,ulau1237,Ulau-Suain,svb,Papunesia,-3.32876,142.845,Austronesian,,NNG,,false,,Ulau; Ulau-S,,B.2,se31a1c
+auhelawa,’Auhelawa,auhe1237,'Auhelawa,kud,Papunesia,-10.10,151.00,Austronesian,,PT,,false,,'Auhelawa,,B.5,c1100ff
+bohutu,Bohutu,buhu1237,Buhutu,bxh,Papunesia,-10.51,150.18,Austronesian,,PT,,false,,Buhutu,,B.5,c1100ff
+logea,Logea,loge1237,Logeya,,Papunesia,-10.61,150.73,Austronesian,,PT,,false,,,,B.5,c1100ff
+oyaoya,Oya’oya,oyao1237,Oya'oya,oyy,Papunesia,-10.54,150.66,Austronesian,,PT,,false,,Oyaoya; Oya'oya,,B.5,c1100ff
+saliba,Saliba,sali1295,Saliba,sbe,Papunesia,-10.6148,150.727,Austronesian,,PT,,false,,Sariba; Suau (Saliba),"= Saliba, dialect of Suau",B.5,c1100ff
+suau,Suau,suau1242,Suau,swp,Papunesia,-10.6606,150.20999999999998,Austronesian,,PT,,false,,Suau (Kwato); Daui; Kwato Suau; Suau (Daui),,B.5,c1100ff
+tubetube,Tubetube,bwan1241,Bwanabwana,tte,Papunesia,-10.6599,151.034,Austronesian,,PT,,false,,Bwanabwana,bwan1241,B.5,c1100ff
+wagawaga,Wagawaga,waga1268,Wagawaga,wgb,Papunesia,-10.42,150.38,Austronesian,,PT,,false,,,,B.5,c1100ff
+suaubonalua,Suau (Bonalua),bona1252,Bonarua,,Papunesia,-10.6606,150.20999999999998,Austronesian,,PT,,false,,,,B.5,c1100ff
+anuki,Anuki,anuk1239,Anuki,aui,Papunesia,-9.6692,149.82200000000003,Austronesian,,PT,,false,,,,B.5,ce31a1c
+gumawana,Gumawana,guma1254,Gumawana,gvs,Papunesia,-9.28497,150.762,Austronesian,,PT,,false,,Gumasi,= Gumasi,B.5,ce31a1c
+bunama,Bunama,buna1276,Bunama,bdd,Papunesia,-10.08,151.07,Austronesian,,PT,Lithgow2007,false,,,,B.5,de31a1c
+dobu,Dobu,dobu1241,Dobu,dob,Papunesia,-9.63239,150.82500000000002,Austronesian,,PT,Dixon1928;Grant1953;LithgowandLithgow2007a,false,,Dobuan,,B.5,de31a1c
+duau,Duau,duau1237,Duau,dva,Papunesia,-10.06,151.24,Austronesian,,PT,,false,,,,B.5,de31a1c
+galea,Galea,gale1257,Galeya,gar,Papunesia,-9.54,150.84,Austronesian,,PT,,false,,Galeya,= Galeya,B.5,de31a1c
+gilagila,Gilagila,sewa1251,Sewa Bay,sew,Papunesia,-10.0277,150.95600000000002,Austronesian,,PT,,false,,,= dialect of Sewa Bay,B.5,de31a1c
+sewabay,Sewa Bay,sewa1251,Sewa Bay,sew,Papunesia,-10.0277,150.95600000000002,Austronesian,,PT,,false,,,,B.5,de31a1c
+bwaidoga,Bwaidoga,bwai1243,Bwaidoga,,Papunesia,-9.51158,150.297,Austronesian,,PT,,false,,,,B.5,se31a1c
+diodio,Diodio,diod1237,Diodio,ddi,Papunesia,-9.39,150.17,Austronesian,,PT,,false,,,,B.5,se31a1c
+iamalele,Iamalele,iama1237,Iamalele,yml,Papunesia,-9.45,150.57,Austronesian,,PT,BeaumontandBeaumont2007,false,,Yamalele,,B.5,se31a1c
+iduna,Iduna,idun1242,Iduna,viv,Papunesia,-9.34361,150.23999999999998,Austronesian,,PT,Huckettetal1992,false,,,= dialect of Bwaidoga,B.5,se31a1c
+kalauna,Kalauna,kala1387,Kalauna,,Papunesia,-9.34,150.24,Austronesian,,PT,,false,,,= subdialect of Iduna,B.5,se31a1c
+kalokalo,Kalokalo,kolu1245,Koluwawa,klx,Papunesia,-9.42742,150.46200000000002,Austronesian,,PT,,false,,Koluwawa,dialect of Bwaidoga,B.5,se31a1c
+molima,Molima,moli1248,Molima,mox,Papunesia,-9.57457,150.61399999999998,Austronesian,,PT,Chowning1958,false,,,,B.5,se31a1c
+kakabai,Kakabai,kaka1267,Kakabai,kqf,Papunesia,-10.2976,150.02700000000002,Austronesian,,PT,,false,,Igora,,B.5,te31a1c
+dawawa,Dawawa,dawa1242,Dawawa,dww,Papunesia,-10.17,150.00,Austronesian,,PT,,false,,,,B.5,te31a1c
+are,Are,aree1239,Are,mwc,Papunesia,-9.67147,149.999,Austronesian,,PT,,false,,Mukawa,,B.5,fe31a1c
+arifama,Arifama,arif1240,Arifama,,Papunesia,-9.15565,149.246,Austronesian,,PT,,false,,,dialect of Arifama-Miniafia,B.5,fe31a1c
+bartlebay,Bartle Bay,weda1241,Wedau,wed,Papunesia,-10.1246,150.172,Austronesian,,PT,Jennings1956,false,,,= Dialect of Wedau,B.5,fe31a1c
+boanaki,Boanaki,ghay1237,Ghayavi,bmk,Papunesia,-10.01,149.84,Austronesian,,PT,,false,,Boianaki; Ghayavi,,B.5,fe31a1c
+doga,Doga,doga1238,Doga,dgg,Papunesia,-9.64,149.84,Austronesian,,PT,,false,,,,B.5,fe31a1c
+gapapaiwa,Gapapaiwa,gapa1238,Gapapaiwa,pwg,Papunesia,-9.73317,149.854,Austronesian,,PT,McguckinandMcguckin1992,false,,Paiwa,= Paiwa,B.5,fe31a1c
+kaninuwa,Kaninuwa,kani1281,Kaninuwa,wat,Papunesia,-9.23,150.25,Austronesian,,PT,,false,,,,B.5,fe31a1c
+maisin,Maisin,mais1250,Maisin,mbq,Papunesia,-9.50,149.24,Austronesian,,PT,,false,,,,B.5,fe31a1c
+minaveha,Minaveha,mina1269,Minaveha,mvn,Papunesia,-9.59922,150.501,Austronesian,,PT,NenegemoandLovell1995,false,,Kukuya,= Kukuya,B.5,fe31a1c
+miniafia,Miniafia,mini1252,Miniafia,,Papunesia,-9.03,149.12,Austronesian,,PT,,false,,,dialect of Arifama-Miniafia,B.5,fe31a1c
+taupota,Taupota,taup1242,Taupota,tpa,Papunesia,-10.23,150.37,Austronesian,,PT,,false,,,,B.5,fe31a1c
+tawala,Tawala,tawa1275,Tawala,tbo,Papunesia,-10.3115,150.64399999999998,Austronesian,,PT,,false,,,,B.5,fe31a1c
+ubir,Ubir,ubir1237,Ubir,ubr,Papunesia,-9.59044,149.39600000000002,Austronesian,,PT,,false,,,,B.5,fe31a1c
+wedau,Wedau,weda1241,Wedau,wed,Papunesia,-10.1246,150.172,Austronesian,,PT,Jennings1956,false,,,,B.5,fe31a1c
+misima,Misima,misi1243,Misima-Paneati,mpx,Papunesia,-10.6821,152.696,Austronesian,,PT,Callister2005,false,,,,B.5,c8a33fd
+budibud,Budibud,budi1249,Budibud,btp,Papunesia,-9.30,153.69,Austronesian,,PT,,false,,,,B.5,d8a33fd
+gawa,Gawa,loug1237,Lougaw,,Papunesia,-8.97,151.98,Austronesian,,PT,,false,,,dialect of Muyuw,B.5,d8a33fd
+kilivila,Kilivila,kili1267,Kilivila,kij,Papunesia,-8.72574,151.072,Austronesian,,PT,Lawton2021;Senft1986,false,,Kiriwina; Kiriwinan,= Kiriwina,B.5,d8a33fd
+muyuw,Muyuw,muyu1244,Muyuw,myw,Papunesia,-9.195,152.731,Austronesian,,PT,LithgowandLithgow1974;LithgowandLithgow2007b,false,,,,B.5,d8a33fd
+nimoa,Nimoa,nimo1246,Nimoa,nmw,Papunesia,-11.2297,153.15800000000002,Austronesian,,PT,,false,,Nimoa (Rifao),,B.5,cff6f00
+sabari,Nimoa (Sabari),saba1264,Sabari,,Papunesia,-11.23,153.16,Austronesian,,PT,,false,,,,B.5,cff6f00
+sudest,Sudest,sude1239,Sudest,tgo,Papunesia,-11.5229,153.48800000000003,Austronesian,,PT,Anderson2007,false,,Sudest (Varavarae); Pamela,,B.5,cff6f00
+ouma,Ouma,ouma1237,Ouma,oum,Papunesia,-10.23,149.10,Austronesian,,PT,,false,,,,B.5,cffff00
+magori,Magori,mago1248,Magori,zgr,Papunesia,-10.2321,149.26,Austronesian,,PT,,false,,,,B.5,cffff00
+yoba,Yoba,yoba1237,Yoba,yob,Papunesia,-10.22,149.28,Austronesian,,PT,,false,,,,B.5,cffff00
+sinaugoro,Sinaugoro,sina1266,Sinaugoro,snc,Papunesia,-9.79791,147.86100000000002,Austronesian,,PT,,false,,Sinagauro,,B.5,dffff00
+balawaia,Balawaia,bala1307,Balawaia,,Papunesia,-9.94,147.61,Austronesian,,PT,Tauberschmidt1995;Tauberschmidt2007,false,,Sinaugoro (Balawaia),= dialect of Sinaugoro,B.5,dffff00
+saroa,Saroa,saro1238,Saroa,,Papunesia,-9.80,147.86,Austronesian,,PT,,false,,,,B.5,dffff00
+taboro,Taboro,tabo1240,Taboro,,Papunesia,-9.79791,147.861,Austronesian,,PT,,false,,Sinaugoro (Taboro),= dialect of Sinaugoro,B.5,dffff00
+hula,Hula,hula1239,Hula,hul,Papunesia,-10.10,147.73,Austronesian,,PT,,false,,Keapara; Keapara Hula,= dialect of Keapara,B.5,dffff00
+kalo,Kalo,kalo1259,Kalo (Keapara),,Papunesia,-9.99427,147.70499999999998,Austronesian,,PT,,false,,Keapara (Kalo),= dialect of Keapara,B.5,dffff00
+aroma,Aroma,arom1238,Aroma,,Papunesia,-10.1342,147.95,Austronesian,,PT,,false,,,= dialect of Keapara,B.5,dffff00
+maopa,Maopa,maop1237,Maopa,,Papunesia,-10.1342,147.95,Austronesian,,PT,,false,,,= dialect of Keapara,B.5,dffff00
+motu,Motu,motu1246,Motu,meu,Papunesia,-9.46,147.15,Austronesian,,PT,ListerTurnerandClark1954a,false,,,,B.5,sffff00
+wmotu,Western Motu,west2526,Western Motu,,Papunesia,-9.67492,147.424,Austronesian,,PT,,false,,"W Motu; Motu, W",,B.5,sffff00
+gabadi,Gabadi,abad1241,Abadi,kbt,Papunesia,-9.03389,146.99200000000002,Austronesian,,PT,,false,,,,B.5,sffff00
+doura,Doura,tour1243,Toura (Papua New Guinea),don,Papunesia,-9.10,146.99,Austronesian,,PT,,false,,,,B.5,sffff00
+lala,Lala,lala1268,Lala,nrz,Papunesia,-8.93195,146.74899999999997,Austronesian,,PT,,false,,'Ala'ala; Nara; Pokau; ’Ala’ala,"= Nara, 'Ala'ala, Pokau",B.5,sffff00
+kuni,Kuni,kuni1263,Kuni,kse,Papunesia,-8.66368,146.874,Austronesian,,PT,,false,,,,B.5,sffff00
+mekeo,Mekeo,meke1243,Mekeo,mek,Papunesia,-8.49,146.67,Austronesian,,PT,,false,,Mekeo (East); E Mekeo; E. Mekeo,,B.5,sffff00
+roro,Roro,roro1238,Roro,,Papunesia,-8.82,146.54,Austronesian,,PT,,false,,,,B.5,sffff00
+wmekeo,West Mekeo,west2528,West Mekeo,,Papunesia,-8.43,146.54,Austronesian,,PT,,false,,W Mekeo,,B.5,sffff00
+nmekeo,North Mekeo,nort2850,North Mekeo,,Papunesia,-8.24,146.59,Austronesian,,PT,,false,,"N Mekeo; Mekeo, N",,B.5,sffff00
+nwmekeo,Northwest Mekeo,nort2851,Northwest Mekeo,,Papunesia,-8.24,146.59,Austronesian,,PT,,false,,NW Mekeo,,B.5,sffff00
 poe,Poe,,,,,,,,,MM,,false,,,,,
-balivitu,Bali-Vitu,bali1280,Bali-Vitu,,,-4.879164320999905,149.18043053500003,,,MM,,false,,,,B.6,cff6f00
-bali,Bali,unea1237,Uneapa,,,-4.89383,149.141,,,MM,,false,,Uneapa,,B.6,cff6f00
-vitu,Vitu,mudu1242,Muduapa,,,-4.69751,149.489,,,MM,,false,,Muduapa; Bali Vitu,,B.6,cff6f00
-bola,Bola,bola1250,Bola,,,-5.33,150.01,,,MM,Goodenough1997;vandenBergandWiebe2019,false,,,,B.6,cffff00
-bulu,Bulu,bulu1253,Bulu (Papua New Guinea),,,-5.06,150.10,,,MM,Goodenough1997,false,,,,B.6,cffff00
-harua,Harua,haru1243,Harua,,,-5.55792,150.095,,,MM,,false,,Bola (Harua); Bola-Harua; Bola Harua,= dialect of Bola,B.6,cffff00
-nakanai,Nakanai,naka1262,Nakanai,,,-5.50,150.78,,,MM,ChowningandGoodenough2016,false,,Lakalai,= Lakalai,B.6,c666666
-bileki,Bileki,bile1245,Bileki,,,-5.60,150.89,,,MM,,false,,Nakanai (Bileki),,B.6,c666666
-maututu,Maututu,maut1237,Maututu,,,-5.60, 150.89,,,MM,,false,,Nakanai (Maututu); Maututu Nakanai,,B.6,c666666
-meramera,Meramera,mera1242,Meramera,,,-4.97468,151.52800000000002,,,MM,Goodenough1997,false,,,,B.6,c666666
-karaeast,East Kara,east2453,East Kara,,,-2.82,151.11,,,MM,Dryer2012,false,,Kara (E); E Kara; Kara (East),,B.6,cfd1d21
-kara,Kara,kara1486,Kara (Papua New Guinea),,,-2.82,151.11,,,MM,,false,,,,B.6,cfd1d21
-lavongai,Lavongai,tung1290,Tungag,,,-2.52188,150.198,,,MM,FastandFast1989,false,,Tungak; Tungag,,B.6,cfd1d21
-nalik,Nalik,nali1244,Nalik,,,-2.94411,151.33200000000002,,,MM,Volker2020,false,,,,B.6,cfd1d21
-tiang,Tiang,tian1237,Tiang,,,-2.95505,150.935,,,MM,,false,,,,B.6,cfd1d21
-tigak,Tigak,tiga1245,Tigak,,,-2.70951,150.893,,,MM,Beaumont1979,false,,,,B.6,cfd1d21
-karawest,West Kara,west2524,West Kara,,,-2.91,151.16,,,MM,,false,,"W. Kara; Kara (W); W Kara; Kara, W; Kara (West)",,B.6,cfd1d21
-lihir,Lihir,lihi1237,Lihir,,,-3.18895,152.606,,,MM,,false,,,,B.6,cf1b5cf
-notsi,Notsi,nots1237,Notsi,,,-3.0557,151.661,,,MM,,false,,Nochi,,B.6,cf1b5cf
-notsiarchaic,Notsi (archaic),nots1237,Notsi,,,-3.0557,151.661,,,MM,,false,,,,B.6,cf1b5cf
-tabar,Tabar,mand1440,Mandara,,,-2.7828,151.95600000000002,,,MM,,false,,,,B.6,cf1b5cf
-barok,Barok,baro1253,Barok,,,-3.47672,152.19299999999998,,,MM,,false,,"Barok, Karu",,B.6,c913d80
-usenbarok,Usen Barok,usen1237,Usen,,,-3.47672,152.19299999999998,,,MM,,false,,"Barok, Usen",,B.6,c913d80
-lamasong,Lamasong,lamu1255,Lamusong,,,-3.21903,151.728,,,MM,,false,,Lamusong; Lavatbura; North Madak,,B.6,c913d80
-madak,Madak,mada1285,Madak,,,-3.34342,151.967,,,MM,,false,,Mandak,,B.6,c913d80
-tomoip,Tomoip,tomo1244,Tomoip,,,-5.31,151.83,,,MM,,false,,,,B.6,cffffff
-tangga,Tangga,tang1348,Tangga,,,-4.08824,153.611,,,MM,Bell1977,false,,Tanga,= Tanga,B.6,cffffff
-konomala,Konomala,kono1269,Konomala,,,-4.16184,152.87,,,MM,,false,,,,B.6,cffffff
-sursurunga,Sursurunga,surs1246,Sursurunga,,,-3.99078,152.768,,,MM,Samsonetal2018,false,,Sursuranga; Susurunga,,B.6,cffffff
-siar,Siar,siar1238,Siar-Lak,,,-4.62059,152.89200000000002,,,MM,Frowein2011;Rowe2005,false,,Siar-Lak,,B.6,cffffff
-patpatar,Patpatar,patp1243,Patpatar,,,-3.74711,152.493,,,MM,,false,,,,B.6,ced62ff
-minigir,Minigir,mini1251,Minigir,,,-4.31803,152.005,,,MM,,false,,,,B.6,ced62ff
-tolai,Tolai,kuan1248,Kuanua,,,-4.30986,152.11399999999998,,,MM,LanyonOrgill1962,false,,Kuanua; Raluana; Tuna,"= Kuanua, Raluana, Tuna",B.6,ced62ff
-tolainodup,Tolai (Nodup),nodu1236,Nodup,,,-4.31,152.11,,,MM,,false,,Tolai–Nodup,,B.6,ced62ff
-tolaimatupit,Tolai (Matupit),matu1260,Matupit,,,-4.31,152.11,,,MM,,false,,,,B.6,ced62ff
-label,Label,labe1239,Label,,,-4.46971,152.678,,,MM,Peekel1930,false,,,,B.6,cd46d60
-bilur,Bilur,bilu1244,Bilur,,,-4.39732,152.334,,,MM,,false,,,,B.6,cd46d60
-kandas,Kandas,kand1301,Kandas,,,-4.3652,152.781,,,MM,,false,,,,B.6,c6100fd
-ramoaaina,Ramoaaina,ramo1244,Ramoaaina,,,-4.17306,152.45100000000002,,,MM,,false,,Duke of York; Ramoaina,= Duke of York,B.6,c6100fd
-hahon,Hahon,haho1237,Hahon,,,-5.59031,154.80100000000002,,,MM,,false,,Kurtatchi,,B.7,c1100ff
-halia,Halia,hali1244,Halia,,,-5.26603,154.662,,,MM,AllenandAllen2006,false,,Haku; Hanahan; Halia (Haku); Halia-Haku; Halia (Hanahan),"= Hanahan, Halia (Haku, Halia",B.7,c1100ff
-nehan,Nehan,neha1247,Nehan,,,-4.56875,154.2,,,MM,GlennonandGlennon2005,false,,,= Nissan,B.7,c1100ff
-petats,Petats,peta1245,Petats,,,-5.19,154.51,,,MM,,false,,,,B.7,c1100ff
-selau,Selau,sela1258,Selau,,,-5.45,154.72,,,MM,,false,,Halia (Selau),,B.7,c1100ff
-solos,Solos,solo1257,Solos,,,-5.30,154.59,,,MM,,false,,,,B.7,c1100ff
-taiof,Taiof,taio1240,Taiof,,,-5.52,154.65,,,MM,,false,,,,B.7,c1100ff
-teop,Teop,teop1238,Teop,,,-5.67474,154.971,,,MM,Schwartzetal2007,false,,,,B.7,c1100ff
-tinputz,Tinputz,tinp1237,Tinputz,,,-5.58358,154.972,,,MM,,false,,,,B.7,c1100ff
-papapana,Papapana,papa1265,Papapana,,,-5.92,155.29,,,MM,,false,,,,B.7,cff1d21
-uruava,Uruava,urua1242,Uruava,,,-6.23,155.57,,,MM,Palmer2007b,false,,,,B.7,cff1d21
-banoni,Banoni,bann1247,Bannoni,,,-6.23061,155.12800000000001,,,MM,Lincoln2005,false,,Bannoni,,B.7,cf1b5cf
-piva,Piva,lawu1237,Lawunuia,,,-6.22,155.02,,,MM,Lincoln1976a,false,,Lawunuia,,B.7,cf1b5cf
-monoalu,Mono-Alu,mono1273,Mono-Alu,,,-7.05102,155.76,,,MM,,false,,Mon-Alu; Mono Alu,,B.7,c19d300
-mono,Mono,mono1274,Mono,,,-7.05102,155.76,,,MM,,false,,,Dialect of Mono-Alu,B.7,c19d300
-alu,Alu,aluu1243,Alu,,,-7.05,155.76,,,MM,,false,,,Dialect of Mono-Alu,B.7,c19d300
-torau,Torau,tora1259,Torau,,,-6.19922,155.496,,,MM,,false,,,,B.7,c19d300
-vaghua,Vaghua,vagh1249,Vaghua,,,-6.68712,156.542,,,MM,,false,,,,B.7,c6100fd
-varisi,Varisi,vari1239,Varisi,,,-6.83443,156.655,,,MM,,false,,Varise; Varese,,B.7,c6100fd
-avaso,Avasö,avas1237,Avasö,,,-7.38,157.34,,,MM,,false,,Avaso,,B.7,s6100fd
-babatana,Babatana,baba1268,Babatana,,,-7.04,156.76,,,MM,McClatchey2007,false,,,,B.7,s6100fd
-katazi,Katazi,kata1267,Katazi,,,-7.22281,157.14899999999997,,,MM,,false,,,Dialect of Babatana,B.7,s6100fd
-ririo,Ririo,riri1237,Ririo,,,-6.88927,156.92000000000002,,,MM,,false,,,,B.7,s6100fd
-sisiqa,Sisiqa,sisi1250,Sisiqa,,,-7.23,157.05,,,MM,,false,,Sengga; Sisingga,= Sengga; = Sisingga,B.7,s6100fd
-hoava,Hoava,hoav1238,Hoava,,,-8.19679,157.595,,,MM,,false,,,,B.7,cffff00
-kubukota,Kubokota,kubo1244,Kubokota,,,-8.02,156.55,,,MM,,false,,Kubukota; Ghanongga,,B.7,cffff00
-kusaghe,Kusaghe,kusa1253,Kusaghe,,,-8.04,157.46,,,MM,,false,,,,B.7,cffff00
-lungga,Lungga,lung1249,Lungga,,,-8.17,156.57,,,MM,,false,,,,B.7,cffff00
-marovo,Marovo,maro1244,Marovo,,,-8.38,157.75,,,MM,Hviding1995,false,,,,B.7,cffff00
-bareke,Mbareke,bare1273,Bareke,,,-8.54,158.10,,,MM,,false,,Bareke,Dialect of Vangunu,B.7,cffff00
-nduke,Nduke,duke1237,Duke,,,-7.97768,157.064,,,MM,,false,,Duke,,B.7,cffff00
-roviana,Roviana,rovi1238,Roviana,,,-8.20493,157.40800000000002,,,MM,Waterhouse1949,false,,,,B.7,cffff00
-simbo,Simbo,simb1256,Simbo,,,-8.26947,156.541,,,MM,,false,,,,B.7,cffff00
-vangunu,Vangunu,vang1243,Vangunu,,,-8.67,158.00,,,MM,,false,,,,B.7,cffff00
-ughele,Ughele,ughe1237,Ughele,,,-8.46,157.34,,,MM,Frostad2012,false,,,,B.7,cffff00
-blablanga,Blablanga,blab1237,Blablanga,,,-8.15,159.42,,,MM,,false,,Ghove,,B.7,c00fffb
-kilokaka,Kilokaka,zaza1245,Zazao,,,-8.19,159.25,,,MM,,false,,,,B.7,c00fffb
-gao,Gao,gaoo1237,Gao,,,-8.35,159.79,,,MM,,false,,,,B.7,c00fffb
-kia,Kia,zaba1237,Zabana,,,-7.65,158.61,,,MM,,false,,Zabana,,B.7,c00fffb
-kokota,Kokota,koko1269,Kokota,,,-8.16,159.19,,,MM,Palmer2007a,false,,,,B.7,c00fffb
-laghu,Laghu,lagh1246,Laghu,,,-8.00509,158.961,,,MM,,false,,Samasodu; Laghua,,B.7,c00fffb
-maringe,Maringe,chek1238,Cheke Holo,,,-8.23,159.65,,,MM,,false,,Cheke Holo; Hograno,"= Cheke Holo, Hograno",B.7,c00fffb
+balivitu,Bali-Vitu,bali1280,Bali-Vitu,,,-4.879164320999905,149.18043053500003,Austronesian,,MM,,false,,,,B.6,cff6f00
+bali,Bali,unea1237,Uneapa,bbn,Papunesia,-4.89383,149.141,Austronesian,,MM,,false,,Uneapa,,B.6,cff6f00
+vitu,Vitu,mudu1242,Muduapa,wiv,Papunesia,-4.69751,149.489,Austronesian,,MM,,false,,Muduapa; Bali Vitu,,B.6,cff6f00
+bola,Bola,bola1250,Bola,bnp,Papunesia,-5.33,150.01,Austronesian,,MM,Goodenough1997;vandenBergandWiebe2019,false,,,,B.6,cffff00
+bulu,Bulu,bulu1253,Bulu (Papua New Guinea),bjl,Papunesia,-5.06,150.10,Austronesian,,MM,Goodenough1997,false,,,,B.6,cffff00
+harua,Harua,haru1243,Harua,,Papunesia,-5.55792,150.095,Austronesian,,MM,,false,,Bola (Harua); Bola-Harua; Bola Harua,= dialect of Bola,B.6,cffff00
+nakanai,Nakanai,naka1262,Nakanai,nak,Papunesia,-5.50,150.78,Austronesian,,MM,ChowningandGoodenough2016,false,,Lakalai,= Lakalai,B.6,c666666
+bileki,Bileki,bile1245,Bileki,,Papunesia,-5.60,150.89,Austronesian,,MM,,false,,Nakanai (Bileki),,B.6,c666666
+maututu,Maututu,maut1237,Maututu,,Papunesia,-5.60, 150.89,Austronesian,,MM,,false,,Nakanai (Maututu); Maututu Nakanai,,B.6,c666666
+meramera,Meramera,mera1242,Meramera,mxm,Papunesia,-4.97468,151.52800000000002,Austronesian,,MM,Goodenough1997,false,,,,B.6,c666666
+karaeast,East Kara,east2453,East Kara,,Papunesia,-2.82,151.11,Austronesian,,MM,Dryer2012,false,,Kara (E); E Kara; Kara (East),,B.6,cfd1d21
+kara,Kara,kara1486,Kara (Papua New Guinea),leu,Papunesia,-2.82,151.11,Austronesian,,MM,,false,,,,B.6,cfd1d21
+lavongai,Lavongai,tung1290,Tungag,lcm,Papunesia,-2.52188,150.198,Austronesian,,MM,FastandFast1989,false,,Tungak; Tungag,,B.6,cfd1d21
+nalik,Nalik,nali1244,Nalik,nal,Papunesia,-2.94411,151.33200000000002,Austronesian,,MM,Volker2020,false,,,,B.6,cfd1d21
+tiang,Tiang,tian1237,Tiang,tbj,Papunesia,-2.95505,150.935,Austronesian,,MM,,false,,,,B.6,cfd1d21
+tigak,Tigak,tiga1245,Tigak,tgc,Papunesia,-2.70951,150.893,Austronesian,,MM,Beaumont1979,false,,,,B.6,cfd1d21
+karawest,West Kara,west2524,West Kara,,Papunesia,-2.91,151.16,Austronesian,,MM,,false,,"W. Kara; Kara (W); W Kara; Kara, W; Kara (West)",,B.6,cfd1d21
+lihir,Lihir,lihi1237,Lihir,lih,Papunesia,-3.18895,152.606,Austronesian,,MM,,false,,,,B.6,cf1b5cf
+notsi,Notsi,nots1237,Notsi,ncf,Papunesia,-3.0557,151.661,Austronesian,,MM,,false,,Nochi,,B.6,cf1b5cf
+notsiarchaic,Notsi (archaic),nots1237,Notsi,ncf,Papunesia,-3.0557,151.661,Austronesian,,MM,,false,,,,B.6,cf1b5cf
+tabar,Tabar,mand1440,Mandara,tbf,Papunesia,-2.7828,151.95600000000002,Austronesian,,MM,,false,,,,B.6,cf1b5cf
+barok,Barok,baro1253,Barok,bjk,Papunesia,-3.47672,152.19299999999998,Austronesian,,MM,,false,,"Barok, Karu",,B.6,c913d80
+usenbarok,Usen Barok,usen1237,Usen,,Papunesia,-3.47672,152.19299999999998,Austronesian,,MM,,false,,"Barok, Usen",,B.6,c913d80
+lamasong,Lamasong,lamu1255,Lamusong,,Papunesia,-3.21903,151.728,Austronesian,,MM,,false,,Lamusong; Lavatbura; North Madak,,B.6,c913d80
+madak,Madak,mada1285,Madak,mmx,Papunesia,-3.34342,151.967,Austronesian,,MM,,false,,Mandak,,B.6,c913d80
+tomoip,Tomoip,tomo1244,Tomoip,tqp,Papunesia,-5.31,151.83,Austronesian,,MM,,false,,,,B.6,cffffff
+tangga,Tangga,tang1348,Tangga,tgg,Papunesia,-4.08824,153.611,Austronesian,,MM,Bell1977,false,,Tanga,= Tanga,B.6,cffffff
+konomala,Konomala,kono1269,Konomala,koa,Papunesia,-4.16184,152.87,Austronesian,,MM,,false,,,,B.6,cffffff
+sursurunga,Sursurunga,surs1246,Sursurunga,sgz,Papunesia,-3.99078,152.768,Austronesian,,MM,Samsonetal2018,false,,Sursuranga; Susurunga,,B.6,cffffff
+siar,Siar,siar1238,Siar-Lak,sjr,Papunesia,-4.62059,152.89200000000002,Austronesian,,MM,Frowein2011;Rowe2005,false,,Siar-Lak,,B.6,cffffff
+patpatar,Patpatar,patp1243,Patpatar,gfk,Papunesia,-3.74711,152.493,Austronesian,,MM,,false,,,,B.6,ced62ff
+minigir,Minigir,mini1251,Minigir,vmg,Papunesia,-4.31803,152.005,Austronesian,,MM,,false,,,,B.6,ced62ff
+tolai,Tolai,kuan1248,Kuanua,ksd,Papunesia,-4.30986,152.11399999999998,Austronesian,,MM,LanyonOrgill1962,false,,Kuanua; Raluana; Tuna,"= Kuanua, Raluana, Tuna",B.6,ced62ff
+tolainodup,Tolai (Nodup),nodu1236,Nodup,,Papunesia,-4.31,152.11,Austronesian,,MM,,false,,Tolai–Nodup,,B.6,ced62ff
+tolaimatupit,Tolai (Matupit),matu1260,Matupit,,Papunesia,-4.31,152.11,Austronesian,,MM,,false,,,,B.6,ced62ff
+label,Label,labe1239,Label,lbb,Papunesia,-4.46971,152.678,Austronesian,,MM,Peekel1930,false,,,,B.6,cd46d60
+bilur,Bilur,bilu1244,Bilur,bxf,Papunesia,-4.39732,152.334,Austronesian,,MM,,false,,,,B.6,cd46d60
+kandas,Kandas,kand1301,Kandas,kqw,Papunesia,-4.3652,152.781,Austronesian,,MM,,false,,,,B.6,c6100fd
+ramoaaina,Ramoaaina,ramo1244,Ramoaaina,rai,Papunesia,-4.17306,152.45100000000002,Austronesian,,MM,,false,,Duke of York; Ramoaina,= Duke of York,B.6,c6100fd
+hahon,Hahon,haho1237,Hahon,hah,Papunesia,-5.59031,154.80100000000002,Austronesian,,MM,,false,,Kurtatchi,,B.7,c1100ff
+halia,Halia,hali1244,Halia,hla,Papunesia,-5.26603,154.662,Austronesian,,MM,AllenandAllen2006,false,,Haku; Hanahan; Halia (Haku); Halia-Haku; Halia (Hanahan),"= Hanahan, Halia (Haku, Halia",B.7,c1100ff
+nehan,Nehan,neha1247,Nehan,nsn,Papunesia,-4.56875,154.2,Austronesian,,MM,GlennonandGlennon2005,false,,,= Nissan,B.7,c1100ff
+petats,Petats,peta1245,Petats,pex,Papunesia,-5.19,154.51,Austronesian,,MM,,false,,,,B.7,c1100ff
+selau,Selau,sela1258,Selau,,Papunesia,-5.45,154.72,Austronesian,,MM,,false,,Halia (Selau),,B.7,c1100ff
+solos,Solos,solo1257,Solos,sol,Papunesia,-5.30,154.59,Austronesian,,MM,,false,,,,B.7,c1100ff
+taiof,Taiof,taio1240,Taiof,,Papunesia,-5.52,154.65,Austronesian,,MM,,false,,,,B.7,c1100ff
+teop,Teop,teop1238,Teop,tio,Papunesia,-5.67474,154.971,Austronesian,,MM,Schwartzetal2007,false,,,,B.7,c1100ff
+tinputz,Tinputz,tinp1237,Tinputz,tpz,Papunesia,-5.58358,154.972,Austronesian,,MM,,false,,,,B.7,c1100ff
+papapana,Papapana,papa1265,Papapana,ppn,Papunesia,-5.92,155.29,Austronesian,,MM,,false,,,,B.7,cff1d21
+uruava,Uruava,urua1242,Uruava,urv,Papunesia,-6.23,155.57,Austronesian,,MM,Palmer2007b,false,,,,B.7,cff1d21
+banoni,Banoni,bann1247,Bannoni,bcm,Papunesia,-6.23061,155.12800000000001,Austronesian,,MM,Lincoln2005,false,,Bannoni,,B.7,cf1b5cf
+piva,Piva,lawu1237,Lawunuia,tgi,Papunesia,-6.22,155.02,Austronesian,,MM,Lincoln1976a,false,,Lawunuia,,B.7,cf1b5cf
+monoalu,Mono-Alu,mono1273,Mono-Alu,mte,Papunesia,-7.05102,155.76,Austronesian,,MM,,false,,Mon-Alu; Mono Alu,,B.7,c19d300
+mono,Mono,mono1274,Mono,,Papunesia,-7.05102,155.76,Austronesian,,MM,,false,,,Dialect of Mono-Alu,B.7,c19d300
+alu,Alu,aluu1243,Alu,,Papunesia,-7.05,155.76,Austronesian,,MM,,false,,,Dialect of Mono-Alu,B.7,c19d300
+torau,Torau,tora1259,Torau,ttu,Papunesia,-6.19922,155.496,Austronesian,,MM,,false,,,,B.7,c19d300
+vaghua,Vaghua,vagh1249,Vaghua,tva,Papunesia,-6.68712,156.542,Austronesian,,MM,,false,,,,B.7,c6100fd
+varisi,Varisi,vari1239,Varisi,vrs,Papunesia,-6.83443,156.655,Austronesian,,MM,,false,,Varise; Varese,,B.7,c6100fd
+avaso,Avasö,avas1237,Avasö,,Papunesia,-7.38,157.34,Austronesian,,MM,,false,,Avaso,,B.7,s6100fd
+babatana,Babatana,baba1268,Babatana,baa,Papunesia,-7.04,156.76,Austronesian,,MM,McClatchey2007,false,,,,B.7,s6100fd
+katazi,Katazi,kata1267,Katazi,,Papunesia,-7.22281,157.14899999999997,Austronesian,,MM,,false,,,Dialect of Babatana,B.7,s6100fd
+ririo,Ririo,riri1237,Ririo,rri,Papunesia,-6.88927,156.92000000000002,Austronesian,,MM,,false,,,,B.7,s6100fd
+sisiqa,Sisiqa,sisi1250,Sisiqa,,Papunesia,-7.23,157.05,Austronesian,,MM,,false,,Sengga; Sisingga,= Sengga; = Sisingga,B.7,s6100fd
+hoava,Hoava,hoav1238,Hoava,hoa,Papunesia,-8.19679,157.595,Austronesian,,MM,,false,,,,B.7,cffff00
+kubukota,Kubokota,kubo1244,Kubokota,,Papunesia,-8.02,156.55,Austronesian,,MM,,false,,Kubukota; Ghanongga,,B.7,cffff00
+kusaghe,Kusaghe,kusa1253,Kusaghe,,Papunesia,-8.04,157.46,Austronesian,,MM,,false,,,,B.7,cffff00
+lungga,Lungga,lung1249,Lungga,lga,Papunesia,-8.17,156.57,Austronesian,,MM,,false,,,,B.7,cffff00
+marovo,Marovo,maro1244,Marovo,mvo,Papunesia,-8.38,157.75,Austronesian,,MM,Hviding1995,false,,,,B.7,cffff00
+bareke,Mbareke,bare1273,Bareke,,Papunesia,-8.54,158.10,Austronesian,,MM,,false,,Bareke,Dialect of Vangunu,B.7,cffff00
+nduke,Nduke,duke1237,Duke,nke,Papunesia,-7.97768,157.064,Austronesian,,MM,,false,,Duke,,B.7,cffff00
+roviana,Roviana,rovi1238,Roviana,rug,Papunesia,-8.20493,157.40800000000002,Austronesian,,MM,Waterhouse1949,false,,,,B.7,cffff00
+simbo,Simbo,simb1256,Simbo,sbb,Papunesia,-8.26947,156.541,Austronesian,,MM,,false,,,,B.7,cffff00
+vangunu,Vangunu,vang1243,Vangunu,mpr,Papunesia,-8.67,158.00,Austronesian,,MM,,false,,,,B.7,cffff00
+ughele,Ughele,ughe1237,Ughele,uge,Papunesia,-8.46,157.34,Austronesian,,MM,Frostad2012,false,,,,B.7,cffff00
+blablanga,Blablanga,blab1237,Blablanga,blp,Papunesia,-8.15,159.42,Austronesian,,MM,,false,,Ghove,,B.7,c00fffb
+kilokaka,Kilokaka,zaza1245,Zazao,jaj,Papunesia,-8.19,159.25,Austronesian,,MM,,false,,,,B.7,c00fffb
+gao,Gao,gaoo1237,Gao,gga,Papunesia,-8.35,159.79,Austronesian,,MM,,false,,,,B.7,c00fffb
+kia,Kia,zaba1237,Zabana,kji,Papunesia,-7.65,158.61,Austronesian,,MM,,false,,Zabana,,B.7,c00fffb
+kokota,Kokota,koko1269,Kokota,kkk,Papunesia,-8.16,159.19,Austronesian,,MM,Palmer2007a,false,,,,B.7,c00fffb
+laghu,Laghu,lagh1246,Laghu,lgb,Papunesia,-8.00509,158.961,Austronesian,,MM,,false,,Samasodu; Laghua,,B.7,c00fffb
+maringe,Maringe,chek1238,Cheke Holo,mrn,Papunesia,-8.23,159.65,Austronesian,,MM,,false,,Cheke Holo; Hograno,"= Cheke Holo, Hograno",B.7,c00fffb
 ngl,"New Georgia language (unspecified) (Haddon 1937: 104, 106)",,,,,,,,,MM,,false,,,,B.7,cffff00
-bugotu,Bugotu,bugh1239,Bughotu,,,-8.47948,159.80200000000002,,,SES,Ivens1940,false,,,,B.8,cff1d21
-gela,Gela,gela1263,Gela,,,-9.04587,160.186,,,SES,Fox1955,false,,Nggela,,B.8,cff1d21
-westguadalcanal,West Guadalcanal,ghar1239,Ghari,,,-9.4791,159.917,,,SES,,false,,"W. Guad.; W Guad.; W Guadalcanal; W G’canal; W. Guadalcanal; Guadalcanal, W",,B.8,cf1b5cf
-gae,Gae,gaee1238,Gae,,,-9.48,159.92,,,SES,,false,,,dialect of West Guadalcanal,B.8,cf1b5cf
-ghari,Ghari,ghar1239,Ghari,,,-9.4791,159.917,,,SES,,false,,,dialect of West Guadalcanal,B.8,cf1b5cf
-lengo,Lengo,leng1259,Lengo,,,-9.56425,160.42000000000002,,,SES,,false,,Lenggo,,B.8,cf1b5cf
-malango,Malango,mala1484,Malango,,,-9.61383,160.118,,,SES,,false,,,,B.8,cf1b5cf
-birao,Birao,bira1254,Birao,,,-9.74,160.52,,,SES,,false,,Birau,,B.8,c913d80
-talise,Talise,tali1259,Talise,,,-9.76764,160.231,,,SES,,false,,,,B.8,c913d80
-malagheti,Malagheti,mala1483,Malagheti,,,-9.76764,160.231,,,SES,,false,,,Dialect of Talise,B.8,c913d80
-tolo,Tolo,tolo1254,Tolo (Solomon Islands),,,-9.88,160.42,,,SES,Crowley1986,false,,,dialect of Talise,B.8,c913d80
-longgu,Longgu,long1395,Longgu,,,-9.75258,160.66299999999998,,,SES,,false,,,,B.8,c19d300
-nmalaitan,North and Central Malaita,nort2833,Central-Northern Malaita,,,-8.485078200216126,160.77390093045975,,,SES,,false,,,,B.8,ca9c035
-baegu,Baegu,baeg1237,Baeggu,,,-8.49014,160.771,,,SES,,false,,,dialect of Lau,B.8,ca9c035
-baelelea,Baelelea,bael1237,Baelelea,,,-8.42,160.72,,,SES,,false,,,= dialect of Lau,B.8,ca9c035
-fataleka,Fataleka,fata1245,Fataleka,,,-8.59,160.86,,,SES,,false,,,,B.8,ca9c035
-kwai,Kwai,wala1266,Wala,,,-8.69,160.94,,,SES,,false,,,,B.8,ca9c035
-kwaio,Kwaio,kwai1243,Kwaio,,,-8.93744,160.965,,,SES,Keesing1975,false,,,,B.8,ca9c035
-kwaraae,Kwara’ae,kwar1239,Kwara'ae,,,-8.76,160.80,,,SES,,false,,Kwara'ae,,B.8,ca9c035
-langalanga,Langalanga,wala1266,Wala,,,-8.82,160.74,,,SES,,false,,Wala,,B.8,ca9c035
-lau,Lau,lauu1247,Lau,,,-8.51018,160.872,,,SES,Fox1974,false,,,,B.8,c1100ff
-toabaita,To’aba’ita,toab1237,To'abaita,,,-8.39233,160.61899999999997,,,SES,Lichtenberk2008,false,,To'aba'ita; To’amba’ita; Toqabaqita,,B.8,ca9c035
-areare,’Are’are,area1240,'Are'are,,,-9.20699,161.15800000000002,,,SES,Geerts1970,false,,'Are'are; ‘Are’are; ’Are’Are; ‘Are‘are; 'Are’are,,B.8,c0e7400
-dorio,Dori’o,dori1246,Dori'o,,,-9.12,160.90,,,SES,,false,,Dori'o; Dorio,,B.8,c0e7400
-marausound,Marau Sound,mara1398,Marau Sound,,,-9.78,160.79,,,SES,,false,,,dialect of ’Are’are,B.8,c0e7400
-oroha,Oroha,oroh1237,Oroha,,,-9.74,161.51,,,SES,,false,,,,B.8,c0e7400
-saa,Sa’a,saaa1240,Sa'a,,,-9.60258,161.467,,,SES,Ivens1918;Ivens1929,false,,Sa'a; Sa’s,,B.8,c1100ff
-ukinimasi,Uki ni Masi,ukin1237,Uki Ni Masi,,,-10.25,161.73,,,SES,,false,,,dialect of Sa’a,B.8,c1100ff
-ulawa,Ulawa,ulaw1237,Ulawa,,,-9.79,161.97,,,SES,Ivens1918,false,,,,B.8,c1100ff
-arosi,Arosi,aros1241,Arosi,,,-10.2441,161.43200000000002,,,SES,Fox1978,false,,"E. Arosi; E Arosi; Arosi (East); Arosi, E",,B.8,c4dbad8
-arosiwest,Arosi (West),aros1241,Arosi,,,-10.2441,161.43200000000002,,,SES,Fox1978,false,,W Arosi,,B.8,c4dbad8
-bauro,Bauro,baur1252,Bauro,,,-10.5826,161.863,,,SES,,false,,Bauro (West),,B.8,c4dbad8
-fagani,Fagani,faga1239,Fagani,,,-10.4479,161.662,,,SES,,false,,Faghani,,B.8,c4dbad8
-kahua,Kahua,kahu1241,Kahua,,,-10.70,162.19,,,SES,,false,,Kahlua,,B.8,c4dbad8
-owa,Owa,owaa1237,Owa,,,-10.83,162.30,,,SES,Mellow2014,false,,,,B.8,c4dbad8
-santaana,Santa Ana,sant1414,Santa Ana (Solomon Islands),,,-10.83,162.30,,,SES,,false,,,dialect of Owa,B.8,c4dbad8
-aiwoo,Äiwoo,ayiw1239,Äiwoo,,,-10.30,166.32,,,TM,,false,,Aiwoo; Reefs,,B.8,c8a33fd
-engdewo,Engdewo,nang1262,Nanggu,,,-10.74,165.89,,,TM,,false,,Nagu; Nanggu,,B.8,cff6f00
-natugu,Natügu,natu1246,Natügu,,,-10.68,165.84,,,TM,,false,,Lödäi; Nedö,"= Malo, Lodai, Nedo",B.8,cff6f00
-asuboa,Asuboa,asum1237,Asumboa,,,-11.30,166.50,,,TM,,false,,Asumboa,,B.8,cffff00
-nebao,Nebao,amba1266,Amba (Solomon Islands),,,-11.30,166.50,,,TM,,false,,Aba; Nembao,,B.8,cffff00
-tanibili,Tanibili,tani1255,Tanimbili,,,-11.30,166.51,,,TM,,false,,Tanabili; Tanimbili,,B.8,cffff00
-burna,Buma,tean1237,Teanu,,,-11.68,166.87,,,TM,Francois2021,false,,Teanu,= Teanu,B.8,c00fffb
-tanema,Tanema,tane1237,Tanema,,,-11.68,166.97,,,TM,,false,,Tanima; Tetau,"= Tanima, Tetau",B.8,c00fffb
-vano,Vano,vano1237,Lovono,,,-11.61,166.80,,,TM,,false,,Vana; Lovono,= Vana,B.8,c00fffb
-hiw,Hiw,hiww1237,Hiw,,,-13.126367,166.584857,,,NCV,,false,,,,B.9,ced62ff
-loh,Loh,loto1240,Lo-Toga,,,-13.33,166.63,,,NCV,,false,,Lo-Toga; Lo Toga; Toga; Loh-Toga,,B.9,ced62ff
-lehali,Lehali,leha1243,Lehali,,,-13.50,167.33,,,NCV,,false,,,,B.9,te31a1c
-loyop,Löyöp,leha1244,Lehalurup,,,-13.54,167.34,,,NCV,,false,,Loyop; Lehalurup,,B.9,te31a1c
-mwotlap,Mwotlap,motl1237,Mwotlap,,,-13.65,167.65,,,NCV,Francois2023,false,,Motlav,,B.9,te31a1c
-volow,Volow,volo1238,Volow,,,-13.66,167.71,,,NCV,,false,,,= dialect of Mwotlap,B.9,te31a1c
-lemerig,Lemerig,leme1238,Lemerig,,,-13.74,167.42,,,NCV,,false,,Sasar,,B.9,se31a1c
-veraa,Vera’a,vera1241,Vera'a,,,-13.89,167.43,,,NCV,,false,,Vera'a; Veraa; Vatrata,,B.9,se31a1c
-mwesen,Mwesen,mwes1235,Mwesen,,,-13.91,167.45,,,NCV,,false,,Mosina; Vurës (Mosina),= Mosina,B.9,de31a1c
-vures,Vurës,vure1239,Vurës,,,-13.91,167.45,,,NCV,Malau2016,false,,Vures,,B.9,de31a1c
-mota,Mota,mota1237,Mota,,,-13.835361,167.690924,,,NCV,CodringtonandPalmer1896,false,,,,B.9,de31a1c
-dorig,Dorig,weta1242,Dorig,,,-14.37,167.55,,,NCV,,false,,Wetamut,,B.9,ce31a1c
-lakon,Lakon,lako1245,Lakon,,,-14.30,167.43,,,NCV,,false,,Lakona,,B.9,ce31a1c
-nume,Nume,nume1241,Nume,,,-14.23,167.59,,,NCV,,false,,Tarasag,,B.9,ce31a1c
-olrat,Olrat,olra1234,Olrat,,,-14.31,167.43,,,NCV,,false,,,,B.9,ce31a1c
-sgaua,South Gaua,koro1318,Koro (Vanuatu),,,-14.29,167.47,,,NCV,,false,,S Gaua,= Koro,B.9,ce31a1c
-merlav,Merlav,merl1237,Merlav,,,-14.45,168.05,,,NCV,,false,,Mwerlap,,B.9,ce31a1c
-tolomako,Tolomako,tolo1255,Tolomako,,,-15.16,166.77,,,NCV,,false,,Matantas; Marino,,B.9,c4996c6
-nokuku,Nokuku,noku1237,Nokuku,,,-14.90,166.60,,,NCV,,false,,,,B.9,c4996c6
-piamatsina,Piamatsina,piam1242,Piamatsina,,,-15.00,166.74,,,NCV,,false,,,,B.9,c4996c6
-tasmate,Tasmate,tasm1246,Tasmate,,,-15.08,166.66,,,NCV,,false,,Meri; Oa,,B.9,c4996c6
-valpei,Valpei,valp1237,Valpei,,,-14.71,166.61,,,NCV,,false,,,,B.9,c4996c6
-vunapu,Vunapu,vuna1239,Vunapu,,,-14.85,166.69,,,NCV,,false,,,,B.9,c4996c6
-wusi,Wusi,wusi1237,Kula (Vanuatu),,,-15.2786,166.696,,,NCV,,false,,Kula,,B.9,c00fffb
-wusinokovula,Wusi (Nokovula),wusi1237,Kula (Vanuatu),,,-15.2786,166.696,,,NCV,,false,,,,B.9,c00fffb
-merei,Merei,mere1242,Merei,,,-15.28,166.91,,,NCV,,false,,Lametin; Tiale,,B.9,c00fffb
-akei,Akei,akei1237,Akei,,,-15.6377,166.767,,,NCV,,false,,Tasiriki,,B.9,c1100ff
-kiai,Kiai,fort1240,Kiai,,,-15.4484,166.931,,,NCV,,false,,Kiai (Tazia); Vara Kiai; Fortsenal,,B.9,c1100ff
-tangoa,Tangoa,tang1347,Movono,,,-15.5643,166.95800000000003,,,NCV,,false,,,,B.9,c1100ff
-morouas,Morouas,moro1286,Ande,,,-15.35,166.89,,,NCV,,false,,Ande,,B.9,cb5fcb5
-narango,Narango,nara1263,Narango,,,-15.53,167.05,,,NCV,,false,,Farsaf; Nambel,,B.9,cb5fcb5
-tambotalo,Tambotalo,tamb1253,Tambotalo,,,-15.50,167.14,,,NCV,,false,,Biliru,,B.9,c0e7400
-sakao,Sakao,port1296,Sakao,,,-15.08,167.05,,,NCV,,false,,Sara; Sak; Nkep; Hog Harbour,,B.9,c0e7400
-sharkbay,Shark Bay,lore1244,Nethalp,,,-15.33,167.17,,,NCV,,false,,Ngen,,B.9,c0e7400
-aore,Aore,aore1237,Aore,,,-15.58,167.17,,,NCV,,false,,,,B.9,c19d300
-araki,Araki,arak1252,Araki,,,-15.63,166.95,,,NCV,Francois2002,false,,,,B.9,c19d300
-mafea,Mafea,mafe1237,Mafea,,,-15.43,167.24,,,NCV,,false,,Mavea; Mav̋ ea; Mav̋ea,,B.9,c19d300
-tamambo,Tamambo,malo1243,Tamambo,,,-15.6835,167.16,,,NCV,Jauncey2011,false,,Malo; Tamabo,= Malo,B.9,c19d300
-tutuba,Tutuba,tutu1241,Tutuba,,,-15.58,167.27,,,NCV,,false,,,,B.9,c19d300
-ambae,Ambae,east2443,East Ambae,,,-15.35,167.89,,,NCV,Hyslop2001,false,,Aoba; N. E. Aoba; NE Ambae; NEAmbae,= N. E. Aoba,B.9,c19d300
-lolovoli,Lolovoli,east2443,East Ambae,,,-15.39,167.92,,,NCV,Hyslop2001,false,,,dialect of Northeast Ambae,B.9,cffff00
-lolsiwoi,Lolsiwoi,lolo1262,Lolokaro,,,-15.31,167.85,,,NCV,,false,,,dialect of Northeast Ambae,B.9,cffff00
-lombaha,Lombaha,lomb1262,Lombaha,,,-15.31,167.85,,,NCV,,false,,"Ambae, NE (Lombaha)",dialect of Northeast Ambae,B.9,cffff00
-longana,Longana,long1396,Longana,,,-15.33,167.96,,,NCV,,false,,"Ambae, NE (Longana)",dialect of Northeast Ambae,B.9,cffff00
-wambae,West Ambae,west2513,West Ambae,,,-15.43,167.81,,,NCV,,false,,W Ambae,,B.9,sffff00
-nduindui,Nduindui,west2513,West Ambae,,,-15.46,167.69,,,NCV,,false,,Duidui; Ngwatua,,B.9,sffff00
-maewo,Maewo,cent2058,Central Maewo,,,-15.08,168.13,,,NCV,,false,,C Maewo,,B.9,dffff00
-baetora,Baetora,baet1237,Baetora,,,-15.26,168.16,,,NCV,,false,,South Maewo; Singaloge,,B.9,dffff00
-raga,Raga,hano1246,Hano,,,-15.5432,168.167,,,NCV,,false,,Hano,,B.9,dffff00
-sunwadaga,Sungwadaga,mari1426,Sunwadia,,,-14.97,168.06,,,NCV,,false,,Suñwadaga; Central Maewo,,B.9,dffff00
-maluabay,Malua Bay,malu1254,Malua Bay,,,-15.98,167.21,,,NCV,,false,,Middle Nambas,,B.10,ced62ff
-nese,Nese,nese1235,Nese,,,-15.95,167.22,,,NCV,,false,,Matanvat,,B.10,cff007b
-vao,Vao,vaoo1237,Vao-Vovo,,,-15.90,167.31,,,NCV,,false,,,,B.10,cff007b
-atchin,Atchin,atch1238,Atchin,,,-16.00951,167.34643,,,NCV,,false,,Uripiv (Atchin),,B.10,c4996c6
-rano,Rano,wala1267,Wala-Rano,,,-15.99,167.39,,,NCV,,false,,,,B.10,c4996c6
-uripiv,Uripiv,urip1240,Uripiv,,,-16.00951,167.34643,,,NCV,,false,,,,B.10,c4996c6
-unua,Unua,unua1237,Unua,,,-16.26,167.60,,,NCV,Pearce2015,false,,Onua,,B.10,c1100ff
-aulua,Aulua,aulu1238,Aulua,,,-16.36,167.70,,,NCV,,false,,,,B.10,c1100ff
-banambay,Banam Bay,burm1263,Burmbar,,,-16.42,167.73,,,NCV,,false,,Burmbar; Vartovo,,B.10,c1100ff
-rerep,Rerep,rere1240,Rerep,,,-16.29,167.65,,,NCV,,false,,Pangkumu; Tisman,,B.10,c1100ff
-avok,Avok,avok1244,Avok,,,-16.54,167.77,,,NCV,,false,,,,B.10,c87cafd
-axamb,Axamb,axam1237,Axamb,,,-16.48,167.71,,,NCV,,false,,Ahamb,,B.10,c87cafd
-maskelynes,Maskelynes,mask1242,Maskelynes,,,-16.51,167.82,,,NCV,,false,,Uliveo,,B.10,c87cafd
-nasvang,Nasvang,nasv1234,Nasvang,,,-16.46,167.64,,,NCV,,false,,,,B.10,c87cafd
-nisvai,Nisvai,nisv1234,Nisvai,,,-16.41,167.79,,,NCV,,false,,Vetbon,,B.10,c87cafd
-portsandwich,Port Sandwich,port1285,Port Sandwich,,,-16.4952,167.78,,,NCV,,false,,Pt Sandwich; Pt. Sandwich; Lamap,,B.10,c87cafd
-larevat,Larëvat,lare1249,Larevat,,,-16.20,167.39,,,NCV,,false,,Larevat; Laravat,,B.10,c0e7400
-naman,Naman,litz1237,Naman,,,-16.13,167.41,,,NCV,,false,,Litzlitz,,B.10,c0e7400
-neveei,Neve’ei,vinm1237,Neve'ei,,,-16.23,167.43,,,NCV,,false,,Neve'ei; Neveei; Vinmavis,,B.10,c0e7400
-neverver,Neverver,ling1265,Neverver,,,-16.20,167.50,,,NCV,,false,,Nevwervwer; Lingarak,,B.10,c0e7400
-labo,Labo,labo1244,Ninde,,,-16.43,167.44,,,NCV,,false,,Ninde,,B.10,c19d300
-nati,Nāti,nati1244,Nati,,,-16.47,167.50,,,NCV,,false,,Nati,,B.10,c19d300
-bignambas,Big Nambas,bign1238,Big Nambas,,,-16.0903,167.23899999999998,,,NCV,,false,,V’enen Taut; V’ënen Taut,,B.10,ca9c035
-tirax,Tirax,maee1241,Tirax,,,-15.99,167.29,,,NCV,,false,,Dirak; Mae,,B.10,ca9c035
-tape,Tape,mara1399,Maragus,,,-16.07,167.33,,,NCV,,false,,Maragus,,B.10,ca9c035
-avava,Avava,katb1237,Avava,,,-16.27,167.48,,,NCV,,false,,Avava (Niviar ); Katbol; Banga’; Navava,,B.10,cb5fcb5
-lendamboi,Lendamboi,lete1242,Letemboi,,,-16.43,167.57,,,NCV,,false,,Letemboi,,B.10,cb5fcb5
-nahaai,Naha’ai,malf1237,Na'ahai,,,-16.55,167.51,,,NCV,,false,,Malfaxal; Naha’ai (Malfaxal),,B.10,cb5fcb5
-nasarian,Nasarian,nasa1240,Nasarian,,,-16.35,167.41,,,NCV,,false,,,,B.10,cb5fcb5
-navwien,Navwien,navw1234,Navwien,,,-16.50,167.55,,,NCV,,false,,,,B.10,cb5fcb5
-southwestbay,Southwest Bay,sout2857,Nahavaq,,,-16.51,167.48,,,NCV,,false,,SWBay; Nahavaq; SW Bay; Sinesip,,B.10,cb5fcb5
-apma,Apma,apma1240,Apma,,,-15.86,168.19,,,NCV,,false,,Abma,,B.10,cffff00
-sa,Sa,saaa1241,Sa,,,-15.95,168.23,,,NCV,,false,,,,B.10,cffff00
-ske,Ske,seke1241,Seke (Vanuatu),,,-15.88,168.20,,,NCV,,false,,Seke,,B.10,cffff00
-sowa,Sowa,sowa1244,Sowa,,,-15.83,168.19,,,NCV,,false,,,,B.10,cffff00
-daakaka,Daakaka,daka1243,Dakaka,,,-16.30,167.98,,,NCV,vonPrince2012;vonPrince2017,false,,,dialect of West Ambrym,B.10,ce31a1c
-lonwolwol,Lonwolwol,lonw1238,Lonwolwol,,,-16.2286,168.016,,,NCV,Paton1973,false,,Raljago,dialect of West Ambrym,B.10,ce31a1c
-northambrym,North Ambrym,nort2839,North Ambrym,,,-16.17,168.14,,,NCV,,false,,"Ambrym, N; N Ambrym",,B.10,ce31a1c
-orkon,Orkon,orko1234,Orkon-Fanbak,,,-16.17,168.20,,,NCV,,false,,Fanbak,dialect of West Ambrym,B.10,ce31a1c
-paamese,Paamese,paam1238,Paama,,,-16.47548,168.23693,,,NCV,Crowley1992,false,,Paama,,B.10,ce31a1c
-paamesesouth,Paamese (South),sout2858,South Paama,,,-16.47548,168.23693,,,NCV,,false,,S Paamese,,B.10,ce31a1c
-paamesenorth,Paamese (North),nort2838,North Paama,,,-16.48,168.24,,,NCV,,false,,N Paamese,,B.10,ce31a1c
-seambrym,Southeast Ambrym,sout2859,Southeast Ambrym,,,-16.2975,168.21099999999998,,,NCV,Parker1970,false,,SE Ambrym; SEAmbrym; S E Ambrym; S.E. Ambrym,,B.10,ce31a1c
-ambrym,Ambrym,ambr1240,Ambrym,,,-16.2334,168.12233333333333,,,NCV,,false,,,,B.10,ce31a1c
-wambrym,West Ambrym,port1293,West Ambrym,,,-16.26,167.93,,,NCV,,false,,W Ambrym,,B.10,ce31a1c
-baki,Baki,baki1244,Baki,,,-16.71,168.16,,,NCV,,false,,Paki; Burumba,,B.10,c00fffb
-bieria,Bieria,bier1246,Bieria,,,-16.79,168.23,,,NCV,,false,,Bonkovia-yevali,,B.10,c00fffb
-bierebo,Bierebo,bier1244,Bierebo,,,-16.67,168.15,,,NCV,,false,,Bieri; Vovo; Wowo,,B.10,c00fffb
-lamen,Lamen,lame1260,Lamenu,,,-16.61,168.17,,,NCV,,false,,Lamenu; Varmali,,B.10,c00fffb
-lelepa,Lelepa,lele1267,Lelepa,,,-17.60,168.20,,,NCV,,false,,Havannah Harbour,dialect of Nakanamanga,B.10,c00fffb
-lewo,Lewo,lewo1242,Lewo,,,-16.7612,168.334,,,NCV,,false,,Varsu,,B.10,c00fffb
-nakanamanga,Nakanamanga,nort2836,North Efate,,,-17.58,168.38,,,NCV,,false,,NEfate; North Efate; N Efate,,B.10,c00fffb
-namakir,Namakir,nama1268,Namakura,,,-16.8979,168.569,,,NCV,Sperlich2019,false,,Makura; Namakura; Namakira,= Namakura,B.10,c00fffb
-nguna,Nguna,ngun1274,Nguna,,,-17.5774,168.375,,,NCV,,false,,,dialect of Nakanamanga,B.10,c00fffb
-sesake,Sesake,sesa1243,Sesake,,,-17.04,168.38,,,NCV,,false,,,Dialect of Nakanamanga,B.10,c00fffb
-southefate,South Efate,sout2856,Nafsan,,,-17.70,168.38,,,NCV,Thieberger2006b;Thieberger2011,false,,S. Efate; S Efate; Nafsan; Erakor,,B.10,c00fffb
-efate,Efate,efat1236,Efate,,,-17.65555,168.37575,,,NCV,,false,,,,B.10,c00fffb
-sye,Sye,siee1239,Sie,,,-18.8181,169.166,,,SV,Crowley2000;Lynch2001b,false,,Eromango; Sie,"= Sie, Eromango",B.11,c19d300
-ura,Ura,urav1235,Ura (Vanuatu),,,-18.6747,169.084,,,SV,Lynch1983,false,,,,B.11,c19d300
-utaha,Utaha,ifoo1237,Ifo,,,-18.72,169.01,,,SV,Lynch1983d,false,,Ifo,,B.11,c19d300
-kwamera,Kwamera,kwam1252,Kwamera,,,-19.5954,169.442,,,SV,Lindstrom1981;Lindstrom1986,false,,Nafe; Nife,,B.11,c1100ff
-lenakel,Lenakel,lena1238,Lenakel,,,-19.4763,169.261,,,SV,Lynch1977,false,,Netvaar,,B.11,c1100ff
-ntanna,North Tanna,nort2847,North Tanna,,,-19.3733,169.303,,,SV,,false,,N Tanna; N. Tanna,,B.11,c1100ff
-swtanna,Southwest Tanna,sout2869,Southwest Tanna,,,-19.57953,169.35603000000003,,,SV,Lynch1982,false,,SW Tanna; SWTanna; S W Tanna; S.W. Tanna; Nawal,,B.11,c1100ff
-whitesands,Whitesands,whit1269,Whitesands,,,-19.50,169.38,,,SV,,false,,White sands; Narak,,B.11,c1100ff
-anejom,Anejom̃,anei1239,Aneityum,,,-20.19,169.82,,,SV,LynchandTepahae2001,false,,Anejom; Aneityum; Aneityom,= Aneityum,B.11,ce31a1c
-dehu,Dehu,dehu1237,Dehu,,,-20.8892,167.22899999999998,,,NCal,Tryon1967,false,,Drehu,,B.12,c0e7400
-iaai,Iaai,iaai1238,Iaai,,,-20.63,166.59,,,NCal,OzanneRivierre1984,false,,,,B.12,ced62ff
-nengone,Nengone,neng1238,Nengone,,,-21.5305,167.964,,,NCal,TryonandDubois1969,false,,,,B.12,cd37c7c
-belep,Belep,nyal1254,Belep,,,-19.72,163.66,,,NCal,McCracken2012,false,,,,B.12,ce31a1c
-caaac,Caaàc,caac1237,Caac,,,-20.41,164.58,,,NCal,,false,,Caaac; Caac,,B.12,ce31a1c
-fwai,Fwâi,fwai1237,Fwâi,,,-20.69,164.90,,,NCal,HaudricourtandOzanneRivierre1982,false,,Fwai,,B.12,ce31a1c
-jawe,Jawe,jawe1237,Jawe,,,-20.66,164.68,,,NCal,HaudricourtandOzanneRivierre1982,false,,,,B.12,ce31a1c
-pije,Pije,pije1237,Pije,,,-20.7824,164.942,,,NCal,HaudricourtandOzanneRivierre1982,false,,,,B.12,ce31a1c
-pwapwa,Pwapwâ,pwap1237,Pwapwa,,,-20.81,164.56,,,NCal,,false,,Pwapwa,,B.12,ce31a1c
-nemi,Nemi,nemi1240,Nemi,,,-20.6791,164.797,,,NCal,HaudricourtandOzanneRivierre1982,false,,,,B.12,ce31a1c
-nelemwa,Nêlêmwa,nene1250,Nenema,,,-20.24,164.03,,,NCal,,false,,Nelemwa; Nêlêmwâ,,B.12,ce31a1c
-nixumwak,Nixumwak,nucl1483,Kumak,,,-20.40,164.19,,,NCal,,false,,Koumak; Koumac; Kumak,,B.12,ce31a1c
-nyelayu,Nyelâyu,bala1316,Balade,,,-20.25,164.20,,,NCal,OzanneRivierre1998,false,,Nyelayu,,B.12,ce31a1c
-pwaamei,Pwaamei,pwaa1237,Pwaamei,,,-20.84,164.77,,,NCal,,false,,,,B.12,ce31a1c
-yuanga,Yuanga,yuag1237,Yuaga,,,-20.57,164.51,,,NCal,,false,,,,B.12,ce31a1c
-vohkone,Voh-Koné,vohk1234,Voh-Kone,,,-20.7991,164.77058,,,NCal,,false,,Voh-Kone,,B.12,ce31a1c
-bwatoo,Bwatoo,bwat1240,Bwatoo,,,-21.16,164.82,,,NCal,,false,,,,B.12,ce31a1c
-wahmwaang,Wahmwaang,waam1236,Waamwang,,,-20.50,164.41,,,NCal,,false,,,,B.12,ce31a1c
-cemuhi,Cèmuhî,cemu1238,Cemuhî,,,-20.85,165.13,,,NCal,Rivierre1994,false,,Cemuhi,,B.12,c00fffb
-paici,Paicî,paic1239,Paicî,,,-21.10,165.15,,,NCal,Rivierre1983,false,,Paici,,B.12,c00fffb
-ajie,Ajië,ajie1238,Ajië,,,-21.30,165.47,,,NCal,,false,,Ajie,,B.12,c8a33fd
-oroe,Ôrôe,orow1242,Orowe,,,-21.46,165.47,,,NCal,,false,,,,B.12,c8a33fd
-tiri,Tîrî,tiri1261,Tiri,,,-21.72,165.81,,,NCal,,false,,Tinrin; Grand Couli,,B.12,c19d300
-xaracuu,Xârâcùù,xara1244,Xârâcùù,,,-21.7034,165.996,,,NCal,MoyseFaurieetal1986,false,,Xaracuu; Canala,,B.12,c19d300
-xaragure,Xârâgurè,xara1243,Xaragure,,,-21.82,166.38,,,NCal,,false,,,,B.12,c19d300
-drubea,Drubea,dumb1241,Dumbea,,,-22.09,166.53,,,NCal,PaitaandShintani1983,false,,Païta,,B.12,cffff00
-kwenyii,Kwênyii,kwen1247,Kwenyii,,,-22.55,167.44,,,NCal,,false,,,,B.12,cffff00
-nauruan,Nauruan,naur1243,Nauru,,,-0.53,166.92,,,Mic,,false,,,,B.13,c6100fd
-kosraean,Kosraean,kosr1238,Kosraean,,,5.31,162.98000000000002,,,Mic,Lee1976,false,,Kusaeian,= Kusaeian,B.13,c00fffb
-kiribati,Kiribati,gilb1244,Gilbertese,,,0.179,173.64,,,Mic,Sabatier1971,false,,Gilbertese; Kiribatese; Kiribati (Butaritari-Makin),"= Kiribati, Gilbertese",B.13,c19d300
-marshallese,Marshallese,mars1254,Marshallese,,,8.72,167.73,,,Mic,Aboetal1976,false,,Marshallese (Namu),,B.13,cffff00
-mokilese,Mokilese,moki1238,Mokilese,,,6.65651,159.77599999999998,,,Mic,Harrisonandalbert1977,false,,,,B.13,c0e7400
-ponapean,Ponapean,pona1249,Ponapean,,,7.25,158.27,,,Mic,,false,,Pohnpeian; Ponape,,B.13,c0e7400
-pingelapese,Pingelapese,ping1243,Pingelapese,,,6.21,160.71,,,Mic,GoodandWelley1989,false,,,,B.13,c0e7400
-puloannian,Pulo Annian,pulo1240,Pulo Anna,,,5.52,132.05,,,Mic,,false,,Pulo-Annan; Polo Annian; Pulo Anna,dialect of Sonsorolese,B.13,cff1d21
-sonsorolese,Sonsorolese,sons1242,Sonsorol,,,5.33,132.22,,,Mic,Capell1969,false,,Sonsorol,,B.13,cff1d21
-ulithian,Ulithian,ulit1238,Ulithian,,,9.961388,139.60361099999997,,,Mic,,false,,Ulithi,,B.13,cff1d21
-woleaian,Woleaian,wole1240,Woleaian,,,7.37957,143.916,,,Mic,SohnandTawerilmang1976,false,,Woleai; Woleiaian; Ifaluk,,B.13,cff1d21
-lamotrek,Lamotrek,lamo1243,Lamotrek,,,7.38,143.92,,,Mic,,false,,,Dialect of Woleaian,B.13,cff1d21
-chuukese,Chuukese,chuu1238,Chuukese,,,7.346993,151.59860700000002,,,Mic,GoodenoughandSugita1990,false,,Trukese; Chuukic; Chuuukese,,B.13,ced62ff
-mortlockese,Mortlockese,mort1237,Mortlockese,,,5.50735,153.71077799999998,,,Mic,,false,,L. Mortlockese; Mortlock,,B.13,ced62ff
-namoluk,Namoluk,mort1237,Mortlockese,,,4.62,154.31,,,Mic,,false,,,= dialect of Mortlockese,B.13,ced62ff
-puluwatese,Puluwatese,pulu1242,Puluwatese,,,7.35695,149.20049999999998,,,Mic,Elbert1972;Elbert1974,false,,Puluwat,,B.13,ced62ff
-carolinian,Carolinian,caro1242,Carolinian,,,15.205,145.765,,,Mic,JacksonandMarck1991,false,,Saipan Carolinian,,B.13,cf1b5cf
-taroliniantanapag,Carolinian (Tanapag),tana1281,Tanapag,,,15.24,145.76,,,Mic,,false,,Tanapag Carolinian,,B.13,cf1b5cf
-satawalese,Satawalese,sata1237,Satawalese,,,7.36084,147.038,,,Mic,,false,,Satawal,,B.13,cf1b5cf
+bugotu,Bugotu,bugh1239,Bughotu,bgt,Papunesia,-8.47948,159.80200000000002,Austronesian,,SES,Ivens1940,false,,,,B.8,cff1d21
+gela,Gela,gela1263,Gela,nlg,Papunesia,-9.04587,160.186,Austronesian,,SES,Fox1955,false,,Nggela,,B.8,cff1d21
+westguadalcanal,West Guadalcanal,ghar1239,Ghari,gri,Papunesia,-9.4791,159.917,Austronesian,,SES,,false,,"W. Guad.; W Guad.; W Guadalcanal; W G’canal; W. Guadalcanal; Guadalcanal, W",,B.8,cf1b5cf
+gae,Gae,gaee1238,Gae,,Papunesia,-9.48,159.92,Austronesian,,SES,,false,,,dialect of West Guadalcanal,B.8,cf1b5cf
+ghari,Ghari,ghar1239,Ghari,gri,Papunesia,-9.4791,159.917,Austronesian,,SES,,false,,,dialect of West Guadalcanal,B.8,cf1b5cf
+lengo,Lengo,leng1259,Lengo,lgr,Papunesia,-9.56425,160.42000000000002,Austronesian,,SES,,false,,Lenggo,,B.8,cf1b5cf
+malango,Malango,mala1484,Malango,mln,Papunesia,-9.61383,160.118,Austronesian,,SES,,false,,,,B.8,cf1b5cf
+birao,Birao,bira1254,Birao,brr,Papunesia,-9.74,160.52,Austronesian,,SES,,false,,Birau,,B.8,c913d80
+talise,Talise,tali1259,Talise,tlr,Papunesia,-9.76764,160.231,Austronesian,,SES,,false,,,,B.8,c913d80
+malagheti,Malagheti,mala1483,Malagheti,,Papunesia,-9.76764,160.231,Austronesian,,SES,,false,,,Dialect of Talise,B.8,c913d80
+tolo,Tolo,tolo1254,Tolo (Solomon Islands),,Papunesia,-9.88,160.42,Austronesian,,SES,Crowley1986,false,,,dialect of Talise,B.8,c913d80
+longgu,Longgu,long1395,Longgu,lgu,Papunesia,-9.75258,160.66299999999998,Austronesian,,SES,,false,,,,B.8,c19d300
+nmalaitan,North and Central Malaita,nort2833,Central-Northern Malaita,,,-8.485078200216126,160.77390093045975,Austronesian,,SES,,false,,,,B.8,ca9c035
+baegu,Baegu,baeg1237,Baeggu,bvd,Papunesia,-8.49014,160.771,Austronesian,,SES,,false,,,dialect of Lau,B.8,ca9c035
+baelelea,Baelelea,bael1237,Baelelea,bvc,Papunesia,-8.42,160.72,Austronesian,,SES,,false,,,= dialect of Lau,B.8,ca9c035
+fataleka,Fataleka,fata1245,Fataleka,far,Papunesia,-8.59,160.86,Austronesian,,SES,,false,,,,B.8,ca9c035
+kwai,Kwai,wala1266,Wala,lgl,Papunesia,-8.69,160.94,Austronesian,,SES,,false,,,,B.8,ca9c035
+kwaio,Kwaio,kwai1243,Kwaio,kwd,Papunesia,-8.93744,160.965,Austronesian,,SES,Keesing1975,false,,,,B.8,ca9c035
+kwaraae,Kwara’ae,kwar1239,Kwara'ae,kwf,Papunesia,-8.76,160.80,Austronesian,,SES,,false,,Kwara'ae,,B.8,ca9c035
+langalanga,Langalanga,wala1266,Wala,lgl,Papunesia,-8.82,160.74,Austronesian,,SES,,false,,Wala,,B.8,ca9c035
+lau,Lau,lauu1247,Lau,llu,Papunesia,-8.51018,160.872,Austronesian,,SES,Fox1974,false,,,,B.8,c1100ff
+toabaita,To’aba’ita,toab1237,To'abaita,mlu,Papunesia,-8.39233,160.61899999999997,Austronesian,,SES,Lichtenberk2008,false,,To'aba'ita; To’amba’ita; Toqabaqita,,B.8,ca9c035
+areare,’Are’are,area1240,'Are'are,alu,Papunesia,-9.20699,161.15800000000002,Austronesian,,SES,Geerts1970,false,,'Are'are; ‘Are’are; ’Are’Are; ‘Are‘are; 'Are’are,,B.8,c0e7400
+dorio,Dori’o,dori1246,Dori'o,dor,Papunesia,-9.12,160.90,Austronesian,,SES,,false,,Dori'o; Dorio,,B.8,c0e7400
+marausound,Marau Sound,mara1398,Marau Sound,,Papunesia,-9.78,160.79,Austronesian,,SES,,false,,,dialect of ’Are’are,B.8,c0e7400
+oroha,Oroha,oroh1237,Oroha,ora,Papunesia,-9.74,161.51,Austronesian,,SES,,false,,,,B.8,c0e7400
+saa,Sa’a,saaa1240,Sa'a,apb,Papunesia,-9.60258,161.467,Austronesian,,SES,Ivens1918;Ivens1929,false,,Sa'a; Sa’s,,B.8,c1100ff
+ukinimasi,Uki ni Masi,ukin1237,Uki Ni Masi,,Papunesia,-10.25,161.73,Austronesian,,SES,,false,,,dialect of Sa’a,B.8,c1100ff
+ulawa,Ulawa,ulaw1237,Ulawa,,Papunesia,-9.79,161.97,Austronesian,,SES,Ivens1918,false,,,,B.8,c1100ff
+arosi,Arosi,aros1241,Arosi,aia,Papunesia,-10.2441,161.43200000000002,Austronesian,,SES,Fox1978,false,,"E. Arosi; E Arosi; Arosi (East); Arosi, E",,B.8,c4dbad8
+arosiwest,Arosi (West),aros1241,Arosi,aia,Papunesia,-10.2441,161.43200000000002,Austronesian,,SES,Fox1978,false,,W Arosi,,B.8,c4dbad8
+bauro,Bauro,baur1252,Bauro,bxa,Papunesia,-10.5826,161.863,Austronesian,,SES,,false,,Bauro (West),,B.8,c4dbad8
+fagani,Fagani,faga1239,Fagani,faf,Papunesia,-10.4479,161.662,Austronesian,,SES,,false,,Faghani,,B.8,c4dbad8
+kahua,Kahua,kahu1241,Kahua,agw,Papunesia,-10.70,162.19,Austronesian,,SES,,false,,Kahlua,,B.8,c4dbad8
+owa,Owa,owaa1237,Owa,stn,Papunesia,-10.83,162.30,Austronesian,,SES,Mellow2014,false,,,,B.8,c4dbad8
+santaana,Santa Ana,sant1414,Santa Ana (Solomon Islands),,Papunesia,-10.83,162.30,Austronesian,,SES,,false,,,dialect of Owa,B.8,c4dbad8
+aiwoo,Äiwoo,ayiw1239,Äiwoo,nfl,Papunesia,-10.30,166.32,Austronesian,,TM,,false,,Aiwoo; Reefs,,B.8,c8a33fd
+engdewo,Engdewo,nang1262,Nanggu,ngr,Papunesia,-10.74,165.89,Austronesian,,TM,,false,,Nagu; Nanggu,,B.8,cff6f00
+natugu,Natügu,natu1246,Natügu,ntu,Papunesia,-10.68,165.84,Austronesian,,TM,,false,,Lödäi; Nedö,"= Malo, Lodai, Nedo",B.8,cff6f00
+asuboa,Asuboa,asum1237,Asumboa,aua,Papunesia,-11.30,166.50,Austronesian,,TM,,false,,Asumboa,,B.8,cffff00
+nebao,Nebao,amba1266,Amba (Solomon Islands),utp,Papunesia,-11.30,166.50,Austronesian,,TM,,false,,Aba; Nembao,,B.8,cffff00
+tanibili,Tanibili,tani1255,Tanimbili,tbe,Papunesia,-11.30,166.51,Austronesian,,TM,,false,,Tanabili; Tanimbili,,B.8,cffff00
+burna,Buma,tean1237,Teanu,tkw,Papunesia,-11.68,166.87,Austronesian,,TM,Francois2021,false,,Teanu,= Teanu,B.8,c00fffb
+tanema,Tanema,tane1237,Tanema,tnx,Papunesia,-11.68,166.97,Austronesian,,TM,,false,,Tanima; Tetau,"= Tanima, Tetau",B.8,c00fffb
+vano,Vano,vano1237,Lovono,vnk,Papunesia,-11.61,166.80,Austronesian,,TM,,false,,Vana; Lovono,= Vana,B.8,c00fffb
+hiw,Hiw,hiww1237,Hiw,hiw,Papunesia,-13.126367,166.584857,Austronesian,,NCV,,false,,,,B.9,ced62ff
+loh,Loh,loto1240,Lo-Toga,lht,Papunesia,-13.33,166.63,Austronesian,,NCV,,false,,Lo-Toga; Lo Toga; Toga; Loh-Toga,,B.9,ced62ff
+lehali,Lehali,leha1243,Lehali,tql,Papunesia,-13.50,167.33,Austronesian,,NCV,,false,,,,B.9,te31a1c
+loyop,Löyöp,leha1244,Lehalurup,urr,Papunesia,-13.54,167.34,Austronesian,,NCV,,false,,Loyop; Lehalurup,,B.9,te31a1c
+mwotlap,Mwotlap,motl1237,Mwotlap,mlv,Papunesia,-13.65,167.65,Austronesian,,NCV,Francois2023,false,,Motlav,,B.9,te31a1c
+volow,Volow,volo1238,Volow,,Papunesia,-13.66,167.71,Austronesian,,NCV,,false,,,= dialect of Mwotlap,B.9,te31a1c
+lemerig,Lemerig,leme1238,Lemerig,lrz,Papunesia,-13.74,167.42,Austronesian,,NCV,,false,,Sasar,,B.9,se31a1c
+veraa,Vera’a,vera1241,Vera'a,vra,Papunesia,-13.89,167.43,Austronesian,,NCV,,false,,Vera'a; Veraa; Vatrata,,B.9,se31a1c
+mwesen,Mwesen,mwes1235,Mwesen,,Papunesia,-13.91,167.45,Austronesian,,NCV,,false,,Mosina; Vurës (Mosina),= Mosina,B.9,de31a1c
+vures,Vurës,vure1239,Vurës,msn,Papunesia,-13.91,167.45,Austronesian,,NCV,Malau2016,false,,Vures,,B.9,de31a1c
+mota,Mota,mota1237,Mota,mtt,Papunesia,-13.835361,167.690924,Austronesian,,NCV,CodringtonandPalmer1896,false,,,,B.9,de31a1c
+dorig,Dorig,weta1242,Dorig,wwo,Papunesia,-14.37,167.55,Austronesian,,NCV,,false,,Wetamut,,B.9,ce31a1c
+lakon,Lakon,lako1245,Lakon,lkn,Papunesia,-14.30,167.43,Austronesian,,NCV,,false,,Lakona,,B.9,ce31a1c
+nume,Nume,nume1241,Nume,tgs,Papunesia,-14.23,167.59,Austronesian,,NCV,,false,,Tarasag,,B.9,ce31a1c
+olrat,Olrat,olra1234,Olrat,olr,Papunesia,-14.31,167.43,Austronesian,,NCV,,false,,,,B.9,ce31a1c
+sgaua,South Gaua,koro1318,Koro (Vanuatu),,Papunesia,-14.29,167.47,Austronesian,,NCV,,false,,S Gaua,= Koro,B.9,ce31a1c
+merlav,Merlav,merl1237,Merlav,mrm,Papunesia,-14.45,168.05,Austronesian,,NCV,,false,,Mwerlap,,B.9,ce31a1c
+tolomako,Tolomako,tolo1255,Tolomako,tlm,Papunesia,-15.16,166.77,Austronesian,,NCV,,false,,Matantas; Marino,,B.9,c4996c6
+nokuku,Nokuku,noku1237,Nokuku,nkk,Papunesia,-14.90,166.60,Austronesian,,NCV,,false,,,,B.9,c4996c6
+piamatsina,Piamatsina,piam1242,Piamatsina,ptr,Papunesia,-15.00,166.74,Austronesian,,NCV,,false,,,,B.9,c4996c6
+tasmate,Tasmate,tasm1246,Tasmate,tmt,Papunesia,-15.08,166.66,Austronesian,,NCV,,false,,Meri; Oa,,B.9,c4996c6
+valpei,Valpei,valp1237,Valpei,vlp,Papunesia,-14.71,166.61,Austronesian,,NCV,,false,,,,B.9,c4996c6
+vunapu,Vunapu,vuna1239,Vunapu,vnp,Papunesia,-14.85,166.69,Austronesian,,NCV,,false,,,,B.9,c4996c6
+wusi,Wusi,wusi1237,Kula (Vanuatu),wsi,Papunesia,-15.2786,166.696,Austronesian,,NCV,,false,,Kula,,B.9,c00fffb
+wusinokovula,Wusi (Nokovula),wusi1237,Kula (Vanuatu),wsi,Papunesia,-15.2786,166.696,Austronesian,,NCV,,false,,,,B.9,c00fffb
+merei,Merei,mere1242,Merei,lmb,Papunesia,-15.28,166.91,Austronesian,,NCV,,false,,Lametin; Tiale,,B.9,c00fffb
+akei,Akei,akei1237,Akei,tsr,Papunesia,-15.6377,166.767,Austronesian,,NCV,,false,,Tasiriki,,B.9,c1100ff
+kiai,Kiai,fort1240,Kiai,frt,Papunesia,-15.4484,166.931,Austronesian,,NCV,,false,,Kiai (Tazia); Vara Kiai; Fortsenal,,B.9,c1100ff
+tangoa,Tangoa,tang1347,Movono,tgp,Papunesia,-15.5643,166.95800000000003,Austronesian,,NCV,,false,,,,B.9,c1100ff
+morouas,Morouas,moro1286,Ande,mrp,Papunesia,-15.35,166.89,Austronesian,,NCV,,false,,Ande,,B.9,cb5fcb5
+narango,Narango,nara1263,Narango,nrg,Papunesia,-15.53,167.05,Austronesian,,NCV,,false,,Farsaf; Nambel,,B.9,cb5fcb5
+tambotalo,Tambotalo,tamb1253,Tambotalo,tls,Papunesia,-15.50,167.14,Austronesian,,NCV,,false,,Biliru,,B.9,c0e7400
+sakao,Sakao,port1296,Sakao,,Papunesia,-15.08,167.05,Austronesian,,NCV,,false,,Sara; Sak; Nkep; Hog Harbour,,B.9,c0e7400
+sharkbay,Shark Bay,lore1244,Nethalp,lnn,Papunesia,-15.33,167.17,Austronesian,,NCV,,false,,Ngen,,B.9,c0e7400
+aore,Aore,aore1237,Aore,aor,Papunesia,-15.58,167.17,Austronesian,,NCV,,false,,,,B.9,c19d300
+araki,Araki,arak1252,Araki,akr,Papunesia,-15.63,166.95,Austronesian,,NCV,Francois2002,false,,,,B.9,c19d300
+mafea,Mafea,mafe1237,Mafea,mkv,Papunesia,-15.43,167.24,Austronesian,,NCV,,false,,Mavea; Mav̋ ea; Mav̋ea,,B.9,c19d300
+tamambo,Tamambo,malo1243,Tamambo,mla,Papunesia,-15.6835,167.16,Austronesian,,NCV,Jauncey2011,false,,Malo; Tamabo,= Malo,B.9,c19d300
+tutuba,Tutuba,tutu1241,Tutuba,tmi,Papunesia,-15.58,167.27,Austronesian,,NCV,,false,,,,B.9,c19d300
+ambae,Ambae,east2443,East Ambae,omb,Papunesia,-15.35,167.89,Austronesian,,NCV,Hyslop2001,false,,Aoba; N. E. Aoba; NE Ambae; NEAmbae,= N. E. Aoba,B.9,c19d300
+lolovoli,Lolovoli,east2443,East Ambae,omb,Papunesia,-15.39,167.92,Austronesian,,NCV,Hyslop2001,false,,,dialect of Northeast Ambae,B.9,cffff00
+lolsiwoi,Lolsiwoi,lolo1262,Lolokaro,,Papunesia,-15.31,167.85,Austronesian,,NCV,,false,,,dialect of Northeast Ambae,B.9,cffff00
+lombaha,Lombaha,lomb1262,Lombaha,,Papunesia,-15.31,167.85,Austronesian,,NCV,,false,,"Ambae, NE (Lombaha)",dialect of Northeast Ambae,B.9,cffff00
+longana,Longana,long1396,Longana,,Papunesia,-15.33,167.96,Austronesian,,NCV,,false,,"Ambae, NE (Longana)",dialect of Northeast Ambae,B.9,cffff00
+wambae,West Ambae,west2513,West Ambae,nnd,Papunesia,-15.43,167.81,Austronesian,,NCV,,false,,W Ambae,,B.9,sffff00
+nduindui,Nduindui,west2513,West Ambae,nnd,Papunesia,-15.46,167.69,Austronesian,,NCV,,false,,Duidui; Ngwatua,,B.9,sffff00
+maewo,Maewo,cent2058,Central Maewo,mwo,Papunesia,-15.08,168.13,Austronesian,,NCV,,false,,C Maewo,,B.9,dffff00
+baetora,Baetora,baet1237,Baetora,btr,Papunesia,-15.26,168.16,Austronesian,,NCV,,false,,South Maewo; Singaloge,,B.9,dffff00
+raga,Raga,hano1246,Hano,lml,Papunesia,-15.5432,168.167,Austronesian,,NCV,,false,,Hano,,B.9,dffff00
+sunwadaga,Sungwadaga,mari1426,Sunwadia,mrb,Papunesia,-14.97,168.06,Austronesian,,NCV,,false,,Suñwadaga; Central Maewo,,B.9,dffff00
+maluabay,Malua Bay,malu1254,Malua Bay,,Papunesia,-15.98,167.21,Austronesian,,NCV,,false,,Middle Nambas,,B.10,ced62ff
+nese,Nese,nese1235,Nese,,Papunesia,-15.95,167.22,Austronesian,,NCV,,false,,Matanvat,,B.10,cff007b
+vao,Vao,vaoo1237,Vao-Vovo,vao,Papunesia,-15.90,167.31,Austronesian,,NCV,,false,,,,B.10,cff007b
+atchin,Atchin,atch1238,Atchin,,Papunesia,-16.00951,167.34643,Austronesian,,NCV,,false,,Uripiv (Atchin),,B.10,c4996c6
+rano,Rano,wala1267,Wala-Rano,,Papunesia,-15.99,167.39,Austronesian,,NCV,,false,,,,B.10,c4996c6
+uripiv,Uripiv,urip1240,Uripiv,,Papunesia,-16.00951,167.34643,Austronesian,,NCV,,false,,,,B.10,c4996c6
+unua,Unua,unua1237,Unua,onu,Papunesia,-16.26,167.60,Austronesian,,NCV,Pearce2015,false,,Onua,,B.10,c1100ff
+aulua,Aulua,aulu1238,Aulua,aul,Papunesia,-16.36,167.70,Austronesian,,NCV,,false,,,,B.10,c1100ff
+banambay,Banam Bay,burm1263,Burmbar,vrt,Papunesia,-16.42,167.73,Austronesian,,NCV,,false,,Burmbar; Vartovo,,B.10,c1100ff
+rerep,Rerep,rere1240,Rerep,pgk,Papunesia,-16.29,167.65,Austronesian,,NCV,,false,,Pangkumu; Tisman,,B.10,c1100ff
+avok,Avok,avok1244,Avok,,Papunesia,-16.54,167.77,Austronesian,,NCV,,false,,,,B.10,c87cafd
+axamb,Axamb,axam1237,Axamb,ahb,Papunesia,-16.48,167.71,Austronesian,,NCV,,false,,Ahamb,,B.10,c87cafd
+maskelynes,Maskelynes,mask1242,Maskelynes,klv,Papunesia,-16.51,167.82,Austronesian,,NCV,,false,,Uliveo,,B.10,c87cafd
+nasvang,Nasvang,nasv1234,Nasvang,,Papunesia,-16.46,167.64,Austronesian,,NCV,,false,,,,B.10,c87cafd
+nisvai,Nisvai,nisv1234,Nisvai,,Papunesia,-16.41,167.79,Austronesian,,NCV,,false,,Vetbon,,B.10,c87cafd
+portsandwich,Port Sandwich,port1285,Port Sandwich,psw,Papunesia,-16.4952,167.78,Austronesian,,NCV,,false,,Pt Sandwich; Pt. Sandwich; Lamap,,B.10,c87cafd
+larevat,Larëvat,lare1249,Larevat,lrv,Papunesia,-16.20,167.39,Austronesian,,NCV,,false,,Larevat; Laravat,,B.10,c0e7400
+naman,Naman,litz1237,Naman,lzl,Papunesia,-16.13,167.41,Austronesian,,NCV,,false,,Litzlitz,,B.10,c0e7400
+neveei,Neve’ei,vinm1237,Neve'ei,vnm,Papunesia,-16.23,167.43,Austronesian,,NCV,,false,,Neve'ei; Neveei; Vinmavis,,B.10,c0e7400
+neverver,Neverver,ling1265,Neverver,lgk,Papunesia,-16.20,167.50,Austronesian,,NCV,,false,,Nevwervwer; Lingarak,,B.10,c0e7400
+labo,Labo,labo1244,Ninde,mwi,Papunesia,-16.43,167.44,Austronesian,,NCV,,false,,Ninde,,B.10,c19d300
+nati,Nāti,nati1244,Nati,,Papunesia,-16.47,167.50,Austronesian,,NCV,,false,,Nati,,B.10,c19d300
+bignambas,Big Nambas,bign1238,Big Nambas,nmb,Papunesia,-16.0903,167.23899999999998,Austronesian,,NCV,,false,,V’enen Taut; V’ënen Taut,,B.10,ca9c035
+tirax,Tirax,maee1241,Tirax,mme,Papunesia,-15.99,167.29,Austronesian,,NCV,,false,,Dirak; Mae,,B.10,ca9c035
+tape,Tape,mara1399,Maragus,mrs,Papunesia,-16.07,167.33,Austronesian,,NCV,,false,,Maragus,,B.10,ca9c035
+avava,Avava,katb1237,Avava,tmb,Papunesia,-16.27,167.48,Austronesian,,NCV,,false,,Avava (Niviar ); Katbol; Banga’; Navava,,B.10,cb5fcb5
+lendamboi,Lendamboi,lete1242,Letemboi,,Papunesia,-16.43,167.57,Austronesian,,NCV,,false,,Letemboi,,B.10,cb5fcb5
+nahaai,Naha’ai,malf1237,Na'ahai,mlx,Papunesia,-16.55,167.51,Austronesian,,NCV,,false,,Malfaxal; Naha’ai (Malfaxal),,B.10,cb5fcb5
+nasarian,Nasarian,nasa1240,Nasarian,nvh,Papunesia,-16.35,167.41,Austronesian,,NCV,,false,,,,B.10,cb5fcb5
+navwien,Navwien,navw1234,Navwien,,Papunesia,-16.50,167.55,Austronesian,,NCV,,false,,,,B.10,cb5fcb5
+southwestbay,Southwest Bay,sout2857,Nahavaq,sns,Papunesia,-16.51,167.48,Austronesian,,NCV,,false,,SWBay; Nahavaq; SW Bay; Sinesip,,B.10,cb5fcb5
+apma,Apma,apma1240,Apma,app,Papunesia,-15.86,168.19,Austronesian,,NCV,,false,,Abma,,B.10,cffff00
+sa,Sa,saaa1241,Sa,sax,Papunesia,-15.95,168.23,Austronesian,,NCV,,false,,,,B.10,cffff00
+ske,Ske,seke1241,Seke (Vanuatu),ske,Papunesia,-15.88,168.20,Austronesian,,NCV,,false,,Seke,,B.10,cffff00
+sowa,Sowa,sowa1244,Sowa,sww,Papunesia,-15.83,168.19,Austronesian,,NCV,,false,,,,B.10,cffff00
+daakaka,Daakaka,daka1243,Dakaka,bpa,Papunesia,-16.30,167.98,Austronesian,,NCV,vonPrince2012;vonPrince2017,false,,,dialect of West Ambrym,B.10,ce31a1c
+lonwolwol,Lonwolwol,lonw1238,Lonwolwol,crc,Papunesia,-16.2286,168.016,Austronesian,,NCV,Paton1973,false,,Raljago,dialect of West Ambrym,B.10,ce31a1c
+northambrym,North Ambrym,nort2839,North Ambrym,mmg,Papunesia,-16.17,168.14,Austronesian,,NCV,,false,,"Ambrym, N; N Ambrym",,B.10,ce31a1c
+orkon,Orkon,orko1234,Orkon-Fanbak,fnb,Papunesia,-16.17,168.20,Austronesian,,NCV,,false,,Fanbak,dialect of West Ambrym,B.10,ce31a1c
+paamese,Paamese,paam1238,Paama,pma,Papunesia,-16.47548,168.23693,Austronesian,,NCV,Crowley1992,false,,Paama,,B.10,ce31a1c
+paamesesouth,Paamese (South),sout2858,South Paama,,Papunesia,-16.47548,168.23693,Austronesian,,NCV,,false,,S Paamese,,B.10,ce31a1c
+paamesenorth,Paamese (North),nort2838,North Paama,,Papunesia,-16.48,168.24,Austronesian,,NCV,,false,,N Paamese,,B.10,ce31a1c
+seambrym,Southeast Ambrym,sout2859,Southeast Ambrym,tvk,Papunesia,-16.2975,168.21099999999998,Austronesian,,NCV,Parker1970,false,,SE Ambrym; SEAmbrym; S E Ambrym; S.E. Ambrym,,B.10,ce31a1c
+ambrym,Ambrym,ambr1240,Ambrym,,,-16.2334,168.12233333333333,Austronesian,,NCV,,false,,,,B.10,ce31a1c
+wambrym,West Ambrym,port1293,West Ambrym,,,-16.26,167.93,Austronesian,,NCV,,false,,W Ambrym,,B.10,ce31a1c
+baki,Baki,baki1244,Baki,bki,Papunesia,-16.71,168.16,Austronesian,,NCV,,false,,Paki; Burumba,,B.10,c00fffb
+bieria,Bieria,bier1246,Bieria,brj,Papunesia,-16.79,168.23,Austronesian,,NCV,,false,,Bonkovia-yevali,,B.10,c00fffb
+bierebo,Bierebo,bier1244,Bierebo,bnk,Papunesia,-16.67,168.15,Austronesian,,NCV,,false,,Bieri; Vovo; Wowo,,B.10,c00fffb
+lamen,Lamen,lame1260,Lamenu,lmu,Papunesia,-16.61,168.17,Austronesian,,NCV,,false,,Lamenu; Varmali,,B.10,c00fffb
+lelepa,Lelepa,lele1267,Lelepa,lpa,Papunesia,-17.60,168.20,Austronesian,,NCV,,false,,Havannah Harbour,dialect of Nakanamanga,B.10,c00fffb
+lewo,Lewo,lewo1242,Lewo,lww,Papunesia,-16.7612,168.334,Austronesian,,NCV,,false,,Varsu,,B.10,c00fffb
+nakanamanga,Nakanamanga,nort2836,North Efate,llp,Papunesia,-17.58,168.38,Austronesian,,NCV,,false,,NEfate; North Efate; N Efate,,B.10,c00fffb
+namakir,Namakir,nama1268,Namakura,nmk,Papunesia,-16.8979,168.569,Austronesian,,NCV,Sperlich2019,false,,Makura; Namakura; Namakira,= Namakura,B.10,c00fffb
+nguna,Nguna,ngun1274,Nguna,,Papunesia,-17.5774,168.375,Austronesian,,NCV,,false,,,dialect of Nakanamanga,B.10,c00fffb
+sesake,Sesake,sesa1243,Sesake,,Papunesia,-17.04,168.38,Austronesian,,NCV,,false,,,Dialect of Nakanamanga,B.10,c00fffb
+southefate,South Efate,sout2856,Nafsan,erk,Papunesia,-17.70,168.38,Austronesian,,NCV,Thieberger2006b;Thieberger2011,false,,S. Efate; S Efate; Nafsan; Erakor,,B.10,c00fffb
+efate,Efate,efat1236,Efate,,,-17.65555,168.37575,Austronesian,,NCV,,false,,,,B.10,c00fffb
+sye,Sye,siee1239,Sie,erg,Papunesia,-18.8181,169.166,Austronesian,,SV,Crowley2000;Lynch2001b,false,,Eromango; Sie,"= Sie, Eromango",B.11,c19d300
+ura,Ura,urav1235,Ura (Vanuatu),uur,Papunesia,-18.6747,169.084,Austronesian,,SV,Lynch1983,false,,,,B.11,c19d300
+utaha,Utaha,ifoo1237,Ifo,iff,Papunesia,-18.72,169.01,Austronesian,,SV,Lynch1983d,false,,Ifo,,B.11,c19d300
+kwamera,Kwamera,kwam1252,Kwamera,tnk,Papunesia,-19.5954,169.442,Austronesian,,SV,Lindstrom1981;Lindstrom1986,false,,Nafe; Nife,,B.11,c1100ff
+lenakel,Lenakel,lena1238,Lenakel,tnl,Papunesia,-19.4763,169.261,Austronesian,,SV,Lynch1977,false,,Netvaar,,B.11,c1100ff
+ntanna,North Tanna,nort2847,North Tanna,tnn,Papunesia,-19.3733,169.303,Austronesian,,SV,,false,,N Tanna; N. Tanna,,B.11,c1100ff
+swtanna,Southwest Tanna,sout2869,Southwest Tanna,nwi,Papunesia,-19.57953,169.35603000000003,Austronesian,,SV,Lynch1982,false,,SW Tanna; SWTanna; S W Tanna; S.W. Tanna; Nawal,,B.11,c1100ff
+whitesands,Whitesands,whit1269,Whitesands,tnp,Papunesia,-19.50,169.38,Austronesian,,SV,,false,,White sands; Narak,,B.11,c1100ff
+anejom,Anejom̃,anei1239,Aneityum,aty,Papunesia,-20.19,169.82,Austronesian,,SV,LynchandTepahae2001,false,,Anejom; Aneityum; Aneityom,= Aneityum,B.11,ce31a1c
+dehu,Dehu,dehu1237,Dehu,dhv,Papunesia,-20.8892,167.22899999999998,Austronesian,,NCal,Tryon1967,false,,Drehu,,B.12,c0e7400
+iaai,Iaai,iaai1238,Iaai,iai,Papunesia,-20.63,166.59,Austronesian,,NCal,OzanneRivierre1984,false,,,,B.12,ced62ff
+nengone,Nengone,neng1238,Nengone,nen,Papunesia,-21.5305,167.964,Austronesian,,NCal,TryonandDubois1969,false,,,,B.12,cd37c7c
+belep,Belep,nyal1254,Belep,yly,Papunesia,-19.72,163.66,Austronesian,,NCal,McCracken2012,false,,,,B.12,ce31a1c
+caaac,Caaàc,caac1237,Caac,msq,Papunesia,-20.41,164.58,Austronesian,,NCal,,false,,Caaac; Caac,,B.12,ce31a1c
+fwai,Fwâi,fwai1237,Fwâi,fwa,Papunesia,-20.69,164.90,Austronesian,,NCal,HaudricourtandOzanneRivierre1982,false,,Fwai,,B.12,ce31a1c
+jawe,Jawe,jawe1237,Jawe,jaz,Papunesia,-20.66,164.68,Austronesian,,NCal,HaudricourtandOzanneRivierre1982,false,,,,B.12,ce31a1c
+pije,Pije,pije1237,Pije,piz,Papunesia,-20.7824,164.942,Austronesian,,NCal,HaudricourtandOzanneRivierre1982,false,,,,B.12,ce31a1c
+pwapwa,Pwapwâ,pwap1237,Pwapwa,pop,Papunesia,-20.81,164.56,Austronesian,,NCal,,false,,Pwapwa,,B.12,ce31a1c
+nemi,Nemi,nemi1240,Nemi,nem,Papunesia,-20.6791,164.797,Austronesian,,NCal,HaudricourtandOzanneRivierre1982,false,,,,B.12,ce31a1c
+nelemwa,Nêlêmwa,nene1250,Nenema,,Papunesia,-20.24,164.03,Austronesian,,NCal,,false,,Nelemwa; Nêlêmwâ,,B.12,ce31a1c
+nixumwak,Nixumwak,nucl1483,Kumak,,Papunesia,-20.40,164.19,Austronesian,,NCal,,false,,Koumak; Koumac; Kumak,,B.12,ce31a1c
+nyelayu,Nyelâyu,bala1316,Balade,,Papunesia,-20.25,164.20,Austronesian,,NCal,OzanneRivierre1998,false,,Nyelayu,,B.12,ce31a1c
+pwaamei,Pwaamei,pwaa1237,Pwaamei,pme,Papunesia,-20.84,164.77,Austronesian,,NCal,,false,,,,B.12,ce31a1c
+yuanga,Yuanga,yuag1237,Yuaga,nua,Papunesia,-20.57,164.51,Austronesian,,NCal,,false,,,,B.12,ce31a1c
+vohkone,Voh-Koné,vohk1234,Voh-Kone,,,-20.7991,164.77058,Austronesian,,NCal,,false,,Voh-Kone,,B.12,ce31a1c
+bwatoo,Bwatoo,bwat1240,Bwatoo,bwa,Papunesia,-21.16,164.82,Austronesian,,NCal,,false,,,,B.12,ce31a1c
+wahmwaang,Wahmwaang,waam1236,Waamwang,wmn,Papunesia,-20.50,164.41,Austronesian,,NCal,,false,,,,B.12,ce31a1c
+cemuhi,Cèmuhî,cemu1238,Cemuhî,cam,Papunesia,-20.85,165.13,Austronesian,,NCal,Rivierre1994,false,,Cemuhi,,B.12,c00fffb
+paici,Paicî,paic1239,Paicî,pri,Papunesia,-21.10,165.15,Austronesian,,NCal,Rivierre1983,false,,Paici,,B.12,c00fffb
+ajie,Ajië,ajie1238,Ajië,aji,Papunesia,-21.30,165.47,Austronesian,,NCal,,false,,Ajie,,B.12,c8a33fd
+oroe,Ôrôe,orow1242,Orowe,bpk,Papunesia,-21.46,165.47,Austronesian,,NCal,,false,,,,B.12,c8a33fd
+tiri,Tîrî,tiri1261,Tiri,,Papunesia,-21.72,165.81,Austronesian,,NCal,,false,,Tinrin; Grand Couli,,B.12,c19d300
+xaracuu,Xârâcùù,xara1244,Xârâcùù,ane,Papunesia,-21.7034,165.996,Austronesian,,NCal,MoyseFaurieetal1986,false,,Xaracuu; Canala,,B.12,c19d300
+xaragure,Xârâgurè,xara1243,Xaragure,axx,Papunesia,-21.82,166.38,Austronesian,,NCal,,false,,,,B.12,c19d300
+drubea,Drubea,dumb1241,Dumbea,duf,Papunesia,-22.09,166.53,Austronesian,,NCal,PaitaandShintani1983,false,,Païta,,B.12,cffff00
+kwenyii,Kwênyii,kwen1247,Kwenyii,,Papunesia,-22.55,167.44,Austronesian,,NCal,,false,,,,B.12,cffff00
+nauruan,Nauruan,naur1243,Nauru,nau,Papunesia,-0.53,166.92,Austronesian,,Mic,,false,,,,B.13,c6100fd
+kosraean,Kosraean,kosr1238,Kosraean,kos,Papunesia,5.31,162.98000000000002,Austronesian,,Mic,Lee1976,false,,Kusaeian,= Kusaeian,B.13,c00fffb
+kiribati,Kiribati,gilb1244,Gilbertese,gil,Papunesia,0.179,173.64,Austronesian,,Mic,Sabatier1971,false,,Gilbertese; Kiribatese; Kiribati (Butaritari-Makin),"= Kiribati, Gilbertese",B.13,c19d300
+marshallese,Marshallese,mars1254,Marshallese,mah,Papunesia,8.72,167.73,Austronesian,,Mic,Aboetal1976,false,,Marshallese (Namu),,B.13,cffff00
+mokilese,Mokilese,moki1238,Mokilese,mkj,Papunesia,6.65651,159.77599999999998,Austronesian,,Mic,Harrisonandalbert1977,false,,,,B.13,c0e7400
+ponapean,Ponapean,pona1249,Ponapean,,Papunesia,7.25,158.27,Austronesian,,Mic,,false,,Pohnpeian; Ponape,,B.13,c0e7400
+pingelapese,Pingelapese,ping1243,Pingelapese,pif,Papunesia,6.21,160.71,Austronesian,,Mic,GoodandWelley1989,false,,,,B.13,c0e7400
+puloannian,Pulo Annian,pulo1240,Pulo Anna,,Papunesia,5.52,132.05,Austronesian,,Mic,,false,,Pulo-Annan; Polo Annian; Pulo Anna,dialect of Sonsorolese,B.13,cff1d21
+sonsorolese,Sonsorolese,sons1242,Sonsorol,sov,Papunesia,5.33,132.22,Austronesian,,Mic,Capell1969,false,,Sonsorol,,B.13,cff1d21
+ulithian,Ulithian,ulit1238,Ulithian,uli,Papunesia,9.961388,139.60361099999997,Austronesian,,Mic,,false,,Ulithi,,B.13,cff1d21
+woleaian,Woleaian,wole1240,Woleaian,woe,Papunesia,7.37957,143.916,Austronesian,,Mic,SohnandTawerilmang1976,false,,Woleai; Woleiaian; Ifaluk,,B.13,cff1d21
+lamotrek,Lamotrek,lamo1243,Lamotrek,,Papunesia,7.38,143.92,Austronesian,,Mic,,false,,,Dialect of Woleaian,B.13,cff1d21
+chuukese,Chuukese,chuu1238,Chuukese,chk,Papunesia,7.346993,151.59860700000002,Austronesian,,Mic,GoodenoughandSugita1990,false,,Trukese; Chuukic; Chuuukese,,B.13,ced62ff
+mortlockese,Mortlockese,mort1237,Mortlockese,mrl,Papunesia,5.50735,153.71077799999998,Austronesian,,Mic,,false,,L. Mortlockese; Mortlock,,B.13,ced62ff
+namoluk,Namoluk,mort1237,Mortlockese,mrl,Papunesia,4.62,154.31,Austronesian,,Mic,,false,,,= dialect of Mortlockese,B.13,ced62ff
+puluwatese,Puluwatese,pulu1242,Puluwatese,puw,Papunesia,7.35695,149.20049999999998,Austronesian,,Mic,Elbert1972;Elbert1974,false,,Puluwat,,B.13,ced62ff
+carolinian,Carolinian,caro1242,Carolinian,cal,Papunesia,15.205,145.765,Austronesian,,Mic,JacksonandMarck1991,false,,Saipan Carolinian,,B.13,cf1b5cf
+taroliniantanapag,Carolinian (Tanapag),tana1281,Tanapag,tpv,Papunesia,15.24,145.76,Austronesian,,Mic,,false,,Tanapag Carolinian,,B.13,cf1b5cf
+satawalese,Satawalese,sata1237,Satawalese,stw,Papunesia,7.36084,147.038,Austronesian,,Mic,,false,,Satawal,,B.13,cf1b5cf
 pi,pi,,,,,,,,,Mic,,false,,,,,
-rotuman,Rotuman,rotu1241,Rotuman,,,-12.5008,177.066,,,Fij,Churchward1940,false,,Rotuma,,B.15,cffffff
-wfijian,Western Fijian dialects,west2519,Western Viti Levu-Yasawas Fijian,,,-17.84,177.66,,,Fij,,false,,W. Fijian,,B.14,ce31a1c
-ba,Bā,west2518,Western Fijian,,,-17.53,177.68,,,Fij,,false,,Ba,,B.14,ce31a1c
-lautoka,Lautoka,west2519,Western Viti Levu-Yasawas Fijian,,,-17.84,177.66,,,Fij,,false,,,,B.14,ce31a1c
-deuba,Deuba,west2518,Western Fijian,,,-18.25,177.89,,,Fij,,false,,"Fijian, W (Deuba)",,B.14,ce31a1c
-nadroga,Nadrogā,nadr1235,Nadrogaa,,,-18.04,177.42,,,Fij,,false,,"Nadroga; Fijian, W (Nadrogā); Nadrogaa",,B.14,ce31a1c
-tavuki,Tavuki,west2518,Western Fijian,,,-19.08,178.11,,,Fij,,false,,,,B.14,ce31a1c
-tokatoka,Tokatoka,west2518,Western Fijian,,,-17.75,177.45,,,Fij,,false,,,,B.14,ce31a1c
-vuda,Vuda,west2518,Western Fijian,,,-17.62,177.46,,,Fij,,false,,,,B.14,ce31a1c
-wayan,Wayan,waya1268,Waya (Western Fijian),,,-17.29,177.12,,,Fij,PawleyandSayaba2022,false,,"Wayan (Viwa); Wayan Fijian; Fijian, W (Wayan)",,B.14,ce31a1c
-wvitilevu,West Viti Levu,west2518,Western Fijian,,,,,,,Fij,,false,,W Viti Levu,,B.14,ce31a1c
-yasawa,Yasawa,waya1268,Waya (Western Fijian),,,-16.83,177.46,,,Fij,PawleyandSayaba2022,false,,,,B.14,ce31a1c
-nadi,Nadi,west2518,Western Fijian,,,-18.183149999999998,177.647,,,Fij,,false,,,,B.14,ce31a1c
-efijian,Eastern Fijian dialects,east2446,Eastern Fijian,,,,,,,Fij,,false,,E Fijian,,B.14,c1100ff
-bauanfijian,Bauan,fiji1243,Fijian,,,-18.00, 178.33,,,Fij,Capell1941;Dixon1988,false,,"Fijian; Standard Fijian; Bauan Fijian; Fijian, E (Bauan)",= Standard Fijian,B.14,c1100ff
-boumaa,Boumā,east2446,Eastern Fijian,,,-16.83,-179.88,,,Fij,,false,,Boumā Fijian; Bouma; Boumaa,,B.14,c1100ff
-bua,Bua,east2446,Eastern Fijian,,,-16.88,178.83,,,Fij,,false,,,,B.14,c1100ff
-bucabay,Buca Bay,east2446,Eastern Fijian,,,-16.65,179.84,,,Fij,,false,,,,B.14,c1100ff
-kadavu,Kadavu,kada1285,Kadavu,,,-18.99,178.36,,,Fij,,false,,Nabukelevu,,B.14,c1100ff
+rotuman,Rotuman,rotu1241,Rotuman,rtm,Papunesia,-12.5008,177.066,Austronesian,,Fij,Churchward1940,false,,Rotuma,,B.15,cffffff
+wfijian,Western Fijian dialects,west2519,Western Viti Levu-Yasawas Fijian,wyy,Papunesia,-17.84,177.66,Austronesian,,Fij,,false,,W. Fijian,,B.14,ce31a1c
+ba,Bā,west2518,Western Fijian,,,-17.53,177.68,Austronesian,,Fij,,false,,Ba,,B.14,ce31a1c
+lautoka,Lautoka,west2519,Western Viti Levu-Yasawas Fijian,wyy,Papunesia,-17.84,177.66,Austronesian,,Fij,,false,,,,B.14,ce31a1c
+deuba,Deuba,west2518,Western Fijian,,,-18.25,177.89,Austronesian,,Fij,,false,,"Fijian, W (Deuba)",,B.14,ce31a1c
+nadroga,Nadrogā,nadr1235,Nadrogaa,,Papunesia,-18.04,177.42,Austronesian,,Fij,,false,,"Nadroga; Fijian, W (Nadrogā); Nadrogaa",,B.14,ce31a1c
+tavuki,Tavuki,west2518,Western Fijian,,,-19.08,178.11,Austronesian,,Fij,,false,,,,B.14,ce31a1c
+tokatoka,Tokatoka,west2518,Western Fijian,,,-17.75,177.45,Austronesian,,Fij,,false,,,,B.14,ce31a1c
+vuda,Vuda,west2518,Western Fijian,,,-17.62,177.46,Austronesian,,Fij,,false,,,,B.14,ce31a1c
+wayan,Wayan,waya1268,Waya (Western Fijian),,Papunesia,-17.29,177.12,Austronesian,,Fij,PawleyandSayaba2022,false,,"Wayan (Viwa); Wayan Fijian; Fijian, W (Wayan)",,B.14,ce31a1c
+wvitilevu,West Viti Levu,west2518,Western Fijian,,,,,Austronesian,,Fij,,false,,W Viti Levu,,B.14,ce31a1c
+yasawa,Yasawa,waya1268,Waya (Western Fijian),,Papunesia,-16.83,177.46,Austronesian,,Fij,PawleyandSayaba2022,false,,,,B.14,ce31a1c
+nadi,Nadi,west2518,Western Fijian,,,-18.183149999999998,177.647,Austronesian,,Fij,,false,,,,B.14,ce31a1c
+efijian,Eastern Fijian dialects,east2446,Eastern Fijian,,,,,Austronesian,,Fij,,false,,E Fijian,,B.14,c1100ff
+bauanfijian,Bauan,fiji1243,Fijian,fij,Papunesia,-18.00, 178.33,Austronesian,,Fij,Capell1941;Dixon1988,false,,"Fijian; Standard Fijian; Bauan Fijian; Fijian, E (Bauan)",= Standard Fijian,B.14,c1100ff
+boumaa,Boumā,east2446,Eastern Fijian,,,-16.83,-179.88,Austronesian,,Fij,,false,,Boumā Fijian; Bouma; Boumaa,,B.14,c1100ff
+bua,Bua,east2446,Eastern Fijian,,,-16.88,178.83,Austronesian,,Fij,,false,,,,B.14,c1100ff
+bucabay,Buca Bay,east2446,Eastern Fijian,,,-16.65,179.84,Austronesian,,Fij,,false,,,,B.14,c1100ff
+kadavu,Kadavu,kada1285,Kadavu,,Papunesia,-18.99,178.36,Austronesian,,Fij,,false,,Nabukelevu,,B.14,c1100ff
 laueasternfijian,Lau (Eastern Fijian),,,,,,,,,Fij,,false,,,,B.14,c1100ff
-lomaiviti,Lomaiviti,loma1261,Lomaiviti,,,-18.00,179.31,,,Fij,,false,,,,B.14,c1100ff
-moala,Moala,east2446,Eastern Fijian,,,-18.59,179.88,,,Fij,,false,,,,B.14,c1100ff
-nadrau,Nadrau,nadr1234,Nadrau,,,-17.71,177.95,,,Fij,,false,,,,B.14,c1100ff
-namosi,Namosi,namo1250,Namosi,,,-18.00, 178.33,,,Fij,,false,,,,B.14,c1100ff
-ovalau,Ovalau,east2446,Eastern Fijian,,,-17.67,178.83,,,Fij,,false,,,,B.14,c1100ff
-rakiraki,Rakiraki,east2446,Eastern Fijian,,,-17.36,178.16,,,Fij,,false,,,,B.14,c1100ff
-rewa,Rewa,east2446,Eastern Fijian,,,-18.12,178.32,,,Fij,,false,,,,B.14,c1100ff
-taveuni,Taveuni,fiji1243,Fijian,,,-16.88,-179.93,,,Fij,Capell1941;Dixon1988,false,,"Lau, Taveuni",,B.14,c1100ff
-verata,Verata,east2898,East Viti Levu,,,-17.86,178.58,,,Fij,,false,,,,B.14,c1100ff
-vanualevu,Vanua Levu,nucl1825,Nuclear Vanua Levu,,,-16.78,178.74,,,Fij,,false,,"Lau, Vanua Levu",,B.14,c1100ff
+lomaiviti,Lomaiviti,loma1261,Lomaiviti,lmv,Papunesia,-18.00,179.31,Austronesian,,Fij,,false,,,,B.14,c1100ff
+moala,Moala,east2446,Eastern Fijian,,,-18.59,179.88,Austronesian,,Fij,,false,,,,B.14,c1100ff
+nadrau,Nadrau,nadr1234,Nadrau,,Papunesia,-17.71,177.95,Austronesian,,Fij,,false,,,,B.14,c1100ff
+namosi,Namosi,namo1250,Namosi,,Papunesia,-18.00, 178.33,Austronesian,,Fij,,false,,,,B.14,c1100ff
+ovalau,Ovalau,east2446,Eastern Fijian,,,-17.67,178.83,Austronesian,,Fij,,false,,,,B.14,c1100ff
+rakiraki,Rakiraki,east2446,Eastern Fijian,,,-17.36,178.16,Austronesian,,Fij,,false,,,,B.14,c1100ff
+rewa,Rewa,east2446,Eastern Fijian,,,-18.12,178.32,Austronesian,,Fij,,false,,,,B.14,c1100ff
+taveuni,Taveuni,fiji1243,Fijian,fij,Papunesia,-16.88,-179.93,Austronesian,,Fij,Capell1941;Dixon1988,false,,"Lau, Taveuni",,B.14,c1100ff
+verata,Verata,east2898,East Viti Levu,,Papunesia,-17.86,178.58,Austronesian,,Fij,,false,,,,B.14,c1100ff
+vanualevu,Vanua Levu,nucl1825,Nuclear Vanua Levu,,Papunesia,-16.78,178.74,Austronesian,,Fij,,false,,"Lau, Vanua Levu",,B.14,c1100ff
 wailevu,Wailevu,,,,,,,,,Fij,,false,,,,B.14,c1100ff
-manydialects,(many dialects),west2519,Western Viti Levu-Yasawas Fijian,,,-17.84,177.66,,,Fij,,false,,(unspecified),,B.14,ce31a1c
-dialectunknown,(dialect unknown),west2519,Western Viti Levu-Yasawas Fijian,,,-17.84,177.66,,,Fij,,false,,,,B.14,ce31a1c
-niuean,Niuean,niue1239,Niuean,,,-19.06,-169.86,,,Pn,Sperlich1997,false,,Niue,,B.15,ce31a1c
-niuatoputapu,Niuatoputapu,niua1241,Niuatoputapu,,,-15.96,-173.78,,,Pn,,false,,,,B.15,ce31a1c
-tongan,Tongan,tong1325,Tonga (Tonga Islands),,,-21.17,-175.25,,,Pn,Churchward1959,false,,Tonga,,B.15,ce31a1c
-eastuvean,East Uvean,wall1257,East Uvean,,,-13.29,-176.21,,,Pn,Rensch1986,false,,E. Uvean; E Uvean; Uvean; E Uvea,,B.15,c8a33fd
-eastfutunan,East Futunan,east2447,East Futuna,,,-14.28,-178.14,,,Pn,,false,,"E. Futunan; E Futunan; E Futuna; Futunan; Futuna, E",,B.15,c8a33fd
-nanumean,Nanumea,nort2844,North Tuvaluan,,,-5.66,176.10,,,Pn,,false,,Nanumean,dialect of Tuvalu,B.15,c8a33fd
-niuafoou,Niuafo’ou,niua1240,Niuafo'ou,,,-15.60,-175.64,,,Pn,,false,,,,B.15,c8a33fd
-pukapukan,Pukapukan,puka1242,Pukapuka,,,-10.91,-165.83,,,Pn,,false,,Pukapuka,,B.15,c8a33fd
-samoan,Samoan,samo1305,Samoan,,,-13.92,-171.83,,,Pn,Milner1966;Pratt1862,false,,,,B.15,c8a33fd
-tokelauan,Tokelauan,toke1240,Tokelau,,,-9.227642,-171.780833,,,Pn,Simona1986,false,,Tokelau; Tokelauanan; Tokelaun,,B.15,c8a33fd
-tuvalu,Tuvalu,tuva1244,Tuvalu,,,-8.520813,179.198088,,,Pn,Ranby1980,false,,Ellicean; Tuvaluan,= Ellicean,B.15,c8a33fd
-aniwa,Aniwa,aniw1237,Aniwa,,,-19.25,169.60,,,Pn,,false,,,,B.15,c1100ff
-emae,Emae,emae1237,Emae,,,-17.052,168.399,,,Pn,,false,,Makatea,,B.15,c1100ff
-ifiramele,Ifira-Mele,mele1250,Mele-Fila,,,-17.6841,168.274,,,Pn,Clark1998,false,,Mele-Fila; Imere; Mele Fila,"= Mele-Fila, Imere-Ifira",B.15,c1100ff
-westfutunan,West Futunan,futu1245,Futuna-Aniwa,,,-19.53,170.22,,,Pn,,false,,"Futuna-Aniwa; W. Futunan; W Futunan; W.Futunan; WFutunan; W Futuna; Futuna, W",= Futuna-Aniwa,B.15,c1100ff
-westuvean,West Uvea,west2516,West Uvean,,,-20.41,166.59,,,Pn,,false,,W Uvea; W. Uvean; W Uvean; WUvean; West Uvean,,B.15,c1100ff
-anutan,Anutan,anut1237,Anuta,,,-11.61,169.85000000000002,,,Pn,,false,,Anuta,,B.15,c4996c6
-rennellese,Rennellese,renn1242,Rennell-Bellona,,,-11.6237,160.265,,,Pn,,false,,Mungava; Rennell,,B.15,c4996c6
-bellona,Bellona,mung1270,Mungiki,,,-11.6237,160.265,,,Pn,,false,,Munggiki; Rennellese (Bellona),,B.15,c4996c6
-pileni,Pileni,pile1238,Vaeakau-Taumako,,,-10.17,166.25,,,Pn,,false,,Pileni (= Vaeakau-Taumako),,B.15,c4996c6
-tikopia,Tikopia,tiko1237,Tikopia,,,-12.2766,168.82200000000003,,,Pn,Firth1985,false,,Tikopian,,B.15,c4996c6
-kapingamarangi,Kapingamarangi,kapi1249,Kapingamarangi,,,1.039166,154.797223,,,Pn,,false,,K’marangi; K'marangi; Kapinga; K‘marangi; K’maringi,,B.15,c0e7400
-nukuoro,Nukuoro,nuku1260,Nukuoro,,,3.84,154.975,,,Pn,CarrollandSoulik1973,false,,,,B.15,c0e7400
-luangiua,Luangiua,onto1237,Luangiua,,,-5.49029,159.701,,,Pn,,false,,Ontong Java; Luangiua (= Ontong Java),,B.15,c19d300
-nukumanu,Nukumanu,nuku1258,Nukumanu,,,-4.58,159.49,,,Pn,,false,,,,B.15,c19d300
-nukuria,Nukuria,nuku1259,Nukuria,,,-3.40038,154.731,,,Pn,,false,,Nuguria,,B.15,c19d300
-takuu,Takuu,taku1257,Takuu,,,-4.773094,157.032085,,,Pn,,false,,,,B.15,c19d300
-sikaiana,Sikaiana,sika1261,Sikaiana,,,-8.38,162.73,,,Pn,Donner2012,false,,Sikiana,,B.15,cb5fcb5
-hawaiian,Hawaiian,hawa1245,Hawaiian,,,19.6297,-155.43,,,Pn,PukuiElbert1971;PukuiandElbert1986,false,,Hawaii,,B.15,cffff00
-mangaia,Mangaia,mang1402,Mangaia,,,-21.92,-157.90,,,Pn,,false,,Mangaian,dialect of Rarotongan,B.15,cffff00
-mangareva,Mangarevan,mang1401,Mangareva,,,-23.1095,-134.97,,,Pn,,false,,Mangareva,,B.15,cffff00
-manihiki,Manihiki,raka1237,Rakahanga-Manihiki,,,-10.03,-161.09,,,Pn,,false,,Manihiki-Rakahanga,,B.15,cffff00
-maori,Māori,maor1246,Maori,,,-38.2881,176.541,,,Pn,Williams1971,false,,Maori; Maori (Aupōuri); Maori (South Island),,B.15,cffff00
-moriori,Moriori,mori1267,Moriori,,,-44.00,-176.50,,,Pn,,false,,,,B.15,cffff00
-marquesan,Marquesan,marq1246,Marquesan,,,-8.954196872999944,-139.6167699859999,,,Pn,,false,,Marquesas,,B.15,cffff00
-rapa,Rapa,oldr1239,Old Rapa,,,-27.63,-144.34,,,Pn,,false,,,,B.15,cffff00
-rapanui,Rapanui,rapa1244,Rapanui,,,-27.113,-109.342,,,Pn,,false,,Easter Island,= Easter Island,B.15,cffff00
-rarotongan,Rarotongan,raro1242,Rarotonga,,,-21.23,-159.78,,,Pn,,false,,,,B.15,cffff00
-rurutu,Rurutu,ruru1237,Rurutu,,,-22.48,-151.34,,,Pn,,false,,Rurutuan,,B.15,cffff00
-tahitian,Tahitian,tahi1242,Tahitian,,,-17.6485,-149.45000000000002,,,Pn,,false,,,,B.15,cffff00
-oldtahitian,Old Tahitian,tahi1242,Tahitian,,,-17.6485,-149.45000000000002,,,Pn,,false,,,,B.15,cffff00
-tongareva,Tongarevan,penr1237,Māngarongaro,,,-9.082238,-157.92290800000004,,,Pn,,false,,Penrhyn; Tongareva; Tongarevan (= Penrhyn),= Penrhyn,B.15,cffff00
-tuamotuan,Tuamotuan,tuam1242,Tuamotuan,,,-16.17259,-146.321755,,,Pn,,false,,Tuamotu,,B.15,cffff00
+manydialects,(many dialects),west2519,Western Viti Levu-Yasawas Fijian,wyy,Papunesia,-17.84,177.66,Austronesian,,Fij,,false,,(unspecified),,B.14,ce31a1c
+dialectunknown,(dialect unknown),west2519,Western Viti Levu-Yasawas Fijian,wyy,Papunesia,-17.84,177.66,Austronesian,,Fij,,false,,,,B.14,ce31a1c
+niuean,Niuean,niue1239,Niuean,niu,Papunesia,-19.06,-169.86,Austronesian,,Pn,Sperlich1997,false,,Niue,,B.15,ce31a1c
+niuatoputapu,Niuatoputapu,niua1241,Niuatoputapu,nkp,Papunesia,-15.96,-173.78,Austronesian,,Pn,,false,,,,B.15,ce31a1c
+tongan,Tongan,tong1325,Tonga (Tonga Islands),ton,Papunesia,-21.17,-175.25,Austronesian,,Pn,Churchward1959,false,,Tonga,,B.15,ce31a1c
+eastuvean,East Uvean,wall1257,East Uvean,wls,Papunesia,-13.29,-176.21,Austronesian,,Pn,Rensch1986,false,,E. Uvean; E Uvean; Uvean; E Uvea,,B.15,c8a33fd
+eastfutunan,East Futunan,east2447,East Futuna,fud,Papunesia,-14.28,-178.14,Austronesian,,Pn,,false,,"E. Futunan; E Futunan; E Futuna; Futunan; Futuna, E",,B.15,c8a33fd
+nanumean,Nanumea,nort2844,North Tuvaluan,,Papunesia,-5.66,176.10,Austronesian,,Pn,,false,,Nanumean,dialect of Tuvalu,B.15,c8a33fd
+niuafoou,Niuafo’ou,niua1240,Niuafo'ou,num,Papunesia,-15.60,-175.64,Austronesian,,Pn,,false,,,,B.15,c8a33fd
+pukapukan,Pukapukan,puka1242,Pukapuka,pkp,Papunesia,-10.91,-165.83,Austronesian,,Pn,,false,,Pukapuka,,B.15,c8a33fd
+samoan,Samoan,samo1305,Samoan,smo,Papunesia,-13.92,-171.83,Austronesian,,Pn,Milner1966;Pratt1862,false,,,,B.15,c8a33fd
+tokelauan,Tokelauan,toke1240,Tokelau,tkl,Papunesia,-9.227642,-171.780833,Austronesian,,Pn,Simona1986,false,,Tokelau; Tokelauanan; Tokelaun,,B.15,c8a33fd
+tuvalu,Tuvalu,tuva1244,Tuvalu,tvl,Papunesia,-8.520813,179.198088,Austronesian,,Pn,Ranby1980,false,,Ellicean; Tuvaluan,= Ellicean,B.15,c8a33fd
+aniwa,Aniwa,aniw1237,Aniwa,,Papunesia,-19.25,169.60,Austronesian,,Pn,,false,,,,B.15,c1100ff
+emae,Emae,emae1237,Emae,mmw,Papunesia,-17.052,168.399,Austronesian,,Pn,,false,,Makatea,,B.15,c1100ff
+ifiramele,Ifira-Mele,mele1250,Mele-Fila,mxe,Papunesia,-17.6841,168.274,Austronesian,,Pn,Clark1998,false,,Mele-Fila; Imere; Mele Fila,"= Mele-Fila, Imere-Ifira",B.15,c1100ff
+westfutunan,West Futunan,futu1245,Futuna-Aniwa,fut,Papunesia,-19.53,170.22,Austronesian,,Pn,,false,,"Futuna-Aniwa; W. Futunan; W Futunan; W.Futunan; WFutunan; W Futuna; Futuna, W",= Futuna-Aniwa,B.15,c1100ff
+westuvean,West Uvea,west2516,West Uvean,uve,Papunesia,-20.41,166.59,Austronesian,,Pn,,false,,W Uvea; W. Uvean; W Uvean; WUvean; West Uvean,,B.15,c1100ff
+anutan,Anutan,anut1237,Anuta,aud,Papunesia,-11.61,169.85000000000002,Austronesian,,Pn,,false,,Anuta,,B.15,c4996c6
+rennellese,Rennellese,renn1242,Rennell-Bellona,mnv,Papunesia,-11.6237,160.265,Austronesian,,Pn,,false,,Mungava; Rennell,,B.15,c4996c6
+bellona,Bellona,mung1270,Mungiki,,Papunesia,-11.6237,160.265,Austronesian,,Pn,,false,,Munggiki; Rennellese (Bellona),,B.15,c4996c6
+pileni,Pileni,pile1238,Vaeakau-Taumako,piv,Papunesia,-10.17,166.25,Austronesian,,Pn,,false,,Pileni (= Vaeakau-Taumako),,B.15,c4996c6
+tikopia,Tikopia,tiko1237,Tikopia,tkp,Papunesia,-12.2766,168.82200000000003,Austronesian,,Pn,Firth1985,false,,Tikopian,,B.15,c4996c6
+kapingamarangi,Kapingamarangi,kapi1249,Kapingamarangi,kpg,Papunesia,1.039166,154.797223,Austronesian,,Pn,,false,,K’marangi; K'marangi; Kapinga; K‘marangi; K’maringi,,B.15,c0e7400
+nukuoro,Nukuoro,nuku1260,Nukuoro,nkr,Papunesia,3.84,154.975,Austronesian,,Pn,CarrollandSoulik1973,false,,,,B.15,c0e7400
+luangiua,Luangiua,onto1237,Luangiua,ojv,Papunesia,-5.49029,159.701,Austronesian,,Pn,,false,,Ontong Java; Luangiua (= Ontong Java),,B.15,c19d300
+nukumanu,Nukumanu,nuku1258,Nukumanu,nuq,Papunesia,-4.58,159.49,Austronesian,,Pn,,false,,,,B.15,c19d300
+nukuria,Nukuria,nuku1259,Nukuria,nur,Papunesia,-3.40038,154.731,Austronesian,,Pn,,false,,Nuguria,,B.15,c19d300
+takuu,Takuu,taku1257,Takuu,nho,Papunesia,-4.773094,157.032085,Austronesian,,Pn,,false,,,,B.15,c19d300
+sikaiana,Sikaiana,sika1261,Sikaiana,sky,Papunesia,-8.38,162.73,Austronesian,,Pn,Donner2012,false,,Sikiana,,B.15,cb5fcb5
+hawaiian,Hawaiian,hawa1245,Hawaiian,haw,Papunesia,19.6297,-155.43,Austronesian,,Pn,PukuiElbert1971;PukuiandElbert1986,false,,Hawaii,,B.15,cffff00
+mangaia,Mangaia,mang1402,Mangaia,,Papunesia,-21.92,-157.90,Austronesian,,Pn,,false,,Mangaian,dialect of Rarotongan,B.15,cffff00
+mangareva,Mangarevan,mang1401,Mangareva,mrv,Papunesia,-23.1095,-134.97,Austronesian,,Pn,,false,,Mangareva,,B.15,cffff00
+manihiki,Manihiki,raka1237,Rakahanga-Manihiki,rkh,Papunesia,-10.03,-161.09,Austronesian,,Pn,,false,,Manihiki-Rakahanga,,B.15,cffff00
+maori,Māori,maor1246,Maori,mri,Papunesia,-38.2881,176.541,Austronesian,,Pn,Williams1971,false,,Maori; Maori (Aupōuri); Maori (South Island),,B.15,cffff00
+moriori,Moriori,mori1267,Moriori,rrm,Papunesia,-44.00,-176.50,Austronesian,,Pn,,false,,,,B.15,cffff00
+marquesan,Marquesan,marq1246,Marquesan,,,-8.954196872999944,-139.6167699859999,Austronesian,,Pn,,false,,Marquesas,,B.15,cffff00
+rapa,Rapa,oldr1239,Old Rapa,,Papunesia,-27.63,-144.34,Austronesian,,Pn,,false,,,,B.15,cffff00
+rapanui,Rapanui,rapa1244,Rapanui,rap,Papunesia,-27.113,-109.342,Austronesian,,Pn,,false,,Easter Island,= Easter Island,B.15,cffff00
+rarotongan,Rarotongan,raro1241,Southern Cook Island Maori,rar,Papunesia,-21.23,-159.78,Austronesian,,Pn,,false,,,,B.15,cffff00
+rurutu,Rurutu,ruru1237,Rurutu,,Papunesia,-22.48,-151.34,Austronesian,,Pn,,false,,Rurutuan,,B.15,cffff00
+tahitian,Tahitian,tahi1242,Tahitian,tah,Papunesia,-17.6485,-149.45000000000002,Austronesian,,Pn,,false,,,,B.15,cffff00
+oldtahitian,Old Tahitian,tahi1242,Tahitian,tah,Papunesia,-17.6485,-149.45000000000002,Austronesian,,Pn,,false,,,,B.15,cffff00
+tongareva,Tongarevan,penr1237,Māngarongaro,pnh,Papunesia,-9.082238,-157.92290800000004,Austronesian,,Pn,,false,,Penrhyn; Tongareva; Tongarevan (= Penrhyn),= Penrhyn,B.15,cffff00
+tuamotuan,Tuamotuan,tuam1242,Tuamotuan,pmt,Papunesia,-16.17259,-146.321755,Austronesian,,Pn,,false,,Tuamotu,,B.15,cffff00

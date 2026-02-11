@@ -31,19 +31,19 @@
         {
             "rdf:about": "https://github.com/lexibank/tlopo",
             "rdf:type": "prov:Entity",
-            "dc:created": "548bcf1",
+            "dc:created": "f53ae69",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v5.2.1-9-g9877d48339",
+            "dc:created": "v5.2",
             "dc:title": "Glottolog"
         },
         {
             "rdf:about": "https://github.com/concepticon/concepticon-data",
             "rdf:type": "prov:Entity",
-            "dc:created": "v3.4.0-1-gf5f8627a",
+            "dc:created": "v3.4.0-62-g339dff57",
             "dc:title": "Concepticon"
         },
         {

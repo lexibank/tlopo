@@ -26,7 +26,7 @@ Available online at http://hdl.handle.net/1885/106908
 ![BIPA: 59%](https://img.shields.io/badge/BIPA-59%25-red.svg "BIPA: 59%")
 ![CLTS SoundClass: 59%](https://img.shields.io/badge/CLTS%20SoundClass-59%25-red.svg "CLTS SoundClass: 59%")
 
-- **Varieties:** 757 (linked to 641 different Glottocodes)
+- **Varieties:** 756 (linked to 641 different Glottocodes)
 - **Concepts:** 19,942 (linked to 0 different Concepticon concept sets)
 - **Lexemes:** 43,073
 - **Sources:** 583
@@ -36,7 +36,7 @@ Available online at http://hdl.handle.net/1885/106908
 - **Invalid lexemes:** 0
 - **Tokens:** 202,207
 - **Segments:** 296 (121 BIPA errors, 121 CLTS sound class errors, 175 CLTS modified)
-- **Inventory size (avg):** 16.21
+- **Inventory size (avg):** 16.22
 
 ## Possible Improvements:
 
