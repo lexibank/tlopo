@@ -187,7 +187,7 @@ We can be confident that POc _&ast;qanitu_ (from PAn _&ast;qaniCu_ ‘ghost, spi
 
 [^3]: Loss of _-n-_ irregular.
 
-[^4]: POc _&ast;qata(r)_ ‘soul, spirit; shadow, reflection’ was reconstructed with POc final _&ast;(-r)_ in [vol.5:205](ContributionTable?anchor=p-205#cldf:5-3), following [Dempwolff’s](Source#cldf:Dempwolff1938) ([1938](Source#cldf:Dempwolff1938):60) PMP _&ast;qantad_. In vol.5 the PMP term was wrongly glossed ‘appearance, mark’. Dempwolff glosses it ‘be visible’. With this gloss it is an unlikely antecedent of POc _&ast;qata_ ‘soul …’. The latter is distinct from the homophonous POc _&ast;qata_ ‘person’ ([vol.5:46](ContributionTable?anchor=p-46#cldf:5-2)).
+[^4]: POc _&ast;qata_ ‘soul, spirit; shadow, reflection’ is distinct from the homophonous POc _&ast;qata_ ‘person’ ([vol.5:46](ContributionTable?anchor=p-46#cldf:5-2)).
 
 [^5]: In [vol.5:80](ContributionTable?anchor=p-80#cldf:5-3) this is reconstructed as _&ast;tubu-a(ŋ)_. The MM reflexes above show that the final consonant was _&ast;-n_ and that the term is reconstructable with this meaning as far back as POc.
 

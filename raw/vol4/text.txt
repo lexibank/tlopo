@@ -9211,8 +9211,8 @@ PPn *kawe ‘tentacle of a cephalopod’ (pollex)
 <
 POc *mata ‘the operculum or trapdoor of certain gastropod spp.’ (cf. POc _*mata_ ‘eye, opening, most important part or focal point of a thing’)
   NNG: Gedaged           mala(n)               ‘operculum’
+  NNG: Poeng              |(mangasi) mata(na)|  ‘operculum of turban shell’
   MM: Tolai              mata                 ‘operculum ’
-  MM: Poe                |(mangasi) mata(na)|  ‘operculum of turban shell’
   SES: Lau               mā                    ‘operculum of a univalve’
   NCV: Port Sandwich     mara(n)               ‘operculum’
   Fij:    Wayan          mata                  ‘operculum ’

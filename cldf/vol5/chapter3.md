@@ -884,8 +884,6 @@ Terms for the inner mouth denote the opening and the cavity rather than the lips
 
 Finally, some Oceanic languages have a term for ‘mouth’ that reflects POc _&ast;maŋa(p)_ (V) ‘to open wide, gape’, (N) ‘open mouth; gap, space’. The supporting cognate set is given in [§4.5.5](ContributionTable?anchor=s-4-5-5#cldf:5-3). POc _&ast;maŋa(p)_ in its turn reflected PMP _&ast;q⟨um⟩aŋa[p,b]_ ‘gape, open the mouth wide’ (where _&ast;⟨um⟩_ was the PMP actor voice infix; [§1.3.5](ContributionTable?anchor=s-1-3-5#cldf:5-3).5). Blust (ACD) attributes two of these reflexes, Arosi _maŋa_ ‘an opening, mouth’ and Bauan Fijian _maŋa_ ‘vagina’, to PMP _&ast;maŋaq_ ‘slit, crevice’ (ACD). However, the glosses of the set of Oceanic reflexes in [§4.5.5](ContributionTable?anchor=s-4-5-5#cldf:5-3) include a range of meanings centring on ‘opening, aperture’ (‘mouth’, ‘vagina’, ‘space between earth and sky’), pointing to a more probable origin in PMP _&ast;q⟨um⟩aŋa[p,b]_ rather than PMP _&ast;maŋaq_. But, since the two PMP terms would have had near-identical POc reflexes, one could argue that the cognate set supporting POc _&ast;maŋa(p)_ reflects a conflation of the two terms.
 
--- FIXME: erratum vol2 --
-
 
 <a id="p-130"></a>
 
@@ -1813,7 +1811,7 @@ Blust (ACD) reconstructs POc _&ast;buaq_ ‘areca nut and palm; heart’. The on
 
 The two reconstructions below, POc _&ast;pu(s,c)o_ ‘heart’ and PWOc _&ast;busa(q)_ ‘heart’ are similar in form (and _&ast;busa(q)_ is similar to _&ast;buaq_ above), and there is no semantic difference between them. The reflexes of both mean ‘heart’ with an occasional instance of ‘liver’. This is presumably an outcome of the fact that both the heart and the liver are regarded as seats of the emotions by speakers of various Oceanic languages. Where similar forms occur with similar meanings, there may be contamination of one by the other, and Wogeo _buso-_ and Malai _pus-pusa-_ both seem to illustrate this.
 
-No convincing explanation can be offered for the fact that there are two terms, but note (i) that POc _&ast;puso-_ is also one of the forms reconstructed for ‘navel’ ([§3.5.10](ContributionTable?anchor=s-3-5-10#cldf:5-3)) and (ii) that POc _&ast;puco(q)_[^44] and POc _&ast;busa_ are both terms for ‘foam’ ([vol.2:96](ContributionTable?anchor=p-96#cldf:2-4)–97) and that each has a PMP antecedent. Whilst it is easier to explain (i) as a semantic shift, it is more difficult to explain away (ii), the fact that the same two forms occur for both ‘foam’ and ‘heart’. One of the reconstructed terms for ‘lungs’ ([§3.7.3](ContributionTable?anchor=s-3-7-3#cldf:5-3)) includes a word meaning ‘foam’ and, as the heart and lungs are in close relationship anatomically, it may be that an early meaning shift has occurred here.
+No convincing explanation can be offered for the fact that there are two terms, but note (i) that POc _&ast;puso-_ is also one of the forms reconstructed for ‘navel’ ([§3.5.10](ContributionTable?anchor=s-3-5-10#cldf:5-3)) and (ii) that POc _&ast;puco(q)_ and POc _&ast;busa_ are both terms for ‘foam’ ([vol.2:96](ContributionTable?anchor=p-96#cldf:2-4)–97) and that each has a PMP antecedent. Whilst it is easier to explain (i) as a semantic shift, it is more difficult to explain away (ii), the fact that the same two forms occur for both ‘foam’ and ‘heart’. One of the reconstructed terms for ‘lungs’ ([§3.7.3](ContributionTable?anchor=s-3-7-3#cldf:5-3)) includes a word meaning ‘foam’ and, as the heart and lungs are in close relationship anatomically, it may be that an early meaning shift has occurred here.
 
 [POc &ast;_pu(s,c)o-_](cognatesetreferences.csv#cldf:5-3-7-2-181-POc-pusco-a)
 
@@ -2189,7 +2187,7 @@ It is clear from the glosses below that POc _&ast;[qa]nunu_ and POc _&ast;qata(r
 
 It is not clear what the meaning difference between _&ast;[qa]nunu_ and _&ast;qata(r)_ may have been, but it is possible that the basic sense of the former was ‘shadow’, of the latter ’image’ or ‘soul’.
 
-[PMP &ast;_qatad_](cognatesetreferences.csv#cldf:5-3-9-1-205-POc-qatar-a)
+[POc &ast;_qata_](cognatesetreferences.csv#cldf:5-3-9-1-205-POc-qata-a)
 
 
 <a id="s-9-2"></a>
@@ -2258,8 +2256,6 @@ The Dami/Matukar/Takia form yaŋa- appears to reflect _&ast;i(s,c)aŋa-_ rather 
 
 [^21]: Blust (ACD) reconstructs _&ast;bahaq_, but his discussion implies that reduplication occurred in early Malayo-Polynesian as a result of reduction to _&ast;baq_.
 
-[^22]: In vol.2:.111 PPn _&ast;awa_ was incorrectly listed as a reflex of POc _&ast;sawa(n,ŋ)_ ‘channel, passage’ with unexplained loss of _&ast;s-_.
-
 [^23]: It is not clear exactly what this gloss means.
 
 [^24]: For a brief discussion of _&ast;qa-_, see [§3.5.3](ContributionTable?anchor=s-3-5-3#cldf:5-3).
@@ -2301,8 +2297,6 @@ The Dami/Matukar/Takia form yaŋa- appears to reflect _&ast;i(s,c)aŋa-_ rather 
 [^42]: PAn _&ast;dapaN_ is reconstructed on the basis of (Formosan) Tsou _caphə_ ‘foot’, Saaroa _sapale_ ‘foot’, Thao _sapað_ ‘sole, footprint’, Pazih _sa-sapal_ ‘sole’ and (Philippine) Ilokano, Bikol, Pangasinan _dapan_ ‘sole’ (among other reflexes).
 
 [^43]: The full gloss in the [ACD](Source#cldf:Blust1995) is ‘fruit; areca palm and nut; grain; berry; seed; nut; endosperm of a sprouting coconut; kidney; heart; finger; calf of the leg; testicle; various insects; scar tissue; roe; bud; flower; blossom; bear fruit; words, speech, or songs; meaning, contents of discussion; numeral classifier for roundish objects; buttock; Adam’s apple; nipple of the breast; button; marble; tattooing’
-
-[^44]: The reconstruction in [vol.2(97](ContributionTable?anchor=p-97#cldf:2-4)) is _&ast;puso_. but the external evidence suggests _&ast;puco(q)_. # FIXME: correct in vol 2?
 
 [^45]: There is no non-Oceanic evidence for the final _&ast;-q_ of POc _&ast;paraq_ ‘spongy mass…’, and its apparent presence may be the result of conflations with _&ast;paRa(q)_ ‘lung’.
 

@@ -31,7 +31,7 @@
         {
             "rdf:about": "https://github.com/lexibank/tlopo",
             "rdf:type": "prov:Entity",
-            "dc:created": "f53ae69",
+            "dc:created": "692c4b8",
             "dc:title": "Repository"
         },
         {
@@ -72,7 +72,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 43073,
+            "dc:extent": 43045,
             "tableSchema": {
                 "columns": [
                     {
@@ -308,7 +308,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 19942,
+            "dc:extent": 19934,
             "tableSchema": {
                 "columns": [
                     {
@@ -340,7 +340,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 41052,
+            "dc:extent": 40977,
             "tableSchema": {
                 "columns": [
                     {
@@ -491,7 +491,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognatesetTable",
-            "dc:extent": 2829,
+            "dc:extent": 2824,
             "tableSchema": {
                 "columns": [
                     {
@@ -563,7 +563,7 @@
         },
         {
             "dc:description": "Etymological dictionaries sometimes mention \"negative\" results, e.g. groups of lexemes that appear to be cognates but are (temporarily) dismissed as proper cognates; for example the \"noise\" and \"near\" categories in the ACD. This includes the better defined category of loans where members of the group will be listed in BorrowingTable.",
-            "dc:extent": 929,
+            "dc:extent": 930,
             "tableSchema": {
                 "columns": [
                     {
@@ -647,7 +647,7 @@
         },
         {
             "dc:description": "Membership of forms in a \"cf\" group is mediated through this association table unless more meaningful alternatives are available, like BorrowingTable for loans.",
-            "dc:extent": 3938,
+            "dc:extent": 3945,
             "tableSchema": {
                 "columns": [
                     {
@@ -971,7 +971,7 @@
             "url": "media.csv"
         },
         {
-            "dc:extent": 3092,
+            "dc:extent": 3094,
             "tableSchema": {
                 "columns": [
                     {
@@ -1057,7 +1057,7 @@
             "url": "cognatesetreferences.csv"
         },
         {
-            "dc:extent": 45683,
+            "dc:extent": 45635,
             "tableSchema": {
                 "columns": [
                     {

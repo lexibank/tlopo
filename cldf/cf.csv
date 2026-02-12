@@ -90,6 +90,7 @@ ID,Name,Description,Category,Comment,Cognateset_ID,CognatesetReference_ID,Chapte
 2-6-5-2-177-PChk-ukulik-a-1,,,,,2-6-5-2-177-PChk-ukulik-a,2-6-5-2-177-PChk-ukulik-a,2-6
 2-7-2-None-197-POc-lapuat-a-1,,,,,2-7-2-None-197-POc-lapuat-a,2-7-2-None-197-POc-lapuat-a,2-7
 2-7-5-1-218-POc-rabar-a-1,,,,,2-7-5-1-218-POc-rabar-a,2-7-5-1-218-POc-rabar-a,2-7
+2-7-5-1-219-POc-tonuq-a-1,,,,,2-7-5-1-219-POc-tonuq-a,2-7-5-1-219-POc-tonuq-a,2-7
 2-8-2-2-242-POc-atas-a-1,,,,,2-8-2-2-242-POc-atas-a,2-8-2-2-242-POc-atas-a,2-8
 2-8-2-2-244-POc-liwa-a-1,,,,,2-8-2-2-244-POc-liwa-a,2-8-2-2-244-POc-liwa-a,2-8
 2-8-2-3-254-POc-papara-a-1,,,,,2-8-2-3-254-POc-papara-a,2-8-2-3-254-POc-papara-a,2-8
@@ -514,7 +515,7 @@ ID,Name,Description,Category,Comment,Cognateset_ID,CognatesetReference_ID,Chapte
 5-10-3-None-544-POc-nonom-a-1,,,,,5-10-3-None-544-POc-nonom-a,5-10-3-None-544-POc-nonom-a,5-10
 5-10-3-None-547-POc-manacam-a-1,,,,,5-10-3-None-547-POc-manacam-a,5-10-3-None-547-POc-manacam-a,5-10
 5-10-4-None-550-POc-tutuna-a-1,,,,,5-10-4-None-550-POc-tutuna-a,5-10-4-None-550-POc-tutuna-a,5-10
-5-10-4-None-551-POc-tonuq-a-1,,,,,5-10-4-None-551-POc-tonuq-a,5-10-4-None-551-POc-tonuq-a,5-10
+5-10-4-None-551-POc-tonuq-a-1,,,,,2-7-5-1-219-POc-tonuq-a,5-10-4-None-551-POc-tonuq-a,5-10
 5-10-4-None-552-POc-maqoli-a-1,,,,,5-10-4-None-552-POc-maqoli-a,5-10-4-None-552-POc-maqoli-a,5-10
 5-10-4-None-554-PSES-utu-a-1,,,,,5-10-4-None-554-PSES-utu-a,5-10-4-None-554-PSES-utu-a,5-10
 5-10-11-None-565-POc-usuri-a-1,,,,,5-10-11-None-565-POc-usuri-a,5-10-11-None-565-POc-usuri-a,5-10
@@ -568,7 +569,7 @@ ID,Name,Description,Category,Comment,Cognateset_ID,CognatesetReference_ID,Chapte
 6-7-2-None-236-POc-qanitu-a-1,,,,,6-7-2-None-236-POc-qanitu-a,6-7-2-None-236-POc-qanitu-a,6-7
 6-7-2-None-237-PNCV-qatamate-a-1,,,,,6-7-2-None-237-PNCV-qatamate-a,6-7-2-None-237-PNCV-qatamate-a,6-7
 6-7-2-None-238-PNGOc-baraqum-a-1,,,,,6-7-2-None-238-PNGOc-baraqum-a,6-7-2-None-238-PNGOc-baraqum-a,6-7
-6-7-4-None-243-POc-qata-a-1,,,,,6-7-4-None-243-POc-qata-a,6-7-4-None-243-POc-qata-a,6-7
+6-7-4-None-243-POc-qata-a-1,,,,,5-3-9-1-205-POc-qata-a,6-7-4-None-243-POc-qata-a,6-7
 6-7-5-None-245-POc-qatuan-a-1,,,,,6-7-5-None-245-POc-qatuan-a,6-7-5-None-245-POc-qatuan-a,6-7
 6-7-5-None-246-POc-tubuqan-a-1,,,,,6-7-5-None-246-POc-tubuqan-a,6-7-5-None-246-POc-tubuqan-a,6-7
 6-8-4-None-266-PNGOc-naba-a-1,,,,,6-8-4-None-266-PNGOc-naba-a,6-8-4-None-266-PNGOc-naba-a,6-8

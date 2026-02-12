@@ -1,0 +1,24 @@
+{
+    "title": "The lexicon of Proto Oceanic",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "creators": [
+        {
+            "name": ""
+        }
+    ],
+    "contributors": [],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Ross, Pawley and Osmond. The lexicon of Proto Oceanic</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
+}

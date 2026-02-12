@@ -601,7 +601,7 @@ At the same time, it is reasonable to infer that, for example, the ‘think + fi
 
 [^6]: In a number of languages for which there are otherwise good data, including Nakanai and Mwotlap, two of our witness languages, BELIEVE terms are not recorded.
 
-[^7]: In [vol.2:212](ContributionTable?anchor=p-212#cldf:2-7), _&ast;[t,d]onu(p)_ ‘straight’ was reconstructed. The PT reflexes now show that the final consonant was _&ast;-q_. Reflexes of initial _&ast;t-_ and _&ast;d-_ both occur, and the latter are listed under ‘cf. also’. They give grounds for reconstructing a POc doublet _&ast;donuq_ ‘straight, correct’. How it arose is unknown, but _&ast;d_ was the least frequently occurring of all the POc obstruents, reflecting an earlier _&ast;nt_ sequence.
+[^7]: Reflexes of initial _&ast;t-_ and _&ast;d-_ both occur, and the latter are listed under ‘cf. also’. They give grounds for reconstructing a POc doublet _&ast;donuq_ ‘straight, correct’. How it arose is unknown, but _&ast;d_ was the least frequently occurring of all the POc obstruents, reflecting an earlier _&ast;nt_ sequence.
 
 [^8]: In his dictionary of Arosi [Fox](Source#cldf:Fox1978) ([1978](Source#cldf:Fox1978)) takes _moi_ ‘true’ to be an ‘abbreviated’ form of _mori_ ‘true’ (under _&ast;maqurip_ above), but this is not a regular phonological process in the language.
 

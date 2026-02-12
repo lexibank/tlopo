@@ -442,7 +442,7 @@ The data require that we reconstruct two variants for each of the three terms. T
 
 [POc &ast;_kodos_](cognatesetreferences.csv#cldf:2-7-5-1-219-POc-kodos-a)
 
-[POc &ast;_&#91;t,d&#93;onu(p)_](cognatesetreferences.csv#cldf:2-7-5-1-219-POc-tdonup-a)
+[POc &ast;_tonuq_](cognatesetreferences.csv#cldf:2-7-5-1-219-POc-tonuq-a)
 
 
 <a id="p-220"></a>
@@ -523,29 +523,69 @@ Three terms meaning ‘full’ are reconstructable. The first, _&ast;ponuq_, is 
 ### 5.5. Temperature
 
 
-Two terms are reconstructable for ‘hot, warm’, _&ast;[ma]panas_ and _&ast;maŋini(t)_. The first was probably the general term, to judge from its distribution, whilst _&ast;maŋini(t)_ probably had some specialised sense.
+The reconstruction of terms for ‘hot’ and ‘cold’ is tricky, because the English words have a number of senses for which Oceanic speakers use different words or phrases. The English use of ‘cold’ to denote a sickness is set aside here. Some Oceanic languages distinguish between
+
+a. a person feeling cold (the sense [§4.8.1](ContributionTable?anchor=s-4-8-1#cldf:2-7) is concerned with),
+b. a substance being cold to the touch, and
+c. the air, wind or weather being cold.
+
+Thus in To’aba’ita the terms are (a) _tega_ or _aqai_, (b) _gʷari_, and (c) _ʔoleʔoleʔa_. However, there is a twist: (a) may also be _gʷa-gʷari_, a reduplicated form of (b) ([Lichtenberk 2008](Source#cldf:Lichtenberk2008)).
+
+In Dobu (a) and (c) are both _gogai_, and (b) is _gonituna_, or _goyuyuwana_ if the cold substance is water ([Lithgow & Lithgow 2006](Source#cldf:LithgowandLithgow2006)).
+
+Very few of the available dictionaries differentiate the senses of ‘cold’ as carefully as these two, so there is a data problem. This is compounded, as seen in both To’aba’ita and Dobu, by the fact that a term may span two of the three senses. Much the same is true of words for ‘hot’.
+
+Although it may be assumed that POc made distinctions of the kind listed above, it is not possible to determine accurately how reconstructed terms for ‘hot’ and ‘cold’ related to (a), (b) and (c).
+
+
+<a id="s-5-5-1"></a>
+
+#### 5.5.1. Feeling cold
+
+
+There are several POc forms for ‘cold’ which are derived ultimately from PMP _&ast;diŋin_ ‘cold’. However, Chamorro _maniŋhiŋ_ ‘cold’ reflects PMP _&ast;maN-diŋdiŋ_ ([Blust 1970](Source#cldf:Blust1970):133), and it can be assumed that the POc forms reflect the PMP reduplicated root _&ast;diŋdiŋ_. The expected POc form of the root is _&ast;ridriŋ_, which is plentifully reflected, but this has been subject to assimilations and perhaps metathesis at various post-POc interstages. The root alone is reflected as POc _&ast;ridri(ŋ)_, or _&ast;riri(ŋ)_ ‘shiver’ (with assimilation of medial _&ast;-dr-_ to initial _&ast;r-_).
+
+Forms for ‘cold’ consist of one of the prefixes _&ast;ma-_, _&ast;maN-_ and _&ast;maka-_ + &ast;ridriŋ, giving expected POc forms _&ast;ma-ridriŋ_, _&ast;madridriŋ_ (from _&ast;maN-ridriŋ_) and _&ast;maka-ridriŋ_, all of which are reflected in present-day Oceanic languages. Matters are complicated by the fact that forms are also found which appear to reflect _&ast;ma-ririŋ_, _&ast;madririŋ_, i.e. with medial _&ast;-dr-_ replaced by _&ast;-r-_. There are several possible explanations of these forms, including assimilation, dissimilation and metathesis, but these are ignored here as their distribution in the data suggests that they are local innovations. This means that in a few cases forms reflecting _&ast;ma-ridriŋ_ may have been attributed to _&ast;madridriŋ_, and vice versa.
+
+It is possible that the forms here attributed to POc _&ast;madridriŋ_ are actually all reflexes of _&ast;ma-ridriŋ_ that have undergone assimilation of root-initial _&ast;-r-_ to medial _&ast;dr-_. However, their wide distribution speaks against this. As _&ast;madridriŋ_ reflects _&ast;maN-ridriŋ_, and _&ast;maN-_ has an agentive implication, the question arises, How could a term for ‘cold’ be agentive? The answer is perhaps that it denoted coldness of weather, and there is a sense in which weather can be regarded as agentive (‘causing shivering’): ‘cold (of weather)’ is the gloss assigned to PMP _&ast;maN-diŋdiŋ_ by [Zorc](Source#cldf:Zorc2007) ([2007](Source#cldf:Zorc2007)).
+
+We take _&ast;ma-ridriŋ_ and _&ast;maka-ridriŋ_ both to have meant ‘feel cold’, but their meanings may have been wider than this. No semantic difference between them is discernible.
+
+[PMP &ast;_ma-diŋdiŋ_](cognatesetreferences.csv#cldf:2-7-5-5-224-POc-maridri-a)
+
+[PMP &ast;_mandiŋ-diŋ_](cognatesetreferences.csv#cldf:2-7-5-5-224-POc-madridri-a)
+
+[PMP &ast;_maka-diŋdiŋ_](cognatesetreferences.csv#cldf:2-7-5-5-224-POc-makaridri-a)
+
+Another cognate set meaning ‘cold’ appears to reflect both _&ast;malaso_ ‘cold (verb)’ and _&ast;malaso-ŋ_ ‘cold (noun)’.
+
+[POc &ast;_malaso_](cognatesetreferences.csv#cldf:2-7-5-5-224-POc-malaso-a)
+
+Finally, the cognate set below has an uneven distribution, but the correspondence is good.
+
+[POc &ast;_(p,pʷ)o(q)ut_](cognatesetreferences.csv#cldf:2-7-5-5-224-POc-ppoqut-a)
+
+
+<a id="s-5-5-2"></a>
+
+#### 5.5.2. Feeling hot
+
+
+Three terms are reconstructable for ‘hot, warm’, POc _&ast;[ma]panas_, POc _&ast;maŋini(t)_ and POc _&ast;tunu-tunu_. The first was probably the general term, to judge from its distribution and its glosses, whilst _&ast;maŋini(t)_ probably had some specialised sense. The third was apparently derived from the verb POc _&ast;tunu_ ‘roast on embers or in fire’ ([vol.1:293](ContributionTable?anchor=p-293#cldf:1-9)).
 
 [PMP &ast;_&#91;ma&#93;panas_](cognatesetreferences.csv#cldf:2-7-5-5-224-POc-mapanas-a)
+
+[PMP &ast;_maN-qinit_](cognatesetreferences.csv#cldf:2-7-5-5-224-POc-mainit-a)
+
+The reflexes of the term below suggest the form †&ast;tun-tunu, but the phonotactics and reduplication patterns of POc require _&ast;tunu-tunu_, even though the second of the four instances of _&ast;-u-_ happens not to be reflected in the cognate set below.
+
+[POc &ast;_tunu-tunu_](cognatesetreferences.csv#cldf:2-7-5-5-224-POc-tunutunu-a)
 
 
 <a id="p-225"></a>
 
-[PMP &ast;_maN-qinit_](cognatesetreferences.csv#cldf:2-7-5-5-225-POc-mainit-a)
-
-There are several POc forms for ‘cold’ which are derived from PMP _&ast;diŋin_ ‘cold’. However, the expected POc reflex of PMP _&ast;diŋin_ is _&ast;&ast;riŋi(n)_, and we do not find this. Instead, we find _&ast;ridriŋ_ and _&ast;ririŋ_, presumably from the reduplications _&ast;riŋ-riŋ_ and _&ast;ri-riŋ_, preceded by various prefixes. POc _&ast;ma-ri(d)ri(ŋ)_ needs no further explanation, whilst _&ast;madri(d)riŋ_ is apparently derived from _&ast;maN-ri(d)riŋ_. POc _&ast;maka-ridri(ŋ)_ is transparent enough, but I do not know the function of _&ast;maka-_. From the glosses of the reflexes, it seems that these terms probably referred to the temperature experienced by a person, i.e. ‘I feel cold’, rather than to the temperature of inanimate objects.
-
-The other cognate set meaning ‘cold’ appears to reflect both _&ast;malaso_ ‘cold (verb)’ and _&ast;malaso-ŋ_ ‘cold (noun)’ .
-
-[PMP &ast;_diŋin_](cognatesetreferences.csv#cldf:2-7-5-5-225-POc-maridri-a)
-
-[POc &ast;_madri(d)riŋ_](cognatesetreferences.csv#cldf:2-7-5-5-225-POc-madridri-a)
-
-[POc &ast;_makaridriŋ_](cognatesetreferences.csv#cldf:2-7-5-5-225-POc-makaridri-a)
-
 
 <a id="p-226"></a>
-
-[POc &ast;_malaso_](cognatesetreferences.csv#cldf:2-7-5-5-226-POc-malaso-a)
 
 
 <a id="s-5-6"></a>
@@ -621,8 +661,6 @@ POc _&ast;[ma-](r,R)aŋo_ displays a phonological problem. Apparent non-Oceanic 
 [^20]: Blust’s 24-language survey suggests that property terms other than colour terms are only rarely reduplicated. This corroborates the research underlying [Ross](Source#cldf:Ross1998a) ([1998a](Source#cldf:Ross1998a)), where the only languages with a strong tendency to reduplicate property terms are those in Western Oceanic which have innovated a distinct adjective class.
 
 [^21]: The Southeast Solomonic reflexes show unexplained loss of _&ast;k_.
-
-[^22]: The final _&ast;-(p)_ of _&ast;[t,d]onu(p)_ is tentatively reconstructed to account for Numbami _tonowa_, where paragogic _-a_ indicates the presence of a final consonant and _-w-_ reflects _&ast;-p_.
 
 [^23]: Aua initial _w-_ could reflect either _&ast;mʷ-_ or _&ast;w-_, but I have assumed the Aua reflex to reflect _&ast;mʷane-mʷane_, as this is reflected elsewhere in the Admiralties.
 

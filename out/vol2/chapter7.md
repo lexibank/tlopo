@@ -3332,16 +3332,16 @@ The data require that we reconstruct two variants for each of the three terms. T
 
 
 
-<table class="cognateset" id="2-7-5-1-219-POc-tdonup-a">
+<table class="cognateset" id="2-7-5-1-219-POc-tonuq-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
-<i>&ast;[t,d]onu(p)</i>
+<i>&ast;tonuq</i>
 </td>
-<td>'<span>straight</span>'[^22]</td>
+<td>'<span>straight, correct</span>'</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/malai">Malai</a></td><td style="white-space: nowrap;"><i>dunu(ŋa)</i></td>
+<td>NNG</td><td><a href="../languages/bam">Bam</a></td><td style="white-space: nowrap;"><i>tun-tunu</i></td>
 <td>'<span>straight</span>'</td>
 </tr>
 <tr>
@@ -3349,43 +3349,150 @@ The data require that we reconstruct two variants for each of the three terms. T
 <td>'<span>straight</span>'</td>
 </tr>
 <tr>
+<td>PT</td><td><a href="../languages/minaveha">Minaveha</a></td><td style="white-space: nowrap;"><i>tunuɣa</i></td>
+<td>'<span>straight</span>'</td>
+</tr>
+<tr>
+<td>PT</td><td><a href="../languages/minaveha">Minaveha</a></td><td style="white-space: nowrap;"><i>tunu-tunuɣa</i></td>
+<td>'<span>do right, be righteous</span>'</td>
+</tr>
+<tr>
+<td>PT</td><td><a href="../languages/iduna">Iduna</a></td><td style="white-space: nowrap;"><i>tunu-tunuɣ(ina)</i></td>
+<td>'<span>straight (of objects, path), upright, honest</span>'</td>
+</tr>
+<tr>
+<td>PT</td><td><a href="../languages/molima">Molima</a></td><td style="white-space: nowrap;"><i>tunu-tunv(ina)</i></td>
+<td>'<span>straight, flat</span>'</td>
+</tr>
+<tr>
 <td>MM</td><td><a href="../languages/laghu">Laghu</a></td><td style="white-space: nowrap;"><i>to-tonu</i></td>
 <td>'<span>straight</span>'</td>
+</tr>
+<tr>
+<td>NCV</td><td><a href="../languages/nokuku">Nokuku</a></td><td style="white-space: nowrap;"><i>ta-tino</i></td>
+<td>'<span>true</span>'</td>
 </tr>
 <tr>
 <td>NCV</td><td><a href="../languages/kiai">Kiai</a></td><td style="white-space: nowrap;"><i>tu-tunu</i></td>
 <td>'<span>good, straight, sweet</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/labo">Labo</a></td><td style="white-space: nowrap;"><i>tən</i></td>
-<td>'<span>straighten an arrow in the fire</span>'</td>
+<td>NCV</td><td><a href="../languages/uripiv">Uripiv</a></td><td style="white-space: nowrap;"><i>(were)tun</i></td>
+<td>'<span>tell truth</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/kwamera">Kwamera</a></td><td style="white-space: nowrap;"><i>(a)tuən</i></td>
-<td> (<span>verbal adjunct: implies straightening</span>)</td>
+<td>NCV</td><td><a href="../languages/wambrym">West Ambrym</a></td><td style="white-space: nowrap;"><i>ten</i></td>
+<td>'<span>real</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td style="white-space: nowrap;"><i>donu</i></td>
-<td>'<span>(be) straight, true, correct</span>'</td>
+<td>NCV</td><td><a href="../languages/seambrym">Southeast Ambrym</a></td><td style="white-space: nowrap;"><i>(rei)tin</i></td>
+<td>'<span>true</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td style="white-space: nowrap;"><i>donu</i></td>
-<td>'<span>(be) right, correct, true</span>'</td>
+<td>NCV</td><td><a href="../languages/lonwolwol">Lonwolwol</a></td><td style="white-space: nowrap;"><i>ten</i></td>
+<td>'<span>real</span>'</td>
+</tr>
+<tr>
+<td>NCV</td><td><a href="../languages/lonwolwol">Lonwolwol</a></td><td style="white-space: nowrap;"><i>(fɪ)tɛn</i></td>
+<td>'<span>true; truly</span>'</td>
+</tr>
+<tr>
+<td>NCV</td><td><a href="../languages/northambrym">North Ambrym</a></td><td style="white-space: nowrap;"><i>(fɛ)tɪn</i></td>
+<td>'<span>true; truly</span>'</td>
+</tr>
+<tr>
+<td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td style="white-space: nowrap;"><i>tine</i></td>
+<td>'<span>true</span>'</td>
+</tr>
+<tr>
+<td>NCV</td><td><a href="../languages/avava">Avava</a></td><td style="white-space: nowrap;"><i>(ba)rīn</i></td>
+<td>'<span>true</span>'</td>
+</tr>
+<tr>
+<td><strong>PPn</strong></td><td> </td>
+<td style="white-space: nowrap;">
+<i>&ast;tonu</i>
+</td>
+<td>'<span>straight, correct</span>' (<span>POLLEX</span>)</td>
 </tr>
 <tr>
 <td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td style="white-space: nowrap;"><i>tonu</i></td>
-<td>'<span>be exact, be correct, be right</span>'</td>
+<td>'<span>exact, correct, be right</span>'</td>
+</tr>
+<tr>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td style="white-space: nowrap;"><i>tonu</i></td>
+<td>'<span>proper, right</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>tonu</i></td>
-<td>'<span>(be) exact, correct, just</span>'</td>
+<td>'<span>exact, correct, just</span>'</td>
+</tr>
+<tr>
+<td>Pn</td><td><a href="../languages/tuvalu">Tuvalu</a></td><td style="white-space: nowrap;"><i>tonu</i></td>
+<td>'<span>straight, correct</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td><a href="../languages/ifiramele">Ifira-Mele</a></td><td style="white-space: nowrap;"><i>tō-tonu</i></td>
 <td>'<span>right, correct</span>'</td>
 </tr>
+<tr>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td style="white-space: nowrap;"><i>tonu</i></td>
+<td>'<span>right, correct, true, exact</span>'</td>
+</tr>
 </table>
 
+cf. also: 
+<table>
+<tr>
+<td>NNG</td>
+<td><a href="../languages/mangap">Mangap</a></td>
+<td style="white-space: nowrap;"><i>du-dūŋ</i></td>
+<td>
+'<span>real, correct, straight</span>'</td>
+</tr>
+<tr>
+<td>NNG</td>
+<td><a href="../languages/malai">Malai</a></td>
+<td style="white-space: nowrap;"><i>dunu(ŋa)</i></td>
+<td>
+'<span>straight</span>'</td>
+</tr>
+<tr>
+<td>SES</td>
+<td><a href="../languages/bugotu">Bugotu</a></td>
+<td style="white-space: nowrap;"><i>jino</i></td>
+<td>
+'<span>straight, right, righteous</span>' (<span><em>-i-</em> for †<em>-u-</em></span>)</td>
+</tr>
+<tr>
+<td>NCV</td>
+<td><a href="../languages/mota">Mota</a></td>
+<td style="white-space: nowrap;"><i>nun</i></td>
+<td>
+'<span>true, truth</span>'</td>
+</tr>
+<tr>
+<td>SV</td>
+<td><a href="../languages/kwamera">Kwamera</a></td>
+<td style="white-space: nowrap;"><i>a-tuən</i></td>
+<td>
+'<span>implies straightening</span>' (<span>verbal adjunct</span>)</td>
+</tr>
+<tr>
+<td>Fij</td>
+<td><a href="../languages/bauanfijian">Bauan</a></td>
+<td style="white-space: nowrap;"><i>donu</i></td>
+<td>
+'<span>straight, correct, true</span>'</td>
+</tr>
+<tr>
+<td>Fij</td>
+<td><a href="../languages/wayan">Wayan</a></td>
+<td style="white-space: nowrap;"><i>donu</i></td>
+<td>
+'<span>right, correct, true</span>'</td>
+</tr>
+</table>
 
 
 
@@ -4146,201 +4253,113 @@ Three terms meaning ‘full’ are reconstructable. The first, _&ast;ponuq_, is 
 ### 5.5. Temperature
 
 
-Two terms are reconstructable for ‘hot, warm’, _&ast;[ma]panas_ and _&ast;maŋini(t)_. The first was probably the general term, to judge from its distribution, whilst _&ast;maŋini(t)_ probably had some specialised sense.
+The reconstruction of terms for ‘hot’ and ‘cold’ is tricky, because the English words have a number of senses for which Oceanic speakers use different words or phrases. The English use of ‘cold’ to denote a sickness is set aside here. Some Oceanic languages distinguish between
 
-<table class="cognateset" id="2-7-5-5-224-POc-mapanas-a">
+a. a person feeling cold (the sense [§4.8.1](../contributions/2-7#s-4-8-1) is concerned with),
+b. a substance being cold to the touch, and
+c. the air, wind or weather being cold.
+
+Thus in To’aba’ita the terms are (a) _tega_ or _aqai_, (b) _gʷari_, and (c) _ʔoleʔoleʔa_. However, there is a twist: (a) may also be _gʷa-gʷari_, a reduplicated form of (b) ([Lichtenberk 2008](../sources/Lichtenberk2008)).
+
+In Dobu (a) and (c) are both _gogai_, and (b) is _gonituna_, or _goyuyuwana_ if the cold substance is water ([Lithgow & Lithgow 2006](../sources/LithgowandLithgow2006)).
+
+Very few of the available dictionaries differentiate the senses of ‘cold’ as carefully as these two, so there is a data problem. This is compounded, as seen in both To’aba’ita and Dobu, by the fact that a term may span two of the three senses. Much the same is true of words for ‘hot’.
+
+Although it may be assumed that POc made distinctions of the kind listed above, it is not possible to determine accurately how reconstructed terms for ‘hot’ and ‘cold’ related to (a), (b) and (c).
+
+
+<a id="s-5-5-1"></a>
+
+#### 5.5.1. Feeling cold
+
+
+There are several POc forms for ‘cold’ which are derived ultimately from PMP _&ast;diŋin_ ‘cold’. However, Chamorro _maniŋhiŋ_ ‘cold’ reflects PMP _&ast;maN-diŋdiŋ_ ([Blust 1970](../sources/Blust1970):133), and it can be assumed that the POc forms reflect the PMP reduplicated root _&ast;diŋdiŋ_. The expected POc form of the root is _&ast;ridriŋ_, which is plentifully reflected, but this has been subject to assimilations and perhaps metathesis at various post-POc interstages. The root alone is reflected as POc _&ast;ridri(ŋ)_, or _&ast;riri(ŋ)_ ‘shiver’ (with assimilation of medial _&ast;-dr-_ to initial _&ast;r-_).
+
+Forms for ‘cold’ consist of one of the prefixes _&ast;ma-_, _&ast;maN-_ and _&ast;maka-_ + &ast;ridriŋ, giving expected POc forms _&ast;ma-ridriŋ_, _&ast;madridriŋ_ (from _&ast;maN-ridriŋ_) and _&ast;maka-ridriŋ_, all of which are reflected in present-day Oceanic languages. Matters are complicated by the fact that forms are also found which appear to reflect _&ast;ma-ririŋ_, _&ast;madririŋ_, i.e. with medial _&ast;-dr-_ replaced by _&ast;-r-_. There are several possible explanations of these forms, including assimilation, dissimilation and metathesis, but these are ignored here as their distribution in the data suggests that they are local innovations. This means that in a few cases forms reflecting _&ast;ma-ridriŋ_ may have been attributed to _&ast;madridriŋ_, and vice versa.
+
+It is possible that the forms here attributed to POc _&ast;madridriŋ_ are actually all reflexes of _&ast;ma-ridriŋ_ that have undergone assimilation of root-initial _&ast;-r-_ to medial _&ast;dr-_. However, their wide distribution speaks against this. As _&ast;madridriŋ_ reflects _&ast;maN-ridriŋ_, and _&ast;maN-_ has an agentive implication, the question arises, How could a term for ‘cold’ be agentive? The answer is perhaps that it denoted coldness of weather, and there is a sense in which weather can be regarded as agentive (‘causing shivering’): ‘cold (of weather)’ is the gloss assigned to PMP _&ast;maN-diŋdiŋ_ by [Zorc](../sources/Zorc2007) ([2007](../sources/Zorc2007)).
+
+We take _&ast;ma-ridriŋ_ and _&ast;maka-ridriŋ_ both to have meant ‘feel cold’, but their meanings may have been wider than this. No semantic difference between them is discernible.
+
+<table class="cognateset" id="2-7-5-5-224-POc-maridri-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
-<i>&ast;[ma]panas</i>
+<i>&ast;ma-diŋdiŋ</i>
 </td>
-<td>'<span>be/become warm, hot (of fire, sun, fever, water)</span>' (<a href="../sources/Blust1995">ACD</a>)
+<td>'<span>cold</span>' (<a href="../sources/Blust1970">Blust 1970</a>)
 </td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
-<i>&ast;[ma]panas</i>
+<i>&ast;ma-ridri(ŋ)</i>
 </td>
-<td>'<span>warm, hot</span>'</td>
-</tr>
-<tr>
-<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td style="white-space: nowrap;"><i>anasa</i></td>
-<td>'<span>(s.o.) hot</span>'</td>
-</tr>
-<tr>
-<td>NNG</td><td><a href="../languages/kove">Kove</a></td><td style="white-space: nowrap;"><i>wana-wana</i></td>
-<td>'<span>(s.o.) hot</span>'</td>
-</tr>
-<tr>
-<td>NNG</td><td><a href="../languages/arove">Arove</a></td><td style="white-space: nowrap;"><i>(ka)wanes</i></td>
-<td>'<span>(s.o.) hot</span>'</td>
-</tr>
-<tr>
-<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td style="white-space: nowrap;"><i>wanana-n</i></td>
-<td>'<span>hot</span>'</td>
-</tr>
-<tr>
-<td>NNG</td><td><a href="../languages/numbami">Numbami</a></td><td style="white-space: nowrap;"><i>wa-wana</i></td>
-<td>'<span>hot</span>'</td>
-</tr>
-<tr>
-<td>NNG</td><td><a href="../languages/maposbuang">Mapos Buang</a></td><td style="white-space: nowrap;"><i>vanɛ</i></td>
-<td>'<span>hot</span>'</td>
-</tr>
-<tr>
-<td>SJ</td><td><a href="../languages/sobei">Sobei</a></td><td style="white-space: nowrap;"><i>mefna</i></td>
-<td>'<span>(s.o.) hot</span>'</td>
-</tr>
-<tr>
-<td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td style="white-space: nowrap;"><i>manas</i></td>
-<td>'<span>(s.o.) hot</span>'</td>
-</tr>
-<tr>
-<td>MM</td><td><a href="../languages/maringe">Maringe</a></td><td style="white-space: nowrap;"><i>brana</i></td>
-<td>'<span>hot</span>'</td>
-</tr>
-<tr>
-<td>SES</td><td><a href="../languages/longgu">Longgu</a></td><td style="white-space: nowrap;"><i>pa-pana</i></td>
-<td>'<span>be warm</span>'</td>
-</tr>
-<tr>
-<td>SES</td><td><a href="../languages/bauro">Bauro</a></td><td style="white-space: nowrap;"><i>mahana-hana</i></td>
-<td>'<span>hot</span>'</td>
-</tr>
-<tr>
-<td>SV</td><td><a href="../languages/kwamera">Kwamera</a></td><td style="white-space: nowrap;"><i>-(a)pʷan-(a)pʷan</i></td>
-<td>'<span>hot</span>'</td>
-</tr>
-<tr>
-<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td style="white-space: nowrap;"><i>(a)hen-hen</i></td>
-<td>'<span>warm, hot</span>'</td>
-</tr>
-<tr>
-<td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td style="white-space: nowrap;"><i>mah-mahana</i></td>
-<td>'<span>warm</span>'</td>
-</tr>
-<tr>
-<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td style="white-space: nowrap;"><i>māfana</i></td>
-<td>'<span>warm</span>'</td>
-</tr>
-<tr>
-<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>māfana-fana</i></td>
-<td>'<span>warm</span>'</td>
-</tr>
-</table>
-
-
-
-
-<a id="p-225"></a>
-
-<table class="cognateset" id="2-7-5-5-225-POc-mainit-a">
-<tr>
-<td><strong>PMP</strong></td><td> </td>
-<td style="white-space: nowrap;">
-<i>&ast;maN-qinit</i>
-</td>
-<td>'<span>hot, warm</span>' (<span>&ast;qinit ‘heat, warmth’</span>) (<a href="../sources/Blust1995">ACD</a>)
-</td>
-</tr>
-<tr>
-<td><strong>POc</strong></td><td> </td>
-<td style="white-space: nowrap;">
-<i>&ast;maŋini(t)</i>
-</td>
-<td>'<span>(?) become hot, warm</span>'</td>
-</tr>
-<tr>
-<td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td style="white-space: nowrap;"><i>maŋini</i></td>
-<td>'<span>warm</span>'</td>
-</tr>
-<tr>
-<td>MM</td><td><a href="../languages/hoava">Hoava</a></td><td style="white-space: nowrap;"><i>maŋini</i></td>
-<td>'<span>warm</span>'</td>
-</tr>
-</table>
-
-
-
-There are several POc forms for ‘cold’ which are derived from PMP _&ast;diŋin_ ‘cold’. However, the expected POc reflex of PMP _&ast;diŋin_ is _&ast;&ast;riŋi(n)_, and we do not find this. Instead, we find _&ast;ridriŋ_ and _&ast;ririŋ_, presumably from the reduplications _&ast;riŋ-riŋ_ and _&ast;ri-riŋ_, preceded by various prefixes. POc _&ast;ma-ri(d)ri(ŋ)_ needs no further explanation, whilst _&ast;madri(d)riŋ_ is apparently derived from _&ast;maN-ri(d)riŋ_. POc _&ast;maka-ridri(ŋ)_ is transparent enough, but I do not know the function of _&ast;maka-_. From the glosses of the reflexes, it seems that these terms probably referred to the temperature experienced by a person, i.e. ‘I feel cold’, rather than to the temperature of inanimate objects.
-
-The other cognate set meaning ‘cold’ appears to reflect both _&ast;malaso_ ‘cold (verb)’ and _&ast;malaso-ŋ_ ‘cold (noun)’ .
-
-<table class="cognateset" id="2-7-5-5-225-POc-maridri-a">
-<tr>
-<td><strong>PMP</strong></td><td> </td>
-<td style="white-space: nowrap;">
-<i>&ast;diŋin</i>
-</td>
-<td>'<span>cold</span>'</td>
-</tr>
-<tr>
-<td><strong>POc</strong></td><td> </td>
-<td style="white-space: nowrap;">
-<i>&ast;ma-ri(d)ri(ŋ)</i>
-</td>
-<td>'<span>(s.o.) cold</span>'</td>
+<td>'<span>(s.o.) be cold</span>'</td>
 </tr>
 <tr>
 <td>NNG</td><td><a href="../languages/mutu">Mutu</a></td><td style="white-space: nowrap;"><i>marir</i></td>
-<td>'<span>(s.o.) cold</span>'</td>
+<td>'<span>(s.o.) cold</span>' (<span>final <em>-r</em> for †<em>-d</em></span>)</td>
 </tr>
 <tr>
 <td>NNG</td><td><a href="../languages/apalik">Apalik</a></td><td style="white-space: nowrap;"><i>miri-n</i></td>
-<td>'<span>(s.o.) cold</span>'</td>
+<td>'<span>(s.o.) cold</span>' (<span>or &lt; POc <em>&ast;madridriŋ</em></span>)</td>
 </tr>
 <tr>
 <td>NNG</td><td><a href="../languages/bebeli">Bebeli</a></td><td style="white-space: nowrap;"><i>merir</i></td>
-<td>'<span>(s.o.) cold</span>'</td>
-</tr>
-<tr>
-<td>NNG</td><td><a href="../languages/kaulong">Kaulong</a></td><td style="white-space: nowrap;"><i>ŋlik</i></td>
-<td>'<span>cold</span>'</td>
-</tr>
-<tr>
-<td>NNG</td><td><a href="../languages/mengen">Mengen</a></td><td style="white-space: nowrap;"><i>ma-mariri</i></td>
-<td>'<span>(s.o.) cold</span>'</td>
+<td>'<span>(s.o.) cold</span>' (<span>or &lt; POc <em>&ast;madridriŋ</em></span>)</td>
 </tr>
 <tr>
 <td>NNG</td><td><a href="../languages/kaiep">Kaiep</a></td><td style="white-space: nowrap;"><i>marir</i></td>
-<td>'<span>(s.o.) cold</span>'</td>
+<td>'<span>(s.o.) cold</span>' (<span>or &lt; POc <em>&ast;madridriŋ</em></span>)</td>
 </tr>
 <tr>
-<td>NNG</td><td><a href="../languages/kairiru">Kairiru</a></td><td style="white-space: nowrap;"><i>-mer̃ir̃</i></td>
-<td>'<span>(s.o.) cold</span>'</td>
+<td>NNG</td><td><a href="../languages/kairiru">Kairiru</a></td><td style="white-space: nowrap;"><i>-merir</i></td>
+<td>'<span>(s.o.) cold</span>' (<span>or &lt; POc <em>&ast;madridriŋ</em></span>)</td>
 </tr>
 <tr>
 <td>SJ</td><td><a href="../languages/kayupulau">Kayupulau</a></td><td style="white-space: nowrap;"><i>mariri-e</i></td>
-<td>'<span>(s.o.) cold</span>'</td>
+<td>'<span>(s.o.) cold</span>' (<span>or &lt; POc <em>&ast;madridriŋ</em></span>)</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td style="white-space: nowrap;"><i>masisi</i></td>
-<td>'<span>cold</span>'</td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td style="white-space: nowrap;"><i>ma-marir</i></td>
+<td>'<span>cold</span>' (<span>final <em>-r</em> for †<em>-n</em></span>)</td>
 </tr>
 <tr>
 <td>NCV</td><td><a href="../languages/merlav">Merlav</a></td><td style="white-space: nowrap;"><i>marir</i></td>
-<td>'<span>(s.o.) cold</span>'</td>
+<td>'<span>cold</span>' (<span>final <em>-r</em> for †<em>-n</em></span>)</td>
 </tr>
 <tr>
-<td>Mic</td><td><a href="../languages/kiribati">Kiribati</a></td><td style="white-space: nowrap;"><i>mariri</i></td>
-<td>'<span>feel cold</span>'</td>
+<td>NCV</td><td><a href="../languages/kiai">Kiai</a></td><td style="white-space: nowrap;"><i>(sarsara)mariri</i></td>
+<td>'<span>tremble (as in malaria)</span>'</td>
 </tr>
 <tr>
-<td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td style="white-space: nowrap;"><i>matiti</i></td>
-<td>'<span>cold</span>'</td>
+<td>NCV</td><td><a href="../languages/namakir">Namakir</a></td><td style="white-space: nowrap;"><i>miladi-n</i></td>
+<td>'<span>cold</span>' (<span><em>-l-</em> for †<em>-r-</em></span>)</td>
+</tr>
+<tr>
+<td>NCV</td><td><a href="../languages/nguna">Nguna</a></td><td style="white-space: nowrap;"><i>malādi</i></td>
+<td>'<span>cold</span>' (<span><em>-l-</em> for †<em>-r-</em></span>)</td>
 </tr>
 </table>
 
 
 
-<table class="cognateset" id="2-7-5-5-225-POc-madridri-a">
+<table class="cognateset" id="2-7-5-5-224-POc-madridri-a">
+<tr>
+<td><strong>PMP</strong></td><td> </td>
+<td style="white-space: nowrap;">
+<i>&ast;mandiŋ-diŋ</i>
+</td>
+<td>'<span>cold</span>' (<a href="../sources/Blust1970">Blust 1970</a>)
+</td>
+</tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
-<i>&ast;madri(d)riŋ</i>
+<i>&ast;madridriŋ</i>
 </td>
-<td>'<span>(s.o.) become cold</span>'</td>
+<td>'<span>be cold</span>'</td>
 </tr>
 <tr>
 <td>Adm</td><td><a href="../languages/aua">Aua</a></td><td style="white-space: nowrap;"><i>maxixi</i></td>
@@ -4363,63 +4382,181 @@ The other cognate set meaning ‘cold’ appears to reflect both _&ast;malaso_ �
 <td>'<span>(s.o.) cold</span>'</td>
 </tr>
 <tr>
+<td>NNG</td><td><a href="../languages/mengen">Mengen</a></td><td style="white-space: nowrap;"><i>ma-mariri</i></td>
+<td>'<span>(s.o.) cold</span>'</td>
+</tr>
+<tr>
+<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td style="white-space: nowrap;"><i>magigi</i></td>
+<td>'<span>to shake (as in epilepsy)</span>'</td>
+</tr>
+<tr>
 <td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td style="white-space: nowrap;"><i>madiriŋ</i></td>
-<td>'<span>cold (water, food)</span>'</td>
+<td>'<span>cold (water, food)</span>' (<span><em>-r-</em> for †<em>-d-</em></span>)</td>
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/halia">Halia</a></td><td style="white-space: nowrap;"><i>maririŋ</i></td>
 <td>'<span>(s.o.) cold</span>'</td>
 </tr>
 <tr>
+<td>NCV</td><td><a href="../languages/raga">Raga</a></td><td style="white-space: nowrap;"><i>masisi</i></td>
+<td>'<span>cold</span>'</td>
+</tr>
+<tr>
+<td>NCV</td><td><a href="../languages/kiai">Kiai</a></td><td style="white-space: nowrap;"><i>makiki</i></td>
+<td>'<span>cold</span>'</td>
+</tr>
+<tr>
+<td>NCV</td><td><a href="../languages/wambrym">West Ambrym</a></td><td style="white-space: nowrap;"><i>marid</i></td>
+<td>'<span>cold</span>'</td>
+</tr>
+<tr>
+<td>NCV</td><td><a href="../languages/uripiv">Uripiv</a></td><td style="white-space: nowrap;"><i>-me-mr̃ali</i></td>
+<td>'<span>cold, cool</span>' (<span><em>-l-</em> for †<em>-r̃-</em></span>)</td>
+</tr>
+<tr>
 <td>NCV</td><td><a href="../languages/paamese">Paamese</a></td><td style="white-space: nowrap;"><i>madil</i></td>
+<td>'<span>cold</span>' (<span><em>-l</em> for †<em>-r</em></span>)</td>
+</tr>
+<tr>
+<td><strong>PMic</strong></td><td> </td>
+<td style="white-space: nowrap;">
+<i>&ast;maci, &ast;macici</i>
+</td>
+<td>'<span>be cold</span>' (<a href="../sources/Benderetal2003">Bender et al. 2003</a>)
+</td>
+</tr>
+<tr>
+<td>Mic</td><td><a href="../languages/kiribati">Kiribati</a></td><td style="white-space: nowrap;"><i>mariri</i></td>
+<td>'<span>feel cold</span>'</td>
+</tr>
+<tr>
+<td>Mic</td><td><a href="../languages/kosraean">Kosraean</a></td><td style="white-space: nowrap;"><i>miṣiṣ</i></td>
+<td>'<span>cold, chilly, cool, goosebumps</span>'</td>
+</tr>
+<tr>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td style="white-space: nowrap;"><i>məṛ</i></td>
+<td>'<span>cooled off (of food once hot)</span>'</td>
+</tr>
+<tr>
+<td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td style="white-space: nowrap;"><i>matiti</i></td>
 <td>'<span>cold</span>'</td>
 </tr>
 </table>
 
 
 
-<table class="cognateset" id="2-7-5-5-225-POc-makaridri-a">
+<table class="cognateset" id="2-7-5-5-224-POc-makaridri-a">
+<tr>
+<td><strong>PMP</strong></td><td> </td>
+<td style="white-space: nowrap;">
+<i>&ast;maka-diŋdiŋ</i>
+</td>
+<td>'<span>cold</span>' (<a href="../sources/Blust1970">Blust 1970</a>)
+</td>
+</tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
-<i>&ast;makaridriŋ</i>
+<i>&ast;maka-ridriŋ</i>
 </td>
+<td>'<span>(s.o.) be cold</span>'</td>
+</tr>
+<tr>
+<td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td style="white-space: nowrap;"><i>maka-rigi</i></td>
+<td>'<span>cold, be cold</span>'</td>
+</tr>
+<tr>
+<td>MM</td><td><a href="../languages/notsi">Notsi</a></td><td style="white-space: nowrap;"><i>maka-dil</i></td>
 <td>'<span>(s.o.) cold</span>'</td>
 </tr>
 <tr>
-<td>MM</td><td><a href="../languages/notsi">Notsi</a></td><td style="white-space: nowrap;"><i>makadil</i></td>
-<td>'<span>(s.o.) cold</span>'</td>
-</tr>
-<tr>
-<td>SES</td><td><a href="../languages/bauro">Bauro</a></td><td style="white-space: nowrap;"><i>maɣārisi</i></td>
+<td>SES</td><td><a href="../languages/bauro">Bauro</a></td><td style="white-space: nowrap;"><i>maɣā-risi</i></td>
 <td>'<span>cold</span>'</td>
 </tr>
 <tr>
-<td>NCV</td><td><a href="../languages/tamambo">Tamambo</a></td><td style="white-space: nowrap;"><i>maɣariri</i></td>
-<td>'<span>cold</span>'</td>
+<td>NCV</td><td><a href="../languages/tamambo">Tamambo</a></td><td style="white-space: nowrap;"><i>maɣa-riri</i></td>
+<td>'<span>cold</span>' (<span>second <em>-r-</em> for †<em>-d-</em></span>)</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td style="white-space: nowrap;"><i>makalili</i></td>
+<td><strong>PPn</strong></td><td> </td>
+<td style="white-space: nowrap;">
+<i>&ast;maka-lili</i>
+</td>
+<td>'<span>cold, chilly</span>' (<span>POLLEX</span>)</td>
+</tr>
+<tr>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td style="white-space: nowrap;"><i>maka-lili</i></td>
 <td>'<span>cold, chilly</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>maʔalili</i></td>
-<td>'<span>(be) cold</span>'</td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>maʔa-lili</i></td>
+<td>[VI] '<span>feel cold, shiver</span>'; [N] '<span>cold (weather)</span>'</td>
+</tr>
+<tr>
+<td>Pn</td><td><a href="../languages/eastfutunan">East Futunan</a></td><td style="white-space: nowrap;"><i>maka-lili</i></td>
+<td>'<span>cold, chilly</span>'</td>
+</tr>
+<tr>
+<td>Pn</td><td><a href="../languages/eastuvean">East Uvean</a></td><td style="white-space: nowrap;"><i>maka-lili</i></td>
+<td>'<span>chilly</span>'</td>
+</tr>
+<tr>
+<td>Pn</td><td><a href="../languages/tuvalu">Tuvalu</a></td><td style="white-space: nowrap;"><i>maka-lili</i></td>
+<td>'<span>cold, shiver</span>'</td>
+</tr>
+<tr>
+<td>Pn</td><td><a href="../languages/westfutunan">West Futunan</a></td><td style="white-space: nowrap;"><i>maka-ligi</i></td>
+<td>'<span>cold</span>'</td>
+</tr>
+<tr>
+<td>Pn</td><td><a href="../languages/nukuoro">Nukuoro</a></td><td style="white-space: nowrap;"><i>maga-lili</i></td>
+<td>'<span>feel cold, shiver</span>'</td>
+</tr>
+<tr>
+<td>Pn</td><td><a href="../languages/sikaiana">Sikaiana</a></td><td style="white-space: nowrap;"><i>maka-lili</i></td>
+<td>'<span>shiver, tremble, fever</span>'</td>
+</tr>
+<tr>
+<td>Pn</td><td><a href="../languages/luangiua">Luangiua</a></td><td style="white-space: nowrap;"><i>mā-lili</i></td>
+<td>'<span>cold, chilly</span>'</td>
+</tr>
+<tr>
+<td>Pn</td><td><a href="../languages/anutan">Anutan</a></td><td style="white-space: nowrap;"><i>maka-riri</i></td>
+<td>'<span>cold</span>'</td>
+</tr>
+<tr>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td style="white-space: nowrap;"><i>maka-riri</i></td>
+<td>'<span>coldness; shiver from malaria</span>'</td>
+</tr>
+<tr>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td style="white-space: nowrap;"><i>kaka-riri</i></td>
+<td>'<span>coldness</span>'</td>
+</tr>
+<tr>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td style="white-space: nowrap;"><i>maʔa-lili</i></td>
+<td>'<span>cooled</span>'</td>
+</tr>
+<tr>
+<td>Pn</td><td><a href="../languages/mangareva">Mangarevan</a></td><td style="white-space: nowrap;"><i>maka-riri</i></td>
+<td>'<span>cold, chilly</span>'</td>
+</tr>
+<tr>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td style="white-space: nowrap;"><i>maka-riri</i></td>
+<td>[VI] '<span>feel cold, cold (of weather)</span>'; [N] '<span>cold</span>'</td>
 </tr>
 </table>
 
 
 
+Another cognate set meaning ‘cold’ appears to reflect both _&ast;malaso_ ‘cold (verb)’ and _&ast;malaso-ŋ_ ‘cold (noun)’.
 
-<a id="p-226"></a>
-
-<table class="cognateset" id="2-7-5-5-226-POc-malaso-a">
+<table class="cognateset" id="2-7-5-5-224-POc-malaso-a">
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;malaso</i>
 </td>
-<td>'<span>be cold</span>'</td>
+<td>[VI] '<span>be cold</span>'</td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
@@ -4453,6 +4590,10 @@ The other cognate set meaning ‘cold’ appears to reflect both _&ast;malaso_ �
 <td>'<span>(s.o.) cold</span>'</td>
 </tr>
 <tr>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td style="white-space: nowrap;"><i>malaho</i></td>
+<td>'<span>cold, chill</span>'</td>
+</tr>
+<tr>
 <td>NCV</td><td><a href="../languages/mota">Mota</a></td><td style="white-space: nowrap;"><i>malaso</i></td>
 <td>[N] '<span>cold</span>'</td>
 </tr>
@@ -4461,16 +4602,357 @@ The other cognate set meaning ‘cold’ appears to reflect both _&ast;malaso_ �
 <td>[N] '<span>cold</span>'</td>
 </tr>
 <tr>
-<td>SV</td><td><a href="../languages/lenakel">Lenakel</a></td><td style="white-space: nowrap;"><i>mhal</i></td>
-<td>'<span>have a cold sore</span>'</td>
-</tr>
-<tr>
 <td>SV</td><td><a href="../languages/swtanna">Southwest Tanna</a></td><td style="white-space: nowrap;"><i>(ə)mla</i></td>
 <td>'<span>be cold</span>'</td>
 </tr>
 </table>
 
 
+
+Finally, the cognate set below has an uneven distribution, but the correspondence is good.
+
+<table class="cognateset" id="2-7-5-5-224-POc-ppoqut-a">
+<tr>
+<td><strong>POc</strong></td><td> </td>
+<td style="white-space: nowrap;">
+<i>&ast;(p,pʷ)o(q)ut</i>
+</td>
+<td>'<span>be cold</span>'</td>
+</tr>
+<tr>
+<td>MM</td><td><a href="../languages/nehan">Nehan</a></td><td style="white-space: nowrap;"><i>pous-pous-pousu</i></td>
+<td>'<span>stiff, numb with cold</span>'</td>
+</tr>
+<tr>
+<td>MM</td><td><a href="../languages/petats">Petats</a></td><td style="white-space: nowrap;"><i>pout</i></td>
+<td>'<span>(s.o.) cold</span>'</td>
+</tr>
+<tr>
+<td>MM</td><td><a href="../languages/halia">Halia</a></td><td style="white-space: nowrap;"><i>bout</i></td>
+<td>'<span>(water) cold</span>'</td>
+</tr>
+<tr>
+<td><strong>PMic</strong></td><td> </td>
+<td style="white-space: nowrap;">
+<i>&ast;fou</i>
+</td>
+<td>'<span>feel cold</span>'</td>
+</tr>
+<tr>
+<td>Mic</td><td><a href="../languages/marshallese">Marshallese</a></td><td style="white-space: nowrap;"><i>(pi)yaw</i></td>
+<td>'<span>chilly, cool</span>'</td>
+</tr>
+<tr>
+<td>Mic</td><td><a href="../languages/mokilese">Mokilese</a></td><td style="white-space: nowrap;"><i>pow</i></td>
+<td>'<span>feel cold</span>'</td>
+</tr>
+<tr>
+<td>Mic</td><td><a href="../languages/mokilese">Mokilese</a></td><td style="white-space: nowrap;"><i>(ko)pow</i></td>
+<td>'<span>feel cold (of people)</span>'</td>
+</tr>
+<tr>
+<td>Mic</td><td><a href="../languages/chuukese">Chuukese</a></td><td style="white-space: nowrap;"><i>fə̄w</i></td>
+<td>'<span>cold, be cold</span>'</td>
+</tr>
+<tr>
+<td>Mic</td><td><a href="../languages/chuukese">Chuukese</a></td><td style="white-space: nowrap;"><i>əffə̄w</i></td>
+<td>'<span>chills</span>'</td>
+</tr>
+<tr>
+<td>Mic</td><td><a href="../languages/chuukese">Chuukese</a></td><td style="white-space: nowrap;"><i>a-ffə̄w</i></td>
+<td>'<span>be cold to the touch</span>'</td>
+</tr>
+<tr>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td style="white-space: nowrap;"><i>fø̄ʉ</i></td>
+<td>'<span>be cold, cool, shiver</span>'</td>
+</tr>
+<tr>
+<td>Mic</td><td><a href="../languages/woleaian">Woleaian</a></td><td style="white-space: nowrap;"><i>(xaẓi)fø̄ʉ</i></td>
+<td>'<span>be cold, chilly</span>'</td>
+</tr>
+<tr>
+<td>Mic</td><td><a href="../languages/carolinian">Carolinian</a></td><td style="white-space: nowrap;"><i>ffōy, ffə̄y</i></td>
+<td>'<span>feel cold</span>'</td>
+</tr>
+</table>
+
+
+
+
+<a id="s-5-5-2"></a>
+
+#### 5.5.2. Feeling hot
+
+
+Three terms are reconstructable for ‘hot, warm’, POc _&ast;[ma]panas_, POc _&ast;maŋini(t)_ and POc _&ast;tunu-tunu_. The first was probably the general term, to judge from its distribution and its glosses, whilst _&ast;maŋini(t)_ probably had some specialised sense. The third was apparently derived from the verb POc _&ast;tunu_ ‘roast on embers or in fire’ ([vol.1:293](../contributions/1-9#p-293)).
+
+<table class="cognateset" id="2-7-5-5-224-POc-mapanas-a">
+<tr>
+<td><strong>PMP</strong></td><td> </td>
+<td style="white-space: nowrap;">
+<i>&ast;[ma]panas</i>
+</td>
+<td>'<span>be/become warm, hot (of fire, sun, fever, water)</span>' (<a href="../sources/Blust1995">ACD</a>)
+</td>
+</tr>
+<tr>
+<td><strong>POc</strong></td><td> </td>
+<td style="white-space: nowrap;">
+<i>&ast;[ma]panas</i>
+</td>
+<td>'<span>warm, hot</span>'</td>
+</tr>
+<tr>
+<td><strong>POc</strong></td><td> </td>
+<td style="white-space: nowrap;">
+<i>&ast;pa-panas-i-</i>
+</td>
+<td>'<span>warm (s.t.) up</span>'</td>
+</tr>
+<tr>
+<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td style="white-space: nowrap;"><i>anasa</i></td>
+<td>'<span>(s.o.) hot</span>'</td>
+</tr>
+<tr>
+<td>NNG</td><td><a href="../languages/kove">Kove</a></td><td style="white-space: nowrap;"><i>wana-wana</i></td>
+<td>'<span>(s.o.) hot</span>'</td>
+</tr>
+<tr>
+<td>NNG</td><td><a href="../languages/tami">Tami</a></td><td style="white-space: nowrap;"><i>wa-wan</i></td>
+<td>'<span>(s.o.) hot</span>'</td>
+</tr>
+<tr>
+<td>NNG</td><td><a href="../languages/arawe">Arawe</a></td><td style="white-space: nowrap;"><i>ka-wanes</i></td>
+<td>'<span>(s.o.) hot</span>'</td>
+</tr>
+<tr>
+<td>NNG</td><td><a href="../languages/takia">Takia</a></td><td style="white-space: nowrap;"><i>wana-na-n</i></td>
+<td>'<span>hot</span>'</td>
+</tr>
+<tr>
+<td>NNG</td><td><a href="../languages/numbami">Numbami</a></td><td style="white-space: nowrap;"><i>wa-wana</i></td>
+<td>'<span>hot</span>'</td>
+</tr>
+<tr>
+<td>NNG</td><td><a href="../languages/maposbuang">Mapos Buang</a></td><td style="white-space: nowrap;"><i>vanɛ</i></td>
+<td>'<span>hot</span>'</td>
+</tr>
+<tr>
+<td>SJ</td><td><a href="../languages/sobei">Sobei</a></td><td style="white-space: nowrap;"><i>me-fna</i></td>
+<td>'<span>(s.o.) hot</span>'</td>
+</tr>
+<tr>
+<td>MM</td><td><a href="../languages/tigak">Tigak</a></td><td style="white-space: nowrap;"><i>ma-nas</i></td>
+<td>'<span>(s.o.) hot</span>'</td>
+</tr>
+<tr>
+<td>MM</td><td><a href="../languages/ramoaaina">Ramoaaina</a></td><td style="white-space: nowrap;"><i>vu-van</i></td>
+<td>'<span>(s.o.) hot</span>'</td>
+</tr>
+<tr>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td style="white-space: nowrap;"><i>pa-pana</i></td>
+<td>'<span>heat up (food)</span>'</td>
+</tr>
+<tr>
+<td>SES</td><td><a href="../languages/longgu">Longgu</a></td><td style="white-space: nowrap;"><i>pa-pana</i></td>
+<td>'<span>be warm</span>'</td>
+</tr>
+<tr>
+<td>SES</td><td><a href="../languages/longgu">Longgu</a></td><td style="white-space: nowrap;"><i>pa-panaz-i-</i></td>
+<td>'<span>warm (s.o.)</span>'</td>
+</tr>
+<tr>
+<td>SES</td><td><a href="../languages/bauro">Bauro</a></td><td style="white-space: nowrap;"><i>ma-hana</i></td>
+<td>'<span>warm</span>'</td>
+</tr>
+<tr>
+<td>SV</td><td><a href="../languages/kwamera">Kwamera</a></td><td style="white-space: nowrap;"><i>-a-pʷan-a-pʷan</i></td>
+<td>'<span>hot</span>'</td>
+</tr>
+<tr>
+<td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td style="white-space: nowrap;"><i>a-hen-hen</i></td>
+<td>'<span>warm, hot</span>'</td>
+</tr>
+<tr>
+<td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td style="white-space: nowrap;"><i>mah-mahana</i></td>
+<td>'<span>warm</span>'</td>
+</tr>
+<tr>
+<td><strong>PPn</strong></td><td> </td>
+<td style="white-space: nowrap;">
+<i>&ast;ma-fana</i>
+</td>
+<td>'<span>be warm</span>'</td>
+</tr>
+<tr>
+<td><strong>PPn</strong></td><td> </td>
+<td style="white-space: nowrap;">
+<i>&ast;faka-fana</i>
+</td>
+<td>'<span>warm (s.t.) up</span>' (<span>POLLEX</span>)</td>
+</tr>
+<tr>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td style="white-space: nowrap;"><i>ma-fana</i></td>
+<td>'<span>warm (of food, water, drink); unpleasantly warm, stuffy (of room)</span>'</td>
+</tr>
+<tr>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td style="white-space: nowrap;"><i>mā-fana</i></td>
+<td>'<span>warmth; warm (of country, time, day); pleasantly warm</span>'</td>
+</tr>
+<tr>
+<td>Pn</td><td><a href="../languages/niuafoou">Niuafo’ou</a></td><td style="white-space: nowrap;"><i>mā-fana</i></td>
+<td>'<span>warm</span>'</td>
+</tr>
+<tr>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td style="white-space: nowrap;"><i>ma-fana</i></td>
+<td>'<span>warm</span>'</td>
+</tr>
+<tr>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td style="white-space: nowrap;"><i>faka-fana</i></td>
+<td>'<span>warm up (as food)</span>'</td>
+</tr>
+<tr>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>mā-fana-fana</i></td>
+<td>'<span>warm</span>'</td>
+</tr>
+<tr>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>faʔa-fana</i></td>
+<td>'<span>reheat, warm up food</span>'</td>
+</tr>
+<tr>
+<td>Pn</td><td><a href="../languages/tuvalu">Tuvalu</a></td><td style="white-space: nowrap;"><i>ma-fana</i></td>
+<td>'<span>warm, re-bake</span>'</td>
+</tr>
+<tr>
+<td>Pn</td><td><a href="../languages/eastfutunan">East Futunan</a></td><td style="white-space: nowrap;"><i>mā-fana</i></td>
+<td>'<span>warm</span>'</td>
+</tr>
+<tr>
+<td>Pn</td><td><a href="../languages/eastfutunan">East Futunan</a></td><td style="white-space: nowrap;"><i>faka-fana</i></td>
+<td>'<span>warm up cold food</span>'</td>
+</tr>
+<tr>
+<td>Pn</td><td><a href="../languages/sikaiana">Sikaiana</a></td><td style="white-space: nowrap;"><i>mā-hana</i></td>
+<td>'<span>warm</span>'</td>
+</tr>
+<tr>
+<td>Pn</td><td><a href="../languages/luangiua">Luangiua</a></td><td style="white-space: nowrap;"><i>ma-haŋa</i></td>
+<td>'<span>warm; feverish</span>'</td>
+</tr>
+<tr>
+<td>Pn</td><td><a href="../languages/takuu">Takuu</a></td><td style="white-space: nowrap;"><i>ma-fana</i></td>
+<td>'<span>(of water, etc. but not weather) warm; feverish</span>'</td>
+</tr>
+<tr>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td style="white-space: nowrap;"><i>ma-hana</i></td>
+<td>'<span>warm</span>'</td>
+</tr>
+<tr>
+<td>Pn</td><td><a href="../languages/tahitian">Tahitian</a></td><td style="white-space: nowrap;"><i>ma-hana-hana</i></td>
+<td>'<span>warm</span>'</td>
+</tr>
+<tr>
+<td>Pn</td><td><a href="../languages/mangareva">Mangarevan</a></td><td style="white-space: nowrap;"><i>maʔana</i></td>
+<td>'<span>warm</span>'</td>
+</tr>
+</table>
+
+
+
+<table class="cognateset" id="2-7-5-5-224-POc-mainit-a">
+<tr>
+<td><strong>PMP</strong></td><td> </td>
+<td style="white-space: nowrap;">
+<i>&ast;maN-qinit</i>
+</td>
+<td>'<span>hot, warm</span>' (<span>ACD: &ast;qinit ‘heat, warmth’</span>)</td>
+</tr>
+<tr>
+<td><strong>POc</strong></td><td> </td>
+<td style="white-space: nowrap;">
+<i>&ast;maŋini(t)</i>
+</td>
+<td>'<span>become hot, warm (?)</span>'</td>
+</tr>
+<tr>
+<td>MM</td><td><a href="../languages/lungga">Lungga</a></td><td style="white-space: nowrap;"><i>maŋini</i></td>
+<td>'<span>warm</span>'</td>
+</tr>
+<tr>
+<td>MM</td><td><a href="../languages/roviana">Roviana</a></td><td style="white-space: nowrap;"><i>maŋini</i></td>
+<td>'<span>warm</span>'</td>
+</tr>
+<tr>
+<td>MM</td><td><a href="../languages/hoava">Hoava</a></td><td style="white-space: nowrap;"><i>maŋini</i></td>
+<td>'<span>warm</span>'</td>
+</tr>
+</table>
+
+
+
+The reflexes of the term below suggest the form †&ast;tun-tunu, but the phonotactics and reduplication patterns of POc require _&ast;tunu-tunu_, even though the second of the four instances of _&ast;-u-_ happens not to be reflected in the cognate set below.
+
+<table class="cognateset" id="2-7-5-5-224-POc-tunutunu-a">
+<tr>
+<td><strong>POc</strong></td><td> </td>
+<td style="white-space: nowrap;">
+<i>&ast;tunu-tunu</i>
+</td>
+<td>'<span>hot</span>'</td>
+</tr>
+<tr>
+<td>Adm</td><td><a href="../languages/lou">Lou</a></td><td style="white-space: nowrap;"><i>tuntun-an</i></td>
+<td>'<span>feel hot</span>'</td>
+</tr>
+<tr>
+<td>NNG</td><td><a href="../languages/malai">Malai</a></td><td style="white-space: nowrap;"><i>tun-tunu</i></td>
+<td>'<span>hot</span>'</td>
+</tr>
+<tr>
+<td>NNG</td><td><a href="../languages/gitua">Gitua</a></td><td style="white-space: nowrap;"><i>tun-tun</i></td>
+<td>'<span>hot</span>'</td>
+</tr>
+<tr>
+<td>MM</td><td><a href="../languages/sursurunga">Sursurunga</a></td><td style="white-space: nowrap;"><i>tun-tun</i></td>
+<td>'<span>warm (as house), tepid (as water)</span>'</td>
+</tr>
+<tr>
+<td>MM</td><td><a href="../languages/konomala">Konomala</a></td><td style="white-space: nowrap;"><i>tun-tun</i></td>
+<td>'<span>(s.o.) hot</span>'</td>
+</tr>
+<tr>
+<td><strong>PNCV</strong></td><td> </td>
+<td style="white-space: nowrap;">
+<i>&ast;tu-tunu</i>
+</td>
+<td>'<span>warm, hot</span>' (<a href="../sources/Clark2009">Clark 2009</a>: <span>*tunu</span>)
+</td>
+</tr>
+<tr>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td style="white-space: nowrap;"><i>tu-tun</i></td>
+<td>'<span>warm, hot</span>'</td>
+</tr>
+<tr>
+<td>NCV</td><td><a href="../languages/nokuku">Nokuku</a></td><td style="white-space: nowrap;"><i>tu-tunu</i></td>
+<td>'<span>warm, hot</span>'</td>
+</tr>
+<tr>
+<td>NCV</td><td><a href="../languages/uripiv">Uripiv</a></td><td style="white-space: nowrap;"><i>o-tu-tun</i></td>
+<td>'<span>hot</span>'</td>
+</tr>
+<tr>
+<td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td style="white-space: nowrap;"><i>tu-tunu</i></td>
+<td>'<span>be warm, not very hot; tepid</span>'</td>
+</tr>
+</table>
+
+
+
+
+<a id="p-225"></a>
+
+
+<a id="p-226"></a>
 
 
 <a id="s-5-6"></a>
@@ -4875,8 +5357,6 @@ POc _&ast;[ma-](r,R)aŋo_ displays a phonological problem. Apparent non-Oceanic 
 [^20]: Blust’s 24-language survey suggests that property terms other than colour terms are only rarely reduplicated. This corroborates the research underlying [Ross](../sources/Ross1998a) ([1998a](../sources/Ross1998a)), where the only languages with a strong tendency to reduplicate property terms are those in Western Oceanic which have innovated a distinct adjective class.
 
 [^21]: The Southeast Solomonic reflexes show unexplained loss of _&ast;k_.
-
-[^22]: The final _&ast;-(p)_ of _&ast;[t,d]onu(p)_ is tentatively reconstructed to account for Numbami _tonowa_, where paragogic _-a_ indicates the presence of a final consonant and _-w-_ reflects _&ast;-p_.
 
 [^23]: Aua initial _w-_ could reflect either _&ast;mʷ-_ or _&ast;w-_, but I have assumed the Aua reflex to reflect _&ast;mʷane-mʷane_, as this is reflected elsewhere in the Admiralties.
 

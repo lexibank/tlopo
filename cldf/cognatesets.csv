@@ -563,8 +563,8 @@ ID,Description,Source,Name,Form_ID,Comment,Doubt,Level
 2-4-2-4-100-POc-bayau-a,"foam, spindrift at sea",,bayau,poc-bayau-1,,,POc
 2-4-2-4-100-POc-loka-a,"rough of sea; great wave, as in heavy surf",,loka,poc-loka-1,,,POc
 2-4-2-5-101-POc-busa-a,"foam of the sea; foaming, breaking",,busa,pmp-busa-1,,,PMP
-2-4-2-5-101-POc-buso-a,"bubbles, foam, froth",,bujeq,pmp-bujeq-1,,,PMP
-2-4-2-5-102-POc-puso-a,"foam, bubble",,bujeq,pan-bujeq-1,,,PAn
+2-4-2-5-101-POc-bucoq-a,"bubbles, foam, froth",,bujeq,pmp-bujeq-1,,,PMP
+2-4-2-5-102-POc-pucoq-a,"foam, bubble",,bujeq,pan-bujeq-1,,,PAn
 2-4-2-6-103-POc-maqati-a,"ebb, of the tide, as opposed to the flow",,ma-qaCi,pan-maqaci-1,,,PAn
 2-4-2-6-105-POc-mamaca-a,empty of liquid,,maja,pmp-maja-1,,,PMP
 2-4-2-6-106-POc-uruap-a,wave; tide,,Ruab,pmp-ruab-1,,,PMP
@@ -584,7 +584,7 @@ ID,Description,Source,Name,Form_ID,Comment,Doubt,Level
 2-4-3-3-114-PPn-toka-a,"rock in sea, visible at low tide",,toka,ppn-toka-1,,,PPn
 2-4-3-4-114-POc-namo-a,lagoon,,namaw,pmp-namaw-1,,,PMP
 2-4-3-4-115-POc-loto-a,lagoon,,loto,poc-loto-1,,,POc
-2-4-3-5-116-POc-sawan-a,"port, harbour; channel or passage, as through a reef",,sawaq,pmp-sawaq-2,,,PMP
+2-4-3-5-116-POc-sawan-a,"(i) (when speaker is on coast) the beach or reef flat; (ii) (when speaker is inland) the coast, seaside",,sawaq,pmp-sawaq-2,,,PMP
 2-4-3-5-117-POc-mataqinisawan-a,beach,,"mata (qi,ni) sawa(n,ŋ)",poc-mataqinisawan-1,,,POc
 2-4-3-5-117-POc-wasas-a,"space, interval",,wasas,poc-wasas-1,,,POc
 2-5-4-1-126-POc-ain-a,"(wind, breeze) blow",,haŋin,pmp-hain-1,,,PMP
@@ -730,7 +730,7 @@ ID,Description,Source,Name,Form_ID,Comment,Doubt,Level
 2-7-5-1-218-POc-madralist-a,"wet and slippery, as rocks",,ma-dalis,pan-madalis-1,,,PAn
 2-7-5-1-219-POc-makoto-a,lie down,,[ma]koto,poc-makoto-1,,,POc
 2-7-5-1-219-POc-kodos-a,straight,,kodos,poc-kodos-1,,,POc
-2-7-5-1-219-POc-tdonup-a,"right, correct",,"[t,d]onu(p)",poc-tdonup-1,,,POc
+2-7-5-1-219-POc-tonuq-a,"right, correct, true, exact",,tonuq,poc-tonuq-1,,,POc
 2-7-5-1-220-POc-manemane-a,"straight, right, correct",,mʷane-mʷane,poc-manemane-1,,,POc
 2-7-5-1-220-POc-wanewane-a,"straight, steady, still",,wane-wane,poc-wanewane-1,,,POc
 2-7-5-1-220-PWOc-kalis-a,crooked,,kalis,pwoc-kalis-1,,,PWOc
@@ -744,12 +744,14 @@ ID,Description,Source,Name,Form_ID,Comment,Doubt,Level
 2-7-5-4-223-POc-ponuq-a,,,ponuq,pmp-ponuq-1,,,PMP
 2-7-5-4-224-POc-puu-a,,,puŋu,poc-puu-1,,,POc
 2-7-5-4-224-POc-poju-a,full,,besuR,pan-besur-1,,,PAn
+2-7-5-5-224-POc-maridri-a,cold,,ma-diŋdiŋ,pmp-madidi-1,,,PMP
+2-7-5-5-224-POc-madridri-a,cold,,mandiŋ-diŋ,pmp-mandidi-1,,,PMP
+2-7-5-5-224-POc-makaridri-a,"feel cold, cold (of weather)",,maka-diŋdiŋ,pmp-makadidi-1,,,PMP
+2-7-5-5-224-POc-malaso-a,be cold,,malaso,poc-malaso-1,,,POc
+2-7-5-5-224-POc-ppoqut-a,feel cold,,"(p,pʷ)o(q)ut",poc-ppoqut-1,,,POc
 2-7-5-5-224-POc-mapanas-a,warm,,[ma]panas,pmp-mapanas-1,,,PMP
-2-7-5-5-225-POc-mainit-a,warm,,maN-qinit,pmp-manqinit-1,,,PMP
-2-7-5-5-225-POc-maridri-a,cold,,diŋin,pmp-diin-1,,,PMP
-2-7-5-5-225-POc-madridri-a,cold,,madri(d)riŋ,poc-madridri-1,,,POc
-2-7-5-5-225-POc-makaridri-a,(be) cold,,makaridriŋ,poc-makaridri-1,,,POc
-2-7-5-5-226-POc-malaso-a,be cold,,malaso,poc-malaso-1,,,POc
+2-7-5-5-224-POc-mainit-a,warm,,maN-qinit,pmp-manqinit-1,,,PMP
+2-7-5-5-224-POc-tunutunu-a,"be warm, not very hot; tepid",,tunu-tunu,poc-tunutunu-1,,,POc
 2-7-5-6-226-POc-buluk-a,soaked,,buluk,poc-buluk-1,,,POc
 2-7-5-6-227-POc-marao-a,"dry (of wood, trees)",,[ma]Raŋaw,pmp-maraaw-1,,,PMP
 2-7-5-6-228-POc-karrao-a,low tide,,"ka-(r,R)aŋo",poc-karrao-1,,,POc
@@ -2026,7 +2028,7 @@ ID,Description,Source,Name,Form_ID,Comment,Doubt,Level
 5-3-8-6-203-PMM-takei-a,excrement,,"tak(e,i)",pmm-takei-1,,,PMM
 5-3-9-1-204-POc-qanunu-a,"image, shape, reflection",,qaLiŋu,pan-qaliu-1,,,PAn
 5-3-9-1-205-PSOc-nunu-a,"to cover, to shade (incantation)",,nunu,psoc-nunu-1,,,PSOc
-5-3-9-1-205-POc-qatar-a,"shadow, reflection, image, likeness",,qatad,pmp-qatad-1,,,PMP
+5-3-9-1-205-POc-qata-a,"shadow, reflection, image, likeness",,qata,poc-qata-1,,,POc
 5-3-9-2-206-POc-qaca-a,namesake,,ŋajan,pan-ajan-1,,,PAn
 5-3-9-2-207-POc-isca-a,name,,"i(s,c)aŋ, i(s,c)a-",poc-iscaisca-1,,,POc
 5-4-2-1-210-POc-maqurip-a,"life principle, source of emotions",,qudip,pan-qudip-1,,,PAn
@@ -2194,11 +2196,6 @@ ID,Description,Source,Name,Form_ID,Comment,Doubt,Level
 5-4-7-6-326-POc-drerdre-a,"chatter, rattle",,"dre(r,dr)e",poc-drerdre-1,,,POc
 5-4-7-6-327-POc-ruru-a,earthquake,,ruru,poc-ruru-1,,,POc
 5-4-7-6-327-PROc-drudru-a,"shake, tremble, quake (of persons)",,drudru,proc-drudru-1,,,PROc
-5-4-8-1-329-POc-maridri-a,cold,,ma-diŋdiŋ,pmp-madidi-1,,,PMP
-5-4-8-1-330-POc-madridri-a,cold,,mandiŋ-diŋ,pmp-mandidi-1,,,PMP
-5-4-8-1-330-POc-makaridri-a,"feel cold, cold (of weather)",,maka-diŋdiŋ,pmp-makadidi-1,,,PMP
-5-4-8-1-331-POc-ppoqut-a,feel cold,,"(p,pʷ)o(q)ut",poc-ppoqut-1,,,POc
-5-4-8-2-333-POc-tunutunu-a,"be warm, not very hot; tepid",,tunu-tunu,poc-tunutunu-1,,,POc
 5-5-3-1-336-POc-masakit-a,ill; sick person; cutaneous disease,,masakit,pmp-masakit-1,,,PMP
 5-5-3-1-337-PWOc-majikqi-a,be in pain,,"[ma]ji(k,q)i",pwoc-majikqi-1,,,PWOc
 5-5-3-1-338-POc-pitik-a,to feel pain,,pi(n)tik,pmp-pintik-1,,,PMP
@@ -2444,7 +2441,6 @@ ID,Description,Source,Name,Form_ID,Comment,Doubt,Level
 5-10-3-None-547-POc-manacam-a,know (s.o.),,ma-Lajam,pan-malajam-1,,,PAn
 5-10-4-None-550-POc-tutuna-a,"real, true, original",,[tu]tuna,poc-tutuna-1,,,POc
 5-10-4-None-550-POc-tduqu-a,believe,,"(t,d)uqu",poc-tduqu-1,,,POc
-5-10-4-None-551-POc-tonuq-a,"right, correct, true, exact",,tonuq,poc-tonuq-1,,,POc
 5-10-4-None-552-POc-maqoli-a,indigenous people of the Chatham Islands,,ma-qoli,poc-maqoli-1,,,POc
 5-10-4-None-553-POc-maqoni-a,"true, sincere, honest",,ma-qoni,poc-maqoni-1,,,POc
 5-10-4-None-553-POc-mola-a,true,,molaŋ,pemp-mola-1,,,PEMP
@@ -2628,7 +2624,6 @@ ID,Description,Source,Name,Form_ID,Comment,Doubt,Level
 6-7-2-None-238-PNGOc-baraqum-a,spirits of ancient dead,,bara(q)um,pngoc-baraqum-1,,,PNGOc
 6-7-2-None-238-PSES-tiadalo-a,disembodied spirit living on earth; ghost in spirit world,,"t(i,a)dalo",pses-tiadalo-1,,,PSES
 6-7-2-None-239-POc-malrriawa-a,ghost,,"mʷa(l,r,R)(i)awa-",poc-malrriawa-1,,,POc
-6-7-4-None-243-POc-qata-a,"shadow, reflection, image",,qata,poc-qata-1,,,POc
 6-7-4-None-244-PPn-qaaqaa-a,body,,qaŋa-qaŋa,ppn-qaaqaa-1,,,PPn
 6-7-5-None-245-POc-qatuan-a,"God, goddess, spirit, ghost, devil, image, idol, corpse; divine, supernatural, godly",,qatuan,pmp-qatuan-1,,,PMP
 6-7-5-None-246-POc-tubuqan-a,"supernatural being, being with natural power",,tubuqan,poc-tubuqan-1,,,POc

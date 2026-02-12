@@ -915,10 +915,28 @@ According to Durrad, five Loh months, from April to August, are named for the se
 
 In Mota, as there are many more month names than can be fitted into a lunar year, the list given is a selection among the possible names. Included are three maɣoto months, May to July, two rara months, August and September, and three palolo (un) months, October to December. The _maɣoto_ month of May is translated as ‘fresh grass’, equivalent with Loh ‘wet grass’. [Codrington](Source#cldf:Codrington1891) ([1891](Source#cldf:Codrington1891):350) writes that, for Mota, _maɣoto_ and _rara_, the erythrina or coral tree (from POc _&ast;rarap_, [vol.3:158](ContributionTable?anchor=p-158#cldf:3-5), 257) have become seasonal terms for summer and winter respectively, roughly equating with the annual division of the Loh calendar (cf [§11.4.6](ContributionTable?anchor=s-11-4-6#cldf:6-11)).
 
-[Table 11.20](#table-11.20) # FIXME: Table 11.20 not legible in PDF
-
 
 <a id="p-336"></a>
+
+<a id="table-11.20"> </a>
+
+: __Table 11.20__ Month names from the Torres and Banks Islands
+
+|     | Loh                     | ([Durrad 1940](Source#cldf:Durrad1940); François pers. comm)   | Mota               | ([Codrington 1891](Source#cldf:Codrington1891))                | Mwotlap              | ([François 2023](Source#cldf:Francois2023))                         | Mwesen           | (François pers. comm)   |
+|:----|:------------------------|:-------------------------------------|:-------------------|:---------------------------------|:---------------------|:----------------------------------------|:-----------------|:------------------------|
+|     | Month name              | Gloss                                | Month name         | Gloss                            | Month name           | Gloss                                   | Month name       | Gloss                   |
+| 01  | _n’ʉt wir_              | ‘(end of ??) palolo’                 | _vule wotɣoro_     | ‘season of [reeds] flowering’    | _nı-wıtɣoy_          | ‘budding on and on’ (of reeds)          | _revsos_         | ‘[reeds are] thick’     |
+| 02  | _n’ʉt mələɣɛhə_         | ‘green palolo’                       | _vusi-aru_         | ‘(wind) beats-casuarina’         | _lamʷheg towowoh_    | ‘(winds) strike and burst (reeds) open’ | _ristek taqan_   | ‘grab hold [of belly]’  |
+| 03  | _n’ʉt məməʈarə_         | ‘red palolo’                         | _tete mavuru_      | [fragments fly.off] (of reeds)   | _tıtnawo~tıtnamʷot_  | …                                       | _seser vulu-pıt_ | ‘blow white hair’       |
+| 04  | _nə moɣot metə_         | ‘fresh grass’                        | _lamasaɣ noronoro_ | ‘[wind] beats rattle’            | _lamʷheg doydoy_     | ‘[wind] beats rattle’                   | _lamse nornor_   | ‘[wind] beats rattle’   |
+| 05  | _nə moɣot reŋ_          | ‘dry grass’                          | _maɣoto kpʷaro_    | ‘grass (is) fresh’               | _bulbultetdot~wōlta_ | …                                       | …                | …                       |
+| 06  | _nə moɣot ɣilɣil təmeɣ_ | ‘season (of) digging up wild yam’    | _maɣoto raŋo_      | ‘grass (is) dry’                 | _wuyveɣsa~tētmal et_ | …                                       | …                | …                       |
+| 07  | _nə moɣot ɣilɣil kʷɛtə_ | ‘season (of) digging up taro’        | _maɣoto raŋo_      | ‘grass (is) dry’                 | _napdumʊl_           | …                                       | …                | …                       |
+| 08  | _nə moɣot ɣortɔ_        | ‘season (of) preparing garden’       | _naɣo rara_        | ‘face (of) _Erythrina_’          | _taklê in-gon_       | ‘piece of ‘bitter palolo’’ (see below)  | …                | …                       |
+| 09  | _wor ɣoɔnə_             | _ɣoɔnə_ ‘bitter’                     | _tur rara_         | ‘_Erythrina_ stands (in flower)’ | _n-in-ɣon_           | ‘bitter palolo’                         | …                | …                       |
+| 10  | _wor məmɔ_              | _məmɔ_ ‘fresh’                       | _un ɣoɣona/un riɣ_ | ‘bitter/small palolo’            | _n-in-yiɣ_           | ‘small palolo’                          | …                | …                       |
+| 11  | _n’ʉt_                  | ‘palolo’                             | _un lava_          | ‘big palolo’                     | _n-in-lap_           | ‘big palolo’                            | …                | …                       |
+| 12  | _n’ʉt lavə_             | ‘big palolo’                         | _un werei_         | ‘end of palolo’                  | _n-in-wey_           | ‘vanished palolo’                       | …                | …                       |
 
 
 <a id="p-337"></a>

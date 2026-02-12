@@ -1428,9 +1428,9 @@ Blust (ACD) has reconstructed several forms denoting ‘foam’ for PAn and lowe
 
 PAn _&ast;buCaq_ and _&ast;puCaq_ are to our knowledge not reflected in Oceanic languages (the expected POc reflexes of either would be _&ast;&ast;puta(q)_ and _&ast;&ast;buta(q)_). Of the other forms, PMP _&ast;budaq_ (POc _&ast;pura(q)_) and POc _&ast;puro_ are discussed in Chapter 3 (see p.61 and p.83 respectively), whilst PMP _&ast;busa_ and PAn _&ast;bujeq_ are referred to below. Blust’s reflexes of _&ast;bua_ are two from Taiwan, together with the Tolai and Maori reflexes that we prefer to attribute to PMP _&ast;busa_ (the expected Maori form is _&ast;&ast;puha_).
 
-No single contemporary Oceanic language we know of has reflexes of two of these forms with identical meaning. However, Arosi has a contrast between _ʔabuta_ ‘the break of a wave, the foam and white of the crest of a wave’ and _huto-hut_o ‘foam, froth’, while ’Are’are contrasts _aputa_ ‘(surf) break’ with _huto-huto_ ‘slime, saliva’. This suggests that POc _&ast;busa_ and _&ast;puso_ may have differed in meaning, with the former perhaps denoting foam of the sea and the latter a more general term for foaming or slimy substances.
+No single contemporary Oceanic language we know of has reflexes of two of these forms with identical meaning. However, Arosi has a contrast between _ʔabuta_ ‘the break of a wave, the foam and white of the crest of a wave’ and _huto-hut_o ‘foam, froth’, while ’Are’are contrasts _aputa_ ‘(surf) break’ with _huto-huto_ ‘slime, saliva’. This suggests that POc _&ast;busa_ and _&ast;puco(q)_ may have differed in meaning, with the former perhaps denoting foam of the sea and the latter a more general term for foaming or slimy substances.
 
-There is an additional formal complication, namely that PMP _&ast;bujeq_ seems to have two sets of reflexes in Oceanic languages, pointing to two POc forms: _&ast;buso_ and POc _&ast;puso_. It may be that POc indeed had both, _&ast;buso_ perhaps a verb, _&ast;puso_ a verb or a noun (see [vol.1,30](../contributions/1-2#p-30)–31). Alternatively, forms apparently reflecting _&ast;buso_ may represent a conflation of _&ast;busa_ and _&ast;puso_, implying that &ast;buso did not in fact occur in POc.
+There is an additional formal complication, namely that PMP _&ast;bujeq_ seems to have two sets of reflexes in Oceanic languages, pointing to two POc forms: _&ast;buco(q)_ and POc _&ast;puco(q)_. It may be that POc indeed had both, _&ast;buco(q)_ perhaps a verb, _&ast;puco(q)_ a verb or a noun (see [vol.1,30](../contributions/1-2#p-30)–31). Alternatively, forms apparently reflecting _&ast;buco(q)_ may represent a conflation of _&ast;busa_ and _&ast;puco(q)_, implying that _&ast;buco(q)_ did not in fact occur in POc.
 
 <table class="cognateset" id="2-4-2-5-101-POc-busa-a">
 <tr>
@@ -1493,7 +1493,7 @@ cf. also:
 </table>
 
 
-<table class="cognateset" id="2-4-2-5-101-POc-buso-a">
+<table class="cognateset" id="2-4-2-5-101-POc-bucoq-a">
 <tr>
 <td><strong>PMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1505,7 +1505,7 @@ cf. also:
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
-<i>&ast;buso</i>
+<i>&ast;buco(q)</i>
 </td>
 <td>'<span>foam, froth</span>'</td>
 </tr>
@@ -1544,7 +1544,7 @@ cf. also:
 
 <a id="p-102"></a>
 
-<table class="cognateset" id="2-4-2-5-102-POc-puso-a">
+<table class="cognateset" id="2-4-2-5-102-POc-pucoq-a">
 <tr>
 <td><strong>PAn</strong></td><td> </td>
 <td style="white-space: nowrap;">
@@ -1556,7 +1556,7 @@ cf. also:
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
-<i>&ast;puso</i>
+<i>&ast;puco(q)</i>
 </td>
 <td>'<span>foam, froth, slime</span>'</td>
 </tr>
@@ -3356,33 +3356,6 @@ The final nasal of _&ast;sawa(n,ŋ)_ is unexpected but attested in languages tha
 <tr>
 <td>Fij</td><td><a href="../languages/wayan">Wayan</a></td><td style="white-space: nowrap;"><i>ðawa</i></td>
 <td>[N LOC] '<span>(i) (when speaker is on coast) the beach or reef flat; (ii) (when speaker is inland) the coast, seaside</span>'</td>
-</tr>
-<tr>
-<td><strong>PPn</strong></td><td> </td>
-<td style="white-space: nowrap;">
-<i>&ast;awa</i>
-</td>
-<td>'<span>channel, passage through reef</span>' (<span>Biggs &amp; Clark 1993; loss of initial <em>&ast;s-</em> is unexpected</span>)</td>
-</tr>
-<tr>
-<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td style="white-space: nowrap;"><i>ava</i></td>
-<td>'<span>channel, opening in the reef; harbour</span>'</td>
-</tr>
-<tr>
-<td>Pn</td><td><a href="../languages/rennellese">Rennellese</a></td><td style="white-space: nowrap;"><i>aba</i></td>
-<td>'<span>pass, channel, canoe anchorage</span>'</td>
-</tr>
-<tr>
-<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>ava</i></td>
-<td>'<span>channel, passage (in the reef), gap</span>'</td>
-</tr>
-<tr>
-<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td style="white-space: nowrap;"><i>awa</i></td>
-<td>'<span>channel, landing place for canoes</span>'</td>
-</tr>
-<tr>
-<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td style="white-space: nowrap;"><i>awa</i></td>
-<td>'<span>port, harbour; channel or passage, as through a reef</span>'</td>
 </tr>
 </table>
 

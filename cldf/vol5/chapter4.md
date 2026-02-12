@@ -1839,9 +1839,7 @@ Very few of the available dictionaries differentiate the senses of ‘cold’ as
 
 <a id="p-329"></a>
 
-# FIXME: How to deal with these "revisions" below?
-
-A consequence of this is that §[§4.8.1](ContributionTable?anchor=s-4-8-1#cldf:5-4)–2 are revisions of the section on temperature in [vol.2:217](ContributionTable?anchor=p-217#cldf:2-7)–218—this despite the fact that those terms were concerned with (b), whereas we are here concerned with (a). Although it may be assumed that POc made distinctions of the kind listed above, it is not possible to determine accurately how reconstructed terms for ‘hot’ and ‘cold’ related to (a), (b) and (c).
+Although it may be assumed that POc made distinctions of the kind listed above, it is not possible to determine accurately how reconstructed terms for ‘hot’ and ‘cold’ related to (a), (b) and (c).
 
 
 <a id="s-8-1"></a>

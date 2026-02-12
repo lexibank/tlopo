@@ -26,23 +26,23 @@ Available online at http://hdl.handle.net/1885/106908
 ![BIPA: 59%](https://img.shields.io/badge/BIPA-59%25-red.svg "BIPA: 59%")
 ![CLTS SoundClass: 59%](https://img.shields.io/badge/CLTS%20SoundClass-59%25-red.svg "CLTS SoundClass: 59%")
 
-- **Varieties:** 756 (linked to 641 different Glottocodes)
-- **Concepts:** 19,942 (linked to 0 different Concepticon concept sets)
-- **Lexemes:** 43,073
+- **Varieties:** 755 (linked to 641 different Glottocodes)
+- **Concepts:** 19,934 (linked to 0 different Concepticon concept sets)
+- **Lexemes:** 43,045
 - **Sources:** 583
 - **Synonymy:** 1.02
-- **Cognacy:** 41,052 cognates in 2,829 cognate sets (0 singletons)
+- **Cognacy:** 40,977 cognates in 2,824 cognate sets (0 singletons)
 - **Cognate Diversity:** -0.74
 - **Invalid lexemes:** 0
-- **Tokens:** 202,207
+- **Tokens:** 202,042
 - **Segments:** 296 (121 BIPA errors, 121 CLTS sound class errors, 175 CLTS modified)
-- **Inventory size (avg):** 16.22
+- **Inventory size (avg):** 16.24
 
 ## Possible Improvements:
 
 
 
-- Entries missing sources: 40712/43073 (94.52%)
+- Entries missing sources: 40686/43045 (94.52%)
 
 # Contributors
 
