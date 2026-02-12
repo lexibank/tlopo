@@ -11336,17 +11336,14 @@ PPn *qata ‘spirit, soul; shadow (not shade), reflection, image’ (POLLEX)
  Pn:   W Uvean              ata            ‘reflection, spirit of (dead) soul’
  Pn:   Tikopia              ata            ‘shadow, reflection, representation of person or spirit’
  Pn:   Maori                ata            ‘shadow, reflection; spirit, soul’
- Pn:   Hawaiian             aka            ‘shadow, reflection, image’
+ Pn:   Hawaiian             aka            ‘shadow, reflection, image, likeness’
 cf. also:
  NNG:  Yabem                katu-          ‘his shadow, picture, soul, ghost, spirit’
 >
 
 # FIXME: error in vol5
 
-[4] POc _*qata(r)_ ‘soul, spirit; shadow, reflection’ was reconstructed with POc final _*(-r)_ in vol.5:205,
-    following Dempwolff’s (1938:60) PMP _*qantad_. In vol.5 the PMP term was wrongly glossed
-    ‘appearance, mark’. Dempwolff glosses it ‘be visible’. With this gloss it is an unlikely antecedent of
-    POc _*qata_ ‘soul …’. The latter is distinct from the homophonous POc _*qata_ ‘person’ (vol.5:46).
+[4] POc _*qata_ ‘soul, spirit; shadow, reflection’ is distinct from the homophonous POc _*qata_ ‘person’ (vol.5:46).
 
 244 Meredith Osmond
 

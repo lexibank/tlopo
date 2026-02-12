@@ -10369,8 +10369,7 @@ been, but it is possible that the basic sense of the former was ‘shadow’, of
 ‘soul’.
 
 <
-PMP *qatad ‘appearance, mark’ (Dempwolff 1938, Dahl 1981)
-POc *qata(r) ‘image, reflection, soul, spirit’
+POc *qata ‘soul, spirit; shadow, reflection’
   TM: Buma                  ata                 ‘soul, spirit’
   TM: Tanema                ae                  ‘soul, spirit’
   NCV: Mota                 ata(i)              ‘soul’
@@ -10378,7 +10377,7 @@ POc *qata(r) ‘image, reflection, soul, spirit’
   NCV: Namakir              ʔata-               ‘(person’s) spirit’
   NCal: Iaai                hate                ‘mark, shadow’
   Fij:   Rotuman            afa                 ‘make a mark or impression’
-PPn *qata ‘spirit, soul, shadow, reflection’ (POLLEX)
+PPn *qata ‘spirit, soul; shadow (not shade), reflection, image’ (POLLEX)
   Pn:    Tongan             ʔata                ‘image, shadow, reflection’
   Pn:    Niuean             ata                 ‘shadow, reflection’
   Pn:    Samoan             ata                 ‘shadow, reflection’
