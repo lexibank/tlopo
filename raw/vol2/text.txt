@@ -10714,106 +10714,240 @@ POc *poju ‘full’
 
 7.5.5 Temperature
 
-   Two terms are reconstructable for ‘hot, warm’, _*[ma]panas_ and _*maŋini(t)_. The first
-was probably the general term, to judge from its distribution, whilst _*maŋini(t)_ probably
-had some specialised sense.
+    The reconstruction of terms for ‘hot’ and ‘cold’ is tricky, because the English words have a
+number of senses for which Oceanic speakers use different words or phrases. The English use
+of ‘cold’ to denote a sickness is set aside here. Some Oceanic languages distinguish between
+
+__block__
+a. a person feeling cold (the sense §4.8.1 is concerned with),
+b. a substance being cold to the touch, and
+c. the air, wind or weather being cold.
+
+   Thus in To’aba’ita the terms are (a) _tega_ or _aqai_, (b) _gʷari_, and (c) _ʔoleʔoleʔa_. However,
+there is a twist: (a) may also be _gʷa-gʷari_, a reduplicated form of (b) (Lichtenberk 2008).
+
+   In Dobu (a) and (c) are both _gogai_, and (b) is _gonituna_, or _goyuyuwana_ if the cold
+substance is water (Lithgow & Lithgow 2006).
+
+   Very few of the available dictionaries differentiate the senses of ‘cold’ as carefully as these
+two, so there is a data problem. This is compounded, as seen in both To’aba’ita and Dobu, by
+the fact that a term may span two of the three senses. Much the same is true of words for ‘hot’.
+
+   Although it may be assumed that POc made distinctions of the kind
+listed above, it is not possible to determine accurately how reconstructed terms for ‘hot’ and
+‘cold’ related to (a), (b) and (c).
+
+7.5.5.1 Feeling cold
+
+There are several POc forms for ‘cold’ which are derived ultimately from PMP _*diŋin_ ‘cold’.
+However, Chamorro _maniŋhiŋ_ ‘cold’ reflects PMP _*maN-diŋdiŋ_ (Blust 1970:133), and it can
+be assumed that the POc forms reflect the PMP reduplicated root _*diŋdiŋ_. The expected POc
+form of the root is _*ridriŋ_, which is plentifully reflected, but this has been subject to
+assimilations and perhaps metathesis at various post-POc interstages. The root alone is reflected
+as POc _*ridri(ŋ)_, or _*riri(ŋ)_ ‘shiver’ (with assimilation of medial _*-dr-_ to initial _*r-_).
+
+    Forms for ‘cold’ consist of one of the prefixes _*ma-_, _*maN-_ and _*maka-_ + *ridriŋ, giving
+expected POc forms _*ma-ridriŋ_, _*madridriŋ_ (from _*maN-ridriŋ_) and _*maka-ridriŋ_, all of
+which are reflected in present-day Oceanic languages. Matters are complicated by the fact that
+forms are also found which appear to reflect _*ma-ririŋ_, _*madririŋ_, i.e. with medial _*-dr-_
+replaced by _*-r-_. There are several possible explanations of these forms, including
+assimilation, dissimilation and metathesis, but these are ignored here as their distribution in the
+data suggests that they are local innovations. This means that in a few cases forms reflecting
+_*ma-ridriŋ_ may have been attributed to _*madridriŋ_, and vice versa.
+
+    It is possible that the forms here attributed to POc _*madridriŋ_ are actually all reflexes of
+_*ma-ridriŋ_ that have undergone assimilation of root-initial _*-r-_ to medial _*dr-_. However, their
+wide distribution speaks against this. As _*madridriŋ_ reflects _*maN-ridriŋ_, and _*maN-_ has an
+agentive implication, the question arises, How could a term for ‘cold’ be agentive? The answer
+is perhaps that it denoted coldness of weather, and there is a sense in which weather can be
+regarded as agentive (‘causing shivering’): ‘cold (of weather)’ is the gloss assigned to PMP
+_*maN-diŋdiŋ_ by Zorc (2007).
+
+    We take _*ma-ridriŋ_ and _*maka-ridriŋ_ both to have meant ‘feel cold’, but their meanings
+may have been wider than this. No semantic difference between them is discernible.
+
+<
+PMP *ma-diŋdiŋ ‘cold’ (Blust 1970)
+POc *ma-ridri(ŋ) ‘(s.o.) be cold’
+ NNG: Mutu               marir                ‘(s.o.) cold’ (final _-r_ for †_-d_)
+ NNG: Apalik             miri-n               ‘(s.o.) cold’ (or < POc _*madridriŋ_)
+ NNG: Bebeli             merir                ‘(s.o.) cold’ (or < POc _*madridriŋ_)
+ NNG: Kaiep              marir                ‘(s.o.) cold’ (or < POc _*madridriŋ_)
+ NNG: Kairiru            -merir               ‘(s.o.) cold’ (or < POc _*madridriŋ_)
+ SJ:  Kayupulau          mariri-e             ‘(s.o.) cold’ (or < POc _*madridriŋ_)
+ NCV: Mota               ma-marir             ‘cold’ (final _-r_ for †_-n_)
+ NCV: Merlav             marir                ‘cold’ (final _-r_ for †_-n_)
+ NCV: Kiai               (sarsara)mariri      ‘tremble (as in malaria)’
+ NCV: Namakir            miladi-n             ‘cold’ (_-l-_ for †_-r-_)
+ NCV: Nguna              malādi               ‘cold’ (_-l-_ for †_-r-_)
+>
+
+<
+PMP ?*mandiŋ-diŋ (< *maN-diŋ-diŋ) ‘cold’ (Blust 1970)
+POc *madridriŋ ‘be cold’
+ Adm: Aua                maxixi              ‘cold’
+ Adm: Mondropolon        madri               ‘cold’
+ NNG: Takia              madid               ‘(s.o.) cold’
+ NNG: Manam              madidi              ‘cold’
+ NNG: Ulau-Suain         madid               ‘(s.o.) cold’
+ NNG: Poeng              ma-mariri           ‘(s.o.) cold’
+ MM: Nakanai             magigi              ‘to shake (as in epilepsy)’
+ MM: Tolai               madiriŋ             ‘cold (water, food)’ (_-r-_ for †_-d-_)
+ MM: Haku                maririŋ             ‘(s.o.) cold’
+ NCV: Raga               masisi              ‘cold’
+ NCV: Kiai               makiki              ‘cold’
+ NCV: W Ambrym           marid               ‘cold’
+ NCV: Uripiv             -me-mr̃ali          ‘cold, cool’ (_-l-_ for †_-r̃-_)
+ NCV: Paamese            madil               ‘cold’ (_-l_ for †_-r_)
+PMic *maci, *macici ‘be cold’ (Bender et al. 2003)
+ Mic: Kiribati           mariri              ‘feel cold’
+ Mic: Kosraean           miṣiṣ               ‘cold, chilly, cool, goosebumps’
+ Mic: Marshallese        məṛ                 ‘cooled off (of food once hot)’
+ Fij:   Rotuman          matiti              ‘cold’
+>
+
+<
+PMP *maka-diŋdiŋ ‘cold’ (Blust 1970)
+POc *maka-ridriŋ ‘(s.o.) be cold’
+  MM: Nakanai               maka-rigi              ‘cold, be cold’
+  MM: Notsi                 maka-dil               ‘(s.o.) cold’
+  SES: Bauro                maɣā-risi              ‘cold’
+  NCV: Tamambo              maɣa-riri              ‘cold’ (second _-r-_ for †_-d-_)
+PPn *maka-lili ‘cold, chilly’ (POLLEX)
+  Pn:   Niuean              maka-lili              ‘cold, chilly’
+  Pn:   Samoan              maʔa-lili              (VI) ‘feel cold, shiver’; (N) ‘cold (weather)’
+  Pn:   E Futunan           maka-lili              ‘cold, chilly’
+  Pn:   E Uvean             maka-lili              ‘chilly’
+  Pn:   Tuvalu              maka-lili              ‘cold, shiver’
+  Pn:   W Futunan           maka-ligi              ‘cold’
+  Pn:   Nukuoro             maga-lili              ‘feel cold, shiver’
+  Pn:   Sikaiana            maka-lili              ‘shiver, tremble, fever’
+  Pn:   Luangiua            mā-lili                ‘cold, chilly’
+  Pn:   Anutan              maka-riri              ‘cold’
+  Pn:   Tikopia             maka-riri              ‘coldness; shiver from malaria’
+  Pn:   Tikopia             kaka-riri              ‘coldness’
+  Pn:   Hawaiian            maʔa-lili              ‘cooled’
+  Pn:     Mangarevan         maka-riri        ‘cold, chilly’
+  Pn:     Maori              maka-riri        (VI) ‘feel cold, cold (of weather)’; (N) ‘cold’
+>
+
+  Another cognate set meaning ‘cold’ appears to reflect both _*malaso_ ‘cold (verb)’ and
+_*malaso-ŋ_ ‘cold (noun)’.
+
+<
+POc *malaso (VI) ‘be cold’
+POc *malaso-ŋ (N) ‘cold’
+ NNG: Roinji              malasu(na)         ‘(s.o.) cold’
+ NNG: Wab                 malsuŋ             ‘cold’
+ NNG: Bing                malsoŋ             ‘cold’
+ NNG: Mindiri             malas              ‘cold’
+ NNG: Megiar              malas              ‘(s.o.) cold’
+ MM: Nehan                malahoŋ            ‘(s.o.) cold’
+ SES: Gela                malaho             ‘cold, chill’
+ NCV: Mota                malaso             (N) ‘cold’
+ NCV: Uripiv              melas              (N) ‘cold’
+ SV: SW Tanna             (ə)mla             ‘be cold’
+>
+
+   Finally, the cognate set below has an uneven distribution, but the correspondence is good.
+
+<
+POc *(p,pʷ)o(q)ut ‘be cold’
+ MM: Nehan               pous-pous-pousu  ‘stiff, numb with cold’
+ MM: Petats              pout             ‘(s.o.) cold’
+ MM: Halia               bout             ‘(water) cold’
+PMic *fou ‘feel cold’
+ Mic: Marshallese        (pi)yaw          ‘chilly, cool’
+ Mic: Mokilese           pow              ‘feel cold’
+ Mic: Mokilese           (ko)pow          ‘feel cold (of people)’
+ Mic: Chuukese           fə̄w              ‘cold, be cold’
+ Mic: Chuukese           əffə̄w            ‘chills’
+ Mic: Chuukese           a-ffə̄w           ‘be cold to the touch’
+ Mic: Woleaian           fø̄ʉ              ‘be cold, cool, shiver’
+ Mic: Woleaian           (xaẓi)fø̄ʉ        ‘be cold, chilly’
+ Mic: Carolinian         ffōy, ffə̄y       ‘feel cold’
+>
+
+7.5.5.2 Feeling hot
+
+Three terms are reconstructable for ‘hot, warm’, POc _*[ma]panas_, POc _*maŋini(t)_ and POc
+_*tunu-tunu_. The first was probably the general term, to judge from its distribution and its
+glosses, whilst _*maŋini(t)_ probably had some specialised sense. The third was apparently
+derived from the verb POc _*tunu_ ‘roast on embers or in fire’ (vol.1:293).
 
 <
 PMP *[ma]panas ‘be/become warm, hot (of fire, sun, fever, water)’ (ACD)
 POc *[ma]panas ‘warm, hot’
- Adm: Mussau         anasa              ‘(s.o.) hot’
- NNG: Kove           wana-wana          ‘(s.o.) hot’
- NNG: Arove          (ka)wanes          ‘(s.o.) hot’
- NNG: Takia          wanana-n           ‘hot’
- NNG: Numbami        wa-wana            ‘hot’
- NNG: Mapos Buang    vanɛ               ‘hot’
- SJ:  Sobei          mefna              ‘(s.o.) hot’
- MM:  Tigak          manas              ‘(s.o.) hot’
- MM:  Maringe        brana              ‘hot’
- SES: Longgu         pa-pana            ‘be warm’
- SES: Bauro          mahana-hana        ‘hot’
- SV:  Kwamera        -(a)pʷan-(a)pʷan   ‘hot’
- SV:  Anejom         (a)hen-hen         ‘warm, hot’
- Fij: Rotuman        mah-mahana         ‘warm’
- Pn:  Tongan         māfana             ‘warm’
- Pn:  Samoan         māfana-fana        ‘warm’
+POc *pa-panas-i- ‘warm (s.t.) up’
+ Adm: Mussau           anasa            ‘(s.o.) hot’
+ NNG: Kove             wana-wana        ‘(s.o.) hot’
+ NNG: Tami             wa-wan           ‘(s.o.) hot’
+ NNG: Arawe            ka-wanes         ‘(s.o.) hot’
+ NNG: Takia            wana-na-n        ‘hot’
+ NNG: Numbami          wa-wana          ‘hot’
+ NNG: Mapos Buang      vanɛ             ‘hot’
+ SJ:  Sobei            me-fna           ‘(s.o.) hot’
+ MM:  Tigak            ma-nas           ‘(s.o.) hot’
+ MM:  Ramoaaina        vu-van           ‘(s.o.) hot’
+ SES: Gela             pa-pana          ‘heat up (food)’
+ SES: Longgu           pa-pana          ‘be warm’
+ SES: Longgu           pa-panaz-i-      ‘warm (s.o.)’
+ SES: Bauro            ma-hana          ‘warm’
+ SV:  Kwamera          -a-pʷan-a-pʷan   ‘hot’
+ SV:  Anejom           a-hen-hen
+ Fij: Rotuman          mah-mahana       ‘warm’
+PPn *ma-fana ‘be warm’
+PPn *faka-fana ‘warm (s.t.) up’ (POLLEX)
+ Pn:  Tongan           ma-fana          ‘warm (of food, water, drink); unpleasantly warm, stuffy (of room)’
+ Pn:  Tongan           mā-fana          ‘warmth; warm (of country, time, day); pleasantly warm’
+ Pn:  Niuafo’ou        mā-fana          ‘warm’
+ Pn:  Niuean           ma-fana          ‘warm’
+ Pn:  Niuean           faka-fana        ‘warm up (as food)’
+ Pn:  Samoan           mā-fana-fana     ‘warm’
+ Pn:  Samoan           faʔa-fana        ‘reheat, warm up food’
+ Pn:  Tuvalu           ma-fana          ‘warm, re-bake’
+ Pn:  E Futunan        mā-fana          ‘warm’
+ Pn:  E Futunan        faka-fana        ‘warm up cold food’
+ Pn:  Sikaiana         mā-hana          ‘warm’
+ Pn:  Luangiua         ma-haŋa          ‘warm; feverish’
+ Pn:  Takuu            ma-fana          ‘(of water, etc. but not weather) warm; feverish’
+ Pn:  Hawaiian         ma-hana          ‘warm’
+ Pn:  Tahitian         ma-hana-hana     ‘warm’
+ Pn:  Mangarevan       maʔana           ‘warm’
 >
+
+<
+PMP *maN-qinit ‘hot, warm’ (ACD: *qinit ‘heat, warmth’)
+POc *maŋini(t) ‘become hot, warm (?)’
+ MM: Lungga              maŋini            ‘warm’
+ MM: Roviana             maŋini            ‘warm’
+ MM: Hoava               maŋini            ‘warm’
+>
+
+   The reflexes of the term below suggest the form †*tun-tunu, but the phonotactics and
+reduplication patterns of POc require _*tunu-tunu_, even though the second of the four instances
+of _*-u-_ happens not to be reflected in the cognate set below.
+
+<
+POc *tunu-tunu ‘hot’
+ Adm: Lou               tuntun-an          ‘feel hot’
+ NNG: Malai             tun-tunu           ‘hot’
+ NNG: Gitua             tun-tun            ‘hot’
+ MM: Sursurunga         tun-tun            ‘warm (as house), tepid (as water)’
+ MM: Konomala           tun-tun            ‘(s.o.) hot’
+PNCV *tu-tunu ‘warm, hot’ (Clark 2009: *tunu)
+ NCV: Mota              tu-tun             ‘warm, hot’
+ NCV: Nokuku            tu-tunu            ‘warm, hot’
+ NCV: Uripiv            o-tu-tun           ‘hot’
+ Fij:   Wayan           tu-tunu            ‘be warm, not very hot; tepid’
+>
+
+
 
                                                      Properties of inanimate objects   225
 
-<
-PMP *maN-qinit ‘hot, warm’ (*qinit ‘heat, warmth’) (ACD)
-POc *maŋini(t) ‘(?) become hot, warm’
- MM: Roviana            maŋini              ‘warm’
- MM: Hoava              maŋini              ‘warm’
->
-
-   There are several POc forms for ‘cold’ which are derived from PMP _*diŋin_ ‘cold’.
-However, the expected POc reflex of PMP _*diŋin_ is _**riŋi(n)_, and we do not find this.
-Instead, we find _*ridriŋ_ and _*ririŋ_, presumably from the reduplications _*riŋ-riŋ_ and
-_*ri-riŋ_, preceded by various prefixes. POc _*ma-ri(d)ri(ŋ)_ needs no further explanation,
-whilst _*madri(d)riŋ_ is apparently derived from _*maN-ri(d)riŋ_. POc _*maka-ridri(ŋ)_ is
-transparent enough, but I do not know the function of _*maka-_. From the glosses of the
-reflexes, it seems that these terms probably referred to the temperature experienced by a
-person, i.e. ‘I feel cold’, rather than to the temperature of inanimate objects.
-
-    The other cognate set meaning ‘cold’ appears to reflect both _*malaso_ ‘cold (verb)’ and
-_*malaso-ŋ_ ‘cold (noun)’ .
-
-<
-PMP *diŋin ‘cold’
-POc *ma-ri(d)ri(ŋ) ‘(s.o.) cold’
- NNG: Mutu                 marir          ‘(s.o.) cold’
- NNG: Apalik               miri-n         ‘(s.o.) cold’
- NNG: Bebeli               merir          ‘(s.o.) cold’
- NNG: Kaulong              ŋlik           ‘cold’
- NNG: Poeng                ma-mariri      ‘(s.o.) cold’
- NNG: Kaiep                marir          ‘(s.o.) cold’
- NNG: Kairiru              -mer̃ir̃       ‘(s.o.) cold’
- SJ:  Kayupulau            mariri-e       ‘(s.o.) cold’
- NCV: Raga                 masisi         ‘cold’
- NCV: Merlav               marir          ‘(s.o.) cold’
- Mic: Kiribati             mariri         ‘feel cold’
- Fij: Rotuman              matiti         ‘cold’
->
-
-<
-POc *madri(d)riŋ ‘(s.o.) become cold’
- Adm: Aua                  maxixi          ‘cold’
- Adm: Mondropolon          madri           ‘cold’
- NNG: Takia                madid           ‘(s.o.) cold’
- NNG: Manam                madidi          ‘cold’
- NNG: Ulau-Suain           madid           ‘(s.o.) cold’
- MM:  Tolai                madiriŋ         ‘cold (water, food)’
- MM:  Haku                 maririŋ         ‘(s.o.) cold’
- NCV: Paamese              madil           ‘cold’
->
-
-<
-POc *makaridriŋ ‘(s.o.) cold’
- MM:  Notsi               makadil         ‘(s.o.) cold’
- SES: Bauro               maɣārisi        ‘cold’
- NCV: Tamambo             maɣariri        ‘cold’
- Pn:  Niuean              makalili        ‘cold, chilly’
- Pn:  Samoan              maʔalili        ‘(be) cold’
->
 
 226   Malcolm Ross
-
-<
-POc *malaso ‘be cold’
-POc *malaso-ŋ (N) ‘cold’
- NNG: Roinji          malasu(na)       ‘(s.o.) cold’
- NNG: Wab             malsuŋ           ‘cold’
- NNG: Bing            malsoŋ           ‘cold’
- NNG: Mindiri         malas            ‘cold’
- NNG: Megiar          malas            ‘(s.o.) cold’
- MM:  Nehan           malahoŋ          ‘(s.o.) cold’
- NCV: Mota            malaso           (N) ‘cold’
- NCV: Uripiv          melas            (N) ‘cold’
- SV:  Lenakel         mhal             ‘have a cold sore’
- SV:  SW Tanna        (ə)mla           ‘be cold’
->
 
 
 7.5.6 Wet and dry

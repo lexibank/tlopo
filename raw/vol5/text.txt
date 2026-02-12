@@ -16699,11 +16699,7 @@ the fact that a term may span two of the three senses. Much the same is true of 
 
                                                            Bodily conditions and activities 329
 
-# FIXME: How to deal with these "revisions" below?
-
-   A consequence of this is that §§4.8.1–2 are revisions of the section on temperature in
-vol. 2:217–218—this despite the fact that those terms were concerned with (b), whereas we are
-here concerned with (a). Although it may be assumed that POc made distinctions of the kind
+   Although it may be assumed that POc made distinctions of the kind
 listed above, it is not possible to determine accurately how reconstructed terms for ‘hot’ and
 ‘cold’ related to (a), (b) and (c).
 
