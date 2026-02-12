@@ -5365,12 +5365,6 @@ POc *sawa(n,ŋ) ‘channel, passage’
  Mic: Carolinian  tawur            ‘channel, passage through reef’
  Mic: Woleaian    tawa             ‘channel, harbour’
  Fij: Wayan       ðawa             (N LOC) ‘(i) (when speaker is on coast) the beach or reef flat; (ii) (when speaker is inland) the coast, seaside’
-PPn *awa ‘channel, passage through reef’ (Biggs & Clark 1993; loss of initial _*s-_ is unexpected)
- Pn:  Niuean      ava              ‘channel, opening in the reef; harbour’
- Pn:  Rennellese  aba              ‘pass, channel, canoe anchorage’
- Pn:  Samoan      ava              ‘channel, passage (in the reef), gap’
- Pn:  Maori       awa              ‘channel, landing place for canoes’
- Pn:  Hawaiian    awa              ‘port, harbour; channel or passage, as through a reef’
 >
 
                                                                       The seascape      117

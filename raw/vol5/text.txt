@@ -6407,7 +6407,7 @@ POc *qawa ‘mouth, opening’
  Mic: Carolinian    awa           ‘mouth’
  Mic: Woleaian      yaw(a)        ‘mouth’
  Mic: Puluwatese    yew-          ‘mouth, bill of a bird, largest eye of a coconut’
-PPn *awa ‘channel, passage through reef’[22]
+PPn *awa ‘channel, passage through reef’
  Pn:  Tongan        ava           ‘passage, opening’ (for †_ʔava_)
  Pn:  Tokelauan     ava           ‘passage through reef’
  Pn:  Rapanui       aba           ‘channel, crack, crevice, ditch’
@@ -6425,10 +6425,6 @@ origin in PMP _*q⟨um⟩aŋa[p,b]_ rather than PMP _*maŋaq_. But, since the tw
 terms would have had near-identical POc reflexes, one could argue that the cognate
 set supporting POc _*maŋa(p)_ reflects a conflation of the two terms.
 
--- FIXME: erratum vol2 --
-
-[22] In vol.2:.111 PPn _*awa_ was incorrectly listed as a reflex of POc _*sawa(n,ŋ)_
-‘channel, passage’ with unexplained loss of _*s-_.
 
 130 Meredith Osmond and Malcolm Ross
 
