@@ -4605,14 +4605,14 @@ attribute to PMP _*busa_ (the expected Maori form is _**puha_).
 forms with identical meaning. However, Arosi has a contrast between _ʔabuta_ ‘the break of
 a wave, the foam and white of the crest of a wave’ and _huto-hut_o ‘foam, froth’, while
 ’Are’are contrasts _aputa_ ‘(surf) break’ with _huto-huto_ ‘slime, saliva’. This suggests that
-POc _*busa_ and _*puso_ may have differed in meaning, with the former perhaps denoting
+POc _*busa_ and _*puco(q)_ may have differed in meaning, with the former perhaps denoting
 foam of the sea and the latter a more general term for foaming or slimy substances.
 
    There is an additional formal complication, namely that PMP _*bujeq_ seems to have two
-sets of reflexes in Oceanic languages, pointing to two POc forms: _*buso_ and POc _*puso_. It
-may be that POc indeed had both, _*buso_ perhaps a verb, _*puso_ a verb or a noun (see vol. 1, pp.30–31).
-Alternatively, forms apparently reflecting _*buso_ may represent a conflation of
-_*busa_ and _*puso_, implying that *buso did not in fact occur in POc.
+sets of reflexes in Oceanic languages, pointing to two POc forms: _*buco(q)_ and POc _*puco(q)_. It
+may be that POc indeed had both, _*buco(q)_ perhaps a verb, _*puco(q)_ a verb or a noun (see vol. 1, pp.30–31).
+Alternatively, forms apparently reflecting _*buco(q)_ may represent a conflation of
+_*busa_ and _*puco(q)_, implying that _*buco(q)_ did not in fact occur in POc.
 
 <
 PMP *busa ‘foam’ (ACD)
@@ -4630,7 +4630,7 @@ POc *busa ‘foam, froth’
 
 <
 PMP *bujeq ‘foam, bubbles, lather, scum, froth’ (ACD)
-POc *buso ‘foam, froth’
+POc *buco(q) ‘foam, froth’
  Adm: Mussau            bīso            ‘foam, froth, bubbles’
  NNG: Manam             buso            ‘foam’
  PT:  Dobu              buso-buso       ‘foam’
@@ -4644,7 +4644,7 @@ POc *buso ‘foam, froth’
 
 <
 PAn *bujeq ‘foam, bubbles, lather, scum, froth’ (ACD)
-POc *puso ‘foam, froth, slime’
+POc *puco(q) ‘foam, froth, slime’
  PT:  Kiriwina          polu            (N) ‘foam, spray’ (vowel metathesis)
  MM:  Nakanai           pu-puso         ‘pumice’
  SES: Sa’a              huto-huto       (N) ‘froth, foam’

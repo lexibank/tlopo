@@ -9157,7 +9157,7 @@ _pus-pusa-_ both seem to illustrate this.
 
    No convincing explanation can be offered for the fact that there are two terms, but note (i)
 that POc _*puso-_ is also one of the forms reconstructed for ‘navel’ (§3.5.10) and (ii) that POc
-_*puco(q)_[44] and POc _*busa_ are both terms for ‘foam’ (vol.2:96–97) and that each has a PMP
+_*puco(q)_ and POc _*busa_ are both terms for ‘foam’ (vol.2:96–97) and that each has a PMP
 antecedent. Whilst it is easier to explain (i) as a semantic shift, it is more difficult to explain
 away (ii), the fact that the same two forms occur for both ‘foam’ and ‘heart’. One of the
 reconstructed terms for ‘lungs’ (§3.7.3) includes a word meaning ‘foam’ and, as the heart and
@@ -9177,9 +9177,6 @@ POc *pu(s,c)o- ‘heart’
      coconut; kidney; heart; finger; calf of the leg; testicle; various insects; scar tissue; roe; bud; flower; blossom;
      bear fruit; words, speech, or songs; meaning, contents of discussion; numeral classifier for roundish objects;
      buttock; Adam’s apple; nipple of the breast; button; marble; tattooing’
-
-[44] The reconstruction in vol.2 (p97) is _*puso_. but the external evidence suggests _*puco(q)_.
-# FIXME: correct in vol 2?
 
 182 Meredith Osmond and Malcolm Ross
 
