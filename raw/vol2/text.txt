@@ -10462,22 +10462,41 @@ POc *ta-kodos ‘straight’
 >
 
 <
-POc *[t,d]onu(p) ‘straight’[22]
- NNG: Malai             dunu(ŋa)           ‘straight’
- NNG: Numbami           tonowa             ‘straight’
- MM:  Laghu             to-tonu            ‘straight’
- NCV: Kiai              tu-tunu            ‘good, straight, sweet’
- NCV: Labo              tən                ‘straighten an arrow in the fire’
- SV:  Kwamera           (a)tuən            (verbal adjunct: implies straightening)
- Fij: Bauan             donu               ‘(be) straight, true, correct’
- Fij: Wayan             donu               ‘(be) right, correct, true’
- Pn:  Tongan            tonu               ‘be exact, be correct, be right’
- Pn:  Samoan            tonu               ‘(be) exact, correct, just’
- Pn:  Mele-Fila         tō-tonu            ‘right, correct’
+POc *tonuq ‘straight, correct’
+  NNG: Bam                 tun-tunu              ‘straight’
+  NNG: Numbami             tonowa                ‘straight’
+  PT:  Kukuya              tunuɣa                ‘straight’
+  PT:  Kukuya              tunu-tunuɣa           ‘do right, be righteous’
+  PT:  Iduna               tunu-tunuɣ(ina)       ‘straight (of objects, path), upright, honest’
+  PT:  Molima              tunu-tunv(ina)        ‘straight, flat’
+  MM:  Laghu               to-tonu               ‘straight’
+  NCV: Nokuku              ta-tino               ‘true’
+  NCV: Kiai                tu-tunu               ‘good, straight, sweet’
+  NCV: Uripiv              (were)tun             ‘tell truth’
+  NCV: W Ambrym            ten                   ‘real’
+  NCV: SE Ambrym           (rei)tin              ‘true’
+  NCV: Lonwolwol           ten                   ‘real’
+  NCV: Lonwolwol           (fɪ)tɛn               ‘true; truly’
+  NCV: N Ambrym            (fɛ)tɪn               ‘true; truly’
+  NCV: Paamese             tine                  ‘true’
+  NCV: Avava               (ba)rīn               ‘true’
+PPn *tonu ‘straight, correct’ (POLLEX)
+  Pn:  Tongan              tonu                  ‘exact, correct, be right’
+  Pn:  Niuean              tonu                  ‘proper, right’
+  Pn:  Samoan              tonu                  ‘exact, correct, just’
+  Pn:  Tuvaluan            tonu                  ‘straight, correct’
+  Pn:  Mele-Fila           tō-tonu              ‘right, correct’
+  Pn:  Tikopia             tonu                  ‘right, correct, true, exact’
+cf. also:
+  NNG: Mangap              du-dūŋ                ‘real, correct, straight’
+  NNG: Malai               dunu(ŋa)              ‘straight’
+  SES: Bugotu              jino                  ‘straight, right, righteous’ (_-i-_ for †_-u-_)
+  NCV: Mota                nun                   ‘true, truth’
+  SV:  Kwamera             a-tuən                ‘implies straightening’ (verbal adjunct)
+  Fij: Bauan               donu                  ‘straight, correct, true’
+  Fij: Wayan               donu                  ‘right, correct, true’
 >
 
-[22] The final _*-(p)_ of _*[t,d]onu(p)_ is tentatively reconstructed to account for Numbami _tonowa_, where
-   paragogic _-a_ indicates the presence of a final consonant and _-w-_ reflects _*-p_.
 
 220     Malcolm Ross
 

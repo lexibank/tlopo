@@ -27704,8 +27704,7 @@ close of kin’ suggests it is borrowed from an EPn language. No EPn language ha
 the terms Māori and Mōriori for the Polynesian inhabitants of New Zealand and New
 Zealand’s Chatham Islands respectively.
 
-[7] In vol.2:212, _*[t,d]onu(p)_ ‘straight’ was reconstructed. The PT reflexes now show that the final
-    consonant was _*-q_. Reflexes of initial _*t-_ and _*d-_ both occur, and the latter are listed under ‘cf. also’.
+[7] Reflexes of initial _*t-_ and _*d-_ both occur, and the latter are listed under ‘cf. also’.
     They give grounds for reconstructing a POc doublet _*donuq_ ‘straight, correct’. How it arose is
     unknown, but _*d_ was the least frequently occurring of all the POc obstruents, reflecting an earlier _*nt_
     sequence.
