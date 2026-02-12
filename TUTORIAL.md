@@ -5,6 +5,17 @@
 
 See vol5,
 
+>     The areas in which reflexes of each term occur (in the meaning ‘bone’) are interlaced
+across the Pacific, as follows:
+
+_*tuqa-_                      |                _*suRi-_
+--- | ---
+  NGOc (= NNG, PT)          |                  Adm
+  Parts of MM               |                  Parts of MM
+  Mic                       |                  SES, TM, SOc (= NCV, SV, NCal)
+  W and E Fijian            |                  E Fijian, Pn
+
+
 ```sql
 from
     `cognatesetreferences.csv` as c

@@ -7,10 +7,61 @@
     ],
     "creators": [
         {
-            "name": ""
+            "name": "Malcolm Ross"
+        },
+        {
+            "name": "Andrew Pawley"
+        },
+        {
+            "name": "Meredith Osmond"
+        },
+        {
+            "name": "Roger Green"
+        },
+        {
+            "name": "Frantisek Lichtenberk"
+        },
+        {
+            "name": "Medina Pawley"
+        },
+        {
+            "name": "Ross Clark"
+        },
+        {
+            "name": "Bethwyn Evans"
+        },
+        {
+            "name": "Jeffrey C. Marck"
+        },
+        {
+            "name": "Per Hage"
+        },
+        {
+            "name": "Robert Forkel"
         }
     ],
-    "contributors": [],
+    "contributors": [
+        {
+            "name": "Malcolm Ross",
+            "type": "Editor"
+        },
+        {
+            "name": "Andrew Pawley",
+            "type": "Editor"
+        },
+        {
+            "name": "Meredith Osmond",
+            "type": "Editor"
+        },
+        {
+            "name": "Mae Carroll",
+            "type": "DataCurator"
+        },
+        {
+            "name": "Robert Forkel",
+            "type": "DataCurator"
+        }
+    ],
     "communities": [
         {
             "identifier": "lexibank"

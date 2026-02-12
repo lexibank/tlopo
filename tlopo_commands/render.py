@@ -273,14 +273,16 @@ order by g.cldf_formReference
         return {fid: list(iter_glosses(rows)) for fid, rows in itertools.groupby(db.query(q, (rid,)), lambda r: r[0])}
 
 
-    def pandoc(input, md):
+    def pandoc(input, md, css_path='..'):
+        css = 'pandoc_book.css'
+        assert input.parent.joinpath(css_path, css).exists()
         subprocess.check_call(shlex.split(
-            'pandoc --metadata title="{}" -s -f markdown -t html5 -c ../pandoc_book.css {} -o {}/{}.html'.format(
-                md['title'], input, input.parent, input.stem)))
+            'pandoc --metadata title="{}" -s -f markdown -t html5 -c {}/{} {} -o {}/{}.html'.format(
+                md['title'], css_path, css, input, input.parent, input.stem)))
 
     out.joinpath('references.md').write_text(render(
         '# References\n\n[](Source?with_anchor&with_link#cldf:__all__)', cldf), encoding='utf-8')
-    pandoc(out.joinpath('references.md'), dict(title='References'))
+    pandoc(out.joinpath('references.md'), dict(title='References'), css_path='.')
 
     v, c = None, None
     if args.chapter:
@@ -290,6 +292,8 @@ order by g.cldf_formReference
         if v and vol != v:
             continue
         md = ds.raw_dir.joinpath('vol{}'.format(vol)).read_json('md.json')
+
+        # Prepare the output directory for the chapter files:
         vout = out / 'vol{}'.format(vol)
         if not vout.exists():
             vout.mkdir()
@@ -297,15 +301,17 @@ order by g.cldf_formReference
             for p in vout.iterdir():
                 if p.is_file():
                     p.unlink()
+
         for chapter in tqdm(ds.cldf_dir.joinpath('vol{}'.format(vol)).glob('chapter*.md')):
             cnum = chapter.stem.replace('chapter', '')
-            if c and cnum != c:
+            if c and cnum != c:  # Not the user-selected chapter
                 continue
             for cmd in md['chapters']:
                 if cmd['number'] == cnum:
                     break
             else:
                 raise ValueError((vol, cnum))
+            # Render the CLDF Markdown file to regular Markdown:
             res = render(
                 chapter,
                 cldf,
@@ -322,4 +328,5 @@ order by g.cldf_formReference
                     glosses_by_formid=glosses_by_formid),
             )
             vout.joinpath(chapter.name).write_text(render(res, ds.cldf_reader()), encoding='utf-8')
+            # Run pandoc to convert the Markdown to HTML:
             pandoc(vout.joinpath(chapter.name), cmd)
