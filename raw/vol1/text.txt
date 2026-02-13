@@ -9598,26 +9598,62 @@ punting pole, bailer and Triton shell for use as a trumpet.
 
     A single base can be reconstructed, used both as a verb '(boat +) be loaded, carry a cargo'
 and as a noun 'cargo, load'. However, it occurs in the form of a doublet, with and without
-initial _*l-_.
+initial _*R-_.
 
 <
-PMP *lujan, *ujan (V) 'load (a vessel)'; (N) 'load, cargo' (Blust 1986)
- WMP: Tagalog       lulan            'load, cargo, capacity of a vessel or vehicle'
- WMP: Makassarese   luraŋ            (V) 'load'
-POc *ujan, *ujan-i-, *lujan (v) 'load (a boat)' ; (N) 'cargo, freight'
- Adm: Nauna         us               'load as cargo in a boat'
- Adm: Seimat        uxan-i           'load as cargo in a boat'
- PT:  Dobu          usana            'load a canoe'
- PT:  Sinaugoro     ɣura(udi)        'load a canoe'
- PT:  Motu          uda-uda          'load a canoe'
- SES: Gela          luda             'load a vessel'
- SES: Bugotu        luja             'load a vessel' (_j_ for _*d_ unexplained)
- SES: Lau           luda             'load a vessel'
- SES: Kwaio         luda             'load a vessel'
- Mic: Puluwat       wutan            (v) 'loaded'; (N) 'cargo, load'
- Fij: Bauan         usa              'carry a cargo'
- Pn:  Tongan        uta              (v) 'carry a cargo'; (N) 'cargo, freight'
- Pn:  Samoan        uta              (V) 'carry a cargo'; (N) 'cargo, freight'
+PMP *Rujan ‘load a canoe; cargo’ (ACD)
+POc *Rujan, *Rujan-i- ‘load (s.t.) onto a canoe, transport by canoe’ (Geraghty 1983: PEOc _*Ruja_)
+  MM: Teop                 ruhana             ‘transport s.t., ship s.t.’
+PSES *luda ‘load (s.t.) onto a canoe, transport by canoe’
+  SES: Gela                luda               ‘load a canoe or ship with cargo; embark passengers; cargo’
+  SES: Longgu              ludā               ‘load s.t. on a truck, boat or canoe’
+  SES: Lau                 luda               ‘carry in a canoe, carry as cargo; load a canoe or ship’
+  SES: Lau                 luda-i             ‘carry cargo’
+  SES: Kwaio               luda               ‘load in a canoe’
+  SES: Sa’a                luda               ‘carry cargo, load a canoe’
+  SES: Sa’a                lude               ‘carry cargo, load a canoe, be heavily laden’
+  SES: Sa’a                ludeŋ-i            ‘carry as cargo; recruit men’
+  SES: Ulawa               luda               ‘carry cargo, load a canoe, be heavily laden’
+  SES: ’Are’are            ruta               ‘charge, load, carry a load’
+  SES: Arosi               ruta               ‘load a canoe, carry to canoe and stow’
+PCP *uja ‘be loaded onto a canoe, be transported by canoe’
+PCP *ujan-i- ‘load (s.t.) onto a canoe, transport by canoe’
+  Fij:   Bauan             usa                ‘be carried by boat’
+  Fij:   Bauan             usan-a             ‘carry (s.t.) by boat’
+  Fij:   Wayan             usa                ‘be shipped, carried (as cargo), by boat or other vehicle’
+  Fij:   Wayan             usan-i-            ‘carry s.t. as cargo or passengers’
+  Pn:    Tongan            uta                ‘carry or convey by boat or vehicle; goods so carried’
+  Pn:    Niue              uta                ‘load (as a canoe or truck); a load’
+  Pn:    K’marangi         uda                ‘transport (cargo)’
+  Pn:    Rennellese        uta                ‘put aboard a canoe or ship; bear nuts, as a coco- nut palm’
+  Pn:    Rarotongan        uta                ‘convey from one place to another; load up, as a canoe’
+  Pn:    Maori             uta                ‘put persons or goods on board a canoe’
+>
+
+<
+PMP *ujan ‘load a canoe; cargo’
+POc *ucan, *ucan-i- ‘load (s.t.) onto a canoe, transport by canoe’
+ Adm: Seimat         uxan-i          ‘load s.t. into a boat’
+ Adm: Nauna          us              ‘load s.t. into a boat’
+ Adm: Titan          usun-i          ‘carry from one place to another, usually by canoe’ (_-s-_ for †_-l-_)
+ NNG: Mutu           ɣūza            ‘carry, transport’
+ NNG: Mangap         -ūzu            ‘transport, convey by canoe, vehicle’
+ PT:  Gapapaiwa      uan             ‘load s.t. into a container or boat’
+ PT:  Misima         usan           ‘put inside; pick up people or things (in car); (be) overloaded’ (_-s-_ for †_-h-_)
+ PT:  Sinaugoro      ɣura(udi)      ‘load a canoe’
+ PT:  Motu           uda-uda        ‘load pots into a trading canoe’
+ MM:  Meramera       uda            ‘carry’ (_-d-_ for †_-s-_)
+ MM:  Nehan          ute            ‘load up a container with contents’ (_-t-_ for †_-h-_)
+>
+
+<
+PMic *u[s,S]a, *u[s,S]an-i ‘load (s.t.) onto a canoe, transport by canoe’
+ Mic: Puluwatese           wɨtæn                ‘(cargo) be loaded’
+ Mic: Carolinian           -wut                 ‘be loaded, have s.t. inside’
+ Mic: Satawalese           -yɨt                 ‘load s.t.’
+ Mic: Satawalese           -yɨta                ‘load it’
+ Mic: Ponapean             itan                 ‘carry (s.t.) in a vehicle’
+ Mic: Mokilese             itan                 ‘transport (s.t.)’
 >
 
 

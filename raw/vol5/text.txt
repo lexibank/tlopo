@@ -22468,16 +22468,12 @@ PMic *tap(a,e), *tap(a,e)-ki ‘lift up, carry, bear in one’s hands’
 6.6.2.12 Carrying on a canoe
 
 Blust (ACD) reconstructs three formally similar PMP terms for ‘load a canoe’: _*Rujan_, _*lujan_,
-and _*ujan_. He offers no explanation for the existence of three similar forms, and nor can I. In
-vol.1 (p198) it was inferred that Oceanic items reflected POc _*lujan_, and _*ujan_. With a better
-understanding of Oceanic sound correspondences, _*Rujan_ is inferred here, rather that _*lujan_,
-and the two POc forms are reconstructed as _*Rujan_, _*Rujan-i-_ and _*ucan_, _*ucan-i-_, both ‘load
-(s.t.) onto a canoe, transport by canoe’. The two reconstructions differ in two consonant
+and _*ujan_. He offers no explanation for the existence of three similar forms, and nor can I. Two
+POc forms are reconstructed, *Rujan, *Rujan-i- and *ucan, *ucan-i-, both
+‘load (s.t.) onto a canoe, transport by canoe’. The two reconstructions differ in two consonant
 correspondences. The key lies in the medial correspondence. SE Solomonic, Fijian and
 Polynesian terms unambiguously reflect POc _*-j-_ and are assigned to a single cognate set,
 whose initial consonant correspondence—PSES _*l-_, PCP *∅- —regularly reflects POc _*R-_.
-
-# FIXME: update/replace/deprecate reconstruction in vol1?
 
     The second set reflects POc _*ucan_, _*ucan-i-_. Several irregularities in the medial consonant
 reflex are noted below, but none is assignable to _*-j-_.
