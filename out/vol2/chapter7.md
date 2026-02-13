@@ -5156,54 +5156,19 @@ POc _&ast;karaŋo_ is obviously formally related to _&ast;[ma]raŋo_, but its re
 
 <a id="p-227"></a>
 
-POc _&ast;[ma-](r,R)aŋo_ displays a phonological problem. Apparent non-Oceanic cognates of the root _&ast;raŋo_ reflect PMP _&ast;Raŋaw_, so we would expect the reconstructable POc form to be _&ast;&ast;Raŋo_. But Oceanic languages which reflect POc _&ast;r_ and _&ast;R_ differently are not in accord with each other: SES and NCV languages have a reflex of _&ast;r_ whilst Pn languages have a (zero) reflex of _&ast;R_. (Mussau and NNG and MM languages reflect _&ast;r_ and _&ast;R_ identically.) I assume tentatively that POc had _&ast;[ma]Raŋo_ and that forms with _&ast;r_ are innovative.
+PCEMP _&ast;[ma]Raŋaw_ below leads us to expect POc _&ast;[ma]Raŋo_, but the cognate set apparently reflects POc _&ast;[ma]raŋo_, as the Bugotu, Sa’a and Tape items unambiguously reflect _&ast;r_, not _&ast;R_. However, the Niuean and Samoan items under ‘cf also’ reflect POc _&ast;maRaŋo_ (_&ast;R_ is lost in Central Pacific languages but _&ast;r_ isn’t). This implies that _&ast;[ma]Raŋo_ and an idiosyncratic _&ast;[ma]raŋo_ co-occurred in early Oceanic. As Mussau, NNG and MM languages merge POc _&ast;r_ and _&ast;R_, they may reflect either form. Hence reconstructed _&ast;[ma][R,r]aŋo_.
 
 <table class="cognateset" id="2-7-5-6-227-POc-marao-a">
 <tr>
-<td><strong>PMP</strong></td><td> </td>
-<td style="white-space: nowrap;">
-<i>&ast;[ma]Raŋaw</i>
-</td>
-<td>'<span>dry</span>'</td>
-</tr>
-<tr>
-<td><strong>PMP</strong></td><td> </td>
-<td style="white-space: nowrap;">
-<i>&ast;[ma]Raŋuʔ</i>
-</td>
-<td>'<span>dry</span>' (<a href="../sources/Blust1981b">Blust 1981b</a>; <a href="../sources/Blust1986">Blust 1986</a>)
-</td>
-</tr>
-<tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
-<i>&ast;[ma]Raŋo</i>
+<i>&ast;[ma-]raŋo</i>
 </td>
-<td>'<span>become withered (of vegetation)</span>'[^24]</td>
+<td>'<span>become withered (of vegetation)</span>'</td>
 </tr>
 <tr>
-<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td style="white-space: nowrap;"><i>malaŋo</i></td>
-<td>'<span>dry</span>'</td>
-</tr>
-<tr>
-<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td style="white-space: nowrap;"><i>maraŋo</i></td>
+<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td style="white-space: nowrap;"><i>ma-raŋo</i></td>
 <td>'<span>dry, arid</span>'</td>
-</tr>
-<tr>
-<td>NNG</td><td><a href="../languages/kairiru">Kairiru</a></td><td style="white-space: nowrap;"><i>maraŋ</i></td>
-<td>'<span>ripe coconut</span>'</td>
-</tr>
-<tr>
-<td>MM</td><td><a href="../languages/nalik">Nalik</a></td><td style="white-space: nowrap;"><i>maraŋ</i></td>
-<td>'<span>ripe coconut</span>'</td>
-</tr>
-<tr>
-<td>MM</td><td><a href="../languages/sursurunga">Sursurunga</a></td><td style="white-space: nowrap;"><i>maraŋ</i></td>
-<td>'<span>(be) old, dry; (old) coconut with lots of meat and little milk</span>'</td>
-</tr>
-<tr>
-<td>MM</td><td><a href="../languages/patpatar">Patpatar</a></td><td style="white-space: nowrap;"><i>maraŋa</i></td>
-<td>'<span>dry coconut</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td style="white-space: nowrap;"><i>ma-raŋa</i></td>
@@ -5215,11 +5180,11 @@ POc _&ast;[ma-](r,R)aŋo_ displays a phonological problem. Apparent non-Oceanic 
 </tr>
 <tr>
 <td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td style="white-space: nowrap;"><i>raŋo</i></td>
-<td>'<span>wither (leaves, yam vines)</span>'</td>
+<td>'<span>wither (leaves, yam vines)</span>'; '<span>wither (leaves, ŋam vines)</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td><a href="../languages/saa">Sa’a</a></td><td style="white-space: nowrap;"><i>raŋo</i></td>
-<td>'<span>be withered, dry (esp. yams when vine withers)</span>'</td>
+<td>'<span>be withered, dry (esp. yams when vine withers)</span>'; '<span>be withered, dry (esp. ŋams when vine withers)</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td style="white-space: nowrap;"><i>raŋo</i></td>
@@ -5230,15 +5195,83 @@ POc _&ast;[ma-](r,R)aŋo_ displays a phonological problem. Apparent non-Oceanic 
 <td>'<span>become dried up in the course of nature</span>'</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>maŋo</i></td>
-<td>'<span>dry up; be dry (of wood, clothes)</span>'</td>
+<td><strong>PCEMP</strong></td><td> </td>
+<td style="white-space: nowrap;">
+<i>&ast;[ma]Raŋaw</i>
+</td>
+<td>'<span>dry</span>' (<a href="../sources/Blust1995">ACD</a>)
+</td>
 </tr>
 <tr>
-<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td style="white-space: nowrap;"><i>maŋo</i></td>
-<td>'<span>dry (of wood, trees)</span>'</td>
+<td><strong>POc</strong></td><td> </td>
+<td style="white-space: nowrap;">
+<i>&ast;[ma]raŋo</i>
+</td>
+<td>'<span>become withered (of vegetation)</span>'</td>
+</tr>
+<tr>
+<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td style="white-space: nowrap;"><i>malaŋo</i></td>
+<td>'<span>dry</span>'</td>
+</tr>
+<tr>
+<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td style="white-space: nowrap;"><i>maraŋo</i></td>
+<td>'<span>dry, arid</span>'</td>
+</tr>
+<tr>
+<td>MM</td><td><a href="../languages/patpatar">Patpatar</a></td><td style="white-space: nowrap;"><i>maraŋa</i></td>
+<td>'<span>dry coconut</span>'</td>
+</tr>
+<tr>
+<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td style="white-space: nowrap;"><i>maraŋa</i></td>
+<td>'<span>withered, dry (leaves, husk, tree)</span>'</td>
+</tr>
+<tr>
+<td>MM</td><td><a href="../languages/selau">Selau</a></td><td style="white-space: nowrap;"><i>raŋo</i></td>
+<td>'<span>dry</span>'</td>
+</tr>
+<tr>
+<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td style="white-space: nowrap;"><i>raŋo</i></td>
+<td>'<span>wither (leaves, yam vines)</span>'; '<span>wither (leaves, ŋam vines)</span>'</td>
+</tr>
+<tr>
+<td>SES</td><td><a href="../languages/saa">Sa’a</a></td><td style="white-space: nowrap;"><i>raŋo</i></td>
+<td>'<span>be withered, dry (esp. yams when vine withers)</span>'; '<span>be withered, dry (esp. ŋams when vine withers)</span>'</td>
+</tr>
+<tr>
+<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td style="white-space: nowrap;"><i>raŋo</i></td>
+<td>'<span>withered, dead (of grass, green boughs +)</span>'</td>
+</tr>
+<tr>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td style="white-space: nowrap;"><i>raŋo</i></td>
+<td>'<span>become dried up in the course of nature</span>'</td>
+</tr>
+<tr>
+<td>NCV</td><td><a href="../languages/tape">Tape</a></td><td style="white-space: nowrap;"><i>məraŋ</i></td>
+<td>'<span>(of wood, leaves) dry</span>' (<span>J. Lŋnch, pers. comm.</span>)</td>
+</tr>
+<tr>
+<td>SV</td><td><a href="../languages/kwamera">Kwamera</a></td><td style="white-space: nowrap;"><i>(kahi)mareŋi</i></td>
+<td>'<span>turning brown</span>'</td>
 </tr>
 </table>
 
+cf. also: 
+<table>
+<tr>
+<td>Pn</td>
+<td><a href="../languages/niuean">Niuean</a></td>
+<td style="white-space: nowrap;"><i>maŋo</i></td>
+<td>
+'<span>dry (of wood, trees)</span>'</td>
+</tr>
+<tr>
+<td>Pn</td>
+<td><a href="../languages/samoan">Samoan</a></td>
+<td style="white-space: nowrap;"><i>maŋo</i></td>
+<td>
+'<span>dry up; be dry (of wood, clothes)</span>'</td>
+</tr>
+</table>
 
 
 
@@ -5248,7 +5281,7 @@ POc _&ast;[ma-](r,R)aŋo_ displays a phonological problem. Apparent non-Oceanic 
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
-<i>&ast;ka-(r,R)aŋo</i>
+<i>&ast;ka-[R,r]aŋo</i>
 </td>
 <td>'<span>be dry; be low tide</span>'</td>
 </tr>
@@ -5359,5 +5392,3 @@ POc _&ast;[ma-](r,R)aŋo_ displays a phonological problem. Apparent non-Oceanic 
 [^21]: The Southeast Solomonic reflexes show unexplained loss of _&ast;k_.
 
 [^23]: Aua initial _w-_ could reflect either _&ast;mʷ-_ or _&ast;w-_, but I have assumed the Aua reflex to reflect _&ast;mʷane-mʷane_, as this is reflected elsewhere in the Admiralties.
-
-[^24]: In [Ross](../sources/Ross1996d) ([1996d](../sources/Ross1996d)) I reconstructed POc _&ast;[ma]Raŋ(o,u)_ ‘dry; coconut growth stage 8: dry and ready to fall’. However, its POc status rested on Baelelea (SES) _maleŋa_ ‘coconut’. I no longer think this is cognate with the NNG and MM forms which refer to a withered coconut, and take the latter simply to be an extension of meaning of reflexes of _&ast;[ma-](r,R)aŋo_.

@@ -214,7 +214,7 @@ Water may be carried and stored in bamboo or coconut-shell bottles stoppered wit
 
 but adds a warning note that the Oceanic forms cited may reflect POc _&ast;waiR_ 'fresh water'. If so, all that can be inferred is a second gloss for this reconstructed form (ACD).
 
-[PEOc &ast;_tapaya_](cognatesetreferences.csv#cldf:1-4-2-2-75-PEOc-tapaya-a)
+[PROc &ast;_tapaya_](cognatesetreferences.csv#cldf:1-4-2-2-75-PROc-tapaya-a)
 
 
 <a id="p-76"></a>
@@ -245,7 +245,7 @@ Two other etyma are reconstructable in the domain 'lid, cover, stopper', but it 
 #### 2.2.5. Lime pot
 
 
-There is one other kind of container associated with Melanesians other than the inhabitants of Vanuatu and Fiji, and that is the lime pot of betel-nut users. The lime container is usually a gourd, coconut shell or small tightly-woven basket. A lime spatula of bone or wood, sometimes highly decorated, rests in the gourd and is used to convey lime to the mouth. We have a reconstruction for the spatula, POc _&ast;d(r)amu_, but no specific term for the lime pot. In a number of word lists the term for lime (often from POc _&ast;qapu(R)_) also can refer to the pot. We have reconstructed a PEOc term for a gourd, _&ast;tapaya_ 'gourd, water bottle', but there are no cognates from SES, which is the only area of eastern Oceanic where betel is chewed, and we lack any Western Oceanic reconstruction.
+There is one other kind of container associated with Melanesians other than the inhabitants of Vanuatu and Fiji, and that is the lime pot of betel-nut users. The lime container is usually a gourd, coconut shell or small tightly-woven basket. A lime spatula of bone or wood, sometimes highly decorated, rests in the gourd and is used to convey lime to the mouth. We have a reconstruction for the spatula, POc _&ast;d(r)amu_, but no specific term for the lime pot. In a number of word lists the term for lime (often from POc _&ast;qapu(R)_) also can refer to the pot. We have reconstructed a PROc term for a gourd, _&ast;tapaya_ 'gourd, water bottle', but there are no cognates from SES, which is the only area of eastern Oceanic where betel is chewed, and we lack any Western Oceanic reconstruction.
 
 
 <a id="p-77"></a>
@@ -289,7 +289,7 @@ Arosi _-s-_ from _&ast;-t-_ is conditioned by a following _&ast;-u_, supporting 
 
 [PWOc &ast;_kase_](cognatesetreferences.csv#cldf:1-4-2-3-78-PWOc-kase-a)
 
-[PEOc &ast;_kete_](cognatesetreferences.csv#cldf:1-4-2-3-78-PEOc-kete-a)
+[PROc &ast;_kete_](cognatesetreferences.csv#cldf:1-4-2-3-78-PROc-kete-a)
 
 This form is unlikely to be of POc ancestry, as medial _&ast;-e-_ is rare in POc. It may well have an association with one of the two _&ast;k_-initial forms above.
 
@@ -332,9 +332,9 @@ Woven mats are made from the leaves of a range of palms, and frequently the same
 
 <a id="p-81"></a>
 
-[PEOc &ast;_bola_](cognatesetreferences.csv#cldf:1-4-3-1-81-PEOc-bola-a)
+[PROc &ast;_bola_](cognatesetreferences.csv#cldf:1-4-3-1-81-PROc-bola-a)
 
-It is possible that the two NCV reflexes in the above set are borrowings from Polynesia (Ross Clark pers.comm.). If so, this reduces the reconstruction from PEOc to PCP.
+It is possible that the two NCV reflexes in the above set are borrowings from Polynesia (Ross Clark pers.comm.). If so, this reduces the reconstruction from PROc to PCP.
 
 [PEOc &ast;_ibe_](cognatesetreferences.csv#cldf:1-4-3-1-81-PEOc-ibe-a)
 

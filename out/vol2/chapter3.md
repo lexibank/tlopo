@@ -993,9 +993,9 @@ In Chapter 4 we have reconstructed PEOc _&ast;tasik maquri(p)_ ‘open sea; ocea
 
 The reconstruction below, PEOc _&ast;liku_, is glossed ‘windward side’, but it seems likely that its reflexes are members of a larger set reflecting PMP _&ast;likuD_, POc _&ast;liku(r)_ ‘person’s back’ whose reflexes are used in a number of languages with the senses ‘back of s.t.’, ‘outside’ ([Ch.8, §2.3.5](../contributions/2-8#s-2-3-5)). The use of reflexes of this term for ‘windward side’ reflects the fact that the outside of a barrier reef is its windward side.
 
-<table class="cognateset" id="2-3-3-1-46-PEOc-liku-a">
+<table class="cognateset" id="2-3-3-1-46-PROc-liku-a">
 <tr>
-<td><strong>PEOc</strong></td><td> </td>
+<td><strong>PROc</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;liku</i>
 </td>
@@ -1474,11 +1474,11 @@ Reflexes of the next item, POc _&ast;ŋoro-ŋorok_ with the gloss ‘cape’ are
 
 
 
-The final reconstruction, PEOc _&ast;mata_ ‘point of land, headland’ is evidently an extension of the more basic meanings attributed to POc _&ast;(m,mʷ)ata_, namely ‘point, blade, cutting-edge (of a weapon or instrument)’ ([vol.1,89](../contributions/1-4#p-89)).
+The final reconstruction, PROc _&ast;mata_ ‘point of land, headland’ is evidently an extension of the more basic meanings attributed to POc _&ast;(m,mʷ)ata_, namely ‘point, blade, cutting-edge (of a weapon or instrument)’ ([vol.1,89](../contributions/1-4#p-89)).
 
-<table class="cognateset" id="2-3-3-4-49-PEOc-mata-a">
+<table class="cognateset" id="2-3-3-4-49-PROc-mata-a">
 <tr>
-<td><strong>PEOc</strong></td><td> </td>
+<td><strong>PROc</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;mata</i>
 </td>
@@ -1915,15 +1915,15 @@ In Polynesia the typical term for mountain is a reflex of _&ast;maquŋa_.
 
 <a id="p-52"></a>
 
-Note also the following PEOc reconstruction:
+Note also the following PROc reconstruction:
 
-<table class="cognateset" id="2-3-4-1-52-PEOc-qulunipanua-a">
+<table class="cognateset" id="2-3-4-1-52-PROc-qulunipanua-a">
 <tr>
-<td><strong>PEOc</strong></td><td> </td>
+<td><strong>PROc</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;qulu ni panua</i>
 </td>
-<td>'<span>headland, mountain peak</span>' (<span>POc &ast;qulu ‘head’, ni ‘of’, &ast;panua ‘land’</span>)</td>
+<td>'<span>headland, mountain peak</span>' (<span>POc <em>&ast;qulu</em> ‘head’, <em>ni</em> ‘of’, <em>&ast;panua</em> ‘land’</span>)</td>
 </tr>
 <tr>
 <td>Mic</td><td><a href="../languages/chuukese">Chuukese</a></td><td style="white-space: nowrap;"><i>wɨɾɨ-ɾ fəɾɨ </i></td>
@@ -2873,7 +2873,7 @@ The final two reconstructed forms in this section probably referred to wet taro 
 <td style="white-space: nowrap;">
 <i>&ast;vusi</i>
 </td>
-<td>'<span>swamp; taro swamp</span>' (<span>see vol. 1, p.139</span>)[^6]</td>
+<td>'<span>swamp; taro swamp</span>' (<span>see vol. 1, p.139</span>)</td>
 </tr>
 <tr>
 <td>Fij</td><td><a href="../languages/bauanfijian">Bauan</a></td><td style="white-space: nowrap;"><i>vuði</i></td>
@@ -4993,7 +4993,7 @@ Blust (ACD) reconstructs PMP _&ast;luten_ ‘firewood’ based on WMP: LongWat _
 <td>'<span>piece of charred wood</span>'</td>
 </tr>
 <tr>
-<td><strong>PEOc</strong></td><td> </td>
+<td><strong>PROc</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;lito</i>
 </td>
@@ -5183,11 +5183,11 @@ The following cognate set is tentatively attributed to a POc etymon glossed ‘l
 
 
 
-Charcoal is likely to have been distinctively named in Proto Oceanic. Carbonised wood was widely used in Pacific Island communities for drawing marks or, pounded and mixed with oil and water, for smearing on the skin. PMP _&ast;uRiŋ_ ‘charcoal, wood that is charred (but no longer burning fiercely)’ has been reconstructed by Dempwolff and others, based on e.g. Tagalog _uliŋ_, Bontok _uriŋ_, Ngadju-Dayak _b/uriŋ_, etc. but Oceanic cognates have not been noted. There is a well supported reconstruction for Eastern Oceanic, _&ast;malala_, but this lacks clear cognates in Western Oceanic.
+Charcoal is likely to have been distinctively named in Proto Oceanic. Carbonised wood was widely used in Pacific Island communities for drawing marks or, pounded and mixed with oil and water, for smearing on the skin. PMP _&ast;uRiŋ_ ‘charcoal, wood that is charred (but no longer burning fiercely)’ has been reconstructed by Dempwolff and others, based on e.g. Tagalog _uliŋ_, Bontok _uriŋ_, Ngadju-Dayak _b/uriŋ_, etc. but Oceanic cognates have not been noted. There is a well supported reconstruction for Remote Oceanic, _&ast;malala_, but this lacks clear cognates in Western Oceanic.
 
-<table class="cognateset" id="2-3-8-2-74-PEOc-malala-a">
+<table class="cognateset" id="2-3-8-2-74-PROc-malala-a">
 <tr>
-<td><strong>PEOc</strong></td><td> </td>
+<td><strong>PROc</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;malala</i>
 </td>
@@ -6165,7 +6165,7 @@ Certain Papuan languages of the central and western Solomons show resemblant for
 
 <a id="p-80"></a>
 
-There are several cognate sets pointing to PEOc forms denoting burning with a particular kind of light.
+There are several cognate sets pointing to PEOc or PROc forms denoting burning with a particular kind of light.
 
 <table class="cognateset" id="2-3-8-4-80-PEOc-maka-a">
 <tr>
@@ -6221,13 +6221,13 @@ cf. also:
 </table>
 
 
-<table class="cognateset" id="2-3-8-4-80-PEOc-makalo-a">
+<table class="cognateset" id="2-3-8-4-80-PROc-makalo-a">
 <tr>
-<td><strong>PEOc</strong></td><td> </td>
+<td><strong>PROc</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;makalo</i>
 </td>
-<td>'<span>burn with glow</span>' (<span>cf. &ast;kalo-kalo ‘glimmer’</span>)</td>
+<td>'<span>burn with glow</span>' (<span>cf. <em>&ast;kalo-kalo</em> ‘glimmer’</span>)</td>
 </tr>
 <tr>
 <td>Mic</td><td><a href="../languages/kiribati">Kiribati</a></td><td style="white-space: nowrap;"><i>mʷākaro</i></td>
@@ -6268,9 +6268,9 @@ cf. also:
 
 
 
-<table class="cognateset" id="2-3-8-4-80-PEOc-kalokalo-a">
+<table class="cognateset" id="2-3-8-4-80-PROc-kalokalo-a">
 <tr>
-<td><strong>PEOc</strong></td><td> </td>
+<td><strong>PROc</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;kalo-kalo</i>
 </td>
@@ -7195,9 +7195,9 @@ Whirlpools and waterspouts and some other phenomena such as rainbows and echoes,
 
 The meanings of the prefix _&ast;qā-_, and the alternative form _&ast;pua-_ (blowing?) in the following set are uncertain.
 
-<table class="cognateset" id="2-3-9-7-88-PEOc-siosio-a">
+<table class="cognateset" id="2-3-9-7-88-PROc-siosio-a">
 <tr>
-<td><strong>PEOc</strong></td><td> </td>
+<td><strong>PROc</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;siosio</i>
 </td>
@@ -7335,10 +7335,8 @@ But there are salient parts of Oceanic land environments for which we cannot rec
 
 [^2]: The form POc _&ast;tano(q)_ given in [vol.1,119](../contributions/1-5#p-119) has now been revised to _&ast;tanoq_. Evidence supporting final _&ast;-q_ lies in the retention of a final vowel in Kwamera (John Lynch, pers. comm.) and Iaai (Françoise Ozanne-Rivierre, pers. comm.) .
 
-[^3]: In [vol.1,189](../contributions/1-7#p-189) the form POc _&ast;ijuŋ_ ‘projecting headboard of prow’ is erroneously given for &ast;(i,u)cuŋ. This is almost certainly the same etymon as that reconstructed here.
+[^3]: In [vol.1,189](../contributions/1-7#p-189) the form POc _&ast;(i,u)cuŋ_ with gloss ‘projecting headboard of prow’ is reconstructed. This is almost certainly the same etymon as that reconstructed here.
 
 [^4]: It is tempting to decide that this is the same term as POc _&ast;koro_ ‘(i) any fenced-in area’, (ii) settlement fortified by a palisade or ditch’ ([Pawley 2005](../sources/Pawley2005)), on the basis that fortifications were typically situated on high ground. But there is strong evidence that there were two distinct terms at least as far back as POc.
 
 [^5]: Languages where kinds of swamp are lexically distinguished include Kiriwina _dumia_ ‘inland swamp’, _pasa_, _vamova_ ‘mangrove swamp’ and Kwaio _kunu_, _kū-kunu_ ‘saltwater mud’, _kunu-kunu_ ‘freshwater mud, swamp’. Also Ulawa _lo-lolo_ ‘swamp in which sago palms grow’ and closely related language Sa’a which has _lo-loŋo_ ‘mangrove swamp’.
-
-[^6]: In [vol.1,139](../contributions/1-5#p-139) the form PCP _&ast;pusi_ is erroneously given for _&ast;vusi_ (POc _&ast;p_ split into PCP _&ast;p_ and _&ast;v_).

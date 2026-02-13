@@ -737,30 +737,23 @@ cf. also:
 </table>
 
 
-The reconstruction of POc _&ast;maRaŋo_ 'coconut growth stage 9: ripe, flesh hardened (or stage 10: dry and ready to fall)' entails a phonological problem. I assumed in [vol. 2 (ch.7, §5.6](../contributions/2-7#s-5-6)) that reflexes of this term were cognate with reflexes of POc _&ast;[ma]raŋo_ 'become withered (of vegetation)', reconstructed by Osmond in [vol. 1 (ch.5, §9.4](../contributions/1-5#s-9-4)). I assumed further that both reflected PMP _&ast;(ma)Raŋaw_ and that the POc form was _&ast;[ma]Raŋo_, regularly reflecting the PMP form. As I noted in vol.2, this is problematic, as Southeast Solomonic reflexes of the form _raŋo_ 'be withered' reflect POc _&ast;r_, not _&ast;R_.
-
 
 <a id="p-365"></a>
 
--- FIXME: errata --
+The reconstruction of POc _&ast;[ma][R,r]aŋo_ ‘coconut growth stage 9: ripe, flesh hardened’ is subject to the same caveats as the formally identical reconstruction glossed ‘become withered (of vegetation)’ (q.v.). Both evidently reflect PCEMP _&ast;[ma]Raŋaw_ ‘dry’. It happens that all reflexes in the cogset below potentially reflect _&ast;R_, but only the Lau and Tape items reflect _&ast;R_ unambiguously. The languages of the other reflexes all merge _&ast;R_ and _&ast;r_. Only in Tape do we find the contrasting reflexes _məraŋ_ ‘dry’ (< _&ast;maraŋo_) and _meaŋ_ ‘green coconut with flesh that has become hard …’ (< _&ast;maRaŋo_), but we cannot be sure whether this reflects a longstanding semantic contrast between _&ast;maraŋo_ and _&ast;maRaŋo_ or is a local innovation.[^10]
 
-On balance the data now available suggest that my assumption in vol. 2 was wrong, and that two POc reconstructions must be made: POc _&ast;[ma]raŋo_ 'become withered (of vegetation)', as reconstructed by Osmond, and _&ast;maRaŋo_ 'coconut growth stage …'. Two pieces of data underlie this decision. The first is Baelelea (SES) _maleŋa_ 'coconut', in which _-l-_ reflects POc _&ast;-R-_, contrasting with the SES items of the form _raŋo_ 'be withered', reflecting POc _&ast;-r-_. The second is the Tape pair _meaŋ_ 'green coconut', probably reflecting POc _&ast;-R-_ as zero, and _maraŋ_ '(of wood, leaves) dry', probably reflecting POc _&ast;-r-_.[^10] The data supporting both etyma are listed below. The Sursurunga item appears in both lists, as it appears to represent a conflation of the two etyma.
-
-Other than the items mentioned in the previous paragraph, none of the items below is diagnostic of the difference between POc _&ast;-R-_ and _&ast;-r-_ except for Niuean and Samoan _maŋo_ 'dry', and these reflect _&ast;-R-_ (with a zero reflex), not _&ast;-r-_ as their meaning would lead us to expect. Also noteworthy is the odd fact that PMP _&ast;(ma)Raŋaw_ 'dry' contains _&ast;-R-_ whilst the POc etymon of similar meaning contains _&ast;-r-_. In both cases speakers seem to have conflated or confused the two etyma.
-
-<table class="cognateset" id="3-12-3-4-365-POc-marao-a">
+<table class="cognateset" id="3-12-3-4-365-POc-marrao-a">
 <tr>
-<td><strong>PMP</strong></td><td> </td>
+<td><strong>PCEMP</strong></td><td> </td>
 <td style="white-space: nowrap;">
-<i>&ast;(ma)Raŋaw</i>
+<i>&ast;[ma]Raŋaw</i>
 </td>
-<td>'<span>dry</span>' (<a href="../sources/Blust1981b">Blust 1981b</a>)
-</td>
+<td></td>
 </tr>
 <tr>
 <td><strong>POc</strong></td><td> </td>
 <td style="white-space: nowrap;">
-<i>&ast;maRaŋo</i>
+<i>&ast;ma[R,r]aŋo</i>
 </td>
 <td>'<span>coconut growth stage 9: ripe, flesh hardened (or stage 10: dry and ready to fall)</span>'</td>
 </tr>
@@ -801,7 +794,7 @@ Other than the items mentioned in the previous paragraph, none of the items belo
 <td>'<span>dry coconut</span>'</td>
 </tr>
 <tr>
-<td>SES</td><td><a href="../languages/baelelea">Baelelea</a></td><td style="white-space: nowrap;"><i>maleŋa</i></td>
+<td>SES</td><td><a href="../languages/lau">Lau</a></td><td style="white-space: nowrap;"><i>maleŋa</i></td>
 <td>'<span>coconut</span>'</td>
 </tr>
 <tr>
@@ -826,79 +819,6 @@ Other than the items mentioned in the previous paragraph, none of the items belo
 </tr>
 </table>
 
-
-
-<table class="cognateset" id="3-12-3-4-365-POc-marao-b">
-<tr>
-<td><strong>POc</strong></td><td> </td>
-<td style="white-space: nowrap;">
-<i>&ast;[ma-]raŋo</i>
-</td>
-<td>'<span>become withered (ofvegetation)</span>' (<span>vol. 1, ch.5, §9.4</span>)</td>
-</tr>
-<tr>
-<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td style="white-space: nowrap;"><i>malaŋo</i></td>
-<td>'<span>dry</span>'</td>
-</tr>
-<tr>
-<td>NNG</td><td><a href="../languages/manam">Manam</a></td><td style="white-space: nowrap;"><i>maraŋo</i></td>
-<td>'<span>dry, arid</span>'</td>
-</tr>
-<tr>
-<td>MM</td><td><a href="../languages/sursurunga">Sursurunga</a></td><td style="white-space: nowrap;"><i>maraŋ</i></td>
-<td>'<span>(be) old, dry; (old) coconut with lots of meat and little milk</span>'</td>
-</tr>
-<tr>
-<td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td style="white-space: nowrap;"><i>ma-raŋa</i></td>
-<td>'<span>withered, dry (leaves, husk, tree)</span>'</td>
-</tr>
-<tr>
-<td>MM</td><td><a href="../languages/selau">Selau</a></td><td style="white-space: nowrap;"><i>raŋo</i></td>
-<td>'<span>dry</span>'</td>
-</tr>
-<tr>
-<td>SES</td><td><a href="../languages/bugotu">Bugotu</a></td><td style="white-space: nowrap;"><i>raŋo</i></td>
-<td>'<span>wither (leaves, yam vines)</span>'</td>
-</tr>
-<tr>
-<td>SES</td><td><a href="../languages/saa">Sa’a</a></td><td style="white-space: nowrap;"><i>raŋo</i></td>
-<td>'<span>be withered, dry (esp. yams when vine withers)</span>'</td>
-</tr>
-<tr>
-<td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td style="white-space: nowrap;"><i>raŋo</i></td>
-<td>'<span>withered, dead (of grass, green boughs + )</span>'</td>
-</tr>
-<tr>
-<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td style="white-space: nowrap;"><i>raŋo</i></td>
-<td>'<span>become dried up in the course of nature</span>'</td>
-</tr>
-<tr>
-<td>NCV</td><td><a href="../languages/tape">Tape</a></td><td style="white-space: nowrap;"><i>məraŋ</i></td>
-<td>'<span>(of wood, leaves) dry</span>' (<span>J. Lynch, pers. comm.</span>)</td>
-</tr>
-<tr>
-<td>SV</td><td><a href="../languages/kwamera">Kwamera</a></td><td style="white-space: nowrap;"><i>(kahi)mareŋi</i></td>
-<td>'<span>turning brown</span>'</td>
-</tr>
-</table>
-
-cf. also: 
-<table>
-<tr>
-<td>Pn</td>
-<td><a href="../languages/niuean">Niuean</a></td>
-<td style="white-space: nowrap;"><i>maŋo</i></td>
-<td>
-'<span>dry (of wood, trees)</span>'</td>
-</tr>
-<tr>
-<td>Pn</td>
-<td><a href="../languages/samoan">Samoan</a></td>
-<td style="white-space: nowrap;"><i>maŋo</i></td>
-<td>
-'<span>dry up; be dry (of wood, clothes)</span>'</td>
-</tr>
-</table>
 
 
 

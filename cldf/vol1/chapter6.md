@@ -68,7 +68,7 @@ Another north coast language, Gedaged, has a term, _wol_, referring to a bow str
 
 In addition to the general term POc _&ast;kaiu_ 'wood, stick ', we can reconstruct a PEOc term _&ast;papia_, specifically for firewood. Note that an identical term is reconstructable for PEOc (cognates in SES and Fiji) with the meaning 'cook in native oven' ([§3.1](ContributionTable?anchor=s-3-1#cldf:1-6)).
 
-[PEOc &ast;_papia_](cognatesetreferences.csv#cldf:1-6-2-2-145-PEOc-papia-a)
+[PROc &ast;_papia_](cognatesetreferences.csv#cldf:1-6-2-2-145-PROc-papia-a)
 
 
 <a id="p-146"></a>

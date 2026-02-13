@@ -334,7 +334,7 @@ PMP _&ast;bunat_ is reconstructed on the basis of the Oceanic data here and Boto
 
 <a id="p-411"></a>
 
-PWOc _&ast;(m,mʷ)ali_ (incorrectly given as _&ast;maRi_ in [vol. 1, ch.8, §7](ContributionTable?anchor=s-7#cldf:1-8)) is reconstructed on the basis of North New Guinea and Meso-Melanesian languages:
+PWOc _&ast;(m,mʷ)ali_ is reconstructed on the basis of North New Guinea and Meso-Melanesian languages:
 
 [PWOc &ast;_(m,mʷ)ali_](cognatesetreferences.csv#cldf:3-13-4-1-411-PWOc-mmali-a)
 

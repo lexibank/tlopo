@@ -655,7 +655,7 @@ The verbs reconstructed below denote a variety of kinds of hitting:
 
 A number of Eastern Oceanic items reflect a PEOc form _&ast;tipʷa_, and it is just possible that this is descended from a separate POc etymon.
 
-[POc &ast;_pʷasa(r,R)_](cognatesetreferences.csv#cldf:1-9-5-1-273-POc-pasarr-a)
+[POc &ast;_pʷaja(R)_](cognatesetreferences.csv#cldf:1-9-5-1-273-POc-pajar-a)
 
 [PMP &ast;_sa(m)puk_](cognatesetreferences.csv#cldf:1-9-5-1-273-POc-sapuk-a)
 
@@ -822,7 +822,7 @@ POc evidently had a substantial number of verbs used of squeezing or wringing so
 | POc  | _&ast;poRo(s)_, _&ast;poRos-i_              | 'squeeze out, wring out (liquid)'                              |
 | POc  | _&ast;momo(s)_                          | 'squeeze'                                                      |
 | POc  | _&ast;losi(t)_                          | 'squeeze, wring'                                               |
-| PEOc | _&ast;gugu(m)_, _&ast;gumi-_                | 'grasp in fist, clench fist'                                   |
+| PROc | _&ast;gugu(m)_, _&ast;gumi-_                | 'grasp in fist, clench fist'                                   |
 | POc  | _&ast;gumu(t)_, _&ast;gumut-i-_             | 'hold tight'                                                   |
 
 
@@ -865,13 +865,13 @@ Note that the reflexes of _&ast;poRos-i-_ above are all WOc, whilst those of _&a
 
 <a id="p-285"></a>
 
-The derivational relationship between the pair of verbs below, PEOc _&ast;gugu(m)_, _&ast;gum-i-_ 'grasp in fist, clench fist', evidently still subsists in some Pn languages. Although PEOc _&ast;gugu(m)_ is to our knowledge only reflected in Pn languages, this relationship persists and must go back to PEOc and probably to POc. There is an obvious historical relationship between this pair and Dempwolff's reconstruction of PMP _&ast;gemgem_ 'make a fist', but the reconstructable POc/PEOc vowel is 'wrong': _&ast;u_ for expected _&ast;o_.
+The derivational relationship between the pair of verbs below, PROc _&ast;gugu(m)_, _&ast;gum-i-_ 'grasp in fist, clench fist', evidently still subsists in some Pn languages. Although PROc _&ast;gugu(m)_ is to our knowledge only reflected in Pn languages, this relationship persists and must go back to PROc and probably to POc. There is an obvious historical relationship between this pair and Dempwolff's reconstruction of PMP _&ast;gemgem_ 'make a fist', but the reconstructable POc/PEOc vowel is 'wrong': _&ast;u_ for expected _&ast;o_.
 
-[PMP &ast;_gemgem_](cognatesetreferences.csv#cldf:1-9-7-None-285-PEOc-gugum-a)
+[PMP &ast;_gemgem_](cognatesetreferences.csv#cldf:1-9-7-None-285-PROc-gugum-a)
 
-[PEOc &ast;_gumi-_](cognatesetreferences.csv#cldf:1-9-7-None-285-PEOc-gumi-a)
+[PROc &ast;_gumi-_](cognatesetreferences.csv#cldf:1-9-7-None-285-PROc-gumi-a)
 
-The vowel is also 'wrong' (except perhaps in the Arosi reflex) in the pair below, which, despite its formal and semantic similarity to the pair above, seems to have a different PMP origin. Similarity has apparently ensured that no language reflects both forms of each pair. Indeed, I suspect that some forms above are historical conflations of reflexes of PEOc _&ast;gumi-_ and _&ast;gumu_ (from POc _&ast;gumu(t)_).
+The vowel is also 'wrong' (except perhaps in the Arosi reflex) in the pair below, which, despite its formal and semantic similarity to the pair above, seems to have a different PMP origin. Similarity has apparently ensured that no language reflects both forms of each pair. Indeed, I suspect that some forms above are historical conflations of reflexes of PROc _&ast;gumi-_ and _&ast;gumu_ (from POc _&ast;gumu(t)_).
 
 [PMP &ast;_kemes_](cognatesetreferences.csv#cldf:1-9-7-None-285-POc-gumut-a)
 

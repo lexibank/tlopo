@@ -3280,9 +3280,9 @@ There are two other reconstructions from which terms for ‘side’ are derived.
 
 
 
-<table class="cognateset" id="2-8-2-3-255-PEOc-tapa-a">
+<table class="cognateset" id="2-8-2-3-255-PROc-tapa-a">
 <tr>
-<td><strong>PEOc</strong></td><td> </td>
+<td><strong>PROc</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;tapa-</i>
 </td>

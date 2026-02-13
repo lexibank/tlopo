@@ -3342,11 +3342,11 @@ POc _&ast;(d,dr)im(a)-(d,dr)im(a)_ evidently meant ‘drizzle, light rain’. I 
 
 
 
-In search of other terms associated in one way or another with rain, I tried to reconstruct terms for ‘rainbow’ and ‘dew’. However, I could only reconstruct a Proto Eastern Oceanic term for the former (but see the note on POc _&ast;bʷa(p)o_ ‘misty rain (?)’ above, p.145).
+In search of other terms associated in one way or another with rain, I tried to reconstruct terms for ‘rainbow’ and ‘dew’. However, I could only reconstruct a Proto Remote Oceanic term for the former (but see the note on POc _&ast;bʷa(p)o_ ‘misty rain (?)’ above, p.145).
 
-<table class="cognateset" id="2-5-5-3-148-PEOc-nuanua-a">
+<table class="cognateset" id="2-5-5-3-148-PROc-nuanua-a">
 <tr>
-<td><strong>PEOc</strong></td><td> </td>
+<td><strong>PROc</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;nua-nua</i>
 </td>

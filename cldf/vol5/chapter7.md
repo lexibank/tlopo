@@ -209,10 +209,6 @@ This section is concerned with acts that people perform on each other, again wit
 ### 4.1. Slapping and clapping
 
 
-A verb for slapping, POc _&ast;pʷasa(r,R)_, _&ast;pʷasa(r,R)-i-_ ‘slap, hit’, was reconstructed in [vol.1:273](ContributionTable?anchor=p-273#cldf:1-9). With considerably more data the form and gloss of the reconstruction can be edited as shown below.
-
-# FIXME: Correct vol1?
-
 [POc &ast;_pʷaja(R)_](cognatesetreferences.csv#cldf:5-7-4-1-470-POc-pajar-a)
 
 
@@ -375,7 +371,7 @@ Various scholars have suggested that the particular reflex of POc _&ast;wasi-_ k
 
 <a id="p-482"></a>
 
-The fact that POc _&ast;pulu_, _&ast;puRiq_ and _&ast;puqi_ below all begin with _&ast;pu-_ appears to be a matter of chance, but has on occasion led to the attribution of an item to the wrong cognate set.[^5]
+The fact that POc _&ast;pulu_, _&ast;puRiq_ and _&ast;puqi_ below all begin with _&ast;pu-_ appears to be a matter of chance.
 
 [PMP &ast;_bulu_](cognatesetreferences.csv#cldf:5-7-6-2-482-POc-pulu-a)
 
@@ -454,7 +450,5 @@ The third POc form descended from PMP _&ast;buni_ ‘hide, conceal’ is POc _&a
 [^3]: Final PMP _&ast;-d_ is not reflected in all wMP languages. Blust (ACD) cites Balinese _ilih_ ‘kind of fan; to fan’, where _-h_ reflects _&ast;-q_, not _&ast;-d_ or _&ast;-p_.
 
 [^4]: John Lynch kindly drew our attention to these forms and their significance.
-
-[^5]: Tolo _vuli-_ ‘wash (hands, clothes)’ was attributed to POc _&ast;pulu_ in [vol.1:243](ContributionTable?anchor=p-243#cldf:1-9), instead of to _&ast;puRiq_. # FIXME: erratum in vol1
 
 [^6]: John Lynch points out that Naman _tərav_, Uripiv _e-triv_, Tirax _trɛv_, Nisvai _tarv-i_ appear to reflect _&ast;tarav_, while Neve’ei _terax-en_, Big Nambas, Tape _tərax_ reflect _&ast;tarak_. These forms are all from Malakula, and we can offer no account of them.

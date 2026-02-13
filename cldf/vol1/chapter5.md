@@ -485,6 +485,8 @@ Only a single Oceanic reflex has been located for this reconstruction, from the 
 
 Although any plant may become dry and droop through lack of water, it is a feature of yam vines that the leaves turn yellow and drop off when the tubers are ready to harvest.
 
+PCEMP _&ast;[ma]Raŋaw_ below leads us to expect POc _&ast;[ma]Raŋo_, but the cognate set apparently reflects POc _&ast;[ma]raŋo_, as the Bugotu, Sa’a and Tape items unambiguously reflect _&ast;r_, not _&ast;R_. However, the Niuean and Samoan items under ‘cf also’ reflect POc _&ast;maRaŋo_ (_&ast;R_ is lost in Central Pacific languages but _&ast;r_ isn’t). This implies that _&ast;[ma]Raŋo_ and an idiosyncratic _&ast;[ma]raŋo_ co-occurred in early Oceanic. As Mussau, NNG and MM languages merge POc _&ast;r_ and _&ast;R_, they may reflect either form. Hence reconstructed _&ast;[ma][R,r]aŋo_.
+
 [POc &ast;_&#91;ma-&#93;raŋo_](cognatesetreferences.csv#cldf:1-5-9-4-135-POc-marao-a)
 
 [POc &ast;_malai_](cognatesetreferences.csv#cldf:1-5-9-4-135-POc-malai-a)

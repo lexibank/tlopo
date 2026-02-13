@@ -535,7 +535,7 @@ There are two other reconstructions from which terms for ‘side’ are derived.
 
 [PMP &ast;_sidiŋ_](cognatesetreferences.csv#cldf:2-8-2-3-255-POc-siri-a)
 
-[PEOc &ast;_tapa-_](cognatesetreferences.csv#cldf:2-8-2-3-255-PEOc-tapa-a)
+[PROc &ast;_tapa-_](cognatesetreferences.csv#cldf:2-8-2-3-255-PROc-tapa-a)
 
 
 <a id="s-2-3-5"></a>

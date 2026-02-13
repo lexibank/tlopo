@@ -314,17 +314,15 @@ See also PPn _&ast;tau-mu ʔa_ 'foredeck ' ([§2.10](ContributionTable?anchor=s-
 
 <a id="fig-1-25"> </a>
 
-[__Figure 25:__ POc _&ast;ijuŋ_ 'projecting headboard of prow' (from Nevermann_1934:285)](MediaTable#cldf:fig-1-25)
+[__Figure 25:__ POc _&ast;(i,u)cuŋ_ 'projecting headboard of prow' (from Nevermann_1934:285)](MediaTable#cldf:fig-1-25)
 
 
 
 In many regions of Oceania larger canoes are constructed with a projecting headboard, part of it resting on the underbody abutting the washstrake, the rest sometimes extending several feet beyond. The end of such headboards usually consists of an elaborately carved figurehead, often a human or animal head or figure. There is a corresponding carved end-board at the stern, often standing more or less vertical. Such carved end-pieces are common, for example, in eastern Polynesia, the Solomon Islands, the Massim, the north coast of New Guinea and the Bismarck Archipelago. A POc reconstruction can be made for the name of the headboard:
 
-[POc &ast;_ijuŋ_](cognatesetreferences.csv#cldf:1-7-2-9-189-POc-iju-a)
+[POc &ast;_(i,u)cuŋ_](cognatesetreferences.csv#cldf:1-7-2-9-189-POc-iucu-a)
 
-FIXME: From vol2: In [vol.1,189](ContributionTable?anchor=p-189#cldf:1-7) the form POc _&ast;ijuŋ_ ‘projecting headboard of prow’ is erroneously given for &ast;(i,u)cuŋ. This is almost certainly the same etymon as that reconstructed here.
-
-The central meaning of POc _&ast;ijuŋ_ was 'nose' and that of _&ast;ŋuju_ 'beak, snout, mouth'. Reflexes of both commonly have the extended sense 'projecting point'. The conjunction of Southeast Solomonic and Polynesian evidence suggests _&ast;ijuŋ_ as the more likely POc form carrying the sense 'projecting headboard'. No widespread cognate set for the stempiece has been noted.
+The central meaning of POc _&ast;(i,u)cuŋ_ was 'nose' and that of _&ast;ŋuju_ 'beak, snout, mouth'. Reflexes of both commonly have the extended sense 'projecting point'. The conjunction of Southeast Solomonic and Polynesian evidence suggests _&ast;(i,u)cuŋ_ as the more likely POc form carrying the sense 'projecting headboard'. No widespread cognate set for the stempiece has been noted.
 
 
 <a id="p-190"></a>
@@ -485,7 +483,7 @@ POc or PCP _&ast;jila_ has commonly (e.g. [Blust 1976a](Source#cldf:Blust1976a),
 
 POc _&ast;kaiu-tuqu(r)_ (evidently a compound of _&ast;kaiu_ 'wood, stick, pole' and _&ast;tuqu(r)_ 'stand; fixed') possibly referred to any main supporting timber including the prop or mast of a boat. This compound has reflexes in Southeast Solomonic, Polynesian and Nuclear Micronesian and possibly in Motu. It appears to have been already lexicalised in the immediate common ancestor of these groups.
 
-[PEOc &ast;_pana_](cognatesetreferences.csv#cldf:1-7-5-3-196-PEOc-pana-a)
+[PROc &ast;_pana_](cognatesetreferences.csv#cldf:1-7-5-3-196-PROc-pana-a)
 
 As the Central Pacific languages in this comparison are all in the Fiji-West Polynesia region and innovations in canoe design are known to have moved freely within this region, the PCP antiquity of _&ast;vanā_ may be questioned. On the other hand, the correspondences Fijian _v_, Tongan, Samoan _f_ are regular, unlike recent Fijian-Polynesian borrowings, where Fijian _v_ has been borrowed as _v_. There is a possible cognate in Mota.
 
@@ -531,9 +529,13 @@ Under this heading fall objects used or carried on board, such as cargo, anchor,
 ### 7.1. Cargo
 
 
-A single base can be reconstructed, used both as a verb '(boat +) be loaded, carry a cargo' and as a noun 'cargo, load'. However, it occurs in the form of a doublet, with and without initial _&ast;l-_.
+A single base can be reconstructed, used both as a verb '(boat +) be loaded, carry a cargo' and as a noun 'cargo, load'. However, it occurs in the form of a doublet, with and without initial _&ast;R-_.
 
-[PMP &ast;_lujan_](cognatesetreferences.csv#cldf:1-7-7-1-198-POc-ujan-a)
+[PMP &ast;_Rujan_](cognatesetreferences.csv#cldf:1-7-7-1-198-POc-rujan-a)
+
+[PMP &ast;_ujan_](cognatesetreferences.csv#cldf:1-7-7-1-198-POc-ucan-a)
+
+[PMic &ast;_u&#91;s,S&#93;a_](cognatesetreferences.csv#cldf:1-7-7-1-198-PMic-ussa-a)
 
 
 <a id="s-7-2"></a>
@@ -726,7 +728,7 @@ The sound correspondences are regular, but one would like further cognates to st
 
 The following reconstruction consists of a compound with _&ast;tau_ 'person, expert, owner' as the first element and _&ast;tasi(k)_ 'sea' as the second.
 
-[PEOc &ast;_tau-tasik_](cognatesetreferences.csv#cldf:1-7-9-3-207-PEOc-tautasik-a)
+[PROc &ast;_tau-tasik_](cognatesetreferences.csv#cldf:1-7-9-3-207-PROc-tautasik-a)
 
 
 <a id="p-208"></a>

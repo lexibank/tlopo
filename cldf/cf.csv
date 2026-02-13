@@ -24,6 +24,7 @@ ID,Name,Description,Category,Comment,Cognateset_ID,CognatesetReference_ID,Chapte
 1-5-5-4-124-POc-suar-a-1,,,,,1-5-5-4-124-POc-suar-a,1-5-5-4-124-POc-suar-a,1-5
 1-5-8-2-132-PEOc-pasi-a-1,,,,,1-5-8-2-132-PEOc-pasi-a,1-5-8-2-132-PEOc-pasi-a,1-5
 1-5-8-2-132-POc-tanum-a-1,,,,,1-5-8-2-132-POc-tanum-a,1-5-8-2-132-POc-tanum-a,1-5
+1-5-9-4-135-POc-marao-a-1,,,,,1-5-9-4-135-POc-marao-a,1-5-9-4-135-POc-marao-a,1-5
 1-5-9-4-135-POc-malai-a-1,,,,,1-5-9-4-135-POc-malai-a,1-5-9-4-135-POc-malai-a,1-5
 1-5-10-None-137-POc-saput-a-1,,,,,1-5-10-None-137-POc-saput-a,1-5-10-None-137-POc-saput-a,1-5
 1-5-10-None-137-PCP-paki-a-1,,,,,1-5-10-None-137-PCP-paki-a,1-5-10-None-137-PCP-paki-a,1-5
@@ -39,7 +40,7 @@ ID,Name,Description,Category,Comment,Cognateset_ID,CognatesetReference_ID,Chapte
 1-7-7-5-202-PCP-tadravu-a-1,,,,,1-7-7-5-202-PCP-tadravu-a,1-7-7-5-202-PCP-tadravu-a,1-7
 1-7-8-3-204-POc-sawa-a-1,,,,,1-7-8-3-204-POc-sawa-a,1-7-8-3-204-POc-sawa-a,1-7
 1-7-9-2-206-POc-palaur-a-1,,,,,1-7-9-2-206-POc-palaur-a,1-7-9-2-206-POc-palaur-a,1-7
-1-7-9-3-207-PEOc-tautasik-a-1,,,,,1-7-9-3-207-PEOc-tautasik-a,1-7-9-3-207-PEOc-tautasik-a,1-7
+1-7-9-3-207-PROc-tautasik-a-1,,,,,1-7-9-3-207-PROc-tautasik-a,1-7-9-3-207-PROc-tautasik-a,1-7
 1-9-2-1-236-POc-giri-a-1,,,,,1-9-2-1-236-POc-giri-a,1-9-2-1-236-POc-giri-a,1-9
 1-9-2-2-239-POc-karas-a-1,,,,,1-6-5-2-163-POc-karas-a,1-9-2-2-239-POc-karas-a,1-9
 1-9-2-2-240-POc-kasi-a-1,,,,,1-6-5-2-162-POc-kasi-a,1-9-2-2-240-POc-kasi-a,1-9
@@ -75,7 +76,7 @@ ID,Name,Description,Category,Comment,Cognateset_ID,CognatesetReference_ID,Chapte
 2-3-4-2-52-POc-salil-a-1,,,,,2-3-4-2-52-POc-salil-a,2-3-4-2-52-POc-salil-a,2-3
 2-3-5-2-57-POc-gkopu-a-1,,,,,2-3-5-2-57-POc-gkopu-a,2-3-5-2-57-POc-gkopu-a,2-3
 2-3-8-2-72-POc-aliton-a-1,,,,,2-3-8-2-72-POc-aliton-a,2-3-8-2-72-POc-aliton-a,2-3
-2-3-8-2-74-PEOc-malala-a-1,,,,,2-3-8-2-74-PEOc-malala-a,2-3-8-2-74-PEOc-malala-a,2-3
+2-3-8-2-74-PROc-malala-a-1,,,,,2-3-8-2-74-PROc-malala-a,2-3-8-2-74-PROc-malala-a,2-3
 2-3-8-3-76-POc-kgabu-a-1,,,,,2-3-8-3-76-POc-kgabu-a,2-3-8-3-76-POc-kgabu-a,2-3
 2-3-8-3-77-POc-bula-a-1,,,,,2-3-8-3-77-POc-bula-a,2-3-8-3-77-POc-bula-a,2-3
 2-3-8-4-79-PCP-kobulu-a-1,,,,,2-3-8-4-79-PCP-kobulu-a,2-3-8-4-79-PCP-kobulu-a,2-3
@@ -91,6 +92,7 @@ ID,Name,Description,Category,Comment,Cognateset_ID,CognatesetReference_ID,Chapte
 2-7-2-None-197-POc-lapuat-a-1,,,,,2-7-2-None-197-POc-lapuat-a,2-7-2-None-197-POc-lapuat-a,2-7
 2-7-5-1-218-POc-rabar-a-1,,,,,2-7-5-1-218-POc-rabar-a,2-7-5-1-218-POc-rabar-a,2-7
 2-7-5-1-219-POc-tonuq-a-1,,,,,2-7-5-1-219-POc-tonuq-a,2-7-5-1-219-POc-tonuq-a,2-7
+2-7-5-6-227-POc-marao-a-1,,,,,1-5-9-4-135-POc-marao-a,2-7-5-6-227-POc-marao-a,2-7
 2-8-2-2-242-POc-atas-a-1,,,,,2-8-2-2-242-POc-atas-a,2-8-2-2-242-POc-atas-a,2-8
 2-8-2-2-244-POc-liwa-a-1,,,,,2-8-2-2-244-POc-liwa-a,2-8-2-2-244-POc-liwa-a,2-8
 2-8-2-3-254-POc-papara-a-1,,,,,2-8-2-3-254-POc-papara-a,2-8-2-3-254-POc-papara-a,2-8
@@ -134,7 +136,6 @@ ID,Name,Description,Category,Comment,Cognateset_ID,CognatesetReference_ID,Chapte
 3-11-3-7-350-POc-mariasapa-a-1,,,,,3-11-3-7-350-POc-mariasapa-a,3-11-3-7-350-POc-mariasapa-a,3-11
 3-11-4-2-352-PWOc-lapuka-a-1,,,,,3-11-4-2-352-PWOc-lapuka-a,3-11-4-2-352-PWOc-lapuka-a,3-11
 3-12-3-4-364-POc-kulu-a-1,,,,,3-12-3-4-364-POc-kulu-a,3-12-3-4-364-POc-kulu-a,3-12
-3-12-3-4-365-POc-marao-b-1,,,,,1-5-9-4-135-POc-marao-a,3-12-3-4-365-POc-marao-b,3-12
 3-12-3-5-366-POc-taba-a-1,,,,,3-12-3-5-366-POc-taba-a,3-12-3-5-366-POc-taba-a,3-12
 3-12-5-1-380-POc-usiri-a-1,,,,,3-12-5-1-380-POc-usiri-a,3-12-5-1-380-POc-usiri-a,3-12
 3-12-5-1-380-PWOc-pagal-a-1,,,,,3-12-5-1-380-PWOc-pagal-a,3-12-5-1-380-PWOc-pagal-a,3-12
@@ -564,7 +565,7 @@ ID,Name,Description,Category,Comment,Cognateset_ID,CognatesetReference_ID,Chapte
 6-6-4-1-220-POc-sagar-a-1,,,,,6-6-4-1-220-POc-sagar-a,6-6-4-1-220-POc-sagar-a,6-6
 6-6-4-1-221-POc-mako-a-1,,,,,6-6-4-1-221-POc-mako-a,6-6-4-1-221-POc-mako-a,6-6
 6-6-4-1-222-PNCV-sale-a-1,,,,,6-6-4-1-222-PNCV-sale-a,6-6-4-1-222-PNCV-sale-a,6-6
-6-6-4-1-223-POc-pajar-a-1,,,,,5-7-4-1-470-POc-pajar-a,6-6-4-1-223-POc-pajar-a,6-6
+6-6-4-1-223-POc-pajar-a-1,,,,,1-9-5-1-273-POc-pajar-a,6-6-4-1-223-POc-pajar-a,6-6
 6-6-6-3-229-POc-sikop-a-1,,,,,6-6-6-3-229-POc-sikop-a,6-6-6-3-229-POc-sikop-a,6-6
 6-7-2-None-236-POc-qanitu-a-1,,,,,6-7-2-None-236-POc-qanitu-a,6-7-2-None-236-POc-qanitu-a,6-7
 6-7-2-None-237-PNCV-qatamate-a-1,,,,,6-7-2-None-237-PNCV-qatamate-a,6-7-2-None-237-PNCV-qatamate-a,6-7
@@ -574,7 +575,7 @@ ID,Name,Description,Category,Comment,Cognateset_ID,CognatesetReference_ID,Chapte
 6-7-5-None-246-POc-tubuqan-a-1,,,,,6-7-5-None-246-POc-tubuqan-a,6-7-5-None-246-POc-tubuqan-a,6-7
 6-8-4-None-266-PNGOc-naba-a-1,,,,,6-8-4-None-266-PNGOc-naba-a,6-8-4-None-266-PNGOc-naba-a,6-8
 6-10-2-None-285-POc-tabu-a-1,,,,,6-10-2-None-285-POc-tabu-a,6-10-2-None-285-POc-tabu-a,6-10
-6-11-5-7-341-PROc-ucunu-a-1,,,,,6-11-5-7-341-PROc-ucunu-a,6-11-5-7-341-PROc-ucunu-a,6-11
+6-11-5-7-341-PROc-ucunu-a-1,,,,,2-6-5-2-174-PROc-ucunu-a,6-11-5-7-341-PROc-ucunu-a,6-11
 6-11-5-7-341-POc-manuk-a-1,,,,,2-6-5-2-168-POc-manuk-a,6-11-5-7-341-POc-manuk-a,6-11
 6-11-5-7-342-PChk-icci-a-1,,,,,6-11-5-7-342-PChk-icci-a,6-11-5-7-342-PChk-icci-a,6-11
 6-11-5-7-342-ProtoChuukicPonapeic-tarobolu-a-1,,,,,6-11-5-7-342-ProtoChuukicPonapeic-tarobolu-a,6-11-5-7-342-ProtoChuukicPonapeic-tarobolu-a,6-11

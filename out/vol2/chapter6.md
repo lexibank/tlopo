@@ -1954,9 +1954,9 @@ In Polynesia and Micronesia a different term, translatable literally as ‘small
 
 <a id="p-172"></a>
 
-<table class="cognateset" id="2-6-5-2-172-PEOc-mataliki-a">
+<table class="cognateset" id="2-6-5-2-172-PROc-mataliki-a">
 <tr>
-<td><strong>PEOc</strong></td><td> </td>
+<td><strong>PROc</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;mataliki</i>
 </td>
@@ -2255,11 +2255,11 @@ No cognates are evident for the constellation, but there are semantically parall
 
 In Fiji the constellation is known as _laða_, literally ‘a sail’.
 
-There is a possible PEOc reconstruction for Aldebaran, the single brightest star of the group. The long vowel indicates a possible _&ast;u(C)u_ sequence.
+There is a possible PROc reconstruction for Aldebaran, the single brightest star of the group. The long vowel indicates a possible _&ast;u(C)u_ sequence.
 
-<table class="cognateset" id="2-6-5-2-174-PEOc-ucunu-a">
+<table class="cognateset" id="2-6-5-2-174-PROc-ucunu-a">
 <tr>
-<td><strong>PEOc</strong></td><td> </td>
+<td><strong>PROc</strong></td><td> </td>
 <td style="white-space: nowrap;">
 <i>&ast;u(C)unu</i>
 </td>

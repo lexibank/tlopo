@@ -439,9 +439,9 @@ POc _&ast;(d,dr)im(a)-(d,dr)im(a)_ evidently meant ‘drizzle, light rain’. I 
 
 [POc &ast;_(d,dr)im(a)-(d,dr)im(a)_](cognatesetreferences.csv#cldf:2-5-5-3-148-POc-ddrimaddrima-a)
 
-In search of other terms associated in one way or another with rain, I tried to reconstruct terms for ‘rainbow’ and ‘dew’. However, I could only reconstruct a Proto Eastern Oceanic term for the former (but see the note on POc _&ast;bʷa(p)o_ ‘misty rain (?)’ above, p.145).
+In search of other terms associated in one way or another with rain, I tried to reconstruct terms for ‘rainbow’ and ‘dew’. However, I could only reconstruct a Proto Remote Oceanic term for the former (but see the note on POc _&ast;bʷa(p)o_ ‘misty rain (?)’ above, p.145).
 
-[PEOc &ast;_nua-nua_](cognatesetreferences.csv#cldf:2-5-5-3-148-PEOc-nuanua-a)
+[PROc &ast;_nua-nua_](cognatesetreferences.csv#cldf:2-5-5-3-148-PROc-nuanua-a)
 
 For ‘dew’, a few reflexes of a PMP term occur.
 

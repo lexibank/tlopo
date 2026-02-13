@@ -50,7 +50,7 @@ ID,Description,Source,Name,Form_ID,Comment,Doubt,Level
 1-4-2-2-75-POc-kulopi-a,"ladle, spoon",,kulopi,poc-kulopi-1,,,POc
 1-4-2-2-75-POc-dragi-a,cooking pot,,d(r)ag(i),poc-dragi-1,,,POc
 1-4-2-2-75-PSHWNG-waip-a,vessel to hold water + ; calabash,,waip,pshwng-waip-1,,,PSHWNG
-1-4-2-2-75-PEOc-tapaya-a,calabash with narrow mouth,,tapaya,peoc-tapaya-1,,,PEOc
+1-4-2-2-75-PROc-tapaya-a,calabash with narrow mouth,,tapaya,proc-tapaya-1,,,PROc
 1-4-2-2-76-POc-joan-a,fitted tight as a cork,,"joŋ-a(n,ŋ)",poc-joan-1,,,POc
 1-4-2-2-76-POc-jojo-a,"stopper, cork",,seŋseŋ,pan-sese-1,,,PAn
 1-4-2-2-76-POc-burua-a,cover,,buruŋ(a),poc-burua-1,,,POc
@@ -60,11 +60,11 @@ ID,Description,Source,Name,Form_ID,Comment,Doubt,Level
 1-4-2-3-78-POc-laka-a,,,laka,poc-laka-1,,,POc
 1-4-2-3-78-POc-tabbe-a,k.o. shallow basket,,"ta(b,bʷ)e",poc-tabbe-1,,,POc
 1-4-2-3-78-PWOc-kase-a,basket,,kase,pwoc-kase-1,,,PWOc
-1-4-2-3-78-PEOc-kete-a,plaited flax basket with carrying handles,,kete,peoc-kete-1,,,PEOc
+1-4-2-3-78-PROc-kete-a,plaited flax basket with carrying handles,,kete,proc-kete-1,,,PROc
 1-4-2-3-79-POc-taa-a,small basket in which betel or other effects are kept,,taŋa,poc-taa-1,,,POc
 1-4-3-1-80-POc-qebal-a,ritual offering of finely plaited pandanus mats,,qebal,poc-qebal-1,,,POc
 1-4-3-1-80-POc-tabakau-a,floormat; plaited floormat,,tabakau,poc-tabakau-1,,,POc
-1-4-3-1-81-PEOc-bola-a,small plaited coconut leaf mat,,bola,peoc-bola-1,,,PEOc
+1-4-3-1-81-PROc-bola-a,small plaited coconut leaf mat,,bola,proc-bola-1,,,PROc
 1-4-3-1-81-PEOc-ibe-a,,,ibe,peoc-ibe-1,,,PEOc
 1-4-3-1-81-POc-patur-a,"compose, put in order, arrange; weave (flower necklace +)",,batuR,pmp-batur-1,,,PMP
 1-4-3-1-82-POc-ana-a,twisted cord made from small combings of coconut fibre,,añam,pmp-anam-1,,,PMP
@@ -181,7 +181,7 @@ ID,Description,Source,Name,Form_ID,Comment,Doubt,Level
 1-5-9-1-134-POc-polok-a,"begin to make stem, of a tree; the beginning of a stem in a coconut",,polok,poc-polok-1,,,POc
 1-5-9-1-134-PWOc-pusuk-a,(plant) grow,,pusuk,pwoc-pusuk-1,,,PWOc
 1-5-9-2-134-POc-tubuq-a,"grow, increase, spring up, of plants",,tu(m)buq,pmp-tumbuq-1,,,PMP
-1-5-9-4-135-POc-marao-a,become dried up in the course of nature,,[ma-]raŋo,poc-marao-1,,,POc
+1-5-9-4-135-POc-marao-a,turning brown,,[ma-]raŋo,poc-marao-1,,,POc
 1-5-9-4-135-POc-malai-a,"withered, faded",,malai,poc-malai-1,,,POc
 1-5-9-4-135-PEOc-palo-a,"shrunk, wilted",,palo,peoc-palo-1,,,PEOc
 1-5-10-None-136-POc-kawit-a,"hook s.t., catch s.t. on a hook",,kawit,pmp-kawit-1,,,PMP
@@ -197,7 +197,7 @@ ID,Description,Source,Name,Form_ID,Comment,Doubt,Level
 1-6-2-1-144-POc-suka-a,"rub in groove, frictionate",,"suka, suka-i-",poc-sukasukai-1,,,POc
 1-6-2-1-144-POc-usuqp-a,start a fire using sticks,,usuq,pmp-usuq-1,,,PMP
 1-6-2-1-145-PCEPn-kaulima-a,the upper frictioning stick in the fire-plough,,kau-lima,pcepn-kaulima-1,,,PCEPn
-1-6-2-2-145-PEOc-papia-a,,,papia,peoc-papia-1,,,PEOc
+1-6-2-2-145-PROc-papia-a,,,papia,proc-papia-1,,,PROc
 1-6-2-3-146-POc-aliton-a,wave a firebrand; keep it alight,,aluten,pmp-aluten-1,,,PMP
 1-6-2-3-146-POc-sulu-a,glow,,sulu,poc-sulu-1,,,POc
 1-6-2-4-147-POc-qapu-a,"ashes, lime, dust",,qabu,pan-qabu-1,,,PAn
@@ -268,7 +268,7 @@ ID,Description,Source,Name,Form_ID,Comment,Doubt,Level
 1-7-2-7-188-PPn-liu-a,"bilge, valley, basin",,liu,ppn-liu-1,,,PPn
 1-7-2-8-188-POc-muri-a,stern,,muri-,poc-muri-1,,,POc
 1-7-2-8-188-POc-muqa-a,bows of boats,,muqa-,poc-muqa-1,,,POc
-1-7-2-9-189-POc-iju-a,figurehead of a tomoko war canoe,,ijuŋ,poc-iju-1,,,POc
+1-7-2-9-189-POc-iucu-a,figurehead of a tomoko war canoe,,"(i,u)cuŋ",poc-iucu-1,,,POc
 1-7-2-10-190-PCP-tau-a,carved figurehead affixed to prow,,tau,pcp-tau-1,,,PCP
 1-7-4-1-191-POc-saman-a,"outrigger including float, always on port side",,"(c,s)a(R)man",pmp-csarman-1,,,PMP
 1-7-4-2-192-POc-kiajo-a,,,kiajo,poc-kiajo-1,,,POc
@@ -277,10 +277,12 @@ ID,Description,Source,Name,Form_ID,Comment,Doubt,Level
 1-7-5-1-194-POc-layar-a,,,layaR,pmp-layar-1,,,PMP
 1-7-5-2-195-POc-jila-a,"yard of sail, upper sprit",,jila,poc-jila-1,,,POc
 1-7-5-3-196-PEOc-kaiutuqur-a,mast and sail,,kaiu-tuqu(r),peoc-kaiutuqur-1,,,PEOc
-1-7-5-3-196-PEOc-pana-a,mast,,pana,peoc-pana-1,,,PEOc
+1-7-5-3-196-PROc-pana-a,mast,,pana,proc-pana-1,,,PROc
 1-7-5-4-197-PCP-tuku-a,"guy rope of traditional sail, fastened to the outrigger",,tuku,pcp-tuku-1,,,PCP
 1-7-6-None-197-POc-quli-a,steer,,"quli(n,ŋ)",pmp-qulin-1,,,PMP
-1-7-7-1-198-POc-ujan-a,carry a cargo,,"lujan, ujan",pmp-lujanujan-1,,,PMP
+1-7-7-1-198-POc-rujan-a,put persons or goods on board a canoe,,Rujan,pmp-rujan-1,,,PMP
+1-7-7-1-198-POc-ucan-a,load up a container with contents,,ujan,pmp-ujan-1,,,PMP
+1-7-7-1-198-PMic-ussa-a,transport (s.t.),,"u[s,S]a, u[s,S]an-i",pmic-ussaussani-1,,,PMic
 1-7-7-2-198-POc-pose-a,paddle,,"be(R)(c,s)ay",pmp-bercsay-1,,,PMP
 1-7-7-2-199-POc-paluca-a,paddle,,pa-luja,pmp-paluja-1,,,PMP
 1-7-7-2-200-PEOc-suac-a,"steer, paddle",,sua(C),peoc-suac-1,,,PEOc
@@ -298,7 +300,7 @@ ID,Description,Source,Name,Form_ID,Comment,Doubt,Level
 1-7-9-2-206-POc-palaur-a,"travel, particularly by water",,pa-laSud,pmp-palasud-1,,,PMP
 1-7-9-2-207-POc-tari-a,"rudder, steer oar",,"ta(d,R)i",pemp-tadri-1,,,PEMP
 1-7-9-2-207-POc-piluk-a,(boat) change from one tack to another,,biluk,pmp-biluk-1,,,PMP
-1-7-9-3-207-PEOc-tautasik-a,"master fisherman, skipper or captain of a boat",,tau-tasik,peoc-tautasik-1,,,PEOc
+1-7-9-3-207-PROc-tautasik-a,"master fisherman, skipper or captain of a boat",,tau-tasik,proc-tautasik-1,,,PROc
 1-7-9-4-208-POc-tauniwaga-a,canoe owner,,tau (ni) waga,poc-tauniwaga-1,,,POc
 1-8-2-None-212-POc-pukot-a,fish net,,puket,pmp-puket-1,,,PMP
 1-8-2-None-212-POc-reke-a,end of a net,,reke,poc-reke-1,,,POc
@@ -319,7 +321,7 @@ ID,Description,Source,Name,Form_ID,Comment,Doubt,Level
 1-8-6-None-220-POc-bara-a,fish weir of stone walls,,baRa,poc-bara-1,,,POc
 1-8-7-None-220-POc-tupa-a,,,tuba,pmp-tuba-1,,,PMP
 1-8-7-None-221-POc-puna-a,fish poison,,puna,poc-puna-1,,,POc
-1-8-7-None-221-PWOc-mmali-a,,,"(m,mʷ)ali",pwoc-mmali-1,,,PWOc
+1-8-7-None-221-PWOc-mmali-a,a coastal creeping vine,,"(m,mʷ)ali",pwoc-mmali-1,,,PWOc
 1-8-8-None-221-POc-dramar-a,torch; eeling with torches,,damaR,pmp-damar-1,,,PMP
 1-8-9-None-222-POc-saot-a,short throwing spear,,saet,pmp-saet-1,,,PMP
 1-8-9-None-222-POc-qiorr-a,spear,,"qio(r,R)",poc-qiorr-1,,,POc
@@ -327,7 +329,7 @@ ID,Description,Source,Name,Form_ID,Comment,Doubt,Level
 1-8-9-None-223-POc-kujuir-a,thrusting spear,,"kuj(u,i)r",poc-kujuir-1,,,POc
 1-8-9-None-224-POc-tara-a,fishhook barb,,tara,poc-tara-1,,,POc
 1-8-9-None-224-POc-sua-a,thrust,,sua,poc-sua-1,,,POc
-1-8-9-None-225-PEOc-sari-a,"arrow or spear with three or more prongs, used for fish, bats +",,saRi,peoc-sari-1,,,PEOc
+1-8-9-None-225-PROc-sari-a,"arrow or spear with three or more prongs, used for fish, bats +",,saRi,proc-sari-1,,,PROc
 1-8-9-None-225-POc-pusur-a,bow,,busuR,pan-busur-1,,,PAn
 1-8-9-None-225-POc-ppanaq-a,bow,,panaq,pmp-panaq-1,,,PMP
 1-8-9-None-225-POc-tiba-a,"dart, bow; shoot with bow and arrow",,tibʷa(ŋ),poc-tiba-1,,,POc
@@ -338,7 +340,7 @@ ID,Description,Source,Name,Form_ID,Comment,Doubt,Level
 1-8-11-None-227-POc-kaio-a,sling,,kaio,poc-kaio-1,,,POc
 1-8-12-None-228-POc-suja-a,stake set slanting and sharpened in a pit for the enemy,,suja,pmp-suja-1,,,PMP
 1-8-13-None-228-POc-pita-a,"firm, secure, fast",,"pʷita, pʷita-i-",poc-pitapitai-1,,,POc
-1-8-13-None-229-PEOc-tari-a,snare or trap for catching animals,,taRi,peoc-tari-1,,,PEOc
+1-8-13-None-229-PROc-tari-a,snare or trap for catching animals,,taRi,proc-tari-1,,,PROc
 1-8-14-None-229-POc-bulit-a,resin,,"bulit, pulit",pmp-bulitpulit-1,,,PMP
 1-9-2-1-236-POc-giri-a,"roughen, as a stick with notches, or in making a file",,giri[-],poc-giri-2,,,POc
 1-9-2-2-237-POc-karut-a,scratch,,karut,pan-karut-1,,,PAn
@@ -349,7 +351,7 @@ ID,Description,Source,Name,Form_ID,Comment,Doubt,Level
 1-9-2-2-241-POc-rasi-a,"rub, scrape, grate, grind",,rasi[-],poc-rasi-2,,,POc
 1-9-2-2-242-PEOc-saqalo-a,"rub, polish",,saqalo,peoc-saqalo-1,,,PEOc
 1-9-2-3-243-POc-qujur-a,"rub, wipe (e.g. with a towel)",,"quju(r), qujur-i-",poc-qujurqujuri-1,,,POc
-1-9-2-3-243-POc-pulu-a,"cleanse, as by rubbing",,bulu,pmp-bulu-1,,,PMP
+1-9-2-3-243-POc-pulu-a,"wash (hands, dishes, floor, etc., but not clothes)",,bulu,pmp-bulu-1,,,PMP
 1-9-2-4-244-POc-tapi-a,sweep,,tapi[-],poc-tapi-2,,,POc
 1-9-2-4-244-POc-saro-a,"broom, brush",,saRo[-],poc-saro-1,,,POc
 1-9-3-None-246-POc-koto-a,"across, through",,koto[-],poc-koto-2,,,POc
@@ -408,7 +410,7 @@ ID,Description,Source,Name,Form_ID,Comment,Doubt,Level
 1-9-5-1-272-POc-babak-a,touch,,pakpak,pmp-pakpak-1,,,PMP
 1-9-5-1-272-POc-baki-a,slap,,baki-,poc-baki-1,,,POc
 1-9-5-1-272-POc-tupuk-a,"clap, applaud, pat",,tu(m)buk,pmp-tumbuk-1,,,PMP
-1-9-5-1-273-POc-pasarr-a,slap s.t. with the open hand or hands together,,"pʷasa(r,R), pʷasa(r,R)-i-",poc-pasarrpasarri-1,,,POc
+1-9-5-1-273-POc-pajar-a,slap s.t. with the open hand or hands together,,pʷaja(R),poc-pajar-1,,,POc
 1-9-5-1-273-POc-sapuk-a,dehusk (coconut),,sa(m)puk,pmp-sampuk-1,,,PMP
 1-9-5-1-273-PCP-sau-a,"strike, beat, chop",,"sau, sauti-",pcp-sausauti-1,,,PCP
 1-9-5-2-274-POc-posak-a,"hit, strike",,pesak,pmp-pesak-1,,,PMP
@@ -435,8 +437,8 @@ ID,Description,Source,Name,Form_ID,Comment,Doubt,Level
 1-9-7-None-283-PNNG-ppisak-a,squeeze (grated coconut +),,"(p,pʷ)isa(k), (p,pʷ)isak-i-",pnng-ppisakppisaki-1,,,PNNG
 1-9-7-None-284-POc-porosi-a,squeeze (grated coconut +),,poRos-i-,poc-porosi-1,,,POc
 1-9-7-None-284-POc-momos-a,clasp in hand and squeeze,,mesmes,pmp-mesmes-1,,,PMP
-1-9-7-None-285-PEOc-gugum-a,"take hold of, grasp",,gemgem,pmp-gemgem-1,,,PMP
-1-9-7-None-285-PEOc-gumi-a,"squeeze, wring",,gumi-,peoc-gumi-1,,,PEOc
+1-9-7-None-285-PROc-gugum-a,"take hold of, grasp",,gemgem,pmp-gemgem-1,,,PMP
+1-9-7-None-285-PROc-gumi-a,"squeeze, wring",,gumi-,proc-gumi-1,,,PROc
 1-9-7-None-285-POc-gumut-a,"clench, close (as hand), carry in the hand; hold breath",,kemes,pmp-kemes-1,,,PMP
 1-9-8-None-287-POc-piro-a,"mix together, mix up, blend",,piro[-],poc-piro-1,,,POc
 1-9-8-None-287-PEOc-pilos-a,"twist, braid, spin; twisted, braided",,"pilo(s), pilos-i",peoc-pilospilosi-2,,,PEOc
@@ -460,20 +462,20 @@ ID,Description,Source,Name,Form_ID,Comment,Doubt,Level
 2-3-2-2-43-POc-qatur-a,group or chain of islands,,qatuR,pmp-qatur-1,,,PMP
 2-3-3-1-44-POc-bbiker-a,"small island, islet",,"(b,bʷ)iker",poc-bbiker-1,,,POc
 2-3-3-1-45-POc-nuku-a,"the earth, generally personified; wide extent of the land, fenua",,nuku,poc-nuku-1,,,POc
-2-3-3-1-46-PEOc-liku-a,windward side,,liku,peoc-liku-1,,,PEOc
+2-3-3-1-46-PROc-liku-a,windward side,,liku,proc-liku-1,,,PROc
 2-3-3-1-46-POc-ruru-a,calm area leeward of an island,,duŋduŋ,pmp-dudu-1,,,PMP
 2-3-3-2-46-POc-toba-a,bay or gulf,,tobʷa,poc-toba-1,,,POc
 2-3-3-2-47-POc-paa-a,"bay, valley (in place names)",,paŋa,poc-paa-1,,,POc
 2-3-3-3-47-PPn-muriwai-a,mouth of river; pool near river mouth (as behind sandbar),,muri-wai,ppn-muriwai-1,,,PPn
 2-3-3-4-48-POc-iucu-a,shelving reef,,"ijuŋ, ujuŋ",pmp-ijuuju-1,,,PMP
 2-3-3-4-48-POc-oroorok-a,"cape, isthmus",,ŋoro-ŋorok,poc-oroorok-1,,,POc
-2-3-3-4-49-PEOc-mata-a,"point of land, headland",,mata,peoc-mata-1,,,PEOc
+2-3-3-4-49-PROc-mata-a,"point of land, headland",,mata,proc-mata-1,,,PROc
 2-3-4-1-50-POc-koro-a,hill,,koro,poc-koro-1,,,POc
 2-3-4-1-50-POc-solos-a,"inland country, mountain country",,solos,poc-solos-1,,,POc
 2-3-4-1-50-POc-puapua-a,summit; the highest point of an island,,puŋa-puŋa,poc-puapua-1,,,POc
 2-3-4-1-51-POc-potu-a,"node (bamboo, sugarcane)",,pʷotu,poc-potu-1,,,POc
 2-3-4-1-51-PPn-maqua-a,mountain,,maquŋa,ppn-maqua-1,,,PPn
-2-3-4-1-52-PEOc-qulunipanua-a,mountain,,qulu ni panua,peoc-qulunipanua-1,,,PEOc
+2-3-4-1-52-PROc-qulunipanua-a,mountain,,qulu ni panua,proc-qulunipanua-1,,,PROc
 2-3-4-1-52-PPn-tuqasiwi-a,"mountain, high hill",,tuqa-siwi,ppn-tuqasiwi-1,,,PPn
 2-3-4-2-52-POc-mala-a,slopes of a river valley,,mala,poc-mala-1,,,POc
 2-3-4-2-52-POc-salil-a,valley,,salil,poc-salil-1,,,POc
@@ -515,7 +517,7 @@ ID,Description,Source,Name,Form_ID,Comment,Doubt,Level
 2-3-8-2-72-POc-aliton-a,"glowing, sparkling, burning",,luten,pmp-luten-1,,,PMP
 2-3-8-2-73-POc-koran-a,"spark; fire, fuel",,koran,poc-koran-1,,,POc
 2-3-8-2-74-POc-kapuru-a,burning end of piece of wood,,kapuru,poc-kapuru-1,,,POc
-2-3-8-2-74-PEOc-malala-a,glowing coals,,malala,peoc-malala-1,,,PEOc
+2-3-8-2-74-PROc-malala-a,glowing coals,,malala,proc-malala-1,,,PROc
 2-3-8-2-76-PWOc-kapu-a,ashes,,kapu,pwoc-kapu-1,,,PWOc
 2-3-8-3-76-POc-kgabu-a,fire,,"(k,g)abu",poc-kgabu-1,,,POc
 2-3-8-3-77-POc-bula-a,"catch alight, burn, flare up suddenly",,bula,poc-bula-1,,,POc
@@ -526,8 +528,8 @@ ID,Description,Source,Name,Form_ID,Comment,Doubt,Level
 2-3-8-4-79-POc-mayaniapi-a,flame,,maya (ni) (api),poc-mayaniapi-1,,,POc
 2-3-8-4-79-POc-puru-a,diffused glow,,"puruŋ, puru-puruŋ",poc-purupurupuru-1,,,POc
 2-3-8-4-80-PEOc-maka-a,burn,,maka,peoc-maka-1,,,PEOc
-2-3-8-4-80-PEOc-makalo-a,be dimly visible,,makalo,peoc-makalo-1,,,PEOc
-2-3-8-4-80-PEOc-kalokalo-a,(red) flower of _Erythrina_ tree,,kalo-kalo,peoc-kalokalo-1,,,PEOc
+2-3-8-4-80-PROc-makalo-a,be dimly visible,,makalo,proc-makalo-1,,,PROc
+2-3-8-4-80-PROc-kalokalo-a,(red) flower of _Erythrina_ tree,,kalo-kalo,proc-kalokalo-1,,,PROc
 2-3-9-1-81-POc-banoi-a,volcano,,banoi,poc-banoi-1,,,POc
 2-3-9-1-83-POc-puro-a,"volcanic vent, hot spring",,puro,poc-puro-1,,,POc
 2-3-9-2-83-POc-drikedrike-a,earthquake,,drike-drike,poc-drikedrike-1,,,POc
@@ -544,7 +546,7 @@ ID,Description,Source,Name,Form_ID,Comment,Doubt,Level
 2-3-9-5-87-POc-lolo-a,overflow,,lebleb,pmp-lebleb-1,,,PMP
 2-3-9-5-87-POc-lomak-a,flood,,lomak,poc-lomak-1,,,POc
 2-3-9-5-87-POc-noro-a,"flow everywhere, out of control",,ñoro,poc-noro-1,,,POc
-2-3-9-7-88-PEOc-siosio-a,whirlwind,,siosio,peoc-siosio-1,,,PEOc
+2-3-9-7-88-PROc-siosio-a,whirlwind,,siosio,proc-siosio-1,,,PROc
 2-3-9-7-88-POc-pirupiru-a,"eddy, whirlpool",,piru-piru,poc-pirupiru-1,,,POc
 2-4-2-1-92-POc-tasik-a,"sea, seawater, area near the sea",,tasik,pmp-tasik-1,,,PMP
 2-4-2-1-93-POc-masawan-a,"deep sea, ocean",,"masawa(n,ŋ)",poc-masawan-1,,,POc
@@ -631,7 +633,7 @@ ID,Description,Source,Name,Form_ID,Comment,Doubt,Level
 2-5-5-3-147-PWOc-rrugu-a,rain,,(rR)ugu,pwoc-rrugu-1,,,PWOc
 2-5-5-3-148-POc-bata-a,raindrop,,bata,poc-bata-1,,,POc
 2-5-5-3-148-POc-ddrimaddrima-a,"drizzle, sprinkle",,"(d,dr)im(a)-(d,dr)im(a)",poc-ddrimaddrima-1,,,POc
-2-5-5-3-148-PEOc-nuanua-a,rainbow,,nua-nua,peoc-nuanua-1,,,PEOc
+2-5-5-3-148-PROc-nuanua-a,rainbow,,nua-nua,proc-nuanua-1,,,PROc
 2-5-5-3-149-POc-lamur-a,dew,,lamuR,pmp-lamur-1,,,PMP
 2-5-5-4-149-POc-qusjilak-a,lightning,,qusilak,pmp-qusilak-1,,,PMP
 2-5-5-4-149-POc-ppilak-a,lightning,,bilak,pmp-bilak-1,,,PMP
@@ -663,9 +665,9 @@ ID,Description,Source,Name,Form_ID,Comment,Doubt,Level
 2-6-5-2-170-PPn-takulua-a,Sirius; June-July or February-March,,takulua,ppn-takulua-1,,,PPn
 2-6-5-2-170-PPn-takelo-a,"a star, perhaps Betelgeuse; name of a wet month",,tākelo,ppn-takelo-1,,,PPn
 2-6-5-2-171-POc-buluq-a,Pleiades,,buluq,pmp-buluq-1,,,PMP
-2-6-5-2-172-PEOc-mataliki-a,Pleiades; month name; the six summer months collectively,,mataliki,peoc-mataliki-1,,,PEOc
+2-6-5-2-172-PROc-mataliki-a,Pleiades; month name; the six summer months collectively,,mataliki,proc-mataliki-1,,,PROc
 2-6-5-2-173-PEOc-bubu-a,Southern Cross in upright position,,bubu,peoc-bubu-1,,,PEOc
-2-6-5-2-174-PEOc-ucunu-a,star name,,u(C)unu,peoc-ucunu-1,,,PEOc
+2-6-5-2-174-PROc-ucunu-a,star name,,u(C)unu,proc-ucunu-1,,,PROc
 2-6-5-2-175-PChk-fitumakut-a,Polaris or North Star,,fitū mʷakut,pchk-fitumakut-1,,,PChk
 2-6-5-2-175-PChk-mailapa-a,Altair,,mai-lapa,pchk-mailapa-1,,,PChk
 2-6-5-2-176-PMic-dzumuri-a,Antares,,"(d,z)umuri",pmic-dzumuri-1,,,PMic
@@ -753,8 +755,7 @@ ID,Description,Source,Name,Form_ID,Comment,Doubt,Level
 2-7-5-5-224-POc-mainit-a,warm,,maN-qinit,pmp-manqinit-1,,,PMP
 2-7-5-5-224-POc-tunutunu-a,"be warm, not very hot; tepid",,tunu-tunu,poc-tunutunu-1,,,POc
 2-7-5-6-226-POc-buluk-a,soaked,,buluk,poc-buluk-1,,,POc
-2-7-5-6-227-POc-marao-a,"dry (of wood, trees)",,[ma]Raŋaw,pmp-maraaw-1,,,PMP
-2-7-5-6-228-POc-karrao-a,low tide,,"ka-(r,R)aŋo",poc-karrao-1,,,POc
+2-7-5-6-228-POc-karrao-a,low tide,,"ka-[R,r]aŋo",poc-karrao-1,,,POc
 2-7-5-6-228-POc-goru-a,dry,,goRu,poc-goru-1,,,POc
 2-8-2-1-236-POc-i-a,,,i,pan-i-1,,,PAn
 2-8-2-1-237-POc-qa-a,,,qa-,poc-qa-1,,,POc
@@ -777,7 +778,7 @@ ID,Description,Source,Name,Form_ID,Comment,Doubt,Level
 2-8-2-3-254-POc-pala-a,"side, edge",,balaŋ,pmp-bala-1,,,PMP
 2-8-2-3-255-POc-bali-a,a half,,baliw,pmp-baliw-1,,,PMP
 2-8-2-3-255-POc-siri-a,beside,,sidiŋ,pmp-sidi-1,,,PMP
-2-8-2-3-255-PEOc-tapa-a,"side, margin, edge, border",,tapa-,peoc-tapa-1,,,PEOc
+2-8-2-3-255-PROc-tapa-a,"side, margin, edge, border",,tapa-,proc-tapa-1,,,PROc
 2-8-2-3-256-POc-qaro-a,"front of body, pubic area of females",,qadəp,pan-qadp-1,,,PAn
 2-8-2-3-257-POc-muqa-a,front,,muqa[-],poc-muqa-2,,,POc
 2-8-2-3-258-PWOc-muga-a,in front of,,muga,pwoc-muga-1,,,PWOc
@@ -1140,7 +1141,7 @@ ID,Description,Source,Name,Form_ID,Comment,Doubt,Level
 3-12-3-3-363-POc-polo-a,coconut water,,polo,poc-polo-1,,,POc
 3-12-3-4-363-POc-matuqu-a,coconut growth stage: mature coconut,,matu(qu),pemp-matuqu-1,,,PEMP
 3-12-3-4-364-POc-kulu-a,the youngest stage of the coconut,,kulu,poc-kulu-1,,,POc
-3-12-3-4-365-POc-marao-a,green coconut with flesh that has become hard and water that has begun to go fizzy,,(ma)Raŋaw,pmp-maraaw-2,,,PMP
+3-12-3-4-365-POc-marrao-a,green coconut with flesh that has become hard and water that has begun to go fizzy,,[ma]Raŋaw,pcemp-maraaw-1,,,PCEMP
 3-12-3-5-366-POc-taba-a,spongy mass formed in a coconut that has started to shoot,,tabʷa,poc-taba-1,,,POc
 3-12-3-6-367-POc-kubu-a,"coconut stage, unripe, younger than a drinking coconut",,kupu,pemp-kupu-1,,,PEMP
 3-12-3-6-367-POc-bajibaji-a,coconut,,bʷaji-bʷaji,poc-bajibaji-1,,,POc
@@ -2334,9 +2335,6 @@ ID,Description,Source,Name,Form_ID,Comment,Doubt,Level
 5-6-6-2-441-PNGOc-pakuo-a,carry on a pole over the shoulder or between two people,,"pak(u,o)",pngoc-pakuo-1,,,PNGOc
 5-6-6-2-441-POc-qappis-a,carry or hold s.t. under arm; carry (child) on hip,,"qa(p,pʷ)i(s), qa(p,pʷ)is-i-",poc-qappisqappisi-1,,,POc
 5-6-6-2-443-POc-tabe-a,"hold or carry a burden in the extended arms, esp. resting on both palms extended horizontally in front",,tabe,poc-tabe-1,,,POc
-5-6-6-2-444-POc-rujan-a,put persons or goods on board a canoe,,Rujan,pmp-rujan-1,,,PMP
-5-6-6-2-444-POc-ucan-a,load up a container with contents,,ujan,pmp-ujan-1,,,PMP
-5-6-6-2-445-PMic-ussa-a,transport (s.t.),,"u[s,S]a, u[s,S]an-i",pmic-ussaussani-1,,,PMic
 5-6-6-2-445-PROc-qara-a,haul (a boat) up on shore,,(q)ara,proc-qara-1,,,PROc
 5-6-6-3-449-POc-taruq-a,"put or place s.t., lay s.t. down, deposit s.t.",,taRu(q),poc-taruq-1,,,POc
 5-6-6-3-450-POc-aso-a,"put, place",,aso,poc-aso-1,,,POc
@@ -2368,7 +2366,6 @@ ID,Description,Source,Name,Form_ID,Comment,Doubt,Level
 5-7-3-4-468-POc-taur-a,hold,,"tau(r), taur-i-",poc-taurtauri-1,,,POc
 5-7-3-4-469-POc-poso-a,"hold in hand, hold onto",,poso,poc-poso-1,,,POc
 5-7-3-4-469-POc-gogom-a,"grasp s.t., envelop s.t., close the hand",,gemgem,pan-gemgem-1,,,PAn
-5-7-4-1-470-POc-pajar-a,slap s.t. with the open hand or hands together,,pʷaja(R),poc-pajar-1,,,POc
 5-7-4-2-471-POc-kiliki-a,tickle,,kilik,pmp-kilik-1,,,PMP
 5-7-4-2-471-POc-kiris-a,tickle under the armpits,,"kirik, kidi, gidik, giri",pmp-kirikkidigidikgiri-1,,,PMP
 5-7-5-1-473-POc-paras-a,step or tread on s.t.,,paRas,poc-paras-1,,,POc
@@ -2651,7 +2648,6 @@ ID,Description,Source,Name,Form_ID,Comment,Doubt,Level
 6-11-5-5-338-ProtoTorresBanks-makoto-a,fresh grass/season,,mʷakoto,prototorresbanks-makoto-1,,,Proto Torres-Banks
 6-11-5-5-338-ProtoTorresBanks-makotorao-a,dry grass,,mʷakoto raŋo,prototorresbanks-makotorao-1,,,Proto Torres-Banks
 6-11-5-7-340-ProtoChuukicPonapeic-makariker-a,Pleiades,,mʷakariker,protochuukicponapeic-makariker-1,,,Proto Chuukic-Ponapeic
-6-11-5-7-341-PROc-ucunu-a,month 9,,u(C)unu,proc-ucunu-1,,,PROc
 6-11-5-7-341-PWMic-telutelu-a,month 10,,telu-telu,pwmic-telutelu-1,,,PWMic
 6-11-5-7-342-PChk-icci-a,month (= December),,icci,pchk-icci-1,,,PChk
 6-11-5-7-342-ProtoChuukicPonapeic-tarobolu-a,name of a star; month 1,,tarobolu,protochuukicponapeic-tarobolu-1,,,Proto Chuukic-Ponapeic

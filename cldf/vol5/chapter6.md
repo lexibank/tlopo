@@ -1308,9 +1308,7 @@ The common factor among the glosses of items reflecting POc _&ast;tabe_ is one o
 #### 6.2.12. Carrying on a canoe
 
 
-Blust (ACD) reconstructs three formally similar PMP terms for ‘load a canoe’: _&ast;Rujan_, _&ast;lujan_, and _&ast;ujan_. He offers no explanation for the existence of three similar forms, and nor can I. In [vol.1(198](ContributionTable?anchor=p-198#cldf:1-7)) it was inferred that Oceanic items reflected POc _&ast;lujan_, and _&ast;ujan_. With a better understanding of Oceanic sound correspondences, _&ast;Rujan_ is inferred here, rather that _&ast;lujan_, and the two POc forms are reconstructed as _&ast;Rujan_, _&ast;Rujan-i-_ and _&ast;ucan_, _&ast;ucan-i-_, both ‘load (s.t.) onto a canoe, transport by canoe’. The two reconstructions differ in two consonant correspondences. The key lies in the medial correspondence. SE Solomonic, Fijian and Polynesian terms unambiguously reflect POc _&ast;-j-_ and are assigned to a single cognate set, whose initial consonant correspondence—PSES _&ast;l-_, PCP &ast;∅- —regularly reflects POc _&ast;R-_.
-
-# FIXME: update/replace/deprecate reconstruction in vol1?
+Blust (ACD) reconstructs three formally similar PMP terms for ‘load a canoe’: _&ast;Rujan_, _&ast;lujan_, and _&ast;ujan_. He offers no explanation for the existence of three similar forms, and nor can I. Two POc forms are reconstructed, &ast;Rujan, &ast;Rujan-i- and &ast;ucan, &ast;ucan-i-, both ‘load (s.t.) onto a canoe, transport by canoe’. The two reconstructions differ in two consonant correspondences. The key lies in the medial correspondence. SE Solomonic, Fijian and Polynesian terms unambiguously reflect POc _&ast;-j-_ and are assigned to a single cognate set, whose initial consonant correspondence—PSES _&ast;l-_, PCP &ast;∅- —regularly reflects POc _&ast;R-_.
 
 The second set reflects POc _&ast;ucan_, _&ast;ucan-i-_. Several irregularities in the medial consonant reflex are noted below, but none is assignable to _&ast;-j-_.
 

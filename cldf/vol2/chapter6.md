@@ -271,7 +271,7 @@ In Polynesia and Micronesia a different term, translatable literally as ‘small
 
 <a id="p-172"></a>
 
-[PEOc &ast;_mataliki_](cognatesetreferences.csv#cldf:2-6-5-2-172-PEOc-mataliki-a)
+[PROc &ast;_mataliki_](cognatesetreferences.csv#cldf:2-6-5-2-172-PROc-mataliki-a)
 
 A number of similar terms for the Pleiades in Micronesian languages (Mortlockese _mariker_, Puluwatese _mʷariker_, Woleaian _mʷexaẓixeẓ_, Carolinian _mʷǣrixær_) are not reflexes of the above, reflecting instead PChk _&ast;mʷakariker_.
 
@@ -319,9 +319,9 @@ No cognates are evident for the constellation, but there are semantically parall
 
 In Fiji the constellation is known as _laða_, literally ‘a sail’.
 
-There is a possible PEOc reconstruction for Aldebaran, the single brightest star of the group. The long vowel indicates a possible _&ast;u(C)u_ sequence.
+There is a possible PROc reconstruction for Aldebaran, the single brightest star of the group. The long vowel indicates a possible _&ast;u(C)u_ sequence.
 
-[PEOc &ast;_u(C)unu_](cognatesetreferences.csv#cldf:2-6-5-2-174-PEOc-ucunu-a)
+[PROc &ast;_u(C)unu_](cognatesetreferences.csv#cldf:2-6-5-2-174-PROc-ucunu-a)
 
 Other names located for Aldebaran include:
 

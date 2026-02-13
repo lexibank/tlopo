@@ -218,8 +218,6 @@ From North New Guinea and New Ireland we have been able to reconstruct a lower-l
 
 [PWOc &ast;_(m,mʷ)ali_](cognatesetreferences.csv#cldf:1-8-7-None-221-PWOc-mmali-a)
 
-## FIXME:    PWOc _&ast;(m,mʷ)ali_ (incorrectly given as _&ast;maRi_ in [vol. 1, ch.8, §7](ContributionTable?anchor=s-7#cldf:1-8)) is reconstructed on the basis of North New Guinea and Meso-Melanesian languages.
-
 The method of stunning fish by throwing pounded _Derris_ root into pools is widespread, and the three terms seem to have identical reference, although _Derris elliptica_ is not mentioned specifically in relation to _&ast;puna_. Describing the technique used by Sa'a speakers, a Southeast Solomons language, [Ivens](Source#cldf:Ivens1927) ([1927](Source#cldf:Ivens1927) (reissued 1972):389) writes that:
 
 > … fish in streams are poisoned by a preparation. The bark of the edible _Barringtonia_ tree, the one with red flowers, is stripped off and heated in the fire to bring out its bitter qualities. It is then beaten into shreds with stones in water and thrown into the place chosen. Along with it they use the grated nuts of the barringtonia speciosa [sic.], a littoral tree. A third ingredient is made from pounded sections of a creeper called _uhe_, the juices of which are very bitter.
@@ -294,7 +292,7 @@ The following is a lower-level reconstruction for spear:
 
 <a id="p-225"></a>
 
-[PEOc &ast;_saRi_](cognatesetreferences.csv#cldf:1-8-9-None-225-PEOc-sari-a)
+[PROc &ast;_saRi_](cognatesetreferences.csv#cldf:1-8-9-None-225-PROc-sari-a)
 
 The bow, although evidently not as widespread as the spear, is used both for fighting and, in a smaller version, for shooting birds and other small game. It seems that _&ast;pusuR_ was the POc term for the bow and arrow, _&ast;(p,pʷ)anaq_ more probably for the act of shooting.
 
@@ -374,7 +372,7 @@ With regard to the reconstruction of _&ast;(p,pʷ)_, see [Chapter 2, §2.1](Cont
 
 <a id="p-229"></a>
 
-[PEOc &ast;_taRi_](cognatesetreferences.csv#cldf:1-8-13-None-229-PEOc-tari-a)
+[PROc &ast;_taRi_](cognatesetreferences.csv#cldf:1-8-13-None-229-PROc-tari-a)
 
 
 <a id="s-14"></a>

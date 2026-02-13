@@ -14,7 +14,7 @@ property | value
 [dc:license](http://purl.org/dc/terms/license) | https://creativecommons.org/licenses/by/4.0/
 [dc:spatial](http://purl.org/dc/terms/spatial) | <dl><dt>B.1</dt><dd>Admiralties and St Matthias Islands</dd><dt>B.2</dt><dd>Schouten (NNG) and Sarmi-Jayapura (possibly NNG)</dd><dt>B.3</dt><dd>The Ngero-Vitiaz linkage (NNG)</dd><dt>B.4</dt><dd>Huon Gulf (NNG)</dd><dt>B.5</dt><dd>Papuan Tip</dd><dt>B.6</dt><dd>New Britain and New Ireland (MM)</dd><dt>B.7</dt><dd>Northwest Solomonic linkage (MM)</dd><dt>B.8</dt><dd>Southeast Solomonic and Temotu</dd><dt>B.9</dt><dd>North Vanuatu</dd><dt>B.10</dt><dd>Central Vanuatu</dd><dt>B.11</dt><dd>South Vanuatu</dd><dt>B.12</dt><dd>Loyalty Islands and New Caledonia</dd><dt>B.13</dt><dd>Micronesian languages and Yapese</dd><dt>B.14</dt><dd>Fiji</dd><dt>B.15</dt><dd>Polynesia</dd></dl>
 [dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | https://github.com/lexibank/tlopo
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/lexibank/tlopo/tree/692c4b8">lexibank/tlopo 692c4b8</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v5.2">Glottolog v5.2</a></li><li><a href="https://github.com/concepticon/concepticon-data/tree/339dff57">Concepticon v3.4.0-62-g339dff57</a></li><li><a href="https://github.com/cldf-clts/clts/tree/v2.3.0">CLTS v2.3.0</a></li></ol>
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/lexibank/tlopo/tree/c1d2400">lexibank/tlopo c1d2400</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v5.2">Glottolog v5.2</a></li><li><a href="https://github.com/concepticon/concepticon-data/tree/339dff57">Concepticon v3.4.0-62-g339dff57</a></li><li><a href="https://github.com/cldf-clts/clts/tree/v2.3.0">CLTS v2.3.0</a></li></ol>
 [prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>lingpy-rcParams</strong>: <a href="./lingpy-rcParams.json">lingpy-rcParams.json</a></li><li><strong>python</strong>: 3.12.3</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | tlopo
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution
@@ -25,7 +25,7 @@ property | value
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF FormTable](http://cldf.clld.org/v1.0/terms.rdf#FormTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 43045
+[dc:extent](http://purl.org/dc/terms/extent) | 43026
 
 
 ### Columns
@@ -86,7 +86,7 @@ Name/Property | Datatype | Description
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF ParameterTable](http://cldf.clld.org/v1.0/terms.rdf#ParameterTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 19934
+[dc:extent](http://purl.org/dc/terms/extent) | 19935
 
 
 ### Columns
@@ -103,7 +103,7 @@ Name/Property | Datatype | Description
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF CognateTable](http://cldf.clld.org/v1.0/terms.rdf#CognateTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 40977
+[dc:extent](http://purl.org/dc/terms/extent) | 40925
 
 
 ### Columns
@@ -149,7 +149,7 @@ Name/Property | Datatype | Description
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF CognatesetTable](http://cldf.clld.org/v1.0/terms.rdf#CognatesetTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 2824
+[dc:extent](http://purl.org/dc/terms/extent) | 2820
 
 
 ### Columns
@@ -171,7 +171,7 @@ Etymological dictionaries sometimes mention "negative" results, e.g. groups of l
 
 property | value
  --- | ---
-[dc:extent](http://purl.org/dc/terms/extent) | 930
+[dc:extent](http://purl.org/dc/terms/extent) | 931
 
 
 ### Columns
@@ -193,7 +193,7 @@ Membership of forms in a "cf" group is mediated through this association table u
 
 property | value
  --- | ---
-[dc:extent](http://purl.org/dc/terms/extent) | 3945
+[dc:extent](http://purl.org/dc/terms/extent) | 3947
 
 
 ### Columns
@@ -276,7 +276,7 @@ Name/Property | Datatype | Description
 
 property | value
  --- | ---
-[dc:extent](http://purl.org/dc/terms/extent) | 3094
+[dc:extent](http://purl.org/dc/terms/extent) | 3095
 
 
 ### Columns
@@ -295,7 +295,7 @@ Name/Property | Datatype | Description
 
 property | value
  --- | ---
-[dc:extent](http://purl.org/dc/terms/extent) | 45635
+[dc:extent](http://purl.org/dc/terms/extent) | 45598
 
 
 ### Columns

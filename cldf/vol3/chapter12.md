@@ -268,20 +268,12 @@ The Fijian gloss below calls into question the gloss of POc _&ast;kulu_. However
 
 [POc &ast;_kulu_](cognatesetreferences.csv#cldf:3-12-3-4-364-POc-kulu-a)
 
-The reconstruction of POc _&ast;maRaŋo_ 'coconut growth stage 9: ripe, flesh hardened (or stage 10: dry and ready to fall)' entails a phonological problem. I assumed in [vol. 2 (ch.7, §5.6](ContributionTable?anchor=s-5-6#cldf:2-7)) that reflexes of this term were cognate with reflexes of POc _&ast;[ma]raŋo_ 'become withered (of vegetation)', reconstructed by Osmond in [vol. 1 (ch.5, §9.4](ContributionTable?anchor=s-9-4#cldf:1-5)). I assumed further that both reflected PMP _&ast;(ma)Raŋaw_ and that the POc form was _&ast;[ma]Raŋo_, regularly reflecting the PMP form. As I noted in vol.2, this is problematic, as Southeast Solomonic reflexes of the form _raŋo_ 'be withered' reflect POc _&ast;r_, not _&ast;R_.
-
 
 <a id="p-365"></a>
 
--- FIXME: errata --
+The reconstruction of POc _&ast;[ma][R,r]aŋo_ ‘coconut growth stage 9: ripe, flesh hardened’ is subject to the same caveats as the formally identical reconstruction glossed ‘become withered (of vegetation)’ (q.v.). Both evidently reflect PCEMP _&ast;[ma]Raŋaw_ ‘dry’. It happens that all reflexes in the cogset below potentially reflect _&ast;R_, but only the Lau and Tape items reflect _&ast;R_ unambiguously. The languages of the other reflexes all merge _&ast;R_ and _&ast;r_. Only in Tape do we find the contrasting reflexes _məraŋ_ ‘dry’ (< _&ast;maraŋo_) and _meaŋ_ ‘green coconut with flesh that has become hard …’ (< _&ast;maRaŋo_), but we cannot be sure whether this reflects a longstanding semantic contrast between _&ast;maraŋo_ and _&ast;maRaŋo_ or is a local innovation.[^10]
 
-On balance the data now available suggest that my assumption in vol. 2 was wrong, and that two POc reconstructions must be made: POc _&ast;[ma]raŋo_ 'become withered (of vegetation)', as reconstructed by Osmond, and _&ast;maRaŋo_ 'coconut growth stage …'. Two pieces of data underlie this decision. The first is Baelelea (SES) _maleŋa_ 'coconut', in which _-l-_ reflects POc _&ast;-R-_, contrasting with the SES items of the form _raŋo_ 'be withered', reflecting POc _&ast;-r-_. The second is the Tape pair _meaŋ_ 'green coconut', probably reflecting POc _&ast;-R-_ as zero, and _maraŋ_ '(of wood, leaves) dry', probably reflecting POc _&ast;-r-_.[^10] The data supporting both etyma are listed below. The Sursurunga item appears in both lists, as it appears to represent a conflation of the two etyma.
-
-Other than the items mentioned in the previous paragraph, none of the items below is diagnostic of the difference between POc _&ast;-R-_ and _&ast;-r-_ except for Niuean and Samoan _maŋo_ 'dry', and these reflect _&ast;-R-_ (with a zero reflex), not _&ast;-r-_ as their meaning would lead us to expect. Also noteworthy is the odd fact that PMP _&ast;(ma)Raŋaw_ 'dry' contains _&ast;-R-_ whilst the POc etymon of similar meaning contains _&ast;-r-_. In both cases speakers seem to have conflated or confused the two etyma.
-
-[PMP &ast;_(ma)Raŋaw_](cognatesetreferences.csv#cldf:3-12-3-4-365-POc-marao-a)
-
-[POc &ast;_&#91;ma-&#93;raŋo_](cognatesetreferences.csv#cldf:3-12-3-4-365-POc-marao-b)
+[PCEMP &ast;_&#91;ma&#93;Raŋaw_](cognatesetreferences.csv#cldf:3-12-3-4-365-POc-marrao-a)
 
 
 <a id="p-366"></a>

@@ -27,28 +27,39 @@ Available online at http://hdl.handle.net/1885/106908
 ![CLTS SoundClass: 59%](https://img.shields.io/badge/CLTS%20SoundClass-59%25-red.svg "CLTS SoundClass: 59%")
 
 - **Varieties:** 755 (linked to 641 different Glottocodes)
-- **Concepts:** 19,934 (linked to 0 different Concepticon concept sets)
-- **Lexemes:** 43,045
+- **Concepts:** 19,935 (linked to 0 different Concepticon concept sets)
+- **Lexemes:** 43,026
 - **Sources:** 583
 - **Synonymy:** 1.02
-- **Cognacy:** 40,977 cognates in 2,824 cognate sets (0 singletons)
+- **Cognacy:** 40,925 cognates in 2,820 cognate sets (0 singletons)
 - **Cognate Diversity:** -0.74
 - **Invalid lexemes:** 0
-- **Tokens:** 202,042
+- **Tokens:** 201,971
 - **Segments:** 296 (121 BIPA errors, 121 CLTS sound class errors, 175 CLTS modified)
-- **Inventory size (avg):** 16.24
+- **Inventory size (avg):** 16.23
 
 ## Possible Improvements:
 
 
 
-- Entries missing sources: 40686/43045 (94.52%)
+- Entries missing sources: 40669/43026 (94.52%)
 
 # Contributors
 
 Name | GitHub user | Role
---- | --- | ---
- | @ | maintainer
+--- |-------------| ---
+Malcolm Ross | @malcolm42  | Author, Editor 
+Andrew Pawley |             | Author, Editor 
+Meredith Osmond |             | Author, Editor
+Roger Green |             | Author
+Frantisek Lichtenberk |             | Author
+Medina Pawley |             | Author
+Ross Clark |             | Author
+Bethwyn Evans |             | Author
+Jeffrey C. Marck |             | Author
+Per Hage |             | Author
+Mae Carroll |             | DataCurator
+Robert Forkel | @xrotwang   | maintainer, DataCurator
 
 
 
