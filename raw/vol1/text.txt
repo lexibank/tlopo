@@ -11736,14 +11736,21 @@ POc *quju(r), *qujur-i- 'rub, make smooth by rubbing'
 >
 
 <
-PMP *bulu 'wash' (Dempwolff 1938)
-POc *pulu[-] 'rub to make clean, wash'
-  SES:   Lau            fulu, fulu-        'clean, wipe, rub off dirt, wash away earth (of rain)'
-  SES:   Tolo           vuli(a)            'wash (hands, clothes +)'
-  Fij:   Bauan          vulu-vulu          'wash the hands'
-  Pn:    Tongan         fu-fulu            'wash'
-  Pn:    Rennellese     hugu               'anoint or rub, as with perfume or tumeric'
-  Pn:    Tikopia        furu               'cleanse, as by rubbing'
+PMP *bulu ‘wash the hands’ (ACD)
+POc *pulu ‘rub to make clean, wash’ (cf vol.1:243)
+ SES:  Lau           fulu           ‘clean, wipe, rub off dirt, wash away earth (of rain)’
+ NCal: Iaai          üña            ‘rub, massage’ (John Lynch, pers. comm.)
+ Fij:  Bauan         vulu-vulu      ‘wash the hands’
+ Fij:  Wayan         vū-vulu        ‘wash the hands, feet or hair’
+ Fij:  Wayan         vulu-y-        ‘wash a body part; rinse hair with colouring agent, bleach hair with lime’
+ Pn:   Tongan        fu-fulu        ‘wash or scrub; clean (a blackboard)’
+ Pn:   Niue          fu-fulu        ‘rinse, wash, wash out’
+ Pn:   Samoan        fulu           ‘wash, clean’
+ Pn:   Samoan        fu-fulu        ‘wash (body or object); to clean (as the teeth)’
+ Pn:   Anuta         pu-puru        ‘wash an object other than oneself’
+ Pn:   Anuta         puru-puru      ‘wash oneself’
+ Pn:   Tuvaluan      fulu           ‘wash (of one dish, etc.)’
+ Pn:   Tuvaluan      fu-fulu        ‘wash (hands, dishes, floor, etc., but not clothes)’
 >
 
 

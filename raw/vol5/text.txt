@@ -24360,8 +24360,7 @@ POc *wasi ‘wash’
 
 
     The fact that POc _*pulu_, _*puRiq_ and _*puqi_ below all begin with _*pu-_ appears to be a
-matter of chance, but has on occasion led to the attribution of an item to the wrong cognate
-set.[5]
+matter of chance.
 
 <
 PMP *bulu ‘wash the hands’ (ACD)
@@ -24394,8 +24393,6 @@ POc *puRiq ‘wash, as the hands’ (ACD)
  SES: Talise              vuli-                          ‘wash (hands)’
 >
 
-[5] Tolo _vuli-_ ‘wash (hands, clothes)’ was attributed to POc _*pulu_ in vol.1:243, instead of to _*puRiq_.
-# FIXME: erratum in vol1
 
                                                                              Physical acts 483
 
