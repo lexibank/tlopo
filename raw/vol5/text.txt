@@ -23732,12 +23732,6 @@ Reconstructing a verb for ‘tickle’ raises a formal challenge that is discuss
 
 7.4.1 Slapping and clapping
 
-A verb for slapping, POc _*pʷasa(r,R)_, _*pʷasa(r,R)-i-_ ‘slap, hit’, was reconstructed in
-vol.1:273. With considerably more data the form and gloss of the reconstruction can be edited
-as shown below.
-
-# FIXME: Correct vol1?
-
 <
 POc *pʷaja(R) (VI) ‘clap hands’
 POc *pʷajaR-i- (VT) ‘slap with open hand’

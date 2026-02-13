@@ -13247,18 +13247,48 @@ A number of Eastern Oceanic items reflect a PEOc form _*tipʷa_, and it is just 
 this is descended from a separate POc etymon.
 
 <
-POc *pʷasa(r,R), *pʷasa(r,R)-i- 'slap, hit'
-   Adm: Mussau         posala               'hit'
-   MM:  Sursurunga     posar, posri         'slap, clap, hit with the open palm'
-   MM:  Patpatar       pasar                'slap; beat drum'
-   MM:  Minigir        pasari               'hit'
-   MM:  Nehan          posar                'hit lightly'
-   MM:  Solos          pasan                'hit'
-   NCV: Mota           wosa                 'slap, smack, clap'
-   NCV: Tamambo        voja(i)              'strike, slap'
-   NCV: Port Sandwich  voč(i)               'strike with the hand, slap'
-   NCV: Nguna          wosa(e)-             'clap (hands or flat objects)'
-   Fij: Wayan          voða                 'slap s.t. with the open hand or hands together'
+POc *pʷaja(R) (VI) ‘clap hands’
+POc *pʷajaR-i- (VT) ‘slap with open hand’
+ Adm: Mussau               posala             (VT) ‘slap with an open hand’
+ Adm: Mussau               posalā             (VI) ‘clap’
+ Adm: Baluan               |(yek) pʊt|          ‘slap, hit with open hand’ (_yek_ ‘hit’)
+ Adm: Baluan               |(yek) potpot|       ‘clap the hands’
+ NNG: Sissano              -pot               ‘clap , beat’
+ NNG: Sio                  poⁿza              ‘slap; clap one’s hands’
+ NNG: Bariai               poda               ‘slap’
+ NNG: Mangseng             (so)pðal           ‘slap’
+ NNG: Mangseng            (so)po-pðal        ‘clap hands’
+ PT:    Gumawana           pʷasi              ‘clap’
+ PT:    Bunama             (lima)pʷasi        ‘clap hands’
+ PT:    Sinaugoro          foro               ‘slap, hit’
+ MM: Madak                 pasa               ‘clap’
+ MM: Sursurunga            posar, posri       ‘slap, clap, hit with the open palm’
+ MM: Patpatar              pasar              ‘slap; beat drum’
+ MM: Ramoaaina             par                ‘clap ; slap, hit ; play (hourglass drum)’
+ MM: Minigir               pasari             ‘hit’
+ MM: Nehan                 posala             ‘slap, especially on the back of the head’ (_-l-_ for †_-r-_)
+ MM: Solos                 pasan              ‘hit’
+ MM: Teop                  panana             ‘slap, hit’
+ MM: Babatana              po-posara          ‘clap hands’
+ SES: Tolo                 pica-pica          ‘clap hands (together)’
+ SES: Tolo                  picali-            ‘spank; hit, slap or tap with open hand’
+ SES: To’aba’ita           fida-fida          ‘clap one’s hands in applause’
+ SES: To’aba’ita          fidal-i-           ‘slap hard’
+ SES: Kwaio                fodal-i-           ‘slap’
+ SES: Arosi                hida               ‘slap’
+ SES: Arosi                (faʔa)hidar-i-     ‘slap’
+PNCV *voza ‘clap, slap, strike’
+ NCV: Mota                 wosa               ‘slap, smack, clap’
+ NCV: Raga                 voha-i             ‘strike, throw, shoot’
+ NCV: Raga                 vosa               ‘slap (with one hand) once, clap hands together once’
+ NCV: Tamambo              voja-i             ‘strike, slap’
+ NCV: Tamambo             |voja-voja-i (lima)| ‘clap, pat’ (_lima_ ‘hand’)
+ NCV: Uripiv               -wuj-e             ‘smack, slap, pat’
+ NCV: Big Nambas           -usa               ‘slap’
+ NCV: Port Sandwich      voc-i                     ‘strike with the hand, slap’
+  NCV: Nguna                  wosa+e-a          ‘clap (hands or flat objects)’
+  NCV: Nguna                 wosa-wosa         ‘clap one’s hands’
+  Fij:     Wayan              voða-, voða-ki    ‘slap s.t. with the open hand or hands together’
 >
 
 <
