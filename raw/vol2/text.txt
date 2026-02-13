@@ -2063,8 +2063,8 @@ PPn *utu-a ‘projecting land’
 The last four Pn reflexes restrict the sense to a part of reef exposed at low tide, but retain
 the sense of projection/prominence.
 
-[3] In vol. 1, p.189 the form POc _*ijuŋ_ ‘projecting headboard of prow’ is erroneously given for
-*(i,u)cuŋ. This is almost certainly the same etymon as that reconstructed here.
+[3] In vol. 1, p.189 the form POc _*(i,u)cuŋ_ with gloss ‘projecting headboard of prow’ is reconstructed.
+This is almost certainly the same etymon as that reconstructed here.
 
    Reflexes of the next item, POc _*ŋoro-ŋorok_ with the gloss ‘cape’ are few and are not
 well distributed, but more careful inspection of the data reveals that these reflexes belong

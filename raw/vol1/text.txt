@@ -9140,7 +9140,7 @@ See also PPn _*tau-mu ʔa_ 'foredeck ' (§2.10).
 7.2.9 Carved projecting end-pieces
 
 
-Figure 25: POc _*ijuŋ_ 'projecting headboard of prow' (from Nevermann_1934:285)
+Figure 25: POc _*(i,u)cuŋ_ 'projecting headboard of prow' (from Nevermann_1934:285)
 
    In many regions of Oceania larger canoes are constructed with a projecting headboard,
 part of it resting on the underbody abutting the washstrake, the rest sometimes extending
@@ -9152,7 +9152,7 @@ Guinea and the Bismarck Archipelago. A POc reconstruction can be made for the na
 the headboard:
 
 <
-POc *ijuŋ 'projecting headboard of prow, often with ornately carved figurehead'
+POc *(i,u)cuŋ 'projecting headboard of prow, often with ornately carved figurehead'
   Adm: Mussau      uru(gila)          'beak like projection on bow, in shape of bird'
   MM: New Georgia language (unspecified) (Haddon 1937: 104, 106)      (toto)ishu        'figurehead on canoe prow'
   SES: Sa'a        ʔisu               'pieces erected on bow and stern'
@@ -9169,11 +9169,9 @@ PWOc *ŋuju 'carved prow'
   MM:  Roviana     ŋuzu-ŋuzu          'figurehead of a tomoko war canoe'
 >
 
-FIXME: From vol2: In vol. 1, p.189 the form POc _*ijuŋ_ ‘projecting headboard of prow’ is erroneously given for *(i,u)cuŋ. This is almost certainly the same etymon as that reconstructed here.
-
-The central meaning of POc _*ijuŋ_ was 'nose' and that of _*ŋuju_ 'beak, snout, mouth'. Reflexes
+The central meaning of POc _*(i,u)cuŋ_ was 'nose' and that of _*ŋuju_ 'beak, snout, mouth'. Reflexes
 of both commonly have the extended sense 'projecting point'. The conjunction of Southeast
-Solomonic and Polynesian evidence suggests _*ijuŋ_ as the more likely POc form carrying the
+Solomonic and Polynesian evidence suggests _*(i,u)cuŋ_ as the more likely POc form carrying the
 sense 'projecting headboard'. No widespread cognate set for the stempiece has been noted.
 
 [13]   Also called _tau ihu_ vs _tau rapa_ 'carved ornament on stern'.
