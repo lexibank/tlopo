@@ -2562,15 +2562,13 @@ PEOc *bʷela ‘taro swamp’
 58     Meredith Osmond, Andrew Pawley and Malcolm Ross
 
 <
-PCP *vusi ‘swamp; taro swamp’ (see vol. 1, p.139)[6]
+PCP *vusi ‘swamp; taro swamp’ (see vol. 1, p.139)
  Fij: Bauan           vuði             ‘taro garden under wet cultivation’
  Pn:  Rennellese      husi             ‘swamp, esp. wet-land taro patch’
  Pn:  Samoan          (tau)fusi        ‘swamp, marsh; patch of ground irrigated for purpose of growing taro’
  Pn:  E Futunan       vusi(ga)         ‘pondfield’
  Pn:  Maori           hūhi             (N) ‘swamp’
 >
-
-[6] In vol. 1, p.139 the form PCP _*pusi_ is erroneously given for _*vusi_ (POc _*p_ split into PCP _*p_ and _*v_).
 
 
 3.6 Inland water features
