@@ -17049,38 +17049,20 @@ cf. also:
   PT:  Roro       kuro-kuro     'ripe coconut'
 >
 
-    The reconstruction of POc _*maRaŋo_ 'coconut growth stage 9: ripe, flesh hardened (or
-stage 10: dry and ready to fall)' entails a phonological problem. I assumed in vol. 2 (ch.7, §5.6)
-that reflexes of this term were cognate with reflexes of POc _*[ma]raŋo_
-'become withered (of vegetation)', reconstructed by Osmond in vol. 1 (ch.5, §9.4). I assumed further that
-both reflected PMP _*(ma)Raŋaw_ and that the POc form was _*[ma]Raŋo_, regularly reflecting
-the PMP form. As I noted in vol.2, this is problematic, as Southeast Solomonic reflexes of
-the form _raŋo_ 'be withered' reflect POc _*r_, not _*R_.
-
                                                                                          Coconuts      365
 
--- FIXME: errata --
-
-    On balance the data now available suggest that my assumption in vol. 2 was wrong, and
-that two POc reconstructions must be made: POc _*[ma]raŋo_ 'become withered (of vegetation)',
-as reconstructed by Osmond, and _*maRaŋo_ 'coconut growth stage …'. Two pieces of
-data underlie this decision. The first is Baelelea (SES) _maleŋa_ 'coconut', in which _-l-_ reflects
-POc _*-R-_, contrasting with the SES items of the form _raŋo_ 'be withered', reflecting POc
-_*-r-_. The second is the Tape pair _meaŋ_ 'green coconut', probably reflecting POc _*-R-_ as zero,
-and _maraŋ_ '(of wood, leaves) dry', probably reflecting POc _*-r-_.[10] The data supporting both
-etyma are listed below. The Sursurunga item appears in both lists, as it appears to represent
-a conflation of the two etyma.
-
-     Other than the items mentioned in the previous paragraph, none of the items below is
-diagnostic of the difference between POc _*-R-_ and _*-r-_ except for Niuean and Samoan _maŋo_
-'dry', and these reflect _*-R-_ (with a zero reflex), not _*-r-_ as their meaning would lead us to
-expect. Also noteworthy is the odd fact that PMP _*(ma)Raŋaw_ 'dry' contains _*-R-_ whilst the
-POc etymon of similar meaning contains _*-r-_. In both cases speakers seem to have conflated
-or confused the two etyma.
+  The reconstruction of POc _*[ma][R,r]aŋo_ ‘coconut growth stage 9: ripe, flesh hardened’ is subject
+to the same caveats as the formally identical reconstruction glossed ‘become withered (of vegetation)’
+(q.v.). Both evidently reflect PCEMP _*[ma]Raŋaw_ ‘dry’. It happens that all reflexes in the cogset
+below potentially reflect _*R_, but only the Lau and Tape items reflect _*R_ unambiguously. The languages
+of the other reflexes all merge _*R_ and _*r_. Only in Tape do we find the contrasting reflexes
+_məraŋ_ ‘dry’ (< _*maraŋo_) and _meaŋ_ ‘green coconut with flesh that has become hard …’ (< _*maRaŋo_),
+but we cannot be sure whether this reflects a longstanding semantic contrast between _*maraŋo_ and
+_*maRaŋo_ or is a local innovation.[10]
 
 <
-PMP *(ma)Raŋaw 'dry' (Blust 1981b)
-POc *maRaŋo 'coconut growth stage 9: ripe, flesh hardened (or stage 10: dry and ready to fall)'
+PCEMP *[ma]Raŋaw (ACD)
+POc *ma[R,r]aŋo 'coconut growth stage 9: ripe, flesh hardened (or stage 10: dry and ready to fall)'
   NNG: Medebur       meraŋu-ŋ        'ripe coconut'
   NNG: Kairiru       maraŋ           'ripe coconut'
   MM:  Meramera      mala            'ripe coconut'
@@ -17090,30 +17072,12 @@ POc *maRaŋo 'coconut growth stage 9: ripe, flesh hardened (or stage 10: dry and
   MM:  Barok         maŋa            'ripe coconut'
   MM:  Susurunga     maraŋ           '(be) old, dry; (old) coconut with lots of meat and little milk'
   MM:  Patpatar      maraŋa          'dry coconut'
-  SES: Baelelea      maleŋa          'coconut'
+  SES: Lau           maleŋa          'coconut'
   NCV: Naman         |(neni) meraŋ|  'ripe coconut'
   NCV: Neve'ei       |(nani) meraŋ|  'ripe coconut'
   NCV: Larevat       |(nən) meraŋ|   'ripe coconut'
   NCV: Nese          |(nani) naraŋ|  'ripe coconut'
   NCV: Tape          meaŋ            'green coconut with flesh that has become hard and water that has begun to go fizzy' (J. Lynch, pers. comm.)
->
-
-<
-POc *[ma-]raŋo 'become withered (ofvegetation)' (vol. 1, ch.5, §9.4)
-  Adm: Mussau         malaŋo         'dry'
-  NNG: Manam          maraŋo         'dry, arid'
-  MM:  Susurunga      maraŋ          '(be) old, dry; (old) coconut with lots of meat and little milk'
-  MM:  Tolai          ma-raŋa        'withered, dry (leaves, husk, tree)'
-  MM:  Halia (Selau)  raŋo           'dry'
-  SES: Bugotu         raŋo           'wither (leaves, yam vines)'
-  SES: Sa'a           raŋo           'be withered, dry (esp. yams when vine withers)'
-  SES: Arosi          raŋo           'withered, dead (of grass, green boughs + )'
-  NCV: Mota           raŋo           'become dried up in the course of nature'
-  NCV: Tape           məraŋ          '(of wood, leaves) dry' (J. Lynch, pers. comm.)
-  SV:  Kwamera        (kahi)mareŋi   'turning brown'
-cf. also:
-  Pn:  Niuean         maŋo           'dry (of wood, trees)'
-  Pn:  Samoan         maŋo           'dry up; be dry (of wood, clothes)'
 >
 
 [10] In NCV languages _*R_ is sometimes reflected as zero, sometimes as a liquid. I am grateful to John Lynch for

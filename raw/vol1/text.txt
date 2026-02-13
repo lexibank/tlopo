@@ -6539,6 +6539,13 @@ soft'.
   Although any plant may become dry and droop through lack of water, it is a feature of
 yam vines that the leaves turn yellow and drop off when the tubers are ready to harvest.
 
+  PCEMP _*[ma]Raŋaw_ below leads us to expect POc _*[ma]Raŋo_, but the cognate set apparently reflects
+POc _*[ma]raŋo_, as the Bugotu, Sa’a and Tape items unambiguously reflect _*r_, not _*R_. However, the
+Niuean and Samoan items under ‘cf also’ reflect POc _*maRaŋo_ (_*R_ is lost in Central Pacific languages
+but _*r_ isn’t). This implies that _*[ma]Raŋo_ and an idiosyncratic _*[ma]raŋo_ co-occurred in early
+Oceanic. As Mussau, NNG and MM languages merge POc _*r_ and _*R_, they may reflect either form. Hence
+reconstructed _*[ma][R,r]aŋo_.
+
 <
 POc *[ma-]raŋo 'become withered (of vegetation)'
  NNG: Manam              ma-raŋo          'dry, arid'
@@ -6548,6 +6555,22 @@ POc *[ma-]raŋo 'become withered (of vegetation)'
  SES: Sa'a               raŋo             'be withered, dry (esp. yams when vine withers)'
  SES: Arosi              raŋo             'withered, dead (of grass, green boughs +)'
  NCV: Mota               raŋo             'become dried up in the course of nature'
+PCEMP *[ma]Raŋaw ‘dry’ (ACD)
+POc *[ma]raŋo ‘become withered (of vegetation)’
+ Adm: Mussau         malaŋo       'dry'
+ NNG: Manam          maraŋo       'dry, arid'
+ MM:  Patpatar       maraŋa       'dry coconut'
+ MM:  Tolai          maraŋa       'withered, dry (leaves, husk, tree)'
+ MM:  Halia (Selau)  raŋo         'dry'
+ SES: Bugotu         raŋo         'wither (leaves, ŋam vines)'
+ SES: Sa’a           raŋo         'be withered, dry (esp. ŋams when vine withers)'
+ SES: Arosi          raŋo         'withered, dead (of grass, green boughs +)'
+ NCV: Mota           raŋo         'become dried up in the course of nature'
+ NCV: Tape           məraŋ        '(of wood, leaves) dry' (J. Lŋnch, pers. comm.)
+ SV:  Kwamera        (kahi)mareŋi 'turning brown'
+ cf. also
+ Pn:  Niuean         maŋo         'dry (of wood, trees)'
+ Pn:  Samoan         maŋo         'dry up; be dry (of wood, clothes)'
 >
 
 <

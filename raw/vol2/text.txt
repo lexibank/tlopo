@@ -11035,48 +11035,48 @@ POc *[ma]maca (V) ‘dry up, evaporate, be empty of liquid’; (N) ‘low tide�
 
                                                               Properties of inanimate objects        227
 
-
- POc _*[ma-](r,R)aŋo_ displays a phonological problem. Apparent non-Oceanic cognates of
-the root _*raŋo_ reflect PMP _*Raŋaw_, so we would expect the reconstructable POc form to
-be _**Raŋo_. But Oceanic languages which reflect POc _*r_ and _*R_ differently are not in
-accord with each other: SES and NCV languages have a reflex of _*r_ whilst Pn languages
-have a (zero) reflex of _*R_. (Mussau and NNG and MM languages reflect _*r_ and _*R_
-identically.) I assume tentatively that POc had _*[ma]Raŋo_ and that forms with _*r_ are
-innovative.
+  PCEMP _*[ma]Raŋaw_ below leads us to expect POc _*[ma]Raŋo_, but the cognate set apparently reflects
+POc _*[ma]raŋo_, as the Bugotu, Sa’a and Tape items unambiguously reflect _*r_, not _*R_. However, the
+Niuean and Samoan items under ‘cf also’ reflect POc _*maRaŋo_ (_*R_ is lost in Central Pacific languages
+but _*r_ isn’t). This implies that _*[ma]Raŋo_ and an idiosyncratic _*[ma]raŋo_ co-occurred in early
+Oceanic. As Mussau, NNG and MM languages merge POc _*r_ and _*R_, they may reflect either form. Hence
+reconstructed _*[ma][R,r]aŋo_.
 
 <
-PMP *[ma]Raŋaw ‘dry’
-PMP *[ma]Raŋuʔ ‘dry’ (Blust 1981b, Blust 1986)
-POc *[ma]Raŋo ‘become withered (of vegetation)’[24]
- Adm: Mussau          malaŋo          ‘dry’
- NNG: Manam           maraŋo          ‘dry, arid’
- NNG: Kairiru         maraŋ           ‘ripe coconut’
- MM:  Nalik           maraŋ           ‘ripe coconut’
- MM:  Susurunga       maraŋ           ‘(be) old, dry; (old) coconut with lots of meat and little milk’
- MM:  Patpatar        maraŋa          ‘dry coconut’
- MM:  Tolai           ma-raŋa         ‘withered, dry (leaves, husk, tree)’
- MM:  Halia (Selau)   raŋo            ‘dry’
- SES: Bugotu          raŋo            ‘wither (leaves, yam vines)’
- SES: Sa’a            raŋo            ‘be withered, dry (esp. yams when vine withers)’
- SES: Arosi           raŋo            ‘withered, dead (of grass, green boughs +)’
- NCV: Mota            raŋo            ‘become dried up in the course of nature’
- Pn:  Samoan          maŋo            ‘dry up; be dry (of wood, clothes)’
- Pn:  Niuean          maŋo            ‘dry (of wood, trees)’
+POc *[ma-]raŋo 'become withered (of vegetation)'
+ NNG: Manam              ma-raŋo          'dry, arid'
+ MM: Tolai               ma-raŋa          'withered, dry (leaves, husk, tree)'
+ MM: Halia (Selau)       raŋo             'dry'
+ SES: Bugotu             raŋo             'wither (leaves, yam vines)'
+ SES: Sa'a               raŋo             'be withered, dry (esp. yams when vine withers)'
+ SES: Arosi              raŋo             'withered, dead (of grass, green boughs +)'
+ NCV: Mota               raŋo             'become dried up in the course of nature'
+PCEMP *[ma]Raŋaw ‘dry’ (ACD)
+POc *[ma]raŋo ‘become withered (of vegetation)’
+ Adm: Mussau         malaŋo       'dry'
+ NNG: Manam          maraŋo       'dry, arid'
+ MM:  Patpatar       maraŋa       'dry coconut'
+ MM:  Tolai          maraŋa       'withered, dry (leaves, husk, tree)'
+ MM:  Halia (Selau)  raŋo         'dry'
+ SES: Bugotu         raŋo         'wither (leaves, ŋam vines)'
+ SES: Sa’a           raŋo         'be withered, dry (esp. ŋams when vine withers)'
+ SES: Arosi          raŋo         'withered, dead (of grass, green boughs +)'
+ NCV: Mota           raŋo         'become dried up in the course of nature'
+ NCV: Tape           məraŋ        '(of wood, leaves) dry' (J. Lŋnch, pers. comm.)
+ SV:  Kwamera        (kahi)mareŋi 'turning brown'
+ cf. also
+ Pn:  Niuean         maŋo         'dry (of wood, trees)'
+ Pn:  Samoan         maŋo         'dry up; be dry (of wood, clothes)'
 >
-
-[24] In Ross (1996d) I reconstructed POc _*[ma]Raŋ(o,u)_ ‘dry; coconut growth stage 8: dry and ready to fall’.
-   However, its POc status rested on Baelelea (SES) _maleŋa_ ‘coconut’. I no longer think this is cognate
-   with the NNG and MM forms which refer to a withered coconut, and take the latter simply to be an
-   extension of meaning of reflexes of _*[ma-](r,R)aŋo_.
 
 228    Malcolm Ross
 
 <
-POc *ka-(r,R)aŋo ‘be dry; be low tide’
- NNG: Yabem            (ŋa)kɛlɛŋ         ‘dry (of a cloth etc)’
- MM: Zabana            karaŋo            ‘be dry; be low tide’
- SES: Gela             karaŋo            ‘dry up; reef, low tide, harvest time’
- SES: Lengo            karaŋo            ‘low tide’
+POc *ka-[R,r]aŋo 'be dry; be low tide'
+ NNG: Yabem   (ŋa)kɛlɛŋ  'dry (of a cloth etc)'
+ MM:  Zabana  karaŋo     'be dry; be low tide'
+ SES: Gela    karaŋo     'dry up; reef, low tide, harvest time'
+ SES: Lengo   karaŋo     'low tide'
 >
 
 <
