@@ -1936,7 +1936,7 @@ back’ whose reflexes are used in a number of languages with the senses ‘back
 fact that the outside of a barrier reef is its windward side.
 
 <
-PEOc *liku ‘windward side’
+PROc *liku ‘windward side’
  Mic: Marshallese    liki                ‘ocean side of; outside’
  Mic: Kiribati       (āi)niku            ‘ocean side of coral islands’
  Fij: Wayan          liku                ‘windward side’
@@ -2104,12 +2104,12 @@ POc *ŋoro-ŋorok ‘nose’
  SES: North and Central Malaita       ŋo-ŋoro-
 >
 
-   The final reconstruction, PEOc _*mata_ ‘point of land, headland’ is evidently an
+   The final reconstruction, PROc _*mata_ ‘point of land, headland’ is evidently an
 extension of the more basic meanings attributed to POc _*(m,mʷ)ata_, namely ‘point, blade,
 cutting-edge (of a weapon or instrument)’ (vol. 1, p.89).
 
 <
-PEOc *mata ‘point of land, headland’
+PROc *mata ‘point of land, headland’
  NCal: Nyelâyu        |mā(lã pʰwēmʷa)|  ‘point of the mainland (= south)’
  NCal: Nêlêmwa        mā(wamʷa)         ‘point of the mainland (= south)’
 PPn *mata ‘point of land, headland; point, blade, cutting-edge (of a weapon or instrument)’ (Biggs & Clark 1993)
@@ -2245,10 +2245,10 @@ PPn *maquŋa ‘mountain’ (Biggs & Clark 1993)
 52     Meredith Osmond, Andrew Pawley and Malcolm Ross
 
 
-Note also the following PEOc reconstruction:
+Note also the following PROc reconstruction:
 
 <
-PEOc *|qulu ni panua| ‘headland, mountain peak’ (POc *qulu ‘head’, ni ‘of’, *panua ‘land’)
+PROc *|qulu ni panua| ‘headland, mountain peak’ (POc _*qulu_ ‘head’, _ni_ ‘of’, _*panua_ ‘land’)
  Mic: Chuukese  | wɨɾɨ-ɾ fəɾɨ |   ‘cape, point (of an island)’
  Fij: Bauan     | ulu ni vanua |  ‘mountain’
 >
@@ -3320,7 +3320,7 @@ POc *alito(n) (N) ‘firebrand; piece of burning wood’
  NNG: Takia            yalit           ‘piece of wood with fire burning in it’
  NNG: Gedaged          yalit           ‘piece of charred wood’
  NNG: Swit             alit            ‘piece of charred wood’
-PEOc *lito ‘(?) firebrand’
+PROc *lito ‘(?) firebrand’
  NCV: Mota             lito            ‘firewood’
  NCV: Motlav           na-let          ‘firewood’
  SV:  Anejom           (n)ijis         ‘torch’
@@ -3390,11 +3390,11 @@ was widely used in Pacific Island communities for drawing marks or, pounded and 
 with oil and water, for smearing on the skin. PMP _*uRiŋ_ ‘charcoal, wood that is charred
 (but no longer burning fiercely)’ has been reconstructed by Dempwolff and others, based
 on e.g. Tagalog _uliŋ_, Bontok _uriŋ_, Ngadju-Dayak _b/uriŋ_, etc. but Oceanic cognates have
-not been noted. There is a well supported reconstruction for Eastern Oceanic, _*malala_, but
+not been noted. There is a well supported reconstruction for Remote Oceanic, _*malala_, but
 this lacks clear cognates in Western Oceanic.
 
 <
-PEOc *malala ‘charcoal, charred wood’; ‘(?) coals, embers’
+PROc *malala ‘charcoal, charred wood’; ‘(?) coals, embers’
  SV: Anejom         (inhu)mala       ‘charcoal’
  Mic: Kiribati      marara           ‘charcoal’
  Mic: Marshallese   mælle            ‘embers, charcoal’
@@ -3688,7 +3688,7 @@ __tablenh__
 80   Meredith Osmond, Andrew Pawley and Malcolm Ross
 
 
-   There are several cognate sets pointing to PEOc forms denoting burning with a
+   There are several cognate sets pointing to PEOc or PROc forms denoting burning with a
 particular kind of light.
 
 <
@@ -3706,7 +3706,7 @@ PEOc *maka ‘burn brightly’
 >
 
 <
-PEOc *makalo ‘burn with glow’ (cf. *kalo-kalo ‘glimmer’)
+PROc *makalo ‘burn with glow’ (cf. _*kalo-kalo_ ‘glimmer’)
  Mic: Kiribati       mʷākaro          ‘embers, live coals, charoal; burning without flames’
  Fij: Wayan          makalo           ‘turn to embers; glow, be red hot’
 PPn *makala (V) ‘(of fire) crackle and spark’
@@ -3718,7 +3718,7 @@ PPn *makala (V) ‘(of fire) crackle and spark’
 >
 
 <
-PEOc *kalo-kalo ‘glimmer’ (cf. _*makalo_ ‘burn with glow’)
+PROc *kalo-kalo ‘glimmer’ (cf. _*makalo_ ‘burn with glow’)
  Mic: Kiribati       -karo-karo       (base in 3 words, all meaning ‘glimmer, glow’)
  Fij: Bauan          kalo-kalo        ‘star’
  Pn:  Pukapukan      kalo-kalo(awi)   ‘sparks of fire’
@@ -4055,7 +4055,7 @@ Mortlockese (Mic) _awúniyar_ ‘whirlwind, tornado, rainbow’, referred to by 
 following set are uncertain.
 
 <
-PEOc *siosio ‘(?) whirlwind, rainbow’
+PROc *siosio ‘(?) whirlwind, rainbow’
  NCV: Mota            ga-siosio       ‘rainbow’ (see note above)
 PPn *qā-siosio ‘whirlwind, waterspout’
  Pn:  Niuean          hio-hio         ‘whirlwind, tornado’ (from McEwen. Sperlich gives _tiotio_.)
@@ -6871,11 +6871,11 @@ POc *(d,dr)im(a)-(d,dr)im(a) ‘drizzle, light rain’
 >
 
    In search of other terms associated in one way or another with rain, I tried to reconstruct
-terms for ‘rainbow’ and ‘dew’. However, I could only reconstruct a Proto Eastern Oceanic
+terms for ‘rainbow’ and ‘dew’. However, I could only reconstruct a Proto Remote Oceanic
 term for the former (but see the note on POc _*bʷa(p)o_ ‘misty rain (?)’ above, p.145).
 
 <
-PEOc *nua-nua ‘rainbow’
+PROc *nua-nua ‘rainbow’
  NCV: Mota          nunua                 ‘change colour’
  NCV: Araki         nuenue                ‘rainbow’
  NCV: Tamambo       nuenue                ‘rainbow’
@@ -7987,7 +7987,7 @@ however, refer not to the Pleiades but probably to Sagittarius.
 172    Meredith Osmond
 
 <
-PEOc *mataliki ‘name given to a significant star cluster’
+PROc *mataliki ‘name given to a significant star cluster’
  Mic: Marshallese     mæcɛt-ṛikṛik      ‘a constellation, stars in Sagittarius’ (lit. ‘small face/eyes’)
  Mic: Mortlockese     meisik            ‘stars in Hercules’
  Mic: Lamotrek        mairik            ‘name for the fourth month’
@@ -8096,11 +8096,11 @@ __formgroup__
 
 In Fiji the constellation is known as _laða_, literally ‘a sail’.
 
-   There is a possible PEOc reconstruction for Aldebaran, the single brightest star of the
+   There is a possible PROc reconstruction for Aldebaran, the single brightest star of the
 group. The long vowel indicates a possible _*u(C)u_ sequence.
 
 <
-PEOc *u(C)unu ‘Aldebaran’
+PROc *u(C)unu ‘Aldebaran’
  Mic: Kiribati      un              ‘the name of a star’
  Mic: Mortlockese   un(allual)      ‘Aldebaran and Orion’
  Mic: Puluwatese    wūn             ‘Aldebaran; month about late July’
@@ -12468,7 +12468,7 @@ POc (N, N LOC) *siriŋ ‘side, edge’
 >
 
 <
-PEOc (N, N LOC) *tapa- ‘side, outside’
+PROc (N, N LOC) *tapa- ‘side, outside’
  NCV: NE Ambae         tava(lu)-            ‘side’
  NCV: Tamambo          tava(lu)             ‘side part of s.t.’
  NCV: Paamese          tav                  ‘one side’

@@ -3488,7 +3488,7 @@ but adds a warning note that the Oceanic forms cited may reflect POc _*waiR_ 'fr
 so, all that can be inferred is a second gloss for this reconstructed form (ACD).
 
 <
-PEOc *tapaya '(gourd or coconut-shell) container, bottle'
+PROc *tapaya '(gourd or coconut-shell) container, bottle'
   NCV: Mota       (wo)tavae        'kind of gourd, eaten' (_wo-_ 'prefix indicating form, i.e. round object, fruit')
   NCV: Raga       tavai            'gourd'
   Fij: Bauan      tavaya           'bottle'
@@ -3551,7 +3551,7 @@ gourd, coconut shell or small tightly-woven basket. A lime spatula of bone or wo
 highly decorated, rests in the gourd and is used to convey lime to the mouth. We have a
 reconstruction for the spatula, POc _*d(r)amu_, but no specific term for the lime pot. In a
 number of word lists the term for lime (often from POc _*qapu(R)_) also can refer to the pot.
-We have reconstructed a PEOc term for a gourd, _*tapaya_ 'gourd, water bottle', but there are
+We have reconstructed a PROc term for a gourd, _*tapaya_ 'gourd, water bottle', but there are
 no cognates from SES, which is the only area of eastern Oceanic where betel is chewed, and
 we lack any Western Oceanic reconstruction.
 
@@ -3650,7 +3650,7 @@ PWOc *kase 'k.o. basket'
 >
 
 <
-PEOc *kete 'belly, basket' (Biggs 1965)
+PROc *kete 'belly, basket' (Biggs 1965)
   NCV: Mota            gete              'woven basket'
   NCV: Raga            gete              'basket made of plaited coconut leaves'
   Fij: Bauan           kete              'belly, stomach'
@@ -3747,7 +3747,7 @@ POc *tabakau 'mat woven from coconut leaves'
                                                                      Household artefacts       81
 
 <
-PEOc *bola 'coconut leaves woven together for any purpose, including mats, baskets, thatch'
+PROc *bola 'coconut leaves woven together for any purpose, including mats, baskets, thatch'
   NCV: Nguna           pora        'woven wall panel'
   NCV: Lonwolwol       (aro)bol    'basket, container; sack, bag' (_aro_ > POc _*kato_ 'basket')
   Fij: Rotuman         pora        'coconut leaf used for walls +'
@@ -3760,7 +3760,7 @@ PEOc *bola 'coconut leaves woven together for any purpose, including mats, baske
 >
 
   It is possible that the two NCV reflexes in the above set are borrowings from Polynesia
-(Ross Clark pers.comm.). If so, this reduces the reconstruction from PEOc to PCP.
+(Ross Clark pers.comm.). If so, this reduces the reconstruction from PROc to PCP.
 
 <
 PEOc *ibe 'mat' (Pawley 1976)
@@ -7049,7 +7049,7 @@ _*papia_, specifically for firewood. Note that an identical term is reconstructa
 (cognates in SES and Fiji) with the meaning 'cook in native oven' (§3.1).
 
 <
-PEOc *papia ' firewood, fuel'
+PROc *papia ' firewood, fuel'
  Mic:   Kiribatese      aia
  Mic:    Woleaian        fafiya
  Pn:     Tongan          fefie
@@ -7309,7 +7309,7 @@ backgrounds of the authors rather than differences in cooking methods."
 6.3.1 Cooking in stone oven
 
 <
-PEOc *papi- 'cook in oven with hot stones and leaves' (cf. PEOc _*papia_ 'firewood, fuel' with cognates in Mic. and Pn.)
+PEOc *papi- 'cook in oven with hot stones and leaves' (cf. PROc _*papia_ 'firewood, fuel' with cognates in Mic. and Pn.)
  SES: Lau              fafi            'put leaves on oven in cooking'
  SES: Kwaio            fafi            'cook in leaf oven'
  SES: 'Are'are         hahi-           'cook between hot stones'
@@ -9522,7 +9522,7 @@ ancestor of these groups.
 with mast that is stepped upright in a cupped boss on the floor of the dugout.
 
 <
-PEOc *pana (?) 'mast, boom stepped on foot of mast'
+PROc *pana (?) 'mast, boom stepped on foot of mast'
   NCV: Mota            pane                'boom with forked end stepped on the foot of the mast'
   NCV: Mota            |pane (sila)|       'projecting boom of a sail'
   Fij: Bauan           (i)vanā             'mast' (_i-_ < POc _*i-_ INS)
@@ -10085,7 +10085,7 @@ PCP *sua 'tack'
 the first element and _*tasi(k)_ 'sea' as the second.
 
 <
-PEOc *tau-tasik 'expert fisherman or sailor, mariner'
+PROc *tau-tasik 'expert fisherman or sailor, mariner'
   SV:  Sye           ntoɣ              'sailor'
   SV:  S.W. Tanna    tahik             'sailor'
   Mic: Trukese       sowu-set          'master fisherman'
@@ -10833,7 +10833,7 @@ Other terms used to describe the action of spearing are derived from POc _*soka_
                                                             Fishing and hunting implements           225
 
 <
-PEOc *saRi 'k.o. spear'
+PROc *saRi 'k.o. spear'
     NCV: Tamambo            sari                 'spear'
     Fij:  Wayan             sai-sai              'arrow or spear with three or more prongs, used for fish, bats +'
 >
@@ -11059,7 +11059,7 @@ With regard to the reconstruction of _*(p,pʷ)_, see Chapter 2, §2.1.
                                                       Fishing and hunting implements            229
 
 <
-PEOc *taRi 'noose, snare'
+PROc *taRi 'noose, snare'
   NCV: Mota               tar                (V) 'lay (net +)'
   Fij: Bauan              dai                'snare or trap for catching animals'
   Fij: Wayan              tai                'snare or trap for catching animals'
@@ -13709,7 +13709,7 @@ PNNG | _*(p,pʷ)isa(k)_, _*(p,pʷ)isak-i-_   | 'squeeze (grated coconut +)'
 POc  | _*poRo(s)_, _*poRos-i_              | 'squeeze out, wring out (liquid)'
 POc  | _*momo(s)_                          | 'squeeze'
 POc  | _*losi(t)_                          | 'squeeze, wring'
-PEOc | _*gugu(m)_, _*gumi-_                | 'grasp in fist, clench fist'
+PROc | _*gugu(m)_, _*gumi-_                | 'grasp in fist, clench fist'
 POc  | _*gumu(t)_, _*gumut-i-_             | 'hold tight'
 
 282      Malcolm Ross, Ross Clark and Meredith Osmond
@@ -13867,22 +13867,22 @@ POc *losi(t) 'squeeze, wring'
                                            Acts of impact, force and change of state            285
 
 
-   The derivational relationship between the pair of verbs below, PEOc _*gugu(m)_, _*gum-i-_
-'grasp in fist, clench fist', evidently still subsists in some Pn languages. Although PEOc
+   The derivational relationship between the pair of verbs below, PROc _*gugu(m)_, _*gum-i-_
+'grasp in fist, clench fist', evidently still subsists in some Pn languages. Although PROc
 _*gugu(m)_ is to our knowledge only reflected in Pn languages, this relationship persists and
-must go back to PEOc and probably to POc. There is an obvious historical relationship
+must go back to PROc and probably to POc. There is an obvious historical relationship
 between this pair and Dempwolff's reconstruction of PMP _*gemgem_ 'make a fist', but the
 reconstructable POc/PEOc vowel is 'wrong': _*u_ for expected _*o_.
 
 <
 PMP *gemgem 'make a fist' (Dempwolff 1938)
-PEOc *gugu(m) 'grasp in fist, clench fist'
+PROc *gugu(m) 'grasp in fist, clench fist'
    Pn: Tongan          kuku                'grasp, grip, clutch, hold on to; embrace, cuddle'
    Pn: Samoan          ʔuʔu                'take hold of, grasp'
 >
 
 <
-PEOc *gumi- 'grasp in fist, clench fist'
+PROc *gumi- 'grasp in fist, clench fist'
   Fij:  Wayan          gumi-          'grasp s.t. in the hand or claw, hold s.t. tightly in the hand'
   Fij:  Bauan          gumi-          'clench the fist'
   NCV:  Raga           ᵑgu-ᵑgum       'clench fist'
@@ -13898,7 +13898,7 @@ PEOc *gumi- 'grasp in fist, clench fist'
     The vowel is also 'wrong' (except perhaps in the Arosi reflex) in the pair below, which,
 despite its formal and semantic similarity to the pair above, seems to have a different PMP
 origin. Similarity has apparently ensured that no language reflects both forms of each pair.
-Indeed, I suspect that some forms above are historical conflations of reflexes of PEOc
+Indeed, I suspect that some forms above are historical conflations of reflexes of PROc
 _*gumi-_ and _*gumu_ (from POc _*gumu(t)_).
 
 <
