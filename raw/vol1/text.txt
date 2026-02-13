@@ -10659,13 +10659,13 @@ From North New Guinea and New Ireland we have been able to reconstruct a lower-l
 term:
 
 <
-PWOc *(m,mʷ)ali '_Derris_ root'
+PWOc *(m,mʷ)ali '_Derris_ sp.'
   NNG: Gitua               (waro)mali(ŋ)
   MM:  Nalik               mal-mal
+  MM:  Kara (E)      mal
+  MM:  Sursurunga    mel             'a vine used to poison fish or humans'
+  MM:  Marovo        moli            'a coastal creeping vine'
 >
-
-## FIXME:    PWOc _*(m,mʷ)ali_ (incorrectly given as _*maRi_ in vol. 1, ch.8, §7) is reconstructed on the basis of North New Guinea and Meso-Melanesian languages.
-
 
 The method of stunning fish by throwing pounded _Derris_ root into pools is widespread, and
 the three terms seem to have identical reference, although _Derris elliptica_ is not mentioned

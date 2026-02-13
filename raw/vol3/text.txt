@@ -19172,7 +19172,7 @@ POc *puna(t) 'vine used for fish poison, probably _Derris_ elliptica'
 
 
 
-   PWOc _*(m,mʷ)ali_ (incorrectly given as _*maRi_ in vol. 1, ch.8, §7) is reconstructed on the
+   PWOc _*(m,mʷ)ali_ is reconstructed on the
 basis of North New Guinea and Meso-Melanesian languages:
 
 <
