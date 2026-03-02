@@ -12767,7 +12767,7 @@ and several verbs are associated with it (see also POc _*kaba_ ‘(n) wing, (v) 
 
 <
 PMP *Rebek ‘to fly’
-POc *Ropok ‘fly,jump’
+POc *Ropok ‘to fly, jump’
   Adm:   Loniu           wɔh
   NNG:   Kairiru         -ruo
   NNG:   Manam           ro

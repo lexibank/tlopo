@@ -26612,7 +26612,7 @@ terms listed below suggest that a finger length has been used as a unit of measu
 from PEOc times and perhaps earlier.
 
 <
-POc *tusu- ‘forefinger’ (vol.5:178)
+POc *tusu- (N) ‘forefinger’ (vol.5:178)
 PChk *ka-tudu ‘finger, finger length’ (Jackson 1983)
  Mic: Chuukese       -wɨt         ‘length of a finger’
  Mic: Carolinian     -xat         ‘counting classifier for fingers and parts thereof, used to measure, e.g., depth by widths of fingers’

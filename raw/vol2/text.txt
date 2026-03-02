@@ -7961,7 +7961,7 @@ Polynesian languages use reflexes of PPn _*mataliki_.
 
 <
 PMP *buluq ‘a constellation, the Pleiades’ (ACD)
-POc *bulu(q) ‘a constellation, the Pleiades’ (ACD has *puluq)
+POc *bulu(q) ‘a constellation, the Pleiades’ (ACD: _*puluq_)
  MM:  Nakanai        vulu               ‘Pleiades’ (_v_ for exp. _b_) [16]
  MM:  Roviana        bibolo             ‘Pleiades’ (_o_ for expected _u_)
  SES: Kwaio          bulu-bulu          ‘star; firefly’

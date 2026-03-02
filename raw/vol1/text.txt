@@ -3551,7 +3551,7 @@ gourd, coconut shell or small tightly-woven basket. A lime spatula of bone or wo
 highly decorated, rests in the gourd and is used to convey lime to the mouth. We have a
 reconstruction for the spatula, POc _*d(r)amu_, but no specific term for the lime pot. In a
 number of word lists the term for lime (often from POc _*qapu(R)_) also can refer to the pot.
-We have reconstructed a PROc term for a gourd, _*tapaya_ 'gourd, water bottle', but there are
+We have reconstructed a PROc term for a gourd, _*tapaya_ 'gourd, water bottle', as there are
 no cognates from SES, which is the only area of eastern Oceanic where betel is chewed, and
 we lack any Western Oceanic reconstruction.
 
@@ -3597,7 +3597,7 @@ of old terms. The likelihood of borrowing is also high.
 PMP *ka(n)tuŋ 'basket, pocket in clothing' (Dempwolff 1938)
 POc *katu(m,ŋ) 'basket'
   SES: Arosi          kaso        'basket without a handle'
-  NCV: Lonwolwol      aro(bol)    'basket, container; sack, bag' (_-bol_ from POc _*bola_ 'coconut leaves woven together')
+  NCV: Lonwolwol      aro(bol)    'basket, container; sack, bag' (_-bol_ from PROc _*bola_ 'coconut leaves woven together')
   NCV: Paamese        atu(voi)    'basket of coconut leaves'
   SV:  Lenakel        karəm
   SV:  Anejom         in-ɣat      'pandanus, basket'
@@ -3670,7 +3670,7 @@ association with one of the two _*k_-initial forms above.
 Figure 9: Reconstructions (non-specific) include: POc _*katu(m,ŋ)_ 'basket', POc _*laka_ 'basket ', POc _*tab(w)e_ 'basket, probably small', POc _*taŋa_ 'basket or bag, small, used for personal effects' (after Koch_1986: 104 and n.d.:59)
 
    Biggs (1993) lists two further terms for PPn, _*taapola_ 'basket plaited from a single coconut
-frond' (from POc _*bola_ 'coconut leaves woven together for any purpose'. See under §3.1 Mats); and _*qora_ 'fishing basket'.
+frond' (from PROc _*bola_ 'coconut leaves woven together for any purpose'. See under §3.1 Mats); and _*qora_ 'fishing basket'.
 
    Bags, typically of twine made from fibres rolled together on the thigh and then knotted
 into a mesh, are more likely to be used for carrying than for storage. They are a prominent
@@ -6483,7 +6483,7 @@ reconstruction of appropriate terms.
 5.9.1 Sprout, shoot
 
 <
-POc *tupul 'send out new growth' (French-Wright 1983)
+POc *tupul 'to send out new growth' (French-Wright 1983)
     PT: Motu                  tuhu-tuhu          'young shoot'
     MM: Roviana               tuvulu             'send out new growth, of trees that have been cut down'
     Fij:    Bauan             tuvu               'shoot up, of a tree'
