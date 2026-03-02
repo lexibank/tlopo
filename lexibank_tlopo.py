@@ -659,7 +659,7 @@ class Dataset(BaseDataset):
 
     # define the way in which forms should be handled
     form_spec = pylexibank.FormSpec(
-        brackets={"(": ")"},  # characters that function as brackets
+        brackets={"(": ")", "[": "]"},  # characters that function as brackets
         separators=";/,",  # characters that split forms e.g. "a, b".
         missing_data=('?', '-'),  # characters that denote missing data.
         strip_inside_brackets=True,   # do you want data removed in brackets or not?
