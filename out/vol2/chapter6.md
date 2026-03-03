@@ -1907,7 +1907,7 @@ Blust has reconstructed PMP _&ast;buluq_, POc _&ast;puluq_ ‘a constellation, t
 <td style="white-space: nowrap;">
 <i>&ast;bulu(q)</i>
 </td>
-<td>'<span>a constellation, the Pleiades</span>' (<span>ACD has &ast;puluq</span>)</td>
+<td>'<span>a constellation, the Pleiades</span>' (<span>ACD: <em>&ast;puluq</em></span>)</td>
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/nakanai">Nakanai</a></td><td style="white-space: nowrap;"><i>vulu</i></td>

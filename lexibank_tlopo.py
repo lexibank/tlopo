@@ -793,7 +793,7 @@ class Dataset(BaseDataset):
                         og['Source'] = [ref.cldf_id for ref in gloss.sources]
                     else:
                         assert [ref.cldf_id for ref in gloss.sources] == og['Source'], (
-                                '{}: {} vs {}'.format(protoform_or_reflex, gloss.sources, og['Source']))
+                                f"{protoform_or_reflex}: {[ref.cldf_id for ref in gloss.sources]} vs {og['Source']}")
                 gloss_ids.append(og['ID'])
         return gloss_ids
 

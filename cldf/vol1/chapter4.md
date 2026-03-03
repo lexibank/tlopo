@@ -245,7 +245,7 @@ Two other etyma are reconstructable in the domain 'lid, cover, stopper', but it 
 #### 2.2.5. Lime pot
 
 
-There is one other kind of container associated with Melanesians other than the inhabitants of Vanuatu and Fiji, and that is the lime pot of betel-nut users. The lime container is usually a gourd, coconut shell or small tightly-woven basket. A lime spatula of bone or wood, sometimes highly decorated, rests in the gourd and is used to convey lime to the mouth. We have a reconstruction for the spatula, POc _&ast;d(r)amu_, but no specific term for the lime pot. In a number of word lists the term for lime (often from POc _&ast;qapu(R)_) also can refer to the pot. We have reconstructed a PROc term for a gourd, _&ast;tapaya_ 'gourd, water bottle', but there are no cognates from SES, which is the only area of eastern Oceanic where betel is chewed, and we lack any Western Oceanic reconstruction.
+There is one other kind of container associated with Melanesians other than the inhabitants of Vanuatu and Fiji, and that is the lime pot of betel-nut users. The lime container is usually a gourd, coconut shell or small tightly-woven basket. A lime spatula of bone or wood, sometimes highly decorated, rests in the gourd and is used to convey lime to the mouth. We have a reconstruction for the spatula, POc _&ast;d(r)amu_, but no specific term for the lime pot. In a number of word lists the term for lime (often from POc _&ast;qapu(R)_) also can refer to the pot. We have reconstructed a PROc term for a gourd, _&ast;tapaya_ 'gourd, water bottle', as there are no cognates from SES, which is the only area of eastern Oceanic where betel is chewed, and we lack any Western Oceanic reconstruction.
 
 
 <a id="p-77"></a>
@@ -302,7 +302,7 @@ This form is unlikely to be of POc ancestry, as medial _&ast;-e-_ is rare in POc
 
 
 
-Biggs (1993) lists two further terms for PPn, _&ast;taapola_ 'basket plaited from a single coconut frond' (from POc _&ast;bola_ 'coconut leaves woven together for any purpose'. See under [§3.1](ContributionTable?anchor=s-3-1#cldf:1-4) Mats); and _&ast;qora_ 'fishing basket'.
+Biggs (1993) lists two further terms for PPn, _&ast;taapola_ 'basket plaited from a single coconut frond' (from PROc _&ast;bola_ 'coconut leaves woven together for any purpose'. See under [§3.1](ContributionTable?anchor=s-3-1#cldf:1-4) Mats); and _&ast;qora_ 'fishing basket'.
 
 Bags, typically of twine made from fibres rolled together on the thigh and then knotted into a mesh, are more likely to be used for carrying than for storage. They are a prominent item among western Oceanic peoples, the women carrying them slung from a band round the head, and the men generally over one shoulder. On the New Guinea mainland, they are the means by which a woman carries a baby. The widespread modern term for these bags is _bilum_, a Tok Pis in term apparently from Tolai, but without cognates outside MM. The present distribution pattern of use would seem to reflect a possible Papuan origin for the net bag. In east New Britain (Tolai and Baining at least) heavy loads are carried in a coconut leaf basket suspended from the forehead by a tumpline (Ann Chowning, pers.comm.). The following reconstruction may have been a general term for a small plaited or woven container which has come to refer to a net bag in parts of western Oceania.
 

@@ -6483,7 +6483,7 @@ reconstruction of appropriate terms.
 5.9.1 Sprout, shoot
 
 <
-POc *tupul 'to send out new growth' (French-Wright 1983)
+POc *tupul 'to send out new growth' (French-Wright 1983: 78)
     PT: Motu                  tuhu-tuhu          'young shoot'
     MM: Roviana               tuvulu             'send out new growth, of trees that have been cut down'
     Fij:    Bauan             tuvu               'shoot up, of a tree'

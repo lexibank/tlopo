@@ -31,13 +31,13 @@
         {
             "rdf:about": "https://github.com/lexibank/tlopo",
             "rdf:type": "prov:Entity",
-            "dc:created": "c1d2400",
+            "dc:created": "1e6c4ae",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v5.2",
+            "dc:created": "v5.3",
             "dc:title": "Glottolog"
         },
         {
@@ -308,7 +308,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 19935,
+            "dc:extent": 19936,
             "tableSchema": {
                 "columns": [
                     {
@@ -1057,7 +1057,7 @@
             "url": "cognatesetreferences.csv"
         },
         {
-            "dc:extent": 45598,
+            "dc:extent": 45596,
             "tableSchema": {
                 "columns": [
                     {

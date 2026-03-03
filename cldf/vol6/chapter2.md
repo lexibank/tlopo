@@ -164,9 +164,39 @@ Terms at G₊₁ in [Figure 2.3](#fig-6-2_3) and at G₋₁ in [Figure 2.4](#fig
 
 <a id="p-54"></a>
 
-[Table 2.3](#table-2.3) Nakanai kinship terms of [EGO]{.smallcaps}’s generation
+<a id="table-2.3"> </a>
 
-[Table 2.4](#table-2.4) Nakanai kinship terms of [EGO]{.smallcaps}’s generation
+: __Table 2.3__ Nakanai kinship terms of [EGO]{.smallcaps}’s generation
+
+| Term        | Narrow sense(s)                                                                           | Sex of [ALTER]{.smallcaps}   | Sex relative to [EGO]{.smallcaps}   | Seniority   | Affinity   |
+|:------------|:------------------------------------------------------------------------------------------|:-----------------------------|:------------------------------------|:------------|:-----------|
+| _tua-_      | elder s.s. sibling, elder s.s. parallel cousin                                            | either                       | same                                | elder       | blood      |
+| _tari-_     | younger s.s. sibling, younger s.s. parallel cousin                                        | either                       | same                                | younger     | blood      |
+| _hatavile-_ | ♂sister                                                                                   | female                       | opposite                            | irrelevant  | blood      |
+| _hatamale-_ | ♀brother                                                                                  | male                         | opposite                            | irrelevant  | blood      |
+| _lavo-_     | cross-cousin                                                                              | either                       | either                              | irrelevant  | blood      |
+| _rutu-_     | wife                                                                                      | female                       | opposite                            | irrelevant  | in-law     |
+| _harua-_    | husband                                                                                   | male                         | opposite                            | irrelevant  | in-law     |
+| _tula-_     | spouse's sibling of s.s. as [EGO]{.smallcaps}; spouse of [EGO]{.smallcaps}'s o.s. sibling | either                       | opposite                            | irrelevant  | in-law     |
+| _iva-_      | spouse's sibling of s.s. as [EGO]{.smallcaps}; spouse of [EGO]{.smallcaps}'s o.s. sibling | female                       | same                                | irrelevant  | in-law     |
+
+<a id="table-2.4"> </a>
+
+: __Table 2.4__ Nakanai kinship terms of G₊₁ and G₋₁
+
+| Term    |   Generation | Narrow sense(s)                                           | Sex of link   | Sex of [ALTER]{.smallcaps}   | Affinity   |
+|:--------|-------------:|:----------------------------------------------------------|:--------------|:-----------------------------|:-----------|
+| _tila-_ |           +1 | mother, mother's sister                                   | female        | female                       | blood      |
+| _tama-_ |           +1 | father, father's brother                                  | male          | male                         | blood      |
+| _isa-_  |           +1 | father's sister                                           | male          | female                       | blood      |
+| _isa-_  |           -1 | ♀brother's child                                          | male          | either                       | blood      |
+| _hala-_ |           +1 | mother's brother                                          | female        | male                         | blood      |
+| _hala-_ |           -1 | ♂sister's child                                           | female        | either                       | blood      |
+| _natu-_ |           -1 | child, s.s. sibling's child, s.s. parallel cousin's child | s.s.          | either                       | blood      |
+| _ua-_   |           +1 | ♀husband's parent                                         | male          | either                       | in-law     |
+| _ua-_   |           -1 | son's wife, s.s. sibling's son's wife                     | male          | female                       | in-law     |
+| _loa-_  |           +1 | ♂wife's parent                                            | female        | either                       | in-law     |
+| _loa-_  |           -1 | daughter's husband, s.s. sibling's daughter's husband     | female        | male                         | in-law     |
 
 
 <a id="p-55"></a>

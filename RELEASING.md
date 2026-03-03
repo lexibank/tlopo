@@ -3,7 +3,7 @@
 Recreate the CLDF dataset:
 
 ```shell
-cldfbench lexibank.makecldf lexibank_tlopo.py --glottolog-version v5.2
+cldfbench lexibank.makecldf lexibank_tlopo.py --glottolog-version v5.3
 ```
 
 Validate it:
