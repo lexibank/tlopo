@@ -118,9 +118,9 @@ Canberra, 4th September 2008
 
 1 Introduction
 
-Map 1: The Austronesian phylum and major language groups
+: Map 1: The Austronesian phylum and major language groups
 
-Map 2  Geographic limits of historically known Oceanic speakers and of presently documented Lapita sites (after Kirch_1997: 17, 54)
+: Map 2  Geographic limits of historically known Oceanic speakers and of presently documented Lapita sites (after Kirch_1997: 17, 54)
 
 1.1 Aims
 
@@ -420,7 +420,7 @@ we explain how we handle the rake-like structure in making reconstructions.
 
                                                                                         Introduction   7
 
-Figure 1.1: Schematic diagram showing higher-order subgroups of Austronesian languages.
+: Figure 1.1: Schematic diagram showing higher-order subgroups of Austronesian languages.
 
 
 1.3.2.2 Kinds of subgroup
@@ -448,7 +448,7 @@ replaced by POc _*molis_).
 
                                                                    Proto Oceanic
 
-Figure 1.2:  Schematic diagram showing the subgrouping of Oceanic Austronesian languages.
+: Figure 1.2:  Schematic diagram showing the subgrouping of Oceanic Austronesian languages.
 
                                                                                                Introduction     9
 
@@ -587,7 +587,7 @@ who also express reservations about its status.
 
 
 
-Map 3:   Groups of Oceanic languages used in cognate sets
+: Map 3:   Groups of Oceanic languages used in cognate sets
 
 12   Malcolm Ross, Andrew Pawley and Meredith Osmond
 
@@ -679,7 +679,7 @@ may belong to the NNG linkage, but this is uncertain (Ross 1996b). It is not sho
 and its languages do not play a crucial role in reconstruction. It is likely that the
 
 
-Map 4: Oceanic language groups in northwest Melanesia: the Admiralties and St Matthias groups and the subgroups of Western Oceanic
+: Map 4: Oceanic language groups in northwest Melanesia: the Admiralties and St Matthias groups and the subgroups of Western Oceanic
 
                                                                                    Introduction     15
 
@@ -2632,7 +2632,7 @@ conference in 2004 where an earlier version of the paper was presented.
 
 54    Bethwyn Evans
 
-Figure 3.1: The hierarchical structure of ethnobiological classifications, exemplified by Wayan Fijian
+: Figure 3.1: The hierarchical structure of ethnobiological classifications, exemplified by Wayan Fijian
 
      Not only is the hierarchical classification of flora and fauna an apparent human universal,
 but the striking similarities in ethnobiological taxonomies across different societies from
@@ -2893,7 +2893,7 @@ plants.
 
                                                                    Ethnobotanical classification       59
 
-Figure 3.2: A partial ethnobotanical taxonomy of Wayan Fijian
+: Figure 3.2: A partial ethnobotanical taxonomy of Wayan Fijian
 
 _kai_
 :   1. Wood
@@ -3089,7 +3089,7 @@ __block__
 
 62      Bethwyn Evans
 
-Figure 3.3: A partial plant taxonomy of Wayan Fijian, showing taxonomic depth of some cultivated food plants
+: Figure 3.3: A partial plant taxonomy of Wayan Fijian, showing taxonomic depth of some cultivated food plants
 
 
     As can be seen from Figure 3.2, the taxonomy of wild plants in Wayan Fijian is quite shallow,
@@ -3108,7 +3108,7 @@ pronounced curve' and _keu dū_ 'the common variety'.
 
                                                                    Ethnobotanical classification         63
 
-Figure 3.4: A partial classification of foods in Wayan Fijian
+: Figure 3.4: A partial classification of foods in Wayan Fijian
 
 
    Gardner & Pawley (1992: 15) also note other categories of plants in Wayan which cut
@@ -3141,7 +3141,7 @@ levels.
 
 
 
-Figure 3.5: A partial ethnobotanical taxonomy of Kwara'ae
+: Figure 3.5: A partial ethnobotanical taxonomy of Kwara'ae
 
                                                                  Ethnobotanical classification       65
 
@@ -3357,7 +3357,7 @@ _ʔoʔo_
 
                                                                                                     (plants)
 
-Figure 3.6: Arosi ethnobotanical classification
+: Figure 3.6: Arosi ethnobotanical classification
 
                                                                 Ethnobotanical classification     69
 
@@ -4058,7 +4058,7 @@ denoted _Abelmoschus manihot_, but also appears to have referred to the general 
 'edible greens'.
 
 
-Figure 3.7: Partial Proto Oceanic ethnobotanical classification
+: Figure 3.7: Partial Proto Oceanic ethnobotanical classification
 
 84   Bethwyn Evans
 
@@ -6277,7 +6277,7 @@ PEPn *fue 'gourd, _Lagenaria siceraria_'
                                                                        The coastal strand     133
 
 
-Figure 5.1: __Left__ _Ipomoea pes-caprae_, morning glory. __Right__ _Wedelia biflora_.
+: Figure 5.1: __Left__ _Ipomoea pes-caprae_, morning glory. __Right__ _Wedelia biflora_.
 
 
 5.3.2 _Wedelia biflora_ (syn. _Wollastonia biflora_) (Asteraceae)
@@ -6373,7 +6373,7 @@ _kelau_ '_Cordia_ sebestena', which supports the PMP reconstruction.
                                                                             The coastal strand      135
 
 
-Figure 5.2: __Left__ _Cordia subcordata_, kerosene wood: __A__, tree; __B__, small branch with flowers and
+: Figure 5.2: __Left__ _Cordia subcordata_, kerosene wood: __A__, tree; __B__, small branch with flowers and
 leaves; __C__, fruit cluster __Right__ _Hibiscus tiliaceus_, cotton wood: __D__, leaf; __E__, shoot with flower; __F__, matured
 over-ripe fruit cluster.
 
@@ -6427,7 +6427,7 @@ PWOc *nagi '_Cordia_ sp.'
 
 5.4.1.2 _Hernandia nymphaeifolia_ (syn. _Hernandia peltata_), sea hearse tree, lantern tree, B _nambirimbiri_, _napiripiri_, _bluwud_ (Hernandiaceae)
 
-Figure 5.3: _Hernandia nymphaeifolia_, sea hearse tree
+: Figure 5.3: _Hernandia nymphaeifolia_, sea hearse tree
 
 Peekel (1984: 192) describes _Hernandia nymphaeifolia_ as 'one of the most frequent beach trees' in
 New Ireland. It is a small tree with hard white wood, white flowers and spherical white fruit
@@ -6696,7 +6696,7 @@ The fruit of _Scaevola taccada_ are fleshy white oblong berries of varying size,
 
 142    Malcolm Ross
 
-Figure 5.4:   __Left__ Pemphis-acidula. __Middle__ _Scaevola taccada_. __Right__ _Thespesia populnea_.
+: Figure 5.4:   __Left__ Pemphis-acidula. __Middle__ _Scaevola taccada_. __Right__ _Thespesia populnea_.
 
 
     On Lihir the leaves are squeezed in salt water and the resultant sap is used for various
@@ -6821,7 +6821,7 @@ _Tournefortia argentea_ and _Scaevola taccada_ makes sense for two reasons: 'Fir
 environment and have the same suite of adaptations for survival. Second, in my experience
 working with healers and fisherpersons, they use the two for very similar purposes.'
 
-Figure 5.5: _Tournefortia argentea_.
+: Figure 5.5: _Tournefortia argentea_.
 
                                                                        The coastal strand    145
 
@@ -6886,7 +6886,7 @@ _Vitex rotundifolia_, a low-lying shrub less that a metre in height, growing inl
 (W. McClatchey, pers. comm.), and the two evidently form a taxon in Wayan Fijian:
 _drala ni mataðawa_ 'beach drala' but _drala kaka_ 'wild drala'.
 
-Figure 5.6: _Vitex trifolia_.
+: Figure 5.6: _Vitex trifolia_.
 
     _Vitex trifolia_ has sprays of blue-purple flowers and fruit. All parts of the plant are aromatic. On
 New Ireland the crushed leaves are used against headache. On Waya juice from the leaves is used
@@ -6950,7 +6950,7 @@ flats or in the lagoon and scare them into traps or into an area of shallow wate
 exit (Henderson & Hancock 1988:216, Hviding 2005: 101). On Lihir a potion made from _Flagellaria indica_ is
 said to impart the ability to fight well (S. Foale 2001).
 
-Figure 5.7: _Flagellaria indica_: __A__, climbing plant; __B__, leaf with tendrils; __C__; shoot with fruit; __D__, flowers.
+: Figure 5.7: _Flagellaria indica_: __A__, climbing plant; __B__, leaf with tendrils; __C__; shoot with fruit; __D__, flowers.
 
      POc _*waR[e]_ '_Flagellaria indica_' reflects PMP _*huaR_ '_Flagellaria indica_' (ACD). The
 expected POc descendant of this form is _*waR_, and this is reflected by Nduke _[a]r-ara_
@@ -7093,7 +7093,7 @@ diseases (French-Wright 1983: 157, Peekel 1984: 397, Hviding 2005: 139)
 parts of Vanuatu, where it is replaced by PNCV _*vuabu_,[17] and in the Chuukic languages of
 Micronesia, where it is replaced by a reflex of POc _*kuluR_ 'breadfruit, _Artocarpus altilis_' (Ch.9, §4).
 
-Figure 5.8: _Barringtonia asiatica_.
+: Figure 5.8: _Barringtonia asiatica_.
 
 <
 PMP *butun 'a shore tree, _Barringtonia_' (Dempwolff 1938)
@@ -7205,7 +7205,7 @@ Marovo _vi-vijolo_. However, the expected form in these languages is †_vita(ɣ
 forms must be outcomes of borrowing. The languages of the western Solomons have
 complex and ill understood borrowing histories (Ross 2010b).
 
-Figure 5.9: _Calophyllum inophyllum_: __A__, mature tree; __B__, flowering shoot; __C__, fruit cluster.
+: Figure 5.9: _Calophyllum inophyllum_: __A__, mature tree; __B__, flowering shoot; __C__, fruit cluster.
 
                                                                The coastal strand   153
 
@@ -7386,7 +7386,7 @@ heavy hard dark red-brown wood. The casuarina is used for building throughout mo
 Island Melanesia. In Kwara'ae country, clubs and axe handles are also made from it (Floyd 1954,
 Peekel 1984: 123, Kwa'ioloa & Burt 2001: 143, Whistler & Elevitch 2006b).
 
-Figure 5.10: _Casuarina equisetifolia_.
+: Figure 5.10: _Casuarina equisetifolia_.
 
     The POc term for the casuarina was _*aRu_,
 but a compound form can also be reconstructed, namely POc _*aRu-taŋis_, consisting of _*aRu_
@@ -7512,7 +7512,7 @@ _Erythrina variegata_ is the marker of the yam-planting season (ch.9, §2.1).
 
                                                                                  The coastal strand      159
 
-Figure 5.11: __Left__ _Erythrina variegata_, Indian coral tree. __Right__ _Fagraea berteroana_.
+: Figure 5.11: __Left__ _Erythrina variegata_, Indian coral tree. __Right__ _Fagraea berteroana_.
 
     Among the Nakanai _Erythrina variegata_ saplings are used to make pig spears and the leaves to
 dress wounds. It is widely used to make living fences (Floyd 1954, Arentz et al. 1989). Boiled
@@ -7762,7 +7762,7 @@ is best for largescale construction, since it cracks as it dries, and for this r
 (Kwa'ioloa & Burt 2001: 107, Hviding 2005: 129, Scales n.d.). At Marovo scrapings of the bark are an
 ingredient in many medicines.
 
-Figure 5.12: _Flueggea flexuosa_: tree and fruit-bearing shoot.
+: Figure 5.12: _Flueggea flexuosa_: tree and fruit-bearing shoot.
 
     Although the Madak reflex refers to _Falcataria moluccana_, a tree vastly different in size
 (at 60 m the tallest in the forest), Kwa'ioloa & Burt (2001: 107) perceive its leaves to be
@@ -7809,7 +7809,7 @@ on the cliffs as on the sand'. Wheatley (1992: 198) reports that it is infrequen
 southeastern tip of the New Guinea mainland) it is used in house construction (Kinch 1999).
 At Marovo it is used for firewood and for making barkcloth mallets (Hviding 2005: 151).
 
-Figure 5.13: _Guettarda speciosa_ .
+: Figure 5.13: _Guettarda speciosa_ .
 
     _Guettarda speciosa_ is sometimes labelled with the same term as the epiphyte _Fagraea berteroana_, apparently because
 both are sweet-smelling (§5.6), but the POc term for _Guettarda speciosa_ was _*pʷano_ or _*pʷano-pʷano_.
@@ -8016,7 +8016,7 @@ PPn *puka-tea '_Pisonia_ sp. or spp.' (*puka '_Pisonia_ sp.', *tea 'white')
                                                                       The coastal strand    169
 
 
-Figure 5.14: __Left__ _Pisonia grandis_: __A__, tree; __B__, shoot; __C__, flowering shoot with small leaves. Right
+: Figure 5.14: __Left__ _Pisonia grandis_: __A__, tree; __B__, shoot; __C__, flowering shoot with small leaves. Right
 _Premna corymbosa_: __A__, tree; __B__, flowering shoot with leaves .
 
 
@@ -8032,7 +8032,7 @@ Melanesia. The Nakanai also used the crushed leaves for medicinal purposes (Floy
 Hviding 2005: 188-149).
 
 
-Figure 5.15: _Pongamia pinnata_.
+: Figure 5.15: _Pongamia pinnata_.
 
      The only POc candidate for a name for _Pongamia pinnata_ is _*pesi_.
 It is clear from the glosses below that it denoted a coastal forest tree (or a taxon of such
@@ -8192,7 +8192,7 @@ species (§2.1).
 land-based forest as _Bruguiera_ species (§3.1) take over from _Rhizophora_. Depending on local
 conditions, _Ceriops tagal_ sometimes occurs between _Bruguiera_ and the landward margin.
 
-Figure 6.1: _Rhizophora apiculata_, the tall-stilted mangrove, prop-root mangrove: __A__, stilt roots
+: Figure 6.1: _Rhizophora apiculata_, the tall-stilted mangrove, prop-root mangrove: __A__, stilt roots
 and trunk; __B__, flower; __C__, leaves, fruit and hypocotyl (viviparous seedling).
 
      On the landward margin the mangrove forest becomes more diverse, forming a canopy up to 25 m
@@ -8289,7 +8289,7 @@ buttresses branch over and over again as they near the ground. Sometimes there a
 Traditionally, the fruit was rarely eaten. When it was, it was processed to remove the tannin, then
 cooked in coconut cream as a vegetable (Henderson & Hancock 1988: 105, 107, Allen & Duke 2006).
 
-Figure 6.2: _Bruguiera gymnorrhiza_, orange mangrove: __A__, tree; __B__, shoot bearing edible fruit.
+: Figure 6.2: _Bruguiera gymnorrhiza_, orange mangrove: __A__, tree; __B__, shoot bearing edible fruit.
 
     The wood of _Bruguiera gymnorrhiza_ is hard, but it is not durable in water and is therefore used only for
 internal construction, e.g. rafters. It is also used to make charcoal (Streicher 1982, Peekel 1984: 400).
@@ -8391,7 +8391,7 @@ _Cerbera_ sap was used to poison animals and people (Powell 1976, Tomlinson 1986
 reports that the fruit was eaten by suicides in the Marquesas. On Waya Island an extract of the
 bark in oil was used to exorcise demons (Gardner & Pawley 2006).
 
-Figure 6.3: _Cerbera_ odollam: bottom left, longitudinal section of fruit.
+: Figure 6.3: _Cerbera_ odollam: bottom left, longitudinal section of fruit.
 
     Two reconstructions are presented below:
 PWOc _*(p,pʷ)awa(t)_ '_Cerbera_ spp., probably _Cerbera floribunda_ and _Cerbera manghas_' and PCP _*rewa_
@@ -8480,7 +8480,7 @@ wood is very good for slow-burning firesticks and for fuel for cooking fires. On
 infusion made from the leaves is mixed with the sap of a Liliaceae species and
 used against fever (Arentz et al. 1989: 91).
 
-Figure 6.4: _Excoecaria agallocha_, milky mangrove.
+: Figure 6.4: _Excoecaria agallocha_, milky mangrove.
 
     Lynch (2004a) reconstructs PSOc _*(t,d)oto(q)_, noting, 'Final _*-o_ is overtly reflected in
 at least Lenakel and the New Caledonian languages, suggesting final _*-q_.' I reconstruct POc
@@ -8541,7 +8541,7 @@ and 4cm in diameter. Its wood is very strong when it has dried out, and is used 
 for rafters, planks and spear shafts (Peekel 1984: 374, Wheatley 1992:223-225,
 Kwa'ioloa & Burt 2001: 136, Hviding 2005: 101).
 
-Figure 6.5: _Heritiera littoralis_
+: Figure 6.5: _Heritiera littoralis_
 
     The cognate set below has few members, but they are widespread enough to support a POc
 reconstruction which entails the POc term _*qone_ 'sand, sandy beach' or _*qone-qone_ 'sandy'
@@ -8604,7 +8604,7 @@ POc *nipaq '_Nypa fruticans_' (Chowning 2001: 84)
 
 6.4.6 _Xylocarpus_ spp. (syn. _Xylocarpus obovatus_, _Carapa obovata_), puzzlenut tree (Meliaceae)
 
-Figure 6.6: _Xylocarpus granatum_, puzzlenut tree: leaves flowers and fruit.
+: Figure 6.6: _Xylocarpus granatum_, puzzlenut tree: leaves flowers and fruit.
 
 _Xylocarpus granatum_ and _Xylocarpus moluccensis_ are foreshore trees or shrubs, with a trunk 3-15 metres
 tall and up to 70cm in diameter. The wood is reddish and the old bark peels off to reveal new,
@@ -8798,7 +8798,7 @@ POc *sabakap '_Alstonia scholaris_' (Chowning 2001: 84)
 
 7.3.2 _Falcataria moluccana_ (syn. _Albizia falcataria_, _Albizia moluccana_, _Albizia falcata_, _Paraserianthes falcataria_) (Mimosaceae)
 
-Figure 7.1: _Falcataria moluccana_.
+: Figure 7.1: _Falcataria moluccana_.
 
 _Falcataria moluccana_ was until recently known as _Albizia falcataria_. Because there are items in the
 data glossed '_Albizia_ sp.' which may in fact denote _Falcataria moluccana_, the genera _Falcataria_ and
@@ -8880,7 +8880,7 @@ limited distribution. Two versions of the reconstruction are supported, _*kuRim(
 _*iRim(a,o)_. They overlap geographically, and their initial syllables may simply reflect
 different prefixes (ch.2, §7.1.2).
 
-Figure 7.2: _Octomeles sumatrana_.
+: Figure 7.2: _Octomeles sumatrana_.
 
 [5] It is absent from Henderson & Hancock (1988), Kwa'ioloa & Burt (2001) and Hviding (2005).
 
@@ -9094,7 +9094,7 @@ the Wayan form with 'breadfruit'.
 
 7.4.4 _Dracontomelon dao_ (syn. _Dracontomelon mangiferum_, _Dracontomelon edule_), New Guinea walnut, Dragon plum, TP _mon_, B _nakatambol_ (Anacardiaceae)
 
-Figure 7.3: _Dracontomelon dao_, New Guinea Walnut.
+: Figure 7.3: _Dracontomelon dao_, New Guinea Walnut.
 
 The New Guinea walnut tree, _Dracontomelon dao_, is massive, usually reaching 30-35 m, and
 occasionally 50 m, in height. It has large buttresses and above the buttresses often has a
@@ -9167,7 +9167,7 @@ PNCV *katabola '_Dracontomelon dao_' (Clark 1996)
 
 7.4.5 _Dysoxylum_ spp., stinktree, stinkwood, B _stingwud_ (Meliaceae)
                                                       
-Figure 7.4: _Dysoxylum arborescens_.
+: Figure 7.4: _Dysoxylum arborescens_.
 
 A number of _Dysoxylum_ species grow in NW Island Melanesia, ranging from the tall canopy
 tree _Dysoxylum gaudichaudianum_ (syn. _D. amooriodes_) sometimes growing to 35 m, to the sub-canopy
@@ -9282,7 +9282,7 @@ it does not tolerate shade: it grows well only where there are gaps in the canop
 
 198       Malcolm Ross
 
-Figure 7.5: __Left__ _Endospermum medullosum_, cheesewood,: __A__, tree; __B__, leaves and flowers; __C__, fruit.
+: Figure 7.5: __Left__ _Endospermum medullosum_, cheesewood,: __A__, tree; __B__, leaves and flowers; __C__, fruit.
 __Right__ _Pterocarpus indicus_, New Guinea rosewood: __A__, tree; __B__, portion ofleafwith leaflets; __C__, shoot
 with pods.
 
@@ -9474,7 +9474,7 @@ POc *qipil 'a taxon of hardwood trees including _Intsia bijuga_ and _Casuarina e
 202     Malcolm Ross
 
 
-Figure 7.6: __Left__ _Intsia bijuga_, ironwood: __A__: young tree; __B__, leaves and flowers; __C__, seed pod. Right
+: Figure 7.6: __Left__ _Intsia bijuga_, ironwood: __A__: young tree; __B__, leaves and flowers; __C__, seed pod. Right
 _Vitex cofassus_, New Guinea teak: __A__, tree; __B__, flowering stem with leaves and portion of terminal
 inflorescence; __C__, portion of fruiting inflorescence and stem.
 
@@ -9743,7 +9743,7 @@ distribution, rather than to an absence from the environment of POc speakers.
 
 208   Malcolm Ross
 
-Figure 7.7: __Left__ _Bischofia javanica_, Java cedar: __A__, tree; __B__, compound leaf; __C__, branch bearing cluster
+: Figure 7.7: __Left__ _Bischofia javanica_, Java cedar: __A__, tree; __B__, compound leaf; __C__, branch bearing cluster
 of fruit. __Right__ _Cananga odorata_, ylang-ylang: __A__, tree; __B__, leaves; __C__, flowering shoot; __D__, fruit cluster.
 
 <
@@ -9838,7 +9838,7 @@ medicinal purposes on Woodlark Island. Curiously, Muyuw people do not know the t
 from areas they frequent, but they know its nuts because birds swallow them whole, then excrete them in
 their nests, complete with the endocarp, whence they are collected.
 
-Figure 7.8: _Cryptocarya aromatica_.
+: Figure 7.8: _Cryptocarya aromatica_.
 
 <
 POc *nipus '_Cryptocarya_ sp.'
@@ -9995,7 +9995,7 @@ Wheatley 1992: 225, Kwa'ioloa & Burt 2001: 135, Hviding 2005: 115-116).
     Fewer sources mention medicinal uses: the Bola of New Britain use an infusion of the bark,
 and the leaves are used medicinally in Vanuatu (Powell 1976, Wheatley 1992: 225).
 
-Figure 7.9: _Kleinhovia hospita_: __A__, tree; __B__, shoot with a mature and an old inflorescence; __C__, leaf.
+: Figure 7.9: _Kleinhovia hospita_: __A__, tree; __B__, shoot with a mature and an old inflorescence; __C__, leaf.
 
     Most of the terms below are from NCV languages, and they present a minor puzzle.
 Lynch (2004a) divides them into two groups and makes two resemblant but seemingly irreconcilable
@@ -10249,7 +10249,7 @@ _Parinarium laurinum_. These synonyms are ignored here.
 218   Malcolm Ross
 
 
-Figure 7.10: __Left__ _Parinari_ glaberrima: __A__, tree; __B__, shoot bearing one mature and one old inflores-
+: Figure 7.10: __Left__ _Parinari_ glaberrima: __A__, tree; __B__, shoot bearing one mature and one old inflores-
 cence; __C__ and __D__, nut. __Right__ _Caryota rumphiana_: __A__, tree; __B__, leaflet; __C__, portion of inflorescence; __D__,
 fruiting inflorescence; __E__, fruit; __F__, larvae of Rhynocaphorus beetle in a rotting trunk.
 
@@ -10890,7 +10890,7 @@ __block__
                                                                           Primary rain forest      231
 
 
-Figure 7.11: __Left__ _Hornstedtia lycostoma_: __A__, plant, about 3 m high, with suckers and inflorescences;
+: Figure 7.11: __Left__ _Hornstedtia lycostoma_: __A__, plant, about 3 m high, with suckers and inflorescences;
 __B__, inflorescences; __C__, longitudinal section oflarge fruit. __Right__ _Calamus hollrungii_, rattan: __A__, leaf base
 and spikes; __B__, inflorescence; __C__, fruit; __D__, portion of leaf tip with barbs.
 
@@ -11312,7 +11312,7 @@ Henderson & Hancock 1988: 194, Kwa'ioloa & Burt 2001: 160).
 include a reflex of the prefix _*mala-_ 'like'. One would thus expect them to denote a plant that
 resembled _Commersonia bartramia_, but they apparently denote _Commersonia bartramia_ itself (ch.2, §7.1.4).
 
-Figure 8.1: _Commersonia bartramia_: __A__, tree; __B__, leaf: __C__, stem bearing leaves and flowering
+: Figure 8.1: _Commersonia bartramia_: __A__, tree; __B__, leaf: __C__, stem bearing leaves and flowering
 shoot; __D__, ageing mature fruit.
 
 <
@@ -11410,7 +11410,7 @@ found where the habitat is more open and often in garden regrowth or secondary f
 Peekel 1984:305-207, Henderson & Hancock 1988: 196-197, Wheatley 1992:99-101, Kwa'ioloa & Burt 2001: 147,
 Hviding 2005: 109, 148).
 
-Figure 8.2: _Macaranga_ tanarius.
+: Figure 8.2: _Macaranga_ tanarius.
 
     From the Bismarcks to Vanuatu much the same uses are reported for _Macaranga_ species. The lightweight wood is
 used for rafters, wall frames and roof battens where better timber is not available, and for
@@ -11612,7 +11612,7 @@ food in the form of the grubs of a caterpillar that feeds on it (Kwa'ioloa & Bur
 Hanover (immediately to the north of New Ireland) the young shoots are eaten by women to induce
 abortion and used for a variety of medicinal purposes (Holdsworth et al. 1982)
 
-Figure 8.3: _Rhus taitensis_: __A__, tree; __B__, stem bearing leaves; __C__, branch bearing fruit.
+: Figure 8.3: _Rhus taitensis_: __A__, tree; __B__, stem bearing leaves; __C__, branch bearing fruit.
 
     The premier uses of _Rhus taitensis_, however, all have to do with producing black colouring
 materials. In Marovo pandanus leaves are stained black by boiling them in a mixture that includes pounded
@@ -11694,7 +11694,7 @@ POc *droRu(ŋ) '_Trema orientalis_'
 
 8.2.9 _Trichospermum_ spp. (syn. Althoffia, Grewia) (Tiliaceae)
 
-Figure 8.4: _Trichospermum richii_.
+: Figure 8.4: _Trichospermum richii_.
 
 Peekel records two species of _Trichospermum_ in New Ireland, _Trichospermum peekelii_ (syn. T. fauroensis,
 _Trichospermum psilocladum_) in the north and _Trichospermum pleiostigma_ (syn. _T. quadrivale_, Althoffia tetrapyxis) in the
@@ -11780,7 +11780,7 @@ POc *(quta)quta 'grass and weeds (generic)'
 
 250   Malcolm Ross
 
-Figure 8.5: __Left__ _Paspalum conjugatum_. Middle _Imperata cylindrica_, sword grass. __Right__ Coix
+: Figure 8.5: __Left__ _Paspalum conjugatum_. Middle _Imperata cylindrica_, sword grass. __Right__ Coix
 lacryma-jobi, Job's tears.
 
    In PROc, _*mʷanaya_, another apparently generic term for grass occurred.
@@ -12169,8 +12169,7 @@ and small-island habitats.
 implies that it was consumed by POc speakers, even though it is today cultivated only as a
 marginal crop and only in certain parts of New Guinea.
 
-     The visible differences between _Dioscorea alata_, _Dioscorea esculenta_ and _Dioscorea bulbifera_ are shown in
-Figure 9.1.
+     The visible differences between _Dioscorea alata_, _Dioscorea esculenta_ and _Dioscorea bulbifera_ are shown in Figure 9.1.
 
 9.2.1.2 _Dioscorea alata_, greater yam, water yam, winged yam, TP _yam_, P _iam_ (Dioscoreaceae)
 
@@ -12198,11 +12197,11 @@ yams in the 1950s, and Nakanai speakers remembered having done so until recently
 
                                                                           Staple foods   259
 
-Figure 9.1: Growth habit of three yam (_Dioscorea_) species
+: Figure 9.1: Growth habit of three yam (_Dioscorea_) species
 
 260   Malcolm Ross
 
-Figure 9.2: Yam (_Dioscorea alata_) tuber shapes
+: Figure 9.2: Yam (_Dioscorea alata_) tuber shapes
 
     The most widely reflected term for _Dioscorea alata_ is POc _*qupi_, which is also widely reflected
 in a second sense as the generic term for yams.
@@ -12583,7 +12582,7 @@ POc *mʷapo(q) 'taro, _Colocasia esculenta_' (Milke 1968: _*mʷao_)
 
 268   Malcolm Ross
 
-Figure 9.3: Taro (Araceae) genera and Amorphophallus: growth habit
+: Figure 9.3: Taro (Araceae) genera and Amorphophallus: growth habit
 
 <
 PSOc *bʷeta 'taro, _Colocasia esculenta_' (Lynch 2004a)
@@ -12894,7 +12893,7 @@ Nauru _(da)mag-mag_, Proto Western Micronesian _*mʷaku-mʷaku_ 'arrowroot, _Tac
 9.2.3.3 _Pueraria lobata_ (syn. _P. novo-guineensis_, _Pueraria thunbergiana_, _Pueraria triloba_, _Pueraria hirsuta_, _P. neo-caledonica_, _Pachyrrhizus trilobus_, _Pueraria montanus_, P. _Dolichos hirsutus_, _Dolichos tuberosus_, _Dolichos lobatus_) (Fabaceae)
 
 
-Figure 9.4: Tuber and plant parts of _Pueraria lobata_
+: Figure 9.4: Tuber and plant parts of _Pueraria lobata_
 
 Pueraria species are half-woody lianas, 3-5m high, with stems covered in hairs, brown on
 older parts, rust-yellow to white on younger. The bast is used to make yam for rope, fishing
@@ -12992,7 +12991,7 @@ Guinea is home to many highly diverse diploid AA cultivars makes it the probable
 domestication. Wild Callimusa species are confined to a region stretching from Halmahera to the
 Solomons, indicating that NW Melanesia was the region where Callimusa bananas were also first domesticated.
 
-Figure 9.5: Traditional (diploid) banana plant
+: Figure 9.5: Traditional (diploid) banana plant
 
 J. Kennedy (2008) points out that all bananas
 east of the Solomons were carried there by settlers. These belong to three distinct lineages.
@@ -13182,7 +13181,7 @@ _baba_ is a regular reflex of POc _*baRa-baRa_ (ch.4, §2.2).
 
 9.4 _Artocarpus altilis_ (syn. _Artocarpus communis_, _Artocarpus incisus_), breadfruit, TP _kapiak_, P _beletiutu_ (Moraceae)
 
-Figure 9.6: Fruit, leaves and sections of breadfruit, _Artocarpus altilis_
+: Figure 9.6: Fruit, leaves and sections of breadfruit, _Artocarpus altilis_
 
 
 Breadfruit trees grow throughout the Oceanic-speaking region, except for New Zealand and
@@ -13538,7 +13537,7 @@ but other sources view them as markedly separate species.
 
                                                                                   Staple foods   287
 
-Figure 9.7: Extracting the starch from a sago trunk
+: Figure 9.7: Extracting the starch from a sago trunk
 
     It is probably true to say that in Oceanic-speaking communities sago is only a staple where
 a marshy environment causes other staples to be in short supply. Except at locations in the
@@ -13692,7 +13691,7 @@ sap obtained by cutting a notch in the bark (Beard n.d.); on Santa Ana (Solomons
 of a scraped fruit. In the Reefs a bark preparation is used to treat a stomach ailment
 (Henderson & Hancock 1988: 140).
 
-Figure 9.8: _Cycas rumphii_: __A__, plant with fronds removed to show fruit; __B__, apex of leaf
+: Figure 9.8: _Cycas rumphii_: __A__, plant with fronds removed to show fruit; __B__, apex of leaf
 wiili leaflets; __C__, fruit; __D__, single fruit, longitudinal section.
 
     Barrau's assertion that _Cycas rumphii_ played an important role in earlier Oceanic cultures
@@ -13861,7 +13860,7 @@ difficulties in tying the glosses of some reconstructions down to particular spe
 
 10.2.1 _Abelmoschus manihot_ (syn. _Hibiscus manihot_), slippety cabbage, bush cabbage, island cabbage, TP _aibika_, P _slipari kabis_, B _kabis aelan_ (Malvaceae)
 
-Figure 10.1: _Abelmoschus manihot_: __A__, plant (height 1.5 m); __B__, stem with leaf (edible) and flower
+: Figure 10.1: _Abelmoschus manihot_: __A__, plant (height 1.5 m); __B__, stem with leaf (edible) and flower
 bud; __C__, flower; __D__, varieties displayed to show the diversity in leaf shape.
 
 _Abelmoschus manihot_ is a low, many-branched tree-like shrub, seemingly present in every
@@ -13969,7 +13968,7 @@ probably only _Amaranthus tricolor_, an ancient introduction from SE Asia, was p
 mostly Central and South American domesticates, have been introduced by Europeans since 1870
 (Bourke forthcoming, Bourke & Allen forthcoming).
 
-Figure 10.2: Aramanthus tricolor, Chinese spinach
+: Figure 10.2: Aramanthus tricolor, Chinese spinach
 
     _Amaranthus tricolor_ is grown from seed in mixed gardens and gathered whole after 1-2 months growth.
 Some plants are left to go to seed, and the seeds stored for planting. The spinach-like leaves are,
@@ -14004,7 +14003,7 @@ appears to dislike salt spray (Manner & Elevitch 2006a). Peekel (1984: 37) descr
 'cultivated tree' and Kennedy & Clarke (2004) mention it in their list of species that are subject to
 arboriculture.
 
-Figure 10.3: _Gnetum gnemon_: __A__, tree; __B__, fruiting branch with edible young leaves and
+: Figure 10.3: _Gnetum gnemon_: __A__, tree; __B__, fruiting branch with edible young leaves and
 fruit; __C__, mature edible fruit; __D__, flowering branch with edible flower.
 
     On New Britain and Manus and in the Siassi Islands the bark fibre of _Gnetum gnemon_ is reported
@@ -14042,7 +14041,7 @@ _Polyscias macgillivrayi_ and _Polyscias verticillata_, and Henderson & Hancock 
 the first for the Solomons (Figure 10.4). They comment that the greens have 'a pleasant mild
 "curry" taste'.
 
-Figure 10.4: _Polyscias_ species: __A__, _Polyscias scutellaria_, young shoot with small portion of inflorescence; __B__,
+: Figure 10.4: _Polyscias_ species: __A__, _Polyscias scutellaria_, young shoot with small portion of inflorescence; __B__,
 terminal portion of inflorescence; __C__, _Polyscias verticillata_: flowering shoot and leaf; __D__, _Polyscias fruticosa_: leaflet;
 __E__ and __F__, leaflets of two other _Polyscias_ species.
 
@@ -14166,7 +14165,7 @@ i.e. 30--40 em long, and usually grows in clumps up to two or three
 metres in height. In Papua New Guinea it is cultivated in
 gardens up to an altitude of 1800 m. It is also grown in the Solomons, Vanuatu and Fiji.
 
-Figure 10.5: _Saccharum edule_: __A__, stand of plants; __B__, swollen tips ready for
+: Figure 10.5: _Saccharum edule_: __A__, stand of plants; __B__, swollen tips ready for
 market (ca 50cm long); __C__, stem with suckers; __D__, semi-mature edible inflorescence.
 
      It is possible that Far East Manggarai, Kepo, Waerana, Razong, Rembong (all CMP) _tebor_ 'Saccharum sp.'
@@ -14407,7 +14406,7 @@ cf. also:
 306    Malcolm Ross
 
 
-Figure 10.6: __Left__ _Ficus copiosa_: __A__, tree; __B__, shoot with leaves; __C__, leaf; __D__, figs on trunk. __Right__ _Ficus_
+: Figure 10.6: __Left__ _Ficus copiosa_: __A__, tree; __B__, shoot with leaves; __C__, leaf; __D__, figs on trunk. __Right__ _Ficus_
 wassa: __A__, tree; __B__, shoot showing leaf arrangement and figs on stem; __C__, young shoot with edible leaves;
 __D__, fruit on lower branch.
 
@@ -14705,7 +14704,7 @@ by almost a third of the rural population (Bourke & Allen forthcoming).
 
                                                                               Nut and fruit trees        313
 
-Figure 11.1: __Left__ _Canarium indicum_: __A__, tree; __B__, portion of leaf showing terminal four leaflets;
+: Figure 11.1: __Left__ _Canarium indicum_: __A__, tree; __B__, portion of leaf showing terminal four leaflets;
 __C__, portion of branch showing large stipules (leaflike appendages at base of leaf stalk); __D__, immature
 inflorescence; __E__, cluster of fruit.; __F__, opened pericarp (exocarp + mesocarp + endocarp); __G__, opened
 shell/endocarp; __H__, edible kernel. __Right__ Parts of the _Canarium indicum_ fruit
@@ -14918,7 +14917,7 @@ chestnut' ), Niuean _fua-ifi_ 'kidney' (lit. 'fruit of Tahitian chestnut').
 
 11.2.2 _Inocarpus fagifer_, Tahitian chestnut, Pacific chestnut, Polynesian chestnut, TP _aila_, B _namambe_ (Fabaceae)
 
-Figure 11.2: _Inocarpus fagifer_, Tahitian chestnut: __A__, tree; __B__, portion of branch bearing fruit; __C__, inflorescence.
+: Figure 11.2: _Inocarpus fagifer_, Tahitian chestnut: __A__, tree; __B__, portion of branch bearing fruit; __C__, inflorescence.
 
 _Inocarpus fagifer_ is a common second storey tree of the foreshore or lowland forest, reaching 15-30 m in
 height in the Bismarcks but shorter on islands further east. Its trunk is straight and fluted (Figure 11.2). Its
@@ -15045,7 +15044,7 @@ could be found.
 
 320   Malcolm Ross
 
-Figure 11.3: _Barringtonia edulis_, cut nut: __A__, tree; __B__, flowering shoot; __C__, flower; __D__, portion of string
+: Figure 11.3: _Barringtonia edulis_, cut nut: __A__, tree; __B__, flowering shoot; __C__, flower; __D__, portion of string
 of fruit; __E__, longitudinal section of ripe fruit and edible kernel (from Henderson & Hancock 1988: 62),
 __F__, detailed longitudinal section of fruit; __G__, transverse section of fruit.
 
@@ -15172,7 +15171,7 @@ __formgroup__
 
                                                                                  Nut and fruit trees      323
 
-Figure 11.4: _Terminalia catappa_, sea almond: __Left__ __A__, tree; __B__, shoot bearing fruit; __C__, flowering
+: Figure 11.4: _Terminalia catappa_, sea almond: __Left__ __A__, tree; __B__, shoot bearing fruit; __C__, flowering
 shoot; __D__, fruit with edible kernel (from Henderson & Hancock 1988: 71). __Right__ Parts of fruit: __E__,
 longitudinal section.
 
@@ -15504,7 +15503,7 @@ _kilay_ '_Pandanus_ sp.' (Madulid 2001a: 373).
 330   Malcolm Ross
 
 
-Figure 11.5: __Left__ _Pandanus tectorius_: __A__, tree at its tallest; __B__, young plant when leaves harvested;
+: Figure 11.5: __Left__ _Pandanus tectorius_: __A__, tree at its tallest; __B__, young plant when leaves harvested;
 __C__, end portion of leaf (no thorns); __D__, portion of surface of syncarp; __E__, longitudinal section of fruit
 segment. __Right__ _Pandanus dubius_: __F__, tree, height 3m; __G__, syncarp from above; __H__, longitudinal section
 of fruit segment with edible kernel; __J__, leaf tip showing curved spike.
@@ -15593,7 +15592,7 @@ pulp and seeds are removed from the core, mashed with water and strained to prod
 a thick, rich red sauce with which other foods are seasoned (Sorensen 1950, Barrau 1962: 163,
 May 1984, Bourke in preparation).
 
-Figure 11.6: _Pandanus conoideus_, marita: __A__, syncarp.
+: Figure 11.6: _Pandanus conoideus_, marita: __A__, syncarp.
 
     POc _*mʷafia_ apparently denoted _Pandanus conoideus_.[21] This reconstruction is
 open to doubt, as there are no reflexes from New Ireland or New Britain, where the
@@ -15770,7 +15769,7 @@ glucosides and is poisonous, but the fruit of cultivated trees is edible
 yellow mesocarp and green skin. It contains a number of red-brown seeds, each in its own very
 hard case, surrounded by a soft yellow strong-smelling pulp (French 1986: 193, Evans 1999: 19).
 
-Figure 11.7: _Pangium edule_
+: Figure 11.7: _Pangium edule_
 
 
 336   Malcolm Ross
@@ -15850,7 +15849,7 @@ spp.', is inferred from the glosses of Blust's supporting data. Species of _Burc
 _Palaquium_ and perhaps other genera seem to have been included in a single taxon throughout
 Oceanic history (see the discussion associated with PCP *bau 'hardwood taxon' in ch.7, §4.10).
 
-Figure 11.8: _Burckella obovata_: __A__, tree; __B__, flowering shoot; __C__, shoot bearing fruit; __D__, old seed.
+: Figure 11.8: _Burckella obovata_: __A__, tree; __B__, flowering shoot; __C__, shoot bearing fruit; __D__, old seed.
 
 <
 PMP *ñatuq 'a hardwood tree taxon, including at least _Palaquium_ spp.' (Blust 1978b:38-39)
@@ -16182,7 +16181,7 @@ PCP *tawa '_Pometia pinnata_'
 344     Malcolm Ross
 
 
-Figure 11.9: __Left__ _Pometia pinnata_, island lychee: __A__, young tree; __B__, shoot and edible fruit; __C__,
+: Figure 11.9: __Left__ _Pometia pinnata_, island lychee: __A__, young tree; __B__, shoot and edible fruit; __C__,
 inflorescence. __Right__ _Spondias cytherea_, golden apple: __D__, young tree; __E__, shoot with leaves, leaflets and a
 cluster of edible fruit.
 
@@ -16356,7 +16355,7 @@ Many _Syzygium_ species which occur in the Pacific have edible fruit. The most i
 _Syzygium malaccense_, which is distributed from SE Asia to Polynesia, but Peekel (1984: 408-415) and
 Walter & Sam (2002: 251-252) list numerous species which occur in NW Island Melanesia.
 
-Figure 11.10: _Syzygium malaccense_: __A__, tree; __B__, shoot; __C__, branch with opened and unopened
+: Figure 11.10: _Syzygium malaccense_: __A__, tree; __B__, shoot; __C__, branch with opened and unopened
 flowers; __D__, edible fruit.
 
     _Syzygium malaccense_ is an erect tree of medium height, 5-25 m tall, with spectacular white or
@@ -16537,7 +16536,7 @@ as useful.
 352    Malcolm Ross
 
 
-Figure 11.11: __Left__ _Parartocarpus venenosa_: __A__, young tree; __B__, branch bearing shoot, male flower
+: Figure 11.11: __Left__ _Parartocarpus venenosa_: __A__, young tree; __B__, branch bearing shoot, male flower
 and edible fruit; __C__, seed. __Right__ _Finschia chloroxantha_: __D__, tree with stilt roots; __E__, flowering shoot; __F__,
 fruit cluster.
 
@@ -17225,7 +17224,7 @@ as _vu ni niu_ and _vua ni niu_ and in Tongan as _fuʔu ni niu_ and _foʔi niu_ 
 
                                                                                           Coconuts      369
 
-Figure 12.1: Parts of a coconut
+: Figure 12.1: Parts of a coconut
 
 In traditional times a palm bore between 5 and 30 coconuts a year, depending
 on the palm's age.[12] The usable parts of a coconut are related to its growth stages. At
@@ -17727,7 +17726,7 @@ produce boat-shaped bowls.
 
                                                                                 Coconuts     3 79
 
-Figure 12.2: Parts of a coconut palm
+: Figure 12.2: Parts of a coconut palm
 
 
    Some parts of the palm are labelled with terms that are used for parts of plants in general.
@@ -18043,7 +18042,7 @@ POc *Runut 'sheath around base of coconut frond, used as strainer' (Ross 1996d: 
 
 12.5.3 The spathe, the inflorescence and the spadix
 
-Figure 12.3: Coconut blossom and spathe), Flower bunch (inflorescence)
+: Figure 12.3: Coconut blossom and spathe), Flower bunch (inflorescence)
 
 There was perhaps no separate term in most Oceanic languages for the inflorescence of the
 coconut. Some languages do have separate noncognate terms for coconut blossoms, e.g.
@@ -18234,7 +18233,7 @@ fruit consists of a seed enclosed in a thin green skin and a hard fibrous perica
 392    Malcolm Ross
 
 
-Figure 13.1: Left: _Areca catechu_, betelnut: __A__, tree; __B__, portion of inflorescence; __C__, portion of fruit
+: Figure 13.1: Left: _Areca catechu_, betelnut: __A__, tree; __B__, portion of inflorescence; __C__, portion of fruit
 cluster; __D__, fruit: longitudinal section showing fibrous exocarp and inner chewed 'nut'. Right:
 _Piper betle_: __E__, plant; __F__, __G__, __H__, flowering shoots of three varieties.
 
@@ -18387,7 +18386,7 @@ cf. also:
 13.2.2.3 _Piper methysticum_, kava (Piperaceae)
 
 
-Figure 13.2: Leaves, stem and plant habit of kava, _Piper methysticum_
+: Figure 13.2: Leaves, stem and plant habit of kava, _Piper methysticum_
 
 The kava plant, _Piper methysticum_, is a many
 branching plant with rounded green leaves. The plant is grown, usually near houses, exclusively
@@ -18578,7 +18577,7 @@ creeper. It has very short internode lengths and small, narrow leaves
 _Schizostachyum_, but the third _Nastus_ species is considered by the Kwara'ae to be useless
 (Henderson & Hancock 1988: 176, 199-201, Kwa'ioloa & Burt 2001:200--202, Hviding 2005: 112).
 
-Figure 13.3: _Nastus obtusus_
+: Figure 13.3: _Nastus obtusus_
 
      The term reconstructed as _*qauR_ 'bamboo spp.' below was probably the generic term for
 bamboos of the three genera mentioned above, as it still is in some modern languages. In Tolai,
@@ -18808,7 +18807,7 @@ by roasting (Henty 1982, Walter & Sam 2002: 87).
 people protect new seedlings (Walter & Sam 2002: 88). In Fiji the tree occurs close to villages
 but not in the wild, implying that it is planted.
 
-Figure 13.4: _Aleurites moluccana_: __A__, tree; __B__, leaves and inflorescence; __C__, whole fruit;
+: Figure 13.4: _Aleurites moluccana_: __A__, tree; __B__, leaves and inflorescence; __C__, whole fruit;
 __D__, kernel (candlenut).
 
      The candlenut owes its name to the fact that in earlier times the nuts were threaded onto the
@@ -18867,7 +18866,7 @@ However, the glosses of the items listed below suggest
 fairly strongly that speakers of Oceanic languages in widely separated New Guinea locations were
 using _Broussonetia papyrifera_ to make bark cloth at European contact.
 
-Figure 13.5: _Broussonetia papyrifera_, paper mulberry
+: Figure 13.5: _Broussonetia papyrifera_, paper mulberry
 
      POc _*malo_ probably denoted _Broussonetia papyrifera_, the tree which throughout much of the Pacific
 provides the bast from which barkcloth is made. If this is so, then _Broussonetia papyrifera_ must have been
@@ -18950,7 +18949,7 @@ or consumed for medicinal reasons (Henderson & Hancock 1988:54, French 1986: 272
                                                                      Other cultivated plants    407
 
 
-Figure 13.6: __Left__ _Morinda citrifolia_, Indian mUtlberry: __A__, mature tree; __B__, shoot bearing leaves, fruit
+: Figure 13.6: __Left__ _Morinda citrifolia_, Indian mUtlberry: __A__, mature tree; __B__, shoot bearing leaves, fruit
 and flowers. __Right__ _Derris_ species: __A__, climbing plant; __B__, base of mature vine; __C__, woody vine stem; __D__,
 vine with leaves and pods; __E__, stem with inflorescence; __F__, immature leaf.
 
@@ -19196,7 +19195,7 @@ gardens, and in both Marovo and Kwara'ae the roots are chewed and spat out of th
 the house to fend off evil spirits (Hviding 2005: 131). The Kwara'ae also chew it both with betelnut
 and alone, the latter both as a snack and medicinally.
 
-Figure 13.7     _Curcuma longa_
+: Figure 13.7:     _Curcuma longa_
 
     There are two reconstructions, POc _*yaŋo_ and PEOc _*re(ŋ,ŋʷ)a_. There is some evidence in
 the glosses of reflexes that the latter meant yellow material, including prepared turmeric and
@@ -19333,7 +19332,7 @@ and it is impossible to work out which uses are attributed to which plant.
                                                                   Other cultivated plants   415
 
 
-                              Figure 13.8   _Codiaeum variegatum_
+: Figure 13.8:   _Codiaeum variegatum_
 
 
 <
@@ -19393,7 +19392,7 @@ flowers, cooked with leaves of _Gnetum gnemon_ (ch.10, §2.3) (Margetts 2005b). 
 add them to the cooking pot (A. Chowning, pers. comm.). _Cordyline fruticosa_ is used for plot markers,
 and tuberous root as an item of clothing, and as a warning to thieves (Bourke 1982).
 
- Figure 13.9 _Cordyline fruticosa_: plant
+: Figure 13.9: _Cordyline fruticosa_: plant
 
     Leaves of C.fruticosa are worn by dancers in New Britain (Arentz et al. 1989: 94). Bourke
 comments on the spiritual significance of C.fruticosa in some Papua New Guinea societies.
@@ -19651,7 +19650,7 @@ PEOc *rako '_Heliconia_ sp., usually _Heliconia indica_' (Lynch 2004a: PSOc _*ra
 13.6.6 _Crinum asiaticum_, spider lily (Amatyllidaceae)
 
 _Crinum asiaticum_ is a large lily with long erect leaves that are arranged in a spiral rosette
-to form impressive clumps up to 1.5 m in height and 2 m wide (Figure 13 .10, right). The
+to form impressive clumps up to 1.5 m in height and 2 m wide (Figure 13.10, right). The
 leaves may be a metre long and 10cm wide. They emerge from huge bulbs that may weigh
 as much as 9 kg. Its white flowers, with thick succulent stems, are shaped like tubes that flair
 open into a crown of narrow petals.[22] Hviding (2005: 103) distinguishes between _Crinum asiaticum_,
@@ -19667,8 +19666,7 @@ as _H. bihai_, an American species.
 422   Malcolm Ross
 
 
-Figure 13.10: Left: _Heliconia_ solomonensis: __A__, plant; __B__, mature inflorescence, open and showing
-fruit. Right: _Crinum asiaticum_, spider lily.
+: Figure 13.10: Left: _Heliconia_ solomonensis: __A__, plant; __B__, mature inflorescence, open and showing fruit. Right: _Crinum asiaticum_, spider lily.
 
 
     At Tinputz (Bougainville) the pounded roots of this plant were mixed with red iron oxide

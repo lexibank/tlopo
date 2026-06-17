@@ -4,7 +4,7 @@
 
 1               Introduction
 
-Map 1: The Austronesian phylum and major language groups
+: Map 1: The Austronesian phylum and major language groups
 
 1.1 Aims
 
@@ -73,7 +73,7 @@ is a strong school of opinion that associates the subsequent break-up of POc wit
 colonisation of Island Melanesia and the central Pacific by bearers of the Lapita culture
 between about 1500 and 1000 BC (see Map 2 and Chapter 2).
 
-Map 2: Geographic limits of historically known Oceanic speakers and of presently documented Lapita sites (after Kirch_1997: 17, 54)
+: Map 2: Geographic limits of historically known Oceanic speakers and of presently documented Lapita sites (after Kirch_1997: 17, 54)
 
    The present project aims to bring together a large corpus of lexical reconstructions for
 POc, with supporting cognate sets, organised according to semantic fields and using a
@@ -312,11 +312,11 @@ supporting evidence in subsequent publications (Blust 1978a, 1982, 1983–84b, 1
 
                                                                                       Introduction     7
 
-Figure 1: Schematic diagram of the diversification of Austronesian languages (see the text with regard to its interpretation) Note: Italics are used to indicate a group of languages or a language which have noexclusively shared common ancestor. Thus Formosan languages indicates a collection of languages descended (along with Proto Malayo-Polynesian) from Proto Austronesian. It is assumed that there was no ‘Proto Formosan’.
+: Figure 1: Schematic diagram of the diversification of Austronesian languages (see the text with regard to its interpretation) Note: Italics are used to indicate a group of languages or a language which have noexclusively shared common ancestor. Thus Formosan languages indicates a collection of languages descended (along with Proto Malayo-Polynesian) from Proto Austronesian. It is assumed that there was no ‘Proto Formosan’.
 
 8   Malcolm Ross, Andrew Pawley and Meredith Osmond
 
-Map 3: Higher-order supgroups of Oceanic languages used in this work for the purposes of reconstruction.
+: Map 3: Higher-order supgroups of Oceanic languages used in this work for the purposes of reconstruction.
 
                                                                                           Introduction       9
 
@@ -430,7 +430,7 @@ given language belongs.
 
 Introduction   11
 
-Map 4: Groups of Oceanic languages in north-west Melanesia: the Admiralties and St Matthias groups and the subgroups of Western Oceanic
+: Map 4: Groups of Oceanic languages in north-west Melanesia: the Admiralties and St Matthias groups and the subgroups of Western Oceanic
 
 12   Malcolm Ross, Andrew Pawley and Meredith Osmond
 
@@ -775,7 +775,7 @@ flora distribution. Roger Green (1991a: 495) notes that:
 show a much richer diversty of fish, molluscs, echinoderms, crustacea, seaweeds, and
 other edible life than those of Remote Oceanic.
 
-Map 5: Major biogeographic regions of Island SE Asia and the Pacific: Sundaland, Wallacea, Near Oceania and Remote Oceania
+: Map 5: Major biogeographic regions of Island SE Asia and the Pacific: Sundaland, Wallacea, Near Oceania and Remote Oceania
 
 20   Andrew Pawley
 
@@ -943,7 +943,7 @@ member of Oceanic (Ross 1996a).
 
 Locating Proto Oceanic   23
 
-Map 6: Lapita sites in the south-west Pacific (after Spriggs 1995: 113)
+: Map 6: Lapita sites in the south-west Pacific (after Spriggs 1995: 113)
 
 24    Andrew Pawley
 
@@ -1381,7 +1381,7 @@ rare, although New Britain has a number, including several crater lakes.
 
 32   Andrew Pawley
 
-Map 7: The Bismarck Archipelago, Bougainville and the adjacent coast of New Guinea
+: Map 7: The Bismarck Archipelago, Bougainville and the adjacent coast of New Guinea
 
                                                                Locating Proto Oceanic      33
 
@@ -1520,7 +1520,7 @@ which Marovo people belong. _Puava_ has both a restricted sense, ‘soil, ground
 general one, the latter encompassing the total ancestral estate, reaching ‘from the peaks and
 ridges of the mainland upper mountains to the open sea outside the barrier reef’ (p.137).
 
-Figure 2: Marovo coastal profile (reproduced from Hviding_1996:138 with the permission of the University of Hawai’i Press)
+: Figure 2: Marovo coastal profile (reproduced from Hviding_1996:138 with the permission of the University of Hawai’i Press)
 
    The next two examples are from Malaita in the Southeast Solomons. Walter Ivens
 writes about the salt-water people of Lau and Sa’a, two environments not unlike the
@@ -1645,7 +1645,7 @@ Evidence supporting final _*-q_ lies in the retention of a final vowel in Kwamer
                                          The landscape   39
 
 
-Map 8: Tikopia (after Firth_1936:xxii)
+: Map 8: Tikopia (after Firth_1936:xxii)
 
 40   Meredith Osmond, Andrew Pawley and Malcolm Ross
 
@@ -3779,7 +3779,7 @@ PNCV *banoi ‘volcano, volcanic ash’ (Clark 1996)
 
 82   Meredith Osmond, Andrew Pawley and Malcolm Ross
 
-Map 9: Active volcanoes and earthquake areas in the south-west Pacific (after Brookfield and Hart_1971: 33)
+: Map 9: Active volcanoes and earthquake areas in the south-west Pacific (after Brookfield and Hart_1971: 33)
 
                                                                           The landscape     83
 
@@ -4996,7 +4996,7 @@ tropical Pacific. Reef systems can be loosely classified into atolls, fringing r
 border shores, and barrier reefs which are some distance offshore. Although many atolls
 are in fact islands, some consist only of reef.
 
-Figure 3: Reef forms
+: Figure 3: Reef forms
 
    Coral reefs generally have a number of features in common, as shown in Figure 3.
 These include a windward slope, with often a steep drop to the ocean floor on the seaward
@@ -5133,7 +5133,7 @@ barrier reef fronts (_mataʔuluʔulu_) and the open ocean (_moana_). The reef fl
 are further divided into leeward and windward zones, although Dye gives the local name
 only for the windward reef flat, _lafo-lafo_.
 
-Figure 4: Tikopia reef profile (Firth 1985:613, reproduced with permission)
+: Figure 4: Tikopia reef profile (Firth 1985:613, reproduced with permission)
 
    Although we can be confident that there were Proto Oceanic names for various reef
 zones, we have reconstructions only at lower levels. PPn _*tuqa-hakau_ (from _*tuqa_ ‘back’
@@ -5475,11 +5475,11 @@ colloquially ‘the Doldrums’.
 
 120   Malcolm Ross
 
-Map 10: Prevailing winds in the Indian and Pacific Oceans during the southern hemisphere winter (July)
+: Map 10: Prevailing winds in the Indian and Pacific Oceans during the southern hemisphere winter (July)
 
 Meteorological phenomena   121
 
-Map 11: Prevailing winds in the Indian and Pacific Oceans during the southern hemisphere summer (January)
+: Map 11: Prevailing winds in the Indian and Pacific Oceans during the southern hemisphere summer (January)
 
 122     Malcolm Ross
 
@@ -12975,14 +12975,14 @@ Polynesian languages apparently produced _*fē_ as an alternant to _*fea_ (< _*p
 The forms are listed below. Where a reconstruction is preceded by a question mark, the
 forms beneath it may be the result of parallel developments.
 
-__formgroup__
+<
 POc (?) (N LOC) *pea ‘where at?’
  Adm: Mussau            bea         ‘where?’
 PNCV (?) (ADV) *vea, *bea
  NCV: Mota              vea         ‘where?’
  NCV: Kiai              vea         ‘where?’
  NCV: Tamambo           (a)bea      ‘where?’
-PPn (ADV) *[i] fea ‘where at?’
+PPn (ADV) *|[i] fea| ‘where at?’
  Pn:  Tongan            fē          ‘where?’
  Pn:  Niuean            fē          ‘where?’
  Pn:  Samoan            fea         ‘where?’
@@ -12997,7 +12997,7 @@ PPn (ADV) *[i] fea ‘where at?’
  Pn:  K’marangi         hē          ‘where’
  NCV: Mae               fē          ‘where?’
  Pn:  Nukuria           ihē         ‘where?’
-POc (?) (N LOC) *[i] pia ‘where at?’
+POc (?) (N LOC) *|[i] pia| ‘where at?’
  MM:  Nehan             ia          ‘where?’
  MM:  Solos             īa          ‘where?’
  MM:  Petats            īa          ‘where?’
@@ -13008,6 +13008,7 @@ POc (?) (N LOC) *[i] pia ‘where at?’
  NCV: Port Sandwich     (a)ᵐbi      ‘where?’
  Pn:  Maori (Aupōuri)   hia         ‘where?’
  Pn:  Tahitian          hia         ‘where?’
+>
 
 266     Malcolm Ross
 

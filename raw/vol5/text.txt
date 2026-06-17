@@ -65,7 +65,7 @@ of Island Melanesia and the central Pacific by bearers of the Lapita culture bet
 
 
 
-Map 1: The Austronesian language family and major subgroups
+: Map 1: The Austronesian language family and major subgroups
 
                                                                                         Introduction 3
 
@@ -129,7 +129,7 @@ to their physical qualities, temperaments, emotions, desires and evaluations.
 
 4 Malcolm Ross, Andrew Pawley and Meredith Osmond
 
-Map 2: Geographic limits of historically known Oceanic speakers and of presently documented Lapita sites (after Kirch_1997: 17, 54 and David et al._2011)
+: Map 2: Geographic limits of historically known Oceanic speakers and of presently documented Lapita sites (after Kirch_1997: 17, 54 and David et al._2011)
 
                                                                                Introduction 5
 
@@ -332,7 +332,7 @@ Did etymon y refer to the slingshot or to the action of turning round and round?
 
                                                                                        Introduction 9
 
-Figure 1: Schematic diagram showing higher-order subgroups of Austronesian languages
+: Figure 1: Schematic diagram showing higher-order subgroups of Austronesian languages
 
 
 1.3.2 Subgrouping and reconstruction
@@ -358,7 +358,7 @@ Sections 1.3.2.2, 1.3.2.3 and 1.3.2.4 offer some commentary on our subgrouping, 
 
 10 Malcolm Ross, Andrew Pawley and Meredith Osmond
 
-Figure 2: Schematic diagram showing the subgrouping of Oceanic Austronesian languages.
+: Figure 2: Schematic diagram showing the subgrouping of Oceanic Austronesian languages.
 
                                                                                         Introduction 11
 
@@ -471,7 +471,7 @@ Clark 2009:§1.3). For arguments supporting a NCV grouping, see Clark (2009: ch.
 
 13
 
-Map 3: Groups of Oceanic languages used in cognate sets
+: Map 3: Groups of Oceanic languages used in cognate sets
 
 14 Malcolm Ross, Andrew Pawley and Meredith Osmond
 
@@ -528,7 +528,7 @@ which Pawley (1996a) lists diagnostic innovations.
 
 15
 
-Map 4: Oceanic language groups in northwest Melanesia: The Admiralties and St. Matthias groups and the subgroups of Western Oceanic
+: Map 4: Oceanic language groups in northwest Melanesia: The Admiralties and St. Matthias groups and the subgroups of Western Oceanic
 
 16 Malcolm Ross, Andrew Pawley and Meredith Osmond
 
@@ -7672,8 +7672,12 @@ PMic *pʷuto ‘navel’ (Bender et al., 2003)
   Mic: Woleaian           pʷūse             ‘navel’
   Fij:    Rotuman         pufa              ‘navel, umbilical cord’
   Fij:    Wayan           buto              ‘navel’ (_wāwā ni buto_ ‘umbilical cord’)
-cf. also:
+
+Cf. also:
+
+__formgroup__
    MM: Banoni           pocu-            ‘navel’ (reflects _*potu-_)
+
 
 154 Meredith Osmond and Malcolm Ross
 
@@ -9083,10 +9087,13 @@ __formgroup__
  PT:    Gumawana       ae-tolu-            [foot-back-]     ‘top of foot’
  PT:    Kukuya         |ae upu-     |      [foot-back-]     ‘top of foot’
  MM: Siar              |tar-un keke-|      [back foot-]     ‘top of foot’
-PPn *tuqa a waqe [back-foot] ‘top of foot’
+
+<
+PPn *|tuqa a waqe| [back-foot] ‘top of foot’
  Pn:    Tongan         |tuʔa vaʔe|          ‘top of the foot’
  Pn:    Rennellese     |tuʔā baʔe|          ‘top of foot’
  Pn:    Tikopia        |tua vae|            ‘top of foot’
+>
 
 Note that this term was distinct from POc _*[m,b]uri (w,q)aqe_ ‘heel’ (§3.6.5.2) (lit. ‘back of
 foot’). POc _*[m,b]uri_ was a relational local noun denoting the back of something (§3.1.2), but
@@ -19310,7 +19317,10 @@ __formgroup__
   Pn:  Niuean            faka-toko-tui         ‘kneel’ (_toko_ ‘supporting pole’; _tui_ ‘knee’)
   Pn:  Samoan            toʔo-tuli             ‘kneel’ (_tuli_ ‘knee’)
   Pn:  E Futunan         toko-tuli, tuʔu-tuli  ‘kneel’ (_tuʔu_ ‘stand’, _tuli_ ‘knee’)
-cf. also:
+
+Cf. also:
+
+__formgroup__
   Pn:    Tongan          tū-ulu-tui            ‘kneel’ (_tui_ ‘knee’)
 
 
@@ -27810,7 +27820,10 @@ __formgroup__
   SES: To’aba’ita     ma-mana          ‘true, real’
   SES: To’aba’ita     faʔa-mamane-     ‘believe’
   SES: Lau            ma-mana          ‘efficacious; be true, come true, be fulfilled’
-cf. also:
+
+Cf. also:
+
+__formgroup__
   SES: Gela           mae-mane         ‘correct’
 
    The set below deserves mention because of its frequent occurrence in Table 25. It is

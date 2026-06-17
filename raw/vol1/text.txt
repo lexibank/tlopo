@@ -1,7 +1,7 @@
 
 1 Introduction
 
-Map 1: The Austronesian phylum and major language groups
+:Map 1: The Austronesian phylum and major language groups
 
 1.1 Aims
 
@@ -42,7 +42,7 @@ opinion that associates the subsequent break-up of POc with the rapid colonisati
 Melanesia and the central Pacific by bearers of the Lapita culture between about 1500 and
  1000 BC (see Map 2).[3]
 
-Map 2: Geographic limits of historically known Oceanic speakers and of presently documented Lapita sites (after Kirch_1997: 17, 54)
+:Map 2: Geographic limits of historically known Oceanic speakers and of presently documented Lapita sites (after Kirch_1997: 17, 54)
 
    The present project aims to bring together a large corpus of lexical reconstructions for
 POc, together with supporting cognate sets, organised according to semantic fields and using
@@ -262,7 +262,7 @@ detail, ethnographies have proved a more fruitful source of information than man
 
 6     Malcolm Ross, Andrew Pawley and Meredith Osmond
 
-Figure 1: Schematic diagram of the diversification of Austronesian languages (see the text with regard to its interpretation) Note: Italics are used to indicate a group of languages or a language which have no exclusively shared common ancestor. Thus _Formosan languages_ indicates a collection of languages descended (along with Proto Malayo-Polynesian) from Proto Austronesian. It is assumed that there was no 'Proto Formosan'.
+:Figure 1: Schematic diagram of the diversification of Austronesian languages (see the text with regard to its interpretation) Note: Italics are used to indicate a group of languages or a language which have no exclusively shared common ancestor. Thus _Formosan languages_ indicates a collection of languages descended (along with Proto Malayo-Polynesian) from Proto Austronesian. It is assumed that there was no 'Proto Formosan'.
 
                                                                                       Introduction        7
 
@@ -323,7 +323,7 @@ inclusive than most, resembling more closely the "Central/Eastern Oceanic" set u
 Lynch and Tryon (1983). The published version of the latter (1985), presents a less inclusive
 version of Central/Eastern Oceanic.
 
-Map 3: Higher-order subgroups of Oceanic languages used in this work for the purposes of reconstruction
+:Map 3: Higher-order subgroups of Oceanic languages used in this work for the purposes of reconstruction
 
                                                                                            Introduction        9
 
@@ -377,7 +377,7 @@ subgrouping.
      grouping is used only for presentational purposes, and is not assumed to be a discrete subgroup
      within Central Pacific.
 
-Map 4: Groups of Oceanic languages in north-west Melanesia: the Admiralties and St Matthias groups and the subgroups of Western Oceanic
+:Map 4: Groups of Oceanic languages in north-west Melanesia: the Admiralties and St Matthias groups and the subgroups of Western Oceanic
 
                                                                           Introduction     11
 
@@ -1970,7 +1970,7 @@ Shutler and Marek (1975); Walter (1989); and various papers in Pawley and Ross e
 
 42 a
 
-Map 5: Lapita sites in the south-west Pacific (after Spriggs_1995: 113)
+:Map 5: Lapita sites in the south-west Pacific (after Spriggs_1995: 113)
 
                                          Architecturalforms and settlement patterns           43
 
@@ -2110,7 +2110,7 @@ _marae_ and by Green (1986: 54) for a Kwaio settlement in relation to Polynesian
 
 46       Roger Green and Andrew Pawley
 
-Figure 2: Typical Baegu (Malaita, Solomon Islands) dwelling and community layout (from Oliver_1989:335) (Baegu terms are _luma_ 'dwelling house, _lalo_ 'women's sleeping quarters', _beu_ 'men's house', _bisi_ 'menstrual hut')
+: Figure 2: Typical Baegu (Malaita, Solomon Islands) dwelling and community layout (from Oliver_1989:335) (Baegu terms are _luma_ 'dwelling house, _lalo_ 'women's sleeping quarters', _beu_ 'men's house', _bisi_ 'menstrual hut')
 
                                         Architecturalforms and settlement patterns          47
 
@@ -2399,7 +2399,7 @@ on which offerings and sacrifices to the gods were presented.
 
 52      Roger Green and Andrew Pawley
 
-Figure 3a: POc _*Rumaq_ 'house'  POc _*qatop_ 'thatch, roof', POc _*kataman_ 'doorway', POc _*tete_ 'ladder or log bridge', POc _*gabʷari_ 'area underneath house'
+: Figure 3a: POc _*Rumaq_ 'house'  POc _*qatop_ 'thatch, roof', POc _*kataman_ 'doorway', POc _*tete_ 'ladder or log bridge', POc _*gabʷari_ 'area underneath house'
 
 <
 POc *kataman 'entrance to house, doorway'
@@ -2422,7 +2422,7 @@ probably blocked off by a barricade.
                                         Architecturalforms and settlement patterns         53
 
 
-Figure 3b: POc _*Rumaq_ 'house', POc _*pupuŋ-an_ 'ridgepole', POc _*kaso_ 'rafter', POc _*aRiRi_ 'post', POc _*turu(s)_ 'post', POc _*bou_ 'main bearers supporting raised floor/roof or centre post supporting ridgepole, POc _*soko(r)_ 'bracing timber, crossbeam'
+:Figure 3b: POc _*Rumaq_ 'house', POc _*pupuŋ-an_ 'ridgepole', POc _*kaso_ 'rafter', POc _*aRiRi_ 'post', POc _*turu(s)_ 'post', POc _*bou_ 'main bearers supporting raised floor/roof or centre post supporting ridgepole, POc _*soko(r)_ 'bracing timber, crossbeam'
 
    The following group of ten cognate sets indicate that early Austronesian dwelling houses
 were built with a robust and fairly heavy superstructure, including ridgepole, thatched roof,
@@ -3121,7 +3121,7 @@ and frying pan (see Figure 4)—and we have PMP reconstructions in support of co
 POc terms. However, our cognate sets are disappointingly small. Of our reconstructions, the
 cooking pot/generic term is the most soundly based.
 
-Figure 4: Typical pot shapes (from Ross_1996c) (a) cooking pot: POc _*kuran_, POc _*bʷafja_ (b) water jar: POc _*kalala(ŋ)_, PNGOc _*bʷad(r)i_ (c) bowl: PPT _*na(q)u(q)_ (d) frying pan: POc _*palafja_
+:Figure 4: Typical pot shapes (from Ross_1996c) (a) cooking pot: POc _*kuran_, POc _*bʷafja_ (b) water jar: POc _*kalala(ŋ)_, PNGOc _*bʷad(r)i_ (c) bowl: PPT _*na(q)u(q)_ (d) frying pan: POc _*palafja_
 
 
 4.2.1.1 Cooking pot
@@ -3327,7 +3327,7 @@ POc *tabiRa 'wooden bowl'
 >
 
 
-Figure 5: POc _*tabiRa_ 'wooden bowl'
+:Figure 5: POc _*tabiRa_ 'wooden bowl'
 
 This last set could be taken to reflect a POc _**tabili_, but their formal and semantic similarity
 to reflexes of _*tabiRa_ suggests that this inference is not justified. Rather, they are probably
@@ -3422,7 +3422,7 @@ pairs were generated at the same time by the application of a single rule (or si
 to the pre-existing member of each pair.
 
 
-Figure 6: POc _*(b,bʷ)ilo_ 'coconut shell used as liquid container', POc _*lasa_,
+:Figure 6: POc _*(b,bʷ)ilo_ 'coconut shell used as liquid container', POc _*lasa_,
  POc _*ubi_/_*ibu_ 'coconut half shell-cup' __Figure 7__: POc _*kulopi_ 'cup, ladle' (from Nevermann_1934: 179)
 
 
@@ -3573,7 +3573,7 @@ POc *d(r)amut 'lime spatula'
 The final _-i_ of Mussau _ra-ramuti_ suggests that this reflects a transitive verb _*d(r)amut-i-_,
 perhaps 'add lime to a chew of betel nut'.
 
-Figure 8: POc _*d(r)amut_ 'lime spatula'
+:Figure 8: POc _*d(r)amut_ 'lime spatula'
 
 
 4.2.3 Woven containers
@@ -3667,7 +3667,7 @@ association with one of the two _*k_-initial forms above.
 
 
 
-Figure 9: Reconstructions (non-specific) include: POc _*katu(m,ŋ)_ 'basket', POc _*laka_ 'basket ', POc _*tab(w)e_ 'basket, probably small', POc _*taŋa_ 'basket or bag, small, used for personal effects' (after Koch_1986: 104 and n.d.:59)
+:Figure 9: Reconstructions (non-specific) include: POc _*katu(m,ŋ)_ 'basket', POc _*laka_ 'basket ', POc _*tab(w)e_ 'basket, probably small', POc _*taŋa_ 'basket or bag, small, used for personal effects' (after Koch_1986: 104 and n.d.:59)
 
    Biggs (1993) lists two further terms for PPn, _*taapola_ 'basket plaited from a single coconut
 frond' (from PROc _*bola_ 'coconut leaves woven together for any purpose'. See under §3.1 Mats); and _*qora_ 'fishing basket'.
@@ -4119,7 +4119,7 @@ stone.
 88 Meredith Osmond and Malcolm Ross
 
 
-Figure 10: POc _*kiRam_ 'stone adze, axe', POc _*matau_ 'axe', POc _*taku_, POc _*taRa(q)_ 'adze'
+:Figure 10: POc _*kiRam_ 'stone adze, axe', POc _*matau_ 'axe', POc _*taku_, POc _*taRa(q)_ 'adze'
 
 <
 PMP *kiRam 'axe or adze' (ACD)
@@ -4337,7 +4337,7 @@ is reconstructable only for PWOc. Reflexes of POc *koto refer to a variety of us
 material and suggest that its primary meaning was 'obsidian cutting edge':
 
 
-Figure 11: POc _*nad(r)i_ 'flint, obsidian, stone with a cutting edge'; POc _*koto_ 'obsidian knife or blade'
+:Figure 11: POc _*nad(r)i_ 'flint, obsidian, stone with a cutting edge'; POc _*koto_ 'obsidian knife or blade'
 
                                                                         Household artefacts     93
 
@@ -4527,7 +4527,7 @@ of paper mulberry, as a pruned shrub for the production of bark for cloth, as ce
 the Melanesia/Polynesia border area.
 
 
-Figure 12: POc _*ike_ 'tapa beater'
+:Figure 12: POc _*ike_ 'tapa beater'
 
    Although terms can be located in WOc, none are cognate, and no POc term is reconstructable,
 apart from terms for the sources of raw material, POc _*(m,mʷ)ase_ 'wild mulberry, paper
@@ -4893,7 +4893,7 @@ POc *bara 'plaited cane armlet'
 >
 
 
-Figure 13: POc _*bara_ 'plaited cane armlet' (from Nevermann_1934: 151)
+:Figure 13: POc _*bara_ 'plaited cane armlet' (from Nevermann_1934: 151)
 
    Spriggs (1997a: 88) lists the distinctive range of shell ornaments recovered from Lapita
 sites such as Eloaua in the Admiralties, Balof (New Ireland) and Arawe Islands south-west of
@@ -5000,7 +5000,7 @@ POc *tuRi 'sew, thread, string together'
 
 4.5.5. 1 Comb
 
-Figure 14: POc _*saRu_ 'comb'
+:Figure 14: POc _*saRu_ 'comb'
 
 
    POc inherited _*saRu_ 'comb' from PMP. However, Remote Oceanic reflexes reflect _*seru_,
@@ -5083,7 +5083,7 @@ POc *tapuRi(q) 'triton shell: _Charonia tritonis_, used as trumpet'
 
 
 
-Figure 15: POc _*tapuRi(q)_ 'triton shell trumpet' (from Nevermann_1933:218) POc _*kauR_ 'bamboo wind instrument'
+:Figure 15: POc _*tapuRi(q)_ 'triton shell trumpet' (from Nevermann_1933:218) POc _*kauR_ 'bamboo wind instrument'
 
   In Polynesia the triton shell trumpet is generally known as _puu_, an onomatopaeic word
 which in many languages is associated with concepts of blowing.
@@ -5156,7 +5156,7 @@ wood with skin stretched over it, such as is used in New Guinea and Torres Strai
 found on Mala [Malaita] and Ulawa".
 
 
-Figure 16: POc _*kude_ 'hourglass drum'
+:Figure 16: POc _*kude_ 'hourglass drum'
 
 <
 POc *kude 'hourglass drum'
@@ -5272,7 +5272,7 @@ POc *sapu(r), *sapur-i- 'brush (dirt +) off (s.t.)' (where 's.t.' is the object)
 >
 
 
-Figure 17: POc _*salap_ 'broom'
+:Figure 17: POc _*salap_ 'broom'
 
 <
 POc *tapi 'dust off, brush lightly'
@@ -5341,7 +5341,7 @@ POc *quluŋ-an 'rest the head on; wooden headrest' (ACD)
                                                                      Household artefacts        113
 
 
-Figure 18: POc _*quluŋ-an_ 'wooden headrest' (from Nevermann_1934:271)
+:Figure 18: POc _*quluŋ-an_ 'wooden headrest' (from Nevermann_1934:271)
 
 <
 POc *kalik 'native wooden pillow'
@@ -6994,7 +6994,7 @@ piece of wood. We have a term specifically for the action of lighting a fire wit
 Note that the Central Pacific terms have unexplained vowel fronting.
 
 
-Figure 19: POc _*suka_, _*suka-i_ 'make fire with fire-plough'
+:Figure 19: POc _*suka_, _*suka-i_ 'make fire with fire-plough'
 
 <
 POc *suka, *suka-i- 'make fire with fire-plough'
@@ -7097,7 +7097,7 @@ POc *alito(n) 'firebrand'
 >
 
 
-Figure 20: POc _*sulu_ 'dry coconut leaf torch'
+:Figure 20: POc _*sulu_ 'dry coconut leaf torch'
 
 A burning brand, typically made from coconut fronds, served as a torch.
 
@@ -7251,7 +7251,7 @@ POc *kapi(t), *kapit-i- 'grasp (with tongs)' (A few reflexes show unexpected _-s
                                                                        Food preparation     149
 
 
-Figure 21: POc _*kapit_ 'tongs' (from Nevermann_1933: 102)
+:Figure 21: POc _*kapit_ 'tongs' (from Nevermann_1933: 102)
 
   Lichtenberk adds a number of other terms which, as well as being used in relation to oven
 cooking, probably also have more general reference:
@@ -7826,7 +7826,7 @@ designed so that water could run off from one end. Only isolated terms have been
                                                                       Food preparation        161
 
 
-Figure 22: taro stamper (no reconstruction) (from Nevermann_1934: 192) PWOc _*walu_ 'sago beater' (from Nevermann_1934: 174)
+:Figure 22: taro stamper (no reconstruction) (from Nevermann_1934: 192) PWOc _*walu_ 'sago beater' (from Nevermann_1934: 174)
 
 
    As Blust (ACD) notes, terms dealing with the action of pounding frequently contain the
@@ -7883,7 +7883,7 @@ PEOc *kaRi 'scraper; bivalve sp., used as a scraper' (Geraghty 1990)
 >
 
 
-Figure 23: POc _*kaRi_, POc _*koRi_ 'bivalve used as food scraper'
+:Figure 23: POc _*kaRi_, POc _*koRi_ 'bivalve used as food scraper'
 
                                                                                    Food preparation     163
 
@@ -8757,7 +8757,7 @@ an earlier meaning such as 'canoe hull' or 'small outrigger canoe'.
                                                               Canoes and seafaring       181
 
 
-Figure 24:  POc _*waga_ 'canoe' (after Koch_n.d.: 147), POc _*kati(R)_ '(small) outrigger canoe or canoe hull',  POc _*(q)oRa_ 'topstrake', POc _*soka(r)_ 'thwart',  POc _*muri-_ 'stern ',  POc _*muqa-_ 'front, bow', POc _*patar_ 'platform, decking', POc _*saman_ 'outrigger float',  POc _*kiajo_ 'outrigger boom', POc _*patoto_ 'connective sticks attaching float'
+:Figure 24:  POc _*waga_ 'canoe' (after Koch_n.d.: 147), POc _*kati(R)_ '(small) outrigger canoe or canoe hull',  POc _*(q)oRa_ 'topstrake', POc _*soka(r)_ 'thwart',  POc _*muri-_ 'stern ',  POc _*muqa-_ 'front, bow', POc _*patar_ 'platform, decking', POc _*saman_ 'outrigger float',  POc _*kiajo_ 'outrigger boom', POc _*patoto_ 'connective sticks attaching float'
 
 
    If POc _*kati(R)_ referred to a small outrigger canoe, then the following set may reflect a
@@ -9163,7 +9163,7 @@ See also PPn _*tau-mu ʔa_ 'foredeck ' (§2.10).
 7.2.9 Carved projecting end-pieces
 
 
-Figure 25: POc _*(i,u)cuŋ_ 'projecting headboard of prow' (from Nevermann_1934:285)
+:Figure 25: POc _*(i,u)cuŋ_ 'projecting headboard of prow' (from Nevermann_1934:285)
 
    In many regions of Oceania larger canoes are constructed with a projecting headboard,
 part of it resting on the underbody abutting the washstrake, the rest sometimes extending
@@ -9822,7 +9822,7 @@ POc *lima(s), *nima(s) 'bailer'
 >
 
 
-Figure 26: POc _*lima(s)_ or _*nima(s)_, POc _*asu_ 'bailer'
+:Figure 26: POc _*lima(s)_ or _*nima(s)_, POc _*asu_ 'bailer'
 
    The following PMP reconstruction is given by Blust (1978b: 94). Although 'scoop or ladle
 out' was probably the basic meaning, a number of Oceanic languages use the reflex of _*asu_
@@ -10366,15 +10366,15 @@ _kupeŋa fukifuki_ 'pole net for reef work') and _mata kupeŋa_ referring to net
 [2] _ŋ_ for expected _n_.
 
 
-Figure 27a: POc _*ku(p,pʷ)ena_ 'fishing net'—generic term. (from Nevermann_1933:89)
+:Figure 27a: POc _*ku(p,pʷ)ena_ 'fishing net'—generic term. (from Nevermann_1933:89)
 
 214     Meredith Osmond
 
 
-Figure 27b: Possibly POc _*pukot_ 'a seine net', with wooden floats (POc _*utoŋ_) and stone
+:Figure 27b: Possibly POc _*pukot_ 'a seine net', with wooden floats (POc _*utoŋ_) and stone
 sinkers (POc _*patu_) (from Nevermann_1933:89)
 
-Figure 27c: Another kind of _*ku(p,pʷ)ena_. We lack a specific reconstruction for a handnet.
+:Figure 27c: Another kind of _*ku(p,pʷ)ena_. We lack a specific reconstruction for a handnet.
 (from Nevermann_1933:89)
 
    The techniques that involve large nets usually require use of floats and sinkers. We have a
@@ -10427,7 +10427,7 @@ POc *sika 'netting needle'
 
 
 
-Figure 28: POc *sika 'netting needle'
+:Figure 28: POc *sika 'netting needle'
 
 <
 POc *mata- 'mesh of net'
@@ -10526,7 +10526,7 @@ crook' (Ch. 5, §10), but the origin of this relationship is not understood.
                                                   F!shing and hunting implements            217
 
 
-Figure 29: POc _*kawil_ 'fish hook ', POc _*ta(g,k)o_ '(barbless?) fish hook'. On the left is a coconut shell fish hook; on the right is a wooden two-piece fish hook
+:Figure 29: POc _*kawil_ 'fish hook ', POc _*ta(g,k)o_ '(barbless?) fish hook'. On the left is a coconut shell fish hook; on the right is a wooden two-piece fish hook
 
 <
 POc *ta(g,k)o '(barbless ?) fishhook'
@@ -10570,7 +10570,7 @@ scales.
 218      Meredith Osmond
                                                                                ,
 
-Figure 30: POc _*bayan_ 'trolling lure, trolling hook'
+:Figure 30: POc _*bayan_ 'trolling lure, trolling hook'
 
    We have evidence, both archaeological and linguistic, that trolling lures were also widely
 used. This technique of dragging a line through the water, with a lure of mother-of-pearl or
@@ -10651,7 +10651,7 @@ POc *pupu 'basketry fish trap'
 220       Meredith Osmond
 
 
-Figure 31: POc _*pupu_ 'basketry fish trap' (from Nevermann_1934:226)
+:Figure 31: POc _*pupu_ 'basketry fish trap' (from Nevermann_1934:226)
 
 The term is widely attested. It is noteworthy that we have no Polynesian cognates. Instead we
 find PPn _*fīnaki_ (Tongan _finaki_, Rarotongan _ʔinaki_ 'fish trap'; Hawaiian _hīnaʔi_ 'k.o. basket
@@ -10816,7 +10816,7 @@ POc *qio(r,R) 'spear, arrow' (Ross 1994a:464)
 
                                                             Fishing and hunting implements              223
 
-Figure 32: POc _*qio(r,R)_, POc _*sao(t)_, POc _*bako_ all 'spear' or 'k.o. spear' (the above are Admiralties spears from Nevermann_1934:345)
+:Figure 32: POc _*qio(r,R)_, POc _*sao(t)_, POc _*bako_ all 'spear' or 'k.o. spear' (the above are Admiralties spears from Nevermann_1934:345)
 
 As a subset of the above, certain NNG languages have inserted a medial consonant derived
 from epenthetic glides: Kove _iðo_ 'spear'; Bariai _ido_ 'arrow'; Gitua _izo_ 'spear'; Wogeo _iwo_
@@ -10854,7 +10854,7 @@ indeed referred to a multi-pronged fish spear.
 224     Meredith Osmond
 
 
-Figure 33: POc _*kuj(u,i)r_, POc _*tara_ 'fish spear'
+:Figure 33: POc _*kuj(u,i)r_, POc _*tara_ 'fish spear'
 
 <
 POc *tara 'fish spear'

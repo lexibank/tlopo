@@ -55,7 +55,7 @@ Canberra, January 2011
 
 1 Introduction
 
-Map 1:   The Austronesian language family and major subgroups
+: Map 1:   The Austronesian language family and major subgroups
 
 1.1 Aims
 
@@ -84,7 +84,7 @@ opinion that associates the subsequent break-up of POc with the rapid colonisati
 Melanesia and the central Pacific by bearers of the Lapita culture between about 1200 and
  900 BC (see Map 2 and volume 2, chapter 2).
 
-Map 2:   Geographic limits of historically known Oceanic speakers and of presently documented Lapita sites (after Kirch_1997:17, 54)
+: Map 2:   Geographic limits of historically known Oceanic speakers and of presently documented Lapita sites (after Kirch_1997:17, 54)
 
 [1] The project has been jointly directed by Andrew Pawley and Malcolm Ross, with research assistance from
  Meredith Osmond, in the Department of Linguistics, Research School of Pacific and Asian Studies at the Australian National University. Originally, five volumes were planned, but the large amount of material has required
@@ -360,7 +360,7 @@ explain how we handle the rake-like structure in making reconstructions.
 
                                                                                         Introduction     7
 
-Figure 1.1: Schematic diagram showing higher-order subgroups of Austronesian languages.
+: Figure 1.1: Schematic diagram showing higher-order subgroups of Austronesian languages.
 
 
 1.3.2.2 Kinds of subgroup
@@ -378,7 +378,7 @@ protolanguage, or, in italics, a group of languages.
 
 
 
-Figure 1.2: Schematic diagram showing the subgrouping of Oceanic Austronesian languages.
+: Figure 1.2: Schematic diagram showing the subgrouping of Oceanic Austronesian languages.
 
                                                                                               Introduction       9
 
@@ -502,7 +502,7 @@ only in NNG and PT languages are attributed to a putative Proto New Guinea Ocean
 
                                                            Introduction
 
-Map 3: Groups of Oceanic languages used in cognate sets
+: Map 3: Groups of Oceanic languages used in cognate sets
 
 12 Malcolm Ross, Andrew Pawley and Meredith Osmond
 
@@ -672,7 +672,7 @@ Irian Jaya.
 [18] On the positions of Yapese and Mussau. see respectively Ross (1996a) and Ross (1988:315-316, 331).
 
 
-Map 4: Oceanic language groups in northwest Melanesia: the Admiralties and St Matthias groups and the subgroups of Western Oceanic
+: Map 4: Oceanic language groups in northwest Melanesia: the Admiralties and St Matthias groups and the subgroups of Western Oceanic
 
 16 Malcolm Ross, Andrew Pawley and Meredith Osmond
 
@@ -1273,7 +1273,7 @@ sharks.
 
 30    Meredith Osmond
 
-Figure 2.1:   _Carcharodon carcharias_, great white shark
+: Figure 2.1:   _Carcharodon carcharias_, great white shark
 
    Proto Oceanic speakers undoubtedly distinguished many different species of sharks by
 name, as contemporary Oceanic speech communities do, but reconstructed terms have not
@@ -1456,7 +1456,7 @@ fishes. They are specialised in having largely abandoned the bottom-living habit
 the surface, often leaping from the water. Manta rays inhabit open ocean, and are seldom seen near
 shore.
 
-Figure 2.2: _Aetobatus narinari_, spotted eagle ray
+: Figure 2.2: _Aetobatus narinari_, spotted eagle ray
 
      Reflexes of POc _*paRi_ are numerous and widespread. It seems
 that the POc term had both a generic and a specific sense. Although most of the reflexes
@@ -1618,7 +1618,7 @@ cf. also:
 
 2.7 Sardines and herrings (Clupeidae) and anchovies (Engraulidae)
 
-Figure 2.3: _Spratelloides delicatulus_, small round herring
+: Figure 2.3: _Spratelloides delicatulus_, small round herring
 
 Sardines and herrings are small migratory fishes which congregate in enormous shoals
 in shallow coastal waters. Flesh is oily but tasty (Munro 1967: p.50). They are taken in nets
@@ -1827,7 +1827,7 @@ a lizard. The flesh is not very bony but insipid (Munro 1967: p.70).
 42 Meredith Osmond
 
 
-Figure 2.4: _Plotosus lineatus_, striped eel catfish
+: Figure 2.4: _Plotosus lineatus_, striped eel catfish
 
 
 2.10 Catfish (Plotosidae)
@@ -1971,7 +1971,7 @@ POc *bʷalup ‘k.o. eel, moray eel ?’
 
                                                                                   Fish   45
 
-Figure 2.5: _Gynmothorax_ sp., barred moray eel
+: Figure 2.5: _Gynmothorax_ sp., barred moray eel
 
 
    The Micronesian evidence below points to a reconstruction with a single final vowel,
@@ -2080,7 +2080,7 @@ cf. also:
 
                                                                                      Fish   47
 
-Figure 2.6: _Myrichthys colubrinus_, harlequin snake eel
+: Figure 2.6: _Myrichthys colubrinus_, harlequin snake eel
 
 <
 PMP *kasuli ‘Anguillidae, freshwater eel’ (ACD: PWMP _*kasuli_)
@@ -2139,7 +2139,7 @@ cf. also:
 
 2.12 Flying fishes (Exocoetidae)
 
-Figure 2.7: _Exocoetus volitans_, blue flying fish
+: Figure 2.7: _Exocoetus volitans_, blue flying fish
 
 These fish are pelagic, swimming near the surface and gliding above the water for considerable
 distances. They inhabit open coastal and oceanic waters, are attracted to light at night
@@ -2218,7 +2218,7 @@ to the same suborder.
 
 50   Meredith Osmond
 
-Figure 2.8: _Hemiramphus lutkei_, Lutke's halfbeak
+: Figure 2.8: _Hemiramphus lutkei_, Lutke's halfbeak
 
 <
 POc *sipa ‘_Hemiramphus_ spp.’
@@ -2308,7 +2308,7 @@ cf. also:
 
 52     Meredith Osmond
 
-Figure 2.9: Tylosurus crocodilus crocodilus, giant long tom
+: Figure 2.9: Tylosurus crocodilus crocodilus, giant long tom
 
     Reduplicated reflexes of POc _*sao_ in PPn below, refer instead to _Sphyraena_, the barracuda,
 and possibly its juvenile form. There is evidently some crossover of meaning between
@@ -2392,7 +2392,7 @@ cf. also:
 
 54     Meredith Osmond
 
-Figure 2.10: __Left__ _Myripristis murdjan_, crimson squirrelfish. __Right__ _Sargocentron spiniferum_, armoured soldierfish.
+: Figure 2.10: __Left__ _Myripristis murdjan_, crimson squirrelfish. __Right__ _Sargocentron spiniferum_, armoured soldierfish.
 
 <
 POc *kuru[ru] ‘_Myripristis_ spp., squirrelfish’
@@ -2469,7 +2469,7 @@ observed resting motionless on the bottom (Munro 1967: p.149). The family is wid
 
 56   Meredith Osmond
 
-Figure 2.11: _Fistularia commersonii_, smooth flutemouth
+: Figure 2.11: _Fistularia commersonii_, smooth flutemouth
 
     Cornetfishes somewhat resemble long toms, but are readily distinguished by long flutelike
 snouts and whiplash-like filamentous prolongation of middle caudal (tail) fin rays (Munro 1967: p.149).
@@ -2494,8 +2494,8 @@ Yamdena (CMP), _bwa-watan_ ‘seahorse’ (_bwaye_ ‘crocodile’) which permit
 of the word for crocodile as the first element in an otherwise variable compound.
 
 <
-PMP *|buqaya +| ‘_Hippocampus_ sp., seahorse’ (+ modifier) (Blust 2002)
-POc *|puqaya +| ‘seahorse’ (+ modifier)
+PMP *|buqaya| ‘_Hippocampus_ sp., seahorse’ (+ modifier) (Blust 2002)
+POc *|puqaya| ‘seahorse’ (+ modifier)
   NNG: Numbami       |yuwaya tina|     ‘seahorse’ (lit. ‘crocodile mother’)
   NNG: Bariai        |puaea gerei-rei| ‘seahorse’ (_puaea_ ‘crocodile’, _gereirei_ ‘newly-hatched’)
   MM:  Roviana       vu-vua            ‘seahorse’ (_vua_ ‘crocodile’)
@@ -2509,7 +2509,7 @@ cf. also:
 
                                                                                                  Fish   57
 
-Figure 2.12: _Mugil cephalus_, flathead grey mullet
+: Figure 2.12: _Mugil cephalus_, flathead grey mullet
 
 
     Kove (NNG) uses the same comparison, albeit with a non-cognate term for ‘crocodile’,
@@ -2747,7 +2747,7 @@ _Sphyraena picuda_ or _Agrioposphyraena barracuda_.
 
 62    Meredith Osmond
 
-Figure 2.13: _Sphyraena jello_, slender sea pike
+: Figure 2.13: _Sphyraena jello_, slender sea pike
 
 <
 PMP *qalu ‘barracuda’ (ACD)
@@ -3032,7 +3032,7 @@ spending daylight in caves or under ledges (Munro 1967: p.284).
 
 68   Meredith Osmond
 
-Figure 2.14: _Epinephelus lanceolatus_, Queensland grouper
+: Figure 2.14: _Epinephelus lanceolatus_, Queensland grouper
 
 
    The PPn term, _*mata-pula_ ‘_Priacanthus cruentatus_, red globe-eye’ is a descriptive compound
@@ -3074,7 +3074,7 @@ caranx, (not necessarily the largest).
                                                                                         Fish    69
 
 
-Figure 2.15: __Left__ _Gnathanodon speciosus_, golden trevally. __Right__ _Alectis indica_, plumed trevally.
+: Figure 2.15: __Left__ _Gnathanodon speciosus_, golden trevally. __Right__ _Alectis indica_, plumed trevally.
 
 <
 PMP *qatulay ‘_Trachurops crumenophthalmus_, the big-eyed scad’ (ACD)
@@ -3269,7 +3269,7 @@ PPn _*tafaquli_ ‘_Caranx_ sp., possibly _C. lugubris_’ and PPn _*soke(lau)_ 
 
 2.27 Dolphinfishes (Coryphaenidae)
 
-Figure 2.16: _Coryphaena hippurus_, common dolphinfish
+: Figure 2.16: _Coryphaena hippurus_, common dolphinfish
 
 Dolphinfish are large swift-swimming powerful fish, pelagic and mostly oceanic,
 but sometimes found around reefs. They are spectacular fighters which leap from
@@ -3347,7 +3347,7 @@ others may be names of particular species at a certain stage of growth.
 
                                                                                               Fish     75
 
-Figure 2.17: _Lutjanus fulviflamma_, Dory snapper
+: Figure 2.17: _Lutjanus fulviflamma_, Dory snapper
 
 
    The proposed gloss of POc _*qutur_ is based on the agreement of non-Oceanic cognates
@@ -3624,7 +3624,7 @@ a higher order interstage. POc _*kawa-kawa_ ‘rock cod, grouper’ (§22) is co
 
 2.36 Emperors and large-eyed breams (Lethrinidae)
 
-Figure 2.18: _Lethrinus variegatus_, variegated emperor
+: Figure 2.18: _Lethrinus variegatus_, variegated emperor
 
 Emperors inhabit shallow coastal waters around rocky outcrops and coral reefs, moving
 in schools. Most are fairly brightly coloured
@@ -3766,7 +3766,7 @@ infer that _-uaŋ_ reflects an earlier interstage _*kuaŋo_ ‘emperor’.
 
 2.37 Goatfishes (Mullidae)
 
-Figure 2.19: _Parupeneus signatus_, black-spotted goatfish
+: Figure 2.19: _Parupeneus signatus_, black-spotted goatfish
 
 The Mullidae have large scales and two barbels
 at the chin. Small to moderate in size and usually red or gold, they are bottom-dwellers, often
@@ -3923,7 +3923,7 @@ POc _*manipis_ ‘thin’- vol.2, p.202).
 
 2.39 Drummers, rudderfishes (Kyphosidae)
 
-Figure 2.20: _Kyphosus cinerascens_, ashen drummer
+: Figure 2.20: _Kyphosus cinerascens_, ashen drummer
 
 Drummers or rudderfishes are a small family. Fishes are typically small, finely and closely scaled, and dull
 in colour. Most species are pelagic, often found under floating medusae. They are herbivorous fish, feeding
@@ -4014,7 +4014,7 @@ black, red, orange, yellow and white. The fishes are diurnal and some species ar
 territorial, inhabiting one or more heads of plate coral. At dusk they retreat to reef crevices
 where they remain motionless until dawn (Allen & Swainston 1993:60).
 
-Figure 2.21: _Chaetodon_ sp., coralfish
+: Figure 2.21: _Chaetodon_ sp., coralfish
 
      Both Hooper (1994: p. 188) and Hviding (1996:192) have commented on the fact that in Oceanic
 languages butterflyfish, coralfish and angelfish are sometimes lumped together under one generic
@@ -4078,7 +4078,7 @@ POc *buRi-buRi ‘k.o. fish, possibly angelfish’
 
 2.44 Damselfishes or demoiselles, anemonefishes, sergeant-majors, pullers (Pomacentridae)
 
-Figure 2.22: _Adudefduf_ sp., sergeant-major
+: Figure 2.22: _Adudefduf_ sp., sergeant-major
 
 These are very active brilliant little fishes of the coral reefs, seeking shelter among branches of
 coral and in crevices. They are often left in tide pools. They are trim and shapely, greatly
@@ -4144,7 +4144,7 @@ beat, pound’, is not understood.
 
 92   Meredith Osmond
 
-Figure 2.23: _Cheilinus undulatus_, double-headed Maori wrasse
+: Figure 2.23: _Cheilinus undulatus_, double-headed Maori wrasse
 
 2.46 Wrasses, tuskfishes (Labridae)
 
@@ -4288,7 +4288,7 @@ wrasse’ (_ŋutu-loa_ lit. ‘long nose’) (Geraghty p.159, Hooper pp.217-218)
 
 2.47 Parrotfishes (Scaridae)
 
-Figure 2.24: _Bolbometopon muricatum_, double-headed parrotfish
+: Figure 2.24: _Bolbometopon muricatum_, double-headed parrotfish
 
 Parrotfish are closely related to the wrasses, although the latter are carnivorous. Parrotfish are
 herbivorous, typically large, the jaws with a bony beak. They are reef dwellers, feeding chiefly
@@ -4553,7 +4553,7 @@ Hooper (1994: p.215) has reconstructed PNPn _*laulau-fau_ ‘_Zanclus canescens_
 
 2.54 Unicornfishes, surgeonfishes, bristletooths, tangs (Acanthuridae)
 
-Figure 2.25: _Naso unicornis_, long-snouted unicornfish
+: Figure 2.25: _Naso unicornis_, long-snouted unicornfish
 
 All Acanthuridae are herbivorous coral reef fish, scraping algae with their fine
 teeth. Genera include _Naso_, _Acanthurus_, _Zebrasoma_ and _Ctenochaetus_. They have
@@ -4695,7 +4695,7 @@ cf. also:
 
 104     Meredith Osmond
 
-Figure 2.26: __Left__ _Zebrasoma veliferum_, sailfin tang. __Right__ _Acanthurus lineatus_, blue-lined surgeonfish.
+: Figure 2.26: __Left__ _Zebrasoma veliferum_, sailfin tang. __Right__ _Acanthurus lineatus_, blue-lined surgeonfish.
 
 <
 POc *[s,j]abiŋ ‘_Acanthurus_ spp., incl. _Acanthurus guttatus_, white-spotted surgeonfish’
@@ -4861,7 +4861,7 @@ blue-lined tang or _Acanthurus pyroferus_, mimic surgeonfish’ and _*ma(c,s)i-m
 
 108     Meredith Osmond
 
-Figure 2.27: _Siganus punctatus_, gold-spotted spinefoot
+: Figure 2.27: _Siganus punctatus_, gold-spotted spinefoot
 
 2.55 Rabbitfishes, spinefeet (Siganidae)
 
@@ -4994,7 +4994,7 @@ reconstructed PPn _*maŋā_ ‘k.o. fish’ with meaning in Eastern Polynesian l
 
                                                                                    Fish    111
 
-Figure 2.28: _Katsuwonus pelamis_, skipjack tuna
+: Figure 2.28: _Katsuwonus pelamis_, skipjack tuna
 
 
 2.57 Skipjacks, Spanish mackerels, mackerels, tunas, tunnies, albacores, wahoos (Scombridae)
@@ -5068,7 +5068,7 @@ PPn *qalu ‘_Katsuwonus pelamis_, skipjack tuna’ (Hooper 1994)
 
                                                                                   Fish   113
 
-Figure 2.29:   _Scomberomorus commerson_, Spanish mackerel
+: Figure 2.29:   _Scomberomorus commerson_, Spanish mackerel
 
     Blust (2002:130) notes that Tagalog is the only non-Oceanic language known to have a
 presumptive cognate, _atun_ ‘tunny fish’, albeit with an unexpected high vowel, and concludes
@@ -5207,7 +5207,7 @@ fish. The only reconstruction, PPn _*paqala_ ‘_Acanthocybium solandri_, wahoo�
 
 2.58 Marlins and sailfishes (Istiophoridae); swordfishes (Xiphiidae)
                                                        
-Figure 2.30: _Istiophorus platypterus_, Pacific sailfish
+: Figure 2.30: _Istiophorus platypterus_, Pacific sailfish
 
 The Istiophoridae are identified by an upper jaw in the form of a long sword. They
 are big-game fish, large, fast and powerful, and pelagic in open waters. Three marlins are
@@ -5341,7 +5341,7 @@ cf. also:
 
 2.60 Stonefishes (Synanceiidae)
                                                       
-Figure 2.31: _Synanceia verrucosa_, reef stonefish
+: Figure 2.31: _Synanceia verrucosa_, reef stonefish
 
 Scorpionfishes and lionfishes were formerly included with stonefishes as Scorpaenidae, but
 stonefishes have now been classified as a separate family, Synanceiidae. The latter are
@@ -5418,7 +5418,7 @@ PPn *nofu ‘_Synanceia verrucosa_, _Scorpaenidae_ spp.’ [Synanceiidae spp.] (
 
                                                                                                   Fish     121
 
-Figure 2.32: Monacanthus sp., scribbled leatherjacket
+: Figure 2.32: Monacanthus sp., scribbled leatherjacket
 
 
 Triggerfishes (Balistidae) are characterised by a football shape, leathery skin, and small
@@ -5549,7 +5549,7 @@ page 122, but this seems due to chance, as the glosses clearly allow a separate 
 
 124     Meredith Osmond
 
-Figure 2.33: _Ostracion nasus_, shortnosed boxfish
+: Figure 2.33: _Ostracion nasus_, shortnosed boxfish
 
 <
 POc *bʷaReu ‘_Ostracion_, boxfish’
@@ -5645,7 +5645,7 @@ PPn *tautu ‘_Diodon_ spp., porcupine fish’ (Hooper 1994)
 
 126    Meredith Osmond
 
-Figure 2.34: _Arothron leopardus_, leopard pufferfish
+: Figure 2.34: _Arothron leopardus_, leopard pufferfish
 
 
    The next reconstruction is a semantic extension of POc _*poto(k)_ ‘thorn’ (vol.3, p. 125).
@@ -5757,7 +5757,7 @@ and _Naucrates ductor_, pilot fish’ with suggested etymology _*tali-tali_ ‘w
 ‘to steer’.
 
 
-Figure 2.35:   _Remora remora_
+: Figure 2.35:   _Remora remora_
 
                                                                                  Fish   129
 
@@ -7525,7 +7525,7 @@ rock lobsters and (2) Scyllaridae, slipper or shovel-nosed lobsters. (The terms 
 ‘crayfish’ are used interchangeably by many English speakers and the gloss ‘crayfish’ is
 commonly found in the dictionaries and wordlists.)
 
-Figure 4.1:    _Palinurus_ sp., spiny lobster
+: Figure 4.1:    _Palinurus_ sp., spiny lobster
 
                                                                             Aquatic invertebrates      167
 
@@ -7632,7 +7632,7 @@ cm in length.
 
                                                                          Aquatic invertebrates   169
 
-Figure 4.2:     _Birgus latro_, coconut crab
+: Figure 4.2:     _Birgus latro_, coconut crab
 
 There is a strongly supported reconstruction for the coconut crab, _Birgus latro_, which climbs
 coconut trees to sever coconuts and is widely believed by Oceanic comunities to be able to
@@ -7780,7 +7780,7 @@ _*kaRu(i)ki_, _*kuka_, _*rakum(u)_, _*qalimaŋo_, _*tubaRa_.
 
 172   Andrew Pawley
 
-Figure 4.3: _Scylla serrata_, mangrove crab
+: Figure 4.3: _Scylla serrata_, mangrove crab
 
 4.3.5.1 Portunidae, mangrove and swimming crabs
 
@@ -8286,7 +8286,7 @@ cf. also:
 
 182    Andrew Pawley
 
-Figure 4.4:    _Lambis_ spp., spider conches
+: Figure 4.4:    _Lambis_ spp., spider conches
 
 
 4.4.2.2 Turbinidae, turbans
@@ -8474,7 +8474,7 @@ PPn *pule ‘cowrie’
 
 186    Andrew Pawley
 
-Figure 4.5:   Cowries
+: Figure 4.5:   Cowries
 
 
 4.4.2.8 Trochidae, top shells
@@ -8597,9 +8597,9 @@ _*kuku_, _*kima_, _*sapulu(q)_, _*tiRom_, _*tu(qu)asi_, _*tu(q)e-tu(q)e_ and _*(
 
                                                                            Aquatic invertebrates   189
 
-Figure 4.6: Left to right Univalve shells: turban, trochus, cone, murex
+: Figure 4.6: Left to right Univalve shells: turban, trochus, cone, murex
 
-Figure 4.7: _Tridacna gigas_, giant clam
+: Figure 4.7: _Tridacna gigas_, giant clam
 
 
 4.4.3.1 Tridacninae, giant clams
@@ -9074,7 +9074,7 @@ day octopus or common reef octopus, and the smaller _Octopus ornatus_, the night
 Oceanic languages name several different taxa by size, shape and habits. There is a
 widely-reflected generic going back to PAn.
 
-Figure 4.8: Octopus
+: Figure 4.8: Octopus
 
                                                                  Aquatic invertebrates     199
 
@@ -9220,7 +9220,7 @@ POc *mata ‘the operculum or trapdoor of certain gastropod spp.’ (cf. POc _*m
 
 202    Andrew Pawley
 
-Figure 4.9:   Squid
+: Figure 4.9:   Squid
 
 4.4.8 Artefacts made from shell
 
@@ -9581,7 +9581,7 @@ PPn *puŋa ‘coral rock’
 
 4.6.3 Scyphozoa, Ctenophora and Hydrozoa: true jellyfish, comb jellyfish and hydroids
 
-Figure 4.10: _Physalis_ sp., Portuguese man o’ war
+: Figure 4.10: _Physalis_ sp., Portuguese man o’ war
 
 True jellyfish (_Scyphozoa_) are members of the
 _Cnidaria_, whose tentacles face down. They represent the medusa or free-swimming phase of
@@ -9917,7 +9917,7 @@ are common to both the Asian and the Australia-New Guinea regions.
 
 218   Meredith Osmond and Andrew Pawley
 
-Map 5: Major zoogeographical boundaries in Island Southeast Asia
+: Map 5: Major zoogeographical boundaries in Island Southeast Asia
 
     These faunal regions reflect geomorphological boundaries. The islands west of Wallace’s
 Line lie on the Sunda Shelf, a shallow continental shelf that was dry land at various times
@@ -9938,7 +9938,7 @@ and the Admiralties were still separated from the New Guinea mainland and each o
 
                                                Mammals, reptiles, amphibians                         219
 
-Map 6: Island Southeast Asia and Northwest Melanesia: island names
+: Map 6: Island Southeast Asia and Northwest Melanesia: island names
 
 220    Meredith Osmond and Andrew Pawley
 
@@ -10121,7 +10121,7 @@ cf. also:
                                                             Mammals, reptiles, amphibians   223
 
 
-Figure 5.1: _Dendrolagus dorianus_, Doria’s tree kangaroo
+: Figure 5.1: _Dendrolagus dorianus_, Doria’s tree kangaroo
 
 
 5.2.2.2 Tree kangaroos (Genus _Dendrolagus_)
@@ -10185,7 +10185,7 @@ only refer to a phalanger.
 
                                                       Mammals, reptiles, amphibians   225
 
-Figure 5.2: _Spilocuscus maculatus_, spotted cuscus
+: Figure 5.2: _Spilocuscus maculatus_, spotted cuscus
 
 <
 PCEMP *kandoRa ‘cuscus’ (Blust2002)
@@ -10271,7 +10271,7 @@ cf. also:
 
                                                         Mammals, reptiles, amphibians     227
 
-Figure 5.3:   _Petaurus breviceps_, sugar glider
+: Figure 5.3:   _Petaurus breviceps_, sugar glider
 
 
 5.2.5 Bandicoots (Peroryctidae)
@@ -10297,7 +10297,7 @@ than bandicoot.
 
 228      Meredith Osmond and Andrew Pawley
 
-Figure 5.4: _Microperoryctes longicauda_, long-tailed bandicoot
+: Figure 5.4: _Microperoryctes longicauda_, long-tailed bandicoot
 
 <
 PCEMP *mansar ‘bandicoot, marsupial rat’ (Blust 1982, 2002)
@@ -10383,7 +10383,7 @@ present in Remote Oceania before the advent of humans.
 
 230   Meredith Osmond and Andrew Pawley
 
-Figure 5.5: _Rattus exulans_, rat
+: Figure 5.5: _Rattus exulans_, rat
 
 
     Five commensal rat species have been introduced to Oceania: _Rattus rattus_, _Rattus exulans_,
@@ -10573,7 +10573,7 @@ Milne Bay terms are from unpublished wordlists recorded by Pawley (1969).
 
 234   Meredith Osmond and Andrew Pawley
 
-Figure 5.6: _Dobsonia moluccensis_, greater bare-backed bat
+: Figure 5.6: _Dobsonia moluccensis_, greater bare-backed bat
 
 __formgroup__
    PT:     Oyaoya         gimau   ‘rat’
@@ -11079,7 +11079,7 @@ cf. also:
 
 244   Meredith Osmond and Andrew Pawley
 
-Figure 5.7: Stenella longirostris, spinner dolphin
+: Figure 5.7: Stenella longirostris, spinner dolphin
 
    PPn _*taf(o,u)raqa_ ‘whale’ is well attested. Possible cognates occur in several non-Polynesian
 languages of central and southern Vanuatu, but these forms are probably borrowings from the
@@ -11181,7 +11181,7 @@ cf. also:
 
 246    Meredith Osmond and Andrew Pawley
 
-Figure 5.8: _Dugong dugon_, dugong
+: Figure 5.8: _Dugong dugon_, dugong
 
 
 5.4.2 Dugong (_Dugong dugon_)
@@ -11252,7 +11252,7 @@ four species and some distinguish male and female turtles, as the following exam
 
 248   Meredith Osmond and Andrew Pawley
 
-Figure 5.9: _Chelonia mydas_, green turtle
+: Figure 5.9: _Chelonia mydas_, green turtle
 
 __formgroup__
  NNG: Lukep (Pono)   pon                ‘turtle’
@@ -11434,7 +11434,7 @@ functional equivalent in the world of fishes is not surprising.
 
 252   Meredith Osmond and Andrew Pawley
 
-Figure 5.10: _Crocodylus porosus_, saltwater crocodile
+: Figure 5.10: _Crocodylus porosus_, saltwater crocodile
 
     POc _*puqaya_ ‘crocodile’ continues PMP _*buqaya_ and, probably, PAn _*buqaya_.[10] Reflexes of
 _*puqaya_ are found widely in languages of the Bismarck Archipelago, New Guinea
@@ -11472,7 +11472,7 @@ POc *puqaya ‘crocodile’
 
                                                            Mammals, reptiles, amphibians   253
 
-Figure 5.11: _Varanus indicus_, water monitor
+: Figure 5.11: _Varanus indicus_, water monitor
 
 5.5.3 Lizards
 
@@ -11621,7 +11621,7 @@ cf. also:
 
 5.5.3.4 Geckos (Gekkonidae)
 
-Figure 5.12: _Hemidactylus frenatus_, common house gecko
+: Figure 5.12: _Hemidactylus frenatus_, common house gecko
 
 Geckos are widely distributed across mainland Southeast Asia, Indonesia and the tropical
 Pacific. They are one of the few reptiles with voices; they make small chirruping noises.
@@ -11694,7 +11694,7 @@ PSOc *gala ‘green lizard, _Emoia_ sp.’ (John Lynch, pers. comm.)
 
 258    Meredith Osmond and Andrew Pawley
 
-Figure 5.13: Skink
+: Figure 5.13: Skink
 
     The presence of _*kali_ in the following reconstruction raises the question as to whether this
 is an echo of the old _qali-_/_kali-_ prefix that in pre-Oceanic times evidently meant something
@@ -12920,7 +12920,7 @@ term for ‘bird’.
 
 284   Ross Clark
 
-Figure 6.1: _Gallus gallus_, Red Jungle Fowl
+: Figure 6.1: _Gallus gallus_, Red Jungle Fowl
 
 <
 PMP *manuk ‘bird, fowl’
@@ -13114,7 +13114,7 @@ cognates in languages to the west, e.g. Biak (SHWNG) _(man)swar_, Kaiwai (CMP) _
 
 288   Ross Clark
 
-Figure 6.2: _Casuarius bennetti_, Dwarf Cassowary
+: Figure 6.2: _Casuarius bennetti_, Dwarf Cassowary
 
 <
 PCEMP *kasawari ‘cassowary’
@@ -13146,7 +13146,7 @@ large and conspicuous _Egretta_ herons, which may have been the basis for a gene
 
                                                                                    Birds    289
 
-Figure 6.3: _Egretta sacra_. Reef Heron
+: Figure 6.3: _Egretta sacra_. Reef Heron
 
 <
 POc *kao(i) ‘heron, probably _Egretta_ sp.’
@@ -13410,7 +13410,7 @@ PMic *ŋāŋā ‘sea bird, duck’
 
 294     Ross Clark
 
-Figure 6.4: _Anas superciliosa_, Pacific Black Duck
+: Figure 6.4: _Anas superciliosa_, Pacific Black Duck
 
 
     The following possible Maori reflex refers to a different waterfowl, but the formal
@@ -13556,7 +13556,7 @@ cf. also:
 
                                                                                    Birds    297
 
-Figure 6.5: _Haliaeetus leucogaster_, White-bellied Sea Eagle
+: Figure 6.5: _Haliaeetus leucogaster_, White-bellied Sea Eagle
 
 
     The fish-eagle (Haliaeetus) was probably the largest flying creature known to the Proto
@@ -13759,7 +13759,7 @@ cf. also:
                                                                                   Birds   301
 
 
-Figure 6.6: Aviceda subcrislata. Crested Baza
+: Figure 6.6: Aviceda subcrislata. Crested Baza
 
 <
 PNGOc *kisakisa ‘hawk or eagle’
@@ -13847,7 +13847,7 @@ birds identified during the 1958-59 Gilliard New Britain Expedition. The spellin
 
                                                                                   Birds   303
 
-Figure 6.7: _Circus approximans_, Pacific Marsh Harrier
+: Figure 6.7: _Circus approximans_, Pacific Marsh Harrier
 
    In Southern Oceania, the sea eagles are no longer present, and the familiar raptors are the
 goshawks (_Accipiter_ spp.) and the Pacific Marsh Harrier (_Circus approximans_)
@@ -13938,7 +13938,7 @@ its calls.)
 
                                                                                  Birds    305
 
-Figure 6.8: _Megapodius eremita_, Bismarck Scrub Fowl
+: Figure 6.8: _Megapodius eremita_, Bismarck Scrub Fowl
 
      POc _*mʷalau_ is reflected from Sulawesi (Sangirese _maleo_) to the easternmost bird of this
 family in Tonga (Wallace 1869: 202-4, Christian 1926, but see also comments in Blust 2002).
@@ -14025,7 +14025,7 @@ is justified if the Mangap and Tolai forms are regarded as continuing the PAn et
 
                                                                                  Birds   307
 
-Figure 6.9: Porphyria porphyrio, Purple Swamphen
+: Figure 6.9: Porphyria porphyrio, Purple Swamphen
 
 <
 PAn *puRuq ‘quail, partridge’ (Blust 2002)
@@ -14066,7 +14066,7 @@ POc *bʷalaRe ‘Purple Swamphen, _Porphyrio porphyrio_’
 
 308     Ross Clark
 
-Figure 6.10: _Rallus philippensis_, Buff-banded Rail
+: Figure 6.10: _Rallus philippensis_, Buff-banded Rail
 
 Another possible POc reconstruction for the same bird is the following:
 
@@ -14290,7 +14290,7 @@ POc *ku(i)ba ‘pigeon, probably _Ducula_ sp.’
 
 312   Ross Clark
 
-Figure 6.11: _Ducula pacifica_, Pacific Pigeon
+: Figure 6.11: _Ducula pacifica_, Pacific Pigeon
 
 
 6.5.8.1 Imperial Pigeons (_Ducula_)
@@ -15063,7 +15063,7 @@ cf. also: A loan from a Southeast Solomonic language:
 
 328      Ross Clark
 
-Figure 6.12: _Phigys solitarius_, Collared Lory
+: Figure 6.12: _Phigys solitarius_, Collared Lory
 
 <
 POc *marewe ‘parrot’
@@ -15253,7 +15253,7 @@ cf. also:
 
 332   Ross Clark
 
-Figure 6.13: _Tyto alba_, Barn Owl
+: Figure 6.13: _Tyto alba_, Barn Owl
 
 
 An unusually large number of Polynesian bird names reflect _*lulu_ but are applied to various
@@ -15387,7 +15387,7 @@ PCP *bekabeka ‘swiftlet’ (cf. POc _*bʷeka_ ‘fruit bat, flying fox’, ch.
 
                                                                                  Birds   335
 
-Figure 6.14: _Hemiprocne mystacea_, Whiskered Tree-swift
+: Figure 6.14: _Hemiprocne mystacea_, Whiskered Tree-swift
 
 <
 Proto Malaita-Makira *sisiri ‘swiftlet’
@@ -15482,7 +15482,7 @@ cf. also: A probable borrowing from a Southeast Solomonic language:
 
                                                                                    Birds    337
 
-Figure 6.15: _Halcyon chloris_, White-collared Kingfisher
+: Figure 6.15: _Halcyon chloris_, White-collared Kingfisher
 
 This word appears to have been reshaped in Polynesian to PPn _*tiko-tara_, a compound
 analysable as ‘defecate’ + ‘end of house’. Some outliers have returned to a historically earlier
@@ -15600,7 +15600,7 @@ POc *binam ‘hornbill’ (ACD)
 
 340   Ross Clark
 
-Figure 6.16: _Aceros plicatus_, Blyth's Hornbill
+: Figure 6.16: _Aceros plicatus_, Blyth's Hornbill
 
 The following indicate a considerable broadening of the reference of this term in some SE
 Solomonic languages:
@@ -15698,7 +15698,7 @@ PCP *(jea)jea ‘Spotted Triller, _Lalage maculosa_’
 
 342   Ross Clark
 
-Figure 6.17: _Rhipidura leucophrys_, Willie Wagtail
+: Figure 6.17: _Rhipidura leucophrys_, Willie Wagtail
 
     At least some of the following are likely to be independent imitations of vocalizations
 variously represented as _whee-see_, _twill you twill you_, _keweeo_, and _squeeii_, produced by birds
@@ -15908,7 +15908,7 @@ __formgroup__
 
 346     Ross Clark
 
-Figure 6.18: _Philemon buceroides_, Helmeted Friarbird
+: Figure 6.18: _Philemon buceroides_, Helmeted Friarbird
 
     The following two items are the only possible Southeast Solomonic cognate found, and
 a possible Rennellese borrowing from a SE Solomonic language:
@@ -16231,7 +16231,7 @@ POc *saba(l) ‘petrel or albatross’
 >
 
 <
-PROc *|koro +| ‘petrel’ (+ modifier)
+PROc *|koro| ‘petrel’ (+ modifier)
   NCV: Namakir       koro(lik)     ‘black sea bird sp.’
   NCV: N Efate [12]   koro(liko)    ‘Wedge-tailed Shearwater, _Puffinus pacificus_’
   Mic: Kiribati      koro(paro)    ‘_Puffinus pacificus_’
@@ -16302,7 +16302,7 @@ cf. also: Probable borrowing from a Micronesian language:
 
 354     Ross Clark
 
-Figure 6.19: _Phaethon lepturus_, White-tailed Tropic Bird
+: Figure 6.19: _Phaethon lepturus_, White-tailed Tropic Bird
 
 <
 PPn *tawake ‘White-tailed Tropic-bird, _Phaethon lepturus_’
@@ -16334,7 +16334,7 @@ cf. also: Probable Fijian cognate or borrowing:
 
 6.7.3 Boobies (Sulidae)
 
-Figure 6.20: _Sula dactylatra_, Blue-faccd Booby
+: Figure 6.20: _Sula dactylatra_, Blue-faccd Booby
 
 Of the three Boobies (genus Sula) found in Oceania, the Brown Booby (_Sula leucogaster_) is
 present year round in New Guinea waters. The Red-footed Booby (_Sula sula_), however, is also
@@ -16483,7 +16483,7 @@ cf. also: A borrowing from a SE Solomonic language:
 
 358   Ross Clark
 
-Figure 6.21: _Fregata ariel_, Lesser Frigate Bird
+: Figure 6.21: _Fregata ariel_, Lesser Frigate Bird
 
 <
 POc *katapa ‘frigate bird’
@@ -16615,7 +16615,7 @@ cf. also:
 
                                                                                 Birds    361
 
-Figure 6.22: _Pluvialis fiulva_, Pacific Golden Plover
+: Figure 6.22: _Pluvialis fiulva_, Pacific Golden Plover
 
 <
 PROc *kVlili ‘Wandering Tattler, _Heteroscelus incanus_’
@@ -16672,7 +16672,7 @@ cf. also: A probable Polynesian borrowing is Nehan tulia in the following three 
 
 362      Ross Clark
 
-Figure 6.23: _Limosa lapponica_, Bar-tailed Godwit
+: Figure 6.23: _Limosa lapponica_, Bar-tailed Godwit
 
 <
 PPn *kiu~*kiwi         ‘shore bird taxon including _Pluvialis_ and _Numenius_’
@@ -17189,7 +17189,7 @@ no doubt a regular feature of social life.
 
 7.2.1 Head lice
 
-Figure 7.1: _Pediculus humanus capitis_, head louse (male)
+: Figure 7.1: _Pediculus humanus capitis_, head louse (male)
 
 <
 PAn *kuCu ‘louse’ (Blust 2002)
@@ -17543,7 +17543,7 @@ reflexes have undergone a common sporadic vowel change, lowering of unstressed _
     A number of terms that refer to the mosquito have been
 reconstructed in addition to _*ñamuk_.
 
-Figure 7.2: _Anopheles_ sp., mosquito
+: Figure 7.2: _Anopheles_ sp., mosquito
 
                                                  Insects and other creepy-crowlies   381
 
@@ -17848,7 +17848,7 @@ in the Pendau (central Sulawesi) term for a dragonfly, _tuntu/rano_, translates 
 (Phil Quick pers. comm.). POc _*waiR_ ‘water’ is attested in the two following (non-cognate)
 sets by terms from SES, NCV and Fiji.
 
-Figure 7.3: Dragonfly
+: Figure 7.3: Dragonfly
 
                                                       Insects and other creepy-crowlies      387
 
@@ -18195,7 +18195,10 @@ __formgroup__
   SES: ’Are’are      (ta)karo              ‘small black ant’
   NCV: Nguna         (ma)kāla              ‘red ant’
   Mic: Marshallese   kal(lep)              ‘big black ant’ (_lep_ ‘big’)
-cf. also:
+
+Cf. also:
+
+__formgroup__
   NNG: Manam         kala(poaki)           ‘k.o. red ant’
   NCV: Mota          kalo                  ‘crawl, creep’
   SV:  Lenakel       (ma)kal               ‘large brown spider’
@@ -18245,7 +18248,7 @@ POc *ane ‘termite’
 
 7.12 Crickets, grasshoppers (Order Orthoptera - ‘straightwings’); Cicadas (Order Hemiptera= ‘half wings’)
 
-Figure 7.4: _Gryllus_ sp., cricket
+: Figure 7.4: _Gryllus_ sp., cricket
 
 
 If a generic term existed in POc, either for grasshoppers, or for grasshoppers + crickets + cicadas
@@ -18295,7 +18298,7 @@ POc *riŋa ‘orthopterous insect’
 
 396 Meredith Osmond
 
-Figure 7.5: Cicada
+: Figure 7.5: Cicada
 
 <
 PROc *liŋo-liŋo ‘night insect, probably a cricket’
@@ -18377,7 +18380,7 @@ PPn *wāwā ‘orthopterous insect’
 
 7.13 Mantises (Order Mantodea = ‘like a prophet’), stick insects (Order Phasmatodea = ‘like a ghost’)
 
-Figure 7.6: __Above__ Praying mantis. __Below__ Stick insect.
+: Figure 7.6: __Above__ Praying mantis. __Below__ Stick insect.
 
 
 398   Meredith Osmond
@@ -18521,7 +18524,7 @@ with extremely long antenna (Family Cerambycidae), the larvae of which attack ti
 
                                                       Insects and other creepy-crawlies    401
 
-Figure 7.7: __Left__ Longicom beetle. __Right__ Oryctes rhinoceros, rhinoceros-beetle.
+: Figure 7.7: __Left__ Longicom beetle. __Right__ Oryctes rhinoceros, rhinoceros-beetle.
 
 <
 POc *tabuRuRu ‘k.o. beetle’
@@ -18866,7 +18869,7 @@ same habitat, under rocks or leaf litter. The scorpion is named as crab-like in 
 (_gʷaɣa-gʷaɣa_ ‘scorpion; idiom for one who moves slowly and fearfully on heights) (_gʷaɣa_ ‘crab (generic)’)
 and possibly also in Molima (_dowa_ ‘scorpion, land crab’), although Chowning adds a question mark to her gloss.
 
-Figure 7.8: _Honnurus_ sp., scorpion
+: Figure 7.8: _Honnurus_ sp., scorpion
 
 7.20 Spiders (Order Araneae)
 
