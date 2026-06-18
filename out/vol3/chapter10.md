@@ -292,7 +292,7 @@ The meaning of the etymon reconstructed below is not clear. It may have been ano
 
 _Amaranthus tricolor_ is described by [Peekel](../sources/Peekel1984) ([1984](../sources/Peekel1984): 166--168) as an erect plant 0.6--1.2 m tall, with many long leaves growing directly from the stem and no or almost no terminal flower cluster. Varieties with the multicoloured leaves to which tricolor refers are decorative plants in gardens in western countries, but the varieties grown as a green vegetable in gardens in India, China, Indonesia, Papua New Guinea and the Solomons usually have green leaves.
 
-A number of _Amaranthus_ species are grown in New Guinea and the Bismarcks today, but probably only _Amaranthus tricolor_, an ancient introduction from SE Asia, was present traditionally.[^1] Others, mostly Central and South American domesticates, have been introduced by Europeans since 1870 ([Bourke forthcoming](../sources/Bourkeforthcoming), [Bourke & Allen forthcoming](../sources/BourkeandAllenforthcoming)).
+A number of _Amaranthus_ species are grown in New Guinea and the Bismarcks today, but probably only _Amaranthus tricolor_, an ancient introduction from SE Asia, was present traditionally.[^1]: Others, mostly Central and South American domesticates, have been introduced by Europeans since 1870 ([Bourke forthcoming](../sources/Bourkeforthcoming), [Bourke & Allen forthcoming](../sources/BourkeandAllenforthcoming)).
 
 <a id="fig-3-10_2"> </a>
 
@@ -801,7 +801,7 @@ POc _&ast;nunuk_ denoted either a taxon including all _Ficus_ species known to P
 
 
 
-It is probable that _&ast;qayawan_ denoted a strangler fig taxon. The Gedaged, Kara, Tolai and Patpatar reflexes each denote a taxon of strangler figs: _Ficus benjamina_ ('weeping fig, Java fig, Java willow'), _F. katabibi_ and _F. rebareba_ are described by [Peekel](../sources/Peekel1984) ([1984](../sources/Peekel1984): 139) as stranglers.[^4] The Micronesian and Niuean reflexes denote _Ficus prolixa_, also a strangler. Kara, Tolai and Patpatar are located in New Ireland, i.e. in the Oceanic heartland of the Bismarcks, and I assume that they are likely to retain the original sense of _&ast;qayawan_, whereas _Ficus tinctoria_ (Muyuw, Wayan) and _Ficus pritchardii_ (Wayan), neither of them stranglers, are more likely to reflect shifts in denotation. Whether POc _&ast;qayawan_ denoted a taxon which included all strangler fig species or just a subset, we cannot tell.
+It is probable that _&ast;qayawan_ denoted a strangler fig taxon. The Gedaged, Kara, Tolai and Patpatar reflexes each denote a taxon of strangler figs: _Ficus benjamina_ ('weeping fig, Java fig, Java willow'), _F. katabibi_ and _F. rebareba_ are described by [Peekel](../sources/Peekel1984) ([1984](../sources/Peekel1984): 139) as stranglers.[^4]: The Micronesian and Niuean reflexes denote _Ficus prolixa_, also a strangler. Kara, Tolai and Patpatar are located in New Ireland, i.e. in the Oceanic heartland of the Bismarcks, and I assume that they are likely to retain the original sense of _&ast;qayawan_, whereas _Ficus tinctoria_ (Muyuw, Wayan) and _Ficus pritchardii_ (Wayan), neither of them stranglers, are more likely to reflect shifts in denotation. Whether POc _&ast;qayawan_ denoted a taxon which included all strangler fig species or just a subset, we cannot tell.
 
 <table class="cognateset" id="3-10-4-1-303-POc-qayawan-a">
 <tr>
@@ -1039,7 +1039,7 @@ POc _&ast;qayawan_ also seems to have a second set of reflexes in Micronesia. A 
 </tr>
 </table>
 
-POc _&ast;ba[k,g]a_ denoted a taxon of freestanding, medium-sized _Ficus_ species. Denotata of reflexes include _Ficus nodosa_, _Ficus wassa_, _Ficus prolixa_, _Ficus obliqua_, _Ficus mutabilis_ and _Ficus tinctoria_, none of them stranglers. [^6]
+POc _&ast;ba[k,g]a_ denoted a taxon of freestanding, medium-sized _Ficus_ species. Denotata of reflexes include _Ficus nodosa_, _Ficus wassa_, _Ficus prolixa_, _Ficus obliqua_, _Ficus mutabilis_ and _Ficus tinctoria_, none of them stranglers. [^6]:
 
 The items under 'cf. also' are probably not cognate. Three of them point to a term for a nut tree, a species of either _Canarium_ or _Terminalia_, but data are insufficient to reconstruct this term. [Mahdi](../sources/Mahdi1999) ([1999](../sources/Mahdi1999)) suggests that this term is cognate with Western Malaya-Polynesian terms reflecting a putative _&ast;pakat_ 'root'.
 

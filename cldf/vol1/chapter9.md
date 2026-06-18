@@ -5,7 +5,7 @@
 
 <a id="s-1"></a>
 
-## 1. Introduction[^1]
+## 1. Introduction[^1]:
 
 
 The theme of this volume is material culture, and it is perhaps inevitable that a majority of the reconstructions in the preceding chapters are of nouns denoting objects—mostly utensils and some manufactured objects, especially buildings and seagoing vessels. A number of reconstructions are of verbs denoting actions performed with these utensils or on the materials of which objects are made. In many cases, however, the relevant verbs have meanings which transcend the subthemes of individual chapters, and so we have decided to bring them together here and to consider them in relation to each other in order to gain a better understanding of their meanings. This leads to a certain amount of repetition, but we have thought it more convenient for the reader to have much of the data assembled here than to have to pursue cross-references to earlier chapters. In the interests of space, however, we have generally not repeated here those verbs whose meanings fit neatly enough under the subtheme of another chapter, and we have sometimes reduced the cognate sets given as supporting evidence.

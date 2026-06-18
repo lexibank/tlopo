@@ -218,7 +218,7 @@ In practice, most magic is performed by men, since nearly all the tasks for whic
 ### 3.1. Role of trance
 
 
-The ability of some people to fall into a trance-like state as a means of accessing the spirit world is reported from many communities. Ethnographers may refer to such practitioners as shamans or spirit mediums. They may enter a state of disassociation or semi- consciousness, usually ritually induced, as a form of self-hypnosis, perhaps preceded by prolonged fasting. In this condition they are recognised as possessed by the god, and believed capable of super-human powers. A person’s utterance is then thought to be the direct voice of the ancestor or god.[^2] Elsewhere, the role of shaman varies greatly.
+The ability of some people to fall into a trance-like state as a means of accessing the spirit world is reported from many communities. Ethnographers may refer to such practitioners as shamans or spirit mediums. They may enter a state of disassociation or semi- consciousness, usually ritually induced, as a form of self-hypnosis, perhaps preceded by prolonged fasting. In this condition they are recognised as possessed by the god, and believed capable of super-human powers. A person’s utterance is then thought to be the direct voice of the ancestor or god.[^2]: Elsewhere, the role of shaman varies greatly.
 
 
 <a id="p-262"></a>

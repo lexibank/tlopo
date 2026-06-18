@@ -15,7 +15,7 @@ The products of the coconut palm are labelled by a complex terminology whose anc
 ## 2. The coconut palm
 
 
-Growing to between 20 and 30m in height, coconut palms are found in profusion along coasts and on lowlands throughout the Oceanic-speaking region. They need well drained, sandy soil, more than 1000 mm rain per year and plenty of sunlight. Because they tolerate salinity, they often grow along beaches ([French 1986](../sources/French1986): 31). Coconuts appear to have spread from southeast Asia both naturally (coconuts float) and anthropogenically (carried in the canoes of early settlers).[^1]
+Growing to between 20 and 30m in height, coconut palms are found in profusion along coasts and on lowlands throughout the Oceanic-speaking region. They need well drained, sandy soil, more than 1000 mm rain per year and plenty of sunlight. Because they tolerate salinity, they often grow along beaches ([French 1986](../sources/French1986): 31). Coconuts appear to have spread from southeast Asia both naturally (coconuts float) and anthropogenically (carried in the canoes of early settlers).[^1]:
 
 Just about every part of the palm and the fruit is used in traditional societies, and many of these parts are named. Because of the salience of the coconut in Oceanic cultures and because different uses are made of it at different stages of its growth, it is common for the fruit and palm to be given different names at different growth stages. These names are reconstructed in [§3](../contributions/3-12#s-3). Names for the parts of the fruit are reconstructed in [§4](../contributions/3-12#s-4) and for the parts of the palm other than the fruit in [§5](../contributions/3-12#s-5).
 
@@ -228,9 +228,9 @@ POc _&ast;niuR_ appears to have been used in at least two senses: the fruit at a
 ## 3. Growth stages of the coconut
 
 
-Right across Oceania, languages distinguish a number of growth stages of a coconut. These terminologies are often not cognate, but roughly agree on the semantic categories they distinguish.[^2] Sometimes a term for a growth stage becomes the generic term for coconut. For example, Lukep (Pono) (NNG) _matuk_ and Mota (NCV) _matig_, both 'coconut (generic)' and reflexes of POc _&ast;matuqu_ 'ripe coconut', have displaced the reflex of POc _&ast;niuR_ 'coconut (generic)'.[^3]
+Right across Oceania, languages distinguish a number of growth stages of a coconut. These terminologies are often not cognate, but roughly agree on the semantic categories they distinguish.[^2]: Sometimes a term for a growth stage becomes the generic term for coconut. For example, Lukep (Pono) (NNG) _matuk_ and Mota (NCV) _matig_, both 'coconut (generic)' and reflexes of POc _&ast;matuqu_ 'ripe coconut', have displaced the reflex of POc _&ast;niuR_ 'coconut (generic)'.[^3]:
 
-The growth stages are distinguished according to the states of the various parts of the fruit ([Figure 12.1](#fig-3-12_1), p.369). At and after its drinkable stage, a coconut consists of a hollow shell (the endocarp) lined with flesh (the endosperm) and filled with coconut water. The shell is surrounded by a thick husk (the mesocarp) composed of fibres (coir) and enclosed by an outer skin (the exocarp ).[^4] The shell has three germination pores that are visible on the shell once the husk is removed. It is through one of these that the radicle emerges when the embryo germinates.
+The growth stages are distinguished according to the states of the various parts of the fruit ([Figure 12.1](#fig-3-12_1), p.369). At and after its drinkable stage, a coconut consists of a hollow shell (the endocarp) lined with flesh (the endosperm) and filled with coconut water. The shell is surrounded by a thick husk (the mesocarp) composed of fibres (coir) and enclosed by an outer skin (the exocarp ).[^4]: The shell has three germination pores that are visible on the shell once the husk is removed. It is through one of these that the radicle emerges when the embryo germinates.
 
 
 <a id="s-3-1"></a>
@@ -240,7 +240,7 @@ The growth stages are distinguished according to the states of the various parts
 
 In the Oceanic view of the coconut's life cycle, the first stage is the formation of the tiny fruit from the bud. The fruit then acquires liquid, then soft flesh, and becomes a green drinking coconut. The main reason to pick the nut at this stage is to drink its water: a big nut contains up to one litre. As it matures, the outer skin turns from green to brown, and the flesh becomes harder and thereby suitable for scraping as a food ingredient and for wringing to produce coconut 'milk' or 'cream' ([vol.1, ch.6, §5.8](../contributions/1-6#s-5-8), and [ch.9, §2.2](../contributions/3-9#s-2-2) and [§7](../contributions/3-12#s-7)). The liquid becomes less and less drinkable. At this stage the coconut falls from the tree, the liquid solidifies into a spongy mass (the 'apple') and finally, given appropriate circumstances, germination occurs and the coconut sprouts to become a new palm. This contrasts markedly with a botanist's view of the coconut's life cycle (e.g. M. [Foale 2003](../sources/Foale2003): 43--50), which begins with germination, describes the stages of leaf production and culminates in flowering and fruiting. The botanist's view focusses on the palm, the Oceanic view on the fruit.
 
-Sample growth stage terminologies from seven well distributed Oceanic languages are listed below. The Petats terminology is from an ethnography, the others from dictionaries. The Petats, Mota, Anejom, Wayan and Tikopia stages are given in chronological order by their sources, whilst the Gumawana and Arosi stages were gleaned from dictionaries one term at a time and we have ordered them as best we can. The terminologies vary in size from 8 stages to 14, but we should probably not take these differences too seriously, for reasons discussed in association with [Table 12.1](#table-12.1). The number of stages seems to be about right: [Glennon & Glennon](../sources/GlennonandGlennon2005) ([2005](../sources/GlennonandGlennon2005)) list 7 for Nehan, [Fox](../sources/Fox1955) ([1955](../sources/Fox1955)) 7 for Gela, T. [Crowley](../sources/Crowley1992) ([1992](../sources/Crowley1992)) 11 for Paamese, [Thieberger](../sources/Thieberger2006b) ([2006b](../sources/Thieberger2006b)) 10 for S Efate, [Abo et al.](../sources/Aboetal1976) ([1976](../sources/Aboetal1976)) 8-10 for Marshallese,[^5] [Churchward](../sources/Churchward1959) ([1959](../sources/Churchward1959)) 11 for Tongan. [Waterhouse](../sources/Waterhouse1949) ([1949](../sources/Waterhouse1949)) lists 18 for Roviana, in order but unfortunately not glossed.
+Sample growth stage terminologies from seven well distributed Oceanic languages are listed below. The Petats terminology is from an ethnography, the others from dictionaries. The Petats, Mota, Anejom, Wayan and Tikopia stages are given in chronological order by their sources, whilst the Gumawana and Arosi stages were gleaned from dictionaries one term at a time and we have ordered them as best we can. The terminologies vary in size from 8 stages to 14, but we should probably not take these differences too seriously, for reasons discussed in association with [Table 12.1](#tab-12.1). The number of stages seems to be about right: [Glennon & Glennon](../sources/GlennonandGlennon2005) ([2005](../sources/GlennonandGlennon2005)) list 7 for Nehan, [Fox](../sources/Fox1955) ([1955](../sources/Fox1955)) 7 for Gela, T. [Crowley](../sources/Crowley1992) ([1992](../sources/Crowley1992)) 11 for Paamese, [Thieberger](../sources/Thieberger2006b) ([2006b](../sources/Thieberger2006b)) 10 for S Efate, [Abo et al.](../sources/Aboetal1976) ([1976](../sources/Aboetal1976)) 8-10 for Marshallese,[^5]: [Churchward](../sources/Churchward1959) ([1959](../sources/Churchward1959)) 11 for Tongan. [Waterhouse](../sources/Waterhouse1949) ([1949](../sources/Waterhouse1949)) lists 18 for Roviana, in order but unfortunately not glossed.
 
 
 <a id="p-358"></a>
@@ -291,7 +291,7 @@ The first three terminologies, for Gumawana, Petats and Arosi, have sets of term
 
 <a id="p-359"></a>
 
-The order of the Mota items below is that given by [Codrington & Palmer](../sources/CodringtonandPalmer1896) ([1896](../sources/CodringtonandPalmer1896): 84), except that we have added _vara_, not included among their growth stage terms. However, their definitions (scattered under the various entries in the dictionary) suggest that their sequencing may be wrong, as _pulutyar_ and _pepeya_ appear to belong before _vusa maremare_ (see discussion in association with [Table 12.1](#table-12.1)).
+The order of the Mota items below is that given by [Codrington & Palmer](../sources/CodringtonandPalmer1896) ([1896](../sources/CodringtonandPalmer1896): 84), except that we have added _vara_, not included among their growth stage terms. However, their definitions (scattered under the various entries in the dictionary) suggest that their sequencing may be wrong, as _pulutyar_ and _pepeya_ appear to belong before _vusa maremare_ (see discussion in association with [Table 12.1](#tab-12.1)).
 
 | Mota (NCV):     | 14 stages ([Codrington & Palmer 1896](../sources/CodringtonandPalmer1896))                                                     |
 |:----------------|:-----------------------------------------------------------------------------------------|
@@ -306,11 +306,11 @@ The order of the Mota items below is that given by [Codrington & Palmer](../sour
 | _vusa sisis_    | 'flesh can be scraped with a thumbnail'                                                  |
 | _pulut-ɣar_     | 'ripening, flesh sticks to scraper' (lit. 'stick.to scrape')                             |
 | _pepeɣa_        | 'outer skin turning yellow' (pepeya 'yellow')                                            |
-| _pane uwa_      | lit. 'turtle fin' [^6]                                                                    |
+| _pane uwa_      | lit. 'turtle fin' [^6]:                                                                    |
 | _kor_           | 'ready to fall' (kor 'become dry, with heat or time')                                    |
 | _vara_          | 'a sprouting coconut'                                                                    |
 
-The last three terminologies, Anejom, Wayan Fijian and Tikopia, differ from those above in that they appear to recognise no stages between a newly formed fruit and a drinkable green coconut, a fact that emerges clearly in [Table 12.1](#table-12.1). Whether these stages are less salient than others for speakers or whether the relevant terms are simply missing from the sources is not clear.
+The last three terminologies, Anejom, Wayan Fijian and Tikopia, differ from those above in that they appear to recognise no stages between a newly formed fruit and a drinkable green coconut, a fact that emerges clearly in [Table 12.1](#tab-12.1). Whether these stages are less salient than others for speakers or whether the relevant terms are simply missing from the sources is not clear.
 
 Anejom and Tikopia also recognise respectively three and four stages of sprouted coconut, but it can be argued that these are growth stages of the palm, not of the fruit. The other languages may have corresponding terms that are not listed as coconut growth stages.
 
@@ -355,14 +355,14 @@ Anejom and Tikopia also recognise respectively three and four stages of sprouted
 | _niu kapakau maroro_ | 'germinated, with shoots of about 30 em' (lit. 'coconut fins flying.fish ')            |
 | _niu raurau_         | 'germinated, with shoots of about 50 em' (lit. 'coconut leafy')                        |
 
-[Table 12.1](#table-12.1) attempts a rough comparison of the seven growth stage terminologies above. A dot indicates that the language has a term corresponding at least roughly to the growth stage to its left. Two or more dots indicate that number of terms which more or less correspond to the growth stage. The problem of Mota is discussed above: if we reordered the terms on the basis of their definitions, the four dots against 'ripe, flesh hardened' would be reduced to two. The multiple entries on the bottom ('sprouted ') line are also touched on above.
+[Table 12.1](#tab-12.1) attempts a rough comparison of the seven growth stage terminologies above. A dot indicates that the language has a term corresponding at least roughly to the growth stage to its left. Two or more dots indicate that number of terms which more or less correspond to the growth stage. The problem of Mota is discussed above: if we reordered the terms on the basis of their definitions, the four dots against 'ripe, flesh hardened' would be reduced to two. The multiple entries on the bottom ('sprouted ') line are also touched on above.
 
 Two intermediate growth stages are of particular importance to coconut consumers: the stage when the coconut is maximally drinkable, and the stage when the flesh is hardened enough to allow scraping for the production of coconut 'milk'. Not surprisingly, terms for these stages occur in every terminology. These are the two stages for which Tok Pisin of Papua New Guinea has distinct terms: _kulau_ (from Ramoaaina) and _drai_.
 
 
 <a id="p-361"></a>
 
-<a id="table-12.1"> </a>
+<a id="tab-12.1"> </a>
 
 : Table 12.1  Rough comparison of coconut growth stage terms in seven Oceanic languages
 
@@ -383,7 +383,7 @@ Two intermediate growth stages are of particular importance to coconut consumers
 
 Interestingly, two other stages have a term in all seven languages and in all terminologies we have examined: they are a term for the newly formed, tiny fruit and a term for the sprouted coconut. These are effectively the first and last stages in the life of the coconut (the bud is not yet a coconut).
 
-This means that stages 2, 6, 9 and 12, shown in bold in [Table 12.1](#table-12.1) are the effective landmarks in any Oceanic coconut growth stage terminology and that they are likely to have been present in the POc terminology. There is no principled means of determining, however, which intervening terms may have occurred in POc, and the level of cognacy among the seven terminologies above is low. What might be the reasons for this? One, at least, is that scholars who elicit ordered growth stage terminologies from Oceanic speakers may, in some cases at least, be imposing their concept of an ordered terminology on a somewhat less ordered collection of terms used for coconuts at various stages of development. Two kinds of fact support this contention. First, the terminologies above show considerable variation in the regions between the landmarks, almost as if in some cases the native-speaker informant was thinking of terms to satisfy the lexicographer. Second, some languages have binomial terms between the landmarks, where the first word denotes a nearby growth stage, usually a landmark, and the second is a modifier. For example, Mota _vusa_ denotes a green drinking coconut, and terms on either side of it in the growth sequence are binomials: _vusa ɣorɣor_ 'drinking coconut [for] scraping', _vusa maremare_ 'hard drinking coconut', _vusa sisis_ (meaning not known). Eight of the 11 stages in the Anejom sequence are built around _inhivañ_ 'drinking coconut' or _neañ_ 'ripe coconut'. Three of the 7 Wayan Fijian stages contain _bū_ 'drinking coconut'. The 11-stage Tongan system[^7] carries this reliance on landmark categories a step further: two out of _ŋono_ (meaning unknown), _mata_ 'unripe' and _motomoto_ 'not quite ripe' are strung together to create in-between categories (in bold below). Two other stages also include _mata_ (assuming that _matasili_ is a chance resemblance, as it does not denote an unripe stage).
+This means that stages 2, 6, 9 and 12, shown in bold in [Table 12.1](#tab-12.1) are the effective landmarks in any Oceanic coconut growth stage terminology and that they are likely to have been present in the POc terminology. There is no principled means of determining, however, which intervening terms may have occurred in POc, and the level of cognacy among the seven terminologies above is low. What might be the reasons for this? One, at least, is that scholars who elicit ordered growth stage terminologies from Oceanic speakers may, in some cases at least, be imposing their concept of an ordered terminology on a somewhat less ordered collection of terms used for coconuts at various stages of development. Two kinds of fact support this contention. First, the terminologies above show considerable variation in the regions between the landmarks, almost as if in some cases the native-speaker informant was thinking of terms to satisfy the lexicographer. Second, some languages have binomial terms between the landmarks, where the first word denotes a nearby growth stage, usually a landmark, and the second is a modifier. For example, Mota _vusa_ denotes a green drinking coconut, and terms on either side of it in the growth sequence are binomials: _vusa ɣorɣor_ 'drinking coconut [for] scraping', _vusa maremare_ 'hard drinking coconut', _vusa sisis_ (meaning not known). Eight of the 11 stages in the Anejom sequence are built around _inhivañ_ 'drinking coconut' or _neañ_ 'ripe coconut'. Three of the 7 Wayan Fijian stages contain _bū_ 'drinking coconut'. The 11-stage Tongan system[^7]: carries this reliance on landmark categories a step further: two out of _ŋono_ (meaning unknown), _mata_ 'unripe' and _motomoto_ 'not quite ripe' are strung together to create in-between categories (in bold below). Two other stages also include _mata_ (assuming that _matasili_ is a chance resemblance, as it does not denote an unripe stage).
 
 
 <a id="p-362"></a>
@@ -414,7 +414,7 @@ Reconstructions for the four landmark stages, 2, 6, 9 and 12, are presented firs
 ### 3.2. Growth stage 2: very small newly formed fruit
 
 
-Two weakly supported etyma, POc _&ast;(q)a-bʷaji_ and PEOc _&ast;kiripʷa_, can be offered for stage 2, 'very small newly formed fruit'.[^8] The former may contain the root _&ast;bʷaji_, which also occurs in POc _&ast;bʷaji-bʷaji_ 'coconut growth stage 4 or 5' ([§3.6](../contributions/3-12#s-3-6)).
+Two weakly supported etyma, POc _&ast;(q)a-bʷaji_ and PEOc _&ast;kiripʷa_, can be offered for stage 2, 'very small newly formed fruit'.[^8]: The former may contain the root _&ast;bʷaji_, which also occurs in POc _&ast;bʷaji-bʷaji_ 'coconut growth stage 4 or 5' ([§3.6](../contributions/3-12#s-3-6)).
 
 <table class="cognateset" id="3-12-3-2-362-POc-qabaji-a">
 <tr>
@@ -469,7 +469,7 @@ Two weakly supported etyma, POc _&ast;(q)a-bʷaji_ and PEOc _&ast;kiripʷa_, can
 ### 3.3. Growth stage 6: green, drinkable
 
 
-Two forms can be reconstructed for landmark stage 6, 'green drinkable coconut with thin creamy flesh'. The first, POc _&ast;karut_,[^9] has the best distributed support, but it is not as widely reflected as stage 9 terms, a fact that is surprising (and unexplained) in light of the salience of stage 6 in Oceanic cultures.
+Two forms can be reconstructed for landmark stage 6, 'green drinkable coconut with thin creamy flesh'. The first, POc _&ast;karut_,[^9]: has the best distributed support, but it is not as widely reflected as stage 9 terms, a fact that is surprising (and unexplained) in light of the salience of stage 6 in Oceanic cultures.
 
 <table class="cognateset" id="3-12-3-3-363-POc-karut-a">
 <tr>
@@ -740,7 +740,7 @@ cf. also:
 
 <a id="p-365"></a>
 
-The reconstruction of POc _&ast;[ma][R,r]aŋo_ ‘coconut growth stage 9: ripe, flesh hardened’ is subject to the same caveats as the formally identical reconstruction glossed ‘become withered (of vegetation)’ (q.v.). Both evidently reflect PCEMP _&ast;[ma]Raŋaw_ ‘dry’. It happens that all reflexes in the cogset below potentially reflect _&ast;R_, but only the Lau and Tape items reflect _&ast;R_ unambiguously. The languages of the other reflexes all merge _&ast;R_ and _&ast;r_. Only in Tape do we find the contrasting reflexes _məraŋ_ ‘dry’ (< _&ast;maraŋo_) and _meaŋ_ ‘green coconut with flesh that has become hard …’ (< _&ast;maRaŋo_), but we cannot be sure whether this reflects a longstanding semantic contrast between _&ast;maraŋo_ and _&ast;maRaŋo_ or is a local innovation.[^10]
+The reconstruction of POc _&ast;[ma][R,r]aŋo_ ‘coconut growth stage 9: ripe, flesh hardened’ is subject to the same caveats as the formally identical reconstruction glossed ‘become withered (of vegetation)’ (q.v.). Both evidently reflect PCEMP _&ast;[ma]Raŋaw_ ‘dry’. It happens that all reflexes in the cogset below potentially reflect _&ast;R_, but only the Lau and Tape items reflect _&ast;R_ unambiguously. The languages of the other reflexes all merge _&ast;R_ and _&ast;r_. Only in Tape do we find the contrasting reflexes _məraŋ_ ‘dry’ (< _&ast;maraŋo_) and _meaŋ_ ‘green coconut with flesh that has become hard …’ (< _&ast;maRaŋo_), but we cannot be sure whether this reflects a longstanding semantic contrast between _&ast;maraŋo_ and _&ast;maRaŋo_ or is a local innovation.[^10]:
 
 <table class="cognateset" id="3-12-3-4-365-POc-marrao-a">
 <tr>
@@ -1170,7 +1170,7 @@ Terms for coconut parts are divided here into parts of the fruit (this section) 
 
 
 
-In traditional times a palm bore between 5 and 30 coconuts a year, depending on the palm's age.[^12] The usable parts of a coconut are related to its growth stages. At the green drinkable stage, the main usable product is the coconut water, although the thin flesh is sometimes eaten as a snack. At the ripe stage, when the flesh has thickened and hardened, the flesh is scraped and the scrapings are wrung out to give coconut milk, which is used in food, especially in stews. The husk of the ripe coconut is removed with a husking stick. Its mesocarp consists of densely matted dry fibres which have a variety of uses. Clean half-shells, with the flesh removed, are used as cups. At the sprouting stage, apart from use for planting a new palm, the main product is the 'apple', the edible sweet spongy mass that fills the shell cavity.
+In traditional times a palm bore between 5 and 30 coconuts a year, depending on the palm's age.[^12]: The usable parts of a coconut are related to its growth stages. At the green drinkable stage, the main usable product is the coconut water, although the thin flesh is sometimes eaten as a snack. At the ripe stage, when the flesh has thickened and hardened, the flesh is scraped and the scrapings are wrung out to give coconut milk, which is used in food, especially in stews. The husk of the ripe coconut is removed with a husking stick. Its mesocarp consists of densely matted dry fibres which have a variety of uses. Clean half-shells, with the flesh removed, are used as cups. At the sprouting stage, apart from use for planting a new palm, the main product is the 'apple', the edible sweet spongy mass that fills the shell cavity.
 
 The fruit parts for which reconstructions are provided here are thus:
 
@@ -1186,7 +1186,7 @@ The fruit parts for which reconstructions are provided here are thus:
 ### 4.1. Coconut water
 
 
-POc _&ast;suRuq_ appears to have denoted drinkable liquids in general, including soups, but perhaps excluding plain water: its range clearly included coconut water. No more specialised designation for coconut water has been reconstructed, and it seems likely that the terms for a green drinking coconut ([§3.3](../contributions/3-12#s-3-3)) were also used for the water inside it.[^13]
+POc _&ast;suRuq_ appears to have denoted drinkable liquids in general, including soups, but perhaps excluding plain water: its range clearly included coconut water. No more specialised designation for coconut water has been reconstructed, and it seems likely that the terms for a green drinking coconut ([§3.3](../contributions/3-12#s-3-3)) were also used for the water inside it.[^13]:
 
 <table class="cognateset" id="3-12-4-1-369-POc-suruq-a">
 <tr>
@@ -1331,9 +1331,9 @@ The weakly attested etymon POc _&ast;namo_ may have denoted 'coconut water' or a
 ### 4.2. Coconut flesh and its products
 
 
-When the coconut is ripe, the hardened flesh is either removed from the shell and cut up, or scraped from the shell using a coconut scraper. Scraping produces parings which are then squeezed to produce coconut milk.[^14]
+When the coconut is ripe, the hardened flesh is either removed from the shell and cut up, or scraped from the shell using a coconut scraper. Scraping produces parings which are then squeezed to produce coconut milk.[^14]:
 
-The best candidate for 'coconut flesh' is POc _&ast;kanoŋ_, a fossilised reflex of PMP _&ast;kan-en_ 'something to be eaten, food', itself a nominalisation of the PMP verb 'eat', _&ast;kaʔen_, or _&ast;kan_ in the context of certain affixes. POc _&ast;kanoŋ_ had evidently lost its expected sense and denoted 'flesh, inner substance, coconut flesh'. The morphology of POc nominalisations is discussed in [vol.1 (ch.2, §3.2.1](../contributions/1-2#s-3-2-1)).[^15]
+The best candidate for 'coconut flesh' is POc _&ast;kanoŋ_, a fossilised reflex of PMP _&ast;kan-en_ 'something to be eaten, food', itself a nominalisation of the PMP verb 'eat', _&ast;kaʔen_, or _&ast;kan_ in the context of certain affixes. POc _&ast;kanoŋ_ had evidently lost its expected sense and denoted 'flesh, inner substance, coconut flesh'. The morphology of POc nominalisations is discussed in [vol.1 (ch.2, §3.2.1](../contributions/1-2#s-3-2-1)).[^15]:
 
 <table class="cognateset" id="3-12-4-2-370-POc-kano-a">
 <tr>
@@ -2052,7 +2052,7 @@ We observed above that POc _&ast;paraq_ 'coconut embryo' was also used to refer 
 
 <a id="p-375"></a>
 
-The less widely reflected terms PAdm _&ast;puto-_, POc _&ast;pʷiras_ and PWOc _&ast;gawa_ also seem to have had 'coconut apple' as their principal denotation. Despite its formal similarity to POc _&ast;qutok_ above, PAdm _&ast;puto-_ 'spongy mass inside sprouting nut' appears to be a separate item, the reflexes of which denote only the inside of the sprouted coconut.[^16]
+The less widely reflected terms PAdm _&ast;puto-_, POc _&ast;pʷiras_ and PWOc _&ast;gawa_ also seem to have had 'coconut apple' as their principal denotation. Despite its formal similarity to POc _&ast;qutok_ above, PAdm _&ast;puto-_ 'spongy mass inside sprouting nut' appears to be a separate item, the reflexes of which denote only the inside of the sprouted coconut.[^16]:
 
 <table class="cognateset" id="3-12-4-3-375-PAdm-puto-a">
 <tr>
@@ -2168,7 +2168,7 @@ The less widely reflected terms PAdm _&ast;puto-_, POc _&ast;pʷiras_ and PWOc _
 ### 4.4. Coconut husk
 
 
-Fibre from coconut husks ('coir' < Malay _kayar_ 'rope') is used for floor matting, brushes, ropes and strainers. Husks and shells are used for fuel.[^17] Most Oceanic languages have distinct terms for the husk of coconuts, probably reflecting its importance for cordage and for fuel ([Firth 1985](../sources/Firth1985): 369). For example, in Kiribati there are names for all the operations involved in making string from _benu_ 'coconut husk (for making string)', namely _tao-benu_ 'soaking the benu'; _tae-benu_ 'taking it out of the soaking pit'; _tiri-benu_ 'beating the _benu_ to clean it'; _ake-ake_ or _ake-a te benu_ 'to hackle it'; _bo-binoka_ 'to arrange benu ready for twisting'; _kakano_ 'twist the _benu_ on thigh to make string' ([Sabatier 1971](../sources/Sabatier1971): 63).
+Fibre from coconut husks ('coir' < Malay _kayar_ 'rope') is used for floor matting, brushes, ropes and strainers. Husks and shells are used for fuel.[^17]: Most Oceanic languages have distinct terms for the husk of coconuts, probably reflecting its importance for cordage and for fuel ([Firth 1985](../sources/Firth1985): 369). For example, in Kiribati there are names for all the operations involved in making string from _benu_ 'coconut husk (for making string)', namely _tao-benu_ 'soaking the benu'; _tae-benu_ 'taking it out of the soaking pit'; _tiri-benu_ 'beating the _benu_ to clean it'; _ake-ake_ or _ake-a te benu_ 'to hackle it'; _bo-binoka_ 'to arrange benu ready for twisting'; _kakano_ 'twist the _benu_ on thigh to make string' ([Sabatier 1971](../sources/Sabatier1971): 63).
 
 Doublet forms, POc _&ast;punut_ and _&ast;pʷenu(t)_, both 'coconut husk', appear to be reconstructable. Blust (ACD) also reconstructs the PMP doublets _&ast;bunut_ and _&ast;benut_. PMP _&ast;bunut_ is clearly the source of POc _&ast;punut_, but PMP _&ast;benut_ is just as clearly not the source of _&ast;pʷenu(t)_, as its expected POc reflex would be †_&ast;ponut_. Instead, _&ast;pʷenu(t)_ reflects a shift of the rounding feature of _&ast;-u-_ forward to _&ast;p-_. The change is not regular, and perhaps the result of vowel dissimilation. The Nduke, Bugotu, Gela, Longgu and Puluwatese point to an initial labiovelar.
 
@@ -2360,11 +2360,11 @@ The growing period of a coconut palm from the germination of a nut to the produc
 
 > The crown of the palm is made up of 20--35 fronds, depending on how favourable the growing environment is. The fronds emerging in sequence from the central bud of the palm conform to a set geometrical pattern of angular separation around the circumference of the palm trunk. … If frond 1 in a series is given the azimuth angle of zero degrees, frond 2 will be located at plus or minus 140 degrees, frond 3 at 280 degrees, frond 4 past the starting angle at 60 degrees on the second circuit … (M. [Foale 2003](../sources/Foale2003): 48).
 
-A new frond is supported at its base by a netlike brown fibrous epidermis so thick, tough and regular that it looks almost machine-made. It protects the tender growing area from physical injury, supporting the new leaf until it is mature, after which it drops to the ground and is collected for a number of uses. [Arber](../sources/Arber1922) ([1922](../sources/Arber1922)) labelled it the 'coiffe' or 'pellicule'[^20] - but these terms have not caught on and it is often omitted from western descriptions of the coconut palm - yet its POc names are among the most easily reconstructed terms for a part of the coconut palm. We will call this material 'frond netting' in order to distinguish it clearly from the better known source of fibre, the coir of the coconut husk ([§4.4](../contributions/3-12#s-4-4)).
+A new frond is supported at its base by a netlike brown fibrous epidermis so thick, tough and regular that it looks almost machine-made. It protects the tender growing area from physical injury, supporting the new leaf until it is mature, after which it drops to the ground and is collected for a number of uses. [Arber](../sources/Arber1922) ([1922](../sources/Arber1922)) labelled it the 'coiffe' or 'pellicule'[^20]: - but these terms have not caught on and it is often omitted from western descriptions of the coconut palm - yet its POc names are among the most easily reconstructed terms for a part of the coconut palm. We will call this material 'frond netting' in order to distinguish it clearly from the better known source of fibre, the coir of the coconut husk ([§4.4](../contributions/3-12#s-4-4)).
 
-A new flower bunch (inflorescence), from which coconuts eventually emerge, appears at the base of the frond that has reached the 1Oth to 12th position down from the youngest emerging frond. The flower bunch is encased in a spear-like sheath (the spathe) which protrudes as much as a metre from the inner side of the base of its accompanying frond. The tough skin of the spathe splits and shrinks back somewhat, exposing the inflorescence (M. [Foale 2003](../sources/Foale2003): 47).[^21] The multi-branch flower stalk (spadix) becomes the stalk of a new bunch of coconuts.
+A new flower bunch (inflorescence), from which coconuts eventually emerge, appears at the base of the frond that has reached the 1Oth to 12th position down from the youngest emerging frond. The flower bunch is encased in a spear-like sheath (the spathe) which protrudes as much as a metre from the inner side of the base of its accompanying frond. The tough skin of the spathe splits and shrinks back somewhat, exposing the inflorescence (M. [Foale 2003](../sources/Foale2003): 47).[^21]: The multi-branch flower stalk (spadix) becomes the stalk of a new bunch of coconuts.
 
-[Table 4.1](#table-4.1) of Chapter 4 shows part of the coconut terminology ofTikopia, which is typical of Oceanic languages in its coverage. The parts of the coconut palm that are typically named are:
+[Table 4.1](#tab-4.1) of Chapter 4 shows part of the coconut terminology ofTikopia, which is typical of Oceanic languages in its coverage. The parts of the coconut palm that are typically named are:
 
 - the frond and its parts ([§5 .1](../contributions/3-12#s-5-1))
 - frond netting ([§5.2](../contributions/3-12#s-5-2))
@@ -2378,7 +2378,7 @@ Coconuts     3 79
 
 
 
-Some parts of the palm are labelled with terms that are used for parts of plants in general. For example, Oceanic languages do not have a distinct name for the trunk of a coconut palm and nor presumably did POc. Instead, POc _&ast;puqu(n)_ 'base of tree, source, origin' ([ch.4, §2.1](../contributions/3-4#s-2-1)) was apparently used, and the trunk of a coconut palm-and by metonymy the palm as a whole-was probably _&ast;puqun ni niuR_ ([ch.2, §7.1.3](../contributions/3-2#s-7-1-3)). The coconut trunk is sometimes used for flooring and bearers, but it is difficult to trim and by no means the best material for these purposes ([O'Collins & Lamothe 1989](../sources/OCollinsandLamothe1989), [Kwa'ioloa & Burt 2001](../sources/KwaioloaandBurt2001): 192). The young leaf shoots of the coconut palm, which are sometimes eaten ([French 1986](../sources/French1986): 31), have a distinct name only in Central Pacific languages (PCP _&ast;tō-rau_, where the second element reflects POc _&ast;raun_ 'leaf; [ch.4, §2.5](../contributions/3-4#s-2-5), cf. [Table 4.7](#table-4.7)), but are otherwise labelled with whatever term is used for leaf-shoots ([ch.4, §2.6](../contributions/3-4#s-2-6)).
+Some parts of the palm are labelled with terms that are used for parts of plants in general. For example, Oceanic languages do not have a distinct name for the trunk of a coconut palm and nor presumably did POc. Instead, POc _&ast;puqu(n)_ 'base of tree, source, origin' ([ch.4, §2.1](../contributions/3-4#s-2-1)) was apparently used, and the trunk of a coconut palm-and by metonymy the palm as a whole-was probably _&ast;puqun ni niuR_ ([ch.2, §7.1.3](../contributions/3-2#s-7-1-3)). The coconut trunk is sometimes used for flooring and bearers, but it is difficult to trim and by no means the best material for these purposes ([O'Collins & Lamothe 1989](../sources/OCollinsandLamothe1989), [Kwa'ioloa & Burt 2001](../sources/KwaioloaandBurt2001): 192). The young leaf shoots of the coconut palm, which are sometimes eaten ([French 1986](../sources/French1986): 31), have a distinct name only in Central Pacific languages (PCP _&ast;tō-rau_, where the second element reflects POc _&ast;raun_ 'leaf; [ch.4, §2.5](../contributions/3-4#s-2-5), cf. [Table 4.7](#tab-4.7)), but are otherwise labelled with whatever term is used for leaf-shoots ([ch.4, §2.6](../contributions/3-4#s-2-6)).
 
 
 <a id="s-5-1"></a>
@@ -2742,7 +2742,7 @@ PWOc _&ast;daki_ had a similar meaning.
 
 
 
-POc _&ast;ramaR_ 'coconut leaf used as a torch when fishing', reflecting PMP _&ast;damaR_ 'resin, torch, light', is also reconstructable ([Ross 1996d](../sources/Ross1996d): 205; [vol.1, ch. 8, § 8](../contributions/1-8#s-8)).[^22] All reflexes indicate that this term denoted a torch - and specifically a torch used for fishing - rather just a coconut frond. The Lou and Tongan reflexes suggest that the _&ast;ramaR_ may also have been used as a verb.
+POc _&ast;ramaR_ 'coconut leaf used as a torch when fishing', reflecting PMP _&ast;damaR_ 'resin, torch, light', is also reconstructable ([Ross 1996d](../sources/Ross1996d): 205; [vol.1, ch. 8, § 8](../contributions/1-8#s-8)).[^22]: All reflexes indicate that this term denoted a torch - and specifically a torch used for fishing - rather just a coconut frond. The Lou and Tongan reflexes suggest that the _&ast;ramaR_ may also have been used as a verb.
 
 <table class="cognateset" id="3-12-5-1-382-POc-ramar-a">
 <tr>
@@ -3017,7 +3017,7 @@ Our sources often do not distinguish clearly between the frond and the leaflet (
 
 The protective netting at the base of the new coconut frond has the appearance of an open-weave cloth and is used in Oceanic societies for straining liquids, and particularly for wringing coconut 'milk' out of coconut flesh.
 
-Two POc terms are reconstructable. The first, _&ast;kaka_ seems to have denoted the netting material itself, or perhaps the young frond within it. The second, _&ast;Runut_, perhaps denoted the material in its function as a strainer.[^23] In [vol.1 (ch.6, §5.6](../contributions/1-6#s-5-6)) a metathesised form _&ast;nuRut_ is also reconstructed on the basis of the Motu, Tolai and Mota reflexes. It is possible that this form did indeed occur, but it is also possible that metathesis occurred independently in two or three locations. Misima _lulusi_ and Tawala _luluhi_ are borrowings from a Suauic language like Saliba: the addition of _-i_ after final consonants is unique to Suauic. These two forms and Saliba _lulusi_ all display consonant assimilation (the expected Saliba form is †_lunusi_) and it is impossible to tell whether they reflect _&ast;Runut_ or _&ast;nuRut_.
+Two POc terms are reconstructable. The first, _&ast;kaka_ seems to have denoted the netting material itself, or perhaps the young frond within it. The second, _&ast;Runut_, perhaps denoted the material in its function as a strainer.[^23]: In [vol.1 (ch.6, §5.6](../contributions/1-6#s-5-6)) a metathesised form _&ast;nuRut_ is also reconstructed on the basis of the Motu, Tolai and Mota reflexes. It is possible that this form did indeed occur, but it is also possible that metathesis occurred independently in two or three locations. Misima _lulusi_ and Tawala _luluhi_ are borrowings from a Suauic language like Saliba: the addition of _-i_ after final consonants is unique to Suauic. These two forms and Saliba _lulusi_ all display consonant assimilation (the expected Saliba form is †_lunusi_) and it is impossible to tell whether they reflect _&ast;Runut_ or _&ast;nuRut_.
 
 <table class="cognateset" id="3-12-5-2-384-POc-kaka-a">
 <tr>
@@ -3318,7 +3318,15 @@ The importance of the coconut in POc culture is attested - as we might expect - 
 
 [^15]: Productive nominalisations of reflexes of POc _&ast;kani_ 'eat' in Oceanic languages usually mean 'staple food' and by extension 'food in general' ([ch.2, §6.1](../contributions/3-2#s-6-1)).
 
-[^16]: [Lynch](../sources/Lynch2001c) ([2001c](../sources/Lynch2001c)) reconstructs PSV _&ast;nə-vutoy_ 'brain' with an unexpected initial _&ast;v-_ reflected in Anejom _h-_. Its resemblance to PAdm _&ast;puto-_ is probably accidental, as its reflexes only denote 'brain' and it is probably a reflex of POc _&ast;qutok_ in which PSV _&ast;v-_ (normally < POc _&ast;p-_) is an idiosyncratic innovation. <table id="3-12-4-3-375-sv-anejom-nhutuma">
+[^16]: [Lynch](../sources/Lynch2001c) ([2001c](../sources/Lynch2001c)) reconstructs PSV _&ast;nə-vutoy_ 'brain' with an unexpected initial _&ast;v-_ reflected in Anejom _h-_. Its resemblance to PAdm _&ast;puto-_ is probably accidental, as its reflexes only denote 'brain' and it is probably a reflex of POc _&ast;qutok_ in which PSV _&ast;v-_ (normally < POc _&ast;p-_) is an idiosyncratic innovation. <table id="3-12-4-3-375--psv-nvutoy">
+<tr>
+<td>None</td>
+<td><a href="../languages/psv">PSV</a></td>
+<td style="white-space: nowrap"><i>nə-vutoy</i></td>
+<td>
+'<span>brain</span>'(<a href="../sources/Lynch2001c">Lynch 2001c</a>)
+</td>
+</tr>
 <tr>
 <td>SV</td>
 <td><a href="../languages/anejom">Anejom̃</a></td>

@@ -8,7 +8,7 @@
 ## 1. Introduction
 
 
-Body part terms such as those for head, eye, nose, arm, leg, and breast, are among the most stable of all lexemes.[^1] For this reason they are included by linguists in the ‘basic vocabulary’ used, for example, to measure relationships among languages lexicostatistically.
+Body part terms such as those for head, eye, nose, arm, leg, and breast, are among the most stable of all lexemes.[^1]: For this reason they are included by linguists in the ‘basic vocabulary’ used, for example, to measure relationships among languages lexicostatistically.
 
 In Oceanic languages, as in languages worldwide, body part terms are used metaphorically, for instance in landscape features, where nose sometimes means cape, mouth means hole or entrance, and belly means central part. It is probably also universal that body part terms are used to refer to location in space, to top, middle, bottom, front, back, left and right. In Oceanic languages internal organs, particularly the liver, are used in expressions of emotion and other mental states where, for instance, ‘to be startled’ is expressed as ‘one’s liver leaps’ or similar.
 
@@ -25,7 +25,7 @@ Contents are organised into the body ([§3.2](ContributionTable?anchor=s-3-2#cld
 
 <a id="p-76"></a>
 
-Most Oceanic languages outside Polynesia make a grammatical distinction between directly and indirectly possessed nouns, and this distinction is reconstructable for Proto Oceanic ([Lichtenberk 1985a](Source#cldf:Lichtenberk1985a)). As discussed briefly in [vol.1:32](ContributionTable?anchor=p-32#cldf:1-2), a directly possessed (= monovalent) noun takes a suffix indicating its possessor (e.g. POc _&ast;qaqe-_ ‘leg’: _&ast;qaqe-gu_ ‘my leg’, _&ast;qaqe-mu_ ‘your (singular) leg’, _&ast;qaqe-ña_ ‘his/her leg’ etc), whereas an indirectly possessed (zero-valency) noun requires no suffix. Directly possessed nouns are said to be inalienably possessed, that is, they are items that usually do not exist without a possessor. They include body parts of human beings and animals (‘hand’, ‘nose’, ‘tail’, ‘wing/fin’ etc), parts of plants (‘fruit’, ‘bark’, ‘branch’ etc), relational local nouns ([§3.1.2](ContributionTable?anchor=s-3-1-2#cldf:5-3)), and kin terms (‘father’, ‘same-sex sibling’ etc).[^2] However, the converse is not true: not all kin and body part terms are directly possessed. In many Oceanic languages, a monovalent noun must have a possessor suffix or, if the possessor is nonspecific, be linked in some way to that possessor. This linkage may reflect the POc linker _&ast;qi_ (e.g. POc _&ast;pasu qi mata-_ ‘ridge of eye’ = ‘eyebrow ridge’; [§3.4.9](ContributionTable?anchor=s-3-4-9#cldf:5-3).3), but in many languages the linker is lost and a compound occurs (e.g. Nguna _vasu-mata_ ‘eyebrow’). In other languages _&ast;qi_ has been replaced by a reflex of _&ast;ni_, which occurred with a zero-valency possessor noun. It is not clear whether the possessor suffix or the linker was obligatory in Proto Oceanic ([Ross 1998c](Source#cldf:Ross1998c) reconstructs the construction with _&ast;qi_).
+Most Oceanic languages outside Polynesia make a grammatical distinction between directly and indirectly possessed nouns, and this distinction is reconstructable for Proto Oceanic ([Lichtenberk 1985a](Source#cldf:Lichtenberk1985a)). As discussed briefly in [vol.1:32](ContributionTable?anchor=p-32#cldf:1-2), a directly possessed (= monovalent) noun takes a suffix indicating its possessor (e.g. POc _&ast;qaqe-_ ‘leg’: _&ast;qaqe-gu_ ‘my leg’, _&ast;qaqe-mu_ ‘your (singular) leg’, _&ast;qaqe-ña_ ‘his/her leg’ etc), whereas an indirectly possessed (zero-valency) noun requires no suffix. Directly possessed nouns are said to be inalienably possessed, that is, they are items that usually do not exist without a possessor. They include body parts of human beings and animals (‘hand’, ‘nose’, ‘tail’, ‘wing/fin’ etc), parts of plants (‘fruit’, ‘bark’, ‘branch’ etc), relational local nouns ([§3.1.2](ContributionTable?anchor=s-3-1-2#cldf:5-3)), and kin terms (‘father’, ‘same-sex sibling’ etc).[^2]: However, the converse is not true: not all kin and body part terms are directly possessed. In many Oceanic languages, a monovalent noun must have a possessor suffix or, if the possessor is nonspecific, be linked in some way to that possessor. This linkage may reflect the POc linker _&ast;qi_ (e.g. POc _&ast;pasu qi mata-_ ‘ridge of eye’ = ‘eyebrow ridge’; [§3.4.9](ContributionTable?anchor=s-3-4-9#cldf:5-3).3), but in many languages the linker is lost and a compound occurs (e.g. Nguna _vasu-mata_ ‘eyebrow’). In other languages _&ast;qi_ has been replaced by a reflex of _&ast;ni_, which occurred with a zero-valency possessor noun. It is not clear whether the possessor suffix or the linker was obligatory in Proto Oceanic ([Ross 1998c](Source#cldf:Ross1998c) reconstructs the construction with _&ast;qi_).
 
 Directly possessed nouns are here marked with a following hyphen, e.g. _&ast;qaqe-_ ‘leg’, in order to indicate that a possessor suffix was/is usually present.
 
@@ -199,7 +199,7 @@ The POc term for blood was _&ast;draRa(q)_. Reflexes are found in all major subg
 ### 3.4. Bone
 
 
-Two POc forms are reconstructed for ‘bone’, _&ast;tuqan_/_tuqa-_ and _&ast;suRi-_. The former appears to be the formally irregular continuation of PMP _&ast;tuqelan_. The expected POc form is †_&ast;tuqolan_, but we are inferring that the medial _&ast;-e-_ of _&ast;tuqelan_, phonetically schwa, was first lost, and the resulting _&ast;-ql-_ sequence was then simplified to _&ast;-q-_.[^4] POc _&ast;suRi-_ on the other hand is evidently a POc innovation.[^5] Certain SE Solomonic and Polynesian languages reflect both, with a difference in meaning. In SE Solomonic languages apparent reflexes of _&ast;tuqa-_ mean ‘leg’ (listed under ‘cf. also’) and reflexes of _&ast;suRi-_ mean ‘bone’. Lau (SES) has _suli-_ ‘bone’ and what looks like a reflex of _&ast;tuqa-_ in _ua-sifo_ ‘bone marrow’, but forms with _ua-_ are not listed elsewhere in [Fox](Source#cldf:Fox1974) ([1974](Source#cldf:Fox1974)). PPn _&ast;tuqa_ meant ‘back’, whilst POc _&ast;suRi-_ is continued as ‘bone’ in Poynesian languages.
+Two POc forms are reconstructed for ‘bone’, _&ast;tuqan_/_tuqa-_ and _&ast;suRi-_. The former appears to be the formally irregular continuation of PMP _&ast;tuqelan_. The expected POc form is †_&ast;tuqolan_, but we are inferring that the medial _&ast;-e-_ of _&ast;tuqelan_, phonetically schwa, was first lost, and the resulting _&ast;-ql-_ sequence was then simplified to _&ast;-q-_.[^4]: POc _&ast;suRi-_ on the other hand is evidently a POc innovation.[^5]: Certain SE Solomonic and Polynesian languages reflect both, with a difference in meaning. In SE Solomonic languages apparent reflexes of _&ast;tuqa-_ mean ‘leg’ (listed under ‘cf. also’) and reflexes of _&ast;suRi-_ mean ‘bone’. Lau (SES) has _suli-_ ‘bone’ and what looks like a reflex of _&ast;tuqa-_ in _ua-sifo_ ‘bone marrow’, but forms with _ua-_ are not listed elsewhere in [Fox](Source#cldf:Fox1974) ([1974](Source#cldf:Fox1974)). PPn _&ast;tuqa_ meant ‘back’, whilst POc _&ast;suRi-_ is continued as ‘bone’ in Poynesian languages.
 
 The areas in which reflexes of each term occur (in the meaning ‘bone’) are interlaced across the Pacific, as follows:
 
@@ -210,7 +210,7 @@ The areas in which reflexes of each term occur (in the meaning ‘bone’) are i
 | Mic              | SES, TM, SOc (= NCV, SV, NCal) |
 | W and E Fijian   | E Fijian, Pn                   |
 
-The interlacing is particularly intricate in Meso-Melanesian languages and in Fiji. The distribution of reflexes in Meso-Melanesian is shown below. Where individual languages are shown, these are in italics. The languages constituting the Bali-Vitu, Willaumez, Tungag/Nalik and Madak groups are listed in Appendix B. Reflexes of the two terms are split across the tiny Tabar group. They are also split across the St George linkage, but this is less surprising, as ‘St George’ is a large group, of which southern New Ireland microgroups and languages, as well as NW Solomonic, are probably first-order subgroups.[^6] Reflexes are also split within NW Solomonic, in particular cutting across the Nehan/N Bougainville (NNB) subgroup.[^7]
+The interlacing is particularly intricate in Meso-Melanesian languages and in Fiji. The distribution of reflexes in Meso-Melanesian is shown below. Where individual languages are shown, these are in italics. The languages constituting the Bali-Vitu, Willaumez, Tungag/Nalik and Madak groups are listed in Appendix B. Reflexes of the two terms are split across the tiny Tabar group. They are also split across the St George linkage, but this is less surprising, as ‘St George’ is a large group, of which southern New Ireland microgroups and languages, as well as NW Solomonic, are probably first-order subgroups.[^6]: Reflexes are also split within NW Solomonic, in particular cutting across the Nehan/N Bougainville (NNB) subgroup.[^7]:
 
 
 <a id="p-85"></a>
@@ -275,7 +275,7 @@ Reflexes of PPn _&ast;tuqa_ ‘back, outer side’ can be used in compounds to i
 
 <a id="p-88"></a>
 
-Three sets of seemingly irregular reflexes of POc _&ast;suRi_ ‘bone’ are listed under ‘cf. also’ below. One consists of Vitiaz Strait (NNG) reflexes of Proto Korap and pre-Mangap _&ast;tura-_,[^8] a second of Papuan Tip reflexes of Proto PT _&ast;turiɣa_ ‘bone’. These may be irregular reflexes of _&ast;suRi-_ reflecting replacement of the initial consonant through contamination by _&ast;tuqan_. The third set consists of the Nyindrou and Micronesian terms, which reflect POc _&ast;(dr,r)uRi_ ‘thorn’ ([vol.3:125](ContributionTable?anchor=p-125#cldf:3-4)). It seems that this may reflect a transfer of meaning from _&ast;suRi-_ to the formally similar _&ast;(dr,r)uRi_.
+Three sets of seemingly irregular reflexes of POc _&ast;suRi_ ‘bone’ are listed under ‘cf. also’ below. One consists of Vitiaz Strait (NNG) reflexes of Proto Korap and pre-Mangap _&ast;tura-_,[^8]: a second of Papuan Tip reflexes of Proto PT _&ast;turiɣa_ ‘bone’. These may be irregular reflexes of _&ast;suRi-_ reflecting replacement of the initial consonant through contamination by _&ast;tuqan_. The third set consists of the Nyindrou and Micronesian terms, which reflect POc _&ast;(dr,r)uRi_ ‘thorn’ ([vol.3:125](ContributionTable?anchor=p-125#cldf:3-4)). It seems that this may reflect a transfer of meaning from _&ast;suRi-_ to the formally similar _&ast;(dr,r)uRi_.
 
 [POc &ast;_suRi-_](cognatesetreferences.csv#cldf:5-3-3-4-88-POc-suri-a)
 
@@ -391,7 +391,7 @@ Many Oceanic languages have distinct terms for body hair and head hair, although
 
 <a id="p-96"></a>
 
-Reflexes of both _&ast;pulu-_ and _&ast;puRu-_ denote bird feathers.[^11] In a number of languages of Melanesia, however, bird feathers are denoted by a reflex of POc _&ast;ipu-_ ‘head hair, feather’ ([§3.3.7](ContributionTable?anchor=s-3-3-7#cldf:5-3); for feathers, see [vol.4:273](ContributionTable?anchor=p-273#cldf:4-6)–274).
+Reflexes of both _&ast;pulu-_ and _&ast;puRu-_ denote bird feathers.[^11]: In a number of languages of Melanesia, however, bird feathers are denoted by a reflex of POc _&ast;ipu-_ ‘head hair, feather’ ([§3.3.7](ContributionTable?anchor=s-3-3-7#cldf:5-3); for feathers, see [vol.4:273](ContributionTable?anchor=p-273#cldf:4-6)–274).
 
 POc evidently also had a separate term for pubic hair (see below).
 
@@ -486,11 +486,11 @@ We turn first to _&ast;(p,pʷ)atu(k)_ and _&ast;bʷatu(k)_.
 
 [5-3-4-2-103-wmp-malay-batok](cf.csv#cldf:5-3-4-2-103-wmp-malay-batok)
 
-The glosses above suggest the possibility that PMP _&ast;batuk_ meant ‘outer shell’, whether of the skull or of, say, a nut. The CMP terms, in which _ulu-_ reflects PMP _&ast;quluh_ ‘head’ ([§3.4.1](ContributionTable?anchor=s-3-4-1#cldf:5-3)), thus had the literal sense ‘shell of head’, i.e. ‘skull’, leading to the likelihood that the directly inherited POc reflex of PMP _&ast;batuk_ was not POc _&ast;bʷatu(k)_ ‘head’ but POc _&ast;(p,pʷ)atu(k)_ ‘outer shell, skull’ below.[^15] It is also possible that this _&ast;(p,pʷ)atu_ shares history with POc _&ast;pʷatu[ka]-_ ‘elbow, knee; joint, node’ ([§3.6.8](ContributionTable?anchor=s-3-6-8#cldf:5-3).1.1), particularly if the latter referred specifically to the knee-cap, itself an outer shell—but we have no direct evidence of this at the moment.
+The glosses above suggest the possibility that PMP _&ast;batuk_ meant ‘outer shell’, whether of the skull or of, say, a nut. The CMP terms, in which _ulu-_ reflects PMP _&ast;quluh_ ‘head’ ([§3.4.1](ContributionTable?anchor=s-3-4-1#cldf:5-3)), thus had the literal sense ‘shell of head’, i.e. ‘skull’, leading to the likelihood that the directly inherited POc reflex of PMP _&ast;batuk_ was not POc _&ast;bʷatu(k)_ ‘head’ but POc _&ast;(p,pʷ)atu(k)_ ‘outer shell, skull’ below.[^15]: It is also possible that this _&ast;(p,pʷ)atu_ shares history with POc _&ast;pʷatu[ka]-_ ‘elbow, knee; joint, node’ ([§3.6.8](ContributionTable?anchor=s-3-6-8#cldf:5-3).1.1), particularly if the latter referred specifically to the knee-cap, itself an outer shell—but we have no direct evidence of this at the moment.
 
 It seems unlikely, however, that the formal and semantic similarity of _&ast;(p,pʷ)atu(k)_ and _&ast;bʷatu(k)_ is due to chance, and more probable that both ultimately reflect PMP _&ast;batuk_ ‘outer shell’, with _&ast;bʷatu(k)_ an indirect reflex—perhaps a loan from a language that retained PMP _&ast;b-_, perhaps the outcome of a piece of word-play or of some process that the data do not reveal. Such splits in pre-Oceanic etyma did occur occasionally, as attested by the split of PMP _&ast;buaq_ ‘fruit’ into POc _&ast;puaq_ ‘fruit’ ([vol.3:115](ContributionTable?anchor=p-115#cldf:3-4)) and POc _&ast;buaq_ ‘betelnut, areca palm’ ([vol.3:393](ContributionTable?anchor=p-393#cldf:3-13); see the summary of Blust’s [ACD](Source#cldf:Blust1995) discussion there). However, there is no non-Oceanic evidence of such a split. The cognate set supporting _&ast;(p,pʷ)atu(k)_ is given below, and that supporting _&ast;bʷatu(k)_ in [§3.4.2](ContributionTable?anchor=s-3-4-2#cldf:5-3).2.
 
-In the New Ireland languages Tigak, Kara and Lihir and Bougainville languages from Taiof to Uruava below, the reflex of _&ast;(p,pʷ)atu_ means ‘head’. This may reflect contamination by _&ast;bʷatu(k)_ or simple semantic shift.[^16] Under ‘cf. also’ below are reflexes of Proto Central Micronesian _&ast;fatuku_ ‘head’, where _&ast;f-_ is the regular reflex of POc _&ast;p-_, not _&ast;pʷ-_, but these forms are also odd in reflecting final POc _&ast;-k_ with a following echo vowel. These are thus not regular reflexes and may reflect borrowing from an unknown source that retained POc final consonants.
+In the New Ireland languages Tigak, Kara and Lihir and Bougainville languages from Taiof to Uruava below, the reflex of _&ast;(p,pʷ)atu_ means ‘head’. This may reflect contamination by _&ast;bʷatu(k)_ or simple semantic shift.[^16]: Under ‘cf. also’ below are reflexes of Proto Central Micronesian _&ast;fatuku_ ‘head’, where _&ast;f-_ is the regular reflex of POc _&ast;p-_, not _&ast;pʷ-_, but these forms are also odd in reflecting final POc _&ast;-k_ with a following echo vowel. These are thus not regular reflexes and may reflect borrowing from an unknown source that retained POc final consonants.
 
 
 <a id="p-104"></a>
@@ -655,7 +655,7 @@ Reflexes of POc &ast;qarop consistently refer to ‘front, face, the side usuall
 ### 4.8. Side of face, cheek, temple
 
 
-Two POc etyma, _&ast;[pʷa]pʷaRa-_ ‘cheek, side of face’ and _&ast;baba[R,l]i-_ ‘cheek’ appear to reflect Blust’s PCEMP _&ast;papaR_ ‘cheek’ (ACD). However, two comments are in order. First, PCEMP _&ast;papaR_ is supported by only one non-Oceanic reflex (Buru _papa-n_ ‘cheek’), with the consequence that there is no independent attestation of PCEMP _&ast;-R-_ or of the vowel following it. Second, POc doublets are rare, and it is possible that the two etyma have different origins. Both have reflexes that simply mean ‘side’, but it is common for POc relational local nouns to be derived from human body part terms (cf. POc _&ast;bʷal(o,a)-_ ‘belly, inside’, [vol.2:239](ContributionTable?anchor=p-239#cldf:2-8); _&ast;qaro-_ ‘face, front’, [vol.2:247](ContributionTable?anchor=p-247#cldf:2-8); &ast;mata- ‘eye, front’, [vol.2:249](ContributionTable?anchor=p-249#cldf:2-8)). A stronger possibility is that POc _&ast;baba[R,l]i-_ is indeed a doublet, created through contamination by POc _&ast;baban_ ‘flat, board, plank of boat’ ([vol.1:185](ContributionTable?anchor=p-185#cldf:1-7)–186) because of its reference to a bone with a flat surface. Reflexes of POc _&ast;baban_ are sometimes used in this sense (cf. To’aba’ita _baba-leqo_, Maori _papa-āhuahua_, both ‘shoulder blade’), and it is possible that PEPn _&ast;papa-ariŋa_ ‘cheek’ reflects such a compound.[^20]
+Two POc etyma, _&ast;[pʷa]pʷaRa-_ ‘cheek, side of face’ and _&ast;baba[R,l]i-_ ‘cheek’ appear to reflect Blust’s PCEMP _&ast;papaR_ ‘cheek’ (ACD). However, two comments are in order. First, PCEMP _&ast;papaR_ is supported by only one non-Oceanic reflex (Buru _papa-n_ ‘cheek’), with the consequence that there is no independent attestation of PCEMP _&ast;-R-_ or of the vowel following it. Second, POc doublets are rare, and it is possible that the two etyma have different origins. Both have reflexes that simply mean ‘side’, but it is common for POc relational local nouns to be derived from human body part terms (cf. POc _&ast;bʷal(o,a)-_ ‘belly, inside’, [vol.2:239](ContributionTable?anchor=p-239#cldf:2-8); _&ast;qaro-_ ‘face, front’, [vol.2:247](ContributionTable?anchor=p-247#cldf:2-8); &ast;mata- ‘eye, front’, [vol.2:249](ContributionTable?anchor=p-249#cldf:2-8)). A stronger possibility is that POc _&ast;baba[R,l]i-_ is indeed a doublet, created through contamination by POc _&ast;baban_ ‘flat, board, plank of boat’ ([vol.1:185](ContributionTable?anchor=p-185#cldf:1-7)–186) because of its reference to a bone with a flat surface. Reflexes of POc _&ast;baban_ are sometimes used in this sense (cf. To’aba’ita _baba-leqo_, Maori _papa-āhuahua_, both ‘shoulder blade’), and it is possible that PEPn _&ast;papa-ariŋa_ ‘cheek’ reflects such a compound.[^20]:
 
 [PCEMP &ast;_papaR_](cognatesetreferences.csv#cldf:5-3-4-8-116-POc-papara-a)
 
@@ -1027,7 +1027,7 @@ _&ast;Ruqa-_ ‘neck’ has largely retained its meaning throughout all subgroup
 
 POc _&ast;[qa]liŋa-_ ‘voice’ is reflected in languages as far east as the southeast Solomons, but its reflexes are not found further east. East and south of the Solomons, the term for voice is a reflex of POc _&ast;[qa]liqoR_ ‘throat’.
 
-Even closely related languages vary as to whether _&ast;qa-_ is included.[^24]
+Even closely related languages vary as to whether _&ast;qa-_ is included.[^24]:
 
 [POc &ast;_&#91;qa&#93;liŋa-_](cognatesetreferences.csv#cldf:5-3-4-14-138-POc-qalia-a)
 
@@ -1083,7 +1083,7 @@ Another reconstruction sometimes used to refer to the back as a body part is the
 ### 5.2. Flat of back
 
 
-No POc term is reconstructable for ‘flat of back’. PPn _&ast;papa_ in _&ast;papa-a-tuqa_ below reflects POc _&ast;baban_ ‘flat object or surface; board, plank, canoe strake’ ([vol.1:58](ContributionTable?anchor=p-58#cldf:1-3), 185).[^25]
+No POc term is reconstructable for ‘flat of back’. PPn _&ast;papa_ in _&ast;papa-a-tuqa_ below reflects POc _&ast;baban_ ‘flat object or surface; board, plank, canoe strake’ ([vol.1:58](ContributionTable?anchor=p-58#cldf:1-3), 185).[^25]:
 
 [PPn &ast;_papa-a-tuqa_](cognatesetreferences.csv#cldf:5-3-5-2-142-PPn-papaatuqa-a)
 
@@ -1093,7 +1093,7 @@ No POc term is reconstructable for ‘flat of back’. PPn _&ast;papa_ in _&ast;
 ### 5.3. Shoulder
 
 
-POc _&ast;[qa]paRa-_ ‘shoulder’ has usually been reconstructed as a straightforward trisyllable (i.e. _&ast;qapara_), but well distributed reflexes (Gitua, Nakanai, Halia, Selau, Torau, Mono-Alu, Nduke, Lungga, Gela, Big Nambas) lack initial _&ast;qa-_. The same is true of a number of non-Oceanic reflexes listed in the [ACD](Source#cldf:Blust1995). POc _&ast;[qa]paRa-_ is thus one of a small number of trisyllabic body part nouns which consist of a disyllabic root (the most common form of POc roots) and apparently had forms with and without POc _&ast;qa-_. Other forms of this kind are POc _&ast;[qa]liŋa-_ ‘voice’, POc _&ast;[qa]liqoR_ ‘neck, throat’ (both [§3.4.14](ContributionTable?anchor=s-3-4-14#cldf:5-3)) and POc _&ast;[qa]nunu_ ‘shadow of person, likeness, reflection’ ([§3.9.1](ContributionTable?anchor=s-3-9-1#cldf:5-3)). Whilst we can describe this pattern, we do not know its function or why alternants apparently survived side by side over a long period.[^26]
+POc _&ast;[qa]paRa-_ ‘shoulder’ has usually been reconstructed as a straightforward trisyllable (i.e. _&ast;qapara_), but well distributed reflexes (Gitua, Nakanai, Halia, Selau, Torau, Mono-Alu, Nduke, Lungga, Gela, Big Nambas) lack initial _&ast;qa-_. The same is true of a number of non-Oceanic reflexes listed in the [ACD](Source#cldf:Blust1995). POc _&ast;[qa]paRa-_ is thus one of a small number of trisyllabic body part nouns which consist of a disyllabic root (the most common form of POc roots) and apparently had forms with and without POc _&ast;qa-_. Other forms of this kind are POc _&ast;[qa]liŋa-_ ‘voice’, POc _&ast;[qa]liqoR_ ‘neck, throat’ (both [§3.4.14](ContributionTable?anchor=s-3-4-14#cldf:5-3)) and POc _&ast;[qa]nunu_ ‘shadow of person, likeness, reflection’ ([§3.9.1](ContributionTable?anchor=s-3-9-1#cldf:5-3)). Whilst we can describe this pattern, we do not know its function or why alternants apparently survived side by side over a long period.[^26]:
 
 As noted in [§3.4.2](ContributionTable?anchor=s-3-4-2#cldf:5-3) some Oceanic languages refer to the shoulder as the ‘head/knob of arm’, but we cannot say how old this expression is.
 
@@ -1144,7 +1144,7 @@ The term below appears to be a reduplication of the PPn _&ast;fata_ ‘shelf’,
 ### 5.6. Rib cage
 
 
-Probably there was no POc word that meant ‘rib’. Instead, POc speakers, like the speakers of a good many Oceanic languages, had a term for ‘rib cage’, and used a composite term meaning ‘bone of rib cage’ or ‘bone of side’ for rib.[^28]
+Probably there was no POc word that meant ‘rib’. Instead, POc speakers, like the speakers of a good many Oceanic languages, had a term for ‘rib cage’, and used a composite term meaning ‘bone of rib cage’ or ‘bone of side’ for rib.[^28]:
 
 [5-3-5-6-145-adm-nyindrou-druwikabede](cf.csv#cldf:5-3-5-6-145-adm-nyindrou-druwikabede)
 
@@ -1230,11 +1230,11 @@ Reflexes of POc _&ast;kapʷa_ are the most widespread terms for ‘belly’ in N
 ### 5.10. Navel, umbilical cord
 
 
-Four reconstructions for ‘navel, umbilical cord’, apparently formally related, are candidates for POc status: _&ast;puso-_, _&ast;piso-_, _&ast;bʷito-_, _&ast;buto-_. Although reasons for this proliferation of forms are far from clear, we suggest that there were two POc forms, _&ast;puso-_ (from PMP _&ast;pusej_) ([§3.5.10](ContributionTable?anchor=s-3-5-10#cldf:5-3).1) and _&ast;bʷito-_ ([§3.5.10](ContributionTable?anchor=s-3-5-10#cldf:5-3).2), and that forms reflecting apparent _&ast;&ast;piso-_ and _&ast;&ast;buto-_[^29] are descended from _&ast;puso-_ and _&ast;bʷito-_ respectively. They are accounted for as follows:
+Four reconstructions for ‘navel, umbilical cord’, apparently formally related, are candidates for POc status: _&ast;puso-_, _&ast;piso-_, _&ast;bʷito-_, _&ast;buto-_. Although reasons for this proliferation of forms are far from clear, we suggest that there were two POc forms, _&ast;puso-_ (from PMP _&ast;pusej_) ([§3.5.10](ContributionTable?anchor=s-3-5-10#cldf:5-3).1) and _&ast;bʷito-_ ([§3.5.10](ContributionTable?anchor=s-3-5-10#cldf:5-3).2), and that forms reflecting apparent _&ast;&ast;piso-_ and _&ast;&ast;buto-_[^29]: are descended from _&ast;puso-_ and _&ast;bʷito-_ respectively. They are accounted for as follows:
 
 A) Because POc _&ast;puso-_ and POc _&ast;bʷito-_ were similar in form and meaning, contamination
    affected the vowel of the first syllable, so items reflecting apparent _&ast;&ast;piso-_
-   actually reflect _&ast;puso-_ but with the vowel from _&ast;bʷito-_.[^30]
+   actually reflect _&ast;puso-_ but with the vowel from _&ast;bʷito-_.[^30]:
 B) The direct evidence for _&ast;bʷ-_ of POc _&ast;bʷito-_ is Drehet _pʷitie_, Tamambo _bʷito-_.
    However, _bʷ_ was an unstable phoneme. In some languages rounding was lost and
    _&ast;bʷito-_ became _&ast;bito-_; in others rounding spread to the following vowel, giving
@@ -1278,6 +1278,10 @@ _&ast;&ast;buto-_ ‘navel, umbilical cord’ ([Biggs 1965](Source#cldf:Biggs196
 
 [5-3-5-10-153-adm-seimat-puto](cf.csv#cldf:5-3-5-10-153-adm-seimat-puto)
 
+Cf. also:
+
+[5-3-5-10-153-mm-banoni-pocu](cf.csv#cldf:5-3-5-10-153-mm-banoni-pocu)
+
 
 <a id="p-154"></a>
 
@@ -1287,7 +1291,7 @@ _&ast;&ast;buto-_ ‘navel, umbilical cord’ ([Biggs 1965](Source#cldf:Biggs196
 #### 5.10.3. Conflated forms
 
 
-Here are presented forms that appear to reflect a conflation of _&ast;puso-_ and _&ast;bʷito-_ and cannot be readily assigned to either. Thus _&ast;&ast;(b,bʷ)iso-_ and _&ast;&ast;buso-_, the former with WOc reflexes only, take _&ast;(b,bʷ)-_ from _&ast;bʷito-_ and _&ast;-s-_ from _&ast;puso-_.[^31]
+Here are presented forms that appear to reflect a conflation of _&ast;puso-_ and _&ast;bʷito-_ and cannot be readily assigned to either. Thus _&ast;&ast;(b,bʷ)iso-_ and _&ast;&ast;buso-_, the former with WOc reflexes only, take _&ast;(b,bʷ)-_ from _&ast;bʷito-_ and _&ast;-s-_ from _&ast;puso-_.[^31]:
 
 __PWOc__ _&ast;&ast;b(w)iso-_ ‘navel, umbilical cord’
 
@@ -1560,7 +1564,7 @@ More than one POc term beginning with _&ast;tu-_ is reconstructable with the mea
 
 The relationships among these forms are only partially understood. The histories of PWOc _&ast;tuku-_ and NW Solomonic _&ast;tuŋu-_ are not known, but we can show how POc _&ast;tur_ and _&ast;turu-_ are related.
 
-The PAn form for ‘knee’ was _&ast;tuduS_ (ACD). PAn _&ast;S_ became PMP _&ast;h_, and a regular metathesis whereby PAn &ast;-CV_S_ became PMP &ast;-_h_VC gave rise to PMP _&ast;tuhud_ ‘knee’. By regular sound change this became POc _&ast;tur_ (ACD), reflexes of which are shown below. Some of these reflexes are reduplicated as a means of creating the preferred canonic form, a disyllable, from monosyllabic _&ast;tur_. The preferred strategy for creating a (suffixed) directly possessed noun ([§3.1.1](ContributionTable?anchor=s-3-1-1#cldf:5-3)) from a root with a final consonant was to replace the final consonant with the suffix, as many reconstructions in this chapter illustrate, but in the case of monosyllabic _&ast;tur_, a supporting vowel was added instead, giving disyllabic _&ast;turu-_, a change which seems to have occurred at an earlier interstage than POc as Blust (ACD) reconstructs _&ast;turu-_ to PCEMP.[^35]
+The PAn form for ‘knee’ was _&ast;tuduS_ (ACD). PAn _&ast;S_ became PMP _&ast;h_, and a regular metathesis whereby PAn &ast;-CV_S_ became PMP &ast;-_h_VC gave rise to PMP _&ast;tuhud_ ‘knee’. By regular sound change this became POc _&ast;tur_ (ACD), reflexes of which are shown below. Some of these reflexes are reduplicated as a means of creating the preferred canonic form, a disyllable, from monosyllabic _&ast;tur_. The preferred strategy for creating a (suffixed) directly possessed noun ([§3.1.1](ContributionTable?anchor=s-3-1-1#cldf:5-3)) from a root with a final consonant was to replace the final consonant with the suffix, as many reconstructions in this chapter illustrate, but in the case of monosyllabic _&ast;tur_, a supporting vowel was added instead, giving disyllabic _&ast;turu-_, a change which seems to have occurred at an earlier interstage than POc as Blust (ACD) reconstructs _&ast;turu-_ to PCEMP.[^35]:
 
 [PAn &ast;_tuduS_](cognatesetreferences.csv#cldf:5-3-6-5-169-POc-tur-a)
 
@@ -1669,7 +1673,7 @@ POc also had terms that specifically denoted the knee. For these, see [§3.6.5](
 
 The formal aspects of the two terms reconstructed here are discussed at length in [§3.4.2](ContributionTable?anchor=s-3-4-2#cldf:5-3).
 
-POc _&ast;pʷatu[ka]-_ was evidently the general term for a knee or elbow joint, but not hip or shoulder. The seemingly optional _&ast;-ka-_ that is reflected in some members of the cognate set remains unexplained,[^39] unless, as mentioned in [§3.4.2](ContributionTable?anchor=s-3-4-2#cldf:5-3), _&ast;pʷatu[ka]-_ originally meant ‘kneecap’ and is identical with putative _&ast;(p,pʷ)atu(k)_ ‘outer shell, skull’.
+POc _&ast;pʷatu[ka]-_ was evidently the general term for a knee or elbow joint, but not hip or shoulder. The seemingly optional _&ast;-ka-_ that is reflected in some members of the cognate set remains unexplained,[^39]: unless, as mentioned in [§3.4.2](ContributionTable?anchor=s-3-4-2#cldf:5-3), _&ast;pʷatu[ka]-_ originally meant ‘kneecap’ and is identical with putative _&ast;(p,pʷ)atu(k)_ ‘outer shell, skull’.
 
 [POc &ast;_pʷatu&#91;ka&#93;-_](cognatesetreferences.csv#cldf:5-3-6-8-174-POc-patuka-a)
 
@@ -1684,7 +1688,7 @@ Whether and how PSOc _&ast;bʷau-_ ‘knee, joint’ is related to POc _&ast;pʷ
 ##### 6.8.1.2. Other terms for joint, elbow and knee
 
 
-Reflexes of POc _&ast;buku_ ‘mound, knob, joint’ are also used in a number of Oceanic languages to refer to the elbow and/or knee. However, it is clear that _&ast;buku_ focussed on the shape of the referent,[^41] whereas the central meaning of the terms reconstructed in [§3.6.8](ContributionTable?anchor=s-3-6-8#cldf:5-3).1.1 was the knee or elbow joint itself.
+Reflexes of POc _&ast;buku_ ‘mound, knob, joint’ are also used in a number of Oceanic languages to refer to the elbow and/or knee. However, it is clear that _&ast;buku_ focussed on the shape of the referent,[^41]: whereas the central meaning of the terms reconstructed in [§3.6.8](ContributionTable?anchor=s-3-6-8#cldf:5-3).1.1 was the knee or elbow joint itself.
 
 As elbows are more corner-like than knees, POc _&ast;s[i,u]ku_, reflecting a PMP term that also meant ‘corner’, may have referred specifically to ‘elbow’.
 
@@ -1734,7 +1738,7 @@ PMP _&ast;palaj_ ‘palm of hand, sole of foot’ is widely reflected in western
 
 <a id="p-179"></a>
 
-POc _&ast;lapʷar_ ‘palm of hand, sole of foot’ appears superficially to reflect PAn _&ast;da(m)paN_ ‘palm of hand, sole of foot’,[^42] but the latter would give rise to POc †_&ast;ra(p,b)an_, so this is probably a chance resemblance.
+POc _&ast;lapʷar_ ‘palm of hand, sole of foot’ appears superficially to reflect PAn _&ast;da(m)paN_ ‘palm of hand, sole of foot’,[^42]: but the latter would give rise to POc †_&ast;ra(p,b)an_, so this is probably a chance resemblance.
 
 [POc &ast;_lapʷar_](cognatesetreferences.csv#cldf:5-3-6-8-179-POc-lapar-a)
 
@@ -1756,6 +1760,8 @@ The top of the foot was apparently the ‘back of foot’ in POc, as it is in ge
 <a id="p-180"></a>
 
 [5-3-6-8-180-nng-hote-dumsae](cf.csv#cldf:5-3-6-8-180-nng-hote-dumsae)
+
+[PPn &ast;_tuqa a waqe_](cognatesetreferences.csv#cldf:5-3-6-8-180-PPn-tuqaawaqe-a)
 
 Note that this term was distinct from POc _&ast;[m,b]uri (w,q)aqe_ ‘heel’ ([§3.6.5](ContributionTable?anchor=s-3-6-5#cldf:5-3).2) (lit. ‘back of foot’). POc _&ast;[m,b]uri_ was a relational local noun denoting the back of something ([§3.1.2](ContributionTable?anchor=s-3-1-2#cldf:5-3)), but the terms for ‘back’ in ‘top of foot’ phrases denote a person’s back.
 
@@ -1826,7 +1832,7 @@ No convincing explanation can be offered for the fact that there are two terms, 
 ### 7.3. Lungs
 
 
-Three reconstructions for ‘lungs’ are offered below. The first of these is technically unusual in that two possible pre-Oceanic source etyma can be posited, PAn _&ast;baRaq_ ‘lung’ and PMP _&ast;para_ ‘coconut embryo’, and therefore two alternative POc forms, _&ast;paRa(q)_ ‘lung’ and _&ast;paraq_ ‘spongy mass…’. At first sight it seems obvious to propose that PAn _&ast;baRaq_ ‘lung’ is ancestral to this cognate set below. However, the Micronesian reflexes listed below are interpreted by [Bender et al.](Source#cldf:Benderetal2003) ([2003](Source#cldf:Benderetal2003)) as containing a reflex PMic _&ast;fara_ ‘core (of breadfruit, coconut, pandanus)’, which reflects POc _&ast;paraq_ ‘spongy mass inside sprouting coconut; brain’ ([vol.3:373](ContributionTable?anchor=p-373#cldf:3-12)). The Micronesian reflexes other than Marshallese have an additional element, and it is reasonable to infer that this reflects POc _&ast;uRat_/PMic _&ast;ua_ ‘veins, arteries, tendons’, reflecting a possible (but not firmly reconstructable) POc _&ast;paraq qi uRat_, meaning approximately ‘spongy mass of innards’, i.e. ‘lungs’. This does not mean that PAn _&ast;baRaq_ ‘lung’ has played no role in the derivation of Oceanic forms, but that at least in a number of early Oceanic languages POc _&ast;paRa(q)_ and _&ast;paraq_ were conflated.[^45]
+Three reconstructions for ‘lungs’ are offered below. The first of these is technically unusual in that two possible pre-Oceanic source etyma can be posited, PAn _&ast;baRaq_ ‘lung’ and PMP _&ast;para_ ‘coconut embryo’, and therefore two alternative POc forms, _&ast;paRa(q)_ ‘lung’ and _&ast;paraq_ ‘spongy mass…’. At first sight it seems obvious to propose that PAn _&ast;baRaq_ ‘lung’ is ancestral to this cognate set below. However, the Micronesian reflexes listed below are interpreted by [Bender et al.](Source#cldf:Benderetal2003) ([2003](Source#cldf:Benderetal2003)) as containing a reflex PMic _&ast;fara_ ‘core (of breadfruit, coconut, pandanus)’, which reflects POc _&ast;paraq_ ‘spongy mass inside sprouting coconut; brain’ ([vol.3:373](ContributionTable?anchor=p-373#cldf:3-12)). The Micronesian reflexes other than Marshallese have an additional element, and it is reasonable to infer that this reflects POc _&ast;uRat_/PMic _&ast;ua_ ‘veins, arteries, tendons’, reflecting a possible (but not firmly reconstructable) POc _&ast;paraq qi uRat_, meaning approximately ‘spongy mass of innards’, i.e. ‘lungs’. This does not mean that PAn _&ast;baRaq_ ‘lung’ has played no role in the derivation of Oceanic forms, but that at least in a number of early Oceanic languages POc _&ast;paRa(q)_ and _&ast;paraq_ were conflated.[^45]:
 
 [PAn &ast;_baRaq_](cognatesetreferences.csv#cldf:5-3-7-3-182-POc-paraq-a)
 
@@ -1858,7 +1864,7 @@ Araki (NCV) uses a similar, albeit non-cognate, metaphor, _mavusa salesale_, lit
 
 POc speakers probably made a terminological distinction between the stomach, i.e. the internal organ that they found when they butchered a pig, and the belly, i.e. a part of the body as viewed from outside. Terms for stomach are presented here, and terms for belly in [§3.5.9](ContributionTable?anchor=s-3-5-9#cldf:5-3).
 
-POc _&ast;tobʷa_ has reflexes meaning ‘stomach’ across all major subgroups other than NNG, MM and Pn. In some languages it also refers to a bag or basket, and this appears to have been its primary meaning,[^46] allowing derivation of the senses ‘bay’ and ‘area of sea enclosed by barrier reef’ (landscape features that depend on some other feature of the ‘bag’ metaphor; [vol.2:46](ContributionTable?anchor=p-46#cldf:2-3)) and ‘stomach’, which appears bag-like when an animal is butchered. Reflexes with all these meanings are listed below. The Malakula reflexes under ‘cf. also’ point to a form _&ast;tobʷa(k,q)a-_, but we do not yet understand whether such reflexes are conservative or innovatory.
+POc _&ast;tobʷa_ has reflexes meaning ‘stomach’ across all major subgroups other than NNG, MM and Pn. In some languages it also refers to a bag or basket, and this appears to have been its primary meaning,[^46]: allowing derivation of the senses ‘bay’ and ‘area of sea enclosed by barrier reef’ (landscape features that depend on some other feature of the ‘bag’ metaphor; [vol.2:46](ContributionTable?anchor=p-46#cldf:2-3)) and ‘stomach’, which appears bag-like when an animal is butchered. Reflexes with all these meanings are listed below. The Malakula reflexes under ‘cf. also’ point to a form _&ast;tobʷa(k,q)a-_, but we do not yet understand whether such reflexes are conservative or innovatory.
 
 PCP _&ast;kete_ ‘abdomen’ evidently reflects the same metaphor applied to a different form, as it reflects PROc _&ast;kete_ ‘basket’ ([vol.1:78](ContributionTable?anchor=p-78#cldf:1-4)).
 
@@ -1895,7 +1901,7 @@ A similar semantic shift apparently derived PPn _&ast;qalo_ ‘belly’ from PCP
 
 A number of reflexes of the terms reconstructed for belly or stomach in [§3.7.4](ContributionTable?anchor=s-3-7-4#cldf:5-3) are glossed ‘intestines’ or ‘guts’. In some instances it is obvious that the term so glossed is a compound that includes a word for belly or stomach, but others may be the result of inadequate data collection. The same is true of terms in this section. It is not easy to identify the internal organs unless one has a butchered animal to refer to.
 
-The most widely reflected POc etymon for intestines is _&ast;tinaqe_, derived from a PAn nominalisation formed by infixing _&ast;⟨in⟩_ into PAn _&ast;Caqi_ ‘faeces’.[^48] Its reflexes have become relational local nouns in a few languages ([§3.1.2](ContributionTable?anchor=s-3-1-2#cldf:5-3) and [vol.2:239](ContributionTable?anchor=p-239#cldf:2-8)).
+The most widely reflected POc etymon for intestines is _&ast;tinaqe_, derived from a PAn nominalisation formed by infixing _&ast;⟨in⟩_ into PAn _&ast;Caqi_ ‘faeces’.[^48]: Its reflexes have become relational local nouns in a few languages ([§3.1.2](ContributionTable?anchor=s-3-1-2#cldf:5-3) and [vol.2:239](ContributionTable?anchor=p-239#cldf:2-8)).
 
 [PAn &ast;_Cinaqi_](cognatesetreferences.csv#cldf:5-3-7-5-187-POc-tinaqe-a)
 
@@ -1931,7 +1937,7 @@ The liver was evidently regarded by Proto Oceanic speakers as the centre of one�
 ### 7.7. Gall bladder
 
 
-Blust (ACD) reconstructs POc _&ast;qasu_ ‘gall bladder’, but notes that it almost certainly does not reflect PAn _&ast;qapeju_ ‘gall, gall bladder’.[^49] Its reconstruction here as _&ast;qasun_ with final _&ast;-n_ (reflected in Lukep and Nehan) confirms that he is correct.
+Blust (ACD) reconstructs POc _&ast;qasu_ ‘gall bladder’, but notes that it almost certainly does not reflect PAn _&ast;qapeju_ ‘gall, gall bladder’.[^49]: Its reconstruction here as _&ast;qasun_ with final _&ast;-n_ (reflected in Lukep and Nehan) confirms that he is correct.
 
 [POc &ast;_qasun_](cognatesetreferences.csv#cldf:5-3-7-7-191-POc-qasun-a)
 
@@ -1969,7 +1975,7 @@ The most frequent metaphor equates a kidney with a Tahitian chestnut (_Inocarpus
 
 [POc &ast;_ip(i)-ipi_](cognatesetreferences.csv#cldf:5-3-7-9-193-POc-ipiipi-a)
 
-There are also several other terms arising from the same metaphor, reflecting POc _&ast;mabʷe_ ‘Tahitian chestnut’ ([vol.3:319](ContributionTable?anchor=p-319#cldf:3-11)).[^50]
+There are also several other terms arising from the same metaphor, reflecting POc _&ast;mabʷe_ ‘Tahitian chestnut’ ([vol.3:319](ContributionTable?anchor=p-319#cldf:3-11)).[^50]:
 
 [5-3-7-9-193-ses-arosi-koraimabe](cf.csv#cldf:5-3-7-9-193-ses-arosi-koraimabe)
 
@@ -2036,7 +2042,7 @@ Terms for amniotic fluid are few and far between in the data sources, but those 
 ## 8. Bodily emissions
 
 
-This topic of this section is substances that are emitted by the body (as opposed to those of which the body is composed; [§3.3](ContributionTable?anchor=s-3-3#cldf:5-3)). They are listed in the same order as the body parts in §[§3.4](ContributionTable?anchor=s-3-4#cldf:5-3)–3.5 with which their emission is associated, that is, roughly in order from the top of the trunk to the bottom. Verbs associated with bodily emissions are presented in [§4.4](ContributionTable?anchor=s-4-4#cldf:5-3).
+This topic of this section is substances that are emitted by the body (as opposed to those of which the body is composed; [§3.3](ContributionTable?anchor=s-3-3#cldf:5-3)). They are listed in the same order as the body parts in §§[3.4](ContributionTable?anchor=s-3-4#cldf:5-3)-[3.5](ContributionTable?anchor=s-3-5#cldf:5-3) with which their emission is associated, that is, roughly in order from the top of the trunk to the bottom. Verbs associated with bodily emissions are presented in [§4.4](ContributionTable?anchor=s-4-4#cldf:5-3).
 
 The POc term for pus is presented in [§5.3.2](ContributionTable?anchor=s-5-3-2#cldf:5-3).2 in association with terms that have to do with health and sickness. A multiplicity of terms for the action of spitting and for spittle are included in [§4.4.3](ContributionTable?anchor=s-4-4-3#cldf:5-3). They are there rather than here because the terms for saliva/spittle appear to be derived from verbs of spitting. However, a possible compound for ‘saliva’ is mentioned in [§3.8.4](ContributionTable?anchor=s-3-8-4#cldf:5-3). Similarly the POc term for ‘sweat’ (both verb and noun) was originally a verb (_&ast;ma-qono_) and is also to be found in [§4.4.6](ContributionTable?anchor=s-4-4-6#cldf:5-3). Terms for ‘urine’ and ‘urinate’ also employ the same roots and are located in [§4.4.7](ContributionTable?anchor=s-4-4-7#cldf:5-3).
 
@@ -2046,7 +2052,7 @@ The POc term for pus is presented in [§5.3.2](ContributionTable?anchor=s-5-3-2#
 ### 8.1. Tears
 
 
-Terms for ‘tears’ are typically compounds, as in PEOc _&ast;suRu qi mata_ ‘tears’, literally ‘fluid of eye’ or PROc _&ast;wai(R) ni mata_, literally ‘water of eye’, in which the first item denotes a fluid[^52] and the second reflects POc _&ast;mata_ ‘eye’ ([§3.4.9](ContributionTable?anchor=s-3-4-9#cldf:5-3).1). Because the ‘fluid’ item has been replaced at various times, some members of the cognate sets below may be outcomes of independent replacement. Thus PPn _&ast;lo-qi-mata_ ‘tears’ is well attested, suggesting that Hawaiian _wai maka_ and Marquesan _vai-mata_ may reflect local innovations independent of PROc _&ast;wai(R) ni mata_. (On _&ast;qi_, see [§3.1.1](ContributionTable?anchor=s-3-1-1#cldf:5-3), [Hooper 1985](Source#cldf:Hooper1985), [Ross 1998c](Source#cldf:Ross1998c).)
+Terms for ‘tears’ are typically compounds, as in PEOc _&ast;suRu qi mata_ ‘tears’, literally ‘fluid of eye’ or PROc _&ast;wai(R) ni mata_, literally ‘water of eye’, in which the first item denotes a fluid[^52]: and the second reflects POc _&ast;mata_ ‘eye’ ([§3.4.9](ContributionTable?anchor=s-3-4-9#cldf:5-3).1). Because the ‘fluid’ item has been replaced at various times, some members of the cognate sets below may be outcomes of independent replacement. Thus PPn _&ast;lo-qi-mata_ ‘tears’ is well attested, suggesting that Hawaiian _wai maka_ and Marquesan _vai-mata_ may reflect local innovations independent of PROc _&ast;wai(R) ni mata_. (On _&ast;qi_, see [§3.1.1](ContributionTable?anchor=s-3-1-1#cldf:5-3), [Hooper 1985](Source#cldf:Hooper1985), [Ross 1998c](Source#cldf:Ross1998c).)
 
 [PEOc &ast;_suRu qi mata_](cognatesetreferences.csv#cldf:5-3-8-1-196-PEOc-suruqimata-a)
 
@@ -2071,7 +2077,7 @@ The terms below represent somewhat different phrasal strategies for expressing �
 ### 8.2. Earwax and deafness
 
 
-The association between earwax and deafness in the glosses of POc _&ast;tul(i,e)_ below is an obvious one, but the cognate set raises the question, What did POc _&ast;tul(i,e)_ mean? ‘Earwax’ or ‘deaf’ or both?[^53] A key to the answer lies in the fact that ‘he is deaf’ is usually expressed in the Oceanic languages of New Guinea and the Bismarcks as ‘his ears are deaf/blocked/closed’, i.e. by an expression in which ‘ears’ is the subject. In Dobu and Muyuw, at least, reflexes of _&ast;tul(i,e)_ are also the predicate of such a construction, i.e. ‘his ears are earwaxed’. Thus if _&ast;tul(i,e)_ was used as a noun, it meant ‘earwax’ (and perhaps ‘deafness’); if it was used as a verb with ‘ears’ as subject, then it meant ‘be deaf’. In PPn the sense ‘deaf’ was retained and ‘earwax’ became _&ast;taqe-tuli_ ‘excrement of deafness’. Samoan has a compound verb _faʔa-taliŋa-tuli_ ‘turn a deaf ear’ [lit. ‘cause ear deaf’].
+The association between earwax and deafness in the glosses of POc _&ast;tul(i,e)_ below is an obvious one, but the cognate set raises the question, What did POc _&ast;tul(i,e)_ mean? ‘Earwax’ or ‘deaf’ or both?[^53]: A key to the answer lies in the fact that ‘he is deaf’ is usually expressed in the Oceanic languages of New Guinea and the Bismarcks as ‘his ears are deaf/blocked/closed’, i.e. by an expression in which ‘ears’ is the subject. In Dobu and Muyuw, at least, reflexes of _&ast;tul(i,e)_ are also the predicate of such a construction, i.e. ‘his ears are earwaxed’. Thus if _&ast;tul(i,e)_ was used as a noun, it meant ‘earwax’ (and perhaps ‘deafness’); if it was used as a verb with ‘ears’ as subject, then it meant ‘be deaf’. In PPn the sense ‘deaf’ was retained and ‘earwax’ became _&ast;taqe-tuli_ ‘excrement of deafness’. Samoan has a compound verb _faʔa-taliŋa-tuli_ ‘turn a deaf ear’ [lit. ‘cause ear deaf’].
 
 
 <a id="p-198"></a>
@@ -2127,7 +2133,7 @@ Most terms for ‘saliva’ appear specifically to denote spittle, and are found
 ### 8.5. Semen, smegma
 
 
-Blust (ACD) reconstructs PMP _&ast;biRas_ or _&ast;biRaq_ ‘semen, smegma’, both resulting in POc _&ast;biRa_, but each rests on a single non-Oceanic reflex[^55] plus the Oceanic reflexes below whose meanings most consistently denote stale or unwanted material such as sediment left after processing. No Oceanic reflex denotes ‘semen’, but Polynesian reflexes include reference to smegma (penile mucus) and vaginal mucus, suggesting that these were among its POc denotations.
+Blust (ACD) reconstructs PMP _&ast;biRas_ or _&ast;biRaq_ ‘semen, smegma’, both resulting in POc _&ast;biRa_, but each rests on a single non-Oceanic reflex[^55]: plus the Oceanic reflexes below whose meanings most consistently denote stale or unwanted material such as sediment left after processing. No Oceanic reflex denotes ‘semen’, but Polynesian reflexes include reference to smegma (penile mucus) and vaginal mucus, suggesting that these were among its POc denotations.
 
 [PMP &ast;_biRas_](cognatesetreferences.csv#cldf:5-3-8-5-201-POc-bira-a)
 
@@ -2176,7 +2182,7 @@ This section presents reconstructions for ‘incorporeal parts’, i.e. nouns de
 ### 9.1. Shadow, reflection, image, likeness
 
 
-It is clear from the glosses below that POc _&ast;[qa]nunu_ and POc _&ast;qata(r)_ meant more than ‘shadow, reflection, image’. They also denoted a person’s soul/spirit/personality.[^57]
+It is clear from the glosses below that POc _&ast;[qa]nunu_ and POc _&ast;qata(r)_ meant more than ‘shadow, reflection, image’. They also denoted a person’s soul/spirit/personality.[^57]:
 
 [PAn &ast;_qaLiŋu_](cognatesetreferences.csv#cldf:5-3-9-1-204-POc-qanunu-a)
 

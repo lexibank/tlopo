@@ -5,7 +5,7 @@
 
 <a id="s-1"></a>
 
-## 1. Introduction[^1]
+## 1. Introduction[^1]:
 
 
 One thing people often talk about is what they and others say. When they talk about speech, they often conceptualise it as an act: ‘she promised me’ or ‘he accused me’ or ‘I reprimanded him’ or ‘he lied to me’ or ‘they congratulated you’ or ‘I persuaded her to …’. The list of possible ‘speech acts’ is long, and has generated a substantial literature. Much of this of a philosophical bent extending the work of [Austin](Source#cldf:Austin1962) ([1962](Source#cldf:Austin1962)) and [Searle](Source#cldf:Searle1969) ([1969](Source#cldf:Searle1969), [1976](Source#cldf:Searle1976), [1998](Source#cldf:Searle1998)). Some of it more inclined toward linguistics in that it deals with the pragmatics of speech—how we interpret and respond to what someone says (e.g., [Leech 1983](Source#cldf:Leech1983), ch.8; [Shuy 2015](Source#cldf:Shuy2015)), or with the structure of conversations (e.g., [Sinclair & Coulthard 1975](Source#cldf:SinclairandCoulthard1975); [Tsui 1994](Source#cldf:Tsui1994); [O’Grady 2010](Source#cldf:OGrady2010)).
@@ -31,9 +31,9 @@ She argues that these categorisations are ‘crucially important to the way we p
 
 Thus the only way to understand this categorisation in a given language and through it its speakers’ interpretations of human actions and interactions, is to first analyse the structure of its speech act verbs ([Wierzbicka 1987](Source#cldf:Wierzbicka1987):9).
 
-Ideally, then, this chapter would pursue two questions: (i) What types of meaning are lexicalised in Oceanic languages and appear to have been lexicalised in Proto Oceanic; and (ii) what is the grammatical behaviour of these lexemes, both in the modern languages and in Proto Oceanic? However, the available data limit what can be done. Dictionary definitions of speech act verbs are often only one or two words, and we are left guessing how a term is/was used in practice. As a result there are more question marks against reconstructed glosses in this chapter than elsewhere in these volumes. Sometimes examples tell us about a term’s grammatical behaviour, but we find that cognates differ in behaviour, so that (ii) has proven largely unachievable, other than that the subject is usually the speaker.[^2]
+Ideally, then, this chapter would pursue two questions: (i) What types of meaning are lexicalised in Oceanic languages and appear to have been lexicalised in Proto Oceanic; and (ii) what is the grammatical behaviour of these lexemes, both in the modern languages and in Proto Oceanic? However, the available data limit what can be done. Dictionary definitions of speech act verbs are often only one or two words, and we are left guessing how a term is/was used in practice. As a result there are more question marks against reconstructed glosses in this chapter than elsewhere in these volumes. Sometimes examples tell us about a term’s grammatical behaviour, but we find that cognates differ in behaviour, so that (ii) has proven largely unachievable, other than that the subject is usually the speaker.[^2]:
 
-Although absence of exact equivalence between speech act verbs in different languages is the norm, [Leech](Source#cldf:Leech1983) ([1983](Source#cldf:Leech1983):205–226) sorts speech act verbs into five broad categories based on their sense and on the grammatical constructions in which they occur. We re-label four of them in order to avoid some of the jargon that has grown up around speech acts and speech act verbs.[^3] English constructions and examples follow.[^4] We take a following clause or _to_ + verb phrase to be the verb’s complement, while object<sub>A</sub> refers to an addressee. The morpheme introducing a complement is called a complementiser. In this terminology, then, _that_, _if_/ _whether_ and _to_ are complementisers.
+Although absence of exact equivalence between speech act verbs in different languages is the norm, [Leech](Source#cldf:Leech1983) ([1983](Source#cldf:Leech1983):205–226) sorts speech act verbs into five broad categories based on their sense and on the grammatical constructions in which they occur. We re-label four of them in order to avoid some of the jargon that has grown up around speech acts and speech act verbs.[^3]: English constructions and examples follow.[^4]: We take a following clause or _to_ + verb phrase to be the verb’s complement, while object<sub>A</sub> refers to an addressee. The morpheme introducing a complement is called a complementiser. In this terminology, then, _that_, _if_/ _whether_ and _to_ are complementisers.
 
 1) a. report verbs (Leech’s assertives): e.g. _say_, _declare_, _argue_, _mention_
       - verb + object noun phrase            _I said a few words._
@@ -43,7 +43,7 @@ Although absence of exact equivalence between speech act verbs in different lang
       - verb + object noun phrase           _She asked a question._
       - verb + if/whether clause            _She asked if/whether the school would be closed._
       - verb + clause with wh-word          _She asked who would be invited._
-   c. influence verbs[^5] (Leech’s directives), e.g. _tell_, _urge_, _order_, _request_, _ask_
+   c. influence verbs[^5]: (Leech’s directives), e.g. _tell_, _urge_, _order_, _request_, _ask_
       - verb + objectA + [that] clause      _I told the children that they should go home._
       - verb + objectA + to verb phrase     _I told the children to go home._
    d. commitment verbs (Leech’s commissives), e.g. _offer_, _promise_, _agree_, _refuse_
@@ -59,7 +59,7 @@ Semantic definitions of the four classes in (1) are inevitably wide. Report verb
 
 Leech’s expressives, e.g. _greet (s.o.)_, _thank (s.o. for s.t.)_, _excuse (s.o. from s.t.)_, _accuse (s.o. of s.t.)_, _praise (s.o. for s.t.)_, _congratulate (s.o. on s.t.)_, _apologise (to s.o. for s.t.)_ differ from report verbs in that they usually occur without a complement clause because the speech act’s semantic content is expressed by the speech act verb itself ([Leech 1983](Source#cldf:Leech1983):217–218). Expressives are particularly specific to their speakers’ culture in the sense discussed by Verschueren and Wierzbicka, but we do find a few cognate sets that permit the reconstruction of earlier expressive speech act verbs ([§12.4](ContributionTable?anchor=s-12-4#cldf:6-12)).
 
-In both English and many Oceanic languages the same verb may occur in different constructions with different meanings. _Tell_, for example, is both a report and an influence verb. The distinction is made by the complement construction: report _I told him that I was going home_ vs influence _I told them that they should go home_ or _I told them to go home_. Ask is both a question and an influence verb: _We asked if the school would be closed_ vs _We asked the children to go home_. Thus it is the verb and the construction together that convey whether the speech act being talked about is conceived as reporting, questioning, influencing or committing.[^6]
+In both English and many Oceanic languages the same verb may occur in different constructions with different meanings. _Tell_, for example, is both a report and an influence verb. The distinction is made by the complement construction: report _I told him that I was going home_ vs influence _I told them that they should go home_ or _I told them to go home_. Ask is both a question and an influence verb: _We asked if the school would be closed_ vs _We asked the children to go home_. Thus it is the verb and the construction together that convey whether the speech act being talked about is conceived as reporting, questioning, influencing or committing.[^6]:
 
 In light of the above, data for this chapter were assembled in two ways. First, as usual, we searched all the available lexical sources for speech act and speech manner verbs. We also searched grammatical descriptions for examples of speech act verb usage in the context of the constructions with which they occur. Examples from sixty or so Oceanic languages were collected, but these are sometimes incomplete. Often we do not find construction data for commitment verbs. This is apparently a result of the distribution of the four classes in the data. Where ‘>’ means ‘is more frequent than’, we find report > influence > question > commitment.
 
@@ -99,7 +99,7 @@ The same can be said of Mussau _ue_, Wuvulu _-ware_, Lou _pa_, Kele _pe_, Mangap
 
 Of all these verbs, just two also occur as question verbs: Tawala _baha_ and Boumaa Fijian _tuʔu_, probably because they are general verbs of saying.
 
-Although English _ask_ occurs as both a question and an influence verb, the only clear Oceanic instances of this semantic range in our data are Micronesian: Kosraean _siyʌk_, Marshallese _kaccitʌk_. This is not really surprising, as English _ask_ is unusual in this regard. Many languages, it seems, use different speech act verbs in contexts that approximately correspond to English _ask_, e.g. German _fragen_ (question) vs _bitten_ (influence), Spanish _preguntar_ vs _rogar_, Russian _sprosit’_ vs _poprosit’_, Hungarian _kérdezni_ vs _kérni_ ([Verschueren 1980](Source#cldf:Verschueren1980):27), Japanese _tazuneru_ vs _tamomu_, Mandarin _wèn_ vs _yào_.[^7] Note, however, that there is a derivational relationship between the two verbs in Russian and in Hungarian.
+Although English _ask_ occurs as both a question and an influence verb, the only clear Oceanic instances of this semantic range in our data are Micronesian: Kosraean _siyʌk_, Marshallese _kaccitʌk_. This is not really surprising, as English _ask_ is unusual in this regard. Many languages, it seems, use different speech act verbs in contexts that approximately correspond to English _ask_, e.g. German _fragen_ (question) vs _bitten_ (influence), Spanish _preguntar_ vs _rogar_, Russian _sprosit’_ vs _poprosit’_, Hungarian _kérdezni_ vs _kérni_ ([Verschueren 1980](Source#cldf:Verschueren1980):27), Japanese _tazuneru_ vs _tamomu_, Mandarin _wèn_ vs _yào_.[^7]: Note, however, that there is a derivational relationship between the two verbs in Russian and in Hungarian.
 
 One difference between English and many Oceanic languages resides in the fact that English question, influence and commitment verbs have an alternative construction, _to_ + verb phrase. This is an instance of “desententialisation” ([Lehmann 1988](Source#cldf:Lehmann1988)), the tendency across languages for non-report verbs to occur with reduced complements that are no longer sentence-like. Like Sursurunga in (2)–(6), most Oceanic languages appear to lack reduced complements. Of the sixty or so Oceanic languages examined, only four have them. One is Teop (MM, Northwest Solomonic, north Bougainville), where influence verbs occur with two constructions. In (9) the complement clause is marked with the imperative preverbal clitic _=re_, and is a full clause. Alone, but with a second-person plural pronoun, its clause would be an imperative: ‘You go to the garden!’.
 
@@ -112,7 +112,7 @@ In (10) the complement is reduced: the complementiser is purposive tea and the s
 
 [6-12-1-2-374-10](examplegroups.csv#cldf:6-12-1-2-374-10)
 
-Other languages in which we have found reduced complements are Wayan Fijian (see example 8), Kosrean ([Lee 1975](Source#cldf:Lee1975):307) and Mokilese ([Harrison 1976](Source#cldf:Harrison1976):293–294).[^8]
+Other languages in which we have found reduced complements are Wayan Fijian (see example 8), Kosrean ([Lee 1975](Source#cldf:Lee1975):307) and Mokilese ([Harrison 1976](Source#cldf:Harrison1976):293–294).[^8]:
 
 English and Oceanic complement clauses differ in another respect. It is well known that the complements of English speech verbs (‘indirect speech’) are potentially affected by two phenomena relative to the clauses they are allegedly quoting. Thus a direct quotation like _‘I don’t want to be here,’ John said_ becomes _John <ins>said</ins> [he didn’t want to be there]_. The first phenomenon is deictic shift. As the speaker of the latter sentence is not John and is not at the place where John had spoken, the _I_ of direct quotation becomes _he_ and _here_ becomes _there_. The second phenomenon is tense shift. As the speech act verb _said_ of the latter sentence is in the past tense, the present tense verb _don’t want_ of direct quotation shifts tense to past _didn’t want_. Oceanic languages employ deictic shift, but to our knowledge none shift tense. This appears to be a common pattern around the world.
 
@@ -124,7 +124,7 @@ It should be noted here that in Oceanic narrative texts direct quotation is much
 ### 1.3. Ways of referring to speech acts
 
 
-Thus far, we have assumed that speech acts are referred to by dedicated verbs, and indeed sometimes they are, as shown by the reconstructions in the following sections. But languages differ in this regard. For example, Mangap (NNG) has numerous apparent compounds that refer to speech acts. These consist of a verb plus an element that may be an adverb, a noun or another verb. The dictionary usually treats an adverb or noun as a separate word but joins a second verb to the first as a single word.[^9] Some of these compounds are semantically quite transparent, especially those with adverbs, e.g. _-so katkat_ ‘speak frankly’, where _-so_ means ‘say, speak’ and _katkat_ means ‘openly, directly’. Others are fairly opaque, like _-so-pe_ ‘advise (s.o.), instruct (s.o.)’, where _-pe_ is ‘be firm, be settled’. Further compounds with _-so_ are shown in (11).
+Thus far, we have assumed that speech acts are referred to by dedicated verbs, and indeed sometimes they are, as shown by the reconstructions in the following sections. But languages differ in this regard. For example, Mangap (NNG) has numerous apparent compounds that refer to speech acts. These consist of a verb plus an element that may be an adverb, a noun or another verb. The dictionary usually treats an adverb or noun as a separate word but joins a second verb to the first as a single word.[^9]: Some of these compounds are semantically quite transparent, especially those with adverbs, e.g. _-so katkat_ ‘speak frankly’, where _-so_ means ‘say, speak’ and _katkat_ means ‘openly, directly’. Others are fairly opaque, like _-so-pe_ ‘advise (s.o.), instruct (s.o.)’, where _-pe_ is ‘be firm, be settled’. Further compounds with _-so_ are shown in (11).
 
 11)
 
@@ -189,7 +189,7 @@ Among the expressions in (13) is (in two versions), _-kuru/-ŋgal sua pa A_ ‘a
 
 <a id="p-376"></a>
 
-The last entry above perhaps needs explanation. The noun _sua_ ‘talk’ is indirectly possessed, that is, the possessor suffix is attached not to the possessed noun _sua_ but to the possessive classifier _le-_ to give _le-n sua_ ‘their talk’ in (15).[^10]
+The last entry above perhaps needs explanation. The noun _sua_ ‘talk’ is indirectly possessed, that is, the possessor suffix is attached not to the possessed noun _sua_ but to the possessive classifier _le-_ to give _le-n sua_ ‘their talk’ in (15).[^10]:
 
 [6-12-1-3-376-11](examplegroups.csv#cldf:6-12-1-3-376-11)
 
@@ -215,7 +215,7 @@ The grammar of these expressions is straightforward. The noun _kʷo-_ ‘mouth�
 
 [6-12-1-3-376-12](examplegroups.csv#cldf:6-12-1-3-376-12)
 
-The distribution across Oceanic languages of compounds like those in Mangap is impossible to ascertain, as typically neither dictionaries nor grammars pay much attention to them. However, Lewo (NCV) makes plentiful use of speech act compounds that resemble those in (11) and (12). These are described by [Early](Source#cldf:Early1993) ([1993](Source#cldf:Early1993)), and (18) gives a selection of his examples.[^11]
+The distribution across Oceanic languages of compounds like those in Mangap is impossible to ascertain, as typically neither dictionaries nor grammars pay much attention to them. However, Lewo (NCV) makes plentiful use of speech act compounds that resemble those in (11) and (12). These are described by [Early](Source#cldf:Early1993) ([1993](Source#cldf:Early1993)), and (18) gives a selection of his examples.[^11]:
 
 
 <a id="p-377"></a>
@@ -295,7 +295,7 @@ A third stage in this development occurs when a complementiser is phonologically
 ## 3. Complement-taking speech act verbs
 
 
-Reflexes of the report, question, influence and commitment verbs reconstructed in §[§12.3.1](ContributionTable?anchor=s-12-3-1#cldf:6-12)–12.3.5 are commonly found with an indirect speech complement, as described in [§12.1](ContributionTable?anchor=s-12-1#cldf:6-12), and one may infer that this was also true of the reconstructed verbs.
+Reflexes of the report, question, influence and commitment verbs reconstructed in §§[12.3.1](ContributionTable?anchor=s-12-3-1#cldf:6-12)-[12.3.5](ContributionTable?anchor=s-12-3-5#cldf:6-12) are commonly found with an indirect speech complement, as described in [§12.1](ContributionTable?anchor=s-12-1#cldf:6-12), and one may infer that this was also true of the reconstructed verbs.
 
 Some of the POc report verbs reconstructed below were very probably also used in senses that went beyond their speech act senses. Data supporting this inference are given in [§12.6](ContributionTable?anchor=s-12-6#cldf:6-12).
 
@@ -318,7 +318,7 @@ POc _&ast;kʷa_ was inherited from a PMP form which [Reid](Source#cldf:Reid2012)
 
 <a id="p-380"></a>
 
-It is tempting to associate POc _&ast;pʷa_/_&ast;pʷai-_ ‘say, tell’ with _&ast;[pʷa]pʷa(q)_ ‘inner mouth’ ([vol.5:128](ContributionTable?anchor=p-128#cldf:5-3)), but it seems more probable that this is a chance resemblance. The earliest convincing ancestor of _&ast;pʷa_/_&ast;pʷai-_ is reconstructable as PCEMP _&ast;bai_ ‘say’. Non-Oceanic evidence for the latter consists of PCMP _&ast;bei_ ‘say’ (ACD) and PSHNG _&ast;ba_/_&ast;be_.[^13]
+It is tempting to associate POc _&ast;pʷa_/_&ast;pʷai-_ ‘say, tell’ with _&ast;[pʷa]pʷa(q)_ ‘inner mouth’ ([vol.5:128](ContributionTable?anchor=p-128#cldf:5-3)), but it seems more probable that this is a chance resemblance. The earliest convincing ancestor of _&ast;pʷa_/_&ast;pʷai-_ is reconstructable as PCEMP _&ast;bai_ ‘say’. Non-Oceanic evidence for the latter consists of PCMP _&ast;bei_ ‘say’ (ACD) and PSHNG _&ast;ba_/_&ast;be_.[^13]:
 
 
 <a id="p-381"></a>
@@ -473,7 +473,7 @@ POc _&ast;taman_ ‘ask’ is something of a mystery, in two respects. First, we
 ### 3.5. Commitment verbs
 
 
-It is possible that Longgu _alaŋaʔi_, Lau _alaŋai_, Wayan Fijian _ala_ and Bauan Fijian _yala_ reflect a PEOc _&ast;ala(ŋ)_ ‘promise’. Otherwise no reconstructions of commitment verbs have been made. One reason for this is that commitment verbs are the least frequently occurring of the four complement-taking classes of speech act verbs ([§12.1.1](ContributionTable?anchor=s-12-1-1#cldf:6-12)). Another is that verbs meaning ‘promise’ are often compounds, as listed in (25).[^14] There is some evidence (Tolo, Tamambo, Lolovoli) that there was a PEOc term for ‘promise’ made up of the verbs ‘say’ and ‘put’ (POc _&ast;taRu(q)_, [vol.5:449](ContributionTable?anchor=p-449#cldf:5-6)).
+It is possible that Longgu _alaŋaʔi_, Lau _alaŋai_, Wayan Fijian _ala_ and Bauan Fijian _yala_ reflect a PEOc _&ast;ala(ŋ)_ ‘promise’. Otherwise no reconstructions of commitment verbs have been made. One reason for this is that commitment verbs are the least frequently occurring of the four complement-taking classes of speech act verbs ([§12.1.1](ContributionTable?anchor=s-12-1-1#cldf:6-12)). Another is that verbs meaning ‘promise’ are often compounds, as listed in (25).[^14]: There is some evidence (Tolo, Tamambo, Lolovoli) that there was a PEOc term for ‘promise’ made up of the verbs ‘say’ and ‘put’ (POc _&ast;taRu(q)_, [vol.5:449](ContributionTable?anchor=p-449#cldf:5-6)).
 
 25)
 
@@ -696,7 +696,7 @@ Verbs of speaking in a number of Oceanic languages are also used in the sense of
 
 [6-12-6-None-400-24](examplegroups.csv#cldf:6-12-6-None-400-24)
 
-The hallmark of this construction in the last three examples is that when the verb of saying is used in this sense, it is followed by an irrealis complement.[^16]
+The hallmark of this construction in the last three examples is that when the verb of saying is used in this sense, it is followed by an irrealis complement.[^16]:
 
 Intuitively it seems likely that the sequence of extensions was ‘say’ > ‘think’ > ‘want’/ ‘intend’, but the evidence is insufficient to test this.
 
@@ -723,7 +723,7 @@ It is noted that expressions like ‘I want/hope/wish’ sometimes take the form
 
 In the foregoing sections 22 POc speech act verbs have been reconstructed, along with two PWOc, six PEOc, four PPn and one each for PSES, PNCV and PCP. In making this count only a cognate set’s highest-order reconstruction has been counted. Reconstructions at levels older than POc have been ignored.
 
-These numbers are low in comparison with the multiplicity of speech act verbs in the Fijian languages or in English, a fact accounted for by paucity of data[^17] and the presence of numerous compound speech act expressions in some, perhaps many, Oceanic languages ([§12.1.3](ContributionTable?anchor=s-12-1-3#cldf:6-12)). Gaps in the data prevent us making a more specific generalisation. In the discussion of compound expressions in [§12.3.5](ContributionTable?anchor=s-12-3-5#cldf:6-12) we noted that PEOc perhaps had a compound speech act expression for ‘promise’ consisting of the verbs ‘say’ and ‘put’. Further research would probably lead to further findings of this kind.
+These numbers are low in comparison with the multiplicity of speech act verbs in the Fijian languages or in English, a fact accounted for by paucity of data[^17]: and the presence of numerous compound speech act expressions in some, perhaps many, Oceanic languages ([§12.1.3](ContributionTable?anchor=s-12-1-3#cldf:6-12)). Gaps in the data prevent us making a more specific generalisation. In the discussion of compound expressions in [§12.3.5](ContributionTable?anchor=s-12-3-5#cldf:6-12) we noted that PEOc perhaps had a compound speech act expression for ‘promise’ consisting of the verbs ‘say’ and ‘put’. Further research would probably lead to further findings of this kind.
 
 We have also examined the grammatical behaviour of speech act verbs ([§12.1.2](ContributionTable?anchor=s-12-1-2#cldf:6-12)), and seen that the same verb used with different grammatical constructions may have distinct senses. Understanding this behaviour and its grammaticalisation allows us to recognise that at least some complementisers are derived from verbs ([§12.2](ContributionTable?anchor=s-12-2#cldf:6-12)).
 

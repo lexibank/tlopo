@@ -5,7 +5,7 @@
 
 <a id="s-1"></a>
 
-## 1. Introduction[^1]
+## 1. Introduction[^1]:
 
 
 Oceanic peoples in pre-contact times shared their world with ghostly spirits, both human and non-human in origin. In particular, it was thought that a dead person could continue to exist as a ghost or disembodied spirit, typically as a protective guardian spirit. In Manus in the Admiralties an ancestral ghost was physically represented by the skull of the householder’s father, which occupied a niche over the entrance to the house ([Fortune 1935](Source#cldf:Fortune1935):1). In Mekeo (PT), a sorcerer kept with him the relics (bones, teeth, hair) of his patrilineal ancestors, with whom he was in constant communication ([Stephen 1987](Source#cldf:Stephen1987):57). In Sa’a and Ulawa (SES), dwelling houses held a relic case containing the skull or jawbone or lock of hair or tooth of the departed, to which offerings were made ([Ivens 1927](Source#cldf:Ivens1927):178). Invocations made in the performance of magic addressed the ancestors and sometimes included them by name ([Stephen 1987](Source#cldf:Stephen1987):59, [Hogbin 1964a](Source#cldf:Hogbin1964a):87). In pre-contact Oceania it was the ancestors who were responsible for maintaining the conditions under which the community flourished. A moral code was implicit, even if unlabelled. If you followed the code your garden flourished, your children grew well, your fishing trips were successful. Deviation from this code resulted in ancestral displeasure, manifested in misfortune, illness or death.
@@ -156,7 +156,7 @@ POc _&ast;qatuan_ ‘deity, supernatural being’ is supported by cognates from 
 
 [PMP &ast;_qatuan_](cognatesetreferences.csv#cldf:6-7-5-None-245-POc-qatuan-a)
 
-Also reconstructed is POc _&ast;tubuqan_ ‘supernatural being’. It appears to be derived from POc _&ast;tubuq_ ‘grow’, and to be identical with _&ast;tubuq-a(n)_ ‘body, substance’ (_-an_ nominaliser) ([vol.5:79](ContributionTable?anchor=p-79#cldf:5-3)–80),[^5] but with a specialised meaning, disassociated from the human body. [Simet](Source#cldf:Simet1991) ([1991](Source#cldf:Simet1991)) discusses the Tolai term _tubuan_ at length. It refers not just to the mask but to the man who wears it, who assumes supernatural powers. The term is also used in Sursurunga and Tolai to label the male secret society in which tubuan activities take place.
+Also reconstructed is POc _&ast;tubuqan_ ‘supernatural being’. It appears to be derived from POc _&ast;tubuq_ ‘grow’, and to be identical with _&ast;tubuq-a(n)_ ‘body, substance’ (_-an_ nominaliser) ([vol.5:79](ContributionTable?anchor=p-79#cldf:5-3)–80),[^5]: but with a specialised meaning, disassociated from the human body. [Simet](Source#cldf:Simet1991) ([1991](Source#cldf:Simet1991)) discusses the Tolai term _tubuan_ at length. It refers not just to the mask but to the man who wears it, who assumes supernatural powers. The term is also used in Sursurunga and Tolai to label the male secret society in which tubuan activities take place.
 
 # FIXME: error in vol5
 
@@ -171,7 +171,7 @@ Also reconstructed is POc _&ast;tubuqan_ ‘supernatural being’. It appears to
 ## 6. Conclusion
 
 
-Terms related to matters of belief and the spirit world have been subjected to a considerable degree of reinterpretation, particularly since the introduction and widespread adoption of Christianity. Defining the reconstructions is not helped by reliance in the cognate sets on the English term ‘spirit’, a word whose multiple meanings can refer to all of the concepts discussed here – ancestor spirit, non-human spirit and soul both as animating spark and as the part of a person that survives after death,[^6] resulting in a degree of cross-contamination of meaning in wordlists.
+Terms related to matters of belief and the spirit world have been subjected to a considerable degree of reinterpretation, particularly since the introduction and widespread adoption of Christianity. Defining the reconstructions is not helped by reliance in the cognate sets on the English term ‘spirit’, a word whose multiple meanings can refer to all of the concepts discussed here – ancestor spirit, non-human spirit and soul both as animating spark and as the part of a person that survives after death,[^6]: resulting in a degree of cross-contamination of meaning in wordlists.
 
 We can be confident that POc _&ast;qanitu_ (from PAn _&ast;qaniCu_ ‘ghost, spirit of the dead’) referred to ‘ancestral spirit’. POc _&ast;qatuan_ (from PMP _&ast;qatuan_ ‘deity’) may have referred more broadly to any supernatural being, whether human or non-human in origin. Evidence that there are distinct terms for the soul within a living person and the soul which survives after death has resulted in three POc reconstructions. Clearly there are various ways in which an abstract quality like ‘soul’ can be conceptualised. POc _&ast;maqurip_ (V) ‘be alive, live, flourish; be in good health’; (N) ‘soul, life force’, (from PAn _&ast;qudip_ ‘life; alive’) is readily understood as referring by extension to the animating spark in man. Although _&ast;[qa]nunu_ (from PAn _&ast;qaLiŋu_ ‘shadow, reflection’) and _&ast;qata_ both refer inter alia to ‘shadow, reflection’, the former has the added support from three subgroups (NNG, MM, SES) for the meaning to include ‘soul that may leave the body in dreams’.
 

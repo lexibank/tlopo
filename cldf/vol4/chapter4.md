@@ -8,7 +8,7 @@
 ## 1. Introduction
 
 
-This chapter deals with invertebrates that are aquatic or semi-aquatic, such as crustaceans, molluscs, echinoderms, sea-worms, jellyfish and corals.[^1] It addresses the following questions: (1) What terms for aquatic invertebrates can be attributed to Proto Oceanic (POc) and other high-order interstages of Oceanic? (2) What uses were made of these animals? (3) How does the number of taxa reconstructable for POc compare with the number attested in well-described contemporary languages?
+This chapter deals with invertebrates that are aquatic or semi-aquatic, such as crustaceans, molluscs, echinoderms, sea-worms, jellyfish and corals.[^1]: It addresses the following questions: (1) What terms for aquatic invertebrates can be attributed to Proto Oceanic (POc) and other high-order interstages of Oceanic? (2) What uses were made of these animals? (3) How does the number of taxa reconstructable for POc compare with the number attested in well-described contemporary languages?
 
 The marine invertebrate fauna of the tropical southwest and central Pacific is fairly uniform, so that when Oceanic speakers first dispersed across this region some 3000 years ago they generally encountered familiar creatures. It must be added that not every island or island group has the full range of habitats: fringing coral reefs, mangrove forests, estuarine mudflats, seagrass flats, etc.
 
@@ -17,7 +17,7 @@ Molluscs, crustaceans and echinoderms gathered in and around the intertidal zone
 
 <a id="p-162"></a>
 
-Linguistic evidence that foraging on the reef for invertebrates was important to Proto Oceanic speakers is found in two widespread cognate sets noted by [Clark](Source#cldf:Clark1991) ([1991](Source#cldf:Clark1991)). Clark’s POc reconstructions are given below, with a few additional cognates.[^2] The first is a verb.
+Linguistic evidence that foraging on the reef for invertebrates was important to Proto Oceanic speakers is found in two widespread cognate sets noted by [Clark](Source#cldf:Clark1991) ([1991](Source#cldf:Clark1991)). Clark’s POc reconstructions are given below, with a few additional cognates.[^2]: The first is a verb.
 
 [POc &ast;_paŋoda_](cognatesetreferences.csv#cldf:4-4-1-None-162-POc-paoda-a)
 
@@ -82,18 +82,18 @@ In the discussion that follows cognate sets presented will be grouped under stan
 ### 2.2. Oceanic folk taxonomies of aquatic invertebrates
 
 
-In order to get an idea of the likely size and taxonomic structure of the POc lexicon for aquatic invertebrates one must look at contemporary languages whose speakers exploit a marine and shore environment fairly similar to that inhabited by POc speakers. Unfortunately there are very few systematic studies in this domain. There is a fairly detailed account of aquatic invertebrate taxonomy in Wayan, a dialect of the Western Fijian language ([Pawley 1994](Source#cldf:Pawley1994), [Pawley and Sayaba 2003](Source#cldf:PawleyandSayaba2003)) spoken on two small islands on the western margin of Fiji. Wayan speakers distinguish by name more than 240 marine invertebrate taxa.[^4] Almost 150 of these names apply to molluscs, about 48 to crustaceans, about 31 to echinoderms, about 12 to coelenterates and about five to marine worms.
+In order to get an idea of the likely size and taxonomic structure of the POc lexicon for aquatic invertebrates one must look at contemporary languages whose speakers exploit a marine and shore environment fairly similar to that inhabited by POc speakers. Unfortunately there are very few systematic studies in this domain. There is a fairly detailed account of aquatic invertebrate taxonomy in Wayan, a dialect of the Western Fijian language ([Pawley 1994](Source#cldf:Pawley1994), [Pawley and Sayaba 2003](Source#cldf:PawleyandSayaba2003)) spoken on two small islands on the western margin of Fiji. Wayan speakers distinguish by name more than 240 marine invertebrate taxa.[^4]: Almost 150 of these names apply to molluscs, about 48 to crustaceans, about 31 to echinoderms, about 12 to coelenterates and about five to marine worms.
 
 Folk classifications of animals have many fewer levels than those recognised by zoologists. [Berlin](Source#cldf:Berlin1992) ([1992](Source#cldf:Berlin1992)) has discussed at length the organising principles underlying folk taxonomies of animals and plants (see chapter 8 for more detail). As folk taxonomies go, the Wayan classification of aquatic animals is among the more complex. Some domains have a depth of six contrasting levels - two levels more than Berlin’s model recognises as the known maximum for folk taxonomies of wild animals.
 
-[Table 4.1](#table-4.1) shows the contrasts between some first-order categories of invertebrates that occur in the Wayan Fijian taxonomy. These fall under no higher category other than _manumanu_, which refers to all creatures.
+[Table 4.1](#tab-4.1) shows the contrasts between some first-order categories of invertebrates that occur in the Wayan Fijian taxonomy. These fall under no higher category other than _manumanu_, which refers to all creatures.
 
 In many respects Wayan higher-order taxa differ markedly from those found in zoological classifications. For instance, there is no echinoderm category: sea cucumbers, sea urchins, starfish and brittle starfish are each assigned to separate primary taxa. There is no category corresponding to crustaceans. There is a general name for sea cucumbers but no overt taxon uniting the various sea urchin taxa (these animals represent a covert category, which Wayans readily identify by a descriptive phrase such as _manumanu laulau ni ðakau_ ‘spiky animals of the reef’). Unsurprisingly, octopus and squid form a primary taxon apart from other molluscs. There is a generic for gastropods (_ðiði_) but no generic for all bivalves. Instead there are generics for burrowing bivalves (_tavē_) and all kinds of oysters (_ðiva_). Wayan also has a category, _manumanu gwāgwā_, that refers to edible decapods, subsuming _ura_, _seka_, _tubā_, _uŋa_ and _tolā_. However, this is a ‘collective’ category rather than a true superordinate taxon: one does not point to an animal and identify it as a _manumanu gwāgwā_.
 
 
 <a id="p-165"></a>
 
-<a id="table-4.1"> </a>
+<a id="tab-4.1"> </a>
 
 : __Table 4.1__  Some high-order aquatic invertebrate taxa in Wayan
 
@@ -118,7 +118,7 @@ In many respects Wayan higher-order taxa differ markedly from those found in zoo
 |      | _lase_             | hard corals                 |
 |      | _sam_              | jellyfish                   |
 
-Systematic descriptions of other Oceanic taxonomies are admittedly few but the available evidence suggests that the size and taxonomic structure of the Wayan terminology are fairly typical of Oceanic-speaking maritime communities.[^5] It is reasonable to assume that the POc taxonomy was roughly of the same order.
+Systematic descriptions of other Oceanic taxonomies are admittedly few but the available evidence suggests that the size and taxonomic structure of the Wayan terminology are fairly typical of Oceanic-speaking maritime communities.[^5]: It is reasonable to assume that the POc taxonomy was roughly of the same order.
 
 
 <a id="s-3"></a>
@@ -1210,7 +1210,7 @@ Sponges are conspicuous inhabitants of coral reefs. They come in a variety of sh
 ## 9. What proportion of POc taxa have been reconstructed?
 
 
-Leaving aside the collective term _&ast;pinaŋoda_, the number of fairly secure POc reconstructions for aquatic (including semi-aquatic) invertebrate taxa is 42, with a few additional tentative reconstructions at POc level and a number of other reconstructions attributable to PEOc or PWOc. Taking the Wayan figure of about 240 taxa as fairly typical of those Austronesian maritime communities which exploit fringing reefs and mangrove swamps, it follows that 42 is probably less than a fifth of the total number of aquatic taxa distinguished by POc speakers. The breakdown in [Table 4.2](#table-4.2), comparing Wayan with POc, indicates the distribution of the shortfalls across the main groups of aquatic invertebrates.
+Leaving aside the collective term _&ast;pinaŋoda_, the number of fairly secure POc reconstructions for aquatic (including semi-aquatic) invertebrate taxa is 42, with a few additional tentative reconstructions at POc level and a number of other reconstructions attributable to PEOc or PWOc. Taking the Wayan figure of about 240 taxa as fairly typical of those Austronesian maritime communities which exploit fringing reefs and mangrove swamps, it follows that 42 is probably less than a fifth of the total number of aquatic taxa distinguished by POc speakers. The breakdown in [Table 4.2](#tab-4.2), comparing Wayan with POc, indicates the distribution of the shortfalls across the main groups of aquatic invertebrates.
 
 The relative paucity of POc reconstructions can be attributed in large part to gaps in the coverage provided by dictionaries of contemporary languages. Few dictionaries give anything like an exhaustive listing of terms for invertebrates. However, a pattern is discernable in the kinds of terms that can/cannot be reconstructed. One important category of terms almost completely missing from our reconstructions is binomials. A run through the list of reconstructions shows that all the POc terms are uninomials (unitary lexemes). By contrast, about a third of the Wayan names are binomials, including 40 of the 105 gastropod taxa, but only seven of the 35 bivalve taxa.
 
@@ -1219,7 +1219,7 @@ Why are uninomials more stable than binomials? [Berlin](Source#cldf:Berlin1992) 
 
 <a id="p-214"></a>
 
-<a id="table-4.2"> </a>
+<a id="tab-4.2"> </a>
 
 : __Table 4.2__   Terms for aquatic invertebrate groups known for Wayan and Proto Oceanic
 

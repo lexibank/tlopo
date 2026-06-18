@@ -8,7 +8,7 @@
 ## 1. Introduction
 
 
-This chapter asks what linguistic evidence can tell us about Proto Oceanic speakers’ settlement patterns and relation to territory, both land and sea.[^1] Where were settlements located? What sort of residential communities existed? Did people live in sizeable villages or in dispersed hamlets? What sort of buildings were constructed, in terms of function and architecture? What sort of territorial units were recognised?
+This chapter asks what linguistic evidence can tell us about Proto Oceanic speakers’ settlement patterns and relation to territory, both land and sea.[^1]: Where were settlements located? What sort of residential communities existed? Did people live in sizeable villages or in dispersed hamlets? What sort of buildings were constructed, in terms of function and architecture? What sort of territorial units were recognised?
 
 A conjunction of archaeological and linguistic evidence places the primary dispersal centre of Proto Oceanic in the Bismarck Archipelago and associates this language with the archaeological tradition known as (Early Western) Lapita, whose bearers spread very swiftly across the southwest Pacific around 3000 BP, reaching Tonga by 2850 BP. Archaeology tells us a good deal about the preferred habitation sites of early Lapita settlements in the Bismarck Archipelago ([Green 2003](Source#cldf:Green2003); [Kirch 1997](Source#cldf:Kirch1997), [2000](Source#cldf:Kirch2000); [Spriggs 1997a](Source#cldf:Spriggs1997a); [Summerhayes 2010](Source#cldf:Summerhayes2010)). All the sites are on the coast, close to beaches and fringing reefs that, respectively, would have provided landing places for canoes and for obtaining seafood. However, archaeology has yielded little evidence about the internal organisation of Lapita dwelling sites, as very few have been excavated extensively enough to reveal the arrangement of houses and other structures and areas of use.
 
@@ -71,7 +71,7 @@ POc speakers were also farmers. They cultivated a range of ground and tree crops
 ## 3. Kinds of domestic buildings
 
 
-That POc speakers occupied permanent dwellings is indicated by a host of terms to do with house construction. Terms for several kinds of buildings can be reconstructed. [Blust](Source#cldf:Blust1987) ([1987](Source#cldf:Blust1987)) compared four different cognate sets, widely represented in Austronesian languages, that refer to kinds of domestic buildings. He reconstructs Proto Malayo-Polynesian (PMP) _&ast;Rumaq_ ‘dwelling house’ _&ast;balay_ ‘public building’, _&ast;kamaliR_ ‘men’s house’ and _&ast;lepaw_ ‘granary’.[^2] The first three terms were continued in POc.
+That POc speakers occupied permanent dwellings is indicated by a host of terms to do with house construction. Terms for several kinds of buildings can be reconstructed. [Blust](Source#cldf:Blust1987) ([1987](Source#cldf:Blust1987)) compared four different cognate sets, widely represented in Austronesian languages, that refer to kinds of domestic buildings. He reconstructs Proto Malayo-Polynesian (PMP) _&ast;Rumaq_ ‘dwelling house’ _&ast;balay_ ‘public building’, _&ast;kamaliR_ ‘men’s house’ and _&ast;lepaw_ ‘granary’.[^2]: The first three terms were continued in POc.
 
 [PAn &ast;_Rumaq_](cognatesetreferences.csv#cldf:6-5-3-None-177-POc-rumaq-a)
 
@@ -158,7 +158,7 @@ The reflexes of POc _&ast;koro_ in Vanuatu and Polynesian indicate that it refer
 
 [POc &ast;_koro_](cognatesetreferences.csv#cldf:6-5-4-None-182-POc-koro-a)
 
-Another candidate, _&ast;malaqai_, is attested throughout Polynesian, where it denotes an open space in the middle of a village or in front of a house used for public activities, and in a North New Guinea language and a Papuan Tip language, where it refers to a village. Possible cognates appear in Tangga, a Meso-Melanesian language, but the data are problematic.[^5]
+Another candidate, _&ast;malaqai_, is attested throughout Polynesian, where it denotes an open space in the middle of a village or in front of a house used for public activities, and in a North New Guinea language and a Papuan Tip language, where it refers to a village. Possible cognates appear in Tangga, a Meso-Melanesian language, but the data are problematic.[^5]:
 
 [POc &ast;_malaqai_](cognatesetreferences.csv#cldf:6-5-4-None-182-POc-malaqai-a)
 
@@ -193,7 +193,7 @@ POc _&ast;panua_, which continues PMP _&ast;banua_, is very widely reflected in 
 
 <a id="p-185"></a>
 
-This sample exhibits about 20 more or less distinct senses associated with reflexes of _&ast;panua_. The distribution of these senses across major subgroups of Oceanic is as in [Table 5.1](#table-5.1).
+This sample exhibits about 20 more or less distinct senses associated with reflexes of _&ast;panua_. The distribution of these senses across major subgroups of Oceanic is as in [Table 5.1](#tab-5.1).
 
 In his discussion of PMP _&ast;banua_ [Blust](Source#cldf:Blust1987) ([1987](Source#cldf:Blust1987)) compared cognate sets from three putative subgroups of Malayo-Polynesian: Western Malayo-Polynesian (WMP), Central Malayo-Polynesian (CMP), and South Halmahera-West New Guinea (SHWNG) as well as from Oceanic. Languages from the first three subgroups exhibit roughly the same range of glosses as can be found in Oceanic, with a few additions. For example:
 
@@ -202,7 +202,7 @@ In his discussion of PMP _&ast;banua_ [Blust](Source#cldf:Blust1987) ([1987](Sou
 
 <a id="p-186"></a>
 
-<a id="table-5.1"> </a>
+<a id="tab-5.1"> </a>
 
 : __Table 5.1__     Distribution of senses of reflexes of _&ast;panua_ by subgroups
 
@@ -267,9 +267,9 @@ He concludes that PMP _&ast;banua_ (and by implication POc _&ast;panua_) had a s
 
 <a id="p-188"></a>
 
-<a id="table-5.2"> </a>
+<a id="tab-5.2"> </a>
 
-: __Table 5.2__     Eight senses of Wayan Fijian _vanua_ (N)[^6]
+: __Table 5.2__     Eight senses of Wayan Fijian _vanua_ (N)[^6]:
 
 |     | Sense                                                                                                                                                                                                                                                                                                                                                                                                | Usage notes                                                                                                                                            |
 |----:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -287,15 +287,15 @@ This complex but unitary meaning, he suggests, is ‘fragmented’ into various 
 
 <a id="p-189"></a>
 
-In Wayan, a dialect of Western Fijian, some eight senses of vanua can be distinguished ([Pawley and Sayaba 2022](Source#cldf:PawleyandSayaba2022)). Most, if not all of these can be shown to contrast by one or another diagnostic criterion, as indicated in [Table 5.2](#table-5.2).
+In Wayan, a dialect of Western Fijian, some eight senses of vanua can be distinguished ([Pawley and Sayaba 2022](Source#cldf:PawleyandSayaba2022)). Most, if not all of these can be shown to contrast by one or another diagnostic criterion, as indicated in [Table 5.2](#tab-5.2).
 
-We can go a fair way towards making sense of the great diversity of glosses in the daughter languages by assuming that POc &ast;panua had a range of senses corresponding roughly to those shared by the Fijian languages and certain languages of various other subgroups, including Muyuw of Papuan Tip, ’Are’are of S.E. Solomonic, Tongan and Tikopia of Polynesian, and Rotuman.[^7] These are shown in [Table 5.3](#table-5.3).
+We can go a fair way towards making sense of the great diversity of glosses in the daughter languages by assuming that POc &ast;panua had a range of senses corresponding roughly to those shared by the Fijian languages and certain languages of various other subgroups, including Muyuw of Papuan Tip, ’Are’are of S.E. Solomonic, Tongan and Tikopia of Polynesian, and Rotuman.[^7]: These are shown in [Table 5.3](#tab-5.3).
 
 The senses attributed to &ast;panua do not include ‘settlement’ or ‘village’. Closest to these is 3(a) ‘territory belonging to a community, inhabited place’. It seems likely that in POc this broader sense encompassed habitation sites and their residents but that in certain daughter languages it was narrowed to refer specifically to the cluster of buildings and associated features that make up a village. This development in turn provided a platform for a further narrowing to ‘house’ in a number of languages.
 
 To sum up, the comparative lexical evidence assembled in sections 5.4 and 5.5 does not tell us whether POc speakers occupied sizeable villages or dispersed hamlets.
 
-<a id="table-5.3"> </a>
+<a id="tab-5.3"> </a>
 
 : __Table 5.3__        Probable senses of POc _&ast;panua_
 
@@ -312,7 +312,7 @@ To sum up, the comparative lexical evidence assembled in sections 5.4 and 5.5 do
 
 <a id="p-190"></a>
 
-<a id="table-5.4"> </a>
+<a id="tab-5.4"> </a>
 
 : __Table 5.4__   Some phrasal expressions for world and weather containing reflexes of POc _&ast;panua_
 
@@ -338,7 +338,7 @@ To sum up, the comparative lexical evidence assembled in sections 5.4 and 5.5 do
 ### 5.2. World and weather
 
 
-We note in passing that sense 6 attributed to POc _&ast;panua_, the world of the diurnal cycle and weather, is present in various Oceanic languages in certain multiword expressions containing reflexes of _&ast;panua_. A sample is shown in [Table 5.4](#table-5.4).
+We note in passing that sense 6 attributed to POc _&ast;panua_, the world of the diurnal cycle and weather, is present in various Oceanic languages in certain multiword expressions containing reflexes of _&ast;panua_. A sample is shown in [Table 5.4](#tab-5.4).
 
 From this material we can reconstruct a family of POc verbal constructions of the type of _&ast;qaco na panua_ ‘be(come) daylight, be sunrise’ and _&ast;boŋi na vanua_ ‘be(come) dark, nightfall’ (where _&ast;qaco_ and _&ast;boŋi_, otherwise ‘sun’ and ‘night’, are verbs), and a parallel set of complex nominal constructions of the type of _&ast;panua qaco_ ‘sunrise, sunny conditions, daytime’, _&ast;panua boŋi_ ‘nightfall, night time’ ([vol.2:40](ContributionTable?anchor=p-40#cldf:2-3)-41, 295).
 

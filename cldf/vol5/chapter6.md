@@ -10,7 +10,7 @@
 
 The reconstructions presented in this chapter cover a wide semantic range of verbs concerned with posture and movement. The semantic domain is a complex one, and the reader will find more reference to the typological literature than in other chapters in these volumes, in an effort to make sense of the domain’s structure in Proto Oceanic. Languages structure the posture and movement domain in different ways, and Oceanic languages have their own shared peculiarities in this regard, described at appropriate points in the chapter.
 
-The most important division is into posture verbs and movement verbs. Posture verbs in turn are divided into cardinal posture verbs—those denoting ‘sit’, ‘stand’ and ‘lie’, found in most languages around the world and often used as simple verbs of location (‘be at’)—and non-cardinal posture verbs, which are more culturally specific. The subdomain of movement verbs is much more complex. There are straightforward movement verbs like ‘go’, ‘fly’ and ‘descend’ (§[§6.3](ContributionTable?anchor=s-6-3#cldf:5-6)–6.5), which have a single argument, the theme (the person or thing that is moved), and there are caused movement verbs like ‘raise’, ‘carry’, ‘put’ and ‘send’, which have two arguments: an agent that causes movement and a theme which moves. These complexities are discussed at greater length below.
+The most important division is into posture verbs and movement verbs. Posture verbs in turn are divided into cardinal posture verbs—those denoting ‘sit’, ‘stand’ and ‘lie’, found in most languages around the world and often used as simple verbs of location (‘be at’)—and non-cardinal posture verbs, which are more culturally specific. The subdomain of movement verbs is much more complex. There are straightforward movement verbs like ‘go’, ‘fly’ and ‘descend’ (§§[6.3](ContributionTable?anchor=s-6-3#cldf:5-6)-[6.5](ContributionTable?anchor=s-6-5#cldf:5-6)), which have a single argument, the theme (the person or thing that is moved), and there are caused movement verbs like ‘raise’, ‘carry’, ‘put’ and ‘send’, which have two arguments: an agent that causes movement and a theme which moves. These complexities are discussed at greater length below.
 
 
 <a id="s-2"></a>
@@ -20,7 +20,7 @@ The most important division is into posture verbs and movement verbs. Posture ve
 
 Posture verbs are verbs meaning ‘sit’, ‘stand’, ‘lie’, ‘hang’, ‘lean’, ‘squat’, ‘kneel’ and the like. These can be divided into cardinal and non-cardinal posture verbs. Cardinal posture verbs have the meanings ‘sit’, ‘stand’ and ‘lie’ and have a broader range of use in many languages than non-cardinal posture verbs, i.e. verbs denoting other postures (‘hang’ etc) and verbs denoting a more specific posture (e.g. ‘sit crosslegged’) than the cardinal posture verbs.
 
-The cardinal posture verbs ‘sit’, ‘stand’ and ‘lie’ have two kinds of use in many of the world’s languages, including Oceanic. In the first use they are simply intransitive verbs denoting the posture of their subject (‘Mary is sitting’). They are often accompanied by a location (‘Mary is sitting on a chair’). This gives rise to their second use, as default verbs in locative constructions ([Ameka & Levinson 2007](Source#cldf:AmekaandLevinson2007), [Lichtenberk 2002](Source#cldf:Lichtenberk2002)). A locative construction is one that answers the question ‘Where is X?’. Across languages locative constructions come in three main kinds:[^1]
+The cardinal posture verbs ‘sit’, ‘stand’ and ‘lie’ have two kinds of use in many of the world’s languages, including Oceanic. In the first use they are simply intransitive verbs denoting the posture of their subject (‘Mary is sitting’). They are often accompanied by a location (‘Mary is sitting on a chair’). This gives rise to their second use, as default verbs in locative constructions ([Ameka & Levinson 2007](Source#cldf:AmekaandLevinson2007), [Lichtenberk 2002](Source#cldf:Lichtenberk2002)). A locative construction is one that answers the question ‘Where is X?’. Across languages locative constructions come in three main kinds:[^1]:
 
  1. a construction with no copula (‘The cup — on the table’)
  2. a construction with a copula verb corresponding to English be (‘The cup __is__ on the table’),
@@ -30,11 +30,11 @@ The cardinal posture verbs ‘sit’, ‘stand’ and ‘lie’ have two kinds o
 
 <a id="p-368"></a>
 
-Oceanic languages tend to have constructions of types 1 and 3, but not type 2. The Seimat (Adm) sentence below is of type 1:[^2]
+Oceanic languages tend to have constructions of types 1 and 3, but not type 2. The Seimat (Adm) sentence below is of type 1:[^2]:
 
 [5-6-2-None-368-6](examplegroups.csv#cldf:5-6-2-None-368-6)
 
-The difference between a postural and a locative use is that in the latter, the verb is bleached of its postural meaning. Thus Manam (NNG) has a type 3 locative construction where the verb _-eno_ ‘lie’ is used in locative and existential sentences[^3] with abstract subjects where there is no postural orientation at all.
+The difference between a postural and a locative use is that in the latter, the verb is bleached of its postural meaning. Thus Manam (NNG) has a type 3 locative construction where the verb _-eno_ ‘lie’ is used in locative and existential sentences[^3]: with abstract subjects where there is no postural orientation at all.
 
 [5-6-2-None-368-7](examplegroups.csv#cldf:5-6-2-None-368-7)
 
@@ -67,7 +67,7 @@ In addition to cardinal posture verbs, verbs meaning ‘squat’, ‘kneel’ an
 ### 2.1. Sit, be located
 
 
-Two POc forms meaning ‘sit, stay, dwell’ are reconstructable: _&ast;mono(ŋ)_/_&ast;monoŋ-i_ and POc _&ast;nopo(q)_. A third form, _&ast;mia[n]_, is reconstructed subject to certain caveats mentioned below. Significantly, a purely postural meaning (‘sit’) is reconstructable for none of these verbs. In all three instances, reflexes tend to mean ‘sit’, ‘stay’ or ‘dwell’ or a combination of these, whereas reflexes of reconstructions meaning ‘stand’ ([§6.2.2](ContributionTable?anchor=s-6-2-2#cldf:5-6)) and ‘lie’ ([§6.2.3](ContributionTable?anchor=s-6-2-3#cldf:5-6)) tend to have glosses with only a postural sense. There is a reason for this. In traditional Oceanic societies there were no chairs or custom-made seats. People sat or squatted on the ground, so any ‘sit’ verb would not have had the postural sense of English sit but would have meant ‘be located’ and have been a candidate for service as the default POc locative verb.[^4]
+Two POc forms meaning ‘sit, stay, dwell’ are reconstructable: _&ast;mono(ŋ)_/_&ast;monoŋ-i_ and POc _&ast;nopo(q)_. A third form, _&ast;mia[n]_, is reconstructed subject to certain caveats mentioned below. Significantly, a purely postural meaning (‘sit’) is reconstructable for none of these verbs. In all three instances, reflexes tend to mean ‘sit’, ‘stay’ or ‘dwell’ or a combination of these, whereas reflexes of reconstructions meaning ‘stand’ ([§6.2.2](ContributionTable?anchor=s-6-2-2#cldf:5-6)) and ‘lie’ ([§6.2.3](ContributionTable?anchor=s-6-2-3#cldf:5-6)) tend to have glosses with only a postural sense. There is a reason for this. In traditional Oceanic societies there were no chairs or custom-made seats. People sat or squatted on the ground, so any ‘sit’ verb would not have had the postural sense of English sit but would have meant ‘be located’ and have been a candidate for service as the default POc locative verb.[^4]:
 
 Reflexes of the widely reflected POc _&ast;toka_ ‘come to rest, settle (of vessel, on reef)’ also fall into the ‘sit, stay, dwell’ domain, but its POc meaning seems to have been narrower and indeed inchoative, a matter discussed below.
 
@@ -128,7 +128,7 @@ The set below appears to reflect something like POc _&ast;tutu_. It is not clear
 
 [POc &ast;_tutu_](cognatesetreferences.csv#cldf:5-6-2-2-376-POc-tutu-a)
 
-The set below is restricted to WOc languages but is clearly inherited from PAn. However, a PMP form with _&ast;ma-_, i.e. _&ast;ma-diRi_, has not been reconstructed, and would in any case have resulted in POc †_&ast;ma-riri_. Instead the presence of _&ast;-dr-_ in POc _&ast;madriRi_ suggests earlier †_&ast;ma-n-diRi_. CMP languages with a nasal prefix occur (the [ACD](Source#cldf:Blust1995) lists Fordata _n-diri_ and Kei _en-dir_), but not enough is known about pre-Oceanic diachronic morphology to allow a firm pre-Oceanic reconstruction.[^5]
+The set below is restricted to WOc languages but is clearly inherited from PAn. However, a PMP form with _&ast;ma-_, i.e. _&ast;ma-diRi_, has not been reconstructed, and would in any case have resulted in POc †_&ast;ma-riri_. Instead the presence of _&ast;-dr-_ in POc _&ast;madriRi_ suggests earlier †_&ast;ma-n-diRi_. CMP languages with a nasal prefix occur (the [ACD](Source#cldf:Blust1995) lists Fordata _n-diri_ and Kei _en-dir_), but not enough is known about pre-Oceanic diachronic morphology to allow a firm pre-Oceanic reconstruction.[^5]:
 
 
 <a id="p-377"></a>
@@ -150,7 +150,7 @@ The NNG and PT forms listed below may also reflect POc _&ast;madriRi_. They allo
 
 One POc term, _&ast;qenop_, is reconstructed for ‘lie, rest horizontally’. A good many reflexes also mean ‘sleep’, but this is a natural development from ‘lie’. Distinct terms for ‘sleep’ are reconstructed in [§4.6.1](ContributionTable?anchor=s-4-6-1#cldf:5-6).
 
-Blust (ACD) reconstructs the PAn term _&ast;qinep_, of which the expected POc reflex is †_&ast;qinop_. He also reconstructs the doublet PEMP _&ast;qenəp_,[^6] reflected as POc _&ast;qenop_. He apparently infers that both forms were inherited into POc because a few terms in _-i-_ occur in NNG languages, listed below under ‘cf. also’. One might alternatively infer, however, that these reflect a NNG height assimilation. Also listed under ‘cf. also’ is the form inep, reflected in three South New Ireland languages. The presence of _-e-_ for †_-o-_ in the second syllable is unexplained.
+Blust (ACD) reconstructs the PAn term _&ast;qinep_, of which the expected POc reflex is †_&ast;qinop_. He also reconstructs the doublet PEMP _&ast;qenəp_,[^6]: reflected as POc _&ast;qenop_. He apparently infers that both forms were inherited into POc because a few terms in _-i-_ occur in NNG languages, listed below under ‘cf. also’. One might alternatively infer, however, that these reflect a NNG height assimilation. Also listed under ‘cf. also’ is the form inep, reflected in three South New Ireland languages. The presence of _-e-_ for †_-o-_ in the second syllable is unexplained.
 
 The distribution of reflexes of _&ast;qenop_ shows some curious restrictions. Regular reflexes occur nowhere in MM, in apparently only a few northern NCV languages, and not at all in Micronesian or Central Pacific languages. In each of these areas other terms, some of them words for ‘sleep’, have replaced _&ast;qenop_, but it is not clear why this replacement is so widespread. The only fairly widespread replacement is PCP _&ast;koto_/PPn _&ast;ta-koto_ below. PPn _ta-_ appears to reflect POc _&ast;ta-_, which marks the event denoted by the verb as spontaneous. However, it is difficult to conceive of lying down as spontaneous.
 
@@ -196,6 +196,10 @@ No POc term for ‘kneel’ has been reconstructed, but a small cognate set poin
 Nakanai in the west and Fijian and Polynesian in the east have compounds with two components, the first a verb meaning ‘stand (a pole or spear) up straight’ or a noun meaning ‘supporting pole, stake’ and the second the term for ‘knee’. They form a collocation which perhaps occurred in POc and which one might translate into English as ‘to knee-stand’. The data below do not allow a POc reconstruction, but the Polynesian terms point to a possible PPn _&ast;toko-turi_ (_&ast;toko_ (V) ‘support, prop up’, (N) ‘supporting pole, stake’; _&ast;turi_ ‘knee’).
 
 [5-6-2-4-381-mm-nakanai-tototulu](cf.csv#cldf:5-6-2-4-381-mm-nakanai-tototulu)
+
+Cf. also:
+
+[5-6-2-4-381-pn-tongan-tuulutui](cf.csv#cldf:5-6-2-4-381-pn-tongan-tuulutui)
 
 
 <a id="s-2-4-3"></a>
@@ -286,9 +290,9 @@ POc _&ast;pʷaralat_ ‘be leaning, slanting’ is a posture verb, but the gloss
 ## 3. Manner of movement verbs
 
 
-There is a copious literature on movement verbs and movement constructions in the world’s languages, much of it stemming from the work of Leonard [Talmy](Source#cldf:Talmy1972) ([1972](Source#cldf:Talmy1972), [1974](Source#cldf:Talmy1974), [1985](Source#cldf:Talmy1985), [1991](Source#cldf:Talmy1991), [2000](Source#cldf:Talmy2000)). Talmy observed that languages tend to have either movement constructions in which the main verb encodes the manner of motion, as in English as in _He_ ___ran___ _greinto the cave_, or movement constructions in which it encodes the path of motion, as in Spanish ___Entró___ _corriendo a la cueva_ [__entered.3SG__ running to the cave]. Path is encoded in the English example by the preposition _into_, and manner in the Spanish example by the participle _corriendo_ ‘running’.[^7]
+There is a copious literature on movement verbs and movement constructions in the world’s languages, much of it stemming from the work of Leonard [Talmy](Source#cldf:Talmy1972) ([1972](Source#cldf:Talmy1972), [1974](Source#cldf:Talmy1974), [1985](Source#cldf:Talmy1985), [1991](Source#cldf:Talmy1991), [2000](Source#cldf:Talmy2000)). Talmy observed that languages tend to have either movement constructions in which the main verb encodes the manner of motion, as in English as in _He_ ___ran___ _greinto the cave_, or movement constructions in which it encodes the path of motion, as in Spanish ___Entró___ _corriendo a la cueva_ [__entered.3SG__ running to the cave]. Path is encoded in the English example by the preposition _into_, and manner in the Spanish example by the participle _corriendo_ ‘running’.[^7]:
 
-These English and Spanish movement constructions each have just one finite verb. Talmy’s classification also allows for serial verb constructions like those which occur in Oceanic languages, discussed in [Ross](Source#cldf:Ross2004a) ([2004a](Source#cldf:Ross2004a)) and briefly in [vol.2(257](ContributionTable?anchor=p-257#cldf:2-8)–258), and illustrated in this Hoava (MM) example:[^8]
+These English and Spanish movement constructions each have just one finite verb. Talmy’s classification also allows for serial verb constructions like those which occur in Oceanic languages, discussed in [Ross](Source#cldf:Ross2004a) ([2004a](Source#cldf:Ross2004a)) and briefly in [vol.2(257](ContributionTable?anchor=p-257#cldf:2-8)–258), and illustrated in this Hoava (MM) example:[^8]:
 
 
 <a id="p-385"></a>
@@ -299,7 +303,7 @@ In this construction, the elements of manner, path and deixis are each encoded b
 
 [5-6-3-None-385-12](examplegroups.csv#cldf:5-6-3-None-385-12)
 
-Elaboration of this manner–path–deixis schema, often by the presence of more than one path verb, is quite common across Oceanic languages, as in this Tuam (NNG) sentence:[^9]
+Elaboration of this manner–path–deixis schema, often by the presence of more than one path verb, is quite common across Oceanic languages, as in this Tuam (NNG) sentence:[^9]:
 
 [5-6-3-None-385-13](examplegroups.csv#cldf:5-6-3-None-385-13)
 
@@ -342,7 +346,7 @@ Where a form reflecting _&ast;lako_ or _&ast;laka_ ([§6.3.1](ContributionTable?
 
 <a id="p-387"></a>
 
-The long vowel in ’Are’are and Oroha _rā_ below probably reflects a preference for bimoraic roots.[^10] However, Andrew Pawley (pers. comm.) suggests that perhaps all forms reflecting _ &ast;la_ are bimoraic, but that length is not represented in their orthographies. If this is so, then the POc form should also be reconstructed as bimoraic, i.e. _&ast;lā_.
+The long vowel in ’Are’are and Oroha _rā_ below probably reflects a preference for bimoraic roots.[^10]: However, Andrew Pawley (pers. comm.) suggests that perhaps all forms reflecting _ &ast;la_ are bimoraic, but that length is not represented in their orthographies. If this is so, then the POc form should also be reconstructed as bimoraic, i.e. _&ast;lā_.
 
 The forms listed below under ‘cf. also’ appear to reflect a POc form _&ast;lae_, but it is not clear how this might have differed from _&ast;la_. It is possible that these forms represent independent developments (perhaps associated with bimoraicity preference), the more so as the sequence _&ast;-ae_ is not otherwise found in reconstructed POc.
 
@@ -707,7 +711,7 @@ There are relatively few EOc reflexes of the terms reconstructed above, partly p
 
 <a id="p-412"></a>
 
-POc apparently had two homophonous verbs with the root _&ast;liu_, one glossed ‘turn aside, change direction’ (this section) and the other _&ast;liu_ ‘go beyond, pass, surpass’ ([§6.4.3](ContributionTable?anchor=s-6-4-3#cldf:5-6)). It is possible that both reflect PAn _&ast;liuS_, which Blust (ACD) glosses ‘circumambulate, circumvent’. However, its Formosan reflexes suggest that PAn _&ast;liuS_ formed both intransitive and transitive verbs meaning ‘turn around’,[^12] the sense inherited by POc. Whether PAn _&ast;liuS_ was also ancestral to PMP _&ast;liu_ ‘surpass, exceed’ is not clear.
+POc apparently had two homophonous verbs with the root _&ast;liu_, one glossed ‘turn aside, change direction’ (this section) and the other _&ast;liu_ ‘go beyond, pass, surpass’ ([§6.4.3](ContributionTable?anchor=s-6-4-3#cldf:5-6)). It is possible that both reflect PAn _&ast;liuS_, which Blust (ACD) glosses ‘circumambulate, circumvent’. However, its Formosan reflexes suggest that PAn _&ast;liuS_ formed both intransitive and transitive verbs meaning ‘turn around’,[^12]: the sense inherited by POc. Whether PAn _&ast;liuS_ was also ancestral to PMP _&ast;liu_ ‘surpass, exceed’ is not clear.
 
 In addition to POc _&ast;liu_ ‘turn aside, change direction’, a reduplicated _&ast;li-liu_ ‘turn around, go back’ is also reconstructable (the different glosses of POc _&ast;liu_ and _&ast;li-liu_ are tentative at best). Many reflexes of these two forms are similar in meaning to reflexes of the items in [§6.4.1](ContributionTable?anchor=s-6-4-1#cldf:5-6), but the overall pattern of their glosses suggests that _&ast;liu_ and _&ast;li-liu_ profiled the semantic element of turning around rather than simply of going back.
 
@@ -840,7 +844,7 @@ A POc verb of the form _&ast;so(k,g)o(n)_ is reconstructable with a meaning that
 
 [POc &ast;_so(k,g)o(n)_](cognatesetreferences.csv#cldf:5-6-5-2-420-POc-sokgon-a)
 
-Just four reflexes of POc ‘gather, congregate’ have been found.[^14]
+Just four reflexes of POc ‘gather, congregate’ have been found.[^14]:
 
 [POc &ast;_lupun_](cognatesetreferences.csv#cldf:5-6-5-2-420-POc-lupun-a)
 
@@ -885,7 +889,7 @@ Thus in an English sentence like
 | _She_ | _moved_ | _the pot_ | _from the table_ | _to the ground_ |
 | AGENT | EVENT   | THEME     | SOURCE           | GOAL            |
 
-all five frame elements are profiled.[^15] Caused movement constructions differ as to whether these elements are all profiled. In this construction the source and the goal are each optional. In construction with, say, put (instead of moved), the goal is obligatory and for many English-speakers the source is obligatorily absent.
+all five frame elements are profiled.[^15]: Caused movement constructions differ as to whether these elements are all profiled. In this construction the source and the goal are each optional. In construction with, say, put (instead of moved), the goal is obligatory and for many English-speakers the source is obligatorily absent.
 
 Crucially, however, the verb itself may also profile certain frame elements. Predictably some caused movement verbs profile elements associated with posture and movement verbs, discussed in earlier sections. These include:
 
@@ -897,7 +901,7 @@ Crucially, however, the verb itself may also profile certain frame elements. Pre
  7. the path of movement ([§6.4](ContributionTable?anchor=s-6-4#cldf:5-6))): insert (‘cause to go into’), extract (‘cause to come out of’),
     immerse (‘cause to go into water’), box (‘cause to be in boxes’)
  8. Other frame elements profiled by caused movement verbs relate to human causal agency:
- 9. whether or not the agent accompanies the theme in its movement:[^16]
+ 9. whether or not the agent accompanies the theme in its movement:[^16]:
  10. not specified, with take, push and pull
      a. yes, with carrying verbs like carry, bring, drag
      b. if no, then whether or not some part or tool of the agent touches the theme until it reaches its goal
@@ -991,7 +995,7 @@ However, English _take_ also profiles direction away from the deictic centre, co
 
 This leaves _pele-_ profiling only the means of movement, namely that the agent moves the theme, i.e. simple caused movement. The verb _pele-_ is the same in all three examples. This is a typical Oceanic configuration, such that one caused movement verb corresponds to both English _take_ and _bring_. A practical result of this is that these Oceanic verbs are often glossed as one or more of ‘take’, ‘get’ and ‘bring’, but the verbs have the same functions whichever of these glosses is used. Thus the verbs reconstructed here overlap two semantic domains. The first is ‘reverse putting’, e.g. ‘taking off the table’ as opposed to ‘putting on the table’ ([§6.6.3](ContributionTable?anchor=s-6-6-3#cldf:5-6).1.4), a subdomain of unaccompanied caused movement. The other is carrying ([§6.2](ContributionTable?anchor=s-6-2#cldf:5-6)), a subdomain of accompanied caused movement.
 
-A second semantic complication, discussed by [D’Jernes](Source#cldf:DJernes2013) ([2013](Source#cldf:DJernes2013)) with regard to Lukep (Pono) _-kaua_/_-kap_ ‘get, give’ (where the first form takes a singular object, the second a plural) is that a verb meaning ‘take, get’ in some languages also means ‘give’. In others, the ‘give’ verb is derived historically from a ‘take, get’ verb. This is less strange than it appears. If the basic meaning of these verbs is simply that the agent moves the theme, then the addition of a recipient is enough to narrow the movement to ‘giving’.[^17]
+A second semantic complication, discussed by [D’Jernes](Source#cldf:DJernes2013) ([2013](Source#cldf:DJernes2013)) with regard to Lukep (Pono) _-kaua_/_-kap_ ‘get, give’ (where the first form takes a singular object, the second a plural) is that a verb meaning ‘take, get’ in some languages also means ‘give’. In others, the ‘give’ verb is derived historically from a ‘take, get’ verb. This is less strange than it appears. If the basic meaning of these verbs is simply that the agent moves the theme, then the addition of a recipient is enough to narrow the movement to ‘giving’.[^17]:
 
 The verbs reconstructed below also raise formal challenges. Broadly, these are due to the fact that words of high token frequency may fail to undergo changes that would otherwise affect them. For example, the Lukep (Pono) pair mentioned above, _-kaua_ and _-kap_, are exceptional in encoding their object respectively as singular and plural. Lukep (Pono) has generally lost POc object indexing enclitics, but retains _-a_ 3SG on a small number of now ‘irregular’ verbs ([D’Jernes](Source#cldf:DJernes2002) ([2002](Source#cldf:DJernes2002)).
 
@@ -1122,7 +1126,7 @@ There are a good many path-profiling ‘pull’ verbs in Oceanic languages. One,
 ### 6.2. Accompanied caused movement
 
 
-Verbs of accompanied caused movement are verbs of carrying and dragging. Many Oceanic languages have no default verb of carrying, but employ a number of carrying verbs, depending on how something/someone is carried and to a lesser degree on what is carried.[^18] Meanings that crop up with considerable frequency include
+Verbs of accompanied caused movement are verbs of carrying and dragging. Many Oceanic languages have no default verb of carrying, but employ a number of carrying verbs, depending on how something/someone is carried and to a lesser degree on what is carried.[^18]: Meanings that crop up with considerable frequency include
 
 - carry on the head
 - carry hanging from the head
@@ -1365,12 +1369,12 @@ Oceanic dictionaries sometimes appear to be incomplete when it comes to putting 
 
 Some interesting patterns emerge from the tabulation. There are far more path-profiling than posture-profiling verbs. All the verbs listed except the last are derived from a base listed in the dictionary, and a majority are derived from undergoer-subject verbs (U-verbs; [vol.1:23](ContributionTable?anchor=p-23#cldf:1-2)). Four are derived from a noun denoting the path’s destination. Each of the derived verbs is simply a transitive form of its base, with the exception of vaka-dureni ‘stand s.t. up, make s.t. stand’, formed with the causative prefix _vaka-_. The latter is a posture-profiling putting verb, and supports the view that Wayan Fijian is indeed, in the preliminary typology of [Narasimhan et al.](Source#cldf:Narasimhanetal2012) ([2012](Source#cldf:Narasimhanetal2012)), a language that elaborates path-profiling rather than posture-profiling verbs of putting.
 
-None of these observations is inconsistent with the data available for other Oceanic languages (other than perhaps Polynesian). Certainly, path verbs play a major role everywhere. Whether they are commonly derived from U-verbs it is impossible to say, as comprehensive dictionaries are not available for other languages that may share this derivation. Another extensive set of verbs of putting is from Mangap-Mbula, which, like all Oceanic languages on or near the New Guinea mainland, does not have U-verbs. and lacks transitive derivational morphology other than the causative prefix _pV-_, which occurs on three posture verbs (the language is exceptional in having a ‘sit’ verb here) and two path verbs. Mangap-Mbula putting verbs are shown in [Table 17](#table-17).
+None of these observations is inconsistent with the data available for other Oceanic languages (other than perhaps Polynesian). Certainly, path verbs play a major role everywhere. Whether they are commonly derived from U-verbs it is impossible to say, as comprehensive dictionaries are not available for other languages that may share this derivation. Another extensive set of verbs of putting is from Mangap-Mbula, which, like all Oceanic languages on or near the New Guinea mainland, does not have U-verbs. and lacks transitive derivational morphology other than the causative prefix _pV-_, which occurs on three posture verbs (the language is exceptional in having a ‘sit’ verb here) and two path verbs. Mangap-Mbula putting verbs are shown in [Table 17](#tab-17).
 
 
 <a id="p-447"></a>
 
-<a id="table-16"> </a>
+<a id="tab-16"> </a>
 
 : Table 16             Verbs of putting in Wayan Fijian
 
@@ -1398,7 +1402,7 @@ None of these observations is inconsistent with the data available for other Oce
 
 <a id="p-448"></a>
 
-<a id="table-17"> </a>
+<a id="tab-17"> </a>
 
 : Table 17         Verbs of putting in Mangap-Mbula
 
@@ -1461,12 +1465,12 @@ Two other apparently simple ‘put’ etyma have reflexes that are not widesprea
 ##### 6.3.1.2. Posture-profiling verbs of putting
 
 
-Assuming that lexical sources are reliable, Oceanic languages have far more underived path- than posture-profiling verbs of putting. Where posture-profiling ‘put’ verbs occur, they tend to be transparently derived from posture verbs, as the Wayan and Mangap examples above show. Other instances include those in [Table 18](#table-18).
+Assuming that lexical sources are reliable, Oceanic languages have far more underived path- than posture-profiling verbs of putting. Where posture-profiling ‘put’ verbs occur, they tend to be transparently derived from posture verbs, as the Wayan and Mangap examples above show. Other instances include those in [Table 18](#tab-18).
 
 
 <a id="p-451"></a>
 
-<a id="table-18"> </a>
+<a id="tab-18"> </a>
 
 : Table 18         Posture-profiling verbs of putting in Oceanic languages
 

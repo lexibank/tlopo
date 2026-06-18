@@ -14,7 +14,7 @@ Terminological reconstruction uses the terminologies of present-day speakers of 
 
 Such classifications differ from one part of the world to another, and sometimes differ across Oceanic communities too. But these classifications can often also be related to objects or entities that have material existence. Verbs, however, denote events and states. Some of the semantic distinctions they make relate to events with physical components (‘winds blow’, ‘people urinate’), but others are more abstract. The more abstract they are, the more careful we need to be not to assume that distinctions encoded by English verbs are similarly encoded by verbs in Oceanic languages and the more semantic change we find reflected across Oceanic cognate sets. To draw examples from this short chapter, Oceanic languages tend to encode ‘beckon’ and ‘wave’ by the same verbs ([§7.3.1](ContributionTable?anchor=s-7-3-1#cldf:5-7)), and this is also true of ‘slap’ and ‘clap’ ([§7.4.1](ContributionTable?anchor=s-7-4-1#cldf:5-7)). Acts of washing in Oceanic languages defy single-verb English translations ([§7.6](ContributionTable?anchor=s-7-6#cldf:5-7)).
 
-The somewhat abstract nature of verb meanings means that the internal classification and even the grammatical encoding of a whole domain may be quite different from its classification and encoding in English. For example, many Oceanic languages use serial verb constructions to encode movement, thereby partitioning meanings into manner of movement, geographic direction of movement, and deictic direction of movement ([vol.2:256](ContributionTable?anchor=p-256#cldf:2-8)–283 and this volume, §[§6.3](ContributionTable?anchor=s-6-3#cldf:5-7)–6.4), with verbs (or directional morphemes) that occupy each slot in the construction.
+The somewhat abstract nature of verb meanings means that the internal classification and even the grammatical encoding of a whole domain may be quite different from its classification and encoding in English. For example, many Oceanic languages use serial verb constructions to encode movement, thereby partitioning meanings into manner of movement, geographic direction of movement, and deictic direction of movement ([vol.2:256](ContributionTable?anchor=p-256#cldf:2-8)–283 and this volume, §§[6.3](ContributionTable?anchor=s-6-3#cldf:5-7)-[6.4](ContributionTable?anchor=s-6-4#cldf:5-7)), with verbs (or directional morphemes) that occupy each slot in the construction.
 
 A second effect of the abstract nature of verb meanings, however, is that verbs cannot always be neatly assigned to terminologies, as they sometimes overlap more than one semantic domain. Verbs meaning ‘wait’ and ‘hide’ both have a location component. In this they resemble the posture verbs discussed in [§6.2](ContributionTable?anchor=s-6-2#cldf:5-7), but neither has a posture component. Instead, ‘wait’ has a component of expectation which in certain contexts allows interpretation as a verb of cognition (ch.10), whilst intransitive ‘hide’ resembles a location verb ([§6.2](ContributionTable?anchor=s-6-2#cldf:5-7)) and transitive ‘hide’ a putting verb ([§6.6.3](ContributionTable?anchor=s-6-6-3#cldf:5-7).1), but both entail the element of concealment from certain people.
 
@@ -70,7 +70,7 @@ A second term for working in the garden is found in a number of PT languages and
 
 <a id="p-461"></a>
 
-The etymology of these terms is complex and not entirely clear. Their shape suggests that they reflect a compound, as morpheme-internal _&ast;-ai-_ is not a usual part of the POc phonological template. An obvious candidate for the first morpheme is POc _&ast;pai(t)_ ‘do, make’, reconstructed above in [§7.2.1](ContributionTable?anchor=s-7-2-1#cldf:5-7). However, the MM forms bear an obvious resemblance to the set reflecting POc _&ast;paso(k)_, _&ast;pasok-i_ below, an expanded version of the set in [vol.1:132](ContributionTable?anchor=p-132#cldf:1-5). POc _&ast;paso(k)_ has a history as a unitary morpheme, and to account for PWOc _&ast;pai-sok_, folk etymologising must be assumed, whereby _&ast;paso(k)_ was reanalysed as _&ast;pa-(a)so(k)_, consisting of _&ast;pa-_, the POc causativiser, and the root POc _&ast;asok_ ‘plant in holes in the ground’ (ACD).[^1] The prefix _&ast;pa-_ was then replaced by _&ast;pai-_.
+The etymology of these terms is complex and not entirely clear. Their shape suggests that they reflect a compound, as morpheme-internal _&ast;-ai-_ is not a usual part of the POc phonological template. An obvious candidate for the first morpheme is POc _&ast;pai(t)_ ‘do, make’, reconstructed above in [§7.2.1](ContributionTable?anchor=s-7-2-1#cldf:5-7). However, the MM forms bear an obvious resemblance to the set reflecting POc _&ast;paso(k)_, _&ast;pasok-i_ below, an expanded version of the set in [vol.1:132](ContributionTable?anchor=p-132#cldf:1-5). POc _&ast;paso(k)_ has a history as a unitary morpheme, and to account for PWOc _&ast;pai-sok_, folk etymologising must be assumed, whereby _&ast;paso(k)_ was reanalysed as _&ast;pa-(a)so(k)_, consisting of _&ast;pa-_, the POc causativiser, and the root POc _&ast;asok_ ‘plant in holes in the ground’ (ACD).[^1]: The prefix _&ast;pa-_ was then replaced by _&ast;pai-_.
 
 [PAn/PMP &ast;_pasek_](cognatesetreferences.csv#cldf:5-7-2-2-461-POc-pasok-a)
 
@@ -95,7 +95,7 @@ Hand and arm actions for which reconstructions are given in this section include
 
 POc speakers perhaps had two beckoning gestures. In one, the hand was extended palm down, in the other, hand up. In traditional Oceanic societies (and in SE Asia), the beckoning palm down is the polite gesture, whilst beckoning palm up, European-style, particularly with an extended forefinger, is considered rude. There are a few indications among the glosses of reflexes (Babatana, Longgu, Marshallese) that POc _&ast;qalo(p)_, _&ast;qalop-i-_ denoted beckoning with the palm down. However, it seems possible that it also had the generic meaning of waving or making hand gestures.
 
-Alongside POc _&ast;qalo(p)_ we also find _&ast;ta(Ra)-qalo(p)_ (VI) ‘beckon, wave’. The function of the prefixed element is not understood,[^2] and it is not clear how the prefixed and intransitive unprefixed forms differ in meaning.
+Alongside POc _&ast;qalo(p)_ we also find _&ast;ta(Ra)-qalo(p)_ (VI) ‘beckon, wave’. The function of the prefixed element is not understood,[^2]: and it is not clear how the prefixed and intransitive unprefixed forms differ in meaning.
 
 [PAn/PMP &ast;_qalep_](cognatesetreferences.csv#cldf:5-7-3-1-462-POc-qalop-a)
 
@@ -132,7 +132,7 @@ Reflexes of POc _&ast;iri(p)_, _&ast;irip-i-_ (V) ‘fan’ and its nominalisati
 
 <a id="p-465"></a>
 
-The final consonants of PMP _&ast;irid_ and POc _&ast;irip_ do not match, but the Oceanic evidence supports only _&ast;irip_.[^3]
+The final consonants of PMP _&ast;irid_ and POc _&ast;irip_ do not match, but the Oceanic evidence supports only _&ast;irip_.[^3]:
 
 There are no known WOc reflexes of _&ast;irip_, which seems to have been replaced by PWOc _&ast;tapi_ (V) ‘fan’, reconstructed below.
 
@@ -166,7 +166,7 @@ A good many Oceanic languages make a distinction between a verb meaning ‘take 
 
 Four verbs in the semantic domain ‘hold in the hand’ are reconstructed below. They are POc _&ast;qabi_ ‘take hold of, grasp’, POc _&ast;tau(r)_/_&ast;taur-i-_ ‘hold (in hand)’, POc _&ast;poso_ ‘hold’, POc _&ast;gogo(m)_/_&ast;gom-i_ ‘hold in the fist’. It is difficult to assign more precise meanings to them, but the meaning ‘hold in the fist’ for POc _&ast;gogo(m)_ is strengthened by that of non-Oceanic cognates.
 
-Blust (ACD) reconstructs POc _&ast;qabi_ and POc _&ast;abi_, both ‘take hold of, grasp’, and POc _&ast;abit_ ‘hold, get, take’, reflecting PMP _&ast;ambit_ ‘seize with the hands’. On the assumption that the cognate set below reflects a single POc form, the data attest POc _&ast;qabi(t)_, _&ast;qabit-i-_. Root-final _&ast;-t_ is attested in the Lenakel forms.[^4] This suggests that the PMP reconstruction should be _&ast;qambit_.
+Blust (ACD) reconstructs POc _&ast;qabi_ and POc _&ast;abi_, both ‘take hold of, grasp’, and POc _&ast;abit_ ‘hold, get, take’, reflecting PMP _&ast;ambit_ ‘seize with the hands’. On the assumption that the cognate set below reflects a single POc form, the data attest POc _&ast;qabi(t)_, _&ast;qabit-i-_. Root-final _&ast;-t_ is attested in the Lenakel forms.[^4]: This suggests that the PMP reconstruction should be _&ast;qambit_.
 
 [PMP &ast;_(q)ambit_](cognatesetreferences.csv#cldf:5-7-3-4-467-POc-qabit-a)
 

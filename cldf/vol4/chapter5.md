@@ -8,7 +8,7 @@
 ## 1. Introduction
 
 
-This chapter is concerned with the Proto Oceanic lexicon for three groups of vertebrates: mammals, reptiles and amphibians. Birds and fish each have a chapter to themselves.[^1]
+This chapter is concerned with the Proto Oceanic lexicon for three groups of vertebrates: mammals, reptiles and amphibians. Birds and fish each have a chapter to themselves.[^1]:
 
 Attempts to reconstruct POc names for land vertebrates face a number of difficulties. The most fundamental of these relate to discontinuities in the fauna that reflect long-established ocean gaps. Most mammal and reptile species, of course, live on land and cannot cross large ocean gaps. As a consequence cognate sets for certain animal taxa have highly restricted distributions. This is especially true of mammals.
 
@@ -51,7 +51,7 @@ Reptiles and amphibians are not subject to the same geographical division. Terms
 
 In the most generally accepted subgrouping of Austronesian languages, all the Austronesian languages of New Guinea fall into a lower order group, namely Eastern Malayo-Polynesian. It follows that for kinds of mammals found only in New Guinea we will not find a Proto Austronesian (PAn) or Proto Malayo-Polynesian (PMP) reconstruction.
 
-The mammals known to POc speakers may be divided into those indigenous to the Bismarck Archipelago[^2] and perhaps the north coast of New Guinea and those that humans brought to this region from island southeast Asia, namely the pig and dog and certain rat species.
+The mammals known to POc speakers may be divided into those indigenous to the Bismarck Archipelago[^2]: and perhaps the north coast of New Guinea and those that humans brought to this region from island southeast Asia, namely the pig and dog and certain rat species.
 
 
 <a id="s-2"></a>
@@ -365,7 +365,7 @@ Pigs, domesticated and wild, appear to have been part of the Austronesian world 
 
 <a id="p-238"></a>
 
-> Although PAn _&ast;beRek_ evidently meant ‘domesticated pig’ PAn _&ast;babuy_ referred to pigs in general, with qualifications where needed.[^4] In other words, the glosses of _&ast;babuy_ and _&ast;beRek_ were not perfectly complementary, but partially overlapping …. Reflexes of both _&ast;babuy_ and _&ast;beRek_ are found in Formosan and WMP, but only _&ast;babuy_ is reflected in CMP and only _&ast;beRek_ in Oceanic.
+> Although PAn _&ast;beRek_ evidently meant ‘domesticated pig’ PAn _&ast;babuy_ referred to pigs in general, with qualifications where needed.[^4]: In other words, the glosses of _&ast;babuy_ and _&ast;beRek_ were not perfectly complementary, but partially overlapping …. Reflexes of both _&ast;babuy_ and _&ast;beRek_ are found in Formosan and WMP, but only _&ast;babuy_ is reflected in CMP and only _&ast;beRek_ in Oceanic.
 
 The history of the introduction of pigs into Oceania has been a matter of debate. Pig bones occur in early Lapita sites from the Bismarck Archipelago to the Reef Is. in the period 3300-3100 BP. A recent genetic study supports the view that although Lapita pigs reached Melanesia via Indonesia they ultimately stem from Vietnam or nearby parts of mainland Southeast Asia, rather than from Taiwan (Larson et al. 2007), but domestic pig bones dated to 4000 BP have been found in cultural deposits in the Philippines ([Piper et al. 2009](Source#cldf:Piperetal2009)). Some archaeologists argue that the wild pigs of New Guinea are feral descendants of Lapita pigs. Others hold that pig teeth are present in New Guinea highland assemblages predating Lapita, although it has proved difficult to securely date these finds.
 
@@ -403,7 +403,7 @@ Dogs were brought by humans to Island Southeast Asia, Oceania and Australia from
 
 PAn and PMP _&ast;asu_ ‘dog’ is reflected in many languages of Taiwan, the Philippines, western Indonesia, the Lesser Sundas and much of the southern and central Moluccas, but to date is unattested in any Eastern Malayo-Polynesian language. As others ([Hudson 1989](Source#cldf:Hudson1989), [Lynch 1991](Source#cldf:Lynch1991), [Donohue 1995](Source#cldf:Donohue1995)) have discovered, names for ‘dog’ are notoriously variable in Oceanic languages. This variability is consonant with a hypothesis, first suggested by Andrew [Sharp](Source#cldf:Sharp1956) ([1956](Source#cldf:Sharp1956)), that on small remote islands in Oceania the dog lost much of the economic value it had in insular Southeast Asia, became a competitor for food, and was itself eaten to extinction in many locations and then reacquired from areas where it had managed to survive. [Lynch](Source#cldf:Lynch1991) ([1991](Source#cldf:Lynch1991):427) suggests that the Polynesians reintroduced the dog to various parts of Island Melanesia in their back-migrations from the Polynesian Triangle, with variants of Polynesian terms for ‘dog’ appearing in Vanuatu, the Reefs and parts of the Solomons. Various Micronesian languages also appear to have borrowed from Polynesia.
 
-It is unclear whether or not POc speakers had dogs. No dog remains have been found in early Western Lapita sites in the Bismarck archipelago. The earliest dog remains associated with the Oceanic dispersal are those found in late or post-Lapita assemblages in the Reef Is., dated to around 2600 BP (R. Green pers. comm.). No POc term for dog can be reconstructed with any confidence. A number of languages of Bougainville reflect a term reconstructable as _&ast;kasi_, but we hesitate to associate this term with PAn _&ast;asu_ because the initial _&ast;k-_ is unexplained.[^5]
+It is unclear whether or not POc speakers had dogs. No dog remains have been found in early Western Lapita sites in the Bismarck archipelago. The earliest dog remains associated with the Oceanic dispersal are those found in late or post-Lapita assemblages in the Reef Is., dated to around 2600 BP (R. Green pers. comm.). No POc term for dog can be reconstructed with any confidence. A number of languages of Bougainville reflect a term reconstructable as _&ast;kasi_, but we hesitate to associate this term with PAn _&ast;asu_ because the initial _&ast;k-_ is unexplained.[^5]:
 
 
 <a id="p-241"></a>
@@ -414,7 +414,7 @@ It is unclear whether or not POc speakers had dogs. No dog remains have been fou
 
 [PWOc &ast;_kapuna_](cognatesetreferences.csv#cldf:4-5-3-2-241-PWOc-kapuna-a)
 
-Compare also the following which point to a very similar form in PNNG _&ast;gavun_:[^6]
+Compare also the following which point to a very similar form in PNNG _&ast;gavun_:[^6]:
 
 [PNNG &ast;_gavun_](cognatesetreferences.csv#cldf:4-5-3-2-241-PNNG-gavun-a)
 
@@ -589,7 +589,7 @@ The archaeologist Simon Best has published a comprehensive review of the distrib
 
 
 
-POc _&ast;puqaya_ ‘crocodile’ continues PMP _&ast;buqaya_ and, probably, PAn _&ast;buqaya_.[^10] Reflexes of _&ast;puqaya_ are found widely in languages of the Bismarck Archipelago, New Guinea and the main Solomons group, i.e. where crocodiles are common, and are also present in a few languages of Vanuatu. No reflexes have been recorded in Micronesian or Central Pacific languages.
+POc _&ast;puqaya_ ‘crocodile’ continues PMP _&ast;buqaya_ and, probably, PAn _&ast;buqaya_.[^10]: Reflexes of _&ast;puqaya_ are found widely in languages of the Bismarck Archipelago, New Guinea and the main Solomons group, i.e. where crocodiles are common, and are also present in a few languages of Vanuatu. No reflexes have been recorded in Micronesian or Central Pacific languages.
 
 [PAn &ast;_buqaya_](cognatesetreferences.csv#cldf:4-5-5-2-252-POc-puqaya-a)
 

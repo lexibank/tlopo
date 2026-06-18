@@ -1,164 +1,4 @@
 ID,Name,Description,Media_Type,Download_URL,Path_In_Zip,Chapter_ID,Conforms_To
-map-1-1,Volume 1 map_1,__Map 1:__ The Austronesian phylum and major language groups,image/png,vol1/map_1.png,,,
-map-1-2,Volume 1 map_2,"__Map 2:__ Geographic limits of historically known Oceanic speakers and of presently documented Lapita sites (after Kirch_1997: 17, 54)",image/png,vol1/map_2.png,,,
-fig-1-1,Volume 1 fig_1,__Figure 1:__ Schematic diagram of the diversification of Austronesian languages (see the text with regard to its interpretation) Note: Italics are used to indicate a group of languages or a language which have no exclusively shared common ancestor. Thus _Formosan languages_ indicates a collection of languages descended (along with Proto Malayo-Polynesian) from Proto Austronesian. It is assumed that there was no 'Proto Formosan'.,image/png,vol1/fig_1.png,,,
-map-1-3,Volume 1 map_3,__Map 3:__ Higher-order subgroups of Oceanic languages used in this work for the purposes of reconstruction,image/png,vol1/map_3.png,,,
-map-1-4,Volume 1 map_4,__Map 4:__ Groups of Oceanic languages in north-west Melanesia: the Admiralties and St Matthias groups and the subgroups of Western Oceanic,image/png,vol1/map_4.png,,,
-1-1-text,Volume 1 Chapter 1,Chapter text formatted as CLDF Markdown document,text/markdown,vol1/chapter1.md,,,CLDF Markdown
-1-2-text,Volume 1 Chapter 2,Chapter text formatted as CLDF Markdown document,text/markdown,vol1/chapter2.md,,,CLDF Markdown
-map-1-5,Volume 1 map_5,__Map 5:__ Lapita sites in the south-west Pacific (after Spriggs_1995: 113),image/png,vol1/map_5.png,,,
-fig-1-2,Volume 1 fig_2,"__Figure 2:__ Typical Baegu (Malaita, Solomon Islands) dwelling and community layout (from Oliver_1989:335) (Baegu terms are _luma_ 'dwelling house, _lalo_ 'women's sleeping quarters', _beu_ 'men's house', _bisi_ 'menstrual hut')",image/png,vol1/fig_2.png,,,
-fig-1-3a,Volume 1 fig_3a,"__Figure 3a:__ POc _&ast;Rumaq_ 'house'  POc _&ast;qatop_ 'thatch, roof', POc _&ast;kataman_ 'doorway', POc _&ast;tete_ 'ladder or log bridge', POc _&ast;gabʷari_ 'area underneath house'",image/png,vol1/fig_3a.png,,,
-fig-1-3b,Volume 1 fig_3b,"__Figure 3b:__ POc _&ast;Rumaq_ 'house', POc _&ast;pupuŋ-an_ 'ridgepole', POc _&ast;kaso_ 'rafter', POc _&ast;aRiRi_ 'post', POc _&ast;turu(s)_ 'post', POc _&ast;bou_ 'main bearers supporting raised floor/roof or centre post supporting ridgepole, POc _&ast;soko(r)_ 'bracing timber, crossbeam'",image/png,vol1/fig_3b.png,,,
-1-3-text,Volume 1 Chapter 3,Chapter text formatted as CLDF Markdown document,text/markdown,vol1/chapter3.md,,,CLDF Markdown
-fig-1-4,Volume 1 fig_4,"__Figure 4:__ Typical pot shapes (from Ross_1996c) (a) cooking pot: POc _&ast;kuran_, POc _&ast;bʷafja_ (b) water jar: POc _&ast;kalala(ŋ)_, PNGOc _&ast;bʷad(r)i_ (c) bowl: PPT _&ast;na(q)u(q)_ (d) frying pan: POc _&ast;palafja_",image/png,vol1/fig_4.png,,,
-fig-1-5,Volume 1 fig_5,__Figure 5:__ POc _&ast;tabiRa_ 'wooden bowl',image/png,vol1/fig_5.png,,,
-fig-1-6,Volume 1 fig_6,"__Figure 6:__ POc _&ast;(b,bʷ)ilo_ 'coconut shell used as liquid container', POc _&ast;lasa_, POc _&ast;ubi_/_&ast;ibu_ 'coconut half shell-cup' __Figure 7__: POc _&ast;kulopi_ 'cup, ladle' (from Nevermann_1934: 179)",image/png,vol1/fig_6.png,,,
-fig-1-8,Volume 1 fig_8,__Figure 8:__ POc _&ast;d(r)amut_ 'lime spatula',image/png,vol1/fig_8.png,,,
-fig-1-9,Volume 1 fig_9,"__Figure 9:__ Reconstructions (non-specific) include: POc _&ast;katu(m,ŋ)_ 'basket', POc _&ast;laka_ 'basket ', POc _&ast;tab(w)e_ 'basket, probably small', POc _&ast;taŋa_ 'basket or bag, small, used for personal effects' (after Koch_1986: 104 and n.d.:59)",image/png,vol1/fig_9.png,,,
-fig-1-10,Volume 1 fig_10,"__Figure 10:__ POc _&ast;kiRam_ 'stone adze, axe', POc _&ast;matau_ 'axe', POc _&ast;taku_, POc _&ast;taRa(q)_ 'adze'",image/png,vol1/fig_10.png,,,
-fig-1-11,Volume 1 fig_11,"__Figure 11:__ POc _&ast;nad(r)i_ 'flint, obsidian, stone with a cutting edge'; POc _&ast;koto_ 'obsidian knife or blade'",image/png,vol1/fig_11.png,,,
-fig-1-12,Volume 1 fig_12,__Figure 12:__ POc _&ast;ike_ 'tapa beater',image/png,vol1/fig_12.png,,,
-fig-1-13,Volume 1 fig_13,__Figure 13:__ POc _&ast;bara_ 'plaited cane armlet' (from Nevermann_1934: 151),image/png,vol1/fig_13.png,,,
-fig-1-14,Volume 1 fig_14,__Figure 14:__ POc _&ast;saRu_ 'comb',image/png,vol1/fig_14.png,,,
-fig-1-15,Volume 1 fig_15,__Figure 15:__ POc _&ast;tapuRi(q)_ 'triton shell trumpet' (from Nevermann_1933:218) POc _&ast;kauR_ 'bamboo wind instrument',image/png,vol1/fig_15.png,,,
-fig-1-16,Volume 1 fig_16,__Figure 16:__ POc _&ast;kude_ 'hourglass drum',image/png,vol1/fig_16.png,,,
-fig-1-17,Volume 1 fig_17,__Figure 17:__ POc _&ast;salap_ 'broom',image/png,vol1/fig_17.png,,,
-fig-1-18,Volume 1 fig_18,__Figure 18:__ POc _&ast;quluŋ-an_ 'wooden headrest' (from Nevermann_1934:271),image/png,vol1/fig_18.png,,,
-1-4-text,Volume 1 Chapter 4,Chapter text formatted as CLDF Markdown document,text/markdown,vol1/chapter4.md,,,CLDF Markdown
-1-5-text,Volume 1 Chapter 5,Chapter text formatted as CLDF Markdown document,text/markdown,vol1/chapter5.md,,,CLDF Markdown
-fig-1-19,Volume 1 fig_19,"__Figure 19:__ POc _&ast;suka_, _&ast;suka-i_ 'make fire with fire-plough'",image/png,vol1/fig_19.png,,,
-fig-1-20,Volume 1 fig_20,__Figure 20:__ POc _&ast;sulu_ 'dry coconut leaf torch',image/png,vol1/fig_20.png,,,
-fig-1-21,Volume 1 fig_21,__Figure 21:__ POc _&ast;kapit_ 'tongs' (from Nevermann_1933: 102),image/png,vol1/fig_21.png,,,
-fig-1-22,Volume 1 fig_22,__Figure 22:__ taro stamper (no reconstruction) (from Nevermann_1934: 192) PWOc _&ast;walu_ 'sago beater' (from Nevermann_1934: 174),image/png,vol1/fig_22.png,,,
-fig-1-23,Volume 1 fig_23,"__Figure 23:__ POc _&ast;kaRi_, POc _&ast;koRi_ 'bivalve used as food scraper'",image/png,vol1/fig_23.png,,,
-1-6-text,Volume 1 Chapter 6,Chapter text formatted as CLDF Markdown document,text/markdown,vol1/chapter6.md,,,CLDF Markdown
-fig-1-24,Volume 1 fig_24,"__Figure 24:__ POc _&ast;waga_ 'canoe' (after Koch_n.d.: 147), POc _&ast;kati(R)_ '(small) outrigger canoe or canoe hull',  POc _&ast;(q)oRa_ 'topstrake', POc _&ast;soka(r)_ 'thwart',  POc _&ast;muri-_ 'stern ',  POc _&ast;muqa-_ 'front, bow', POc _&ast;patar_ 'platform, decking', POc _&ast;saman_ 'outrigger float',  POc _&ast;kiajo_ 'outrigger boom', POc _&ast;patoto_ 'connective sticks attaching float'",image/png,vol1/fig_24.png,,,
-fig-1-25,Volume 1 fig_25,"__Figure 25:__ POc _&ast;(i,u)cuŋ_ 'projecting headboard of prow' (from Nevermann_1934:285)",image/png,vol1/fig_25.png,,,
-fig-1-26,Volume 1 fig_26,"__Figure 26:__ POc _&ast;lima(s)_ or _&ast;nima(s)_, POc _&ast;asu_ 'bailer'",image/png,vol1/fig_26.png,,,
-1-7-text,Volume 1 Chapter 7,Chapter text formatted as CLDF Markdown document,text/markdown,vol1/chapter7.md,,,CLDF Markdown
-fig-1-27a,Volume 1 fig_27a,"__Figure 27a:__ POc _&ast;ku(p,pʷ)ena_ 'fishing net'—generic term. (from Nevermann_1933:89)",image/png,vol1/fig_27a.png,,,
-fig-1-27b,Volume 1 fig_27b,"__Figure 27b:__ Possibly POc _&ast;pukot_ 'a seine net', with wooden floats (POc _&ast;utoŋ_) and stone sinkers (POc _&ast;patu_) (from Nevermann_1933:89)",image/png,vol1/fig_27b.png,,,
-fig-1-27c,Volume 1 fig_27c,"__Figure 27c:__ Another kind of _&ast;ku(p,pʷ)ena_. We lack a specific reconstruction for a handnet. (from Nevermann_1933:89)",image/png,vol1/fig_27c.png,,,
-fig-1-28,Volume 1 fig_28,__Figure 28:__ POc &ast;sika 'netting needle',image/png,vol1/fig_28.png,,,
-fig-1-29,Volume 1 fig_29,"__Figure 29:__ POc _&ast;kawil_ 'fish hook ', POc _&ast;ta(g,k)o_ '(barbless?) fish hook'. On the left is a coconut shell fish hook; on the right is a wooden two-piece fish hook",image/png,vol1/fig_29.png,,,
-fig-1-30,Volume 1 fig_30,"__Figure 30:__ POc _&ast;bayan_ 'trolling lure, trolling hook'",image/png,vol1/fig_30.png,,,
-fig-1-31,Volume 1 fig_31,__Figure 31:__ POc _&ast;pupu_ 'basketry fish trap' (from Nevermann_1934:226),image/png,vol1/fig_31.png,,,
-fig-1-32,Volume 1 fig_32,"__Figure 32:__ POc _&ast;qio(r,R)_, POc _&ast;sao(t)_, POc _&ast;bako_ all 'spear' or 'k.o. spear' (the above are Admiralties spears from Nevermann_1934:345)",image/png,vol1/fig_32.png,,,
-fig-1-33,Volume 1 fig_33,"__Figure 33:__ POc _&ast;kuj(u,i)r_, POc _&ast;tara_ 'fish spear'",image/png,vol1/fig_33.png,,,
-1-8-text,Volume 1 Chapter 8,Chapter text formatted as CLDF Markdown document,text/markdown,vol1/chapter8.md,,,CLDF Markdown
-1-9-text,Volume 1 Chapter 9,Chapter text formatted as CLDF Markdown document,text/markdown,vol1/chapter9.md,,,CLDF Markdown
-map-2-1,Volume 2 map_1,__Map 1:__ The Austronesian phylum and major language groups,image/png,vol2/map_1.png,,,
-map-2-2,Volume 2 map_2,"__Map 2:__ Geographic limits of historically known Oceanic speakers and of presently documented Lapita sites (after Kirch_1997: 17, 54)",image/png,vol2/map_2.png,,,
-fig-2-1,Volume 2 fig_1,__Figure 1:__ Schematic diagram of the diversification of Austronesian languages (see the text with regard to its interpretation) Note: Italics are used to indicate a group of languages or a language which have noexclusively shared common ancestor. Thus Formosan languages indicates a collection of languages descended (along with Proto Malayo-Polynesian) from Proto Austronesian. It is assumed that there was no ‘Proto Formosan’.,image/png,vol2/fig_1.png,,,
-map-2-3,Volume 2 map_3,__Map 3:__ Higher-order supgroups of Oceanic languages used in this work for the purposes of reconstruction.,image/png,vol2/map_3.png,,,
-map-2-4,Volume 2 map_4,__Map 4:__ Groups of Oceanic languages in north-west Melanesia: the Admiralties and St Matthias groups and the subgroups of Western Oceanic,image/png,vol2/map_4.png,,,
-2-1-text,Volume 2 Chapter 1,Chapter text formatted as CLDF Markdown document,text/markdown,vol2/chapter1.md,,,CLDF Markdown
-map-2-5,Volume 2 map_5,"__Map 5:__ Major biogeographic regions of Island SE Asia and the Pacific: Sundaland, Wallacea, Near Oceania and Remote Oceania",image/png,vol2/map_5.png,,,
-map-2-7,Volume 2 map_7,"__Map 7:__ The Bismarck Archipelago, Bougainville and the adjacent coast of New Guinea",image/png,vol2/map_7.png,,,
-2-2-text,Volume 2 Chapter 2,Chapter text formatted as CLDF Markdown document,text/markdown,vol2/chapter2.md,,,CLDF Markdown
-fig-2-2,Volume 2 fig_2,__Figure 2:__ Marovo coastal profile (reproduced from Hviding_1996:138 with the permission of the University of Hawai’i Press),image/png,vol2/fig_2.png,,,
-map-2-8,Volume 2 map_8,__Map 8:__ Tikopia (after Firth_1936:xxii),image/png,vol2/map_8.png,,,
-map-2-9,Volume 2 map_9,__Map 9:__ Active volcanoes and earthquake areas in the south-west Pacific (after Brookfield and Hart_1971: 33),image/png,vol2/map_9.png,,,
-2-3-text,Volume 2 Chapter 3,Chapter text formatted as CLDF Markdown document,text/markdown,vol2/chapter3.md,,,CLDF Markdown
-fig-2-3,Volume 2 fig_3,__Figure 3:__ Reef forms,image/png,vol2/fig_3.png,,,
-2-4-text,Volume 2 Chapter 4,Chapter text formatted as CLDF Markdown document,text/markdown,vol2/chapter4.md,,,CLDF Markdown
-map-2-10,Volume 2 map_10,__Map 10:__ Prevailing winds in the Indian and Pacific Oceans during the southern hemisphere winter (July),image/png,vol2/map_10.png,,,
-map-2-11,Volume 2 map_11,__Map 11:__ Prevailing winds in the Indian and Pacific Oceans during the southern hemisphere summer (January),image/png,vol2/map_11.png,,,
-2-5-text,Volume 2 Chapter 5,Chapter text formatted as CLDF Markdown document,text/markdown,vol2/chapter5.md,,,CLDF Markdown
-2-6-text,Volume 2 Chapter 6,Chapter text formatted as CLDF Markdown document,text/markdown,vol2/chapter6.md,,,CLDF Markdown
-2-7-text,Volume 2 Chapter 7,Chapter text formatted as CLDF Markdown document,text/markdown,vol2/chapter7.md,,,CLDF Markdown
-2-8-text,Volume 2 Chapter 8,Chapter text formatted as CLDF Markdown document,text/markdown,vol2/chapter8.md,,,CLDF Markdown
-2-9-text,Volume 2 Chapter 9,Chapter text formatted as CLDF Markdown document,text/markdown,vol2/chapter9.md,,,CLDF Markdown
-map-3-1,Volume 3 map_1,__Map 1:__ The Austronesian phylum and major language groups,image/png,vol3/map_1.png,,,
-fig-3-1_1,Volume 3 fig_1.1,__Figure 1.1:__ Schematic diagram showing higher-order subgroups of Austronesian languages.,image/png,vol3/fig_1.1.png,,,
-fig-3-1_2,Volume 3 fig_1.2,__Figure 1.2:__ Schematic diagram showing the subgrouping of Oceanic Austronesian languages.,image/png,vol3/fig_1.2.png,,,
-map-3-3,Volume 3 map_3,__Map 3:__ Groups of Oceanic languages used in cognate sets,image/png,vol3/map_3.png,,,
-map-3-4,Volume 3 map_4,__Map 4:__ Oceanic language groups in northwest Melanesia: the Admiralties and St Matthias groups and the subgroups of Western Oceanic,image/png,vol3/map_4.png,,,
-3-1-text,Volume 3 Chapter 1,Chapter text formatted as CLDF Markdown document,text/markdown,vol3/chapter1.md,,,CLDF Markdown
-3-2-text,Volume 3 Chapter 2,Chapter text formatted as CLDF Markdown document,text/markdown,vol3/chapter2.md,,,CLDF Markdown
-fig-3-3_1,Volume 3 fig_3.1,"__Figure 3.1:__ The hierarchical structure of ethnobiological classifications, exemplified by Wayan Fijian",image/png,vol3/fig_3.1.png,,,
-fig-3-3_2,Volume 3 fig_3.2,__Figure 3.2:__ A partial ethnobotanical taxonomy of Wayan Fijian,image/png,vol3/fig_3.2.png,,,
-fig-3-3_3,Volume 3 fig_3.3,"__Figure 3.3:__ A partial plant taxonomy of Wayan Fijian, showing taxonomic depth of some cultivated food plants",image/png,vol3/fig_3.3.png,,,
-fig-3-3_4,Volume 3 fig_3.4,__Figure 3.4:__ A partial classification of foods in Wayan Fijian,image/png,vol3/fig_3.4.png,,,
-fig-3-3_5,Volume 3 fig_3.5,__Figure 3.5:__ A partial ethnobotanical taxonomy of Kwara'ae,image/png,vol3/fig_3.5.png,,,
-fig-3-3_6,Volume 3 fig_3.6,__Figure 3.6:__ Arosi ethnobotanical classification,image/png,vol3/fig_3.6.png,,,
-fig-3-3_7,Volume 3 fig_3.7,__Figure 3.7:__ Partial Proto Oceanic ethnobotanical classification,image/png,vol3/fig_3.7.png,,,
-3-3-text,Volume 3 Chapter 3,Chapter text formatted as CLDF Markdown document,text/markdown,vol3/chapter3.md,,,CLDF Markdown
-3-4-text,Volume 3 Chapter 4,Chapter text formatted as CLDF Markdown document,text/markdown,vol3/chapter4.md,,,CLDF Markdown
-fig-3-5_1,Volume 3 fig_5.1,"__Figure 5.1:__ __Left__ _Ipomoea pes-caprae_, morning glory. __Right__ _Wedelia biflora_.",image/png,vol3/fig_5.1.png,,,
-fig-3-5_2,Volume 3 fig_5.2,"__Figure 5.2:__ __Left__ _Cordia subcordata_, kerosene wood: __A__, tree; __B__, small branch with flowers and leaves; __C__, fruit cluster __Right__ _Hibiscus tiliaceus_, cotton wood: __D__, leaf; __E__, shoot with flower; __F__, matured over-ripe fruit cluster.",image/png,vol3/fig_5.2.png,,,
-fig-3-5_3,Volume 3 fig_5.3,"__Figure 5.3:__ _Hernandia nymphaeifolia_, sea hearse tree",image/png,vol3/fig_5.3.png,,,
-fig-3-5_4,Volume 3 fig_5.4,__Figure 5.4:__ __Left__ Pemphis-acidula. __Middle__ _Scaevola taccada_. __Right__ _Thespesia populnea_.,image/png,vol3/fig_5.4.png,,,
-fig-3-5_5,Volume 3 fig_5.5,__Figure 5.5:__ _Tournefortia argentea_.,image/png,vol3/fig_5.5.png,,,
-fig-3-5_6,Volume 3 fig_5.6,__Figure 5.6:__ _Vitex trifolia_.,image/png,vol3/fig_5.6.png,,,
-fig-3-5_7,Volume 3 fig_5.7,"__Figure 5.7:__ _Flagellaria indica_: __A__, climbing plant; __B__, leaf with tendrils; __C__; shoot with fruit; __D__, flowers.",image/png,vol3/fig_5.7.png,,,
-fig-3-5_8,Volume 3 fig_5.8,__Figure 5.8:__ _Barringtonia asiatica_.,image/png,vol3/fig_5.8.png,,,
-fig-3-5_9,Volume 3 fig_5.9,"__Figure 5.9:__ _Calophyllum inophyllum_: __A__, mature tree; __B__, flowering shoot; __C__, fruit cluster.",image/png,vol3/fig_5.9.png,,,
-fig-3-5_10,Volume 3 fig_5.10,__Figure 5.10:__ _Casuarina equisetifolia_.,image/png,vol3/fig_5.10.png,,,
-fig-3-5_11,Volume 3 fig_5.11,"__Figure 5.11:__ __Left__ _Erythrina variegata_, Indian coral tree. __Right__ _Fagraea berteroana_.",image/png,vol3/fig_5.11.png,,,
-fig-3-5_12,Volume 3 fig_5.12,__Figure 5.12:__ _Flueggea flexuosa_: tree and fruit-bearing shoot.,image/png,vol3/fig_5.12.png,,,
-fig-3-5_13,Volume 3 fig_5.13,__Figure 5.13:__ _Guettarda speciosa_ .,image/png,vol3/fig_5.13.png,,,
-fig-3-5_14,Volume 3 fig_5.14,"__Figure 5.14:__ __Left__ _Pisonia grandis_: __A__, tree; __B__, shoot; __C__, flowering shoot with small leaves. Right _Premna corymbosa_: __A__, tree; __B__, flowering shoot with leaves .",image/png,vol3/fig_5.14.png,,,
-fig-3-5_15,Volume 3 fig_5.15,__Figure 5.15:__ _Pongamia pinnata_.,image/png,vol3/fig_5.15.png,,,
-3-5-text,Volume 3 Chapter 5,Chapter text formatted as CLDF Markdown document,text/markdown,vol3/chapter5.md,,,CLDF Markdown
-fig-3-6_1,Volume 3 fig_6.1,"__Figure 6.1:__ _Rhizophora apiculata_, the tall-stilted mangrove, prop-root mangrove: __A__, stilt roots and trunk; __B__, flower; __C__, leaves, fruit and hypocotyl (viviparous seedling).",image/png,vol3/fig_6.1.png,,,
-fig-3-6_2,Volume 3 fig_6.2,"__Figure 6.2:__ _Bruguiera gymnorrhiza_, orange mangrove: __A__, tree; __B__, shoot bearing edible fruit.",image/png,vol3/fig_6.2.png,,,
-fig-3-6_3,Volume 3 fig_6.3,"__Figure 6.3:__ _Cerbera_ odollam: bottom left, longitudinal section of fruit.",image/png,vol3/fig_6.3.png,,,
-fig-3-6_4,Volume 3 fig_6.4,"__Figure 6.4:__ _Excoecaria agallocha_, milky mangrove.",image/png,vol3/fig_6.4.png,,,
-fig-3-6_5,Volume 3 fig_6.5,__Figure 6.5:__ _Heritiera littoralis_,image/png,vol3/fig_6.5.png,,,
-fig-3-6_6,Volume 3 fig_6.6,"__Figure 6.6:__ _Xylocarpus granatum_, puzzlenut tree: leaves flowers and fruit.",image/png,vol3/fig_6.6.png,,,
-3-6-text,Volume 3 Chapter 6,Chapter text formatted as CLDF Markdown document,text/markdown,vol3/chapter6.md,,,CLDF Markdown
-fig-3-7_1,Volume 3 fig_7.1,__Figure 7.1:__ _Falcataria moluccana_.,image/png,vol3/fig_7.1.png,,,
-fig-3-7_2,Volume 3 fig_7.2,__Figure 7.2:__ _Octomeles sumatrana_.,image/png,vol3/fig_7.2.png,,,
-fig-3-7_3,Volume 3 fig_7.3,"__Figure 7.3:__ _Dracontomelon dao_, New Guinea Walnut.",image/png,vol3/fig_7.3.png,,,
-fig-3-7_4,Volume 3 fig_7.4,__Figure 7.4:__ _Dysoxylum arborescens_.,image/png,vol3/fig_7.4.png,,,
-fig-3-7_5,Volume 3 fig_7.5,"__Figure 7.5:__ __Left__ _Endospermum medullosum_, cheesewood,: __A__, tree; __B__, leaves and flowers; __C__, fruit. __Right__ _Pterocarpus indicus_, New Guinea rosewood: __A__, tree; __B__, portion ofleafwith leaflets; __C__, shoot with pods.",image/png,vol3/fig_7.5.png,,,
-fig-3-7_6,Volume 3 fig_7.6,"__Figure 7.6:__ __Left__ _Intsia bijuga_, ironwood: __A__: young tree; __B__, leaves and flowers; __C__, seed pod. Right _Vitex cofassus_, New Guinea teak: __A__, tree; __B__, flowering stem with leaves and portion of terminal inflorescence; __C__, portion of fruiting inflorescence and stem.",image/png,vol3/fig_7.6.png,,,
-fig-3-7_7,Volume 3 fig_7.7,"__Figure 7.7:__ __Left__ _Bischofia javanica_, Java cedar: __A__, tree; __B__, compound leaf; __C__, branch bearing cluster of fruit. __Right__ _Cananga odorata_, ylang-ylang: __A__, tree; __B__, leaves; __C__, flowering shoot; __D__, fruit cluster.",image/png,vol3/fig_7.7.png,,,
-fig-3-7_8,Volume 3 fig_7.8,__Figure 7.8:__ _Cryptocarya aromatica_.,image/png,vol3/fig_7.8.png,,,
-fig-3-7_9,Volume 3 fig_7.9,"__Figure 7.9:__ _Kleinhovia hospita_: __A__, tree; __B__, shoot with a mature and an old inflorescence; __C__, leaf.",image/png,vol3/fig_7.9.png,,,
-fig-3-7_10,Volume 3 fig_7.10,"__Figure 7.10:__ __Left__ _Parinari_ glaberrima: __A__, tree; __B__, shoot bearing one mature and one old inflores- cence; __C__ and __D__, nut. __Right__ _Caryota rumphiana_: __A__, tree; __B__, leaflet; __C__, portion of inflorescence; __D__, fruiting inflorescence; __E__, fruit; __F__, larvae of Rhynocaphorus beetle in a rotting trunk.",image/png,vol3/fig_7.10.png,,,
-fig-3-7_11,Volume 3 fig_7.11,"__Figure 7.11:__ __Left__ _Hornstedtia lycostoma_: __A__, plant, about 3 m high, with suckers and inflorescences; __B__, inflorescences; __C__, longitudinal section oflarge fruit. __Right__ _Calamus hollrungii_, rattan: __A__, leaf base and spikes; __B__, inflorescence; __C__, fruit; __D__, portion of leaf tip with barbs.",image/png,vol3/fig_7.11.png,,,
-3-7-text,Volume 3 Chapter 7,Chapter text formatted as CLDF Markdown document,text/markdown,vol3/chapter7.md,,,CLDF Markdown
-fig-3-8_1,Volume 3 fig_8.1,"__Figure 8.1:__ _Commersonia bartramia_: __A__, tree; __B__, leaf: __C__, stem bearing leaves and flowering shoot; __D__, ageing mature fruit.",image/png,vol3/fig_8.1.png,,,
-fig-3-8_2,Volume 3 fig_8.2,__Figure 8.2:__ _Macaranga_ tanarius.,image/png,vol3/fig_8.2.png,,,
-fig-3-8_3,Volume 3 fig_8.3,"__Figure 8.3:__ _Rhus taitensis_: __A__, tree; __B__, stem bearing leaves; __C__, branch bearing fruit.",image/png,vol3/fig_8.3.png,,,
-fig-3-8_4,Volume 3 fig_8.4,__Figure 8.4:__ _Trichospermum richii_.,image/png,vol3/fig_8.4.png,,,
-fig-3-8_5,Volume 3 fig_8.5,"__Figure 8.5:__ __Left__ _Paspalum conjugatum_. Middle _Imperata cylindrica_, sword grass. __Right__ Coix lacryma-jobi, Job's tears.",image/png,vol3/fig_8.5.png,,,
-3-8-text,Volume 3 Chapter 8,Chapter text formatted as CLDF Markdown document,text/markdown,vol3/chapter8.md,,,CLDF Markdown
-fig-3-9_1,Volume 3 fig_9.1,__Figure 9.1:__ Growth habit of three yam (_Dioscorea_) species,image/png,vol3/fig_9.1.png,,,
-fig-3-9_2,Volume 3 fig_9.2,__Figure 9.2:__ Yam (_Dioscorea alata_) tuber shapes,image/png,vol3/fig_9.2.png,,,
-fig-3-9_3,Volume 3 fig_9.3,__Figure 9.3:__ Taro (Araceae) genera and Amorphophallus: growth habit,image/png,vol3/fig_9.3.png,,,
-fig-3-9_4,Volume 3 fig_9.4,__Figure 9.4:__ Tuber and plant parts of _Pueraria lobata_,image/png,vol3/fig_9.4.png,,,
-fig-3-9_5,Volume 3 fig_9.5,__Figure 9.5:__ Traditional (diploid) banana plant,image/png,vol3/fig_9.5.png,,,
-fig-3-9_6,Volume 3 fig_9.6,"__Figure 9.6:__ Fruit, leaves and sections of breadfruit, _Artocarpus altilis_",image/png,vol3/fig_9.6.png,,,
-fig-3-9_7,Volume 3 fig_9.7,__Figure 9.7:__ Extracting the starch from a sago trunk,image/png,vol3/fig_9.7.png,,,
-fig-3-9_8,Volume 3 fig_9.8,"__Figure 9.8:__ _Cycas rumphii_: __A__, plant with fronds removed to show fruit; __B__, apex of leaf wiili leaflets; __C__, fruit; __D__, single fruit, longitudinal section.",image/png,vol3/fig_9.8.png,,,
-3-9-text,Volume 3 Chapter 9,Chapter text formatted as CLDF Markdown document,text/markdown,vol3/chapter9.md,,,CLDF Markdown
-fig-3-10_1,Volume 3 fig_10.1,"__Figure 10.1:__ _Abelmoschus manihot_: __A__, plant (height 1.5 m); __B__, stem with leaf (edible) and flower bud; __C__, flower; __D__, varieties displayed to show the diversity in leaf shape.",image/png,vol3/fig_10.1.png,,,
-fig-3-10_2,Volume 3 fig_10.2,"__Figure 10.2:__ Aramanthus tricolor, Chinese spinach",image/png,vol3/fig_10.2.png,,,
-fig-3-10_3,Volume 3 fig_10.3,"__Figure 10.3:__ _Gnetum gnemon_: __A__, tree; __B__, fruiting branch with edible young leaves and fruit; __C__, mature edible fruit; __D__, flowering branch with edible flower.",image/png,vol3/fig_10.3.png,,,
-fig-3-10_4,Volume 3 fig_10.4,"__Figure 10.4:__ _Polyscias_ species: __A__, _Polyscias scutellaria_, young shoot with small portion of inflorescence; __B__, terminal portion of inflorescence; __C__, _Polyscias verticillata_: flowering shoot and leaf; __D__, _Polyscias fruticosa_: leaflet; __E__ and __F__, leaflets of two other _Polyscias_ species.",image/png,vol3/fig_10.4.png,,,
-fig-3-10_5,Volume 3 fig_10.5,"__Figure 10.5:__ _Saccharum edule_: __A__, stand of plants; __B__, swollen tips ready for market (ca 50cm long); __C__, stem with suckers; __D__, semi-mature edible inflorescence.",image/png,vol3/fig_10.5.png,,,
-fig-3-10_6,Volume 3 fig_10.6,"__Figure 10.6:__ __Left__ _Ficus copiosa_: __A__, tree; __B__, shoot with leaves; __C__, leaf; __D__, figs on trunk. __Right__ _Ficus_ wassa: __A__, tree; __B__, shoot showing leaf arrangement and figs on stem; __C__, young shoot with edible leaves; __D__, fruit on lower branch.",image/png,vol3/fig_10.6.png,,,
-3-10-text,Volume 3 Chapter 10,Chapter text formatted as CLDF Markdown document,text/markdown,vol3/chapter10.md,,,CLDF Markdown
-fig-3-11_1,Volume 3 fig_11.1,"__Figure 11.1:__ __Left__ _Canarium indicum_: __A__, tree; __B__, portion of leaf showing terminal four leaflets; __C__, portion of branch showing large stipules (leaflike appendages at base of leaf stalk); __D__, immature inflorescence; __E__, cluster of fruit.; __F__, opened pericarp (exocarp + mesocarp + endocarp); __G__, opened shell/endocarp; __H__, edible kernel. __Right__ Parts of the _Canarium indicum_ fruit",image/png,vol3/fig_11.1.png,,,
-fig-3-11_2,Volume 3 fig_11.2,"__Figure 11.2:__ _Inocarpus fagifer_, Tahitian chestnut: __A__, tree; __B__, portion of branch bearing fruit; __C__, inflorescence.",image/png,vol3/fig_11.2.png,,,
-fig-3-11_5,Volume 3 fig_11.5,"__Figure 11.5:__ __Left__ _Pandanus tectorius_: __A__, tree at its tallest; __B__, young plant when leaves harvested; __C__, end portion of leaf (no thorns); __D__, portion of surface of syncarp; __E__, longitudinal section of fruit segment. __Right__ _Pandanus dubius_: __F__, tree, height 3m; __G__, syncarp from above; __H__, longitudinal section of fruit segment with edible kernel; __J__, leaf tip showing curved spike.",image/png,vol3/fig_11.5.png,,,
-fig-3-11_6,Volume 3 fig_11.6,"__Figure 11.6:__ _Pandanus conoideus_, marita: __A__, syncarp.",image/png,vol3/fig_11.6.png,,,
-fig-3-11_7,Volume 3 fig_11.7,__Figure 11.7:__ _Pangium edule_,image/png,vol3/fig_11.7.png,,,
-fig-3-11_8,Volume 3 fig_11.8,"__Figure 11.8:__ _Burckella obovata_: __A__, tree; __B__, flowering shoot; __C__, shoot bearing fruit; __D__, old seed.",image/png,vol3/fig_11.8.png,,,
-fig-3-11_9,Volume 3 fig_11.9,"__Figure 11.9:__ __Left__ _Pometia pinnata_, island lychee: __A__, young tree; __B__, shoot and edible fruit; __C__, inflorescence. __Right__ _Spondias cytherea_, golden apple: __D__, young tree; __E__, shoot with leaves, leaflets and a cluster of edible fruit.",image/png,vol3/fig_11.9.png,,,
-fig-3-11_10,Volume 3 fig_11.10,"__Figure 11.10:__ _Syzygium malaccense_: __A__, tree; __B__, shoot; __C__, branch with opened and unopened flowers; __D__, edible fruit.",image/png,vol3/fig_11.10.png,,,
-fig-3-11_11,Volume 3 fig_11.11,"__Figure 11.11:__ __Left__ _Parartocarpus venenosa_: __A__, young tree; __B__, branch bearing shoot, male flower and edible fruit; __C__, seed. __Right__ _Finschia chloroxantha_: __D__, tree with stilt roots; __E__, flowering shoot; __F__, fruit cluster.",image/png,vol3/fig_11.11.png,,,
-3-11-text,Volume 3 Chapter 11,Chapter text formatted as CLDF Markdown document,text/markdown,vol3/chapter11.md,,,CLDF Markdown
-fig-3-12_1,Volume 3 fig_12.1,__Figure 12.1:__ Parts of a coconut,image/png,vol3/fig_12.1.png,,,
-fig-3-12_2,Volume 3 fig_12.2,__Figure 12.2:__ Parts of a coconut palm,image/png,vol3/fig_12.2.png,,,
-fig-3-12_3,Volume 3 fig_12.3,"__Figure 12.3:__ Coconut blossom and spathe), Flower bunch (inflorescence)",image/png,vol3/fig_12.3.png,,,
-3-12-text,Volume 3 Chapter 12,Chapter text formatted as CLDF Markdown document,text/markdown,vol3/chapter12.md,,,CLDF Markdown
-3-13-text,Volume 3 Chapter 13,Chapter text formatted as CLDF Markdown document,text/markdown,vol3/chapter13.md,,,CLDF Markdown
-3-14-text,Volume 3 Chapter 14,Chapter text formatted as CLDF Markdown document,text/markdown,vol3/chapter14.md,,,CLDF Markdown
 map-4-1,Volume 4 map_1,__Map 1:__ The Austronesian language family and major subgroups,image/png,vol4/map_1.png,,,
 map-4-2,Volume 4 map_2,"__Map 2:__ Geographic limits of historically known Oceanic speakers and of presently documented Lapita sites (after Kirch_1997:17, 54)",image/png,vol4/map_2.png,,,
 fig-4-1_1,Volume 4 fig_1.1,__Figure 1.1:__ Schematic diagram showing higher-order subgroups of Austronesian languages.,image/png,vol4/fig_1.1.png,,,
@@ -264,6 +104,55 @@ fig-4-7_7,Volume 4 fig_7.7,"__Figure 7.7:__ __Left__ Longicom beetle. __Right__ 
 fig-4-7_8,Volume 4 fig_7.8,"__Figure 7.8:__ _Honnurus_ sp., scorpion",image/png,vol4/fig_7.8.png,,,
 4-7-text,Volume 4 Chapter 7,Chapter text formatted as CLDF Markdown document,text/markdown,vol4/chapter7.md,,,CLDF Markdown
 4-8-text,Volume 4 Chapter 8,Chapter text formatted as CLDF Markdown document,text/markdown,vol4/chapter8.md,,,CLDF Markdown
+map-1-1,Volume 1 map_1,__Map 1:__ The Austronesian phylum and major language groups,image/png,vol1/map_1.png,,,
+map-1-2,Volume 1 map_2,"__Map 2:__ Geographic limits of historically known Oceanic speakers and of presently documented Lapita sites (after Kirch_1997: 17, 54)",image/png,vol1/map_2.png,,,
+fig-1-1,Volume 1 fig_1,__Figure 1:__ Schematic diagram of the diversification of Austronesian languages (see the text with regard to its interpretation) Note: Italics are used to indicate a group of languages or a language which have no exclusively shared common ancestor. Thus _Formosan languages_ indicates a collection of languages descended (along with Proto Malayo-Polynesian) from Proto Austronesian. It is assumed that there was no 'Proto Formosan'.,image/png,vol1/fig_1.png,,,
+map-1-3,Volume 1 map_3,__Map 3:__ Higher-order subgroups of Oceanic languages used in this work for the purposes of reconstruction,image/png,vol1/map_3.png,,,
+map-1-4,Volume 1 map_4,__Map 4:__ Groups of Oceanic languages in north-west Melanesia: the Admiralties and St Matthias groups and the subgroups of Western Oceanic,image/png,vol1/map_4.png,,,
+1-1-text,Volume 1 Chapter 1,Chapter text formatted as CLDF Markdown document,text/markdown,vol1/chapter1.md,,,CLDF Markdown
+1-2-text,Volume 1 Chapter 2,Chapter text formatted as CLDF Markdown document,text/markdown,vol1/chapter2.md,,,CLDF Markdown
+map-1-5,Volume 1 map_5,__Map 5:__ Lapita sites in the south-west Pacific (after Spriggs_1995: 113),image/png,vol1/map_5.png,,,
+fig-1-2,Volume 1 fig_2,"__Figure 2:__ Typical Baegu (Malaita, Solomon Islands) dwelling and community layout (from Oliver_1989:335) (Baegu terms are _luma_ 'dwelling house, _lalo_ 'women's sleeping quarters', _beu_ 'men's house', _bisi_ 'menstrual hut')",image/png,vol1/fig_2.png,,,
+fig-1-3a,Volume 1 fig_3a,"__Figure 3a:__ POc _&ast;Rumaq_ 'house'  POc _&ast;qatop_ 'thatch, roof', POc _&ast;kataman_ 'doorway', POc _&ast;tete_ 'ladder or log bridge', POc _&ast;gabʷari_ 'area underneath house'",image/png,vol1/fig_3a.png,,,
+fig-1-3b,Volume 1 fig_3b,"__Figure 3b:__ POc _&ast;Rumaq_ 'house', POc _&ast;pupuŋ-an_ 'ridgepole', POc _&ast;kaso_ 'rafter', POc _&ast;aRiRi_ 'post', POc _&ast;turu(s)_ 'post', POc _&ast;bou_ 'main bearers supporting raised floor/roof or centre post supporting ridgepole, POc _&ast;soko(r)_ 'bracing timber, crossbeam'",image/png,vol1/fig_3b.png,,,
+1-3-text,Volume 1 Chapter 3,Chapter text formatted as CLDF Markdown document,text/markdown,vol1/chapter3.md,,,CLDF Markdown
+fig-1-4,Volume 1 fig_4,"__Figure 4:__ Typical pot shapes (from Ross_1996c) (a) cooking pot: POc _&ast;kuran_, POc _&ast;bʷafja_ (b) water jar: POc _&ast;kalala(ŋ)_, PNGOc _&ast;bʷad(r)i_ (c) bowl: PPT _&ast;na(q)u(q)_ (d) frying pan: POc _&ast;palafja_",image/png,vol1/fig_4.png,,,
+fig-1-5,Volume 1 fig_5,__Figure 5:__ POc _&ast;tabiRa_ 'wooden bowl',image/png,vol1/fig_5.png,,,
+fig-1-6,Volume 1 fig_6,"__Figure 6:__ POc _&ast;(b,bʷ)ilo_ 'coconut shell used as liquid container', POc _&ast;lasa_, POc _&ast;ubi_/_&ast;ibu_ 'coconut half shell-cup' __Figure 7__: POc _&ast;kulopi_ 'cup, ladle' (from Nevermann_1934: 179)",image/png,vol1/fig_6.png,,,
+fig-1-8,Volume 1 fig_8,__Figure 8:__ POc _&ast;d(r)amut_ 'lime spatula',image/png,vol1/fig_8.png,,,
+fig-1-9,Volume 1 fig_9,"__Figure 9:__ Reconstructions (non-specific) include: POc _&ast;katu(m,ŋ)_ 'basket', POc _&ast;laka_ 'basket ', POc _&ast;tab(w)e_ 'basket, probably small', POc _&ast;taŋa_ 'basket or bag, small, used for personal effects' (after Koch_1986: 104 and n.d.:59)",image/png,vol1/fig_9.png,,,
+fig-1-10,Volume 1 fig_10,"__Figure 10:__ POc _&ast;kiRam_ 'stone adze, axe', POc _&ast;matau_ 'axe', POc _&ast;taku_, POc _&ast;taRa(q)_ 'adze'",image/png,vol1/fig_10.png,,,
+fig-1-11,Volume 1 fig_11,"__Figure 11:__ POc _&ast;nad(r)i_ 'flint, obsidian, stone with a cutting edge'; POc _&ast;koto_ 'obsidian knife or blade'",image/png,vol1/fig_11.png,,,
+fig-1-12,Volume 1 fig_12,__Figure 12:__ POc _&ast;ike_ 'tapa beater',image/png,vol1/fig_12.png,,,
+fig-1-13,Volume 1 fig_13,__Figure 13:__ POc _&ast;bara_ 'plaited cane armlet' (from Nevermann_1934: 151),image/png,vol1/fig_13.png,,,
+fig-1-14,Volume 1 fig_14,__Figure 14:__ POc _&ast;saRu_ 'comb',image/png,vol1/fig_14.png,,,
+fig-1-15,Volume 1 fig_15,__Figure 15:__ POc _&ast;tapuRi(q)_ 'triton shell trumpet' (from Nevermann_1933:218) POc _&ast;kauR_ 'bamboo wind instrument',image/png,vol1/fig_15.png,,,
+fig-1-16,Volume 1 fig_16,__Figure 16:__ POc _&ast;kude_ 'hourglass drum',image/png,vol1/fig_16.png,,,
+fig-1-17,Volume 1 fig_17,__Figure 17:__ POc _&ast;salap_ 'broom',image/png,vol1/fig_17.png,,,
+fig-1-18,Volume 1 fig_18,__Figure 18:__ POc _&ast;quluŋ-an_ 'wooden headrest' (from Nevermann_1934:271),image/png,vol1/fig_18.png,,,
+1-4-text,Volume 1 Chapter 4,Chapter text formatted as CLDF Markdown document,text/markdown,vol1/chapter4.md,,,CLDF Markdown
+1-5-text,Volume 1 Chapter 5,Chapter text formatted as CLDF Markdown document,text/markdown,vol1/chapter5.md,,,CLDF Markdown
+fig-1-19,Volume 1 fig_19,"__Figure 19:__ POc _&ast;suka_, _&ast;suka-i_ 'make fire with fire-plough'",image/png,vol1/fig_19.png,,,
+fig-1-20,Volume 1 fig_20,__Figure 20:__ POc _&ast;sulu_ 'dry coconut leaf torch',image/png,vol1/fig_20.png,,,
+fig-1-21,Volume 1 fig_21,__Figure 21:__ POc _&ast;kapit_ 'tongs' (from Nevermann_1933: 102),image/png,vol1/fig_21.png,,,
+fig-1-22,Volume 1 fig_22,__Figure 22:__ taro stamper (no reconstruction) (from Nevermann_1934: 192) PWOc _&ast;walu_ 'sago beater' (from Nevermann_1934: 174),image/png,vol1/fig_22.png,,,
+fig-1-23,Volume 1 fig_23,"__Figure 23:__ POc _&ast;kaRi_, POc _&ast;koRi_ 'bivalve used as food scraper'",image/png,vol1/fig_23.png,,,
+1-6-text,Volume 1 Chapter 6,Chapter text formatted as CLDF Markdown document,text/markdown,vol1/chapter6.md,,,CLDF Markdown
+fig-1-24,Volume 1 fig_24,"__Figure 24:__ POc _&ast;waga_ 'canoe' (after Koch_n.d.: 147), POc _&ast;kati(R)_ '(small) outrigger canoe or canoe hull',  POc _&ast;(q)oRa_ 'topstrake', POc _&ast;soka(r)_ 'thwart',  POc _&ast;muri-_ 'stern ',  POc _&ast;muqa-_ 'front, bow', POc _&ast;patar_ 'platform, decking', POc _&ast;saman_ 'outrigger float',  POc _&ast;kiajo_ 'outrigger boom', POc _&ast;patoto_ 'connective sticks attaching float'",image/png,vol1/fig_24.png,,,
+fig-1-25,Volume 1 fig_25,"__Figure 25:__ POc _&ast;(i,u)cuŋ_ 'projecting headboard of prow' (from Nevermann_1934:285)",image/png,vol1/fig_25.png,,,
+fig-1-26,Volume 1 fig_26,"__Figure 26:__ POc _&ast;lima(s)_ or _&ast;nima(s)_, POc _&ast;asu_ 'bailer'",image/png,vol1/fig_26.png,,,
+1-7-text,Volume 1 Chapter 7,Chapter text formatted as CLDF Markdown document,text/markdown,vol1/chapter7.md,,,CLDF Markdown
+fig-1-27a,Volume 1 fig_27a,"__Figure 27a:__ POc _&ast;ku(p,pʷ)ena_ 'fishing net'—generic term. (from Nevermann_1933:89)",image/png,vol1/fig_27a.png,,,
+fig-1-27b,Volume 1 fig_27b,"__Figure 27b:__ Possibly POc _&ast;pukot_ 'a seine net', with wooden floats (POc _&ast;utoŋ_) and stone sinkers (POc _&ast;patu_) (from Nevermann_1933:89)",image/png,vol1/fig_27b.png,,,
+fig-1-27c,Volume 1 fig_27c,"__Figure 27c:__ Another kind of _&ast;ku(p,pʷ)ena_. We lack a specific reconstruction for a handnet. (from Nevermann_1933:89)",image/png,vol1/fig_27c.png,,,
+fig-1-28,Volume 1 fig_28,__Figure 28:__ POc &ast;sika 'netting needle',image/png,vol1/fig_28.png,,,
+fig-1-29,Volume 1 fig_29,"__Figure 29:__ POc _&ast;kawil_ 'fish hook ', POc _&ast;ta(g,k)o_ '(barbless?) fish hook'. On the left is a coconut shell fish hook; on the right is a wooden two-piece fish hook",image/png,vol1/fig_29.png,,,
+fig-1-30,Volume 1 fig_30,"__Figure 30:__ POc _&ast;bayan_ 'trolling lure, trolling hook'",image/png,vol1/fig_30.png,,,
+fig-1-31,Volume 1 fig_31,__Figure 31:__ POc _&ast;pupu_ 'basketry fish trap' (from Nevermann_1934:226),image/png,vol1/fig_31.png,,,
+fig-1-32,Volume 1 fig_32,"__Figure 32:__ POc _&ast;qio(r,R)_, POc _&ast;sao(t)_, POc _&ast;bako_ all 'spear' or 'k.o. spear' (the above are Admiralties spears from Nevermann_1934:345)",image/png,vol1/fig_32.png,,,
+fig-1-33,Volume 1 fig_33,"__Figure 33:__ POc _&ast;kuj(u,i)r_, POc _&ast;tara_ 'fish spear'",image/png,vol1/fig_33.png,,,
+1-8-text,Volume 1 Chapter 8,Chapter text formatted as CLDF Markdown document,text/markdown,vol1/chapter8.md,,,CLDF Markdown
+1-9-text,Volume 1 Chapter 9,Chapter text formatted as CLDF Markdown document,text/markdown,vol1/chapter9.md,,,CLDF Markdown
 map-5-1,Volume 5 map_1,__Map 1:__ The Austronesian language family and major subgroups,image/png,vol5/map_1.png,,,
 map-5-2,Volume 5 map_2,"__Map 2:__ Geographic limits of historically known Oceanic speakers and of presently documented Lapita sites (after Kirch_1997: 17, 54 and David et al._2011)",image/png,vol5/map_2.png,,,
 fig-5-1,Volume 5 fig_1,__Figure 1:__ Schematic diagram showing higher-order subgroups of Austronesian languages,image/png,vol5/fig_1.png,,,
@@ -281,6 +170,128 @@ map-5-4,Volume 5 map_4,__Map 4:__ Oceanic language groups in northwest Melanesia
 5-9-text,Volume 5 Chapter 9,Chapter text formatted as CLDF Markdown document,text/markdown,vol5/chapter9.md,,,CLDF Markdown
 5-10-text,Volume 5 Chapter 10,Chapter text formatted as CLDF Markdown document,text/markdown,vol5/chapter10.md,,,CLDF Markdown
 5-11-text,Volume 5 Chapter 11,Chapter text formatted as CLDF Markdown document,text/markdown,vol5/chapter11.md,,,CLDF Markdown
+map-3-1,Volume 3 map_1,__Map 1:__ The Austronesian phylum and major language groups,image/png,vol3/map_1.png,,,
+map-3-2,Volume 3 map_2,"__Map 2  Geographic limits of historically known Oceanic speakers and of presently documented Lapita sites (after Kirch_1997:__ 17, 54)",image/png,vol3/map_2.png,,,
+fig-3-1_1,Volume 3 fig_1.1,__Figure 1.1:__ Schematic diagram showing higher-order subgroups of Austronesian languages.,image/png,vol3/fig_1.1.png,,,
+fig-3-1_2,Volume 3 fig_1.2,__Figure 1.2:__ Schematic diagram showing the subgrouping of Oceanic Austronesian languages.,image/png,vol3/fig_1.2.png,,,
+map-3-3,Volume 3 map_3,__Map 3:__ Groups of Oceanic languages used in cognate sets,image/png,vol3/map_3.png,,,
+map-3-4,Volume 3 map_4,__Map 4:__ Oceanic language groups in northwest Melanesia: the Admiralties and St Matthias groups and the subgroups of Western Oceanic,image/png,vol3/map_4.png,,,
+3-1-text,Volume 3 Chapter 1,Chapter text formatted as CLDF Markdown document,text/markdown,vol3/chapter1.md,,,CLDF Markdown
+3-2-text,Volume 3 Chapter 2,Chapter text formatted as CLDF Markdown document,text/markdown,vol3/chapter2.md,,,CLDF Markdown
+fig-3-3_1,Volume 3 fig_3.1,"__Figure 3.1:__ The hierarchical structure of ethnobiological classifications, exemplified by Wayan Fijian",image/png,vol3/fig_3.1.png,,,
+fig-3-3_2,Volume 3 fig_3.2,__Figure 3.2:__ A partial ethnobotanical taxonomy of Wayan Fijian,image/png,vol3/fig_3.2.png,,,
+fig-3-3_3,Volume 3 fig_3.3,"__Figure 3.3:__ A partial plant taxonomy of Wayan Fijian, showing taxonomic depth of some cultivated food plants",image/png,vol3/fig_3.3.png,,,
+fig-3-3_4,Volume 3 fig_3.4,__Figure 3.4:__ A partial classification of foods in Wayan Fijian,image/png,vol3/fig_3.4.png,,,
+fig-3-3_5,Volume 3 fig_3.5,__Figure 3.5:__ A partial ethnobotanical taxonomy of Kwara'ae,image/png,vol3/fig_3.5.png,,,
+fig-3-3_6,Volume 3 fig_3.6,__Figure 3.6:__ Arosi ethnobotanical classification,image/png,vol3/fig_3.6.png,,,
+fig-3-3_7,Volume 3 fig_3.7,__Figure 3.7:__ Partial Proto Oceanic ethnobotanical classification,image/png,vol3/fig_3.7.png,,,
+3-3-text,Volume 3 Chapter 3,Chapter text formatted as CLDF Markdown document,text/markdown,vol3/chapter3.md,,,CLDF Markdown
+3-4-text,Volume 3 Chapter 4,Chapter text formatted as CLDF Markdown document,text/markdown,vol3/chapter4.md,,,CLDF Markdown
+fig-3-5_1,Volume 3 fig_5.1,"__Figure 5.1:__ __Left__ _Ipomoea pes-caprae_, morning glory. __Right__ _Wedelia biflora_.",image/png,vol3/fig_5.1.png,,,
+fig-3-5_2,Volume 3 fig_5.2,"__Figure 5.2:__ __Left__ _Cordia subcordata_, kerosene wood: __A__, tree; __B__, small branch with flowers and leaves; __C__, fruit cluster __Right__ _Hibiscus tiliaceus_, cotton wood: __D__, leaf; __E__, shoot with flower; __F__, matured over-ripe fruit cluster.",image/png,vol3/fig_5.2.png,,,
+fig-3-5_3,Volume 3 fig_5.3,"__Figure 5.3:__ _Hernandia nymphaeifolia_, sea hearse tree",image/png,vol3/fig_5.3.png,,,
+fig-3-5_4,Volume 3 fig_5.4,__Figure 5.4:__ __Left__ Pemphis-acidula. __Middle__ _Scaevola taccada_. __Right__ _Thespesia populnea_.,image/png,vol3/fig_5.4.png,,,
+fig-3-5_5,Volume 3 fig_5.5,__Figure 5.5:__ _Tournefortia argentea_.,image/png,vol3/fig_5.5.png,,,
+fig-3-5_6,Volume 3 fig_5.6,__Figure 5.6:__ _Vitex trifolia_.,image/png,vol3/fig_5.6.png,,,
+fig-3-5_7,Volume 3 fig_5.7,"__Figure 5.7:__ _Flagellaria indica_: __A__, climbing plant; __B__, leaf with tendrils; __C__; shoot with fruit; __D__, flowers.",image/png,vol3/fig_5.7.png,,,
+fig-3-5_8,Volume 3 fig_5.8,__Figure 5.8:__ _Barringtonia asiatica_.,image/png,vol3/fig_5.8.png,,,
+fig-3-5_9,Volume 3 fig_5.9,"__Figure 5.9:__ _Calophyllum inophyllum_: __A__, mature tree; __B__, flowering shoot; __C__, fruit cluster.",image/png,vol3/fig_5.9.png,,,
+fig-3-5_10,Volume 3 fig_5.10,__Figure 5.10:__ _Casuarina equisetifolia_.,image/png,vol3/fig_5.10.png,,,
+fig-3-5_11,Volume 3 fig_5.11,"__Figure 5.11:__ __Left__ _Erythrina variegata_, Indian coral tree. __Right__ _Fagraea berteroana_.",image/png,vol3/fig_5.11.png,,,
+fig-3-5_12,Volume 3 fig_5.12,__Figure 5.12:__ _Flueggea flexuosa_: tree and fruit-bearing shoot.,image/png,vol3/fig_5.12.png,,,
+fig-3-5_13,Volume 3 fig_5.13,__Figure 5.13:__ _Guettarda speciosa_ .,image/png,vol3/fig_5.13.png,,,
+fig-3-5_14,Volume 3 fig_5.14,"__Figure 5.14:__ __Left__ _Pisonia grandis_: __A__, tree; __B__, shoot; __C__, flowering shoot with small leaves. Right _Premna corymbosa_: __A__, tree; __B__, flowering shoot with leaves .",image/png,vol3/fig_5.14.png,,,
+fig-3-5_15,Volume 3 fig_5.15,__Figure 5.15:__ _Pongamia pinnata_.,image/png,vol3/fig_5.15.png,,,
+3-5-text,Volume 3 Chapter 5,Chapter text formatted as CLDF Markdown document,text/markdown,vol3/chapter5.md,,,CLDF Markdown
+fig-3-6_1,Volume 3 fig_6.1,"__Figure 6.1:__ _Rhizophora apiculata_, the tall-stilted mangrove, prop-root mangrove: __A__, stilt roots and trunk; __B__, flower; __C__, leaves, fruit and hypocotyl (viviparous seedling).",image/png,vol3/fig_6.1.png,,,
+fig-3-6_2,Volume 3 fig_6.2,"__Figure 6.2:__ _Bruguiera gymnorrhiza_, orange mangrove: __A__, tree; __B__, shoot bearing edible fruit.",image/png,vol3/fig_6.2.png,,,
+fig-3-6_3,Volume 3 fig_6.3,"__Figure 6.3:__ _Cerbera_ odollam: bottom left, longitudinal section of fruit.",image/png,vol3/fig_6.3.png,,,
+fig-3-6_4,Volume 3 fig_6.4,"__Figure 6.4:__ _Excoecaria agallocha_, milky mangrove.",image/png,vol3/fig_6.4.png,,,
+fig-3-6_5,Volume 3 fig_6.5,__Figure 6.5:__ _Heritiera littoralis_,image/png,vol3/fig_6.5.png,,,
+fig-3-6_6,Volume 3 fig_6.6,"__Figure 6.6:__ _Xylocarpus granatum_, puzzlenut tree: leaves flowers and fruit.",image/png,vol3/fig_6.6.png,,,
+3-6-text,Volume 3 Chapter 6,Chapter text formatted as CLDF Markdown document,text/markdown,vol3/chapter6.md,,,CLDF Markdown
+fig-3-7_1,Volume 3 fig_7.1,__Figure 7.1:__ _Falcataria moluccana_.,image/png,vol3/fig_7.1.png,,,
+fig-3-7_2,Volume 3 fig_7.2,__Figure 7.2:__ _Octomeles sumatrana_.,image/png,vol3/fig_7.2.png,,,
+fig-3-7_3,Volume 3 fig_7.3,"__Figure 7.3:__ _Dracontomelon dao_, New Guinea Walnut.",image/png,vol3/fig_7.3.png,,,
+fig-3-7_4,Volume 3 fig_7.4,__Figure 7.4:__ _Dysoxylum arborescens_.,image/png,vol3/fig_7.4.png,,,
+fig-3-7_5,Volume 3 fig_7.5,"__Figure 7.5:__ __Left__ _Endospermum medullosum_, cheesewood,: __A__, tree; __B__, leaves and flowers; __C__, fruit. __Right__ _Pterocarpus indicus_, New Guinea rosewood: __A__, tree; __B__, portion ofleafwith leaflets; __C__, shoot with pods.",image/png,vol3/fig_7.5.png,,,
+fig-3-7_6,Volume 3 fig_7.6,"__Figure 7.6:__ __Left__ _Intsia bijuga_, ironwood: __A__: young tree; __B__, leaves and flowers; __C__, seed pod. Right _Vitex cofassus_, New Guinea teak: __A__, tree; __B__, flowering stem with leaves and portion of terminal inflorescence; __C__, portion of fruiting inflorescence and stem.",image/png,vol3/fig_7.6.png,,,
+fig-3-7_7,Volume 3 fig_7.7,"__Figure 7.7:__ __Left__ _Bischofia javanica_, Java cedar: __A__, tree; __B__, compound leaf; __C__, branch bearing cluster of fruit. __Right__ _Cananga odorata_, ylang-ylang: __A__, tree; __B__, leaves; __C__, flowering shoot; __D__, fruit cluster.",image/png,vol3/fig_7.7.png,,,
+fig-3-7_8,Volume 3 fig_7.8,__Figure 7.8:__ _Cryptocarya aromatica_.,image/png,vol3/fig_7.8.png,,,
+fig-3-7_9,Volume 3 fig_7.9,"__Figure 7.9:__ _Kleinhovia hospita_: __A__, tree; __B__, shoot with a mature and an old inflorescence; __C__, leaf.",image/png,vol3/fig_7.9.png,,,
+fig-3-7_10,Volume 3 fig_7.10,"__Figure 7.10:__ __Left__ _Parinari_ glaberrima: __A__, tree; __B__, shoot bearing one mature and one old inflores- cence; __C__ and __D__, nut. __Right__ _Caryota rumphiana_: __A__, tree; __B__, leaflet; __C__, portion of inflorescence; __D__, fruiting inflorescence; __E__, fruit; __F__, larvae of Rhynocaphorus beetle in a rotting trunk.",image/png,vol3/fig_7.10.png,,,
+fig-3-7_11,Volume 3 fig_7.11,"__Figure 7.11:__ __Left__ _Hornstedtia lycostoma_: __A__, plant, about 3 m high, with suckers and inflorescences; __B__, inflorescences; __C__, longitudinal section oflarge fruit. __Right__ _Calamus hollrungii_, rattan: __A__, leaf base and spikes; __B__, inflorescence; __C__, fruit; __D__, portion of leaf tip with barbs.",image/png,vol3/fig_7.11.png,,,
+3-7-text,Volume 3 Chapter 7,Chapter text formatted as CLDF Markdown document,text/markdown,vol3/chapter7.md,,,CLDF Markdown
+fig-3-8_1,Volume 3 fig_8.1,"__Figure 8.1:__ _Commersonia bartramia_: __A__, tree; __B__, leaf: __C__, stem bearing leaves and flowering shoot; __D__, ageing mature fruit.",image/png,vol3/fig_8.1.png,,,
+fig-3-8_2,Volume 3 fig_8.2,__Figure 8.2:__ _Macaranga_ tanarius.,image/png,vol3/fig_8.2.png,,,
+fig-3-8_3,Volume 3 fig_8.3,"__Figure 8.3:__ _Rhus taitensis_: __A__, tree; __B__, stem bearing leaves; __C__, branch bearing fruit.",image/png,vol3/fig_8.3.png,,,
+fig-3-8_4,Volume 3 fig_8.4,__Figure 8.4:__ _Trichospermum richii_.,image/png,vol3/fig_8.4.png,,,
+fig-3-8_5,Volume 3 fig_8.5,"__Figure 8.5:__ __Left__ _Paspalum conjugatum_. Middle _Imperata cylindrica_, sword grass. __Right__ Coix lacryma-jobi, Job's tears.",image/png,vol3/fig_8.5.png,,,
+3-8-text,Volume 3 Chapter 8,Chapter text formatted as CLDF Markdown document,text/markdown,vol3/chapter8.md,,,CLDF Markdown
+fig-3-9_1,Volume 3 fig_9.1,__Figure 9.1:__ Growth habit of three yam (_Dioscorea_) species,image/png,vol3/fig_9.1.png,,,
+fig-3-9_2,Volume 3 fig_9.2,__Figure 9.2:__ Yam (_Dioscorea alata_) tuber shapes,image/png,vol3/fig_9.2.png,,,
+fig-3-9_3,Volume 3 fig_9.3,__Figure 9.3:__ Taro (Araceae) genera and Amorphophallus: growth habit,image/png,vol3/fig_9.3.png,,,
+fig-3-9_4,Volume 3 fig_9.4,__Figure 9.4:__ Tuber and plant parts of _Pueraria lobata_,image/png,vol3/fig_9.4.png,,,
+fig-3-9_5,Volume 3 fig_9.5,__Figure 9.5:__ Traditional (diploid) banana plant,image/png,vol3/fig_9.5.png,,,
+fig-3-9_6,Volume 3 fig_9.6,"__Figure 9.6:__ Fruit, leaves and sections of breadfruit, _Artocarpus altilis_",image/png,vol3/fig_9.6.png,,,
+fig-3-9_7,Volume 3 fig_9.7,__Figure 9.7:__ Extracting the starch from a sago trunk,image/png,vol3/fig_9.7.png,,,
+fig-3-9_8,Volume 3 fig_9.8,"__Figure 9.8:__ _Cycas rumphii_: __A__, plant with fronds removed to show fruit; __B__, apex of leaf wiili leaflets; __C__, fruit; __D__, single fruit, longitudinal section.",image/png,vol3/fig_9.8.png,,,
+3-9-text,Volume 3 Chapter 9,Chapter text formatted as CLDF Markdown document,text/markdown,vol3/chapter9.md,,,CLDF Markdown
+fig-3-10_1,Volume 3 fig_10.1,"__Figure 10.1:__ _Abelmoschus manihot_: __A__, plant (height 1.5 m); __B__, stem with leaf (edible) and flower bud; __C__, flower; __D__, varieties displayed to show the diversity in leaf shape.",image/png,vol3/fig_10.1.png,,,
+fig-3-10_2,Volume 3 fig_10.2,"__Figure 10.2:__ Aramanthus tricolor, Chinese spinach",image/png,vol3/fig_10.2.png,,,
+fig-3-10_3,Volume 3 fig_10.3,"__Figure 10.3:__ _Gnetum gnemon_: __A__, tree; __B__, fruiting branch with edible young leaves and fruit; __C__, mature edible fruit; __D__, flowering branch with edible flower.",image/png,vol3/fig_10.3.png,,,
+fig-3-10_4,Volume 3 fig_10.4,"__Figure 10.4:__ _Polyscias_ species: __A__, _Polyscias scutellaria_, young shoot with small portion of inflorescence; __B__, terminal portion of inflorescence; __C__, _Polyscias verticillata_: flowering shoot and leaf; __D__, _Polyscias fruticosa_: leaflet; __E__ and __F__, leaflets of two other _Polyscias_ species.",image/png,vol3/fig_10.4.png,,,
+fig-3-10_5,Volume 3 fig_10.5,"__Figure 10.5:__ _Saccharum edule_: __A__, stand of plants; __B__, swollen tips ready for market (ca 50cm long); __C__, stem with suckers; __D__, semi-mature edible inflorescence.",image/png,vol3/fig_10.5.png,,,
+fig-3-10_6,Volume 3 fig_10.6,"__Figure 10.6:__ __Left__ _Ficus copiosa_: __A__, tree; __B__, shoot with leaves; __C__, leaf; __D__, figs on trunk. __Right__ _Ficus_ wassa: __A__, tree; __B__, shoot showing leaf arrangement and figs on stem; __C__, young shoot with edible leaves; __D__, fruit on lower branch.",image/png,vol3/fig_10.6.png,,,
+3-10-text,Volume 3 Chapter 10,Chapter text formatted as CLDF Markdown document,text/markdown,vol3/chapter10.md,,,CLDF Markdown
+fig-3-11_1,Volume 3 fig_11.1,"__Figure 11.1:__ __Left__ _Canarium indicum_: __A__, tree; __B__, portion of leaf showing terminal four leaflets; __C__, portion of branch showing large stipules (leaflike appendages at base of leaf stalk); __D__, immature inflorescence; __E__, cluster of fruit.; __F__, opened pericarp (exocarp + mesocarp + endocarp); __G__, opened shell/endocarp; __H__, edible kernel. __Right__ Parts of the _Canarium indicum_ fruit",image/png,vol3/fig_11.1.png,,,
+fig-3-11_2,Volume 3 fig_11.2,"__Figure 11.2:__ _Inocarpus fagifer_, Tahitian chestnut: __A__, tree; __B__, portion of branch bearing fruit; __C__, inflorescence.",image/png,vol3/fig_11.2.png,,,
+fig-3-11_5,Volume 3 fig_11.5,"__Figure 11.5:__ __Left__ _Pandanus tectorius_: __A__, tree at its tallest; __B__, young plant when leaves harvested; __C__, end portion of leaf (no thorns); __D__, portion of surface of syncarp; __E__, longitudinal section of fruit segment. __Right__ _Pandanus dubius_: __F__, tree, height 3m; __G__, syncarp from above; __H__, longitudinal section of fruit segment with edible kernel; __J__, leaf tip showing curved spike.",image/png,vol3/fig_11.5.png,,,
+fig-3-11_6,Volume 3 fig_11.6,"__Figure 11.6:__ _Pandanus conoideus_, marita: __A__, syncarp.",image/png,vol3/fig_11.6.png,,,
+fig-3-11_7,Volume 3 fig_11.7,__Figure 11.7:__ _Pangium edule_,image/png,vol3/fig_11.7.png,,,
+fig-3-11_8,Volume 3 fig_11.8,"__Figure 11.8:__ _Burckella obovata_: __A__, tree; __B__, flowering shoot; __C__, shoot bearing fruit; __D__, old seed.",image/png,vol3/fig_11.8.png,,,
+fig-3-11_9,Volume 3 fig_11.9,"__Figure 11.9:__ __Left__ _Pometia pinnata_, island lychee: __A__, young tree; __B__, shoot and edible fruit; __C__, inflorescence. __Right__ _Spondias cytherea_, golden apple: __D__, young tree; __E__, shoot with leaves, leaflets and a cluster of edible fruit.",image/png,vol3/fig_11.9.png,,,
+fig-3-11_10,Volume 3 fig_11.10,"__Figure 11.10:__ _Syzygium malaccense_: __A__, tree; __B__, shoot; __C__, branch with opened and unopened flowers; __D__, edible fruit.",image/png,vol3/fig_11.10.png,,,
+fig-3-11_11,Volume 3 fig_11.11,"__Figure 11.11:__ __Left__ _Parartocarpus venenosa_: __A__, young tree; __B__, branch bearing shoot, male flower and edible fruit; __C__, seed. __Right__ _Finschia chloroxantha_: __D__, tree with stilt roots; __E__, flowering shoot; __F__, fruit cluster.",image/png,vol3/fig_11.11.png,,,
+3-11-text,Volume 3 Chapter 11,Chapter text formatted as CLDF Markdown document,text/markdown,vol3/chapter11.md,,,CLDF Markdown
+fig-3-12_1,Volume 3 fig_12.1,__Figure 12.1:__ Parts of a coconut,image/png,vol3/fig_12.1.png,,,
+fig-3-12_2,Volume 3 fig_12.2,__Figure 12.2:__ Parts of a coconut palm,image/png,vol3/fig_12.2.png,,,
+fig-3-12_3,Volume 3 fig_12.3,"__Figure 12.3:__ Coconut blossom and spathe), Flower bunch (inflorescence)",image/png,vol3/fig_12.3.png,,,
+3-12-text,Volume 3 Chapter 12,Chapter text formatted as CLDF Markdown document,text/markdown,vol3/chapter12.md,,,CLDF Markdown
+fig-3-13_1,Volume 3 fig_13.1,"__Figure 13.1:__ Left: _Areca catechu_, betelnut: __A__, tree; __B__, portion of inflorescence; __C__, portion of fruit cluster; __D__, fruit: longitudinal section showing fibrous exocarp and inner chewed 'nut'. Right: _Piper betle_: __E__, plant; __F__, __G__, __H__, flowering shoots of three varieties.",image/png,vol3/fig_13.1.png,,,
+fig-3-13_2,Volume 3 fig_13.2,"__Figure 13.2:__ Leaves, stem and plant habit of kava, _Piper methysticum_",image/png,vol3/fig_13.2.png,,,
+fig-3-13_3,Volume 3 fig_13.3,__Figure 13.3:__ _Nastus obtusus_,image/png,vol3/fig_13.3.png,,,
+fig-3-13_4,Volume 3 fig_13.4,"__Figure 13.4:__ _Aleurites moluccana_: __A__, tree; __B__, leaves and inflorescence; __C__, whole fruit; __D__, kernel (candlenut).",image/png,vol3/fig_13.4.png,,,
+fig-3-13_5,Volume 3 fig_13.5,"__Figure 13.5:__ _Broussonetia papyrifera_, paper mulberry",image/png,vol3/fig_13.5.png,,,
+fig-3-13_6,Volume 3 fig_13.6,"__Figure 13.6:__ __Left__ _Morinda citrifolia_, Indian mUtlberry: __A__, mature tree; __B__, shoot bearing leaves, fruit and flowers. __Right__ _Derris_ species: __A__, climbing plant; __B__, base of mature vine; __C__, woody vine stem; __D__, vine with leaves and pods; __E__, stem with inflorescence; __F__, immature leaf.",image/png,vol3/fig_13.6.png,,,
+fig-3-13_7,Volume 3 fig_13.7,__Figure 13.7:__ _Curcuma longa_,image/png,vol3/fig_13.7.png,,,
+fig-3-13_8,Volume 3 fig_13.8,__Figure 13.8:__ _Codiaeum variegatum_,image/png,vol3/fig_13.8.png,,,
+fig-3-13_9,Volume 3 fig_13.9,__Figure 13.9:__ _Cordyline fruticosa_: plant,image/png,vol3/fig_13.9.png,,,
+fig-3-13_10,Volume 3 fig_13.10,"__Figure 13.10:__ Left: _Heliconia_ solomonensis: __A__, plant; __B__, mature inflorescence, open and showing fruit. Right: _Crinum asiaticum_, spider lily.",image/png,vol3/fig_13.10.png,,,
+3-13-text,Volume 3 Chapter 13,Chapter text formatted as CLDF Markdown document,text/markdown,vol3/chapter13.md,,,CLDF Markdown
+3-14-text,Volume 3 Chapter 14,Chapter text formatted as CLDF Markdown document,text/markdown,vol3/chapter14.md,,,CLDF Markdown
+map-2-1,Volume 2 map_1,__Map 1:__ The Austronesian phylum and major language groups,image/png,vol2/map_1.png,,,
+map-2-2,Volume 2 map_2,"__Map 2:__ Geographic limits of historically known Oceanic speakers and of presently documented Lapita sites (after Kirch_1997: 17, 54)",image/png,vol2/map_2.png,,,
+fig-2-1,Volume 2 fig_1,__Figure 1:__ Schematic diagram of the diversification of Austronesian languages (see the text with regard to its interpretation) Note: Italics are used to indicate a group of languages or a language which have noexclusively shared common ancestor. Thus Formosan languages indicates a collection of languages descended (along with Proto Malayo-Polynesian) from Proto Austronesian. It is assumed that there was no ‘Proto Formosan’.,image/png,vol2/fig_1.png,,,
+map-2-3,Volume 2 map_3,__Map 3:__ Higher-order supgroups of Oceanic languages used in this work for the purposes of reconstruction.,image/png,vol2/map_3.png,,,
+map-2-4,Volume 2 map_4,__Map 4:__ Groups of Oceanic languages in north-west Melanesia: the Admiralties and St Matthias groups and the subgroups of Western Oceanic,image/png,vol2/map_4.png,,,
+2-1-text,Volume 2 Chapter 1,Chapter text formatted as CLDF Markdown document,text/markdown,vol2/chapter1.md,,,CLDF Markdown
+map-2-5,Volume 2 map_5,"__Map 5:__ Major biogeographic regions of Island SE Asia and the Pacific: Sundaland, Wallacea, Near Oceania and Remote Oceania",image/png,vol2/map_5.png,,,
+map-2-7,Volume 2 map_7,"__Map 7:__ The Bismarck Archipelago, Bougainville and the adjacent coast of New Guinea",image/png,vol2/map_7.png,,,
+2-2-text,Volume 2 Chapter 2,Chapter text formatted as CLDF Markdown document,text/markdown,vol2/chapter2.md,,,CLDF Markdown
+fig-2-2,Volume 2 fig_2,__Figure 2:__ Marovo coastal profile (reproduced from Hviding_1996:138 with the permission of the University of Hawai’i Press),image/png,vol2/fig_2.png,,,
+map-2-8,Volume 2 map_8,__Map 8:__ Tikopia (after Firth_1936:xxii),image/png,vol2/map_8.png,,,
+map-2-9,Volume 2 map_9,__Map 9:__ Active volcanoes and earthquake areas in the south-west Pacific (after Brookfield and Hart_1971: 33),image/png,vol2/map_9.png,,,
+2-3-text,Volume 2 Chapter 3,Chapter text formatted as CLDF Markdown document,text/markdown,vol2/chapter3.md,,,CLDF Markdown
+fig-2-3,Volume 2 fig_3,__Figure 3:__ Reef forms,image/png,vol2/fig_3.png,,,
+2-4-text,Volume 2 Chapter 4,Chapter text formatted as CLDF Markdown document,text/markdown,vol2/chapter4.md,,,CLDF Markdown
+map-2-10,Volume 2 map_10,__Map 10:__ Prevailing winds in the Indian and Pacific Oceans during the southern hemisphere winter (July),image/png,vol2/map_10.png,,,
+map-2-11,Volume 2 map_11,__Map 11:__ Prevailing winds in the Indian and Pacific Oceans during the southern hemisphere summer (January),image/png,vol2/map_11.png,,,
+2-5-text,Volume 2 Chapter 5,Chapter text formatted as CLDF Markdown document,text/markdown,vol2/chapter5.md,,,CLDF Markdown
+2-6-text,Volume 2 Chapter 6,Chapter text formatted as CLDF Markdown document,text/markdown,vol2/chapter6.md,,,CLDF Markdown
+2-7-text,Volume 2 Chapter 7,Chapter text formatted as CLDF Markdown document,text/markdown,vol2/chapter7.md,,,CLDF Markdown
+2-8-text,Volume 2 Chapter 8,Chapter text formatted as CLDF Markdown document,text/markdown,vol2/chapter8.md,,,CLDF Markdown
+2-9-text,Volume 2 Chapter 9,Chapter text formatted as CLDF Markdown document,text/markdown,vol2/chapter9.md,,,CLDF Markdown
 map-6-1_1,Volume 6 map_1.1,__Map 1.1:__ Oceanic and non-Oceanic Austronesian languages,image/png,vol6/map_1.1.png,,,
 map-6-1_2,Volume 6 map_1.2,__Map 1.2:__ Geographic limits of historically identified Oceanic speakers and presently documented Lapita sites,image/png,vol6/map_1.2.png,,,
 fig-6-1_1,Volume 6 fig_1.1,__Figure 1.1:__ Schematic diagram showing the subgrouping of Oceanic Austronesian languages.,image/png,vol6/fig_1.1.png,,,

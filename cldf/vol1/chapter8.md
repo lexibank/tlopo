@@ -10,7 +10,7 @@ An earlier version of this chapter is included in [Lynch and Pat, eds,](Source#c
 ## 1. Introduction
 
 
-This chapter takes a close look at terms for fishing and hunting implements and processes attributable to Proto Oceanic (POc), with a view to reconstructing a small portion of the culture of POc speakers.[^1] There is ample linguistic evidence that these people were fishermen and seafarers. The Oceanic Lexicon Project has collected cognate sets supporting POc reconstructions for over eighty fish names and an additional forty terms for shellfish (see vol. 3). This paper adds a further twenty terms for various fishing techniques used, both for deep-sea fishing requiring line and hook capture and for coastal, reef or river fishing where netting, spearing, poisoning or fish-trapping could suffice. We also know that a number of animals, birds and reptiles were hunted for food, and terms for many of these have been reconstructed. Here we attempt to establish terms for the hunting implements and techniques used.
+This chapter takes a close look at terms for fishing and hunting implements and processes attributable to Proto Oceanic (POc), with a view to reconstructing a small portion of the culture of POc speakers.[^1]: There is ample linguistic evidence that these people were fishermen and seafarers. The Oceanic Lexicon Project has collected cognate sets supporting POc reconstructions for over eighty fish names and an additional forty terms for shellfish (see vol. 3). This paper adds a further twenty terms for various fishing techniques used, both for deep-sea fishing requiring line and hook capture and for coastal, reef or river fishing where netting, spearing, poisoning or fish-trapping could suffice. We also know that a number of animals, birds and reptiles were hunted for food, and terms for many of these have been reconstructed. Here we attempt to establish terms for the hunting implements and techniques used.
 
 
 <a id="s-2"></a>
@@ -321,7 +321,7 @@ The Fijian and the Tahitian cognates have strayed semantically, yet still retain
 
 Across the Pacific, the kind of weapon that is labelled 'club' varies from the great knobbed, obsidian-studded roots that can be seen in the Bishop Museum in Honolulu, to the flat round stone clubs of the Motu (_gahi_), to the smaller, lighter throwing clubs of Fiji (_i ula_: [Clunie 1977](Source#cldf:Clunie1977)), and to the Kiribatese _kati-popuki_—about four feet long, pointed at both ends, used for warding off a spear, making a thrust, or wielding as a club (Hudson 1841, quoted in [Koch 1986](Source#cldf:Koch1986):249), which might equally be classified as a shield or lance. I consider these to be more or less marginal examples of what is basically a blunt, heavy instrument, wielded in the hand for bludgeoning.
 
-In the Southeast Solomons, Fiji and Polynesia at least (I have little information from Western Oceania), clubs have an importance beyond that of simply weapons. They often carry ceremonial weight. Many are heirlooms with names and magical powers. Special reverence is accorded the war club. To the extent that it is possible to distinguish war clubs from hunting clubs, I do not intend to delve further into the culture and terminology of the former. It is my guess that hunting clubs would have carried less cultural significance, and as a result, been labelled more broadly. Two terms have been reconstructed.[^5] In each case I have included all known cognates. It will be apparent that neither reconstruction is particularly soundly based. Nor do their cognates provide much information as to the shape, material or specific function of each club:
+In the Southeast Solomons, Fiji and Polynesia at least (I have little information from Western Oceania), clubs have an importance beyond that of simply weapons. They often carry ceremonial weight. Many are heirlooms with names and magical powers. Special reverence is accorded the war club. To the extent that it is possible to distinguish war clubs from hunting clubs, I do not intend to delve further into the culture and terminology of the former. It is my guess that hunting clubs would have carried less cultural significance, and as a result, been labelled more broadly. Two terms have been reconstructed.[^5]: In each case I have included all known cognates. It will be apparent that neither reconstruction is particularly soundly based. Nor do their cognates provide much information as to the shape, material or specific function of each club:
 
 
 <a id="p-227"></a>
@@ -345,7 +345,7 @@ and an even more questionable reconstruction, in view of irregular final vowels:
 
 <a id="p-228"></a>
 
-Slingshots would have been used for hunting birds, flying foxes and perhaps the cuscus.[^6] Although it is assumed that ordinary well-shaped stones were used, [Green](Source#cldf:Green1979) ([1979](Source#cldf:Green1979): 39) has documented a pointed-end _Tridacna_ shell slingstone from Main Reef Islands circa 1000 BC.
+Slingshots would have been used for hunting birds, flying foxes and perhaps the cuscus.[^6]: Although it is assumed that ordinary well-shaped stones were used, [Green](Source#cldf:Green1979) ([1979](Source#cldf:Green1979): 39) has documented a pointed-end _Tridacna_ shell slingstone from Main Reef Islands circa 1000 BC.
 
 
 <a id="s-12"></a>

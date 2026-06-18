@@ -1,3 +1,4 @@
+anybadge==1.16.0
 appdirs==1.4.4
 arrow==1.3.0
 attrs==25.1.0
@@ -6,21 +7,22 @@ bibtexparser==2.0.0b8
 bs4==0.0.2
 Cartopy==0.24.1
 cattrs==24.1.3
-certifi==2025.1.31
+certifi==2026.5.20
 chardet==5.2.0
-cldfbench==1.14.2
+-e git+https://github.com/cldf/cldfbench@6cc1bce15c889b9ec167f8cf5e116625b0f109cf#egg=cldfbench
 cldfcatalog==1.6.0
--e git+https://github.com/cldf/cldfviz@4dbeafbcab441c43799fab44e55f62b27a017dc0#egg=cldfviz
-cldfzenodo==2.1.2
-clldutils==3.24.2
+-e git+https://github.com/cldf/cldfviz@69f2931eaae2e12fca7baa952a4cc1d7526e616b#egg=cldfviz
+cldfzenodo==3.0.0
+clldutils==4.0.0
 colorama==0.4.6
 colorlog==6.9.0
 commonnexus==1.9.2
-csvw==3.5.1
+csvw==4.0.0
 cycler==0.12.1
 geomet==1.1.0
 gitdb==4.0.12
 greenlet==3.1.1
+html5lib==1.1
 idna==3.10
 igraph==0.11.8
 iniconfig==2.0.0
@@ -45,17 +47,18 @@ packaging==24.2
 pandas==2.2.3
 platformdirs==4.3.6
 pluggy==1.5.0
-pybtex==0.24.0
-pycldf==1.43.0
-pyclts==3.2.0
-pyconcepticon==3.1.0
+prettytable==3.17.0
+pycdstar==1.1.0
+pycldf==2.0.2
+pyclts==4.0.2
+pyconcepticon==4.0.0
 pycountry==24.6.1
--e git+https://github.com/lexibank/pyetymdict@3f28d74b45a5c0ab2938e31981873914a4e2a115#egg=pyetymdict
+-e git+https://github.com/lexibank/pyetymdict@b05514b641a10084616068c238e15ce70b6fbbe6#egg=pyetymdict
 pygbif==0.6.5
-pyglottolog==3.14.0
+pyglottolog==4.0.0
 pyigt==2.2.0
 pylatexenc==2.10
--e git+https://github.com/lexibank/pylexibank@592c29355369f1e032d22704b6cd9ff59824c83b#egg=pylexibank
+-e git+https://github.com/lexibank/pylexibank@fb368c5cf09ed19d7b393223fe3f5fdba4760dce#egg=pylexibank
 pyparsing==3.2.1
 pyproj==3.7.1
 pytest==8.3.4
@@ -80,11 +83,13 @@ tabulate==0.9.0
 termcolor==2.5.0
 texttable==1.7.0
 threadpoolctl==3.5.0
+tomlkit==0.15.0
 toyplot==2.0.0
 toytree==2.0.5
 tqdm==4.67.1
-typing_extensions==4.12.2
+typing_extensions==4.15.0
 uritemplate==4.1.1
-urllib3==2.3.0
+urllib3==2.7.0
+wcwidth==0.7.0
+webencodings==0.5.1
 xlrd==2.0.1
-zenodoclient==0.5.1

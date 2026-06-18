@@ -67,7 +67,7 @@ Following [Levinson](../sources/Levinson1996) ([1996](../sources/Levinson1996)) 
     etc). Many Oceanic languages in addition have deictic directional morphemes in their
     verb phrases (or sometimes in locative phrases) which indicate whether direction
     associated with the event is towards the speaker and/or, in some languages, towards
-    the addressee.[^1]
+    the addressee.[^1]:
 
 
 <a id="p-231"></a>
@@ -85,7 +85,7 @@ Relationships between widespread Oceanic categories that probably existed in POc
     directions. In single-verb predicates and in serial verb constructions these
     morphemes are verbs. Elsewhere they are morphemes grammaticised from
     verbs. Grammaticisation had probably already occurred in some cases in Proto
-    Oceanic ([Ross 2003](../sources/Ross2003)).[^2]
+    Oceanic ([Ross 2003](../sources/Ross2003)).[^2]:
 (c) __Demonstratives__ are used as static _deictics_. The reconstruction of demonstratives
     is not treated in this chapter.
 
@@ -131,20 +131,20 @@ In POc and indeed throughout the history of many Oceanic subgroups there were th
 
  1. __Personal__: personal proper names and kin terms used of known individuals. In POc a
     __personal noun phrase construction__ consisted of the personal article _&ast;i_ or _&ast;e_ plus a
-    personal noun,[^3] reflected in Taiof (MM) _e Maras_ ‘Maras (proper name)’, _e cina-nai_
-    (ART mother-P:3SG) ‘his/her mother’.[^4] In Longgu (SES) personal nouns occur without
+    personal noun,[^3]: reflected in Taiof (MM) _e Maras_ ‘Maras (proper name)’, _e cina-nai_
+    (ART mother-P:3SG) ‘his/her mother’.[^4]: In Longgu (SES) personal nouns occur without
     an article, but POc _&ast;i_ is reflected in the ‘pronominal article’ in _i gira_ ‘they’ and other
     free pronouns.
  2. __Common__: human nouns and non-human animates when not used of known
     individuals, as well as inanimates and abstract nouns. A common noun with a specific
     referent was in most cases preceded by the common article _&ast;a_ or _&ast;na_, as in POc _&ast;a_/_na_
-    _Rumaq_ ‘a/the house’.[^5] The construction is reflected in Taiof _a numa_ ‘a/the house’,
+    _Rumaq_ ‘a/the house’.[^5]: The construction is reflected in Taiof _a numa_ ‘a/the house’,
     _a patu-re_ (ART head-P:3PL) ‘their heads’; Longgu _a komu-i_ (ART village-SG) ‘the
-    village’[^6]. If such a noun was used in an __adjunct construction__ it was preceded by the
-    sequence _&ast;i ta-_, as in POc _&ast;i ta-ña Rumaq_ (PREP &ast;ta-P:3SG house) ‘at a/the house’.[^7] In
+    village’[^6]:. If such a noun was used in an __adjunct construction__ it was preceded by the
+    sequence _&ast;i ta-_, as in POc _&ast;i ta-ña Rumaq_ (PREP &ast;ta-P:3SG house) ‘at a/the house’.[^7]: In
     this construction _&ast;ta-_ was a monovalent semantically empty noun. In most Oceanic
     languages where this latter construction is reflected, however, _&ast;i_ has dropped out,
-    leaving _&ast;ta-_ as a preposition.[^8] Hence Taiof _ta-na patu-na tober_
+    leaving _&ast;ta-_ as a preposition.[^8]: Hence Taiof _ta-na patu-na tober_
     (PREP-P:3SG head-P:3SG hill) ‘on top of the hill’, Longgu _ta-na iola-i_ (PREP-P:3SG canoe-SG).
  3. __Local__: nouns used with reference to a specific location, a time, or an intrinsically
     located part of something. The POc __local construction__ consisted of the preposition &ast;i
@@ -156,7 +156,7 @@ In POc and indeed throughout the history of many Oceanic subgroups there were th
     (c) temporal nouns;
     (d) monovalent relational nouns, e.g. nouns denoting intrinsic parts, like ‘inside’, ‘upper surface or space  above’, ‘lower surface’, ‘space beneath’ and so on;
     In Taiof a local noun may form a locative expression without a preposition (i.e. _&ast;i_ has
-    been lost), like _koma-na matan_ below.[^9] A locative expression with a common noun
+    been lost), like _koma-na matan_ below.[^9]: A locative expression with a common noun
    must be formed with a preposition.
 
 <ul style="list-style: none;"><li>
@@ -1669,7 +1669,7 @@ cf. also:
 ### 2.3. Relational local nouns
 
 
-The function of a POc monovalent relational local noun preceded by _&ast;i_ was similar to that of an English preposition, as in these Tabar (MM) examples, where the relational noun _paki-_ ‘underneath’ performs a function similar to that of the English preposition under.[^10]
+The function of a POc monovalent relational local noun preceded by _&ast;i_ was similar to that of an English preposition, as in these Tabar (MM) examples, where the relational noun _paki-_ ‘underneath’ performs a function similar to that of the English preposition under.[^10]:
 
 <ul style="list-style: none;"><li>
 <ol type="a"><li>
@@ -1807,7 +1807,7 @@ POc<table style="padding-left: 2em;" class="igt">
 </ul></li>
 </ul>
 
-Many Oceanic languages have relational nouns with the meanings reconstructed below: ‘inside’ ([§2.3.1](../contributions/2-8#s-2-3-1)), ‘underneath, lower surface, space below’ ([§2.3.2](../contributions/2-8#s-2-3-2)), ‘top, upper surface, space above’ ([§2.3.3](../contributions/2-8#s-2-3-3)), ‘side’ ([§2.3.4](../contributions/2-8#s-2-3-4)), ‘outside’ ([§2.3.5](../contributions/2-8#s-2-3-5)), ‘front, time before’ ([§2.3.6](../contributions/2-8#s-2-3-6)), ‘back, space behind, time after’ ([§2.3.7](../contributions/2-8#s-2-3-7)). Although the nearest semantic equivalents of Oceanic relational nouns are English prepositions, I have used nouns and noun phrases in the titles of these subsections in an attempt to replicate the meanings of the reconstructed Oceanic terms.[^11]
+Many Oceanic languages have relational nouns with the meanings reconstructed below: ‘inside’ ([§2.3.1](../contributions/2-8#s-2-3-1)), ‘underneath, lower surface, space below’ ([§2.3.2](../contributions/2-8#s-2-3-2)), ‘top, upper surface, space above’ ([§2.3.3](../contributions/2-8#s-2-3-3)), ‘side’ ([§2.3.4](../contributions/2-8#s-2-3-4)), ‘outside’ ([§2.3.5](../contributions/2-8#s-2-3-5)), ‘front, time before’ ([§2.3.6](../contributions/2-8#s-2-3-6)), ‘back, space behind, time after’ ([§2.3.7](../contributions/2-8#s-2-3-7)). Although the nearest semantic equivalents of Oceanic relational nouns are English prepositions, I have used nouns and noun phrases in the titles of these subsections in an attempt to replicate the meanings of the reconstructed Oceanic terms.[^11]:
 
 In their monovalent form, relational local nouns are reconstructed below like other monovalent nouns, i.e. without their final consonant, on the assumption that it was lost before a possessor suffix: for example, _&ast;lalom_ ‘inside’ became _&ast;lalo-_, &ast;papak ‘underneath’ became _&ast;papa-_. However, as I note in [Lynch et al.](../sources/Lynchetal2002) ([2002](../sources/Lynchetal2002), Ch. 4), there is some evidence from Tanna languages (SV) that POc retained the final consonant in this context, so that, e.g., POc _&ast;lalo-ña_ in the reconstructed example above may have been (optionally?) _&ast;lalom-ña_.
 
@@ -1820,7 +1820,7 @@ In their monovalent form, relational local nouns are reconstructed below like ot
 
 <a id="p-246"></a>
 
-The most widely reflected POc term for ‘inside’ is _&ast;lalo-_/_&ast;lalom_. This reflects PMP _&ast;Daləm_ with assimilation of the initial liquid to the intervocalic liquid: the expected POc form is _&ast;&ast;ralo-_/_&ast;&ast;ralom_. Reconstruction of unsuffixed _&ast;lalom_ is supported by just one reflex, Mussau _e-lom-e_.[^12]
+The most widely reflected POc term for ‘inside’ is _&ast;lalo-_/_&ast;lalom_. This reflects PMP _&ast;Daləm_ with assimilation of the initial liquid to the intervocalic liquid: the expected POc form is _&ast;&ast;ralo-_/_&ast;&ast;ralom_. Reconstruction of unsuffixed _&ast;lalom_ is supported by just one reflex, Mussau _e-lom-e_.[^12]:
 
 In Polynesian languages reflexes of _&ast;lalo-_/_&ast;lalom_ denote the region underneath something. [Blust](../sources/Blust1997) ([1997](../sources/Blust1997)) suggests that this meaning change comes from the use of _&ast;lalom_ in relation to a planar surface, the sea, rather than a three-dimensional container.
 
@@ -3335,7 +3335,7 @@ It is reasonably clear that the ‘inside’/‘outside’ opposition found in E
 
 <a id="p-256"></a>
 
-The terms in the set below could tempt us to reconstruct POc _&ast;luku-_ ‘side, outside’.[^16] However, their uneven distribution is suspicious, and it seems far more likely that they reflect PMP _&ast;likuD_, POc _&ast;liku(r)_ ‘(person’s) back’ ([Blust 1981b](../sources/Blust1981b)). The meaning of scattered reflexes of this word has extended to include the backs and rear parts of inanimate objects (like POc _&ast;muri[-]_), and thence the external surfaces of objects in general. The specification of ‘back’ in the Marshallese and Woleaian reflexes below supports this interpretation.
+The terms in the set below could tempt us to reconstruct POc _&ast;luku-_ ‘side, outside’.[^16]: However, their uneven distribution is suspicious, and it seems far more likely that they reflect PMP _&ast;likuD_, POc _&ast;liku(r)_ ‘(person’s) back’ ([Blust 1981b](../sources/Blust1981b)). The meaning of scattered reflexes of this word has extended to include the backs and rear parts of inanimate objects (like POc _&ast;muri[-]_), and thence the external surfaces of objects in general. The specification of ‘back’ in the Marshallese and Woleaian reflexes below supports this interpretation.
 
 <table id="2-8-2-3-256-yap-yapese-wuu">
 <tr>
@@ -3653,7 +3653,7 @@ In NCV languages we find reflexes of the adverb _&ast;qa-muqa_ ‘in front, form
 
 There is evidence in Western Oceanic languages for a competing form _&ast;muga_. This occurs far more often in verbal reflexes than does _&ast;muqa_, so it is possible that _&ast;muga_ was the POc verb, and that &ast;muqa supplanted _&ast;muga_ in PEOc. The possibility of conflating the two terms is illustrated in Vitu and Bali, dialects of the Bali-Vitu language. In one, Vitu, the monovalent term for ‘front’ is _muɣa-_, reflecting _&ast;muqa_, whilst in the other, Bali, it is _muga-_, reflecting _&ast;muga_. Since reflexes of _&ast;muga_ are otherwise not monovalent, it is reasonable to infer that this is a conflation whereby the noun _muɣa-_ has been replaced by the verb-form _muga_.
 
-Although _&ast;muqa_ and _&ast;muga_ are formally similar, a historical relationship between them is problematic: we would expect an alternation between POc _&ast;k_ and _&ast;g_, but not between _&ast;q_ and _&ast;g_.[^17]
+Although _&ast;muqa_ and _&ast;muga_ are formally similar, a historical relationship between them is problematic: we would expect an alternation between POc _&ast;k_ and _&ast;g_, but not between _&ast;q_ and _&ast;g_.[^17]:
 
 <table class="cognateset" id="2-8-2-3-258-PWOc-muga-a">
 <tr>
@@ -4729,204 +4729,150 @@ The interrogative local noun ‘where?’ was POc _&ast;pai_. Micronesian reflex
 
 Also found are forms which appear to reflect _&ast;pea_, _&ast;pia_ and, in Polynesian, PPn _&ast;fē_. These probably reflect POc _&ast;pai-a_ (cf. Numbami _aia_, Sursurunga _aiə_, Uruava _veia_ above), together with vowel sequence reductions which have occurred independently but in parallel. The step from POc _&ast;paia_ to _&ast;pea_ is an obvious one. In a number of languages the height distance between the vowels of _&ast;pea_ has been maximised, giving _&ast;pia_. And in Polynesian, an innovation which is regular in Tongic and sporadic in some other Polynesian languages apparently produced _&ast;fē_ as an alternant to _&ast;fea_ (< _&ast;pea_ < _&ast;paia_). The forms are listed below. Where a reconstruction is preceded by a question mark, the forms beneath it may be the result of parallel developments.
 
-<table id="2-8-2-4-265-adm-mussau-bea">
+<table class="cognateset" id="2-8-2-4-265-POc-pea-a">
 <tr>
-<td>Adm</td>
-<td><a href="../languages/mussau">Mussau</a></td>
-<td style="white-space: nowrap"><i>bea</i></td>
-<td>
-'<span>where?</span>'</td>
+<td><strong>POc</strong></td><td> </td>
+<td style="white-space: nowrap;">
+<i>&ast;pea</i>
+</td>
+<td>[(N LOC) ] '<span>where at?</span>'</td>
 </tr>
 <tr>
-<td>NCV</td>
-<td><a href="../languages/mota">Mota</a></td>
-<td style="white-space: nowrap"><i>vea</i></td>
-<td>
-'<span>where?</span>'</td>
+<td>Adm</td><td><a href="../languages/mussau">Mussau</a></td><td style="white-space: nowrap;"><i>bea</i></td>
+<td>'<span>where?</span>'</td>
 </tr>
 <tr>
-<td>NCV</td>
-<td><a href="../languages/kiai">Kiai</a></td>
-<td style="white-space: nowrap"><i>vea</i></td>
-<td>
-'<span>where?</span>'</td>
+<td><strong>PNCV</strong></td><td> </td>
+<td style="white-space: nowrap;">
+<i>&ast;vea, &ast;bea</i>
+</td>
+<td></td>
 </tr>
 <tr>
-<td>NCV</td>
-<td><a href="../languages/tamambo">Tamambo</a></td>
-<td style="white-space: nowrap"><i>(a)bea</i></td>
-<td>
-'<span>where?</span>'</td>
+<td>NCV</td><td><a href="../languages/mota">Mota</a></td><td style="white-space: nowrap;"><i>vea</i></td>
+<td>'<span>where?</span>'</td>
 </tr>
 <tr>
-<td>Pn</td>
-<td><a href="../languages/tongan">Tongan</a></td>
-<td style="white-space: nowrap"><i>fē</i></td>
-<td>
-'<span>where?</span>'</td>
+<td>NCV</td><td><a href="../languages/kiai">Kiai</a></td><td style="white-space: nowrap;"><i>vea</i></td>
+<td>'<span>where?</span>'</td>
 </tr>
 <tr>
-<td>Pn</td>
-<td><a href="../languages/niuean">Niuean</a></td>
-<td style="white-space: nowrap"><i>fē</i></td>
-<td>
-'<span>where?</span>'</td>
+<td>NCV</td><td><a href="../languages/tamambo">Tamambo</a></td><td style="white-space: nowrap;"><i>(a)bea</i></td>
+<td>'<span>where?</span>'</td>
 </tr>
 <tr>
-<td>Pn</td>
-<td><a href="../languages/samoan">Samoan</a></td>
-<td style="white-space: nowrap"><i>fea</i></td>
-<td>
-'<span>where?</span>'</td>
+<td><strong>PPn</strong></td><td> </td>
+<td style="white-space: nowrap;">
+<i>&ast;[i] fea</i>
+</td>
+<td>[(ADV) ] '<span>where at?</span>'</td>
 </tr>
 <tr>
-<td>Pn</td>
-<td><a href="../languages/anutan">Anutan</a></td>
-<td style="white-space: nowrap"><i>pea</i></td>
-<td>
-'<span>where?</span>'</td>
+<td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td style="white-space: nowrap;"><i>fē</i></td>
+<td>'<span>where?</span>'</td>
 </tr>
 <tr>
-<td>Pn</td>
-<td><a href="../languages/eastfutunan">East Futunan</a></td>
-<td style="white-space: nowrap"><i>fea</i></td>
-<td>
-'<span>where?</span>'</td>
+<td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td style="white-space: nowrap;"><i>fē</i></td>
+<td>'<span>where?</span>'</td>
 </tr>
 <tr>
-<td>Pn</td>
-<td><a href="../languages/eastuvean">East Uvean</a></td>
-<td style="white-space: nowrap"><i>fea</i></td>
-<td>
-'<span>where?</span>'</td>
+<td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>fea</i></td>
+<td>'<span>where?</span>'</td>
 </tr>
 <tr>
-<td>Pn</td>
-<td><a href="../languages/tikopia">Tikopia</a></td>
-<td style="white-space: nowrap"><i>fea</i></td>
-<td>
-'<span>where? what? when?</span>'</td>
+<td>Pn</td><td><a href="../languages/anutan">Anutan</a></td><td style="white-space: nowrap;"><i>pea</i></td>
+<td>'<span>where?</span>'</td>
 </tr>
 <tr>
-<td>Pn</td>
-<td><a href="../languages/ifiramele">Ifira-Mele</a></td>
-<td style="white-space: nowrap"><i>(i)fea</i></td>
-<td>
-'<span>where at?</span>'</td>
+<td>Pn</td><td><a href="../languages/eastfutunan">East Futunan</a></td><td style="white-space: nowrap;"><i>fea</i></td>
+<td>'<span>where?</span>'</td>
 </tr>
 <tr>
-<td>Pn</td>
-<td><a href="../languages/hawaiian">Hawaiian</a></td>
-<td style="white-space: nowrap"><i>hea</i></td>
-<td>
-'<span>where?</span>'</td>
+<td>Pn</td><td><a href="../languages/eastuvean">East Uvean</a></td><td style="white-space: nowrap;"><i>fea</i></td>
+<td>'<span>where?</span>'</td>
 </tr>
 <tr>
-<td>Pn</td>
-<td><a href="../languages/maori">Māori</a></td>
-<td style="white-space: nowrap"><i>ɸea</i></td>
-<td>
-'<span>where?</span>'</td>
+<td>Pn</td><td><a href="../languages/tikopia">Tikopia</a></td><td style="white-space: nowrap;"><i>fea</i></td>
+<td>'<span>where? what? when?</span>'</td>
 </tr>
 <tr>
-<td>Pn</td>
-<td><a href="../languages/tahitian">Tahitian</a></td>
-<td style="white-space: nowrap"><i>hea</i></td>
-<td>
-'<span>where?</span>'</td>
+<td>Pn</td><td><a href="../languages/ifiramele">Ifira-Mele</a></td><td style="white-space: nowrap;"><i>(i)fea</i></td>
+<td>'<span>where at?</span>'</td>
 </tr>
 <tr>
-<td>Pn</td>
-<td><a href="../languages/kapingamarangi">Kapingamarangi</a></td>
-<td style="white-space: nowrap"><i>hē</i></td>
-<td>
-'<span>where</span>'</td>
+<td>Pn</td><td><a href="../languages/hawaiian">Hawaiian</a></td><td style="white-space: nowrap;"><i>hea</i></td>
+<td>'<span>where?</span>'</td>
 </tr>
 <tr>
-<td>NCV</td>
-<td><a href="../languages/tirax">Tirax</a></td>
-<td style="white-space: nowrap"><i>fē</i></td>
-<td>
-'<span>where?</span>'</td>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td style="white-space: nowrap;"><i>ɸea</i></td>
+<td>'<span>where?</span>'</td>
 </tr>
 <tr>
-<td>Pn</td>
-<td><a href="../languages/nukuria">Nukuria</a></td>
-<td style="white-space: nowrap"><i>ihē</i></td>
-<td>
-'<span>where?</span>'</td>
+<td>Pn</td><td><a href="../languages/tahitian">Tahitian</a></td><td style="white-space: nowrap;"><i>hea</i></td>
+<td>'<span>where?</span>'</td>
 </tr>
 <tr>
-<td>MM</td>
-<td><a href="../languages/nehan">Nehan</a></td>
-<td style="white-space: nowrap"><i>ia</i></td>
-<td>
-'<span>where?</span>'</td>
+<td>Pn</td><td><a href="../languages/kapingamarangi">Kapingamarangi</a></td><td style="white-space: nowrap;"><i>hē</i></td>
+<td>'<span>where</span>'</td>
 </tr>
 <tr>
-<td>MM</td>
-<td><a href="../languages/solos">Solos</a></td>
-<td style="white-space: nowrap"><i>īa</i></td>
-<td>
-'<span>where?</span>'</td>
+<td>NCV</td><td><a href="../languages/tirax">Tirax</a></td><td style="white-space: nowrap;"><i>fē</i></td>
+<td>'<span>where?</span>'</td>
 </tr>
 <tr>
-<td>MM</td>
-<td><a href="../languages/petats">Petats</a></td>
-<td style="white-space: nowrap"><i>īa</i></td>
-<td>
-'<span>where?</span>'</td>
+<td>Pn</td><td><a href="../languages/nukuria">Nukuria</a></td><td style="white-space: nowrap;"><i>ihē</i></td>
+<td>'<span>where?</span>'</td>
 </tr>
 <tr>
-<td>MM</td>
-<td><a href="../languages/taiof">Taiof</a></td>
-<td style="white-space: nowrap"><i>ifia</i></td>
-<td>
-'<span>where?</span>'</td>
+<td><strong>POc</strong></td><td> </td>
+<td style="white-space: nowrap;">
+<i>&ast;[i] pia</i>
+</td>
+<td>[(N LOC) ] '<span>where at?</span>'</td>
 </tr>
 <tr>
-<td>MM</td>
-<td><a href="../languages/monoalu">Mono-Alu</a></td>
-<td style="white-space: nowrap"><i>hi(na)</i></td>
-<td>
-'<span>where?</span>'</td>
+<td>MM</td><td><a href="../languages/nehan">Nehan</a></td><td style="white-space: nowrap;"><i>ia</i></td>
+<td>'<span>where?</span>'</td>
 </tr>
 <tr>
-<td>MM</td>
-<td><a href="../languages/nduke">Nduke</a></td>
-<td style="white-space: nowrap"><i>(o)via</i></td>
-<td>
-'<span>where?</span>'</td>
+<td>MM</td><td><a href="../languages/solos">Solos</a></td><td style="white-space: nowrap;"><i>īa</i></td>
+<td>'<span>where?</span>'</td>
 </tr>
 <tr>
-<td>SES</td>
-<td><a href="../languages/gela">Gela</a></td>
-<td style="white-space: nowrap"><i>via</i></td>
-<td>
-'<span>wherever, of whatever kind, where, what, which</span>'</td>
+<td>MM</td><td><a href="../languages/petats">Petats</a></td><td style="white-space: nowrap;"><i>īa</i></td>
+<td>'<span>where?</span>'</td>
 </tr>
 <tr>
-<td>NCV</td>
-<td><a href="../languages/portsandwich">Port Sandwich</a></td>
-<td style="white-space: nowrap"><i>(a)ᵐbi</i></td>
-<td>
-'<span>where?</span>'</td>
+<td>MM</td><td><a href="../languages/taiof">Taiof</a></td><td style="white-space: nowrap;"><i>ifia</i></td>
+<td>'<span>where?</span>'</td>
 </tr>
 <tr>
-<td>Pn</td>
-<td><a href="../languages/maori">Māori</a></td>
-<td style="white-space: nowrap"><i>hia</i></td>
-<td>
-'<span>where?</span>'</td>
+<td>MM</td><td><a href="../languages/monoalu">Mono-Alu</a></td><td style="white-space: nowrap;"><i>hi(na)</i></td>
+<td>'<span>where?</span>'</td>
 </tr>
 <tr>
-<td>Pn</td>
-<td><a href="../languages/tahitian">Tahitian</a></td>
-<td style="white-space: nowrap"><i>hia</i></td>
-<td>
-'<span>where?</span>'</td>
+<td>MM</td><td><a href="../languages/nduke">Nduke</a></td><td style="white-space: nowrap;"><i>(o)via</i></td>
+<td>'<span>where?</span>'</td>
+</tr>
+<tr>
+<td>SES</td><td><a href="../languages/gela">Gela</a></td><td style="white-space: nowrap;"><i>via</i></td>
+<td>'<span>wherever, of whatever kind, where, what, which</span>'</td>
+</tr>
+<tr>
+<td>NCV</td><td><a href="../languages/portsandwich">Port Sandwich</a></td><td style="white-space: nowrap;"><i>(a)ᵐbi</i></td>
+<td>'<span>where?</span>'</td>
+</tr>
+<tr>
+<td>Pn</td><td><a href="../languages/maori">Māori</a></td><td style="white-space: nowrap;"><i>hia</i></td>
+<td>'<span>where?</span>'</td>
+</tr>
+<tr>
+<td>Pn</td><td><a href="../languages/tahitian">Tahitian</a></td><td style="white-space: nowrap;"><i>hia</i></td>
+<td>'<span>where?</span>'</td>
 </tr>
 </table>
+
+
 
 
 <a id="p-266"></a>
@@ -4947,7 +4893,7 @@ Directional verbs can be conveniently divided into verbs of __deictic direction_
 
 Directional verbs play an important role in certain serial verb constructions in Oceanic languages, and they evidently did so in POc, to judge both from the wide distribution of such constructions today and from grammaticised versions of these constructions ([Ross 2003](../sources/Ross2003)).
 
-Verbs of deictic direction occur in serial verb constructions of deictic direction, where they follow a verb of locomotion (transitive or intransitive) or a verb of geographic direction. The examples below are from Yabem (NNG). In both the first two examples, the deictic directional verb is _-yà_ ‘go away from speaker and addressee’.[^19] In the first example it follows the locomotion verb _-lob_ ‘fly’, in the second the geographic directional verb _-pi_ ‘go up’.
+Verbs of deictic direction occur in serial verb constructions of deictic direction, where they follow a verb of locomotion (transitive or intransitive) or a verb of geographic direction. The examples below are from Yabem (NNG). In both the first two examples, the deictic directional verb is _-yà_ ‘go away from speaker and addressee’.[^19]: In the first example it follows the locomotion verb _-lob_ ‘fly’, in the second the geographic directional verb _-pi_ ‘go up’.
 
 
 <a id="p-267"></a>
@@ -6216,7 +6162,7 @@ Some or all of the forms below probably also reflect POc _&ast;sake_ ‘go upwar
 #### 3.3.3. _&ast;sipo_ and _&ast;sake_ as directions at sea
 
 
-Above I noted [François’](../sources/Francois2004a) ([2004a](../sources/Francois2004a)) reconstruction of POc speakers’ use of terms for ‘go downward’ and ‘go upward’ for ‘go northwest’ and ‘go southeast’, i.e. directions corresponding with those of the major winds. François assumes that the relevant POc terms were _&ast;sipo_ and _&ast;sake_, reconstructed in §[§3.3.1](../contributions/2-8#s-3-3-1)–3.3.2. As these were the generic terms for ‘go downward’ and ‘go upward’, his assumption is probably correct, but it is not particularly well supported by the available data, as the sets below show. In fact, all supporting data for both terms in these meanings come from Eastern Oceanic languages. The Yabem and Motu reflexes of _&ast;sipo_ have ‘wrong’ directions in their glosses. This may mean that this use of &ast;sake and _&ast;sipo_ was an Eastern Oceanic innovation, but it may also mean that insufficient Western Oceanic (and Admiralties) systems have been carefully recorded. In a number of Western Oceanic languages, ‘east’ and ‘west’ are translated as ‘place where the sun rises’ and ‘place where the sun sets’, but these phrasal expressions may be modern renderings of English ‘east’ and ‘west’.
+Above I noted [François’](../sources/Francois2004a) ([2004a](../sources/Francois2004a)) reconstruction of POc speakers’ use of terms for ‘go downward’ and ‘go upward’ for ‘go northwest’ and ‘go southeast’, i.e. directions corresponding with those of the major winds. François assumes that the relevant POc terms were _&ast;sipo_ and _&ast;sake_, reconstructed in §§[3.3.1](../contributions/2-8#s-3-3-1)-[3.3.2](../contributions/2-8#s-3-3-2). As these were the generic terms for ‘go downward’ and ‘go upward’, his assumption is probably correct, but it is not particularly well supported by the available data, as the sets below show. In fact, all supporting data for both terms in these meanings come from Eastern Oceanic languages. The Yabem and Motu reflexes of _&ast;sipo_ have ‘wrong’ directions in their glosses. This may mean that this use of &ast;sake and _&ast;sipo_ was an Eastern Oceanic innovation, but it may also mean that insufficient Western Oceanic (and Admiralties) systems have been carefully recorded. In a number of Western Oceanic languages, ‘east’ and ‘west’ are translated as ‘place where the sun rises’ and ‘place where the sun sets’, but these phrasal expressions may be modern renderings of English ‘east’ and ‘west’.
 
 <table class="cognateset" id="2-8-3-3-275-POc-sipo-a">
 <tr>
@@ -6552,38 +6498,38 @@ Proto Oceanic deixis was person-oriented. That is, there were forms with the mea
 
 A reconstruction of POc demonstrative forms is beyond the scope of this chapter, but a sample of person-oriented systems is given below. The forms given are those used adnominally, except where shown (they may also have other language-specific uses).
 
-|       |               | near speaker                                   | near addressee      | distal                     |
-|:------|:--------------|:-----------------------------------------------|:--------------------|:---------------------------|
-| Adm:  | Mussau        | _toko_                                         | _o[ia]_             | _teke_                     |
-| NNG:  | Lukep (Pono)  | _i_                                            | _in_                | _ni_                       |
-| NNG:  | Yabem         | _tɔnɛʔ_                                        | _tɔnaŋ_             | _tone_                     |
-| NNG:  | Kairiru       | _an_                                           | _at_                | _nai_                      |
-| PT:   | Gapapaiwa     | _we-ni_                                        | _na-ni_             | _noko-ni_                  |
-| PT:   | Gumawana      | _ame_                                          | _moe_               | _amo_                      |
-| PT:   | Sinaugoro     | _mai_                                          | _mani_              | _mo[a]_                    |
-| MM:   | Bali          | _-ani_                                         | _-ina_              | _-ini_                     |
-| MM:   | Tigak         | _gura_                                         | _gara_              | _tara_                     |
-| MM:   | Roviana SG    | _hie_                                          | _isa_               | _hoi_                      |
-| SES:  | Bugotu        | _ani_, _eni_                                   | _ŋeni_, _ari_       | _ŋgeri_                    |
-| NCV:  | Araki         | _ne_, _kesi_                                   | _ho-ni_, _v̈aha-ni_ | _v̈a[ha]-su_               |
-| NCV:  | Lewo          | _nini_ (also _nene_ ‘near speaker and hearer’) | _namʷā_             | _nena_                     |
-| SV:   | Anejom PRO SG | _niñ[ki]_, _nī_                                | _nā[nai]_           | _nai[kou]_                 |
-| NCal: | Tinrin        | _=ha_                                          | _=mʷã_              | _=ṛa_                      |
-| NCal: | Iaai          | _āŋ_                                           | _ē_                 | _e-lē_                     |
-| Mic:  | Kosraean      | _ʌ_                                            | _an_                | _o_                        |
-| Mic:  | Ulithian      | _-ē_                                           | _-lā_               | _-lāy_                     |
-| Fij:  | Boumaa        | _yai_, _ī_                                     | _yā_                | _mayā_                     |
-| Fij:  | Wailevu       | _ɣā_                                           | _ɣāri_              | _ɣaðei_                    |
-| Pn:   | Tongan        | _ni_                                           | _na_                | _ia_ (also _ē_ ‘pointing’) |
-| Pn:   | Pileni        | _ne[i]_                                        | _na_                | _la_                       |
-| Pn:   | Marquesan     | _nei_                                          | _nā_                | _ʔā_, _aʔa_                |
+|       |               | near speaker                                   | near addressee     | distal                     |
+|:------|:--------------|:-----------------------------------------------|:-------------------|:---------------------------|
+| Adm:  | Mussau        | _toko_                                         | _o[ia]_            | _teke_                     |
+| NNG:  | Lukep (Pono)  | _i_                                            | _in_               | _ni_                       |
+| NNG:  | Yabem         | _tɔnɛʔ_                                        | _tɔnaŋ_            | _tone_                     |
+| NNG:  | Kairiru       | _an_                                           | _at_               | _nai_                      |
+| PT:   | Gapapaiwa     | _we-ni_                                        | _na-ni_            | _noko-ni_                  |
+| PT:   | Gumawana      | _ame_                                          | _moe_              | _amo_                      |
+| PT:   | Sinaugoro     | _mai_                                          | _mani_             | _mo[a]_                    |
+| MM:   | Bali          | _-ani_                                         | _-ina_             | _-ini_                     |
+| MM:   | Tigak         | _gura_                                         | _gara_             | _tara_                     |
+| MM:   | Roviana SG    | _hie_                                          | _isa_              | _hoi_                      |
+| SES:  | Bugotu        | _ani_, _eni_                                   | _ŋeni_, _ari_      | _ŋgeri_                    |
+| NCV:  | Araki         | _ne_, _kesi_                                   | _ho-ni_, _v̈aha-ni_ | _v̈a[ha]-su_                |
+| NCV:  | Lewo          | _nini_ (also _nene_ ‘near speaker and hearer’) | _namʷā_            | _nena_                     |
+| SV:   | Anejom PRO SG | _niñ[ki]_, _nī_                                | _nā[nai]_          | _nai[kou]_                 |
+| NCal: | Tinrin        | _=ha_                                          | _=mʷã_             | _=ṛa_                      |
+| NCal: | Iaai          | _āŋ_                                           | _ē_                | _e-lē_                     |
+| Mic:  | Kosraean      | _ʌ_                                            | _an_               | _o_                        |
+| Mic:  | Ulithian      | _-ē_                                           | _-lā_              | _-lāy_                     |
+| Fij:  | Boumaa        | _yai_, _ī_                                     | _yā_               | _mayā_                     |
+| Fij:  | Wailevu       | _ɣā_                                           | _ɣāri_             | _ɣaðei_                    |
+| Pn:   | Tongan        | _ni_                                           | _na_               | _ia_ (also _ē_ ‘pointing’) |
+| Pn:   | Pileni        | _ne[i]_                                        | _na_               | _la_                       |
+| Pn:   | Marquesan     | _nei_                                          | _nā_               | _ʔā_, _aʔa_                |
 
 
 <a id="p-279"></a>
 
 The person-oriented system of deixis was manifested not only in demonstratives, but also in the system of deictic directional verbs. POc had a system with at least three members: ‘come to[wards] speaker’, ‘go/come to[wards] addressee’ and ‘go to a point away from both speaker and addressee’, glossed here as ‘come’, ‘go:2’ and ‘go:3’ respectively. There were possibly two ‘go:3’ verbs, however. One licensed a location expression, i.e. its basic meaning was ‘go to’. The other simply meant ‘go away (from speaker)’ and did not license a location expression. Thus in Kele (Adm) there is a contrast between _la_ ‘go to’ and _aw_ ‘go away’ ([Ross 2002f](../sources/Ross2002f)). This suggests that POc had a four-member system, and I will assume this here. Against this is the fact that I have found no language in which a four-member system is preserved.
 
-Three-member deictic directional verb systems are found right across Oceania,[^22] and a sample is given below. Some are reflected as directional enclitics, rather than as verbs. It is sometimes difficult to tell from a source whether the third member should be assigned to ‘go:3’ or ‘go away’. However, in languages where deictic directional verbs have become directional enclitics, the ‘go:3’ form has lost its capacity to license a location expression and inevitably means ‘go away’. Note that the two systems from the Admiralties make the contrast between ‘go:3’ and ‘go away’ which supports the reconstruction of a four-member system.
+Three-member deictic directional verb systems are found right across Oceania,[^22]: and a sample is given below. Some are reflected as directional enclitics, rather than as verbs. It is sometimes difficult to tell from a source whether the third member should be assigned to ‘go:3’ or ‘go away’. However, in languages where deictic directional verbs have become directional enclitics, the ‘go:3’ form has lost its capacity to license a location expression and inevitably means ‘go away’. Note that the two systems from the Admiralties make the contrast between ‘go:3’ and ‘go away’ which supports the reconstruction of a four-member system.
 
 |      |              | come         | go:2     | go:3   | go away                       |
 |:-----|:-------------|:-------------|:---------|:-------|:------------------------------|
@@ -6620,7 +6566,7 @@ The main deictic directional forms of POc, which account for the majority of the
 
 <a id="p-280"></a>
 
-Note that I reconstruct these POc forms as both verbs and directional adverbs. In [§3.2](../contributions/2-8#s-3-2) I briefly discussed the grammaticisation of deictic directional verbs as directional adverbs. This process raises the question, Were there already directional adverbs in POc, or are modern Oceanic directional adverbs the outcomes of independent parallel developments? The answer appears to be: both. Directional adverbs are so widespread in Oceanic languages that one may infer that they were already present in POc, otherwise we would not find such a plethora of reflexes of verbs as enclitics in modern Oceanic languages. On the other hand, there are cases where it is clear that the development of the directional adverb is more recent because it reflects not just the verb root but also accretions to it that have occurred in the history of the particular language.[^23] The Sobei (SJ) directional enclitics _-ema_ ‘towards speaker’ and _-ewo_ ‘away from speaker’ transparently reflect the verbs _-ma_ ‘come’ and _-wo_ ‘go’ with a fossilised third person singular subject marker _e-_. The Sye (SV) directional adverb _mpelom_ ‘towards speaker’ is transparently derived from the verb _velom_ ‘come’. This must be a late development, since _ve-lo-m_ seems itself to reflect the concatenation of three roots, _&ast;pano_/_&ast;pa_ ‘go away’, _&ast;lako_/_&ast;la_ ‘go’, and _&ast;ma_ ‘come; towards speaker’.
+Note that I reconstruct these POc forms as both verbs and directional adverbs. In [§3.2](../contributions/2-8#s-3-2) I briefly discussed the grammaticisation of deictic directional verbs as directional adverbs. This process raises the question, Were there already directional adverbs in POc, or are modern Oceanic directional adverbs the outcomes of independent parallel developments? The answer appears to be: both. Directional adverbs are so widespread in Oceanic languages that one may infer that they were already present in POc, otherwise we would not find such a plethora of reflexes of verbs as enclitics in modern Oceanic languages. On the other hand, there are cases where it is clear that the development of the directional adverb is more recent because it reflects not just the verb root but also accretions to it that have occurred in the history of the particular language.[^23]: The Sobei (SJ) directional enclitics _-ema_ ‘towards speaker’ and _-ewo_ ‘away from speaker’ transparently reflect the verbs _-ma_ ‘come’ and _-wo_ ‘go’ with a fossilised third person singular subject marker _e-_. The Sye (SV) directional adverb _mpelom_ ‘towards speaker’ is transparently derived from the verb _velom_ ‘come’. This must be a late development, since _ve-lo-m_ seems itself to reflect the concatenation of three roots, _&ast;pano_/_&ast;pa_ ‘go away’, _&ast;lako_/_&ast;la_ ‘go’, and _&ast;ma_ ‘come; towards speaker’.
 
 Three of the verbs listed above, _&ast;mai_/_&ast;ma_, _&ast;lako_/_&ast;la_ and _&ast;pano_/_&ast;pa_, have long and short forms. It is difficult to reconstruct the distribution of the long and short forms with any certainty, as they do not correspond with the division between verb and enclitic. However, there seem to be two contexts in which the short forms may have emerged, both of them in serial verb constructions. One was as the final verb of a deictic directional serial verb construction. The other was as the first verb of a sequential serial verb construction (the gloss V AUX is used to label these below). POc _&ast;watu_ and _&ast;ua_ look superficially like a long/short pair, but they are regionally distributed, unlike the other three pairs (p.286).
 
@@ -6641,7 +6587,7 @@ I also reconstruct the prepositional verb _&ast;tani_ ‘(go) away from’ below
 #### 3.4.3. ‘Come towards speaker’
 
 
-Blust (ACD) reconstructs PAn _&ast;aRi_, which in its root form was used imperatively as ‘come on’, ‘let’s go’ (Paiwan [Formosan] _ari_ ‘let’s go!’) and apparently survives in the Takia interjection _aria_ with the same meanings.[^24] The indicative form was PAn _&ast;maRi_ ‘come’ (from _&ast;um-aRi_, where _&ast;um_ is the actor focus infix; [vol.1,29](../contributions/1-2#p-29)), and this form is well reflected in Formosan and WMP languages. However, it seems likely that the variant _&ast;mai_ existed from the earliest times, as Blust notes Favorlang (Formosan) _mai_ and Yami (WMP) _mai_, and that _&ast;mai_ ousted reflexes of _&ast;maRi_ throughout the Central/Eastern Malayo-Polynesian grouping (e.g. Manggarai, Sikka, Rotinese _mai_) to which POc belonged.
+Blust (ACD) reconstructs PAn _&ast;aRi_, which in its root form was used imperatively as ‘come on’, ‘let’s go’ (Paiwan [Formosan] _ari_ ‘let’s go!’) and apparently survives in the Takia interjection _aria_ with the same meanings.[^24]: The indicative form was PAn _&ast;maRi_ ‘come’ (from _&ast;um-aRi_, where _&ast;um_ is the actor focus infix; [vol.1,29](../contributions/1-2#p-29)), and this form is well reflected in Formosan and WMP languages. However, it seems likely that the variant _&ast;mai_ existed from the earliest times, as Blust notes Favorlang (Formosan) _mai_ and Yami (WMP) _mai_, and that _&ast;mai_ ousted reflexes of _&ast;maRi_ throughout the Central/Eastern Malayo-Polynesian grouping (e.g. Manggarai, Sikka, Rotinese _mai_) to which POc belonged.
 
 
 <a id="p-281"></a>
@@ -7074,7 +7020,7 @@ Two alternant forms, POc _&ast;ua_ and _&ast;watu_, mean ‘go towards addressee
 
 <a id="p-284"></a>
 
-It is just possible that POc _&ast;ua_ reflects PAn _&ast;kuSa_ ‘go’. However, no reflexes of PAn _&ast;kuSa_ have been found in non-Oceanic languages outside Taiwan,[^28] and it is more likely that the Taiwan and Oceanic sets reflect different etyma, the more so as no member of the Oceanic set reflects PAn _&ast;k-_.
+It is just possible that POc _&ast;ua_ reflects PAn _&ast;kuSa_ ‘go’. However, no reflexes of PAn _&ast;kuSa_ have been found in non-Oceanic languages outside Taiwan,[^28]: and it is more likely that the Taiwan and Oceanic sets reflect different etyma, the more so as no member of the Oceanic set reflects PAn _&ast;k-_.
 
 Some of the reflexes of _&ast;ua_ can be confused with those of POc _&ast;pa_ and _&ast;ba_. That there is a contrast between _&ast;pa_ and _&ast;ua_ is attested by the pairs Adzera _fa_ ‘go’ (p.291) and _waʔ-_ ‘go out’ (p.286) and Kiriwina _va_ (PREP, p.292) and _wa_ (VF, below).
 
@@ -7264,7 +7210,7 @@ Proto South Vanuatu _&ast;un-_, which forms locative nouns from common nouns ([L
 
 Longgu _vu_ appears to be cognate with forms in the Malaita/Makira subgroup (SES) that reflect Proto Malaita/Makira _&ast;vua_ or _&ast;vuni_. [Lichtenberk](../sources/Lichtenberk1985b) ([1985b](../sources/Lichtenberk1985b)) attributes all these forms to POc _&ast;pani_ (V) ‘give’, (PREPV) ‘beneficiary case-marker’. The Malaita/Makira forms certainly have benefactive meanings, but Longgu _vu_ is clearly allative, and the best account of both its form and meaning is given by attributing it to _&ast;ua_ — although this means assuming that initial _&ast;v-_ has arisen by epenthesis. But what are we to do with the Malaita/Makira forms? The best explanation seems to be that there was a conflation of pre-Proto Malaita/Makira _&ast;vua_ ‘allative relator’ (cognate with Longgu _vu_ and reflecting POc _&ast;ua_) and _&ast;vani_ ‘beneficiary prepositional verb’ (reflecting POc _&ast;pani_), resulting in _&ast;vua_ with a benefactive function and _&ast;vuni_ with a form cobbled together from both items but in benefactive function.
 
-This interpretation is supported by the Longgu dative verbal preposition _wini-_, which takes an object pronoun suffix when it governs a first or second person referent, e.g. _wini-o_ DATIVE-O:2SG ‘to you’, but assumes the allomorph _wa-_ with a possessor pronoun suffix when it governs a third person, e.g. _wa-na_ DATIVE-P:3SG ‘to it/him/her’.[^29] As [Hill](../sources/Hill1992) ([1992](../sources/Hill1992):245) points out, _wa-_ overlaps semantically with _vu_ (< POc _&ast;ua_). It appears that _wini_ reflects POc _&ast;pani_ and _wa-_ POc _&ast;ua_, but the two form a single paradigm in Longgu. This inference would also explain the non-etymological initial _&ast;v-_ of _vu_: it is inherited from pre-Proto Malaita/Makira _&ast;vua_, where it resulted from ‘infection’ by _&ast;vani_.
+This interpretation is supported by the Longgu dative verbal preposition _wini-_, which takes an object pronoun suffix when it governs a first or second person referent, e.g. _wini-o_ DATIVE-O:2SG ‘to you’, but assumes the allomorph _wa-_ with a possessor pronoun suffix when it governs a third person, e.g. _wa-na_ DATIVE-P:3SG ‘to it/him/her’.[^29]: As [Hill](../sources/Hill1992) ([1992](../sources/Hill1992):245) points out, _wa-_ overlaps semantically with _vu_ (< POc _&ast;ua_). It appears that _wini_ reflects POc _&ast;pani_ and _wa-_ POc _&ast;ua_, but the two form a single paradigm in Longgu. This inference would also explain the non-etymological initial _&ast;v-_ of _vu_: it is inherited from pre-Proto Malaita/Makira _&ast;vua_, where it resulted from ‘infection’ by _&ast;vani_.
 
 The Bauan Fijian forms are tentatively included in the set above. The form _vuā_ again has epenthetic _v-_, but its meaning and the parallel with the prepositional use of _mai_ suggest that it reflects _&ast;ua_. More specifically, _vuā_ apparently reflects pre-Fijian _&ast;vua-i-a_ (go.towards-TR-O:3SG) and means ‘to/for/from/with him/her’. The form _vei_ is more problematic. It may reflect either _&ast;vua-i_ (go.towards-ART) or _&ast;pa-i_ (go.away-ART). Either way, _&ast;i_ is the personal article. Semantically, it is also possibe that _&ast;pani_ ‘give’ has played a role in the history of these forms, as they have a dative function.
 
@@ -7942,7 +7888,7 @@ POc _&ast;pano_ evidently had a short form _&ast;pa_, giving a pair analogous to
 
 
 
-The meanings of reflexes of _&ast;pa_ agree with those of _&ast;pano_, and the function of the Motu, Sinaugoro,[^32] Gela, and Mota reflexes of _&ast;pa_ (in three different subgroups) as a preverbal auxiliary is similar to that of the Sinaugoro reflexes of _&ast;ma_ and _&ast;la_ above. [Clark](../sources/Clark1996) ([1996](../sources/Clark1996)) notes that Nguna _vā_ ‘go’ is also described as a short form of _vano_. [Paton](../sources/Paton1973) ([1973](../sources/Paton1973)) describes Lonwolwol _va_ as a short form of _van_ ‘go, pass’, and therefore as a reflex of POc _&ast;pano_, but Blust (ACD) argues that his inference is unjustified since original medial nasals are otherwise retained in Lonwolwol. If, however, _va_ reflects POc _&ast;pa_, the objection disappears.
+The meanings of reflexes of _&ast;pa_ agree with those of _&ast;pano_, and the function of the Motu, Sinaugoro,[^32]: Gela, and Mota reflexes of _&ast;pa_ (in three different subgroups) as a preverbal auxiliary is similar to that of the Sinaugoro reflexes of _&ast;ma_ and _&ast;la_ above. [Clark](../sources/Clark1996) ([1996](../sources/Clark1996)) notes that Nguna _vā_ ‘go’ is also described as a short form of _vano_. [Paton](../sources/Paton1973) ([1973](../sources/Paton1973)) describes Lonwolwol _va_ as a short form of _van_ ‘go, pass’, and therefore as a reflex of POc _&ast;pano_, but Blust (ACD) argues that his inference is unjustified since original medial nasals are otherwise retained in Lonwolwol. If, however, _va_ reflects POc _&ast;pa_, the objection disappears.
 
 This leaves a loose end. Blust (ACD) takes the cognate set above to reflect PCEMP _&ast;ba_ ‘go, go away, walk’. [Clark](../sources/Clark1996) ([1996](../sources/Clark1996)), on the other hand, infers that the set above and PCEMP _&ast;ba_ are etymologically separate. It is true that the forms attributed to POc _&ast;pa_ above could reflect PCEMP _&ast;ba_: there is no phonological objection to this. But there are just a few Oceanic forms which reflect a POc locomotion verb _&ast;ba_ ‘go’ (Tolai [MM] _ba_ ‘tread, go’, Talise [SES] _ba_ ‘go’), and it seems likely that this _&ast;ba_ reflects PCEMP _&ast;ba_, whilst POc _&ast;pa_ is the short form of _&ast;pano_.
 
@@ -7951,7 +7897,7 @@ There are a number of apparent prepositional reflexes of _&ast;pano_/_&ast;pa_ �
 
 <a id="p-292"></a>
 
-These are POc _&ast;pani_ ‘give’, (PREPV) ‘benefactive’ and PWOc _&ast;pʷa_ (PREP) ‘instrumental, comitative’.[^33] There is also evidence of conflation.
+These are POc _&ast;pani_ ‘give’, (PREPV) ‘benefactive’ and PWOc _&ast;pʷa_ (PREP) ‘instrumental, comitative’.[^33]: There is also evidence of conflation.
 
 The clearest piece of evidence that _&ast;pano_/_&ast;pa_ played a role in the history of some of the items in the set below is that Hoava _pa_ behaves as a relator, i.e. it occurs before a preposition.
 

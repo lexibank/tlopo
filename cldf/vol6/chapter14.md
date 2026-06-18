@@ -5,7 +5,7 @@
 
 <a id="s-1"></a>
 
-## 1. Introduction and background[^1]
+## 1. Introduction and background[^1]:
 
 
 The reconstruction of POc numeral terms other than ‘one’ is relatively straightforward, as POc inherited a reconstructable PMP decimal system with single-word terms up to 100. Two related matters contribute to the length of this chapter, however. One is the evident existence of numeral classifiers in POc, intimately involved in the reconstruction of numerals. The other is a search for the reasons why POc numerals and classifiers constituted such an extensive system.
@@ -24,7 +24,7 @@ Both numeral and classifier terms were inherited by POc. Classifiers have been l
 ### 1.1. Numeral classifiers and their semantic classes
 
 
-Grammarians divide English common nouns into two categories. One consists of nouns like _banana_, _chair_ or _mouse_, which can form a plural and be counted: _three bananas_, _two chairs_, _six mice_. These are ‘count’ nouns. The other category contains ‘mass’ nouns, like _hay_, _firewood_ or _water_, so called because they denote an undifferentiated mass of something. On its own a mass noun cannot be counted. Phrases like _two hays_, _three firewoods_ or _six waters_ are odd,[^2] and such nouns are counted using another noun that measures relevant quantities: _two bundles of hay_, _three loads of firewood_, _six glasses of water_. A count noun can also be counted in this way, e.g., _two hands of bananas_, but _bananas_ retains its plural form in this construction.
+Grammarians divide English common nouns into two categories. One consists of nouns like _banana_, _chair_ or _mouse_, which can form a plural and be counted: _three bananas_, _two chairs_, _six mice_. These are ‘count’ nouns. The other category contains ‘mass’ nouns, like _hay_, _firewood_ or _water_, so called because they denote an undifferentiated mass of something. On its own a mass noun cannot be counted. Phrases like _two hays_, _three firewoods_ or _six waters_ are odd,[^2]: and such nouns are counted using another noun that measures relevant quantities: _two bundles of hay_, _three loads of firewood_, _six glasses of water_. A count noun can also be counted in this way, e.g., _two hands of bananas_, but _bananas_ retains its plural form in this construction.
 
 
 <a id="p-428"></a>
@@ -97,12 +97,12 @@ The structure of POc phrases using numeral classifiers is taken up in [§14.3](C
 ### 1.2. The decimal system, classifiers and cultural context
 
 
-The reconstructable forms of the POc decimal system are shown in [Table 14.1](#table-14.1), with crossreferences to the sections that justify the reconstruction. Under A, 2 to 6 are simple (single-morpheme) numerals. Under B and C are the complex numerals for 10s and 100s. No power above a hundred, however, is reconstructable with certainty to POc ([§14.4.6](ContributionTable?anchor=s-14-4-6#cldf:6-14)).
+The reconstructable forms of the POc decimal system are shown in [Table 14.1](#tab-14.1), with crossreferences to the sections that justify the reconstruction. Under A, 2 to 6 are simple (single-morpheme) numerals. Under B and C are the complex numerals for 10s and 100s. No power above a hundred, however, is reconstructable with certainty to POc ([§14.4.6](ContributionTable?anchor=s-14-4-6#cldf:6-14)).
 
 
 <a id="p-431"></a>
 
-<a id="table-14.1"> </a>
+<a id="tab-14.1"> </a>
 
 : __Table 14.1__     Reconstructable POc lexical numerals
 
@@ -183,7 +183,7 @@ People with counting skills were required at such ceremonies in Polynesia, wheth
 
 [Carrier](Source#cldf:Carrier1981) ([1981](Source#cldf:Carrier1981):471–474) describes ceremonial exchange on Ponam Island (Admiralties). Every important social event included exchange, usually between in-laws. A man made a gift to an in-law, who later presented a return gift. Descendants of siblings of the donor’s ancestors also contributed (and later the return gift would be distributed among them). The closer the relationship to the donor, the larger the contribution. At an appointed time the gifts amassed by each group of relatives were brought to the donor’s house and laid out on the ground in a formal display that represented the closeness of each group’s relationship to the donor. The donor or his representative then counted the gifts, announcing what was in each pile and in whose name it was given, then the goods were carried to the recipient’s house and placed in a single pile. Formal speeches ensued, then the recipient arranged the gifts to reflect the groups of relatives to whom he would distribute the gifts. He then also counted the gifts, and the ceremony ended.
 
-The ethnographic literature refers to the counting of feast gifts in other Oceanic communities. [Panoff](Source#cldf:Panoff1970) ([1970](Source#cldf:Panoff1970):364), writing about the Mengen (NNG) of New Britain, mentions the counting of taro tubers ceremonially brought from the gardens for a feast and of fish formally cooked in earth ovens on festive occasions. [Garde](Source#cldf:Garde2015) ([2015](Source#cldf:Garde2015):126) alludes to the counting of food items at feasts in Sa-speaking communities in Pentecost (NCV). [Bender and Beller](Source#cldf:BenderandBeller2007a) ([2007a](Source#cldf:BenderandBeller2007a)), summarising research into numeral use in Polynesian societies, comment that “A concern with collecting and redistributing resources was particularly strong in islands with powerful chiefs or kings, such as Tonga or Tahiti…”. [Alkire](Source#cldf:Alkire1970) ([1970](Source#cldf:Alkire1970)) describes the counting of coconuts associated with a funerary exchange on Woleai Atoll.[^3]
+The ethnographic literature refers to the counting of feast gifts in other Oceanic communities. [Panoff](Source#cldf:Panoff1970) ([1970](Source#cldf:Panoff1970):364), writing about the Mengen (NNG) of New Britain, mentions the counting of taro tubers ceremonially brought from the gardens for a feast and of fish formally cooked in earth ovens on festive occasions. [Garde](Source#cldf:Garde2015) ([2015](Source#cldf:Garde2015):126) alludes to the counting of food items at feasts in Sa-speaking communities in Pentecost (NCV). [Bender and Beller](Source#cldf:BenderandBeller2007a) ([2007a](Source#cldf:BenderandBeller2007a)), summarising research into numeral use in Polynesian societies, comment that “A concern with collecting and redistributing resources was particularly strong in islands with powerful chiefs or kings, such as Tonga or Tahiti…”. [Alkire](Source#cldf:Alkire1970) ([1970](Source#cldf:Alkire1970)) describes the counting of coconuts associated with a funerary exchange on Woleai Atoll.[^3]:
 
 The distribution of these customs across Oceanic subgroups suggests that they date back to the Lapita culture and that POc speakers counted gifts (mostly food), an effect of which was to maintain the inherited decimal counting system up to high powers of ten.
 
@@ -267,11 +267,11 @@ Enumerative classifiers have been recorded in many Oceanic languages (for specif
 
 > A reader of their ethnographic work may wonder how they knew there were 5,000 yam cakes or 20,000 yams, and why it was important to the communities to calculate exactly how many yam cakes or yams there were. There was no written numeration so, once counted, how did speakers remember these numbers?
 
-Hill & Unger’s answer is that SE Solomons languages use enumerative classifiers[^4] ([§14.1.1](ContributionTable?anchor=s-14-1-1#cldf:6-14)) to count items in tens, thereby reducing counting and memorisation (also [Bender & Beller 2007a](Source#cldf:BenderandBeller2007a), [2007b](Source#cldf:BenderandBeller2007b)). In (11) _paga_ is an enumerative classifier meaning ‘ten animals’. The structure is an analogue of English ‘a school of fish’, but _school_ specifies no quantity, whereas Lengo _paga_ is a group of ten animals.
+Hill & Unger’s answer is that SE Solomons languages use enumerative classifiers[^4]: ([§14.1.1](ContributionTable?anchor=s-14-1-1#cldf:6-14)) to count items in tens, thereby reducing counting and memorisation (also [Bender & Beller 2007a](Source#cldf:BenderandBeller2007a), [2007b](Source#cldf:BenderandBeller2007b)). In (11) _paga_ is an enumerative classifier meaning ‘ten animals’. The structure is an analogue of English ‘a school of fish’, but _school_ specifies no quantity, whereas Lengo _paga_ is a group of ten animals.
 
 [6-14-1-2-437-39](examplegroups.csv#cldf:6-14-1-2-437-39)
 
-But this cannot have been the whole answer to the ‘how’ question. There must have been at least two other ingredients to counting large quantities. First, some enumerative classifiers counted multiples of other enumerative classifiers (§[§14.6.3](ContributionTable?anchor=s-14-6-3#cldf:6-14)–4). Second, people kept tallies by various ethnographically recorded means. These included plucking the leaflets from a fern ([Fox 1931](Source#cldf:Fox1931); [Paraide 2008](Source#cldf:Paraide2008)) or tying knots in a string ([Codrington 1891](Source#cldf:Codrington1891):353). Codrington also describes more complex tallies.
+But this cannot have been the whole answer to the ‘how’ question. There must have been at least two other ingredients to counting large quantities. First, some enumerative classifiers counted multiples of other enumerative classifiers (§§[14.6.3](ContributionTable?anchor=s-14-6-3#cldf:6-14)-[14.6.4](ContributionTable?anchor=s-14-6-4#cldf:6-14)). Second, people kept tallies by various ethnographically recorded means. These included plucking the leaflets from a fern ([Fox 1931](Source#cldf:Fox1931); [Paraide 2008](Source#cldf:Paraide2008)) or tying knots in a string ([Codrington 1891](Source#cldf:Codrington1891):353). Codrington also describes more complex tallies.
 
 > At Saa when yams are counted two men count out each five, making ten, and as each ten is made they call out ‘one’, ‘two’, and so on. A man sits by, and when ‘ten’ is called making a hundred, he puts down a little yam for a tally.
 
@@ -316,7 +316,7 @@ The cognate set reflecting POc _&ast;luku_ ‘count’ has a rather unusual dist
 
 Three lower-order reconstructions are given below. The first two are PPn reconstructions with similar form and meaning. However, their initial consonants show that they are separate terms. The glosses suggest that _&ast;lau_ was more specifically concerned with reciting a list, including a list of numbers.
 
-Although the Santa Isabel terms listed under ‘cf. also’ bear some formal similarity to reflexes of the verb given in POLLEX as PPn _&ast;tau_ ‘count’, the sound correspondences between the two sets do not permit a reconstruction.[^5]
+Although the Santa Isabel terms listed under ‘cf. also’ bear some formal similarity to reflexes of the verb given in POLLEX as PPn _&ast;tau_ ‘count’, the sound correspondences between the two sets do not permit a reconstruction.[^5]:
 
 [PPn &ast;_tau_](cognatesetreferences.csv#cldf:6-14-2-None-440-PPn-tau-a)
 
@@ -337,14 +337,14 @@ Although the Santa Isabel terms listed under ‘cf. also’ bear some formal sim
 ### 3.1. The &ast;NUMERAL _ŋa_ CLASSIFIER and _&ast;sa_-CLASSIFIER structures
 
 
-[Table 14.1](#table-14.1) shows that POc numerals for tens and hundreds, e.g. _&ast;sa=[ŋa] puluq_ ‘10’, _&ast;rua ŋa puluq_ ‘20’, _&ast;tolu ŋa puluq_ ‘30’, had a structure in which the morphemes _&ast;puluq_ ‘10’ and _&ast;Ratus_ ‘100’ appear to be multiplicative classifiers ([§14.1.1](ContributionTable?anchor=s-14-1-1#cldf:6-14)). The numeral is connected to the classifier by the ligature _&ast;ŋa_.[^6] This _&ast;ŋa_ seems to have originally been absent after _&ast;sa-_ ‘one’, a proclitic that was immediately attached to the classifier. The &ast;[NML]{.smallcaps} _ŋa_ CLF structure and its variant _sa_-CLF are of PMP antiquity, and are reflected as far down the Oceanic tree as Polynesian. This raises the question, Did the POc structure reflect a productive numeral classifier structure, or was it just a fossil?
+[Table 14.1](#tab-14.1) shows that POc numerals for tens and hundreds, e.g. _&ast;sa=[ŋa] puluq_ ‘10’, _&ast;rua ŋa puluq_ ‘20’, _&ast;tolu ŋa puluq_ ‘30’, had a structure in which the morphemes _&ast;puluq_ ‘10’ and _&ast;Ratus_ ‘100’ appear to be multiplicative classifiers ([§14.1.1](ContributionTable?anchor=s-14-1-1#cldf:6-14)). The numeral is connected to the classifier by the ligature _&ast;ŋa_.[^6]: This _&ast;ŋa_ seems to have originally been absent after _&ast;sa-_ ‘one’, a proclitic that was immediately attached to the classifier. The &ast;[NML]{.smallcaps} _ŋa_ CLF structure and its variant _sa_-CLF are of PMP antiquity, and are reflected as far down the Oceanic tree as Polynesian. This raises the question, Did the POc structure reflect a productive numeral classifier structure, or was it just a fossil?
 
-Being productive would mean that the structure was also used with other classifiers—and it was, according to evidence from both higher and lower nodes of the Austronesian tree. [Table 14.2](#table-14.2) shows forms for 1–3, 10–30 and 100–300 in one western and three central Malayo-Polynesian languages (i.e. languages at higher nodes; see figure 1.2) and POc. Certain facts are obvious. Cognates of POc _&ast;sa=[ŋa] puluq_ ‘10’ and _&ast;sa=[ŋa] Ratus_ ‘100’ are preceded by a proclitic that is cognate with POc _&ast;sa=_ ‘one’. In Javanese _sa_ ‘1’ is not followed by a ligature cognate with _&ast;ŋa_, but the ligature occurs after 2 and 3. In the other three languages the ligature has been generalised to occur with ‘one’ as well. In Javanese _&ast;ŋa_ is reflected as _-ŋ_ on simple numerals from 2 upward. In Hawu _&ast;ŋa-puluq_ and _&ast;ŋa-Ratus_ have become _ŋuru_ and _ŋahu_, in Kambera _-ᵐbulu_[^7] and _ŋahu_, and in Kéo _mbudu_ and _ŋasu_. In Kéo the morpheme order is reversed for numerals 2 and above.
+Being productive would mean that the structure was also used with other classifiers—and it was, according to evidence from both higher and lower nodes of the Austronesian tree. [Table 14.2](#tab-14.2) shows forms for 1–3, 10–30 and 100–300 in one western and three central Malayo-Polynesian languages (i.e. languages at higher nodes; see figure 1.2) and POc. Certain facts are obvious. Cognates of POc _&ast;sa=[ŋa] puluq_ ‘10’ and _&ast;sa=[ŋa] Ratus_ ‘100’ are preceded by a proclitic that is cognate with POc _&ast;sa=_ ‘one’. In Javanese _sa_ ‘1’ is not followed by a ligature cognate with _&ast;ŋa_, but the ligature occurs after 2 and 3. In the other three languages the ligature has been generalised to occur with ‘one’ as well. In Javanese _&ast;ŋa_ is reflected as _-ŋ_ on simple numerals from 2 upward. In Hawu _&ast;ŋa-puluq_ and _&ast;ŋa-Ratus_ have become _ŋuru_ and _ŋahu_, in Kambera _-ᵐbulu_[^7]: and _ŋahu_, and in Kéo _mbudu_ and _ŋasu_. In Kéo the morpheme order is reversed for numerals 2 and above.
 
 
 <a id="p-442"></a>
 
-<a id="table-14.2"> </a>
+<a id="tab-14.2"> </a>
 
 : __Table 14.2__       Non-Oceanic and POc 1–3, 10–30 and 100–300
 
@@ -362,16 +362,16 @@ Being productive would mean that the structure was also used with other classifi
 
 ¹There were probably several POc forms meaning ‘1’ ([§14.4.1](ContributionTable?anchor=s-14-4-1#cldf:6-14)).
 
-The critical point here is that in each language other classifiers occur in the same slot as the multiplicative classifiers in [Table 14.2](#table-14.2). Javanese mensural classifiers occur in it: _sa=prapat_ ‘a quarter’, _təlu=ŋ prapat_ ‘three-quarters’; _ro-ŋ taun_ ‘two years’; _pata-ŋ jam_ ‘4 hours’ ([Robson 1992](Source#cldf:Robson1992)). Hawu sortal classifiers occur there: _he=ŋiʔu wawi_ ‘one pig’, _ɗue ŋiʔu wawi_ ‘two pigs’, where _ŋiʔu_ is the classifier for animals ([Walker 1982](Source#cldf:Walker1982)). Kambera has sortal classifiers based on shape. After _ha-_ ‘one’, these do not reflect _&ast;ŋa_, but after ‘2’ or greater, the initial consonant undergoes a change that does reflect _&ast;ŋa_: _ha=puŋu pena_ ‘one pen’ vs _dua mbuŋu pena_ ‘two pens’; _ha=wala kapambal_ ‘one plank’ vs _ha dua mbala kapambal_ ‘two planks’ ([Klamer 2010](Source#cldf:Klamer2010)).[^8] In Kéo the reversal of constituents with 2 and above attested in [Table 14.2](#table-14.2) also occurs with sortal classifiers: _aki ha=ᵑgaʔe_ [man one-[CLF]{.smallcaps}] vs _aki ⁿgaʔe dima_ [man [CLF]{.smallcaps} 5] (_ᵑgaʔe_ ‘human being’) ([Baird 2002](Source#cldf:Baird2002)).
+The critical point here is that in each language other classifiers occur in the same slot as the multiplicative classifiers in [Table 14.2](#tab-14.2). Javanese mensural classifiers occur in it: _sa=prapat_ ‘a quarter’, _təlu=ŋ prapat_ ‘three-quarters’; _ro-ŋ taun_ ‘two years’; _pata-ŋ jam_ ‘4 hours’ ([Robson 1992](Source#cldf:Robson1992)). Hawu sortal classifiers occur there: _he=ŋiʔu wawi_ ‘one pig’, _ɗue ŋiʔu wawi_ ‘two pigs’, where _ŋiʔu_ is the classifier for animals ([Walker 1982](Source#cldf:Walker1982)). Kambera has sortal classifiers based on shape. After _ha-_ ‘one’, these do not reflect _&ast;ŋa_, but after ‘2’ or greater, the initial consonant undergoes a change that does reflect _&ast;ŋa_: _ha=puŋu pena_ ‘one pen’ vs _dua mbuŋu pena_ ‘two pens’; _ha=wala kapambal_ ‘one plank’ vs _ha dua mbala kapambal_ ‘two planks’ ([Klamer 2010](Source#cldf:Klamer2010)).[^8]: In Kéo the reversal of constituents with 2 and above attested in [Table 14.2](#tab-14.2) also occurs with sortal classifiers: _aki ha=ᵑgaʔe_ [man one-[CLF]{.smallcaps}] vs _aki ⁿgaʔe dima_ [man [CLF]{.smallcaps} 5] (_ᵑgaʔe_ ‘human being’) ([Baird 2002](Source#cldf:Baird2002)).
 
-This evidence that &ast;[NML]{.smallcaps} _ŋa_ [CLF]{.smallcaps} occurred in languages at higher nodes than POc only says that POc could have retained the productive structure. The tens and hundreds in [Table 14.1](#table-14.1) could be fossils. However, evidence from Admiralties, Micronesian and Polynesian languages tells us that POc did retain &ast;[NML]{.smallcaps} _ŋa_ [CLF]{.smallcaps} as a productive numeral classifier structure. Admiralties and Micronesian languages have [NML]{.smallcaps} [CLF]{.smallcaps} order, reflecting POc &ast;[NML]{.smallcaps} _ŋa_ [CLF]{.smallcaps}, but less obviously than in [Table 14.2](#table-14.2).
+This evidence that &ast;[NML]{.smallcaps} _ŋa_ [CLF]{.smallcaps} occurred in languages at higher nodes than POc only says that POc could have retained the productive structure. The tens and hundreds in [Table 14.1](#tab-14.1) could be fossils. However, evidence from Admiralties, Micronesian and Polynesian languages tells us that POc did retain &ast;[NML]{.smallcaps} _ŋa_ [CLF]{.smallcaps} as a productive numeral classifier structure. Admiralties and Micronesian languages have [NML]{.smallcaps} [CLF]{.smallcaps} order, reflecting POc &ast;[NML]{.smallcaps} _ŋa_ [CLF]{.smallcaps}, but less obviously than in [Table 14.2](#tab-14.2).
 
-[Table 14.3](#table-14.3) shows Ponam (Adm) tens, hundreds and a small sample of classifiers.[^9] There are indicators that the items in the table reflect POc &ast;[NML]{.smallcaps} ŋa [CLF]{.smallcaps}. First, -ŋuf ‘10’ and -ŋat ‘100’ reflect POc &ast;ŋa puluq and &ast;ŋa Ratus, although &ast;ŋa is not reflected in columns D–G. Ponam (Adm) numerals reflecting POc &ast;ŋa and a sample of classifiers.
+[Table 14.3](#tab-14.3) shows Ponam (Adm) tens, hundreds and a small sample of classifiers.[^9]: There are indicators that the items in the table reflect POc &ast;[NML]{.smallcaps} ŋa [CLF]{.smallcaps}. First, -ŋuf ‘10’ and -ŋat ‘100’ reflect POc &ast;ŋa puluq and &ast;ŋa Ratus, although &ast;ŋa is not reflected in columns D–G. Ponam (Adm) numerals reflecting POc &ast;ŋa and a sample of classifiers.
 
 
 <a id="p-443"></a>
 
-<a id="table-14.3"> </a>
+<a id="tab-14.3"> </a>
 
 : __Table 14.3__      Ponam (Adm) numerals reflecting POc &ast;ŋa and a sample of classifiers
 
@@ -387,11 +387,11 @@ Second, the structure of tens and hundreds in columns B and C is identical to th
 
 Micronesian classifiers are exemplified in [§14.1.1](ContributionTable?anchor=s-14-1-1#cldf:6-14) and are well described in the various grammars of Micronesian languages. The situation resembles that of Admiralties languages. The ligature _&ast;ŋa_ is preserved in PMic _&ast;-ŋawulu_ ‘unit of ten (in counting)’ and PChk _&ast;-ŋa-ratu_ ‘thousand (numeral classifier)’ ([Bender et al. 2003a](Source#cldf:Benderetal2003a); cf data in [§14.4.5](ContributionTable?anchor=s-14-4-5#cldf:6-14).1). It is not obviously inherited in Micronesian forms with other classifiers, but _&ast;ŋa_ is sometimes reflected in a prenasalisation of the following classifier: see under POc _&ast;-tau_ ‘animate; person’ ([§14.6.1](ContributionTable?anchor=s-14-6-1#cldf:6-14)) and POc _&ast;-pui_ ‘bunch, group’ ([§14.6.2](ContributionTable?anchor=s-14-6-2#cldf:6-14)).
 
-Finally, _&ast;ŋa_ is alive and well in certain Polynesian languages.[Table 14.4](#table-14.4) shows classifiers used in the Tongan reflex of the POc &ast;[NML]{.smallcaps} _ŋa_ [CLF]{.smallcaps} structure. Column A shows the numerals 1–4. Columns B and C show that the structure of 10–40 and 100-400 is identical to that of the enumerative classifiers in columns D–G. Thus _-fulu_ ‘unit of 10’ and _-au_ ‘unit of 100’ are also multiplicative classifiers. One apparent anomaly is _ho-ŋo-fulu_ ‘10’, which retains the structure of PPn _&ast;ha-ŋa-pulu_ ‘10’ where the other classifiers in the row have replaced _&ast;ha-ŋa-_ with the PPn non-specific article _&ast;te-_.
+Finally, _&ast;ŋa_ is alive and well in certain Polynesian languages.[Table 14.4](#tab-14.4) shows classifiers used in the Tongan reflex of the POc &ast;[NML]{.smallcaps} _ŋa_ [CLF]{.smallcaps} structure. Column A shows the numerals 1–4. Columns B and C show that the structure of 10–40 and 100-400 is identical to that of the enumerative classifiers in columns D–G. Thus _-fulu_ ‘unit of 10’ and _-au_ ‘unit of 100’ are also multiplicative classifiers. One apparent anomaly is _ho-ŋo-fulu_ ‘10’, which retains the structure of PPn _&ast;ha-ŋa-pulu_ ‘10’ where the other classifiers in the row have replaced _&ast;ha-ŋa-_ with the PPn non-specific article _&ast;te-_.
 
 It would be possible to build a similar table for Samoan or for Rennellese, and each would show the same thing: that PPn _&ast;-fulu_ ‘unit of 10’ ([§14.4.5](ContributionTable?anchor=s-14-4-5#cldf:6-14).1) and _&ast;-rau_ ‘unit of 100’ ([§14.6.4](ContributionTable?anchor=s-14-6-4#cldf:6-14)) were enumerative classifiers. Together, the Admiralties, Micronesian and Polynesian data show that the POc &ast;[NML]{.smallcaps} _ŋa_ [CLF]{.smallcaps} structure was productive and that _&ast;-puluq_ and _&ast;-Ratus_ were, and in some languages still are, multiplicative classifiers.
 
-<a id="table-14.4"> </a>
+<a id="tab-14.4"> </a>
 
 : __Table 14.4__   Tongan (Pn) classifiers reflecting PPn &ast;ŋa
 
@@ -425,9 +425,9 @@ It would be possible to build a similar table for Samoan or for Rennellese, and 
 
 This, however, is not the whole story. There is evidence that alongside the &ast;[NML]{.smallcaps} _ŋa_ [CLF]{.smallcaps} structure POc also had a &ast;[CLF]{.smallcaps} [NML]{.smallcaps} structure. Evidence for this comes from SHWNG languages, Oceanic languages with this structure, and especially Polynesian.
 
-The SHWNG languages Buli ([Maan 1951](Source#cldf:Maan1951):42), Taba ([Bowden 2001](Source#cldf:Bowden2001):242–245), Ambel ([Arnold 2018](Source#cldf:Arnold2018):159–161) and Magey Matbat ([Remijsen 2010](Source#cldf:Remijsen2010):287–290), all have [CLF]{.smallcaps} [NML]{.smallcaps} order.[^10] None has a reflex of &ast;[NML]{.smallcaps} _ŋa_ [CLF]{.smallcaps}. Rongga ([Arka 2008](Source#cldf:Arka2008)) and Waima’a ([Himmelmann 2010](Source#cldf:Himmelmann2010):56), CMP languages of Wallacea and cousins to SHWNG also have a [CLF]{.smallcaps} [NML]{.smallcaps} structure. But as shown in [§14.3.1](ContributionTable?anchor=s-14-3-1#cldf:6-14) not all CMP languages have [CLF]{.smallcaps} [NML]{.smallcaps}. Some reflect &ast;[NML]{.smallcaps} _ŋa_ [CLF]{.smallcaps} This implies that the [CLF]{.smallcaps} [NML]{.smallcaps} structure was innovated somewhere in the CEMP linkage and was inherited into POc. The origin of [CLF]{.smallcaps} [NML]{.smallcaps} seems straightforward. As most prefixed classifiers reflect earlier nouns ([§14.6](ContributionTable?anchor=s-14-6#cldf:6-14)), [CLF]{.smallcaps} [NML]{.smallcaps} reflects the regular noun-phrase order noun [NML]{.smallcaps}.
+The SHWNG languages Buli ([Maan 1951](Source#cldf:Maan1951):42), Taba ([Bowden 2001](Source#cldf:Bowden2001):242–245), Ambel ([Arnold 2018](Source#cldf:Arnold2018):159–161) and Magey Matbat ([Remijsen 2010](Source#cldf:Remijsen2010):287–290), all have [CLF]{.smallcaps} [NML]{.smallcaps} order.[^10]: None has a reflex of &ast;[NML]{.smallcaps} _ŋa_ [CLF]{.smallcaps}. Rongga ([Arka 2008](Source#cldf:Arka2008)) and Waima’a ([Himmelmann 2010](Source#cldf:Himmelmann2010):56), CMP languages of Wallacea and cousins to SHWNG also have a [CLF]{.smallcaps} [NML]{.smallcaps} structure. But as shown in [§14.3.1](ContributionTable?anchor=s-14-3-1#cldf:6-14) not all CMP languages have [CLF]{.smallcaps} [NML]{.smallcaps}. Some reflect &ast;[NML]{.smallcaps} _ŋa_ [CLF]{.smallcaps} This implies that the [CLF]{.smallcaps} [NML]{.smallcaps} structure was innovated somewhere in the CEMP linkage and was inherited into POc. The origin of [CLF]{.smallcaps} [NML]{.smallcaps} seems straightforward. As most prefixed classifiers reflect earlier nouns ([§14.6](ContributionTable?anchor=s-14-6#cldf:6-14)), [CLF]{.smallcaps} [NML]{.smallcaps} reflects the regular noun-phrase order noun [NML]{.smallcaps}.
 
-For classifiers other than ‘unit of 10’ and ‘unit of 100’ non-Polynesian Oceanic languages retain either [CLF]{.smallcaps} [NML]{.smallcaps} or [NML]{.smallcaps} [_&ast;ŋa_] [CLF]{.smallcaps}, but not both. The classifier precedes the numeral in some Papuan Tip[^11] a few Meso-Melanesian,[^12] and all New Caledonian languages. This distribution is strikingly areal, as [Map 14.2](#map-6-14_2) shows. In the north a classifier follows the numeral. In the south it precedes it.
+For classifiers other than ‘unit of 10’ and ‘unit of 100’ non-Polynesian Oceanic languages retain either [CLF]{.smallcaps} [NML]{.smallcaps} or [NML]{.smallcaps} [_&ast;ŋa_] [CLF]{.smallcaps}, but not both. The classifier precedes the numeral in some Papuan Tip[^11]: a few Meso-Melanesian,[^12]: and all New Caledonian languages. This distribution is strikingly areal, as [Map 14.2](#map-6-14_2) shows. In the north a classifier follows the numeral. In the south it precedes it.
 
 [Blust](Source#cldf:Blust2013) ([2013](Source#cldf:Blust2013):284–285) briefly discusses ‘onset runs’ in numerals. These are runs of numerals that begin with the same segment or syllable. He includes Buma (TM) _tilu_ ‘2’, _tete_ ‘3’, _teva_ ‘4’, _tili_ ‘5’, _tuo_ ‘6’, _tibi_ ‘7’, _tua_ ‘8’, _tudi_ ‘9’ and Mwotlap (NCV) _voyo_ ‘2’, _vetel_ ‘3’, _vevɛt_ ‘4’. He comments that they result from prefixation of unknown morphemes. In these two cases it seems likely that they reflect prefixation of a no longer productive classifier: _&ast;tau-_ ‘human being’ in Buma, and the default classifier _&ast;pua-_ in Mwotlap ([§14.6.1](ContributionTable?anchor=s-14-6-1#cldf:6-14)). Fossilised prefixes on simple numerals are rife in the southern prefixing area, stretching from New Ireland in the north to the southernmost languages of Vanuatu ([Map 14.2](#map-6-14_2)).
 
@@ -439,7 +439,7 @@ For classifiers other than ‘unit of 10’ and ‘unit of 100’ non-Polynesian
 
 On this evidence it is difficult to avoid the untidy conclusion that POc retained both the &ast;[NML]{.smallcaps} [_ŋa_] [CLF]{.smallcaps} structure and the &ast;[CLF]{.smallcaps} [NML]{.smallcaps} structure, and that various languages either (i) generalised [CLF]{.smallcaps} [NML]{.smallcaps}, but usually retained [NML]{.smallcaps} _ŋa_ [CLF]{.smallcaps} in counting tens and hundreds; or (ii) generalised [NML]{.smallcaps} _ŋa_ [CLF]{.smallcaps}; or (iii) lost numeral classifiers altogether.
 
-Some Polynesian languages are striking in that they retain both structures. In this respect they form a relic area which supports the claim that POc also had both structures. [Clark](Source#cldf:Clark1999) ([1999](Source#cldf:Clark1999)) reconstructs both structures for PPn, and an inspection of Tongan, Samoan and Rennellese data confirms this.[^13] It evidently continued the POc situation. Unlike Admiralties and Micronesian, where all counting is done with a classifier, PPn classifiers were only used to count certain nouns associated with what [Elbert](Source#cldf:Elbert1988) ([1988](Source#cldf:Elbert1988):192) terms “planting, fishing, and ostentatious display”. If a classifier was used with a numeral to express a number less than 10, then [CLF]{.smallcaps} [NML]{.smallcaps} order was used. For example, PPn _&ast;toka-_ ‘human’ ([Clark 1999](Source#cldf:Clark1999):198) was used to count people up to 9, e.g. _&ast;toka-rua_ ‘two (people)’. For quantities of 10 and above, either structure might be used, depending on what one was counting. Exactly how this division of labour worked in PPn is unclear, as languages of the two first-order Polynesian groups, Tongic and Nuclear Polynesian, do not always agree. But one thing is clear: when PPn used the [NML]{.smallcaps} [CLF]{.smallcaps} structure, the classifier was always enumerative ([§14.1.1](ContributionTable?anchor=s-14-1-1#cldf:6-14)), denoting a multiple of the thing counted.
+Some Polynesian languages are striking in that they retain both structures. In this respect they form a relic area which supports the claim that POc also had both structures. [Clark](Source#cldf:Clark1999) ([1999](Source#cldf:Clark1999)) reconstructs both structures for PPn, and an inspection of Tongan, Samoan and Rennellese data confirms this.[^13]: It evidently continued the POc situation. Unlike Admiralties and Micronesian, where all counting is done with a classifier, PPn classifiers were only used to count certain nouns associated with what [Elbert](Source#cldf:Elbert1988) ([1988](Source#cldf:Elbert1988):192) terms “planting, fishing, and ostentatious display”. If a classifier was used with a numeral to express a number less than 10, then [CLF]{.smallcaps} [NML]{.smallcaps} order was used. For example, PPn _&ast;toka-_ ‘human’ ([Clark 1999](Source#cldf:Clark1999):198) was used to count people up to 9, e.g. _&ast;toka-rua_ ‘two (people)’. For quantities of 10 and above, either structure might be used, depending on what one was counting. Exactly how this division of labour worked in PPn is unclear, as languages of the two first-order Polynesian groups, Tongic and Nuclear Polynesian, do not always agree. But one thing is clear: when PPn used the [NML]{.smallcaps} [CLF]{.smallcaps} structure, the classifier was always enumerative ([§14.1.1](ContributionTable?anchor=s-14-1-1#cldf:6-14)), denoting a multiple of the thing counted.
 
 
 <a id="p-446"></a>
@@ -499,7 +499,7 @@ Where a term for ‘one’ is known to be serial or attributive in function, thi
 #### 4.1.1. _&ast;sa-_, _&ast;sa_, _&ast;tasa_, _&ast;tasi_ and _&ast;ta_
 
 
-Some nouns always took a numeral + classifier combination as an attribute, and others took a simple numeral ([§14.3](ContributionTable?anchor=s-14-3#cldf:6-14)). In the former case, the attribute was _&ast;sa_-[CLF]{.smallcaps}. In the latter case, the attributive marker _&ast;ka-_ ([§14.4](ContributionTable?anchor=s-14-4#cldf:6-14)) was possibly used, but we cannot be sure that it occurred with ‘one’. POc _&ast;(i)sa_ ‘one’ is also reflected as the PPn indefinite article _&ast;sa_ (ACD), which, with an irregular vowel change, became Proto Nuclear Polynesian _&ast;se_ ([Clark 1976](Source#cldf:Clark1976):50).[^14] Thus POc _&ast;(i)sa_ was attributive, hovering between a numeral and an indefinite article.
+Some nouns always took a numeral + classifier combination as an attribute, and others took a simple numeral ([§14.3](ContributionTable?anchor=s-14-3#cldf:6-14)). In the former case, the attribute was _&ast;sa_-[CLF]{.smallcaps}. In the latter case, the attributive marker _&ast;ka-_ ([§14.4](ContributionTable?anchor=s-14-4#cldf:6-14)) was possibly used, but we cannot be sure that it occurred with ‘one’. POc _&ast;(i)sa_ ‘one’ is also reflected as the PPn indefinite article _&ast;sa_ (ACD), which, with an irregular vowel change, became Proto Nuclear Polynesian _&ast;se_ ([Clark 1976](Source#cldf:Clark1976):50).[^14]: Thus POc _&ast;(i)sa_ was attributive, hovering between a numeral and an indefinite article.
 
 PNCV _&ast;sa-wa_ is included under _&ast;(i)sa_ because it seems to be a local development in more northerly areas of Vanuatu. Added _&ast;-wa_, sense unknown (perhaps POc _&ast;pua-_ DEFAULT CLASSIFIER), also occurs in _&ast;tai-wa_, in an overlapping area. N-C Vanuatu terms often reflect further additions.
 
@@ -707,7 +707,7 @@ POc _&ast;paŋi_ ‘4’ appears to be a variant of POc _&ast;pati_ above, of un
 
 Terms for ‘5’ in Oceanic languages are usually derived from terms for ‘hand, arm’. The most frequently reflected POc term is _&ast;lima_, which meant ‘5; hand, arm’ ([vol.5:160](ContributionTable?anchor=p-160#cldf:5-3)–161). The colexification of the two concepts had survived from PAn and reflects much earlier digit-tallying (probably pre-PAn) than the early Oceanic practice described in [§15.2](ContributionTable?anchor=s-15-2#cldf:6-14). Reflexes of _&ast;lima_ are listed below.
 
-The reflexes listed under _&ast;lima_ are all regular, including those that reflect _&ast;l-_ as _n-_ or zero. The notes in parentheses after the items below show that in some languages the two forms have diverged phonologically.[^15] But some instances of divergence are of another kind. POc also had a variant _&ast;nima_ ‘5; hand, arm’ ([vol.5:160](ContributionTable?anchor=p-160#cldf:5-3)) Its reflexes are listed separately below. It seems, though, that in scattered languages _&ast;lima_ remained as ‘5’, whilst the _&ast;nima_ variant became ‘hand, arm’. See Mussau, Sudest, Tangga and Äiwoo below. The intriguing feature of the divergences is that it is the term ‘hand, arm’ that has changed, not the term for ‘5’, presumably due to homophony avoidance.
+The reflexes listed under _&ast;lima_ are all regular, including those that reflect _&ast;l-_ as _n-_ or zero. The notes in parentheses after the items below show that in some languages the two forms have diverged phonologically.[^15]: But some instances of divergence are of another kind. POc also had a variant _&ast;nima_ ‘5; hand, arm’ ([vol.5:160](ContributionTable?anchor=p-160#cldf:5-3)) Its reflexes are listed separately below. It seems, though, that in scattered languages _&ast;lima_ remained as ‘5’, whilst the _&ast;nima_ variant became ‘hand, arm’. See Mussau, Sudest, Tangga and Äiwoo below. The intriguing feature of the divergences is that it is the term ‘hand, arm’ that has changed, not the term for ‘5’, presumably due to homophony avoidance.
 
 [PAn &ast;_lima_](cognatesetreferences.csv#cldf:6-14-4-2-461-POc-lima-a)
 
@@ -787,9 +787,9 @@ By regular sound change PAn _&ast;Siwa_ would have become PMP _&ast;(h)iwa_, but
 #### 4.3.5. Subtractive numerals 6–9
 
 
-A few languages with a decimal system form the numerals 7–9 subtractively, i.e. 10–3, 10–2, 10–1. These languages are Yapese, all Eastern Admiralties languages, and Engdewo (TM). A sample is shown in [Table 14.5](#table-14.5). Final _-p_ in Lou, final _-f_ in Ponam and final _-h[u]_ in Levei are the default classifier. Just one known language, Levei-Drehet, a pair of E Admiralties dialects, also has a subtractive numeral for 6.
+A few languages with a decimal system form the numerals 7–9 subtractively, i.e. 10–3, 10–2, 10–1. These languages are Yapese, all Eastern Admiralties languages, and Engdewo (TM). A sample is shown in [Table 14.5](#tab-14.5). Final _-p_ in Lou, final _-f_ in Ponam and final _-h[u]_ in Levei are the default classifier. Just one known language, Levei-Drehet, a pair of E Admiralties dialects, also has a subtractive numeral for 6.
 
-<a id="table-14.5"> </a>
+<a id="tab-14.5"> </a>
 
 : __Table 14.5__         Languages in which 6-9 are formed subtractively
 
@@ -798,7 +798,7 @@ A few languages with a decimal system form the numerals 7–9 subtractively, i.e
 | 1       | (see [§14.4.1](ContributionTable?anchor=s-14-4-1#cldf:6-14))   | _rēb_            | _si-p_                | _si_                 | _ōri_               | _ɞte_               |
 | 2       | _&ast;rua_          | _[lˀaɣa]ruw_     | _ruɪ-p_               | _luo-f_              | _luo_               | _la-lī_             |
 | 3       | _&ast;tolu_         | _ðalip_          | _tɪlɪ-p_              | _talo-f_             | _tolo-h_            | _la-tǖ_             |
-| 4       | _&ast;pat[i]_       | _ʔaniŋəɣ_        | _talot_               | _fa-f_               | _hā-hu_             | _lɒ-pʷɔ̄_           |
+| 4       | _&ast;pat[i]_       | _ʔaniŋəɣ_        | _talot_               | _fa-f_               | _hā-hu_             | _lɒ-pʷɔ̄_            |
 | 5       | _&ast;lima_         | _lāl_            | _mutan_               | _lime-f_             | _līme_              | _la-mɞp[u]_         |
 | 6       | _&ast;onom_         | _nəlˀ_           | _ŋinio-p_             | _wono-f_             | _ja_-___hā___-_hu_  | _la-mɞtimou_        |
 | 7       | (minus 3)       | _mē_-___ðalip___ | _ŋane_-___seli___-_p_ | _aha_-___talo___-_f_ | _ja_-___dolo___-_h_ | _tu-m(u)_-___tǖ___  |
@@ -824,7 +824,7 @@ In Oceanic languages that have terms for the teens, i.e. ‘11’, ‘12’, ‘
 ### 4.5. Tens and hundreds
 
 
-The structure of POc terms for tens and hundreds is discussed in [§14.3.1](ContributionTable?anchor=s-14-3-1#cldf:6-14) as part of an examination of the structures in which numeral classifiers were used. Whereas the POc numerals from 1 to 9 each consisted of a single morpheme, the tens and hundreds shown in [Table 14.1](#table-14.1) were each made up of three morphemes with the structures _&ast;X-[ŋa-]puluq_ ‘X times 10’ and _&ast;X-[ŋa-]Ratus_ ‘X times 100’. It emerges that POc _-puluq_ ‘unit of 10’ and _-Ratus_ ‘unit of 100’ were multiplicative classifiers within the &ast;[NML]{.smallcaps} _ŋa_ [CLF]{.smallcaps} structure inherited from PMP. The structure was clearly at least somewhat productive in POc as it continued on into PPn, where apparently new members had been added to the set of classifiers, e.g. PEOc _&ast;-rau_ ‘unit of 100’ ([§14.6.4](ContributionTable?anchor=s-14-6-4#cldf:6-14)).
+The structure of POc terms for tens and hundreds is discussed in [§14.3.1](ContributionTable?anchor=s-14-3-1#cldf:6-14) as part of an examination of the structures in which numeral classifiers were used. Whereas the POc numerals from 1 to 9 each consisted of a single morpheme, the tens and hundreds shown in [Table 14.1](#tab-14.1) were each made up of three morphemes with the structures _&ast;X-[ŋa-]puluq_ ‘X times 10’ and _&ast;X-[ŋa-]Ratus_ ‘X times 100’. It emerges that POc _-puluq_ ‘unit of 10’ and _-Ratus_ ‘unit of 100’ were multiplicative classifiers within the &ast;[NML]{.smallcaps} _ŋa_ [CLF]{.smallcaps} structure inherited from PMP. The structure was clearly at least somewhat productive in POc as it continued on into PPn, where apparently new members had been added to the set of classifiers, e.g. PEOc _&ast;-rau_ ‘unit of 100’ ([§14.6.4](ContributionTable?anchor=s-14-6-4#cldf:6-14)).
 
 
 <a id="s-4-5-1"></a>
@@ -851,17 +851,17 @@ The vast majority of Oceanic decimal systems reflect _&ast;sa-ŋa-puluq_ and _&a
 
 <a id="p-469"></a>
 
-Examples listed under ‘cf. also’ above are ‘false positives’: numerals that look as if they might reflect _&ast;sa-puluq_ but which on closer examination either probably or certainly don’t. Uruava _avūru_ and Mono-Alu _lahulu_ could reflect either _&ast;sapuluq_ or _&ast;saŋapuluq_.[^16] Teop _sāvun_ seems to reflect _&ast;sapuluq_ rather than _&ast;saŋapuluq_, as Teop does not regularly lose _&ast;ŋ_ (but this does not explain long _-ā-_)
+Examples listed under ‘cf. also’ above are ‘false positives’: numerals that look as if they might reflect _&ast;sa-puluq_ but which on closer examination either probably or certainly don’t. Uruava _avūru_ and Mono-Alu _lahulu_ could reflect either _&ast;sapuluq_ or _&ast;saŋapuluq_.[^16]: Teop _sāvun_ seems to reflect _&ast;sapuluq_ rather than _&ast;saŋapuluq_, as Teop does not regularly lose _&ast;ŋ_ (but this does not explain long _-ā-_)
 
 [PMP &ast;_sa-Ratus_](cognatesetreferences.csv#cldf:6-14-4-5-469-POc-saratus-a)
 
-Except for Bukawa, which is vigesimal from 20 upward, the languages that reflect _&ast;sa-puluq_ treat it as ‘unit of 10’, i.e. they have generalised it to all decades, as [Table 14.6](#table-14.6) shows.
+Except for Bukawa, which is vigesimal from 20 upward, the languages that reflect _&ast;sa-puluq_ treat it as ‘unit of 10’, i.e. they have generalised it to all decades, as [Table 14.6](#tab-14.6) shows.
 
 Evidence that POc _&ast;sapuluq_ ‘10’ occurred alongside _&ast;saŋapuluq_ also includes the fact that some WMP languages reflect a contrast between cognates of _&ast;sa-puluq_ ‘10’ and _&ast;rua-ŋa-puluq_ ‘20’: Javanese _sa=puluh_ but _ro=ŋ puluh_; Manggarai _cə=pulu_ but _sua m=pulu_. A tempting inference is that _&ast;sa-puluq_ and _&ast;sa-Ratus_ were the original POc forms and that _&ast;sa-ŋa-puluq_ and _&ast;sa-ŋa-Ratus_ reflect an extension of the pattern of higher decades and centades to ‘10’. This may be so, but we do not know when this extension occurred: before POc or in POc?
 
 At any rate, a large majority of Oceanic reflexes reflect the longer forms. The sets below are each just a sample of their reflexes. Certain groupings—North New Guinea, Papuan Tip and Micronesian—are ill-represented, and an area from Epi Island (NCV) southward embracing Efate, S Vanuatu and New Caledonia is not represented at all, because these languages have adopted a tally system and replaced _&ast;sa[ŋa]pulu_ by another lexical item ([§15.8.2](ContributionTable?anchor=s-15-8-2#cldf:6-14)).
 
-<a id="table-14.6"> </a>
+<a id="tab-14.6"> </a>
 
 : __Table 14.6__ Tens with the structures _sapuluq_ + NUMERAL and NUMERAL + _sapuluq_
 
@@ -891,18 +891,18 @@ The Chuukic (Mic) reflexes of _&ast;sa-ŋa-Ratus_ above are perhaps borrowed fro
 #### 4.5.2. Early Oceanic developments affecting tens and hundreds
 
 
-[Table 14.6](#table-14.6) shows that languages that reflect _&ast;sa-puluq_ treat it as ‘unit of 10’, i.e. _&ast;sa-_ has lost its identity as a morpheme and has combined with _&ast;-puluq_, generalising it to all decades. The crucial evidence for this comes from languages that have applied the [CLF]{.smallcaps} [NML]{.smallcaps} construction to tens and hundreds, giving numerals like Nakanai _savulu lua_.
+[Table 14.6](#tab-14.6) shows that languages that reflect _&ast;sa-puluq_ treat it as ‘unit of 10’, i.e. _&ast;sa-_ has lost its identity as a morpheme and has combined with _&ast;-puluq_, generalising it to all decades. The crucial evidence for this comes from languages that have applied the [CLF]{.smallcaps} [NML]{.smallcaps} construction to tens and hundreds, giving numerals like Nakanai _savulu lua_.
 
-A similar process affecting _&ast;ŋa puluq_ and other instances of _&ast;ŋa_ [CLF]{.smallcaps} is illustrated for Ponam in [Table 14.3](#table-14.3) and represents the situation throughout E Admiralty and Micronesian. Here fusion occurred first, so that the reflexes of _&ast;-ŋapuluq_ and _&ast;-ŋaRatus_ were treated as unitary classifiers, and the structure [NML]{.smallcaps} _&ast;ŋa_ [CLF]{.smallcaps} was thus reinterpreted as [NML]{.smallcaps} [CLF]{.smallcaps}. It was into this structure that other classifiers were then recruited. This process seems to have occurred in a good many early Oceanic dialects, with critical evidence from languages that then reversed [NML]{.smallcaps} [CLF]{.smallcaps} to [CLF]{.smallcaps} [NML]{.smallcaps}. Most such languages are N-C Vanuatu languages of the islands Ambae, south Pentecost, Santo, Ambrym and Malakula. Thus in Araki (south Santo) we find _saŋavulu_ ‘10’ but _ŋavul rua_ ‘20’, _ŋavul rolu_ ‘30’ and so on.
+A similar process affecting _&ast;ŋa puluq_ and other instances of _&ast;ŋa_ [CLF]{.smallcaps} is illustrated for Ponam in [Table 14.3](#tab-14.3) and represents the situation throughout E Admiralty and Micronesian. Here fusion occurred first, so that the reflexes of _&ast;-ŋapuluq_ and _&ast;-ŋaRatus_ were treated as unitary classifiers, and the structure [NML]{.smallcaps} _&ast;ŋa_ [CLF]{.smallcaps} was thus reinterpreted as [NML]{.smallcaps} [CLF]{.smallcaps}. It was into this structure that other classifiers were then recruited. This process seems to have occurred in a good many early Oceanic dialects, with critical evidence from languages that then reversed [NML]{.smallcaps} [CLF]{.smallcaps} to [CLF]{.smallcaps} [NML]{.smallcaps}. Most such languages are N-C Vanuatu languages of the islands Ambae, south Pentecost, Santo, Ambrym and Malakula. Thus in Araki (south Santo) we find _saŋavulu_ ‘10’ but _ŋavul rua_ ‘20’, _ŋavul rolu_ ‘30’ and so on.
 
 
 <a id="p-472"></a>
 
-Some early dialects took this process a step further and treated their reflex of &ast;saŋapuluq as the ‘unit of ten’ morpheme. Examples are given in [Table 14.7](#table-14.7). Those in the upper part of the table, which have the structure [NML]{.smallcaps} + _saŋapuluq_, are found in scattered locations. Those in the lower part have the structure _saŋapuluq_ + [NML]{.smallcaps}. They are also scattered, but particularly well represented in N-C Vanuatu, found in the Torres and Banks Islands, Maewo, north Pentecost and further south in southeast Malakula and Ambrym.[^18]
+Some early dialects took this process a step further and treated their reflex of &ast;saŋapuluq as the ‘unit of ten’ morpheme. Examples are given in [Table 14.7](#tab-14.7). Those in the upper part of the table, which have the structure [NML]{.smallcaps} + _saŋapuluq_, are found in scattered locations. Those in the lower part have the structure _saŋapuluq_ + [NML]{.smallcaps}. They are also scattered, but particularly well represented in N-C Vanuatu, found in the Torres and Banks Islands, Maewo, north Pentecost and further south in southeast Malakula and Ambrym.[^18]:
 
-Although the evidence above indicates that _&ast;sapuluq_, _&ast;ŋapuluq_ and _&ast;saŋapuluq_ were each reinterpreted in various languages as a morpheme for ‘unit of 10’, there is nonetheless evidence that the PPn reflex _&ast;-fulu_ retained its function and that in this respect Polynesian is again a relic area. The Polynesian data are shown in [Table 14.8](#table-14.8).[^19] Ten itself and tens from 30 upward have the _rua ŋapuluq_ template, but the term for 20 was PPn _&ast;rua-fulu_, with the _rua puluq_ template. Why the term for 20 is the odd one out is not clear, but [Clark](Source#cldf:Clark1999) ([1999](Source#cldf:Clark1999)) comments that PPn _&ast;rua-fulu_ ‘20’ and Samoan _se-fulu_ ‘10’ indicate that PPn _&ast;fulu_ was analysable as ‘unit of 10’, again pointing to POc _&ast;puluq_ ‘unit of 10’.
+Although the evidence above indicates that _&ast;sapuluq_, _&ast;ŋapuluq_ and _&ast;saŋapuluq_ were each reinterpreted in various languages as a morpheme for ‘unit of 10’, there is nonetheless evidence that the PPn reflex _&ast;-fulu_ retained its function and that in this respect Polynesian is again a relic area. The Polynesian data are shown in [Table 14.8](#tab-14.8).[^19]: Ten itself and tens from 30 upward have the _rua ŋapuluq_ template, but the term for 20 was PPn _&ast;rua-fulu_, with the _rua puluq_ template. Why the term for 20 is the odd one out is not clear, but [Clark](Source#cldf:Clark1999) ([1999](Source#cldf:Clark1999)) comments that PPn _&ast;rua-fulu_ ‘20’ and Samoan _se-fulu_ ‘10’ indicate that PPn _&ast;fulu_ was analysable as ‘unit of 10’, again pointing to POc _&ast;puluq_ ‘unit of 10’.
 
-<a id="table-14.7"> </a>
+<a id="tab-14.7"> </a>
 
 : __Table 14.7__     Tens with the structure numeral + _saŋapuluq_ or _saŋapuluq_ + numeral
 
@@ -924,7 +924,7 @@ Although the evidence above indicates that _&ast;sapuluq_, _&ast;ŋapuluq_ and _
 | NCV | Port Vato  | _sɔŋavi_   | _sɔŋavi va luə_   | _sɔŋavi va sie_    | _sɔŋavi va vier_   | _sɔŋavi va lim_      |
 | NCV | Maskelynes | _səŋavür_  | _səŋavür vaxa-ɾu_ | _səŋavür vaxa-to_  | _səŋavür vaxa-vat_ | _səŋavür vaxa-ɾim_   |
 
-<a id="table-14.8"> </a>
+<a id="tab-14.8"> </a>
 
 : __Table 14.8__ 10–30 in PPn and some Polynesian languages
 
@@ -1031,7 +1031,7 @@ Because the ordinal is treated as possessum, it is a nominal. In the cognate set
 
 <a id="p-479"></a>
 
-A further POc ordinal form, _&ast;i-ka-_,[^20] is reconstructable on the basis of both external reflexes and the Fijian reflexes below. PMP and POc _&ast;i-_ were clearly nominalising affixes (vol 1:28–29), and the Bauan example cited in (19a) indicates that it still is a nominalisation occupying the possessum slot in the possessive structure. This reconstruction raises questions. Why are the Oceanic reflexes confined to Remote Oceanic? Perhaps because other forms of nominalisation, exemplified above, replaced them. The Micronesian forms have prefixes that in the modern languages are causative. Do they reflect a reduced form of POc _&ast;paka-_ and thus belong in the cognate set above? One cannot tell.
+A further POc ordinal form, _&ast;i-ka-_,[^20]: is reconstructable on the basis of both external reflexes and the Fijian reflexes below. PMP and POc _&ast;i-_ were clearly nominalising affixes (vol 1:28–29), and the Bauan example cited in (19a) indicates that it still is a nominalisation occupying the possessum slot in the possessive structure. This reconstruction raises questions. Why are the Oceanic reflexes confined to Remote Oceanic? Perhaps because other forms of nominalisation, exemplified above, replaced them. The Micronesian forms have prefixes that in the modern languages are causative. Do they reflect a reduced form of POc _&ast;paka-_ and thus belong in the cognate set above? One cannot tell.
 
 [PAn &ast;_Si-ka-NML_](cognatesetreferences.csv#cldf:6-14-5-1-479-POc-ikanml-a)
 
@@ -1089,7 +1089,7 @@ The second characteristic is that if some members of the cognate set occur as fu
 
 <a id="p-483"></a>
 
-Reconstructions sometimes require data from a non-Oceanic language, and the latter are included in some of the cognate sets below.[^21] A datum from one of these languages is only cited if it is glossed as a classifier in the source.
+Reconstructions sometimes require data from a non-Oceanic language, and the latter are included in some of the cognate sets below.[^21]: A datum from one of these languages is only cited if it is glossed as a classifier in the source.
 
 The vast majority of classifier cognate sets in Oceanic languages display neither of the two characteristics and are very probably more recently grammaticalised recruits. This raises a further question. Why have numeral classifier classes blossomed in a few Oceanic subgroups and (almost) vanished from others? Part of the answer may be contact, as bilingualism can transfer semantic patterns from language to language, but there is very little substantive Oceanic evidence about this, positive or negative.
 
@@ -1115,7 +1115,7 @@ The term ‘default’ is used below for a classifier that is used where no othe
 
 The cognate set supporting POc _&ast;kai_ also displays bleaching and fossilisation. All reflexes are consistent with the reconstruction _&ast;kai_ except those in the Central Papuan languages Aroma, Hula, Balawaia and Motu, which support †_&ast;kau-_. The POc noun corresponding to this classifier was _&ast;kayu_ ‘tree’, with reflexes in _-ai_ and _-au_. The Central Papuan languages also have noun forms in _-au_. An economic explanation of the classifier forms is that they have been reshaped to line up with the noun forms. Another set of exceptions is provided by the Micronesian reflexes, which require the reconstruction of two PMic forms: _&ast;-ai_ ‘long slender object’ and _&ast;-kai_ ‘plant, tree, stick’. I take _&ast;-ai_ to reflect the POc classifier and _&ast;kai_ to be a more recent formation based on PMic _&ast;kayu_ ‘wood, pole’.
 
-POc _&ast;kai-_ is widely reflected as a fossilised numeral prefix, suggesting that it became the default inanimate classifier in place of _&ast;pua-_ in parts of Oceanic. Attributive numeral forms in some languages take a prefix reflecting POc _&ast;ka-_, but this almost certainly does not reflect the POc classifier _&ast;kai-_. There is just one instance where the attributive prefix clearly reflects _&ast;kai-_, namely NE Ambae _kai-_.[^22] All other attributives reflect _&ast;ka-_ ([§14.4](ContributionTable?anchor=s-14-4#cldf:6-14)) and this is reason enough to reconstruct attributive _&ast;ka-_ and classifier _&ast;kai-_ separately, and to assume that the two became conflated in NE Ambae.
+POc _&ast;kai-_ is widely reflected as a fossilised numeral prefix, suggesting that it became the default inanimate classifier in place of _&ast;pua-_ in parts of Oceanic. Attributive numeral forms in some languages take a prefix reflecting POc _&ast;ka-_, but this almost certainly does not reflect the POc classifier _&ast;kai-_. There is just one instance where the attributive prefix clearly reflects _&ast;kai-_, namely NE Ambae _kai-_.[^22]: All other attributives reflect _&ast;ka-_ ([§14.4](ContributionTable?anchor=s-14-4#cldf:6-14)) and this is reason enough to reconstruct attributive _&ast;ka-_ and classifier _&ast;kai-_ separately, and to assume that the two became conflated in NE Ambae.
 
 [Nauete &ast;_kai-_](cognatesetreferences.csv#cldf:6-14-6-1-485-POc-kai-a)
 
@@ -1181,7 +1181,7 @@ The reconstruction below is attributed to POc because it meets the distribution 
 
 <a id="s-6-3"></a>
 
-### 6.3. Enumerative classifiers (ECs)[^25]
+### 6.3. Enumerative classifiers (ECs)[^25]:
 
 
 Enumerative classifiers have somewhat different geographic distribution from sortal and mensural classifiers. In subgroups that have an elaborate paradigm of grammaticalised sortal and mensural classifiers, i.e. Kilivila (PT), New Caledonian, Micronesian, Tongic (Pn) and Nuclear Polynesian languages, ECs also typically occur, but they appear to be absent from Admiralties and N-C Vanuatu. They are also found in SE Solomonic languages, which otherwise lack classifiers, as well as a few in North New Guinea languages around the Vitiaz Strait and in Fijian dialects.
@@ -1210,9 +1210,9 @@ What do ECs usually count? In Micronesian languages, where a classifier accompan
 
 <a id="p-492"></a>
 
-The observation in bold type holds for Oceanic languages generally. Coconuts and fish are almost universally counted with ECs in Oceanic languages that have them. There are also ECs for bananas across most of Oceania. Taro and yams are also frequently counted with ECs, but not in Micronesia, where they are less valued or less abundant than breadfruit.[^26] Betelnut, chewed as a stimulant across Near Oceania, is counted with ECs in Papuan Tip and in NW and SE Solomonic (it is not chewed in Remote Oceania).
+The observation in bold type holds for Oceanic languages generally. Coconuts and fish are almost universally counted with ECs in Oceanic languages that have them. There are also ECs for bananas across most of Oceania. Taro and yams are also frequently counted with ECs, but not in Micronesia, where they are less valued or less abundant than breadfruit.[^26]: Betelnut, chewed as a stimulant across Near Oceania, is counted with ECs in Papuan Tip and in NW and SE Solomonic (it is not chewed in Remote Oceania).
 
-Except for betelnut, all the items named in the previous paragraph are foods and, as one might expect, at scattered Oceanic locations other foods are counted with ECs: sago in the Huon Gulf (NNG) and Papuan Tip, canarium nuts in North New Guinea and SE Solomonic, crabs in SE Solomonic, Fijian and Polynesian, flying foxes in Malaita (SES) and northern New Caledonia.[^27]
+Except for betelnut, all the items named in the previous paragraph are foods and, as one might expect, at scattered Oceanic locations other foods are counted with ECs: sago in the Huon Gulf (NNG) and Papuan Tip, canarium nuts in North New Guinea and SE Solomonic, crabs in SE Solomonic, Fijian and Polynesian, flying foxes in Malaita (SES) and northern New Caledonia.[^27]:
 
 There are ECs for pigs in Papuan Tip, SE Solomonic, Fijian and Polynesian. Given the ubiquity of pigs as wealth items in Oceania, one might expect to find ECs with them almost everywhere. Where they are not found, perhaps pigs are counted individually, not in groups.
 
@@ -1245,14 +1245,14 @@ Indeed, ECs with a multiplicand below 10—they include 2, 3, 4, 5 and 6—occur
 
 The correlation between the multiplicand and the product counted is also minimal. In different places coconuts are counted in groups of 2, 3, 4 or 6. The coconuts will be ripe and have been husked, and the fibres on the surface after husking readily allow 2 or 3 coconuts to be tied together. These bundles may in turn be set out in twos to give units of 4 and 6 (no unit of 5 coconuts is found). Fish usually fall into two conventional categories: a fish large enough to form a cooking parcel by itself, and smaller fish that are strung. A string may consist of 2, 3, 4, 5 or 6 fish in Tuam, Nêlêmwa, Bariai, Chuukese and Halia respectively. These differences are presumably based on fish-size plus convention. A number of languages with decimal counting, however, allow strings of 10 fish. Larger, manufactured items are typically counted in pairs. They include pandanus-leaf mats, sleeping mattresses, and lengths of sago thatching attached to some kind of pole, sometimes split bamboos, although the latter are sometimes counted in 3s or 4s.
 
-Probably the most detailed record of ECs in an Oceanic language is [Fox’s](Source#cldf:Fox1931) ([1931](Source#cldf:Fox1931)) description of the hierarchies of ECs in Arosi (SES), on which [Table 14.9](#table-14.9) is based. The second row shows the units that are counted. There are both similarities and differences between the hierarchies used with different objects. A search through [Fox](Source#cldf:Fox1978) ([1978](Source#cldf:Fox1978)) reveals very few alternative meanings for the terms in [Table 14.9](#table-14.9), and the original meanings of Arosi ECs have apparently been lost.[^28]
+Probably the most detailed record of ECs in an Oceanic language is [Fox’s](Source#cldf:Fox1931) ([1931](Source#cldf:Fox1931)) description of the hierarchies of ECs in Arosi (SES), on which [Table 14.9](#tab-14.9) is based. The second row shows the units that are counted. There are both similarities and differences between the hierarchies used with different objects. A search through [Fox](Source#cldf:Fox1978) ([1978](Source#cldf:Fox1978)) reveals very few alternative meanings for the terms in [Table 14.9](#tab-14.9), and the original meanings of Arosi ECs have apparently been lost.[^28]:
 
 
 <a id="p-494"></a>
 
-<a id="table-14.9"> </a>
+<a id="tab-14.9"> </a>
 
-: __Table 14.9__ Enumerative classifiers in Arosi (SES)[^29]
+: __Table 14.9__ Enumerative classifiers in Arosi (SES)[^29]:
 
 |           | Arosi         | W Arosi        | E Arosi        | Arosi                    | W Arosi                  | E Arosi           |
 |:----------|:--------------|:---------------|:---------------|:-------------------------|:-------------------------|:------------------|
@@ -1281,7 +1281,7 @@ Scattered relics suggest that hierarchies of ECs like those in Arosi were more w
 
 <a id="p-495"></a>
 
-<a id="table-14.10"> </a>
+<a id="tab-14.10"> </a>
 
 : __Table 14.10__ Halia (Hanahan) enumerative classifier hierarchies
 
@@ -1298,9 +1298,9 @@ Scattered relics suggest that hierarchies of ECs like those in Arosi were more w
 
 Further west, for taro tubers in Roviana (MM) [Waterhouse](Source#cldf:Waterhouse1949) ([1949](Source#cldf:Waterhouse1949)) lists _hioko_ ‘10 pairs’, _piŋuto_ ‘100 pairs’ and _hiako_ ‘1000 pairs’.
 
-From Halia (MM) [Tsirumits et al.](Source#cldf:Tsirumitsetal2005) ([2005](Source#cldf:Tsirumitsetal2005)) give the hierarchies in [Table 14.10](#table-14.10). Coconuts are counted in fours, each four tied together. Taro, sweet potato, betelnut and flying fish are counted in sixes, but the two hierarchies appear to multiply differently, perhaps because the data are fragmentary. Tsirumits et al. note that an _einase_ may also consist of a single tuna, which is larger than six flying fish. Presumably, an _einase_ was a package of fish for cooking. The term _tolahun_ (‘30 _einase_’) reflects POc _&ast;tolu-ŋapuluq_ ‘30’, but _tolahun_ functions only as an EC, as both 3 and 10 have undergone lexical replacement. Halia for ‘30’ is _topisa maloto_ ‘3 [×] 10’.
+From Halia (MM) [Tsirumits et al.](Source#cldf:Tsirumitsetal2005) ([2005](Source#cldf:Tsirumitsetal2005)) give the hierarchies in [Table 14.10](#tab-14.10). Coconuts are counted in fours, each four tied together. Taro, sweet potato, betelnut and flying fish are counted in sixes, but the two hierarchies appear to multiply differently, perhaps because the data are fragmentary. Tsirumits et al. note that an _einase_ may also consist of a single tuna, which is larger than six flying fish. Presumably, an _einase_ was a package of fish for cooking. The term _tolahun_ (‘30 _einase_’) reflects POc _&ast;tolu-ŋapuluq_ ‘30’, but _tolahun_ functions only as an EC, as both 3 and 10 have undergone lexical replacement. Halia for ‘30’ is _topisa maloto_ ‘3 [×] 10’.
 
-The Tolai (MM) counted wildfowl eggs in fours, taro in sixes, bananas in bundles of 4 hands, and fish in strings of no particular number. Coconuts were counted in pairs, with special terms for 1, 2, 3, 6 and 60 pairs ([Paraide 2008](Source#cldf:Paraide2008)).[^30]
+The Tolai (MM) counted wildfowl eggs in fours, taro in sixes, bananas in bundles of 4 hands, and fish in strings of no particular number. Coconuts were counted in pairs, with special terms for 1, 2, 3, 6 and 60 pairs ([Paraide 2008](Source#cldf:Paraide2008)).[^30]:
 
 A theme that crops up several times above is that scattered Oceanic languages counted certain objects in pairs. Pair-counting in Tongan has been thoroughly investigated by [Bender & Beller](Source#cldf:BenderandBeller2007b) ([2007b](Source#cldf:BenderandBeller2007b)), who write (p219),
 
@@ -1313,9 +1313,9 @@ This is reminiscent of Arosi above, even down to the detail that the Tongan list
 
 [Bender & Beller](Source#cldf:BenderandBeller2006b) ([2006b](Source#cldf:BenderandBeller2006b):384–385) analyse similar pairwise systems in the EPn languages Tahitian, Mangarevan and traditional Maori. [Elbert’s](Source#cldf:Elbert1988) ([1988](Source#cldf:Elbert1988):187) Rennellese audience of 1958 wondered why yams and breadfruit should be counted in pairs, and, as he writes later, without an EC ([§14.1.2](ContributionTable?anchor=s-14-1-2#cldf:6-14).4). [Owens & Lean](Source#cldf:OwensandLean2018) ([2018](Source#cldf:OwensandLean2018):143), citing [Beaglehole & Beaglehole](Source#cldf:BeagleholeandBeaglehole1938) ([1938](Source#cldf:BeagleholeandBeaglehole1938)), note that coconuts are counted in pairs and that the terms used are in some cases identical to the ordinary numerals, i.e. listeners know that coconuts are counted this way.
 
-Other fragments of evidence, namely unexpected numerals within decimal systems, point to pairwise counting. Wuvulu (Adm) and some Central Papuan (PT) languages have a decimal system with unusual numerals for 6 and 8 ([Table 14.11](#table-14.11)), e.g. Motu _taura-toi_ ‘6’ and _taura-hani_ ‘8’. Since _toi_ and _hani_ are 3 and 4 respectively, _taura-_ seems to mean ‘double’ (it is not listed separately in [Lister-Turner & Clark 1954a](Source#cldf:ListerTurnerandClark1954a)), and it is a reasonable inference that it reflects an earlier enumerative classifier meaning ‘pair’.[^32]
+Other fragments of evidence, namely unexpected numerals within decimal systems, point to pairwise counting. Wuvulu (Adm) and some Central Papuan (PT) languages have a decimal system with unusual numerals for 6 and 8 ([Table 14.11](#tab-14.11)), e.g. Motu _taura-toi_ ‘6’ and _taura-hani_ ‘8’. Since _toi_ and _hani_ are 3 and 4 respectively, _taura-_ seems to mean ‘double’ (it is not listed separately in [Lister-Turner & Clark 1954a](Source#cldf:ListerTurnerandClark1954a)), and it is a reasonable inference that it reflects an earlier enumerative classifier meaning ‘pair’.[^32]:
 
-<a id="table-14.11"> </a>
+<a id="tab-14.11"> </a>
 
 : __Table 14.11__ Numerals 1–9 in Wuvulu and certain Central Papuan languages
 
@@ -1346,16 +1346,16 @@ The word _puta_/_putə_ in these examples means ‘sleep’, and is used in the 
 
 Although the evidence in this subsection is fragmentary, it is well enough distributed to suggest that root crops (yams and taro tubers) were already counted in pairs in POc, and this was probably true of other products too.
 
-There is also a tendency to count certain objects in fours. Rongga (CMP) _liwu_ ‘4 coconuts’, Gedaged (NNG) _wal_ ‘4 coconuts tied together’, Halia (MM) _piloto_ ‘4 coconuts’ ([Table 14.10](#table-14.10)) and various Arosi ECs ([Table 14.9](#table-14.9)) crop up in the discussion above. This has resulted in counting systems in which a base of 4 plays an important role.
+There is also a tendency to count certain objects in fours. Rongga (CMP) _liwu_ ‘4 coconuts’, Gedaged (NNG) _wal_ ‘4 coconuts tied together’, Halia (MM) _piloto_ ‘4 coconuts’ ([Table 14.10](#tab-14.10)) and various Arosi ECs ([Table 14.9](#tab-14.9)) crop up in the discussion above. This has resulted in counting systems in which a base of 4 plays an important role.
 
 Some speakers of Wuvulu (Adm; Hafford 2011) recall a quite complex system which counted coconuts in pairs, fours and sixteens. One to five pairs, i.e. 2 to 10 coconuts, are counted with the unaffixed numeral roots 1–5 _roa_, _rua_, _ʔolu_, _fa_ and _rea_, another instance of everyone knowing that certain items were counted in twos. However, 4–12 coconuts could also be counted in fours: _ʔobao_ ‘one bundle of 4’, _rua-ʔo_ ‘2 bundles of 4’, _ʔolu-ʔo_ ‘3 bundles of 4’, where _-ʔo_ was a bundle of 4. At this point the base-4 system dictates a new power of 4, and counting proceeds with the classifier _-moro_ ‘unit of 16’, as far as _fai-ma-moro_ [9×16] ‘144’.
 
-The Wogeo (and Bam) numeral system, as reported by [Exter](Source#cldf:Exter2010) ([2010](Source#cldf:Exter2010)) and shown in [Table 14.12](#table-14.12), has a base of 4. The complex numerals from _kʷik_ ‘4’ upwards are easily parsed:[^33] _kʷik bʷa-kobʷá_ [4+1] ‘5’, _kʷik bʷa-ragó_ [4+2] ‘6’, _kʷik bʷe-tol_ [4+3] ‘7’, _kiki-rua_ [4×2] ‘8’, _kiki-rua bʷa-kobʷá_ [(4×2)+1] ‘9’ and so on. If this were a pure base-4 system, the numerals would continue thus to 15 [(4×3)+3], followed by a new simple term for 16 [^42]. But instead 16 is _kiki-vat_ [4×4] and complex numerals continue to 19 [(4×4)+3], as the new simple numeral is _usú_ ‘20’. Here there is a hiccup, as counting based on _usú_ continues only to 39 [20+(4×4)+3], as there is no †_usu-rua_ but the new simple numeral _kulemʷa_ ‘40’. At this point the system settles down, and _kulemʷa_, like _kʷik_, is used as far as _kulemʷa-vat_ ‘160’ [(40×4)], with complex numerals as far as 199 [(40×4)+20+(4×4)+3], and a new simple numeral _udol_ ‘200’,[^34] used as far as _udol-vat_ ‘800’ with complex numerals as far as 1,999. This is followed by _lima_ ‘1,000’, which continues as the base until _valú_ ‘5000’, which in turn gives way to _ka_ ‘25,000’. The system thus has bases 4, 20, 40, 200, 1000, 5000, 25000.
+The Wogeo (and Bam) numeral system, as reported by [Exter](Source#cldf:Exter2010) ([2010](Source#cldf:Exter2010)) and shown in [Table 14.12](#tab-14.12), has a base of 4. The complex numerals from _kʷik_ ‘4’ upwards are easily parsed:[^33]: _kʷik bʷa-kobʷá_ [4+1] ‘5’, _kʷik bʷa-ragó_ [4+2] ‘6’, _kʷik bʷe-tol_ [4+3] ‘7’, _kiki-rua_ [4×2] ‘8’, _kiki-rua bʷa-kobʷá_ [(4×2)+1] ‘9’ and so on. If this were a pure base-4 system, the numerals would continue thus to 15 [(4×3)+3], followed by a new simple term for 16 [^42]:. But instead 16 is _kiki-vat_ [4×4] and complex numerals continue to 19 [(4×4)+3], as the new simple numeral is _usú_ ‘20’. Here there is a hiccup, as counting based on _usú_ continues only to 39 [20+(4×4)+3], as there is no †_usu-rua_ but the new simple numeral _kulemʷa_ ‘40’. At this point the system settles down, and _kulemʷa_, like _kʷik_, is used as far as _kulemʷa-vat_ ‘160’ [(40×4)], with complex numerals as far as 199 [(40×4)+20+(4×4)+3], and a new simple numeral _udol_ ‘200’,[^34]: used as far as _udol-vat_ ‘800’ with complex numerals as far as 1,999. This is followed by _lima_ ‘1,000’, which continues as the base until _valú_ ‘5000’, which in turn gives way to _ka_ ‘25,000’. The system thus has bases 4, 20, 40, 200, 1000, 5000, 25000.
 
 
 <a id="p-498"></a>
 
-<a id="table-14.12"> </a>
+<a id="tab-14.12"> </a>
 
 : __Table 14.12__ The Wogeo (NNG) numeral system
 
@@ -1402,11 +1402,11 @@ The term _&ast;[-]rau_ reflects POc _&ast;raun_ ‘leaf’ and its genesis is di
 
 [Fox](Source#cldf:Fox1931) ([1931](Source#cldf:Fox1931)), talking about Arosi, says,
 
-> When _husia_ is reached they nip off the leaves (_rawa_, _rau_) of a fern _tahutahu_, and when they are all nipped off this number was _rau_ [a million, see [Table 14.9](#table-14.9)], said to be 100 _husia_ [10,000], but probably varying in number.
+> When _husia_ is reached they nip off the leaves (_rawa_, _rau_) of a fern _tahutahu_, and when they are all nipped off this number was _rau_ [a million, see [Table 14.9](#tab-14.9)], said to be 100 _husia_ [10,000], but probably varying in number.
 
 [Paraide](Source#cldf:Paraide2008) ([2008](Source#cldf:Paraide2008)) reports a similar practice for Tolai.
 
-SE Solomonic, Micronesian and Polynesian in particular have innovated numerals for powers of ten ([Harrison & Jackson 1984](Source#cldf:HarrisonandJackson1984); [Bender & Beller 2006a](Source#cldf:BenderandBeller2006a)) and many, if not all, of these seem to have their origin in enumerative classifiers dedicated to counting certain classes of referent that have been generalised to ever larger classes, as Harrison & Jackson recognised when they etymologised certain higher numerals in Micronesian languages. The evidence lies in cognate sets that include both enumerative and multiplicative classifiers. Two such are Proto Malaita-Makira _&ast;sinola_ and _&ast;pʷela_, which are usually enumerative classifiers in Malaita languages but have apparently been generalised to multiplicative classifiers in Makira. The cognate set reflecting &ast;sinola displays the lability which is typical of decimal systems of enumerative classifiers like that in [Table 14.9](#table-14.9) above.
+SE Solomonic, Micronesian and Polynesian in particular have innovated numerals for powers of ten ([Harrison & Jackson 1984](Source#cldf:HarrisonandJackson1984); [Bender & Beller 2006a](Source#cldf:BenderandBeller2006a)) and many, if not all, of these seem to have their origin in enumerative classifiers dedicated to counting certain classes of referent that have been generalised to ever larger classes, as Harrison & Jackson recognised when they etymologised certain higher numerals in Micronesian languages. The evidence lies in cognate sets that include both enumerative and multiplicative classifiers. Two such are Proto Malaita-Makira _&ast;sinola_ and _&ast;pʷela_, which are usually enumerative classifiers in Malaita languages but have apparently been generalised to multiplicative classifiers in Makira. The cognate set reflecting &ast;sinola displays the lability which is typical of decimal systems of enumerative classifiers like that in [Table 14.9](#tab-14.9) above.
 
 [Proto Malaita-Makira &ast;_sinola_](cognatesetreferences.csv#cldf:6-14-6-4-500-ProtoMalaitaMakira-sinola-a)
 
@@ -1520,7 +1520,7 @@ Micronesian also has a number of unit-of-measurement classifiers with reconstruc
 
 The [NML]{.smallcaps} [CLF]{.smallcaps} structure was a variant of the POc [NML]{.smallcaps} _&ast;ŋa_ [CLF]{.smallcaps} structure, but by the breakup of PMic, POc _&ast;ŋa_ had been lost, except as a fossil in PMic _&ast;-ŋawulu_ ‘unit of 10’ (above) and _&ast;-ŋafa_ ‘fathom’ ([§16.2.1](ContributionTable?anchor=s-16-2-1#cldf:6-14)), and as a prenasalisation in PMic _&ast;-dau_ ‘animate; person’ and _&ast;-bui_ ‘group, herd’.
 
-Although Nauruan is excluded from [Bender et al.](Source#cldf:Benderetal2003a) ([2003a](Source#cldf:Benderetal2003a))—presumably because its historical phonology remains almost unknown ([Nathan 1973](Source#cldf:Nathan1973); [Johnson 1999](Source#cldf:Johnson1999))—it is generally assumed that PMic and Nauruan form the primary branches of a ‘Greater Micronesian’ subgroup. If a classifier has a Nauruan reflex as well as reflexes from other Micronesian languages, that classifier can be attributed to Proto Greater Micronesian (PGMic).[^36] However, Nauruan historical phonology is so poorly understood that no attempt is made at PGMic reconstruction.
+Although Nauruan is excluded from [Bender et al.](Source#cldf:Benderetal2003a) ([2003a](Source#cldf:Benderetal2003a))—presumably because its historical phonology remains almost unknown ([Nathan 1973](Source#cldf:Nathan1973); [Johnson 1999](Source#cldf:Johnson1999))—it is generally assumed that PMic and Nauruan form the primary branches of a ‘Greater Micronesian’ subgroup. If a classifier has a Nauruan reflex as well as reflexes from other Micronesian languages, that classifier can be attributed to Proto Greater Micronesian (PGMic).[^36]: However, Nauruan historical phonology is so poorly understood that no attempt is made at PGMic reconstruction.
 
 
 <a id="p-505"></a>
@@ -1589,7 +1589,7 @@ PPn retained the POc [NML]{.smallcaps} _&ast;ŋa_ [CLF]{.smallcaps} structure al
 
 <a id="p-508"></a>
 
-<a id="table-14.13"> </a>
+<a id="tab-14.13"> </a>
 
 : __Table 14.13__        Decades in Proto Polynesian and Polynesian languages
 
@@ -1614,7 +1614,7 @@ PPn retained the POc [NML]{.smallcaps} _&ast;ŋa_ [CLF]{.smallcaps} structure al
 |        | Rarotongan | _ŋa-huru_            | _rua-ŋa-huru_    | _toru-ŋa-huru_  | _ʔā-ŋa-huru_  | _rima-ŋa-huru_  |
 |        | Tuamotuan  | _a-ŋa-huru_          | —                | —               | —             | —               |
 
-Supporting data for PPn _&ast;-fulu_ are shown in [Table 14.13](#table-14.13). Horizontal lines separate the Tongic languages from Samoic and Samoic from EPn. Hyphens indicate historic morpheme divisions, and not necessarily present ones. A dash indicates that the numeral does not reflect the PPn form. Luangiua _-hui_ reflects PPn _&ast;-fui_ ([§14.6.2](ContributionTable?anchor=s-14-6-2#cldf:6-14)), not _&ast;-fulu_, but the forms are included in the table because they illustrate the fact that _&ast;ŋa_ is sometimes absent after PPn _&ast;rua_ ‘2’ before classifiers other than _&ast;-fulu_.
+Supporting data for PPn _&ast;-fulu_ are shown in [Table 14.13](#tab-14.13). Horizontal lines separate the Tongic languages from Samoic and Samoic from EPn. Hyphens indicate historic morpheme divisions, and not necessarily present ones. A dash indicates that the numeral does not reflect the PPn form. Luangiua _-hui_ reflects PPn _&ast;-fui_ ([§14.6.2](ContributionTable?anchor=s-14-6-2#cldf:6-14)), not _&ast;-fulu_, but the forms are included in the table because they illustrate the fact that _&ast;ŋa_ is sometimes absent after PPn _&ast;rua_ ‘2’ before classifiers other than _&ast;-fulu_.
 
 Other reconstructable classifiers that occur in the same slot include PPn _&ast;-fua_ ‘10 of s.t.’. In Polynesian languages other than Tongan, it is _fua-_, rather than _-fua_, that marks a multiple of 10, but it is included here because it appears to be cognate with Wuvulu _-fua_ ‘10’, which reflects the [NML]{.smallcaps} _&ast;ŋa_ [CLF]{.smallcaps} structure. It apparently reflects POc _&ast;-pua_ ‘default inanimate; round object’ but here has an enumerative or multiplicative function.
 
@@ -1656,7 +1656,7 @@ These preposed classifiers, all of which originally counted tens of something, i
 
 The main conclusion to be drawn from this chapter is that the inherited POc decimal system was fairly restricted in its use. Using simple numerals up to 100, one can construct complex numerals up to 999, and early Oceanic speakers skilled in counting could probably count far beyond this. Numbers up to 20 doubtless had limited everyday uses, but the system was mainly used by senior men to count produce of various kinds in wealth redistribution and exchange ([§14.1.2](ContributionTable?anchor=s-14-1-2#cldf:6-14).1). It is reasonably certain that only a small number of men in any community knew the community’s numeral system in detail, and the passing of such a large and complex system by a few men from generation to generation meant that it was prone to change, especially in the least used, i.e. the highest echelons, of the system ([§14.4.6](ContributionTable?anchor=s-14-4-6#cldf:6-14)).
 
-With one exception, reconstruction of POc decimal numerals is straightforward, and the reconstructions need not be repeated here. They are set out in [Table 14.1](#table-14.1) on [§14.1.2](ContributionTable?anchor=s-14-1-2#cldf:6-14) and justified in sections 14.4.2 and 14.4.3 and their subsections. The exception is the numeral form for ‘one’. When it was attached to a classifier, its form was _&ast;sa-_. Unattached forms apparently included _&ast;(i)sa_, _&ast;ta-sa_, _&ast;tai_, _&ast;ta-kai_ and _&ast;sa-kai_ ([§14.4.1](ContributionTable?anchor=s-14-4-1#cldf:6-14) and subsections). Why there are so many reconstructable forms is not known. Did they have different functions? Or were they the result of an emphatic forms meaning ‘one only’ becoming non-emphatic? What role, if any, did the POc dislike of single-syllable lexical morphemes play in their formation?
+With one exception, reconstruction of POc decimal numerals is straightforward, and the reconstructions need not be repeated here. They are set out in [Table 14.1](#tab-14.1) on [§14.1.2](ContributionTable?anchor=s-14-1-2#cldf:6-14) and justified in sections 14.4.2 and 14.4.3 and their subsections. The exception is the numeral form for ‘one’. When it was attached to a classifier, its form was _&ast;sa-_. Unattached forms apparently included _&ast;(i)sa_, _&ast;ta-sa_, _&ast;tai_, _&ast;ta-kai_ and _&ast;sa-kai_ ([§14.4.1](ContributionTable?anchor=s-14-4-1#cldf:6-14) and subsections). Why there are so many reconstructable forms is not known. Did they have different functions? Or were they the result of an emphatic forms meaning ‘one only’ becoming non-emphatic? What role, if any, did the POc dislike of single-syllable lexical morphemes play in their formation?
 
 
 <a id="p-511"></a>
@@ -1680,7 +1680,7 @@ Not listed below are the following. Many of the numeral forms from NCV languages
 | Amara        | [Thurston 1996a](Source#cldf:Thurston1996a)                                                                      |
 | Ambai        | [Silzer 1983](Source#cldf:Silzer1983)                                                                         |
 | Ambel        | [Arnold 2018](Source#cldf:Arnold2018)                                                                         |
-| Anejom̃      | [Lynch 2000b](Source#cldf:Lynch2000b)                                                                         |
+| Anejom̃       | [Lynch 2000b](Source#cldf:Lynch2000b)                                                                         |
 | Apma         | [Schneider 2010](Source#cldf:Schneider2010)                                                                      |
 | Araki        | [François 2002](Source#cldf:Francois2002)                                                                       |
 | Are          | [Paisawa, Pagotto & Kale 1975](Source#cldf:Paisawaetal1975)                                                        |
@@ -1767,7 +1767,7 @@ Not listed below are the following. Many of the numeral forms from NCV languages
 | Marshallese  | [Harrison & Jackson 1984](Source#cldf:HarrisonandJackson1984)                                                             |
 | Maskelynes   | [Healey 2013](Source#cldf:Healey2013)                                                                         |
 | Matukar      | [Anderson et al. 2010](Source#cldf:Andersonetal2010); [Barth 2012b](Source#cldf:Barth2012b)                                                   |
-| Mav̋ ea      | [Guérin 2011](Source#cldf:Guerin2011)                                                                         |
+| Mav̋ ea       | [Guérin 2011](Source#cldf:Guerin2011)                                                                         |
 | Merei        | [Chung 1998](Source#cldf:Chung1998)                                                                          |
 | Minaveha     | [Lovell 1994](Source#cldf:Lovell1994)                                                                         |
 | Miniafia     | [Wakefield 1975](Source#cldf:Wakefield1975)                                                                      |

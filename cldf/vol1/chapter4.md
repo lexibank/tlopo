@@ -8,7 +8,7 @@
 ## 1. Introduction
 
 
-The artefacts considered here are mainly household items, used in the gathering and storage of food, in the construction and maintenance of dwellings and gardens, and those used for personal adornment. Some of the items—earthenware pots, stone adzes and axes, bone needles, bone and shell ornaments, and stone bark-cloth beaters—have provided archaeologists with data that permit dating. Those made of perishable materials—such as leaf baskets, string bags, mats and bamboo knives—seldom leave any trace in the archaeological record. For these we are dependent on linguistic reconstruction interpreted in the light of current ethnographic practice.[^1]
+The artefacts considered here are mainly household items, used in the gathering and storage of food, in the construction and maintenance of dwellings and gardens, and those used for personal adornment. Some of the items—earthenware pots, stone adzes and axes, bone needles, bone and shell ornaments, and stone bark-cloth beaters—have provided archaeologists with data that permit dating. Those made of perishable materials—such as leaf baskets, string bags, mats and bamboo knives—seldom leave any trace in the archaeological record. For these we are dependent on linguistic reconstruction interpreted in the light of current ethnographic practice.[^1]:
 
 Artefacts are organised under the following headings: (1) containers; (2) mats and cordage; (3) tools; (4) items of body decoration and clothing, and (5) instruments of communication and music. Terms for relevant processes are included. Thus, within the section on mats and cordage we have included terms for weaving, making thread, sewing, and for needle and twine. Often the term for a tool is derived from the verb denoting the activity of using it.
 
@@ -24,7 +24,7 @@ Artefacts are organised under the following headings: (1) containers; (2) mats a
 ### 2.1. Pottery containers
 
 
-Pottery is one of the more distinctive features of the Lapita culture, here held to coincide with and thus be an integral marker of the early dispersal of Proto Oceanic.[^2] Pottery manufacture in Oceania is geographically discontinuous. By no means all Oceanic speakers make pottery. Obviously, pottery can only be made where suitable clay is available, but its availability is no guarantee that pottery will be manufactured. Nor is its absence from the immediate locality a guarantee that pottery will not be made: the Gumawana speakers of the Amphlett group transport their clay some distance by sea from Fergusson Island. As a result of this discontinuity, pots were traditionally important trade items. A linguistic spin-off of this trade is that words for pots are not infrequently loan words, especially in the languages of the people who are not potters.
+Pottery is one of the more distinctive features of the Lapita culture, here held to coincide with and thus be an integral marker of the early dispersal of Proto Oceanic.[^2]: Pottery manufacture in Oceania is geographically discontinuous. By no means all Oceanic speakers make pottery. Obviously, pottery can only be made where suitable clay is available, but its availability is no guarantee that pottery will be manufactured. Nor is its absence from the immediate locality a guarantee that pottery will not be made: the Gumawana speakers of the Amphlett group transport their clay some distance by sea from Fergusson Island. As a result of this discontinuity, pots were traditionally important trade items. A linguistic spin-off of this trade is that words for pots are not infrequently loan words, especially in the languages of the people who are not potters.
 
 
 <a id="p-68"></a>
@@ -398,7 +398,7 @@ Reduplication was regularly used to form intransitive verbs from verbs which wer
 
 [PEOc &ast;_pilos_](cognatesetreferences.csv#cldf:1-4-3-2-85-PEOc-pilos-a)
 
-See Chapter 9, §[§7](ContributionTable?anchor=s-7#cldf:1-4)-8, for discussion of the item above.
+See [Ch. 9](ContributionTable#cldf:1-9) §§[7](ContributionTable?anchor=s-7#cldf:1-9)-[8](ContributionTable?anchor=s-8#cldf:1-9), for discussion of the item above.
 
 [PWOc &ast;_mʷali_](cognatesetreferences.csv#cldf:1-4-3-2-85-PWOc-mali-a)
 
@@ -777,7 +777,7 @@ A similar reconstruction, referring both to a particular shell and to an ornamen
 
 [POc &ast;_japi_](cognatesetreferences.csv#cldf:1-4-5-5-104-POc-japi-a)
 
-Shell items were evidently used not only for decoration but also strung together as a form of wealth. [Seligman](Source#cldf:Seligman1910) ([1910](Source#cldf:Seligman1910):514) writes of the Southern Massim:[^9]
+Shell items were evidently used not only for decoration but also strung together as a form of wealth. [Seligman](Source#cldf:Seligman1910) ([1910](Source#cldf:Seligman1910):514) writes of the Southern Massim:[^9]:
 
 > [_Sapisapi_] is a widely distributed name for the small red or purple discs made from the lip of a bivalve shell which I believe is _Chama pacifica_. There are various qualities of _sapisapi_, and these discs are worn singly as earrings (on a ring of turtle shell), or made up into such standard ornaments as _bagi_ or the necklaces called _samakupa_ at Tubetube. _Bagi_ are always imported and never made locally either at Tubetube or Milne Bay, in both of which localities they constitute the most valuable portable property a man can acquire.
 
@@ -989,7 +989,7 @@ As one moves east, from N.W. Melanesia and the Solomons out into the Pacific, th
 
 Household artefacts varied greatly in the degree to which they were manufactured. A few—coconut-shell containers and shell scrapers—would have been functional more or less in their natural state. Most items were manufactured to some degree, either with use of tools or through skilful manipulation of the raw material. Axe and adze heads had to be shaped and fitted with a handle; wooden bowls required tools that cut and shaped and gouged, smaller versions of the tools used in canoe manufacture. Mats and baskets ranged from the very simple to the intricately shaped and patterned, serving not only as domestic items but also as house walls and canoe sails. Cordage produced not only bags but also a range of fishing nets.
 
-Pottery would seem to be the household artefact requiring the most complex stages of manufacture. There would have been little need of tools beyond paddle (POc _&ast;tapi_) and anvil (POc _&ast;patu_ 'stone'). However, stages would include preparation of the clay involving tempering with sand, moulding, decorating, drying, firing, and, for some, sealing with a vegetable caulking agent.[^11] One would assume that this kind of knowledge would be accumulated over a long period of trial and error, and probably passed down as an integrated procedure. We know that in more recent times the skill of making pots was a jealously guarded trade secret, not one that could simply be copied by examining the final product.
+Pottery would seem to be the household artefact requiring the most complex stages of manufacture. There would have been little need of tools beyond paddle (POc _&ast;tapi_) and anvil (POc _&ast;patu_ 'stone'). However, stages would include preparation of the clay involving tempering with sand, moulding, decorating, drying, firing, and, for some, sealing with a vegetable caulking agent.[^11]: One would assume that this kind of knowledge would be accumulated over a long period of trial and error, and probably passed down as an integrated procedure. We know that in more recent times the skill of making pots was a jealously guarded trade secret, not one that could simply be copied by examining the final product.
 
 One further point that can be made about POc artefacts is that at least some of them demonstrated a desire by their makers to produce something that was more than simply functional. Although this point is illustrated most vividly by archaeological findings dating back to POc times, particularly the early Lapita pots, the mere existence of such decorative items as earrings, arm rings and combs points to a desire for some sort of ornamentation, some kind of artistic expression.
 

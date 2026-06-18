@@ -7,7 +7,7 @@
 ## 1. Introduction
 
 
-Tropical coastal habitats are of two kinds, depending on whether or not fresh as well as salt water is available along the coastal strip. If fresh water is available, then a mangrove swamp may occur (chapter 6). If there is no fresh water or if mangroves are removed by human agency, a beach is formed.[^1] In NW Island Melanesia beaches are usually sandy (rather than pebbly) and range from almost white, from the erosion of coral reefs and shells, to almost black, from the erosion of volcanic rocks. A beach creates an environment for coastal strand vegetation, which typically consists of three zones, the first two usually forming quite narrow bands:[^2]
+Tropical coastal habitats are of two kinds, depending on whether or not fresh as well as salt water is available along the coastal strip. If fresh water is available, then a mangrove swamp may occur (chapter 6). If there is no fresh water or if mangroves are removed by human agency, a beach is formed.[^1]: In NW Island Melanesia beaches are usually sandy (rather than pebbly) and range from almost white, from the erosion of coral reefs and shells, to almost black, from the erosion of volcanic rocks. A beach creates an environment for coastal strand vegetation, which typically consists of three zones, the first two usually forming quite narrow bands:[^2]:
 
 - herbaceous zone ([§3](../contributions/3-5#s-3));
 - beach scrub ([§4](../contributions/3-5#s-4));
@@ -733,7 +733,7 @@ On Waya Island (Fiji) the flowers are said to have provided medicine for asthma 
 
 <a id="p-137"></a>
 
-There is some evidence that for early Oceanic speakers _Hernandia nymphaeifolia_ and _Thespesia populnea_ ([§4.1.6](../contributions/3-5#s-4-1-6)) formed a taxon.[^7] Both are small shore trees and both have hard wood that is used for hourglass drums. In Lau the regular reflex of POc _&ast;biRi-biRi_ '_Hernandia nymphaeifolia_' denotes '_Thespesia populnea_'. In Wayan Fijian the same is true of a borrowed reflex of _&ast;biRi-biRi_. The Kiribati reflex of _&ast;biRi-biRi_ appears to denote both tree species.
+There is some evidence that for early Oceanic speakers _Hernandia nymphaeifolia_ and _Thespesia populnea_ ([§4.1.6](../contributions/3-5#s-4-1-6)) formed a taxon.[^7]: Both are small shore trees and both have hard wood that is used for hourglass drums. In Lau the regular reflex of POc _&ast;biRi-biRi_ '_Hernandia nymphaeifolia_' denotes '_Thespesia populnea_'. In Wayan Fijian the same is true of a borrowed reflex of _&ast;biRi-biRi_. The Kiribati reflex of _&ast;biRi-biRi_ appears to denote both tree species.
 
 The Nduke and Roviana reflexes appear to denote _Excoecaria agallocha_ ([ch.6, §4.3](../contributions/3-6#s-4-3)), the leaves of which resemble those of _Hernandia nymphaeifolia_ (W. McClatchey, pers. comm.).
 
@@ -1922,9 +1922,9 @@ _Vitex trifolia_ is an erect shrub or small tree: 1-5 m tall which grows on the 
 
 _Vitex trifolia_ has sprays of blue-purple flowers and fruit. All parts of the plant are aromatic. On New Ireland the crushed leaves are used against headache. On Waya juice from the leaves is used as a healing agent for wounds ([Peekel 1984](../sources/Peekel1984):481, [Gardner & Pawley 2006](../sources/GardnerandPawley2006)).
 
-The POc term for _Vitex trifolia_ was _&ast;drala_. Both POc _&ast;drala_ '_Vitex trifolia_' and POc _&ast;rarap_ 'Indian coral tree, _Erythrina variegata_' ([§5.5](../contributions/3-5#s-5-5)) are regularly reflected as Bauan Fijian _drala_.[^12] The two terms are disambiguated by the addition of _sala_ 'path, road, track' to form the binomial _drala sala_ '_Vitex trifolia_'.
+The POc term for _Vitex trifolia_ was _&ast;drala_. Both POc _&ast;drala_ '_Vitex trifolia_' and POc _&ast;rarap_ 'Indian coral tree, _Erythrina variegata_' ([§5.5](../contributions/3-5#s-5-5)) are regularly reflected as Bauan Fijian _drala_.[^12]: The two terms are disambiguated by the addition of _sala_ 'path, road, track' to form the binomial _drala sala_ '_Vitex trifolia_'.
 
-In PPn the two forms would similarly have fallen together as _&ast;lala_, but here the form survived with the meaning '_Vitex trifolia_', whilst PPn †_&ast;lala_ '_Erythrina variegata_' was lost.[^13]
+In PPn the two forms would similarly have fallen together as _&ast;lala_, but here the form survived with the meaning '_Vitex trifolia_', whilst PPn †_&ast;lala_ '_Erythrina variegata_' was lost.[^13]:
 
 <table class="cognateset" id="3-5-4-1-146-POc-drala-a">
 <tr>
@@ -2035,7 +2035,7 @@ The long strong woody stem remains pliable and serves the functions of a rope. T
 
 
 
-POc _&ast;waR[e]_ '_Flagellaria indica_' reflects PMP _&ast;huaR_ '_Flagellaria indica_' (ACD). The expected POc descendant of this form is _&ast;waR_, and this is reflected by Nduke _[a]r-ara_ (reduplicated) and Kokota _n-ara_.[^14] POc was seemingly resistant to monosyllabic content words, and Mussau, Seimat and Kwara'ae reflect a form with a final vowel, which shows up as _&ast;-e_ in Mussau and Kwara'ae.
+POc _&ast;waR[e]_ '_Flagellaria indica_' reflects PMP _&ast;huaR_ '_Flagellaria indica_' (ACD). The expected POc descendant of this form is _&ast;waR_, and this is reflected by Nduke _[a]r-ara_ (reduplicated) and Kokota _n-ara_.[^14]: POc was seemingly resistant to monosyllabic content words, and Mussau, Seimat and Kwara'ae reflect a form with a final vowel, which shows up as _&ast;-e_ in Mussau and Kwara'ae.
 
 The Muyuw, Sursurunga, Tangga and Mwotlap forms all reflect POc &ast;-l-. Muyuw _weled_ also has a final _-d_, and may be a chance resemblance rather than a cognate. The other forms shown under 'cf. also', however, are either outcomes of borrowing or reflect a POc alternant _&ast;wale_.
 
@@ -2295,7 +2295,7 @@ The distribution of _Adenanthera pavonina_ is odd: it is reported from Papua New
 </tr>
 </table>
 
-The data below allow the reconstruction of PSOc _&ast;bisu_ 'bead tree, _Adenanthera pavonina_' but may actually reflect a Pacific Pidgin term based on English 'peas' or 'beads'.[^15]
+The data below allow the reconstruction of PSOc _&ast;bisu_ 'bead tree, _Adenanthera pavonina_' but may actually reflect a Pacific Pidgin term based on English 'peas' or 'beads'.[^15]:
 
 <table id="3-5-5-1-149-ncv-neambae-bise">
 <tr>
@@ -2363,11 +2363,11 @@ For naming purposes, _Barringtonia_ species in NW Island Melanesia fall into two
 - those with edible nuts: _Barringtonia novae-hiberniae_, _Barringtonia procera_ and _Barringtonia edulis_ ([ch.11, §2.3](../contributions/3-11#s-2-3)); and
 - those with inedible nuts, of which just one species, _Barringtonia asiatica_, has a reconstructable name and is the subject of this section.
 
-Two other species with inedible nuts, _Barringtonia racemosa_ and _Barringtonia niedenzuana_, resemble _Barringtonia edulis_ in appearance.[^16] The Patpatar and Tolai names for _Barringtonia racemosa_ are respectively _paua-paua_ and _pao-pao_, reduplicated forms of Patpatar _paua_ and Tolai _pao_ '_Barringtonia edulis_' ([Peekel 1984](../sources/Peekel1984): 397-399), the reduplication expressing the inferiority of _Barringtonia racemosa_ ([ch.2, §7.2](../contributions/3-2#s-7-2)).
+Two other species with inedible nuts, _Barringtonia racemosa_ and _Barringtonia niedenzuana_, resemble _Barringtonia edulis_ in appearance.[^16]: The Patpatar and Tolai names for _Barringtonia racemosa_ are respectively _paua-paua_ and _pao-pao_, reduplicated forms of Patpatar _paua_ and Tolai _pao_ '_Barringtonia edulis_' ([Peekel 1984](../sources/Peekel1984): 397-399), the reduplication expressing the inferiority of _Barringtonia racemosa_ ([ch.2, §7.2](../contributions/3-2#s-7-2)).
 
 _Barringtonia asiatica_ is a large beach tree, 10--20 m high, which is able to grow with its roots in salt water at times. It has large white and pink flowers which open at night and close in the morning, and ten-centimetre square fruits that float in the sea and sprout when they reach the shore. Fishermen use them as buoys or fishing floats. The seeds contain a poison. In New Ireland they are grated and thrown into the water to stun fish in pools on the reef. At Marovo they are sometimes used to kill dogs, but they also serve as medication for ringworm, scabies and other skin diseases ([French-Wright 1983](../sources/FrenchWright1983): 157, [Peekel 1984](../sources/Peekel1984): 397, [Hviding 2005](../sources/Hviding2005): 139)
 
-Two terms are reconstructable, POc _&ast;putun_, which is reflected all over Oceania except in parts of Vanuatu, where it is replaced by PNCV _&ast;vuabu_,[^17] and in the Chuukic languages of Micronesia, where it is replaced by a reflex of POc _&ast;kuluR_ 'breadfruit, _Artocarpus altilis_' ([Ch.9, §4](../contributions/3-9#s-4)).
+Two terms are reconstructable, POc _&ast;putun_, which is reflected all over Oceania except in parts of Vanuatu, where it is replaced by PNCV _&ast;vuabu_,[^17]: and in the Chuukic languages of Micronesia, where it is replaced by a reflex of POc _&ast;kuluR_ 'breadfruit, _Artocarpus altilis_' ([Ch.9, §4](../contributions/3-9#s-4)).
 
 <a id="fig-3-5_8"> </a>
 
@@ -3236,7 +3236,7 @@ The POc term for the casuarina was _&ast;aRu_, but a compound form can also be r
 
 The term for casuarina in Polynesian languages reflects PPn _&ast;toa_, itself a reflex of POc _&ast;toRas_ '_Intsia bijuga_' ([ch.7, §4.9](../contributions/3-7#s-4-9)). This shift in denotatum presumably reflects the fact that both the casuarina and _Intsia bijuga_ yield excellent hardwood.
 
-So many reflexes of _&ast;aRu_ have an initial _y-_ (or other accretion) that it is tempting to reconstruct †_&ast;yaRu_. This would be an error, however. Frantisek [Lichtenberk](../sources/Lichtenberk1988) ([1988](../sources/Lichtenberk1988)) has shown the accretions in the SE Solomonic languages below are part of the regular reflexes of POc initial _&ast;a-_. The same is evidently true in many other Oceanic languages, as accretions occur regularly in this context, as illustrated by a number of items reconstructed in volumes 1 and 2 for which non-Oceanic evidence requires the reconstruction of POc initial _&ast;a-_.[^19]
+So many reflexes of _&ast;aRu_ have an initial _y-_ (or other accretion) that it is tempting to reconstruct †_&ast;yaRu_. This would be an error, however. Frantisek [Lichtenberk](../sources/Lichtenberk1988) ([1988](../sources/Lichtenberk1988)) has shown the accretions in the SE Solomonic languages below are part of the regular reflexes of POc initial _&ast;a-_. The same is evidently true in many other Oceanic languages, as accretions occur regularly in this context, as illustrated by a number of items reconstructed in volumes 1 and 2 for which non-Oceanic evidence requires the reconstruction of POc initial _&ast;a-_.[^19]:
 
 
 <a id="p-157"></a>
@@ -3552,7 +3552,7 @@ _Erythrina variegata_ is typically found in sandy soil in littoral forest, but i
 
 Among the Nakanai _Erythrina variegata_ saplings are used to make pig spears and the leaves to dress wounds. It is widely used to make living fences ([Floyd 1954](../sources/Floyd1954), [Arentz et al. 1989](../sources/Arentzetal1989)). Boiled in coconut milk the leaves make an excellent vegetable. [Sorensen](../sources/Sorensen1950) ([1950](../sources/Sorensen1950)) writes that they are eaten by immigrants to Ninigo but not by its natives.
 
-POc appears to have had two terms denoting _Erythrina variegata_, _&ast;[baR]baR_ and _&ast;rarap_, both inherited from PMP. Philippine cognates, however, suggest that PMP _&ast;baRbaR_[^21] denoted _Erythrina variegata_ and _&ast;dapdap_ one or more other species, as [Madulid](../sources/Madulid2001b) ([2001b](../sources/Madulid2001b): 121) lists Ilokano _bakbak_ and Tagalog _bagbag_ as '_Erythrina variegata_' but Bagobo _dadap_ and Hiligaynon Bisayan _dapdap_ as '_Erythrina subumbrans_' and Tagalog _dapdap_ as '_Erythrina fusca_, _Erythrina subumbrans_'. _Erythrina fusca_ is a swamp species and _Erythrina subumbrans_ differs from other species in having flowers that are greenish to pale red ([Whistler & Elevitch 2006c](../sources/WhistlerandElevitch2006c)). It is thus likely that POc _&ast;rarap_ denoted a taxon of _Erythrina_ spp. rather than just _Erythrina variegata_.
+POc appears to have had two terms denoting _Erythrina variegata_, _&ast;[baR]baR_ and _&ast;rarap_, both inherited from PMP. Philippine cognates, however, suggest that PMP _&ast;baRbaR_[^21]: denoted _Erythrina variegata_ and _&ast;dapdap_ one or more other species, as [Madulid](../sources/Madulid2001b) ([2001b](../sources/Madulid2001b): 121) lists Ilokano _bakbak_ and Tagalog _bagbag_ as '_Erythrina variegata_' but Bagobo _dadap_ and Hiligaynon Bisayan _dapdap_ as '_Erythrina subumbrans_' and Tagalog _dapdap_ as '_Erythrina fusca_, _Erythrina subumbrans_'. _Erythrina fusca_ is a swamp species and _Erythrina subumbrans_ differs from other species in having flowers that are greenish to pale red ([Whistler & Elevitch 2006c](../sources/WhistlerandElevitch2006c)). It is thus likely that POc _&ast;rarap_ denoted a taxon of _Erythrina_ spp. rather than just _Erythrina variegata_.
 
 <table class="cognateset" id="3-5-5-5-159-POc-barbar-a">
 <tr>
@@ -3784,7 +3784,7 @@ The forms Tawala _lawa-lawa_ and Roviana _rapo-rapo_ above suggest at first sigh
 ### 5.6. _Fagraea berteroana_ (syn. _Fagraea peekelii_) (Loganiaceae)
 
 
-Of the three species of _Fagraea_ that concern us here, one, _Fagraea berteroana_,[^23] grows in the Bismarcks ([Peekel 1984](../sources/Peekel1984): 437) and is the principal denotatum of the reconstructions below ([Figure 5.11](#fig-3-5_11), right). A second, _Fagraea racemosa_ (syn. _Fagraea ligustrina_, _Fagraea maingayi_, _Fagraea pauciflora_) is not reported from the Bismarcks, although it is found on the New Guinea mainland and Bougainville and in the Solomons ([Henderson & Hancock 1988](../sources/HendersonandHancock1988): 171, [Conn & Damas 2006](../sources/ConnandDamas2006)). The third, _Fagraea gracilipes_, is reported only from the western Solomons and from Fiji ([Hviding 2005](../sources/Hviding2005): 104, Capell1941).
+Of the three species of _Fagraea_ that concern us here, one, _Fagraea berteroana_,[^23]: grows in the Bismarcks ([Peekel 1984](../sources/Peekel1984): 437) and is the principal denotatum of the reconstructions below ([Figure 5.11](#fig-3-5_11), right). A second, _Fagraea racemosa_ (syn. _Fagraea ligustrina_, _Fagraea maingayi_, _Fagraea pauciflora_) is not reported from the Bismarcks, although it is found on the New Guinea mainland and Bougainville and in the Solomons ([Henderson & Hancock 1988](../sources/HendersonandHancock1988): 171, [Conn & Damas 2006](../sources/ConnandDamas2006)). The third, _Fagraea gracilipes_, is reported only from the western Solomons and from Fiji ([Hviding 2005](../sources/Hviding2005): 104, Capell1941).
 
 _Fagraea berteroana_ takes several forms. Peekel describes two. In the Bismarcks it is either a foreshore shrub, 2-6 m tall, with no bole - it branches at ground level - or an epiphyte, growing on another tree, commonly _Inocarpus_, _Intsia_ or _Calophyllum_, without a stem of its own and without taking nutrients from its host. The epiphyte form is also described by [Kwa'ioloa & Burt](../sources/KwaioloaandBurt2001) ([2001](../sources/KwaioloaandBurt2001): 228) and mentioned by [Wheatley](../sources/Wheatley1992) ([1992](../sources/Wheatley1992): 146) and [Whistler & Elevitch](../sources/WhistlerandElevitch2006d) ([2006d](../sources/WhistlerandElevitch2006d)). The latter two sources also describe a third form, a small tree growing to 15-20 m, with a bole that is rarely straight and often branches low. Frederick Damon (pers. comm.) reports that the bole is very durable and on Woodlark Island is sometimes used for houseposts instead of _Intsia bijuga_. In whatever form, _Fagraea berteroana_ has wonderfully scented tubular white flowers which are white for the first two days, turning yolk-yellow on days 3 and 4. Its wood is light brown and durable.
 
@@ -4472,7 +4472,7 @@ Both are trees growing to 10-20m in height, with a bole which divides low into s
 
 <a id="p-168"></a>
 
-Two forms denoting _Pisonia_ species are reconstructable. POc _&ast;[a]nuliŋ_ may well have denoted both _Pisonia_ species. PEOc _&ast;buka_ evidently denoted a taxon of littoral trees, including _Pisonia_ species and _Gyrocarpus americanus_, expanded in PCP to include _Hernandia nymphaeifolia_.[^26]
+Two forms denoting _Pisonia_ species are reconstructable. POc _&ast;[a]nuliŋ_ may well have denoted both _Pisonia_ species. PEOc _&ast;buka_ evidently denoted a taxon of littoral trees, including _Pisonia_ species and _Gyrocarpus americanus_, expanded in PCP to include _Hernandia nymphaeifolia_.[^26]:
 
 <table class="cognateset" id="3-5-5-11-168-POc-anuli-a">
 <tr>
@@ -4806,7 +4806,7 @@ POLLEX2 and [Geraghty](../sources/Geraghty2004) ([2004](../sources/Geraghty2004)
 ### 5.13. _Premna_ spp. (Verbenaceae)
 
 
-Two _Premna_ species concern us here. _Premna integrifolia_ (syn. _Premna divaricata_) is reported in the Bismarcks, _Premna corymbosa_ (syn. _Premna serratifolia_) in the Solomons and Vanuatu ([Figure 5.14](#fig-3-5_14), right).[^27] Both are small trees, 4--8 m tall, usually growing immediately behind the beach, although _Premna integrifolia_ is reportedly also found in primary forest. At Marovo _Premna corymbosa_ grows mainly on coral islets on ocean-facing reefs, typically together with _Pemphis acidula_.
+Two _Premna_ species concern us here. _Premna integrifolia_ (syn. _Premna divaricata_) is reported in the Bismarcks, _Premna corymbosa_ (syn. _Premna serratifolia_) in the Solomons and Vanuatu ([Figure 5.14](#fig-3-5_14), right).[^27]: Both are small trees, 4--8 m tall, usually growing immediately behind the beach, although _Premna integrifolia_ is reportedly also found in primary forest. At Marovo _Premna corymbosa_ grows mainly on coral islets on ocean-facing reefs, typically together with _Pemphis acidula_.
 
 Both _Premna_ species tend to branch at the base, with several erect branches, but sometimes they sprawl horizontally. They have hard yellowish wood, white flowers and blue-black to black berries 6--9 mm across, reminiscent of European elderflower and elderberries ([Peekel 1984](../sources/Peekel1984):479, [Henderson & Hancock 1988](../sources/HendersonandHancock1988):169-171, [Wheatley 1992](../sources/Wheatley1992):244, [Kwa'ioloa & Burt 2001](../sources/KwaioloaandBurt2001): 164, [Hviding 2005](../sources/Hviding2005): 107-108).
 

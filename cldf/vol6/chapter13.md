@@ -8,7 +8,7 @@
 ## 1. Introduction
 
 
-This chapter aims first to describe the development of trade and exchange in early Oceanic society. It includes any activity carried out for the benefit of its participants involving not only the transfer of goods but also intangibles like labour and knowledge (§[§13.1](ContributionTable?anchor=s-13-1#cldf:6-13)–2). The nature of wealth is described ([§13.2](ContributionTable?anchor=s-13-2#cldf:6-13), [§13.5](ContributionTable?anchor=s-13-5#cldf:6-13)). It then takes a wider view of verbs involved in the transfer of possession, subsumed under verbs of giving and receiving ([§13.6](ContributionTable?anchor=s-13-6#cldf:6-13)).
+This chapter aims first to describe the development of trade and exchange in early Oceanic society. It includes any activity carried out for the benefit of its participants involving not only the transfer of goods but also intangibles like labour and knowledge (§§[13.1](ContributionTable?anchor=s-13-1#cldf:6-13)-[13.2](ContributionTable?anchor=s-13-2#cldf:6-13)). The nature of wealth is described ([§13.2](ContributionTable?anchor=s-13-2#cldf:6-13), [§13.5](ContributionTable?anchor=s-13-5#cldf:6-13)). It then takes a wider view of verbs involved in the transfer of possession, subsumed under verbs of giving and receiving ([§13.6](ContributionTable?anchor=s-13-6#cldf:6-13)).
 
 In Melanesia as a general rule, food and shelter are available to all members of a community. Land is owned by the family or clan, and industry alone is required to provide food. For shelter, the bush provides the material, everyone knows the rudiments of house-building, and the assistance of relatives is readily secured for a slight compensation. As [Powdermaker](Source#cldf:Powdermaker1933) ([1933](Source#cldf:Powdermaker1933):223) writes, describing life in Lesu (= Notsi), a small village of Oceanic speakers in New Ireland:
 
@@ -193,7 +193,7 @@ Co-existing shell and teeth currencies are not true currencies insofar as they t
 ### 4.4. Valuables
 
 
-Other valuables not generally classified as currency but included in the most important classes of payments made within a community – brideprice, indemnification, payments to sorcerers – include body ornaments like combs (POc _&ast;saRu_), arm and leg bands (POc _&ast;bara_ ‘plaited cane armlet’), shell breast plates (POc _&ast;japi_ ‘bivalve, possibly gold-lipped pearlshell; ornament made from this’), necklaces and ornaments for ear and nose (POc _&ast;(sabi-)sabi_ ‘shell disc uused as earring’) ([Hogbin 1939](Source#cldf:Hogbin1939):48).[^1] Santa Cruz is noted for its belts of red feathers called teau in Natügu ([Koch 1971](Source#cldf:Koch1971):156), while in Sio in the Vitiaz Strait and along the north coast of New Guinea pairs of curved boars' tusks known as saŋiri are sought-after ([Harding 1967](Source#cldf:Harding1967):47). In Polynesia where the giving of gifts is highly ritualised, tapa and fine mats are a major form of wealth ([Tcherkézoff 2017](Source#cldf:Tcherkezoff2017)).
+Other valuables not generally classified as currency but included in the most important classes of payments made within a community – brideprice, indemnification, payments to sorcerers – include body ornaments like combs (POc _&ast;saRu_), arm and leg bands (POc _&ast;bara_ ‘plaited cane armlet’), shell breast plates (POc _&ast;japi_ ‘bivalve, possibly gold-lipped pearlshell; ornament made from this’), necklaces and ornaments for ear and nose (POc _&ast;(sabi-)sabi_ ‘shell disc uused as earring’) ([Hogbin 1939](Source#cldf:Hogbin1939):48).[^1]: Santa Cruz is noted for its belts of red feathers called teau in Natügu ([Koch 1971](Source#cldf:Koch1971):156), while in Sio in the Vitiaz Strait and along the north coast of New Guinea pairs of curved boars' tusks known as saŋiri are sought-after ([Harding 1967](Source#cldf:Harding1967):47). In Polynesia where the giving of gifts is highly ritualised, tapa and fine mats are a major form of wealth ([Tcherkézoff 2017](Source#cldf:Tcherkezoff2017)).
 
 [PPn &ast;_taqoŋa_](cognatesetreferences.csv#cldf:6-13-4-4-412-PPn-taqoa-a)
 
@@ -246,7 +246,7 @@ Three verbs meaning to ‘distribute’ are reconstructed here:
 - POc _&ast;soli_, _&ast;soli(t,ŋ)-i-_ ‘distribute, pass to another’
 - POc _&ast;tara(s)_, _&ast;taras-i-_ ‘distribute, divide up, share’
 
-Distributing food among large numbers of people at feasts continues in many Oceanic speaking cultures, and was apparently the activity denoted by POc _&ast;wase_, reflexes of which are well distributed across Oceania. Blust (ACD) glosses _&ast;wase_ ‘distribute, as food at a feast’, but its uses evidently extended on the one hand to dividing something up and counting the portions, and on the other to giving (freely and without expectation of return). The ‘count’ sense is reflected in the Admiralties, North New Guinea, Meso-Melanesian and Micronesian, but there are indications that the wider senses have persisted in some languages (Gedaged, Sinaugoro). The ‘give’ sense has led to the use of the reflex of _&ast;wase_ as the default term for ‘give’ in a number of Oceanic languages of SW New Britain and the SE Solomons. In Central Pacific languages, it is the ‘divide up’ sense that has mainly survived. Thus the reflexes of _&ast;wase_ attest to several semantic shifts.[^2]
+Distributing food among large numbers of people at feasts continues in many Oceanic speaking cultures, and was apparently the activity denoted by POc _&ast;wase_, reflexes of which are well distributed across Oceania. Blust (ACD) glosses _&ast;wase_ ‘distribute, as food at a feast’, but its uses evidently extended on the one hand to dividing something up and counting the portions, and on the other to giving (freely and without expectation of return). The ‘count’ sense is reflected in the Admiralties, North New Guinea, Meso-Melanesian and Micronesian, but there are indications that the wider senses have persisted in some languages (Gedaged, Sinaugoro). The ‘give’ sense has led to the use of the reflex of _&ast;wase_ as the default term for ‘give’ in a number of Oceanic languages of SW New Britain and the SE Solomons. In Central Pacific languages, it is the ‘divide up’ sense that has mainly survived. Thus the reflexes of _&ast;wase_ attest to several semantic shifts.[^2]:
 
 
 <a id="p-415"></a>
@@ -341,7 +341,7 @@ Indeed, it is fairly common to find verbs in Oceanic languages that function as 
 
 [6-13-6-None-421-27](examplegroups.csv#cldf:6-13-6-None-421-27)
 
-Across languages the archetypal change of possession verb is the one that means ‘give’. In POc this was evidently _&ast;pani-_, which took the recipient as its object, as the verbs below with an encliticised or suffixed object marker show.[^4] The fact that it took the recipient as object resulted in use first as the final verb in a serial verb construction, where it marked the recipient or beneficiary, then in its grammaticisation as a benefactive marker or preposition in various languages, as in Manam:
+Across languages the archetypal change of possession verb is the one that means ‘give’. In POc this was evidently _&ast;pani-_, which took the recipient as its object, as the verbs below with an encliticised or suffixed object marker show.[^4]: The fact that it took the recipient as object resulted in use first as the final verb in a serial verb construction, where it marked the recipient or beneficiary, then in its grammaticisation as a benefactive marker or preposition in various languages, as in Manam:
 
 [6-13-6-None-421-28](examplegroups.csv#cldf:6-13-6-None-421-28)
 
@@ -387,7 +387,7 @@ Another English verb where the agent illicitly transfers possession of something
 ## 7. Conclusion
 
 
-This chapter has the rather clumsy title of ‘Trade, exchange, distribution and transfer of possession’, but a common thread is that almost all its verbs profile a change of possession of some kind (§[§13.3](ContributionTable?anchor=s-13-3#cldf:6-13), 13.5.1, 13.5.3–4, 13.6).
+This chapter has the rather clumsy title of ‘Trade, exchange, distribution and transfer of possession’, but a common thread is that almost all its verbs profile a change of possession of some kind (§§13.3, 13.5.1, 13.5.3–4, 13.6).
 
 Something of what is known about trade prior to European contact is summarised in [§13.2](ContributionTable?anchor=s-13-2#cldf:6-13). Trade routes cannot be projected back in any detail to Lapita times, but the archaeology shows that trade has always been an important aspect of Oceanic speakers’ ways of life and provides insight into what has been traded.
 

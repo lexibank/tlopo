@@ -77,7 +77,7 @@ This, then, is the structural context of the items in (1) that begin with a hyph
 ## 3. Melanesian shell money
 
 
-Many of the measurement terms discussed in this chapter have their origin in the measurement of Melanesian shell money. These ‘currencies’ are found in a more or less continuous region that stretches from the Admiralties via New Britain, New Ireland, Bougainville and the NW and SE Solomons to the Banks and Torres Islands of Vanuatu.[^1] In smaller units they appear to have been used for everyday transactions at some locations, e.g. among the Tolai of NE New Britain. Perhaps wherever they were used, large quantities were accrued by individuals and were used in a variety of ceremonies, including bride wealth payments, land rights payments, mortuary exchanges, initiation presentations ([Hogbin 1964a](Source#cldf:Hogbin1964a); [Epstein 1969](Source#cldf:Epstein1969):ch.7; [Counts & Counts 1970](Source#cldf:CountsandCounts1970); [Simet 1991](Source#cldf:Simet1991); see [§13.5](ContributionTable?anchor=s-13-5#cldf:6-16)). The literature on the cultural roles of shell money is substantial and often engages in controversy, and we lack the relevant expertise to discuss it here.[^2]
+Many of the measurement terms discussed in this chapter have their origin in the measurement of Melanesian shell money. These ‘currencies’ are found in a more or less continuous region that stretches from the Admiralties via New Britain, New Ireland, Bougainville and the NW and SE Solomons to the Banks and Torres Islands of Vanuatu.[^1]: In smaller units they appear to have been used for everyday transactions at some locations, e.g. among the Tolai of NE New Britain. Perhaps wherever they were used, large quantities were accrued by individuals and were used in a variety of ceremonies, including bride wealth payments, land rights payments, mortuary exchanges, initiation presentations ([Hogbin 1964a](Source#cldf:Hogbin1964a); [Epstein 1969](Source#cldf:Epstein1969):ch.7; [Counts & Counts 1970](Source#cldf:CountsandCounts1970); [Simet 1991](Source#cldf:Simet1991); see [§13.5](ContributionTable?anchor=s-13-5#cldf:6-16)). The literature on the cultural roles of shell money is substantial and often engages in controversy, and we lack the relevant expertise to discuss it here.[^2]:
 
 In parts of the NW Solomons, shell money consists of rings or drums made from the shell of the giant clam (genus _Tridacna_; [vol.4:189](ContributionTable?anchor=p-189#cldf:4-4)–190). Elsewhere in the region it consists of disks manufactured from various shell species, each disk about a centimetre in diameter with a hole in the centre. The disks are threaded onto strong, fine string, packed together so that, where disks made of shells of different colours alternate, they form a colourful pattern. A number of different shellfish species supply the shells. A major shell-money production centre in Malaita is at Langalanga Lagoon, where inhabitants of the artificial islets built from coral make their living by manufacturing shell money. Four shell species are used: omu ‘red- lipped oyster, Chana pacifica’; kakadu ‘ridged white cockleshell, Anadara granosa’; kurila ‘black mussel, Atrina vexillum’; and ke’e ‘half-round cardita, Beguina semiorbiculata)’ ([Goto 1996](Source#cldf:Goto1996)). In other locations nassa shells (dog whelks), cowries, cone shells or Spondylus shells are used.
 
@@ -97,7 +97,7 @@ The strings of shell money circulate in varying lengths, and the main use of a n
 | _vataŋa_    | fingertips to centre chest (half-fathom)    |                     0.5 |
 | _pram_      | double arm span (fathom)                    |                     1   |
 
-Rickard’s (1893:48–49)[^3] and [Salisbury’s](Source#cldf:Salisbury1966) ([1966](Source#cldf:Salisbury1966):115–116) Tolai lists include terms for longer strings and a ‘coil’.
+Rickard’s (1893:48–49)[^3]: and [Salisbury’s](Source#cldf:Salisbury1966) ([1966](Source#cldf:Salisbury1966):115–116) Tolai lists include terms for longer strings and a ‘coil’.
 
 6)
 
@@ -252,7 +252,7 @@ The numeral classifier _&ast;-ŋapa_ continues to be reflected as a classifier i
 | fathoms:       | one        | two         | three         |
 |:---------------|:-----------|:------------|:--------------|
 | POc            | _&ast;sa-ŋapa_ | _&ast;rua-ŋapa_ | _&ast;tolu-ŋapa_  |
-| Loniu (Adm)[^5] | _ha-ŋah_   | _maʔ-u-ŋeh_ | _ma-culu-ŋah_ |
+| Loniu (Adm)[^5]: | _ha-ŋah_   | _maʔ-u-ŋeh_ | _ma-culu-ŋah_ |
 | Puluwat (Mic)  | _ye-ŋaf_   | _rua-ŋaf_   | _yelɨ-ŋaf_    |
 
 Many of the reflexes below reflect a reanalysis of the classifier as a noun.

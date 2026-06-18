@@ -57,9 +57,13 @@ _Areca catechu_ is a slender palm which grows up to 30 m. Its crown is smaller r
 
 <a id="p-392"></a>
 
-Figure 13.1: Left: _Areca catechu_, betelnut: __A__, tree; __B__, portion of inflorescence; __C__, portion of fruit cluster; __D__, fruit: longitudinal section showing fibrous exocarp and inner chewed 'nut'. Right: _Piper betle_: __E__, plant; __F__, __G__, __H__, flowering shoots of three varieties.
+<a id="fig-3-13_1"> </a>
 
-Chewing betelnut as a stimulant is widespread in Papua New Guinea and the Solomon Islands, but not in other parts of the Pacific. Palms are grown in village groves or singly near houses. The seed may be chewed alone, but usually people chew a quid consisting of the seed, lime and a catkin or leaf of _Piper betle_ ([§2.2.2](ContributionTable?anchor=s-2-2-2#cldf:3-13)) ([Paijmans 1976](Source#cldf:Paijmansetal1976): 135).[^1] Chewing the seed induces salivation, and if lime is present it turns the chewed mass bright red. Some people swallow all but the initial burst of saliva, whilst others spit out the red masticate. Initially, chewing leads to a very short-lived dizziness, folllowed by a sense of renewed wakefulness. In Papua New Guinea and parts of the Solomons chewing betelnut is a social ritual when people meet. Convention requires that the host offer betelnut to visitors ([Henderson & Hancock 1988](Source#cldf:HendersonandHancock1988): 146). The husk of the fruit is sometimes used to clean the teeth after chewing, as the quid causes uncleaned teeth to turn dark brown.
+[__Figure 13.1:__ Left: _Areca catechu_, betelnut: __A__, tree; __B__, portion of inflorescence; __C__, portion of fruit cluster; __D__, fruit: longitudinal section showing fibrous exocarp and inner chewed 'nut'. Right: _Piper betle_: __E__, plant; __F__, __G__, __H__, flowering shoots of three varieties.](MediaTable#cldf:fig-3-13_1)
+
+
+
+Chewing betelnut as a stimulant is widespread in Papua New Guinea and the Solomon Islands, but not in other parts of the Pacific. Palms are grown in village groves or singly near houses. The seed may be chewed alone, but usually people chew a quid consisting of the seed, lime and a catkin or leaf of _Piper betle_ ([§2.2.2](ContributionTable?anchor=s-2-2-2#cldf:3-13)) ([Paijmans 1976](Source#cldf:Paijmansetal1976): 135).[^1]: Chewing the seed induces salivation, and if lime is present it turns the chewed mass bright red. Some people swallow all but the initial burst of saliva, whilst others spit out the red masticate. Initially, chewing leads to a very short-lived dizziness, folllowed by a sense of renewed wakefulness. In Papua New Guinea and parts of the Solomons chewing betelnut is a social ritual when people meet. Convention requires that the host offer betelnut to visitors ([Henderson & Hancock 1988](Source#cldf:HendersonandHancock1988): 146). The husk of the fruit is sometimes used to clean the teeth after chewing, as the quid causes uncleaned teeth to turn dark brown.
 
 Like other palms, the trunk of the betel pallm can be split and the outer wood used for walling or flooring. In the western Solomons, liquid is squeezed from the husk into the eyes of conjunctivitis sufferers.
 
@@ -106,7 +110,11 @@ The reconstruction of POc &ast;[pu-]pulu 'betel pepper, _Piper betle_' is taken 
 #### 2.2.3. _Piper methysticum_, kava (Piperaceae)
 
 
-Figure 13.2: Leaves, stem and plant habit of kava, _Piper methysticum_
+<a id="fig-3-13_2"> </a>
+
+[__Figure 13.2:__ Leaves, stem and plant habit of kava, _Piper methysticum_](MediaTable#cldf:fig-3-13_2)
+
+
 
 The kava plant, _Piper methysticum_, is a many branching plant with rounded green leaves. The plant is grown, usually near houses, exclusively from cuttings, and a narcotic is made from it in parts of Remote Oceania. Traditionally kava is consumed as a drink. The root is first reduced to small fragments by chewing, grinding or pounding. The fragments are deposited in a bowl, mixed with water and strained through the cloth-like fibre of a coconut spathe ([ch.12, §5.3](ContributionTable?anchor=s-5-3#cldf:3-12)) to give a cloudy grey liquid ([Paijmans 1976](Source#cldf:Paijmansetal1976): 135). In Fiji, Tonga and Samoa the liquid is made from mature roots, is of low strength and plays a part in various ceremonies. In Vanuatu it is made from the roots of green plants and often has a much greater narcotic effect. Initially it causes the blood vessels in the lips and tongue to contract with a certain numbing effect. The drinker then senses some degree of euphoria, followed by a sense of calm well-being and clear thinking and a general relaxation of the muscles.
 
@@ -117,7 +125,7 @@ Kava is also consumed in scattered areas of New Guinea and the Bismarcks. In fac
 
 [Pawley & Green](Source#cldf:PawleyandGreen1973) ([1973](Source#cldf:PawleyandGreen1973)) proposed a POc reconstruction &ast;kawa '_Piper methysticum_'. However, the facts that _Piper methysticum_ only occurs in domesticated form and that it is not generally consumed in Oceanic-speaking communities in the Bismarcks imply that it was not present there in POc times, and that we should not expect to be able to reconstruct a POc term for it. The origin of kava has attracted a good deal of debate, both botanical and linguistic, over the past 35 years, partly because of its presence at New Guinea locations ([Brunton 1988](Source#cldf:Brunton1988), [Lebot 1989](Source#cldf:Lebot1989), [Lebot et al. 1992](Source#cldf:Lebotetal1992), T. [Crowley 1994](Source#cldf:Crowley1994), [Lynch 2002f](Source#cldf:Lynch2002f)).
 
-The best supported hypothesis appears to be that _Piper methysticum_ is a domesticated variety of _Piper subbullatum_ (syn. _Piper wichmannii_),[^2] a plant of similar appearance which grows wild in the Solomons ([Kwa'ioloa & Burt 2001](Source#cldf:KwaioloaandBurt2001): 206), and that this domestication took place in northern Vanuatu. The linguistic evidence for this position is presented by [Lynch](Source#cldf:Lynch2002f) ([2002f](Source#cldf:Lynch2002f)). He reconstructs a POc term &ast;kawaRi, which he glosses as 'root with special properties: one or more of _Zingiber zerumbet_, _Piper subbullatum_, fish-poison plants', i.e. as a generic term for what in the title of his article he calls 'potent roots'. He points out that none of the apparently directly inherited reflexes of &ast;kawaRi outside Vanuatu, Fiji and Polynesia means 'kava' or '_Piper methysticum_'. Only reflexes with a form that suggests borrowing have this meaning. The evidence suggests that POc &ast;kawaRi is reconstructable, but only with the 'potent roots' meaning. Only in northern Vanuatu and regions settled from it (the rest of Vanuatu, Fiji and Polynesia) do we find directly inherited reflexes denoting 'kava' or' _Piper methysticum_'. The reconstructions and directly inherited reflexes below are from ([Lynch 2002f](Source#cldf:Lynch2002f)), except where shown.[^3]
+The best supported hypothesis appears to be that _Piper methysticum_ is a domesticated variety of _Piper subbullatum_ (syn. _Piper wichmannii_),[^2]: a plant of similar appearance which grows wild in the Solomons ([Kwa'ioloa & Burt 2001](Source#cldf:KwaioloaandBurt2001): 206), and that this domestication took place in northern Vanuatu. The linguistic evidence for this position is presented by [Lynch](Source#cldf:Lynch2002f) ([2002f](Source#cldf:Lynch2002f)). He reconstructs a POc term &ast;kawaRi, which he glosses as 'root with special properties: one or more of _Zingiber zerumbet_, _Piper subbullatum_, fish-poison plants', i.e. as a generic term for what in the title of his article he calls 'potent roots'. He points out that none of the apparently directly inherited reflexes of &ast;kawaRi outside Vanuatu, Fiji and Polynesia means 'kava' or '_Piper methysticum_'. Only reflexes with a form that suggests borrowing have this meaning. The evidence suggests that POc &ast;kawaRi is reconstructable, but only with the 'potent roots' meaning. Only in northern Vanuatu and regions settled from it (the rest of Vanuatu, Fiji and Polynesia) do we find directly inherited reflexes denoting 'kava' or' _Piper methysticum_'. The reconstructions and directly inherited reflexes below are from ([Lynch 2002f](Source#cldf:Lynch2002f)), except where shown.[^3]:
 
 [POc &ast;_kawaRi_](cognatesetreferences.csv#cldf:3-13-2-2-396-POc-kawari-a)
 
@@ -162,11 +170,15 @@ Two species of the thin-walled genus _Schizostachyum_ are reported from the regi
 
 _Schizostachyum_ species are a source of very straight, lightweight poles with many purposes: as battens from which to hang sago leaf thatch, as yam poles, as small fishing rods and as spears. Pieces of _Schizostachyum_ are used to make traditional panpipes and coconut scrapers. They are also used as fencing material ([Henderson & Hancock 1988](Source#cldf:HendersonandHancock1988):202-203, [Hviding 2005](Source#cldf:Hviding2005): 107, [Kwa'ioloa & Burt 2001](Source#cldf:KwaioloaandBurt2001): 202).
 
-Three species of the thin-walled genus _Nastus_ are reported from the region. One is _Nastus productus_, a small, often drooping bamboo. A second is _Nastus obtusus_, a very slender bamboo which is almost always cultivated and attains heights of over 20 m with stem diameters of 8-11cm and internode lengths of 50 em to a metre. A third _Nastus_ species is not given a scientific name,[^6] but sources describe it as pliant and behaving as a tree or ground creeper. It has very short internode lengths and small, narrow leaves ([Peekel 1984](Source#cldf:Peekel1984): 55, [Henderson & Hancock 1988](Source#cldf:HendersonandHancock1988): 177, [Kwa'ioloa & Burt 2001](Source#cldf:KwaioloaandBurt2001): 200-201).
+Three species of the thin-walled genus _Nastus_ are reported from the region. One is _Nastus productus_, a small, often drooping bamboo. A second is _Nastus obtusus_, a very slender bamboo which is almost always cultivated and attains heights of over 20 m with stem diameters of 8-11cm and internode lengths of 50 em to a metre. A third _Nastus_ species is not given a scientific name,[^6]: but sources describe it as pliant and behaving as a tree or ground creeper. It has very short internode lengths and small, narrow leaves ([Peekel 1984](Source#cldf:Peekel1984): 55, [Henderson & Hancock 1988](Source#cldf:HendersonandHancock1988): 177, [Kwa'ioloa & Burt 2001](Source#cldf:KwaioloaandBurt2001): 200-201).
 
 The first two _Nastus_ species, and especially _Nastus obtusus_, have similar uses to those of _Schizostachyum_, but the third _Nastus_ species is considered by the Kwara'ae to be useless ([Henderson & Hancock 1988](Source#cldf:HendersonandHancock1988): 176, 199-201, [Kwa'ioloa & Burt 2001](Source#cldf:KwaioloaandBurt2001):200--202, [Hviding 2005](Source#cldf:Hviding2005): 112).
 
-Figure 13.3: _Nastus obtusus_
+<a id="fig-3-13_3"> </a>
+
+[__Figure 13.3:__ _Nastus obtusus_](MediaTable#cldf:fig-3-13_3)
+
+
 
 The term reconstructed as _&ast;qauR_ 'bamboo spp.' below was probably the generic term for bamboos of the three genera mentioned above, as it still is in some modern languages. In Tolai, for example, we find the following:
 
@@ -177,11 +189,11 @@ PAn _&ast;qauR_ 'bamboo' is attested in Fom1osan languages, PMP _&ast;qauR_ 'bam
 
 <a id="p-400"></a>
 
-On the basis of Meso-Melanesian reflexes POc &ast;kauR 'bamboo' was reconstructed as in [vol.1 (ch.4, §6.2](ContributionTable?anchor=s-6-2#cldf:1-4)). However, non-Oceanic and Remote Oceanic data support _&ast;qauR_.[^7]
+On the basis of Meso-Melanesian reflexes POc &ast;kauR 'bamboo' was reconstructed as in [vol.1 (ch.4, §6.2](ContributionTable?anchor=s-6-2#cldf:1-4)). However, non-Oceanic and Remote Oceanic data support _&ast;qauR_.[^7]:
 
-Among languages which retain a reflex of the final consonant, Mussau and Petats reflect _&ast;d_ or _&ast;dr_, rather than _&ast;R_, and Nakanai reflects _&ast;s_ or _&ast;c_.[^8] The Bilibil, Gedaged and Sio forms reflect final _&ast;-R_ where the final consonant is normally lost.
+Among languages which retain a reflex of the final consonant, Mussau and Petats reflect _&ast;d_ or _&ast;dr_, rather than _&ast;R_, and Nakanai reflects _&ast;s_ or _&ast;c_.[^8]: The Bilibil, Gedaged and Sio forms reflect final _&ast;-R_ where the final consonant is normally lost.
 
-[Blust](Source#cldf:Blust1984) ([1984](Source#cldf:Blust1984)) reconstructed POc _&ast;kaudru_[^9] 'bamboo sp.' to account for the Mussau, Petats and Selau forms.[^10] However, it does not account for the other irregularities below, and its putative reflexes are here treated as (albeit irregular) reflexes of POc _&ast;qauR_. Instead, the simplest linguistic explanation of these irregularities is that the forms reflect borrowings among neighbouring Oceanic languages. Indeed, it is possible that some of the forms with regular reflexes also result from borrowings, but happen to have regular reflexes of the consonants. However, it is not easy to see why such borrowings might have occurred, unless much of Near Oceania lacked useful bamboo species, and new species were imported by Oceanic speakers. [Hviding](Source#cldf:Hviding2005) ([2005](Source#cldf:Hviding2005): 107, 112, 117) hints at this when he writes that old people say that _Bambusa vulgaris_, _B. blumeana_, _Nastus obtusus_ and a _Schizostachyum_ species were all long ago introduced to Marovo from elsewhere. It is just possible that some of these borrowings were associated with the introduction of _Bambusa vulgaris_ after contact with Europeans.
+[Blust](Source#cldf:Blust1984) ([1984](Source#cldf:Blust1984)) reconstructed POc _&ast;kaudru_[^9]: 'bamboo sp.' to account for the Mussau, Petats and Selau forms.[^10]: However, it does not account for the other irregularities below, and its putative reflexes are here treated as (albeit irregular) reflexes of POc _&ast;qauR_. Instead, the simplest linguistic explanation of these irregularities is that the forms reflect borrowings among neighbouring Oceanic languages. Indeed, it is possible that some of the forms with regular reflexes also result from borrowings, but happen to have regular reflexes of the consonants. However, it is not easy to see why such borrowings might have occurred, unless much of Near Oceania lacked useful bamboo species, and new species were imported by Oceanic speakers. [Hviding](Source#cldf:Hviding2005) ([2005](Source#cldf:Hviding2005): 107, 112, 117) hints at this when he writes that old people say that _Bambusa vulgaris_, _B. blumeana_, _Nastus obtusus_ and a _Schizostachyum_ species were all long ago introduced to Marovo from elsewhere. It is just possible that some of these borrowings were associated with the introduction of _Bambusa vulgaris_ after contact with Europeans.
 
 [PAn &ast;_qauR_](cognatesetreferences.csv#cldf:3-13-3-1-400-POc-qaur-a)
 
@@ -229,7 +241,11 @@ _Aleurites moluccana_ is a tree which grows to between 10 and 35 m in height, de
 
 In Vanuatu _Aleurites moluccana_ is not cultivated, as planted seeds do not germinate well, but people protect new seedlings ([Walter & Sam 2002](Source#cldf:WalterandSam2002): 88). In Fiji the tree occurs close to villages but not in the wild, implying that it is planted.
 
-Figure 13.4: _Aleurites moluccana_: __A__, tree; __B__, leaves and inflorescence; __C__, whole fruit; __D__, kernel (candlenut).
+<a id="fig-3-13_4"> </a>
+
+[__Figure 13.4:__ _Aleurites moluccana_: __A__, tree; __B__, leaves and inflorescence; __C__, whole fruit; __D__, kernel (candlenut).](MediaTable#cldf:fig-3-13_4)
+
+
 
 The candlenut owes its name to the fact that in earlier times the nuts were threaded onto the midrib of a coconut palm leaf and lit, burning slowly one after another and giving a feeble light. The smoke given off is also a good insect repellant ([Sperlich 1997](Source#cldf:Sperlich1997)). Charred seeds are used in New Ireland to make a sooty paint for blackening the face in mourning ([Peekel 1984](Source#cldf:Peekel1984): 313) and by Ponapeans for making a black or brown dye. The oil extracted from them is also used as a paint base in New Britain ([Powell 1976](Source#cldf:Powell1976)) and to polish wood in Fiji, where an extract of the seed is also used to scent the oil ([Gardner & Pawley 2006](Source#cldf:GardnerandPawley2006)). The products of _Aleurites moluccana_ have numerous medicinal uses ([Walter & Sam 2002](Source#cldf:WalterandSam2002): 89).
 
@@ -250,7 +266,11 @@ _Broussonetia papyrifera_ is native to Japan and Taiwan and is an ancient introd
 
 As Osmond & Ross noted in [vol.1 (ch.4, §5.1](ContributionTable?anchor=s-5-1#cldf:1-4)), [Kooijman](Source#cldf:Kooijman1972) ([1972](Source#cldf:Kooijman1972):446--453) believes from descriptions of manufacture and an examination of museum pieces that bark cloth in New Guinea was made from _Ficus_ and Artocarpus species rather than from _Broussonetia papyrifera_, from which bark cloth is made in other parts of the Pacific, e.g. Fiji ([Gardner & Pawley 2006](Source#cldf:GardnerandPawley2006)). However, the glosses of the items listed below suggest fairly strongly that speakers of Oceanic languages in widely separated New Guinea locations were using _Broussonetia papyrifera_ to make bark cloth at European contact.
 
-Figure 13.5: _Broussonetia papyrifera_, paper mulberry
+<a id="fig-3-13_5"> </a>
+
+[__Figure 13.5:__ _Broussonetia papyrifera_, paper mulberry](MediaTable#cldf:fig-3-13_5)
+
+
 
 POc _&ast;malo_ probably denoted _Broussonetia papyrifera_, the tree which throughout much of the Pacific provides the bast from which barkcloth is made. If this is so, then _Broussonetia papyrifera_ must have been introduced into the Pacific islands by early Oceanic speakers. [Matthews](Source#cldf:Matthews1996) ([1996](Source#cldf:Matthews1996)), however, notes its absence from the Philippines and Borneo, and thinks it possible that it did not arrive in Polynesia with the earliest colonisers. POc _&ast;malo_ also denoted the cloth and the male genital covering made from it, and it is just possible that these were its primary meanings. It is also possible that some of the reflexes below reflect early Pacific Pidgin malo or maro 'loincloth'. PMP _&ast;mal(u,aw)_ apparently denoted a species of tree which provided bast for clothmaking, but it is unclear which species this was, as it is reconstructed on the basis of POc _&ast;malo_ and Kaili (WMP, Sulawesi: Parigi dialect) _malo_ 'old term for _Trema amboinensis_, the tree whose bast is most commonly used for barkcloth in Sulawesi' ([Adriani & Kruijt 1901](Source#cldf:AdrianiandKruijt1901): 140, note 5, cited by R. [Kennedy 1934](Source#cldf:Kennedy1934): 242).
 
@@ -274,7 +294,11 @@ _Morinda citrifolia_ is a tree with many uses in Oceanic speaking societies. Wil
 
 <a id="p-407"></a>
 
-Figure 13.6: __Left__ _Morinda citrifolia_, Indian mUtlberry: __A__, mature tree; __B__, shoot bearing leaves, fruit and flowers. __Right__ _Derris_ species: __A__, climbing plant; __B__, base of mature vine; __C__, woody vine stem; __D__, vine with leaves and pods; __E__, stem with inflorescence; __F__, immature leaf.
+<a id="fig-3-13_6"> </a>
+
+[__Figure 13.6:__ __Left__ _Morinda citrifolia_, Indian mUtlberry: __A__, mature tree; __B__, shoot bearing leaves, fruit and flowers. __Right__ _Derris_ species: __A__, climbing plant; __B__, base of mature vine; __C__, woody vine stem; __D__, vine with leaves and pods; __E__, stem with inflorescence; __F__, immature leaf.](MediaTable#cldf:fig-3-13_6)
+
+
 
 There were apparently two POc labels for _Morinda citrifolia_, &ast;fiofiu and &ast;kurat. If [Verheijen](Source#cldf:Verheijen1990) ([1990](Source#cldf:Verheijen1990): 86) has correctly identified the referent of Bima (CMP) nonu as _Morinda citrifolia_ (he marks it with a question mark), then &ast;fiofiu is reconstructable for PCEMP and was inherited into POc. If Tagalog, Bisayan, Tausug nino _Morinda citrifolia_ ([Madulid 2001a](Source#cldf:Madulid2001a): 527) are also cognate with POc &ast;fiofiu, then PMP &ast;fiefiu is reconstructable. Milke reconstructed this etymon as POc &ast;fiofium with final &ast;-m, but the only reflexes with this segment are Gedaged nonom and Takia nom. Both languages lose POc final &ast;- VC, and it is more likely that -m in both languages irregularly reflects medial POc &ast;-fi-, with reduplication in Gedaged.
 
@@ -283,7 +307,7 @@ There were apparently two POc labels for _Morinda citrifolia_, &ast;fiofiu and &
 
 <a id="p-408"></a>
 
-The distributions of POc _&ast;ñoñu_ and _&ast;kurat_ are complementary: _&ast;kurat_ is reflected solidly through Melanesia from New Ireland (Lihir, Tangga) through NW Solomonic (Nehan, Roviana), SE Solomonic, North/Central and Southern Vanuatu, New Caledonia and Fiji, while _&ast;ñoñu_ occurs in the Admiralties, North New Guinea, Papuan Tip, Micronesian and Polynesian. These distributions suggest that POc _&ast;ñoñu_ was in some sense the default term for _Morinda citrifolia_ and that it was then replaced by _&ast;kurat_ in a solid Melanesian block from New Ireland to New Caledonia and Fiji. However, the reflexes of _&ast;kurat_ are generally regular, suggesting that replacement took place very early in the history of Oceanic.[^12]
+The distributions of POc _&ast;ñoñu_ and _&ast;kurat_ are complementary: _&ast;kurat_ is reflected solidly through Melanesia from New Ireland (Lihir, Tangga) through NW Solomonic (Nehan, Roviana), SE Solomonic, North/Central and Southern Vanuatu, New Caledonia and Fiji, while _&ast;ñoñu_ occurs in the Admiralties, North New Guinea, Papuan Tip, Micronesian and Polynesian. These distributions suggest that POc _&ast;ñoñu_ was in some sense the default term for _Morinda citrifolia_ and that it was then replaced by _&ast;kurat_ in a solid Melanesian block from New Ireland to New Caledonia and Fiji. However, the reflexes of _&ast;kurat_ are generally regular, suggesting that replacement took place very early in the history of Oceanic.[^12]:
 
 [POc &ast;_ñoñu_](cognatesetreferences.csv#cldf:3-13-3-4-408-POc-nonu-a)
 
@@ -359,13 +383,17 @@ Turmeric and ginger are both cultivated for their roots, which have a variety of
 ### 5.1. _Curcuma longa_ (syn. _Curcuma domestica_), turmeric (Zingiberaceae)
 
 
-The turmeric: plant, _Curcuma longa_, is much smaller than Alpinia species, being only 50-120cm tall, but it is treated by at least speakers of Marovo and Kwara'ae as belonging to the same taxon as Alpinia ([Kwa'ioloa & Burt 2001](Source#cldf:KwaioloaandBurt2001):193-194, [Hviding 2005](Source#cldf:Hviding2005): 131).[^14] It has long green leaves and pale yellow flowers. The rhizome is lumpy and an intense yellow ([Peekel 1984](Source#cldf:Peekel1984): 109).
+The turmeric: plant, _Curcuma longa_, is much smaller than Alpinia species, being only 50-120cm tall, but it is treated by at least speakers of Marovo and Kwara'ae as belonging to the same taxon as Alpinia ([Kwa'ioloa & Burt 2001](Source#cldf:KwaioloaandBurt2001):193-194, [Hviding 2005](Source#cldf:Hviding2005): 131).[^14]: It has long green leaves and pale yellow flowers. The rhizome is lumpy and an intense yellow ([Peekel 1984](Source#cldf:Peekel1984): 109).
 
 Although it grows readily in the wild in locations where there is light, the Marovo and Kwara'ae sources also report that it is often cultivated. The rhizome provides spice. It is also a source of yellow dye, but the colour fades easily ([Floyd 1954](Source#cldf:Floyd1954), [Peekel 1984](Source#cldf:Peekel1984): 109). At Marovo the aromatic leaves are used for parcelling fish for the stone oven.
 
 Turmeric also has ritual significance. At Marovo it is planted to keep evil spirits away from gardens, and in both Marovo and Kwara'ae the roots are chewed and spat out of the door or window of the house to fend off evil spirits ([Hviding 2005](Source#cldf:Hviding2005): 131). The Kwara'ae also chew it both with betelnut and alone, the latter both as a snack and medicinally.
 
-[Figure 13.7](#fig-3-13_7)     _Curcuma longa_
+<a id="fig-3-13_7"> </a>
+
+[__Figure 13.7:__ _Curcuma longa_](MediaTable#cldf:fig-3-13_7)
+
+
 
 There are two reconstructions, POc _&ast;yaŋo_ and PEOc _&ast;re(ŋ,ŋʷ)a_. There is some evidence in the glosses of reflexes that the latter meant yellow material, including prepared turmeric and perhaps the yolk of an egg.
 
@@ -393,7 +421,7 @@ _Zingiber officinale_ (common ginger), 50-120cm tall, cultivated and wild, serve
 
 If it is true that _Zingiber officinale_ did not find its way into Remote Oceania with Oceanic speakers, then one must ask whether it had in fact arrived in NW Island Melanesia by POc times. This is a matter which seems to require further research.
 
-In Marovo wild ginger was associated with magic and sorcery. The leaves of particular varieties were important in calling on ancestor spirits, and the roots were chewed for magical purposes. In earlier times, one was planted at each comer of a garden to protect it against destructive magic. The roots of some varieties are chewed for their healing properties. Because of these associations, ginger is rarely used in ordinary cooking ([Hviding 2005](Source#cldf:Hviding2005): 130).[^16] [Peekel](Source#cldf:Peekel1984) ([1984](Source#cldf:Peekel1984): 101) in any case reports that the rhizome of _Zingiber zerumbet_ is less tasty than those of other _Zingiber_ species.
+In Marovo wild ginger was associated with magic and sorcery. The leaves of particular varieties were important in calling on ancestor spirits, and the roots were chewed for magical purposes. In earlier times, one was planted at each comer of a garden to protect it against destructive magic. The roots of some varieties are chewed for their healing properties. Because of these associations, ginger is rarely used in ordinary cooking ([Hviding 2005](Source#cldf:Hviding2005): 130).[^16]: [Peekel](Source#cldf:Peekel1984) ([1984](Source#cldf:Peekel1984): 101) in any case reports that the rhizome of _Zingiber zerumbet_ is less tasty than those of other _Zingiber_ species.
 
 Two POc terms are reconstructed below. The gloss of the first, _&ast;laqia_, remains a little doubtful because of the difficulty in dating the arrival of _Zingiber officinale_ in NW Island Melanesia. POc _&ast;para(k)_ evidently referred to Zingiberaceae species but just how large a taxon it denoted is currently unknown.
 
@@ -406,7 +434,11 @@ PMP _&ast;badak_ is tentatively reconstructed below on the basis of the Tolai an
 
 <a id="p-415"></a>
 
-[Figure 13.8](#fig-3-13_8)   _Codiaeum variegatum_
+<a id="fig-3-13_8"> </a>
+
+[__Figure 13.8:__ _Codiaeum variegatum_](MediaTable#cldf:fig-3-13_8)
+
+
 
 [PMP &ast;_badak_](cognatesetreferences.csv#cldf:3-13-5-2-415-POc-parak-a)
 
@@ -429,7 +461,7 @@ _Codiaeum variegatum_ usually takes the form of a non-woody shrub a metre or mor
 
 <a id="p-416"></a>
 
-_Codiaeum variegatum_ shrubs were cultivated around the edges of villages for their decorativeness and as boundary markers and markers of taboo sites like graves. They also provided a source ofleaves to decorate men's bodies during dances ([Floyd 1954](Source#cldf:Floyd1954), [Kwa'ioloa & Burt 2001](Source#cldf:KwaioloaandBurt2001): 175, [Wheatley 1992](Source#cldf:Wheatley1992): 91, [Hviding 2005](Source#cldf:Hviding2005): 117, [Gardner & Pawley 2006](Source#cldf:GardnerandPawley2006)).[^17]
+_Codiaeum variegatum_ shrubs were cultivated around the edges of villages for their decorativeness and as boundary markers and markers of taboo sites like graves. They also provided a source ofleaves to decorate men's bodies during dances ([Floyd 1954](Source#cldf:Floyd1954), [Kwa'ioloa & Burt 2001](Source#cldf:KwaioloaandBurt2001): 175, [Wheatley 1992](Source#cldf:Wheatley1992): 91, [Hviding 2005](Source#cldf:Hviding2005): 117, [Gardner & Pawley 2006](Source#cldf:GardnerandPawley2006)).[^17]:
 
 On New Britain the bark or the leaves were rubbed on the skin to cure skin diseases ([Powell 1976](Source#cldf:Powell1976)). On Waya Island the leaves are used in the treatment of high blood pressure ([Gardner & Pawley 2006](Source#cldf:GardnerandPawley2006)).
 
@@ -443,7 +475,11 @@ _Cordyline fruticosa_ has a woody stem usually 1-2m high with no branches; the l
 
 The cordyline has a tuber which is edible and occasionally eaten in Papua New Guinea, although it may have been used more extensively for food in the past. Its young leaf shoots are sometimes cooked and eaten ([Barrau 1965](Source#cldf:Barrauetal1965), [Bourke 1982](Source#cldf:Bourke1982): 60, [French 1986](Source#cldf:French1986): 335). The Saliba eat the flowers, cooked with leaves of _Gnetum gnemon_ ([ch.10, §2.3](ContributionTable?anchor=s-2-3#cldf:3-10)) ([Margetts 2005b](Source#cldf:Margetts2005b)). The Molima simply add them to the cooking pot (A. Chowning, pers. comm.). _Cordyline fruticosa_ is used for plot markers, and tuberous root as an item of clothing, and as a warning to thieves ([Bourke 1982](Source#cldf:Bourke1982)).
 
-[Figure 13.9](#fig-3-13_9) _Cordyline fruticosa_: plant
+<a id="fig-3-13_9"> </a>
+
+[__Figure 13.9:__ _Cordyline fruticosa_: plant](MediaTable#cldf:fig-3-13_9)
+
+
 
 Leaves of C.fruticosa are worn by dancers in New Britain ([Arentz et al. 1989](Source#cldf:Arentzetal1989): 94). Bourke comments on the spiritual significance of C.fruticosa in some Papua New Guinea societies. The Marovo believe that cordyline holds spiritual power, and different cultivars of cordyline are used for different kinds of magic, often exercised by holding the leaf itself ([Hviding 2005](Source#cldf:Hviding2005): 118). It also functions as a charm against magic among the Kwaio and the Kwara'ae, and the latter is the one place where a non-decorative, non-ritual use is mentioned: it is used to wrap lizards for cooking ([Kwa'ioloa & Burt 2001](Source#cldf:KwaioloaandBurt2001): 180). On Waya Island it is usually planted in villages and at taboo sites, and today often at graves. Different varieties were used for different kinds of magic ([Gardner & Pawley 2006](Source#cldf:GardnerandPawley2006)).
 
@@ -466,9 +502,9 @@ In its mature form _Dracaena angustifolia_ is a woody shrub growing to 3-6 m hig
 
 _Cordyline_ and _Dracaena_ varieties are both used as decorative plants and for making leaf skirts, and many Oceanic languages treat them as a single taxon. In E Kara (MM), for example, si denotes _Cordyline fruticosa_, and the binomial si tavul is _Dracaena angustifolia_. In Kwara'ae _Cordyline fruticosa_ is dili and _Dracaena angustifolia_ is mala-dili 'resembling cordyline' (see [ch.2, §7 .1.4](ContributionTable?anchor=s-7-1-4#cldf:3-2) ). Each of the cognate sets below spans plants of both genera, and it is probable that many more of the glosses should refer to both _Cordyline_ and _Dracaena_: the full span of the denotation was missed when the data were recorded.
 
-[Chowning](Source#cldf:Chowning1963) ([1963](Source#cldf:Chowning1963), [2001](Source#cldf:Chowning2001): 81) suggests that the 'Prato-Melanesian' terms _&ast;babaka_,[^18] _&ast;dili_ (my POc _&ast;jiRi_ '_Cordyline_ sp., _Dracaena_ sp.') and _&ast;male_ (my PWOc _&ast;mʷa(r,R)e_ '_Codiaeum variegatum_; _Cordyline fruticosa_') were each used collectively for three species. Her first two species are _Codiaeum variegatum_ and _Cordyline fruticosa_. Her third, however, is not _Dracaena angustifolia_, but _Cycas rumphii_. She writes that all three are 'used primarily for decorative and magico-religious purposes' ([Chowning 1963](Source#cldf:Chowning1963)).[^19]
+[Chowning](Source#cldf:Chowning1963) ([1963](Source#cldf:Chowning1963), [2001](Source#cldf:Chowning2001): 81) suggests that the 'Prato-Melanesian' terms _&ast;babaka_,[^18]: _&ast;dili_ (my POc _&ast;jiRi_ '_Cordyline_ sp., _Dracaena_ sp.') and _&ast;male_ (my PWOc _&ast;mʷa(r,R)e_ '_Codiaeum variegatum_; _Cordyline fruticosa_') were each used collectively for three species. Her first two species are _Codiaeum variegatum_ and _Cordyline fruticosa_. Her third, however, is not _Dracaena angustifolia_, but _Cycas rumphii_. She writes that all three are 'used primarily for decorative and magico-religious purposes' ([Chowning 1963](Source#cldf:Chowning1963)).[^19]:
 
-It is quite possible that PWOc _&ast;mʷa(r,R)e_ indeed denoted a taxon including Codiaeum variegatum and _Cordyline fruticosa_, and perhaps other decorative plants (note Nakanai _mamale_ '_Cananga odorata_'), but I have found no evidence of a term that denoted plants of all three species. Possibly Chowning considered some of the items collected together under PEOc _&ast;mʷa(q)ele_ 'cycad' ([ch.9, §5.2](ContributionTable?anchor=s-5-2#cldf:3-9)) to belong to the same cognate set as the items under PWOc _&ast;mʷa(r,R)e_ below. Despite the formal similarity between the two reconstructions, however, the two cannot be reconciled: reflexes of the former agree in reflecting _&ast;-l-_, the latter in reflecting _&ast;-(r,R)-_. The two sets can be united only by positing irregular sound change or borrowing.[^20]
+It is quite possible that PWOc _&ast;mʷa(r,R)e_ indeed denoted a taxon including Codiaeum variegatum and _Cordyline fruticosa_, and perhaps other decorative plants (note Nakanai _mamale_ '_Cananga odorata_'), but I have found no evidence of a term that denoted plants of all three species. Possibly Chowning considered some of the items collected together under PEOc _&ast;mʷa(q)ele_ 'cycad' ([ch.9, §5.2](ContributionTable?anchor=s-5-2#cldf:3-9)) to belong to the same cognate set as the items under PWOc _&ast;mʷa(r,R)e_ below. Despite the formal similarity between the two reconstructions, however, the two cannot be reconciled: reflexes of the former agree in reflecting _&ast;-l-_, the latter in reflecting _&ast;-(r,R)-_. The two sets can be united only by positing irregular sound change or borrowing.[^20]:
 
 Three other etyma are reconstructed below: POc _&ast;jiRi_, _&ast;kaRi(q)a_ and _&ast;jajal_. POc _&ast;jiRi_ indeed introduces a third species into the discussion, but it is _Dracaena angustifolia_, not _Cycas rumphii_. The distribution of the reflexes of POc _&ast;kaRi(q)a_ 'taxon of decorative plants' leaves us unable to determine which of the three species it denoted. POc _&ast;jajal_ probably denoted a particular variety of _Codiaeum variegatum_.
 
@@ -500,7 +536,7 @@ Medial parenthesised _&ast;-q-_ is reconstructed in POc _&ast;kaRi(q)a_ on the a
 ### 6.5. _Heliconia indica_, heliconia, Blif laplap (Heliconiaceae)
 
 
-Two species of _Heliconia_ grow in NW Island Melanesia, _Heliconia indica_ in eastern mainland New Guinea and the Bismarcks and _Heliconia solomonensis_ in Bougainville and the Solomons (R. Gardner, pers. comm.). The two appear to be very· similar ([Figure 13.10](#fig-3-13_10), left).[^21] Numerous short stems formed from leaf sheaths rise from an underground rhizome to a height of 5 or 6 m. The leaves resemble banana leaves, and under cultivation assume various colours and patterns: yellow, yellow-and-green striped, bright red or dark red. In the wild heliconias grow in damp shady environments in primary and secondary forest.
+Two species of _Heliconia_ grow in NW Island Melanesia, _Heliconia indica_ in eastern mainland New Guinea and the Bismarcks and _Heliconia solomonensis_ in Bougainville and the Solomons (R. Gardner, pers. comm.). The two appear to be very· similar ([Figure 13.10](#fig-3-13_10), left).[^21]: Numerous short stems formed from leaf sheaths rise from an underground rhizome to a height of 5 or 6 m. The leaves resemble banana leaves, and under cultivation assume various colours and patterns: yellow, yellow-and-green striped, bright red or dark red. In the wild heliconias grow in damp shady environments in primary and secondary forest.
 
 The leaves are used for covering and sealing the stone oven because of their thick, waxy cuticle and very large leaf surfaces. Thanks to their size, fewer are needed, reducing the labour of cutting and carrying ([Henderson & Hancock 1988](Source#cldf:HendersonandHancock1988):239, [Kwa'ioloa & Burt 2001](Source#cldf:KwaioloaandBurt2001): 196, [Hviding 2005](Source#cldf:Hviding2005): 120).
 
@@ -514,12 +550,16 @@ The leaves are used for covering and sealing the stone oven because of their thi
 ### 6.6. _Crinum asiaticum_, spider lily (Amatyllidaceae)
 
 
-_Crinum asiaticum_ is a large lily with long erect leaves that are arranged in a spiral rosette to form impressive clumps up to 1.5 m in height and 2 m wide ([Figure 13](#fig-3-13) .10, right). The leaves may be a metre long and 10cm wide. They emerge from huge bulbs that may weigh as much as 9 kg. Its white flowers, with thick succulent stems, are shaped like tubes that flair open into a crown of narrow petals.[^22] [Hviding](Source#cldf:Hviding2005) ([2005](Source#cldf:Hviding2005): 103) distinguishes between _Crinum asiaticum_, which is cultivated, and _Crinum pedunculatum_, which grows wild in sandy areas near beaches and in other damp locations. [Kwa'ioloa & Burt](Source#cldf:KwaioloaandBurt2001) ([2001](Source#cldf:KwaioloaandBurt2001): 216) distinguish between a green-leaved wild variety of _Crinum asiaticum_ and a yellow-leafed variety cultivated for decoration in villages.
+_Crinum asiaticum_ is a large lily with long erect leaves that are arranged in a spiral rosette to form impressive clumps up to 1.5 m in height and 2 m wide ([Figure 13.10](#fig-3-13_10), right). The leaves may be a metre long and 10cm wide. They emerge from huge bulbs that may weigh as much as 9 kg. Its white flowers, with thick succulent stems, are shaped like tubes that flair open into a crown of narrow petals.[^22]: [Hviding](Source#cldf:Hviding2005) ([2005](Source#cldf:Hviding2005): 103) distinguishes between _Crinum asiaticum_, which is cultivated, and _Crinum pedunculatum_, which grows wild in sandy areas near beaches and in other damp locations. [Kwa'ioloa & Burt](Source#cldf:KwaioloaandBurt2001) ([2001](Source#cldf:KwaioloaandBurt2001): 216) distinguish between a green-leaved wild variety of _Crinum asiaticum_ and a yellow-leafed variety cultivated for decoration in villages.
 
 
 <a id="p-422"></a>
 
-Figure 13.10: Left: _Heliconia_ solomonensis: __A__, plant; __B__, mature inflorescence, open and showing fruit. Right: _Crinum asiaticum_, spider lily.
+<a id="fig-3-13_10"> </a>
+
+[__Figure 13.10:__ Left: _Heliconia_ solomonensis: __A__, plant; __B__, mature inflorescence, open and showing fruit. Right: _Crinum asiaticum_, spider lily.](MediaTable#cldf:fig-3-13_10)
+
+
 
 At Tinputz (Bougainville) the pounded roots of this plant were mixed with red iron oxide and the mixture was rubbed onto coconut palm trunks to ensure that they bore well ([Blackwood 1935](Source#cldf:Blackwood1935): 311). The Nakanai of New Britain and the Marovo use the light-coloured leaf bases as trolling lures to catch large fish, in Marovo barracuda and Spanish mackerel ([Hviding 2005](Source#cldf:Hviding2005): 103, [Floyd 1954](Source#cldf:Floyd1954)). The Nakanai also use the leaves for making women's leaf skirts. In Marovo the leaves are used to treat bruises and fractures.
 
@@ -559,7 +599,7 @@ The bottle gourd, _Lagenaria siceraria_, is grown throughout much of the Pacific
 
 <a id="p-424"></a>
 
-Whistler provides names for _Benincasa hispida_, listed below, which allow us to reconstruct Proto Central Pacific _&ast;vaŋ(o,u)_. I have accepted his arguments for glossing the Fijian terms as _Benincasa hispida_: his sources (H. B. R. [Parham 1943](Source#cldf:Parham1943), [Capell 1941](Source#cldf:Capell1941)) gloss them as species of Lagenaria. Despite the obvious presence of _Benincasa hispida_ further west I have been unable to reconstruct an earlier term for it, but not for the usual reasons. Usually, a term is not reconstructable because there are no cognates in the data or because cognates are insufficiently widespread. In the case of _Benincasa hispida_, however, there are no data from outside Fiji and Polynesia except Peekel's Patpatar _hulhul paraho_. This can only indicate that, even if _Benincasa hispida_ was present in early Oceanic times, its presence and significance in the agricultural suite of Oceanic-speaking societies has faded almost to zero.[^23]
+Whistler provides names for _Benincasa hispida_, listed below, which allow us to reconstruct Proto Central Pacific _&ast;vaŋ(o,u)_. I have accepted his arguments for glossing the Fijian terms as _Benincasa hispida_: his sources (H. B. R. [Parham 1943](Source#cldf:Parham1943), [Capell 1941](Source#cldf:Capell1941)) gloss them as species of Lagenaria. Despite the obvious presence of _Benincasa hispida_ further west I have been unable to reconstruct an earlier term for it, but not for the usual reasons. Usually, a term is not reconstructable because there are no cognates in the data or because cognates are insufficiently widespread. In the case of _Benincasa hispida_, however, there are no data from outside Fiji and Polynesia except Peekel's Patpatar _hulhul paraho_. This can only indicate that, even if _Benincasa hispida_ was present in early Oceanic times, its presence and significance in the agricultural suite of Oceanic-speaking societies has faded almost to zero.[^23]:
 
 [PCP &ast;_vaŋ(o,u)_](cognatesetreferences.csv#cldf:3-13-7-2-424-PCP-vaou-a)
 
@@ -569,14 +609,14 @@ Whistler provides names for _Benincasa hispida_, listed below, which allow us to
 ### 7.3. _Cucurbita moschata_, pumpkin, TP pamken (Cucurbitaceae)
 
 
-[Barrau](Source#cldf:Barrau1962) ([1962](Source#cldf:Barrau1962): 190) declares that the pumpkin[^24] is a European introduction to Melanesia, and the linguistic data largely support his assertion. A number of terms for it are borrowings from English (MM: E Kara baniyin, Tinputz banken, NCV: Paamese vamuken, Lewo pamken) or from elsewhere (PT: Motu mausini, Roro mauteni, apparently from Samoan mau- tini 'gourd ').
+[Barrau](Source#cldf:Barrau1962) ([1962](Source#cldf:Barrau1962): 190) declares that the pumpkin[^24]: is a European introduction to Melanesia, and the linguistic data largely support his assertion. A number of terms for it are borrowings from English (MM: E Kara baniyin, Tinputz banken, NCV: Paamese vamuken, Lewo pamken) or from elsewhere (PT: Motu mausini, Roro mauteni, apparently from Samoan mau- tini 'gourd ').
 
 The set of seeming cognates below provides evidence, on the other hand, of an early Oceanic etymon, _&ast;waluq_ or _&ast;[w]aruq_, thatmusthave denoted _Cucurbita moschata_ or a similar plant. I write 'seeming' because, however one reconstructs the term, there are irregular phonological developments due to borrowing. [Dempwolff](Source#cldf:Dempwolff1938) ([1938](Source#cldf:Dempwolff1938)) reconstructed _&ast;baluq_ 'bottle gourd, _Lagenaria siceraria_'. However, the Oceanic forms below, together with Sundanese, Old Javanese, Balinese _waluh_, Buru _walu_ 'bottle gourd', point to PMP _&ast;waluq_ 'bottle gourd'. Whether PMP actually had such a form or whether this is a series of borrowings postdating the break-up of PMP and perhaps even of POc (cf [§7.1](ContributionTable?anchor=s-7-1#cldf:3-13)) is not relevant here. What is relevant is that a form related to these entered early Oceanic, but was applied to the pumpkin, _Cucurbita moschata_, or a related species.
 
 
 <a id="p-425"></a>
 
-If we assume that the Oceanic etymon was _&ast;waluq_, then the consonants are regularly reflected in Kela, Dami and Takia. Sio reflects _&ast;waruq_, and Kela may also do so, as _&ast;-l-_ and _&ast;-r-_ are neutralised as Kela _-r-_. Hote, Mapos Buang and Patep reflect _&ast;ruq-aruq_ and Lenakel and Anejom reflect _&ast;ruq-ruq_.[^25] Gapapaiwa and Misima _bonu-bonu_ (and similar forms in other PT languages) reflect _&ast;bʷalu-bʷalu_. If we assume instead that the Oceanic etymon was &ast;waruq or &ast;aruq, we are still left with irregularities.
+If we assume that the Oceanic etymon was _&ast;waluq_, then the consonants are regularly reflected in Kela, Dami and Takia. Sio reflects _&ast;waruq_, and Kela may also do so, as _&ast;-l-_ and _&ast;-r-_ are neutralised as Kela _-r-_. Hote, Mapos Buang and Patep reflect _&ast;ruq-aruq_ and Lenakel and Anejom reflect _&ast;ruq-ruq_.[^25]: Gapapaiwa and Misima _bonu-bonu_ (and similar forms in other PT languages) reflect _&ast;bʷalu-bʷalu_. If we assume instead that the Oceanic etymon was &ast;waruq or &ast;aruq, we are still left with irregularities.
 
 The strong likelihood, then, is that the term was borrowed from community to community sometime very soon after the break-up of POc. That is, _Cucurbita moschata_ or a similar plant must have found its way into NW Melanesia not much less that 3000 years ago. The genus Cucurbita is indigenous to the tropical zone of the Americas, where domestication is known to have occurred by 4000 years ago ([Sauer 1993](Source#cldf:Sauer1993)).
 

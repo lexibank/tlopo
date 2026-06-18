@@ -8,7 +8,7 @@
 ## 1. Introduction
 
 
-Much of this chapter is reproduced from [Lichtenberk](Source#cldf:Lichtenberk1994) ([1994](Source#cldf:Lichtenberk1994)), reordered and slightly revised in the light of more stringent subgrouping assumptions.[^1] To that work have been added a number of terms related to fire and its accompaniments. Organization of the chapter is (1) fire and the fireplace; (2) cooking methods; (3) preservation and (4) food processing.
+Much of this chapter is reproduced from [Lichtenberk](Source#cldf:Lichtenberk1994) ([1994](Source#cldf:Lichtenberk1994)), reordered and slightly revised in the light of more stringent subgrouping assumptions.[^1]: To that work have been added a number of terms related to fire and its accompaniments. Organization of the chapter is (1) fire and the fireplace; (2) cooking methods; (3) preservation and (4) food processing.
 
 
 <a id="s-2"></a>
@@ -129,7 +129,7 @@ We would expect to be able to reconstruct a term for a trivet, an arrangement of
 ### 2.6. Stone oven
 
 
-A far more soundly based reconstruction is POc _&ast;qumun_ 'oven made with hot stones, cook in a stone or earth oven', which has reflexes in every major Oceanic subgroup, together with some external cognates.[^2] However, archaeological evidence points to such ovens having much greater antiquity in Near Oceania and Australia than in Southeast Asia ([Allen, Gosden & White 1989](Source#cldf:AllenGosdenWhite1989): 550-551; [Horton 1994](Source#cldf:Horton1994):380-381). The external cognates are therefore regarded as possible borrowings, and a higher-level reconstruction is not proposed.
+A far more soundly based reconstruction is POc _&ast;qumun_ 'oven made with hot stones, cook in a stone or earth oven', which has reflexes in every major Oceanic subgroup, together with some external cognates.[^2]: However, archaeological evidence points to such ovens having much greater antiquity in Near Oceania and Australia than in Southeast Asia ([Allen, Gosden & White 1989](Source#cldf:AllenGosdenWhite1989): 550-551; [Horton 1994](Source#cldf:Horton1994):380-381). The external cognates are therefore regarded as possible borrowings, and a higher-level reconstruction is not proposed.
 
 [POc &ast;_qumun_](cognatesetreferences.csv#cldf:1-6-2-6-148-POc-qumun-a)
 

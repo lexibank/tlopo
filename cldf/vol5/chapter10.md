@@ -23,14 +23,14 @@ To be sure, a native speaker disambiguates each meaning in context. The progress
 
 There is probably no other language in the world with a verb whose range of meanings exactly corresponds to those of English _think_ (not even close neighbours like French or German do), but many of our sources give English glosses consisting of a single cognition verb like ‘think’, leaving us ignorant of how the verb thus glossed is used.
 
-To gain insight into how speakers of present-day Oceanic languages classify cognitive events, we have first tried to ensure that we compare like with like semantically. A list of semantic frames for cognition terms was drawn up. A semantic frame is a description of an event, relation, or entity and the participants involved in it.[^1] Making the list was a two-step procedure. First, the [FrameNet website](https://framenet.icsi.berkeley.edu/) was consulted. It provides semantic frames for a very large number of English lexemes and, for example, distinguishes the various senses of English _think_. Second, frames were defined that reflect meanings found in dictionaries of Oceanic languages for cognitive states and activities. Semantic frame labels appear below in small capitals. Terms for each frame were found in dictionaries of four Oceanic languages: Nakanai (MM; [Chowning and Goodenough 2014](Source#cldf:ChowningandGoodenough2014)), To’aba’ita (SES; [Lichtenberk 2008](Source#cldf:Lichtenberk2008)), Mwotlap (NCV; [François 2012](Source#cldf:Francois2012)) and Wayan Fijian ([Pawley & Sayaba 2003](Source#cldf:PawleyandSayaba2003)) and are tabulated in the sections on knowing ([§10.2](ContributionTable?anchor=s-10-2#cldf:5-10)), thinking ([§10.3](ContributionTable?anchor=s-10-3#cldf:5-10)) and remembering ([§10.5](ContributionTable?anchor=s-10-5#cldf:5-10)). This constituted a check of the appropriateness of the list of frames and of their possible representation in POc. In the event, several cognition frames that were supported by dictionary glosses did not lead to the reconstruction either of forms or of metaphorical structures, and they are omitted here. These include ‘not know, be ignorant’ (often a simple verb), ‘think about, long for’, ‘be on one’s mind, have s.t. on one’s mind’, ‘remember to do s.t.’, ‘forget to do s.t.’, ‘hope’ and ‘expect’.
+To gain insight into how speakers of present-day Oceanic languages classify cognitive events, we have first tried to ensure that we compare like with like semantically. A list of semantic frames for cognition terms was drawn up. A semantic frame is a description of an event, relation, or entity and the participants involved in it.[^1]: Making the list was a two-step procedure. First, the [FrameNet website](https://framenet.icsi.berkeley.edu/) was consulted. It provides semantic frames for a very large number of English lexemes and, for example, distinguishes the various senses of English _think_. Second, frames were defined that reflect meanings found in dictionaries of Oceanic languages for cognitive states and activities. Semantic frame labels appear below in small capitals. Terms for each frame were found in dictionaries of four Oceanic languages: Nakanai (MM; [Chowning and Goodenough 2014](Source#cldf:ChowningandGoodenough2014)), To’aba’ita (SES; [Lichtenberk 2008](Source#cldf:Lichtenberk2008)), Mwotlap (NCV; [François 2012](Source#cldf:Francois2012)) and Wayan Fijian ([Pawley & Sayaba 2003](Source#cldf:PawleyandSayaba2003)) and are tabulated in the sections on knowing ([§10.2](ContributionTable?anchor=s-10-2#cldf:5-10)), thinking ([§10.3](ContributionTable?anchor=s-10-3#cldf:5-10)) and remembering ([§10.5](ContributionTable?anchor=s-10-5#cldf:5-10)). This constituted a check of the appropriateness of the list of frames and of their possible representation in POc. In the event, several cognition frames that were supported by dictionary glosses did not lead to the reconstruction either of forms or of metaphorical structures, and they are omitted here. These include ‘not know, be ignorant’ (often a simple verb), ‘think about, long for’, ‘be on one’s mind, have s.t. on one’s mind’, ‘remember to do s.t.’, ‘forget to do s.t.’, ‘hope’ and ‘expect’.
 
 
 <a id="p-536"></a>
 
 A larger language sample would have been ideal, but identifying semantic frames requires sentence examples. These are absent from [Chowning and Goodenough](Source#cldf:ChowningandGoodenough2014) ([2014](Source#cldf:ChowningandGoodenough2014)), but the latter is the best available dictionary of a MM language. Because semantic frames are subject to borrowing by bilingual speakers, and NNG and PT languages have all been in contact with Papuan languages at various points in their histories, they are probably poor indicators of POc’s frames and were therefore excluded from the sample, meaning that WOc could be appropriately represented only by a MM language.
 
-There is a tendency for terms denoting abstractions to be metaphors that refer to less abstract concepts. Metaphors in turn are often encoded by complex lexemes; that is, lexemes made up of two or more simple lexemes. Complex lexemes include body-part metaphors (BPMs; ch.9), serial verb constructions (SVCs),[^3] and compounds derived from either of these, and apparently these have long been productive lexeme-creating devices, as they are also present in Central Malayo-Polynesian and South Halmahera/West New Guinea languages and were apparently constructions of Proto Central/Eastern Malayo-Polynesian. We can be sure that complex lexemes with these structures occurred in POc.
+There is a tendency for terms denoting abstractions to be metaphors that refer to less abstract concepts. Metaphors in turn are often encoded by complex lexemes; that is, lexemes made up of two or more simple lexemes. Complex lexemes include body-part metaphors (BPMs; ch.9), serial verb constructions (SVCs),[^3]: and compounds derived from either of these, and apparently these have long been productive lexeme-creating devices, as they are also present in Central Malayo-Polynesian and South Halmahera/West New Guinea languages and were apparently constructions of Proto Central/Eastern Malayo-Polynesian. We can be sure that complex lexemes with these structures occurred in POc.
 
 Each section below discusses a single cognition frame or a set of related frames. Sections discussing further frames could be added, but these would not contain reconstructed forms. They would at best list the meanings of complex lexemes together with supporting data, and these are already well enough represented in the chapter.
 
@@ -47,9 +47,9 @@ __block - AWARE, e. g. ‘I know that he is coming.’ - ACQUAINTED, e. g. ‘I 
 
 <a id="p-537"></a>
 
-Their distribution across verbs in the four witness languages is shown in [Table 22](#table-22).[^4] In Mwotlap, Wayan and To’aba’ita one verb is used for all three frames, but To’aba’ita also has dedicated EXPERT verbs. Nakanai has distinct verbs in each frame, but the AWARE verb _rovi_ also occurs in the ACQUAINTED compound _rovi-lala_. The morpheme _-lala_ is perhaps related (diachronically, at least) to _lalai_ ‘to try (to do s.t.)’. If so, it has a similar meaning to To’aba’ita _toʔo_, which means ‘to try, test’ in a number of compound verbs ([§8.5](ContributionTable?anchor=s-8-5#cldf:5-10)) including apparently _θaitoʔoma-_ ‘know’, but does not occur independently.
+Their distribution across verbs in the four witness languages is shown in [Table 22](#tab-22).[^4]: In Mwotlap, Wayan and To’aba’ita one verb is used for all three frames, but To’aba’ita also has dedicated EXPERT verbs. Nakanai has distinct verbs in each frame, but the AWARE verb _rovi_ also occurs in the ACQUAINTED compound _rovi-lala_. The morpheme _-lala_ is perhaps related (diachronically, at least) to _lalai_ ‘to try (to do s.t.)’. If so, it has a similar meaning to To’aba’ita _toʔo_, which means ‘to try, test’ in a number of compound verbs ([§8.5](ContributionTable?anchor=s-8-5#cldf:5-10)) including apparently _θaitoʔoma-_ ‘know’, but does not occur independently.
 
-<a id="table-22"> </a>
+<a id="tab-22"> </a>
 
 : Table 22         Verbs of knowing in the four witness languages
 
@@ -62,7 +62,7 @@ Their distribution across verbs in the four witness languages is shown in [Table
 | Mwotlap    | _eɣlal_                      | _eɣlal_                       | _eɣlal_                                                                                       |
 | Wayan      | _kilāti-_                    | _kilāti-_                     | _kilāti-_                                                                                     |
 
-The glosses on the second line of [Table 22](#table-22) are intended to capture the fact that in certain contexts (e. g. in the presence of a perfective marker) ACQUAINTED and EXPERT verbs often have dynamic punctual senses, respectively ‘recognise (s.o.)’ and ‘learn (how to …)’.
+The glosses on the second line of [Table 22](#tab-22) are intended to capture the fact that in certain contexts (e. g. in the presence of a perfective marker) ACQUAINTED and EXPERT verbs often have dynamic punctual senses, respectively ‘recognise (s.o.)’ and ‘learn (how to …)’.
 
 The POc ‘know’ verb with the most widely distributed reflexes is _&ast;kilala_. It appears to have had AWARE, ACQUAINTED and EXPERT senses, to judge from the more specific glosses in the cognate set below, but it is difficult to be certain. WOc glosses match the PMP gloss, ACQUAINTED. The trisyllabic form is unusual, and there is reasonable evidence for a transitive alternant _&ast;kila-i-_ from which the third root syllable was deleted.
 
@@ -106,7 +106,7 @@ It is well known that in many languages a perception verb may also mean ‘know,
 
 A similar extension of meaning occurs with PPn _&ast;kite_ ‘see, appear, know’ from POc _kita-i-_ ‘see s.t.’, and Raga (NCV) _ilo_ ‘know, perceive’ from POc _&ast;qilo_ ‘be aware of, discern, see’ ([§8.2](ContributionTable?anchor=s-8-2#cldf:5-10)). The transitive reflex of POc _&ast;qilo_, namely PPn _&ast;qilo-_ (VI) ‘to know, be aware’, (VT) ‘know s.t.’, had been fully repurposed as a verb of knowing.
 
-Reflexes of POc _&ast;roŋoR-_ ‘hear s.t., listen to s.t.’[^5] with the additional sense ‘know’ are sufficiently widespread to raise the possibility that this sense was already present in POc.
+Reflexes of POc _&ast;roŋoR-_ ‘hear s.t., listen to s.t.’[^5]: with the additional sense ‘know’ are sufficiently widespread to raise the possibility that this sense was already present in POc.
 
 [5-10-2-None-541-nng-mutu-lo](cf.csv#cldf:5-10-2-None-541-nng-mutu-lo)
 
@@ -143,9 +143,9 @@ Across languages verbs of thinking fall into two broad semantic frames:
 - OPINE, e. g. ‘I think/believe that he is coming.’
 - COGITATE, e. g. ‘I think of/about him/this a lot.’
 
-[Table 23](#table-23) shows that in all four witness languages there is a verb (in bold) that embraces both frames, but in Nakanai, To’aba’ita and Wayan there are other verbs with somewhat more specialised meanings. None of this is surprising. English has believe, surmise, guess, suspect and suppose as OPINE verbs, and a number of COGITATE verbs: cogitate on, consider, ponder, reflect on, contemplate and others, each with a different shade of meaning. Dictionaries often do not encapsulate these shades of meaning well.
+[Table 23](#tab-23) shows that in all four witness languages there is a verb (in bold) that embraces both frames, but in Nakanai, To’aba’ita and Wayan there are other verbs with somewhat more specialised meanings. None of this is surprising. English has believe, surmise, guess, suspect and suppose as OPINE verbs, and a number of COGITATE verbs: cogitate on, consider, ponder, reflect on, contemplate and others, each with a different shade of meaning. Dictionaries often do not encapsulate these shades of meaning well.
 
-<a id="table-23"> </a>
+<a id="tab-23"> </a>
 
 : Table 23     Verbs of thinking in the four witness languages
 
@@ -172,7 +172,7 @@ as both _I say that is not good_ and _I think that is not good_. Thus the meanin
 
 [5-10-3-None-544-adm-baluan-pa](cf.csv#cldf:5-10-3-None-544-adm-baluan-pa)
 
-Hence OPINE verbs in Oceanic languages are centrally about mental activity, and it is not surprising that [Table 23](#table-23) shows them overlapping with COGITATE verbs. Indeed, no dedicated POc OPINE verb that is not also a speech verb is reconstructable.
+Hence OPINE verbs in Oceanic languages are centrally about mental activity, and it is not surprising that [Table 23](#tab-23) shows them overlapping with COGITATE verbs. Indeed, no dedicated POc OPINE verb that is not also a speech verb is reconstructable.
 
 Glosses of reflexes of POc _&ast;nonom_ ‘think, remember; mind, thought’ point quite strongly to it being a COGITATE verb with a semantic focus on thinking about or remembering something. Its reconstruction, though, involves some ad hoc assumptions about the history of the apparent reflexes listed below. These display a somewhat abstract formal template _nVNV[N]_, where N is _n_ or _m_, but _m_ occurs no more than once in a reflex. The shape is that of POc _&ast;nonom_ (V) ‘think’, (N) ‘mind, thought’, the expected reflex of PAn _&ast;nemnem_ ‘think’ (ACD). However, Blust (ACD) notes Fordata (CMP) _nanaŋ_ ‘remember, remember sadly’, with _-a-_ twice for expected _-e-_ (< PAn _&ast;-e-_). This suggests that there was an alternant of the form _&ast;nanam_ as far back as PCEMP, perhaps ancestral to some of the forms listed below. Treating the forms below as a cognate set also assumes that the presence of three nasals led to metathesis in Seimat and Nehan (_&ast;nVnVm_ > _&ast;nVmVn_), and to assimilation of point of articulation in Bariai, Babatana and Ririo (_&ast;nVnVm_ > _&ast;nVnVn_).
 
@@ -185,7 +185,7 @@ The Wayan transitive verb _num-i-_ (VT) ‘think of s.t.’ requires special men
 
 The two verbs discussed below, POc _&ast;drodrom_ ‘think, worry; love, be sorry for, long for’ and POc _&ast;nuka_ ‘think, feel’, are both COGITATE verbs, but both also have emotional overtones. Indeed, glosses in Oceanic dictionaries suggest that cogitation and worry or longing frequently go together.
 
-Although its reflex is the Mwotlap default verb for thinking ([Table 23](#table-23)), the NCV evidence, presented in some detail below, suggests that the POc verb was a COGITATE verb with an emotional overtone of ‘love, be sorry for, long for’, i.e. the SORRY semantic frame recognised in [§11.4.3](ContributionTable?anchor=s-11-4-3#cldf:5-10). Indeed, the emotion-related meanings are the only ones recorded for the Nakanai, Nokuku, Namakir, Nguna and S Efate reflexes, and they also figure in the Tamambo and Uripiv glosses. The expected POc reflex of PAn _&ast;demdem_ is POc †_&ast;rodrom_ (_&ast;-md-_ > _&ast;-nd-_ > _-dr-_), but maintaining the consistency of reduplication is perhaps responsible for _&ast;drodrom_. Transitive _&ast;drom-i_ arose via the template recognised by [Blust](Source#cldf:Blust1977a) ([1977a](Source#cldf:Blust1977a)).
+Although its reflex is the Mwotlap default verb for thinking ([Table 23](#tab-23)), the NCV evidence, presented in some detail below, suggests that the POc verb was a COGITATE verb with an emotional overtone of ‘love, be sorry for, long for’, i.e. the SORRY semantic frame recognised in [§11.4.3](ContributionTable?anchor=s-11-4-3#cldf:5-10). Indeed, the emotion-related meanings are the only ones recorded for the Nakanai, Nokuku, Namakir, Nguna and S Efate reflexes, and they also figure in the Tamambo and Uripiv glosses. The expected POc reflex of PAn _&ast;demdem_ is POc †_&ast;rodrom_ (_&ast;-md-_ > _&ast;-nd-_ > _-dr-_), but maintaining the consistency of reduplication is perhaps responsible for _&ast;drodrom_. Transitive _&ast;drom-i_ arose via the template recognised by [Blust](Source#cldf:Blust1977a) ([1977a](Source#cldf:Blust1977a)).
 
 [PAn &ast;_demdem_](cognatesetreferences.csv#cldf:5-10-3-None-545-POc-drodrom-a)
 
@@ -218,16 +218,16 @@ The inherited core meaning of POc _&ast;manaca(m)_ was evidently ‘tame (of ani
 ## 4. True and believing to be true
 
 
-In those Oceanic languages for which there are relevant data[^6] believing something to be true usually differs lexically from OPINE ([§10.3](ContributionTable?anchor=s-10-3#cldf:5-10)) and thus forms a separate semantic frame, here labelled BELIEVE. In most of these languages, the basic BELIEVE predicate is a complex form, either a derived verb or, less commonly, a BPM, involving a stative verb root meaning ‘true, real, genuine, correct, right’, a frame here labelled TRUE. The most widespread derivation is a TRUE verb preceded by the prefix that forms causative verbs, reflecting POc _&ast;pa[ka]-_. Verbs with this form are listed in [Table 24](#table-24).
+In those Oceanic languages for which there are relevant data[^6]: believing something to be true usually differs lexically from OPINE ([§10.3](ContributionTable?anchor=s-10-3#cldf:5-10)) and thus forms a separate semantic frame, here labelled BELIEVE. In most of these languages, the basic BELIEVE predicate is a complex form, either a derived verb or, less commonly, a BPM, involving a stative verb root meaning ‘true, real, genuine, correct, right’, a frame here labelled TRUE. The most widespread derivation is a TRUE verb preceded by the prefix that forms causative verbs, reflecting POc _&ast;pa[ka]-_. Verbs with this form are listed in [Table 24](#tab-24).
 
-From the examples in [Table 24](#table-24) it seems likely that there was a POc believe verb of the form _&ast;pa[ka]-_ + true verb, but its form is uncertain. The glosses of _&ast;pa[ka]-_ + true verbs in the table point to the likelihood that the basic meaning of POc _&ast;pa[ka]-_ + true was ‘verify as true’, and that ‘believe (s.t.) to be true’ was a secondary meaning. Other derivations with a true root are listed in [Table 25](#table-25). The Takia lexeme is a BPM, and the Owa lexeme is a compound derived from a BPM. The Gela, Longgu, Sa’a and Pn forms are evidently compounds derived from SVCs.
+From the examples in [Table 24](#tab-24) it seems likely that there was a POc believe verb of the form _&ast;pa[ka]-_ + true verb, but its form is uncertain. The glosses of _&ast;pa[ka]-_ + true verbs in the table point to the likelihood that the basic meaning of POc _&ast;pa[ka]-_ + true was ‘verify as true’, and that ‘believe (s.t.) to be true’ was a secondary meaning. Other derivations with a true root are listed in [Table 25](#tab-25). The Takia lexeme is a BPM, and the Owa lexeme is a compound derived from a BPM. The Gela, Longgu, Sa’a and Pn forms are evidently compounds derived from SVCs.
 
 
 <a id="p-549"></a>
 
 It follows from the material in Tables 21 and 22 that the term to be reconstructed is the stative verb for the true frame rather than a believe verb. In other words, this is an instance where the basic lexeme was a stative verb with the stimulus as subject: ‘X is true’ rather than ‘I believe X’.
 
-<a id="table-24"> </a>
+<a id="tab-24"> </a>
 
 : Table 24       BELIEVE verbs formed from the causative prefix + a TRUE verb
 
@@ -252,7 +252,7 @@ It follows from the material in Tables 21 and 22 that the term to be reconstruct
 | Pn:  | Rennellese | _haka-māʔogi_ ‘verify as true’                               | _māʔogi_                              |
 | Pn:  | Maori      | _ɸaka-pono_ ‘believe’                                        | _pono_ ‘true; bountiful, abundant’    |
 
-<a id="table-25"> </a>
+<a id="tab-25"> </a>
 
 : Table 25       Other BELIEVE lexemes formed with a TRUE verb
 
@@ -312,14 +312,18 @@ The question mark against POc _&ast;moqi_ below refers to its form. If Takia _mo
 
 [POc &ast;_moqi_](cognatesetreferences.csv#cldf:5-10-4-None-553-POc-moqi-a)
 
-A small number of forms meaning ‘true’, all Northwest or Southeast Solomonic, reflect a root _&ast;mana_. It is tempting to associate these with POc &ast;mʷane ‘straight, direct; flat, level’ (Vol. 2:213),[^9] and this is probably the origin of Gela _mae-mane_ ‘correct’ below. However, neither forms nor meaning otherwise support this association. It is possible that these forms are cognate with PPn _&ast;mana_ ‘supernatural power’ (POLLEX) and reflect the term that Blust (ACD) reconstructs as POc _&ast;mana_ ‘power in natural phenomena; thunder, storm wind’. However, the glosses below suggest (i) that _&ast;mana_/_&ast;ma-mana_ was a homophone of Blust’s reconstruction, and (ii) that the Simbo and Lau reflexes below reflect a conflation of Blust’s POc _&ast;mana_ ‘power…‘ and _&ast;mana_ ‘true’. Since all reflexes of the latter are located in the Solomons archipelago, it is difficult to know which interstage it should be attributed to.
+A small number of forms meaning ‘true’, all Northwest or Southeast Solomonic, reflect a root _&ast;mana_. It is tempting to associate these with POc &ast;mʷane ‘straight, direct; flat, level’ (Vol. 2:213),[^9]: and this is probably the origin of Gela _mae-mane_ ‘correct’ below. However, neither forms nor meaning otherwise support this association. It is possible that these forms are cognate with PPn _&ast;mana_ ‘supernatural power’ (POLLEX) and reflect the term that Blust (ACD) reconstructs as POc _&ast;mana_ ‘power in natural phenomena; thunder, storm wind’. However, the glosses below suggest (i) that _&ast;mana_/_&ast;ma-mana_ was a homophone of Blust’s reconstruction, and (ii) that the Simbo and Lau reflexes below reflect a conflation of Blust’s POc _&ast;mana_ ‘power…‘ and _&ast;mana_ ‘true’. Since all reflexes of the latter are located in the Solomons archipelago, it is difficult to know which interstage it should be attributed to.
 
 
 <a id="p-554"></a>
 
 [5-10-4-None-554-mm-nehan-mana](cf.csv#cldf:5-10-4-None-554-mm-nehan-mana)
 
-The set below deserves mention because of its frequent occurrence in [Table 25](#table-25). It is restricted to SES languages, and there seems to be no consistent semantic difference between forms with and without _&ast;-ni_.
+Cf. also:
+
+[5-10-4-None-554-ses-gela-maemane](cf.csv#cldf:5-10-4-None-554-ses-gela-maemane)
+
+The set below deserves mention because of its frequent occurrence in [Table 25](#tab-25). It is restricted to SES languages, and there seems to be no consistent semantic difference between forms with and without _&ast;-ni_.
 
 [PSES &ast;_utu_](cognatesetreferences.csv#cldf:5-10-4-None-554-PSES-utu-a)
 
@@ -336,9 +340,9 @@ Finally, the small set below has a curious distribution. Reflexes of PMP _&ast;b
 ## 5. Remembering
 
 
-Probably all Oceanic languages have terms for MEMORISE (‘commit s.t. to memory’) and for RECALL (‘remember s.t. /that…’), but these terms are usually complex lexemes, ([§10.1](ContributionTable?anchor=s-10-1#cldf:5-10)). The glosses of their components are given henceforth in square brackets. [Table 26](#table-26) sets out terms for the two semantic frames in the four witness languages.
+Probably all Oceanic languages have terms for MEMORISE (‘commit s.t. to memory’) and for RECALL (‘remember s.t. /that…’), but these terms are usually complex lexemes, ([§10.1](ContributionTable?anchor=s-10-1#cldf:5-10)). The glosses of their components are given henceforth in square brackets. [Table 26](#tab-26) sets out terms for the two semantic frames in the four witness languages.
 
-<a id="table-26"> </a>
+<a id="tab-26"> </a>
 
 : Table 26       Verbs of remembering in the four witness languages
 
@@ -353,9 +357,9 @@ Probably all Oceanic languages have terms for MEMORISE (‘commit s.t. to memory
 
 The absence of MEMORISE lexemes in Mwotlap and To’aba’ita typifies their absence from many dictionaries. The data are so sparse that they will not be further considered here. The Wayan verbs are simple metaphors: _katoni-_ is derived from _kato_ ‘container with lid’ and bolani- from _bola_ ‘coconut leaf basket, container with lid’.
 
-The default POc RECALL verb was apparently _&ast;nonom_, _&ast;nanam_ ‘think about s.t., remember s.t.’, reconstructed in [§10.3](ContributionTable?anchor=s-10-3#cldf:5-10). It encoded both RECALL and COGITATE frames. The only simple RECALL verb in [Table 26](#table-26) is the Wayan verb _divi-_ ‘daydream, remember longingly’, but this includes the additional sense of longing, quite common in RECALL verbs in Oceanic languages.
+The default POc RECALL verb was apparently _&ast;nonom_, _&ast;nanam_ ‘think about s.t., remember s.t.’, reconstructed in [§10.3](ContributionTable?anchor=s-10-3#cldf:5-10). It encoded both RECALL and COGITATE frames. The only simple RECALL verb in [Table 26](#tab-26) is the Wayan verb _divi-_ ‘daydream, remember longingly’, but this includes the additional sense of longing, quite common in RECALL verbs in Oceanic languages.
 
-The remaining RECALL terms in [Table 26](#table-26) are complex lexemes, and three of them begin with the language’s default COGITATE verb. In this they are typical of Oceanic RECALL terms outside Polynesia. It is possible that, for example, the ‘think + find’ sequence immediately below is of POc antiquity, but the data do not allow us to reconstruct the forms that occurred in this and other complex lexemes.
+The remaining RECALL terms in [Table 26](#tab-26) are complex lexemes, and three of them begin with the language’s default COGITATE verb. In this they are typical of Oceanic RECALL terms outside Polynesia. It is possible that, for example, the ‘think + find’ sequence immediately below is of POc antiquity, but the data do not allow us to reconstruct the forms that occurred in this and other complex lexemes.
 
 An effect of employing complex lexemes is that they may encode more specific meanings than English usually encodes with remember. Thus one sense of remember, as in ‘He managed to remember the address’, views remembering as finding a piece of information in one’s memory after a search, encoded by a SVC ‘think + find’:
 
@@ -451,7 +455,7 @@ When one searches a dictionary for ‘decide’, the gloss ‘undecided’ frequ
 
 The English idioms ‘be of two minds’ (this section) and ‘be of one mind’ ([§10.9](ContributionTable?anchor=s-10-9#cldf:5-10)) translate as semantically similar BPMs in Oceanic languages.
 
-Numerous expressions in Oceanic languages for ‘be undecided’ translate roughly as ‘be of two minds’. Expressions for ‘be undecided’ have been found in three of the four witness languages, and examples are given in [Table 27](#table-27).
+Numerous expressions in Oceanic languages for ‘be undecided’ translate roughly as ‘be of two minds’. Expressions for ‘be undecided’ have been found in three of the four witness languages, and examples are given in [Table 27](#tab-27).
 
 The Nakanai example and the first To’aba’ita example are BPMs, with a body-part as subject and ‘two’ as predicate. The second To’aba’ita example is a compound verb, ‘mind’ + ‘two’, presumably derived from a BPM. The Wayan example also appears to be a BPM-derived compound, but here ‘two’ is replaced by ‘entangled (with weeds)’.
 
@@ -466,7 +470,7 @@ __Table 27__   Predicates of indecision in three witness languages
 
 [5-10-8-None-560-25](examplegroups.csv#cldf:5-10-8-None-560-25)
 
-BPMs that are semantically similar to the top three examples in [Table 27](#table-27) are widespread in Oceanic languages (but seemingly infrequent in Vanuatu), and such a metaphor almost certainly occurred in POc.
+BPMs that are semantically similar to the top three examples in [Table 27](#tab-27) are widespread in Oceanic languages (but seemingly infrequent in Vanuatu), and such a metaphor almost certainly occurred in POc.
 
 [5-10-8-None-560-nng-lukep-loru](cf.csv#cldf:5-10-8-None-560-nng-lukep-loru)
 
@@ -523,7 +527,7 @@ To teach someone something is to cause them to learn it, and the learner then ei
 
 [5-10-11-None-563-ses-tolo-sasani](cf.csv#cldf:5-10-11-None-563-ses-tolo-sasani)
 
-More often ([Table 28](#table-28)) it is expressed by attaching a causative prefix, usually a reflex of POc _&ast;pa[ka]-_ CAUSATIVE, to a root meaning ‘know’ ([§10.2](ContributionTable?anchor=s-10-2#cldf:5-10)) or ‘learn’. Since to learn is often synonymous with ‘come to know’, the English distinction between ‘know’ and ‘learn’ is not relevant in this context.
+More often ([Table 28](#tab-28)) it is expressed by attaching a causative prefix, usually a reflex of POc _&ast;pa[ka]-_ CAUSATIVE, to a root meaning ‘know’ ([§10.2](ContributionTable?anchor=s-10-2#cldf:5-10)) or ‘learn’. Since to learn is often synonymous with ‘come to know’, the English distinction between ‘know’ and ‘learn’ is not relevant in this context.
 
 The Bariai (NNG), Misima (PT) and Halia (MM) items above, along with Dawawa (PT) _wai-kata-i_ ‘show’, suggest that there was a PWOc causative _&ast;paka-qataq-i-_ ‘teach, cause to know, show’, formed from _&ast;qataq-i-_ ‘know, understand, realise (that)’ ([§10.2](ContributionTable?anchor=s-10-2#cldf:5-10)).
 
@@ -534,7 +538,7 @@ Lou, Baluan and Manam reflexes of intransitive POc _&ast;towa_ ‘imitate, learn
 
 <a id="p-564"></a>
 
-<a id="table-28"> </a>
+<a id="tab-28"> </a>
 
 : Table 28         Verbs of teaching formed with a causative prefix
 

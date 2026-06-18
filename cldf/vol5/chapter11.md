@@ -78,7 +78,7 @@ Two terms reconstructed for ‘thick’ in [vol.2(201](ContributionTable?anchor=
 
 <a id="p-570"></a>
 
-The POc term for a large girth was _&ast;[tubu]tubu[ka]_, reconstructed in [vol.2:202](ContributionTable?anchor=p-202#cldf:2-7).[^1] Additional reflexes have been found, and we give the cognate set as it now stands.
+The POc term for a large girth was _&ast;[tubu]tubu[ka]_, reconstructed in [vol.2:202](ContributionTable?anchor=p-202#cldf:2-7).[^1]: Additional reflexes have been found, and we give the cognate set as it now stands.
 
 [POc &ast;_&#91;tubu&#93;tubu&#91;ka&#93;_](cognatesetreferences.csv#cldf:5-11-2-3-570-POc-tubutubuka-a)
 
@@ -101,7 +101,7 @@ The data make it clear that Oceanic languages have a distinct term or terms for 
 
 Oceanic terms for ‘strong’ tend also to mean ‘hard’. One POc term for ‘strong, hard’ was _&ast;toRas_, reconstructed in [vol.3(200](ContributionTable?anchor=p-200#cldf:3-7)–201) with the sense ‘a taxon of hardwood trees including _Intsia bijuga_’, where it is also noted that the POc term meant ‘hard, durable’. There is no evidence, though, that this term denoted human strength.
 
-The three terms below, POc _&ast;kayu-kayu_, PROc _&ast;[kayu]kayu-a_ and PEOc _&ast;kaila_ ‘strong, firm’ appear to be derived from the generic term for tree, POc _&ast;kayu_ ([vol.3:71](ContributionTable?anchor=p-71#cldf:3-3)–73), used metaphorically for strength and hardness. However, this seemingly obvious derivation is a little problematic. If the reflexes of these three terms are compared with the terms for tree in the same languages, differences emerge. The _&ast;kayu_-like terms for ‘strong, firm’ have a fortis initial _k-_, whilst in languages that have a fortis/lenis distinction[^2] the term for ‘tree’ has a lenis initial _ɣ-_ (Bugotu, W Guadalcanal, Woleaian) or zero (Labu, Paamese). This appears to be evidence against the hypothesis that these terms are derived from _&ast;kayu_. However, the history of the fortis/lenis distinction is not well understood, and in favour of the hypothesis is that POc _&ast;kayu-kayu_ and _&ast;[kayu]kayu-a_ were both formed from _&ast;kayu_ by two early Oceanic adjective-forming strategies. The first was CVCV- reduplication, giving POc _&ast;kayu-kayu_ ‘strong, tough, inflexible’ ([vol.2:206](ContributionTable?anchor=p-206#cldf:2-7)–220). The second was the addition of _&ast;-[k]a_ to a noun ([Ross 2000](Source#cldf:Ross2000)), giving _&ast;[kayu]kayu-a_. The fortis/lenis and other formal discrepancies can perhaps be explained by assuming that speakers’ association of ‘strong, firm’ with ‘tree’ was lost in some languages, and as a result the root of the ‘strong’ term and the reflex of _&ast;kayu_ have undergone different phonological developments.
+The three terms below, POc _&ast;kayu-kayu_, PROc _&ast;[kayu]kayu-a_ and PEOc _&ast;kaila_ ‘strong, firm’ appear to be derived from the generic term for tree, POc _&ast;kayu_ ([vol.3:71](ContributionTable?anchor=p-71#cldf:3-3)–73), used metaphorically for strength and hardness. However, this seemingly obvious derivation is a little problematic. If the reflexes of these three terms are compared with the terms for tree in the same languages, differences emerge. The _&ast;kayu_-like terms for ‘strong, firm’ have a fortis initial _k-_, whilst in languages that have a fortis/lenis distinction[^2]: the term for ‘tree’ has a lenis initial _ɣ-_ (Bugotu, W Guadalcanal, Woleaian) or zero (Labu, Paamese). This appears to be evidence against the hypothesis that these terms are derived from _&ast;kayu_. However, the history of the fortis/lenis distinction is not well understood, and in favour of the hypothesis is that POc _&ast;kayu-kayu_ and _&ast;[kayu]kayu-a_ were both formed from _&ast;kayu_ by two early Oceanic adjective-forming strategies. The first was CVCV- reduplication, giving POc _&ast;kayu-kayu_ ‘strong, tough, inflexible’ ([vol.2:206](ContributionTable?anchor=p-206#cldf:2-7)–220). The second was the addition of _&ast;-[k]a_ to a noun ([Ross 2000](Source#cldf:Ross2000)), giving _&ast;[kayu]kayu-a_. The fortis/lenis and other formal discrepancies can perhaps be explained by assuming that speakers’ association of ‘strong, firm’ with ‘tree’ was lost in some languages, and as a result the root of the ‘strong’ term and the reflex of _&ast;kayu_ have undergone different phonological developments.
 
 PEOc _&ast;kaila_ ‘strong, firm’ has a similar set of meanings, and was presumably also derived from _&ast;kayu_, but the derivational mechanism has not been recorded in other terms.
 
@@ -196,7 +196,7 @@ Modifiers that describe features of temperament are reconstructed in the section
 #### 3.1.1. Tame, accustomed to
 
 
-POc evidently inherited a pair of terms meaning ‘tame, docile, trained, well behaved’ that were applied both to animals and human beings. The pair were _&ast;laca(m)_ and _&ast;ma-naca(m)_. Pairs of property terms with the same root were apparently quite common in POc, one unprefixed, the other with either _&ast;ka-_ or _&ast;ma-_, prefixes that often occur on stative verbs, both originating in the stative prefix _&ast;ka-_ ([Zeitoun & Huang 2000](Source#cldf:ZeitounandHuang2000):298). The seeming oddity about this pair is that the POc bare root had initial _&ast;l-_. the prefixed root initial _&ast;n-_. However, this is readily accounted for if the PAn root had initial _&ast;L-_,[^4] which regularly became PMP _&ast;l-_ initially but _&ast;-n-_ medially. Thus PAn _&ast;Lajam_ became PMP _&ast;lajam_ and POc _&ast;laca(m)_, whilst PAn _&ast;ma-Lajam_ regularly became PMP _&ast;ma-najam_ and POc _&ast;ma-naca(m)_.
+POc evidently inherited a pair of terms meaning ‘tame, docile, trained, well behaved’ that were applied both to animals and human beings. The pair were _&ast;laca(m)_ and _&ast;ma-naca(m)_. Pairs of property terms with the same root were apparently quite common in POc, one unprefixed, the other with either _&ast;ka-_ or _&ast;ma-_, prefixes that often occur on stative verbs, both originating in the stative prefix _&ast;ka-_ ([Zeitoun & Huang 2000](Source#cldf:ZeitounandHuang2000):298). The seeming oddity about this pair is that the POc bare root had initial _&ast;l-_. the prefixed root initial _&ast;n-_. However, this is readily accounted for if the PAn root had initial _&ast;L-_,[^4]: which regularly became PMP _&ast;l-_ initially but _&ast;-n-_ medially. Thus PAn _&ast;Lajam_ became PMP _&ast;lajam_ and POc _&ast;laca(m)_, whilst PAn _&ast;ma-Lajam_ regularly became PMP _&ast;ma-najam_ and POc _&ast;ma-naca(m)_.
 
 [PAn &ast;_Lajam_](cognatesetreferences.csv#cldf:5-11-3-1-576-POc-lacam-a)
 
@@ -420,12 +420,12 @@ The English term love is polysemous, with one meaning, ‘romantic love’, give
 
 > to be crazy, bizarre (incl. being romantically in love). This is considered somewhat bad and abnormal. (1973:305)
 
-Across Oceanic languages, terms for ‘to be lovers’[^5] are distinct from terms that denote caring about someone, and terms used to refer to the latter include an emotion akin to compassion. This semantic frame is labelled SORRY here, in recognition of the fact that the word _sore_ encodes this frame in both Papua New Guinea Tok Pisin and Vanuatu Bislama. Motu _hebogahisi_ ‘pity, compassion’ is instructive, combining _boga_ ‘belly, seat of desire and affection’ with _hisi_ ‘pain’. Other glosses combining what in English are distinct emotions include Gedaged _ilo- pani_ [inside- give] ‘sympathise with, love, pity, yearn for, feel for, commiserate with, mourn for, be homesick for s.o., s.t.’; Tolai _māri_ ‘to love, pity, have compassion for’, Roviana _tataru_ ‘to pity, love’, To’aba’ita _tatakomia_ ‘have a feeling of deep affection for s.o., s.t., such as sorrow, pity, compassion, mercy, love or admiration’, Arosi _tabai_ ‘to love, pity’, Rotuman _ruu_ ‘to love, value, care greatly for, feel solicitude’. English speakers, on the other hand, are more likely to include ‘love’ as an extension of ‘like’, ‘admire’ and a range of terms for ‘desire’.
+Across Oceanic languages, terms for ‘to be lovers’[^5]: are distinct from terms that denote caring about someone, and terms used to refer to the latter include an emotion akin to compassion. This semantic frame is labelled SORRY here, in recognition of the fact that the word _sore_ encodes this frame in both Papua New Guinea Tok Pisin and Vanuatu Bislama. Motu _hebogahisi_ ‘pity, compassion’ is instructive, combining _boga_ ‘belly, seat of desire and affection’ with _hisi_ ‘pain’. Other glosses combining what in English are distinct emotions include Gedaged _ilo- pani_ [inside- give] ‘sympathise with, love, pity, yearn for, feel for, commiserate with, mourn for, be homesick for s.o., s.t.’; Tolai _māri_ ‘to love, pity, have compassion for’, Roviana _tataru_ ‘to pity, love’, To’aba’ita _tatakomia_ ‘have a feeling of deep affection for s.o., s.t., such as sorrow, pity, compassion, mercy, love or admiration’, Arosi _tabai_ ‘to love, pity’, Rotuman _ruu_ ‘to love, value, care greatly for, feel solicitude’. English speakers, on the other hand, are more likely to include ‘love’ as an extension of ‘like’, ‘admire’ and a range of terms for ‘desire’.
 
 
 <a id="p-587"></a>
 
-As noted in [§10.3](ContributionTable?anchor=s-10-3#cldf:5-11), the SORRY frame is one of the meanings of widely distributed reflexes of POc (VI) _&ast;drodrom_, (VT) _&ast;drom-i_ ‘think, worry; love, be sorry for, long for’. A dedicated SORRY verb, POc _&ast;qarop_, _&ast;qarop-i-_ ‘feel pity, empathy, be sorry for’,[^6] was inherited from PMP but is reflected only in SES and Pn languages. The Arosi reflex and all Pn reflexes reflect an apparent PEOc _&ast;qarop-a_. The suffix _&ast;-a_ probably reflects the POc nominaliser _&ast;an_.
+As noted in [§10.3](ContributionTable?anchor=s-10-3#cldf:5-11), the SORRY frame is one of the meanings of widely distributed reflexes of POc (VI) _&ast;drodrom_, (VT) _&ast;drom-i_ ‘think, worry; love, be sorry for, long for’. A dedicated SORRY verb, POc _&ast;qarop_, _&ast;qarop-i-_ ‘feel pity, empathy, be sorry for’,[^6]: was inherited from PMP but is reflected only in SES and Pn languages. The Arosi reflex and all Pn reflexes reflect an apparent PEOc _&ast;qarop-a_. The suffix _&ast;-a_ probably reflects the POc nominaliser _&ast;an_.
 
 [PMP &ast;_qarep_](cognatesetreferences.csv#cldf:5-11-4-3-587-POc-qarop-a)
 
@@ -561,7 +561,7 @@ Nakanai uses the same metaphor with a non-cognate term for the verb:
 ## 5. Desiring and wanting
 
 
-We have included desire and wanting in this chapter because in some contexts (being envious, homesick) it has a strong emotional basis.[^7] In others, of course—lacking food (§[§4.3.3](ContributionTable?anchor=s-4-3-3#cldf:5-11).1–2) or sleep ([§4.6.2](ContributionTable?anchor=s-4-6-2#cldf:5-11)), sexual desire ([§4.2.2](ContributionTable?anchor=s-4-2-2#cldf:5-11).2)—it denotes a physical rather than emotional need.
+We have included desire and wanting in this chapter because in some contexts (being envious, homesick) it has a strong emotional basis.[^7]: In others, of course—lacking food (§§4.3.3.1–2) or sleep ([§4.6.2](ContributionTable?anchor=s-4-6-2#cldf:5-11)), sexual desire ([§4.2.2](ContributionTable?anchor=s-4-2-2#cldf:5-11).2)—it denotes a physical rather than emotional need.
 
 The most striking result of our searches for ways in which POc speakers expressed ‘want’ and ‘desire’ is the absence of any consistency of expression in modern languages outside the Central Pacific (Fij + Pn) group. A major reason for this is that, as a result of the ubiquity and frequency of ‘want’ in the world’s languages, ‘want’ words tend strongly to undergo grammaticisation and to end up as particles in the slots otherwise reserved for tense, aspect and especially mood markers. The endpoint of this tendency is that the ‘want’ morpheme undergoes extension of function and becomes a future or irrealis morpheme, accompanied by the innovation of new ways of expressing ‘want’. Thus in Takia (NNG) the ‘want’ morpheme is the enclitic _&ast;=[w]o_, which occupies the first of a series of postverbal enclitic slots (Ross 2008) that are otherwise occupied by aspect or mood morphemes:
 
@@ -582,7 +582,7 @@ Data supporting the reconstruction of PCP _&ast;via_ ‘want to’ are given bel
 
 <a id="p-594"></a>
 
-As noted in §[§4.3.3](ContributionTable?anchor=s-4-3-3#cldf:5-11).1–2 and [§4.6.2](ContributionTable?anchor=s-4-6-2#cldf:5-11).1 Central Pacific languages express the concepts of being hungry, thirsty and sleepy as sequences of ‘want to’ + verb:
+As noted in §§4.3.3.1–2 and [§4.6.2](ContributionTable?anchor=s-4-6-2#cldf:5-11).1 Central Pacific languages express the concepts of being hungry, thirsty and sleepy as sequences of ‘want to’ + verb:
 
 - PCP _&ast;via kani_ ‘be hungry’ (lit. ‘want eat’)
 - PCP _&ast;via inu_ ‘be thirsty’ (lit. ‘want drink’)
@@ -594,7 +594,7 @@ A range of languages use reflexes of POc _&ast;mate_ ‘to die’ ([§4.2.1](Con
 
 [5-11-5-None-594-nng-takia-youomat](cf.csv#cldf:5-11-5-None-594-nng-takia-youomat)
 
-In a number of languages, desire is strongly identified with the reflex of POc _&ast;lalo-_, _&ast;lalom_ ‘inside; seat of thoughts and emotions’ or whatever has replaced it as the term for ‘mind’ ([§9.4](ContributionTable?anchor=s-9-4#cldf:5-11)). The following example from Bugenhagen’s Mangap-Mbula grammar (1995:223) illustrates how this works (or in some languages, once worked):[^8]
+In a number of languages, desire is strongly identified with the reflex of POc _&ast;lalo-_, _&ast;lalom_ ‘inside; seat of thoughts and emotions’ or whatever has replaced it as the term for ‘mind’ ([§9.4](ContributionTable?anchor=s-9-4#cldf:5-11)). The following example from Bugenhagen’s Mangap-Mbula grammar (1995:223) illustrates how this works (or in some languages, once worked):[^8]:
 
 
 <a id="p-595"></a>
@@ -666,7 +666,7 @@ The POc term for a negative evaluation of various kinds was _&ast;saqat_ ‘bad�
 
 <a id="p-598"></a>
 
-A number of reflexes point to a final _&ast;-i_. Whilst the Arosi and Bauan reflexes under ‘cf. also’ self-evidently reflect &ast;saqat plus the transitive suffix _&ast;-i_, the gloss ‘bad’ indicates that this is not the source of _&ast;-i_ in the items listed below and that they perhaps reflect an alternant _&ast;saqati_.[^9]
+A number of reflexes point to a final _&ast;-i_. Whilst the Arosi and Bauan reflexes under ‘cf. also’ self-evidently reflect &ast;saqat plus the transitive suffix _&ast;-i_, the gloss ‘bad’ indicates that this is not the source of _&ast;-i_ in the items listed below and that they perhaps reflect an alternant _&ast;saqati_.[^9]:
 
 [POc &ast;_saqati_](cognatesetreferences.csv#cldf:5-11-6-2-598-POc-saqati-a)
 

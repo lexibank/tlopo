@@ -5,12 +5,12 @@
 
 <a id="s-1"></a>
 
-## 1. Introduction[^1]
+## 1. Introduction[^1]:
 
 
 It is part of the human condition that people speak of what is happening in their minds by equating it with something familiar in the physical world. Although emotions are cognitive appraisals they are felt physically, and languages the world over tend to express them through body part metaphors. Body part metaphors (BPMs) can also serve as a useful way of expressing non-emotional cognitive states or processes such as believing, remembering, agreeing, etc. and of referring to temperamental qualities such as timid or lazy. They are widely used in the Oceanic-speaking world, as chapters 10 and 11 show.
 
-The following are examples from a range of Oceanic languages.[^2]
+The following are examples from a range of Oceanic languages.[^2]:
 
 [5-9-1-None-517-adm-seimat-patuailan](cf.csv#cldf:5-9-1-None-517-adm-seimat-patuailan)
 
@@ -55,7 +55,7 @@ Expressions based on _&ast;qate-_ are numerous and include:
 
 <a id="p-522"></a>
 
-It is worth noting here that while _&ast;qate-_ emotion BPMs are numerous in Western Oceanic languages and Sa’a, and to a lesser degree in ’Are’are and Kwaio, they are scarce elsewhere. Motu, Marshallese and Bauan and Wayan Fijian reserve ‘liver’ for use in expressions of bravery and cowardice. [François](Source#cldf:Francois2013) ([2013](Source#cldf:Francois2013):204) notes that reflexes of Proto Torres-Banks _&ast;vara_ ‘liver’ are only used in daughter languages in expressions of awe and fear.[^4] Although the liver is recorded as linked to emotion in four Polynesian languages, Rennellese, Tikopia, Maori and Hawaiian, compound terms containing a reflex of _&ast;qate-_ have been found only in Rennellese (_kai ʔate_ [eat liver] ‘talk badly about others, gossip’ and _hekaiʔki oku ʔate_ [eat of one’s own liver] ‘be very angry’). [Firth](Source#cldf:Firth1985) ([1985](Source#cldf:Firth1985)) records that in Tikopia _ate_ occurred only in ancient speech involving traumatic situations.
+It is worth noting here that while _&ast;qate-_ emotion BPMs are numerous in Western Oceanic languages and Sa’a, and to a lesser degree in ’Are’are and Kwaio, they are scarce elsewhere. Motu, Marshallese and Bauan and Wayan Fijian reserve ‘liver’ for use in expressions of bravery and cowardice. [François](Source#cldf:Francois2013) ([2013](Source#cldf:Francois2013):204) notes that reflexes of Proto Torres-Banks _&ast;vara_ ‘liver’ are only used in daughter languages in expressions of awe and fear.[^4]: Although the liver is recorded as linked to emotion in four Polynesian languages, Rennellese, Tikopia, Maori and Hawaiian, compound terms containing a reflex of _&ast;qate-_ have been found only in Rennellese (_kai ʔate_ [eat liver] ‘talk badly about others, gossip’ and _hekaiʔki oku ʔate_ [eat of one’s own liver] ‘be very angry’). [Firth](Source#cldf:Firth1985) ([1985](Source#cldf:Firth1985)) records that in Tikopia _ate_ occurred only in ancient speech involving traumatic situations.
 
 A number of languages have replaced their term for ‘liver’ in emotion and cognition BPMs with one for ‘belly’ or ‘heart’, terms that for our purposes here are regarded as equivalent. A Huon Gulf language, Yabem, uses _tɪtaʔ_ ‘belly, bowels, stomach’ from _tɪ_ ‘liver, lung’+ _taʔ_ ‘excrement’, in its body part metaphors. While the Arosi dictionary glosses _sae_ (from _&ast;qate-_) as ‘mind, heart, thought; only in phrases’, many relevant terms are instead compounded with _ahu_ ‘belly, heart, mind, feelings’. Although Kwaio uses _lae ~ sae_ for some emotions (_lae-fou_ ‘brave, unashamed’, _lae-nia_ ‘desire, like, love’), it uses _oga_ ‘belly, mind’ for angry-type terms (_oga-lia_ ‘be angry, sorry’). To’aba’ita uses _rake_ ‘belly’ for expressions of anger, courage and fear. Lau also uses _rake_ ‘stomach; heart, mind, seat of affections’ for expressions of anger: _rake aŋoaŋo_ [belly hot] ‘be angry’, _rake ʔiri_ [belly cut] ‘be violent, angry’, but extends it to other feelings: _rake diana_ [belly good] ‘to be kind and generous’, _rake moumoula_ [belly afraid] ‘timid, afraid’, _rake sasu_ [belly smoking] ‘sulky’, _rake fanefane_ [belly excited] ‘impetuous, in a hurry’. Other languages may equate ‘heart’ in this sense with ‘liver’ in some contexts. Two closely related North Coast languages Gedaged and Takia, apparently extend the meaning of _bube-_, a term for liver, to refer also to the heart as the seat of emotion.
 
@@ -65,7 +65,7 @@ A number of languages have replaced their term for ‘liver’ in emotion and co
 ### 2.2. POc _&ast;lalom_
 
 
-The second term, POc _&ast;lalo-_, _&ast;lalom_, glossed ‘inside’ in [vol.2(237](ContributionTable?anchor=p-237#cldf:2-8)), also occurs widely with the additional meaning ‘mind, seat of thoughts and emotions’. The form _&ast;lalo-_ is the directly possessed (monovalent; §[§3.1.1](ContributionTable?anchor=s-3-1-1#cldf:5-9)–2) form of the zero-valency noun _&ast;lalom_, and the latter is henceforth used in the text as a proxy for both forms. Dictionary glosses of reflexes of _&ast;lalom_ refer to ‘mind’ in languages of North New Guinea, Papuan Tip, Southeast Solomonic, both North/Central and South Vanuatu, Micronesia and Fijian, and there are frequent examples of both emotional and non-emotional cognitive states in the metaphors collected.
+The second term, POc _&ast;lalo-_, _&ast;lalom_, glossed ‘inside’ in [vol.2(237](ContributionTable?anchor=p-237#cldf:2-8)), also occurs widely with the additional meaning ‘mind, seat of thoughts and emotions’. The form _&ast;lalo-_ is the directly possessed (monovalent; §§[3.1.1](ContributionTable?anchor=s-3-1-1#cldf:5-9)-[3.1.2](ContributionTable?anchor=s-3-1-2#cldf:5-9)) form of the zero-valency noun _&ast;lalom_, and the latter is henceforth used in the text as a proxy for both forms. Dictionary glosses of reflexes of _&ast;lalom_ refer to ‘mind’ in languages of North New Guinea, Papuan Tip, Southeast Solomonic, both North/Central and South Vanuatu, Micronesia and Fijian, and there are frequent examples of both emotional and non-emotional cognitive states in the metaphors collected.
 
 
 <a id="p-523"></a>
@@ -99,7 +99,7 @@ In Takia (Ross, pers. comm.) although the majority of terms to do with the emoti
 
 <a id="p-526"></a>
 
-In Kiriwina (PT; [Lawton n.d.b](Source#cldf:Lawtonndb)), BPMs that refer to a person’s feelings and inner states may come from the body (_vovo-_, from PWOc _&ast;popo-_ ‘the complete skin’; [§3.2.1](ContributionTable?anchor=s-3-2-1#cldf:5-9)), mind (_nano-_[^6]), belly (_lopo-_), head (_daba-_) and eye (_mata-_, from POc _&ast;mata-_; [§3.4.9](ContributionTable?anchor=s-3-4-9#cldf:5-9).1). Thus:
+In Kiriwina (PT; [Lawton n.d.b](Source#cldf:Lawtonndb)), BPMs that refer to a person’s feelings and inner states may come from the body (_vovo-_, from PWOc _&ast;popo-_ ‘the complete skin’; [§3.2.1](ContributionTable?anchor=s-3-2-1#cldf:5-9)), mind (_nano-_[^6]:), belly (_lopo-_), head (_daba-_) and eye (_mata-_, from POc _&ast;mata-_; [§3.4.9](ContributionTable?anchor=s-3-4-9#cldf:5-9).1). Thus:
 
 [5-9-3-None-526-pt-kiriwina-itutuvovogu](cf.csv#cldf:5-9-3-None-526-pt-kiriwina-itutuvovogu)
 
@@ -136,7 +136,7 @@ That this belief is widespread is demonstrated by the following phrases recorded
 
 while a Woleaian term from [Sohn & Tawerilmang’s](Source#cldf:SohnandTawerilmang1976) ([1976](Source#cldf:SohnandTawerilmang1976)) dictionary reinforces the same idea:
 
-> _segali_   (VT) ‘remember it (in his stomach instead of his mind)’.[^7]
+> _segali_   (VT) ‘remember it (in his stomach instead of his mind)’.[^7]:
 
 
 <a id="p-528"></a>
@@ -264,7 +264,7 @@ Our inability to reconstruct more BPMs than are presented here can be attributed
 
 <a id="p-534"></a>
 
-Expanding on the third point, qualifying words are capable of varying interpretations, as illustrated in [§9.5](ContributionTable?anchor=s-9-5#cldf:5-9) above. A Tokelauan speaker’s expression _loto vāivai_ may be translated in one place by ‘weary’, in another by ‘discouraged, unhappy’. In other words, there is no precisely defined relationship that holds between a metaphor and its physical attribute. English translations may seize on one aspect of a word’s meaning, but ignore other equally valid interpretations. The only instances where a one-to-one relationship may hold across languages is where a numerical modifier is used, as in the cognitive concepts ‘to doubt’ and ‘to agree’. Here ‘to doubt’ is expressed literally as ‘to be of two minds’, and ‘to agree’ is ‘to be of one mind’ (§[§10.8](ContributionTable?anchor=s-10-8#cldf:5-9)–9). Terms collected across the Oceanic-speaking world for these two expressions show remarkable uniformity of gloss: the English translation is semantically an exact fit.
+Expanding on the third point, qualifying words are capable of varying interpretations, as illustrated in [§9.5](ContributionTable?anchor=s-9-5#cldf:5-9) above. A Tokelauan speaker’s expression _loto vāivai_ may be translated in one place by ‘weary’, in another by ‘discouraged, unhappy’. In other words, there is no precisely defined relationship that holds between a metaphor and its physical attribute. English translations may seize on one aspect of a word’s meaning, but ignore other equally valid interpretations. The only instances where a one-to-one relationship may hold across languages is where a numerical modifier is used, as in the cognitive concepts ‘to doubt’ and ‘to agree’. Here ‘to doubt’ is expressed literally as ‘to be of two minds’, and ‘to agree’ is ‘to be of one mind’ (§§[10.8](ContributionTable?anchor=s-10-8#cldf:5-9)-[10.9](ContributionTable?anchor=s-10-9#cldf:5-9)). Terms collected across the Oceanic-speaking world for these two expressions show remarkable uniformity of gloss: the English translation is semantically an exact fit.
 
 Compound expressions for emotions, temperamental qualities and some cognitive states have only been recorded in a small number of the available dictionaries, and those listed are undoubtedly only a fraction of those in use. But dictionary translations are rarely adequate for the purposes of this chapter and chapters 10 and 11. Oceanic speakers may lexify the emotional spectrum in ways that differ significantly from an English speaker. For instance, a Kiribati term is _nano-mano_, defined by [Sabatier](Source#cldf:Sabatier1971) ([1971](Source#cldf:Sabatier1971)) as ‘discreet, deep, sly, sullen’ (_nano_ ‘inside, disposition etc.’, _mano_ ‘impervious, water-tight’). To an English speaker these character traits are quite distinct in meaning, and although some shared element of meaning can be identified, there is no English term that encompasses them all. Consequently, it must be recognised that any comparison of dictionary terms with similar English glosses is a poor substitute for comprehensive discussion of such terms on a language-by-language basis.
 

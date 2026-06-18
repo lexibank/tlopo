@@ -8,7 +8,7 @@
 ## 1. Plant part terms in modern Oceanic languages
 
 
-This chapter treats the terms used by Proto Oceanic (POc) speakers to denote parts of plants.[^1] It complements the chapters that follow, which deal with plant names.
+This chapter treats the terms used by Proto Oceanic (POc) speakers to denote parts of plants.[^1]: It complements the chapters that follow, which deal with plant names.
 
 For presentation purposes plant part terminologies are divided into the following twelve categories:
 
@@ -28,7 +28,7 @@ For presentation purposes plant part terminologies are divided into the followin
 
 <a id="p-86"></a>
 
-<a id="table-4.1"> </a>
+<a id="tab-4.1"> </a>
 
 : Table 4.1    Some terms for parts of the coconut in Tikopia ([Firth 1985](Source#cldf:Firth1985))
 
@@ -45,28 +45,28 @@ For presentation purposes plant part terminologies are divided into the followin
 
 It is not claimed that such categories are necessarily salient in Oceanic societies, but they are based to some extent on the lexical distinctions found in modern Oceanic languages. For example, the category 'stems of woody plants' is based on the fact that a number of modern Oceanic languages appear to have distinct terms for woody and non-woody plant stems (e.g. Wayan _gai_ 'woody stem or trunk of a shrub or tree' vs. _kasa_ 'stem of a shrub or small plant, leaf-stalk or petiole stem of a leaf, flower or fruit'). The single category 'outer coverings', including meanings such as bark, skin or peel and husk, is based on the fact that many Oceanic languages appear to have one term that denotes the outer covering of fruits (peel, rind) and of stems (bark, soft leaf-like skin). For example, Wayan _taba_ can refer to any sort of outer covering or layer, including the bark of a tree and the rind or husk of fruit. For each of these twelve categories Oceanic languages tend to have a general term, though this is not the case in all languages. Thus, while Oceanic languages tend to have a single term that can refer to the outer covering of different parts of a plant, there are languages in which there is no such general term, but rather several terms with a much narrower semantic range. For example, Nduke has three specific terms: _tutupa-_ 'bark of a tree ', _poko-_ 'husk or covering of grain' and _pululu_ 'cover of fruit found on some palms', but does not appear to have a general term that refers to all outer coverings of plants. Languages which do have a general term for a particular category may also have more specific terms within the category, as we see in the cases of Wayan and Tikopia in [§2.1](ContributionTable?anchor=s-2-1#cldf:3-4).
 
-Modern Oceanic languages also tend to have terms for parts of particular types of plants, usually those which are of some cultural or economic importance. Thus in Tikopia there is a term, _fetī_, that denotes turmeric roots, reflecting their importance as the source of turmeric pigment (_reŋa_) that was traditionally used for the decoration of people and objects and was a highly valued item ([Firth 1985](Source#cldf:Firth1985): 393-394). In Wayan there is a specific term for the sap of the kauri tree, a tree which does not actually grow in Waya Island, but whose sap is important for the glazes of pots ([Pawley & Sayaba 2003](Source#cldf:PawleyandSayaba2003)). The cultural importance of the parts of particular kinds of plants that are labelled in Oceanic languages can be shown by the names and uses of different parts of the coconut palm in Tikopia, given in [Table 4.1](#table-4.1).
+Modern Oceanic languages also tend to have terms for parts of particular types of plants, usually those which are of some cultural or economic importance. Thus in Tikopia there is a term, _fetī_, that denotes turmeric roots, reflecting their importance as the source of turmeric pigment (_reŋa_) that was traditionally used for the decoration of people and objects and was a highly valued item ([Firth 1985](Source#cldf:Firth1985): 393-394). In Wayan there is a specific term for the sap of the kauri tree, a tree which does not actually grow in Waya Island, but whose sap is important for the glazes of pots ([Pawley & Sayaba 2003](Source#cldf:PawleyandSayaba2003)). The cultural importance of the parts of particular kinds of plants that are labelled in Oceanic languages can be shown by the names and uses of different parts of the coconut palm in Tikopia, given in [Table 4.1](#tab-4.1).
 
 
 <a id="p-87"></a>
 
-<a id="table-4.2"> </a>
+<a id="tab-4.2"> </a>
 
 : Table 4.2        Terms for parts of banana plants
 
 |                  | Lou (Adm)                | Iduna (PT)    | Gela (SES)                 | Marshallese  (Mic)   | Waya (Fij)   |
 |:-----------------|:-------------------------|:--------------|:---------------------------|:---------------------|:-------------|
-| 'banana'[^1]      | _mun_                    | _galo_ [^3]    | _vudi_                     | —                    | _vudi_       |
+| 'banana'[^1]:      | _mun_                    | _galo_ [^3]:    | _vudi_                     | —                    | _vudi_       |
 | 'hand'           | _sɛt_, _turɛt_, _topʷan_ | _ihina_       | —                          | _ācɛn_               | _bā_         |
-| 'bunch'          | _pɔrɔk_                  | _waʔaina_     | _ɣaiɣai_,[^4] _ɣaibala_ [^5] | _yāc_, _wiṛᵚweṛᵚ_[^7] |              |
+| 'bunch'          | _pɔrɔk_                  | _waʔaina_     | _ɣaiɣai_,[^4]: _ɣaibala_ [^5]: | _yāc_, _wiṛᵚweṛᵚ_[^7]: |              |
 | 'sucker, shoot'  | _supu_                   | _wakaiya_     | _duli_, _nanaŋa_           | —                    | _soba_       |
-| 'last fruit' [^2] | _ŋɔrɛn_                  | —             | _kukuru_, _loiloki_        | —                    | _kalikali_   |
-| 'flower'         | —                        | _buhihi_      | _lualako_ [^6]              | —                    | _tido_ [^6]   |
-| 'stem, stalk'    | —                        | _aina (galo)_ | _iti_, _kulo_              | _pɛrwaŋ_[^8]          | —            |
+| 'last fruit' [^2]: | _ŋɔrɛn_                  | —             | _kukuru_, _loiloki_        | —                    | _kalikali_   |
+| 'flower'         | —                        | _buhihi_      | _lualako_ [^6]:              | —                    | _tido_ [^6]:   |
+| 'stem, stalk'    | —                        | _aina (galo)_ | _iti_, _kulo_              | _pɛrwaŋ_[^8]:          | —            |
 | 'leaf            | —                        | _hineguli_    | —                          | —                    | —            |
 | 'stem sheath'    | —                        | —             | —                          | —                    | _basili_     |
 
-As the same types of plants are often culturally and economically important in Oceanic societies, languages tend to have specific plant part terms for the same types of plants, including coconuts, bananas, pandanus, breadfruit, yams and taros. For example, ([Ross 1996d](Source#cldf:Ross1996d): 183-185) reconstructs _&ast;pudi_ as a general term for bananas in POc and a number of terms that denoted particular types of bananas. Alongside terms for types of bananas modern Oceanic languages tend to have terms for certain parts of the banana plant, such as the suckers, flowers and bunches of fruit as demonstrated by [Table 4.2](#table-4.2).
+As the same types of plants are often culturally and economically important in Oceanic societies, languages tend to have specific plant part terms for the same types of plants, including coconuts, bananas, pandanus, breadfruit, yams and taros. For example, ([Ross 1996d](Source#cldf:Ross1996d): 183-185) reconstructs _&ast;pudi_ as a general term for bananas in POc and a number of terms that denoted particular types of bananas. Alongside terms for types of bananas modern Oceanic languages tend to have terms for certain parts of the banana plant, such as the suckers, flowers and bunches of fruit as demonstrated by [Table 4.2](#tab-4.2).
 
 The remainder of this chapter examines the terms for the parts of plants (both general and specific) which can be reconstructed for POc. The chapter is organised using the twelve categories listed above, each section beginning with some comments on the way in which the semantic category is lexified in modern Oceanic languages. Data from three languages, Nduke (MM), Wayan Fijian and Tikopia (Pn) are presented to demonstrate the lexical distinctions that occur in modern Oceanic languages, before the probable POc lexemes and their meanings are discussed.
 
@@ -75,7 +75,7 @@ In many modern Oceanic languages part-whole relationships, including the parts o
 
 <a id="p-88"></a>
 
-<a id="table-4.3"> </a>
+<a id="tab-4.3"> </a>
 
 : Table 4.3     Terms for stems of woody plants in Nduke, Wayan Fijian and Tikopia
 
@@ -165,7 +165,7 @@ _uru_              (N) 1. head; crest, top 2. principal part, source etc. _Uru o
 ## 2. Plant part terms reconstructable for POc
 
 
-The main stems or trunks of woody plants are of considerable importance within Oceanic societies for the construction of houses and other buildings, and canoes, as well as for making bowls and various other wooden artefacts. [Ivens](Source#cldf:Ivens1927) ([1927](Source#cldf:Ivens1927): 149-150, 375-377) describes the construction of and materials used for houses and canoes on Mala Island in the southeastern Solomon Islands, including the use of two types of hardwood trees, _hata_ and _mamahuʔe_, for the posts which support the ridgepole of houses, and another two hardwood trees, _mawa_ and _iola_, for the keel and hull of canoes, respectively.[^2] Woods would have had equal importance in POc society in building houses ([vol.1, ch.3](ContributionTable#cldf:1-3)), and making household artefacts ([vol.1, ch.4](ContributionTable#cldf:1-4)) and canoes ([vol.1, ch.7](ContributionTable#cldf:1-7)). For example, Green & Pawley ([vol.1, ch.3, §3.4](ContributionTable?anchor=s-3-4#cldf:1-3)) reconstruct three POc terms that referred to the posts of a house, namely _&ast;aRiRi_ 'post', _&ast;turu(s)_ 'post' and _&ast;bou_ '(?) main bearers supporting raised floor or roof structure, or centre post supporting ridge pole', and based on ethnographic evidence such posts were likely constructed from the trunks of hardwood trees.
+The main stems or trunks of woody plants are of considerable importance within Oceanic societies for the construction of houses and other buildings, and canoes, as well as for making bowls and various other wooden artefacts. [Ivens](Source#cldf:Ivens1927) ([1927](Source#cldf:Ivens1927): 149-150, 375-377) describes the construction of and materials used for houses and canoes on Mala Island in the southeastern Solomon Islands, including the use of two types of hardwood trees, _hata_ and _mamahuʔe_, for the posts which support the ridgepole of houses, and another two hardwood trees, _mawa_ and _iola_, for the keel and hull of canoes, respectively.[^2]: Woods would have had equal importance in POc society in building houses ([vol.1, ch.3](ContributionTable#cldf:1-3)), and making household artefacts ([vol.1, ch.4](ContributionTable#cldf:1-4)) and canoes ([vol.1, ch.7](ContributionTable#cldf:1-7)). For example, Green & Pawley ([vol.1, ch.3, §3.4](ContributionTable?anchor=s-3-4#cldf:1-3)) reconstruct three POc terms that referred to the posts of a house, namely _&ast;aRiRi_ 'post', _&ast;turu(s)_ 'post' and _&ast;bou_ '(?) main bearers supporting raised floor or roof structure, or centre post supporting ridge pole', and based on ethnographic evidence such posts were likely constructed from the trunks of hardwood trees.
 
 
 <a id="s-2-1"></a>
@@ -173,7 +173,7 @@ The main stems or trunks of woody plants are of considerable importance within O
 ### 2.1. Stems of woody plants
 
 
-Many modern Oceanic languages have a general term denoting the main stem or trunk of a woody plant, alongside a number of more specific terms relating to woody stems (see [Table 4.3](#table-4.3)).[^3] For example, Wayan _gai_ 'woody stem or trunk of a shrub or tree' and Tikopia _kuaŋa_ 'waist; trunk' are general terms that are used alongside more specific ones denoting different sections of a trunk, such as Wayan _gina_ 'base of a tree-trunk or woody stem', _ŋau_ 'main or centre section of trunk' and _golo_ 'top section of a tree trunk or a woody stem'. Modern Oceanic languages typically also have terms for different kinds of wood within a tree trunk. Thus Tikopia has a contrast between _tai_, the heartwood or dense inner wood of a tree trunk and _kanofi_, the sapwood or soft outer layers of wood between the heartwood and the bark, while Nduke has a specific term, _lolaŋa_, for the soft inner part of palms or pandanus.
+Many modern Oceanic languages have a general term denoting the main stem or trunk of a woody plant, alongside a number of more specific terms relating to woody stems (see [Table 4.3](#tab-4.3)).[^3]: For example, Wayan _gai_ 'woody stem or trunk of a shrub or tree' and Tikopia _kuaŋa_ 'waist; trunk' are general terms that are used alongside more specific ones denoting different sections of a trunk, such as Wayan _gina_ 'base of a tree-trunk or woody stem', _ŋau_ 'main or centre section of trunk' and _golo_ 'top section of a tree trunk or a woody stem'. Modern Oceanic languages typically also have terms for different kinds of wood within a tree trunk. Thus Tikopia has a contrast between _tai_, the heartwood or dense inner wood of a tree trunk and _kanofi_, the sapwood or soft outer layers of wood between the heartwood and the bark, while Nduke has a specific term, _lolaŋa_, for the soft inner part of palms or pandanus.
 
 An apparently general term for tree trunk can be reconstructed for POc, namely _&ast;pata(ŋ)_. It seems likely that POc _&ast;pata(ŋ)_ referred to the main stem of plants denoted by _&ast;kayu_ 'tree or shrub'. As mentioned in ch.3 ([§4.3](ContributionTable?anchor=s-4-3#cldf:3-4)) palms were probably not considered to be _&ast;kayu_ by POc speakers, but there is no evidence to suggest that the trunks of palms were labelled differently from the trunks of woody trees. Palm trunks seem to be of considerable importance for construction in Oceanic societies, although the different properties of palm trunks and trunks of woody plants may result in different uses.
 
@@ -184,7 +184,7 @@ An apparently general term for tree trunk can be reconstructed for POc, namely _
 
 POc _&ast;pata(ŋ)_ is not reflected widely in modern languages, and has been replaced by innovative forms in most.
 
-As mentioned above, Oceanic languages have terms denoting different parts of woody stems. POc _&ast;puqu(n)_ denoted the base or bole of a woody stem and apparently also 'base' more generally, including the base or source of other concrete items and more abstractly the base, source or origin of stories etc.[^5]
+As mentioned above, Oceanic languages have terms denoting different parts of woody stems. POc _&ast;puqu(n)_ denoted the base or bole of a woody stem and apparently also 'base' more generally, including the base or source of other concrete items and more abstractly the base, source or origin of stories etc.[^5]:
 
 [PMP &ast;_puqun_](cognatesetreferences.csv#cldf:3-4-2-1-90-POc-puqun-a)
 
@@ -216,7 +216,7 @@ POc _&ast;uso_ 'umbilical cord, core' may also have been used to refer to the co
 ### 2.2. Stems of non-woody plants
 
 
-Modern Oceanic languages also often have one or two terms denoting the stems of leaves and sometimes of non-woody plants. For example, Wayan _bābā_ 'stalk or stem of leaves of certain large-leafed plants, especially stem of taro, banana, coconut' and Tikopia _fā_ 'leaf stem of a fleshy plant'. [Table 4.4](#table-4.4) gives the range of terms for non-woody stems that occur in Nduke, Wayan and Tikopia.
+Modern Oceanic languages also often have one or two terms denoting the stems of leaves and sometimes of non-woody plants. For example, Wayan _bābā_ 'stalk or stem of leaves of certain large-leafed plants, especially stem of taro, banana, coconut' and Tikopia _fā_ 'leaf stem of a fleshy plant'. [Table 4.4](#tab-4.4) gives the range of terms for non-woody stems that occur in Nduke, Wayan and Tikopia.
 
 POc seems to have had a general term _&ast;baRa-baRa_ that referred to stems of non-woody plants, like taros and bananas, and it seems likely that this form was also used to refer to the soft stem of leaves. Other POc terms for non-woody stems are more specifically either fruit stems or leaf stems and are described in the following sections.
 
@@ -227,7 +227,7 @@ POc _&ast;baRa-baRa_ is a well-supported reconstruction, both in terms of form a
 
 <a id="p-93"></a>
 
-<a id="table-4.4"> </a>
+<a id="tab-4.4"> </a>
 
 : Table 4.4      Terms for stems of non-woody plants in Nduke, Wayan Fijian and Tikopia
 
@@ -255,12 +255,12 @@ POc _&ast;baRa-baRa_ is a well-supported reconstruction, both in terms of form a
 ### 2.3. Branches
 
 
-[Table 4.5](#table-4.5) gives terms for branches in Nduke, Wayan and Tikopia. Nduke has a term _kapaha-_ that denotes branches of any plant, alongside a couple of more specific terms, _vuŋu-_ 'a branch or stem bearing nut clusters or fruit' and _buru-_ 'the fruiting branch (_vuŋu-_) of coconuts or canarium trees'. Wayan and Tikopia, on the other hand, have terms for large major branches and smaller minor branches. Thus Tikopia maŋa 'major branch' versus ra 'stem, twig, minor branch'. A number of different terms for branches are also reconstructable for POc, but the functional differences between them are not so clear.
+[Table 4.5](#tab-4.5) gives terms for branches in Nduke, Wayan and Tikopia. Nduke has a term _kapaha-_ that denotes branches of any plant, alongside a couple of more specific terms, _vuŋu-_ 'a branch or stem bearing nut clusters or fruit' and _buru-_ 'the fruiting branch (_vuŋu-_) of coconuts or canarium trees'. Wayan and Tikopia, on the other hand, have terms for large major branches and smaller minor branches. Thus Tikopia maŋa 'major branch' versus ra 'stem, twig, minor branch'. A number of different terms for branches are also reconstructable for POc, but the functional differences between them are not so clear.
 
 
 <a id="p-94"></a>
 
-<a id="table-4.5"> </a>
+<a id="tab-4.5"> </a>
 
 : Table 4.5     Terms for branches in Nduke, Wayan Fijian and Tikopia
 
@@ -324,14 +324,14 @@ Blust (ACD) reconstructs Proto Austronesian _&ast;taŋay_ 'branch', and a possib
 ### 2.4. Roots
 
 
-Oceanic languages tend to have a term for roots of plants in general and a number of more specific terms for kinds of roots such as buttress roots, aerial roots, taproot, fine hair-like roots. For example, we see from [Table 4.6](#table-4.6) that Nduke has a general term for roots _aɣara-_, alongside _doɣoro-_ 'aerial roots' and _baɣere-_ 'buttress roots'. Another NW Solomonic language, Maringe, on the other hand, appears to lack a general term for roots but distinguishes between _bakla_ 'buttress roots', _grabu_ 'small underground roots', _glathi_ 'taproot of trees or tubers', and _grebu_ 'short hair-like roots' .
+Oceanic languages tend to have a term for roots of plants in general and a number of more specific terms for kinds of roots such as buttress roots, aerial roots, taproot, fine hair-like roots. For example, we see from [Table 4.6](#tab-4.6) that Nduke has a general term for roots _aɣara-_, alongside _doɣoro-_ 'aerial roots' and _baɣere-_ 'buttress roots'. Another NW Solomonic language, Maringe, on the other hand, appears to lack a general term for roots but distinguishes between _bakla_ 'buttress roots', _grabu_ 'small underground roots', _glathi_ 'taproot of trees or tubers', and _grebu_ 'short hair-like roots' .
 
 Besides a general term for roots, _&ast;wakaR-_, POc had at least three other more specific terms, _&ast;lali(t,c)_ 'buttress roots', _&ast;Ramut_ 'fine, hair-like roots' and _&ast;waka(t)_ 'mangrove roots' . POc _&ast;wakaR_ is a well-supported reconstruction with reflexes in a wide range of Oceanic languages.
 
 
 <a id="p-98"></a>
 
-<a id="table-4.6"> </a>
+<a id="tab-4.6"> </a>
 
 : Table 4.6     Terms for roots in Nduke, Wayan Fijian and Tikopia
 
@@ -362,9 +362,9 @@ Besides a general term for roots, _&ast;wakaR-_, POc had at least three other mo
 
 [PMP &ast;_wakaR_](cognatesetreferences.csv#cldf:3-4-2-4-99-POc-wakar-a)
 
-Blust associates Label _wakir_ with PCEMP _&ast;wakir_ 'kind of root'. However, there being no other Oceanic reflexes of this etymon, it seems likely that this is an irregular reflex of _&ast;wakaR_. Some Micronesian languages including Marshallese _ɔkar_, Chuukese _wār_, _wāra-n_, Carolinian _wār_ and Woleaian _wexaẓ_  point to a PMic variant _&ast;wakara-_ ([Bender et al. 2003](Source#cldf:Benderetal2003): 104), presumably inalienably possessed and reflected in Chuukese _wāra-n_.[^8]
+Blust associates Label _wakir_ with PCEMP _&ast;wakir_ 'kind of root'. However, there being no other Oceanic reflexes of this etymon, it seems likely that this is an irregular reflex of _&ast;wakaR_. Some Micronesian languages including Marshallese _ɔkar_, Chuukese _wār_, _wāra-n_, Carolinian _wār_ and Woleaian _wexaẓ_  point to a PMic variant _&ast;wakara-_ ([Bender et al. 2003](Source#cldf:Benderetal2003): 104), presumably inalienably possessed and reflected in Chuukese _wāra-n_.[^8]:
 
-Blust (ACD) also reconstructs a PEMP term _&ast;wakaR-i_ 'root', which is reflected in a number of Oceanic languages. Although Blust (ACD) posits an apparent morpheme boundary between the root _&ast;wakaR_ and an ending _&ast;-i_, he comments that the morphology of the longer form remains obscure, and does not suggest any meaning difference between _&ast;wakaR_ and _&ast;wakaR-i_. It was probably an alternant inalienably possessed form.[^9]
+Blust (ACD) also reconstructs a PEMP term _&ast;wakaR-i_ 'root', which is reflected in a number of Oceanic languages. Although Blust (ACD) posits an apparent morpheme boundary between the root _&ast;wakaR_ and an ending _&ast;-i_, he comments that the morphology of the longer form remains obscure, and does not suggest any meaning difference between _&ast;wakaR_ and _&ast;wakaR-i_. It was probably an alternant inalienably possessed form.[^9]:
 
 
 <a id="p-100"></a>
@@ -384,7 +384,7 @@ The POc term for 'buttress roots' was _&ast;lali(c,t)_. This is a more or less r
 
 <a id="p-101"></a>
 
-The POc reconstruction _&ast;Ramut_ 'fine, hair-like roots' is a revision of [Geraghty's](Source#cldf:Geraghty1990) ([1990](Source#cldf:Geraghty1990): 69) PEOc reconstruction _&ast;Ramu-_ 'hair, fibre'.[^10] Extra data suggest that this form had a primary meaning 'hair-like roots' and in a number of languages has been extended to refer to other fine fibrous things. Data from the Meso-Melanesian languages support the reconstruction of a final consonant in POc. In Papuan Tip languages _&ast;Ramut_ appears to have become the general term for roots.
+The POc reconstruction _&ast;Ramut_ 'fine, hair-like roots' is a revision of [Geraghty's](Source#cldf:Geraghty1990) ([1990](Source#cldf:Geraghty1990): 69) PEOc reconstruction _&ast;Ramu-_ 'hair, fibre'.[^10]: Extra data suggest that this form had a primary meaning 'hair-like roots' and in a number of languages has been extended to refer to other fine fibrous things. Data from the Meso-Melanesian languages support the reconstruction of a final consonant in POc. In Papuan Tip languages _&ast;Ramut_ appears to have become the general term for roots.
 
 [POc &ast;_Ramut_](cognatesetreferences.csv#cldf:3-4-2-4-101-POc-ramut-a)
 
@@ -395,7 +395,7 @@ In English 'mangrove' refers to a variety of trees and shrubs that grow in coast
 
 <a id="p-102"></a>
 
-<a id="table-4.7"> </a>
+<a id="tab-4.7"> </a>
 
 : Table 4.7     Terms for leaves in Nduke, Wayan Fijian and Tikopia
 
@@ -441,7 +441,7 @@ In English 'mangrove' refers to a variety of trees and shrubs that grow in coast
 ### 2.5. Leaves
 
 
-As well as a general term for leaf, Oceanic languages tend to have more specific terms referring either to leaves of particular kinds of plants, leaves at different stages of growth, and/or parts of leaves. For example, Wayan has a general term _rau_, three terms that specifically denote coconut leaves _sāsā_, _basilele_ and _tōrau_, a term that refers to dry banana or pandanus leaves, _susuluka_, a term for young leaves, _belebele_, and two terms for the midrib of a leaf, _tua_ and _tuabou_. [Table 4.7](#table-4.7) gives the different terms for leaves from Nduke, Wayan and Tikopia.
+As well as a general term for leaf, Oceanic languages tend to have more specific terms referring either to leaves of particular kinds of plants, leaves at different stages of growth, and/or parts of leaves. For example, Wayan has a general term _rau_, three terms that specifically denote coconut leaves _sāsā_, _basilele_ and _tōrau_, a term that refers to dry banana or pandanus leaves, _susuluka_, a term for young leaves, _belebele_, and two terms for the midrib of a leaf, _tua_ and _tuabou_. [Table 4.7](#tab-4.7) gives the different terms for leaves from Nduke, Wayan and Tikopia.
 
 A generic term for leaf, POc _&ast;raun_, is clearly reconstructable and reflects an earlier Proto Austronesian term with a similar meaning. As some reflexes of _&ast;raun_ denote hair or fur, it seems likely that in POc _&ast;raun_ referred not only to broad surface leaves, but also to the needle-like leaves of casuarinas, but the glosses of most reflexes are not specific enough to determine if this is the case.
 
@@ -450,14 +450,14 @@ A generic term for leaf, POc _&ast;raun_, is clearly reconstructable and reflect
 
 <a id="p-104"></a>
 
-More specific leaf terms are not so easily reconstructable for POc. Modern languages tend to have a number of terms denoting the leaves of different types of plants. [Table 4.8](#table-4.8) shows the different leaf terms in Iduna (PT), Arosi (SES), Anejom (SV) and Niuean (Pn). As well as representing different regions of Oceania, these languages seem representative of the different ways leaf terms are lexicalised. Some languages, like Iduna, have distinct terms for the leaves of each of a number of different plants, including coconut, pandanus, sago, taro and tobacco. These include terms for leaves used for different purposes. The Niuean dictionary, on the other hand, lists a number of terms for different leaves, but they are mostly compounds containing the general term for leaf, _lau_. Thus _launiu_, comprising _lau_ 'leaf' and _niu_ 'coconut' denotes 'coconut frond ', _laufā_ consisting of _lau_ 'leaf' and _fā_ 'pandanus' denotes pandanus leaf' and _laumamanu_ comprising _lau_ 'leaf' and _mamanu_ 'a common fern, Phymatodes scolopendria' denotes 'fern leaves'.
+More specific leaf terms are not so easily reconstructable for POc. Modern languages tend to have a number of terms denoting the leaves of different types of plants. [Table 4.8](#tab-4.8) shows the different leaf terms in Iduna (PT), Arosi (SES), Anejom (SV) and Niuean (Pn). As well as representing different regions of Oceania, these languages seem representative of the different ways leaf terms are lexicalised. Some languages, like Iduna, have distinct terms for the leaves of each of a number of different plants, including coconut, pandanus, sago, taro and tobacco. These include terms for leaves used for different purposes. The Niuean dictionary, on the other hand, lists a number of terms for different leaves, but they are mostly compounds containing the general term for leaf, _lau_. Thus _launiu_, comprising _lau_ 'leaf' and _niu_ 'coconut' denotes 'coconut frond ', _laufā_ consisting of _lau_ 'leaf' and _fā_ 'pandanus' denotes pandanus leaf' and _laumamanu_ comprising _lau_ 'leaf' and _mamanu_ 'a common fern, Phymatodes scolopendria' denotes 'fern leaves'.
 
 Anejom is in between these two extremes with some compound terms, such as _neri-neañ_ 'coconut frond' comprising _neri-_ 'leaf' and _neañ_ 'coconut', _neri-neto_ 'sugarcane leaf' consisting of _neri-_ 'leaf' and _neto_ 'sugarcane', and _nerintal_ 'taro-leaf' consisting of _neri-_ 'leaf' and _intal_ 'taro (generic)', and some distinct, synchronically unanalysable, lexical items for different leaf types, such as _nilev_ 'dry coconut-leaf used in making house-walls', _nevak_ 'dry pandanus leaf ready for weaving' and _narico_ 'leaf of sugarcane or wild cane (white and itchy)'. Other terms in Anejom, such as _inmatinɣat_ 'dry fallen pandanus leaf' and _inmatito_ 'dry leaves of sugarcane' are compounds consisting of _inmati-_ 'dry leaf of' and contracted forms of the plant names; _inmatiθve_ 'dry coconut leaf looks to be a similar compound although the second element is not clear. For other languages there are only a few leaf terms that denote leaves of specific kinds of plants. For example, Arosi has terms for the leaves of coconut, pandanus and taro.
 
 
 <a id="p-105"></a>
 
-<a id="table-4.8"> </a>
+<a id="tab-4.8"> </a>
 
 : Table 4.8   Leaf terms in selected Oceanic languages
 
@@ -504,7 +504,7 @@ Anejom is in between these two extremes with some compound terms, such as _neri-
 
 <a id="p-106"></a>
 
-Also of note is that many languages have distinctive labels for leaves of the same sets of plants. So the languages in [Table 4.8](#table-4.8) all have names for coconut fronds, for pandanus leaves, and for taro leaves, while with other types of plants, such as betel pepper or sago, only one or two of the languages have specific terms. It is apparent that the types of leaves which have distinctive names in a language are those which have some cultural use or other significance. Thus many Oceanic languages have several terms for coconut leaves, apparently reflecting the different uses of different growth stages of them within Oceanic societies. [Firth](Source#cldf:Firth1985) ([1985](Source#cldf:Firth1985): 92-293) writes of the great variety of uses of parts of a coconut palm in Tikopia, including 'fresh leaves for floor mats (_tapakau_) and rough baskets (_popora_); dry leaves for torches (_afi_); and immature leaves (_sakilo_) for decoration'. Lewo has three terms that denote coconut leaves, namely _mamaru_ 'leaf of coconut (green)', _masuge_ 'coconut leaf dry' and _purukupi_ 'coconut frond', distinguishing between green and dry coconut leaves. This distinction is one that is often lexicalised in Oceanic languages. Thus Wayan _basilele_ 'coconut leaf, dry or green' versus _sāsā_ 'dry coconut leaf, Lou _liɛn_ 'unopened coconut leaf versus _sulan_ 'dry coconut leaf and Chuukese _pāyiɾɨ_ 'coconut leaf and _wupʷut_ 'young coconut leaf (still light in colour)'. In other languages, such as Takia, the different terms for coconut leaves seem to directly reflect different uses, thus _bombom_ 'coconut leaves (used for roofing)' and _luŋ_ 'coconut leaf (used for perpetual fire)'. The significance of the terms for dry coconut leaves also seems to be related to usage, for torches (e.g. Ramoaaina _ulu_ 'leaf of coconut palm, (coconut leaf) torch') or for various woven items, including mats, baskets and the roofing and walls of houses (e.g. Manam _rigina_ 'coconut fronds (plaited), used as mats and roofing and siding for houses', Lukep _sal_ 'coconut leaf fence/enclosure' and Sursurunga _ber_ 'coconut leaf; mat made from coconut leaf).
+Also of note is that many languages have distinctive labels for leaves of the same sets of plants. So the languages in [Table 4.8](#tab-4.8) all have names for coconut fronds, for pandanus leaves, and for taro leaves, while with other types of plants, such as betel pepper or sago, only one or two of the languages have specific terms. It is apparent that the types of leaves which have distinctive names in a language are those which have some cultural use or other significance. Thus many Oceanic languages have several terms for coconut leaves, apparently reflecting the different uses of different growth stages of them within Oceanic societies. [Firth](Source#cldf:Firth1985) ([1985](Source#cldf:Firth1985): 92-293) writes of the great variety of uses of parts of a coconut palm in Tikopia, including 'fresh leaves for floor mats (_tapakau_) and rough baskets (_popora_); dry leaves for torches (_afi_); and immature leaves (_sakilo_) for decoration'. Lewo has three terms that denote coconut leaves, namely _mamaru_ 'leaf of coconut (green)', _masuge_ 'coconut leaf dry' and _purukupi_ 'coconut frond', distinguishing between green and dry coconut leaves. This distinction is one that is often lexicalised in Oceanic languages. Thus Wayan _basilele_ 'coconut leaf, dry or green' versus _sāsā_ 'dry coconut leaf, Lou _liɛn_ 'unopened coconut leaf versus _sulan_ 'dry coconut leaf and Chuukese _pāyiɾɨ_ 'coconut leaf and _wupʷut_ 'young coconut leaf (still light in colour)'. In other languages, such as Takia, the different terms for coconut leaves seem to directly reflect different uses, thus _bombom_ 'coconut leaves (used for roofing)' and _luŋ_ 'coconut leaf (used for perpetual fire)'. The significance of the terms for dry coconut leaves also seems to be related to usage, for torches (e.g. Ramoaaina _ulu_ 'leaf of coconut palm, (coconut leaf) torch') or for various woven items, including mats, baskets and the roofing and walls of houses (e.g. Manam _rigina_ 'coconut fronds (plaited), used as mats and roofing and siding for houses', Lukep _sal_ 'coconut leaf fence/enclosure' and Sursurunga _ber_ 'coconut leaf; mat made from coconut leaf).
 
 _Pandanus_ leaves are often more important than coconut leaves for weaving in Oceanic societies. [Firth](Source#cldf:Firth1985) ([1985](Source#cldf:Firth1985): 105-106, 186) describes the use of the leaves of different types of pandanus for weaving in Tikopia. Thus the leaves of _fara_ 'pandanus, narrow stiff leaves, single tall trunk' are used for coarse mats and sewing coconut fibre bags and the leaves of _kie_ 'pandanus (sp. similar to _Pandanus odoratissimus_)' are used for fine mats. However, it seems that languages tend to only have a single term for pandanus leaves, if they have one at all. The situation with sago leaves is somewhat similar. Most dictionaries have terms which denote sago leaf thatch, and sago leaves are clearly the most used leaf for making thatch amongst Oceanic societies, but a term for sago leaves is found in only a scattering of languages (e.g. Titan _kaliŋat_ 'sago leaf (shingles)', Mapos Buang _ngemŋ_ 'sago leaves (used for making grass skirts)', Mangap _ram_ 'new leaves of sago (used for decoration)' and Tolo _hatsira_ 'sago palm leaf).
 
@@ -513,7 +513,7 @@ Names for types of taro leaves, on the other hand, are apparently distinguished 
 
 <a id="p-107"></a>
 
-How many terms for specific types of leaves can be reconstructed for POc? Across the languages in [Table 4.8](#table-4.8) it can be seen that not many of the terms are cognate. Thus while all the languages have terms for coconut and taro leaves, none of the terms are cognate. This is in part not unexpected as the terms in [Table 4.8](#table-4.8) often refer to coconut leaves of different growth stages. So while Anejom has terms for dry coconut leaves, one of the Arosi terms and the Niuean term denote coconut leaves in general. But even looking at just the terms for dry coconut leaves in [Table 4.8](#table-4.8), there are still no forms that are cognate (e.g. Iduna _tafa_ '(dry) coconut leaves used as torch', Arosi _buroŋa_ 'dry coconut leaf, Anejom _inmatiθve_ 'dry coconut leaf' and _nilev_ 'dry coconut-leaf used in making house-wall'). [Table 4.8](#table-4.8) seems to typify a general trend across Oceanic languages, such that while languages have terms with similar meanings they are not often cognate. Certain terms associated with coconut fronds are nonetheless reconstructable, and their meaning also includes a function for which they are used: POc _&ast;sulu(q)_ 'dry coconut leaf torch; dry coconut leaf and POc _&ast;ramaR_ 'coconut leaf used as a torch when fishing' ([ch.12, §5.1.2](ContributionTable?anchor=s-5-1-2#cldf:3-12)), and POc _&ast;no(k,g)o_ 'midrib or spine of coconut leaflet; broom made therefrom' ([ch.12, §5.1.3](ContributionTable?anchor=s-5-1-3#cldf:3-12)).
+How many terms for specific types of leaves can be reconstructed for POc? Across the languages in [Table 4.8](#tab-4.8) it can be seen that not many of the terms are cognate. Thus while all the languages have terms for coconut and taro leaves, none of the terms are cognate. This is in part not unexpected as the terms in [Table 4.8](#tab-4.8) often refer to coconut leaves of different growth stages. So while Anejom has terms for dry coconut leaves, one of the Arosi terms and the Niuean term denote coconut leaves in general. But even looking at just the terms for dry coconut leaves in [Table 4.8](#tab-4.8), there are still no forms that are cognate (e.g. Iduna _tafa_ '(dry) coconut leaves used as torch', Arosi _buroŋa_ 'dry coconut leaf, Anejom _inmatiθve_ 'dry coconut leaf' and _nilev_ 'dry coconut-leaf used in making house-wall'). [Table 4.8](#tab-4.8) seems to typify a general trend across Oceanic languages, such that while languages have terms with similar meanings they are not often cognate. Certain terms associated with coconut fronds are nonetheless reconstructable, and their meaning also includes a function for which they are used: POc _&ast;sulu(q)_ 'dry coconut leaf torch; dry coconut leaf and POc _&ast;ramaR_ 'coconut leaf used as a torch when fishing' ([ch.12, §5.1.2](ContributionTable?anchor=s-5-1-2#cldf:3-12)), and POc _&ast;no(k,g)o_ 'midrib or spine of coconut leaflet; broom made therefrom' ([ch.12, §5.1.3](ContributionTable?anchor=s-5-1-3#cldf:3-12)).
 
 _Pandanus_ and sago leaves were apparently as important as coconut leaves in many traditional Oceanic societies. A POc term _&ast;qatop_ 'thatch, roof can be reconstructed (see [vol.1, ch.3, §3.4](ContributionTable?anchor=s-3-4#cldf:1-3)), with reflexes in many languages that refer specifically to sago-leaf thatch. In SE Solomonic and North-Central Vanuatu languages reflexes of this term denote the sago palm, as well as sago-leaf thatch. In Arosi that _ao_ 'sago palm' can refer to the leaves is evident from compounds such as _adodo ao_ 'to lay together the leaves in bundles', _susuʔi ao_ 'layers of sewn leaves put ready for thatching' and _taba ao_ 'to go out and cut sago palm leaves'. However, reflexes of POc _&ast;qatop_ that refer specifically to sago palm leaves are not widespread, and so unlike POc _&ast;sulu(q)_, a secondary 'leaf' meaning does not appear to be reconstructable. In fact, there does not seem to have been a distinctive term for sago leaves, although a number of modern languages do have such terms. The same is true for pandanus leaves. They appear to be much used for weaving in many regions of Oceania and known for finer weaving than coconut leaves, but a distinctive term does not appear to be reconstructable for POc. [Bender et al.](Source#cldf:Benderetal2003) ([2003](Source#cldf:Benderetal2003): 52) reconstruct a Proto Micronesian form _&ast;maŋu_ 'pandanus leaf, but the etymology of this form is unclear. [Geraghty](Source#cldf:Geraghty1990) ([1990](Source#cldf:Geraghty1990): 64) suggests it is a reflex of POc _&ast;maRaŋo_ 'to be dry, withered', supported by the formal correspondence and the fact that in a number of Micronesian languages the meanings are restricted to dry pandanus leaves and in Ponapean _mɛŋ_ has the meaning 'withered, dry, dead vegetation'. Ross ([ch.11, §2.5](ContributionTable?anchor=s-2-5#cldf:3-11)) suggests that Marshallese _māŋ_ 'pandanus leaves', Chuukese _məŋ_ 'pandanus leaf, especially when softened by a shell' and Woleaian _maŋɨ_ 'pandanus leaf are reflexes of POc _&ast;mʷaŋa_ '_Pandanus_ sp., perhaps _Pandanus conoideus_' supported by Kosraean _mʷeŋ_ 'pandanus'. It seems likely that there has been a conflation of these two POc terms in Proto Micronesian. Ross reconstructs several POc terms for different types of pandanus and it is possible that these terms could be used to refer to the leaves as well as the tree, especially as only the leaves of certain kinds of pandanus would have been valued for weaving.
 
@@ -532,7 +532,7 @@ POc _&ast;gal(a,o)_ 'taro leaves' is tentatively reconstructed by Ross (this vol
 ### 2.6. Shoots, sprouts and suckers
 
 
-As can be seen from [Table 4.9](#table-4.9) Nduke, Wayan and Tikopia all have several terms for the new growth of plants. Wayan, for example, has _ðuli_ 'sucker of plant', _sō_ 'young, tender leaves at the top of a plant', _gau_ 'suckers', _tubu_ 'new growth, young shoot or sprout' and _bēbē_ 'suckers or shoots of taro or tobacco plant'. Wayan also has a more specific term, _soba_, that denotes banana suckers. Tikopia also has a number of general terms for the new growth of plants, and a term _roro_ that specifically denotes the new growth of a coconut palm. In the data for Nduke, on the other hand, there are a number of general terms for suckers and shoots, but none that denote the new growth of particular kinds of plants only.
+As can be seen from [Table 4.9](#tab-4.9) Nduke, Wayan and Tikopia all have several terms for the new growth of plants. Wayan, for example, has _ðuli_ 'sucker of plant', _sō_ 'young, tender leaves at the top of a plant', _gau_ 'suckers', _tubu_ 'new growth, young shoot or sprout' and _bēbē_ 'suckers or shoots of taro or tobacco plant'. Wayan also has a more specific term, _soba_, that denotes banana suckers. Tikopia also has a number of general terms for the new growth of plants, and a term _roro_ that specifically denotes the new growth of a coconut palm. In the data for Nduke, on the other hand, there are a number of general terms for suckers and shoots, but none that denote the new growth of particular kinds of plants only.
 
 The number of terms for shoots and suckers in modern Oceanic languages reflects the importance of these parts in the propagation of food crops. [French-Wright](Source#cldf:FrenchWright1983) ([1983](Source#cldf:FrenchWright1983): 193) notes that taros, yams, bananas and breadfruit 'are fairly easily generated by means of suckers' and that 'today many daughter communities rarely use seeds, although the gourd, which is grown from seed, is an exception'. He also writes that 'the POc gardener probably relied to a large extent upon seedlings, cuttings and seed tubers for the propagation of food plants', and he reconstructs a number of POc terms that provide evidence for such horticultural practices.
 
@@ -545,7 +545,7 @@ The initial consonant is uncertain because Manam and Tawala reflect _&ast;s_ and
 
 <a id="p-109"></a>
 
-<a id="table-4.9"> </a>
+<a id="tab-4.9"> </a>
 
 : Table 4.9   Terms for shoots and suckers in Nduke, Wayan Fijian and Tikopia
 
@@ -599,7 +599,7 @@ Taro is propagated by planting either the tops of large corms or the small sucke
 
 [POc &ast;_up(e,a)_](cognatesetreferences.csv#cldf:3-4-2-6-111-POc-upea-a)
 
-POc also appears to have had a couple of verbal terms that denoted new growth, including _&ast;tupul_ 'to send out new growth' ([French-Wright 1983](Source#cldf:FrenchWright1983): 78) and _&ast;pʷer(e)_ 'to sprout, grow' (see [vol.1, ch.5, §9](ContributionTable?anchor=s-9#cldf:1-5) for the reconstruction of other terms denoting growth).[^11]
+POc also appears to have had a couple of verbal terms that denoted new growth, including _&ast;tupul_ 'to send out new growth' ([French-Wright 1983](Source#cldf:FrenchWright1983): 78) and _&ast;pʷer(e)_ 'to sprout, grow' (see [vol.1, ch.5, §9](ContributionTable?anchor=s-9#cldf:1-5) for the reconstruction of other terms denoting growth).[^11]:
 
 [POc &ast;_tupul_](cognatesetreferences.csv#cldf:3-4-2-6-111-POc-tupul-a)
 
@@ -608,7 +608,7 @@ POc also appears to have had a couple of verbal terms that denoted new growth, i
 
 <a id="p-112"></a>
 
-<a id="table-4.10"> </a>
+<a id="tab-4.10"> </a>
 
 : Table 4.10      Terms for flowers in Nduke, Wayan Fijian and Tikopia
 
@@ -657,7 +657,7 @@ Just as with leaf terms, modern Oceanic languages tend to have one or two more s
 
 <a id="p-114"></a>
 
-<a id="table-4.11"> </a>
+<a id="tab-4.11"> </a>
 
 : Table 4.11     Terms for fruits in Nduke, Wayan Fijian and Tikopia
 
@@ -691,7 +691,7 @@ Just as with leaf terms, modern Oceanic languages tend to have one or two more s
 ### 2.8. Fruit
 
 
-[Table 4.11](#table-4.11) gives the terms for 'fruit' and related meanings in Nduke, Wayan Fijian and Tikopia. All three languages have generic terms for fruit and specific terms relating to bananas.
+[Table 4.11](#tab-4.11) gives the terms for 'fruit' and related meanings in Nduke, Wayan Fijian and Tikopia. All three languages have generic terms for fruit and specific terms relating to bananas.
 
 The term 'fruit' in English has a number of senses, including: '1. vegetable products in general, that are fit to be used as food by men and animals … 2. the edible product of a plant or tree, consisting of the seed and its envelope, esp. the latter when it is of juicy pulpy nature … 5. the seed of a plant or tree regarded as the means of reproduction, together with its envelope' (OED). With terms glossed as 'fruit' in the dictionaries of Oceanic languages it is often difficult to determine which of the English senses are present in the meaning of the Oceanic term. [Ross](Source#cldf:Ross1996d) ([1996d](Source#cldf:Ross1996d): 208-209) concludes that POc _&ast;puaq_, the general term for 'fruit', denoted fruit as a plant part and plant product, rather than a food category. The number of reflexes of _&ast;puaq_ that are glossed as 'seed' suggests that its meaning encompassed both the seed and its envelope (see [§2.9](ContributionTable?anchor=s-2-9#cldf:3-4)).
 
@@ -715,7 +715,7 @@ POc also had a distinct term, _&ast;qitiŋ_, that denoted a hand or bunch of ban
 
 [PMP &ast;_qitiŋ_](cognatesetreferences.csv#cldf:3-4-2-8-117-POc-qiti-a)
 
-Also attributable to POc is a distinct term for the stem of fruit, probably denoting bananas in particular.[^13]
+Also attributable to POc is a distinct term for the stem of fruit, probably denoting bananas in particular.[^13]:
 
 [POc &ast;_kulo_](cognatesetreferences.csv#cldf:3-4-2-8-117-POc-kulo-a)
 
@@ -725,14 +725,14 @@ Also attributable to POc is a distinct term for the stem of fruit, probably deno
 ### 2.9. Seeds
 
 
-[Table 4.12](#table-4.12) gives the terms for 'seeds' in Nduke, Wayan and Tikopia. Nduke has a single term, _kiko-_, which is a general term for seeds or grain. Wayan, on the other hand, has a number of different terms, three of which, _mata_, _gele_ and _kawa_, denote seeds in general, although with _mata_ and _kawa_ the seed of a plant is only one of a range of related meanings. Wayan also has a term _tībou_ that denotes the seeds of mangrove trees.
+[Table 4.12](#tab-4.12) gives the terms for 'seeds' in Nduke, Wayan and Tikopia. Nduke has a single term, _kiko-_, which is a general term for seeds or grain. Wayan, on the other hand, has a number of different terms, three of which, _mata_, _gele_ and _kawa_, denote seeds in general, although with _mata_ and _kawa_ the seed of a plant is only one of a range of related meanings. Wayan also has a term _tībou_ that denotes the seeds of mangrove trees.
 
 'Seed' in English refers to 'the ovules of a plant or plants (chiefly, when in the form of 'grains' or small roundish bodies) esp[eciallly] as collected for the purpose of being sown' (OED), and can refer to a variety of objects, including the large stone-like seeds of some fruit, grains of grasses, beans, the scale-like seeds of pine cones etc. While many modern Oceanic languages have apparently monosemous terms glossed as 'seed', other languages have polysemous terms with primary meanings of 'stone', 'fruit' or 'louse egg'. POc appears to have been like these latter languages.
 
 
 <a id="p-118"></a>
 
-<a id="table-4.12"> </a>
+<a id="tab-4.12"> </a>
 
 : Table 4.12     Terms for seeds in Nduke, Wayan Fijian and Tikopia
 
@@ -792,7 +792,7 @@ In many modern Oceanic languages the same word is used for skin (of animals and 
 
 <a id="p-121"></a>
 
-<a id="table-4.13"> </a>
+<a id="tab-4.13"> </a>
 
 : Table 4.13   Terms for outer coverings in Nduke, Wayan Fijian and Tikopia
 
@@ -838,7 +838,7 @@ Specific terms for the outer coverings of different parts of the coconut are als
 ### 2.11. Sap, resin
 
 
-<a id="table-4.14"> </a>
+<a id="tab-4.14"> </a>
 
 : Table 4.14   Terms for sap or resin in Nduke, Wayan Fijian and Tikopia
 
@@ -855,7 +855,7 @@ Specific terms for the outer coverings of different parts of the coconut are als
 | _vale_           | (N) Resin; also saliva.                                                                                               |
 | _toto_           | (N) 1. Blood. 2. Sap of plants and trees.                                                                             |
 
-[Table 4.14](#table-4.14) gives the terms for sap or resin in Nduke, Wayan and Tikopia. Nduke appears to have a single term _oto-_ 'the sap or gum of trees and some fruits'. Tikopia and Wayan, on the other hand, have several different terms. In Wayan _toya_ denotes sap, especially when it's runny, _būlei_ denotes sticky sap or gum, and _makadre_ denotes the gum or resin of the kauri tree which is used for glazing pots.
+[Table 4.14](#tab-4.14) gives the terms for sap or resin in Nduke, Wayan and Tikopia. Nduke appears to have a single term _oto-_ 'the sap or gum of trees and some fruits'. Tikopia and Wayan, on the other hand, have several different terms. In Wayan _toya_ denotes sap, especially when it's runny, _būlei_ denotes sticky sap or gum, and _makadre_ denotes the gum or resin of the kauri tree which is used for glazing pots.
 
 The Oceanic data, shown in the cognate set below, suggest the reconstruction of POc _&ast;bulut_, and perhaps of a variant POc _&ast;bulit_, referring to the sap of plants and other sticky substances. It was also apparently an Undergoer subject verb 'to be sticky' with a corresponding transitive form _&ast;bulut-i-_ 'to stick something to something'. Reflexes of _&ast;bulut_ in a number of Oceanic languages have narrower meanings than that reconstructed for POc, denoting kinds of sap that have a particular purpose. For example, 'Are'are _purui_ and Sa'a _pulu_ denote the use of putty nut gum to caulk canoes. Samoan _pulu_ also denotes the substance used for caulking, in this case, breadfruit sap, and Mota _pulu_ and NE Ambae _bulu_ denote the sap of the _Canarium_ almond which is used for tattooing.
 
@@ -870,10 +870,12 @@ The Oceanic data, shown in the cognate set below, suggest the reconstruction of 
 ### 2.12. Thorns
 
 
-As can be seen from [Table 4.15](#table-4.15) Wayan, Tikopia and Nduke all have a single term for the thorns of a plant.
+As can be seen from [Table 4.15](#tab-4.15) Wayan, Tikopia and Nduke all have a single term for the thorns of a plant.
 
 
 <a id="p-125"></a>
+
+<a id="tab-4.15"> </a>
 
 :Table 4.15      Terms for thorn in Nduke, Wayan Fijian and Tikopia
 
@@ -907,11 +909,11 @@ In a number of languages terms for 'thorn' reflect POc terms that are best recon
 
 This chapter presents more than 40 POc reconstructions of terms that denote the parts of plants. In general the number and types of terms that are reconstructable for POc within each of the 12 semantic categories are similar to those found in modern Oceanic languages. For example, modern languages tend to have several terms that refer to the roots of plants, typically including a term for roots in general and a number of more specific terms denoting different types of roots. Similarly, for POc a general term for roots, _&ast;wakaR_, and several more specific terms, _&ast;lali(t,c)_ 'buttress roots', _&ast;Ramut_ 'fine, hair-like roots' and _&ast;wako(t)_ 'mangrove (aerial) roots', can be reconstructed. The same is true for terms referring to outer coverings. POc _&ast;kulit_ denoted the skin of fruits and the bark of trees, as well as the skin of animals and people. Alongside _&ast;kulit_, POc also had specific terms for coconut husk (_&ast;punut_, _&ast;(p,pʷ)enut_) and for the sheath of fibrous material around the base of a coconut frond (_&ast;Runut_, _&ast;nuRut_). Many modern Oceanic languages have similar types of terms for outer coverings.
 
-Modern Oceanic languages also tend to have extensive terminologies for the parts of the coconut palm, its fruit and their uses ([Table 4.1](#table-4.1)). Chapter 12 is devoted to this topic.
+Modern Oceanic languages also tend to have extensive terminologies for the parts of the coconut palm, its fruit and their uses ([Table 4.1](#tab-4.1)). Chapter 12 is devoted to this topic.
 
-The number of general plant part terms reconstructed for POc, over 30, is similar to the numbers of such terms in Wayan (nearly 50), Tikopia (nearly 50) and Nduke (over 30). However, these modern languages have a much larger number of terms for the parts of particular types of plants (nearly 20 in all three languages), than can be reconstructed for POc (7 terms in this chapter). This difference was particularly apparent with the terms for leaves. [Table 4.8](#table-4.8) gave a selection of the range of terms for leaves in a number of Oceanic languages, demonstrating how modern Oceanic languages typically have several terms for the leaves of particular types of plants, including coconut, taro and pandanus. [Ross](Source#cldf:Ross1996d) ([1996d](Source#cldf:Ross1996d)) reconstructs POc terms for taro leaves (_&ast;gal(a,o)_) and palm fronds (_&ast;[pa]paq[a-]_), and POc _&ast;sulu(q)_ 'coconut leaf torch' could probably also refer to dry coconut leaves, but other terms for the leaves of particular types of plants do not appear to be reconstructable.
+The number of general plant part terms reconstructed for POc, over 30, is similar to the numbers of such terms in Wayan (nearly 50), Tikopia (nearly 50) and Nduke (over 30). However, these modern languages have a much larger number of terms for the parts of particular types of plants (nearly 20 in all three languages), than can be reconstructed for POc (7 terms in this chapter). This difference was particularly apparent with the terms for leaves. [Table 4.8](#tab-4.8) gave a selection of the range of terms for leaves in a number of Oceanic languages, demonstrating how modern Oceanic languages typically have several terms for the leaves of particular types of plants, including coconut, taro and pandanus. [Ross](Source#cldf:Ross1996d) ([1996d](Source#cldf:Ross1996d)) reconstructs POc terms for taro leaves (_&ast;gal(a,o)_) and palm fronds (_&ast;[pa]paq[a-]_), and POc _&ast;sulu(q)_ 'coconut leaf torch' could probably also refer to dry coconut leaves, but other terms for the leaves of particular types of plants do not appear to be reconstructable.
 
-[Table 4.2](#table-4.2) shows the range of terms in a number of modern languages for parts of banana plants. Many Oceanic languages, including Lou, Iduna, Gapapaiwa, Gumawana, Ramoaaina, Gela, Longgu, Wayan, and E Futunan, have tenms that specifically denote the new shoots or suckers of banana plants, but such a specific term does not appear to be reconstructable for POc. Rather, POc _&ast;[s,j]uli(q)_ apparently denoted propagation material in general (including suckers and shoots), though it may have referred especially to the suckers of banana and taro. Modern Oceanic languages also tend to have more specific terms for bunches of bananas than can be reconstructed for POc. Thus Lou has a term _pɔrɔk_ denoting a new bunch of bananas and several terms for hands of bananas, including _topʷan_ 'first banana hand', _ŋɔrɛn_ 'last hand of bananas', _sɛt_ 'one hand of bananas' and _turɛt_ 'two hands of bananas'. For POc only the more general term _&ast;qitiŋ_ 'hand of bananas' can be reconstructed.
+[Table 4.2](#tab-4.2) shows the range of terms in a number of modern languages for parts of banana plants. Many Oceanic languages, including Lou, Iduna, Gapapaiwa, Gumawana, Ramoaaina, Gela, Longgu, Wayan, and E Futunan, have tenms that specifically denote the new shoots or suckers of banana plants, but such a specific term does not appear to be reconstructable for POc. Rather, POc _&ast;[s,j]uli(q)_ apparently denoted propagation material in general (including suckers and shoots), though it may have referred especially to the suckers of banana and taro. Modern Oceanic languages also tend to have more specific terms for bunches of bananas than can be reconstructed for POc. Thus Lou has a term _pɔrɔk_ denoting a new bunch of bananas and several terms for hands of bananas, including _topʷan_ 'first banana hand', _ŋɔrɛn_ 'last hand of bananas', _sɛt_ 'one hand of bananas' and _turɛt_ 'two hands of bananas'. For POc only the more general term _&ast;qitiŋ_ 'hand of bananas' can be reconstructed.
 
 
 <a id="p-127"></a>

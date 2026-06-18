@@ -8,7 +8,7 @@
 ## 1. Introduction
 
 
-There may not have been a domain of the Proto Oceanic lexicon corresponding precisely to the Class Aves. The creatures referred to by reflexes of POc _&ast;manuk_ (below) almost always include bats and sometimes other flying animals. For example, Kwaio _laŋasi_ (a taboo replacement for _manu_) ‘in the broadest categorical sense, includes birds, butterflies, moths, bats, dragonflies and one species of frogs (_Pseudophryne_ sp.)’ ([Keesing 1975](Source#cldf:Keesing1975):119). At its widest _&ast;manuk_ may have encompassed the entire non-aquatic animal kingdom (for discussion see chapter 8, §[§5](ContributionTable?anchor=s-5#cldf:4-6) and 6). More restrictive expressions are often coined by adding a modifier to _&ast;manuk_, typically the verb ‘to fly’, for example Chuukese _māɾ_ ‘living creature of land or air (other than human)’, _mac̣c̣aŋ_ ‘bird’ (cf. _c̣aŋ_ ‘fly’). The organisation of this book, however, follows the Linnaean classification, and bats will be found in chapter 5, with only a couple of cross-references below to connect the two.
+There may not have been a domain of the Proto Oceanic lexicon corresponding precisely to the Class Aves. The creatures referred to by reflexes of POc _&ast;manuk_ (below) almost always include bats and sometimes other flying animals. For example, Kwaio _laŋasi_ (a taboo replacement for _manu_) ‘in the broadest categorical sense, includes birds, butterflies, moths, bats, dragonflies and one species of frogs (_Pseudophryne_ sp.)’ ([Keesing 1975](Source#cldf:Keesing1975):119). At its widest _&ast;manuk_ may have encompassed the entire non-aquatic animal kingdom (for discussion see chapter 8, §§5 and 6). More restrictive expressions are often coined by adding a modifier to _&ast;manuk_, typically the verb ‘to fly’, for example Chuukese _māɾ_ ‘living creature of land or air (other than human)’, _mac̣c̣aŋ_ ‘bird’ (cf. _c̣aŋ_ ‘fly’). The organisation of this book, however, follows the Linnaean classification, and bats will be found in chapter 5, with only a couple of cross-references below to connect the two.
 
 [POc &ast;_manuk_](cognatesetreferences.csv#cldf:4-6-1-None-269-POc-manuk-a)
 
@@ -45,7 +45,7 @@ Both of the above refer to the overall covering of birds that is analogous to th
 
 [PMP &ast;_lawi_](cognatesetreferences.csv#cldf:4-6-2-None-274-POc-lawe-a)
 
-A number of forms suggested a variant reconstruction _&ast;la-lau_[^1]
+A number of forms suggested a variant reconstruction _&ast;la-lau_[^1]:
 
 [4-6-2-None-274-nng-manam-lalau](cf.csv#cldf:4-6-2-None-274-nng-manam-lalau)
 
@@ -72,7 +72,7 @@ Blust (ACD) also reconstructs PWMP _&ast;kepek_ ‘flap wings’ (expected POc f
 
 <a id="p-277"></a>
 
-A bird’s beak was most probably referred to as POc _&ast;ŋuju_, denoting the external or protruding aspect of the mouth. There is also some evidence for POc _&ast;muju_, in the form of non-Oceanic terms from which Blust (ACD) reconstructs PWMP _&ast;mu(n)cuŋ_ ‘mouth (of an animal), snout’,[^2] together with the Iduna, Gapapaiwa and Balawaia terms listed below, reflecting PPT _&ast;mu(d,j)u_. However, it may be that this is a chance similarity and that PPT _&ast;muju_ was an irregular reflex of POc _&ast;ŋuju_.[^3]
+A bird’s beak was most probably referred to as POc _&ast;ŋuju_, denoting the external or protruding aspect of the mouth. There is also some evidence for POc _&ast;muju_, in the form of non-Oceanic terms from which Blust (ACD) reconstructs PWMP _&ast;mu(n)cuŋ_ ‘mouth (of an animal), snout’,[^2]: together with the Iduna, Gapapaiwa and Balawaia terms listed below, reflecting PPT _&ast;mu(d,j)u_. However, it may be that this is a chance similarity and that PPT _&ast;muju_ was an irregular reflex of POc _&ast;ŋuju_.[^3]:
 
 [POc &ast;_ŋuju_](cognatesetreferences.csv#cldf:4-6-2-None-277-POc-uju-a)
 
@@ -1216,7 +1216,7 @@ The honeyeaters of the homeland region include several belonging to the genus My
 
 <a id="p-347"></a>
 
-The friarbirds (_Philemon_ spp.) are a large and distinctive type of honeyeater represented by three species in the homeland region. The following terms present various formal problems, but could be derived from some form such as POc _&ast;(sa)quka_, with metathesis to _&ast;(sa)-kuqa_.[^9]
+The friarbirds (_Philemon_ spp.) are a large and distinctive type of honeyeater represented by three species in the homeland region. The following terms present various formal problems, but could be derived from some form such as POc _&ast;(sa)quka_, with metathesis to _&ast;(sa)-kuqa_.[^9]:
 
 [4-6-6-6-347-adm-loniu-cuka](cf.csv#cldf:4-6-6-6-347-adm-loniu-cuka)
 
@@ -1321,7 +1321,7 @@ There is a certain degree of crossover apparent between the families of petrels,
 
 [POc &ast;_saba(l)_](cognatesetreferences.csv#cldf:4-6-7-1-352-POc-sabal-a)
 
-[PROc &ast;_koro +_](cognatesetreferences.csv#cldf:4-6-7-1-352-PROc-koro-a)
+[PROc &ast;_koro_](cognatesetreferences.csv#cldf:4-6-7-1-352-PROc-koro-a)
 
 [PROc &ast;_ta(i)ko(k)_](cognatesetreferences.csv#cldf:4-6-7-1-352-PROc-taikok-a)
 

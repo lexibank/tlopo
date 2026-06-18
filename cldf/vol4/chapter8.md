@@ -18,7 +18,7 @@
 ### 1.1. Aims
 
 
-This chapter investigates the semantic histories of five Proto Oceanic terms, _&ast;ikan_, _&ast;pinaŋoda_, _&ast;sisiq_, _&ast;manuk_ and _&ast;manu-manuk_, each of which is a candidate for the status of a high-level generic or ‘life form’ in the POc taxonomy of animals.[^1] In certain contemporary Oceanic languages reflexes of _&ast;ikan_ have a range of reference that encompasses fish and other large water-dwelling animals (cetaceans, dugongs, turtles and crocodiles), reflexes of _&ast;pinaŋoda_ encompass reef invertebrates, or sea animals other than fish and large water-dwelling animals, reflexes of _&ast;sisiq_ refer to gastropod (snail-like) shellfish, reflexes of _&ast;manuk_ refer to birds and bats, and reflexes of _&ast;manu-manuk_ to insects and other creepy-crawlies (spiders, centipedes, worms, etc.). However, in other Oceanic languages these etyma have reflexes with quite different ranges of reference. For example, in some cases the _&ast;manuk_ reflex includes not just birds and bats but all flying creatures, in others it includes all land-dwelling creatures or all creatures other than humans, in still others it includes humans, and there are some where it includes all objects. In many languages the _sisiq_ reflex refers just to a small class of small gastropods (nerites and similar) while in others it includes all gastropods or all shellfish.
+This chapter investigates the semantic histories of five Proto Oceanic terms, _&ast;ikan_, _&ast;pinaŋoda_, _&ast;sisiq_, _&ast;manuk_ and _&ast;manu-manuk_, each of which is a candidate for the status of a high-level generic or ‘life form’ in the POc taxonomy of animals.[^1]: In certain contemporary Oceanic languages reflexes of _&ast;ikan_ have a range of reference that encompasses fish and other large water-dwelling animals (cetaceans, dugongs, turtles and crocodiles), reflexes of _&ast;pinaŋoda_ encompass reef invertebrates, or sea animals other than fish and large water-dwelling animals, reflexes of _&ast;sisiq_ refer to gastropod (snail-like) shellfish, reflexes of _&ast;manuk_ refer to birds and bats, and reflexes of _&ast;manu-manuk_ to insects and other creepy-crawlies (spiders, centipedes, worms, etc.). However, in other Oceanic languages these etyma have reflexes with quite different ranges of reference. For example, in some cases the _&ast;manuk_ reflex includes not just birds and bats but all flying creatures, in others it includes all land-dwelling creatures or all creatures other than humans, in still others it includes humans, and there are some where it includes all objects. In many languages the _sisiq_ reflex refers just to a small class of small gastropods (nerites and similar) while in others it includes all gastropods or all shellfish.
 
 
 <a id="p-422"></a>
@@ -41,7 +41,7 @@ A first consideration is the nature of the analytic apparatus needed to make sen
 #### 1.2.1. What are taxonomies?
 
 
-A well-formed taxonomy is a system of semantic relations between lexical units that has the following properties:[^2] (i) Certain taxa stand in a class-inclusion or superordinate-hyponym relation. Thus, the statement _X is a fox terrier_ unilaterally entails that _X is a dog_, which in turn entails _X is an animal_. That is, _fox terrier_ is a hyponym of _dog_, which in turn is a hyponym of _animal_, (ii) Certain lexical units stand in a relation of incompatibility or contrast. Thus the statement _X is a fox terrier_ entails _X is not a labrador, alsatian or poodle_, and the statement _X is a dog_ entails _X is not a cat, seal or bear_, (iii) the hyponyms of a term X are _natural kinds_ of X. Thus, it can be said that _a fox terrier is a kind of dog_ and _a dog is a kind of animal_. A natural kind typically has many defining features (see [§1.2.2](ContributionTable?anchor=s-1-2-2#cldf:4-8)) but all other features are subordinate to the one that defines its place in the taxonomy, the fact that it is a kind of something (a sparrow is a kind of bird, a dog is a kind of animal, a trout is a kind of fish).
+A well-formed taxonomy is a system of semantic relations between lexical units that has the following properties:[^2]: (i) Certain taxa stand in a class-inclusion or superordinate-hyponym relation. Thus, the statement _X is a fox terrier_ unilaterally entails that _X is a dog_, which in turn entails _X is an animal_. That is, _fox terrier_ is a hyponym of _dog_, which in turn is a hyponym of _animal_, (ii) Certain lexical units stand in a relation of incompatibility or contrast. Thus the statement _X is a fox terrier_ entails _X is not a labrador, alsatian or poodle_, and the statement _X is a dog_ entails _X is not a cat, seal or bear_, (iii) the hyponyms of a term X are _natural kinds_ of X. Thus, it can be said that _a fox terrier is a kind of dog_ and _a dog is a kind of animal_. A natural kind typically has many defining features (see [§1.2.2](ContributionTable?anchor=s-1-2-2#cldf:4-8)) but all other features are subordinate to the one that defines its place in the taxonomy, the fact that it is a kind of something (a sparrow is a kind of bird, a dog is a kind of animal, a trout is a kind of fish).
 
 The relation implied by ‘natural kind’ is not identical to ‘class-inclusion’ or ‘hyponymy’. Not all hyponyms are natural kinds. Some are ‘nominal kinds’, e.g. _spinster_, _bachelor_, _mare_, _ewe_, _ram_. Unlike natural kinds, contrasts between nominal kinds can be readily defined, approximately, in an analytic way in terms of just a few features, e.g. _bachelor = man who has never married_, _spinster = woman who has never married_, _ewe = adult female sheep_, _ram = adult male sheep_. It follows that the semantic difference between nominal hyponyms of the same set can be expressed analytically, as e.g. the difference between _bachelor_ and _spinster_ or _ram_ and _ewe_. It is not a dominant feature of nominal terms that they are kinds of something. Although one can say _a spinster is a woman_, _a mare is a horse_, _a ram is a sheep_ it is questionable whether it makes sense to say _a spinster is a kind of woman_, _a mare is a kind of horse_, or _a ram is a kind of sheep_.
 
@@ -102,7 +102,7 @@ At higher levels the methods and motives underpinning folk and scientific classi
 #### 1.2.4. Taxonomic generics vs collectives
 
 
-[Wierzbicka](Source#cldf:Wierzbicka1984) ([1984](Source#cldf:Wierzbicka1984), [1996](Source#cldf:Wierzbicka1996)) has advanced methodological objections to certain claims made by anthropologists, linguists and psychologists about the nature and membership of categories in folk taxonomies. She points out that people’s intuitions about category membership can’t reliably be established by asking them simple questions like ‘Is X a kind of Y?’ or by asking them to sort cards with pictures. Instead you need to find out how people talk spontaneously about such matters and to apply a variety of linguistic tests designed to bring out people’s tacit knowledge.[^3]
+[Wierzbicka](Source#cldf:Wierzbicka1984) ([1984](Source#cldf:Wierzbicka1984), [1996](Source#cldf:Wierzbicka1996)) has advanced methodological objections to certain claims made by anthropologists, linguists and psychologists about the nature and membership of categories in folk taxonomies. She points out that people’s intuitions about category membership can’t reliably be established by asking them simple questions like ‘Is X a kind of Y?’ or by asking them to sort cards with pictures. Instead you need to find out how people talk spontaneously about such matters and to apply a variety of linguistic tests designed to bring out people’s tacit knowledge.[^3]:
 
 
 <a id="p-426"></a>
@@ -154,7 +154,7 @@ This objective might seem straightforward enough. But it is not, for reasons out
 #### 1.2.7. Shortcomings of dictionary definitions
 
 
-For anyone wishing to compare taxonomies of flora and fauna in Oceanic languages a serious problem is the poor quality of definitions provided in dictionaries and other sources. Ideally, the taxonomies of a language should be inferable from information given in the dictionary.[^4]
+For anyone wishing to compare taxonomies of flora and fauna in Oceanic languages a serious problem is the poor quality of definitions provided in dictionaries and other sources. Ideally, the taxonomies of a language should be inferable from information given in the dictionary.[^4]:
 
 
 <a id="p-428"></a>
@@ -190,7 +190,7 @@ POc _&ast;ikan_, roughly glossable as ‘fish’, is an extremely well-supported
 
 <a id="p-429"></a>
 
-<a id="table-8.1"> </a>
+<a id="tab-8.1"> </a>
 
 : __Table 8.1__         Implicational scale of types that may be included in reflexes of _&ast;ikan_
 
@@ -206,7 +206,7 @@ POc _&ast;ikan_, roughly glossable as ‘fish’, is an extremely well-supported
 | (8) | 7 + decapod crustaceans (crabs, crayfish, prawns and their relatives)                                                                    |
 | (9) | 8 + other aquatic invertebrates (molluscs with shells, sea hares, nudibranchs, echinoderms, sea urchins, sea cucumbers, jellyfish, etc.) |
 
-All Oceanic languages have a generic term that can be translated roughly by English ‘fish’ and typically this term is a reflex of POc _&ast;ikan_. However, the scope of this generic varies considerably from language to language. A first comparison of definitions across the group indicates that if ‘typical fish’ are taken as the core members of the class, extensions to include other kinds of creatures can be ordered along an implicational scale roughly as in [Table 8.1](#table-8.1), bearing in mind that while most creatures of types (1-9) occur throughout much of the Pacific, certain animals, such as dugongs and crocodiles, have more restricted ranges.
+All Oceanic languages have a generic term that can be translated roughly by English ‘fish’ and typically this term is a reflex of POc _&ast;ikan_. However, the scope of this generic varies considerably from language to language. A first comparison of definitions across the group indicates that if ‘typical fish’ are taken as the core members of the class, extensions to include other kinds of creatures can be ordered along an implicational scale roughly as in [Table 8.1](#tab-8.1), bearing in mind that while most creatures of types (1-9) occur throughout much of the Pacific, certain animals, such as dugongs and crocodiles, have more restricted ranges.
 
 Thus, the hypothesis is that if a language includes only one other group of animals in the generic for ‘fish’ it will generally be sharks and rays and the next group to be included will usually be cetaceans together with dugongs (if present) and after that will come eels, then turtles, and so on. Let us refer to those generics whose semantic scope is restricted to (1) as ‘grade 1’, those restricted to (2) as ‘grade 2’, and so on.
 
@@ -260,12 +260,12 @@ Relatively detailed definitions of reflexes of _&ast;ikan_ are available for man
 
 The only Central Pacific dictionary that distinguishes between a narrow sense of the _&ast;ikan_ reflex, including only ‘true fish’ and a broader sense, including other large marine creatures, is Wayan Fijian. The Wayan dictionary contains these example sentences: _Na siihiana ika ni qwara, ei tarn tia ika dū_. ‘The octopus is a fish living in holes; it is not a true fish. _Na ika dū ei vakalaulau_. ‘True fish have tails.’
 
-The semantic range exhibited by these definitions is summarised in [Table 8.2](#table-8.2). Here and in later tables the following conventions are used to indicate whether or not the class of referents listed at the head of each column is included in the meaning: ‘+’ = included, ‘-’ = excluded, ‘(+)’ = there is disagreement among speakers, and/or certain members of the class are included, others excluded, and ‘?’ indicates that sources do not say whether or not the referent is included.
+The semantic range exhibited by these definitions is summarised in [Table 8.2](#tab-8.2). Here and in later tables the following conventions are used to indicate whether or not the class of referents listed at the head of each column is included in the meaning: ‘+’ = included, ‘-’ = excluded, ‘(+)’ = there is disagreement among speakers, and/or certain members of the class are included, others excluded, and ‘?’ indicates that sources do not say whether or not the referent is included.
 
 
 <a id="p-431"></a>
 
-<a id="table-8.2"> </a>
+<a id="tab-8.2"> </a>
 
 : __Table 8.2__       Semantic range of reflexes of _&ast;ikan_ in Central Pacific languages
 
@@ -290,7 +290,7 @@ The semantic range exhibited by these definitions is summarised in [Table 8.2](#
 
 Note: Crocodiles or dugongs are not present in Triangle Polynesian or Fijian waters, although they are known to some Polynesian Outlier communities in Melanesia.
 
-<a id="table-8.3"> </a>
+<a id="tab-8.3"> </a>
 
 : __Table 8.3__          Semantic range of _&ast;ikan_ in PPn and PCP
 
@@ -304,7 +304,7 @@ Note: Crocodiles or dugongs are not present in Triangle Polynesian or Fijian wat
 
 The Polynesian languages cited here agree fairly well in their range of referents. Leaving aside cases where the definition is uninformative on this point, reflexes of _&ast;ikan_ always include not only typical fish but also sharks, rays and cetaceans. Most (six out of eight) also include turtles. Most (all but one) exclude crusteaceans and molluscs with shells. The main area of disagreement concerns eels (three languages include them, three exclude them) and cephalopods (three include them, six exclude them). The most reasonable historical inference is that Proto Polynesian (PPn) _&ast;ika_ embraced sharks and rays, cetaceans and turtles. The status of eels and cephalopods in the PPn taxonomy is less certain.
 
-Rotuman and the Fijian languages agree in including eels and cephalopods, as well as sharks and rays, cetaceans and turtles, and in excluding crustaceans and molluscs with shells. [Table 8.3](#table-8.3) proposes likely semantic profdes for PPn and Proto Central Pacific.
+Rotuman and the Fijian languages agree in including eels and cephalopods, as well as sharks and rays, cetaceans and turtles, and in excluding crustaceans and molluscs with shells. [Table 8.3](#tab-8.3) proposes likely semantic profdes for PPn and Proto Central Pacific.
 
 
 <a id="s-2-2-2"></a>
@@ -312,7 +312,7 @@ Rotuman and the Fijian languages agree in including eels and cephalopods, as wel
 #### 2.2.2. Micronesian
 
 
-Details follow of reflexes of _&ast;ikan_ in five Micronesian languages for which quite informative definitions are available. The semantic range exhibited by these definitions is summarised in [Table 8.4](#table-8.4).
+Details follow of reflexes of _&ast;ikan_ in five Micronesian languages for which quite informative definitions are available. The semantic range exhibited by these definitions is summarised in [Table 8.4](#tab-8.4).
 
 |             |                |                                                                                                                                                                                                                                                                               |
 |:------------|:---------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -322,7 +322,7 @@ Details follow of reflexes of _&ast;ikan_ in five Micronesian languages for whic
 | Woleaian    | _ixar_         | ‘fish’ ([Sohn and Tawerilmang 1976](Source#cldf:SohnandTawerilmang1976)). However, in the English-Woleaian finder list, under ‘fish’, the authors list terms for ‘dolphin’, whale’ as well as ‘eel’, ‘shark’ and ‘ray’, though not ‘turtle’, ‘octopus’ or ‘squid’.                                                  |
 | Puluwatese  | _yīk_, _yikan_ | ‘fish, porpoises and whales but not squid’                                                                                                                                                                                                                                    |
 
-<a id="table-8.4"> </a>
+<a id="tab-8.4"> </a>
 
 : __Table 8.4__       Semantic range of _&ast;ikan_ in Micronesian languages
 
@@ -359,7 +359,7 @@ Informative definitions are available for a few Oceanic languages of the Solomon
 
 It can be seen that the witnesses largely agree in including sharks, rays, eels, turtles, cephalopods and crocodiles, virtually all free swimming aquatic creatures. Fox’s definitions for Lau and Gela are extreme in including all marine organisms.
 
-<a id="table-8.5"> </a>
+<a id="tab-8.5"> </a>
 
 : __Table 8.5__      Semantic range of _&ast;ikan_ in Solomon Islands languages
 
@@ -391,12 +391,12 @@ There are few informative definitions for reflexes of _&ast;ikan_ in Vanuatu lan
 | Paamese   | _mesau_        | (1) ‘fish (syn. ai)’ (2) ‘any sea dweller incl. turtles, dolphins, shellfish’                                                             |
 | Tamambo   | _manji tarusa_ | ‘fish and shellfish’ (_manji_ ‘animal, including fish and birds’, _tarusa_ ‘sea’)                                                         |
 
-Leaving aside the under-informative Mota and Tamambo definitions, we get [Table 8.6](#table-8.6).
+Leaving aside the under-informative Mota and Tamambo definitions, we get [Table 8.6](#tab-8.6).
 
 
 <a id="p-434"></a>
 
-<a id="table-8.6"> </a>
+<a id="tab-8.6"> </a>
 
 : __Table 8.6__        Semantic range of ‘fish’ terms in Vanuatu languages
 
@@ -422,12 +422,12 @@ Definitions are given for _&ast;ikan_ reflexes in four Admiralties languages. Th
 | Penchal | _nii_ | (1) ‘fish’, (2) ‘fish, turtle, porpoise, whale, octopus’    |
 | Loniu   | _ni_  | ‘general term for fish’                                     |
 
-Discarding the Loniu definition as under-informative, we get the comparative breakdown in [Table 8.7](#table-8.7). It can be seen that the definitions for Titan and Penchal agree in including sharks, rays, cetaceans and turtles, but disagree over cephalopods.
+Discarding the Loniu definition as under-informative, we get the comparative breakdown in [Table 8.7](#tab-8.7). It can be seen that the definitions for Titan and Penchal agree in including sharks, rays, cetaceans and turtles, but disagree over cephalopods.
 
 
 <a id="p-435"></a>
 
-<a id="table-8.7"> </a>
+<a id="tab-8.7"> </a>
 
 : __Table 8.7__       Semantic range of _&ast;ikan_ in Admiralties languages
 
@@ -443,7 +443,7 @@ Discarding the Loniu definition as under-informative, we get the comparative bre
 #### 2.2.6. Western Oceanic
 
 
-Of the Western Oceanic reflexes that follow, only the definitions for Kilivila, Muyuw and Motu are reasonably informative. The latter are all Papuan Tip languages. It can be seen from [Table 8.8](#table-8.8) that two of the three Papuan Tip witnesses agree in including sharks, rays, eels and crocodiles but disagree over cetaceans and turtles.
+Of the Western Oceanic reflexes that follow, only the definitions for Kilivila, Muyuw and Motu are reasonably informative. The latter are all Papuan Tip languages. It can be seen from [Table 8.8](#tab-8.8) that two of the three Papuan Tip witnesses agree in including sharks, rays, eels and crocodiles but disagree over cetaceans and turtles.
 
 |                    |           |                                                                                                |
 |:-------------------|:----------|:-----------------------------------------------------------------------------------------------|
@@ -462,7 +462,7 @@ Of the Western Oceanic reflexes that follow, only the definitions for Kilivila, 
 | Nakanai            | _ia_      | ‘fish’                                                                                         |
 | Roviana            | _iɣana_   | ‘generic name for                                                                              |
 
-<a id="table-8.8"> </a>
+<a id="tab-8.8"> </a>
 
 : __Table 8.8__         Semantic range of _&ast;ikan_ in Papuan Tip languages
 
@@ -485,7 +485,7 @@ There is reason to think that POc _&ast;ikan_ was polysemous, having a narrower 
 
 As to a broader sense, if only the more detailed dictionary definitions are considered, we find that in a high proportion of languages across different major subgroups the reflex of &ast;ikan refers to sharks and rays, eels, cetaceans and turtles, and also to dugongs and crocodiles in places where these animals are present. I conclude that this was also the case in POc; that is, _&ast;ikan_ had at least grade 5 scope. Turtles were ‘fish’ in POc. The status of octopus and squid is less clear. Other kinds of water-dwelling invertebrates, such as molluscs in shells and crustaceans, have much weaker claims for inclusion. The balance of the evidence suggests that while free swimming creatures with bones were _&ast;ikan_, invertebrates that crawl, burrow or stick to rocks probably weren’t. However, in a few languages (Lau, Gela, Marovo) the scope of _&ast;ikan_ has been widened to include all free swimming sea creatures. In Lau and Gela it may been extended to all marine (and presumably freshwater) creatures (grade 7), although different sources are in conflict on this point. We must allow that in some Oceanic languages the semantic range of &ast;ikan has reduced to grade 4, 3 or 2.
 
-The data loosely support the implicational scale given in [Table 1](#table-1). Some simplifications may be in order. For example, among languages spoken where both crocodiles and turtles are common, no language is known to include turtles but to exclude crocodiles or vice versa. Thus, categories 6 and 7 can perhaps be merged. Only one language in the sample, Anejom, includes crustaceans but excludes shelled molluscs, so an argument can be made for merging categories 8 and 9. However, we have little information about the status of other marine invertebrates included in category 9, such as jellyfish and sea hares.
+The data loosely support the implicational scale given in [Table 1](#tab-1). Some simplifications may be in order. For example, among languages spoken where both crocodiles and turtles are common, no language is known to include turtles but to exclude crocodiles or vice versa. Thus, categories 6 and 7 can perhaps be merged. Only one language in the sample, Anejom, includes crustaceans but excludes shelled molluscs, so an argument can be made for merging categories 8 and 9. However, we have little information about the status of other marine invertebrates included in category 9, such as jellyfish and sea hares.
 
 Why do speakers of various Oceanic languages (like people in many other places) place certain other kinds of animals in the same class as typical fish? Most likely the reasons were diverse. Some non-fish creatures look and behave rather like fish, e.g. whales, dolphins and dugongs to some extent resemble fish in the way they swim and in being completely aquatic. But what about turtles? Apart from being free-swimming bony animals that spend a lot of time at sea, turtles do not look or behave like fish. What they have in common with certain fish, perhaps, is that everywhere in the Pacific turtles are prized game, caught at sea. That leaves crocodiles, which resemble sharks in being fearsome creatures but otherwise share little in common with fish or turtles other than being free-swimming bony creatures.
 
@@ -527,9 +527,9 @@ Cognates outside Polynesian are scarce, except in Papuan Tip languages. In the f
 
 <a id="p-438"></a>
 
-A problem with many of these definitions is that for some English speakers the term ‘shellfish’ refers only to molluscs with shells while for others it also includes crustaceans. There is reason to think that the authors of the dictionary definitions cited here generally had in the mind the former, narrower definition.[^5]
+A problem with many of these definitions is that for some English speakers the term ‘shellfish’ refers only to molluscs with shells while for others it also includes crustaceans. There is reason to think that the authors of the dictionary definitions cited here generally had in the mind the former, narrower definition.[^5]:
 
-Clark argues convincingly that PPn _&ast;fiŋota_ and Papuan Tip _vigoda_, _igoda_ are reductions of POc _&ast;p-in-aŋoda_, the nominalization of a verb, _&ast;paŋoda_, by means of a well-attested nominalising infix _&ast;-in-_[^6] The primary sense of _&ast;paŋoda_ was ‘to gather seafood (other than fish) on the reef’ with the additional sense ‘to fish, catch fish’. This verb is widely attested in Oceanic. Selected examples are given below. In some witnesses, especially in Western Oceanic, POc _&ast;ŋ_ is unexpectedly reflected as a stop, _g_.
+Clark argues convincingly that PPn _&ast;fiŋota_ and Papuan Tip _vigoda_, _igoda_ are reductions of POc _&ast;p-in-aŋoda_, the nominalization of a verb, _&ast;paŋoda_, by means of a well-attested nominalising infix _&ast;-in-_[^6]: The primary sense of _&ast;paŋoda_ was ‘to gather seafood (other than fish) on the reef’ with the additional sense ‘to fish, catch fish’. This verb is widely attested in Oceanic. Selected examples are given below. In some witnesses, especially in Western Oceanic, POc _&ast;ŋ_ is unexpectedly reflected as a stop, _g_.
 
 |                             |             |                                                                                                                                                                         |
 |:----------------------------|:------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -585,7 +585,7 @@ However, no widespread cognate set has been found that consistently serves as a 
 
 <a id="p-440"></a>
 
-Perhaps the strongest candidate for a POc generic in this domain is _&ast;sisiq_, which may have had variants _&ast;siseq_ and/or _&ast;sisuq_[^7] Reflexes of _&ast;sisiq_ vary greatly in range of reference across Oceanic languages.
+Perhaps the strongest candidate for a POc generic in this domain is _&ast;sisiq_, which may have had variants _&ast;siseq_ and/or _&ast;sisuq_[^7]: Reflexes of _&ast;sisiq_ vary greatly in range of reference across Oceanic languages.
 
 |                             |                |                                                                                                                                                                                                                                                                                                                                                            |
 |:----------------------------|:---------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -628,7 +628,7 @@ Perhaps the strongest candidate for a POc generic in this domain is _&ast;sisiq_
 | _Polynesian_                |                |                                                                                                                                                                                                                                                                                                                                                            |
 | Niuean                      | _hihi_         | ‘snail (generic), usu. first element in compound names for certain gastropods’, e.g. _hihi Afelika_, ‘African snail’, _hihi tea_ ‘a seasnail’                                                                                                                                                                                                              |
 | Hawaiian                    | _hiihii_/_wai_ | ‘grainy snail, Neritina, in both fresh and brackish water, eaten’                                                                                                                                                                                                                                                                                          |
-| Samoan                      | _sisi_         | ‘name given to small snails in general’ (Milner); ‘fresh water molluscs’ (Pratt)[^8][^9]                                                                                                                                                                                                                                                                     |
+| Samoan                      | _sisi_         | ‘name given to small snails in general’ (Milner); ‘fresh water molluscs’ (Pratt)[^8]:[^9]:                                                                                                                                                                                                                                                                     |
 |                             | _sisi-tai_     | ‘saltwater winkles’ (Pratt)                                                                                                                                                                                                                                                                                                                                |
 |                             | _sisi-vai_     | ‘freshwater molluscs’ (Pratt)                                                                                                                                                                                                                                                                                                                              |
 |                             | _sisi-vao_     | ‘landsnails’                                                                                                                                                                                                                                                                                                                                               |
@@ -642,16 +642,16 @@ Perhaps the strongest candidate for a POc generic in this domain is _&ast;sisiq_
 
 <a id="p-441"></a>
 
-The semantic range of these terms may be arranged in a scale as shown in [Table 8.9](#table-8.9). The semantic ranges of reflexes of _&ast;sisiq_ in better documented Oceanic languages are shown in [Table 8.10](#table-8.10).
+The semantic range of these terms may be arranged in a scale as shown in [Table 8.9](#tab-8.9). The semantic ranges of reflexes of _&ast;sisiq_ in better documented Oceanic languages are shown in [Table 8.10](#tab-8.10).
 
-Has _&ast;sisiq_ expanded its range of reference from domains (1) or (2), or did it already have wider scope in POc? Was it already polysemous in POc, with both a broad and a narrow application?[^9]
+Has _&ast;sisiq_ expanded its range of reference from domains (1) or (2), or did it already have wider scope in POc? Was it already polysemous in POc, with both a broad and a narrow application?[^9]:
 
 About 50 families of gastropods or snail-like molluscs, comprising hundreds of genera, are found in the Indo-Pacific region. In almost all languages where the dictionary definitions specify particular families or genera, these refer to nerites (members of the family Neritidae) and to other fairly similar groups of small edible marine gastropods (grade 3). In many Oceanic-speaking communities such small shellfish are regularly collected in large quantities and often they supply a more significant part of the protein consumption than any other gastropods. This, then, may have been its primary sense in POc.
 
 
 <a id="p-442"></a>
 
-<a id="table-8.9"> </a>
+<a id="tab-8.9"> </a>
 
 : __Table 8.9__ Implicational scale of types that may be included in reflexes of _&ast;sisiq_
 
@@ -663,7 +663,7 @@ About 50 families of gastropods or snail-like molluscs, comprising hundreds of g
 | (4) | all edible gastropods                                                                                                                                                                                                                                                  |
 | (5) | all molluscs with shells                                                                                                                                                                                                                                               |
 
-<a id="table-8.10"> </a>
+<a id="tab-8.10"> </a>
 
 : __Table 8.10__ Semantic range of reflexes of _&ast;sisiq_ in Oceanic languages small globular
 
@@ -706,9 +706,9 @@ There is some evidence that _&ast;sisiq_ also served as a high-order generic, pe
 ### 5.1. Introduction
 
 
-POc _&ast;manuk_ is a well attested form whose semantic range certainly included birds in general, but whose reflexes often have a broader scope. The implicational scale in [Table 8.11](#table-8.11), going from the most restricted domain to the most inclusive, predicts fairly well the kinds of variations in range seen among _&ast;manuk_ reflexes.
+POc _&ast;manuk_ is a well attested form whose semantic range certainly included birds in general, but whose reflexes often have a broader scope. The implicational scale in [Table 8.11](#tab-8.11), going from the most restricted domain to the most inclusive, predicts fairly well the kinds of variations in range seen among _&ast;manuk_ reflexes.
 
-<a id="table-8.11"> </a>
+<a id="tab-8.11"> </a>
 
 : __Table 8.11__ Implicational scale of types that may be included in reflexes of _&ast;manuk_
 
@@ -754,14 +754,14 @@ POc _&ast;manuk_ is a well attested form whose semantic range certainly included
 | Rennellese | _manu_      | ‘land fauna except human beings, turtles and fish (incl. birds and flying insects)’ (also manu-gege ‘birds and flying insects’)                                                                                           |
 | Nukuoro    | _manu_      | ‘living things in general’                                                                                                                                                                                                |
 
-The semantic range of these terms may be arranged in a scale as shown in [Table 8.12](#table-8.12). This distribution of meanings suggests that PPn _&ast;manu_ had a narrow sense ‘birds and bats’ (with synonym _&ast;manu-lele_), and an extended sense, roughly ‘all land animals other than humans’. Among the languages cited above, Niuean and Tongan (Tongic), Rarotongan and Tahitian (Eastern Polynesian), Rennellese, Samoan, Tokelauan and Tikopian (non-Eastern Nuclear Polynesian) have an extended sense.
+The semantic range of these terms may be arranged in a scale as shown in [Table 8.12](#tab-8.12). This distribution of meanings suggests that PPn _&ast;manu_ had a narrow sense ‘birds and bats’ (with synonym _&ast;manu-lele_), and an extended sense, roughly ‘all land animals other than humans’. Among the languages cited above, Niuean and Tongan (Tongic), Rarotongan and Tahitian (Eastern Polynesian), Rennellese, Samoan, Tokelauan and Tikopian (non-Eastern Nuclear Polynesian) have an extended sense.
 
 In Futunan, Uvean, (and occasionally) Rarotongan, _manu_ can be extended to all creatures other than humans and in Nukuoro that seems to be the standard meaning. This more extended use has a restricted distribution in contemporary Polynesian languages and was probably not present, or was rare, in PPn.
 
 
 <a id="p-445"></a>
 
-<a id="table-8.12"> </a>
+<a id="tab-8.12"> </a>
 
 : __Table 8.12__ Semantic range of reflexes of POc &ast;manuk in some Polynesian languages
 
@@ -791,7 +791,7 @@ However, it seems to me more likely that _&ast;manu_ was already polysemous in P
 
 <a id="p-446"></a>
 
-<a id="table-8.13"> </a>
+<a id="tab-8.13"> </a>
 
 : __Table 8.13__ Semantic range of reflexes of PCP &ast;manu-manu in Rotuman and Fijian languages
 
@@ -839,7 +839,7 @@ Rotuman and the Fijian languages reflect only a reduplicated form _&ast;manu-man
 
 <a id="p-447"></a>
 
-<a id="table-8.14"> </a>
+<a id="tab-8.14"> </a>
 
 : __Table 8.14__ Semantic range of reflexes of POc &ast;manuk in some Micronesian languages
 
@@ -863,7 +863,7 @@ It is likely that the primary sense of the PMic noun _&ast;man_ was at least as 
 #### 5.2.4. Other Oceanic groups
 
 
-Outside of the Nuclear Micronesian and Central Pacific groups, reflexes of _&ast;manuk_ generally have the narrower meaning ‘creature with wings: bird, bat, flying insect’. However, the paucity of good dictionaries for Oceanic languages in most regions of Melanesia limits our confidence in some of the glosses. The semantic range of reflexes of POc _&ast;manuk_ in some Oceanic languages other than Nuclear Micronesian and Central Pacific is shown in [Table 8.15](#table-8.15).
+Outside of the Nuclear Micronesian and Central Pacific groups, reflexes of _&ast;manuk_ generally have the narrower meaning ‘creature with wings: bird, bat, flying insect’. However, the paucity of good dictionaries for Oceanic languages in most regions of Melanesia limits our confidence in some of the glosses. The semantic range of reflexes of POc _&ast;manuk_ in some Oceanic languages other than Nuclear Micronesian and Central Pacific is shown in [Table 8.15](#tab-8.15).
 
 
 <a id="p-448"></a>
@@ -912,7 +912,7 @@ Outside of the Nuclear Micronesian and Central Pacific groups, reflexes of _&ast
 
 <a id="p-449"></a>
 
-<a id="table-8.15"> </a>
+<a id="tab-8.15"> </a>
 
 : __Table 8.15__ Semantic range of reflexes of POc &ast;manuk in some Oceanic languages other than Nuclear Micronesian and Central Pacific
 
@@ -964,9 +964,9 @@ Given that birds are the dominant indigenous land fauna in the island groups of 
 ### 6.1. Reflexes of POc _&ast;manu-manuk_ in Papuan Tip, SE Solomonic and Polynesian
 
 
-Osmond (this volume, ch.7) observes that reflexes of a form _&ast;manu-manuk_, meaning approximately ‘insects and other small invertebrates’ (corresponding to the English vernacular category ‘insects’)[^10] are found in three widely separated subgroups of Oceanic: Papuan Tip, Southeast Solomonic and Polynesian. In certain languages in each of these groups the reflex of _&ast;manu-manuk_ stands beside and contrasts with a reflex of _&ast;manuk_, meaning approximately ‘birds and other flying creatures’. Reduplications of _&ast;manuk_, but with rather different meanings, are also found in Lou (Admiralties), Fijian and Rotuman (see [§5.2](ContributionTable?anchor=s-5-2#cldf:4-8)).
+Osmond (this volume, ch.7) observes that reflexes of a form _&ast;manu-manuk_, meaning approximately ‘insects and other small invertebrates’ (corresponding to the English vernacular category ‘insects’)[^10]: are found in three widely separated subgroups of Oceanic: Papuan Tip, Southeast Solomonic and Polynesian. In certain languages in each of these groups the reflex of _&ast;manu-manuk_ stands beside and contrasts with a reflex of _&ast;manuk_, meaning approximately ‘birds and other flying creatures’. Reduplications of _&ast;manuk_, but with rather different meanings, are also found in Lou (Admiralties), Fijian and Rotuman (see [§5.2](ContributionTable?anchor=s-5-2#cldf:4-8)).
 
-In the definitions cited below from dictionary sources it is likely that the English gloss ‘insect’ is generally used in its vernacular sense.[^10]
+In the definitions cited below from dictionary sources it is likely that the English gloss ‘insect’ is generally used in its vernacular sense.[^10]:
 
 |                |                   |                                                                       |
 |:---------------|:------------------|:----------------------------------------------------------------------|
@@ -990,7 +990,7 @@ In the definitions cited below from dictionary sources it is likely that the Eng
 
 <a id="p-451"></a>
 
-<a id="table-8.16"> </a>
+<a id="tab-8.16"> </a>
 
 : __Table 8.16__  Implicational scale of types that may be included in reflexes of _&ast;manu-manuk_
 
@@ -1000,7 +1000,7 @@ In the definitions cited below from dictionary sources it is likely that the Eng
 | (2) | insects in general       |
 | (3) | all living creatures     |
 
-These data yield the rather simple implicational scale in [Table 8.16](#table-8.16). It can be seen that definitions of type (2) dominate. Just one language in the sample (Gela) has a greatly extended sense: ‘all living creatures’. Unfortunately, the sources give no evidence that would tell us whether forms with meanings of types (2) and (3) behave like true taxonomic generics or whether they are used only as collectives.
+These data yield the rather simple implicational scale in [Table 8.16](#tab-8.16). It can be seen that definitions of type (2) dominate. Just one language in the sample (Gela) has a greatly extended sense: ‘all living creatures’. Unfortunately, the sources give no evidence that would tell us whether forms with meanings of types (2) and (3) behave like true taxonomic generics or whether they are used only as collectives.
 
 
 <a id="s-6-2"></a>
@@ -1012,7 +1012,7 @@ It might seem a straightforward matter to conclude that _&ast;manu-manuk_ was a 
 
 In many Oceanic languages a semi-productive use of nominal reduplication is to name a taxon which resembles that named by the simple form but is smaller or otherwise atypical — not quite the real thing (for discussion of this function of reduplication in Oceanic see [Ross 2008a](Source#cldf:Ross2008a): 50-51). Given such a mechanism, we must consider the possibility that a reduplicated form of _&ast;manuk_ developed independently in Papuan Tip, Southeast Solomonic and Polynesian. On the formal level, such parallel development would not be surprising. However, it seems unlikely that the meaning of the reduplicated derivative would in both cases have been ‘insects, creepy crawlies’.
 
-The other complicating factor is that a case can be made for attributing another sense to POc _&ast;manu-manuk_, roughly ‘all creatures’ or ‘all creatures other than those that live in water’. It was noted above ([§5.2.2](ContributionTable?anchor=s-5-2-2#cldf:4-8)) that reflexes of _&ast;manu-manuk_ have this broader range of reference in Lou, Rotuman and the Fijian languages. However, I prefer to regard the Lou, Rotuman and Fijian uses as post-POc innovations, in which the reflex of _&ast;manu-manuk_ replaced the _&ast;manuk_ reflex as the general term for creatures or land creatures. Thus the conclusion that _&ast;manu-manuk_ existed in POc as a general term for insects and other small land invertebrates still stands.[^11] Some languages, chiefly in Polynesia, have narrowed its application use to just one or a few insects but in one language its scope has been extended to encompass all living things.
+The other complicating factor is that a case can be made for attributing another sense to POc _&ast;manu-manuk_, roughly ‘all creatures’ or ‘all creatures other than those that live in water’. It was noted above ([§5.2.2](ContributionTable?anchor=s-5-2-2#cldf:4-8)) that reflexes of _&ast;manu-manuk_ have this broader range of reference in Lou, Rotuman and the Fijian languages. However, I prefer to regard the Lou, Rotuman and Fijian uses as post-POc innovations, in which the reflex of _&ast;manu-manuk_ replaced the _&ast;manuk_ reflex as the general term for creatures or land creatures. Thus the conclusion that _&ast;manu-manuk_ existed in POc as a general term for insects and other small land invertebrates still stands.[^11]: Some languages, chiefly in Polynesia, have narrowed its application use to just one or a few insects but in one language its scope has been extended to encompass all living things.
 
 
 <a id="p-452"></a>

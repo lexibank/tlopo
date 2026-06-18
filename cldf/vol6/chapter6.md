@@ -5,14 +5,14 @@
 
 <a id="s-1"></a>
 
-## 1. Introduction[^1]
+## 1. Introduction[^1]:
 
 
 In Oceanic societies, music, song and dance are far more than recreation in the western sense although their enjoyment is often a prerequisite. Their performance spills over into many areas, into the performance of rites marking significant events, into the casting of spells and other forms of magic, into preparation for war, and as an expression of group solidarity and pride. Songs may serve to bolster effort, as in long-distance paddling by canoe or in hauling heavy logs. Dances, particularly war dances, may serve to instil fear in others. They are possessions that may be traded. Story-telling serves to memorise and pass on shared knowledge to the next generation. Such activities function to both express and preserve cultural values as well as serving to strengthen social cohesion.
 
 Games form a somewhat different category, undertaken by children and young adults primarily for pleasure.
 
-Music, song, dance and games may not have been recognised as nominal categories by a Proto Oceanic speaker[^2]. Nevertheless, for the sake of convenience, I have divided discussion of the role of these activities to cover instrumental music ([§6.2](ContributionTable?anchor=s-6-2#cldf:6-6)); song ([§6.3](ContributionTable?anchor=s-6-3#cldf:6-6)); dance ([§6.4](ContributionTable?anchor=s-6-4#cldf:6-6)); and games, i.e. activities other than music and dance, the primary function of which is entertainment ([§6.6](ContributionTable?anchor=s-6-6#cldf:6-6)). An amount of overlap, particularly between song and dance, is unavoidable.
+Music, song, dance and games may not have been recognised as nominal categories by a Proto Oceanic speaker[^2]:. Nevertheless, for the sake of convenience, I have divided discussion of the role of these activities to cover instrumental music ([§6.2](ContributionTable?anchor=s-6-2#cldf:6-6)); song ([§6.3](ContributionTable?anchor=s-6-3#cldf:6-6)); dance ([§6.4](ContributionTable?anchor=s-6-4#cldf:6-6)); and games, i.e. activities other than music and dance, the primary function of which is entertainment ([§6.6](ContributionTable?anchor=s-6-6#cldf:6-6)). An amount of overlap, particularly between song and dance, is unavoidable.
 
 
 <a id="s-2"></a>
@@ -172,7 +172,7 @@ The PT terms in the following set are assumed to have been borrowed from Polynes
 
 [6-6-2-7-205-pt-tawala-pate](cf.csv#cldf:6-6-2-7-205-pt-tawala-pate)
 
-POc _&ast;rali_ ‘slitgong’ is reflected in the Admiralties and Fiji.[^5]
+POc _&ast;rali_ ‘slitgong’ is reflected in the Admiralties and Fiji.[^5]:
 
 [POc &ast;_rali_](cognatesetreferences.csv#cldf:6-6-2-7-205-POc-rali-a)
 
@@ -212,7 +212,7 @@ Although a handful of terms have been collected, none are cognate. Informants ge
 ## 3. Song
 
 
-Singing is predominantly choral and traditionally associated with dance, although hymn singing may now have overtaken traditional dance as the most frequent performance of song. Songs, like dances, are regarded throughout Melanesia as property, and can be bought and sold like any other commodity ([§6.3.10](ContributionTable?anchor=s-6-3-10#cldf:6-6)).[^6] Because they can be traded and because they are open to innovation, reconstructing terms for particular songs and dances is not a productive exercise. However, the forms, as opposed to the content, are more or less stereotyped, and it is terms for these which offer our best chance of reconstruction.
+Singing is predominantly choral and traditionally associated with dance, although hymn singing may now have overtaken traditional dance as the most frequent performance of song. Songs, like dances, are regarded throughout Melanesia as property, and can be bought and sold like any other commodity ([§6.3.10](ContributionTable?anchor=s-6-3-10#cldf:6-6)).[^6]: Because they can be traded and because they are open to innovation, reconstructing terms for particular songs and dances is not a productive exercise. However, the forms, as opposed to the content, are more or less stereotyped, and it is terms for these which offer our best chance of reconstruction.
 
 [François](Source#cldf:Francois2013) ([2013](Source#cldf:Francois2013):74-5) writes that in Vanuatu,
 
@@ -437,7 +437,7 @@ Blackwood describes the dance of Petats speakers (Buka, northwest Solomons), whe
 
 Throughout Micronesia, the expressive use of the body as an accompaniment to sung poetry is a fundamental and highly valued aspect of performance (Diettrich et al 2011:20). They continue: “Many dances in Micronesia display standing or sitting positions, groupings separated by gender, an emphasis on particular attire and adornments, and the expressive use of hands, arms, and sometimes feet to produce synchronous rhythmic accompaniments.” They describe a genre known as wuur, a type of vocal music performed as group seated dances using hand and arm movements punctuated by hand claps (2011:21).
 
-[Firth](Source#cldf:Firth1985) ([1985](Source#cldf:Firth1985)) notes that “whereas types of dance performance [are] relatively limited (cf. _matavaka_, _mori_, _ŋore_, _tusoko_[^13] etc) and seldom augmented, the number of dance songs is vast and continually being added to.”
+[Firth](Source#cldf:Firth1985) ([1985](Source#cldf:Firth1985)) notes that “whereas types of dance performance [are] relatively limited (cf. _matavaka_, _mori_, _ŋore_, _tusoko_[^13]: etc) and seldom augmented, the number of dance songs is vast and continually being added to.”
 
 Although wordlist compilers have listed dozens of terms for the names of particular dances, few generic terms for the activity have been identified, probably because dancing is not considered as distinct from its music or associated celebration. Some reconstructions are simply action verbs ‘to hop’, ‘kick’, ‘stamp’, ‘clap’ and so on.
 
@@ -554,7 +554,7 @@ Later, Ellis (p.229) concludes:
 ## 6. Games
 
 
-Early descriptions of games played in New Guinea and the Solomons are few in number and tend to be limited to children’s games.[^14] Adults would have found recreation in song and dance, often with feasting, and with activities which served both a productive and recreational function such as hunting and fishing for bonito. Wars were the main form of contests of tests of strength.
+Early descriptions of games played in New Guinea and the Solomons are few in number and tend to be limited to children’s games.[^14]: Adults would have found recreation in song and dance, often with feasting, and with activities which served both a productive and recreational function such as hunting and fishing for bonito. Wars were the main form of contests of tests of strength.
 
 As with music and dance, the nature of the games played in a community has been greatly influenced by Western contact. Even our earliest records of children’s games, such as in [Ellis 1831](Source#cldf:Ellis1831) for Tahiti, and [Erskine 1853](Source#cldf:Erskine1853) for Fiji, show missionary influence.
 

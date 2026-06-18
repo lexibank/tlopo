@@ -40,7 +40,7 @@ Below is the cognate set given in [vol.2:308](ContributionTable?anchor=p-308#cld
 
 Here we have a reconstruction with sufficient evidence to support three concurrent meanings: ‘year’, ‘season’ and ‘yam season cycle’. But some ethnographic comments give us pause. Codrington writes that in Mota, in the Banks Islands of northern Vanuatu:
 
-> There is no native notion of a year as a period of fixed time; the word _tau_ or _niulu_, which corresponds most nearly to the word ‘year’, signifies a season, and so now the space of time between recurring seasons: thus the yam has its _tau_, its seasons of five moons from the planting, when the erythrina is in flower, till the harvest, after the palolo has come and gone;[^1] the breadfruit has its _tau_ during the winter months; the banana and the cocoanut have no _tau_, being at all times in fruit.’ ([Codrington 1891](Source#cldf:Codrington1891):349)
+> There is no native notion of a year as a period of fixed time; the word _tau_ or _niulu_, which corresponds most nearly to the word ‘year’, signifies a season, and so now the space of time between recurring seasons: thus the yam has its _tau_, its seasons of five moons from the planting, when the erythrina is in flower, till the harvest, after the palolo has come and gone;[^1]: the breadfruit has its _tau_ during the winter months; the banana and the cocoanut have no _tau_, being at all times in fruit.’ ([Codrington 1891](Source#cldf:Codrington1891):349)
 
 [Fornander](Source#cldf:Fornander1878) ([1878](Source#cldf:Fornander1878):124) records the following for various parts of Polynesia:
 
@@ -48,7 +48,7 @@ Here we have a reconstruction with sufficient evidence to support three concurre
 
 Their evidence suggests that POc _&ast;taqun_ did not refer to a fixed period of time, but to a period that varied with context. In other words it was a name for any regularly recurring seasonal period. When we find languages using a reflex of _&ast;taqun_ to refer to ‘year’ it seems that, as in the Maori definition, it is being used as just one particular recurrent cycle: its length is irrelevant. A quote from [Jenness & Ballantyne](Source#cldf:JennessBallantyne1920) ([1920](Source#cldf:JennessBallantyne1920):160), writing about the Bwaidoga (PT) speakers of Goodenough Island in the D’Entrecasteaux Archipelago, reflects a similar concept, albeit with a different term. They write that
 
-> a native who wished to date some event that happened some time in the past might say that it occurred three _malamala_ ago, in the _avalata_ (north-west monsoon) season, i.e. between October and March;[^2] or in the yam time, from June to August; or he could be still more precise, and name the actual stage in the growth of the yams, and thereby narrow the period down to a single month.
+> a native who wished to date some event that happened some time in the past might say that it occurred three _malamala_ ago, in the _avalata_ (north-west monsoon) season, i.e. between October and March;[^2]: or in the yam time, from June to August; or he could be still more precise, and name the actual stage in the growth of the yams, and thereby narrow the period down to a single month.
 
 They tell us that _malamala_ is the name given both to a season ushered in by the sun at its northern zenith and also to the whole period covered by the sun’s annual movement, i.e. a year. Chowning’s (n.d.) dictionary of neighbouring Molima confirms the first definition: ‘period from December to April, time of big sun after planting, yamless period’. The ‘year’ definition is confirmed by Huckett, Lucht and Awadoudo’s (1992) dictionary of Iduna, a dialect of Bwaidoga, where _malamala_ is glossed as ‘year’. However, _malamala_ has a deeper history, as its Kilivila and Muyuw cognate is _milamala_ ‘palolo worm’, the risings of which were and are an important checkpoint in the Oceanic year ([§11.4.3](ContributionTable?anchor=s-11-4-3#cldf:6-11)). At some point in the past, a Bwaidoga speaker who said that something occurred three _malamala_ ago was saying that it occurred three palolo risings ago.
 
@@ -57,7 +57,7 @@ They tell us that _malamala_ is the name given both to a season ushered in by th
 
 Our conclusion is that POc speakers had a concept of a recurrent seasonal cycle, _&ast;taqun_, which could be applied to cycles of different durations including possibly the annual cycle. The corollary to this is that there was no POc term for the concept of a fixed, measurable block of time that westerners refer to as ‘year’.
 
-It is difficult to determine which terms for a year in Oceanic dictionaries reflect the longstanding usage of a term and which reflect an adjustment to the western fixed-term concept. Where terms for a year other than reflexes of _&ast;taqun_ have been adopted they typically come from horticulture or arboriculture, such that a salient annual event doubles as the term for an annual cycle. Examples in addition to those given on p297 include the following: In Dobu (PT) _yakʷara_, ‘last year’s garden’, has become the term for a year. In Kiriwina (PT) the term for the staple crop, _taytu_ ‘small yam’, also carries the meaning ‘year’. Tolo (SES) _uvi_ means both ‘yam’ and ‘year’. In the southeast Solomons languages spoken in Malaita and Makira there is a cognate set[^3] that refers to the yam harvest but includes ‘year’ among its senses: Lau _falisi_ ‘garden, yam harvest, year’, Kwaio _falisi_ ‘yam harvest, year’, ’Are’are _harisi_ ‘grass, small clover, yam harvest, year’, Arosi _harisi_ ‘year, season, crop’, Sa’a _halisi_ ‘harvest, crop, time of ripening, yam season, year’. The ’Are’are, Arosi and Sa’a dictionaries make the proviso that the denotation ‘year’ is a recent one. Other food crops with regular planting and harvesting seasons also assumed the added sense ‘year’. Thus Marovo (MM, New Georgia) _buruburu_ ‘_Canarium_ spp.’ also means ‘year’, the interval between two ripenings of canarium almonds ([Hviding 2005](Source#cldf:Hviding2005):107). Similarly Maringe _finoɣa_ ‘canarium harvest’, and To’aba’ita _ŋali_ ‘canarium nut tree and fruit’ all also have the sense ‘year’.[^4] In Mangaia in Eastern Polynesia, “in the premissionary times, the age [of a child] was counted by counting the number of breadfruit (_kuru_) harvests” ([Shibata 1999](Source#cldf:Shibata1999):110).
+It is difficult to determine which terms for a year in Oceanic dictionaries reflect the longstanding usage of a term and which reflect an adjustment to the western fixed-term concept. Where terms for a year other than reflexes of _&ast;taqun_ have been adopted they typically come from horticulture or arboriculture, such that a salient annual event doubles as the term for an annual cycle. Examples in addition to those given on p297 include the following: In Dobu (PT) _yakʷara_, ‘last year’s garden’, has become the term for a year. In Kiriwina (PT) the term for the staple crop, _taytu_ ‘small yam’, also carries the meaning ‘year’. Tolo (SES) _uvi_ means both ‘yam’ and ‘year’. In the southeast Solomons languages spoken in Malaita and Makira there is a cognate set[^3]: that refers to the yam harvest but includes ‘year’ among its senses: Lau _falisi_ ‘garden, yam harvest, year’, Kwaio _falisi_ ‘yam harvest, year’, ’Are’are _harisi_ ‘grass, small clover, yam harvest, year’, Arosi _harisi_ ‘year, season, crop’, Sa’a _halisi_ ‘harvest, crop, time of ripening, yam season, year’. The ’Are’are, Arosi and Sa’a dictionaries make the proviso that the denotation ‘year’ is a recent one. Other food crops with regular planting and harvesting seasons also assumed the added sense ‘year’. Thus Marovo (MM, New Georgia) _buruburu_ ‘_Canarium_ spp.’ also means ‘year’, the interval between two ripenings of canarium almonds ([Hviding 2005](Source#cldf:Hviding2005):107). Similarly Maringe _finoɣa_ ‘canarium harvest’, and To’aba’ita _ŋali_ ‘canarium nut tree and fruit’ all also have the sense ‘year’.[^4]: In Mangaia in Eastern Polynesia, “in the premissionary times, the age [of a child] was counted by counting the number of breadfruit (_kuru_) harvests” ([Shibata 1999](Source#cldf:Shibata1999):110).
 
 There are, however, indications that a common application of _&ast;taqun_ was to the complete cycle of yam growing. From the cognate set we learn that the year was equated with the yam season cycle in Buang, Tongan and Maori. [Kirch & Green](Source#cldf:KirchandGreen2001) ([2001](Source#cldf:KirchandGreen2001):267) comment that “in Western Polynesian languages, reflexes of PPN _&ast;taqu_ (e.g., [E Futunan] _taʔu_) refer not just to ‘season’, but more specifically to ‘yam season’.” Although yams, particularly Discorea alata, and taro, _Colocasia esculenta_, were both important staples for POc speakers ([vol.3:256](ContributionTable?anchor=p-256#cldf:3-9)), it was Discorea alata whose time of planting was critical. Taro is not seasonal, growing throughout the year. When people wanted to refer to a time equivalent to ‘last year’ or ‘next year’, they tended to do it by referring to their previous yam garden or their future yam garden.
 
@@ -72,13 +72,13 @@ In the light of this discussion the revised definition of POc _&ast;taqun_ given
 
 <a id="p-301"></a>
 
-While POc _&ast;taqun_ was the generic term for any seasonal cycle, specific seasons were separately named. The POc homeland in the Bismarck Archipelago, and indeed much of western Oceania, experience two seasons, strongly marked by wind and weather: the dry, when the southeast trades blow with reasonable consistency, and the wet or monsoon, when the less reliable northwesterlies blow. The names of the winds, POc _&ast;raki_ ‘southeast trades’ and POc _&ast;apaRat_ ‘northwest wind’[^5], almost certainly also denoted the dry and wet seasons respectively. The wet and dry seasons do not have sharp boundaries, however: the focus is on the events that define them.
+While POc _&ast;taqun_ was the generic term for any seasonal cycle, specific seasons were separately named. The POc homeland in the Bismarck Archipelago, and indeed much of western Oceania, experience two seasons, strongly marked by wind and weather: the dry, when the southeast trades blow with reasonable consistency, and the wet or monsoon, when the less reliable northwesterlies blow. The names of the winds, POc _&ast;raki_ ‘southeast trades’ and POc _&ast;apaRat_ ‘northwest wind’[^5]:, almost certainly also denoted the dry and wet seasons respectively. The wet and dry seasons do not have sharp boundaries, however: the focus is on the events that define them.
 
 Almost all Oceanic communities for which we have relevant information divide the year into these two main seasons, sometimes accompanied by a short season between them, but the names do not always reflect the POc terms. Thus Wogeo had the _kama_ ‘trade wind season’ and the _yavara_, ‘monsoon season’ (< POc _&ast;apaRat_) ([§11.5.1](ContributionTable?anchor=s-11-5-1#cldf:6-11).1). Maenge had _vinte_ ‘the wet’ (May–September) and _kaepâ_ ‘the dry’ (November–March) ([§11.5.1](ContributionTable?anchor=s-11-5-1#cldf:6-11).2). Barok has _awat_ (< POc _&ast;apaRat_) “identified with the traditional cycle of six lunations, [while] two _awat_ are encompassed by the sun’s annual circuit of the ecliptic” ([Wagner 1986](Source#cldf:Wagner1986):40). The two _awat_ are _awat ni nien_ ‘season of plenty’ and _awat nere loŋ_ ‘season of hunger’. Barok _awat_ has thus taken over the semantics of POc _&ast;taqun_. Tangga, spoken on small islands east of New Ireland, contributes no month names but offers _bāt ae us_, ‘the rainy season’ (November–March; _us_ ‘rain’) and _pisae_ ‘the sun’ or ‘dry season’ (May–September) ([Bell 1946](Source#cldf:Bell1946):143).
 
 Some of these names may have originally been allusions to crop-based seasons. [Lichtenberk](Source#cldf:Lichtenberk2008) ([2008](Source#cldf:Lichtenberk2008):177) writes that the To’aba’ita year was traditionally divided into two halves: six months of canarium almonds (April–September) and six months of strong winds (October–March). [Ivens](Source#cldf:Ivens1927) ([1927](Source#cldf:Ivens1927):397) writes that in Sa’a “practically there are two divisions of the year: _marāu_ or _āu_, the time associated with the canarium almonds [_ŋali_], and _oku_, the time associated with the palolo” (cf [§11.5.4](ContributionTable?anchor=s-11-5-4#cldf:6-11)). Mota had _maɣoto_ ‘Miscanthus grass’ (‘wet season’), _rara_ ‘_Erythrina_’ (‘dry season’), and _ud_ ‘palolo season’. [Kirch & Green’s](Source#cldf:KirchandGreen2001) ([2001](Source#cldf:KirchandGreen2001):260ff) detailed examination of time reckoning and the ritual cycle in Polynesia is summarised in 11.5.7.
 
-[Grimble](Source#cldf:Grimble1931) ([1931](Source#cldf:Grimble1931)) describes a Kiribati year of two seasons, marked by observation of _te auti_ ‘Pleiades’ from early December to early June,[^6] and _rimʷimāta_ ‘Antares’ from early June to early December. The year is considered to begin with the appearance of the Pleiades about 15 degrees above the eastern horizon just after sunset, in about the first week of December. It seems likely that Kiribati time reckoning has been influenced by Polynesian: two seasons are maintained, but are now star-based.
+[Grimble](Source#cldf:Grimble1931) ([1931](Source#cldf:Grimble1931)) describes a Kiribati year of two seasons, marked by observation of _te auti_ ‘Pleiades’ from early December to early June,[^6]: and _rimʷimāta_ ‘Antares’ from early June to early December. The year is considered to begin with the appearance of the Pleiades about 15 degrees above the eastern horizon just after sunset, in about the first week of December. It seems likely that Kiribati time reckoning has been influenced by Polynesian: two seasons are maintained, but are now star-based.
 
 A number of names like those above also serve as labels for what ethnographers sometimes describe as ‘months’, but we argue in [§11.5](ContributionTable?anchor=s-11-5#cldf:6-11) that these ‘months’ do not add up to anything like a calendar in the modern Western sense.
 
@@ -163,14 +163,14 @@ Although similar terms for the solstices have been noted in various parts of Pol
 ### 4.2. The stars
 
 
-Stars appear to move across the sky in a circle whose centre is the north or south celestial pole. Stars closer to the pole describe a smaller circle and never disappear from the night sky. Others describe a larger circle that takes them below the nighttime horizon: they traverse the sky invisibly during sunlight. The first pre-dawn rising of a star after a period of invisibility and the last post-dusk setting before invisibility had calendrical significance for many premodern peoples.[^7] But the event recognised in pre-modern communities is the first brief __apparent__ pre-dawn rising of the star, which occurs when the star is high enough above the horizon to be seen, perhaps two weeks later than its astronomical counterpart. Apparent risings are later than their astronomical counterparts and apparent settings earlier. On the basis of dates given in ethnographies, we assume that the apparent first or last rising/setting occurs when the star is 15 degrees above the horizon, but the actual date depends on the topography of the community’s environment and on weather.
+Stars appear to move across the sky in a circle whose centre is the north or south celestial pole. Stars closer to the pole describe a smaller circle and never disappear from the night sky. Others describe a larger circle that takes them below the nighttime horizon: they traverse the sky invisibly during sunlight. The first pre-dawn rising of a star after a period of invisibility and the last post-dusk setting before invisibility had calendrical significance for many premodern peoples.[^7]: But the event recognised in pre-modern communities is the first brief __apparent__ pre-dawn rising of the star, which occurs when the star is high enough above the horizon to be seen, perhaps two weeks later than its astronomical counterpart. Apparent risings are later than their astronomical counterparts and apparent settings earlier. On the basis of dates given in ethnographies, we assume that the apparent first or last rising/setting occurs when the star is 15 degrees above the horizon, but the actual date depends on the topography of the community’s environment and on weather.
 
 
 <a id="p-305"></a>
 
 These events affect all stars that rise and set. They appear to have been of especial importance in Nuclear Polynesian ([§11.5.8](ContributionTable?anchor=s-11-5-8#cldf:6-11)), where certain month names are associated with the rising or setting of a given star. PNPn _&ast;tolu_ and PEPn _&ast;takulua_ evidently referred respectively to the pre-dawn rising of the middle star in Orion’s Belt and of Sirius, PNPn _&ast;tākelo_ to the post-dusk rising of Betelgeuse. The most important sidereal checkpoints for traditional Oceanic speakers were the risings and settings of the Pleiades ([§11.2.1](ContributionTable?anchor=s-11-2-1#cldf:6-11)), but it can scarcely be the case that the Pleiades were the only night sky events of which they took notice.
 
-With the single exception of the Pleiades, knowledge of stars and their movements seems today scarcely to exist in western Oceanic communities.[^8] The only record there of stars being used as calendar reference points comes from two closely related communities, Kilivila speakers of the Trobriand Islands and Muyuw speakers from nearby Woodlark Island ([§11.5.2](ContributionTable?anchor=s-11-5-2#cldf:6-11).1.1). A far more detailed awareness of stars has been retained in Micronesia and Polynesia, no doubt due to their importance in navigation ([Lewis 1972](Source#cldf:Lewis1972)) ([vol.2, ch.6](ContributionTable#cldf:2-6)). Here one finds month names that are simultaneously star names. These terms, however, are never cognate with those in Kilivila and Muyuw.
+With the single exception of the Pleiades, knowledge of stars and their movements seems today scarcely to exist in western Oceanic communities.[^8]: The only record there of stars being used as calendar reference points comes from two closely related communities, Kilivila speakers of the Trobriand Islands and Muyuw speakers from nearby Woodlark Island ([§11.5.2](ContributionTable?anchor=s-11-5-2#cldf:6-11).1.1). A far more detailed awareness of stars has been retained in Micronesia and Polynesia, no doubt due to their importance in navigation ([Lewis 1972](Source#cldf:Lewis1972)) ([vol.2, ch.6](ContributionTable#cldf:2-6)). Here one finds month names that are simultaneously star names. These terms, however, are never cognate with those in Kilivila and Muyuw.
 
 
 <a id="s-4-2-1"></a>
@@ -178,16 +178,16 @@ With the single exception of the Pleiades, knowledge of stars and their movement
 #### 4.2.1. The Pleiades
 
 
-The Pleiades are a small bright patch of stars with an annual orbit such that at times they disappear from the night sky. Their significance as a checkpoint may have formed part of the corporate memory that the ancestors of POc speakers brought with them from a former homeland. Their presence with similar functions in languages across the Indo-Malaysian archipelago ([Forth 1983](Source#cldf:Forth1983); [Ammarell 1988](Source#cldf:Ammarell1988)) suggests that this was true at least as far back as PCEMP.[^9] The Pleiades have been recognised as significant calendrical markers throughout the Oceanic world, although the timing of their appearance, and thus the particular event(s) they mark, have changed by about five weeks in the approximately 3000 years since POc was spoken[^10].
+The Pleiades are a small bright patch of stars with an annual orbit such that at times they disappear from the night sky. Their significance as a checkpoint may have formed part of the corporate memory that the ancestors of POc speakers brought with them from a former homeland. Their presence with similar functions in languages across the Indo-Malaysian archipelago ([Forth 1983](Source#cldf:Forth1983); [Ammarell 1988](Source#cldf:Ammarell1988)) suggests that this was true at least as far back as PCEMP.[^9]: The Pleiades have been recognised as significant calendrical markers throughout the Oceanic world, although the timing of their appearance, and thus the particular event(s) they mark, have changed by about five weeks in the approximately 3000 years since POc was spoken[^10]:.
 
-The dates of the Pleiades’ apparent risings and settings in the year of writing (2016) and in 1200 BC (approximately when POc was spoken) at Kimbe, New Britain, are given in [Table 11.1](#table-11.1). Kimbe is chosen as it is within the assumed region occupied by POc speakers. In Apia, Samoa, the dates are just a day later.[^11]
+The dates of the Pleiades’ apparent risings and settings in the year of writing (2016) and in 1200 BC (approximately when POc was spoken) at Kimbe, New Britain, are given in [Table 11.1](#tab-11.1). Kimbe is chosen as it is within the assumed region occupied by POc speakers. In Apia, Samoa, the dates are just a day later.[^11]:
 
 
 <a id="p-306"></a>
 
-Areas in which the Pleiades are known to provide checkpoints include the north New Guinea coast (Wogeo, [Table 11.10](#table-11.10) in [§11.5.1](ContributionTable?anchor=s-11-5-1#cldf:6-11).1), around the Huon Peninsula of New Guinea (see below), in Mangap-Mbula ([Table 11.12](#table-11.12) in [§11.5.1](ContributionTable?anchor=s-11-5-1#cldf:6-11).3), in Barok ([Table 11.18](#table-11.18) in [§11.5.3](ContributionTable?anchor=s-11-5-3#cldf:6-11).2), in Micronesia ([Table 11.22](#table-11.22) in [§11.5.7](ContributionTable?anchor=s-11-5-7#cldf:6-11)) and Polynesia ([Table 11.23](#table-11.23) in [§11.5.8](ContributionTable?anchor=s-11-5-8#cldf:6-11).1).
+Areas in which the Pleiades are known to provide checkpoints include the north New Guinea coast (Wogeo, [Table 11.10](#tab-11.10) in [§11.5.1](ContributionTable?anchor=s-11-5-1#cldf:6-11).1), around the Huon Peninsula of New Guinea (see below), in Mangap-Mbula ([Table 11.12](#tab-11.12) in [§11.5.1](ContributionTable?anchor=s-11-5-1#cldf:6-11).3), in Barok ([Table 11.18](#tab-11.18) in [§11.5.3](ContributionTable?anchor=s-11-5-3#cldf:6-11).2), in Micronesia ([Table 11.22](#tab-11.22) in [§11.5.7](ContributionTable?anchor=s-11-5-7#cldf:6-11)) and Polynesia ([Table 11.23](#tab-11.23) in [§11.5.8](ContributionTable?anchor=s-11-5-8#cldf:6-11).1).
 
-<a id="table-11.1"> </a>
+<a id="tab-11.1"> </a>
 
 : __Table 11.1__     Apparent risings and settings of the Pleiades
 
@@ -229,7 +229,7 @@ Yabem _dam-saŋiŋ_ is a compound which [Streicher](Source#cldf:Streicher1982) (
 
 > People ask each other, “Have the Pleiades disappeared from the western sky or not?” Disappearance of the Pleiades marks the end of the dry and the beginning of the wet season. Hence _dam_ ‘Pleiades’ and _saŋiŋ_ ‘enquiry’.
 
-The Yabem term thus refers to the last post-dusk setting of the Pleiades in late April or early May, and the Numbami term evidently marked the same seasonal transition. The Sio and Mangap terms, however, seem to refer to their first post-dusk rising in early December, and an ethnographic note in [Bugenhagen & Bugenhagen](Source#cldf:BugenhagenandBugenhagen2007b) ([2007b](Source#cldf:BugenhagenandBugenhagen2007b)) says that this marked the canarium trees beginning to form buds ([Table 11.12](#table-11.12)).
+The Yabem term thus refers to the last post-dusk setting of the Pleiades in late April or early May, and the Numbami term evidently marked the same seasonal transition. The Sio and Mangap terms, however, seem to refer to their first post-dusk rising in early December, and an ethnographic note in [Bugenhagen & Bugenhagen](Source#cldf:BugenhagenandBugenhagen2007b) ([2007b](Source#cldf:BugenhagenandBugenhagen2007b)) says that this marked the canarium trees beginning to form buds ([Table 11.12](#tab-11.12)).
 
 Although the Pleiades carry less weight for the Maenge of New Britain (NNG), their appearance and disappearance are noted. [Panoff](Source#cldf:Panoff1969) ([1969](Source#cldf:Panoff1969):156) writes that
 
@@ -256,7 +256,7 @@ In his discussion of local knowledge of the heavenly bodies in north Vanuatu, [C
 
 The Pleiades play a significant calendrical role throughout Micronesia where it takes its place in a sequence of twelve stars or constellations that serve as monthly timekeepers ([§11.5.7](ContributionTable?anchor=s-11-5-7#cldf:6-11)).
 
-The calendrical uses of the Pleiades described above refer to single events. In some EOc languages, however, this has developed into a marking of the two seasons into which the year is divided ([§11.3](ContributionTable?anchor=s-11-3#cldf:6-11)).[^12]
+The calendrical uses of the Pleiades described above refer to single events. In some EOc languages, however, this has developed into a marking of the two seasons into which the year is divided ([§11.3](ContributionTable?anchor=s-11-3#cldf:6-11)).[^12]:
 
 [Kirch & Green](Source#cldf:KirchandGreen2001) ([2001](Source#cldf:KirchandGreen2001):260ff) have made a detailed examination of the reckoning of time and the ritual cycle in Polynesia, and we have drawn on their account for much of the following. They quote from early descriptions – Tahitian King Pomare in 1818 (quoted by [Henry 1928](Source#cldf:Henry1928)), and [Gill](Source#cldf:Gill1876) ([1876](Source#cldf:Gill1876)) on Mangaia, among others – showing that the risings and settings of the Pleiades were widely observed in many Polynesian societies, “where they were used to mark the change in seasons and/or to mark the commencement of the year” ([Kirch & Green 2001](Source#cldf:KirchandGreen2001):262). In this they concur with [Makemson](Source#cldf:Makemson1941) ([1941](Source#cldf:Makemson1941):76) who wrote that
 
@@ -306,7 +306,7 @@ However, [Hogbin](Source#cldf:Hogbin1938b) ([1938b](Source#cldf:Hogbin1938b):132
 
 Although there are obvious errors in linking the rising of the palolo with a fixed solar event rather than a more mobile lunar one, as Mondragón notes, the association is presumably a remnant of some earlier calendrical ritual which has now been mistakenly fixed into the western calendar.
 
-Because the palolo worm is tied directly to the lunar cycle, it plays a substantial role in the naming of lunar months. Many languages with month names that include a palolo term have a pair of such names associated with the small and big risings and denoting successive months around October and November. A number (Sa’a, ’Are’are, Loh, Mota, Mwotlap) use the term for palolo to refer to a season that may extend for several more months, while in Kwaio its regular appearance marks the span of a year. The palolo occurs in month names in a few Western Oceanic languages (Kairiru _munuan_,[^13] Wogeo _manuan_, Yabem _igeyaŋ_, Bing _yagyahag_, Kilivila/Muyuw _milamala_), but the only reconstructed terms are PEOc _&ast;(o,u)du_ ‘palolo worm’ and PCP _&ast;balolo_ ‘palolo worm, season name’ ([vol.4:212](ContributionTable?anchor=p-212#cldf:4-4)). Below is a list of SES and NCV palolo month names. From these it is clear that PEOc would have had a term meaning literally ‘big palolo’ referring to the month of the major rising, with a range of possible terms for ‘big’.[^14]
+Because the palolo worm is tied directly to the lunar cycle, it plays a substantial role in the naming of lunar months. Many languages with month names that include a palolo term have a pair of such names associated with the small and big risings and denoting successive months around October and November. A number (Sa’a, ’Are’are, Loh, Mota, Mwotlap) use the term for palolo to refer to a season that may extend for several more months, while in Kwaio its regular appearance marks the span of a year. The palolo occurs in month names in a few Western Oceanic languages (Kairiru _munuan_,[^13]: Wogeo _manuan_, Yabem _igeyaŋ_, Bing _yagyahag_, Kilivila/Muyuw _milamala_), but the only reconstructed terms are PEOc _&ast;(o,u)du_ ‘palolo worm’ and PCP _&ast;balolo_ ‘palolo worm, season name’ ([vol.4:212](ContributionTable?anchor=p-212#cldf:4-4)). Below is a list of SES and NCV palolo month names. From these it is clear that PEOc would have had a term meaning literally ‘big palolo’ referring to the month of the major rising, with a range of possible terms for ‘big’.[^14]:
 
 
 <a id="p-311"></a>
@@ -320,7 +320,7 @@ Semantically the Fijian languages agree with the languages above in reflecting P
 
 <a id="p-312"></a>
 
-Like Fijian, Polynesian languages reflect PCP _&ast;balolo_ ‘palolo worm’, but differ in replacing ‘small’ and ‘big’ with reflexes of PPn _&ast;muqa_ ‘first’ and &ast;muli ‘last’. Palolo risings have not been reported in Polynesia outside Tonga and Samoa, and month names have become divorced from their original reference and are now simply recurring names in a list. Even in Samoan the terms refer inexplicably to two non-palolo months.[^15]
+Like Fijian, Polynesian languages reflect PCP _&ast;balolo_ ‘palolo worm’, but differ in replacing ‘small’ and ‘big’ with reflexes of PPn _&ast;muqa_ ‘first’ and &ast;muli ‘last’. Palolo risings have not been reported in Polynesia outside Tonga and Samoa, and month names have become divorced from their original reference and are now simply recurring names in a list. Even in Samoan the terms refer inexplicably to two non-palolo months.[^15]:
 
 [6-11-4-3-312-pn-efutunan-palolomua](cf.csv#cldf:6-11-4-3-312-pn-efutunan-palolomua)
 
@@ -334,14 +334,14 @@ Although no POc term for palolo can be reconstructed ([vol.4:212](ContributionTa
 ### 4.4. Yam or taro cultivation
 
 
-The one marker of the time of year that would have been consistently recognised by all members of a community was the stage of development of the staple crop, particularly the yam, _Dioscorea_ spp., on which many communities depended for their survival ([vol.3:258](ContributionTable?anchor=p-258#cldf:3-9)–261). Yams are seasonal, with planning essential for prior garden preparation and sowing. Once established, the developing vines are usually given a stake or frame for support. Leaves change colour and die off, indicating the appropriate time for harvesting. The yam crop effectively serves as a kind of time line along which various points may be identified to mark a particular occasion or event. Thus, almost the whole life of a community, the times for greatest gardening activity, for rituals, for feasting, for trading, would be dependent on the timing of the staple crop. So it is not surprising that month names based on the various stages of yam cultivation, are common in Oceanic languages such as Kwaio ([Table 11.3](#table-11.3)), Mota ([Table 11.4](#table-11.4)), Fijian ([Table 11.5](#table-11.5)) and Tongan ([Table 11.2](#table-11.2)), although they do not extend beyond Tonga, which lies at the eastern extreme of cultures practising yam cultivation. Tongan itself, however, has one of the most articulated (or perhaps best described, by [Collocott 1922](Source#cldf:Collocott1922)) sets of agriculturally based month names.
+The one marker of the time of year that would have been consistently recognised by all members of a community was the stage of development of the staple crop, particularly the yam, _Dioscorea_ spp., on which many communities depended for their survival ([vol.3:258](ContributionTable?anchor=p-258#cldf:3-9)–261). Yams are seasonal, with planning essential for prior garden preparation and sowing. Once established, the developing vines are usually given a stake or frame for support. Leaves change colour and die off, indicating the appropriate time for harvesting. The yam crop effectively serves as a kind of time line along which various points may be identified to mark a particular occasion or event. Thus, almost the whole life of a community, the times for greatest gardening activity, for rituals, for feasting, for trading, would be dependent on the timing of the staple crop. So it is not surprising that month names based on the various stages of yam cultivation, are common in Oceanic languages such as Kwaio ([Table 11.3](#tab-11.3)), Mota ([Table 11.4](#tab-11.4)), Fijian ([Table 11.5](#tab-11.5)) and Tongan ([Table 11.2](#tab-11.2)), although they do not extend beyond Tonga, which lies at the eastern extreme of cultures practising yam cultivation. Tongan itself, however, has one of the most articulated (or perhaps best described, by [Collocott 1922](Source#cldf:Collocott1922)) sets of agriculturally based month names.
 
 
 <a id="p-313"></a>
 
-At the opposite extreme, there are almost no Western Oceanic month names that directly denote stages of yam cultivation. However, certain Sinaugoro names refer indirectly to yam growing ([Table 11.16](#table-11.16) in [§11.5.2](ContributionTable?anchor=s-11-5-2#cldf:6-11).2). The term _ɣʷa-koli_ ‘April approx.’ means ‘month of no food’ (_ɣue_ ‘moon, month’, _koli_ ‘finished’), referring to the time of hunger, while _ɣʷa-ɣaniɣani_ ‘May approx.’ means ‘month of eating’ (_ɣaniɣani_ ‘eating, food’) heralding harvest after _ɣʷa-koli_.
+At the opposite extreme, there are almost no Western Oceanic month names that directly denote stages of yam cultivation. However, certain Sinaugoro names refer indirectly to yam growing ([Table 11.16](#tab-11.16) in [§11.5.2](ContributionTable?anchor=s-11-5-2#cldf:6-11).2). The term _ɣʷa-koli_ ‘April approx.’ means ‘month of no food’ (_ɣue_ ‘moon, month’, _koli_ ‘finished’), referring to the time of hunger, while _ɣʷa-ɣaniɣani_ ‘May approx.’ means ‘month of eating’ (_ɣaniɣani_ ‘eating, food’) heralding harvest after _ɣʷa-koli_.
 
-<a id="table-11.2"> </a>
+<a id="tab-11.2"> </a>
 
 : __Table 11.2__     Tongan month names that allude to yam cultivation
 
@@ -356,16 +356,16 @@ At the opposite extreme, there are almost no Western Oceanic month names that di
 | 09-10 | _fuufuunekinaŋ_   | ‘full leafiness’                | The yams planted around June and July are now in full leaf.                                                                                                                                                                                                                         |
 | 11-12 | _tanu-maŋa_       | ‘throwing soil on branch, fork’ | A growing yam is likely to project slightly above the ground. Frequently a small yam grows down from the same stem thus making a branch or fork on the head of the root. In this month if the head of a yam appears forked (_maŋa_), the gardener banks it over with soil (_tanu_). |
 
-Other month name sets that refer to agriculture are from the SE Solomons and Vanuatu, and refer to stages of yam cultivation. [Table 11.3](#table-11.3) lists Kwaio (SES) month names that refer to such stages.
+Other month name sets that refer to agriculture are from the SE Solomons and Vanuatu, and refer to stages of yam cultivation. [Table 11.3](#tab-11.3) lists Kwaio (SES) month names that refer to such stages.
 
-Loh (NCV) month names are set out in [Table 11.20](#table-11.20) in [§11.5.5](ContributionTable?anchor=s-11-5-5#cldf:6-11). Here the colour terms in _n’ʉt mələɣɛhə_ ‘green palolo (January)’ and _n’ʉt meməʈarə_ ‘red palolo (February)’ refer to the leaves of the yam, not to the palolo.
+Loh (NCV) month names are set out in [Table 11.20](#tab-11.20) in [§11.5.5](ContributionTable?anchor=s-11-5-5#cldf:6-11). Here the colour terms in _n’ʉt mələɣɛhə_ ‘green palolo (January)’ and _n’ʉt meməʈarə_ ‘red palolo (February)’ refer to the leaves of the yam, not to the palolo.
 
-[Codrington](Source#cldf:Codrington1891) ([1891](Source#cldf:Codrington1891)) lists a set of alternative month names in Mota ([Table 11.4](#table-11.4)) which clearly refer to gardening activities, and these are echoed in the limited data available from central and southern Vanuatu. Thus Atchin (Malakula) _hil-hilɛn_ ‘name of a feast’, literally ‘digging up’ and _ruwan_ ‘clearing (forest)’. Two other Atchin month names echo the Sinaugoro pair above: _boŋ hoal wele_ ‘days of little food’ and _boŋ hoal lɛp_ ‘days of much food’. [Crowley](Source#cldf:Crowley1998) ([1998](Source#cldf:Crowley1998):154) notes that in Sye (SV) some month names refer to the yam cycle. They consist of _mov_ and a verb. Thus _mov-ɣorovoh_ (August) where _ɣorovoh_ means ‘s/he cleared a garden site’ is ‘month of clearing a garden site’. Similarly _mov-ɣerevei_ (September) ‘month of trimming’, _mov-ɣowi_ (November) ‘month of planting’.
+[Codrington](Source#cldf:Codrington1891) ([1891](Source#cldf:Codrington1891)) lists a set of alternative month names in Mota ([Table 11.4](#tab-11.4)) which clearly refer to gardening activities, and these are echoed in the limited data available from central and southern Vanuatu. Thus Atchin (Malakula) _hil-hilɛn_ ‘name of a feast’, literally ‘digging up’ and _ruwan_ ‘clearing (forest)’. Two other Atchin month names echo the Sinaugoro pair above: _boŋ hoal wele_ ‘days of little food’ and _boŋ hoal lɛp_ ‘days of much food’. [Crowley](Source#cldf:Crowley1998) ([1998](Source#cldf:Crowley1998):154) notes that in Sye (SV) some month names refer to the yam cycle. They consist of _mov_ and a verb. Thus _mov-ɣorovoh_ (August) where _ɣorovoh_ means ‘s/he cleared a garden site’ is ‘month of clearing a garden site’. Similarly _mov-ɣerevei_ (September) ‘month of trimming’, _mov-ɣowi_ (November) ‘month of planting’.
 
 
 <a id="p-314"></a>
 
-<a id="table-11.3"> </a>
+<a id="tab-11.3"> </a>
 
 : __Table 11.3__  Kwaio month names that allude to yam cultivation ([Keesing 1975](Source#cldf:Keesing1975))
 
@@ -378,7 +378,7 @@ Loh (NCV) month names are set out in [Table 11.20](#table-11.20) in [§11.5.5](C
 |  08 | _ʔeli-ladāʔi_      | _ʔeli_ ‘dig’, _lada_ ‘dig with a stick’                        | August, September and October                                         |
 |  11 | _kai-laŋaʔa_       | _kai_ ‘yam’, _laŋaʔa_ ‘garden’                                 | yams are ready to produce first shoots, roughly November and December |
 
-<a id="table-11.4"> </a>
+<a id="tab-11.4"> </a>
 
 : __Table 11.4__      Mota yam cycle ‘months’
 
@@ -393,7 +393,7 @@ Loh (NCV) month names are set out in [Table 11.20](#table-11.20) in [§11.5.5](C
 | 11    | _ɣoro_ (_ɣoroɣoro_ ‘cutting of yam vines’)                                | ‘dig (tubers up with digging stick)’            |                                                |
 | 12    | _umʷa_ ‘clear away growth from a  garden, the first stage in preparation’ | ‘clearing garden’                               | _&ast;quma_ ‘garden’, [vol.1:117](ContributionTable?anchor=p-117#cldf:1-5)                    |
 
-<a id="table-11.5"> </a>
+<a id="tab-11.5"> </a>
 
 : __Table 11.5__         Terms in Wayan Fijian that denote stages of yam cultivation
 
@@ -408,7 +408,7 @@ Loh (NCV) month names are set out in [Table 11.20](#table-11.20) in [§11.5.5](C
 
 <a id="p-315"></a>
 
-There are terms in Wayan Fijian ([Table 11.5](#table-11.5)) that look suspiciously like month names as they begin with _vula_ ‘moon, month’, but it is clear from the period lengths they denote (in the leftmost column) that they here mean ‘season, time of year’, as [Pawley & Sayaba](Source#cldf:PawleyandSayaba2022) ([2022](Source#cldf:PawleyandSayaba2022)) note. The same is probably true of the similar expressions in Bauan Fijian in [Capell](Source#cldf:Capell1941) ([1941](Source#cldf:Capell1941)).
+There are terms in Wayan Fijian ([Table 11.5](#tab-11.5)) that look suspiciously like month names as they begin with _vula_ ‘moon, month’, but it is clear from the period lengths they denote (in the leftmost column) that they here mean ‘season, time of year’, as [Pawley & Sayaba](Source#cldf:PawleyandSayaba2022) ([2022](Source#cldf:PawleyandSayaba2022)) note. The same is probably true of the similar expressions in Bauan Fijian in [Capell](Source#cldf:Capell1941) ([1941](Source#cldf:Capell1941)).
 
 
 <a id="s-4-5"></a>
@@ -416,11 +416,11 @@ There are terms in Wayan Fijian ([Table 11.5](#table-11.5)) that look suspicious
 ### 4.5. _Canarium_ arboriculture
 
 
-_Canarium_ arboriculture was practised in New Guinea probably for millennia before the arrival of Oceanic speakers. There are numerous tree species of the genus _Canarium_. Those grown by Oceanic speakers are discussed and terms for them reconstructed in vol.3. POc _&ast;[ka]ŋaRi_ referred to C. Indicum and probably was also used as the generic term ([vol.3:312](ContributionTable?anchor=p-312#cldf:3-11)–317). The edible fruit is often called the canarium nut or canarium almond.[^16]
+_Canarium_ arboriculture was practised in New Guinea probably for millennia before the arrival of Oceanic speakers. There are numerous tree species of the genus _Canarium_. Those grown by Oceanic speakers are discussed and terms for them reconstructed in vol.3. POc _&ast;[ka]ŋaRi_ referred to C. Indicum and probably was also used as the generic term ([vol.3:312](ContributionTable?anchor=p-312#cldf:3-11)–317). The edible fruit is often called the canarium nut or canarium almond.[^16]:
 
-_Canarium_ almonds continue to be highly valued in Near Oceania and Vanuatu because they are good eaten raw or smoked, and pounded almonds are an essential ingredient in much appreciated oily puddings. As a result, their annual harvest in July and August has given rise to various ceremonies and rituals ([vol.3:314](ContributionTable?anchor=p-314#cldf:3-11)), and these have come to mark certain months of the year in various communities in Near Oceania.[^17]
+_Canarium_ almonds continue to be highly valued in Near Oceania and Vanuatu because they are good eaten raw or smoked, and pounded almonds are an essential ingredient in much appreciated oily puddings. As a result, their annual harvest in July and August has given rise to various ceremonies and rituals ([vol.3:314](ContributionTable?anchor=p-314#cldf:3-11)), and these have come to mark certain months of the year in various communities in Near Oceania.[^17]:
 
-The most extreme instance of canarium-based month names in the data is in Mangap (NNG) from [Bugenhagen & Bugenhagen 2007b](Source#cldf:BugenhagenandBugenhagen2007b), listed in [Table 11.12](#table-11.12) in [§11.5.1](ContributionTable?anchor=s-11-5-1#cldf:6-11).3. The ethnographic definitions shown in the “Accompanying notes” column of [Table 11.12](#table-11.12) all refer to canarium (Tok Pisin _galip_) trees.
+The most extreme instance of canarium-based month names in the data is in Mangap (NNG) from [Bugenhagen & Bugenhagen 2007b](Source#cldf:BugenhagenandBugenhagen2007b), listed in [Table 11.12](#tab-11.12) in [§11.5.1](ContributionTable?anchor=s-11-5-1#cldf:6-11).3. The ethnographic definitions shown in the “Accompanying notes” column of [Table 11.12](#tab-11.12) all refer to canarium (Tok Pisin _galip_) trees.
 
 The Roviana month names in 11.4.5 are from [Waterhouse’s](Source#cldf:Waterhouse1949) ([1949](Source#cldf:Waterhouse1949)) dictionary. Only _muzara_ ‘approx. October’ is assigned to a western month. The month _haele_ can be assigned to July–August as its gloss (‘climb’) and the accomanying note indicate that it is the time of the canarium harvest. The month _lomu kubata_ must also be somewhere around harvest time.
 
@@ -435,11 +435,11 @@ Not much appears to be known about the Roviana canarium cult, but the month name
 
 > Its usage so permeated peoples’ ceremonial and dietary lives that some ancient and special relationship is connotated particularly through usage as a sacrificial offering and as a principal symbol of land tenure and authority … The uses and interactions with _Canarium_ by the Babatana and Ririo are extensive and permeate most aspects of traditional life. It is difficult to imagine these cultures in the absence of _Canarium_.
 
-Various month names referring to canarium almonds in other Oceanic languages are listed in [Table 11.7](#table-11.7). These mostly denote the time when the canarium almonds are first ready for harvesting, and the geographic distribution of these names further attests to the cultural importance of canarium.
+Various month names referring to canarium almonds in other Oceanic languages are listed in [Table 11.7](#tab-11.7). These mostly denote the time when the canarium almonds are first ready for harvesting, and the geographic distribution of these names further attests to the cultural importance of canarium.
 
 No reconstructions of month names involving the canarium almond can be made, even at quite local levels, but the data and discussion in this subsection indicate that in cultures of Near Oceania the canarium almond is more important than any other food stuffs except the yam ([§11.4.4](ContributionTable?anchor=s-11-4-4#cldf:6-11)), and that it has (or had, traditionally) a significance that goes beyond nutrition. In the western Solomons there was a canarium cult. Whether or not the naming of months for events in the canarium cycle reflects an earlier canarium cult, is unknown. However, the cultural significance of the canarium is widely enough spread in Near Oceania to suggest that if there was a term in POc-speaking communities labelling a lunar month around June, July and August it was likely to be one that referred to the ripening or harvesting of canarium almonds.
 
-<a id="table-11.6"> </a>
+<a id="tab-11.6"> </a>
 
 : __Table 11.6__      Roviana month names
 
@@ -453,7 +453,7 @@ No reconstructions of month names involving the canarium almond can be made, eve
 | _susuni_      | _suni_ ‘prick’                                | month name; the season for general offering of smoked canarium almonds at a _hope_                                                   |
 | _tome-laŋono_ | _tome_ ‘hide’, _laŋono_ placename             | month name: canarium almonds are then packed in special baskets, and put away to be smoked. Some are taken to the _hope_ of Langono. |
 
-<a id="table-11.7"> </a>
+<a id="tab-11.7"> </a>
 
 : __Table 11.7__      Oceanic month names that refer to the canarium almond
 
@@ -476,16 +476,16 @@ No reconstructions of month names involving the canarium almond can be made, eve
 ### 4.6. Wild plants
 
 
-The Maenge calendar ([Table 11.11](#table-11.11), [§11.5.1](ContributionTable?anchor=s-11-5-1#cldf:6-11).2) represents the most extreme instance of months being named for wild plants, but such names are fairly common across Oceania. One of the most widespread is the flowering of the coral tree or erythrina (POc _&ast;rarap_ ‘_Erythrina_ spp.’, POc _&ast;baR[baR]_ ‘_Erythrina variegata_’; [vol.3:158](ContributionTable?anchor=p-158#cldf:3-5)–161), with distinctive bright orange-red spiral flowers at the end of each branch. It occurs in month names in Maenge (NNG), Sinaugoro (PT; [Table 11.16](#table-11.16)) and Mota (NCV; [Table 11.20](#table-11.20)). The tree is often a salient feature in and around Melanesian coastal villages, and its flowering is often taken as an indicator that it is time to plant yams. Other references to the erythrina are less specific (or less well understood). Two NCV languages of Malakula refer to the erythrina. They are Avava, which has the name _ivlemial_ for November, glossed ‘red, _Erythrina variegata_’ by Crowley (2005), and Atchin, for which [Capell & Layard](Source#cldf:CapellandLayard1980) ([1980](Source#cldf:CapellandLayard1980)) give the month names _rere tsar_ ‘the leaves of the erythrina are falling’ (_tsar_ ‘erythrina’) and _ni-rere_ ‘[the erythrina is] red’.
+The Maenge calendar ([Table 11.11](#tab-11.11), [§11.5.1](ContributionTable?anchor=s-11-5-1#cldf:6-11).2) represents the most extreme instance of months being named for wild plants, but such names are fairly common across Oceania. One of the most widespread is the flowering of the coral tree or erythrina (POc _&ast;rarap_ ‘_Erythrina_ spp.’, POc _&ast;baR[baR]_ ‘_Erythrina variegata_’; [vol.3:158](ContributionTable?anchor=p-158#cldf:3-5)–161), with distinctive bright orange-red spiral flowers at the end of each branch. It occurs in month names in Maenge (NNG), Sinaugoro (PT; [Table 11.16](#tab-11.16)) and Mota (NCV; [Table 11.20](#tab-11.20)). The tree is often a salient feature in and around Melanesian coastal villages, and its flowering is often taken as an indicator that it is time to plant yams. Other references to the erythrina are less specific (or less well understood). Two NCV languages of Malakula refer to the erythrina. They are Avava, which has the name _ivlemial_ for November, glossed ‘red, _Erythrina variegata_’ by Crowley (2005), and Atchin, for which [Capell & Layard](Source#cldf:CapellandLayard1980) ([1980](Source#cldf:CapellandLayard1980)) give the month names _rere tsar_ ‘the leaves of the erythrina are falling’ (_tsar_ ‘erythrina’) and _ni-rere_ ‘[the erythrina is] red’.
 
 Also featuring in month names are two tall grass species. In Western Oceanic this is usually _Saccharum edule_ (PWOc _&ast;tabuqaR_, [vol.3:301](ContributionTable?anchor=p-301#cldf:3-10)), known in Papua New Guinea as _pitpit_, a tall grass related to sugarcane (_Saccharum officinarum_). It is cultivated for the unopened inflorescence at the tip of the cane, which is harvested as a seasonal vegetable that is either roasted in its leafy sheath or cooked in coconut cream with other vegetables. The other grass is _Miscanthus floridulus_ (POc _&ast;pi(y)uŋ_, [vol.3:253](ContributionTable?anchor=p-253#cldf:3-8)), a reed-like grass which grows on dry hillsides, to about 2 metres tall.
 
-[Table 11.8](#table-11.8) shows that the month names that refer to the two grasses are more or less in complementary distribution, with _Saccharum edule_ in NNG and _Miscanthus floridulus_ in SES, Vanuatu and Fiji. The event that is marked across the languages in [Table 11.8](#table-11.8) is the flowering of the grass, usually in April or May (Bariai, Yabem, Arosi and Wayan Fijian). It is at least plausible to suggest that this month was also labelled in this way in POc, and that terms for _Saccharum edule_ were replaced by terms for _Miscanthus floridulus_ as Oceanic speakers moved eastward.
+[Table 11.8](#tab-11.8) shows that the month names that refer to the two grasses are more or less in complementary distribution, with _Saccharum edule_ in NNG and _Miscanthus floridulus_ in SES, Vanuatu and Fiji. The event that is marked across the languages in [Table 11.8](#tab-11.8) is the flowering of the grass, usually in April or May (Bariai, Yabem, Arosi and Wayan Fijian). It is at least plausible to suggest that this month was also labelled in this way in POc, and that terms for _Saccharum edule_ were replaced by terms for _Miscanthus floridulus_ as Oceanic speakers moved eastward.
 
 
 <a id="p-318"></a>
 
-<a id="table-11.8"> </a>
+<a id="tab-11.8"> </a>
 
 : __Table 11.8__     Month names involving tall grasses in Oceanic languages
 
@@ -494,10 +494,10 @@ Also featuring in month names are two tall grass species. In Western Oceanic thi
 | Bariai (NNG)           |                      | 04  | _tabual aea laoe_ | _tabual_ ‘_Saccharum edule_, eaten’, _laoe_ ‘a fruit’s time of ripeness’ | season characterised by good weather near the month of April when _Saccharum edule_ ripens                                                                                                                         |
 | Mangseng (NNG)         |                      | 12  | _tovu=po epei ko_ | _tovu=po_ ‘_Saccharum edule_ season’, _epei_ ‘half’, _ko_ ‘there’        | middle of _Saccharum edule_ season                                                                                                                                                                                 |
 | Yabem (NNG)            | [Streicher 1982](Source#cldf:Streicher1982)       | 05  | _dabuʔ-benoŋ_     | _dabuʔ_ ‘_Saccharum edule_’, _benoŋ_ ‘calm’.                             | the time between the dry and the rainy seasons; the time of ripening of _Saccharum edule_ and abatement of the NW monsoon; the resulting calm is/was ascribed to _Saccharum edule_ hulls being thrown into the sea |
-| Sinaugoro (PT)         | see [Table 11.16](#table-11.16)      |     |                   |                                                                          |                                                                                                                                                                                                                    |
+| Sinaugoro (PT)         | see [Table 11.16](#tab-11.16)      |     |                   |                                                                          |                                                                                                                                                                                                                    |
 | Sa’a (SES)             | [Ivens 1927](Source#cldf:Ivens1927)           | 09  | _ōku rate_        | _ōku_ ‘dry season’, _rate_ ‘_Miscanthus floridulus_’                     | 3rd lunar month, when the galip nuts ripen                                                                                                                                                                         |
 | Arosi (SES)            | [Fox 1978](Source#cldf:Fox1978)             | 05  | _raŋisi mʷaō_     | _raŋisi_ ‘rain on’, _mʷaō_ ‘grass sp.’                                   | month when this grass flowers                                                                                                                                                                                      |
-| Mota and Mwotlap (NCV) | see [Table 11.20](#table-11.20)      |     |                   |                                                                          |                                                                                                                                                                                                                    |
+| Mota and Mwotlap (NCV) | see [Table 11.20](#tab-11.20)      |     |                   |                                                                          |                                                                                                                                                                                                                    |
 | Anejom (SV)            | [Lynch 2001c](Source#cldf:Lynch2001c)          | 03  | _niau_            | _niau_ ‘reed sp.’                                                        | flowers in March                                                                                                                                                                                                   |
 | Anejom (SV)            | [Lynch 2001c](Source#cldf:Lynch2001c)          | 08  | _niyeŋ-aɣen_      |                                                                          | bitter wild cane                                                                                                                                                                                                   |
 | Wayan (Fij)            | Pawley & Sayaba 2002 | 04  | _vula i ŋasau_    | _vula_ ‘moon, month’, _ŋasau_ ‘_Miscanthus floridulus_’                  | end of hurricane season, when ŋasau, reeds, are in flower; season for harvesting yams                                                                                                                              |
@@ -521,7 +521,7 @@ Fewer languages have month names reflecting POc _&ast;apaRat_. Those that do are
 
 Some languages refer directly to rain, e.g. Tongan (Pn) _vai-mua_ ‘early water, February-March’ and _vai-mui_ ‘late rain, March-April’. Others refer to the rainy weather a little more obliquely, for example, Arosi (SES) _hura-doa_ ‘blind month (because windy and rainy), April’ (_hura_ ‘month’, _doa_ ‘blind’); _waru-ahe_ ‘all streams flooded, May’ (_waru_ ‘stream’; _ahe_ ‘flooded’); _waro ŋaŋara_ ‘violent winds, August’ (_waro_ ‘month’, _ŋaŋara_ ‘rough (of weather)’.
 
-<a id="table-11.9"> </a>
+<a id="tab-11.9"> </a>
 
 : __Table 11.9__    Yabem month names that allude to the weather
 
@@ -537,7 +537,7 @@ The Sa’a (SES) term for a month around August is _ro hutuhuto_ ‘the two foam
 
 One of two languages of communities that undertook long-distance voyaging refer to the odd month with a reference to this. Thus Motu _veadi hiri-hiri_ ‘July’ refers to the _hiri_, the annual trading voyage westward to the Elema communities of the Papuan Gulf, powered by the southeast tradewind. Arosi _ʔariha_ ‘January’ is a nominalisation of _ʔari_ ‘come, go’ and denotes the month ‘when voyages are made’ at the beginning of the northwesterlies season.
 
-Months in Yabem ([Table 11.9](#table-11.9)) show poetic allusions to phenomena associated with the seasons. The numbers in the leftmost column are approximations to the lunar months denoted. The use of metonymic allusion is not restricted to Yabem. It is found in Mangap (NNG) ([Table 12](#table-12)) and the Torres and Banks Islands languages (NCV) ([Table 11.20](#table-11.20)). It was probably widespread, and perhaps many of the month names we cannot gloss are due to the fact speakers have forgotten their meanings or that researchers have not collected them.
+Months in Yabem ([Table 11.9](#tab-11.9)) show poetic allusions to phenomena associated with the seasons. The numbers in the leftmost column are approximations to the lunar months denoted. The use of metonymic allusion is not restricted to Yabem. It is found in Mangap (NNG) ([Table 12](#tab-12)) and the Torres and Banks Islands languages (NCV) ([Table 11.20](#tab-11.20)). It was probably widespread, and perhaps many of the month names we cannot gloss are due to the fact speakers have forgotten their meanings or that researchers have not collected them.
 
 
 <a id="p-320"></a>
@@ -585,7 +585,7 @@ Like the Hopi, the elderly Takia speaker was counting successive visits of the s
 
 In spite of the elderly Takia speaker’s claim that “they didn’t know the names of the months. The moon waned and waxed, that’s all”, we have gathered lists of apparent lunar month names from more than thirty languages from Western Oceanic, the SE Solomons, Vanuatu, Micronesia, Fiji and Polynesia. These lists consist of, usually, 12 or 13 names for or references to natural features that mark roughly sequential points or periods of time in an annual cycle and reflect the complex conceptual system of astronomical, meteorological, ecological and horticultural checkpoints that made up the annual cycle in traditional Oceanic communities.
 
-The lists are varied. While some listed names are direct references to or descriptions of events (see e.g. Sa’a, [Table 11.19](#table-11.19)), others are largely untranslatable (e.g. Kilivila, [Table 11.13](#table-11.13); Nakanai, [Table 11.17](#table-11.17)) . Some are strictly local references (e.g. Motu, [Table 11.15](#table-11.15)). Still others refer to events through metaphors or allusions to shared narratives (e.g. Mangap-Mbula, [Table 11.12](#table-11.12); Yabem, [Table 11.9](#table-11.9)). Some languages, like Sinaugoro ([Table 11.16](#table-11.16) in [§11.5.2](ContributionTable?anchor=s-11-5-2#cldf:6-11).2) and Mota ([Table 11.4](#table-11.4) in [§11.4.4](ContributionTable?anchor=s-11-4-4#cldf:6-11), [Table 11.20](#table-11.20) in [§11.5.5](ContributionTable?anchor=s-11-5-5#cldf:6-11)) have many more month names than can fit in a year, and it seems that some or all months have alternative names depending on the checkpoints the speaker is focussed on. Indeed, the considerable variation in month names across Oceanic languages and even among closely related languages (e.g. Sinaugoro/Motu/Lala in [§11.5.2](ContributionTable?anchor=s-11-5-2#cldf:6-11).2; SE Solomonic in [§11.5.4](ContributionTable?anchor=s-11-5-4#cldf:6-11); northern Vanuatu in [§11.5.5](ContributionTable?anchor=s-11-5-5#cldf:6-11)) suggests that alternative names have long been the norm.
+The lists are varied. While some listed names are direct references to or descriptions of events (see e.g. Sa’a, [Table 11.19](#tab-11.19)), others are largely untranslatable (e.g. Kilivila, [Table 11.13](#tab-11.13); Nakanai, [Table 11.17](#tab-11.17)) . Some are strictly local references (e.g. Motu, [Table 11.15](#tab-11.15)). Still others refer to events through metaphors or allusions to shared narratives (e.g. Mangap-Mbula, [Table 11.12](#tab-11.12); Yabem, [Table 11.9](#tab-11.9)). Some languages, like Sinaugoro ([Table 11.16](#tab-11.16) in [§11.5.2](ContributionTable?anchor=s-11-5-2#cldf:6-11).2) and Mota ([Table 11.4](#tab-11.4) in [§11.4.4](ContributionTable?anchor=s-11-4-4#cldf:6-11), [Table 11.20](#tab-11.20) in [§11.5.5](ContributionTable?anchor=s-11-5-5#cldf:6-11)) have many more month names than can fit in a year, and it seems that some or all months have alternative names depending on the checkpoints the speaker is focussed on. Indeed, the considerable variation in month names across Oceanic languages and even among closely related languages (e.g. Sinaugoro/Motu/Lala in [§11.5.2](ContributionTable?anchor=s-11-5-2#cldf:6-11).2; SE Solomonic in [§11.5.4](ContributionTable?anchor=s-11-5-4#cldf:6-11); northern Vanuatu in [§11.5.5](ContributionTable?anchor=s-11-5-5#cldf:6-11)) suggests that alternative names have long been the norm.
 
 It is significant that named natural features have a central focus but no precise beginnings and endings, so it is impossible to say when one period ends and another begins. There may be periods of overlap or gaps. This means that even if individual names for times of year were fixed, they could not be aggregated into a solar year. No doubt this explains the response of local speakers that they could not provide memorised lists when requested (in the Trobriands, [§11.5.2](ContributionTable?anchor=s-11-5-2#cldf:6-11).1.1, in Fiji, [§11.5.6](ContributionTable?anchor=s-11-5-6#cldf:6-11), in Tahiti, [§11.5.8](ContributionTable?anchor=s-11-5-8#cldf:6-11).1). Where neat sets of names exist, these are assumed to result from attempts to fit them into a western time frame
 
@@ -610,9 +610,9 @@ The following collections of month names are included with some discussion in an
 #### 5.1.1. Wogeo
 
 
-The Wogeo language is spoken on two of the Schouten Islands, Wogeo and Koil, located off the north coast of PNG. [Table 11.10](#table-11.10) shows Wogeo month names, pieced together from [Hogbin](Source#cldf:Hogbin1938b) ([1938b](Source#cldf:Hogbin1938b):138–140). However, it is clear from Hogbin’s comments that the periods thus named may overlap.
+The Wogeo language is spoken on two of the Schouten Islands, Wogeo and Koil, located off the north coast of PNG. [Table 11.10](#tab-11.10) shows Wogeo month names, pieced together from [Hogbin](Source#cldf:Hogbin1938b) ([1938b](Source#cldf:Hogbin1938b):138–140). However, it is clear from Hogbin’s comments that the periods thus named may overlap.
 
-<a id="table-11.10"> </a>
+<a id="tab-11.10"> </a>
 
 : __Table 11.10__ Wogeo month names
 
@@ -631,13 +631,13 @@ It is noteworthy that this is not primarily a horticultural calendar, as the sta
 #### 5.1.2. Maenge
 
 
-Maenge (a dialect of Mengen, NNG) is located on the southeast coast of New Britain. [Panoff’s](Source#cldf:Panoff1969) ([1969](Source#cldf:Panoff1969)) listing of the months is shown in [Table 11.11](#table-11.11).[^18] The first gloss numbers the western months, but each Maenge month begins a few days earlier. This is the only calendar in our data in which almost every month name reflects the flowering of a wild plant (cf [§11.4.6](ContributionTable?anchor=s-11-4-6#cldf:6-11)).
+Maenge (a dialect of Mengen, NNG) is located on the southeast coast of New Britain. [Panoff’s](Source#cldf:Panoff1969) ([1969](Source#cldf:Panoff1969)) listing of the months is shown in [Table 11.11](#tab-11.11).[^18]: The first gloss numbers the western months, but each Maenge month begins a few days earlier. This is the only calendar in our data in which almost every month name reflects the flowering of a wild plant (cf [§11.4.6](ContributionTable?anchor=s-11-4-6#cldf:6-11)).
 
 Panoff writes:
 
 > despite the continuous character of the process and the obvious impossibility of recognising clear demarkations between the stages, flowering always remains the final criterion and accounts for some calendar variations from village to village. Moreover, there are unavoidable discrepancies between time reckoned in lunar and in botanical terms whenever flowering happens to be late. ([Panoff 1969](Source#cldf:Panoff1969):156)
 
-<a id="table-11.11"> </a>
+<a id="tab-11.11"> </a>
 
 : __Table 11.11__ Maenge month names
 
@@ -661,11 +661,11 @@ The Maenge are able to foretell palolo risings ([§11.4.3](ContributionTable?anc
 #### 5.1.3. Mangap-Mbula
 
 
-The Bugenhagens’ listing of lunar month names in Mangap-Mbula (Vitiaz Straits:NNG) (2007b:420; [Table 11.12](#table-11.12)) focusses almost solely on the annual cycle of the canarium almond crop ([§11.4.5](ContributionTable?anchor=s-11-4-5#cldf:6-11)), although their accompanying notes are necessary to make that interpretation. For example, _manᵐbule mamāza_ ‘the bird’s anus is dried up’ makes little sense without the accompanying note. ‘Galip’ is the Tok Pisin term for the canarium tree and almond. The ‘Word glosses’ represent our best attempt to gloss the component parts of the month names.
+The Bugenhagens’ listing of lunar month names in Mangap-Mbula (Vitiaz Straits:NNG) (2007b:420; [Table 11.12](#tab-11.12)) focusses almost solely on the annual cycle of the canarium almond crop ([§11.4.5](ContributionTable?anchor=s-11-4-5#cldf:6-11)), although their accompanying notes are necessary to make that interpretation. For example, _manᵐbule mamāza_ ‘the bird’s anus is dried up’ makes little sense without the accompanying note. ‘Galip’ is the Tok Pisin term for the canarium tree and almond. The ‘Word glosses’ represent our best attempt to gloss the component parts of the month names.
 
 The one interpretable month name that refers less directly to canarium almonds is _ⁿdām-bula_ ‘December’, where the first element reflects _ⁿdāma_ ‘Pleiades’ (in the Marile dialect of Mangap this month name is simply _ⁿdāma_), but the Bugenhagens note that this marks budding of the canarium (and thus the beginning of the cycle).
 
-<a id="table-11.12"> </a>
+<a id="tab-11.12"> </a>
 
 : __Table 11.12__ Mangap (Yangla dialect) month names
 
@@ -722,7 +722,7 @@ In addition Austen lists _sinata_ ‘part of Scorpio’, _lakum_ (‘land crab�
 
 Malinowski had written in 1927
 
-> that at certain seasons certain configurations of stars appear in the sky in the evenings. They have names for a number of constellations, for the Pleiades, for a part of Orion, the Southern Cross, and many others; and they know in which season these stars are visible, _but they do not use them as a means of measuring time_’ ([Malinowski 1927](Source#cldf:Malinowski1927):203).[^19] (our italics)
+> that at certain seasons certain configurations of stars appear in the sky in the evenings. They have names for a number of constellations, for the Pleiades, for a part of Orion, the Southern Cross, and many others; and they know in which season these stars are visible, _but they do not use them as a means of measuring time_’ ([Malinowski 1927](Source#cldf:Malinowski1927):203).[^19]: (our italics)
 
 In 1935 [Malinowski](Source#cldf:Malinowski1935) ([1935](Source#cldf:Malinowski1935):50–51)correlated moons, winds, and gardening and other activities with western months, but his chart contains no mention of stars. Austen’s evidence is discussed further together with Damon’s evidence for Muyuw.
 
@@ -732,9 +732,9 @@ In 1935 [Malinowski](Source#cldf:Malinowski1935) ([1935](Source#cldf:Malinowski1
 
 [Damon](Source#cldf:Damon1982) ([1982](Source#cldf:Damon1982), [1990](Source#cldf:Damon1990)) describes the lunar calendar in Muyuw, spoken on Woodlark Island east of the Trobriands, and contrasts its system with that of the Trobriands, with which Muyuw is linked through the Kula Ring trading network. The calendars share similar names and month sequences, but differ in their starting positions and thus their relationship to the western calendar.
 
-[Table 11.13](#table-11.13) contains 13 names of Kiriwina months ([Malinowski 1935](Source#cldf:Malinowski1935):51) and 13 names of Muyuw months ([Damon 1990](Source#cldf:Damon1990):290) aligned to highlight similarity of names (they are not aligned with reference to western month names). Nine of the thirteen show cognacy, evidence of a recent shared past. The names listed third, fourth and fifth contain a reflex of POc _&ast;apaRat_ ‘north-west wind’, the wind that holds sway from December to April. Apart from these three and _milamala_ the names are, as far as we can tell, largely untranslatable and therefore without meaning-based association with particular seasonal events. Those pairs that are not cognates are marked with #, and occur close together in the sequence.
+[Table 11.13](#tab-11.13) contains 13 names of Kiriwina months ([Malinowski 1935](Source#cldf:Malinowski1935):51) and 13 names of Muyuw months ([Damon 1990](Source#cldf:Damon1990):290) aligned to highlight similarity of names (they are not aligned with reference to western month names). Nine of the thirteen show cognacy, evidence of a recent shared past. The names listed third, fourth and fifth contain a reflex of POc _&ast;apaRat_ ‘north-west wind’, the wind that holds sway from December to April. Apart from these three and _milamala_ the names are, as far as we can tell, largely untranslatable and therefore without meaning-based association with particular seasonal events. Those pairs that are not cognates are marked with #, and occur close together in the sequence.
 
-<a id="table-11.13"> </a>
+<a id="tab-11.13"> </a>
 
 : __Table 11.13__ Kilivila and Muyuw month names
 
@@ -759,13 +759,13 @@ In 1935 [Malinowski](Source#cldf:Malinowski1935) ([1935](Source#cldf:Malinowski1
 
 Although the two lists imply a shared system, Muyuw lacks a _milamala_ moon. Oddly enough, the palolo worm appears in some Muyuw lagoons at the full moon of, usually, October, and it is called _milamala_. But it is neither eaten nor used for any calendrical purpose ([Damon 1982](Source#cldf:Damon1982):229).
 
-However, there is, or was, another system of regulating time in Muyuw, one shared with the Trobriands, namely that provided by the stars. [Damon](Source#cldf:Damon1990) ([1990](Source#cldf:Damon1990):29) provides a list of thirteen star groups and roughly aligns them with lunar months and other seasonal events or activities, although he warns: “Although stars are conceived to rise in a sequential order just as _kwel_ [lunar months] follow one another, Muyuw do not associate particular stars with specific _kwel_.” (1990:38).[^20]
+However, there is, or was, another system of regulating time in Muyuw, one shared with the Trobriands, namely that provided by the stars. [Damon](Source#cldf:Damon1990) ([1990](Source#cldf:Damon1990):29) provides a list of thirteen star groups and roughly aligns them with lunar months and other seasonal events or activities, although he warns: “Although stars are conceived to rise in a sequential order just as _kwel_ [lunar months] follow one another, Muyuw do not associate particular stars with specific _kwel_.” (1990:38).[^20]:
 
-Several star names ([Table 11.14](#table-11.14)) are cognate with Austen’s list for the Trobriands, although there are minor variations in their identity. Austen’s _kibi_ refers to Aquila while Damon’s _kib_ is Delphinus, an adjoining constellation. Strangely, although both list the Pleiades, their names for the star cluster are not cognate. In the Trobriands it is _ulawa_ and in Muyuw _gumeaw_.
+Several star names ([Table 11.14](#tab-11.14)) are cognate with Austen’s list for the Trobriands, although there are minor variations in their identity. Austen’s _kibi_ refers to Aquila while Damon’s _kib_ is Delphinus, an adjoining constellation. Strangely, although both list the Pleiades, their names for the star cluster are not cognate. In the Trobriands it is _ulawa_ and in Muyuw _gumeaw_.
 
 [Damon](Source#cldf:Damon1990) ([1990](Source#cldf:Damon1990):38–40) implies that Muyuw rely on the stars rather than lunar months to arrange their yearly activities. He describes Muyuw knowledge of celestial bodies as impressive. “It is yam harvest time, people note, when the long axis of the Southern Cross stands vertical in the dark of a young night, mid-July or so”. And although other crops – taro, bananas, sweet potatoes – may be and are planted throughout the year: yams should be planted when _gumeaw_ ‘is thirty or so degrees above the western horizon at dusk, in February.”
 
-<a id="table-11.14"> </a>
+<a id="tab-11.14"> </a>
 
 : __Table 11.14__ Trobriands/Muyuw cognate star names
 
@@ -787,9 +787,9 @@ Several star names ([Table 11.14](#table-11.14)) are cognate with Austen’s lis
 
 Motu, Sinaugoro and Lala are considered together as they are clustered in the middle of the segment of New Guinea’s south coast occupied by the Central Papuan group of Oceanic languages.
 
-Lister-Turner & Clark’s (1954) Motu dictionary includes twelve month names, given in [Table 11.15](#table-11.15) with glosses drawn partly from Andrew Taylor’s (pers. comm.) notes and partly from Lister-Turner & Clark’s glosses.
+Lister-Turner & Clark’s (1954) Motu dictionary includes twelve month names, given in [Table 11.15](#tab-11.15) with glosses drawn partly from Andrew Taylor’s (pers. comm.) notes and partly from Lister-Turner & Clark’s glosses.
 
-<a id="table-11.15"> </a>
+<a id="tab-11.15"> </a>
 
 : __Table 11.15__ Motu month names
 
@@ -801,18 +801,18 @@ The Motu sailed their _laɣatoi_ (double-hulled canoes) annually westward to the
 
 The ‘promise to return’ probably alludes to a man’s pledge to his Elema trading partner to return the following year. ‘An Elema man who sails on a _laɣatoi_ and stays till next year’ is almost self-explanatory: he is a man from the Gulf who is transported on the _laɣatoi_ to its owner’s Motu village, and remains there as a guest until he can return to the Gulf on next year’s _hiri_.
 
-Sinaugoro, to the east of Motu, shares some month names with Motu, but none that are associated with the _hiri_, in which Sinaugoro speakers did not traditionally participate. Instead, names peculiar to Sinaugoro often reflect the fact that its speakers live in the savanna. Whether the names shared with Motu are loans or shared inheritances is difficult to know, as the languages are phonologically similar. [Table 11.16](#table-11.16) is drawn from two sources, [Kolia](Source#cldf:Kolia1975) ([1975](Source#cldf:Kolia1975)) and [Tauberschmidt](Source#cldf:Tauberschmidt2007) ([2007](Source#cldf:Tauberschmidt2007)). Kolia’s data are from the Balawaia dialect. He does not assign his month names to western calendar months, but does gloss them. Tauberschmidt on the other hand, whose month names are from the Saroa dialect, assigns them to western months, but does not gloss them further. Some glosses, marked (R) (= Ross), are inferred from Kolia’s and Tauberschmidt’s vocabularies.
+Sinaugoro, to the east of Motu, shares some month names with Motu, but none that are associated with the _hiri_, in which Sinaugoro speakers did not traditionally participate. Instead, names peculiar to Sinaugoro often reflect the fact that its speakers live in the savanna. Whether the names shared with Motu are loans or shared inheritances is difficult to know, as the languages are phonologically similar. [Table 11.16](#tab-11.16) is drawn from two sources, [Kolia](Source#cldf:Kolia1975) ([1975](Source#cldf:Kolia1975)) and [Tauberschmidt](Source#cldf:Tauberschmidt2007) ([2007](Source#cldf:Tauberschmidt2007)). Kolia’s data are from the Balawaia dialect. He does not assign his month names to western calendar months, but does gloss them. Tauberschmidt on the other hand, whose month names are from the Saroa dialect, assigns them to western months, but does not gloss them further. Some glosses, marked (R) (= Ross), are inferred from Kolia’s and Tauberschmidt’s vocabularies.
 
 
 <a id="p-331"></a>
 
-<a id="table-11.16"> </a>
+<a id="tab-11.16"> </a>
 
 : __Table 11.16__ Sinaugoro month names (Balawaia dialect after [Kolia 1975](Source#cldf:Kolia1975); Saroa dialect after [Tauberschmidt 2007](Source#cldf:Tauberschmidt2007))
 
 [6-11-5-2-331-pt-balawaia-manubada](cf.csv#cldf:6-11-5-2-331-pt-balawaia-manubada)
 
-The range of names in [Table 11.16](#table-11.16) demonstrates that month names even in dialects of the same language can diverge quite widely. It also reveals how culture-specific month names can be. Where some Motu names reference seafaring, names from the Balawaia dialect reference a grass species and burning in the surrounding savanna. Both dialects refer to the end of the harvest in April and the beginning of a new crop in May.
+The range of names in [Table 11.16](#tab-11.16) demonstrates that month names even in dialects of the same language can diverge quite widely. It also reveals how culture-specific month names can be. Where some Motu names reference seafaring, names from the Balawaia dialect reference a grass species and burning in the surrounding savanna. Both dialects refer to the end of the harvest in April and the beginning of a new crop in May.
 
 Both dialects also include _manu-bada_, perhaps the ‘big bird’ constellation of Sirius, Canopus, Procyon, Betelgeuse and Rigel described in [vol.2(168](ContributionTable?anchor=p-168#cldf:2-6)–170), which Tauberschmidt assigns to January. Immediately after sunset in January this huge constellation dominates the eastern sky over the Motu and Sinaugoro villages. That ‘big’ has its Motu shape _bada_ rather than Sinaugoro _bara_ suggests that it may be a loan.
 
@@ -835,7 +835,7 @@ Both dialects also include _manu-bada_, perhaps the ‘big bird’ constellation
 
 Chowning (2016) lists eight lunar month names from Nakanai, on the north coast of New Britain. The eight are considered a complete set, and their ordering is clear, running from _e tolo bubu_ ‘1st moon of the calendar year, approx. Sep.–Oct. (starts about autumn equinox)’ to _e sakalu kea_ (lit. ‘white reef’) ‘8th and last moon—actually several moons of the same name, approx. June–Sep.’ Apart from the 8th month, the names are, as far as we can tell, untranslatable, and there is no discussion apart from brief descriptions included in the dictionary entries.
 
-<a id="table-11.17"> </a>
+<a id="tab-11.17"> </a>
 
 : __Table 11.17__ Nakanai lunar months ([Chowning & Goodenough 2016](Source#cldf:ChowningandGoodenough2016))
 
@@ -847,12 +847,12 @@ Chowning (2016) lists eight lunar month names from Nakanai, on the north coast o
 #### 5.3.2. Barok
 
 
-[Wagner](Source#cldf:Wagner1986) ([1986](Source#cldf:Wagner1986)) describes the timing of the gardening cycle in Barok, New Ireland. He writes that “a cycle of six named lunations seems to have been recognised, and used in conjunction with gardening, in pre-European days.” (1986:38). His own observations and his conversations with Barok speakers about the traditional calendar lead him to conclude that the _awat ni nien_ ‘season of plenty’ and the _awat nere loŋ_ ‘season of hunger’ each represent a six-month cycle, but because the large garden is planted only four months after the small (see [Table 11.18](#table-11.18)), the gardening calendar cannot be described within a single six-month cycle. He points out that the Barok observe lunar, solar and sidereal events (1986:41), which do not correspond exactly. However, he concludes that each _awat_ effectively begins at the new moon closest to when the Pleiades are crossing the meridian, i.e. in the evening on 21 February and predawn on 22 August. The position of the sun around these dates is also not far from its position at the solstice.
+[Wagner](Source#cldf:Wagner1986) ([1986](Source#cldf:Wagner1986)) describes the timing of the gardening cycle in Barok, New Ireland. He writes that “a cycle of six named lunations seems to have been recognised, and used in conjunction with gardening, in pre-European days.” (1986:38). His own observations and his conversations with Barok speakers about the traditional calendar lead him to conclude that the _awat ni nien_ ‘season of plenty’ and the _awat nere loŋ_ ‘season of hunger’ each represent a six-month cycle, but because the large garden is planted only four months after the small (see [Table 11.18](#tab-11.18)), the gardening calendar cannot be described within a single six-month cycle. He points out that the Barok observe lunar, solar and sidereal events (1986:41), which do not correspond exactly. However, he concludes that each _awat_ effectively begins at the new moon closest to when the Pleiades are crossing the meridian, i.e. in the evening on 21 February and predawn on 22 August. The position of the sun around these dates is also not far from its position at the solstice.
 
 
 <a id="p-333"></a>
 
-<a id="table-11.18"> </a>
+<a id="tab-11.18"> </a>
 
 : __Table 11.18__ Barok lunations
 
@@ -871,14 +871,14 @@ Chowning (2016) lists eight lunar month names from Nakanai, on the north coast o
 |  11 | _tege ni kuka_ | crab-hunting (lit., moon of crabs)   | …                     |                    |
 |  12 | _tege gowo_    | — (literally, the moon that is left) | large garden prepared | N solstice 21 Dec  |
 
-[Table 11.18](#table-11.18) is the table given by Wagner but augmented from the text (1986:36–44). Since the Barok reckoned time in terms of six-month seasons, the same set of six months occurs in each _awat_, i.e. twice in a year, a unit that the Barok were allegedly unaware of. The blanks in the “Gardening” column of the table are due partly to the fact that Wagner’s table includes them, but partly to the fact that Wagner does not mention the harvests. The numbers in the leftmost column represent the month whose second half falls into this lunation, e.g. 01 represents the latter part of January and the earlier part of February.
+[Table 11.18](#tab-11.18) is the table given by Wagner but augmented from the text (1986:36–44). Since the Barok reckoned time in terms of six-month seasons, the same set of six months occurs in each _awat_, i.e. twice in a year, a unit that the Barok were allegedly unaware of. The blanks in the “Gardening” column of the table are due partly to the fact that Wagner’s table includes them, but partly to the fact that Wagner does not mention the harvests. The numbers in the leftmost column represent the month whose second half falls into this lunation, e.g. 01 represents the latter part of January and the earlier part of February.
 
 We note that this account contains one oddity: since the months in each _awat_ have the same names, _tege ni kuka_ ‘moon of crabs’ occurs twice a year. In reality, however, land crab spawning ([§ 11.4.8](ContributionTable?anchor=s-11-4-8#cldf:6-11)) occurs only once a year, presumably in November. This leads to the speculations that the Barok were aware of the annual cycle (as the distribution of garden planting described by Wagner also implies) and that the six-month cycle represents a reduction of a set of terms that once covered the year.
 
 
 <a id="p-334"></a>
 
-Particular importance is attached by the Barok to the Pleiades. In one _marana-kai_ they are crossing the meridian at dusk on 21 February, but have already been prominent in the evening sky for about a month. In the other _marana-kai_ they are crossing the meridian at dawn on 22 August, and will remain prominent in the pre-dawn sky for about a month.[^21] This account is puzzling, as Western Oceanic speakers typically make no use of the meridian (it is not clear how they would identify it). A possibility is that Barok speakers observed the risings and settings of the Pleiades. Their apparent first pre-dawn rising around 7 June would very roughly fit the beginning of _awat nere loŋ_ ‘season of hunger’, and their apparent pre-dawn setting around 5 November would be a herald of the monsoon and the _awat ni nien_ ‘season of plenty’.
+Particular importance is attached by the Barok to the Pleiades. In one _marana-kai_ they are crossing the meridian at dusk on 21 February, but have already been prominent in the evening sky for about a month. In the other _marana-kai_ they are crossing the meridian at dawn on 22 August, and will remain prominent in the pre-dawn sky for about a month.[^21]: This account is puzzling, as Western Oceanic speakers typically make no use of the meridian (it is not clear how they would identify it). A possibility is that Barok speakers observed the risings and settings of the Pleiades. Their apparent first pre-dawn rising around 7 June would very roughly fit the beginning of _awat nere loŋ_ ‘season of hunger’, and their apparent pre-dawn setting around 5 November would be a herald of the monsoon and the _awat ni nien_ ‘season of plenty’.
 
 
 <a id="s-5-4"></a>
@@ -888,13 +888,13 @@ Particular importance is attached by the Barok to the Pleiades. In one _marana-k
 
 Sets of lunar months have been recorded for Gela ([Fox 1955](Source#cldf:Fox1955)), To’aba’ita ([Lichtenberk 2008](Source#cldf:Lichtenberk2008)), Sa’a ([Ivens 1918](Source#cldf:Ivens1918), [1927](Source#cldf:Ivens1927)), Kwaio ([Keesing 1975](Source#cldf:Keesing1975)) and Arosi ([Fox 1978](Source#cldf:Fox1978)). Other dictionaries including ’Are’are ([Geerts 1970](Source#cldf:Geerts1970)) and Owa ([Mellow 2014](Source#cldf:Mellow2014)) contain partial lists. Except for Gela, these languages belong to the Malaita-Makira subgroup of SES.
 
-<a id="table-11.19"> </a>
+<a id="tab-11.19"> </a>
 
 : __Table 11.19__ Sa’a month names (adapted from [Ivens 1927](Source#cldf:Ivens1927))
 
 [6-11-5-4-334-ses-saa-huleilade](cf.csv#cldf:6-11-5-4-334-ses-saa-huleilade)
 
-The most comprehensive of these lists is [Ivens’](Source#cldf:Ivens1927) ([1927](Source#cldf:Ivens1927):396-397) for Sa’a, shown in [Table 11.19](#table-11.19), which varies in some respects from that in [Ivens](Source#cldf:Ivens1918) ([1918](Source#cldf:Ivens1918)). In 1927 he describes the year as “beginning with the flowers of the canarium almond in September (_hule i lade_ ‘flowers arrive’) and ending with the period of ripe almonds (_ŋali maelo_) in August”.[^22] August is also called _ro hutohuto_ ‘froth, foam’, referring to the month of wild weather and big seas. (In Arosi the same month is referred to as _waro ŋavara_ ‘rough weather month’.) Four months – October to December – are prefaced by _oku_, the palolo worm, while three – April to June – are prefaced by _loʔa_ (meaning unknown, but used also as month name prefix in Lau (_loa_) and possibly in To’aba’ita (_loʔi_). Ivens describes the _loʔa_ months as relating to ‘the yam harvest which is dug about the beginning of May’.
+The most comprehensive of these lists is [Ivens’](Source#cldf:Ivens1927) ([1927](Source#cldf:Ivens1927):396-397) for Sa’a, shown in [Table 11.19](#tab-11.19), which varies in some respects from that in [Ivens](Source#cldf:Ivens1918) ([1918](Source#cldf:Ivens1918)). In 1927 he describes the year as “beginning with the flowers of the canarium almond in September (_hule i lade_ ‘flowers arrive’) and ending with the period of ripe almonds (_ŋali maelo_) in August”.[^22]: August is also called _ro hutohuto_ ‘froth, foam’, referring to the month of wild weather and big seas. (In Arosi the same month is referred to as _waro ŋavara_ ‘rough weather month’.) Four months – October to December – are prefaced by _oku_, the palolo worm, while three – April to June – are prefaced by _loʔa_ (meaning unknown, but used also as month name prefix in Lau (_loa_) and possibly in To’aba’ita (_loʔi_). Ivens describes the _loʔa_ months as relating to ‘the yam harvest which is dug about the beginning of May’.
 
 A comparison of month names across languages shows broad agreement in Gela, Sa’a, Arosi and ’Are’are with respect to the palolo months, although both Sa’a and ’Are’are give the name for the palolo to four months, suggesting it now means something like ‘month, season’. SES palolo month names are listed in [§11.4.3](ContributionTable?anchor=s-11-4-3#cldf:6-11).
 
@@ -907,9 +907,9 @@ A comparison of month names across languages shows broad agreement in Gela, Sa�
 ### 5.5. Vanuatu
 
 
-Unusually detailed lists of month names are available for the Torres and Banks islands of northern Vanuatu, thanks to various anthropological studies ([Codrington 1891](Source#cldf:Codrington1891) for Mota, [Durrad 1940](Source#cldf:Durrad1940) and [Mondragón 2004](Source#cldf:Mondragon2004) for the Loh dialect of Lo-Toga, [François 2023](Source#cldf:Francois2023) for Mwotlap, and François pers. comm. for Lo, Mota, Mwotlap and partial Mwesen). They are summarised in [Table 11.20](#table-11.20).[^23]
+Unusually detailed lists of month names are available for the Torres and Banks islands of northern Vanuatu, thanks to various anthropological studies ([Codrington 1891](Source#cldf:Codrington1891) for Mota, [Durrad 1940](Source#cldf:Durrad1940) and [Mondragón 2004](Source#cldf:Mondragon2004) for the Loh dialect of Lo-Toga, [François 2023](Source#cldf:Francois2023) for Mwotlap, and François pers. comm. for Lo, Mota, Mwotlap and partial Mwesen). They are summarised in [Table 11.20](#tab-11.20).[^23]:
 
-In the leftmost column of [Table 11.20](#table-11.20) numbers approximate western months. Terms for October, November and December in Loh, Mota and Mwotlap make reference to the small and big risings of the palolo ([§11.4.3](ContributionTable?anchor=s-11-4-3#cldf:6-11)). Loh appears to be out of sync with Mota and Mwotlap by a month, but this probably reflects the vague relationship between western months and the lunar months labelled here.
+In the leftmost column of [Table 11.20](#tab-11.20) numbers approximate western months. Terms for October, November and December in Loh, Mota and Mwotlap make reference to the small and big risings of the palolo ([§11.4.3](ContributionTable?anchor=s-11-4-3#cldf:6-11)). Loh appears to be out of sync with Mota and Mwotlap by a month, but this probably reflects the vague relationship between western months and the lunar months labelled here.
 
 According to Durrad, five Loh months, from April to August, are named for the seasonal Panax grass called _moɣot_, which springs up as winter ends (cf [§11.4.6](ContributionTable?anchor=s-11-4-6#cldf:6-11)). In April the grass is fresh (_meta_ ‘wet’) and in May it dries off (_reŋ_ ‘dry’). The name continues to be associated with the next three months—becoming a seasonal name now associated with digging up first the yam-like _təmeɣ_ in June and then the _kʷɛtə_ in July. A further five months, from November to March, are named for the palolo worm, _n’ut_. As with _moɣot_ the name continues beyond the true palolo months, becoming a seasonal name. Durrad also links each month with gardening activity, and at times, as in June and July, this is reflected in the month name. As planting is carried out in September and October, the yam vines are in full green in February and turning rusty red in March, giving rise to the terms for green and red in their respective month names. Yam harvesting occurs in May, the _təmeɣ_ [wild yam] and _kʷɛtə_ mentioned above reaching maturity later than cultivated yams.
 
@@ -918,7 +918,7 @@ In Mota, as there are many more month names than can be fitted into a lunar year
 
 <a id="p-336"></a>
 
-<a id="table-11.20"> </a>
+<a id="tab-11.20"> </a>
 
 : __Table 11.20__ Month names from the Torres and Banks Islands
 
@@ -951,9 +951,9 @@ Lest the explanation for the abbreviated sentences used as month names here appe
 
 > it is impossible to fit the native succession of moons into a solar year; months have their names from what is done and what happens when the moon appears and while it lasts; the same moon has different names. If all the names of moons in use in one language were set in order the periods of time would overlap, and the native year would be artificially made up of twenty or thirty months.
 
-The reason for Codrington’s warning is that Mota months were named not only for the palolo and the effect of the seasons on wild plants as in [Table 11.8](#table-11.8) but also for periods in the yam cycle. It would be possible to list month names in order from April to December that referred to events from preparing the yam garden to planting, maturing, harvesting and clearing.
+The reason for Codrington’s warning is that Mota months were named not only for the palolo and the effect of the seasons on wild plants as in [Table 11.8](#tab-11.8) but also for periods in the yam cycle. It would be possible to list month names in order from April to December that referred to events from preparing the yam garden to planting, maturing, harvesting and clearing.
 
-Because there are some cognate forms among these languages, it is possible to reconstruct three lunar month names for Proto Torres-Banks, using [Clark’s](Source#cldf:Clark2009) ([2009](Source#cldf:Clark2009)) orthography, and partially reconstruct two others.[^24]
+Because there are some cognate forms among these languages, it is possible to reconstruct three lunar month names for Proto Torres-Banks, using [Clark’s](Source#cldf:Clark2009) ([2009](Source#cldf:Clark2009)) orthography, and partially reconstruct two others.[^24]:
 
 [Proto Torres-Banks &ast;_ud gogona_](cognatesetreferences.csv#cldf:6-11-5-5-337-ProtoTorresBanks-udgogona-a)
 
@@ -982,12 +982,12 @@ Also available are lists of month names from southern Vanuatu: Sye, Kwamera, Len
 
 > Besides the appearance of the _mbalolo_, the natives have few means of determining with exactness the progress of time. Indeed, they pay little attention to this, and we were unable to obtain from several to whom we applied, the names of the months in their regular series. … The Feejeeans know nothing of astronomy, and have not even names for the most important constellations.
 
-Seemann (1862:296-299) refers more confidently to “the eleven months into which the calendar is divided”, quoting “an intelligent Bauan chief and the consular interpreter.” He comments that “the names given by me, as well as their succession, do not quite agree with those given by Wilkes (i.e. Hale from the Wilkes expedition). The names of the months may also be different in different parts of the group”. However, the list in [Table 11.21](#table-11.21) from Seemann, including his comments, substantially mirrors the horticultural/faunal/floral annual cycle, and accords with later broad descriptions such as those of [Hocart](Source#cldf:Hocart1929) ([1929](Source#cldf:Hocart1929)) for the Lau Islands of eastern Fiji and [Pawley and Sayaba](Source#cldf:PawleyandSayaba2022) ([2022](Source#cldf:PawleyandSayaba2022)) for Wayan, spoken in western Fiji.[^25]
+Seemann (1862:296-299) refers more confidently to “the eleven months into which the calendar is divided”, quoting “an intelligent Bauan chief and the consular interpreter.” He comments that “the names given by me, as well as their succession, do not quite agree with those given by Wilkes (i.e. Hale from the Wilkes expedition). The names of the months may also be different in different parts of the group”. However, the list in [Table 11.21](#tab-11.21) from Seemann, including his comments, substantially mirrors the horticultural/faunal/floral annual cycle, and accords with later broad descriptions such as those of [Hocart](Source#cldf:Hocart1929) ([1929](Source#cldf:Hocart1929)) for the Lau Islands of eastern Fiji and [Pawley and Sayaba](Source#cldf:PawleyandSayaba2022) ([2022](Source#cldf:PawleyandSayaba2022)) for Wayan, spoken in western Fiji.[^25]:
 
 
 <a id="p-339"></a>
 
-<a id="table-11.21"> </a>
+<a id="tab-11.21"> </a>
 
 : __Table 11.21__ Bauan Fijian month names according to [Seeman](Source#cldf:Seeman1862) ([1862](Source#cldf:Seeman1862))
 
@@ -1010,7 +1010,7 @@ Speakers from the Polynesian outlier island of Kapingamarangi, which lies roughl
 
 Sources for Puluwat and Carolinian each list twelve names and link them to western months; those for Mortlock, Lamotrek and Sonsorol list months in regular sequence from one to twelve. The Trukese Dictionary lists fourteen names as months in the traditional sidereal calendar, only four of which are numerically ordered. An additional one is listed as ‘named for a month in some calendars’. Some of the cognates in the sets listed below include star names that are not month names. Sixteen PChk terms have been reconstructed that, taken in sequence, albeit with some overlap, represent a solar year. Of these, four (Leo, Corona Borealis, Vega and Andromeda) are represented as month names in only two or three languages, and are regarded as probably substitutions for other nearby stars or star clusters.
 
-Because each year the new moon rises eleven days earlier than in the previous year, the time of year thus delineated moves between two adjacent western months.[^26]
+Because each year the new moon rises eleven days earlier than in the previous year, the time of year thus delineated moves between two adjacent western months.[^26]:
 
 We have no clear evidence that any star or star cluster is regarded in the Chuukic group as heralding a new year. Christian begins his list with Leo for Mortlock and Corvus for Lamotrek, while Capell also starts with Corvus for Sonsorol, i.e. roughly September or October, but neither author discusses his choice. In Woleai the star Arcturus, identified with November, is identified as marking the change of seasons from summer to winter while Pegasus, identified with May, gives its name to the summer season. Because of its dominant role elsewhere in the Oceanic world we begin our list with the Pleiades.
 
@@ -1084,7 +1084,7 @@ PChk _&ast;kua_ below evidently reflects PMic _&ast;kua_ ‘Dolphin constellatio
 
 [PChk &ast;_yalimadaɨ_](cognatesetreferences.csv#cldf:6-11-5-7-346-PChk-yalimada-a)
 
-<a id="table-11.22"> </a>
+<a id="tab-11.22"> </a>
 
 : __Table 11.22__ PChk progression of rising stars
 
@@ -1110,7 +1110,7 @@ PChk _&ast;kua_ below evidently reflects PMic _&ast;kua_ ‘Dolphin constellatio
 
 <a id="p-347"></a>
 
-The PChk reconstructions in [Table 11.22](#table-11.22) show a smooth progression of rising stars over a year. Carolinian, Chuukese, Mortlock, Puluwat, Woleaian, Lamotrek and Sonsorol follow this sequence closely, each containing reflexes of 12 of the 16 reconstructions, although varying slightly as to which are not represented. The four star clusters marked with an asterisk are those listed as calendar stars in only two or three languages and are probably alternatives for other close stars representing the same period.
+The PChk reconstructions in [Table 11.22](#tab-11.22) show a smooth progression of rising stars over a year. Carolinian, Chuukese, Mortlock, Puluwat, Woleaian, Lamotrek and Sonsorol follow this sequence closely, each containing reflexes of 12 of the 16 reconstructions, although varying slightly as to which are not represented. The four star clusters marked with an asterisk are those listed as calendar stars in only two or three languages and are probably alternatives for other close stars representing the same period.
 
 The only Micronesian language outside western Micronesia (Marshallese + Chuukic) in which terms for divisions of a year have been located is Kiribati, which has a rather different sidereal calendar. [Grimble](Source#cldf:Grimble1931) ([1931](Source#cldf:Grimble1931)) provides a detailed account of Gilbertese [Kiribati] astronomy. The year is considered to begin with the appearance of the Pleiades about 15 degrees above the eastern horizon just after sunset, in about the first week of December. The Kiribati uniquely use the rafters of the meeting house as a grid reference by which they locate their stars. Each six-monthly season is subdivided into eight periods called _boŋ_, measured by the successive altitudes of the seasonal star at the hour after sunset as observed through the grid of the rafters of the meeting house (1931:200). These sixteen named divisions, each a little over three weeks long, subvert any need for a calendar based on lunar months.
 
@@ -1132,6 +1132,8 @@ Lunar calendars are ubiquitous in Polynesia, or at least were, prior to the intr
 <a id="p-348"></a>
 
 > since … the original calendar was strongly correlated with local ecological conditions and with yam horticulture, it is not surprising that the calendar was significantly reorganised once people had left the homeland region, and once their ecological settings and horticultural practices had changed.
+
+<a id="tab-11.23"> </a>
 
 :Table 11.23 The assignment to months of reflexes of reconstructed lunar month names in selected Polynesian languages (numbers approximate Gregorian months: January = 1 etc.)
 
@@ -1172,7 +1174,7 @@ For practical purposes the account here relies on [Williamson](Source#cldf:Willi
 
 Comparison of these lists shows frequent recurrence of lunar month names, but some diversity in the month attributed to each name. While reconstruction of the form has been possible, its position in a sequence has proved arguable. Twenty one reconstructions of the name (but not the associated month) have been made, with 8 from Proto Polynesian, 11 from Proto Nuclear Polynesian and 2 from Proto Ellicean. There are a number of pairs, identified by _muqa_ ‘in front’ vs _muri_ ‘behind, last’ (or _toe_ ‘again’) and others by contrasting terms _kelekele_ ‘dirty’ vs _maqa_ ‘clean’ and _maquri_ ‘alive’ vs _mate_ ‘dead’. Their cognate sets appear below in [§11.5.8](ContributionTable?anchor=s-11-5-8#cldf:6-11).3.
 
-A major clue in the ordering of putative PPn lunar months lies in the fact that a number of languages follow similar sequencing for up to four or five month names, as shown in [Table 11.23](#table-11.23).
+A major clue in the ordering of putative PPn lunar months lies in the fact that a number of languages follow similar sequencing for up to four or five month names, as shown in [Table 11.23](#tab-11.23).
 
 The table shows the assignment to months (January = 1 etc.) of reflexes of reconstructed lunar month names in Tongan, East Futunan, Samoan, Tuvalu, Manihiki, Tokelau, Penrhyn, Tahiti, and Hawaii. It can be shown that East Futunan, Samoan, Tuvaluan, Manihiki, Tokelau and Tahiti share some sequences. These are genealogically and geographically quite widely scattered languages, and their sequencing can be taken as a good indication that the system in PPn was similarly ordered.
 
@@ -1184,7 +1186,7 @@ The difficulty then becomes one of arranging the preferred sequencing into the a
 #### 5.8.2. Reconstructions
 
 
-PPn _&ast;mataliki_ is reconstructable for ‘Pleiades’ ([vol.2:165](ContributionTable?anchor=p-165#cldf:2-6)), but as a month name only in PNPn (not in Tongic), where it is marked by the new moon after the first pre-dawn rising of the Pleiades which occurred in 500 BC in mid-May, so here accorded to June. As [Kirch and Green](Source#cldf:KirchandGreen2001) ([2001](Source#cldf:KirchandGreen2001):262, [Table 9.4](#table-9.4)) have noted, the risings and settings of the Pleiades were widely observed in many Polynesian societies, “where they were used to mark the change in seasons and/or to mark the commencement of the year.”
+PPn _&ast;mataliki_ is reconstructable for ‘Pleiades’ ([vol.2:165](ContributionTable?anchor=p-165#cldf:2-6)), but as a month name only in PNPn (not in Tongic), where it is marked by the new moon after the first pre-dawn rising of the Pleiades which occurred in 500 BC in mid-May, so here accorded to June. As [Kirch and Green](Source#cldf:KirchandGreen2001) ([2001](Source#cldf:KirchandGreen2001):262, [Table 9.4](#tab-9.4)) have noted, the risings and settings of the Pleiades were widely observed in many Polynesian societies, “where they were used to mark the change in seasons and/or to mark the commencement of the year.”
 
 
 <a id="p-350"></a>
@@ -1223,7 +1225,7 @@ We assign PNPn &ast;oloamanu to August (as do Kirch and Green) on the basis of i
 
 [PNPn &ast;_oloamanu_](cognatesetreferences.csv#cldf:6-11-5-8-352-PNPn-oloamanu-a)
 
-In parts of Polynesia, just as in parts of western Melanesia, the palolo worm (_Eunice viridis_) spawns in a spectacular and predictable manner during October/November and November/ December during the last quarter of the moon. It is a well known phenomenon in Tonga and Samoa, as it is in Fiji, but, as far as we can tell, either does not occur or is not recognised in other parts of Polynesia. However, the name for the worm is known in Tuvalu and East Uvean at least. In East Futuna _palolo-muʔa_ and _palolo-muli_ refer to star names and thus the lunar months identified with these stars. In Tokelau, Mangaia, Tuamotu, Tahiti and no doubt other parts, the terms exist apparently only as month or seasonal names.[^28] Lack of Tongic reflexes means we cannot reconstruct these terms to PPn in spite of the fact that reflexes occur in compounds in well separated languages. PNPn _&ast;palolo muqa_ and _&ast;palolo muli_ referred to the minor and major spawnings of the palolo. More than any of the other month names, we can be reasonably sure of the chronological assignment of the palolo months because of the regular pattern of the palolo’s spawning. Their association with the wrong months, even in Samoa, indicates that they have become primarily names in a system divorced from their original meaning.
+In parts of Polynesia, just as in parts of western Melanesia, the palolo worm (_Eunice viridis_) spawns in a spectacular and predictable manner during October/November and November/ December during the last quarter of the moon. It is a well known phenomenon in Tonga and Samoa, as it is in Fiji, but, as far as we can tell, either does not occur or is not recognised in other parts of Polynesia. However, the name for the worm is known in Tuvalu and East Uvean at least. In East Futuna _palolo-muʔa_ and _palolo-muli_ refer to star names and thus the lunar months identified with these stars. In Tokelau, Mangaia, Tuamotu, Tahiti and no doubt other parts, the terms exist apparently only as month or seasonal names.[^28]: Lack of Tongic reflexes means we cannot reconstruct these terms to PPn in spite of the fact that reflexes occur in compounds in well separated languages. PNPn _&ast;palolo muqa_ and _&ast;palolo muli_ referred to the minor and major spawnings of the palolo. More than any of the other month names, we can be reasonably sure of the chronological assignment of the palolo months because of the regular pattern of the palolo’s spawning. Their association with the wrong months, even in Samoa, indicates that they have become primarily names in a system divorced from their original meaning.
 
 
 <a id="p-353"></a>
@@ -1284,7 +1286,7 @@ It seems that the Polynesians were more systematic than speakers in western Mela
 
 <a id="p-357"></a>
 
-<a id="table-11.24"> </a>
+<a id="tab-11.24"> </a>
 
 : __Table 11.24__ Lunar month names in Polynesian interstage languages after [Kirch and Green](Source#cldf:KirchandGreen2001) ([2001](Source#cldf:KirchandGreen2001)) and as reconstructed here
 
@@ -1344,7 +1346,7 @@ Two particular checkpoints – the rising and setting Pleiades and the palolo ri
 
 <a id="p-358"></a>
 
-What we have reconstructed, therefore, is a lunar month calendar with assumed built-in flexibility. [Kirch & Green](Source#cldf:KirchandGreen2001) ([2001](Source#cldf:KirchandGreen2001):271) have also reconstructed a list, varying from ours in some of its month assignments and in the interstage to which a number of terms are reconstructed. Under our analysis fairly complete sets of month names are reconstructed for PNPn and PEPn, and a partial set for PPn. The two calendars are reproduced as [Table 11.24](#table-11.24), where “<” means ‘a reflex of the term to the left’.
+What we have reconstructed, therefore, is a lunar month calendar with assumed built-in flexibility. [Kirch & Green](Source#cldf:KirchandGreen2001) ([2001](Source#cldf:KirchandGreen2001):271) have also reconstructed a list, varying from ours in some of its month assignments and in the interstage to which a number of terms are reconstructed. Under our analysis fairly complete sets of month names are reconstructed for PNPn and PEPn, and a partial set for PPn. The two calendars are reproduced as [Table 11.24](#tab-11.24), where “<” means ‘a reflex of the term to the left’.
 
 As the rightmost column of the table shows, month names are largely a mixture of agricultural terms and star names. However, none of the PPn terms as reconstructed here are star names, and it is a reasonable speculation that PPn had a set of month names based on the yam cycle, the weather and the palolo risings, and that star names replaced some of these as Polynesian speakers moved further eastward and left their yam-growing culture behind them.
 
@@ -1362,14 +1364,14 @@ Sets of moon phase terms in Oceanic languages show considerable variety. This ma
 ### 6.1. Full moon and associated terms
 
 
-One piece of evidence that month names primarily label full moons ([§11.5](ContributionTable?anchor=s-11-5#cldf:6-11)) is found in the distribution of moon phase terms. Almost all available moon phase sets have a term for ‘full moon’. Some WOc languages (Dobu, Manam, Halia) have no other phase terms listed. Other languages have terms that cluster around or after the full moon, and these are shown in [Table 11.25](#table-11.25). The leftmost column numbers the approximate[^29] nights of a lunar month, counting the western “new moon” (the night when the moon does not appear) as ‘1’ and the night it is last seen before the next “new moon” as ‘30’. The second column labels the phases by their conventional western names.
+One piece of evidence that month names primarily label full moons ([§11.5](ContributionTable?anchor=s-11-5#cldf:6-11)) is found in the distribution of moon phase terms. Almost all available moon phase sets have a term for ‘full moon’. Some WOc languages (Dobu, Manam, Halia) have no other phase terms listed. Other languages have terms that cluster around or after the full moon, and these are shown in [Table 11.25](#tab-11.25). The leftmost column numbers the approximate[^29]: nights of a lunar month, counting the western “new moon” (the night when the moon does not appear) as ‘1’ and the night it is last seen before the next “new moon” as ‘30’. The second column labels the phases by their conventional western names.
 
-A striking feature of [Table 11.25](#table-11.25) is the number of empty cells in it. Kilivila and Maringe ([Table 11.26](#table-11.26)) also have a set of moon phase terms, but not the remaining languages. The blanks highlight the fact that each of these languages has names for the days in a sequence that includes the full moon,[^30] but no names for the rest of the days of the month.[^31] Evidently, the time around the full moon was the most important part of the lunar cycle in these communities, and the full moon was (at least until recently) still celebrated through the night in some Oceanic communities.[^32]
+A striking feature of [Table 11.25](#tab-11.25) is the number of empty cells in it. Kilivila and Maringe ([Table 11.26](#tab-11.26)) also have a set of moon phase terms, but not the remaining languages. The blanks highlight the fact that each of these languages has names for the days in a sequence that includes the full moon,[^30]: but no names for the rest of the days of the month.[^31]: Evidently, the time around the full moon was the most important part of the lunar cycle in these communities, and the full moon was (at least until recently) still celebrated through the night in some Oceanic communities.[^32]:
 
 
 <a id="p-359"></a>
 
-<a id="table-11.25"> </a>
+<a id="tab-11.25"> </a>
 
 : __Table 11.25__ Terms for phases that cluster around full moon
 
@@ -1455,14 +1457,14 @@ Fewer languages have a term for the half moon (the ‘quarter moon’ in western
 
 Setting aside phase term sets that only have terms for the new moon and the full moon, phase term sets fall into two types. Type 1 sets include terms that indicate whether the moon is waxing or waning. Terms in a type 2 set describe only the shape of the moon (so that, for example, a waxing half moon and a waning half moon are both described by a single term). Strictly speaking, the latter are not phase terms proper, but shape terms. Both types include terms for full moon and for new moon, and it would be possible to divide the terms in [§11.6.1](ContributionTable?anchor=s-11-6-1#cldf:6-11) and [§11.6.2](ContributionTable?anchor=s-11-6-2#cldf:6-11) into phase terms and shape terms, but we have elected not to do so, partly because there are full and new moon terms that have no explanatory gloss.
 
-Sets of both types differ along another dimension, namely how many phases or shapes they distinguish. This presupposes that the source from which we derive each set includes all members of that language’s set. The sets in [§11.6.4](ContributionTable?anchor=s-11-6-4#cldf:6-11) are each made up of phase terms, but these are short phases clustering around the full moon. [Table 11.26](#table-11.26) is a tabulation of the Maringe moon phase terms found in various entries in [White et al.](Source#cldf:Whiteetal1988) ([1988](Source#cldf:Whiteetal1988)).
+Sets of both types differ along another dimension, namely how many phases or shapes they distinguish. This presupposes that the source from which we derive each set includes all members of that language’s set. The sets in [§11.6.4](ContributionTable?anchor=s-11-6-4#cldf:6-11) are each made up of phase terms, but these are short phases clustering around the full moon. [Table 11.26](#tab-11.26) is a tabulation of the Maringe moon phase terms found in various entries in [White et al.](Source#cldf:Whiteetal1988) ([1988](Source#cldf:Whiteetal1988)).
 
 
 <a id="p-362"></a>
 
 Maringe terms for specific days cluster after the new moon and full moon, and the remaining terms cover the periods in between. Where other meanings for the terms are known, these are shown in the column headed ‘Glosses’. Some are descriptive, like _khakla-fagalo_ ‘hibiscus leaf’ = waxing gibbous moon, and _ɣlaba-rane_ ‘daylight moon’ = full moon. Others are perhaps drawn from narratives associated with the moon, e.g. _kakhana-ɣolihe_ ‘the spirit reappears’ = second day of the waxing crescent moon, and _faŋala-baʔesu_ ‘the shark bites’ = second day of the waning gibbous moon. The likelihood that the latter belongs to a narrative is supported by an alternative term for the previous night, _fafiau-fihalu baʔesu_, glossed by White et al. as “‘shark sniffs (the moon)’ as it waits under cover of darkness for the moon to rise”. The Maringe term for the western ninth day (first quarter) appears odd, as it contains the word _fitu_ ‘seven’, but White et al. explain that it marks the seventh day (the middle) of the period between _bugaɣra_, the first crescent moon, and the full moon, i.e. the seventh day if the day following _bugaɣra_, i.e. _kakhana-ɣolihe_, is counted as the first.
 
-<a id="table-11.26"> </a>
+<a id="tab-11.26"> </a>
 
 : __Table 11.26__ Moon phase terms in Maringe (MM, Santa Isabel)
 
@@ -1491,7 +1493,7 @@ The Maringe set nicely illustrates the use of metaphor and of allusion to narrat
 
 <a id="p-363"></a>
 
-Another set comes from Motu (PT). Note the clustering of terms after the full moon, some- what like the sets in [Table 11.25](#table-11.25).
+Another set comes from Motu (PT). Note the clustering of terms after the full moon, some- what like the sets in [Table 11.25](#tab-11.25).
 
 [6-11-6-4-363-pt-motu-doai](cf.csv#cldf:6-11-6-4-363-pt-motu-doai)
 
@@ -1510,9 +1512,9 @@ Similar sets evidently occur further east, but the data are sparse. The Mwotlap 
 
 <a id="p-364"></a>
 
-<a id="table-11.27"> </a>
+<a id="tab-11.27"> </a>
 
-: __Table 11.27__ Moon phases in Hawaiian[^33]
+: __Table 11.27__ Moon phases in Hawaiian[^33]:
 
 |                  |                   |              |                            |
 |:-----------------|:------------------|:-------------|:---------------------------|
@@ -1534,14 +1536,14 @@ Similar sets evidently occur further east, but the data are sparse. The Mwotlap 
 | 29               | waning crescent   | _lono_       | name of a god              |
 | 30               | waning crescent   | _mauli_      |                            |
 
-The seemingly most articulated set of Oceanic moon phase terms is found in Hawaiian, where every day of the lunar cycle has a name, as in [Table 11.27](#table-11.27). However, a little deconstruction shows that a number of the phase terms fall into smaller sets, and the days within each set are numbered. Thus days 4–6 share _kū-_ ‘stand’, giving _kū-kahi_ [stand-1], _kū-lua_ [stand-2], _kū-kolu_ [stand-3], _kū-pau_ [stand-last]. The _ʔole-ku-_ ‘not stand’ set for days 8–11 recurs, counting again from _kahi_ ‘1’, as days 22–24. Presumably _kū-_ was once a term covering several days, in the same way as certain Maringe terms in [Table 11.26](#table-11.26) covered several days. Numbers were later added to enumerate the days within that phase. Days with their own names cluster around the full moon (as in [Table 11.25](#table-11.25)) and the new moon. The glosses appear to reflect a mixture of names of Hawaiian deities and names designating good (_kū-_ ‘stand’) and bad (_ʔole-kū-_ ‘not stand’) planting and fishing days.
+The seemingly most articulated set of Oceanic moon phase terms is found in Hawaiian, where every day of the lunar cycle has a name, as in [Table 11.27](#tab-11.27). However, a little deconstruction shows that a number of the phase terms fall into smaller sets, and the days within each set are numbered. Thus days 4–6 share _kū-_ ‘stand’, giving _kū-kahi_ [stand-1], _kū-lua_ [stand-2], _kū-kolu_ [stand-3], _kū-pau_ [stand-last]. The _ʔole-ku-_ ‘not stand’ set for days 8–11 recurs, counting again from _kahi_ ‘1’, as days 22–24. Presumably _kū-_ was once a term covering several days, in the same way as certain Maringe terms in [Table 11.26](#tab-11.26) covered several days. Numbers were later added to enumerate the days within that phase. Days with their own names cluster around the full moon (as in [Table 11.25](#tab-11.25)) and the new moon. The glosses appear to reflect a mixture of names of Hawaiian deities and names designating good (_kū-_ ‘stand’) and bad (_ʔole-kū-_ ‘not stand’) planting and fishing days.
 
-In its full listing the most complex set of moon shape terms is from ’Are’are (SES), listed by Geerts under _hura_ ‘moon’, but the analysis in [Table 11.28](#table-11.28) shows that it is less complex than it looks. The days from 1 to 14, i.e. the days before the full moon, are labelled in pairs. Thus day 1 (new moon) is _tari-waro ara_, day 2 _tari-waro oreta_. Each pair is labelled with _ara_ ‘first’[^34] and _oreta_ ‘last’. Days 15 and 16, the latter the full moon, are _inoni ara_ and _inoni oreta_, after which days 17–30 repeat the pair labels of days 1–14 but in reverse order, so that day 17 is _hura-para ara_ and day 18 is _hura-para oreta_, and so on. The terms are at least partly metaphorical.
+In its full listing the most complex set of moon shape terms is from ’Are’are (SES), listed by Geerts under _hura_ ‘moon’, but the analysis in [Table 11.28](#tab-11.28) shows that it is less complex than it looks. The days from 1 to 14, i.e. the days before the full moon, are labelled in pairs. Thus day 1 (new moon) is _tari-waro ara_, day 2 _tari-waro oreta_. Each pair is labelled with _ara_ ‘first’[^34]: and _oreta_ ‘last’. Days 15 and 16, the latter the full moon, are _inoni ara_ and _inoni oreta_, after which days 17–30 repeat the pair labels of days 1–14 but in reverse order, so that day 17 is _hura-para ara_ and day 18 is _hura-para oreta_, and so on. The terms are at least partly metaphorical.
 
 
 <a id="p-365"></a>
 
-<a id="table-11.28"> </a>
+<a id="tab-11.28"> </a>
 
 : __Table 11.28__ Moon phases in ’Are’are
 
@@ -1633,11 +1635,11 @@ Although similar kinds of checkpoints identifying times in the annual cycle were
 ### 7.4. Moons could be named as one-offs but not as part of a system.
 
 
-For those communities where the palolo rising was celebrated, two successive moons might be named by the event. They might then form part of a regular seasonal pattern as in the Torres and Banks Islands ([Table 11.20](#table-11.20)). But the names, now referring to weather and plant cycles, could not continue to refer strictly to moons. Those who tried to connect regularly named times of year with the lunar cycle would quickly get out of sync. So if particular moons other than the palolo moons were named, they were moons identified by their relationship with some event in village life. Malinowski offers an explanation for naming particular moons. He writes that in the Trobriands:
+For those communities where the palolo rising was celebrated, two successive moons might be named by the event. They might then form part of a regular seasonal pattern as in the Torres and Banks Islands ([Table 11.20](#tab-11.20)). But the names, now referring to weather and plant cycles, could not continue to refer strictly to moons. Those who tried to connect regularly named times of year with the lunar cycle would quickly get out of sync. So if particular moons other than the palolo moons were named, they were moons identified by their relationship with some event in village life. Malinowski offers an explanation for naming particular moons. He writes that in the Trobriands:
 
 > the whole scheme is not a division of the year into a number of moons, rather a method of calculating moons, especially full moons, standing for important tribal movements, which cover interesting and dramatic times of the year. And as the year—that period of garden cultivation and other important tribal events—interests them first with regard to gardens and supply of food, so moons which are relevant in these respects are named and known by name and are divided into a scheme of growth represented by plenty and scarcity. ([Malinowski 1927](Source#cldf:Malinowski1927):215)
 
-For instance, he writes (1927:211), that _Milamala_ is the moon of festivities after the harvest, and that the names of _Milamala_, _Kuluwasasa_, the preceding month when harvesting is done, and _Yakosi_, the moon that follows _Milamala_ “are universally known to the natives and they are used by everybody” (p32). See also [§11.5.1](ContributionTable?anchor=s-11-5-1#cldf:6-11).1 ([Table 11.10](#table-11.10)) for three moons similarly marked in Wogeo. It seems that a community might name a small number of full moons that mark a special time in their cultural life. A situation when 12 or 13 are named would mean a fixed list with some way of adjusting to the solar year, an exercise for which there was no evidence in POc times.
+For instance, he writes (1927:211), that _Milamala_ is the moon of festivities after the harvest, and that the names of _Milamala_, _Kuluwasasa_, the preceding month when harvesting is done, and _Yakosi_, the moon that follows _Milamala_ “are universally known to the natives and they are used by everybody” (p32). See also [§11.5.1](ContributionTable?anchor=s-11-5-1#cldf:6-11).1 ([Table 11.10](#tab-11.10)) for three moons similarly marked in Wogeo. It seems that a community might name a small number of full moons that mark a special time in their cultural life. A situation when 12 or 13 are named would mean a fixed list with some way of adjusting to the solar year, an exercise for which there was no evidence in POc times.
 
 
 <a id="s-7-5"></a>
@@ -1663,7 +1665,7 @@ Stars could be relied on when careful planning was required ([§11.4.2](Contribu
 
 [^5]: Supporting cognate sets are given in [vol.2:131](ContributionTable?anchor=p-131#cldf:2-5)–135.
 
-[^6]: Kiribati lies north of the Equator, so the dates given in [Table 11.1](#table-11.1) do not apply.
+[^6]: Kiribati lies north of the Equator, so the dates given in [Table 11.1](#tab-11.1) do not apply.
 
 [^7]: These astronomical risings and settings are respectively the heliacal (or cosmical) rising, the acronychal (or acronitic) rising, the cosmical setting and the heliacal setting (or acronychal/acronitic) setting). Heliacal means ‘coincident with the sun’ (rising when the sun rises, setting when the sun sets), while acronychal means ‘occurring at sunset’.
 
@@ -1679,7 +1681,7 @@ Stars could be relied on when careful planning was required ([§11.4.2](Contribu
 
 [^13]: Kairiru _munuan_ is inferred to have meant ‘palolo’ because of its evident cognacy with Wogeo _manuan_. It is not glossed by [Wivell](Source#cldf:Wivell1981b) ([1981b](Source#cldf:Wivell1981b)).
 
-[^14]: Proto Banks–Torres month terms are listed and reconstructed in [§11.5.5](ContributionTable?anchor=s-11-5-5#cldf:6-11), [Table 11.20](#table-11.20).
+[^14]: Proto Banks–Torres month terms are listed and reconstructed in [§11.5.5](ContributionTable?anchor=s-11-5-5#cldf:6-11), [Table 11.20](#tab-11.20).
 
 [^15]: A set of Proto Nuclear Polynesian month names is reconstructed in [§11.5.8](ContributionTable?anchor=s-11-5-8#cldf:6-11).2.
 
@@ -1687,7 +1689,7 @@ Stars could be relied on when careful planning was required ([§11.4.2](Contribu
 
 [^17]: We have found no instances in Vanuatu, but our collection of Vanuatu calendars is not well distributed and in some instances not well understood (see [§11.5.5](ContributionTable?anchor=s-11-5-5#cldf:6-11)).
 
-[^18]: Panoff's notes are lightly abbreviated. He glosses _ulasi_ as ‘small unidentified fish’, but [Madden’s](Source#cldf:Madden2002) ([2002](Source#cldf:Madden2002)) more precise gloss is used in [Table 11.11](#table-11.11).
+[^18]: Panoff's notes are lightly abbreviated. He glosses _ulasi_ as ‘small unidentified fish’, but [Madden’s](Source#cldf:Madden2002) ([2002](Source#cldf:Madden2002)) more precise gloss is used in [Table 11.11](#tab-11.11).
 
 [^19]: Malinowski in fact reported this in his first major Trobriand publication in 1916, but later either forgot or dismissed it. He wrote in 1916 in describing the _milamala_ festival, "[The festival] is held always at the same time of the year, in the first half of the moon, which is also called milamala. This moon is determined—as their calendar in general—by the position of the stars. And in Kiriwina proper, the full moon of _milamala_ falls in the second half of August or first half of September." And later he adds, "The dates of the moons are fixed by the position of the stars, in which astronomical art the natives of Wawela, a village lying on the beach in the southern half of the island, excel." (Malinowski 1954 [1916]: 179. 262).
 

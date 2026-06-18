@@ -8,7 +8,7 @@
 ## 1. Introduction
 
 
-Proto Oceanic speaking communities subsisted on what they could grow and gather and what they could glean from the reef and sea.[^1] Through their dependence on fishing, the inhabitants would have amassed knowledge of the environments favoured by particular fish, and awareness of fish habits as they related to such things as season of the year, the lunar and diurnal cycle, tidal movements, winds and currents. The times of certain fish to be fat, to be abundant, and to aggregate in a certain spot for spawning or feeding would have been marked.
+Proto Oceanic speaking communities subsisted on what they could grow and gather and what they could glean from the reef and sea.[^1]: Through their dependence on fishing, the inhabitants would have amassed knowledge of the environments favoured by particular fish, and awareness of fish habits as they related to such things as season of the year, the lunar and diurnal cycle, tidal movements, winds and currents. The times of certain fish to be fat, to be abundant, and to aggregate in a certain spot for spawning or feeding would have been marked.
 
 This chapter deals mainly with the names of fishes. Paul [Geraghty](Source#cldf:Geraghty1994) ([1994](Source#cldf:Geraghty1994)) and Robin [Hooper](Source#cldf:Hooper1994) ([1994](Source#cldf:Hooper1994)) have provided a substantial starting point with their work on reconstructing fish names for Proto Central Pacific and Proto Polynesian respectively. Their data and lower-level reconstructions are reproduced here when included in a higher level reconstruction. Otherwise I simply record the existence of a PCP or PPn reconstruction.
 
@@ -17,9 +17,9 @@ In most Oceanic languages the lexicon of fish names is the largest of all faunal
 
 <a id="p-26"></a>
 
-A preliminary question that arises is: Do varieties of fishes in the tropical Pacific diminish in number the further one moves east from the major land masses? From linguistic evidence alone it appears that the major families continue to be represented throughout the region, but the number of genera and species diminishes. The greatest number of families noted in a wordlist available to me is from one of the more remote locations.[^2]
+A preliminary question that arises is: Do varieties of fishes in the tropical Pacific diminish in number the further one moves east from the major land masses? From linguistic evidence alone it appears that the major families continue to be represented throughout the region, but the number of genera and species diminishes. The greatest number of families noted in a wordlist available to me is from one of the more remote locations.[^2]:
 
-[Davis’s](Source#cldf:Davis1999) ([1999](Source#cldf:Davis1999)) listing for Chuuk records 71 of the 78 families included in my survey.[^3] [Leach & Davidson](Source#cldf:LeachandDavidson2000) ([2000](Source#cldf:LeachandDavidson2000)) have considered the question from an archaeological perspective. From fish remains identified from 24 different island groups in the tropical Pacific they list 48 families that were taken in any quantity by prehistoric people (p.414). Although they note signs of regional specialisation, they write that this ‘cannot be explained by changes in natural abundance of fish types from one place to another’ but is due rather to aspects of human behaviour (p.416). Thus it should be possible to reconstruct terms to at least the taxonomic level of family from the full range of linguistic subgroups including Micronesia and Polynesia, notwithstanding that the range of environment declines. This is in contrast to the land-based flora and fauna.
+[Davis’s](Source#cldf:Davis1999) ([1999](Source#cldf:Davis1999)) listing for Chuuk records 71 of the 78 families included in my survey.[^3]: [Leach & Davidson](Source#cldf:LeachandDavidson2000) ([2000](Source#cldf:LeachandDavidson2000)) have considered the question from an archaeological perspective. From fish remains identified from 24 different island groups in the tropical Pacific they list 48 families that were taken in any quantity by prehistoric people (p.414). Although they note signs of regional specialisation, they write that this ‘cannot be explained by changes in natural abundance of fish types from one place to another’ but is due rather to aspects of human behaviour (p.416). Thus it should be possible to reconstruct terms to at least the taxonomic level of family from the full range of linguistic subgroups including Micronesia and Polynesia, notwithstanding that the range of environment declines. This is in contrast to the land-based flora and fauna.
 
 Although I have used western taxonomy as the basis of my classification, it should not be assumed that all Oceanic peoples used a similar system of organization. As an example, Edvard Hviding describes the system used by the people of the Marovo Lagoon, on the island of New Georgia, western Solomons. He writes:
 
@@ -110,7 +110,7 @@ Geraghty (p. 143) also lists PCP _&ast;qaso_ ‘k.o. large shark, _Carcharhinus_
 
 <a id="p-33"></a>
 
-Languages frequently use binomial terms to refer to particular shark species, although sometimes the generic first element is regarded as optional. Fijian (unspecified) uses _gio_[^4] + modifier, e.g, _gio uvi_ ‘_Carcharhinus plumbeus_, sandbar shark’, _gio daniva_ ‘_Galeo cerdo_, tiger shark’, _gio uluvai_ ‘hammerhead shark’ (Geraghty pers. comm.). Modifiers tend to develop independently in different languages, although elements recur. Two of the Fijian modifiers, _uvi_ and _daniva_, are found also in Polynesian terms, PPn _&ast;nai-ufi_ ‘k.o. large shark, probably tiger or grey reef shark’ and PPn _&ast;tanifa_ ‘tiger shark’. The latter is remarkably a reflex of POc _&ast;tanipa_ ‘sardine’ ([§7](ContributionTable?anchor=s-7#cldf:4-2)), presumably because of similar iridescent zigzag vertical lines on both tiger sharks and sardines ([Geraghty 1994](Source#cldf:Geraghty1994): p. 143).
+Languages frequently use binomial terms to refer to particular shark species, although sometimes the generic first element is regarded as optional. Fijian (unspecified) uses _gio_[^4]: + modifier, e.g, _gio uvi_ ‘_Carcharhinus plumbeus_, sandbar shark’, _gio daniva_ ‘_Galeo cerdo_, tiger shark’, _gio uluvai_ ‘hammerhead shark’ (Geraghty pers. comm.). Modifiers tend to develop independently in different languages, although elements recur. Two of the Fijian modifiers, _uvi_ and _daniva_, are found also in Polynesian terms, PPn _&ast;nai-ufi_ ‘k.o. large shark, probably tiger or grey reef shark’ and PPn _&ast;tanifa_ ‘tiger shark’. The latter is remarkably a reflex of POc _&ast;tanipa_ ‘sardine’ ([§7](ContributionTable?anchor=s-7#cldf:4-2)), presumably because of similar iridescent zigzag vertical lines on both tiger sharks and sardines ([Geraghty 1994](Source#cldf:Geraghty1994): p. 143).
 
 Probably because of similar wavy iridescent lines on the sides of Spanish mackerel, also a large predatory fish, reflexes of POc _&ast;taŋiRi_ ‘Spanish mackerel’ ([§57](ContributionTable?anchor=s-57#cldf:4-2)) have been incorporated into names for a kind of shark in Muyuw (PT) and Marovo (MM).
 
@@ -521,9 +521,9 @@ A lower-level reconstruction is PCP _&ast;baba_ ‘_Fistularia_, flutemouth’ (
 
 Most pipefishes (Syngnathidae) are long and thin, with a body covered in bony plates. Though poor swimmers and very sluggish, many are widely distributed by currents. Jointed bony armour of both species prevents active swimming. Fins are of little use and have degenerated ([Munro 1967](Source#cldf:Munro1967): p. 151).
 
-The seahorse probably did not hold much interest for early Oceanic speakers, being neither economically useful nor dangerous. Collected terms for it are rare, as evidenced by responses to a request from Bruce Biggs on the an-lang e-mail list in 1999.[^10] However, a common element is apparent from NNG, MM and SES terms, reinforced by a term from Yamdena (CMP), _bwa-watan_ ‘seahorse’ (_bwaye_ ‘crocodile’) which permits reliable reconstruction of the word for crocodile as the first element in an otherwise variable compound.
+The seahorse probably did not hold much interest for early Oceanic speakers, being neither economically useful nor dangerous. Collected terms for it are rare, as evidenced by responses to a request from Bruce Biggs on the an-lang e-mail list in 1999.[^10]: However, a common element is apparent from NNG, MM and SES terms, reinforced by a term from Yamdena (CMP), _bwa-watan_ ‘seahorse’ (_bwaye_ ‘crocodile’) which permits reliable reconstruction of the word for crocodile as the first element in an otherwise variable compound.
 
-[PMP &ast;_buqaya +_](cognatesetreferences.csv#cldf:4-2-16-None-56-POc-puqaya-a)
+[PMP &ast;_buqaya_](cognatesetreferences.csv#cldf:4-2-16-None-56-POc-puqaya-a)
 
 
 <a id="p-57"></a>
@@ -534,7 +534,7 @@ The seahorse probably did not hold much interest for early Oceanic speakers, bei
 
 
 
-Kove (NNG) uses the same comparison, albeit with a non-cognate term for ‘crocodile’, _baɣele ele ɑto_ ‘seahorse, pipefish’ (bayele ‘crocodile’, _ele_ 'its',_ato_ ‘messenger’) (Ann Chowning, pers. comm.[^11]). In Dobu (PT) the term for crocodile is _warigoa_, and that for seahorse or pipefish _wari-warigoa_, reduplication of the first two syllables being a common way of indicating an inferior or diminutive form of the named item ([Ross 2005b](Source#cldf:Ross2005b): 199).
+Kove (NNG) uses the same comparison, albeit with a non-cognate term for ‘crocodile’, _baɣele ele ɑto_ ‘seahorse, pipefish’ (bayele ‘crocodile’, _ele_ 'its',_ato_ ‘messenger’) (Ann Chowning, pers. comm.[^11]:). In Dobu (PT) the term for crocodile is _warigoa_, and that for seahorse or pipefish _wari-warigoa_, reduplication of the first two syllables being a common way of indicating an inferior or diminutive form of the named item ([Ross 2005b](Source#cldf:Ross2005b): 199).
 
 
 <a id="s-17"></a>
@@ -609,7 +609,7 @@ These are small silvery fishes occurring in large schools in shallow coastal wat
 
 Barracudas are fast-swimming, carnivorous, pike-like fish, elongated and slender, which slash their prey with sharp dog-like teeth. Larger ones are regarded as dangerous because they have been known to attack humans. Munro calls them good fighters. They have firm delicate flavoured flesh and are a valuable food fish. They are normally caught by trolling. Larger species occur in coastal waters over shoals and around reefs ([Munro 1967](Source#cldf:Munro1967): p.161).
 
-Growth stages of _Sphyraena barracuda_[^12] and _Sphyraena forsteri_ in Lau (SES) are _ono_, _mamal-ito_, _ili_ ([Akimichi 1978](Source#cldf:Akimichi1978):308). [Dye](Source#cldf:Dye1983) ([1983](Source#cldf:Dye1983):261) lists four growth stages for barracuda in the Niuatoputapu dialect of Tongan: _tupuŋa-ʔono_, _momoto_, _hapatū_, _ʔono_.
+Growth stages of _Sphyraena barracuda_[^12]: and _Sphyraena forsteri_ in Lau (SES) are _ono_, _mamal-ito_, _ili_ ([Akimichi 1978](Source#cldf:Akimichi1978):308). [Dye](Source#cldf:Dye1983) ([1983](Source#cldf:Dye1983):261) lists four growth stages for barracuda in the Niuatoputapu dialect of Tongan: _tupuŋa-ʔono_, _momoto_, _hapatū_, _ʔono_.
 
 Five POc terms are reconstructable, with _&ast;qonos_ possibly the generic. Final _&ast;-s_ is indicated by Nehan and the two Te Motu reflexes. Other reconstructions refer either to a particular species or to particular growth stages.
 
@@ -778,7 +778,7 @@ Oceanic reflexes of the next set refer fairly consistently to _Scomberoides_ spp
 
 [POc &ast;_kamaRi_](cognatesetreferences.csv#cldf:4-2-26-None-72-POc-kamari-a)
 
-Malcolm Ross ([vol.2,49](ContributionTable?anchor=p-49#cldf:2-3)-50) reconstructs POc _&ast;mala_ ‘resembling’ which occurs in plant names and occasionally, it seems, in fish names as well. Of the terms listed in the set below, those consisting of a compound _mala_ + modifier could all be considered ‘resembling’ examples. If this is the common meaning of _&ast;mala_ we would expect it to be reflected in terms for fishes not necessarily related.[^18] The fact that the most frequent reference in this set is to carangids suggests that a similar form was a POc fish name. However, because the carangid examples are largely restricted to the Solomons (the only exception being Samoan), it may be that _&ast;mala_ came to be used in the Solomons as a generic for carangids, as Hviding has suggested for Marovo. For this reason no POc reconstruction is proposed.
+Malcolm Ross ([vol.2,49](ContributionTable?anchor=p-49#cldf:2-3)-50) reconstructs POc _&ast;mala_ ‘resembling’ which occurs in plant names and occasionally, it seems, in fish names as well. Of the terms listed in the set below, those consisting of a compound _mala_ + modifier could all be considered ‘resembling’ examples. If this is the common meaning of _&ast;mala_ we would expect it to be reflected in terms for fishes not necessarily related.[^18]: The fact that the most frequent reference in this set is to carangids suggests that a similar form was a POc fish name. However, because the carangid examples are largely restricted to the Solomons (the only exception being Samoan), it may be that _&ast;mala_ came to be used in the Solomons as a generic for carangids, as Hviding has suggested for Marovo. For this reason no POc reconstruction is proposed.
 
 [4-2-26-None-72-mm-patpatar-malala](cf.csv#cldf:4-2-26-None-72-mm-patpatar-malala)
 
@@ -853,14 +853,14 @@ There are many species of Lutjanidae, some quite distinctive in markings, and Oc
 
 
 
-The proposed gloss of POc _&ast;qutur_ is based on the agreement of non-Oceanic cognates with those of the Central Pacific.[^19] _Aprion virescens_, the green jobfish, is found at depths that vary from 0-180 metres (FishBase). See [§20](ContributionTable?anchor=s-20#cldf:4-2) regarding the homophony of this etymon with POc _&ast;qutur_ ‘k.o. fish, possibly _Sphyraena_ sp., barracuda’ .
+The proposed gloss of POc _&ast;qutur_ is based on the agreement of non-Oceanic cognates with those of the Central Pacific.[^19]: _Aprion virescens_, the green jobfish, is found at depths that vary from 0-180 metres (FishBase). See [§20](ContributionTable?anchor=s-20#cldf:4-2) regarding the homophony of this etymon with POc _&ast;qutur_ ‘k.o. fish, possibly _Sphyraena_ sp., barracuda’ .
 
 [PMP &ast;_qutur_](cognatesetreferences.csv#cldf:4-2-30-None-75-POc-qutur-a)
 
 
 <a id="p-76"></a>
 
-In the set below, the Andra, Kilivila and Temotu items reflect _&ast;bʷapa_ rather than _&ast;bʷawa_. I have no explanation for this variation. The Fijian and Polynesian reflexes show coalescence of _&ast;-wa_ as _-o_.[^20]
+In the set below, the Andra, Kilivila and Temotu items reflect _&ast;bʷapa_ rather than _&ast;bʷawa_. I have no explanation for this variation. The Fijian and Polynesian reflexes show coalescence of _&ast;-wa_ as _-o_.[^20]:
 
 [POc &ast;_bʷa&#91;p,w&#93;a_](cognatesetreferences.csv#cldf:4-2-30-None-76-POc-bapwa-a)
 
@@ -1203,7 +1203,7 @@ Both POc _&ast;mamin_ and POc _&ast;taŋapa(R,r)_ have reflexes which refer spec
 
 <a id="p-95"></a>
 
-Lower-level reconstructions include PCP _&ast;labe_, PPn _&ast;lape_ [^29] ‘Labridae, wrasse’, PPn _&ast;suŋale_ ‘Labridae’ and PPn _&ast;ŋutuloa_ ‘_Epibulis insidiator_ slingjaw wrasse, or other longnosed wrasse’ (_ŋutu-loa_ lit. ‘long nose’) (Geraghty p.159, Hooper pp.217-218).
+Lower-level reconstructions include PCP _&ast;labe_, PPn _&ast;lape_ [^29]: ‘Labridae, wrasse’, PPn _&ast;suŋale_ ‘Labridae’ and PPn _&ast;ŋutuloa_ ‘_Epibulis insidiator_ slingjaw wrasse, or other longnosed wrasse’ (_ŋutu-loa_ lit. ‘long nose’) (Geraghty p.159, Hooper pp.217-218).
 
 
 <a id="s-47"></a>

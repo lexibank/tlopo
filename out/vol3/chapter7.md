@@ -11,7 +11,7 @@ This chapter focuses principally on the lowland tropical rain forests of New Bri
 
 Also included here are trees which grow in freshwater swamp forest, a habitat that is not common in the Bismarcks, though more widespread in Bougainville and parts of the Solomons ([ch.2, §3.1.3](../contributions/3-2#s-3-1-3)). Excluded are (i) plants that mainly occur in littoral forest (see chapter 5) and (ii) plants that occur in the wild but are also tended or cultivated to some degree (see chapters 9-11 and 13).
 
-In POc times, the Bismarcks would have been almost completely covered in rain forest, and much of their area remained so until 30 years ago, although there were of course substantial portions of secondary forest resulting from the agricultural activities of Oceanic speakers over 3000 years ([ch.2, §3.2](../contributions/3-2#s-3-2)).[^1]
+In POc times, the Bismarcks would have been almost completely covered in rain forest, and much of their area remained so until 30 years ago, although there were of course substantial portions of secondary forest resulting from the agricultural activities of Oceanic speakers over 3000 years ([ch.2, §3.2](../contributions/3-2#s-3-2)).[^1]:
 
 Although New Britain and New Ireland have two distinct soil types, one limestone-based, the other volcanic, there is surprisingly little difference in their species composition. Major lowland rain forest tree genera include Pometia, _Octomeles_, _Alstonia_, Campnosperma, _Canarium_, _Dracontomelon_, _Pterocymbium_, Crytocarya, Intsia, _Ficus_, _Terminalia_ and _Vitex_.
 
@@ -28,7 +28,7 @@ Freshwater swamp forests on New Britain and New Ireland include Campnosperma bre
 ## 2. Rain forest layers
 
 
-A rain forest typically has four or five layers (opinions differ on the division of the lower layers), and these provided the basis for the organisation of this chapter.[^2]
+A rain forest typically has four or five layers (opinions differ on the division of the lower layers), and these provided the basis for the organisation of this chapter.[^2]:
 
 The tallest trees, spaced well apart, jut out above the forest canopy with umbrella-shaped crowns at heights of over 50 m. These __emergent trees__, treated in [§3](../contributions/3-7#s-3), have straight, smooth trunks with few branches. They need to be able to withstand high temperatures and drying winds and tend to have small, pointed leaves. Some species lose their leaves during the brief dry season in monsoon rainforests.
 
@@ -162,7 +162,7 @@ On New Britain and on Manus its trunk is used for canoe hulls, on New Britain al
 
 The reconstruction of a term (or terms) for _Falcataria moluccana_ is difficult. [Kwa'ioloa & Burt](../sources/KwaioloaandBurt2001) ([2001](../sources/KwaioloaandBurt2001): 107), discussing the similar _Albizia salomonensis_ on Malaita, say that it only grows close to rivers and prefers sandy soils. If the same is true of _Falcataria moluccana_, then its occurrence in Bismarcks rain forests three thousand years ago may have been rather rare, resulting in the frequent loss of inherited terms for the species. Alternatively, the fact that it has little use may account for the dearth of cognates ([ch.14, §2](../contributions/3-14#s-2)).
 
-All three reconstructions below entail uncertainties. POc _&ast;babak_ has just two reflexes. With regard to POc _&ast;pail_ and _&ast;kai(k)_, POc vowel sequences like _&ast;-ai-_ were fairly rare, and it is possible that _&ast;q_ intervened between _&ast;a_ and _&ast;i_, but _&ast;-q-_ is reflected in none of the modern languages nor in the CMP cognates which support the reconstruction of PCEMP _&ast;bail_[^3] and _&ast;ka(w)iak_.[^4] The latter is reconstructed with an uncertain medial _-w-_, reflected in E Sumba _kawia[ka]_. If _-w-_ was present at an earlier stage, it is irregularly lost in Nakanai _kai_.
+All three reconstructions below entail uncertainties. POc _&ast;babak_ has just two reflexes. With regard to POc _&ast;pail_ and _&ast;kai(k)_, POc vowel sequences like _&ast;-ai-_ were fairly rare, and it is possible that _&ast;q_ intervened between _&ast;a_ and _&ast;i_, but _&ast;-q-_ is reflected in none of the modern languages nor in the CMP cognates which support the reconstruction of PCEMP _&ast;bail_[^3]: and _&ast;ka(w)iak_.[^4]: The latter is reconstructed with an uncertain medial _-w-_, reflected in E Sumba _kawia[ka]_. If _-w-_ was present at an earlier stage, it is irregularly lost in Nakanai _kai_.
 
 <table class="cognateset" id="3-7-3-2-188-POc-babak-a">
 <tr>
@@ -270,7 +270,7 @@ All three reconstructions below entail uncertainties. POc _&ast;babak_ has just 
 
 _Octomeles sumatrana_ is one of the tallest trees in the Bismarck Archipelago and Bougainville, at 40-80 m tall with huge buttresses, above which the trunk of soft white wood is up to 2.5 m in diameter ([Peekel 1984](../sources/Peekel1984): 391). The nectar-rich flowers attract flying foxes ([Record 1945](../sources/Record1945)). The wood is widely used in the Bismarcks to make canoes ([Floyd 1954](../sources/Floyd1954), [Peekel 1984](../sources/Peekel1984):391, [Arentz et al. 1989](../sources/Arentzetal1989):93, [Floyd 1954](../sources/Floyd1954), [Bugenhagen & Bugenhagen n.d.](../sources/BugenhagenandBugenhagennd)).
 
-_Octomeles sumatrana_ is apparently of little significance in the Solomons ([Whitmore 1966](../sources/Whitmore1966))[^5] and does not occur at all in Vanuatu, to judge from its absence from [Gowers](../sources/Gowers1976) ([1976](../sources/Gowers1976)) and [Wheatley](../sources/Wheatley1992) ([1992](../sources/Wheatley1992)).
+_Octomeles sumatrana_ is apparently of little significance in the Solomons ([Whitmore 1966](../sources/Whitmore1966))[^5]: and does not occur at all in Vanuatu, to judge from its absence from [Gowers](../sources/Gowers1976) ([1976](../sources/Gowers1976)) and [Wheatley](../sources/Wheatley1992) ([1992](../sources/Wheatley1992)).
 
 The reconstruction below is for PWOc only, but this is not surprising in view of the limited distribution. Two versions of the reconstruction are supported, _&ast;kuRim(a,o)_ and _&ast;iRim(a,o)_. They overlap geographically, and their initial syllables may simply reflect different prefixes ([ch.2, §7.1.2](../contributions/3-2#s-7-1-2)).
 
@@ -357,7 +357,7 @@ The reconstruction below is for PWOc only, but this is not surprising in view of
 
 As a rough rule of thumb, trees of the forest canopy are assumed to be those which grow to between 30 and 50 m. There are also several species, noted in the subsections of [§5](../contributions/3-7#s-5), which are usually sub-canopy trees but which grow taller in some localities and become part of the canopy itself.
 
-Certain trees of the forest canopy are treated elsewhere in this volume. Strangler figs become part of the forest canopy by using an existing tree as host to piggyback their way into the light (ch.1 0, [§4](../contributions/3-7#s-4)). _Canarium_ species and _Terminalia_ species, especially _Terminalia kaernbachii_, and _Pometia pinnata_, are canopy trees in the Bismarcks, but have also long been cultivated, the first two for their nuts and _Pometia pinnata_ for its fruit, and are thus treated in ch.11 (§[§2.1](../contributions/3-7#s-2-1), 2.4 and 3.5 respectively).
+Certain trees of the forest canopy are treated elsewhere in this volume. Strangler figs become part of the forest canopy by using an existing tree as host to piggyback their way into the light (ch.1 0, [§4](../contributions/3-7#s-4)). _Canarium_ species and _Terminalia_ species, especially _Terminalia kaernbachii_, and _Pometia pinnata_, are canopy trees in the Bismarcks, but have also long been cultivated, the first two for their nuts and _Pometia pinnata_ for its fruit, and are thus treated in ch.11 (§§2.1, 2.4 and 3.5 respectively).
 
 There are several canopy trees that are only reported from lowland rain forests in the Solomons but not in the Bismarcks, and for some of these no POc term can be reconstructed. This is perhaps significant, given that the POc homeland is believed to have been in the Bismarcks ([vol.2, ch.2](../contributions/2-2#)). These trees are _Gmelina moluccana_, _Pterocymbium_ species, _Schizomeria serrata_ and _Terminalia calamansanai_ ([Mueller-Dombois & Fosberg 1998](../sources/MuellerDomboisandFosberg1998): 53-54).
 
@@ -408,18 +408,18 @@ _Campnosperma brevipetiolatum_ is apparently not found in Remote Oceania, and it
 ### 4.2. _Cinnamomum_ spp., wild cinnamon (Lauraceae)
 
 
-Trees of the genus _Cinnamomum_ grow to 30 m. They are known for their barks, which are widely processed to make spices and to extract essential oils. Only one of the items in the cognate set supporting POc _&ast;(m,mʷ)aso(q)u_ '_Cinnamomum_ sp.' includes a species-level identification within the genus _Cinnamomum_: Lou _moso_ is glossed as _Cinnamomum xanthoneuron_, a 'wild cinnamon'. This is not one of the three species that provide commercial cinnamon bark,[^6] but one of two tree species exploited by German traders on the north coast of New Guinea under German colonial rule and into the 1930s for their essential oils. The other was not a _Cinnamomum_ species but _Cryptocarya aromatica_ (syn. _Cryptocarya massoy_, _Massoia aromatica_), and there was much confusion as to which oil came from the bark of which tree. The oils from these two species are known as lawag oil and massoia oil.[^7] It is possible that Mager's gloss of the Bing and Gedaged reflexes as _Cryptocarya aromatica_ reflects this confusion and that the intended denotatum was _Cinnamomum xanthoneuron_. At any rate, it seems likely that POc _&ast;(m,mʷ)aso(q)u_ did indeed denote _Cinnamomum xanthoneuron_. The fragrance of _Cinnamomum xanthoneuron_ (and/or _Cryptocarya aromatica_) bark was known to the traditional residents of north New Guinea and the Bismarcks, as Mager (19 52: 204) reports in his gloss of the Gedaged and Bing items,
+Trees of the genus _Cinnamomum_ grow to 30 m. They are known for their barks, which are widely processed to make spices and to extract essential oils. Only one of the items in the cognate set supporting POc _&ast;(m,mʷ)aso(q)u_ '_Cinnamomum_ sp.' includes a species-level identification within the genus _Cinnamomum_: Lou _moso_ is glossed as _Cinnamomum xanthoneuron_, a 'wild cinnamon'. This is not one of the three species that provide commercial cinnamon bark,[^6]: but one of two tree species exploited by German traders on the north coast of New Guinea under German colonial rule and into the 1930s for their essential oils. The other was not a _Cinnamomum_ species but _Cryptocarya aromatica_ (syn. _Cryptocarya massoy_, _Massoia aromatica_), and there was much confusion as to which oil came from the bark of which tree. The oils from these two species are known as lawag oil and massoia oil.[^7]: It is possible that Mager's gloss of the Bing and Gedaged reflexes as _Cryptocarya aromatica_ reflects this confusion and that the intended denotatum was _Cinnamomum xanthoneuron_. At any rate, it seems likely that POc _&ast;(m,mʷ)aso(q)u_ did indeed denote _Cinnamomum xanthoneuron_. The fragrance of _Cinnamomum xanthoneuron_ (and/or _Cryptocarya aromatica_) bark was known to the traditional residents of north New Guinea and the Bismarcks, as Mager (19 52: 204) reports in his gloss of the Gedaged and Bing items,
 
 > The bark is used a great deal in sorcery. It is chewed and spit [sic] out into the face of the spirits, so as to drive them away. A piece of bark is carried in the net bag to keep evil spirits from harming the child.
 
 [Arentz et al.](../sources/Arentzetal1989) ([1989](../sources/Arentzetal1989): 92) also report that on New Britain the bark is consumed as a medicine against fever and stomach pain.
 
-POc _&ast;(m,mʷ)aso(q)u_ has cognates in the languages of Java: Sundanese _maŋsoi_, Javanese _masoyi_, _masogi_, Madurese _masoji_, all denoting massoia oil rather than a tree species. The species label 'massoy' and the term 'massoia' are probably derived from the Javanese term, but, as a result of the confusion between the two oils, are applied to _Cryptocarya aromatica_, syn. massoy, and its essential oil, rather than to _Cinnamomum xanthoneuron_. It seems likely, incidentally, that Are _masoɣi_ (for †_masou_) is a borrowing, perhaps indirectly, from Javanese, rather than a directly inherited reflex of _&ast;(m,mʷ)aso(q)u_.[^8]
+POc _&ast;(m,mʷ)aso(q)u_ has cognates in the languages of Java: Sundanese _maŋsoi_, Javanese _masoyi_, _masogi_, Madurese _masoji_, all denoting massoia oil rather than a tree species. The species label 'massoy' and the term 'massoia' are probably derived from the Javanese term, but, as a result of the confusion between the two oils, are applied to _Cryptocarya aromatica_, syn. massoy, and its essential oil, rather than to _Cinnamomum xanthoneuron_. It seems likely, incidentally, that Are _masoɣi_ (for †_masou_) is a borrowing, perhaps indirectly, from Javanese, rather than a directly inherited reflex of _&ast;(m,mʷ)aso(q)u_.[^8]:
 
 
 <a id="p-192"></a>
 
-The reflexes of POc _&ast;(m,mʷ)aso(q)u_ reveal a further set of complications. ([Blust 1981a](../sources/Blust1981a)) glosses the Lou and Nauna terms '_Cananga odorata_' ([§5.2](../contributions/3-7#s-5-2)), rather than a _Cinnamomum_ species, and this is also the gloss of the Meso-Melanesian reflexes. Fijian has two terms: Bauan _maðou_ 'wild cinnamon, _Cinnamomum_ sp.' and Bauan _makosoi_ / Wayan _mākosoi_, both '_Cananga odorata_'. The latter appear to be metathesised forms of a PCP compound _&ast;(m,mʷ)aso-koi_ 'perfume tree, _Cananga odorata_'.[^9] This raises the possibility that POc _&ast;(m,mʷ)aso(q)u_ denoted _Cananga odorata_ as well as cinnamon, i.e. that it denoted a taxon of perfumed trees. PCP then seems to have distinguished between _&ast;(m,mʷ)aso_ 'cinnamon' and _&ast;(m,mʷ)aso-koi_ '_Cananga odorata_'.
+The reflexes of POc _&ast;(m,mʷ)aso(q)u_ reveal a further set of complications. ([Blust 1981a](../sources/Blust1981a)) glosses the Lou and Nauna terms '_Cananga odorata_' ([§5.2](../contributions/3-7#s-5-2)), rather than a _Cinnamomum_ species, and this is also the gloss of the Meso-Melanesian reflexes. Fijian has two terms: Bauan _maðou_ 'wild cinnamon, _Cinnamomum_ sp.' and Bauan _makosoi_ / Wayan _mākosoi_, both '_Cananga odorata_'. The latter appear to be metathesised forms of a PCP compound _&ast;(m,mʷ)aso-koi_ 'perfume tree, _Cananga odorata_'.[^9]: This raises the possibility that POc _&ast;(m,mʷ)aso(q)u_ denoted _Cananga odorata_ as well as cinnamon, i.e. that it denoted a taxon of perfumed trees. PCP then seems to have distinguished between _&ast;(m,mʷ)aso_ 'cinnamon' and _&ast;(m,mʷ)aso-koi_ '_Cananga odorata_'.
 
 The possibility that there was such a taxon is strengthened by an observation by Will McClatchey (pers. comm.) that the quote from Mager above could also be applied to the Fijian and Western Polynesian use of _Cananga odorata_.
 
@@ -585,11 +585,11 @@ cf. also:
 ### 4.3. _Dillenia schlechteri_ (syn. _Dillenia macrophylla_) (Dilleniaceae)
 
 
-There are many _Dillenia_ species in SE Asia and Oceania, some of them tall canopy trees, others smaller trees of the lower canopy.[^10] Only one species is reported from the Bismarcks ([Peekel 1984](../sources/Peekel1984): 375, [Conn & Damas 2006](../sources/ConnandDamas2006)), _Dillenia schlechteri_, a canopy tree 30--50 m tall with a light red trunk. However, there is linguistic evidence in the form of POc _&ast;drokol_ ([§5.4](../contributions/3-7#s-5-4)) that at least one sub-canopy species was known to POc speakers.
+There are many _Dillenia_ species in SE Asia and Oceania, some of them tall canopy trees, others smaller trees of the lower canopy.[^10]: Only one species is reported from the Bismarcks ([Peekel 1984](../sources/Peekel1984): 375, [Conn & Damas 2006](../sources/ConnandDamas2006)), _Dillenia schlechteri_, a canopy tree 30--50 m tall with a light red trunk. However, there is linguistic evidence in the form of POc _&ast;drokol_ ([§5.4](../contributions/3-7#s-5-4)) that at least one sub-canopy species was known to POc speakers.
 
 In the Admiralties _Dillenia schlechteri_ is used for house construction. The timber is said to last over 30 years if it is not exposed to the elements ([O'Collins & Lamothe 1989](../sources/OCollinsandLamothe1989)).
 
-The second and third vowels and the possible final consonant of POc _&ast;kulapu(R)_ '_Dillenia_ schlechteri' are due to the reconstruction of PMP _&ast;kelabuR_ 'large _Dillenia_ species' on the basis of the data below and of Blit Manobo _klambug (daka)_ '_Dillenia megalantha_' (cf[§5.4](../contributions/3-7#s-5-4)), Bagobo _kalambok_, Lanao _kalambuguy_,[^11] both '_Dillenia philippinensis_' ([Madulid 2001b](../sources/Madulid2001b): 100).
+The second and third vowels and the possible final consonant of POc _&ast;kulapu(R)_ '_Dillenia_ schlechteri' are due to the reconstruction of PMP _&ast;kelabuR_ 'large _Dillenia_ species' on the basis of the data below and of Blit Manobo _klambug (daka)_ '_Dillenia megalantha_' (cf[§5.4](../contributions/3-7#s-5-4)), Bagobo _kalambok_, Lanao _kalambuguy_,[^11]: both '_Dillenia philippinensis_' ([Madulid 2001b](../sources/Madulid2001b): 100).
 
 <table class="cognateset" id="3-7-4-3-193-POc-kulapur-a">
 <tr>
@@ -847,7 +847,7 @@ A salient feature of all _Dysoxylum_ species is their strong smell, which varies
 
 POc _&ast;maqota_ perhaps denoted a taxon including several _Dysoxylum_ species. All the species mentioned in the glosses below are tall canopy trees except _Dysoxylum kaniense_ and _Dysoxylum spectabile_, but this is perhaps because the larger species are more widespread and more salient.
 
-[Lynch](../sources/Lynch2001c) ([2001c](../sources/Lynch2001c): 242) attributes the SV members of the two cognate sets below to a single PSV etymon _&ast;ni-m(d,t)awan_, but they appear to reflect two etyma. PSV _&ast;nə-mtaw_ reflects metathesis of a variant form _&ast;mawota_, also reflected in Bauan Fijian _mavota_. Proto Erakor-Tafea ([Lynch 2001c](../sources/Lynch2001c): 189) _&ast;tuan_ is a separate etymon.[^13]
+[Lynch](../sources/Lynch2001c) ([2001c](../sources/Lynch2001c): 242) attributes the SV members of the two cognate sets below to a single PSV etymon _&ast;ni-m(d,t)awan_, but they appear to reflect two etyma. PSV _&ast;nə-mtaw_ reflects metathesis of a variant form _&ast;mawota_, also reflected in Bauan Fijian _mavota_. Proto Erakor-Tafea ([Lynch 2001c](../sources/Lynch2001c): 189) _&ast;tuan_ is a separate etymon.[^13]:
 
 <table class="cognateset" id="3-7-4-5-196-POc-maqota-a">
 <tr>
@@ -1034,7 +1034,7 @@ Within island Melanesia _Endospermum medullosum_ ([Figure 7.5](#fig-3-7_5), left
 
 
 
-A somewhat smaller but similar member of the genus is _Endospermum moluccanum_ (syn. _Endospermum formicarum_),[^14] sometimes a canopy tree up to 25m high, sometimes a sub-canopy tree ([Conn & Damas 2006](../sources/ConnandDamas2006)).
+A somewhat smaller but similar member of the genus is _Endospermum moluccanum_ (syn. _Endospermum formicarum_),[^14]: sometimes a canopy tree up to 25m high, sometimes a sub-canopy tree ([Conn & Damas 2006](../sources/ConnandDamas2006)).
 
 Both species have lightweight wood that is used for fishing-net floats. [Peekel](../sources/Peekel1984) ([1984](../sources/Peekel1984): 315) reports from New Ireland that the pith of the twigs of _Endospermum moluccanum_ is usually destroyed by black ants, which inhabit the resulting space. [Kwa'ioloa & Burt](../sources/KwaioloaandBurt2001) ([2001](../sources/KwaioloaandBurt2001): 115) report from Kwara'ae that _Endospermum medullosum_ is not used in house construction because the wood is eaten by insects.
 
@@ -1523,7 +1523,7 @@ The inherited meaning of POc _&ast;qipil_ was apparently '_Intsia bijuga_', but 
 ### 4.10. _Planchonella_ spp., B _komtri_ (Sapotaceae)
 
 
-_Planchonella_ species range in size from large canopy trees to small trees of the sub-canopy. The species division of the genus _Planchonella_ remains controversial ([Walter & Sam 2002](../sources/WalterandSam2002): 226), partly, it seems, because there is considerable variation within and across species. This is perhaps due to past domestication, but the literature gives little indication of present-day cultivation.[^16] [Borrell](../sources/Borrell1989) ([1989](../sources/Borrell1989): 134) identifies six species on Kairiru Island, two of which he is unable to name. There is also an overlap with the genus Pouteria, in the sense that species that have at one time or another been placed in the genus _Planchonella_ have at others been placed in the genus Pouteria. [Walter & Sam](../sources/WalterandSam2002) ([2002](../sources/WalterandSam2002): 226--227) include _Planchonella grayana_ in their catalogue of fruit trees but say that it is little consumed (because the pulp irritates the gums) except at Tasmate (west Santo), where the mature fruit is either roasted whole or peeled, then washed to remove latex before it is eaten.
+_Planchonella_ species range in size from large canopy trees to small trees of the sub-canopy. The species division of the genus _Planchonella_ remains controversial ([Walter & Sam 2002](../sources/WalterandSam2002): 226), partly, it seems, because there is considerable variation within and across species. This is perhaps due to past domestication, but the literature gives little indication of present-day cultivation.[^16]: [Borrell](../sources/Borrell1989) ([1989](../sources/Borrell1989): 134) identifies six species on Kairiru Island, two of which he is unable to name. There is also an overlap with the genus Pouteria, in the sense that species that have at one time or another been placed in the genus _Planchonella_ have at others been placed in the genus Pouteria. [Walter & Sam](../sources/WalterandSam2002) ([2002](../sources/WalterandSam2002): 226--227) include _Planchonella grayana_ in their catalogue of fruit trees but say that it is little consumed (because the pulp irritates the gums) except at Tasmate (west Santo), where the mature fruit is either roasted whole or peeled, then washed to remove latex before it is eaten.
 
 [Peekel](../sources/Peekel1984) ([1984](../sources/Peekel1984): 429-431) describes _Planchonella peekelii_ (syn. _Sideroxylon peekelii_), a tree about 15m tall with small ovoid fruit, but he does not mention consumption or any other use.
 
@@ -1821,7 +1821,7 @@ _Vitex cofassus_ grows 20-40 m tall ([Figure 7.6](#fig-3-7_6), right). It has a 
 
 A virtue of the hard wood is that it is not eaten by termites ([Blewett & Blewett n.d.](../sources/BlewettandBlewettnd)). In the Bismarck Archipelago it is used for tool handles, and in both the Bismarcks and the Solomons as timber for wall planking, house posts, canoe paddles and canoes, drums and for carving ([Powell 1976](../sources/Powell1976), [Henderson & Hancock 1988](../sources/HendersonandHancock1988): 190, [Hviding 2005](../sources/Hviding2005): 150, [Scales n.d.](../sources/Scalesnd)).
 
-The POc term for _Vitex cofassus_ was _&ast;pasa(r,R)_.[^17] [Milke](../sources/Milke1961) ([1961](../sources/Milke1961): 171) reconstructed an unglossed POc _&ast;pasa_ on the basis of the Arosi, Sa'a, Bauan Fijian and Samoan items below, together with Gedaged _safa_ '_Cerbera manghas_'. He assumes that the latter represents a metathesis, but, given the difference between the two species, this is an ad hoc assumption, and the Gedaged item is omitted here.
+The POc term for _Vitex cofassus_ was _&ast;pasa(r,R)_.[^17]: [Milke](../sources/Milke1961) ([1961](../sources/Milke1961): 171) reconstructed an unglossed POc _&ast;pasa_ on the basis of the Arosi, Sa'a, Bauan Fijian and Samoan items below, together with Gedaged _safa_ '_Cerbera manghas_'. He assumes that the latter represents a metathesis, but, given the difference between the two species, this is an ad hoc assumption, and the Gedaged item is omitted here.
 
 Riwo and Takia reflect Proto Bel _&ast;payaRi_. The presence of the final consonant and added _-i_ points to a loan. Babatana _vadaka_ is also evidently a loan from an unknown source.
 
@@ -2202,7 +2202,7 @@ Among the large trees are _Cryptocarya aromatica_, which was exploited by German
 
 <a id="p-210"></a>
 
-The sources of the data supporting POc _&ast;nipus_ '_Cryptocarya_ sp.', [O'Collins & Lamothe](../sources/OCollinsandLamothe1989) ([1989](../sources/OCollinsandLamothe1989)) and [Damon](../sources/Damon2004) ([2004](../sources/Damon2004)), do not provide enough information to allow a species identification, but O'Collins and Lamothe mention that the timber is used in house-building on Manus Island, implying that the species is not too small.[^18] The sources of the data supporting PWOc _&ast;ka(m,mʷ)apaR_ tell us that the Muyuw tree is more than 10 m tall, the Patpatar tree, dubbed _Cryptocarya kamahar_ by Peekel, 20--30 m tall.
+The sources of the data supporting POc _&ast;nipus_ '_Cryptocarya_ sp.', [O'Collins & Lamothe](../sources/OCollinsandLamothe1989) ([1989](../sources/OCollinsandLamothe1989)) and [Damon](../sources/Damon2004) ([2004](../sources/Damon2004)), do not provide enough information to allow a species identification, but O'Collins and Lamothe mention that the timber is used in house-building on Manus Island, implying that the species is not too small.[^18]: The sources of the data supporting PWOc _&ast;ka(m,mʷ)apaR_ tell us that the Muyuw tree is more than 10 m tall, the Patpatar tree, dubbed _Cryptocarya kamahar_ by Peekel, 20--30 m tall.
 
 Damon (In preparation) mentions that the nuts have a rich cinnamon-like smell and are important for medicinal purposes on Woodlark Island. Curiously, Muyuw people do not know the tree, as it grows away from areas they frequent, but they know its nuts because birds swallow them whole, then excrete them in their nests, complete with the endocarp, whence they are collected.
 
@@ -2262,7 +2262,7 @@ Damon (In preparation) mentions that the nuts have a rich cinnamon-like smell an
 ### 5.4. _Dillenia_ sp. (Dilleniaceae)
 
 
-It was noted in [§4.3](../contributions/3-7#s-4-3) that _Dillenia_ species range in size from trees of the lower canopy to tall canopy trees. Although accounts of Bismarcks flora make no mention of the presence of a smaller _Dillenia_ species, there is linguistic evidence that POc speakers knew such a species. Only two Oceanic reflexes have been found, both from Southern Vanuatu, both denoting _Dillenia biflora_, a tree with reddish brown bark that grows to about 15m ([Wheatley 1992](../sources/Wheatley1992): 79). POc _&ast;drokol_ (and PMP _&ast;de(k,g)el_) is reconstructable on the basis of the Southern Vanuatu data and three non-Oceanic cognates, Blit Manobo _(klambug) daka_ '_Dillenia megalantha_'[^19] ([Madulid 2001b](../sources/Madulid2001b): 100), Sundanese _səgəl_ and Javanese _ḍəgəl_, both '_Dillenia excelsa_' ([Heyne 1950](../sources/Heyne1950): 1071-1072). _Dillenia excelsa_ is also 10--15 min height.
+It was noted in [§4.3](../contributions/3-7#s-4-3) that _Dillenia_ species range in size from trees of the lower canopy to tall canopy trees. Although accounts of Bismarcks flora make no mention of the presence of a smaller _Dillenia_ species, there is linguistic evidence that POc speakers knew such a species. Only two Oceanic reflexes have been found, both from Southern Vanuatu, both denoting _Dillenia biflora_, a tree with reddish brown bark that grows to about 15m ([Wheatley 1992](../sources/Wheatley1992): 79). POc _&ast;drokol_ (and PMP _&ast;de(k,g)el_) is reconstructable on the basis of the Southern Vanuatu data and three non-Oceanic cognates, Blit Manobo _(klambug) daka_ '_Dillenia megalantha_'[^19]: ([Madulid 2001b](../sources/Madulid2001b): 100), Sundanese _səgəl_ and Javanese _ḍəgəl_, both '_Dillenia excelsa_' ([Heyne 1950](../sources/Heyne1950): 1071-1072). _Dillenia excelsa_ is also 10--15 min height.
 
 
 <a id="p-211"></a>
@@ -2363,7 +2363,7 @@ Although _Diospyros_ species are well known sub-canopy trees, widely mentioned i
 ### 5.6. _Euodia_ spp. (Rutaceae)
 
 
-[Borrell](../sources/Borrell1989) ([1989](../sources/Borrell1989): 130--131) finds 14 species of _Euodia_[^21] on Kairiru, ranging from small shrubs a metre high to the medium-sized tree, _Euodia elleryana_ (syn. _Euodia tetragona_, _Melicope elleryana_), 15-20 m tall, with a soft white wood that has an unpleasantly musty smell and masses of rose-pink flowers ([Peekel 1984](../sources/Peekel1984): 270).
+[Borrell](../sources/Borrell1989) ([1989](../sources/Borrell1989): 130--131) finds 14 species of _Euodia_[^21]: on Kairiru, ranging from small shrubs a metre high to the medium-sized tree, _Euodia elleryana_ (syn. _Euodia tetragona_, _Melicope elleryana_), 15-20 m tall, with a soft white wood that has an unpleasantly musty smell and masses of rose-pink flowers ([Peekel 1984](../sources/Peekel1984): 270).
 
 Peekel reports that larger trunks were used on New Ireland for small outrigger canoe hulls. The wood splits easily and is good for planks ([Hviding 2005](../sources/Hviding2005): 104).
 
@@ -2823,7 +2823,7 @@ To these we can add a fourth not raised by Lynch's data:
 
 - the initial consonant: was it POc _&ast;dr_ or _&ast;d_?
 
-I address the last question first. All reflexes except Muyuw, Lihir and Kwara'ae point to either _&ast;dr-_ or _&ast;d-_. Muyuw _a-yayak_ and Lihir _lala_, however, reflect initial POc _&ast;r-_ or _&ast;R-_. These probably reflect assimilation to the medial reflex of _&ast;-R-_, so they do not help us to disambiguate the initial. Distinguishing reflexes of _&ast;d_ from those of _&ast;dr_ is difficult, because _&ast;d_ was a very low-frequency POc consonant: for some languages we have no reflex of _&ast;d_, and in some others it merges with _&ast;dr_. The one language that helps us with this disambiguation is Kwara'ae, where _ka-kalaʔa_ at first sight seems to reflect POc _&ast;g-_. However, a small number of SE Solomonic lexical items reflect POc _&ast;d_ (but apparently not _&ast;dr_) as if it were _&ast;g_, and this is evidently one of them. This suggests that the initial consonant was _&ast;d-_ and that resemblances to the word for 'blood' are accidental, but perhaps amplified by folk-etymologising, since the blood-like colour of _Myristica_ sap is widely recognised.[^22]
+I address the last question first. All reflexes except Muyuw, Lihir and Kwara'ae point to either _&ast;dr-_ or _&ast;d-_. Muyuw _a-yayak_ and Lihir _lala_, however, reflect initial POc _&ast;r-_ or _&ast;R-_. These probably reflect assimilation to the medial reflex of _&ast;-R-_, so they do not help us to disambiguate the initial. Distinguishing reflexes of _&ast;d_ from those of _&ast;dr_ is difficult, because _&ast;d_ was a very low-frequency POc consonant: for some languages we have no reflex of _&ast;d_, and in some others it merges with _&ast;dr_. The one language that helps us with this disambiguation is Kwara'ae, where _ka-kalaʔa_ at first sight seems to reflect POc _&ast;g-_. However, a small number of SE Solomonic lexical items reflect POc _&ast;d_ (but apparently not _&ast;dr_) as if it were _&ast;g_, and this is evidently one of them. This suggests that the initial consonant was _&ast;d-_ and that resemblances to the word for 'blood' are accidental, but perhaps amplified by folk-etymologising, since the blood-like colour of _Myristica_ sap is widely recognised.[^22]:
 
 The second question to be addressed concerns the third consonant: was it POc _&ast;k_ or _&ast;q_? As Lynch notes, the Banks and Raga reflexes (the first six NCV reflexes below) point to _&ast;k_. So does Muyuw _a-yayak_. Other reflexes point to _&ast;q_. If changes in form took place as a result of folk-etymologising, then reflexes of _&ast;q_ may be due to reflexes of POc _&ast;draRaq_ 'blood', leaving _&ast;k_ as the more likely proto-consonant.
 
@@ -2945,10 +2945,10 @@ The reconstruction that emerges from the discussion above is POc _&ast;daRaka_, 
 ### 5.10. _Parinari_ spp., putty nut (Chrysobalanaoeae)
 
 
-Finding one's way through the maze of synonymous scientific names for Bismarcks species of the genus _Parinari_ is difficult, but it appears that in NW Island Melanesia there are two similar species which were perhaps treated as a single POc taxon, _&ast;(q,k)atita_:[^23]
+Finding one's way through the maze of synonymous scientific names for Bismarcks species of the genus _Parinari_ is difficult, but it appears that in NW Island Melanesia there are two similar species which were perhaps treated as a single POc taxon, _&ast;(q,k)atita_:[^23]:
 
 - _Parinari laurina_ (syn. Cyclandrophora laurina, _Atuna racemosa_) and
-- _Parinari glaberrima_ (syn. _Maranthes corymbosa_, _Parinari corymbosa_, _Parinari griffithiana_) ([Figure 7.10](#fig-3-7_10), left)[^24]
+- _Parinari glaberrima_ (syn. _Maranthes corymbosa_, _Parinari corymbosa_, _Parinari griffithiana_) ([Figure 7.10](#fig-3-7_10), left)[^24]:
 
 _Parinari laurina_ seems to be more common in the Bismarcks, _Parinari glaberrima_ in the Solomons. Both are small to medium-sized sub-canopy trees, 10--20 m tall. Their large nuts have a hard shell. After it has been broken, the tough kernel of the fruit is rubbed over a rough surface to produce small crumbs of putty-like mash, and the resulting sticky putty is used to caulk plank canoes, to seal and repair cracks in dugouts, and to fasten shell inlays to wood carvings. After drying, this coating forms a firm, watertight and breakable-resistant layer ([Holdsworth & Wamoi 1981](../sources/HoldsworthandWamoi1981), [Peekel 1984](../sources/Peekel1984):202-203, [Henderson & Hancock 1988](../sources/HendersonandHancock1988):230-232, [Ohnemus 1998](../sources/Ohnemus1998), [Kwa'ioloa & Burt 2001](../sources/KwaioloaandBurt2001): 165, [Hviding 2005](../sources/Hviding2005): 147).
 
@@ -3160,7 +3160,7 @@ Among directly inherited Admiralties reflexes of _&ast;qatita_, those in Likum, 
 </tr>
 </table>
 
-A number of Meso-Melanesian reflexes lack the initial syllable, reflecting a possible PMM altemant _&ast;tita_.[^25] For clarity's sake these are listed separately below. There are also two SE Solomonic reflexes of _&ast;tita_, in Gela and Bugotu, but both languages are prone to borrow from NW Solomonic (and thus Meso-Melanesian) neighbours.
+A number of Meso-Melanesian reflexes lack the initial syllable, reflecting a possible PMM altemant _&ast;tita_.[^25]: For clarity's sake these are listed separately below. There are also two SE Solomonic reflexes of _&ast;tita_, in Gela and Bugotu, but both languages are prone to borrow from NW Solomonic (and thus Meso-Melanesian) neighbours.
 
 Attempting to account for _&ast;tita_ Blust (ACD) suggests that the initial syllable has been irregularly lost. He puts forward two possible reasons for such a loss. First, POc roots were predominantly disyllabic, and this is true of many daughter-languages: this might favour foreshortening. Second, the POc common article was _&ast;a_ or _&ast;na_. If initial _&ast;k-_ or _&ast;q-_ was lost from a reflex, then the resulting initial _&ast;a-_ could be reanalysed as part of the article. A third possible reason is offered here, namely that _&ast;ka-_ was reanalysed as the 'tree' prefix _&ast;ka-_, leaving _&ast;tita_ as the name of the tree ([ch.2, §7.1.2](../contributions/3-2#s-7-1-2)).
 
@@ -3457,7 +3457,7 @@ Tiny though the cognate set below is, the membership of its two members in diffe
 
 The leaves of the small palm _Licuala ramsayi_ (syn. _L. muelleri_, _L. peekelii_), growing to about 5-10 m, serve for roofing in parts of the Bismarcks ([Powell 1976](../sources/Powell1976), [Peekel 1984](../sources/Peekel1984): 58). The Nakanai use them to wrap megapode eggs (A. Chowning, pers. comm.). The palm also serves decorative purposes: in the Ninigo Islands it is planted as an ornamental shrub ([Sorensen 1950](../sources/Sorensen1950)), and various writers note that its leaves are used for personal decoration.
 
-POc _&ast;piRu_ denoted one or more _Licuala_ species, a fan palm. As [French-Wright](../sources/FrenchWright1983) ([1983](../sources/FrenchWright1983): 208-209) and [Chowning](../sources/Chowning2001) ([2001](../sources/Chowning2001): 84) note, in Fijian and the Polynesian languages its reflexes denote the fan palm _Pritchardia pacifica_, found only in Fiji and Polynesia.[^26] This is an instance of an established name being given to a new-found species as Oceanic speakers moved eastward.
+POc _&ast;piRu_ denoted one or more _Licuala_ species, a fan palm. As [French-Wright](../sources/FrenchWright1983) ([1983](../sources/FrenchWright1983): 208-209) and [Chowning](../sources/Chowning2001) ([2001](../sources/Chowning2001): 84) note, in Fijian and the Polynesian languages its reflexes denote the fan palm _Pritchardia pacifica_, found only in Fiji and Polynesia.[^26]: This is an instance of an established name being given to a new-found species as Oceanic speakers moved eastward.
 
 On the basis of the non-Oceanic data supporting Blust's reconstruction of PMP _&ast;biRuʔ_ (ACD), we would expect the POc form _&ast;piRu_, and this is reflected everywhere except in northern Vanuatu, where a local form _&ast;piloqi_ is reflected. NCV forms sporadically retain a POc final consonant with an added _&ast;-i_, regularly lost in Volow, Mota and Merlav, and so the final _-ɣ_ of these items may reflect POc _&ast;-q_, a possibility recognised in the reconstruction of POc _&ast;piRu(q)_.
 
@@ -3870,7 +3870,7 @@ Very little information is available to help us determine the denotata of the sp
 
 <a id="p-226"></a>
 
-The denotatum of PWOc _&ast;tabun_ was probably a large canopy tree. Muyuw _tob_ is a large canopy tree with stilt roots, an apt description of _Garcinia latissima_ ([Conn & Damas 2006](../sources/ConnandDamas2006)). Tolai _tabu-tabun_ is glossed _Garcinia scaphopetala_, which grows to 30 m.[^29]
+The denotatum of PWOc _&ast;tabun_ was probably a large canopy tree. Muyuw _tob_ is a large canopy tree with stilt roots, an apt description of _Garcinia latissima_ ([Conn & Damas 2006](../sources/ConnandDamas2006)). Tolai _tabu-tabun_ is glossed _Garcinia scaphopetala_, which grows to 30 m.[^29]:
 
 <table class="cognateset" id="3-7-6-1-226-PWOc-tabun-a">
 <tr>
@@ -4048,7 +4048,7 @@ _Semecarpus forstenii_ is a shrub or small tree 3-10m tall, with a corrosive bla
 
 _Semecarpus vitiensis_ (syn. _S. laxiflora_) is a medium-sized tree up to 25 m in height, but it has a black sap with similar effects to that of S.forstenii ([Wheatley 1992](../sources/Wheatley1992): 38).
 
-The distribution of the two species seems to be complementary: _Semecarpus forstenii_ in the Bismarcks and the Solomons and the larger _Semecarpus vitiensis_ in Vanuatu and Fiji.[^30] For this reason I infer that POc _&ast;walasi_ denoted _Semecarpus forstenii_. POc _&ast;lasi_ is listed by [Tryon](../sources/Tryon1994) ([1994](../sources/Tryon1994)) as '_Antiaris toxicaria_', a gloss maintained by [Lynch](../sources/Lynch2002f) ([2002f](../sources/Lynch2002f)), but this seems incorrect in view of the reflexes listed here.[^31]
+The distribution of the two species seems to be complementary: _Semecarpus forstenii_ in the Bismarcks and the Solomons and the larger _Semecarpus vitiensis_ in Vanuatu and Fiji.[^30]: For this reason I infer that POc _&ast;walasi_ denoted _Semecarpus forstenii_. POc _&ast;lasi_ is listed by [Tryon](../sources/Tryon1994) ([1994](../sources/Tryon1994)) as '_Antiaris toxicaria_', a gloss maintained by [Lynch](../sources/Lynch2002f) ([2002f](../sources/Lynch2002f)), but this seems incorrect in view of the reflexes listed here.[^31]:
 
 The presence of _-i-_ in Kwaio and Kwara'ae _kʷailasi_ and Lau _koilasi_ probably reflects a folk etymology which interprets the first syllable as _kʷai_ 'river, water' (< POc _&ast;waiR_), but there is no other evidence to suggest that this is the origin of POc initial _&ast;wa-_. Indeed, it is possible that this folk etymologising accounts for the loss of _&ast;wa-_ in a number of reflexes.
 
@@ -4281,7 +4281,7 @@ There is a sense in which rattan could be assigned to the canopy, as it uses can
 
 Reports from the north coast of New Britain say that pieces of rattan are used for arrowheads, for the binding on arrows, for adzes, for bowstrings and bow bracers, in boats for lashings, bindings and braces and for the anchor cable, in houses for tying and plaiting, and for personal adornment as armbands and armlets, belts, necklaces and headbands ([Floyd 1954](../sources/Floyd1954), [Powell 1976](../sources/Powell1976)). A similar range of uses of the cane is reported elsewhere. Hviding reports that split lengths of _Calamus stipitatus_ are used for sewing roofs and sewing sago-leaf panels in house construction. Unsplit lengths make ropes for heavy tasks like pulling a dugout canoe from its construction site down to the beach. _Calamus hollrungii_ has similar uses, according to [Kwa'ioloa & Burt](../sources/KwaioloaandBurt2001) ([2001](../sources/KwaioloaandBurt2001): 205). Hviding mentions that it is used to make tongs to pull items from the hot stone oven. Other parts of the plant are also used. The Bola make wall insulation from the leaves, sometimes eat the young shoots, and use the sap for various medicinal purposes. At Kwara'ae the thorns are used as tattooing needles.
 
-POc _&ast;qu(w)e_[^33] presumably denoted all of the two or three species mentioned above.
+POc _&ast;qu(w)e_[^33]: presumably denoted all of the two or three species mentioned above.
 
 <table class="cognateset" id="3-7-6-3-229-POc-quwe-a">
 <tr>
@@ -4376,14 +4376,14 @@ POc _&ast;qu(w)e_[^33] presumably denoted all of the two or three species mentio
 
 _Dendrocnide_ and _Laportea_ species are nettles, i.e. plants with stinging hairs, often grouped together in the literature as 'nettles' or 'nettle trees'. The hairs remain in the skin, enabling the toxin in them to spread. Those mentioned below range from the 40-metre canopy tree _Dendrocnide excelsa_ to the small stinging herb _Laportea interrupta_. They are included here as shrubs simply because this is where a majority of their tokens belong.
 
-Until 1965 the members of both genera were considered to belong to the genus _Laportea_, but, as a footnote by the translator, E.E. Henty in [Peekel](../sources/Peekel1984) ([1984](../sources/Peekel1984): 151) explains, the genus _Laportea_ was revised by [Chew](../sources/Chew1965) ([1965](../sources/Chew1965)), removing woody species from it and placing them in a new genus _Dendrocnide_. At the same time the genus Fleurya was abandoned and its species transferred to _Laportea_. _Laportea_ are monoecious herbs whilst _Dendrocnide_ are dioecious shrubs or trees.[^34] In both genera the fruit is dry and has a single seed.
+Until 1965 the members of both genera were considered to belong to the genus _Laportea_, but, as a footnote by the translator, E.E. Henty in [Peekel](../sources/Peekel1984) ([1984](../sources/Peekel1984): 151) explains, the genus _Laportea_ was revised by [Chew](../sources/Chew1965) ([1965](../sources/Chew1965)), removing woody species from it and placing them in a new genus _Dendrocnide_. At the same time the genus Fleurya was abandoned and its species transferred to _Laportea_. _Laportea_ are monoecious herbs whilst _Dendrocnide_ are dioecious shrubs or trees.[^34]: In both genera the fruit is dry and has a single seed.
 
 Species of _Laportea_ and _Dendrocnide_ are often not distinguished by the glosses in the cognate sets below, but this at least in part reflects the usage of the terms. [Wheatley](../sources/Wheatley1992) ([1992](../sources/Wheatley1992): 240) reports that in Vanuatu languages generally there is a single term for all _Dendrocnide_ species, despite the fact that in Vanuatu they vary in size from the shrubby _Dendrocnide latifolia_, which occasionally grows to 10 m but is usually smaller, to the 25 m canopy tree _Dendrocnide moroides_.
 
 _Dendrocnide_ species are much better described in the literature than _Laportea_ species, presumably because the latter are simply regarded as nuisance weeds. Species mentioned in the glosses below are, roughly from largest to smallest:
 
 - _Dendrocnide excelsa_ (syn. _L. gigas_), the giant stinging tree, is a tree of the forest canopy, up to
-  40 m tall, with dull green heart-shaped or round leaves covered with stinging hairs.[^35]
+  40 m tall, with dull green heart-shaped or round leaves covered with stinging hairs.[^35]:
 - _Dendrocnide harveyi_ (syn. _Dendrocnide milnei_, _Laportea harveyi_, _L. milnei_), a tree up to 20m tall, apparently found
   only in Fiji and western Polynesia.
 - _Dendrocnide latifolia_, a small shrubby tree, occasionally with a straight bole and reaching 10 m,

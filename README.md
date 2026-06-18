@@ -20,29 +20,29 @@ Available online at http://hdl.handle.net/1885/106908
 
 
 [![CLDF validation](https://github.com/lexibank/tlopo/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/tlopo/actions?query=workflow%3ACLDF-validation)
-![Glottolog: 88%](https://img.shields.io/badge/Glottolog-88%25-yellowgreen.svg "Glottolog: 88%")
-![Concepticon: 0%](https://img.shields.io/badge/Concepticon-0%25-red.svg "Concepticon: 0%")
-![Source: 5%](https://img.shields.io/badge/Source-5%25-red.svg "Source: 5%")
-![BIPA: 60%](https://img.shields.io/badge/BIPA-60%25-red.svg "BIPA: 60%")
-![CLTS SoundClass: 60%](https://img.shields.io/badge/CLTS%20SoundClass-60%25-red.svg "CLTS SoundClass: 60%")
+![Glottolog: 88%](etc/badge_languages.svg)
+![Concepticon: 0%](etc/badge_concepts.svg)
+![Source: 5%](etc/badge_sources.svg)
+![BIPA: 59%](etc/badge_bipa.svg)
+![CLTS SoundClass: 59%](etc/badge_sc.svg)
 
 - **Varieties:** 755 (linked to 641 different Glottocodes)
-- **Concepts:** 19,936 (linked to 0 different Concepticon concept sets)
-- **Lexemes:** 43,026
-- **Sources:** 584
+- **Concepts:** 19,932 (linked to 0 different Concepticon concept sets)
+- **Lexemes:** 43,037
+- **Sources:** 583
 - **Synonymy:** 1.02
-- **Cognacy:** 40,925 cognates in 2,820 cognate sets (0 singletons)
+- **Cognacy:** 40,960 cognates in 2,821 cognate sets (0 singletons)
 - **Cognate Diversity:** -0.74
 - **Invalid lexemes:** 0
-- **Tokens:** 203,058
-- **Segments:** 294 (119 BIPA errors, 119 CLTS sound class errors, 175 CLTS modified)
-- **Inventory size (avg):** 16.15
+- **Tokens:** 204,128
+- **Segments:** 298 (122 BIPA errors, 122 CLTS sound class errors, 176 CLTS modified)
+- **Inventory size (avg):** 16.20
 
 ## Possible Improvements:
 
+- Languages missing glottocodes: 80/755 (10.60%%)
+- Entries missing sources: 40682/43037 (94.53%%)
 
-
-- Entries missing sources: 40669/43026 (94.52%)
 
 # Contributors
 

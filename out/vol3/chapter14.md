@@ -34,12 +34,12 @@ As [Chowning](../sources/Chowning1963) ([1963](../sources/Chowning1963)) notes i
 
 Tables 14.3-14.9 list most of the POc, PWOc, PEOc and PROc terms (including generics) reconstructed in this book. Omitted are (i) tem1s for plant parts and plant products and (ii) POc terms whose origin is unclear, i.e. the term has suspected but uncertain non-Oceanic cognates).
 
-The number of terms in Tables 14.3-14.9 reconstructed at each interstage is shown in [Table 14.1](#table-14.1). A striking fact emerges: of 220 reconstructions, 177, or 80.4 %, are POc recon- structions, and only 43, or 19.6 % are attributable exclusively to the later interstages PWOc, PEOc and PROc-this despite the fact that data are available from languages that permit the reconstruction of terms at these interstages, and every term that the data supported was reconstructed at the highest possible interstage. This heavy skewing towards POc is not at- tributable to patchiness in the data, but reflects a fact about Oceanic plant names, namely that POc terms are generally quite durable, and that only a minority underwent replacement in PWOc, PEOc and PROc. In fact the figures overstate replacement, because (i) a number of the reconstructed lower-order terms coexisted with terms inherited from POc; (ii) it is possible that some of these terms will prove to be of POc antiquity as more data become available.
+The number of terms in Tables 14.3-14.9 reconstructed at each interstage is shown in [Table 14.1](#tab-14.1). A striking fact emerges: of 220 reconstructions, 177, or 80.4 %, are POc recon- structions, and only 43, or 19.6 % are attributable exclusively to the later interstages PWOc, PEOc and PROc-this despite the fact that data are available from languages that permit the reconstruction of terms at these interstages, and every term that the data supported was reconstructed at the highest possible interstage. This heavy skewing towards POc is not at- tributable to patchiness in the data, but reflects a fact about Oceanic plant names, namely that POc terms are generally quite durable, and that only a minority underwent replacement in PWOc, PEOc and PROc. In fact the figures overstate replacement, because (i) a number of the reconstructed lower-order terms coexisted with terms inherited from POc; (ii) it is possible that some of these terms will prove to be of POc antiquity as more data become available.
 
 
 <a id="p-429"></a>
 
-<a id="table-14.1"> </a>
+<a id="tab-14.1"> </a>
 
 : Table 14.1    Number of plant terms reconstructed at each interstage
 
@@ -51,7 +51,7 @@ The number of terms in Tables 14.3-14.9 reconstructed at each interstage is show
 | PROc      | 6       | 2.7%      |
 | __Total__ | __220__ | __99.9%__ |
 
-<a id="table-14.2"> </a>
+<a id="tab-14.2"> </a>
 
 : Table 14.2   Inherited and possibly innovatory plant terms in Proto Oceanic
 
@@ -64,16 +64,16 @@ The number of terms in Tables 14.3-14.9 reconstructed at each interstage is show
 | Possibly innovatory       | 97      | 54.8%      |
 | __Total__                 | __177__ | __100.0%__ |
 
-This skewing revealed in [Table 14.1](#table-14.1) is not peculiar to plant names. It reflects the speed of Oceanic settlement and the fact that Western Oceanic probably emerged out of a stay-at-home dialect network, whilst Proto Eastern Oceanic and PROc, as we noted in chapter 1 ([§3 .2.3](../contributions/3-14#s-3-2-3)), perhaps never really existed as the languages of discrete communities.
+This skewing revealed in [Table 14.1](#tab-14.1) is not peculiar to plant names. It reflects the speed of Oceanic settlement and the fact that Western Oceanic probably emerged out of a stay-at-home dialect network, whilst Proto Eastern Oceanic and PROc, as we noted in chapter 1 ([§3 .2.3](../contributions/3-14#s-3-2-3)), perhaps never really existed as the languages of discrete communities.
 
-Of 177 reconstructed POc plant terms, [Table 14.2](#table-14.2) shows that 80, or 45 %, have a known Austronesian source that precedes POc, i.e. the POc term has non-Oceanic cognates which show that it was inherited into POc from an earlier interstage, whilst 97, or 55 %, have no known non-Oceanic cognates. The latter figure is of course open to question. It cannot be higher, but it could be lower, because some seemingly innovatory POc terms were probably inherited from an earlier interstage, but the non-Oceanic sources listed in [ch.1, §5.2](../contributions/3-1#s-5-2) happen not to record cognates. Nonetheless, it would not be surprising if many of these 97 were POc innovations. [Wolff](../sources/Wolff1994) ([1994](../sources/Wolff1994)) points out how readily plant names are borrowed, and we would expect POc speakers to have borrowed plant names from their Papuan speaking neighbours and Papuan speakers to have retained older names as they shifted to POc (see [ch. 2, §4](../contributions/3-2#s-4)). The only reasonably clear example of such a loan is _&ast;mʷapo(q)_ 'taro' ([ch.9, §2.2.1](../contributions/3-9#s-2-2-1)). Whether we will ever be able to source other terms convincingly depends partly on research in historical Papuan linguistics, currently in its infancy. However, there is one small pointer in the forms themselves. As noted in [vol. 1 (ch.2, §2.4](../contributions/1-2#s-2-4)), the POc labiovelar consonants _&ast;pʷ_, _&ast;bʷ_ and &ast;mwwere not present in Proto Malaya-Polynesian and represent an innovation in the POc consonant system. In some lexical items their presence is the result of conditioning ([Blust 1981a](../sources/Blust1981a), [Lynch 2002e](../sources/Lynch2002e)), in many their occurr,ence probably reflects borrowing from Papuan languages. Items in Tables 14.3-14.9 which contain one of these phonemes are shown in bold. Only three (= 4%) of the 80 inherited items listed in Tables 14.3-14.5 include one of these phonemes, and in two of these instances--_&ast;(m,mʷ)aso(q)u_ and _&ast;(p,pʷ)atoRu_ - the labiovelar is uncertain, whilst the exact form of the third reconstruction, _&ast;qaramʷaqi_, is insecure in other respects ([§2.6](../contributions/3-14#s-2-6)). On the other hand 19 (20%) of the 97 items in [Table 14.6](#table-14.6) include a labiovelar, five of them albeit uncertain, suggesting that the table does indeed include a good number of Papuan loans-the more so as we would not ,expect more than a minority of Papuan loans to contain labiovelars.
+Of 177 reconstructed POc plant terms, [Table 14.2](#tab-14.2) shows that 80, or 45 %, have a known Austronesian source that precedes POc, i.e. the POc term has non-Oceanic cognates which show that it was inherited into POc from an earlier interstage, whilst 97, or 55 %, have no known non-Oceanic cognates. The latter figure is of course open to question. It cannot be higher, but it could be lower, because some seemingly innovatory POc terms were probably inherited from an earlier interstage, but the non-Oceanic sources listed in [ch.1, §5.2](../contributions/3-1#s-5-2) happen not to record cognates. Nonetheless, it would not be surprising if many of these 97 were POc innovations. [Wolff](../sources/Wolff1994) ([1994](../sources/Wolff1994)) points out how readily plant names are borrowed, and we would expect POc speakers to have borrowed plant names from their Papuan speaking neighbours and Papuan speakers to have retained older names as they shifted to POc (see [ch. 2, §4](../contributions/3-2#s-4)). The only reasonably clear example of such a loan is _&ast;mʷapo(q)_ 'taro' ([ch.9, §2.2.1](../contributions/3-9#s-2-2-1)). Whether we will ever be able to source other terms convincingly depends partly on research in historical Papuan linguistics, currently in its infancy. However, there is one small pointer in the forms themselves. As noted in [vol. 1 (ch.2, §2.4](../contributions/1-2#s-2-4)), the POc labiovelar consonants _&ast;pʷ_, _&ast;bʷ_ and &ast;mwwere not present in Proto Malaya-Polynesian and represent an innovation in the POc consonant system. In some lexical items their presence is the result of conditioning ([Blust 1981a](../sources/Blust1981a), [Lynch 2002e](../sources/Lynch2002e)), in many their occurr,ence probably reflects borrowing from Papuan languages. Items in Tables 14.3-14.9 which contain one of these phonemes are shown in bold. Only three (= 4%) of the 80 inherited items listed in Tables 14.3-14.5 include one of these phonemes, and in two of these instances--_&ast;(m,mʷ)aso(q)u_ and _&ast;(p,pʷ)atoRu_ - the labiovelar is uncertain, whilst the exact form of the third reconstruction, _&ast;qaramʷaqi_, is insecure in other respects ([§2.6](../contributions/3-14#s-2-6)). On the other hand 19 (20%) of the 97 items in [Table 14.6](#tab-14.6) include a labiovelar, five of them albeit uncertain, suggesting that the table does indeed include a good number of Papuan loans-the more so as we would not ,expect more than a minority of Papuan loans to contain labiovelars.
 
 
 <a id="p-430"></a>
 
 If a POc plant name has cognates in eastern Indonesia, especially in EMP languages, then it is possible that in some cases I am unaware of them, as the available sources for these languages are limited. However, non-Oceanic Austronesian plant names from the sources listed at the beginning of [§5.2](../contributions/3-14#s-5-2) of chapter 2 have led 1to the reconstruction of a number of higher-order (PCEMP and PMP) plant names in this volume, and it is a reasonable supposition that many of the plant names reconstructed in this volume for which no non-Oceanic cognates have been found really were POc innovations.
 
-<a id="table-14.3"> </a>
+<a id="tab-14.3"> </a>
 
 : Table 14.3: Proto Oceanic plant terms inherited from Proto Austronesian or Proto Malaya--Polynesian (65 reconstructions)
 
@@ -148,7 +148,7 @@ If a POc plant name has cognates in eastern Indonesia, especially in EMP languag
 
 <a id="p-432"></a>
 
-<a id="table-14.4"> </a>
+<a id="tab-14.4"> </a>
 
 : Table 14.4: Proto Oceanic plant terms inherited from Proto Central/Eastern Malaya-Polynesian (11 reconstructions)
 
@@ -166,7 +166,7 @@ If a POc plant name has cognates in eastern Indonesia, especially in EMP languag
 | _&ast;pau(q)_     | 'mango, _Mangifera_ sp. (not indica)'                                                             |
 | _&ast;Reqi_       | 'sword grass, _Imperata cylindrica_'                                                              |
 
-<a id="table-14.5"> </a>
+<a id="tab-14.5"> </a>
 
 : Table 14.5: Proto Oceanic plant terms inherited from Proto Eastern Malayo-Polynesian (4 reconstructions)
 
@@ -177,7 +177,7 @@ If a POc plant name has cognates in eastern Indonesia, especially in EMP languag
 | _&ast;tawan_       | '_Pometia pinnata_'                         |
 | _&ast;tuRi-tuRi_   | 'candlenut tree, _Aleurites moluccana_' (?) |
 
-<a id="table-14.6"> </a>
+<a id="tab-14.6"> </a>
 
 : Table 14.6: Proto Oceanic plant terms with no known non-Oceanic cognates (97 reconstructions)
 
@@ -284,7 +284,7 @@ If a POc plant name has cognates in eastern Indonesia, especially in EMP languag
 
 <a id="p-435"></a>
 
-<a id="table-14.7"> </a>
+<a id="tab-14.7"> </a>
 
 : Table 14.7: Proto Western Oceanic plant terms with no known external cognates (22 reconstructions)
 
@@ -313,7 +313,7 @@ If a POc plant name has cognates in eastern Indonesia, especially in EMP languag
 | _&ast;tabun_            | '_Garcinia_ sp.'                                                           |
 | _&ast;tabuqaR_          | '_Saccharum edule_'                                                        |
 
-<a id="table-14.8"> </a>
+<a id="tab-14.8"> </a>
 
 : Table 14.8: Proto Eastern Oceanic plant terms with no known external cognates (15 reconstructions)
 
@@ -338,7 +338,7 @@ If a POc plant name has cognates in eastern Indonesia, especially in EMP languag
 
 <a id="p-436"></a>
 
-<a id="table-14.9"> </a>
+<a id="tab-14.9"> </a>
 
 : Table 14.9: PROc plant terms with no known external cognates (6 reconstructions)
 
@@ -350,6 +350,3 @@ If a POc plant name has cognates in eastern Indonesia, especially in EMP languag
 | _&ast;vaRo_      | '_Neisosperma oppositifolium_'           |
 | _&ast;vuba_      | 'k.o. vine, probably _Derris_ elliptica' |
 | _&ast;wasi-wasi_ | '_Sterculia vitiensis_'                  |
-
-
-## Notes

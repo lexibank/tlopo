@@ -5,7 +5,7 @@
 
 <a id="s-1"></a>
 
-## 1. Introduction[^1]
+## 1. Introduction[^1]:
 
 
 This chapter investigates verbs of perception in Proto Oceanic, based on a comparison of a sample of daughter languages. A full comparative study of the morphology, syntax and semantics of this set of verbs in Oceanic languages would require a book. Here we offer an introductory account, focusing mainly on certain basic semantic and grammatical features of perception verbs, and building on the work of Bethwyn [Evans](Source#cldf:Evans2003) ([2003](Source#cldf:Evans2003)), whose study of verb classes and valency-changing devices in Proto Oceanic includes a section on several verbs of perception.
@@ -19,9 +19,9 @@ Languages of the world generally give these non-basic senses different grammatic
 
 The present paper will deal mainly with the treatment of the five basic senses in Oceanic languages and with the question of whether the different senses receive similar grammatical and semantic treatment.
 
-Basic perception verbs vary conceptually along a number of parameters. These are illustrated in English in the following paradigm, closely based on that proposed by [Viberg](Source#cldf:Viberg1984) ([1984](Source#cldf:Viberg1984)). We have labelled the variables as i) sensing, ii) attending and iii) stimulus-subject.[^2]
+Basic perception verbs vary conceptually along a number of parameters. These are illustrated in English in the following paradigm, closely based on that proposed by [Viberg](Source#cldf:Viberg1984) ([1984](Source#cldf:Viberg1984)). We have labelled the variables as i) sensing, ii) attending and iii) stimulus-subject.[^2]:
 
-<a id="table-19"> </a>
+<a id="tab-19"> </a>
 
 : Table 19       English perception verbs (based on Viberg’s basic paradigm of verbs of perception)
 
@@ -59,7 +59,7 @@ Verbs of seeing and looking may also be used intransitively with the perceiver a
 
 <a id="p-492"></a>
 
-POc _&ast;kita_ (VI) ‘see’, _&ast;kita-i-_ (VT) ‘see s.t.’ is a well-supported reconstruction with reflexes in both Western Oceanic and Eastern Oceanic languages. It is also noteworthy that a number of Eastern Oceanic languages have extended the meaning of their reflexes to include ‘know’ and ‘understand’.[^3]
+POc _&ast;kita_ (VI) ‘see’, _&ast;kita-i-_ (VT) ‘see s.t.’ is a well-supported reconstruction with reflexes in both Western Oceanic and Eastern Oceanic languages. It is also noteworthy that a number of Eastern Oceanic languages have extended the meaning of their reflexes to include ‘know’ and ‘understand’.[^3]:
 
 [PMP &ast;_kita_](cognatesetreferences.csv#cldf:5-8-2-None-492-POc-kita-a)
 
@@ -157,7 +157,7 @@ A substantial number of reflexes of _&ast;roŋoR-_, distributed across different
 
 It is likely that when Proto Oceanic speakers wished to comment on the nature of a sound they used the source as subject of a sound-specific verb, as the drum is sounding, the leaves are rustling, their voices were audible etc. Perception is implied, but the lexemes are not derived from verbs of perception. Oceanic speakers have a considerable vocabulary for the names of particular sounds, typically using them as both noun and verb. One of the more common ones is a reflex of POc &ast;taŋis, an intransitive verb usually translated by ‘cry’, used to describe any sound characteristic of its source, as a cock crowing, dog howling, drum beating etc. In To’aba’ita, for instance, one could say _suʔari e aŋi ka ƒaluƒalu_ ‘the drum is loud’ (_suʔari_ ‘drum’, _aŋi_ ‘to cry’, _ƒaluƒalu_ ‘sound loudly, of a drum’ (lit. ‘The drum is making a sound and it is loud’.) Samoan uses a term for ‘voice’, _leo_ with verbal meaning ‘sound’ as in _e leo taʔe_ ‘it sounds cracked’ (_taʔe_ ‘cracked’). The following is a random sample of sound terms: Tolai _tin_ ‘sound, as a coconut falling to the ground’, _del_ ‘sound as the beating of a drum’, _luluga_ (N,VI) ‘sound, as wind or rain’; To’aba’ita _ākwaʔa_ ‘make a slapping sound, as of a flat object’, _ŋalu_ ‘of the sound of talking, be audible’, _kutakuta_ ‘make a relatively loud, vibrating, pulsating sound’; Niuean _pakō_ ‘make a knocking sound’, _kalī_ ‘make a rustling sound’, _pakē_ ‘make a light crackling sound’.
 
-Listening to something is sometimes given an extended cognitive meaning. In a number of languages (Gedaged, Nakanai, Nehan, Sursurunga, Sa’a), ‘hear/listen’ has been extended to ‘understand’.[^4] A different extension of meaning is noted in many Southeast Solomonic and Central Pacific witnesses, where the meaning ‘obey, take notice of s.o.’ is present alongside ‘hear, listen’. In Lakon (NCV) _ruŋ_ means ‘hear, feel’, but also ‘obey’ and ‘know’ (Alexandre François, pers. comm.). In Central Pacific languages this sense is usually associated with reflexes of _&ast;paka-roŋoR_, which contains the intensifying prefix _&ast;paka-_.
+Listening to something is sometimes given an extended cognitive meaning. In a number of languages (Gedaged, Nakanai, Nehan, Sursurunga, Sa’a), ‘hear/listen’ has been extended to ‘understand’.[^4]: A different extension of meaning is noted in many Southeast Solomonic and Central Pacific witnesses, where the meaning ‘obey, take notice of s.o.’ is present alongside ‘hear, listen’. In Lakon (NCV) _ruŋ_ means ‘hear, feel’, but also ‘obey’ and ‘know’ (Alexandre François, pers. comm.). In Central Pacific languages this sense is usually associated with reflexes of _&ast;paka-roŋoR_, which contains the intensifying prefix _&ast;paka-_.
 
 Certain difficulties arise in the reconstruction of the POc form(s) for ‘hear’. We concur with Blust (ACD) who proposes POc _&ast;roŋoR_, with initial _&ast;r_, as the regular continuation of PMP _&ast;deŋeR_. This is supported by non-Oceanic, Eastern Oceanic and Schouten evidence. _&ast;loŋoR_ was a Western Oceanic variant, reflected in all WOc languages in which reflexes occur, except in the Schouten languages (Wogeo, Kaiep, Kairuru, Ali, Sissano and Sera).
 
@@ -194,7 +194,7 @@ The next set, although theoretically supporting a putative POc _&ast;noŋo(-noŋ
 
 Verbs of smelling in Oceanic languages typically have an intransitive use, in which the source of the smell is the subject, and a transitive use in which the perceiver is subject and the source is direct object. Some examples follow.
 
-<a id="table-20"> </a>
+<a id="tab-20"> </a>
 
 : Table 20       Some verbs of smelling that take both actor and source as subject
 
@@ -219,7 +219,7 @@ POc _&ast;quruŋ_ reflexes support its reconstruction as both a stative verb ‘
 
 [POc &ast;_quruŋ_](cognatesetreferences.csv#cldf:5-8-4-None-504-POc-quru-a)
 
-A separate term for the action of deliberately sniffing at something, POc _&ast;asok_[^6] ‘to sniff, kiss’ _&ast;asok-i_ ‘sniff or kiss s.t.’, is reconstructable. This term continues a PAn etymon, _&ast;Sajek_.
+A separate term for the action of deliberately sniffing at something, POc _&ast;asok_[^6]: ‘to sniff, kiss’ _&ast;asok-i_ ‘sniff or kiss s.t.’, is reconstructable. This term continues a PAn etymon, _&ast;Sajek_.
 
 
 <a id="p-505"></a>
@@ -241,7 +241,7 @@ The forms listed below point to a POc verb _&ast;bona(s)_ (VI) ‘to smell, stin
 
 [Tryon](Source#cldf:Tryon1976) ([1976](Source#cldf:Tryon1976)) lists a number of NCV languages which denote ‘smell s.t.’ by compounding reflexes of _&ast;roŋoR_ ‘hear’ with reflexes of _&ast;bona(s)_, to reflect PNCV _&ast;roŋo-bona_, e.g. Raga _roŋ-bunina_, Lametin _roŋ-bonai_.
 
-Our starting point for the cognate set below is a pair of PMP forms, _&ast;bahu_ (V) ‘smell bad’, reconstructed by Dempwolff, and _&ast;bahu-an_ (N) ‘odour, stench’, reconstructed by Blust (ACD) as a suffixed form of Dempwolff’s _&ast;bahu_. Dempwolff glossed _&ast;bahu_ as a noun, but it seems likely that it was used as a verb, since _&ast;bahu-an_ includes the nominaliser _&ast;-an_. Blust reconstructs _&ast;bahu-an_ as Proto Western Malayo-Polynesian, but the Oceanic forms listed below show that it occurred in PMP.[^8]
+Our starting point for the cognate set below is a pair of PMP forms, _&ast;bahu_ (V) ‘smell bad’, reconstructed by Dempwolff, and _&ast;bahu-an_ (N) ‘odour, stench’, reconstructed by Blust (ACD) as a suffixed form of Dempwolff’s _&ast;bahu_. Dempwolff glossed _&ast;bahu_ as a noun, but it seems likely that it was used as a verb, since _&ast;bahu-an_ includes the nominaliser _&ast;-an_. Blust reconstructs _&ast;bahu-an_ as Proto Western Malayo-Polynesian, but the Oceanic forms listed below show that it occurred in PMP.[^8]:
 
 Most Malayo-Polynesian languages have lost _&ast;h_, with the result that _&ast;bahu_ and _&ast;bahu-an_ respectively became _&ast;baw_ and _&ast;baw-an_. By regular sound change _&ast;baw_ probably became POc _&ast;bo_, but _&ast;baw-an_ may have survived in this form in POc alongside _&ast;bo-an_ (see discussion of Manam _bʷau_ below). POc _&ast;bo_ is a phonotactically rare phenomenon, a monosyllabic lexical root. There has long been a tendency in Austronesian languages to make lexical forms disyllabic, and so _&ast;bo_ occurs with a number of extensions, some of which we cannot fully explain. Some of these extensions are disyllabic roots in their own right: see Bola _bu-roŋi_, Bola (Harua) _bo-roŋi_, both ‘(s.o.) smell s.t.’ under POc _&ast;s[a,o]ŋin_ ‘emit a smell’ above, and the Woleaian and Carolinian examples below. In Central Pacific and Micronesian languages a monosyllabic lexical root becomes bimoraic, i.e. its vowel is long.
 
@@ -285,7 +285,7 @@ Familiar smells may be lexicalised, either as a stative verb or noun, e.g. _&ast
 
 Taste is the sense that informs us about what we are eating or drinking. Perception of taste is usually the outcome of an intentional act. POc _&ast;ñami-_ (VT) ‘taste s.t., test the flavour of food’ is well attested, with reflexes scattered across diverse subgroups. Reflexes of a partially reduplicated form, _&ast;ña-ñami_, also occur in some languages as a stative verb, meaning ‘be tasty, taste good’. The attribution of this sense to POc is somewhat strengthened by extra-Oceanic cognates. A fully reduplicated form, _&ast;ñami-ñami_ is also reflected in Ramoaaina (MM), Gela and Longgu (SES), Marshallese (Mic) and Rennellese (Pn), and this may have been an intransitive verb meaning ‘to taste, do tasting’.
 
-_&ast;ña-ñami_ has a PMP antecedent in the form of PMP _&ast;ñamñam_ ‘taste, tasty’ which [Blust](Source#cldf:Blust1989) ([1989](Source#cldf:Blust1989)) reconstructs on the basis of Tagalog _namnam_ ‘savor, taste; palatal sensation’ and Selaru _nanam_ ‘sweet’ together with Oceanic reflexes. POc _&ast;ñami_ appears to continue the PMP root _&ast;ñam_ with the addition of the transitive sufix _&ast;-i_.[^9]
+_&ast;ña-ñami_ has a PMP antecedent in the form of PMP _&ast;ñamñam_ ‘taste, tasty’ which [Blust](Source#cldf:Blust1989) ([1989](Source#cldf:Blust1989)) reconstructs on the basis of Tagalog _namnam_ ‘savor, taste; palatal sensation’ and Selaru _nanam_ ‘sweet’ together with Oceanic reflexes. POc _&ast;ñami_ appears to continue the PMP root _&ast;ñam_ with the addition of the transitive sufix _&ast;-i_.[^9]:
 
 Except for Tikopia, which has doublets _nami_ ‘taste’ and _namu_ ‘odour, bad smell’, the Central Pacific reflexes of _&ast;ñami_ show a vowel change _&ast;i_ > _u_. Polynesian reflexes tend to blur the distinction between taste and smell, both senses contributing to the assessment of quality of food. The shift from flavour to odour is complete in Pukapukan, Rennellese and Samoan.
 
@@ -365,14 +365,14 @@ The variations in the linguistic expression of the different senses that we find
 
 Mention was made earlier of the possibility of a universal hierarchy within which the senses are ordered, which will predict the direction of semantic change. [Viberg](Source#cldf:Viberg1984) ([1984](Source#cldf:Viberg1984)) finds some evidence for the hierarchy sight > hearing > touch > smell, taste. Comparison of a large sample of Oceanic languages shows that most verbs of sensing have remained dedicated to a single sense. For most people, sight is the primary source of objective data about the world, and evidently was treated as such by Proto Oceanic speakers. We have no examples from a sample of many dozens of languages where a verb meaning ‘see’ has extended its meaning to other senses, although it can carry a cognitive meaning like ‘know’ or ‘recognise’.
 
-In contrast, _&ast;roŋoR_ ‘hear’ is the most semantically elastic of the sense terms. In some languages of the Solomons, Vanuatu and Polynesia, reflexes, still with the primary meaning ‘hear’, can be extended to ‘smell’, ‘taste’ and ‘feel’, although never to ‘see’. In the (admittedly very small) sample of eight languages in [Table 21](#table-21) (two from Southeast Solomonic, two from North Central Vanuatu and four from Polynesia) it can be seen that, besides hearing, the bundles of senses included are hearing, smell and taste (4), hearing and touch (2) and hearing and taste (1). There are no cases where touch is grouped together with smell and taste while excluding hearing. Thus, if the descriptions are accurate, it is noteworthy that the pattern of semantic extensions does not correspond exactly to Viberg’s hierarchy in that see remains outside the hierarchy, while in several languages smell and taste outrank touch.
+In contrast, _&ast;roŋoR_ ‘hear’ is the most semantically elastic of the sense terms. In some languages of the Solomons, Vanuatu and Polynesia, reflexes, still with the primary meaning ‘hear’, can be extended to ‘smell’, ‘taste’ and ‘feel’, although never to ‘see’. In the (admittedly very small) sample of eight languages in [Table 21](#tab-21) (two from Southeast Solomonic, two from North Central Vanuatu and four from Polynesia) it can be seen that, besides hearing, the bundles of senses included are hearing, smell and taste (4), hearing and touch (2) and hearing and taste (1). There are no cases where touch is grouped together with smell and taste while excluding hearing. Thus, if the descriptions are accurate, it is noteworthy that the pattern of semantic extensions does not correspond exactly to Viberg’s hierarchy in that see remains outside the hierarchy, while in several languages smell and taste outrank touch.
 
 Reflexes of POc _&ast;ñami-_, PPn _&ast;namu_ ‘to taste s.t.’, have evidently undergone a shift in meaning in a number of Polynesian languages. Some reflexes now refer to odour as well as flavour, and the shift is complete in Pukapukan, Rennellese, Samoan and Tikopia, where reflexes refer to odour alone. In view of this example it is possible that taste should precede smell in the hierarchy, although Viberg brackets the two together.
 
 
 <a id="p-517"></a>
 
-<a id="table-21"> </a>
+<a id="tab-21"> </a>
 
 : Table 21        Sense extensions of reflexes of POc _&ast;roŋoR_ ‘hear’ in some Oceanic languages
 
