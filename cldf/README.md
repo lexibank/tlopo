@@ -14,7 +14,7 @@ property | value
 [dc:license](http://purl.org/dc/terms/license) | https://creativecommons.org/licenses/by/4.0/
 [dc:spatial](http://purl.org/dc/terms/spatial) | <dl><dt>B.1</dt><dd>Admiralties and St Matthias Islands</dd><dt>B.2</dt><dd>Schouten (NNG) and Sarmi-Jayapura (possibly NNG)</dd><dt>B.3</dt><dd>The Ngero-Vitiaz linkage (NNG)</dd><dt>B.4</dt><dd>Huon Gulf (NNG)</dd><dt>B.5</dt><dd>Papuan Tip</dd><dt>B.6</dt><dd>New Britain and New Ireland (MM)</dd><dt>B.7</dt><dd>Northwest Solomonic linkage (MM)</dd><dt>B.8</dt><dd>Southeast Solomonic and Temotu</dd><dt>B.9</dt><dd>North Vanuatu</dd><dt>B.10</dt><dd>Central Vanuatu</dd><dt>B.11</dt><dd>South Vanuatu</dd><dt>B.12</dt><dd>Loyalty Islands and New Caledonia</dd><dt>B.13</dt><dd>Micronesian languages and Yapese</dd><dt>B.14</dt><dd>Fiji</dd><dt>B.15</dt><dd>Polynesia</dd></dl>
 [dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | https://github.com/lexibank/tlopo
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/lexibank/tlopo/tree/08c1cc7">lexibank/tlopo  08c1cc7</a></li><li><a href="https://github.com/glottolog/glottolog/tree/87778146f4">Glottolog  v5.3-29-g87778146f4</a></li><li><a href="https://github.com/concepticon/concepticon-data/tree/v3.4.0">Concepticon  v3.4.0</a></li><li><a href="https://github.com/cldf-clts/clts/tree/v2.3.0">CLTS  v2.3.0</a></li></ol>
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/lexibank/tlopo/tree/89b3597">lexibank/tlopo  89b3597</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v5.3">Glottolog  v5.3</a></li><li><a href="https://github.com/concepticon/concepticon-data/tree/v3.4.0">Concepticon  v3.4.0</a></li><li><a href="https://github.com/cldf-clts/clts/tree/v2.3.0">CLTS  v2.3.0</a></li></ol>
 [prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>lingpy-rcParams</strong>: <a href="./lingpy-rcParams.json">lingpy-rcParams.json</a></li><li><strong>python</strong>: 3.12.3</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | tlopo
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution
@@ -93,7 +93,7 @@ Essential data of a concept mapped to Concepticon.
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF ParameterTable](http://cldf.clld.org/v1.0/terms.rdf#ParameterTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 19932
+[dc:extent](http://purl.org/dc/terms/extent) | 19935
 
 
 ### Columns
@@ -174,27 +174,6 @@ Name/Property | Datatype | Description
 [Media_ID](http://cldf.clld.org/v1.0/terms.rdf#mediaReference) | `string` | References a file containing a Newick representation of the tree, labeled with identifiers as described in the LanguageTable (the [Media_Type](https://cldf.clld.org/v1.0/terms.html#mediaType) column of this table should provide enough information to chose the appropriate tool to read the newick)<br>References [media.csv::ID](#table-mediacsv)
 [Source](http://cldf.clld.org/v1.0/terms.rdf#source) | list of `string` (separated by `;`) | References [sources.bib::BibTeX-key](./sources.bib)
 
-## <a name="table-cognatesetscsv"></a>Table [cognatesets.csv](./cognatesets.csv)
-
-property | value
- --- | ---
-[dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF CognatesetTable](http://cldf.clld.org/v1.0/terms.rdf#CognatesetTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 2821
-
-
-### Columns
-
-Name/Property | Datatype | Description
- --- | --- | --- 
-[ID](http://cldf.clld.org/v1.0/terms.rdf#id) | `string`<br>Regex: `[a-zA-Z0-9_\-]+` | Primary key
-[Description](http://cldf.clld.org/v1.0/terms.rdf#description) | `string` | 
-[Source](http://cldf.clld.org/v1.0/terms.rdf#source) | list of `string` (separated by `;`) | References [sources.bib::BibTeX-key](./sources.bib)
-[Name](http://cldf.clld.org/v1.0/terms.rdf#name) | `string` | A recognizable label for the cognateset, typically the reconstructed proto-form and the reconstructed meaning.
-[Form_ID](http://cldf.clld.org/v1.0/terms.rdf#formReference) | `string` | Links to the reconstructed proto-form in FormTable.<br>References [forms.csv::ID](#table-formscsv)
-[Comment](http://cldf.clld.org/v1.0/terms.rdf#comment) | `string` | 
-`Doubt` | `boolean` | Flag indicating (un)certainty of the reconstruction.
-`Level` | `string` | 
-
 ## <a name="table-mediacsv"></a>Table [media.csv](./media.csv)
 
 property | value
@@ -215,51 +194,6 @@ Name/Property | Datatype | Description
 [Path_In_Zip](http://cldf.clld.org/v1.0/terms.rdf#pathInZip) | `string` | 
 [Chapter_ID](http://cldf.clld.org/v1.0/terms.rdf#contributionReference) | `string` | References [chapters.csv::ID](#table-chapterscsv)
 [Conforms_To](http://purl.org/dc/terms/conformsTo) | `string` | 
-
-## <a name="table-cfcsv"></a>Table [cf.csv](./cf.csv)
-
-Etymological dictionaries sometimes mention "negative" results, e.g. groups of lexemes that appear to be cognates but are (temporarily) dismissed as proper cognates; for example the "noise" and "near" categories in the ACD. This includes the better defined category of loans where members of the group will be listed in BorrowingTable.
-
-property | value
- --- | ---
-[dc:extent](http://purl.org/dc/terms/extent) | 934
-
-
-### Columns
-
-Name/Property | Datatype | Description
- --- | --- | --- 
-[ID](http://cldf.clld.org/v1.0/terms.rdf#id) | `string` | Primary key
-[Name](http://cldf.clld.org/v1.0/terms.rdf#name) | `string` | The title of a table of related forms; typically hints at the type of relation between the forms or between the group of forms and an etymon.
-[Description](http://cldf.clld.org/v1.0/terms.rdf#description) | `string` | 
-`Category` | `string` | An optional category for groups of forms such as "loans".
-[Comment](http://cldf.clld.org/v1.0/terms.rdf#comment) | `string` | 
-[Cognateset_ID](http://cldf.clld.org/v1.0/terms.rdf#cognatesetReference) | `string` | Links to an etymon, if the group of lexemes is related to one.<br>References [cognatesets.csv::ID](#table-cognatesetscsv)
-`CognatesetReference_ID` | `string` | References [cognatesetreferences.csv::ID](#table-cognatesetreferencescsv)
-[Chapter_ID](http://cldf.clld.org/v1.0/terms.rdf#contributionReference) | `string` | References [chapters.csv::ID](#table-chapterscsv)
-
-## <a name="table-cfitemscsv"></a>Table [cfitems.csv](./cfitems.csv)
-
-Membership of forms in a "cf" group is mediated through this association table unless more meaningful alternatives are available, like BorrowingTable for loans.
-
-property | value
- --- | ---
-[dc:extent](http://purl.org/dc/terms/extent) | 3923
-
-
-### Columns
-
-Name/Property | Datatype | Description
- --- | --- | --- 
-[ID](http://cldf.clld.org/v1.0/terms.rdf#id) | `string` | Primary key
-`Cfset_ID` | `string` | References [cf.csv::ID](#table-cfcsv)
-[Form_ID](http://cldf.clld.org/v1.0/terms.rdf#formReference) | `string` | References [forms.csv::ID](#table-formscsv)
-[Comment](http://cldf.clld.org/v1.0/terms.rdf#comment) | `string` | 
-[Source](http://cldf.clld.org/v1.0/terms.rdf#source) | list of `string` (separated by `;`) | References [sources.bib::BibTeX-key](./sources.bib)
-`Footnote_Number` | `string` | 
-`Ordinal` | `integer` | 
-`Gloss_IDs` | list of `string` (separated by ` `) | References [glosses.csv::ID](#table-glossescsv)
-`Subgroup` | `string` | 
 
 ## <a name="table-taxacsv"></a>Table [taxa.csv](./taxa.csv)
 
@@ -330,6 +264,72 @@ Name/Property | Datatype | Description
 `label` | `string` | 
 `Movement_Gloss` | list of `string` (separated by `	`) | 
 
+## <a name="table-cognatesetscsv"></a>Table [cognatesets.csv](./cognatesets.csv)
+
+property | value
+ --- | ---
+[dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF CognatesetTable](http://cldf.clld.org/v1.0/terms.rdf#CognatesetTable)
+[dc:extent](http://purl.org/dc/terms/extent) | 2821
+
+
+### Columns
+
+Name/Property | Datatype | Description
+ --- | --- | --- 
+[ID](http://cldf.clld.org/v1.0/terms.rdf#id) | `string`<br>Regex: `[a-zA-Z0-9_\-]+` | Primary key
+[Description](http://cldf.clld.org/v1.0/terms.rdf#description) | `string` | 
+[Source](http://cldf.clld.org/v1.0/terms.rdf#source) | list of `string` (separated by `;`) | References [sources.bib::BibTeX-key](./sources.bib)
+[Name](http://cldf.clld.org/v1.0/terms.rdf#name) | `string` | A recognizable label for the cognateset, typically the reconstructed proto-form and the reconstructed meaning.
+[Form_ID](http://cldf.clld.org/v1.0/terms.rdf#formReference) | `string` | Links to the reconstructed proto-form in FormTable.<br>References [forms.csv::ID](#table-formscsv)
+[Comment](http://cldf.clld.org/v1.0/terms.rdf#comment) | `string` | 
+`Doubt` | `boolean` | Flag indicating (un)certainty of the reconstruction.
+`Level` | `string` | 
+
+## <a name="table-cfcsv"></a>Table [cf.csv](./cf.csv)
+
+Etymological dictionaries sometimes mention "negative" results, e.g. groups of lexemes that appear to be cognates but are (temporarily) dismissed as proper cognates; for example the "noise" and "near" categories in the ACD. This includes the better defined category of loans where members of the group will be listed in BorrowingTable.
+
+property | value
+ --- | ---
+[dc:extent](http://purl.org/dc/terms/extent) | 934
+
+
+### Columns
+
+Name/Property | Datatype | Description
+ --- | --- | --- 
+[ID](http://cldf.clld.org/v1.0/terms.rdf#id) | `string` | Primary key
+[Name](http://cldf.clld.org/v1.0/terms.rdf#name) | `string` | The title of a table of related forms; typically hints at the type of relation between the forms or between the group of forms and an etymon.
+[Description](http://cldf.clld.org/v1.0/terms.rdf#description) | `string` | 
+`Category` | `string` | An optional category for groups of forms such as "loans".
+[Comment](http://cldf.clld.org/v1.0/terms.rdf#comment) | `string` | 
+[Cognateset_ID](http://cldf.clld.org/v1.0/terms.rdf#cognatesetReference) | `string` | Links to an etymon, if the group of lexemes is related to one.<br>References [cognatesets.csv::ID](#table-cognatesetscsv)
+`CognatesetReference_ID` | `string` | References [cognatesetreferences.csv::ID](#table-cognatesetreferencescsv)
+[Chapter_ID](http://cldf.clld.org/v1.0/terms.rdf#contributionReference) | `string` | References [chapters.csv::ID](#table-chapterscsv)
+
+## <a name="table-cfitemscsv"></a>Table [cfitems.csv](./cfitems.csv)
+
+Membership of forms in a "cf" group is mediated through this association table unless more meaningful alternatives are available, like BorrowingTable for loans.
+
+property | value
+ --- | ---
+[dc:extent](http://purl.org/dc/terms/extent) | 3923
+
+
+### Columns
+
+Name/Property | Datatype | Description
+ --- | --- | --- 
+[ID](http://cldf.clld.org/v1.0/terms.rdf#id) | `string` | Primary key
+`Cfset_ID` | `string` | References [cf.csv::ID](#table-cfcsv)
+[Form_ID](http://cldf.clld.org/v1.0/terms.rdf#formReference) | `string` | References [forms.csv::ID](#table-formscsv)
+[Comment](http://cldf.clld.org/v1.0/terms.rdf#comment) | `string` | 
+[Source](http://cldf.clld.org/v1.0/terms.rdf#source) | list of `string` (separated by `;`) | References [sources.bib::BibTeX-key](./sources.bib)
+`Footnote_Number` | `string` | 
+`Ordinal` | `integer` | 
+`Gloss_IDs` | list of `string` (separated by ` `) | References [glosses.csv::ID](#table-glossescsv)
+`Subgroup` | `string` | 
+
 ## <a name="table-cognatesetreferencescsv"></a>Table [cognatesetreferences.csv](./cognatesetreferences.csv)
 
 property | value
@@ -353,7 +353,7 @@ Name/Property | Datatype | Description
 
 property | value
  --- | ---
-[dc:extent](http://purl.org/dc/terms/extent) | 45595
+[dc:extent](http://purl.org/dc/terms/extent) | 45607
 
 
 ### Columns

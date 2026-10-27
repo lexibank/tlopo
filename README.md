@@ -27,9 +27,9 @@ Available online at http://hdl.handle.net/1885/106908
 ![CLTS SoundClass: 59%](etc/badge_sc.svg)
 
 - **Varieties:** 755 (linked to 641 different Glottocodes)
-- **Concepts:** 19,932 (linked to 0 different Concepticon concept sets)
+- **Concepts:** 19,935 (linked to 0 different Concepticon concept sets)
 - **Lexemes:** 43,037
-- **Sources:** 583
+- **Sources:** 584
 - **Synonymy:** 1.02
 - **Cognacy:** 40,960 cognates in 2,821 cognate sets (0 singletons)
 - **Cognate Diversity:** -0.74
@@ -41,7 +41,7 @@ Available online at http://hdl.handle.net/1885/106908
 ## Possible Improvements:
 
 - Languages missing glottocodes: 80/755 (10.60%%)
-- Entries missing sources: 40682/43037 (94.53%%)
+- Entries missing sources: 40678/43037 (94.52%%)
 
 
 # Contributors

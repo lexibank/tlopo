@@ -1432,7 +1432,7 @@ Reflexes of the next item, POc _&ast;ŋoro-ŋorok_ with the gloss ‘cape’ are
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/notsi">Notsi</a></td><td style="white-space: nowrap;"><i>ŋul-ŋul</i></td>
-<td></td>
+<td>'<span>nose</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/madak">Madak</a></td><td style="white-space: nowrap;"><i>ŋo-ŋo</i></td>
@@ -5885,11 +5885,11 @@ POc, like some of its daughter languages, seems to have distinct terms for smoke
 </tr>
 <tr>
 <td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td style="white-space: nowrap;"><i>ʔahu</i></td>
-<td></td>
+<td>'<span>smoke</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td><a href="../languages/niuean">Niuean</a></td><td style="white-space: nowrap;"><i>ahu</i></td>
-<td></td>
+<td>'<span>smoke</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td><a href="../languages/samoan">Samoan</a></td><td style="white-space: nowrap;"><i>asu</i></td>
@@ -5901,7 +5901,7 @@ POc, like some of its daughter languages, seems to have distinct terms for smoke
 </tr>
 <tr>
 <td>Pn</td><td><a href="../languages/rarotongan">Rarotongan</a></td><td style="white-space: nowrap;"><i>au</i></td>
-<td></td>
+<td>'<span>smoke</span>'</td>
 </tr>
 </table>
 

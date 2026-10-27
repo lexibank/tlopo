@@ -513,7 +513,7 @@ kahua,Kahua,kahu1241,Kahua,agw,Papunesia,-10.70,162.19,Austronesian,,SES,,false,
 owa,Owa,owaa1237,Owa,stn,Papunesia,-10.83,162.30,Austronesian,,SES,Mellow2014,false,,OC,,B.8,c4dbad8
 santaana,Santa Ana,sant1414,Santa Ana (Solomon Islands),,Papunesia,-10.83,162.30,Austronesian,,SES,,false,,OC,dialect of Owa,B.8,c4dbad8
 aiwoo,Äiwoo,ayiw1239,Äiwoo,nfl,Papunesia,-10.30,166.32,Austronesian,,TM,,false,Aiwoo;Reefs,OC,,B.8,c8a33fd
-engdewo,Engdewo,nang1262,Nanggu,ngr,Papunesia,-10.74,165.89,Austronesian,,TM,,false,Nagu;Nanggu,OC,,B.8,cff6f00
+engdewo,Engdewo,nang1262,Engdewu,ngr,Papunesia,-10.74,165.89,Austronesian,,TM,,false,Nagu;Nanggu,OC,,B.8,cff6f00
 natugu,Natügu,natu1246,Natügu,ntu,Papunesia,-10.68,165.84,Austronesian,,TM,,false,Lödäi;Nedö,OC,"= Malo, Lodai, Nedo",B.8,cff6f00
 asuboa,Asuboa,asum1237,Asumboa,aua,Papunesia,-11.30,166.50,Austronesian,,TM,,false,Asumboa,OC,,B.8,cffff00
 nebao,Nebao,amba1266,Amba (Solomon Islands),utp,Papunesia,-11.30,166.50,Austronesian,,TM,,false,Aba;Nembao,OC,,B.8,cffff00
@@ -647,11 +647,11 @@ jawe,Jawe,jawe1237,Jawe,jaz,Papunesia,-20.66,164.68,Austronesian,,NCal,Haudricou
 pije,Pije,pije1237,Pije,piz,Papunesia,-20.7824,164.942,Austronesian,,NCal,HaudricourtandOzanneRivierre1982,false,,OC,,B.12,ce31a1c
 pwapwa,Pwapwâ,pwap1237,Pwapwa,pop,Papunesia,-20.81,164.56,Austronesian,,NCal,,false,Pwapwa,OC,,B.12,ce31a1c
 nemi,Nemi,nemi1240,Nemi,nem,Papunesia,-20.6791,164.797,Austronesian,,NCal,HaudricourtandOzanneRivierre1982,false,,OC,,B.12,ce31a1c
-nelemwa,Nêlêmwa,nene1250,Nenema,,Papunesia,-20.24,164.03,Austronesian,,NCal,,false,Nelemwa;Nêlêmwâ,OC,,B.12,ce31a1c
-nixumwak,Nixumwak,nucl1483,Kumak,,Papunesia,-20.40,164.19,Austronesian,,NCal,,false,Koumak;Koumac;Kumak,OC,,B.12,ce31a1c
+nelemwa,Nêlêmwa,nene1250,Nêlêmwa,,Papunesia,-20.24,164.03,Austronesian,,NCal,,false,Nelemwa;Nêlêmwâ,OC,,B.12,ce31a1c
+nixumwak,Nixumwak,nucl1483,Nixumwak,,Papunesia,-20.40,164.19,Austronesian,,NCal,,false,Koumak;Koumac;Kumak,OC,,B.12,ce31a1c
 nyelayu,Nyelâyu,bala1316,Balade,,Papunesia,-20.25,164.20,Austronesian,,NCal,OzanneRivierre1998,false,Nyelayu,OC,,B.12,ce31a1c
 pwaamei,Pwaamei,pwaa1237,Pwaamei,pme,Papunesia,-20.84,164.77,Austronesian,,NCal,,false,,OC,,B.12,ce31a1c
-yuanga,Yuanga,yuag1237,Yuaga,nua,Papunesia,-20.57,164.51,Austronesian,,NCal,,false,,OC,,B.12,ce31a1c
+yuanga,Yuanga,yuag1237,Zuanga-Yuanga,nua,Papunesia,-20.57,164.51,Austronesian,,NCal,,false,,OC,,B.12,ce31a1c
 vohkone,Voh-Koné,vohk1234,Voh-Kone,,,-20.7991,164.77058,Austronesian,,NCal,,false,Voh-Kone,OC,,B.12,ce31a1c
 bwatoo,Bwatoo,bwat1240,Bwatoo,bwa,Papunesia,-21.16,164.82,Austronesian,,NCal,,false,,OC,,B.12,ce31a1c
 wahmwaang,Wahmwaang,waam1236,Waamwang,wmn,Papunesia,-20.50,164.41,Austronesian,,NCal,,false,,OC,,B.12,ce31a1c

@@ -8,7 +8,7 @@ cldfbench lexibank.makecldf lexibank_tlopo.py --glottolog-version v5.3
 
 Validate it:
 ```shell
-cldf validate cldf/
+cldf validate cldf/ --with-cldf-markdown
 ```
 
 Create the metadata:

@@ -13,6 +13,7 @@ chardet==5.2.0
 cldfcatalog==1.6.0
 -e git+https://github.com/cldf/cldfviz@69f2931eaae2e12fca7baa952a4cc1d7526e616b#egg=cldfviz
 cldfzenodo==3.0.0
+clld==11.5.4
 clldutils==4.0.0
 colorama==0.4.6
 colorlog==6.9.0
@@ -48,17 +49,18 @@ pandas==2.2.3
 platformdirs==4.3.6
 pluggy==1.5.0
 prettytable==3.17.0
+psycopg2==2.9.12
 pycdstar==1.1.0
 pycldf==2.0.2
 pyclts==4.0.2
 pyconcepticon==4.0.0
 pycountry==24.6.1
--e git+https://github.com/lexibank/pyetymdict@b05514b641a10084616068c238e15ce70b6fbbe6#egg=pyetymdict
+-e git+https://github.com/lexibank/pyetymdict@0e27e665fc550b46a06f581ff481d8bfd6e8b775#egg=pyetymdict
 pygbif==0.6.5
 pyglottolog==4.0.0
 pyigt==2.2.0
 pylatexenc==2.10
--e git+https://github.com/lexibank/pylexibank@fb368c5cf09ed19d7b393223fe3f5fdba4760dce#egg=pylexibank
+-e git+https://github.com/lexibank/pylexibank@ef55411da2bfd8ab085213f2cca7a100187623ea#egg=pylexibank
 pyparsing==3.2.1
 pyproj==3.7.1
 pytest==8.3.4
@@ -87,6 +89,7 @@ tomlkit==0.15.0
 toyplot==2.0.0
 toytree==2.0.5
 tqdm==4.67.1
+transaction==5.1
 typing_extensions==4.15.0
 uritemplate==4.1.1
 urllib3==2.7.0

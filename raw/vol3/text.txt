@@ -239,18 +239,18 @@ for Proto Eastern Oceanic by Biggs (1965), Cashmore (1969), Levy & Smith (1970),
 Geraghty (1990); and for Proto Central Papuan by Pawley (1975), Lynch (1978, 1980), and
 Ross (1994a).
 
-     Robert Blust of the University of Hawaii has, in a series of papers (1970, 1980, 1983-84, 1986, 1989)
+     Robert Blust of the University of Hawaii has, in a series of papers (Blust 1970, 1980, 1983-84, 1986, 1989)
 published extensive, alphabetically ordered, lexical reconstructions (with
 supporting cognate sets) for interstages earlier than POc, especially for Proto Austronesian,
 Proto Malaya-Polynesian and Proto Eastern Malaya-Polynesian. He has also written several
-papers investigating specific semantic fields (1980, 1982, 1987, 1994). At the time of writing,
+papers investigating specific semantic fields (Blust 1980, 1982, 1987, 1994). At the time of writing,
 Blust has a major work in progress, the Austronesian Comparative Dictionary (ACD), which
 will bring together all his reconstructions for Proto Austronesian and lower-order stages. This
 is stored in electronic form at the University of Hawaii. The version to which we refer dates
 from 1998.
 
      Several papers predating our project systematically investigated particular semantic
-domains in the lexicon of POc, e.g. Milke (1958), French-Wright (1983), Pawley (1982, 1985),
+domains in the lexicon of POc, e.g. Milke (1958), French-Wright (1983), Pawley (1982b), Pawley and Green (1985),
 Pawley & Green (1985), Frantisek Lichtenberk (1986), R. Walter (1989), and the various
 papers in Pawley & Ross (1994). Ross (1988) contains a substantial number of new POc
 lexical reconstructions, as well as proposed modifications to the reconstructed POc sound
@@ -637,7 +637,7 @@ ern Oceanic).
 
     These criteria are identical to those appli1ed in volumes 1 and 2 except for the addition of
 Temotu (which figures in very few cognate sets). The establishment of Temotu as a primary
-subgroup (Ross & Nᴂss 2007) postdates the publication of volumes 1 and 2. Temotu comprises
+subgroup (Ross & Næss 2007) postdates the publication of volumes 1 and 2. Temotu comprises
 the languages of the Reef Islands, Santa Cruz, Utupua and Vanikoro, located 400 km
 east of the main Solomons archipelago and to the north of Vanuatu (Map 3).
 

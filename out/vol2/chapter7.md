@@ -1710,15 +1710,15 @@ Three forms can be reconstructed for ‘thick’. The third, _&ast;[tubu]tubu[-k
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/tolai">Tolai</a></td><td style="white-space: nowrap;"><i>tubu</i></td>
-<td></td>
+<td>'<span>thick (in dimension)</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td><a href="../languages/lau">Lau</a></td><td style="white-space: nowrap;"><i>ūbu-ūbu-a</i></td>
-<td></td>
+<td>'<span>thick (in dimension)</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td style="white-space: nowrap;"><i>ubu-ubu</i></td>
-<td></td>
+<td>'<span>thick (in dimension)</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td style="white-space: nowrap;"><i>ub-ubu-ʔa</i></td>
@@ -4114,11 +4114,11 @@ Three terms meaning ‘full’ are reconstructable. The first, _&ast;ponuq_, is 
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/lihir">Lihir</a></td><td style="white-space: nowrap;"><i>on</i></td>
-<td></td>
+<td>'<span>full</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/nehan">Nehan</a></td><td style="white-space: nowrap;"><i>won</i></td>
-<td></td>
+<td>'<span>full</span>'</td>
 </tr>
 <tr>
 <td>MM</td><td><a href="../languages/mono">Mono</a></td><td style="white-space: nowrap;"><i>honu</i></td>
@@ -4126,7 +4126,7 @@ Three terms meaning ‘full’ are reconstructable. The first, _&ast;ponuq_, is 
 </tr>
 <tr>
 <td>SES</td><td><a href="../languages/gela">Gela</a></td><td style="white-space: nowrap;"><i>vonu</i></td>
-<td></td>
+<td>'<span>full</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td><a href="../languages/talise">Talise</a></td><td style="white-space: nowrap;"><i>vonu</i></td>
@@ -4138,11 +4138,11 @@ Three terms meaning ‘full’ are reconstructable. The first, _&ast;ponuq_, is 
 </tr>
 <tr>
 <td>SES</td><td><a href="../languages/kwaio">Kwaio</a></td><td style="white-space: nowrap;"><i>fonu</i></td>
-<td></td>
+<td>'<span>full</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td><a href="../languages/arosi">Arosi</a></td><td style="white-space: nowrap;"><i>honu</i></td>
-<td></td>
+<td>'<span>full</span>'</td>
 </tr>
 <tr>
 <td>NCal</td><td><a href="../languages/nemi">Nemi</a></td><td style="white-space: nowrap;"><i>punuk</i></td>
@@ -4150,11 +4150,11 @@ Three terms meaning ‘full’ are reconstructable. The first, _&ast;ponuq_, is 
 </tr>
 <tr>
 <td>Mic</td><td><a href="../languages/kiribati">Kiribati</a></td><td style="white-space: nowrap;"><i>on</i></td>
-<td></td>
+<td>'<span>full</span>'</td>
 </tr>
 <tr>
 <td>Pn</td><td><a href="../languages/tongan">Tongan</a></td><td style="white-space: nowrap;"><i>fonu</i></td>
-<td></td>
+<td>'<span>full</span>'</td>
 </tr>
 </table>
 
@@ -4193,7 +4193,7 @@ Three terms meaning ‘full’ are reconstructable. The first, _&ast;ponuq_, is 
 </tr>
 <tr>
 <td>SES</td><td><a href="../languages/lau">Lau</a></td><td style="white-space: nowrap;"><i>fuŋu</i></td>
-<td></td>
+<td>'<span>full</span>'</td>
 </tr>
 <tr>
 <td>SES</td><td><a href="../languages/kwai">Kwai</a></td><td style="white-space: nowrap;"><i>fuŋu</i></td>
@@ -4771,7 +4771,7 @@ Three terms are reconstructable for ‘hot, warm’, POc _&ast;[ma]panas_, POc _
 </tr>
 <tr>
 <td>SV</td><td><a href="../languages/anejom">Anejom̃</a></td><td style="white-space: nowrap;"><i>a-hen-hen</i></td>
-<td></td>
+<td>'<span>warm, hot</span>'</td>
 </tr>
 <tr>
 <td>Fij</td><td><a href="../languages/rotuman">Rotuman</a></td><td style="white-space: nowrap;"><i>mah-mahana</i></td>

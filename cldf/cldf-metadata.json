@@ -29,13 +29,13 @@
         {
             "rdf:about": "https://github.com/lexibank/tlopo",
             "rdf:type": "prov:Entity",
-            "dc:created": "08c1cc7",
+            "dc:created": "89b3597",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v5.3-29-g87778146f4",
+            "dc:created": "v5.3",
             "dc:title": "Glottolog"
         },
         {
@@ -316,7 +316,7 @@
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
             "dc:description": "Essential data of a concept mapped to Concepticon.",
-            "dc:extent": 19932,
+            "dc:extent": 19935,
             "tableSchema": {
                 "columns": [
                     {
@@ -586,78 +586,6 @@
             "url": "trees.csv"
         },
         {
-            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognatesetTable",
-            "dc:extent": 2821,
-            "tableSchema": {
-                "columns": [
-                    {
-                        "datatype": {
-                            "base": "string",
-                            "format": "[a-zA-Z0-9_\\-]+"
-                        },
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
-                        "required": true,
-                        "name": "ID"
-                    },
-                    {
-                        "datatype": "string",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#description",
-                        "required": false,
-                        "name": "Description"
-                    },
-                    {
-                        "datatype": "string",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
-                        "required": false,
-                        "separator": ";",
-                        "name": "Source"
-                    },
-                    {
-                        "dc:description": "A recognizable label for the cognateset, typically the reconstructed proto-form and the reconstructed meaning.",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
-                        "name": "Name"
-                    },
-                    {
-                        "dc:description": "Links to the reconstructed proto-form in FormTable.",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#formReference",
-                        "name": "Form_ID"
-                    },
-                    {
-                        "dc:conformsTo": "CLDF Markdown",
-                        "dc:format": "text/markdown",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#comment",
-                        "name": "Comment"
-                    },
-                    {
-                        "dc:description": "Flag indicating (un)certainty of the reconstruction.",
-                        "datatype": "boolean",
-                        "name": "Doubt"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Level"
-                    }
-                ],
-                "foreignKeys": [
-                    {
-                        "columnReference": [
-                            "Form_ID"
-                        ],
-                        "reference": {
-                            "resource": "forms.csv",
-                            "columnReference": [
-                                "ID"
-                            ]
-                        }
-                    }
-                ],
-                "primaryKey": [
-                    "ID"
-                ]
-            },
-            "url": "cognatesets.csv"
-        },
-        {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#MediaTable",
             "dc:extent": 342,
             "tableSchema": {
@@ -731,174 +659,6 @@
                 ]
             },
             "url": "media.csv"
-        },
-        {
-            "dc:description": "Etymological dictionaries sometimes mention \"negative\" results, e.g. groups of lexemes that appear to be cognates but are (temporarily) dismissed as proper cognates; for example the \"noise\" and \"near\" categories in the ACD. This includes the better defined category of loans where members of the group will be listed in BorrowingTable.",
-            "dc:extent": 934,
-            "tableSchema": {
-                "columns": [
-                    {
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
-                        "name": "ID"
-                    },
-                    {
-                        "dc:description": "The title of a table of related forms; typically hints at the type of relation between the forms or between the group of forms and an etymon.",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
-                        "name": "Name"
-                    },
-                    {
-                        "dc:conformsTo": "CLDF Markdown",
-                        "dc:format": "text/markdown",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#description",
-                        "name": "Description"
-                    },
-                    {
-                        "dc:description": "An optional category for groups of forms such as \"loans\".",
-                        "name": "Category"
-                    },
-                    {
-                        "dc:conformsTo": "CLDF Markdown",
-                        "dc:format": "text/markdown",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#comment",
-                        "name": "Comment"
-                    },
-                    {
-                        "dc:description": "Links to an etymon, if the group of lexemes is related to one.",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#cognatesetReference",
-                        "name": "Cognateset_ID"
-                    },
-                    {
-                        "name": "CognatesetReference_ID"
-                    },
-                    {
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#contributionReference",
-                        "name": "Chapter_ID"
-                    }
-                ],
-                "foreignKeys": [
-                    {
-                        "columnReference": [
-                            "Cognateset_ID"
-                        ],
-                        "reference": {
-                            "resource": "cognatesets.csv",
-                            "columnReference": [
-                                "ID"
-                            ]
-                        }
-                    },
-                    {
-                        "columnReference": [
-                            "Chapter_ID"
-                        ],
-                        "reference": {
-                            "resource": "chapters.csv",
-                            "columnReference": [
-                                "ID"
-                            ]
-                        }
-                    },
-                    {
-                        "columnReference": [
-                            "CognatesetReference_ID"
-                        ],
-                        "reference": {
-                            "resource": "cognatesetreferences.csv",
-                            "columnReference": [
-                                "ID"
-                            ]
-                        }
-                    }
-                ],
-                "primaryKey": [
-                    "ID"
-                ]
-            },
-            "url": "cf.csv"
-        },
-        {
-            "dc:description": "Membership of forms in a \"cf\" group is mediated through this association table unless more meaningful alternatives are available, like BorrowingTable for loans.",
-            "dc:extent": 3923,
-            "tableSchema": {
-                "columns": [
-                    {
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
-                        "name": "ID"
-                    },
-                    {
-                        "name": "Cfset_ID"
-                    },
-                    {
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#formReference",
-                        "name": "Form_ID"
-                    },
-                    {
-                        "dc:conformsTo": "CLDF Markdown",
-                        "dc:format": "text/markdown",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#comment",
-                        "name": "Comment"
-                    },
-                    {
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
-                        "separator": ";",
-                        "name": "Source"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Footnote_Number"
-                    },
-                    {
-                        "datatype": "integer",
-                        "name": "Ordinal"
-                    },
-                    {
-                        "separator": " ",
-                        "name": "Gloss_IDs"
-                    },
-                    {
-                        "name": "Subgroup"
-                    }
-                ],
-                "foreignKeys": [
-                    {
-                        "columnReference": [
-                            "Form_ID"
-                        ],
-                        "reference": {
-                            "resource": "forms.csv",
-                            "columnReference": [
-                                "ID"
-                            ]
-                        }
-                    },
-                    {
-                        "columnReference": [
-                            "Cfset_ID"
-                        ],
-                        "reference": {
-                            "resource": "cf.csv",
-                            "columnReference": [
-                                "ID"
-                            ]
-                        }
-                    },
-                    {
-                        "columnReference": [
-                            "Gloss_IDs"
-                        ],
-                        "reference": {
-                            "resource": "glosses.csv",
-                            "columnReference": [
-                                "ID"
-                            ]
-                        }
-                    }
-                ],
-                "primaryKey": [
-                    "ID"
-                ]
-            },
-            "url": "cfitems.csv"
         },
         {
             "dc:extent": 1281,
@@ -1135,6 +895,246 @@
             "url": "examples.csv"
         },
         {
+            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognatesetTable",
+            "dc:extent": 2821,
+            "tableSchema": {
+                "columns": [
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-zA-Z0-9_\\-]+"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "required": true,
+                        "name": "ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#description",
+                        "required": false,
+                        "name": "Description"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
+                        "required": false,
+                        "separator": ";",
+                        "name": "Source"
+                    },
+                    {
+                        "dc:description": "A recognizable label for the cognateset, typically the reconstructed proto-form and the reconstructed meaning.",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
+                        "name": "Name"
+                    },
+                    {
+                        "dc:description": "Links to the reconstructed proto-form in FormTable.",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#formReference",
+                        "name": "Form_ID"
+                    },
+                    {
+                        "dc:conformsTo": "CLDF Markdown",
+                        "dc:format": "text/markdown",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#comment",
+                        "name": "Comment"
+                    },
+                    {
+                        "dc:description": "Flag indicating (un)certainty of the reconstruction.",
+                        "datatype": "boolean",
+                        "name": "Doubt"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Level"
+                    }
+                ],
+                "foreignKeys": [
+                    {
+                        "columnReference": [
+                            "Form_ID"
+                        ],
+                        "reference": {
+                            "resource": "forms.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    }
+                ],
+                "primaryKey": [
+                    "ID"
+                ]
+            },
+            "url": "cognatesets.csv"
+        },
+        {
+            "dc:description": "Etymological dictionaries sometimes mention \"negative\" results, e.g. groups of lexemes that appear to be cognates but are (temporarily) dismissed as proper cognates; for example the \"noise\" and \"near\" categories in the ACD. This includes the better defined category of loans where members of the group will be listed in BorrowingTable.",
+            "dc:extent": 934,
+            "tableSchema": {
+                "columns": [
+                    {
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "name": "ID"
+                    },
+                    {
+                        "dc:description": "The title of a table of related forms; typically hints at the type of relation between the forms or between the group of forms and an etymon.",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
+                        "name": "Name"
+                    },
+                    {
+                        "dc:conformsTo": "CLDF Markdown",
+                        "dc:format": "text/markdown",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#description",
+                        "name": "Description"
+                    },
+                    {
+                        "dc:description": "An optional category for groups of forms such as \"loans\".",
+                        "name": "Category"
+                    },
+                    {
+                        "dc:conformsTo": "CLDF Markdown",
+                        "dc:format": "text/markdown",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#comment",
+                        "name": "Comment"
+                    },
+                    {
+                        "dc:description": "Links to an etymon, if the group of lexemes is related to one.",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#cognatesetReference",
+                        "name": "Cognateset_ID"
+                    },
+                    {
+                        "name": "CognatesetReference_ID"
+                    },
+                    {
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#contributionReference",
+                        "name": "Chapter_ID"
+                    }
+                ],
+                "foreignKeys": [
+                    {
+                        "columnReference": [
+                            "Chapter_ID"
+                        ],
+                        "reference": {
+                            "resource": "chapters.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    },
+                    {
+                        "columnReference": [
+                            "Cognateset_ID"
+                        ],
+                        "reference": {
+                            "resource": "cognatesets.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    },
+                    {
+                        "columnReference": [
+                            "CognatesetReference_ID"
+                        ],
+                        "reference": {
+                            "resource": "cognatesetreferences.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    }
+                ],
+                "primaryKey": [
+                    "ID"
+                ]
+            },
+            "url": "cf.csv"
+        },
+        {
+            "dc:description": "Membership of forms in a \"cf\" group is mediated through this association table unless more meaningful alternatives are available, like BorrowingTable for loans.",
+            "dc:extent": 3923,
+            "tableSchema": {
+                "columns": [
+                    {
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "name": "ID"
+                    },
+                    {
+                        "name": "Cfset_ID"
+                    },
+                    {
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#formReference",
+                        "name": "Form_ID"
+                    },
+                    {
+                        "dc:conformsTo": "CLDF Markdown",
+                        "dc:format": "text/markdown",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#comment",
+                        "name": "Comment"
+                    },
+                    {
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
+                        "separator": ";",
+                        "name": "Source"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Footnote_Number"
+                    },
+                    {
+                        "datatype": "integer",
+                        "name": "Ordinal"
+                    },
+                    {
+                        "separator": " ",
+                        "name": "Gloss_IDs"
+                    },
+                    {
+                        "name": "Subgroup"
+                    }
+                ],
+                "foreignKeys": [
+                    {
+                        "columnReference": [
+                            "Form_ID"
+                        ],
+                        "reference": {
+                            "resource": "forms.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    },
+                    {
+                        "columnReference": [
+                            "Cfset_ID"
+                        ],
+                        "reference": {
+                            "resource": "cf.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    },
+                    {
+                        "columnReference": [
+                            "Gloss_IDs"
+                        ],
+                        "reference": {
+                            "resource": "glosses.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    }
+                ],
+                "primaryKey": [
+                    "ID"
+                ]
+            },
+            "url": "cfitems.csv"
+        },
+        {
             "dc:extent": 3097,
             "tableSchema": {
                 "columns": [
@@ -1221,7 +1221,7 @@
             "url": "cognatesetreferences.csv"
         },
         {
-            "dc:extent": 45595,
+            "dc:extent": 45607,
             "tableSchema": {
                 "columns": [
                     {
